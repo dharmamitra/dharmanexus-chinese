@@ -1,0 +1,792 @@
+segmentnr	original	analyzed	translated
+['ZH_T20_1092_022:0345a05_0']	不空羂索神變真言經卷第二十	不空羂索神變真言經卷第二十	Sutra of the Divine Power of the Unfailing Lasso, Scroll 20
+['ZH_T20_1092_022:0345a06_0']	二	二	two
+['ZH_T20_1092_022:0345a08_0']	大唐天竺三藏菩提流志譯	大唐天竺三藏菩提流志譯	Translated by the Tripiṭaka Master Bodhiruci of India during the Great Tang
+['ZH_T20_1092_022:0345a11_17']	無垢光神通解脫壇三昧耶像品第四十六之二世尊復有不空王示現一切幻化三昧耶像。	無垢光神通解脫壇三昧耶像品第四十六之二世尊復有不空王示現一切幻化三昧耶像。	Chapter 46, Part 2: The Samaya Image of the Pure Light Divine Power Liberation Altar, the Second Part of Chapter 46. The World-Honored One further revealed the unfailing king's manifestation of all illusory samayas.🔽White sandalwood incense, tagara incense,
+['ZH_T20_1092_022:0345a12_18', 'ZH_T20_1092_022:0345a13_2', 'ZH_T20_1092_022:0345a14_2']	白栴檀香多誐魚迦反又音迦字斤囉反囉香。🔽烏施羅香丁香。🔽畢㗚迦斤邏反香惹覩嚕佉縛羅儞迦同上香。	白栴檀香多誐魚迦反又音迦字斤囉反囉香。 烏施羅香丁香。 畢㗚迦斤邏反香惹覩嚕佉縛羅儞迦同上香。	Uttara incense, cloves,🔽Bilva incense, jati incense,🔽Sweet pine incense, kuśa root incense,
+['ZH_T20_1092_022:0345a14_9', 'ZH_T20_1092_022:0345a14_16', 'ZH_T20_1092_022:0345a15_6']	甘松香茅香根。🔽欝金香龍腦香。🔽娜米嚕香畢㗚陽愚香。	甘松香茅香根。 欝金香龍腦香。 娜米嚕香畢㗚陽愚香。	Utpala incense, camphor incense,🔽Nāgarāja incense, bilva incense,🔽Frankincense, aloe wood incense,
+['ZH_T20_1092_022:0345a15_13', 'ZH_T20_1092_022:0345a16_1']	熏陸香沈水香。🔽煎香酥合香。	熏陸香沈水香。 煎香酥合香。	Guggulu incense, pine resin incense,
+['ZH_T20_1092_022:0345a16_7']	龍華蓮華鬚。	龍華蓮華鬚。	Dragon flower, lotus stamen,
+['ZH_T20_1092_022:0345a16_12']	量等精治。	量等精治。	Measured and refined,
+['ZH_T20_1092_022:0345a16_19']	取吉宿日蠟和。	取吉宿日蠟和。	Take an auspicious day, mix with wax,
+['ZH_T20_1092_022:0345a17_5']	真言加持千遍。	真言加持千遍。	Incanted a thousand times,
+['ZH_T20_1092_022:0345a17_15']	塐不空王觀世音菩薩。	塐不空王觀世音菩薩。	Mold the unfailing king Avalokiteśvara Bodhisattva.
+['ZH_T20_1092_022:0345a18_5']	身量橫量十六指數。	身量橫量十六指數。	The horizontal size of the body is sixteen fingers.
+['ZH_T20_1092_022:0345a18_10']	三面六臂。	三面六臂。	With three faces and six arms.
+['ZH_T20_1092_022:0345a19_5']	正中大面慈悲熙怡如大梵天面。	正中大面慈悲熙怡如大梵天面。	The main large face is compassionate and serene, like the face of the Great Brahma Heaven.
+['ZH_T20_1092_022:0345a20_3']	眉間一眼首戴天冠冠有化阿彌陀佛。	眉間一眼首戴天冠冠有化阿彌陀佛。	Between the eyebrows is an eye, and on the head is a heavenly crown with a transformed Amitabha Buddha.
+['ZH_T20_1092_022:0345a20_10']	左面怒目可畏。	左面怒目可畏。	The left face has angry eyes that are frightening.
+['ZH_T20_1092_022:0345a20_19']	眉間一眼鬢髮聳竪。	眉間一眼鬢髮聳竪。	Between the eyebrows is an eye, and the hair on the temples stands on end.
+['ZH_T20_1092_022:0345a21_8']	首戴月冠冠有化佛。	首戴月冠冠有化佛。	On the head is a moon crown with a transformed Buddha.
+['ZH_T20_1092_022:0345a21_15']	右面嚬眉努目。	右面嚬眉努目。	The right face has furrowed brows and bulging eyes.
+['ZH_T20_1092_022:0345a22_5']	狗牙上出極大可畏。	狗牙上出極大可畏。	The upper canine teeth protrude, extremely frightening.
+['ZH_T20_1092_022:0345a22_14']	眉間一眼鬢髮聳竪。	眉間一眼鬢髮聳竪。	Between the eyebrows is an eye, and the hair on the temples stands on end.
+['ZH_T20_1092_022:0345a23_4']	首戴月冠冠有化佛。	首戴月冠冠有化佛。	On the head is a moon crown with a transformed Buddha.
+['ZH_T20_1092_022:0345a23_15']	一手持羂索一手執蓮華。	一手持羂索一手執蓮華。	One hand holds a lasso, one hand holds a lotus flower,
+['ZH_T20_1092_022:0345a24_8']	一手持三叉戟一手執鉞斧。	一手持三叉戟一手執鉞斧。	one hand holds a trident, one hand holds an axe,
+['ZH_T20_1092_022:0345a25_3']	一手施無畏一手把如意寶杖。	一手施無畏一手把如意寶杖。	one hand displays fearlessness, and one hand holds a wish-fulfilling jewel staff.
+['ZH_T20_1092_022:0345a25_12']	結加趺坐佩身光焰。	結加趺坐佩身光焰。	Seated in the vajra posture, with a halo of light around the body.
+['ZH_T20_1092_022:0345a26_2']	眾妙天衣珠瓔環釧。	眾妙天衣珠瓔環釧。	Worn with various heavenly garments, pearl necklaces, bracelets,
+['ZH_T20_1092_022:0345a26_11']	種種莊嚴坐蓮華座。	種種莊嚴坐蓮華座。	and various adornments, sitting on a lotus flower seat.
+['ZH_T20_1092_022:0345a27_9']	左塐濕廢多白觀世音菩薩半加趺坐。	左塐濕廢多白觀世音菩薩半加趺坐。	On the left is a white Avalokitesvara Bodhisattva, half-lotus seated.
+['ZH_T20_1092_022:0345a28_3']	右塐多羅菩薩半加趺坐。	右塐多羅菩薩半加趺坐。	To the right, carve Tārā Bodhisattva sitting in half-lotus position.
+['ZH_T20_1092_022:0345a28_12']	華冠衣服寶珠瓔珞。	華冠衣服寶珠瓔珞。	With flower crown, garments, jeweled necklaces,
+['ZH_T20_1092_022:0345a29_2']	耳璫鐶釧如法莊嚴。	耳璫鐶釧如法莊嚴。	earrings, bracelets, adorned according to the Dharma.
+['ZH_T20_1092_022:0345a29_10']	又右邊塐真言者。	又右邊塐真言者。	Also on the right side, carve the mantra practitioner,
+['ZH_T20_1092_022:0345a29_15']	胡跪而坐。	胡跪而坐。	kneeling and sitting,
+['ZH_T20_1092_022:0345a30_7']	一手把蓮華一手掐數珠。	一手把蓮華一手掐數珠。	one hand holding a lotus flower, the other hand holding a rosary,
+['ZH_T20_1092_022:0345a30_12']	瞻仰菩薩。	瞻仰菩薩。	gazing up at the Bodhisattva.
+['ZH_T20_1092_022:0345b01_5']	三像以金綵色綺飾肉色。	三像以金綵色綺飾肉色。	The three images are decorated with gold and brocade, with flesh-colored paint.
+['ZH_T20_1092_022:0345b01_18']	頭冠瓔珞耳璫鐶釧衣服華座。	頭冠瓔珞耳璫鐶釧衣服華座。	Head crowns, necklaces, earrings, bracelets, garments, flower seats,
+['ZH_T20_1092_022:0345b02_4']	若飾像了。	若飾像了。	if the images are finished,
+['ZH_T20_1092_022:0345b02_13']	於閑靜處清淨洗浴。	於閑靜處清淨洗浴。	in a quiet place, bathe and purify oneself.
+['ZH_T20_1092_022:0345b03_4']	以香塗身著淨衣服。	以香塗身著淨衣服。	Anoint the body with incense, wear clean clothes.
+['ZH_T20_1092_022:0345b03_13']	以諸香泥如法摩壇。	以諸香泥如法摩壇。	With various fragrant mud, properly anoint the altar.
+['ZH_T20_1092_022:0345b04_12']	白栴檀香泥沈水香泥欝金香泥用調畫彩。	白栴檀香泥沈水香泥欝金香泥用調畫彩。	White sandalwood incense mud, agarwood incense mud, saffron incense mud are used to adjust the painted colors.
+['ZH_T20_1092_022:0345b05_6']	當中畫一百八葉開敷蓮華。	當中畫一百八葉開敷蓮華。	In the center, paint a fully bloomed lotus flower with one hundred and eight petals.
+['ZH_T20_1092_022:0345b05_15']	四面四角八葉蓮華。	四面四角八葉蓮華。	On the four sides and four corners, paint eight-petaled lotus flowers.
+['ZH_T20_1092_022:0345b06_5']	金剛標界像置蓮臺。	金剛標界像置蓮臺。	Place the vajra-marked boundary image on the lotus platform.
+['ZH_T20_1092_022:0345b07_4']	香水香華種種飲食三白飲食敷獻供養。	香水香華種種飲食三白飲食敷獻供養。	Offer fragrant water, fragrant flowers, various foods, and three kinds of white food as offerings.
+['ZH_T20_1092_022:0345b07_13']	晝夜六時西門趺坐。	晝夜六時西門趺坐。	Sitting in the western direction with legs crossed during the six periods of day and night.
+['ZH_T20_1092_022:0345b08_3']	依不空王觀世音相。	依不空王觀世音相。	Relying on the appearance of Amoghavajra Avalokiteśvara.
+['ZH_T20_1092_022:0345b08_18']	以一切法任持智印金剛身語心印。	以一切法任持智印金剛身語心印。	Using the wisdom seal of upholding all dharmas, the vajra body, speech, and mind seals.
+['ZH_T20_1092_022:0345b09_11']	入真言字輪輪攝觀世音相。	入真言字輪輪攝觀世音相。	Entering the mantra letter wheel, the wheel subsumes the appearance of Avalokiteśvara.
+['ZH_T20_1092_022:0345b10_5']	觀自在智平等輪光三昧耶。	觀自在智平等輪光三昧耶。	The samādhi of the light of the wheel of equality of the wisdom of Avalokiteśvara.
+['ZH_T20_1092_022:0345b11_5']	誦持神通解脫心陀羅尼真言奮怒王真言。	誦持神通解脫心陀羅尼真言奮怒王真言。	Reciting and upholding the dhāraṇī mantra of the mind of spiritual powers and liberation, the mantra of the wrathful king.
+['ZH_T20_1092_022:0345b11_16']	加持不空王觀世音香像。	加持不空王觀世音香像。	Empowering the fragrant image of Amoghavajra Avalokiteśvara.
+['ZH_T20_1092_022:0345b12_6']	令現神通放大光明。	令現神通放大光明。	Causing it to manifest spiritual powers and emit great light.
+['ZH_T20_1092_022:0345b12_15']	照燭道場壇地震動。	照燭道場壇地震動。	Illuminating and illuminating the ritual arena, the earth quakes.
+['ZH_T20_1092_022:0345b13_9']	時真言者於右肩上出大光明。	時真言者於右肩上出大光明。	At that time, the mantra practitioner emits great light from the right shoulder.
+['ZH_T20_1092_022:0345b14_4', 'ZH_T20_1092_022:0345b15_5']	像出聲言善哉善哉大真言者。🔽汝令得證不空王廣大悉輪三昧耶神變悉地。	像出聲言善哉善哉大真言者。 汝令得證不空王廣大悉輪三昧耶神變悉地。	The image speaks with a voice, saying, Excellent, excellent, great mantra practitioner.🔽You have attained the realization of the great samādhi of the vast wheel of Amoghavajra's samādhi, the spiritual powers and accomplishments.
+['ZH_T20_1092_022:0345b15_18']	獲諸最勝不空羂索悉地成就。	獲諸最勝不空羂索悉地成就。	You have attained the most supreme accomplishment of the spiritual powers of the inexhaustible noose.
+['ZH_T20_1092_022:0345b16_8']	汝今堪為時世人民。	汝今堪為時世人民。	You are now able to be for the people of this world
+['ZH_T20_1092_022:0345b16_17']	作大灌頂阿闍梨師。	作大灌頂阿闍梨師。	A great abhiṣeka ācārya teacher.
+['ZH_T20_1092_022:0345b17_3']	得證驗已。	得證驗已。	Once you have attained verification,
+['ZH_T20_1092_022:0345b17_12']	淨處作壇安置香像。	淨處作壇安置香像。	in a pure place, set up an altar and place fragrant images.
+['ZH_T20_1092_022:0345b18_5']	加置不空王觀世音畫像。	加置不空王觀世音畫像。	Additionally set up a painted image of Avalokiteśvara, the Unfailing King.
+['ZH_T20_1092_022:0345b18_14']	一心供養恭敬承事。	一心供養恭敬承事。	Single-mindedly make offerings, respectfully serve,
+['ZH_T20_1092_022:0345b19_13']	誦念神通解脫心陀羅尼真言時數不闕。	誦念神通解脫心陀羅尼真言時數不闕。	and recite the dhāraṇī mantra of the mind of spiritual powers and liberation without fail.
+['ZH_T20_1092_022:0345b20_4']	求出世間種種勝法。	求出世間種種勝法。	Seek various supreme worldly dharmas.
+['ZH_T20_1092_022:0345b20_12']	便得觀世音菩薩。	便得觀世音菩薩。	You will then attain Avalokiteśvara Bodhisattva.
+['ZH_T20_1092_022:0345b21_3']	語相教詔一切諸法。	語相教詔一切諸法。	Speaking and teaching all dharmas.
+['ZH_T20_1092_022:0345b21_16']	此不空王香像曼拏羅三昧耶。	此不空王香像曼拏羅三昧耶。	This maṇḍala samādhi of the unfailing king's fragrant image,
+['ZH_T20_1092_022:0345b22_8']	白栴檀香泥如法摩壇。	白栴檀香泥如法摩壇。	using white sandalwood incense mud, rub the altar according to the Dharma.
+['ZH_T20_1092_022:0345b23_4']	白栴檀香泥欝金香泥沈水香泥。	白栴檀香泥欝金香泥沈水香泥。	White sandalwood incense mud, saffron incense mud, and aloeswood incense mud.
+['ZH_T20_1092_022:0345b23_17']	當心圖畫一百八葉開敷蓮華。	當心圖畫一百八葉開敷蓮華。	In the center, draw a fully bloomed lotus flower with one hundred and eight petals.
+['ZH_T20_1092_022:0345b24_7']	四面四角八葉蓮華。	四面四角八葉蓮華。	On the four sides and four corners, draw eight-petaled lotus flowers.
+['ZH_T20_1092_022:0345b24_12']	幖幟界門。	幖幟界門。	Mark the gates with banners.
+['ZH_T20_1092_022:0345b25_6']	臺上置不空王觀世音香像。	臺上置不空王觀世音香像。	On the platform, place the fragrant image of Avalokiteśvara, the Unfailing King.
+['ZH_T20_1092_022:0345b25_15']	隨心敷飾種種供養。	隨心敷飾種種供養。	Decorate according to your wishes and make various offerings.
+['ZH_T20_1092_022:0345b26_4']	壇西門外側南。	壇西門外側南。	Outside the west gate of the altar, to the south,
+['ZH_T20_1092_022:0345b26_11']	作一肘護摩壇。	作一肘護摩壇。	make a one-cubit homa altar.
+['ZH_T20_1092_022:0345b27_5']	白栴檀木寸截一千八十段。	白栴檀木寸截一千八十段。	One thousand and eighty pieces of white sandalwood wood, each one inch long.
+['ZH_T20_1092_022:0345b27_16']	和塗酥蜜一真言一燒盡。	和塗酥蜜一真言一燒盡。	Mix with ghee and honey, one mantra per burn, until exhausted.
+['ZH_T20_1092_022:0345b28_7']	候無火勢收取是灰。	候無火勢收取是灰。	Wait until there is no more fire, collect the ashes.
+['ZH_T20_1092_022:0345b28_12']	真言千遍。	真言千遍。	Recite the mantra one thousand times.
+['ZH_T20_1092_022:0345b29_3']	淨浴摩身著淨衣服。	淨浴摩身著淨衣服。	Cleanly bathe and anoint the body, wear clean clothes.
+['ZH_T20_1092_022:0345b29_14']	以白芥子和灰加持七遍。	以白芥子和灰加持七遍。	Mix white mustard seeds with the ashes, empower them seven times.
+['ZH_T20_1092_022:0345b30_14']	散撒十方則得觀世音密祐神變身心勇叡。	散撒十方則得觀世音密祐神變身心勇叡。	Scatter them in the ten directions, and you will receive Avalokitesvara's secret protection, spiritual transformation, and courageous mind and body.
+['ZH_T20_1092_022:0345b30_17']	解界。	解界。	Release the boundary.
+['ZH_T20_1092_022:0345c01_5']	加持白芥子水。	加持白芥子水。	Empower white mustard seed water.
+['ZH_T20_1092_022:0345c01_14']	散灑十方及灑身上。	散灑十方及灑身上。	Scatter it in the ten directions and sprinkle it on the body.
+['ZH_T20_1092_022:0345c02_1']	即任餘法。	即任餘法。	Then proceed with the other rituals.
+['ZH_T20_1092_022:0345c02_7']	若加持此灰。	若加持此灰。	If you empower this ash,
+['ZH_T20_1092_022:0345c02_17']	白栴檀香末和塗身者。	白栴檀香末和塗身者。	Mix it with white sandalwood powder and anoint the body.
+['ZH_T20_1092_022:0345c03_5']	往屍陀林中作法。	往屍陀林中作法。	Perform the ritual in a charnel ground.
+['ZH_T20_1092_022:0345c03_16']	則得大自在天一切眷屬。	則得大自在天一切眷屬。	You will gain the respect of all the retinue of Mahesvara,
+['ZH_T20_1092_022:0345c04_6']	藥叉羅剎一切鬼神。	藥叉羅剎一切鬼神。	Yakshas, rakshasas, and all ghosts and spirits.
+['ZH_T20_1092_022:0345c04_15']	悉皆敬伏樂為僕從。	悉皆敬伏樂為僕從。	They will all submit and be happy to serve as attendants.
+['ZH_T20_1092_022:0345c05_5']	若復塗身結印印身。	若復塗身結印印身。	If you further anoint the body and seal the body with the mudra,
+['ZH_T20_1092_022:0345c05_14']	默誦真言入大眾中。	默誦真言入大眾中。	Silently recite the mantra and enter the great assembly.
+['ZH_T20_1092_022:0345c06_4']	則得人民業障消滅。	則得人民業障消滅。	You will cause the karmic hindrances of the people to be eliminated.
+['ZH_T20_1092_022:0345c06_13']	敬事如佛恭敬供養。	敬事如佛恭敬供養。	Respect and serve them as if they were buddhas, making offerings with reverence.
+['ZH_T20_1092_022:0345c07_7']	若復塗身往有龍處大湫水中。	若復塗身往有龍處大湫水中。	If one further anoints one's body and goes to a place where there are dragons, in the water of a great pool,
+['ZH_T20_1092_022:0345c07_18']	則得六十八千大龍王眾。	則得六十八千大龍王眾。	One will obtain the assembly of sixty-eight thousand great dragon kings.
+['ZH_T20_1092_022:0345c08_8']	滅諸罪苦悉皆敬伏。	滅諸罪苦悉皆敬伏。	All will respectfully submit, eliminating various sufferings and sins.
+['ZH_T20_1092_022:0345c08_17']	樂為祐護當任命事。	樂為祐護當任命事。	They will happily assist and protect, carrying out their appointed duties.
+['ZH_T20_1092_022:0345c09_10']	若復塗身往一切貴勝人所。	若復塗身往一切貴勝人所。	If one further anoints one's body and goes to the place of all noble and victorious ones,
+['ZH_T20_1092_022:0345c10_1']	令得滅諸宿障罪惱。	令得滅諸宿障罪惱。	One will enable them to eliminate various karmic hindrances, sufferings, and afflictions.
+['ZH_T20_1092_022:0345c10_10']	供養恭敬乃至命終。	供養恭敬乃至命終。	They will make offerings and respect [the practitioner] until the end of their life.
+['ZH_T20_1092_022:0345c10_19']	若復塗於病者身上。	若復塗於病者身上。	If one further anoints the body of a sick person,
+['ZH_T20_1092_022:0345c11_8']	便得滅除種種病惱。	便得滅除種種病惱。	They will be able to eliminate various illnesses and afflictions.
+['ZH_T20_1092_022:0345c11_17']	身口意業蓋障重罪。	身口意業蓋障重罪。	The heavy sins and hindrances of bodily, verbal, and mental actions,
+['ZH_T20_1092_022:0345c12_7']	以斯因故閉地獄門。	以斯因故閉地獄門。	By this cause, the gates of hell will be closed.
+['ZH_T20_1092_022:0345c12_16']	當生淨土陞不動地。	當生淨土陞不動地。	One will be born in the Pure Land and ascend to the immovable ground.
+['ZH_T20_1092_022:0345c13_6']	此法唯除不中不正。	此法唯除不中不正。	This method is only excluded for those who are unsuitable and incorrect,
+['ZH_T20_1092_022:0345c13_15']	纔諂兩舌嫉妬忿恨。	纔諂兩舌嫉妬忿恨。	Those who are just deceitful, two-faced, jealous, and resentful,
+['ZH_T20_1092_022:0345c14_9']	盜竊一切真言明法大乘經法。	盜竊一切真言明法大乘經法。	Those who steal all mantra methods, great vehicle sūtra methods,
+['ZH_T20_1092_022:0345c14_18']	不知恩義不具正信。	不知恩義不具正信。	Those who do not know gratitude and righteousness, who do not possess right faith,
+['ZH_T20_1092_022:0345c15_10']	不敬和上闍梨父母師長。	不敬和上闍梨父母師長。	Those who do not respect preceptors, teachers, parents, and elders,
+['ZH_T20_1092_022:0345c16_9']	栴茶羅苾芻苾芻尼族姓男族姓女等。	栴茶羅苾芻苾芻尼族姓男族姓女等。	Bhikṣus, bhikṣuṇīs, laymen, laywomen, and so forth.
+['ZH_T20_1092_022:0345c17_7']	是輩亦不敬信我茲陀羅尼真言經典。	是輩亦不敬信我茲陀羅尼真言經典。	These people also do not respectfully believe in this dhāraṇī mantra sūtra of mine.
+['ZH_T20_1092_022:0345c18_7']	亦不敬信諸餘一切甚深陀羅尼真言經典。	亦不敬信諸餘一切甚深陀羅尼真言經典。	They also do not respectfully believe in the other profound dhāraṇī mantra sūtras.
+['ZH_T20_1092_022:0345c18_16']	但以我慢貢傲懱他。	但以我慢貢傲懱他。	But they are arrogant and conceited, despising others.
+['ZH_T20_1092_022:0345c19_10']	恒自歎導毀非他善作諸魔業。	恒自歎導毀非他善作諸魔業。	They always praise themselves and slander others, creating all kinds of demonic activities.
+['ZH_T20_1092_022:0345c20_5']	盜聽盜說一切真言文字章句。	盜聽盜說一切真言文字章句。	They secretly listen to and secretly explain all the mantra texts and phrases.
+['ZH_T20_1092_022:0345c21_3']	不依稟師受持真言曼拏羅印三昧耶。	不依稟師受持真言曼拏羅印三昧耶。	They do not rely on receiving the mantras, maṇḍalas, and samayas from a teacher.
+['ZH_T20_1092_022:0345c21_12']	世尊如是栴茶羅輩。	世尊如是栴茶羅輩。	World-Honored One, such caṇḍālas
+['ZH_T20_1092_022:0345c22_13']	盡為十方三世一切諸佛菩薩摩訶薩常所棄捨。	盡為十方三世一切諸佛菩薩摩訶薩常所棄捨。	are always abandoned by the buddhas, bodhisattvas, and mahāsattvas of the ten directions and three times.
+['ZH_T20_1092_022:0345c23_6']	一切種族真言曼拏羅神。	一切種族真言曼拏羅神。	The deities of all the mantra maṇḍalas of the various buddha families
+['ZH_T20_1092_022:0345c23_15']	一切天神亦盡棄捨。	一切天神亦盡棄捨。	also completely abandon them.
+['ZH_T20_1092_022:0345c24_2']	此栴茶羅輩。	此栴茶羅輩。	These caṇḍālas
+['ZH_T20_1092_022:0345c24_15']	生生受身修諸善業曾無成就。	生生受身修諸善業曾無成就。	are born again and again, receiving bodies and cultivating good karma, but never accomplishing anything.
+['ZH_T20_1092_022:0345c25_9']	過去今身一切善根皆悉燒燼。	過去今身一切善根皆悉燒燼。	All the wholesome roots of their past and present lives are completely burned up.
+['ZH_T20_1092_022:0345c25_18']	後身善根亦已壞爛。	後身善根亦已壞爛。	The wholesome roots of their later lives will also be destroyed.
+['ZH_T20_1092_022:0345c26_8']	以斯因故則非我咎。	以斯因故則非我咎。	For this reason, it is not my fault.
+['ZH_T20_1092_022:0345c26_16']	世尊此旃茶羅輩。	世尊此旃茶羅輩。	World-Honored One, as for these caṇḍāla people,
+['ZH_T20_1092_022:0345c27_8']	若有能誡能悔無明黑暗。	若有能誡能悔無明黑暗。	If they are able to admonish and repent of the darkness of ignorance,
+['ZH_T20_1092_022:0345c27_17', 'ZH_T20_1092_022:0345c28_7']	貪瞋癡等眾惡業行。🔽專以無量善巧方便。	貪瞋癡等眾惡業行。 專以無量善巧方便。	The evil karmic actions of greed, anger, and delusion,
+['ZH_T20_1092_022:0345c29_2']	精勤不退至心憶念諸佛如來。	精勤不退至心憶念諸佛如來。	Single-mindedly recollecting the buddhas and tathāgatas with immeasurable skillful means,
+['ZH_T20_1092_022:0345c29_7']	懇修淨行。	懇修淨行。	And diligently practicing pure conduct,
+['ZH_T20_1092_022:0345c30_1']	則得世間少分功德而便成就。	則得世間少分功德而便成就。	They will then attain a small portion of worldly merits and accomplish them.
+['ZH_T20_1092_022:0345c30_10']	復有有情自性純善。	復有有情自性純善。	Moreover, there are sentient beings whose nature is purely wholesome,
+['ZH_T20_1092_022:0345c30_19']	無諸惡見以法修心。	無諸惡見以法修心。	Without various evil views, cultivating their minds with the Dharma,
+['ZH_T20_1092_022:0346a01_8']	被大慈甲執大悲刀。	被大慈甲執大悲刀。	Wearing the armor of great compassion, wielding the sword of great compassion,
+['ZH_T20_1092_022:0346a01_13']	踞忍辱地。	踞忍辱地。	Sitting on the ground of patient acceptance,
+['ZH_T20_1092_022:0346a02_3']	於諸有情心常謙下。	於諸有情心常謙下。	Always humble in their minds towards all sentient beings,
+['ZH_T20_1092_022:0346a02_16']	敬事憐愍心不厭捨意極猗適。	敬事憐愍心不厭捨意極猗適。	Respecting and caring for them without wearying or abandoning them, their minds filled with joy and comfort.
+['ZH_T20_1092_022:0346a04_1']	世尊此人我即許可成是不空王香觀世音像三昧耶。	世尊此人我即許可成是不空王香觀世音像三昧耶。	World-Honored One, I would then permit these people to accomplish the samadhi of the Akasagarbhadharani.
+['ZH_T20_1092_022:0346a04_10']	復有有情諸見永寂。	復有有情諸見永寂。	Moreover, there are sentient beings whose views are eternally tranquil,
+['ZH_T20_1092_022:0346a05_4']	法無相行於諸有情視之如佛。	法無相行於諸有情視之如佛。	The Dharma is without characteristics, and one should regard all sentient beings as Buddhas.
+['ZH_T20_1092_022:0346a05_13']	聞所未聞陀羅尼經。	聞所未聞陀羅尼經。	One should listen to the dhāraṇī sūtras that have not been heard before.
+['ZH_T20_1092_022:0346a06_7']	心不疑惑不嫉彼好不讚己利。	心不疑惑不嫉彼好不讚己利。	One should not be doubtful, jealous of others' goodness, or praise one's own benefits.
+['ZH_T20_1092_022:0346a07_2']	常相應心觀覩我之香像之者。	常相應心觀覩我之香像之者。	One should always contemplate with a harmonious mind those who behold my fragrant image.
+['ZH_T20_1092_022:0346a07_15']	即如見我清淨法身功德無異。	即如見我清淨法身功德無異。	It is as if they see my pure Dharma body, with no difference in merit.
+['ZH_T20_1092_022:0346a09_2']	又如等見九十四殑伽沙俱胝那庾多百千諸佛無量功德。	又如等見九十四殑伽沙俱胝那庾多百千諸佛無量功德。	It is also like equally seeing the immeasurable merits of ninety-four koṭīs of nayutas of hundreds of thousands of Buddhas, equal to the sands of the Ganges River.
+['ZH_T20_1092_022:0346a11_1']	世尊又法若苾芻苾芻尼國王大臣一切人民。	世尊又法若苾芻苾芻尼國王大臣一切人民。	World-Honored One, if there are bhikṣus, bhikṣuṇīs, kings, ministers, and all the people,
+['ZH_T20_1092_022:0346a12_1']	倖欲求見觀世音菩薩補陀洛山寶宮殿中。	倖欲求見觀世音菩薩補陀洛山寶宮殿中。	who wish to see Avalokitêśvara Bodhisattva's precious palace on Mount Potala,
+['ZH_T20_1092_022:0346a12_15']	十方三世一切諸佛菩薩摩訶薩。	十方三世一切諸佛菩薩摩訶薩。	the Buddhas and Bodhisattva Mahāsattvas of the ten directions and three times,
+['ZH_T20_1092_022:0346a13_5']	苦行諸仙三十三天。	苦行諸仙三十三天。	the ascetics, the thirty-three celestials,
+['ZH_T20_1092_022:0346a13_18']	一切天神轉法輪會不退地者。	一切天神轉法輪會不退地者。	and all the celestial spirits who have attained the stage of irreversibility in the Dharma-wheel assembly,
+['ZH_T20_1092_022:0346a15_9']	復欲樂見十方三世一切如來種族會通一切大曼拏羅印三昧耶者。	復欲樂見十方三世一切如來種族會通一切大曼拏羅印三昧耶者。	and who also wish to see the assemblies of all Tathāgatas of the ten directions and three times, and to understand all the great maṇḍala mudrās and samādhis of the great maṇḍala,
+['ZH_T20_1092_022:0346a16_11']	一切金剛種族會通一切大曼拏羅印三昧耶者。	一切金剛種族會通一切大曼拏羅印三昧耶者。	The method for all Vajra family members to enter the great maṇḍala mudrā samaya of all families.
+['ZH_T20_1092_022:0346a17_10']	又復求諸如來神通三昧耶示眾人民者。	又復求諸如來神通三昧耶示眾人民者。	Moreover, those who seek the samādhi of the Tathāgata's spiritual powers to show to the masses,
+['ZH_T20_1092_022:0346a18_1']	應常精進持無間行。	應常精進持無間行。	Should always diligently uphold uninterrupted practice.
+['ZH_T20_1092_022:0346a18_10']	忍辱無退內外清淨。	忍辱無退內外清淨。	With forbearance and non-retrogression, internally and externally pure,
+['ZH_T20_1092_022:0346a18_19']	恒勤修行此三昧耶。	恒勤修行此三昧耶。	Always diligently cultivate this samādhi.
+['ZH_T20_1092_022:0346a19_12']	心不疑慮云我今所治是法者。	心不疑慮云我今所治是法者。	Do not doubt in the mind, thinking The Dharma I am practicing now,
+['ZH_T20_1092_022:0346a20_3']	為有成耶為不成耶。	為有成耶為不成耶。	Is it accomplished or not accomplished?
+['ZH_T20_1092_022:0346a20_8']	則得成就。	則得成就。	Then one will attain accomplishment.
+['ZH_T20_1092_022:0346a20_13']	應當如法。	應當如法。	One should be in accordance with the Dharma.
+['ZH_T20_1092_022:0346a21_7']	加持金造不空王觀世音菩薩。	加持金造不空王觀世音菩薩。	Empower with the mantra a golden Akṣobhya Avalokiteśvara Bodhisattva.
+['ZH_T20_1092_022:0346a21_12']	三面六臂。	三面六臂。	With three faces and six arms.
+['ZH_T20_1092_022:0346a22_6', 'ZH_T20_1092_022:0346a23_1']	正中大面慈悲熙怡眉間一眼。🔽左面顰眉怒目可畏眉間一眼。	正中大面慈悲熙怡眉間一眼。 左面顰眉怒目可畏眉間一眼。	The central large face is compassionate and kind, with an eye in the middle of the eyebrows.🔽The left face is frowning, with bulging eyes, fearsome, and an eye in the middle of the eyebrows.
+['ZH_T20_1092_022:0346a23_12']	右面顰眉奮目狗牙上出。	右面顰眉奮目狗牙上出。	The right face is frowning, with bulging eyes, upper teeth protruding,
+['ZH_T20_1092_022:0346a24_2']	極大可畏眉間一眼。	極大可畏眉間一眼。	Extremely fearsome, with an eye in the middle of the eyebrows.
+['ZH_T20_1092_022:0346a24_18']	三首寶冠冠有化阿彌陀佛鬢髮聳竪。	三首寶冠冠有化阿彌陀佛鬢髮聳竪。	The three-headed jeweled crown has a transformed Amitābha Buddha, with hair standing on end.
+['ZH_T20_1092_022:0346a25_11', 'ZH_T20_1092_022:0346a26_5']	一手持羂索一手執三叉戟。🔽一手持鉞斧一手把如意杖。	一手持羂索一手執三叉戟。 一手持鉞斧一手把如意杖。	One hand holding a lasso, one hand holding a trident,🔽One hand holding an axe, one hand holding a wish-fulfilling staff,
+['ZH_T20_1092_022:0346a27_2']	一手持澡罐口吐蓮華一手施無畏。	一手持澡罐口吐蓮華一手施無畏。	One hand holding a water pot with a lotus flower emerging from the mouth, one hand in the gesture of fearlessness,
+['ZH_T20_1092_022:0346a27_11']	結加趺坐佩身光焰。	結加趺坐佩身光焰。	Seated in full lotus posture, radiating light from the body.
+['ZH_T20_1092_022:0346a28_2']	眾妙天衣寶珠瓔珞。	眾妙天衣寶珠瓔珞。	Wearing various celestial garments, jeweled necklaces,
+['ZH_T20_1092_022:0346a28_11']	耳璫環釧種種莊嚴。	耳璫環釧種種莊嚴。	Ear ornaments, bracelets, and various adornments.
+['ZH_T20_1092_022:0346a28_16']	像腹內空。	像腹內空。	The image's belly is hollow.
+['ZH_T20_1092_022:0346a29_7']	白栴檀末香龍腦末香。	白栴檀末香龍腦末香。	White sandalwood powder and camphor powder,
+['ZH_T20_1092_022:0346a29_16']	和佛舍利一百八粒。	和佛舍利一百八粒。	Mixed with 108 grains of Buddha relics,
+['ZH_T20_1092_022:0346b01_6', 'ZH_T20_1092_022:0346b01_18']	內像腹中滿填如法。🔽左銀濕廢多菩薩半加趺坐。	內像腹中滿填如法。 左銀濕廢多菩薩半加趺坐。	Fill the image's belly according to the Dharma.🔽On the left, a silver Avalokiteśvara Bodhisattva is seated in half-lotus posture,
+['ZH_T20_1092_022:0346b02_10']	右銀多羅菩薩半加趺坐。	右銀多羅菩薩半加趺坐。	And on the right, a silver Tārā Bodhisattva is seated in half-lotus posture.
+['ZH_T20_1092_022:0346b03_5']	華冠瓔珞環釧衣服金寶莊嚴。	華冠瓔珞環釧衣服金寶莊嚴。	Wearing flower crowns, necklaces, bracelets, garments, gold, and jeweled ornaments.
+['ZH_T20_1092_022:0346b03_17']	又鑄阿彌陀佛釋迦牟尼佛。	又鑄阿彌陀佛釋迦牟尼佛。	Also cast are Amitābha Buddha and Śākyamuni Buddha,
+['ZH_T20_1092_022:0346b04_7']	結加趺坐如法莊嚴。	結加趺坐如法莊嚴。	Seated in full lotus posture, adorned according to the Dharma.
+['ZH_T20_1092_022:0346b04_12']	坐蓮華樹。	坐蓮華樹。	Sitting on a lotus flower tree,
+['ZH_T20_1092_022:0346b05_4']	其樹枝條華葉三十二枝。	其樹枝條華葉三十二枝。	The tree has 32 branches with flowers and leaves.
+['ZH_T20_1092_022:0346b05_9']	三枝蓮上。	三枝蓮上。	On the three branches above the lotus,
+['ZH_T20_1092_022:0346b05_19']	中不空王觀世音菩薩。	中不空王觀世音菩薩。	In the middle is the Bodhisattva Akasagarbha Avalokitesvara.
+['ZH_T20_1092_022:0346b06_6']	左濕廢多菩薩。	左濕廢多菩薩。	On the left is the Bodhisattva Sthira.
+['ZH_T20_1092_022:0346b06_12']	右多羅菩薩。	右多羅菩薩。	On the right is the Bodhisattva Tara.
+['ZH_T20_1092_022:0346b07_8']	又二枝蓮上阿彌陀佛釋迦牟尼佛。	又二枝蓮上阿彌陀佛釋迦牟尼佛。	Moreover, on the two branches of the lotus are Amitabha Buddha and Shakyamuni Buddha.
+['ZH_T20_1092_022:0346b08_3']	面側相向當於左右菩薩頂上。	面側相向當於左右菩薩頂上。	Their faces are turned towards each other, above the heads of the two bodhisattvas on the left and right.
+['ZH_T20_1092_022:0346b08_16']	二蓮華枝在二菩薩背後起上。	二蓮華枝在二菩薩背後起上。	The two branches of lotus flowers rise above the backs of the two bodhisattvas.
+['ZH_T20_1092_022:0346b09_6']	其蓮華樹芽莖枝葉。	其蓮華樹芽莖枝葉。	The lotus tree has buds, stems, branches, leaves,
+['ZH_T20_1092_022:0346b09_15']	華臺敷色種種莊已。	華臺敷色種種莊已。	and flower pedestals of various colors and adornments.
+['ZH_T20_1092_022:0346b10_9']	白月八日方圓八肘淨治壇地。	白月八日方圓八肘淨治壇地。	On the eighth day of the white half-month, in a place eight cubits in diameter, purify the altar ground.
+['ZH_T20_1092_022:0346b10_18', 'ZH_T20_1092_022:0346b12_10', 'ZH_T20_1092_022:0346b13_16']	精潔摩飾規式界院。🔽內院當中毘盧遮那如來一切諸佛白香象種族菩薩摩訶薩坐蓮華座。🔽東面阿閦如來一切諸佛金剛種族菩薩摩訶薩坐蓮華座。	精潔摩飾規式界院。 內院當中毘盧遮那如來一切諸佛白香象種族菩薩摩訶薩坐蓮華座。 東面阿閦如來一切諸佛金剛種族菩薩摩訶薩坐蓮華座。	Clean and polish it, and demarcate the courtyard according to the rules.🔽In the center of the inner courtyard is Vairocana Tathagata, all buddhas, the bodhisattva mahasattva of the white fragrant elephant clan, sitting on a lotus flower seat.🔽On the east side is Akshobhya Tathagata, all buddhas, the bodhisattva mahasattva of the vajra clan, sitting on a lotus flower seat.
+['ZH_T20_1092_022:0346b15_4']	南面寶生如來一切諸佛摩尼種族菩薩摩訶薩坐蓮華座。	南面寶生如來一切諸佛摩尼種族菩薩摩訶薩坐蓮華座。	On the south side is Ratnasaṃbhava Tathagata, all buddhas, the bodhisattva mahasattva of the maṇi clan, sitting on a lotus flower seat.
+['ZH_T20_1092_022:0346b16_12']	西面觀自在王如來一切諸佛蓮華種族菩薩摩訶薩坐蓮華座。	西面觀自在王如來一切諸佛蓮華種族菩薩摩訶薩坐蓮華座。	On the west side is Avalokiteśvara King Tathāgata, all buddhas, and bodhisattva-mahāsattvas of the lotus family sitting on lotus seats.
+['ZH_T20_1092_022:0346b18_6']	北面不空成就如來一切諸佛一切不空成就種族菩薩摩訶薩坐蓮華座。	北面不空成就如來一切諸佛一切不空成就種族菩薩摩訶薩坐蓮華座。	On the north side is Amoghasiddhi Tathāgata, all buddhas, and bodhisattva-mahāsattvas of the Amoghasiddhi family sitting on lotus seats.
+['ZH_T20_1092_022:0346b18_15']	次院東面一切諸天。	次院東面一切諸天。	In the next courtyard, on the east side are all the devas.
+['ZH_T20_1092_022:0346b19_3']	當門補陀洛山。	當門補陀洛山。	At the gate is Potala Mountain.
+['ZH_T20_1092_022:0346b19_18']	頂上多羅菩薩并諸侍者菩薩圍坐。	頂上多羅菩薩并諸侍者菩薩圍坐。	On the peak is Tārā Bodhisattva surrounded by attendant bodhisattvas sitting.
+['ZH_T20_1092_022:0346b20_8']	南面一切天仙當門。	南面一切天仙當門。	On the south side are all the celestial immortals at the gate.
+['ZH_T20_1092_022:0346b21_5']	蘇陀盧山上有三十三天七寶宮殿。	蘇陀盧山上有三十三天七寶宮殿。	On Mount Sudarśana is the thirty-three celestials' palace made of the seven treasures.
+['ZH_T20_1092_022:0346b21_15']	難陀龍王跋難陀龍王。	難陀龍王跋難陀龍王。	Nanda Dragon King and Upananda Dragon King.
+['ZH_T20_1092_022:0346b22_4']	左右繳山腰上。	左右繳山腰上。	On the sides, winding around the mountain waist.
+['ZH_T20_1092_022:0346b23_1']	殿中半拏羅婆枲儞白觀世音菩薩。	殿中半拏羅婆枲儞白觀世音菩薩。	In the palace is Pañjara-vaṭa-sini White Avalokiteśvara Bodhisattva.
+['ZH_T20_1092_022:0346b23_9']	後一髻羅剎女神。	後一髻羅剎女神。	Behind is Ekajaṭī Rākṣasī Goddess.
+['ZH_T20_1092_022:0346b23_19']	西面七商迦里金剛神。	西面七商迦里金剛神。	On the west side are the seven Śaṅkara Vajra Devas.
+['ZH_T20_1092_022:0346b24_6']	當門鷄羅娑山。	當門鷄羅娑山。	At the gate is Kailāśa Mountain.
+['ZH_T20_1092_022:0346b25_4']	頂上㫊拏梵摩羅剎神及一切天神。	頂上㫊拏梵摩羅剎神及一切天神。	On the peak is Ucchuṣma Rākṣasa Deity and all the celestial deities.
+['ZH_T20_1092_022:0346b25_12']	北面七多羅天女。	北面七多羅天女。	Seven Tārā goddesses facing north.
+['ZH_T20_1092_022:0346b26_3']	當門乾陀摩娜香醉山。	當門乾陀摩娜香醉山。	Gandhamādana fragrant mountain at the gate.
+['ZH_T20_1092_022:0346b26_13']	頂上毘俱胝金剛菩薩。	頂上毘俱胝金剛菩薩。	On top, Vajravidāraṇa Bodhisattva.
+['ZH_T20_1092_022:0346b27_5']	後七毘俱胝神侍者圍繞。	後七毘俱胝神侍者圍繞。	Surrounded by seven Vajravidāraṇa deities in the back.
+['ZH_T20_1092_022:0346b27_13']	及一切乾闥婆神。	及一切乾闥婆神。	And all Gandharva deities.
+['ZH_T20_1092_022:0346b28_5']	其四山上種種寶樹華果。	其四山上種種寶樹華果。	On the four mountains, various jeweled trees with flowers and fruits.
+['ZH_T20_1092_022:0346b28_14']	次院四面開敷蓮華。	次院四面開敷蓮華。	The next courtyard has open lotus flowers on the four sides.
+['ZH_T20_1092_022:0346b29_1']	臺上諸器仗。	臺上諸器仗。	On the pedestals, various weapons.
+['ZH_T20_1092_022:0346b29_6']	印燒火光。	印燒火光。	Mudrās, burning firelight.
+['ZH_T20_1092_022:0346b29_13']	焰四角四天王。	焰四角四天王。	Flames in the four corners, four Heavenly Kings.
+['ZH_T20_1092_022:0346c01_3']	神面目可畏執持器仗。	神面目可畏執持器仗。	Deities with terrifying faces holding weapons.
+['ZH_T20_1092_022:0346c01_12']	是諸天等趺坐而坐。	是諸天等趺坐而坐。	These gods are seated in full lotus position.
+['ZH_T20_1092_022:0346c01_19']	四門閼伽寶瓶。	四門閼伽寶瓶。	Kumbhāṇḍa vases at the four gates.
+['ZH_T20_1092_022:0346c02_8']	其內院界金剛標道。	其內院界金剛標道。	The inner courtyard is marked with vajra paths.
+['ZH_T20_1092_022:0346c02_17']	外院標式七寶界道。	外院標式七寶界道。	The outer courtyard is marked with paths of the seven precious substances.
+['ZH_T20_1092_022:0346c03_11']	當上次第間畫眾色如意寶珠。	當上次第間畫眾色如意寶珠。	Above, in between, draw various colored wish-fulfilling jewels.
+['ZH_T20_1092_022:0346c03_16']	繞火光焰。	繞火光焰。	Surrounded by flames of firelight.
+['ZH_T20_1092_022:0346c04_2']	若圖飾已。	若圖飾已。	If the decorations are finished.
+['ZH_T20_1092_022:0346c04_17']	不空王觀世音菩薩金像置壇心上。	不空王觀世音菩薩金像置壇心上。	An empty king Avalokiteśvara Bodhisattva golden image placed on top of the altar.
+['ZH_T20_1092_022:0346c05_5']	世尊是曼拏羅。	世尊是曼拏羅。	The World-Honored One is the maṇḍala.
+['ZH_T20_1092_022:0346c06_11']	三昧耶能會一切毘盧遮那如來種族一切壇印三昧耶門。	三昧耶能會一切毘盧遮那如來種族一切壇印三昧耶門。	The samaya can gather all the mandala mudras and samaya gates of the Vairocana Tathagata's clan.
+['ZH_T20_1092_022:0346c07_8']	由是說斯不空王種族壇印三昧耶。	由是說斯不空王種族壇印三昧耶。	Therefore, this Akasagarbha clan's mandala mudra samaya is explained.
+['ZH_T20_1092_022:0346c08_7']	為令利益今當一切持真言者得大成就。	為令利益今當一切持真言者得大成就。	In order to benefit and now for all mantra holders to attain great accomplishment,
+['ZH_T20_1092_022:0346c08_16']	此曼拏羅印三昧耶。	此曼拏羅印三昧耶。	this mandala mudra samaya,
+['ZH_T20_1092_022:0346c09_10']	皆是毘盧遮那如來之所演說。	皆是毘盧遮那如來之所演說。	is all that is expounded by the Vairocana Tathagata.
+['ZH_T20_1092_022:0346c11_1']	謂為顯現成就此不空羂索心王陀羅尼真言種種神通大三昧耶。	謂為顯現成就此不空羂索心王陀羅尼真言種種神通大三昧耶。	It is said to manifest the various spiritual powers and great samādhis of this Akāśagarbha Heart Dhāraṇī Mantra.
+['ZH_T20_1092_022:0346c11_8']	是故持真言者。	是故持真言者。	Therefore, mantra holders,
+['ZH_T20_1092_022:0346c11_17']	應常精勤不念世法。	應常精勤不念世法。	should always be diligent and not think of worldly dharmas.
+['ZH_T20_1092_022:0346c12_6']	智念實相堅等金剛。	智念實相堅等金剛。	With wisdom, think of the true characteristics as firm as vajra.
+['ZH_T20_1092_022:0346c12_15']	善持威儀清潔澡浴。	善持威儀清潔澡浴。	Well uphold the dignified conduct and bathe in cleanliness.
+['ZH_T20_1092_022:0346c13_5']	以香塗身著淨衣服。	以香塗身著淨衣服。	Anoint the body with fragrance and wear clean clothes.
+['ZH_T20_1092_022:0346c13_18']	受持讀誦嚴治壇場敷設莊嚴。	受持讀誦嚴治壇場敷設莊嚴。	Uphold and recite, adorn the ritual arena and set up adornments.
+['ZH_T20_1092_022:0346c14_16']	每日時中如法新造百味飲食三白飲食。	每日時中如法新造百味飲食三白飲食。	Every day, as the time comes, freshly prepare a hundred flavors of food and drink, and three kinds of white food and drink.
+['ZH_T20_1092_022:0346c15_13']	諸雜果子種種塗香末香水陸雜華。	諸雜果子種種塗香末香水陸雜華。	Various fruit seeds, various ointments, powdered incense, and land incense, various flowers,
+['ZH_T20_1092_022:0346c16_4']	蜜漿沙糠漿蒲桃漿。	蜜漿沙糠漿蒲桃漿。	honey water, sand water, and grape water,
+['ZH_T20_1092_022:0346c16_13']	種種香水依法獻飾。	種種香水依法獻飾。	various fragrant waters should be offered according to the method.
+['ZH_T20_1092_022:0346c17_2', 'ZH_T20_1092_022:0346c17_9']	沈水香白栴檀香。🔽蘇合香熏陸香。	沈水香白栴檀香。 蘇合香熏陸香。	Aquilaria agallocha, white sandalwood,🔽frankincense, olibanum,
+['ZH_T20_1092_022:0346c17_16']	白膠香龍腦香。	白膠香龍腦香。	lac, camphor,
+['ZH_T20_1092_022:0346c18_7']	欝金香石蜜敷列供養。	欝金香石蜜敷列供養。	saffron, and rock candy should be arranged for offerings.
+['ZH_T20_1092_022:0346c18_14', 'ZH_T20_1092_022:0346c19_4']	一切金華銀華。🔽赤真珠華白真珠華。	一切金華銀華。 赤真珠華白真珠華。	All golden flowers, silver flowers,🔽red pearls, white pearls,
+['ZH_T20_1092_022:0346c19_13']	青瑠璃華赤瑠璃華。	青瑠璃華赤瑠璃華。	blue lapis lazuli flowers, red lapis lazuli flowers,
+['ZH_T20_1092_022:0346c20_3']	紅瑠璃華種種雜色。	紅瑠璃華種種雜色。	red lapis lazuli flowers, various colors,
+['ZH_T20_1092_022:0346c20_12']	華鬘華樹標飾嚴設。	華鬘華樹標飾嚴設。	flower garlands, and flower trees should be displayed for adornment.
+['ZH_T20_1092_022:0346c21_6']	五色瑠璃瓶金瓶銀瓶七寶瓶。	五色瑠璃瓶金瓶銀瓶七寶瓶。	Five-colored lapis lazuli vases, golden vases, silver vases, and seven-treasure vases,
+['ZH_T20_1092_022:0346c21_11']	盛諸香水。	盛諸香水。	filled with various fragrant waters,
+['ZH_T20_1092_022:0346c22_1']	四門四角敷置供獻。	四門四角敷置供獻。	should be placed in the four corners of the four gates for offerings.
+['ZH_T20_1092_022:0346c22_12']	稻穀華白芥子隨法持用。	稻穀華白芥子隨法持用。	Rice flowers and white mustard seeds should be used according to the method.
+['ZH_T20_1092_022:0346c23_6']	酥燈油燈二十八盞四面敷獻。	酥燈油燈二十八盞四面敷獻。	Butter lamps and oil lamps, twenty-eight bowls, should be placed in the four directions for offerings.
+['ZH_T20_1092_022:0346c24_1']	白月八日一日一夜不食不語。	白月八日一日一夜不食不語。	On the eighth day of the bright half of the month, fast for one day and one night without speaking.
+['ZH_T20_1092_022:0346c24_10']	請召結界結印護身。	請召結界結印護身。	Invite, establish the boundary, form the mudra, and protect the body.
+['ZH_T20_1092_022:0346c24_19']	九日當食三白飲食。	九日當食三白飲食。	On the ninth day, one should eat the three white foods.
+['ZH_T20_1092_022:0346c25_8']	依不空王觀世音相。	依不空王觀世音相。	Rely on the appearance of Avalokiteśvara, the Unfailing King.
+['ZH_T20_1092_022:0346c26_5']	以一切法任持智印金剛身語心印。	以一切法任持智印金剛身語心印。	With the wisdom seal that upholds all dharmas, the vajra body, speech, and mind seals.
+['ZH_T20_1092_022:0346c26_17']	入真言字輪輪攝觀世音相。	入真言字輪輪攝觀世音相。	Enter the wheel of mantra syllables, the wheel that subsumes the appearance of Avalokiteśvara.
+['ZH_T20_1092_022:0346c27_10']	觀自在智平等輪光三昧耶。	觀自在智平等輪光三昧耶。	The samādhi of the light of the wheel of equality of the wisdom of Avalokiteśvara.
+['ZH_T20_1092_022:0346c28_5']	誦持神通解脫心陀羅尼真言。	誦持神通解脫心陀羅尼真言。	Recite and uphold the dhāraṇī mantra of the mind of spiritual powers and liberation.
+['ZH_T20_1092_022:0346c28_14']	種種供養請召發願。	種種供養請召發願。	Make various offerings, invoke, and make vows.
+['ZH_T20_1092_022:0346c29_16']	若有國王大臣沙門婆羅門一切人民請三昧耶者。	若有國王大臣沙門婆羅門一切人民請三昧耶者。	If there are kings, ministers, śramaṇas, brāhmaṇas, and all the people who request the samaya,
+['ZH_T20_1092_022:0347a01_11']	皆淨洗浴著新衣服受持齋戒。	皆淨洗浴著新衣服受持齋戒。	They should all bathe and put on new clothes, observe the precepts, and uphold the fast.
+['ZH_T20_1092_022:0347a02_2']	執鏡引入三昧加持。	執鏡引入三昧加持。	Hold a mirror and lead them in, empower them in samādhi.
+['ZH_T20_1092_022:0347a02_13']	散華禮拜灌頂授三昧耶。	散華禮拜灌頂授三昧耶。	Scatter flowers, pay homage, sprinkle the crown of the head, and bestow the samaya.
+['ZH_T20_1092_022:0347a03_3']	觀像行道出外跪坐。	觀像行道出外跪坐。	Look at the image, circumambulate, go outside, kneel, and sit.
+['ZH_T20_1092_022:0347a03_8']	發菩提心。	發菩提心。	Give rise to the bodhi mind.
+['ZH_T20_1092_022:0347a04_6']	時真言者復誦神通解脫心陀羅尼真言。	時真言者復誦神通解脫心陀羅尼真言。	At that time, the mantra practitioner again recites the dhāraṇī mantra of the mind of spiritual powers and liberation.
+['ZH_T20_1092_022:0347a04_17']	作法加被誦奮怒王真言。	作法加被誦奮怒王真言。	Perform the method of empowerment, and recite the mantra of the wrathful king.
+['ZH_T20_1092_022:0347a05_9']	加持白芥子水灑壇內外。	加持白芥子水灑壇內外。	Consecrate white mustard seed water to sprinkle inside and outside the altar.
+['ZH_T20_1092_022:0347a05_18']	結灌頂印加持頂上。	結灌頂印加持頂上。	Form the abhiṣeka mudrā and consecrate the crown of the head.
+['ZH_T20_1092_022:0347a06_8']	重以香華散敷壇上。	重以香華散敷壇上。	Again scatter incense and flowers on the altar.
+['ZH_T20_1092_022:0347a07_10']	供養不空王觀世音菩薩多羅菩薩濕廢多菩薩。	供養不空王觀世音菩薩多羅菩薩濕廢多菩薩。	Make offerings to Bodhisattva Avalokiteśvara of the Unfailing King, Tārā Bodhisattva, and Acalanātha Bodhisattva.
+['ZH_T20_1092_022:0347a08_2']	一切諸佛菩薩摩訶薩。	一切諸佛菩薩摩訶薩。	All buddhas, bodhisattvas, and mahāsattvas.
+['ZH_T20_1092_022:0347a08_11']	一切天神一切山神。	一切天神一切山神。	All celestial spirits and all mountain spirits.
+['ZH_T20_1092_022:0347a08_16']	內外諸神。	內外諸神。	All inner and outer spirits.
+['ZH_T20_1092_022:0347a09_5']	時真言者西門而坐。	時真言者西門而坐。	At that time, the practitioner sits at the west gate.
+['ZH_T20_1092_022:0347a09_14']	殷重廣發四無量心。	殷重廣發四無量心。	Earnestly and extensively give rise to the four immeasurables.
+['ZH_T20_1092_022:0347a10_8']	澄心諦觀憶念十方一切諸佛。	澄心諦觀憶念十方一切諸佛。	Clear the mind and contemplate, recollecting all the buddhas in the ten directions.
+['ZH_T20_1092_022:0347a11_4']	現大神力加被是曼拏羅三昧耶。	現大神力加被是曼拏羅三昧耶。	Manifest great spiritual powers and empower this maṇḍala samādhi.
+['ZH_T20_1092_022:0347a12_3']	依法結印誦持神通解脫心陀羅尼真言。	依法結印誦持神通解脫心陀羅尼真言。	Form the mudrā according to the method and recite the dhāraṇī mantra of the mind of spiritual liberation.
+['ZH_T20_1092_022:0347a12_8']	令壇震動。	令壇震動。	Cause the altar to quake.
+['ZH_T20_1092_022:0347a12_17']	證此相時歡喜踊躍。	證此相時歡喜踊躍。	When this sign is realized, rejoice and leap for joy.
+['ZH_T20_1092_022:0347a13_11', 'ZH_T20_1092_022:0347a14_2']	一切如來種族諸佛菩薩摩訶薩。🔽一切像上悉放光明。	一切如來種族諸佛菩薩摩訶薩。 一切像上悉放光明。	All buddhas, bodhisattvas, and mahāsattvas of the Tathāgata family.🔽All images emit light.
+['ZH_T20_1092_022:0347a14_11']	出種種聲一時讚歎。	出種種聲一時讚歎。	Emitting various sounds, they all praise at the same time.
+['ZH_T20_1092_022:0347a15_2']	阿彌陀佛釋迦牟尼佛。	阿彌陀佛釋迦牟尼佛。	Amitābha Buddha, Śākyamuni Buddha.
+['ZH_T20_1092_022:0347a16_2']	不空王觀世音菩薩多羅菩薩濕廢多菩薩。	不空王觀世音菩薩多羅菩薩濕廢多菩薩。	Amoghavajra Avalokiteśvara Bodhisattva, Tārā Bodhisattva, Acalanātha Bodhisattva.
+['ZH_T20_1092_022:0347a16_11']	一時空中現金色身。	一時空中現金色身。	At one time manifested a golden-colored body in the sky.
+['ZH_T20_1092_022:0347a16_16']	觀瞻十方。	觀瞻十方。	Gazing in the ten directions.
+['ZH_T20_1092_022:0347a17_5']	時真言者發菩提心。	時真言者發菩提心。	At that time, the practitioner of mantras gives rise to the mind of enlightenment.
+['ZH_T20_1092_022:0347a17_14']	法本無形正等無變。	法本無形正等無變。	The Dharma is originally formless, perfectly equal and unchanging.
+['ZH_T20_1092_022:0347a18_4']	心本無生自性空寂。	心本無生自性空寂。	The mind is originally unborn, with the nature of emptiness and quiescence.
+['ZH_T20_1092_022:0347a18_13']	念真實相靜默長跪。	念真實相靜默長跪。	Contemplating the true characteristics, silently kneeling for a long time.
+['ZH_T20_1092_022:0347a19_3']	以閼伽水而復供養。	以閼伽水而復供養。	Using argha water to make offerings again.
+['ZH_T20_1092_022:0347a19_16']	又誦神通解脫心陀羅尼真言。	又誦神通解脫心陀羅尼真言。	And reciting the dhāraṇī mantra of the mind of spiritual liberation.
+['ZH_T20_1092_022:0347a20_8']	一切如來伸手摩頂讚言。	一切如來伸手摩頂讚言。	All tathāgatas extend their hands to rub the crown of one's head and praise, saying:
+['ZH_T20_1092_022:0347a21_13']	汝今已證不空羂索心王陀羅尼真言曼拏羅印三昧耶。	汝今已證不空羂索心王陀羅尼真言曼拏羅印三昧耶。	You have now realized the heart-mantra dhāraṇī maṇḍala mudrā samayas of the Amoghapāśa.
+['ZH_T20_1092_022:0347a22_4']	記汝身住安樂世界。	記汝身住安樂世界。	It is predicted that your body will dwell in the Land of Bliss.
+['ZH_T20_1092_022:0347a23_2']	證不空王陀羅尼真言明仙不退轉地。	證不空王陀羅尼真言明仙不退轉地。	You will attain the stage of nonretrogression of the vidyādhara immortal of the Amoghavajra dhāraṇī mantra.
+['ZH_T20_1092_022:0347a23_13']	得阿耨多羅三藐三菩提。	得阿耨多羅三藐三菩提。	You will attain supreme perfect enlightenment.
+['ZH_T20_1092_022:0347a23_18']	所會壇人。	所會壇人。	The people gathered at the altar.
+['ZH_T20_1092_022:0347a24_6']	亦當證不退轉地。	亦當證不退轉地。	They will also attain the stage of nonretrogression.
+['ZH_T20_1092_022:0347a25_1']	得受阿耨多羅三藐三菩提記。	得受阿耨多羅三藐三菩提記。	And receive the prediction of attaining supreme perfect enlightenment.
+['ZH_T20_1092_022:0347a25_18']	若有旃茶羅苾芻苾芻尼族姓男族姓女。	若有旃茶羅苾芻苾芻尼族姓男族姓女。	If there are Caṇḍāla bhikṣus, bhikṣuṇīs, male and female lay followers,
+['ZH_T20_1092_022:0347a26_4']	會是壇者。	會是壇者。	Who enter this altar,
+['ZH_T20_1092_022:0347a26_17']	其像腹中則血流現發大吼聲。	其像腹中則血流現發大吼聲。	Then blood will flow from the belly of the image and a great roar will be heard.
+['ZH_T20_1092_022:0347a27_16']	是旃茶羅人特勿令見此曼拏羅像三昧耶。	是旃茶羅人特勿令見此曼拏羅像三昧耶。	This maṇḍala image should especially not be seen by the Caṇḍāla people.
+['ZH_T20_1092_022:0347a28_15']	縱得見者不得證見曼拏羅中種種變相。	縱得見者不得證見曼拏羅中種種變相。	Even if they do see it, they will not be able to witness the various transformations within the maṇḍala.
+['ZH_T20_1092_022:0347a29_6']	唯加祐護持真言者。	唯加祐護持真言者。	They will only be protected and guarded, and the mantra-holder
+['ZH_T20_1092_022:0347a29_15']	夢見壇中神通諸相。	夢見壇中神通諸相。	Will dream of the various spiritual signs within the altar.
+['ZH_T20_1092_022:0347b01_13']	證獲相者則得世間一切福德成就相應。	證獲相者則得世間一切福德成就相應。	Those who witness the signs will attain the signs of accomplishing all worldly blessings and virtues.
+['ZH_T20_1092_022:0347b02_4']	是故當知持真言者。	是故當知持真言者。	Therefore, one should know that the mantra-holder
+['ZH_T20_1092_022:0347b02_13']	應䐺觀候所受法人。	應䐺觀候所受法人。	Should examine the person who receives the Dharma.
+['ZH_T20_1092_022:0347b03_7']	具持戒行信見根正三業清淨。	具持戒行信見根正三業清淨。	Fully upholding the precepts, with correct faith and views, and pure three karmas,
+['ZH_T20_1092_022:0347b03_16']	於諸有情發大悲心。	於諸有情發大悲心。	Giving rise to a mind of great compassion for all beings,
+['ZH_T20_1092_022:0347b04_10']	精進修行一切正業恭敬三寶。	精進修行一切正業恭敬三寶。	Diligent in practicing all correct actions, respectfully serving the Three Jewels,
+['ZH_T20_1092_022:0347b05_4']	思惟一切陀羅尼種種教法。	思惟一切陀羅尼種種教法。	Contemplating all dhāraṇīs and various teachings.
+['ZH_T20_1092_022:0347b06_7']	亦不嫉妬譏嫌謗說一切大乘小乘法師種種過惡。	亦不嫉妬譏嫌謗說一切大乘小乘法師種種過惡。	Do not be jealous, critical, or slander any Dharma teachers of the Mahayana or Hinayana, and do not speak of their various faults and evils.
+['ZH_T20_1092_022:0347b07_3']	惟當恭敬和上闍梨父母兄弟。	惟當恭敬和上闍梨父母兄弟。	You should only respectfully serve your preceptor, teacher, parents, and siblings.
+['ZH_T20_1092_022:0347b07_12']	皆不輕意勞謙敬侍。	皆不輕意勞謙敬侍。	Do not be disrespectful or arrogant.
+['ZH_T20_1092_022:0347b08_2']	持真言者心無放逸。	持真言者心無放逸。	The mantra holder should be mindful and not be negligent.
+['ZH_T20_1092_022:0347b08_15']	精持內外金剛平等自性淨戒。	精持內外金剛平等自性淨戒。	Uphold the inner and outer vajra, the equality of self-nature, and the pure precepts.
+['ZH_T20_1092_022:0347b09_5', 'ZH_T20_1092_022:0347b09_18']	於諸經法行不違背。🔽亦常不食凡聖殘食自所殘食。	於諸經法行不違背。 亦常不食凡聖殘食自所殘食。	In all sutra practices, do not go against them.🔽Also, always avoid eating the leftover food of ordinary people or sages, or your own leftover food.
+['ZH_T20_1092_022:0347b10_12']	亦勿受於酤酒飲酒賣肉喫肉。	亦勿受於酤酒飲酒賣肉喫肉。	Do not accept or drink alcohol, sell meat, or eat meat.
+['ZH_T20_1092_022:0347b11_3']	種賣五辛噉食五辛。	種賣五辛噉食五辛。	Do not sell or eat the five pungent vegetables.
+['ZH_T20_1092_022:0347b11_12']	一切十惡律儀等家。	一切十惡律儀等家。	All families that observe the ten evil precepts and other precepts.
+['ZH_T20_1092_022:0347b12_2']	飲食衣服種種供養。	飲食衣服種種供養。	Food, clothing, and various offerings.
+['ZH_T20_1092_022:0347b12_13']	持真言者自常所食飲食。	持真言者自常所食飲食。	The mantra holder should always eat the food he usually eats.
+['ZH_T20_1092_022:0347b13_7']	亦不應作半出入食頰食語食。	亦不應作半出入食頰食語食。	You should not eat with half your mouth in and out, or eat with your cheeks full and talking.
+['ZH_T20_1092_022:0347b14_2']	淨手受食所喫飲食亦常新淨。	淨手受食所喫飲食亦常新淨。	Receive food with clean hands, and the food you eat should always be new and clean.
+['ZH_T20_1092_022:0347b14_11']	作是清淨修治法者。	作是清淨修治法者。	The one who practices this pure and purified Dharma.
+['ZH_T20_1092_022:0347b15_1']	觀音金像腹不血現。	觀音金像腹不血現。	The golden image of Avalokitesvara, with no blood visible in the abdomen.
+['ZH_T20_1092_022:0347b15_10']	得觀世音壇內現身。	得觀世音壇內現身。	Avalokiteśvara will manifest his body within the altar.
+['ZH_T20_1092_022:0347b15_15']	執手教詔。	執手教詔。	Holding hands and instructing,
+['ZH_T20_1092_022:0347b16_7']	自解廣大光明摩尼瓔珞。	自解廣大光明摩尼瓔珞。	he will untie the vast radiant maṇi necklace,
+['ZH_T20_1092_022:0347b16_12']	與繫項上。	與繫項上。	and place it around your neck.
+['ZH_T20_1092_022:0347b16_17']	手摩其頭。	手摩其頭。	He will rub your head with his hand
+['ZH_T20_1092_022:0347b17_7']	誥言汝今為我真子。	誥言汝今為我真子。	and proclaim, You are now my true child.
+['ZH_T20_1092_022:0347b18_1']	證此相者得大神通三昧耶。	證此相者得大神通三昧耶。	One who attains this sign will obtain the great spiritual powers and samādhi.
+['ZH_T20_1092_022:0347b19_3']	便得證於一切如來種族會通一切壇印三昧耶。	便得證於一切如來種族會通一切壇印三昧耶。	One will then attain the samādhi of all tathāgatas' family gatherings and the samādhi of all altars and mudrās.
+['ZH_T20_1092_022:0347b19_16']	一切不空種族轉輪王三昧耶。	一切不空種族轉輪王三昧耶。	The samādhi of the universal monarch of the Akṣobhya family,
+['ZH_T20_1092_022:0347b20_8']	不空王最上大壇三昧耶。	不空王最上大壇三昧耶。	the samādhi of the supreme great altar of the Akṣobhya king,
+['ZH_T20_1092_022:0347b21_5']	不空廣大無垢光明神通大三摩地。	不空廣大無垢光明神通大三摩地。	the vast and immaculate radiant spiritual power of the Akṣobhya maṇi,
+['ZH_T20_1092_022:0347b21_14']	乃至菩提更不退失。	乃至菩提更不退失。	and will never again regress from this samādhi until attaining enlightenment.
+['ZH_T20_1092_022:0347b22_16']	以此三摩地證見世間種種神變生死迷輪三昧耶。	以此三摩地證見世間種種神變生死迷輪三昧耶。	By this samādhi, one will witness the various spiritual transformations and the wheel of delusion of birth and death in the world.
+['ZH_T20_1092_022:0347b23_11']	獲得如來不空祕密三昧加被。	獲得如來不空祕密三昧加被。	One will obtain the secret empowerment of the tathāgatas' samādhi,
+['ZH_T20_1092_022:0347b24_11']	而得證解一切如來無等等神通大三昧耶。	而得證解一切如來無等等神通大三昧耶。	and will attain the great spiritual power of all tathāgatas' unequaled samādhi.
+['ZH_T20_1092_022:0347b25_2']	如於如來修祈法已。	如於如來修祈法已。	As one has cultivated the Dharma in the Tathāgata,
+['ZH_T20_1092_022:0347b25_11']	於寂靜處嚴潔寶座。	於寂靜處嚴潔寶座。	In a tranquil place, one should adorn and purify a jeweled seat.
+['ZH_T20_1092_022:0347b25_16']	安置是像。	安置是像。	Place the image there.
+['ZH_T20_1092_022:0347b26_5']	每日六時靜默不語。	每日六時靜默不語。	Daily, during the six periods, silently and without speaking,
+['ZH_T20_1092_022:0347b27_6']	燒焯香王如法誦持神通解脫心陀羅尼真言。	燒焯香王如法誦持神通解脫心陀羅尼真言。	Burn incense and recite and uphold the dhāraṇī mantra of the mind of spiritual powers and liberation according to the Dharma.
+['ZH_T20_1092_022:0347b27_15']	時數勿闕如法供養。	時數勿闕如法供養。	The number of times should not be missed, and make offerings according to the Dharma.
+['ZH_T20_1092_022:0347b28_5']	復得金像數放光明。	復得金像數放光明。	Moreover, the golden image will emit light many times.
+['ZH_T20_1092_022:0347b28_15']	常得觀世音託祐此像。	常得觀世音託祐此像。	Avalokiteśvara will always protect this image.
+['ZH_T20_1092_022:0347b29_9']	夢相教語三世一切吉不吉事。	夢相教語三世一切吉不吉事。	In dreams, he will teach and speak about all auspicious and inauspicious matters of the three times.
+['ZH_T20_1092_022:0347c01_4']	亦常教詔世間種種方便智慧。	亦常教詔世間種種方便智慧。	He will also always instruct in the various expedient wisdoms of the world.
+['ZH_T20_1092_022:0347c01_9']	世尊是法。	世尊是法。	World-Honored One, this Dharma
+['ZH_T20_1092_022:0347c01_16']	勿令一切無明。	勿令一切無明。	Should not allow any ignorance,
+['ZH_T20_1092_022:0347c02_6']	貪瞋愚癡破和合僧。	貪瞋愚癡破和合僧。	Greed, anger, and stupidity to destroy the harmonious Saṅgha.
+['ZH_T20_1092_022:0347c02_15']	讒諂兩舌持戒不完。	讒諂兩舌持戒不完。	Slander, flattery, and double-tongue, incomplete observance of the precepts,
+['ZH_T20_1092_022:0347c03_9']	盜諸陀羅尼真言壇印三昧耶。	盜諸陀羅尼真言壇印三昧耶。	Stealing the dhāraṇī mantras, altar seals, and samaya of the dhāraṇīs,
+['ZH_T20_1092_022:0347c03_18']	及盜一切佛法僧物。	及盜一切佛法僧物。	As well as stealing the property of the buddhas, Dharma, and Saṅgha,
+['ZH_T20_1092_022:0347c04_16']	大賊旃茶羅苾芻苾芻尼族姓男族姓女。	大賊旃茶羅苾芻苾芻尼族姓男族姓女。	The great thief, the bhikṣu, bhikṣuṇī, male lay follower, and female lay follower of the caṇḍāla class.🔽Here is the corrected and aligned text:
+['ZH_T20_1092_022:0347c05_7']	知聞我此像教語法。	知聞我此像教語法。	Know that they hear my teaching of this Dharma.
+['ZH_T20_1092_022:0347c05_18']	何以故此輩大賊旃茶羅。	何以故此輩大賊旃茶羅。	Why is it so? These great thieves and cāṇḍālas
+['ZH_T20_1092_022:0347c06_8']	曾不一七二七三七。	曾不一七二七三七。	Have never for one, two, three,
+['ZH_T20_1092_022:0347c07_5']	乃至七七或復百日千日三四千日。	乃至七七或復百日千日三四千日。	Up to seven weeks, or even for a hundred, a thousand, three or four thousand days,
+['ZH_T20_1092_022:0347c07_14']	如法相應調伏身心。	如法相應調伏身心。	In accordance with the Dharma, disciplined their body and mind.
+['ZH_T20_1092_022:0347c08_4']	依法修習受持此法。	依法修習受持此法。	Relying on the Dharma, they cultivate and uphold this Dharma,
+['ZH_T20_1092_022:0347c09_3']	但常空說我證我解我是修道開道之者。	但常空說我證我解我是修道開道之者。	But always empty-talk, claiming that they have realized, understood, and are practicing and opening the path.
+['ZH_T20_1092_022:0347c09_12']	內所積業悉皆腐敗。	內所積業悉皆腐敗。	The accumulated karma within them all decays and rots.
+['ZH_T20_1092_022:0347c10_2']	作諸惡業污壞我法。	作諸惡業污壞我法。	They create all kinds of evil karma, defiling and destroying my Dharma.
+['ZH_T20_1092_022:0347c10_13']	世尊是故此經一字一句。	世尊是故此經一字一句。	World-Honored One, therefore, not a single word or phrase of this sūtra
+['ZH_T20_1092_022:0347c11_12']	勿令此輩大賊旃茶羅之所見聞讀誦受持。	勿令此輩大賊旃茶羅之所見聞讀誦受持。	Should be seen, heard, read, recited, or upheld by these great thieves and cāṇḍālas.
+['ZH_T20_1092_022:0347c12_1']	是故持真言者。	是故持真言者。	Therefore, the mantra-holders
+['ZH_T20_1092_022:0347c12_10']	應正依法護持我教。	應正依法護持我教。	Should correctly rely on the Dharma to protect and uphold my teachings.
+['ZH_T20_1092_022:0347c13_14']	速得證茲最勝解脫祕密大曼拏羅印三昧耶相應成就。	速得證茲最勝解脫祕密大曼拏羅印三昧耶相應成就。	They will quickly attain the realization of this supreme secret great maṇḍala mudrā samayas, and the corresponding accomplishments.
+['ZH_T20_1092_022:0347c14_14']	若有清淨梵行沙門婆羅門族姓男族姓女。	若有清淨梵行沙門婆羅門族姓男族姓女。	If there are pure celibate śramaṇas, brāhmaṇas, sons of noble families, and daughters of noble families,
+['ZH_T20_1092_022:0347c15_5']	性純和雅慈心謙下。	性純和雅慈心謙下。	His nature was pure, harmonious, and humble with a compassionate mind.
+['ZH_T20_1092_022:0347c15_18']	不違法律依不空王觀世音相。	不違法律依不空王觀世音相。	He did not go against the precepts, relying on the appearance of Avalokiteśvara, the Unfailing King.
+['ZH_T20_1092_022:0347c16_14']	以一切法任持智印金剛身語心印。	以一切法任持智印金剛身語心印。	With the wisdom seal of all dharmas, the vajra body, speech, and mind seal,
+['ZH_T20_1092_022:0347c17_8']	入真言字輪輪攝觀世音相。	入真言字輪輪攝觀世音相。	He entered the wheel of mantras and letters, the wheel that subsumes the appearance of Avalokiteśvara.
+['ZH_T20_1092_022:0347c18_2']	觀自在智平等輪光三昧耶。	觀自在智平等輪光三昧耶。	The samādhi of the equality wheel light of the wisdom of Avalokiteśvara.
+['ZH_T20_1092_022:0347c18_15']	信解受持讀誦修習此經典者。	信解受持讀誦修習此經典者。	Those who have faith and understanding, uphold, recite, cultivate, and practice this sūtra,
+['ZH_T20_1092_022:0347c19_9']	時世人民常應恭敬而供養之。	時世人民常應恭敬而供養之。	At that time, the people of the world should always respectfully make offerings to them.
+['ZH_T20_1092_022:0347c19_18']	如如來相或如我相。	如如來相或如我相。	As if they were the appearance of the Tathāgata or my own appearance.
+['ZH_T20_1092_022:0347c20_17']	當知是人則已恭敬給侍如來觀世音菩薩。	當知是人則已恭敬給侍如來觀世音菩薩。	One should know that this person has already respectfully served the Tathāgata and Avalokiteśvara Bodhisattva.
+['ZH_T20_1092_022:0347c21_12']	是故智者應常懇仰發大悲心。	是故智者應常懇仰發大悲心。	Therefore, the wise should always look up with sincerity and give rise to a mind of great compassion.
+['ZH_T20_1092_022:0347c22_3']	深信恭敬此三昧耶。	深信恭敬此三昧耶。	Deeply believe and respectfully uphold this samādhi.
+['ZH_T20_1092_022:0347c22_12']	若憶念我祈求諸願。	若憶念我祈求諸願。	If one recollects me and prays for various wishes,
+['ZH_T20_1092_022:0347c23_2']	我即現身為皆成辦。	我即現身為皆成辦。	I will immediately manifest my body to accomplish them all.
+['ZH_T20_1092_022:0347c23_7']	則得證見。	則得證見。	One will then attain realization and see.
+['ZH_T20_1092_022:0347c24_1']	如是之人我若不為成是法者。	如是之人我若不為成是法者。	If I do not accomplish this Dharma for such a person,
+['ZH_T20_1092_022:0347c24_10']	我則同彼旃茶羅輩。	我則同彼旃茶羅輩。	I will be the same as those of the caṇḍāla class.
+['ZH_T20_1092_022:0347c24_19']	是故智者守持淨戒。	是故智者守持淨戒。	Therefore, the wise ones uphold pure precepts.
+['ZH_T20_1092_022:0347c25_8']	發大悲心信心無礙。	發大悲心信心無礙。	Give rise to the mind of great compassion, with faith and unobstructed mind.
+['ZH_T20_1092_022:0347c25_17']	顏貌喜悅心復柔和。	顏貌喜悅心復柔和。	With a joyful countenance and a gentle mind,
+['ZH_T20_1092_022:0347c26_7']	無以毫分妬詖之心。	無以毫分妬詖之心。	Do not have even a trace of jealous or deceitful thoughts.
+['ZH_T20_1092_022:0347c26_16']	譏嫉他過而生嚬躄。	譏嫉他過而生嚬躄。	Do not criticize or envy others' faults and give rise to frowns.
+['ZH_T20_1092_022:0347c27_6']	我則為成無上之地。	我則為成無上之地。	I will then accomplish the unsurpassed ground.
+['ZH_T20_1092_022:0347c27_15']	解脫功德圓滿相應。	解脫功德圓滿相應。	The merit and virtue of liberation will be perfectly fulfilled.
+['ZH_T20_1092_022:0347c28_9']	如海大潮一切動涌周旋遍至。	如海大潮一切動涌周旋遍至。	Like the great tides of the ocean, all things move and surge, reaching everywhere.
+['ZH_T20_1092_022:0347c28_14']	我亦如是。	我亦如是。	I am also like this.
+['ZH_T20_1092_022:0347c29_8']	若此有情心專存念我之名字。	若此有情心專存念我之名字。	If this sentient being single-mindedly thinks of my name,
+['ZH_T20_1092_022:0347c29_17']	我即隨至為除罪惱。	我即隨至為除罪惱。	I will immediately go to remove their offenses and afflictions.
+['ZH_T20_1092_022:0348a01_7']	復有眾生具大慈悲。	復有眾生具大慈悲。	Moreover, there are sentient beings who possess great compassion.
+['ZH_T20_1092_022:0348a01_16']	信見清淨暫持此法。	信見清淨暫持此法。	With pure faith and understanding, they temporarily uphold this Dharma.
+['ZH_T20_1092_022:0348a02_2']	我亦加護。	我亦加護。	I will also protect them.
+['ZH_T20_1092_022:0348a02_11']	是故智者應依我法。	是故智者應依我法。	Therefore, the wise ones should rely on my Dharma.
+['ZH_T20_1092_022:0348a03_1']	修治六度樂行供養。	修治六度樂行供養。	Cultivate the six pāramitās and joyfully practice offerings.
+['ZH_T20_1092_022:0348a03_14']	亦不起念慳貪嫉妬觀念色欲。	亦不起念慳貪嫉妬觀念色欲。	Do not give rise to thoughts of stinginess, greed, or jealousy, but contemplate desire.
+['ZH_T20_1092_022:0348a04_6']	常觀一切如來清淨理法。	常觀一切如來清淨理法。	Always contemplate all Tathāgatas' pure principle Dharma.
+['ZH_T20_1092_022:0348a05_1']	轉讀此經依法思惟無時間絕。	轉讀此經依法思惟無時間絕。	Turn and read this sūtra, contemplate according to the Dharma without interruption.
+['ZH_T20_1092_022:0348a05_10']	以斯緣故我愛是人。	以斯緣故我愛是人。	For this reason, I love this person.
+['ZH_T20_1092_022:0348a05_19']	歡喜觀視密祐加被。	歡喜觀視密祐加被。	I joyfully observe and secretly assist and protect them.
+['ZH_T20_1092_022:0348a07_7']	不空王神通解脫心陀羅尼真言像曼拏羅印三昧耶成就地故。	不空王神通解脫心陀羅尼真言像曼拏羅印三昧耶成就地故。	Because of the accomplishment of the dhāraṇī mantra, maṇḍala, and samādhi of the mind of liberation through spiritual powers of the Arapacana King.
+['ZH_T20_1092_022:0348a09_10']	47 大奮怒王品大奮怒王品第四十七爾時觀世音菩薩摩訶薩。	47 大奮怒王品大奮怒王品第四十七爾時觀世音菩薩摩訶薩。	Chapter 47: The Chapter on the Great Wrathful King. At that time, Bodhisattva Mahāsattva Avalokitêśvara.
+['ZH_T20_1092_022:0348a09_17']	復白佛言世尊。	復白佛言世尊。	Again addressed the Buddha, saying, World-Honored One.
+['ZH_T20_1092_022:0348a11_4']	又有不空大奮怒王真言大不思議一切無礙悉地三昧耶。	又有不空大奮怒王真言大不思議一切無礙悉地三昧耶。	There is also the inconceivable great dhāraṇī mantra of the Arapacana King, which is the samādhi of all unobstructed siddhis.
+['ZH_T20_1092_022:0348a12_1']	是法已諸大灌頂曼拏羅三昧耶中。	是法已諸大灌頂曼拏羅三昧耶中。	This Dharma has already been in the maṇḍala samādhi of the great abhiṣeka.
+['ZH_T20_1092_022:0348a12_7']	得授灌頂力。	得授灌頂力。	Having received the power of abhiṣeka,
+['ZH_T20_1092_022:0348a13_10']	能折伏諸惡藥叉羅剎種種鬼神眾惡人輩而皆敬信。	能折伏諸惡藥叉羅剎種種鬼神眾惡人輩而皆敬信。	One can subdue all evil yakṣas, rākṣasas, various ghosts and spirits, and evil people, who will all respect and believe.
+['ZH_T20_1092_022:0348a14_1']	摧諸惡龍歸向信伏。	摧諸惡龍歸向信伏。	It can destroy evil dragons and cause them to submit in faith.
+['ZH_T20_1092_022:0348a14_10']	能除世間種種怖畏。	能除世間種種怖畏。	It can remove various fears in the world.
+['ZH_T20_1092_022:0348a14_19']	復能與於持真言者。	復能與於持真言者。	It can also bestow on the reciter of the mantra.
+['ZH_T20_1092_022:0348a15_14']	不空羂索心王大三昧耶最勝成地。	不空羂索心王大三昧耶最勝成地。	The supreme accomplishment ground of the great samādhi of the Arapacana King's heart-mind and great noose.
+['ZH_T20_1092_022:0348a17_3']	顯現十方三世一切如來種族會通一切大曼陀羅印三昧耶。	顯現十方三世一切如來種族會通一切大曼陀羅印三昧耶。	Manifesting the assembly of the lineage of all tathāgatas of the ten directions and three times, communicating with all great maṇḍalas, mudrās, and samaya.
+['ZH_T20_1092_022:0348a18_13']	證是真實不空王祕密神通解脫心陀羅尼真言大曼陀羅印三昧耶。	證是真實不空王祕密神通解脫心陀羅尼真言大曼陀羅印三昧耶。	Attaining this true, non-empty king's secret spiritual powers, liberation mind dhāraṇī mantra, great maṇḍala, mudrā, and samaya.
+['ZH_T20_1092_022:0348a19_6']	爾時如來告言。	爾時如來告言。	At that time, the Tathāgata said:
+['ZH_T20_1092_022:0348a19_14']	善哉善哉善男子。	善哉善哉善男子。	Excellent, excellent, good man!
+['ZH_T20_1092_022:0348a19_19']	當隨汝說。	當隨汝說。	You should speak according to your mind.
+['ZH_T20_1092_022:0348a20_10']	爾時觀世音菩薩摩訶薩。	爾時觀世音菩薩摩訶薩。	At that time, Bodhisattva Mahāsattva Avalokitêśvara,
+['ZH_T20_1092_022:0348a20_15']	佛隨讚許。	佛隨讚許。	having received the Buddha's approval,
+['ZH_T20_1092_022:0348a21_5']	則於佛前諦觀一切。	則於佛前諦觀一切。	then contemplated everything in the Buddha's presence,
+['ZH_T20_1092_022:0348a21_17']	變示不空王觀世音菩薩相。	變示不空王觀世音菩薩相。	transforming and revealing the appearance of Bodhisattva Avalokitêśvara, the non-empty king,
+['ZH_T20_1092_022:0348a22_4']	現大奮怒王。	現大奮怒王。	manifesting the great wrathful king,
+['ZH_T20_1092_022:0348a22_13']	姿偉可畏顰眉奮目。	姿偉可畏顰眉奮目。	with a majestic and fearsome appearance, frowning and glaring,
+['ZH_T20_1092_022:0348a23_3']	狗牙上出放大光焰。	狗牙上出放大光焰。	with canine teeth protruding upward, emitting a great radiance,
+['ZH_T20_1092_022:0348a23_13']	振吼大奮怒王真言曰。	振吼大奮怒王真言曰。	roaring the mantra of the great wrathful king:
+['ZH_T20_1092_022:0348c21_11_0']	娜莫薩嚩無可反下同嚲詑誐跢都筒反下同音𭌆	娜莫薩嚩無可反下同嚲詑誐跢都筒反下同音𭌆	Namo sarva tathāgata te bhya oṃ
+['ZH_T20_1092_022:0348c21_11_1']	耶餘筒反下同一句婆無何反下同音路輕呼下同	耶餘筒反下同一句婆無何反下同音路輕呼下同	bhrūṃ
+['ZH_T20_1092_022:0348c21_11_2']	枳諦濕嚩囉二句跋馹囉陀上㘑瓢毘藥反三句唵	枳諦濕嚩囉二句跋馹囉陀上㘑瓢毘藥反三句唵	Jati svaha Vartula dhiri🔽Om Jvala jvala Muru muru
+['ZH_T20_1092_022:0348c21_11_3', 'ZH_T20_1092_022:0348c21_11_4']	喉中擡聲引呼者囉上者囉四句主嚕主嚕五句摩🔽訶去迦斤邏反下同嚕抳迦野六句旨𭌆旨𭌆七句	喉中擡聲引呼者囉上者囉四句主嚕主嚕五句摩 訶去迦斤邏反下同嚕抳迦野六句旨𭌆旨𭌆七句	Maha karunika Dhirana dhirana
+['ZH_T20_1092_022:0348c21_11_5']	弭𭌆弭𭌆八句摩訶去鉢頭途邑反下同麼㰤呼筒	弭𭌆弭𭌆八句摩訶去鉢頭途邑反下同麼㰤呼筒	Mridu mridu Maha padma hum
+['ZH_T20_1092_022:0348c21_11_6']	反下例同塞桑紇反下同音嚲九句迦攞迦攞十句	反下例同塞桑紇反下同音嚲九句迦攞迦攞十句	Svaha Kala kala
+['ZH_T20_1092_022:0348c21_11_7', 'ZH_T20_1092_022:0348c21_11_8', 'ZH_T20_1092_022:0348c21_11_9']	矩嚕矩嚕十一句摩訶塞詑麼跛北沒反下同囉跛🔽嚲十二句者囉者囉十三句柘者囉十四句儞舍尸🔽可反柘㘑濕二合嚩囉十五句翳呬曳呬十六句勃	矩嚕矩嚕十一句摩訶塞詑麼跛北沒反下同囉跛 嚲十二句者囉者囉十三句柘者囉十四句儞舍尸 可反柘㘑濕二合嚩囉十五句翳呬曳呬十六句勃	Kuruku ru Maha siddhi prabha🔽Svaha Jvala jvala Tsa jvala svaha🔽Nisha tsa dhiri svaha Ihi yihi
+['ZH_T20_1092_022:0348c21_11_10']	𠆙亭夜反勃𠆙十七句陀上嚩陀上嚩十八句既抳	𠆙亭夜反勃𠆙十七句陀上嚩陀上嚩十八句既抳	Bhuja bhuja Dha va dha va Ghani🔽Ghani
+['ZH_T20_1092_022:0348c21_11_11', 'ZH_T20_1092_022:0348c21_11_12', 'ZH_T20_1092_022:0348c21_11_13', 'ZH_T20_1092_022:0348c21_11_14', 'ZH_T20_1092_022:0348c21_11_15']	既抳十九句播囉麼戍輸律反陀上薩埵二十句迦🔽囉迦囉二十一句枳𭌆枳𭌆二十二句摩訶去鉢戍🔽去鉢底廢無計反灑疎賈反下同陀囉二十三句㰤🔽㰤呬呬虎虎二十四句唵同上呼迦囉沒囉㰤麼二🔽十五句廢灑陀上囉二十六句縒囉縒囉二十七句	既抳十九句播囉麼戍輸律反陀上薩埵二十句迦 囉迦囉二十一句枳𭌆枳𭌆二十二句摩訶去鉢戍 去鉢底廢無計反灑疎賈反下同陀囉二十三句㰤 㰤呬呬虎虎二十四句唵同上呼迦囉沒囉㰤麼二 十五句廢灑陀上囉二十六句縒囉縒囉二十七句	19. Gati 20. Paramatma-satva 21. Karaka 22. Kilikili 23. Maha-pasha-pashani-shri-dharaya 24. Hum hum hri hri 25. Om kara-mara-samaya 26. Fasha-dara 27. Chala chala
+['ZH_T20_1092_022:0348c21_11_16', 'ZH_T20_1092_022:0348c21_11_17', 'ZH_T20_1092_022:0348c21_11_18', 'ZH_T20_1092_022:0348c21_11_19']	嚩囉嚩囉二十八句囉濕弭舍嚲娑去㰤塞二合囉🔽二十九句跛二合囉底丁以反漫抳嚲三十句舍𭌆🔽囉三十一句入嚩攞入嚩攞三十二句素嚕素嚕三🔽十三句姥嚕姥嚕三十四句縒捺矩麼囉三十五句	嚩囉嚩囉二十八句囉濕弭舍嚲娑去㰤塞二合囉🔽二十九句跛二合囉底丁以反漫抳嚲三十句舍𭌆🔽囉三十一句入嚩攞入嚩攞三十二句素嚕素嚕三🔽十三句姥嚕姥嚕三十四句縒捺矩麼囉三十五句	19. Jihva jihva 20. Maha-vajra-kila-dhara 21. Kila kila 22. Maha-vajra-kila-dhara 23. Hum hum hri hri 24. Om kara moha maya 25. Ksha-pata-dhara 26. Chala chala 27. Vara vara 28. Rashmi-shanti-maya-maya-sara 29. Para-dharma-mantra-shanti-raja 30. Kila kila 31. Vara vara 32. Rashmi-shanti-maya-maya-sara 33. Para-dharma-mantra-shanti-raja 34. Kila kila 35. Vara vara 36. Rashmi-shanti-maya-maya-sara 37. Para-dharma-mantra-shanti-raja 38. Kila kila 39. Vara vara 40. Rashmi-shanti-maya-maya-sara 41. Para-dharma-mantra-shanti-raja 42. Kila kila 43. Vara vara 44. Rashmi-shanti-maya-maya-sara 45. Para-dharma-mantra-shanti-raja 46. Kila kila 47. Vara vara 48. Rashmi-shanti-maya-maya-sara 49. Para-dharma-mantra-shanti-raja 50. Kila kila 51. Vara vara 52. Rashmi-shanti-maya-maya-sara 53. Para-dharma-mantra-shanti-raja 54. Kila kila 55. Vara vara 56. Rashmi-shanti-maya-maya-sara 57. Para-dharma-mantra-shanti-raja 58. Kila kila 59. Vara vara 60. Rashmi-shanti-maya-maya-sara 61. Para-dharma-mantra-shanti-raja 62. Kila kila 63. Vara vara 64. Rashmi-shanti-maya-maya-sara 65. Para-dharma-mantra-sh
+['ZH_T20_1092_022:0348c21_11_20']	嚕捺奴乙反囉弭瑟努三十六句婆縒嚩陀上娜娜	嚕捺奴乙反囉弭瑟努三十六句婆縒嚩陀上娜娜	Rula mi senu thirty-six Pocha wajita nata
+['ZH_T20_1092_022:0348c21_11_21', 'ZH_T20_1092_022:0348c21_11_22']	三十七句理使那去野迦三十八句婆虎弭弭陀廢🔽灑陀上囉三十九句陀囉陀囉四十句縒曼嚲婆路	三十七句理使那去野迦三十八句婆虎弭弭陀廢 灑陀上囉三十九句陀囉陀囉四十句縒曼嚲婆路	thirty-seven Liminagaka thirty-eight Phatu miti mita pes🔽shita ra thirty-nine Tara tara forty Chamanti maruchi
+['ZH_T20_1092_022:0348c21_11_23']	枳嚲四十一句弭路枳嚲四十二句路計濕嚩囉四	枳嚲四十一句弭路枳嚲四十二句路計濕嚩囉四	ti forty-one Maruchi forty-two Luchishabara
+['ZH_T20_1092_022:0348c21_11_24']	十三句摩醯濕嚩囉四十四句姥耶姥耶四十五句	十三句摩醯濕嚩囉四十四句姥耶姥耶四十五句	forty-three Maheyshabara forty-four Maya maya forty-five
+['ZH_T20_1092_022:0348c21_11_25']	悶遮悶遮四十六句嚩陀上畔陀上那四十七句囉	悶遮悶遮四十六句嚩陀上畔陀上那四十七句囉	Mocha mocha forty-six Wajita nata nata forty-seven
+['ZH_T20_1092_022:0348c21_11_26', 'ZH_T20_1092_022:0348c21_11_27']	惹嚲塞迦囉四十八句㰤近女去塢娜迦四十九句🔽弭灑捨塞怛二合囉五十句播𭌆暮者迦五十一句	惹嚲塞迦囉四十八句㰤近女去塢娜迦四十九句 弭灑捨塞怛二合囉五十句播𭌆暮者迦五十一句	Rajita sagara forty-eight Hunnu naga forty-nine🔽Mishashita ra fifty Phat mujaka fifty-one
+['ZH_T20_1092_022:0348c21_11_28']	迦拏迦拏五十二句嚩囉曝杖途樣反誐五十三句	迦拏迦拏五十二句嚩囉曝杖途樣反誐五十三句	Kana kana fifty-two Warajika fifty-three
+['ZH_T20_1092_022:0348c21_11_29', 'ZH_T20_1092_022:0348c21_11_30', 'ZH_T20_1092_022:0348c21_11_31', 'ZH_T20_1092_022:0348c21_11_32', 'ZH_T20_1092_022:0348c21_11_33']	柘覩邏𭌆野揚可反薩陀丁也反五十四句參跛二🔽合囉迦舍迦五十五句嚲麼嚲麼五十六句縒麼縒🔽麼五十七句麼嗟麼嗟五十八句麼訶去嚲悶陀上🔽迦囉五十九句跛囉二合舍麼那六十句弭理弭理🔽六十一句翳制居例反野折摩六十二句播𭌆迦囉	柘覩邏𭌆野揚可反薩陀丁也反五十四句參跛二 合囉迦舍迦五十五句嚲麼嚲麼五十六句縒麼縒 麼五十七句麼嗟麼嗟五十八句麼訶去嚲悶陀上 迦囉五十九句跛囉二合舍麼那六十句弭理弭理 六十一句翳制居例反野折摩六十二句播𭌆迦囉	ṣaḍaṅgaṃ🔽ṣaḍabhijñaṃ🔽ṣaḍgatikaṃ🔽ṣaḍvargikaṃ🔽ṣaḍbhiḥ pāramitābhiḥ paripūrṇaṃ🔽ṣaḍbhiḥ pāramitābhiḥ paripūrṇaṃ🔽ṣaḍbhiḥ pāramitābhiḥ paripūrṇaṃ🔽ṣaḍbhiḥ pāramitābhiḥ paripūrṇaṃ🔽ṣaḍbhiḥ pāramitābhiḥ paripūrṇaṃ🔽ṣaḍbhiḥ pāramitābhiḥ paripūrṇaṃ🔽ṣaḍbhiḥ pāramitābhiḥ paripūrṇaṃ🔽ṣaḍbhiḥ pāramitābhiḥ paripūrṇaṃ🔽ṣaḍbhiḥ pāramitābhiḥ paripūrṇaṃ🔽ṣaḍbhiḥ pāramitābhiḥ paripūrṇaṃ🔽ṣaḍbhiḥ pāramitābhiḥ paripūrṇaṃ🔽ṣaḍbhiḥ pāramitābhiḥ paripūrṇaṃ🔽ṣaḍbhiḥ pāramitābhiḥ paripūrṇaṃ🔽ṣaḍbhiḥ pāramitābhiḥ paripūrṇaṃ🔽ṣaḍbhiḥ pāramitābhiḥ paripūrṇaṃ🔽ṣaḍbhiḥ pāramitābhiḥ paripūrṇaṃ🔽ṣaḍbhiḥ pāramitābhiḥ paripūrṇaṃ🔽ṣaḍbhiḥ pāramitābhiḥ paripūrṇaṃ🔽ṣaḍbhiḥ pāramitābhiḥ paripūrṇaṃ🔽ṣaḍbhiḥ pāramitābhiḥ paripūrṇaṃ🔽ṣaḍbhiḥ pāramitābhiḥ paripūrṇaṃ🔽ṣaḍbhiḥ pāramitābhiḥ paripūrṇaṃ🔽ṣaḍbhiḥ pāramitābhiḥ paripūrṇaṃ🔽ṣaḍbhiḥ pāramitābhiḥ paripūrṇaṃ🔽ṣaḍbhiḥ pāramitābhiḥ paripūrṇaṃ🔽ṣaḍbhiḥ pāramitābhiḥ paripūrṇaṃ🔽ṣaḍbhiḥ pāramitābhiḥ
+['ZH_T20_1092_022:0348c21_11_34', 'ZH_T20_1092_022:0348c21_11_35', 'ZH_T20_1092_022:0348c21_11_36', 'ZH_T20_1092_022:0348c21_11_37']	六十三句翳呬曳呬六十四句麼䋾知賈反下同音🔽麼䋾六十五句弭戍陀上弭灑野皤枲曩輕呼六十🔽六句摩訶去迦嚕抳迦六十七句濕廢無計反嚲六🔽十八句拽移結反腎饒去播弭嚲六十九句喇怛娜	六十三句翳呬曳呬六十四句麼䋾知賈反下同音🔽麼䋾六十五句弭戍陀上弭灑野皤枲曩輕呼六十🔽六句摩訶去迦嚕抳迦六十七句濕廢無計反嚲六🔽十八句拽移結反腎饒去播弭嚲六十九句喇怛娜	254. Tatrodyat satvaḥ, 255. Sampraharṣakaḥ, 256. Dhama dhama, 257. Svama svama, 258. Maccha maccha, 259. Mahādharmāṅgaṇa, 260. Prasaraṇa, 261. Mṛiṃ mṛiṃ, 262. Ekajaṭa, 263. Pūjana, 264. Īha Īha, 265. Mañja mañja, 266. Mañju mañju, 267. Mañjuśrī, 268. Mṛiḍa mṛiḍa, 269. Mṛiḍa mṛiḍa, 270. Mṛiḍa mṛiḍa, 271. Mṛiḍa mṛiḍa, 272. Mṛiḍa mṛiḍa, 273. Mṛiḍa mṛiḍa, 274. Mṛiḍa mṛiḍa, 275. Mṛiḍa mṛiḍa, 276. Mṛiḍa mṛiḍa, 277. Mṛiḍa mṛiḍa, 278. Mṛiḍa mṛiḍa, 279. Mṛiḍa mṛiḍa, 280. Mṛiḍa mṛiḍa, 281. Mṛiḍa mṛiḍa, 282. Mṛiḍa mṛiḍa, 283. Mṛiḍa mṛiḍa, 284. Mṛiḍa mṛiḍa, 285. Mṛiḍa mṛiḍa, 286. Mṛiḍa mṛiḍa, 287. Mṛiḍa mṛiḍa, 288. Mṛiḍa mṛiḍa, 289. Mṛiḍa mṛiḍa,
+['ZH_T20_1092_022:0348c21_11_38', 'ZH_T20_1092_022:0348c21_11_39', 'ZH_T20_1092_022:0348c21_11_40', 'ZH_T20_1092_022:0348c21_11_41', 'ZH_T20_1092_022:0348c21_11_42', 'ZH_T20_1092_022:0348c21_11_43', 'ZH_T20_1092_022:0348c21_11_44', 'ZH_T20_1092_022:0348c21_11_45']	摩矩䋾七十句摩羅陀囉七十一句薩嚩腎惹始囉🔽枲七十二句訖𭌆嚲惹䋾摩矩䋾七十三句摩訶去🔽特二合步嚲七十四句迦麼攞訖𭌆嚲七十五句迦🔽囉補䋾參去麼地七十六句弭目訖灑跛二合囉劍🔽𬼩并也反七十七句殺播囉弭嚲七十八句播𭌆布🔽囉迦七十九句婆二合虎薩埵散怛底八十句鉢𭌆🔽播者迦八十一句薩嚩摩囉儞訥瑟䋾八十二句鉢🔽二合羅沫娜迦八十三句薩嚩悉𠆙舍八十四句鉢	摩矩䋾七十句摩羅陀囉七十一句薩嚩腎惹始囉 枲七十二句訖𭌆嚲惹䋾摩矩䋾七十三句摩訶去 特二合步嚲七十四句迦麼攞訖𭌆嚲七十五句迦 囉補䋾參去麼地七十六句弭目訖灑跛二合囉劍 𬼩并也反七十七句殺播囉弭嚲七十八句播𭌆布 囉迦七十九句婆二合虎薩埵散怛底八十句鉢𭌆 播者迦八十一句薩嚩摩囉儞訥瑟䋾八十二句鉢 二合羅沫娜迦八十三句薩嚩悉𠆙舍八十四句鉢	70. Māṃ kuruta sapta-ekaviṃśati 71. sarva-kleśa-jñā-śriye🔽72. kṣānti-jñāna-māṃ kuruta mahā-🔽73. prajñā-kāma-kṣānti-kā🔽74. rā-puṇya-saṃgata-mokṣa-🔽75. mārga-śuddha-śrāmaṇa-śrāmaṇerī🔽76. śrāvaka-pratyekabuddha-bodhisattva🔽77. buddha-pūjā-vidhi-pūrvam🔽78. sarva-pāpa-vināśana🔽79. sarva-duḥkha-pramokṣaṇa🔽80. sarva-kleśa-praśamana🔽81. sarva-buddha-bodhisattvāvalokita🔽82. sarva-śakra-brahma-lokapāla-stuta🔽83. sarva-devāsura-garuḍa-kinnara-mahoraga-nāgādhipa-praṇamita🔽84. sarva-pṛthivī-devatā-samalaṃkṛta
+['ZH_T20_1092_022:0348c21_11_46']	理布囉迦八十五句㫊鼻詵者覩𤚥牟含反八十六	理布囉迦八十五句㫊鼻詵者覩𤚥牟含反八十六	71. Sarva-jñā-jñāna-mārga 72. Mahā-prajñā-pāramitā 73. Mahā-prajñā-pāramitā 74. Mahā-prajñā-pāramitā 75. Mahā-prajñā-pāramitā 76. Mahā-prajñā-pāramitā 77. Mahā-prajñā-pāramitā 78. Mahā-prajñā-pāramitā 79. Mahā-prajñā-pāramitā 80. Mahā-prajñā-pāramitā 81. Mahā-prajñā-pāramitā 82. Mahā-prajñā-pāramitā 83. Mahā-prajñā-pāramitā 84. Mahā-prajñā-pāramitā 85. Mahā-prajñā-pāramitā 86. Mahā-prajñā-pāramitā 87. Mahā-prajñā-pāramitā 88. Mahā-prajñā-pāramitā 89. Mahā-prajñā-pāramitā 90. Mahā-prajñā-pāramitā 91. Mahā-prajñā-pāramitā 92. Mahā-prajñā-pāramitā 93. Mahā-prajñā-pāramitā 94. Mahā-prajñā-pāramitā 95. Mahā-prajñā-pāramitā 96. Mahā-prajñā-pāramitā 97. Mahā-prajñā-pāramitā 98. Mahā-prajñā-pāramitā 99. Mahā-prajñā-pāramitā 100. Mahā-prajñā-pāramitā
+['ZH_T20_1092_022:0348c21_11_47', 'ZH_T20_1092_022:0348c21_11_48']	句薩嚩嚲陀誐跢鼻曬罽八十七句薄伽上畔八十🔽八句㫊暮伽上嚩惹𤙖㤄八十九句南謨窣覩羝九	句薩嚩嚲陀誐跢鼻曬罽八十七句薄伽上畔八十 八句㫊暮伽上嚩惹𤙖㤄八十九句南謨窣覩羝九	Om namo bhagavate aparājita-uṣṇīṣavijayāya tathāgatāya arhate samyak-saṃbuddhāya tadyathā oṃ jaya-vijaya-ajita-aparājitā-vijayavati svāhā🔽Om namo bhagavate aparājita-uṣṇīṣavijayāya tathāgatāya arhate samyak-saṃbuddhāya tadyathā oṃ jaya-vijaya-ajita-aparājitā-vijayavati svāhā
+['ZH_T20_1092_022:0348c21_11_49', 'ZH_T20_1092_022:0348c21_11_50', 'ZH_T20_1092_022:0348c21_11_51', 'ZH_T20_1092_022:0348c21_11_52']	十句莎桑邑反嚩訶九十一句大奮怒王心真言唵🔽同上呼弭訖二合𭌆嚲一鄧瑟吒知禮反囉二㫊暮🔽伽上縒麼耶三㫊鼻詵者四薩嚩那暮伽上五鼻曬🔽迦六𤙖𤙖七弭𭌆弭履八莎同上嚩訶九爾時觀世	十句莎桑邑反嚩訶九十一句大奮怒王心真言唵 同上呼弭訖二合𭌆嚲一鄧瑟吒知禮反囉二㫊暮 伽上縒麼耶三㫊鼻詵者四薩嚩那暮伽上五鼻曬 迦六𤙖𤙖七弭𭌆弭履八莎同上嚩訶九爾時觀世	Om namo bhagavate aparājita-uṣṇīṣavijayāya tathāgatāya arhate samyak-saṃbuddhāya tadyathā oṃ jaya-vijaya-ajita-aparājitā-vijayavati svāhā🔽Om namo bhagavate aparājita-uṣṇīṣavijayāya tathāgatāya arhate samyak-saṃbuddhāya tadyathā oṃ jaya-vijaya-ajita-aparājitā-vijayavati svāhā🔽Om namo bhagavate aparājita-uṣṇīṣavijayāya tathāgatāya arhate samyak-saṃbuddhāya tadyathā oṃ jaya-vijaya-ajita-aparājitā-vijayavati svāhā
+['ZH_T20_1092_022:0348c21_11_53', 'ZH_T20_1092_022:0348c21_11_54', 'ZH_T20_1092_022:0348c22_6']	音菩薩摩訶薩說斯真言時其補陀洛山觀世音宮🔽殿六返震動。🔽一切諸大龍王種族悉皆惶懼。	音菩薩摩訶薩說斯真言時其補陀洛山觀世音宮 殿六返震動。 一切諸大龍王種族悉皆惶懼。	Om namo bhagavate aparājita-uṣṇīṣavijayāya tathāgatāya arhate samyak-saṃbuddhāya tadyathā oṃ jaya-vijaya-ajita-aparājitā-vijayavati svāhā🔽Om namo bhagavate aparājita-uṣṇīṣavijayāya tathāgatāya arhate samyak-saṃbuddhāya tadyathā oṃ jaya-vijaya-ajita-aparājitā-vijayavati svāhā🔽Om namo bhagavate aparājita-uṣṇīṣavijayāya tathāgatāya arhate samyak-saṃbuddhāya tadyathā oṃ jaya-vijaya-ajita-aparājitā-vijayavati svāhā
+['ZH_T20_1092_022:0348c23_1']	一切諸天曼拏羅神皆大歡喜。	一切諸天曼拏羅神皆大歡喜。	Om namo bhagavate
+['ZH_T20_1092_022:0348c24_4']	一切眾惡毘那夜迦藥叉羅剎種種鬼神為火燒惱。	一切眾惡毘那夜迦藥叉羅剎種種鬼神為火燒惱。	All kinds of evil Vināyakas, Yakṣas, and Rākṣasas are burned by fire.
+['ZH_T20_1092_022:0348c24_13']	一切魔眾惡心俱息。	一切魔眾惡心俱息。	The evil minds of all Māra hordes are all put to rest.
+['ZH_T20_1092_022:0348c25_7']	一切地獄有情受苦皆得解脫。	一切地獄有情受苦皆得解脫。	All sentient beings in the hells who are suffering will all attain liberation.
+['ZH_T20_1092_022:0348c26_2']	一切有情罪垢病苦盡皆消滅。	一切有情罪垢病苦盡皆消滅。	All sentient beings' sinful defilements and sufferings will all be extinguished.
+['ZH_T20_1092_022:0348c26_15']	於虛空中雨於諸天眾妙寶華。	於虛空中雨於諸天眾妙寶華。	In the sky, the various heavens rain down wondrous jeweled flowers.
+['ZH_T20_1092_022:0348c27_5']	繽紛亂墜供養諸佛。	繽紛亂墜供養諸佛。	They scatter and fall in disarray, making offerings to the buddhas.
+['ZH_T20_1092_022:0349a01_12']	爾時十方剎土三世一切諸佛。	爾時十方剎土三世一切諸佛。	At that time, the buddhas of the lands in the ten directions and the three times,
+['ZH_T20_1092_022:0349a02_6']	一切菩薩摩訶薩一切壇神。	一切菩薩摩訶薩一切壇神。	all bodhisattva-mahāsattvas, and all altar spirits,
+['ZH_T20_1092_022:0349a03_2']	一時歌讚觀世音菩薩摩訶薩曰。	一時歌讚觀世音菩薩摩訶薩曰。	all sang praises to Avalokitêśvara Bodhisattva-mahāsattva, saying:
+['ZH_T20_1092_022:0349a03_10']	善哉善哉大悲者。	善哉善哉大悲者。	Excellent, excellent! Greatly compassionate one,
+['ZH_T20_1092_022:0349a04_5']	能善說此大奮怒王真言三昧耶。	能善說此大奮怒王真言三昧耶。	you are able to skillfully expound this great wrathful king's mantra samādhi.
+['ZH_T20_1092_022:0349a05_11']	此三昧耶能會一切如來祕密種族真實大奮怒王三昧耶。	此三昧耶能會一切如來祕密種族真實大奮怒王三昧耶。	This samādhi is able to gather the secret family of all tathāgatas' true great wrathful king samādhi.
+['ZH_T20_1092_022:0349a06_14']	當願重說此大奮怒王真言曼拏羅印成就三昧耶。	當願重說此大奮怒王真言曼拏羅印成就三昧耶。	Please once again expound this great wrathful king's mantra maṇḍala mudrā accomplishment samādhi.
+['ZH_T20_1092_022:0349a07_7']	爾時觀世音菩薩摩訶薩。	爾時觀世音菩薩摩訶薩。	At that time, Avalokiteśvara Bodhisattva Mahāsattva
+['ZH_T20_1092_022:0349a07_14']	復白佛言世尊。	復白佛言世尊。	again addressed the Buddha, saying, World-Honored One,
+['ZH_T20_1092_022:0349a08_9']	是大奮怒王真言曼拏羅三昧耶。	是大奮怒王真言曼拏羅三昧耶。	this maṇḍala samādhi of the great wrathful king's mantra
+['ZH_T20_1092_022:0349a08_18']	縱廣五肘如法圖飾。	縱廣五肘如法圖飾。	is five cubits wide and long, drawn according to the Dharma.
+['ZH_T20_1092_022:0349a09_8']	標郭界院開廓四門。	標郭界院開廓四門。	Mark the boundaries of the courtyard and open up the four gates.
+['ZH_T20_1092_022:0349a09_17']	彩色筆盞皆淨新好。	彩色筆盞皆淨新好。	The colored paints and brushes should all be new and clean.
+['ZH_T20_1092_022:0349a10_11']	畫匠畫時出入淨浴著淨衣服。	畫匠畫時出入淨浴著淨衣服。	When the painter enters and exits, they should bathe and wear clean clothes.
+['ZH_T20_1092_022:0349a11_2']	內院當中畫大金輪。	內院當中畫大金輪。	In the center of the inner courtyard, draw a great golden wheel.
+['ZH_T20_1092_022:0349a11_11']	當輪心上寶蓮華座。	當輪心上寶蓮華座。	Above the center of the wheel is a jeweled lotus flower seat.
+['ZH_T20_1092_022:0349a12_8']	上釋迦牟尼如來作說法相面西而坐。	上釋迦牟尼如來作說法相面西而坐。	On it, Śākyamuni Tathāgata, in the appearance of expounding the Dharma, sits facing west.
+['ZH_T20_1092_022:0349a13_1']	右大奮怒王觀世音菩薩。	右大奮怒王觀世音菩薩。	To the right is the great wrathful king Avalokiteśvara Bodhisattva.
+['ZH_T20_1092_022:0349a13_11']	左執金剛祕密主菩薩。	左執金剛祕密主菩薩。	To the left is Vajrapāṇi Bodhisattva.
+['ZH_T20_1092_022:0349a14_2']	大奮怒王觀世音座後。	大奮怒王觀世音座後。	Behind the seat of the great wrathful king Avalokiteśvara,
+['ZH_T20_1092_022:0349a14_11']	憍理菩薩手執蓮華。	憍理菩薩手執蓮華。	is Kārī Bodhisattva, holding a lotus flower in his hand.
+['ZH_T20_1092_022:0349a15_12']	次半拏羅婆徙儞白衣觀世音菩薩手執蓮華。	次半拏羅婆徙儞白衣觀世音菩薩手執蓮華。	Next is Pañjara-bhāṣiṇī White-robed Avalokiteśvara Bodhisattva, holding a lotus flower in his hand.
+['ZH_T20_1092_022:0349a16_8']	次摩訶濕廢多白身觀世音菩薩。	次摩訶濕廢多白身觀世音菩薩。	Next is Mahāśvetā White-bodied Avalokiteśvara Bodhisattva.
+['ZH_T20_1092_022:0349a17_3']	一手執如意寶杖一手執澡罐。	一手執如意寶杖一手執澡罐。	One hand holding a wish-fulfilling jewel staff, the other hand holding a water jar.
+['ZH_T20_1092_022:0349a17_12']	是諸菩薩而坐蓮座。	是諸菩薩而坐蓮座。	These bodhisattvas are seated on lotus seats.
+['ZH_T20_1092_022:0349a18_5']	次一髻羅剎女神面目可畏。	次一髻羅剎女神面目可畏。	Next, the Rākṣasī Goddess with a Topknot has a frightening face.
+['ZH_T20_1092_022:0349a18_14']	蛇為瓔珞身有六臂。	蛇為瓔珞身有六臂。	She has six arms and snakes for necklaces.
+['ZH_T20_1092_022:0349a19_3', 'ZH_T20_1092_022:0349a19_14']	右一手執金剛杵。🔽一手持羂索一手持曲刀。	右一手執金剛杵。 一手持羂索一手持曲刀。	The right hand holds a vajra scepter,🔽one hand holds a lasso, and one hand holds a curved knife.
+['ZH_T20_1092_022:0349a20_7', 'ZH_T20_1092_022:0349a21_2']	左一手持鉞斧一手持皿鉢。🔽一手以大指捻無名指根下文。	左一手持鉞斧一手持皿鉢。 一手以大指捻無名指根下文。	The left hand holds an axe, one hand holds a bowl,🔽and one hand pinches the base of the ring finger with the thumb.
+['ZH_T20_1092_022:0349a21_11', 'ZH_T20_1092_022:0349a21_18']	其中指無名指小指。🔽急握大指作拳。	其中指無名指小指。 急握大指作拳。	The middle finger, ring finger, and little finger🔽are tightly clenched around the thumb, making a fist.
+['ZH_T20_1092_022:0349a22_7']	頭指直竪作期剋印。	頭指直竪作期剋印。	The index finger is extended straight up, forming the mudrā of binding.
+['ZH_T20_1092_022:0349a22_16']	半加趺坐身披象皮。	半加趺坐身披象皮。	Seated in half-lotus posture, she wears an elephant skin.
+['ZH_T20_1092_022:0349a23_6']	次院開敷蓮華臺上。	次院開敷蓮華臺上。	In the next courtyard, on the platform of blooming lotus flowers,
+['ZH_T20_1092_022:0349a23_15']	一切諸印繞火光焰。	一切諸印繞火光焰。	all the mudrās are surrounded by flames of fire.
+['ZH_T20_1092_022:0349a24_4']	東門可畏眼金剛。	東門可畏眼金剛。	At the eastern gate is the Vajra with Frightening Eyes,
+['ZH_T20_1092_022:0349a24_17']	一手把杵一手揚掌半加趺坐。	一手把杵一手揚掌半加趺坐。	holding a scepter in one hand and raising the palm in the other, seated in half-lotus posture.
+['ZH_T20_1092_022:0349a25_8']	南門毘那夜迦頭金剛。	南門毘那夜迦頭金剛。	At the southern gate is the Vajra with the Head of Vināyaka,
+['ZH_T20_1092_022:0349a25_13']	身有四臂。	身有四臂。	with four arms.
+['ZH_T20_1092_022:0349a26_4']	一手執杵一手持鉞斧。	一手執杵一手持鉞斧。	One hand holding a pestle, one hand holding an axe.
+['ZH_T20_1092_022:0349a27_2']	一手執羂索一手持三叉戟半加趺坐。	一手執羂索一手持三叉戟半加趺坐。	One hand holding a lasso, one hand holding a trident, sitting in half-lotus posture.
+['ZH_T20_1092_022:0349a27_13']	西門蓮華種族度底使者。	西門蓮華種族度底使者。	At the west gate, the messenger of the Lotus Family, Dōti,
+['ZH_T20_1092_022:0349a28_10']	一手把白拂一手伸於膝上半加趺坐。	一手把白拂一手伸於膝上半加趺坐。	holding a white whisk in one hand, the other hand extended on the knee, sitting in half-lotus posture.
+['ZH_T20_1092_022:0349a29_4']	北門金剛種族大頂金剛王。	北門金剛種族大頂金剛王。	At the north gate, the Vajra King of Great Peak, of the Vajra Family,
+['ZH_T20_1092_022:0349a29_18']	一手執羂索一手把杵半加趺坐。	一手執羂索一手把杵半加趺坐。	holding a lasso in one hand, holding a pestle in the other hand, sitting in half-lotus posture.
+['ZH_T20_1092_022:0349b01_8']	如是諸神身出光焰。	如是諸神身出光焰。	Such deities emit light from their bodies.
+['ZH_T20_1092_022:0349b02_1']	次院一切天印繞火光焰。	次院一切天印繞火光焰。	In the next courtyard, all celestial seals surround the firelight.
+['ZH_T20_1092_022:0349b02_10']	四門四角寶閼伽瓶。	四門四角寶閼伽瓶。	At the four gates and four corners are precious akṣobhya vases.
+['ZH_T20_1092_022:0349b03_4']	口出蓮華蒲桃朵葉金剛杵頭。	口出蓮華蒲桃朵葉金剛杵頭。	Lotus flowers and grape blossoms emerge from their mouths, with vajra pestles on top.
+['ZH_T20_1092_022:0349b03_17']	於其院界金剛標郭幡華莊嚴。	於其院界金剛標郭幡華莊嚴。	Within the courtyard boundary, vajra markers form a fence, adorned with banners and flowers.
+['ZH_T20_1092_022:0349b04_5']	西門置七寶瓶。	西門置七寶瓶。	At the west gate, place a vase of the seven treasures.
+['ZH_T20_1092_022:0349b05_1']	滿盛白栴檀香欝金香龍腦香水。	滿盛白栴檀香欝金香龍腦香水。	Fill it with white sandalwood incense, saffron, and camphor water.
+['ZH_T20_1092_022:0349b05_10']	裏置七寶帛蓋其上。	裏置七寶帛蓋其上。	Inside, place the seven treasures and a silk cover above it.
+['ZH_T20_1092_022:0349b06_12']	依法加持香華香水飲食果子塗香燒香酥燈油燈。	依法加持香華香水飲食果子塗香燒香酥燈油燈。	In accordance with the Dharma, empower the incense, flowers, perfumed water, food, fruit, unguents, incense, ghee lamps, and oil lamps.
+['ZH_T20_1092_022:0349b07_5']	供養諸佛菩薩真言明神。	供養諸佛菩薩真言明神。	Make offerings to the buddhas, bodhisattvas, mantra deities, and spirits.
+['ZH_T20_1092_022:0349b07_18']	淨嚴身服食三白食結印護身。	淨嚴身服食三白食結印護身。	Purify the body, wear clean clothes, eat the three white foods, form mudras, and protect the body.
+['ZH_T20_1092_022:0349b08_8']	西門作法召請結所。	西門作法召請結所。	At the west gate, perform the ritual of summoning and binding.
+['ZH_T20_1092_022:0349b08_17']	依不空王觀世音相。	依不空王觀世音相。	Rely on the appearance of Avalokiteśvara, the king of emptiness.
+['ZH_T20_1092_022:0349b09_13']	以一切法任持智印金剛身語心印。	以一切法任持智印金剛身語心印。	With the wisdom seal that upholds all dharmas, the vajra body, speech, and mind seals,
+['ZH_T20_1092_022:0349b10_7']	入真言字輪輪攝觀世音相。	入真言字輪輪攝觀世音相。	Enter the mantra letter wheel, the wheel that subsumes the appearance of Avalokiteśvara.
+['ZH_T20_1092_022:0349b11_1']	觀自在智平等輪光三昧耶。	觀自在智平等輪光三昧耶。	The samādhi of the light of the wheel of equality of the wisdom of Avalokiteśvara.
+['ZH_T20_1092_022:0349b11_14']	誦持神通解脫心陀羅尼真言。	誦持神通解脫心陀羅尼真言。	Recite and uphold the dhāraṇī mantra of the mind of spiritual powers and liberation.
+['ZH_T20_1092_022:0349b12_8']	當請十方剎土三世一切如來。	當請十方剎土三世一切如來。	You should invite the tathāgatas of the ten directions and three times.
+['ZH_T20_1092_022:0349b13_3']	攝受加被此曼拏羅印三昧耶。	攝受加被此曼拏羅印三昧耶。	Accept and bestow empowerment upon this maṇḍala seal samādhi.
+['ZH_T20_1092_022:0349b13_11']	誦大奮怒王真言。	誦大奮怒王真言。	Recite the mantra of the great wrathful king.
+['ZH_T20_1092_022:0349b13_17']	加持香水瓮。	加持香水瓮。	Empower the water jar with mantra.
+['ZH_T20_1092_022:0349b14_7']	是真言者教誨請法者。	是真言者教誨請法者。	The mantra practitioner teaches and requests the Dharma practitioner.
+['ZH_T20_1092_022:0349b15_3']	三昧耶加持散華灌頂受三昧耶。	三昧耶加持散華灌頂受三昧耶。	The samādhi empowerment scatters flowers and sprinkles the crown, receiving the samādhi.
+['ZH_T20_1092_022:0349b16_6']	入是壇者當入一切如來種族灌頂曼拏羅三昧耶。	入是壇者當入一切如來種族灌頂曼拏羅三昧耶。	Those who enter this altar should enter the empowerment maṇḍala samādhi of all tathāgata families.
+['ZH_T20_1092_022:0349b17_8']	證見一切不空種族一切曼拏羅印成就三昧耶。	證見一切不空種族一切曼拏羅印成就三昧耶。	One will attain the samaya of the accomplishment of all the non-empty family, all maṇḍalas, and mudrās.
+['ZH_T20_1092_022:0349b17_17']	一切厄障盡皆消滅。	一切厄障盡皆消滅。	All calamities and hindrances will be completely eliminated.
+['ZH_T20_1092_022:0349b18_11']	一切如來種種功德當得相應。	一切如來種種功德當得相應。	One will attain the various merits of all tathāgatas.
+['ZH_T20_1092_022:0349b19_8']	一切真言明仙大轉輪王恭敬祐護。	一切真言明仙大轉輪王恭敬祐護。	All mantra vidyādharas and great cakravartins will respectfully protect and guard.
+['ZH_T20_1092_022:0349b20_3']	一切天龍八部鬼神愛樂恭敬。	一切天龍八部鬼神愛樂恭敬。	All devas, nāgas, and the eight classes of spirits will love and respect.
+['ZH_T20_1092_022:0349b20_14']	一切真言明神常為恃怙。	一切真言明神常為恃怙。	All mantra vidyā deities will always be relied upon.
+['ZH_T20_1092_022:0349b21_8']	一切行惡天龍八部人非人等。	一切行惡天龍八部人非人等。	All devas, nāgas, and the eight classes of spirits who act wickedly,
+['ZH_T20_1092_022:0349b21_17']	欲起障惱惡心自滅。	欲起障惱惡心自滅。	If they wish to create obstacles and harm, their evil thoughts will naturally cease.
+['ZH_T20_1092_022:0349b22_13']	世尊是大奮怒王成就三昧耶者。	世尊是大奮怒王成就三昧耶者。	World-Honored One, for those who accomplish this great wrathful king's samādhi,
+['ZH_T20_1092_022:0349b23_7']	銀造大奮怒王觀世音菩薩。	銀造大奮怒王觀世音菩薩。	One should make Avalokiteśvara Bodhisattva of the Great Wrathful King with silver.
+['ZH_T20_1092_022:0349b23_16']	身長橫量十六指量。	身長橫量十六指量。	The body is sixteen fingers long and wide.
+['ZH_T20_1092_022:0349b24_2']	三面四臂。	三面四臂。	With three faces and four arms.
+['ZH_T20_1092_022:0349b24_15', 'ZH_T20_1092_022:0349b25_10']	正中大面熙怡瞬目眉間一眼。🔽左面顰眉怒目可畏眉間一眼。	正中大面熙怡瞬目眉間一眼。 左面顰眉怒目可畏眉間一眼。	The main large face is smiling, with eyes slightly closed and an eye in the middle of the eyebrows.🔽The left face is frowning, with eyes wide open in anger, and an eye in the middle of the eyebrows.
+['ZH_T20_1092_022:0349b26_3']	右面顰眉努目狗牙上出。	右面顰眉努目狗牙上出。	The right face is frowning, with eyes wide open, and upper teeth protruding.
+['ZH_T20_1092_022:0349b26_12']	極大可畏眉間一眼。	極大可畏眉間一眼。	With a huge and terrifying eye in the middle of the eyebrows.
+['ZH_T20_1092_022:0349b27_2']	三首寶冠冠有化佛。	三首寶冠冠有化佛。	A crown with three heads and a transformed Buddha on the crown.
+['ZH_T20_1092_022:0349b27_13']	一手執蓮華一手把羂索。	一手執蓮華一手把羂索。	One hand holding a lotus flower, one hand holding a lasso,
+['ZH_T20_1092_022:0349b28_6']	一手持曲刀一手執三叉戟。	一手持曲刀一手執三叉戟。	One hand holding a curved knife, one hand holding a trident.
+['ZH_T20_1092_022:0349b28_15']	結加趺坐蓮華座上。	結加趺坐蓮華座上。	Seated in the full lotus position on a lotus flower seat.
+['ZH_T20_1092_022:0349b29_1']	身佩光焰。	身佩光焰。	The body adorned with radiant light.
+['ZH_T20_1092_022:0349b29_10']	天妙衣服寶珠瓔珞。	天妙衣服寶珠瓔珞。	Heavenly wonderful clothes, jeweled necklaces,
+['ZH_T20_1092_022:0349b29_19']	耳璫環釧種種莊嚴。	耳璫環釧種種莊嚴。	Earrings, bracelets, and various adornments.
+['ZH_T20_1092_022:0349c01_14']	右銀多羅菩薩執持蓮華半加趺坐。	右銀多羅菩薩執持蓮華半加趺坐。	To the right is the silver Tara Bodhisattva, holding a lotus flower, sitting in the half-lotus position.
+['ZH_T20_1092_022:0349c02_5']	左銀不空明王菩薩。	左銀不空明王菩薩。	To the left is the silver Amoghasiddhi Bodhisattva.
+['ZH_T20_1092_022:0349c02_14']	掌持七寶半加趺坐。	掌持七寶半加趺坐。	Holding seven treasures in the palm, sitting in the half-lotus position.
+['ZH_T20_1092_022:0349c03_4']	華冠衣服瓔珞環釧。	華冠衣服瓔珞環釧。	Flower crowns, clothes, necklaces, bracelets,
+['ZH_T20_1092_022:0349c03_13']	種種莊嚴坐蓮華座。	種種莊嚴坐蓮華座。	Various adornments, sitting on a lotus flower seat.
+['ZH_T20_1092_022:0349c04_4']	觀世音右銀作真言者。	觀世音右銀作真言者。	To the right of Avalokiteshvara is the silver practitioner of the mantra,
+['ZH_T20_1092_022:0349c04_9']	長跪而坐。	長跪而坐。	Kneeling and sitting.
+['ZH_T20_1092_022:0349c05_5']	一手把香爐一手執數珠瞻仰菩薩。	一手把香爐一手執數珠瞻仰菩薩。	One hand holding an incense burner, one hand holding a rosary, gazing up at the Bodhisattva.
+['ZH_T20_1092_022:0349c05_10']	像造飾已。	像造飾已。	After the image is created and decorated,
+['ZH_T20_1092_022:0349c06_5']	如法當以白栴檀香泥摩壇潔飾。	如法當以白栴檀香泥摩壇潔飾。	In accordance with the Dharma, one should anoint the altar with white sandalwood incense paste to cleanse and adorn it.
+['ZH_T20_1092_022:0349c07_9']	白栴檀香泥欝金香泥沈水香泥畫開蓮華像置臺上。	白栴檀香泥欝金香泥沈水香泥畫開蓮華像置臺上。	Smear with white sandalwood paste, turmeric paste, and aquilaria agalloch paste, and draw an open lotus flower image placed on a platform.
+['ZH_T20_1092_022:0349c07_18']	依法承事恭敬供養。	依法承事恭敬供養。	In accordance with the Dharma, serve and respectfully make offerings.
+['ZH_T20_1092_022:0349c08_9']	常依不空王觀世音相。	常依不空王觀世音相。	Always rely on the appearance of the Unfailing King Avalokiteśvara.
+['ZH_T20_1092_022:0349c09_6']	以一切法任持智印金剛身語心印。	以一切法任持智印金剛身語心印。	With the wisdom seal of upholding all dharmas, the vajra body, speech, and mind seals,
+['ZH_T20_1092_022:0349c10_11']	入真言字輪輪攝觀世音相觀自在智平等輪光三昧耶。	入真言字輪輪攝觀世音相觀自在智平等輪光三昧耶。	Enter the mantra letter wheel, the wheel that subsumes the appearance of Avalokiteśvara, the equality wheel of the wisdom of Avalokiteśvara, and the samādhi of light.
+['ZH_T20_1092_022:0349c11_6']	誦持神通解脫心陀羅尼真言。	誦持神通解脫心陀羅尼真言。	Recite and uphold the dhāraṇī mantra of the mind of spiritual powers and liberation.
+['ZH_T20_1092_022:0349c11_13']	大奮怒王真言。	大奮怒王真言。	The mantra of the great wrathful king.
+['ZH_T20_1092_022:0349c11_18']	加持銀像。	加持銀像。	Empower the silver image.
+['ZH_T20_1092_022:0349c12_7']	身現神通軀目瞻動。	身現神通軀目瞻動。	The body manifests spiritual powers, the eyes move,
+['ZH_T20_1092_022:0349c12_16']	放大光明伸手摩頂。	放大光明伸手摩頂。	Emitting great light, extending the hand to rub the crown of the head.
+['ZH_T20_1092_022:0349c13_7']	讚言善哉善哉善男子。	讚言善哉善哉善男子。	Praising, saying, Excellent, excellent, good man.
+['ZH_T20_1092_022:0349c14_2']	我今為汝真實成就一切勝願。	我今為汝真實成就一切勝願。	I will now truly accomplish all supreme vows for you.
+['ZH_T20_1092_022:0349c14_15']	持真言者於時身上亦出光明。	持真言者於時身上亦出光明。	At that time, the reciter of mantras also emits light from the body.
+['ZH_T20_1092_022:0349c15_8']	得此相者則證神通三昧耶。	得此相者則證神通三昧耶。	One who attains this sign then realizes the samādhi of spiritual powers.
+['ZH_T20_1092_022:0349c16_10']	當得不空無垢廣大光明大真言仙稱歎三昧耶。	當得不空無垢廣大光明大真言仙稱歎三昧耶。	One will attain the samadhi praised by the great mantra sages of vast and pure light, who are not empty.
+['ZH_T20_1092_022:0349c17_6']	於六十八百千大真言仙三昧耶。	於六十八百千大真言仙三昧耶。	Among the samadhis of 680,000 great mantra sages,
+['ZH_T20_1092_022:0349c17_11']	而最為最。	而最為最。	This is the most supreme.
+['ZH_T20_1092_022:0349c18_5']	壽命七十二那庾多百千大劫。	壽命七十二那庾多百千大劫。	One's lifespan will be 72 koṭīs of great kalpas.
+['ZH_T20_1092_022:0349c18_14']	受此劫終於夜曉時。	受此劫終於夜曉時。	At the end of this kalpa, at dawn,
+['ZH_T20_1092_022:0349c19_10']	則得證成阿耨多羅三藐三菩提故。	則得證成阿耨多羅三藐三菩提故。	One will attain supreme, perfect enlightenment.
+['ZH_T20_1092_022:0349c20_5']	其所世界歘然變如安樂國土。	其所世界歘然變如安樂國土。	The world will suddenly transform like the Land of Bliss.
+['ZH_T20_1092_022:0349c20_18']	復得增壽無量無邊阿僧祇劫。	復得增壽無量無邊阿僧祇劫。	One will also attain an immeasurable and boundless lifespan of asaṃkhyeya kalpas.
+['ZH_T20_1092_022:0349c22_8']	闡揚不空神通解脫心陀羅尼真言大曼拏羅印三昧耶種種法門。	闡揚不空神通解脫心陀羅尼真言大曼拏羅印三昧耶種種法門。	Proclaiming the various Dharma gates of the Avalokiteśvara's Mind Dhāraṇī Mantra Mahāmaṇḍala Mudrā Samaya, which are not empty and have spiritual powers and liberation.
+['ZH_T20_1092_022:0349c22_17']	又法精潔加持於身。	又法精潔加持於身。	Moreover, the method is to purify and empower the body.
+['ZH_T20_1092_022:0349c23_11']	每日六時誦持大奮怒王真言。	每日六時誦持大奮怒王真言。	Recite and uphold the great wrathful king mantra six times each day.
+['ZH_T20_1092_022:0349c24_3']	中無間闕滿三十六旬。	中無間闕滿三十六旬。	Without interruption, for 36 days.
+['ZH_T20_1092_022:0349c24_10']	得觀世音現身。	得觀世音現身。	Avalokiteśvara will appear in person.
+['ZH_T20_1092_022:0349c25_2']	與證世間真言壇印之法。	與證世間真言壇印之法。	And bestow the methods of worldly mantra altars and mudrās.
+['ZH_T20_1092_022:0349c25_12']	印捺囉羅惹法功巧法。	印捺囉羅惹法功巧法。	The method of Indra, the method of skillful arts,
+['ZH_T20_1092_022:0349c26_1']	戲弄人法縶縛法。	戲弄人法縶縛法。	The method of playing with people, the method of binding,
+['ZH_T20_1092_022:0349c26_8']	調伏法幻化法。	調伏法幻化法。	The method of subduing, the method of illusory transformation,
+['ZH_T20_1092_022:0349c26_19']	自護護他法安怛陀那法。	自護護他法安怛陀那法。	The method of protecting oneself and others, the method of Anuttarayana,
+['ZH_T20_1092_022:0349c27_8']	取伏藏法作金銀法。	取伏藏法作金銀法。	The method of obtaining treasures, the method of making gold and silver,
+['ZH_T20_1092_022:0349c27_17']	騰空法履水如地法。	騰空法履水如地法。	The method of flying in the sky, the method of walking on water as if on land,
+['ZH_T20_1092_022:0349c28_9', 'ZH_T20_1092_022:0349c28_17']	禁火禁刀法起活故人法。🔽召日天月天法治。	禁火禁刀法起活故人法。 召日天月天法治。	The method of controlling fire and controlling weapons, the method of reviving the dead,
+['ZH_T20_1092_022:0349c29_2']	諸病法。	諸病法。	The method of summoning the sun and moon deities, the method of treating various illnesses,
+['ZH_T20_1092_022:0349c29_17']	呼召一切天龍藥叉羅剎人非人法。	呼召一切天龍藥叉羅剎人非人法。	The method of summoning all celestial, dragon, yaksha, rakshasa, human and non-human beings,
+['ZH_T20_1092_022:0350a01_10']	止賊法除蓋障法皆得成就。	止賊法除蓋障法皆得成就。	The method of stopping thieves, the method of removing hindrances, all can be accomplished.
+['ZH_T20_1092_022:0350a02_1']	謂為有情生諸福聚。	謂為有情生諸福聚。	It is said that for the sake of sentient beings, one generates various merits and virtues.
+['ZH_T20_1092_022:0350a02_8']	又法按像足上。	又法按像足上。	Moreover, the method is to press the feet on the image.
+['ZH_T20_1092_022:0350a02_17']	誦大奮怒王真言者。	誦大奮怒王真言者。	Recite the mantra of the Great Wrathful King.
+['ZH_T20_1092_022:0350a03_7']	所有過去積集善根。	所有過去積集善根。	All the wholesome roots accumulated in the past,
+['ZH_T20_1092_022:0350a03_16']	盡皆來集當得富饒。	盡皆來集當得富饒。	Will all come and gather, and one will obtain wealth and abundance.
+['ZH_T20_1092_022:0350a04_6']	若每晨時瞻觀像面。	若每晨時瞻觀像面。	If one gazes at the face of the image every morning,
+['ZH_T20_1092_022:0350a04_15']	誦大奮怒王真言者。	誦大奮怒王真言者。	And recites the mantra of the Great Wrathful King,
+['ZH_T20_1092_022:0350a05_5']	得諸貴人恭敬供養。	得諸貴人恭敬供養。	One will obtain the respect and offerings of all noble people.
+['ZH_T20_1092_022:0350a05_18']	若把像腰誦大奮怒王真言者。	若把像腰誦大奮怒王真言者。	If one holds the waist of the image and recites the great wrathful king's mantra,
+['ZH_T20_1092_022:0350a06_8']	當便省憶過去生事。	當便省憶過去生事。	one will then be able to recall past lives.
+['ZH_T20_1092_022:0350a07_3']	又把像腰誦大奮怒王真言者。	又把像腰誦大奮怒王真言者。	Moreover, if one holds the waist of the image and recites the great wrathful king's mantra,
+['ZH_T20_1092_022:0350a07_12']	世人敬愛念如所願。	世人敬愛念如所願。	the world will respect and love one, thinking of one as one wishes.
+['ZH_T20_1092_022:0350a08_3']	若加持寶冠戴置頂上。	若加持寶冠戴置頂上。	If one empowers a jeweled crown and places it on the top of one's head,
+['ZH_T20_1092_022:0350a08_14']	譡受一切如來大灌頂法。	譡受一切如來大灌頂法。	one will then receive the great consecration ritual of all tathāgatas.
+['ZH_T20_1092_022:0350a09_9']	若把像膝誦大奮怒王真言者。	若把像膝誦大奮怒王真言者。	If one holds the knees of the image and recites the great wrathful king's mantra,
+['ZH_T20_1092_022:0350a10_4']	一切金剛當自歸伏力如金剛。	一切金剛當自歸伏力如金剛。	all vajras will naturally submit and one's power will be like that of a vajra.
+['ZH_T20_1092_022:0350a10_17']	若按像頂誦大奮怒王真言者。	若按像頂誦大奮怒王真言者。	If one presses the top of the image and recites the great wrathful king's mantra,
+['ZH_T20_1092_022:0350a11_15']	當得夢見十方三世一切如來摩頂祐護。	當得夢見十方三世一切如來摩頂祐護。	one will then be able to dream of all tathāgatas of the ten directions and three times placing their hands on one's head and protecting one.
+['ZH_T20_1092_022:0350a12_6']	不入三塗得不退地。	不入三塗得不退地。	One will not enter the three evil paths and will attain the stage of nonretrogression.
+['ZH_T20_1092_022:0350a12_15']	得諸如來功德蘊門。	得諸如來功德蘊門。	One will attain the gateway to the accumulation of merits and virtues of all tathāgatas.
+['ZH_T20_1092_022:0350a13_10']	若像右耳邊誦大奮怒王真言者。	若像右耳邊誦大奮怒王真言者。	If one recites the great wrathful king's mantra by the right ear of the image,
+['ZH_T20_1092_022:0350a14_1']	便得世間富貴圓滿。	便得世間富貴圓滿。	one will then be able to attain the perfection of worldly wealth and nobility.
+['ZH_T20_1092_022:0350a14_15']	若像左耳邊誦大奮怒王真言者。	若像左耳邊誦大奮怒王真言者。	If one recites the great wrathful king's mantra by the left ear of the image,
+['ZH_T20_1092_022:0350a15_9']	則得一切藥叉羅剎恭敬給侍。	則得一切藥叉羅剎恭敬給侍。	Then one will obtain the respect and service of all yakshas and rakshasas.
+['ZH_T20_1092_022:0350a16_3']	若奮目瞤睛觀毘沙門像面。	若奮目瞤睛觀毘沙門像面。	If one glares with bulging eyes at the face of Vaisravana's image,
+['ZH_T20_1092_022:0350a16_12']	誦大奮怒王真言者。	誦大奮怒王真言者。	And recites the mantra of the Great Wrathful King,
+['ZH_T20_1092_022:0350a17_4']	則得毘沙門王樂為使護。	則得毘沙門王樂為使護。	Then one will obtain Vaisravana's joy in serving and protecting.
+['ZH_T20_1092_022:0350a17_15']	若奮目瞤睛觀功德天面。	若奮目瞤睛觀功德天面。	If one glares with bulging eyes at the face of the Goddess of Wealth,
+['ZH_T20_1092_022:0350a18_7']	誦大奮怒王真言者。	誦大奮怒王真言者。	And recites the mantra of the Great Wrathful King,
+['ZH_T20_1092_022:0350a18_17']	則得功德天供養祐護。	則得功德天供養祐護。	Then one will obtain the offerings and protection of the Goddess of Wealth.
+['ZH_T20_1092_022:0350a19_7']	若加持鉢滿盛飲食。	若加持鉢滿盛飲食。	If one empowers a bowl filled with food and drink,
+['ZH_T20_1092_022:0350a19_16']	置文殊師利菩薩前。	置文殊師利菩薩前。	And places it in front of Manjushri Bodhisattva,
+['ZH_T20_1092_022:0350a20_4']	以手洝覆鉢上。	以手洝覆鉢上。	Covering the bowl with one's hand,
+['ZH_T20_1092_022:0350a20_13']	誦奮怒王真言加持。	誦奮怒王真言加持。	And recites the mantra of the Wrathful King to empower it,
+['ZH_T20_1092_022:0350a21_3']	當以飲食分為四分。	當以飲食分為四分。	One should divide the food and drink into four parts.
+['ZH_T20_1092_022:0350a21_14']	一分供養文殊師利菩薩。	一分供養文殊師利菩薩。	One part is offered to Manjushri Bodhisattva.
+['ZH_T20_1092_022:0350a22_5']	一分供養釋迦牟尼佛。	一分供養釋迦牟尼佛。	One part is offered to Shakyamuni Buddha.
+['ZH_T20_1092_022:0350a22_15']	一分供養觀世音菩薩。	一分供養觀世音菩薩。	One part is offered to Avalokiteshvara Bodhisattva.
+['ZH_T20_1092_022:0350a23_3']	一分分為二分。	一分分為二分。	One part is divided into two parts.
+['ZH_T20_1092_022:0350a24_5']	一分自喫一分溥施一切沙門婆羅門一切人民。	一分自喫一分溥施一切沙門婆羅門一切人民。	One part is eaten by oneself, and one part is distributed to all shramanas, Brahmins, and all the people.
+['ZH_T20_1092_022:0350a25_4']	食此食者皆得除滅十惡五逆一切蓋障。	食此食者皆得除滅十惡五逆一切蓋障。	Those who eat this food will all be able to eliminate the ten evils, the five heinous crimes, and all hindrances.
+['ZH_T20_1092_022:0350a25_13']	世諸病惱盡皆消滅。	世諸病惱盡皆消滅。	All illnesses and afflictions in the world will be completely eliminated.
+['ZH_T20_1092_022:0350a26_3']	當生之處證宿命智。	當生之處證宿命智。	In the place where one is born, one will attain the wisdom of recollecting past lives.
+['ZH_T20_1092_022:0350a26_12']	若能日日作此法者。	若能日日作此法者。	If one is able to perform this method every day,
+['ZH_T20_1092_022:0350a27_2']	速得除滅一切障累。	速得除滅一切障累。	one will quickly be able to eliminate all hindrances and burdens.
+['ZH_T20_1092_022:0350a27_11']	漸得聰悟解深法門。	漸得聰悟解深法門。	One will gradually attain wisdom and understand the profound Dharma gates.
+['ZH_T20_1092_022:0350a28_2']	口氣香潔如優鉢羅華。	口氣香潔如優鉢羅華。	One's breath will be fragrant and pure, like a blue lotus flower.
+['ZH_T20_1092_022:0350a28_11']	福壽增圓無諸夭疾。	福壽增圓無諸夭疾。	One's blessings and longevity will increase and be perfect, without any premature illness.
+['ZH_T20_1092_022:0350a28_16']	當證菩提。	當證菩提。	One will attain enlightenment.
+['ZH_T20_1092_022:0350b02_4']	48 一切種族壇印品一切種族壇印品第四十八之一世尊復有不空王會通一切如來種族曼拏羅印三昧耶。	48 一切種族壇印品一切種族壇印品第四十八之一世尊復有不空王會通一切如來種族曼拏羅印三昧耶。	Chapter 48, Part 1: The Altar and Mudra of All Families, the World-Honored One further revealed the assembly of the invincible kings, which unifies the maṇḍala mudrā samādhi of all tathāgata families.
+['ZH_T20_1092_022:0350b03_3']	此三昧耶皆是毘盧遮那如來而演說之。	此三昧耶皆是毘盧遮那如來而演說之。	This samādhi was expounded by Vairocana Tathāgata.
+['ZH_T20_1092_022:0350b04_4', 'ZH_T20_1092_022:0350b04_12']	亦是一切不空羂索一切曼拏羅印三昧耶中。🔽為最無上三昧耶。	亦是一切不空羂索一切曼拏羅印三昧耶中。 為最無上三昧耶。	It is also the supreme samādhi among all the maṇḍala mudrā samādhis of the invincible net.
+['ZH_T20_1092_022:0350b05_2']	若有見聞蠲眾垢障。	若有見聞蠲眾垢障。	If one sees or hears it, it removes all afflictive hindrances.
+['ZH_T20_1092_022:0350b05_15']	若有人能每日如法結此印者。	若有人能每日如法結此印者。	If there is anyone who can daily form this mudrā in accordance with the Dharma,
+['ZH_T20_1092_022:0350b06_15']	則得摧壞一切藥叉羅剎毘那夜迦諸惡鬼神。	則得摧壞一切藥叉羅剎毘那夜迦諸惡鬼神。	Then they will be able to crush all yakṣas, rākṣasas, piśācas, and evil ghosts and spirits.
+['ZH_T20_1092_022:0350b07_10']	皆為火燒身心惶怖悶亂于地。	皆為火燒身心惶怖悶亂于地。	They will be burned by the fire, their bodies and minds will be terrified, confused, and disoriented on the ground.
+['ZH_T20_1092_022:0350b08_1']	四散馳走當遠此界。	四散馳走當遠此界。	They will scatter in all directions and flee far from this realm.
+['ZH_T20_1092_022:0350b08_17']	常得十方三世一切諸佛菩薩摩訶薩。	常得十方三世一切諸佛菩薩摩訶薩。	They will always be protected by the buddhas, bodhisattvas, and mahāsattvas of the ten directions and three times,
+['ZH_T20_1092_022:0350b09_11']	三十三天一切天眾而皆集護。	三十三天一切天眾而皆集護。	And by the hosts of gods of the thirty-three heavens.
+['ZH_T20_1092_022:0350b10_6']	二十八部龍神鬼等亦常會集。	二十八部龍神鬼等亦常會集。	The twenty-eight classes of dragon gods and spirits will also always gather.
+['ZH_T20_1092_022:0350b10_11']	結此印處。	結此印處。	Wherever this mudrā is formed,
+['ZH_T20_1092_022:0350b11_1']	則是一切諸佛制多。	則是一切諸佛制多。	It will be a caitya of all buddhas.
+['ZH_T20_1092_022:0350b11_16']	亦是一切諸佛轉大法輪金剛道場。	亦是一切諸佛轉大法輪金剛道場。	It will also be a vajra site where all buddhas turn the great wheel of the Dharma.
+['ZH_T20_1092_022:0350b12_8']	滅餘十惡五逆一切罪障。	滅餘十惡五逆一切罪障。	It will eliminate the remaining ten evils, the five heinous crimes, and all karmic hindrances.
+['ZH_T20_1092_022:0350b13_3', 'ZH_T20_1092_022:0350b15_4', 'ZH_T20_1092_022:0350b15_17']	增長一切菩提福聚威德善根。🔽不空羂索印合腕仰掌。🔽以二頭指各屈捻大拇指頭上。	增長一切菩提福聚威德善根。 不空羂索印合腕仰掌。 以二頭指各屈捻大拇指頭上。	It will increase all the merit and virtue of bodhi and the power of wholesome roots.🔽The mudrā of the Amoghapāśa is formed by joining the wrists with palms facing up.🔽The two index fingers are bent and each pinches the tip of the thumb.
+['ZH_T20_1092_022:0350b16_7']	其二中指二無名指。	其二中指二無名指。	The two middle fingers and two ring fingers
+['ZH_T20_1092_022:0350b16_14']	竪頭相去三寸。	竪頭相去三寸。	The tips of the index fingers should be three inches apart.
+['ZH_T20_1092_022:0350b17_3']	其二小指各反㧙。	其二小指各反㧙。	The two little fingers should be bent back,
+['ZH_T20_1092_022:0350b17_12']	在無名指中節背上。	在無名指中節背上。	on the back of the middle joint of the ring fingers.
+['ZH_T20_1092_022:0350b18_6']	此印三昧作修諸法皆不空過。	此印三昧作修諸法皆不空過。	This mudra samādhi, when used to cultivate all dharmas, is not in vain.
+['ZH_T20_1092_022:0350b18_11']	所得福聚。	所得福聚。	The merit obtained
+['ZH_T20_1092_022:0350b19_1']	等見諸佛菩薩功德。	等見諸佛菩薩功德。	is equal to seeing the merits of all buddhas and bodhisattvas.
+['ZH_T20_1092_022:0350b21_13']	不空供養印合腕以二中指二無名指二小指。	不空供養印合腕以二中指二無名指二小指。	The mudra of inexhaustible offerings: join the wrists with the two middle fingers, two ring fingers, and two little fingers,
+['ZH_T20_1092_022:0350b22_2', 'ZH_T20_1092_022:0350b22_11']	並屈合頭相拄。🔽當開掌內二寸半量。	並屈合頭相拄。 當開掌內二寸半量。	bend them together and touch the tips,🔽open the palms two and a half inches apart.
+['ZH_T20_1092_022:0350b23_1']	其二頭指各直竪伸。	其二頭指各直竪伸。	The two index fingers should be extended straight up,
+['ZH_T20_1092_022:0350b23_7']	頭相去三寸。	頭相去三寸。	with the tips three inches apart.
+['ZH_T20_1092_022:0350b23_13']	其二大拇指。	其二大拇指。	The two thumbs
+['ZH_T20_1092_022:0350b24_2']	各竪伸二頭指裏。	各竪伸二頭指裏。	should be extended straight up between the two index fingers,
+['ZH_T20_1092_022:0350b24_15']	頭去二頭指二中指三分之間。	頭去二頭指二中指三分之間。	three inches away from the tips of the two index fingers and middle fingers.
+['ZH_T20_1092_022:0350b25_16']	此印三昧供養十方三世一切諸佛菩薩摩訶薩。	此印三昧供養十方三世一切諸佛菩薩摩訶薩。	This mudra samādhi makes offerings to all buddhas, bodhisattvas, and mahāsattvas in the ten directions and three times.
+['ZH_T20_1092_022:0350b26_11']	則得無上最勝供養福蘊之門。	則得無上最勝供養福蘊之門。	One then attains the supreme merit of unsurpassed offerings.
+['ZH_T20_1092_022:0350b28_11']	不空鉤印合腕改屈二無名指頭如鉤。	不空鉤印合腕改屈二無名指頭如鉤。	The mudra of the inexhaustible hook: join the wrists and bend the two ring fingers to form a hook.
+['ZH_T20_1092_022:0350b29_1']	搏中指中節側上。	搏中指中節側上。	The middle fingers should be placed on the sides of the middle joints,
+['ZH_T20_1092_022:0350b29_8']	相著頭不相著。	相著頭不相著。	Touching each other at the tips but not touching at the heads.
+['ZH_T20_1092_022:0350b29_15']	以二小指直伸。	以二小指直伸。	The two little fingers should be extended straight,
+['ZH_T20_1092_022:0350c01_2']	頭相去三寸。	頭相去三寸。	With the tips three inches apart.
+['ZH_T20_1092_022:0350c01_11']	其二中指合頭相拄。	其二中指合頭相拄。	The two middle fingers should be joined at the tips, supporting each other.
+['ZH_T20_1092_022:0350c02_4']	二頭指二大拇指准前直伸。	二頭指二大拇指准前直伸。	The two index fingers and two thumbs should be extended straight as before.
+['ZH_T20_1092_022:0350c03_8']	此印三昧鉤證十方一切諸佛種種三昧菩提心法。	此印三昧鉤證十方一切諸佛種種三昧菩提心法。	This mudrā samādhi can attain the various samādhis and bodhi-mind dharmas of all buddhas in the ten directions.
+['ZH_T20_1092_022:0350c03_17']	成就不空解脫果故。	成就不空解脫果故。	It accomplishes the fruit of liberation that is not empty.
+['ZH_T20_1092_022:0350c05_4']	不空法界清淨印准第三印。	不空法界清淨印准第三印。	The pure mudrā of the non-empty dharma realm is the same as the third mudrā,
+['ZH_T20_1092_022:0350c05_12']	唯改屈右頭指頭。	唯改屈右頭指頭。	Only changing the right index finger to be bent,
+['ZH_T20_1092_022:0350c06_1']	搏中指中節側上。	搏中指中節側上。	Placing it on the sides of the middle joints of the middle fingers.
+['ZH_T20_1092_022:0350c06_6']	餘並准前。	餘並准前。	The rest is the same as before.
+['ZH_T20_1092_022:0350c06_15']	此印三昧能動大地。	此印三昧能動大地。	This mudrā samādhi can shake the great earth,
+['ZH_T20_1092_022:0350c07_10']	於虛空中雨種種華供養諸佛。	於虛空中雨種種華供養諸佛。	Raining various flowers in the sky to make offerings to the buddhas.
+['ZH_T20_1092_022:0350c09_9']	不空大摧碎印合腕屈二中指頭如鉤。	不空大摧碎印合腕屈二中指頭如鉤。	The great non-empty crushing mudrā joins the wrists and bends the two middle fingers to form hooks,
+['ZH_T20_1092_022:0350c10_1']	其二無名指竪頭相拄。	其二無名指竪頭相拄。	With the two ring fingers standing with the tips supporting each other.
+['ZH_T20_1092_022:0350c10_12']	二大拇指二頭指二小指。	二大拇指二頭指二小指。	The two thumbs, two index fingers, and two little fingers,
+['ZH_T20_1092_022:0350c11_3']	准前第三印直竪伸之。	准前第三印直竪伸之。	Are extended straight as in the third mudrā above.
+['ZH_T20_1092_022:0350c11_16']	此印三昧力能摧破一切地獄。	此印三昧力能摧破一切地獄。	The power of this mudra's samādhi can destroy all hells.
+['ZH_T20_1092_022:0350c12_6']	有情劇苦盡皆消滅。	有情劇苦盡皆消滅。	The intense suffering of sentient beings will all be extinguished.
+['ZH_T20_1092_022:0350c14_10']	不空摩尼寶印合腕二中指微屈頭相拄。	不空摩尼寶印合腕二中指微屈頭相拄。	The empty-not-empty maṇi jewel mudra: join the wrists with the two middle fingers slightly bent and touching at the tips.
+['ZH_T20_1092_022:0350c15_4']	二無名指頭微屈相去寸半。	二無名指頭微屈相去寸半。	The two ring fingers are bent at the tips, separated by one and a half inches.
+['ZH_T20_1092_022:0350c15_10', 'ZH_T20_1092_022:0350c15_19']	出二中指頭。🔽二大拇指側附頭指。	出二中指頭。 二大拇指側附頭指。	The two middle fingers protrude from the tips.🔽The two thumbs are placed next to the index fingers.
+['ZH_T20_1092_022:0350c16_5']	邪伸二頭指。	邪伸二頭指。	The two index fingers are extended straight.
+['ZH_T20_1092_022:0350c16_9']	微少屈。	微少屈。	Slightly bent,
+['ZH_T20_1092_022:0350c16_15']	頭相去三寸。	頭相去三寸。	the tips are three inches apart.
+['ZH_T20_1092_022:0350c17_5']	二小指向外竪伸。	二小指向外竪伸。	The two little fingers are extended straight outward,
+['ZH_T20_1092_022:0350c17_11']	頭相去四寸。	頭相去四寸。	the tips four inches apart.
+['ZH_T20_1092_022:0350c18_5']	此印三昧出現無量種色光明。	此印三昧出現無量種色光明。	This mudra's samādhi manifests immeasurable kinds of colored light,
+['ZH_T20_1092_022:0350c18_18']	供養十方一切諸佛菩薩海眾。	供養十方一切諸佛菩薩海眾。	making offerings to the ocean-like assembly of Buddhas and Bodhisattvas in the ten directions.
+['ZH_T20_1092_022:0350c20_13']	不空禮拜印合腕以二中指二無名指二小指。	不空禮拜印合腕以二中指二無名指二小指。	The empty-not-empty prostration mudra: join the wrists with the two middle fingers, two ring fingers, and two little fingers,
+['ZH_T20_1092_022:0350c21_2', 'ZH_T20_1092_022:0350c21_13']	相並合頭相著。🔽二頭指直伸相去二寸半。	相並合頭相著。 二頭指直伸相去二寸半。	placing them together with the tips touching.🔽The two index fingers are extended straight, separated by two and a half inches.
+['ZH_T20_1092_022:0350c22_12']	二大拇指各頭指裏直竪伸之頭相去一寸。	二大拇指各頭指裏直竪伸之頭相去一寸。	The two thumbs are each inside the index fingers, extended straight with the tips one inch apart.
+['ZH_T20_1092_022:0350c23_3']	此印三昧入壇禮拜。	此印三昧入壇禮拜。	This mudrā is used for entering the altar, paying homage,
+['ZH_T20_1092_022:0350c23_12']	請佛供養念誦行道。	請佛供養念誦行道。	inviting the Buddha, making offerings, reciting, and circumambulating.
+['ZH_T20_1092_022:0350c24_6', 'ZH_T20_1092_022:0350c26_8']	皆以為首供養諸佛菩薩海眾。🔽不空結大界印仰左手以大拇指頭。	皆以為首供養諸佛菩薩海眾。 不空結大界印仰左手以大拇指頭。	It is used as the foremost offering to the ocean assembly of all Buddhas and Bodhisattvas.
+['ZH_T20_1092_022:0350c27_6', 'ZH_T20_1092_022:0350c28_2']	橫押頭指中指無名指小指胛上作孔。🔽覆右手以頭指中指無名指小指。	橫押頭指中指無名指小指胛上作孔。 覆右手以頭指中指無名指小指。	Amoghavajra forms the great boundary mudrā by placing the left hand palm up with the thumb pressing down across the tips of the index, middle, and ring fingers, forming a hole.
+['ZH_T20_1092_022:0350c28_11']	入左手五指虎口中。	入左手五指虎口中。	The right hand is placed over the left with the index, middle, and ring fingers of the right hand entering the tiger's mouth of the left hand's fingers.
+['ZH_T20_1092_022:0350c29_4']	其大拇指從左手下入掌中。	其大拇指從左手下入掌中。	The right hand's thumb enters the palm of the left hand.
+['ZH_T20_1092_022:0350c29_18']	橫押頭指中指無名指小指胛上。	橫押頭指中指無名指小指胛上。	It presses down across the tips of the left hand's index, middle, and ring fingers.
+['ZH_T20_1092_022:0351a01_6']	兩相鉤握為拳。	兩相鉤握為拳。	The two hands are clenched into fists with the thumbs hooked together.
+['ZH_T20_1092_022:0351a02_1']	此印三昧結界護身力如金剛。	此印三昧結界護身力如金剛。	This mudrā is used for binding boundaries and protecting the body with the power of vajra.
+['ZH_T20_1092_022:0351a02_14', 'ZH_T20_1092_022:0351a04_14', 'ZH_T20_1092_022:0351a05_6']	不為一切毘那夜迦之所損害。🔽不空拳印二手大拇指各捻無名指根文側上。🔽各以中指無名指小指。	不為一切毘那夜迦之所損害。 不空拳印二手大拇指各捻無名指根文側上。 各以中指無名指小指。	It cannot be harmed by any Vināyakas.🔽Amoghavajra's fist mudrā: the thumbs of both hands are each placed on the side of the base of the ring fingers,🔽with the middle, ring, and little fingers of each hand.
+['ZH_T20_1092_022:0351a05_13']	握大拇指作拳。	握大拇指作拳。	They are clenched into fists.
+['ZH_T20_1092_022:0351a06_1']	各以頭指直伸。	各以頭指直伸。	Each with the index finger straight and extended,
+['ZH_T20_1092_022:0351a06_6']	各搏胸脇。	各搏胸脇。	Each placed on the chest and sides.
+['ZH_T20_1092_022:0351a06_19']	此印三昧力能堅固大菩提心。	此印三昧力能堅固大菩提心。	This mudra, by the power of samādhi, can firmly establish the great mind of enlightenment.
+['ZH_T20_1092_022:0351a07_12']	慈悲相應一切如來加被祐護。	慈悲相應一切如來加被祐護。	Compassionate and sympathetic, all tathāgatas will bestow blessings and protection.
+['ZH_T20_1092_022:0351a08_9']	如是九印乃是不空大力印三昧耶。	如是九印乃是不空大力印三昧耶。	These nine mudrās are the great powerful mudrās of Amoghasiddhi,
+['ZH_T20_1092_022:0351a08_18']	能除一切五無間罪。	能除一切五無間罪。	Able to remove all five heinous crimes.
+['ZH_T20_1092_022:0351a09_8']	當入十方一切淨土。	當入十方一切淨土。	One will enter the pure lands of the ten directions,
+['ZH_T20_1092_022:0351a10_7']	能會十方三世一切如來種族印三昧耶。	能會十方三世一切如來種族印三昧耶。	Able to gather the mudrās of the clans of all tathāgatas of the ten directions and three times,
+['ZH_T20_1092_022:0351a10_12']	而出現故。	而出現故。	And manifest them.
+['ZH_T20_1092_022:0351a11_7']	此印是毘盧遮那如來之所說故。	此印是毘盧遮那如來之所說故。	This mudrā is spoken by Vairocana Tathāgata,
+['ZH_T20_1092_022:0351a11_15']	觀世音觀護讚歎。	觀世音觀護讚歎。	Guanyin observes and protects, praising and extolling.
+['ZH_T20_1092_022:0351a12_5']	若有人常結此印者。	若有人常結此印者。	If there are people who always form this mudrā,
+['ZH_T20_1092_022:0351a12_16']	速得六波羅蜜相應圓滿。	速得六波羅蜜相應圓滿。	They will quickly attain the perfection of the six pāramitās.
+['ZH_T20_1092_022:0351a14_4']	大奮怒王棓印起斜立身。	大奮怒王棓印起斜立身。	The mudrā of the great wrathful king's mace, standing with the body slightly bent,
+['ZH_T20_1092_022:0351a14_10']	以二手四指。	以二手四指。	With the four fingers of both hands,
+['ZH_T20_1092_022:0351a14_19']	右押左相叉入掌中。	右押左相叉入掌中。	The right pressing on the left, crossed in the palm,
+['ZH_T20_1092_022:0351a15_4']	急握作拳。	急握作拳。	Tightly clenched into a fist.
+['ZH_T20_1092_022:0351a15_18']	二大拇指雙押二頭指中節側上。	二大拇指雙押二頭指中節側上。	The two thumbs pressing on the sides of the middle joints of the two index fingers,
+['ZH_T20_1092_022:0351a16_8']	以印頂上伸臂向上。	以印頂上伸臂向上。	With the mudra on the crown of the head, extend the arms upward.
+['ZH_T20_1092_022:0351a17_7']	此印三昧摧伏一切大奮怒王悉皆壞散。	此印三昧摧伏一切大奮怒王悉皆壞散。	This mudra samādhi subdues all great wrathful kings, causing them to be destroyed and scattered.
+['ZH_T20_1092_022:0351a19_4', 'ZH_T20_1092_022:0351a19_18']	大奮怒王期剋印作丁字立。🔽二手大拇指各捻無名指根側文。	大奮怒王期剋印作丁字立。 二手大拇指各捻無名指根側文。	The mudrā for binding the great wrathful king is made with the hand standing upright in the shape of the letter 丁.🔽The thumbs of both hands pinch the base of the ring fingers.
+['ZH_T20_1092_022:0351a20_9']	各以中指無名指小指。	各以中指無名指小指。	With the middle fingers, ring fingers, and little fingers of each hand,
+['ZH_T20_1092_022:0351a20_17']	急握大拇指為拳。	急握大拇指為拳。	tightly grasp the thumbs to form a fist.
+['ZH_T20_1092_022:0351a21_5']	頭指各直伸之。	頭指各直伸之。	The index fingers are extended straight.
+['ZH_T20_1092_022:0351a21_13']	以左手按腰側上。	以左手按腰側上。	Place the left hand on the side above the waist,
+['ZH_T20_1092_022:0351a22_1', 'ZH_T20_1092_022:0351a22_8']	頭指向前伸之。🔽右手當胸直竪。	頭指向前伸之。 右手當胸直竪。	with the index finger extended forward.🔽The right hand is held straight in front of the chest,
+['ZH_T20_1092_022:0351a22_16']	以頭指面側向外。	以頭指面側向外。	with the index finger facing outward.
+['ZH_T20_1092_022:0351a23_1']	作期剋勢。	作期剋勢。	This is the gesture of binding.
+['ZH_T20_1092_022:0351a24_8']	此印三昧摧伏一切諸惡龍神藥叉羅剎阿素落王毘那夜迦。	此印三昧摧伏一切諸惡龍神藥叉羅剎阿素落王毘那夜迦。	This mudrā samādhi subdues all evil nāgas, yakṣas, rākṣasas, asuras, and piśācas,
+['ZH_T20_1092_022:0351a24_17']	一切神鬼作障礙者。	一切神鬼作障礙者。	as well as all gods and ghosts who create obstacles.
+['ZH_T20_1092_022:0351a25_3']	皆當散壞。	皆當散壞。	They will all be scattered and destroyed.
+['ZH_T20_1092_022:0351a25_16']	亦能摧滅十惡五逆一切重罪。	亦能摧滅十惡五逆一切重罪。	It can also destroy the ten evil deeds, the five heinous crimes, and all grave offenses.
+['ZH_T20_1092_022:0351a26_2']	盡皆蠲除。	盡皆蠲除。	They will all be eradicated.
+['ZH_T20_1092_022:0351a28_11']	大奮怒王頂印右手大拇指入左手虎口中。	大奮怒王頂印右手大拇指入左手虎口中。	The mudrā of the crown of the great wrathful king: insert the right thumb into the mouth of the tiger formed by the left index, middle, ring, and pinky fingers.
+['ZH_T20_1092_022:0351a29_4']	與頭指中指無名指小指。	與頭指中指無名指小指。	With the left index, middle, ring, and pinky fingers,
+['ZH_T20_1092_022:0351a29_12']	急握左手大拇指。	急握左手大拇指。	squeeze the left thumb.
+['ZH_T20_1092_022:0351b01_5']	頭指中指無名指小指作拳。	頭指中指無名指小指作拳。	Make a fist with the left index, middle, ring, and pinky fingers.
+['ZH_T20_1092_022:0351b01_12', 'ZH_T20_1092_022:0351b01_19']	其左手大拇指。🔽入右手虎口中。	其左手大拇指。 入右手虎口中。	The left thumb🔽enters the mouth of the tiger formed by the right index, middle, ring, and pinky fingers.
+['ZH_T20_1092_022:0351b02_10']	與頭指中指無名指小指。	與頭指中指無名指小指。	With the right index, middle, ring, and pinky fingers,
+['ZH_T20_1092_022:0351b02_17']	握右手大拇指。	握右手大拇指。	squeeze the right thumb.
+['ZH_T20_1092_022:0351b03_10']	頭指中指無名指小指作拳。	頭指中指無名指小指作拳。	Make a fist with the right index, middle, ring, and pinky fingers.
+['ZH_T20_1092_022:0351b04_5']	此印三昧結界灌頂祐護於身。	此印三昧結界灌頂祐護於身。	This mudrā is used for binding the boundary, consecrating, and protecting the body in samādhi.
+['ZH_T20_1092_022:0351b04_14']	會通一切諸法處用。	會通一切諸法處用。	It is used in all places where the Dharma is explained.
+['ZH_T20_1092_022:0351b05_100']	不空羂索神變真言經卷第二十二	不空羂索神變真言經卷第二十二	Sutra of the Divine Transformation of the Invincible Lasso, Scroll 22

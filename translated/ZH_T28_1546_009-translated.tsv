@@ -1,0 +1,982 @@
+segmentnr	original	analyzed	translated
+['ZH_T28_1546_009:0056c19_0']	5阿毘曇毘婆沙論卷第九	5阿毘曇毘婆沙論卷第九	Abhidharma-vibhāṣā-śāstra, fascicle 9🔽
+['ZH_T28_1546_009:0056c21_0']	迦旃延子造　五百羅漢釋	迦旃延子造　五百羅漢釋	Composed by Kātyāyanīputra, explained by five hundred arhats
+['ZH_T28_1546_009:0056c22_0']	北涼天竺沙門浮陀跋摩	北涼天竺沙門浮陀跋摩	Translated by the Northern Liang Indian monk Buddhavarman
+['ZH_T28_1546_009:0056c25_4', 'ZH_T28_1546_009:0056c25_9']	共道泰等譯雜犍度智品之五云何名身？🔽云何句身？	共道泰等譯雜犍度智品之五云何名身？ 云何句身？	and Daotai, etc. The chapter on miscellaneous matters, part five on cognition. What is a name aggregate?🔽What is a phrase aggregate?
+['ZH_T28_1546_009:0056c25_14']	云何味身？	云何味身？	What is a syllable aggregate?
+['ZH_T28_1546_009:0056c25_19']	乃至廣說。	乃至廣說。	And so on, explaining in detail.
+['ZH_T28_1546_009:0056c26_1']	問曰：	問曰：	Question:
+['ZH_T28_1546_009:0056c26_8']	何以故作此論？	何以故作此論？	Why did you write this treatise?
+['ZH_T28_1546_009:0056c26_11']	答曰：	答曰：	Answer:
+['ZH_T28_1546_009:0056c27_3']	彼作經者意欲爾，乃至廣說。	彼作經者意欲爾，乃至廣說。	The author of the sūtra intends it to be so, and so on, explaining in detail.
+['ZH_T28_1546_009:0056c29_6']	復有說者，彼尊者迦旃延子於此經中現種種事、善於義相，或有人疑，彼但善於義、不善於文。	復有說者，彼尊者迦旃延子於此經中現種種事、善於義相，或有人疑，彼但善於義、不善於文。	Furthermore, some say that the Venerable Kātyāyanīputra manifests various things in this sūtra, is good at the characteristics of meaning, and some people doubt that he is only good at meaning but not good at words.
+['ZH_T28_1546_009:0057a01_9']	為斷如是等疑，欲現於文義中俱得自在，故作此論。	為斷如是等疑，欲現於文義中俱得自在，故作此論。	In order to eliminate such doubts and to show mastery over both words and meaning, this treatise is written.
+['ZH_T28_1546_009:0057a02_17']	復有說者，如聲論家欲令字是色法、字體是聲、聲是色陰所攝。	復有說者，如聲論家欲令字是色法、字體是聲、聲是色陰所攝。	Furthermore, some say that the school of phonetics wants to make words a material dharma, the substance of words is sound, and sound is included in the aggregate of form.
+['ZH_T28_1546_009:0057a03_9']	為斷如是意故，作如是說：	為斷如是意故，作如是說：	In order to eliminate such ideas, it is said like this:
+['ZH_T28_1546_009:0057a04_2']	字是心不相應行，行陰所攝。	字是心不相應行，行陰所攝。	These are mental factors not directly associated with the mind, included in the aggregate of formations.
+['ZH_T28_1546_009:0057a05_3']	復有說者，此名身、句身、味身，能照煩惱出要法。	復有說者，此名身、句身、味身，能照煩惱出要法。	There is also a view that these are the body of names, the body of phrases, and the body of syllables, which can illuminate the dharmas of afflictions and liberation.
+['ZH_T28_1546_009:0057a05_8']	所以者何？	所以者何？	Why is it so?
+['ZH_T28_1546_009:0057a06_2']	若稱煩惱名，當知此法是煩惱；	若稱煩惱名，當知此法是煩惱；	If one pronounces the name of an affliction, one should know that this dharma is an affliction;
+['ZH_T28_1546_009:0057a06_16']	若稱出要名，當知此法是出要。	若稱出要名，當知此法是出要。	if one pronounces the name of liberation, one should know that this dharma is liberation.
+['ZH_T28_1546_009:0057a07_19']	以名身、句身、味身能顯照煩惱出要法故，而作此論。	以名身、句身、味身能顯照煩惱出要法故，而作此論。	Because the body of names, the body of phrases, and the body of syllables can manifest and illuminate the dharmas of afflictions and liberation, this treatise is composed.
+['ZH_T28_1546_009:0057a09_3']	復有說者，以覺知名句味等法故，有三種菩提差別。	復有說者，以覺知名句味等法故，有三種菩提差別。	There is also a view that because one realizes and understands the dharmas of names, phrases, and syllables, there are distinctions among the three kinds of enlightenment.
+['ZH_T28_1546_009:0057a09_8']	其事云何？	其事云何？	What is the matter?
+['ZH_T28_1546_009:0057a09_11']	答曰：	答曰：	The answer is:
+['ZH_T28_1546_009:0057a10_6']	若增上慧覺知名等法，是名為佛；	若增上慧覺知名等法，是名為佛；	If one realizes and understands the dharmas of names, etc. with superior wisdom, this is called Buddha;
+['ZH_T28_1546_009:0057a10_16']	若以中慧，名辟支佛；	若以中慧，名辟支佛；	if one uses middling wisdom, it is called pratyekabuddha;
+['ZH_T28_1546_009:0057a11_6']	若以下慧，名曰聲聞。	若以下慧，名曰聲聞。	if one uses inferior wisdom, it is called śrāvaka.
+['ZH_T28_1546_009:0057a12_9']	復有說者，以覺知名等法故，名佛一人為無量說法者。	復有說者，以覺知名等法故，名佛一人為無量說法者。	There is also a view that because one realizes and understands the dharmas of names, etc., one person is called the one who expounds the Dharma to the immeasurable.
+['ZH_T28_1546_009:0057a13_10']	復有說者，若不能觀察名句味身，生大過患；	復有說者，若不能觀察名句味身，生大過患；	There are also those who say that if one is unable to contemplate the body of names, phrases, and syllables, it will give rise to great faults;
+['ZH_T28_1546_009:0057a13_20']	若能觀察，生大善利。	若能觀察，生大善利。	if one is able to contemplate them, it will give rise to great benefits.
+['ZH_T28_1546_009:0057a14_4']	其事云何？	其事云何？	What is the matter?
+['ZH_T28_1546_009:0057a15_7']	若不能觀察名句味身，則煩惱惡行之河常流不絕。	若不能觀察名句味身，則煩惱惡行之河常流不絕。	If one is unable to contemplate the body of names, phrases, and syllables, then the river of afflictions and evil conduct will always flow without interruption.
+['ZH_T28_1546_009:0057a15_15']	如罵琉璃太子言：	如罵琉璃太子言：	Like the slander of Prince Vaidurya, who said:
+['ZH_T28_1546_009:0057a16_5']	婢子何以昇釋種堂。	婢子何以昇釋種堂。	Why does a slave ascend the hall of the Śākya clan?
+['ZH_T28_1546_009:0057a17_7']	彼以不能觀察四五字故，與百千眾生墮惡道中。	彼以不能觀察四五字故，與百千眾生墮惡道中。	Because he was unable to contemplate the four or five characters, he fell into evil paths together with hundreds of thousands of beings.
+['ZH_T28_1546_009:0057a18_8']	彼若能觀察四五字者，如山等惡行亦能堪忍。	彼若能觀察四五字者，如山等惡行亦能堪忍。	If he were able to contemplate the four or five characters, he would be able to endure evil conduct like a mountain.
+['ZH_T28_1546_009:0057a19_2']	以不觀察故，有如是折減。	以不觀察故，有如是折減。	Because of not contemplating, there is such a reduction.
+['ZH_T28_1546_009:0057a19_5']	問曰：	問曰：	Question:
+['ZH_T28_1546_009:0057a20_6']	行者得他罵時，云何觀察名身等令恚心不生？	行者得他罵時，云何觀察名身等令恚心不生？	When the practitioner is scolded by others, how does contemplating the body of names, etc., prevent the mind of anger from arising?
+['ZH_T28_1546_009:0057a20_9']	答曰：	答曰：	Answer:
+['ZH_T28_1546_009:0057a21_12']	或有說者，阿拘盧奢秦言是罵，拘盧奢秦言喚聲。	或有說者，阿拘盧奢秦言是罵，拘盧奢秦言喚聲。	Some say that akaruṣa means scolding in the Qin language, and karuṣa means calling out in the Qin language.
+['ZH_T28_1546_009:0057a21_19']	行者作如是念：	行者作如是念：	The practitioner thinks like this:
+['ZH_T28_1546_009:0057a22_8']	我今不應念是阿字。	我今不應念是阿字。	I should not now think of this letter A.
+['ZH_T28_1546_009:0057a22_13']	所以者何？	所以者何？	Why is it so?
+['ZH_T28_1546_009:0057a23_12']	若有阿字是名為罵，若無阿字名曰喚聲。	若有阿字是名為罵，若無阿字名曰喚聲。	If there is the letter A, it is called scolding, if there is no letter A, it is called a cry.
+['ZH_T28_1546_009:0057a25_4']	若我不念是阿字者，使他人終日竟夜常作喚聲，於我何為生瞋恚心。	若我不念是阿字者，使他人終日竟夜常作喚聲，於我何為生瞋恚心。	If I do not think of this letter A, causing others to make cries all day and night, what is the use of giving rise to an angry mind towards me?
+['ZH_T28_1546_009:0057a25_16']	復有說者，行者作如是念：	復有說者，行者作如是念：	Furthermore, there are those who say that the practitioner thinks like this:
+['ZH_T28_1546_009:0057a27_2']	若以如是等字罵我，於此方是卑陋語、於他方是嘆美語。	若以如是等字罵我，於此方是卑陋語、於他方是嘆美語。	If one scolds me with such letters, in this place it is a contemptuous word, in another place it is a word of praise.
+['ZH_T28_1546_009:0057a28_18']	我若於此方卑陋語中生於憂苦、於異方語生喜樂者，我則常憂常苦、常喜常樂。	我若於此方卑陋語中生於憂苦、於異方語生喜樂者，我則常憂常苦、常喜常樂。	If I give rise to sorrow and suffering in this place of contemptuous words, and give rise to joy and pleasure in the words of other places, then I will always be sorrowful, always suffering, always joyful, always happy.
+['ZH_T28_1546_009:0057a29_7']	誰有苦人與我等者？	誰有苦人與我等者？	Who has suffering like me?
+['ZH_T28_1546_009:0057a29_17']	以是事故，不生恚心。	以是事故，不生恚心。	For this reason, I do not give rise to an angry mind.
+['ZH_T28_1546_009:0057b01_16']	復有說者，罵我者以是等字，行者作是念：	復有說者，罵我者以是等字，行者作是念：	Furthermore, there are those who say that those who scold me use such letters. The practitioner thinks like this:
+['ZH_T28_1546_009:0057b02_10']	讚嘆我者為以是字、更有異字？	讚嘆我者為以是字、更有異字？	Do those who praise me use these letters or other letters?
+['ZH_T28_1546_009:0057b04_8']	諦觀察之更無異字，但此諸字次第顛倒言是罵是讚，我今何為於是字中而生瞋恚？	諦觀察之更無異字，但此諸字次第顛倒言是罵是讚，我今何為於是字中而生瞋恚？	Carefully observe them, there are no other different characters. These characters are only inverted in sequence, saying this is scolding and this is praise. Why should I give rise to anger towards these characters?
+['ZH_T28_1546_009:0057b05_1']	復有說者，行者作如是念：	復有說者，行者作如是念：	There are also those who say that the practitioner thinks like this:
+['ZH_T28_1546_009:0057b06_1']	若人罵我，以一界少入、一入少入、一陰少入；	若人罵我，以一界少入、一入少入、一陰少入；	If a person scolds me, it is a small part of one realm, a small part of one sense base, and a small part of one aggregate;
+['ZH_T28_1546_009:0057b07_10']	餘不罵我者，十七界一界少入、十一入一入少入、四陰一陰少入。	餘不罵我者，十七界一界少入、十一入一入少入、四陰一陰少入。	The rest that do not scold me are seventeen realms, a small part of one realm, eleven sense bases, a small part of one sense base, four aggregates, and a small part of one aggregate.
+['ZH_T28_1546_009:0057b08_12']	如是不罵我者多、罵我者少，而我何為生瞋恚心？	如是不罵我者多、罵我者少，而我何為生瞋恚心？	In this way, those that do not scold me are many, and those that scold me are few. Why should I give rise to an angry mind?
+['ZH_T28_1546_009:0057b09_3']	復有說者，行者作是念：	復有說者，行者作是念：	There are also those who say that the practitioner thinks like this:
+['ZH_T28_1546_009:0057b09_11']	此罵名誰所成就？	此罵名誰所成就？	To whom does this scolding belong?
+['ZH_T28_1546_009:0057b10_2']	為是罵者、為是受罵者？	為是罵者、為是受罵者？	Does it belong to the one who scolds or to the one who is scolded?
+['ZH_T28_1546_009:0057b10_11']	推之應是罵者成就。	推之應是罵者成就。	It should belong to the one who scolds.
+['ZH_T28_1546_009:0057b11_8']	若然者，便是自罵，於我何為而生瞋恚？	若然者，便是自罵，於我何為而生瞋恚？	If so, it is self-scolding. Why should I give rise to anger?
+['ZH_T28_1546_009:0057b11_19']	復有說者，行者作是念：	復有說者，行者作是念：	There are also those who say that the practitioner thinks like this:
+['ZH_T28_1546_009:0057b12_13']	若以一字則不成罵、二字則成。	若以一字則不成罵、二字則成。	If one word is used, it does not constitute an insult, but two words do.
+['ZH_T28_1546_009:0057b13_4']	無有能一時稱二字者。	無有能一時稱二字者。	There is no one who can utter two words simultaneously.
+['ZH_T28_1546_009:0057b13_19']	若稱後字時，前字已滅不至後字。	若稱後字時，前字已滅不至後字。	When the latter word is uttered, the former word has already ceased and does not reach the latter word.
+['ZH_T28_1546_009:0057b14_18']	如是但以意分別故，言是罵者、是受罵者。	如是但以意分別故，言是罵者、是受罵者。	In this way, it is only due to mental discrimination that one says this is an insult and this is the recipient of the insult.
+['ZH_T28_1546_009:0057b15_8']	以是事故，不生瞋心。	以是事故，不生瞋心。	For this reason, one should not give rise to an angry mind.
+['ZH_T28_1546_009:0057b15_19']	復有說者，行者作是念：	復有說者，行者作是念：	There are also those who say that the practitioner thinks like this:
+['ZH_T28_1546_009:0057b17_13']	罵者及我一時同一剎那滅，後生諸陰亦無罵者及受罵者，罵法不可得故。	罵者及我一時同一剎那滅，後生諸陰亦無罵者及受罵者，罵法不可得故。	The insulter and I simultaneously cease in one moment. The subsequent aggregates that arise are also without an insulter and a recipient of the insult, because the method of insulting cannot be obtained.
+['ZH_T28_1546_009:0057b18_1']	是以不生恚心。	是以不生恚心。	Therefore, one should not give rise to a mind of anger.
+['ZH_T28_1546_009:0057b18_12']	復有說者，行者作是念：	復有說者，行者作是念：	There are also those who say that the practitioner thinks like this:
+['ZH_T28_1546_009:0057b19_2']	罵者、受罵者皆悉是空。	罵者、受罵者皆悉是空。	The insulter and the recipient of the insult are all empty.
+['ZH_T28_1546_009:0057b19_7']	所以者何？	所以者何？	Why is this?
+['ZH_T28_1546_009:0057b20_18']	無我、無人、無眾生、無壽命、無作無作者、無受無受者，但有諸陰空聚。	無我、無人、無眾生、無壽命、無作無作者、無受無受者，但有諸陰空聚。	There is no self, no person, no sentient being, no life, no action, no agent, no experience, and no experiencer. There are only the empty aggregates.
+['ZH_T28_1546_009:0057b21_5']	是故不生瞋心。	是故不生瞋心。	Therefore, one should not give rise to an angry mind.
+['ZH_T28_1546_009:0057b22_4']	行者應以如是等法觀名身、句身、味身。	行者應以如是等法觀名身、句身、味身。	Practitioners should contemplate the body of names, the body of phrases, and the body of syllables using such methods.
+['ZH_T28_1546_009:0057b22_7']	問曰：	問曰：	Question:
+['ZH_T28_1546_009:0057b22_19']	何以復依名句味身作論耶？	何以復依名句味身作論耶？	Why is the treatise also based on the body of names, phrases, and syllables?
+['ZH_T28_1546_009:0057b23_1']	答曰：	答曰：	Answer:
+['ZH_T28_1546_009:0057b23_16']	欲現此經文義具足故，而作此論。	欲現此經文義具足故，而作此論。	In order to demonstrate that the meaning of this sutra text is complete, this treatise is composed.
+['ZH_T28_1546_009:0057b25_16']	復有說者，以依此文能顯明陰界入中眾多之義，亦能讚嘆佛法僧寶，以是事故而作此論。	復有說者，以依此文能顯明陰界入中眾多之義，亦能讚嘆佛法僧寶，以是事故而作此論。	Furthermore, some say that based on this text, it can clarify many meanings within the aggregates, sense bases, and sense fields, and it can also praise the Three Jewels of the Buddha, Dharma, and Sangha. For this reason, this treatise is composed.
+['ZH_T28_1546_009:0057b26_11']	云何名身名身胡音有三種：	云何名身名身胡音有三種：	What is the body of names? The Indian language has three types of names:
+['ZH_T28_1546_009:0057b26_31']	一語名名，二語名名身，三語以上名多名身。	一語名名，二語名名身，三語以上名多名身。	1. Single word names, 2. Single word name bodies, 3. Multiple word name bodies.
+['ZH_T28_1546_009:0057b26_42']	一語名名者，一法一名。	一語名名者，一法一名。	Single word names are one dharma with one name.
+['ZH_T28_1546_009:0057b27_9']	二語名身者，二法二名。	二語名身者，二法二名。	Single word name bodies are two dharmas with two names.
+['ZH_T28_1546_009:0057b27_30']	三語以上名多名身者，三法三名以上名多名身。	三語以上名多名身者，三法三名以上名多名身。	Multiple word name bodies are three dharmas with three names and above, called multiple word name bodies.
+['ZH_T28_1546_009:0057b27_39']	句身、味身亦如是。	句身、味身亦如是。	The body of phrases and the body of syllables are also like this.
+['ZH_T28_1546_009:0057b28_1']	此所問名身者，問多語名身也。	此所問名身者，問多語名身也。	The term group of names in the question refers to a group of many names.
+['ZH_T28_1546_009:0057b29_2']	問曰：	問曰：	Question:
+['ZH_T28_1546_009:0057b29_20']	何以問多語名身，不問名、不問名身耶？	何以問多語名身，不問名、不問名身耶？	Why does it ask about a group of many names, but not about a name or a group of names?
+['ZH_T28_1546_009:0057c01_2']	答曰：	答曰：	Answer:
+['ZH_T28_1546_009:0057c01_15']	彼作經者意欲爾，乃至廣說。	彼作經者意欲爾，乃至廣說。	The author of the sutra intended it to be so, and so on, in detail.
+['ZH_T28_1546_009:0057c02_17']	復有說者，應問而不問者，當知此是有餘之說。	復有說者，應問而不問者，當知此是有餘之說。	Furthermore, it is said that what should be asked but is not asked, one should know that this is a statement with remainder.
+['ZH_T28_1546_009:0057c04_10']	復有說者，名與名身悉入多語名身中，是故問多語名身，不問名與名身。	復有說者，名與名身悉入多語名身中，是故問多語名身，不問名與名身。	Furthermore, it is said that names and groups of names are all included in a group of many names, therefore it asks about a group of many names, but not about names and groups of names.
+['ZH_T28_1546_009:0057c04_13']	答曰：	答曰：	Answer:
+['ZH_T28_1546_009:0057c05_18']	名者，稱語、種種語、增語，想數施設、世所傳說，是謂名。	名者，稱語、種種語、增語，想數施設、世所傳說，是謂名。	Name means spoken words, various words, increased words, conceptualization, and what is transmitted in the world, this is called name.
+['ZH_T28_1546_009:0057c06_6']	如是等語，盡說是名。	如是等語，盡說是名。	Such words are all called names.
+['ZH_T28_1546_009:0057c06_9']	問曰：	問曰：	Question:
+['ZH_T28_1546_009:0057c07_1']	何故問多名身而答名耶？	何故問多名身而答名耶？	Why does it ask about a group of many names but answer with a name?
+['ZH_T28_1546_009:0057c07_4']	答曰：	答曰：	Answer:
+['ZH_T28_1546_009:0057c08_3']	以名成滿多名身故，多名身還成滿多名身。	以名成滿多名身故，多名身還成滿多名身。	Because names fully constitute a group of many names, and a group of many names also fully constitutes a group of many names.
+['ZH_T28_1546_009:0057c09_2']	復次名能生多名身，多名身還生多名身。	復次名能生多名身，多名身還生多名身。	Furthermore, a name can give rise to many name-bodies, and many name-bodies can give rise to many names.
+['ZH_T28_1546_009:0057c09_11']	是故問多名身答名。	是故問多名身答名。	Therefore, when asked about many name-bodies, the answer is in terms of names.
+['ZH_T28_1546_009:0057c09_14']	問曰：	問曰：	Question:
+['ZH_T28_1546_009:0057c10_3']	名多名身，體性是何？	名多名身，體性是何？	What is the essential nature of many names and name-bodies?
+['ZH_T28_1546_009:0057c10_6']	答曰：	答曰：	Answer:
+['ZH_T28_1546_009:0057c10_13']	是心不相應行。	是心不相應行。	They are mental factors not directly associated with the mind.
+['ZH_T28_1546_009:0057c11_7']	已說體性所以，今當說何故名名。	已說體性所以，今當說何故名名。	The reason for their essential nature has already been explained. Now, why are they called names?
+['ZH_T28_1546_009:0057c11_10']	答曰：	答曰：	Answer:
+['ZH_T28_1546_009:0057c12_15']	名者，亦名隨、亦名求、亦名合天竺名音中含此三義。	名者，亦名隨、亦名求、亦名合天竺名音中含此三義。	Names are also called following, seeking, and combining (the Indian language includes these three meanings).
+['ZH_T28_1546_009:0057c13_3']	隨者，隨其所作有如是名。	隨者，隨其所作有如是名。	Following means following what is done and having such-and-such a name.
+['ZH_T28_1546_009:0057c13_16']	求者，以是名求，有此物應。	求者，以是名求，有此物應。	Seeking means seeking with this name, and there should be this thing.
+['ZH_T28_1546_009:0057c15_7']	復次求者，四陰名求，以四陰能取諸界、能取諸趣、能取諸生，是故名求。	復次求者，四陰名求，以四陰能取諸界、能取諸趣、能取諸生，是故名求。	Furthermore, seeking refers to the seeking of the four aggregates, because the four aggregates can grasp the various realms, can grasp the various destinies, and can grasp the various kinds of birth, and therefore they are called seeking.
+['ZH_T28_1546_009:0057c15_20']	合者，於義於造相應故名合。	合者，於義於造相應故名合。	Combining means combining with the meaning and the characteristics of creation, and therefore it is called combining.
+['ZH_T28_1546_009:0057c16_2']	問曰：	問曰：	Question:
+['ZH_T28_1546_009:0057c16_9']	何故名多名身？	何故名多名身？	Why are they called many names and name-bodies?
+['ZH_T28_1546_009:0057c16_12']	答曰：	答曰：	Answer:
+['ZH_T28_1546_009:0057c17_3']	眾多名合聚故，名多名身。	眾多名合聚故，名多名身。	Because many names are combined and gathered, they are called many name-bodies.
+['ZH_T28_1546_009:0057c18_7']	如一鳥不名多鳥身，眾多鳥名多鳥身，馬等亦如是。	如一鳥不名多鳥身，眾多鳥名多鳥身，馬等亦如是。	Like one bird is not called many bird-bodies, many birds are called many bird-bodies, horses and so forth are also like this.
+['ZH_T28_1546_009:0057c19_8']	如是一名不名多名身，眾多名合集名多名身。	如是一名不名多名身，眾多名合集名多名身。	Like this, one name is not called many name-bodies, many names combined and gathered are called many name-bodies.
+['ZH_T28_1546_009:0057c19_19']	句身、味身當知亦如是。	句身、味身當知亦如是。	One should know that the body of phrases and the body of tastes are also like this.
+['ZH_T28_1546_009:0057c20_13']	如是有名、有名身、有多名身。	如是有名、有名身、有多名身。	Thus there are names, name-bodies, and many name-bodies.
+['ZH_T28_1546_009:0057c21_7']	名者，有一字名、二字名、多字名。	名者，有一字名、二字名、多字名。	As for names, there are single-character names, two-character names, and many-character names.
+['ZH_T28_1546_009:0057c23_2']	一字名者名曰名，二字名者名曰名身，多字名者或說三字、或說四字名多名身。	一字名者名曰名，二字名者名曰名身，多字名者或說三字、或說四字名多名身。	A single-character name is called a name, a two-character name is called a name-body, and a many-character name, whether three characters or four characters, is called many name-bodies.
+['ZH_T28_1546_009:0057c24_7']	二字名者亦名名，四字名名身，或六字或八字名多名身。	二字名者亦名名，四字名名身，或六字或八字名多名身。	A two-character name is also called a name, a four-character name is called a name-body, whether six characters or eight characters is called many name-bodies.
+['ZH_T28_1546_009:0057c25_14']	三字名者亦名名，六字名名身，或九字或十二字名多名身。	三字名者亦名名，六字名名身，或九字或十二字名多名身。	A three-character name is also called a name, a six-character name is called a name-body, whether nine characters or twelve characters is called many name-bodies.
+['ZH_T28_1546_009:0057c27_3']	四字名者亦名名，八字名名身，或十二字或十六字名多名身。	四字名者亦名名，八字名名身，或十二字或十六字名多名身。	A four-character name is also called a name. An eight-character name is called a name collection, or twelve characters, or sixteen characters, called a multiple name collection.
+['ZH_T28_1546_009:0057c27_15']	如是乃至多字，立門亦爾。	如是乃至多字，立門亦爾。	Up to many characters, establishing the gate is also like this.
+['ZH_T28_1546_009:0057c28_6']	如名身，味身當知亦如是。	如名身，味身當知亦如是。	As with the name collection, the flavor collection should be understood as also like this.
+['ZH_T28_1546_009:0057c29_9']	云何句身此問多句身？	云何句身此問多句身？	What is a sentence collection? This question is about a multiple sentence collection.
+['ZH_T28_1546_009:0057c29_12']	答曰：	答曰：	The answer is:
+['ZH_T28_1546_009:0057c30_4']	隨句義滿，現如是事，是名句身。	隨句義滿，現如是事，是名句身。	According to the fulfillment of the meaning of a sentence, such matters are manifested. This is called a sentence collection.
+['ZH_T28_1546_009:0057c30_15']	所以引偈者，為作證故。	所以引偈者，為作證故。	The reason for citing the verse is to serve as evidence.
+['ZH_T28_1546_009:0057c30_18']	如說：	如說：	As it is said:
+['ZH_T28_1546_009:0058a01_0']	「諸惡莫作，　　諸善奉行，　　自淨其意，	「諸惡莫作，　　諸善奉行，　　自淨其意，	Do not do any evil, practice all that is good, and purify one's own mind.
+['ZH_T28_1546_009:0058a02_4']	是諸佛教。	是諸佛教。	This is the teaching of all Buddhas.
+['ZH_T28_1546_009:0058a03_14']	」彼諸惡莫作，是初句，乃至廣說。	」彼諸惡莫作，是初句，乃至廣說。	Do not do any evil is the first sentence, and so on, explained in detail.
+['ZH_T28_1546_009:0058a04_4']	隨句義滿者，滿偈義也。	隨句義滿者，滿偈義也。	According to the fulfillment of the meaning of a sentence means fulfilling the meaning of the verse.
+['ZH_T28_1546_009:0058a05_2']	現如是事者，顯明如是事也，是名句身。	現如是事者，顯明如是事也，是名句身。	Such matters are manifested means clarifying such matters. This is called a sentence collection.
+['ZH_T28_1546_009:0058a06_9']	此偈有說有解，如說諸惡是說、莫作是解，下諸句亦如是說。	此偈有說有解，如說諸惡是說、莫作是解，下諸句亦如是說。	This verse has both statement and understanding. For example, all evils is the statement, and do not do is the understanding. The following phrases are also like this.
+['ZH_T28_1546_009:0058a07_13']	如說諸惡，於說是足，於解不足、於句不足、於偈不足。	如說諸惡，於說是足，於解不足、於句不足、於偈不足。	As for all evils, it is sufficient in the statement, but insufficient in the understanding, insufficient in the phrase, and insufficient in the verse.
+['ZH_T28_1546_009:0058a08_10']	莫作，於說、於解、於句足，於偈不足。	莫作，於說、於解、於句足，於偈不足。	Do not do is sufficient in the statement, understanding, and phrase, but insufficient in the verse.
+['ZH_T28_1546_009:0058a09_8']	乃至是諸，於說、於解、於句足，於偈不足。	乃至是諸，於說、於解、於句足，於偈不足。	Up to all these, it is sufficient in the statement, understanding, and phrase, but insufficient in the verse.
+['ZH_T28_1546_009:0058a10_1']	佛教於說、於解、於句、於偈足。	佛教於說、於解、於句、於偈足。	The Buddha's teachings are sufficient in the statement, understanding, phrase, and verse.
+['ZH_T28_1546_009:0058a11_5']	此是偈中不長不短，八字為一句，三十二字為一偈。	此是偈中不長不短，八字為一句，三十二字為一偈。	This is neither too long nor too short in the verse. Eight characters make one line, and thirty-two characters make one verse.
+['ZH_T28_1546_009:0058a12_11']	此結偈法，名阿㝹吒闡提，是經論數法，亦是計書寫數法。	此結偈法，名阿㝹吒闡提，是經論數法，亦是計書寫數法。	This verse-binding method is called anuttarapotentiality. It is a numerical method in the scriptures and treatises, and also a method for counting written characters.
+['ZH_T28_1546_009:0058a13_1']	六字為句者，名初偈。	六字為句者，名初偈。	Six characters per line is called the initial verse.
+['ZH_T28_1546_009:0058a13_13']	二十六字為句者，是後偈。	二十六字為句者，是後偈。	Twenty-six characters per line is the subsequent verse.
+['ZH_T28_1546_009:0058a14_9']	或有減六字為句者，此偈名周利荼。	或有減六字為句者，此偈名周利荼。	Some reduce six characters to form a sentence, this verse is called Zhouli Dui.
+['ZH_T28_1546_009:0058a15_7']	若過二十六字為句者，此偈名摩羅。	若過二十六字為句者，此偈名摩羅。	If more than twenty-six characters form a sentence, this verse is called Mo Luo.
+['ZH_T28_1546_009:0058a16_4']	云何味身？	云何味身？	What is the body of flavor?
+['ZH_T28_1546_009:0058a16_7']	答曰：	答曰：	Answer:
+['ZH_T28_1546_009:0058a16_13']	字說是味身。	字說是味身。	The characters are the body of flavor.
+['ZH_T28_1546_009:0058a17_3']	所以引偈者，為作證故。	所以引偈者，為作證故。	The reason for citing the verse is to serve as evidence.
+['ZH_T28_1546_009:0058a17_6']	如說：	如說：	As it is said:
+['ZH_T28_1546_009:0058a18_0']	「欲是偈本，　　字即是味，　　偈依於名，	「欲是偈本，　　字即是味，　　偈依於名，	Desire is the basis of the verse, the characters are the flavor, the verse relies on the name,
+['ZH_T28_1546_009:0058a19_4']	造是偈體。	造是偈體。	the creation is the essence of the verse.
+['ZH_T28_1546_009:0058a20_10']	」欲是偈本者，云何為欲？	」欲是偈本者，云何為欲？	As for desire is the basis of the verse, what is desire?
+['ZH_T28_1546_009:0058a20_13']	答曰：	答曰：	Answer:
+['ZH_T28_1546_009:0058a21_7']	欲者欲造偈、欲作偈，是名為欲。	欲者欲造偈、欲作偈，是名為欲。	Desire means wanting to create a verse, wanting to compose a verse, this is called desire.
+['ZH_T28_1546_009:0058a22_1']	本者，是所起、是所因，是名為本。	本者，是所起、是所因，是名為本。	Basis means that which is produced, that which is the cause, this is called the basis.
+['ZH_T28_1546_009:0058a22_13']	字即是味者，諸字即是味。	字即是味者，諸字即是味。	As for the characters are the flavor, the various characters are the flavor.
+['ZH_T28_1546_009:0058a23_3']	偈依於名者，偈依名有。	偈依於名者，偈依名有。	As for the verse relies on the name, the verse exists relying on the name.
+['ZH_T28_1546_009:0058a24_3']	造是偈體者，造者是作偈者，偈從作偈者生。	造是偈體者，造者是作偈者，偈從作偈者生。	As for the creation is the essence of the verse, the creator is the one who composes the verse, the verse is produced from the one who composes the verse.
+['ZH_T28_1546_009:0058a25_4', 'ZH_T28_1546_009:0058a27_13', 'ZH_T28_1546_009:0058b01_3']	如泉出水、如乳房出乳，偈從造者生，故以為體。🔽有名、有名身、有多名身，有句、有句身、有多句身，有味、有味身、有多味身。🔽彼一字名者名曰名，不名名身、不名多名身，不名句、不名句身、不名多句身，是名味，不名味身、不名多味身。	如泉出水、如乳房出乳，偈從造者生，故以為體。 有名、有名身、有多名身，有句、有句身、有多句身，有味、有味身、有多味身。 彼一字名者名曰名，不名名身、不名多名身，不名句、不名句身、不名多句身，是名味，不名味身、不名多味身。	Like a spring producing water, like a breast producing milk, the verse says it arises from the creator, therefore it is taken as the essence.🔽There are names, there are collections of names, there are many collections of names, there are phrases, there are collections of phrases, there are many collections of phrases, there are flavors, there are collections of flavors, there are many collections of flavors.🔽A single syllable name is called a name, it is not called a collection of names, it is not called many collections of names, it is not called a phrase, it is not called a collection of phrases, it is not called many collections of phrases, it is called a flavor, it is not called a collection of flavors, it is not called many collections of flavors.
+['ZH_T28_1546_009:0058b03_11']	二字名者名曰名，不名名身、不名多名身，不名句、不名句身、不名多句身，是名味、名味身，不名多味身。	二字名者名曰名，不名名身、不名多名身，不名句、不名句身、不名多句身，是名味、名味身，不名多味身。	A two-syllable name is called a name, it is not called a collection of names, it is not called many collections of names, it is not called a phrase, it is not called a collection of phrases, it is not called many collections of phrases, it is called a name and a collection of names, it is not called many collections of names, it is called a flavor and a collection of flavors, it is not called many collections of flavors.
+['ZH_T28_1546_009:0058b06_3', 'ZH_T28_1546_009:0058b08_9']	彼二字名，一字為名者名曰名，二字名名身，不名多名身，不名句、不名句身、不名多句身，是名味、名味身，不名多味身。🔽四字名者名曰名，不名名身、不名多名身，不名句、不名句身、不名多句身，是名味、名味身，不名多味身。	彼二字名，一字為名者名曰名，二字名名身，不名多名身，不名句、不名句身、不名多句身，是名味、名味身，不名多味身。 四字名者名曰名，不名名身、不名多名身，不名句、不名句身、不名多句身，是名味、名味身，不名多味身。	The two-syllable name, where one syllable is the name, is called a name, and two-syllable names are called a name collection, not a collection of many names, not a phrase, not a collection of phrases, not a collection of many phrases. This is a flavor, a collection of flavors, not a collection of many flavors.🔽The four-syllable name is called a name, not a collection of names, not a collection of many names, not a phrase, not a collection of phrases, not a collection of many phrases. This is a flavor, a collection of flavors, not a collection of many flavors.
+['ZH_T28_1546_009:0058b11_3']	彼四字名，一字為名者名曰名，二字名名身，餘二字名多名身，不名句、不名句身、不名多句身，是名味、名味身、名多味身。	彼四字名，一字為名者名曰名，二字名名身，餘二字名多名身，不名句、不名句身、不名多句身，是名味、名味身、名多味身。	The four-syllable name, where one syllable is the name, is called a name, and two-syllable names are called a name collection, and the remaining two syllables are a collection of many names. Not a phrase, not a collection of phrases, not a collection of many phrases. This is a flavor, a collection of flavors, and a collection of many flavors.
+['ZH_T28_1546_009:0058b13_7']	以二字為名者名曰名、名名身，不名多名身，不名句、不名句身、不名多句身，名味、名味身、名多味身。	以二字為名者名曰名、名名身，不名多名身，不名句、不名句身、不名多句身，名味、名味身、名多味身。	Those with two syllables as their name are called name, name-group, not called many name-groups, not called phrase, not called phrase-group, not called many phrase-groups, called flavor, flavor-group, many flavor-groups.
+['ZH_T28_1546_009:0058b15_12']	八字名者名曰名，不名名身、不名多名身，是名句，不名句身、不名多句身，是名味、名味身、名多味身。	八字名者名曰名，不名名身、不名多名身，是名句，不名句身、不名多句身，是名味、名味身、名多味身。	Those with eight syllables as their name are called name, not called name-group, not called many name-groups, this is a phrase, not called phrase-group, not called many phrase-groups, this is flavor, flavor-group, many flavor-groups.
+['ZH_T28_1546_009:0058b17_20']	彼八字名，以一字為名者名曰名、名名身、名多名身，名句，不名句身、不名多句身，名味、名味身、名多味身。	彼八字名，以一字為名者名曰名、名名身、名多名身，名句，不名句身、不名多句身，名味、名味身、名多味身。	Those with eight syllables as their name, with one syllable as their name are called name, called name-group, called many name-groups, called phrase, not called phrase-group, not called many phrase-groups, called flavor, called flavor-group, called many flavor-groups.
+['ZH_T28_1546_009:0058b18_7']	以二字為名亦如是。	以二字為名亦如是。	Those with two syllables as their name are also like this.
+['ZH_T28_1546_009:0058b20_11']	四字為名者名曰名、名名身，不名多名身，名句，不名句身、不名多句身，名味、名味身、名多味身。	四字為名者名曰名、名名身，不名多名身，名句，不名句身、不名多句身，名味、名味身、名多味身。	Those with four characters as the name are called name, named name-body, not called many name-bodies, name-phrase, not called phrase-body, not called many phrase-bodies, name-taste, named taste-body, named many tastes.
+['ZH_T28_1546_009:0058b22_15']	十六字為名者名曰名，不名名身、不名多名身，名句、名句身，不名多句身，名味、名味身、名多味身。	十六字為名者名曰名，不名名身、不名多名身，名句、名句身，不名多句身，名味、名味身、名多味身。	Those with sixteen characters as the name are called name, not called name-body, not called many name-bodies, name-phrase, named phrase-body, not called many phrase-bodies, name-taste, named taste-body, named many tastes.
+['ZH_T28_1546_009:0058b24_19']	彼十六字，一字為名者名曰名、名名身、名多名身，名句、名句身，不名多句身，名味、名味身、名多味身。	彼十六字，一字為名者名曰名、名名身、名多名身，名句、名句身，不名多句身，名味、名味身、名多味身。	Those sixteen characters, with one character as the name are called name, named name-body, named many names, name-phrase, named phrase-body, not called many phrase-bodies, name-taste, named taste-body, named many tastes.
+['ZH_T28_1546_009:0058b25_7']	二字、四字為名亦如是。	二字、四字為名亦如是。	Two characters and four characters as the name are also like this.
+['ZH_T28_1546_009:0058b27_10']	八字為名者名曰名、名名身，不名多名身，名句、名句身，不名多句身，名味、名味身、名多味身。	八字為名者名曰名、名名身，不名多名身，名句、名句身，不名多句身，名味、名味身、名多味身。	Those with eight characters as the name are called name, named name-body, not called many names, name-phrase, named phrase-body, not called many phrase-bodies, name-taste, named taste-body, named many tastes.
+['ZH_T28_1546_009:0058b29_14']	三十二字為名者名曰名，不名名身、不名多名身，名句、名句身、名多句身，名味、名味身、名多味身。	三十二字為名者名曰名，不名名身、不名多名身，名句、名句身、名多句身，名味、名味身、名多味身。	As for the thirty-two letters being called names, they are called names, not called name-bodies, not called many name-bodies, names, called name-bodies, called many name-bodies, flavors, called flavor-bodies, called many flavor-bodies.
+['ZH_T28_1546_009:0058c02_6']	彼三十二字，一字為名者、二字為名者、四字為名者、八字為名者，如前說。	彼三十二字，一字為名者、二字為名者、四字為名者、八字為名者，如前說。	As for those thirty-two letters, one letter being a name, two letters being a name, four letters being a name, eight letters being a name, it is explained as above.
+['ZH_T28_1546_009:0058c04_7']	十六字為名者名曰名、名名身，不名多名身，名句、名句身、名多句身，名味、名味身、名多味身。	十六字為名者名曰名、名名身，不名多名身，名句、名句身、名多句身，名味、名味身、名多味身。	As for sixteen letters being a name, it is called a name, called a name-body, not called many name-bodies, phrases, called phrase-bodies, called many phrase-bodies, flavors, called flavor-bodies, called many flavor-bodies.
+['ZH_T28_1546_009:0058c04_17']	一字一名，如上廣說。	一字一名，如上廣說。	One letter is one name, explained in detail as above.
+['ZH_T28_1546_009:0058c06_21']	一字二名者，名曰名、名名身，不名多名身，不名句、不名句身、不名多句身，名味、名味身，不名多味身。	一字二名者，名曰名、名名身，不名多名身，不名句、不名句身、不名多句身，名味、名味身，不名多味身。	As for one letter being two names, it is called a name, called a name-body, not called many name-bodies, not called phrases, not called phrase-bodies, not called many phrase-bodies, flavors, called flavor-bodies, not called many flavor-bodies.
+['ZH_T28_1546_009:0058c09_2']	一字四名者名曰名、名名身、名多名身，不名句、不名句身、不名多句身，名味、名味身、名多味身。	一字四名者名曰名、名名身、名多名身，不名句、不名句身、不名多句身，名味、名味身、名多味身。	As for a single syllable having four names, it is called a name, a name aggregate, and many name aggregates. It is not called a phrase, not a phrase aggregate, and not many phrase aggregates. It is called a flavor, a flavor aggregate, and many flavor aggregates.
+['ZH_T28_1546_009:0058c11_3']	一字八名者名曰名、名名身、名多名身，名句，不名句身、不名多句身，名味、名味身、名多味身。	一字八名者名曰名、名名身、名多名身，名句，不名句身、不名多句身，名味、名味身、名多味身。	As for a single syllable having eight names, it is called a name, a name aggregate, and many name aggregates. It is called a phrase, not a phrase aggregate, and not many phrase aggregates. It is called a flavor, a flavor aggregate, and many flavor aggregates.
+['ZH_T28_1546_009:0058c12_8']	一字十六名者是名句、名句身，不名多句身，餘如上說。	一字十六名者是名句、名句身，不名多句身，餘如上說。	As for a single syllable having sixteen names, it is called a phrase and a phrase aggregate. It is not called many phrase aggregates. The rest is as explained above.
+['ZH_T28_1546_009:0058c13_1']	一字三十二名者，說皆具足。	一字三十二名者，說皆具足。	As for a single syllable having thirty-two names, it is explained to be complete.
+['ZH_T28_1546_009:0058c13_9']	二字一名如前說。	二字一名如前說。	As for a two-syllable name as explained above,
+['ZH_T28_1546_009:0058c15_14']	二字二名者名曰名、名名身，不名多名身，不名句、不名句身、不名多句身，名味、名味身、名多味身。	二字二名者名曰名、名名身，不名多名身，不名句、不名句身、不名多句身，名味、名味身、名多味身。	as for a two-syllable name having two names, it is called a name and a name aggregate. It is not called many name aggregates. It is not called a phrase, not a phrase aggregate, and not many phrase aggregates. It is called a flavor, a flavor aggregate, and many flavor aggregates.
+['ZH_T28_1546_009:0058c16_7']	二字二名，一字為名者，如前說。	二字二名，一字為名者，如前說。	Two characters and two names, one character as a name, as explained above.
+['ZH_T28_1546_009:0058c16_17']	四字一名者，如前說。	四字一名者，如前說。	Four characters and one name, as explained above.
+['ZH_T28_1546_009:0058c18_20']	四字二名者名曰名、名名身，不名多名身，名句，不名句身、不名多句身，名味、名味身、名多味身。	四字二名者名曰名、名名身，不名多名身，名句，不名句身、不名多句身，名味、名味身、名多味身。	Four characters and two names, called name and name-body, not called multiple name-bodies, name and phrase, not called phrase-body or multiple phrase-bodies, name and taste, name and taste-body, name and multiple taste-bodies.
+['ZH_T28_1546_009:0058c19_16']	彼四字二名，一字二字為名者，如前說。	彼四字二名，一字二字為名者，如前說。	Those four characters and two names, one character and two characters as a name, as explained above.
+['ZH_T28_1546_009:0058c20_6']	八字一名者，如前說。	八字一名者，如前說。	Eight characters and one name, as explained above.
+['ZH_T28_1546_009:0058c22_7']	八字二名者名曰名、名名身，不名多名身，名句、名句身，不名多句身，名味、名味身、名多味身。	八字二名者名曰名、名名身，不名多名身，名句、名句身，不名多句身，名味、名味身、名多味身。	Eight characters and two names, called name and name-body, not called multiple name-bodies, name and phrase, called phrase-body, not called multiple phrase-bodies, name and taste, name and taste-body, name and multiple taste-bodies.
+['ZH_T28_1546_009:0058c23_6']	彼八字二名，一字二字四字為名，如前說。	彼八字二名，一字二字四字為名，如前說。	Those eight characters and two names, one character, two characters, and four characters as a name, as explained above.
+['ZH_T28_1546_009:0058c23_18']	十六字為一名者，如前說。	十六字為一名者，如前說。	Sixteen characters as one name, as explained above.
+['ZH_T28_1546_009:0058c25_22']	十六字二名者名曰名、名名身，不名多名身，名句、名句身、名多句身，名味、名味身、名多味身。	十六字二名者名曰名、名名身，不名多名身，名句、名句身、名多句身，名味、名味身、名多味身。	The sixteen characters and two names are called names and name-aggregates, not called multiple name-aggregates. Names, phrases, and phrase-aggregates, not called multiple phrase-aggregates, flavors, flavors, and flavor-aggregates, not called multiple flavor-aggregates.
+['ZH_T28_1546_009:0058c27_3']	彼十六字一名，一字二字四字八字為名者，如前說。	彼十六字一名，一字二字四字八字為名者，如前說。	Those sixteen characters, one name, one character, two characters, four characters, and eight characters as names are as explained above.
+['ZH_T28_1546_009:0058c28_2']	問曰：	問曰：	Question:
+['ZH_T28_1546_009:0058c28_15']	名為隨身處所、為隨語處所？	名為隨身處所、為隨語處所？	Do names follow the location of the body or the location of speech?
+['ZH_T28_1546_009:0058c28_18']	答曰：	答曰：	Answer:
+['ZH_T28_1546_009:0058c29_8', 'ZH_T28_1546_009:0059a02_14']	或有說者，名隨語處所。🔽諸作是說名隨語處所者，生欲界中作欲界語，語是欲界，名是欲界，人是欲界，所說義或三界繫或不繫。	或有說者，名隨語處所。 諸作是說名隨語處所者，生欲界中作欲界語，語是欲界，名是欲界，人是欲界，所說義或三界繫或不繫。	Some say: Names follow the location of speech.🔽Those who say names follow the location of speech, being born in the desire realm and speaking the language of the desire realm, the speech is of the desire realm, the names are of the desire realm, the person is of the desire realm, and the meaning spoken is either bound to the three realms or unconditioned.
+['ZH_T28_1546_009:0059a04_13']	生欲界作初禪地語，語是初禪地，名是初禪地，人是欲界，所說義或三界繫或不繫。	生欲界作初禪地語，語是初禪地，名是初禪地，人是欲界，所說義或三界繫或不繫。	Being born in the desire realm and speaking the language of the first dhyāna ground, the speech is of the first dhyāna ground, the names are of the first dhyāna ground, the person is of the desire realm, and the meaning spoken is either bound to the three realms or unconditioned.
+['ZH_T28_1546_009:0059a06_14']	生初禪中作初禪地語，語是初禪地，名是初禪地，人是初禪地，所說義或三界繫或不繫。	生初禪中作初禪地語，語是初禪地，名是初禪地，人是初禪地，所說義或三界繫或不繫。	When born in the first dhyāna and speaking in the language of the first dhyāna, the language belongs to the first dhyāna, the names belong to the first dhyāna, the person belongs to the first dhyāna, and the meaning expressed may belong to the three realms or be unconditioned.
+['ZH_T28_1546_009:0059a08_5']	生初禪中作欲界語，語是欲界，名是欲界，人是初禪，所說義如前說。	生初禪中作欲界語，語是欲界，名是欲界，人是初禪，所說義如前說。	When born in the first dhyāna and speaking in the language of the desire realm, the language belongs to the desire realm, the names belong to the desire realm, the person belongs to the first dhyāna, and the meaning expressed is as explained above.
+['ZH_T28_1546_009:0059a10_6']	生二禪三禪四禪中作初禪地語，語是初禪，名是初禪，人是二禪三禪四禪，所說義如前說。	生二禪三禪四禪中作初禪地語，語是初禪，名是初禪，人是二禪三禪四禪，所說義如前說。	When born in the second, third, or fourth dhyānas and speaking in the language of the first dhyāna, the language belongs to the first dhyāna, the names belong to the first dhyāna, the person belongs to the second, third, or fourth dhyānas, and the meaning expressed is as explained above.
+['ZH_T28_1546_009:0059a12_6']	生二禪三禪四禪中作欲界語，語是欲界，名是欲界，人是二禪三禪四禪，所說義如前說。	生二禪三禪四禪中作欲界語，語是欲界，名是欲界，人是二禪三禪四禪，所說義如前說。	When born in the second, third, or fourth dhyānas and speaking in the language of the desire realm, the language belongs to the desire realm, the names belong to the desire realm, the person belongs to the second, third, or fourth dhyānas, and the meaning expressed is as explained above.
+['ZH_T28_1546_009:0059a12_9']	問曰：	問曰：	Question:
+['ZH_T28_1546_009:0059a13_18']	諸作是說名隨語處所者，名是欲界、初禪，餘三禪地為有名不？	諸作是說名隨語處所者，名是欲界、初禪，餘三禪地為有名不？	For those who say that names follow the realm of language, are there names in the desire realm and first dhyāna, or do the other three dhyāna stages also have names?
+['ZH_T28_1546_009:0059a14_1']	答曰：	答曰：	Answer:
+['ZH_T28_1546_009:0059a14_8']	或有說者，無。	或有說者，無。	Some say there are not.
+['ZH_T28_1546_009:0059a14_19']	復有說者，有而不可說。	復有說者，有而不可說。	There is also a view that it exists but cannot be spoken of.
+['ZH_T28_1546_009:0059a14_22']	評曰：	評曰：	The judges say:
+['ZH_T28_1546_009:0059a15_11']	不應作是說，如前說者好。	不應作是說，如前說者好。	This should not be said, the previous explanation is better.
+['ZH_T28_1546_009:0059a16_1']	復有說者，名隨人處。	復有說者，名隨人處。	There is also a view that names follow the person and place.
+['ZH_T28_1546_009:0059a18_3']	若作是說名隨人處者，生欲界中作欲界語，語是欲界，名是欲界，人是欲界，所說義如前說。	若作是說名隨人處者，生欲界中作欲界語，語是欲界，名是欲界，人是欲界，所說義如前說。	If it is said that names follow the person and place, one born in the desire realm speaking a desire realm language, the language is of the desire realm, the names are of the desire realm, the person is of the desire realm, the meaning spoken is as explained above.
+['ZH_T28_1546_009:0059a19_16']	生欲界中作初禪地語，語是初禪地，名是欲界，人是欲界，所說義如前說。	生欲界中作初禪地語，語是初禪地，名是欲界，人是欲界，所說義如前說。	One born in the desire realm speaking a first dhyāna realm language, the language is of the first dhyāna realm, the names are of the desire realm, the person is of the desire realm, the meaning spoken is as explained above.
+['ZH_T28_1546_009:0059a21_8']	生初禪中作初禪地語，語是初禪，名是初禪，人是初禪，所說義如前說。	生初禪中作初禪地語，語是初禪，名是初禪，人是初禪，所說義如前說。	One born in the first dhyāna realm speaking a first dhyāna realm language, the language is of the first dhyāna, the names are of the first dhyāna, the person is of the first dhyāna, the meaning spoken is as explained above.
+['ZH_T28_1546_009:0059a22_19']	生初禪中作欲界語，語是欲界，名是初禪，人是初禪，所說義如前說。	生初禪中作欲界語，語是欲界，名是初禪，人是初禪，所說義如前說。	One born in the first dhyāna realm speaking a desire realm language, the language is of the desire realm, the names are of the first dhyāna, the person is of the first dhyāna, the meaning spoken is as explained above.
+['ZH_T28_1546_009:0059a24_14']	生二禪三禪四禪中作初禪地語，語是初禪，名之與人即是彼地，所說義如前說。	生二禪三禪四禪中作初禪地語，語是初禪，名之與人即是彼地，所說義如前說。	If one born in the second, third, or fourth dhyāna realms speaks in the language of the first dhyāna, the language is of the first dhyāna, and the names and the person are of that realm, while the meaning expressed is as explained above.
+['ZH_T28_1546_009:0059a26_10']	生二禪三禪四禪中作欲界語，語是欲界，名之與人即是彼地，所說義如前說。	生二禪三禪四禪中作欲界語，語是欲界，名之與人即是彼地，所說義如前說。	If one born in the second, third, or fourth dhyāna realms speaks in the language of the desire realm, the language is of the desire realm, and the names and the person are of that realm, while the meaning expressed is as explained above.
+['ZH_T28_1546_009:0059a26_13']	問曰：	問曰：	Question:
+['ZH_T28_1546_009:0059a28_2']	若作是說名隨人處者，二禪三禪四禪地有名，無色界為有名不？	若作是說名隨人處者，二禪三禪四禪地有名，無色界為有名不？	If it is said that names follow the person's realm, do the second, third, and fourth dhyāna realms have names? Do the formless realms have names?
+['ZH_T28_1546_009:0059a28_5', 'ZH_T28_1546_009:0059a28_12']	答曰：🔽或有說者，無。	答曰： 或有說者，無。	Answer:🔽Some say no.
+['ZH_T28_1546_009:0059a29_1']	復有說者，有而不可說。	復有說者，有而不可說。	Some say there are but they cannot be spoken.
+['ZH_T28_1546_009:0059a29_4']	評曰：	評曰：	The judges say:
+['ZH_T28_1546_009:0059a29_16']	不應作是說，如前說者好。	不應作是說，如前說者好。	This should not be said. The previous explanation is better.
+['ZH_T28_1546_009:0059a29_19']	問曰：	問曰：	Question:
+['ZH_T28_1546_009:0059b01_11']	名為是眾生數、為非眾生數耶？	名為是眾生數、為非眾生數耶？	Are names sentient or non-sentient?
+['ZH_T28_1546_009:0059b01_14']	答曰：	答曰：	Answer:
+['ZH_T28_1546_009:0059b01_20']	名是眾生數。	名是眾生數。	Names are sentient.
+['ZH_T28_1546_009:0059b02_2']	問曰：	問曰：	Question:
+['ZH_T28_1546_009:0059b02_17']	名者為是長養、為是報、為是依？	名者為是長養、為是報、為是依？	Are names nourished, retributive, or supportive?
+['ZH_T28_1546_009:0059b02_20']	答曰：	答曰：	Answer:
+['ZH_T28_1546_009:0059b03_12']	一切名是依，非長養、非報。	一切名是依，非長養、非報。	All names are dependent, neither nourished nor retribution.
+['ZH_T28_1546_009:0059b03_15']	問曰：	問曰：	Question:
+['ZH_T28_1546_009:0059b04_5']	若名非報者，此經云何通？	若名非報者，此經云何通？	If names are not retribution, how can this sutra be understood?
+['ZH_T28_1546_009:0059b04_11']	如佛告阿難：	如佛告阿難：	As the Buddha told Ananda:
+['ZH_T28_1546_009:0059b04_19']	我亦說名從業生。	我亦說名從業生。	I also say that names arise from karma.
+['ZH_T28_1546_009:0059b05_2']	答曰：	答曰：	Answer:
+['ZH_T28_1546_009:0059b06_5']	此中說業威勢果，言從業生，如作好業亦生好名。	此中說業威勢果，言從業生，如作好業亦生好名。	Here it is said that names are the powerful fruit of karma, and are said to arise from karma, just as good karma also gives rise to a good reputation.
+['ZH_T28_1546_009:0059b06_8']	問曰：	問曰：	Question:
+['ZH_T28_1546_009:0059b06_20']	名當言善、不善、無記耶？	名當言善、不善、無記耶？	Should names be said to be good, bad, or neutral?
+['ZH_T28_1546_009:0059b07_1']	答曰：	答曰：	Answer:
+['ZH_T28_1546_009:0059b07_7']	名當言無記。	名當言無記。	Names should be said to be neutral.
+['ZH_T28_1546_009:0059b07_10']	問曰：	問曰：	Question:
+['ZH_T28_1546_009:0059b07_16']	誰成就此名？	誰成就此名？	Who possesses these names?
+['ZH_T28_1546_009:0059b08_6']	為是說者、為是所說法耶？	為是說者、為是所說法耶？	Is it the speaker or the Dharma that is spoken of?
+['ZH_T28_1546_009:0059b09_7']	若是說者，斷善根人亦說善法，可成就善耶？	若是說者，斷善根人亦說善法，可成就善耶？	If it is the speaker, then a person who has severed good roots can also speak of good dharmas, so can they possess goodness?
+['ZH_T28_1546_009:0059b10_2']	離欲人亦說不善，可成就不善耶？	離欲人亦說不善，可成就不善耶？	A person who is free from desires can also speak of bad things, so can they possess bad things?
+['ZH_T28_1546_009:0059b11_11']	若是所說法者，非眾生數法及無為法亦是所說法，可成就名耶？	若是所說法者，非眾生數法及無為法亦是所說法，可成就名耶？	If it is the Dharma that is spoken of, then dharmas that are not sentient beings and unconditioned dharmas are also the Dharma that is spoken of, so can they possess names?
+['ZH_T28_1546_009:0059b11_14']	答曰：	答曰：	Answer:
+['ZH_T28_1546_009:0059b11_19']	應作是說：	應作是說：	It should be said:
+['ZH_T28_1546_009:0059b12_5']	名是說者成就。	名是說者成就。	The name is accomplished by the speaker.
+['ZH_T28_1546_009:0059b12_8']	問曰：	問曰：	Question:
+['ZH_T28_1546_009:0059b13_19']	若然者，斷善根人亦說善法、離欲人亦說不善法，可成就善、不善耶？	若然者，斷善根人亦說善法、離欲人亦說不善法，可成就善、不善耶？	If so, does a person who has severed the roots of goodness also accomplish good dharmas, and does a person who is free from desire also accomplish unwholesome dharmas?
+['ZH_T28_1546_009:0059b14_1']	答曰：	答曰：	Answer:
+['ZH_T28_1546_009:0059b14_4']	不也。	不也。	No, it is not so.
+['ZH_T28_1546_009:0059b14_9']	所以者何？	所以者何？	Why is it so?
+['ZH_T28_1546_009:0059b15_6']	彼雖成就善、不善法名，然名體是無記法。	彼雖成就善、不善法名，然名體是無記法。	Although they accomplish the names of good and unwholesome dharmas, the substance of the name is a neutral dharma.
+['ZH_T28_1546_009:0059b16_16']	聲聞一心能起一語，一語不能說一字。	聲聞一心能起一語，一語不能說一字。	A śrāvaka can speak one word in one thought, but one word cannot express one syllable.
+['ZH_T28_1546_009:0059b16_19']	問曰：	問曰：	Question:
+['ZH_T28_1546_009:0059b17_9']	如說阿，此非一字耶？	如說阿，此非一字耶？	Isn't A one syllable?
+['ZH_T28_1546_009:0059b17_12']	答曰：	答曰：	Answer:
+['ZH_T28_1546_009:0059b18_1']	爾所時已經多剎那。	爾所時已經多剎那。	In that time, many moments have already passed.
+['ZH_T28_1546_009:0059b18_15']	世尊一心起一語，一語說一字。	世尊一心起一語，一語說一字。	The World-Honored One speaks one syllable in one word in one thought.
+['ZH_T28_1546_009:0059b19_15']	唯佛世尊其言輕疾、言聲無過、辭辯第一。	唯佛世尊其言輕疾、言聲無過、辭辯第一。	Only the World-Honored Buddha has light and swift speech, faultless speech, and is foremost in eloquence.
+['ZH_T28_1546_009:0059b20_2']	問曰：	問曰：	Question:
+['ZH_T28_1546_009:0059b20_19']	諸法過去，有過去、現在、未來名耶？	諸法過去，有過去、現在、未來名耶？	Do past dharmas have the names of past, present, and future?
+['ZH_T28_1546_009:0059b20_22']	答曰：	答曰：	Answer:
+['ZH_T28_1546_009:0059b22_5']	有過去法有過去名者，如毘婆尸佛以如是名說過去法。	有過去法有過去名者，如毘婆尸佛以如是名說過去法。	As for past dharmas having past names, it is like Vipaśyin Buddha using such names to speak of past dharmas.
+['ZH_T28_1546_009:0059b23_8']	過去法有未來名者，如彌勒佛以如是名說過去法。	過去法有未來名者，如彌勒佛以如是名說過去法。	As for past dharmas having future names, it is like Maitreya Buddha using such names to speak of past dharmas.
+['ZH_T28_1546_009:0059b24_11']	過去法有現在名者，如今現在以如是名說過去法。	過去法有現在名者，如今現在以如是名說過去法。	As for past dharmas having present names, it is like the present using such names to speak of past dharmas.
+['ZH_T28_1546_009:0059b25_9']	頗未來法，有未來、現在、過去名耶？	頗未來法，有未來、現在、過去名耶？	Are there any future dharmas that have future, present, and past names?
+['ZH_T28_1546_009:0059b25_12']	答曰：	答曰：	Answer:
+['ZH_T28_1546_009:0059b26_14']	有未來法有未來名者，如彌勒佛以如是名說未來法。	有未來法有未來名者，如彌勒佛以如是名說未來法。	As for future dharmas having future names, it is like Maitreya Buddha using such names to speak of future dharmas.
+['ZH_T28_1546_009:0059b27_18']	未來法有過去名者，如毘婆尸佛以如是名說未來法。	未來法有過去名者，如毘婆尸佛以如是名說未來法。	As for future dharmas having past names, it is like Vipaśyin Buddha using such names to speak of future dharmas.
+['ZH_T28_1546_009:0059b29_3']	未來法有現在名者，如今現在以如是名說未來法。	未來法有現在名者，如今現在以如是名說未來法。	As for future dharmas having present names, it is like the present using such names to speak of future dharmas.
+['ZH_T28_1546_009:0059b29_20']	頗現在法，有現在、過去、未來名耶？	頗現在法，有現在、過去、未來名耶？	Are there any present dharmas that have present, past, and future names?
+['ZH_T28_1546_009:0059c01_1']	答曰：	答曰：	Answer:
+['ZH_T28_1546_009:0059c02_3']	有現在法有現在名者，如今以如是名說現在法。	有現在法有現在名者，如今以如是名說現在法。	As for present dharmas having present names, it is like using such names to speak of present dharmas now.
+['ZH_T28_1546_009:0059c03_7']	現在法有過去名者，如毘婆尸佛以如是名說現在法。	現在法有過去名者，如毘婆尸佛以如是名說現在法。	As for present dharmas having past names, it is like Vipaśyin Buddha using such names to speak of present dharmas.
+['ZH_T28_1546_009:0059c04_10']	現在法有未來名者，如彌勒佛以如是名說現在法。	現在法有未來名者，如彌勒佛以如是名說現在法。	As for present dharmas having future names, it is like Maitreya Buddha using such names to speak of present dharmas.
+['ZH_T28_1546_009:0059c05_10']	如語能說名、名能顯義。	如語能說名、名能顯義。	It is like language being able to speak of names, and names being able to manifest meaning.
+['ZH_T28_1546_009:0059c05_13']	問曰：	問曰：	A question is asked:
+['ZH_T28_1546_009:0059c06_3']	一切名盡能顯義不耶？	一切名盡能顯義不耶？	Do all names exhaustively manifest meaning?
+['ZH_T28_1546_009:0059c06_6']	答曰：	答曰：	An answer is given:
+['ZH_T28_1546_009:0059c06_14']	一切名盡能顯義。	一切名盡能顯義。	All names exhaustively manifest meaning.
+['ZH_T28_1546_009:0059c06_17']	問曰：	問曰：	A question is asked:
+['ZH_T28_1546_009:0059c09_1']	若然者，以如是名顯斷常見、第二頭、第三手、第六陰、第十三入、第十九界，如是等名為顯何義？	若然者，以如是名顯斷常見、第二頭、第三手、第六陰、第十三入、第十九界，如是等名為顯何義？	If that is so, then using such names to manifest the views of annihilation and permanence, a second head, a third hand, a sixth aggregate, a thirteenth sense-field, a nineteenth element, and so forth, what meaning do such names manifest?
+['ZH_T28_1546_009:0059c09_4']	答曰：	答曰：	An answer is given:
+['ZH_T28_1546_009:0059c11_3']	顯眾生常想斷想、第二頭想、第三手想、第六陰想、第十三入想、第十九界想，顯如是等義。	顯眾生常想斷想、第二頭想、第三手想、第六陰想、第十三入想、第十九界想，顯如是等義。	It reveals the notions of permanence and annihilation of sentient beings, the notion of a second head, the notion of a third hand, the notion of a sixth aggregate, the notion of a thirteenth sense base, and the notion of a nineteenth element, revealing such meanings.
+['ZH_T28_1546_009:0059c11_6']	問曰：	問曰：	Question:
+['ZH_T28_1546_009:0059c12_2']	若以名顯一切法無我，此何所不顯？	若以名顯一切法無我，此何所不顯？	If all dharmas are revealed as selfless through names, what is not revealed here?
+['ZH_T28_1546_009:0059c12_5', 'ZH_T28_1546_009:0059c13_3']	答曰：🔽或有說者，不顯自體相應共有，餘法悉顯。	答曰： 或有說者，不顯自體相應共有，餘法悉顯。	Answer:🔽Some say: It does not reveal the characteristics associated with one's own body, but all other dharmas are revealed.
+['ZH_T28_1546_009:0059c13_18']	復有說者，唯除自體，餘法悉顯。	復有說者，唯除自體，餘法悉顯。	Some say: Except for one's own body, all other dharmas are revealed.
+['ZH_T28_1546_009:0059c14_19']	復有說者，唯除四字所謂諸法無我，餘法悉顯。	復有說者，唯除四字所謂諸法無我，餘法悉顯。	Some say: Except for the four characters all dharmas are selfless, the rest are revealed.
+['ZH_T28_1546_009:0059c15_10']	復有說者，一切法悉顯。	復有說者，一切法悉顯。	Some say: All dharmas are revealed.
+['ZH_T28_1546_009:0059c15_15']	所以者何？	所以者何？	Why is it so?
+['ZH_T28_1546_009:0059c16_8']	如婆字顯婆字、娑字顯娑字。	如婆字顯婆字、娑字顯娑字。	Because the character ba reveals the character ba, and the character sa reveals the character sa.
+['ZH_T28_1546_009:0059c17_2']	問曰：	問曰：	Question:
+['ZH_T28_1546_009:0059c17_12']	為名多耶、為義多耶？	為名多耶、為義多耶？	Are names more numerous or meanings more numerous?
+['ZH_T28_1546_009:0059c17_15']	答曰：	答曰：	Answer:
+['ZH_T28_1546_009:0059c18_1']	或有說者，義多。	或有說者，義多。	Some say: Meanings are more numerous.
+['ZH_T28_1546_009:0059c18_5']	何以故？	何以故？	Why is it so?
+['ZH_T28_1546_009:0059c20_2']	義攝十七界一界少入，十一入一入少入，四陰一陰少入，名攝一界一入一陰少入。	義攝十七界一界少入，十一入一入少入，四陰一陰少入，名攝一界一入一陰少入。	The meaning includes one realm and a small part of another realm, eleven entrances and a small part of one entrance, and four aggregates and a small part of one aggregate. The name includes one realm, one entrance, and a small part of one aggregate.
+['ZH_T28_1546_009:0059c20_13']	復有說者，名多非義多。	復有說者，名多非義多。	There is another explanation: the name is more numerous, not the meaning.
+['ZH_T28_1546_009:0059c20_17']	何以故？	何以故？	Why is it so?
+['ZH_T28_1546_009:0059c21_3']	一義有多名故。	一義有多名故。	Because there are many names for one meaning.
+['ZH_T28_1546_009:0059c22_1']	如尼犍荼書分別諸名，一義有千名。	如尼犍荼書分別諸名，一義有千名。	Like the Nirgrantha scriptures, which distinguish various names, with one meaning having a thousand names.
+['ZH_T28_1546_009:0059c22_4']	評曰：	評曰：	The judges say:
+['ZH_T28_1546_009:0059c22_10']	如是說者好：	如是說者好：	Those who say this are good:
+['ZH_T28_1546_009:0059c22_16']	義多非名多。	義多非名多。	The meaning is more numerous, not the name.
+['ZH_T28_1546_009:0059c22_21']	所以者何？	所以者何？	Why is it so?
+['ZH_T28_1546_009:0059c23_14']	不須更以餘事，但以攝界等多故。	不須更以餘事，但以攝界等多故。	There is no need to further explain other matters, but only because the realms, etc. are more numerous.
+['ZH_T28_1546_009:0059c25_18']	義攝十七界一界少入，十一入一入少入，四陰一陰少入，名攝一界一入一陰少入，彼名亦是義。	義攝十七界一界少入，十一入一入少入，四陰一陰少入，名攝一界一入一陰少入，彼名亦是義。	The meaning includes seventeen realms and a small part of one realm, eleven entrances and a small part of one entrance, and four aggregates and a small part of one aggregate. The name includes one realm, one entrance, and one aggregate. That name is also the meaning.
+['ZH_T28_1546_009:0059c26_9']	若然者，應全攝陰界入。	若然者，應全攝陰界入。	If that is so, it should completely include the aggregates, realms, and entrances.
+['ZH_T28_1546_009:0059c27_5']	復有說者，若以說法故則名多於義。	復有說者，若以說法故則名多於義。	There is another explanation: if it is due to the teaching of the Dharma, then the name is more numerous than the meaning.
+['ZH_T28_1546_009:0059c27_10']	所以者何？	所以者何？	Why is it so?
+['ZH_T28_1546_009:0059c28_3']	世尊說法，一義以多名說故。	世尊說法，一義以多名說故。	Because the World-Honored One teaches the Dharma with many names for one meaning.
+['ZH_T28_1546_009:0059c28_15']	若以陰界入，則義多於名。	若以陰界入，則義多於名。	If it were in terms of aggregates, realms, and sense bases, then the meaning would be more than the names.
+['ZH_T28_1546_009:0059c29_2']	問曰：	問曰：	Question:
+['ZH_T28_1546_009:0059c29_9']	義為可說不耶？	義為可說不耶？	Can the meaning be spoken or not?
+['ZH_T28_1546_009:0060a01_14']	若可說者，說火則應燒舌、說刀則割舌、說不淨則污舌。	若可說者，說火則應燒舌、說刀則割舌、說不淨則污舌。	If it can be spoken, then speaking of fire should burn the tongue, speaking of a knife should cut the tongue, and speaking of impurity should defile the tongue.
+['ZH_T28_1546_009:0060a02_5']	若不可說，云何有顛倒耶？	若不可說，云何有顛倒耶？	If it cannot be spoken, how can there be delusion?
+['ZH_T28_1546_009:0060a02_19']	如索象則馬來、如索馬則象來。	如索象則馬來、如索馬則象來。	It's like asking for an elephant and a horse comes, or asking for a horse and an elephant comes.
+['ZH_T28_1546_009:0060a03_6']	此經復云何通？	此經復云何通？	How can this sutra be understood?
+['ZH_T28_1546_009:0060a03_12']	如佛告比丘：	如佛告比丘：	The Buddha said to the bhikshus:
+['ZH_T28_1546_009:0060a04_5']	我所說法，文亦善、義亦善。	我所說法，文亦善、義亦善。	The Dharma I speak has good words and good meaning.
+['ZH_T28_1546_009:0060a04_8']	答曰：	答曰：	Answer:
+['ZH_T28_1546_009:0060a04_13']	應作是論：	應作是論：	This should be discussed:
+['ZH_T28_1546_009:0060a04_18']	義不可說。	義不可說。	The meaning cannot be spoken.
+['ZH_T28_1546_009:0060a04_21']	問曰：	問曰：	Question:
+['ZH_T28_1546_009:0060a05_11']	若然者，云何所索非顛倒耶？	若然者，云何所索非顛倒耶？	If so, how can what is asked for not be deluded?
+['ZH_T28_1546_009:0060a05_14']	答曰：	答曰：	Answer:
+['ZH_T28_1546_009:0060a07_3']	古時人立於象名，有如是想，索象則象來非馬、索馬則馬來非象。	古時人立於象名，有如是想，索象則象來非馬、索馬則馬來非象。	In ancient times, people established the name for an elephant with such a thought. Asking for an elephant, an elephant comes, not a horse. Asking for a horse, a horse comes, not an elephant.
+['ZH_T28_1546_009:0060a07_18']	復有說者，語能生名、名能顯義。	復有說者，語能生名、名能顯義。	There are also those who say that language can give rise to names and names can manifest meaning.
+['ZH_T28_1546_009:0060a08_17']	如是語生象名，象名能顯象義，馬等亦如是。	如是語生象名，象名能顯象義，馬等亦如是。	In this way, language gives rise to the name elephant, and the name elephant can manifest the meaning of elephant, and it is the same for horses and so forth.
+['ZH_T28_1546_009:0060a09_12']	此經云何通者，尊者和須蜜答曰：	此經云何通者，尊者和須蜜答曰：	How does this sutra explain this? The Venerable Vasumitra answered:
+['ZH_T28_1546_009:0060a10_2']	說顯義文，故言說義。	說顯義文，故言說義。	It is said that it manifests the meaning of the text, therefore it is said to explain the meaning.
+['ZH_T28_1546_009:0060a11_8']	復有說者，為破外道所說法故，外道所說或無義或有少義；	復有說者，為破外道所說法故，外道所說或無義或有少義；	There are also those who say that it is in order to refute the teachings expounded by non-Buddhists, because what non-Buddhists expound is either without meaning or has little meaning;
+['ZH_T28_1546_009:0060a12_7']	世尊所說有義有多義，是故言說義。	世尊所說有義有多義，是故言說義。	What the World-Honored One expounds has meaning and has much meaning, therefore it is said to explain the meaning.
+['ZH_T28_1546_009:0060a13_9']	復有說者，外道所說文與義相違、義與文相違；	復有說者，外道所說文與義相違、義與文相違；	There are also those who say that what non-Buddhists expound has text that contradicts meaning and meaning that contradicts text;
+['ZH_T28_1546_009:0060a14_3']	世尊說法文不違義、義不違文。	世尊說法文不違義、義不違文。	The teachings expounded by the World-Honored One have text that does not contradict meaning and meaning that does not contradict text.
+['ZH_T28_1546_009:0060a14_6']	問曰：	問曰：	Question:
+['ZH_T28_1546_009:0060a14_14']	文、義有何差別？	文、義有何差別？	What is the difference between text and meaning?
+['ZH_T28_1546_009:0060a14_17']	答曰：	答曰：	Answer:
+['ZH_T28_1546_009:0060a15_3']	文者味，義者所味。	文者味，義者所味。	Text is flavor, and meaning is what is savored.
+['ZH_T28_1546_009:0060a15_6']	問曰：	問曰：	Question:
+['ZH_T28_1546_009:0060a16_3']	彼味亦為餘味所味，彼味亦是所味耶？	彼味亦為餘味所味，彼味亦是所味耶？	Is that flavor also savored by other flavors, and is that flavor also what is savored?
+['ZH_T28_1546_009:0060a16_6']	答曰：	答曰：	Answer:
+['ZH_T28_1546_009:0060a16_13']	彼味亦是所味。	彼味亦是所味。	That taste is also what is tasted.
+['ZH_T28_1546_009:0060a16_16']	問曰：	問曰：	Question:
+['ZH_T28_1546_009:0060a17_7']	若然者，味與所味有何差別？	若然者，味與所味有何差別？	If so, what is the difference between taste and what is tasted?
+['ZH_T28_1546_009:0060a17_10', 'ZH_T28_1546_009:0060a18_19']	答曰：🔽所味是十七界一界少入，十一入一入少入，四陰一陰少入所攝；	答曰： 所味是十七界一界少入，十一入一入少入，四陰一陰少入所攝；	Answer:🔽What is tasted is included in one of the seventeen sense bases, one of the eleven sense fields, and one of the four aggregates.
+['ZH_T28_1546_009:0060a19_12']	味是一界一入一陰少入所攝。	味是一界一入一陰少入所攝。	Taste is included in one of the sense bases, one of the sense fields, and one of the four aggregates.
+['ZH_T28_1546_009:0060a20_9']	復有說者，義是色非色，文是非色。	復有說者，義是色非色，文是非色。	Furthermore, some say that meaning is form and non-form, while text is non-form.
+['ZH_T28_1546_009:0060a22_1']	如色非色，相應不相應、有依無依、有勢用無勢用、有行無行、有緣無緣。	如色非色，相應不相應、有依無依、有勢用無勢用、有行無行、有緣無緣。	Like form and non-form, it is associated and not associated, has support and no support, has efficacy and no efficacy, has activity and no activity, has objects and no objects.
+['ZH_T28_1546_009:0060a22_12']	文是不相應乃至是無緣。	文是不相應乃至是無緣。	Text is not associated, up to having no objects.
+['ZH_T28_1546_009:0060a23_11']	復有說者，義是可見不可見，文是不可見。	復有說者，義是可見不可見，文是不可見。	Furthermore, some say that meaning is visible and invisible, while text is invisible.
+['ZH_T28_1546_009:0060a24_3']	義是有對無對，文是無對。	義是有對無對，文是無對。	Meaning is resistant and non-resistant, while text is non-resistant.
+['ZH_T28_1546_009:0060a24_15']	義是有漏無漏，文是有漏。	義是有漏無漏，文是有漏。	Meaning is contaminated and uncontaminated, while text is contaminated.
+['ZH_T28_1546_009:0060a25_7']	義是有為無為，文是有為。	義是有為無為，文是有為。	Meaning is conditioned and unconditioned, while text is conditioned.
+['ZH_T28_1546_009:0060a25_20']	義是善不善無記，文是無記。	義是善不善無記，文是無記。	The meaning is good, bad, and neutral, while the text is neutral.
+['ZH_T28_1546_009:0060a26_12']	義是墮世不墮世，文是墮世。	義是墮世不墮世，文是墮世。	The meaning may be worldly or transcendent, while the text is worldly.
+['ZH_T28_1546_009:0060a27_8', 'ZH_T28_1546_009:0060a28_7']	義是三界繫不繫，文是欲色界繫。🔽義是學無學非學非無學，文是非學非無學。	義是三界繫不繫，文是欲色界繫。 義是學無學非學非無學，文是非學非無學。	The meaning may be bound to the three realms or unbound, while the text is bound to the desire and form realms.🔽The meaning may be of learners, post-learners, or neither, while the text is neither.
+['ZH_T28_1546_009:0060a29_5']	義是見道斷修道斷不斷，文是修道斷。	義是見道斷修道斷不斷，文是修道斷。	The meaning may be eliminated by the path of seeing, the path of cultivation, or not eliminated, while the text is eliminated by the path of cultivation.
+['ZH_T28_1546_009:0060a29_19']	義是染污不染污，文是不染污。	義是染污不染污，文是不染污。	The meaning may be defiled or undefiled, while the text is undefiled.
+['ZH_T28_1546_009:0060b02_8']	如染污不染污，有過無過、黑白、隱沒不隱沒、退不退、有報無報。	如染污不染污，有過無過、黑白、隱沒不隱沒、退不退、有報無報。	Like defiled and undefiled, with faults and without faults, black and white, hidden and unhidden, regressing and non-regressing, with retribution and without retribution.
+['ZH_T28_1546_009:0060b02_19']	文是不染污乃至是無報。	文是不染污乃至是無報。	The text is undefiled up to having no retribution.
+['ZH_T28_1546_009:0060b03_6']	文義是謂差別。	文義是謂差別。	The difference between text and meaning is called distinction.
+['ZH_T28_1546_009:0060b04_3']	如經說：	如經說：	As the sutra says:
+['ZH_T28_1546_009:0060b04_8']	云何為名？	云何為名？	What is a name?
+['ZH_T28_1546_009:0060b04_13']	四陰為名。	四陰為名。	The four aggregates are a name.
+['ZH_T28_1546_009:0060b04_16']	問曰：	問曰：	Question:
+['ZH_T28_1546_009:0060b06_5']	如名是心不相應行陰所攝，以何等故世尊說四陰非色陰為名耶？	如名是心不相應行陰所攝，以何等故世尊說四陰非色陰為名耶？	Since names are categorized as mental activities not directly associated with thought, why did the World-Honored One say that the four aggregates, not the form aggregate, are names?
+['ZH_T28_1546_009:0060b06_8']	答曰：	答曰：	Answer:
+['ZH_T28_1546_009:0060b07_14']	佛說色法、非色法為二分，諸色法為色陰、諸非色法為四陰。	佛說色法、非色法為二分，諸色法為色陰、諸非色法為四陰。	The Buddha said that form and non-form are divided into two parts, with all form being the form aggregate and all non-form being the four aggregates.
+['ZH_T28_1546_009:0060b08_9']	諸顯義名，是心不相應行陰所攝。	諸顯義名，是心不相應行陰所攝。	All names that express meanings are included in the mental factors not directly associated with thought.
+['ZH_T28_1546_009:0060b09_22']	名有六種，所謂功德、生處、時、隨欲、作事、相。	名有六種，所謂功德、生處、時、隨欲、作事、相。	There are six kinds of names, namely merit, place of birth, time, desire, action, and characteristic.
+['ZH_T28_1546_009:0060b13_5']	功德為名者，如誦修多羅故名修多羅者、誦毘尼故名持律者、誦阿毘曇故名阿毘曇者，以得須陀洹果故名須陀洹，乃至得阿羅漢果者名阿羅漢。	功德為名者，如誦修多羅故名修多羅者、誦毘尼故名持律者、誦阿毘曇故名阿毘曇者，以得須陀洹果故名須陀洹，乃至得阿羅漢果者名阿羅漢。	Merit as a name is like one who recites the sutras being called a sutra master, one who recites the Vinaya being called a Vinaya master, and one who recites the Abhidharma being called an Abhidharma master. By attaining the fruit of stream-entry, one is called a stream-enterer, and up to one who attains the fruit of arhatship being called an arhat.
+['ZH_T28_1546_009:0060b14_12']	生處為名者，城中生者名城中人，如是隨何國生名彼國人。	生處為名者，城中生者名城中人，如是隨何國生名彼國人。	Place of birth as a name is like one born in a city being called a city person, and thus one born in any country being called a person of that country.
+['ZH_T28_1546_009:0060b15_14']	時為名者，如小兒時名為小兒，如老時名為老人。	時為名者，如小兒時名為小兒，如老時名為老人。	Time as a name is like one in childhood being called a child, and one in old age being called an old person.
+['ZH_T28_1546_009:0060b18_1']	隨欲名者，如生時父母為作名，亦沙門婆羅門為作名作事名者如能，畫故名為畫師、能銅鐵作故名銅鐵師。	隨欲名者，如生時父母為作名，亦沙門婆羅門為作名作事名者如能，畫故名為畫師、能銅鐵作故名銅鐵師。	Names according to desire are like when parents give a name at birth, or when śramaṇas and brāhmans give a name. Names according to action are like being called a painter because of painting, or being called a coppersmith because of working with copper and iron.
+['ZH_T28_1546_009:0060b19_2']	相為名者，如棷杖執蓋故名為棷杖執蓋者。	相為名者，如棷杖執蓋故名為棷杖執蓋者。	Names according to characteristics are like being called a staff-bearer because of carrying a staff, or being called an umbrella-bearer because of holding an umbrella.
+['ZH_T28_1546_009:0060b19_18']	復有說者，有四種名，所謂一、想；	復有說者，有四種名，所謂一、想；	There is another explanation: There are four kinds of names, namely, one, conceptualization;
+['ZH_T28_1546_009:0060b20_1', 'ZH_T28_1546_009:0060b20_7']	二、枳互；🔽三、呾地多；	二、枳互； 三、呾地多；	two, mutual;🔽three, designation;
+['ZH_T28_1546_009:0060b20_13']	四、三摩娑。	四、三摩娑。	four, samāsa.
+['ZH_T28_1546_009:0060b21_14']	想為名者，如世貴人以奴為名、如貧賤人以貴為名。	想為名者，如世貴人以奴為名、如貧賤人以貴為名。	Names according to conceptualization are like when a noble person is named after a slave, or when a poor person is named after a noble person.
+['ZH_T28_1546_009:0060b22_10']	枳互為名者，能腹行故名腹行虫。	枳互為名者，能腹行故名腹行虫。	Names according to mutual are like being called a crawling worm because of crawling on the belly.
+['ZH_T28_1546_009:0060b24_6']	呾地多為名者，如事毘紐天名事毘紐天者、如從婆修提婆天生名婆修提婆子。	呾地多為名者，如事毘紐天名事毘紐天者、如從婆修提婆天生名婆修提婆子。	Names according to designation are like being called a worshipper of Viṣṇu because of worshipping Viṣṇu, or being called a son of Brahmā because of being born from Brahmā.
+['ZH_T28_1546_009:0060b25_12']	三摩沙為名者，如牛駮色名為駮牛、如人屬王名為王人。	三摩沙為名者，如牛駮色名為駮牛、如人屬王名為王人。	As for those named after their characteristics, it is like a cow with a mottled color being called a mottled cow, or a person belonging to a king being called a king's man.
+['ZH_T28_1546_009:0060b26_8']	復有說者，名有二種，所謂生、作。	復有說者，名有二種，所謂生、作。	Furthermore, there are those who say that names are of two kinds, namely innate and created.
+['ZH_T28_1546_009:0060b27_4']	生為名者，如婆羅門、剎利、毘舍、首陀。	生為名者，如婆羅門、剎利、毘舍、首陀。	As for innate names, it is like the Brahmins, Kshatriyas, Vaishyas, and Shudras.
+['ZH_T28_1546_009:0060b28_7']	作為名者，如生時父母為作名，若沙門婆羅門為作名。	作為名者，如生時父母為作名，若沙門婆羅門為作名。	As for created names, it is like when parents give a name at birth, or when Shakyas and Brahmins give a name.
+['ZH_T28_1546_009:0060b29_16']	復有說者，生為名者，如生時父母為作名，亦沙門婆羅門為作名。	復有說者，生為名者，如生時父母為作名，亦沙門婆羅門為作名。	Furthermore, there are those who say that innate names are like when parents give a name at birth, or when Shakyas and Brahmins give a name.
+['ZH_T28_1546_009:0060c01_18']	作為名者，後時親友知識更為作名，名第二名。	作為名者，後時親友知識更為作名，名第二名。	As for created names, later on friends and acquaintances give another name, which is called the second name.
+['ZH_T28_1546_009:0060c02_16']	復有說者，有二種名，所謂有相、無相。	復有說者，有二種名，所謂有相、無相。	Furthermore, there are those who say that there are two kinds of names, namely with characteristics and without characteristics.
+['ZH_T28_1546_009:0060c03_14']	有相為名者，如無常苦空無我、陰入等名。	有相為名者，如無常苦空無我、陰入等名。	As for names with characteristics, it is like impermanence, suffering, emptiness, and no-self, and the names of the aggregates and sense bases.
+['ZH_T28_1546_009:0060c04_11']	無相為名者，如眾生人、那羅禪頭等名。	無相為名者，如眾生人、那羅禪頭等名。	As for names without characteristics, it is like the names of sentient beings, humans, and Narayana.
+['ZH_T28_1546_009:0060c05_11']	若佛出世作有相名，若佛不出世唯無相名。	若佛出世作有相名，若佛不出世唯無相名。	If a Buddha appears in the world, there are names with characteristics. If a Buddha does not appear in the world, there are only names without characteristics.
+['ZH_T28_1546_009:0060c06_8']	復有說者，有二種名，所謂共、不共。	復有說者，有二種名，所謂共、不共。	Again, some say there are two kinds of names, namely common and uncommon.
+['ZH_T28_1546_009:0060c06_20']	不共為名者，如三寶等名。	不共為名者，如三寶等名。	Uncommon names are like the names of the Three Jewels.
+['ZH_T28_1546_009:0060c07_7']	共為名者，諸餘名。	共為名者，諸餘名。	Common names are the remaining names.
+['ZH_T28_1546_009:0060c08_4']	復有說者，一切名盡是共，無不共名。	復有說者，一切名盡是共，無不共名。	Again, some say all names are common, with no uncommon names.
+['ZH_T28_1546_009:0060c08_9']	所以者何？	所以者何？	Why is this?
+['ZH_T28_1546_009:0060c09_5']	一義可立一切名，一切義可立一名。	一義可立一切名，一切義可立一名。	One meaning can be established with all names, and all meanings can be established with one name.
+['ZH_T28_1546_009:0060c10_3']	復有說者，有二種名，所謂決定、不決定。	復有說者，有二種名，所謂決定、不決定。	Again, some say there are two kinds of names, namely definite and indefinite.
+['ZH_T28_1546_009:0060c11_11']	決定為名者，如須彌山、四天下大海，此世界始成時，是決定名。	決定為名者，如須彌山、四天下大海，此世界始成時，是決定名。	Definite names are like Mount Sumeru, the four continents, and the great ocean. When this world was first formed, these were definite names.
+['ZH_T28_1546_009:0060c12_3']	不決定為名者，諸餘等名。	不決定為名者，諸餘等名。	Indefinite names are the remaining names.
+['ZH_T28_1546_009:0060c12_13']	復有說者，無決定名。	復有說者，無決定名。	Again, some say there are no definite names.
+['ZH_T28_1546_009:0060c12_18']	所以者何？	所以者何？	Why is this?
+['ZH_T28_1546_009:0060c13_13']	諸餘邊方亦為須彌山等更作餘名。	諸餘邊方亦為須彌山等更作餘名。	In other border regions, Mount Sumeru and others are given other names.
+['ZH_T28_1546_009:0060c13_16']	評曰：	評曰：	Commentary:
+['ZH_T28_1546_009:0060c15_4']	如是說者好，世界初成時，名須彌山、四天下大海，名亦如是。	如是說者好，世界初成時，名須彌山、四天下大海，名亦如是。	Those who say this are good. When the world first formed, the names of Mount Sumeru, the four continents, and the great oceans were also like this.
+['ZH_T28_1546_009:0060c15_7']	問曰：	問曰：	Question:
+['ZH_T28_1546_009:0060c16_2']	如劫盡時一切散壞，誰復作此名？	如劫盡時一切散壞，誰復作此名？	When the eon ends, everything is scattered and destroyed. Who created these names again?
+['ZH_T28_1546_009:0060c16_5']	答曰：	答曰：	Answer:
+['ZH_T28_1546_009:0060c17_1']	或有說者，是仙人入定力復傳此名。	或有說者，是仙人入定力復傳此名。	Some say that the sage entered concentration and transmitted these names again.
+['ZH_T28_1546_009:0060c17_16']	復有說者，眾生有因力能說此名。	復有說者，眾生有因力能說此名。	Some say that sentient beings have the power of causes and can speak these names.
+['ZH_T28_1546_009:0060c17_19']	問曰：	問曰：	Question:
+['ZH_T28_1546_009:0060c18_13']	諸名為先有共傳、為更有新作者？	諸名為先有共傳、為更有新作者？	Are the names transmitted by common consent, or are there new creators?
+['ZH_T28_1546_009:0060c18_16']	答曰：	答曰：	Answer:
+['ZH_T28_1546_009:0060c19_17']	世界初成，須彌山等諸名先有共傳，餘名不定。	世界初成，須彌山等諸名先有共傳，餘名不定。	When the world first formed, the names of Mount Sumeru and others were transmitted by common consent, but other names are not fixed.
+['ZH_T28_1546_009:0060c20_14']	復有說者，名有二種，所謂物、作。	復有說者，名有二種，所謂物、作。	Some say that there are two kinds of names, namely substance and action.
+['ZH_T28_1546_009:0060c21_9']	物為名者，如提婆達多、延若達多名。	物為名者，如提婆達多、延若達多名。	Names of substance are like Devadatta and Yajñadatta.
+['ZH_T28_1546_009:0060c22_7']	作為名者，如作者、刈者、煮者、讀者等名。	作為名者，如作者、刈者、煮者、讀者等名。	Names of action are like the names of the doer, the cutter, the cooker, and the reader.
+['ZH_T28_1546_009:0060c22_10']	問曰：	問曰：	Question:
+['ZH_T28_1546_009:0060c22_19']	為有知名邊際者不？	為有知名邊際者不？	Is there anyone who knows the limit of names?
+['ZH_T28_1546_009:0060c23_1']	答曰：	答曰：	Answer:
+['ZH_T28_1546_009:0060c23_12']	有，唯佛能，餘無知者。	有，唯佛能，餘無知者。	There is, only the Buddha can, others do not know.
+['ZH_T28_1546_009:0060c23_17']	所以者何？	所以者何？	Why is it so?
+['ZH_T28_1546_009:0060c24_10']	以佛能知一切名邊際故名一切智。	以佛能知一切名邊際故名一切智。	Because the Buddha can know the limit of all names, he is called the Omniscient One.
+['ZH_T28_1546_009:0060c25_3']	如經說：	如經說：	As the sutra says:
+['ZH_T28_1546_009:0060c25_18']	如來出世，便有名身等出現世間。	如來出世，便有名身等出現世間。	When the Tathagata appears in the world, then the appearance of names and so forth appears in the world.
+['ZH_T28_1546_009:0060c26_1']	問曰：	問曰：	Question:
+['ZH_T28_1546_009:0060c27_18']	若佛出世、若不出世，常有名身等現於世間，何以言如來出世便有名身等出現世間？	若佛出世、若不出世，常有名身等現於世間，何以言如來出世便有名身等出現世間？	Whether the Buddha appears in the world or not, names and so forth always appear in the world. Why is it said that when the Tathagata appears in the world, then the appearance of names and so forth appears in the world?
+['ZH_T28_1546_009:0060c28_2']	答曰：	答曰：	Answer:
+['ZH_T28_1546_009:0061a03_12']	言名身等出世者，所謂陰界入名，隨順無我、隨順解脫、隨順空，斷人見、生覺意，背煩惱、向出要，止愚癡、生智慧，斷猶豫、生決定，厭生死、樂寂靜，斷外道意、歎內道意，為說如是等名身，言出現世間。	言名身等出世者，所謂陰界入名，隨順無我、隨順解脫、隨順空，斷人見、生覺意，背煩惱、向出要，止愚癡、生智慧，斷猶豫、生決定，厭生死、樂寂靜，斷外道意、歎內道意，為說如是等名身，言出現世間。	As for the name-body and so forth that appear in the world, namely the names of aggregates, realms, and entrances, they accord with no-self, accord with liberation, accord with emptiness, cut off the view of persons, give rise to the thought of enlightenment, turn away from afflictions, head towards liberation, stop delusion, give rise to wisdom, cut off doubt, give rise to certainty, become weary of birth and death, delight in tranquility, cut off the intentions of non-Buddhists, praise the intentions of Buddhists. Speaking such name-bodies is called appearing in the world.
+['ZH_T28_1546_009:0061a04_2']	問曰：	問曰：	Question:
+['ZH_T28_1546_009:0061a05_2']	如火名火，此名為是有相名、為是無相名耶？	如火名火，此名為是有相名、為是無相名耶？	Is the name of fire, such as fire, a name with characteristics or a name without characteristics?
+['ZH_T28_1546_009:0061a05_5']	答曰：	答曰：	Answer:
+['ZH_T28_1546_009:0061a05_10']	是有相名。	是有相名。	It is a name with characteristics.
+['ZH_T28_1546_009:0061a06_5']	如向所說一切顯義名，此名是有相。	如向所說一切顯義名，此名是有相。	As explained above, all names that manifest meanings have characteristics.
+['ZH_T28_1546_009:0061a06_8']	問曰：	問曰：	Question:
+['ZH_T28_1546_009:0061a06_17']	若然者，火有何相？	若然者，火有何相？	If so, what are the characteristics of fire?
+['ZH_T28_1546_009:0061a06_20']	答曰：	答曰：	Answer:
+['ZH_T28_1546_009:0061a07_4']	凡義有二種：	凡義有二種：	There are two kinds of meanings:
+['ZH_T28_1546_009:0061a07_10']	有相、無相。	有相、無相。	with characteristics and without characteristics.
+['ZH_T28_1546_009:0061a08_1']	如火外無火相，言是無相。	如火外無火相，言是無相。	Like fire, externally there are no characteristics of fire, so it is said to be without characteristics.
+['ZH_T28_1546_009:0061a08_12']	如焰是火相，言有火相。	如焰是火相，言有火相。	It is like saying that flame is the characteristic of fire, and that there is the characteristic of fire.
+['ZH_T28_1546_009:0061a09_15']	佛經有三種名說法，謂去、來、今。	佛經有三種名說法，謂去、來、今。	The Buddha's sutras have three kinds of names for teaching the Dharma, namely, past, present, and future.
+['ZH_T28_1546_009:0061a09_18']	問曰：	問曰：	Question:
+['ZH_T28_1546_009:0061a10_8']	此三種名說法，體性是何？	此三種名說法，體性是何？	What is the essential nature of these three kinds of names for teaching the Dharma?
+['ZH_T28_1546_009:0061a10_11']	答曰：	答曰：	Answer:
+['ZH_T28_1546_009:0061a11_17']	如《波伽羅那》說，三種名說法，體性攝十八界、十二入、五陰。	如《波伽羅那》說，三種名說法，體性攝十八界、十二入、五陰。	As the Pārāyaṇa Sūtra says, the essential nature of the three kinds of names for teaching the Dharma is included in the eighteen elements, twelve sense bases, and five aggregates.
+['ZH_T28_1546_009:0061a11_20']	問曰：	問曰：	Question:
+['ZH_T28_1546_009:0061a13_2']	如《波伽羅那》說三種說法，體性攝十八界、十二入、五陰。	如《波伽羅那》說三種說法，體性攝十八界、十二入、五陰。	As the Pārāyaṇa Sūtra says that the essential nature of the three kinds of teaching the Dharma is included in the eighteen elements, twelve sense bases, and five aggregates.
+['ZH_T28_1546_009:0061a14_16']	所說是語、所顯是名，應是一界一入一陰少入，云何說攝十八界十二入五陰？	所說是語、所顯是名，應是一界一入一陰少入，云何說攝十八界十二入五陰？	What is spoken is speech, and what is revealed is names, which should be one element, one sense base, and one aggregate, but why is it said to be included in the eighteen elements, twelve sense bases, and five aggregates?
+['ZH_T28_1546_009:0061a14_19']	答曰：	答曰：	Answer:
+['ZH_T28_1546_009:0061a15_15']	或有說者，取三種名說法及眷屬故。	或有說者，取三種名說法及眷屬故。	Some say that it is because the three kinds of names for teaching the Dharma and their retinue are taken.
+['ZH_T28_1546_009:0061a16_1']	其事云何？	其事云何？	What is the matter?
+['ZH_T28_1546_009:0061a16_4']	答曰：	答曰：	Answer:
+['ZH_T28_1546_009:0061a16_21']	語能生名、名能顯義，故說及其眷屬。	語能生名、名能顯義，故說及其眷屬。	Speech can give rise to names, and names can reveal meaning, so it is said along with their retinue.
+['ZH_T28_1546_009:0061a17_17']	復有說者，為三義說法故，言三名說法。	復有說者，為三義說法故，言三名說法。	There is also an explanation that the Dharma is spoken for three meanings, so it is said that the three are called speaking the Dharma.
+['ZH_T28_1546_009:0061a18_2']	所以者何？	所以者何？	Why is it so?
+['ZH_T28_1546_009:0061a19_2']	說者聽者皆為於義，以是事故盡攝陰界入。	說者聽者皆為於義，以是事故盡攝陰界入。	Because the speaker and the listener are both for the sake of the meaning, this is why it completely includes the aggregates, realms, and sense bases.
+['ZH_T28_1546_009:0061a19_5']	問曰：	問曰：	The question is asked:
+['ZH_T28_1546_009:0061a20_4']	何故有為法說是三名說法，不說無為法耶？	何故有為法說是三名說法，不說無為法耶？	Why is it that conditioned dharmas are called these three names and spoken of, but unconditioned dharmas are not spoken of?
+['ZH_T28_1546_009:0061a20_12']	尊者和須蜜答曰：	尊者和須蜜答曰：	The Venerable Vasumitra answers:
+['ZH_T28_1546_009:0061a21_14']	此經為說有為法，有為法不得作第四第五說法。	此經為說有為法，有為法不得作第四第五說法。	This sūtra speaks of conditioned dharmas, and conditioned dharmas cannot be made into a fourth or fifth speaking of the Dharma.
+['ZH_T28_1546_009:0061a22_16']	復有說者，此經為說一切法，無為法墮現在世中。	復有說者，此經為說一切法，無為法墮現在世中。	There is also an explanation that this sūtra speaks of all dharmas, and unconditioned dharmas fall within the present world.
+['ZH_T28_1546_009:0061a23_2']	所以者何？	所以者何？	Why is it so?
+['ZH_T28_1546_009:0061a23_14']	以現在法能證得無為法故。	以現在法能證得無為法故。	Because present dharmas are able to realize and attain unconditioned dharmas.
+['ZH_T28_1546_009:0061a24_10']	以是故，無為法亦在三種名說法中。	以是故，無為法亦在三種名說法中。	For this reason, unconditioned dharmas are also included within the three kinds of speaking of the Dharma.
+['ZH_T28_1546_009:0061a25_9']	復有說者，若有三性者，說是三名說法。	復有說者，若有三性者，說是三名說法。	There is also an explanation that if there are three natures, these three names are spoken of and the Dharma is spoken.
+['ZH_T28_1546_009:0061a25_21']	三性者，所謂語、名、義。	三性者，所謂語、名、義。	The three natures refer to speech, names, and meanings.
+['ZH_T28_1546_009:0061a27_4']	無為法雖語有義，無語無名，是故說不在三名說法中。	無為法雖語有義，無語無名，是故說不在三名說法中。	Although unconditioned dharmas are said to have meaning, they are without words and names. Therefore, it is said that they are not included in the three kinds of named dharmas.
+['ZH_T28_1546_009:0061a27_7']	問曰：	問曰：	Question:
+['ZH_T28_1546_009:0061a27_19']	何故世尊說世是三名說法？	何故世尊說世是三名說法？	Why did the World-Honored One say that the world is the three kinds of named dharmas?
+['ZH_T28_1546_009:0061a28_2']	答曰：	答曰：	Answer:
+['ZH_T28_1546_009:0061a29_2']	或有說者，為止外道意故，外道於世中愚故。	或有說者，為止外道意故，外道於世中愚故。	Some say that it is in order to stop the intentions of non-Buddhists, because non-Buddhists are foolish regarding the world.
+['ZH_T28_1546_009:0061b01_15']	復有說者，為壞未來世中說無過去未來者意故，是故說世是三種名說法。	復有說者，為壞未來世中說無過去未來者意故，是故說世是三種名說法。	Some also say that it is in order to destroy the intentions of those in the future who say that the past and future do not exist, and therefore say that the world is the three kinds of named dharmas.
+['ZH_T28_1546_009:0061b02_8']	復有說者，外道作如是說：	復有說者，外道作如是說：	Some also say that non-Buddhists make the following statement:
+['ZH_T28_1546_009:0061b03_2']	若無我者，是人說法終無所為。	若無我者，是人說法終無所為。	If there is no self, then the person's teaching of the Dharma will ultimately be purposeless.
+['ZH_T28_1546_009:0061b03_12']	為壞如是意而作是說：	為壞如是意而作是說：	In order to destroy such intentions, it is said:
+['ZH_T28_1546_009:0061b04_2']	雖無有我，為世故說。	雖無有我，為世故說。	Although there is no self, it is taught for the sake of the world.
+['ZH_T28_1546_009:0061b04_5', 'ZH_T28_1546_009:0061b04_19', 'ZH_T28_1546_009:0061b05_12']	問曰：🔽若為過去說法，解未來現在事；🔽若為未來說法，解過去現在事；	問曰： 若為過去說法，解未來現在事； 若為未來說法，解過去現在事；	Question:🔽If the Dharma is taught for the sake of the past, one understands future and present matters;🔽if the Dharma is taught for the sake of the future, one understands past and present matters;
+['ZH_T28_1546_009:0061b06_6']	若為現在說法，解未來過去事。	若為現在說法，解未來過去事。	if the Dharma is taught for the sake of the present, one understands future and past matters.
+['ZH_T28_1546_009:0061b07_2']	於三種名說法中，為是何名說法？	於三種名說法中，為是何名說法？	Among the three kinds of named teachings, which one is it?
+['ZH_T28_1546_009:0061b07_5']	答曰：	答曰：	Answer:
+['ZH_T28_1546_009:0061b08_5']	或有說者，如是說者於三種名說法中是異說。	或有說者，如是說者於三種名說法中是異說。	Some say that this kind of teaching is different from the three kinds of named teachings.
+['ZH_T28_1546_009:0061b09_14']	復有說者，若為過去說法，解未來現在事者，為過去，即過去世。	復有說者，若為過去說法，解未來現在事者，為過去，即過去世。	Furthermore, some say that if one teaches the past, and understands future and present matters, it is the past, belonging to the past world.
+['ZH_T28_1546_009:0061b10_9']	解未來現在事，即未來現在世攝。	解未來現在事，即未來現在世攝。	Understanding future and present matters, it is included in the future and present worlds.
+['ZH_T28_1546_009:0061b11_4']	乃至為現在說，過去未來亦如是。	乃至為現在說，過去未來亦如是。	Up to teaching the present, the past and future are also like this.
+['ZH_T28_1546_009:0061b11_20']	復有說者，若作是說，是說三世義。	復有說者，若作是說，是說三世義。	Furthermore, some say that if one teaches in this way, it is the meaning of the three worlds.
+['ZH_T28_1546_009:0061b12_10']	若為過去，是說過去義。	若為過去，是說過去義。	If it is taught for the past, it is the meaning of the past.
+['ZH_T28_1546_009:0061b13_4']	解未來現在，是說未來現在義。	解未來現在，是說未來現在義。	Understanding the future and present, it is the meaning of the future and present.
+['ZH_T28_1546_009:0061b13_12']	未來現在亦如是。	未來現在亦如是。	The future and present are also like this.
+['ZH_T28_1546_009:0061b14_3']	如經說：	如經說：	As the sutra says:
+['ZH_T28_1546_009:0061b14_16']	有三種名說法，無第四第五。	有三種名說法，無第四第五。	There are three kinds of named teachings, with no fourth or fifth.
+['ZH_T28_1546_009:0061b14_19']	問曰：	問曰：	It is asked:
+['ZH_T28_1546_009:0061b16_6']	若說三種名說法有說有解，於義已足，何以復言無第四第五？	若說三種名說法有說有解，於義已足，何以復言無第四第五？	If the three kinds are mentioned, it is said that there is teaching and understanding of the Dharma, and the meaning is already sufficient. Why is it further said that there is no fourth or fifth?
+['ZH_T28_1546_009:0061b16_9']	答曰：	答曰：	Answer:
+['ZH_T28_1546_009:0061b16_20']	無第四者，遮有第四世；	無第四者，遮有第四世；	As for no fourth, it denies the existence of a fourth time;
+['ZH_T28_1546_009:0061b17_13']	無第五者，決定此義無第五世。	無第五者，決定此義無第五世。	As for no fifth, it determines that there is no fifth time.
+['ZH_T28_1546_009:0061b18_16']	復有說者，無第四者遮第四世，無第五者遮無為法。	復有說者，無第四者遮第四世，無第五者遮無為法。	Furthermore, some say: As for no fourth, it denies the fourth time; as for no fifth, it denies unconditioned dharmas.
+['ZH_T28_1546_009:0061b19_16']	復有說者，應說四種名說法，所謂四聖諦。	復有說者，應說四種名說法，所謂四聖諦。	Furthermore, some say: The four kinds should be mentioned, namely the four noble truths.
+['ZH_T28_1546_009:0061b20_6']	無第五者，無第五諦。	無第五者，無第五諦。	As for no fifth, there is no fifth truth.
+['ZH_T28_1546_009:0061b20_19']	無第六者，遮虛空、非數滅。	無第六者，遮虛空、非數滅。	As for no sixth, it denies space and non-analytical cessation.
+['ZH_T28_1546_009:0061b21_15']	復有說者，應有五種名說法，所謂五陰。	復有說者，應有五種名說法，所謂五陰。	Furthermore, some say: There should be five kinds, namely the five aggregates.
+['ZH_T28_1546_009:0061b22_4']	無第六者，無第六陰。	無第六者，無第六陰。	As for no sixth, there is no sixth aggregate.
+['ZH_T28_1546_009:0061b22_14']	無第七者，遮無為法。	無第七者，遮無為法。	As for no seventh, it denies unconditioned dharmas.
+['ZH_T28_1546_009:0061b23_8']	此為三世名說法故無第四第五。	此為三世名說法故無第四第五。	This is because the three times are called the teaching of the Dharma, so there is no fourth or fifth.
+['ZH_T28_1546_009:0061b24_8']	應有一種名說法，所謂作觀，無第二第三。	應有一種名說法，所謂作觀，無第二第三。	There should be one kind called expounding the Dharma, namely contemplation, without a second or third.
+['ZH_T28_1546_009:0061b24_19']	無第二者，無第二作觀。	無第二者，無第二作觀。	Without a second means there is no second contemplation.
+['ZH_T28_1546_009:0061b25_11']	無第三者，遮作觀所不攝法。	無第三者，遮作觀所不攝法。	Without a third means to exclude dharmas not included in contemplation.
+['ZH_T28_1546_009:0061b26_10']	復有說者，應有二種名說法，所謂定、慧。	復有說者，應有二種名說法，所謂定、慧。	Furthermore, some say there should be two kinds called expounding the Dharma, namely concentration and wisdom.
+['ZH_T28_1546_009:0061b27_3']	無第三者，無第二定若第二慧。	無第三者，無第二定若第二慧。	Without a third means there is no second concentration or second wisdom.
+['ZH_T28_1546_009:0061b27_16']	無第四者，遮定慧所不攝法。	無第四者，遮定慧所不攝法。	Without a fourth means to exclude dharmas not included in concentration and wisdom.
+['ZH_T28_1546_009:0061b28_11']	此說三世名說法故，無第四第五。	此說三世名說法故，無第四第五。	Because this explains the three times as expounding the Dharma, there is no fourth or fifth.
+['ZH_T28_1546_009:0061b29_1']	無第四者，遮第四世。	無第四者，遮第四世。	Without a fourth means to exclude the fourth time.
+['ZH_T28_1546_009:0061b29_14']	無第五者，遮三世所不攝法。	無第五者，遮三世所不攝法。	Without a fifth means to exclude dharmas not included in the three times.
+['ZH_T28_1546_009:0061c02_17']	以如是數法，應說三解脫門，說四諦、五陰、六聖明分想、七覺分、八道分、九次第定、十種無學法。	以如是數法，應說三解脫門，說四諦、五陰、六聖明分想、七覺分、八道分、九次第定、十種無學法。	Using this method of enumeration, one should explain the three gates of liberation, the four truths, the five aggregates, the six aspects of the holy life, the seven factors of enlightenment, the eightfold path, the nine successive concentrations, and the ten kinds of dharmas of one beyond training.
+['ZH_T28_1546_009:0061c03_16']	如來十力應有十種名說法，無第十一第十二。	如來十力應有十種名說法，無第十一第十二。	The ten powers of the Tathāgata should have ten kinds of names for expounding the Dharma, without an eleventh or twelfth.
+['ZH_T28_1546_009:0061c04_9']	無第十一者，無第十一力。	無第十一者，無第十一力。	Without an eleventh means without an eleventh power.
+['ZH_T28_1546_009:0061c05_3']	無第十二者，遮十力所不攝法。	無第十二者，遮十力所不攝法。	Without a twelfth means to exclude dharmas not included in the ten powers.
+['ZH_T28_1546_009:0061c06_4']	即彼經說：	即彼經說：	That sūtra says:
+['ZH_T28_1546_009:0061c07_7']	應以四事察人，是長老為可與語、為不可與語？	應以四事察人，是長老為可與語、為不可與語？	One should examine a person in four ways to see if they are suitable to speak with or not.
+['ZH_T28_1546_009:0061c07_12']	云何為四？	云何為四？	What are the four?
+['ZH_T28_1546_009:0061c07_21']	一、不住是處非處；	一、不住是處非處；	First, not abiding in the distinction between proper and improper;
+['ZH_T28_1546_009:0061c08_6']	二、不住智論；	二、不住智論；	second, not abiding in the treatises on knowledge;
+['ZH_T28_1546_009:0061c08_13']	三、不住分別；	三、不住分別；	third, not abiding in discrimination;
+['ZH_T28_1546_009:0061c08_20']	四、不住道迹。	四、不住道迹。	fourth, not abiding in the traces of the path.
+['ZH_T28_1546_009:0061c08_23']	問曰：	問曰：	Question:
+['ZH_T28_1546_009:0061c09_8']	如此四事有何差別？	如此四事有何差別？	What is the difference between these four things?
+['ZH_T28_1546_009:0061c09_11']	答曰：	答曰：	Answer:
+['ZH_T28_1546_009:0061c10_13']	或有說者，不住是處非處者，不如實知是處非處。	或有說者，不住是處非處者，不如實知是處非處。	Some say: Not abiding in the distinction between proper and improper means not truly knowing what is proper and improper.
+['ZH_T28_1546_009:0061c11_8']	不住智論者，不如實知智與不智。	不住智論者，不如實知智與不智。	Not abiding in the treatises on knowledge means not truly knowing knowledge and ignorance.
+['ZH_T28_1546_009:0061c12_6']	不住分別者，不如實知世諦第一義諦。	不住分別者，不如實知世諦第一義諦。	Not abiding in discrimination means not truly knowing the conventional truth and ultimate truth.
+['ZH_T28_1546_009:0061c13_13']	不住道迹者，不如實知此身集道迹、不如實知此身滅道迹。	不住道迹者，不如實知此身集道迹、不如實知此身滅道迹。	Those who do not abide in the traces of the path do not know this body's path of accumulation as it really is, nor do they know this body's path of cessation as it really is.
+['ZH_T28_1546_009:0061c15_9']	復有說者，不住是處非處者，如眼色能生眼識，乃至意法能生意識，名為是處。	復有說者，不住是處非處者，如眼色能生眼識，乃至意法能生意識，名為是處。	Furthermore, some say: Those who do not abide in what is possible and impossible know the eye and form that can give rise to eye-consciousness, up to the mind and dharmas that can give rise to mental consciousness, which is called what is possible.
+['ZH_T28_1546_009:0061c15_20']	不如實知者，名為不住。	不如實知者，名為不住。	Not knowing as it really is is called not abiding.
+['ZH_T28_1546_009:0061c16_12']	不住智論者，不如實知十智。	不住智論者，不如實知十智。	Not abiding in the treatises on knowledge is not knowing the ten knowledges as they really are.
+['ZH_T28_1546_009:0061c17_9']	不住分別者，不如實知了義不了義經。	不住分別者，不如實知了義不了義經。	Not abiding in discrimination is not knowing the sūtras of definitive meaning and non-definitive meaning as they really are.
+['ZH_T28_1546_009:0061c18_5']	不住道迹者，不如實知四種道迹。	不住道迹者，不如實知四種道迹。	Not abiding in the traces of the path is not knowing the four kinds of traces of the path as they really are.
+['ZH_T28_1546_009:0061c19_9']	復有說者，不住是處非處者，不能自定所說是處非處。	復有說者，不住是處非處者，不能自定所說是處非處。	Furthermore, some say: Those who do not abide in what is possible and impossible cannot determine for themselves what is possible and impossible.
+['ZH_T28_1546_009:0061c20_7']	不住智論者，不能堪忍分別前後問答。	不住智論者，不能堪忍分別前後問答。	Those who do not abide in the treatises on knowledge cannot endure the discrimination of questions and answers before and after.
+['ZH_T28_1546_009:0061c21_3']	不住分別者，不如實知詭誑真實。	不住分別者，不如實知詭誑真實。	Those who do not abide in discrimination do not know deception and truth as they really are.
+['ZH_T28_1546_009:0061c21_18']	不住道迹者，他如法問心不悅可。	不住道迹者，他如法問心不悅可。	Those who do not abide in the traces of the path do not delight in the mind when asked about the Dharma by others.
+['ZH_T28_1546_009:0061c22_16']	復有說者，不住是處非處者，不別有無。	復有說者，不住是處非處者，不別有無。	There is another explanation: Not abiding in the right and wrong means not distinguishing between existence and non-existence.
+['ZH_T28_1546_009:0061c23_8']	不住智論者，不解智人論。	不住智論者，不解智人論。	Not abiding in the treatises of knowledge means not understanding the treatises of wise people.
+['ZH_T28_1546_009:0061c24_5']	不住分別者，不知假設無有是處之言。	不住分別者，不知假設無有是處之言。	Not abiding in discrimination means not knowing the words there is no such thing in hypothetical situations.
+['ZH_T28_1546_009:0061c24_18']	不住道迹者，無有隨應覺意。	不住道迹者，無有隨應覺意。	Not abiding in the traces of the path means not having the corresponding enlightened mind.
+['ZH_T28_1546_009:0061c26_3']	復有說者，不住是處非處者，於所言論不別自義他義。	復有說者，不住是處非處者，於所言論不別自義他義。	There is another explanation: Not abiding in the right and wrong means not distinguishing one's own meaning and others' meaning in the discussion.
+['ZH_T28_1546_009:0061c27_7']	不住智論者，於先所聞執著不捨，後所聞義不能觀察。	不住智論者，於先所聞執著不捨，後所聞義不能觀察。	Not abiding in the treatises of knowledge means clinging to and not letting go of what one has heard before, and being unable to contemplate the meaning of what one hears later.
+['ZH_T28_1546_009:0061c28_12']	不住分別者，他說正義，心生疑慮，如人見蘇謂是米飯。	不住分別者，他說正義，心生疑慮，如人見蘇謂是米飯。	Not abiding in discrimination means doubting the correct meaning spoken by others, like a person seeing ghee and calling it rice porridge.
+['ZH_T28_1546_009:0061c29_17']	不住道迹者，不識他人所說次第，以前為中、以中為後。	不住道迹者，不識他人所說次第，以前為中、以中為後。	Not abiding in the traces of the path means not recognizing the sequence spoken by others, taking the previous as the middle and the middle as the latter.
+['ZH_T28_1546_009:0062a02_2']	復有說者，不住是處非處者，不知現前可了不可了事。	復有說者，不住是處非處者，不知現前可了不可了事。	There is another explanation: Not abiding in the right and wrong means not knowing the matters that can be understood or not understood in the present.
+['ZH_T28_1546_009:0062a02_18']	不住智論者，不能以比想籌量所論。	不住智論者，不能以比想籌量所論。	Those who do not abide in the treatise on knowledge are unable to use inferential thoughts to measure what is discussed.
+['ZH_T28_1546_009:0062a03_13']	不住分別者，不知前後所說次第。	不住分別者，不知前後所說次第。	Those who do not abide in discrimination do not know the sequence of what is said before and after.
+['ZH_T28_1546_009:0062a04_7']	不住道迹者，不解他人所問意。	不住道迹者，不解他人所問意。	Those who do not abide in the traces of the path do not understand the meaning of others' questions.
+['ZH_T28_1546_009:0062a04_15']	尊者婆摩勒說曰：	尊者婆摩勒說曰：	Venerable Vamalakal spoke:
+['ZH_T28_1546_009:0062a05_10']	不住是處非處者，不能定所說。	不住是處非處者，不能定所說。	Those who do not abide in the proper and improper are unable to determine what is said.
+['ZH_T28_1546_009:0062a06_5']	不住智論者，不知詭誑及與真實。	不住智論者，不知詭誑及與真實。	Those who do not abide in the treatise on knowledge do not know what is deceitful and what is true.
+['ZH_T28_1546_009:0062a07_2']	不住分別者，不堪忍分別前後問答。	不住分別者，不堪忍分別前後問答。	Those who do not abide in discrimination are unable to bear the discrimination of questions and answers before and after.
+['ZH_T28_1546_009:0062a07_19']	不住道迹者，他人如法論，心不悅可。	不住道迹者，他人如法論，心不悅可。	Those who do not abide in the traces of the path are not pleased with others' discussions in accordance with the Dharma.
+['ZH_T28_1546_009:0062a08_7']	尊者僧伽婆秀說曰：	尊者僧伽婆秀說曰：	Venerable Saṃghabhadra spoke:
+['ZH_T28_1546_009:0062a09_10']	不住是處非處者，不知《多界經》所說是處非處義。	不住是處非處者，不知《多界經》所說是處非處義。	Those who do not abide in the proper and improper do not know the meaning of the proper and improper in the Sūtra on the Many Realms.
+['ZH_T28_1546_009:0062a10_10']	不住智論者，不知四十四智、七十七智體分。	不住智論者，不知四十四智、七十七智體分。	Those who do not abide in the treatise on knowledge do not know the essence and divisions of the forty-four knowledges and seventy-seven knowledges.
+['ZH_T28_1546_009:0062a11_3']	不住分別者，不知煩惱出要。	不住分別者，不知煩惱出要。	Those who do not abide in discrimination do not know the afflictions and the way out.
+['ZH_T28_1546_009:0062a11_18']	不住道迹者，不如實知色滅道法。	不住道迹者，不如實知色滅道法。	Those who do not abide in the stages do not know the path to the cessation of form as it truly is.
+['ZH_T28_1546_009:0062a13_11']	復應以四事察人，是長老，應以決定答論作決定答，是可與語乃至廣說。	復應以四事察人，是長老，應以決定答論作決定答，是可與語乃至廣說。	One should also examine a person in four ways: this elder should answer definitively when asked a definitive question, and so on.
+['ZH_T28_1546_009:0062a13_18']	云何決定答論？	云何決定答論？	What is a definitive question?
+['ZH_T28_1546_009:0062a14_7']	如問佛是等正覺耶？	如問佛是等正覺耶？	If asked whether the Buddha is a fully enlightened one,
+['ZH_T28_1546_009:0062a14_13']	應決定答言：	應決定答言：	one should answer definitively, saying:
+['ZH_T28_1546_009:0062a14_15']	是。	是。	Yes.
+['ZH_T28_1546_009:0062a15_3']	此佛法是善好耶？	此佛法是善好耶？	Is this Buddha Dharma good and excellent?
+['ZH_T28_1546_009:0062a15_9']	應決定答言：	應決定答言：	One should answer definitively, saying:
+['ZH_T28_1546_009:0062a15_11']	是。	是。	Yes.
+['ZH_T28_1546_009:0062a16_1']	此聲聞是善隨順眾耶？	此聲聞是善隨順眾耶？	Are these disciples of the Buddha a harmonious assembly?
+['ZH_T28_1546_009:0062a16_7']	應決定答言：	應決定答言：	One should answer definitively, saying:
+['ZH_T28_1546_009:0062a16_9']	是。	是。	Yes.
+['ZH_T28_1546_009:0062a17_6']	一切行無常、一切行無我、涅槃是寂靜耶？	一切行無常、一切行無我、涅槃是寂靜耶？	Are all conditioned things impermanent, all conditioned things suffering, and nirvana peaceful?
+['ZH_T28_1546_009:0062a17_12']	應決定答言：	應決定答言：	One should answer definitively, saying:
+['ZH_T28_1546_009:0062a17_14']	是。	是。	Yes.
+['ZH_T28_1546_009:0062a18_1']	是名決定答論。	是名決定答論。	This is called a definitive question.
+['ZH_T28_1546_009:0062a18_4']	問曰：	問曰：	Question:
+['ZH_T28_1546_009:0062a18_15']	何故如是問者作決定答？	何故如是問者作決定答？	Why does one answer definitively when asked in this way?
+['ZH_T28_1546_009:0062a18_18']	答曰：	答曰：	Answer:
+['ZH_T28_1546_009:0062a20_18']	此問於義利益能增長善，亦進梵行、通達覺意、能得涅槃，是故如是問者作決定答論。	此問於義利益能增長善，亦進梵行、通達覺意、能得涅槃，是故如是問者作決定答論。	This question increases the benefit and goodness of the meaning, and also advances the holy life, penetrates the factors of enlightenment, and can attain nirvana. Therefore, one who asks in this way makes a definitive answer in the treatise.
+['ZH_T28_1546_009:0062a21_5']	云何分別答論？	云何分別答論？	What is a treatise that answers by discrimination?
+['ZH_T28_1546_009:0062a21_8']	答曰：	答曰：	The answer is:
+['ZH_T28_1546_009:0062a21_13']	若作是問：	若作是問：	If one asks in this way:
+['ZH_T28_1546_009:0062a21_18']	為我說法。	為我說法。	Speak the Dharma for me.
+['ZH_T28_1546_009:0062a22_3']	彼應作是答：	彼應作是答：	One should answer in this way:
+['ZH_T28_1546_009:0062a24_15']	法亦眾多，過去、未來、現在，善、不善、無記，欲界繫、色界繫、無色界繫、不繫，學、無學、非學非無學，見道斷、修道斷、無斷。	法亦眾多，過去、未來、現在，善、不善、無記，欲界繫、色界繫、無色界繫、不繫，學、無學、非學非無學，見道斷、修道斷、無斷。	The Dharma is also numerous, past, future, and present, wholesome, unwholesome, and indeterminate, bound to the desire realm, bound to the form realm, bound to the formless realm, unbound, learner, non-learner, neither learner nor non-learner, to be abandoned by the path of seeing, to be abandoned by the path of cultivation, and unabandoned.
+['ZH_T28_1546_009:0062a25_3']	如是等法，為說何法？	如是等法，為說何法？	Such dharmas, which Dharma should be spoken?
+['ZH_T28_1546_009:0062a26_1']	如是隨所問，應分別答，是名分別答論。	如是隨所問，應分別答，是名分別答論。	In this way, according to the question, one should answer by discrimination. This is called a treatise that answers by discrimination.
+['ZH_T28_1546_009:0062a26_8']	云何反問答論？	云何反問答論？	What is a treatise that answers by counter-questioning?
+['ZH_T28_1546_009:0062a26_11']	答曰：	答曰：	The answer is:
+['ZH_T28_1546_009:0062a26_14']	如說：	如說：	As it is said:
+['ZH_T28_1546_009:0062a26_19']	為我說法。	為我說法。	Speak the Dharma for me.
+['ZH_T28_1546_009:0062a27_2']	應作是答：	應作是答：	One should answer in this way:🔽The Dharma is also numerous, past, future, and present, wholesome, unwholesome, and indeterminate, bound to the desire realm, bound to the form realm, bound to the formless realm, unbound, learner, non-learner, neither learner nor non-learner, to be abandoned by the path of seeing, to be abandoned by the path of cultivation, and unabandoned.Here is the corrected and aligned text:
+['ZH_T28_1546_009:0062a27_16']	法亦眾多，有過去乃至無斷法。	法亦眾多，有過去乃至無斷法。	The dharmas are also numerous, including those that are past and those that are not yet eliminated.
+['ZH_T28_1546_009:0062a28_6']	於此法中，為說何法？	於此法中，為說何法？	Among these dharmas, which dharma are you speaking of?
+['ZH_T28_1546_009:0062a28_13']	是名反問答論。	是名反問答論。	This is called a counter-questioning answer.
+['ZH_T28_1546_009:0062a28_16']	問曰：	問曰：	The question says:
+['ZH_T28_1546_009:0062a29_6']	分別答、反問答有何差別？	分別答、反問答有何差別？	What is the difference between a discriminating answer and a counter-questioning answer?
+['ZH_T28_1546_009:0062a29_9']	答曰：	答曰：	The answer says:
+['ZH_T28_1546_009:0062b01_1']	若以答而言，無有差別。	若以答而言，無有差別。	If speaking in terms of the answer, there is no difference.
+['ZH_T28_1546_009:0062b01_11']	若以所問，應有差別。	若以所問，應有差別。	If speaking in terms of the question, there should be a difference.
+['ZH_T28_1546_009:0062b01_16']	所以者何？	所以者何？	Why is this?
+['ZH_T28_1546_009:0062b01_21']	問有二種：	問有二種：	There are two kinds of questions:
+['ZH_T28_1546_009:0062b02_12']	有欲知義故問、為觸惱故問。	有欲知義故問、為觸惱故問。	There are those who ask in order to understand the meaning, and those who ask in order to provoke.
+['ZH_T28_1546_009:0062b03_10']	若為知義故問為我說法者，應作是答：	若為知義故問為我說法者，應作是答：	If one asks in order to understand the meaning, for the sake of those who speak of the Dharma, one should answer like this:
+['ZH_T28_1546_009:0062b04_4']	法亦眾多，有法過去乃至不斷。	法亦眾多，有法過去乃至不斷。	The dharmas are also numerous, including those that are past and those that are not yet eliminated.
+['ZH_T28_1546_009:0062b04_14']	於此法中，為說何法？	於此法中，為說何法？	Among these dharmas, which dharma are you speaking of?
+['ZH_T28_1546_009:0062b05_3']	若言為我說過去法。	若言為我說過去法。	If one says, Speak the dharmas of the past for me,
+['ZH_T28_1546_009:0062b05_8']	應作是答：	應作是答：	One should answer like this:
+['ZH_T28_1546_009:0062b06_2']	過去法亦眾多，有善、不善、無記。	過去法亦眾多，有善、不善、無記。	The past dharmas are also numerous, including the wholesome, the unwholesome, and the indeterminate.
+['ZH_T28_1546_009:0062b06_7']	若作是言：	若作是言：	If one says:
+['ZH_T28_1546_009:0062b06_13']	為我說善法。	為我說善法。	Speak the wholesome dharmas for me,
+['ZH_T28_1546_009:0062b06_18']	應作是答：	應作是答：	One should answer like this:
+['ZH_T28_1546_009:0062b07_9']	善法亦眾多，有色乃至識。	善法亦眾多，有色乃至識。	There are also many wholesome dharmas, from form up to consciousness.
+['ZH_T28_1546_009:0062b07_14']	若作是言：	若作是言：	If one says:
+['ZH_T28_1546_009:0062b07_20']	為我說色法。	為我說色法。	Speak the dharma of form for me.
+['ZH_T28_1546_009:0062b08_4']	應作是答：	應作是答：	One should answer like this:
+['ZH_T28_1546_009:0062b08_19']	色亦眾多，有不殺生乃至不綺語。	色亦眾多，有不殺生乃至不綺語。	Form is also numerous, from not killing living beings up to not speaking falsely.
+['ZH_T28_1546_009:0062b09_4']	若作是言：	若作是言：	If one says:
+['ZH_T28_1546_009:0062b09_12']	為我說不殺生法。	為我說不殺生法。	Speak the dharma of not killing living beings for me.
+['ZH_T28_1546_009:0062b09_17']	應作是答：	應作是答：	One should answer like this:
+['ZH_T28_1546_009:0062b10_19']	不殺有三種，從不貪、不恚、不癡生，為說何等？	不殺有三種，從不貪、不恚、不癡生，為說何等？	Not killing has three kinds, arising from non-greed, non-hatred, and non-delusion. Which one do you want me to speak?
+['ZH_T28_1546_009:0062b11_2']	若作是言：	若作是言：	If one says:
+['ZH_T28_1546_009:0062b11_11']	為我說從不貪生者。	為我說從不貪生者。	Speak the one arising from non-greed for me.
+['ZH_T28_1546_009:0062b11_16']	應作是答：	應作是答：	One should answer like this:
+['ZH_T28_1546_009:0062b12_4']	從不貪生有二種：	從不貪生有二種：	That arising from non-greed has two kinds:
+['ZH_T28_1546_009:0062b12_9']	作、無作。	作、無作。	action and non-action.
+['ZH_T28_1546_009:0062b13_3']	若為知義故問，應次第分別顯說。	若為知義故問，應次第分別顯說。	If one asks in order to know the meaning, one should explain and speak in sequence.
+['ZH_T28_1546_009:0062b13_15']	若為觸惱故問者，應答言：	若為觸惱故問者，應答言：	If one asks in order to cause trouble, one should answer:
+['ZH_T28_1546_009:0062b14_4']	法亦眾多，為說何法？	法亦眾多，為說何法？	Dharmas are also numerous, which dharma do you want me to speak?
+['ZH_T28_1546_009:0062b14_9']	不應語言：	不應語言：	One should not say:
+['ZH_T28_1546_009:0062b14_19']	有過去未來乃至不斷。	有過去未來乃至不斷。	There are past, future, up to uninterrupted.
+['ZH_T28_1546_009:0062b15_4']	若作是言：	若作是言：	If one says:
+['ZH_T28_1546_009:0062b15_11']	為我說過去法。	為我說過去法。	Speak the past dharma for me.
+['ZH_T28_1546_009:0062b15_16']	應作是答：	應作是答：	You should answer like this:
+['ZH_T28_1546_009:0062b16_3']	過去法亦眾多。	過去法亦眾多。	Past dharmas are also numerous.
+['ZH_T28_1546_009:0062b16_14']	不應說善、不善、無記。	不應說善、不善、無記。	You should not speak of wholesome, unwholesome, or indeterminate.
+['ZH_T28_1546_009:0062b16_19']	若作是言：	若作是言：	If you say:
+['ZH_T28_1546_009:0062b17_3']	為我說善法。	為我說善法。	Speak the wholesome dharmas for me.
+['ZH_T28_1546_009:0062b17_8']	應作是答：	應作是答：	You should answer like this:
+['ZH_T28_1546_009:0062b17_14']	善法亦眾多。	善法亦眾多。	Wholesome dharmas are also numerous.
+['ZH_T28_1546_009:0062b18_2']	不應說色乃至識。	不應說色乃至識。	You should not speak of form up to consciousness.
+['ZH_T28_1546_009:0062b18_7']	若作是言：	若作是言：	If you say:
+['ZH_T28_1546_009:0062b18_12']	為我說色。	為我說色。	Speak the form for me.
+['ZH_T28_1546_009:0062b18_17']	應作是答：	應作是答：	You should answer like this:
+['ZH_T28_1546_009:0062b19_1']	色亦眾多。	色亦眾多。	Form is also numerous.
+['ZH_T28_1546_009:0062b19_13']	不應說不殺生乃至不綺語。	不應說不殺生乃至不綺語。	You should not speak of not killing up to not engaging in frivolous speech.
+['ZH_T28_1546_009:0062b19_18']	若作是言：	若作是言：	If you say:
+['ZH_T28_1546_009:0062b20_5']	為我說不殺生。	為我說不殺生。	Speak the not killing for me.
+['ZH_T28_1546_009:0062b20_10']	應作是答：	應作是答：	You should answer like this:
+['ZH_T28_1546_009:0062b20_17']	不殺生亦眾多。	不殺生亦眾多。	Not killing is also numerous.
+['ZH_T28_1546_009:0062b21_11']	不應說從無貪、無恚、無癡生。	不應說從無貪、無恚、無癡生。	You should not speak of arising from non-greed, non-hatred, and non-delusion.
+['ZH_T28_1546_009:0062b21_16']	若作是言：	若作是言：	If you say:
+['ZH_T28_1546_009:0062b22_4']	為我說從不貪生者。	為我說從不貪生者。	Speak the one arising from non-greed for me.
+['ZH_T28_1546_009:0062b22_9']	應作是答：	應作是答：	You should answer like this:
+['ZH_T28_1546_009:0062b22_17']	從無貪生亦眾多。	從無貪生亦眾多。	Arising from non-greed is also numerous.
+['ZH_T28_1546_009:0062b23_5']	不應說作、無作。	不應說作、無作。	You should not speak of action and non-action.
+['ZH_T28_1546_009:0062b24_8']	如是為觸惱問者，應作如是答，乃至問盡，或時自答。	如是為觸惱問者，應作如是答，乃至問盡，或時自答。	If one is asked in this way to trouble oneself, one should answer in this way until the question is exhausted, or sometimes answer oneself.
+['ZH_T28_1546_009:0062b27_13']	如是有求善義故問、有試他覺意深淺故問、或有求義故問、或有輕他故問、或有質直故問、或有諂曲故問、或有情性軟弱故問、或有自恃智故問。	如是有求善義故問、有試他覺意深淺故問、或有求義故問、或有輕他故問、或有質直故問、或有諂曲故問、或有情性軟弱故問、或有自恃智故問。	There are those who ask because they seek good meaning, there are those who ask because they test others' understanding, there are those who ask because they seek meaning, there are those who ask because they despise others, there are those who ask because they are straightforward, there are those who ask because they are deceitful, there are those who ask because their nature is weak, and there are those who ask because they rely on their own wisdom.
+['ZH_T28_1546_009:0062b28_4']	如軟弱問者，應分別答。	如軟弱問者，應分別答。	If one is asked by a weak person, one should answer by distinguishing.
+['ZH_T28_1546_009:0062b29_6']	若自恃智問者，應反問答，乃至問盡，或時自答。	若自恃智問者，應反問答，乃至問盡，或時自答。	If one is asked by someone who relies on their own wisdom, one should answer by asking in return until the question is exhausted, or sometimes answer oneself.
+['ZH_T28_1546_009:0062b29_12']	云何置答論？	云何置答論？	What is a debate with a set answer?
+['ZH_T28_1546_009:0062b29_15']	答曰：	答曰：	The answer is:
+['ZH_T28_1546_009:0062c01_9']	如諸外道詣世尊所，作如是問：	如諸外道詣世尊所，作如是問：	As the non-Buddhists went to the World-Honored One and asked in this way:
+['ZH_T28_1546_009:0062c01_14']	沙門瞿曇！	沙門瞿曇！	Shakyamuni Gautama!
+['ZH_T28_1546_009:0062c02_1']	世界是常、無常？	世界是常、無常？	Is the world permanent or impermanent?
+['ZH_T28_1546_009:0062c02_4']	佛言：	佛言：	The Buddha said:
+['ZH_T28_1546_009:0062c02_9']	是不應答。	是不應答。	This is not to be answered.
+['ZH_T28_1546_009:0062c02_12']	問曰：	問曰：	The question is:
+['ZH_T28_1546_009:0062c03_4']	何故問世界常無常，佛不答耶？	何故問世界常無常，佛不答耶？	Why did the Buddha not answer the question about the world being permanent or impermanent?
+['ZH_T28_1546_009:0062c03_7']	答曰：	答曰：	The answer is:
+['ZH_T28_1546_009:0062c04_14']	諸外道以人是常，往詣佛所作如是問，人為是常、是無常耶？	諸外道以人是常，往詣佛所作如是問，人為是常、是無常耶？	The non-Buddhists thought that the person is permanent, so they went to the Buddha and asked, Is the person permanent or impermanent?
+['ZH_T28_1546_009:0062c04_19']	佛作是念：	佛作是念：	The Buddha thought:
+['ZH_T28_1546_009:0062c05_3']	畢竟無人。	畢竟無人。	In the end, there is no person.
+['ZH_T28_1546_009:0062c05_15']	若答言無人，彼當作是言：	若答言無人，彼當作是言：	If I answer that there is no person, they will say:
+['ZH_T28_1546_009:0062c06_2']	我不問有無。	我不問有無。	I did not ask about existence or non-existence.
+['ZH_T28_1546_009:0062c06_13']	若答言斷常，畢竟無人。	若答言斷常，畢竟無人。	If I answer with permanence or annihilation, in the end there is no person.
+['ZH_T28_1546_009:0062c06_18']	有何斷常？	有何斷常？	What permanence or annihilation is there?
+['ZH_T28_1546_009:0062c07_3']	如人問他言：	如人問他言：	It is like a person asking another:
+['ZH_T28_1546_009:0062c07_7']	善男子！	善男子！	Good man!
+['ZH_T28_1546_009:0062c07_17']	石女兒為恭敬孝順不？	石女兒為恭敬孝順不？	Is the daughter of a stone woman respectful and filial?
+['ZH_T28_1546_009:0062c08_2']	彼作是念：	彼作是念：	They think:
+['ZH_T28_1546_009:0062c08_7']	石女無兒。	石女無兒。	A stone woman has no child.
+['ZH_T28_1546_009:0062c09_2']	若我答言石女無兒，彼當作是語：	若我答言石女無兒，彼當作是語：	If I answer that a stone woman has no child, they will say:
+['ZH_T28_1546_009:0062c09_8']	我不問有無。	我不問有無。	I did not ask about existence or non-existence.
+['ZH_T28_1546_009:0062c10_10']	若當答言恭敬孝順者，石女無兒，有何恭敬孝順？	若當答言恭敬孝順者，石女無兒，有何恭敬孝順？	If I answer that she is respectful and filial, a stone woman has no child, so how can she be respectful and filial?
+['ZH_T28_1546_009:0062c10_15']	彼亦如是。	彼亦如是。	They are also like this.
+['ZH_T28_1546_009:0062c11_15']	此問論非是真實，以是非有非實，故佛不答。	此問論非是真實，以是非有非實，故佛不答。	This question is not about reality, because it is neither existent nor real, so the Buddha did not answer.
+['ZH_T28_1546_009:0062c13_20']	如是有常無常，亦常無常、非有常非無常、世界有邊無邊、亦有邊無邊、非有邊非無邊，當知亦如是。	如是有常無常，亦常無常、非有常非無常、世界有邊無邊、亦有邊無邊、非有邊非無邊，當知亦如是。	Thus, [the views of] permanence and impermanence, both permanence and impermanence, neither permanence nor impermanence, the world having an end or not having an end, both having an end and not having an end, and neither having an end nor not having an end, should be understood in the same way.
+['ZH_T28_1546_009:0062c14_4']	復作是問：	復作是問：	He further asked:
+['ZH_T28_1546_009:0062c14_9']	沙門瞿曇！	沙門瞿曇！	Shamen Gautama!
+['ZH_T28_1546_009:0062c14_14']	神即身耶？	神即身耶？	Is the spirit the same as the body?
+['ZH_T28_1546_009:0062c14_17']	佛言：	佛言：	The Buddha said:
+['ZH_T28_1546_009:0062c15_1']	是不應答。	是不應答。	This is not a question to be answered.
+['ZH_T28_1546_009:0062c15_4']	問曰：	問曰：	The question said:
+['ZH_T28_1546_009:0062c15_12']	何故佛不答此問？	何故佛不答此問？	Why did the Buddha not answer this question?
+['ZH_T28_1546_009:0062c15_15']	答曰：	答曰：	The answer said:
+['ZH_T28_1546_009:0062c16_11']	諸外道以身是神，往詣佛所作如是問：	諸外道以身是神，往詣佛所作如是問：	The non-Buddhists took the body to be the spirit, went to where the Buddha was, and asked this question:
+['ZH_T28_1546_009:0062c16_16']	沙門瞿曇！	沙門瞿曇！	Shamen Gautama!
+['ZH_T28_1546_009:0062c17_6']	是身即神，乃至廣說。	是身即神，乃至廣說。	This body is the spirit, and so on, speaking in detail.
+['ZH_T28_1546_009:0062c17_11']	佛作是念：	佛作是念：	The Buddha thought like this:
+['ZH_T28_1546_009:0062c17_16']	有身無神。	有身無神。	There is a body but no spirit.
+['ZH_T28_1546_009:0062c18_10']	若我答言有身無神，彼當作是言：	若我答言有身無神，彼當作是言：	If I answer that there is a body but no spirit, they will say this:
+['ZH_T28_1546_009:0062c18_16']	我不問有無。	我不問有無。	I did not ask about existence or non-existence.
+['ZH_T28_1546_009:0062c19_17']	若當答言神異於身，畢竟無神，云何是身是異？	若當答言神異於身，畢竟無神，云何是身是異？	If I were to answer that the spirit is different from the body, there is definitely no spirit, so how can it be the body or different from it?
+['ZH_T28_1546_009:0062c20_8']	如人問他言，善男子！	如人問他言，善男子！	It is like a person asking another, Good man!
+['ZH_T28_1546_009:0062c20_20']	兔角、牛角，為等相似耶？	兔角、牛角，為等相似耶？	Are the horns of a rabbit and the horns of an ox equal and similar?
+['ZH_T28_1546_009:0062c21_5']	彼人作如是念：	彼人作如是念：	That person thinks like this:
+['ZH_T28_1546_009:0062c21_13']	兔無角，牛有角。	兔無角，牛有角。	Rabbits have no horns, but oxen have horns.
+['ZH_T28_1546_009:0062c22_11']	若我答言兔無角、牛有角，彼當作是言：	若我答言兔無角、牛有角，彼當作是言：	If I answer that rabbits have no horns and oxen have horns, they will say:
+['ZH_T28_1546_009:0062c22_17']	我不問有無。	我不問有無。	I did not ask about existence or non-existence.
+['ZH_T28_1546_009:0062c23_14']	若言等相似，兔無有角，云何言等相似。	若言等相似，兔無有角，云何言等相似。	If you say they are equal and similar, rabbits have no horns, so how can you say they are equal and similar?
+['ZH_T28_1546_009:0062c24_11']	彼亦如是，是問論是有是無、是虛是實。	彼亦如是，是問論是有是無、是虛是實。	It is the same with this question. Is this discourse existent or non-existent, true or false?
+['ZH_T28_1546_009:0062c25_11']	以是問論是有是無、是虛是實，故佛不答。	以是問論是有是無、是虛是實，故佛不答。	Because this question discourse is existent or non-existent, true or false, the Buddha did not answer.
+['ZH_T28_1546_009:0062c25_21']	身異神異，亦復如是。	身異神異，亦復如是。	The body is different from the spirit, it is also like this.
+['ZH_T28_1546_009:0062c26_4']	復作是問：	復作是問：	He also asked like this:
+['ZH_T28_1546_009:0062c26_9']	沙門瞿曇！	沙門瞿曇！	Shamen Gautama!
+['ZH_T28_1546_009:0062c26_18']	如來死後為斷為常？	如來死後為斷為常？	After the Tathagata's death, is he cut off or eternal?
+['ZH_T28_1546_009:0062c27_5']	乃至廣作四句。	乃至廣作四句。	And so on, extensively making four statements.
+['ZH_T28_1546_009:0062c27_8']	佛言：	佛言：	The Buddha said:
+['ZH_T28_1546_009:0062c27_13']	是不應答。	是不應答。	This is not to be answered.
+['ZH_T28_1546_009:0062c27_16']	問曰：	問曰：	The question says:
+['ZH_T28_1546_009:0062c28_2']	何故佛不答耶？	何故佛不答耶？	Why did the Buddha not answer?
+['ZH_T28_1546_009:0062c28_5']	答曰：	答曰：	The answer says:
+['ZH_T28_1546_009:0062c29_4']	諸外道以神本無今有，往詣佛所作如是問：	諸外道以神本無今有，往詣佛所作如是問：	The non-Buddhists, taking the self as originally non-existent but now existent, went to the Buddha and asked this question:
+['ZH_T28_1546_009:0062c29_9']	沙門瞿曇！	沙門瞿曇！	Shakyamuni!
+['ZH_T28_1546_009:0063a01_7']	如此神本無今有已有，為是常、為是斷？	如此神本無今有已有，為是常、為是斷？	Is this self originally non-existent but now existent, and then either permanent or annihilated?
+['ZH_T28_1546_009:0063a01_12']	佛作是念：	佛作是念：	The Buddha thought:
+['ZH_T28_1546_009:0063a02_18']	畢竟無神，云何本無今有已有、若斷若常，是問論非有非實。	畢竟無神，云何本無今有已有、若斷若常，是問論非有非實。	The self is ultimately non-existent, so how can it be originally non-existent but now existent, and then either annihilated or permanent? This question is neither existent nor real.
+['ZH_T28_1546_009:0063a03_13']	以是問論非有非實，故佛不答。	以是問論非有非實，故佛不答。	Because this question is neither existent nor real, the Buddha did not answer.
+['ZH_T28_1546_009:0063a03_18']	復作是問：	復作是問：	He further asked this question:
+['ZH_T28_1546_009:0063a04_3']	沙門瞿曇！	沙門瞿曇！	Shakyamuni!
+['ZH_T28_1546_009:0063a04_9']	自作自受耶？	自作自受耶？	Is it that one acts and one experiences oneself?
+['ZH_T28_1546_009:0063a04_12']	佛言：	佛言：	The Buddha said:
+['ZH_T28_1546_009:0063a04_17']	是不應答。	是不應答。	This is not to be answered.
+['ZH_T28_1546_009:0063a04_20']	問曰：	問曰：	The question said:
+['ZH_T28_1546_009:0063a05_5']	何故佛不答耶？	何故佛不答耶？	Why did the Buddha not answer?
+['ZH_T28_1546_009:0063a05_8']	答曰：	答曰：	The answer said:
+['ZH_T28_1546_009:0063a06_4']	諸外道以我作我受，世尊常說無我。	諸外道以我作我受，世尊常說無我。	The non-Buddhists take the self to create and experience the self, but the World-Honored One always says there is no self.
+['ZH_T28_1546_009:0063a06_9']	復作是問：	復作是問：	He further asked this question:
+['ZH_T28_1546_009:0063a06_14']	沙門瞿曇！	沙門瞿曇！	Shakyamuni!
+['ZH_T28_1546_009:0063a06_20']	他作他受耶？	他作他受耶？	Is it that others act and others experience?
+['ZH_T28_1546_009:0063a07_2']	佛言：	佛言：	The Buddha said:
+['ZH_T28_1546_009:0063a07_7']	是不應答。	是不應答。	This is not to be answered.
+['ZH_T28_1546_009:0063a07_10']	問曰：	問曰：	The question said:
+['ZH_T28_1546_009:0063a07_17']	何故佛不答耶？	何故佛不答耶？	Why did the Buddha not answer?
+['ZH_T28_1546_009:0063a07_20']	答曰：	答曰：	Answer:
+['ZH_T28_1546_009:0063a08_6']	諸外道作如是說：	諸外道作如是說：	The non-Buddhists say:
+['ZH_T28_1546_009:0063a08_14']	自在天作、我受。	自在天作、我受。	Maheśvara creates, and I experience.
+['ZH_T28_1546_009:0063a09_3']	世尊常說自行果報。	世尊常說自行果報。	The World-Honored One always says that one experiences the fruits of one's own actions.
+['ZH_T28_1546_009:0063a09_8']	復作是問：	復作是問：	He further asked:
+['ZH_T28_1546_009:0063a09_13']	沙門瞿曇！	沙門瞿曇！	Shakyamuni!
+['ZH_T28_1546_009:0063a09_19']	無作無受耶？	無作無受耶？	Is there no creation and no experience?
+['ZH_T28_1546_009:0063a10_1']	佛言：	佛言：	The Buddha said:
+['ZH_T28_1546_009:0063a10_6']	是不應答。	是不應答。	This is not a question that can be answered.
+['ZH_T28_1546_009:0063a10_9']	問曰：	問曰：	The question is asked:
+['ZH_T28_1546_009:0063a10_16']	何故佛不答耶？	何故佛不答耶？	Why did the Buddha not answer?
+['ZH_T28_1546_009:0063a10_19']	答曰：	答曰：	The answer is:
+['ZH_T28_1546_009:0063a11_5']	諸外道作如是說：	諸外道作如是說：	The non-Buddhists say:
+['ZH_T28_1546_009:0063a11_12']	苦樂不從因生。	苦樂不從因生。	Suffering and happiness do not arise from causes.
+['ZH_T28_1546_009:0063a12_1']	佛常說有因有緣。	佛常說有因有緣。	The Buddha always says there are causes and conditions.
+['ZH_T28_1546_009:0063a12_4']	問曰：	問曰：	The question is asked:
+['ZH_T28_1546_009:0063a13_8']	如前三答與答法相應，此云何名答論，乃至不論一句？	如前三答與答法相應，此云何名答論，乃至不論一句？	The previous three answers correspond to the method of answering. How is this called answering the debate, up to not discussing a single sentence?
+['ZH_T28_1546_009:0063a13_11']	答曰：	答曰：	The answer is:
+['ZH_T28_1546_009:0063a14_3']	雖無所說，此是根本答論。	雖無所說，此是根本答論。	Although there is nothing to say, this is the fundamental answer to the debate.
+['ZH_T28_1546_009:0063a14_8']	所以者何？	所以者何？	Why is it so?
+['ZH_T28_1546_009:0063a14_14']	與答理相應。	與答理相應。	Because it corresponds to the principle of the answer.
+['ZH_T28_1546_009:0063a15_6']	乃至不說一句，於理善通。	乃至不說一句，於理善通。	Up to not speaking a single sentence, it is well understood in principle.
+['ZH_T28_1546_009:0063a16_4']	或有默然於理得勝，況有所說而不勝耶。	或有默然於理得勝，況有所說而不勝耶。	Sometimes there is silence and one wins in principle, let alone speaking and not winning?
+['ZH_T28_1546_009:0063a17_1']	曾聞有大論師名奢提羅，至罽賓國。	曾聞有大論師名奢提羅，至罽賓國。	I have heard that there was a great logician named Śatānīka who went to the country of Kaśmīra.
+['ZH_T28_1546_009:0063a19_2']	于時佛跡林中有阿羅漢名婆秀羅，具足三明、離三界欲、通達三藏，於內外經論無不究暢。	于時佛跡林中有阿羅漢名婆秀羅，具足三明、離三界欲、通達三藏，於內外經論無不究暢。	At that time, in the Buddha's footprint forest, there was an arhat named Vāṣpa, who was endowed with the three insights, free from the desires of the three realms, and had penetrated the Tripiṭaka, and there was nothing in the internal and external scriptures and treatises that he had not thoroughly mastered.
+['ZH_T28_1546_009:0063a20_1']	時奢提羅聞彼林中有大論師，即詣其所。	時奢提羅聞彼林中有大論師，即詣其所。	When Śatānīka heard that there was a great logician in that forest, he went to him.
+['ZH_T28_1546_009:0063a21_4']	到已，與尊者婆秀羅共相問訊，種種慰勞在一面坐。	到已，與尊者婆秀羅共相問訊，種種慰勞在一面坐。	Having arrived, he exchanged greetings with the Venerable Vāṣpa, and after various kinds of comforting conversation, he sat to one side.
+['ZH_T28_1546_009:0063a21_16']	時奢提羅語尊者婆秀羅言：	時奢提羅語尊者婆秀羅言：	Then Śatānīka said to the Venerable Vāṣpa:
+['ZH_T28_1546_009:0063a22_4']	誰當先立論門？	誰當先立論門？	Who should set forth the logical approach first?
+['ZH_T28_1546_009:0063a22_10']	婆秀羅答曰：	婆秀羅答曰：	Vāṣpa replied:
+['ZH_T28_1546_009:0063a23_1']	我是舊住，應先立論門；	我是舊住，應先立論門；	I am the resident here, so I should set forth the logical approach first;
+['ZH_T28_1546_009:0063a23_15']	然汝遠來，聽汝隨意先立論門。	然汝遠來，聽汝隨意先立論門。	however, since you have come from afar, I will let you set forth the logical approach according to your wishes.
+['ZH_T28_1546_009:0063a24_4']	時奢提羅作如是言：	時奢提羅作如是言：	Then Śatānīka said this:
+['ZH_T28_1546_009:0063a24_11']	一切論有報論。	一切論有報論。	All discussions have retribution.
+['ZH_T28_1546_009:0063a25_6']	時婆秀羅聞是語已，默然而坐。	時婆秀羅聞是語已，默然而坐。	When Vāṣpa heard these words, he sat there in silence.
+['ZH_T28_1546_009:0063a25_19']	時奢提羅諸弟子輩唱如是言：	時奢提羅諸弟子輩唱如是言：	At that time, the disciples of Śaṭhīra shouted, saying:
+['ZH_T28_1546_009:0063a26_8']	沙門釋子今墮負處。	沙門釋子今墮負處。	The Śramaṇa disciples of the Buddha have now fallen into defeat.
+['ZH_T28_1546_009:0063a26_15']	從坐欲起而去。	從坐欲起而去。	They wanted to get up from their seats and leave.
+['ZH_T28_1546_009:0063a27_7']	時尊者婆秀羅作如是言：	時尊者婆秀羅作如是言：	At that time, the Venerable Vṛjiputra said this:
+['ZH_T28_1546_009:0063a28_4']	善去，汝師若是奢提羅者，自知此事。	善去，汝師若是奢提羅者，自知此事。	Go well, if your teacher is Śaṭhīra, he will know this matter himself.
+['ZH_T28_1546_009:0063a29_1']	從彼林中展轉前行，其師作是思惟：	從彼林中展轉前行，其師作是思惟：	They left the forest and continued on their way. The teacher thought to himself:
+['ZH_T28_1546_009:0063a29_11']	沙門釋子何故作是言：	沙門釋子何故作是言：	Why did the Śramaṇa disciples of the Buddha say this:
+['ZH_T28_1546_009:0063b01_6']	汝師若是奢提羅者，自知此事。	汝師若是奢提羅者，自知此事。	'If your teacher is Śaṭhīra, he will know this matter himself.'?
+['ZH_T28_1546_009:0063b01_11']	即便自憶：	即便自憶：	He then remembered by himself:
+['ZH_T28_1546_009:0063b01_16']	我作是言：	我作是言：	I said this:
+['ZH_T28_1546_009:0063b02_1']	一切論有報。	一切論有報。	'All debates have consequences.'
+['ZH_T28_1546_009:0063b02_18']	彼沙門釋子默然不言，便為我論無報。	彼沙門釋子默然不言，便為我論無報。	The Śramaṇa disciples of the Buddha remained silent and did not speak, so my debate has no consequences.
+['ZH_T28_1546_009:0063b03_7']	沙門釋子已為勝我。	沙門釋子已為勝我。	The Śramaṇa disciples of the Buddha have already defeated me.
+['ZH_T28_1546_009:0063b03_17']	即如所念，告諸弟子：	即如所念，告諸弟子：	He then told his disciples as he had thought:
+['ZH_T28_1546_009:0063b04_6']	今我當往還歸謝之。	今我當往還歸謝之。	Now I should go back and apologize to them.
+['ZH_T28_1546_009:0063b04_11']	諸弟子言：	諸弟子言：	The disciples said:
+['ZH_T28_1546_009:0063b05_6']	於大眾中今已得勝，何須復往？	於大眾中今已得勝，何須復往？	You have already won in the great assembly, why do you need to go back again?
+['ZH_T28_1546_009:0063b05_11']	時師復言：	時師復言：	The teacher said again:
+['ZH_T28_1546_009:0063b06_5']	我寧於智者邊負，不於愚者邊勝。	我寧於智者邊負，不於愚者邊勝。	I would rather be defeated by the wise than victorious over the foolish.
+['ZH_T28_1546_009:0063b06_19']	即時還詣婆秀羅所，作如是言：	即時還詣婆秀羅所，作如是言：	He then returned to Vāṣpa and said:
+['ZH_T28_1546_009:0063b07_9']	汝是勝者，我墮負處。	汝是勝者，我墮負處。	You are the victor, I am the defeated.
+['ZH_T28_1546_009:0063b07_19']	汝今是師，我是弟子。	汝今是師，我是弟子。	You are now the teacher, I am the disciple.
+['ZH_T28_1546_009:0063b08_12']	如是默然而能得勝，何況所說。	如是默然而能得勝，何況所說。	Thus, even by remaining silent one can be victorious, how much more so by speaking.
+['ZH_T28_1546_009:0063b09_9']	如佛世尊責諸弟子言：	如佛世尊責諸弟子言：	As the Buddha, the World-Honored One, reprimanded his disciples, saying:
+['ZH_T28_1546_009:0063b09_18']	是癡人，乃至廣說。	是癡人，乃至廣說。	These foolish people... and so on in detail.
+['ZH_T28_1546_009:0063b10_1']	問曰：	問曰：	Question:
+['ZH_T28_1546_009:0063b10_7']	何以作此論？	何以作此論？	Why compose this treatise?
+['ZH_T28_1546_009:0063b10_10']	答曰：	答曰：	Answer:
+['ZH_T28_1546_009:0063b11_13']	佛世尊無相似愛、無相似恚、無相似慢、無相似無明。	佛世尊無相似愛、無相似恚、無相似慢、無相似無明。	The World-Honored Buddha has no comparable love, no comparable hatred, no comparable pride, and no comparable ignorance.
+['ZH_T28_1546_009:0063b12_12']	世尊愛恚已斷、離於憎愛、斷一切諍訟根本。	世尊愛恚已斷、離於憎愛、斷一切諍訟根本。	The World-Honored One has already severed love and hatred, is free from aversion and attachment, and has severed the root of all disputes.
+['ZH_T28_1546_009:0063b14_3']	如諸弟子有煩惱習，如畢陵伽婆蹉有瞋恚習，彼長老罵恒河神言：	如諸弟子有煩惱習，如畢陵伽婆蹉有瞋恚習，彼長老罵恒河神言：	As for the disciples, they have the habit of afflictions. For example, Pilindavatsa had the habit of anger. That elder scolded the goddess of the Ganges, saying:
+['ZH_T28_1546_009:0063b14_8']	小住弊婢。	小住弊婢。	Stay a while, you wretched woman.
+['ZH_T28_1546_009:0063b15_4']	長老阿難則有愛習，以憐諸釋子故。	長老阿難則有愛習，以憐諸釋子故。	The elder Ānanda had the habit of affection, because he pitied the Śākya youths.
+['ZH_T28_1546_009:0063b16_1']	尊者舍利弗有憍慢習，捨隨病藥等。	尊者舍利弗有憍慢習，捨隨病藥等。	The Venerable Śāriputra had the habit of pride, such as abandoning medicine according to the illness, etc.
+['ZH_T28_1546_009:0063b16_12']	如是等習，佛世尊永無。	如是等習，佛世尊永無。	The Buddha, the World-Honored One, is eternally free from such habits.
+['ZH_T28_1546_009:0063b16_17']	所以者何？	所以者何？	Why is it so?
+['ZH_T28_1546_009:0063b17_9']	已離一切諸無巧便煩惱習故。	已離一切諸無巧便煩惱習故。	Because he has already separated from all the habits of afflictions that lack skillful means.
+['ZH_T28_1546_009:0063b18_10']	然佛有巧便相似言、愛相似言者，如說：	然佛有巧便相似言、愛相似言者，如說：	However, the Buddha has skillful means similar words and affectionate similar words, such as saying:
+['ZH_T28_1546_009:0063b18_20']	善來比丘，快能出家。	善來比丘，快能出家。	Welcome, bhikṣus, you are able to go forth.
+['ZH_T28_1546_009:0063b20_1']	瞋恚相似言者，汝是釋種婢子，諸釋是汝大家。	瞋恚相似言者，汝是釋種婢子，諸釋是汝大家。	Words similar to anger, such as You are the slave of the Śākyas, and the Śākyas are your masters.
+['ZH_T28_1546_009:0063b20_19']	慢相似言者，如說我成就十力四無所畏。	慢相似言者，如說我成就十力四無所畏。	Words similar to pride, such as saying I have accomplished the ten powers and four fearlessnesses.
+['ZH_T28_1546_009:0063b21_9']	無明相似言者，如說：	無明相似言者，如說：	Words similar to ignorance, such as saying:
+['ZH_T28_1546_009:0063b21_16']	大王從何處來？	大王從何處來？	Great King, where do you come from?
+['ZH_T28_1546_009:0063b22_1']	如告阿難：	如告阿難：	As he told Ānanda:
+['ZH_T28_1546_009:0063b22_12']	園林外何以有高聲大聲？	園林外何以有高聲大聲？	Why are there loud noises outside the garden?
+['ZH_T28_1546_009:0063b22_15']	問曰：	問曰：	He asked:
+['ZH_T28_1546_009:0063b23_13']	如來以拔習氣根本，何以有如是相似言？	如來以拔習氣根本，何以有如是相似言？	Since the Tathāgata has uprooted the roots of habit energy, why are there such similar words?
+['ZH_T28_1546_009:0063b23_16']	答曰：	答曰：	Answer:
+['ZH_T28_1546_009:0063b24_4']	為守護受化田故。	為守護受化田故。	It is in order to protect and guard the field of those who have accepted the teachings.
+['ZH_T28_1546_009:0063b24_9']	其事云何？	其事云何？	What is the matter?
+['ZH_T28_1546_009:0063b24_19']	此中應廣說破僧因緣。	此中應廣說破僧因緣。	Herein, one should explain in detail the causes and conditions of the schism in the Sangha.
+['ZH_T28_1546_009:0063b25_4']	所以者何？	所以者何？	Why is it so?
+['ZH_T28_1546_009:0063b25_14']	即是此經根本因緣故。	即是此經根本因緣故。	Because this is the fundamental cause and condition of this sutra.
+['ZH_T28_1546_009:0063b27_10']	諸比丘為提婆達多所壞，尊者舍利弗化使還來，彼諸比丘生大慚愧兼有疑心：	諸比丘為提婆達多所壞，尊者舍利弗化使還來，彼諸比丘生大慚愧兼有疑心：	The bhikshus were destroyed by Devadatta, and Venerable Shariputra transformed them to return. Those bhikshus gave rise to great shame and also had doubts:
+['ZH_T28_1546_009:0063b28_10']	我等親近提婆達多，所受禁戒將不失耶？	我等親近提婆達多，所受禁戒將不失耶？	We have been close to Devadatta, will the precepts we have received not be lost?
+['ZH_T28_1546_009:0063b28_19']	以慚愧心往詣佛所。	以慚愧心往詣佛所。	With a mind of shame and remorse, they went to where the Buddha was.
+['ZH_T28_1546_009:0063b29_13']	爾時世尊以親愛軟語而告之言：	爾時世尊以親愛軟語而告之言：	At that time, the World-Honored One used affectionate and gentle words to tell them:
+['ZH_T28_1546_009:0063c01_4']	善來比丘，快能出家。	善來比丘，快能出家。	Welcome, bhikshus, you are able to go forth.
+['ZH_T28_1546_009:0063c02_5']	說是語時，彼諸比丘皆得除去慚愧及其疑心。	說是語時，彼諸比丘皆得除去慚愧及其疑心。	When these words were spoken, those bhikshus all got rid of their shame and remorse, as well as their doubts.
+['ZH_T28_1546_009:0063c03_4']	所以罵菴婆吒言婢子者，欲破其憍慢心。	所以罵菴婆吒言婢子者，欲破其憍慢心。	The reason for scolding Ambattha as a slave's son is to break his arrogant mind.
+['ZH_T28_1546_009:0063c04_5']	以破憍慢心故，次第二身得生天上見於聖諦。	以破憍慢心故，次第二身得生天上見於聖諦。	Because he broke his arrogant mind, in his second life he was reborn in the heavens and saw the truth of the sages.
+['ZH_T28_1546_009:0063c05_12']	所以說我成就十力四無所畏者，不知佛功德者欲令知故。	所以說我成就十力四無所畏者，不知佛功德者欲令知故。	The reason why it is said that I have accomplished the ten powers and four fearlessnesses is in order to make those who do not know the Buddha's merits understand them.
+['ZH_T28_1546_009:0063c06_13']	所以言大王從何處來者，欲生談論次第法故。	所以言大王從何處來者，欲生談論次第法故。	The reason why it is said, Great King, where do you come from? is in order to give rise to a sequence of discussions on the Dharma.
+['ZH_T28_1546_009:0063c08_1']	所以問園林外有高聲大聲者，欲令阿難生閑靜親近心故。	所以問園林外有高聲大聲者，欲令阿難生閑靜親近心故。	The reason why it is asked, Are there loud noises outside the garden and forest? is in order to make Ānanda give rise to a mind of seclusion and intimacy.
+['ZH_T28_1546_009:0063c08_14']	以如是等眾因緣故而作此論。	以如是等眾因緣故而作此論。	For these and other various causes and conditions, this treatise is composed.
+['ZH_T28_1546_009:0063c09_12']	何故世尊責諸弟子言是癡人？	何故世尊責諸弟子言是癡人？	Why did the World-Honored One reproach his disciples, calling them foolish people?
+['ZH_T28_1546_009:0063c09_17']	此有二義：	此有二義：	This has two meanings:
+['ZH_T28_1546_009:0063c10_3']	一是呵責；	一是呵責；	One is reprimanding;
+['ZH_T28_1546_009:0063c10_9']	二言是癡人。	二言是癡人。	The other is calling them foolish people.
+['ZH_T28_1546_009:0063c11_1']	今欲說癡人義，故作是說。	今欲說癡人義，故作是說。	Now, wishing to explain the meaning of foolish people, this is said.
+['ZH_T28_1546_009:0063c11_7']	云何名癡人？	云何名癡人？	What is meant by foolish people?
+['ZH_T28_1546_009:0063c11_10']	答曰：	答曰：	The answer is:
+['ZH_T28_1546_009:0063c11_19']	於佛法中生於愚癡。	於佛法中生於愚癡。	Giving rise to foolishness within the Buddha's teachings.
+['ZH_T28_1546_009:0063c12_8']	佛法者，所謂道也。	佛法者，所謂道也。	The Buddha's teachings refer to the path.
+['ZH_T28_1546_009:0063c12_11']	問曰：	問曰：	The question is:
+['ZH_T28_1546_009:0063c12_20']	云何於道生愚癡耶？	云何於道生愚癡耶？	How does one give rise to foolishness regarding the path?
+['ZH_T28_1546_009:0063c13_2']	答曰：	答曰：	The answer is:
+['ZH_T28_1546_009:0063c13_18']	不能令道愚癡，但於自身增長愚癡。	不能令道愚癡，但於自身增長愚癡。	One does not cause foolishness in the path, but only increases foolishness in one's own body.
+['ZH_T28_1546_009:0063c14_10']	復有說者，亦能令道愚癡。	復有說者，亦能令道愚癡。	There are also those who say that it can also cause delusion in the path.
+['ZH_T28_1546_009:0063c14_15']	所以者何？	所以者何？	Why is it so?
+['ZH_T28_1546_009:0063c15_8']	以道遠離故、道不得自在故。	以道遠離故、道不得自在故。	Because the path is far removed and the path cannot attain mastery.
+['ZH_T28_1546_009:0063c16_19']	復有說者，佛說斷愚癡法，是人於此法不斷愚癡、反增愚癡，故作是說。	復有說者，佛說斷愚癡法，是人於此法不斷愚癡、反增愚癡，故作是說。	There are also those who say that the Buddha speaks of the Dharma for cutting off delusion, but this person does not cut off delusion in this Dharma but on the contrary increases delusion, thus speaking like this.
+['ZH_T28_1546_009:0063c18_6']	於佛法中生於愚癡、無生分別者，令佛功用方便無有果實。	於佛法中生於愚癡、無生分別者，令佛功用方便無有果實。	As for giving rise to delusion and the discrimination of non-arising in the Buddha's teachings, it causes the Buddha's skillful means and efforts to be fruitless.
+['ZH_T28_1546_009:0063c18_11']	其事云何？	其事云何？	What is the matter?
+['ZH_T28_1546_009:0063c19_2']	如婦人不產，名無產分。	如婦人不產，名無產分。	It is like a woman who cannot give birth being called one with obstructed delivery.
+['ZH_T28_1546_009:0063c20_7']	如是聞佛所說，不受聖道胎者，是人於佛法中名無產分。	如是聞佛所說，不受聖道胎者，是人於佛法中名無產分。	In the same way, those who hear the Buddha's teachings but do not accept the embryo of the holy path are called those with obstructed delivery in the Buddha's teachings.
+['ZH_T28_1546_009:0063c21_10']	無果者，無依果解脫果。	無果者，無依果解脫果。	As for having no fruit, it means having no dependent fruit and liberation fruit.
+['ZH_T28_1546_009:0063c22_3']	無得者，於佛法中無所得故。	無得者，於佛法中無所得故。	As for having no attainment, it is because there is nothing to attain in the Buddha's teachings.
+['ZH_T28_1546_009:0063c23_8']	無味者，不得出離味、閑靜味、道品味、寂滅味，故言無味。	無味者，不得出離味、閑靜味、道品味、寂滅味，故言無味。	As for having no flavor, it is because one does not attain the flavor of liberation, the flavor of tranquility, the flavor of the factors of the path, and the flavor of quiescence, thus it is said to have no flavor.
+['ZH_T28_1546_009:0063c23_18']	無利者，無善果利故。	無利者，無善果利故。	No benefit means no good results or benefits.
+['ZH_T28_1546_009:0063c25_2']	譬如良醫，四方懃求種種藥草以與病人，為除病故。	譬如良醫，四方懃求種種藥草以與病人，為除病故。	It is like a good doctor who diligently seeks various medicinal herbs from all directions to give to the sick in order to cure their illnesses.
+['ZH_T28_1546_009:0063c26_1']	而彼病人反以藥草棄糞掃中，生二過患：	而彼病人反以藥草棄糞掃中，生二過患：	But if the sick people were to discard the medicinal herbs in the trash, they would create two faults:
+['ZH_T28_1546_009:0063c26_8']	一、自病不愈；	一、自病不愈；	First, their own illnesses would not be cured;
+['ZH_T28_1546_009:0063c26_15']	二、唐捐醫功。	二、唐捐醫功。	Second, they would waste the doctor's efforts.
+['ZH_T28_1546_009:0063c28_7']	如是諸佛世尊作百千萬種種苦行，懃求無漏聖道之藥，為受化者而解說之。	如是諸佛世尊作百千萬種種苦行，懃求無漏聖道之藥，為受化者而解說之。	In the same way, the Buddhas, the World-Honored Ones, undergo hundreds of thousands of hardships, diligently seeking the medicine of the holy path free from outflows, and explain it to those who are receptive to the teachings.
+['ZH_T28_1546_009:0063c29_2']	而聞法者不能修行，生二過患：	而聞法者不能修行，生二過患：	But those who hear the Dharma are unable to practice it, creating two faults:
+['ZH_T28_1546_009:0063c29_13']	一、不能自愈諸煩惱病；	一、不能自愈諸煩惱病；	First, they are unable to cure their own afflictions;
+['ZH_T28_1546_009:0064a01_3']	二、唐捐諸佛所行功報。	二、唐捐諸佛所行功報。	Second, they waste the merit and virtue of the Buddhas' practice.
+['ZH_T28_1546_009:0064a02_4']	復次生愚癡者，能令自身為非器故，名生愚癡。	復次生愚癡者，能令自身為非器故，名生愚癡。	Furthermore, giving rise to delusion means making oneself unfit, and thus it is called giving rise to delusion.
+['ZH_T28_1546_009:0064a02_20']	復有說者，斷佛期心故，名生愚癡。	復有說者，斷佛期心故，名生愚癡。	There are also those who say that cutting off the Buddha's aspirations is called giving rise to delusion.
+['ZH_T28_1546_009:0064a03_13']	佛期心者，欲令眾生解脫諸苦。	佛期心者，欲令眾生解脫諸苦。	The Buddha's aspirations are to enable sentient beings to be liberated from all suffering.
+['ZH_T28_1546_009:0064a04_10']	彼不能修離苦方便，故言斷佛期心。	彼不能修離苦方便，故言斷佛期心。	Because they are unable to cultivate the means of liberation from suffering, it is said that they cut off the Buddha's aspirations.
+['ZH_T28_1546_009:0064a05_4']	復有說者，斷於佛法令不相續。	復有說者，斷於佛法令不相續。	Furthermore, some say that they cut off the Buddha's teachings, preventing them from continuing.
+['ZH_T28_1546_009:0064a06_15']	若彼人身修正行，亦令他人修於正行，如是轉轉令多眾生修於正行。	若彼人身修正行，亦令他人修於正行，如是轉轉令多眾生修於正行。	If those people cultivate correct practices themselves, they will also cause others to cultivate correct practices, thus causing more and more sentient beings to cultivate correct practices.
+['ZH_T28_1546_009:0064a08_9']	若自身不能修於正行，亦令他人不修正行，如是轉轉令多眾生不修正行。	若自身不能修於正行，亦令他人不修正行，如是轉轉令多眾生不修正行。	If they themselves are unable to cultivate correct practices, they will also cause others to not cultivate correct practices, thus causing more and more sentient beings to not cultivate correct practices.
+['ZH_T28_1546_009:0064a09_7']	如是之人，不能利益一身，何況多人。	如是之人，不能利益一身，何況多人。	Such people cannot benefit even one person, let alone many people.
+['ZH_T28_1546_009:0064a10_7']	復有說者，本出家所為，而不能得，名生愚癡。	復有說者，本出家所為，而不能得，名生愚癡。	Furthermore, some say that the purpose of originally going forth is not attained, which is called giving rise to foolishness.
+['ZH_T28_1546_009:0064a11_4']	復次於佛法中不如義次行，言是癡人。	復次於佛法中不如義次行，言是癡人。	Moreover, in the Buddha's teachings, not practicing in accordance with the meaning is called foolishness.
+['ZH_T28_1546_009:0064a12_13']	此中以佛語為佛法行者，應如義次行，然復不能行，故言癡人。	此中以佛語為佛法行者，應如義次行，然復不能行，故言癡人。	Here, those who take the Buddha's words as the practice of the Buddha's teachings should practice in accordance with the meaning, but they are still unable to practice, so they are called foolish people.
+['ZH_T28_1546_009:0064a13_8']	復有說者，如所應行，名如義次行。	復有說者，如所應行，名如義次行。	Furthermore, some say that practicing as one should is called practicing in accordance with the meaning.
+['ZH_T28_1546_009:0064a14_6', 'ZH_T28_1546_009:0064a15_2']	彼於佛法中不如所應行，名不如義次行。🔽不隨順者，於佛法中不如法隨順。	彼於佛法中不如所應行，名不如義次行。 不隨順者，於佛法中不如法隨順。	They do not practice in accordance with the Buddha's teachings, so it is called not in accordance with the meaning and sequence of practice.🔽Not in accordance with means not following the Buddha's teachings in the proper way.
+['ZH_T28_1546_009:0064a15_18']	不次第行者，於佛法中不作相續行。	不次第行者，於佛法中不作相續行。	Not in the proper sequence means not practicing continuously in the Buddha's teachings.
+['ZH_T28_1546_009:0064a16_9']	犯眾過惡者，犯於佛法。	犯眾過惡者，犯於佛法。	Committing many offenses means violating the Buddha's teachings.
+['ZH_T28_1546_009:0064a17_4']	不如法行者，不行次法，謂聖道也。	不如法行者，不行次法，謂聖道也。	Not practicing in accordance with the Dharma means not practicing the subsequent Dharma, namely the noble path.
+['ZH_T28_1546_009:0064a18_5']	復有說者，不如義語次行者，不於一切時能行。	復有說者，不如義語次行者，不於一切時能行。	There are also those who say: Not in accordance with the meaning and sequence of practice means not being able to practice at all times.
+['ZH_T28_1546_009:0064a19_5']	如婆他利比丘，於三月後乃受不非時食法。	如婆他利比丘，於三月後乃受不非時食法。	Like the bhikṣu Bākula, who only accepted the precept of not eating at improper times after three months.
+['ZH_T28_1546_009:0064a20_11']	復有說者，不如義次行者，此答前說，於佛法中生於愚癡。	復有說者，不如義次行者，此答前說，於佛法中生於愚癡。	There are also those who say: Not in accordance with the meaning and sequence of practice answers the previous statement, giving rise to foolishness in the Buddha's teachings.
+['ZH_T28_1546_009:0064a20_17']	云何生愚癡？	云何生愚癡？	How does one give rise to foolishness?
+['ZH_T28_1546_009:0064a20_20']	答曰：	答曰：	The answer is:
+['ZH_T28_1546_009:0064a22_4']	於佛教戒不如義次行，乃至不如法修行次法亦如是。	於佛教戒不如義次行，乃至不如法修行次法亦如是。	Not practicing in accordance with the meaning and sequence of the precepts in the Buddha's teachings, and so on, up to not practicing the subsequent Dharma in accordance with the Dharma, is also like this.
+['ZH_T28_1546_009:0064a22_14']	以何等故佛責諸弟子？	以何等故佛責諸弟子？	For what reasons does the Buddha reproach his disciples?
+['ZH_T28_1546_009:0064a23_2']	此答先所說義。	此答先所說義。	This answer first explains the meaning of what was said.
+['ZH_T28_1546_009:0064a23_5']	答曰：	答曰：	The answer says:
+['ZH_T28_1546_009:0064a24_15']	諸佛世尊常訓誨語，如今和上阿闍梨向諸弟子以憐愍意言是癡人。	諸佛世尊常訓誨語，如今和上阿闍梨向諸弟子以憐愍意言是癡人。	The Buddhas, the World-Honored Ones, always instruct with words, just as a current teacher or preceptor would speak to disciples with a compassionate mind, saying You foolish person.
+['ZH_T28_1546_009:0064a25_13']	佛亦如是，以憐愍饒益故言是癡人。	佛亦如是，以憐愍饒益故言是癡人。	The Buddha is also like this, speaking out of compassion and benefit, saying You foolish person.
+['ZH_T28_1546_009:0064a26_5']	諸佛世尊常以四事教化：	諸佛世尊常以四事教化：	The Buddhas, the World-Honored Ones, always teach with four things:
+['ZH_T28_1546_009:0064a26_10']	一以歎美；	一以歎美；	First, with praise;
+['ZH_T28_1546_009:0064a26_15']	二以呵責；	二以呵責；	Second, with reprimand;
+['ZH_T28_1546_009:0064a26_20']	三以因他；	三以因他；	Third, through others;
+['ZH_T28_1546_009:0064a27_4']	四以放捨。	四以放捨。	Fourth, with abandonment.
+['ZH_T28_1546_009:0064a27_15']	歎美者，如歎美億耳等：	歎美者，如歎美億耳等：	Praise is like praising Karṇī and others:
+['ZH_T28_1546_009:0064a27_20']	善哉善哉！	善哉善哉！	Excellent, excellent!
+['ZH_T28_1546_009:0064a28_13']	比丘能以清妙之音聲唄頌經法。	比丘能以清妙之音聲唄頌經法。	Bhikṣus are able to chant the scriptures with a clear and wonderful voice.
+['ZH_T28_1546_009:0064a29_6']	呵責者，如呵責優陀耶等。	呵責者，如呵責優陀耶等。	Reprimand is like reprimanding Udāyin and others.
+['ZH_T28_1546_009:0064b01_11', 'ZH_T28_1546_009:0064b02_9']	因他者，如轉法輪時為五比丘說法，令八萬諸天得道。🔽如頻婆娑羅王迎佛，令八萬人天得道。	因他者，如轉法輪時為五比丘說法，令八萬諸天得道。 如頻婆娑羅王迎佛，令八萬人天得道。	Through others is like when turning the Dharma wheel, teaching the five bhikṣus, causing eighty thousand gods to attain the Way.🔽Like when King Bimbisāra welcomed the Buddha, causing eighty thousand people and gods to attain the Way.
+['ZH_T28_1546_009:0064b03_4']	如帝釋問佛，亦有八萬諸天得道。	如帝釋問佛，亦有八萬諸天得道。	Like when Śakra asked the Buddha, also eighty thousand gods attained the Way.
+['ZH_T28_1546_009:0064b04_14']	放捨者，如犢子性梵志等，諸應以呵責教化者，若不呵責則不受化。	放捨者，如犢子性梵志等，諸應以呵責教化者，若不呵責則不受化。	Abandoning means that for those who should be taught through reprimand, such as the nature-cow-calf Brahmins, if they are not reprimanded, they will not accept the teaching.
+['ZH_T28_1546_009:0064b05_6']	以是故，佛世尊呵責弟子。	以是故，佛世尊呵責弟子。	Therefore, the World-Honored Buddha reprimands his disciples.
+['ZH_T28_1546_009:0064b07_18']	如阿闍梨向近住弟子，和上向同住弟子以苦切語而呵責之，而彼和上阿闍梨非是惡心，但以不順法故而呵責之。	如阿闍梨向近住弟子，和上向同住弟子以苦切語而呵責之，而彼和上阿闍梨非是惡心，但以不順法故而呵責之。	Just as a teacher reprimands a disciple who is about to leave the order, or an abbot reprimands a fellow monk with harsh words, that abbot or teacher does not have a malicious mind, but only reprimands them because they are not in accordance with the Dharma.
+['ZH_T28_1546_009:0064b09_4']	如父母見子為非法事，欲擁護故，以苦切言而呵責之。	如父母見子為非法事，欲擁護故，以苦切言而呵責之。	It is like parents seeing their children doing improper things. Wishing to protect them, they reprimand them with harsh words.
+['ZH_T28_1546_009:0064b09_13']	而彼父母無有惡心。	而彼父母無有惡心。	Those parents do not have a malicious mind.
+['ZH_T28_1546_009:0064b11_11']	若當諸子為非法事，而彼父母生苦惱心，欲制諸子為非法事，以苦切語而呵責之。	若當諸子為非法事，而彼父母生苦惱心，欲制諸子為非法事，以苦切語而呵責之。	If their children were to do improper things, those parents would feel distressed and wish to restrain them. They would reprimand them with harsh words for doing improper things.
+['ZH_T28_1546_009:0064b13_13']	佛亦如是，不以惡心，若當應以呵責受化而不呵責，彼人畢竟無有調伏，是故世尊而呵責之。	佛亦如是，不以惡心，若當應以呵責受化而不呵責，彼人畢竟無有調伏，是故世尊而呵責之。	The Buddha is also like this. He does not have an evil mind. If he should scold those who accept his teachings but does not scold them, those people will never be subdued. Therefore, the World-Honored One scolds them.
+['ZH_T28_1546_009:0064b14_14']	復有說者，佛大悲心重，於一切時常作是念：	復有說者，佛大悲心重，於一切時常作是念：	Furthermore, some say, the Buddha's mind of great compassion is heavy. At all times, he always thinks like this:
+['ZH_T28_1546_009:0064b15_5']	以何方便能饒益眾生？	以何方便能饒益眾生？	By what skillful means can I benefit sentient beings?
+['ZH_T28_1546_009:0064b16_16']	若如來不呵責提婆達多者，諸餘比丘隨從者眾，復當數數觸嬈世尊。	若如來不呵責提婆達多者，諸餘比丘隨從者眾，復當數數觸嬈世尊。	If the Tathāgata did not scold Devadatta, the many bhikṣus who followed him would repeatedly disturb the World-Honored One.
+['ZH_T28_1546_009:0064b18_4', 'ZH_T28_1546_009:0064b19_8']	若當向無比女，不言如是盛屎尿器，彼女欲心無由得息。🔽若當不罵菴婆羅吒言是婢子者，彼人無由能破憍慢。	若當向無比女，不言如是盛屎尿器，彼女欲心無由得息。 若當不罵菴婆羅吒言是婢子者，彼人無由能破憍慢。	If he did not say to the incomparable woman, You are a vessel full of excrement and urine, that woman's lustful thoughts would never cease.🔽If he did not scold Ambāṣṭha, calling him a slave's son, that person would never be able to break his arrogance.
+['ZH_T28_1546_009:0064b20_10']	若不罵其師弗迦羅婆羅者，亦無由能破憍慢。	若不罵其師弗迦羅婆羅者，亦無由能破憍慢。	If he did not scold his teacher Pūraṇa-kāśyapa, he would also never be able to break his arrogance.
+['ZH_T28_1546_009:0064b21_7']	如是等為增益功德故，亦呵責餘人。	如是等為增益功德故，亦呵責餘人。	In this way, in order to increase his merits, he also scolds other people.🔽Here is the corrected and aligned text:
+['ZH_T28_1546_009:0064b21_18']	復次以二事故呵責餘人：	復次以二事故呵責餘人：	Furthermore, for two reasons one reproaches others:
+['ZH_T28_1546_009:0064b22_14']	一、善根不熟者，以呵責故令善根熟；	一、善根不熟者，以呵責故令善根熟；	First, for those whose wholesome roots are not yet mature, through reproach one causes their wholesome roots to mature;
+['ZH_T28_1546_009:0064b23_18']	二、善根雖熟不作方便，以呵責故令生方便得於道果。	二、善根雖熟不作方便，以呵責故令生方便得於道果。	Second, for those whose wholesome roots are already mature but who do not make skillful means, through reproach one causes them to give rise to skillful means and attain the fruits of the path.
+['ZH_T28_1546_009:0064b24_2']	問曰：	問曰：	Question:
+['ZH_T28_1546_009:0064b24_11']	以何義故言癡人耶？	以何義故言癡人耶？	For what meaning is it said to be a deluded person?
+['ZH_T28_1546_009:0064b25_14']	為以從癡生故言是癡人、為以現行癡故言是癡人？	為以從癡生故言是癡人、為以現行癡故言是癡人？	Is it said to be a deluded person because it arises from delusion, or is it said to be a deluded person because it presently engages in delusion?
+['ZH_T28_1546_009:0064b26_9']	若從癡生者，阿羅漢亦是癡人。	若從癡生者，阿羅漢亦是癡人。	If it is said to be a deluded person because it arises from delusion, then an arhat is also a deluded person.
+['ZH_T28_1546_009:0064b26_13']	何以故？	何以故？	Why is it so?
+['ZH_T28_1546_009:0064b27_2']	阿羅漢身從癡生故。	阿羅漢身從癡生故。	Because the body of an arhat arises from delusion.
+['ZH_T28_1546_009:0064b28_2']	若以現行故言癡人者，唯阿羅漢得言不癡。	若以現行故言癡人者，唯阿羅漢得言不癡。	If it is said to be a deluded person because it presently engages in delusion, then only an arhat can be said to be non-deluded.
+['ZH_T28_1546_009:0064b28_7']	所以者何？	所以者何？	Why is it so?
+['ZH_T28_1546_009:0064b28_16']	阿羅漢不現行癡故。	阿羅漢不現行癡故。	Because an arhat does not presently engage in delusion.
+['ZH_T28_1546_009:0064b29_5']	若然者，此經云何通？	若然者，此經云何通？	If that is so, how can this sutra be understood?
+['ZH_T28_1546_009:0064b29_8']	如說：	如說：	As it is said:
+['ZH_T28_1546_009:0064b29_18', 'ZH_T28_1546_009:0064b29_21']	癡人遠去，莫我前住。🔽評曰：	癡人遠去，莫我前住。 評曰：	A deluded person should go far away and not stay in front of me.🔽The judges say:
+['ZH_T28_1546_009:0064c01_4']	應作是論：	應作是論：	The treatise should be composed as follows:
+['ZH_T28_1546_009:0064c01_14']	現前行癡，名曰癡人。	現前行癡，名曰癡人。	The present activity of delusion is called delusion.
+['ZH_T28_1546_009:0064c01_17']	問曰：	問曰：	Question:
+['ZH_T28_1546_009:0064c02_8']	若然者，唯阿羅漢是不癡人。	若然者，唯阿羅漢是不癡人。	If that is so, only arhats are not deluded people.
+['ZH_T28_1546_009:0064c02_14']	此經云何通？	此經云何通？	How can this sutra be understood?
+['ZH_T28_1546_009:0064c03_1']	乃至廣說。	乃至廣說。	And so on, explaining in detail.
+['ZH_T28_1546_009:0064c03_4']	答曰：	答曰：	Answer:
+['ZH_T28_1546_009:0064c03_11']	此經應如是說：	此經應如是說：	This sutra should be said like this:
+['ZH_T28_1546_009:0064c04_1']	速去比丘，莫我前住。	速去比丘，莫我前住。	Go quickly, bhikṣu, do not stand in front of me.
+['ZH_T28_1546_009:0064c04_18']	曾聞佛般涅槃時，長壽諸天嫌如是事：	曾聞佛般涅槃時，長壽諸天嫌如是事：	Once I heard that when the Buddha was entering parinirvāṇa, the long-lived devas complained about this matter:
+['ZH_T28_1546_009:0064c06_10']	此天德神力比丘，今者何以在我前立，障我等前，使不得見世尊身。	此天德神力比丘，今者何以在我前立，障我等前，使不得見世尊身。	This deva's spiritual power is equal to that of a bhikṣu. Why does he now stand in front of me, blocking my view of the World-Honored One's body?
+['ZH_T28_1546_009:0064c07_2']	此是我等最後見世尊身。	此是我等最後見世尊身。	This is the last time for us to see the World-Honored One's body.
+['ZH_T28_1546_009:0064c07_7']	所以者何？	所以者何？	Why is it so?
+['ZH_T28_1546_009:0064c07_16']	世尊不久當般涅槃。	世尊不久當般涅槃。	The World-Honored One will soon enter parinirvāṇa.
+['ZH_T28_1546_009:0064c08_12']	爾時世尊知諸天心所念，告比丘言：	爾時世尊知諸天心所念，告比丘言：	At that time, the World-Honored One knew what the devas were thinking and told the bhikṣus:
+['ZH_T28_1546_009:0064c08_20']	遠去，莫我前住。	遠去，莫我前住。	Go far away, do not stand in front of me.
+['ZH_T28_1546_009:0064c09_18']	復有說者，先說應以呵責得度者而呵責之。	復有說者，先說應以呵責得度者而呵責之。	There is another explanation: First, it should be said that those who should be liberated by scolding should be scolded.
+['ZH_T28_1546_009:0064c11_1']	若呵責阿羅漢得勝進者，佛亦呵責，言是癡人。	若呵責阿羅漢得勝進者，佛亦呵責，言是癡人。	If one reproaches an arhat who has attained progress, the Buddha also reproaches them, calling them a foolish person.
+['ZH_T28_1546_009:0064c11_4']	問曰：	問曰：	Question:
+['ZH_T28_1546_009:0064c12_11']	人有愛、有恚、有慢、有見、有癡，何以言是癡人，不言是愛等人耶？	人有愛、有恚、有慢、有見、有癡，何以言是癡人，不言是愛等人耶？	People have desire, anger, pride, views, and delusion. Why is it said that they are foolish people, and not that they are people with desire, etc.?
+['ZH_T28_1546_009:0064c12_14']	答曰：	答曰：	Answer:
+['ZH_T28_1546_009:0064c13_2']	以癡遍一切處故。	以癡遍一切處故。	Because delusion pervades everywhere.
+['ZH_T28_1546_009:0064c13_15']	若行彼地癡，即是彼地癡人。	若行彼地癡，即是彼地癡人。	If one practices the delusion of a certain stage, one is a foolish person of that stage.Here is the corrected and aligned text:
+['ZH_T28_1546_009:0064c14_100']	阿毘曇毘婆沙論卷第九	阿毘曇毘婆沙論卷第九	Abhidharma-vibhāṣā-śāstra, fascicle 9

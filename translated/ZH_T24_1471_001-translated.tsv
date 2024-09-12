@@ -1,0 +1,805 @@
+segmentnr	original	analyzed	translated
+['ZH_T24_1471_001:0926b02_0']	沙彌十戒法并威儀一卷	沙彌十戒法并威儀一卷	The Dharma and Etiquette of the Ten Precepts for Novice Monks in One Fascicle
+['ZH_T24_1471_001:0926b04_0']	失譯附東晉錄	失譯附東晉錄	The translator is lost, appended to the Eastern Jin Catalog
+['ZH_T24_1471_001:0926b05_0']	佛語舍利弗：「汝去，度羅睺羅出家。」舍利弗言：	佛語舍利弗：「汝去，度羅睺羅出家。」舍利弗言：	The Buddha said to Śāriputra, Go and ordain Rāhula. Śāriputra said:
+['ZH_T24_1471_001:0926b06_6']	「我當云何度？	「我當云何度？	How should I ordain him?
+['ZH_T24_1471_001:0926b06_11']	」佛教言：	」佛教言：	The Buddha instructed him, saying:
+['ZH_T24_1471_001:0926b07_5']	「我羅睺羅，歸依佛、歸依法、歸依僧。	「我羅睺羅，歸依佛、歸依法、歸依僧。	I, Rāhula, take refuge in the Buddha, take refuge in the Dharma, take refuge in the Saṅgha.
+['ZH_T24_1471_001:0926b08_4']	如是三說我某甲，歸依佛竟、歸依法竟、歸依僧竟。	如是三說我某甲，歸依佛竟、歸依法竟、歸依僧竟。	Thus, I, so-and-so, have taken refuge in the Buddha, have taken refuge in the Dharma, have taken refuge in the Saṅgha.
+['ZH_T24_1471_001:0926b11_2']	如是三說盡形壽不殺生、盡形壽不盜、盡形壽不邪婬、盡形壽不妄語、盡形壽不飲酒，佛婆伽婆出家，我某甲因和上某甲，隨佛出家。	如是三說盡形壽不殺生、盡形壽不盜、盡形壽不邪婬、盡形壽不妄語、盡形壽不飲酒，佛婆伽婆出家，我某甲因和上某甲，隨佛出家。	For as long as I live, I will refrain from killing, for as long as I live, I will refrain from stealing, for as long as I live, I will refrain from sexual misconduct, for as long as I live, I will refrain from false speech, for as long as I live, I will refrain from drinking alcohol. The Buddha, the Bhagavān, has gone forth. I, so-and-so, following my preceptor so-and-so, have gone forth following the Buddha.
+['ZH_T24_1471_001:0926b12_19']	如是三說佛婆伽婆出家，捨俗服著袈裟，我某甲因和上某甲，隨佛出家，捨俗服著袈裟。	如是三說佛婆伽婆出家，捨俗服著袈裟，我某甲因和上某甲，隨佛出家，捨俗服著袈裟。	Thus, I, so-and-so, following my preceptor so-and-so, have gone forth following the Buddha, have abandoned lay clothing and put on the dyed robe.
+['ZH_T24_1471_001:0926b13_12', 'ZH_T24_1471_001:0926b14_3']	「盡形壽不殺生，持沙彌戒。🔽「盡形壽不盜，持沙彌戒。	「盡形壽不殺生，持沙彌戒。 「盡形壽不盜，持沙彌戒。	For the rest of your life, do not kill, uphold the novice precepts.🔽 For the rest of your life, do not steal, uphold the novice precepts.
+['ZH_T24_1471_001:0926b14_15']	「盡形壽不婬，持沙彌戒。	「盡形壽不婬，持沙彌戒。	 For the rest of your life, do not engage in sexual misconduct, uphold the novice precepts.
+['ZH_T24_1471_001:0926b15_7']	「盡形壽不妄語，持沙彌戒。	「盡形壽不妄語，持沙彌戒。	 For the rest of your life, do not lie, uphold the novice precepts.
+['ZH_T24_1471_001:0926b15_20']	「盡形壽不飲酒，持沙彌戒。	「盡形壽不飲酒，持沙彌戒。	 For the rest of your life, do not drink alcohol, uphold the novice precepts.
+['ZH_T24_1471_001:0926b16_18']	「盡形壽不著香華鬘不香塗身，持沙彌戒。	「盡形壽不著香華鬘不香塗身，持沙彌戒。	 For the rest of your life, do not wear flower garlands, perfume, or adorn the body, uphold the novice precepts.
+['ZH_T24_1471_001:0926b17_16']	「盡形壽不歌舞倡妓不往觀聽，持沙彌戒。	「盡形壽不歌舞倡妓不往觀聽，持沙彌戒。	 For the rest of your life, do not sing, dance, play music, or go watch and listen, uphold the novice precepts.
+['ZH_T24_1471_001:0926b18_12']	「盡形壽不坐高廣大床，持沙彌戒。	「盡形壽不坐高廣大床，持沙彌戒。	 For the rest of your life, do not sit on high, wide, and large beds, uphold the novice precepts.
+['ZH_T24_1471_001:0926b19_6']	「盡形壽不非時食，持沙彌戒。	「盡形壽不非時食，持沙彌戒。	 For the rest of your life, do not eat at improper times, uphold the novice precepts.
+['ZH_T24_1471_001:0926b20_4']	「盡形壽不捉持生像金銀寶物，持沙彌戒。	「盡形壽不捉持生像金銀寶物，持沙彌戒。	 For the rest of your life, do not handle gold, silver, or precious objects that resemble them, uphold the novice precepts.
+['ZH_T24_1471_001:0926b21_11']	「汝今已受沙彌十戒竟，當盡形壽頂戴奉持，終身不得犯。	「汝今已受沙彌十戒竟，當盡形壽頂戴奉持，終身不得犯。	 You have now received the ten novice precepts. For the rest of your life, you must uphold them with utmost respect and never violate them.
+['ZH_T24_1471_001:0926b22_13']	應供養三寶，和上阿闍梨一切如法教，不得違逆。	應供養三寶，和上阿闍梨一切如法教，不得違逆。	You should make offerings to the Three Jewels, and to your preceptor and teacher, and not go against any of the Dharma teachings.
+['ZH_T24_1471_001:0926b23_3']	上中下坐，心常恭敬。	上中下坐，心常恭敬。	Whether with superiors, equals, or inferiors, always be respectful.
+['ZH_T24_1471_001:0926b24_9']	勤求方便坐禪、誦經學問、勸助作福，閉三惡道、開涅槃門。	勤求方便坐禪、誦經學問、勸助作福，閉三惡道、開涅槃門。	Strive to find the means to sit in meditation, recite sutras, study, and encourage the making of merit, closing the three evil paths and opening the gate to nirvana.
+['ZH_T24_1471_001:0926b25_4']	於比丘法中增長正業，得四道果。	於比丘法中增長正業，得四道果。	In the Dharma of the monks, increase the right practices and attain the fruits of the four paths.
+['ZH_T24_1471_001:0926b26_2']	「沙彌之戒，盡形壽不得殘殺傷害人物。	「沙彌之戒，盡形壽不得殘殺傷害人物。	The precepts of the novice monk are that for as long as you live, you should not harm or injure people or living beings.
+['ZH_T24_1471_001:0926b27_1']	當念所生及師友恩，精進行道欲度父母。	當念所生及師友恩，精進行道欲度父母。	You should remember the kindness of your parents, teachers, and friends, and diligently practice the path in order to deliver your parents.
+['ZH_T24_1471_001:0926b27_16']	慎無慍訟，推直於人，引曲向己。	慎無慍訟，推直於人，引曲向己。	Be careful not to be angry or litigious, give credit to others, and take the blame upon yourself.
+['ZH_T24_1471_001:0926b28_18']	蠉飛蠕動蚑行之類，無所剋傷，施恩濟乏使其得安。	蠉飛蠕動蚑行之類，無所剋傷，施恩濟乏使其得安。	Do not harm any crawling, flying, or slithering creatures, but bestow kindness and aid those in need, allowing them to find peace.
+['ZH_T24_1471_001:0926c01_3']	心念為人，言無及殺，見殺不食、聞聲不食、疑殺不食。	心念為人，言無及殺，見殺不食、聞聲不食、疑殺不食。	Think of others in your heart, and do not speak of killing. If you see killing, do not eat; if you hear the sound of killing, do not eat; if you suspect killing, do not eat.
+['ZH_T24_1471_001:0926c02_2']	若見殺時，當起慈心，誓吾得道國無殺者。	若見殺時，當起慈心，誓吾得道國無殺者。	When seeing killing, one should give rise to a compassionate mind and vow, 'When I attain the Way, there will be no killing in my country.'
+['ZH_T24_1471_001:0926c02_12']	草木不用，慎無毀傷。	草木不用，慎無毀傷。	Do not use plants and trees, and be careful not to damage them.
+['ZH_T24_1471_001:0926c03_1']	有犯斯戒，非沙彌也。	有犯斯戒，非沙彌也。	If one violates this precept, one is not a novice monk.
+['ZH_T24_1471_001:0926c03_15', 'ZH_T24_1471_001:0926c04_13']	「沙彌之戒，盡形壽不得偷盜。🔽圭合銖兩一無欺人，心存于義口不教取。	「沙彌之戒，盡形壽不得偷盜。 圭合銖兩一無欺人，心存于義口不教取。	The precepts of a novice monk are that for one's whole life one must not steal.🔽Do not deceive others even by a hair's breadth or a grain of rice, keep one's mind in righteousness and do not instruct others to take what is not given.
+['ZH_T24_1471_001:0926c05_16']	販賣僕使奴婢、借賃僮客、或有惠施，一不得取。	販賣僕使奴婢、借賃僮客、或有惠施，一不得取。	Do not buy or sell servants, slaves, or hired workers, or accept gifts from them.
+['ZH_T24_1471_001:0926c06_15']	無服飾珍玩、高床幃帳，衣趣蔽形無以文綵。	無服飾珍玩、高床幃帳，衣趣蔽形無以文綵。	Do not wear luxurious clothes or use high beds or canopies, but dress simply to cover one's body without adornment.
+['ZH_T24_1471_001:0926c07_4']	食趣支命，不得嗜味。	食趣支命，不得嗜味。	Eat just enough to sustain life, and do not indulge in delicacies.
+['ZH_T24_1471_001:0926c08_10']	無得貯畜穀糧、藏積穢寶，人與不受、受則不留轉濟窮乏。	無得貯畜穀糧、藏積穢寶，人與不受、受則不留轉濟窮乏。	Do not store grain or accumulate filthy treasures. Do not accept gifts from others, and if accepted, do not keep them but give them to the poor.
+['ZH_T24_1471_001:0926c09_8']	常為人說不貪之德，寧就斷手不取非財。	常為人說不貪之德，寧就斷手不取非財。	Always teach others the virtue of non-greed, and would rather have one's hand cut off than take what is not given.
+['ZH_T24_1471_001:0926c09_18']	有犯斯戒，非沙彌也。	有犯斯戒，非沙彌也。	If one violates this precept, one is not a novice monk.
+['ZH_T24_1471_001:0926c10_17']	「沙彌之戒，盡形壽不得取婦畜養繼嗣。	「沙彌之戒，盡形壽不得取婦畜養繼嗣。	The precepts of a novice monk are to not take a wife or raise heirs for the duration of one's life.
+['ZH_T24_1471_001:0926c11_11']	防遠女色禁閉六情，莫覩美色。	防遠女色禁閉六情，莫覩美色。	Avoid women, restrain the six senses, and do not look at beautiful colors.
+['ZH_T24_1471_001:0926c12_7']	目不瞻眄、心無念婬、口無言調。	目不瞻眄、心無念婬、口無言調。	Do not gaze with the eyes, do not think of lust in the mind, and do not speak lewd words with the mouth.
+['ZH_T24_1471_001:0926c13_5']	華香脂粉無以近身，好聲邪色一無視聽。	華香脂粉無以近身，好聲邪色一無視聽。	Do not use flowers, incense, grease, or powder to adorn the body, and do not look at or listen to seductive sounds or sights.
+['ZH_T24_1471_001:0926c14_1']	寧破骨碎心焚燒身體，不得為婬。	寧破骨碎心焚燒身體，不得為婬。	Rather than breaking bones, crushing the heart, or burning the body, do not engage in sexual activity.
+['ZH_T24_1471_001:0926c14_16']	雖婬妷而生垢穢，不如貞潔而死。	雖婬妷而生垢穢，不如貞潔而死。	Even if born from lust and impurity, it is not as good as dying chaste.
+['ZH_T24_1471_001:0926c15_7']	有犯斯戒，非沙彌也。	有犯斯戒，非沙彌也。	If one violates this precept, one is not a novice monk.
+['ZH_T24_1471_001:0926c16_15']	「沙彌之戒，盡形壽誠信為本，不得兩舌、惡罵、妄言、綺語。	「沙彌之戒，盡形壽誠信為本，不得兩舌、惡罵、妄言、綺語。	The precepts of a novice monk are to be sincere and faithful for the duration of one's life. Do not engage in slander, abusive language, false speech, or frivolous talk.
+['ZH_T24_1471_001:0926c18_10']	前譽後毀、證人入罪，徐言持政無宣人短，為人說法思合議理，見有諍者兩說和善。	前譽後毀、證人入罪，徐言持政無宣人短，為人說法思合議理，見有諍者兩說和善。	Do not praise in front and slander behind, or use testimony to incriminate others. Speak slowly and hold to the principles, do not expose others' shortcomings. When teaching the Dharma to others, think to harmonize with the principles of discussion. When seeing disputes, speak both sides and reconcile them well.
+['ZH_T24_1471_001:0926c19_8']	夫士處世，斧在口中，所以斬身由其惡言。	夫士處世，斧在口中，所以斬身由其惡言。	When a person is in the world, an axe is in their mouth. The reason for cutting their own body is due to their evil words.
+['ZH_T24_1471_001:0926c19_18']	不慎言者，非沙彌也。	不慎言者，非沙彌也。	Those who are not careful with their words are not novice monks.
+['ZH_T24_1471_001:0926c20_13']	「沙彌之戒，盡形壽不得飲酒。	「沙彌之戒，盡形壽不得飲酒。	The precepts of novice monks state that for one's entire life one should not drink alcohol.
+['ZH_T24_1471_001:0926c22_2']	無得嘗酒、無得嗅酒、亦無粥酒、無以酒飲人、無飲藥酒、無止酒舍。	無得嘗酒、無得嗅酒、亦無粥酒、無以酒飲人、無飲藥酒、無止酒舍。	One should not taste alcohol, smell alcohol, or have alcoholic beverages. One should not give alcohol to others, drink medicinal alcohol, or stay in alcohol shops.
+['ZH_T24_1471_001:0926c23_1']	酒為毒水，眾失之原，殘賢毀聖招致禍殃。	酒為毒水，眾失之原，殘賢毀聖招致禍殃。	Alcohol is poisonous water, the source of many faults, which ruins the wise, destroys the sages, and invites misfortune and disaster.
+['ZH_T24_1471_001:0926c23_15']	四等枯朽去福就罪，靡不由之。	四等枯朽去福就罪，靡不由之。	It withers the four kinds of kindness and leads one away from blessings to wrongdoing.
+['ZH_T24_1471_001:0926c24_6']	寧飲洋銅，慎無犯酒。	寧飲洋銅，慎無犯酒。	One would rather drink molten copper than violate the prohibition against alcohol.
+['ZH_T24_1471_001:0926c24_16']	有犯斯戒，非沙彌也。	有犯斯戒，非沙彌也。	Those who violate this precept are not novice monks.
+['ZH_T24_1471_001:0926c27_8']	「沙彌之戒，盡形壽不得習弄兵仗手執利器、畜養六畜籠繫飛鳥、車輿騎乘快心恣意、馳騁遊獵彈射禽獸。	「沙彌之戒，盡形壽不得習弄兵仗手執利器、畜養六畜籠繫飛鳥、車輿騎乘快心恣意、馳騁遊獵彈射禽獸。	The precepts of novice monks state that for one's entire life one should not play with weapons, hold sharp implements, raise livestock, cage flying birds, ride in carriages and on horseback for pleasure, or go hunting and shooting at animals.
+['ZH_T24_1471_001:0926c29_4']	無得放火焚燒山林傷害眾生、無得破決湖池堰塞派瀆、鉤釣魚網殘害水性。	無得放火焚燒山林傷害眾生、無得破決湖池堰塞派瀆、鉤釣魚網殘害水性。	One should not set fires to burn mountains and forests, harming living beings. One should not break through lakes and ponds, or block canals and ditches. One should not use hooks to fish or nets to harm aquatic creatures.
+['ZH_T24_1471_001:0926c29_14']	有犯斯戒，非沙彌也。	有犯斯戒，非沙彌也。	If one violates this precept, one is no longer a novice monk.
+['ZH_T24_1471_001:0927a03_7']	「沙彌之戒，盡形壽不得習弄碁局摴蒲博塞，諍於勝負弄舞調戲，吟咏歌音手執樂器，琴瑟箜篌箏笛竽笙以亂道意。	「沙彌之戒，盡形壽不得習弄碁局摴蒲博塞，諍於勝負弄舞調戲，吟咏歌音手執樂器，琴瑟箜篌箏笛竽笙以亂道意。	The precepts of a novice monk are that for one's whole life one should not engage in playing chess, checkers, go, or other gambling games, arguing and competing, dancing, joking, reciting poetry, singing, playing musical instruments such as the zither, harp, koto, flute, sheng, or dizi, which disturb the mind of the Way.
+['ZH_T24_1471_001:0927a05_4']	無得墾掘山澤耕犁田畝，修治園圃種殖五穀，船車賈作於市販買，與百姓諍利。	無得墾掘山澤耕犁田畝，修治園圃種殖五穀，船車賈作於市販買，與百姓諍利。	One should not dig up mountains and marshes, plow fields and acres, tend to gardens and orchards, plant the five grains, engage in business with boats and carts, or compete with the people for profit.
+['ZH_T24_1471_001:0927a05_14']	有犯斯戒，非沙彌也。	有犯斯戒，非沙彌也。	If one violates this precept, one is no longer a novice monk.
+['ZH_T24_1471_001:0927a09_8']	「沙彌之戒，盡形壽不得學習奇技巫醫蠱道、時日卜筮占相吉凶、仰觀曆數推步盈虛、日月薄蝕星宿變怪、山崩地動風雨旱澇、歲熟不熟有疫無疫，一不得知。	「沙彌之戒，盡形壽不得學習奇技巫醫蠱道、時日卜筮占相吉凶、仰觀曆數推步盈虛、日月薄蝕星宿變怪、山崩地動風雨旱澇、歲熟不熟有疫無疫，一不得知。	The precepts of a novice monk are that for one's whole life one should not study strange skills, witchcraft, medicine, or sorcery, divination based on time and day, fortune-telling about good and bad omens, observing the calendar to predict prosperity and decline, eclipses of the sun and moon, strange occurrences of the stars, landslides, earthquakes, wind, rain, drought, flood, good harvests, or epidemics, and one should not know anything about them.
+['ZH_T24_1471_001:0927a10_11']	不得論說，國家政事平量優劣、出軍行師攻伐勝負。	不得論說，國家政事平量優劣、出軍行師攻伐勝負。	One should not discuss state affairs, evaluate pros and cons, or talk about military campaigns and victories.
+['ZH_T24_1471_001:0927a11_1']	有犯斯戒，非沙彌也。	有犯斯戒，非沙彌也。	If one violates this precept, one is no longer a novice monk.
+['ZH_T24_1471_001:0927a12_4']	「沙彌之戒，盡形壽男女有別，居不同寺跡不相尋。	「沙彌之戒，盡形壽男女有別，居不同寺跡不相尋。	The precepts of a novice monk are to be observed for life. Men and women have different residences and do not live in the same temple. Their tracks do not cross.
+['ZH_T24_1471_001:0927a13_10']	無同船車俱載、逢無道談，若持異物無察視之，遠嫌避疑。	無同船車俱載、逢無道談，若持異物無察視之，遠嫌避疑。	Do not ride in the same boat or carriage, or talk on the road. If they hold different things, do not look at them. Avoid suspicion from afar.
+['ZH_T24_1471_001:0927a14_9']	無書䟽往來，假借裁割浣濯衣服及所乞求。	無書䟽往來，假借裁割浣濯衣服及所乞求。	Do not exchange letters, borrow, cut, wash, or mend each other's clothes, or beg for things.
+['ZH_T24_1471_001:0927a14_19']	彼若惠己，亦不宜受。	彼若惠己，亦不宜受。	If they give to you, you should not accept.
+['ZH_T24_1471_001:0927a15_18']	若欲往時必須耆年，慎無獨行、無止坐宿。	若欲往時必須耆年，慎無獨行、無止坐宿。	If you want to go somewhere, you must go with an elder. Do not go alone, and do not stop to sit or stay overnight.
+['ZH_T24_1471_001:0927a16_8']	有犯斯戒，非沙彌也。	有犯斯戒，非沙彌也。	If one violates this precept, one is no longer a novice monk.
+['ZH_T24_1471_001:0927a17_7']	「沙彌之戒，盡形壽非賢不友、非聖不宗。	「沙彌之戒，盡形壽非賢不友、非聖不宗。	The precepts of a novice monk are to be observed for life. Do not befriend the unvirtuous, do not follow the unholy.
+['ZH_T24_1471_001:0927a19_7']	不孝之子、屠兒獵者、偷盜嗜酒之徒，志趣邪僻、履行凶嶮，不得交遊，往來之藝濁虧損道行。	不孝之子、屠兒獵者、偷盜嗜酒之徒，志趣邪僻、履行凶嶮，不得交遊，往來之藝濁虧損道行。	Do not associate with unfilial sons, butchers, hunters, thieves, or those who indulge in alcohol, have deviant aspirations, or engage in violent and dangerous conduct, as such associations will corrupt and undermine the practice of the Way.
+['ZH_T24_1471_001:0927a20_7']	法服應器常與身俱，非時不食、非法不言。	法服應器常與身俱，非時不食、非法不言。	The Dharma robes and alms bowl should always be with the body, not eating at improper times, and not speaking non-Dharma.
+['ZH_T24_1471_001:0927a20_17']	食則無語、臥則無談。	食則無語、臥則無談。	When eating, do not speak; when lying down, do not talk.
+['ZH_T24_1471_001:0927a21_6']	精勤思義，溫故知新。	精勤思義，溫故知新。	Strive to contemplate the meaning, and know the new by reviewing the old.
+['ZH_T24_1471_001:0927a21_16']	坐則禪思、起則諷誦。	坐則禪思、起則諷誦。	When sitting, meditate; when standing, recite.
+['ZH_T24_1471_001:0927a22_4']	戒行如是，真佛弟子。	戒行如是，真佛弟子。	If one's conduct in observing the precepts is like this, one is a true disciple of the Buddha.
+['ZH_T24_1471_001:0927a23_13']	說戒已竟，次說威儀「已受沙彌十戒，為賢者道人。	說戒已竟，次說威儀「已受沙彌十戒，為賢者道人。	After reciting the precepts, the proper conduct is explained: Having received the ten precepts of a novice monk, one becomes a virtuous practitioner of the Way.
+['ZH_T24_1471_001:0927a29_6']	次教之，當用漸漸稍從小起，當知威儀施行所應，當知和上幾歲、三師名字，當教識知初受戒時歲日月數，當知事和上有幾事，亦當知隨事阿闍梨有幾事，亦當知給楊枝澡水有幾事，亦當知授袈裟攝袈裟及持鉢有幾事，亦當知捉錫杖持履有幾事。	次教之，當用漸漸稍從小起，當知威儀施行所應，當知和上幾歲、三師名字，當教識知初受戒時歲日月數，當知事和上有幾事，亦當知隨事阿闍梨有幾事，亦當知給楊枝澡水有幾事，亦當知授袈裟攝袈裟及持鉢有幾事，亦當知捉錫杖持履有幾事。	Next, teach them to gradually start from small things. They should know the proper conduct and practice of deportment, know the age of the preceptor and the names of the three teachers, be taught to recognize the year, month, and day of first receiving the precepts, know the number of duties to serve the preceptor, also know the number of duties to serve the ācārya, also know the number of duties to offer willow branches and wash water, also know the number of duties to give the kāṣāya robe, receive the kāṣāya robe, and hold the alms bowl, also know the number of duties to hold the tin staff and carry shoes.
+['ZH_T24_1471_001:0927b07_10']	與和上阿闍梨俱應請時，若至國王家時、若至迦羅越家時、若至婆羅門家時、若連坐飯時、若別坐飯時、若俱入城乞食時、若俱還時、至故處時、若日晚時、若止水邊飯時、若道邊時、若樹下飯時、若自先去住相待時、若合鉢食時、若轉貿鉢時、若俱共對飯時、若前後飯時、若飯已澡漱時、若澡鉢去時，各當具知有幾事。	與和上阿闍梨俱應請時，若至國王家時、若至迦羅越家時、若至婆羅門家時、若連坐飯時、若別坐飯時、若俱入城乞食時、若俱還時、至故處時、若日晚時、若止水邊飯時、若道邊時、若樹下飯時、若自先去住相待時、若合鉢食時、若轉貿鉢時、若俱共對飯時、若前後飯時、若飯已澡漱時、若澡鉢去時，各當具知有幾事。	When together with the preceptor and master, one should know how many things there are when invited, when going to the king's house, when going to the house of a wealthy man, when going to a Brahmin's house, when eating together, when eating separately, when entering the city together to beg for food, when returning together, when arriving at the original place, when it is late in the day, when eating by the water's edge, when on the road, when eating under a tree, when going first and waiting for each other, when eating from combined bowls, when exchanging bowls, when eating facing each other, when eating before and after, when rinsing after eating, and when washing the bowls and leaving.
+['ZH_T24_1471_001:0927b08_8']	當知給眾僧作直日時，各當知有幾事。	當知給眾僧作直日時，各當知有幾事。	One should know how many things there are when serving the Sangha as a paid attendant.
+['ZH_T24_1471_001:0927b09_4']	年滿二十欲受具足戒時，皆悉當知。	年滿二十欲受具足戒時，皆悉當知。	When one who is twenty years old wishes to receive the full precepts, one should know all of them.
+['ZH_T24_1471_001:0927b10_6']	設為賢者比丘所問，不具對者，不應與受具足戒。	設為賢者比丘所問，不具對者，不應與受具足戒。	If asked by a wise bhikṣu and unable to respond fully, one should not be granted the upasampadā ordination.
+['ZH_T24_1471_001:0927b10_10']	何以故？	何以故？	Why is this?
+['ZH_T24_1471_001:0927b11_15']	作沙彌乃不知沙彌事所應施行，沙門事大難作甚微妙。	作沙彌乃不知沙彌事所應施行，沙門事大難作甚微妙。	As a novice, one does not yet know the duties to be performed, and the duties of a śramaṇa are difficult to carry out and extremely subtle.
+['ZH_T24_1471_001:0927b12_7']	賢者沙彌，卿且去熟學。	賢者沙彌，卿且去熟學。	Wise novice, you should go and study thoroughly.
+['ZH_T24_1471_001:0927b13_1']	當悉聞知，乃應授與具足戒。	當悉聞知，乃應授與具足戒。	You should fully understand and then be granted the upasampadā ordination.
+['ZH_T24_1471_001:0927b14_12']	所以卿不知沙彌法者，但未諦知身苦故、不伏意耳，而反欲受具足戒。	所以卿不知沙彌法者，但未諦知身苦故、不伏意耳，而反欲受具足戒。	The reason you do not know the novice precepts is simply because you have not yet fully understood the suffering of the body and have not yet subdued the mind, yet you want to receive the upasampadā ordination.
+['ZH_T24_1471_001:0927b17_4']	今授卿具足戒者，人謂佛法易行、沙門易作，不知佛道至妙、罪福運行法律交互，以是數日之中相之，是故當先問。	今授卿具足戒者，人謂佛法易行、沙門易作，不知佛道至妙、罪福運行法律交互，以是數日之中相之，是故當先問。	If the upasampadā ordination is granted to you now, people will say that the Buddha's teachings are easy to practice and that becoming a śramaṇa is easy, not knowing that the Buddha's path is supremely subtle, and that the workings of blessings and offenses, the Dharma and Vinaya, are mutually dependent. For this reason, you should be examined for several days. Therefore, you should first be asked.
+['ZH_T24_1471_001:0927b17_19']	設能具對能如法者，三師易得耳。	設能具對能如法者，三師易得耳。	If one is able to respond fully and in accordance with the Dharma, then the three teachers will be easily obtained.
+['ZH_T24_1471_001:0927b18_8']	「師教沙彌有五事：	「師教沙彌有五事：	There are five things the teacher teaches the novice:
+['ZH_T24_1471_001:0927b18_16']	一者當敬大沙門；	一者當敬大沙門；	First, one should respect the great śramaṇas;
+['ZH_T24_1471_001:0927b19_8']	二者不得呼大沙門名字；	二者不得呼大沙門名字；	Second, one should not call a great bhikṣu by name;
+['ZH_T24_1471_001:0927b20_4']	三者大沙門說戒經時不得盜聽；	三者大沙門說戒經時不得盜聽；	Third, when a great bhikṣu is reciting the precepts, one should not eavesdrop;
+['ZH_T24_1471_001:0927b20_15']	四者不得求大沙門長短；	四者不得求大沙門長短；	Fourth, one should not seek the faults of a great bhikṣu;
+['ZH_T24_1471_001:0927b21_10']	五者大沙門誤失時不得轉行說。	五者大沙門誤失時不得轉行說。	Fifth, when a great bhikṣu makes a mistake, one should not spread it around.
+['ZH_T24_1471_001:0927b21_17']	是為沙彌威儀。	是為沙彌威儀。	These are the deportment of a novice monk.
+['ZH_T24_1471_001:0927b22_8']	「又教沙彌有五事：	「又教沙彌有五事：	Moreover, teaching a novice monk has five things:
+['ZH_T24_1471_001:0927b22_19']	一者不得屏處罵大沙門。	一者不得屏處罵大沙門。	First, one should not scold a great bhikṣu in private;
+['ZH_T24_1471_001:0927b24_4']	二者不得輕易大沙門，於前戲笑、効其語言形相行步。	二者不得輕易大沙門，於前戲笑、効其語言形相行步。	Second, one should not slight a great bhikṣu, nor joke or imitate their speech, appearance, or gait in front of them;
+['ZH_T24_1471_001:0927b25_2']	三者見大沙門過，即當起住、若讀誦經；	三者見大沙門過，即當起住、若讀誦經；	Third, upon seeing a great bhikṣu passing by, one should immediately stand up, whether reading or reciting sūtras;
+['ZH_T24_1471_001:0927b25_16']	若飯時、若作眾事，不應得起。	若飯時、若作眾事，不應得起。	If one is eating or doing various tasks, one should not get up.
+['ZH_T24_1471_001:0927b26_14']	四者行與大沙門相逢，當下道止住避之。	四者行與大沙門相逢，當下道止住避之。	Fourth, when walking and encountering a great bhikṣu, one should step off the path to make way for them;
+['ZH_T24_1471_001:0927b27_15']	五者若調戲時，若見大沙門即當止謝言不及。	五者若調戲時，若見大沙門即當止謝言不及。	Fifth, if one is joking and sees a great bhikṣu, one should immediately stop and apologize, saying it was not intentional.
+['ZH_T24_1471_001:0927b28_4']	是為施行所應爾。	是為施行所應爾。	This is how one should act.
+['ZH_T24_1471_001:0927b28_14']	「沙彌事和上有十事：	「沙彌事和上有十事：	There are ten things for a novice to do when serving the preceptor:
+['ZH_T24_1471_001:0927b29_1']	一者當早起；	一者當早起；	First, one should get up early;
+['ZH_T24_1471_001:0927b29_12']	二者欲入戶當先三彈指；	二者欲入戶當先三彈指；	Second, when entering the room, one should first snap one's fingers three times;
+['ZH_T24_1471_001:0927c01_1']	三者具楊枝澡水；	三者具楊枝澡水；	Third, prepare the tooth cleaner and washing water;
+['ZH_T24_1471_001:0927c01_11']	四者當授袈裟却授履；	四者當授袈裟却授履；	Fourth, offer the kaṣāya robe and then offer the sandals;
+['ZH_T24_1471_001:0927c02_1']	五者當掃地益澡水；	五者當掃地益澡水；	Fifth, sweep the floor and add washing water;
+['ZH_T24_1471_001:0927c02_12']	六者當襞被枕拂拭床席；	六者當襞被枕拂拭床席；	Sixth, fold the bedding, pillow, and wipe the bed and seat;
+['ZH_T24_1471_001:0927c03_17']	七者師出未還不得捨房中去，師還當逆取袈裟內襞之；	七者師出未還不得捨房中去，師還當逆取袈裟內襞之；	Seventh, when the teacher has gone out and has not returned, one should not leave the room, and when the teacher returns, one should take back the kaṣāya robe and fold it;
+['ZH_T24_1471_001:0927c04_18']	八者若有過，和上阿闍梨教誡，不得還逆語；	八者若有過，和上阿闍梨教誡，不得還逆語；	Eighth, if there is a transgression, the preceptor or ācārya instructs and admonishes, one should not speak back;
+['ZH_T24_1471_001:0927c05_14']	九者當低頭受師語去，當思念行之；	九者當低頭受師語去，當思念行之；	Ninth, one should lower one's head, receive the teacher's words, and think about practicing them;
+['ZH_T24_1471_001:0927c06_6']	十者出戶當還牽戶閉之。	十者出戶當還牽戶閉之。	Tenth, when leaving the room, one should pull the door closed.
+['ZH_T24_1471_001:0927c06_13']	是為事和上法。	是為事和上法。	This is the method for serving the preceptor.
+['ZH_T24_1471_001:0927c07_6']	「教沙彌事阿闍梨有五事：	「教沙彌事阿闍梨有五事：	There are five things for teaching a novice to serve the ācārya:
+['ZH_T24_1471_001:0927c08_1']	一者視阿闍梨一切當如視我；	一者視阿闍梨一切當如視我；	First, look at the ācārya as if looking at me;
+['ZH_T24_1471_001:0927c08_8']	二者不得調戲；	二者不得調戲；	Second, do not be frivolous;
+['ZH_T24_1471_001:0927c08_20']	三者設呵罵汝，不得還語；	三者設呵罵汝，不得還語；	Third, even if he scolds you, do not respond in kind;
+['ZH_T24_1471_001:0927c09_15']	四者若使汝出不淨器，不得唾惡怒；	四者若使汝出不淨器，不得唾惡怒；	Fourth, if he has you dispose of unclean vessels, do not spit or be angry;
+['ZH_T24_1471_001:0927c10_4']	五者暮當按摩之。	五者暮當按摩之。	Fifth, in the evening, you should massage him.
+['ZH_T24_1471_001:0927c10_13']	是為事阿闍梨法也。	是為事阿闍梨法也。	These are the rules for serving the preceptor.
+['ZH_T24_1471_001:0927c11_15']	「事阿闍梨法，沙彌事師，當早起具楊枝澡水。	「事阿闍梨法，沙彌事師，當早起具楊枝澡水。	The rules for serving the preceptor, the novice monk serving the master, should rise early and prepare the tooth stick and washing water.
+['ZH_T24_1471_001:0927c11_19']	有六事：	有六事：	There are six things:
+['ZH_T24_1471_001:0927c12_8']	一者斷楊枝當隨度數；	一者斷楊枝當隨度數；	First, when cutting the tooth stick, it should be according to the proper length;
+['ZH_T24_1471_001:0927c12_14']	二者當破頭；	二者當破頭；	Second, the tip should be broken;
+['ZH_T24_1471_001:0927c13_3']	三者當洗使令淨；	三者當洗使令淨；	Third, it should be washed to make it clean;
+['ZH_T24_1471_001:0927c13_11']	四者當易故宿水；	四者當易故宿水；	Fourth, the old water should be changed;
+['ZH_T24_1471_001:0927c13_19']	五者當淨澡軍持。	五者當淨澡軍持。	Fifth, the water jar should be cleaned;
+['ZH_T24_1471_001:0927c14_17']	六者當滿中水持入，不得使有汙湔有聲。	六者當滿中水持入，不得使有汙湔有聲。	Sixth, the water should be filled and brought in without making any splashing sound.
+['ZH_T24_1471_001:0927c15_8']	是為具楊枝澡水法。	是為具楊枝澡水法。	This is the rule for preparing the tooth stick and washing water.
+['ZH_T24_1471_001:0927c15_16']	「授袈裟有四事：	「授袈裟有四事：	There are four things when bestowing the kāṣāya robe:
+['ZH_T24_1471_001:0927c16_12']	一者當徐徐一手排一手捉下授之；	一者當徐徐一手排一手捉下授之；	First, slowly push it down with one hand and hold it with the other hand to pass it to them;
+['ZH_T24_1471_001:0927c17_2']	二者當次視上下；	二者當次視上下；	Second, look up and down in order;
+['ZH_T24_1471_001:0927c17_12']	三者當止住持師衣已；	三者當止住持師衣已；	Third, stop and hold the master's robe;
+['ZH_T24_1471_001:0927c18_2']	四者當上著師肩上。	四者當上著師肩上。	Fourth, it should be placed on the teacher's shoulder.
+['ZH_T24_1471_001:0927c18_9']	是為授袈裟法。	是為授袈裟法。	This is the method for bestowing the kāṣāya robe.
+['ZH_T24_1471_001:0927c18_17']	「攝袈裟有四事：	「攝袈裟有四事：	There are four things to keep in mind when putting on the kāṣāya robe:
+['ZH_T24_1471_001:0927c19_4']	一者當視上下；	一者當視上下；	First, one should look up and down;
+['ZH_T24_1471_001:0927c19_12']	二者不得使著地；	二者不得使著地；	Second, one should not let it touch the ground;
+['ZH_T24_1471_001:0927c20_1']	三者當著安常處；	三者當著安常處；	Third, one should put it in its usual place;
+['ZH_T24_1471_001:0927c20_6']	四者覆上。	四者覆上。	Fourth, cover it on top.
+['ZH_T24_1471_001:0927c20_13']	是為攝袈裟法。	是為攝袈裟法。	This is the method for putting on the kāṣāya robe.
+['ZH_T24_1471_001:0927c20_20']	「持鉢有四事：	「持鉢有四事：	There are four things to keep in mind when carrying the alms bowl:
+['ZH_T24_1471_001:0927c21_6']	一者當洗令淨；	一者當洗令淨；	First, one should wash it to make it clean;
+['ZH_T24_1471_001:0927c21_12']	二者拭令燥；	二者拭令燥；	Second, one should wipe it to make it dry;
+['ZH_T24_1471_001:0927c21_18']	三者帶令堅；	三者帶令堅；	Third, one should fasten the carrying strap;
+['ZH_T24_1471_001:0927c22_6']	四者不得使有聲。	四者不得使有聲。	Fourth, one should not make any noise.
+['ZH_T24_1471_001:0927c22_12']	是為持鉢法。	是為持鉢法。	This is the method for carrying the alms bowl.
+['ZH_T24_1471_001:0927c23_7']	「持錫杖有四事：	「持錫杖有四事：	There are four things to keep in mind when carrying the khakkhara staff:
+['ZH_T24_1471_001:0927c23_15']	一者取拭去生垢；	一者取拭去生垢；	First, one should wipe it to remove any dirt;
+['ZH_T24_1471_001:0927c24_5']	二者不得著地使有聲；	二者不得著地使有聲；	Second, one should not let it touch the ground and make a sound;
+['ZH_T24_1471_001:0927c24_14']	三者師出戶乃當授；	三者師出戶乃當授；	Third, one should offer it when the teacher comes out of the room;
+['ZH_T24_1471_001:0927c25_4']	四者師出還當受取。	四者師出還當受取。	Fourth, one should take it back when the teacher comes out.
+['ZH_T24_1471_001:0927c25_20']	若俱行若入眾、若禮佛，亦當取持。	若俱行若入眾、若禮佛，亦當取持。	If one is walking together or entering the assembly or paying homage to the Buddha, one should also take and carry it.
+['ZH_T24_1471_001:0927c26_6']	是為持錫杖法。	是為持錫杖法。	This is the method for carrying the khakkhara staff.
+['ZH_T24_1471_001:0927c26_13']	「持履有四事：	「持履有四事：	There are four things to keep in mind when carrying shoes:
+['ZH_T24_1471_001:0927c27_2']	一者當先抖擻之；	一者當先抖擻之；	First, shake it out;
+['ZH_T24_1471_001:0927c27_10']	二者當視次比之；	二者當視次比之；	Second, arrange it in order;
+['ZH_T24_1471_001:0927c28_4']	三者當澡手，不得便持袈裟；	三者當澡手，不得便持袈裟；	Third, wash your hands and do not hold the kaṣāya immediately;
+['ZH_T24_1471_001:0927c28_15']	四者師坐，當取次比之。	四者師坐，當取次比之。	Fourth, when the teacher is sitting, take it and arrange it in order.
+['ZH_T24_1471_001:0927c29_1']	是為持履法。	是為持履法。	This is the method of holding the sandals.
+['ZH_T24_1471_001:0927c29_15']	「若俱應請，連坐飯時有四事：	「若俱應請，連坐飯時有四事：	If you are invited together and sit side by side to eat, there are four things:
+['ZH_T24_1471_001:0928a01_4']	一者坐當離師六尺；	一者坐當離師六尺；	First, when sitting, you should be six feet away from the teacher;
+['ZH_T24_1471_001:0928a01_17']	二者當視師達嚫竟乃應授鉢；	二者當視師達嚫竟乃應授鉢；	Second, you should wait until the teacher has finished the dāna and then offer the bowl;
+['ZH_T24_1471_001:0928a02_7']	三者不得先師食飯；	三者不得先師食飯；	Third, do not eat before the teacher;
+['ZH_T24_1471_001:0928a03_1']	四者師飯已當起取鉢自近。	四者師飯已當起取鉢自近。	Fourth, when the teacher has finished eating, you should get up and take the bowl to be near him.
+['ZH_T24_1471_001:0928a03_10']	是為連坐飯時法也。	是為連坐飯時法也。	This is the method for sitting side by side to eat.
+['ZH_T24_1471_001:0928a03_19']	「別坐飯時有四事：	「別坐飯時有四事：	When eating separately, there are four things:
+['ZH_T24_1471_001:0928a04_7']	一者當立住師邊；	一者當立住師邊；	First, stand by the teacher's side;
+['ZH_T24_1471_001:0928a04_18']	二者師教食去乃當坐去；	二者師教食去乃當坐去；	Second, when the teacher tells you to go eat, then go and sit;
+['ZH_T24_1471_001:0928a05_8']	三者頭面著地作禮；	三者頭面著地作禮；	Third, bow your head to the ground in reverence;
+['ZH_T24_1471_001:0928a06_1']	四者食飯不得倨坐上戲。	四者食飯不得倨坐上戲。	Fourth, do not sit arrogantly and play while eating.
+['ZH_T24_1471_001:0928a06_17']	飯已當至師邊住，師教還坐乃應坐。	飯已當至師邊住，師教還坐乃應坐。	After eating, go to stand by the teacher's side. When the teacher tells you to return to your seat, then sit.
+['ZH_T24_1471_001:0928a07_6']	是為別坐飯時法也。	是為別坐飯時法也。	These are the rules for eating separately while sitting apart.
+['ZH_T24_1471_001:0928a08_9']	「入城乞食時有四事：	「入城乞食時有四事：	When entering the city to beg for food, there are four things:
+['ZH_T24_1471_001:0928a08_16']	一者當持師鉢；	一者當持師鉢；	First, one should hold the master's alms bowl;
+['ZH_T24_1471_001:0928a09_11']	二者當隨師後，不得以足蹈師影；	二者當隨師後，不得以足蹈師影；	Second, one should follow behind the master, not stepping on the master's shadow;
+['ZH_T24_1471_001:0928a10_3']	三者於城外當取鉢授師；	三者於城外當取鉢授師；	Third, outside the city, one should take the alms bowl and offer it to the master;
+['ZH_T24_1471_001:0928a10_14']	四者入城欲別行當報師。	四者入城欲別行當報師。	Fourth, if one wishes to go separately in the city, one should inform the master.
+['ZH_T24_1471_001:0928a11_3']	是為行乞食時法。	是為行乞食時法。	These are the rules for going to beg for food.
+['ZH_T24_1471_001:0928a11_14']	「俱行還至故處有四事：	「俱行還至故處有四事：	When returning together to the original place, there are four things:
+['ZH_T24_1471_001:0928a12_8']	一者當先徐開戶出坐具敷之；	一者當先徐開戶出坐具敷之；	First, one should slowly open the door, take out the sitting mat and spread it out;
+['ZH_T24_1471_001:0928a13_1']	二者澡師手已乃却自澡；	二者澡師手已乃却自澡；	Second, after washing the master's hands, one should then wash one's own;
+['ZH_T24_1471_001:0928a13_14']	三者當授師鉢，自却叉手住；	三者當授師鉢，自却叉手住；	Third, one should offer the alms bowl to the master and then stand with palms joined;
+['ZH_T24_1471_001:0928a14_5']	四者當豫具澡豆手巾等。	四者當豫具澡豆手巾等。	Fourth, one should prepare bean dregs, hand towel, and so forth in advance.
+['ZH_T24_1471_001:0928a14_13']	是為還歸飯時法。	是為還歸飯時法。	These are the rules for returning and eating.
+['ZH_T24_1471_001:0928a15_4']	「過水邊飯時有四事：	「過水邊飯時有四事：	When eating by the water's edge, there are four things:
+['ZH_T24_1471_001:0928a15_11']	一者當求淨地；	一者當求淨地；	First, one should seek a clean place;
+['ZH_T24_1471_001:0928a15_19']	二者當求草作坐；	二者當求草作坐；	Second, one should seek grass to sit on;
+['ZH_T24_1471_001:0928a17_2']	三者當取水澡師手已，還自洗手已乃却授師鉢；	三者當取水澡師手已，還自洗手已乃却授師鉢；	Third, after taking water to wash the teacher's hands, wash one's own hands and then return to offer the teacher's bowl;
+['ZH_T24_1471_001:0928a17_15']	四者師教使飯，當作禮却坐。	四者師教使飯，當作禮却坐。	Fourth, when the teacher instructs one to eat, one should bow and sit back.
+['ZH_T24_1471_001:0928a18_4']	是為水邊飯時法。	是為水邊飯時法。	These are the rules for eating by the waterside.
+['ZH_T24_1471_001:0928a18_17']	「止陰樹下飯時法，有四事：	「止陰樹下飯時法，有四事：	The rules for eating under a shady tree are as follows: there are four things:
+['ZH_T24_1471_001:0928a19_13']	一者當持鉢掛著樹上，採取葉作坐；	一者當持鉢掛著樹上，採取葉作坐；	First, one should carry the bowl and hang it on a tree, pick leaves to make a seat;
+['ZH_T24_1471_001:0928a20_14']	二者取水澡師手，設不得水，取淨草授與師；	二者取水澡師手，設不得水，取淨草授與師；	Second, take water to wash the teacher's hands, if water cannot be obtained, take clean grass and offer it to the teacher;
+['ZH_T24_1471_001:0928a21_3']	三者還取鉢授師；	三者還取鉢授師；	Third, take back the bowl and offer it to the teacher;
+['ZH_T24_1471_001:0928a22_5']	四者當豫具淨草澡師鉢已，却以草熟拭鉢乃去。	四者當豫具淨草澡師鉢已，却以草熟拭鉢乃去。	Fourth, take clean grass to wash the teacher's bowl in advance, then wipe the bowl with grass and remove it.
+['ZH_T24_1471_001:0928a22_13']	是為樹下飯時法。	是為樹下飯時法。	These are the rules for eating under a tree.
+['ZH_T24_1471_001:0928a23_3']	「道中相待有三事：	「道中相待有三事：	There are three things when waiting for each other on the road:
+['ZH_T24_1471_001:0928a23_17']	一者持鉢著淨地，作禮如事說；	一者持鉢著淨地，作禮如事說；	First, place the bowl on a clean place, bow according to the circumstances and speak;
+['ZH_T24_1471_001:0928a24_14']	二者當視日早晚，可疾還歸、若道止；	二者當視日早晚，可疾還歸、若道止；	Second, look at the sun to see if it is early or late, whether to return quickly or stop on the road;
+['ZH_T24_1471_001:0928a25_8']	三者當取師鉢并持隨師後去。	三者當取師鉢并持隨師後去。	Third, take the teacher's bowl and carry it, following the teacher behind.
+['ZH_T24_1471_001:0928a25_17']	是為道中相待時法。	是為道中相待時法。	This is the Dharma of the time of waiting in the Way.
+['ZH_T24_1471_001:0928a26_8']	「合鉢飯時有二事：	「合鉢飯時有二事：	There are two things when combining the bowls and rice:
+['ZH_T24_1471_001:0928a27_9']	一者若師鉢中無酪酥漿，當自取所得鉢飯授師；	一者若師鉢中無酪酥漿，當自取所得鉢飯授師；	First, if there is no curd, ghee, or porridge in the master's bowl, one should take the bowl of rice one has obtained and offer it to the master;
+['ZH_T24_1471_001:0928a27_19']	若師不取，旦當却住。	若師不取，旦當却住。	If the master does not take it, one should then step back.
+['ZH_T24_1471_001:0928a29_13']	二者徐取師鉢中半飯，出著淨地樹葉上，却自取鉢中半飯，著師鉢中却住。	二者徐取師鉢中半飯，出著淨地樹葉上，却自取鉢中半飯，著師鉢中却住。	Second, slowly take half of the rice from the master's bowl, put it on a clean place or tree leaf, step back, and take half of the rice from one's own bowl and put it in the master's bowl.
+['ZH_T24_1471_001:0928b01_2']	是為合鉢飯時法。	是為合鉢飯時法。	This is the Dharma of combining the bowls and rice.
+['ZH_T24_1471_001:0928b01_12']	「轉貿鉢飯時有三事：	「轉貿鉢飯時有三事：	There are three things when exchanging the bowls and rice:
+['ZH_T24_1471_001:0928b02_15']	一者若師鉢中得美膳者、自得不如者，便當授師；	一者若師鉢中得美膳者、自得不如者，便當授師；	First, if the master's bowl obtains delicious food, and one's own is not as good, one should offer it to the master;
+['ZH_T24_1471_001:0928b03_8']	二者師欲貿鉢，當讓不受；	二者師欲貿鉢，當讓不受；	Second, if the master wishes to exchange bowls, one should yield and not accept;
+['ZH_T24_1471_001:0928b04_9']	三者師堅呼貿鉢，當取再飡，便當拭鉢還授師。	三者師堅呼貿鉢，當取再飡，便當拭鉢還授師。	Third, if the master firmly calls to exchange bowls, one should take the leftovers and wipe the bowl to return it to the master.
+['ZH_T24_1471_001:0928b04_17']	是為貿鉢飯時法。	是為貿鉢飯時法。	This is the Dharma of exchanging the bowls and rice.
+['ZH_T24_1471_001:0928b05_7']	「對飯時有三事：	「對飯時有三事：	There are three things when facing the rice:
+['ZH_T24_1471_001:0928b05_18']	一者當授師鉢乃却坐飯；	一者當授師鉢乃却坐飯；	First, one should offer the bowl to the master and then sit back to eat;
+['ZH_T24_1471_001:0928b06_14']	二者當數視師所欲得，即當起取與；	二者當數視師所欲得，即當起取與；	Second, one should frequently observe what the teacher wishes to obtain and immediately get up to take it and give it to him.
+['ZH_T24_1471_001:0928b07_19']	三者食不得大疾亦不得後，竟以起，當復問欲得何等？	三者食不得大疾亦不得後，竟以起，當復問欲得何等？	Third, one should not eat too quickly or too slowly, and when finished, one should get up and ask again what is needed.
+['ZH_T24_1471_001:0928b08_8']	師言持去乃當取去。	師言持去乃當取去。	When the teacher says to take it away, one should then take it away.
+['ZH_T24_1471_001:0928b08_15']	是為對飯時法。	是為對飯時法。	This is the rule for facing the meal.
+['ZH_T24_1471_001:0928b09_5']	「前後飯時有三事：	「前後飯時有三事：	There are three things to do before and after the meal:
+['ZH_T24_1471_001:0928b10_10']	一者授師鉢具已，當却至屏處住，聽師呼聲即當應之。	一者授師鉢具已，當却至屏處住，聽師呼聲即當應之。	First, after presenting the teacher's bowl, one should step back and stand in a secluded place, and listen for the teacher's call to respond immediately.
+['ZH_T24_1471_001:0928b11_2']	二者當豫取澡水著一邊。	二者當豫取澡水著一邊。	Second, one should prepare washing water and place it to one side in advance.
+['ZH_T24_1471_001:0928b11_15']	三者師飯畢，當澡師手却住；	三者師飯畢，當澡師手却住；	Third, when the teacher has finished eating, one should wash the teacher's hands and stand back;
+['ZH_T24_1471_001:0928b12_6']	師教去飯，乃當作禮去飯。	師教去飯，乃當作禮去飯。	when the teacher instructs to leave the meal, one should then bow and leave the meal.
+['ZH_T24_1471_001:0928b12_14']	是為前後飯時法。	是為前後飯時法。	This is the rule for before and after the meal.
+['ZH_T24_1471_001:0928b13_5']	「飯已澡鉢有三事：	「飯已澡鉢有三事：	There are three things to do after the meal and washing the bowl:
+['ZH_T24_1471_001:0928b14_7']	一者澡漱已，當先取師鉢澡令淨已，著樹葉上；	一者澡漱已，當先取師鉢澡令淨已，著樹葉上；	First, after washing and rinsing, one should first take the teacher's bowl, wash it clean, and place it on a leaf;
+['ZH_T24_1471_001:0928b15_19']	二者却自澡鉢已，亦著樹葉上，先取師鉢已手摩令淨燥，內著囊中付師；	二者却自澡鉢已，亦著樹葉上，先取師鉢已手摩令淨燥，內著囊中付師；	Second, after washing one's own bowl, also place it on a tree leaf. First, take the teacher's bowl and wipe it clean and dry, put it in a bag and give it to the teacher;
+['ZH_T24_1471_001:0928b17_1']	三者還自取鉢拭令燥，亦內著囊中帶之止住。	三者還自取鉢拭令燥，亦內著囊中帶之止住。	Third, take one's own bowl, wipe it dry, also put it in a bag, and carry it back to the dwelling place.
+['ZH_T24_1471_001:0928b17_8']	是為澡鉢時法。	是為澡鉢時法。	This is the method for washing the bowl.
+['ZH_T24_1471_001:0928b17_19']	「澡鉢去時法，有三事：	「澡鉢去時法，有三事：	There are three things to do when leaving after washing the bowl:
+['ZH_T24_1471_001:0928b18_3']	一者師言：	一者師言：	First, the teacher says:
+['ZH_T24_1471_001:0928b18_18']	『我今欲過某許，賢者某自先歸。	『我今欲過某許，賢者某自先歸。	'I now wish to pass by such-and-such, Venerable So-and-so, you may return first.'
+['ZH_T24_1471_001:0928b19_8']	』二者頭面著地作禮便去；	』二者頭面著地作禮便去；	Second, bow one's head to the ground and leave;
+['ZH_T24_1471_001:0928b20_12']	三者獨還去，不得過餘聚落中戲笑，直歸故處誦經。	三者獨還去，不得過餘聚落中戲笑，直歸故處誦經。	Third, return alone, do not pass through other villages to play and laugh, but return to the original place to recite the sutra.
+['ZH_T24_1471_001:0928b21_1']	是為澡鉢去時法。	是為澡鉢去時法。	This is the method for leaving after washing the bowl.
+['ZH_T24_1471_001:0928b21_10']	「沙彌入眾有五事：	「沙彌入眾有五事：	There are five things for a novice to enter the assembly:
+['ZH_T24_1471_001:0928b21_16']	一者當明學；	一者當明學；	First, one should study diligently;
+['ZH_T24_1471_001:0928b22_2']	二者當習事；	二者當習事；	Second, one should practice the duties;
+['ZH_T24_1471_001:0928b22_8']	三者當給眾；	三者當給眾；	Third, one should serve the assembly;
+['ZH_T24_1471_001:0928b22_17']	四者當授大沙門物；	四者當授大沙門物；	Fourth, one should distribute the requisites to the fully ordained monks;
+['ZH_T24_1471_001:0928b23_12']	五者欲受大戒時三師易得耳。	五者欲受大戒時三師易得耳。	Fifth, when one wishes to receive full ordination, it is easy to obtain the three teachers.
+['ZH_T24_1471_001:0928b23_18']	「復有五事：	「復有五事：	There are five more things:
+['ZH_T24_1471_001:0928b24_5']	一者當禮佛；	一者當禮佛；	First, you should pay homage to the Buddha;
+['ZH_T24_1471_001:0928b24_13']	二者當禮比丘僧；	二者當禮比丘僧；	Second, you should pay homage to the bhikṣu saṅgha;
+['ZH_T24_1471_001:0928b25_3']	三者當問訊上下坐；	三者當問訊上下坐；	Third, you should greet the monks above and below you;
+['ZH_T24_1471_001:0928b25_12']	四者當留上座坐處；	四者當留上座坐處；	Fourth, you should leave the seat for senior monks;
+['ZH_T24_1471_001:0928b26_1']	五者不得諍坐處。	五者不得諍坐處。	Fifth, you should not dispute over seating.
+['ZH_T24_1471_001:0928b26_7']	「復有五事：	「復有五事：	 There are five more things:
+['ZH_T24_1471_001:0928b27_1']	一者不得於坐上遙相呼語笑；	一者不得於坐上遙相呼語笑；	First, you should not call out to each other or laugh while sitting;
+['ZH_T24_1471_001:0928b27_9']	二者不得數起出；	二者不得數起出；	Second, you should not get up frequently;
+['ZH_T24_1471_001:0928b28_6']	三者若眾中呼沙彌某甲，即當起應；	三者若眾中呼沙彌某甲，即當起應；	Third, if the assembly calls out to a certain novice, you should get up and respond;
+['ZH_T24_1471_001:0928b28_14']	四者當隨眾僧命；	四者當隨眾僧命；	Fourth, you should follow the orders of the saṅgha;
+['ZH_T24_1471_001:0928b29_9']	五者摩摩帝呼有所作，當還白師。	五者摩摩帝呼有所作，當還白師。	Fifth, if the monastery superintendent calls you to do something, you should return and inform your teacher.
+['ZH_T24_1471_001:0928b29_17']	是名入眾時法用。	是名入眾時法用。	 These are called the rules for entering the assembly.
+['ZH_T24_1471_001:0928c01_7']	「沙彌作直日有五事：	「沙彌作直日有五事：	 When a novice is on duty, there are five things:
+['ZH_T24_1471_001:0928c01_15']	一者當惜眾僧物；	一者當惜眾僧物；	First, you should be frugal with the saṅgha's possessions;
+['ZH_T24_1471_001:0928c02_5']	二者不得當道作事；	二者不得當道作事；	Second, you should not do things in the middle of the road;
+['ZH_T24_1471_001:0928c02_18']	三者作事未訖不得中起捨去；	三者作事未訖不得中起捨去；	Third, if you are doing something, you should not get up and leave in the middle;
+['ZH_T24_1471_001:0928c04_2']	四者若和上阿闍梨呼，不得便往，應當報摩摩帝；	四者若和上阿闍梨呼，不得便往，應當報摩摩帝；	Fourth, if your preceptor or teacher calls you, you should not go immediately, but should inform the monastery superintendent;
+['ZH_T24_1471_001:0928c04_16']	五者當隨摩摩帝教令不得違戾。	五者當隨摩摩帝教令不得違戾。	Fifth, one should follow the instructions of the monastery superintendent and not disobey.
+['ZH_T24_1471_001:0928c05_4']	是為作直日法。	是為作直日法。	These are the rules for being the day's attendant.
+['ZH_T24_1471_001:0928c06_6']	「擇菜有五事：	「擇菜有五事：	There are five things to keep in mind when selecting vegetables:
+['ZH_T24_1471_001:0928c06_12']	一者當却根；	一者當却根；	First, cut off the roots;
+['ZH_T24_1471_001:0928c06_18']	二者當齊頭；	二者當齊頭；	Second, cut them to the same length;
+['ZH_T24_1471_001:0928c07_7']	三者不得使有青黃合；	三者不得使有青黃合；	Third, do not mix the green and yellow ones;
+['ZH_T24_1471_001:0928c08_7']	四者洗菜，當三易水令淨已，當三振去水；	四者洗菜，當三易水令淨已，當三振去水；	Fourth, when washing the vegetables, change the water three times to make them clean, then shake them three times to remove the water;
+['ZH_T24_1471_001:0928c08_19']	五者作事畢竟當掃處令淨。	五者作事畢竟當掃處令淨。	Fifth, after finishing the work, sweep the place to make it clean.
+['ZH_T24_1471_001:0928c09_5']	「復有五事：	「復有五事：	There are five more things:
+['ZH_T24_1471_001:0928c09_15']	一者不得私取眾僧物；	一者不得私取眾僧物；	First, do not privately take the Sangha's things;
+['ZH_T24_1471_001:0928c10_9']	二者若有所欲取當報摩摩帝；	二者若有所欲取當報摩摩帝；	Second, if you want to take something, report it to the monastery superintendent;
+['ZH_T24_1471_001:0928c10_18', 'ZH_T24_1471_001:0928c11_15']	三者盡力作眾僧事；🔽四者當掃除食堂中，乃却布席空案；	三者盡力作眾僧事； 四者當掃除食堂中，乃却布席空案；	Third, do your utmost to do the Sangha's work;🔽Fourth, sweep the dining hall, then put out the mats and empty the trays;
+['ZH_T24_1471_001:0928c12_12']	五者當朝暮掃除舍後，益水棄灰土。	五者當朝暮掃除舍後，益水棄灰土。	Fifth, sweep the area behind the monastery in the morning and evening, replenish the water, and discard the ashes and soil.
+['ZH_T24_1471_001:0928c13_1']	「汲水有十事：	「汲水有十事：	There are ten things to keep in mind when drawing water:
+['ZH_T24_1471_001:0928c13_18']	一者手不淨不得便用汲水，當先澡手；	一者手不淨不得便用汲水，當先澡手；	First, if your hands are dirty, do not use them to draw water. You should first wash your hands;
+['ZH_T24_1471_001:0928c14_11']	二者不得大投罐井中使有聲；	二者不得大投罐井中使有聲；	Second, one should not throw the bucket into the well with a loud sound.
+['ZH_T24_1471_001:0928c15_13']	三者當徐徐下罐，不得大挑擊左右著使有聲；	三者當徐徐下罐，不得大挑擊左右著使有聲；	Third, one should lower the bucket slowly, not shaking it or making a sound by hitting the sides.
+['ZH_T24_1471_001:0928c16_9']	四者不得使繩頭還入井中使有聲；	四者不得使繩頭還入井中使有聲；	Fourth, one should not let the rope's end return to the well and make a sound.
+['ZH_T24_1471_001:0928c17_2']	五者不得持履覆井欄上；	五者不得持履覆井欄上；	Fifth, one should not cover the well railing with shoes.
+['ZH_T24_1471_001:0928c17_14']	六者不得持罐水著入釜中；	六者不得持罐水著入釜中；	Sixth, one should not put water from the bucket directly into the cauldron.
+['ZH_T24_1471_001:0928c18_4']	七者不得持罐置地；	七者不得持罐置地；	Seventh, one should not place the bucket on the ground.
+['ZH_T24_1471_001:0928c18_13']	八者當洗澡器令淨；	八者當洗澡器令淨；	Eighth, one should wash the bathing implements to make them clean.
+['ZH_T24_1471_001:0928c19_4']	九者舉水入當徐徐行；	九者舉水入當徐徐行；	Ninth, when carrying water in, one should walk slowly.
+['ZH_T24_1471_001:0928c19_16']	十者著屏處不得妨人道中。	十者著屏處不得妨人道中。	Tenth, one should place it in a secluded place, not obstructing people's paths.
+['ZH_T24_1471_001:0928c20_3', 'ZH_T24_1471_001:0928c20_12']	「澡釜有五事：🔽一者當澡釜緣口上；	「澡釜有五事： 一者當澡釜緣口上；	There are five things to do when washing the cauldron:🔽First, one should wash the rim of the cauldron above;
+['ZH_T24_1471_001:0928c21_1']	二者當澡釜緣裏；	二者當澡釜緣裏；	Second, one should wash the rim of the cauldron inside;
+['ZH_T24_1471_001:0928c21_8']	三者當洗腰腹；	三者當洗腰腹；	Third, one should wash the waist and belly;
+['ZH_T24_1471_001:0928c21_14']	四者澡裏底；	四者澡裏底；	Fourth, one should wash the inside and bottom;
+['ZH_T24_1471_001:0928c22_1']	五者當三易水。	五者當三易水。	Fifth, one should change the water three times.
+['ZH_T24_1471_001:0928c22_8', 'ZH_T24_1471_001:0928c22_16']	「吹竈有五事：🔽一者不得蹲吹火；	「吹竈有五事： 一者不得蹲吹火；	There are five things to do when blowing on the stove:🔽First, one should not squat and blow on the fire;
+['ZH_T24_1471_001:0928c23_4']	二者不得然生薪；	二者不得然生薪；	Second, one should not burn fresh firewood;
+['ZH_T24_1471_001:0928c23_13', 'ZH_T24_1471_001:0928c24_2']	三者不得倒然濕薪；🔽四者不得然腐薪；	三者不得倒然濕薪； 四者不得然腐薪；	Third, one should not burn wet firewood upside down;🔽Fourth, one should not burn rotten firewood;
+['ZH_T24_1471_001:0928c24_13']	五者不得以熱湯澆火滅。	五者不得以熱湯澆火滅。	Fifth, one should not extinguish the fire with hot water.
+['ZH_T24_1471_001:0928c25_1']	「掃地有五事：	「掃地有五事：	There are five things when sweeping the ground:
+['ZH_T24_1471_001:0928c25_7']	一者當順行；	一者當順行；	First, one should sweep in the direction of the sun;
+['ZH_T24_1471_001:0928c25_17']	二者灑地不得有厚薄；	二者灑地不得有厚薄；	Second, when sprinkling the ground, one should not make it too thick or too thin;
+['ZH_T24_1471_001:0928c26_7']	三者不得有污湔四壁；	三者不得有污湔四壁；	Third, one should not splash the four walls;
+['ZH_T24_1471_001:0928c26_16']	四者不得蹈濕地壞；	四者不得蹈濕地壞；	Fourth, one should not step on the wet ground and damage it;
+['ZH_T24_1471_001:0928c27_10']	五者掃已即當自撮草糞棄之。	五者掃已即當自撮草糞棄之。	Fifth, after sweeping, one should immediately gather the grass and dung and discard it.
+['ZH_T24_1471_001:0928c28_6']	「比丘僧飯時沙彌掃地，有五事：	「比丘僧飯時沙彌掃地，有五事：	When the bhikṣu saṅgha is having a meal, there are five things for the śrāmaṇera to sweep the ground:
+['ZH_T24_1471_001:0928c28_12']	一者常却行；	一者常却行；	First, always sweep in the direction of the sun;
+['ZH_T24_1471_001:0928c28_20']	二者不得挑手持；	二者不得挑手持；	Second, one should not hold it with one hand;
+['ZH_T24_1471_001:0928c29_8']	三者過六人土作聚；	三者過六人土作聚；	Third, do not make piles of dirt more than six people high;
+['ZH_T24_1471_001:0928c29_17']	四者悉掃令遍為善；	四者悉掃令遍為善；	Fourth, sweep it all thoroughly;
+['ZH_T24_1471_001:0928c30_11']	五者即當自手掃除持出棄之。	五者即當自手掃除持出棄之。	Fifth, immediately sweep it up with one's own hands and carry it out to discard it.
+['ZH_T24_1471_001:0929a01_5']	「持水澡罐瀉水，有五事：	「持水澡罐瀉水，有五事：	When holding a water-filled basin to pour water, there are five things:
+['ZH_T24_1471_001:0929a02_1']	一者一手持上、一手持下，不得轉易。	一者一手持上、一手持下，不得轉易。	First, hold the top with one hand and the bottom with the other, do not switch hands.
+['ZH_T24_1471_001:0929a02_13']	二者當近左面堅持直視前。	二者當近左面堅持直視前。	Second, you should stand to the left side, hold it firmly, and look straight ahead.
+['ZH_T24_1471_001:0929a03_18']	三者當視人手澆下水，不得多不得少，正當投人手中。	三者當視人手澆下水，不得多不得少，正當投人手中。	Third, you should look at the person's hand as you pour the water, not too much or too little, directly into the person's hand.
+['ZH_T24_1471_001:0929a05_4']	四者下水當去人手四寸，不得高不得下，當相視水多少；	四者下水當去人手四寸，不得高不得下，當相視水多少；	Fourth, when pouring the water, it should be four inches away from the person's hand, neither too high nor too low, and you should watch the amount of water;
+['ZH_T24_1471_001:0929a06_2']	設水少不足一人，當益水，不得住人手。	設水少不足一人，當益水，不得住人手。	If there is not enough water for one person, you should add water, but do not stop the person's hand.
+['ZH_T24_1471_001:0929a06_14']	五者以澡手還著袈裟如法。	五者以澡手還著袈裟如法。	Fifth, after washing your hands, put on the kaṣāya as prescribed.
+['ZH_T24_1471_001:0929a07_2']	「持澡盤有五事：	「持澡盤有五事：	There are five things to keep in mind when holding a basin:
+['ZH_T24_1471_001:0929a07_12']	一者不得曳盤使有聲；	一者不得曳盤使有聲；	First, do not drag the basin to make a sound;
+['ZH_T24_1471_001:0929a08_3']	二者當兩手堅持左面；	二者當兩手堅持左面；	Second, you should hold it firmly with both hands to the left;
+['ZH_T24_1471_001:0929a08_19']	三者當隨人手高下，不得左右顧視；	三者當隨人手高下，不得左右顧視；	Third, you should follow the person's hand, high or low, and do not look around;
+['ZH_T24_1471_001:0929a09_18']	四者澡盤中水滿當出棄之，不得澆人前地；	四者澡盤中水滿當出棄之，不得澆人前地；	Fourth, when the basin is full of water, you should take it out and discard it, and do not pour it on the ground in front of the person;
+['ZH_T24_1471_001:0929a10_13']	五者已當過澡手還著袈裟如法。	五者已當過澡手還著袈裟如法。	Fifth, after washing your hands, put on the kaṣāya as prescribed.
+['ZH_T24_1471_001:0929a11_2']	「持手巾有五事：	「持手巾有五事：	There are five things to keep in mind when holding a towel:
+['ZH_T24_1471_001:0929a11_19']	一者當左手持下頭、右手持上頭授人；	一者當左手持下頭、右手持上頭授人；	First, hold the lower end with the left hand and the upper end with the right hand when handing it to others;
+['ZH_T24_1471_001:0929a12_12']	二者去坐二尺，不得倚人膝；	二者去坐二尺，不得倚人膝；	Second, sit two feet away, do not lean on others' laps;
+['ZH_T24_1471_001:0929a13_5']	三者持手巾，不得隨障人口；	三者持手巾，不得隨障人口；	Third, hold the towel, do not cover the mouth while speaking;
+['ZH_T24_1471_001:0929a14_12']	四者人拭手未放巾不得引去，以下竟當持付主、若著故處；	四者人拭手未放巾不得引去，以下竟當持付主、若著故處；	Fourth, do not pull away the towel while others are wiping their hands, after finishing, hold it and return it to the owner or put it back in its original place;
+['ZH_T24_1471_001:0929a15_6']	五者已當澡手還著袈裟如法。	五者已當澡手還著袈裟如法。	Fifth, wash the hands and put on the kasaya robe as prescribed.
+['ZH_T24_1471_001:0929a15_13']	「布履有五事：	「布履有五事：	There are five things to do when putting on sandals:
+['ZH_T24_1471_001:0929a16_4']	一者當先抖擻去中所有；	一者當先抖擻去中所有；	First, shake them out to remove any contents;
+['ZH_T24_1471_001:0929a16_12']	二者當從上座起；	二者當從上座起；	Second, stand up from the upper seat;
+['ZH_T24_1471_001:0929a17_6']	三者當從澡盤後示主令自識；	三者當從澡盤後示主令自識；	Third, show them to the master after the washing basin to let them recognize them themselves;
+['ZH_T24_1471_001:0929a18_3']	四者不得持左著右，皆當下意沙彌。	四者不得持左著右，皆當下意沙彌。	Fourth, do not put the left one on the right, always lower the mind to the novice monks;
+['ZH_T24_1471_001:0929a18_17']	五者已竟當還澡手著袈裟如法。	五者已竟當還澡手著袈裟如法。	Fifth, after finishing, return to wash the hands and put on the kasaya robe as prescribed.
+['ZH_T24_1471_001:0929a19_6']	「沙彌澡鉢有七事：	「沙彌澡鉢有七事：	There are seven things to do when a novice monk washes his bowl:
+['ZH_T24_1471_001:0929a20_2']	一者鉢中有餘飯，不得便取棄之；	一者鉢中有餘飯，不得便取棄之；	First, if there is leftover rice in the bowl, do not immediately discard it;
+['ZH_T24_1471_001:0929a20_13']	二者欲棄中飯當著淨地；	二者欲棄中飯當著淨地；	Second, if you want to discard the rice, put it on a clean place;
+['ZH_T24_1471_001:0929a21_4']	三者當用澡豆若草葉；	三者當用澡豆若草葉；	Third, use bean dregs or grass leaves;
+['ZH_T24_1471_001:0929a21_18']	四者澡鉢不得於淨地當人道中；	四者澡鉢不得於淨地當人道中；	Fourth, do not wash the bowl on a clean ground or in the middle of the road;
+['ZH_T24_1471_001:0929a22_9']	五者澡鉢當使下有枝；	五者澡鉢當使下有枝；	Fifth, when washing the bowl, make sure there is a stand underneath;
+['ZH_T24_1471_001:0929a23_6']	六者當更益淨水，不得遠棄污湔人；	六者當更益淨水，不得遠棄污湔人；	Sixth, add more clean water, do not discard dirty water that has washed food on the ground, so as not to pollute it;
+['ZH_T24_1471_001:0929a24_8']	七者欲棄鉢中水，當去地四寸，不得使有高下。	七者欲棄鉢中水，當去地四寸，不得使有高下。	Seventh, when wanting to discard water from the bowl, pour it four inches away from the ground, do not let it be too high or too low.
+['ZH_T24_1471_001:0929a24_15']	「拭鉢有五事：	「拭鉢有五事：	There are five things to do when wiping the bowl:
+['ZH_T24_1471_001:0929a25_4']	一者當更澡手拭令燥；	一者當更澡手拭令燥；	First, wash your hands again and wipe them dry;
+['ZH_T24_1471_001:0929a25_15']	二者當持淨手巾著膝上；	二者當持淨手巾著膝上；	Second, take a clean towel and place it on your lap;
+['ZH_T24_1471_001:0929a26_4']	三者當拭裏使燥；	三者當拭裏使燥；	Third, wipe the inside and make it dry;
+['ZH_T24_1471_001:0929a26_17']	四者手已拭表，不復得拭裏；	四者手已拭表，不復得拭裏；	Fourth, after wiping the outside with your hand, do not wipe the inside again;
+['ZH_T24_1471_001:0929a27_19']	五者鉢已燥，即當持淨手巾并覆，著囊中安常處。	五者鉢已燥，即當持淨手巾并覆，著囊中安常處。	Fifth, when the bowl is dry, immediately cover it with a clean towel, place it in a bag, and put it back in its usual place.
+['ZH_T24_1471_001:0929a28_14']	「行會飯時教沙彌持鉢，有五事：	「行會飯時教沙彌持鉢，有五事：	When going to a gathering meal and instructing the novice to carry the bowl, there are five things:
+['ZH_T24_1471_001:0929a29_1']	一者不得置地；	一者不得置地；	First, do not place it on the ground;
+['ZH_T24_1471_001:0929a29_10']	二者不得累使有聲；	二者不得累使有聲；	Second, do not stack it making a sound;
+['ZH_T24_1471_001:0929b01_2']	三者不得持楊枝著鉢中；	三者不得持楊枝著鉢中；	Third, do not put a tooth cleaner in the bowl;
+['ZH_T24_1471_001:0929b02_1']	四者人來授案，不得持鉢榰著人案上；	四者人來授案，不得持鉢榰著人案上；	Fourth, when someone comes to offer food, do not lean the bowl on the person's table;
+['ZH_T24_1471_001:0929b03_13']	五者不得從人後授鉢，當正從前，亦不行眾中，視師飯已當起取鉢還坐。	五者不得從人後授鉢，當正從前，亦不行眾中，視師飯已當起取鉢還坐。	Fifth, do not follow behind others offering bowls, but should go straight in front, and also not walk in the crowd. When seeing that the teacher has finished eating, then stand up, take the bowl back, and sit down.
+['ZH_T24_1471_001:0929b03_19']	是為持鉢法。	是為持鉢法。	This is the method of holding the bowl.
+['ZH_T24_1471_001:0929b04_12']	「為師遣行答謝人，有七事：	「為師遣行答謝人，有七事：	When sent by the teacher to express gratitude to others, there are seven things:
+['ZH_T24_1471_001:0929b04_18']	一者當直往；	一者當直往；	First, go straight;
+['ZH_T24_1471_001:0929b05_3']	二者當直還；	二者當直還；	Second, return straight;
+['ZH_T24_1471_001:0929b05_18']	三者當識師所語，亦當識人報語；	三者當識師所語，亦當識人報語；	Third, remember what the teacher said and also remember what others say in reply;
+['ZH_T24_1471_001:0929b06_8']	四者不得妄有所過；	四者不得妄有所過；	Fourth, do not pass by anything without reason;
+['ZH_T24_1471_001:0929b07_1']	五者若所索不得止留宿；	五者若所索不得止留宿；	Fifth, if asked to stay overnight, do not stop;
+['ZH_T24_1471_001:0929b07_8']	六者不得調譺；	六者不得調譺；	Sixth, do not be frivolous;
+['ZH_T24_1471_001:0929b07_17']	七者出行當有法則。	七者出行當有法則。	Seventh, when going out, there should be rules.
+['ZH_T24_1471_001:0929b08_16']	「沙彌給比丘僧使未竟，不得妄入大沙門戶。	「沙彌給比丘僧使未竟，不得妄入大沙門戶。	A novice monk who is serving the monks and has not finished his duties, should not enter the room of a great monk without reason.
+['ZH_T24_1471_001:0929b09_3']	有三事得入：	有三事得入：	There are three things that allow entry:
+['ZH_T24_1471_001:0929b09_15']	一者若和上阿闍梨暫使往；	一者若和上阿闍梨暫使往；	First, if the preceptor or teacher temporarily sends one to go;
+['ZH_T24_1471_001:0929b10_4']	二者若倩有所取；	二者若倩有所取；	Second, if asked to take something;
+['ZH_T24_1471_001:0929b10_14']	三者欲往問經應得入。	三者欲往問經應得入。	Third, if one wishes to go and ask about the scriptures, one should be allowed to enter.
+['ZH_T24_1471_001:0929b11_4']	「欲入門戶有七事：	「欲入門戶有七事：	There are seven things to do when entering a door:
+['ZH_T24_1471_001:0929b11_14']	一者當三彈指乃得入；	一者當三彈指乃得入；	First, one should snap one's fingers three times before entering;
+['ZH_T24_1471_001:0929b12_10']	二者不得當人道住坐、若障火光；	二者不得當人道住坐、若障火光；	Second, one should not stand or sit in the way, blocking the light;
+['ZH_T24_1471_001:0929b12_19']	三者不得妄語他事；	三者不得妄語他事；	Third, one should not speak of other people's affairs falsely;
+['ZH_T24_1471_001:0929b13_8']	四者當叉手如法說；	四者當叉手如法說；	Fourth, one should cross one's hands and speak in accordance with the Dharma;
+['ZH_T24_1471_001:0929b13_18']	五者若教坐不得交脚；	五者若教坐不得交脚；	Fifth, if one is told to sit, one should not cross one's legs;
+['ZH_T24_1471_001:0929b14_6']	六者不得調譺；	六者不得調譺；	Sixth, one should not be frivolous;
+['ZH_T24_1471_001:0929b15_17']	七者不得障人先，欲出戶當向戶出，迴面向戶却行而出，不得背去。	七者不得障人先，欲出戶當向戶出，迴面向戶却行而出，不得背去。	Seventh, one should not block others. If one wishes to leave the door, one should face the door when turning around and walk backwards out, not leaving with one's back to the door.
+['ZH_T24_1471_001:0929b16_14']	「獨使沙彌遠出行，當教上頭，有三事：	「獨使沙彌遠出行，當教上頭，有三事：	When sending a novice monk far away on a journey alone, one should teach him the following three things:
+['ZH_T24_1471_001:0929b17_13']	一者彼人問卿和上名何等，便報言字某甲。	一者彼人問卿和上名何等，便報言字某甲。	First, if someone asks you, 'What is your preceptor's name?' you should reply, 'His name is so-and-so.'
+['ZH_T24_1471_001:0929b18_15']	二者復問卿和上作沙門來幾歲，便報言若干歲。	二者復問卿和上作沙門來幾歲，便報言若干歲。	Second, they may ask again, 'How many years has your preceptor been a monk?' you should reply, 'He has been a monk for so many years.'
+['ZH_T24_1471_001:0929b19_16']	三者復問卿和上是何許人，便報言某郡縣人。	三者復問卿和上是何許人，便報言某郡縣人。	Third, they may ask again, 'Where is your preceptor from?' you should reply, 'He is from such and such a prefecture.'
+['ZH_T24_1471_001:0929b20_16']	設復問卿阿闍梨名何等人，便報言字某甲。	設復問卿阿闍梨名何等人，便報言字某甲。	If they ask you again, 'What is the name of your Ācārya?', you should reply, 'His name is so-and-so.'
+['ZH_T24_1471_001:0929b21_14']	復問卿阿闍梨年幾許，便報言年若干。	復問卿阿闍梨年幾許，便報言年若干。	If they ask you again, 'How old is your Ācārya?', you should reply, 'He is so many years old.'
+['ZH_T24_1471_001:0929b22_15']	復問卿阿闍梨是何許人，便報言是某國縣人。	復問卿阿闍梨是何許人，便報言是某國縣人。	If they ask you again, 'Where is your Ācārya from?', you should reply, 'He is from such-and-such a country and prefecture.'
+['ZH_T24_1471_001:0929b23_13']	若復問賢者名何等字，便報言字某甲。	若復問賢者名何等字，便報言字某甲。	If they ask you again, 'What is the name of the virtuous one?', you should reply, 'His name is so-and-so.'
+['ZH_T24_1471_001:0929b25_3']	復問卿作沙彌已來幾時，便報言若干歲若干月若干日若干時。	復問卿作沙彌已來幾時，便報言若干歲若干月若干日若干時。	If they ask you again, 'How long have you been a novice?', you should reply, 'For so many years, so many months, so many days, and so many hours.'
+['ZH_T24_1471_001:0929b26_4']	是為知和上、阿闍梨亦自知時名字歲日月數。	是為知和上、阿闍梨亦自知時名字歲日月數。	This is knowing the Upādhyāya and Ācārya and also knowing the time, name, and age by year, month, and day.
+['ZH_T24_1471_001:0929b26_12']	「入浴室有五事：	「入浴室有五事：	There are five things when entering the bathhouse:
+['ZH_T24_1471_001:0929b26_18']	一者低頭入；	一者低頭入；	First, enter with your head down;
+['ZH_T24_1471_001:0929b27_6']	二者入當避上座處；	二者入當避上座處；	Second, when entering, avoid the place of the senior monk;
+['ZH_T24_1471_001:0929b27_18']	三者上座讀經時不得狂語；	三者上座讀經時不得狂語；	Third, when the senior monk is reading the sūtra, do not speak recklessly;
+['ZH_T24_1471_001:0929b28_9']	四者不得以水互相澆；	四者不得以水互相澆；	Fourth, do not pour water on each other;
+['ZH_T24_1471_001:0929b29_1']	五者不得以水澆火滅。	五者不得以水澆火滅。	Fifth, do not pour water on the fire to extinguish it.
+['ZH_T24_1471_001:0929b29_7']	「復有五事：	「復有五事：	There are five more things:
+['ZH_T24_1471_001:0929b29_14']	一者不得調譺；	一者不得調譺；	First, do not be frivolous;
+['ZH_T24_1471_001:0929c01_2']	二者不得破中瓫㼜；	二者不得破中瓫㼜；	Second, do not break the basin or jar;
+['ZH_T24_1471_001:0929c01_11']	三者用水不得大費；	三者用水不得大費；	Third, do not waste too much water;
+['ZH_T24_1471_001:0929c02_4']	四者不得潘中澡豆麻油；	四者不得潘中澡豆麻油；	Fourth, do not use soap or sesame oil in the water;
+['ZH_T24_1471_001:0929c02_17']	五者當疾出去不得止中浣衣。	五者當疾出去不得止中浣衣。	Fifth, leave quickly and do not stop to wash clothes in the middle.
+['ZH_T24_1471_001:0929c03_9']	「沙彌至舍後行，有十事：	「沙彌至舍後行，有十事：	There are ten things to do when a novice goes to the back of the house:
+['ZH_T24_1471_001:0929c03_19']	一者欲大小便即當行；	一者欲大小便即當行；	First, if you need to defecate or urinate, go immediately;
+['ZH_T24_1471_001:0929c04_9']	二者行不得左右顧視；	二者行不得左右顧視；	Second, do not look around while walking;
+['ZH_T24_1471_001:0929c04_17']	三者至當三彈指；	三者至當三彈指；	Third, when arriving, snap your fingers three times;
+['ZH_T24_1471_001:0929c05_9']	四者不得迫促中人使出；	四者不得迫促中人使出；	Fourth, do not force others to leave;
+['ZH_T24_1471_001:0929c06_1']	五者已至上復三彈指；	五者已至上復三彈指；	Fifth, when arriving, snap your fingers three times again;
+['ZH_T24_1471_001:0929c06_8']	六者不得大咽；	六者不得大咽；	Sixth, do not swallow loudly;
+['ZH_T24_1471_001:0929c06_17']	七者不得低頭視陰；	七者不得低頭視陰；	Seventh, do not lower your head to look at the genitals;
+['ZH_T24_1471_001:0929c07_6']	八者不得弄上灰土；	八者不得弄上灰土；	Eighth, do not play with the ash on top;
+['ZH_T24_1471_001:0929c07_15']	九者不得持水澆壁；	九者不得持水澆壁；	Ninth, do not pour water on the walls;
+['ZH_T24_1471_001:0929c08_12']	十者已還當澡手，未澡手不應持物。	十者已還當澡手，未澡手不應持物。	Tenth, after returning, wash your hands. Do not touch things without washing your hands.
+['ZH_T24_1471_001:0929c09_5']	「復有五事：	「復有五事：	There are five more things:
+['ZH_T24_1471_001:0929c09_14']	一者不得正唾前壁；	一者不得正唾前壁；	First, do not spit directly on the front wall;
+['ZH_T24_1471_001:0929c10_4']	二者不得左右顧視望；	二者不得左右顧視望；	Second, do not look around to the left and right;
+['ZH_T24_1471_001:0929c10_14']	三者不得持草畫壁地；	三者不得持草畫壁地；	Third, do not use grass to draw on walls or the ground;
+['ZH_T24_1471_001:0929c11_7']	四者不得持火㷮畫地及壁；	四者不得持火㷮畫地及壁；	Fourth, do not use fire sticks to draw on the ground or walls;
+['ZH_T24_1471_001:0929c11_17']	五者不得久固圊廁上。	五者不得久固圊廁上。	Fifth, do not stay in the latrine for too long.
+['ZH_T24_1471_001:0929c12_18']	當自下去，設當逢人不得為作禮，當避道去。	當自下去，設當逢人不得為作禮，當避道去。	You should leave on your own. If you encounter someone, do not bow to them, but should avoid the path and go around.
+['ZH_T24_1471_001:0929c13_7']	」說沙彌威儀式竟。	」說沙彌威儀式竟。	Having finished speaking the rules of deportment for novice monks,
+['ZH_T24_1471_001:0929c14_13']	沙彌七十二威儀，總有十四事。	沙彌七十二威儀，總有十四事。	The seventy-two rules of deportment for novice monks have a total of fourteen matters.
+['ZH_T24_1471_001:0929c15_3']	師與語：	師與語：	The teacher speaks to you:
+['ZH_T24_1471_001:0929c15_7']	有二事：	有二事：	There are two matters:
+['ZH_T24_1471_001:0929c15_14']	一者不得報語；	一者不得報語；	First, do not respond in words;
+['ZH_T24_1471_001:0929c16_1']	二者不得自理。	二者不得自理。	Second, do not reason with yourself.
+['ZH_T24_1471_001:0929c17_10']	沙彌為師作禮，有十事：	沙彌為師作禮，有十事：	There are ten matters for a novice monk to bow to the teacher:
+['ZH_T24_1471_001:0929c18_3', 'ZH_T24_1471_001:0929c18_13']	一者師頭前有盤不應作禮；🔽二者師坐禪不應作禮；	一者師頭前有盤不應作禮； 二者師坐禪不應作禮；	First, if there is a bowl in front of the teacher's head, do not bow;🔽Second, if the teacher is sitting in meditation, do not bow;
+['ZH_T24_1471_001:0929c19_4']	三者師經行不應作禮；	三者師經行不應作禮；	Third, if the teacher is walking, do not bow;
+['ZH_T24_1471_001:0929c19_13']	四者師食不應作禮；	四者師食不應作禮；	Fourth, if the teacher is eating, do not bow;
+['ZH_T24_1471_001:0929c20_4']	五者師說經不應作禮；	五者師說經不應作禮；	Fifth, if the teacher is expounding the sūtras, do not bow;
+['ZH_T24_1471_001:0929c20_18']	六者與師相逢，左面不應作禮；	六者與師相逢，左面不應作禮；	Sixth, when meeting the teacher, do not bow with the left side;
+['ZH_T24_1471_001:0929c21_8']	七者師梳齒不應作禮；	七者師梳齒不應作禮；	Seventh, when the teacher is combing his teeth, do not bow;
+['ZH_T24_1471_001:0929c22_9']	八者欲入戶作禮，應彈指三返，師不應應去；	八者欲入戶作禮，應彈指三返，師不應應去；	Eighth, when wanting to enter the door to bow, snap your fingers three times. If the teacher does not respond, leave;
+['ZH_T24_1471_001:0929c22_18']	九者不得離師七步；	九者不得離師七步；	Ninth, do not leave the teacher more than seven steps;
+['ZH_T24_1471_001:0929c23_7']	十者師戶開應作禮。	十者師戶開應作禮。	Tenth, when the teacher's door opens, bow.
+['ZH_T24_1471_001:0929c23_16']	早起入戶，有五事：	早起入戶，有五事：	There are five things to do when getting up early and entering the room:
+['ZH_T24_1471_001:0929c24_3']	一者整理衣被；	一者整理衣被；	First, tidy up the bedding;
+['ZH_T24_1471_001:0929c24_8']	二者出甌；	二者出甌；	Second, take out the bowl;
+['ZH_T24_1471_001:0929c24_13']	三者掃地；	三者掃地；	Third, sweep the floor;
+['ZH_T24_1471_001:0929c24_18']	四者問經；	四者問經；	Fourth, ask about the sūtras;
+['ZH_T24_1471_001:0929c25_2']	五者與物。	五者與物。	Fifth, offer things.
+['ZH_T24_1471_001:0929c25_10']	襞三衣，有五事：	襞三衣，有五事：	There are five things to do when folding the three robes:
+['ZH_T24_1471_001:0929c25_17']	一者不得當前；	一者不得當前；	First, do not do it in front;
+['ZH_T24_1471_001:0929c26_3']	二者當於左面；	二者當於左面；	Second, do it on the left side;
+['ZH_T24_1471_001:0929c26_11']	三者當識衣表裏；	三者當識衣表裏；	Third, know the inside and outside of the robes;
+['ZH_T24_1471_001:0929c26_18']	四者不得倒襞；	四者不得倒襞；	Fourth, do not fold them upside down;
+['ZH_T24_1471_001:0929c27_6']	五者當置常處。	五者當置常處。	Fifth, put them in the usual place.
+['ZH_T24_1471_001:0929c27_14', 'ZH_T24_1471_001:0929c28_3']	隨師行，有五事：🔽一者不得過歷人家；	隨師行，有五事： 一者不得過歷人家；	There are five things to do when following the teacher:🔽First, do not pass by people's houses;
+['ZH_T24_1471_001:0929c28_15']	二者不得止住道與人共語；	二者不得止住道與人共語；	Second, do not stop on the road to talk with people;
+['ZH_T24_1471_001:0929c29_5']	三者不得左右顧視；	三者不得左右顧視；	Third, do not look around to the left and right;
+['ZH_T24_1471_001:0929c29_14']	四者當低頭隨師後；	四者當低頭隨師後；	Fourth, lower your head and follow the teacher behind;
+['ZH_T24_1471_001:0930a01_11']	五者到檀越家當住一面，師教應坐。	五者到檀越家當住一面，師教應坐。	Fifth, when arriving at the donor's house, stand to one side. If the teacher instructs you to sit,
+['ZH_T24_1471_001:0930a02_8', 'ZH_T24_1471_001:0930a02_15']	給師所須，有五事：🔽一者當得楊枝；	給師所須，有五事： 一者當得楊枝；	There are five things to provide for the teacher:🔽First, you should obtain a willow branch;
+['ZH_T24_1471_001:0930a03_2']	二者當得澡豆；	二者當得澡豆；	Second, you should obtain bath beans;
+['ZH_T24_1471_001:0930a03_9']	三者不得宿水；	三者不得宿水；	Third, do not use overnight water;
+['ZH_T24_1471_001:0930a03_15']	四者當更汲；	四者當更汲；	Fourth, you should draw new water;
+['ZH_T24_1471_001:0930a04_4']	五者手巾用應浣淨。	五者手巾用應浣淨。	Fifth, the used towel should be washed.
+['ZH_T24_1471_001:0930a04_11']	沙彌洗有五事：	沙彌洗有五事：	There are five things to consider when washing as a novice monk:
+['ZH_T24_1471_001:0930a04_18', 'ZH_T24_1471_001:0930a05_7']	一者不得向塔；🔽二者不得向和上；	一者不得向塔； 二者不得向和上；	First, do not face the pagoda;🔽Second, do not face the preceptor;
+['ZH_T24_1471_001:0930a05_16']	三者不得向阿闍梨；	三者不得向阿闍梨；	Third, do not face the instructor;
+['ZH_T24_1471_001:0930a06_4']	四者當於屏處；	四者當於屏處；	Fourth, do it in a secluded place;
+['ZH_T24_1471_001:0930a07_1']	五者當自取水，不得取他人成事水。	五者當自取水，不得取他人成事水。	Fifth, take the water yourself, do not use the water used by others for other purposes.
+['ZH_T24_1471_001:0930a07_9']	暮入戶，有五事：	暮入戶，有五事：	There are five things to do when entering the room in the evening:
+['ZH_T24_1471_001:0930a07_16']	一者當掃除床；	一者當掃除床；	First, sweep the bed;
+['ZH_T24_1471_001:0930a08_2']	二者當理衣被；	二者當理衣被；	Second, arrange the bedding;
+['ZH_T24_1471_001:0930a08_8']	三者當內甌；	三者當內甌；	Third, put away the bowl;
+['ZH_T24_1471_001:0930a08_14']	四者當然燈；	四者當然燈；	Fourth, light the lamp;
+['ZH_T24_1471_001:0930a09_2']	五者教臥應去；	五者教臥應去；	Fifth, if instructed to sleep, leave.
+['ZH_T24_1471_001:0930a09_11']	出者當背向牽戶閉。	出者當背向牽戶閉。	When leaving, one should pull the door closed with one's back to it.
+['ZH_T24_1471_001:0930a10_3']	沙彌從師受經，有五事：	沙彌從師受經，有五事：	There are five things for a novice to receive the sūtras from the teacher:
+['ZH_T24_1471_001:0930a10_9']	一者整衣服；	一者整衣服；	First, arrange the robes;
+['ZH_T24_1471_001:0930a10_17']	二者當叉手作禮；	二者當叉手作禮；	Second, join palms and bow;
+['ZH_T24_1471_001:0930a11_4']	三者不得前却；	三者不得前却；	Third, do not step back;
+['ZH_T24_1471_001:0930a11_11']	四者兩足當齊；	四者兩足當齊；	Fourth, the two feet should be even;
+['ZH_T24_1471_001:0930a11_17']	五者當小僂。	五者當小僂。	Fifth, slightly bend.
+['ZH_T24_1471_001:0930a12_9']	沙彌授師三衣，有五事：	沙彌授師三衣，有五事：	There are five things for a novice to give the three robes to the teacher:
+['ZH_T24_1471_001:0930a12_15', 'ZH_T24_1471_001:0930a13_3']	一者當洗手；🔽二者當與安陀衛；	一者當洗手； 二者當與安陀衛；	First, wash the hands;🔽Second, give the anḍavāsa;
+['ZH_T24_1471_001:0930a13_12']	三者當與憂多羅僧；	三者當與憂多羅僧；	Third, give the uttarāsaṅga;
+['ZH_T24_1471_001:0930a14_2']	四者當與僧伽梨；	四者當與僧伽梨；	Fourth, give the saṅghāṭī;
+['ZH_T24_1471_001:0930a14_9']	五者當與手巾。	五者當與手巾。	Fifth, give the hand towel.
+['ZH_T24_1471_001:0930a14_18']	沙彌洗鉢，有五事：	沙彌洗鉢，有五事：	There are five things for a novice to wash the alms bowl:
+['ZH_T24_1471_001:0930a15_6']	一者當得牛糞灰；	一者當得牛糞灰；	First, get cow dung ash;
+['ZH_T24_1471_001:0930a15_13']	二者當得澡豆；	二者當得澡豆；	Second, get soap beans;
+['ZH_T24_1471_001:0930a16_1']	三者去地七寸；	三者去地七寸；	Third, be seven inches off the ground;
+['ZH_T24_1471_001:0930a17_1']	四者不得有聲，三易水，欲捐水不得灑地；	四者不得有聲，三易水，欲捐水不得灑地；	Fourth, do not make noise, change the water three times, do not sprinkle water on the ground when discarding water;
+['ZH_T24_1471_001:0930a17_7']	五者當令燥。	五者當令燥。	Fifth, let it dry.
+['ZH_T24_1471_001:0930a17_16']	沙彌掃地，有五事：	沙彌掃地，有五事：	There are five things for a novice to sweep the ground:
+['ZH_T24_1471_001:0930a18_2']	一者不得背師；	一者不得背師；	First, do not turn your back on the teacher;
+['ZH_T24_1471_001:0930a18_9']	二者不得逆掃；	二者不得逆掃；	Second, do not sweep against the grain;
+['ZH_T24_1471_001:0930a18_15']	三者當令淨；	三者當令淨；	Third, make sure it is clean;
+['ZH_T24_1471_001:0930a19_2']	四者不得有跡；	四者不得有跡；	Fourth, do not leave any traces;
+['ZH_T24_1471_001:0930a19_10']	五者當即時棄却。	五者當即時棄却。	Fifth, discard it immediately.
+['ZH_T24_1471_001:0930a20_3', 'ZH_T24_1471_001:0930a20_9']	沙彌隨師至檀越家，有五事：🔽一者當持鉢；	沙彌隨師至檀越家，有五事： 一者當持鉢；	There are five things a novice monk should do when following his teacher to a layperson's home:🔽First, hold the alms bowl;
+['ZH_T24_1471_001:0930a20_16']	二者當持手巾；	二者當持手巾；	Second, hold a towel;
+['ZH_T24_1471_001:0930a21_3']	三者當搏戶；	三者當搏戶；	Third, knock on the door;
+['ZH_T24_1471_001:0930a21_15']	四者到檀越家索淨水洗鉢；	四者到檀越家索淨水洗鉢；	Fourth, when arriving at the layperson's home, ask for clean water to wash the bowl;
+['ZH_T24_1471_001:0930a22_16']	五者師坐，捉手巾鉢授與師，乃應還自坐。	五者師坐，捉手巾鉢授與師，乃應還自坐。	Fifth, when the teacher sits, take the towel and bowl and offer them to the teacher, then sit down yourself.
+['ZH_T24_1471_001:0930a23_6']	沙彌入浴室，有五事：	沙彌入浴室，有五事：	There are five things to do when a novice monk enters the bathhouse:
+['ZH_T24_1471_001:0930a23_14']	一者不得先師入；	一者不得先師入；	First, do not enter before the teacher;
+['ZH_T24_1471_001:0930a24_2']	二者不得在坐前；	二者不得在坐前；	Second, do not sit in front of the teacher;
+['ZH_T24_1471_001:0930a24_12']	三者師未獲水不得動；	三者師未獲水不得動；	Third, do not move if the teacher has not yet obtained water;
+['ZH_T24_1471_001:0930a25_4']	四者設欲揩背先當擬之；	四者設欲揩背先當擬之；	Fourth, if you wish to massage the back, first inform the teacher;
+['ZH_T24_1471_001:0930a25_15']	五者浴已當先取可著衣。	五者浴已當先取可著衣。	Fifth, after bathing, first take the robe to put on.
+['ZH_T24_1471_001:0930a26_17']	沙彌禮節威儀，又朝晡問訊禮敬，有十三事：	沙彌禮節威儀，又朝晡問訊禮敬，有十三事：	There are thirteen things to do regarding the novice monk's etiquette and deportment, as well as the morning and evening greetings and reverence:
+['ZH_T24_1471_001:0930a27_5']	一者當早起澡漱；	一者當早起澡漱；	First, get up early and wash;
+['ZH_T24_1471_001:0930a27_13']	二者當整頓衣服；	二者當整頓衣服；	Second, one should arrange one's robes;
+['ZH_T24_1471_001:0930a28_1']	三者問訊起居；	三者問訊起居；	Third, one should inquire about one's well-being;
+['ZH_T24_1471_001:0930a29_7']	四者師若在內欲進之法，當先脫頭上所著物及足所著物；	四者師若在內欲進之法，當先脫頭上所著物及足所著物；	Fourth, if the teacher is inside and one wishes to approach, one should first remove the things worn on the head and feet;
+['ZH_T24_1471_001:0930a29_14']	五者不得躡跡；	五者不得躡跡；	Fifth, one should not step on the teacher's shadow;
+['ZH_T24_1471_001:0930b01_11']	六者當住外立三彈指，呼前乃進入；	六者當住外立三彈指，呼前乃進入；	Sixth, one should stand outside, snap one's fingers three times, call out, and then enter;
+['ZH_T24_1471_001:0930b02_4']	七者當頭面著地稽首為禮；	七者當頭面著地稽首為禮；	Seventh, one should touch one's forehead to the ground and bow in respect;
+['ZH_T24_1471_001:0930b02_16']	八者若命令坐，三讓乃坐；	八者若命令坐，三讓乃坐；	Eighth, if ordered to sit, one should sit after three refusals;
+['ZH_T24_1471_001:0930b03_3']	九者坐必端嚴；	九者坐必端嚴；	Ninth, one's sitting must be dignified;
+['ZH_T24_1471_001:0930b03_15']	十者有問即對，應聲分明；	十者有問即對，應聲分明；	Tenth, if asked a question, one should respond clearly and distinctly;
+['ZH_T24_1471_001:0930b04_3', 'ZH_T24_1471_001:0930b04_16']	十一者無云即默；🔽十二者事必宜退，稽首如初；	十一者無云即默； 十二者事必宜退，稽首如初；	Eleventh, if one has nothing to say, one should remain silent;🔽Twelfth, if one must withdraw, one should bow as before;
+['ZH_T24_1471_001:0930b05_12']	十三者欲出戶時，當迴身還向去。	十三者欲出戶時，當迴身還向去。	Thirteenth, when wishing to leave the room, one should turn one's body back to the direction one came from.
+['ZH_T24_1471_001:0930b06_6']	沙彌又持師澡罐，有十五事：	沙彌又持師澡罐，有十五事：	When a novice attendant holds the teacher's washbasin, there are fifteen rules:
+['ZH_T24_1471_001:0930b06_13']	一者淨洗澡瓶；	一者淨洗澡瓶；	First, one should clean the washbasin;
+['ZH_T24_1471_001:0930b07_1']	二者當有常處；	二者當有常處；	Second, it should have a fixed place;
+['ZH_T24_1471_001:0930b07_10']	三者當令淨水滿器；	三者當令淨水滿器；	Third, it should be filled with clean water;
+['ZH_T24_1471_001:0930b07_17']	四者不得宿水；	四者不得宿水；	Fourth, do not use water that has been left overnight;
+['ZH_T24_1471_001:0930b08_4']	五者豫具楊枝；	五者豫具楊枝；	Fifth, prepare toothpicks in advance;
+['ZH_T24_1471_001:0930b08_14']	六者治楊枝當令如法；	六者治楊枝當令如法；	Sixth, when cleaning the toothpicks, make sure they are in accordance with the rules;
+['ZH_T24_1471_001:0930b09_4']	七者澡瓶去膝一尺；	七者澡瓶去膝一尺；	Seventh, the washbasin should be one foot away from the knees;
+['ZH_T24_1471_001:0930b10_1']	八者執澡瓶，當左手持上、右手捧下；	八者執澡瓶，當左手持上、右手捧下；	Eighth, when holding the washbasin, hold the top with the left hand and the bottom with the right hand;
+['ZH_T24_1471_001:0930b10_13']	九者瀉水調適當得其多少；	九者瀉水調適當得其多少；	Ninth, pour out the water appropriately, making sure to get the right amount;
+['ZH_T24_1471_001:0930b11_2']	十者不得令有聲；	十者不得令有聲；	Tenth, do not make any noise;
+['ZH_T24_1471_001:0930b11_12']	十一者手巾必有常處；	十一者手巾必有常處；	Eleventh, the towel should always be in a fixed place;
+['ZH_T24_1471_001:0930b12_9']	十二者持巾，左執其手巾、右以授師；	十二者持巾，左執其手巾、右以授師；	Twelfth, when holding the towel, hold the towel with the left hand and offer it to the teacher with the right hand;
+['ZH_T24_1471_001:0930b13_2']	十三者棄不淨水當有常處；	十三者棄不淨水當有常處；	Thirteenth, when discarding the dirty water, there should always be a fixed place;
+['ZH_T24_1471_001:0930b13_12']	十四者無令澆灒淨地；	十四者無令澆灒淨地；	Fourteenth, do not splash the clean ground;
+['ZH_T24_1471_001:0930b14_4']	十五者用巾已當復常處。	十五者用巾已當復常處。	Fifteenth, after using the towel, it should be returned to its usual place.
+['ZH_T24_1471_001:0930b14_15']	又灑掃拂拭床，有八事：	又灑掃拂拭床，有八事：	There are also eight things to keep in mind when sprinkling, sweeping, dusting, and arranging the bed:
+['ZH_T24_1471_001:0930b15_2']	一者常向於尊；	一者常向於尊；	First, always face the honored ones;
+['ZH_T24_1471_001:0930b15_8', 'ZH_T24_1471_001:0930b16_1']	二者不得背；🔽三者灑地當輕手裁水多少；	二者不得背； 三者灑地當輕手裁水多少；	Second, do not turn your back;🔽Third, when sprinkling the ground, use a light hand and control the amount of water;
+['ZH_T24_1471_001:0930b16_11']	四者用糞箕當以自向；	四者用糞箕當以自向；	Fourth, when using a broom, face it yourself;
+['ZH_T24_1471_001:0930b17_1']	五者棄糞當有常處；	五者棄糞當有常處；	Fifth, the excrement should always be in a fixed place;
+['ZH_T24_1471_001:0930b17_8']	六者掃拭床席；	六者掃拭床席；	Sixth, sweep and wipe the bed and seat;
+['ZH_T24_1471_001:0930b17_15']	七者襞衣被枕；	七者襞衣被枕；	Seventh, fold the bedding and pillow;
+['ZH_T24_1471_001:0930b18_5']	八者掃拭床不令有聲。	八者掃拭床不令有聲。	Eighth, sweep and wipe the bed without making noise.
+['ZH_T24_1471_001:0930b18_15']	又持師食，有十四事：	又持師食，有十四事：	Moreover, there are fourteen things to keep in mind when serving the teacher's food:
+['ZH_T24_1471_001:0930b19_2']	一者當具淨巾；	一者當具淨巾；	First, one should be equipped with a clean towel;
+['ZH_T24_1471_001:0930b19_16']	二者所欲進食，皆當兩手捧下；	二者所欲進食，皆當兩手捧下；	Second, when serving food, one should hold the bowl with both hands;
+['ZH_T24_1471_001:0930b20_2']	三者當直進；	三者當直進；	Third, one should serve directly;
+['ZH_T24_1471_001:0930b20_9']	四者跪以授師；	四者跪以授師；	Fourth, kneel and offer to the teacher;
+['ZH_T24_1471_001:0930b21_1']	五者不得道中與人言笑；	五者不得道中與人言笑；	Fifth, do not speak or laugh with people on the way;
+['ZH_T24_1471_001:0930b21_10']	六者進食不得有聲；	六者進食不得有聲；	Sixth, when serving food, do not make any noise;
+['ZH_T24_1471_001:0930b22_4']	七者凡所進飲食當適其寒溫；	七者凡所進飲食當適其寒溫；	Seventh, the food and drink served should be of appropriate temperature;
+['ZH_T24_1471_001:0930b22_13']	八者匙櫡當令淨潔；	八者匙櫡當令淨潔；	Eighth, the spoon and chopsticks should be kept clean;
+['ZH_T24_1471_001:0930b23_5']	九者若有所益必令調均；	九者若有所益必令調均；	Ninth, if there is anything to be added, it must be balanced;
+['ZH_T24_1471_001:0930b23_13']	十者住必有常處；	十者住必有常處；	Tenth, one should always stay in a fixed place;
+['ZH_T24_1471_001:0930b24_1']	十一者宜端嚴；	十一者宜端嚴；	Eleventh, one should be dignified;
+['ZH_T24_1471_001:0930b24_13']	十二者食畢斂器務令徐徐；	十二者食畢斂器務令徐徐；	Twelfth, when the meal is finished and the utensils are to be collected, one should do so slowly;
+['ZH_T24_1471_001:0930b25_2']	十三者隨次所舉；	十三者隨次所舉；	Thirteenth, collect them in the order they were used;
+['ZH_T24_1471_001:0930b25_14']	十四者掃灑澡器一如常法。	十四者掃灑澡器一如常法。	Fourteenth, wash the utensils as usual.
+['ZH_T24_1471_001:0930b26_6']	又取法衣及履，有十事：	又取法衣及履，有十事：	There are ten more rules for taking the Dharma robes and shoes:
+['ZH_T24_1471_001:0930b26_19']	一者當左執其上、右執其下；	一者當左執其上、右執其下；	First, hold the top with the left hand and the bottom with the right hand;
+['ZH_T24_1471_001:0930b27_6']	二者當跪以授師；	二者當跪以授師；	Second, kneel and offer them to the teacher;
+['ZH_T24_1471_001:0930b28_1']	三者當襞袈裟，不得以口銜之；	三者當襞袈裟，不得以口銜之；	Third, fold the kaṣāya, do not bite it with your mouth;
+['ZH_T24_1471_001:0930b28_10']	四者不得振令有聲；	四者不得振令有聲；	Fourth, do not shake it to make a sound;
+['ZH_T24_1471_001:0930b28_18']	五者還復其常處；	五者還復其常處；	Fifth, return it to its usual place;
+['ZH_T24_1471_001:0930b29_5']	六者以巾覆上；	六者以巾覆上；	Sixth, cover it with a cloth;
+['ZH_T24_1471_001:0930b29_15']	七者取履當先抖擻之；	七者取履當先抖擻之；	Seventh, when taking the shoes, shake them first;
+['ZH_T24_1471_001:0930c01_5']	八者不得使有大聲；	八者不得使有大聲；	Eighth, do not make a loud noise;
+['ZH_T24_1471_001:0930c01_14']	九者著地當令端正；	九者著地當令端正；	Ninth, when placing them on the ground, make them neat and proper;
+['ZH_T24_1471_001:0930c02_4']	十者還當復其常處。	十者還當復其常處。	Tenth, return them to their usual place.
+['ZH_T24_1471_001:0930c02_16']	若取應器及澡瓶，有八事：	若取應器及澡瓶，有八事：	If taking the alms bowl and water bottle, there are eight rules:
+['ZH_T24_1471_001:0930c03_5']	一者先摩拭令淨；	一者先摩拭令淨；	First, wipe them clean first;
+['ZH_T24_1471_001:0930c03_14']	二者當兩手捧其下；	二者當兩手捧其下；	Second, support the bottom with both hands;
+['ZH_T24_1471_001:0930c04_2']	三者跪取師鉢；	三者跪取師鉢；	Third, kneel and take the teacher's bowl;
+['ZH_T24_1471_001:0930c04_12']	四者洗當用皂莢豆末；	四者洗當用皂莢豆末；	Fourth, when washing, use soap nuts and bean dregs;
+['ZH_T24_1471_001:0930c05_2']	五者畢令於手中燥；	五者畢令於手中燥；	Fifth, make sure they are dry in the hands;
+['ZH_T24_1471_001:0930c05_15']	六者有急事當行，宜著日中；	六者有急事當行，宜著日中；	Sixth, if there is an urgent matter to attend to, place them in the sun;
+['ZH_T24_1471_001:0930c06_4']	七者若向火令其燥；	七者若向火令其燥；	Seventh, if it is wet, dry it by the fire;
+['ZH_T24_1471_001:0930c06_13']	八者畢令復其常處。	八者畢令復其常處。	Eighth, return it to its original place.
+['ZH_T24_1471_001:0930c07_2']	若取錫杖，有七事：	若取錫杖，有七事：	If you take the tin staff, there are seven things:
+['ZH_T24_1471_001:0930c07_10']	一者當掃拭令淨；	一者當掃拭令淨；	First, sweep and wipe it clean;
+['ZH_T24_1471_001:0930c07_18']	二者不得下拄地；	二者不得下拄地；	Second, do not place it on the ground;
+['ZH_T24_1471_001:0930c08_8']	三者不得以有所指擬；	三者不得以有所指擬；	Third, do not point it at anything;
+['ZH_T24_1471_001:0930c08_15']	四者無使有聲；	四者無使有聲；	Fourth, do not make any noise;
+['ZH_T24_1471_001:0930c09_4']	五者當兩手捧之；	五者當兩手捧之；	Fifth, hold it with both hands;
+['ZH_T24_1471_001:0930c09_12']	六者當跪以授師；	六者當跪以授師；	Sixth, kneel and offer it to the teacher;
+['ZH_T24_1471_001:0930c10_2']	七者畢還復常處。	七者畢還復常處。	Seventh, return it to its original place.
+['ZH_T24_1471_001:0930c11_2']	又侍師沐浴剃頭朝當著法衣，有十二事：	又侍師沐浴剃頭朝當著法衣，有十二事：	Also, when serving the teacher in bathing and shaving, and in the morning wearing the Dharma robes, there are twelve things:
+['ZH_T24_1471_001:0930c11_13']	一者務當恭敬執所宜作；	一者務當恭敬執所宜作；	First, be respectful and do what is appropriate;
+['ZH_T24_1471_001:0930c12_1']	二者隨時寒溫；	二者隨時寒溫；	Second, adjust to the temperature;
+['ZH_T24_1471_001:0930c12_8']	三者拂除浴室；	三者拂除浴室；	Third, sweep the bathhouse;
+['ZH_T24_1471_001:0930c12_15']	四者具淨湯水；	四者具淨湯水；	Fourth, prepare clean water;
+['ZH_T24_1471_001:0930c13_8']	五者當先具皂莢澡豆及麻油；	五者當先具皂莢澡豆及麻油；	Fifth, first prepare soap nuts, bath powder, and sesame oil;
+['ZH_T24_1471_001:0930c13_16']	六者豫取淨手巾；	六者豫取淨手巾；	Sixth, take a clean towel in advance;
+['ZH_T24_1471_001:0930c14_4']	七者寒具爐火；	七者寒具爐火；	Seventh, prepare a stove and fire for cold weather;
+['ZH_T24_1471_001:0930c14_16']	八者當端住於外無令人入；	八者當端住於外無令人入；	Eighth, stand outside the door and do not let anyone enter;
+['ZH_T24_1471_001:0930c15_8']	九者若去髮必令有常處；	九者若去髮必令有常處；	Ninth, when removing hair, it must be done in a regular place;
+['ZH_T24_1471_001:0930c16_1']	十者若曝法衣當待乾燥；	十者若曝法衣當待乾燥；	Tenth, when drying Dharma robes, one must wait until they are completely dry;
+['ZH_T24_1471_001:0930c16_19']	十一者急事行，當有所付，不得使忘去；	十一者急事行，當有所付，不得使忘去；	Eleventh, when going out on urgent business, one must entrust [the duties] to someone else, not forgetting to leave;
+['ZH_T24_1471_001:0930c17_10']	十二者執事必宜復其常處。	十二者執事必宜復其常處。	Twelfth, when taking on duties, one must return them to their usual place.
+['ZH_T24_1471_001:0930c18_2']	又持香賦花，有七事：	又持香賦花，有七事：	There are seven things to keep in mind when handling incense and flowers:
+['ZH_T24_1471_001:0930c18_10']	一者當淨拭香爐；	一者當淨拭香爐；	First, one should wipe the incense burner clean;
+['ZH_T24_1471_001:0930c18_18']	二者當捨去宿花；	二者當捨去宿花；	Second, one should remove the old flowers;
+['ZH_T24_1471_001:0930c19_6']	三者當裁火多少；	三者當裁火多少；	Third, one should adjust the amount of firewood;
+['ZH_T24_1471_001:0930c19_16']	四者賦香花從上座始；	四者賦香花從上座始；	Fourth, when offering incense and flowers, one should start from the highest seat;
+['ZH_T24_1471_001:0930c20_8']	五者賦香時手相離五寸；	五者賦香時手相離五寸；	Fifth, when offering incense, one's hands should be five inches apart;
+['ZH_T24_1471_001:0930c20_18']	六者執香爐無以自薰；	六者執香爐無以自薰；	Sixth, when holding the incense burner, one should not let the smoke drift towards oneself;
+['ZH_T24_1471_001:0930c21_8']	七者畢竟當著常處。	七者畢竟當著常處。	Seventh, one should finally place [the incense and flowers] in their usual place.
+['ZH_T24_1471_001:0930c21_16']	又然燈，有八事：	又然燈，有八事：	There are eight things to keep in mind when lighting lamps:
+['ZH_T24_1471_001:0930c22_2']	一者去故炷；	一者去故炷；	First, remove the old wicks;
+['ZH_T24_1471_001:0930c22_11']	二者梳洗燈爐令淨；	二者梳洗燈爐令淨；	Second, wash and clean the lamp bowls;
+['ZH_T24_1471_001:0930c22_19']	三者當調適盛油；	三者當調適盛油；	Third, adjust the amount of oil;
+['ZH_T24_1471_001:0930c23_5']	四者求淨炷；	四者求淨炷；	Fourth, seek clean wicks;
+['ZH_T24_1471_001:0930c23_16']	五者不令欲盡數往益之；	五者不令欲盡數往益之；	Fifth, do not let them burn out, but go and add oil frequently;
+['ZH_T24_1471_001:0930c24_6']	六者朝當早起視護；	六者朝當早起視護；	Sixth, in the morning, get up early and inspect the protection;
+['ZH_T24_1471_001:0930c25_7']	七者油未盡，當扶出餘炷，聚著倚處別然令盡；	七者油未盡，當扶出餘炷，聚著倚處別然令盡；	Seventh, when the oil is not yet exhausted, support the remaining wick and gather it in a leaning place, and burn it separately until it is exhausted;
+['ZH_T24_1471_001:0930c25_17']	八者畢竟徐還著本處。	八者畢竟徐還著本處。	Eighth, finally, slowly return it to its original place.
+['ZH_T24_1471_001:0930c26_11']	若行採花及取楊枝，有九事：	若行採花及取楊枝，有九事：	If you go to pick flowers or get willow branches, there are nine things:
+['ZH_T24_1471_001:0930c26_19']	一者有主問其主；	一者有主問其主；	First, if there is an owner, ask the owner;
+['ZH_T24_1471_001:0930c27_11']	二者無主當呪願山澤樹神；	二者無主當呪願山澤樹神；	Second, if there is no owner, you should chant a spell for the mountain, marsh, and tree spirits;
+['ZH_T24_1471_001:0930c28_7']	三者取花及楊枝不得拔其根株；	三者取花及楊枝不得拔其根株；	Third, when taking flowers and willow branches, do not pull up the roots;
+['ZH_T24_1471_001:0930c28_17']	四者於道路當直往還；	四者於道路當直往還；	Fourth, on the road, go straight back and forth;
+['ZH_T24_1471_001:0930c29_8']	五者不得慢惰語戲；	五者不得慢惰語戲；	Fifth, do not be lazy or speak playfully;
+['ZH_T24_1471_001:0931a01_4']	六者設為人所犯，慎無與人交通；	六者設為人所犯，慎無與人交通；	Sixth, if you are violated by others, be careful not to associate with people;
+['ZH_T24_1471_001:0931a01_19']	七者低頭內自剋責，勿令有恨心；	七者低頭內自剋責，勿令有恨心；	Seventh, lower your head and inwardly reproach yourself, do not let there be a hateful mind;
+['ZH_T24_1471_001:0931a02_11']	八者若欲賦花當於上座始；	八者若欲賦花當於上座始；	Eighth, if you want to offer flowers, start with the upper seat;
+['ZH_T24_1471_001:0931a02_18']	九者當去萎花。	九者當去萎花。	Ninth, you should remove the withered flowers.
+['ZH_T24_1471_001:0931a03_13']	凡所施行不得自用，有十八事：	凡所施行不得自用，有十八事：	In all practices, do not act on your own, there are eighteen things:
+['ZH_T24_1471_001:0931a04_5']	一者出入行來當先白師；	一者出入行來當先白師；	First, when going out or coming in, you should first inform your teacher;
+['ZH_T24_1471_001:0931a04_16', 'ZH_T24_1471_001:0931a05_9', 'ZH_T24_1471_001:0931a06_6']	二者若欲宿行當先白師；🔽三者若作新法衣當先白師；🔽四者若欲著新法衣當先白師從受；	二者若欲宿行當先白師； 三者若作新法衣當先白師； 四者若欲著新法衣當先白師從受；	Second, if you wish to practice overnight, you should first inform your teacher;🔽Third, if you wish to make new Dharma robes, you should first inform your teacher;🔽Fourth, if you wish to wear new Dharma robes, you should first inform your teacher and receive them from him;
+['ZH_T24_1471_001:0931a07_1']	五者若欲浣法衣裳當先白師；	五者若欲浣法衣裳當先白師；	Fifth, if you wish to wash Dharma robes, you should first inform your teacher;
+['ZH_T24_1471_001:0931a07_12']	六者若欲剃頭先當白師；	六者若欲剃頭先當白師；	Sixth, if you wish to shave your head, you should first inform your teacher;
+['ZH_T24_1471_001:0931a08_5']	七者若疾病服藥當先白師；	七者若疾病服藥當先白師；	Seventh, if you are sick and taking medicine, you should first inform your teacher;
+['ZH_T24_1471_001:0931a08_18', 'ZH_T24_1471_001:0931a09_15']	八者若作眾僧事當先白師去；🔽九者若欲私有具紙筆之輩當先白師；	八者若作眾僧事當先白師去； 九者若欲私有具紙筆之輩當先白師；	Eighth, if you are doing work for the Sangha, you should first inform your teacher and leave;🔽Ninth, if you wish to have paper and writing implements privately, you should first inform your teacher;
+['ZH_T24_1471_001:0931a10_9', 'ZH_T24_1471_001:0931a11_8', 'ZH_T24_1471_001:0931a12_8']	十者若諷起經唄當先白師；🔽十一者若人以物惠施，先白師已受取；🔽十二者己物惠施人，當先白師，師聽然後與；	十者若諷起經唄當先白師； 十一者若人以物惠施，先白師已受取； 十二者己物惠施人，當先白師，師聽然後與；	Tenth, if you wish to chant sutras and hymns, you should first inform your teacher;🔽Eleventh, if someone gives you a gift, you should first inform your teacher before accepting it;🔽Twelfth, if you wish to give your own belongings to others, you should first inform your teacher, and only give them after your teacher has agreed;
+['ZH_T24_1471_001:0931a13_11']	十三者人從己假借，一一當先白師，師聽然後有與；	十三者人從己假借，一一當先白師，師聽然後有與；	Thirteenth, if someone borrows something from you, you should first inform your teacher, and only lend it to them after your teacher has agreed;
+['ZH_T24_1471_001:0931a14_12']	十四者己欲從人假借，皆當白師，師聽得去；	十四者己欲從人假借，皆當白師，師聽得去；	Fourteenth, if one wishes to borrow something from others, one should inform the teacher and only go with permission;
+['ZH_T24_1471_001:0931a15_8']	十五者欲白之儀，先整衣服稽首為禮；	十五者欲白之儀，先整衣服稽首為禮；	Fifteenth, the manner of informing is to first adjust one's clothes and bow in reverence;
+['ZH_T24_1471_001:0931a16_8']	十六者若其聽或不聽，皆當恭敬稽首作禮；	十六者若其聽或不聽，皆當恭敬稽首作禮；	Sixteenth, whether one is permitted or not, one should be respectful and bow in reverence;
+['ZH_T24_1471_001:0931a16_16']	十七者陳所欲知；	十七者陳所欲知；	Seventeenth, state what one wishes to know;
+['ZH_T24_1471_001:0931a17_11']	十八者不得有恨意有所應辭報。	十八者不得有恨意有所應辭報。	Eighteenth, do not have resentment or speak with a negative attitude.
+['ZH_T24_1471_001:0931a18_6']	又從師行先後還，有十六事：	又從師行先後還，有十六事：	Furthermore, there are sixteen matters for going out and returning before and after the teacher:
+['ZH_T24_1471_001:0931a18_13']	一者當整衣服；	一者當整衣服；	First, one should adjust one's clothes;
+['ZH_T24_1471_001:0931a19_13']	二者識所言趣常報應答，隨持錫杖手巾之輩；	二者識所言趣常報應答，隨持錫杖手巾之輩；	Second, know the direction of speech and always respond accordingly, following those who carry the staff and towel;
+['ZH_T24_1471_001:0931a19_19']	三者尋師後；	三者尋師後；	Third, follow behind the teacher;
+['ZH_T24_1471_001:0931a20_6']	四者無躡其影；	四者無躡其影；	Fourth, do not step on his shadow;
+['ZH_T24_1471_001:0931a20_15']	五者無錫杖戲其前；	五者無錫杖戲其前；	Fifth, do not playfully wave the staff in front of him;
+['ZH_T24_1471_001:0931a21_6']	六者不得道中與人語；	六者不得道中與人語；	Sixth, do not speak with people on the road;
+['ZH_T24_1471_001:0931a21_15']	七者不得惡師有過；	七者不得惡師有過；	Seventh, do not speak ill of the teacher or his faults;
+['ZH_T24_1471_001:0931a22_12']	八者師若遣還有所取，當尋其來道；	八者師若遣還有所取，當尋其來道；	Eighth, if the teacher sends one back to get something, one should follow the way one came;
+['ZH_T24_1471_001:0931a23_2']	九者即當如其教行；	九者即當如其教行；	Ninth, one should immediately act according to his instructions;
+['ZH_T24_1471_001:0931a23_9']	十者慎無淹留；	十者慎無淹留；	Tenth, do not linger.
+['ZH_T24_1471_001:0931a24_12']	十一者師若使住為檀越說經，即當稽首承受節度；	十一者師若使住為檀越說經，即當稽首承受節度；	Eleventh, if the teacher instructs you to stay and speak the sutra for the patron, you should immediately bow and follow the instructions;
+['ZH_T24_1471_001:0931a25_1']	十二者暮當早還；	十二者暮當早還；	Twelfth, return early in the evening;
+['ZH_T24_1471_001:0931a25_9']	十三者慎無留宿；	十三者慎無留宿；	Thirteenth, do not stay overnight;
+['ZH_T24_1471_001:0931a26_4']	十四者還到請禮問事，先整衣服；	十四者還到請禮問事，先整衣服；	Fourteenth, when returning to the invitation, first adjust your robes;
+['ZH_T24_1471_001:0931a26_17']	十五者當五體投地稽首作禮；	十五者當五體投地稽首作禮；	Fifteenth, you should prostrate with your whole body and pay homage;
+['ZH_T24_1471_001:0931a27_8']	十六者禮師自如常法。	十六者禮師自如常法。	Sixteenth, pay homage to the teacher as usual.
+['ZH_T24_1471_001:0931a28_1']	若獨行送死問疾，有九事：	若獨行送死問疾，有九事：	If you go alone to send off the dead or inquire about illnesses, there are nine things:
+['ZH_T24_1471_001:0931a29_11']	一者當主人門，當相進退之儀，有異座當坐，設無異座不宜雜坐；	一者當主人門，當相進退之儀，有異座當坐，設無異座不宜雜坐；	First, at the host's door, you should know the proper etiquette for advancing and retreating. If there is a separate seat, you should sit. If there is no separate seat, you should not sit mixed in.
+['ZH_T24_1471_001:0931b01_6']	二者當視其座席，無犯宜忌端坐；	二者當視其座席，無犯宜忌端坐；	Second, you should look at the seats. If there are taboos, sit upright.
+['ZH_T24_1471_001:0931b01_19']	三者人若欲問經，當宜知時；	三者人若欲問經，當宜知時；	Third, if people want to ask about the sutra, you should know the right time.
+['ZH_T24_1471_001:0931b02_9']	四者慎無為非時之說；	四者慎無為非時之說；	Fourth, do not speak at the wrong time.
+['ZH_T24_1471_001:0931b03_12']	五者主人設食，雖非時法會之食，無令失其儀軌；	五者主人設食，雖非時法會之食，無令失其儀軌；	Fifth, even if the host offers food outside of the proper time, do not lose the proper etiquette.
+['ZH_T24_1471_001:0931b03_19']	六者宜還及日；	六者宜還及日；	Sixth, it is appropriate to return by the day;
+['ZH_T24_1471_001:0931b04_6']	七者無犯夜行；	七者無犯夜行；	Seventh, do not violate the rule of not traveling at night;
+['ZH_T24_1471_001:0931b05_1']	八者若逼暮疾風雨，臨時制宜；	八者若逼暮疾風雨，臨時制宜；	Eighth, if it is late in the evening with strong winds and rain, make a decision according to the circumstances;
+['ZH_T24_1471_001:0931b05_8']	九者還畢如舊。	九者還畢如舊。	Ninth, upon returning, resume the usual routine.
+['ZH_T24_1471_001:0931b06_1']	若於道路與師相逢，有六事：	若於道路與師相逢，有六事：	If one encounters the teacher on the road, there are six things:
+['ZH_T24_1471_001:0931b06_9']	一者當先整衣服；	一者當先整衣服；	First, one should first adjust one's clothes;
+['ZH_T24_1471_001:0931b06_16']	二者當脫革屣；	二者當脫革屣；	Second, one should take off one's leather shoes;
+['ZH_T24_1471_001:0931b07_7']	三者禮師當稽首足下；	三者禮師當稽首足下；	Third, when paying respects to the teacher, one should bow one's head to the teacher's feet;
+['ZH_T24_1471_001:0931b07_14']	四者身尋師後；	四者身尋師後；	Fourth, one should follow behind the teacher;
+['ZH_T24_1471_001:0931b08_11']	五者師若自別去，當稽首承受節度；	五者師若自別去，當稽首承受節度；	Fifth, if the teacher goes off on his own, one should bow and accept the teacher's instructions;
+['ZH_T24_1471_001:0931b09_10']	六者雖不與師相隨，所行禮節必令如常。	六者雖不與師相隨，所行禮節必令如常。	Sixth, even if one does not follow the teacher, one's conduct and etiquette should always be as usual.
+['ZH_T24_1471_001:0931b10_1']	若眾僧食飯時，十六事：	若眾僧食飯時，十六事：	When the Sangha is having a meal, there are sixteen rules:
+['ZH_T24_1471_001:0931b10_13']	一者聞揵稚聲即當整衣服；	一者聞揵稚聲即當整衣服；	First, upon hearing the sound of the gavel, one should immediately adjust one's clothes;
+['ZH_T24_1471_001:0931b11_5']	二者當務脫革往住塔下；	二者當務脫革往住塔下；	Second, one should take off one's leather shoes and go to stand under the pagoda;
+['ZH_T24_1471_001:0931b11_12']	三者住必端嚴；	三者住必端嚴；	Third, one should stand with dignity;
+['ZH_T24_1471_001:0931b12_13']	四者若從師後到便位住，慎勿言笑有所及；	四者若從師後到便位住，慎勿言笑有所及；	Fourth, if one arrives after the teacher, one should stand in one's place and be careful not to speak or laugh;
+['ZH_T24_1471_001:0931b13_13']	五者若上人說經呪願，皆當恭敬慎無失儀；	五者若上人說經呪願，皆當恭敬慎無失儀；	Fifth, when a superior person recites the sūtra and makes aspirations, one should all be respectful and never lose propriety;
+['ZH_T24_1471_001:0931b14_8']	六者欲食之初，當先瞻望上下；	六者欲食之初，當先瞻望上下；	Sixth, when about to eat, one should first look up and down;
+['ZH_T24_1471_001:0931b15_2']	七者食無眾人前、食止無後眾；	七者食無眾人前、食止無後眾；	Seventh, do not eat in front of a crowd, and do not stop eating after the crowd;
+['ZH_T24_1471_001:0931b15_10']	八者無呵食好惡；	八者無呵食好惡；	Eighth, do not criticize the good and bad of the food;
+['ZH_T24_1471_001:0931b16_1']	九者不得大飡小飡；	九者不得大飡小飡；	Ninth, do not eat too much or too little;
+['ZH_T24_1471_001:0931b16_8', 'ZH_T24_1471_001:0931b16_19']	十者慎無大咽；🔽十一者不得大撓刮鉢中；	十者慎無大咽； 十一者不得大撓刮鉢中；	Tenth, be careful not to swallow loudly;🔽Eleventh, do not use the bowl to scrape up food;
+['ZH_T24_1471_001:0931b17_9']	十二者不得櫡叩案上；	十二者不得櫡叩案上；	Twelfth, do not tap the table with the bowl;
+['ZH_T24_1471_001:0931b17_17']	十三者不得求益；	十三者不得求益；	Thirteenth, do not ask for more;
+['ZH_T24_1471_001:0931b18_13']	十四者不得以食私所與若摘與狗；	十四者不得以食私所與若摘與狗；	Fourteenth, do not privately give food to others or pick out food to give to dogs;
+['ZH_T24_1471_001:0931b19_9']	十五者有來益食，不得言不用；	十五者有來益食，不得言不用；	Fifteenth, if someone comes to offer more food, do not say you do not need it;
+['ZH_T24_1471_001:0931b20_3']	十六者說已飽，當以手讓却之。	十六者說已飽，當以手讓却之。	Sixteenth, if you have already eaten your fill, you should politely decline with your hands.
+['ZH_T24_1471_001:0931b21_13']	又眾僧說經，有十三事，若法會說經、在溫室及清涼室、若浴室：	又眾僧說經，有十三事，若法會說經、在溫室及清涼室、若浴室：	Moreover, when the Saṃgha recites the sūtra, there are thirteen matters, whether reciting the sūtra at a Dharma assembly, in a warm room or a cool room, or in a bathhouse:
+['ZH_T24_1471_001:0931b22_1']	一者當整理衣服；	一者當整理衣服；	First, one should straighten one's clothes;
+['ZH_T24_1471_001:0931b22_9']	二者當平視直進；	二者當平視直進；	Second, one should look straight ahead and walk straight;
+['ZH_T24_1471_001:0931b23_1']	三者無得道中與人語笑；	三者無得道中與人語笑；	Third, one should not speak or laugh with people on the road;
+['ZH_T24_1471_001:0931b23_9']	四者以次禮所尊；	四者以次禮所尊；	Fourth, one should pay respects to the elders in order;
+['ZH_T24_1471_001:0931b23_17']	五者却入偶坐席；	五者却入偶坐席；	Fifth, one should sit in the seat in order when returning;
+['ZH_T24_1471_001:0931b24_10']	六者上座說經，及位便坐；	六者上座說經，及位便坐；	Sixth, when the elders are expounding the sutra, one should sit in one's place;
+['ZH_T24_1471_001:0931b24_17']	七者坐必端嚴；	七者坐必端嚴；	Seventh, one's sitting must be dignified;
+['ZH_T24_1471_001:0931b25_4']	八者慎無亂語；	八者慎無亂語；	Eighth, one should be careful not to speak recklessly;
+['ZH_T24_1471_001:0931b25_11']	九者無大欬唾；	九者無大欬唾；	Ninth, one should not cough or spit loudly;
+['ZH_T24_1471_001:0931b26_2']	十者無唾淨地違禮律；	十者無唾淨地違禮律；	Tenth, one should not spit on the clean ground, which violates the precepts;
+['ZH_T24_1471_001:0931b26_15']	十一者若次應說經，即當說；	十一者若次應說經，即當說；	Eleventh, if one's turn to expound the sutra has come, one should immediately do so;
+['ZH_T24_1471_001:0931b27_19']	十二者為眾人所差上高座，當先審所舉措，慎莫失儀；	十二者為眾人所差上高座，當先審所舉措，慎莫失儀；	Twelfth, when one is chosen by the assembly to ascend the high seat, one should first examine one's actions and be careful not to lose propriety;
+['ZH_T24_1471_001:0931b29_4']	十三者若坐中有失義，當遏惡揚善，慎無苟且現之過。	十三者若坐中有失義，當遏惡揚善，慎無苟且現之過。	Thirteenth, if there is a loss of meaning in the sitting, one should stop evil and promote goodness, and be careful not to show one's faults.
+['ZH_T24_1471_001:0931c01_4']	又眾僧說經十三事，若番次、直日、朝晡行禮：	又眾僧說經十三事，若番次、直日、朝晡行禮：	Moreover, there are thirteen things in the assembly's sutra recitation. If one's turn has come, one should recite on the appointed day, and pay respects in the morning and evening:
+['ZH_T24_1471_001:0931c01_15']	一者聞揵稚聲豫具香火；	一者聞揵稚聲豫具香火；	First, upon hearing the sound of the wooden fish, one should prepare incense and fire in advance;
+['ZH_T24_1471_001:0931c02_4']	二者賦香如舊；	二者賦香如舊；	Second, one should offer incense as usual;
+['ZH_T24_1471_001:0931c02_11']	三者整所宜次；	三者整所宜次；	Third, arrange the necessary items in order;
+['ZH_T24_1471_001:0931c02_18']	四者淨拂床席；	四者淨拂床席；	Fourth, clean the bedding and seats;
+['ZH_T24_1471_001:0931c03_6']	五者掃灑如法；	五者掃灑如法；	Fifth, sweep and sprinkle as prescribed;
+['ZH_T24_1471_001:0931c04_6']	六者若法會出所領，分明付授檀越諸宜用；	六者若法會出所領，分明付授檀越諸宜用；	Sixth, if there is an assembly, clearly hand over what is collected to the donors for use;
+['ZH_T24_1471_001:0931c04_18']	七者事畢領受畢，令如初；	七者事畢領受畢，令如初；	Seventh, after the matter is finished, take it back and make it as it was before;
+['ZH_T24_1471_001:0931c05_14']	八者門鑰相付，早關晚開一以為常；	八者門鑰相付，早關晚開一以為常；	Eighth, always make it a rule to lock the door early and open it late;
+['ZH_T24_1471_001:0931c06_13']	九者若有異賓，當師邊聽，所須當付；	九者若有異賓，當師邊聽，所須當付；	Ninth, if there are unusual guests, listen to the teacher's side and give them what they need;
+['ZH_T24_1471_001:0931c07_11']	十者若有賓宿，皆當整衣服住其常位；	十者若有賓宿，皆當整衣服住其常位；	Tenth, if there are guests staying, all should straighten their clothes and stay in their usual positions;
+['ZH_T24_1471_001:0931c08_3']	十一者有即對，應聲分明；	十一者有即對，應聲分明；	Eleventh, if there is something, respond immediately and clearly;
+['ZH_T24_1471_001:0931c08_15']	十二者住必端嚴無令失儀；	十二者住必端嚴無令失儀；	Twelfth, when staying, be dignified and do not lose propriety;
+['ZH_T24_1471_001:0931c09_18']	十三者若欲暫出輒者，令人自代，無令處空重呼。	十三者若欲暫出輒者，令人自代，無令處空重呼。	Thirteenth, if you want to go out for a while, have someone replace you, and do not leave the place empty for a long time.
+['ZH_T24_1471_001:0931c11_6']	又直日所領知後十事，若為直日宜軌所修，其有眾事功夫：	又直日所領知後十事，若為直日宜軌所修，其有眾事功夫：	Again, the ten matters to be known after taking charge of the day's work, if one is on duty, one should follow the rules and cultivate. There are many tasks and efforts:
+['ZH_T24_1471_001:0931c11_11']	一者起塔；	一者起塔；	First, to build a stupa;
+['ZH_T24_1471_001:0931c12_1']	二者講堂設僧諸事；	二者講堂設僧諸事；	Second, to discuss the affairs of the monks in the lecture hall;
+['ZH_T24_1471_001:0931c12_15']	三者若作佛像，常早起憂識事；	三者若作佛像，常早起憂識事；	Third, if making Buddha images, always get up early and worry about recognizing the work;
+['ZH_T24_1471_001:0931c13_11']	四者當選所宜，用錯斧鋸必使常處；	四者當選所宜，用錯斧鋸必使常處；	Fourth, one should select what is suitable, and use the wrong axe and saw to make sure it is always in place;
+['ZH_T24_1471_001:0931c14_14']	五者若所畫朱彩膠墨豫具所得，無令臨時有乏；	五者若所畫朱彩膠墨豫具所得，無令臨時有乏；	Fifth, if the painted vermilion and glue ink are obtained in advance, do not let there be a shortage at the last minute;
+['ZH_T24_1471_001:0931c15_6']	六者畢宜選錄復有常處；	六者畢宜選錄復有常處；	Sixth, it is appropriate to select and record again, and there is a constant place;
+['ZH_T24_1471_001:0931c16_6']	經本元少七者八者數所領受，分明付授無令差跌；	經本元少七者八者數所領受，分明付授無令差跌；	The original scriptures have seven or eight things that are received, clearly handed over without error;
+['ZH_T24_1471_001:0931c17_3']	九者居有所市求，皆問於摩摩帝；	九者居有所市求，皆問於摩摩帝；	Seventh, when there is something to buy and seek, ask the monastery superintendent;
+['ZH_T24_1471_001:0931c17_17']	十者出用令餘宣陳列令有本末。	十者出用令餘宣陳列令有本末。	Eighth, when spending, let the rest be displayed and have a basis.
+['ZH_T24_1471_001:0931c18_7']	又獨行分衛十六事：	又獨行分衛十六事：	Again, there are sixteen things to do when going out for alms alone:
+['ZH_T24_1471_001:0931c18_19']	若行分衛，一者務與人俱；	若行分衛，一者務與人俱；	If going out for alms, first, one should go with others;
+['ZH_T24_1471_001:0931c19_13']	二者若無人俱，當知所可行處；	二者若無人俱，當知所可行處；	Second, if there is no one to go with, one should know where to go;
+['ZH_T24_1471_001:0931c20_3']	三者應器常在左脇；	三者應器常在左脇；	Third, the alms bowl should always be on the left side;
+['ZH_T24_1471_001:0931c20_18']	四者帶應器之宜，出時當以外向；	四者帶應器之宜，出時當以外向；	Fourth, when wearing the alms bowl, when going out, it should face outward;
+['ZH_T24_1471_001:0931c21_10']	五者以食來還，當以內向；	五者以食來還，當以內向；	Fifth, when returning with food, you should face inward;
+['ZH_T24_1471_001:0931c22_2']	六者到人門戶宜審舉措；	六者到人門戶宜審舉措；	Sixth, when arriving at someone's door, you should be careful in your movements;
+['ZH_T24_1471_001:0931c22_13']	七者家無男子慎無入門；	七者家無男子慎無入門；	Seventh, if there are no men in the household, do not enter the door;
+['ZH_T24_1471_001:0931c23_6']	八者若欲坐，當先瞻視座席；	八者若欲坐，當先瞻視座席；	Eighth, if you wish to sit, you should first look at the seat;
+['ZH_T24_1471_001:0931c23_18']	九者設座有刀兵，不應坐；	九者設座有刀兵，不應坐；	Ninth, if there are knives and weapons on the seat, you should not sit;
+['ZH_T24_1471_001:0931c24_9']	十者設有寶物，不應坐；	十者設有寶物，不應坐；	Tenth, if there are precious objects, you should not sit;
+['ZH_T24_1471_001:0931c25_17']	十一者若設有婦女衣被嚴具之輩不應坐，都無此者然有及坐；	十一者若設有婦女衣被嚴具之輩不應坐，都無此者然有及坐；	Eleventh, if there are women's clothing, bedding, and ornaments, you should not sit; if there are none of these, then it is acceptable to sit;
+['ZH_T24_1471_001:0931c26_7']	十二者主人設食；	十二者主人設食；	Twelfth, the host provides food;
+['ZH_T24_1471_001:0931c26_17']	十三所食者便當呪願；	十三所食者便當呪願；	Thirteenth, after eating, you should chant a sutra;
+['ZH_T24_1471_001:0931c27_8']	十四者不得問食好醜；	十四者不得問食好醜；	Fourteenth, you should not ask about the quality of the food;
+['ZH_T24_1471_001:0931c27_17']	十五者不先食說經；	十五者不先食說經；	Fifteenth, do not recite sutras before eating;
+['ZH_T24_1471_001:0931c28_18']	十六者雖欲說經，當知所應說時、不宜說時。	十六者雖欲說經，當知所應說時、不宜說時。	Sixteenth, although you may wish to recite sutras, you should know the appropriate time to recite and the inappropriate time to recite.
+['ZH_T24_1471_001:0931c29_6']	又市所求有九事：	又市所求有九事：	There are also nine things to keep in mind when shopping:
+['ZH_T24_1471_001:0931c29_16']	一者當低頭直往直還；	一者當低頭直往直還；	First, you should lower your head and go straight, return straight;
+['ZH_T24_1471_001:0932a01_8']	二者若覩異物慎無察視；	二者若覩異物慎無察視；	Second, if you see strange things, do not look at them carefully;
+['ZH_T24_1471_001:0932a01_15']	三者無諍貴賤；	三者無諍貴賤；	Third, do not argue about high and low status;
+['ZH_T24_1471_001:0932a02_3']	四者無坐女肆；	四者無坐女肆；	Fourth, do not sit in a brothel;
+['ZH_T24_1471_001:0932a03_1']	五者若為人所犯，方便避之，勿從求直；	五者若為人所犯，方便避之，勿從求直；	Fifth, if you are offended by others, avoid it skillfully and do not seek justice;
+['ZH_T24_1471_001:0932a04_2']	六者賣買若於誠諦送直，無言來取，致及反覆；	六者賣買若於誠諦送直，無言來取，致及反覆；	Sixth, when buying and selling, if you have sent the money in good faith, do not say to come and take it, causing back and forth;
+['ZH_T24_1471_001:0932a05_7']	七者已許某甲物，雖復更賤，無捨彼取此，令主有恨；	七者已許某甲物，雖復更賤，無捨彼取此，令主有恨；	Seventh, if you have already promised someone something, even if it is cheaper elsewhere, do not abandon that and take this, causing the original owner to be resentful;
+['ZH_T24_1471_001:0932a06_14']	八者若見四輩人有賣買賤直，不令己任，如當言法不得爾；	八者若見四輩人有賣買賤直，不令己任，如當言法不得爾；	Eighth, if you see members of the four groups buying and selling at a low price, do not take it upon yourself, but say that it is not allowed according to the Dharma;
+['ZH_T24_1471_001:0932a07_4']	九者慎無保任致愆負。	九者慎無保任致愆負。	Ninth, be careful not to guarantee anything that leads to mistakes or debts.
+['ZH_T24_1471_001:0932a08_12']	又到比丘尼寺中有九事，若師使到比丘尼寺中，一者當與俱；	又到比丘尼寺中有九事，若師使到比丘尼寺中，一者當與俱；	There are also nine things when visiting a nunnery. If the teacher sends you to a nunnery, first, you should go with someone;
+['ZH_T24_1471_001:0932a09_4']	二者遶塔作禮一如常法；	二者遶塔作禮一如常法；	Second, circumambulate the stupa and pay homage as usual;
+['ZH_T24_1471_001:0932a09_18']	三者若有異座訖無異座不得坐；	三者若有異座訖無異座不得坐；	Third, if there are separate seats, do not sit on them if they are not for your use;
+['ZH_T24_1471_001:0932a10_13']	四者疾病欲問經，當說所宜說；	四者疾病欲問經，當說所宜說；	Fourth, if you have a question about the sutra due to illness, explain what is appropriate to say;
+['ZH_T24_1471_001:0932a11_4']	五者不得為非時之說；	五者不得為非時之說；	Fifth, one should not speak at inappropriate times;
+['ZH_T24_1471_001:0932a11_13']	六者不得反人之非；	六者不得反人之非；	Sixth, one should not point out the faults of others;
+['ZH_T24_1471_001:0932a12_13']	七者若坐以珍異衣服巾履施惠，一不得受；	七者若坐以珍異衣服巾履施惠，一不得受；	Seventh, if one is offered precious and unusual clothing, towels, or shoes, one should not accept any of them;
+['ZH_T24_1471_001:0932a13_5']	八者若還不得說其好醜；	八者若還不得說其好醜；	Eighth, one should not speak of their good or bad qualities upon returning;
+['ZH_T24_1471_001:0932a13_18']	九者餘人不得言但用供養某。	九者餘人不得言但用供養某。	Ninth, one should not say that they only make offerings to a certain person.
+['ZH_T24_1471_001:0932a14_8']	又講經誦法有八事：	又講經誦法有八事：	There are also eight things to keep in mind when lecturing on the sutras and reciting the Dharma:
+['ZH_T24_1471_001:0932a15_9']	一者必令詳審，所見不同、或左右各有所習；	一者必令詳審，所見不同、或左右各有所習；	First, one must be thorough and careful, as different people have different views and may have different practices;
+['ZH_T24_1471_001:0932a16_3']	二者慎無專知據言此是彼非；	二者慎無專知據言此是彼非；	Second, one should be cautious and not insist that one's own understanding is correct and others' is wrong;
+['ZH_T24_1471_001:0932a16_18']	三者同學變諍，務令和解無令頗；	三者同學變諍，務令和解無令頗；	Third, if fellow practitioners argue, one should strive to reconcile them and resolve their differences;
+['ZH_T24_1471_001:0932a17_14']	四者眾事役勞，慎無自代顯己之功；	四者眾事役勞，慎無自代顯己之功；	Fourth, when there are tasks to be done, one should not take over and show off one's own abilities;
+['ZH_T24_1471_001:0932a18_9']	五者大沙門說戒，慎無矚之；	五者大沙門說戒，慎無矚之；	Fifth, when the great śramaṇas are expounding the precepts, one should not look at them;
+['ZH_T24_1471_001:0932a19_10']	六者知己有過犯於眾人，即當言悔與共和解；	六者知己有過犯於眾人，即當言悔與共和解；	Sixth, if one knows that one has committed an offense against the assembly, one should immediately confess and resolve it together with the others;
+['ZH_T24_1471_001:0932a19_17']	七者師若問言：	七者師若問言：	Seventh, if the teacher asks:
+['ZH_T24_1471_001:0932a20_4']	「某說卿有過。	「某說卿有過。	So-and-so says you have committed an offense.
+['ZH_T24_1471_001:0932a20_12']	」即當如事道之；	」即當如事道之；	then one should follow the matter and explain it;
+['ZH_T24_1471_001:0932a21_3']	八者無得隱蔽以成愆負。	八者無得隱蔽以成愆負。	eighth, one should not conceal faults and create offenses.
+['ZH_T24_1471_001:0932a22_7']	有論語有十事，常晝夜三時誦經行道，一者整衣服；	有論語有十事，常晝夜三時誦經行道，一者整衣服；	There are ten matters in the Analects, which should be recited and practiced day and night at three times: first, to arrange one's clothes;
+['ZH_T24_1471_001:0932a22_18']	二者若經行必令有常處；	二者若經行必令有常處；	second, when practicing walking meditation, one must have a fixed place;
+['ZH_T24_1471_001:0932a23_4']	三者當於中；	三者當於中；	third, it should be in the middle;
+['ZH_T24_1471_001:0932a23_10']	四者講堂中；	四者講堂中；	fourth, in the lecture hall;
+['ZH_T24_1471_001:0932a23_17']	五者或於塔下；	五者或於塔下；	fifth, or under the pagoda;
+['ZH_T24_1471_001:0932a24_4', 'ZH_T24_1471_001:0932a24_12']	六者亦飯堂中；🔽七者不得躡革屣；	六者亦飯堂中； 七者不得躡革屣；	sixth, also in the dining hall;🔽seventh, one should not wear leather shoes;
+['ZH_T24_1471_001:0932a25_1']	八者不得木履；	八者不得木履；	eighth, one should not wear wooden shoes;
+['ZH_T24_1471_001:0932a25_8']	九者不得持杖；	九者不得持杖；	ninth, one should not carry a staff;
+['ZH_T24_1471_001:0932a25_16']	十者慎無臥誦經。	十者慎無臥誦經。	tenth, one should be careful not to lie down and recite the sutra.
+['ZH_T24_1471_001:0932a27_3']	又誦經行有十事，房室中常法，一者寢息各異不相涉入；	又誦經行有十事，房室中常法，一者寢息各異不相涉入；	Moreover, there are ten matters in reciting sutras and practicing walking meditation. The constant method in the room is: first, sleeping and resting are different and do not interfere with each other;
+['ZH_T24_1471_001:0932a27_10']	二者受經句讀；	二者受經句讀；	second, receiving and reciting the sutra;
+['ZH_T24_1471_001:0932a27_16']	三者論經義；	三者論經義；	third, discussing the meaning of the sutra;
+['ZH_T24_1471_001:0932a28_3']	四者問訊疾病；	四者問訊疾病；	fourth, inquiring about illnesses;
+['ZH_T24_1471_001:0932a28_10']	五者或為便往；	五者或為便往；	fifth, or going for convenience;
+['ZH_T24_1471_001:0932a29_1']	六者不得說不急之事；	六者不得說不急之事；	sixth, one should not speak of urgent matters;
+['ZH_T24_1471_001:0932a29_10']	七者不得示人之非；	七者不得示人之非；	seventh, one should not point out the faults of others;
+['ZH_T24_1471_001:0932b01_1']	八者不得轉相評論；	八者不得轉相評論；	Eighth, one should not criticize each other;
+['ZH_T24_1471_001:0932b01_10']	九者借取與必分明；	九者借取與必分明；	Ninth, when borrowing or lending, one must be clear;
+['ZH_T24_1471_001:0932b02_2']	十者無違期約以失道信。	十者無違期約以失道信。	Tenth, do not violate the agreed time and lose the trust of the Way.
+['ZH_T24_1471_001:0932b04_3']	沙彌十戒法并威儀一卷五德者：	沙彌十戒法并威儀一卷五德者：	The Ten Precepts and Rules for Novice Monks in One Scroll The five virtues are:
+['ZH_T24_1471_001:0932b04_15']	一者發心離俗，懷佩道故；	一者發心離俗，懷佩道故；	First, giving rise to the aspiration to leave the secular and embrace the Way;
+['ZH_T24_1471_001:0932b05_9']	二者毀其形好，應法服故；	二者毀其形好，應法服故；	Second, destroying one's beautiful appearance and conforming to the Dharma robes;
+['ZH_T24_1471_001:0932b06_2']	三者永割親愛，無適莫故；	三者永割親愛，無適莫故；	Third, forever cutting off familial love and having no attachments;
+['ZH_T24_1471_001:0932b06_14']	四者委棄身命，遵崇道故；	四者委棄身命，遵崇道故；	Fourth, disregarding one's body and life and upholding the Way;
+['ZH_T24_1471_001:0932b07_7']	五者志求大乘，為度人故。	五者志求大乘，為度人故。	Fifth, aspiring to the Mahayana in order to liberate others.
+['ZH_T24_1471_001:0932b07_11']	十數者：	十數者：	The ten items are:
+['ZH_T24_1471_001:0932b08_5']	一者一切眾生皆依飲食而存；	一者一切眾生皆依飲食而存；	First, all sentient beings rely on food and drink to survive;
+['ZH_T24_1471_001:0932b08_10']	二者名色；	二者名色；	Second, name and form;
+['ZH_T24_1471_001:0932b08_15']	三者三受；	三者三受；	Third, three kinds of feelings;
+['ZH_T24_1471_001:0932b09_1']	四者四諦；	四者四諦；	Fourth, four noble truths;
+['ZH_T24_1471_001:0932b09_6']	五者五陰；	五者五陰；	Fifth, five aggregates;
+['ZH_T24_1471_001:0932b09_11']	六者六入；	六者六入；	Sixth, six sense bases;
+['ZH_T24_1471_001:0932b09_17']	七者七覺分；	七者七覺分；	Seventh, seven factors of enlightenment;
+['ZH_T24_1471_001:0932b10_3']	八者八正道；	八者八正道；	Eighth, eightfold noble path;
+['ZH_T24_1471_001:0932b10_10']	九者九眾生居；	九者九眾生居；	Ninth, nine abodes of sentient beings;
+['ZH_T24_1471_001:0932b10_17']	十者十一切入。	十者十一切入。	Tenth, ten universal bases.

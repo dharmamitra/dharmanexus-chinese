@@ -1,0 +1,652 @@
+segmentnr	original	analyzed	translated
+['ZH_T14_0440_012:0178c05_0']	佛說佛名經卷第十二	佛說佛名經卷第十二	The Buddha Speaks the Sūtra of the Names of Buddhas, Scroll 12
+['ZH_T14_0440_012:0178c07_0']	元魏天竺三藏菩提流支譯	元魏天竺三藏菩提流支譯	Translated by Tripiṭaka Master Bodhiruci of the Yuanwei Dynasty
+['ZH_T14_0440_012:0178c08_0', 'ZH_T14_0440_012:0182a01_20_0', 'ZH_T14_0440_012:0182a01_20_1']	「『南無大威德佛　南無月光佛　南無旃🔽檀香佛🔽南無須彌劫佛	「『南無大威德佛　南無月光佛　南無旃 檀香佛 南無須彌劫佛	Homage to Buddha of Great Authority, Homage to Moon Light Buddha, Homage to Sandalwood Fragrance Buddha🔽Homage to Sumeru Kalpa Buddha
+['ZH_T14_0440_012:0182a01_20_2', 'ZH_T14_0440_012:0182a01_20_3']	南無山積佛🔽南無無垢色佛	南無山積佛 南無無垢色佛	Homage to Mountain Accumulated Buddha🔽Homage to Buddha of Stainless Form
+['ZH_T14_0440_012:0182a01_20_4']	南無無染佛	南無無染佛	Homage to Buddha of No Defilement
+['ZH_T14_0440_012:0182a01_20_5']	南無龍勝佛	南無龍勝佛	Homage to Dragon Victor Buddha
+['ZH_T14_0440_012:0182a01_20_6']	南無金色佛	南無金色佛	Homage to Golden Color Buddha
+['ZH_T14_0440_012:0182a01_20_7']	南無山吼自在王佛	南無山吼自在王佛	Homage to Mountain Roaring Sovereign King Buddha
+['ZH_T14_0440_012:0182a01_20_8', 'ZH_T14_0440_012:0182a01_20_9']	南無金藏佛🔽南無火光佛	南無金藏佛 南無火光佛	Homage to Golden Treasury Buddha🔽Homage to Fire Light Buddha
+['ZH_T14_0440_012:0182a01_20_10']	南無火自在佛	南無火自在佛	Homage to Fire Sovereign Buddha
+['ZH_T14_0440_012:0182a01_20_11', 'ZH_T14_0440_012:0182a01_20_12']	南無琉璃華佛🔽南無月勝佛	南無琉璃華佛 南無月勝佛	Homage to Lapis Lazuli Flower Buddha🔽Homage to Moon Victor Buddha
+['ZH_T14_0440_012:0182a01_20_13', 'ZH_T14_0440_012:0182a01_20_14']	南無月聲佛🔽南無散華莊嚴光佛	南無月聲佛 南無散華莊嚴光佛	Homage to Moon Sound Buddha🔽Homage to Buddha of Scattered Flower Adorned Light
+['ZH_T14_0440_012:0182a01_20_15']	南無大香去照明佛	南無大香去照明佛	Homage to Great Fragrance Gone Illuminating Buddha
+['ZH_T14_0440_012:0182a01_20_16']	南無離一切染意佛	南無離一切染意佛	Homage to Buddha of Separated from All Defilement Mind
+['ZH_T14_0440_012:0182a01_20_17', 'ZH_T14_0440_012:0182a01_20_18']	南無聚集寶佛🔽南無德山佛	南無聚集寶佛 南無德山佛	Homage to Accumulated Jewel Buddha🔽Homage to Virtue Mountain Buddha
+['ZH_T14_0440_012:0182a01_20_19', 'ZH_T14_0440_012:0182a01_20_20']	南無勇猛山佛🔽南無梵聲龍奮迅佛	南無勇猛山佛 南無梵聲龍奮迅佛	Homage to Courageous Mountain Buddha🔽Homage to Buddha of Brahma Sound Dragon Striving Buddha
+['ZH_T14_0440_012:0182a01_20_21']	南無世間勝上佛	南無世間勝上佛	Homage to World Supreme Buddha
+['ZH_T14_0440_012:0182a01_20_22', 'ZH_T14_0440_012:0182a01_20_23']	南無師子奮迅吼佛🔽南無華勝佛	南無師子奮迅吼佛 南無華勝佛	Homage to the Buddha Lion's Roaring🔽Homage to the Buddha Flower Superior
+['ZH_T14_0440_012:0182a01_20_24']	南無山勝佛	南無山勝佛	Homage to the Buddha Mountain Superior
+['ZH_T14_0440_012:0182a01_20_25', 'ZH_T14_0440_012:0182a01_20_26']	南無成就娑羅自在王佛🔽南無吼聲佛	南無成就娑羅自在王佛 南無吼聲佛	Homage to the Buddha Accomplishing Sāla Sovereign King🔽Homage to the Buddha Roaring Sound
+['ZH_T14_0440_012:0182a01_20_27', 'ZH_T14_0440_012:0182a01_20_28']	南無普光明佛🔽南無等蓋佛	南無普光明佛 南無等蓋佛	Homage to the Buddha Universal Radiance🔽Homage to the Buddha Equal Parasol
+['ZH_T14_0440_012:0182a01_20_29', 'ZH_T14_0440_012:0182a01_20_30']	南無無憂佛🔽南無智王佛	南無無憂佛 南無智王佛	Homage to the Buddha Sorrowless🔽Homage to the Buddha Wisdom King
+['ZH_T14_0440_012:0182a01_20_31', 'ZH_T14_0440_012:0182a01_20_32']	南無智山佛🔽南無月光佛	南無智山佛 南無月光佛	Homage to the Buddha Wisdom Mountain🔽Homage to the Buddha Moonlight
+['ZH_T14_0440_012:0182a01_20_33', 'ZH_T14_0440_012:0182a01_20_34']	南無普光佛🔽南無聲德佛	南無普光佛 南無聲德佛	Homage to the Buddha Universal Light🔽Homage to the Buddha Sound Virtue
+['ZH_T14_0440_012:0182a01_20_35']	南無無勿成就佛	南無無勿成就佛	Homage to the Buddha Accomplishing Without Worry
+['ZH_T14_0440_012:0182a01_20_36', 'ZH_T14_0440_012:0182a01_20_37']	南無火幢佛🔽南無智自在佛	南無火幢佛 南無智自在佛	Homage to the Buddha Fire Banner🔽Homage to the Buddha Mastery of Wisdom
+['ZH_T14_0440_012:0182a01_20_38', 'ZH_T14_0440_012:0182a01_20_39']	南無大自在佛🔽南無梵聲佛	南無大自在佛 南無梵聲佛	Homage to the Buddha Great Mastery🔽Homage to the Buddha Brahma Voice
+['ZH_T14_0440_012:0182a01_20_40', 'ZH_T14_0440_012:0182a01_20_41']	南無眾自在佛🔽南無月面佛	南無眾自在佛 南無月面佛	Homage to the Buddha Assembly Mastery🔽Homage to the Buddha Moon Face
+['ZH_T14_0440_012:0182a01_20_42']	南無日面佛	南無日面佛	Homage to the Buddha Sun Face
+['ZH_T14_0440_012:0182a01_20_43', 'ZH_T14_0440_012:0182a01_20_44']	南無聲勝佛🔽南無梵面佛	南無聲勝佛 南無梵面佛	Homage to the Buddha Sound Superior🔽Homage to the Buddha Brahma Face
+['ZH_T14_0440_012:0182a01_20_45']	南無梵天佛	南無梵天佛	Homage to the Buddha Brahma Heaven
+['ZH_T14_0440_012:0182a01_20_46']	南無因陀羅雞兜幢佛	南無因陀羅雞兜幢佛	Homage to the Buddha Indra Kīla Banner
+['ZH_T14_0440_012:0182a01_20_47']	南無善思惟月勝成就王佛	南無善思惟月勝成就王佛	Homage to the Buddha Well Contemplated Moon Superior Accomplishment King
+['ZH_T14_0440_012:0182a01_20_48']	南無智光明佛	南無智光明佛	Homage to the Buddha Wisdom Light
+['ZH_T14_0440_012:0182a01_20_49']	南無無垢稱王佛	南無無垢稱王佛	Homage to the Buddha Stainless Renown King
+['ZH_T14_0440_012:0182a01_20_50']	南無樂說莊嚴雲德佛	南無樂說莊嚴雲德佛	Homage to the Buddha of the Cloud of Adornments of Delightful Eloquence
+['ZH_T14_0440_012:0182a01_20_51']	南無妙聲佛	南無妙聲佛	Homage to the Buddha of Wonderful Voice
+['ZH_T14_0440_012:0182a01_20_52', 'ZH_T14_0440_012:0182a01_20_53']	南無清淨面無垢月勝王佛🔽南無平等意佛	南無清淨面無垢月勝王佛 南無平等意佛	Homage to the Buddha of Pure Countenance, Stainless Moon, Supreme King🔽Homage to the Buddha of Equal Intention
+['ZH_T14_0440_012:0182a01_20_54']	南無樂說聲佛	南無樂說聲佛	Homage to the Buddha of Delightful Voice
+['ZH_T14_0440_012:0182a01_20_55']	南無無垢月佛	南無無垢月佛	Homage to the Buddha of Stainless Moon
+['ZH_T14_0440_012:0182a01_20_56']	南無無垢清淨金色決定光明威德王佛	南無無垢清淨金色決定光明威德王佛	Homage to the Buddha of Stainless Pure Golden Color, Definitive Light, Majestic King
+['ZH_T14_0440_012:0182a01_20_57', 'ZH_T14_0440_012:0182a01_20_58']	南無寶光明輪王佛🔽南無智通佛	南無寶光明輪王佛 南無智通佛	Homage to the Buddha of the Jeweled Light Wheel King🔽Homage to the Buddha of Wisdom Penetration
+['ZH_T14_0440_012:0182a01_20_59', 'ZH_T14_0440_012:0182a01_20_60']	南無不可數發精進決定佛🔽南無山積佛	南無不可數發精進決定佛 南無山積佛	Homage to the Buddha of Innumerable Vows of Diligence and Certainty🔽Homage to the Buddha of Mountain Accumulation
+['ZH_T14_0440_012:0182a01_20_61']	南無因陀羅雞兜幢王佛	南無因陀羅雞兜幢王佛	Homage to the Buddha of Indra's Banner of the King of Heaps
+['ZH_T14_0440_012:0182a01_20_62']	南無善住娑羅王佛	南無善住娑羅王佛	Homage to the Buddha of Good Abiding in the Sāla Grove
+['ZH_T14_0440_012:0182a01_20_63']	南無波頭摩勝佛	南無波頭摩勝佛	Homage to the Buddha of Pāṭala's Excellence
+['ZH_T14_0440_012:0182a01_20_64', 'ZH_T14_0440_012:0182a01_20_65', 'ZH_T14_0440_012:0182a01_20_66']	南無善住堅固王佛🔽南無日月光佛🔽南無波頭摩光佛	南無善住堅固王佛 南無日月光佛 南無波頭摩光佛	Homage to the Buddha of Good Abiding and Firmness🔽Homage to the Buddha of Sunlight and Moonlight🔽Homage to the Buddha of Pāṭala's Light
+['ZH_T14_0440_012:0182a01_20_67', 'ZH_T14_0440_012:0182a01_20_68']	南無波頭摩勝步佛🔽南無大通佛	南無波頭摩勝步佛 南無大通佛	Homage to the Buddha of Pāṭala's Excellent Stride🔽Homage to the Buddha of Great Penetration
+['ZH_T14_0440_012:0182a01_20_69']	南無大通智勝佛	南無大通智勝佛	Homage to the Buddha of Great Penetration and Supreme Wisdom
+['ZH_T14_0440_012:0182a01_20_70', 'ZH_T14_0440_012:0182a01_20_71']	南無無邊智佛🔽南無多寶佛	南無無邊智佛 南無多寶佛	Homage to the Buddha of Boundless Wisdom🔽Homage to the Buddha of Abundant Treasures
+['ZH_T14_0440_012:0182a01_20_72']	南無吼聲降伏一切佛	南無吼聲降伏一切佛	Homage to the Buddha of Roaring Voice Subduing All
+['ZH_T14_0440_012:0182a01_20_73']	南無日月無垢光明佛	南無日月無垢光明佛	Homage to the Buddha Stainless Light of the Sun and Moon
+['ZH_T14_0440_012:0182a01_20_74', 'ZH_T14_0440_012:0182a01_20_75']	南無蓮華無垢星宿王花佛🔽南無雲妙鼓聲王佛	南無蓮華無垢星宿王花佛 南無雲妙鼓聲王佛	Homage to the Buddha Lotus-Free Constellation King Flower🔽Homage to the Buddha Cloud Wonderful Drum Sound King
+['ZH_T14_0440_012:0182a01_20_76', 'ZH_T14_0440_012:0182a01_20_77']	南無住持水聲善星宿王華嚴通佛🔽南無無垢身佛	南無住持水聲善星宿王華嚴通佛 南無無垢身佛	Homage to the Buddha Sustaining Water Sound Constellation King Flower Adornment Universal Buddha🔽Homage to the Buddha Stainless Body
+['ZH_T14_0440_012:0182a01_20_78']	南無那伽鉤羅勝佛	南無那伽鉤羅勝佛	Homage to the Buddha Nāga Hook Superior Buddha
+['ZH_T14_0440_012:0182a01_20_79']	南無智照佛	南無智照佛	Homage to the Buddha Wisdom Illumination Buddha
+['ZH_T14_0440_012:0182a01_20_80']	南無現一切功德光明奮迅王佛	南無現一切功德光明奮迅王佛	Homage to the Buddha Manifesting All Merit and Virtue Light Flashing King Buddha
+['ZH_T14_0440_012:0182a01_20_81', 'ZH_T14_0440_012:0182a01_20_82']	南無照光明莊嚴奮迅王佛🔽南無月明佛	南無照光明莊嚴奮迅王佛 南無月明佛	Homage to the Buddha Illuminating Light Adornment Flashing King Buddha🔽Homage to the Buddha Moon Light
+['ZH_T14_0440_012:0182a01_20_83', 'ZH_T14_0440_012:0182a01_20_84']	南無光明普照佛🔽南無寶莊嚴佛	南無光明普照佛 南無寶莊嚴佛	Homage to the Buddha Universal Light Buddha🔽Homage to the Buddha Jewel Adornment
+['ZH_T14_0440_012:0182a01_20_85', 'ZH_T14_0440_012:0182a01_20_86', 'ZH_T14_0440_012:0182a01_20_87']	南無普丹鄉散華佛🔽南無普然燈佛🔽南無普華佛	南無普丹鄉散華佛 南無普然燈佛 南無普華佛	Homage to the Buddha Universal Scattering Flowers Buddha🔽Homage to the Buddha Universal Lamp Buddha🔽Homage to the Buddha Universal Flower Buddha
+['ZH_T14_0440_012:0182a01_20_88']	南無普光明勝山王佛	南無普光明勝山王佛	Homage to the Buddha Universal Light Supreme Mountain King Buddha
+['ZH_T14_0440_012:0182a01_20_89']	南無善住功德摩尼山王佛	南無善住功德摩尼山王佛	Homage to the Buddha Well-Abiding Merit Jewel Mountain King Buddha
+['ZH_T14_0440_012:0182a01_20_90', 'ZH_T14_0440_012:0182a01_20_91']	南無光明王佛🔽南無不可降伏幢佛	南無光明王佛 南無不可降伏幢佛	Homage to the Buddha Light King Buddha🔽Homage to the Buddha Invincible Banner Buddha
+['ZH_T14_0440_012:0182a01_20_92', 'ZH_T14_0440_012:0182a01_20_93']	南無勝功德佛🔽南無世間自在佛	南無勝功德佛 南無世間自在佛	Homage to the Buddha Superior Merit Buddha🔽Homage to the Buddha World Sovereign Buddha
+['ZH_T14_0440_012:0182a01_20_94']	南無普華佛	南無普華佛	Homage to the Buddha Universal Flower Buddha
+['ZH_T14_0440_012:0182a01_20_95']	南無舌根佛	南無舌根佛	Homage to the Buddha of the Tongue Faculty
+['ZH_T14_0440_012:0182a01_20_96']	南無虛空輪清淨王佛	南無虛空輪清淨王佛	Homage to the Buddha of the Pure Wheel of Space
+['ZH_T14_0440_012:0182a01_20_97']	南無勝光明波頭摩敷身佛	南無勝光明波頭摩敷身佛	Homage to the Buddha of Supreme Light and Padma-adorned Body
+['ZH_T14_0440_012:0182a01_20_98']	南無須彌山波頭摩勝王佛	南無須彌山波頭摩勝王佛	Homage to the Buddha of Mount Sumeru and Padma-supreme King
+['ZH_T14_0440_012:0182a01_20_99']	南無一切寶摩尼王佛	南無一切寶摩尼王佛	Homage to the Buddha of the King of All Jewel-maṇi
+['ZH_T14_0440_012:0182a01_20_100']	南無寶光明日月輪智佛	南無寶光明日月輪智佛	Homage to the Buddha of the Light of Jewels, the Sun, Moon, and Sphere of Knowledge
+['ZH_T14_0440_012:0182a01_20_101']	南無威德頻頭聲王佛	南無威德頻頭聲王佛	Homage to the Buddha of the Sound of the King of Powerful Bindus
+['ZH_T14_0440_012:0182a01_20_102']	南無大導師佛	南無大導師佛	Homage to the Buddha of Great Guidance
+['ZH_T14_0440_012:0182a01_20_103', 'ZH_T14_0440_012:0182a01_20_104']	南無丹鄉有普光明奮迅王光明佛🔽南無善行佛	南無丹鄉有普光明奮迅王光明佛 南無善行佛	Homage to the Buddha of the Light of Universal Radiance and the King of Light🔽Homage to the Buddha of Good Conduct
+['ZH_T14_0440_012:0182a01_20_105']	南無樂說山佛	南無樂說山佛	Homage to the Buddha of the Mountain of Eloquence
+['ZH_T14_0440_012:0182a01_20_106']	南無住佛	南無住佛	Homage to the Buddha of Abiding
+['ZH_T14_0440_012:0182a01_20_107']	南無師子鳥丹鄉象奮迅佛	南無師子鳥丹鄉象奮迅佛	Homage to the Buddha of the Lion Bird and the Power of the Elephant
+['ZH_T14_0440_012:0182a01_20_108', 'ZH_T14_0440_012:0182a01_20_109']	南無功德王光明佛🔽南無功德幢佛	南無功德王光明佛 南無功德幢佛	Homage to the Buddha of the Light of Meritorious Virtue🔽Homage to the Buddha of the Banner of Meritorious Virtue
+['ZH_T14_0440_012:0182a01_20_110', 'ZH_T14_0440_012:0182a01_20_111', 'ZH_T14_0440_012:0182a01_20_112']	南無功德作佛🔽南無聖天佛🔽南無寶幢佛	南無功德作佛 南無聖天佛 南無寶幢佛	Homage to the Buddha of Meritorious Action🔽Homage to the Buddha of the Holy Heaven🔽Homage to the Buddha of the Banner of Jewels
+['ZH_T14_0440_012:0182a01_20_113']	南無金剛合佛	南無金剛合佛	Homage to the Buddha of the Union of Vajras
+['ZH_T14_0440_012:0182a01_20_114', 'ZH_T14_0440_012:0182a01_20_115']	南無一切勝佛🔽南無安隱色佛	南無一切勝佛 南無安隱色佛	Homage to the Buddha of All Victories🔽Homage to the Buddha of Peaceful Form
+['ZH_T14_0440_012:0182a01_20_116']	南無妙行佛	南無妙行佛	Homage to the Buddha of Wonderful Conduct
+['ZH_T14_0440_012:0182a01_20_117']	南無波婆羅娑伽羅佛	南無波婆羅娑伽羅佛	Homage to the Buddha of Pāpāsa-gāra
+['ZH_T14_0440_012:0182a01_20_118']	南無弗波雞兜佛	南無弗波雞兜佛	Homage to Buddha Fobojidou
+['ZH_T14_0440_012:0182a01_20_119']	南無妙色佛	南無妙色佛	Homage to Buddha Miaose
+['ZH_T14_0440_012:0182a01_20_120', 'ZH_T14_0440_012:0182a01_20_121', 'ZH_T14_0440_012:0182a01_20_122']	南無修盧遮那佛🔽南無梨師掘多佛🔽南無破煩惱佛	南無修盧遮那佛 南無梨師掘多佛 南無破煩惱佛	Homage to Buddha Xulouchana🔽Homage to Buddha Lishijueduo🔽Homage to Buddha Po Fannao
+['ZH_T14_0440_012:0182a01_20_123', 'ZH_T14_0440_012:0182a01_20_124', 'ZH_T14_0440_012:0182a01_20_125']	南無妙佛🔽南無敷華佛🔽南無弗加羅佛	南無妙佛 南無敷華佛 南無弗加羅佛	Homage to Buddha Miaofofo🔽Homage to Buddha Fuhuafofo🔽Homage to Buddha Fujialuo
+['ZH_T14_0440_012:0182a01_20_126', 'ZH_T14_0440_012:0182a01_20_127', 'ZH_T14_0440_012:0182a01_20_128']	南無善光佛🔽南無吉佛🔽南無師子威德佛	南無善光佛 南無吉佛 南無師子威德佛	Homage to Buddha Shandengguang🔽Homage to Buddha Ji🔽Homage to Buddha Shiziweide
+['ZH_T14_0440_012:0182a01_20_129', 'ZH_T14_0440_012:0182a01_20_130', 'ZH_T14_0440_012:0182a01_20_131']	南無住智德佛🔽南無婆那多香佛🔽南無實法廣稱佛	南無住智德佛 南無婆那多香佛 南無實法廣稱佛	Homage to Buddha Zhuchi De🔽Homage to Buddha Pona Duo Xiang🔽Homage to Buddha Shifa Guang Cheng
+['ZH_T14_0440_012:0182a01_20_132', 'ZH_T14_0440_012:0182a01_20_133', 'ZH_T14_0440_012:0182a01_20_134']	南無諦沙佛🔽南無世間喜佛🔽南無廣光明佛	南無諦沙佛 南無世間喜佛 南無廣光明佛	Homage to Buddha Disha🔽Homage to Buddha Shijian Xi🔽Homage to Buddha Guang Ming Guang
+['ZH_T14_0440_012:0182a01_20_135', 'ZH_T14_0440_012:0182a01_20_136']	南無寶稱佛🔽南無寶威德佛	南無寶稱佛 南無寶威德佛	Homage to Buddha Bao Cheng🔽Homage to Buddha Bao Wei De
+['ZH_T14_0440_012:0182a01_20_137', 'ZH_T14_0440_012:0182a01_20_138']	南無梵威德佛🔽南無善聲佛	南無梵威德佛 南無善聲佛	Homage to Buddha Fan Wei De🔽Homage to Buddha Shan Sheng
+['ZH_T14_0440_012:0182a01_20_139', 'ZH_T14_0440_012:0182a01_20_140', 'ZH_T14_0440_012:0182a01_20_141']	南無善華佛🔽南無真聲佛🔽南無善行色佛	南無善華佛 南無真聲佛 南無善行色佛	Homage to Buddha Shan Hua🔽Homage to Buddha Zhen Sheng🔽Homage to Buddha Shan Xing Se
+['ZH_T14_0440_012:0182a01_20_142']	南無微笑眼佛	南無微笑眼佛	Homage to Buddha Xiao Xiao Yan
+['ZH_T14_0440_012:0182a01_20_143', 'ZH_T14_0440_012:0182a01_20_144', 'ZH_T14_0440_012:0182a01_20_145']	南無功德山佛🔽南無雲聲佛🔽南無妙色佛	南無功德山佛 南無雲聲佛 南無妙色佛	Homage to Buddha Gong De Shan🔽Homage to Buddha Yun Sheng🔽Homage to Buddha Miao Se
+['ZH_T14_0440_012:0182a01_20_146']	南無命威德佛	南無命威德佛	Homage to Buddha Ming Wei De
+['ZH_T14_0440_012:0182a01_20_147', 'ZH_T14_0440_012:0182a01_20_148']	南無勝步行佛🔽南無世間求佛	南無勝步行佛 南無世間求佛	Homage to the Buddha Victorious Walker🔽Homage to the Buddha World Seeker
+['ZH_T14_0440_012:0182a01_20_149', 'ZH_T14_0440_012:0182a01_20_150']	南無降伏怨佛🔽南無供養佛	南無降伏怨佛 南無供養佛	Homage to the Buddha Subduer of Enemies🔽Homage to the Buddha Honored One
+['ZH_T14_0440_012:0182a01_20_151']	南無喜莊嚴佛	南無喜莊嚴佛	Homage to the Buddha Joyful Adornment
+['ZH_T14_0440_012:0182a01_20_152']	南無舍尸雞兜佛	南無舍尸雞兜佛	Homage to the Buddha Śikhin
+['ZH_T14_0440_012:0182a01_20_153']	南無弗若功德光佛	南無弗若功德光佛	Homage to the Buddha Merit Light of Prajñā
+['ZH_T14_0440_012:0182a01_20_154', 'ZH_T14_0440_012:0182a01_20_155']	南無大威德佛🔽南無等寶蓋佛	南無大威德佛 南無等寶蓋佛	Homage to the Buddha of Great Authority🔽Homage to the Buddha Equal Jewel Canopy
+['ZH_T14_0440_012:0182a01_20_156']	南無那羅延佛	南無那羅延佛	Homage to the Buddha Nārāyaṇa
+['ZH_T14_0440_012:0182a01_20_157', 'ZH_T14_0440_012:0182a01_20_158']	南無成就行佛🔽南無離憂佛	南無成就行佛 南無離憂佛	Homage to the Buddha Accomplished Practice🔽Homage to the Buddha Free from Sorrow
+['ZH_T14_0440_012:0182a01_20_159', 'ZH_T14_0440_012:0182a01_20_160']	南無無垢喜佛🔽南無無垢光明佛	南無無垢喜佛 南無無垢光明佛	Homage to the Buddha Stainless Light🔽Homage to the Buddha Stainless Light
+['ZH_T14_0440_012:0182a01_20_161', 'ZH_T14_0440_012:0182a01_20_162']	南無厚堅固佛🔽南無無垢雲王佛	南無厚堅固佛 南無無垢雲王佛	Homage to the Buddha Thick and Firm🔽Homage to the Buddha Stainless Cloud King
+['ZH_T14_0440_012:0182a01_20_163']	南無無垢臂佛	南無無垢臂佛	Homage to the Buddha Stainless Arm
+['ZH_T14_0440_012:0182a01_20_164', 'ZH_T14_0440_012:0182a01_20_165']	南無義成就佛🔽南無勝護佛	南無義成就佛 南無勝護佛	Homage to the Buddha Meaning Accomplishment🔽Homage to the Buddha Excellent Guardian
+['ZH_T14_0440_012:0182a01_20_166']	南無梵功德天王佛	南無梵功德天王佛	Homage to the Buddha Brahma Merit Heavenly King
+['ZH_T14_0440_012:0182a01_20_167']	南無虛空步佛	南無虛空步佛	Homage to the Buddha Space Walker
+['ZH_T14_0440_012:0182a01_20_168']	南無妙智佛	南無妙智佛	Homage to the Buddha Wonderful Wisdom
+['ZH_T14_0440_012:0182a01_20_169', 'ZH_T14_0440_012:0182a01_20_170']	南無法寶佛🔽南無不空見佛	南無法寶佛 南無不空見佛	Homage to the Buddha Dharma Jewel🔽Homage to the Buddha Unfailing Vision
+['ZH_T14_0440_012:0182a01_20_171', 'ZH_T14_0440_012:0182a01_20_172']	南無難降伏光佛🔽南無月光佛	南無難降伏光佛 南無月光佛	Homage to the Buddha Invincible Light🔽Homage to the Buddha Moonlight
+['ZH_T14_0440_012:0182a01_20_173']	南無月丹有淨佛	南無月丹有淨佛	Homage to the Buddha Pure Moon (Skt. Candraprabha)
+['ZH_T14_0440_012:0182a01_20_174']	南無普光明佛	南無普光明佛	Homage to the Buddha Universal Light
+['ZH_T14_0440_012:0182a01_20_175', 'ZH_T14_0440_012:0182a01_20_176', 'ZH_T14_0440_012:0182a01_20_177']	南無寶勝佛🔽南無普觀佛🔽南無不可數見佛	南無寶勝佛 南無普觀佛 南無不可數見佛	Homage to Buddha Ratnārcis🔽Homage to Buddha Samantāvabhāsa🔽Homage to Buddha Asannikāśa-darśana
+['ZH_T14_0440_012:0182a01_20_178', 'ZH_T14_0440_012:0182a01_20_179']	南無通丹有障佛🔽南無清淨光明寶佛	南無通丹有障佛 南無清淨光明寶佛	Homage to Buddha Vyūharāja🔽Homage to Buddha Viśuddhaprabhā-ratna
+['ZH_T14_0440_012:0182a01_20_180']	南無善洗清淨無垢成就無邊功德勝王佛	南無善洗清淨無垢成就無邊功德勝王佛	Homage to Buddha Viśuddha-śuddha-vimala-ananta-puṇya-jñāna-rāja
+['ZH_T14_0440_012:0182a01_20_181']	南無寶勝無垢王劫佛	南無寶勝無垢王劫佛	Homage to Buddha Ratnārcis-vimala-rāja
+['ZH_T14_0440_012:0182a01_20_182', 'ZH_T14_0440_012:0182a01_20_183', 'ZH_T14_0440_012:0182a01_20_184']	南無第一然燈佛🔽南無功德寶勝佛🔽南無無垢光明佛	南無第一然燈佛 南無功德寶勝佛 南無無垢光明佛	Homage to Buddha First-Dīpaṃkara🔽Homage to Buddha Puṇya-ratna-śrī🔽Homage to Buddha Vimalaprabhāsa
+['ZH_T14_0440_012:0182a01_20_185', 'ZH_T14_0440_012:0182a01_20_186', 'ZH_T14_0440_012:0182a01_20_187']	南無樂說莊嚴佛🔽南無無垢月雞兜稱佛🔽南無鈎蘇摩莊嚴佛	南無樂說莊嚴佛 南無無垢月雞兜稱佛 南無鈎蘇摩莊嚴佛	Homage to Buddha Prāmodyapraṇidhi-vyūha🔽Homage to Buddha Vimalacandra-kṛki-tathāgata🔽Homage to Buddha Kuśala-vyūha
+['ZH_T14_0440_012:0182a01_20_188', 'ZH_T14_0440_012:0182a01_20_189', 'ZH_T14_0440_012:0182a01_20_190']	南無火步佛🔽南無寶上佛🔽南無無畏觀佛	南無火步佛 南無寶上佛 南無無畏觀佛	Homage to Buddha Tejorāja🔽Homage to Buddha Ratna-śrī🔽Homage to Buddha Abhaya-darśana
+['ZH_T14_0440_012:0182a01_20_191', 'ZH_T14_0440_012:0182a01_20_192', 'ZH_T14_0440_012:0182a01_20_193']	南無師子奮迅佛🔽南無離怖畏佛🔽南無善見佛	南無師子奮迅佛 南無離怖畏佛 南無善見佛	Homage to Buddha Siṃha-vikrīdita🔽Homage to Buddha Bhaya-vināyaka🔽Homage to Buddha Sudarśana
+['ZH_T14_0440_012:0182a01_20_194', 'ZH_T14_0440_012:0182a01_20_195', 'ZH_T14_0440_012:0182a01_20_196']	南無不怯弱離驚怖佛🔽南無金剛威德佛🔽南無梵勝天王佛	南無不怯弱離驚怖佛 南無金剛威德佛 南無梵勝天王佛	Homage to Buddha Aśaṅka-bhaya-vināyaka🔽Homage to Buddha Vajra-tejas🔽Homage to Buddha Brahma-śreṣṭhin
+['ZH_T14_0440_012:0182a01_20_197']	南無善月佛	南無善月佛	Homage to Buddha Sum-candra
+['ZH_T14_0440_012:0182a01_20_198']	南無光明王佛	南無光明王佛	Homage to Buddha Prabhāsa-rāja
+['ZH_T14_0440_012:0182a01_20_199', 'ZH_T14_0440_012:0182a01_20_200']	南無雞兜稱佛🔽南無閻浮光明佛	南無雞兜稱佛 南無閻浮光明佛	Homage to Buddha Jikedu-cheng🔽Homage to Buddha Yanfu-guangming
+['ZH_T14_0440_012:0182a01_20_201', 'ZH_T14_0440_012:0182a01_20_202']	南無多摩羅跋旃檀香佛🔽南無不動佛	南無多摩羅跋旃檀香佛 南無不動佛	Homage to Buddha Dama-luo-po-zhan-tan-xiang🔽Homage to Buddha Achala
+['ZH_T14_0440_012:0182a01_20_203', 'ZH_T14_0440_012:0182a01_20_204', 'ZH_T14_0440_012:0182a01_20_205']	南無彌留山佛🔽南無師子聲佛🔽南無師子幢佛	南無彌留山佛 南無師子聲佛 南無師子幢佛	Homage to Buddha Meru-shan🔽Homage to Buddha Simha-svara🔽Homage to Buddha Simha-dhvaja
+['ZH_T14_0440_012:0182a01_20_206']	南無住虛空佛	南無住虛空佛	Homage to Buddha Vyuṇa-vāsin
+['ZH_T14_0440_012:0182a01_20_207', 'ZH_T14_0440_012:0182a01_20_208']	南無常入涅槃佛🔽南無因陀羅幢佛	南無常入涅槃佛 南無因陀羅幢佛	Homage to Buddha Nitya-nirvāṇa-praviṣṭa🔽Homage to Buddha Indra-dhvaja
+['ZH_T14_0440_012:0182a01_20_209', 'ZH_T14_0440_012:0182a01_20_210']	南無甘露丹有幢佛🔽南無降伏一切世間怨佛	南無甘露丹有幢佛 南無降伏一切世間怨佛	Homage to Buddha Amṛta-dhvaja🔽Homage to Buddha Sarva-loka-ari-ṣāha
+['ZH_T14_0440_012:0182a01_20_211', 'ZH_T14_0440_012:0182a01_20_212', 'ZH_T14_0440_012:0182a01_20_213']	南無得度佛🔽南無彌留劫佛🔽南無多摩羅跋旃檀香佛	南無得度佛 南無彌留劫佛 南無多摩羅跋旃檀香佛	Homage to Buddha Tārā-prāpta🔽Homage to Buddha Meru-kalpa🔽Homage to Buddha Dama-luo-po-zhan-tan-xiang
+['ZH_T14_0440_012:0182a01_20_214', 'ZH_T14_0440_012:0182a01_20_215']	南無雲自在王佛🔽南無能破一切世驚怖畏佛	南無雲自在王佛 南無能破一切世驚怖畏佛	Homage to Buddha Megha-vaśavartin🔽Homage to Buddha Sarva-loka-bhaya-uttrāsa-bheda
+['ZH_T14_0440_012:0182a01_20_216']	南無普光明佛	南無普光明佛	Homage to Buddha Samanta-prabhāsa
+['ZH_T14_0440_012:0182a01_20_217']	南無法光明佛	南無法光明佛	Homage to Buddha Dharma-prabhāsa
+['ZH_T14_0440_012:0182a01_20_218']	南無海住持奮迅通佛	南無海住持奮迅通佛	Homage to Buddha Sāgara-dhṛti-vegarāja
+['ZH_T14_0440_012:0182a01_20_219', 'ZH_T14_0440_012:0182a01_20_220', 'ZH_T14_0440_012:0182a01_20_221']	南無法虛空勝王佛🔽南無七寶波頭摩步佛🔽南無寶雞兜佛	南無法虛空勝王佛 南無七寶波頭摩步佛 南無寶雞兜佛	Homage to Buddha Dharma-ākāśa-viśiṣṭa-rāja🔽Homage to Buddha Saptaratna-pāṇḍaravikrīḍita🔽Homage to Buddha Ratna-kūṭa
+['ZH_T14_0440_012:0182a01_20_222']	南無寶一蓋佛	南無寶一蓋佛	Homage to Buddha Ratna-chatra
+['ZH_T14_0440_012:0182a01_20_223']	南無一切眾生愛見佛	南無一切眾生愛見佛	Homage to the Buddha Beloved by All Sentient Beings
+['ZH_T14_0440_012:0182a01_20_224']	南無滿足百千光明幢佛	南無滿足百千光明幢佛	Homage to the Buddha of Saturated Hundred Thousand Light Banners
+['ZH_T14_0440_012:0182a01_20_225', 'ZH_T14_0440_012:0182a01_20_226']	南無娑羅自在王佛🔽南無法丹有花莊嚴王佛	南無娑羅自在王佛 南無法丹有花莊嚴王佛	Homage to the Buddha Sovereign King of the Sāla Tree🔽Homage to the Buddha of Dharma Adorned with Flowers
+['ZH_T14_0440_012:0182a01_20_227']	南無普一寶蓋佛	南無普一寶蓋佛	Homage to the Buddha of Universal Single Jewel Canopy
+['ZH_T14_0440_012:0182a01_20_228', 'ZH_T14_0440_012:0182a01_20_229']	南無星宿佛🔽南無普光明奮迅王佛	南無星宿佛 南無普光明奮迅王佛	Homage to the Buddha of the Stars🔽Homage to the Buddha of Universal Light and Subduing King
+['ZH_T14_0440_012:0182a01_20_230', 'ZH_T14_0440_012:0182a01_20_231']	南無法莊嚴王佛🔽南無山燈佛	南無法莊嚴王佛 南無山燈佛	Homage to the Buddha of Dharma Adornment🔽Homage to the Buddha Mountain Lamp
+['ZH_T14_0440_012:0182a01_20_232', 'ZH_T14_0440_012:0182a01_20_233']	南無堅精進佛🔽南無法照光佛	南無堅精進佛 南無法照光佛	Homage to the Buddha of Firm Vows🔽Homage to the Buddha of Dharma Illumination Light
+['ZH_T14_0440_012:0182a01_20_234']	南無住清淨光丹眼佛	南無住清淨光丹眼佛	Homage to the Buddha Abiding in Pure Light Eyes
+['ZH_T14_0440_012:0182a01_20_235']	南無善住淨境界佛	南無善住淨境界佛	Homage to the Buddha Well Abiding in Pure Realms
+['ZH_T14_0440_012:0182a01_20_236']	南無月山佛	南無月山佛	Homage to the Buddha Moon Mountain
+['ZH_T14_0440_012:0182a01_20_237']	南無畢竟莊嚴無邊功德王佛	南無畢竟莊嚴無邊功德王佛	Homage to the Buddha of Ultimate Adornment, King of Boundless Merits
+['ZH_T14_0440_012:0182a01_20_238']	南無離諸煩惱佛	南無離諸煩惱佛	Homage to the Buddha Free from All Afflictions
+['ZH_T14_0440_012:0182a01_20_239']	南無不空見佛	南無不空見佛	Homage to the Buddha of Unfailing Vision
+['ZH_T14_0440_012:0182a01_20_240']	南無成就無垢無邊清淨功德勝王佛	南無成就無垢無邊清淨功德勝王佛	Homage to the Buddha of Accomplished Stainless Boundless Pure Merit and Virtue Victorious King
+['ZH_T14_0440_012:0182a01_20_241']	南無智上光明佛	南無智上光明佛	Homage to the Buddha of Wisdom Supreme Light
+['ZH_T14_0440_012:0182a01_20_242']	南無寶勝智威德莊嚴自在王佛	南無寶勝智威德莊嚴自在王佛	Homage to the Buddha of Jewel Supreme Wisdom Majestic Adornment Sovereign King
+['ZH_T14_0440_012:0182a01_20_243']	南無清淨光佛	南無清淨光佛	Homage to the Buddha of Pure Light
+['ZH_T14_0440_012:0182a01_20_244']	南無敷花娑羅自在王佛	南無敷花娑羅自在王佛	Homage to the Buddha Blooming Flower Sāla Sovereign King
+['ZH_T14_0440_012:0182a01_20_245', 'ZH_T14_0440_012:0182a01_20_246']	南無火鄉大華敷王佛🔽南無月輪清淨佛	南無火鄉大華敷王佛 南無月輪清淨佛	Homage to the Buddha Great Flower-Adorned King of the Fire Region🔽Homage to the Buddha Pure Moon Orb
+['ZH_T14_0440_012:0182a01_20_247', 'ZH_T14_0440_012:0182a01_20_248']	南無寂靜月聲王佛🔽南無無邊堅精進住勝佛	南無寂靜月聲王佛 南無無邊堅精進住勝佛	Homage to the Buddha Silent Moon Sound King🔽Homage to the Buddha Abiding in Boundless Firm Diligence
+['ZH_T14_0440_012:0182a01_20_249', 'ZH_T14_0440_012:0182a01_20_250', 'ZH_T14_0440_012:0182a01_20_251']	南無波頭摩勝佛🔽南無法雞兜佛🔽南無然燈佛	南無波頭摩勝佛 南無法雞兜佛 南無然燈佛	Homage to the Buddha Pāṭala Supreme🔽Homage to the Buddha Dharma Ke-tou🔽Homage to the Buddha Lamp Lighter
+['ZH_T14_0440_012:0182a01_20_252', 'ZH_T14_0440_012:0182a01_20_253']	南無功德雞兜佛🔽南無功德成佛	南無功德雞兜佛 南無功德成佛	Homage to the Buddha Merit Ke-tou🔽Homage to the Buddha Accomplished Merit
+['ZH_T14_0440_012:0182a01_20_254', 'ZH_T14_0440_012:0182a01_20_255']	南無聖天佛🔽南無寶山佛	南無聖天佛 南無寶山佛	Homage to the Buddha Holy Heaven🔽Homage to the Buddha Jewel Mountain
+['ZH_T14_0440_012:0182a01_20_256', 'ZH_T14_0440_012:0182a01_20_257']	南無金剛合佛🔽南無一切勝佛	南無金剛合佛 南無一切勝佛	Homage to the Buddha Vajra Union🔽Homage to the Buddha Supreme of All
+['ZH_T14_0440_012:0182a01_20_258', 'ZH_T14_0440_012:0182a01_20_259']	南無普香佛🔽南無善華佛	南無普香佛 南無善華佛	Homage to the Buddha Universal Fragrance🔽Homage to the Buddha Good Flower
+['ZH_T14_0440_012:0182a01_20_260', 'ZH_T14_0440_012:0182a01_20_261', 'ZH_T14_0440_012:0182a01_20_262']	南無善勝佛🔽南無功德山佛🔽南無勝成就佛	南無善勝佛 南無功德山佛 南無勝成就佛	Homage to the Buddha Good Victory🔽Homage to the Buddha Merit Mountain🔽Homage to the Buddha Victorious Accomplishment
+['ZH_T14_0440_012:0182a01_20_263']	南無拘隣佛	南無拘隣佛	Homage to the Buddha Ko-lin
+['ZH_T14_0440_012:0182a01_20_264', 'ZH_T14_0440_012:0182a01_20_265', 'ZH_T14_0440_012:0182a01_20_266']	南無善眼佛🔽南無頭陀羅吒佛🔽南無善生佛	南無善眼佛 南無頭陀羅吒佛 南無善生佛	Homage to the Buddha Good Eye🔽Homage to the Buddha Tou-ta-lo-chia🔽Homage to the Buddha Good Birth
+['ZH_T14_0440_012:0182a01_20_267']	南無梵勝佛	南無梵勝佛	Homage to the Buddha Brahma Supreme
+['ZH_T14_0440_012:0182a01_20_268', 'ZH_T14_0440_012:0182a01_20_269']	南無寂靜佛🔽南無梵德佛	南無寂靜佛 南無梵德佛	Homage to the Buddha Silent🔽Homage to the Buddha Brahma Virtue
+['ZH_T14_0440_012:0182a01_20_270']	南無因陀羅幢佛	南無因陀羅幢佛	Homage to the Buddha Indra Banner
+['ZH_T14_0440_012:0182a01_20_271', 'ZH_T14_0440_012:0182a01_20_272']	南無月色佛🔽南無無垢色佛	南無月色佛 南無無垢色佛	Homage to Buddha Moon-Color🔽Homage to Buddha Stainless-Color
+['ZH_T14_0440_012:0182a01_20_273', 'ZH_T14_0440_012:0182a01_20_274']	南無無染佛🔽南無勝龍佛	南無無染佛 南無勝龍佛	Homage to Buddha Unstained🔽Homage to Buddha Supreme Dragon
+['ZH_T14_0440_012:0182a01_20_275']	南無龍天佛	南無龍天佛	Homage to Buddha Dragon-Heaven
+['ZH_T14_0440_012:0182a01_20_276']	南無金光明佛	南無金光明佛	Homage to Buddha Golden Light
+['ZH_T14_0440_012:0182a01_20_277']	南無勝聲因陀羅王佛	南無勝聲因陀羅王佛	Homage to Buddha Indra-King of Supreme Sound
+['ZH_T14_0440_012:0182a01_20_278']	南無善須彌山佛	南無善須彌山佛	Homage to Buddha Good Sumeru
+['ZH_T14_0440_012:0182a01_20_279', 'ZH_T14_0440_012:0182a01_20_280', 'ZH_T14_0440_012:0182a01_20_281']	南無善色藏佛🔽南無火光佛🔽南無威德因陀羅佛	南無善色藏佛 南無火光佛 南無威德因陀羅佛	Homage to Buddha Good Color-Store🔽Homage to Buddha Fire Light🔽Homage to Buddha Powerful Indra
+['ZH_T14_0440_012:0182a01_20_282', 'ZH_T14_0440_012:0182a01_20_283']	南無地迦佛🔽南無琉璃華佛	南無地迦佛 南無琉璃華佛	Homage to Buddha Dīkṣa🔽Homage to Buddha Beryl Flower
+['ZH_T14_0440_012:0182a01_20_284', 'ZH_T14_0440_012:0182a01_20_285']	南無勝琉璃金光明佛🔽南無月勝佛	南無勝琉璃金光明佛 南無月勝佛	Homage to Buddha Supreme Beryl Golden Light🔽Homage to Buddha Moon-Supreme
+['ZH_T14_0440_012:0182a01_20_286']	南無日吼佛	南無日吼佛	Homage to Buddha Sun-Roar
+['ZH_T14_0440_012:0182a01_20_287']	南無散華莊嚴光明佛	南無散華莊嚴光明佛	Homage to Buddha Scattered Flower Adorned Light
+['ZH_T14_0440_012:0182a01_20_288']	南無娑伽羅勝智奮迅通佛	南無娑伽羅勝智奮迅通佛	Homage to Buddha Sāgara-Supreme Wisdom-Shaking Pervasion
+['ZH_T14_0440_012:0182a01_20_289']	南無水光明佛	南無水光明佛	Homage to Buddha Water Light
+['ZH_T14_0440_012:0182a01_20_290']	南無大香行光明佛	南無大香行光明佛	Homage to Buddha Great Incense Practice Light
+['ZH_T14_0440_012:0182a01_20_291']	南無離一切瞋恨意佛	南無離一切瞋恨意佛	Homage to Buddha Free from All Hatred and Resentment
+['ZH_T14_0440_012:0182a01_20_292', 'ZH_T14_0440_012:0182a01_20_293']	南無寶勝佛🔽南無勝積佛	南無寶勝佛 南無勝積佛	Homage to Buddha Jewel-Supreme🔽Homage to Buddha Supreme Accumulation
+['ZH_T14_0440_012:0182a01_20_294']	南無勝仙佛	南無勝仙佛	Homage to Buddha Supreme Immortal
+['ZH_T14_0440_012:0182a01_20_295']	南無住持多功德通法佛	南無住持多功德通法佛	Homage to Buddha Upholding Dharma of Many Merits and Pervasion
+['ZH_T14_0440_012:0182a01_20_296']	南無日月琉璃光佛	南無日月琉璃光佛	Homage to Buddha Sun-Moon Beryl Light
+['ZH_T14_0440_012:0182a01_20_297', 'ZH_T14_0440_012:0182a01_20_298']	南無心菩提華勝佛🔽南無日月佛	南無心菩提華勝佛 南無日月佛	Homage to the Buddha Mind-Bodhi Flower Excellence🔽Homage to the Buddha Sun and Moon
+['ZH_T14_0440_012:0182a01_20_299']	南無日丹有月光佛	南無日丹有月光佛	Homage to the Buddha Sun and Moon Light
+['ZH_T14_0440_012:0182a01_20_300']	南無華鬘色王佛	南無華鬘色王佛	Homage to the Buddha Flower Garland Color King
+['ZH_T14_0440_012:0182a01_20_301']	南無鉤修彌多通佛	南無鉤修彌多通佛	Homage to the Buddha Hook Xiu Mi Du Tong
+['ZH_T14_0440_012:0182a01_20_302']	南無水月光明佛	南無水月光明佛	Homage to the Buddha Water Moon Light
+['ZH_T14_0440_012:0182a01_20_303']	南無破無明闇佛	南無破無明闇佛	Homage to the Buddha Who Destroys the Darkness of Ignorance
+['ZH_T14_0440_012:0182a01_20_304']	南無普蓋寶佛	南無普蓋寶佛	Homage to the Buddha Universal Canopy Jewel
+['ZH_T14_0440_012:0182a01_20_305', 'ZH_T14_0440_012:0182a01_20_306']	南無增長法樂佛🔽南無種種師子聲增長吼佛	南無增長法樂佛 南無種種師子聲增長吼佛	Homage to the Buddha Who Increases the Joy of the Dharma🔽Homage to the Buddha Who Increases the Roar of Various Lion's Voices
+['ZH_T14_0440_012:0182a01_20_307', 'ZH_T14_0440_012:0182a01_20_308']	南無梵自在龍吼佛🔽南無世間自在佛	南無梵自在龍吼佛 南無世間自在佛	Homage to the Buddha Dragon's Roar of Brahma's Sovereignty🔽Homage to the Buddha Sovereignty in the World
+['ZH_T14_0440_012:0182a01_20_309', 'ZH_T14_0440_012:0182a01_20_310']	南無世間自在王佛🔽南無難勝佛	南無世間自在王佛 南無難勝佛	Homage to the Buddha King of Sovereignty in the World🔽Homage to the Buddha Difficult to Conquer
+['ZH_T14_0440_012:0182a01_20_311', 'ZH_T14_0440_012:0182a01_20_312']	南無寶作佛🔽南無甘露聲佛	南無寶作佛 南無甘露聲佛	Homage to the Buddha Jewel Maker🔽Homage to the Buddha Nectar Sound
+['ZH_T14_0440_012:0182a01_20_313']	南無勝光佛	南無勝光佛	Homage to the Buddha Supreme Light
+['ZH_T14_0440_012:0182a01_20_314', 'ZH_T14_0440_012:0182a01_20_315']	南無龍天佛🔽南無增上力佛	南無龍天佛 南無增上力佛	Homage to the Buddha Dragon Heaven🔽Homage to the Buddha Superior Power
+['ZH_T14_0440_012:0182a01_20_316']	南無無垢光佛	南無無垢光佛	Homage to the Buddha Stainless Light
+['ZH_T14_0440_012:0182a01_20_317']	南無師子佛	南無師子佛	Homage to the Buddha Lion
+['ZH_T14_0440_012:0182a01_20_318']	南無世間增上佛	南無世間增上佛	Homage to the Buddha Superior in the World
+['ZH_T14_0440_012:0182a01_20_319']	南無德山佛	南無德山佛	Homage to the Buddha Virtue Mountain
+['ZH_T14_0440_012:0182a01_20_320']	南無人王佛	南無人王佛	Homage to the Buddha King of Men
+['ZH_T14_0440_012:0182a01_20_321']	南無花勝佛	南無花勝佛	Homage to the Buddha Flower Excellence
+['ZH_T14_0440_012:0182a01_20_322']	南無德無畏佛	南無德無畏佛	Homage to the Buddha Virtue and Fearlessness
+['ZH_T14_0440_012:0182a01_20_323']	南無能平等作佛	南無能平等作佛	Homage to the Buddha who can act equally
+['ZH_T14_0440_012:0182a01_20_324']	南無初發心離諸畏一切煩惱勝德佛	南無初發心離諸畏一切煩惱勝德佛	Homage to the Buddha who initially gives rise to the mind to leave all fears and the excellent qualities of overcoming all afflictions
+['ZH_T14_0440_012:0182a01_20_325', 'ZH_T14_0440_012:0182a01_20_326']	南無普光明奮迅佛🔽南無金剛步佛	南無普光明奮迅佛 南無金剛步佛	Homage to the Buddha of Universal Radiance and Subjugation🔽Homage to the Buddha of Diamond Steps
+['ZH_T14_0440_012:0182a01_20_327']	南無寶光明步象佛	南無寶光明步象佛	Homage to the Buddha of the Steps of Jewel Light
+['ZH_T14_0440_012:0182a01_20_328']	南無離諸魔疑佛	南無離諸魔疑佛	Homage to the Buddha who Leaves All Demon Doubts
+['ZH_T14_0440_012:0182a01_20_329']	南無初發心成就不退轉勝佛	南無初發心成就不退轉勝佛	Homage to the Buddha who initially gives rise to the mind and accomplishes the excellence of irreversibility
+['ZH_T14_0440_012:0182a01_20_330']	南無寶蓋勝光明佛	南無寶蓋勝光明佛	Homage to the Buddha of the Supreme Light of the Jeweled Canopy
+['ZH_T14_0440_012:0182a01_20_331', 'ZH_T14_0440_012:0182a01_20_332']	南無能教化諸菩薩佛🔽南無初發心念斷一切煩惱染佛	南無能教化諸菩薩佛 南無初發心念斷一切煩惱染佛	Homage to the Buddha who can Transform and Teach All Bodhisattvas🔽Homage to the Buddha who initially gives rise to the mind to cut off all afflictions and defilements
+['ZH_T14_0440_012:0182a01_20_333']	南無降伏煩惱佛	南無降伏煩惱佛	Homage to the Buddha who Subdues Afflictions
+['ZH_T14_0440_012:0182a01_20_334', 'ZH_T14_0440_012:0182a01_20_335']	南無勝光明王佛🔽南無三昧手勝佛	南無勝光明王佛 南無三昧手勝佛	Homage to the Buddha of Supreme Light and King🔽Homage to the Buddha of the Supreme Samadhi Hand
+['ZH_T14_0440_012:0182a01_20_336']	南無波頭摩上勝佛	南無波頭摩上勝佛	Homage to the Buddha of the Supreme Bindu of Padma
+['ZH_T14_0440_012:0182a01_20_337', 'ZH_T14_0440_012:0182a01_20_338']	南無日輪光明佛🔽南無均寶蓋佛	南無日輪光明佛 南無均寶蓋佛	Homage to the Buddha of the Light of the Sun's Orb🔽Homage to the Buddha of the Even Jewel Canopy
+['ZH_T14_0440_012:0182a01_20_339']	南無日輪光明勝佛	南無日輪光明勝佛	Homage to the Buddha of the Supreme Light of the Sun's Orb
+['ZH_T14_0440_012:0182a01_20_340', 'ZH_T14_0440_012:0182a01_20_341']	南無增上三昧奮迅佛🔽南無寶花普照勝佛	南無增上三昧奮迅佛 南無寶花普照勝佛	Homage to the Buddha of the Supreme Samadhi of Increased Samadhi🔽Homage to the Buddha of the Supreme Victory of the Jewel Flower's Universal Illumination
+['ZH_T14_0440_012:0182a01_20_342']	南無最妙波頭摩步佛	南無最妙波頭摩步佛	Homage to the Buddha of the Supreme Padma Stride
+['ZH_T14_0440_012:0182a01_20_343']	南無寶輪光明勝德佛	南無寶輪光明勝德佛	Homage to the Buddha of the Supreme Virtue of the Jewel Wheel's Light
+['ZH_T14_0440_012:0182a01_20_344', 'ZH_T14_0440_012:0182a01_20_345']	南無寶藏佛🔽南無寶勝佛	南無寶藏佛 南無寶勝佛	Homage to Buddha Ratnagarbha🔽Homage to Buddha Ratnāgrya
+['ZH_T14_0440_012:0182a01_20_346']	南無寶燈王佛	南無寶燈王佛	Homage to Buddha Ratnapradīparāja
+['ZH_T14_0440_012:0182a01_20_347', 'ZH_T14_0440_012:0182a01_20_348']	南無堅精進思惟成就義佛🔽南無普光明觀稱佛	南無堅精進思惟成就義佛 南無普光明觀稱佛	Homage to Buddha Dṛdha-vīrya-cintā-siddhi-artha🔽Homage to Buddha Samantaprabhāsa-avalokiteśvara
+['ZH_T14_0440_012:0182a01_20_349', 'ZH_T14_0440_012:0182a01_20_350', 'ZH_T14_0440_012:0182a01_20_351']	南無慈莊嚴功德稱佛🔽南無稱一切眾生念勝功德佛🔽南無吉稱功德佛	南無慈莊嚴功德稱佛 南無稱一切眾生念勝功德佛 南無吉稱功德佛	Homage to Buddha Maitra-vyūha-guṇa-śrī🔽Homage to Buddha Sarva-sattva-āśaya-śubha-guṇa-śrī🔽Homage to Buddha Śubha-śrī-guṇa
+['ZH_T14_0440_012:0182a01_20_352', 'ZH_T14_0440_012:0182a01_20_353']	南無畢竟慚愧稱勝佛🔽南無廣光明佛	南無畢竟慚愧稱勝佛 南無廣光明佛	Homage to Buddha Niṣṭha-hrī-apatrāpya-śrī🔽Homage to Buddha Viśāla-prabhāsa
+['ZH_T14_0440_012:0182a01_20_354', 'ZH_T14_0440_012:0182a01_20_355', 'ZH_T14_0440_012:0182a01_20_356']	南無樂說莊嚴思惟佛🔽南無無垢月雞兜稱佛🔽南無鉤修摩莊嚴光明作佛	南無樂說莊嚴思惟佛 南無無垢月雞兜稱佛 南無鉤修摩莊嚴光明作佛	Homage to Buddha Pratibhāna-vyūha-cintā🔽Homage to Buddha Vimalacandra-kiṃnara-śrī🔽Homage to Buddha Aṅkura-vyūha-prabhāsa
+['ZH_T14_0440_012:0182a01_20_357', 'ZH_T14_0440_012:0182a01_20_358']	南無寶稱佛🔽南無無畏觀佛	南無寶稱佛 南無無畏觀佛	Homage to Buddha Ratna-śrī🔽Homage to Buddha Abhaya-avalokita
+['ZH_T14_0440_012:0182a01_20_359']	南無師子力奮迅佛	南無師子力奮迅佛	Homage to Buddha Siṃha-bala-dhara
+['ZH_T14_0440_012:0182a01_20_360']	南無伽那歌王光明佛	南無伽那歌王光明佛	Homage to Buddha Gaṇanā-rāja-prabhāsa
+['ZH_T14_0440_012:0182a01_20_361', 'ZH_T14_0440_012:0182a01_20_362', 'ZH_T14_0440_012:0182a01_20_363']	南無賢作佛🔽南無無垢光明佛🔽南無功德寶光明佛	南無賢作佛 南無無垢光明佛 南無功德寶光明佛	Homage to Buddha Kalyāṇa-kṛta🔽Homage to Buddha Vimalaprabhāsa🔽Homage to Buddha Guṇa-ratna-prabhāsa
+['ZH_T14_0440_012:0182a01_20_364']	南無精進力成就佛	南無精進力成就佛	Homage to Buddha Vīrya-bala-siddha
+['ZH_T14_0440_012:0182a01_20_365']	南無善清淨光佛	南無善清淨光佛	Homage to Buddha Suviśuddha-prabhāsa
+['ZH_T14_0440_012:0182a01_20_366']	南無得脫一切縛佛	南無得脫一切縛佛	Homage to the Buddha who has attained liberation from all bonds
+['ZH_T14_0440_012:0182a01_20_367']	南無無垢波頭摩藏勝佛	南無無垢波頭摩藏勝佛	Homage to the Buddha of the supreme store of the immaculate lotus
+['ZH_T14_0440_012:0182a01_20_368']	南無得無障礙力解勝丹本脫佛	南無得無障礙力解勝丹本脫佛	Homage to the Buddha who has attained the supreme understanding of unobstructed power
+['ZH_T14_0440_012:0182a01_20_369']	南無十方稱名無畏佛	南無十方稱名無畏佛	Homage to the Buddha of the ten directions whose name is proclaimed for fearlessness
+['ZH_T14_0440_012:0182a01_20_370']	南無金剛勢佛	南無金剛勢佛	Homage to the Buddha of vajra power
+['ZH_T14_0440_012:0182a01_20_371']	南無大寶聚佛	南無大寶聚佛	Homage to the Buddha of the great jewel-store
+['ZH_T14_0440_012:0182a01_20_372']	南無無邊功德莊嚴威德王劫佛	南無無邊功德莊嚴威德王劫佛	Homage to the Buddha of the eon of the king of the majestic virtue of the adornment of boundless merits
+['ZH_T14_0440_012:0182a01_20_373']	南無功德寶山佛	南無功德寶山佛	Homage to the Buddha of the mountain of jewels of merit
+['ZH_T14_0440_012:0182a01_20_374']	南無說一切莊嚴勝佛	南無說一切莊嚴勝佛	Homage to the Buddha who proclaims the supreme adornment of all
+['ZH_T14_0440_012:0182a01_20_375']	南無無邊樂說莊嚴成就智佛	南無無邊樂說莊嚴成就智佛	Homage to the Buddha who has accomplished the wisdom of the adornment of boundless eloquence
+['ZH_T14_0440_012:0182a01_20_376']	南無無千雲吼聲王佛千上丹無一無	南無無千雲吼聲王佛千上丹無一無	Homage to the Buddha whose name is proclaimed a thousand times in the ten directions, the king of the sound of thunder, the one without a thousand above (in the Sanskrit version, there is no one)
+['ZH_T14_0440_012:0182a01_20_377']	南無妙金色光明威德勝照佛	南無妙金色光明威德勝照佛	Homage to the Buddha of the supreme radiance of the majestic virtue of the golden light of wondrous color
+['ZH_T14_0440_012:0182a01_20_378']	南無種種威德王劫佛	南無種種威德王劫佛	Homage to the Buddha of the eon of the king of various majestic virtues
+['ZH_T14_0440_012:0182a01_20_379', 'ZH_T14_0440_012:0182a01_20_380']	南無阿僧祇億劫成就智佛🔽南無清淨金虛空吼光明佛	南無阿僧祇億劫成就智佛 南無清淨金虛空吼光明佛	Homage to the Buddha who has accomplished wisdom for innumerable koṭīs of eons🔽Homage to the Buddha of the radiance of the pure golden sky-roaring light
+['ZH_T14_0440_012:0182a01_20_381']	南無普光明佛	南無普光明佛	Homage to the Buddha of universal radiance
+['ZH_T14_0440_012:0182a01_20_382']	南無法莊嚴王佛	南無法莊嚴王佛	Homage to the Buddha of the adornment of the Dharma
+['ZH_T14_0440_012:0182a01_20_383']	南無功德多寶海王佛	南無功德多寶海王佛	Homage to the Buddha of the ocean-king of the jewels of merit
+['ZH_T14_0440_012:0182a01_20_384']	南無不空功德佛	南無不空功德佛	Homage to the Buddha of non-empty merits
+['ZH_T14_0440_012:0182a01_20_385']	南無照一切處佛	南無照一切處佛	Homage to the Buddha who Illuminates All Places
+['ZH_T14_0440_012:0182a01_20_386', 'ZH_T14_0440_012:0182a01_20_387']	南無妙鼓聲佛🔽南無法自在佛	南無妙鼓聲佛 南無法自在佛	Homage to the Buddha of Wonderful Drum Sound🔽Homage to the Buddha of Dharma Sovereignty
+['ZH_T14_0440_012:0182a01_20_388', 'ZH_T14_0440_012:0182a01_20_389']	南無普見佛🔽南無大炎聚佛	南無普見佛 南無大炎聚佛	Homage to the Buddha of Universal Vision🔽Homage to the Buddha of Great Flaming Mass
+['ZH_T14_0440_012:0182a01_20_390']	南無光明幢佛	南無光明幢佛	Homage to the Buddha of Light Banner
+['ZH_T14_0440_012:0182a01_20_391', 'ZH_T14_0440_012:0182a01_20_392', 'ZH_T14_0440_012:0182a01_20_393']	南無智雞兜佛🔽南無娑羅胎佛🔽南無寶尸棄佛	南無智雞兜佛 南無娑羅胎佛 南無寶尸棄佛	Homage to the Buddha of Wisdom Kīrtimāla🔽Homage to the Buddha of Sāla Womb🔽Homage to the Buddha of Jeweled Śikhin
+['ZH_T14_0440_012:0182a01_20_394', 'ZH_T14_0440_012:0182a01_20_395', 'ZH_T14_0440_012:0182a01_20_396']	南無波頭摩藏佛🔽南無一切勝佛🔽南無娑伽羅佛	南無波頭摩藏佛 南無一切勝佛 南無娑伽羅佛	Homage to the Buddha of Pāṭalīdhānyakaṣāyaka🔽Homage to the Buddha of Universal Excellence🔽Homage to the Buddha of Sāgara
+['ZH_T14_0440_012:0182a01_20_397']	南無波頭摩藏佛	南無波頭摩藏佛	Homage to the Buddha of Pāṭalīdhānyakaṣāyaka
+['ZH_T14_0440_012:0182a01_20_398', 'ZH_T14_0440_012:0182a01_20_399']	南無娑羅自在王佛🔽南無花佛	南無娑羅自在王佛 南無花佛	Homage to the Buddha of Sāla Sovereign King🔽Homage to the Buddha of Flowers
+['ZH_T14_0440_012:0182a01_20_400', 'ZH_T14_0440_012:0182a01_20_401']	南無勝稱佛🔽南無見實佛	南無勝稱佛 南無見實佛	Homage to the Buddha of Supreme Renown🔽Homage to the Buddha of Seeing Reality
+['ZH_T14_0440_012:0182a01_20_402', 'ZH_T14_0440_012:0182a01_20_403', 'ZH_T14_0440_012:0182a01_20_404']	南無智彌留佛🔽南無龍德佛🔽南無勝行佛	南無智彌留佛 南無龍德佛 南無勝行佛	Homage to the Buddha of Wisdom Meru🔽Homage to the Buddha of Dragon Virtue🔽Homage to the Buddha of Supreme Conduct
+['ZH_T14_0440_012:0182a01_20_405', 'ZH_T14_0440_012:0182a01_20_406']	南無星宿佛🔽南無大莊嚴佛	南無星宿佛 南無大莊嚴佛	Homage to the Buddha of Constellation🔽Homage to the Buddha of Great Adornment
+['ZH_T14_0440_012:0182a01_20_407']	南無光明王佛	南無光明王佛	Homage to the Buddha of Light King
+['ZH_T14_0440_012:0182a01_20_408']	南無能人佛	南無能人佛	Homage to the Buddha of Able Men
+['ZH_T14_0440_012:0182a01_20_409', 'ZH_T14_0440_012:0182a01_20_410']	南無自在山丹王佛🔽南無日面佛	南無自在山丹王佛 南無日面佛	Homage to the Buddha of Sovereign Mountain King🔽Homage to the Buddha of Sun Face
+['ZH_T14_0440_012:0182a01_20_411', 'ZH_T14_0440_012:0182a01_20_412']	南無善意佛🔽南無龍勝佛	南無善意佛 南無龍勝佛	Homage to the Buddha of Good Intention🔽Homage to the Buddha of Dragon Victory
+['ZH_T14_0440_012:0182a01_20_413']	南無弗沙佛	南無弗沙佛	Homage to the Buddha of Puṣya
+['ZH_T14_0440_012:0182a01_20_414', 'ZH_T14_0440_012:0182a01_20_415']	南無藥王佛🔽南無師子山佛	南無藥王佛 南無師子山佛	Homage to Buddha Yaowang🔽Homage to Buddha Shizishan
+['ZH_T14_0440_012:0182a01_20_416', 'ZH_T14_0440_012:0182a01_20_417', 'ZH_T14_0440_012:0182a01_20_418']	南無住持勝功德佛🔽南無飲甘露佛🔽南無放炎佛	南無住持勝功德佛 南無飲甘露佛 南無放炎佛	Homage to Buddha Zhuchi-sheng-gongde🔽Homage to Buddha Yin-ganlu🔽Homage to Buddha Fangyan
+['ZH_T14_0440_012:0182a01_20_419']	南無丹有妙山佛	南無丹有妙山佛	Homage to Buddha Miaoshan
+['ZH_T14_0440_012:0182a01_20_420', 'ZH_T14_0440_012:0182a01_20_421', 'ZH_T14_0440_012:0182a01_20_422']	南無護世間供養佛🔽南無多伽羅尸棄佛🔽南無難勝佛	南無護世間供養佛 南無多伽羅尸棄佛 南無難勝佛	Homage to Buddha Hu-shijian-gongyang🔽Homage to Buddha Dugalan-shiji🔽Homage to Buddha Nansheng
+['ZH_T14_0440_012:0182a01_20_423', 'ZH_T14_0440_012:0182a01_20_424']	南無大燈佛🔽南無波頭摩上佛	南無大燈佛 南無波頭摩上佛	Homage to Buddha Daleng🔽Homage to Buddha Padmottama
+['ZH_T14_0440_012:0182a01_20_425', 'ZH_T14_0440_012:0182a01_20_426', 'ZH_T14_0440_012:0182a01_20_427']	南無法幢佛🔽南無能然燈佛🔽南無難勝丹有智佛	南無法幢佛 南無能然燈佛 南無難勝丹有智佛	Homage to Buddha Fahua🔽Homage to Buddha Nengran-deng🔽Homage to Buddha Nansheng-zhi
+['ZH_T14_0440_012:0182a01_20_428', 'ZH_T14_0440_012:0182a01_20_429', 'ZH_T14_0440_012:0182a01_20_430']	南無難可意佛🔽南無真聲佛🔽南無妙聲佛	南無難可意佛 南無真聲佛 南無妙聲佛	Homage to Buddha Nanke-yi🔽Homage to Buddha Zhensheng🔽Homage to Buddha Miaosheng
+['ZH_T14_0440_012:0182a01_20_431', 'ZH_T14_0440_012:0182a01_20_432']	南無娑羅步佛🔽南無寶炎佛	南無娑羅步佛 南無寶炎佛	Homage to Buddha Shalu-bu🔽Homage to Buddha Baoyan
+['ZH_T14_0440_012:0182a01_20_433', 'ZH_T14_0440_012:0182a01_20_434', 'ZH_T14_0440_012:0182a01_20_435']	南無愛見佛🔽南無須彌劫佛🔽南無旃陀光佛	南無愛見佛 南無須彌劫佛 南無旃陀光佛	Homage to Buddha Ai-jian🔽Homage to Buddha Sumeru-jie🔽Homage to Buddha Chandrakirti
+['ZH_T14_0440_012:0182a01_20_436', 'ZH_T14_0440_012:0182a01_20_437', 'ZH_T14_0440_012:0182a01_20_438']	南無日光佛🔽南無藥樹勝佛🔽南無丹有淨覺佛	南無日光佛 南無藥樹勝佛 南無丹有淨覺佛	Homage to Buddha Suryakirti🔽Homage to Buddha Bhaisajyaguru🔽Homage to Buddha Jingjue
+['ZH_T14_0440_012:0182a01_20_439', 'ZH_T14_0440_012:0182a01_20_440']	南無記丹有別佛🔽南無愛作佛	南無記丹有別佛 南無愛作佛	Homage to Buddha Ji-bu-bie🔽Homage to Buddha Ai-zuo
+['ZH_T14_0440_012:0182a01_20_441']	南無作無畏佛	南無作無畏佛	Homage to Buddha Zu-wuwei
+['ZH_T14_0440_012:0182a01_20_442']	南無波頭摩寶香佛	南無波頭摩寶香佛	Homage to the Buddha Padma-ratna-gandha
+['ZH_T14_0440_012:0182a01_20_443', 'ZH_T14_0440_012:0182a01_20_444', 'ZH_T14_0440_012:0182a01_20_445']	南無勝德佛🔽南無無垢佛🔽南無丹有淨照佛	南無勝德佛 南無無垢佛 南無丹有淨照佛	Homage to the Buddha Viśiṣṭa-guṇa🔽Homage to the Buddha Vimalā🔽Homage to the Buddha Vimalaprabhā (Skt. Vimalaprabhāsa)
+['ZH_T14_0440_012:0182a01_20_446', 'ZH_T14_0440_012:0182a01_20_447']	南無無煩惱佛🔽南無善來佛	南無無煩惱佛 南無善來佛	Homage to the Buddha Aśoka🔽Homage to the Buddha Svāgata
+['ZH_T14_0440_012:0182a01_20_448', 'ZH_T14_0440_012:0182a01_20_449']	南無善光佛🔽南無金色佛	南無善光佛 南無金色佛	Homage to the Buddha Su-prabhāsa🔽Homage to the Buddha Kanaka-varṇa
+['ZH_T14_0440_012:0182a01_20_450', 'ZH_T14_0440_012:0182a01_20_451']	南無能作光明佛🔽南無清淨佛	南無能作光明佛 南無清淨佛	Homage to the Buddha Prabhā-kāra🔽Homage to the Buddha Viśuddha
+['ZH_T14_0440_012:0182a01_20_452']	南無得脫佛	南無得脫佛	Homage to the Buddha Mukta
+['ZH_T14_0440_012:0182a01_20_453']	南無迦陵頻伽聲佛	南無迦陵頻伽聲佛	Homage to the Buddha Kalaviṅka-nirghoṣa
+['ZH_T14_0440_012:0182a01_20_454']	南無能與法佛	南無能與法佛	Homage to the Buddha Dharma-dātṛ
+['ZH_T14_0440_012:0182a01_20_455', 'ZH_T14_0440_012:0182a01_20_456']	南無善護諸門佛🔽南無得意佛	南無善護諸門佛 南無得意佛	Homage to the Buddha Su-rakṣita-sarva-dvāra🔽Homage to the Buddha Manobhūmi
+['ZH_T14_0440_012:0182a01_20_457']	南無離愛佛	南無離愛佛	Homage to the Buddha Virāga
+['ZH_T14_0440_012:0182a01_20_458']	南無未生寶佛	南無未生寶佛	Homage to the Buddha Ajāta-ratna
+['ZH_T14_0440_012:0182a01_20_459', 'ZH_T14_0440_012:0182a01_20_460', 'ZH_T14_0440_012:0182a01_20_461']	南無善護諸根佛🔽南無梵聲佛🔽南無勝聲佛	南無善護諸根佛 南無梵聲佛 南無勝聲佛	Homage to the Buddha Su-rakṣita-sarva-indriya🔽Homage to the Buddha Brahma-svara🔽Homage to the Buddha Viśiṣṭa-svara
+['ZH_T14_0440_012:0182a01_20_462']	南無妙聲佛	南無妙聲佛	Homage to the Buddha Subha-svara
+['ZH_T14_0440_012:0182a01_20_463', 'ZH_T14_0440_012:0182a01_20_464', 'ZH_T14_0440_012:0182a01_20_465']	南無大慧佛🔽南無無諸濁佛🔽南無不可動佛	南無大慧佛 南無無諸濁佛 南無不可動佛	Homage to the Buddha Mahā-prajñā🔽Homage to the Buddha Sarva-mala-vinaya🔽Homage to the Buddha Akṣobhya
+['ZH_T14_0440_012:0182a01_20_466']	南無樂解脫佛	南無樂解脫佛	Homage to the Buddha Vimukti-priya
+['ZH_T14_0440_012:0182a01_20_467', 'ZH_T14_0440_012:0182a01_20_468']	南無勝二足佛🔽南無具足一切功德莊嚴佛	南無勝二足佛 南無具足一切功德莊嚴佛	Homage to the Buddha Viśiṣṭa-pāda🔽Homage to the Buddha Sarva-guṇa-alaṅkāra-sampūrṇa
+['ZH_T14_0440_012:0182a01_20_469']	南無相莊嚴佛	南無相莊嚴佛	Homage to the Buddha Lakṣaṇa-alaṅkṛta
+['ZH_T14_0440_012:0182a01_20_470', 'ZH_T14_0440_012:0182a01_20_471']	南無拘牟陀語佛🔽南無不可降伏語佛	南無拘牟陀語佛 南無不可降伏語佛	Homage to Buddha of Unconquerable Speech
+['ZH_T14_0440_012:0182a01_20_472']	南無常相應語佛	南無常相應語佛	Homage to Buddha of Always Appropriate Speech
+['ZH_T14_0440_012:0182a01_20_473', 'ZH_T14_0440_012:0182a01_20_474', 'ZH_T14_0440_012:0182a01_20_475']	南無梵聲安隱眾生佛🔽南無娑羅花佛🔽南無金枝花佛	南無梵聲安隱眾生佛 南無娑羅花佛 南無金枝花佛	Homage to Buddha of Brahma Voice Who Calms Sentient Beings🔽Homage to Buddha of Shala Flowers🔽Homage to Buddha of Golden Branches and Flowers
+['ZH_T14_0440_012:0182a01_20_476', 'ZH_T14_0440_012:0182a01_20_477']	南無拘牟陀相佛🔽南無妙頂佛	南無拘牟陀相佛 南無妙頂佛	Homage to Buddha of the Appearance of Kumuta Flowers🔽Homage to Buddha of Wonderful Peak
+['ZH_T14_0440_012:0182a01_20_478']	南無大牟尼佛	南無大牟尼佛	Homage to Buddha of Great Silence
+['ZH_T14_0440_012:0182a01_20_479', 'ZH_T14_0440_012:0182a01_20_480']	南無一切法到彼岸佛🔽南無無染佛	南無一切法到彼岸佛 南無無染佛	Homage to Buddha Who Reaches the Other Shore of All Dharmas🔽Homage to Buddha of No Defilement
+['ZH_T14_0440_012:0182a01_20_481']	南無不散心佛	南無不散心佛	Homage to Buddha of Undistracted Mind
+['ZH_T14_0440_012:0182a01_20_482', 'ZH_T14_0440_012:0182a01_20_483']	南無荷吒伽色佛🔽南無善寂成就佛	南無荷吒伽色佛 南無善寂成就佛	Homage to Buddha of Udumbara Color🔽Homage to Buddha of Well-Accomplished Tranquility
+['ZH_T14_0440_012:0182a01_20_484', 'ZH_T14_0440_012:0182a01_20_485']	南無賒頭羅步佛🔽南無清淨手佛	南無賒頭羅步佛 南無清淨手佛	Homage to Buddha of Shatarupa Steps🔽Homage to Buddha of Pure Hands
+['ZH_T14_0440_012:0182a01_20_486']	南無常來佛	南無常來佛	Homage to Buddha of Constant Coming
+['ZH_T14_0440_012:0182a01_20_487', 'ZH_T14_0440_012:0182a01_20_488']	南無畢竟成就大悲佛🔽南無成就堅佛	南無畢竟成就大悲佛 南無成就堅佛	Homage to Buddha of Ultimate Accomplishment and Great Compassion🔽Homage to Buddha of Accomplished Solidity
+['ZH_T14_0440_012:0182a01_20_489']	南無常行成丹本有就佛	南無常行成丹本有就佛	Homage to Buddha of Always Practicing Accomplishment
+['ZH_T14_0440_012:0182a01_20_490']	南無離諍濁佛	南無離諍濁佛	Homage to Buddha of Leaving Behind Turmoil
+['ZH_T14_0440_012:0182a01_20_491']	南無清淨功德相佛	南無清淨功德相佛	Homage to Buddha of Pure Meritorious Appearance
+['ZH_T14_0440_012:0182a01_20_492', 'ZH_T14_0440_012:0182a01_20_493']	南無不泣牟尼羅佛🔽南無勝藏佛	南無不泣牟尼羅佛 南無勝藏佛	Homage to Buddha of No Tears, Muni-ra🔽Homage to Buddha of Supreme Store
+['ZH_T14_0440_012:0182a01_20_494']	南無般若齊佛	南無般若齊佛	Homage to Buddha of Prajna Parity
+['ZH_T14_0440_012:0182a01_20_495']	南無般若寶畢竟佛	南無般若寶畢竟佛	Homage to the Buddha of Ultimate Wisdom and Treasures
+['ZH_T14_0440_012:0182a01_20_496', 'ZH_T14_0440_012:0182a01_20_497']	南無滿足意佛🔽南無世間自在王佛	南無滿足意佛 南無世間自在王佛	Homage to the Buddha of Fulfilled Intention🔽Homage to the Buddha of Sovereignty in the World
+['ZH_T14_0440_012:0182a01_20_498']	南無無量命佛	南無無量命佛	Homage to the Buddha of Immeasurable Life
+['ZH_T14_0440_012:0182a01_20_499']	南無大炎積佛	南無大炎積佛	Homage to the Buddha of Great Flaming Accumulation
+['ZH_T14_0440_012:0182a01_20_500', 'ZH_T14_0440_012:0182a01_20_501']	南無無邊寶佛🔽南無淨勝天佛	南無無邊寶佛 南無淨勝天佛	Homage to the Buddha of Boundless Treasures🔽Homage to the Buddha of Pure Supreme Heaven
+['ZH_T14_0440_012:0182a01_20_502']	南無內外淨佛	南無內外淨佛	Homage to the Buddha of Inner and Outer Purity
+['ZH_T14_0440_012:0182a01_20_503']	南無寂諸根佛	南無寂諸根佛	Homage to the Buddha of Stilling the Senses
+['ZH_T14_0440_012:0182a01_20_504']	南無最燈佛	南無最燈佛	Homage to the Supreme Lamp Buddha
+['ZH_T14_0440_012:0182a01_20_505', 'ZH_T14_0440_012:0182a01_20_506', 'ZH_T14_0440_012:0182a01_20_507']	南無成就不思惟願娑羅王佛🔽南無師子意佛🔽南無降伏力佛	南無成就不思惟願娑羅王佛 南無師子意佛 南無降伏力佛	Homage to the Buddha of Accomplished Inconceivable Vows and Sarala King🔽Homage to the Buddha of Lion's Intention🔽Homage to the Buddha of Subduing Power
+['ZH_T14_0440_012:0182a01_20_508']	南無住持速行佛	南無住持速行佛	Homage to the Buddha of Upholding Swift Action
+['ZH_T14_0440_012:0182a01_20_509']	南無放光明王佛	南無放光明王佛	Homage to the Buddha of Radiating Light Kings
+['ZH_T14_0440_012:0182a01_20_510']	南無毘頭奚吼佛	南無毘頭奚吼佛	Homage to the Buddha Roaring Like a Peacock
+['ZH_T14_0440_012:0182a01_20_511']	南無無念覺法王佛	南無無念覺法王佛	Homage to the Buddha of Unconceived Awareness and Dharma King
+['ZH_T14_0440_012:0182a01_20_512']	南無國土莊嚴身佛	南無國土莊嚴身佛	Homage to the Buddha of Adorned Body with Lands
+['ZH_T14_0440_012:0182a01_20_513']	南無智根本華幢佛	南無智根本華幢佛	Homage to the Buddha of Wisdom Roots and Flower Banner
+['ZH_T14_0440_012:0182a01_20_514']	南無化稱佛	南無化稱佛	Homage to the Buddha of Emanated Renown
+['ZH_T14_0440_012:0182a01_20_515']	南無一切色摩尼藏佛	南無一切色摩尼藏佛	Homage to the Buddha of the Treasury of All Colors and Jewels
+['ZH_T14_0440_012:0182a01_20_516']	南無法藏自在佛	南無法藏自在佛	Homage to the Buddha of Sovereignty in the Dharma Treasury
+['ZH_T14_0440_012:0182a01_20_517']	南無法獻波婆羅佛	南無法獻波婆羅佛	Homage to the Buddha of Dharma Offerings and Pāpālas
+['ZH_T14_0440_012:0182a01_20_518']	南無無邊寶功德藏佛	南無無邊寶功德藏佛	Homage to the Buddha of Boundless Treasure Merits and Treasury
+['ZH_T14_0440_012:0182a01_20_519']	南無淨花聲佛	南無淨花聲佛	Homage to Buddha Pure Flower Sound
+['ZH_T14_0440_012:0182a01_20_520']	南無丹本有大法王鉤修摩勝佛	南無丹本有大法王鉤修摩勝佛	Homage to Buddha Great Dharma King Hook Xiu Mo Victory
+['ZH_T14_0440_012:0182a01_20_521', 'ZH_T14_0440_012:0182a01_20_522']	南無一切無盡藏佛🔽南無功德山藏佛	南無一切無盡藏佛 南無功德山藏佛	Homage to Buddha of the Inexhaustible Treasury of All🔽Homage to Buddha Meritorious Mountain Treasury
+['ZH_T14_0440_012:0182a01_20_523']	南無星宿山藏佛	南無星宿山藏佛	Homage to Buddha Constellation Mountain Treasury
+['ZH_T14_0440_012:0182a01_20_524']	南無虛空智山佛	南無虛空智山佛	Homage to Buddha Space Wisdom Mountain
+['ZH_T14_0440_012:0182a01_20_525', 'ZH_T14_0440_012:0182a01_20_526']	南無智力天王佛🔽南無無障礙海隨順智佛	南無智力天王佛 南無無障礙海隨順智佛	Homage to Buddha King of Wisdom Power🔽Homage to Buddha of the Ocean of Unimpeded Conformity to Wisdom
+['ZH_T14_0440_012:0182a01_20_527']	南無無邊覺海藏佛	南無無邊覺海藏佛	Homage to Buddha Treasury of the Boundless Ocean of Enlightenment
+['ZH_T14_0440_012:0182a01_20_528']	南無智王無盡稱佛	南無智王無盡稱佛	Homage to Buddha King of Wisdom Inexhaustible Renown
+['ZH_T14_0440_012:0182a01_20_529']	南無心意奮迅王佛	南無心意奮迅王佛	Homage to Buddha Mind and Thought Heroic King
+['ZH_T14_0440_012:0182a01_20_530']	南無自性清淨智佛	南無自性清淨智佛	Homage to Buddha Pure Wisdom of Intrinsic Nature
+['ZH_T14_0440_012:0182a01_20_531', 'ZH_T14_0440_012:0182a01_20_532']	南無智自在法王佛🔽南無差別去佛	南無智自在法王佛 南無差別去佛	Homage to Buddha King of Dharma of Mastery of Wisdom🔽Homage to Buddha of Distinctive Departure
+['ZH_T14_0440_012:0182a01_20_533']	南無自在見佛	南無自在見佛	Homage to Buddha of Sovereign Vision
+['ZH_T14_0440_012:0182a01_20_534']	南無隨順香見法滿佛	南無隨順香見法滿佛	Homage to Buddha of Conformity to Fragrance Vision Dharma Fulfillment
+['ZH_T14_0440_012:0182a01_20_535', 'ZH_T14_0440_012:0182a01_20_536']	南無龍月佛🔽南無因陀羅波羅無障礙王佛	南無龍月佛 南無因陀羅波羅無障礙王佛	Homage to Buddha Dragon Moon🔽Homage to Buddha Indra Banner Unimpeded King
+['ZH_T14_0440_012:0182a01_20_537', 'ZH_T14_0440_012:0182a01_20_538']	南無智雞兜佛🔽南無智燈佛	南無智雞兜佛 南無智燈佛	Homage to Buddha Wisdom Kīrtimāla🔽Homage to Buddha Wisdom Lamp
+['ZH_T14_0440_012:0182a01_20_539', 'ZH_T14_0440_012:0182a01_20_540']	南無大光明照佛🔽南無不可勝佛	南無大光明照佛 南無不可勝佛	Homage to Buddha Great Light Illuminator🔽Homage to Buddha Invincible
+['ZH_T14_0440_012:0182a01_20_541']	南無照丹有境佛	南無照丹有境佛	Homage to Buddha Illuminator of the Realm
+['ZH_T14_0440_012:0182a01_20_542', 'ZH_T14_0440_012:0182a01_20_543']	南無銀雞兜幢蓋佛🔽南無威德自在王佛	南無銀雞兜幢蓋佛 南無威德自在王佛	Homage to Silver Cock Canopy Banner Cover Buddha🔽Homage to Majestic Virtuous Sovereign King Buddha
+['ZH_T14_0440_012:0182a01_20_544', 'ZH_T14_0440_012:0182a01_20_545']	南無覺王佛🔽南無寶藏佛	南無覺王佛 南無寶藏佛	Homage to Enlightenment King Buddha🔽Homage to Jeweled Treasury Buddha
+['ZH_T14_0440_012:0182a01_20_546']	南無大娑伽羅佛	南無大娑伽羅佛	Homage to Great Sāgara Buddha
+['ZH_T14_0440_012:0182a01_20_547', 'ZH_T14_0440_012:0182a01_20_548']	南無十力差丹有別佛🔽南無降伏魔佛	南無十力差丹有別佛 南無降伏魔佛	Homage to Ten Powers Different Buddha🔽Homage to Subduing Demons Buddha
+['ZH_T14_0440_012:0182a01_20_549', 'ZH_T14_0440_012:0182a01_20_550']	南無降伏貪佛🔽南無降伏瞋佛	南無降伏貪佛 南無降伏瞋佛	Homage to Subduing Greed Buddha🔽Homage to Subduing Hatred Buddha
+['ZH_T14_0440_012:0182a01_20_551', 'ZH_T14_0440_012:0182a01_20_552']	南無降伏癡佛🔽南無降伏憍慢佛	南無降伏癡佛 南無降伏憍慢佛	Homage to Subduing Delusion Buddha🔽Homage to Subduing Arrogance Buddha
+['ZH_T14_0440_012:0182a01_20_553']	南無降伏瞋恨垢佛	南無降伏瞋恨垢佛	Homage to Subduing Resentment and Defilement Buddha
+['ZH_T14_0440_012:0182a01_20_554', 'ZH_T14_0440_012:0182a01_20_555']	南無法清淨佛🔽南無業勝得名佛	南無法清淨佛 南無業勝得名佛	Homage to Dharma Purity Buddha🔽Homage to Action Superior Renown Buddha
+['ZH_T14_0440_012:0182a01_20_556', 'ZH_T14_0440_012:0182a01_20_557']	南無如意得名清淨佛🔽南無得施起名佛	南無如意得名清淨佛 南無得施起名佛	Homage to Wish-Fulfilling Renown Purity Buddha🔽Homage to Renown Attainment Generosity Buddha
+['ZH_T14_0440_012:0182a01_20_558', 'ZH_T14_0440_012:0182a01_20_559']	南無得名清淨戒名佛🔽得下丹無名南無起忍辱成就佛	南無得名清淨戒名佛 得下丹無名南無起忍辱成就佛	Homage to Renown Attainment Pure Precepts Buddha🔽Homage to Renown Attainment Patience Accomplishment Buddha
+['ZH_T14_0440_012:0182a01_20_560', 'ZH_T14_0440_012:0182a01_20_561']	南無得起精進名佛🔽南無得起禪名佛	南無得起精進名佛 南無得起禪名佛	Homage to Renown Attainment Effort Buddha🔽Homage to Renown Attainment Meditation Buddha
+['ZH_T14_0440_012:0182a01_20_562', 'ZH_T14_0440_012:0182a01_20_563']	南無得起般若名佛🔽南無成就施不可思議名佛	南無得起般若名佛 南無成就施不可思議名佛	Homage to Renown Attainment Wisdom Buddha🔽Homage to Attainment Generosity Inconceivable Renown Buddha
+['ZH_T14_0440_012:0182a01_20_564']	南無成就戒不可思議佛	南無成就戒不可思議佛	Homage to Attainment Precepts Inconceivable Buddha
+['ZH_T14_0440_012:0182a01_20_565']	南無成就忍辱不可思議佛	南無成就忍辱不可思議佛	Homage to the Buddha of Inconceivable Accomplishment of Patience
+['ZH_T14_0440_012:0182a01_20_566', 'ZH_T14_0440_012:0182a01_20_567']	南無成就精進不可思議佛🔽南無成就禪那不可思議佛	南無成就精進不可思議佛 南無成就禪那不可思議佛	Homage to the Buddha of Inconceivable Accomplishment of Diligence🔽Homage to the Buddha of Inconceivable Accomplishment of Meditation
+['ZH_T14_0440_012:0182a01_20_568', 'ZH_T14_0440_012:0182a01_20_569']	南無成就般若不可思議佛🔽南無行成就得名佛	南無成就般若不可思議佛 南無行成就得名佛	Homage to the Buddha of Inconceivable Accomplishment of Wisdom🔽Homage to the Buddha of Accomplished Practice and Renown
+['ZH_T14_0440_012:0182a01_20_570', 'ZH_T14_0440_012:0182a01_20_571']	南無成就陀羅尼清淨得名佛🔽南無陀羅尼色清淨得名佛	南無成就陀羅尼清淨得名佛 南無陀羅尼色清淨得名佛	Homage to the Buddha of Renown for Accomplishing the Purity of Dharani🔽Homage to the Buddha of Renown for Attaining the Purity of Dharani Form
+['ZH_T14_0440_012:0182a01_20_572']	南無陀羅尼施清淨得名佛	南無陀羅尼施清淨得名佛	Homage to the Buddha of Renown for Attaining the Purity of Dharani Giving
+['ZH_T14_0440_012:0182a01_20_573', 'ZH_T14_0440_012:0182a01_20_574']	南無空無我自在得名佛🔽南無眼陀羅尼自在佛	南無空無我自在得名佛 南無眼陀羅尼自在佛	Homage to the Buddha of Renown for Attaining Freedom in Emptiness and No-Self🔽Homage to the Buddha of Freedom in the Dharani of the Eye
+['ZH_T14_0440_012:0182a01_20_575', 'ZH_T14_0440_012:0182a01_20_576']	南無耳陀羅尼自在佛🔽南無鼻陀羅尼自在佛	南無耳陀羅尼自在佛 南無鼻陀羅尼自在佛	Homage to the Buddha of Freedom in the Dharani of the Ear🔽Homage to the Buddha of Freedom in the Dharani of the Nose
+['ZH_T14_0440_012:0182a01_20_577', 'ZH_T14_0440_012:0182a01_20_578']	南無舌陀羅尼自在佛🔽南無身陀羅尼自在佛	南無舌陀羅尼自在佛 南無身陀羅尼自在佛	Homage to the Buddha of Freedom in the Dharani of the Tongue🔽Homage to the Buddha of Freedom in the Dharani of the Body
+['ZH_T14_0440_012:0182a01_20_579', 'ZH_T14_0440_012:0182a01_20_580', 'ZH_T14_0440_012:0182a01_20_581']	南無意陀羅尼自在佛🔽南無色陀羅尼自在佛🔽南無聲陀羅尼自在佛	南無意陀羅尼自在佛 南無色陀羅尼自在佛 南無聲陀羅尼自在佛	Homage to the Buddha of Freedom in the Dharani of the Mind🔽Homage to the Buddha of Freedom in the Dharani of Form🔽Homage to the Buddha of Freedom in the Dharani of Sound
+['ZH_T14_0440_012:0182a01_20_582']	南無香陀羅尼自在佛	南無香陀羅尼自在佛	Homage to the Buddha of Freedom in the Dharani of Smell
+['ZH_T14_0440_012:0182a01_20_583']	南無味陀羅尼自在佛	南無味陀羅尼自在佛	Homage to the Buddha of the Dhāraṇī of Taste, Sovereign
+['ZH_T14_0440_012:0182a01_20_584', 'ZH_T14_0440_012:0182a01_20_585']	南無觸陀羅尼自在佛🔽南無法陀羅尼自在佛	南無觸陀羅尼自在佛 南無法陀羅尼自在佛	Homage to the Buddha of the Dhāraṇī of Touch, Sovereign🔽Homage to the Buddha of the Dhāraṇī of Phenomena, Sovereign
+['ZH_T14_0440_012:0182a01_20_586', 'ZH_T14_0440_012:0182a01_20_587', 'ZH_T14_0440_012:0182a01_20_588']	南無地陀羅尼自在佛🔽南無水陀羅尼自在佛🔽南無火陀羅尼自在佛	南無地陀羅尼自在佛 南無水陀羅尼自在佛 南無火陀羅尼自在佛	Homage to the Buddha of the Dhāraṇī of Earth, Sovereign🔽Homage to the Buddha of the Dhāraṇī of Water, Sovereign🔽Homage to the Buddha of the Dhāraṇī of Fire, Sovereign
+['ZH_T14_0440_012:0182a01_20_589']	南無風陀羅尼自在佛	南無風陀羅尼自在佛	Homage to the Buddha of the Dhāraṇī of Wind, Sovereign
+['ZH_T14_0440_012:0182a01_20_590', 'ZH_T14_0440_012:0182a01_20_591']	南無苦自在佛🔽南無集自在佛	南無苦自在佛 南無集自在佛	Homage to the Buddha of Sovereignty over Suffering🔽Homage to the Buddha of Sovereignty over Accumulation
+['ZH_T14_0440_012:0182a01_20_592', 'ZH_T14_0440_012:0182a01_20_593']	南無滅自在佛🔽南無道自在佛	南無滅自在佛 南無道自在佛	Homage to the Buddha of Sovereignty over Cessation🔽Homage to the Buddha of Sovereignty over the Path
+['ZH_T14_0440_012:0182a01_20_594', 'ZH_T14_0440_012:0182a01_20_595']	南無陰自在佛🔽南無界自在佛	南無陰自在佛 南無界自在佛	Homage to the Buddha of Sovereignty over the Aggregates🔽Homage to the Buddha of Sovereignty over the Elements
+['ZH_T14_0440_012:0182a01_20_596']	南無入自在佛	南無入自在佛	Homage to the Buddha of Sovereignty over the Sense Spheres
+['ZH_T14_0440_012:0182a01_20_597']	南無三世自在佛	南無三世自在佛	Homage to the Buddha of Sovereignty over the Three Times
+['ZH_T14_0440_012:0182a01_20_598']	南無陀羅尼花自在佛	南無陀羅尼花自在佛	Homage to the Buddha of the Dhāraṇī of Flowers, Sovereign
+['ZH_T14_0440_012:0182a01_20_599']	南無吉光明佛	南無吉光明佛	Homage to the Buddha of Auspicious Light
+['ZH_T14_0440_012:0182a01_20_600']	南無香燈衣自在光明佛	南無香燈衣自在光明佛	Homage to the Buddha of Sovereignty over Fragrant Lamps and Robes, Luminous
+['ZH_T14_0440_012:0182a01_20_601', 'ZH_T14_0440_012:0182a01_20_602']	南無法幢佛🔽南無師子聲佛	南無法幢佛 南無師子聲佛	Homage to the Buddha of the Dharma Banner🔽Homage to the Buddha of Lion's Roar
+['ZH_T14_0440_012:0182a01_20_603', 'ZH_T14_0440_012:0182a01_20_604']	南無照藏佛🔽南無法明敷身佛	南無照藏佛 南無法明敷身佛	Homage to the Buddha of Radiance Treasury🔽Homage to the Buddha of Dharma Illumination and Expansive Body
+['ZH_T14_0440_012:0182a01_20_605']	南無一切通光佛	南無一切通光佛	Homage to the Buddha of Light of All Penetrations
+['ZH_T14_0440_012:0182a01_20_606']	南無月智佛	南無月智佛	Homage to the Buddha of Moon's Wisdom
+['ZH_T14_0440_012:0182a01_20_607']	南無妙勝佛	南無妙勝佛	Homage to the Buddha Wonderful Victory
+['ZH_T14_0440_012:0182a01_20_608', 'ZH_T14_0440_012:0182a01_20_609']	南無賢勝佛🔽南無普滿佛	南無賢勝佛 南無普滿佛	Homage to the Buddha Virtuous Victory🔽Homage to the Buddha Universal Fulfilment
+['ZH_T14_0440_012:0182a01_20_610']	南無普賢佛	南無普賢佛	Homage to the Buddha Universal Worthy
+['ZH_T14_0440_012:0182a01_20_611', 'ZH_T14_0440_012:0182a01_20_612']	南無那羅延王佛🔽南無成就一切義佛	南無那羅延王佛 南無成就一切義佛	Homage to the Buddha Nārāyaṇa King Buddha🔽Homage to the Buddha Accomplishing All Meanings Buddha
+['ZH_T14_0440_012:0182a01_20_613']	南無住持威德佛	南無住持威德佛	Homage to the Buddha Upholding Dignified Virtue Buddha
+['ZH_T14_0440_012:0182a01_20_614']	南無無畏觀佛	南無無畏觀佛	Homage to the Buddha Fearless Contemplation Buddha
+['ZH_T14_0440_012:0182a01_20_615', 'ZH_T14_0440_012:0182a01_20_616']	南無如是等現在過去未來無量無邊佛🔽南無十千同名滿足佛	南無如是等現在過去未來無量無邊佛 南無十千同名滿足佛	Homage to the immeasurable, boundless Buddhas of the present, past, and future, such as these🔽Homage to the ten thousand with the same name, the Buddha Fulfilled
+['ZH_T14_0440_012:0182a01_20_617']	南無三萬同名能聖佛	南無三萬同名能聖佛	Homage to the thirty thousand with the same name, the Buddha Able Sage
+['ZH_T14_0440_012:0182a01_20_618']	南無二千同名拘隣佛	南無二千同名拘隣佛	Homage to the two thousand with the same name, the Buddha Koṇāgamana
+['ZH_T14_0440_012:0182a01_20_619']	南無十八億同名寶體法式佛	南無十八億同名寶體法式佛	Homage to the eighteen koṭis with the same name, the Buddha Jewel Essence Dharma Pattern
+['ZH_T14_0440_012:0182a01_20_620', 'ZH_T14_0440_012:0182a01_20_621']	南無十八億同名日月燈佛🔽南無千五百同名大威德佛	南無十八億同名日月燈佛 南無千五百同名大威德佛	Homage to the eighteen koṭis with the same name, the Buddha Sun and Moon Lamp🔽Homage to the fifteen hundred with the same name, the Buddha Great Authority
+['ZH_T14_0440_012:0182a01_20_622']	南無一萬五千同名歡喜佛	南無一萬五千同名歡喜佛	Homage to the fifteen thousand with the same name, the Buddha Joyful
+['ZH_T14_0440_012:0182a01_20_623']	南無八萬四千丹本有九百同名龍王佛	南無八萬四千丹本有九百同名龍王佛	Homage to the eighty-four thousand (the text from here to the end of the next line is missing) with the same name, the Buddha Dragon King
+['ZH_T14_0440_012:0182a01_20_624']	南無一萬五千同名日佛	南無一萬五千同名日佛	Homage to the fifteen thousand with the same name, the Buddha Sun
+['ZH_T14_0440_012:0182a01_20_625']	南無一萬八千同名娑羅王佛	南無一萬八千同名娑羅王佛	Homage to the eighteen thousand with the same name, the Buddha Śāla King
+['ZH_T14_0440_012:0182a01_20_626', 'ZH_T14_0440_012:0182a01_20_627']	南無一萬八千同名因陀羅幢佛🔽南無八千同名善光佛	南無一萬八千同名因陀羅幢佛 南無八千同名善光佛	Namo to the 18,000 Buddhas with the same name of Indradhvaja Buddha🔽Namo to the 8,000 Buddhas with the same name of Subhadra Buddha
+['ZH_T14_0440_012:0182a01_20_628']	南無八百同名寂滅佛	南無八百同名寂滅佛	Namo to the 800 Buddhas with the same name of Santamati Buddha
+['ZH_T14_0440_012:0182a01_20_629']	南無三十六億十一萬九千五百同名淨王佛』「此諸佛名，百千萬劫不可得聞，如優曇鉢花。	南無三十六億十一萬九千五百同名淨王佛』「此諸佛名，百千萬劫不可得聞，如優曇鉢花。	Namo to the 3,619,500 Buddhas with the same name of Suddharāja Buddha. The names of these Buddhas cannot be heard in a hundred thousand myriads of kalpas, like the udumbara flower.
+['ZH_T14_0440_012:0182a02_19']	若人受持、讀誦此諸佛名，畢竟遠離諸煩惱。	若人受持、讀誦此諸佛名，畢竟遠離諸煩惱。	If a person upholds and recites the names of these Buddhas, they will ultimately be far removed from all afflictions.
+['ZH_T14_0440_012:0182a03_4']	「舍利弗！	「舍利弗！	Śāriputra!
+['ZH_T14_0440_012:0182a03_9']	應當敬禮。	應當敬禮。	You should respectfully bow.
+['ZH_T14_0440_012:0182a22_4_0', 'ZH_T14_0440_012:0182a22_4_1', 'ZH_T14_0440_012:0182a22_4_2']	「『波頭摩勝如來佛🔽南無寂王佛🔽南無燈作佛	「『波頭摩勝如來佛 南無寂王佛 南無燈作佛	The Tathāgata Buddha of Pāṭaliputra🔽Namo to Buddha Śāntarāja🔽Namo to Buddha Dīpaṃkara
+['ZH_T14_0440_012:0182a22_4_3', 'ZH_T14_0440_012:0182a22_4_4', 'ZH_T14_0440_012:0182a22_4_5']	南無天光佛🔽南無德山佛🔽南無勝上佛	南無天光佛 南無德山佛 南無勝上佛	Namo to Buddha Divākara🔽Namo to Buddha Merudhvaja🔽Namo to Buddha Varaprabha
+['ZH_T14_0440_012:0182a22_4_6', 'ZH_T14_0440_012:0182a22_4_7']	南無娑羅王佛🔽南無淨王佛	南無娑羅王佛 南無淨王佛	Namo to Buddha Pārijātadhvaja🔽Namo to Buddha Viśuddharāja
+['ZH_T14_0440_012:0182a22_4_8', 'ZH_T14_0440_012:0182a22_4_9']	南無大慧梁佛🔽南無須彌佛	南無大慧梁佛 南無須彌佛	Namo to Buddha Mahāprabhāsa🔽Namo to Buddha Meru
+['ZH_T14_0440_012:0182a22_4_10', 'ZH_T14_0440_012:0182a22_4_11']	南無大智慧須彌佛🔽南無寶作佛	南無大智慧須彌佛 南無寶作佛	Namo to Buddha Mahāprajñā-meru🔽Namo to Buddha Ratnakṛta
+['ZH_T14_0440_012:0182a22_4_12']	南無寶藏佛	南無寶藏佛	Namo to Buddha Ratnagarbha
+['ZH_T14_0440_012:0182a22_4_13']	南無破金剛佛	南無破金剛佛	Homage to Buddha Breaker of Vajras
+['ZH_T14_0440_012:0182a22_4_14', 'ZH_T14_0440_012:0182a22_4_15']	南無賢智不動佛🔽南無香普佛	南無賢智不動佛 南無香普佛	Homage to Buddha Wise and Unmoving Wisdom🔽Homage to Buddha Fragrant Universal
+['ZH_T14_0440_012:0182a22_4_16']	南無甘露命佛	南無甘露命佛	Homage to Buddha Nectar Life
+['ZH_T14_0440_012:0182a22_4_17', 'ZH_T14_0440_012:0182a22_4_18']	南無難勝佛🔽南無月光佛	南無難勝佛 南無月光佛	Homage to Buddha Difficult to Conquer🔽Homage to Buddha Moonlight
+['ZH_T14_0440_012:0182a22_4_19']	南無日照佛	南無日照佛	Homage to Buddha Sun Illuminating
+['ZH_T14_0440_012:0182a22_4_20', 'ZH_T14_0440_012:0182a22_4_21']	南無智雞兜佛🔽南無大師子佛	南無智雞兜佛 南無大師子佛	Homage to Buddha Wise Kīrtimān🔽Homage to Buddha Great Lion
+['ZH_T14_0440_012:0182a22_4_22']	南無彌留山佛	南無彌留山佛	Homage to Buddha Meru Mountain
+['ZH_T14_0440_012:0182a22_4_23']	南無香光佛	南無香光佛	Homage to Buddha Fragrant Light
+['ZH_T14_0440_012:0182a22_4_24', 'ZH_T14_0440_012:0182a22_4_25']	南無德山佛🔽南無大通佛	南無德山佛 南無大通佛	Homage to Buddha Virtue Mountain🔽Homage to Buddha Great Permeation
+['ZH_T14_0440_012:0182a22_4_26', 'ZH_T14_0440_012:0182a22_4_27', 'ZH_T14_0440_012:0182a22_4_28']	南無阿摩羅藏佛🔽南無寶圍佛🔽南無金剛藏佛	南無阿摩羅藏佛 南無寶圍佛 南無金剛藏佛	Homage to Buddha Amala Store🔽Homage to Buddha Jeweled Enclosure🔽Homage to Buddha Vajra Store
+['ZH_T14_0440_012:0182a22_4_29']	南無憂波羅藏佛	南無憂波羅藏佛	Homage to Buddha Upholder Store
+['ZH_T14_0440_012:0182a22_4_30']	南無大日佛	南無大日佛	Homage to Buddha Great Sun
+['ZH_T14_0440_012:0182a22_4_31', 'ZH_T14_0440_012:0182a22_4_32']	南無橋梁載佛🔽南無月勝佛	南無橋梁載佛 南無月勝佛	Homage to Buddha Bridge Bearer🔽Homage to Buddha Moon Victor
+['ZH_T14_0440_012:0182a22_4_33']	南無樂堅固佛	南無樂堅固佛	Homage to Buddha Joyfully Firm
+['ZH_T14_0440_012:0182a22_4_34']	南無不可思議法身佛	南無不可思議法身佛	Homage to Buddha Inconceivable Dharma Body
+['ZH_T14_0440_012:0182a22_4_35']	南無勝藏佛	南無勝藏佛	Homage to Buddha Victorious Store
+['ZH_T14_0440_012:0182a22_4_36', 'ZH_T14_0440_012:0182a22_4_37', 'ZH_T14_0440_012:0182a22_4_38']	南無不空王佛🔽南無金剛無礙智佛🔽南無寶炎佛	南無不空王佛 南無金剛無礙智佛 南無寶炎佛	Homage to Buddha Unfailing King🔽Homage to Buddha Vajra Unimpeded Wisdom🔽Homage to Buddha Jeweled Flame
+['ZH_T14_0440_012:0182a22_4_39']	南無賒放丹施燈佛	南無賒放丹施燈佛	Homage to Buddha Shi Deng
+['ZH_T14_0440_012:0182a22_4_40']	南無降伏一切怨佛	南無降伏一切怨佛	Homage to Buddha Conqueror of All Enemies
+['ZH_T14_0440_012:0182a22_4_41']	南無自在佛	南無自在佛	Homage to the Buddha of Sovereignty
+['ZH_T14_0440_012:0182a22_4_42']	南無大智真聲佛	南無大智真聲佛	Homage to the Buddha of Great Wisdom and True Voice
+['ZH_T14_0440_012:0182a22_4_43']	南無般若香象佛	南無般若香象佛	Homage to the Buddha of Wisdom and Fragrance of Elephants
+['ZH_T14_0440_012:0182a22_4_44']	南無天王佛』「舍利弗！	南無天王佛』「舍利弗！	Homage to the Buddha of Heavenly Kings. Śāriputra!
+['ZH_T14_0440_012:0182a27_3']	若善男子、善女人，聞此諸佛名，受持讀誦，不生疑者，是人八千億劫不入地獄，不入畜生，不入鬼道，不生邊地，不生貧窮家，不生下賤家，常生天人豪貴之處，常得歡喜適樂無礙，常得一切世間尊重供養，乃至得大涅槃。	若善男子、善女人，聞此諸佛名，受持讀誦，不生疑者，是人八千億劫不入地獄，不入畜生，不入鬼道，不生邊地，不生貧窮家，不生下賤家，常生天人豪貴之處，常得歡喜適樂無礙，常得一切世間尊重供養，乃至得大涅槃。	If good sons and good women hear these buddhas' names, uphold and recite them without giving rise to doubt, then for eight thousand koṭīs of eons they will not enter the hells, not enter the realms of animals, hungry ghosts, or borderlands, not be born in poor or lowly families, but will always be born in the noble and wealthy realms of gods and humans, always experience joy, delight, and unimpededness, always be revered and offered to by all worlds, and ultimately attain great nirvāṇa.
+['ZH_T14_0440_012:0182a27_8']	「舍利弗！	「舍利弗！	Śāriputra!
+['ZH_T14_0440_012:0182a27_15']	汝等應當敬禮。	汝等應當敬禮。	You should all respectfully bow to them.
+['ZH_T14_0440_012:0182b18_4_0', 'ZH_T14_0440_012:0182b18_4_1']	「『不可嫌身佛🔽南無稱聲佛	「『不可嫌身佛 南無稱聲佛	Buddha of the Body Beyond Reproach🔽Homage to the Buddha of Renowned Voice
+['ZH_T14_0440_012:0182b18_4_2', 'ZH_T14_0440_012:0182b18_4_3']	南無稱威德佛🔽南無稱名佛	南無稱威德佛 南無稱名佛	Homage to the Buddha of Renowned Virtue🔽Homage to the Buddha of Renowned Name
+['ZH_T14_0440_012:0182b18_4_4', 'ZH_T14_0440_012:0182b18_4_5']	南無葉陀佛🔽南無聲炎佛	南無葉陀佛 南無聲炎佛	Homage to the Buddha of Leaves🔽Homage to the Buddha of Flaming Voice
+['ZH_T14_0440_012:0182b18_4_6']	南無聲分勇猛佛	南無聲分勇猛佛	Homage to the Buddha of Courageous Voice
+['ZH_T14_0440_012:0182b18_4_7', 'ZH_T14_0440_012:0182b18_4_8']	南無智勝佛🔽南無智善知佛	南無智勝佛 南無智善知佛	Homage to Buddha Jñānavṛṣabha🔽Homage to Buddha Jñānasukhajña
+['ZH_T14_0440_012:0182b18_4_9', 'ZH_T14_0440_012:0182b18_4_10', 'ZH_T14_0440_012:0182b18_4_11']	南無智聚佛🔽南無智勇猛佛🔽南無梵勝佛	南無智聚佛 南無智勇猛佛 南無梵勝佛	Homage to Buddha Jñānasambhava🔽Homage to Buddha Jñānavīrya🔽Homage to Buddha Brahmaśreṣṭha
+['ZH_T14_0440_012:0182b18_4_12', 'ZH_T14_0440_012:0182b18_4_13', 'ZH_T14_0440_012:0182b18_4_14']	南無淨婆藪佛🔽南無淨丹有心佛🔽南無淨天佛	南無淨婆藪佛 南無淨丹有心佛 南無淨天佛	Homage to Buddha Viśuddhavasu🔽Homage to Buddha Viśuddhacitta🔽Homage to Buddha Viśuddhadeva
+['ZH_T14_0440_012:0182b18_4_15', 'ZH_T14_0440_012:0182b18_4_16', 'ZH_T14_0440_012:0182b18_4_17']	南無淨聲佛🔽南無梵自在佛🔽南無威德佛	南無淨聲佛 南無梵自在佛 南無威德佛	Homage to Buddha Viśuddhasvara🔽Homage to Buddha Brahmādhipati🔽Homage to Buddha Tejorāja
+['ZH_T14_0440_012:0182b18_4_18', 'ZH_T14_0440_012:0182b18_4_19']	南無毘摩勝佛🔽南無毘摩意佛	南無毘摩勝佛 南無毘摩意佛	Homage to Buddha Vimalottama🔽Homage to Buddha Vimalamati
+['ZH_T14_0440_012:0182b18_4_20', 'ZH_T14_0440_012:0182b18_4_21']	南無毘摩面佛🔽南無毘摩上佛	南無毘摩面佛 南無毘摩上佛	Homage to Buddha Vimalamukha🔽Homage to Buddha Vimalottama
+['ZH_T14_0440_012:0182b18_4_22', 'ZH_T14_0440_012:0182b18_4_23']	南無無邊聲佛🔽南無實見佛	南無無邊聲佛 南無實見佛	Homage to Buddha Anantaśabda🔽Homage to Buddha Satyadarśin
+['ZH_T14_0440_012:0182b18_4_24', 'ZH_T14_0440_012:0182b18_4_25', 'ZH_T14_0440_012:0182b18_4_26']	南無善眼月佛🔽南無深聲佛🔽南無放聲佛	南無善眼月佛 南無深聲佛 南無放聲佛	Homage to Buddha Sumukhacandras🔽Homage to Buddha Gambhīraghoṣa🔽Homage to Buddha Muktaśabda
+['ZH_T14_0440_012:0182b18_4_27']	南無驚怖魔力聲佛	南無驚怖魔力聲佛	Homage to Buddha Māravijigviśabda
+['ZH_T14_0440_012:0182b18_4_28', 'ZH_T14_0440_012:0182b18_4_29', 'ZH_T14_0440_012:0182b18_4_30']	南無淨眼佛🔽南無無邊眼佛🔽南無普眼佛	南無淨眼佛 南無無邊眼佛 南無普眼佛	Homage to Buddha Viśuddhanetra🔽Homage to Buddha Ananatanetra🔽Homage to Buddha Samantanetra
+['ZH_T14_0440_012:0182b18_4_31', 'ZH_T14_0440_012:0182b18_4_32', 'ZH_T14_0440_012:0182b18_4_33']	南無勝眼佛🔽南無不可行佛🔽南無寂勝佛	南無勝眼佛 南無不可行佛 南無寂勝佛	Homage to Buddha Viśeṣanetra🔽Homage to Buddha Acarama🔽Homage to Buddha Śāntaviśeṣa
+['ZH_T14_0440_012:0182b18_4_34', 'ZH_T14_0440_012:0182b18_4_35']	南無善寂心佛🔽南無善寂根佛	南無善寂心佛 南無善寂根佛	Homage to Buddha Śāntamanas🔽Homage to Buddha Śāntendriya
+['ZH_T14_0440_012:0182b18_4_36']	南無善寂意佛	南無善寂意佛	Homage to Buddha Śāntamati
+['ZH_T14_0440_012:0182b18_4_37']	南無善寂德佛	南無善寂德佛	Homage to Buddha Subhadra-guna
+['ZH_T14_0440_012:0182b18_4_38', 'ZH_T14_0440_012:0182b18_4_39']	南無善住佛🔽南無眾自在王佛	南無善住佛 南無眾自在王佛	Homage to Buddha Subhadra🔽Homage to Buddha Mahā-gaṇa-vikrāmin
+['ZH_T14_0440_012:0182b18_4_40']	南無大眾自在佛	南無大眾自在佛	Homage to Buddha Mahā-gaṇa-vikrāmin
+['ZH_T14_0440_012:0182b18_4_41', 'ZH_T14_0440_012:0182b18_4_42', 'ZH_T14_0440_012:0182b18_4_43']	南無眾解脫佛🔽南無法幢佛🔽南無法山佛	南無眾解脫佛 南無法幢佛 南無法山佛	Homage to Buddha Gaṇa-vimukta🔽Homage to Buddha Dharma-dhvaja
+['ZH_T14_0440_012:0182b18_4_44', 'ZH_T14_0440_012:0182b18_4_45', 'ZH_T14_0440_012:0182b18_4_46']	南無法勝佛🔽南無法體佛🔽南無法力佛	南無法勝佛 南無法體佛 南無法力佛	Homage to Buddha Dharma-śaila🔽Homage to Buddha Dharma-vikramin🔽Homage to Buddha Dharma-kāya🔽Homage to Buddha Dharma-bala
+['ZH_T14_0440_012:0182b18_4_47']	南無法勇猛佛	南無法勇猛佛	Homage to Buddha Dharma-śūra
+['ZH_T14_0440_012:0182b18_4_48']	南無法體決定佛	南無法體決定佛	Homage to Buddha Dharma-kāya-niyata
+['ZH_T14_0440_012:0182b18_4_49']	南無第二劫八千億同名法體決定佛』「舍利弗！	南無第二劫八千億同名法體決定佛』「舍利弗！	Śāriputra!
+['ZH_T14_0440_012:0182b19_9']	若善男子、善女人，受持是佛名，畢竟不入地獄，速得三昧。	若善男子、善女人，受持是佛名，畢竟不入地獄，速得三昧。	If good men and good women uphold the names of these Buddhas, they will never enter hell and will quickly attain samādhi.
+['ZH_T14_0440_012:0182b20_4']	「舍利弗！	「舍利弗！	Śāriputra!
+['ZH_T14_0440_012:0182b21_10']	過是佛名無量無邊阿僧祇劫，有佛名人自在聲，汝當歸命。	過是佛名無量無邊阿僧祇劫，有佛名人自在聲，汝當歸命。	After an immeasurable, boundless, incalculable eon beyond this, there was a Buddha named Nārāyaṇa. You should take refuge in him.
+['ZH_T14_0440_012:0182b24_10']	彼人自在聲佛，壽命七十千萬劫住世，初會三億聲聞眾集，八十那由他千萬菩薩眾集，皆得諸神通，具四無礙，通達一切空到彼岸。	彼人自在聲佛，壽命七十千萬劫住世，初會三億聲聞眾集，八十那由他千萬菩薩眾集，皆得諸神通，具四無礙，通達一切空到彼岸。	The lifespan of that Buddha was seventy million eons, and in his first assembly, three hundred million śrāvaka disciples gathered, as well as eighty nayutas of ten thousands of bodhisattva disciples, all of whom had attained the various spiritual powers, were endowed with the four unobstructed [abilities], and had thoroughly penetrated emptiness and reached the other shore.
+['ZH_T14_0440_012:0182b25_18']	我若無量劫住世，說彼佛大會國土莊嚴，如大海水中一渧之分。	我若無量劫住世，說彼佛大會國土莊嚴，如大海水中一渧之分。	If I were to dwell in the world for innumerable eons, describing the Buddha's great assembly and the adornments of his land, it would be like a single drop of water from the great ocean.
+['ZH_T14_0440_012:0182b26_4']	「舍利弗！	「舍利弗！	Śāriputra!
+['ZH_T14_0440_012:0182b26_18']	應當敬禮十方諸大菩薩摩訶薩。	應當敬禮十方諸大菩薩摩訶薩。	You should respectfully bow to the great bodhisattva-mahāsattvas in the ten directions.
+['ZH_T14_0440_012:0184a04_5_0']	「『南無文殊師利菩薩摩訶薩	「『南無文殊師利菩薩摩訶薩	Homage to Mañjuśrī Bodhisattva-Mahāsattva
+['ZH_T14_0440_012:0184a04_5_1']	南無觀世音菩薩	南無觀世音菩薩	Homage to Avalokitêśvara Bodhisattva
+['ZH_T14_0440_012:0184a04_5_2', 'ZH_T14_0440_012:0184a04_5_3', 'ZH_T14_0440_012:0184a04_5_4']	南無大勢至菩薩🔽南無普賢菩薩🔽南無龍勝菩薩	南無大勢至菩薩 南無普賢菩薩 南無龍勝菩薩	Homage to Mahāsthāmaprāpta Bodhisattva🔽Homage to Samantabhadra Bodhisattva🔽Homage to Nāyaguru Bodhisattva
+['ZH_T14_0440_012:0184a04_5_5', 'ZH_T14_0440_012:0184a04_5_6']	南無龍德菩薩🔽南無勝成就菩薩	南無龍德菩薩 南無勝成就菩薩	Homage to Nāgadeva Bodhisattva🔽Homage to Siddhāṃśa Bodhisattva
+['ZH_T14_0440_012:0184a04_5_7', 'ZH_T14_0440_012:0184a04_5_8', 'ZH_T14_0440_012:0184a04_5_9']	南無勝藏菩薩🔽南無波頭摩勝菩薩🔽南無成就有菩薩	南無勝藏菩薩 南無波頭摩勝菩薩 南無成就有菩薩	Homage to Jñānāṃśa Bodhisattva🔽Homage to Pāndaravāsinī Bodhisattva🔽Homage to Siddhārtha Bodhisattva
+['ZH_T14_0440_012:0184a04_5_10']	南無地持菩薩	南無地持菩薩	Homage to Bhūdhara Bodhisattva
+['ZH_T14_0440_012:0184a04_5_11']	南無寶掌菩薩	南無寶掌菩薩	Homage to Bodhisattva Jewel Palm
+['ZH_T14_0440_012:0184a04_5_12', 'ZH_T14_0440_012:0184a04_5_13']	南無寶印手菩薩🔽南無師子意菩薩	南無寶印手菩薩 南無師子意菩薩	Homage to Bodhisattva Jewel Seal Hand🔽Homage to Bodhisattva Lion's Intention
+['ZH_T14_0440_012:0184a04_5_14']	南無師子奮迅吼聲菩薩	南無師子奮迅吼聲菩薩	Homage to Bodhisattva Lion's Resolute Roaring Sound
+['ZH_T14_0440_012:0184a04_5_15']	南無虛空藏菩薩	南無虛空藏菩薩	Homage to Bodhisattva Ākāśagarbha
+['ZH_T14_0440_012:0184a04_5_16']	南無發心即轉法輪菩薩	南無發心即轉法輪菩薩	Homage to Bodhisattva Who Turns the Dharma Wheel as Soon as the Mind is Generated
+['ZH_T14_0440_012:0184a04_5_17']	南無一切聲差別樂說菩薩	南無一切聲差別樂說菩薩	Homage to Bodhisattva Who Delightfully Speaks All Sounds and Distinctions
+['ZH_T14_0440_012:0184a04_5_18', 'ZH_T14_0440_012:0184a04_5_19']	南無山樂說菩薩🔽南無大海意菩薩	南無山樂說菩薩 南無大海意菩薩	Homage to Bodhisattva Who Delightfully Speaks Mountains🔽Homage to Bodhisattva Ocean Mind
+['ZH_T14_0440_012:0184a04_5_20']	南無大山菩薩	南無大山菩薩	Homage to Bodhisattva Great Mountain
+['ZH_T14_0440_012:0184a04_5_21']	南無愛見菩薩	南無愛見菩薩	Homage to Bodhisattva Loving View
+['ZH_T14_0440_012:0184a04_5_22', 'ZH_T14_0440_012:0184a04_5_23']	南無歡喜王菩薩🔽南無無邊觀菩薩	南無歡喜王菩薩 南無無邊觀菩薩	Homage to Bodhisattva Joyful King🔽Homage to Bodhisattva Boundless Contemplation
+['ZH_T14_0440_012:0184a04_5_24']	南無無邊觀行菩薩	南無無邊觀行菩薩	Homage to Bodhisattva Boundless Contemplation Practice
+['ZH_T14_0440_012:0184a04_5_25']	南無破邪見魔菩薩	南無破邪見魔菩薩	Homage to Bodhisattva Breaker of Evil View Demons
+['ZH_T14_0440_012:0184a04_5_26']	南無無憂德菩薩	南無無憂德菩薩	Homage to Bodhisattva Virtue of No Sorrow
+['ZH_T14_0440_012:0184a04_5_27']	南無成就一切義菩薩	南無成就一切義菩薩	Homage to Bodhisattva Accomplisher of All Meanings
+['ZH_T14_0440_012:0184a04_5_28']	南無師子菩薩	南無師子菩薩	Homage to Bodhisattva Lion
+['ZH_T14_0440_012:0184a04_5_29', 'ZH_T14_0440_012:0184a04_5_30', 'ZH_T14_0440_012:0184a04_5_31']	南無善住意菩薩🔽南無無比心菩薩🔽南無那羅德菩薩	南無善住意菩薩 南無無比心菩薩 南無那羅德菩薩	Homage to Bodhisattva Well-Abiding Intention🔽Homage to Bodhisattva Incomparable Mind🔽Homage to Bodhisattva Nārāyaṇa Virtue
+['ZH_T14_0440_012:0184a04_5_32']	南無因陀羅德菩薩	南無因陀羅德菩薩	Homage to Bodhisattva Indra Virtue
+['ZH_T14_0440_012:0184a04_5_33']	南無海天菩薩	南無海天菩薩	Homage to Bodhisattva Ocean Deva
+['ZH_T14_0440_012:0184a04_5_34']	南無拔陀波羅菩薩	南無拔陀波羅菩薩	Homage to Bodhisattva Bhadrapāla
+['ZH_T14_0440_012:0184a04_5_35', 'ZH_T14_0440_012:0184a04_5_36', 'ZH_T14_0440_012:0184a04_5_37']	南無藥王菩薩🔽南無盧舍那菩薩🔽南無月光菩薩	南無藥王菩薩 南無盧舍那菩薩 南無月光菩薩	Homage to Bodhisattva Bhaiṣajyarāja🔽Homage to Bodhisattva Vairocana🔽Homage to Bodhisattva Candraprabha
+['ZH_T14_0440_012:0184a04_5_38']	南無波頭摩勝丹本有藏菩薩	南無波頭摩勝丹本有藏菩薩	Homage to Bodhisattva Padmaśrīdhara
+['ZH_T14_0440_012:0184a04_5_39', 'ZH_T14_0440_012:0184a04_5_40', 'ZH_T14_0440_012:0184a04_5_41']	南無智山菩薩🔽南無聖藏菩薩🔽南無不捨行菩薩	南無智山菩薩 南無聖藏菩薩 南無不捨行菩薩	Homage to Bodhisattva Jñānapradīpa🔽Homage to Bodhisattva Āryagarbha🔽Homage to Bodhisattva Atyadāntacāri
+['ZH_T14_0440_012:0184a04_5_42', 'ZH_T14_0440_012:0184a04_5_43']	南無不空見菩薩🔽南無妙聲菩薩	南無不空見菩薩 南無妙聲菩薩	Homage to Bodhisattva Amoghadarśin🔽Homage to Bodhisattva Subhūti
+['ZH_T14_0440_012:0184a04_5_44']	南無妙聲吼菩薩	南無妙聲吼菩薩	Homage to Bodhisattva Subhūtighoṣa
+['ZH_T14_0440_012:0184a04_5_45', 'ZH_T14_0440_012:0184a04_5_46', 'ZH_T14_0440_012:0184a04_5_47']	南無常微笑寂根菩薩🔽南無波頭摩道勝菩薩🔽南無廣思菩薩	南無常微笑寂根菩薩 南無波頭摩道勝菩薩 南無廣思菩薩	Homage to Bodhisattva Nityānandendīvara🔽Homage to Bodhisattva Padmavyūharāja🔽Homage to Bodhisattva Viśeṣamati
+['ZH_T14_0440_012:0184a04_5_48', 'ZH_T14_0440_012:0184a04_5_49']	南無憂波羅眼菩薩🔽南無可供養菩薩	南無憂波羅眼菩薩 南無可供養菩薩	Homage to Bodhisattva Upapela-netra🔽Homage to Bodhisattva Pūjya
+['ZH_T14_0440_012:0184a04_5_50']	南無常憶菩薩	南無常憶菩薩	Homage to Bodhisattva Nityasmṛti
+['ZH_T14_0440_012:0184a04_5_51']	南無住一切悲見菩薩	南無住一切悲見菩薩	Homage to Bodhisattva Sarvaduḥkha-praśamanadṛṣṭi
+['ZH_T14_0440_012:0184a04_5_52', 'ZH_T14_0440_012:0184a04_5_53']	南無斷一切惡法菩薩🔽南無住一切聲菩薩	南無斷一切惡法菩薩 南無住一切聲菩薩	Homage to Bodhisattva Sarvadharmavaśavartin🔽Homage to Bodhisattva Sarvaśabda-sthita
+['ZH_T14_0440_012:0184a04_5_54']	南無住一切有菩薩	南無住一切有菩薩	Homage to Bodhisattva Sarvabhāva-sthita
+['ZH_T14_0440_012:0184a04_5_55']	南無住佛聲菩薩	南無住佛聲菩薩	Homage to Bodhisattva Buddhaśabda-sthita
+['ZH_T14_0440_012:0184a04_5_56']	南無無垢菩薩	南無無垢菩薩	Homage to Bodhisattva Vimalagarbha
+['ZH_T14_0440_012:0184a04_5_57']	南無勇猛德菩薩	南無勇猛德菩薩	Homage to the Bodhisattva Heroic Virtue
+['ZH_T14_0440_012:0184a04_5_58', 'ZH_T14_0440_012:0184a04_5_59']	南無丹本有大淨菩薩🔽南無寶勝菩薩	南無丹本有大淨菩薩 南無寶勝菩薩	Homage to the Bodhisattva of Great Purity (Skt. Mahāśuddhaka)🔽Homage to the Bodhisattva Jewel Victory
+['ZH_T14_0440_012:0184a04_5_60', 'ZH_T14_0440_012:0184a04_5_61']	南無羅網光菩薩🔽南無斷諸蓋菩薩	南無羅網光菩薩 南無斷諸蓋菩薩	Homage to the Bodhisattva Net Light🔽Homage to the Bodhisattva Who Cuts Off All Hindrances
+['ZH_T14_0440_012:0184a04_5_62']	南無能捨一切事菩薩	南無能捨一切事菩薩	Homage to the Bodhisattva Who Can Give Up All Things
+['ZH_T14_0440_012:0184a04_5_63']	南無華莊嚴菩薩	南無華莊嚴菩薩	Homage to the Bodhisattva Flower Adornment
+['ZH_T14_0440_012:0184a04_5_64', 'ZH_T14_0440_012:0184a04_5_65']	南無月光光丹無一光字明菩薩🔽南無最勝意菩薩	南無月光光丹無一光字明菩薩 南無最勝意菩薩	Homage to the Bodhisattva Moon Light (Skt. Candraprabha)🔽Homage to the Bodhisattva Supreme Intention
+['ZH_T14_0440_012:0184a04_5_66']	南無堅意菩薩	南無堅意菩薩	Homage to the Bodhisattva Firm Intention
+['ZH_T14_0440_012:0184a04_5_67', 'ZH_T14_0440_012:0184a04_5_68']	南無自在天菩薩🔽南無勝意菩薩	南無自在天菩薩 南無勝意菩薩	Homage to the Bodhisattva Lord of Heaven🔽Homage to the Bodhisattva Victorious Intention
+['ZH_T14_0440_012:0184a04_5_69', 'ZH_T14_0440_012:0184a04_5_70']	南無淨意菩薩🔽南無金剛意菩薩	南無淨意菩薩 南無金剛意菩薩	Homage to the Bodhisattva Pure Intention🔽Homage to the Bodhisattva Diamond Intention
+['ZH_T14_0440_012:0184a04_5_71', 'ZH_T14_0440_012:0184a04_5_72', 'ZH_T14_0440_012:0184a04_5_73']	南無增長意菩薩🔽南無善住菩薩🔽南無善導師菩薩	南無增長意菩薩 南無善住菩薩 南無善導師菩薩	Homage to the Bodhisattva Increasing Intention🔽Homage to the Bodhisattva Well-Abiding🔽Homage to the Bodhisattva Good Guide
+['ZH_T14_0440_012:0184a04_5_74']	南無波頭摩藏菩薩	南無波頭摩藏菩薩	Homage to the Bodhisattva Pāṭalīdhānya
+['ZH_T14_0440_012:0184a04_5_75']	南無陀羅尼自在王菩薩	南無陀羅尼自在王菩薩	Homage to the Bodhisattva Dhāraṇī Sovereign
+['ZH_T14_0440_012:0184a04_5_76', 'ZH_T14_0440_012:0184a04_5_77']	南無普行菩薩🔽南無覺菩提菩薩	南無普行菩薩 南無覺菩提菩薩	Homage to the Bodhisattva Universal Practice🔽Homage to the Bodhisattva Awakened Bodhi
+['ZH_T14_0440_012:0184a04_5_78']	南無堅勝菩薩	南無堅勝菩薩	Homage to the Bodhisattva Firmly Victorious
+['ZH_T14_0440_012:0184a04_5_79']	南無斷諸惡道菩薩	南無斷諸惡道菩薩	Homage to the Bodhisattva Who Cuts Off All Evil Destinies
+['ZH_T14_0440_012:0184a04_5_80', 'ZH_T14_0440_012:0184a04_5_81']	南無不疲惓意菩薩🔽南無須彌山菩薩	南無不疲惓意菩薩 南無須彌山菩薩	Homage to the Bodhisattva Unwearied Mind🔽Homage to the Bodhisattva Sumeru
+['ZH_T14_0440_012:0184a04_5_82', 'ZH_T14_0440_012:0184a04_5_83']	南無大須彌山菩薩🔽南無心勇猛菩薩	南無大須彌山菩薩 南無心勇猛菩薩	Homage to the Bodhisattva Great Sumeru🔽Homage to the Bodhisattva Courageous Mind
+['ZH_T14_0440_012:0184a04_5_84']	南無師子奮迅行菩薩	南無師子奮迅行菩薩	Homage to the Bodhisattva Lion's Resolute Conduct
+['ZH_T14_0440_012:0184a04_5_85', 'ZH_T14_0440_012:0184a04_5_86', 'ZH_T14_0440_012:0184a04_5_87']	南無不可思議菩薩🔽南無善勝菩薩🔽南無善意菩薩	南無不可思議菩薩 南無善勝菩薩 南無善意菩薩	Homage to the Bodhisattva Inconceivable🔽Homage to the Bodhisattva Well-Victorious🔽Homage to the Bodhisattva Good Intention
+['ZH_T14_0440_012:0184a04_5_88', 'ZH_T14_0440_012:0184a04_5_89', 'ZH_T14_0440_012:0184a04_5_90']	南無實語菩薩🔽南無愛見菩薩🔽南無無障礙菩薩	南無實語菩薩 南無愛見菩薩 南無無障礙菩薩	Homage to the Bodhisattva Truth-Speaker🔽Homage to the Bodhisattva Love-Seeing🔽Homage to the Bodhisattva Unobstructed
+['ZH_T14_0440_012:0184a04_5_91', 'ZH_T14_0440_012:0184a04_5_92', 'ZH_T14_0440_012:0184a04_5_93']	南無斷諸疑菩薩🔽南無寶作菩薩🔽南無廣德菩薩	南無斷諸疑菩薩 南無寶作菩薩 南無廣德菩薩	Homage to the Bodhisattva Cutter-Off-Of-All-Suspicions🔽Homage to the Bodhisattva Jewel-Maker🔽Homage to the Bodhisattva Vast-Virtue
+['ZH_T14_0440_012:0184a04_5_94', 'ZH_T14_0440_012:0184a04_5_95']	南無護賢劫菩薩🔽南無寶月菩薩	南無護賢劫菩薩 南無寶月菩薩	Homage to the Bodhisattva Protector-Of-The-Worthy-Kalpa🔽Homage to the Bodhisattva Jewel-Moon
+['ZH_T14_0440_012:0184a04_5_96', 'ZH_T14_0440_012:0184a04_5_97', 'ZH_T14_0440_012:0184a04_5_98']	南無漫陀婆香菩薩🔽南無樂作菩薩🔽南無無垢稱菩薩	南無漫陀婆香菩薩 南無樂作菩薩 南無無垢稱菩薩	Homage to the Bodhisattva Sandalwood-Fragrance🔽Homage to the Bodhisattva Pleasure-Maker🔽Homage to the Bodhisattva Vimalakīrti
+['ZH_T14_0440_012:0184a04_5_99', 'ZH_T14_0440_012:0184a04_5_100', 'ZH_T14_0440_012:0184a04_5_101']	南無思益菩薩🔽南無普華菩薩🔽南無月勝菩薩	南無思益菩薩 南無普華菩薩 南無月勝菩薩	Homage to the Bodhisattva Benefit-Of-Thought🔽Homage to the Bodhisattva Universal Flower🔽Homage to the Bodhisattva Moon-Superior
+['ZH_T14_0440_012:0184a04_5_102', 'ZH_T14_0440_012:0184a04_5_103', 'ZH_T14_0440_012:0184a04_5_104']	南無月山菩薩🔽南無智山菩薩🔽南無勝山菩薩	南無月山菩薩 南無智山菩薩 南無勝山菩薩	Homage to the Bodhisattva Moon-Mountain🔽Homage to the Bodhisattva Wisdom-Mountain🔽Homage to the Bodhisattva Superior-Mountain
+['ZH_T14_0440_012:0184a04_5_105']	南無光山菩薩	南無光山菩薩	Homage to the Bodhisattva Light-Mountain
+['ZH_T14_0440_012:0184a04_5_106']	南無賢首菩薩	南無賢首菩薩	Homage to Bodhisattva Virūpākṣa🔽Homage to Bodhisattva Merudhvaja
+['ZH_T14_0440_012:0184a04_5_107', 'ZH_T14_0440_012:0184a04_5_108']	南無功德山菩薩🔽南無勝護菩薩	南無功德山菩薩 南無勝護菩薩	Homage to Bodhisattva Meruśikharadhara🔽Homage to Bodhisattva Merukūṭa🔽Homage to Bodhisattva Merupradīparāja
+['ZH_T14_0440_012:0184a04_5_109', 'ZH_T14_0440_012:0184a04_5_110']	南無那羅延菩薩🔽南無龍德菩薩	南無那羅延菩薩 南無龍德菩薩	Homage to Bodhisattva Merupradīparāja🔽Homage to Bodhisattva Meruśikharadhara🔽Homage to Bodhisattva Meruśikharadhara🔽Homage to Bodhisattva Meruśikharadhara
+['ZH_T14_0440_012:0184a04_5_111', 'ZH_T14_0440_012:0184a04_5_112']	南無龍勝菩薩🔽南無住持色菩薩	南無龍勝菩薩 南無住持色菩薩	Homage to Bodhisattva Meruśikharadhara🔽Homage to Bodhisattva Meruśikharadhara🔽Homage to Bodhisattva Meruśikharadhara
+['ZH_T14_0440_012:0184a04_5_113', 'ZH_T14_0440_012:0184a04_5_114']	南無摩留天菩薩🔽南無入功德菩薩	南無摩留天菩薩 南無入功德菩薩	Homage to Bodhisattva Meruśikharadhara🔽Homage to Bodhisattva Meruśikharadhara🔽Homage to Bodhisattva Meruśikharadhara
+['ZH_T14_0440_012:0184a04_5_115', 'ZH_T14_0440_012:0184a04_5_116']	南無然燈首菩薩🔽南無常舉手菩薩	南無然燈首菩薩 南無常舉手菩薩	Homage to Bodhisattva Meruśikharadhara🔽Homage to Bodhisattva Meruśikharadhara🔽Homage to Bodhisattva Meruśikharadhara🔽Homage to Bodhisattva Meruśikharadhara
+['ZH_T14_0440_012:0184a04_5_117', 'ZH_T14_0440_012:0184a04_5_118', 'ZH_T14_0440_012:0184a04_5_119']	南無光明常照手菩薩🔽南無寶手菩薩🔽南無普光菩薩	南無光明常照手菩薩 南無寶手菩薩 南無普光菩薩	Homage to Bodhisattva Meruśikharadhara🔽Homage to Bodhisattva Meruśikharadhara🔽Homage to Bodhisattva Meruśikharadhara
+['ZH_T14_0440_012:0184a04_5_120', 'ZH_T14_0440_012:0184a04_5_121']	南無星宿王菩薩🔽南無金剛步菩薩	南無星宿王菩薩 南無金剛步菩薩	Homage to Bodhisattva Meruśikharadhara🔽Homage to Bodhisattva Meruśikharadhara🔽Homage to Bodhisattva Meruśikharadhara
+['ZH_T14_0440_012:0184a04_5_122', 'ZH_T14_0440_012:0184a04_5_123']	南無不動花步菩薩🔽南無步三界菩薩	南無不動花步菩薩 南無步三界菩薩	Homage to Bodhisattva Meruśikharadhara🔽Homage to Bodhisattva Meruśikharadhara🔽Homage to Bodhisattva Meruśikharadhara
+['ZH_T14_0440_012:0184a04_5_124', 'ZH_T14_0440_012:0184a04_5_125']	南無無邊步奮迅菩薩🔽南無海慧菩薩	南無無邊步奮迅菩薩 南無海慧菩薩	Homage to Bodhisattva Meruśikharadhara🔽Homage to Bodhisattva Meruśikharadhara🔽Homage to Bodhisattva Meruśikharadhara🔽Homage to Bodhisattva Meruśikharadhara
+['ZH_T14_0440_012:0184a04_5_126', 'ZH_T14_0440_012:0184a04_5_127']	南無善光無垢住持威德菩薩🔽南無高精進菩薩	南無善光無垢住持威德菩薩 南無高精進菩薩	Homage to Bodhisattva Meruśikharadhara🔽Homage to Bodhisattva Meruśikharadhara🔽Homage to Bodhisattva Meruśikharadhara
+['ZH_T14_0440_012:0184a04_5_128', 'ZH_T14_0440_012:0184a04_5_129']	南無智山菩薩🔽南無常觀菩薩	南無智山菩薩 南無常觀菩薩	Homage to Bodhisattva Meruśikharadhara🔽Homage to Bodhisattva Meruśikharadhara🔽Homage to Bodhisattva Meruśikharadhara
+['ZH_T14_0440_012:0184a04_5_130']	南無不瞬菩薩	南無不瞬菩薩	Homage to Bodhisattva Meruśikharadhara🔽Homage to Bodhisattva Meruśikharadhara
+['ZH_T14_0440_012:0184a04_5_131']	南無無言菩薩	南無無言菩薩	Homage to Bodhisattva Inexpressible
+['ZH_T14_0440_012:0184a04_5_132', 'ZH_T14_0440_012:0184a04_5_133', 'ZH_T14_0440_012:0184a04_5_134']	南無寶勝菩薩🔽南無寶心菩薩🔽南無善思議菩薩	南無寶勝菩薩 南無寶心菩薩 南無善思議菩薩	Homage to Bodhisattva Jewel Victorious🔽Homage to Bodhisattva Jewel Mind🔽Homage to Bodhisattva Good Contemplation
+['ZH_T14_0440_012:0184a04_5_135', 'ZH_T14_0440_012:0184a04_5_136']	南無摩尼髻菩薩🔽南無莊嚴王菩薩	南無摩尼髻菩薩 南無莊嚴王菩薩	Homage to Bodhisattva Jewel Topknot🔽Homage to Bodhisattva Adorned King
+['ZH_T14_0440_012:0184a04_5_137', 'ZH_T14_0440_012:0184a04_5_138']	南無國土莊嚴菩薩🔽南無因陀羅網菩薩	南無國土莊嚴菩薩 南無因陀羅網菩薩	Homage to Bodhisattva Adorned Realm🔽Homage to Bodhisattva Indra's Net
+['ZH_T14_0440_012:0184a04_5_139']	南無天山菩薩	南無天山菩薩	Homage to Bodhisattva Heavenly Mountain
+['ZH_T14_0440_012:0184a04_5_140']	南無善眼菩薩	南無善眼菩薩	Homage to Bodhisattva Good Eyes
+['ZH_T14_0440_012:0184a04_5_141']	南無住持世間手菩薩	南無住持世間手菩薩	Homage to Bodhisattva World-Holding Hand
+['ZH_T14_0440_012:0184a04_5_142']	南無大將菩薩	南無大將菩薩	Homage to Bodhisattva Great Leader
+['ZH_T14_0440_012:0184a04_5_143', 'ZH_T14_0440_012:0184a04_5_144']	南無寂意菩薩🔽南無速行菩薩	南無寂意菩薩 南無速行菩薩	Homage to Bodhisattva Silent Mind🔽Homage to Bodhisattva Swift Walker
+['ZH_T14_0440_012:0184a04_5_145', 'ZH_T14_0440_012:0184a04_5_146', 'ZH_T14_0440_012:0184a04_5_147']	南無善臂菩薩🔽南無山峯菩薩🔽南無曇無竭菩薩	南無善臂菩薩 南無山峯菩薩 南無曇無竭菩薩	Homage to Bodhisattva Good Arms🔽Homage to Bodhisattva Mountain Peak🔽Homage to Bodhisattva Dānapāla
+['ZH_T14_0440_012:0184a04_5_148']	南無勝願菩薩	南無勝願菩薩	Homage to Bodhisattva Supreme Vow
+['ZH_T14_0440_012:0184a04_5_149', 'ZH_T14_0440_012:0184a04_5_150']	南無莊嚴相星宿山王菩薩🔽南無樂說無滯菩薩	南無莊嚴相星宿山王菩薩 南無樂說無滯菩薩	Homage to Bodhisattva Adorned Constellation Mountain King🔽Homage to Bodhisattva Unhindered Eloquence
+['ZH_T14_0440_012:0184a04_5_151', 'ZH_T14_0440_012:0184a04_5_152', 'ZH_T14_0440_012:0184a04_5_153']	南無無垢智菩薩🔽南無娑伽羅菩薩🔽南無斷一切憂菩薩	南無無垢智菩薩 南無娑伽羅菩薩 南無斷一切憂菩薩	Homage to Bodhisattva Stainless Wisdom🔽Homage to Bodhisattva Sāgara🔽Homage to Bodhisattva Dispeller of All Sorrow
+['ZH_T14_0440_012:0184a04_5_154']	南無地藏菩薩	南無地藏菩薩	Homage to Bodhisattva Kṣitigarbha
+['ZH_T14_0440_012:0184a04_5_155']	南無普現菩薩	南無普現菩薩	Homage to Bodhisattva Universal Manifestation
+['ZH_T14_0440_012:0184a04_5_156']	南無發丹法行成就菩薩	南無發丹法行成就菩薩	Homage to the Bodhisattva who has accomplished the practice of the Dharma
+['ZH_T14_0440_012:0184a04_5_157']	南無深行菩薩	南無深行菩薩	Homage to the Bodhisattva of Profound Practice
+['ZH_T14_0440_012:0184a04_5_158']	南無清淨三輪菩薩	南無清淨三輪菩薩	Homage to the Bodhisattva of the Pure Three Wheels
+['ZH_T14_0440_012:0184a04_5_159']	南無寂靜心菩薩	南無寂靜心菩薩	Homage to the Bodhisattva of Tranquil Mind
+['ZH_T14_0440_012:0184a04_5_160']	南無無邊功德菩薩	南無無邊功德菩薩	Homage to the Bodhisattva of Boundless Merit
+['ZH_T14_0440_012:0184a04_5_161', 'ZH_T14_0440_012:0184a04_5_162', 'ZH_T14_0440_012:0184a04_5_163']	南無虛空平等智菩薩🔽南無波頭摩眼菩薩🔽南無金剛幢菩薩	南無虛空平等智菩薩 南無波頭摩眼菩薩 南無金剛幢菩薩	Homage to the Bodhisattva of Space-like Equanimous Wisdom🔽Homage to the Bodhisattva of the Lotus Eyes🔽Homage to the Bodhisattva of the Diamond Banner
+['ZH_T14_0440_012:0184a04_5_164', 'ZH_T14_0440_012:0184a04_5_165']	南無波頭摩花嚴菩薩🔽南無寶莊嚴菩薩	南無波頭摩花嚴菩薩 南無寶莊嚴菩薩	Homage to the Bodhisattva of the Adornments of the Lotus Flower🔽Homage to the Bodhisattva of Jewel Adornments
+['ZH_T14_0440_012:0184a04_5_166']	南無寶路菩薩	南無寶路菩薩	Homage to the Bodhisattva of the Jewel Path
+['ZH_T14_0440_012:0184a04_5_167', 'ZH_T14_0440_012:0184a04_5_168']	南無功德王慧菩薩🔽南無莊嚴王菩薩	南無功德王慧菩薩 南無莊嚴王菩薩	Homage to the Bodhisattva of the Wisdom of Meritorious Kings🔽Homage to the Bodhisattva of Adorned Kings
+['ZH_T14_0440_012:0184a04_5_169']	南無斷諸嚴王菩薩	南無斷諸嚴王菩薩	Homage to the Bodhisattva who Cuts Off All Adorned Kings
+['ZH_T14_0440_012:0184a04_5_170', 'ZH_T14_0440_012:0184a04_5_171']	南無清淨光明莊嚴菩薩🔽南無深聲菩薩	南無清淨光明莊嚴菩薩 南無深聲菩薩	Homage to the Bodhisattva of the Adornments of Pure Light🔽Homage to the Bodhisattva of Profound Voice
+['ZH_T14_0440_012:0184a04_5_172']	南無妙鼓聲菩薩	南無妙鼓聲菩薩	Homage to the Bodhisattva of the Wonderful Drum Sound
+['ZH_T14_0440_012:0184a04_5_173']	南無尼民陀羅菩薩	南無尼民陀羅菩薩	Homage to the Bodhisattva Nirmāṇarati
+['ZH_T14_0440_012:0184a04_5_174']	南無大自在菩薩	南無大自在菩薩	Homage to the Bodhisattva of Great Sovereignty
+['ZH_T14_0440_012:0184a04_5_175', 'ZH_T14_0440_012:0184a04_5_176']	南無諸功德身菩薩🔽南無光明意菩薩	南無諸功德身菩薩 南無光明意菩薩	Homage to the Bodhisattva of the Body of All Meritorious Qualities🔽Homage to the Bodhisattva of Luminous Intention
+['ZH_T14_0440_012:0184a04_5_177']	南無善見菩薩	南無善見菩薩	Homage to the Bodhisattva of Good Observation
+['ZH_T14_0440_012:0184a04_5_178']	南無不取諸法菩薩	南無不取諸法菩薩	Homage to the Bodhisattva who Does Not Cling to Any Dharmas
+['ZH_T14_0440_012:0184a04_5_179']	南無轉女根菩薩	南無轉女根菩薩	Homage to the Bodhisattva who Transforms the Female Organ
+['ZH_T14_0440_012:0184a04_5_180', 'ZH_T14_0440_012:0184a04_5_181', 'ZH_T14_0440_012:0184a04_5_182']	南無思惟大悲菩薩🔽南無寶蓋山菩薩🔽南無雲山吼聲菩薩	南無思惟大悲菩薩 南無寶蓋山菩薩 南無雲山吼聲菩薩	Homage to the Bodhisattva who Contemplates Great Compassion🔽Homage to the Bodhisattva Jeweled Canopy Mountain🔽Homage to the Bodhisattva Cloud Mountain Roaring Sound
+['ZH_T14_0440_012:0184a04_5_183']	南無羅網莊嚴菩薩	南無羅網莊嚴菩薩	Homage to the Bodhisattva Adorned with Nets
+['ZH_T14_0440_012:0184a04_5_184', 'ZH_T14_0440_012:0184a04_5_185']	南無寶藏菩薩🔽南無法雞兜菩薩	南無寶藏菩薩 南無法雞兜菩薩	Homage to the Bodhisattva Jewel Treasury🔽Homage to the Bodhisattva Dharma Ke-tou
+['ZH_T14_0440_012:0184a04_5_186', 'ZH_T14_0440_012:0184a04_5_187']	南無日雞兜菩薩🔽南無無邊雞兜菩薩	南無日雞兜菩薩 南無無邊雞兜菩薩	Homage to the Bodhisattva Sun Ke-tou🔽Homage to the Bodhisattva Boundless Ke-tou
+['ZH_T14_0440_012:0184a04_5_188', 'ZH_T14_0440_012:0184a04_5_189']	南無無垢藏菩薩🔽南無山菩薩	南無無垢藏菩薩 南無山菩薩	Homage to the Bodhisattva Stainless Treasury🔽Homage to the Bodhisattva Mountain
+['ZH_T14_0440_012:0184a04_5_190']	南無山峯住持菩薩	南無山峯住持菩薩	Homage to the Bodhisattva Abiding in the Mountain Peak
+['ZH_T14_0440_012:0184a04_5_191', 'ZH_T14_0440_012:0184a04_5_192']	南無須彌山燈王菩薩🔽南無須彌幢菩薩	南無須彌山燈王菩薩 南無須彌幢菩薩	Homage to the Bodhisattva Sumeru Lamp King🔽Homage to the Bodhisattva Sumeru Banner
+['ZH_T14_0440_012:0184a04_5_193', 'ZH_T14_0440_012:0184a04_5_194', 'ZH_T14_0440_012:0184a04_5_195']	南無須彌山聲菩薩🔽南無彌留王菩薩🔽南無寶杖菩薩	南無須彌山聲菩薩 南無彌留王菩薩 南無寶杖菩薩	Homage to the Bodhisattva Sumeru Sound🔽Homage to the Bodhisattva Meru King🔽Homage to the Bodhisattva Jeweled Staff
+['ZH_T14_0440_012:0184a04_5_196', 'ZH_T14_0440_012:0184a04_5_197']	南無寶尸棄菩薩🔽南無寶來菩薩	南無寶尸棄菩薩 南無寶來菩薩	Homage to the Bodhisattva Jeweled Śikhin🔽Homage to the Bodhisattva Jeweled Arrival
+['ZH_T14_0440_012:0184a04_5_198']	南無寶天菩薩	南無寶天菩薩	Homage to the Bodhisattva Jeweled Heaven
+['ZH_T14_0440_012:0184a04_5_199']	南無法樂莊嚴菩薩	南無法樂莊嚴菩薩	Homage to the Bodhisattva Dharma Pleasure Adornment
+['ZH_T14_0440_012:0184a04_5_200']	南無莊嚴王菩薩	南無莊嚴王菩薩	Homage to the Bodhisattva Adorned King
+['ZH_T14_0440_012:0184a04_5_201']	南無山相莊嚴菩薩	南無山相莊嚴菩薩	Homage to the Bodhisattva Adorned with Mountain Characteristics
+['ZH_T14_0440_012:0184a04_5_202']	南無金莊嚴光明菩薩	南無金莊嚴光明菩薩	Homage to the Bodhisattva Golden Adornment Light
+['ZH_T14_0440_012:0184a04_5_203']	南無清淨聲光菩薩	南無清淨聲光菩薩	Homage to Bodhisattva Pure Sound and Light
+['ZH_T14_0440_012:0184a04_5_204']	南無寶髻菩薩	南無寶髻菩薩	Homage to Bodhisattva Jeweled Crown
+['ZH_T14_0440_012:0184a04_5_205', 'ZH_T14_0440_012:0184a04_5_206', 'ZH_T14_0440_012:0184a04_5_207']	南無天吉菩薩🔽南無百光菩薩🔽南無火光菩薩	南無天吉菩薩 南無百光菩薩 南無火光菩薩	Homage to Bodhisattva Heavenly Auspiciousness🔽Homage to Bodhisattva Hundred Lights🔽Homage to Bodhisattva Fire Light
+['ZH_T14_0440_012:0184a04_5_208']	南無星宿味菩薩	南無星宿味菩薩	Homage to Bodhisattva Star Flavor
+['ZH_T14_0440_012:0184a04_5_209']	南無常悲泣菩薩梵名薩陀波崙	南無常悲泣菩薩梵名薩陀波崙	Homage to Bodhisattva Ever Weeping Sanskrit name Sadāprarudita
+['ZH_T14_0440_012:0184a04_5_210']	南無光明勝菩薩	南無光明勝菩薩	Homage to Bodhisattva Light Excellence
+['ZH_T14_0440_012:0184a04_5_211', 'ZH_T14_0440_012:0184a04_5_212']	南無一切法自在菩薩🔽南無寶輪菩薩	南無一切法自在菩薩 南無寶輪菩薩	Homage to Bodhisattva Sovereign of All Dharmas🔽Homage to Bodhisattva Jeweled Wheel
+['ZH_T14_0440_012:0184a04_5_213', 'ZH_T14_0440_012:0184a04_5_214']	南無寶炬菩薩🔽南無不空奮迅菩薩	南無寶炬菩薩 南無不空奮迅菩薩	Homage to Bodhisattva Jeweled Torch🔽Homage to Bodhisattva Unfailing Subduer
+['ZH_T14_0440_012:0184a04_5_215']	南無雲光明菩薩	南無雲光明菩薩	Homage to Bodhisattva Cloud Light
+['ZH_T14_0440_012:0184a04_5_216', 'ZH_T14_0440_012:0184a04_5_217']	南無法王菩薩🔽南無合山菩薩	南無法王菩薩 南無合山菩薩	Homage to Bodhisattva Dharma King🔽Homage to Bodhisattva Mountain Crusher
+['ZH_T14_0440_012:0184a04_5_218']	南無降伏魔菩薩	南無降伏魔菩薩	Homage to Bodhisattva Conqueror of Māra
+['ZH_T14_0440_012:0184a04_5_219', 'ZH_T14_0440_012:0184a04_5_220', 'ZH_T14_0440_012:0184a04_5_221']	南無普見菩薩🔽南無智山幢菩薩🔽南無難可菩薩	南無普見菩薩 南無智山幢菩薩 南無難可菩薩	Homage to Bodhisattva Universal Vision🔽Homage to Bodhisattva Wisdom Mountain Banner🔽Homage to Bodhisattva Inconceivable
+['ZH_T14_0440_012:0184a04_5_222']	南無因陀羅幢菩薩	南無因陀羅幢菩薩	Homage to Bodhisattva Indra Banner
+['ZH_T14_0440_012:0184a04_5_223', 'ZH_T14_0440_012:0184a04_5_224']	南無金髻菩薩🔽南無善見菩薩	南無金髻菩薩 南無善見菩薩	Homage to Bodhisattva Golden Topknot🔽Homage to Bodhisattva Good Vision
+['ZH_T14_0440_012:0184a04_5_225']	南無善意菩薩	南無善意菩薩	Homage to Bodhisattva Good Intention
+['ZH_T14_0440_012:0184a04_5_226']	南無解脫王菩薩	南無解脫王菩薩	Homage to Bodhisattva Liberated King
+['ZH_T14_0440_012:0184a04_5_227']	南無大威德菩薩	南無大威德菩薩	Homage to Bodhisattva Great Authority
+['ZH_T14_0440_012:0184a04_5_228']	南無波頭摩眼菩薩	南無波頭摩眼菩薩	Homage to Padma Eye Bodhisattva
+['ZH_T14_0440_012:0184a04_5_229', 'ZH_T14_0440_012:0184a04_5_230']	南無普眼菩薩🔽南無決定法菩薩	南無普眼菩薩 南無決定法菩薩	Homage to Universal Eye Bodhisattva🔽Homage to Ascertained Dharma Bodhisattva
+['ZH_T14_0440_012:0184a04_5_231', 'ZH_T14_0440_012:0184a04_5_232']	南無離垢菩薩🔽南無大光菩薩	南無離垢菩薩 南無大光菩薩	Homage to Stainless Bodhisattva🔽Homage to Great Light Bodhisattva
+['ZH_T14_0440_012:0184a04_5_233', 'ZH_T14_0440_012:0184a04_5_234']	南無大力菩薩🔽南無大月菩薩	南無大力菩薩 南無大月菩薩	Homage to Great Power Bodhisattva🔽Homage to Great Moon Bodhisattva
+['ZH_T14_0440_012:0184a04_5_235']	南無善月菩薩	南無善月菩薩	Homage to Good Moon Bodhisattva
+['ZH_T14_0440_012:0184a04_5_236', 'ZH_T14_0440_012:0184a04_5_237', 'ZH_T14_0440_012:0184a04_5_238']	南無淨心菩薩🔽南無住持華菩薩🔽南無不著行菩薩	南無淨心菩薩 南無住持華菩薩 南無不著行菩薩	Homage to Pure Mind Bodhisattva🔽Homage to Flower-Holding Bodhisattva🔽Homage to Non-Attachment Practice Bodhisattva
+['ZH_T14_0440_012:0184a04_5_239']	南無離諸惡菩薩	南無離諸惡菩薩	Homage to Free from All Evil Bodhisattva
+['ZH_T14_0440_012:0184a04_5_240']	南無得大菩薩	南無得大菩薩	Homage to Attained Great Bodhisattva
+['ZH_T14_0440_012:0184a04_5_241', 'ZH_T14_0440_012:0184a04_5_242']	南無智炬燈菩薩🔽南無無邊行菩薩	南無智炬燈菩薩 南無無邊行菩薩	Homage to Wisdom Torch Lamp Bodhisattva🔽Homage to Boundless Practice Bodhisattva
+['ZH_T14_0440_012:0184a04_5_243']	南無無邊見菩薩	南無無邊見菩薩	Homage to Boundless View Bodhisattva
+['ZH_T14_0440_012:0184a04_5_244']	南無無障礙智菩薩	南無無障礙智菩薩	Homage to Unobstructed Wisdom Bodhisattva
+['ZH_T14_0440_012:0184a04_5_245', 'ZH_T14_0440_012:0184a04_5_246']	南無無垢眼山王菩薩🔽南無住持寂靜菩薩	南無無垢眼山王菩薩 南無住持寂靜菩薩	Homage to Stainless Eye Mountain King Bodhisattva🔽Homage to Abiding in Quiescence Bodhisattva
+['ZH_T14_0440_012:0184a04_5_247']	南無離闇菩薩	南無離闇菩薩	Homage to Free from Darkness Bodhisattva
+['ZH_T14_0440_012:0184a04_5_248']	南無無邊幢菩薩	南無無邊幢菩薩	Homage to Boundless Banner Bodhisattva
+['ZH_T14_0440_012:0184a04_5_249', 'ZH_T14_0440_012:0184a04_5_250']	南無火光菩薩🔽南無三界尊菩薩	南無火光菩薩 南無三界尊菩薩	Homage to Fire Light Bodhisattva🔽Homage to Three Realms Honored One Bodhisattva
+['ZH_T14_0440_012:0184a04_5_251']	南無世間炬菩薩	南無世間炬菩薩	Homage to World Torch Bodhisattva
+['ZH_T14_0440_012:0184a04_5_252']	南無無障眼菩薩	南無無障眼菩薩	Homage to Unobstructed Eye Bodhisattva
+['ZH_T14_0440_012:0184a04_5_253', 'ZH_T14_0440_012:0184a04_5_254']	南無不可嫌稱菩薩🔽南無無邊見菩薩	南無不可嫌稱菩薩 南無無邊見菩薩	Homage to the Bodhisattva Inexpressible Praise🔽Homage to the Bodhisattva Boundless View
+['ZH_T14_0440_012:0184a04_5_255', 'ZH_T14_0440_012:0184a04_5_256', 'ZH_T14_0440_012:0184a04_5_257']	南無無礙見菩薩🔽南無甘露聲菩薩🔽南無寂行菩薩	南無無礙見菩薩 南無甘露聲菩薩 南無寂行菩薩	Homage to the Bodhisattva Unimpeded View🔽Homage to the Bodhisattva Nectar Sound🔽Homage to the Bodhisattva Peaceful Practice
+['ZH_T14_0440_012:0184a04_5_258']	南無法雲吼菩薩	南無法雲吼菩薩	Homage to the Bodhisattva Dharma Cloud Roar
+['ZH_T14_0440_012:0184a04_5_259', 'ZH_T14_0440_012:0184a04_5_260', 'ZH_T14_0440_012:0184a04_5_261']	南無得脫一切縛菩薩🔽南無法雲王滿足菩薩🔽南無甘露點王菩薩	南無得脫一切縛菩薩 南無法雲王滿足菩薩 南無甘露點王菩薩	Homage to the Bodhisattva Liberated from All Bonds🔽Homage to the Bodhisattva Dharma Cloud King Fulfillment🔽Homage to the Bodhisattva Nectar Drop King Bodhisattva
+['ZH_T14_0440_012:0184a04_5_262', 'ZH_T14_0440_012:0184a04_5_263']	南無尼拘律王菩薩🔽南無無畏菩薩	南無尼拘律王菩薩 南無無畏菩薩	Homage to the Bodhisattva Nyagrodha King Bodhisattva🔽Homage to the Bodhisattva Fearless
+['ZH_T14_0440_012:0184a04_5_264']	南無淨勝菩薩	南無淨勝菩薩	Homage to the Bodhisattva Pure Excellence
+['ZH_T14_0440_012:0184a04_5_265']	南無勝眼菩薩	南無勝眼菩薩	Homage to the Bodhisattva Excellent Eye
+['ZH_T14_0440_012:0184a04_5_266']	南無藥王菩薩	南無藥王菩薩	Homage to the Bodhisattva Medicine King
+['ZH_T14_0440_012:0184a04_5_267', 'ZH_T14_0440_012:0184a04_5_268']	南無無障礙受記菩薩🔽南無甘露光菩薩	南無無障礙受記菩薩 南無甘露光菩薩	Homage to the Bodhisattva Unhindered Prediction🔽Homage to the Bodhisattva Nectar Light
+['ZH_T14_0440_012:0184a04_5_269']	南無無邊光菩薩	南無無邊光菩薩	Homage to the Bodhisattva Boundless Light
+['ZH_T14_0440_012:0184a04_5_270']	南無斷諸魔菩薩	南無斷諸魔菩薩	Homage to the Bodhisattva Cutting Off All Demons🔽Homage to the Bodhisattva Transcending All PathsHere is the text with the alignment mistakes fixed and the English translations updated to match the Sanskrit:
+['ZH_T14_0440_012:0184a04_5_271']	南無過一切道菩薩』」佛告舍利弗：	南無過一切道菩薩』」佛告舍利弗：	The Buddha told Śāriputra:
+['ZH_T14_0440_012:0184a06_9']	「若有善男子、善女人，比丘、比丘尼、優婆塞、優婆夷，能受持、讀誦此諸佛菩薩名者，終不墮惡道；	「若有善男子、善女人，比丘、比丘尼、優婆塞、優婆夷，能受持、讀誦此諸佛菩薩名者，終不墮惡道；	If there are good sons, good women, bhikṣus, bhikṣuṇīs, upāsakas, and upāsikās who are able to uphold, recite, and chant the names of these buddhas and bodhisattvas, they will never fall into evil destinies;
+['ZH_T14_0440_012:0184a07_18']	生天人中，常值佛菩薩、善知識，遠離諸煩惱，乃至得大菩提。	生天人中，常值佛菩薩、善知識，遠離諸煩惱，乃至得大菩提。	They will be reborn among gods and humans, always encounter buddhas, bodhisattvas, and good and virtuous friends, will be free from all afflictions, and will attain great enlightenment.
+['ZH_T14_0440_012:0184a11_19']	」佛說此佛名經已，慧命舍利弗及摩訶男比丘，及諸比丘、比丘尼、優婆塞、優婆夷，天、龍、夜叉、乾闥婆、阿修羅、迦樓羅、緊那羅、摩睺羅伽，人非人，及諸菩薩摩訶薩，皆大歡喜，頂受奉行。	」佛說此佛名經已，慧命舍利弗及摩訶男比丘，及諸比丘、比丘尼、優婆塞、優婆夷，天、龍、夜叉、乾闥婆、阿修羅、迦樓羅、緊那羅、摩睺羅伽，人非人，及諸菩薩摩訶薩，皆大歡喜，頂受奉行。	After the Buddha had spoken this sūtra on the names of the buddhas, the venerable Śāriputra, the bhikṣu Mahānāman, and all the bhikṣus, bhikṣuṇīs, upāsakas, upāsikās, devas, nāgas, yakṣas, gandharvas, asuras, garuḍas, kiṃnaras, mahoragas, humans, non-humans, and all the bodhisattva mahāsattvas greatly rejoiced and respectfully carried out [the Buddha's teachings].
+['ZH_T14_0440_012:0184a12_100']	佛說佛名經卷第十二	佛說佛名經卷第十二	Sūtra on the Names of the Buddhas, Scroll 12

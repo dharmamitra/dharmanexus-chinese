@@ -1,0 +1,784 @@
+segmentnr	original	analyzed	translated
+['ZH_T27_1545_016:0077a17_0']	阿毘達磨大毘婆沙論卷第十六	阿毘達磨大毘婆沙論卷第十六	Abhidharma-mahāvibhāṣā-śāstra, fascicle 16
+['ZH_T27_1545_016:0077a19_0']	五百大阿羅漢等造	五百大阿羅漢等造	Composed by 500 great arhats and others
+['ZH_T27_1545_016:0077a20_0', 'ZH_T27_1545_016:0077a22_8']	三藏法師玄奘奉　詔譯🔽8雜蘊第一中智納息第二之八如佛世尊訶諸弟子。	三藏法師玄奘奉　詔譯 8雜蘊第一中智納息第二之八如佛世尊訶諸弟子。	Translated by Tripiṭaka Master Xuanzang on imperial command
+['ZH_T27_1545_016:0077a22_17']	稱言癡人乃至廣說。	稱言癡人乃至廣說。	It is said, Foolish person... and so on in detail.
+['ZH_T27_1545_016:0077a23_6']	問何故作此論。	問何故作此論。	Question: Why was this treatise composed?
+['ZH_T27_1545_016:0077a23_16']	答欲令疑者得決定故。	答欲令疑者得決定故。	Answer: In order to make the doubtful attain certainty.
+['ZH_T27_1545_016:0077a24_11']	謂佛世尊愛恚永斷違順平等。	謂佛世尊愛恚永斷違順平等。	The World-Honored Buddha has permanently severed love and hatred, and is impartial towards what is agreeable and disagreeable.
+['ZH_T27_1545_016:0077a25_2']	拔諍論根滅憍慢本。	拔諍論根滅憍慢本。	He has pulled out the roots of contentious debates and destroyed the basis of arrogance.
+['ZH_T27_1545_016:0077a25_11']	視諸珍寶猶如瓦礫。	視諸珍寶猶如瓦礫。	He regards all precious treasures as if they were worthless stones.
+['ZH_T27_1545_016:0077a26_2']	於一切法覺照無遺。	於一切法覺照無遺。	He has fully awakened to all dharmas without exception.
+['ZH_T27_1545_016:0077a26_11']	無相似愛及恚慢等。	無相似愛及恚慢等。	He has no similar love, hatred, arrogance, and so on.
+['ZH_T27_1545_016:0077a27_1']	諸煩惱習已永斷故。	諸煩惱習已永斷故。	The habits of afflictions have already been permanently severed.
+['ZH_T27_1545_016:0077a27_10']	非如獨覺及諸聲聞。	非如獨覺及諸聲聞。	Unlike pratyekabuddhas and śrāvakas,
+['ZH_T27_1545_016:0077a28_1', 'ZH_T27_1545_016:0077a28_11']	雖斷煩惱而有餘習。🔽貪愛習者如尊者阿難。	雖斷煩惱而有餘習。 貪愛習者如尊者阿難。	who have severed afflictions but still have remaining habits.🔽The habit of greedy love is like that of the Venerable Ānanda.
+['ZH_T27_1545_016:0077a29_10']	憐諸釋種瞋恚習者如尊者畢陵伽筏蹉。	憐諸釋種瞋恚習者如尊者畢陵伽筏蹉。	The habit of angry hatred is like that of the Venerable Piḷingghacchā.
+['ZH_T27_1545_016:0077b01_7']	語殑伽神言小婢止流吾今欲渡。	語殑伽神言小婢止流吾今欲渡。	He said to the Ganges deity, Little maid, stop the flow. I now wish to cross.
+['ZH_T27_1545_016:0077b02_5']	憍慢習者如尊者舍利子棄擲醫藥。	憍慢習者如尊者舍利子棄擲醫藥。	As for the habitual tendencies of pride, it is like how the Venerable Śāriputra discarded medicine.
+['ZH_T27_1545_016:0077b02_17']	愚癡習者如尊者笈房鉢底。	愚癡習者如尊者笈房鉢底。	As for the habitual tendencies of delusion, it is like how the Venerable Gavāṃpati
+['ZH_T27_1545_016:0077b03_11']	食前咳氣知食未銷不知後苦。	食前咳氣知食未銷不知後苦。	belched before a meal, knowing the food had not yet been digested but not knowing the later suffering.
+['ZH_T27_1545_016:0077b03_16']	而復更食。	而復更食。	And then he ate again.
+['ZH_T27_1545_016:0077b04_7']	如是等事其類甚多。	如是等事其類甚多。	There are many such cases.
+['ZH_T27_1545_016:0077b04_16']	世尊雖無煩惱餘習。	世尊雖無煩惱餘習。	Although the World-Honored One has no remaining habitual tendencies of afflictions,
+['ZH_T27_1545_016:0077b05_7']	而或時有似愛等言。	而或時有似愛等言。	he sometimes has words that resemble love and so forth.
+['ZH_T27_1545_016:0077b06_2']	似愛言者如世尊說善來苾芻。	似愛言者如世尊說善來苾芻。	As for words that resemble love, it is like how the World-Honored One said, Welcome, bhikṣus.
+['ZH_T27_1545_016:0077b06_11']	能善出家猶具禁戒。	能善出家猶具禁戒。	You are able to go forth well, still possessing the precepts.
+['ZH_T27_1545_016:0077b07_2']	似恚言者如世尊說。	似恚言者如世尊說。	As for words that resemble anger, it is like how the World-Honored One said,
+['ZH_T27_1545_016:0077b07_15']	汝是釋種婢子釋種是汝大家。	汝是釋種婢子釋種是汝大家。	You are the slave of the Śākya clan, the Śākya clan is your master.
+['ZH_T27_1545_016:0077b08_6']	似慢言者如世尊說。	似慢言者如世尊說。	As for words that resemble pride, it is like how the World-Honored One said,
+['ZH_T27_1545_016:0077b08_15']	我是如來應正等覺。	我是如來應正等覺。	I am the Tathāgata, Arhat, Perfectly Enlightened One,
+['ZH_T27_1545_016:0077b09_5']	成就十力得四無畏。	成就十力得四無畏。	accomplishing the ten powers and attaining the four forms of fearlessness.
+['ZH_T27_1545_016:0077b09_14']	似癡言者如世尊說。	似癡言者如世尊說。	As for words that resemble delusion, it is like how the World-Honored One said,
+['ZH_T27_1545_016:0077b10_5']	大王今者從何處來。	大王今者從何處來。	Great King, where are you coming from now?
+['ZH_T27_1545_016:0077b10_14']	告阿難言看天雨不。	告阿難言看天雨不。	He told Ānanda, Look at the rain.
+['ZH_T27_1545_016:0077b11_5']	園中何故高聲大聲。	園中何故高聲大聲。	Why is there loud noise in the garden?
+['ZH_T27_1545_016:0077b12_1']	或有生疑世尊已斷諸煩惱習。	或有生疑世尊已斷諸煩惱習。	Some have doubts that the World-Honored One has already severed the habitual tendencies of all afflictions.
+['ZH_T27_1545_016:0077b12_14']	云何復有如是等類似煩惱言。	云何復有如是等類似煩惱言。	How is it that there are still such things that resemble afflictions?
+['ZH_T27_1545_016:0077b13_9']	欲令彼疑得決定解故作斯論。	欲令彼疑得決定解故作斯論。	In order to cause those with doubts to attain definitive understanding, this treatise is composed.
+['ZH_T27_1545_016:0077b14_5']	釋其因緣如此癡言彼亦爾故。	釋其因緣如此癡言彼亦爾故。	The reason is explained like this: because the word delusion is also like that.
+['ZH_T27_1545_016:0077b14_15']	問何故佛說似愛等言。	問何故佛說似愛等言。	Question: Why did the Buddha speak words that resemble craving, etc.?
+['ZH_T27_1545_016:0077b15_6']	答護所化田饒益彼故。	答護所化田饒益彼故。	Answer: In order to protect the field of those to be transformed and benefit them.
+['ZH_T27_1545_016:0077b15_15']	謂世尊說似愛言者。	謂世尊說似愛言者。	As for the World-Honored One speaking words that resemble craving,
+['ZH_T27_1545_016:0077b16_15']	欲令天授所破苾芻身心安隱及除疑故。	欲令天授所破苾芻身心安隱及除疑故。	it is in order to cause the bhikṣus who were destroyed by Devadatta to be physically and mentally at ease and to remove their doubts.
+['ZH_T27_1545_016:0077b17_11']	謂提婆達多貪名利故破壞僧已。	謂提婆達多貪名利故破壞僧已。	This is because Devadatta, out of greed for fame and profit, destroyed the Saṃgha.
+['ZH_T27_1545_016:0077b18_9']	尊者舍利子及大目乾連化使還來。	尊者舍利子及大目乾連化使還來。	The Venerable Śāriputra and Mahāmaudgalyāyana transformed him to return.
+['ZH_T27_1545_016:0077b19_1']	彼諸苾芻深生羞恥。	彼諸苾芻深生羞恥。	Those bhikṣus deeply felt shame.
+['ZH_T27_1545_016:0077b19_10']	身心戰掉復生疑惑。	身心戰掉復生疑惑。	Their bodies and minds trembled and they gave rise to doubt.
+['ZH_T27_1545_016:0077b20_2']	我隨天授不失戒耶。	我隨天授不失戒耶。	Did we lose our precepts by following Devadatta?
+['ZH_T27_1545_016:0077b21_2']	聞世尊說善來苾芻能善出家猶具禁戒。	聞世尊說善來苾芻能善出家猶具禁戒。	They heard the World-Honored One say, Welcome, bhikṣus. You are able to go forth and still possess the precepts.
+['ZH_T27_1545_016:0077b21_11']	戰掉疑惑二事皆除。	戰掉疑惑二事皆除。	The two matters of trembling and doubt were both removed.
+['ZH_T27_1545_016:0077b22_2']	若佛爾時不作此語。	若佛爾時不作此語。	If the Buddha did not speak these words at that time,
+['ZH_T27_1545_016:0077b22_11']	彼懷愧惱吐血命終。	彼懷愧惱吐血命終。	they would have felt ashamed and distressed, vomited blood, and died.
+['ZH_T27_1545_016:0077b23_2']	又世尊說似恚言者。	又世尊說似恚言者。	Moreover, the World-Honored One said words that resemble anger.
+['ZH_T27_1545_016:0077b23_11']	摧彼梵志憍慢幢故。	摧彼梵志憍慢幢故。	This is to crush the pride banner of those Brahmins.
+['ZH_T27_1545_016:0077b24_2']	謂彼梵志菴婆瑟吒。	謂彼梵志菴婆瑟吒。	Namely, the Brahmin Ambaṣṭha.
+['ZH_T27_1545_016:0077b24_11']	不量母卑而懷憍傲。	不量母卑而懷憍傲。	Without considering his mother's low status, he harbored arrogance.
+['ZH_T27_1545_016:0077b25_3']	障他出家當墮惡趣。	障他出家當墮惡趣。	Obstructing others from going forth, he will fall into evil destinies.
+['ZH_T27_1545_016:0077b25_12']	由佛訶彼傲佷心摧。	由佛訶彼傲佷心摧。	Because the Buddha scolded him, his arrogant and obstinate mind was crushed.
+['ZH_T27_1545_016:0077b26_7']	次第二身得生天上見四聖諦。	次第二身得生天上見四聖諦。	In his next life, he was reborn in the heavens and saw the Four Noble Truths.
+['ZH_T27_1545_016:0077b27_4']	又由訶彼補色羯羅娑利梵志。	又由訶彼補色羯羅娑利梵志。	Moreover, because the Buddha scolded the Brahmin Pāyāsi,
+['ZH_T27_1545_016:0077b27_13']	得入佛法逮殊勝果。	得入佛法逮殊勝果。	he was able to enter the Buddha's teachings and attain the supreme fruit.
+['ZH_T27_1545_016:0077b28_4']	又世尊說似慢言者。	又世尊說似慢言者。	Moreover, the World-Honored One said words that resemble pride.
+['ZH_T27_1545_016:0077b29_4']	為令不知佛功德者知已歸依修勝行故。	為令不知佛功德者知已歸依修勝行故。	This is to cause those who do not know the Buddha's merits to know and take refuge, and cultivate superior practices.
+['ZH_T27_1545_016:0077b29_13']	又世尊說似癡言者。	又世尊說似癡言者。	Moreover, the World-Honored One said words that resemble delusion.
+['ZH_T27_1545_016:0077c01_4']	為開彼王談論道故。	為開彼王談論道故。	This is to open the path of discussion for that king.
+['ZH_T27_1545_016:0077c01_13']	為解阿難睡悶心故。	為解阿難睡悶心故。	This is to resolve Ānanda's drowsy and confused mind.
+['ZH_T27_1545_016:0077c02_4']	又欲生彼樂靜心故。	又欲生彼樂靜心故。	Moreover, this is to give rise to the mind of delight in tranquility in him.
+['ZH_T27_1545_016:0077c02_13']	佛說此等似煩惱言。	佛說此等似煩惱言。	The Buddha spoke these words that resemble afflictions.
+['ZH_T27_1545_016:0077c03_4']	皆為有情獲利樂故。	皆為有情獲利樂故。	All for the sake of sentient beings obtaining benefit and happiness.
+['ZH_T27_1545_016:0077c03_13']	今訶弟子稱言癡人。	今訶弟子稱言癡人。	Now rebuking the disciples, calling them foolish people.
+['ZH_T27_1545_016:0077c04_5', 'ZH_T27_1545_016:0077c04_15']	亦為利生如後當說。🔽問何緣獨覺及諸聲聞。	亦為利生如後當說。 問何緣獨覺及諸聲聞。	Also for the sake of benefiting beings, as will be explained later.
+['ZH_T27_1545_016:0077c05_10']	雖斷煩惱而有餘習佛不爾耶。	雖斷煩惱而有餘習佛不爾耶。	Question: Why is it that although the pratyekabuddhas and śrāvakas have severed afflictions, they still have residual habits, but the Buddha does not?
+['ZH_T27_1545_016:0077c06_3']	答聲聞獨覺慧不猛利。	答聲聞獨覺慧不猛利。	Answer: The wisdom of the śrāvakas and pratyekabuddhas is not sharp.
+['ZH_T27_1545_016:0077c06_12']	雖斷煩惱而有餘習。	雖斷煩惱而有餘習。	Although they have severed afflictions, they still have residual habits.
+['ZH_T27_1545_016:0077c07_7']	如世常火雖有所燒而餘灰燼。	如世常火雖有所燒而餘灰燼。	Like the ordinary fire in the world, although it burns something, there are still ashes and embers remaining.
+['ZH_T27_1545_016:0077c08_3']	佛慧猛利斷諸煩惱令無餘習。	佛慧猛利斷諸煩惱令無餘習。	The Buddha's wisdom is sharp and severs all afflictions without leaving any residual habits.
+['ZH_T27_1545_016:0077c08_16']	如劫盡火隨所燒物無餘灰燼。	如劫盡火隨所燒物無餘灰燼。	Like the fire at the end of the eon, whatever it burns leaves no remaining ashes or embers.
+['ZH_T27_1545_016:0077c09_12']	由前所說種種因緣故作斯論。	由前所說種種因緣故作斯論。	For the above-mentioned various reasons, this treatise is composed.
+['ZH_T27_1545_016:0077c10_8']	如佛世尊訶諸弟子。	如佛世尊訶諸弟子。	As the World-Honored Buddha rebukes the disciples,
+['ZH_T27_1545_016:0077c10_17']	稱言癡人此有何義。	稱言癡人此有何義。	calling them foolish people, what is the meaning of this?
+['ZH_T27_1545_016:0077c11_5']	答是訶責語。	答是訶責語。	Answer: This is a word of reproach.
+['ZH_T27_1545_016:0077c12_1']	謂佛世尊訶責弟子稱言癡人。	謂佛世尊訶責弟子稱言癡人。	It means that the World-Honored Buddha reproaches the disciples, calling them foolish people.
+['ZH_T27_1545_016:0077c12_10']	如今親教及軌範師。	如今親教及軌範師。	Like the present preceptor and teacher.
+['ZH_T27_1545_016:0077c12_19']	若有近住依止弟子。	若有近住依止弟子。	If there are disciples who live nearby and rely on them,
+['ZH_T27_1545_016:0077c13_8']	起諸過失便訶責言。	起諸過失便訶責言。	And reprimand them, saying:
+['ZH_T27_1545_016:0077c14_4']	汝為愚癡不明不善世尊亦爾。	汝為愚癡不明不善世尊亦爾。	You are foolish, ignorant, and unskillful. The World-Honored One is also like this.
+['ZH_T27_1545_016:0077c14_13']	訶諸弟子稱言癡人。	訶諸弟子稱言癡人。	He reprimands his disciples, calling them foolish people.
+['ZH_T27_1545_016:0077c15_4']	此中論文總有二分。	此中論文總有二分。	There are two parts to the treatise here.
+['ZH_T27_1545_016:0077c15_13']	一者釋佛訶弟子義。	一者釋佛訶弟子義。	The first is explaining the meaning of the Buddha reprimanding his disciples.
+['ZH_T27_1545_016:0077c16_4']	二者釋佛訶彼因緣。	二者釋佛訶彼因緣。	The second is explaining the causes and conditions of the Buddha's reprimand.
+['ZH_T27_1545_016:0077c16_13']	前所舉文即是初分。	前所舉文即是初分。	The text quoted above is the first part.
+['ZH_T27_1545_016:0077c17_3']	如今親教及軌範師。	如今親教及軌範師。	Just like one's own teacher and preceptor,
+['ZH_T27_1545_016:0077c17_12']	為遮弟子所起過失。	為遮弟子所起過失。	In order to prevent the faults that arise in disciples,
+['ZH_T27_1545_016:0077c18_3']	或如父母遮防子過。	或如父母遮防子過。	Or like parents preventing their children's faults,
+['ZH_T27_1545_016:0077c18_12']	有所訶責皆為饒益。	有所訶責皆為饒益。	There is reprimanding for the sake of benefiting them.
+['ZH_T27_1545_016:0077c19_4']	無有惡心佛亦如是。	無有惡心佛亦如是。	There is no ill will. The Buddha is also like this.
+['ZH_T27_1545_016:0077c19_13']	謂佛所化略有四種。	謂佛所化略有四種。	That is to say, the Buddha's transformations are roughly of four kinds.
+['ZH_T27_1545_016:0077c19_18']	一宜讚嘆。	一宜讚嘆。	One is suitable for praise.
+['ZH_T27_1545_016:0077c20_4']	二宜訶責。	二宜訶責。	Two are suitable for reprimand.
+['ZH_T27_1545_016:0077c20_9']	三宜捨置。	三宜捨置。	Three are suitable for abandonment.
+['ZH_T27_1545_016:0077c20_14']	四宜因他。	四宜因他。	Four are suitable for relying on others.
+['ZH_T27_1545_016:0077c21_1']	宜讚嘆者。	宜讚嘆者。	Those suitable for praise,
+['ZH_T27_1545_016:0077c21_10']	如佛讚嘆俱胝耳等。	如佛讚嘆俱胝耳等。	Such as the Buddha praising Koṭikarṇa and others.
+['ZH_T27_1545_016:0077c21_15']	宜訶責者。	宜訶責者。	Those suitable for reprimand,
+['ZH_T27_1545_016:0077c22_6']	如佛訶責鄔陀夷等。	如佛訶責鄔陀夷等。	Such as the Buddha reprimanding Udāyin and others.
+['ZH_T27_1545_016:0077c22_11']	宜捨置者。	宜捨置者。	Those suitable for abandonment,
+['ZH_T27_1545_016:0077c23_2']	如置無衣迦葉波等。	如置無衣迦葉波等。	It is like placing the naked Kāśyapa and others.
+['ZH_T27_1545_016:0077c23_11']	如佛告彼婆羅門言。	如佛告彼婆羅門言。	As the Buddha told that brāhmaṇa:
+['ZH_T27_1545_016:0077c24_2']	今非其時未可答汝。	今非其時未可答汝。	Now is not the time, I cannot answer you yet.
+['ZH_T27_1545_016:0077c24_7']	宜因他者。	宜因他者。	As for 'suitable for others,'
+['ZH_T27_1545_016:0077c25_1']	如佛為五苾芻轉正法輪。	如佛為五苾芻轉正法輪。	it is like when the Buddha turned the wheel of the true Dharma for the five bhikṣus.
+['ZH_T27_1545_016:0077c25_12']	爾時八萬諸天皆得聖道。	爾時八萬諸天皆得聖道。	At that time, eighty thousand devas all attained the noble path.
+['ZH_T27_1545_016:0077c26_4']	佛為頻毘娑羅王說法。	佛為頻毘娑羅王說法。	When the Buddha taught the Dharma for King Bimbisāra,
+['ZH_T27_1545_016:0077c26_13']	爾時亦有八萬諸天。	爾時亦有八萬諸天。	at that time there were also eighty thousand devas,
+['ZH_T27_1545_016:0077c27_8']	及摩揭陀九萬二千人皆得聖道。	及摩揭陀九萬二千人皆得聖道。	and ninety-two thousand people of Magadha all attained the noble path.
+['ZH_T27_1545_016:0077c27_15']	佛為帝釋說法。	佛為帝釋說法。	When the Buddha taught the Dharma for Śakra Devānām-Indra,
+['ZH_T27_1545_016:0077c28_10']	爾時亦有八萬諸天得入聖道。	爾時亦有八萬諸天得入聖道。	at that time there were also eighty thousand devas who entered the noble path.
+['ZH_T27_1545_016:0077c29_1']	佛為羅怙羅說法。	佛為羅怙羅說法。	When the Buddha taught the Dharma for Rāhula,
+['ZH_T27_1545_016:0077c29_14']	爾時亦有六萬諸天一時得道。	爾時亦有六萬諸天一時得道。	at that time there were also sixty thousand devas who attained the path at the same time.
+['ZH_T27_1545_016:0078a01_6']	諸如是等其類甚多。	諸如是等其類甚多。	There are many such cases.
+['ZH_T27_1545_016:0078a01_15']	是故世尊應以訶責。	是故世尊應以訶責。	Therefore, the World-Honored One should have reprimanded them.
+['ZH_T27_1545_016:0078a02_6']	而入道者必訶責之。	而入道者必訶責之。	But those who have entered the path must reprimand them.
+['ZH_T27_1545_016:0078a02_9']	有說。	有說。	Some say:
+['ZH_T27_1545_016:0078a02_17']	世尊大悲所逼故。	世尊大悲所逼故。	The World-Honored One is greatly compassionate, so
+['ZH_T27_1545_016:0078a03_6']	常求覓利他方便。	常求覓利他方便。	he always seeks ways to benefit others.
+['ZH_T27_1545_016:0078a04_5']	若不訶罵提婆達多汝是愚癡食涕唾者。	若不訶罵提婆達多汝是愚癡食涕唾者。	If he had not scolded Devadatta, calling him a fool who eats snot and spittle,
+['ZH_T27_1545_016:0078a05_1']	則引無量愚癡眾生作諸惡事。	則引無量愚癡眾生作諸惡事。	then he would have led countless foolish beings to commit evil deeds.
+['ZH_T27_1545_016:0078a05_10']	又復數數觸惱世尊。	又復數數觸惱世尊。	Moreover, he would have repeatedly troubled the World-Honored One.
+['ZH_T27_1545_016:0078a06_1']	若不毀呰無比女人。	若不毀呰無比女人。	If he had not reviled the incomparable woman,
+['ZH_T27_1545_016:0078a06_10']	汝身穢惡不淨充滿。	汝身穢惡不淨充滿。	saying her body is filled with foul and impure things,
+['ZH_T27_1545_016:0078a07_1']	即彼欲心無由止息。	即彼欲心無由止息。	then his lustful thoughts would have had no way to cease.
+['ZH_T27_1545_016:0078a07_10']	故訶弟子稱言癡人。	故訶弟子稱言癡人。	Therefore, he scolded his disciple, calling him a fool.
+['ZH_T27_1545_016:0078a08_5']	有說世尊所以訶責諸弟子者。	有說世尊所以訶責諸弟子者。	Some say that the reason the World-Honored One scolded his disciples
+['ZH_T27_1545_016:0078a09_1']	欲使未種善根者能種善根。	欲使未種善根者能種善根。	is to enable those who have not yet planted good roots to be able to plant good roots,
+['ZH_T27_1545_016:0078a09_14']	已種善根未成熟者速能成熟。	已種善根未成熟者速能成熟。	those who have already planted good roots but have not yet matured them to quickly mature them,
+['ZH_T27_1545_016:0078a10_9']	若已成熟未解脫者速得解脫。	若已成熟未解脫者速得解脫。	and those who have already matured them but have not yet attained liberation to quickly attain liberation.
+['ZH_T27_1545_016:0078a11_1']	若不訶責失此善利。	若不訶責失此善利。	If he had not scolded them, they would have missed this good opportunity.
+['ZH_T27_1545_016:0078a11_10']	故佛為此稱言癡人。	故佛為此稱言癡人。	Therefore, the Buddha called them fools for this reason.
+['ZH_T27_1545_016:0078a12_2', 'ZH_T27_1545_016:0078a12_12']	問言癡人者是何義耶。🔽為從癡生故說為癡人。	問言癡人者是何義耶。 為從癡生故說為癡人。	Question: What is the meaning of calling them fools?🔽Are they called fools because they arise from delusion?
+['ZH_T27_1545_016:0078a13_4']	為現行癡故說為癡人。	為現行癡故說為癡人。	Or are they called fools because they presently engage in delusion?
+['ZH_T27_1545_016:0078a13_9']	設爾何失。	設爾何失。	If so, what is the problem?
+['ZH_T27_1545_016:0078a14_1']	若從癡生故名癡人者。	若從癡生故名癡人者。	If one is called a foolish person because of arising from delusion,
+['ZH_T27_1545_016:0078a14_10']	亦從貪恚慢見等生。	亦從貪恚慢見等生。	one also arises from greed, anger, pride, views, and so on.
+['ZH_T27_1545_016:0078a15_1']	世尊何故唯言癡人。	世尊何故唯言癡人。	Why did the World-Honored One only say foolish person?
+['ZH_T27_1545_016:0078a15_11']	若現行癡故名為癡人。	若現行癡故名為癡人。	If one is called a foolish person because of the present activity of delusion,
+['ZH_T27_1545_016:0078a16_6']	契經不應說阿羅漢亦名癡人。	契經不應說阿羅漢亦名癡人。	the sutra should not say that an arhat is also called a foolish person.
+['ZH_T27_1545_016:0078a17_2']	如契經說遠去癡人勿我前住。	如契經說遠去癡人勿我前住。	As a sutra says, Stay far away from foolish people, do not stay in front of me.
+['ZH_T27_1545_016:0078a17_11']	又世尊責鄔陀夷言。	又世尊責鄔陀夷言。	Also, the World-Honored One reproached Udayin, saying:
+['ZH_T27_1545_016:0078a18_9']	癡人無眼云何乃與上座苾芻競甚深義。	癡人無眼云何乃與上座苾芻競甚深義。	Foolish person, without eyes, how dare you compete with the senior bhikṣus in discussing the profound meaning?
+['ZH_T27_1545_016:0078a19_1']	又餘煩惱亦有現行。	又餘煩惱亦有現行。	Also, other afflictions also have present activity.
+['ZH_T27_1545_016:0078a19_10']	何故唯說癡人非餘。	何故唯說癡人非餘。	Why only speak of a foolish person and not the others?
+['ZH_T27_1545_016:0078a19_15']	有作是說。	有作是說。	Some say:
+['ZH_T27_1545_016:0078a20_6']	從癡生故名為癡人。	從癡生故名為癡人。	Because it arises from delusion, it is called a foolish person.
+['ZH_T27_1545_016:0078a21_1']	問若爾亦從貪恚慢見等生。	問若爾亦從貪恚慢見等生。	Question: If so, it also arises from greed, anger, pride, views, and so on.
+['ZH_T27_1545_016:0078a21_10']	世尊何故唯言癡人。	世尊何故唯言癡人。	Why did the World-Honored One only say foolish person?
+['ZH_T27_1545_016:0078a21_16']	答癡遍行故。	答癡遍行故。	Answer: Because delusion pervades.
+['ZH_T27_1545_016:0078a22_10']	若佛知訶阿羅漢等以為癡人。	若佛知訶阿羅漢等以為癡人。	If the Buddha knew to scold arhats and so on as foolish people,
+['ZH_T27_1545_016:0078a23_10']	於物有益即亦訶彼阿羅漢身亦癡生故。	於物有益即亦訶彼阿羅漢身亦癡生故。	if it benefits beings, he would also scold their arhat bodies, because they also arise from delusion.
+['ZH_T27_1545_016:0078a23_15']	如契經說。	如契經說。	As a sutra says:
+['ZH_T27_1545_016:0078a24_6']	無明所覆愛結所繫。	無明所覆愛結所繫。	Covered by ignorance, bound by the fetters of craving,
+['ZH_T27_1545_016:0078a25_2']	愚夫感得有識之身智者亦爾。	愚夫感得有識之身智者亦爾。	Fools experience a body with consciousness. The wise are also like this.
+['ZH_T27_1545_016:0078a25_11']	阿羅漢等說為智者。	阿羅漢等說為智者。	Arhats and others are called the wise.
+['ZH_T27_1545_016:0078a25_16']	有餘師說。	有餘師說。	Other masters say:
+['ZH_T27_1545_016:0078a26_6']	現行癡故名為癡人。	現行癡故名為癡人。	Because they manifest delusion, they are called deluded people.
+['ZH_T27_1545_016:0078a27_5']	問若爾契經不應說阿羅漢亦名癡人。	問若爾契經不應說阿羅漢亦名癡人。	Question: If that is so, the sutras should not say that arhats are also called deluded people.
+['ZH_T27_1545_016:0078a28_3']	答且契經說遠去癡人勿我前住者。	答且契經說遠去癡人勿我前住者。	Answer: First, the sutras say to drive away the deluded person and not let him stay in front of me.
+['ZH_T27_1545_016:0078a28_13']	是誦者謬誦應如是說。	是誦者謬誦應如是說。	This is a mistake in the recitation. It should be said like this:
+['ZH_T27_1545_016:0078a29_4']	遠去苾芻勿我前住。	遠去苾芻勿我前住。	Drive away the bhikṣu and do not let him stay in front of me.
+['ZH_T27_1545_016:0078a29_13']	世尊臨欲般涅槃時。	世尊臨欲般涅槃時。	When the World-Honored One was about to enter parinirvāṇa,
+['ZH_T27_1545_016:0078b01_8']	尊者白淨在佛前住以扇扇佛。	尊者白淨在佛前住以扇扇佛。	The Venerable Bhadrika was standing in front of the Buddha, fanning him with a fan.
+['ZH_T27_1545_016:0078b02_4']	時有無量長壽諸天來詣佛所。	時有無量長壽諸天來詣佛所。	At that time, there were innumerable long-lived devas who came to the Buddha's place.
+['ZH_T27_1545_016:0078b02_17']	嫌彼尊者當佛前住遮蔽我等。	嫌彼尊者當佛前住遮蔽我等。	They resented that the Venerable was standing in front of the Buddha, blocking their view,
+['ZH_T27_1545_016:0078b03_12']	不見世尊而使我等失最後利。	不見世尊而使我等失最後利。	Not seeing the World-Honored One, causing them to miss the last opportunity.
+['ZH_T27_1545_016:0078b04_4']	佛知彼意便作是言。	佛知彼意便作是言。	The Buddha knew their thoughts and said this:
+['ZH_T27_1545_016:0078b04_13']	遠去苾芻勿我前住。	遠去苾芻勿我前住。	Drive away the bhikṣu and do not let him stay in front of me.
+['ZH_T27_1545_016:0078b05_4']	又世尊責鄔陀夷言。	又世尊責鄔陀夷言。	Moreover, the World-Honored One reproached Udayi, saying:
+['ZH_T27_1545_016:0078b06_4']	癡人無眼云何乃與上座苾芻競甚深義者。	癡人無眼云何乃與上座苾芻競甚深義者。	Foolish one, how can you, being eyeless, compete with the most senior bhikṣus in the profound meaning?
+['ZH_T27_1545_016:0078b07_4']	亦不相違以鄔陀夷爾時未得阿羅漢果。	亦不相違以鄔陀夷爾時未得阿羅漢果。	This is also not contradictory, because at that time Udayi had not yet attained the fruit of arhatship.
+['ZH_T27_1545_016:0078b07_13']	或言異生或言有學。	或言異生或言有學。	Either he is said to be an ordinary person or he is said to be a learner.
+['ZH_T27_1545_016:0078b07_18']	有餘師說。	有餘師說。	Other masters say:
+['ZH_T27_1545_016:0078b08_8']	阿羅漢等亦現行癡。	阿羅漢等亦現行癡。	Even arhats and others still manifest delusion.
+['ZH_T27_1545_016:0078b08_17']	不染無知猶未斷故。	不染無知猶未斷故。	Because non-defiled nescience has not yet been eliminated.
+['ZH_T27_1545_016:0078b09_9']	問諸餘煩惱亦有現行。	問諸餘煩惱亦有現行。	Question: The other afflictions also manifest.
+['ZH_T27_1545_016:0078b10_1']	何故唯說癡人非餘。	何故唯說癡人非餘。	Why is it said that only the foolish one manifests, not the others?
+['ZH_T27_1545_016:0078b10_11']	答前已說言癡遍行故。	答前已說言癡遍行故。	Answer: It has already been said that delusion is universal.
+['ZH_T27_1545_016:0078b11_1']	隨起何地無明現前。	隨起何地無明現前。	Whenever the manifestation of nescience in any stage arises,
+['ZH_T27_1545_016:0078b11_10']	則癡人名依彼而立。	則癡人名依彼而立。	the name foolish one is established based on that.
+['ZH_T27_1545_016:0078b12_5']	由此義故佛訶弟子稱言癡人。	由此義故佛訶弟子稱言癡人。	For this reason, the Buddha rebuked his disciples, calling them foolish ones.
+['ZH_T27_1545_016:0078b13_12', 'ZH_T27_1545_016:0078b14_5']	何故世尊訶諸弟子稱言癡人。🔽答彼於世尊教誡教授。	何故世尊訶諸弟子稱言癡人。 答彼於世尊教誡教授。	Why did the World-Honored One rebuke his disciples, calling them foolish ones?
+['ZH_T27_1545_016:0078b14_16']	不隨義行不隨順不相續。	不隨義行不隨順不相續。	Answer: They did not practice in accordance with the meaning of the World-Honored One's teachings and instructions, did not follow them, and did not continue in them.
+['ZH_T27_1545_016:0078b15_7']	此下論文即第二分。	此下論文即第二分。	The text below is the second part.
+['ZH_T27_1545_016:0078b15_16']	釋佛訶彼癡人因緣。	釋佛訶彼癡人因緣。	Explaining the causes and conditions of the Buddha's reprimanding those foolish people.
+['ZH_T27_1545_016:0078b16_7']	教誡教授總顯佛語。	教誡教授總顯佛語。	Teaching and instructing generally show the Buddha's words.
+['ZH_T27_1545_016:0078b16_16']	能正行者名隨義行。	能正行者名隨義行。	Those who practice correctly are called practitioners of the meaning.
+['ZH_T27_1545_016:0078b17_12']	彼諸弟子不能正行故名不隨義行。	彼諸弟子不能正行故名不隨義行。	Those disciples who cannot practice correctly are called non-practitioners of the meaning.
+['ZH_T27_1545_016:0078b17_15']	有說。	有說。	Some say:
+['ZH_T27_1545_016:0078b18_6']	如應行者名隨義行。	如應行者名隨義行。	Those who practice as they should are called practitioners of the meaning.
+['ZH_T27_1545_016:0078b19_3']	彼諸弟子不如應行故名不隨義行。	彼諸弟子不如應行故名不隨義行。	Those disciples who do not practice as they should are called non-practitioners of the meaning.
+['ZH_T27_1545_016:0078b20_3']	不隨順者於佛聖教不能隨順修功德故。	不隨順者於佛聖教不能隨順修功德故。	Those who do not follow the teachings are unable to cultivate merit in accordance with the Buddha's holy teachings.
+['ZH_T27_1545_016:0078b21_2']	不相續者不能長時流注相續修功德故。	不相續者不能長時流注相續修功德故。	Those who are not continuous are unable to cultivate merit in a long-lasting and continuous manner.
+['ZH_T27_1545_016:0078b21_12']	問教誡教授有何差別。	問教誡教授有何差別。	Question: What is the difference between teaching and instructing?
+['ZH_T27_1545_016:0078b22_4']	答遮無利益故名教誡。	答遮無利益故名教誡。	Answer: Preventing harm is called teaching.
+['ZH_T27_1545_016:0078b22_13']	與有利益故名教授。	與有利益故名教授。	Bringing benefit is called instructing.
+['ZH_T27_1545_016:0078b23_6']	復次教住正念故名教誡。	復次教住正念故名教誡。	Furthermore, teaching to abide in right mindfulness is called teaching.
+['ZH_T27_1545_016:0078b23_15']	教住正知故名教授。	教住正知故名教授。	Teaching to abide in right knowledge is called instructing.
+['ZH_T27_1545_016:0078b24_8']	復次令修有表故名教誡。	復次令修有表故名教誡。	Furthermore, causing the cultivation of expressed [morality] is called teaching.
+['ZH_T27_1545_016:0078b25_1']	令修無表故名教授。	令修無表故名教授。	Causing the cultivation of unexpressed [morality] is called instructing.
+['ZH_T27_1545_016:0078b25_13']	復次令修奢摩他故名教誡。	復次令修奢摩他故名教誡。	Furthermore, it is called admonition because it causes one to cultivate samādhi.
+['ZH_T27_1545_016:0078b26_6']	令修毘鉢舍那故名教授。	令修毘鉢舍那故名教授。	It is called instruction because it causes one to cultivate insight.
+['ZH_T27_1545_016:0078b26_17']	復次令修聖道故名教誡。	復次令修聖道故名教誡。	Furthermore, it is called admonition because it causes one to cultivate the noble path.
+['ZH_T27_1545_016:0078b27_8', 'ZH_T27_1545_016:0078b28_4']	令得聖果故名教授。🔽復次令修世間善法故名教誡。	令得聖果故名教授。 復次令修世間善法故名教誡。	It is called instruction because it causes one to attain the noble fruits.🔽Furthermore, it is called admonition because it causes one to cultivate worldly good dharmas.
+['ZH_T27_1545_016:0078b28_15']	令修出世善法故名教授。	令修出世善法故名教授。	It is called instruction because it causes one to cultivate supramundane good dharmas.
+['ZH_T27_1545_016:0078b29_6']	是謂教誡教授差別。	是謂教誡教授差別。	This is the distinction between admonition and instruction.
+['ZH_T27_1545_016:0078b29_17']	復次彼於聖教作愚癡事。	復次彼於聖教作愚癡事。	Furthermore, they commit foolish acts within the holy teachings.
+['ZH_T27_1545_016:0078c01_12']	空無有果無出無味無有勝利。	空無有果無出無味無有勝利。	They are empty, without fruit, without emergence, without flavor, and without benefit.
+['ZH_T27_1545_016:0078c02_8']	違越佛教於諸學處不能受學。	違越佛教於諸學處不能受學。	They violate the Buddha's teachings and are unable to learn the precepts.
+['ZH_T27_1545_016:0078c03_8']	故佛訶彼稱言癡人此中聖教意顯聖道。	故佛訶彼稱言癡人此中聖教意顯聖道。	Therefore, the Buddha rebukes them, calling them foolish people. Here, the holy teachings refer to the noble path.
+['ZH_T27_1545_016:0078c04_4']	問彼云何於聖道作愚癡事耶。	問彼云何於聖道作愚癡事耶。	Question: How do they commit foolish acts regarding the noble path?
+['ZH_T27_1545_016:0078c04_16']	答彼不能令聖道成愚癡事。	答彼不能令聖道成愚癡事。	Answer: They are not able to make the noble path become foolish acts.
+['ZH_T27_1545_016:0078c05_11']	但彼相續增長愚癡障礙聖道。	但彼相續增長愚癡障礙聖道。	But their continuity increases foolishness and obstructs the noble path.
+['ZH_T27_1545_016:0078c06_5']	有說亦令聖道成愚癡事。	有說亦令聖道成愚癡事。	Some say it also makes the noble path become foolish acts.
+['ZH_T27_1545_016:0078c06_18']	謂令成遠不得自在不現行故。	謂令成遠不得自在不現行故。	Because they are made distant, not sovereign, and do not manifest.
+['ZH_T27_1545_016:0078c07_2']	有說。	有說。	Some say:
+['ZH_T27_1545_016:0078c07_11']	為斷愚癡佛說聖教。	為斷愚癡佛說聖教。	The Buddha taught the holy teachings in order to eliminate delusion.
+['ZH_T27_1545_016:0078c08_7']	彼聞聖教不斷愚癡轉更增長。	彼聞聖教不斷愚癡轉更增長。	Having heard the holy teachings, they do not eliminate delusion but rather increase it even more.
+['ZH_T27_1545_016:0078c09_3']	是故說彼於佛聖教作愚癡事。	是故說彼於佛聖教作愚癡事。	Therefore it is said that they perform deluded acts within the Buddha's holy teachings.
+['ZH_T27_1545_016:0078c09_12']	空者顯彼無聖道胎。	空者顯彼無聖道胎。	Empty means they lack the embryo of the holy path.
+['ZH_T27_1545_016:0078c10_3']	如女身中不任懷孕。	如女身中不任懷孕。	Like a woman's body that is unable to conceive.
+['ZH_T27_1545_016:0078c10_12']	空無子故說名石女。	空無子故說名石女。	Because it is empty and has no child, it is called a barren woman.
+['ZH_T27_1545_016:0078c10_17']	彼亦如是。	彼亦如是。	They are also like this.
+['ZH_T27_1545_016:0078c11_11']	雖聞佛教不能攝受聖道胎故。	雖聞佛教不能攝受聖道胎故。	Even though they hear the Buddha's teachings, they are unable to accept the embryo of the holy path.
+['ZH_T27_1545_016:0078c12_4']	佛於彼身無士用果。	佛於彼身無士用果。	The Buddha has no dominant result in their bodies.
+['ZH_T27_1545_016:0078c12_13']	虛棄功用故名為空。	虛棄功用故名為空。	Because his efforts are wasted, it is called empty.
+['ZH_T27_1545_016:0078c13_8']	無有果者無有等流及解脫果。	無有果者無有等流及解脫果。	Without fruit means lacking the outflow result and the result of liberation.
+['ZH_T27_1545_016:0078c13_16']	無出者無士用果。	無出者無士用果。	Without emergence means lacking the dominant result.
+['ZH_T27_1545_016:0078c15_1']	復次出者謂得彼於佛法無所得故說名無出。	復次出者謂得彼於佛法無所得故說名無出。	Moreover, emergence refers to attainment. Because they have nothing to attain in the Buddha's teachings, it is called without emergence.
+['ZH_T27_1545_016:0078c15_17']	無味者彼於佛法無出家味無寂靜味。	無味者彼於佛法無出家味無寂靜味。	Without flavor means they lack the flavor of renunciation in the Buddha's teachings, the flavor of tranquility,
+['ZH_T27_1545_016:0078c16_12']	無聖道味無寂滅味故名無味。	無聖道味無寂滅味故名無味。	the flavor of the holy path, and the flavor of cessation, thus it is called without flavor.
+['ZH_T27_1545_016:0078c17_4']	無勝利者果名勝利。	無勝利者果名勝利。	The term without benefit means that the result is called benefit.
+['ZH_T27_1545_016:0078c17_13']	彼不得果故無勝利。	彼不得果故無勝利。	Because they do not attain the result, there is no benefit.
+['ZH_T27_1545_016:0078c18_6']	復次有二失故名無勝利。	復次有二失故名無勝利。	Moreover, because there are two faults, it is called without benefit.
+['ZH_T27_1545_016:0078c19_2']	譬如良醫愍諸有疾四方求藥。	譬如良醫愍諸有疾四方求藥。	It is like a good doctor who has compassion for the sick and seeks medicine from all directions.
+['ZH_T27_1545_016:0078c19_15']	得已與之病者輕賤投之糞壤。	得已與之病者輕賤投之糞壤。	Having obtained it, he gives it to the sick, but they despise it and throw it into the latrine.
+['ZH_T27_1545_016:0078c20_2']	彼有二失。	彼有二失。	He has two faults.
+['ZH_T27_1545_016:0078c20_11']	一者自疾不得除愈。	一者自疾不得除愈。	First, his own illness cannot be cured.
+['ZH_T27_1545_016:0078c21_2']	二者良醫功為虛棄。	二者良醫功為虛棄。	Second, the good doctor's efforts are wasted.
+['ZH_T27_1545_016:0078c21_7']	世尊亦爾。	世尊亦爾。	The World-Honored One is also like this.
+['ZH_T27_1545_016:0078c22_1']	三無數劫修習百千難行苦行。	三無數劫修習百千難行苦行。	For three incalculably long eons, he cultivated hundreds of thousands of difficult and painful practices.
+['ZH_T27_1545_016:0078c22_10']	為諸有情求聖法藥。	為諸有情求聖法藥。	For the sake of sentient beings, he sought the medicine of the holy Dharma.
+['ZH_T27_1545_016:0078c23_9']	得已為說彼聞輕賤不自服行用求名利。	得已為說彼聞輕賤不自服行用求名利。	Having obtained it, he expounded it for them. But when they heard it, they despised it and did not themselves take and practice it, but sought fame and profit.
+['ZH_T27_1545_016:0078c23_14']	彼有二失。	彼有二失。	They have two faults.
+['ZH_T27_1545_016:0078c24_5']	一者不除自煩惱病。	一者不除自煩惱病。	First, they cannot eliminate their own afflictions and illnesses.
+['ZH_T27_1545_016:0078c24_14']	二者令佛唐捐其功。	二者令佛唐捐其功。	Second, they make the Buddha's efforts in vain.
+['ZH_T27_1545_016:0078c25_10', 'ZH_T27_1545_016:0078c26_3']	違越佛教者違越世尊聖教理趣。🔽於諸學處不能受學者。	違越佛教者違越世尊聖教理趣。 於諸學處不能受學者。	Those who violate the Buddha's teachings violate the principles and practices of the World-Honored One's holy teachings.🔽Those who are unable to learn and practice the precepts
+['ZH_T27_1545_016:0078c26_12']	不能修行法隨法行。	不能修行法隨法行。	Are unable to cultivate and practice according to the Dharma.
+['ZH_T27_1545_016:0078c27_6']	復次彼於聖教作愚癡事者。	復次彼於聖教作愚癡事者。	Furthermore, those who do foolish things within the teachings
+['ZH_T27_1545_016:0078c27_16']	彼斷聖教不令相續故。	彼斷聖教不令相續故。	Cut off the teachings and do not allow them to continue.
+['ZH_T27_1545_016:0078c28_8', 'ZH_T27_1545_016:0078c29_1']	謂佛為彼說無上法。🔽若聞正行轉為他說他。	謂佛為彼說無上法。 若聞正行轉為他說他。	That is, the Buddha speaks the unsurpassed Dharma for them.🔽If they hear it and practice correctly, they will in turn speak it for others.
+['ZH_T27_1545_016:0078c29_9']	復正行更為餘說。	復正行更為餘說。	Others will then practice correctly and speak it for still others.
+['ZH_T27_1545_016:0078c29_18']	如是展轉饒益無窮。	如是展轉饒益無窮。	In this way, the benefit will continue endlessly.
+['ZH_T27_1545_016:0079a01_8']	乃名如來聖教不絕。	乃名如來聖教不絕。	This is called the uninterrupted continuation of the Tathāgata's teachings.
+['ZH_T27_1545_016:0079a01_17']	彼聞聖教不能正行。	彼聞聖教不能正行。	Those who hear the teachings but are unable to practice them correctly
+['ZH_T27_1545_016:0079a02_16']	亦復不能轉為他說自既無益復不利他。	亦復不能轉為他說自既無益復不利他。	Are also unable to speak them for others. Since they themselves are not benefited, they also do not benefit others.
+['ZH_T27_1545_016:0079a03_8']	名斷聖教不令相續。	名斷聖教不令相續。	This is called cutting off the teachings and not allowing them to continue.
+['ZH_T27_1545_016:0079a04_1']	由此說名作愚癡事。	由此說名作愚癡事。	For this reason, it is said that they do foolish things.
+['ZH_T27_1545_016:0079a04_10']	空者自身非法器故。	空者自身非法器故。	The empty ones are those whose own bodies are not vessels for the Dharma.
+['ZH_T27_1545_016:0079a05_5']	無有果者令佛期心無有果故。	無有果者令佛期心無有果故。	Those without fruit are those who cause the Buddha's aspirations to be fruitless.
+['ZH_T27_1545_016:0079a06_1']	謂佛欲令眾生聞法脫生死苦。	謂佛欲令眾生聞法脫生死苦。	That is, the Buddha wishes to enable sentient beings to hear the Dharma and be liberated from the suffering of birth and death.
+['ZH_T27_1545_016:0079a06_14']	彼聞法已不能修行離苦方便。	彼聞法已不能修行離苦方便。	Having heard the Dharma, they are unable to cultivate the means to be liberated from suffering.
+['ZH_T27_1545_016:0079a07_5']	是故令佛期心無果。	是故令佛期心無果。	Therefore, they cause the Buddha's aspirations to be fruitless.
+['ZH_T27_1545_016:0079a08_8']	無出者彼不能得本出家時所求勝事謂淨持戒。	無出者彼不能得本出家時所求勝事謂淨持戒。	Those who have no renunciation cannot attain the superior goal they sought when they first went forth, namely the purity of precepts.
+['ZH_T27_1545_016:0079a08_16']	無味者無靜慮味。	無味者無靜慮味。	Those who have no taste have no taste for meditative concentration.
+['ZH_T27_1545_016:0079a09_6']	無勝利者無無倒慧。	無勝利者無無倒慧。	Those who have no benefits have no undistorted wisdom.
+['ZH_T27_1545_016:0079a09_17']	違越佛教者謂不得涅槃。	違越佛教者謂不得涅槃。	Those who violate the Buddha's teachings cannot attain nirvana.
+['ZH_T27_1545_016:0079a10_12']	佛為眾生得涅槃樂說正法教。	佛為眾生得涅槃樂說正法教。	The Buddha taught the true Dharma in order to enable sentient beings to attain the bliss of nirvana.
+['ZH_T27_1545_016:0079a11_4']	彼不能證故名違越。	彼不能證故名違越。	Because they cannot realize it, it is called violating.
+['ZH_T27_1545_016:0079a11_14']	於諸學處不能受學者。	於諸學處不能受學者。	Those who cannot accept and study the precepts
+['ZH_T27_1545_016:0079a12_10']	佛所施設種種學處不能受學。	佛所施設種種學處不能受學。	cannot accept and study the various precepts established by the Buddha.
+['ZH_T27_1545_016:0079a13_2']	有雖受學不能恒修。	有雖受學不能恒修。	Some, although they accept and study, cannot always practice.
+['ZH_T27_1545_016:0079a13_15']	如婆柁梨過雨四月方能受學。	如婆柁梨過雨四月方能受學。	Like Vatsagotra, who could only accept and study after four months of the rainy season.
+['ZH_T27_1545_016:0079a14_9']	一坐食法有雖恒修而不圓滿。	一坐食法有雖恒修而不圓滿。	Some, although they always practice, are not perfect.
+['ZH_T27_1545_016:0079a15_1']	俱名不能受學學處。	俱名不能受學學處。	Both are called those who cannot accept and study the precepts.
+['ZH_T27_1545_016:0079a15_14']	由此因緣佛訶弟子稱言癡人。	由此因緣佛訶弟子稱言癡人。	For this reason, the Buddha scolded his disciples, calling them foolish people.
+['ZH_T27_1545_016:0079a16_12']	有六因謂相應因乃至能作因。	有六因謂相應因乃至能作因。	There are six causes, namely the associated cause up to the enabling cause.
+['ZH_T27_1545_016:0079a17_1']	問何故作此論。	問何故作此論。	Question: Why did he compose this treatise?
+['ZH_T27_1545_016:0079a17_11']	答為止無因惡因論故。	答為止無因惡因論故。	Answer: In order to stop the theories of no cause and bad cause.🔽Here is the corrected and aligned text:
+['ZH_T27_1545_016:0079a18_6']	謂諸外道或執諸法無因而生。	謂諸外道或執諸法無因而生。	Some non-Buddhists hold that dharmas arise without a cause,
+['ZH_T27_1545_016:0079a18_15']	或復執有不平等因。	或復執有不平等因。	or that there is an unequal cause.
+['ZH_T27_1545_016:0079a19_14']	為止彼意顯諸法生決定有因非不平等。	為止彼意顯諸法生決定有因非不平等。	To stop their ideas and show that the arising of dharmas definitely has a cause and is not unequal,
+['ZH_T27_1545_016:0079a20_14']	有作是說有執因緣非實有物如譬喻者。	有作是說有執因緣非實有物如譬喻者。	Some say that there are those who hold that conditions are not real entities, like the Vātsīputrīyas.
+['ZH_T27_1545_016:0079a21_7']	為止彼意顯示因緣。	為止彼意顯示因緣。	To stop their ideas and show that conditions,
+['ZH_T27_1545_016:0079a21_16']	若性若相皆是實有。	若性若相皆是實有。	whether in nature or in characteristics, are all real.
+['ZH_T27_1545_016:0079a22_11']	復有說者欲以六因顯示四果。	復有說者欲以六因顯示四果。	There are also those who say that the six causes are used to show the four fruits,
+['ZH_T27_1545_016:0079a23_8']	令其明了如觀掌內阿摩洛迦。	令其明了如觀掌內阿摩洛迦。	making them clear like seeing an āmalaka fruit in the palm of the hand.
+['ZH_T27_1545_016:0079a24_4']	謂以相應俱有二因顯士用果。	謂以相應俱有二因顯士用果。	That is, the two causes of association and co-existence are used to show the fruit of human effort.
+['ZH_T27_1545_016:0079a24_16', 'ZH_T27_1545_016:0079a25_7']	以同類遍行二因顯等流果。🔽以異熟因顯異熟果。	以同類遍行二因顯等流果。 以異熟因顯異熟果。	The two causes of the same class and universal are used to show the fruit of outflow.🔽The cause of retribution is used to show the fruit of retribution.
+['ZH_T27_1545_016:0079a25_16']	以能作因顯增上果。	以能作因顯增上果。	The cause of being able to make is used to show the dominant fruit.
+['ZH_T27_1545_016:0079a26_7']	由此因緣故作斯論。	由此因緣故作斯論。	For this reason, this treatise is composed.
+['ZH_T27_1545_016:0079a26_16']	然此六因非契經說。	然此六因非契經說。	However, these six causes are not taught in the scriptures.
+['ZH_T27_1545_016:0079a27_5']	契經但說有四緣。	契經但說有四緣。	The scriptures only speak of the four conditions.
+['ZH_T27_1545_016:0079a28_1']	性謂因緣性廣說乃至增上緣性。	性謂因緣性廣說乃至增上緣性。	Nature refers to the nature of the causal condition, and so on up to the nature of the dominant condition.
+['ZH_T27_1545_016:0079a28_14']	今欲以因分別緣故說此六因。	今欲以因分別緣故說此六因。	Now, in order to distinguish causes and conditions, these six causes are explained.
+['ZH_T27_1545_016:0079a29_6']	問為因攝緣緣攝因耶。	問為因攝緣緣攝因耶。	Question: Are causes included in conditions, or are conditions included in causes?
+['ZH_T27_1545_016:0079a29_14']	答互相攝隨其事。	答互相攝隨其事。	Answer: They mutually include each other according to the matter.
+['ZH_T27_1545_016:0079b01_11']	謂前五因是因緣能作因是餘三緣。	謂前五因是因緣能作因是餘三緣。	That is to say, the first five causes are causal conditions, and the efficient cause is the remaining three conditions.
+['ZH_T27_1545_016:0079b02_5']	有作是說緣攝因非因攝緣。	有作是說緣攝因非因攝緣。	There is an explanation that conditions include causes but causes do not include conditions.
+['ZH_T27_1545_016:0079b02_16']	謂前五因是因緣能作因。	謂前五因是因緣能作因。	That is to say, the first five causes are causal conditions and efficient causes.
+['ZH_T27_1545_016:0079b03_3', 'ZH_T27_1545_016:0079b03_8']	是增上緣。🔽等無間緣。	是增上緣。 等無間緣。	They are dominant conditions.🔽Immediate conditions.
+['ZH_T27_1545_016:0079b03_17']	及所緣緣非因所攝。	及所緣緣非因所攝。	And objective conditions, not included in causes.
+['ZH_T27_1545_016:0079b04_11']	復有說者六因亦是契經所說。	復有說者六因亦是契經所說。	There is also an explanation that the six causes are also explained in the sutras.
+['ZH_T27_1545_016:0079b05_4']	謂增壹阿笈摩增六中說。	謂增壹阿笈摩增六中說。	That is to say, in the Ekottara Āgama, in the section on six, it is said.
+['ZH_T27_1545_016:0079b05_13']	時經久遠其文隱沒。	時經久遠其文隱沒。	After a long time, the text was lost.
+['ZH_T27_1545_016:0079b06_3']	尊者迦多衍尼子等。	尊者迦多衍尼子等。	The Venerable Kātyāyanīputra and others.
+['ZH_T27_1545_016:0079b06_16']	以願智力觀契經中說六因處。	以願智力觀契經中說六因處。	Using the power of vow wisdom, they observed the six causes in the sutras.
+['ZH_T27_1545_016:0079b07_8']	撰集製造阿毘達磨。	撰集製造阿毘達磨。	They compiled and created the Abhidharma.
+['ZH_T27_1545_016:0079b07_17']	是故於此分別六因。	是故於此分別六因。	Therefore, the six causes are distinguished here.
+['ZH_T27_1545_016:0079b08_8']	曾聞增壹阿笈摩經。	曾聞增壹阿笈摩經。	It is heard that the Ekottara Āgama Sutra.
+['ZH_T27_1545_016:0079b08_17']	從一法增乃至百法。	從一法增乃至百法。	From one dharma increasing up to a hundred dharmas.
+['ZH_T27_1545_016:0079b09_12']	今唯有一乃至十在餘皆隱沒。	今唯有一乃至十在餘皆隱沒。	Now only one to ten remain, the rest have disappeared.
+['ZH_T27_1545_016:0079b10_4']	又於增一乃至十中。	又於增一乃至十中。	Moreover, in the sūtras from one to ten,
+['ZH_T27_1545_016:0079b10_13']	亦多隱沒在者極少。	亦多隱沒在者極少。	many have also disappeared, and those that remain are extremely few.
+['ZH_T27_1545_016:0079b11_8']	曾聞尊者商諾迦衣大阿羅漢。	曾聞尊者商諾迦衣大阿羅漢。	It is heard that the Venerable Saṃgharakṣa, a great arhat,
+['ZH_T27_1545_016:0079b12_1']	是尊者阿難陀同住弟子。	是尊者阿難陀同住弟子。	was a disciple who lived with the Venerable Ānanda.
+['ZH_T27_1545_016:0079b12_12']	是大德時縛迦親教授師。	是大德時縛迦親教授師。	He was the personal teacher of the great virtuous Jīvaka.
+['ZH_T27_1545_016:0079b13_2']	彼阿羅漢般涅槃時。	彼阿羅漢般涅槃時。	When that arhat entered parinirvāṇa,
+['ZH_T27_1545_016:0079b14_8']	即於是日有七萬七千本生經一萬阿毘達磨論隱沒不現。	即於是日有七萬七千本生經一萬阿毘達磨論隱沒不現。	on that very day, seventy thousand jātaka sūtras and ten abhidharma treatises disappeared and were no longer seen.
+['ZH_T27_1545_016:0079b15_3']	一論師滅尚有爾所經論隱沒。	一論師滅尚有爾所經論隱沒。	Even with the extinction of one treatise master, so many sūtras and treatises disappeared.
+['ZH_T27_1545_016:0079b15_12']	況從彼後迄至于今。	況從彼後迄至于今。	How much more so from then until now?
+['ZH_T27_1545_016:0079b16_2']	若百若千諸論師。	若百若千諸論師。	Whether a hundred or a thousand treatise masters
+['ZH_T27_1545_016:0079b16_12']	滅經論隨沒數豈可知。	滅經論隨沒數豈可知。	have passed away, the number of sūtras and treatises that have disappeared is certainly unknowable.
+['ZH_T27_1545_016:0079b17_2']	故此六因是契經說。	故此六因是契經說。	Therefore, these six causes are stated in the sūtras.
+['ZH_T27_1545_016:0079b17_11']	有餘師說如是六因。	有餘師說如是六因。	Other masters say that these six causes
+['ZH_T27_1545_016:0079b17_16', 'ZH_T27_1545_016:0079b18_3']	雖無一經。🔽次第具說。	雖無一經。 次第具說。	are not found in any single sūtra,
+['ZH_T27_1545_016:0079b18_12']	然於諸經處處散說。	然於諸經處處散說。	but are taught here and there in various sūtras.
+['ZH_T27_1545_016:0079b19_9']	謂契經說是名見為根信證智相應。	謂契經說是名見為根信證智相應。	The sutra says that this is called the root of views, which is associated with faith, understanding, and knowledge.
+['ZH_T27_1545_016:0079b20_1']	如是等經說相應因。	如是等經說相應因。	Such sutras explain the associated cause.
+['ZH_T27_1545_016:0079b20_6']	又契經說。	又契經說。	Moreover, a sutra says:
+['ZH_T27_1545_016:0079b21_1']	眼及色為緣生眼識三和合故。	眼及色為緣生眼識三和合故。	The eye and form as conditions give rise to eye consciousness. Because of the combination of the three,
+['ZH_T27_1545_016:0079b21_16']	觸俱起受想思如是等經說俱有因。	觸俱起受想思如是等經說俱有因。	there is contact, and together with contact there arises feeling, conceptualization, and volition. Such sutras explain the co-existent cause.
+['ZH_T27_1545_016:0079b22_3']	又契經說。	又契經說。	Moreover, a sutra says:
+['ZH_T27_1545_016:0079b22_18']	如是補特伽羅成就善法及不善法。	如是補特伽羅成就善法及不善法。	Such a person accomplishes good dharmas and bad dharmas.
+['ZH_T27_1545_016:0079b23_8']	善法隱沒惡法出現。	善法隱沒惡法出現。	Good dharmas are hidden, and bad dharmas appear.
+['ZH_T27_1545_016:0079b24_3']	有隨俱行善根未斷以未斷故。	有隨俱行善根未斷以未斷故。	There are wholesome roots that accompany them and have not been cut off. Because they have not been cut off,
+['ZH_T27_1545_016:0079b24_16']	從此善根猶有可起餘善根義。	從此善根猶有可起餘善根義。	from these wholesome roots there is still the meaning of being able to give rise to other wholesome roots.
+['ZH_T27_1545_016:0079b25_8']	彼於當來有清淨法。	彼於當來有清淨法。	In the future, there are pure dharmas.
+['ZH_T27_1545_016:0079b25_17']	如是等經說同類因。	如是等經說同類因。	Such sutras explain the homogeneous cause.
+['ZH_T27_1545_016:0079b26_4']	又契經說。	又契經說。	Moreover, a sutra says:
+['ZH_T27_1545_016:0079b26_9']	諸邪見者。	諸邪見者。	For those with wrong views,
+['ZH_T27_1545_016:0079b26_18']	所有身業語業意業。	所有身業語業意業。	all bodily actions, verbal actions, and mental actions,
+['ZH_T27_1545_016:0079b27_8']	諸有願求皆如所見。	諸有願求皆如所見。	all vows and aspirations are in accordance with what they see.
+['ZH_T27_1545_016:0079b28_15']	所有諸行皆是彼類如是諸法皆悉能招非欣愛樂不可意果。	所有諸行皆是彼類如是諸法皆悉能招非欣愛樂不可意果。	All these activities are of that kind. Such dharmas all lead to undesirable and unlikable results.
+['ZH_T27_1545_016:0079b29_6']	如是等經說遍行因。	如是等經說遍行因。	These and other sūtras explain the omnipresent cause.
+['ZH_T27_1545_016:0079c01_8']	又契經說無處無容身語意惡行受可愛異熟。	又契經說無處無容身語意惡行受可愛異熟。	Again, a sūtra says: There is no place and no possibility where bodily, verbal, and mental misconduct can receive a pleasant retribution.
+['ZH_T27_1545_016:0079c02_3']	有處有容彼受不可愛異熟。	有處有容彼受不可愛異熟。	There is a place and a possibility where they can receive an unpleasant retribution.
+['ZH_T27_1545_016:0079c02_12']	如是等經說異熟因。	如是等經說異熟因。	Sūtras like this explain the retributive cause.
+['ZH_T27_1545_016:0079c02_17']	又契經說。	又契經說。	Again, a sūtra says:
+['ZH_T27_1545_016:0079c03_7']	二因二緣能生正見。	二因二緣能生正見。	Two causes and two conditions can give rise to right view,
+['ZH_T27_1545_016:0079c03_18']	謂他音聲及內如理作意。	謂他音聲及內如理作意。	namely the sounds of others and the proper attention within oneself.
+['ZH_T27_1545_016:0079c04_8']	如是等經說能作因。	如是等經說能作因。	Sūtras like this explain the efficient cause.
+['ZH_T27_1545_016:0079c04_17']	故此六因是佛所說。	故此六因是佛所說。	Therefore these six causes are taught by the Buddha.
+['ZH_T27_1545_016:0079c05_7']	是故尊者依經作論。	是故尊者依經作論。	Therefore the Venerable One composes the treatise based on the sūtras.
+['ZH_T27_1545_016:0079c06_9']	云何相應因乃至廣說。	云何相應因乃至廣說。	What is the corresponding cause, and so on in detail?
+['ZH_T27_1545_016:0079c06_16']	問何故作此論。	問何故作此論。	Why is this treatise composed?
+['ZH_T27_1545_016:0079c07_7']	答為止他宗顯正理故。	答為止他宗顯正理故。	The answer is: in order to refute other schools and reveal the correct principle.
+['ZH_T27_1545_016:0079c07_16']	謂或有執心心所法。	謂或有執心心所法。	That is to say, some hold that the mind and mental factors
+['ZH_T27_1545_016:0079c08_7']	前後而生非一時起。	前後而生非一時起。	arise sequentially and not simultaneously.
+['ZH_T27_1545_016:0079c08_12']	如譬喻者。	如譬喻者。	Like the Vātsīputrīyas.
+['ZH_T27_1545_016:0079c08_17']	彼作是說。	彼作是說。	They say:
+['ZH_T27_1545_016:0079c09_11']	心心所法依諸因緣前後而生。	心心所法依諸因緣前後而生。	The mind and mental factors arise sequentially based on various causes and conditions.
+['ZH_T27_1545_016:0079c10_3']	譬如商侶涉嶮隘路。	譬如商侶涉嶮隘路。	It is like a caravan traveling on a narrow and dangerous road.
+['ZH_T27_1545_016:0079c10_12']	一一而度無二並行。	一一而度無二並行。	Each is crossed over, with no two occurring simultaneously.
+['ZH_T27_1545_016:0079c11_2']	心心所法亦復如是。	心心所法亦復如是。	The mental factors are also like this.
+['ZH_T27_1545_016:0079c11_11']	眾緣和合一一而生。	眾緣和合一一而生。	They arise one by one through the combination of various conditions.
+['ZH_T27_1545_016:0079c12_2']	所待眾緣各有異故。	所待眾緣各有異故。	Because the various conditions that are relied upon are different from each other.
+['ZH_T27_1545_016:0079c12_11']	阿毘達磨諸論師言。	阿毘達磨諸論師言。	The Abhidharma masters say:
+['ZH_T27_1545_016:0079c13_1']	心心所法有別因故。	心心所法有別因故。	Because the mind and mental factors have separate causes,
+['ZH_T27_1545_016:0079c13_14']	可說眾緣和合有異有別因故。	可說眾緣和合有異有別因故。	It can be said that the combination of various conditions is different. Because they have separate causes,
+['ZH_T27_1545_016:0079c14_6']	可說眾緣和合無異。	可說眾緣和合無異。	It can be said that the combination of various conditions is the same.
+['ZH_T27_1545_016:0079c14_14']	謂心心所各各別。	謂心心所各各別。	That is to say, the mind and mental factors each arise separately,
+['ZH_T27_1545_016:0079c15_5']	有生住異滅和合而生。	有生住異滅和合而生。	But they arise together with birth, abiding, change, and cessation.
+['ZH_T27_1545_016:0079c15_14']	是故可說和合有異。	是故可說和合有異。	Therefore it can be said that the combination is different.
+['ZH_T27_1545_016:0079c16_9']	同依一根同緣一境而得生故。	同依一根同緣一境而得生故。	Because they depend on the same faculty and cognize the same object,
+['ZH_T27_1545_016:0079c17_1']	可說一切和合無異。	可說一切和合無異。	It can be said that everything arises together without difference.
+['ZH_T27_1545_016:0079c17_10']	是故一切心心所法。	是故一切心心所法。	Therefore all the mind and mental factors,
+['ZH_T27_1545_016:0079c18_1']	隨其所應俱時而起。	隨其所應俱時而起。	Arise simultaneously according to their respective conditions.
+['ZH_T27_1545_016:0079c19_1']	或復有執諸法各與自性相應非與他性。	或復有執諸法各與自性相應非與他性。	Or there are those who grasp that dharmas each correspond to their own nature, not to other natures.
+['ZH_T27_1545_016:0079c19_14']	彼作是說相喜樂義是相應義。	彼作是說相喜樂義是相應義。	They say that the meaning of corresponding is the meaning of delighting in characteristics.
+['ZH_T27_1545_016:0079c20_5']	無法與法共相喜樂。	無法與法共相喜樂。	There is no dharma that delights in characteristics together with another dharma.
+['ZH_T27_1545_016:0079c20_14']	猶如自性與自性者。	猶如自性與自性者。	As for just like self-nature with self-nature,
+['ZH_T27_1545_016:0079c21_6']	阿毘達磨諸論師言。	阿毘達磨諸論師言。	the Abhidharma masters say:
+['ZH_T27_1545_016:0079c21_15']	二事和合可說相應。	二事和合可說相應。	The combination of two things can be said to be associated.
+['ZH_T27_1545_016:0079c22_6']	非於一物有相應義。	非於一物有相應義。	There is no meaning of association in a single thing.
+['ZH_T27_1545_016:0079c22_15']	亦無自體喜樂自體。	亦無自體喜樂自體。	There is also no self-nature that delights in self-nature.
+['ZH_T27_1545_016:0079c23_6']	能緣所緣有差別故。	能緣所緣有差別故。	Because the object of cognition and the cognizing mind have differences.
+['ZH_T27_1545_016:0079c25_2']	或復有執自性於自性非相應非不相應彼作是說要與他合方名相應。	或復有執自性於自性非相應非不相應彼作是說要與他合方名相應。	Or, there are those who hold the view that self-nature is neither associated nor not associated with self-nature. They say that only when combined with others can it be called associated.
+['ZH_T27_1545_016:0079c25_15']	自於自性無他義故不名相應。	自於自性無他義故不名相應。	Because self-nature has no meaning of other in relation to self-nature, it is not called associated.
+['ZH_T27_1545_016:0079c26_6']	互相憙樂是相應義。	互相憙樂是相應義。	The meaning of association is mutual delight.
+['ZH_T27_1545_016:0079c27_2']	自於自性深喜樂故非不相應。	自於自性深喜樂故非不相應。	Because self-nature deeply delights in self-nature, it is not not associated.
+['ZH_T27_1545_016:0079c27_11']	阿毘達磨諸論師言。	阿毘達磨諸論師言。	The Abhidharma masters say:
+['ZH_T27_1545_016:0079c28_6']	無有自性憙樂自性義如前說。	無有自性憙樂自性義如前說。	There is no meaning of self-nature delighting in self-nature, as explained before.
+['ZH_T27_1545_016:0079c29_4']	或復有執。	或復有執。	Or, there are those who hold the view that
+['ZH_T27_1545_016:0079c29_13']	力任持義是相應義。	力任持義是相應義。	the meaning of association is the meaning of power and support.
+['ZH_T27_1545_016:0080a01_8']	彼作是說若法由彼法力任持生。	彼作是說若法由彼法力任持生。	They say that if a dharma arises by the power of support of another dharma,
+['ZH_T27_1545_016:0080a01_16']	此法與彼法相應。	此法與彼法相應。	this dharma is associated with that dharma.
+['ZH_T27_1545_016:0080a02_14']	是故心與心相應心力持心令得生故。	是故心與心相應心力持心令得生故。	Therefore, the mind and mental factors are mutually associated because the power of the mind holds the mind and enables it to arise.
+['ZH_T27_1545_016:0080a03_4']	心所法與心相應。	心所法與心相應。	The mental factors are associated with the mind.
+['ZH_T27_1545_016:0080a03_13']	心力持彼令得生故。	心力持彼令得生故。	The power of the mind holds them and enables them to arise.
+['ZH_T27_1545_016:0080a04_4']	心不與心所法相應。	心不與心所法相應。	The mind is not associated with the mental factors.
+['ZH_T27_1545_016:0080a04_13']	非彼力持而得生故。	非彼力持而得生故。	Because they do not hold it and enable it to arise.
+['ZH_T27_1545_016:0080a05_6']	心所法不與心所法相應。	心所法不與心所法相應。	The mental factors are not associated with the mental factors.
+['ZH_T27_1545_016:0080a05_15']	非互相持而得生故。	非互相持而得生故。	Because they do not mutually hold each other and enable them to arise.
+['ZH_T27_1545_016:0080a06_6']	阿毘達磨諸論師言。	阿毘達磨諸論師言。	The Abhidharma masters say:
+['ZH_T27_1545_016:0080a06_15', 'ZH_T27_1545_016:0080a07_9']	心與心所心所與心。🔽心所皆展轉力持而得生故。	心與心所心所與心。 心所皆展轉力持而得生故。	The mind and mental factors, and the mental factors and mind,🔽All mutually hold each other by their power and enable them to arise.
+['ZH_T27_1545_016:0080a08_4']	更互相應一身二心不並起故。	更互相應一身二心不並起故。	Because two minds do not arise simultaneously in one body.
+['ZH_T27_1545_016:0080a08_9']	無相應義。	無相應義。	There is no meaning of association.
+['ZH_T27_1545_016:0080a08_18']	為遮此等種種異執。	為遮此等種種異執。	In order to refute these various heterodox views,
+['ZH_T27_1545_016:0080a09_8']	顯示正理故作斯論。	顯示正理故作斯論。	And to reveal the correct principle, this treatise is composed.
+['ZH_T27_1545_016:0080a09_14']	云何相應因。	云何相應因。	What is the association cause?
+['ZH_T27_1545_016:0080a10_8']	答受與受相應法為相應因。	答受與受相應法為相應因。	Answer: Feeling is the association cause for dharmas associated with feeling.
+['ZH_T27_1545_016:0080a11_14']	受相應法與受為相應因想思觸作意欲勝解念三摩地。	受相應法與受為相應因想思觸作意欲勝解念三摩地。	Dharmas associated with feeling are the association cause for feeling. Perception, intention, contact, attention, desire, resolve, mindfulness, concentration,
+['ZH_T27_1545_016:0080a12_7']	慧與慧相應法為相應因。	慧與慧相應法為相應因。	Wisdom and dharmas associated with wisdom are associated causes for each other.
+['ZH_T27_1545_016:0080a13_1']	慧相應法與慧為相應因。	慧相應法與慧為相應因。	Dharmas associated with wisdom are associated causes for wisdom.
+['ZH_T27_1545_016:0080a13_7']	是謂相應因。	是謂相應因。	This is called the associated cause.
+['ZH_T27_1545_016:0080a13_17']	問此中何故不說心耶。	問此中何故不說心耶。	Why is the mind not discussed here?
+['ZH_T27_1545_016:0080a14_12']	答是作論者意欲爾故乃至廣說。	答是作論者意欲爾故乃至廣說。	The answer is: This is because the author of the treatise intended it to be so, and so on at length.
+['ZH_T27_1545_016:0080a14_17']	或有說者。	或有說者。	Some say:
+['ZH_T27_1545_016:0080a15_8']	亦應說心而不說者。	亦應說心而不說者。	The mind should also be discussed, but it is not.
+['ZH_T27_1545_016:0080a15_17']	應知此中是有餘說。	應知此中是有餘說。	One should know that this is incomplete teaching in this context.
+['ZH_T27_1545_016:0080a16_8']	說六因義皆不盡故。	說六因義皆不盡故。	Because the meaning of the six causes is not fully explained.
+['ZH_T27_1545_016:0080a16_17']	若作盡理無餘說者。	若作盡理無餘說者。	If a complete and thorough explanation were given,
+['ZH_T27_1545_016:0080a17_4']	應作是說。	應作是說。	it should be said:
+['ZH_T27_1545_016:0080a17_10']	云何相應因。	云何相應因。	What is the associated cause?
+['ZH_T27_1545_016:0080a17_18']	謂一切心心所法。	謂一切心心所法。	It refers to all mind and mental factors.
+['ZH_T27_1545_016:0080a18_5']	云何俱有因。	云何俱有因。	What is the co-existent cause?
+['ZH_T27_1545_016:0080a18_12']	謂一切有為法。	謂一切有為法。	It refers to all conditioned dharmas.
+['ZH_T27_1545_016:0080a18_18']	云何同類因。	云何同類因。	What is the homogeneous cause?
+['ZH_T27_1545_016:0080a19_8']	謂一切過去現在法。	謂一切過去現在法。	It refers to all past and present dharmas.
+['ZH_T27_1545_016:0080a19_14']	云何遍行因。	云何遍行因。	What is the pervasive cause?
+['ZH_T27_1545_016:0080a20_7']	謂一切過去現在遍行隨眠。	謂一切過去現在遍行隨眠。	It refers to all past and present pervasive latent afflictions,
+['ZH_T27_1545_016:0080a20_15']	及彼相應俱有法。	及彼相應俱有法。	as well as the dharmas that are associated with and co-existent with them.
+['ZH_T27_1545_016:0080a21_2']	云何異熟因。	云何異熟因。	What is the karmic maturation cause?
+['ZH_T27_1545_016:0080a21_13']	謂一切不善及善有漏法。	謂一切不善及善有漏法。	Namely, all unwholesome and wholesome contaminated dharmas.
+['ZH_T27_1545_016:0080a21_19']	云何能作因。	云何能作因。	What is the enabling cause?
+['ZH_T27_1545_016:0080a22_4']	謂一切法。	謂一切法。	It refers to all dharmas.
+['ZH_T27_1545_016:0080a22_17']	有作是說設作是說亦不盡理。	有作是說設作是說亦不盡理。	There is an opinion that even if one explains it in this way, it is not exhaustive.
+['ZH_T27_1545_016:0080a23_10']	不知何位誰與誰為因故。	不知何位誰與誰為因故。	Because it is not known in what state and who is the cause of whom.
+['ZH_T27_1545_016:0080a24_6']	若說此中是有餘說於理為勝。	若說此中是有餘說於理為勝。	If it is said that there is a remainder here, the explanation is superior.
+['ZH_T27_1545_016:0080a25_2']	諸作論者略標少法為根本故。	諸作論者略標少法為根本故。	Because the authors of treatises briefly indicate a few dharmas as the basis.
+['ZH_T27_1545_016:0080a25_7']	有餘師說。	有餘師說。	Other masters say:
+['ZH_T27_1545_016:0080a25_16']	心已說在此所說中。	心已說在此所說中。	The mind has already been explained among what has been explained here.
+['ZH_T27_1545_016:0080a26_10']	謂受相應慧相應法亦攝心故。	謂受相應慧相應法亦攝心故。	Because the dharmas associated with feeling and associated with wisdom also include the mind.
+['ZH_T27_1545_016:0080a27_2']	問何故不說心之自相。	問何故不說心之自相。	Why is the intrinsic characteristic of the mind not explained?
+['ZH_T27_1545_016:0080a27_12']	答平等相似是相應義。	答平等相似是相應義。	The meaning of association is equality and similarity.
+['ZH_T27_1545_016:0080a28_2']	心勝如王是故不說。	心勝如王是故不說。	The mind is superior like a king, therefore it is not explained.
+['ZH_T27_1545_016:0080a28_7']	如伽他言。	如伽他言。	As a verse says:🔽The sixth, the superior king,
+['ZH_T27_1545_016:0080a29_0']	第六增上王　　染時染自取	第六增上王　　染時染自取	when defiled, defiles itself.🔽Undefiled yet defiled,
+['ZH_T27_1545_016:0080b01_0']	不染而有染　　染者謂愚夫	不染而有染　　染者謂愚夫	the defiler is the foolish person.
+['ZH_T27_1545_016:0080b02_4']	復有說者。	復有說者。	There is another explanation.
+['ZH_T27_1545_016:0080b02_9']	以三摩地。	以三摩地。	By samādhi.
+['ZH_T27_1545_016:0080b02_18']	有說即心說三摩地。	有說即心說三摩地。	Some say that the mind itself is explained as samādhi.
+['ZH_T27_1545_016:0080b03_8', 'ZH_T27_1545_016:0080b04_1']	即已說心故不別說。🔽問何故但說十大地法。	即已說心故不別說。 問何故但說十大地法。	Therefore, they are not explained separately.
+['ZH_T27_1545_016:0080b04_10']	為相應因非餘法耶。	為相應因非餘法耶。	Why are only the ten universal mental factors explained as being associated causes, and not other dharmas?
+['ZH_T27_1545_016:0080b05_6']	答是作論者意欲爾故乃至廣說。	答是作論者意欲爾故乃至廣說。	The author of the treatise intended it to be so, and so on at length.
+['ZH_T27_1545_016:0080b06_4']	有說應說而不說者當知此義有餘。	有說應說而不說者當知此義有餘。	It should be known that the meaning of what should be explained but is not left unexplainded has other implications.
+['ZH_T27_1545_016:0080b06_18']	有說若法一切界一切地一切趣。	有說若法一切界一切地一切趣。	Some say that if a dharma can be found in all realms, all stages, all destinies,
+['ZH_T27_1545_016:0080b07_9']	一切生一切種一切心。	一切生一切種一切心。	all births, all kinds, and all minds,
+['ZH_T27_1545_016:0080b07_17']	可得者此中說之。	可得者此中說之。	then it is explained here.
+['ZH_T27_1545_016:0080b08_8']	餘法不爾故此不說。	餘法不爾故此不說。	Other dharmas are not so, and therefore they are not explained.
+['ZH_T27_1545_016:0080b08_16', 'ZH_T27_1545_016:0080b09_7']	問大地法是何義。🔽答大者謂心如是十法。	問大地法是何義。 答大者謂心如是十法。	What is the meaning of the term universal mental factors?
+['ZH_T27_1545_016:0080b10_2']	是心起處大之地故名為大地。	是心起處大之地故名為大地。	The great ones refer to the mind. These ten dharmas are the great ground of the arising of the mind, and are therefore called the great ground.
+['ZH_T27_1545_016:0080b10_11']	大地即法名大地法。	大地即法名大地法。	The great ground is the dharmas, and is called the great ground dharmas.
+['ZH_T27_1545_016:0080b11_4']	有說心名為大體用勝故。	有說心名為大體用勝故。	Some say that the mind is called great because its essence and function are superior.
+['ZH_T27_1545_016:0080b11_13']	即大是地故名大地。	即大是地故名大地。	The great itself is the ground, and is therefore called the great ground.
+['ZH_T27_1545_016:0080b12_4']	是諸心所所依處故。	是諸心所所依處故。	It is because it is the basis of the mental activities.
+['ZH_T27_1545_016:0080b12_13']	受等十法於諸大地。	受等十法於諸大地。	The ten dharmas such as feeling are on the great ground.
+['ZH_T27_1545_016:0080b13_4']	遍可得故名大地法。	遍可得故名大地法。	Because they are found everywhere, they are called universal mental factors.
+['ZH_T27_1545_016:0080b14_2']	有說受等十法遍諸心品故名為大。	有說受等十法遍諸心品故名為大。	Some say that the ten dharmas such as feeling are called great because they are found in all classes of mind.
+['ZH_T27_1545_016:0080b14_11']	心是彼地故名大地。	心是彼地故名大地。	Because mind is their ground, they are called great grounds.
+['ZH_T27_1545_016:0080b15_6']	受等即是大地所有名大地法。	受等即是大地所有名大地法。	Feeling and so forth are the things that exist in the great grounds, and are therefore called universal mental factors.
+['ZH_T27_1545_016:0080b15_13']	問何故名心所。	問何故名心所。	Question: Why are they called mental factors?
+['ZH_T27_1545_016:0080b16_1']	答是心所有故。	答是心所有故。	Answer: Because they exist in the mind.
+['ZH_T27_1545_016:0080b16_15']	問何故心心所法展轉為相應因。	問何故心心所法展轉為相應因。	Question: Why are the mental factors and mind mutually corresponding causes?
+['ZH_T27_1545_016:0080b17_3', 'ZH_T27_1545_016:0080b17_9']	答展轉為因故。🔽展轉力生故。	答展轉為因故。 展轉力生故。	Answer: Because they are mutually causes.🔽Because they are mutually produced by power.
+['ZH_T27_1545_016:0080b17_15', 'ZH_T27_1545_016:0080b18_2', 'ZH_T27_1545_016:0080b18_8']	展轉相引故。🔽展轉相養故。🔽展轉相增故。	展轉相引故。 展轉相養故。 展轉相增故。	Because they mutually attract each other.🔽Because they mutually nourish each other.🔽Because they mutually increase each other.
+['ZH_T27_1545_016:0080b18_14']	展轉相依故。	展轉相依故。	Because they mutually rely on each other.
+['ZH_T27_1545_016:0080b19_3']	如二蘆束相依而住。	如二蘆束相依而住。	Like two bundles of reeds leaning on each other to stand.
+['ZH_T27_1545_016:0080b19_12']	多繩相合能牽大木。	多繩相合能牽大木。	Many ropes combined can pull up large logs.
+['ZH_T27_1545_016:0080b20_3']	多人連手能渡大河。	多人連手能渡大河。	Many people holding hands can cross a great river.
+['ZH_T27_1545_016:0080b20_12']	有為諸法性羸劣故。	有為諸法性羸劣故。	Because conditioned dharmas are by nature weak.
+['ZH_T27_1545_016:0080b21_3']	展轉相依方辦事業義。	展轉相依方辦事業義。	They must mutually rely on each other to accomplish their functions.
+['ZH_T27_1545_016:0080b21_15']	問受言汝若離想能納境耶。	問受言汝若離想能納境耶。	Question: Feeling, if you are apart from conceptualization, can you receive objects?
+['ZH_T27_1545_016:0080b22_2']	答言不能。	答言不能。	Answer: It cannot.
+['ZH_T27_1545_016:0080b22_11']	餘心心所為問亦爾。	餘心心所為問亦爾。	The same question can be asked of the other mental factors.
+['ZH_T27_1545_016:0080b23_3']	問相應因以何為自性。	問相應因以何為自性。	Question: What is the intrinsic nature of the associated cause?
+['ZH_T27_1545_016:0080b24_2']	答一切心心所法即攝三蘊一蘊少分。	答一切心心所法即攝三蘊一蘊少分。	Answer: It includes three aggregates and a part of one aggregate,
+['ZH_T27_1545_016:0080b24_15']	一處一處少分七界一界少分。	一處一處少分七界一界少分。	one sense base and a part of one sense base, seven elements and a part of one element.
+['ZH_T27_1545_016:0080b25_7']	已說自性所以今當說。	已說自性所以今當說。	The intrinsic nature has been explained. The reason will now be explained.
+['ZH_T27_1545_016:0080b25_14']	問相應是何義。	問相應是何義。	Question: What is the meaning of association?
+['ZH_T27_1545_016:0080b26_3']	答等義是相應義。	答等義是相應義。	Answer: The meaning of equality is the meaning of association.
+['ZH_T27_1545_016:0080b26_13']	問諸心所法或多或少。	問諸心所法或多或少。	Question: The mental factors vary in number.
+['ZH_T27_1545_016:0080b27_4', 'ZH_T27_1545_016:0080b27_15']	謂善心多不善心少。🔽不善心多有覆無記心少。	謂善心多不善心少。 不善心多有覆無記心少。	That is, wholesome minds have more, unwholesome minds have fewer,🔽unwholesome minds have more, and minds with moral hindrances have fewer.
+['ZH_T27_1545_016:0080b28_9']	有覆無記心多無覆無記心少。	有覆無記心多無覆無記心少。	Minds with moral hindrances have more, and unobscured indeterminate minds have fewer.
+['ZH_T27_1545_016:0080b28_18']	欲界心多色界心少。	欲界心多色界心少。	Desire realm minds have more, and form realm minds have fewer.
+['ZH_T27_1545_016:0080b29_9']	色界心多無色界心少。	色界心多無色界心少。	Form realm minds have more, and formless realm minds have fewer.
+['ZH_T27_1545_016:0080b29_18']	有漏心多無漏心少。	有漏心多無漏心少。	Contaminated minds have more, and uncontaminated minds have fewer.
+['ZH_T27_1545_016:0080c01_8']	云何等義是相應義。	云何等義是相應義。	How is the meaning of equality the meaning of association?
+['ZH_T27_1545_016:0080c02_1']	答依體等義說名為等。	答依體等義說名為等。	Answer: The meaning of equality of substance is called equality.
+['ZH_T27_1545_016:0080c02_14']	若一心中二受一想可不名等。	若一心中二受一想可不名等。	If in one mind there are two feelings and one conceptualization, it cannot be called equal.
+['ZH_T27_1545_016:0080c03_9']	然一心中一受一想餘亦如是。	然一心中一受一想餘亦如是。	However, in a single moment of mind there is one feeling, one conceptualization, and so on.
+['ZH_T27_1545_016:0080c03_18', 'ZH_T27_1545_016:0080c04_10']	故說等義是相應義。🔽復次等不相離是相應義。	故說等義是相應義。 復次等不相離是相應義。	Therefore, the meaning of equality is the meaning of association.🔽Moreover, equality and inseparability is the meaning of association.
+['ZH_T27_1545_016:0080c05_3']	復次等不別異是相應義。	復次等不別異是相應義。	Moreover, equality and non-difference is the meaning of association.
+['ZH_T27_1545_016:0080c05_14']	復次等運轉義是相應義。	復次等運轉義是相應義。	Moreover, the meaning of equal operation is the meaning of association.
+['ZH_T27_1545_016:0080c06_8']	如車轉時眾分皆轉共辦一事。	如車轉時眾分皆轉共辦一事。	When a cart moves, all its parts move together to accomplish a single task.
+['ZH_T27_1545_016:0080c06_17']	如是心車於境轉時。	如是心車於境轉時。	In the same way, when the mind-cart moves in the realm of objects,
+['ZH_T27_1545_016:0080c07_12']	心所亦轉共成一事故名相應。	心所亦轉共成一事故名相應。	the mental factors also move together to accomplish a single task, and therefore they are called associated.
+['ZH_T27_1545_016:0080c08_5']	復次等所作義是相應義。	復次等所作義是相應義。	Moreover, the meaning of equal activity is the meaning of association.
+['ZH_T27_1545_016:0080c09_2']	如秋鴿等一時詣場一時食一時起。	如秋鴿等一時詣場一時食一時起。	Just as pigeons in autumn all go to the field at the same time, eat at the same time, and leave at the same time,
+['ZH_T27_1545_016:0080c09_15']	非前非後心心所法亦復如是。	非前非後心心所法亦復如是。	not before and not after, so are the mind and mental factors.
+['ZH_T27_1545_016:0080c10_13']	一時趣境一時受境一時捨境故名相應。	一時趣境一時受境一時捨境故名相應。	They all go to the object at the same time, experience the object at the same time, and leave the object at the same time, and therefore they are called associated.
+['ZH_T27_1545_016:0080c11_6']	復次等相順義是相應義。	復次等相順義是相應義。	Moreover, the meaning of equal conformity is the meaning of association.
+['ZH_T27_1545_016:0080c11_15']	如人相順即名相應。	如人相順即名相應。	Just as when people conform to each other, they are called associated,
+['ZH_T27_1545_016:0080c12_5']	心心所法相順亦爾。	心心所法相順亦爾。	so it is with the mind and mental factors.
+['ZH_T27_1545_016:0080c12_16']	復次等和合義是相應義。	復次等和合義是相應義。	Moreover, the meaning of equal combination is the meaning of association.
+['ZH_T27_1545_016:0080c13_7']	如水乳合說名相應。	如水乳合說名相應。	Like water and milk combined, it is called association.
+['ZH_T27_1545_016:0080c13_16']	心心所法和合亦爾。	心心所法和合亦爾。	The combination of mind and mental factors is also like this.
+['ZH_T27_1545_016:0080c14_2']	霧尊者曰。	霧尊者曰。	The Venerable Megha says:
+['ZH_T27_1545_016:0080c14_11', 'ZH_T27_1545_016:0080c15_10']	四事等故說名相應。🔽一時分等謂心心所同一剎那而現行故。	四事等故說名相應。 一時分等謂心心所同一剎那而現行故。	It is called association because of the equality of four things.🔽First, the equality of time means that mind and mental factors occur in the same moment.
+['ZH_T27_1545_016:0080c16_9']	二所依等謂心心所同依一根而現行故。	二所依等謂心心所同依一根而現行故。	Second, the equality of support means that mind and mental factors occur depending on the same faculty.
+['ZH_T27_1545_016:0080c16_18']	三所緣等謂心心所。	三所緣等謂心心所。	Third, the equality of object means that mind and mental factors
+['ZH_T27_1545_016:0080c17_8']	同緣一境而現行故。	同緣一境而現行故。	occur by the same object.
+['ZH_T27_1545_016:0080c17_17']	四行相等謂心心所。	四行相等謂心心所。	Fourth, the equality of aspect means that mind and mental factors
+['ZH_T27_1545_016:0080c18_7']	同一行相而現行故。	同一行相而現行故。	occur with the same aspect.
+['ZH_T27_1545_016:0080c19_10']	復次五事等故說名相應。	復次五事等故說名相應。	Moreover, it is called association because of the equality of five things.
+['ZH_T27_1545_016:0080c20_1']	即前四事及物體等。	即前四事及物體等。	These are the previous four things and the equality of substance.
+['ZH_T27_1545_016:0080c20_10']	謂心心所各唯一物。	謂心心所各唯一物。	It means that mind and mental factors each have only one substance.
+['ZH_T27_1545_016:0080c21_1']	和合而起故名相應。	和合而起故名相應。	They arise in combination, so it is called association.
+['ZH_T27_1545_016:0080c21_12']	復次如束蘆義是相應義。	復次如束蘆義是相應義。	Moreover, the meaning of association is the meaning of like a bundle of reeds.
+['ZH_T27_1545_016:0080c22_3']	如一一蘆不能獨立。	如一一蘆不能獨立。	Just as each reed cannot stand alone,
+['ZH_T27_1545_016:0080c22_12']	要多共束方能得住。	要多共束方能得住。	only when many are bundled together can it stand.
+['ZH_T27_1545_016:0080c23_3']	心心所法亦復如是。	心心所法亦復如是。	The same is true of mind and mental factors.
+['ZH_T27_1545_016:0080c23_12']	要多相依方能行世。	要多相依方能行世。	They must rely on each other in large numbers in order to function in the world.
+['ZH_T27_1545_016:0080c24_3']	取果與果及取所緣。	取果與果及取所緣。	To take effects and give effects, and to take objects.
+['ZH_T27_1545_016:0080c24_14']	復次如合索義是相應義。	復次如合索義是相應義。	Next, the meaning of being bound together like a rope is the meaning of association.
+['ZH_T27_1545_016:0080c25_6']	如一一縷不能牽材木。	如一一縷不能牽材木。	Like a single thread cannot pull a log,
+['ZH_T27_1545_016:0080c25_15']	多縷相合乃有牽用。	多縷相合乃有牽用。	many threads bound together have the function of pulling.
+['ZH_T27_1545_016:0080c26_6']	心心所法亦復如是。	心心所法亦復如是。	The same is true of mind and mental factors.
+['ZH_T27_1545_016:0080c26_11']	廣如前說。	廣如前說。	Explained in detail as above.
+['ZH_T27_1545_016:0080c27_5']	復次如連手義是相應義。	復次如連手義是相應義。	Next, the meaning of being connected like hands is the meaning of association.
+['ZH_T27_1545_016:0080c27_14']	如河漂急獨不能渡。	如河漂急獨不能渡。	Like a river flowing swiftly, one alone cannot cross it.
+['ZH_T27_1545_016:0080c28_5']	多人連手乃能渡之。	多人連手乃能渡之。	Many people connected by hands can cross it.
+['ZH_T27_1545_016:0080c28_14']	心心所法亦復如是。	心心所法亦復如是。	The same is true of mind and mental factors.
+['ZH_T27_1545_016:0080c29_2']	廣如前說。	廣如前說。	Explained in detail as above.
+['ZH_T27_1545_016:0080c29_13']	復次如商侶義是相應義。	復次如商侶義是相應義。	Next, the meaning of being like a caravan is the meaning of association.
+['ZH_T27_1545_016:0081a01_9']	如多商人共為伴侶能過險路。	如多商人共為伴侶能過險路。	Like many merchants traveling together as companions can pass through dangerous paths,
+['ZH_T27_1545_016:0081a02_5']	心心所法亦復如是廣說如前。	心心所法亦復如是廣說如前。	the same is true of mind and mental factors, explained in detail as above.
+['ZH_T27_1545_016:0081a02_14']	尊者世友作如是說。	尊者世友作如是說。	Venerable Vasumitra said:
+['ZH_T27_1545_016:0081a03_5']	相引生義是相應義。	相引生義是相應義。	The meaning of mutually producing is the meaning of association.
+['ZH_T27_1545_016:0081a04_3']	問若爾眼識意識亦互相引彼相應耶。	問若爾眼識意識亦互相引彼相應耶。	Question: If that is so, do eye consciousness and mental consciousness also mutually attract each other and their associated [dharmas]?
+['ZH_T27_1545_016:0081a05_3']	答彼所依異若同所依互相引者乃是相應。	答彼所依異若同所依互相引者乃是相應。	Answer: If their supports are different, but they are mutually attracted by the same support, then they are associated.
+['ZH_T27_1545_016:0081a05_14']	復次不相離義是相應義。	復次不相離義是相應義。	Furthermore, the meaning of being inseparable is the meaning of association.
+['ZH_T27_1545_016:0081a06_10']	問若爾四大種亦不相離彼相應耶。	問若爾四大種亦不相離彼相應耶。	Question: If that is so, are the four great elements also inseparable and associated?
+['ZH_T27_1545_016:0081a06_16']	答彼無所依。	答彼無所依。	Answer: They have no support.
+['ZH_T27_1545_016:0081a07_11']	若有所依亦不相離乃是相應。	若有所依亦不相離乃是相應。	If they have a support and are also inseparable, then they are associated.
+['ZH_T27_1545_016:0081a08_5']	復次有所緣義是相應義。	復次有所緣義是相應義。	Furthermore, the meaning of having an object is the meaning of association.
+['ZH_T27_1545_016:0081a09_1']	問若爾六識皆有所緣彼相應耶。	問若爾六識皆有所緣彼相應耶。	Question: If that is so, do the six consciousnesses all have an object and are they associated?
+['ZH_T27_1545_016:0081a09_7']	答彼所依異。	答彼所依異。	Answer: Their supports are different.
+['ZH_T27_1545_016:0081a10_2']	若同所依有所緣者乃是相應。	若同所依有所緣者乃是相應。	If they have the same support and have an object, then they are associated.
+['ZH_T27_1545_016:0081a10_13']	復次同所緣義是相應義。	復次同所緣義是相應義。	Furthermore, the meaning of the same object is the meaning of association.
+['ZH_T27_1545_016:0081a11_12']	問若爾五識各與意識同一所緣應說相應。	問若爾五識各與意識同一所緣應說相應。	Question: If that is so, since the five consciousnesses each have the same object as mental consciousness, they should be said to be associated.
+['ZH_T27_1545_016:0081a12_4']	又多眼識應說相應。	又多眼識應說相應。	Moreover, many eye consciousnesses should be said to be associated.
+['ZH_T27_1545_016:0081a12_14']	如多有情共觀初月等。	如多有情共觀初月等。	Just as many sentient beings together observe the first moon, etc.
+['ZH_T27_1545_016:0081a13_2']	答彼所依異。	答彼所依異。	Answer: Their supports are different.
+['ZH_T27_1545_016:0081a13_11']	若同所依同所緣者。	若同所依同所緣者。	If they have the same support and the same object,
+['ZH_T27_1545_016:0081a13_16']	乃是相應。	乃是相應。	then they are associated.
+['ZH_T27_1545_016:0081a14_7']	復次常和合義是相應義。	復次常和合義是相應義。	Moreover, the meaning of constant association is the meaning of association.
+['ZH_T27_1545_016:0081a15_5']	問若爾壽煖識三亦常和合彼相應耶。	問若爾壽煖識三亦常和合彼相應耶。	Question: If so, do the three of life, heat, and consciousness, which are also constantly associated, also have association?
+['ZH_T27_1545_016:0081a15_17']	答不爾壽煖二法無所依故。	答不爾壽煖二法無所依故。	Answer: No, because the two dharmas of life and heat have no support.
+['ZH_T27_1545_016:0081a16_12']	若有所依亦常和合乃是相應。	若有所依亦常和合乃是相應。	If they have a support and are constantly associated, then they have association.
+['ZH_T27_1545_016:0081a17_5']	復次恒俱生義是相應義。	復次恒俱生義是相應義。	Moreover, the meaning of always arising together is the meaning of association.
+['ZH_T27_1545_016:0081a18_1']	問若爾四大種恒俱生彼相應耶。	問若爾四大種恒俱生彼相應耶。	Question: If so, do the four great elements, which always arise together, have association?
+['ZH_T27_1545_016:0081a18_11']	答彼無所依若有所依。	答彼無所依若有所依。	Answer: They have no support. If they have a support,
+['ZH_T27_1545_016:0081a19_2']	恒俱生者乃是相應。	恒俱生者乃是相應。	and always arise together, then they have association.
+['ZH_T27_1545_016:0081a19_13']	復次俱生住滅是相應義。	復次俱生住滅是相應義。	Moreover, the meaning of arising, abiding, and ceasing together is the meaning of association.
+['ZH_T27_1545_016:0081a20_6']	問若爾隨心轉色隨心轉心。	問若爾隨心轉色隨心轉心。	Question: If so, do the form that changes with the mind and the mental factors that do not change with the mind,
+['ZH_T27_1545_016:0081a21_2']	不相應行亦俱生住滅彼相應耶。	不相應行亦俱生住滅彼相應耶。	which also arise, abide, and cease together, have association?
+['ZH_T27_1545_016:0081a21_8']	答彼無所依。	答彼無所依。	Answer: They have no support.
+['ZH_T27_1545_016:0081a22_3']	若有所依俱生住滅乃是相應。	若有所依俱生住滅乃是相應。	If they have a support, and arise, abide, and cease together, then they have association.
+['ZH_T27_1545_016:0081a22_14']	復次同一所依同一所緣。	復次同一所依同一所緣。	Moreover, having the same support and the same object,
+['ZH_T27_1545_016:0081a23_6']	同一行相轉義是相應義。	同一行相轉義是相應義。	The meaning of turning together in the same aspect is the meaning of association.
+['ZH_T27_1545_016:0081a23_12']	問云何知然。	問云何知然。	Question: How do you know this is so?
+['ZH_T27_1545_016:0081a23_18']	答寧知不然。	答寧知不然。	Answer: How do you know it is not so?
+['ZH_T27_1545_016:0081a24_11']	復次同作一事義是相應義。	復次同作一事義是相應義。	Furthermore, the meaning of performing the same function is the meaning of association.
+['ZH_T27_1545_016:0081a25_9']	問若爾諸忍與智同作一事彼相應耶。	問若爾諸忍與智同作一事彼相應耶。	Question: If so, do the various forbearances and knowledges that perform the same function associate with each other?
+['ZH_T27_1545_016:0081a25_15']	答彼不俱生。	答彼不俱生。	Answer: They do not arise together.
+['ZH_T27_1545_016:0081a26_11']	若俱時生同作一事乃是相應。	若俱時生同作一事乃是相應。	If they arise simultaneously and perform the same function, then they associate with each other.
+['ZH_T27_1545_016:0081a26_16']	大德說曰。	大德說曰。	The Venerable One said:
+['ZH_T27_1545_016:0081a27_6']	同伴侶義是相應義。	同伴侶義是相應義。	The meaning of companionship is the meaning of association.
+['ZH_T27_1545_016:0081a28_2']	識與心所互相容受俱時而生。	識與心所互相容受俱時而生。	Consciousness and mental factors mutually tolerate each other and arise simultaneously.
+['ZH_T27_1545_016:0081a28_11']	同取一境乃是相應。	同取一境乃是相應。	The same grasping of a single object is association.
+['ZH_T27_1545_016:0081a29_2']	尊者妙音作如是說。	尊者妙音作如是說。	The Venerable One Suon said:
+['ZH_T27_1545_016:0081b01_1']	所依所緣行相所作一切同義是相應義。	所依所緣行相所作一切同義是相應義。	The meaning of the same in basis, object, aspect, and function is the meaning of association.
+['ZH_T27_1545_016:0081b01_6']	所以者何。	所以者何。	Why is this so?
+['ZH_T27_1545_016:0081b01_15']	諸有為法性羸劣故。	諸有為法性羸劣故。	Because conditioned dharmas are by nature weak and inferior.
+['ZH_T27_1545_016:0081b02_5']	展轉力持方能起作。	展轉力持方能起作。	They can only arise and function by mutually supporting each other with their power.
+['ZH_T27_1545_016:0081b02_14']	曾不見有一大地法。	曾不見有一大地法。	I have never seen a single great dharma
+['ZH_T27_1545_016:0081b03_1']	獨起作故。	獨起作故。	that arises alone and performs a function.
+['ZH_T27_1545_016:0081b03_6']	此相應因。	此相應因。	This is the associated cause.
+['ZH_T27_1545_016:0081b03_15', 'ZH_T27_1545_016:0081b04_9']	定通三世有士用果。🔽云何俱有因乃至廣說。	定通三世有士用果。 云何俱有因乃至廣說。	The effect of human action exists in the three time periods.🔽What is the simultaneous cause? And so on at length.
+['ZH_T27_1545_016:0081b05_1']	問相應俱有二因何異。	問相應俱有二因何異。	Question: What is the difference between the associated cause and the simultaneous cause?
+['ZH_T27_1545_016:0081b05_6']	有說無異。	有說無異。	Some say there is no difference.
+['ZH_T27_1545_016:0081b06_2']	一剎那受與想等法為二因故。	一剎那受與想等法為二因故。	Because in one moment, feeling is the two causes for conceptualization and other dharmas.
+['ZH_T27_1545_016:0081b06_11']	是故於此應作是說。	是故於此應作是說。	Therefore, on this point, one should say:
+['ZH_T27_1545_016:0081b07_2']	若相應因即俱有因。	若相應因即俱有因。	If it is an associated cause, it is a simultaneous cause.
+['ZH_T27_1545_016:0081b07_11']	有俱有因非相應因。	有俱有因非相應因。	There is a simultaneous cause that is not an associated cause.
+['ZH_T27_1545_016:0081b08_2']	謂不相應俱有因是。	謂不相應俱有因是。	That is, the simultaneous cause that is not associated.
+['ZH_T27_1545_016:0081b08_11']	如是說者二因有異。	如是說者二因有異。	Those who explain it in this way say the two causes are different.
+['ZH_T27_1545_016:0081b09_2']	雖依一法而義別故。	雖依一法而義別故。	Although they depend on one dharma, the meanings are different.
+['ZH_T27_1545_016:0081b09_12']	問若爾二因有何差別。	問若爾二因有何差別。	Question: If that is so, what is the difference between the two causes?
+['ZH_T27_1545_016:0081b10_8']	答名即差別謂名相應因名俱有因。	答名即差別謂名相應因名俱有因。	Answer: The difference is in the names. That is, it is called the associated cause and it is called the simultaneous cause.
+['ZH_T27_1545_016:0081b11_2']	復次為伴侶義是相應因。	復次為伴侶義是相應因。	Furthermore, the meaning of being companions is the associated cause.
+['ZH_T27_1545_016:0081b11_11']	同一果義是俱有因。	同一果義是俱有因。	The meaning of having the same effect is the simultaneous cause.
+['ZH_T27_1545_016:0081b12_10']	復次同一所依一行相一所緣義是相應因。	復次同一所依一行相一所緣義是相應因。	Furthermore, the meaning of having the same support, the same aspect, and the same object is the associated cause.
+['ZH_T27_1545_016:0081b13_15']	同一生一老一住一滅一果一等流一異熟義是俱有因。	同一生一老一住一滅一果一等流一異熟義是俱有因。	The meaning of the same life, the same aging, the same abiding, the same cessation, the same fruit, the same outflow, and the same ripening is the meaning of co-existent cause.
+['ZH_T27_1545_016:0081b14_8']	復次如執杖義是相應因。	復次如執杖義是相應因。	Moreover, the meaning of holding a staff is the meaning of association cause.
+['ZH_T27_1545_016:0081b15_4']	如執杖已有所作義是俱有因。	如執杖已有所作義是俱有因。	The meaning of having something to do after holding a staff is the meaning of co-existent cause.
+['ZH_T27_1545_016:0081b15_15']	復次如連手義是相應因。	復次如連手義是相應因。	Moreover, the meaning of holding hands is the meaning of association cause.
+['ZH_T27_1545_016:0081b16_10']	如連手已渡暴河義是俱有因。	如連手已渡暴河義是俱有因。	The meaning of crossing a violent river after holding hands is the meaning of co-existent cause.
+['ZH_T27_1545_016:0081b17_3']	復次相隨順義是相應因。	復次相隨順義是相應因。	Moreover, the meaning of following each other is the meaning of association cause.
+['ZH_T27_1545_016:0081b17_12']	不相離義是俱有因。	不相離義是俱有因。	The meaning of non-separation is the meaning of co-existent cause.
+['ZH_T27_1545_016:0081b17_18', 'ZH_T27_1545_016:0081b18_9']	云何俱有因。🔽答心與心所法為俱有因。	云何俱有因。 答心與心所法為俱有因。	What is the meaning of co-existent cause?🔽The answer is: The mind and mental factors are co-existent causes for each other.
+['ZH_T27_1545_016:0081b19_2']	心所法與心為俱有因。	心所法與心為俱有因。	The mental factors are co-existent causes for the mind.
+['ZH_T27_1545_016:0081b19_14']	問何故前相應因中不說心。	問何故前相應因中不說心。	Why is the mind not mentioned in the previous section on association cause,
+['ZH_T27_1545_016:0081b20_6']	今俱有因中即說心耶。	今俱有因中即說心耶。	but is mentioned in the present section on co-existent cause?
+['ZH_T27_1545_016:0081b20_16']	答平等義是相應因義。	答平等義是相應因義。	The answer is: The meaning of equality is the meaning of association cause.
+['ZH_T27_1545_016:0081b21_7']	心王是勝與心所法。	心王是勝與心所法。	The mind king is superior to the mental factors.
+['ZH_T27_1545_016:0081b21_16']	等義不顯故不說心。	等義不顯故不說心。	The meaning of equality is not evident, so the mind is not mentioned.
+['ZH_T27_1545_016:0081b22_8']	辦一事義是俱有因義。	辦一事義是俱有因義。	The meaning of accomplishing one thing is the meaning of co-existent cause.
+['ZH_T27_1545_016:0081b23_3']	心心所法辦事義同故今說心。	心心所法辦事義同故今說心。	Because the meaning of accomplishing actions is the same for mind and mental factors, mind is now discussed.
+['ZH_T27_1545_016:0081b23_12']	此中心者即一切心。	此中心者即一切心。	Here, mind refers to all minds.
+['ZH_T27_1545_016:0081b24_4']	心所法者亦一切心所法。	心所法者亦一切心所法。	Mental factors refer to all mental factors.
+['ZH_T27_1545_016:0081b24_15']	如其所應展轉為俱有因。	如其所應展轉為俱有因。	As appropriate, they are mutually co-existent causes.
+['ZH_T27_1545_016:0081b25_11']	心與隨心轉身業語業為俱有因。	心與隨心轉身業語業為俱有因。	Mind is a co-existent cause for the bodily and verbal actions that accompany mind.
+['ZH_T27_1545_016:0081b26_2']	隨心轉身業語業者。	隨心轉身業語業者。	Bodily and verbal actions that accompany mind refer to
+['ZH_T27_1545_016:0081b26_12']	謂靜慮律儀無漏律儀。	謂靜慮律儀無漏律儀。	the precepts of the meditative states and the precepts of the uncontaminated.
+['ZH_T27_1545_016:0081b27_15']	問何故此中不說隨心轉身業語業與心為俱有因耶。	問何故此中不說隨心轉身業語業與心為俱有因耶。	Why is it not said here that bodily and verbal actions that accompany mind are a co-existent cause for mind?
+['ZH_T27_1545_016:0081b28_13']	答是作論者意欲爾故乃至廣說。	答是作論者意欲爾故乃至廣說。	The answer is: This is because the author of the treatise intended it to be so, and so on at length.
+['ZH_T27_1545_016:0081b28_16']	有說。	有說。	Some say:
+['ZH_T27_1545_016:0081b29_10']	應說而不說者當知此義有餘。	應說而不說者當知此義有餘。	That which should be said but is not should be understood as having remainder.
+['ZH_T27_1545_016:0081c01_6']	前說此中所說因義皆不盡故。	前說此中所說因義皆不盡故。	Because what is said here does not exhaust the meaning of the causes discussed.
+['ZH_T27_1545_016:0081c01_9']	有說。	有說。	Some say:
+['ZH_T27_1545_016:0081c02_1']	此中初後廣說中間略說。	此中初後廣說中間略說。	Here, the beginning and end are explained in detail, but the middle is explained briefly.
+['ZH_T27_1545_016:0081c02_10']	義准可知是故不說。	義准可知是故不說。	The meaning can be inferred, so it is not explained.
+['ZH_T27_1545_016:0081c03_8']	有餘師說心於隨心轉身語業能為因。	有餘師說心於隨心轉身語業能為因。	Other masters say: Mind is able to be a cause for the bodily and verbal actions that accompany mind.
+['ZH_T27_1545_016:0081c04_2']	不隨其事轉以是勝故。	不隨其事轉以是勝故。	It does not follow the matter and transform, because it is superior.
+['ZH_T27_1545_016:0081c04_15']	隨心轉身語業於心隨其事轉。	隨心轉身語業於心隨其事轉。	The bodily and verbal karma that follows the mind transforms according to the mind and the matter.
+['ZH_T27_1545_016:0081c05_6']	不能為因以是劣故。	不能為因以是劣故。	It cannot be the cause, because it is inferior.
+['ZH_T27_1545_016:0081c06_4']	如王於臣能與爵祿不隨其事轉。	如王於臣能與爵祿不隨其事轉。	Just as the king, with regard to his ministers, can bestow rank and emoluments but does not follow the matter and transform.
+['ZH_T27_1545_016:0081c06_12']	臣於王隨其事轉。	臣於王隨其事轉。	The ministers, with regard to the king, follow the matter and transform.
+['ZH_T27_1545_016:0081c07_5']	不能與爵祿此亦如是。	不能與爵祿此亦如是。	They cannot bestow rank and emoluments. This is also like that.
+['ZH_T27_1545_016:0081c07_8']	評曰。	評曰。	The treatise says:
+['ZH_T27_1545_016:0081c08_5']	心與隨心轉身語業展轉為俱有因。	心與隨心轉身語業展轉為俱有因。	The mind and the bodily and verbal karma that follows the mind transform mutually as co-existent causes.
+['ZH_T27_1545_016:0081c08_10']	所以者何。	所以者何。	Why is this?
+['ZH_T27_1545_016:0081c09_1']	同一果故辦一事故。	同一果故辦一事故。	Because they have the same effect and accomplish the same matter.
+['ZH_T27_1545_016:0081c09_11']	問若爾此中何故不說。	問若爾此中何故不說。	Question: If that is so, why is it not mentioned here?
+['ZH_T27_1545_016:0081c10_1', 'ZH_T27_1545_016:0081c11_5', 'ZH_T27_1545_016:0081c11_14']	答由前說三因故。🔽心與隨心轉。🔽不相應行為俱有因。	答由前說三因故。 心與隨心轉。 不相應行為俱有因。	Answer: Because the three causes mentioned above.🔽The mind and the dissociated factors that follow the mind are co-existent causes.
+['ZH_T27_1545_016:0081c12_9']	隨心轉不相應行與心為俱有因。	隨心轉不相應行與心為俱有因。	The dissociated factors that follow the mind are co-existent causes for the mind.
+['ZH_T27_1545_016:0081c13_2']	問何等隨心轉不相應行。	問何等隨心轉不相應行。	Question: What are the dissociated factors that follow the mind?
+['ZH_T27_1545_016:0081c13_10']	與心展轉為因耶。	與心展轉為因耶。	What are the causes for the mutual transformation of the mind?
+['ZH_T27_1545_016:0081c14_15']	答心心所法及隨心轉身語業生老住無常與心展轉為因。	答心心所法及隨心轉身語業生老住無常與心展轉為因。	Answer: Mental factors, form and formless dharmas, and the arising, aging, enduring, and impermanence of bodily and verbal actions that occur with the mind are causes for each other.
+['ZH_T27_1545_016:0081c15_2']	此中有說。	此中有說。	Regarding this, some say:
+['ZH_T27_1545_016:0081c15_15']	心與自生老住無常為俱有因。	心與自生老住無常為俱有因。	The mind is a co-existent cause for its own arising, aging, enduring, and impermanence.
+['ZH_T27_1545_016:0081c16_8', 'ZH_T27_1545_016:0081c17_4']	唯自生住與心為俱有因。🔽非老無常以能增益說名為因。	唯自生住與心為俱有因。 非老無常以能增益說名為因。	Only its own arising and enduring are co-existent causes for the mind.🔽Aging and impermanence are not called causes because they do not benefit.
+['ZH_T27_1545_016:0081c17_17']	老與無常衰滅法故不名為因。	老與無常衰滅法故不名為因。	Aging and impermanence are not called causes because they are dharmas of decay.
+['ZH_T27_1545_016:0081c18_14']	有說心與自生老住無常為俱有因。	有說心與自生老住無常為俱有因。	Some say: The mind is a co-existent cause for its own arising, aging, enduring, and impermanence.
+['ZH_T27_1545_016:0081c19_10']	自生老住無常與心為俱有因。	自生老住無常與心為俱有因。	Its own arising, aging, enduring, and impermanence are co-existent causes for the mind.
+['ZH_T27_1545_016:0081c20_2']	皆互相助辦一事故。	皆互相助辦一事故。	Because they mutually assist each other in accomplishing one thing.
+['ZH_T27_1545_016:0081c21_1']	有說心與心心所法及隨心轉身語業。	有說心與心心所法及隨心轉身語業。	Some say: The mind is a co-existent cause for mental factors, form and formless dharmas, and bodily and verbal actions that occur with the mind,
+['ZH_T27_1545_016:0081c21_11']	生老住無常為俱有因。	生老住無常為俱有因。	as well as their arising, aging, enduring, and impermanence.
+['ZH_T27_1545_016:0081c22_1']	唯心生老住無常。	唯心生老住無常。	Only the arising, aging, enduring, and impermanence of the mind
+['ZH_T27_1545_016:0081c22_12']	與心為俱有因非餘生等。	與心為俱有因非餘生等。	are co-existent causes for the mind, not the arising, etc. of others.
+['ZH_T27_1545_016:0081c22_15']	評曰。	評曰。	The judges say:
+['ZH_T27_1545_016:0081c23_2']	應作是說。	應作是說。	This should be said:
+['ZH_T27_1545_016:0081c23_16']	心與心心所法及隨心轉身語業。	心與心心所法及隨心轉身語業。	The mind is a co-existent cause for mental factors, form and formless dharmas, and bodily and verbal actions that occur with the mind,🔽as well as their arising, aging, enduring, and impermanence.
+['ZH_T27_1545_016:0081c24_9']	生老住無常展轉為俱有因。	生老住無常展轉為俱有因。	Birth, aging, abiding, and impermanence are mutually co-existent causes.
+['ZH_T27_1545_016:0081c24_18']	云何知然品類足說。	云何知然品類足說。	How do we know this? The Pañcavastuka says:
+['ZH_T27_1545_016:0081c25_7']	云何心俱有因法。	云何心俱有因法。	What are the co-existent causes of the mind?
+['ZH_T27_1545_016:0081c26_4']	謂一切心所法道俱有戒定俱有戒。	謂一切心所法道俱有戒定俱有戒。	It refers to all mental factors, precepts co-existent with the path, and precepts co-existent with concentration.
+['ZH_T27_1545_016:0081c26_15']	及心彼諸法生老住無常。	及心彼諸法生老住無常。	And the birth, aging, abiding, and impermanence of those dharmas and the mind.
+['ZH_T27_1545_016:0081c27_9']	問若爾品類足說復云何通。	問若爾品類足說復云何通。	If that is so, how can the Pañcavastuka be understood?
+['ZH_T27_1545_016:0081c28_5']	如說或有苦諦以有身見為因。	如說或有苦諦以有身見為因。	As it is said: There is suffering that is caused by the view of self,
+['ZH_T27_1545_016:0081c28_13', 'ZH_T27_1545_016:0081c29_9']	非與有身見為因。🔽謂除過去現在見苦所斷隨眠。	非與有身見為因。 謂除過去現在見苦所斷隨眠。	but does not cause the view of self.
+['ZH_T27_1545_016:0081c29_16', 'ZH_T27_1545_016:0082a01_12']	及彼相應苦諦。🔽除過去現在見集所斷遍行隨眠。	及彼相應苦諦。 除過去現在見集所斷遍行隨眠。	This refers to the past and present suffering that is eliminated by seeing the truth of suffering, and the latent tendencies associated with it.
+['ZH_T27_1545_016:0082a02_1']	及彼相應苦諦。	及彼相應苦諦。	It also refers to the past and present suffering that is eliminated by seeing the truth of the accumulation of suffering, and the latent tendencies associated with it.
+['ZH_T27_1545_016:0082a02_12']	除未來有身見相應苦諦。	除未來有身見相應苦諦。	It also refers to the future suffering associated with the view of self.
+['ZH_T27_1545_016:0082a03_5']	除未來有身見生老住無常。	除未來有身見生老住無常。	It also refers to the birth, aging, abiding, and impermanence of the future view of self.
+['ZH_T27_1545_016:0082a03_12']	諸餘染污苦諦。	諸餘染污苦諦。	All other defiled suffering.
+['ZH_T27_1545_016:0082a04_3']	答品類足論應作是說。	答品類足論應作是說。	The answer is that the Pañcavastuka should say:
+['ZH_T27_1545_016:0082a04_15']	除過去現在見苦所斷隨眠。	除過去現在見苦所斷隨眠。	Excluding the past and present latent tendencies that are eliminated by seeing the truth of suffering,
+['ZH_T27_1545_016:0082a05_7']	及彼相應俱有等苦諦。	及彼相應俱有等苦諦。	and the truth of suffering associated with and coexisting with them.
+['ZH_T27_1545_016:0082a06_3']	除過去現在見集所斷遍行隨眠。	除過去現在見集所斷遍行隨眠。	Excluding the past and present pervasive contaminants abandoned by seeing the truth of origin,
+['ZH_T27_1545_016:0082a06_12']	及彼相應俱有苦諦。	及彼相應俱有苦諦。	and the truth of suffering associated with and coexisting with them.
+['ZH_T27_1545_016:0082a07_5']	除未來有身見相應苦諦。	除未來有身見相應苦諦。	Excluding the truth of suffering associated with future attachment to existence,
+['ZH_T27_1545_016:0082a07_17']	除未來有身見及彼相應法。	除未來有身見及彼相應法。	excluding future attachment to existence and the dharmas associated with it,
+['ZH_T27_1545_016:0082a08_11']	生老住無常諸餘染污苦諦。	生老住無常諸餘染污苦諦。	and the defiled truth of suffering such as birth, old age, duration, and impermanence.
+['ZH_T27_1545_016:0082a09_3']	應作是說而不說者。	應作是說而不說者。	Although this should be said, it is not said.
+['ZH_T27_1545_016:0082a09_12']	當知彼是有餘之說。	當知彼是有餘之說。	One should know that this is a statement with remainder.
+['ZH_T27_1545_016:0082a10_13']	復次俱生四大種展轉為俱有因。	復次俱生四大種展轉為俱有因。	Next, the four great elements that arise together are mutually co-existent causes.
+['ZH_T27_1545_016:0082a11_1']	是謂俱有因。	是謂俱有因。	This is called the co-existent cause.
+['ZH_T27_1545_016:0082a11_15', 'ZH_T27_1545_016:0082a12_13']	此中有欲令四大種體無偏增者。🔽彼作是說地大種與三大種為俱有因。	此中有欲令四大種體無偏增者。 彼作是說地大種與三大種為俱有因。	Here, there are those who wish for the substance of the four great elements to be without excess.🔽They say that the earth great element is the co-existent cause for the three great elements,
+['ZH_T27_1545_016:0082a13_8']	三大種與地大種為俱有因。	三大種與地大種為俱有因。	and the three great elements are the co-existent cause for the earth great element.
+['ZH_T27_1545_016:0082a13_16']	乃至風大種亦爾。	乃至風大種亦爾。	Up to the wind great element, it is the same.
+['ZH_T27_1545_016:0082a14_10']	有欲令四大種體有偏增者。	有欲令四大種體有偏增者。	There are those who wish for the substance of the four great elements to have excess.
+['ZH_T27_1545_016:0082a14_15']	彼作是說。	彼作是說。	They say:
+['ZH_T27_1545_016:0082a15_10']	地大種與四大種為俱有因。	地大種與四大種為俱有因。	The great earth element is a co-existent cause for the four great elements.
+['ZH_T27_1545_016:0082a16_5']	四大種與地大種為俱有因。	四大種與地大種為俱有因。	The four great elements are a co-existent cause for the great earth element.
+['ZH_T27_1545_016:0082a16_10']	所以者何。	所以者何。	Why is this?
+['ZH_T27_1545_016:0082a16_17', 'ZH_T27_1545_016:0082a17_8']	地大種有多體。🔽於中一與多為俱有因。	地大種有多體。 於中一與多為俱有因。	Because the substance of the great earth element is multiple.🔽Among them, one is a co-existent cause for many,
+['ZH_T27_1545_016:0082a17_17']	多與一為俱有因故。	多與一為俱有因故。	and many are co-existent causes for one.
+['ZH_T27_1545_016:0082a18_7']	乃至風大種亦爾。	乃至風大種亦爾。	Up to the great wind element, it is also like this.
+['ZH_T27_1545_016:0082a18_10']	評曰。	評曰。	The judges say:
+['ZH_T27_1545_016:0082a18_15']	應作是說。	應作是說。	It should be said:
+['ZH_T27_1545_016:0082a19_9', 'ZH_T27_1545_016:0082a19_16']	四大種體若有偏增若無偏增。🔽地為三俱有因。	四大種體若有偏增若無偏增。 地為三俱有因。	If the substance of the four great elements has a biased increase or does not have a biased increase,🔽the earth is a co-existent cause for the three.
+['ZH_T27_1545_016:0082a20_6']	三為地俱有因。	三為地俱有因。	The three are co-existent causes for the earth.
+['ZH_T27_1545_016:0082a20_11']	所以者何。	所以者何。	Why is this?
+['ZH_T27_1545_016:0082a21_2']	地不觀地生所造色。	地不觀地生所造色。	Because the earth does not observe the earth to produce derivative form.
+['ZH_T27_1545_016:0082a22_2']	以一切法不觀自性及同類體為他因故。	以一切法不觀自性及同類體為他因故。	Because all dharmas do not observe their own nature and the substance of the same category as the cause of others.
+['ZH_T27_1545_016:0082a22_10']	乃至風大種亦爾。	乃至風大種亦爾。	Up to the great wind element, it is also like this.
+['ZH_T27_1545_016:0082a23_5']	問未生四大種亦是俱有因不。	問未生四大種亦是俱有因不。	Question: Are the four great elements that have not yet arisen also co-existent causes?
+['ZH_T27_1545_016:0082a23_16']	答亦是俱有因墮因義故。	答亦是俱有因墮因義故。	Answer: They are also co-existent causes because they fall into the meaning of cause.
+['ZH_T27_1545_016:0082a24_2']	有因相故。	有因相故。	Because they have the characteristics of a cause.
+['ZH_T27_1545_016:0082a24_10']	有說彼非俱有因。	有說彼非俱有因。	Some say they are not co-existent causes.
+['ZH_T27_1545_016:0082a24_17']	此中但說俱生。	此中但說俱生。	Here, only co-arisen [dharmas] are discussed.
+['ZH_T27_1545_016:0082a25_9']	四大種展轉為俱有因故。	四大種展轉為俱有因故。	Because the four great elements are mutually co-existent causes.
+['ZH_T27_1545_016:0082a25_12']	評曰。	評曰。	The judges say:
+['ZH_T27_1545_016:0082a25_17']	應作是說。	應作是說。	It should be said:
+['ZH_T27_1545_016:0082a26_12']	生未生四大種皆展轉為俱有因。	生未生四大種皆展轉為俱有因。	The four great elements that are born and those that are yet to be born are all mutually co-existent causes.
+['ZH_T27_1545_016:0082a27_3']	此中生言說可生義。	此中生言說可生義。	Here, the word born means that which can be born.
+['ZH_T27_1545_016:0082a27_13']	或生相合如品類足說。	或生相合如品類足說。	Or it means the characteristic of birth, as the Prakaraṇa says.
+['ZH_T27_1545_016:0082a28_2']	云何因所生法。	云何因所生法。	What are the dharmas produced by causes?
+['ZH_T27_1545_016:0082a28_9']	謂一切有為法。	謂一切有為法。	It means all conditioned dharmas.
+['ZH_T27_1545_016:0082a29_4']	如彼生言說生未生此亦如是。	如彼生言說生未生此亦如是。	Just as the word born refers to that which is born and that which is yet to be born, so is this.
+['ZH_T27_1545_016:0082a29_15']	問所造色為有俱有因不。	問所造色為有俱有因不。	Question: Do derivative form dharmas have co-existent causes?
+['ZH_T27_1545_016:0082b01_6']	答有一切有為法。	答有一切有為法。	Answer: There are all conditioned dharmas.
+['ZH_T27_1545_016:0082b01_17']	皆有生等相為俱有因故。	皆有生等相為俱有因故。	All have the characteristics of birth, etc. as their co-existent causes.
+['ZH_T27_1545_016:0082b02_13']	問所造色與所造色為俱有因不。	問所造色與所造色為俱有因不。	Question: Do derivative form dharmas have derivative form dharmas as their co-existent causes?
+['ZH_T27_1545_016:0082b03_3']	答有為俱有因。	答有為俱有因。	Answer: There are [dharmas] that are co-existent causes.
+['ZH_T27_1545_016:0082b03_11']	如隨心轉所造色。	如隨心轉所造色。	Such as derivative form that follows the mind.
+['ZH_T27_1545_016:0082b04_9']	問有對造色與有對造色為俱有因不。	問有對造色與有對造色為俱有因不。	Question: Do resistant derivative form dharmas have resistant derivative form dharmas as their co-existent causes?
+['ZH_T27_1545_016:0082b04_12']	答無。	答無。	Answer: No.
+['ZH_T27_1545_016:0082b04_15']	有說。	有說。	Some say:
+['ZH_T27_1545_016:0082b05_3']	亦有如眼根等。	亦有如眼根等。	There are also [dharmas] like the eye faculty, etc.
+['ZH_T27_1545_016:0082b05_16']	有多極微俱生展轉為俱有因。	有多極微俱生展轉為俱有因。	There are many extremely subtle particles that arise together, serving as co-existent causes for each other.
+['ZH_T27_1545_016:0082b06_1']	評曰。	評曰。	The commentators say:
+['ZH_T27_1545_016:0082b06_8']	彼不應作是說。	彼不應作是說。	They should not speak in this way.
+['ZH_T27_1545_016:0082b06_14']	如前說者好。	如前說者好。	The previous explanation is better.
+['ZH_T27_1545_016:0082b07_1']	所以者何。	所以者何。	Why is this?
+['ZH_T27_1545_016:0082b07_11']	同一果義是俱有因義。	同一果義是俱有因義。	The meaning of having the same effect is the meaning of co-existent cause.
+['ZH_T27_1545_016:0082b07_18']	彼非同一果故。	彼非同一果故。	They do not have the same effect.
+['ZH_T27_1545_016:0082b08_8']	然一切心皆有隨轉。	然一切心皆有隨轉。	However, all minds have concomitant [dharmas].
+['ZH_T27_1545_016:0082b08_17']	諸心所法及生等相。	諸心所法及生等相。	The mental factors and characteristics such as birth, etc.
+['ZH_T27_1545_016:0082b09_12']	非一切心皆有隨轉身語業色。	非一切心皆有隨轉身語業色。	Not all minds have concomitant bodily and verbal actions and form.
+['ZH_T27_1545_016:0082b10_3']	隨心轉義總有十種。	隨心轉義總有十種。	The meaning of following the mind is generally of ten kinds.
+['ZH_T27_1545_016:0082b11_1']	謂一起一住一滅一果一等流一異熟。	謂一起一住一滅一果一等流一異熟。	Namely, arising together, abiding together, ceasing together, having the same effect, having the same outflow, having the same ripening.
+['ZH_T27_1545_016:0082b11_10']	善則善不善則不善。	善則善不善則不善。	If good, then good; if bad, then bad.
+['ZH_T27_1545_016:0082b12_3']	無記則無記隨一世中。	無記則無記隨一世中。	If indeterminate, then indeterminate. Following the time period,
+['ZH_T27_1545_016:0082b12_11', 'ZH_T27_1545_016:0082b13_2']	一果者謂離繫果。🔽一等流者謂等流果。	一果者謂離繫果。 一等流者謂等流果。	having the same effect means the disconnection effect.🔽Having the same outflow means the outflow effect.
+['ZH_T27_1545_016:0082b13_11']	一異熟者謂異熟果。	一異熟者謂異熟果。	Having the same ripening means the ripening effect.
+['ZH_T27_1545_016:0082b14_5']	隨法別說此十多少根蘊當說。	隨法別說此十多少根蘊當說。	Following the individual dharmas, the quantity of these ten will be explained in the chapter on the aggregate of faculties.
+['ZH_T27_1545_016:0082b14_13']	問隨轉自性是何。	問隨轉自性是何。	Question: What is the intrinsic nature of the concomitant [dharmas]?
+['ZH_T27_1545_016:0082b15_1']	答四蘊五蘊。	答四蘊五蘊。	Answer: The four aggregates and the five aggregates.
+['ZH_T27_1545_016:0082b15_14']	欲界無色界四蘊無隨轉色故。	欲界無色界四蘊無隨轉色故。	because the four aggregates of the desire realm and formless realm do not have derivative form that accompanies them.
+['ZH_T27_1545_016:0082b16_5']	色界五蘊有隨轉色故。	色界五蘊有隨轉色故。	because the five aggregates of the form realm have derivative form that accompanies them.
+['ZH_T27_1545_016:0082b16_15']	已說自性所以今當說。	已說自性所以今當說。	The intrinsic nature has already been explained. The reason for the name will now be explained.
+['ZH_T27_1545_016:0082b17_4', 'ZH_T27_1545_016:0082b17_14']	問何故名隨轉。🔽答相隨順義是隨轉義。	問何故名隨轉。 答相隨順義是隨轉義。	Question: Why is it called that which accompanies?🔽Answer: The meaning of mutually conforming is the meaning of that which accompanies.
+['ZH_T27_1545_016:0082b18_4']	相攝益義是隨轉義。	相攝益義是隨轉義。	The meaning of mutually benefiting is the meaning of that which accompanies.
+['ZH_T27_1545_016:0082b18_13', 'ZH_T27_1545_016:0082b19_7']	辦一事義是隨轉義。🔽隨心轉法義語心言汝所作事。	辦一事義是隨轉義。 隨心轉法義語心言汝所作事。	The meaning of accomplishing one thing is the meaning of that which accompanies.
+['ZH_T27_1545_016:0082b20_2']	我亦作之心心所法展轉相望。	我亦作之心心所法展轉相望。	The meaning of dharmas that accompany the mind is the language of the mind. The mind says, What you do, I also do. The mind and mental factors mutually relate to each other.
+['ZH_T27_1545_016:0082b20_11']	由五事故說名隨轉。	由五事故說名隨轉。	By five things, it is called that which accompanies.
+['ZH_T27_1545_016:0082b21_1']	謂所依故所緣故。	謂所依故所緣故。	Namely, the supported, the object,
+['ZH_T27_1545_016:0082b21_10']	行相故果故異熟故。	行相故果故異熟故。	the aspect, the effect, and the retribution.
+['ZH_T27_1545_016:0082b22_3']	心與隨心轉色心不相應行。	心與隨心轉色心不相應行。	The mind and derivative form that accompanies the mind, and the mind and dissociated formations that accompany the mind,
+['ZH_T27_1545_016:0082b22_16']	展轉相望由二事故說名隨轉。	展轉相望由二事故說名隨轉。	mutually relate to each other by two things and are called that which accompanies.
+['ZH_T27_1545_016:0082b23_5']	謂果故異熟故。	謂果故異熟故。	Namely, the effect and the retribution.🔽Here is the corrected and aligned text:🔽Here is the corrected and aligned text:
+['ZH_T27_1545_016:0082b24_100']	說一切有部發智大毘婆沙論卷第十六	說一切有部發智大毘婆沙論卷第十六	Here is the corrected and aligned text:

@@ -1,0 +1,731 @@
+segmentnr	original	analyzed	translated
+['ZH_T27_1545_149:0760a17_0']	阿毘達磨大毘婆沙論卷第一百	阿毘達磨大毘婆沙論卷第一百	Abhidharma-mahāvibhāṣā-śāstra, fascicle 100
+['ZH_T27_1545_149:0760a18_0']	四十九	四十九	forty-nine
+['ZH_T27_1545_149:0760a20_0']	五百大阿羅漢等造	五百大阿羅漢等造	composed by five hundred great arhats and others
+['ZH_T27_1545_149:0760a23_8']	三藏法師玄奘奉　詔譯3 觸納息1根蘊第六中觸納息第三之一有十六觸謂有對觸。	三藏法師玄奘奉　詔譯3 觸納息1根蘊第六中觸納息第三之一有十六觸謂有對觸。	tripiṭaka master Xuanzang respectfully received
+['ZH_T27_1545_149:0760a23_12']	增語觸。	增語觸。	contact with increased speech
+['ZH_T27_1545_149:0760a23_15']	明觸。	明觸。	contact with illumination
+['ZH_T27_1545_149:0760a23_19']	無明觸。	無明觸。	contact with ignorance
+['ZH_T27_1545_149:0760a24_6']	非明非無明觸。	非明非無明觸。	contact that is neither illuminating nor non-illuminating
+['ZH_T27_1545_149:0760a24_9']	愛觸。	愛觸。	contact with craving
+['ZH_T27_1545_149:0760a24_12']	恚觸。	恚觸。	contact with anger
+['ZH_T27_1545_149:0760a24_17']	順樂受觸。	順樂受觸。	contact that leads to pleasant feeling
+['ZH_T27_1545_149:0760a25_1']	順苦受觸。	順苦受觸。	contact that leads to painful feeling
+['ZH_T27_1545_149:0760a25_9']	順不苦不樂受觸。	順不苦不樂受觸。	contact that leads to neither painful nor pleasant feeling
+['ZH_T27_1545_149:0760a25_12']	眼觸。	眼觸。	eye contact
+['ZH_T27_1545_149:0760a25_15', 'ZH_T27_1545_149:0760a25_18']	耳觸。🔽鼻觸。	耳觸。 鼻觸。	ear contact🔽nose contact
+['ZH_T27_1545_149:0760a25_21']	舌觸。	舌觸。	tongue contact
+['ZH_T27_1545_149:0760a26_2']	身觸。	身觸。	body contact
+['ZH_T27_1545_149:0760a26_5']	意觸。	意觸。	mind contact
+['ZH_T27_1545_149:0760a26_11']	云何有對觸。	云何有對觸。	What is contact with resistance?
+['ZH_T27_1545_149:0760a26_18']	乃至云何意觸。	乃至云何意觸。	... up to ... What is mind contact?
+['ZH_T27_1545_149:0760a27_3']	如是等章。	如是等章。	Such chapters,
+['ZH_T27_1545_149:0760a27_12']	及解章義既領會已。	及解章義既領會已。	and having understood the meaning of the chapters,
+['ZH_T27_1545_149:0760a27_17']	當廣分別。	當廣分別。	one should extensively distinguish them.
+['ZH_T27_1545_149:0760a28_5']	問何故作此論。	問何故作此論。	Question: Why compose this treatise?
+['ZH_T27_1545_149:0760a28_15']	答為止他宗顯己義故。	答為止他宗顯己義故。	Answer: In order to stop other schools and manifest one's own meaning.
+['ZH_T27_1545_149:0760a29_3']	謂譬喻者說。	謂譬喻者說。	Namely, the allegorists say:
+['ZH_T27_1545_149:0760a29_8']	觸非實有。	觸非實有。	Contact does not really exist.
+['ZH_T27_1545_149:0760a29_13', 'ZH_T27_1545_149:0760a29_18']	所以者何。🔽契經說故。	所以者何。 契經說故。	Why is it so?🔽Because it is said in the sūtras.
+['ZH_T27_1545_149:0760b01_3']	如契經說。	如契經說。	As the sūtras say:🔽...
+['ZH_T27_1545_149:0760b01_12']	眼及色為緣生眼識。	眼及色為緣生眼識。	Eye and form as conditions give rise to eye consciousness.
+['ZH_T27_1545_149:0760b01_18']	三和合觸等。	三和合觸等。	The union of the three is contact, and so on.
+['ZH_T27_1545_149:0760b02_12']	離眼色眼識外實觸體不可得。	離眼色眼識外實觸體不可得。	Apart from eye, form, and eye consciousness, a real substance of contact cannot be found.
+['ZH_T27_1545_149:0760b03_7']	為遮彼意顯觸體是實有。	為遮彼意顯觸體是實有。	To refute that view, it is shown that the substance of contact really exists.
+['ZH_T27_1545_149:0760b03_15']	若觸體非實有者。	若觸體非實有者。	If the substance of contact did not really exist,
+['ZH_T27_1545_149:0760b04_2']	便違經說。	便違經說。	it would contradict the sūtra's statement.
+['ZH_T27_1545_149:0760b04_7']	如契經說。	如契經說。	As a sūtra says:
+['ZH_T27_1545_149:0760b04_12']	觸為緣受。	觸為緣受。	Contact serves as a condition for feeling.
+['ZH_T27_1545_149:0760b05_5']	若無觸者但應說六處緣受。	若無觸者但應說六處緣受。	If there were no contact, it would only say that the six sense bases serve as a condition for feeling.
+['ZH_T27_1545_149:0760b05_16']	或說無緣不應言觸緣受。	或說無緣不應言觸緣受。	Or it would say that feeling has no condition, and should not say that contact serves as a condition for feeling.
+['ZH_T27_1545_149:0760b06_8']	又若觸體非實有者。	又若觸體非實有者。	Moreover, if the substance of contact did not really exist,
+['ZH_T27_1545_149:0760b06_17']	應說緣起唯十一支。	應說緣起唯十一支。	it would only say that dependent arising has eleven members.
+['ZH_T27_1545_149:0760b07_8']	契經不應說有十二。	契經不應說有十二。	The sūtra should not say that there are twelve.
+['ZH_T27_1545_149:0760b07_17']	又若觸體非實有者。	又若觸體非實有者。	Moreover, if the substance of contact did not really exist,
+['ZH_T27_1545_149:0760b08_8']	但應說有九大地法。	但應說有九大地法。	it would only say that there are nine universal mental factors.
+['ZH_T27_1545_149:0760b08_17']	然說有十故觸實有。	然說有十故觸實有。	But since it says there are ten, contact really exists.
+['ZH_T27_1545_149:0760b09_13']	問若觸實有云何會釋彼所引經。	問若觸實有云何會釋彼所引經。	Question: If contact really exists, how do you explain that sūtra passage?
+['ZH_T27_1545_149:0760b11_1']	答彼經意說三法和合為緣生觸非於無體得有生義。	答彼經意說三法和合為緣生觸非於無體得有生義。	Answer: That sūtra means that the union of three dharmas as conditions gives rise to contact. It does not mean that what lacks substance can have the meaning of arising.
+['ZH_T27_1545_149:0760b11_10']	此若不生云何緣受。	此若不生云何緣受。	If it does not arise, how can it be a condition for feeling?
+['ZH_T27_1545_149:0760b11_17']	譬如月月愛珠。	譬如月月愛珠。	It is like the moon, the moon-loving jewel,
+['ZH_T27_1545_149:0760b12_7']	及器和合為緣生水。	及器和合為緣生水。	and the combination of vessels giving rise to water as a condition.
+['ZH_T27_1545_149:0760b12_16']	非無水生得有水用。	非無水生得有水用。	Without the arising of water, water can be used.
+['ZH_T27_1545_149:0760b13_6']	又如日日愛珠。	又如日日愛珠。	Again, it is like the sun, the sun-loving jewel,
+['ZH_T27_1545_149:0760b13_15']	粖薪和合為緣生火。	粖薪和合為緣生火。	and the combination of grains and firewood giving rise to fire as a condition.
+['ZH_T27_1545_149:0760b14_6']	非無火生得有火用。	非無火生得有火用。	Without the arising of fire, fire can be used.
+['ZH_T27_1545_149:0760b15_10']	如是根境及識和合為緣生觸非無觸生得有觸用。	如是根境及識和合為緣生觸非無觸生得有觸用。	In the same way, the combination of faculties, objects, and consciousness gives rise to contact as a condition, and without the arising of contact, contact can be used.
+['ZH_T27_1545_149:0760b16_2']	觸用謂能為緣生受。	觸用謂能為緣生受。	The use of contact refers to being able to give rise to feeling as a condition.
+['ZH_T27_1545_149:0760b16_17']	是故欲止他說顯觸實有而作斯論。	是故欲止他說顯觸實有而作斯論。	Therefore, in order to refute others and show that contact really exists, this treatise is composed.
+['ZH_T27_1545_149:0760b17_9']	問何緣根蘊分別觸耶。	問何緣根蘊分別觸耶。	Question: Why does the aggregate of faculties distinguish contact?
+['ZH_T27_1545_149:0760b18_6']	答彼作論者意欲爾故乃至廣說。	答彼作論者意欲爾故乃至廣說。	Answer: Because the author of the treatise wishes it to be so, and so on.
+['ZH_T27_1545_149:0760b18_13']	復次此不應問。	復次此不應問。	Moreover, this should not be asked.
+['ZH_T27_1545_149:0760b18_18']	所以者何。	所以者何。	Why is it so?
+['ZH_T27_1545_149:0760b19_12']	前已說一一蘊中具一切義故。	前已說一一蘊中具一切義故。	Because it has already been said that each aggregate contains all meanings.
+['ZH_T27_1545_149:0760b20_4']	復次一切法觸所集起。	復次一切法觸所集起。	Moreover, all dharmas arise from the accumulation of contact.
+['ZH_T27_1545_149:0760b20_13']	根由觸生故分別觸。	根由觸生故分別觸。	Because the faculties arise from contact, contact is distinguished.
+['ZH_T27_1545_149:0760b21_5']	復次心心所以觸為命。	復次心心所以觸為命。	Moreover, the reason why mind and mental factors are called contact is because they are the life of contact.
+['ZH_T27_1545_149:0760b22_9']	觸所引觸所轉觸力故現在前此中有根故分別觸。	觸所引觸所轉觸力故現在前此中有根故分別觸。	Because of the power of contact that is drawn out and transformed by contact, it manifests in the present. Because there is a faculty in this, it is distinguished as contact.
+['ZH_T27_1545_149:0760b23_5']	復次先安立諸觸後辯根相應。	復次先安立諸觸後辯根相應。	Furthermore, after first establishing the various contacts, then distinguishing the faculties that correspond to them.
+['ZH_T27_1545_149:0760b23_17']	根以觸為章故應先分別觸。	根以觸為章故應先分別觸。	Because the faculties take contact as their chapter, they should first be distinguished as contact.
+['ZH_T27_1545_149:0760b24_5']	問諸聖教中。	問諸聖教中。	Question: In the various holy teachings,
+['ZH_T27_1545_149:0760b25_1']	或說一觸如心所中立觸心所。	或說一觸如心所中立觸心所。	sometimes one contact is spoken of, like establishing the mental factor of contact among the mental factors,
+['ZH_T27_1545_149:0760b25_12']	十大地法中立觸大地法。	十大地法中立觸大地法。	or establishing contact as a great ground dharma among the ten great ground dharmas.
+['ZH_T27_1545_149:0760b26_9']	或說二觸謂有漏無漏縛解繫不繫。	或說二觸謂有漏無漏縛解繫不繫。	Sometimes two contacts are spoken of, namely contaminated and uncontaminated, bound and liberated, bound and unbound.
+['ZH_T27_1545_149:0760b26_14']	或說三觸。	或說三觸。	Sometimes three contacts are spoken of,
+['ZH_T27_1545_149:0760b27_6']	謂下中上善不善無記。	謂下中上善不善無記。	namely inferior, middling, and superior, wholesome, unwholesome, and indeterminate.
+['ZH_T27_1545_149:0760b27_11']	或說四觸。	或說四觸。	Sometimes four contacts are spoken of,
+['ZH_T27_1545_149:0760b27_19']	謂三界繫及不繫。	謂三界繫及不繫。	namely bound to the three realms and unbound.
+['ZH_T27_1545_149:0760b28_4']	或說五觸。	或說五觸。	Sometimes five contacts are spoken of,
+['ZH_T27_1545_149:0760b28_13']	謂三界繫及學無學。	謂三界繫及學無學。	namely bound to the three realms and learner and post-learner.
+['ZH_T27_1545_149:0760b28_18']	或說六觸。	或說六觸。	Sometimes six contacts are spoken of,
+['ZH_T27_1545_149:0760b29_7']	謂眼觸乃至意觸。	謂眼觸乃至意觸。	namely eye contact up to mind contact.
+['ZH_T27_1545_149:0760b29_12']	或說七觸。	或說七觸。	Sometimes seven contacts are spoken of,
+['ZH_T27_1545_149:0760b29_18']	謂見苦所斷。	謂見苦所斷。	namely those eliminated by seeing suffering,
+['ZH_T27_1545_149:0760c01_4']	乃至修所斷。	乃至修所斷。	up to those eliminated by cultivation,
+['ZH_T27_1545_149:0760c01_13']	并學無學或說八觸。	并學無學或說八觸。	and learner and post-learner. Sometimes eight contacts are spoken of,
+['ZH_T27_1545_149:0760c02_5']	謂見苦所斷乃至修所斷。	謂見苦所斷乃至修所斷。	That is, those eliminated by seeing suffering, up to those eliminated by cultivation,
+['ZH_T27_1545_149:0760c02_14']	及見道修道無學道。	及見道修道無學道。	and those eliminated by the path of seeing, the path of cultivation, and the path of no-more-learning.
+['ZH_T27_1545_149:0760c03_7']	或說九觸謂下下乃至上上。	或說九觸謂下下乃至上上。	Or it is said that there are nine kinds of contact, from the lowest of the low up to the highest of the high.
+['ZH_T27_1545_149:0760c03_12']	或說十觸。	或說十觸。	Or it is said that there are ten kinds of contact.
+['ZH_T27_1545_149:0760c03_17']	謂欲界繫。	謂欲界繫。	That is, those belonging to the desire realm,
+['ZH_T27_1545_149:0760c04_10']	乃至非想非非想處繫及不繫。	乃至非想非非想處繫及不繫。	up to those belonging to the sphere of neither-perception-nor-non-perception, and those unattached.
+['ZH_T27_1545_149:0760c05_5']	若約相續剎那分別則有無量。	若約相續剎那分別則有無量。	If distinguished by continuity and moment, there are innumerable [kinds of contact].
+['ZH_T27_1545_149:0760c05_17']	何故此中於一等廣說十六。	何故此中於一等廣說十六。	Why is it that here, for one [kind of contact], it is explained in detail as sixteen,
+['ZH_T27_1545_149:0760c06_8']	於無量略說十六耶。	於無量略說十六耶。	and for innumerable [kinds of contact], it is explained in brief as sixteen?
+['ZH_T27_1545_149:0760c07_5']	答由六因緣不略不廣說十六觸。	答由六因緣不略不廣說十六觸。	The answer is: for six reasons, neither in brief nor in detail, sixteen kinds of contact are explained.
+['ZH_T27_1545_149:0760c07_10']	謂所緣故。	謂所緣故。	That is, due to the object,
+['ZH_T27_1545_149:0760c07_17']	障治故自性故。	障治故自性故。	due to obstruction and treatment, due to intrinsic nature,
+['ZH_T27_1545_149:0760c08_8']	違順故相應故所依故。	違順故相應故所依故。	due to opposition and conformity, due to association, and due to the basis.
+['ZH_T27_1545_149:0760c09_3']	由所緣故立有對觸增語觸。	由所緣故立有對觸增語觸。	Due to the object, contact with resistance and contact with conceptualization are established.
+['ZH_T27_1545_149:0760c09_14']	由障治故立明觸無明觸。	由障治故立明觸無明觸。	Due to obstruction and treatment, contact with illumination and contact with ignorance are established.
+['ZH_T27_1545_149:0760c10_8']	由自性故立非明非無明觸。	由自性故立非明非無明觸。	Due to intrinsic nature, contact that is neither illuminating nor non-illuminating is established.
+['ZH_T27_1545_149:0760c11_1']	由違順故立愛觸恚觸。	由違順故立愛觸恚觸。	Due to opposition and conformity, contact with craving and contact with aversion are established.
+['ZH_T27_1545_149:0760c11_11']	由相應故立順樂受觸。	由相應故立順樂受觸。	Due to association, contact that accords with pleasant feeling is established.
+['ZH_T27_1545_149:0760c12_16']	順苦受觸順不苦不樂受觸由所依故立眼觸乃至意觸。	順苦受觸順不苦不樂受觸由所依故立眼觸乃至意觸。	Contact associated with pain and contact associated with neither-pain-nor-pleasure are established as eye contact up to mind contact based on the basis.
+['ZH_T27_1545_149:0760c13_5']	云何有對觸。	云何有對觸。	What is contact with resistance?
+['ZH_T27_1545_149:0760c13_13']	答五識身相應觸。	答五識身相應觸。	Answer: Contact associated with the five groups of consciousness.
+['ZH_T27_1545_149:0760c14_12']	問何故此觸名有對答以有對法為所緣故。	問何故此觸名有對答以有對法為所緣故。	Why is this contact called with resistance? It is because it takes resistant dharmas as its object.
+['ZH_T27_1545_149:0760c15_8']	問增語觸亦以有對法為所緣。	問增語觸亦以有對法為所緣。	Question: Contact associated with discursive thought also takes resistant dharmas as its object.
+['ZH_T27_1545_149:0760c15_17']	何故此觸獨名有對。	何故此觸獨名有對。	Why is this contact alone called with resistance?
+['ZH_T27_1545_149:0760c16_11']	答此觸以初故得名增語觸。	答此觸以初故得名增語觸。	Answer: This contact is called first, and contact associated with discursive thought is called later.
+['ZH_T27_1545_149:0760c17_1']	更以餘緣建立。	更以餘緣建立。	It is established based on other conditions.
+['ZH_T27_1545_149:0760c17_4']	有說。	有說。	Some say:
+['ZH_T27_1545_149:0760c17_15']	此觸但以有對法為所緣。	此觸但以有對法為所緣。	This contact only takes resistant dharmas as its object.
+['ZH_T27_1545_149:0760c18_4']	增語觸亦緣餘法。	增語觸亦緣餘法。	Contact associated with discursive thought also takes other dharmas as its object.
+['ZH_T27_1545_149:0760c18_7']	有說。	有說。	Some say:
+['ZH_T27_1545_149:0760c18_18']	此觸所依所緣皆是有對。	此觸所依所緣皆是有對。	The basis and object of this contact are both resistant.
+['ZH_T27_1545_149:0760c20_1']	增語觸所緣雖或有對所依不爾故別立名。	增語觸所緣雖或有對所依不爾故別立名。	Although the object of contact associated with discursive thought may be resistant, its basis is not, so it is established with a separate name.
+['ZH_T27_1545_149:0760c20_7']	云何增語觸。	云何增語觸。	What is contact associated with discursive thought?
+['ZH_T27_1545_149:0760c21_4']	答意識身相應觸問何故此觸名增語。	答意識身相應觸問何故此觸名增語。	Answer: Contact associated with the group of mental consciousness. Question: Why is this contact called with discursive thought?
+['ZH_T27_1545_149:0760c21_17']	答由此觸自性語增故名增語。	答由此觸自性語增故名增語。	Answer: Because this contact is characterized by language, it is called with linguistic expression.
+['ZH_T27_1545_149:0760c22_9']	問云何此觸自性語增。	問云何此觸自性語增。	Question: How is this contact characterized by language?
+['ZH_T27_1545_149:0760c23_1']	答有對觸唯欲色界繫。	答有對觸唯欲色界繫。	Answer: Resistant contact is only bound to the desire realm and form realm.
+['ZH_T27_1545_149:0760c23_11']	此觸通三界繫及不繫。	此觸通三界繫及不繫。	This contact is bound to the three realms and is also unbound.
+['ZH_T27_1545_149:0760c23_19']	又有對觸唯欲界。	又有對觸唯欲界。	Moreover, resistant contact is only in the desire realm.
+['ZH_T27_1545_149:0760c24_6']	初靜慮地可得。	初靜慮地可得。	It can be obtained in the first dhyāna stage.
+['ZH_T27_1545_149:0760c24_14']	此觸一切地可得。	此觸一切地可得。	This contact can be obtained in all stages.
+['ZH_T27_1545_149:0760c25_3']	又有對觸唯有漏。	又有對觸唯有漏。	Moreover, resistant contact is only contaminated.
+['ZH_T27_1545_149:0760c25_11']	此觸通有漏無漏。	此觸通有漏無漏。	This contact is both contaminated and uncontaminated.
+['ZH_T27_1545_149:0760c26_2']	由此等故自性語增。	由此等故自性語增。	For these reasons, it is characterized by language.
+['ZH_T27_1545_149:0760c26_5']	有說。	有說。	Some say:
+['ZH_T27_1545_149:0760c26_16']	此觸所緣語增故名增語。	此觸所緣語增故名增語。	This contact is called with linguistic expression because its object is language.
+['ZH_T27_1545_149:0760c27_6']	問云何此觸所緣語增。	問云何此觸所緣語增。	Question: How is the object of this contact characterized by language?
+['ZH_T27_1545_149:0760c28_1']	答有對觸唯以有色法為所緣。	答有對觸唯以有色法為所緣。	Answer: Resistant contact only takes form as its object.
+['ZH_T27_1545_149:0760c28_10']	此觸通緣有色無色。	此觸通緣有色無色。	This contact takes both form and formlessness as its object.
+['ZH_T27_1545_149:0760c29_4']	又有對觸但以有對法為所緣。	又有對觸但以有對法為所緣。	Moreover, resistant contact only takes resistant dharmas as its object.
+['ZH_T27_1545_149:0760c29_13']	此觸通緣有對無對。	此觸通緣有對無對。	This contact takes both resistant and non-resistant as its object.
+['ZH_T27_1545_149:0761a01_7']	又有對觸但以有漏法為所緣。	又有對觸但以有漏法為所緣。	Moreover, resistant contact only takes contaminated dharmas as its object.
+['ZH_T27_1545_149:0761a01_16']	此觸通緣有漏無漏。	此觸通緣有漏無漏。	This contact takes both contaminated and uncontaminated as its object.
+['ZH_T27_1545_149:0761a03_3']	又有對觸但以有為法為所緣此觸通緣有為無為。	又有對觸但以有為法為所緣此觸通緣有為無為。	Moreover, resistant contact only takes conditioned dharmas as its object, while this contact can universally take conditioned and unconditioned dharmas as its object.
+['ZH_T27_1545_149:0761a03_12']	由此等故所緣語增。	由此等故所緣語增。	For these reasons, the term with discursive thought is added.
+['ZH_T27_1545_149:0761a03_15', 'ZH_T27_1545_149:0761a03_19']	有說。🔽增語者。	有說。 增語者。	Some say:
+['ZH_T27_1545_149:0761a04_10']	謂名此觸緣名故名增語。	謂名此觸緣名故名增語。	Discursive thought refers to names. This contact is called with discursive thought because it takes names as its object.
+['ZH_T27_1545_149:0761a05_3']	雖亦緣義而非不共故。	雖亦緣義而非不共故。	Although it also takes meanings as its object, it is not common to all.
+['ZH_T27_1545_149:0761a05_14']	隨不共立名依別立通名。	隨不共立名依別立通名。	Therefore, the name is established according to the uncommon aspect, while the general name is established according to the common aspect.
+['ZH_T27_1545_149:0761a06_3']	如苦集智等。	如苦集智等。	Like the knowledge of suffering and accumulation, etc.
+['ZH_T27_1545_149:0761a06_8']	云何明觸。	云何明觸。	What is clear contact?
+['ZH_T27_1545_149:0761a07_2']	答無漏觸即三無漏根相應觸。	答無漏觸即三無漏根相應觸。	The answer is: Uncontaminated contact is contact associated with the three uncontaminated faculties.
+['ZH_T27_1545_149:0761a07_8']	云何無明觸。	云何無明觸。	What is ignorance contact?
+['ZH_T27_1545_149:0761a08_5']	答染污觸即一切煩惱隨煩惱相應觸。	答染污觸即一切煩惱隨煩惱相應觸。	The answer is: Defiled contact is contact associated with all afflictions and secondary afflictions.
+['ZH_T27_1545_149:0761a08_14']	云何非明非無明觸。	云何非明非無明觸。	What is neither clear nor unclear contact?
+['ZH_T27_1545_149:0761a09_2']	答不染有漏觸。	答不染有漏觸。	The answer is: Undefiled contaminated contact.
+['ZH_T27_1545_149:0761a09_11', 'ZH_T27_1545_149:0761a09_19']	此中問答各有二遮。🔽謂非明者遮明觸。	此中問答各有二遮。 謂非明者遮明觸。	Here, each question and answer has two negations.🔽Neither clear negates clear contact.
+['ZH_T27_1545_149:0761a10_8', 'ZH_T27_1545_149:0761a10_16']	非無明者遮無明觸。🔽不染者遮染污觸。	非無明者遮無明觸。 不染者遮染污觸。	Nor unclear negates ignorance contact.🔽Undefiled negates defiled contact.
+['ZH_T27_1545_149:0761a11_5']	有漏者遮無漏觸。	有漏者遮無漏觸。	Contaminated negates uncontaminated contact.
+['ZH_T27_1545_149:0761a12_7']	由此遮故此體唯攝一切有漏善無覆無記觸。	由此遮故此體唯攝一切有漏善無覆無記觸。	Because of this exclusion, its substance includes only all contaminated wholesome and non-obscuring-non-defined contacts.
+['ZH_T27_1545_149:0761a12_12']	云何愛觸。	云何愛觸。	What is the contact of craving?
+['ZH_T27_1545_149:0761a12_18']	答貪相應觸。	答貪相應觸。	Answer: The contact associated with craving.
+['ZH_T27_1545_149:0761a13_14']	即三界五部所斷六識身俱貪相應觸。	即三界五部所斷六識身俱貪相應觸。	It is the contact associated with craving that accompanies the six consciousnesses to be eliminated in the three realms and the five categories.
+['ZH_T27_1545_149:0761a14_1']	云何恚觸。	云何恚觸。	What is the contact of aversion?
+['ZH_T27_1545_149:0761a14_7']	答瞋相應觸。	答瞋相應觸。	Answer: The contact associated with aversion.
+['ZH_T27_1545_149:0761a15_1']	即五所斷六識身俱瞋相應觸。	即五所斷六識身俱瞋相應觸。	It is the contact associated with aversion that accompanies the six consciousnesses to be eliminated in the five [categories].
+['ZH_T27_1545_149:0761a15_8']	云何順樂受觸。	云何順樂受觸。	What is the contact that is conducive to the experience of pleasure?
+['ZH_T27_1545_149:0761a15_15']	答樂受相應觸。	答樂受相應觸。	Answer: The contact associated with the experience of pleasure.
+['ZH_T27_1545_149:0761a16_3']	即樂喜根相應觸。	即樂喜根相應觸。	It is the contact associated with the faculties of pleasure and joy.
+['ZH_T27_1545_149:0761a16_10']	云何順苦受觸。	云何順苦受觸。	What is the contact that is conducive to the experience of pain?
+['ZH_T27_1545_149:0761a16_17']	答苦受相應觸。	答苦受相應觸。	Answer: The contact associated with the experience of pain.
+['ZH_T27_1545_149:0761a17_5']	即苦憂根相應觸。	即苦憂根相應觸。	It is the contact associated with the faculties of pain and sorrow.
+['ZH_T27_1545_149:0761a17_15']	云何順不苦不樂受觸。	云何順不苦不樂受觸。	What is the contact that is conducive to the experience of neither pleasure nor pain?
+['ZH_T27_1545_149:0761a18_6']	答不苦不樂受相應觸。	答不苦不樂受相應觸。	Answer: The contact associated with the experience of neither pleasure nor pain.
+['ZH_T27_1545_149:0761a18_13']	即捨根相應觸。	即捨根相應觸。	It is the contact associated with the faculty of equanimity.
+['ZH_T27_1545_149:0761a18_18']	云何眼觸。	云何眼觸。	What is eye contact?
+['ZH_T27_1545_149:0761a19_6']	答眼識身相應觸。	答眼識身相應觸。	Answer: The contact associated with the eye consciousness.
+['ZH_T27_1545_149:0761a19_13']	乃至云何意觸。	乃至云何意觸。	Up to what is mind contact?
+['ZH_T27_1545_149:0761a20_13']	答意識身相應觸謂依眼等根生故名眼等觸。	答意識身相應觸謂依眼等根生故名眼等觸。	Answer: The contact associated with the mind consciousness. It is called eye, etc. contact because it arises in dependence on the eye, etc. faculties.
+['ZH_T27_1545_149:0761a21_5']	顯自性已當辯相攝。	顯自性已當辯相攝。	Having explained its intrinsic nature, we will now discuss its inclusion.
+['ZH_T27_1545_149:0761a21_14']	然有一觸攝諸觸盡。	然有一觸攝諸觸盡。	However, there is one type of contact that includes all contacts.
+['ZH_T27_1545_149:0761a22_5']	謂心所中一觸自性。	謂心所中一觸自性。	Namely, the intrinsic nature of contact among mental factors.
+['ZH_T27_1545_149:0761a22_14']	此中二觸攝諸觸盡。	此中二觸攝諸觸盡。	Here, two types of contact include all contacts.
+['ZH_T27_1545_149:0761a23_11']	謂有對觸增語觸復有三觸攝諸觸盡。	謂有對觸增語觸復有三觸攝諸觸盡。	Namely, contact with resistance and contact with conceptualization. There are also three types of contact that include all contacts.
+['ZH_T27_1545_149:0761a23_16']	謂明無明。	謂明無明。	Namely, contact with knowledge, contact with ignorance,
+['ZH_T27_1545_149:0761a24_5']	非明非無明觸。	非明非無明觸。	and contact that is neither with knowledge nor ignorance.
+['ZH_T27_1545_149:0761a24_18']	及順樂順苦順不苦不樂受觸。	及順樂順苦順不苦不樂受觸。	And contact that accords with pleasant, painful, and neither-pleasant-nor-painful feelings.
+['ZH_T27_1545_149:0761a25_8']	復有六觸攝諸觸盡。	復有六觸攝諸觸盡。	There are also six types of contact that include all contacts.
+['ZH_T27_1545_149:0761a25_16']	謂眼觸乃至意觸。	謂眼觸乃至意觸。	Namely, eye contact up to mind contact.
+['ZH_T27_1545_149:0761a26_6']	問有對觸攝幾觸。	問有對觸攝幾觸。	Question: How many types of contact are included in contact with resistance?
+['ZH_T27_1545_149:0761a26_15']	乃至意觸攝幾觸耶。	乃至意觸攝幾觸耶。	Up to how many types of contact are included in mind contact?
+['ZH_T27_1545_149:0761a27_9']	答有對觸攝六觸全七觸少分。	答有對觸攝六觸全七觸少分。	Answer: Contact with resistance includes six types of contact in their entirety and a part of seven types of contact.
+['ZH_T27_1545_149:0761a27_13']	六全者。	六全者。	The six in their entirety are:
+['ZH_T27_1545_149:0761a28_6']	謂有對觸眼耳鼻舌身觸。	謂有對觸眼耳鼻舌身觸。	Contact with resistance, eye, ear, nose, tongue, and body contact.
+['ZH_T27_1545_149:0761a28_11']	七少分者。	七少分者。	The part of seven is:
+['ZH_T27_1545_149:0761a29_2']	謂無明非明非無明觸。	謂無明非明非無明觸。	Contact with ignorance, neither with knowledge nor ignorance,
+['ZH_T27_1545_149:0761a29_6', 'ZH_T27_1545_149:0761a29_11']	愛恚觸。🔽順樂順苦。	愛恚觸。 順樂順苦。	contact with craving and aversion,🔽contact that accords with pleasant, painful,
+['ZH_T27_1545_149:0761a29_19']	順不苦不樂受觸。	順不苦不樂受觸。	and neither-pleasant-nor-painful feelings.
+['ZH_T27_1545_149:0761b01_8']	問云何此攝彼七少分。	問云何此攝彼七少分。	Question: How does this include seven of the seven contacts?
+['ZH_T27_1545_149:0761b01_18']	答彼七通與六識相應。	答彼七通與六識相應。	Answer: Those seven are all associated with the six consciousnesses.
+['ZH_T27_1545_149:0761b02_11']	此唯攝五識相應故言少分。	此唯攝五識相應故言少分。	This only includes those associated with the five consciousnesses, therefore it is said to be a part.
+['ZH_T27_1545_149:0761b03_2']	增語觸攝三觸全。	增語觸攝三觸全。	The contact of discursive thought includes all three contacts,
+['ZH_T27_1545_149:0761b03_7']	七觸少分。	七觸少分。	And a part of the seven contacts.
+['ZH_T27_1545_149:0761b03_11']	三全者。	三全者。	The three complete ones are:
+['ZH_T27_1545_149:0761b03_20']	謂增語觸明觸意觸。	謂增語觸明觸意觸。	The contact of discursive thought, the contact of understanding, and the contact of the mind.
+['ZH_T27_1545_149:0761b04_7']	七少分者如前說。	七少分者如前說。	The part of the seven is as explained above.
+['ZH_T27_1545_149:0761b04_17']	問云何此攝彼七少分。	問云何此攝彼七少分。	Question: How does this include seven of the seven contacts?
+['ZH_T27_1545_149:0761b05_8']	答彼七通與六識相應。	答彼七通與六識相應。	Answer: Those seven are all associated with the six consciousnesses.
+['ZH_T27_1545_149:0761b06_3']	此唯攝意識相應故言少分。	此唯攝意識相應故言少分。	This only includes those associated with the mental consciousness, therefore it is said to be a part.
+['ZH_T27_1545_149:0761b06_10']	明觸攝明觸全。	明觸攝明觸全。	The contact of understanding includes all the contact of understanding,
+['ZH_T27_1545_149:0761b06_15']	四觸少分。	四觸少分。	And a part of the four contacts.
+['ZH_T27_1545_149:0761b07_1']	謂增語觸。	謂增語觸。	Namely, the contact of discursive thought,
+['ZH_T27_1545_149:0761b07_13']	順樂順不苦不樂受觸意觸。	順樂順不苦不樂受觸意觸。	The contact that accords with pleasant, painful, and neither-pleasant-nor-painful feelings, and the contact of the mind.
+['ZH_T27_1545_149:0761b08_4']	問云何此攝彼四少分。	問云何此攝彼四少分。	Question: How does this include four of the four contacts?
+['ZH_T27_1545_149:0761b08_13']	答彼四通有漏無漏。	答彼四通有漏無漏。	Answer: Those four are both contaminated and uncontaminated.
+['ZH_T27_1545_149:0761b09_4']	此唯攝無漏故言少分。	此唯攝無漏故言少分。	This only includes the uncontaminated, therefore it is said to be a part.
+['ZH_T27_1545_149:0761b09_12']	無明觸攝三觸全。	無明觸攝三觸全。	The contact of ignorance includes all three contacts,
+['ZH_T27_1545_149:0761b09_18']	十一觸少分。	十一觸少分。	And a part of the eleven contacts.
+['ZH_T27_1545_149:0761b10_3']	三全者。	三全者。	The three complete ones are:
+['ZH_T27_1545_149:0761b10_11']	謂無明觸愛恚觸。	謂無明觸愛恚觸。	Namely, the contact of ignorance, the contact of craving, and the contact of aversion.
+['ZH_T27_1545_149:0761b10_17']	十一少分者。	十一少分者。	Eleven parts means
+['ZH_T27_1545_149:0761b11_4']	謂有對增語觸。	謂有對增語觸。	namely, the contact of resistance and expression.
+['ZH_T27_1545_149:0761b11_16']	順樂順苦順不苦不樂受觸。	順樂順苦順不苦不樂受觸。	The contact that accords with pleasant, painful, and neither-unpleasant-nor-painful feelings.
+['ZH_T27_1545_149:0761b12_4']	眼觸乃至意觸。	眼觸乃至意觸。	The contact of the eye, and so on up to the contact of the mind.
+['ZH_T27_1545_149:0761b12_15']	問云何此攝彼十一少分。	問云何此攝彼十一少分。	Question: How does this include eleven parts of that?
+['ZH_T27_1545_149:0761b13_5']	答彼十一通染不染。	答彼十一通染不染。	Answer: Those eleven are both defiled and undefiled.
+['ZH_T27_1545_149:0761b13_14']	此唯攝染故言少分。	此唯攝染故言少分。	This only includes the defiled, therefore it is said to be a part.
+['ZH_T27_1545_149:0761b14_3']	非明非無明觸。	非明非無明觸。	The contact that is neither clear nor unclear
+['ZH_T27_1545_149:0761b14_12']	攝非明非無明觸全。	攝非明非無明觸全。	includes the contact that is neither clear nor unclear in its entirety.
+['ZH_T27_1545_149:0761b14_18']	十一觸少分。	十一觸少分。	Eleven contacts in part.
+['ZH_T27_1545_149:0761b15_3']	謂如前說。	謂如前說。	Namely, as explained above.
+['ZH_T27_1545_149:0761b15_14']	問云何此攝彼十一少分。	問云何此攝彼十一少分。	Question: How does this include eleven parts of that?
+['ZH_T27_1545_149:0761b16_5']	答即前十一通染不染。	答即前十一通染不染。	Answer: Those eleven are both defiled and undefiled.
+['ZH_T27_1545_149:0761b16_14']	不染有通有漏無漏。	不染有通有漏無漏。	The undefiled are both contaminated and uncontaminated.
+['ZH_T27_1545_149:0761b17_8']	此唯攝不染有漏故言少分。	此唯攝不染有漏故言少分。	This only includes the contaminated undefiled, therefore it is said to be a part.
+['ZH_T27_1545_149:0761b17_15']	愛觸攝愛觸全。	愛觸攝愛觸全。	The contact of craving includes the contact of craving in its entirety.
+['ZH_T27_1545_149:0761b18_3']	十一觸少分。	十一觸少分。	Eleven contacts in part.
+['ZH_T27_1545_149:0761b18_10']	謂有對增語觸。	謂有對增語觸。	Namely, the contact of resistance and expression.
+['ZH_T27_1545_149:0761b18_14']	無明觸。	無明觸。	The contact of ignorance.
+['ZH_T27_1545_149:0761b19_4']	順樂順不苦不樂受觸。	順樂順不苦不樂受觸。	The contact that accords with pleasant and neither-unpleasant-nor-painful feelings.
+['ZH_T27_1545_149:0761b19_11']	眼觸乃至意觸。	眼觸乃至意觸。	Eye contact up to mind contact.
+['ZH_T27_1545_149:0761b20_3']	問云何此攝彼十一少分。	問云何此攝彼十一少分。	Question: How does this include part of those eleven?
+['ZH_T27_1545_149:0761b20_16']	答彼十一通與貪俱生不俱生。	答彼十一通與貪俱生不俱生。	Answer: Those eleven are both associated with and not associated with craving.
+['ZH_T27_1545_149:0761b21_7']	此唯攝俱生故言少分。	此唯攝俱生故言少分。	This only includes those that are associated, therefore it is said to be part.
+['ZH_T27_1545_149:0761b21_14']	恚觸攝恚觸全。	恚觸攝恚觸全。	The contact of anger includes the entire contact of anger.
+['ZH_T27_1545_149:0761b22_2']	十一觸少分。	十一觸少分。	And part of the eleven contacts.
+['ZH_T27_1545_149:0761b22_9']	謂有對增語觸。	謂有對增語觸。	Namely, the contacts of obstruction and verbal expression.
+['ZH_T27_1545_149:0761b22_13']	無明觸。	無明觸。	The contact of ignorance.
+['ZH_T27_1545_149:0761b23_3']	順苦順不苦不樂受觸。	順苦順不苦不樂受觸。	The contacts of leading to suffering and to neither-unpleasant-nor-pleasant feeling.
+['ZH_T27_1545_149:0761b23_10']	眼觸乃至意觸。	眼觸乃至意觸。	Eye contact up to mind contact.
+['ZH_T27_1545_149:0761b24_2']	問云何此攝彼十一少分。	問云何此攝彼十一少分。	Question: How does this include part of those eleven?
+['ZH_T27_1545_149:0761b24_15']	答彼十一通與瞋俱生不俱生。	答彼十一通與瞋俱生不俱生。	Answer: Those eleven are both associated with and not associated with hatred.
+['ZH_T27_1545_149:0761b25_6']	此唯攝俱生故言少分。	此唯攝俱生故言少分。	This only includes those that are associated, therefore it is said to be part.
+['ZH_T27_1545_149:0761b25_17']	順樂受觸攝順樂受觸全。	順樂受觸攝順樂受觸全。	The contact of leading to pleasant feeling includes the entire contact of leading to pleasant feeling.
+['ZH_T27_1545_149:0761b26_4']	十二觸少分。	十二觸少分。	And part of the twelve contacts.
+['ZH_T27_1545_149:0761b26_11']	謂有對增語觸。	謂有對增語觸。	Namely, the contacts of obstruction and verbal expression.
+['ZH_T27_1545_149:0761b26_15']	明無明。	明無明。	Knowledge and ignorance.
+['ZH_T27_1545_149:0761b27_4']	非明非無明觸愛觸。	非明非無明觸愛觸。	The contacts of neither-knowledge-nor-ignorance and craving.
+['ZH_T27_1545_149:0761b27_11']	眼觸乃至意觸。	眼觸乃至意觸。	Eye contact up to mind contact.
+['ZH_T27_1545_149:0761b28_3']	問云何此攝彼十二少分。	問云何此攝彼十二少分。	Question: How does this include part of those twelve?
+['ZH_T27_1545_149:0761b28_17']	答彼十二通與樂受俱生不俱生。	答彼十二通與樂受俱生不俱生。	Answer: Those twelve are both associated with and not associated with the feeling of pleasure.
+['ZH_T27_1545_149:0761b29_8']	此唯攝俱生故言少分。	此唯攝俱生故言少分。	This only includes those that are associated, therefore it is said to be a part.
+['ZH_T27_1545_149:0761c01_2']	順苦受觸攝順苦受觸全。	順苦受觸攝順苦受觸全。	Contact that is favorable to the feeling of pain includes all contact that is favorable to the feeling of pain,
+['ZH_T27_1545_149:0761c01_8']	十一觸少分。	十一觸少分。	And eleven kinds of contact in part.
+['ZH_T27_1545_149:0761c01_15']	謂有對增語觸。	謂有對增語觸。	Namely, contact that is resistant and that which has verbal expression.
+['ZH_T27_1545_149:0761c01_18']	無明。	無明。	Ignorance.
+['ZH_T27_1545_149:0761c02_4']	非明非無明觸。	非明非無明觸。	Contact that is neither clear nor unclear.
+['ZH_T27_1545_149:0761c02_13']	恚觸眼觸乃至意觸。	恚觸眼觸乃至意觸。	Contact of anger, contact of the eye, up to contact of the mind.
+['ZH_T27_1545_149:0761c03_5']	問云何此攝彼十一少分。	問云何此攝彼十一少分。	Question: How does this include those eleven in part?
+['ZH_T27_1545_149:0761c04_1']	答彼十一通與苦受俱生不俱生。	答彼十一通與苦受俱生不俱生。	Answer: Those eleven are both associated with and not associated with the feeling of pain.
+['ZH_T27_1545_149:0761c04_11']	此唯攝俱生故言少分。	此唯攝俱生故言少分。	This only includes those that are associated, therefore it is said to be a part.
+['ZH_T27_1545_149:0761c05_1']	順不苦不樂受觸。	順不苦不樂受觸。	Contact that is favorable to the feeling of neither pain nor pleasure,
+['ZH_T27_1545_149:0761c05_11']	攝順不苦不樂受觸全。	攝順不苦不樂受觸全。	Includes all contact that is favorable to the feeling of neither pain nor pleasure,
+['ZH_T27_1545_149:0761c05_17']	十三觸少分。	十三觸少分。	And thirteen kinds of contact in part.
+['ZH_T27_1545_149:0761c06_7', 'ZH_T27_1545_149:0761c06_14']	謂有對增語觸明無明。🔽非明非無明觸。	謂有對增語觸明無明。 非明非無明觸。	Namely, contact that is resistant and that which has verbal expression, contact that is clear, contact that is unclear,
+['ZH_T27_1545_149:0761c06_18']	愛恚觸。	愛恚觸。	Contact that is neither clear nor unclear, contact of craving, contact of anger,
+['ZH_T27_1545_149:0761c07_5']	眼觸乃至意觸。	眼觸乃至意觸。	Contact of the eye, up to contact of the mind.
+['ZH_T27_1545_149:0761c07_16']	問云何此攝彼十三少分。	問云何此攝彼十三少分。	Question: How does this include those thirteen in part?
+['ZH_T27_1545_149:0761c08_11']	答彼十三通與捨受俱生不俱生。	答彼十三通與捨受俱生不俱生。	Answer: Those thirteen are both associated with and not associated with the feeling of equanimity.
+['ZH_T27_1545_149:0761c09_4']	此唯攝俱生故言少分。	此唯攝俱生故言少分。	This only includes those that arise together, so it is said to be a small portion.
+['ZH_T27_1545_149:0761c09_11']	眼觸攝眼觸全。	眼觸攝眼觸全。	Eye contact includes all eye contact,
+['ZH_T27_1545_149:0761c09_16']	八觸少分。	八觸少分。	and a small portion of eight contacts.
+['ZH_T27_1545_149:0761c10_1']	謂有對觸。	謂有對觸。	Namely, resistant contact,
+['ZH_T27_1545_149:0761c10_4']	無明。	無明。	ignorance,
+['ZH_T27_1545_149:0761c10_11']	非明非無明觸。	非明非無明觸。	contact that is neither clear nor unclear,
+['ZH_T27_1545_149:0761c10_15', 'ZH_T27_1545_149:0761c10_20']	愛恚觸。🔽順樂順苦。	愛恚觸。 順樂順苦。	contact of love and aversion,🔽contact that accords with pleasure, suffering,
+['ZH_T27_1545_149:0761c11_6']	順不苦不樂受觸。	順不苦不樂受觸。	and neither pleasure nor suffering.
+['ZH_T27_1545_149:0761c11_16']	問云何此攝彼八少分。	問云何此攝彼八少分。	How does this include a small portion of those eight?
+['ZH_T27_1545_149:0761c12_10']	答彼八通與眼識相應不相應。	答彼八通與眼識相應不相應。	The answer is: those eight are common to being associated or not associated with eye consciousness.
+['ZH_T27_1545_149:0761c13_2']	此唯攝相應故言少分。	此唯攝相應故言少分。	This only includes those that are associated, so it is said to be a small portion.
+['ZH_T27_1545_149:0761c13_6']	如眼觸。	如眼觸。	As with eye contact,
+['ZH_T27_1545_149:0761c13_14']	耳鼻舌身觸亦爾。	耳鼻舌身觸亦爾。	ear, nose, tongue, and body contact are also like this.
+['ZH_T27_1545_149:0761c13_20']	是中差別者。	是中差別者。	The difference is:
+['ZH_T27_1545_149:0761c14_5']	各攝自觸全。	各攝自觸全。	each includes its own contact in its entirety,
+['ZH_T27_1545_149:0761c14_13']	自識相應八少分。	自識相應八少分。	and a small portion of the eight associated with its own consciousness.
+['ZH_T27_1545_149:0761c15_1']	意觸攝三觸全。	意觸攝三觸全。	Mental contact includes three contacts in their entirety,
+['ZH_T27_1545_149:0761c15_6']	七觸少分。	七觸少分。	and a small portion of seven contacts.
+['ZH_T27_1545_149:0761c15_12', 'ZH_T27_1545_149:0761c15_18']	如增語觸說。🔽問何故名攝。	如增語觸說。 問何故名攝。	As with contact associated with ideation,
+['ZH_T27_1545_149:0761c16_3', 'ZH_T27_1545_149:0761c16_10']	攝是何義。🔽答自體於自體。	攝是何義。 答自體於自體。	Why is it called inclusion? What is the meaning of inclusion?
+['ZH_T27_1545_149:0761c17_4']	已有當有現有可得故名為攝。	已有當有現有可得故名為攝。	The answer is: the essence of something already exists, will exist, or currently exists in its own essence, so it is called inclusion.
+['ZH_T27_1545_149:0761c17_7']	有說。	有說。	Some say:
+['ZH_T27_1545_149:0761c18_6']	自體於自體不異不外不差別不相離。	自體於自體不異不外不差別不相離。	The self-nature of a dharma is neither different nor external nor distinct nor separate from that dharma.
+['ZH_T27_1545_149:0761c18_15']	是有不空故名為攝。	是有不空故名為攝。	Because it exists and is not empty, it is called included.
+['ZH_T27_1545_149:0761c19_1']	有說。	有說。	Some say:
+['ZH_T27_1545_149:0761c19_7']	自體於自體。	自體於自體。	The self-nature of a dharma
+['ZH_T27_1545_149:0761c19_12', 'ZH_T27_1545_149:0761c19_17']	非不曾有。🔽非不今有。	非不曾有。 非不今有。	is not that it did not exist in the past,🔽is not that it does not exist in the present,
+['ZH_T27_1545_149:0761c20_3']	非不當有。	非不當有。	and is not that it will not exist in the future.
+['ZH_T27_1545_149:0761c20_8']	故名為攝。	故名為攝。	Therefore, it is called included.
+['ZH_T27_1545_149:0761c21_1']	諸法不捨自性義是攝義。	諸法不捨自性義是攝義。	The meaning of dharmas not abandoning their own nature is the meaning of included.
+['ZH_T27_1545_149:0761c21_8']	非如以指捻衣。	非如以指捻衣。	It is not like using a finger to pinch cloth,
+['ZH_T27_1545_149:0761c21_13']	以手取食。	以手取食。	or using a hand to pick up food,
+['ZH_T27_1545_149:0761c21_18']	彼可捨故。	彼可捨故。	because those can be abandoned.
+['ZH_T27_1545_149:0761c22_2']	有說。	有說。	Some say:
+['ZH_T27_1545_149:0761c22_9']	拘礙義是攝義。	拘礙義是攝義。	The meaning of obstruction is the meaning of included.
+['ZH_T27_1545_149:0761c23_4']	諸法拘礙無如自體於自體者。	諸法拘礙無如自體於自體者。	There is no obstruction of dharmas like the self-nature of a dharma to that dharma.
+['ZH_T27_1545_149:0761c23_12']	有對觸幾根相應。	有對觸幾根相應。	How many faculties are associated with the contact of resistance,
+['ZH_T27_1545_149:0761c24_3']	乃至意觸幾根相應耶。	乃至意觸幾根相應耶。	up to how many faculties are associated with the contact of the mind?
+['ZH_T27_1545_149:0761c24_11']	答有對觸一根全。	答有對觸一根全。	The answer is: The contact of resistance is associated with one entire
+['ZH_T27_1545_149:0761c24_18']	八根少分相應。	八根少分相應。	and a part of eight faculties.
+['ZH_T27_1545_149:0761c25_2']	一全者。	一全者。	The one entire one is
+['ZH_T27_1545_149:0761c25_6']	謂苦根。	謂苦根。	the faculty of pain.
+['ZH_T27_1545_149:0761c25_11']	八少分者。	八少分者。	The part of eight is
+['ZH_T27_1545_149:0761c25_20']	謂意樂捨信等五根。	謂意樂捨信等五根。	the faculties of mind, joy, equanimity, and the five beginning with faith.
+['ZH_T27_1545_149:0761c26_11']	問云何此與彼八少分相應。	問云何此與彼八少分相應。	The question is: How is it associated with a part of those eight?
+['ZH_T27_1545_149:0761c27_4']	答彼八根通六識俱生品。	答彼八根通六識俱生品。	Answer: Those eight faculties are associated with the six consciousnesses.
+['ZH_T27_1545_149:0761c28_1']	此唯與五識俱生品相應故言少分。	此唯與五識俱生品相應故言少分。	This is only associated with the five consciousnesses, therefore it is said to be a small part.
+['ZH_T27_1545_149:0761c28_8']	增語觸五根全。	增語觸五根全。	The contact of conceptualization is associated with all five faculties.
+['ZH_T27_1545_149:0761c28_15']	八根少分相應。	八根少分相應。	And a small part of eight faculties.
+['ZH_T27_1545_149:0761c28_19']	五全者。	五全者。	The five complete ones are:
+['ZH_T27_1545_149:0761c29_6']	謂喜憂三無漏根。	謂喜憂三無漏根。	The three faculties of joy, sorrow, and the three without outflows.
+['ZH_T27_1545_149:0761c29_14']	八少分者如前說。	八少分者如前說。	The eight small parts are as explained above.
+['ZH_T27_1545_149:0762a01_7']	問云何此與彼八少分相應。	問云何此與彼八少分相應。	Question: How is this associated with a small part of those eight?
+['ZH_T27_1545_149:0762a01_18']	答彼八根通六識俱生品。	答彼八根通六識俱生品。	Answer: Those eight faculties are associated with the six consciousnesses.
+['ZH_T27_1545_149:0762a02_14']	此唯與意識俱生品相應故言少分。	此唯與意識俱生品相應故言少分。	This is only associated with the sixth consciousness, therefore it is said to be a small part.
+['ZH_T27_1545_149:0762a02_17']	明觸。	明觸。	The contact of clarity.
+['ZH_T27_1545_149:0762a03_3']	三根全。	三根全。	It is associated with three faculties in their entirety.
+['ZH_T27_1545_149:0762a03_10']	九根少分相應。	九根少分相應。	And a small part of nine faculties.
+['ZH_T27_1545_149:0762a03_14']	三全者。	三全者。	The three complete ones are:
+['ZH_T27_1545_149:0762a03_20']	謂三無漏根。	謂三無漏根。	The three faculties without outflows.
+['ZH_T27_1545_149:0762a04_4']	九少分者。	九少分者。	The nine small parts are:
+['ZH_T27_1545_149:0762a04_14']	謂意樂喜捨信等五根。	謂意樂喜捨信等五根。	The faculties of intention, joy, equanimity, faith, etc.
+['ZH_T27_1545_149:0762a05_7']	問云何此與彼九少分相應。	問云何此與彼九少分相應。	Question: How is this associated with a small part of those nine?
+['ZH_T27_1545_149:0762a05_17']	答彼九根通有漏無漏。	答彼九根通有漏無漏。	Answer: Those nine faculties are both with outflows and without outflows.
+['ZH_T27_1545_149:0762a06_14']	此唯與無漏相應故言少分無明觸。	此唯與無漏相應故言少分無明觸。	This is only associated with the without outflows, therefore it is said to be a small part. The contact of ignorance.
+['ZH_T27_1545_149:0762a07_4']	六根少分相應。	六根少分相應。	It is associated with a small part of the six faculties.
+['ZH_T27_1545_149:0762a07_10']	謂意五受根。	謂意五受根。	Namely, the mental faculty and the five faculties of sensation.
+['ZH_T27_1545_149:0762a08_4']	問云何此與彼六少分相應。	問云何此與彼六少分相應。	Question: How is this associated with a small part of those six?
+['ZH_T27_1545_149:0762a08_13']	答彼六根通染不染。	答彼六根通染不染。	Answer: Those six faculties are both defiled and undefiled.
+['ZH_T27_1545_149:0762a09_6']	此唯與染相應故言少分。	此唯與染相應故言少分。	This is only associated with the defiled, therefore it is said to be a small part.
+['ZH_T27_1545_149:0762a09_13']	非明非無明觸。	非明非無明觸。	Neither-painful-nor-pleasant contact.
+['ZH_T27_1545_149:0762a10_3']	十一根少分相應。	十一根少分相應。	It is associated with a small part of eleven faculties.
+['ZH_T27_1545_149:0762a10_12']	謂意五受信等五根。	謂意五受信等五根。	Namely, the mental faculty, the five faculties of faith, etc.
+['ZH_T27_1545_149:0762a11_7']	問云何此與彼十一少分相應。	問云何此與彼十一少分相應。	Question: How is this associated with a small part of those eleven?
+['ZH_T27_1545_149:0762a12_3']	答彼十一根中前六通染不染。	答彼十一根中前六通染不染。	Answer: Among those eleven faculties, the first six are both defiled and undefiled.
+['ZH_T27_1545_149:0762a12_11']	後五通有漏無漏。	後五通有漏無漏。	The last five are both contaminated and uncontaminated.
+['ZH_T27_1545_149:0762a13_8']	此唯與不染有漏相應故言少分。	此唯與不染有漏相應故言少分。	This is only associated with the undefiled and contaminated, therefore it is said to be a small part.
+['ZH_T27_1545_149:0762a13_11']	愛觸。	愛觸。	Craving contact.
+['ZH_T27_1545_149:0762a13_18']	四根少分相應。	四根少分相應。	It is associated with a small part of four faculties.
+['ZH_T27_1545_149:0762a14_6']	謂意樂喜捨根。	謂意樂喜捨根。	Namely, the mental faculty, the faculties of joy, pleasure, and equanimity.
+['ZH_T27_1545_149:0762a14_18']	問云何此與彼四少分相應。	問云何此與彼四少分相應。	Question: How is this associated with a small part of those four?
+['ZH_T27_1545_149:0762a15_11']	答彼四根通貪俱生不俱生。	答彼四根通貪俱生不俱生。	Answer: Those four faculties are both associated with and not associated with the arising of craving.
+['ZH_T27_1545_149:0762a16_8']	此唯與俱生者相應故言少分恚觸。	此唯與俱生者相應故言少分恚觸。	This is only associated with that which is associated with the arising of craving, therefore it is said to be a small part. Hostility contact.
+['ZH_T27_1545_149:0762a16_15']	四根少分相應。	四根少分相應。	It is associated with a small part of four faculties.
+['ZH_T27_1545_149:0762a17_3']	謂意苦憂捨根。	謂意苦憂捨根。	Namely, the mental faculty, the faculty of suffering, the faculty of sorrow, and the faculty of equanimity.
+['ZH_T27_1545_149:0762a17_15']	問云何此與彼四少分相應。	問云何此與彼四少分相應。	Question: How is this associated with a small part of those four?
+['ZH_T27_1545_149:0762a18_9']	答彼四根通瞋俱生不俱生。	答彼四根通瞋俱生不俱生。	Answer: Those four faculties are both associated with and not associated with anger.
+['ZH_T27_1545_149:0762a19_4']	此唯與俱生者相應故言少分。	此唯與俱生者相應故言少分。	This is only associated with those that are associated, therefore it is said to be a small part.
+['ZH_T27_1545_149:0762a19_9']	順樂受觸。	順樂受觸。	Contact that is in accordance with the faculty of pleasure.
+['ZH_T27_1545_149:0762a19_13']	二根全。	二根全。	Two faculties are completely associated.
+['ZH_T27_1545_149:0762a20_1']	九根少分相應。	九根少分相應。	Nine faculties are partially associated.
+['ZH_T27_1545_149:0762a20_5']	二全者。	二全者。	The two complete ones are:
+['ZH_T27_1545_149:0762a20_10']	謂樂喜根。	謂樂喜根。	Namely, the faculty of pleasure and the faculty of joy.
+['ZH_T27_1545_149:0762a20_15']	九少分者。	九少分者。	The nine partial ones are:
+['ZH_T27_1545_149:0762a21_4']	謂意信等五三無漏根。	謂意信等五三無漏根。	Namely, the mental faculty, faith and the other five faculties, and the three pure faculties.
+['ZH_T27_1545_149:0762a21_16']	問云何此與彼九少分相應。	問云何此與彼九少分相應。	Question: How is this associated with a small part of those nine?
+['ZH_T27_1545_149:0762a22_13']	答彼九根中前六通樂受俱生不俱生。	答彼九根中前六通樂受俱生不俱生。	Answer: Among those nine faculties, the first six are both associated with and not associated with the faculty of pleasure.
+['ZH_T27_1545_149:0762a23_4']	此唯與俱生者相應。	此唯與俱生者相應。	This is only associated with those that are associated.
+['ZH_T27_1545_149:0762a23_13']	後三通以九根為性。	後三通以九根為性。	The last three have the nine faculties as their nature.
+['ZH_T27_1545_149:0762a24_7']	此唯與六根相應故言少分。	此唯與六根相應故言少分。	This is only associated with the six faculties, therefore it is said to be a small part.
+['ZH_T27_1545_149:0762a24_12']	順苦受觸。	順苦受觸。	Contact that is in accordance with the faculty of suffering.
+['ZH_T27_1545_149:0762a25_3']	二根全六根少分相應。	二根全六根少分相應。	Two faculties are completely associated. Six faculties are partially associated.
+['ZH_T27_1545_149:0762a25_7']	二全者。	二全者。	The two complete ones are:
+['ZH_T27_1545_149:0762a25_12']	謂苦憂根。	謂苦憂根。	Namely, the faculty of suffering and the faculty of sorrow.
+['ZH_T27_1545_149:0762a25_17']	六少分者。	六少分者。	The six partial ones are:
+['ZH_T27_1545_149:0762a26_3']	謂意信等五根。	謂意信等五根。	Namely, the mental faculty, faith and the other five faculties.
+['ZH_T27_1545_149:0762a26_7']	問云何。	問云何。	What is the question about?
+['ZH_T27_1545_149:0762a26_16']	此與彼六少分相應。	此與彼六少分相應。	This is partially associated with those six.
+['ZH_T27_1545_149:0762a27_10']	答彼六根通苦受俱生不俱生。	答彼六根通苦受俱生不俱生。	The answer is: those six faculties are partially associated with the arising of the feeling of pain, and partially not associated with it.
+['ZH_T27_1545_149:0762a28_5']	此唯與俱生者相應故言少分。	此唯與俱生者相應故言少分。	This is only associated with those that arise together, therefore it is said to be partially associated.
+['ZH_T27_1545_149:0762a28_13']	順不苦不樂受觸。	順不苦不樂受觸。	The contact that accords with the feeling of neither-pain-nor-pleasure,
+['ZH_T27_1545_149:0762a28_17']	一根全。	一根全。	one entire faculty,
+['ZH_T27_1545_149:0762a29_4']	九根少分相應。	九根少分相應。	and nine faculties partially associated.
+['ZH_T27_1545_149:0762a29_8']	一全者。	一全者。	The one entire [faculty] is
+['ZH_T27_1545_149:0762a29_12']	謂捨根。	謂捨根。	the faculty of equanimity.
+['ZH_T27_1545_149:0762a29_17']	九少分者。	九少分者。	The nine partial [faculties] are
+['ZH_T27_1545_149:0762b01_6']	謂意信等五三無漏根。	謂意信等五三無漏根。	the mental faculty, faith and the other five faculties, and the three pure faculties.
+['ZH_T27_1545_149:0762b02_1']	問云何此與彼九少分相應。	問云何此與彼九少分相應。	The question is: how is this partially associated with those nine?
+['ZH_T27_1545_149:0762b02_9']	答彼九根中前六。	答彼九根中前六。	The answer is: among those nine faculties, the first six
+['ZH_T27_1545_149:0762b03_2']	通不苦不樂受俱生不俱生。	通不苦不樂受俱生不俱生。	are partially associated with the arising of the feeling of neither-pain-nor-pleasure, and partially not associated with it.
+['ZH_T27_1545_149:0762b03_11']	此唯與俱生者相應。	此唯與俱生者相應。	This is only associated with those that arise together.
+['ZH_T27_1545_149:0762b04_2']	後三通以九根為性。	後三通以九根為性。	The last three have the nine faculties as their nature.
+['ZH_T27_1545_149:0762b04_14']	此唯與六根相應故言少分。	此唯與六根相應故言少分。	This is only associated with the six faculties, therefore it is said to be partially associated.
+['ZH_T27_1545_149:0762b05_5']	眼觸九根少分相應。	眼觸九根少分相應。	Eye contact is partially associated with nine faculties,
+['ZH_T27_1545_149:0762b05_15']	謂意樂苦捨信等五根。	謂意樂苦捨信等五根。	namely the mental faculty, the faculties of pleasure, pain, and equanimity, and the five faculties beginning with faith.
+['ZH_T27_1545_149:0762b06_8']	問云何此與彼九少分相應。	問云何此與彼九少分相應。	The question is: how is this partially associated with those nine?
+['ZH_T27_1545_149:0762b07_5']	答彼九根通眼識俱生品不俱生品。	答彼九根通眼識俱生品不俱生品。	Answer: Those nine faculties are associated with both the category arising together with eye-consciousness and the category not arising together with it.
+['ZH_T27_1545_149:0762b08_1']	此唯與俱生品相應故言少分。	此唯與俱生品相應故言少分。	This [eye-contact] is only associated with the category arising together with it, therefore it is said to be a part.
+['ZH_T27_1545_149:0762b08_5']	如眼觸。	如眼觸。	Like eye-contact.
+['ZH_T27_1545_149:0762b08_13']	耳鼻舌身觸亦爾。	耳鼻舌身觸亦爾。	Ear-, nose-, tongue-, and body-contact are also like this.
+['ZH_T27_1545_149:0762b08_19']	是中差別者。	是中差別者。	The difference among them is:
+['ZH_T27_1545_149:0762b09_10']	各與自識俱生品根相應。	各與自識俱生品根相應。	Each is associated with the faculties arising together with its own consciousness.
+['ZH_T27_1545_149:0762b09_13']	意觸。	意觸。	Mind-contact.
+['ZH_T27_1545_149:0762b10_4']	五根全八根少分相應。	五根全八根少分相應。	Is associated with five faculties in their entirety and a part of eight faculties.
+['ZH_T27_1545_149:0762b10_10']	如增語觸說。	如增語觸說。	Like the contact associated with conceptualization is explained.
+['ZH_T27_1545_149:0762b10_18']	相應義廣說如上。	相應義廣說如上。	The meaning of association is explained in detail above.
+['ZH_T27_1545_149:0762b11_6']	諸根因有對觸。	諸根因有對觸。	The faculties that are causes of resistant contact,
+['ZH_T27_1545_149:0762b11_15']	此根有對觸相應耶。	此根有對觸相應耶。	are these faculties associated with resistant contact?
+['ZH_T27_1545_149:0762b12_4']	設根有對觸相應。	設根有對觸相應。	If the faculties are associated with resistant contact,
+['ZH_T27_1545_149:0762b12_12']	此根因有對觸耶。	此根因有對觸耶。	are these faculties causes of resistant contact?
+['ZH_T27_1545_149:0762b13_2']	答諸根有對觸相應。	答諸根有對觸相應。	Answer: The faculties that are associated with resistant contact,
+['ZH_T27_1545_149:0762b13_9']	此根因有對觸。	此根因有對觸。	these faculties are causes of resistant contact.
+['ZH_T27_1545_149:0762b14_2']	謂此根以有對觸為四因。	謂此根以有對觸為四因。	That is to say, these faculties take resistant contact as four causes:
+['ZH_T27_1545_149:0762b14_13']	即相應俱有同類異熟因。	即相應俱有同類異熟因。	The causes of association, co-existence, the same type, and karmic retribution.
+['ZH_T27_1545_149:0762b15_1']	有根因有對觸。	有根因有對觸。	There are faculties that are causes of resistant contact,
+['ZH_T27_1545_149:0762b15_10']	此根非有對觸相應。	此根非有對觸相應。	but these faculties are not associated with resistant contact.
+['ZH_T27_1545_149:0762b16_2']	謂根因有對觸餘觸相應。	謂根因有對觸餘觸相應。	It means the faculties that are associated with resistant contact and other contacts.
+['ZH_T27_1545_149:0762b16_10', 'ZH_T27_1545_149:0762b16_16']	及異熟生無所緣。🔽餘觸相應者。	及異熟生無所緣。 餘觸相應者。	And those that are born from karmic ripening and have no objects.🔽As for associated with other contacts,
+['ZH_T27_1545_149:0762b17_3']	謂增語觸相應。	謂增語觸相應。	it means those associated with contact with conceptualization.
+['ZH_T27_1545_149:0762b17_6']	此根。	此根。	This faculty
+['ZH_T27_1545_149:0762b17_14']	以有對觸為二因。	以有對觸為二因。	has resistant contact as two causes.
+['ZH_T27_1545_149:0762b18_2']	即同類異熟因。	即同類異熟因。	Namely, the homogeneous cause and the karmic ripening cause.
+['ZH_T27_1545_149:0762b18_11']	及異熟生無所緣者。	及異熟生無所緣者。	As for those born from karmic ripening and have no objects,
+['ZH_T27_1545_149:0762b18_17']	謂命等八根。	謂命等八根。	it means the eight faculties such as life.
+['ZH_T27_1545_149:0762b19_7']	此根以有對觸為一因。	此根以有對觸為一因。	This faculty has resistant contact as one cause.
+['ZH_T27_1545_149:0762b19_12']	即異熟因。	即異熟因。	Namely, the karmic ripening cause.
+['ZH_T27_1545_149:0762b20_1']	諸根因增語觸。	諸根因增語觸。	The faculties that have contact with conceptualization as their cause,
+['ZH_T27_1545_149:0762b20_10']	此根增語觸相應耶。	此根增語觸相應耶。	are these faculties associated with contact with conceptualization?
+['ZH_T27_1545_149:0762b20_18']	設根增語觸相應。	設根增語觸相應。	If the faculties are associated with contact with conceptualization,
+['ZH_T27_1545_149:0762b21_6']	此根因增語觸耶。	此根因增語觸耶。	do these faculties have contact with conceptualization as their cause?
+['ZH_T27_1545_149:0762b22_2']	答諸根增語觸相應此根因增語。	答諸根增語觸相應此根因增語。	The answer is: The faculties that are associated with contact with conceptualization have contact with conceptualization as their cause.
+['ZH_T27_1545_149:0762b22_14']	觸謂此根以增語觸為五因。	觸謂此根以增語觸為五因。	This faculty has contact with conceptualization as five causes.
+['ZH_T27_1545_149:0762b23_9']	即相應俱有同類遍行異熟因。	即相應俱有同類遍行異熟因。	Namely, the associated cause, the co-existent cause, the homogeneous cause, the universal cause, and the karmic ripening cause.
+['ZH_T27_1545_149:0762b23_16']	有根因增語觸。	有根因增語觸。	There are faculties that have contact with conceptualization as their cause,
+['ZH_T27_1545_149:0762b24_6']	此根非增語觸相應。	此根非增語觸相應。	but these faculties are not associated with contact with conceptualization.
+['ZH_T27_1545_149:0762b24_17']	謂根因增語觸餘觸相應。	謂根因增語觸餘觸相應。	It means the faculties that have contact with conceptualization as their cause but are associated with other contacts.
+['ZH_T27_1545_149:0762b25_6']	及異熟生無所緣。	及異熟生無所緣。	And those arisen from karmic ripening have no objects.
+['ZH_T27_1545_149:0762b25_12']	餘觸相應者。	餘觸相應者。	The remaining ones associated with contact.
+['ZH_T27_1545_149:0762b25_19']	謂有對觸相應。	謂有對觸相應。	That is, associated with resistant contact.
+['ZH_T27_1545_149:0762b26_9']	此根以增語觸為三因。	此根以增語觸為三因。	This faculty has three causes for the contact of discursive speech.
+['ZH_T27_1545_149:0762b26_18']	即同類遍行異熟因。	即同類遍行異熟因。	That is, the homogeneous cause, the universal cause, and the cause of karmic ripening.
+['ZH_T27_1545_149:0762b27_8']	及異熟生無所緣者。	及異熟生無所緣者。	And those arisen from karmic ripening have no objects.
+['ZH_T27_1545_149:0762b27_14']	謂命等八根。	謂命等八根。	That is, the eight faculties such as life.
+['ZH_T27_1545_149:0762b28_5']	此根以增語觸為一因。	此根以增語觸為一因。	This faculty has one cause for the contact of discursive speech.
+['ZH_T27_1545_149:0762b28_10']	即異熟因。	即異熟因。	That is, the cause of karmic ripening.
+['ZH_T27_1545_149:0762b29_4']	諸根因明觸此根明觸相應耶。	諸根因明觸此根明觸相應耶。	If a faculty is caused by bright contact, is that faculty associated with bright contact?
+['ZH_T27_1545_149:0762b29_8']	答如是。	答如是。	Answer: It is so.
+['ZH_T27_1545_149:0762c01_2']	設根明觸相應此根因明觸耶。	設根明觸相應此根因明觸耶。	If a faculty is associated with bright contact, is that faculty caused by bright contact?
+['ZH_T27_1545_149:0762c01_6']	答如是。	答如是。	Answer: It is so.
+['ZH_T27_1545_149:0762c01_11']	此中因者。	此中因者。	Here, the cause refers to
+['ZH_T27_1545_149:0762c02_3']	謂三因即相應俱有同類因。	謂三因即相應俱有同類因。	the three causes, namely the associated cause, the co-existent cause, and the homogeneous cause.
+['ZH_T27_1545_149:0762c02_10']	諸根因無明觸。	諸根因無明觸。	The faculties caused by contact with ignorance.
+['ZH_T27_1545_149:0762c02_19']	此根無明觸相應耶。	此根無明觸相應耶。	Are those faculties associated with contact with ignorance?
+['ZH_T27_1545_149:0762c03_7']	設根無明觸相應。	設根無明觸相應。	If a faculty is associated with contact with ignorance,
+['ZH_T27_1545_149:0762c03_15']	此根因無明觸耶。	此根因無明觸耶。	is that faculty caused by contact with ignorance?
+['ZH_T27_1545_149:0762c04_5']	答諸根無明觸相應。	答諸根無明觸相應。	Answer: The faculties associated with contact with ignorance,
+['ZH_T27_1545_149:0762c04_12']	此根因無明觸。	此根因無明觸。	those faculties are caused by contact with ignorance.
+['ZH_T27_1545_149:0762c05_4']	謂此根以無明觸為四因。	謂此根以無明觸為四因。	It means that this faculty takes ignorance-contact as four causes.
+['ZH_T27_1545_149:0762c05_15']	即相應俱有同類遍行因。	即相應俱有同類遍行因。	Namely, the associated, co-existent, homogeneous, and omnipresent causes.
+['ZH_T27_1545_149:0762c06_11']	有根因無明觸此根非無明觸相應。	有根因無明觸此根非無明觸相應。	There are faculties that take ignorance-contact as a cause, but this faculty is not associated with ignorance-contact.
+['ZH_T27_1545_149:0762c07_4']	謂根因無明觸餘觸相應。	謂根因無明觸餘觸相應。	It means that the faculty takes ignorance-contact as a cause, but is associated with other contacts.
+['ZH_T27_1545_149:0762c07_12']	及異熟生無所緣。	及異熟生無所緣。	And those that are born from karmic ripening and have no object.
+['ZH_T27_1545_149:0762c07_18']	餘觸相應者。	餘觸相應者。	Associated with other contacts means
+['ZH_T27_1545_149:0762c08_8']	謂非明非無明觸相應。	謂非明非無明觸相應。	associated with neither-bright-nor-dark contact.
+['ZH_T27_1545_149:0762c09_4']	此根以無明觸為一因即異熟因。	此根以無明觸為一因即異熟因。	This faculty takes ignorance-contact as one cause, namely the cause of karmic ripening.
+['ZH_T27_1545_149:0762c09_13']	及異熟生無所緣者。	及異熟生無所緣者。	And those born from karmic ripening and have no object means
+['ZH_T27_1545_149:0762c09_19']	謂命等八根。	謂命等八根。	the eight faculties such as life.
+['ZH_T27_1545_149:0762c10_13']	此根以無明觸為一因即異熟因。	此根以無明觸為一因即異熟因。	This faculty takes ignorance-contact as one cause, namely the cause of karmic ripening.
+['ZH_T27_1545_149:0762c11_6']	諸根因非明非無明觸。	諸根因非明非無明觸。	The faculties that take neither-bright-nor-dark contact as a cause,
+['ZH_T27_1545_149:0762c11_18']	此根非明非無明觸相應耶。	此根非明非無明觸相應耶。	are these faculties not associated with neither-bright-nor-dark contact?
+['ZH_T27_1545_149:0762c12_10']	設根非明非無明觸相應。	設根非明非無明觸相應。	If a faculty is not associated with neither-bright-nor-dark contact,
+['ZH_T27_1545_149:0762c13_3']	此根因非明非無明觸耶。	此根因非明非無明觸耶。	does this faculty take neither-bright-nor-dark contact as a cause?
+['ZH_T27_1545_149:0762c13_15']	答諸根非明非無明觸相應。	答諸根非明非無明觸相應。	The answer is: The faculties that are not associated with neither-bright-nor-dark contact,
+['ZH_T27_1545_149:0762c14_6']	此根因非明非無明觸。	此根因非明非無明觸。	this faculty takes neither-bright-nor-dark contact as a cause.
+['ZH_T27_1545_149:0762c15_2']	謂此根以非明非無明觸為四因。	謂此根以非明非無明觸為四因。	That is, this faculty takes non-illuminating and non-non-illuminating contact as four causes.
+['ZH_T27_1545_149:0762c15_13']	即相應俱有同類異熟因。	即相應俱有同類異熟因。	Namely, the associated, co-existent, homogeneous, and karmic maturation causes.
+['ZH_T27_1545_149:0762c16_4']	有根因非明非無明觸。	有根因非明非無明觸。	There are faculties that take non-illuminating and non-non-illuminating contact as causes.
+['ZH_T27_1545_149:0762c16_15']	此根非明非無明觸相應。	此根非明非無明觸相應。	These faculties are not associated with non-illuminating and non-non-illuminating contact.
+['ZH_T27_1545_149:0762c17_6']	謂根因非明非無明觸。	謂根因非明非無明觸。	That is, the faculties take non-illuminating and non-non-illuminating contact as causes.
+['ZH_T27_1545_149:0762c17_13']	異熟生無所緣。	異熟生無所緣。	Karmic maturation-born, without objects.
+['ZH_T27_1545_149:0762c17_19']	謂命等八根。	謂命等八根。	That is, the eight faculties such as life.
+['ZH_T27_1545_149:0762c18_10']	以非明非無明觸為一因。	以非明非無明觸為一因。	Taking non-illuminating and non-non-illuminating contact as one cause.
+['ZH_T27_1545_149:0762c18_15']	即異熟因。	即異熟因。	Namely, the karmic maturation cause.
+['ZH_T27_1545_149:0762c19_9']	諸根因愛觸此根愛觸相應耶。	諸根因愛觸此根愛觸相應耶。	For those faculties that take craving contact as causes, are these faculties associated with craving contact?
+['ZH_T27_1545_149:0762c19_16']	設根愛觸相應。	設根愛觸相應。	If the faculties are associated with craving contact,
+['ZH_T27_1545_149:0762c20_4']	此根因愛觸耶。	此根因愛觸耶。	do these faculties take craving contact as causes?
+['ZH_T27_1545_149:0762c20_17']	答諸根愛觸相應此根因愛觸。	答諸根愛觸相應此根因愛觸。	The answer is: Those faculties that are associated with craving contact take craving contact as causes.
+['ZH_T27_1545_149:0762c21_8']	謂此根以愛觸為三因。	謂此根以愛觸為三因。	That is, these faculties take craving contact as three causes.
+['ZH_T27_1545_149:0762c21_17']	即相應俱有同類因。	即相應俱有同類因。	Namely, the associated, co-existent, and homogeneous causes.
+['ZH_T27_1545_149:0762c22_5']	有根因愛觸。	有根因愛觸。	There are faculties that take craving contact as causes.
+['ZH_T27_1545_149:0762c22_13']	此根非愛觸相應。	此根非愛觸相應。	These faculties are not associated with craving contact.
+['ZH_T27_1545_149:0762c22_19']	謂根因愛觸。	謂根因愛觸。	That is, the faculties take craving contact as causes.
+['ZH_T27_1545_149:0762c23_11']	餘觸相應及異熟生無所緣。	餘觸相應及異熟生無所緣。	The rest are associated with other contacts, karmic maturation-born, and without objects.
+['ZH_T27_1545_149:0762c23_17']	餘觸相應者。	餘觸相應者。	The remaining contacts associated with it are:
+['ZH_T27_1545_149:0762c24_4']	謂餘無明觸。	謂餘無明觸。	The remaining contacts associated with ignorance.
+['ZH_T27_1545_149:0762c24_13']	非明非無明觸相應。	非明非無明觸相應。	Contacts associated with neither-illumination-nor-non-illumination.
+['ZH_T27_1545_149:0762c25_3']	此根以愛觸為二因。	此根以愛觸為二因。	This faculty has craving contact as two causes:
+['ZH_T27_1545_149:0762c25_10']	即同類異熟因。	即同類異熟因。	The homogeneous cause and the ripening cause.
+['ZH_T27_1545_149:0762c25_18']	謂餘無明觸相應。	謂餘無明觸相應。	The remaining contacts associated with ignorance.
+['ZH_T27_1545_149:0762c26_7']	根以愛觸為同類因。	根以愛觸為同類因。	The faculty has craving contact as the homogeneous cause.
+['ZH_T27_1545_149:0762c26_16']	非明非無明觸相應。	非明非無明觸相應。	Contacts associated with neither-illumination-nor-non-illumination.
+['ZH_T27_1545_149:0762c27_7']	根以愛觸為異熟因。	根以愛觸為異熟因。	The faculty has craving contact as the ripening cause.
+['ZH_T27_1545_149:0762c27_16']	及異熟生無所緣者。	及異熟生無所緣者。	And the faculties that are not objects of clinging that arise from ripening.
+['ZH_T27_1545_149:0762c28_14']	謂命等八根以愛觸為一因即異熟因。	謂命等八根以愛觸為一因即異熟因。	The eight faculties such as life have craving contact as one cause, which is the ripening cause.
+['ZH_T27_1545_149:0762c29_6']	如說愛觸恚觸亦爾。	如說愛觸恚觸亦爾。	As it is said of craving contact, so it is for hostile contact.
+['ZH_T27_1545_149:0762c29_10']	差別者。	差別者。	The difference is:
+['ZH_T27_1545_149:0763a01_2']	說自名諸根因順樂受觸。	說自名諸根因順樂受觸。	The faculties that are causes of contact associated with pleasant feeling.
+['ZH_T27_1545_149:0763a01_12']	此根順樂受觸相應耶。	此根順樂受觸相應耶。	Are these faculties associated with contact associated with pleasant feeling?
+['ZH_T27_1545_149:0763a02_2']	設根順樂受觸相應。	設根順樂受觸相應。	If the faculties are associated with contact associated with pleasant feeling,
+['ZH_T27_1545_149:0763a02_11']	此根因順樂受觸耶。	此根因順樂受觸耶。	are these faculties causes of contact associated with pleasant feeling?
+['ZH_T27_1545_149:0763a03_2', 'ZH_T27_1545_149:0763a03_10']	答諸根順樂受觸相應。🔽此根因順樂受觸。	答諸根順樂受觸相應。 此根因順樂受觸。	The faculties that are associated with contact associated with pleasant feeling,🔽these faculties are causes of contact associated with pleasant feeling.
+['ZH_T27_1545_149:0763a04_3']	謂此根以順樂受觸為五因。	謂此根以順樂受觸為五因。	These faculties have contact associated with pleasant feeling as five causes.
+['ZH_T27_1545_149:0763a04_9']	即相應等五。	即相應等五。	It refers to the five such as association.
+['ZH_T27_1545_149:0763a04_17']	有根因順樂受觸。	有根因順樂受觸。	There is a faculty that takes as its cause contact that is conducive to pleasant feeling.
+['ZH_T27_1545_149:0763a05_7']	此根非順樂受觸相應。	此根非順樂受觸相應。	This faculty is not associated with contact that is conducive to pleasant feeling.
+['ZH_T27_1545_149:0763a05_15']	謂根因順樂受觸。	謂根因順樂受觸。	It refers to a faculty that takes as its cause contact that is conducive to pleasant feeling.
+['ZH_T27_1545_149:0763a06_1']	餘觸相應。	餘觸相應。	It is associated with other types of contact.
+['ZH_T27_1545_149:0763a06_9', 'ZH_T27_1545_149:0763a06_15']	及異熟生無所緣。🔽餘觸相應者。	及異熟生無所緣。 餘觸相應者。	And it is a non-associated formative factor that arises from the karmic maturation of contact that is conducive to pleasant feeling.
+['ZH_T27_1545_149:0763a07_1']	謂順苦受觸。	謂順苦受觸。	Associated with other types of contact refers to contact that is conducive to painful feeling.
+['ZH_T27_1545_149:0763a07_11']	順不苦不樂受觸相應。	順不苦不樂受觸相應。	It is associated with contact that is conducive to neither painful nor pleasant feeling.
+['ZH_T27_1545_149:0763a08_3']	此根以順樂受觸為三因。	此根以順樂受觸為三因。	This faculty takes as its three causes contact that is conducive to pleasant feeling.
+['ZH_T27_1545_149:0763a08_12']	即同類遍行異熟因。	即同類遍行異熟因。	They are the homogeneous cause, the universal cause, and the cause of karmic maturation.
+['ZH_T27_1545_149:0763a09_2']	及異熟生無所緣者。	及異熟生無所緣者。	And it is a non-associated formative factor that arises from the karmic maturation of contact that is conducive to pleasant feeling.
+['ZH_T27_1545_149:0763a09_8']	謂命等八根。	謂命等八根。	It refers to the eight faculties such as life,
+['ZH_T27_1545_149:0763a10_2']	以順樂受觸為一因即異熟因。	以順樂受觸為一因即異熟因。	which take as their one cause contact that is conducive to pleasant feeling, namely the cause of karmic maturation.
+['ZH_T27_1545_149:0763a10_9', 'ZH_T27_1545_149:0763a10_14']	如說順樂受觸。🔽順苦受觸。	如說順樂受觸。 順苦受觸。	As it is said regarding contact that is conducive to pleasant feeling,🔽so it is with contact that is conducive to painful feeling.
+['ZH_T27_1545_149:0763a11_4']	順不苦不樂受觸亦爾。	順不苦不樂受觸亦爾。	And contact that is conducive to neither painful nor pleasant feeling.
+['ZH_T27_1545_149:0763a11_8']	差別者。	差別者。	The difference is that
+['ZH_T27_1545_149:0763a11_14']	說自名諸根。	說自名諸根。	one's own name is mentioned for each faculty.
+['ZH_T27_1545_149:0763a12_5']	因眼觸此根眼觸相應耶。	因眼觸此根眼觸相應耶。	If a faculty takes eye contact as its cause, is this faculty associated with eye contact?
+['ZH_T27_1545_149:0763a12_12']	設根眼觸相應。	設根眼觸相應。	If a faculty is associated with eye contact,
+['ZH_T27_1545_149:0763a12_19']	此根因眼觸耶。	此根因眼觸耶。	does this faculty take eye contact as its cause?
+['ZH_T27_1545_149:0763a13_7']	答諸根眼觸相應。	答諸根眼觸相應。	Answer: Those faculties associated with eye contact.
+['ZH_T27_1545_149:0763a13_13']	此根因眼觸。	此根因眼觸。	These faculties have eye contact as their cause.
+['ZH_T27_1545_149:0763a14_4']	謂此根以眼觸為四因。	謂此根以眼觸為四因。	That is, these faculties have eye contact as four causes:
+['ZH_T27_1545_149:0763a14_15']	即相應俱有同類異熟因。	即相應俱有同類異熟因。	namely, the associated cause, co-existent cause, homogeneous cause, and ripening cause.
+['ZH_T27_1545_149:0763a15_2']	有根因眼觸。	有根因眼觸。	There are faculties that have eye contact as their cause.
+['ZH_T27_1545_149:0763a15_10']	此根非眼觸相應。	此根非眼觸相應。	These faculties are not associated with eye contact.
+['ZH_T27_1545_149:0763a16_1']	謂根因眼觸餘觸相應。	謂根因眼觸餘觸相應。	That is, the faculties that have eye contact as their cause but are associated with other contacts,
+['ZH_T27_1545_149:0763a16_9']	及異熟生無所緣。	及異熟生無所緣。	and those that are ripening and have no object.
+['ZH_T27_1545_149:0763a16_15']	餘觸相應者。	餘觸相應者。	Associated with other contacts means
+['ZH_T27_1545_149:0763a17_5']	謂耳鼻舌身意觸相應。	謂耳鼻舌身意觸相應。	associated with ear, nose, tongue, body, and mind contacts.
+['ZH_T27_1545_149:0763a17_14']	此根以眼觸為二因。	此根以眼觸為二因。	These faculties have eye contact as two causes:
+['ZH_T27_1545_149:0763a18_3']	即同類異熟因。	即同類異熟因。	namely, the homogeneous cause and ripening cause.
+['ZH_T27_1545_149:0763a18_12']	及異熟生無所緣者。	及異熟生無所緣者。	And those that are ripening and have no object means
+['ZH_T27_1545_149:0763a18_18']	謂命等八根。	謂命等八根。	the eight faculties such as life.
+['ZH_T27_1545_149:0763a19_11']	此根以眼觸為一因即異熟因。	此根以眼觸為一因即異熟因。	These faculties have eye contact as one cause, namely the ripening cause.
+['ZH_T27_1545_149:0763a19_16']	如說眼觸。	如說眼觸。	As it is said for eye contact,
+['ZH_T27_1545_149:0763a20_7']	耳鼻舌身觸亦爾。	耳鼻舌身觸亦爾。	ear, nose, tongue, and body contacts are also like this.
+['ZH_T27_1545_149:0763a20_11']	差別者。	差別者。	The difference is:
+['ZH_T27_1545_149:0763a20_17']	說自名諸根。	說自名諸根。	one's own name is mentioned.
+['ZH_T27_1545_149:0763a21_8']	因意觸此根意觸相應耶。	因意觸此根意觸相應耶。	If the faculties have mind contact as their cause, are these faculties associated with mind contact?
+['ZH_T27_1545_149:0763a21_15']	設根意觸相應。	設根意觸相應。	If the faculties are associated with mind contact,
+['ZH_T27_1545_149:0763a22_3']	此根因意觸耶。	此根因意觸耶。	do these faculties have mind contact as their cause?
+['ZH_T27_1545_149:0763a22_11']	答諸根意觸相應。	答諸根意觸相應。	Answer: Those faculties that are associated with mental contact.
+['ZH_T27_1545_149:0763a22_17']	此根因意觸。	此根因意觸。	These faculties take mental contact as their cause.
+['ZH_T27_1545_149:0763a23_7']	謂此根以意觸為五因。	謂此根以意觸為五因。	That is to say, these faculties take mental contact as five causes,
+['ZH_T27_1545_149:0763a23_13']	即相應等五。	即相應等五。	namely the five of association and so forth.
+['ZH_T27_1545_149:0763a24_1']	有根因意觸。	有根因意觸。	There are faculties that take mental contact as their cause,
+['ZH_T27_1545_149:0763a24_9']	此根非意觸相應。	此根非意觸相應。	but these faculties are not associated with mental contact.
+['ZH_T27_1545_149:0763a24_15']	謂根因意觸。	謂根因意觸。	That is to say, faculties that take mental contact as their cause,
+['ZH_T27_1545_149:0763a24_20']	餘觸相應。	餘觸相應。	but are associated with other contacts,
+['ZH_T27_1545_149:0763a25_7', 'ZH_T27_1545_149:0763a25_13']	及異熟生無所緣。🔽餘觸相應者。	及異熟生無所緣。 餘觸相應者。	and those that are born of retribution and have no objects.
+['ZH_T27_1545_149:0763a26_4']	謂眼耳鼻舌身觸相應。	謂眼耳鼻舌身觸相應。	Associated with other contacts refers to those associated with eye, ear, nose, tongue, and body contacts.
+['ZH_T27_1545_149:0763a26_13']	此根以意觸為三因。	此根以意觸為三因。	These faculties take mental contact as three causes,
+['ZH_T27_1545_149:0763a27_4', 'ZH_T27_1545_149:0763a27_13']	即同類遍行異熟因。🔽及異熟生無所緣者。	即同類遍行異熟因。 及異熟生無所緣者。	namely the causes of the same type, the universal, and retribution.
+['ZH_T27_1545_149:0763a27_19']	謂命等八根。	謂命等八根。	And those that are born of retribution and have no objects refers to the eight faculties such as life.
+['ZH_T27_1545_149:0763a28_12']	此根以意觸為一因即異熟因。	此根以意觸為一因即異熟因。	These faculties take mental contact as one cause, namely the cause of retribution.
+['ZH_T27_1545_149:0763a29_7']	諸成就此類眼根。	諸成就此類眼根。	Those who have attained this type of eye faculty,
+['ZH_T27_1545_149:0763a29_16']	彼成就此類身根耶。	彼成就此類身根耶。	have they attained this type of body faculty?
+['ZH_T27_1545_149:0763b01_3']	乃至廣說。	乃至廣說。	And so on, it is explained in detail.
+['ZH_T27_1545_149:0763b01_8']	類有四種。	類有四種。	There are four types of classes:
+['ZH_T27_1545_149:0763b01_12']	一修類。	一修類。	1. The class of cultivation,
+['ZH_T27_1545_149:0763b01_17']	二律儀類。	二律儀類。	2. The class of precepts,
+['ZH_T27_1545_149:0763b02_1']	三界類。	三界類。	3. The class of realms,
+['ZH_T27_1545_149:0763b02_6']	四相似類。	四相似類。	4. The class of similarity.
+['ZH_T27_1545_149:0763b02_15']	此四廣說如前業蘊。	此四廣說如前業蘊。	These four are explained in detail as before in the aggregate of karma.
+['ZH_T27_1545_149:0763b03_5']	此中依界類而作論。	此中依界類而作論。	Here, the treatise is composed based on the classification of realms.
+['ZH_T27_1545_149:0763b03_13']	諸成就此類眼根。	諸成就此類眼根。	Those who possess this type of eye faculty,
+['ZH_T27_1545_149:0763b04_4']	彼成就此類身根耶。	彼成就此類身根耶。	do they possess this type of body faculty?
+['ZH_T27_1545_149:0763b04_12']	設成就此類身根。	設成就此類身根。	If they possess this type of body faculty,
+['ZH_T27_1545_149:0763b05_3']	彼成就此類眼根耶。	彼成就此類眼根耶。	do they possess this type of eye faculty?
+['ZH_T27_1545_149:0763b05_9']	答應作四句。	答應作四句。	The answer is: Four sentences should be made.
+['ZH_T27_1545_149:0763b06_5']	有成就此類眼根非此類身根。	有成就此類眼根非此類身根。	There are those who possess this type of eye faculty but not this type of body faculty.
+['ZH_T27_1545_149:0763b06_14']	謂生欲界不得眼根。	謂生欲界不得眼根。	Namely, those born in the desire realm who have not obtained the eye faculty.
+['ZH_T27_1545_149:0763b07_1']	設得已失。	設得已失。	Even if obtained, it has been lost.
+['ZH_T27_1545_149:0763b07_11']	得色界眼不得眼根者。	得色界眼不得眼根者。	Obtaining the eye faculty of the form realm but not possessing the eye faculty.
+['ZH_T27_1545_149:0763b08_4']	謂未至鉢羅奢佉位等。	謂未至鉢羅奢佉位等。	Namely, those who have not yet reached the stage of prātimokṣa and so forth.
+['ZH_T27_1545_149:0763b08_10']	設得已失者。	設得已失者。	Even if obtained, it has been lost.
+['ZH_T27_1545_149:0763b08_16']	謂已得眼根。	謂已得眼根。	Namely, those who have already obtained the eye faculty.
+['ZH_T27_1545_149:0763b09_2']	或自然壞。	或自然壞。	Either it naturally deteriorates,
+['ZH_T27_1545_149:0763b09_9']	或遇緣壞故失。	或遇緣壞故失。	or it is lost due to encountering conditions.
+['ZH_T27_1545_149:0763b09_15']	得色界眼者。	得色界眼者。	Obtaining the eye faculty of the form realm.
+['ZH_T27_1545_149:0763b10_5']	謂由善習靜慮力故。	謂由善習靜慮力故。	Namely, due to the power of well-cultivating meditative absorption,
+['ZH_T27_1545_149:0763b10_15']	色界眼根依欲界身得。	色界眼根依欲界身得。	the eye faculty of the form realm is obtained based on the body of the desire realm.
+['ZH_T27_1545_149:0763b11_5']	而不得彼界身根。	而不得彼界身根。	But one does not obtain the body faculty of that realm.
+['ZH_T27_1545_149:0763b11_13']	無成就他界身故。	無成就他界身故。	Because one does not possess the body of another realm.
+['ZH_T27_1545_149:0763b12_4']	有成就此類身根。	有成就此類身根。	There are those who possess this type of body faculty,
+['ZH_T27_1545_149:0763b12_10']	非此類眼根。	非此類眼根。	It is not this type of eye faculty.
+['ZH_T27_1545_149:0763b13_1']	謂生欲界不得眼根。	謂生欲界不得眼根。	It refers to those born in the desire realm who have not obtained the eye faculty,
+['ZH_T27_1545_149:0763b13_6']	設得已失。	設得已失。	or even if they have obtained it, have already lost it.
+['ZH_T27_1545_149:0763b14_2']	不得色界眼彼但成就欲界身根。	不得色界眼彼但成就欲界身根。	Those who have not obtained the eye faculty of the form realm only possess the body faculty of the desire realm.
+['ZH_T27_1545_149:0763b14_11']	二界眼根並不成就。	二界眼根並不成就。	They do not possess either the eye faculty of the two realms.
+['ZH_T27_1545_149:0763b15_6']	有成就此類眼根亦此類身根。	有成就此類眼根亦此類身根。	There are those who possess this type of eye faculty and also this type of body faculty.
+['ZH_T27_1545_149:0763b15_17']	謂生欲界眼根已得不失。	謂生欲界眼根已得不失。	It refers to those born in the desire realm who have obtained the eye faculty and have not lost it.
+['ZH_T27_1545_149:0763b16_7']	若生色界已得者。	若生色界已得者。	If born in the form realm, those who have already obtained it
+['ZH_T27_1545_149:0763b16_17']	謂已至鉢羅奢佉位等。	謂已至鉢羅奢佉位等。	refer to those who have already reached the stage of kalala and so on.
+['ZH_T27_1545_149:0763b17_3']	不失者。	不失者。	Those who have not lost it
+['ZH_T27_1545_149:0763b17_13']	謂所得眼根非自然壞。	謂所得眼根非自然壞。	refer to the eye faculty that has been obtained and is not naturally destroyed.
+['ZH_T27_1545_149:0763b18_2']	及遇緣壞故不失。	及遇緣壞故不失。	And because it is not lost due to encountering conditions that destroy it.
+['ZH_T27_1545_149:0763b18_15']	生色界者色界無有根不具故。	生色界者色界無有根不具故。	Because those born in the form realm do not have any faculties that are incomplete.
+['ZH_T27_1545_149:0763b19_6']	有非成就此類眼根。	有非成就此類眼根。	There are those who do not possess this type of eye faculty,
+['ZH_T27_1545_149:0763b19_13']	亦非此類身根。	亦非此類身根。	and also do not possess this type of body faculty.
+['ZH_T27_1545_149:0763b20_1']	謂生無色界。	謂生無色界。	It refers to those born in the formless realm.
+['ZH_T27_1545_149:0763b20_10']	彼地定無諸色根故。	彼地定無諸色根故。	Because that realm definitely does not have any material faculties.
+['ZH_T27_1545_149:0763b20_14']	如眼根。	如眼根。	Just like the eye faculty,
+['ZH_T27_1545_149:0763b20_19']	耳根亦爾。	耳根亦爾。	the ear faculty is also like this.
+['ZH_T27_1545_149:0763b21_9']	此二俱有異界現前故。	此二俱有異界現前故。	These two both have the manifestation of different realms.
+['ZH_T27_1545_149:0763b21_17']	諸成就此類鼻根。	諸成就此類鼻根。	Those who possess this type of nose faculty,
+['ZH_T27_1545_149:0763b22_8']	彼成就此類身根耶。	彼成就此類身根耶。	Do they possess this type of body faculty?
+['ZH_T27_1545_149:0763b22_16']	設成就此類身根。	設成就此類身根。	If they possess this type of body faculty,
+['ZH_T27_1545_149:0763b23_7']	彼成就此類鼻根耶。	彼成就此類鼻根耶。	do they possess this type of nose faculty?
+['ZH_T27_1545_149:0763b23_16']	答若成就此類鼻根。	答若成就此類鼻根。	The answer is: If they possess this type of nose faculty,
+['ZH_T27_1545_149:0763b24_6']	彼成就此類身根。	彼成就此類身根。	they possess this type of body faculty.
+['ZH_T27_1545_149:0763b24_14']	有成就此類身根。	有成就此類身根。	There are those who possess this type of body faculty
+['ZH_T27_1545_149:0763b25_5']	彼不成就此類鼻根。	彼不成就此類鼻根。	but do not possess this type of nose faculty.
+['ZH_T27_1545_149:0763b25_14']	謂生欲界不得鼻根。	謂生欲界不得鼻根。	Namely, those born in the desire realm who have not obtained the nose faculty,
+['ZH_T27_1545_149:0763b26_1']	設得已失。	設得已失。	or who have obtained it but have lost it.
+['ZH_T27_1545_149:0763b26_7']	不得鼻根者。	不得鼻根者。	Those who have not obtained the nose faculty
+['ZH_T27_1545_149:0763b26_17']	謂未至鉢羅奢佉位等。	謂未至鉢羅奢佉位等。	refer to those who have not yet reached the stage of prāśākha.
+['ZH_T27_1545_149:0763b27_5']	設得已失者。	設得已失者。	Those who have obtained it but have lost it
+['ZH_T27_1545_149:0763b27_11']	謂已得鼻根。	謂已得鼻根。	refer to those who have obtained the nose faculty
+['ZH_T27_1545_149:0763b27_16']	或自然壞。	或自然壞。	but it has naturally deteriorated,
+['ZH_T27_1545_149:0763b28_3']	或遇緣壞故。	或遇緣壞故。	or has deteriorated due to encountering conditions.
+['ZH_T27_1545_149:0763b28_8']	失如鼻根。	失如鼻根。	Like the nose faculty,
+['ZH_T27_1545_149:0763b28_13']	舌根亦爾。	舌根亦爾。	the tongue faculty is also like this.
+['ZH_T27_1545_149:0763b29_4']	此二俱無異界現前故。	此二俱無異界現前故。	These two are both without the present manifestation of a different realm.
+['ZH_T27_1545_149:0763c01_4']	問何故生欲界得起色界眼耳根現在前。	問何故生欲界得起色界眼耳根現在前。	Why is it that when born in the desire realm, the eye and ear faculties of the form realm can be manifested,
+['ZH_T27_1545_149:0763c01_11']	非鼻舌身根耶。	非鼻舌身根耶。	but not the nose, tongue, and body faculties?
+['ZH_T27_1545_149:0763c01_18', 'ZH_T27_1545_149:0763c02_4']	答由眼耳二根。🔽有加行得。	答由眼耳二根。 有加行得。	The answer is: Because the two faculties of eye and ear🔽are obtained through practice,
+['ZH_T27_1545_149:0763c02_8']	離染得。	離染得。	and are obtained through detachment.
+['ZH_T27_1545_149:0763c02_12']	修所成。	修所成。	The cultivated.
+['ZH_T27_1545_149:0763c03_5']	通所依性四支五支靜慮果故。	通所依性四支五支靜慮果故。	Because the four and five branches of dhyāna are the fruits of the cultivated.
+['ZH_T27_1545_149:0763c03_13']	得異界起現在前。	得異界起現在前。	One can attain and manifest them in other realms.
+['ZH_T27_1545_149:0763c04_3']	鼻舌身根無如是事。	鼻舌身根無如是事。	The nose, tongue, and body faculties do not have such things.
+['ZH_T27_1545_149:0763c04_12']	故唯自界起現在前。	故唯自界起現在前。	Therefore, they can only manifest in their own realms.
+['ZH_T27_1545_149:0763c04_17']	有餘師言。	有餘師言。	Other masters say:
+['ZH_T27_1545_149:0763c05_11']	生欲界者求起上界天眼耳根。	生欲界者求起上界天眼耳根。	Those born in the desire realm who seek to manifest the heavenly eye and ear faculties of the upper realms.
+['ZH_T27_1545_149:0763c06_3']	不求餘三故不得起。	不求餘三故不得起。	Do not seek the other three, so they cannot manifest.
+['ZH_T27_1545_149:0763c06_12']	謂觀行者作是希求。	謂觀行者作是希求。	That is to say, the contemplator makes this aspiration:
+['ZH_T27_1545_149:0763c07_4']	云何令我見色界色。	云何令我見色界色。	How can I see the forms of the form realm?
+['ZH_T27_1545_149:0763c07_9']	聞色界聲。	聞色界聲。	Hear the sounds of the form realm?
+['ZH_T27_1545_149:0763c08_4']	由此便修根本靜慮起天眼耳。	由此便修根本靜慮起天眼耳。	Because of this, they cultivate the fundamental dhyāna and manifest the heavenly eye and ear.
+['ZH_T27_1545_149:0763c08_14']	彼無香味可欲嗅甞故。	彼無香味可欲嗅甞故。	They have no smells and tastes to desire to smell and taste, so
+['ZH_T27_1545_149:0763c09_5']	不求起色界鼻舌。	不求起色界鼻舌。	They do not seek to manifest the form realm nose and tongue.
+['ZH_T27_1545_149:0763c09_14']	無生異地覺異地觸。	無生異地覺異地觸。	There is no birth in different realms or the perception of different realms.
+['ZH_T27_1545_149:0763c10_5']	設於彼求無理可起。	設於彼求無理可起。	Even if they seek it there, there is no reason to manifest it.
+['ZH_T27_1545_149:0763c10_11']	唯取至境故。	唯取至境故。	Because it only takes the objects that reach it.
+['ZH_T27_1545_149:0763c11_2']	問天眼以何為自性。	問天眼以何為自性。	Question: What is the essence of the heavenly eye?
+['ZH_T27_1545_149:0763c11_12']	答非諸筋骨血肉所成。	答非諸筋骨血肉所成。	Answer: It is not composed of sinews, bones, blood, or flesh.
+['ZH_T27_1545_149:0763c12_2']	色界大種所造淨色。	色界大種所造淨色。	It is pure form created by the primary elements of the form realm.
+['ZH_T27_1545_149:0763c12_11']	能無礙視體不可見。	能無礙視體不可見。	The substance of unobstructed vision cannot be seen.
+['ZH_T27_1545_149:0763c13_5']	眼界眼處眼根所攝是謂天眼。	眼界眼處眼根所攝是謂天眼。	The eye element, eye base, and eye faculty are included in the divine eye.
+['ZH_T27_1545_149:0763c13_14']	顯自性已當釋其名。	顯自性已當釋其名。	Having explained its essence, we will now explain its name.
+['ZH_T27_1545_149:0763c14_6']	問此何因緣說為天眼。	問此何因緣說為天眼。	Question: For what causes and conditions is it called the divine eye?
+['ZH_T27_1545_149:0763c14_16']	答此眼殊勝故名為天。	答此眼殊勝故名為天。	Answer: This eye is superior, therefore it is called divine.
+['ZH_T27_1545_149:0763c15_7']	世於勝法有天言故。	世於勝法有天言故。	Because the world has the word heaven for superior dharmas.
+['ZH_T27_1545_149:0763c16_3']	如說天衣天莊嚴具天飲食等。	如說天衣天莊嚴具天飲食等。	It is said that heavenly garments, heavenly ornaments, and heavenly food and drink, etc.
+['ZH_T27_1545_149:0763c16_12']	此中皆以殊勝名天。	此中皆以殊勝名天。	Here, all are called heavenly because of their superiority.
+['ZH_T27_1545_149:0763c16_17']	彼亦如是。	彼亦如是。	This is also like that.
+['ZH_T27_1545_149:0763c17_4']	界者色界繫。	界者色界繫。	The realm is bound to the form realm.
+['ZH_T27_1545_149:0763c17_12']	地者在四靜慮地。	地者在四靜慮地。	The stage is in the four meditations.
+['ZH_T27_1545_149:0763c17_18']	非近分無色。	非近分無色。	Not in the neighboring stages or formless [absorptions].
+['ZH_T27_1545_149:0763c18_4']	所以者何。	所以者何。	Why is this so?
+['ZH_T27_1545_149:0763c18_13']	若地有通所依勝定。	若地有通所依勝定。	If a stage has the superior concentration that is the basis for spiritual powers,
+['ZH_T27_1545_149:0763c19_1']	此地有天眼。	此地有天眼。	that stage has the divine eye.
+['ZH_T27_1545_149:0763c19_13']	非近分無色有通所依勝定。	非近分無色有通所依勝定。	The neighboring stages and formless [absorptions] do not have the superior concentration that is the basis for spiritual powers.
+['ZH_T27_1545_149:0763c20_2', 'ZH_T27_1545_149:0763c20_17']	故彼地無天眼。🔽問何故近分無色無通所依勝定耶。	故彼地無天眼。 問何故近分無色無通所依勝定耶。	Therefore, those stages do do not have the divine eye.🔽Question: Why do the neighboring stages and formless [absorptions] not have the superior concentration that is the basis for spiritual powers?
+['ZH_T27_1545_149:0763c21_11']	答奢摩他毘鉢舍那不平等故。	答奢摩他毘鉢舍那不平等故。	Answer: Because śamatha and vipaśyanā are not equal.
+['ZH_T27_1545_149:0763c22_2']	非五支四支所成故。	非五支四支所成故。	Because it is not composed of five or four branches.
+['ZH_T27_1545_149:0763c22_9']	非樂道所攝故。	非樂道所攝故。	Because it is not included in the path of joy.
+['ZH_T27_1545_149:0763c23_1']	問若生欲界修得天眼。	問若生欲界修得天眼。	Question: If one born in the desire realm cultivates and attains the divine eye,
+['ZH_T27_1545_149:0763c23_10']	現在前時於何處起。	現在前時於何處起。	when it is present, where does it arise?
+['ZH_T27_1545_149:0763c24_2']	答即於生得眼根處起。	答即於生得眼根處起。	Answer: It arises where the innate eye is.
+['ZH_T27_1545_149:0763c24_13']	問若生得眼壞彼何處起。	問若生得眼壞彼何處起。	Question: If the innate eye is damaged, where does it arise?
+['ZH_T27_1545_149:0763c25_4']	答即於曾有眼根處起。	答即於曾有眼根處起。	Answer: It arises where there was once an eye.
+['ZH_T27_1545_149:0763c25_14']	問若彼處所合為一段。	問若彼處所合為一段。	Question: If that place is combined into one section,
+['ZH_T27_1545_149:0763c26_4']	不可知者復何處起。	不可知者復何處起。	and is imperceptible, where does it arise again?
+['ZH_T27_1545_149:0763c26_14']	答即於應有眼根處起。	答即於應有眼根處起。	Answer: It arises where there should be an eye.
+['ZH_T27_1545_149:0763c27_5']	問諸起天眼現在前者。	問諸起天眼現在前者。	Question: As for those who give rise to the divine eye and make it present,
+['ZH_T27_1545_149:0763c27_14']	為有左起右不起耶。	為有左起右不起耶。	is there a case where the left eye arises but the right eye does not arise?
+['ZH_T27_1545_149:0763c28_3', 'ZH_T27_1545_149:0763c28_9']	右起左不起耶。🔽左劣右中耶。	右起左不起耶。 左劣右中耶。	Is there a case where the right eye arises but the left eye does not arise?🔽Is the left eye inferior and the right eye middling?
+['ZH_T27_1545_149:0763c28_15', 'ZH_T27_1545_149:0763c29_1']	左中右上耶。🔽右劣左中耶。	左中右上耶。 右劣左中耶。	Is the left eye middling and the right eye superior?🔽Is the right eye inferior and the left eye middling?
+['ZH_T27_1545_149:0763c29_7']	右中左上耶。	右中左上耶。	Is the right eye middling and the left eye superior?
+['ZH_T27_1545_149:0764a01_7']	答不如是起謂起天眼者必二處眼俱起。	答不如是起謂起天眼者必二處眼俱起。	Answer: It does not arise in this way. One who gives rise to the divine eye necessarily gives rise to eyes in both places,
+['ZH_T27_1545_149:0764a01_14']	等劣等中等上。	等劣等中等上。	equal in inferiority, equal in middling, and equal in superiority.
+['ZH_T27_1545_149:0764a02_4']	一切天眼無瞎無闕。	一切天眼無瞎無闕。	All divine eyes are without blindness or deficiency.
+['ZH_T27_1545_149:0764a02_13']	亦無眩亂及彼同分。	亦無眩亂及彼同分。	There is also no dizziness or similar states.
+['ZH_T27_1545_149:0764a03_12']	問若生欲界化作色究竟萬六千踰繕那身。	問若生欲界化作色究竟萬六千踰繕那身。	If one is born in the desire realm and transforms a body of 16,800 yojanas in the highest form realm,
+['ZH_T27_1545_149:0764a04_3']	天眼現前觀彼色時。	天眼現前觀彼色時。	when the divine eye is manifest and observes that form,
+['ZH_T27_1545_149:0764a04_10']	人身長三肘半。	人身長三肘半。	the human body is three and a half cubits long,
+['ZH_T27_1545_149:0764a05_2']	或四肘尚不遍彼足指。	或四肘尚不遍彼足指。	or four cubits, and still does not reach the tip of the toe.
+['ZH_T27_1545_149:0764a05_11']	為住何處觀彼色耶。	為住何處觀彼色耶。	In what place does one abide and observe that form?
+['ZH_T27_1545_149:0764a05_16']	為上為下。	為上為下。	Is it above or below?
+['ZH_T27_1545_149:0764a06_1']	有說。	有說。	Some say:
+['ZH_T27_1545_149:0764a06_10', 'ZH_T27_1545_149:0764a07_1']	以神境通住上而見。🔽如營舍人處上觀下。	以神境通住上而見。 如營舍人處上觀下。	Abiding above with the supernormal knowledge of spiritual powers, one sees.🔽Like a builder observing from above,
+['ZH_T27_1545_149:0764a07_10']	如是居上觀下眾色。	如是居上觀下眾色。	so does one observe the various forms below while dwelling above.
+['ZH_T27_1545_149:0764a07_13']	有說。	有說。	Some say:
+['ZH_T27_1545_149:0764a08_8']	住下而見如行像者處下觀上。	住下而見如行像者處下觀上。	Abiding below and seeing, like a procession observer observing from below.
+['ZH_T27_1545_149:0764a08_17']	如是居下觀上眾色。	如是居下觀上眾色。	So does one observe the various forms above while dwelling below.
+['ZH_T27_1545_149:0764a09_2']	有說。	有說。	Some say:
+['ZH_T27_1545_149:0764a09_11']	彼時以神境智證通。	彼時以神境智證通。	At that time, with the supernormal knowledge of spiritual powers,
+['ZH_T27_1545_149:0764a10_14']	延廣此身令遍所化萬六千踰繕那身量而觀眾色。	延廣此身令遍所化萬六千踰繕那身量而觀眾色。	one extends and expands this body to the extent of the transformed body of 16,800 yojanas and observes the various forms.
+['ZH_T27_1545_149:0764a10_17']	有說。	有說。	Some say:
+['ZH_T27_1545_149:0764a11_11']	欲界亦有萬六千踰繕那身。	欲界亦有萬六千踰繕那身。	The desire realm also has a body of 16,800 yojanas.
+['ZH_T27_1545_149:0764a12_4']	應與所化色究竟身俱生。	應與所化色究竟身俱生。	They should be born together with the body of the highest form realm that is transformed.
+['ZH_T27_1545_149:0764a12_13']	若時化作色究竟身。	若時化作色究竟身。	When one transforms the body of the highest form realm,
+['ZH_T27_1545_149:0764a13_8']	爾時欲界三肘半或四肘身便滅。	爾時欲界三肘半或四肘身便滅。	at that time the body of the desire realm, three and a half or four cubits in size, immediately perishes.
+['ZH_T27_1545_149:0764a14_1']	彼萬六千踰繕那身續起。	彼萬六千踰繕那身續起。	The body of sixteen thousand yojanas continues to arise.
+['ZH_T27_1545_149:0764a14_12']	即依常眼處所而觀眾色。	即依常眼處所而觀眾色。	One observes various forms right where the eyes are, as usual.
+['ZH_T27_1545_149:0764a14_17']	如是說者。	如是說者。	According to this explanation,
+['ZH_T27_1545_149:0764a15_11']	如彼生處異熟身量化身亦爾。	如彼生處異熟身量化身亦爾。	the size of the transformed body is the same as the body of retribution when born in that realm.
+['ZH_T27_1545_149:0764a16_3']	如從色界來欲界時。	如從色界來欲界時。	When one comes from the form realm to the desire realm,
+['ZH_T27_1545_149:0764a16_16']	化作化身還如欲界異熟身量。	化作化身還如欲界異熟身量。	one transforms the transformed body to be the same size as the body of retribution in the desire realm.
+['ZH_T27_1545_149:0764a17_7']	此作彼身當知亦爾。	此作彼身當知亦爾。	One should know that this is the same when creating that body.
+['ZH_T27_1545_149:0764a17_16']	隨彼所住觀見眾色。	隨彼所住觀見眾色。	One observes and sees various forms according to where one is.Here is the corrected and aligned text:
+['ZH_T27_1545_149:0764a19_100']	說一切有部發智大毘婆沙論卷第一百四十九	說一切有部發智大毘婆沙論卷第一百四十九	Sarvâstivāda Abhidharma-mahāvibhāṣā-śāstra, fascicle 149

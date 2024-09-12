@@ -1,0 +1,519 @@
+segmentnr	original	analyzed	translated
+['ZH_T45_1893_001:0819b15_0']	淨心誡觀法	淨心誡觀法	Pure Mind Admonitions for Contemplating the Dharma
+['ZH_T45_1893_001:0819b17_0']	終南山沙門釋道宣撰	終南山沙門釋道宣撰	Compiled by Monk Daoxuan of Zhongnan Mountain
+['ZH_T45_1893_001:0819b18_0']	敬禮三寶藏　薩婆若法身　隨力誡初學	敬禮三寶藏　薩婆若法身　隨力誡初學	Respectfully Bowing to the Treasury of the Three Jewels, the Dharma Body of Sarvajña, Admonishing Beginners According to Their Abilities
+['ZH_T45_1893_001:0819b21_8']	　惟聖哀愍聽時在隨州興唐伽藍，夏安居撰，令送泰山靈巖寺，付慈忍受持。	　惟聖哀愍聽時在隨州興唐伽藍，夏安居撰，令送泰山靈巖寺，付慈忍受持。	The Sage has compassionately listened. At that time, in the summer retreat of the Xingtang Monastery in Suizhou, he compiled and sent it to Lingyan Temple on Mount Tai, entrusting it to the compassionate acceptance and upholding.
+['ZH_T45_1893_001:0819b21_16']	凡三十篇，如右：	凡三十篇，如右：	There are thirty chapters in total, as follows:
+['ZH_T45_1893_001:0819c06_8_0']	釋名篇第一	釋名篇第一	Chapter 1: Explaining Names
+['ZH_T45_1893_001:0819c06_8_1']	序宗篇第二	序宗篇第二	Chapter 2: Arranging the Essentials
+['ZH_T45_1893_001:0819c06_8_2']	五停篇第三	五停篇第三	Chapter 3: Five Methods of Calming and Contemplation
+['ZH_T45_1893_001:0819c06_8_3']	挍量篇第四	挍量篇第四	Chapter 4: Comparison
+['ZH_T45_1893_001:0819c06_8_4']	自慶篇第五	自慶篇第五	Chapter 5: Self-Rejoicing
+['ZH_T45_1893_001:0819c06_8_5']	善根篇第六	善根篇第六	Chapter 6: Roots of Goodness
+['ZH_T45_1893_001:0819c06_8_6']	破戒篇第七	破戒篇第七	Chapter 7: Breaking Precepts
+['ZH_T45_1893_001:0819c06_8_7']	邪命篇第八	邪命篇第八	Chapter 8: Wrong Livelihood
+['ZH_T45_1893_001:0819c06_8_8']	誑佛篇第九	誑佛篇第九	Chapter 9: Deceiving the Buddha
+['ZH_T45_1893_001:0819c06_8_9']	造過篇第十	造過篇第十	Chapter 10: Committing Offenses
+['ZH_T45_1893_001:0819c06_8_10']	解脫篇第十一	解脫篇第十一	Chapter 11: Liberation
+['ZH_T45_1893_001:0819c06_8_11']	食緣篇第十二	食緣篇第十二	Chapter 12: Conditions for Eating
+['ZH_T45_1893_001:0819c06_8_12']	流轉篇第十三	流轉篇第十三	Chapter 13: Transmigration
+['ZH_T45_1893_001:0819c06_8_13']	不動篇第十四	不動篇第十四	Chapter 14: Immovability
+['ZH_T45_1893_001:0819c06_8_14']	過患篇第十五	過患篇第十五	Chapter 15: Harmfulness
+['ZH_T45_1893_001:0819c06_8_15']	心濁篇第十六	心濁篇第十六	Chapter 16: Mind's Turbidity
+['ZH_T45_1893_001:0819c06_8_16']	二報篇第十七	二報篇第十七	Chapter 17: Two Retributions
+['ZH_T45_1893_001:0819c06_8_17']	結使篇第十八	結使篇第十八	Chapter 18: Afflictions
+['ZH_T45_1893_001:0819c06_8_18']	緣生篇第十九	緣生篇第十九	Chapter 19: Dependent Origination
+['ZH_T45_1893_001:0819c06_8_19']	安般篇第二十	安般篇第二十	Chapter 20: On Anāpāna
+['ZH_T45_1893_001:0819c06_8_20']	相資篇二十一	相資篇二十一	Chapter 21: On Mutual Assistance
+['ZH_T45_1893_001:0819c06_8_21']	因果篇二十二	因果篇二十二	Chapter 22: On Cause and Effect
+['ZH_T45_1893_001:0819c06_8_22']	止劫篇二十三	止劫篇二十三	Chapter 23: On Stopping the Kalpa
+['ZH_T45_1893_001:0819c06_8_23']	一諦篇二十四	一諦篇二十四	Chapter 24: On the One Truth
+['ZH_T45_1893_001:0819c06_8_24']	心行篇二十五	心行篇二十五	Chapter 25: On the Practice of the Mind
+['ZH_T45_1893_001:0819c06_8_25']	菩提篇二十六	菩提篇二十六	Chapter 26: On Bodhi
+['ZH_T45_1893_001:0819c06_8_26']	教化篇二十七	教化篇二十七	Chapter 27: On Teaching and Transforming
+['ZH_T45_1893_001:0819c06_8_27']	佛性篇二十八	佛性篇二十八	Chapter 28: On Buddha-nature
+['ZH_T45_1893_001:0819c06_8_28']	福田篇二十九	福田篇二十九	Chapter 29: On the Field of Merit
+['ZH_T45_1893_001:0819c06_8_29']	受持篇三十1 淨心誡觀法五字釋名法篇淨心誡觀法五字釋名法篇第一淨心者，於汝現行煩惱諸部過患，教修對治，令汝即時隨分解脫。	受持篇三十1 淨心誡觀法五字釋名法篇淨心誡觀法五字釋名法篇第一淨心者，於汝現行煩惱諸部過患，教修對治，令汝即時隨分解脫。	The Five Characters of the Admonitions for Purifying the Mind and Contemplation, Explaining the Names of the Dharma. Chapter 1: The Five Characters of the Admonitions for Purifying the Mind and Contemplation, Explaining the Names of the Dharma. As for purifying the mind, it teaches you to cultivate antidotes to the faults of the various parts of the afflictions that you currently engage in, causing you to be liberated from them part by part at that very moment.
+['ZH_T45_1893_001:0819c08_2']	垢染漸滅，心轉明淨，發生定慧，起於大乘清淨信心，趣向菩提種性住處。	垢染漸滅，心轉明淨，發生定慧，起於大乘清淨信心，趣向菩提種性住處。	The defilements gradually cease, the mind becomes increasingly clear and pure, giving rise to concentration and wisdom, and you give rise to the pure faith of the Great Vehicle, heading towards the abode of the seed nature of bodhi.
+['ZH_T45_1893_001:0819c09_17']	以今微因後感當果，是故教汝察病對治，興隆功業，修入信境，成決定根力。	以今微因後感當果，是故教汝察病對治，興隆功業，修入信境，成決定根力。	Because of this slight cause now, you will receive the future result, and so it teaches you to examine the illness and apply the antidote, to carry out meritorious deeds, to cultivate entering the realm of faith, and to accomplish the power of the determined faculties.
+['ZH_T45_1893_001:0819c11_19']	其三賢十聖、無垢妙覺、四十二地空宗真理，唯可知聞影像麁相，下地凡夫力所未及，亦未能行。	其三賢十聖、無垢妙覺、四十二地空宗真理，唯可知聞影像麁相，下地凡夫力所未及，亦未能行。	The three sagely stages, the ten holy stages, the immaculate wondrous enlightenment, and the truth of the emptiness of the forty-two stages, are only the coarse appearances of knowledge and hearing, which those of the lower stages have not yet reached, and they are also unable to practice.
+['ZH_T45_1893_001:0819c13_3']	今唯使汝淨除業鏡客塵𪾼等，見汝身中少分佛性。	今唯使汝淨除業鏡客塵𪾼等，見汝身中少分佛性。	Now I only instruct you to purify the mirror of karma, remove the dust and grime, and see a small part of the Buddha-nature within your body.
+['ZH_T45_1893_001:0819c15_2']	汝可飲服般若甘露，洗蕩蓋纏漸顯淨心，心若清淨令眾生界淨，眾生既淨則佛土淨。	汝可飲服般若甘露，洗蕩蓋纏漸顯淨心，心若清淨令眾生界淨，眾生既淨則佛土淨。	You can drink the sweet dew of prajñā, wash away the coverings and entanglements, gradually reveal the pure mind, and if the mind is pure, it will purify the realm of sentient beings. When sentient beings are purified, then the Buddha land is purified.
+['ZH_T45_1893_001:0819c17_8']	始除煩惱令戒清淨，戒既完具定復清淨，以戒定淨令智慧淨，智既淨已顯自身源，有此義故名為淨心。	始除煩惱令戒清淨，戒既完具定復清淨，以戒定淨令智慧淨，智既淨已顯自身源，有此義故名為淨心。	First, remove afflictions to purify precepts, and when precepts are complete, concentration is also purified. With the purity of precepts and concentration, wisdom is purified. When wisdom is purified, it reveals the source of one's own body. For this reason, it is called the pure mind.
+['ZH_T45_1893_001:0819c18_3']	已下諸篇，治過雖別，同名淨心。	已下諸篇，治過雖別，同名淨心。	The following chapters, although different in treating faults, are all called the pure mind.
+['ZH_T45_1893_001:0819c20_5']	誡者，令汝識知對治初門，先除麁染根本惡業，知病知藥守心慎口，勵己修道離過患故名誡。	誡者，令汝識知對治初門，先除麁染根本惡業，知病知藥守心慎口，勵己修道離過患故名誡。	Admonition means to make you recognize and know the initial methods of counteracting, first eliminating the coarse defilements and fundamental evil karma. Knowing the illness and knowing the medicine, guarding the mind and being careful with speech, striving to cultivate the path and avoid afflictions, therefore it is called admonition.
+['ZH_T45_1893_001:0819c22_8']	觀者，察義，觀察此誡與佛法相應不相應，及障道過患，名字句偈審諦思量，如實解心得誡本意。	觀者，察義，觀察此誡與佛法相應不相應，及障道過患，名字句偈審諦思量，如實解心得誡本意。	Contemplation means to examine. Contemplating whether this admonition accords with the Buddha Dharma or not, as well as the faults that obstruct the path. Carefully considering the names, phrases, and verses, truly understanding and attaining the original intention of the admonition.
+['ZH_T45_1893_001:0819c24_1']	又能隨順止觀二門，此二法者定始慧初，生長一切禪支道品，故名觀。	又能隨順止觀二門，此二法者定始慧初，生長一切禪支道品，故名觀。	Moreover, being able to follow the two gates of calming and contemplation. These two dharmas are the beginning of concentration and the initial wisdom, giving rise to and nurturing all the branches of dhyāna and the factors of the path, therefore it is called contemplation.
+['ZH_T45_1893_001:0819c26_3']	法者，即此誡文首軸次第，慇懃曉示，欲使禁斷煩惱止諸惡業，加行勝進住不退心，故名為法。	法者，即此誡文首軸次第，慇懃曉示，欲使禁斷煩惱止諸惡業，加行勝進住不退心，故名為法。	Dharma refers to the sequence of this admonitory text, earnestly explaining it, wishing to prohibit afflictions and stop evil karma, with superior practice and progress, abiding in an irreversible mind, therefore it is called the Dharma.
+['ZH_T45_1893_001:0819c27_4']	下諸篇中皆有此淨心誡觀法五義，當須知之。	下諸篇中皆有此淨心誡觀法五義，當須知之。	In the following chapters, there are all these five meanings of the pure mind, admonition, contemplation, and Dharma. One should be aware of them.
+['ZH_T45_1893_001:0819c29_15']	2 誡觀序宗法誡觀序宗法第二夫欲修道，於三業中先斷財色二種。	2 誡觀序宗法誡觀序宗法第二夫欲修道，於三業中先斷財色二種。	2. Preface to the Dharma of Observing Precepts, Preface to the Dharma of Observing Precepts, Part Two. Those who wish to cultivate the Way, among the three karmas, first cut off the two kinds of wealth and desire.
+['ZH_T45_1893_001:0820a01_14']	若不貪財即無諂諍，若不貪色即無熱惱。	若不貪財即無諂諍，若不貪色即無熱惱。	If one is not greedy for wealth, then there will be no flattery and disputes. If one is not greedy for desire, then there will be no heat and distress.
+['ZH_T45_1893_001:0820a01_17']	經云：	經云：	The sutra says:
+['ZH_T45_1893_001:0820a02_8']	「背捨離欲，順菩提分。	「背捨離欲，順菩提分。	Turning one's back on and abandoning desire is in accord with the factors of enlightenment.
+['ZH_T45_1893_001:0820a05_2']	」當修身觀，精勤一心除世貪愛，制伏垢惱令心清淨，以斷財色成無漏善根，薰本識中成無貪種子，漸盡惑染入賢聖位。	」當修身觀，精勤一心除世貪愛，制伏垢惱令心清淨，以斷財色成無漏善根，薰本識中成無貪種子，漸盡惑染入賢聖位。	One should cultivate the observation of the body, diligently and single-mindedly eliminate worldly greed and love, restrain and subdue defilements and afflictions, and make the mind pure. By cutting off wealth and desire, one accomplishes the wholesome roots without outflows, perfuming the seeds of non-greed in the root consciousness, gradually exhausting deluded defilements and entering the stage of sages.
+['ZH_T45_1893_001:0820a06_13']	今見解法人等，仍貪財色長養結使，與諸漏相應，惡業繫縛墜三惡道。	今見解法人等，仍貪財色長養結使，與諸漏相應，惡業繫縛墜三惡道。	Now, those who understand the Dharma still crave wealth and desire, nurturing afflictions, being in accord with the outflows, bound by evil karma, and falling into the three evil paths.
+['ZH_T45_1893_001:0820a06_16']	經云：	經云：	The sutra says:
+['ZH_T45_1893_001:0820a07_11']	「既非道人，又非白衣，無所名也。	「既非道人，又非白衣，無所名也。	They are neither monks nor laypeople, and have no name.
+['ZH_T45_1893_001:0820a10_6']	」多求利故，專習唇吻、莊補華綺，戲論諍訟、遞相謗嫉，三毒轉疆、煩惱增長，沈淪苦海，知而故犯，無解脫時，千佛出世不見不聞。	」多求利故，專習唇吻、莊補華綺，戲論諍訟、遞相謗嫉，三毒轉疆、煩惱增長，沈淪苦海，知而故犯，無解脫時，千佛出世不見不聞。	Because of seeking profit, they exclusively practice lip service, embellishing with flowery language, engaging in frivolous debates and mutual slander, the three poisons become more intense, afflictions increase, sinking in the sea of suffering, knowing yet intentionally violating, without time for liberation, not seeing or hearing even a thousand Buddhas appearing in the world.
+['ZH_T45_1893_001:0820a11_16']	以是因緣，地獄罪畢受惡龍身，為盜佛衣食，破戒瞋垢所得惡果。	以是因緣，地獄罪畢受惡龍身，為盜佛衣食，破戒瞋垢所得惡果。	For this cause, after the hells' offenses are exhausted, they receive the body of an evil dragon, stealing the Buddha's robes and food, breaking precepts and obtaining the evil fruits of angry defilements.
+['ZH_T45_1893_001:0820a12_3']	如《盲龍經》說：	如《盲龍經》說：	As the Sutra of the Blind Dragon says:
+['ZH_T45_1893_001:0820a12_14']	「即知解義，不救業苦。	「即知解義，不救業苦。	One may understand the meaning, but cannot save the suffering of karma.
+['ZH_T45_1893_001:0820a13_19']	」汝宜依誡如說修行，隨病對治隨分解脫，不可口言而得清淨。	」汝宜依誡如說修行，隨病對治隨分解脫，不可口言而得清淨。	You should rely on the admonitions and practice as taught, treating the illness according to the prescription and attaining liberation according to the understanding, one cannot attain purity by mere verbal claims.
+['ZH_T45_1893_001:0820a15_8']	三毒五結，何者偏重，先治重者，輕即自差，披戒定鎧，摧心魔賊。	三毒五結，何者偏重，先治重者，輕即自差，披戒定鎧，摧心魔賊。	Among the three poisons and five bonds, which one is more severe? First treat the more severe one, and the lighter one will naturally disappear. Wearing the armor of precepts and concentration, destroy the mind's demonic thieves.
+['ZH_T45_1893_001:0820a15_19']	一切苦因果，財色為本；	一切苦因果，財色為本；	All causes and effects of suffering, wealth and sex are the basis;
+['ZH_T45_1893_001:0820a16_9']	一切樂因果，戒定為本。	一切樂因果，戒定為本。	All causes and effects of happiness, precepts and concentration are the basis.
+['ZH_T45_1893_001:0820a17_14']	然此因果悉在眾生心微塵中，何故不禁餘過先誡財色？	然此因果悉在眾生心微塵中，何故不禁餘過先誡財色？	However, these causes and effects are all within the subtle dust-motes of sentient beings' minds. Why then does [the Buddha] not prohibit the other offenses but first admonishes against wealth and sex?
+['ZH_T45_1893_001:0820a17_19']	大乘經云：	大乘經云：	The Mahāyāna sūtras say:
+['ZH_T45_1893_001:0820a18_18']	「八萬四千障道罪業，悉因財色以為根本。	「八萬四千障道罪業，悉因財色以為根本。	The eighty-four thousand offenses that obstruct the path, all have wealth and sex as their fundamental causes.
+['ZH_T45_1893_001:0820a19_2']	」何以故？	」何以故？	Why is this so?
+['ZH_T45_1893_001:0820a20_12']	十方眾生無始已來，為財相殺者過微塵數，為色相殺者數復過是。	十方眾生無始已來，為財相殺者過微塵數，為色相殺者數復過是。	Sentient beings in the ten directions have, since beginningless time, killed each other for wealth more times than the number of dust-motes, and killed each other for sex even more times than that.
+['ZH_T45_1893_001:0820a22_13']	道俗二流為於財色，今現有一百二十六大地獄中，受千萬種苦，經無量劫始入畜生餓鬼。	道俗二流為於財色，今現有一百二十六大地獄中，受千萬種苦，經無量劫始入畜生餓鬼。	Both monastics and laypeople, for the sake of wealth and sex, are now undergoing millions of sufferings in the one hundred twenty-six great hells in the present, and after immeasurable eons they will enter the animal realm and the realm of hungry ghosts.
+['ZH_T45_1893_001:0820a23_17']	緇素二人同為財色之所傷害，初持後犯，能免者稀。	緇素二人同為財色之所傷害，初持後犯，能免者稀。	The two, monastics and laypeople, are equally harmed by wealth and sex. Those who initially uphold [the precepts] but later violate them rarely escape [the hells].
+['ZH_T45_1893_001:0820a25_2']	若有斷者名菩薩行、名真持戒、名為賢士、名佛弟子。	若有斷者名菩薩行、名真持戒、名為賢士、名佛弟子。	If there are those who can cut off [attachment to wealth and sex], they are called bodhisattvas, true upholders of the precepts, wise ones, and disciples of the Buddha.
+['ZH_T45_1893_001:0820a27_12']	財色二事相欲似輕，感罪尤重，河沙誑惑由財色起，此之二過能壞君臣師徒夫婦等，亦壞內外親族朋友知識。	財色二事相欲似輕，感罪尤重，河沙誑惑由財色起，此之二過能壞君臣師徒夫婦等，亦壞內外親族朋友知識。	The two matters of wealth and sex seem light, but the resulting offenses are extremely grave. Countless deceptions arise from wealth and sex. These two faults can destroy the relationship between ruler and minister, teacher and disciple, husband and wife, and also destroy the relationship between inner and outer relatives, friends, and acquaintances.
+['ZH_T45_1893_001:0820a29_10']	若離財色更無世間，人天脫苦聖凡同讚，諸漏滅盡進至佛果，為此先誡財色二種。	若離財色更無世間，人天脫苦聖凡同讚，諸漏滅盡進至佛果，為此先誡財色二種。	If one leaves wealth and sex, there is no other way for people and gods in the world to escape suffering. The sages and ordinary beings praise it equally. When all defilements are extinguished, one advances to the fruit of Buddhahood. For this reason, wealth and sex are warned against first.
+['ZH_T45_1893_001:0820b01_15']	因色生憍，因財生悋，憍而且悋，雖有餘德亦不足觀。	因色生憍，因財生悋，憍而且悋，雖有餘德亦不足觀。	Because of sex, one gives rise to arrogance; because of wealth, one gives rise to stinginess. Arrogant and stingy, even if one has other virtues, they are not worth looking at.
+['ZH_T45_1893_001:0820b02_18']	先斷財色，使功行成立，後聽經論，即是入道次第也。	先斷財色，使功行成立，後聽經論，即是入道次第也。	First cut off wealth and sex, and make one's meritorious practices stand out. Then listen to the sutras and treatises. This is the sequence for entering the Way.
+['ZH_T45_1893_001:0820b03_11']	言逆行疾，故名淨心，偈曰：	言逆行疾，故名淨心，偈曰：	It is said that going against the flow is swift, so it is called the pure mind. The verse says:
+['ZH_T45_1893_001:0820b04_0']	煩惱如河沙，　　先斷惡二種，	煩惱如河沙，　　先斷惡二種，	Afflictions are like the sands of the Ganges, first cut off the two kinds of evil,
+['ZH_T45_1893_001:0820b05_13']	一財二是色，　　死時神不恐。	一財二是色，　　死時神不恐。	One is wealth and the other is sex, when dying, the spirit is not afraid.
+['ZH_T45_1893_001:0820b06_0']	吉羅須護持，　　況言犯四重，	吉羅須護持，　　況言犯四重，	Minor offenses must be guarded against, let alone speaking of committing the four grave offenses,
+['ZH_T45_1893_001:0820b07_13']	三聚戒清淨，　　布薩心喜踊。	三聚戒清淨，　　布薩心喜踊。	The three collections of precepts are pure, and the mind rejoices in the poṣadha.
+['ZH_T45_1893_001:0820b08_0']	鄙夫愛財色，　　誡汝斷貪著，	鄙夫愛財色，　　誡汝斷貪著，	The vulgar love wealth and sex, I admonish you to cut off greed and attachment,
+['ZH_T45_1893_001:0820b09_13']	由財三世苦，　　因色入火鑵。	由財三世苦，　　因色入火鑵。	Because of wealth, suffering in the three times, because of sex, entering the fire cauldron.
+['ZH_T45_1893_001:0820b10_0']	色能障聖道，　　財能令行薄，	色能障聖道，　　財能令行薄，	Form can obstruct the holy path, wealth can make practice thin,
+['ZH_T45_1893_001:0820b11_13']	審諦自看心，　　知貪是狂錯。	審諦自看心，　　知貪是狂錯。	Carefully examine one's own mind, know that greed is a delusion.
+['ZH_T45_1893_001:0820b12_0']	智避如火坑，　　頑愚不嫌惡，	智避如火坑，　　頑愚不嫌惡，	The wise avoid it like a pit of fire, the stubborn and foolish do not find it abhorrent,
+['ZH_T45_1893_001:0820b13_13']	若犯當悔除，　　除已更勿作。	若犯當悔除，　　除已更勿作。	If one offends, one should repent and remove it, after removing it, do not commit it again.
+['ZH_T45_1893_001:0820b14_0']	一切有形類，　　終歸填溝壑，	一切有形類，　　終歸填溝壑，	All beings with form will eventually fill the ditches and ravines,
+['ZH_T45_1893_001:0820b15_13']	持戒禁情苦，　　後受大安樂。	持戒禁情苦，　　後受大安樂。	Upholding the precepts and restraining the suffering of the passions, later one will experience great peace and joy.
+['ZH_T45_1893_001:0820b18_14']	3 誡觀五停心觀法誡觀五停心觀法第三五妄想者，如除刺樹先斷其根，故修五停觀息五過，止不令起，故名停心觀。	3 誡觀五停心觀法誡觀五停心觀法第三五妄想者，如除刺樹先斷其根，故修五停觀息五過，止不令起，故名停心觀。	Admonitions on Contemplating the Five Contemplations of Stopping the Mind, Admonitions on Contemplating the Five Contemplations of Stopping the Mind, Chapter 3. As for the five delusions, it is like uprooting a thorny tree first, so one cultivates the five contemplations of stopping to stop the five excesses, and stops them from arising, therefore it is called the contemplation of stopping the mind.
+['ZH_T45_1893_001:0820b19_8']	因修此觀現惱不行，得小解脫；	因修此觀現惱不行，得小解脫；	By cultivating this contemplation, present afflictions do not arise, attaining minor liberation;
+['ZH_T45_1893_001:0820b20_7']	所由之處，戒定調柔漸證神通，名大解脫；	所由之處，戒定調柔漸證神通，名大解脫；	The place where one goes, precepts and concentration are pliable, gradually realizing spiritual powers, called great liberation;
+['ZH_T45_1893_001:0820b20_17']	十障滅盡，名真解脫。	十障滅盡，名真解脫。	The ten hindrances are completely extinguished, called true liberation.
+['ZH_T45_1893_001:0820b21_14']	莫不因今五停觀法，如是修入名為淨心。	莫不因今五停觀法，如是修入名為淨心。	All are due to the five contemplations of cessation and rest, cultivating and entering in this way, called pure mind.
+['ZH_T45_1893_001:0820b21_17']	偈曰：	偈曰：	Verse:
+['ZH_T45_1893_001:0820b22_0']	自知欲情多，　　一向觀不淨，	自知欲情多，　　一向觀不淨，	Knowing oneself to have much desire, single-mindedly contemplating impurity,
+['ZH_T45_1893_001:0820b23_13']	背捨得解脫，　　欲竭即得定；	背捨得解脫，　　欲竭即得定；	Turning one's back on attachment and attaining liberation, desire exhausted and then attaining concentration;
+['ZH_T45_1893_001:0820b24_0']	若當逐講論，　　念欲轉熾盛，	若當逐講論，　　念欲轉熾盛，	If one were to pursue lectures and discussions, thoughts of desire would become more intense,
+['ZH_T45_1893_001:0820b25_13']	是即非對治，　　下道入險徑。	是即非對治，　　下道入險徑。	This would not be the antidote, entering a dangerous path on a lower road.
+['ZH_T45_1893_001:0820b26_0']	自知瞋恚多，　　一向修慈悲，	自知瞋恚多，　　一向修慈悲，	Knowing oneself to have much anger, single-mindedly cultivating kindness and compassion,
+['ZH_T45_1893_001:0820b27_13']	毒火得清涼，　　成就善律儀；	毒火得清涼，　　成就善律儀；	Poison and fire become cool and refreshing, accomplishing wholesome precepts;
+['ZH_T45_1893_001:0820b28_0']	若當逐講論，　　非治徒勞疲，	若當逐講論，　　非治徒勞疲，	If one were to pursue lectures and discussions, the non-antidote would be in vain,
+['ZH_T45_1893_001:0820b29_13']	貪瞋更增長，　　重被煩惱󰊊。	貪瞋更增長，　　重被煩惱󰊊。	Greed and anger would increase even more, being bound again by afflictions.
+['ZH_T45_1893_001:0820c01_0']	自知愚癡多，　　諦觀十二因，	自知愚癡多，　　諦觀十二因，	Knowing my own stupidity is abundant, I contemplate the twelve links of dependent origination,
+['ZH_T45_1893_001:0820c02_13']	始悟輪迴苦，　　了知無我人；	始悟輪迴苦，　　了知無我人；	Only then do I realize the suffering of cyclic existence, and understand there is no self or person;
+['ZH_T45_1893_001:0820c03_0']	若當逐講論，　　見諍終日喧，	若當逐講論，　　見諍終日喧，	If I were to pursue debates, seeing disputes would be noisy all day,
+['ZH_T45_1893_001:0820c04_13']	放本求枝葉，　　不能拔斷根。	放本求枝葉，　　不能拔斷根。	Letting go of the root to seek branches and leaves, I would not be able to uproot it.
+['ZH_T45_1893_001:0820c05_0']	自知我慢多，　　諦觀十八界，	自知我慢多，　　諦觀十八界，	Knowing my own arrogance is abundant, I contemplate the eighteen realms,
+['ZH_T45_1893_001:0820c06_13']	方得無人解，　　吾我病即差；	方得無人解，　　吾我病即差；	Only then can I attain the understanding of no-self, and the illness of ego is cured;
+['ZH_T45_1893_001:0820c07_0']	若當逐講論，　　反益三塗債，	若當逐講論，　　反益三塗債，	If I were to pursue debates, it would only increase the debts of the three lower realms,
+['ZH_T45_1893_001:0820c08_13']	計我常求勝，　　名利自杻械。	計我常求勝，　　名利自杻械。	Calculating myself, always seeking victory, fame and profit are my own shackles.
+['ZH_T45_1893_001:0820c09_0']	自知亂想多，　　常數出入息，	自知亂想多，　　常數出入息，	Knowing my own abundant confused thoughts, I always count my in-and-out breaths,
+['ZH_T45_1893_001:0820c10_13']	覺觀漸得成，　　加我戒定力；	覺觀漸得成，　　加我戒定力；	Gradually attaining awareness and contemplation, adding my precepts and concentration power;
+['ZH_T45_1893_001:0820c11_0']	若當逐講論，　　喧塵未能息，	若當逐講論，　　喧塵未能息，	If I were to pursue debates, the noisy dust would not be able to cease,
+['ZH_T45_1893_001:0820c12_13']	遞互相是非，　　何時滅事識。	遞互相是非，　　何時滅事識。	Passing on each other's right and wrong, when will I extinguish discriminating consciousness?
+['ZH_T45_1893_001:0820c13_9']	此是毘曇中七方便法：	此是毘曇中七方便法：	This is the seven-step method in the Abhidharma:
+['ZH_T45_1893_001:0820c15_11']	五停觀成名第一方便，自餘別相念處、總相念處、𤏙法、頂法、忍法、世第一法，名七方便。	五停觀成名第一方便，自餘別相念處、總相念處、𤏙法、頂法、忍法、世第一法，名七方便。	The five contemplations that are accomplished are called the first expedient means. The remaining specific characteristics of mindfulness, general characteristics of mindfulness, the dharma of increasing, the dharma of the peak, the dharma of patience, and the dharma of the highest worldly realm are called the seven expedient means.
+['ZH_T45_1893_001:0820c16_15']	觀行成就得須陀洹果，若初入道，大小乘人通修此觀。	觀行成就得須陀洹果，若初入道，大小乘人通修此觀。	When the practice of contemplation is accomplished, one attains the fruit of stream-entry. Whether entering the path for the first time, those of the Great Vehicle or Small Vehicle, they all cultivate this contemplation.
+['ZH_T45_1893_001:0820c16_18']	偈曰：	偈曰：	Verse:
+['ZH_T45_1893_001:0820c17_13']	何因說五停，　　復不逐講經？	何因說五停，　　復不逐講經？	Why speak of the five contemplations, and yet not follow the lectures?
+['ZH_T45_1893_001:0820c18_0']	抱疾說藥方，　　祇欲取聲名，	抱疾說藥方，　　祇欲取聲名，	Embracing illness and speaking of prescriptions, only wanting to gain fame,
+['ZH_T45_1893_001:0820c19_0']	凡夫貪利養，　　無心治忘情，	凡夫貪利養，　　無心治忘情，	Ordinary people greedily seek profit and support, with no intention to treat and forget emotions.
+['ZH_T45_1893_001:0820c20_13']	若修五停觀，　　決定修道成。	若修五停觀，　　決定修道成。	If one cultivates the five contemplations, one will definitely cultivate and accomplish the path.
+['ZH_T45_1893_001:0820c21_12']	何故令修五停觀法止逐講論？	何故令修五停觀法止逐講論？	Why is it that one is made to cultivate the five contemplation methods to stop following lectures and discussions?
+['ZH_T45_1893_001:0820c21_17']	有二要法：	有二要法：	There are two essential methods:
+['ZH_T45_1893_001:0820c22_14']	一者佛教次第入道，對治麤重煩惱。	一者佛教次第入道，對治麤重煩惱。	First, the Buddha's teachings enter the path in sequence, counteracting coarse and heavy afflictions.
+['ZH_T45_1893_001:0820c24_6']	二者見解法義人，知而故犯，不畏佛戒，不修威儀，五篇淨戒悉皆破盡。	二者見解法義人，知而故犯，不畏佛戒，不修威儀，五篇淨戒悉皆破盡。	Second, those who see and understand the Dharma and its meaning, who knowingly violate precepts, are not afraid of the Buddha's prohibitions, do not cultivate dignified conduct, and completely destroy the five categories of pure precepts.
+['ZH_T45_1893_001:0820c25_1']	見他持戒復起憎謗，唯貪財色。	見他持戒復起憎謗，唯貪財色。	Seeing others upholding precepts, they give rise to hatred and slander, only greedy for wealth and desires.
+['ZH_T45_1893_001:0820c26_13']	瞋惱鬪諍，慳嫉憍慢，無漸無愧，身壞命終，必墮地獄畜生餓鬼，經歷多劫。	瞋惱鬪諍，慳嫉憍慢，無漸無愧，身壞命終，必墮地獄畜生餓鬼，經歷多劫。	Angry, quarrelsome, stingy, jealous, and arrogant, without shame or remorse, their bodies perish, their lives end, and they will certainly fall into the hells, animal realms, or hungry ghost realms, experiencing many eons.
+['ZH_T45_1893_001:0820c28_3']	當觀此事，現前驗知，故修五停，止過起道，順佛教故，名為淨心。	當觀此事，現前驗知，故修五停，止過起道，順佛教故，名為淨心。	One should observe this matter, verify it in the present, and therefore cultivate the five cessations to stop transgressions and give rise to the Way, in accordance with the Buddha's teachings, which is called the pure mind.
+['ZH_T45_1893_001:0820c28_6']	偈曰：	偈曰：	Verse:
+['ZH_T45_1893_001:0820c29_0']	貪如豺狼性，　　瞋如惡龍心，	貪如豺狼性，　　瞋如惡龍心，	Greed is like the nature of a jackal, anger is like the mind of a vicious dragon,
+['ZH_T45_1893_001:0821a01_13']	壞法故毀禁，　　污戒犯姦淫。	壞法故毀禁，　　污戒犯姦淫。	Destroying the Dharma, thus violating prohibitions, defiling precepts, committing adultery.
+['ZH_T45_1893_001:0821a02_0']	識法望除毒，　　反更作罪深，	識法望除毒，　　反更作罪深，	Recognizing the Dharma, hoping to eliminate poison, but instead committing deeper offenses,
+['ZH_T45_1893_001:0821a03_13']	造業心無悔，　　命過就刀林。	造業心無悔，　　命過就刀林。	Creating karma with no remorse, when life ends, one goes to the forest of swords.
+['ZH_T45_1893_001:0821a04_0']	墮大無間獄，　　佛性歷劫沈，	墮大無間獄，　　佛性歷劫沈，	Falling into the great Avīci Hell, Buddha-nature sinking through the eons,
+['ZH_T45_1893_001:0821a05_13']	如職除名罰，　　失勢不堪任。	如職除名罰，　　失勢不堪任。	Like being dismissed from office due to a crime, one loses power and is unable to serve.
+['ZH_T45_1893_001:0821a06_5']	云何破戒口？	云何破戒口？	What is a mouth that breaks precepts?
+['ZH_T45_1893_001:0821a06_13']	　　噉人食憍恣；	　　噉人食憍恣；	Eating people's food with arrogance and indulgence;
+['ZH_T45_1893_001:0821a07_5']	云何破戒手？	云何破戒手？	What is a hand that breaks precepts?
+['ZH_T45_1893_001:0821a07_13']	　　受人財物施；	　　受人財物施；	Receiving people's financial offerings;
+['ZH_T45_1893_001:0821a08_5']	云何破戒身？	云何破戒身？	What is a body that breaks precepts?
+['ZH_T45_1893_001:0821a08_13']	　　坐臥好床褥；	　　坐臥好床褥；	Sitting and lying on good bedding;
+['ZH_T45_1893_001:0821a09_5']	云何破戒業？	云何破戒業？	What is a profession that breaks precepts?
+['ZH_T45_1893_001:0821a09_13']	　　受他禮己足；	　　受他禮己足；	Accepting others' prostrations to one's feet;
+['ZH_T45_1893_001:0821a10_5']	云何破戒行？	云何破戒行？	What is an action that breaks precepts?
+['ZH_T45_1893_001:0821a10_13']	　　默受稱揚讚。	　　默受稱揚讚。	Silently accepting praise and admiration.
+['ZH_T45_1893_001:0821a11_13']	若犯此五事，　　諸天共悲歎。	若犯此五事，　　諸天共悲歎。	If one commits these five things, the gods will all lament together.
+['ZH_T45_1893_001:0821a12_15']	佛教新受戒者五年學律，然後學經。	佛教新受戒者五年學律，然後學經。	The Buddha taught that newly ordained monks should study the Vinaya for five years, and then study the sutras.
+['ZH_T45_1893_001:0821a13_1']	律有五部：	律有五部：	There are five divisions of the Vinaya:
+['ZH_T45_1893_001:0821a13_36']	一、《四分》，二、《五分》，三、《十誦》，四、《僧祇》，五、《解脫》。	一、《四分》，二、《五分》，三、《十誦》，四、《僧祇》，五、《解脫》。	1. The Four Part Vinaya, 2. The Five Part Vinaya, 3. The Ten Recitations Vinaya, 4. The Mahāsāṃghika-vinaya, 5. The Vinaya of Liberation.
+['ZH_T45_1893_001:0821a15_1']	此五部律同一毘尼大藏，文相廣博卒難悉識。	此五部律同一毘尼大藏，文相廣博卒難悉識。	These five divisions of the Vinaya are the same in being the great canon of the Vinaya. The textual aspects are vast and difficult to fully understand.
+['ZH_T45_1893_001:0821a15_20']	今欲知者財色為宗，能斷財色，即名奉律。	今欲知者財色為宗，能斷財色，即名奉律。	If one wishes to know them now, wealth and sex are the main points. Being able to cut off wealth and sex is called upholding the Vinaya.
+['ZH_T45_1893_001:0821a17_3']	禁戒清淨，發生定慧，成就聖道，知律綱要故名淨心。	禁戒清淨，發生定慧，成就聖道，知律綱要故名淨心。	The pure precepts give rise to concentration and wisdom, and one accomplishes the noble path. Because one knows the essentials of the Vinaya, it is called pure mind.
+['ZH_T45_1893_001:0821a17_6']	偈曰：	偈曰：	Verse:
+['ZH_T45_1893_001:0821a18_0']	五部戒律中，　　宗要斷財色，	五部戒律中，　　宗要斷財色，	In the five divisions of the Vinaya, the essentials are to cut off wealth and desires,
+['ZH_T45_1893_001:0821a19_13']	修禪觀不淨，　　對治自忍抑。	修禪觀不淨，　　對治自忍抑。	Cultivate meditation and contemplation of impurity, and use self-restraint as an antidote.
+['ZH_T45_1893_001:0821a20_0']	林野歎死屍，　　內心懷悲惻，	林野歎死屍，　　內心懷悲惻，	In the forest and wilderness, lament the dead body, and harbor sadness in the mind,
+['ZH_T45_1893_001:0821a21_13']	我身會當然，　　貪熱即時息。	我身會當然，　　貪熱即時息。	Thinking that one's own body will also end up like this, the burning of greed immediately ceases.
+['ZH_T45_1893_001:0821a22_13']	三毒甚強盛，　　摧之用智力。	三毒甚強盛，　　摧之用智力。	The three poisons are extremely strong, and one uses the power of wisdom to subdue them.
+['ZH_T45_1893_001:0821a23_13']	衣求破弊衣，　　食即一坐食。	衣求破弊衣，　　食即一坐食。	In clothing, seek tattered clothes; in food, take only one sitting meal.
+['ZH_T45_1893_001:0821a24_13']	常行平等心，　　淨意恒質直。	常行平等心，　　淨意恒質直。	Always practice an impartial mind, and let the pure intention be always straightforward.
+['ZH_T45_1893_001:0821a25_13']	若不能如此，　　袈裟覆荊棘。	若不能如此，　　袈裟覆荊棘。	If one is unable to do so, then the kasaya covers the thorns.
+['ZH_T45_1893_001:0821a28_19']	聖教萬差，為根性不同，病藥眾多愚者致惑，雖用功力非正對治，妄貪名利更增塵垢，是以先修五停後學講論，知道次第，名為淨心。	聖教萬差，為根性不同，病藥眾多愚者致惑，雖用功力非正對治，妄貪名利更增塵垢，是以先修五停後學講論，知道次第，名為淨心。	The myriad differences in the scriptures are due to the various capacities and natures of sentient beings. With many illnesses, there are many medicines. The ignorant are confused and, although they exert effort, it is not the correct treatment. Deludedly craving fame and profit, they further increase their defilements. Therefore, first cultivate the five cessations and then study lecturing and debating. Knowing the sequence of the path is called a pure mind.
+['ZH_T45_1893_001:0821a29_2']	偈曰：	偈曰：	Verse:
+['ZH_T45_1893_001:0821b01_0']	世人習多聞，　　未曾行一分，	世人習多聞，　　未曾行一分，	Worldly people cultivate much learning, but never practice even a fraction,
+['ZH_T45_1893_001:0821b02_13']	妄情取妄法，　　諍競起紛紜。	妄情取妄法，　　諍競起紛紜。	With deluded emotions grasping at deluded dharmas, disputes and chaos arise.
+['ZH_T45_1893_001:0821b03_0']	入道依次第，　　戒定自資薰，	入道依次第，　　戒定自資薰，	Entering the path depends on the sequence, with precepts and concentration nourishing oneself,
+['ZH_T45_1893_001:0821b04_13']	淨命如迦葉，　　勿得同六群。	淨命如迦葉，　　勿得同六群。	Pure livelihood like Kāśyapa, do not be the same as the group of six.
+['ZH_T45_1893_001:0821b09_11']	4 誡觀末法中校量心行法誡觀末法中校量心行法第四凡夫解義皆因聽學，為知法人，身犯四重，畜八不淨財，食噉俗饌，無羞無恥，知而故犯，不畏後世，是故令汝校量心行，先淨禁戒後方聽經，汝用五誡得名淨心。	4 誡觀末法中校量心行法誡觀末法中校量心行法第四凡夫解義皆因聽學，為知法人，身犯四重，畜八不淨財，食噉俗饌，無羞無恥，知而故犯，不畏後世，是故令汝校量心行，先淨禁戒後方聽經，汝用五誡得名淨心。	4. Admonitions on Contemplating the Extent of Mental Practice in the Dharma of the Latter Age, Admonitions on Contemplating the Extent of Mental Practice in the Dharma of the Latter Age, Part 4. Ordinary beings understand the meaning through listening and learning, in order to know the Dharma, but their bodies commit the four grave offenses, they keep the eight impure assets, they eat worldly delicacies, they have no shame or embarrassment, they knowingly commit offenses, and they are not afraid of the afterlife. Therefore, it is instructed that you should first purify your precepts and then listen to the sutras, and by using the five admonitions you will attain the name of pure mind.
+['ZH_T45_1893_001:0821b12_7']	古者大德講《華嚴經》唯一卷疏，於後法師作三卷疏，今時講者〈十地〉一品出十卷疏，各逞功能競顯華詞，文字浩博寄心無所。	古者大德講《華嚴經》唯一卷疏，於後法師作三卷疏，今時講者〈十地〉一品出十卷疏，各逞功能競顯華詞，文字浩博寄心無所。	In the past, the great virtuous ones lectured on the Avatamsaka Sutra with only one fascicle of commentary, but later Dharma masters wrote commentaries in three fascicles. Nowadays, lecturers on the Ten Grounds chapter produce commentaries in ten fascicles, each showing off their abilities and competing in displaying flowery words. The texts are vast and extensive, with no fixed focus.
+['ZH_T45_1893_001:0821b13_1']	然文者當體即義，何須人語？	然文者當體即義，何須人語？	However, the text itself is the meaning. Why must it be explained in human language?
+['ZH_T45_1893_001:0821b14_17']	今時愚人竟求於名不求於法，法尚不可著，何況著文字，法離文字，言語斷故。	今時愚人竟求於名不求於法，法尚不可著，何況著文字，法離文字，言語斷故。	Now, foolish people only seek fame and not the Dharma. Since the Dharma cannot be grasped, how much less so can one grasp written words? Because the Dharma is apart from written words and language is cut off.
+['ZH_T45_1893_001:0821b15_1']	《大集經》云：	《大集經》云：	The Mahāsaṃnipāta Sūtra says:
+['ZH_T45_1893_001:0821b15_12']	「經文是一，講者異說。	「經文是一，講者異說。	The text is one, but the expounders have different explanations.
+['ZH_T45_1893_001:0821b16_10']	」各恃己見壞亂正法，天神瞋故三災俱起。	」各恃己見壞亂正法，天神瞋故三災俱起。	Each one relies on their own views to destroy and confuse the true Dharma. Because the celestial spirits are angry, the three calamities arise together.
+['ZH_T45_1893_001:0821b17_17']	以是因緣佛法淡薄，如一斛水解一升酪，看似酪色食即無味。	以是因緣佛法淡薄，如一斛水解一升酪，看似酪色食即無味。	For this reason, the Buddha's teachings become diluted, like one bushel of water dissolving one pint of yogurt. Although it looks like the color of yogurt, when drunk it has no flavor.
+['ZH_T45_1893_001:0821b18_18']	諦思講論，人情測佛，佛智境界，豈人能測？	諦思講論，人情測佛，佛智境界，豈人能測？	Carefully consider expounding and discussing, human emotions measure the Buddha. How can the realm of the Buddha's wisdom be measured by humans?
+['ZH_T45_1893_001:0821b19_7']	如是審察，名為淨心。	如是審察，名為淨心。	If one examines in this way, it is called a pure mind.
+['ZH_T45_1893_001:0821b19_10']	偈曰：	偈曰：	Verse:
+['ZH_T45_1893_001:0821b20_0']	敷演說法師，　　二種陞高座，	敷演說法師，　　二種陞高座，	The Dharma expounder, ascending the high seat in two ways,
+['ZH_T45_1893_001:0821b21_13']	一者福無量，　　二者離罪過。	一者福無量，　　二者離罪過。	First, immeasurable blessings, second, free from offenses.
+['ZH_T45_1893_001:0821b22_0']	慈心成就人，　　法施勝財貨，	慈心成就人，　　法施勝財貨，	The person who accomplishes the mind of kindness, the Dharma offering surpasses material gifts,
+['ZH_T45_1893_001:0821b23_13']	瞋垢是非他，　　棘刺上坐臥。	瞋垢是非他，　　棘刺上坐臥。	Anger, defilements, and disputes with others, sitting and lying on thorns.
+['ZH_T45_1893_001:0821b24_0']	有漏為基堵，　　無明作根本，	有漏為基堵，　　無明作根本，	With the contaminated as the foundation, ignorance as the root,
+['ZH_T45_1893_001:0821b25_13']	解經不除毒，　　法師自傷損。	解經不除毒，　　法師自傷損。	If one does not remove poison when explaining the sūtras, the Dharma master will injure himself.
+['ZH_T45_1893_001:0821b26_0']	賊心求名利，　　怱怱未思忖，	賊心求名利，　　怱怱未思忖，	With a thieving mind seeking fame and profit, one is hasty and does not think carefully,
+['ZH_T45_1893_001:0821b27_13']	嬰孩欲登梯，　　先須戒足隱。	嬰孩欲登梯，　　先須戒足隱。	Like an infant wanting to climb a ladder, one must first hide one's feet.
+['ZH_T45_1893_001:0821b28_0']	學士聰明者，　　舉動多輕躁，	學士聰明者，　　舉動多輕躁，	A scholar who is intelligent often moves with much lightness and agitation,
+['ZH_T45_1893_001:0821b29_13']	或有錯解義，　　邪見復顛倒。	或有錯解義，　　邪見復顛倒。	He may have misunderstood the meaning, and his wrong views are also inverted.
+['ZH_T45_1893_001:0821c01_0']	是故定治動，　　七覺中法要，	是故定治動，　　七覺中法要，	Therefore, one should definitely control agitation, and the Dharma of the seven factors of enlightenment is essential.
+['ZH_T45_1893_001:0821c02_13']	定慧平等修，　　種智得微妙。	定慧平等修，　　種智得微妙。	If one cultivates samādhi and prajñā equally, one will attain the subtle wisdom of the Buddha.
+['ZH_T45_1893_001:0821c03_0']	世尊在世時，　　唯教修出離，	世尊在世時，　　唯教修出離，	When the World-Honored One was in the world, he only taught the practice of renunciation,
+['ZH_T45_1893_001:0821c04_13']	習善莫生足，　　少惡即遠避。	習善莫生足，　　少惡即遠避。	One should be content with cultivating goodness and avoid even the slightest evil.
+['ZH_T45_1893_001:0821c05_0']	念念觀無常，　　勤修真對治，	念念觀無常，　　勤修真對治，	Moment by moment, contemplate impermanence and diligently cultivate true antidotes,
+['ZH_T45_1893_001:0821c06_13']	寂慮學禪那，　　何須著文字。	寂慮學禪那，　　何須著文字。	Quietly contemplate and study dhyāna concentration, why bother with written words?
+['ZH_T45_1893_001:0821c07_16']	何因世尊在世時，悉得聖道及生天中？	何因世尊在世時，悉得聖道及生天中？	Why is it that when the World-Honored One was in the world, everyone attained the holy path and was reborn in the heavens?
+['ZH_T45_1893_001:0821c08_12']	依次而學，不越毘尼，入道有方。	依次而學，不越毘尼，入道有方。	Study them in sequence, do not violate the Vinaya, and enter the path with a method.
+['ZH_T45_1893_001:0821c10_17']	五年習戒，夜則修定攝心守境，安處林野不畜餘食，少欲慚愧，一心諦觀無常不淨，離諸調戲意不散亂。	五年習戒，夜則修定攝心守境，安處林野不畜餘食，少欲慚愧，一心諦觀無常不淨，離諸調戲意不散亂。	For five years, practice the precepts, at night cultivate concentration to control the mind and guard the realm, peacefully dwell in the forest and do not keep extra food, have few desires and a sense of shame, single-mindedly contemplate impermanence and impurity, leave all frivolous thoughts and do not let the mind be scattered.
+['ZH_T45_1893_001:0821c12_6']	舉動進止恒令淨潔，無惡姿容，先意問訊，以是善緣悉得道迹。	舉動進止恒令淨潔，無惡姿容，先意問訊，以是善緣悉得道迹。	In all movements and actions, always be pure and clean, without an evil appearance, greet with a prior intention, by these wholesome conditions, all attain the path.
+['ZH_T45_1893_001:0821c13_1']	汝能一心依此學者，名為淨心。	汝能一心依此學者，名為淨心。	If you are able to single-mindedly rely on this study, it is called a pure mind.
+['ZH_T45_1893_001:0821c13_4']	偈曰：	偈曰：	Verse:
+['ZH_T45_1893_001:0821c14_0']	正法證道時，　　淨法調眾生，	正法證道時，　　淨法調眾生，	When the true Dharma realizes the path, the pure Dharma tames sentient beings,
+['ZH_T45_1893_001:0821c15_13']	隨事秉羯磨，　　除垢獲三明。	隨事秉羯磨，　　除垢獲三明。	In accordance with the matter, uphold the karman, remove defilements and attain the three insights.
+['ZH_T45_1893_001:0821c16_0']	像法盡至末，　　羯磨廢不行，	像法盡至末，　　羯磨廢不行，	The semblance Dharma ends and reaches the end, the karman is abolished and not practiced,
+['ZH_T45_1893_001:0821c17_13']	雖復似和合，　　集則起鬪諍。	雖復似和合，　　集則起鬪諍。	Although it seems to be harmonious, when gathered, it gives rise to disputes.
+['ZH_T45_1893_001:0821c18_0']	凡是諸經律，　　甘露亦毒藥，	凡是諸經律，　　甘露亦毒藥，	All these sūtras and vinayas, both nectar and poison,
+['ZH_T45_1893_001:0821c19_13']	解服百疹瘳，　　不消病發作。	解服百疹瘳，　　不消病發作。	When the medicine is digested, a hundred illnesses are cured, but if it is not digested, the illness flares up.
+['ZH_T45_1893_001:0821c20_0']	知法不向心，　　解經行轉薄，	知法不向心，　　解經行轉薄，	If one knows the Dharma but does not turn to the mind, understanding the sūtras and practice becomes increasingly shallow.
+['ZH_T45_1893_001:0821c21_13']	棄捨戒定業，　　文字處起著。	棄捨戒定業，　　文字處起著。	Abandoning the practice of precepts and concentration, one becomes attached to the words and letters.
+['ZH_T45_1893_001:0821c22_0']	所以韻句撰，　　讀時心歡樂，	所以韻句撰，　　讀時心歡樂，	Therefore, the rhymes and phrases are compiled, and when reading, the mind is delighted.
+['ZH_T45_1893_001:0821c23_13']	靜坐好思量，　　觀察自忖度。	靜坐好思量，　　觀察自忖度。	Sitting quietly, one likes to contemplate and observe, and reflect on oneself.
+['ZH_T45_1893_001:0821c24_5']	何緣重頌偈？	何緣重頌偈？	For what reason are the verses repeated?
+['ZH_T45_1893_001:0821c24_13']	　　文少義廣博。	　　文少義廣博。	The text is brief, but the meaning is vast.
+['ZH_T45_1893_001:0821c25_13']	依戒益汝身，　　信受勿疑惡。	依戒益汝身，　　信受勿疑惡。	Relying on the precepts benefits your body; believe and accept them, do not doubt evil.
+['ZH_T45_1893_001:0821c26_0']	或見他毀罵，　　輕賤心漠漠，	或見他毀罵，　　輕賤心漠漠，	If you see others slandering and insulting you, with a light and indifferent mind,
+['ZH_T45_1893_001:0821c27_13']	此約大乘教，　　與理不違錯。	此約大乘教，　　與理不違錯。	This is based on the Mahāyāna teachings, and does not contradict the principle.
+['ZH_T45_1893_001:0821c29_19']	5 誡觀六難自慶修道法誡觀六難自慶修道法第五一者，萬類之中人身難得，如《提謂經》說：	5 誡觀六難自慶修道法誡觀六難自慶修道法第五一者，萬類之中人身難得，如《提謂經》說：	Admonitions on Contemplating the Six Difficulties and Rejoicing in Cultivating the Way, Part 5: First, among the myriad kinds, obtaining a human body is difficult. As the Tiwei Sutra says:
+['ZH_T45_1893_001:0822a01_7']	「今得人身，難於龜木。	「今得人身，難於龜木。	Now obtaining a human body is more difficult than a turtle encountering a hole in a piece of wood.
+['ZH_T45_1893_001:0822a02_16']	」二者，雖得人身中國難生，此土即當邊地之中，具足大乘正法經律。	」二者，雖得人身中國難生，此土即當邊地之中，具足大乘正法經律。	Second, although one has obtained a human body, it is difficult to be born in a central country. This land is in the midst of borderlands, and it is fully endowed with the Mahayana sutras and vinayas.
+['ZH_T45_1893_001:0822a03_19']	三者，雖有正法，信樂復難，今隨力信，不敢疑謗。	三者，雖有正法，信樂復難，今隨力信，不敢疑謗。	Third, although there is the true Dharma, it is even more difficult to have faith and joy. Now, following one's ability to believe, one does not dare to doubt or slander.
+['ZH_T45_1893_001:0822a04_20']	四者，人身難具，今受男形根無殘缺，相貌成就。	四者，人身難具，今受男形根無殘缺，相貌成就。	Fourth, it is difficult to be fully endowed with a human body. Now, one has obtained a male form with unimpaired faculties and perfect appearance.
+['ZH_T45_1893_001:0822a06_20']	五者，雖具男形，六根無缺，五欲纏染，出家甚難，今得割愛出家修道，披著佛衣，受佛淨戒。	五者，雖具男形，六根無缺，五欲纏染，出家甚難，今得割愛出家修道，披著佛衣，受佛淨戒。	Fifth, although one is fully endowed with a male form and unimpaired six faculties, it is very difficult to renounce the household life while entangled in the five desires. Now, one has cut off love and renounced the household life to cultivate the path, wearing the Buddha's robe and receiving the Buddha's pure precepts.
+['ZH_T45_1893_001:0822a08_8']	六者，雖受禁戒，隨戒甚難，汝可於戒律中，尊重愛樂，慚愧慎護。	六者，雖受禁戒，隨戒甚難，汝可於戒律中，尊重愛樂，慚愧慎護。	Sixth, although one has received the precepts, it is very difficult to follow the precepts. You should respect, love, feel ashamed, and carefully protect the precepts and vinaya.
+['ZH_T45_1893_001:0822a09_6']	於此六事若不觀察，即便放逸深障聖道。	於此六事若不觀察，即便放逸深障聖道。	If one does not contemplate these six matters, one will then be negligent and deeply obstruct the holy path.
+['ZH_T45_1893_001:0822a10_16']	既超六難，常應喜慶，難得已得，得已莫失，如是思量，名為淨心。	既超六難，常應喜慶，難得已得，得已莫失，如是思量，名為淨心。	Having already escaped the six difficulties, one should always rejoice. What is difficult to obtain has already been obtained. Having obtained it, do not lose it. Thinking in this way is called a pure mind.
+['ZH_T45_1893_001:0822a10_19']	偈曰：	偈曰：	Verse:
+['ZH_T45_1893_001:0822a11_0']	世有六種難，　　難得已得具，	世有六種難，　　難得已得具，	In the world there are six kinds of difficulties. Having obtained what is difficult to obtain, one is complete.
+['ZH_T45_1893_001:0822a12_0']	勤修戒定慧，　　善解名味句，	勤修戒定慧，　　善解名味句，	Diligent cultivation of precepts, concentration, and wisdom, well understanding names, meanings, and phrases,
+['ZH_T45_1893_001:0822a13_13']	是故學大乘，　　問即須知處。	是故學大乘，　　問即須知處。	Therefore, studying the Great Vehicle, one must know the place when asked.
+['ZH_T45_1893_001:0822a14_0']	受他檀越食，　　飽腹無智慮，	受他檀越食，　　飽腹無智慮，	Receiving the food of donors, filling the stomach without wisdom and consideration,
+['ZH_T45_1893_001:0822a15_0']	無智長貪瞋，　　不能如法住，	無智長貪瞋，　　不能如法住，	Without wisdom, greed and anger increase, unable to abide in accordance with the Dharma,
+['ZH_T45_1893_001:0822a16_13']	犯禁毀戒足，　　命終生四趣。	犯禁毀戒足，　　命終生四趣。	Violating prohibitions and destroying precepts, at the end of life one is reborn in the four destinies.
+['ZH_T45_1893_001:0822a18_12']	6 誡觀世相如夢修出世善根法誡觀世相如夢修出世善根法第六云何方便能令眾生離苦出世？	6 誡觀世相如夢修出世善根法誡觀世相如夢修出世善根法第六云何方便能令眾生離苦出世？	Admonishing to contemplate the characteristics of the world as like a dream and cultivate supramundane wholesome roots Admonishing to contemplate the characteristics of the world as like a dream and cultivate supramundane wholesome roots, Part 6: How can skillful means enable sentient beings to leave suffering and transcend the world?
+['ZH_T45_1893_001:0822a19_4']	但愚人貪愛，我即不貪。	但愚人貪愛，我即不貪。	Only fools are greedy and attached, I am not greedy.
+['ZH_T45_1893_001:0822a19_13']	何者是名世愚貪愛？	何者是名世愚貪愛？	What is it that the world's fools are greedy and attached to?
+['ZH_T45_1893_001:0822a25_7']	所謂官榮封賞、車馬庫藏、臺觀園林、采女音樂、上服美饌、遊戲射獵、宴會倡伎、嫁娶賓席、恃怙族姓、追朋逐勢、三軍列陣、前鋒精銳、謀策將略、果毅傷殺、平殄除蕩、快意適情、攻城破柵、收縛簿歛、刀筆豪俠、意志建立、俗藝醫方、工巧居積、攝歛奠祭。	所謂官榮封賞、車馬庫藏、臺觀園林、采女音樂、上服美饌、遊戲射獵、宴會倡伎、嫁娶賓席、恃怙族姓、追朋逐勢、三軍列陣、前鋒精銳、謀策將略、果毅傷殺、平殄除蕩、快意適情、攻城破柵、收縛簿歛、刀筆豪俠、意志建立、俗藝醫方、工巧居積、攝歛奠祭。	Namely, official honors, rewards, carriages, horses, treasuries, pavilions, gardens, singing girls, music, fine clothes, delicious food, games, hunting, banquets, entertainment, weddings, guests, relying on one's clan, pursuing power, the three armies arrayed in battle, the sharp vanguard, strategies and tactics, the killing of soldiers, pacifying and destroying, delighting the mind, attacking cities, breaking through barricades, capturing and binding, scribes and powerful people, establishing one's will, worldly arts and medical prescriptions, crafts and occupations, and offerings and sacrifices.
+['ZH_T45_1893_001:0822a28_6']	以要言之，如此眾多世務，無量殺害、飲酒噉肉、鬪諍勝負、怨讎熱惱、悲喜安危、吉凶禍福，能於此中悉捨離者，名真修道出世人也。	以要言之，如此眾多世務，無量殺害、飲酒噉肉、鬪諍勝負、怨讎熱惱、悲喜安危、吉凶禍福，能於此中悉捨離者，名真修道出世人也。	To put it simply, all these worldly affairs, countless killings, drinking alcohol, eating meat, fighting for victory, enmity and vexation, sorrow and joy, safety and danger, good and bad fortune, if one can completely abandon them, it is called true cultivation and leaving the world.
+['ZH_T45_1893_001:0822b01_11']	眾生迷倒，於此世事謂是真法，不知無數劫來生死大苦，身壞命終墮三惡道，恒河沙劫受大燒煮。	眾生迷倒，於此世事謂是真法，不知無數劫來生死大苦，身壞命終墮三惡道，恒河沙劫受大燒煮。	Sentient beings are deluded and inverted, regarding these worldly matters as true Dharma. They do not know that for countless eons, they have been subject to the great suffering of birth and death, and when their bodies perish and lives end, they fall into the three evil paths, undergoing great burning and cooking for eons as numerous as the sands of the Ganges River.
+['ZH_T45_1893_001:0822b03_6']	雖遭此苦，仍於生死貪著無厭，迭相承習迷惑塵境，皆由未值善導未聞正法。	雖遭此苦，仍於生死貪著無厭，迭相承習迷惑塵境，皆由未值善導未聞正法。	Although they undergo this suffering, they still greedily cling to birth and death without satiation, and continue to be deluded by the dust and realms, all due to not yet encountering a good guide and not yet hearing the true Dharma.
+['ZH_T45_1893_001:0822b04_1']	汝今既聞，如聞修學，名為淨心。	汝今既聞，如聞修學，名為淨心。	Now that you have heard it, practice according to what you have heard, and this is called purifying the mind.
+['ZH_T45_1893_001:0822b04_4']	偈曰：	偈曰：	Verse:
+['ZH_T45_1893_001:0822b05_0']	凡夫狂癡性，　　所見常不正，	凡夫狂癡性，　　所見常不正，	The nature of ordinary beings is mad and deluded, and their views are always incorrect.
+['ZH_T45_1893_001:0822b06_13']	資養三毒身，　　貪瞋轉增盛。	資養三毒身，　　貪瞋轉增盛。	Nourishing the body of the three poisons, greed and hatred increase and flourish.
+['ZH_T45_1893_001:0822b07_0']	未觀屍穢形，　　持糞如行屏，	未觀屍穢形，　　持糞如行屏，	Not yet contemplating the foul form of a corpse, carrying excrement like going to the toilet,
+['ZH_T45_1893_001:0822b08_13']	常遊違順境，　　詐偽起諂佞。	常遊違順境，　　詐偽起諂佞。	Always wandering in the realms of opposition and compliance, deceit and flattery arise.
+['ZH_T45_1893_001:0822b09_0']	實無常我樂，　　妄見常我淨，	實無常我樂，　　妄見常我淨，	There is no permanence, self, bliss, or purity in reality, yet falsely seeing permanence, self, and purity,
+['ZH_T45_1893_001:0822b10_13']	罪業顛倒故，　　恒遊諸險徑。	罪業顛倒故，　　恒遊諸險徑。	Due to the inversion of sinful karma, one always wanders in treacherous paths.
+['ZH_T45_1893_001:0822b11_0']	智者如實解，　　慧命心決定，	智者如實解，　　慧命心決定，	The wise ones truly understand, their life of wisdom and mind are resolute,
+['ZH_T45_1893_001:0822b12_13', 'ZH_T45_1893_001:0822b27_1_0']	觀世如夢幻，　　窮真道成聖。🔽7 誡觀破戒僧尼不修出世法誡觀破戒僧尼不	觀世如夢幻，　　窮真道成聖。 7 誡觀破戒僧尼不修出世法誡觀破戒僧尼不	Contemplating the world as like a dream or illusion, they reach the true path and attain sagehood.
+['ZH_T45_1893_001:0822b27_1_1']	修出世法第七僧尼破戒者，所謂畜養奴婢僮僕	修出世法第七僧尼破戒者，所謂畜養奴婢僮僕	Admonitions for Observing Monks and Nuns Who Break Precepts and Do Not Cultivate Supramundane Dharmas Admonitions for Observing Monks and Nuns Who Break Precepts and Do Not Cultivate Supramundane Dharmas, Part 7 Monks and Nuns Who Break Precepts: Namely, keeping slaves, servants,
+['ZH_T45_1893_001:0822b27_1_2']	牛驢車乘田宅、種植園林華果、金銀粟白、屏	牛驢車乘田宅、種植園林華果、金銀粟白、屏	Oxen, donkeys, carriages, fields, houses, planting gardens, flowers, fruits, gold, silver, millet, white screens,
+['ZH_T45_1893_001:0822b27_1_3']	風氈被、好枕細席、箱匱盆瓫、銅器盤椀、上	風氈被、好枕細席、箱匱盆瓫、銅器盤椀、上	Wind, woolen blankets, fine pillows, thin mats, chests, basins, bronze vessels, plates, bowls, excellent
+['ZH_T45_1893_001:0822b27_1_4']	好三衣、牙床坐褥、房舍退屋、厨庫碓磨、脂	好三衣、牙床坐褥、房舍退屋、厨庫碓磨、脂	Three robes, ivory beds, sitting cushions, houses, outbuildings, kitchens, granaries, mortars and mills, oil,
+['ZH_T45_1893_001:0822b27_1_5']	麵藥酒、雜鮭醬酢異種口味，王公貴重多人顧	麵藥酒、雜鮭醬酢異種口味，王公貴重多人顧	Flour, medicine, wine, various dried meats, sauces, vinegar, and different flavors, respected by kings and officials, many people looking up to them,
+['ZH_T45_1893_001:0822b27_1_6']	識、生緣富貴、數過親舊、餉送吊問、申訴衙	識、生緣富貴、數過親舊、餉送吊問、申訴衙	Born with wealthy and noble connections, frequently visiting relatives and acquaintances, sending gifts and condolences, petitioning to the government,
+['ZH_T45_1893_001:0822b27_1_7']	府，身為眾首門徒彊盛、講說相難，好喜音樂	府，身為眾首門徒彊盛、講說相難，好喜音樂	Being the leader of the assembly, with a large following, lecturing and debating, fond of music and entertainment,
+['ZH_T45_1893_001:0822b27_1_8']	，常居一寺評量僧事、迭相擯罰，借問旱潦、	，常居一寺評量僧事、迭相擯罰，借問旱潦、	Always staying in one temple, evaluating monastic affairs, and alternately expelling and punishing each other, asking about drought and flood,
+['ZH_T45_1893_001:0822b27_1_9']	豐儉、盜賊、水火、毒獸之事，經過酒店、市	豐儉、盜賊、水火、毒獸之事，經過酒店、市	abundance and scarcity, thieves, water, fire, and poisonous beasts, passing by wine shops, markets,
+['ZH_T45_1893_001:0822b27_1_10']	廛、屠膾、獵射之家，親友、婦女、琴瑟、詩	廛、屠膾、獵射之家，親友、婦女、琴瑟、詩	butchers, hunters, and their homes, friends, women, zithers, poetry,
+['ZH_T45_1893_001:0822b27_1_11']	賦、圍碁、雙陸，讀外書典，高語大笑，嫌恨	賦、圍碁、雙陸，讀外書典，高語大笑，嫌恨	chess, double-sixes, reading non-Buddhist books, speaking loudly and laughing loudly, hating and arguing,
+['ZH_T45_1893_001:0822b27_1_12']	諍竟，飲酒食肉，綾羅衣服五色鮮明，勤剃鬚	諍竟，飲酒食肉，綾羅衣服五色鮮明，勤剃鬚	drinking alcohol and eating meat, silk and brocade clothes in five bright colors, diligently shaving the beard,
+['ZH_T45_1893_001:0822b27_1_13']	髮、爪利如鋒，畜八不淨、財寶富足，於此等	髮、爪利如鋒，畜八不淨、財寶富足，於此等	hair, and nails sharp as a blade, keeping the eight impure things, and having abundant wealth and treasures. Being greedy and attached to these
+['ZH_T45_1893_001:0822b27_1_14']	事貪求愛著，積聚不離，名真破戒。	事貪求愛著，積聚不離，名真破戒。	things, accumulating and not letting go, is called true violation of the precepts.
+['ZH_T45_1893_001:0822b27_4']	經云：	經云：	The sutra says:
+['ZH_T45_1893_001:0822c01_3']	「此等比丘名禿居士、名披袈裟賊、名禿獵師、名三塗人、名無羞人、名一闡提、名謗三寶、名害一切檀越眼目、名生死種子、名障聖道。	「此等比丘名禿居士、名披袈裟賊、名禿獵師、名三塗人、名無羞人、名一闡提、名謗三寶、名害一切檀越眼目、名生死種子、名障聖道。	These monks are called shaven-headed householders, called thieves wearing saffron robes, called shaven-hunting dogs, called people of the three evil paths, called shameless people, called icchantikas, called slanderers of the Three Jewels, called those who destroy the eyes of all benefactors, called seeds of birth and death, called obstacles to the holy path.
+['ZH_T45_1893_001:0822c01_16']	遠離此等十種惡名即為淨心。	遠離此等十種惡名即為淨心。	Far away from these ten kinds of evil names is called pure mind.
+['ZH_T45_1893_001:0822c01_20']	」偈曰：	」偈曰：	Verse:
+['ZH_T45_1893_001:0822c02_0']	可怪凡夫人，　　積聚貪瞋癡，	可怪凡夫人，　　積聚貪瞋癡，	It is strange that ordinary people accumulate greed, anger, and delusion,
+['ZH_T45_1893_001:0822c03_13']	破戒無羞恥，　　輕賤木叉珍。	破戒無羞恥，　　輕賤木叉珍。	Violate precepts, have no shame, and despise the precious precepts.
+['ZH_T45_1893_001:0822c04_0']	追求忙如火，　　種植涉艱辛，	追求忙如火，　　種植涉艱辛，	Busy like fire in pursuit, undergoing hardships in planting,
+['ZH_T45_1893_001:0822c05_13']	教他多布施，　　自捨若抽筋。	教他多布施，　　自捨若抽筋。	Teaching others to give much, but themselves giving as if pulling out sinews.
+['ZH_T45_1893_001:0822c06_0']	傲慢善知識，　　恃怙膿血身，	傲慢善知識，　　恃怙膿血身，	Arrogant to good friends, relying on a body of pus and blood,
+['ZH_T45_1893_001:0822c07_13']	放逸著五欲，　　何時出苦津。	放逸著五欲，　　何時出苦津。	Careless and attached to the five desires, when will they escape the suffering?
+['ZH_T45_1893_001:0822c08_0']	衣貪五色服，　　食貪常飽肚，	衣貪五色服，　　食貪常飽肚，	Greedy for five-colored robes, greedy for food to always fill the stomach,
+['ZH_T45_1893_001:0822c09_13']	捨靜入憒閙，　　經戒未曾覩。	捨靜入憒閙，　　經戒未曾覩。	Abandoning tranquility to enter busyness, they have never seen the sutras and precepts.
+['ZH_T45_1893_001:0822c10_0']	拔草復掘地，　　溉灌治園圃，	拔草復掘地，　　溉灌治園圃，	Pulling out grass and digging the earth, irrigating and tending the gardens,
+['ZH_T45_1893_001:0822c11_13']	生業過俗人，　　瓮匱居三五。	生業過俗人，　　瓮匱居三五。	Their livelihood surpasses that of laypeople, with three to five people living in a hut.
+['ZH_T45_1893_001:0822c12_0']	唯憂財不足，　　鎖門牢閉戶，	唯憂財不足，　　鎖門牢閉戶，	Only worrying about not having enough wealth, locking the doors and tightly closing the windows,
+['ZH_T45_1893_001:0822c13_13']	高聲大語笑，　　諂慢心未普。	高聲大語笑，　　諂慢心未普。	Speaking loudly and laughing boisterously, their flattery and arrogance have not yet spread everywhere.
+['ZH_T45_1893_001:0822c14_0']	毀犯四重禁，　　觝突兇如虎，	毀犯四重禁，　　觝突兇如虎，	Violating the four grave prohibitions, stubborn and vicious like tigers,
+['ZH_T45_1893_001:0822c15_13']	身壞永沈淪，　　罪畢生夷虜。	身壞永沈淪，　　罪畢生夷虜。	Their bodies destroyed, they will forever sink and drown, born as barbarians after their sins are exhausted.
+['ZH_T45_1893_001:0822c16_0']	可念眾生狂，　　癡暗無慧光，	可念眾生狂，　　癡暗無慧光，	It is lamentable that sentient beings are crazy, ignorant, and lack the light of wisdom,
+['ZH_T45_1893_001:0822c17_13']	但貪目前利，　　不見當來殃。	但貪目前利，　　不見當來殃。	Only greedy for immediate benefits, not seeing the calamities to come.
+['ZH_T45_1893_001:0822c18_0']	出家望靜樂，　　返為馳逐忙，	出家望靜樂，　　返為馳逐忙，	Leaving home, hoping for tranquility and joy, they end up being busy and rushing around,
+['ZH_T45_1893_001:0822c19_13']	抱財忽命終，　　道俗竟分張。	抱財忽命終，　　道俗竟分張。	Holding onto wealth until their lives suddenly end, the paths of monks and laypeople are finally divided.
+['ZH_T45_1893_001:0822c20_0']	惡性如蛇蝎，　　惡貪如豺狼，	惡性如蛇蝎，　　惡貪如豺狼，	Evil natures like snakes and scorpions, evil greed like jackals and wolves,
+['ZH_T45_1893_001:0822c21_13']	剃頭無實德，　　高容返自傷。	剃頭無實德，　　高容返自傷。	Shaving the head without true virtue, the lofty appearance ends up harming oneself.
+['ZH_T45_1893_001:0822c22_0']	隱罪求名聞，　　不畏利養瘡，	隱罪求名聞，　　不畏利養瘡，	Concealing offenses and seeking fame, not fearing the wounds of offerings,
+['ZH_T45_1893_001:0822c23_13']	白衣修戒施，　　壽盡生天堂。	白衣修戒施，　　壽盡生天堂。	Laypeople cultivate precepts and giving, and upon the end of their lives, they are reborn in the heavenly halls.
+['ZH_T45_1893_001:0822c24_0']	沙門倒慳惜，　　不觀空無常，	沙門倒慳惜，　　不觀空無常，	Monks are stingy and do not contemplate emptiness and impermanence,
+['ZH_T45_1893_001:0822c25_13']	唯知造惡業，　　觸事皆面牆。	唯知造惡業，　　觸事皆面牆。	Only knowing to create evil karma, touching things all face the wall.
+['ZH_T45_1893_001:0822c26_0']	破戒違經律，　　無慚故覆藏，	破戒違經律，　　無慚故覆藏，	Violating the precepts and going against the sutras and vinaya, without shame, they conceal [their faults],
+['ZH_T45_1893_001:0822c27_13']	我作還我受，　　三塗遣誰當。	我作還我受，　　三塗遣誰當。	I did it, I will receive it myself, in the three evil paths, who will be sent?
+['ZH_T45_1893_001:0822c28_0']	雖無我人法，　　善惡亦不亡，	雖無我人法，　　善惡亦不亡，	Although there is no self, person, or dharmas, good and evil are also not lost,
+['ZH_T45_1893_001:0822c29_13']	三界輪迴苦，　　六道生死長。	三界輪迴苦，　　六道生死長。	The suffering of the three realms revolving, the long life and death of the six paths.
+['ZH_T45_1893_001:0823a01_0']	如是諸惡過，　　謹慎好思量，	如是諸惡過，　　謹慎好思量，	Such various evil faults, be careful and think well,
+['ZH_T45_1893_001:0823a02_13']	願斷相續因，　　持心如金剛。	願斷相續因，　　持心如金剛。	Wishing to sever the causes of continuity, hold the mind like vajra.
+['ZH_T45_1893_001:0823a03_0']	定水洗煩惱，　　戒城自遮防，	定水洗煩惱，　　戒城自遮防，	The water of concentration washes away afflictions, the city of precepts protects oneself,
+['ZH_T45_1893_001:0823a04_13']	德如螺髻梵，　　去處見西方。	德如螺髻梵，　　去處見西方。	Virtues like the brahman with a conch bun, going to see the Western Paradise.
+['ZH_T45_1893_001:0823a09_11']	8 誡觀外現威儀內起邪命法誡觀外現威儀內起邪命法第八邪命者，所謂淨治住處，嚴飾道場，羅列旛華及諸道具，數為洗剃，常帶袈裟，覆膊靴履，威儀齊整，緩行直進，下聲軟語，或復靜默閉目低頭，衣鉢隨身執着律相。	8 誡觀外現威儀內起邪命法誡觀外現威儀內起邪命法第八邪命者，所謂淨治住處，嚴飾道場，羅列旛華及諸道具，數為洗剃，常帶袈裟，覆膊靴履，威儀齊整，緩行直進，下聲軟語，或復靜默閉目低頭，衣鉢隨身執着律相。	8. Admonishing to Observe the External Display of Deportment and the Internal Arising of Wrong Livelihood The eighth wrong livelihood is as follows: One purifies the dwelling place, adorns the ritual arena, arranges banners, flowers, and various ritual implements, frequently washes and shaves, always wears the kasaya, covers the shoulders with boots and shoes, has a dignified demeanor, walks slowly and straight, speaks softly in a low voice, or is silent with eyes closed and head lowered, with robes and alms bowl following the body, and adheres to the appearance of the precepts.
+['ZH_T45_1893_001:0823a11_17']	然其內心常求名利，望他請喚恭敬尊重，進戒度人強為師首，處在徒眾希他依止，設解經律問時生難。	然其內心常求名利，望他請喚恭敬尊重，進戒度人強為師首，處在徒眾希他依止，設解經律問時生難。	However, in one's inner mind, one always seeks fame and profit, hopes for others to invite and respect, advances in precepts and saves people, forcefully becomes the leader, dwells in the assembly hoping for others to rely on, and if one understands the sutras and precepts, one creates difficulties when asked.
+['ZH_T45_1893_001:0823a15_13']	性多嫌恨惡眼視人，少見侵觸不受其懺，口若發言喜說機刺，嫉他得利如火燒心，情塵意垢曾未除遣，雖坐繩床起惡覺觀，攀緣亂想念世欲事，令夜惡夢漏失不淨。	性多嫌恨惡眼視人，少見侵觸不受其懺，口若發言喜說機刺，嫉他得利如火燒心，情塵意垢曾未除遣，雖坐繩床起惡覺觀，攀緣亂想念世欲事，令夜惡夢漏失不淨。	They often harbor resentment and look at people with evil eyes. They rarely tolerate being wronged and do not accept apologies. If they speak, they often use sarcastic words. They are jealous of others' gains as if fire were burning their hearts. They have never removed the dust and dirt of the mind. Although they sit on rope beds, they give rise to evil thoughts and contemplate worldly desires in a scattered and confused manner, causing nightmares and involuntary emissions of semen at night.
+['ZH_T45_1893_001:0823a17_7']	惡覺染意熏本識藏，結惡業種染能障淨，生死不絕輪迴無際，受諸苦惱。	惡覺染意熏本識藏，結惡業種染能障淨，生死不絕輪迴無際，受諸苦惱。	Evil thoughts contaminate the mind and perfume the store consciousness, forming the seeds of evil karma that defile and obstruct purity. Birth and death are endless, and the cycle of rebirth is without limit. One experiences various sufferings and afflictions.
+['ZH_T45_1893_001:0823a19_4']	三業不淨乖八聖道，外白裏黑順八邪徑，是名邪命欺誑凡聖，如是觀察，得名淨心。	三業不淨乖八聖道，外白裏黑順八邪徑，是名邪命欺誑凡聖，如是觀察，得名淨心。	The three karmas are impure and go against the eightfold noble path. Externally appearing pure while internally black, one follows the eight wrong paths. This is called wrong livelihood, deceiving both ordinary people and sages. Contemplating in this way is called a pure mind.
+['ZH_T45_1893_001:0823a19_7']	偈曰：	偈曰：	A verse says:
+['ZH_T45_1893_001:0823a20_0']	口誦無常經，　　身作有常計，	口誦無常經，　　身作有常計，	Reciting the sutra on impermanence with the mouth, while making plans for permanence with the body,
+['ZH_T45_1893_001:0823a21_13']	求望他利養，　　合眼未觀諦。	求望他利養，　　合眼未觀諦。	Seeking and hoping for others' offerings, closing the eyes without contemplating the truth.
+['ZH_T45_1893_001:0823a22_0']	三衣唯欲好，　　不肯著破弊，	三衣唯欲好，　　不肯著破弊，	Only wanting the three robes to be good, unwilling to wear tattered and worn ones,
+['ZH_T45_1893_001:0823a23_13']	內心至麁獷，　　外相真似細。	內心至麁獷，　　外相真似細。	The inner mind is extremely coarse and rude, while the outer appearance seems fine.
+['ZH_T45_1893_001:0823a24_0']	欺誑世間人，　　大悲為流涕，	欺誑世間人，　　大悲為流涕，	Deceiving the people of the world, with great compassion as tears,
+['ZH_T45_1893_001:0823a25_13']	賢聖不讚歎，　　善神不扶衛。	賢聖不讚歎，　　善神不扶衛。	Not praised by the sages, and the virtuous spirits do not support and guard.
+['ZH_T45_1893_001:0823a26_0']	業障日夜增，　　戒定念念滯，	業障日夜增，　　戒定念念滯，	Karmic hindrances increase day and night, while precepts and concentration are obstructed moment by moment.
+['ZH_T45_1893_001:0823a27_13']	雖有兩箇眼，　　復患一雙曀。	雖有兩箇眼，　　復患一雙曀。	Although there are two eyes, they are afflicted with a pair of veils.
+['ZH_T45_1893_001:0823a29_2']	9 誡觀取相恃善誑佛法誡觀取相恃善誑佛法第九經云：	9 誡觀取相恃善誑佛法誡觀取相恃善誑佛法第九經云：	Admonishing to Observe Grasping at Characteristics and Relying on Goodness to Deceive the Buddha's Teachings, Admonishing to Observe Grasping at Characteristics and Relying on Goodness to Deceive the Buddha's Teachings, Chapter 9 of the Sutra says:
+['ZH_T45_1893_001:0823a29_11']	何者比丘名為誑佛？	何者比丘名為誑佛？	Who are the bhikṣus called deceivers of the Buddha?
+['ZH_T45_1893_001:0823b04_10']	若言我修慈悲彼人瞋恚，我能布施某甲慳貪，我具淨戒彼人犯戒，我勤精進彼人懈怠，我有智慧彼人太愚，我今樂靜彼染憒閙，我修威儀彼人輕躁，我如法住彼不如法。	若言我修慈悲彼人瞋恚，我能布施某甲慳貪，我具淨戒彼人犯戒，我勤精進彼人懈怠，我有智慧彼人太愚，我今樂靜彼染憒閙，我修威儀彼人輕躁，我如法住彼不如法。	If one says, I cultivate kindness and compassion, but that person is angry; I am able to give, but that person is stingy; I possess pure precepts, but that person violates the precepts; I diligently make progress, but that person is lazy; I have wisdom, but that person is too foolish; I now enjoy tranquility, but that person is tainted by busyness; I cultivate dignified conduct, but that person is frivolous; I abide in accordance with the Dharma, but that person does not abide in accordance with the Dharma.
+['ZH_T45_1893_001:0823b06_10']	或恃隱山絕粒，納衣一食、常坐不臥、塚間樹下，或講經律善解法相，我有如是福德智慧。	或恃隱山絕粒，納衣一食、常坐不臥、塚間樹下，或講經律善解法相，我有如是福德智慧。	Or relying on living in seclusion in the mountains, fasting, wearing coarse robes, eating only one meal a day, always sitting without lying down, in charnel grounds or under trees, or lecturing on the sutras and vinaya, skillfully understanding the characteristics of the Dharma, thinking I have such blessings, virtues, and wisdom.
+['ZH_T45_1893_001:0823b07_16']	取此相者即名我見、眾生見、壽者見，堅執是相名為誑佛。	取此相者即名我見、眾生見、壽者見，堅執是相名為誑佛。	Grasping at these characteristics is called the view of self, the view of sentient beings, and the view of the life-force. Firmly grasping at these characteristics is called deceiving the Buddha.
+['ZH_T45_1893_001:0823b08_5']	何者修道名不誑佛？	何者修道名不誑佛？	What is called cultivating the path and not deceiving the Buddha?
+['ZH_T45_1893_001:0823b10_3']	若人修空、無相、無願三解脫門亦不生著，唯觀世諦虛妄顛倒，如幻如夢無有一實。	若人修空、無相、無願三解脫門亦不生著，唯觀世諦虛妄顛倒，如幻如夢無有一實。	If a person cultivates the three gates of liberation of emptiness, signlessness, and wishlessness, and also does not give rise to attachment, only observing the false and inverted worldly truth, like an illusion, like a dream, without a single reality.
+['ZH_T45_1893_001:0823b12_16']	成此觀門修戒定慧，精進不恃己能輕他無德，柔和質直謙下無諍，以此善根迴向無上菩提，如是離相修者名不誑佛。	成此觀門修戒定慧，精進不恃己能輕他無德，柔和質直謙下無諍，以此善根迴向無上菩提，如是離相修者名不誑佛。	Accomplishing this gate of contemplation, cultivating precepts, concentration, and wisdom, diligently practicing without relying on one's own abilities and despising others for lacking virtue, gentle and honest, humble and free from disputes, dedicating these wholesome roots towards unsurpassed enlightenment, such selfless cultivation is called not deceiving the Buddha.
+['ZH_T45_1893_001:0823b14_6']	不誑佛故得平等法，法眼明朗能淨智障，不著空有，名為淨心。	不誑佛故得平等法，法眼明朗能淨智障，不著空有，名為淨心。	Because of not deceiving the Buddha, one attains the equal Dharma. With the clear Dharma eye, one is able to purify the afflictive hindrances and the cognitive hindrances, and is not attached to emptiness or existence. This is called the pure mind.
+['ZH_T45_1893_001:0823b14_9']	偈曰：	偈曰：	Verse:
+['ZH_T45_1893_001:0823b15_0']	八萬四千法，　　對治多種病，	八萬四千法，　　對治多種病，	The eighty-four thousand dharmas are antidotes to many kinds of illnesses,
+['ZH_T45_1893_001:0823b16_13']	是名大方便，　　成就善巧行。	是名大方便，　　成就善巧行。	This is called the great skillful means, accomplishing skillful conduct.
+['ZH_T45_1893_001:0823b17_0']	執相名誑佛，　　著我起見諍，	執相名誑佛，　　著我起見諍，	Grasping characteristics is deceiving the Buddha, clinging to self gives rise to views and disputes,
+['ZH_T45_1893_001:0823b18_13']	比丘自沈溺，　　不能到究竟。	比丘自沈溺，　　不能到究竟。	Bhikṣus sink and drown themselves, unable to reach the ultimate.
+['ZH_T45_1893_001:0823b19_0']	故修三脫門，　　法空資慧命，	故修三脫門，　　法空資慧命，	Therefore, cultivating the three gates of liberation, the Dharma emptiness nourishes the life of wisdom,
+['ZH_T45_1893_001:0823b20_13']	深觀緣集故，　　證智更歡慶。	深觀緣集故，　　證智更歡慶。	Deeply contemplating the origination of conditions, therefore realizing wisdom and rejoicing again.
+['ZH_T45_1893_001:0823b23_7']	10 誡觀慢天懼人屏處造過法誡觀慢天懼人屏處造過法第十凡夫憍諂威儀不恒，人前歛攝名為諂詐，屏處造過名為憍逸。	10 誡觀慢天懼人屏處造過法誡觀慢天懼人屏處造過法第十凡夫憍諂威儀不恒，人前歛攝名為諂詐，屏處造過名為憍逸。	Admonishing to contemplate being arrogant to gods and fearful of people, committing offenses in private, admonishing to contemplate being arrogant to gods and fearful of people, committing offenses in private, the tenth. Ordinary people are arrogant and deceitful, their demeanor is not constant, in front of people they restrain themselves, which is called deceitful flattery, committing offenses in private is called arrogant indulgence.
+['ZH_T45_1893_001:0823b26_13']	所謂破諸戒儀，私飲盜食，赤露裸跣，河池澡浴，露地便利，下氣出聲，摩捫屏處，仰眠伏地，蹲踞支頰，走驟顧眄，吟詠歌嘯，略要而言，故名憍諂。	所謂破諸戒儀，私飲盜食，赤露裸跣，河池澡浴，露地便利，下氣出聲，摩捫屏處，仰眠伏地，蹲踞支頰，走驟顧眄，吟詠歌嘯，略要而言，故名憍諂。	Namely, breaking the rules of precepts, privately drinking and stealing food, going naked and barefoot, bathing in rivers and ponds, defecating and urinating in the open, farting loudly, touching oneself in private, sleeping face down on the ground, squatting with one's cheek in hand, running and glancing around, humming and singing, in short, it is called arrogance and flattery.
+['ZH_T45_1893_001:0823b29_14']	三業四儀悉不如法，人前似人，屏處如鬼，一切天神證知此過，身壞命終生獼猴中、及鬼魅中，為犯戒儀果報對至，不欺闇室即其義也。	三業四儀悉不如法，人前似人，屏處如鬼，一切天神證知此過，身壞命終生獼猴中、及鬼魅中，為犯戒儀果報對至，不欺闇室即其義也。	The three karmas and four deportments are all contrary to the Dharma. In front of people, one seems human, but in private, one is like a ghost. All celestial spirits bear witness to this transgression. When the body perishes and life ends, one is born among monkeys and ghosts. The retribution for violating the rules of precepts arrives as one's own fruit. The meaning of not deceiving the dark room is precisely this.
+['ZH_T45_1893_001:0823b29_18']	何以故？	何以故？	Why is it so?
+['ZH_T45_1893_001:0823c01_16']	大業之樹光明如鏡，眾生造業於彼悉現。	大業之樹光明如鏡，眾生造業於彼悉現。	The tree of great karma shines like a mirror, and all the karma created by sentient beings appears on it.
+['ZH_T45_1893_001:0823c02_2']	神天有二：	神天有二：	There are two kinds of celestial spirits:
+['ZH_T45_1893_001:0823c02_7']	一字同生；	一字同生；	One is born with the same name;
+['ZH_T45_1893_001:0823c02_12']	二字同名。	二字同名。	The other has the same name.
+['ZH_T45_1893_001:0823c04_1']	人不見天，天常見人，業力持罪不在晝夜，行者謹慎屏露無差。	人不見天，天常見人，業力持罪不在晝夜，行者謹慎屏露無差。	People do not see the gods, but the gods always see people. The power of karma holds the sins, not in the daytime or night. The practitioner is careful, with no difference between private and public.
+['ZH_T45_1893_001:0823c04_19']	大千世界在佛毛孔，豈容屏過賢聖不知？	大千世界在佛毛孔，豈容屏過賢聖不知？	The trichiliocosm is within the Buddha's pores, how could it be possible to commit offenses in secret that the sages and saints do not know?
+['ZH_T45_1893_001:0823c07_17']	是故菩薩有八萬威儀，聲聞戒有三千威儀，汝應修集威儀庠序，屏露二處一等用心，乃至失命不虧仁範，如是持行，名為淨心。	是故菩薩有八萬威儀，聲聞戒有三千威儀，汝應修集威儀庠序，屏露二處一等用心，乃至失命不虧仁範，如是持行，名為淨心。	Therefore, bodhisattvas have eighty thousand dignified deportments, and the precepts of śrāvakas have three thousand dignified deportments. You should cultivate and gather dignified deportments, and be equally mindful in private and public places. Even to the point of losing your life, do not violate the model of benevolence. Practicing in this way is called pure mind.
+['ZH_T45_1893_001:0823c07_20']	偈曰：	偈曰：	Verse:
+['ZH_T45_1893_001:0823c08_0']	賢聖出三界，　　常遊三界境，	賢聖出三界，　　常遊三界境，	The sages transcend the three realms, yet always roam the realms of the three realms,
+['ZH_T45_1893_001:0823c09_13']	觀諸眾生業，　　如形對日影。	觀諸眾生業，　　如形對日影。	Observing the karma of sentient beings, like forms reflected in the sun.
+['ZH_T45_1893_001:0823c10_0']	智者慎威儀，　　持戒心勇猛，	智者慎威儀，　　持戒心勇猛，	The wise are cautious in their dignified deportments, upholding the precepts with a courageous mind,
+['ZH_T45_1893_001:0823c11_13']	屏處無闕失，　　四念堅固秉。	屏處無闕失，　　四念堅固秉。	Without lapses in private, firmly upholding the four establishments of mindfulness.
+['ZH_T45_1893_001:0823c12_0']	觀身如毒蛇，　　察心如冤家，	觀身如毒蛇，　　察心如冤家，	Contemplate the body as if it were a poisonous snake, observe the mind as if it were an enemy,
+['ZH_T45_1893_001:0823c13_13']	身心是大患，　　覆罪如河沙。	身心是大患，　　覆罪如河沙。	The body and mind are great afflictions, concealing faults like river sands.
+['ZH_T45_1893_001:0823c14_0']	智者犯已悔，　　終不蓋疵瘕，	智者犯已悔，　　終不蓋疵瘕，	The wise repent after committing offenses, never concealing their faults,
+['ZH_T45_1893_001:0823c15_13']	藏過嬰惡名，　　地獄受鐵叉。	藏過嬰惡名，　　地獄受鐵叉。	Concealing faults brings about a bad reputation, and one will receive an iron fork in hell.
+['ZH_T45_1893_001:0823c16_0']	苦哉末法時，　　比丘比丘尼，	苦哉末法時，　　比丘比丘尼，	Alas, in the degenerate age, bhikṣus and bhikṣuṇīs,
+['ZH_T45_1893_001:0823c17_13']	剃髮雖改服，　　猶守貪瞋癡。	剃髮雖改服，　　猶守貪瞋癡。	Though they shave their heads and change their robes, they still cling to greed, anger, and delusion.
+['ZH_T45_1893_001:0823c18_0']	假名優婆塞，　　諭諂優婆夷，	假名優婆塞，　　諭諂優婆夷，	Pretending to be upāsakas, and deceitful upāsikās,
+['ZH_T45_1893_001:0823c19_13']	名中喚五戒，　　實未具一支。	名中喚五戒，　　實未具一支。	Calling themselves five precepts holders, but not yet having a single one.
+['ZH_T45_1893_001:0823c20_0']	口常誦藥方，　　心病不肯治，	口常誦藥方，　　心病不肯治，	Their mouths always chant medical prescriptions, but their minds are unwilling to treat their illnesses,
+['ZH_T45_1893_001:0823c21_13']	惡業覆障故，　　邪命求餘資。	惡業覆障故，　　邪命求餘資。	Because of the obstruction of evil karma, they seek other resources through wrong livelihood.
+['ZH_T45_1893_001:0823c22_0']	身見執著我，　　不覺即分離，	身見執著我，　　不覺即分離，	Clinging to the view of a self, they are unaware of its separation,
+['ZH_T45_1893_001:0823c23_13']	亦不觀五陰，　　氣息若懸絲。	亦不觀五陰，　　氣息若懸絲。	And do not contemplate the five aggregates, their breath like a hanging thread.
+['ZH_T45_1893_001:0823c24_0']	人前粗歛攝，　　屏處踰須彌，	人前粗歛攝，　　屏處踰須彌，	In front of people, they are outwardly restrained, but in private, they are more unrestrained than Mount Sumeru,
+['ZH_T45_1893_001:0823c25_13']	唯懼人怪笑，　　不畏天證知。	唯懼人怪笑，　　不畏天證知。	Only fearing people's strange laughter, not fearing heaven's witness.
+['ZH_T45_1893_001:0823c26_0']	欲醉狂情發，　　行坐染心思，	欲醉狂情發，　　行坐染心思，	Drunk on desire, their minds go wild, their thoughts are tainted in walking and sitting,
+['ZH_T45_1893_001:0823c27_13']	纏綿破重戒，　　命終墮阿鼻。	纏綿破重戒，　　命終墮阿鼻。	Entangled, they break the heavy precepts, and upon death fall into Avīci Hell.
+['ZH_T45_1893_001:0823c28_0']	地獄經一劫，　　劫盡更復移，	地獄經一劫，　　劫盡更復移，	In hell for one eon, when the eon ends, they are transferred again,
+['ZH_T45_1893_001:0823c29_13']	此苦難堪忍，　　屏處最慎之。	此苦難堪忍，　　屏處最慎之。	This suffering is difficult to endure, so be most cautious in private.
+['ZH_T45_1893_001:0824a01_0']	為造狂業故，　　諸佛發大悲，	為造狂業故，　　諸佛發大悲，	Because of creating crazy karma, the Buddhas give rise to great compassion.
+['ZH_T45_1893_001:0824a02_13']	犯欲須臾樂，　　受苦無量時。	犯欲須臾樂，　　受苦無量時。	The pleasure of committing desire lasts but a moment, but the suffering endured is immeasurable.
+['ZH_T45_1893_001:0824a03_0']	經云人從生，　　即有二種天，	經云人從生，　　即有二種天，	The sutra says that from birth, people have two kinds of gods,
+['ZH_T45_1893_001:0824a04_13']	晝夜與身俱，　　共人同受年。	晝夜與身俱，　　共人同受年。	Day and night accompany the body, and together with people, they experience years.
+['ZH_T45_1893_001:0824a05_0']	一念為善惡，　　了了皆現前，	一念為善惡，　　了了皆現前，	For every thought of good or evil, it is all clearly manifested.
+['ZH_T45_1893_001:0824a06_13']	惡多天減算，　　善強命長延。	惡多天減算，　　善強命長延。	If evil is abundant, the gods' calculations decrease; if goodness is strong, life is prolonged.
+['ZH_T45_1893_001:0824a07_0']	毘盧遮那佛，　　身界廣無邊，	毘盧遮那佛，　　身界廣無邊，	Vairocana Buddha's body realm is vast and boundless,
+['ZH_T45_1893_001:0824a08_13']	於一毛孔中，　　容受三大千。	於一毛孔中，　　容受三大千。	Within a single pore, the three great chiliocosms are contained.
+['ZH_T45_1893_001:0824a09_0']	性照圓明徹，　　含生上福田，	性照圓明徹，　　含生上福田，	The nature is radiant, perfect, and penetrating, embracing all beings as the supreme field of blessings,
+['ZH_T45_1893_001:0824a10_13']	以眾屏多過，　　無緣起慈憐。	以眾屏多過，　　無緣起慈憐。	But because many conceal their faults, the Buddha, without conditions, gives rise to compassion.
+['ZH_T45_1893_001:0824a12_20']	11 誡觀女人十惡如實厭離解脫法誡觀女人十惡如實厭離解脫法第十一女人十惡者，具說難窮，今略言之，令生厭離。	11 誡觀女人十惡如實厭離解脫法誡觀女人十惡如實厭離解脫法第十一女人十惡者，具說難窮，今略言之，令生厭離。	11. Admonitions on Contemplating the Ten Evils of Women, Truly Disgust and Separation from Bondage, Admonitions on Contemplating the Ten Evils of Women, Truly Disgust and Separation from Bondage, Eleventh. As for the ten evils of women, it is difficult to fully explain them, but now I will briefly mention them to cause disgust and separation.
+['ZH_T45_1893_001:0824a13_8']	一者貪婬無量無厭。	一者貪婬無量無厭。	First, greedily indulging in sex without measure or satiation.
+['ZH_T45_1893_001:0824a13_11']	經云：	經云：	The sūtra says:
+['ZH_T45_1893_001:0824a14_5']	「十方國土有女人處即有地獄。	「十方國土有女人處即有地獄。	In the lands of the ten directions where there are women, there are hells.
+['ZH_T45_1893_001:0824a14_15']	」一切障道此為是苦。	」一切障道此為是苦。	All obstacles to the path are due to this suffering.
+['ZH_T45_1893_001:0824a17_11']	女人欲男，如海吞流，百千萬劫，畢竟不滿，得一望一，心意狂亂，見可意男悉願與交，猶火納薪多益多熾，晝夜行坐無忘欲時。	女人欲男，如海吞流，百千萬劫，畢竟不滿，得一望一，心意狂亂，見可意男悉願與交，猶火納薪多益多熾，晝夜行坐無忘欲時。	Women desire men like the ocean swallows rivers, for hundreds of thousands of myriads of kalpas it is ultimately not satisfied. Obtaining one, they hope for another. Their minds and thoughts are crazed. They wish to have intercourse with all men they find pleasing. It is like fire receiving firewood, the more the better, the more blazing. Day and night, walking and sitting, they do not forget about sex.
+['ZH_T45_1893_001:0824a19_6']	受五道身皆女形攝，先際已來女根未轉，徹窮劫世不免女身，故名貪欲無厭。	受五道身皆女形攝，先際已來女根未轉，徹窮劫世不免女身，故名貪欲無厭。	Receiving bodies in the five paths are all categorized as female. From the past, the female organ has not changed. Penetrating to the end of the kalpas, they do not avoid female bodies. Therefore, it is called insatiable greed.
+['ZH_T45_1893_001:0824a19_15']	二者嫉妬心如毒蛇。	二者嫉妬心如毒蛇。	Second, the jealous mind is like a poisonous snake.
+['ZH_T45_1893_001:0824a21_5']	家有婦類悉生憎垢，口似相親心如冤家，若同夫婿更相規命。	家有婦類悉生憎垢，口似相親心如冤家，若同夫婿更相規命。	In the home, all women give rise to hatred and disgust, their mouths seem friendly but their hearts are like enemies. If they are with their husbands, they scheme to kill each other.
+['ZH_T45_1893_001:0824a23_15']	或作符厭、解奏毒藥，或雇人殺害、或截支節、或毀面目，或削衣食、鞭打罵辱，方便除他欲得獨立，故名嫉妬。	或作符厭、解奏毒藥，或雇人殺害、或截支節、或毀面目，或削衣食、鞭打罵辱，方便除他欲得獨立，故名嫉妬。	They may make talismans and curses, or concoct poisonous drugs, or hire people to kill, or cut off limbs, or disfigure faces, or deprive of clothing and food, or beat and scold, using expedient means to eliminate others and wish to be independent, thus it is called jealousy.
+['ZH_T45_1893_001:0824a24_2']	三者諂曲詐親。	三者諂曲詐親。	Third, flattery and pretense of intimacy.
+['ZH_T45_1893_001:0824a25_1']	凡見人時未語先笑，口云憶念心懷嫌恨。	凡見人時未語先笑，口云憶念心懷嫌恨。	Whenever they see people, before speaking they first smile, saying in their mouths they remember but harboring resentment in their hearts.
+['ZH_T45_1893_001:0824a27_9']	對於夫婿，思他男子，願夫遠行、或願早死，或與外人多種謀計，及見夫時諂媚附近，身向心背，名為詐親。	對於夫婿，思他男子，願夫遠行、或願早死，或與外人多種謀計，及見夫時諂媚附近，身向心背，名為詐親。	In the presence of their husbands, they think of other men, wishing their husbands to travel far away or die early, or make many plans with outsiders. When they see their husbands, they flatter and fawn, with their bodies facing but their hearts turning away, this is called pretense of intimacy.
+['ZH_T45_1893_001:0824a27_14']	四者放逸。	四者放逸。	Fourth, indulgence.
+['ZH_T45_1893_001:0824a29_16']	但念綵衣裝粉釵釧，修治面目望他愛念，耽著五慾不避親疎，不畏後世畜生餓鬼，名為放逸。	但念綵衣裝粉釵釧，修治面目望他愛念，耽著五慾不避親疎，不畏後世畜生餓鬼，名為放逸。	But only think of colorful clothes, powdered makeup, and hairpins and bracelets, and take care of one's face in the hope of others' love and affection, indulging in the five desires without avoiding intimacy or distance, and not fearing the next life as an animal or hungry ghost, this is called indulgence.
+['ZH_T45_1893_001:0824b01_3']	五者口多惡業。	五者口多惡業。	Fifth, the mouth is full of evil karma.
+['ZH_T45_1893_001:0824b04_15']	出言虛誑實情難得，凡所論說虛多實少，喜道鄙弊穢惡之語，母女姊妹不相避忌，兩舌鬪亂傳送消息，數作呪誓不畏殃報，屏罵尊長窮逐諍訟，是名口多惡業。	出言虛誑實情難得，凡所論說虛多實少，喜道鄙弊穢惡之語，母女姊妹不相避忌，兩舌鬪亂傳送消息，數作呪誓不畏殃報，屏罵尊長窮逐諍訟，是名口多惡業。	The spoken words are false and true feelings are hard to obtain, the discussions are mostly false and few are true, one delights in speaking vulgar and filthy words, mothers, daughters, and sisters do not avoid each other, one slanders and stirs up trouble, and sends messages back and forth, often making curses and not fearing retribution, and secretly scolds elders and pursues lawsuits, this is called the mouth being full of evil karma.
+['ZH_T45_1893_001:0824b05_3']	六者厭背夫主。	六者厭背夫主。	Sixth, one is disgusted with and turns away from one's husband.
+['ZH_T45_1893_001:0824b07_13']	若見端正男子，無羞追逐，或遣信逼、或自身往，坐臥不安休廢生業，或結成病、或時託病，屏處飲噉，人前不飡。	若見端正男子，無羞追逐，或遣信逼、或自身往，坐臥不安休廢生業，或結成病、或時託病，屏處飲噉，人前不飡。	If one sees an upright and handsome man, one shamelessly chases after him, either sending a message to force him or going oneself, sitting and lying uncomfortably and neglecting one's livelihood, or forming an illness, or sometimes pretending to be sick, drinking and eating in private, and not eating in front of others.
+['ZH_T45_1893_001:0824b09_1']	夫婿辛苦勤勞得財，割減偷竊供給傍夫，共作謀計規欲殺害。	夫婿辛苦勤勞得財，割減偷竊供給傍夫，共作謀計規欲殺害。	The husband toils hard to earn money, but she secretly steals and gives it to her paramour, plotting together to kill her husband.
+['ZH_T45_1893_001:0824b09_17']	見夫即瞋冤家無異，是名厭背夫主。	見夫即瞋冤家無異，是名厭背夫主。	When she sees her husband, she becomes angry, no different from an enemy. This is called being disgusted with her husband.
+['ZH_T45_1893_001:0824b10_13']	七者一切女人多懷諂曲實情難得。	七者一切女人多懷諂曲實情難得。	Seventh, most women are deceitful and it is difficult to get to the truth.
+['ZH_T45_1893_001:0824b12_13']	所以女人姦險，性器難量，雖與對面共言，心隔千里之外，皆為貪求世利，性逐澆浮。	所以女人姦險，性器難量，雖與對面共言，心隔千里之外，皆為貪求世利，性逐澆浮。	The reason women are treacherous is that their nature and capacity are difficult to fathom. Even when speaking face to face, their minds are a thousand miles apart. They all seek worldly profit and their nature follows the shallow and floating.
+['ZH_T45_1893_001:0824b16_3']	言是返引為非，指虛翻將為實，顛倒常理每事多端，向背有無情隨冷熱，或憑勢要、或黨親知，或因財色相誣、或諍名位而起謗，是以口如脂膏，心若錐刀。	言是返引為非，指虛翻將為實，顛倒常理每事多端，向背有無情隨冷熱，或憑勢要、或黨親知，或因財色相誣、或諍名位而起謗，是以口如脂膏，心若錐刀。	They say yes but mean no, point to falsehood as true, and often have many sides to things, with their feelings following the cold and hot situations of facing or turning away. They may rely on power and importance, or side with relatives and acquaintances, or falsely accuse each other due to wealth and sex, or slander each other over fame and status. Therefore, their mouths are like honey, but their hearts are like needles and knives.
+['ZH_T45_1893_001:0824b16_12']	八者貪財不顧恩義。	八者貪財不顧恩義。	Eighth, they crave wealth and do not care about kindness and righteousness.
+['ZH_T45_1893_001:0824b19_8']	父母養育劬勞難報，及嫁得夫棄忘恩德，規父母物潤益夫家，多得便喜，不稱便恨，父母飢寒無心供給，是名貪財不顧恩義。	父母養育劬勞難報，及嫁得夫棄忘恩德，規父母物潤益夫家，多得便喜，不稱便恨，父母飢寒無心供給，是名貪財不顧恩義。	Parents' nurturing is difficult to repay, and after marriage, they forget their kindness and virtue. They seek their parents' wealth to benefit their husbands' families. They are happy with much gain, and resentful if not satisfied. Parents are hungry and cold, and have no heart to provide. This is called greed for wealth without regard for kindness and righteousness.
+['ZH_T45_1893_001:0824b19_15']	九者慾火燒心。	九者慾火燒心。	Ninth, the fire of desire burns the heart.
+['ZH_T45_1893_001:0824b21_17']	不恥父母，不懼刀杖，或未嫁妊身、或奔逐他逃，或拘引他人向家造過，恥辱父母，敗亂宗親。	不恥父母，不懼刀杖，或未嫁妊身、或奔逐他逃，或拘引他人向家造過，恥辱父母，敗亂宗親。	Not ashamed of parents, not afraid of knives and sticks, either pregnant before marriage, or running away, or dragging others to the house to commit crimes, shaming parents and ruining relatives.
+['ZH_T45_1893_001:0824b24_11']	出嫁已後復叛夫婿，夫亡未幾更思後嫁，男女成人猶棄改出，心迷欲醉不避羞恥，女人過患窮劫難盡，故名欲火燒心。	出嫁已後復叛夫婿，夫亡未幾更思後嫁，男女成人猶棄改出，心迷欲醉不避羞恥，女人過患窮劫難盡，故名欲火燒心。	After marriage, they rebel against their husbands again. After their husband dies, they think of remarrying again. Even when their children become adults, they still abandon them and remarry. Their minds are confused by desire, avoiding shame. The faults of women are difficult to finish in an eon. Therefore, it is called the fire of desire burning the heart.
+['ZH_T45_1893_001:0824b25_3']	十者女身臭惡不淨常流。	十者女身臭惡不淨常流。	Tenth, the female body is foul-smelling, impure, and constantly flowing.
+['ZH_T45_1893_001:0824b25_16']	春夏熱時，虫血雜下，經云：	春夏熱時，虫血雜下，經云：	In the hot season of spring and summer, worms and blood mix and flow. The sutra says:
+['ZH_T45_1893_001:0824b26_19']	「女根之中二萬婬虫，形如臂釧，細若秋毫，腥臊臭穢。	「女根之中二萬婬虫，形如臂釧，細若秋毫，腥臊臭穢。	In the female organ there are twenty thousand worms, shaped like bracelets, as fine as autumn hairs, with a foul stench.
+['ZH_T45_1893_001:0824b28_11']	私墮胎孕，懷妊產生污穢狼藉，善神見聞悉皆捨去，惡鬼魍魎數來侵擾。	私墮胎孕，懷妊產生污穢狼藉，善神見聞悉皆捨去，惡鬼魍魎數來侵擾。	Privately miscarrying, carrying a fetus, giving birth, the filth and mess, the good spirits seeing and hearing all leave, and evil ghosts and demons come to harass frequently.
+['ZH_T45_1893_001:0824c01_8']	」如是鄙弊，愚人猶貪，棄捨念處，破佛淨戒，死入獄中、畜生、餓鬼，長劫受苦無解脫時。	」如是鄙弊，愚人猶貪，棄捨念處，破佛淨戒，死入獄中、畜生、餓鬼，長劫受苦無解脫時。	Such contemptible and filthy things, yet foolish people still crave them, abandoning mindfulness, breaking the Buddha's pure precepts, dying and entering into hell, animal realms, and hungry ghost realms, suffering for long eons without a time of liberation.
+['ZH_T45_1893_001:0824c02_8']	是名女人十種惡業，能觀能遠，名為淨心。	是名女人十種惡業，能觀能遠，名為淨心。	These are called the ten kinds of evil deeds of women. Being able to observe and stay far away from them is called a pure mind.
+['ZH_T45_1893_001:0824c02_11']	偈曰：	偈曰：	Verse:
+['ZH_T45_1893_001:0824c03_0']	四百四種病，　　宿食為根本，	四百四種病，　　宿食為根本，	The four hundred and four kinds of illnesses have leftover food as their root,
+['ZH_T45_1893_001:0824c04_13']	三塗八難苦，　　女人為根本。	三塗八難苦，　　女人為根本。	The sufferings of the three evil paths and eight difficulties have women as their root.
+['ZH_T45_1893_001:0824c05_0']	生死無數劫，　　貪愛為根本，	生死無數劫，　　貪愛為根本，	The countless eons of birth and death have craving and love as their root,
+['ZH_T45_1893_001:0824c06_13']	賢聖解脫樂，　　離欲為根本。	賢聖解脫樂，　　離欲為根本。	The sages' liberation and bliss have detachment from desire as their root.
+['ZH_T45_1893_001:0824c07_0']	四蛇成身界，　　顛倒想為心，	四蛇成身界，　　顛倒想為心，	The body realm formed by four snakes has inverted thoughts as its mind,
+['ZH_T45_1893_001:0824c08_13']	膿血遍九竅，　　淨想起貪婬。	膿血遍九竅，　　淨想起貪婬。	Pus and blood fill the nine orifices, and from pure thoughts arises lustful desire.
+['ZH_T45_1893_001:0824c09_0']	順情稱快樂，　　不信墮刀林，	順情稱快樂，　　不信墮刀林，	Following one's desires is called happiness, but if one does not believe and falls into the sword forest,
+['ZH_T45_1893_001:0824c10_13']	報生猪狗道，　　由前貪愛深。	報生猪狗道，　　由前貪愛深。	One will be reborn as a pig or dog due to deep attachment from before.
+['ZH_T45_1893_001:0824c11_0']	一切女人性，　　少實多諂曲，	一切女人性，　　少實多諂曲，	The nature of all women is mostly flattery with little truth,
+['ZH_T45_1893_001:0824c12_13']	不念臭穢身，　　坐臥思念欲。	不念臭穢身，　　坐臥思念欲。	Not thinking of the foul-smelling body, sitting and lying while thinking of desire.
+['ZH_T45_1893_001:0824c13_0']	邪視他男子，　　情喜相逼觸，	邪視他男子，　　情喜相逼觸，	Looking at other men with lustful eyes, delighting in physical contact,
+['ZH_T45_1893_001:0824c14_13']	百千萬億劫，　　畢竟不滿足。	百千萬億劫，　　畢竟不滿足。	For hundreds of thousands of myriads of kalpas, they are ultimately not satisfied.
+['ZH_T45_1893_001:0824c15_0']	不羞慚父母，　　敗損諸親族，	不羞慚父母，　　敗損諸親族，	Not ashamed before parents, ruining all relatives,
+['ZH_T45_1893_001:0824c16_13']	男少女多者，　　家衰數被辱。	男少女多者，　　家衰數被辱。	Where there are many girls, the family declines and is often humiliated.
+['ZH_T45_1893_001:0824c17_0']	女具十惡業，　　死入鐵床獄，	女具十惡業，　　死入鐵床獄，	A woman who commits the ten evil deeds will, upon death, enter the Iron Bed Hell,
+['ZH_T45_1893_001:0824c18_13']	大鍤刺女根，　　苦痛大嘷哭。	大鍤刺女根，　　苦痛大嘷哭。	Where a large chisel pierces her vagina, and she cries out in great pain.
+['ZH_T45_1893_001:0824c19_0']	地獄罪畢已，　　轉入母猪腹，	地獄罪畢已，　　轉入母猪腹，	After the hell punishment is finished, she will enter the womb of a mother pig,
+['ZH_T45_1893_001:0824c20_0']	噉糞居圊廁，　　臭泥生溷虫，	噉糞居圊廁，　　臭泥生溷虫，	Eating excrement and living in a filthy latrine, born as a worm in stinking mud,
+['ZH_T45_1893_001:0824c21_13']	復被屠割苦，　　累劫罪難終。	復被屠割苦，　　累劫罪難終。	Again, they are slaughtered and cut up, suffering for many eons, with sins difficult to end.
+['ZH_T45_1893_001:0824c22_0']	從畜入餓鬼，　　穢食恒不充，	從畜入餓鬼，　　穢食恒不充，	From animals, they enter the hungry ghost realm, with filthy food never sufficient,
+['ZH_T45_1893_001:0824c23_13']	支節皆火然，　　骸骨不消融。	支節皆火然，　　骸骨不消融。	with all limbs and joints burning in flames, yet the bones do not melt away.
+['ZH_T45_1893_001:0824c24_13']	貪欲暫時樂，　　受報苦無窮。	貪欲暫時樂，　　受報苦無窮。	Greed and desire bring temporary pleasure, but the retribution of suffering is endless.
+['ZH_T45_1893_001:0824c26_15']	12 誡觀檀越四事從苦緣起出生法誡觀檀越四事從苦緣起出生法第十二損害生命名苦業，筋骨斯盡名苦緣。	12 誡觀檀越四事從苦緣起出生法誡觀檀越四事從苦緣起出生法第十二損害生命名苦業，筋骨斯盡名苦緣。	Admonishing to Contemplate the Four Kinds of Offerings from the Benefactors, Arising from the Conditions of Suffering and Giving Rise to the Dharma, Admonishing to Contemplate the Four Kinds of Offerings from the Benefactors, Arising from the Conditions of Suffering and Giving Rise to the Dharma, Chapter 12 Harming life is called the karma of suffering, with sinews and bones exhausted, called the conditions of suffering.
+['ZH_T45_1893_001:0824c26_18']	經云：	經云：	The sūtra says:
+['ZH_T45_1893_001:0824c29_9']	食者從耕種鋤刈、收治、颺簸、窖藏、運輦、舂磨、炊爨、蒸煮、聊設、供給、奉送，又種菜造牆，溉灌田園，營為醬酢。	食者從耕種鋤刈、收治、颺簸、窖藏、運輦、舂磨、炊爨、蒸煮、聊設、供給、奉送，又種菜造牆，溉灌田園，營為醬酢。	Eating arises from plowing, planting, weeding, harvesting, threshing, winnowing, storing, transporting, pounding, cooking, steaming, boiling, preparing, providing, and offering. Also, planting vegetables, building walls, irrigating fields and gardens, and making sauces and vinegar.
+['ZH_T45_1893_001:0825a02_11']	計一鉢食出一鉢汗，汗在皮肉即是其血，一食工力出於作者一鉢之血，況復一生凡受幾食？	計一鉢食出一鉢汗，汗在皮肉即是其血，一食工力出於作者一鉢之血，況復一生凡受幾食？	It takes a bowl of sweat to produce a bowl of food. The sweat on the skin and flesh is blood. The labor of one meal produces a bowl of blood for the worker. How much more is the work of a lifetime? How many meals are eaten in a lifetime?
+['ZH_T45_1893_001:0825a04_8']	始從耕種乃至入口，傷殺無數雜類小虫，是以佛戒日受一食，支持性命寄過一生。	始從耕種乃至入口，傷殺無數雜類小虫，是以佛戒日受一食，支持性命寄過一生。	From the beginning of plowing and planting until it enters the mouth, countless small insects of various kinds are harmed and killed. Therefore, the Buddha's precepts allow one meal a day to sustain life and pass through a lifetime.
+['ZH_T45_1893_001:0825a05_17']	衣服者養蠶殺繭、取桑、織絡、染浣、裁縫，眾緣調度無量辛苦。	衣服者養蠶殺繭、取桑、織絡、染浣、裁縫，眾緣調度無量辛苦。	As for clothing, raising silkworms, killing cocoons, picking mulberries, weaving, dyeing, washing, and sewing - the various conditions and preparations are immeasurable hardship.
+['ZH_T45_1893_001:0825a07_19']	計上下衣資，凡殺幾蠶出幾氣力，蠶繭入湯受幾痛苦，是故佛教著糞掃衣，障弊陋質冀得修道。	計上下衣資，凡殺幾蠶出幾氣力，蠶繭入湯受幾痛苦，是故佛教著糞掃衣，障弊陋質冀得修道。	Calculating the upper and lower garments, how many silkworms are killed and how much energy is expended? The silkworms in the cocoons suffer how much pain when put into boiling water? Therefore, the Buddha teaches to wear discarded clothes, to cover the ugly body and hope to cultivate the Way.
+['ZH_T45_1893_001:0825a10_6']	房舍者從起立牆壁、穿坑掘地傷殺土虫，斫伐材木傷林樹虫，造塼瓦時殺泥水虫，放火陶冶殺柴草虫。	房舍者從起立牆壁、穿坑掘地傷殺土虫，斫伐材木傷林樹虫，造塼瓦時殺泥水虫，放火陶冶殺柴草虫。	As for dwellings, from the construction of walls and foundations, digging pits and earth, killing earth insects, cutting wood and injuring forest insects, killing mud and water insects when making bricks and tiles, and burning and smelting killing insects in firewood and grass.
+['ZH_T45_1893_001:0825a12_4']	作人苦力，施主費財，飲食眾緣，勞損甚大始成一房，是故行者依於塚樹草蓐自安。	作人苦力，施主費財，飲食眾緣，勞損甚大始成一房，是故行者依於塚樹草蓐自安。	The laborers suffer, the donors spend their wealth, and the many conditions of food and drink cause great loss and damage before a single room is completed. Therefore, practitioners rely on charnel grounds, trees, and grass mats for their own comfort.
+['ZH_T45_1893_001:0825a14_13']	念食是苦節身而食，念衣殺命著糞掃衣，念房舍臥具從苦緣生，志樂頭陀三月一移，念四事難消少欲知足。	念食是苦節身而食，念衣殺命著糞掃衣，念房舍臥具從苦緣生，志樂頭陀三月一移，念四事難消少欲知足。	Thinking of food as suffering, they restrain themselves and eat. Thinking of robes as taking life, they wear discarded clothes. Thinking of dwellings and bedding as arising from suffering conditions, they delight in the practice of moving every three months. Thinking of the four requisites as difficult to digest, they have few desires and are content.
+['ZH_T45_1893_001:0825a14_16']	經云：	經云：	The sūtra says:
+['ZH_T45_1893_001:0825a18_1']	受檀越食如飢饉世食子肉想，受施主衣如熱鐵纏身，入房舍時如入鐵鑵，受床坐時如熱鐵床，寧破此身猶如微塵，不以破戒之身受人供給。	受檀越食如飢饉世食子肉想，受施主衣如熱鐵纏身，入房舍時如入鐵鑵，受床坐時如熱鐵床，寧破此身猶如微塵，不以破戒之身受人供給。	Receiving the food of donors is like thinking of eating one's own child in a famine. Receiving the robes of benefactors is like being wrapped in red-hot iron. Entering a dwelling is like entering an iron cauldron. Using a bed or seat is like a bed of hot iron. It is better to destroy this body, which is like a speck of dust, than to receive the offerings of others with a body that violates the precepts.
+['ZH_T45_1893_001:0825a22_5']	三塗苦報皆為愛衣貪食樂好房舍，若破戒因緣還償施主，或作奴婢鞭打驅策、或受畜生形披毛帶角，生償筋骨死還皮肉，負重力盡起而復倒，虛受信施樂不足言，及償施主苦過萬倍。	三塗苦報皆為愛衣貪食樂好房舍，若破戒因緣還償施主，或作奴婢鞭打驅策、或受畜生形披毛帶角，生償筋骨死還皮肉，負重力盡起而復倒，虛受信施樂不足言，及償施主苦過萬倍。	The sufferings of the three evil paths are all due to loving clothes, craving food, and enjoying fine dwellings. If one breaks the precepts, one will repay the donor, either becoming a slave whipped and driven, or taking on the form of an animal with fur and horns. In life, one repays with sinews and bones, and in death, one returns with skin and flesh. Carrying heavy loads until exhausted, one rises again and falls down. The joy of receiving alms in vain is not enough to speak of, and the suffering of repaying the donor is more than ten thousand times.
+['ZH_T45_1893_001:0825a23_10']	是故教汝知慚知愧，慎護後世，莫破戒受施，名為淨心。	是故教汝知慚知愧，慎護後世，莫破戒受施，名為淨心。	Therefore, I teach you to know shame and to be conscientious, to carefully protect the next world, and not to break the precepts and receive offerings. This is called a pure mind.
+['ZH_T45_1893_001:0825a23_13']	偈曰：	偈曰：	Verse:
+['ZH_T45_1893_001:0825a24_0']	智者不貪食，　　貪食者無智，	智者不貪食，　　貪食者無智，	The wise do not crave food, those who crave food are ignorant,
+['ZH_T45_1893_001:0825a25_13']	不念出糞苦，　　唯取人食利。	不念出糞苦，　　唯取人食利。	Not thinking of the suffering of defecating, they only take the benefits of human food.
+['ZH_T45_1893_001:0825a26_0']	自噉腦中涎，　　上盛向下棄，	自噉腦中涎，　　上盛向下棄，	Eating the saliva in the brain, full above and discarded below,
+['ZH_T45_1893_001:0825a27_13']	慧命斷四食，　　行者不貪嗜。	慧命斷四食，　　行者不貪嗜。	The wise cut off the four foods, practitioners do not crave or enjoy.
+['ZH_T45_1893_001:0825a28_0']	比丘不樂靜，　　貪利受道具，	比丘不樂靜，　　貪利受道具，	Monks do not enjoy tranquility, craving benefits and receiving monastic equipment,
+['ZH_T45_1893_001:0825a29_13']	追求心散亂，　　忽忽緣諸務。	追求心散亂，　　忽忽緣諸務。	The mind is scattered in pursuit, suddenly concerned with various affairs.
+['ZH_T45_1893_001:0825b01_0']	得一更望一，　　心規恒不住，	得一更望一，　　心規恒不住，	Obtaining one, hoping for another, the mind's plan never abides,
+['ZH_T45_1893_001:0825b02_13']	宜應愧施主，　　臭身裏破絮。	宜應愧施主，　　臭身裏破絮。	One should feel ashamed of the patron, the stinking body wrapped in tattered cotton.
+['ZH_T45_1893_001:0825b03_0']	勸觀三脫門，　　離相自調御，	勸觀三脫門，　　離相自調御，	Advised to contemplate the three emancipations, free from characteristics, self-tamed,
+['ZH_T45_1893_001:0825b04_13']	少欲學知足，　　可依釋子賦。	少欲學知足，　　可依釋子賦。	Desiring little, learning contentment, one may rely on the Shakyamuni's way of life.
+['ZH_T45_1893_001:0825b08_1']	13 誡觀六道流轉受報無窮法誡觀六道流轉受報無窮法第十三三界眾生無始已來造善惡業，皆熏本識成業種子，淨染合雜數過塵算，受六道報生死無邊。	13 誡觀六道流轉受報無窮法誡觀六道流轉受報無窮法第十三三界眾生無始已來造善惡業，皆熏本識成業種子，淨染合雜數過塵算，受六道報生死無邊。	Admonishing to Contemplate the Transmigration of the Six Paths and the Endless Receiving of Retributions, Admonishing to Contemplate the Transmigration of the Six Paths and the Endless Receiving of Retributions, Chapter 13 Sentient beings of the three realms have created good and evil karma since beginningless time, all perfuming the fundamental consciousness to form the seeds of karma, pure and defiled mixed together in number exceeding dust and calculation, receiving the retributions of the six paths with no end to birth and death.
+['ZH_T45_1893_001:0825b08_20']	從地獄出，生諸天中、人中、鬼神畜生中。	從地獄出，生諸天中、人中、鬼神畜生中。	Coming out of hell, they are born among the various heavens, humans, ghosts, and animals.
+['ZH_T45_1893_001:0825b11_3']	畜生者先受蝎蠓蠕動形類，一日一夜百死百生，千死萬生漸受大身，乃至摩竭魚等長十千由旬。	畜生者先受蝎蠓蠕動形類，一日一夜百死百生，千死萬生漸受大身，乃至摩竭魚等長十千由旬。	As an animal, one first receives the form of a scorpion, gnat, or wriggling creature. In one day and night, one dies and is reborn hundreds of times, thousands of times, tens of thousands of times, gradually receiving a large body, up to a makara fish, ten thousand yojanas long.
+['ZH_T45_1893_001:0825b12_5']	脫畜生身受修羅身，天上福盡復生地獄餓鬼中。	脫畜生身受修羅身，天上福盡復生地獄餓鬼中。	Escaping the body of an animal, one receives the body of an asura. When the blessings in the heavens are exhausted, one is reborn in the hells and as hungry ghosts.
+['ZH_T45_1893_001:0825b12_8']	經云：	經云：	The sutra says:
+['ZH_T45_1893_001:0825b12_20']	鬼有百千萬種，果報各別。	鬼有百千萬種，果報各別。	Hungry ghosts have hundreds of thousands of myriads of kinds, with individual karmic retributions.
+['ZH_T45_1893_001:0825b14_8']	六道人畜，各千萬種，色命苦樂質像好醜，千差萬品，說難窮盡。	六道人畜，各千萬種，色命苦樂質像好醜，千差萬品，說難窮盡。	The six destinies, humans and animals, each have millions of kinds, with a thousand differences and myriad distinctions in appearance, lifespan, suffering and happiness, good and bad. It is difficult to exhaust them in speech.
+['ZH_T45_1893_001:0825b14_20']	今言人道本業來處，經云：	今言人道本業來處，經云：	Now, as for the original karma of the human realm, the sutra says:
+['ZH_T45_1893_001:0825b15_16']	受形顏貌端正，為性淨潔，諸天中來；	受形顏貌端正，為性淨潔，諸天中來；	Those who receive a form with an upright appearance and a pure nature come from the heavens;
+['ZH_T45_1893_001:0825b16_11']	皮膚麁弊，不喜修施，畜生中來；	皮膚麁弊，不喜修施，畜生中來；	Those with coarse skin and a dislike for cultivation and giving come from the animal realm;
+['ZH_T45_1893_001:0825b17_4', 'ZH_T45_1893_001:0825b17_14']	形色醜惡，瞪矒少智，地獄中來；🔽舉動輕躁，獼猴中來；	形色醜惡，瞪矒少智，地獄中來； 舉動輕躁，獼猴中來；	Those with an ugly appearance, dull and little wisdom, come from the hells;🔽Those who move lightly and nimbly come from the monkey realm;
+['ZH_T45_1893_001:0825b18_3']	機捷調戲，妓兒中來；	機捷調戲，妓兒中來；	Those who are quick-witted and playful come from the realm of entertainers;
+['ZH_T45_1893_001:0825b18_13']	性多謟媚，鬼神中來。	性多謟媚，鬼神中來。	Their nature is often deceitful, coming from among ghosts and spirits.
+['ZH_T45_1893_001:0825b19_2']	略而言之，廣即難盡。	略而言之，廣即難盡。	To put it briefly, in detail it is difficult to exhaust.
+['ZH_T45_1893_001:0825b21_2']	一道之中有恒河沙因果，受一螘身猶經多劫，況受餘形及餘道中，是故生死不可窮盡。	一道之中有恒河沙因果，受一螘身猶經多劫，況受餘形及餘道中，是故生死不可窮盡。	Within a single path there are as many causes and effects as there are sands in the Ganges River. Even experiencing the body of an ant takes many kalpas, let alone experiencing other forms and other paths. Therefore, birth and death are inexhaustible.
+['ZH_T45_1893_001:0825b23_8']	汝可諦觀，捨身命時受大苦痛，受身生時復大苦痛，如是苦痛已經塵劫，已捨無數身，已受無邊苦。	汝可諦觀，捨身命時受大苦痛，受身生時復大苦痛，如是苦痛已經塵劫，已捨無數身，已受無邊苦。	You should carefully observe that when abandoning life, you experience great pain. When receiving a body and being born, you again experience great pain. Such pain has already passed through countless kalpas. You have already abandoned countless bodies and experienced boundless suffering.
+['ZH_T45_1893_001:0825b25_5']	愚者於中猶行放逸，汝可思之勤求出離，專精策勵成無學果，證真解脫快樂安隱。	愚者於中猶行放逸，汝可思之勤求出離，專精策勵成無學果，證真解脫快樂安隱。	The foolish still act recklessly in the midst of this. You should contemplate this and diligently seek liberation, single-mindedly striving to attain the fruit of no-more-learning and realize true liberation, happiness and peace.
+['ZH_T45_1893_001:0825b25_16']	能如是觀者，名為淨心。	能如是觀者，名為淨心。	One who is able to contemplate in this way is called a pure mind.
+['ZH_T45_1893_001:0825b25_19']	偈曰：	偈曰：	Verse:
+['ZH_T45_1893_001:0825b26_0']	一切世人欲受樂，　　遣修樂因不肯作，	一切世人欲受樂，　　遣修樂因不肯作，	All worldly people desire to experience happiness, but they do not want to cultivate the causes of happiness.
+['ZH_T45_1893_001:0825b27_17']	愚人得樂謂常樂，　　不覺命終被減削。	愚人得樂謂常樂，　　不覺命終被減削。	Foolish people, when experiencing happiness, think it is permanent happiness, and do not realize that when their lives end, they will be cut off.
+['ZH_T45_1893_001:0825b28_0']	十五姿容言可愛，　　四十已去自疎索，	十五姿容言可愛，　　四十已去自疎索，	At fifteen, one's appearance and speech are lovable, but after forty, one becomes increasingly distant.
+['ZH_T45_1893_001:0825b29_17']	縱使生天八萬劫，　　不免無常墮溝壑。	縱使生天八萬劫，　　不免無常墮溝壑。	Even if one is reborn in the heavens for 80,000 eons, one cannot escape impermanence and fall into the abyss.
+['ZH_T45_1893_001:0825c01_0']	凡夫暫樂忘大苦，　　受大苦時復忘樂，	凡夫暫樂忘大苦，　　受大苦時復忘樂，	Ordinary beings temporarily forget great suffering for the sake of pleasure, and when experiencing great suffering, they forget pleasure again.
+['ZH_T45_1893_001:0825c02_0']	所受苦樂皆空華，　　本來祇是情迷錯，	所受苦樂皆空華，　　本來祇是情迷錯，	The suffering and pleasure one experiences are all empty flowers, originally just deluded emotions.
+['ZH_T45_1893_001:0825c03_17']	迷解悟道獲神通，　　永斷生死名真樂。	迷解悟道獲神通，　　永斷生死名真樂。	When delusion is resolved and one awakens to the Way and attains spiritual powers, permanently severing birth and death is called true happiness.
+['ZH_T45_1893_001:0825c05_4']	14 誡觀八風力大智者不動法誡觀八風力大智者不動法第十四何者為八？	14 誡觀八風力大智者不動法誡觀八風力大智者不動法第十四何者為八？	Admonishing to Contemplate the Great Power of the Eight Winds, the Wise One Remains Unmoved Admonishing to Contemplate the Great Power of the Eight Winds, the Wise One Remains Unmoved, Part 14 What are the eight?
+['ZH_T45_1893_001:0825c06_5']	一利，二衰，三毀，四譽，五稱，六譏，七苦，八樂。	一利，二衰，三毀，四譽，五稱，六譏，七苦，八樂。	First, gain; second, loss; third, slander; fourth, praise; fifth, fame; sixth, disparagement; seventh, suffering; eighth, happiness.
+['ZH_T45_1893_001:0825c07_3']	一切眾生為八所動不自安心，故名八風。	一切眾生為八所動不自安心，故名八風。	All sentient beings are moved by the eight and cannot settle their minds on their own, so they are called the eight winds.
+['ZH_T45_1893_001:0825c07_8']	何者動相？	何者動相？	What are the signs of movement?
+['ZH_T45_1893_001:0825c09_6']	得利便悅，衰惱便憂，毀辱即瞋，譽談即喜，逢苦懷慼，遇樂生逸，稱讚情歡，譏刺抱恨。	得利便悅，衰惱便憂，毀辱即瞋，譽談即喜，逢苦懷慼，遇樂生逸，稱讚情歡，譏刺抱恨。	When one gains profit, one is delighted; when one suffers loss, one is distressed; when one is insulted, one becomes angry; when one is praised, one is happy; when one encounters suffering, one feels dejected; when one experiences pleasure, one becomes excited; when one is praised, one's feelings are elated; when one is criticized, one bears resentment.
+['ZH_T45_1893_001:0825c11_18']	此之八法能令癡凡動搖不安，毀譽聲一，妄起二業，造三塗因，報四趣果，波浪五道，成就十纏，永處樊籠，何時解脫？	此之八法能令癡凡動搖不安，毀譽聲一，妄起二業，造三塗因，報四趣果，波浪五道，成就十纏，永處樊籠，何時解脫？	These eight dharmas can cause foolish ordinary beings to be agitated and uneasy. The sounds of slander and praise give rise to two kinds of false actions, create the causes for the three evil paths, and receive the fruits of the four destinies. The waves of the five paths accomplish the ten entanglements, and one forever dwells in the cage. When will one be liberated?
+['ZH_T45_1893_001:0825c14_15']	然十界者緣和故生，性空故滅，體解生滅即無嫌恨，恨風不起，罪火不然，火不熾然，心得清涼，無諸熱惱，以無熱惱故，名為淨心。	然十界者緣和故生，性空故滅，體解生滅即無嫌恨，恨風不起，罪火不然，火不熾然，心得清涼，無諸熱惱，以無熱惱故，名為淨心。	However, the ten realms arise due to the convergence of conditions and cease due to the emptiness of nature. If one thoroughly understands arising and ceasing, then there is no resentment. The wind of resentment does not arise, the fire of offenses does not burn, and since the fire does not blaze, the mind becomes cool and free from all afflictions. Because there are no afflictions, it is called the pure mind.
+['ZH_T45_1893_001:0825c14_18']	偈曰：	偈曰：	Verse:
+['ZH_T45_1893_001:0825c15_0']	愚人貪美食，　　憎惡腹內屎，	愚人貪美食，　　憎惡腹內屎，	Foolish people crave delicious food, but hate the feces in their bellies,
+['ZH_T45_1893_001:0825c16_13']	見生竟愛染，　　薄賤老病死。	見生竟愛染，　　薄賤老病死。	Seeing birth, they become attached, but despise old age, sickness, and death.
+['ZH_T45_1893_001:0825c17_0']	毀譽同響聲，　　瞋喜更互起，	毀譽同響聲，　　瞋喜更互起，	Slander and praise have the same echo, anger and joy arise alternately,
+['ZH_T45_1893_001:0825c18_13']	取相心高下，　　不識平等理。	取相心高下，　　不識平等理。	Grasping at characteristics, the mind is high and low, not recognizing the principle of equality.
+['ZH_T45_1893_001:0825c19_0']	癡惑著音聲，　　凡夫共如此，	癡惑著音聲，　　凡夫共如此，	Foolishly deluded and attached to sound, ordinary beings share this,
+['ZH_T45_1893_001:0825c20_13']	死生糞與食，　　經文遣相比。	死生糞與食，　　經文遣相比。	Death and birth, excrement and food, the scriptures use these to illustrate.
+['ZH_T45_1893_001:0825c21_0']	耳被虛聲誑，　　神仙墮崖死，	耳被虛聲誑，　　神仙墮崖死，	The ear is deceived by empty sounds, the immortal fell off a cliff and died,
+['ZH_T45_1893_001:0825c22_13']	智者解真空，　　視聽不相似。	智者解真空，　　視聽不相似。	The wise understand true emptiness, seeing and hearing are not the same.
+['ZH_T45_1893_001:0825c25_7']	15 誡觀身心相苦惱過患法誡觀身心相苦惱過患法第十五身相者，六道異類陰大假成，感現前果酬過去因，故名身相。	15 誡觀身心相苦惱過患法誡觀身心相苦惱過患法第十五身相者，六道異類陰大假成，感現前果酬過去因，故名身相。	Admonishing to Contemplate the Suffering and Harm of the Body and Mind, Fascicle 15 The characteristics of the body are that the different species of the six realms are formed by the temporary aggregation of the aggregates and elements. They experience present results in response to past causes, and are therefore called the characteristics of the body.
+['ZH_T45_1893_001:0825c26_6']	身相有八萬四千種形，依正二報各各差別。	身相有八萬四千種形，依正二報各各差別。	The characteristics of the body have 84,000 kinds of forms, with the two kinds of rewards of the dependent and the independent each having their own distinctions.
+['ZH_T45_1893_001:0825c27_15']	一人遍受爾許種身，已經無量阿僧祇劫，今誡觀身，唯及人道。	一人遍受爾許種身，已經無量阿僧祇劫，今誡觀身，唯及人道。	One person has already experienced countless asaṃkhyeya kalpas of receiving these kinds of bodies, and now admonishes contemplating the body, only reaching the human realm.
+['ZH_T45_1893_001:0826a04_3']	一人有九萬九千毛孔，八百種風出入其中，八萬戶虫遍身充滿，四百四病更互發動，三百六十骨節迭相依持，百一十苦無時不受，三十六種不淨膿血合成陰身，九孔漏瘡穢物流出，如上苦業始成一人，賢聖捨離如除惡病，故名觀身。	一人有九萬九千毛孔，八百種風出入其中，八萬戶虫遍身充滿，四百四病更互發動，三百六十骨節迭相依持，百一十苦無時不受，三十六種不淨膿血合成陰身，九孔漏瘡穢物流出，如上苦業始成一人，賢聖捨離如除惡病，故名觀身。	One person has ninety-nine thousand pores, with eight hundred kinds of winds coming and going within, eighty thousand kinds of worms filling the body, four hundred and four diseases arising in turn, three hundred and sixty bones and joints supporting each other, one hundred and ten kinds of suffering experienced all the time, thirty-six kinds of impure pus and blood forming the body, and nine orifices leaking filth flowing out. As such suffering and karma begin to form one person, sages abandon it as if removing a serious illness. Therefore, it is called contemplating the body.
+['ZH_T45_1893_001:0826a05_14']	心相者，一念之間九十剎那，生住異滅猶如電光，塵起識生貪境招報。	心相者，一念之間九十剎那，生住異滅猶如電光，塵起識生貪境招報。	The characteristics of the mind are that in a single thought there are ninety moments, arising, abiding, changing, and ceasing like a flash of lightning. When dust arises and consciousness is born, craving for objects invites retribution.
+['ZH_T45_1893_001:0826a05_17']	經云：	經云：	The sutra says:
+['ZH_T45_1893_001:0826a08_4']	貪欲心有二萬一千，瞋恚心有二萬一千，愚癡心有二萬一千，等分心有二萬一千，合有八萬四千塵勞。	貪欲心有二萬一千，瞋恚心有二萬一千，愚癡心有二萬一千，等分心有二萬一千，合有八萬四千塵勞。	There are twenty-one thousand minds of lust, twenty-one thousand minds of anger, twenty-one thousand minds of delusion, and twenty-one thousand minds of equal parts, totaling eighty-four thousand afflictions.
+['ZH_T45_1893_001:0826a09_5']	一百八種煩惱，五百四十種受，有九十八種使。	一百八種煩惱，五百四十種受，有九十八種使。	The one hundred and eight kinds of afflictions, the five hundred and forty kinds of feelings, and the ninety-eight kinds of fetters.
+['ZH_T45_1893_001:0826a09_10']	故名觀心。	故名觀心。	Therefore, it is called contemplating the mind.
+['ZH_T45_1893_001:0826a12_13']	若入安般觀法，心所漸息，乃至九次第定，還歸一真清淨心中，此清淨心名為佛性，名真常法身、無心之心、無相之相，如是觀察，名為淨心。	若入安般觀法，心所漸息，乃至九次第定，還歸一真清淨心中，此清淨心名為佛性，名真常法身、無心之心、無相之相，如是觀察，名為淨心。	If one enters the method of contemplating the breath, the mental activities gradually cease, up to the nine successive concentrations, returning to the one true pure mind. This pure mind is called Buddha-nature, the true and eternal Dharma-body, the mind without mind, the characteristic without characteristic. Such contemplation is called purifying the mind.
+['ZH_T45_1893_001:0826a12_16']	偈曰：	偈曰：	Verse:
+['ZH_T45_1893_001:0826a13_0']	廢緣託淨境，　　正命自養身，	廢緣託淨境，　　正命自養身，	Abandoning conditions and relying on pure objects, sustaining the body with right livelihood,
+['ZH_T45_1893_001:0826a14_13']	諦觀虛空心，　　隨分得解脫。	諦觀虛空心，　　隨分得解脫。	Contemplating the mind in empty space, attaining liberation according to one's capacity.
+['ZH_T45_1893_001:0826a15_0']	貪瞋若欲起，　　觀空以止遏，	貪瞋若欲起，　　觀空以止遏，	If greed and anger are about to arise, contemplate emptiness to stop them.
+['ZH_T45_1893_001:0826a16_13']	河沙煩惱根，　　定力能斷割。	河沙煩惱根，　　定力能斷割。	The roots of afflictions as numerous as the sands of the Ganges can be severed by the power of concentration.
+['ZH_T45_1893_001:0826a17_0']	專定不修智，　　小乘非大慧，	專定不修智，　　小乘非大慧，	Single-minded concentration without cultivating wisdom is the lesser vehicle, not the great wisdom.
+['ZH_T45_1893_001:0826a18_13']	雖復苦身行，　　徒自歷年歲。	雖復苦身行，　　徒自歷年歲。	Although one may torment the body and practice, it is in vain to pass through the years.
+['ZH_T45_1893_001:0826a19_0']	定慧平等修，　　方知佛性體，	定慧平等修，　　方知佛性體，	Cultivating samādhi and prajñā equally, one can then know the essence of buddha-nature,
+['ZH_T45_1893_001:0826a20_13']	直至大涅槃，　　何況世間諦。	直至大涅槃，　　何況世間諦。	Going straight to great nirvāṇa, let alone worldly truths.Here is the corrected and aligned text:
+['ZH_T45_1893_001:0826a21_100']	淨心誡觀法卷上	淨心誡觀法卷上	The Sūtra of Pure Mind Admonitions on Contemplation, Scroll 1

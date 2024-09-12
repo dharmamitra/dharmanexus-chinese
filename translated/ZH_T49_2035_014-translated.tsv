@@ -1,0 +1,829 @@
+segmentnr	original	analyzed	translated
+['ZH_T49_2035_014:0219c24_0']	佛祖統紀卷第十四	佛祖統紀卷第十四	Volume 14 of the Comprehensive Chronicle of Buddhas and Patriarchs
+['ZH_T49_2035_014:0219c26_0']	宋景定四明東湖沙門志磐撰	宋景定四明東湖沙門志磐撰	Compiled by Zhipan, a monk from Donghu in Siming during the Jingding era of the Song Dynasty
+['ZH_T49_2035_014:0219c27_0']	諸師列傳第六之四	諸師列傳第六之四	Biographies of Various Masters, Part 6-4
+['ZH_T49_2035_014:0220b02_4_0', 'ZH_T49_2035_014:0220b02_4_1']	神智文法師法嗣廣智下第三世明智中立法師文🔽慧宗正法師空相思恭法師扶宗忠法師法嗣草堂	神智文法師法嗣廣智下第三世明智中立法師文 慧宗正法師空相思恭法師扶宗忠法師法嗣草堂	Fawang, the Dharma Heirs of Shenzhishi Wen, the Third Generation of Guangzhi, Mingzhi Zhongli Fawang, Wen🔽Huizong Zheng, the Dharma Heirs of Kongxiang Sigong, Fu Zong Zhong, and Chutang
+['ZH_T49_2035_014:0220b02_4_2']	處元法師永嘉法詮法師超果湛法師法嗣海慧若	處元法師永嘉法詮法師超果湛法師法嗣海慧若	Chuyuan Fawang, the Dharma Heirs of Yongjia Fashuan, Chaoguo Zhan, and Haitong Ruoyuan
+['ZH_T49_2035_014:0220b02_4_3', 'ZH_T49_2035_014:0220b02_4_4', 'ZH_T49_2035_014:0220b02_4_5']	圓法師法真咸法師法嗣神照下第三世白蓮道卿🔽法師安國元惠法師四明淨杲法師神悟謙法師法🔽嗣北禪淨梵法師白蓮善珪法師德藏擇瑛法師金	圓法師法真咸法師法嗣神照下第三世白蓮道卿 法師安國元惠法師四明淨杲法師神悟謙法師法 嗣北禪淨梵法師白蓮善珪法師德藏擇瑛法師金	Fawang, the Dharma Heirs of Fasheng Xian, the Third Generation of Shenzhao, Bailian Daqing🔽Fawang, the Dharma Heirs of Anguo Yuanhui, Siming Jinggao, Shenwu Qian, and Beichan Jingfan🔽Fawang, the Dharma Heirs of Bailian Shangu, Dezang Ze, and Jinhua Zifa
+['ZH_T49_2035_014:0220b02_4_6']	華子方法師壽安良弼法師淨住思照法師一相宗	華子方法師壽安良弼法師淨住思照法師一相宗	Fawang, the Dharma Heirs of Shou'an Liangbi, Jingzhu Sishao, Yixiang Zongli, and Zhe'an Yan
+['ZH_T49_2035_014:0220b02_4_7']	利行人樝菴嚴法師法嗣天台法麟法師天台應通	利行人樝菴嚴法師法嗣天台法麟法師天台應通	Fawang, the Dharma Heirs of Tiantai Falin and Tiantai Yingtong
+['ZH_T49_2035_014:0220b02_4_8', 'ZH_T49_2035_014:0220b02_4_9', 'ZH_T49_2035_014:0220b02_4_10']	法師慈辯諫法師法嗣南屏下第三世車溪擇卿法🔽師慧覺齊玉法師圓覺蘊慈法師普明如靖法師天🔽竺應如法師法雲宗敏法師佛智慈雲法師佛照智	法師慈辯諫法師法嗣南屏下第三世車溪擇卿法 師慧覺齊玉法師圓覺蘊慈法師普明如靖法師天 竺應如法師法雲宗敏法師佛智慈雲法師佛照智	Dharma Master Cibi's disciple Dharma Master Fashi's Dharma heirs, the third generation of Nanting's lineage, Chexi Zheqing Dharma
+['ZH_T49_2035_014:0220b02_4_11', 'ZH_T49_2035_014:0220b02_4_12', 'ZH_T49_2035_014:0220b02_4_13']	堅法師慧覺清月法師圓明普賢法師上竺明義法🔽師高麗義天僧統群峯初法師法嗣梵慈智普法師🔽南屏文法師法嗣憲章仲閔法師超果賢法師法嗣	堅法師慧覺清月法師圓明普賢法師上竺明義法 師高麗義天僧統群峯初法師法嗣梵慈智普法師 南屏文法師法嗣憲章仲閔法師超果賢法師法嗣	Master Huizhao Qiyu Dharma Master Yuanjue Yunci Dharma Master Puming Rujing Dharma Master Tianzhu Yingru Dharma Master Fayun Zongmin Dharma Master Fozhi Cunyun Dharma Master Fozhao Zhijian Dharma Master Huizhao Qingyue Dharma Master Yuanming Puxian Dharma Master Shangzhu Mingyi Dharma
+['ZH_T49_2035_014:0220b02_4_14', 'ZH_T49_2035_014:0220b02_4_15']	精微彥倫法師清辯蘊齊法師寶積彥端法師景雲🔽其法師法嗣覺慈善嵩法師景德居式法師神智文	精微彥倫法師清辯蘊齊法師寶積彥端法師景雲 其法師法嗣覺慈善嵩法師景德居式法師神智文	Master Gaoli Yitian Sengtong Qunfeng Chuzhi Dharma Master Fashi's Dharma heirs Fanci Zhipu Dharma Master Nanting Wen Dharma Master Fashi's Dharma heirs Xianzhang Zhongmin Dharma Master Chaoguo Xian Dharma Master Fashi's Dharma heirs Jingwei Yanlun Dharma Master Qingbian Yunqi Dharma Master Baoji Yanduan Dharma Master Jingyun
+['ZH_T49_2035_014:0220b02_4_16']	法師法嗣神智文法師法嗣廣智下第三世法師中	法師法嗣神智文法師法嗣廣智下第三世法師中	Fashi's Dharma heirs Juechan Zhishou Dharma Master Jingde Jusheng Dharma Master Shenzhi Wen Dharma Master Fashi's Dharma heirs Shenzhi Wen Dharma Master Fashi's Dharma heirs Guangzhi's third generation Dharma heirs, the third generation of Dharma masters in the lineage of
+['ZH_T49_2035_014:0220b02_4_17']	立。	立。	Zhongli.
+['ZH_T49_2035_014:0220b02_9']	鄞之陳氏。	鄞之陳氏。	The Chen family of Yin.
+['ZH_T49_2035_014:0220b02_14']	賜號明智。	賜號明智。	He was given the title Mingzhi.
+['ZH_T49_2035_014:0220b03_4']	母夢日輪入懷遂有娠。	母夢日輪入懷遂有娠。	His mother dreamed of the sun entering her womb and then became pregnant.
+['ZH_T49_2035_014:0220b03_9']	夜不三浴。	夜不三浴。	At night, she would not bathe three times.
+['ZH_T49_2035_014:0220b03_15']	則啼號不止。	則啼號不止。	If she did not, the baby would cry incessantly.
+['ZH_T49_2035_014:0220b04_7']	九歲出家於甬東之棲心。	九歲出家於甬東之棲心。	At the age of nine, he left home at Qixinfu in Dongyong.
+['ZH_T49_2035_014:0220b04_16']	受經一誦永憶不忘。	受經一誦永憶不忘。	After receiving the sutra once, he could remember it forever without forgetting.
+['ZH_T49_2035_014:0220b05_6']	治平中試經開封府。	治平中試經開封府。	During the Zhiping era, he took the sutra examination at Kaifeng Prefecture.
+['ZH_T49_2035_014:0220b05_11']	中選得度。	中選得度。	He was selected and received the precepts.
+['ZH_T49_2035_014:0220b06_1']	初依廣智學教觀。	初依廣智學教觀。	At first, he studied the teachings and contemplation under Guangzhi.
+['ZH_T49_2035_014:0220b06_12']	及神智斷主南湖復依之。	及神智斷主南湖復依之。	Later, when Shenzhi took over the leadership of Nanhu, he followed him again.
+['ZH_T49_2035_014:0220b07_2']	熙寧中神智開幃。	熙寧中神智開幃。	During the Xining era, Shenzhi opened the curtain.
+['ZH_T49_2035_014:0220b07_10']	設問答者二百人。	設問答者二百人。	There were two hundred people who asked questions and answered them.
+['ZH_T49_2035_014:0220b07_15']	無出師右。	無出師右。	None of them surpassed the master.
+['ZH_T49_2035_014:0220b08_3']	乃舉居座元。	乃舉居座元。	He was then appointed to the position of seat leader.
+['ZH_T49_2035_014:0220b08_13']	久之去謁扶宗於永嘉。	久之去謁扶宗於永嘉。	After a long time, he left to visit Fuzong in Yongjia.
+['ZH_T49_2035_014:0220b08_16']	將歸。	將歸。	When he was about to return,
+['ZH_T49_2035_014:0220b09_1']	宗曰。	宗曰。	Fuzong said,
+['ZH_T49_2035_014:0220b09_10', 'ZH_T49_2035_014:0220b09_16']	子行必紹法智之席。🔽及神智謝事。	子行必紹法智之席。 及神智謝事。	Your path will surely inherit Fazhi's seat.🔽When Shenzhi resigned from his position,
+['ZH_T49_2035_014:0220b10_3']	乃俾師為繼。	乃俾師為繼。	he had the master succeed him.
+['ZH_T49_2035_014:0220b10_7']	元祐初。	元祐初。	In the first year of Yuanyou,
+['ZH_T49_2035_014:0220b10_18']	高麗僧統義天遠來問道。	高麗僧統義天遠來問道。	the monk Yitian from Goryeo came from afar to inquire about the Way.
+['ZH_T49_2035_014:0220b11_7']	甫濟岸遇師升堂。	甫濟岸遇師升堂。	As soon as he reached the shore, he met the master in the hall.
+['ZH_T49_2035_014:0220b11_10']	歎曰。	歎曰。	He sighed and said,
+['ZH_T49_2035_014:0220b11_15']	果有人焉。	果有人焉。	Sure enough, there is a person here.
+['ZH_T49_2035_014:0220b12_2']	遂以師禮見。	遂以師禮見。	He then met the master with the etiquette of a teacher.
+['ZH_T49_2035_014:0220b12_13']	傾所學折其鋒竟不可得。	傾所學折其鋒竟不可得。	He exhausted his learning and broke the sharpness of the master's words, but in the end could not defeat him.
+['ZH_T49_2035_014:0220b13_3']	師令門徒介然。	師令門徒介然。	The master ordered his disciples to be respectful.
+['ZH_T49_2035_014:0220b13_10']	始作十六觀室。	始作十六觀室。	He then built the Sixteen Contemplation Rooms.
+['ZH_T49_2035_014:0220b13_17']	以延淨業之士。	以延淨業之士。	To extend to those engaged in pure practices.
+['ZH_T49_2035_014:0220b14_4']	已而辭去曰。	已而辭去曰。	After that, he took leave and said:
+['ZH_T49_2035_014:0220b14_9']	吾年六十。	吾年六十。	I am sixty years old.
+['ZH_T49_2035_014:0220b14_13']	當再來。	當再來。	I will come again.
+['ZH_T49_2035_014:0220b15_3']	即退處東湖之隱學。	即退處東湖之隱學。	He then retired to the Hidden Learning of East Lake.
+['ZH_T49_2035_014:0220b15_11']	數年郡太守王公。	數年郡太守王公。	After several years, the prefect Wang
+['ZH_T49_2035_014:0220b15_16']	勉主寶雲。	勉主寶雲。	Persuaded him to head Baoyun.
+['ZH_T49_2035_014:0220b16_2']	一新棟宇。	一新棟宇。	He completely renovated the buildings.
+['ZH_T49_2035_014:0220b16_12']	於伽藍神腹得願文云。	於伽藍神腹得願文云。	In the belly of the temple guardian deity, he found a vow that said:
+['ZH_T49_2035_014:0220b17_8']	後百年當有肉身菩薩重興此地。	後百年當有肉身菩薩重興此地。	After a hundred years, there will be a flesh-body bodhisattva who will revive this place.
+['ZH_T49_2035_014:0220b17_13']	聞者異之。	聞者異之。	Those who heard this found it extraordinary.
+['ZH_T49_2035_014:0220b18_2']	後退隱白雲菴。	後退隱白雲菴。	Later, he retired and secluded himself in Baiyun Hermitage.
+['ZH_T49_2035_014:0220b18_12']	日宣止觀至不思議境。	日宣止觀至不思議境。	Day after day, he expounded the Inconceivable Realm of the Mohe Zhiguan.
+['ZH_T49_2035_014:0220b18_15']	歎曰。	歎曰。	He sighed and said:
+['ZH_T49_2035_014:0220b19_3']	吾道至此極矣。	吾道至此極矣。	My Way reaches its ultimate here.
+['ZH_T49_2035_014:0220b19_15']	有不思議境則有不思議心。	有不思議境則有不思議心。	Where there is the Inconceivable Realm, there is the Inconceivable Mind.
+['ZH_T49_2035_014:0220b20_5']	乃作不思議辯正。	乃作不思議辯正。	He then wrote the Inconceivable Treatise on Correcting Delusions.
+['ZH_T49_2035_014:0220b20_14']	又指五章裂大綱目。	又指五章裂大綱目。	He also pointed out the five chapters and divided the great framework.
+['ZH_T49_2035_014:0220b21_5']	寄果明因以成解行。	寄果明因以成解行。	Using the fruition to clarify the causes, he perfected the understanding and practice.
+['ZH_T49_2035_014:0220b21_14']	舉佛攝生全生是佛。	舉佛攝生全生是佛。	Raising the Buddha's complete nurturing of beings is the Buddha.
+['ZH_T49_2035_014:0220b22_6']	作止觀裂網指歸釋疑。	作止觀裂網指歸釋疑。	Using the Calming and Contemplation to unravel the net and return to the source, resolving doubts.
+['ZH_T49_2035_014:0220b22_12']	文慧正師亡。	文慧正師亡。	Master Wenhui passed away.
+['ZH_T49_2035_014:0220b22_19']	郡請再主延慶。	郡請再主延慶。	The prefecture invited him to serve as abbot of Yanqing again.
+['ZH_T49_2035_014:0220b23_8']	果符六十再來之言。	果符六十再來之言。	It was indeed in accord with the words of coming again at sixty.
+['ZH_T49_2035_014:0220b23_14']	甞升座說法。	甞升座說法。	He once ascended the seat to speak the Dharma.
+['ZH_T49_2035_014:0220b24_1']	慈霔無盡。	慈霔無盡。	His compassionate downpour was inexhaustible.
+['ZH_T49_2035_014:0220b24_8']	下座問侍者曰。	下座問侍者曰。	He descended from the seat and asked his attendant,
+['ZH_T49_2035_014:0220b24_14']	吾適道何語。	吾適道何語。	What did I just say?
+['ZH_T49_2035_014:0220b25_2']	侍者答以所聞。	侍者答以所聞。	The attendant answered with what he had heard.
+['ZH_T49_2035_014:0220b25_5']	師曰。	師曰。	The master said,
+['ZH_T49_2035_014:0220b25_14']	吾覺身心同太虛空。	吾覺身心同太虛空。	I felt my body and mind were the same as the vast void.
+['ZH_T49_2035_014:0220b26_4']	殊不知語之所出也。	殊不知語之所出也。	I didn't know at all where the words came from.
+['ZH_T49_2035_014:0220b26_15']	歲懺行江浙延慶為最盛。	歲懺行江浙延慶為最盛。	In the Jiangnan and Zhejiang regions, the annual repentance practice at Yanqing was the most grand.
+['ZH_T49_2035_014:0220b27_6']	擇其徒修法華懺者。	擇其徒修法華懺者。	He selected disciples to cultivate the Lotus Repentance.
+['ZH_T49_2035_014:0220b27_9']	七年。	七年。	For seven years.
+['ZH_T49_2035_014:0220b27_14']	行法將圓。	行法將圓。	As the practice was about to be completed,
+['ZH_T49_2035_014:0220b28_3']	禪觀中見一大舟。	禪觀中見一大舟。	In Chan meditation, he saw a large boat.
+['ZH_T49_2035_014:0220b28_9']	眾欲乘不可。	眾欲乘不可。	Many wanted to ride in it but could not.
+['ZH_T49_2035_014:0220b28_17']	唯師坐其中以行。	唯師坐其中以行。	Only the master sat in it and rode in it.
+['ZH_T49_2035_014:0220b29_9']	自是辯慧泉涌超勝於昔。	自是辯慧泉涌超勝於昔。	Since then, his eloquence and wisdom gushed forth, surpassing the past.
+['ZH_T49_2035_014:0220b29_18']	政和五年四月辛亥。	政和五年四月辛亥。	In the fifth year of the Zhenghe era, on the Xinhai day of the fourth month,
+['ZH_T49_2035_014:0220c01_6']	謂門人法維曰。	謂門人法維曰。	He told his disciple Fawi,
+['ZH_T49_2035_014:0220c01_15']	吾聞異香心甚適悅。	吾聞異香心甚適悅。	I smell a strange fragrance and feel very happy.
+['ZH_T49_2035_014:0220c02_5']	謂觀堂行人曰。	謂觀堂行人曰。	I tell the practitioners in the meditation hall:
+['ZH_T49_2035_014:0220c02_13']	吾當與汝輩長別。	吾當與汝輩長別。	I will be leaving you all for a long time.
+['ZH_T49_2035_014:0220c03_1']	即面西坐逝。	即面西坐逝。	Then I sit facing west and pass away.
+['ZH_T49_2035_014:0220c03_10']	塔於崇法祖塔之東。	塔於崇法祖塔之東。	My stupa is to the east of the ancestral stupa of Chongfa.
+['ZH_T49_2035_014:0220c04_4']	講三大部淨名光明數十過。	講三大部淨名光明數十過。	I have lectured on the three major texts and the Vimalakīrti Sutra and the Sūtra of Immeasurable Life dozens of times.
+['ZH_T49_2035_014:0220c04_11']	誦法華踰萬部。	誦法華踰萬部。	I have recited the Lotus Sutra more than ten thousand times.
+['ZH_T49_2035_014:0220c05_4']	與人除病却鬼救災旱。	與人除病却鬼救災旱。	I have helped people cure illnesses, ward off ghosts, and save them from disasters and droughts.
+['ZH_T49_2035_014:0220c05_11']	不能畢記其驗。	不能畢記其驗。	I cannot record all the miracles.
+['ZH_T49_2035_014:0220c06_3']	孔老之書無不遍讀。	孔老之書無不遍讀。	I have read all the books of Confucius and Laozi.
+['ZH_T49_2035_014:0220c06_10']	其對儒士講說。	其對儒士講說。	When I lecture to Confucian scholars,
+['ZH_T49_2035_014:0220c06_16']	則反質之曰。	則反質之曰。	I ask them in return:
+['ZH_T49_2035_014:0220c07_5']	此道在孔聖如何。	此道在孔聖如何。	How is this way in the sage Confucius?
+['ZH_T49_2035_014:0220c07_11']	在詩書如何。	在詩書如何。	How is it in the Book of Poetry and the Book of History?
+['ZH_T49_2035_014:0220c07_17']	儒士不知對。	儒士不知對。	The Confucian scholars do not know how to answer.
+['ZH_T49_2035_014:0220c08_7']	則援引委辯之曰。	則援引委辯之曰。	Then I cite and explain in detail:
+['ZH_T49_2035_014:0220c08_13']	無乃若是乎。	無乃若是乎。	Isn't it like this?
+['ZH_T49_2035_014:0220c09_1']	聞者心服而退。	聞者心服而退。	Those who hear this are convinced and withdraw.
+['ZH_T49_2035_014:0220c09_6']	師在永嘉。	師在永嘉。	The master was in Yongjia.
+['ZH_T49_2035_014:0220c09_11']	扶宗謂曰。	扶宗謂曰。	Fu Zong said to him:
+['ZH_T49_2035_014:0220c09_18']	吾常見摩利支。	吾常見摩利支。	I often see Mārīcī
+['ZH_T49_2035_014:0220c10_7']	韋馱於夢中求護法。	韋馱於夢中求護法。	and Vaitaraṇī seeking to protect the Dharma in my dreams.
+['ZH_T49_2035_014:0220c11_2']	他日幸於南湖懺室置其位。	他日幸於南湖懺室置其位。	One day, I fortunately placed their positions in the repentance hall of Nanhu.
+['ZH_T49_2035_014:0220c11_13']	及師主席乃立像自師始。	及師主席乃立像自師始。	And when the master presided over the temple, he established an image, starting with the master.
+['ZH_T49_2035_014:0220c12_3']	陳瑩中嘗讚師曰。	陳瑩中嘗讚師曰。	Chen Yingzhong once praised the master, saying:
+['ZH_T49_2035_014:0220c12_8']	嚴奉木叉。	嚴奉木叉。	Strictly upholding the precepts.
+['ZH_T49_2035_014:0220c12_13']	堅持靜慮。	堅持靜慮。	Firmly maintaining meditative concentration.
+['ZH_T49_2035_014:0220c12_18']	以身為舌。	以身為舌。	Using the body as the tongue.
+['ZH_T49_2035_014:0220c13_12']	說百億事言戒定慧皆備具也。	說百億事言戒定慧皆備具也。	Speaking of hundreds of billions of matters, all possessing the teachings of morality, concentration, and wisdom.
+['ZH_T49_2035_014:0220c14_4']	法師宗正。	法師宗正。	The Dharma Master Zongzheng.
+['ZH_T49_2035_014:0220c14_9']	賜號文慧。	賜號文慧。	Was bestowed the title of Wenhui.
+['ZH_T49_2035_014:0220c14_16']	依神智學教觀。	依神智學教觀。	Following Shenzhi to study the teachings and contemplation.
+['ZH_T49_2035_014:0220c15_2', 'ZH_T49_2035_014:0220c15_6']	深造閫域。🔽治平初。	深造閫域。 治平初。	Deeply penetrating the innermost realm.🔽In the beginning of the Zhiping era.
+['ZH_T49_2035_014:0220c15_11']	繼主南湖。	繼主南湖。	Succeeding in presiding over Nanhu.
+['ZH_T49_2035_014:0220c15_16']	大弘宗教。	大弘宗教。	Greatly promoting the Buddhist teachings.
+['ZH_T49_2035_014:0220c16_2']	先是寶雲祖。	先是寶雲祖。	Previously, the ancestor of Baoyun.
+['ZH_T49_2035_014:0220c16_12']	藏骨於育王山西北隅。	藏骨於育王山西北隅。	Buried his bones in the northwest corner of Yuwang Mountain.
+['ZH_T49_2035_014:0220c16_18']	後七十七載。	後七十七載。	Later, after seventy-seven years.
+['ZH_T49_2035_014:0220c17_7']	師自南湖往禮敬。	師自南湖往禮敬。	The master went to Nanhu to pay respects.
+['ZH_T49_2035_014:0220c17_13']	顧甃甓有毀。	顧甃甓有毀。	Looking at the bricks and stones, there was damage.
+['ZH_T49_2035_014:0220c17_18']	將遂蕪沒。	將遂蕪沒。	About to be overgrown and lost.
+['ZH_T49_2035_014:0220c18_5']	乃飾工累石。	乃飾工累石。	Then, he worked on the construction, piling up stones.
+['ZH_T49_2035_014:0220c18_13']	起方墳以顯其處。	起方墳以顯其處。	Building a square mound to reveal its location.
+['ZH_T49_2035_014:0220c19_6']	且復為石塔記以識其事。	且復為石塔記以識其事。	And also wrote a record of the stone pagoda to mark the event.
+['ZH_T49_2035_014:0220c19_13']	時謂微師此文。	時謂微師此文。	At that time, it was said that because of this text by the master.
+['ZH_T49_2035_014:0220c20_4']	寶雲之藏幾不可考。	寶雲之藏幾不可考。	The burial of Baoyun was almost unfindable.
+['ZH_T49_2035_014:0220c20_9']	法師思恭。	法師思恭。	The Dharma Master Sigong.
+['ZH_T49_2035_014:0220c20_15']	湖之烏程人。	湖之烏程人。	was a person from Wuxing in Huzhou.
+['ZH_T49_2035_014:0220c21_1']	賜號體真。	賜號體真。	He was given the title True Essence.
+['ZH_T49_2035_014:0220c21_7']	年十九剃髮。	年十九剃髮。	At the age of nineteen, he shaved his head.
+['ZH_T49_2035_014:0220c21_14']	詣神智學教觀。	詣神智學教觀。	He went to Shenguang to study the teachings and contemplation.
+['ZH_T49_2035_014:0220c22_1']	及歸里時。	及歸里時。	When he returned to his hometown,
+['ZH_T49_2035_014:0220c22_8']	空相癈於積潦。	空相癈於積潦。	the empty site was overgrown with weeds.
+['ZH_T49_2035_014:0220c22_14']	師克志興復。	師克志興復。	The master resolutely revived it.
+['ZH_T49_2035_014:0220c23_1']	為屋三百楹。	為屋三百楹。	He built three hundred bays of buildings.
+['ZH_T49_2035_014:0220c23_6']	從容無求。	從容無求。	He was easy-going and did not seek anything,
+['ZH_T49_2035_014:0220c23_12']	而施者自趨。	而施者自趨。	but donors came on their own.
+['ZH_T49_2035_014:0220c24_5']	功成修長懺三載以答志願。	功成修長懺三載以答志願。	When the work was completed, he practiced the long repentance for three years to fulfill his vow.
+['ZH_T49_2035_014:0220c24_13']	及老歸吳山解空。	及老歸吳山解空。	When he grew old, he returned to Wushan Jiekong.
+['ZH_T49_2035_014:0220c25_2']	建炎元年九月。	建炎元年九月。	In the ninth month of the first year of Jianyan,
+['ZH_T49_2035_014:0220c25_7']	別眾坐逝。	別眾坐逝。	he took leave of the assembly and passed away sitting.
+['ZH_T49_2035_014:0220c25_17']	荼毘烟所至皆凝舍利。	荼毘烟所至皆凝舍利。	Wherever the cremation smoke reached, it solidified into śarīra.
+['ZH_T49_2035_014:0220c26_5']	塔於院東南隅。	塔於院東南隅。	He was buried in the southeast corner of the temple.
+['ZH_T49_2035_014:0220c26_15']	弟子戒澄等四十三人。	弟子戒澄等四十三人。	His disciples, including Jieqing, numbered forty-three.
+['ZH_T49_2035_014:0220c27_2']	皆傳道有成。	皆傳道有成。	They all transmitted the teachings and achieved accomplishments.
+['ZH_T49_2035_014:0220c27_7']	分化浙水。	分化浙水。	They spread the teachings in the Zheshui area.
+['ZH_T49_2035_014:0220c29_4']	扶宗忠法師法嗣法師處元。	扶宗忠法師法嗣法師處元。	Fuzong Chong's Dharma heir, Dharma Master Chuyuan.
+['ZH_T49_2035_014:0220c29_8', 'ZH_T49_2035_014:0220c29_13']	永嘉人。🔽久參扶宗。	永嘉人。 久參扶宗。	He was a person from Yongjia.🔽He had long participated in Fuzong's teachings.
+['ZH_T49_2035_014:0221a01_1']	遂繼法明之席。	遂繼法明之席。	He eventually succeeded to the position of Faming.
+['ZH_T49_2035_014:0221a01_8']	郡侯仰其道化。	郡侯仰其道化。	The prefect admired his virtuous influence.
+['ZH_T49_2035_014:0221a01_13']	任以僧正。	任以僧正。	He appointed him as the superintendent of monks.
+['ZH_T49_2035_014:0221a02_3']	澄清品流莫不厭服。	澄清品流莫不厭服。	The clear and pure teachings are all disgusted with and reject it.
+['ZH_T49_2035_014:0221a02_11']	所著輔贊記三卷。	所著輔贊記三卷。	He wrote a commentary in three fascicles.
+['ZH_T49_2035_014:0221a03_9']	其論經體則推本法智廣智源流之說。	其論經體則推本法智廣智源流之說。	In discussing the essence of the sutra, he promoted the teachings of Fazhi and Guangzhi on the source and flow of the Dharma.
+['ZH_T49_2035_014:0221a03_18']	論無住本三種觀法。	論無住本三種觀法。	He discussed the three kinds of contemplation methods based on non-abiding.
+['ZH_T49_2035_014:0221a04_7']	答扶宗通相三觀。	答扶宗通相三觀。	He answered the three kinds of contemplation methods that support the school.
+['ZH_T49_2035_014:0221a04_16']	其說明正學者宗之。	其說明正學者宗之。	The students who clarify the correct teachings take it as their foundation.
+['ZH_T49_2035_014:0221a05_2']	崇寧二年。	崇寧二年。	In the second year of Chongning.
+['ZH_T49_2035_014:0221a05_9']	閒居東溪草堂。	閒居東溪草堂。	He lived in seclusion at Caotang in Dongxi.
+['ZH_T49_2035_014:0221a05_17']	述義例隨釋六卷。	述義例隨釋六卷。	He wrote the seven fascicles of the Commentary on the Outline of the Meaning.
+['ZH_T49_2035_014:0221a06_7']	初荊溪以止觀文廣。	初荊溪以止觀文廣。	At first, Jingxi found the text of the Mohe Zhiguan to be too extensive.
+['ZH_T49_2035_014:0221a06_12']	例為七科。	例為七科。	He divided it into seven sections.
+['ZH_T49_2035_014:0221a06_17']	名為義例。	名為義例。	And called it the Outline of the Meaning.
+['ZH_T49_2035_014:0221a07_8']	俾學者知解行之大旨。	俾學者知解行之大旨。	To let students know the general purport of understanding and practice.
+['ZH_T49_2035_014:0221a08_3']	雖法智製述之多不暇為記。	雖法智製述之多不暇為記。	Although Fazhi wrote many works, he did not have time to write commentaries.
+['ZH_T49_2035_014:0221a08_12']	師因義神智為纂要。	師因義神智為纂要。	The teacher then used Yishen Zhi's Compilation of Essentials.
+['ZH_T49_2035_014:0221a09_9']	以初乘觀法性德之境為真如理觀。	以初乘觀法性德之境為真如理觀。	He took the realm of contemplating the nature of dharmas in the initial vehicle as the contemplation of true suchness principle.
+['ZH_T49_2035_014:0221a10_1']	修德之境為唯識事觀。	修德之境為唯識事觀。	He took the realm of cultivating merit as the contemplation of consciousness-only phenomena.
+['ZH_T49_2035_014:0221a10_10']	師謂狂妄徒疑後學。	師謂狂妄徒疑後學。	The teacher said that the reckless disciples doubted the later students.
+['ZH_T49_2035_014:0221a11_4']	乃決志注釋以斥纂要之非。	乃決志注釋以斥纂要之非。	He then made up his mind to annotate and explain it to refute the errors of the Compilation of Essentials.
+['ZH_T49_2035_014:0221a13_4']	法真咸法師法嗣法真咸法師法嗣神照下第三世法師淨杲。	法真咸法師法嗣法真咸法師法嗣神照下第三世法師淨杲。	Dharma Master Fazu, Dharma Successor of Dharma Master Fazhen Dharma Master Fazu, Dharma Successor of Dharma Master Fazhen, the third generation Dharma Master Jinggao of Shenzhao.
+['ZH_T49_2035_014:0221a13_8']	四明人。	四明人。	A person from Siming.
+['ZH_T49_2035_014:0221a13_15']	學法真為高弟。	學法真為高弟。	He studied under Dharma Master Fazhen as a prominent disciple.
+['ZH_T49_2035_014:0221a14_2']	撰金剛經疏。	撰金剛經疏。	He composed a commentary on the Diamond Sutra.
+['ZH_T49_2035_014:0221a14_7']	欲講即講。	欲講即講。	Whenever he wanted to lecture, he would lecture.
+['ZH_T49_2035_014:0221a14_12']	不俟眾集。	不俟眾集。	He did not wait for the assembly to gather.
+['ZH_T49_2035_014:0221a15_3']	有臣律師者入冥府。	有臣律師者入冥府。	There was a Vinaya Master surnamed Chen who entered the underworld.
+['ZH_T49_2035_014:0221a15_8']	司名者曰。	司名者曰。	The officer in charge of records said:
+['ZH_T49_2035_014:0221a15_12']	誤追也。	誤追也。	Mistakenly summoned.
+['ZH_T49_2035_014:0221a15_18']	臣潛窺其籍。	臣潛窺其籍。	Master Chen secretly looked at the records.
+['ZH_T49_2035_014:0221a16_7']	有云明州淨杲闍黎。	有云明州淨杲闍黎。	It said, Jinggao Shujia of Mingzhou.
+['ZH_T49_2035_014:0221a16_17']	講金剛般若經一百遍。	講金剛般若經一百遍。	He has lectured on the Diamond Prajna Paramita Sutra one hundred times.
+['ZH_T49_2035_014:0221a17_6']	既反詣師以問。	既反詣師以問。	After returning, he asked the master about it.
+['ZH_T49_2035_014:0221a17_9']	師曰。	師曰。	The master said:
+['ZH_T49_2035_014:0221a17_14']	但十遍耳。	但十遍耳。	He has only lectured ten times.
+['ZH_T49_2035_014:0221a18_4']	恐以義勝褒為百遍。	恐以義勝褒為百遍。	I fear that his understanding surpasses his lectures, so it is praised as one hundred times.
+['ZH_T49_2035_014:0221a20_4']	神悟謙法師法嗣神悟謙法師法嗣法主淨梵。	神悟謙法師法嗣神悟謙法師法嗣法主淨梵。	Dharma Master Shenwu Qian, Dharma Successor of Dharma Master Shenwu Dharma Master Shenwu Qian, Dharma Successor of Dharma Master Shenwu, Dharma Master Jingfan.
+['ZH_T49_2035_014:0221a20_10', 'ZH_T49_2035_014:0221a20_14']	嘉禾人姓䉡。🔽母龔氏。	嘉禾人姓䉡。 母龔氏。	A person from Jiaxing, surname Yan.
+['ZH_T49_2035_014:0221a21_4']	夢佛光滿室遂有娠。	夢佛光滿室遂有娠。	His mother, Lady Gong, dreamed of a Buddha's light filling the room, and then became pregnant.
+['ZH_T49_2035_014:0221a21_11']	及生因名佛護。	及生因名佛護。	When he was born, he was named Fuhua.
+['ZH_T49_2035_014:0221a22_5']	十歲從勝果師永懺主出家。	十歲從勝果師永懺主出家。	At ten years old, he left home to study under Master Yong, the Preceptor of Shengguo Temple.
+['ZH_T49_2035_014:0221a22_12']	常念阿彌陀佛。	常念阿彌陀佛。	Always reciting the name of Amitabha Buddha.
+['ZH_T49_2035_014:0221a23_2']	或問年少何為念佛。	或問年少何為念佛。	Someone asked the young man, Why are you reciting the Buddha's name?
+['ZH_T49_2035_014:0221a23_5']	答曰。	答曰。	He replied,
+['ZH_T49_2035_014:0221a23_16']	我欲往他方丈求掛搭去。	我欲往他方丈求掛搭去。	I want to go to other places to seek lodging.
+['ZH_T49_2035_014:0221a24_4']	年十八受具戒。	年十八受具戒。	At the age of eighteen, he received full ordination.
+['ZH_T49_2035_014:0221a24_12']	即依超果湛師學。	即依超果湛師學。	He then studied under Master Zhan of Chaoguo Temple.
+['ZH_T49_2035_014:0221a25_2']	未久復往謁神悟。	未久復往謁神悟。	Before long, he went to visit Shenwu.
+['ZH_T49_2035_014:0221a25_11']	屢親講說大契夙心。	屢親講說大契夙心。	He often attended lectures and greatly resonated with his long-cherished aspirations.
+['ZH_T49_2035_014:0221a26_2']	元祐初主姑蘇大慈。	元祐初主姑蘇大慈。	In the first year of Yuansou, he became the abbot of Dacisi in Gusu.
+['ZH_T49_2035_014:0221a26_10']	講三大部十餘過。	講三大部十餘過。	He lectured on the three great treatises more than ten times.
+['ZH_T49_2035_014:0221a26_15']	餘文稱是。	餘文稱是。	The remaining texts are called correct.
+['ZH_T49_2035_014:0221a27_5']	受業門生殆遍吳地。	受業門生殆遍吳地。	His disciples who received the precepts almost covered the land of Wu.
+['ZH_T49_2035_014:0221a27_14']	信人稟戒幾滿城邑。	信人稟戒幾滿城邑。	The number of people who received the precepts from him almost filled the city and villages.
+['ZH_T49_2035_014:0221a28_8']	嘗率二十七人修法華三昧。	嘗率二十七人修法華三昧。	He once led twenty-seven people to practice the Lotus Samadhi.
+['ZH_T49_2035_014:0221a28_16']	以二十八日為期。	以二十八日為期。	Taking twenty-eight days as the period.
+['ZH_T49_2035_014:0221a29_3']	如此三會。	如此三會。	Like this for three assemblies.
+['ZH_T49_2035_014:0221a29_13']	感普賢大士授戒羯磨。	感普賢大士授戒羯磨。	He was inspired by the great bodhisattva Samantabhadra to receive the precepts and karma.
+['ZH_T49_2035_014:0221b01_2']	至稱淨梵比丘。	至稱淨梵比丘。	When he reached the pure and pure monk,
+['ZH_T49_2035_014:0221b01_12']	則洪音震響如撞巨鐘。	則洪音震響如撞巨鐘。	The loud sound reverberated like a giant bell.
+['ZH_T49_2035_014:0221b01_17']	三昧將圓。	三昧將圓。	When the samadhi was about to be completed,
+['ZH_T49_2035_014:0221b02_5']	有二僧作禮曰。	有二僧作禮曰。	Two monks bowed and said,
+['ZH_T49_2035_014:0221b02_14']	今春到石橋禮聖迹。	今春到石橋禮聖迹。	This spring, we went to Shiqiao to pay homage to the holy traces.
+['ZH_T49_2035_014:0221b03_7']	忽見空中散華異香非常。	忽見空中散華異香非常。	Suddenly, they saw flowers scattered in the air and extraordinary fragrances.
+['ZH_T49_2035_014:0221b03_12']	一僧遽曰。	一僧遽曰。	A monk suddenly said,
+['ZH_T49_2035_014:0221b03_18']	姑蘇梵法主。	姑蘇梵法主。	The Dharma Master of Gusu
+['ZH_T49_2035_014:0221b04_6']	期懺散華至此。	期懺散華至此。	The scattered flowers have reached here.
+['ZH_T49_2035_014:0221b04_11']	語畢不見。	語畢不見。	After speaking, they disappeared.
+['ZH_T49_2035_014:0221b04_16']	因來瞻禮。	因來瞻禮。	Therefore, they came to pay homage.
+['ZH_T49_2035_014:0221b05_4']	長洲令黃公彥。	長洲令黃公彥。	Huang Gongyan, the magistrate of Changzhou,
+['ZH_T49_2035_014:0221b05_10']	刻記於石云。	刻記於石云。	carved the record on a stone.
+['ZH_T49_2035_014:0221b05_17']	異哉師之道力。	異哉師之道力。	How strange is the master's power of the Way!
+['ZH_T49_2035_014:0221b06_6']	其與北京進法師。	其與北京進法師。	He and Master Jin of Beijing,
+['ZH_T49_2035_014:0221b06_12']	夢釋迦授戒。	夢釋迦授戒。	dreamed of receiving the precepts from Shakyamuni,
+['ZH_T49_2035_014:0221b07_5']	南嶽夢四十二人加羯磨法。	南嶽夢四十二人加羯磨法。	and Mount Nanyue dreamed of forty-two people bestowing the karma-dharma.
+['ZH_T49_2035_014:0221b07_10']	異世同效。	異世同效。	In different times, they acted the same.
+['ZH_T49_2035_014:0221b07_17']	師製期懺規式。	師製期懺規式。	The master composed the rules for the repentance ritual,
+['ZH_T49_2035_014:0221b08_5']	二浙至今行之。	二浙至今行之。	which is still practiced in the two Zhejiang provinces today.
+['ZH_T49_2035_014:0221b08_12']	嘗依讖譯光明。	嘗依讖譯光明。	He once relied on the translated Guangming (Sutra)
+['ZH_T49_2035_014:0221b08_17']	別製懺儀。	別製懺儀。	and separately composed a repentance ritual.
+['ZH_T49_2035_014:0221b09_3']	與眾同修。	與眾同修。	He practiced it together with the assembly.
+['ZH_T49_2035_014:0221b09_8']	感格屢見。	感格屢見。	The response was often seen.
+['ZH_T49_2035_014:0221b10_4']	禪觀之處眾見金甲神王跪於座前。	禪觀之處眾見金甲神王跪於座前。	In the place of Chan meditation, the assembly saw a golden-armored spirit king kneeling in front of the seat.
+['ZH_T49_2035_014:0221b10_11']	後於一處期懺。	後於一處期懺。	Later, in one place during the repentance period,
+['ZH_T49_2035_014:0221b11_1']	見韋天按行懺室。	見韋天按行懺室。	he saw the Heavenly King Wei inspecting the repentance room.
+['ZH_T49_2035_014:0221b11_10']	行人有遭其點察者。	行人有遭其點察者。	The practitioner who encountered his inspection
+['ZH_T49_2035_014:0221b11_16']	輒障起而退。	輒障起而退。	immediately gave rise to hindrances and withdrew.
+['ZH_T49_2035_014:0221b12_2']	夜居西院。	夜居西院。	He stayed in the western courtyard at night.
+['ZH_T49_2035_014:0221b12_11']	時暑酷熱眾不安臥。	時暑酷熱眾不安臥。	At that time, the heat was intense and the assembly was uncomfortable to sleep.
+['ZH_T49_2035_014:0221b13_3']	師方披三衣坐水閣上。	師方披三衣坐水閣上。	The master was sitting on the water pavilion, wearing the three robes.
+['ZH_T49_2035_014:0221b13_13']	忽風雪飛集涼氣逼人。	忽風雪飛集涼氣逼人。	Suddenly, wind and snow flew and gathered, and the cool air pressed on people.
+['ZH_T49_2035_014:0221b13_18']	旦謂眾曰。	旦謂眾曰。	In the morning, he told the assembly,
+['ZH_T49_2035_014:0221b14_8']	夏行冬令眾皆歎仰。	夏行冬令眾皆歎仰。	In summer, we practice the winter method. Everyone admired it.
+['ZH_T49_2035_014:0221b15_3']	知為神龍翊衛變熱為涼也。	知為神龍翊衛變熱為涼也。	They knew it was the divine dragon guarding and protecting, changing the heat to coolness.
+['ZH_T49_2035_014:0221b15_14']	元符中夢黃衣請至冥府。	元符中夢黃衣請至冥府。	During the Yuanfu period, he dreamed that a yellow-robed person invited him to the underworld.
+['ZH_T49_2035_014:0221b16_2']	王者迎就座。	王者迎就座。	The king welcomed him and sat him down.🔽He ordered the officials to check the record of auspicious clouds.
+['ZH_T49_2035_014:0221b16_10']	令吏檢祥靄簿云。	令吏檢祥靄簿云。	It said,
+['ZH_T49_2035_014:0221b16_15']	淨梵比丘。	淨梵比丘。	The monk Jingfan
+['ZH_T49_2035_014:0221b17_5']	屢經多劫長講法華。	屢經多劫長講法華。	has gone through many kalpas, long expounding the Lotus Sutra.
+['ZH_T49_2035_014:0221b17_15']	王即起頂禮遣使送還。	王即起頂禮遣使送還。	The king immediately got up, bowed his head, and sent him back.
+['ZH_T49_2035_014:0221b18_6']	政和中太守應公婢。	政和中太守應公婢。	During the Zhenghe period, the maid of the magistrate Ying
+['ZH_T49_2035_014:0221b18_15']	為崇所嬈歌笑不休。	為崇所嬈歌笑不休。	was disturbed by Chong, singing and laughing without stopping.
+['ZH_T49_2035_014:0221b19_6']	請師施戒即刻神定。	請師施戒即刻神定。	She invited the master to bestow precepts, and immediately became calm and composed.
+['ZH_T49_2035_014:0221b19_16']	葛氏請師為亡夫施戒。	葛氏請師為亡夫施戒。	The woman Ge invited the master to bestow precepts for her deceased husband.
+['ZH_T49_2035_014:0221b20_15']	即見夫恭敬於師遶座三匝稱已得解脫。	即見夫恭敬於師遶座三匝稱已得解脫。	She immediately saw her husband respectfully circumambulating the master three times, saying that he had attained liberation.
+['ZH_T49_2035_014:0221b21_2']	宣和初。	宣和初。	In the first year of Xuanhe,
+['ZH_T49_2035_014:0221b21_7']	郡守賈公。	郡守賈公。	the magistrate Jia
+['ZH_T49_2035_014:0221b21_12']	敬師高行。	敬師高行。	admired the master's lofty conduct.
+['ZH_T49_2035_014:0221b21_19']	補為管內法主。	補為管內法主。	Appointed as the Dharma Master of the prefecture.
+['ZH_T49_2035_014:0221b22_8']	建炎元年十月坐亡。	建炎元年十月坐亡。	In the tenth month of the first year of Jianyan, he passed away sitting.
+['ZH_T49_2035_014:0221b22_16']	闍維得舍利甚多。	闍維得舍利甚多。	After cremation, many relics were obtained.
+['ZH_T49_2035_014:0221b23_6']	藏塔於橫塘般若。	藏塔於橫塘般若。	They were enshrined in a pagoda at Banruo in Hengtang.
+['ZH_T49_2035_014:0221b24_6']	法師擇瑛嚴之。	法師擇瑛嚴之。	The Dharma Master Zhexing Yan.
+['ZH_T49_2035_014:0221b24_11']	桐江俞氏。	桐江俞氏。	The Yu family of Tongjiang.
+['ZH_T49_2035_014:0221b24_18']	母夢二日貫懷。	母夢二日貫懷。	The mother dreamed of two suns piercing her womb.
+['ZH_T49_2035_014:0221b25_6']	後二歲散二男。	後二歲散二男。	Later, two years passed and she gave birth to two sons.
+['ZH_T49_2035_014:0221b25_10']	俱出家。	俱出家。	They both left home.
+['ZH_T49_2035_014:0221b25_16']	皆試經得度。	皆試經得度。	They all took the sutra examination and received the precepts.
+['ZH_T49_2035_014:0221b26_2']	長名子欽。	長名子欽。	The elder one was named Zhichin.
+['ZH_T49_2035_014:0221b26_9']	受業錢唐淨住。	受業錢唐淨住。	He studied under Jingzhu in Qiantang.
+['ZH_T49_2035_014:0221b26_14']	次即師也。	次即師也。	The younger one is the master.
+['ZH_T49_2035_014:0221b27_3']	入道於杭之壽寧。	入道於杭之壽寧。	He entered the path at Shouneng in Hangzhou.
+['ZH_T49_2035_014:0221b27_15']	熙寧中參神悟於施水寶閣。	熙寧中參神悟於施水寶閣。	During the Xining period, he visited Shenwu at Baogao in Shi shui.
+['ZH_T49_2035_014:0221b28_3']	深悟止觀之道。	深悟止觀之道。	He deeply understood the way of calming and contemplation.
+['ZH_T49_2035_014:0221b28_10']	閱不二門金錍。	閱不二門金錍。	He read the Gate of Non-duality and the Golden Scalpel.
+['ZH_T49_2035_014:0221b28_16']	不寢者數月。	不寢者數月。	He did not sleep for several months.
+['ZH_T49_2035_014:0221b29_3']	以所得白師。	以所得白師。	He told the master what he had attained.
+['ZH_T49_2035_014:0221b29_7']	神悟曰。	神悟曰。	Shenwu said:
+['ZH_T49_2035_014:0221b29_16']	法華妙旨歸乎自心。	法華妙旨歸乎自心。	The wonderful meaning of the Lotus Sutra returns to one's own mind.
+['ZH_T49_2035_014:0221c01_6']	宜善護持勿自輕也。	宜善護持勿自輕也。	You should protect it well and not belittle yourself.
+['ZH_T49_2035_014:0221c01_11']	當湖魯氏。	當湖魯氏。	The Lu family of Dang Lake.
+['ZH_T49_2035_014:0221c02_1']	於德藏創一院。	於德藏創一院。	They founded a cloister at Dezang.
+['ZH_T49_2035_014:0221c02_9']	以迎師大開法施。	以迎師大開法施。	They invited the master to greatly open the Dharma offerings.
+['ZH_T49_2035_014:0221c03_1']	久之遨遊杭秀蘇湖間。	久之遨遊杭秀蘇湖間。	After a long time, he traveled around Hangzhou, Huzhou, and Suzhou.
+['ZH_T49_2035_014:0221c03_7']	元符二年春。	元符二年春。	In the second year of Yuanfu, in the spring,
+['ZH_T49_2035_014:0221c03_14']	於杭祥符示疾。	於杭祥符示疾。	he became ill at Xiangfu Temple in Hangzhou.
+['ZH_T49_2035_014:0221c04_1']	俄舊身凭几。	俄舊身凭几。	Suddenly, his old body leaned on a table,
+['ZH_T49_2035_014:0221c04_8']	西向諷彌陀經。	西向諷彌陀經。	facing west, chanting the Amitabha Sutra.
+['ZH_T49_2035_014:0221c04_13']	卷終而逝。	卷終而逝。	When the sutra was finished, he passed away.
+['ZH_T49_2035_014:0221c05_2']	嘗述淨土修證儀。	嘗述淨土修證儀。	He once wrote the Ritual for Cultivating and Realizing the Pure Land.
+['ZH_T49_2035_014:0221c05_15']	其讚有阿彌陀佛真金色之偈。	其讚有阿彌陀佛真金色之偈。	His praises include the verse The True Golden Color of Amitabha Buddha.
+['ZH_T49_2035_014:0221c06_3']	至今人皆誦之。	至今人皆誦之。	Even today, people all recite it.
+['ZH_T49_2035_014:0221c06_16', 'ZH_T49_2035_014:0221c07_12']	又辯西方此土二種觀門之相。🔽以勸專修淨業者文見淨土本傳。	又辯西方此土二種觀門之相。 以勸專修淨業者文見淨土本傳。	He also distinguished the two kinds of contemplation methods of the Western Pure Land and this land,
+['ZH_T49_2035_014:0221c08_4']	行人宗利。	行人宗利。	encouraging those who specialize in cultivating the Pure Land. The text can be found in the Original Biographies of the Pure Land.🔽Practitioner Zongli.
+['ZH_T49_2035_014:0221c08_9']	會稽高氏。	會稽高氏。	Gao family of Kuaiji.
+['ZH_T49_2035_014:0221c08_17']	七歲受業於天華。	七歲受業於天華。	At the age of seven, he studied under Tianhua.
+['ZH_T49_2035_014:0221c09_1']	既具戒。	既具戒。	After receiving full ordination,
+['ZH_T49_2035_014:0221c09_8']	往姑蘇依神悟。	往姑蘇依神悟。	he went to Suzhou to follow Shenwu.
+['ZH_T49_2035_014:0221c09_15']	即入普賢懺室。	即入普賢懺室。	He immediately entered the Samantabhadra Repentance Hall,
+['ZH_T49_2035_014:0221c10_2']	要期三載。	要期三載。	vowing to stay for three years.
+['ZH_T49_2035_014:0221c10_9']	忽夢亡母謝曰。	忽夢亡母謝曰。	He suddenly dreamed that his deceased mother thanked him, saying,
+['ZH_T49_2035_014:0221c10_18']	蒙汝懺功已獲生處。	蒙汝懺功已獲生處。	Thanks to your repentance merit, I have already attained rebirth.
+['ZH_T49_2035_014:0221c11_8']	又見普賢從空過前。	又見普賢從空過前。	He also saw Samantabhadra passing in front of him from the sky.
+['ZH_T49_2035_014:0221c12_3']	懺畢復往靈芝謁大智律師。	懺畢復往靈芝謁大智律師。	After completing the repentance, he went to Lingji to visit the Vinaya Master Dazhi.
+['ZH_T49_2035_014:0221c12_8']	增受戒法。	增受戒法。	The method of increasing precepts.
+['ZH_T49_2035_014:0221c12_18']	夢大智在座呼宗利名。	夢大智在座呼宗利名。	In a dream, a great wise one was sitting on a seat, calling out the name of Zongli.
+['ZH_T49_2035_014:0221c13_7']	口吐白珠令吞之。	口吐白珠令吞之。	He spat out a white pearl and told him to swallow it.
+['ZH_T49_2035_014:0221c14_10']	又於靜定中神遊淨土見寶池蓮華寶林境界。	又於靜定中神遊淨土見寶池蓮華寶林境界。	Also, in a state of tranquil concentration, he spiritually traveled to the Pure Land and saw the realm of jeweled ponds, lotus flowers, and jeweled forests.
+['ZH_T49_2035_014:0221c14_17']	尋詣新城碧沼。	尋詣新城碧沼。	He then went to the new city of Bi-zhao.
+['ZH_T49_2035_014:0221c15_6']	專修念佛三昧。	專修念佛三昧。	He single-mindedly practiced the samadhi of mindfulness of the Buddha.
+['ZH_T49_2035_014:0221c15_11', 'ZH_T49_2035_014:0221c16_2']	經歷十年。🔽復遊天台雁蕩天封。	經歷十年。 復遊天台雁蕩天封。	He spent ten years doing this.🔽He then traveled to Tiantai, Yandang, and Tianfeng.
+['ZH_T49_2035_014:0221c16_15']	皆建淨土道場晚歸受業天華。	皆建淨土道場晚歸受業天華。	He established Pure Land practice sites everywhere. In the end, he returned to his original temple, Tianhua.
+['ZH_T49_2035_014:0221c17_8']	建無量壽佛閣接待雲水。	建無量壽佛閣接待雲水。	He built a hall dedicated to Amitayus Buddha and provided lodging for wandering monks.
+['ZH_T49_2035_014:0221c17_15']	政和元年天旱。	政和元年天旱。	In the first year of the Zhenghe era, there was a drought.
+['ZH_T49_2035_014:0221c18_6']	詣日鑄山帝舜祠祈雨。	詣日鑄山帝舜祠祈雨。	He went to the shrine of Emperor Shun on Mount Riju to pray for rain.
+['ZH_T49_2035_014:0221c18_14']	感龍王現金色身。	感龍王現金色身。	He had a vision of the golden body of the Dragon King.
+['ZH_T49_2035_014:0221c19_1']	甘雨沾足。	甘雨沾足。	A sweet rain fell everywhere.
+['ZH_T49_2035_014:0221c19_9']	建炎末入道味山。	建炎末入道味山。	In the end of the Jianyan era, he entered Mount Daowei.
+['ZH_T49_2035_014:0221c19_17']	題所居曰一相菴。	題所居曰一相菴。	He named the place where he lived the Hall of One Characteristic.
+['ZH_T49_2035_014:0221c20_8']	會稽道俗請師主繫念。	會稽道俗請師主繫念。	The monks and laypeople of Kuaiji invited the master to lead a recitation practice.
+['ZH_T49_2035_014:0221c20_13']	至第三夜。	至第三夜。	On the third night,
+['ZH_T49_2035_014:0221c21_7']	繪像頂珠忽放光明大如箕。	繪像頂珠忽放光明大如箕。	the pearl on the top of the painted image suddenly emitted light as bright as a broom.
+['ZH_T49_2035_014:0221c21_14']	預會者益堅固。	預會者益堅固。	Those who were present became even more determined.
+['ZH_T49_2035_014:0221c22_5']	紹興十四年正月晦。	紹興十四年正月晦。	On the last day of the first month in the fourteenth year of Shaoxing,
+['ZH_T49_2035_014:0221c22_10']	告弟子曰。	告弟子曰。	he told his disciples:
+['ZH_T49_2035_014:0221c22_14']	佛來也。	佛來也。	The Buddha is coming.
+['ZH_T49_2035_014:0221c23_2']	吾將歸安養矣。	吾將歸安養矣。	I will return to the Pure Land.
+['ZH_T49_2035_014:0221c23_8']	書頌為別曰。	書頌為別曰。	He wrote a verse to say goodbye:
+['ZH_T49_2035_014:0221c23_16']	吾年九十頭已白。	吾年九十頭已白。	I am ninety years old, my head is already white.
+['ZH_T49_2035_014:0221c24_5']	世上應無百年客。	世上應無百年客。	In this world, a guest has no hundred years.
+['ZH_T49_2035_014:0221c24_13']	一相道人歸去來。	一相道人歸去來。	The monk of the one characteristic returns.
+['ZH_T49_2035_014:0221c25_2']	金臺坐斷乾坤窄。	金臺坐斷乾坤窄。	The golden platform cuts off the narrow universe.
+['ZH_T49_2035_014:0221c25_7']	端坐即逝。	端坐即逝。	He sat upright and passed away.
+['ZH_T49_2035_014:0221c26_1']	是日近山人見異僧滿山谷。	是日近山人見異僧滿山谷。	On that day, people near the mountain saw strange monks filling the mountain valleys.
+['ZH_T49_2035_014:0221c26_7']	莫知所從來。	莫知所從來。	No one knew where they came from.
+['ZH_T49_2035_014:0221c26_16']	瘞全身於菴居之後。	瘞全身於菴居之後。	He was buried in the back of the hermitage.
+['ZH_T49_2035_014:0221c27_4']	法師思照。	法師思照。	The Dharma Master Si Zhao.
+['ZH_T49_2035_014:0221c27_9']	錢唐陽氏。	錢唐陽氏。	The Yang family of Qiantang.
+['ZH_T49_2035_014:0221c27_18']	十四歲從淨住從雅。	十四歲從淨住從雅。	At the age of fourteen, he followed Jingzhu Congya.
+['ZH_T49_2035_014:0221c28_8']	聽法華方等於南屏。	聽法華方等於南屏。	He listened to the Lotus Sutra and Vaipulya at Nanshan.
+['ZH_T49_2035_014:0221c28_16']	復往東掖參神悟。	復往東掖參神悟。	He then went to Dongye to visit Shenwu.
+['ZH_T49_2035_014:0221c29_3']	大有契入。	大有契入。	He had great understanding.
+['ZH_T49_2035_014:0221c29_13']	既而刺血書法華七軸。	既而刺血書法華七軸。	He then wrote the seven scrolls of the Lotus Sutra with his blood.
+['ZH_T49_2035_014:0222a01_2']	專修念佛三昧。	專修念佛三昧。	He specialized in cultivating the mindfulness of the Buddha samādhi.
+['ZH_T49_2035_014:0222a01_9']	築小菴曰德雲。	築小菴曰德雲。	He built a small hermitage called Deyun.
+['ZH_T49_2035_014:0222a01_14']	後連小門。	後連小門。	Later, he connected the small gate.
+['ZH_T49_2035_014:0222a02_3']	為觀落日之所。	為觀落日之所。	It was a place to watch the setting sun.
+['ZH_T49_2035_014:0222a02_8']	刻三聖像。	刻三聖像。	Carved three holy images.
+['ZH_T49_2035_014:0222a02_17']	每夜過午即起念佛。	每夜過午即起念佛。	Every night after noon, he would rise and chant the Buddha's name.
+['ZH_T49_2035_014:0222a03_4']	月二十三日。	月二十三日。	On the twenty-third day of the month.
+['ZH_T49_2035_014:0222a03_13']	率道俗繫念終其身。	率道俗繫念終其身。	Leading the clergy and laity to focus their thoughts until the end of his life.
+['ZH_T49_2035_014:0222a03_17']	三十年。	三十年。	For thirty years.
+['ZH_T49_2035_014:0222a04_5']	一旦語其徒曰。	一旦語其徒曰。	One day he said to his disciples:
+['ZH_T49_2035_014:0222a04_13']	夜夢佛金身丈六。	夜夢佛金身丈六。	Last night I dreamed of the Buddha's golden body, sixteen feet tall.
+['ZH_T49_2035_014:0222a05_1']	此往生之兆也。	此往生之兆也。	This is a sign of rebirth in the Pure Land.
+['ZH_T49_2035_014:0222a05_10']	請僧七日以助念佛。	請僧七日以助念佛。	He invited monks to chant the Buddha's name for seven days to assist him.
+['ZH_T49_2035_014:0222a06_1']	屈指作印奄從坐化。	屈指作印奄從坐化。	He passed away peacefully while sitting in meditation.
+['ZH_T49_2035_014:0222a06_9']	時宣和元年春也。	時宣和元年春也。	This was in the spring of the first year of Xuanhe.
+['ZH_T49_2035_014:0222a06_14']	闍維之際。	闍維之際。	At the time of cremation.
+['ZH_T49_2035_014:0222a06_19']	頂骨牙齒。	頂骨牙齒。	The skull and teeth.
+['ZH_T49_2035_014:0222a07_5']	皆瑩明如玉石。	皆瑩明如玉石。	All were as clear and bright as jade.
+['ZH_T49_2035_014:0222a07_16']	師於淨土七經一字一禮。	師於淨土七經一字一禮。	The master paid homage to each character of the seven sutras on the Pure Land.
+['ZH_T49_2035_014:0222a08_1']	華嚴。	華嚴。	Flower Ornament Sutra.
+['ZH_T49_2035_014:0222a08_5']	首楞嚴。	首楞嚴。	Shurangama Sutra.
+['ZH_T49_2035_014:0222a08_9']	金光明。	金光明。	Golden Light Sutra.
+['ZH_T49_2035_014:0222a08_13']	無量壽。	無量壽。	Sutra of Immeasurable Life.
+['ZH_T49_2035_014:0222a08_18']	普賢行法。	普賢行法。	Practice and Vows of Samantabhadra.
+['ZH_T49_2035_014:0222a08_21']	遺教。	遺教。	Sutra of the Last Teachings.
+['ZH_T49_2035_014:0222a09_2']	梵網。	梵網。	Brahma's Net Sutra.
+['ZH_T49_2035_014:0222a09_6']	無量義。	無量義。	Infinite Meaning Sutra.
+['ZH_T49_2035_014:0222a09_10']	略教誠。	略教誠。	Abridged Teachings.
+['ZH_T49_2035_014:0222a09_15']	四分戒本。	四分戒本。	Four Part Vinaya.
+['ZH_T49_2035_014:0222a09_18']	皆然。	皆然。	All the same.
+['ZH_T49_2035_014:0222a10_3']	唯法華十過。	唯法華十過。	Only the Lotus Sutra was recited ten times.
+['ZH_T49_2035_014:0222a10_11']	總得二百七十卷。	總得二百七十卷。	A total of two hundred and seventy scrolls.
+['ZH_T49_2035_014:0222a10_17']	誦法華千部。	誦法華千部。	Recited the Lotus Sutra one thousand times.
+['ZH_T49_2035_014:0222a11_5']	無量壽佛經五藏。	無量壽佛經五藏。	The Sutra of Immeasurable Life has five sections.
+['ZH_T49_2035_014:0222a11_13']	阿彌陀經十藏云。	阿彌陀經十藏云。	The Sutra of Amitābha has ten sections.
+['ZH_T49_2035_014:0222a13_4']	慈辯諫法師法嗣慈辯諫法師法嗣法師擇卿。	慈辯諫法師法嗣慈辯諫法師法嗣法師擇卿。	Disciple of Dharma Master Ci Bian Jian, Dharma Master Zhe Qing.
+['ZH_T49_2035_014:0222a13_8']	天台人。	天台人。	A person from Tiantai.
+['ZH_T49_2035_014:0222a13_17']	天資聰敏博學強記。	天資聰敏博學強記。	Naturally intelligent, quick-witted, knowledgeable, and able to memorize a lot.
+['ZH_T49_2035_014:0222a14_5']	受教於上竺慈辯。	受教於上竺慈辯。	Received teachings from Ci Bian of Shang Zhu.
+['ZH_T49_2035_014:0222a14_8']	嘗曰。	嘗曰。	Once said:
+['ZH_T49_2035_014:0222a14_17']	四明旨意吾已得之。	四明旨意吾已得之。	I have already attained the meaning of Si Ming.
+['ZH_T49_2035_014:0222a15_6']	唯起教觀信之未及。	唯起教觀信之未及。	I only have not yet reached the faith in initiating contemplation.
+['ZH_T49_2035_014:0222a15_13']	然不敢不信也。	然不敢不信也。	However, I dare not not believe it.
+['ZH_T49_2035_014:0222a16_9']	初主車溪壽聖車溪屬三州四縣。	初主車溪壽聖車溪屬三州四縣。	First served as the abbot of Shou Sheng at Che Xi. Che Xi belongs to three prefectures and four counties.
+['ZH_T49_2035_014:0222a16_17']	東為秀州崇德縣。	東為秀州崇德縣。	In the east, it is Chong De County of Xiu Zhou.
+['ZH_T49_2035_014:0222a16_23']	唐時名青鎮。	唐時名青鎮。	In the Tang Dynasty, it was called Qing Zhen.
+['ZH_T49_2035_014:0222a16_26']	古塔。	古塔。	Ancient pagoda.
+['ZH_T49_2035_014:0222a16_31']	元祐二年。	元祐二年。	In the second year of Yuan You.
+['ZH_T49_2035_014:0222a16_37']	初建壽聖院。	初建壽聖院。	First built Shou Sheng Temple.
+['ZH_T49_2035_014:0222a16_42']	請師開山。	請師開山。	Invited the master to open the mountain.
+['ZH_T49_2035_014:0222a17_9']	高宗朝改廣福未嘗屈節豪貴。	高宗朝改廣福未嘗屈節豪貴。	During the Gao Zong era, it was changed to Guang Fu. He never bowed to the powerful and wealthy.
+['ZH_T49_2035_014:0222a17_18']	聚徒三百施者自至。	聚徒三百施者自至。	Gathering three hundred disciples, donors came on their own.
+['ZH_T49_2035_014:0222a18_4']	年三十後。	年三十後。	After the age of thirty.
+['ZH_T49_2035_014:0222a18_10']	即廢卷禪坐。	即廢卷禪坐。	Immediately stopped reading and sat in meditation.
+['ZH_T49_2035_014:0222a18_15']	晚居車溪。	晚居車溪。	Later lived at Che Xi.
+['ZH_T49_2035_014:0222a19_1']	每遇講演。	每遇講演。	Whenever there was a lecture.
+['ZH_T49_2035_014:0222a19_10']	但令侍者日供講帙。	但令侍者日供講帙。	He only required the attendant to provide lecture notes every day.
+['ZH_T49_2035_014:0222a20_1']	辯說如流聽者說服。	辯說如流聽者說服。	His eloquent explanations flowed like a stream, and the listeners were convinced by his words.
+['ZH_T49_2035_014:0222a21_3']	慧解曇應領徒三十人至車溪值說無量義經。	慧解曇應領徒三十人至車溪值說無量義經。	Hui Xie, Tan Ying, and their disciples of thirty people arrived at Chuxikou and happened to hear the lecture on the Immeasurable Meaning Sutra.
+['ZH_T49_2035_014:0222a21_8', 'ZH_T49_2035_014:0222a21_13']	聞舉難云。🔽妙樂有云。	聞舉難云。 妙樂有云。	They heard the difficulty raised.🔽Miaole said:
+['ZH_T49_2035_014:0222a22_2']	能生一實法華異名。	能生一實法華異名。	It is said that the ability to give birth to the one true Dharma Flower Sutra is a different name.
+['ZH_T49_2035_014:0222a22_11']	所生無量為法華序。	所生無量為法華序。	The immeasurable that is given birth to is the preface to the Dharma Flower Sutra.
+['ZH_T49_2035_014:0222a23_9']	不知能生一實是隔偏之圓即偏之圓。	不知能生一實是隔偏之圓即偏之圓。	I do not know that the ability to give birth to the one true is the perfect within the biased, the perfect within the biased.
+['ZH_T49_2035_014:0222a24_5']	所生無量是同體之權異體之權。	所生無量是同體之權異體之權。	The immeasurable that is given birth to is the provisional of the same essence, the provisional of the different essence.
+['ZH_T49_2035_014:0222a24_11']	應語同行曰。	應語同行曰。	He should tell his fellow practitioners:
+['ZH_T49_2035_014:0222a24_18']	此師言有典刑。	此師言有典刑。	This teacher's words have a canonical basis.
+['ZH_T49_2035_014:0222a25_4']	足堪問道。	足堪問道。	He is worthy of asking about the Way.
+['ZH_T49_2035_014:0222a25_9']	即求依止。	即求依止。	He then sought to rely on him.
+['ZH_T49_2035_014:0222a25_15']	有不循規者。	有不循規者。	There were some who did not follow the rules.
+['ZH_T49_2035_014:0222a26_1']	悅眾以聞。	悅眾以聞。	The head of the assembly reported it.
+['ZH_T49_2035_014:0222a26_12']	詢其名則指言朋觀二師。	詢其名則指言朋觀二師。	When asked their names, he pointed to the two teachers Peng and Guan.
+['ZH_T49_2035_014:0222a26_15']	師曰。	師曰。	The teacher said:
+['ZH_T49_2035_014:0222a27_8']	此二人教門大才也弗之問。	此二人教門大才也弗之問。	These two people are great talents in the teaching. I will not ask about them.
+['ZH_T49_2035_014:0222a27_14']	嘗夜坐方丈。	嘗夜坐方丈。	Once, sitting in the abbot's room at night,
+['ZH_T49_2035_014:0222a28_8']	聞廊廡有天樂聲遣人迹之。	聞廊廡有天樂聲遣人迹之。	he heard the sound of heavenly music in the corridors. He sent someone to investigate it.
+['ZH_T49_2035_014:0222a28_14']	聲出朋師房。	聲出朋師房。	The sound came from Teacher Peng's room.
+['ZH_T49_2035_014:0222a29_3']	師附壁隙窺之。	師附壁隙窺之。	The master peeked through a crack in the wall.
+['ZH_T49_2035_014:0222a29_13']	見朋觀數輩於燈前戲。	見朋觀數輩於燈前戲。	He saw his friends playing in front of the lamp.
+['ZH_T49_2035_014:0222b01_3']	舉手作無聲樂。	舉手作無聲樂。	Raising their hands, they made music without sound.
+['ZH_T49_2035_014:0222b01_8']	師益異之。	師益異之。	The master found it even more extraordinary.
+['ZH_T49_2035_014:0222b01_13']	平時喜茶。	平時喜茶。	In his usual days, he liked tea.
+['ZH_T49_2035_014:0222b02_3']	臨終之頃謂門人曰。	臨終之頃謂門人曰。	At the end of his life, he said to his disciples,
+['ZH_T49_2035_014:0222b02_10']	晨鐘鳴即來報。	晨鐘鳴即來報。	When the morning bell rings, come and report.
+['ZH_T49_2035_014:0222b02_17']	至時啜茶一甌。	至時啜茶一甌。	At the appointed time, he drank a bowl of tea.
+['ZH_T49_2035_014:0222b03_3']	書偈而化。	書偈而化。	He wrote a verse and passed away.
+['ZH_T49_2035_014:0222b03_12']	時大觀二年仲冬也。	時大觀二年仲冬也。	This was in the middle winter of the second year of the Daguang period.
+['ZH_T49_2035_014:0222b04_1']	塔於院南芙蓉蒲。	塔於院南芙蓉蒲。	He was buried in a stupa south of the temple, in the Fufeng area.
+['ZH_T49_2035_014:0222b05_15']	法師齊玉以避時諱暫改齊璧霅川人。	法師齊玉以避時諱暫改齊璧霅川人。	The Dharma Master Qiyu temporarily changed his name to Qi Bi to avoid the taboo of the time. He was a man from Shanyin.
+['ZH_T49_2035_014:0222b05_23']	尚書莫公支子也。	尚書莫公支子也。	He was the son of Mo Gongzhi of the Ministry of Personnel.
+['ZH_T49_2035_014:0222b06_4']	法號慧覺。	法號慧覺。	His Dharma name was Huijue.
+['ZH_T49_2035_014:0222b06_9']	早親釋學。	早親釋學。	He became acquainted with Buddhist studies at an early age.
+['ZH_T49_2035_014:0222b06_15']	日記數千言。	日記數千言。	He could write several thousand characters a day.
+['ZH_T49_2035_014:0222b07_3']	始參祥符神智。	始參祥符神智。	He first studied with Shenzhi of Xiangfu.
+['ZH_T49_2035_014:0222b07_8']	後依慧辯。	後依慧辯。	Later, he followed Huibian.
+['ZH_T49_2035_014:0222b07_17']	一日赴僧次遜辭之。	一日赴僧次遜辭之。	One day, he declined to attend a monk's turn.
+['ZH_T49_2035_014:0222b08_3']	或問其故。	或問其故。	Someone asked him the reason.
+['ZH_T49_2035_014:0222b09_2']	答曰誠不欲五千之利而喪一日之功。	答曰誠不欲五千之利而喪一日之功。	He replied, I truly do not want to lose a day's work for the sake of five thousand in profit.
+['ZH_T49_2035_014:0222b09_12']	慈辯得通相三觀之旨。	慈辯得通相三觀之旨。	Ci Bian obtained the meaning of the three contemplations of universal characteristics.
+['ZH_T49_2035_014:0222b09_17']	祕不肯說。	祕不肯說。	He secretly refused to speak.
+['ZH_T49_2035_014:0222b10_4']	而屢扣不已。	而屢扣不已。	But he knocked repeatedly without stopping.
+['ZH_T49_2035_014:0222b10_13']	乃於密室跪鑪以授。	乃於密室跪鑪以授。	Then he knelt by the incense burner in a secret room and received it.
+['ZH_T49_2035_014:0222b11_3']	初出居苕溪寶藏。	初出居苕溪寶藏。	At first he lived in Baocang in Tiecui.
+['ZH_T49_2035_014:0222b11_14']	每於歲終大興淨業之社。	每於歲終大興淨業之社。	Every year at the end of the year, he held a large Pure Land society.
+['ZH_T49_2035_014:0222b12_4']	遷橫山立丈六像。	遷橫山立丈六像。	He moved to Hengshan and established a sixteen-foot-tall image.
+['ZH_T49_2035_014:0222b12_10']	率道俗修行。	率道俗修行。	He led monastics and laypeople in practice.
+['ZH_T49_2035_014:0222b12_16']	中夜告眾曰。	中夜告眾曰。	In the middle of the night, he told the assembly:
+['ZH_T49_2035_014:0222b13_5']	我輩未念佛時。	我輩未念佛時。	When we have not yet contemplated the Buddha,
+['ZH_T49_2035_014:0222b13_14']	心隨塵境作諸不善。	心隨塵境作諸不善。	our minds follow worldly objects and create all kinds of unwholesome actions.
+['ZH_T49_2035_014:0222b14_11']	犯一吉羅尚受九百千歲地獄之苦。	犯一吉羅尚受九百千歲地獄之苦。	Violating a minor precept still results in suffering in the hells for nine hundred thousand years.
+['ZH_T49_2035_014:0222b16_5']	況犯篇聚重罪乎五篇七聚今若念佛則可一念能滅八十億劫生死之罪。	況犯篇聚重罪乎五篇七聚今若念佛則可一念能滅八十億劫生死之罪。	How much more so for violating the major precepts? Now if we contemplate the Buddha, a single thought can extinguish the karmic offenses of birth and death accumulated over eighty koṭīs of kalpas.
+['ZH_T49_2035_014:0222b16_16']	況又父母生我令我出家。	況又父母生我令我出家。	Moreover, our parents gave birth to us and allowed us to leave the household life.
+['ZH_T49_2035_014:0222b17_7']	理當度脫以報重恩。	理當度脫以報重恩。	It is only right to liberate ourselves and repay their great kindness.
+['ZH_T49_2035_014:0222b17_14']	今若破戒墜陷。	今若破戒墜陷。	If we now violate the precepts and fall into [the hells],
+['ZH_T49_2035_014:0222b18_4']	則父母豈不失望。	則父母豈不失望。	will our parents not be disappointed?
+['ZH_T49_2035_014:0222b19_14']	大眾聞之無不傾誠懺悔舉身自撲至損額失聲者此雖勸修尊行。	大眾聞之無不傾誠懺悔舉身自撲至損額失聲者此雖勸修尊行。	When the great assembly heard this, there was none who did not pour out their sincerity, repent, and beat their bodies until they injured their foreheads and lost their voices. Although this encourages the practice of venerating the practice,
+['ZH_T49_2035_014:0222b20_3']	正用扶律談常為被末代之意宣和六年。	正用扶律談常為被末代之意宣和六年。	The purpose of upholding the precepts and expounding the eternal is to cover the end of the Dharma era. In the sixth year of Xuanhe,
+['ZH_T49_2035_014:0222b20_8']	遷居上竺。	遷居上竺。	he moved to Shangzhu.
+['ZH_T49_2035_014:0222b20_15']	先是慈辯之去。	先是慈辯之去。	Before this, after Cidian left,
+['ZH_T49_2035_014:0222b21_3']	繼之者或不振。	繼之者或不振。	those who succeeded him were not vigorous.
+['ZH_T49_2035_014:0222b21_8']	學徒謀曰。	學徒謀曰。	The students discussed and said,
+['ZH_T49_2035_014:0222b21_14']	得玉公乃興。	得玉公乃興。	Only if we get Master Yu can we prosper.
+['ZH_T49_2035_014:0222b22_8']	郡守翁彥國聞之乃具禮以迎。	郡守翁彥國聞之乃具禮以迎。	The prefectural governor, Wen Yanguo, heard of this and prepared offerings to welcome him.
+['ZH_T49_2035_014:0222b22_17']	講道敷化不異慈辯。	講道敷化不異慈辯。	His teaching and transformation were no different from Cidian's.
+['ZH_T49_2035_014:0222b23_7']	嘗中夜頂像行道。	嘗中夜頂像行道。	Once, in the middle of the night, he circumambulated the Buddha image while chanting.
+['ZH_T49_2035_014:0222b23_15']	一僧失規責之曰。	一僧失規責之曰。	A monk violated the rules and was scolded, saying,
+['ZH_T49_2035_014:0222b24_5']	汝無知乃畜生耳。	汝無知乃畜生耳。	You are ignorant, you are an animal.
+['ZH_T49_2035_014:0222b24_10']	已而悔曰。	已而悔曰。	Soon after, he regretted and said,
+['ZH_T49_2035_014:0222b24_15']	彼雖不肖。	彼雖不肖。	Although he is not virtuous,
+['ZH_T49_2035_014:0222b25_5']	罵為畜生有瑫三寶。	罵為畜生有瑫三寶。	to scold him as an animal is to insult the Three Jewels.
+['ZH_T49_2035_014:0222b25_14']	自是三年對佛悔過。	自是三年對佛悔過。	From then on, for three years, he repented before the Buddha.
+['ZH_T49_2035_014:0222b26_3']	歲大旱井竭。	歲大旱井竭。	In a year of severe drought, the well ran dry.
+['ZH_T49_2035_014:0222b26_9']	師運心密禱。	師運心密禱。	The master secretly prayed with all his heart.
+['ZH_T49_2035_014:0222b26_15']	夢水出西坡。	夢水出西坡。	He dreamed of water coming out from the west slope.
+['ZH_T49_2035_014:0222b27_5']	旦掘之清流涌出。	旦掘之清流涌出。	In the morning, he dug it and clear springs gushed out.
+['ZH_T49_2035_014:0222b27_10']	因名夢泉。	因名夢泉。	He named it Dream Spring.
+['ZH_T49_2035_014:0222b27_16']	建炎元年秋。	建炎元年秋。	In the autumn of the first year of Jianyan,
+['ZH_T49_2035_014:0222b28_4']	謂首座修慧曰。	謂首座修慧曰。	he told the chief seat Xiu Hui,
+['ZH_T49_2035_014:0222b28_12']	吾床前多寶塔現。	吾床前多寶塔現。	The multi-treasure pagoda appears in front of my bed.
+['ZH_T49_2035_014:0222b28_15']	慧曰。	慧曰。	Hui said,
+['ZH_T49_2035_014:0222b29_7']	和上流通法華之瑞證也。	和上流通法華之瑞證也。	It is the auspicious sign of the preceptor's circulation of the Lotus Sutra.
+['ZH_T49_2035_014:0222b29_10']	師曰。	師曰。	The master said:
+['ZH_T49_2035_014:0222c01_1']	所願見阿彌陀佛耳。	所願見阿彌陀佛耳。	I only wish to see Amitabha Buddha.
+['ZH_T49_2035_014:0222c01_7']	即集眾念佛。	即集眾念佛。	He then gathered the assembly to chant the Buddha's name.
+['ZH_T49_2035_014:0222c01_15']	頃之舉首加敬曰。	頃之舉首加敬曰。	After a while, he raised his head and said with respect:
+['ZH_T49_2035_014:0222c02_2']	佛已來接也。	佛已來接也。	The Buddha has already come to receive me.
+['ZH_T49_2035_014:0222c02_9']	端坐合掌而化。	端坐合掌而化。	He sat upright with palms joined and passed away.
+['ZH_T49_2035_014:0222c02_18']	葬於山西草堂之側。	葬於山西草堂之側。	He was buried to the west of Mount Cao Tang.
+['ZH_T49_2035_014:0222c03_3']	諡妙辯。	諡妙辯。	He was given the posthumous title Miaobian.
+['ZH_T49_2035_014:0222c03_8']	塔曰慧寂。	塔曰慧寂。	The stupa was called Huiji.
+['ZH_T49_2035_014:0222c03_14']	門弟傳教者。	門弟傳教者。	His disciples who transmitted the teachings were:
+['ZH_T49_2035_014:0222c03_19']	密印大師。	密印大師。	Dashi of the Great Seal,
+['ZH_T49_2035_014:0222c04_6']	修慧等二十人。	修慧等二十人。	Xiu Hui, and twenty others.
+['ZH_T49_2035_014:0222c04_15']	所著普賢行法經疏。	所著普賢行法經疏。	He wrote commentaries on the Sutra of the Practice of Samantabhadra,
+['ZH_T49_2035_014:0222c05_1']	及自釋疏。	及自釋疏。	and explained the commentaries himself.
+['ZH_T49_2035_014:0222c05_5']	祖源記。	祖源記。	The Record of the Ancestral Source,
+['ZH_T49_2035_014:0222c05_11']	無量義經疏。	無量義經疏。	the Commentary on the Sutra of Immeasurable Meaning,
+['ZH_T49_2035_014:0222c06_4', 'ZH_T49_2035_014:0222c06_9']	雜珠記釋孤山所造疏安般守意法門。🔽尊勝懺法。	雜珠記釋孤山所造疏安般守意法門。 尊勝懺法。	and the Miscellaneous Pearl Record explained the commentaries created by Gu Shan. The Dharma Gate of Mindfulness of Respiration,🔽the Superior Contemplation Dharma,
+['ZH_T49_2035_014:0222c07_4']	法師蘊慈。	法師蘊慈。	the Dharma Master Yun Ci,
+['ZH_T49_2035_014:0222c07_10']	四明慈溪人。	四明慈溪人。	a person from Cixi in Siming,
+['ZH_T49_2035_014:0222c07_15']	賜號圓覺。	賜號圓覺。	was given the title Yuanjiao.
+['ZH_T49_2035_014:0222c08_3']	初依壽安弼師。	初依壽安弼師。	He first relied on Master Shou An Bi.
+['ZH_T49_2035_014:0222c08_10']	既而復謁慈辯。	既而復謁慈辯。	Later, he visited Ci Bian.
+['ZH_T49_2035_014:0222c08_15']	其學大成。	其學大成。	His studies were greatly accomplished.
+['ZH_T49_2035_014:0222c09_2']	時門下十高弟。	時門下十高弟。	At that time, there were ten outstanding disciples in the school.
+['ZH_T49_2035_014:0222c09_9']	師為說法第一。	師為說法第一。	The master was foremost in expounding the Dharma.
+['ZH_T49_2035_014:0222c09_16']	初居西湖菩提。	初居西湖菩提。	He first resided at Bodhi in West Lake.
+['ZH_T49_2035_014:0222c10_3']	遷會稽圓通。	遷會稽圓通。	He moved to Yuan Tong in Kuai Ji.
+['ZH_T49_2035_014:0222c10_7', 'ZH_T49_2035_014:0222c10_12']	崇寧初。🔽能仁虛席。	崇寧初。 能仁虛席。	In the beginning of Chong Ning.🔽Neng Ren was vacant.
+['ZH_T49_2035_014:0222c10_17']	以師為請。	以師為請。	He was invited to be the abbot.
+['ZH_T49_2035_014:0222c11_5']	有文首座能行人。	有文首座能行人。	There were Wen the head monk and Neng the practitioner.
+['ZH_T49_2035_014:0222c11_14']	各然二指禱佛冥被。	各然二指禱佛冥被。	Each burned two fingers and prayed to the Buddha.
+['ZH_T49_2035_014:0222c11_18']	師既至。	師既至。	After the master arrived.
+['ZH_T49_2035_014:0222c12_4']	一眾說服。	一眾說服。	The entire assembly was convinced.
+['ZH_T49_2035_014:0222c12_9']	智因暑熱。	智因暑熱。	Zhi was hot in the summer.
+['ZH_T49_2035_014:0222c12_16']	講散偃息臥榻。	講散偃息臥榻。	He stopped lecturing and rested lying down.
+['ZH_T49_2035_014:0222c13_4']	適首座至白曰。	適首座至白曰。	When the head monk arrived, he said.
+['ZH_T49_2035_014:0222c13_9']	此山師席。	此山師席。	This is the master's seat on the mountain.
+['ZH_T49_2035_014:0222c14_4']	講退之頃不入懺室則居禪堂。	講退之頃不入懺室則居禪堂。	After lecturing, if he did not enter the repentance hall, he would stay in the Chan hall.
+['ZH_T49_2035_014:0222c14_12']	未有高枕自安者。	未有高枕自安者。	There was no one who could lie down and relax.
+['ZH_T49_2035_014:0222c14_17']	師媿謝曰。	師媿謝曰。	The master was ashamed and thanked him, saying.
+['ZH_T49_2035_014:0222c15_3']	敢不承教。	敢不承教。	How dare I not follow your teaching.
+['ZH_T49_2035_014:0222c15_14']	自此祈寒盛暑不敢少懈。	自此祈寒盛暑不敢少懈。	From then on, he dared not be the least bit lax in the cold of winter or the heat of summer.
+['ZH_T49_2035_014:0222c16_6']	每當如廁則沐浴更衣。	每當如廁則沐浴更衣。	Whenever he went to the toilet, he would bathe and change his clothes.
+['ZH_T49_2035_014:0222c17_1']	雖行道遇雪必手掬以為淨。	雖行道遇雪必手掬以為淨。	Even when practicing, if it snowed, he would scoop it with his hands to make it clean.
+['ZH_T49_2035_014:0222c17_10']	著十類說權實指迷。	著十類說權實指迷。	He wrote the Ten Categories of Explanations of the Provisional and Real to point out confusion.
+['ZH_T49_2035_014:0222c17_15']	世行其文。	世行其文。	His writings are circulated in the world.
+['ZH_T49_2035_014:0222c18_4']	法師如靖。	法師如靖。	The Dharma Master Ru Jing.
+['ZH_T49_2035_014:0222c18_9']	賜號普明。	賜號普明。	Was given the title Puming.
+['ZH_T49_2035_014:0222c18_15']	早入慈辯室。	早入慈辯室。	He entered the room of Ci Bian early.
+['ZH_T49_2035_014:0222c19_7']	杭人有以私憾害其兄者。	杭人有以私憾害其兄者。	There was a person from Hangzhou who harmed his brother out of personal resentment.
+['ZH_T49_2035_014:0222c20_3']	後深知悔以聞一律師答之曰。	後深知悔以聞一律師答之曰。	Later, he deeply knew remorse and told a Vinaya master about it. The Vinaya master replied:
+['ZH_T49_2035_014:0222c20_12']	殺人償命何足為問。	殺人償命何足為問。	Taking a life to repay a life is nothing to ask about.
+['ZH_T49_2035_014:0222c21_3']	其人即投西湖而死。	其人即投西湖而死。	The man then threw himself into West Lake and died.
+['ZH_T49_2035_014:0222c21_12']	欲償兄命免為後怨。	欲償兄命免為後怨。	He wanted to repay his brother's life and avoid becoming an enemy in the future.
+['ZH_T49_2035_014:0222c22_4']	既不見鬼反悔投水。	既不見鬼反悔投水。	Since he did not see the ghost, he repented and threw himself into the water.
+['ZH_T49_2035_014:0222c22_13']	因眾人入雷峯受戒。	因眾人入雷峯受戒。	Because many people entered Leifeng Temple to receive precepts,
+['ZH_T49_2035_014:0222c22_18']	鬼隨以入。	鬼隨以入。	the ghost also followed in.
+['ZH_T49_2035_014:0222c23_10']	聞戒師說人造罪許懺悔。	聞戒師說人造罪許懺悔。	He heard the precept master say that people who commit offenses can repent.
+['ZH_T49_2035_014:0222c23_17']	其鬼乃怒律師。	其鬼乃怒律師。	The ghost then became angry with the Vinaya master.
+['ZH_T49_2035_014:0222c24_8']	蚤知可悔必不投水。	蚤知可悔必不投水。	If I had known it could be repented, I would not have thrown myself into the water!
+['ZH_T49_2035_014:0222c24_16']	日夜隨律師索命。	日夜隨律師索命。	Day and night, he followed the Vinaya master demanding his life.
+['ZH_T49_2035_014:0222c25_4']	語以修薦。	語以修薦。	He was told to cultivate and make offerings.
+['ZH_T49_2035_014:0222c25_9']	百方皆辭。	百方皆辭。	All the methods were declined.
+['ZH_T49_2035_014:0222c25_14']	久而言曰。	久而言曰。	After a long time, he said:
+['ZH_T49_2035_014:0222c26_2']	為我請靖佛子。	為我請靖佛子。	Please invite Jing Fozi for me.
+['ZH_T49_2035_014:0222c26_10']	施大乘戒則可脫。	施大乘戒則可脫。	If he bestows the Mahayana precepts, then I can be released.
+['ZH_T49_2035_014:0222c26_16']	及為授戒法。	及為授戒法。	When the precepts were bestowed,
+['ZH_T49_2035_014:0222c27_5']	乃見形致謝而去。	乃見形致謝而去。	he saw the ghost's form and thanked him before leaving.
+['ZH_T49_2035_014:0222c27_14']	後主覺悟學徒雲擁。	後主覺悟學徒雲擁。	Later, he took charge of Jingshan Temple. His disciples gathered like clouds.
+['ZH_T49_2035_014:0222c28_2']	唯一室空閉。	唯一室空閉。	There was only one empty room.
+['ZH_T49_2035_014:0222c28_9']	云有惡鬼居之。	云有惡鬼居之。	There are evil ghosts living in it.
+['ZH_T49_2035_014:0222c29_3']	師中夜入室坐禪忽聞哮吼。	師中夜入室坐禪忽聞哮吼。	The master entered the room in the middle of the night to sit in meditation, and suddenly heard a roar.
+['ZH_T49_2035_014:0222c29_16', 'ZH_T49_2035_014:0223a01_3']	見一人頭飛走地上俄化為人。🔽師謂之曰。	見一人頭飛走地上俄化為人。 師謂之曰。	He saw a person with a flying head crawling on the ground, which suddenly transformed into a human.
+['ZH_T49_2035_014:0223a01_9', 'ZH_T49_2035_014:0223a01_12']	汝何得擾人。🔽鬼曰。	汝何得擾人。 鬼曰。	The master said to him, Why do you disturb people?
+['ZH_T49_2035_014:0223a02_2']	凡出見人本欲求度。	凡出見人本欲求度。	The ghost said, Whenever I appear to people, it is originally to seek liberation.
+['ZH_T49_2035_014:0223a02_11', 'ZH_T49_2035_014:0223a03_4']	人見自畏非擾之也。🔽師乃為說法授戒語之曰。	人見自畏非擾之也。 師乃為說法授戒語之曰。	People are afraid of me when they see me, it is not that I am disturbing them.
+['ZH_T49_2035_014:0223a03_10']	汝可入吾袖。	汝可入吾袖。	The master then spoke the Dharma for him, gave him the precepts, and said, You can enter my sleeve.
+['ZH_T49_2035_014:0223a03_15']	鬼即如教。	鬼即如教。	The ghost immediately did as he was told.
+['ZH_T49_2035_014:0223a03_19']	覺重甚。	覺重甚。	He felt very heavy.
+['ZH_T49_2035_014:0223a04_6']	携至林中放之。	携至林中放之。	He took him to the forest and let him go.
+['ZH_T49_2035_014:0223a04_11']	化成天人。	化成天人。	He transformed into a celestial being.
+['ZH_T49_2035_014:0223a04_16']	殷勤謝師。	殷勤謝師。	He sincerely thanked the master.
+['ZH_T49_2035_014:0223a05_3']	飛空而沒。	飛空而沒。	He flew away and disappeared.
+['ZH_T49_2035_014:0223a05_11']	建炎二年遷上竺。	建炎二年遷上竺。	In the second year of Jianyan, he moved to Shangzushi.
+['ZH_T49_2035_014:0223a06_2']	初是有為鳴童卦者。	初是有為鳴童卦者。	There was originally a young boy named Tong Gua.
+['ZH_T49_2035_014:0223a06_11', 'ZH_T49_2035_014:0223a06_14']	或以上竺住持為問。🔽童云。	或以上竺住持為問。 童云。	Someone asked him about the abbot of Shangzushi.
+['ZH_T49_2035_014:0223a07_1', 'ZH_T49_2035_014:0223a07_5', 'ZH_T49_2035_014:0223a07_8']	待問土地。🔽良久曰。🔽今早。	待問土地。 良久曰。 今早。	The boy said, Wait and ask the local deity.
+['ZH_T49_2035_014:0223a07_18']	天符已下請靖法師矣。	天符已下請靖法師矣。	After a long while, he said, This morning, the heavenly decree has already been issued, inviting Dharma Master Jing.
+['ZH_T49_2035_014:0223a08_4']	閱月而師至。	閱月而師至。	After a month, the master arrived.
+['ZH_T49_2035_014:0223a08_10']	三年十一月。	三年十一月。	In the eleventh month of the third year,
+['ZH_T49_2035_014:0223a08_15']	金虜破杭。	金虜破杭。	the Jin invaders captured Hangzhou.
+['ZH_T49_2035_014:0223a09_1']	師預感夢。	師預感夢。	The master had a premonition in a dream.
+['ZH_T49_2035_014:0223a09_10']	知此山厄運不可免。	知此山厄運不可免。	He knew that the mountain's misfortune was inevitable.
+['ZH_T49_2035_014:0223a09_17']	語其徒令避去。	語其徒令避去。	He told his disciples to avoid it.
+['ZH_T49_2035_014:0223a10_3']	及虜至。	及虜至。	When the invaders arrived,
+['ZH_T49_2035_014:0223a10_10']	或謂可以禮迓。	或謂可以禮迓。	some said they could welcome them with courtesy.
+['ZH_T49_2035_014:0223a10_16']	即聲鐘集眾。	即聲鐘集眾。	They immediately rang the bell and gathered the assembly.
+['ZH_T49_2035_014:0223a11_4']	虜疑其將抗已。	虜疑其將抗已。	The invaders suspected they were going to resist.
+['ZH_T49_2035_014:0223a11_9']	放兵大掠。	放兵大掠。	They released their troops to plunder.
+['ZH_T49_2035_014:0223a11_15']	火其屋而去。	火其屋而去。	They set fire to the buildings and left.
+['ZH_T49_2035_014:0223a12_2']	述曰。	述曰。	It is said:
+['ZH_T49_2035_014:0223a12_7']	靖師之德。	靖師之德。	The virtue of Master Jing
+['ZH_T49_2035_014:0223a12_15']	可以脫索命之鬼。	可以脫索命之鬼。	can save ghosts from the cycle of life and death.
+['ZH_T49_2035_014:0223a13_5']	可以度空室之崇。	可以度空室之崇。	It can deliver the lofty halls from emptiness.
+['ZH_T49_2035_014:0223a13_13']	可以感上竺之符。	可以感上竺之符。	It can bring the auspicious signs of Shangzhu.
+['ZH_T49_2035_014:0223a14_10']	而不能却兀朮之寇止上竺之焚。	而不能却兀朮之寇止上竺之焚。	But he could not repel the invaders of Wuzhuluo and stop the burning of Shangzhu.
+['ZH_T49_2035_014:0223a15_7']	蓋當群生同分業感兵厄火災。	蓋當群生同分業感兵厄火災。	This is because the common karma of all beings led to the calamities of war and fire.
+['ZH_T49_2035_014:0223a15_15']	所不得而幸免也。	所不得而幸免也。	There was no way to avoid it.
+['ZH_T49_2035_014:0223a16_4']	法師應如。	法師應如。	The Dharma master Yingruo,
+['ZH_T49_2035_014:0223a16_11']	婺之浦江胡氏。	婺之浦江胡氏。	from the Hu family of Pucheng, Wuzhou.
+['ZH_T49_2035_014:0223a16_16']	默記多聞。	默記多聞。	He memorized much and was widely learned.
+['ZH_T49_2035_014:0223a17_1']	尤善持論。	尤善持論。	He was especially good at debate.
+['ZH_T49_2035_014:0223a17_6']	來學上竺。	來學上竺。	He came to study at Shangzhu.
+['ZH_T49_2035_014:0223a17_12']	慈辯深器之。	慈辯深器之。	Ciben deeply admired him.
+['ZH_T49_2035_014:0223a18_1']	嘗往靈山訪同志。	嘗往靈山訪同志。	He once went to Ling Mountain to visit his fellow practitioners.
+['ZH_T49_2035_014:0223a18_10']	出六能義反覆辨詰。	出六能義反覆辨詰。	He brought out the Six Abilities and debated back and forth.
+['ZH_T49_2035_014:0223a18_15']	彼義墮負。	彼義墮負。	Their arguments fell into defeat.
+['ZH_T49_2035_014:0223a19_3']	師即揭竿繫帛。	師即揭竿繫帛。	The master then raised a pole and tied a piece of silk to it.
+['ZH_T49_2035_014:0223a19_7']	謂之曰。	謂之曰。	He said to them,
+['ZH_T49_2035_014:0223a19_16']	西竺破敵則竪勝幡。	西竺破敵則竪勝幡。	In the Western Regions, when one defeats the enemy, one raises a victory banner.
+['ZH_T49_2035_014:0223a20_6']	道場降魔亦表勝相。	道場降魔亦表勝相。	At the Way-place, when one subdues demons, one also displays a sign of victory.
+['ZH_T49_2035_014:0223a20_16']	今法戰既勝當揭一竿。	今法戰既勝當揭一竿。	Now that we have won the Dharma battle, we should raise a pole.
+['ZH_T49_2035_014:0223a21_7']	人畏其烈目之虎子。	人畏其烈目之虎子。	People feared his ferocity and called him the Tiger Son.
+['ZH_T49_2035_014:0223a22_7']	初慈辯得南屏通相三觀之旨祕不授人。	初慈辯得南屏通相三觀之旨祕不授人。	At first, Ci Bian obtained the meaning of the Three Contemplations of the Common Characteristics of Nan Ping and kept it secret, not passing it on to others.
+['ZH_T49_2035_014:0223a22_16', 'ZH_T49_2035_014:0223a23_7']	玉慧覺祈請尤力許。🔽中夜為密說師知之。	玉慧覺祈請尤力許。 中夜為密說師知之。	Yu Hui Jiao prayed for it with even greater effort and was allowed to.🔽In the middle of the night, he secretly explained it to the master.
+['ZH_T49_2035_014:0223a23_16']	陟梯揭瓦伏身竊聽。	陟梯揭瓦伏身竊聽。	The master knew about it and climbed up the ladder, lifted the tiles, and secretly listened while crouching.
+['ZH_T49_2035_014:0223a24_7']	飛雪翻空背若被鎧。	飛雪翻空背若被鎧。	The flying snow turned into empty space, and his back was as if covered in armor.
+['ZH_T49_2035_014:0223a24_13']	旦白慈辯曰。	旦白慈辯曰。	In the morning, he told Ci Bian,
+['ZH_T49_2035_014:0223a25_6']	我於通相三觀若有冥授。	我於通相三觀若有冥授。	If I have secretly received the Three Contemplations of the Common Characteristics,
+['ZH_T49_2035_014:0223a25_15']	即錄其言以示一眾。	即錄其言以示一眾。	I will record it and show it to the assembly.
+['ZH_T49_2035_014:0223a26_3']	慈辯怒曰。	慈辯怒曰。	Ci Bian angrily said,
+['ZH_T49_2035_014:0223a26_8']	應如盜法。	應如盜法。	You should be like a thief of the Dharma.
+['ZH_T49_2035_014:0223a26_12', 'ZH_T49_2035_014:0223a26_18']	紹聖初。🔽主越之圓通。	紹聖初。 主越之圓通。	In the first year of Shaosheng,🔽He was the abbot of Yuan Tong in Yue.
+['ZH_T49_2035_014:0223a27_7']	嘗因講散謂侍者曰。	嘗因講散謂侍者曰。	Once, after the lecture was over, he told the attendant,🔽The Dharma is like a great river.
+['ZH_T49_2035_014:0223a27_13']	今日東風吹。	今日東風吹。	Today the east wind blows.
+['ZH_T49_2035_014:0223a28_2']	教法過淛西去。	教法過淛西去。	Teaching the Dharma to go west of the Yangtze River.
+['ZH_T49_2035_014:0223a28_13']	使眼中有耳者得以有聞。	使眼中有耳者得以有聞。	Allowing those with ears in their eyes to be able to hear.
+['ZH_T49_2035_014:0223a29_3']	師三十歲便亡卷。	師三十歲便亡卷。	At the age of thirty, the master lost his scrolls.
+['ZH_T49_2035_014:0223a29_14']	每臨座侍者供講帙以俟。	每臨座侍者供講帙以俟。	Whenever he was in the seat, his attendant would provide a lecture case for him.
+['ZH_T49_2035_014:0223b01_4']	紹興三年遷上竺。	紹興三年遷上竺。	In the third year of Shaoxing, he moved to Shangzifang.
+['ZH_T49_2035_014:0223b01_11']	兀朮焚蕩之餘。	兀朮焚蕩之餘。	After Wuzhu's burning and destruction,
+['ZH_T49_2035_014:0223b01_16']	唯存藏室。	唯存藏室。	Only the sutra repository remained.
+['ZH_T49_2035_014:0223b02_5']	有勸化人營建者。	有勸化人營建者。	There were people who encouraged him to rebuild.
+['ZH_T49_2035_014:0223b02_8']	師曰。	師曰。	The master said,
+['ZH_T49_2035_014:0223b02_16']	我但流通大法耳。	我但流通大法耳。	I only spread the great Dharma.
+['ZH_T49_2035_014:0223b03_6']	他日自有修造者至。	他日自有修造者至。	Others will come to repair it in the future.
+['ZH_T49_2035_014:0223b03_10', 'ZH_T49_2035_014:0223b03_15']	及師亡。🔽普覺惟日。	及師亡。 普覺惟日。	When the master passed away,🔽Pujiu Weiri.
+['ZH_T49_2035_014:0223b04_5']	果以繼席興土木事。	果以繼席興土木事。	Indeed, he succeeded in building and repairing the temple.
+['ZH_T49_2035_014:0223b04_10']	五年九月。	五年九月。	In the ninth month of the fifth year,
+['ZH_T49_2035_014:0223b04_17']	車駕幸大士殿。	車駕幸大士殿。	The imperial carriage visited the Great Being's Hall.
+['ZH_T49_2035_014:0223b05_4']	師奏對如流。	師奏對如流。	The master's responses were like a flowing stream.
+['ZH_T49_2035_014:0223b05_16']	上喜賜萬歲香山以供大士。	上喜賜萬歲香山以供大士。	The emperor was delighted and bestowed a longevity incense mountain to offer to the Great Being.
+['ZH_T49_2035_014:0223b06_4']	師不尚著述。	師不尚著述。	The master did not value writing.
+['ZH_T49_2035_014:0223b06_11']	嘗以偈示人曰。	嘗以偈示人曰。	He often showed people a verse, saying,
+['ZH_T49_2035_014:0223b07_2']	吾傳智者一性之宗。	吾傳智者一性之宗。	I transmit the Zhiguan fuxing, the teaching of the single nature of the Zhiguan fuxing.
+['ZH_T49_2035_014:0223b07_11']	三千實相妙空假中。	三千實相妙空假中。	The three thousand real marks, the wondrous emptiness, provisional existence, and the middle way.
+['ZH_T49_2035_014:0223b08_1']	一念法界生佛體同。	一念法界生佛體同。	The Dharma realm arises in a single thought, the essence of the buddhas is the same.
+['ZH_T49_2035_014:0223b08_10']	凡聖一如善惡理融。	凡聖一如善惡理融。	The one suchness of ordinary beings and sages, the principle of good and evil is merged.
+['ZH_T49_2035_014:0223b08_19']	毘盧身土湛若虛空。	毘盧身土湛若虛空。	The body and land of Vairocana are as still as empty space.
+['ZH_T49_2035_014:0223b09_8']	達斯旨者法法圓通。	達斯旨者法法圓通。	Those who understand this principle, every dharma is perfectly penetrating.
+['ZH_T49_2035_014:0223b09_17']	左之右之受用無窮。	左之右之受用無窮。	To the left and right, the enjoyment is endless.
+['ZH_T49_2035_014:0223b10_8']	山家稱如虎者三人。	山家稱如虎者三人。	The Shanjia school calls the three people like tigers.
+['ZH_T49_2035_014:0223b11_3']	神照本如四明道如及師也。	神照本如四明道如及師也。	Shenzhao Benru, Siming Daoru, and Shi.
+['ZH_T49_2035_014:0223b11_13']	一夕別大眾歸寢而終。	一夕別大眾歸寢而終。	One evening, he took leave of the great assembly and passed away while sleeping.
+['ZH_T49_2035_014:0223b12_2']	塔於寺西北隅。	塔於寺西北隅。	He was cremated at the northwest corner of the temple.
+['ZH_T49_2035_014:0223b12_9']	嗣法崇先懷志。	嗣法崇先懷志。	His dharma heir Chongxian Huaizhi.
+['ZH_T49_2035_014:0223b12_14']	白蓮慧仙。	白蓮慧仙。	Bailian Huixian.
+['ZH_T49_2035_014:0223b13_1']	皆足世其業。	皆足世其業。	They were all able to carry on his work.
+['ZH_T49_2035_014:0223b13_6']	師有教義。	師有教義。	The master had a teaching and meaning.
+['ZH_T49_2035_014:0223b13_11']	名指難集。	名指難集。	Called the Difficult Collection of Finger Names.
+['ZH_T49_2035_014:0223b14_4']	法師宗敏。	法師宗敏。	The Dharma Master Zongmin.
+['ZH_T49_2035_014:0223b14_13']	秀當湖魯氏名族也。	秀當湖魯氏名族也。	Xiu was from the famous Lu clan of Dang Lake.
+['ZH_T49_2035_014:0223b14_18']	賜號法雲。	賜號法雲。	He was given the title Fayun.
+['ZH_T49_2035_014:0223b15_4']	年十五具戒。	年十五具戒。	At the age of fifteen, he took full ordination.
+['ZH_T49_2035_014:0223b15_9']	遍參講席。	遍參講席。	He visited various lecture halls.
+['ZH_T49_2035_014:0223b16_5']	如超果照廣化明南屏玩無不歷事。	如超果照廣化明南屏玩無不歷事。	Such as Chaoguo Zhao, Guanghua Ming, and Nanting Wan, he did not fail to experience them all.
+['ZH_T49_2035_014:0223b16_15']	後入慈辯室頓有發明。	後入慈辯室頓有發明。	Later, he entered the room of Ci Bian and suddenly had a breakthrough.
+['ZH_T49_2035_014:0223b17_5']	辯謀首座非其才。	辯謀首座非其才。	Bian said that the chief seat was not talented.
+['ZH_T49_2035_014:0223b17_12']	乃請與之抗論。	乃請與之抗論。	He then invited him to debate.
+['ZH_T49_2035_014:0223b17_17']	座為之屈。	座為之屈。	The seat was humbled for him.
+['ZH_T49_2035_014:0223b18_7']	紹聖初主杭之菩提。	紹聖初主杭之菩提。	In the first year of the Shaosheng era, he became the abbot of Bodhi in Hangzhou.
+['ZH_T49_2035_014:0223b18_14']	元符中遷孤山。	元符中遷孤山。	In the Yuanfu era, he moved to Gushan.
+['ZH_T49_2035_014:0223b19_2']	樞密蔣之奇。	樞密蔣之奇。	Jiang Zhiqi, the Chief Minister for Making Announcements,
+['ZH_T49_2035_014:0223b19_11']	時來謁問楞嚴大旨。	時來謁問楞嚴大旨。	often came to ask about the great principles of the Shurangama Sutra.
+['ZH_T49_2035_014:0223b19_18']	為談心要之妙。	為談心要之妙。	He talked about the wonderful essentials of the mind.
+['ZH_T49_2035_014:0223b20_6']	之奇言下有契。	之奇言下有契。	Jiang Zhiqi had an understanding upon hearing it.
+['ZH_T49_2035_014:0223b20_11']	敬以師禮。	敬以師禮。	He respected him with the etiquette of a teacher.
+['ZH_T49_2035_014:0223b21_9']	久之退處報恩六一泉之上報恩勤師。	久之退處報恩六一泉之上報恩勤師。	After a long time, he retired and lived on the Six-One Spring of Baoen. Baoen Qin Shi.
+['ZH_T49_2035_014:0223b21_17']	與歐陽公為詩友。	與歐陽公為詩友。	He was a poetry friend of Ouyang Gong.
+['ZH_T49_2035_014:0223b22_1']	東坡名其泉為六一宴坐三十年。	東坡名其泉為六一宴坐三十年。	Dongpo named the spring Six-One. He sat in meditation for thirty years.
+['ZH_T49_2035_014:0223b22_6']	世高其風。	世高其風。	The world admired his style.
+['ZH_T49_2035_014:0223b22_15']	兀朮陷杭寺為煨燼。	兀朮陷杭寺為煨燼。	When Wuzhu captured Hangzhou, the temple was burned to ashes.
+['ZH_T49_2035_014:0223b23_4']	乃還止當湖菴居。	乃還止當湖菴居。	He then returned to live in an abbey in Danghu.
+['ZH_T49_2035_014:0223b23_12']	紹聖七年冬示寂。	紹聖七年冬示寂。	In the winter of the seventh year of the Shaosheng era, he passed away.
+['ZH_T49_2035_014:0223b24_3']	命以衣盂修報恩塔。	命以衣盂修報恩塔。	He ordered that his robes and alms bowl be used to repair the Baoen Pagoda.
+['ZH_T49_2035_014:0223b24_10']	即山椒而葬焉。	即山椒而葬焉。	He was buried on the same mountain as the imperial tomb.
+['ZH_T49_2035_014:0223b24_15']	後十八年。	後十八年。	Eighteen years later,
+['ZH_T49_2035_014:0223b25_5']	有司以其地為延祥觀。	有司以其地為延祥觀。	the authorities turned the land into a Yanxiang Temple.
+['ZH_T49_2035_014:0223b25_16']	遷其塔於山北鳥窠之側。	遷其塔於山北鳥窠之側。	His pagoda was moved to the side of Bird's Nest on the northern mountain.
+['ZH_T49_2035_014:0223b26_3']	弟子慧靜。	弟子慧靜。	His disciple Huijing.
+['ZH_T49_2035_014:0223b26_10']	取全身闍維之。	取全身闍維之。	The whole body was cremated.
+['ZH_T49_2035_014:0223b26_17']	視容貌如其生。	視容貌如其生。	Looking at the appearance, it was as if he were alive.
+['ZH_T49_2035_014:0223b27_4']	薪盡火滅。	薪盡火滅。	When the firewood was exhausted and the fire was extinguished,
+['ZH_T49_2035_014:0223b27_12']	收舍利百粒如菽。	收舍利百粒如菽。	the relics were collected, a hundred grains like beans.
+['ZH_T49_2035_014:0223b28_4']	僧統義天。	僧統義天。	The Vinaya Master Yitian.
+['ZH_T49_2035_014:0223b28_18']	王氏高麗國文宗仁孝王第四子。	王氏高麗國文宗仁孝王第四子。	The fourth son of King Wenzong Renxiao of the Gaoli Kingdom of the Wang family.
+['ZH_T49_2035_014:0223b29_4']	辭榮出家。	辭榮出家。	He renounced his glory and left home.
+['ZH_T49_2035_014:0223b29_10']	封祐世僧統。	封祐世僧統。	He was enfeoffed as the Vinaya Master of the Auxiliary World.
+['ZH_T49_2035_014:0223c01_1']	元祐初入中國問道。	元祐初入中國問道。	In the early years of Yuansou, he entered China to inquire about the Way.🔽He arrived at Siming Prefecture and was received by Ming Zhihui Zhaoguan.
+['ZH_T49_2035_014:0223c01_14', 'ZH_T49_2035_014:0223c02_1']	至四明郡以明智慧照館接之。🔽義天上表。	至四明郡以明智慧照館接之。 義天上表。	Yitian submitted a memorial.
+['ZH_T49_2035_014:0223c02_7']	乞傳賢首教。	乞傳賢首教。	Requesting to transmit the teachings of the Sagely Summit.
+['ZH_T49_2035_014:0223c02_11']	勅兩街。	勅兩街。	The imperial edict ordered the two streets.
+['ZH_T49_2035_014:0223c02_17']	舉可授法者。	舉可授法者。	To select those who were qualified to bestow the Dharma.
+['ZH_T49_2035_014:0223c03_7', 'ZH_T49_2035_014:0223c04_1']	以東京覺嚴誠禪師對。🔽誠舉錢唐慧因淨源以自代。	以東京覺嚴誠禪師對。 誠舉錢唐慧因淨源以自代。	Zhen Chan Master of Jingyan in the Eastern Capital responded.🔽Zhen recommended Jingyuan of Huixin in Qiantang to replace himself.
+['ZH_T49_2035_014:0223c04_14']	乃勅主客楊傑送至慧因受法。	乃勅主客楊傑送至慧因受法。	The imperial edict ordered Yang Jie, the director of guests, to escort him to Huixin to receive the Dharma.
+['ZH_T49_2035_014:0223c05_5']	諸剎迎餞如行人禮。	諸剎迎餞如行人禮。	The various monasteries welcomed and saw him off as if he were an official.
+['ZH_T49_2035_014:0223c05_10', 'ZH_T49_2035_014:0223c06_2']	初至京師。🔽朝畢勅禮部蘇軾館伴。	初至京師。 朝畢勅禮部蘇軾館伴。	When he first arrived in the capital city.🔽After the court, the imperial edict ordered Su Shi of the Ministry of Rites to accompany him.
+['ZH_T49_2035_014:0223c06_14']	謁圓照宗本禪師示以宗旨。	謁圓照宗本禪師示以宗旨。	He visited Chan Master Yuanzhao Zongben and was shown the purport of the school.
+['ZH_T49_2035_014:0223c07_6']	至金山佛印坐納其禮。	至金山佛印坐納其禮。	He bowed to the Buddha's seal on the golden mountain.
+['ZH_T49_2035_014:0223c07_12']	楊傑驚問印。	楊傑驚問印。	Yang Jie was surprised and asked the seal.
+['ZH_T49_2035_014:0223c08_1']	曰義天異域僧耳。	曰義天異域僧耳。	He said, Yitian is a monk from a foreign land.
+['ZH_T49_2035_014:0223c08_6']	若屈狥俗。	若屈狥俗。	If he were to yield to the secular,
+['ZH_T49_2035_014:0223c08_14']	諸方先失一隻眼。	諸方先失一隻眼。	the various directions would first lose an eye.
+['ZH_T49_2035_014:0223c09_5']	何以示華夏師法乎。	何以示華夏師法乎。	How can he show the teacher's Dharma in China?
+['ZH_T49_2035_014:0223c09_14']	朝廷聞之以為知體。	朝廷聞之以為知體。	The court heard of this and considered him to be knowledgeable.
+['ZH_T49_2035_014:0223c10_9']	至慧因持華嚴疏鈔咨決所疑。	至慧因持華嚴疏鈔咨決所疑。	He went to Huian to consult on the doubts in the Huayan commentary.
+['ZH_T49_2035_014:0223c10_14']	閱歲而畢。	閱歲而畢。	After several years, it was completed.
+['ZH_T49_2035_014:0223c11_3']	於是華嚴一宗。	於是華嚴一宗。	Thus, the entire Huayan school.
+['ZH_T49_2035_014:0223c11_10']	文義逸而復傳。	文義逸而復傳。	The text and meaning that had been lost were transmitted again.
+['ZH_T49_2035_014:0223c11_17']	及見天竺慈辯。	及見天竺慈辯。	When he saw the Indian Cidian,
+['ZH_T49_2035_014:0223c12_7']	請問天台教觀之道。	請問天台教觀之道。	he asked about the way of teaching and contemplation of Tiantai.
+['ZH_T49_2035_014:0223c12_16']	後遊佛隴禮智者塔。	後遊佛隴禮智者塔。	Later, he visited Fuling and paid homage to Zhizhe's stupa.
+['ZH_T49_2035_014:0223c13_2']	為之誓曰。	為之誓曰。	He made a vow, saying,
+['ZH_T49_2035_014:0223c13_13']	已傳慈辯教觀歸國敷揚。	已傳慈辯教觀歸國敷揚。	Having transmitted Cidian's teaching and contemplation back to my country to spread it,
+['ZH_T49_2035_014:0223c13_18']	願賜冥護。	願賜冥護。	I wish to be given secret protection.
+['ZH_T49_2035_014:0223c14_9']	見靈芝大智為說戒法。	見靈芝大智為說戒法。	He saw Lingzhi Dashi and was told the precepts.
+['ZH_T49_2035_014:0223c15_7']	請傳所著文既還國乃建剎號天台。	請傳所著文既還國乃建剎號天台。	He requested to transmit the texts he had written. After returning to his country, he built a temple called Tiantai.
+['ZH_T49_2035_014:0223c15_15']	奉慈辯所傳教文。	奉慈辯所傳教文。	He revered the teaching texts transmitted by Cidian.
+['ZH_T49_2035_014:0223c16_4']	立其像為初祖。	立其像為初祖。	He established his image as the first ancestor.
+['ZH_T49_2035_014:0223c16_11']	歲遣使通音問。	歲遣使通音問。	Every year, they sent envoys to communicate and inquire.
+['ZH_T49_2035_014:0223c17_5']	及施金書華嚴三譯於慧因。	及施金書華嚴三譯於慧因。	And donated the three translations of the Flower Ornament Sutra written in gold to Huixin.
+['ZH_T49_2035_014:0223c18_4']	建閣藏之今俗稱高麗寺見飛山別傳議為跋曰。	建閣藏之今俗稱高麗寺見飛山別傳議為跋曰。	Built a pavilion to store them, now commonly called the Goryeo Temple, see the separate biography of Feishan. The discussion says:
+['ZH_T49_2035_014:0223c18_7']	甚矣。	甚矣。	It is indeed so.
+['ZH_T49_2035_014:0223c19_1']	古禪之與今禪名實相遼也。	古禪之與今禪名實相遼也。	The names and realities of ancient Chan and present Chan are far apart.
+['ZH_T49_2035_014:0223c19_8']	古之所謂禪者。	古之所謂禪者。	What was called Chan in ancient times
+['ZH_T49_2035_014:0223c19_15']	藉教入禪者也。	藉教入禪者也。	is Chan that enters through the teachings.
+['ZH_T49_2035_014:0223c20_3', 'ZH_T49_2035_014:0223c20_10']	今之所以禪者。🔽離教說禪者也。	今之所以禪者。 離教說禪者也。	The reason for Chan in the present day🔽is Chan that is apart from the teachings.
+['ZH_T49_2035_014:0223c20_14']	離教者。	離教者。	Being apart from the teachings
+['ZH_T49_2035_014:0223c21_3']	執其名而遺其實。	執其名而遺其實。	means grasping the name and abandoning the reality.
+['ZH_T49_2035_014:0223c21_7']	藉教者。	藉教者。	Relying on the teachings
+['ZH_T49_2035_014:0223c21_15']	因其詮而得其旨。	因其詮而得其旨。	means using the explanations to attain the meaning.
+['ZH_T49_2035_014:0223c22_5']	救今人矯詐之敝。	救今人矯詐之敝。	It saves the present people from the corruption of pretense.
+['ZH_T49_2035_014:0223c22_13']	復古聖精純之道。	復古聖精純之道。	It restores the ancient sages' pure way.
+['ZH_T49_2035_014:0223c23_3']	珠公論辯斯其至焉。	珠公論辯斯其至焉。	Master Zhu's discussions and debates reach the ultimate in this.
+['ZH_T49_2035_014:0223c23_11']	近者遼國詔有司。	近者遼國詔有司。	Recently, the Liao state ordered the officials
+['ZH_T49_2035_014:0223c24_4']	令義學沙門詮曉再定經錄。	令義學沙門詮曉再定經錄。	to have the monk-scholar Quian Xiao revise the Buddhist canon.
+['ZH_T49_2035_014:0223c25_2']	世所謂六祖壇經寶林傳等皆與焚棄。	世所謂六祖壇經寶林傳等皆與焚棄。	What the world calls the Platform Sutra of the Sixth Patriarch and the Baolin Record, etc., were all burned and discarded.
+['ZH_T49_2035_014:0223c25_16']	而比世中國禪宗章句多涉異端。	而比世中國禪宗章句多涉異端。	However, the Chan school's teachings and phrases in China today often involve heterodoxies.
+['ZH_T49_2035_014:0223c26_11']	此所以海東人師疑華夏為無人。	此所以海東人師疑華夏為無人。	This is why people in the East Sea suspect that there are no people in China.
+['ZH_T49_2035_014:0223c27_1']	今見飛山高議。	今見飛山高議。	Now, seeing the lofty discussions of Feishan,
+['ZH_T49_2035_014:0223c27_9']	乃知有護法開士。	乃知有護法開士。	I know there are Dharma protectors and sages.
+['ZH_T49_2035_014:0223c28_1']	百世之下住持末法者。	百世之下住持末法者。	Those who uphold the Dharma in the last age for a hundred generations,
+['ZH_T49_2035_014:0223c28_11']	豈不賴珠公力乎戒珠。	豈不賴珠公力乎戒珠。	Are they not to be relied upon by Master Zhu? Jie Zhu.
+['ZH_T49_2035_014:0223c28_16']	作別傳議。	作別傳議。	Composes a discussion on separate biographies.
+['ZH_T49_2035_014:0223c28_26']	於禪教之際深有發明。	於禪教之際深有發明。	At the juncture of Chan and teaching, there is much to be clarified.
+['ZH_T49_2035_014:0223c28_31']	壽九十三。	壽九十三。	Lived to ninety-three.
+['ZH_T49_2035_014:0223c29_4']	葬骨飛山。	葬骨飛山。	Buried bones at Feishan.
+['ZH_T49_2035_014:0224a01_2']	述曰。	述曰。	It is said:
+['ZH_T49_2035_014:0224a01_8']	昉師辨祖謂。	昉師辨祖謂。	Master Fang's discernment of the patriarchs says:
+['ZH_T49_2035_014:0224a02_2']	智炬撰寶林傳詭說百端。	智炬撰寶林傳詭說百端。	Zhi Ju compiled the Baolin Transmission with a hundred strange stories.
+['ZH_T49_2035_014:0224a02_15']	如達磨隻履西歸立雪斷臂等。	如達磨隻履西歸立雪斷臂等。	Such things as Bodhidharma's return to the West on a single foot, standing in snow, cutting off an arm, etc.
+['ZH_T49_2035_014:0224a03_12']	事與南山續高僧傳多不同云云。	事與南山續高僧傳多不同云云。	Are mostly different from the Nan Shan Continued Biographies of Eminent Monks.
+['ZH_T49_2035_014:0224a04_7']	世又謂壇經談性不異吾宗。	世又謂壇經談性不異吾宗。	The world also says that the nature discussed in the Altar Sutra is no different from our school.
+['ZH_T49_2035_014:0224a04_16']	而於念佛求往西方。	而於念佛求往西方。	But regarding chanting the Buddha's name and seeking to go to the Western Paradise,
+['ZH_T49_2035_014:0224a05_4']	有以貶斥。	有以貶斥。	There are deprecations.
+['ZH_T49_2035_014:0224a05_15']	義天言遼國焚棄二書者。	義天言遼國焚棄二書者。	Yitian says that the Liao state burned and discarded the two books.
+['ZH_T49_2035_014:0224a06_3']	蓋以此也。	蓋以此也。	This is probably because of this.
+['ZH_T49_2035_014:0224a08_4']	南屏文法師法嗣南屏文法師法嗣法師仲閔。	南屏文法師法嗣南屏文法師法嗣法師仲閔。	Dharma Heirs of Dharma Master Wen of Nanping: Dharma Master Zhongmin, a Dharma Heirs of Dharma Master Wen of Nanping.
+['ZH_T49_2035_014:0224a08_8', 'ZH_T49_2035_014:0224a08_13']	三衢人。🔽受業祥符。	三衢人。 受業祥符。	He was a person from Sanqu.🔽He studied under Xiangfu.
+['ZH_T49_2035_014:0224a09_1']	來依南屏文師。	來依南屏文師。	He came to rely on Dharma Master Wen of Nanping.
+['ZH_T49_2035_014:0224a09_9']	以雄辯見稱義虎。	以雄辯見稱義虎。	He was known for his eloquent eloquence and was called a Dharma Tiger.
+['ZH_T49_2035_014:0224a09_13']	政和初。	政和初。	In the beginning of the Zhenghe era,
+['ZH_T49_2035_014:0224a10_1']	還鄉主浮石。	還鄉主浮石。	He returned to his hometown to be the abbot of Fushi.
+['ZH_T49_2035_014:0224a10_6']	學者驟至。	學者驟至。	Students suddenly came in large numbers.
+['ZH_T49_2035_014:0224a10_11']	嘗放言曰。	嘗放言曰。	He once said, 
+['ZH_T49_2035_014:0224a11_13']	吾座下不五百眾不講大部故一生唯講光明觀音。	吾座下不五百眾不講大部故一生唯講光明觀音。	In my assembly, there are not 500 people, and I do not lecture on the great canon. Therefore, in my life, I only lecture on the Guangming and Guanyin sutras.
+['ZH_T49_2035_014:0224a12_1']	順寂之日。	順寂之日。	On the day of his peaceful passing,
+['ZH_T49_2035_014:0224a12_6']	集眾昇堂。	集眾昇堂。	He gathered the assembly and ascended the hall.
+['ZH_T49_2035_014:0224a12_15']	登師子座趺足而坐。	登師子座趺足而坐。	He sat in the lion's seat with his feet crossed.
+['ZH_T49_2035_014:0224a13_4']	忽見銀臺自西至。	忽見銀臺自西至。	Suddenly he saw a silver platform coming from the west.
+['ZH_T49_2035_014:0224a13_7']	師曰。	師曰。	The master said,
+['ZH_T49_2035_014:0224a13_15']	吾平生解第一義。	吾平生解第一義。	All my life, I have understood the supreme truth.
+['ZH_T49_2035_014:0224a14_1']	誓取金臺。	誓取金臺。	I vowed to attain a golden platform.
+['ZH_T49_2035_014:0224a14_6']	今乃若此。	今乃若此。	But now it is like this.
+['ZH_T49_2035_014:0224a14_11']	瞑目而化。	瞑目而化。	He closed his eyes and passed away.
+['ZH_T49_2035_014:0224a14_19']	所著憲章集五卷。	所著憲章集五卷。	He wrote a five-volume collection of regulations.
+['ZH_T49_2035_014:0224a15_4']	其自序曰。	其自序曰。	In his preface, he said,
+['ZH_T49_2035_014:0224a15_11']	釋氏子有所述。	釋氏子有所述。	The disciples of the Buddha, when they have something to say,
+['ZH_T49_2035_014:0224a15_16', 'ZH_T49_2035_014:0224a16_3']	必求公卿。🔽為之序其首。	必求公卿。🔽為之序其首。	Must seek the approval of the high officials.
+['ZH_T49_2035_014:0224a16_14']	跋其尾駕其說俾行於世。	跋其尾駕其說俾行於世。	I will expand its tail and drive its teachings to circulate in the world.
+['ZH_T49_2035_014:0224a17_3', 'ZH_T49_2035_014:0224a17_9']	且衣冠之士。🔽豈知吾之是。	且衣冠之士。 豈知吾之是。	Moreover, how can the scholars in official robes🔽know what is right for us?
+['ZH_T49_2035_014:0224a17_14']	識吾之非。	識吾之非。	Recognize what is wrong for us.
+['ZH_T49_2035_014:0224a18_1']	儻是而無序。	儻是而無序。	If it is right but without order,
+['ZH_T49_2035_014:0224a18_7']	天能喪乎哉。	天能喪乎哉。	can Heaven destroy it?
+['ZH_T49_2035_014:0224a18_13']	或非而有序。	或非而有序。	If it is wrong but with order,
+['ZH_T49_2035_014:0224a18_19']	人能駕乎哉。	人能駕乎哉。	can people drive it away?
+['ZH_T49_2035_014:0224a20_4']	超果賢法師法嗣超果賢法師法嗣法師彥倫。	超果賢法師法嗣超果賢法師法嗣法師彥倫。	Dharma Master Yan Lun, Dharma successor of Dharma Master Chao Guo Xian, Dharma successor of Dharma Master Chao Guo Xian.
+['ZH_T49_2035_014:0224a20_13']	學超果賢師為有成。	學超果賢師為有成。	He studied under Dharma Master Chao Guo Xian and achieved accomplishments.
+['ZH_T49_2035_014:0224a21_3']	大觀元年主仙潭。	大觀元年主仙潭。	In the first year of the Daguang era, he served as the abbot of Xian Tan.
+['ZH_T49_2035_014:0224a21_13']	撰教義名精微集四卷。	撰教義名精微集四卷。	He compiled the Jingwei Ji, a collection of four scrolls on the principles of teachings.
+['ZH_T49_2035_014:0224a22_1']	賜號妙慧。	賜號妙慧。	He was given the title of Miaohui.
+['ZH_T49_2035_014:0224a22_10']	又撰金剛經疏二卷。	又撰金剛經疏二卷。	He also wrote a commentary on the Diamond Sutra in two scrolls.
+['ZH_T49_2035_014:0224a22_15']	法師蘊齊。	法師蘊齊。	Dharma Master Yun Qi.
+['ZH_T49_2035_014:0224a23_1']	錢唐周氏。	錢唐周氏。	From the Zhou family of Qiantang.
+['ZH_T49_2035_014:0224a23_5']	號清辯。	號清辯。	Nicknamed Qingbian.
+['ZH_T49_2035_014:0224a23_12']	幼歲試經得度。	幼歲試經得度。	At a young age, he passed the sutra examination and received the precepts.
+['ZH_T49_2035_014:0224a24_3']	傳教觀於法明會賢師。	傳教觀於法明會賢師。	He transmitted the teachings and contemplations to Dharma Ming Hui Xian.
+['ZH_T49_2035_014:0224a24_12']	嘗患疫疾百藥不治。	嘗患疫疾百藥不治。	He once suffered from a plague that could not be cured by hundreds of medicines.
+['ZH_T49_2035_014:0224a25_2']	遂力課觀音尊號。	遂力課觀音尊號。	He then earnestly recited the name of the Venerable Guanyin.
+['ZH_T49_2035_014:0224a26_2']	夢一婦人以鑿開其胸易其心手捫摩之。	夢一婦人以鑿開其胸易其心手捫摩之。	He dreamed of a woman who used a chisel to open his chest and replace his heart with her hand, rubbing it.
+['ZH_T49_2035_014:0224a26_14']	患即愈疇昔所覽靡不通記。	患即愈疇昔所覽靡不通記。	His illness was immediately cured. He could recall everything he had read in the past.
+['ZH_T49_2035_014:0224a27_5']	走筆成章率歸典雅。	走筆成章率歸典雅。	He wrote with ease and his compositions were elegant.
+['ZH_T49_2035_014:0224a27_12', 'ZH_T49_2035_014:0224a27_18', 'ZH_T49_2035_014:0224a28_4']	咸謂辯才之證。🔽主錢唐道林。🔽常熟上方。	咸謂辯才之證。 主錢唐道林。 常熟上方。	All said he was a manifestation of eloquence.🔽He served as the abbot of Daolin Temple in Qiantang,🔽Fangang Temple in Changshu,
+['ZH_T49_2035_014:0224a28_9']	姑蘇東靈。	姑蘇東靈。	Dongling Temple in Suzhou,
+['ZH_T49_2035_014:0224a28_14', 'ZH_T49_2035_014:0224a28_19']	錢唐南屏。🔽姑蘇廣化。	錢唐南屏。 姑蘇廣化。	Nanshan Temple in Qiantang,🔽Guanghua Temple in Suzhou,
+['ZH_T49_2035_014:0224a29_3']	三衢浮石。	三衢浮石。	Fushi Temple in Sanqu,
+['ZH_T49_2035_014:0224a29_10']	政和復歸上方。	政和復歸上方。	and again returned to Fangang Temple during the Zhenghe period.
+['ZH_T49_2035_014:0224a29_16', 'ZH_T49_2035_014:0224b01_3']	閒居於方丈。🔽述頂山記。	閒居於方丈。 述頂山記。	He lived in seclusion in the abbot's quarters.🔽He wrote the Record of Ding Mountain.
+['ZH_T49_2035_014:0224b01_12']	釋天台戒疏凡三卷。	釋天台戒疏凡三卷。	He also wrote a commentary on the Tiantai precepts in three fascicles.
+['ZH_T49_2035_014:0224b02_1']	建炎四年正月。	建炎四年正月。	In the first month of the fourth year of Jianyan,
+['ZH_T49_2035_014:0224b02_8']	集眾誦彌陀經。	集眾誦彌陀經。	he gathered the assembly to recite the Amitabha Sutra.
+['ZH_T49_2035_014:0224b02_17']	稱佛號畢即刻而化。	稱佛號畢即刻而化。	After chanting the Buddha's name, he immediately passed away.
+['ZH_T49_2035_014:0224b03_6']	塔舍利於上方。	塔舍利於上方。	His relics were enshrined at Fangang Temple.
+['ZH_T49_2035_014:0224b04_2']	門人法清及景德法雲克傳其道。	門人法清及景德法雲克傳其道。	His disciples Facheng and Jingde Fachun continued his teachings.
+['ZH_T49_2035_014:0224b04_11']	雲編翻譯名義七卷。	雲編翻譯名義七卷。	Fachun compiled the Translation Names and Meanings in seven fascicles.
+['ZH_T49_2035_014:0224b05_1']	大為梵學檢討之助。	大為梵學檢討之助。	It greatly assists in the study of Sanskrit.
+['ZH_T49_2035_014:0224b05_9']	類亦附以教義云。	類亦附以教義云。	The teachings and meanings are also appended in the same category.
+['ZH_T49_2035_014:0224b07_4']	景雲其法師法嗣景雲其法師法嗣浮石下第三世法師居式。	景雲其法師法嗣景雲其法師法嗣浮石下第三世法師居式。	Jingyun, the Dharma heir of the Dharma Master, the Dharma heir of Jingyun. The third generation Dharma master of Fushi, Ju Shi.
+['ZH_T49_2035_014:0224b07_8']	金華人。	金華人。	A person from Jinhua.
+['ZH_T49_2035_014:0224b08_16']	嗣景雲住景德撰圓覺疏四卷此卷三十七人本紀遺失十七人。	嗣景雲住景德撰圓覺疏四卷此卷三十七人本紀遺失十七人。	He succeeded Jingyun and resided at Jingde. He wrote a commentary on the Perfect Enlightenment Sutra in four fascicles. This fascicle has seventeen people missing from the original record.
+['ZH_T49_2035_014:0224b09_100']	佛祖統紀卷第十四終	佛祖統紀卷第十四終	Here ends Volume 14 of the Complete Chronicle of the Buddha and Patriarchs.

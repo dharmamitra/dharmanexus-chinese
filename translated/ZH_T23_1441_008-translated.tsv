@@ -1,0 +1,913 @@
+segmentnr	original	analyzed	translated
+['ZH_T23_1441_008:0611b15_0']	薩婆多部毘尼摩得勒伽卷第八	薩婆多部毘尼摩得勒伽卷第八	Sarvâstivāda Vinaya-mātṛkā, Scroll 8
+['ZH_T23_1441_008:0611b17_0']	宋元嘉年僧伽跋摩譯	宋元嘉年僧伽跋摩譯	Translated by Saṃghabhadra during the Song Dynasty
+['ZH_T23_1441_008:0611b18_0']	26 優波離問波羅夷優波離問波羅夷	26 優波離問波羅夷優波離問波羅夷	Upāli Asks about Pārājika Offenses, Upāli Asks about Pārājika Offenses
+['ZH_T23_1441_008:0611b19_6']	優波離問佛言：	優波離問佛言：	Upāli asked the Buddha, saying:
+['ZH_T23_1441_008:0611b20_13']	「若比丘自呪術力藥力，自變作人女，共畜生作婬，得何罪？	「若比丘自呪術力藥力，自變作人女，共畜生作婬，得何罪？	If a bhikṣu, by the power of his own spells and medicine, transforms himself into a human woman and has sexual intercourse with an animal, what offense does he incur?
+['ZH_T23_1441_008:0611b20_17']	」佛言：	」佛言：	The Buddha said:
+['ZH_T23_1441_008:0611b21_13']	「若自知我是比丘作不可事，犯波羅夷。	「若自知我是比丘作不可事，犯波羅夷。	If he himself knows that he is a bhikṣu who has done what should not be done, he has committed a pārājika offense.
+['ZH_T23_1441_008:0611b22_5']	不自知比丘想，偷羅遮。	不自知比丘想，偷羅遮。	If he does not know he is a bhikṣu, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0611b23_2']	」又問：	」又問：	He further asked:
+['ZH_T23_1441_008:0611b24_6']	「比丘自呪術力藥力，作畜生男，共人女作婬，得何罪？	「比丘自呪術力藥力，作畜生男，共人女作婬，得何罪？	If a bhikṣu, by the power of his own spells and medicine, transforms himself into a male animal and has sexual intercourse with a human woman, what offense does he incur?
+['ZH_T23_1441_008:0611b25_3']	」「佛言，若自知比丘想作不可事，波羅夷。	」「佛言，若自知比丘想作不可事，波羅夷。	The Buddha said, If he himself knows he is a bhikṣu who has done what should not be done, it is a pārājika offense.
+['ZH_T23_1441_008:0611b25_14']	不自知比丘想，偷羅遮。	不自知比丘想，偷羅遮。	If he does not know he is a bhikṣu, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0611b26_2']	」又問：	」又問：	He further asked:
+['ZH_T23_1441_008:0611b27_5']	「二比丘呪術力藥力，作畜生身，共作婬，得何罪？	「二比丘呪術力藥力，作畜生身，共作婬，得何罪？	If two monks use the power of spells or the power of medicine to transform into animal bodies and have sexual intercourse together, what offense do they incur?
+['ZH_T23_1441_008:0611b27_10']	」如前說。	」如前說。	As explained above.
+['ZH_T23_1441_008:0611b28_12']	「共何等女人作婬得波羅夷？	「共何等女人作婬得波羅夷？	With what kind of woman does having sexual intercourse constitute a pārājika offense?
+['ZH_T23_1441_008:0611b29_8']	」「若一切身可捉共作婬，犯波羅夷。	」「若一切身可捉共作婬，犯波羅夷。	If with any body that can be grasped, having sexual intercourse constitutes a pārājika offense.
+['ZH_T23_1441_008:0611b29_16']	不可捉，偷羅遮。	不可捉，偷羅遮。	If with one that cannot be grasped, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0611c01_1']	」問：	」問：	Question:
+['ZH_T23_1441_008:0611c01_13']	「云何口中作婬，波羅夷？	「云何口中作婬，波羅夷？	How does having sexual intercourse in the mouth constitute a pārājika offense?
+['ZH_T23_1441_008:0611c01_16']	」答：	」答：	Answer:
+['ZH_T23_1441_008:0611c01_25']	「節過齒，波羅夷。	「節過齒，波羅夷。	If it passes the teeth, it is a pārājika offense.
+['ZH_T23_1441_008:0611c02_1']	」問：	」問：	Question:
+['ZH_T23_1441_008:0611c02_13']	「云何穀道作婬，波羅夷？	「云何穀道作婬，波羅夷？	How does having sexual intercourse in the anus constitute a pārājika offense?
+['ZH_T23_1441_008:0611c02_16']	」答：	」答：	Answer:
+['ZH_T23_1441_008:0611c03_1']	「過皮節入，波羅夷。	「過皮節入，波羅夷。	If it enters past the skin and joints, it is a pārājika offense.
+['ZH_T23_1441_008:0611c04_1']	」問：	」問：	Question:
+['ZH_T23_1441_008:0611c04_14']	「云何女根中作婬，波羅夷？	「云何女根中作婬，波羅夷？	How does having sexual intercourse in the vagina constitute a pārājika offense?
+['ZH_T23_1441_008:0611c04_17']	」答：	」答：	Answer:
+['ZH_T23_1441_008:0611c05_2']	「過皮節入，波羅夷。	「過皮節入，波羅夷。	If it enters past the skin and joints, it is a pārājika offense.
+['ZH_T23_1441_008:0611c06_1']	」問：	」問：	Question:
+['ZH_T23_1441_008:0611c06_16']	「女身中破還合共作婬，得何罪？	「女身中破還合共作婬，得何罪？	If a woman's body is broken and then healed, and one has sexual intercourse with her, what offense does one incur?
+['ZH_T23_1441_008:0611c06_19']	」答：	」答：	Answer:
+['ZH_T23_1441_008:0611c07_6']	「若入大小便，波羅夷。	「若入大小便，波羅夷。	If one enters the anus or vagina, it is pārājika.
+['ZH_T23_1441_008:0611c07_15']	口中作婬，偷羅遮。	口中作婬，偷羅遮。	If one has sexual intercourse in the mouth, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0611c08_1']	」問：	」問：	A question:
+['ZH_T23_1441_008:0611c08_14']	「女人頭斷共作婬，得何罪？	「女人頭斷共作婬，得何罪？	If one has sexual intercourse with a woman whose head has been cut off, what offense does one commit?
+['ZH_T23_1441_008:0611c08_17']	」答：	」答：	The answer:
+['ZH_T23_1441_008:0611c09_5']	「大小便處作婬，波羅夷。	「大小便處作婬，波羅夷。	If one has sexual intercourse in the anus or vagina, it is pārājika.
+['ZH_T23_1441_008:0611c09_12', 'ZH_T23_1441_008:0611c10_2']	口中，偷羅遮。🔽穿身分作孔作婬，偷羅遮。	口中，偷羅遮。 穿身分作孔作婬，偷羅遮。	If it is in the mouth, it is a sthūlātyaya offense.🔽If one makes a hole in the body and has sexual intercourse, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0611c10_11']	爛身作婬，偷羅遮。	爛身作婬，偷羅遮。	If one has sexual intercourse with a rotting body, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0611c11_2', 'ZH_T23_1441_008:0611c12_1']	三瘡門爛壞作婬，偷羅遮。🔽」問：	三瘡門爛壞作婬，偷羅遮。 」問：	If one has sexual intercourse with a rotten three-opening gate, it is a sthūlātyaya offense. A question:
+['ZH_T23_1441_008:0611c12_20']	「如佛所說，三瘡門一一處作婬，波羅夷。	「如佛所說，三瘡門一一處作婬，波羅夷。	As the Buddha said, if one has sexual intercourse in each of the three openings, it is pārājika.
+['ZH_T23_1441_008:0611c13_12']	頗有一一處作婬不犯波羅夷耶？	頗有一一處作婬不犯波羅夷耶？	Is it possible to have sexual intercourse in each place without committing pārājika?
+['ZH_T23_1441_008:0611c13_15']	」答：	」答：	The answer:
+['ZH_T23_1441_008:0611c13_18', 'ZH_T23_1441_008:0611c14_5', 'ZH_T23_1441_008:0611c14_12']	「有。🔽兩邊壞入，偷羅遮。🔽屈入，偷羅遮。	「有。 兩邊壞入，偷羅遮。 屈入，偷羅遮。	There is.🔽If one enters with both sides damaged, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0611c15_1']	」問：	」問：	If one enters while bent, it is a sthūlātyaya offense. A question:
+['ZH_T23_1441_008:0611c15_21']	「如佛所說，共活女瘡門不壞作婬，波羅夷。	「如佛所說，共活女瘡門不壞作婬，波羅夷。	As the Buddha said, if one has sexual intercourse with a living woman whose three openings are undamaged, it is pārājika.
+['ZH_T23_1441_008:0611c16_8']	云何活女瘡門不壞？	云何活女瘡門不壞？	How is it that the vagina of a living woman is not damaged?
+['ZH_T23_1441_008:0611c16_11']	」答：	」答：	The answer:
+['ZH_T23_1441_008:0611c17_2']	「若兩邊等不壞，是名不壞。	「若兩邊等不壞，是名不壞。	If both sides are equal and not damaged, this is called undamaged.
+['ZH_T23_1441_008:0611c17_10']	云何活女瘡門壞？	云何活女瘡門壞？	How is it that the vagina of a living woman is damaged?
+['ZH_T23_1441_008:0611c18_2']	若瘡門兩邊壞或爛墮。	若瘡門兩邊壞或爛墮。	If the sides of the vagina are damaged or rotten and fall off.
+['ZH_T23_1441_008:0611c18_12']	如生女，死女亦如是。	如生女，死女亦如是。	As with a living woman, so with a dead woman.
+['ZH_T23_1441_008:0611c19_2', 'ZH_T23_1441_008:0611c19_14']	如人女，非人女亦如是。🔽共男子黃門作婬，亦如是。	如人女，非人女亦如是。 共男子黃門作婬，亦如是。	As with a human woman, so with a non-human woman.🔽Having sex with a man or a eunuch is also like this.
+['ZH_T23_1441_008:0611c20_8']	共畜生女男黃門作婬，亦如是。	共畜生女男黃門作婬，亦如是。	Having sex with an animal, a female or a male eunuch, is also like this.
+['ZH_T23_1441_008:0611c21_13']	」有比丘共熟猪母作婬，偷羅遮。	」有比丘共熟猪母作婬，偷羅遮。	A bhikṣu having sex with a mature female pig is a sthūlātyaya offense.
+['ZH_T23_1441_008:0611c22_1']	問：	問：	Question:
+['ZH_T23_1441_008:0611c22_18']	「頗有比丘獨在一房作婬得波羅夷耶？	「頗有比丘獨在一房作婬得波羅夷耶？	Can a bhikṣu alone in a room commit a pārājika offense by having sex?
+['ZH_T23_1441_008:0611c22_21']	」答：	」答：	The answer:
+['ZH_T23_1441_008:0611c23_2']	「有。	「有。	There can be.
+['ZH_T23_1441_008:0611c23_6']	謂根長。	謂根長。	Namely, if the organ is long.
+['ZH_T23_1441_008:0611c24_1']	」問：	」問：	Question:
+['ZH_T23_1441_008:0611c24_20']	「有比丘，女身中破合已作婬，得何罪耶？	「有比丘，女身中破合已作婬，得何罪耶？	If a bhikṣu breaks the union in a woman's body and then has sex, what offense does he commit?
+['ZH_T23_1441_008:0611c24_23', 'ZH_T23_1441_008:0611c25_10']	」答：🔽「若合處際現，偷羅遮。	」答： 「若合處際現，偷羅遮。	The answer:🔽If the place of union is visible, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0611c25_19']	合處不現，波羅夷。	合處不現，波羅夷。	If the place of union is not visible, it is a pārājika offense.
+['ZH_T23_1441_008:0611c26_1']	」問：	」問：	Asked:
+['ZH_T23_1441_008:0611c26_18']	「頗有比丘，女根截已作婬，得何罪？	「頗有比丘，女根截已作婬，得何罪？	Is there a case where a bhikṣu, after having had his female organ cut off, engages in sexual activity and incurs what offense?
+['ZH_T23_1441_008:0611c26_21', 'ZH_T23_1441_008:0611c27_3']	」答：🔽「得偷羅遮。	」答： 「得偷羅遮。	Answered:🔽He incurs a sthūlātyaya offense.
+['ZH_T23_1441_008:0611c27_13']	男根觸女根，突吉羅。	男根觸女根，突吉羅。	Touching the female organ with the male organ is a duṣkṛta offense.
+['ZH_T23_1441_008:0611c28_1']	」問：	」問：	Asked:
+['ZH_T23_1441_008:0611c28_18']	「如佛所說，有間有間作婬，波羅夷。	「如佛所說，有間有間作婬，波羅夷。	As the Buddha has said, 'Engaging in sexual activity with intervals is a pārājika offense.'
+['ZH_T23_1441_008:0611c29_11']	頗有比丘有間有間作婬不犯耶？	頗有比丘有間有間作婬不犯耶？	Is there a case where a bhikṣu engages in sexual activity with intervals and does not commit an offense?
+['ZH_T23_1441_008:0611c29_14']	」答：	」答：	Answered:
+['ZH_T23_1441_008:0611c29_17']	「有。	「有。	There is.
+['ZH_T23_1441_008:0612a01_10']	多以衣裹皮囊竹筩作婬，偷羅遮。	多以衣裹皮囊竹筩作婬，偷羅遮。	Wrapping it with many layers of cloth, a skin bag, or a bamboo tube and engaging in sexual activity is a sthūlātyaya offense.
+['ZH_T23_1441_008:0612a02_1']	」問：	」問：	Asked:
+['ZH_T23_1441_008:0612a02_18']	「頗有比丘共女人作婬不犯波羅夷耶？	「頗有比丘共女人作婬不犯波羅夷耶？	Is there a case where a bhikṣu engages in sexual activity with a woman and does not commit a pārājika offense?
+['ZH_T23_1441_008:0612a02_21']	」答：	」答：	Answered:
+['ZH_T23_1441_008:0612a03_2']	「有。	「有。	There is.
+['ZH_T23_1441_008:0612a04_3']	本犯戒、本不和合、賊住、污染比丘尼，犯突吉羅。	本犯戒、本不和合、賊住、污染比丘尼，犯突吉羅。	A bhikṣu who has previously violated the precepts, who has not been fully ordained, who is a thief, or who has defiled a bhikṣuṇī commits a duṣkṛta offense.
+['ZH_T23_1441_008:0612a05_1']	」問：	」問：	Asked:
+['ZH_T23_1441_008:0612a05_15']	「若比丘眠中共作婬，犯何罪？	「若比丘眠中共作婬，犯何罪？	If a bhikṣu is sleeping and engages in sexual activity, what offense does he commit?
+['ZH_T23_1441_008:0612a05_18']	」答：	」答：	Answered:
+['ZH_T23_1441_008:0612a06_5']	「若知比丘想，波羅夷。	「若知比丘想，波羅夷。	If he knows it is a bhikṣu, it is a pārājika offense.
+['ZH_T23_1441_008:0612a06_16']	若不知比丘想，偷羅遮。	若不知比丘想，偷羅遮。	If one does not know the thought of a bhikṣu, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0612a07_1']	」問：	」問：	Question:
+['ZH_T23_1441_008:0612a07_17']	「若比丘二八十人中取分，得何罪？	「若比丘二八十人中取分，得何罪？	If a bhikṣu takes a share among two or eighty people, what offense does he incur?
+['ZH_T23_1441_008:0612a07_20', 'ZH_T23_1441_008:0612a08_1']	」答：🔽「偷羅遮。	」答： 「偷羅遮。	Answer:🔽It is a sthūlātyaya offense.
+['ZH_T23_1441_008:0612a08_10', 'ZH_T23_1441_008:0612a08_20']	彼作妄語，波夜提。🔽若分物已滿，波羅夷；	彼作妄語，波夜提。 若分物已滿，波羅夷；	If he speaks falsely, it is a pāyantika offense.🔽If the shared property is complete, it is a pārājika offense;
+['ZH_T23_1441_008:0612a09_6']	不滿，偷羅遮。	不滿，偷羅遮。	if it is incomplete, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0612a10_1']	」問：	」問：	Question:
+['ZH_T23_1441_008:0612a10_18']	「如佛所說，取重物離本處，波羅夷。	「如佛所說，取重物離本處，波羅夷。	As the Buddha has said, taking heavy objects away from their original place is a pārājika offense.
+['ZH_T23_1441_008:0612a11_11']	頗有比丘取重物離本處不犯耶？	頗有比丘取重物離本處不犯耶？	Can there be a bhikṣu who takes heavy objects away from their original place without committing an offense?
+['ZH_T23_1441_008:0612a11_14']	」答：	」答：	Answer:
+['ZH_T23_1441_008:0612a11_17']	「有。	「有。	There can be.
+['ZH_T23_1441_008:0612a11_21']	謂輕物。	謂輕物。	Namely, light objects.
+['ZH_T23_1441_008:0612a12_1']	」問：	」問：	Question:
+['ZH_T23_1441_008:0612a12_10']	「若商客語比丘言：	「若商客語比丘言：	If merchants say to a bhikṣu:
+['ZH_T23_1441_008:0612a12_14']	『大德！	『大德！	'Venerable sir!
+['ZH_T23_1441_008:0612a13_1']	汝等出家人不輸稅。	汝等出家人不輸稅。	You renunciant people do not pay taxes.
+['ZH_T23_1441_008:0612a13_7']	為我度稅物。	為我度稅物。	Pass our taxable goods through for us.'
+['ZH_T23_1441_008:0612a13_12']	』得何罪？	』得何罪？	What offense does he incur?
+['ZH_T23_1441_008:0612a13_15', 'ZH_T23_1441_008:0612a14_1']	」答：🔽「若許、未度，偷羅遮。	」答： 「若許、未度，偷羅遮。	Answer:🔽If he agrees but has not yet passed them through, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0612a14_10']	若作方便，突吉羅。	若作方便，突吉羅。	If he makes an effort, it is a duṣkṛta offense.
+['ZH_T23_1441_008:0612a15_9']	若商客未至稅處，示餘道，隨語去，偷羅遮。	若商客未至稅處，示餘道，隨語去，偷羅遮。	If the merchants have not yet reached the tax point and the monk shows them another route, and they follow his words and leave, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0612a15_21']	商客未至稅處，語比丘言：	商客未至稅處，語比丘言：	If the merchants have not yet reached the tax point and say to the monk:
+['ZH_T23_1441_008:0612a16_6']	『與我度稅物。	『與我度稅物。	Help us smuggle goods across the border.
+['ZH_T23_1441_008:0612a16_19']	』若許、未度稅處，突吉羅。	』若許、未度稅處，突吉羅。	If the monk agrees but has not yet helped them smuggle across the border, it is a duṣkṛta offense.
+['ZH_T23_1441_008:0612a17_5']	度稅處滿，偷羅遮。	度稅處滿，偷羅遮。	If they have smuggled across the border, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0612a17_17']	商客未至稅處，語比丘言：	商客未至稅處，語比丘言：	If the merchants have not yet reached the tax point and say to the monk:
+['ZH_T23_1441_008:0612a18_8']	『與我度稅物，與汝半稅直。	『與我度稅物，與汝半稅直。	Help us smuggle goods across the border and we will give you half the tax.
+['ZH_T23_1441_008:0612a18_20']	』比丘為度，滿，偷羅遮。	』比丘為度，滿，偷羅遮。	If the monk helps them smuggle across the border, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0612a19_3']	商客語比丘：	商客語比丘：	If the merchants say to the monk:
+['ZH_T23_1441_008:0612a19_16']	『與我度稅物，稅直都與汝。	『與我度稅物，稅直都與汝。	Help us smuggle goods across the border and we will give you the entire tax.
+['ZH_T23_1441_008:0612a20_5']	』比丘為度，滿，偷羅遮。	』比丘為度，滿，偷羅遮。	If the monk helps them smuggle across the border, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0612a21_7']	」商客到稅處語言：	」商客到稅處語言：	If the merchants reach the tax point and say:
+['ZH_T23_1441_008:0612a21_14']	「與我度稅物。	「與我度稅物。	Help us smuggle goods across the border.
+['ZH_T23_1441_008:0612a22_7']	」比丘為度物，直五錢，波羅夷。	」比丘為度物，直五錢，波羅夷。	If the monk helps them smuggle goods across the border worth five coins, it is a pārājika offense.
+['ZH_T23_1441_008:0612a23_9']	商客到稅界語比丘言：	商客到稅界語比丘言：	If the merchants reach the tax point and say to the monk:
+['ZH_T23_1441_008:0612a24_1']	「與我度物，稅直半與汝。	「與我度物，稅直半與汝。	Help us smuggle goods across the border and we will give you half the tax.
+['ZH_T23_1441_008:0612a24_13']	」比丘為度，滿，波羅夷。	」比丘為度，滿，波羅夷。	If the monk helps them cross and the value is complete, it is a pārājika offense.
+['ZH_T23_1441_008:0612a24_19']	商客語比丘：	商客語比丘：	The merchants say to the monk:
+['ZH_T23_1441_008:0612a25_8']	「為我度稅物，稅直盡與汝。	「為我度稅物，稅直盡與汝。	Help us cross the customs barrier and we will give you all the customs fees.
+['ZH_T23_1441_008:0612a25_20']	」比丘為度，滿，波羅夷。	」比丘為度，滿，波羅夷。	If the monk helps them cross and the value is complete, it is a pārājika offense.
+['ZH_T23_1441_008:0612a26_1']	問：	問：	Question:
+['ZH_T23_1441_008:0612a26_18']	「如佛所說，取重物離本處，波羅夷。	「如佛所說，取重物離本處，波羅夷。	As the Buddha has said, taking heavy goods away from their original place is a pārājika offense.
+['ZH_T23_1441_008:0612a27_11', 'ZH_T23_1441_008:0612a27_14']	頗有取重物離本處不犯波羅夷耶？🔽」答：	頗有取重物離本處不犯波羅夷耶？ 」答：	Is there a case of taking heavy goods away from their original place that does not constitute a pārājika offense?🔽Answer:
+['ZH_T23_1441_008:0612a27_17']	「有。	「有。	There is.
+['ZH_T23_1441_008:0612a29_9']	商客以稅物盜著比丘鉢囊中、若衣囊針囊中，比丘不知度稅處，突吉羅。	商客以稅物盜著比丘鉢囊中、若衣囊針囊中，比丘不知度稅處，突吉羅。	If merchants secretly place goods subject to customs duties in the monk's alms bowl bag, robe bag, or needle bag, and the monk does not know he is crossing the customs barrier, it is a duṣkṛta offense.
+['ZH_T23_1441_008:0612b01_3']	若比丘口中度稅物，滿，偷羅遮。	若比丘口中度稅物，滿，偷羅遮。	If the monk helps them cross the customs barrier by mouth, and the value is complete, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0612b01_17']	若比丘度不可稱量物，波羅夷。	若比丘度不可稱量物，波羅夷。	If the monk helps them cross with goods that cannot be weighed, it is a pārājika offense.
+['ZH_T23_1441_008:0612b02_8']	度可稱量物，偷羅遮。	度可稱量物，偷羅遮。	If he helps them cross with goods that can be weighed, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0612b03_3']	不可稱量物，謂物少、價直不可量。	不可稱量物，謂物少、價直不可量。	Goods that cannot be weighed means goods of little value that cannot be measured.
+['ZH_T23_1441_008:0612b03_12']	若餘處度，偷羅遮。	若餘處度，偷羅遮。	If he helps them cross elsewhere, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0612b04_1']	」問：	」問：	Question:
+['ZH_T23_1441_008:0612b05_7']	「如佛所說五種劫，謂偷取、軟語取、苦切取、寄取、偷法。	「如佛所說五種劫，謂偷取、軟語取、苦切取、寄取、偷法。	As the Buddha said, there are five kinds of robbery: stealing, taking with soft words, taking with harsh words, taking on loan, and stealing by deceitful means.
+['ZH_T23_1441_008:0612b05_20']	此五種偷，何者犯波羅夷耶？	此五種偷，何者犯波羅夷耶？	Among these five kinds of stealing, which one constitutes a pārājika offense?
+['ZH_T23_1441_008:0612b06_1']	」答：	」答：	The answer:
+['ZH_T23_1441_008:0612b06_13']	「除偷法，餘犯波羅夷取。	「除偷法，餘犯波羅夷取。	Except for stealing by deceitful means, the rest constitute a pārājika offense if the value is met.
+['ZH_T23_1441_008:0612b07_9']	佛舍利有主，若為自活偷，滿，波羅夷；	佛舍利有主，若為自活偷，滿，波羅夷；	If the Buddha's relics have an owner, and one steals them for one's own livelihood, it is a pārājika offense if the value is met;
+['ZH_T23_1441_008:0612b07_16']	不滿，偷羅遮。	不滿，偷羅遮。	if not met, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0612b08_8']	若增惡取，彼我俱無，偷羅遮。	若增惡取，彼我俱無，偷羅遮。	If one takes them with an evil intention, thinking 'Both he and I have none,' it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0612b09_11']	若為供養故，佛是我師，我應供養，滿五錢，突吉羅。	若為供養故，佛是我師，我應供養，滿五錢，突吉羅。	If it is for the purpose of making offerings, thinking 'The Buddha is my teacher, and I should make offerings to him,' it is a duṣkṛta offense if the value is met.
+['ZH_T23_1441_008:0612b10_1']	」問：	」問：	The question:
+['ZH_T23_1441_008:0612b10_13']	「若比丘偷經物，得何罪？	「若比丘偷經物，得何罪？	If a bhikṣu steals scriptures, what offense does he incur?
+['ZH_T23_1441_008:0612b10_16']	」答：	」答：	The answer:
+['ZH_T23_1441_008:0612b10_23']	「滿，波羅夷；	「滿，波羅夷；	If the value is met, it is a pārājika offense;
+['ZH_T23_1441_008:0612b11_5']	不滿，偷羅遮。	不滿，偷羅遮。	if not met, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0612b11_15']	若為書經故取，不犯。	若為書經故取，不犯。	If he takes them for the purpose of copying the scriptures, he does not commit an offense.
+['ZH_T23_1441_008:0612b12_2']	若偷經，滿，波羅夷；	若偷經，滿，波羅夷；	If he steals scriptures, it is a pārājika offense if the value is met;
+['ZH_T23_1441_008:0612b12_9']	不滿，偷羅遮。	不滿，偷羅遮。	if not met, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0612b12_18']	若讀誦書寫，不犯。	若讀誦書寫，不犯。	If one reads, recites, or writes it, there is no offense.
+['ZH_T23_1441_008:0612b13_1']	」問：	」問：	 Question:
+['ZH_T23_1441_008:0612b14_13']	「若人廟中物、支提物，若白衣家中莊嚴具，若比丘偷心取，得何罪耶？	「若人廟中物、支提物，若白衣家中莊嚴具，若比丘偷心取，得何罪耶？	If a person steals objects from a shrine or from a caitya, or if a bhikṣu steals ornaments from a layperson's house, what offense does he commit?
+['ZH_T23_1441_008:0612b14_16']	」答：	」答：	Answer:
+['ZH_T23_1441_008:0612b15_5']	「若有主守護，滿，波羅夷；	「若有主守護，滿，波羅夷；	If there is an owner who guards it and the value is complete, it is a pārājika offense;
+['ZH_T23_1441_008:0612b15_12']	不滿，偷羅遮。	不滿，偷羅遮。	if the value is not complete, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0612b16_9']	若取非人物廟等亦如是，滿，偷羅遮；	若取非人物廟等亦如是，滿，偷羅遮；	If one steals objects belonging to non-humans from a shrine or other place, it is the same. If the value is complete, it is a sthūlātyaya offense;
+['ZH_T23_1441_008:0612b16_16']	不滿，突吉羅。	不滿，突吉羅。	if the value is not complete, it is a duṣkṛta offense.
+['ZH_T23_1441_008:0612b17_1']	」問：	」問：	 Question:
+['ZH_T23_1441_008:0612b17_15']	「若比丘至白衣家語居士婦言：	「若比丘至白衣家語居士婦言：	If a bhikṣu goes to a layperson's house and says to the layperson's wife:
+['ZH_T23_1441_008:0612b17_19', 'ZH_T23_1441_008:0612b18_3']	『居士！🔽與我某甲物。	『居士！ 與我某甲物。	'Laywoman!
+['ZH_T23_1441_008:0612b18_11']	』得已犯何罪耶？	』得已犯何罪耶？	Give me such-and-such an object.' Having obtained it, what offense does he commit?
+['ZH_T23_1441_008:0612b18_14']	」答：	」答：	Answer:
+['ZH_T23_1441_008:0612b18_23']	「若物滿，偷羅遮；	「若物滿，偷羅遮；	If the value of the object is complete, it is a sthūlātyaya offense;
+['ZH_T23_1441_008:0612b19_6']	不滿，突吉羅。	不滿，突吉羅。	if the value is not complete, it is a duṣkṛta offense.
+['ZH_T23_1441_008:0612b19_14']	至居士所亦如是。	至居士所亦如是。	Going to the layperson's husband is the same.
+['ZH_T23_1441_008:0612b20_1']	」問：	」問：	 Question:
+['ZH_T23_1441_008:0612b20_20']	「若闇夜中有衣，四比丘共偷取，得何罪？	「若闇夜中有衣，四比丘共偷取，得何罪？	If in the dark of night there is clothing, and four bhikṣus together steal it, what offense do they commit?
+['ZH_T23_1441_008:0612b21_1']	」答：	」答：	Answer:
+['ZH_T23_1441_008:0612b21_10']	「物未分，偷羅遮。	「物未分，偷羅遮。	If the goods have not yet been divided, it is a thullaccaya offense.
+['ZH_T23_1441_008:0612b21_20']	分已，各滿，波羅夷；	分已，各滿，波羅夷；	If they have been divided and each one is worth the amount, it is a pārājika offense;
+['ZH_T23_1441_008:0612b22_3']	不滿，偷羅遮。	不滿，偷羅遮。	if they are not worth the amount, it is a thullaccaya offense.
+['ZH_T23_1441_008:0612b23_1']	」問：	」問：	Question:
+['ZH_T23_1441_008:0612b23_20']	「若人物著衣架上，比丘偷心取，得何罪？	「若人物著衣架上，比丘偷心取，得何罪？	If a bhikṣu steals an article from a rack, what offense does he commit?
+['ZH_T23_1441_008:0612b23_23', 'ZH_T23_1441_008:0612b24_8']	」答：🔽「選擇時，偷羅遮。	」答： 「選擇時，偷羅遮。	Answer:🔽When selecting, it is a thullaccaya offense.
+['ZH_T23_1441_008:0612b24_18']	選擇已，滿，波羅夷；	選擇已，滿，波羅夷；	If the selected article is worth the amount, it is a pārājika offense;
+['ZH_T23_1441_008:0612b25_2', 'ZH_T23_1441_008:0612b25_10']	不滿，偷羅遮。🔽合架取，偷羅遮。	不滿，偷羅遮。 合架取，偷羅遮。	if it is not worth the amount, it is a thullaccaya offense.🔽If the rack is taken together, it is a thullaccaya offense.
+['ZH_T23_1441_008:0612b25_20']	物離架，滿，波羅夷；	物離架，滿，波羅夷；	If the article is removed from the rack and is worth the amount, it is a pārājika offense;
+['ZH_T23_1441_008:0612b26_5']	不滿，偷羅遮。	不滿，偷羅遮。	if it is not worth the amount, it is a thullaccaya offense.
+['ZH_T23_1441_008:0612b26_11']	衣囊亦如是。	衣囊亦如是。	The same applies to a garment bag.
+['ZH_T23_1441_008:0612b27_1']	」餘物隨其義應當知。	」餘物隨其義應當知。	The remaining articles should be understood according to their meaning.
+['ZH_T23_1441_008:0612b28_1']	問：	問：	Question:
+['ZH_T23_1441_008:0612b28_10']	「為他偷，得何罪？	「為他偷，得何罪？	What offense does one commit for stealing on behalf of others?
+['ZH_T23_1441_008:0612b28_13']	」答：	」答：	Answer:
+['ZH_T23_1441_008:0612b28_18']	「偷羅遮。	「偷羅遮。	It is a thullaccaya offense.
+['ZH_T23_1441_008:0612b29_1']	」問：	」問：	Question:
+['ZH_T23_1441_008:0612b29_17']	「如佛所說，比丘取五錢，波羅夷。	「如佛所說，比丘取五錢，波羅夷。	As the Buddha said, a bhikṣu who takes five coins commits a pārājika offense.
+['ZH_T23_1441_008:0612c01_9', 'ZH_T23_1441_008:0612c01_12']	頗有比丘取五錢不犯波羅夷耶？🔽」答：	頗有比丘取五錢不犯波羅夷耶？ 」答：	Is there a bhikṣu who takes five coins but does not commit a pārājika offense?🔽Answer:
+['ZH_T23_1441_008:0612c01_15']	「有。	「有。	There is.
+['ZH_T23_1441_008:0612c01_21']	若迦梨仙賤。	若迦梨仙賤。	If the sage Kali is despised,
+['ZH_T23_1441_008:0612c02_1']	」問：	」問：	asked:
+['ZH_T23_1441_008:0612c02_12']	「頗有比丘偷衣不犯耶？	「頗有比丘偷衣不犯耶？	Can a bhikṣu steal clothes without committing an offense?
+['ZH_T23_1441_008:0612c02_15']	」答：	」答：	replied:
+['ZH_T23_1441_008:0612c02_18']	「有。	「有。	There can be.
+['ZH_T23_1441_008:0612c02_23']	衣減五錢。	衣減五錢。	If the clothes are worth less than five coins.
+['ZH_T23_1441_008:0612c03_1']	」問：	」問：	asked:
+['ZH_T23_1441_008:0612c04_1']	「如佛所說，比丘取重物移著處處，犯波羅夷。	「如佛所說，比丘取重物移著處處，犯波羅夷。	As the Buddha said, if a bhikṣu takes heavy objects and moves them around, he commits a pārājika offense.
+['ZH_T23_1441_008:0612c04_18']	頗有比丘移重物著處處不犯波羅夷耶？	頗有比丘移重物著處處不犯波羅夷耶？	Can a bhikṣu move heavy objects around without committing a pārājika offense?
+['ZH_T23_1441_008:0612c05_1']	」答：	」答：	replied:
+['ZH_T23_1441_008:0612c05_4']	「有。	「有。	There can be.
+['ZH_T23_1441_008:0612c06_18']	若共行弟子、近住弟子作偷意取和上阿闍梨物，轉上著下、轉下著上，偷羅遮。	若共行弟子、近住弟子作偷意取和上阿闍梨物，轉上著下、轉下著上，偷羅遮。	If a śrāmaṇera or śrāmaṇerikā steals the belongings of his preceptor or teacher with the intention to steal, and moves them from a higher to a lower place or from a lower to a higher place, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0612c07_1']	」問：	」問：	asked:
+['ZH_T23_1441_008:0612c07_16']	「比丘疑物，彼人物、非彼人物？	「比丘疑物，彼人物、非彼人物？	If a bhikṣu is unsure whether an object belongs to someone or not,
+['ZH_T23_1441_008:0612c08_6']	實是彼人物，取得何罪？	實是彼人物，取得何罪？	and it actually belongs to someone, what offense does he commit by taking it?
+['ZH_T23_1441_008:0612c08_9']	」答：	」答：	replied:
+['ZH_T23_1441_008:0612c08_14']	「偷羅遮。	「偷羅遮。	A sthūlātyaya offense.
+['ZH_T23_1441_008:0612c09_1']	非彼人物，亦偷羅遮。	非彼人物，亦偷羅遮。	If it does not belong to anyone, it is also a sthūlātyaya offense.
+['ZH_T23_1441_008:0612c10_1']	」問：	」問：	asked:
+['ZH_T23_1441_008:0612c10_16']	「如佛所說，若取五錢，波羅夷。	「如佛所說，若取五錢，波羅夷。	As the Buddha said, if one takes five coins, it is a pārājika offense.
+['ZH_T23_1441_008:0612c11_4']	云何五錢？	云何五錢？	What is meant by five coins?
+['ZH_T23_1441_008:0612c11_7']	」答：	」答：	He replied:
+['ZH_T23_1441_008:0612c12_12']	「四迦呵那一迦梨仙，迦梨仙直二十錢，取五錢，波羅夷。	「四迦呵那一迦梨仙，迦梨仙直二十錢，取五錢，波羅夷。	One kāhaṇika is worth twenty coins. Taking five coins is a pārājika offense.
+['ZH_T23_1441_008:0612c13_19', 'ZH_T23_1441_008:0612c14_18', 'ZH_T23_1441_008:0612c15_17']	」未受具戒時作方便，未受具戒時得，突吉羅。🔽未受具戒時作方便，受具戒時得，突吉羅。🔽未受具戒時作方便，受具戒已得，偷羅遮。	」未受具戒時作方便，未受具戒時得，突吉羅。 未受具戒時作方便，受具戒時得，突吉羅。 未受具戒時作方便，受具戒已得，偷羅遮。	If one makes an effort to steal before receiving full ordination, and obtains it after receiving full ordination, it is a duṣkṛta offense.🔽If one makes an effort to steal before receiving full ordination, and obtains it at the time of receiving full ordination, it is a duṣkṛta offense.🔽If one makes an effort to steal before receiving full ordination, and obtains it after receiving full ordination, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0612c16_14', 'ZH_T23_1441_008:0612c17_18']	受具戒時作方便，受具戒得，突吉羅。🔽受具戒時作方便，受具戒已離處，偷羅遮。	受具戒時作方便，受具戒得，突吉羅。 受具戒時作方便，受具戒已離處，偷羅遮。	If one makes an effort to steal at the time of receiving full ordination, and obtains it at the time of receiving full ordination, it is a duṣkṛta offense.🔽If one makes an effort to steal at the time of receiving full ordination, and obtains it after leaving the place, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0612c18_16']	受具戒時作方便，受具戒時得，偷羅遮。	受具戒時作方便，受具戒時得，偷羅遮。	If one makes an effort to steal at the time of receiving full ordination, and obtains it at the time of receiving full ordination, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0612c19_1']	問：	問：	He asked:
+['ZH_T23_1441_008:0612c19_17']	「若比丘盜寺舍地，幾事犯波羅夷？	「若比丘盜寺舍地，幾事犯波羅夷？	If a bhikṣu steals the land of a monastery, how many things constitute a pārājika offense?
+['ZH_T23_1441_008:0612c19_20']	」答：	」答：	He replied:
+['ZH_T23_1441_008:0612c20_12']	「二事，鬪諍相言、鬪諍取，偷羅遮。	「二事，鬪諍相言、鬪諍取，偷羅遮。	Two things: if there is a dispute and they argue, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0612c20_19']	得勝，波羅夷。	得勝，波羅夷。	If one wins, it is a pārājika offense.
+['ZH_T23_1441_008:0612c21_5']	相言，偷羅遮。	相言，偷羅遮。	If they argue, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0612c21_14']	若勝，滿，波羅夷。	若勝，滿，波羅夷。	If one wins and the value is sufficient, it is a pārājika offense.
+['ZH_T23_1441_008:0612c22_4']	如寺舍地，田宅店肆亦如是。	如寺舍地，田宅店肆亦如是。	It is the same for temple grounds, fields, houses, and shops.
+['ZH_T23_1441_008:0612c22_21']	偷樹果、破倉，若一方便滿，波羅夷；	偷樹果、破倉，若一方便滿，波羅夷；	If one steals a tree fruit or breaks into a granary, if the value is sufficient, it is a pārājika offense;
+['ZH_T23_1441_008:0612c23_6']	不滿，偷羅遮。	不滿，偷羅遮。	if it is insufficient, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0612c23_21']	若多方便，一一方便滿，偷羅遮。	若多方便，一一方便滿，偷羅遮。	If there are many attempts, for each attempt that is sufficient, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0612c24_10']	弗于逮方便取，偷羅遮；	弗于逮方便取，偷羅遮；	If one attempts to steal in Puṣkarāvatī, it is a sthūlātyaya offense;
+['ZH_T23_1441_008:0612c24_16']	滿，波羅夷。	滿，波羅夷。	if the value is sufficient, it is a pārājika offense.
+['ZH_T23_1441_008:0612c25_8']	用此迦梨仙者不滿，偷羅遮。	用此迦梨仙者不滿，偷羅遮。	If one uses this but the value is insufficient, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0612c25_15']	俱耶尼亦如是。	俱耶尼亦如是。	The same applies to Kuru.
+['ZH_T23_1441_008:0612c26_7']	欝單越不犯，無攝受故。	欝單越不犯，無攝受故。	In Uttarakuru, there is no offense, because there is no ownership.
+['ZH_T23_1441_008:0612c27_1']	」問：	」問：	Question:
+['ZH_T23_1441_008:0612c27_15']	「或有比丘偷銅錢犯波羅夷耶？	「或有比丘偷銅錢犯波羅夷耶？	Are there bhikṣus who steal copper coins and commit pārājika offenses?
+['ZH_T23_1441_008:0612c27_18']	」答：	」答：	Answer:
+['ZH_T23_1441_008:0612c28_6']	「當計直，滿，犯波羅夷。	「當計直，滿，犯波羅夷。	One should calculate the value. If it is sufficient, it is a pārājika offense.
+['ZH_T23_1441_008:0612c29_1']	」問：	」問：	Question:
+['ZH_T23_1441_008:0612c29_18']	「如佛所說，若比丘取五錢，波羅夷。	「如佛所說，若比丘取五錢，波羅夷。	As the Buddha said, if a bhikṣu takes five coins, it is a pārājika offense.
+['ZH_T23_1441_008:0613a01_11']	頗有比丘取減五錢犯波羅夷耶？	頗有比丘取減五錢犯波羅夷耶？	Can a bhikṣu take less than five coins and commit a pārājika offense?
+['ZH_T23_1441_008:0613a01_14']	」答：	」答：	He replied:
+['ZH_T23_1441_008:0613a01_17']	「有。	「有。	There is.
+['ZH_T23_1441_008:0613a02_1']	若迦梨仙貴。	若迦梨仙貴。	If the kāliṅga coins are valuable.
+['ZH_T23_1441_008:0613a03_1']	」問：	」問：	He asked:
+['ZH_T23_1441_008:0613a03_18']	「如佛所說，若比丘取五錢，波羅夷。	「如佛所說，若比丘取五錢，波羅夷。	As the Buddha said, if a bhikṣu takes five coins, it is a pārājika offense.
+['ZH_T23_1441_008:0613a04_9']	頗有取五錢不犯波羅夷耶？	頗有取五錢不犯波羅夷耶？	Can one take five coins without committing a pārājika offense?
+['ZH_T23_1441_008:0613a04_12']	」答：	」答：	He replied:
+['ZH_T23_1441_008:0613a04_15']	「有。	「有。	There is.
+['ZH_T23_1441_008:0613a04_21']	若迦梨仙賤。	若迦梨仙賤。	If the kāliṅga coins are of little value.
+['ZH_T23_1441_008:0613a05_1']	」問：	」問：	He asked:
+['ZH_T23_1441_008:0613a06_2']	「若比丘先作偷心欲取衣，取時己有想，得何罪？	「若比丘先作偷心欲取衣，取時己有想，得何罪？	If a bhikṣu first forms the intention to steal and wants to take a robe, but when taking it he has the thought that it belongs to himself, what offense does he incur?
+['ZH_T23_1441_008:0613a06_5']	」答：	」答：	He replied:
+['ZH_T23_1441_008:0613a06_14']	「偷羅遮，後不犯。	「偷羅遮，後不犯。	A sthūlātyaya offense, and he does not commit an offense afterwards.
+['ZH_T23_1441_008:0613a07_15']	或前己有想，後作偷想，取架上衣，前不犯，後波羅夷。	或前己有想，後作偷想，取架上衣，前不犯，後波羅夷。	Or if he first has the thought that it belongs to himself, and later forms the intention to steal, and takes a robe from a rack, he does not commit an offense before, but a pārājika afterwards.
+['ZH_T23_1441_008:0613a08_1']	」問：	」問：	He asked:
+['ZH_T23_1441_008:0613a08_16']	「如佛所說，若取五錢，波羅夷。	「如佛所說，若取五錢，波羅夷。	As the Buddha said, if one takes five coins, it is a pārājika offense.
+['ZH_T23_1441_008:0613a09_6']	頗有比丘取眾多錢不犯耶？	頗有比丘取眾多錢不犯耶？	Can a bhikṣu take many coins without committing an offense?
+['ZH_T23_1441_008:0613a09_9']	」答：	」答：	He replied:
+['ZH_T23_1441_008:0613a09_12']	「有。	「有。	There is.
+['ZH_T23_1441_008:0613a09_23']	若取大眾共物，偷羅遮。	若取大眾共物，偷羅遮。	If he takes a common possession of the great assembly, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0613a10_9']	或多人共取，偷羅遮。	或多人共取，偷羅遮。	If many people take it together, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0613a11_1']	」問：	」問：	He asked:
+['ZH_T23_1441_008:0613a11_16']	「如佛所說，偷木器滿，波羅夷。	「如佛所說，偷木器滿，波羅夷。	As the Buddha said, stealing wooden utensils to the value of five māsakas is a pārājika offense.
+['ZH_T23_1441_008:0613a12_11']	頗有比丘偷木器滿五錢不犯波羅夷耶？	頗有比丘偷木器滿五錢不犯波羅夷耶？	Can a bhikṣu steal wooden utensils to the value of five māsakas without committing a pārājika offense?
+['ZH_T23_1441_008:0613a12_14']	」答：	」答：	He replied:
+['ZH_T23_1441_008:0613a12_17']	「有。	「有。	There is.
+['ZH_T23_1441_008:0613a12_22']	若為他取。	若為他取。	If he takes it for the sake of others.
+['ZH_T23_1441_008:0613a13_1']	」問：	」問：	He asked:
+['ZH_T23_1441_008:0613a14_11']	「如佛所說，若比丘偷金鬘滿，波羅夷。	「如佛所說，若比丘偷金鬘滿，波羅夷。	As the Buddha said, if a bhikṣu steals a golden garland to the value of five māsakas, it is a pārājika offense.
+['ZH_T23_1441_008:0613a15_12']	頗有偷金鬘滿不犯波羅夷耶？	頗有偷金鬘滿不犯波羅夷耶？	Can one steal a golden garland to the value of five māsakas without committing a pārājika offense?
+['ZH_T23_1441_008:0613a15_15']	」答：	」答：	He replied:
+['ZH_T23_1441_008:0613a15_18']	「有。	「有。	There is.
+['ZH_T23_1441_008:0613a16_7']	若取非人金鬘，偷羅遮。	若取非人金鬘，偷羅遮。	If one takes a non-human's golden garland, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0613a17_1']	」問：	」問：	He asked:
+['ZH_T23_1441_008:0613a17_13']	「若有比丘偷水，得何罪？	「若有比丘偷水，得何罪？	If a bhikṣu steals water, what offense does he incur?
+['ZH_T23_1441_008:0613a17_16']	」答：	」答：	He replied:
+['ZH_T23_1441_008:0613a18_1']	「當量水，滿，波羅夷；	「當量水，滿，波羅夷；	If the water is worth five māsakas, it is a pārājika offense;
+['ZH_T23_1441_008:0613a18_8']	不滿，偷羅遮。	不滿，偷羅遮。	if it is not worth five māsakas, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0613a19_1']	」問：	」問：	He asked:
+['ZH_T23_1441_008:0613a19_15']	「若有比丘偷坡塘水，得何罪？	「若有比丘偷坡塘水，得何罪？	If a bhikṣu steals water from a canal, what offense does he incur?
+['ZH_T23_1441_008:0613a20_3']	」「計功，水滿，波羅夷；	」「計功，水滿，波羅夷；	If the value of the water is worth five māsakas, it is a pārājika offense;
+['ZH_T23_1441_008:0613a20_10']	不滿，偷羅遮。	不滿，偷羅遮。	If it is less, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0613a21_1']	」問：	」問：	Question:
+['ZH_T23_1441_008:0613a21_15']	「如佛所說，取五錢，波羅夷。	「如佛所說，取五錢，波羅夷。	As the Buddha said, taking five coins is a pārājika offense.
+['ZH_T23_1441_008:0613a22_7']	頗有比丘取百千迦梨仙不犯耶？	頗有比丘取百千迦梨仙不犯耶？	Can a bhikṣu take a hundred thousand kārṣāpaṇas without committing an offense?
+['ZH_T23_1441_008:0613a22_10']	」答：	」答：	Answer:
+['ZH_T23_1441_008:0613a22_13']	「有。	「有。	There are cases.
+['ZH_T23_1441_008:0613a23_16']	自己想取、同意取、暫時取、語他取、無主想取、無盜心取。	自己想取、同意取、暫時取、語他取、無主想取、無盜心取。	Taking with the thought of one's own, taking with consent, taking temporarily, taking with speech, taking with the thought that it has no owner, taking with no thought of stealing.
+['ZH_T23_1441_008:0613a24_1']	」問：	」問：	Question:
+['ZH_T23_1441_008:0613a24_18']	「如佛所說，若比丘取五錢，波羅夷。	「如佛所說，若比丘取五錢，波羅夷。	As the Buddha said, if a bhikṣu takes five coins, it is a pārājika offense.
+['ZH_T23_1441_008:0613a25_10']	頗有比丘取百千迦梨仙不犯耶？	頗有比丘取百千迦梨仙不犯耶？	Can a bhikṣu take a hundred thousand kārṣāpaṇas without committing an offense?
+['ZH_T23_1441_008:0613a25_13']	」答：	」答：	Answer:
+['ZH_T23_1441_008:0613a25_16']	「有。	「有。	There are cases.
+['ZH_T23_1441_008:0613a26_7']	取四錢，數數取，一一偷羅遮。	取四錢，數數取，一一偷羅遮。	Taking four coins, taking repeatedly, each time is a sthūlātyaya offense.
+['ZH_T23_1441_008:0613a27_7']	若比丘偷心取、自己想舉，前偷羅遮，後不犯。	若比丘偷心取、自己想舉，前偷羅遮，後不犯。	If a bhikṣu takes with a thieving mind, but lifts it with the thought of his own, the previous is a sthūlātyaya offense, and the latter is not an offense.
+['ZH_T23_1441_008:0613a28_10']	若自想取、偷心舉，前不犯，後心若滿五錢，波羅夷。	若自想取、偷心舉，前不犯，後心若滿五錢，波羅夷。	If he takes with the thought of his own, but lifts it with a thieving mind, the previous is not an offense, but if the latter mind is worth five coins or more, it is a pārājika offense.
+['ZH_T23_1441_008:0613a28_17']	不滿，偷羅遮。	不滿，偷羅遮。	If it is less, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0613a29_1']	」問：	」問：	Question:
+['ZH_T23_1441_008:0613b01_2']	「若人藏寶若似寶著地中，比丘取棄，犯何罪？	「若人藏寶若似寶著地中，比丘取棄，犯何罪？	If a person hides treasure or treasure-like objects in the ground, and a bhikṣu takes them and discards them, what offense does he commit?
+['ZH_T23_1441_008:0613b01_5']	」答：	」答：	The answer:
+['ZH_T23_1441_008:0613b01_10']	「偷羅遮。	「偷羅遮。	Thullaccaya.
+['ZH_T23_1441_008:0613b02_1']	」問：	」問：	The question:
+['ZH_T23_1441_008:0613b02_19']	「若地寶涌出，比丘作己物取，得何罪？	「若地寶涌出，比丘作己物取，得何罪？	If treasure emerges from the ground, and a bhikṣu takes it as his own, what offense does he incur?
+['ZH_T23_1441_008:0613b02_22']	」答：	」答：	The answer:
+['ZH_T23_1441_008:0613b03_4']	「偷羅遮。	「偷羅遮。	Thullaccaya.
+['ZH_T23_1441_008:0613b03_16']	若他物想取，滿，波羅夷；	若他物想取，滿，波羅夷；	If he takes it with the thought that it belongs to someone else, and it is worth the full amount, it is a pārājika offense;
+['ZH_T23_1441_008:0613b04_1']	不滿，偷羅遮。	不滿，偷羅遮。	if it is not worth the full amount, it is a thullaccaya offense.
+['ZH_T23_1441_008:0613b04_12']	若手印取，滿，波羅夷；	若手印取，滿，波羅夷；	If he takes it with a hand signal, and it is worth the full amount, it is a pārājika offense;
+['ZH_T23_1441_008:0613b04_19', 'ZH_T23_1441_008:0613b05_1']	不滿，偷羅遮。🔽」問：	不滿，偷羅遮。 」問：	if it is not worth the full amount, it is a thullaccaya offense. The question:
+['ZH_T23_1441_008:0613b05_13']	「取不用迦梨仙，得何罪？	「取不用迦梨仙，得何罪？	If one takes it without using a kāliṅga measure, what offense does one commit?
+['ZH_T23_1441_008:0613b05_16']	」答：	」答：	The answer:
+['ZH_T23_1441_008:0613b06_1', 'ZH_T23_1441_008:0613b06_8']	「量價滿，波羅夷；🔽不滿，偷羅遮。	「量價滿，波羅夷； 不滿，偷羅遮。	If the value is worth the full amount, it is a pārājika offense;
+['ZH_T23_1441_008:0613b07_1']	」問：	」問：	if it is not worth the full amount, it is a thullaccaya offense. The question:
+['ZH_T23_1441_008:0613b07_20']	「如佛所說，比丘移重物著處處，波羅夷。	「如佛所說，比丘移重物著處處，波羅夷。	As the Buddha said, if a bhikṣu moves heavy objects from one place to another, it is a pārājika offense.
+['ZH_T23_1441_008:0613b08_12', 'ZH_T23_1441_008:0613b08_15']	頗有比丘移重物著處處不犯耶？🔽」答：	頗有比丘移重物著處處不犯耶？ 」答：	Is there a case where a bhikṣu moves heavy objects from one place to another without committing an offense?🔽The answer:
+['ZH_T23_1441_008:0613b08_18']	「有。	「有。	There is.
+['ZH_T23_1441_008:0613b09_17']	一比丘擔著遠處，第二比丘移著處處，偷羅遮。	一比丘擔著遠處，第二比丘移著處處，偷羅遮。	If a bhikṣu carries it to a distant place, and a second bhikṣu moves it to various places, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0613b10_1']	」問：	」問：	 Question:
+['ZH_T23_1441_008:0613b10_17']	「若比丘，居士衣同意取，得何罪？	「若比丘，居士衣同意取，得何罪？	If a bhikṣu takes a layperson's robe with the same intention, what offense does he commit?
+['ZH_T23_1441_008:0613b10_20']	」答：	」答：	Answer:
+['ZH_T23_1441_008:0613b10_25']	「偷羅遮。	「偷羅遮。	It is a sthūlātyaya offense.
+['ZH_T23_1441_008:0613b11_4']	若居士言：	若居士言：	If a layperson says:
+['ZH_T23_1441_008:0613b11_12']	『我此衣與大德。	『我此衣與大德。	'I give this robe to the Venerable One.'
+['ZH_T23_1441_008:0613b12_5']	』若比丘施意想受用，偷羅遮。	』若比丘施意想受用，偷羅遮。	If the bhikṣu accepts it with the intention of giving, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0613b12_14']	若綖若華果亦如是。	若綖若華果亦如是。	If it is thread, flowers, or fruit, it is the same.
+['ZH_T23_1441_008:0613b13_1']	」問：	」問：	 Question:
+['ZH_T23_1441_008:0613b13_17']	「若比丘變金作銅度稅處，得何罪？	「若比丘變金作銅度稅處，得何罪？	If a bhikṣu transforms gold into copper and passes through a tax checkpoint, what offense does he commit?
+['ZH_T23_1441_008:0613b13_20']	」答：	」答：	Answer:
+['ZH_T23_1441_008:0613b14_1']	「偷羅遮。	「偷羅遮。	It is a sthūlātyaya offense.
+['ZH_T23_1441_008:0613b15_1']	」問：	」問：	 Question:
+['ZH_T23_1441_008:0613b15_20']	「若比丘取寶取金銀，壞色已取，犯何罪？	「若比丘取寶取金銀，壞色已取，犯何罪？	If a bhikṣu takes jewels, takes gold and silver, and then takes them after changing their color, what offense does he commit?
+['ZH_T23_1441_008:0613b15_23']	」答：	」答：	Answer:
+['ZH_T23_1441_008:0613b16_8']	「量價滿，波羅夷；	「量價滿，波羅夷；	If the value is complete, it is a pārājika offense;
+['ZH_T23_1441_008:0613b16_15']	不滿，偷羅遮。	不滿，偷羅遮。	if it is not complete, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0613b17_1']	」問：	」問：	 Question:
+['ZH_T23_1441_008:0613b17_16']	「若比丘受寄已不還取，得何罪？	「若比丘受寄已不還取，得何罪？	If a bhikṣu takes what was entrusted to him and does not return it, what offense does he commit?
+['ZH_T23_1441_008:0613b17_19']	」答：	」答：	Answer:
+['ZH_T23_1441_008:0613b18_1']	「滿，波羅夷；	「滿，波羅夷；	If it is full, it is a pārājika offense;
+['ZH_T23_1441_008:0613b18_8']	不滿，偷羅遮。	不滿，偷羅遮。	if it is not full, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0613b19_12']	」若比丘取迦梨仙鑛，偷羅遮。	」若比丘取迦梨仙鑛，偷羅遮。	If a bhikṣu takes kāliṅga iron ore, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0613b20_1']	問：	問：	Question:
+['ZH_T23_1441_008:0613b20_17']	「若比丘舉他物，後不還，偷羅遮。	「若比丘舉他物，後不還，偷羅遮。	If a bhikṣu lifts another's property and does not return it later, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0613b21_2']	事竟滿，波羅夷；	事竟滿，波羅夷；	If the matter is completed and full, it is a pārājika offense;
+['ZH_T23_1441_008:0613b21_9']	不滿，偷羅遮。	不滿，偷羅遮。	if it is not full, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0613b22_10']	若比丘前決定不還，後離本處，無盜心，偷羅遮。	若比丘前決定不還，後離本處，無盜心，偷羅遮。	If a bhikṣu decides not to return it later, but does not have the intention to steal when it is removed from its original place, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0613b23_7']	若先離本處，後決定不還，滿，波羅夷；	若先離本處，後決定不還，滿，波羅夷；	If it is removed from its original place first, and he later decides not to return it, and it is full, it is a pārājika offense;
+['ZH_T23_1441_008:0613b23_14', 'ZH_T23_1441_008:0613b24_1']	不滿，偷羅遮。🔽」問：	不滿，偷羅遮。 」問：	if it is not full, it is a sthūlātyaya offense. Question:
+['ZH_T23_1441_008:0613b24_13']	「若取似迦梨仙，犯何罪？	「若取似迦梨仙，犯何罪？	If one takes something similar to kāliṅga iron ore, what offense does one commit?
+['ZH_T23_1441_008:0613b24_16']	」答：	」答：	Answer:
+['ZH_T23_1441_008:0613b24_20']	「量價。	「量價。	It is measured by its value.
+['ZH_T23_1441_008:0613b25_6']	」「若比丘偷陶器，得何罪？	」「若比丘偷陶器，得何罪？	If a bhikṣu steals a ceramic vessel, what offense does he commit?
+['ZH_T23_1441_008:0613b25_9']	」答：	」答：	Answer:
+['ZH_T23_1441_008:0613b25_14']	「量其價。	「量其價。	It is measured by its value.
+['ZH_T23_1441_008:0613b26_1']	」「若減取五錢，犯何罪？	」「若減取五錢，犯何罪？	If he takes less than five coins, what offense does he commit?
+['ZH_T23_1441_008:0613b26_8']	」「犯偷羅遮。	」「犯偷羅遮。	He commits a sthūlātyaya offense.
+['ZH_T23_1441_008:0613b27_5', 'ZH_T23_1441_008:0613b28_3']	未受具戒作方便，未受具戒時得，突吉羅。🔽未受具戒時作方便，受具戒時得，突吉羅。	未受具戒作方便，未受具戒時得，突吉羅。 未受具戒時作方便，受具戒時得，突吉羅。	If one makes preparations before receiving full ordination, and obtains it before receiving full ordination, it is duṣkṛta.🔽If one makes preparations before receiving full ordination, and obtains it at the time of receiving full ordination, it is duṣkṛta.
+['ZH_T23_1441_008:0613b29_2']	未受具戒時作方便，受具戒已得，偷羅遮。	未受具戒時作方便，受具戒已得，偷羅遮。	If one makes preparations before receiving full ordination, and obtains it after receiving full ordination, it is sthūlātyaya.
+['ZH_T23_1441_008:0613c01_1']	受具戒時作方便，受具戒已得，偷羅遮。	受具戒時作方便，受具戒已得，偷羅遮。	If one makes preparations at the time of receiving full ordination, and obtains it after receiving full ordination, it is sthūlātyaya.
+['ZH_T23_1441_008:0613c02_1']	受具戒已作方便，受具戒已得，滿，波羅夷。	受具戒已作方便，受具戒已得，滿，波羅夷。	If one makes preparations after receiving full ordination, and obtains it after receiving full ordination, it is complete, pārājika.
+['ZH_T23_1441_008:0613c03_1']	」問：	」問：	He asked:
+['ZH_T23_1441_008:0613c03_17']	「若比丘取象馬駱駝牛羊，犯何罪？	「若比丘取象馬駱駝牛羊，犯何罪？	If a bhikṣu takes elephants, horses, camels, oxen, and sheep, what offense does he commit?
+['ZH_T23_1441_008:0613c03_20']	」答：	」答：	He replied:
+['ZH_T23_1441_008:0613c04_7', 'ZH_T23_1441_008:0613c04_14']	「若自為，滿，波羅夷；🔽不滿，偷羅遮。	「若自為，滿，波羅夷； 不滿，偷羅遮。	If it is for oneself, and it is complete, it is pārājika;🔽if it is incomplete, it is sthūlātyaya.
+['ZH_T23_1441_008:0613c05_2']	若憎嫉彼故，偷羅遮。	若憎嫉彼故，偷羅遮。	If it is out of hatred for them, it is sthūlātyaya.
+['ZH_T23_1441_008:0613c05_9', 'ZH_T23_1441_008:0613c06_2']	殺取肉亦如是。🔽若解放，使彼生惱，偷羅遮。	殺取肉亦如是。 若解放，使彼生惱，偷羅遮。	Taking meat by killing is also like this.
+['ZH_T23_1441_008:0613c07_1']	」問：	」問：	If one releases them to cause them distress, it is sthūlātyaya. He asked:
+['ZH_T23_1441_008:0613c08_5']	「若比丘時作方便，轉根作比丘尼時離本處，得何罪？	「若比丘時作方便，轉根作比丘尼時離本處，得何罪？	If a bhikṣu makes an effort at the right time, and when the sex organs change, he leaves the original place, what offense does he incur?
+['ZH_T23_1441_008:0613c08_8']	」答：	」答：	The answer:
+['ZH_T23_1441_008:0613c08_15']	「滿，波羅夷；	「滿，波羅夷；	If it is full, pārājika;
+['ZH_T23_1441_008:0613c08_22']	不滿，偷羅遮。	不滿，偷羅遮。	if it is not full, sthūlātyaya.
+['ZH_T23_1441_008:0613c10_1']	比丘尼時作方便，轉根作比丘時離本處，滿，波羅夷；	比丘尼時作方便，轉根作比丘時離本處，滿，波羅夷；	If a bhikṣuṇī makes an effort at the right time, and when the sex organs change, she becomes a bhikṣu and leaves the original place, if it is full, pārājika;
+['ZH_T23_1441_008:0613c10_8']	不滿，偷羅遮。	不滿，偷羅遮。	if it is not full, sthūlātyaya.
+['ZH_T23_1441_008:0613c11_1']	」問：	」問：	Question:
+['ZH_T23_1441_008:0613c11_16']	「如佛所說，比丘偷盜，波羅夷。	「如佛所說，比丘偷盜，波羅夷。	As the Buddha said, if a bhikṣu steals, it is pārājika.
+['ZH_T23_1441_008:0613c12_5']	頗有偷盜不犯波羅夷耶？	頗有偷盜不犯波羅夷耶？	Is there stealing that does not constitute pārājika?
+['ZH_T23_1441_008:0613c12_8']	」答：	」答：	The answer:
+['ZH_T23_1441_008:0613c12_11']	「有。	「有。	There is.
+['ZH_T23_1441_008:0613c13_12']	若本犯戒、本不和合、賊住、污染比丘尼，犯突吉羅。	若本犯戒、本不和合、賊住、污染比丘尼，犯突吉羅。	If one has already violated the precepts, is not in harmony, is a thief pretending to be a monk, or defiles a bhikṣuṇī, it is a duṣkṛta offense.
+['ZH_T23_1441_008:0613c14_1']	」問：	」問：	Question:
+['ZH_T23_1441_008:0613c14_16']	「頗有未受具戒人偷犯波羅夷耶？	「頗有未受具戒人偷犯波羅夷耶？	Is there a person who has not yet received full ordination who commits pārājika by stealing?
+['ZH_T23_1441_008:0613c14_19']	」答：	」答：	The answer:
+['ZH_T23_1441_008:0613c14_22']	「有。	「有。	There is.
+['ZH_T23_1441_008:0613c15_3']	謂學戒人。	謂學戒人。	It refers to a person who is training in the precepts.
+['ZH_T23_1441_008:0613c16_1']	」問：	」問：	Question:
+['ZH_T23_1441_008:0613c16_17']	「頗有比丘變人作畜生殺，得何罪？	「頗有比丘變人作畜生殺，得何罪？	Is there a bhikṣu who changes a person into an animal and kills them, and what offense does he incur?
+['ZH_T23_1441_008:0613c17_8']	自變作畜生殺人，得何罪？	自變作畜生殺人，得何罪？	If one transforms oneself into an animal and kills a person, what crime does one commit?
+['ZH_T23_1441_008:0613c17_11']	」答：	」答：	The answer:
+['ZH_T23_1441_008:0613c18_2']	「若自知我是比丘，波羅夷；	「若自知我是比丘，波羅夷；	If one knows oneself to be a bhikṣu, it is a pārājika offense;
+['ZH_T23_1441_008:0613c18_12']	不自知比丘，偷羅遮。	不自知比丘，偷羅遮。	If one does not know oneself to be a bhikṣu, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0613c19_1']	」問：	」問：	Question:
+['ZH_T23_1441_008:0613c19_19']	「如佛所說，殺母，犯波羅夷，得逆罪。	「如佛所說，殺母，犯波羅夷，得逆罪。	As the Buddha said, one who kills one's mother commits a pārājika offense and a heinous crime.
+['ZH_T23_1441_008:0613c20_13']	頗有比丘殺母不得波羅夷不得逆罪耶？	頗有比丘殺母不得波羅夷不得逆罪耶？	Can there be a bhikṣu who kills his mother and does not commit a pārājika offense or a heinous crime?
+['ZH_T23_1441_008:0613c20_16']	」答：	」答：	The answer:
+['ZH_T23_1441_008:0613c20_19']	「有。	「有。	There can be.
+['ZH_T23_1441_008:0613c21_5']	若比丘殺愛慢母。	若比丘殺愛慢母。	If a bhikṣu kills his mother out of love and pride.
+['ZH_T23_1441_008:0613c22_14']	」若比丘欲殺餘人而殺母，偷羅遮。	」若比丘欲殺餘人而殺母，偷羅遮。	If a bhikṣu wants to kill someone else but kills his mother, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0613c23_9']	若比丘欲斫樹而斫母死，不犯。	若比丘欲斫樹而斫母死，不犯。	If a bhikṣu wants to cut down a tree but his mother dies when he cuts it down, he does not commit an offense.
+['ZH_T23_1441_008:0613c23_20']	如母，父阿羅漢亦如是。	如母，父阿羅漢亦如是。	As with a mother, so it is with a father or an arhat.
+['ZH_T23_1441_008:0613c24_17']	二人共坐，欲殺彼人而殺此人，偷羅遮。	二人共坐，欲殺彼人而殺此人，偷羅遮。	If two people are sitting together, and one wants to kill the other but kills this person instead, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0613c25_18']	欲殺阿羅漢而殺非阿羅漢，偷羅遮，不得逆罪。	欲殺阿羅漢而殺非阿羅漢，偷羅遮，不得逆罪。	If one wants to kill an arhat but kills someone who is not an arhat, it is a sthūlātyaya offense, not a heinous crime.
+['ZH_T23_1441_008:0613c26_15']	欲殺非阿羅漢而殺阿羅漢，偷羅遮。	欲殺非阿羅漢而殺阿羅漢，偷羅遮。	If one wishes to kill someone who is not an arhat but kills an arhat, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0613c27_12']	作阿羅漢想殺而非阿羅漢，偷羅遮。	作阿羅漢想殺而非阿羅漢，偷羅遮。	If one kills someone who is not an arhat but thinks they are an arhat, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0613c28_20']	「若一女生子、一女取養後殺，何者得波羅夷？	「若一女生子、一女取養後殺，何者得波羅夷？	If a woman gives birth to a child and another woman raises it, and later kills it, which woman commits a pārājika offense?
+['ZH_T23_1441_008:0613c29_4']	得逆罪耶？	得逆罪耶？	Does she commit a crime with an immediate retribution?
+['ZH_T23_1441_008:0613c29_7']	」答：	」答：	The answer:
+['ZH_T23_1441_008:0613c29_21']	「殺生母，得波羅夷并得逆罪。	「殺生母，得波羅夷并得逆罪。	If one kills one's mother, one commits a pārājika offense and a crime with an immediate retribution.
+['ZH_T23_1441_008:0614a01_6']	出家時問何者？	出家時問何者？	When one goes forth, which mother is asked about?
+['ZH_T23_1441_008:0614a01_10', 'ZH_T23_1441_008:0614a02_1']	問養母。🔽畜生人想斷命，偷羅遮。	問養母。 畜生人想斷命，偷羅遮。	The mother who raised one is asked about.🔽If one kills an animal with the thought of a human, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0614a02_12']	人作畜生想殺，突吉羅。	人作畜生想殺，突吉羅。	If one kills a human with the thought of an animal, it is a duṣkṛta offense.
+['ZH_T23_1441_008:0614a03_1']	」問：	」問：	A question:
+['ZH_T23_1441_008:0614a03_17']	「如佛所說，若比丘墮胎，波羅夷。	「如佛所說，若比丘墮胎，波羅夷。	As the Buddha said, if a bhikṣu causes an abortion, it is a pārājika offense.
+['ZH_T23_1441_008:0614a04_5', 'ZH_T23_1441_008:0614a04_8']	頗有比丘墮胎不犯耶？🔽」答：	頗有比丘墮胎不犯耶？ 」答：	Is there a case where a bhikṣu causes an abortion but does not commit an offense?🔽The answer:
+['ZH_T23_1441_008:0614a04_11', 'ZH_T23_1441_008:0614a04_22']	「有。🔽墮人懷畜生胎，偷羅遮。	「有。 墮人懷畜生胎，偷羅遮。	There is.🔽If one causes an abortion of a human in the womb of an animal, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0614a05_9']	墮畜生懷人胎，波羅夷。	墮畜生懷人胎，波羅夷。	If one causes an abortion of an animal in the womb of a human, it is a pārājika offense.
+['ZH_T23_1441_008:0614a06_1']	」問：	」問：	A question:
+['ZH_T23_1441_008:0614a07_2']	「若比丘高處推母著下處，母死，波羅夷，得逆罪。	「若比丘高處推母著下處，母死，波羅夷，得逆罪。	If a bhikṣu pushes his mother from a high place to a lower place, and she dies, he commits a pārājika offense and incurs a heinous crime.
+['ZH_T23_1441_008:0614a08_1']	頗有比丘高處推母著下處，母死，不犯耶？	頗有比丘高處推母著下處，母死，不犯耶？	Can there be a case where a bhikṣu pushes his mother from a high place to a lower place, and she dies, but he does not commit an offense?
+['ZH_T23_1441_008:0614a08_4']	」答：	」答：	He replied:
+['ZH_T23_1441_008:0614a08_7']	「有。	「有。	There can be.
+['ZH_T23_1441_008:0614a09_2']	若己先墮死，後母死，偷羅遮，不得逆罪。	若己先墮死，後母死，偷羅遮，不得逆罪。	If he himself falls and dies first, and then his mother dies, it is a sthūlātyaya offense, and he does not incur a heinous crime.
+['ZH_T23_1441_008:0614a09_15', 'ZH_T23_1441_008:0614a10_18']	如殺母，父、阿羅漢亦如是。🔽若先作殺母方便已而自殺，母先死，波羅夷，得逆罪。	如殺母，父、阿羅漢亦如是。 若先作殺母方便已而自殺，母先死，波羅夷，得逆罪。	As with killing one's mother, so it is with killing one's father and an arhat.🔽If one first makes preparations to kill one's mother and then kills oneself, and one's mother dies first, it is a pārājika offense, and one incurs a heinous crime.
+['ZH_T23_1441_008:0614a11_10']	自先死、後母死、偷羅遮。	自先死、後母死、偷羅遮。	If one dies first, and then one's mother dies, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0614a11_20']	殺父、阿羅漢亦如是。	殺父、阿羅漢亦如是。	It is the same with killing one's father and an arhat.
+['ZH_T23_1441_008:0614a12_14']	若比丘疑人非人而殺人，偷羅遮。	若比丘疑人非人而殺人，偷羅遮。	If a bhikṣu is unsure whether a person is human or not, and kills them, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0614a13_16']	若比丘疑母非母耶而殺母，偷羅遮，不得逆罪。	若比丘疑母非母耶而殺母，偷羅遮，不得逆罪。	If a bhikṣu is unsure whether his mother is his mother or not, and kills his mother, it is a sthūlātyaya offense, and he does not incur a heinous crime.
+['ZH_T23_1441_008:0614a14_8', 'ZH_T23_1441_008:0614a15_1']	如母，父、阿羅漢亦如是。🔽」問：	如母，父、阿羅漢亦如是。🔽」問：	As with one's mother, so it is with one's father and an arhat. He asked:
+['ZH_T23_1441_008:0614a16_2']	「若比丘疑此人是、此人非，而是此人，殺，得何罪？	「若比丘疑此人是、此人非，而是此人，殺，得何罪？	If a bhikṣu has doubts about whether this person is or is not, but it is this person, and he kills them, what offense does he incur?
+['ZH_T23_1441_008:0614a16_5']	」答：	」答：	The answer:
+['ZH_T23_1441_008:0614a16_10']	「偷羅遮。	「偷羅遮。	Thullaccaya.
+['ZH_T23_1441_008:0614a17_1']	」問：	」問：	Question:
+['ZH_T23_1441_008:0614a18_8']	「若比丘見將賊殺去，賊於彼手中走去，諸人逐賊問比丘言：	「若比丘見將賊殺去，賊於彼手中走去，諸人逐賊問比丘言：	If a bhikṣu sees a thief being led away to be executed, and the thief escapes from their hands, and people chase after the thief and ask the bhikṣu,
+['ZH_T23_1441_008:0614a18_12']	『大德！	『大德！	'Venerable sir,
+['ZH_T23_1441_008:0614a18_17']	見賊去不？	見賊去不？	did you see the thief go?'
+['ZH_T23_1441_008:0614a18_21']	』答言：	』答言：	and he answers,
+['ZH_T23_1441_008:0614a19_2']	『見。	『見。	'I saw,'
+['ZH_T23_1441_008:0614a19_8']	』便作是念：	』便作是念：	and then thinks,
+['ZH_T23_1441_008:0614a19_14']	『此是惡人。	『此是惡人。	'This is a bad person,'
+['ZH_T23_1441_008:0614a20_9']	』有殺心示語處所，是人因是事死，波羅夷；	』有殺心示語處所，是人因是事死，波羅夷；	and with a mind to kill, he points out the location, and that person dies because of this, it is pārājika;
+['ZH_T23_1441_008:0614a20_16', 'ZH_T23_1441_008:0614a21_6']	不死，偷羅遮。🔽無心說，彼人死，突吉羅。	不死，偷羅遮。 無心說，彼人死，突吉羅。	if they do not die, it is thullaccaya.🔽If he speaks without a mind to kill, and that person dies, it is duṣkṛta.
+['ZH_T23_1441_008:0614a21_14']	不死，亦突吉羅。	不死，亦突吉羅。	If they do not die, it is also duṣkṛta.
+['ZH_T23_1441_008:0614a22_1']	眾多賊亦如是。	眾多賊亦如是。	The same applies to many thieves.
+['ZH_T23_1441_008:0614a23_1']	」問：	」問：	Question:
+['ZH_T23_1441_008:0614a24_1', 'ZH_T23_1441_008:0614a24_4']	「頗有比丘殺父母不得波羅夷、不得逆罪耶？🔽」答：	「頗有比丘殺父母不得波羅夷、不得逆罪耶？ 」答：	Can there be a bhikṣu who kills his parents and does not incur pārājika, nor the offense of going against his parents?🔽The answer:
+['ZH_T23_1441_008:0614a24_7']	「有。	「有。	There can be.
+['ZH_T23_1441_008:0614a25_9']	若父母得重病，扶起扶行，因是死，不得波羅夷、不得逆罪。	若父母得重病，扶起扶行，因是死，不得波羅夷、不得逆罪。	If the parents become seriously ill and the monk helps them up or walks with them, and they die as a result, he does not commit a pārājika offense nor does he commit a crime of immediate retribution.
+['ZH_T23_1441_008:0614a26_1', 'ZH_T23_1441_008:0614a26_16']	」問：🔽「若比丘母非母想殺，犯偷羅遮。	」問： 「若比丘母非母想殺，犯偷羅遮。	Question:🔽If a bhikṣu kills his mother, thinking she is not his mother, he commits a sthūlātyaya offense.
+['ZH_T23_1441_008:0614a27_5']	非母母想殺，偷羅遮。	非母母想殺，偷羅遮。	Thinking she is his mother, but she is not his mother, he kills her, he commits a sthūlātyaya offense.
+['ZH_T23_1441_008:0614a27_14']	非人想殺，偷羅遮。	非人想殺，偷羅遮。	Thinking she is not a human, he kills her, he commits a sthūlātyaya offense.
+['ZH_T23_1441_008:0614a28_1']	」問：	」問：	Question:
+['ZH_T23_1441_008:0614a28_16']	「若比丘，人人想殺，犯波羅夷。	「若比丘，人人想殺，犯波羅夷。	If a bhikṣu, thinking she is a human, kills her, he commits a pārājika offense.
+['ZH_T23_1441_008:0614a29_9', 'ZH_T23_1441_008:0614a29_12']	頗有比丘人人想殺不犯波羅夷耶？🔽」答：	頗有比丘人人想殺不犯波羅夷耶？ 」答：	Is there a case where a bhikṣu, thinking she is a human, kills her but does not commit a pārājika offense?🔽Answer:
+['ZH_T23_1441_008:0614a29_15', 'ZH_T23_1441_008:0614a29_22']	「有。🔽自殺，偷羅遮。	「有。 自殺，偷羅遮。	There is.🔽If he kills himself, he commits a sthūlātyaya offense.
+['ZH_T23_1441_008:0614b01_9']	欲殺他而自殺，偷羅遮。	欲殺他而自殺，偷羅遮。	If he wants to kill another but kills himself instead, he commits a sthūlātyaya offense.
+['ZH_T23_1441_008:0614b02_1']	」問：	」問：	Question:
+['ZH_T23_1441_008:0614b02_18']	「若比丘戲笑打父，因是死，犯何罪？	「若比丘戲笑打父，因是死，犯何罪？	If a bhikṣu jokingly strikes his father and he dies as a result, what offense does he commit?
+['ZH_T23_1441_008:0614b02_21', 'ZH_T23_1441_008:0614b03_1']	」答：🔽「突吉羅。	」答： 「突吉羅。	Answer:🔽A duṣkṛta offense.
+['ZH_T23_1441_008:0614b04_1']	未受具戒時作方便，未受具戒時死，突吉羅。	未受具戒時作方便，未受具戒時死，突吉羅。	If he makes preparations before receiving full ordination and dies before receiving full ordination, he commits a duṣkṛta offense.
+['ZH_T23_1441_008:0614b04_20', 'ZH_T23_1441_008:0614b05_17']	未受具戒時作方便，受具戒時死，突吉羅。🔽受具戒時作方便，受具戒已死，偷羅遮。	未受具戒時作方便，受具戒時死，突吉羅。 受具戒時作方便，受具戒已死，偷羅遮。	If one makes preparations before receiving full ordination, and dies while receiving full ordination, it is a duṣkṛta offense.🔽If one makes preparations while receiving full ordination, and dies after receiving full ordination, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0614b06_15']	受具戒已作方便，受具戒已死，波羅夷。	受具戒已作方便，受具戒已死，波羅夷。	If one makes preparations after receiving full ordination, and dies after receiving full ordination, it is a pārājika offense.
+['ZH_T23_1441_008:0614b07_1']	」問：	」問：	Question:
+['ZH_T23_1441_008:0614b07_19']	「如佛所說，若比丘人人想殺，波羅夷。	「如佛所說，若比丘人人想殺，波羅夷。	As the Buddha said, if a bhikṣu kills a human with the thought of a human, it is a pārājika offense.
+['ZH_T23_1441_008:0614b08_13', 'ZH_T23_1441_008:0614b08_16']	頗有比丘人人想殺不犯波羅夷耶？🔽」答：	頗有比丘人人想殺不犯波羅夷耶？ 」答：	Is there a bhikṣu who kills a human with the thought of a human but does not commit a pārājika offense?🔽Answer:
+['ZH_T23_1441_008:0614b08_19']	「有。	「有。	There is.
+['ZH_T23_1441_008:0614b10_4']	謂本犯戒人、賊住人、本不和合人、污染比丘尼人，犯突吉羅。	謂本犯戒人、賊住人、本不和合人、污染比丘尼人，犯突吉羅。	Namely, a person who has originally violated the precepts, a person who is a thief living in the monastery, a person who was originally not in harmony, and a person who has defiled a bhikṣuṇī. It is a duṣkṛta offense.
+['ZH_T23_1441_008:0614b11_1']	」問：	」問：	Question:
+['ZH_T23_1441_008:0614b11_17', 'ZH_T23_1441_008:0614b11_20']	「頗有未受具足人殺人，波羅夷耶？🔽」答：	「頗有未受具足人殺人，波羅夷耶？ 」答：	Is there a person who has not yet received full ordination who commits a pārājika offense by killing a human?🔽Answer:
+['ZH_T23_1441_008:0614b11_23']	「有。	「有。	There is.
+['ZH_T23_1441_008:0614b12_3']	謂學戒人。	謂學戒人。	Namely, a person who is training in the precepts.
+['ZH_T23_1441_008:0614b13_1']	」問：	」問：	Question:
+['ZH_T23_1441_008:0614b13_9']	「若比丘如是語：	「若比丘如是語：	If a bhikṣu says:
+['ZH_T23_1441_008:0614b13_18']	『我於四沙門果退。	『我於四沙門果退。	'I have regressed from the four fruits of the śramaṇa.'
+['ZH_T23_1441_008:0614b13_23']	』犯何罪？	』犯何罪？	What offense does he commit?
+['ZH_T23_1441_008:0614b14_1']	」答：	」答：	Answer:
+['ZH_T23_1441_008:0614b14_6']	「偷羅遮。	「偷羅遮。	Thullaccaya.
+['ZH_T23_1441_008:0614b15_1']	」問：	」問：	Question:
+['ZH_T23_1441_008:0614b15_7']	「若比丘言：	「若比丘言：	If a bhikṣu says:
+['ZH_T23_1441_008:0614b15_15']	『我得四沙門果。	『我得四沙門果。	'I have attained the four fruits of the śramaṇa.
+['ZH_T23_1441_008:0614b15_20']	』得何罪？	』得何罪？	' What offense does he incur?
+['ZH_T23_1441_008:0614b15_23']	」答：	」答：	Answer:
+['ZH_T23_1441_008:0614b16_8']	「不得言得，波羅夷罪。	「不得言得，波羅夷罪。	He should not say he has attained, and incurs a pārājika offense.
+['ZH_T23_1441_008:0614b17_1']	」問：	」問：	Question:
+['ZH_T23_1441_008:0614b17_20']	「『我失阿羅漢果、阿那含果、斯陀含果。	「『我失阿羅漢果、阿那含果、斯陀含果。	'I have lost the fruit of arhatship, the fruit of non-returnership, and the fruit of once-returnership.'
+['ZH_T23_1441_008:0614b18_2']	』得何罪耶？	』得何罪耶？	What offense does he incur?
+['ZH_T23_1441_008:0614b18_5']	」答：	」答：	Answer:
+['ZH_T23_1441_008:0614b18_13']	「不犯退有二種：	「不犯退有二種：	There are two kinds of retrogression:
+['ZH_T23_1441_008:0614b18_20']	得退、未得退。	得退、未得退。	attained retrogression and unattained retrogression.
+['ZH_T23_1441_008:0614b18_36']	今言失者，意在未得退，是故不犯。	今言失者，意在未得退，是故不犯。	The meaning of 'loss' here refers to unattained retrogression, and therefore there is no offense.
+['ZH_T23_1441_008:0614b19_11']	實不得退言得退，波羅夷。	實不得退言得退，波羅夷。	If one truly has not attained retrogression but says one has, it is a pārājika.
+['ZH_T23_1441_008:0614b19_17']	實者，不犯。	實者，不犯。	If it is true, there is no offense.
+['ZH_T23_1441_008:0614b20_1']	」問：	」問：	Question:
+['ZH_T23_1441_008:0614b20_16']	「若比丘言我是學人，得何罪耶？	「若比丘言我是學人，得何罪耶？	If a bhikṣu says he is a trainee, what offense does he incur?
+['ZH_T23_1441_008:0614b20_19', 'ZH_T23_1441_008:0614b21_10']	」答：🔽「若言我學波羅提木叉，偷羅遮。	」答： 「若言我學波羅提木叉，偷羅遮。	Answer:🔽If he says he is training in the prātimokṣa, it is thullaccaya.
+['ZH_T23_1441_008:0614b22_5']	若空無所有，言學聖法，波羅夷。	若空無所有，言學聖法，波羅夷。	If he says he is training in the noble dharmas when he is empty and has nothing, it is a pārājika.
+['ZH_T23_1441_008:0614b22_20']	學修多羅、毘尼、阿毘曇亦如是。	學修多羅、毘尼、阿毘曇亦如是。	The same applies to studying the sutras, Vinaya, and Abhidharma.
+['ZH_T23_1441_008:0614b23_14']	」「若比丘言，我是最後生，犯何罪耶？	」「若比丘言，我是最後生，犯何罪耶？	If a bhikṣu says, 'I am in my last birth,' what offense does he commit?
+['ZH_T23_1441_008:0614b23_17']	」答：	」答：	The answer:
+['ZH_T23_1441_008:0614b24_7']	「若說過去法已滅，偷羅遮。	「若說過去法已滅，偷羅遮。	If he speaks of past dharmas as already extinguished, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0614b24_17']	若說實生盡，波羅夷。	若說實生盡，波羅夷。	If he speaks of truly exhausting birth, it is a pārājika offense.
+['ZH_T23_1441_008:0614b25_1']	」問：	」問：	Question:
+['ZH_T23_1441_008:0614b25_10', 'ZH_T23_1441_008:0614b26_10']	「若比丘作如是語：🔽『我當說汝是須陀洹、斯陀含、阿那含、阿羅漢。	「若比丘作如是語： 『我當說汝是須陀洹、斯陀含、阿那含、阿羅漢。	If a bhikṣu speaks like this:🔽'I will tell you that you are a srota-āpanna, sakṛd-āgāmin, anāgāmin, or arhat.'
+['ZH_T23_1441_008:0614b27_9']	』而自說我須陀洹、斯陀含、阿那含、阿羅漢。	』而自說我須陀洹、斯陀含、阿那含、阿羅漢。	And he himself says, 'I am a srota-āpanna, sakṛd-āgāmin, anāgāmin, or arhat.'
+['ZH_T23_1441_008:0614b27_13']	得何罪？	得何罪？	What offense does he incur?
+['ZH_T23_1441_008:0614b27_16']	」答：	」答：	The answer:
+['ZH_T23_1441_008:0614b27_21']	「偷羅遮。	「偷羅遮。	A sthūlātyaya offense.
+['ZH_T23_1441_008:0614b28_1']	」問：	」問：	Question:
+['ZH_T23_1441_008:0614b28_11']	「若有比丘語白衣言：	「若有比丘語白衣言：	If there is a bhikṣu who says to a layperson:
+['ZH_T23_1441_008:0614b29_16']	『誰語汝我是須陀洹，非斯陀含、非阿那含、非阿羅漢。	『誰語汝我是須陀洹，非斯陀含、非阿那含、非阿羅漢。	'Who told you that I am a srota-āpanna, not a sakṛd-āgāmin, not an anāgāmin, not an arhat?'
+['ZH_T23_1441_008:0614b29_22']	』復作是語：	』復作是語：	And he further says:
+['ZH_T23_1441_008:0614c01_11']	『我非須陀洹乃至阿羅漢。	『我非須陀洹乃至阿羅漢。	'I am not a srota-āpanna, up to not an arhat.'
+['ZH_T23_1441_008:0614c01_16']	』波羅夷。	』波羅夷。	Is a pārājika offense.
+['ZH_T23_1441_008:0614c02_1']	」問：	」問：	 Asked:
+['ZH_T23_1441_008:0614c03_10']	「若比丘欲說須陀洹果，而說斯陀含、阿那含、阿羅漢果，犯何罪？	「若比丘欲說須陀洹果，而說斯陀含、阿那含、阿羅漢果，犯何罪？	If a bhikṣu wishes to speak of the fruit of stream-entry, but speaks of the fruit of once-returning, non-returning, or arhatship, what offense does he commit?
+['ZH_T23_1441_008:0614c03_13', 'ZH_T23_1441_008:0614c03_18']	」答：🔽「偷羅遮。	」答： 「偷羅遮。	 Replied:🔽A sthūlātyaya offense.
+['ZH_T23_1441_008:0614c04_1']	」問：	」問：	 Asked:
+['ZH_T23_1441_008:0614c04_7']	「若比丘言：	「若比丘言：	If a bhikṣu says:
+['ZH_T23_1441_008:0614c06_6']	『我耆梨山中得須陀洹果，七葉山中得斯陀含，竹林精舍得阿那含，耆闍崛山得阿羅漢。	『我耆梨山中得須陀洹果，七葉山中得斯陀含，竹林精舍得阿那含，耆闍崛山得阿羅漢。	'I attained the fruit of stream-entry on Mount Gṛdhrakūṭa, the fruit of once-returning on Seven Leaves Mountain, the fruit of non-returning at Bamboo Grove Monastery, and arhatship on Mount Gṛdhrakūṭa.'
+['ZH_T23_1441_008:0614c06_11']	』犯何罪？	』犯何罪？	What offense does he commit?
+['ZH_T23_1441_008:0614c06_14']	」答：	」答：	 Replied:
+['ZH_T23_1441_008:0614c07_12']	「若在彼處誦修多羅，我不作懈怠，偷羅遮。	「若在彼處誦修多羅，我不作懈怠，偷羅遮。	If he recites the sūtras in those places, and says he is not lazy, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0614c08_1']	若故妄語，波羅夷。	若故妄語，波羅夷。	If he deliberately lies, it is a pārājika offense.
+['ZH_T23_1441_008:0614c09_1']	」問：	」問：	 Asked:
+['ZH_T23_1441_008:0614c09_13']	「若有比丘，人問得果不？	「若有比丘，人問得果不？	If there is a bhikṣu who is asked if he has attained the fruit,
+['ZH_T23_1441_008:0614c10_4']	答言得，而示手中果花葉。	答言得，而示手中果花葉。	and he says he has, but shows a fruit, flower, or leaf in his hand.
+['ZH_T23_1441_008:0614c10_9']	犯何罪耶？	犯何罪耶？	What offense does he commit?
+['ZH_T23_1441_008:0614c10_12']	」答：	」答：	 Replied:
+['ZH_T23_1441_008:0614c11_1']	「若意在花果，偷羅遮。	「若意在花果，偷羅遮。	If his intention is on the flower or fruit, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0614c11_12']	若故說沙門果，波羅夷。	若故說沙門果，波羅夷。	If you deliberately say the fruits of the śramaṇa, it is a pārājika offense.
+['ZH_T23_1441_008:0614c12_1']	」問：	」問：	 Question:
+['ZH_T23_1441_008:0614c12_7']	「若比丘言：	「若比丘言：	If a bhikṣu says:
+['ZH_T23_1441_008:0614c13_9']	『某甲家乞食比丘，須陀洹、斯陀含、阿那含、阿羅漢。	『某甲家乞食比丘，須陀洹、斯陀含、阿那含、阿羅漢。	'The bhikṣu who begs for alms at such-and-such a household is a srota-āpanna, sakṛd-āgāmin, anāgāmin, arhat.
+['ZH_T23_1441_008:0614c13_20']	我非須陀洹乃至阿羅漢。	我非須陀洹乃至阿羅漢。	I am not a srota-āpanna, up to I am not an arhat.'
+['ZH_T23_1441_008:0614c14_4']	』得何罪耶？	』得何罪耶？	What offense does he commit?
+['ZH_T23_1441_008:0614c14_7', 'ZH_T23_1441_008:0614c14_12']	」答：🔽「偷羅遮。	」答： 「偷羅遮。	Answer:🔽A sthūlātyaya offense.
+['ZH_T23_1441_008:0614c15_1']	」問：	」問：	 Question:
+['ZH_T23_1441_008:0614c15_7']	「有比丘言：	「有比丘言：	If a bhikṣu says:
+['ZH_T23_1441_008:0614c16_11']	『受用某甲居士衣食臥具醫藥者，是須陀洹乃至阿羅漢。	『受用某甲居士衣食臥具醫藥者，是須陀洹乃至阿羅漢。	'Those who use the robes, food, bedding, and medicine of such-and-such a layperson are srota-āpannas, up to arhats.
+['ZH_T23_1441_008:0614c17_3']	我亦受用，我非阿羅漢。	我亦受用，我非阿羅漢。	I also use them, but I am not an arhat.'
+['ZH_T23_1441_008:0614c17_8']	』犯何罪？	』犯何罪？	What offense does he commit?
+['ZH_T23_1441_008:0614c17_11', 'ZH_T23_1441_008:0614c17_16']	」答：🔽「偷羅遮。	」答： 「偷羅遮。	Answer:🔽A sthūlātyaya offense.
+['ZH_T23_1441_008:0614c18_1']	」問：	」問：	 Question:
+['ZH_T23_1441_008:0614c18_7']	「若比丘言：	「若比丘言：	If a bhikṣu says:
+['ZH_T23_1441_008:0614c20_1']	『某甲居士請眾多比丘，敷種種眾多褥，皆是須陀洹乃至是阿羅漢，無凡夫。	『某甲居士請眾多比丘，敷種種眾多褥，皆是須陀洹乃至是阿羅漢，無凡夫。	'Such-and-such a layperson invites many bhikṣus, spreads various many cushions, all of which are srota-āpannas, up to arhats, there are no ordinary people.
+['ZH_T23_1441_008:0614c20_12']	我亦受請，亦為我敷座。	我亦受請，亦為我敷座。	I also accepted the invitation, and he also prepared seats for me.
+['ZH_T23_1441_008:0614c20_18']	』得何罪耶？	』得何罪耶？	What offense does he incur?
+['ZH_T23_1441_008:0614c20_21']	」答：	」答：	The Buddha replied:
+['ZH_T23_1441_008:0614c21_1', 'ZH_T23_1441_008:0614c22_1']	「偷羅遮。🔽」問：	「偷羅遮。 」問：	Thullaccaya.🔽The monk asked:
+['ZH_T23_1441_008:0614c22_8']	「若人問比丘：	「若人問比丘：	If someone asks a monk:
+['ZH_T23_1441_008:0614c22_12']	『大德！	『大德！	'Venerable sir!
+['ZH_T23_1441_008:0614c23_1']	何處得衣食乃至湯藥？	何處得衣食乃至湯藥？	Where did you obtain your robes, food, up to medicine and healing supplies?'
+['ZH_T23_1441_008:0614c23_7']	』比丘答言：	』比丘答言：	The monk replies:
+['ZH_T23_1441_008:0614c24_1']	『某甲居士請眾多比丘，語比丘言：	『某甲居士請眾多比丘，語比丘言：	'A certain householder invited many monks and said to the monks:
+['ZH_T23_1441_008:0614c25_4']	「若是須陀洹乃至阿羅漢者，受我四事供養隨意取。	「若是須陀洹乃至阿羅漢者，受我四事供養隨意取。	If you are a stream-enterer up to an arhat, accept my four kinds of offerings as you wish.
+['ZH_T23_1441_008:0614c26_3']	」我亦於中取，而我非須陀洹乃至阿羅漢。	」我亦於中取，而我非須陀洹乃至阿羅漢。	I also took from among them, but I am not a stream-enterer up to an arhat.'
+['ZH_T23_1441_008:0614c26_8']	』得何罪？	』得何罪？	What offense does he incur?
+['ZH_T23_1441_008:0614c26_11']	」答：	」答：	The Buddha replied:
+['ZH_T23_1441_008:0614c26_16']	「偷羅遮。	「偷羅遮。	Thullaccaya.
+['ZH_T23_1441_008:0614c27_5']	」「若比丘言：	」「若比丘言：	If a monk says:
+['ZH_T23_1441_008:0614c28_3']	『我不畏，不活畏，不畏大眾畏、死畏、惡道畏。	『我不畏，不活畏，不畏大眾畏、死畏、惡道畏。	'I do not fear, I do not fear not being able to live, I do not fear large crowds, I do not fear death, I do not fear the evil paths.'
+['ZH_T23_1441_008:0614c28_8']	』犯何罪？	』犯何罪？	What offense does he commit?
+['ZH_T23_1441_008:0614c28_11']	」答：	」答：	The Buddha replied:
+['ZH_T23_1441_008:0614c29_6']	「若因此身說此身過去變壞，偷羅遮。	「若因此身說此身過去變壞，偷羅遮。	If he speaks of this body as having changed and deteriorated in the past, it is thullaccaya.
+['ZH_T23_1441_008:0614c29_18']	若故妄語說聖法，波羅夷。	若故妄語說聖法，波羅夷。	If one intentionally lies and speaks of the noble Dharma, one commits a pārājika offense.
+['ZH_T23_1441_008:0615a01_8']	乃至惡道畏亦如是。	乃至惡道畏亦如是。	The same applies up to the fear of the evil destinies.
+['ZH_T23_1441_008:0615a02_1']	」問：	」問：	Question:
+['ZH_T23_1441_008:0615a02_7']	「若比丘言：	「若比丘言：	If a bhikṣu says:
+['ZH_T23_1441_008:0615a02_21']	『我於一切結使繫縛煩惱解脫。	『我於一切結使繫縛煩惱解脫。	'I am liberated from all the bonds, afflictions, and fetters.'
+['ZH_T23_1441_008:0615a03_4']	』得何罪耶？	』得何罪耶？	What offense does he incur?
+['ZH_T23_1441_008:0615a03_7', 'ZH_T23_1441_008:0615a03_21']	」答：🔽「若言於過去煩惱滅，偷羅遮。	」答： 「若言於過去煩惱滅，偷羅遮。	Answer:🔽If he says that the afflictions of the past have ceased, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0615a04_13']	若故說結使繫縛解脫，波羅夷。	若故說結使繫縛解脫，波羅夷。	If he intentionally speaks of being liberated from the bonds and afflictions, it is a pārājika offense.
+['ZH_T23_1441_008:0615a05_1']	」問：	」問：	Question:
+['ZH_T23_1441_008:0615a05_7']	「若比丘言：	「若比丘言：	If a bhikṣu says:
+['ZH_T23_1441_008:0615a05_18']	『諸賢聖所知，我亦得。	『諸賢聖所知，我亦得。	'What the sages and saints know, I also know.'
+['ZH_T23_1441_008:0615a05_23']	』得何罪？	』得何罪？	What offense does he incur?
+['ZH_T23_1441_008:0615a06_1']	」答：	」答：	Answer:
+['ZH_T23_1441_008:0615a06_15']	「若言我得修多羅者，偷羅遮。	「若言我得修多羅者，偷羅遮。	If he says he has attained the sūtras, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0615a07_5']	若故說聖法，波羅夷。	若故說聖法，波羅夷。	If he intentionally speaks of the noble Dharma, it is a pārājika offense.
+['ZH_T23_1441_008:0615a08_1']	」問：	」問：	Question:
+['ZH_T23_1441_008:0615a08_7']	「若比丘言：	「若比丘言：	If a bhikṣu says:
+['ZH_T23_1441_008:0615a08_16']	『我修諸根力覺道。	『我修諸根力覺道。	'I cultivate the faculties, powers, and the path of enlightenment.'
+['ZH_T23_1441_008:0615a08_22']	』得何罪耶？	』得何罪耶？	What offense does he incur?
+['ZH_T23_1441_008:0615a08_25']	」答：	」答：	Answer:
+['ZH_T23_1441_008:0615a09_11']	「若誦得修多羅，偷羅遮。	「若誦得修多羅，偷羅遮。	If he recites the sūtras, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0615a10_5']	若故妄語修根力覺道，波羅夷。	若故妄語修根力覺道，波羅夷。	If one intentionally lies about cultivating the roots, powers, factors of enlightenment, and the path, it is a pārājika offense.
+['ZH_T23_1441_008:0615a11_1']	」問：	」問：	Question:
+['ZH_T23_1441_008:0615a11_7']	「若比丘言：	「若比丘言：	If a bhikṣu says:
+['ZH_T23_1441_008:0615a12_1']	『我當說須陀洹果，而我非須陀洹。	『我當說須陀洹果，而我非須陀洹。	'I will speak of the fruit of stream-entry, but I am not a stream-enterer,'
+['ZH_T23_1441_008:0615a12_7']	』得何罪耶？	』得何罪耶？	what offense does he incur?
+['ZH_T23_1441_008:0615a12_10']	」答：	」答：	Answer:
+['ZH_T23_1441_008:0615a12_15']	「偷羅遮。	「偷羅遮。	Thullaccaya.
+['ZH_T23_1441_008:0615a13_1']	乃至阿羅漢亦如是。	乃至阿羅漢亦如是。	The same applies up to the state of arhatship.
+['ZH_T23_1441_008:0615a14_1']	」問：	」問：	Question:
+['ZH_T23_1441_008:0615a14_7']	「若比丘言：	「若比丘言：	If a bhikṣu says:
+['ZH_T23_1441_008:0615a14_20']	『我入世俗禪，不得世俗智。	『我入世俗禪，不得世俗智。	'I have entered the mundane meditative absorptions, but I have not attained mundane knowledge,'
+['ZH_T23_1441_008:0615a15_2']	』得何罪耶？	』得何罪耶？	what offense does he incur?
+['ZH_T23_1441_008:0615a15_5']	」答：	」答：	Answer:
+['ZH_T23_1441_008:0615a15_10']	「偷羅遮。	「偷羅遮。	Thullaccaya.
+['ZH_T23_1441_008:0615a16_1']	」問：	」問：	Question:
+['ZH_T23_1441_008:0615a16_7']	「若比丘言：	「若比丘言：	If a bhikṣu says:
+['ZH_T23_1441_008:0615a16_13']	『我是世尊。	『我是世尊。	'I am the World-Honored One,'
+['ZH_T23_1441_008:0615a16_19']	』得何罪耶？	』得何罪耶？	what offense does he incur?
+['ZH_T23_1441_008:0615a16_22']	」答：	」答：	Answer:
+['ZH_T23_1441_008:0615a17_8']	「若意在說法教誡，偷羅遮。	「若意在說法教誡，偷羅遮。	If his intention is to speak the Dharma and give instructions, it is thullaccaya.
+['ZH_T23_1441_008:0615a17_19']	若故妄語世尊，波羅夷。	若故妄語世尊，波羅夷。	If he intentionally lies to the World-Honored One, it is a pārājika offense.
+['ZH_T23_1441_008:0615a18_1']	」問：	」問：	Question:
+['ZH_T23_1441_008:0615a18_7']	「若比丘言：	「若比丘言：	If a bhikṣu says:
+['ZH_T23_1441_008:0615a18_12']	『我是佛。	『我是佛。	'I am the Buddha,'
+['ZH_T23_1441_008:0615a18_18']	』得何罪耶？	』得何罪耶？	what offense does he incur?
+['ZH_T23_1441_008:0615a18_21']	」答：	」答：	Answer:
+['ZH_T23_1441_008:0615a19_8']	「若言我覺惡不善法，偷羅遮。	「若言我覺惡不善法，偷羅遮。	If one says, 'I am aware of unwholesome and unskillful dharmas,' it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0615a19_17']	若故妄語，波羅夷。	若故妄語，波羅夷。	If one intentionally lies, it is a pārājika offense.
+['ZH_T23_1441_008:0615a20_1']	」問：	」問：	Question:
+['ZH_T23_1441_008:0615a20_7']	「若比丘言：	「若比丘言：	If a bhikṣu says:
+['ZH_T23_1441_008:0615a20_17']	『我是毘婆尸佛弟子。	『我是毘婆尸佛弟子。	'I am a disciple of Vipaśyin Buddha.'
+['ZH_T23_1441_008:0615a20_23']	』得何罪耶？	』得何罪耶？	What offense does he incur?
+['ZH_T23_1441_008:0615a21_1']	」答：	」答：	Answer:
+['ZH_T23_1441_008:0615a21_15']	「歸依釋迦牟尼，便歸依七佛。	「歸依釋迦牟尼，便歸依七佛。	Taking refuge in Śākyamuni is taking refuge in the Seven Buddhas.
+['ZH_T23_1441_008:0615a22_3']	若說宿命通，波羅夷。	若說宿命通，波羅夷。	If one speaks of the supernormal knowledge of past lives, it is a pārājika offense.
+['ZH_T23_1441_008:0615a23_1']	」問：	」問：	Question:
+['ZH_T23_1441_008:0615a23_7']	「若比丘言：	「若比丘言：	If a bhikṣu says:
+['ZH_T23_1441_008:0615a23_15']	『得須陀洹不得？	『得須陀洹不得？	'Have I attained the stream-entry or not?
+['ZH_T23_1441_008:0615a23_21']	我非須陀洹。	我非須陀洹。	I am not a stream-enterer.'
+['ZH_T23_1441_008:0615a24_3']	』得何罪耶？	』得何罪耶？	What offense does he incur?
+['ZH_T23_1441_008:0615a24_6']	」答：	」答：	Answer:
+['ZH_T23_1441_008:0615a24_11']	「偷羅遮。	「偷羅遮。	It is a sthūlātyaya offense.
+['ZH_T23_1441_008:0615a25_1']	」問：	」問：	Question:
+['ZH_T23_1441_008:0615a25_8']	「若有比丘言：	「若有比丘言：	If there is a bhikṣu who says:
+['ZH_T23_1441_008:0615a25_13']	『我得果。	『我得果。	'I have attained the fruit.'
+['ZH_T23_1441_008:0615a25_17']	』問言：	』問言：	And he is asked:
+['ZH_T23_1441_008:0615a25_22']	『得何果。	『得何果。	'What fruit have you attained?'
+['ZH_T23_1441_008:0615a26_10']	』示菴婆羅果、閻浮果波那娑果。	』示菴婆羅果、閻浮果波那娑果。	And he points to an āmalaka fruit, a jambū fruit, or a pāṇḍu fruit.
+['ZH_T23_1441_008:0615a26_15']	得何罪耶？	得何罪耶？	What offense does he incur?
+['ZH_T23_1441_008:0615a26_18', 'ZH_T23_1441_008:0615a27_1']	」答：🔽「偷羅遮。	」答：🔽「偷羅遮。	Answer:🔽It is a sthūlātyaya offense.
+['ZH_T23_1441_008:0615a27_14']	若故妄語說沙門果，波羅夷。	若故妄語說沙門果，波羅夷。	If one intentionally lies and says one has attained the fruits of the śramaṇa, it is a pārājika offense.
+['ZH_T23_1441_008:0615a28_1']	」問：	」問：	 Question:
+['ZH_T23_1441_008:0615a28_19']	「若比丘自作書，某甲比丘得須陀洹果。	「若比丘自作書，某甲比丘得須陀洹果。	If a bhikṣu writes a letter saying a certain bhikṣu has attained the fruit of stream-entry,
+['ZH_T23_1441_008:0615a29_3']	得何罪耶？	得何罪耶？	what offense does he commit?
+['ZH_T23_1441_008:0615a29_6']	」答：	」答：	 Answer:
+['ZH_T23_1441_008:0615a29_11']	「偷羅遮。	「偷羅遮。	Thullaccaya.
+['ZH_T23_1441_008:0615a29_20']	乃至阿羅漢亦如是。	乃至阿羅漢亦如是。	The same applies up to the fruit of arhatship.
+['ZH_T23_1441_008:0615b01_1']	」問：	」問：	 Question:
+['ZH_T23_1441_008:0615b01_17', 'ZH_T23_1441_008:0615b01_20']	「若比丘說過人法，不犯波羅夷耶？🔽」答：	「若比丘說過人法，不犯波羅夷耶？ 」答：	If a bhikṣu speaks of superhuman qualities, does he not commit a pārājika offense?🔽 Answer:
+['ZH_T23_1441_008:0615b01_23']	「有。	「有。	There are cases where he does not.
+['ZH_T23_1441_008:0615b03_1']	本犯戒、本不和合、賊住、污染比丘尼人，突吉羅。	本犯戒、本不和合、賊住、污染比丘尼人，突吉羅。	For those who have originally broken the precepts, those who are not in harmony, those who are of thieving status, and those who have defiled bhikṣuṇīs, it is a duṣkṛta offense.
+['ZH_T23_1441_008:0615b04_1']	」問：	」問：	 Question:
+['ZH_T23_1441_008:0615b04_19', 'ZH_T23_1441_008:0615b05_1']	「頗有非受具戒人說過人法犯波羅夷耶？🔽」答：	「頗有非受具戒人說過人法犯波羅夷耶？ 」答：	Can a person who has not received full ordination commit a pārājika offense by speaking of superhuman qualities?🔽 Answer:
+['ZH_T23_1441_008:0615b05_4']	「有。	「有。	There are cases where he can.
+['ZH_T23_1441_008:0615b05_9']	謂學戒人。	謂學戒人。	Namely, a person who is training in the precepts.
+['ZH_T23_1441_008:0615b06_1']	」問：	」問：	 Question:
+['ZH_T23_1441_008:0615b06_16', 'ZH_T23_1441_008:0615b06_19']	「若比丘獨入房，得四波羅夷耶？🔽」答：	「若比丘獨入房，得四波羅夷耶？ 」答：	If a bhikṣu enters a room alone, can he commit the four pārājika offenses?🔽 Answer:
+['ZH_T23_1441_008:0615b06_22']	「有。	「有。	There are cases where he can.
+['ZH_T23_1441_008:0615b08_2']	先作偷盜方便、殺生方便，知我入房時阿羅漢，自根長。	先作偷盜方便、殺生方便，知我入房時阿羅漢，自根長。	If one first makes the preparations for stealing and killing, and then knows that when I enter the room, the arhat's own organ will become erect.
+['ZH_T23_1441_008:0615b08_10', 'ZH_T23_1441_008:0615b10_1']	」問四波羅夷竟。🔽27 問十三僧伽婆尸沙1問十三僧伽婆尸沙問：	」問四波羅夷竟。 27 問十三僧伽婆尸沙1問十三僧伽婆尸沙問：	The four pārājikas are finished.
+['ZH_T23_1441_008:0615b10_14']	「若比丘行時精出，得何罪？	「若比丘行時精出，得何罪？	If a bhikṣu emits semen while walking, what offense does he incur?
+['ZH_T23_1441_008:0615b10_17']	」答：	」答：	He replied:
+['ZH_T23_1441_008:0615b10_21', 'ZH_T23_1441_008:0615b11_11']	「不犯。🔽覺時方便、眠時精出，偷羅遮。	「不犯。 覺時方便、眠時精出，偷羅遮。	No offense.🔽If the preparations are made while awake, but the semen is emitted while asleep, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0615b12_9']	覺時方便、覺時出，於中起想，僧伽婆尸沙。	覺時方便、覺時出，於中起想，僧伽婆尸沙。	If the preparations are made while awake, and the emission occurs while awake, and one gives rise to thoughts in the middle, it is a saṃghāvaśeṣa offense.
+['ZH_T23_1441_008:0615b12_16']	不異，偷羅遮。	不異，偷羅遮。	If it is not different, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0615b13_5']	方便受樂出，偷羅遮。	方便受樂出，偷羅遮。	If one makes preparations to experience pleasure and then emits, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0615b13_11']	頓出，不犯。	頓出，不犯。	If it is emitted suddenly, there is no offense.
+['ZH_T23_1441_008:0615b13_21', 'ZH_T23_1441_008:0615b14_19', 'ZH_T23_1441_008:0615b15_19']	若握搦不出，偷羅遮。🔽未受具戒時作方便，未受具戒時出，突吉羅。🔽若未受具戒時作方便，受具戒時出，偷羅遮。	若握搦不出，偷羅遮。 未受具戒時作方便，未受具戒時出，突吉羅。 若未受具戒時作方便，受具戒時出，偷羅遮。	If one squeezes and it does not come out, it is a sthūlātyaya offense.🔽If the preparations are made before receiving full ordination, and the emission occurs before receiving full ordination, it is a duṣkṛta offense.🔽If the preparations are made before receiving full ordination, and the emission occurs upon receiving full ordination, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0615b16_17']	受具戒時作方便，受具戒時出，偷羅遮。	受具戒時作方便，受具戒時出，偷羅遮。	If the preparations are made upon receiving full ordination, and the emission occurs upon receiving full ordination, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0615b17_4']	如是應作九句。	如是應作九句。	In this way, nine statements should be made.
+['ZH_T23_1441_008:0615b18_1']	」問：	」問：	 Question:
+['ZH_T23_1441_008:0615b19_2']	「若比丘犯僧殘罪已，不知時日，何處與別住耶？	「若比丘犯僧殘罪已，不知時日，何處與別住耶？	If a bhikṣu has committed a saṃghabheda offense but does not know the date, where should he be given probation?
+['ZH_T23_1441_008:0615b19_5']	」答：	」答：	Answer:
+['ZH_T23_1441_008:0615b19_12']	「從初受戒日。	「從初受戒日。	From the date he first received the precepts.
+['ZH_T23_1441_008:0615b20_1']	」問：	」問：	 Question:
+['ZH_T23_1441_008:0615b20_14']	「若比丘按摩受樂，偷羅遮。	「若比丘按摩受樂，偷羅遮。	If a bhikṣu massages and experiences pleasure, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0615b21_5']	若比丘以手摩捉，偷羅遮。	若比丘以手摩捉，偷羅遮。	If a bhikṣu touches with his hand, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0615b21_15', 'ZH_T23_1441_008:0615b22_5']	自出中受樂，偷羅遮。🔽男根觸受樂，偷羅遮。	自出中受樂，偷羅遮。 男根觸受樂，偷羅遮。	If he himself emits and experiences pleasure, it is a sthūlātyaya offense.🔽If he touches the male organ and experiences pleasure, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0615b22_14', 'ZH_T23_1441_008:0615b23_2']	出節中精，偷羅遮。🔽空中動出，偷羅遮。	出節中精，偷羅遮。 空中動出，偷羅遮。	If he emits semen from the joints, it is a sthūlātyaya offense.🔽If he moves and emits in the air, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0615b23_11']	行中動出，偷羅遮。	行中動出，偷羅遮。	If he moves and emits while walking, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0615b24_1']	」問：	」問：	 Question:
+['ZH_T23_1441_008:0615b24_16']	「如佛所說，出節中精，偷羅遮。	「如佛所說，出節中精，偷羅遮。	As the Buddha has said, if one emits semen from the joints, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0615b24_21']	云何節精？	云何節精？	What are the joints of semen?
+['ZH_T23_1441_008:0615b25_1']	」答：	」答：	 Answer:
+['ZH_T23_1441_008:0615b25_18']	「精離本處，在節作方便出，偷羅遮。	「精離本處，在節作方便出，偷羅遮。	If semen leaves its original place, and one makes an effort to emit it from the joints, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0615b26_1']	」問：	」問：	 Question:
+['ZH_T23_1441_008:0615b26_15']	「頗有比丘時犯、非比丘時淨？	「頗有比丘時犯、非比丘時淨？	Can there be a case where a bhikṣu commits an offense at a certain time, but purifies it at a time when he is not a bhikṣu?
+['ZH_T23_1441_008:0615b27_4', 'ZH_T23_1441_008:0615b27_14']	非比丘時犯、比丘時淨？🔽比丘時犯、比丘時淨？	非比丘時犯、比丘時淨？ 比丘時犯、比丘時淨？	Did you commit the offense when you were not a monk, and did you purify it when you were a monk?🔽Did you commit the offense when you were a monk, and did you purify it when you were a monk?
+['ZH_T23_1441_008:0615b28_6']	非比丘時犯、非比丘時淨耶？	非比丘時犯、非比丘時淨耶？	Did you commit the offense when you were not a monk, and did you purify it when you were not a monk?
+['ZH_T23_1441_008:0615b28_9']	」答：	」答：	He replied:
+['ZH_T23_1441_008:0615b28_12']	「有。	「有。	There is.
+['ZH_T23_1441_008:0615b29_1']	云何比丘時犯、非比丘時淨？	云何比丘時犯、非比丘時淨？	How is it that one commits an offense when a monk, but purifies it when not a monk?
+['ZH_T23_1441_008:0615c01_3']	若比丘犯不共僧伽婆尸沙，轉根作比丘尼得淨。	若比丘犯不共僧伽婆尸沙，轉根作比丘尼得淨。	If a monk commits a pārājika offense that is not shared with the bhikṣuṇīs, and then changes gender to become a bhikṣuṇī, he becomes purified.
+['ZH_T23_1441_008:0615c01_16']	云何非比丘時犯、比丘時淨？	云何非比丘時犯、比丘時淨？	How is it that one commits an offense when not a monk, and purifies it when a monk?
+['ZH_T23_1441_008:0615c02_17']	若比丘尼犯不共僧伽婆尸沙，轉根作比丘即得淨。	若比丘尼犯不共僧伽婆尸沙，轉根作比丘即得淨。	If a bhikṣuṇī commits a pārājika offense that is not shared with the bhikṣus, and then changes gender to become a bhikṣu, she becomes purified.
+['ZH_T23_1441_008:0615c03_10']	云何比丘時犯、比丘時淨？	云何比丘時犯、比丘時淨？	How is it that one commits an offense when a monk, and purifies it when a monk?
+['ZH_T23_1441_008:0615c03_20']	比丘犯戒，如法懺悔。	比丘犯戒，如法懺悔。	A monk commits an offense and repents according to the Dharma.
+['ZH_T23_1441_008:0615c04_13']	云何非比丘時犯、非比丘時淨？	云何非比丘時犯、非比丘時淨？	How is it that one commits an offense when not a monk, and purifies it when not a monk?
+['ZH_T23_1441_008:0615c05_6']	若比丘尼犯戒，如法懺悔。	若比丘尼犯戒，如法懺悔。	A bhikṣuṇī commits an offense and repents according to the Dharma.
+['ZH_T23_1441_008:0615c06_1', 'ZH_T23_1441_008:0615c06_14']	」問：🔽「頗有比丘眠時犯、覺時淨？	」問： 「頗有比丘眠時犯、覺時淨？	He asked:🔽Can it be that one commits an offense while sleeping, but is purified upon waking?
+['ZH_T23_1441_008:0615c07_2']	覺時犯、眠時淨耶？	覺時犯、眠時淨耶？	Can one commit an offense while awake, but be purified upon falling asleep?
+['ZH_T23_1441_008:0615c07_5']	」答：	」答：	Answer:🔽🔽
+['ZH_T23_1441_008:0615c07_8']	「有。	「有。	Yes, there is.
+['ZH_T23_1441_008:0615c07_18']	云何眠時犯、覺時淨？	云何眠時犯、覺時淨？	How is it that one commits an offense while sleeping but is pure when awake?
+['ZH_T23_1441_008:0615c08_21']	若比丘眠時，舉著高床上，女人入宿，覺已知，如法懺悔。	若比丘眠時，舉著高床上，女人入宿，覺已知，如法懺悔。	If a bhikṣu sleeps while being carried on a high bed, and a woman enters and sleeps with him, he becomes aware of it when he wakes up and repents in accordance with the Dharma.
+['ZH_T23_1441_008:0615c09_9']	云何覺時犯、眠時淨？	云何覺時犯、眠時淨？	How is it that one commits an offense when awake but is pure when sleeping?
+['ZH_T23_1441_008:0615c10_16']	若比丘犯僧伽婆尸沙，阿浮呵那時聞白已眠，即眠中羯磨竟。	若比丘犯僧伽婆尸沙，阿浮呵那時聞白已眠，即眠中羯磨竟。	If a bhikṣu commits a saṃghāvaśeṣa offense and falls asleep during the āfyaḥ recitation, the karman is completed while he is asleep.
+['ZH_T23_1441_008:0615c11_1']	」問：	」問：	Yes, there is.
+['ZH_T23_1441_008:0615c12_3']	「如世尊所說，若比丘故出精，除夢中，僧伽婆尸沙。	「如世尊所說，若比丘故出精，除夢中，僧伽婆尸沙。	As the World-Honored One has said, if a bhikṣu intentionally emits semen, except in a dream, it is a saṃghāvaśeṣa offense.
+['ZH_T23_1441_008:0615c13_10', 'ZH_T23_1441_008:0615c13_13']	頗有比丘故出精不犯耶？🔽」答：	頗有比丘故出精不犯耶？ 」答：	Can a bhikṣu intentionally emit semen without committing an offense?
+['ZH_T23_1441_008:0615c13_16']	「有。	「有。	Yes, there is.
+['ZH_T23_1441_008:0615c13_19', 'ZH_T23_1441_008:0615c14_2']	前者。🔽」又問：	前者。 」又問：	The former.
+['ZH_T23_1441_008:0615c14_14', 'ZH_T23_1441_008:0615c14_17']	「頗非前者故出精不犯耶？🔽」答：	「頗非前者故出精不犯耶？ 」答：	Can one who is not the former intentionally emit semen without committing an offense?
+['ZH_T23_1441_008:0615c14_20']	「有。	「有。	Yes, there is.
+['ZH_T23_1441_008:0615c15_3', 'ZH_T23_1441_008:0615c16_2']	出他精，偷羅遮。🔽」又問：	出他精，偷羅遮。 」又問：	Emitting another's semen is a sthūlātyaya offense.
+['ZH_T23_1441_008:0615c16_14', 'ZH_T23_1441_008:0615c16_17']	「頗有比丘故出精不犯耶？🔽」答：	「頗有比丘故出精不犯耶？ 」答：	Can a bhikṣu intentionally emit semen without committing an offense?🔽Yes, there is.
+['ZH_T23_1441_008:0615c16_20']	「有。	「有。	Yes, there is.
+['ZH_T23_1441_008:0615c17_2']	為他作境界。	為他作境界。	To serve as an object for others.
+['ZH_T23_1441_008:0615c18_2']	」又問：	」又問：	 He asked again:
+['ZH_T23_1441_008:0615c18_14']	「頗有比丘故出精不犯耶？	「頗有比丘故出精不犯耶？	Are there any bhikṣus who intentionally emit semen but do not commit an offense?
+['ZH_T23_1441_008:0615c18_17']	」答：	」答：	 He replied:
+['ZH_T23_1441_008:0615c18_20']	「有。	「有。	There are.
+['ZH_T23_1441_008:0615c19_17']	本犯戒、本不和合、賊住、污染比丘尼，突吉羅。	本犯戒、本不和合、賊住、污染比丘尼，突吉羅。	Those who have previously violated precepts, those who are not in harmony, those who are thieves, and those who defile bhikṣuṇīs, it is a duṣkṛta offense.
+['ZH_T23_1441_008:0615c20_1']	」問：	」問：	 He asked:
+['ZH_T23_1441_008:0615c21_1']	「頗有未受具戒人故出精犯僧伽婆尸沙耶？	「頗有未受具戒人故出精犯僧伽婆尸沙耶？	Are there any who have not yet received full ordination who intentionally emit semen and commit a saṃghāvaśeṣa offense?
+['ZH_T23_1441_008:0615c21_4']	」答：	」答：	 He replied:
+['ZH_T23_1441_008:0615c21_7']	「有。	「有。	There are.
+['ZH_T23_1441_008:0615c21_11']	謂學戒。	謂學戒。	It refers to those training in the precepts.
+['ZH_T23_1441_008:0615c22_1']	」問：	」問：	 He asked:
+['ZH_T23_1441_008:0615c22_21']	「如世尊所說，比丘摩觸女人，僧伽婆尸沙。	「如世尊所說，比丘摩觸女人，僧伽婆尸沙。	As the World-Honored One has said, if a bhikṣu touches a woman, it is a saṃghāvaśeṣa offense.
+['ZH_T23_1441_008:0615c23_9']	頗有比丘摩觸不犯耶？	頗有比丘摩觸不犯耶？	Are there any bhikṣus who touch but do not commit an offense?
+['ZH_T23_1441_008:0615c23_12']	」答：	」答：	 He replied:
+['ZH_T23_1441_008:0615c23_15', 'ZH_T23_1441_008:0615c24_3']	「有。🔽若女人身根壞，偷羅遮。	「有。 若女人身根壞，偷羅遮。	There are.🔽If the woman's sense organ is damaged, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0615c24_15']	若病癬疥痒摩觸，偷羅遮。	若病癬疥痒摩觸，偷羅遮。	If she scratches an itchy scab while being touched, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0615c25_5']	比丘身根壞等亦如是。	比丘身根壞等亦如是。	If the bhikṣu's sense organ is damaged, it is the same.
+['ZH_T23_1441_008:0615c25_15']	俱身根壞等，突吉羅。	俱身根壞等，突吉羅。	If both sense organs are damaged, it is a duṣkṛta offense.
+['ZH_T23_1441_008:0615c26_13']	若比丘疑為是女人非女人摩觸，偷羅遮。	若比丘疑為是女人非女人摩觸，偷羅遮。	If a bhikṣu is unsure whether it is a woman or not a woman touching him, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0615c27_11', 'ZH_T23_1441_008:0615c28_2']	若染著餘女人、摩觸餘女人，偷羅遮。🔽若摩觸齒爪毛，偷羅遮。	若染著餘女人、摩觸餘女人，偷羅遮。 若摩觸齒爪毛，偷羅遮。	If he is attached to another woman and touches another woman, it is a sthūlātyaya offense.🔽If he touches teeth, nails, or hair, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0615c28_10']	摩觸骨，偷羅遮。	摩觸骨，偷羅遮。	If he touches bone, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0615c29_6']	女人來摩觸比丘齒爪毛，突吉羅。	女人來摩觸比丘齒爪毛，突吉羅。	If a woman comes and touches a bhikṣu's teeth, nails, or hair, it is a duṣkṛta offense.
+['ZH_T23_1441_008:0616a01_1']	摩觸離身齒爪毛髮骨，突吉羅。	摩觸離身齒爪毛髮骨，突吉羅。	If he touches something separated from the body, such as teeth, nails, hair, or bone, it is a duṣkṛta offense.
+['ZH_T23_1441_008:0616a01_18']	爪齒毛髮骨爪齒毛髮骨摩觸，突吉羅。	爪齒毛髮骨爪齒毛髮骨摩觸，突吉羅。	If he touches nails, teeth, hair, bone, nails, teeth, hair, or bone, it is a duṣkṛta offense.
+['ZH_T23_1441_008:0616a02_11', 'ZH_T23_1441_008:0616a03_3']	」比丘比丘相摩觸，偷羅遮。🔽比丘摩觸女黃門，偷羅遮。	」比丘比丘相摩觸，偷羅遮。 比丘摩觸女黃門，偷羅遮。	If a bhikṣu touches another bhikṣu, it is a sthūlātyaya offense.🔽If a bhikṣu touches a woman or a paṇḍaka, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0616a03_15']	女黃門摩觸比丘，突吉羅。	女黃門摩觸比丘，突吉羅。	If a woman or paṇḍaka touches a bhikṣu, it is a duṣkṛta offense.
+['ZH_T23_1441_008:0616a04_6']	比丘摩觸男子，偷羅遮。	比丘摩觸男子，偷羅遮。	If a bhikṣu touches a man, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0616a05_8']	若比丘摩觸女身時，比丘轉根作比丘尼，偷羅遮。	若比丘摩觸女身時，比丘轉根作比丘尼，偷羅遮。	If a bhikṣu is touching a woman's body and the bhikṣu changes sex and becomes a bhikṣuṇī, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0616a06_9']	比丘摩觸男子，男子轉根作女人，僧伽婆尸沙。	比丘摩觸男子，男子轉根作女人，僧伽婆尸沙。	If a bhikṣu touches a man, and the man changes sex to become a woman, it is a saṃghāvaśeṣa offense.
+['ZH_T23_1441_008:0616a07_11']	若比丘摩觸男子時，比丘轉根作比丘尼，波羅夷。	若比丘摩觸男子時，比丘轉根作比丘尼，波羅夷。	If a bhikṣu touches a man, and the bhikṣu changes sex to become a bhikṣuṇī, it is a pārājika offense.
+['ZH_T23_1441_008:0616a08_7', 'ZH_T23_1441_008:0616a10_1']	若比丘摩觸男子，俱轉根，偷羅遮。🔽若比丘尼摩觸男子，男子轉根作女人，偷羅遮。	若比丘摩觸男子，俱轉根，偷羅遮。 若比丘尼摩觸男子，男子轉根作女人，偷羅遮。	If a bhikṣu touches a man, and both change sex, it is a sthūlātyaya offense.🔽If a bhikṣuṇī touches a man, and the man changes sex to become a woman, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0616a11_2']	比丘尼摩觸男子，比丘尼轉根作比丘，偷羅遮。	比丘尼摩觸男子，比丘尼轉根作比丘，偷羅遮。	If a bhikṣuṇī touches a man, and the bhikṣuṇī changes sex to become a bhikṣu, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0616a11_18', 'ZH_T23_1441_008:0616a12_17']	比丘尼摩觸女人，俱轉根，偷羅遮。🔽比丘尼摩觸比丘，轉根作比丘，偷羅遮。	比丘尼摩觸女人，俱轉根，偷羅遮。 比丘尼摩觸比丘，轉根作比丘，偷羅遮。	If a bhikṣuṇī touches a woman, and both change sex, it is a sthūlātyaya offense.🔽If a bhikṣuṇī touches a bhikṣu, and he changes sex to become a bhikṣuṇī, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0616a13_16']	比丘摩觸比丘尼，轉根作比丘尼，偷羅遮。	比丘摩觸比丘尼，轉根作比丘尼，偷羅遮。	If a bhikṣu touches a bhikṣuṇī, and she changes sex to become a bhikṣu, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0616a14_7']	為溫煖細軟故，不犯。	為溫煖細軟故，不犯。	If it is for the sake of warmth or softness, there is no offense.
+['ZH_T23_1441_008:0616a15_2']	比丘摩觸黃門二根不男，偷羅遮。	比丘摩觸黃門二根不男，偷羅遮。	If a bhikṣu touches a paṇḍaka or a hermaphrodite, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0616a15_16']	摩觸入滅盡定比丘尼，偷羅遮。	摩觸入滅盡定比丘尼，偷羅遮。	If one touches a nun who has entered the attainment of cessation, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0616a16_9']	無污染心摩觸女人，突吉羅。	無污染心摩觸女人，突吉羅。	If one touches a woman without a defiled mind, it is a duṣkṛta offense.
+['ZH_T23_1441_008:0616a16_22']	母想、姊妹想、女想，不犯。	母想、姊妹想、女想，不犯。	If one thinks of her as one's mother, sister, or daughter, there is no offense.
+['ZH_T23_1441_008:0616a17_13']	本二，不染污心摩觸，突吉羅。	本二，不染污心摩觸，突吉羅。	The original two, if one touches without a defiled mind, it is a duṣkṛta offense.
+['ZH_T23_1441_008:0616a18_16']	若火中水中、師子虎狼、非人及餘諸難中捉出，不犯。	若火中水中、師子虎狼、非人及餘諸難中捉出，不犯。	If one rescues someone from a fire, water, a lion, a tiger, a wolf, a non-human, or other difficulties, there is no offense.
+['ZH_T23_1441_008:0616a19_1']	問：	問：	Question:
+['ZH_T23_1441_008:0616a19_18']	「若比丘於女人所麁語，僧伽婆尸沙。	「若比丘於女人所麁語，僧伽婆尸沙。	If a bhikṣu speaks coarsely to a woman, it is a saṃghāvaśeṣa offense.
+['ZH_T23_1441_008:0616a20_5', 'ZH_T23_1441_008:0616a20_8']	頗有麁語不犯耶？🔽」答：	頗有麁語不犯耶？ 」答：	Are there any cases of coarse speech that are not offenses?🔽Answer:
+['ZH_T23_1441_008:0616a20_11']	「有。	「有。	There are.
+['ZH_T23_1441_008:0616a20_20']	為他麁語，偷羅遮。	為他麁語，偷羅遮。	If one speaks coarsely for the sake of another, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0616a22_2']	遣書疏汝根斷、汝根惡、汝與我分、共我眠，皆犯偷羅遮。	遣書疏汝根斷、汝根惡、汝與我分、共我眠，皆犯偷羅遮。	If one sends a letter saying 'your organ is cut off,' 'your organ is bad,' 'share with me,' or 'sleep with me,' it is all a sthūlātyaya offense.
+['ZH_T23_1441_008:0616a22_15']	黃門二根邊麁惡語，偷羅遮。	黃門二根邊麁惡語，偷羅遮。	If one speaks coarsely to a paṇḍaka or a hermaphrodite, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0616a23_11']	入滅盡定比丘尼所麁惡語，偷羅遮。	入滅盡定比丘尼所麁惡語，偷羅遮。	If one speaks coarsely to a nun who has entered the attainment of cessation, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0616a23_19']	讚歎己身亦如是。	讚歎己身亦如是。	Praising oneself is also like this.
+['ZH_T23_1441_008:0616a24_1']	」問：	」問：	Asked:
+['ZH_T23_1441_008:0616a24_16']	「若法有非過去非未來非現在耶？	「若法有非過去非未來非現在耶？	Are there any dharmas that are neither past, nor future, nor present?
+['ZH_T23_1441_008:0616a24_19']	」答：	」答：	Answered:
+['ZH_T23_1441_008:0616a24_22']	「有。	「有。	There are.
+['ZH_T23_1441_008:0616a25_9']	謂媒嫁受語去，偷羅遮。	謂媒嫁受語去，偷羅遮。	If one acts as a matchmaker and accepts a message, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0616a25_17']	還報懺悔，何罪？	還報懺悔，何罪？	If one returns to report and repents, what is the offense?
+['ZH_T23_1441_008:0616a26_4']	謂僧伽婆尸沙。	謂僧伽婆尸沙。	It is a saṃghāvaśeṣa offense.
+['ZH_T23_1441_008:0616a26_16']	人男人女先以期，比丘言：	人男人女先以期，比丘言：	If a man or woman has previously made an appointment, and a bhikṣu says:
+['ZH_T23_1441_008:0616a27_1', 'ZH_T23_1441_008:0616a27_6']	『姊妹合耶。🔽』突吉羅。	『姊妹合耶。 』突吉羅。	'Sister, are you united?'🔽It is a duṣkṛta offense.
+['ZH_T23_1441_008:0616a27_15']	自在不自在亦如是。	自在不自在亦如是。	The same is true for those who are independent and those who are not independent.
+['ZH_T23_1441_008:0616a27_20']	云何自在？	云何自在？	What is meant by independent?
+['ZH_T23_1441_008:0616a28_11']	多有財有息、國王長者所信。	多有財有息、國王長者所信。	Those who have much wealth and interest, and are trusted by the king and elders.
+['ZH_T23_1441_008:0616a28_17']	云何不自在？	云何不自在？	What is meant by not independent?
+['ZH_T23_1441_008:0616a29_11']	無有財息、國王長者所不信持。	無有財息、國王長者所不信持。	Those who have no wealth and interest, and are not trusted by the king and elders.
+['ZH_T23_1441_008:0616b01_5']	不自在語至自在所，偷羅遮。	不自在語至自在所，偷羅遮。	If one goes to those who are independent with the words of those who are not independent, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0616b01_17', 'ZH_T23_1441_008:0616b02_8']	若比丘言買女人，突吉羅。🔽買某甲女人，偷羅遮。	若比丘言買女人，突吉羅。 買某甲女人，偷羅遮。	If a bhikṣu says he is buying a woman, it is a duṣkṛta offense.🔽If he says he is buying a certain woman, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0616b02_20']	於買女人所媒嫁，偷羅遮。	於買女人所媒嫁，偷羅遮。	If he acts as a matchmaker for a woman who is being bought, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0616b03_18']	一女懷男、一女懷女，於中媒嫁，偷羅遮。	一女懷男、一女懷女，於中媒嫁，偷羅遮。	If one woman is pregnant with a boy and another woman is pregnant with a girl, and one arranges a marriage between them, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0616b04_6']	若空媒嫁，偷羅遮。	若空媒嫁，偷羅遮。	If one arranges a marriage for someone who is not a human, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0616b04_20']	若比丘持去持來，僧伽婆尸沙。	若比丘持去持來，僧伽婆尸沙。	If a bhikṣu takes and brings [someone], it is a saṃghāvaśeṣa offense.
+['ZH_T23_1441_008:0616b05_7']	後去來，偷羅遮。	後去來，偷羅遮。	If one goes and comes back later, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0616b05_18', 'ZH_T23_1441_008:0616b06_15']	媒嫁黃門二根，偷羅遮。🔽若比丘狂人邊受語，至狂人所，偷羅遮。	媒嫁黃門二根，偷羅遮。 若比丘狂人邊受語，至狂人所，偷羅遮。	If one arranges a marriage for a paṇḍaka or a person with two genitals, it is a sthūlātyaya offense.🔽If a bhikṣu receives a message from a mad person and goes to the mad person, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0616b07_11', 'ZH_T23_1441_008:0616b08_7']	狂人邊受語，至非狂人所，偷羅遮。🔽非狂人邊受語，至狂人所，偷羅遮。	狂人邊受語，至非狂人所，偷羅遮。 非狂人邊受語，至狂人所，偷羅遮。	If one receives a message from a mad person and goes to someone who is not mad, it is a sthūlātyaya offense.🔽If one receives a message from someone who is not mad and goes to a mad person, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0616b09_5', 'ZH_T23_1441_008:0616b10_2']	散亂人邊受語，至散亂人所，偷羅遮。🔽散亂人所受語，至非散亂人所，偷羅遮。	散亂人邊受語，至散亂人所，偷羅遮。 散亂人所受語，至非散亂人所，偷羅遮。	If one receives a message from a distracted person and goes to a distracted person, it is a sthūlātyaya offense.🔽If one receives a message from a distracted person and goes to someone who is not distracted, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0616b11_9']	不散亂人所受語，至非散亂人所說已還報，僧伽婆尸沙。	不散亂人所受語，至非散亂人所說已還報，僧伽婆尸沙。	If one receives a message from someone who is not distracted and goes to someone who is not distracted, and after speaking returns the message, it is a saṃghāvaśeṣa offense.
+['ZH_T23_1441_008:0616b11_16']	居士語比丘僧：	居士語比丘僧：	A householder said to a bhikṣu:
+['ZH_T23_1441_008:0616b11_20']	『大德！	『大德！	Venerable Sirs!
+['ZH_T23_1441_008:0616b12_9']	能為我至某甲居士所言：	能為我至某甲居士所言：	Please go to the householder so-and-so and say:
+['ZH_T23_1441_008:0616b13_8']	「我有女姊妹與汝兒，汝有女姊妹與我兒。	「我有女姊妹與汝兒，汝有女姊妹與我兒。	I have a daughter who can be your wife, and you have a daughter who can be my wife.
+['ZH_T23_1441_008:0616b14_9']	」』眾僧受語，語彼還報，一切僧得僧伽婆尸沙。	」』眾僧受語，語彼還報，一切僧得僧伽婆尸沙。	If the Sangha accepts the message and sends it, and the messenger returns to report, the entire Sangha commits a saṃghāvaśeṣa offense.
+['ZH_T23_1441_008:0616b15_17']	若眾僧同意遣一比丘往語，彼還報，一切僧得僧伽婆尸沙。	若眾僧同意遣一比丘往語，彼還報，一切僧得僧伽婆尸沙。	If the Sangha unanimously sends a single monk to deliver the message, and the messenger returns to report, the entire Sangha commits a saṃghāvaśeṣa offense.
+['ZH_T23_1441_008:0616b17_7']	若比丘自以己意，僧不使語，彼還報，自得僧伽婆尸沙，眾僧不犯。	若比丘自以己意，僧不使語，彼還報，自得僧伽婆尸沙，眾僧不犯。	If a monk on his own initiative delivers the message without being sent by the Sangha, and the messenger returns to report, the monk himself commits a saṃghāvaśeṣa offense, but the Sangha does not commit an offense.
+['ZH_T23_1441_008:0616b17_16']	媒嫁童女，偷羅遮。	媒嫁童女，偷羅遮。	If it is a girl who is being betrothed, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0616b18_7']	比丘受使已轉根，偷羅遮。	比丘受使已轉根，偷羅遮。	If a monk who has received the message changes gender, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0616b19_9', 'ZH_T23_1441_008:0616b20_5']	「還報轉根，偷羅遮。🔽受語時轉根作比丘尼，還報，偷羅遮。	「還報轉根，偷羅遮。 受語時轉根作比丘尼，還報，偷羅遮。	If the messenger returns to report and changes gender, it is a sthūlātyaya offense.🔽If the monk who has received the message changes gender and becomes a nun, and the messenger returns to report, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0616b21_5']	未受具戒時受使，未受具戒時還報，突吉羅。	未受具戒時受使，未受具戒時還報，突吉羅。	If the message is received before full ordination, and the report is returned before full ordination, it is a duṣkṛta offense.
+['ZH_T23_1441_008:0616b22_3']	未受具戒時受使，受具戒時報，突吉羅。	未受具戒時受使，受具戒時報，突吉羅。	If one accepts the mission before receiving full ordination, and delivers the message after receiving full ordination, it is duṣkṛta.
+['ZH_T23_1441_008:0616b23_3', 'ZH_T23_1441_008:0616b23_19']	未受具戒時受使，受具戒已還報，偷羅遮。🔽受具戒時受使，具戒已報，偷羅遮。	未受具戒時受使，受具戒已還報，偷羅遮。 受具戒時受使，具戒已報，偷羅遮。	If one accepts the mission before receiving full ordination, and delivers the message after receiving full ordination, it is sthūlātyaya.🔽If one accepts the mission while receiving full ordination, and delivers the message after receiving full ordination, it is sthūlātyaya.
+['ZH_T23_1441_008:0616b24_17']	受具戒已受使，未受具戒時報，偷羅遮。	受具戒已受使，未受具戒時報，偷羅遮。	If one accepts the mission after receiving full ordination, and delivers the message before receiving full ordination, it is sthūlātyaya.
+['ZH_T23_1441_008:0616b25_15']	受具戒已受使，受具戒時報，偷羅遮。	受具戒已受使，受具戒時報，偷羅遮。	If one accepts the mission after receiving full ordination, and delivers the message while receiving full ordination, it is sthūlātyaya.
+['ZH_T23_1441_008:0616b26_1']	」問：	」問：	Question:
+['ZH_T23_1441_008:0616b26_18']	「如佛所說，比丘媒嫁，僧伽婆尸沙。	「如佛所說，比丘媒嫁，僧伽婆尸沙。	As the Buddha said, if a bhikṣu acts as a matchmaker, it is a saṃghāvaśeṣa offense.
+['ZH_T23_1441_008:0616b27_6', 'ZH_T23_1441_008:0616b27_9']	頗有比丘媒嫁不犯耶？🔽」答：	頗有比丘媒嫁不犯耶？ 」答：	Can there be a case where a bhikṣu acts as a matchmaker but does not commit an offense?🔽 Answer:
+['ZH_T23_1441_008:0616b27_12']	「有。	「有。	There can be.
+['ZH_T23_1441_008:0616b28_11']	本犯戒、本不和合、賊住、污染比丘尼，突吉羅。	本犯戒、本不和合、賊住、污染比丘尼，突吉羅。	If one is originally a violator of the precepts, originally not in harmony, a thief pretending to be a monk, or a monk who has defiled a bhikṣuṇī, it is duṣkṛta.
+['ZH_T23_1441_008:0616b29_1']	」問：	」問：	Question:
+['ZH_T23_1441_008:0616b29_19', 'ZH_T23_1441_008:0616c01_1']	「頗有非受具戒人媒嫁犯僧伽婆尸沙耶？🔽」答：	「頗有非受具戒人媒嫁犯僧伽婆尸沙耶？ 」答：	Can there be a case where a person who has not received full ordination acts as a matchmaker and commits a saṃghāvaśeṣa offense?🔽 Answer:
+['ZH_T23_1441_008:0616c01_4']	「有。	「有。	There can be.
+['ZH_T23_1441_008:0616c01_8']	謂學戒。	謂學戒。	Namely, a śikṣādattaka.
+['ZH_T23_1441_008:0616c01_20']	媒嫁人男非人女，偷羅遮。	媒嫁人男非人女，偷羅遮。	If the man is a non-human and the woman is human, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0616c02_7']	人女非人男，偷羅遮。	人女非人男，偷羅遮。	If the woman is a non-human and the man is human, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0616c02_15']	俱非人，偷羅遮。	俱非人，偷羅遮。	If both are non-humans, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0616c04_4']	男女先已期，問比丘言：	男女先已期，問比丘言：	If the man and woman have already made an appointment, and he asks a bhikṣu,
+['ZH_T23_1441_008:0616c04_12']	『見某甲女人不？	『見某甲女人不？	'Have you seen a certain woman?'
+['ZH_T23_1441_008:0616c04_16']	』答言：	』答言：	The bhikṣu replies,
+['ZH_T23_1441_008:0616c04_19']	『見。	『見。	'I have seen her.
+['ZH_T23_1441_008:0616c04_24', 'ZH_T23_1441_008:0616c05_3']	在某處所。🔽』偷羅遮。	在某處所。 』偷羅遮。	She is at such-and-such a place.'🔽It is a sthūlātyaya offense.
+['ZH_T23_1441_008:0616c06_1']	」問：	」問：	He asked:
+['ZH_T23_1441_008:0616c06_17']	「頗有比丘行別住，即行別住竟耶？	「頗有比丘行別住，即行別住竟耶？	Can there be a bhikṣu who practices separate residence and immediately completes the separate residence?
+['ZH_T23_1441_008:0616c07_9']	行摩那埵，即行摩那埵竟耶？	行摩那埵，即行摩那埵竟耶？	Can there be one who practices mānāpya and immediately completes the mānāpya?
+['ZH_T23_1441_008:0616c07_12']	」答：	」答：	He replied:
+['ZH_T23_1441_008:0616c07_15']	「有。	「有。	There can be.
+['ZH_T23_1441_008:0616c09_2']	若比丘犯僧伽婆尸沙，不覆藏，往詣僧所乞行摩那埵，僧與摩那埵。	若比丘犯僧伽婆尸沙，不覆藏，往詣僧所乞行摩那埵，僧與摩那埵。	If a bhikṣu commits a saṃghāvaśeṣa offense but does not conceal it, goes to the saṃgha to beg for the practice of mānāpya, and the saṃgha grants him mānāpya.
+['ZH_T23_1441_008:0616c10_11']	彼行摩那埵竟，復犯二僧伽婆尸沙，一一夜覆藏、二二夜覆藏。	彼行摩那埵竟，復犯二僧伽婆尸沙，一一夜覆藏、二二夜覆藏。	After he completes the practice of mānāpya, he again commits two saṃghāvaśeṣa offenses, concealing each for one night and two nights.
+['ZH_T23_1441_008:0616c12_5']	僧與別住，一夜覆藏別住竟、二夜者未竟，第三夜與摩那埵，行摩那埵竟。	僧與別住，一夜覆藏別住竟、二夜者未竟，第三夜與摩那埵，行摩那埵竟。	The Sangha gave probation, and after one night of concealment, the probation was completed. For two nights, it was not completed. On the third night, he was given the manatta. After practicing the manatta,
+['ZH_T23_1441_008:0616c13_18']	」若比丘自乞作房，不從僧乞，僧伽婆尸沙。	」若比丘自乞作房，不從僧乞，僧伽婆尸沙。	If a bhikṣu himself begs for the construction of a dwelling, but does not beg from the Sangha, it is a saṃghāvaśeṣa offense.
+['ZH_T23_1441_008:0616c14_10']	乞物作房，不作，偷羅遮。	乞物作房，不作，偷羅遮。	If he begs for materials to build a dwelling, but does not build it, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0616c14_21']	從僧乞已不作，偷羅遮。	從僧乞已不作，偷羅遮。	If he has already begged from the Sangha but does not build it, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0616c15_8']	已作不成，偷羅遮。	已作不成，偷羅遮。	If it is built but not completed, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0616c15_18']	成他房自住，偷羅遮。	成他房自住，偷羅遮。	If it is completed and he himself lives in another's dwelling, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0616c16_6']	未覆為覆，偷羅遮。	未覆為覆，偷羅遮。	If it is not yet covered and he covers it, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0616c16_16']	作未成自殺，若自言：	作未成自殺，若自言：	If he builds it but does not complete it, and then kills himself, or if he says:
+['ZH_T23_1441_008:0616c17_4']	「我沙彌、黃門、二根。	「我沙彌、黃門、二根。	I am a novice monk, a eunuch, or have two organs.
+['ZH_T23_1441_008:0616c17_17']	」廣說如捨戒，皆犯偷羅遮。	」廣說如捨戒，皆犯偷羅遮。	As explained in detail in the section on relinquishing the precepts, all are sthūlātyaya offenses.
+['ZH_T23_1441_008:0616c18_1']	大房亦如是。	大房亦如是。	The same applies to large dwellings.
+['ZH_T23_1441_008:0616c19_1']	問：	問：	Question:
+['ZH_T23_1441_008:0616c19_20']	「如佛所說，無根波羅夷謗，僧伽婆尸沙。	「如佛所說，無根波羅夷謗，僧伽婆尸沙。	As the Buddha said, falsely accusing someone of a pārājika offense without evidence is a saṃghāvaśeṣa offense.
+['ZH_T23_1441_008:0616c20_13']	頗有比丘無根波羅夷謗不犯耶？	頗有比丘無根波羅夷謗不犯耶？	Can a bhikṣu falsely accuse someone of a pārājika offense without evidence and not commit an offense?
+['ZH_T23_1441_008:0616c20_16']	」答：	」答：	Answer:
+['ZH_T23_1441_008:0616c20_19']	「有。	「有。	Yes, there is.
+['ZH_T23_1441_008:0616c21_12']	若手印遣使從他聞謗，皆偷羅遮。	若手印遣使從他聞謗，皆偷羅遮。	If one uses hand gestures, sends messengers, or hears slander from others, it is all a sthūlātyaya offense.
+['ZH_T23_1441_008:0616c22_1']	」問：	」問：	Question:
+['ZH_T23_1441_008:0616c22_9']	「若比丘自書言：	「若比丘自書言：	If a bhikṣu writes himself:
+['ZH_T23_1441_008:0616c22_19']	『某甲比丘犯波羅夷。	『某甲比丘犯波羅夷。	'Bhikṣu so-and-so has committed a pārājika offense,'
+['ZH_T23_1441_008:0616c23_1']	』得何罪？	』得何罪？	what offense does he incur?
+['ZH_T23_1441_008:0616c23_4']	」答：	」答：	Answer:
+['ZH_T23_1441_008:0616c23_9']	「偷羅遮。	「偷羅遮。	It is a sthūlātyaya offense.
+['ZH_T23_1441_008:0616c24_15']	若狂癡、散亂心、苦痛心、聾盲瘖瘂、眠、入正受，皆犯偷羅遮。	若狂癡、散亂心、苦痛心、聾盲瘖瘂、眠、入正受，皆犯偷羅遮。	If one is insane, distracted, in pain, deaf, blind, mute, asleep, or in meditative absorption, it is all a sthūlātyaya offense.
+['ZH_T23_1441_008:0616c24_19']	何以故？	何以故？	Why is this?
+['ZH_T23_1441_008:0616c25_4']	不住自性心故。	不住自性心故。	Because the mind does not abide in its own nature.
+['ZH_T23_1441_008:0616c25_12']	謗黃門，偷羅遮。	謗黃門，偷羅遮。	Slandering a paṇḍaka is a sthūlātyaya offense.
+['ZH_T23_1441_008:0616c26_1']	」問：	」問：	Question:
+['ZH_T23_1441_008:0616c26_16', 'ZH_T23_1441_008:0616c26_19']	「頗有比丘無根波羅夷謗不犯耶？🔽」答：	「頗有比丘無根波羅夷謗不犯耶？ 」答：	Can a bhikṣu slander without grounds for a pārājika offense and not commit an offense?🔽Answer:
+['ZH_T23_1441_008:0616c26_22']	「有。	「有。	There is.
+['ZH_T23_1441_008:0616c27_14']	本犯戒、本不和合、賊住，突吉羅。	本犯戒、本不和合、賊住，突吉羅。	If the other is a bhikṣu who has originally broken the precepts, who has originally not been ordained, or who is a thief pretending to be a monk, it is a duṣkṛta offense.
+['ZH_T23_1441_008:0616c28_11', 'ZH_T23_1441_008:0616c28_14']	」「頗有比丘非具戒人謗，犯僧伽婆尸沙耶？🔽」答：	」「頗有比丘非具戒人謗，犯僧伽婆尸沙耶？ 」答：	Can a bhikṣu who is not fully ordained slander and commit a saṃghāvaśeṣa offense?🔽Answer:
+['ZH_T23_1441_008:0616c28_17']	「有。	「有。	There is.
+['ZH_T23_1441_008:0616c28_22']	謂學戒人。	謂學戒人。	If the other is a person who is training in the precepts.
+['ZH_T23_1441_008:0616c29_1']	」問：	」問：	Question:
+['ZH_T23_1441_008:0616c29_8']	「若比丘自言：	「若比丘自言：	If a bhikṣu himself says:
+['ZH_T23_1441_008:0616c29_15']	『我作非梵行。	『我作非梵行。	'I have engaged in non-celibate conduct.'
+['ZH_T23_1441_008:0617a01_3']	以無根教人謗比丘。	以無根教人謗比丘。	And accuses another bhikṣu without grounds,
+['ZH_T23_1441_008:0617a01_8']	』犯何罪？	』犯何罪？	what offense does he commit?
+['ZH_T23_1441_008:0617a01_11']	」答：	」答：	The answer:
+['ZH_T23_1441_008:0617a01_18']	「僧伽婆尸沙。	「僧伽婆尸沙。	A saṃghāvaśeṣa offense.
+['ZH_T23_1441_008:0617a01_23']	展轉如輪。	展轉如輪。	It is like a wheel turning.
+['ZH_T23_1441_008:0617a03_3']	」「如佛所說，若比丘無根波羅夷謗比丘，僧伽婆尸沙。	」「如佛所說，若比丘無根波羅夷謗比丘，僧伽婆尸沙。	As the Buddha has said, if a bhikṣu accuses another bhikṣu of a pārājika offense without grounds, it is a saṃghāvaśeṣa offense.
+['ZH_T23_1441_008:0617a04_1']	若比丘無根波羅夷謗比丘尼，犯何罪？	若比丘無根波羅夷謗比丘尼，犯何罪？	If a bhikṣu accuses a bhikṣuṇī of a pārājika offense without grounds, what offense does he commit?
+['ZH_T23_1441_008:0617a04_4']	」答：	」答：	The answer:
+['ZH_T23_1441_008:0617a04_11']	「僧伽婆尸沙。	「僧伽婆尸沙。	A saṃghāvaśeṣa offense.
+['ZH_T23_1441_008:0617a04_22']	手印遣信謗，皆偷羅遮。	手印遣信謗，皆偷羅遮。	Accusing by hand signal or messenger is all a sthūlātyaya offense.
+['ZH_T23_1441_008:0617a05_1']	」問：	」問：	The question:
+['ZH_T23_1441_008:0617a06_2']	「若比丘尼無根波羅夷謗比丘尼，僧伽婆尸沙。	「若比丘尼無根波羅夷謗比丘尼，僧伽婆尸沙。	If a bhikṣuṇī accuses another bhikṣuṇī of a pārājika offense without grounds, it is a saṃghāvaśeṣa offense.
+['ZH_T23_1441_008:0617a07_7']	八事、覆藏麁罪、隨順擯比丘、摩觸身謗，僧伽婆尸沙。	八事、覆藏麁罪、隨順擯比丘、摩觸身謗，僧伽婆尸沙。	Accusing a bhikṣu who is undergoing probation for a serious offense, a bhikṣu who has been expelled, or a bhikṣu who has been suspended for not recognizing an offense, is a saṃghāvaśeṣa offense.
+['ZH_T23_1441_008:0617a07_20']	若比丘謗式叉摩那，偷羅遮。	若比丘謗式叉摩那，偷羅遮。	If a bhikṣu accuses a śikṣaṇādattaka, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0617a08_10']	謗沙彌沙彌尼，偷羅遮。	謗沙彌沙彌尼，偷羅遮。	Accusing a śrāmaṇerī or a śrāmaṇerī is a sthūlātyaya offense.
+['ZH_T23_1441_008:0617a09_3', 'ZH_T23_1441_008:0617a10_2']	比丘尼謗比丘，僧伽婆尸沙。🔽比丘尼謗式叉摩那、沙彌、沙彌尼，偷羅遮。	比丘尼謗比丘，僧伽婆尸沙。 比丘尼謗式叉摩那、沙彌、沙彌尼，偷羅遮。	If a bhikṣuṇī falsely accuses a bhikṣu, it is a saṃghāvaśeṣa offense.🔽If a bhikṣuṇī falsely accuses a śikṣamāṇā, novice monk, or novice nun, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0617a10_18']	式叉摩那謗比丘、比丘尼，突吉羅。	式叉摩那謗比丘、比丘尼，突吉羅。	If a śrāmaṇerī falsely accuses a bhikṣu or bhikṣuṇī, it is a duṣkṛta offense.
+['ZH_T23_1441_008:0617a12_3']	」「如世尊所說，比丘無根波羅夷謗比丘，僧伽婆尸沙。	」「如世尊所說，比丘無根波羅夷謗比丘，僧伽婆尸沙。	As the World-Honored One has said, if a bhikṣu falsely accuses a bhikṣu of a pārājika offense without grounds, it is a saṃghāvaśeṣa offense.
+['ZH_T23_1441_008:0617a12_15']	無根逆罪謗比丘，得何罪？	無根逆罪謗比丘，得何罪？	If one falsely accuses a bhikṣu of an ānantarya offense, what offense does one commit?
+['ZH_T23_1441_008:0617a12_18']	」答：	」答：	 The answer:
+['ZH_T23_1441_008:0617a13_2']	「僧伽婆尸沙。	「僧伽婆尸沙。	It is a saṃghāvaśeṣa offense.
+['ZH_T23_1441_008:0617a13_15']	又說犯僧伽婆尸沙，突吉羅。	又說犯僧伽婆尸沙，突吉羅。	It is also said that it is a saṃghāvaśeṣa offense and a duṣkṛta offense.
+['ZH_T23_1441_008:0617a14_4']	云何僧伽婆尸沙？	云何僧伽婆尸沙？	What is a saṃghāvaśeṣa offense?
+['ZH_T23_1441_008:0617a15_1']	謂以殺母父、阿羅漢謗，僧伽婆尸沙。	謂以殺母父、阿羅漢謗，僧伽婆尸沙。	It means falsely accusing someone of killing their mother, father, or an arhat, which is a saṃghāvaśeṣa offense.
+['ZH_T23_1441_008:0617a15_14']	破僧、出佛身血謗，突吉羅。	破僧、出佛身血謗，突吉羅。	Falsely accusing someone of splitting the Saṅgha or drawing blood from a Tathāgata is a duṣkṛta offense.
+['ZH_T23_1441_008:0617a15_19']	如是說者。	如是說者。	This is how it is explained.
+['ZH_T23_1441_008:0617a16_6']	一切犯僧伽婆尸沙。	一切犯僧伽婆尸沙。	All saṃghāvaśeṣa offenses.
+['ZH_T23_1441_008:0617a16_10']	何以故？	何以故？	Why is it so?
+['ZH_T23_1441_008:0617a17_1']	一切無間罪非比丘故。	一切無間罪非比丘故。	Because all ānantarya offenses are not bhikṣus.
+['ZH_T23_1441_008:0617a17_18']	除無間罪，以餘法謗，偷羅遮突吉羅。	除無間罪，以餘法謗，偷羅遮突吉羅。	Except for the crime of immediate retribution, slandering with other dharmas is a sthūlātyaya offense and a duṣkṛta offense.
+['ZH_T23_1441_008:0617a18_14']	遣使手印展轉無根五逆謗，偷羅遮。	遣使手印展轉無根五逆謗，偷羅遮。	Sending a messenger, hand gesture, or passing it on without grounds to slander with the five heinous crimes is a sthūlātyaya offense.
+['ZH_T23_1441_008:0617a20_6']	比丘自作書，某甲比丘殺母父、阿羅漢、破僧、惡心出佛身血，偷羅遮。	比丘自作書，某甲比丘殺母父、阿羅漢、破僧、惡心出佛身血，偷羅遮。	If a bhikṣu writes a letter saying that a certain bhikṣu has killed his mother, father, an arhat, split the Saṅgha, or maliciously drawn blood from the body of the Buddha, it is a sthūlātyaya offense.
+['ZH_T23_1441_008:0617a21_1']	」問：	」問：	Question:
+['ZH_T23_1441_008:0617a21_13', 'ZH_T23_1441_008:0617a21_16']	「頗有比丘無根謗不犯耶？🔽」答：	「頗有比丘無根謗不犯耶？ 」答：	Can a bhikṣu slander without grounds without committing an offense?🔽Answer:
+['ZH_T23_1441_008:0617a21_19']	「有。	「有。	There are.
+['ZH_T23_1441_008:0617a22_18']	謂狂、散亂、重病、聾盲瘖瘂、眠、入定謗，皆偷羅遮。	謂狂、散亂、重病、聾盲瘖瘂、眠、入定謗，皆偷羅遮。	Namely, if one slanders while insane, distracted, gravely ill, deaf, blind, mute, asleep, or in concentration, it is all a sthūlātyaya offense.
+['ZH_T23_1441_008:0617a23_1']	何以故？	何以故？	Why is this?
+['ZH_T23_1441_008:0617a23_8']	心不住自性故。	心不住自性故。	Because the mind does not abide in its own nature.
+['ZH_T23_1441_008:0617a24_1']	」問：	」問：	Question:
+['ZH_T23_1441_008:0617a24_16', 'ZH_T23_1441_008:0617a24_19']	「頗有比丘無根波羅夷謗不犯耶？🔽」答：	「頗有比丘無根波羅夷謗不犯耶？ 」答：	Can a bhikṣu slander without grounds with a pārājika offense without committing an offense?🔽Answer:
+['ZH_T23_1441_008:0617a24_22']	「有。	「有。	There are.
+['ZH_T23_1441_008:0617a25_20']	本犯戒、本不和合、賊住、污染比丘尼，突吉羅。	本犯戒、本不和合、賊住、污染比丘尼，突吉羅。	If one slanders a bhikṣu who has originally committed a pārājika offense, who is not in harmony, who is a thief, or who has defiled a bhikṣuṇī, it is a duṣkṛta offense.
+['ZH_T23_1441_008:0617a26_16']	比丘自言我殺母殺父謗，僧伽婆尸沙。	比丘自言我殺母殺父謗，僧伽婆尸沙。	The monk himself says, I have killed my mother, killed my father, slandered, and is guilty of a saṃghabheda offense.
+['ZH_T23_1441_008:0617a27_11']	乃至出佛身血謗，僧伽婆尸沙。	乃至出佛身血謗，僧伽婆尸沙。	Up to I have drawn blood from the Buddha's body, slandered, and is guilty of a saṃghabheda offense.
+['ZH_T23_1441_008:0617a27_17']	展轉亦如是。	展轉亦如是。	The same applies to the rest.
+['ZH_T23_1441_008:0617a28_4']	比丘尼亦如是。	比丘尼亦如是。	The same applies to bhikṣuṇīs.
+['ZH_T23_1441_008:0617a28_14']	比丘尼謗比丘亦如是。	比丘尼謗比丘亦如是。	The same applies to bhikṣuṇīs slandering bhikṣus.
+['ZH_T23_1441_008:0617a29_12']	比丘謗式叉摩那乃至沙彌尼，突吉羅。	比丘謗式叉摩那乃至沙彌尼，突吉羅。	A bhikṣu slandering a śikṣamāṇā up to a śrāmaṇerī is duṣkṛta.
+['ZH_T23_1441_008:0617a29_19']	比丘尼亦如是。	比丘尼亦如是。	The same applies to bhikṣuṇīs.🔽A śikṣamāṇā slandering a bhikṣu or bhikṣuṇī is duṣkṛta.
+['ZH_T23_1441_008:0617b01_15']	式叉摩那謗比丘、比丘尼，突吉羅。	式叉摩那謗比丘、比丘尼，突吉羅。	Here is the corrected and aligned text:🔽Sattvārthasiddhi-nāma-mahāyānasūtra
+['ZH_T23_1441_008:0617b02_100']	」薩婆多部毘尼摩得勒伽卷第八	」薩婆多部毘尼摩得勒伽卷第八	Sattvārthasiddhi-nāma-mahāyānasūtra, Fascicle 8

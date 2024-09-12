@@ -1,0 +1,921 @@
+segmentnr	original	analyzed	translated
+['ZH_T51_2066_001:0001a03_0']	大唐西域求法高僧傳卷上	大唐西域求法高僧傳卷上	The Biographies of Eminent Monks Who Sought the Dharma in the Western Regions during the Great Tang, Volume 1
+['ZH_T51_2066_001:0001a04_0']	序并序	序并序	Preface and Introduction
+['ZH_T51_2066_001:0001a06_0']	沙門義淨從西國還在南海室	沙門義淨從西國還在南海室	Śramaṇa Yijing, returning from the Western Regions, stayed in Śrīvijaya in the South Seas
+['ZH_T51_2066_001:0001a08_8']	利佛逝撰寄歸并那爛陀寺圖觀夫自古神州之地。	利佛逝撰寄歸并那爛陀寺圖觀夫自古神州之地。	Composed and sent back the illustrations of Nālandā Monastery. Considering that from ancient times, in the land of Shenzhou,
+['ZH_T51_2066_001:0001a08_15', 'ZH_T51_2066_001:0001a09_5']	輕生殉法之賓。🔽顯法師則創闢荒途。	輕生殉法之賓。 顯法師則創闢荒途。	Guests who risked their lives to pursue the Dharma,🔽Fǎshī Xuánzàng then pioneered the wilderness road.
+['ZH_T51_2066_001:0001a09_14', 'ZH_T51_2066_001:0001a10_6']	奘法師乃中開王路。🔽其間或西越紫塞而孤征。	奘法師乃中開王路。 其間或西越紫塞而孤征。	Fǎshī Zhèngjìng then opened the royal road in the middle.🔽Among them, some crossed the Purple Pass in the west and traveled alone.
+['ZH_T51_2066_001:0001a10_15']	或南渡滄溟以單逝。	或南渡滄溟以單逝。	Some crossed the vast ocean in the south and departed alone.
+['ZH_T51_2066_001:0001a11_9']	莫不咸思聖跡罄五體而歸禮。	莫不咸思聖跡罄五體而歸禮。	All of them thought of the holy traces, exhausted their five bodies, and returned to make offerings.
+['ZH_T51_2066_001:0001a12_2']	俱懷旋踵報四恩以流望。	俱懷旋踵報四恩以流望。	All of them had the intention to return and repay the four kinds of kindness with their longing.
+['ZH_T51_2066_001:0001a12_13']	然而勝途多難寶處彌長。	然而勝途多難寶處彌長。	However, the superior path has many difficulties, and the precious place is even longer.
+['ZH_T51_2066_001:0001a13_2']	苗秀盈十而蓋多。	苗秀盈十而蓋多。	The seedlings are abundant in ten, but many are covered.
+['ZH_T51_2066_001:0001a13_10']	結實罕一而全少。	結實罕一而全少。	The ripe fruits are rare in one, and few are complete.
+['ZH_T51_2066_001:0001a14_5']	寔由茫茫象磧長川吐赫日之光。	寔由茫茫象磧長川吐赫日之光。	It is truly because the vast desert and long river emit the light of the blazing sun.
+['ZH_T51_2066_001:0001a14_17']	浩浩鯨波巨󱐙起滔天之浪。	浩浩鯨波巨󱐙起滔天之浪。	The vast whale waves and huge waves rise to the sky.
+['ZH_T51_2066_001:0001a15_5']	獨步鐵門之外。	獨步鐵門之外。	Walking alone outside the Iron Gate,
+['ZH_T51_2066_001:0001a15_12']	亘萬嶺而投身。	亘萬嶺而投身。	Throwing himself across ten thousand ridges.
+['ZH_T51_2066_001:0001a16_1']	孤標銅柱之前。	孤標銅柱之前。	Standing alone before the copper pillar.
+['ZH_T51_2066_001:0001a17_3']	跨千江而遣命跛南國有千江口也或亡飡幾日輟飲數晨。	跨千江而遣命跛南國有千江口也或亡飡幾日輟飲數晨。	Crossing a thousand rivers to end his life (at the mouth of a thousand rivers in the Southern Country) or missing meals for several days, stopping drinking for several mornings.
+['ZH_T51_2066_001:0001a17_11']	可謂思慮銷精神。	可謂思慮銷精神。	It can be said that thoughts and worries consume one's spirit.
+['ZH_T51_2066_001:0001a17_17']	憂勞排正色。	憂勞排正色。	Anxious toil disrupts one's proper appearance.
+['ZH_T51_2066_001:0001a18_6']	致使去者數盈半百。	致使去者數盈半百。	Causing those who leave to number nearly half a hundred.
+['ZH_T51_2066_001:0001a18_13']	留者僅有幾人。	留者僅有幾人。	Those who stay are only a few people.
+['ZH_T51_2066_001:0001a19_2']	設令得到西國者。	設令得到西國者。	Even if one manages to reach the Western Regions.
+['ZH_T51_2066_001:0001a19_8']	以大唐無寺。	以大唐無寺。	Since there are no temples in the Great Tang.
+['ZH_T51_2066_001:0001a19_17']	飄寄棲然為客遑遑。	飄寄棲然為客遑遑。	Drifting and staying as a guest in a lodging.
+['ZH_T51_2066_001:0001a20_2']	停託無所。	停託無所。	Having nowhere to rely and stay.
+['ZH_T51_2066_001:0001a20_13']	遂使流離蓬轉牢居一處。	遂使流離蓬轉牢居一處。	Thus causing the homeless to wander and stay in one place.
+['ZH_T51_2066_001:0001a21_4']	身既不安道寧隆矣。	身既不安道寧隆矣。	Since the body is not at ease, how can the Way flourish?
+['ZH_T51_2066_001:0001a21_13']	嗚呼實可嘉其美誠。	嗚呼實可嘉其美誠。	Alas, it is truly admirable.
+['ZH_T51_2066_001:0001a22_1']	冀傳芳於來葉。	冀傳芳於來葉。	I hope to transmit its fragrance to future generations.
+['ZH_T51_2066_001:0001a22_12']	粗據聞見撰題行狀云爾。	粗據聞見撰題行狀云爾。	Roughly based on what I have heard and seen, I compose this biography.
+['ZH_T51_2066_001:0001a23_12']	其中次第多以去時年代近遠存亡而比先後。	其中次第多以去時年代近遠存亡而比先後。	Among them, the sequence is mostly based on the proximity or distance of the time of departure, and the survival or demise is compared to determine the order.
+['ZH_T51_2066_001:0001b22_6_0']	總五十六人齊州師鞭法師新羅阿離耶跋摩法師	總五十六人齊州師鞭法師新羅阿離耶跋摩法師	A total of fifty-six people: The master of the Qi state, the master of the whip, the master of the new kingdom of Silla, A Liye Bamo.
+['ZH_T51_2066_001:0001b22_6_1']	新羅慧業法師新羅求本法師新羅玄太法師新羅	新羅慧業法師新羅求本法師新羅玄太法師新羅	Hyeongak 法師 of Silla🔽Two other 法師 of Silla
+['ZH_T51_2066_001:0001b22_6_2']	玄恪法師新羅復有法師二人覩貨羅佛陀跋摩師	玄恪法師新羅復有法師二人覩貨羅佛陀跋摩師	Buddhabhadra 法師 of Tokhara🔽Daofa 法師 of Bingzhou🔽Daosheng 法師 of Bingzhou
+['ZH_T51_2066_001:0001b22_6_3']	并州道方法師并州道生法師并州常愍禪師常愍	并州道方法師并州道生法師并州常愍禪師常愍	Changmin 禪師 of Bingzhou🔽One disciple of Changmin🔽Matizang 法師 of the capital
+['ZH_T51_2066_001:0001b22_6_4']	師弟子一人京師末底僧訶師京師玄會法師質多	師弟子一人京師末底僧訶師京師玄會法師質多	Hyunhoe 法師 of the capital🔽Siddhamta 法師
+['ZH_T51_2066_001:0001b22_6_5']	跋摩師吐蕃公主嬭母息二人隆法師益州明遠法	跋摩師吐蕃公主嬭母息二人隆法師益州明遠法	Two sons of the wet nurse of the Tibetan princess🔽Long 法師🔽Mingyuan 法師 of Yizhou🔽Yilang Vinaya Master of Yizhou
+['ZH_T51_2066_001:0001b22_6_6']	師益州義朗律師朗律師弟子一人益州智岸法師	師益州義朗律師朗律師弟子一人益州智岸法師	One disciple of Lang Vinaya Master🔽Zhi'an 法師 of Yizhou🔽Huining Vinaya Master of Yizhou
+['ZH_T51_2066_001:0001b22_6_7']	益州會寧律師交州運期法師交州木叉提婆師交	益州會寧律師交州運期法師交州木叉提婆師交	Yunqi 法師 of Jiaozhou🔽Mokṣadeva 法師 of Jiaozhou🔽Kuihong 法師 of Jiaozhou🔽Huiyan 法師 of Jiaozhou🔽Xinzhou 法師
+['ZH_T51_2066_001:0001b22_6_8']	州窺沖法師交州慧琰法師信胄法師愛州智行法	州窺沖法師交州慧琰法師信胄法師愛州智行法	Zhixing 法師 of Aizhou🔽Dashi deng Chan Master of Aizhou🔽Sengqie bamo 法師 of Tang Dynasty
+['ZH_T51_2066_001:0001b22_6_9']	師愛州大乘燈禪師唐國僧伽跋摩師高昌彼岸智	師愛州大乘燈禪師唐國僧伽跋摩師高昌彼岸智	Pi'an zhi of Gaochang
+['ZH_T51_2066_001:0001b22_6_10', 'ZH_T51_2066_001:0001b22_6_11', 'ZH_T51_2066_001:0001b22_6_12']	岸二人洛陽曇潤法師洛陽義輝論師又大唐三人🔽新羅慧輪法師荊州道琳法師荊州曇光法師又大🔽唐一人荊州慧命禪師潤州玄逵律師晉州善行法	岸二人洛陽曇潤法師洛陽義輝論師又大唐三人 新羅慧輪法師荊州道琳法師荊州曇光法師又大 唐一人荊州慧命禪師潤州玄逵律師晉州善行法	two people on the shore, Dharma Master Luoyang Tanrun, Dharma Master Luoyang Yi Hui, and three people from the Great Tang🔽three people from Silla, Dharma Master Hwei Lun, Dharma Master Jingzhou Dao Lin, Dharma Master Jingzhou Tan Guang, and one person from the Great Tang
+['ZH_T51_2066_001:0001b22_6_13', 'ZH_T51_2066_001:0001b22_6_14']	師襄陽靈運法師澧州僧哲禪師哲禪師弟子一人🔽洛陽智弘律師荊州無行禪師荊州法振禪師荊州	師襄陽靈運法師澧州僧哲禪師哲禪師弟子一人 洛陽智弘律師荊州無行禪師荊州法振禪師荊州	Dharma Master Jingzhou Hui Ming, Vinaya Master Runzhou Xuan Kui, Dharma Master Jinzhou Shan Xing, Dharma Master Xiangyang Ling Yun, Chan Master Liuzhou Seng Zhe, and one disciple of Chan Master Zhe
+['ZH_T51_2066_001:0001b22_6_15']	乘悟禪師梁州乘如律師澧州大津法師右總五十	乘悟禪師梁州乘如律師澧州大津法師右總五十	Dharma Master Luoyang Zhi Hong, Chan Master Jingzhou Wu Xing, Chan Master Jingzhou Fa Zhen, Chan Master Jingzhou Cheng Wu, Vinaya Master Liangzhou Cheng Ru, and Dharma Master Liuzhou Da Jin. A total of
+['ZH_T51_2066_001:0001b22_6_16']	六人。	六人。	fifty-six people.
+['ZH_T51_2066_001:0001b22_11']	先多零落。	先多零落。	Many have already passed away.
+['ZH_T51_2066_001:0001b24_4']	淨來日有無行師道琳師慧輪師僧哲師智弘師五人見在計。	淨來日有無行師道琳師慧輪師僧哲師智弘師五人見在計。	On the day of purification, there are five people present: Chan Master Wu Xing, Dharma Master Dao Lin, Dharma Master Hui Lun, Dharma Master Seng Zhe, and Dharma Master Zhi Hong. It is calculated that
+['ZH_T51_2066_001:0001b24_10']	當垂拱元年。	當垂拱元年。	it is the first year of the Dui Gui era.
+['ZH_T51_2066_001:0001b25_3']	與無行禪師執別西國。	與無行禪師執別西國。	He took leave of Chan Master Wu Xing and went to the Western Regions.
+['ZH_T51_2066_001:0001b25_13']	不委今者何處存亡耳。	不委今者何處存亡耳。	It is unknown where he is now, whether he is alive or not.
+['ZH_T51_2066_001:0001b26_13']	太州玄照法師沙門玄照法師者。	太州玄照法師沙門玄照法師者。	Dharma Master Xuanshao of Taizhou, Śramaṇa Dharma Master Xuanshao,
+['ZH_T51_2066_001:0001b26_20']	太州仙掌人也。	太州仙掌人也。	was a person from Xianzhang in Taizhou.
+['ZH_T51_2066_001:0001b27_15']	梵名般迦舍末底唐云照慧乃祖乃父冠冕相承。	梵名般迦舍末底唐云照慧乃祖乃父冠冕相承。	His Sanskrit name was Pūrvapala, meaning illuminating wisdom. His ancestors and father had passed down the cap and gown.
+['ZH_T51_2066_001:0001b28_6']	而總髻之秋抽簪出俗。	而總髻之秋抽簪出俗。	But in the autumn of his topknot, he drew out his hairpin and left the secular world.
+['ZH_T51_2066_001:0001b28_15']	成人之歲思禮聖蹤。	成人之歲思禮聖蹤。	In the year he became an adult, he thought of paying homage to the holy traces.
+['ZH_T51_2066_001:0001b29_5', 'ZH_T51_2066_001:0001c01_3']	遂適京師尋聽經論。🔽以貞觀年中乃於大興善寺玄證師處。	遂適京師尋聽經論。 以貞觀年中乃於大興善寺玄證師處。	So he went to the capital and studied sutras and treatises.
+['ZH_T51_2066_001:0001c01_8']	初學梵語。	初學梵語。	In the Zhenguan years, he first learned Sanskrit from Master Xuangzheng at Daxingshan Monastery.
+['ZH_T51_2066_001:0001c02_1', 'ZH_T51_2066_001:0001c02_9']	於是仗錫西邁掛想祇園。🔽背金府而出流沙。	於是仗錫西邁掛想祇園。 背金府而出流沙。	Then he traveled west with his staff, thinking of Jetavana.🔽He left the Golden Mansion and entered the Flowing Sands.
+['ZH_T51_2066_001:0001c02_17']	踐鐵門而登雪嶺。	踐鐵門而登雪嶺。	He stepped on the Iron Gate and climbed the Snow Mountains.
+['ZH_T51_2066_001:0001c03_4']	漱香池以結念。	漱香池以結念。	He rinsed his mouth in the Fragrant Pool and made vows.
+['ZH_T51_2066_001:0001c03_9']	畢契四弘。	畢契四弘。	He finally fulfilled the four great vows.
+['ZH_T51_2066_001:0001c03_18']	陟葱阜而翹心誓度。	陟葱阜而翹心誓度。	He climbed the Pamirs and vowed to cross the three realms of existence.
+['ZH_T51_2066_001:0001c04_9']	三有途經速利過覩貨羅。	三有途經速利過覩貨羅。	He passed through the fast and convenient route of Tukhara.
+['ZH_T51_2066_001:0001c05_9']	遠跨胡疆到吐蕃國蒙文成公主送往北天。	遠跨胡疆到吐蕃國蒙文成公主送往北天。	He traveled far across the Hu border and reached the country of Tubo, where he was sent to the Northern Heaven by Princess Wencheng.
+['ZH_T51_2066_001:0001c05_16']	漸向闍闌陀國。	漸向闍闌陀國。	He gradually headed towards the country of Jalandhara.
+['ZH_T51_2066_001:0001c06_2']	未至之間。	未至之間。	Before arriving,
+['ZH_T51_2066_001:0001c06_11']	長途險隘為賊見拘。	長途險隘為賊見拘。	On a long and dangerous road, they were captured by bandits.
+['ZH_T51_2066_001:0001c07_3']	既而商旅計窮控告無所。	既而商旅計窮控告無所。	The merchants were at their wit's end and had nowhere to appeal.
+['ZH_T51_2066_001:0001c07_14']	遂乃援神寫契仗聖明衷。	遂乃援神寫契仗聖明衷。	They then invoked the spirits and wrote letters, relying on the sagacious and enlightened heart.
+['ZH_T51_2066_001:0001c08_1']	夢而感徵。	夢而感徵。	They dreamed of receiving signs.
+['ZH_T51_2066_001:0001c08_12']	覺見群賊皆睡私引出圍。	覺見群賊皆睡私引出圍。	When they awoke, they saw that all the bandits were asleep. They secretly led them out of the encirclement.
+['ZH_T51_2066_001:0001c08_17']	遂便免難。	遂便免難。	They were then able to escape the danger.
+['ZH_T51_2066_001:0001c09_7']	住闍闌陀國經于四載。	住闍闌陀國經于四載。	He stayed in the country of Jalandhara for four years.
+['ZH_T51_2066_001:0001c09_17']	蒙國王欽重留之供養。	蒙國王欽重留之供養。	He was revered by the king of that country and was kept there to receive offerings.
+['ZH_T51_2066_001:0001c10_5']	學經律習梵文。	學經律習梵文。	He studied the scriptures and precepts and learned Sanskrit.
+['ZH_T51_2066_001:0001c10_10']	既得少通。	既得少通。	Having gained a little proficiency,
+['ZH_T51_2066_001:0001c11_1']	漸次南上到莫訶菩提。	漸次南上到莫訶菩提。	he gradually traveled south to Mahabodhi.
+['ZH_T51_2066_001:0001c11_6']	復經四夏。	復經四夏。	He stayed there for another four summers.
+['ZH_T51_2066_001:0001c11_17']	自恨生不遇聖幸覩遺蹤。	自恨生不遇聖幸覩遺蹤。	He lamented that he was not born in the time of the Sage but was fortunate to see the remaining traces.
+['ZH_T51_2066_001:0001c12_6']	仰慈氏所制之真容。	仰慈氏所制之真容。	He looked up at the true appearance created by Maitreya.
+['ZH_T51_2066_001:0001c12_13']	著精誠而無替。	著精誠而無替。	He was sincere and unyielding.
+['ZH_T51_2066_001:0001c13_1', 'ZH_T51_2066_001:0001c13_10']	爰以翹敬之餘。🔽沈情俱舍既解對法。	爰以翹敬之餘。 沈情俱舍既解對法。	With the remaining devotion,🔽he immersed his thoughts in the Abhidharmakośa, and upon understanding the Abhidharma,
+['ZH_T51_2066_001:0001c13_19']	清想律儀兩教斯明。	清想律儀兩教斯明。	his pure thoughts on the Vinaya, and the two teachings became clear.
+['ZH_T51_2066_001:0001c14_6']	後之那爛陀寺。	後之那爛陀寺。	Later, at Nalanda Monastery,
+['ZH_T51_2066_001:0001c14_11']	留住三年。	留住三年。	he stayed for three years.
+['ZH_T51_2066_001:0001c15_3']	就勝光法師學中百等論。	就勝光法師學中百等論。	He studied the Madhyamakaśāstra and other treatises under the teacher Jñānaprabha.
+['ZH_T51_2066_001:0001c15_17']	復就寶師子大德受瑜伽十七地。	復就寶師子大德受瑜伽十七地。	He also received the Yoga Seventeen Grounds from the great virtuous one Bao Shizi.
+['ZH_T51_2066_001:0001c16_3']	禪門定㶑。	禪門定㶑。	The Chan Gate and the Samadhi Gate.
+['ZH_T51_2066_001:0001c16_8']	亟覩關涯。	亟覩關涯。	He quickly saw the limits of the pass.
+['ZH_T51_2066_001:0001c16_13']	既盡宏綱。	既盡宏綱。	Having exhausted the great framework,
+['ZH_T51_2066_001:0001c17_3']	遂往弶巨亮反伽河北。	遂往弶巨亮反伽河北。	He then went to the north of Jialing.
+['ZH_T51_2066_001:0001c17_11']	受國王苫部供養。	受國王苫部供養。	Receiving offerings from King Shanbu.
+['ZH_T51_2066_001:0001c18_2']	住信者等寺復歷三年。	住信者等寺復歷三年。	Residing at the temple of the faithful for another three years.
+['ZH_T51_2066_001:0001c18_12']	後因唐使王玄策歸鄉。	後因唐使王玄策歸鄉。	Later, due to the Tang envoy Wang Xuance returning home,
+['ZH_T51_2066_001:0001c19_1']	表奏言其實德。	表奏言其實德。	He submitted a memorial stating his true virtues.
+['ZH_T51_2066_001:0001c19_6']	遂蒙降勅。	遂蒙降勅。	He was then granted an imperial decree.
+['ZH_T51_2066_001:0001c19_16']	重詣西天追玄照入京。	重詣西天追玄照入京。	Again going to the Western Heavens to pursue Xuanzhao and enter the capital.
+['ZH_T51_2066_001:0001c20_4']	路次泥波羅國。	路次泥波羅國。	On the way, he passed through the country of Nīpāla.
+['ZH_T51_2066_001:0001c20_13']	蒙王發遣送至吐蕃。	蒙王發遣送至吐蕃。	He was sent by the king to Tibet.
+['ZH_T51_2066_001:0001c21_2']	重見文成公主。	重見文成公主。	He saw Princess Wencheng again.
+['ZH_T51_2066_001:0001c21_7']	深致禮遇。	深致禮遇。	He was deeply treated with courtesy.
+['ZH_T51_2066_001:0001c21_12']	資給歸唐。	資給歸唐。	He was provided with supplies to return to Tang.
+['ZH_T51_2066_001:0001c22_3']	於是巡涉西蕃而至東夏。	於是巡涉西蕃而至東夏。	Thus, he traveled through the Western Tibet and arrived in Eastern China.
+['ZH_T51_2066_001:0001c22_11']	以九月而辭苫部。	以九月而辭苫部。	In the ninth month, he left Shanbu.
+['ZH_T51_2066_001:0001c22_18']	正月便到洛陽。	正月便到洛陽。	In the first month, he arrived in Luoyang.
+['ZH_T51_2066_001:0001c23_7']	五月之間途經萬里。	五月之間途經萬里。	In five months, he traveled ten thousand miles.
+['ZH_T51_2066_001:0001c23_14']	于時麟德年中。	于時麟德年中。	At that time, in the Linde era,
+['ZH_T51_2066_001:0002a01_4']	駕幸東洛奉謁闕庭。	駕幸東洛奉謁闕庭。	The emperor was traveling to East Luoyang and he paid homage at the imperial court.
+['ZH_T51_2066_001:0002a01_16']	還蒙勅旨令往羯濕彌囉國。	還蒙勅旨令往羯濕彌囉國。	He was then granted an imperial decree to go to the country of Kaśmīra.
+['ZH_T51_2066_001:0002a02_8']	取長年婆羅門盧迦溢多。	取長年婆羅門盧迦溢多。	To bring back the long-lived brāhman Rāma.
+['ZH_T51_2066_001:0002a02_17']	既與洛陽諸德相見。	既與洛陽諸德相見。	After meeting with the virtuous monks of Luoyang,
+['ZH_T51_2066_001:0002a03_5']	略論佛法綱紀。	略論佛法綱紀。	He briefly discussed the essentials of Buddhism.
+['ZH_T51_2066_001:0002a03_16']	敬愛寺導律師觀法師等。	敬愛寺導律師觀法師等。	The vinaya master Dao and the meditation master Guan of Jing'ai Temple, and others,
+['ZH_T51_2066_001:0002a04_6']	請譯薩婆多部律攝。	請譯薩婆多部律攝。	Requested him to translate the Vinaya of the Sarvâstivāda school.
+['ZH_T51_2066_001:0002a04_17']	既而勅令促去不遂本懷。	既而勅令促去不遂本懷。	But then the imperial decree hastened his departure, not fulfilling his original intention.
+['ZH_T51_2066_001:0002a05_7']	所將梵本悉留京下。	所將梵本悉留京下。	All the Sanskrit texts he brought were left behind in the capital.
+['ZH_T51_2066_001:0002a05_18']	於是重涉流沙還經磧石。	於是重涉流沙還經磧石。	Thus, he crossed the flowing sand again and passed through the rocky desert.
+['ZH_T51_2066_001:0002a06_6']	崎嶇棧道之側。	崎嶇棧道之側。	On the side of the precipitous and winding plank roads,
+['ZH_T51_2066_001:0002a06_13']	曳半影而斜通。	曳半影而斜通。	Dragging half his shadow, he passed obliquely.
+['ZH_T51_2066_001:0002a07_1']	搖泊繩橋之下。	搖泊繩橋之下。	Rocking and floating under the rope bridge,
+['ZH_T51_2066_001:0002a07_8']	沒全軀以傍渡。	沒全軀以傍渡。	He sank his whole body to cross sideways.
+['ZH_T51_2066_001:0002a07_17']	遭吐蕃賊脫首得全。	遭吐蕃賊脫首得全。	He encountered Tibetan bandits and escaped with his head shaved.
+['ZH_T51_2066_001:0002a08_7']	遇兇奴寇僅存餘命。	遇兇奴寇僅存餘命。	He met with ferocious barbarian troops and barely survived with his life.
+['ZH_T51_2066_001:0002a08_14']	行至北印度界。	行至北印度界。	Traveling to the border of northern India,
+['ZH_T51_2066_001:0002a09_9']	見唐使人引盧迦溢多於路相遇。	見唐使人引盧迦溢多於路相遇。	He saw the Tang envoy leading Rāma on the road, meeting him on the way.
+['ZH_T51_2066_001:0002a10_16']	盧迦溢多復令玄照及使傔數人向西印度羅荼國取長年藥。	盧迦溢多復令玄照及使傔數人向西印度羅荼國取長年藥。	Rāma again ordered Xuanzhao and several of the envoy's attendants to go to western India to the country of Rāḍhā to obtain long-life medicine.
+['ZH_T51_2066_001:0002a12_5']	路過縛渴羅到納婆毘訶羅唐云新寺覩如來澡盥及諸聖跡。	路過縛渴羅到納婆毘訶羅唐云新寺覩如來澡盥及諸聖跡。	Passing through Vārāṇasī, he arrived at the Nābhāvana Monastery, where he saw the Tathāgata's bathing place and various holy traces.
+['ZH_T51_2066_001:0002a12_17']	漸至迦畢試國禮如來頂骨。	漸至迦畢試國禮如來頂骨。	Gradually reaching the country of Kapila, he paid homage to the Tathāgata's cranial bone.
+['ZH_T51_2066_001:0002a13_7']	香華具設取其印文。	香華具設取其印文。	Offering incense and flowers, he obtained its seal pattern.
+['ZH_T51_2066_001:0002a13_13']	觀來生善惡。	觀來生善惡。	Observing the good and evil of future lives.
+['ZH_T51_2066_001:0002a14_5']	復過信度國方達羅荼矣。	復過信度國方達羅荼矣。	He then passed through the country of Sindhu and reached Dravida.
+['ZH_T51_2066_001:0002a14_14']	蒙王禮敬安居四載。	蒙王禮敬安居四載。	Honored by the king, he stayed there for four years.
+['ZH_T51_2066_001:0002a15_1']	轉歷南天。	轉歷南天。	Traveling through southern India,
+['ZH_T51_2066_001:0002a15_10']	將諸雜藥望歸東夏。	將諸雜藥望歸東夏。	Bringing various medicines, he looked forward to returning to Eastern Xia.
+['ZH_T51_2066_001:0002a15_17']	到金剛座旋之。	到金剛座旋之。	Arriving at the Diamond Seat, he circled it.
+['ZH_T51_2066_001:0002a16_6']	那爛陀寺淨與相見。	那爛陀寺淨與相見。	At Nālandā Monastery, he met with Jñaputra.
+['ZH_T51_2066_001:0002a16_13']	盡平生之志願。	盡平生之志願。	Fulfilling his lifelong aspirations,
+['ZH_T51_2066_001:0002a17_1']	契總會於龍華。	契總會於龍華。	Pledging to gather at the Dragon Flower.
+['ZH_T51_2066_001:0002a18_6']	但以泥波羅道吐蕃擁塞不通迦畢試途多氏捉而難度。	但以泥波羅道吐蕃擁塞不通迦畢試途多氏捉而難度。	However, due to the Nepalese path being blocked by Tibetans, and the Kapila route being difficult to pass through due to the Turks,
+['ZH_T51_2066_001:0002a18_17']	遂且棲志鷲峯沈情竹苑。	遂且棲志鷲峯沈情竹苑。	He thus settled his aspirations on Vulture Peak and immersed his thoughts in Bamboo Grove.
+['ZH_T51_2066_001:0002a19_6']	雖每有傳燈之望。	雖每有傳燈之望。	Although he often had hopes of transmitting the lamp,
+['ZH_T51_2066_001:0002a19_14']	而未諧落葉之心。	而未諧落葉之心。	He did not fulfill his wish of letting the leaves fall.
+['ZH_T51_2066_001:0002a20_6']	嗟乎苦行標誠利生不遂。	嗟乎苦行標誠利生不遂。	Alas, his practice of austerities and sincerity in benefiting beings were not accomplished.
+['ZH_T51_2066_001:0002a20_15']	思攀雲駕墜翼中天。	思攀雲駕墜翼中天。	Thinking of riding the clouds and falling wings in the middle of heaven.
+['ZH_T51_2066_001:0002a21_10']	在中印度菴摩羅跛國遘疾而卒。	在中印度菴摩羅跛國遘疾而卒。	In the middle of India, in the country of Ammaraba, he fell ill and died.
+['ZH_T51_2066_001:0002a22_7']	春秋六十餘矣言多氏者即大食國也。	春秋六十餘矣言多氏者即大食國也。	He was over sixty years old. The word many refers to the country of Da Shi.
+['ZH_T51_2066_001:0002a23_2', 'ZH_T51_2066_001:0002a23_7']	傷曰。🔽卓矣壯志。	傷曰。 卓矣壯志。	Shuang said:🔽Magnificent ambition!
+['ZH_T51_2066_001:0002a23_12']	頴秀生田。	頴秀生田。	Outstanding talent born in the fields.
+['ZH_T51_2066_001:0002a23_17']	頻經細柳。	頻經細柳。	Frequently passing through the willow trees.
+['ZH_T51_2066_001:0002a24_1']	幾步祁連。	幾步祁連。	Walking a few steps to Qilian.
+['ZH_T51_2066_001:0002a24_6']	祥河濯流。	祥河濯流。	The auspicious river washes the flowing water.
+['ZH_T51_2066_001:0002a24_11', 'ZH_T51_2066_001:0002a24_16']	竹苑搖芊。🔽翹心念念。	竹苑搖芊。 翹心念念。	The bamboo garden sways with green grass.🔽With a lofty mind, moment after moment.
+['ZH_T51_2066_001:0002a25_1']	渴想玄玄。	渴想玄玄。	With a thirsty longing, profound and profound.
+['ZH_T51_2066_001:0002a25_6']	專希演法。	專希演法。	Solely hoping for the Dharma to be expounded.
+['ZH_T51_2066_001:0002a25_11']	志託提生。	志託提生。	Aspiring to be lifted up in the next life.
+['ZH_T51_2066_001:0002a25_16']	嗚呼不遂。	嗚呼不遂。	Alas, it was not accomplished.
+['ZH_T51_2066_001:0002a26_1']	愴矣無成。	愴矣無成。	Sad, there was no success.
+['ZH_T51_2066_001:0002a26_6']	兩河沈骨。	兩河沈骨。	Buried bones in the two rivers.
+['ZH_T51_2066_001:0002a26_11']	八水揚名。	八水揚名。	Fame spread in the eight waters.
+['ZH_T51_2066_001:0002a26_16']	善乎守死。	善乎守死。	Good at guarding death.
+['ZH_T51_2066_001:0002a27_6']	哲人利貞兩河即在西河。	哲人利貞兩河即在西河。	The two rivers are in Xihe.
+['ZH_T51_2066_001:0002a27_13', 'ZH_T51_2066_001:0002a28_11']	八水乃屬京都。🔽齊州道希法師道希法師者。	八水乃屬京都。 齊州道希法師道希法師者。	The eight waters belong to the capital.
+['ZH_T51_2066_001:0002a28_18']	齊州歷城人也。	齊州歷城人也。	Dashi Faxian of Qizhou Dashi Faxian was a man from Liceng in Qizhou.
+['ZH_T51_2066_001:0002a29_15']	梵名室利提婆唐云吉祥天也乃門傳禮義家襲搢紳。	梵名室利提婆唐云吉祥天也乃門傳禮義家襲搢紳。	His Sanskrit name was Shali Tiwei, which means Auspicious Heaven in Tang. He was a descendant of a family that passed down rituals and etiquette.
+['ZH_T51_2066_001:0002b01_2']	幼漸玄門少懷貞操。	幼漸玄門少懷貞操。	From a young age, he gradually entered the mysterious gate and had a sincere character.
+['ZH_T51_2066_001:0002b01_9']	涉流沙之廣蕩。	涉流沙之廣蕩。	He crossed the vast Taklamakan Desert.
+['ZH_T51_2066_001:0002b01_14']	觀化中天。	觀化中天。	He observed the transformation in Central Heaven.
+['ZH_T51_2066_001:0002b02_1']	陟雪嶺之嶔岑。	陟雪嶺之嶔岑。	He climbed the steep Snow Mountains.
+['ZH_T51_2066_001:0002b02_6']	輕生殉法。	輕生殉法。	He lightly regarded his life and pursued the Dharma.
+['ZH_T51_2066_001:0002b02_15']	行至吐蕃中途危厄。	行至吐蕃中途危厄。	When he arrived in Tibet, he encountered danger on the way.
+['ZH_T51_2066_001:0002b03_6']	恐戒檢難護遂便暫捨。	恐戒檢難護遂便暫捨。	Fearing that it would be difficult to protect the precepts, he temporarily abandoned them.
+['ZH_T51_2066_001:0002b03_15']	行至西方更復重受。	行至西方更復重受。	When he arrived in the West, he received them again.
+['ZH_T51_2066_001:0002b04_7']	周遊諸國遂達莫訶菩提。	周遊諸國遂達莫訶菩提。	He traveled to various countries and finally reached Bodhgayā.
+['ZH_T51_2066_001:0002b04_16']	翹仰聖蹤經于數載。	翹仰聖蹤經于數載。	He gazed up at the holy traces for several years.
+['ZH_T51_2066_001:0002b05_3']	既住那爛陀。	既住那爛陀。	After staying at Nālandā,
+['ZH_T51_2066_001:0002b05_9']	亦在俱尸國。	亦在俱尸國。	he was also in Kuśinagara.
+['ZH_T51_2066_001:0002b06_2']	蒙菴摩羅跛國王甚相敬待。	蒙菴摩羅跛國王甚相敬待。	He was greatly respected by the king of Amṛtapura.
+['ZH_T51_2066_001:0002b06_12']	在那爛陀寺頻學大乘。	在那爛陀寺頻學大乘。	At Nālandā Monastery, he frequently studied Mahāyāna.
+['ZH_T51_2066_001:0002b07_9']	住輸婆伴娜在涅槃處寺名也專功律藏。	住輸婆伴娜在涅槃處寺名也專功律藏。	He stayed at the Śrāvastī Monastery, specializing in the Vinaya Piṭaka.
+['ZH_T51_2066_001:0002b07_18']	復習聲明頗盡綱目。	復習聲明頗盡綱目。	He also studied the science of language and thoroughly mastered its framework.
+['ZH_T51_2066_001:0002b08_4']	有文情善草隷。	有文情善草隷。	He had literary talent and was skilled in calligraphy.
+['ZH_T51_2066_001:0002b08_14']	在大覺寺造唐碑一首。	在大覺寺造唐碑一首。	At the Great Enlightenment Monastery, he composed a stele inscription in Chinese.
+['ZH_T51_2066_001:0002b09_8']	所將唐國新舊經論四百餘卷。	所將唐國新舊經論四百餘卷。	The new and old sūtras, śāstras, and treatises he brought from the Tang Dynasty totaled over 400 scrolls.
+['ZH_T51_2066_001:0002b09_15']	並在那爛陀矣。	並在那爛陀矣。	They were all at Nālandā.
+['ZH_T51_2066_001:0002b10_5']	淨在西國未及相見。	淨在西國未及相見。	Jing was in the Western Regions and they had not yet met.
+['ZH_T51_2066_001:0002b10_16']	住菴摩羅跛國遭疾而終。	住菴摩羅跛國遭疾而終。	He stayed in the country of Amrapali and died of illness.
+['ZH_T51_2066_001:0002b11_4']	春秋五十餘矣。	春秋五十餘矣。	He was over fifty years old.
+['ZH_T51_2066_001:0002b11_14']	後因巡禮見希公住房。	後因巡禮見希公住房。	Later, while on a pilgrimage, he saw the residence of Xi Gong.
+['ZH_T51_2066_001:0002b11_19']	傷其不幸。	傷其不幸。	He felt sorry for his misfortune.
+['ZH_T51_2066_001:0002b12_14']	聊題一絕七言　百苦忘勞獨進影。	聊題一絕七言　百苦忘勞獨進影。	He casually wrote a seven-character quatrain: Forgetting the hundred sufferings, he alone advances in the shadow.
+['ZH_T51_2066_001:0002b13_5']	四恩存念契流通。	四恩存念契流通。	Remembering the four kinds of kindness, he abides in the circulation of the teachings.
+['ZH_T51_2066_001:0002b13_13']	如何未盡傳燈志。	如何未盡傳燈志。	How is it that he has not yet completed the transmission of the lamp?
+['ZH_T51_2066_001:0002b14_2', 'ZH_T51_2066_001:0002b15_11']	溘然於此遇途窮。🔽齊州師鞭法師師鞭法師者。	溘然於此遇途窮。 齊州師鞭法師師鞭法師者。	Suddenly, he encounters the end of the road here.
+['ZH_T51_2066_001:0002b15_16']	齊州人也。	齊州人也。	Shi Bian, the Dharma Master of Qizhou Shi Bian, the Dharma Master, was a person from Qizhou.
+['ZH_T51_2066_001:0002b15_23']	善呪禁閑梵語。	善呪禁閑梵語。	He was good at spells and was familiar with Sanskrit.
+['ZH_T51_2066_001:0002b16_10']	與玄照師從北天向西印度。	與玄照師從北天向西印度。	He followed Dharma Master Xuanzhao from the Northern Route to Western India.
+['ZH_T51_2066_001:0002b17_5']	到菴摩羅割跛城為國王所敬。	到菴摩羅割跛城為國王所敬。	He arrived at the city of Amrapali and was respected by the king.
+['ZH_T51_2066_001:0002b17_16']	居王寺與道希法師相見。	居王寺與道希法師相見。	He stayed in the king's temple and met with Dharma Master Dao Xi.
+['ZH_T51_2066_001:0002b18_3']	申鄉國之好。	申鄉國之好。	He expressed the friendship of his homeland.
+['ZH_T51_2066_001:0002b18_12']	同居一夏遇疾而終。	同居一夏遇疾而終。	He stayed together for one summer and died of illness.
+['ZH_T51_2066_001:0002b18_18']	年三十五矣。	年三十五矣。	He was thirty-five years old.
+['ZH_T51_2066_001:0002b19_15']	新羅阿離耶跋摩法師阿離耶跋摩者。	新羅阿離耶跋摩法師阿離耶跋摩者。	A Liye Bamo, the Dharma Master of Silla A Liye Bamo
+['ZH_T51_2066_001:0002b19_20']	新羅人也。	新羅人也。	He was a person from Silla.
+['ZH_T51_2066_001:0002b20_16']	以貞觀年中出長安之廣脇王城小名追求正教親禮聖蹤。	以貞觀年中出長安之廣脇王城小名追求正教親禮聖蹤。	In the Zhenguan era, he left Chang'an and went to the small country of Guangxie to pursue the correct teachings and personally pay homage to the holy traces.
+['ZH_T51_2066_001:0002b21_2']	住那爛陀寺。	住那爛陀寺。	He stayed at Nalanda Temple.
+['ZH_T51_2066_001:0002b21_11']	多閑律論抄寫眾經。	多閑律論抄寫眾經。	He was well-versed in the Vinaya and treatises and copied various sutras.
+['ZH_T51_2066_001:0002b22_1', 'ZH_T51_2066_001:0002b22_8']	痛矣歸心所期不契。🔽出雞貴之東境。	痛矣歸心所期不契。 出雞貴之東境。	Alas, his return to the mind did not accord with his expectations.🔽He left the eastern border of Jikui.
+['ZH_T51_2066_001:0002b22_15']	沒龍泉之西裔。	沒龍泉之西裔。	He passed away in the western region of Longquan.
+['ZH_T51_2066_001:0002b23_2', 'ZH_T51_2066_001:0002b23_11']	即於此寺無常。🔽年七十餘矣雞貴者。	即於此寺無常。 年七十餘矣雞貴者。	He passed away at this very temple.
+['ZH_T51_2066_001:0002b23_20']	梵云矩矩吒㗨說羅。	梵云矩矩吒㗨說羅。	He was over seventy years old. Jikui is called Kukkuṭapattana in Sanskrit.
+['ZH_T51_2066_001:0002b23_26', 'ZH_T51_2066_001:0002b23_32']	矩矩吒是雞。🔽㗨說羅是貴。	矩矩吒是雞。 㗨說羅是貴。	Kukkuṭa means chicken.🔽Pattana means noble.
+['ZH_T51_2066_001:0002b24_4', 'ZH_T51_2066_001:0002b24_8']	即高麗國也。🔽相傳云。	即高麗國也。 相傳云。	It is the country of Goryeo.
+['ZH_T51_2066_001:0002b24_17']	彼國敬雞神而取尊。	彼國敬雞神而取尊。	It is said that the country respects the chicken god and takes it as honorable.
+['ZH_T51_2066_001:0002b24_26', 'ZH_T51_2066_001:0002b24_32']	故戴翎羽而表飾矣。🔽那爛陀有池。	故戴翎羽而表飾矣。 那爛陀有池。	Therefore, they wear feathers as a decoration.
+['ZH_T51_2066_001:0002b24_37']	名曰龍泉。	名曰龍泉。	There is a pond in Nalanda called Dragon Spring.
+['ZH_T51_2066_001:0002b25_5', 'ZH_T51_2066_001:0002b26_11']	西方喚高麗為矩矩吒㗨說羅也。🔽新羅慧業法師慧業法師者。	西方喚高麗為矩矩吒㗨說羅也。 新羅慧業法師慧業法師者。	In the West, Goryeo is called Kukkuṭapattana.
+['ZH_T51_2066_001:0002b26_16']	新羅人也。	新羅人也。	The Dharma Master Hyeop of Silla The Dharma Master Hyeop was a person from Silla.
+['ZH_T51_2066_001:0002b27_1']	在貞觀年中往遊西域。	在貞觀年中往遊西域。	In the Zhenguan era, he traveled to the Western Regions.
+['ZH_T51_2066_001:0002b27_10']	住菩提寺觀禮聖蹤。	住菩提寺觀禮聖蹤。	He stayed at Bodhi Temple, paying homage to the holy traces.
+['ZH_T51_2066_001:0002b27_19']	於那爛陀久而聽讀。	於那爛陀久而聽讀。	He studied and read for a long time at Nalanda.
+['ZH_T51_2066_001:0002b28_5']	淨因檢唐本。	淨因檢唐本。	Jing Yin examined the Tang version.
+['ZH_T51_2066_001:0002b28_10']	忽見梁論。	忽見梁論。	Suddenly he saw the Liang treatise.
+['ZH_T51_2066_001:0002b28_14']	下記云。	下記云。	It was marked:
+['ZH_T51_2066_001:0002b29_8']	在佛齒木樹下新羅僧慧業寫記。	在佛齒木樹下新羅僧慧業寫記。	Written by the Silla monk Huiye under the Buddha's tooth tree.
+['ZH_T51_2066_001:0002b29_13']	訪問寺僧。	訪問寺僧。	He inquired of the temple monks.
+['ZH_T51_2066_001:0002b29_18']	云終於此。	云終於此。	They said he had passed away there.
+['ZH_T51_2066_001:0002c01_5']	年將六十餘矣。	年將六十餘矣。	He was over sixty years old.
+['ZH_T51_2066_001:0002c01_16']	所寫梵本並在那爛陀寺。	所寫梵本並在那爛陀寺。	The Sanskrit texts he copied were all at Nalanda Temple.
+['ZH_T51_2066_001:0002c02_11']	新羅玄太法師玄太法師者。	新羅玄太法師玄太法師者。	The Dharma Master Xuan Tai of Silla The Dharma Master Xuan Tai
+['ZH_T51_2066_001:0002c02_16']	新羅人也。	新羅人也。	was a person from Silla.
+['ZH_T51_2066_001:0002c03_15']	梵名薩婆慎若提婆唐云一切智天永徽年內取吐蕃道。	梵名薩婆慎若提婆唐云一切智天永徽年內取吐蕃道。	His Sanskrit name was Sarvajñadeva, which means All-Knowing Heaven in Chinese. During the Yong-Hui era, he took the Tibetan route.
+['ZH_T51_2066_001:0002c04_3']	經泥波羅到中印度。	經泥波羅到中印度。	He passed through Nepal and reached Central India.
+['ZH_T51_2066_001:0002c04_12']	禮菩提樹詳檢經論。	禮菩提樹詳檢經論。	He paid homage to the Bodhi Tree and examined the sutras and treatises in detail.
+['ZH_T51_2066_001:0002c05_3']	旋踵東土行至土谷渾。	旋踵東土行至土谷渾。	He then returned to the East and reached Tugu Hun.
+['ZH_T51_2066_001:0002c05_12']	逢道希師覆相引致。	逢道希師覆相引致。	He met Master Dao Xi, who invited him to return.
+['ZH_T51_2066_001:0002c06_4']	還向大覺寺後歸唐國。	還向大覺寺後歸唐國。	He then returned to the Great Enlightenment Temple and went back to the Tang Dynasty.
+['ZH_T51_2066_001:0002c06_10']	莫知所終矣。	莫知所終矣。	It is unknown where he passed away.
+['ZH_T51_2066_001:0002c07_11']	新羅玄恪法師玄恪法師者。	新羅玄恪法師玄恪法師者。	The Dharma Master Xuanke of Silla.🔽🔽The Dharma Master Xuanke
+['ZH_T51_2066_001:0002c07_16']	新羅人也。	新羅人也。	Dharma Master Xuanke of Silla Dharma Master Xuanke was a person from Silla.
+['ZH_T51_2066_001:0002c08_7']	與玄照法師貞觀年中相隨而至大覺。	與玄照法師貞觀年中相隨而至大覺。	He and Dharma Master Xuanshao traveled together to the Great Awakened One during the Zhenguan years.
+['ZH_T51_2066_001:0002c08_16']	既伸禮敬遇疾而亡。	既伸禮敬遇疾而亡。	After paying respects, he encountered illness and passed away.
+['ZH_T51_2066_001:0002c09_5']	年過不惑之期耳。	年過不惑之期耳。	He was over the age of forty.
+['ZH_T51_2066_001:0002c10_15']	新羅復有法師二人復有新羅僧二人。	新羅復有法師二人復有新羅僧二人。	There were also two other Dharma Masters from Silla, two monks from Silla,
+['ZH_T51_2066_001:0002c11_2']	莫知其諱發自長安遠之南海。	莫知其諱發自長安遠之南海。	whose names are unknown, who left Chang'an and traveled far to the South Seas.
+['ZH_T51_2066_001:0002c11_16']	汎舶至室利佛逝國西婆魯師國。	汎舶至室利佛逝國西婆魯師國。	They sailed to the country of Sri Lanka and the country of West Barus.
+['ZH_T51_2066_001:0002c12_2']	遇疾俱亡。	遇疾俱亡。	They encountered illness and died together.
+['ZH_T51_2066_001:0002c13_13', 'ZH_T51_2066_001:0002c13_22']	覩貨羅佛陀跋摩師佛陀達摩者。🔽即覩貨速利國人也。	覩貨羅佛陀跋摩師佛陀達摩者。 即覩貨速利國人也。	Buddhadatta of Tukhara Dharma Master Buddhadatta was a person from the country of Tukhara.
+['ZH_T51_2066_001:0002c14_5']	大形模足氣力習小教。	大形模足氣力習小教。	He had a large physique, was vigorous, and practiced the Lesser Vehicle.
+['ZH_T51_2066_001:0002c14_13', 'ZH_T51_2066_001:0002c15_1']	常乞食少因興易。🔽遂屆神州云。	常乞食少因興易。 遂屆神州云。	He always begged for food and had few causes for commerce.🔽He eventually reached the Divine Land.
+['ZH_T51_2066_001:0002c15_7']	於益府出家。	於益府出家。	He left home in Yizhou.
+['ZH_T51_2066_001:0002c15_12']	性好遊涉。	性好遊涉。	By nature, he enjoyed traveling.
+['ZH_T51_2066_001:0002c16_1']	九州之地無不履焉。	九州之地無不履焉。	There was no place in the Nine Provinces that he did not visit.
+['ZH_T51_2066_001:0002c16_10']	後遂西遄周觀聖迹。	後遂西遄周觀聖迹。	Later, he finally traveled west to observe the holy traces.
+['ZH_T51_2066_001:0002c16_18']	淨於那爛陀見矣。	淨於那爛陀見矣。	He saw it in Nālandā.
+['ZH_T51_2066_001:0002c17_5']	後乃轉向北天。	後乃轉向北天。	Later, he turned to the north.
+['ZH_T51_2066_001:0002c17_10']	年五十許。	年五十許。	He was about fifty years old.
+['ZH_T51_2066_001:0002c18_4', 'ZH_T51_2066_001:0002c19_11']	右一十人。🔽并州道方法師道方法師者。	右一十人。 并州道方法師道方法師者。	Right, ten people.
+['ZH_T51_2066_001:0002c19_16']	并州人也。	并州人也。	Dharma Master Daofa of Bingzhou Dharma Master Daofa was a person from Bingzhou.
+['ZH_T51_2066_001:0002c19_24']	出沙磧到泥波羅。	出沙磧到泥波羅。	He left the desert and arrived at Nīpāla.
+['ZH_T51_2066_001:0002c20_5']	至大覺寺住。	至大覺寺住。	He stayed at the Great Enlightenment Temple.
+['ZH_T51_2066_001:0002c20_13']	得為主人經數年。	得為主人經數年。	He became the host for several years.
+['ZH_T51_2066_001:0002c21_6']	後還向泥波羅于今現在。	後還向泥波羅于今現在。	Later, he returned to Nīpāla and is currently there.
+['ZH_T51_2066_001:0002c21_15']	既虧戒檢不習經書。	既虧戒檢不習經書。	He has violated the precepts and does not study scriptures.
+['ZH_T51_2066_001:0002c22_1', 'ZH_T51_2066_001:0002c23_11']	年將老矣。🔽并州道生法師道生法師者。	年將老矣。 并州道生法師道生法師者。	He is about to grow old.
+['ZH_T51_2066_001:0002c23_16']	并州人也。	并州人也。	Dharma Master Daosheng of Bingzhou Dharma Master Daosheng was a person from Bingzhou.
+['ZH_T51_2066_001:0002c24_11']	梵名栴達羅提婆唐云月天以貞觀末年從吐蕃路。	梵名栴達羅提婆唐云月天以貞觀末年從吐蕃路。	His Sanskrit name was Candradhvaja, meaning Moon Heaven in Chinese. In the last year of the Zhenguan era, he traveled from the Tibetans' route.
+['ZH_T51_2066_001:0002c24_16']	往遊中國。	往遊中國。	He went to the Central Kingdom.
+['ZH_T51_2066_001:0002c25_5']	到菩提寺禮制底訖。	到菩提寺禮制底訖。	He arrived at Bodhi Temple and paid homage to the stupa.
+['ZH_T51_2066_001:0002c25_14']	在那爛陀學為童子。	在那爛陀學為童子。	He studied as a novice at Nālandā.
+['ZH_T51_2066_001:0002c26_1']	王深所禮遇。	王深所禮遇。	The king deeply honored him.
+['ZH_T51_2066_001:0002c26_14']	復向此寺東行十二驛有王寺。	復向此寺東行十二驛有王寺。	He went to the king's temple twelve yìnx south of the temple.
+['ZH_T51_2066_001:0002c27_1']	全是小乘。	全是小乘。	It was entirely Hīnayāna.
+['ZH_T51_2066_001:0002c27_10']	於其寺內停住多載。	於其寺內停住多載。	He stayed in the temple for many years.
+['ZH_T51_2066_001:0002c28_1']	學小乘三藏精順正理。	學小乘三藏精順正理。	He studied the Tripiṭaka of the Lesser Vehicle and was well-versed in the Abhidharma.
+['ZH_T51_2066_001:0002c28_10']	多齎經像言歸本國。	多齎經像言歸本國。	He brought many scriptures and images and returned to his homeland.
+['ZH_T51_2066_001:0002c29_1']	行至泥波羅遘疾而卒。	行至泥波羅遘疾而卒。	He passed away from illness in Nīpāla on his way back.
+['ZH_T51_2066_001:0002c29_9']	可在知命之年矣。	可在知命之年矣。	He was in his prime years.
+['ZH_T51_2066_001:0003a01_11']	并州常愍禪師常慜禪師者。	并州常愍禪師常慜禪師者。	Chan Master Chang Min of Bingzhou Chan Master Chang Min
+['ZH_T51_2066_001:0003a01_16']	并州人也。	并州人也。	was a person from Bingzhou.
+['ZH_T51_2066_001:0003a02_1']	自落髮投簪披緇釋素。	自落髮投簪披緇釋素。	After shaving his head and leaving the secular world to become a monk,
+['ZH_T51_2066_001:0003a02_10']	精勤匪懈念誦無歇。	精勤匪懈念誦無歇。	he diligently practiced without slacking off, reciting and chanting without stopping.
+['ZH_T51_2066_001:0003a02_19']	常發大誓願生極樂。	常發大誓願生極樂。	He always made great vows to be born in the Land of Ultimate Bliss.
+['ZH_T51_2066_001:0003a03_8']	所作淨業稱念佛名。	所作淨業稱念佛名。	He cultivated pure karma and chanted the Buddha's name.
+['ZH_T51_2066_001:0003a03_17']	福基既廣數難詳悉。	福基既廣數難詳悉。	The foundation of his blessings was vast, and the number was difficult to ascertain.
+['ZH_T51_2066_001:0003a04_7']	後遊京洛專崇斯業。	後遊京洛專崇斯業。	Later, he traveled to the capital and focused on cultivating this practice.
+['ZH_T51_2066_001:0003a04_16']	幽誠冥兆有所感徵。	幽誠冥兆有所感徵。	His sincere and hidden intentions had a response from the unseen world.
+['ZH_T51_2066_001:0003a05_8']	遂願寫般若經滿於萬卷。	遂願寫般若經滿於萬卷。	He then vowed to copy the Prajñāpāramitā Sūtra to the full extent of ten thousand scrolls.
+['ZH_T51_2066_001:0003a06_4']	冀得遠詣西方禮如來所行聖迹。	冀得遠詣西方禮如來所行聖迹。	He hoped to travel far to the West to pay homage to the holy traces of the Tathāgata's practice.
+['ZH_T51_2066_001:0003a06_13']	以此勝福迴向願生。	以此勝福迴向願生。	He dedicated this supreme merit and virtue, wishing to be born there.
+['ZH_T51_2066_001:0003a07_10']	遂詣闕上書請於諸州教化抄寫般若。	遂詣闕上書請於諸州教化抄寫般若。	He then went to the imperial court and petitioned to have the Prajñāpāramitā copied and propagated in various states.
+['ZH_T51_2066_001:0003a08_2']	且心所至也天必從之。	且心所至也天必從之。	Wherever the mind goes, heaven will surely follow.
+['ZH_T51_2066_001:0003a08_8']	乃蒙授墨勅。	乃蒙授墨勅。	He was then granted the imperial edict.
+['ZH_T51_2066_001:0003a08_13']	南遊江表。	南遊江表。	He traveled south to the Jiang region.
+['ZH_T51_2066_001:0003a08_18']	敬寫般若。	敬寫般若。	Respectfully copying the Prajnaparamita.
+['ZH_T51_2066_001:0003a09_3']	以報天澤。	以報天澤。	To repay the heavenly grace.
+['ZH_T51_2066_001:0003a09_8', 'ZH_T51_2066_001:0003a10_2']	要心既滿。🔽遂至海濱附舶南征往訶陵國。	要心既滿。 遂至海濱附舶南征往訶陵國。	The mind's desire being fulfilled.🔽He finally reached the seashore and boarded a ship sailing south to the country of Haling.
+['ZH_T51_2066_001:0003a10_12']	從此附舶往末羅瑜國。	從此附舶往末羅瑜國。	From here he boarded a ship to the country of Malayu.
+['ZH_T51_2066_001:0003a11_2']	復從此國欲詣中天。	復從此國欲詣中天。	He then wanted to go to Central India from this country.
+['ZH_T51_2066_001:0003a11_12']	然所附商舶載物既重。	然所附商舶載物既重。	But the merchant ship he boarded was already heavily loaded with goods.
+['ZH_T51_2066_001:0003a12_3']	解纜未遠起忽滄波。	解纜未遠起忽滄波。	Before they had sailed far, a sudden storm arose on the vast ocean.
+['ZH_T51_2066_001:0003a12_12']	不經半日遂便沈沒。	不經半日遂便沈沒。	In less than half a day, the ship sank.
+['ZH_T51_2066_001:0003a13_8']	當沒之時商人爭上小舶互相戰鬪。	當沒之時商人爭上小舶互相戰鬪。	When it was sinking, the merchants scrambled to board a smaller ship and fought each other.
+['ZH_T51_2066_001:0003a13_16']	其舶主既有信心。	其舶主既有信心。	The ship's captain had faith.
+['ZH_T51_2066_001:0003a14_6']	高聲唱言師來上舶。	高聲唱言師來上舶。	He shouted loudly, Master, come up on the ship!
+['ZH_T51_2066_001:0003a14_10']	常慜曰。	常慜曰。	Chang Min said:
+['ZH_T51_2066_001:0003a14_19']	可載餘人我不去也。	可載餘人我不去也。	You can take the other people, but I will not go.
+['ZH_T51_2066_001:0003a15_4']	所以然者。	所以然者。	The reason for this is:
+['ZH_T51_2066_001:0003a15_14']	若輕生為物順菩提心。	若輕生為物順菩提心。	If one lightly regards life for the sake of things, following the bodhi mind.
+['ZH_T51_2066_001:0003a16_4']	亡己濟人斯大士行。	亡己濟人斯大士行。	Losing oneself to save others is the practice of a great being.
+['ZH_T51_2066_001:0003a16_15']	於是合掌西方稱彌陀佛。	於是合掌西方稱彌陀佛。	Then, with palms joined, he chanted Amitabha Buddha in the west.
+['ZH_T51_2066_001:0003a17_5']	念念之頃舶沈身沒。	念念之頃舶沈身沒。	In an instant, the ship sank and his body was submerged.
+['ZH_T51_2066_001:0003a17_10']	聲盡而終。	聲盡而終。	His voice ceased and he died.
+['ZH_T51_2066_001:0003a17_17']	春秋五十餘矣。	春秋五十餘矣。	He was over fifty years old.
+['ZH_T51_2066_001:0003a18_3']	有弟子一人。	有弟子一人。	He had a disciple.
+['ZH_T51_2066_001:0003a18_10']	不知何許人也。	不知何許人也。	He did not know where he was from.
+['ZH_T51_2066_001:0003a18_15']	號咷悲泣。	號咷悲泣。	He wailed and wept.
+['ZH_T51_2066_001:0003a19_4']	亦念西方與之俱沒。	亦念西方與之俱沒。	He also thought of the Western Land and sank with him.
+['ZH_T51_2066_001:0003a19_15']	其得濟之人具陳斯事耳。	其得濟之人具陳斯事耳。	The people who were saved only told this story.
+['ZH_T51_2066_001:0003a20_2']	傷曰。	傷曰。	It is said:
+['ZH_T51_2066_001:0003a20_7']	悼矣偉人。	悼矣偉人。	Alas! A great man.
+['ZH_T51_2066_001:0003a20_12']	為物流身。	為物流身。	He gave up his body for the sake of things.
+['ZH_T51_2066_001:0003a20_17']	明同水鏡。	明同水鏡。	His clarity was like a mirror.
+['ZH_T51_2066_001:0003a21_1', 'ZH_T51_2066_001:0003a21_6']	貴等和珍。🔽涅而不黑。	貴等和珍。 涅而不黑。	He valued equality and cherished treasures.🔽He was not black when burned.
+['ZH_T51_2066_001:0003a21_11']	磨而不磷。	磨而不磷。	He was not phosphorescent when ground.
+['ZH_T51_2066_001:0003a21_16']	投軀慧巘。	投軀慧巘。	He threw his body into the Wisdom Cliff.
+['ZH_T51_2066_001:0003a22_1']	養智芳津。	養智芳津。	He nourished the fragrant ford of wisdom.
+['ZH_T51_2066_001:0003a22_9']	在自國而弘自業。	在自國而弘自業。	He was in his own country, promoting his own karma.
+['ZH_T51_2066_001:0003a22_17']	適他土而作他因。	適他土而作他因。	He went to other lands, creating other causes.
+['ZH_T51_2066_001:0003a23_4']	覯將沈之險難。	覯將沈之險難。	He saw the danger of sinking,
+['ZH_T51_2066_001:0003a23_13']	決於己而亡親在物。	決於己而亡親在物。	And decided to abandon his relatives in the world.
+['ZH_T51_2066_001:0003a24_1']	常慜子其寡隣。	常慜子其寡隣。	He always pitied his son for having few neighbors.
+['ZH_T51_2066_001:0003a24_10']	穢體散鯨波以取滅。	穢體散鯨波以取滅。	His defiled body scattered in the vast waves to attain extinction.
+['ZH_T51_2066_001:0003a24_19']	淨願詣安養而流神。	淨願詣安養而流神。	His pure vow reached the Land of Bliss to manifest his spirit.
+['ZH_T51_2066_001:0003a25_4']	道乎不昧。	道乎不昧。	The Way is not obscured.
+['ZH_T51_2066_001:0003a25_9']	德也寧堙。	德也寧堙。	His virtue is not buried.
+['ZH_T51_2066_001:0003a25_16']	布慈光之赫赫。	布慈光之赫赫。	Spreading the brilliant light of compassion,
+['ZH_T51_2066_001:0003a26_4']	竟塵劫而新新。	竟塵劫而新新。	Ending the dust eons, ever new.
+['ZH_T51_2066_001:0003a27_21']	京師末底僧訶師末底僧訶者唐云師子慧京兆人也。	京師末底僧訶師末底僧訶者唐云師子慧京兆人也。	The Master Shi Xianshou of the Capital of the Tang Dynasty, whose name is Shi Xianshou in Chinese, was a person from the capital.
+['ZH_T51_2066_001:0003a27_26']	俗姓皇甫。	俗姓皇甫。	His secular surname was Huangfu.
+['ZH_T51_2066_001:0003a28_4']	莫知本諱。	莫知本諱。	His name is unknown.
+['ZH_T51_2066_001:0003a28_10']	與師鞭同遊。	與師鞭同遊。	He traveled together with Master Bian.
+['ZH_T51_2066_001:0003a28_19']	俱到中土住信者寺。	俱到中土住信者寺。	They both went to the Central Plains and stayed at Xizhaer Temple.
+['ZH_T51_2066_001:0003a29_8']	少閑梵語未詳經論。	少閑梵語未詳經論。	He was young and proficient in Sanskrit, but was not familiar with the scriptures and treatises.
+['ZH_T51_2066_001:0003b01_1']	思還故里路過泥波羅國。	思還故里路過泥波羅國。	He thought of returning to his hometown and passed through the country of Nīpāla on the way.
+['ZH_T51_2066_001:0003b01_10']	遇患身死年四十餘。	遇患身死年四十餘。	He encountered an illness and died at the age of over forty.
+['ZH_T51_2066_001:0003b02_11']	京師玄會法師玄會法師者。	京師玄會法師玄會法師者。	The Dharma Master Xuanhui of the Capital, whose name is Xuanhui,
+['ZH_T51_2066_001:0003b02_16']	京師人也。	京師人也。	was a person from the capital.
+['ZH_T51_2066_001:0003b02_25']	云是安將軍之息也。	云是安將軍之息也。	It is said that he was the son of General An.
+['ZH_T51_2066_001:0003b03_10']	從北印度入羯濕彌羅國。	從北印度入羯濕彌羅國。	He went from northern India to the country of Kaśmīra.
+['ZH_T51_2066_001:0003b04_4']	為國王賞職乘王象奏王樂。	為國王賞職乘王象奏王樂。	He was rewarded by the king of the country and rode on the king's elephant to play the king's music.
+['ZH_T51_2066_001:0003b04_14']	日日向龍池山寺供養。	日日向龍池山寺供養。	Every day he went to Longchi Mountain Temple to make offerings.
+['ZH_T51_2066_001:0003b05_6']	寺是五百羅漢受供之處。	寺是五百羅漢受供之處。	The temple was the place where five hundred arhats received offerings.
+['ZH_T51_2066_001:0003b06_13']	即尊者阿難陀室灑末田地所化龍王之地也室灑譯為所教。	即尊者阿難陀室灑末田地所化龍王之地也室灑譯為所教。	It is the land where Venerable Ānanda converted the nāga king Śītavatī. Śītavatī is translated as the one who is taught.
+['ZH_T51_2066_001:0003b07_9']	舊云弟子者非也復化羯濕彌羅王大放恩赦國內。	舊云弟子者非也復化羯濕彌羅王大放恩赦國內。	The old translation of disciple is incorrect. He also converted King Kalashakti, who greatly pardoned those in the country.
+['ZH_T51_2066_001:0003b08_2']	有死囚千餘人勸王釋放。	有死囚千餘人勸王釋放。	There were over a thousand death row inmates, and he encouraged the king to release them.
+['ZH_T51_2066_001:0003b08_11']	出入王宅既漸年載。	出入王宅既漸年載。	He came and went in the king's residence for many years.
+['ZH_T51_2066_001:0003b09_2']	後因失意遂乃南遊至。	後因失意遂乃南遊至。	Later, he lost favor and then traveled south to
+['ZH_T51_2066_001:0003b09_10']	大覺寺禮菩提樹。	大覺寺禮菩提樹。	Mahābodhi Temple to pay homage to the Bodhi tree.
+['ZH_T51_2066_001:0003b09_15']	覩木真池。	覩木真池。	He saw the Makuṭabandhana pool.
+['ZH_T51_2066_001:0003b09_20']	登鷲峯山。	登鷲峯山。	He climbed Vulture Peak.
+['ZH_T51_2066_001:0003b10_4']	陟尊足嶺。	陟尊足嶺。	He ascended the mountain where the Buddha's feet were venerated.
+['ZH_T51_2066_001:0003b10_13']	稟識聰叡多繕工伎。	稟識聰叡多繕工伎。	He was intelligent and learned, and skilled in many crafts.
+['ZH_T51_2066_001:0003b11_6']	雖復經過未幾而梵韻清徹。	雖復經過未幾而梵韻清徹。	Although he had only been there for a short time, his clear and penetrating Sanskrit voice
+['ZH_T51_2066_001:0003b11_15']	少雋經教思反故居。	少雋經教思反故居。	was like a young prodigy who had studied the scriptures and wanted to return to his homeland.
+['ZH_T51_2066_001:0003b12_7']	到泥波羅國不幸而卒。	到泥波羅國不幸而卒。	He arrived in the country of Nepāla, but unfortunately passed away there.
+['ZH_T51_2066_001:0003b12_22']	春秋僅過而立矣泥波羅既有毒藥。	春秋僅過而立矣泥波羅既有毒藥。	He was only in his prime, in his early thirties. Nepāla has poisonous medicine,
+['ZH_T51_2066_001:0003b13_7']	所以到彼多亡也。	所以到彼多亡也。	so many died when they arrived there.
+['ZH_T51_2066_001:0003b14_9']	質多跋摩師復有一人。	質多跋摩師復有一人。	Sthiramati also had a teacher.
+['ZH_T51_2066_001:0003b14_22']	與北道使人相逐至縛渴羅國。	與北道使人相逐至縛渴羅國。	He followed the envoy to the northern route and arrived at the country of Baktra.
+['ZH_T51_2066_001:0003b15_13']	於新寺小乘師處出家名質多跋摩。	於新寺小乘師處出家名質多跋摩。	He renounced the world at the place of the Hīnayāna teachers in the new monastery, named Cūdapanthaka.
+['ZH_T51_2066_001:0003b16_5']	後將受具而不食三淨。	後將受具而不食三淨。	Later, he was about to receive full ordination but did not eat the three pure foods.
+['ZH_T51_2066_001:0003b16_9']	其師曰。	其師曰。	His teacher said:
+['ZH_T51_2066_001:0003b16_18']	如來大師親開五正。	如來大師親開五正。	The Great Teacher Tathāgata personally allowed the five right [foods].
+['ZH_T51_2066_001:0003b17_3']	既其無罪。	既其無罪。	Since there is no offense,
+['ZH_T51_2066_001:0003b17_8']	爾何不食。	爾何不食。	why don't you eat [them]?
+['ZH_T51_2066_001:0003b17_11']	對曰。	對曰。	He replied:
+['ZH_T51_2066_001:0003b18_1']	諸大乘經具有全制。	諸大乘經具有全制。	The Mahāyāna sūtras completely prohibit [eating meat].
+['ZH_T51_2066_001:0003b18_10']	是所舊習性不能改。	是所舊習性不能改。	This is what I have long been accustomed to and cannot change.
+['ZH_T51_2066_001:0003b18_13']	師曰。	師曰。	The teacher said:
+['ZH_T51_2066_001:0003b19_2']	我依三藏律有成科。	我依三藏律有成科。	I rely on the Vinaya of the Tripiṭaka to establish the rules.
+['ZH_T51_2066_001:0003b19_11']	汝之引文非吾所學。	汝之引文非吾所學。	The texts you cite are not what I study.
+['ZH_T51_2066_001:0003b20_1']	若懷別見我非汝師。	若懷別見我非汝師。	If you have a different view, I am not your teacher.
+['ZH_T51_2066_001:0003b20_6']	遂強令進。	遂強令進。	He then forced him to eat.
+['ZH_T51_2066_001:0003b20_12']	乃掩泣而食。	乃掩泣而食。	He then wept and ate.
+['ZH_T51_2066_001:0003b20_17']	方為受具。	方為受具。	He was then given full ordination.
+['ZH_T51_2066_001:0003b21_7']	少閑梵語覆取北路而歸。	少閑梵語覆取北路而歸。	He was a little familiar with Sanskrit and returned by the northern route.
+['ZH_T51_2066_001:0003b21_12']	莫知所至。	莫知所至。	No one knew where he went.
+['ZH_T51_2066_001:0003b22_2', 'ZH_T51_2066_001:0003b23_13']	傳聞於北天之僧矣。🔽吐蕃公主嬭母息二人復有二人。	傳聞於北天之僧矣。 吐蕃公主嬭母息二人復有二人。	It is said that he was among the monks in the northern regions.
+['ZH_T51_2066_001:0003b23_19']	在泥波羅國。	在泥波羅國。	The wet nurses of the Tibetan princess and her two sons, and two others, were in the country of Nīpāla.
+['ZH_T51_2066_001:0003b24_3']	是吐蕃公主嬭母之息也。	是吐蕃公主嬭母之息也。	He is the son of the wet nurse of the Princess of Tubo.
+['ZH_T51_2066_001:0003b24_8']	初並出家。	初並出家。	At first, they both became monks.
+['ZH_T51_2066_001:0003b24_17']	後一歸俗住大王寺。	後一歸俗住大王寺。	Later, one returned to lay life and stayed at the Great King Temple.
+['ZH_T51_2066_001:0003b25_5']	善梵語并梵書。	善梵語并梵書。	He was good at Sanskrit language and Sanskrit writing.
+['ZH_T51_2066_001:0003b25_14']	年三十五二十五矣。	年三十五二十五矣。	He was thirty-five or twenty-five years old.
+['ZH_T51_2066_001:0003b26_7']	隆法師隆法師者。	隆法師隆法師者。	Master Long Master Long
+['ZH_T51_2066_001:0003b26_14']	不知何所人也。	不知何所人也。	is not known to be from any particular place.
+['ZH_T51_2066_001:0003b27_3']	以貞觀年內從北道而出。	以貞觀年內從北道而出。	In the years of the Zhenguan era, he left from the northern route.
+['ZH_T51_2066_001:0003b27_13']	取北印度欲觀化中天。	取北印度欲觀化中天。	He went to northern India, wanting to observe the customs of Central India.
+['ZH_T51_2066_001:0003b28_2']	誦得梵本法華經。	誦得梵本法華經。	He recited the Sanskrit version of the Lotus Sutra.
+['ZH_T51_2066_001:0003b28_12']	到健陀羅國遇疾而亡。	到健陀羅國遇疾而亡。	When he reached the country of Gandhara, he encountered illness and died.
+['ZH_T51_2066_001:0003b29_2']	北方僧來傳說如此。	北方僧來傳說如此。	Monks from the north came and spread the news like this.
+['ZH_T51_2066_001:0003c01_4']	右二十人。	右二十人。	The above twenty people.
+['ZH_T51_2066_001:0003c02_11']	益州明遠法師明遠法師者。	益州明遠法師明遠法師者。	Master Mingyuan of Yizhou Master Mingyuan
+['ZH_T51_2066_001:0003c02_18']	益州清城人也。	益州清城人也。	is from Qingcheng in Yizhou.
+['ZH_T51_2066_001:0003c03_12']	梵名振多提婆唐云思天幼履法訓長而彌修。	梵名振多提婆唐云思天幼履法訓長而彌修。	His Sanskrit name is Jintatibhava, which means Si Tian in Chinese. He followed the Dharma teachings from a young age and became more diligent as he grew up.
+['ZH_T51_2066_001:0003c04_2']	容儀雅麗庠序清遒。	容儀雅麗庠序清遒。	His appearance was elegant and refined, and his demeanor was peaceful and pure.
+['ZH_T51_2066_001:0003c04_9']	善中百議莊周。	善中百議莊周。	He was good at the Zhongbian Bajian and Zhuang Zhou.
+['ZH_T51_2066_001:0003c04_16']	早遊七澤之間。	早遊七澤之間。	He traveled in the Seven Marshes in the east at an early age.
+['ZH_T51_2066_001:0003c05_3']	後歷三吳之表。	後歷三吳之表。	Later, he traveled to the regions of the Three Wu provinces in the south.
+['ZH_T51_2066_001:0003c05_12']	重學經論更習定門。	重學經論更習定門。	He studied the sutras and treatises again and practiced meditation.
+['ZH_T51_2066_001:0003c06_4']	於是棲隱廬峯經于夏日。	於是棲隱廬峯經于夏日。	Then he stayed in seclusion on Mount Lu for the summer.
+['ZH_T51_2066_001:0003c06_11']	既慨聖教陵遲。	既慨聖教陵遲。	He lamented that the holy teachings were declining.
+['ZH_T51_2066_001:0003c06_18']	遂乃振錫南遊。	遂乃振錫南遊。	So he shook his staff and traveled south.
+['ZH_T51_2066_001:0003c07_4']	屆於交阯。	屆於交阯。	He arrived in Jiaozhi.
+['ZH_T51_2066_001:0003c07_13']	鼓舶鯨波到訶陵國。	鼓舶鯨波到訶陵國。	He beat the drum on the ship across the vast ocean and reached the country of Hāralī.
+['ZH_T51_2066_001:0003c08_1']	次至師子洲。	次至師子洲。	Next he arrived at Siṃhala Island.
+['ZH_T51_2066_001:0003c08_16']	為君王禮敬乃潛形閣內密取佛牙。	為君王禮敬乃潛形閣內密取佛牙。	For the king's respectful worship, he hid his form in a pavilion and secretly took the Buddha's tooth relic.
+['ZH_T51_2066_001:0003c09_6']	望歸本國以興供養。	望歸本國以興供養。	He looked forward to returning to his homeland to make offerings.
+['ZH_T51_2066_001:0003c09_15']	既得入手翻被奪將。	既得入手翻被奪將。	After obtaining it, he was robbed and taken away.
+['ZH_T51_2066_001:0003c10_5']	不遂所懷頗見陵辱。	不遂所懷頗見陵辱。	He did not fulfill his intentions and was greatly humiliated.
+['ZH_T51_2066_001:0003c10_17']	向南印度傳聞師子洲人云。	向南印度傳聞師子洲人云。	He heard from people on Siṃhala Island in southern India:
+['ZH_T51_2066_001:0003c11_8']	往大覺中方寂無消息。	往大覺中方寂無消息。	In the past, he went to the Great Awakened One and has since been silent without any news.
+['ZH_T51_2066_001:0003c11_15']	應是在路而終。	應是在路而終。	It seems he died on the road.
+['ZH_T51_2066_001:0003c12_1']	莫委年幾。	莫委年幾。	His age is unknown.
+['ZH_T51_2066_001:0003c12_14']	其師子洲防守佛牙異常牢固。	其師子洲防守佛牙異常牢固。	The defense of the Buddha's tooth relic on Siṃhala Island is extremely strict.
+['ZH_T51_2066_001:0003c13_4']	置高樓上幾閉重關。	置高樓上幾閉重關。	It is placed on a high building with several heavy locks.
+['ZH_T51_2066_001:0003c13_13']	鎖鑰泥封五官共印。	鎖鑰泥封五官共印。	The keys are sealed with mud and stamped by the five officials.
+['ZH_T51_2066_001:0003c14_4']	若開一戶則響徹城郭。	若開一戶則響徹城郭。	If one door is opened, the sound reaches throughout the city.
+['ZH_T51_2066_001:0003c14_13']	每日供養香華遍覆。	每日供養香華遍覆。	Every day, offerings of incense and flowers cover it completely.
+['ZH_T51_2066_001:0003c15_4']	至心祈請則牙出華上。	至心祈請則牙出華上。	If one sincerely prays, the flower on top of the tooth will emerge.
+['ZH_T51_2066_001:0003c15_9']	或現異光。	或現異光。	Sometimes it emits strange light.
+['ZH_T51_2066_001:0003c15_14']	眾皆共覩。	眾皆共覩。	Everyone sees it together.
+['ZH_T51_2066_001:0003c15_17']	傳云。	傳云。	The transmission says:
+['ZH_T51_2066_001:0003c16_12']	此洲若失佛牙並被羅剎之所吞食。	此洲若失佛牙並被羅剎之所吞食。	If this continent loses the Buddha's tooth, it will be swallowed by the rākṣasas.
+['ZH_T51_2066_001:0003c17_3']	為防此患非常守護。	為防此患非常守護。	To prevent this calamity, it is always guarded.
+['ZH_T51_2066_001:0003c17_8']	亦有傳云。	亦有傳云。	There is also a transmission that says:
+['ZH_T51_2066_001:0003c17_14']	當向支那矣。	當向支那矣。	It will go to China.
+['ZH_T51_2066_001:0003c18_5']	斯乃聖力遐被有感便通。	斯乃聖力遐被有感便通。	This is the far-reaching influence of the sage's power, responding to those who have affinity.
+['ZH_T51_2066_001:0003c18_15']	豈由人事強申非分耳。	豈由人事強申非分耳。	How could it be due to human affairs forcibly extending beyond one's lot?
+['ZH_T51_2066_001:0003c19_11']	益州義朗律師義朗律師者。	益州義朗律師義朗律師者。	Yi Lang, the Vinaya Master of Yizhou Yi Lang, the Vinaya Master,
+['ZH_T51_2066_001:0003c19_18']	益州成都人也。	益州成都人也。	was from Chengdu, Yizhou.
+['ZH_T51_2066_001:0003c20_2']	善閑律典兼解瑜伽。	善閑律典兼解瑜伽。	He was well-versed in the Vinaya canon and also understood the Yoga teachings.
+['ZH_T51_2066_001:0003c20_11']	發自長安彌歷江漢。	發自長安彌歷江漢。	He set out from Chang'an and traveled through the Jiang Han region.
+['ZH_T51_2066_001:0003c21_6']	與同州僧智岸并弟一人名義玄。	與同州僧智岸并弟一人名義玄。	He was with Zhi An, a monk from Tongzhou, and his younger brother named Yi Xuan.
+['ZH_T51_2066_001:0003c21_15']	年始弱冠知欽正理。	年始弱冠知欽正理。	At the age of just 20, he admired the correct principles.
+['ZH_T51_2066_001:0003c22_5']	頗閑內典尤善文筆。	頗閑內典尤善文筆。	He was quite familiar with the Buddhist canon and was especially good at writing.
+['ZH_T51_2066_001:0003c22_15']	思瞻聖迹遂與弟俱遊。	思瞻聖迹遂與弟俱遊。	Thinking of venerating the holy traces, he traveled with his younger brother.
+['ZH_T51_2066_001:0003c23_5']	秀季良昆遞相携帶。	秀季良昆遞相携帶。	The Xiu brothers, the younger and the elder, took care of each other.
+['ZH_T51_2066_001:0003c23_14']	鶺鴒存念魚水敦懷。	鶺鴒存念魚水敦懷。	Like lapwings thinking of each other, like fish and water being close.
+['ZH_T51_2066_001:0003c24_4']	既至烏雷同附商舶。	既至烏雷同附商舶。	When they arrived at Olei, they boarded a merchant ship together.
+['ZH_T51_2066_001:0003c24_11']	掛百丈陵萬波。	掛百丈陵萬波。	They sailed a hundred thousand waves to Mount Baizhang.
+['ZH_T51_2066_001:0003c25_2']	越舸扶南綴纜郎迦戍。	越舸扶南綴纜郎迦戍。	They crossed the sea to Funan and anchored at Langqashu.
+['ZH_T51_2066_001:0003c25_15']	蒙郎迦戍國王待以上賓之禮。	蒙郎迦戍國王待以上賓之禮。	They were treated with the courtesy of an honored guest by the king of Langqashu.
+['ZH_T51_2066_001:0003c26_5']	智岸遇疾於此而亡。	智岸遇疾於此而亡。	Zhi'an fell ill and died there.
+['ZH_T51_2066_001:0003c26_14']	朗公既懷死別之恨。	朗公既懷死別之恨。	Master Lang was already filled with the sorrow of parting with the dead.
+['ZH_T51_2066_001:0003c27_4']	與弟附舶向師子洲。	與弟附舶向師子洲。	He and his younger brother boarded a ship heading for the Lion Continent.
+['ZH_T51_2066_001:0003c27_13']	披求異典頂禮佛牙。	披求異典頂禮佛牙。	They searched for different scriptures and paid homage to the Buddha's tooth relic.
+['ZH_T51_2066_001:0003c27_18']	漸之西國。	漸之西國。	They gradually reached the Western Regions.
+['ZH_T51_2066_001:0003c28_4']	傳聞如此。	傳聞如此。	This is what I have heard.
+['ZH_T51_2066_001:0003c28_13']	而今不知的在何所。	而今不知的在何所。	But now I do not know where he is.
+['ZH_T51_2066_001:0003c29_1']	師子洲既不見。	師子洲既不見。	Since he was not seen on the Lion Continent,
+['ZH_T51_2066_001:0003c29_8']	中印度復不聞。	中印度復不聞。	and was not heard of in Central India,
+['ZH_T51_2066_001:0003c29_16']	多是魄歸異代矣。	多是魄歸異代矣。	it is likely that his spirit has returned to a different era.
+['ZH_T51_2066_001:0004a01_3']	年四十餘耳。	年四十餘耳。	He was over forty years old.
+['ZH_T51_2066_001:0004a02_16']	益州會寧律師會寧律師益州成都人也。	益州會寧律師會寧律師益州成都人也。	Vinaya Master Huining of Yizhou Vinaya Master Huining was from Chengdu, Yizhou.
+['ZH_T51_2066_001:0004a03_1']	稟志操行意存弘益。	稟志操行意存弘益。	He had a resolute character and intended to promote the benefit of others.
+['ZH_T51_2066_001:0004a03_16']	少而聰慧投跡法場敬勝理若髻珠。	少而聰慧投跡法場敬勝理若髻珠。	He was intelligent and wise from a young age. He entered the Dharma arena and revered the supreme truth like a topknot jewel.
+['ZH_T51_2066_001:0004a04_4']	棄榮華如脫屣。	棄榮華如脫屣。	He abandoned worldly glory as if discarding shoes.
+['ZH_T51_2066_001:0004a04_13']	薄善經論尤精律典。	薄善經論尤精律典。	He was well-versed in scriptures and treatises, and especially proficient in the Vinaya canon.
+['ZH_T51_2066_001:0004a05_4']	志存演法結念西方。	志存演法結念西方。	His aspiration was to expound the Dharma and contemplate the Western Pure Land.
+['ZH_T51_2066_001:0004a05_15']	爰以麟德年中仗錫南海。	爰以麟德年中仗錫南海。	In the Linde era, he relied on his staff to travel to the South Seas.
+['ZH_T51_2066_001:0004a06_4']	汎舶至訶陵洲。	汎舶至訶陵洲。	He sailed on a ship to the island of Hailing.
+['ZH_T51_2066_001:0004a06_9']	停住三載。	停住三載。	He stayed there for three years.
+['ZH_T51_2066_001:0004a07_4']	遂共訶陵國多聞僧若那跋陀羅。	遂共訶陵國多聞僧若那跋陀羅。	He then collaborated with the learned monk Yanavarma of the Hailing country.
+['ZH_T51_2066_001:0004a08_3']	於阿笈摩經內譯出如來涅槃焚身之事。	於阿笈摩經內譯出如來涅槃焚身之事。	They translated the story of the Tathagata's nirvana and cremation from the Agamas.
+['ZH_T51_2066_001:0004a08_14']	斯與大乘涅槃頗不相涉。	斯與大乘涅槃頗不相涉。	This is somewhat related to the Mahayana Nirvana Sutra.
+['ZH_T51_2066_001:0004a09_8']	然大乘涅槃西國淨觀見目云。	然大乘涅槃西國淨觀見目云。	However, in the Mahayana Nirvana Sutra, the Western Pure Land is called Guan.
+['ZH_T51_2066_001:0004a09_18']	其大數有二十五千頌。	其大數有二十五千頌。	It has a total of 25,000 verses.
+['ZH_T51_2066_001:0004a10_8']	翻譯可成六十餘卷。	翻譯可成六十餘卷。	The translation could be over 60 scrolls.
+['ZH_T51_2066_001:0004a10_17']	檢其全部竟而不獲。	檢其全部竟而不獲。	I examined the entire text but did not find it.
+['ZH_T51_2066_001:0004a11_13']	但得初大眾問品一夾有四千餘頌。	但得初大眾問品一夾有四千餘頌。	I only obtained a section of the first chapter Questions of the Great Assembly with over 4,000 verses.
+['ZH_T51_2066_001:0004a12_5', 'ZH_T51_2066_001:0004a13_2']	會寧既譯得阿笈摩本。🔽遂令小僧運期奉表齎經還至交府。	會寧既譯得阿笈摩本。 遂令小僧運期奉表齎經還至交府。	Hui Ning, having translated the original Agama,🔽ordered the young monk Yunqi to present the sutra and return to Jiaozhou.
+['ZH_T51_2066_001:0004a13_11']	馳驛京兆奏上闕庭。	馳驛京兆奏上闕庭。	He rushed to Chang'an to present it to the imperial court.
+['ZH_T51_2066_001:0004a14_1']	冀使未聞流布東夏。	冀使未聞流布東夏。	He hoped to spread it to the East.
+['ZH_T51_2066_001:0004a14_10']	運期從京還達交阯。	運期從京還達交阯。	Yunqi returned from the capital to Jiaozhi.
+['ZH_T51_2066_001:0004a15_3']	告諸道俗蒙贈小絹數百疋。	告諸道俗蒙贈小絹數百疋。	He announced to the monks and laypeople that he had received a small amount of silk as a gift.
+['ZH_T51_2066_001:0004a16_2']	重諂訶陵報德智賢若那跋達羅也與會寧相見。	重諂訶陵報德智賢若那跋達羅也與會寧相見。	The deceitful and arrogant Zhixian and Yana Badaluo met with Huining.
+['ZH_T51_2066_001:0004a16_11']	於是會寧方適西國。	於是會寧方適西國。	Then Huining went to the Western Regions.
+['ZH_T51_2066_001:0004a17_1']	比於所在每察風聞。	比於所在每察風聞。	Everywhere he went, he always observed the customs and heard the news.
+['ZH_T51_2066_001:0004a17_10']	尋聽五天絕無蹤緒。	尋聽五天絕無蹤緒。	He searched in the five heavens but found no trace.
+['ZH_T51_2066_001:0004a18_1']	准斯理也即其人已亡。	准斯理也即其人已亡。	According to this principle, that person had already passed away.
+['ZH_T51_2066_001:0004a18_6']	傷曰嗟矣。	傷曰嗟矣。	He sighed in sorrow.
+['ZH_T51_2066_001:0004a19_3']	會寧為法孤征纔翻二軸啟望天庭。	會寧為法孤征纔翻二軸啟望天庭。	Huining traveled alone for the Dharma and had just translated two scrolls, hoping for the heavenly court.
+['ZH_T51_2066_001:0004a19_12']	終期寶渚權居化城。	終期寶渚權居化城。	He ended his journey at the treasure island, temporarily staying at the transformed city.
+['ZH_T51_2066_001:0004a20_1']	身雖沒而道著。	身雖沒而道著。	Although his body was gone, his Way was renowned.
+['ZH_T51_2066_001:0004a20_8']	時縱遠而遺名。	時縱遠而遺名。	Although the time was distant, his legacy remained.
+['ZH_T51_2066_001:0004a20_15']	將菩薩之先志。	將菩薩之先志。	He would carry forward the previous aspirations of the bodhisattvas.
+['ZH_T51_2066_001:0004a21_2']	共後念以揚聲。	共後念以揚聲。	Together with later thoughts, he would proclaim his fame.
+['ZH_T51_2066_001:0004a21_11', 'ZH_T51_2066_001:0004a22_10']	春秋可三十四五矣。🔽交州運期法師運期師者。	春秋可三十四五矣。 交州運期法師運期師者。	His age was about thirty-four or thirty-five.
+['ZH_T51_2066_001:0004a22_15']	交州人也。	交州人也。	The Dharma Master Yunqi of Jiaozhou Yunqi, the master, was a person from Jiaozhou.
+['ZH_T51_2066_001:0004a22_21']	與曇潤同遊。	與曇潤同遊。	He traveled together with Tanrun.
+['ZH_T51_2066_001:0004a23_2']	仗智賢受具。	仗智賢受具。	He relied on Zhixian to receive the precepts.
+['ZH_T51_2066_001:0004a23_11']	旋迴南海十有餘年。	旋迴南海十有餘年。	He returned to the South Seas for more than ten years.
+['ZH_T51_2066_001:0004a24_1']	善崑崙音頗知梵語。	善崑崙音頗知梵語。	Kunlun was quite familiar with Sanskrit.
+['ZH_T51_2066_001:0004a24_12']	後便歸俗住室利佛逝國。	後便歸俗住室利佛逝國。	Later, he returned to secular life and stayed in the country of Sri Lanka.
+['ZH_T51_2066_001:0004a24_17']	于今現在。	于今現在。	He is still alive now.
+['ZH_T51_2066_001:0004a25_9']	既而往復宏波傳經帝里。	既而往復宏波傳經帝里。	Then, he went back and forth to spread the sutras in the capital.
+['ZH_T51_2066_001:0004a25_18']	布未曾教斯人之力。	布未曾教斯人之力。	The spread of the unprecedented teachings is due to this person's power.
+['ZH_T51_2066_001:0004a26_5', 'ZH_T51_2066_001:0004a27_12']	年可四十矣。🔽交州木叉提婆師木叉提婆者。	年可四十矣。 交州木叉提婆師木叉提婆者。	He is about forty years old.🔽The teacher Mokṣadeva of Jiaozhou Mokṣadeva
+['ZH_T51_2066_001:0004a27_27']	交州人也唐云解脫天也不閑本諱。	交州人也唐云解脫天也不閑本諱。	is a person from Jiaozhou. He does not know his original name.
+['ZH_T51_2066_001:0004a28_7']	汎舶南溟經遊諸國。	汎舶南溟經遊諸國。	He sailed in the South China Sea and traveled to various countries.
+['ZH_T51_2066_001:0004a28_16']	到大覺寺遍禮聖蹤。	到大覺寺遍禮聖蹤。	He arrived at Mahābodhi Temple and paid homage to the holy traces everywhere.
+['ZH_T51_2066_001:0004a29_2']	於此而殞。	於此而殞。	He passed away here.
+['ZH_T51_2066_001:0004a29_10', 'ZH_T51_2066_001:0004b01_11']	年可二十四五耳。🔽交州窺沖法師窺冲法師者。	年可二十四五耳。 交州窺沖法師窺冲法師者。	He was about twenty-four or twenty-five years old.🔽The teacher Kūcung of Jiaozhou Kūcung🔽is a person from Jiaozhou.
+['ZH_T51_2066_001:0004b01_15', 'ZH_T51_2066_001:0004b01_22']	交州人。🔽即明遠室灑也。	交州人。 即明遠室灑也。	He is Mingyuan's disciple.
+['ZH_T51_2066_001:0004b02_4']	梵名質呾囉提婆。	梵名質呾囉提婆。	His Sanskrit name is Citradevaputra.
+['ZH_T51_2066_001:0004b02_14']	與明遠同舶而汎南海。	與明遠同舶而汎南海。	He sailed in the South China Sea with Mingyuan.
+['ZH_T51_2066_001:0004b02_19']	到師子洲。	到師子洲。	He arrived at Siṃhala Island.
+['ZH_T51_2066_001:0004b03_4']	向西印度。	向西印度。	He went to western India.
+['ZH_T51_2066_001:0004b03_9']	見玄照師。	見玄照師。	He met Teacher Xuansha.
+['ZH_T51_2066_001:0004b03_14']	共詣中土。	共詣中土。	They went to the Central Plains together.
+['ZH_T51_2066_001:0004b04_5']	其人稟性聰叡善誦梵經。	其人稟性聰叡善誦梵經。	The man was by nature intelligent and good at reciting the Sanskrit scriptures.
+['ZH_T51_2066_001:0004b04_15']	所在至處恒編演唱之。	所在至處恒編演唱之。	Wherever he went, he always recited them.
+['ZH_T51_2066_001:0004b05_2']	首禮菩提樹。	首禮菩提樹。	He first paid homage to the Bodhi tree.
+['ZH_T51_2066_001:0004b05_11']	到王舍城遘疾竹園。	到王舍城遘疾竹園。	When he reached the Bamboo Grove in Rājagṛha, he fell ill.
+['ZH_T51_2066_001:0004b05_16']	淹留而卒。	淹留而卒。	He stayed there and passed away.
+['ZH_T51_2066_001:0004b06_2', 'ZH_T51_2066_001:0004b07_10']	年三十許。🔽交州慧琰法師慧琰師者。	年三十許。 交州慧琰法師慧琰師者。	He was about thirty years old.🔽Master Huiyan of Jiaozhou Master Huiyan🔽was a person from Jiaozhou.
+['ZH_T51_2066_001:0004b07_15', 'ZH_T51_2066_001:0004b07_22']	交州人也。🔽即行公之室灑。	交州人也。 即行公之室灑。	He was a disciple of Master Xing.
+['ZH_T51_2066_001:0004b08_5']	隨師到僧訶羅國。	隨師到僧訶羅國。	He followed his master to the country of Saṃkāśya.
+['ZH_T51_2066_001:0004b08_10']	遂停彼國。	遂停彼國。	He then stayed in that country.
+['ZH_T51_2066_001:0004b08_15']	莫辯存亡。	莫辯存亡。	It was unknown whether he was alive or dead.
+['ZH_T51_2066_001:0004b09_8']	信胄法師信胄法師。	信胄法師信胄法師。	Master Xinzou Master Xinzou
+['ZH_T51_2066_001:0004b09_15']	不知何許人也。	不知何許人也。	was not known to be from any particular place.
+['ZH_T51_2066_001:0004b10_12']	梵名設唎陀跋摩唐云信胄取北道而到西國。	梵名設唎陀跋摩唐云信胄取北道而到西國。	His Sanskrit name was Śrīdharman, which means trustworthy lineage in Chinese. He took the northern route to the Western Regions.
+['ZH_T51_2066_001:0004b11_1']	禮謁既周住信者寺。	禮謁既周住信者寺。	After completing his pilgrimage, he stayed at the Xinjiao Temple.
+['ZH_T51_2066_001:0004b11_10']	於寺上層造一塼閣。	於寺上層造一塼閣。	On the upper level of the temple, he built a brick pavilion.
+['ZH_T51_2066_001:0004b11_19']	施上臥具永貽供養。	施上臥具永貽供養。	He donated bedding for the upper level, which was permanently used for offerings.
+['ZH_T51_2066_001:0004b12_7']	遇疾數日餘命輟。	遇疾數日餘命輟。	He fell ill for several days and his remaining life was cut short.
+['ZH_T51_2066_001:0004b12_14']	然忽於夜中云。	然忽於夜中云。	However, he suddenly said in the middle of the night:
+['ZH_T51_2066_001:0004b13_2']	有菩薩授手迎。	有菩薩授手迎。	A bodhisattva is welcoming me with his hand.
+['ZH_T51_2066_001:0004b13_11']	接端居合掌太息而。	接端居合掌太息而。	Joined his palms and sighed in admiration.
+['ZH_T51_2066_001:0004b13_17']	終年三十五。	終年三十五。	He passed away at the age of thirty-five.
+['ZH_T51_2066_001:0004b14_4']	右三十人。	右三十人。	The above thirty people.
+['ZH_T51_2066_001:0004b15_11']	愛州智行法師智行法師者。	愛州智行法師智行法師者。	Master Zhixing of Aizhou, Master Zhixing of Aizhou,
+['ZH_T51_2066_001:0004b15_16']	愛州人也。	愛州人也。	was a person from Aizhou.
+['ZH_T51_2066_001:0004b16_6']	梵名般若提婆唐云慧天汎南海詣西天。	梵名般若提婆唐云慧天汎南海詣西天。	His Sanskrit name was Prajñādeva, which means Wisdom Heaven in Chinese. He sailed the South Sea to the Western Heaven.
+['ZH_T51_2066_001:0004b16_11']	遍禮尊儀。	遍禮尊儀。	He paid homage to the sacred images everywhere.
+['ZH_T51_2066_001:0004b16_17']	至弶伽河北。	至弶伽河北。	He reached the north bank of the Ganges River.
+['ZH_T51_2066_001:0004b17_4']	居信者寺而卒。	居信者寺而卒。	He stayed at the Temple of Faith and passed away.
+['ZH_T51_2066_001:0004b17_10']	年五十餘矣。	年五十餘矣。	He was over fifty years old.
+['ZH_T51_2066_001:0004b18_13']	愛州大乘燈禪師大乘燈禪師者。	愛州大乘燈禪師大乘燈禪師者。	Chan Master Dasheng Deng of Aizhou, Chan Master Dasheng Deng of Aizhou,
+['ZH_T51_2066_001:0004b18_18']	愛州人也。	愛州人也。	was a person from Aizhou.
+['ZH_T51_2066_001:0004b20_2']	梵名莫訶夜那鉢地已波唐云大乘燈也幼隨父母汎舶往社和羅鉢底國。	梵名莫訶夜那鉢地已波唐云大乘燈也幼隨父母汎舶往社和羅鉢底國。	His Sanskrit name was Mahāyāna-pradīpa, which means Lamp of the Great Vehicle in Chinese. He followed his parents on a ship to the country of Śāhrābhapura when he was young.
+['ZH_T51_2066_001:0004b20_7', 'ZH_T51_2066_001:0004b20_16']	方始出家。🔽後隨唐使郯緒相逐。	方始出家。 後隨唐使郯緒相逐。	He just started to leave the household life.
+['ZH_T51_2066_001:0004b20_19']	入京。	入京。	Later, he followed the Tang envoy Tanxu and entered the capital.
+['ZH_T51_2066_001:0004b22_5']	於慈恩寺三藏法師玄奘處進受具戒居京數載頗覽經書。	於慈恩寺三藏法師玄奘處進受具戒居京數載頗覽經書。	He stayed at Ci'en Temple for several years and read scriptures extensively.
+['ZH_T51_2066_001:0004b22_11']	而思禮聖蹤。	而思禮聖蹤。	But he thought of paying homage to the holy traces.
+['ZH_T51_2066_001:0004b22_16']	情契西極。	情契西極。	His feelings resonated with the farthest west.
+['ZH_T51_2066_001:0004b23_5']	體蘊忠恕性合廉隅。	體蘊忠恕性合廉隅。	His essence is the virtue of the five precepts, his nature is the corner of honesty.
+['ZH_T51_2066_001:0004b23_14']	戒巘存懷禪枝叶慮。	戒巘存懷禪枝叶慮。	He keeps the precepts in his mind, and his thoughts are like the branches and leaves of meditation.
+['ZH_T51_2066_001:0004b24_3']	以為溺有者假緣。	以為溺有者假緣。	He thinks that those who are attached to existence rely on conditions.
+['ZH_T51_2066_001:0004b24_9']	緣非則墜有。	緣非則墜有。	If the conditions are not right, they will fall into existence.
+['ZH_T51_2066_001:0004b24_15']	離生者託助。	離生者託助。	Those who are free from birth rely on assistance.
+['ZH_T51_2066_001:0004b25_2']	助是則乖生。	助是則乖生。	If the assistance is there, they will deviate from birth.
+['ZH_T51_2066_001:0004b25_12']	乃畢志王城敦心竹苑。	乃畢志王城敦心竹苑。	So he made up his mind to go to the capital city and concentrate his thoughts in the Bamboo Grove.
+['ZH_T51_2066_001:0004b26_2']	冀摧八難終求四輪。	冀摧八難終求四輪。	He hoped to destroy the eight difficulties and finally seek the four wheels.
+['ZH_T51_2066_001:0004b26_10']	遂持佛像携經論。	遂持佛像携經論。	So he carried Buddhist images and scriptures and treatises.
+['ZH_T51_2066_001:0004b26_19']	既越南溟到師子國。	既越南溟到師子國。	After passing through the South Sea, he arrived in the country of lions.
+['ZH_T51_2066_001:0004b27_8']	觀禮佛牙備盡靈異。	觀禮佛牙備盡靈異。	He observed and worshiped the Buddha's tooth relic, which had all kinds of spiritual wonders.
+['ZH_T51_2066_001:0004b27_17']	過南印度復屆東天。	過南印度復屆東天。	Passing through South India, he reached the Eastern Heaven.
+['ZH_T51_2066_001:0004b28_5']	往耽摩立底國。	往耽摩立底國。	He went to the country of Dhamalastava.
+['ZH_T51_2066_001:0004b28_18']	既入江口遭賊破舶唯身得存。	既入江口遭賊破舶唯身得存。	When he entered the river mouth, he encountered pirates who destroyed the ship. Only his body survived.
+['ZH_T51_2066_001:0004b29_12']	淹停斯國十有二歲頗閑梵語。	淹停斯國十有二歲頗閑梵語。	He stayed in this country for twelve years and became quite familiar with Sanskrit.
+['ZH_T51_2066_001:0004c01_4']	誦緣生等經兼修福業。	誦緣生等經兼修福業。	He recited the Pratītyasamutpāda Sūtra and other scriptures, and also practiced meritorious deeds.
+['ZH_T51_2066_001:0004c01_9']	因遇商侶。	因遇商侶。	He then met a merchant.
+['ZH_T51_2066_001:0004c01_18']	與淨相隨詣中印度。	與淨相隨詣中印度。	He followed Jingxiang to Central India.
+['ZH_T51_2066_001:0004c02_5']	先到那爛陀。	先到那爛陀。	First he arrived at Nālandā.
+['ZH_T51_2066_001:0004c02_11']	次向金剛座。	次向金剛座。	Next he went to the Diamond Seat.
+['ZH_T51_2066_001:0004c02_17']	旋過薛舍離。	旋過薛舍離。	He passed through Xishali.
+['ZH_T51_2066_001:0004c03_3']	後到俱尸國。	後到俱尸國。	Later, he arrived in the country of Kuśinagara.
+['ZH_T51_2066_001:0004c03_13']	與無行禪師同遊此地。	與無行禪師同遊此地。	He traveled to this land with Chan Master Wuxing.
+['ZH_T51_2066_001:0004c03_19']	燈師每歎曰。	燈師每歎曰。	Master Deng often sighed and said:
+['ZH_T51_2066_001:0004c04_8']	本意弘法重之東夏。	本意弘法重之東夏。	My original intention was to promote the Dharma and value it in the Eastern Xia.
+['ZH_T51_2066_001:0004c05_2']	寧知志不成遂奄爾衰年。	寧知志不成遂奄爾衰年。	How could I have known that my aspirations would not be fulfilled and I would suddenly grow old and feeble?
+['ZH_T51_2066_001:0004c05_9']	今日雖不契懷。	今日雖不契懷。	Although I do not have a connection with my mind today,
+['ZH_T51_2066_001:0004c05_16']	來生願畢斯志。	來生願畢斯志。	in my next life I wish to fulfill this aspiration.
+['ZH_T51_2066_001:0004c06_9']	然常為覩史多天業冀會慈氏。	然常為覩史多天業冀會慈氏。	He always cultivated the karma for being born in Tuṣita Heaven, hoping to meet Maitreya.
+['ZH_T51_2066_001:0004c07_3']	日畫龍華一兩枝用標心至。	日畫龍華一兩枝用標心至。	He drew one or two branches of the Dragon Flower Tree every day to mark his utmost sincerity.
+['ZH_T51_2066_001:0004c07_11']	燈公因道行之次。	燈公因道行之次。	Master Deng, while on his way,
+['ZH_T51_2066_001:0004c08_1']	過道希師所住舊房。	過道希師所住舊房。	passed by the old room where Dao Xi used to live.
+['ZH_T51_2066_001:0004c08_10']	當于時也其人已亡。	當于時也其人已亡。	At that time, the person had already passed away.
+['ZH_T51_2066_001:0004c08_19']	漢本尚存梵夾猶列。	漢本尚存梵夾猶列。	The Chinese version of the text was still there, with the Sanskrit leaves still arranged.
+['ZH_T51_2066_001:0004c09_8']	覩之潛然流涕而歎。	覩之潛然流涕而歎。	Seeing it, he suddenly shed tears and sighed:
+['ZH_T51_2066_001:0004c09_17']	昔在長安同遊法席。	昔在長安同遊法席。	In the past, in Chang'an, we studied together at the Dharma seat.
+['ZH_T51_2066_001:0004c10_7']	今於他國但遇空筵。	今於他國但遇空筵。	Now, in a foreign country, I only encounter an empty seat.
+['ZH_T51_2066_001:0004c11_2', 'ZH_T51_2066_001:0004c11_7']	傷曰。🔽嗟矣死王。	傷曰。 嗟矣死王。	He lamented and said:
+['ZH_T51_2066_001:0004c11_12']	其力彌強。	其力彌強。	Alas! The power of the King of Death is all-pervading.
+['ZH_T51_2066_001:0004c11_17']	傳燈之士。	傳燈之士。	The transmitters of the lamp
+['ZH_T51_2066_001:0004c12_1']	奄爾云亡。	奄爾云亡。	suddenly pass away.
+['ZH_T51_2066_001:0004c12_6']	神州望斷。	神州望斷。	The Divine Land looks on with longing.
+['ZH_T51_2066_001:0004c12_11']	聖境魂揚。	聖境魂揚。	The soul soars to the sacred realm.
+['ZH_T51_2066_001:0004c12_18']	眷餘悵而流涕。	眷餘悵而流涕。	The remaining disciples were filled with grief and wept.
+['ZH_T51_2066_001:0004c13_5']	慨布素而情傷。	慨布素而情傷。	They sighed at the loss of the white robe and felt deeply saddened.
+['ZH_T51_2066_001:0004c14_2']	禪師在俱尸城般涅槃寺而歸寂滅。	禪師在俱尸城般涅槃寺而歸寂滅。	The Chan master passed away in the Nirvana Temple in the city of Kuśinagara.
+['ZH_T51_2066_001:0004c14_10']	于時年餘耳順矣。	于時年餘耳順矣。	At that time, he was over eighty years old.
+['ZH_T51_2066_001:0004c15_12']	唐國僧伽跋摩師僧伽跋摩者。	唐國僧伽跋摩師僧伽跋摩者。	The monk Saṃghabhadra of the Tang Dynasty Saṃghabhadra.
+['ZH_T51_2066_001:0004c15_17']	康國人也。	康國人也。	He was a person from the Kang country.
+['ZH_T51_2066_001:0004c15_26']	少出流沙遊步京輦。	少出流沙遊步京輦。	At a young age, he crossed the desert and traveled to the capital city.
+['ZH_T51_2066_001:0004c16_8']	稟素崇信戒行清嚴。	稟素崇信戒行清嚴。	He was a devout believer and his precepts were pure and strict.
+['ZH_T51_2066_001:0004c16_17']	檀捨是修慈悲在念。	檀捨是修慈悲在念。	He practiced generosity and cultivated compassion and kindness.
+['ZH_T51_2066_001:0004c18_1']	以顯慶年內奉勅與使人相隨禮覲西國到大覺寺。	以顯慶年內奉勅與使人相隨禮覲西國到大覺寺。	During the Xienqing years, he was ordered to accompany the envoy to pay homage to the Western countries and arrived at the Great Enlightenment Temple.
+['ZH_T51_2066_001:0004c18_10']	於金剛座廣興薦設。	於金剛座廣興薦設。	At the Diamond Seat, he extensively made offerings.
+['ZH_T51_2066_001:0004c19_4', 'ZH_T51_2066_001:0004c19_15']	七日七夜然燈續明獻大法會。🔽又於菩提院內無憂樹下。	七日七夜然燈續明獻大法會。 又於菩提院內無憂樹下。	For seven days and nights, he lit lamps and offered a great Dharma assembly.
+['ZH_T51_2066_001:0004c20_8']	雕刻佛形及觀自在菩薩像。	雕刻佛形及觀自在菩薩像。	He also carved Buddha images and Avalokitêśvara Bodhisattva statues under the Aśoka tree in the Bodhi Temple.
+['ZH_T51_2066_001:0004c20_17']	盛興慶讚時人歎希。	盛興慶讚時人歎希。	He greatly celebrated and praised them, and people at that time marveled at them.
+['ZH_T51_2066_001:0004c21_3']	後還唐國。	後還唐國。	Later, he returned to the Tang Dynasty.
+['ZH_T51_2066_001:0004c21_13']	又奉勅令往交阯採藥。	又奉勅令往交阯採藥。	He was again ordered to collect medicine in Jiaozhi.
+['ZH_T51_2066_001:0004c22_7']	于時交州時屬大儉人物飢餓。	于時交州時屬大儉人物飢餓。	At that time, Jiaozhou was suffering from a great famine, and people were starving.
+['ZH_T51_2066_001:0004c23_2']	於日日中營辦飲食救濟孤苦。	於日日中營辦飲食救濟孤苦。	Day after day, he prepared food and drink to rescue the orphaned and suffering.
+['ZH_T51_2066_001:0004c23_11']	悲心內結涕泣外流。	悲心內結涕泣外流。	His compassionate heart was knotted inside, and tears flowed outside.
+['ZH_T51_2066_001:0004c24_2']	時人號為常啼菩薩也。	時人號為常啼菩薩也。	At that time, people called him the Bodhisattva of Constant Weeping.
+['ZH_T51_2066_001:0004c24_11']	纔染微疾奄爾而終。	纔染微疾奄爾而終。	He caught a slight illness and suddenly passed away.
+['ZH_T51_2066_001:0004c24_18']	春秋六十餘矣。	春秋六十餘矣。	He was over sixty years old.
+['ZH_T51_2066_001:0004c25_12']	高昌彼岸智岸二人彼岸法師。	高昌彼岸智岸二人彼岸法師。	The two people, Zhi'an and Pi'an of Gaochang, the Dharma Master Pi'an,
+['ZH_T51_2066_001:0004c25_17']	智岸法師。	智岸法師。	and the Dharma Master Zhi'an,
+['ZH_T51_2066_001:0004c25_24']	並是高昌人也。	並是高昌人也。	were both from Gaochang.
+['ZH_T51_2066_001:0004c26_5']	少長京師傳燈在念。	少長京師傳燈在念。	When they were young, they transmitted the lamp in the capital.
+['ZH_T51_2066_001:0004c26_12']	既而歸心勝理。	既而歸心勝理。	Later, they turned their hearts to the supreme truth.
+['ZH_T51_2066_001:0004c26_19']	遂乃觀化中天。	遂乃觀化中天。	They then went to observe the transformation in India.
+['ZH_T51_2066_001:0004c27_10']	與使人王玄廓相隨汎舶。	與使人王玄廓相隨汎舶。	They sailed with the envoy Wang Xuanke.
+['ZH_T51_2066_001:0004c27_17']	海中遇疾俱卒。	海中遇疾俱卒。	They encountered a storm at sea and both died.
+['ZH_T51_2066_001:0004c28_9']	所將漢本瑜伽及餘經論。	所將漢本瑜伽及餘經論。	The Sanskrit texts of the Yoga and other sutras and treatises
+['ZH_T51_2066_001:0004c28_18']	咸在室利佛逝國矣。	咸在室利佛逝國矣。	were all in the country of Sri Lanka.
+['ZH_T51_2066_001:0004c29_10']	洛陽曇潤法師曇潤法師。	洛陽曇潤法師曇潤法師。	The Dharma Master Tanrun of Luoyang, the Dharma Master Tanrun,
+['ZH_T51_2066_001:0004c29_15', 'ZH_T51_2066_001:0004c29_22']	洛陽人也。🔽善呪術學玄理。	洛陽人也。 善呪術學玄理。	was a person from Luoyang.🔽He was good at spells and studied the profound principles.
+['ZH_T51_2066_001:0005a01_4']	探律典翫醫明。	探律典翫醫明。	He explored the Vinaya scriptures and enjoyed the medical arts.
+['ZH_T51_2066_001:0005a01_11']	善容儀極詳審。	善容儀極詳審。	His appearance was excellent and his demeanor was extremely careful.
+['ZH_T51_2066_001:0005a02_1']	振錫江表拯物為懷。	振錫江表拯物為懷。	He shook his staff in the Jiangnan region, wishing to save beings.
+['ZH_T51_2066_001:0005a02_10']	漸次南行達于交阯。	漸次南行達于交阯。	He gradually traveled south and reached Jiaozhi.
+['ZH_T51_2066_001:0005a02_19']	住經載稔緇素欽風。	住經載稔緇素欽風。	He stayed there for many years, and the monastics and laypeople respected him.
+['ZH_T51_2066_001:0005a03_8']	汎舶南上期西印度。	汎舶南上期西印度。	He sailed south, aiming for western India.
+['ZH_T51_2066_001:0005a04_2']	至訶陵北渤盆國遇疾而終。	至訶陵北渤盆國遇疾而終。	He encountered illness and died in the country of Balun north of Haling.
+['ZH_T51_2066_001:0005a04_7']	年三十矣。	年三十矣。	He was thirty years old.
+['ZH_T51_2066_001:0005a05_10']	洛陽義輝論師義輝論師。	洛陽義輝論師義輝論師。	The Dharma Master Yihui of Luoyang The Dharma Master Yihui.
+['ZH_T51_2066_001:0005a05_15']	洛陽人也。	洛陽人也。	He was a person from Luoyang.
+['ZH_T51_2066_001:0005a05_20']	受性聰敏。	受性聰敏。	He was naturally intelligent.
+['ZH_T51_2066_001:0005a05_25']	理思鉤深。	理思鉤深。	His thoughts were deeply rooted in principles.
+['ZH_T51_2066_001:0005a06_7']	博學為懷尋真是務。	博學為懷尋真是務。	He took extensive learning to heart and sought the truth as his duty.
+['ZH_T51_2066_001:0005a06_18']	聽攝論俱舍等頗亦有功。	聽攝論俱舍等頗亦有功。	He studied the Mahāyāna-samgraha, Abhidharmakośa, and other texts, and had some accomplishments.
+['ZH_T51_2066_001:0005a07_10']	但以義有異同情生舛互。	但以義有異同情生舛互。	However, because there were differences in the meanings, his thoughts and feelings were contradictory.
+['ZH_T51_2066_001:0005a08_3']	而欲思觀梵本親聽微言。	而欲思觀梵本親聽微言。	He wanted to contemplate the Sanskrit texts and listen to the subtle words in person.
+['ZH_T51_2066_001:0005a08_9']	遂指掌中天。	遂指掌中天。	So he pointed to India.
+['ZH_T51_2066_001:0005a08_14']	還望東夏。	還望東夏。	He looked forward to returning to China.
+['ZH_T51_2066_001:0005a09_5']	惜哉苗而不實壯志先秋。	惜哉苗而不實壯志先秋。	It is a pity that the seedlings did not bear fruit, and his lofty aspirations were cut short before autumn.
+['ZH_T51_2066_001:0005a09_15']	到郎迦戍國嬰疾而亡。	到郎迦戍國嬰疾而亡。	He encountered illness and died in the country of Langkasuka.
+['ZH_T51_2066_001:0005a10_2']	年三十餘矣。	年三十餘矣。	He was over thirty years old.
+['ZH_T51_2066_001:0005a11_11']	又大唐三人復有大唐三僧。	又大唐三人復有大唐三僧。	There were also three monks from the Great Tang.
+['ZH_T51_2066_001:0005a11_20']	從北道到烏長那國。	從北道到烏長那國。	From the northern route, he reached the country of Ujjayinī.
+['ZH_T51_2066_001:0005a12_6']	傳聞向佛頂骨處禮拜。	傳聞向佛頂骨處禮拜。	It is said that he went to worship the Buddha's cranium bone.
+['ZH_T51_2066_001:0005a12_13']	今亦弗委存亡。	今亦弗委存亡。	Now, it is also unknown whether it still exists or not.
+['ZH_T51_2066_001:0005a13_3']	烏長僧至傳說之矣。	烏長僧至傳說之矣。	The monks of Ujjayinī have passed down the story.
+['ZH_T51_2066_001:0005a14_4']	右四十人。	右四十人。	The forty people on the right.
+['ZH_T51_2066_001:0005a15_10']	新羅慧輪法師慧輪師者。	新羅慧輪法師慧輪師者。	The Dharma Master Huilun of Silla. The Master Huilun
+['ZH_T51_2066_001:0005a15_15']	新羅人也。	新羅人也。	was a person from Silla.
+['ZH_T51_2066_001:0005a16_9']	梵名般若跋摩唐云慧甲自本國出家翹心聖迹。	梵名般若跋摩唐云慧甲自本國出家翹心聖迹。	His Sanskrit name was Prajñāvarman, which means Armor of Wisdom in Chinese. He left his home country and devoted his mind to the holy traces.
+['ZH_T51_2066_001:0005a16_16']	汎舶而陵閩越。	汎舶而陵閩越。	He sailed on a ship to cross the Min and Yue regions.
+['ZH_T51_2066_001:0005a17_4']	涉步而屆長安。	涉步而屆長安。	He traveled on foot and arrived in Chang'an.
+['ZH_T51_2066_001:0005a17_17']	奉勅隨玄照師西行以充侍者。	奉勅隨玄照師西行以充侍者。	By imperial order, he followed Master Xuanzhao on his westward journey to serve as his attendant.
+['ZH_T51_2066_001:0005a18_7']	既之西國遍禮聖蹤。	既之西國遍禮聖蹤。	Having gone to the Western Regions, he paid homage to the holy traces everywhere.
+['ZH_T51_2066_001:0005a19_4']	居菴摩羅跛國在信者寺住經十載。	居菴摩羅跛國在信者寺住經十載。	He stayed in the country of Amarkora for ten years, residing in the Temple of the Faithful.
+['ZH_T51_2066_001:0005a19_17']	近住次東邊北方覩貨羅僧寺。	近住次東邊北方覩貨羅僧寺。	Recently, he stayed next to the east side, in the temple of the monks from Tukhara in the north.
+['ZH_T51_2066_001:0005a20_11']	元是覩貨羅人為本國僧所造。	元是覩貨羅人為本國僧所造。	Originally, it was built by the monks from Tukhara for the monks of their home country.
+['ZH_T51_2066_001:0005a21_10']	其寺巨富貲產豐饒供養飡設餘莫加也。	其寺巨富貲產豐饒供養飡設餘莫加也。	The temple was very wealthy, with abundant resources and offerings that surpassed others.
+['ZH_T51_2066_001:0005a21_18']	寺名健陀羅山荼。	寺名健陀羅山荼。	The name of the temple was Gandhamādana.
+['ZH_T51_2066_001:0005a22_4']	慧輪住此。	慧輪住此。	The Wheel of Wisdom abides here.
+['ZH_T51_2066_001:0005a22_13']	既善梵言薄閑俱舍。	既善梵言薄閑俱舍。	Being well-versed in Sanskrit and familiar with the Abhidharma-kośa,
+['ZH_T51_2066_001:0005a23_5']	來日尚在年向四十矣。	來日尚在年向四十矣。	he is still in his forties.
+['ZH_T51_2066_001:0005a23_12']	其北方僧來者。	其北方僧來者。	The monks who come from the north,
+['ZH_T51_2066_001:0005a24_2']	皆住此寺為主人耳。	皆住此寺為主人耳。	all stay in this temple as the host.
+['ZH_T51_2066_001:0005a24_13']	大覺寺西有迦畢試國寺。	大覺寺西有迦畢試國寺。	To the west of the Great Enlightenment Temple, there is a temple of the country of Kāpiśī.
+['ZH_T51_2066_001:0005a25_3']	寺亦巨富多諸碩德。	寺亦巨富多諸碩德。	The temple is also very wealthy and has many great virtuous monks.
+['ZH_T51_2066_001:0005a25_8']	普學小乘。	普學小乘。	They all study the Hīnayāna.
+['ZH_T51_2066_001:0005a25_17']	北方僧來亦住此寺。	北方僧來亦住此寺。	The monks who come from the north also stay in this temple.
+['ZH_T51_2066_001:0005a27_2']	名窶挐折里多唐云德行大覺東北兩驛許有寺名屈錄迦。	名窶挐折里多唐云德行大覺東北兩驛許有寺名屈錄迦。	About two yì from the northeast of the Great Enlightenment Temple, there is a temple named Kuļūṭa,
+['ZH_T51_2066_001:0005a27_16']	即是南方屈錄迦國王昔所造也。	即是南方屈錄迦國王昔所造也。	which was built by the king of the Kuļūṭa country in the south in the past.
+['ZH_T51_2066_001:0005a28_7']	寺雖貧素而戒行清嚴。	寺雖貧素而戒行清嚴。	Although the temple is poor, the precepts and practices are pure and strict.
+['ZH_T51_2066_001:0005a29_5']	近者日軍王復於故寺之側更造一寺。	近者日軍王復於故寺之側更造一寺。	Recently, King Dayun built another temple next to the old temple.
+['ZH_T51_2066_001:0005a29_10']	今始新成。	今始新成。	It is just newly completed.
+['ZH_T51_2066_001:0005b01_1']	南國僧來多住於此。	南國僧來多住於此。	The monks from the southern countries mostly stay here.
+['ZH_T51_2066_001:0005b01_8']	諸方皆悉有寺。	諸方皆悉有寺。	There are temples in all directions.
+['ZH_T51_2066_001:0005b01_15']	所以本國通流。	所以本國通流。	The reason is that the main route passes through here.
+['ZH_T51_2066_001:0005b02_2']	神州獨無一處。	神州獨無一處。	The Divine Land of China alone has no place.
+['ZH_T51_2066_001:0005b02_10']	致令往還艱苦耳。	致令往還艱苦耳。	This makes it difficult for those who come and go.Here is the corrected and aligned text:
+['ZH_T51_2066_001:0005b03_2']	那爛陀寺東四十驛許。	那爛陀寺東四十驛許。	about forty relay stations east of Nālandā Monastery.
+['ZH_T51_2066_001:0005b04_16']	尋弶伽河而下至蜜栗伽悉他鉢娜寺唐云鹿園寺也去此寺不遠有一故寺。	尋弶伽河而下至蜜栗伽悉他鉢娜寺唐云鹿園寺也去此寺不遠有一故寺。	Following the Ganges River downstream, he reached Mṛgāra-sīta-bhadra Monastery (meaning Deer Park Monastery in Tang). Not far from this monastery, there was an old temple.
+['ZH_T51_2066_001:0005b04_21']	但有塼基。	但有塼基。	There were only brick foundations.
+['ZH_T51_2066_001:0005b05_5']	厥號支那寺。	厥號支那寺。	It was called the China Temple.
+['ZH_T51_2066_001:0005b05_11']	古老相傳云。	古老相傳云。	The elders passed down by word of mouth.
+['ZH_T51_2066_001:0005b06_14']	是昔室利笈多大王為支那國僧所造支那即廣州也。	是昔室利笈多大王為支那國僧所造支那即廣州也。	It was said that it was built by King Śrī Gupta for the monks from China (meaning Guangzhou).
+['ZH_T51_2066_001:0005b06_23']	莫訶支那即京師也。	莫訶支那即京師也。	Mahā-China refers to the capital city.
+['ZH_T51_2066_001:0005b06_31']	亦云提婆弗呾羅。	亦云提婆弗呾羅。	It is also called Devaputra.
+['ZH_T51_2066_001:0005b07_13']	唐云天子也于時有唐僧二十許人。	唐云天子也于時有唐僧二十許人。	In Tang, it means Son of Heaven. At that time, there were more than twenty Tang monks.
+['ZH_T51_2066_001:0005b08_19']	從蜀川䍧牫道而出蜀川去此寺有五百餘驛向莫訶菩提禮拜。	從蜀川䍧牫道而出蜀川去此寺有五百餘驛向莫訶菩提禮拜。	They left Sichuan and traveled along the Shu River to pay homage to the Mahābodhi Temple.
+['ZH_T51_2066_001:0005b08_24']	王見敬重。	王見敬重。	The king saw them with respect and reverence.
+['ZH_T51_2066_001:0005b09_8']	遂施此地以充停息。	遂施此地以充停息。	He finally donated this land to them as a resting place.
+['ZH_T51_2066_001:0005b09_17']	給大村封二十四所。	給大村封二十四所。	He gave them twenty-four large villages as fiefs.
+['ZH_T51_2066_001:0005b10_5']	於後唐僧亡沒。	於後唐僧亡沒。	Later, the Tang monks passed away.
+['ZH_T51_2066_001:0005b10_12']	村乃割屬餘人。	村乃割屬餘人。	The villages were then divided and belonged to other people.
+['ZH_T51_2066_001:0005b11_4']	現有三村入鹿園寺矣。	現有三村入鹿園寺矣。	There are now three villages and the Deer Park Temple.
+['ZH_T51_2066_001:0005b11_10']	准量支那寺。	准量支那寺。	According to the measurements, it is a Chinese temple.
+['ZH_T51_2066_001:0005b11_19']	至今可五百餘年矣。	至今可五百餘年矣。	It has been over five hundred years until now.
+['ZH_T51_2066_001:0005b12_8']	現今地屬東印度王。	現今地屬東印度王。	At present, the land belongs to the king of East India.
+['ZH_T51_2066_001:0005b12_16']	其王名提婆跋摩。	其王名提婆跋摩。	The king's name is Devapāla.
+['ZH_T51_2066_001:0005b13_1']	每言曰。	每言曰。	He often says:
+['ZH_T51_2066_001:0005b13_13']	若有大唐天子處數僧來者。	若有大唐天子處數僧來者。	If a great Tang emperor sends monks to come here,
+['ZH_T51_2066_001:0005b14_1']	我為重興此寺。	我為重興此寺。	I will greatly revive this temple.
+['ZH_T51_2066_001:0005b14_10']	還其村封令不絕也。	還其村封令不絕也。	I will give the villages as a fief so that it will not be discontinued.
+['ZH_T51_2066_001:0005b14_14']	誠可歎。	誠可歎。	It is truly lamentable.
+['ZH_T51_2066_001:0005b15_2']	曰雖有鵲巢之易。	曰雖有鵲巢之易。	It is said that although there is the ease of building a magpie's nest,
+['ZH_T51_2066_001:0005b15_9']	而樂福者難逢。	而樂福者難逢。	it is difficult for those who wish to accumulate blessings to encounter it.
+['ZH_T51_2066_001:0005b15_16']	必若心存濟益。	必若心存濟益。	If one's mind is focused on benefiting others,
+['ZH_T51_2066_001:0005b16_7']	奏請弘此誠非小事也。	奏請弘此誠非小事也。	it is certainly not a small matter to request the propagation of this.
+['ZH_T51_2066_001:0005b17_4']	金剛座大覺寺即僧訶羅國王所造。	金剛座大覺寺即僧訶羅國王所造。	The Vajra Seat Great Enlightenment Temple was built by the king of the country of Saṃghārāma.
+['ZH_T51_2066_001:0005b17_13']	師子洲僧舊住於此。	師子洲僧舊住於此。	Monks from Siṃhala Island have long resided here.
+['ZH_T51_2066_001:0005b18_9']	大覺寺東北行七驛許至那爛陀寺。	大覺寺東北行七驛許至那爛陀寺。	Traveling northeast from the Great Enlightenment Temple for about seven yì, one reaches Nālandā Temple.
+['ZH_T51_2066_001:0005b19_3']	乃是古王室利鑠羯羅昳底。	乃是古王室利鑠羯羅昳底。	This was built by the ancient king Śrī Harṣa in the north.
+['ZH_T51_2066_001:0005b19_15']	為北天苾芻曷羅社槃所造。	為北天苾芻曷羅社槃所造。	It was built by the northern Indian monk Harṣavarma.
+['ZH_T51_2066_001:0005b20_6']	此寺初基纔餘方堵。	此寺初基纔餘方堵。	The original foundation of this temple was just a square enclosure.
+['ZH_T51_2066_001:0005b21_1']	其後代國王苗裔相承造製宏壯。	其後代國王苗裔相承造製宏壯。	Later, the descendants of the kings of the country built it on a grand scale.
+['ZH_T51_2066_001:0005b21_13']	則贍部洲中當今無以加也。	則贍部洲中當今無以加也。	It is now the largest in Jambudvīpa.
+['ZH_T51_2066_001:0005b22_1']	軌模不可具述。	軌模不可具述。	The model cannot be fully described.
+['ZH_T51_2066_001:0005b22_9']	但且略敘區寰耳。	但且略敘區寰耳。	But I will only briefly mention the main points.
+['ZH_T51_2066_001:0005b22_18']	然其寺形畟方如城。	然其寺形畟方如城。	However, the shape of the temple is square like a city.
+['ZH_T51_2066_001:0005b23_7']	四面直簷長廊遍匝。	四面直簷長廊遍匝。	On all four sides, there are long corridors with straight eaves.
+['ZH_T51_2066_001:0005b23_12']	皆是塼室。	皆是塼室。	They are all brick rooms.
+['ZH_T51_2066_001:0005b24_2']	重疊三層層高丈餘。	重疊三層層高丈餘。	Stacked in three layers, each layer is over ten feet high.
+['ZH_T51_2066_001:0005b24_11']	橫梁板闐本無椽瓦。	橫梁板闐本無椽瓦。	The horizontal beams and planks are solid, originally without rafters or tiles.
+['ZH_T51_2066_001:0005b24_16']	用塼平覆。	用塼平覆。	They are covered with bricks.
+['ZH_T51_2066_001:0005b25_6']	寺背正直隨意旋往。	寺背正直隨意旋往。	Behind the temple, there is a straight path leading to the back.
+['ZH_T51_2066_001:0005b25_16']	其房後壁即為外面也。	其房後壁即為外面也。	The back wall of the rooms is the outer wall.
+['ZH_T51_2066_001:0005b26_6']	壘塼峻峭高三四丈。	壘塼峻峭高三四丈。	The bricks are piled up high, three or four zhang tall.
+['ZH_T51_2066_001:0005b26_15']	上作人頭高共人等。	上作人頭高共人等。	On top, there are human heads, as tall as a person.
+['ZH_T51_2066_001:0005b27_6']	其僧房也面有九焉。	其僧房也面有九焉。	There are nine rooms facing each other.
+['ZH_T51_2066_001:0005b27_15']	一一房中可方丈許。	一一房中可方丈許。	Each room is about the size of a square zhang.
+['ZH_T51_2066_001:0005b28_5']	後面通窓戶向簷矣。	後面通窓戶向簷矣。	The back side has windows facing the eaves.
+['ZH_T51_2066_001:0005b28_14']	其門既高唯安一扇。	其門既高唯安一扇。	The gate is high, with only one door.
+['ZH_T51_2066_001:0005b29_4']	皆相瞻望不許安簾。	皆相瞻望不許安簾。	They all face each other, not allowing curtains to be hung.
+['ZH_T51_2066_001:0005b29_13']	出外平觀四面皆覩。	出外平觀四面皆覩。	Looking outside, one can see all four sides.
+['ZH_T51_2066_001:0005c01_3']	互相檢察寧容片私。	互相檢察寧容片私。	Inspecting each other, how can there be any private affairs?
+['ZH_T51_2066_001:0005c01_9']	於一角頭作。	於一角頭作。	Build it at one corner.
+['ZH_T51_2066_001:0005c01_14']	閣道還往。	閣道還往。	Go back and forth on the elevated walkway.
+['ZH_T51_2066_001:0005c02_3']	寺上四角各為塼堂。	寺上四角各為塼堂。	At the four corners of the temple, there are brick halls.
+['ZH_T51_2066_001:0005c02_12']	多聞大德而住於此。	多聞大德而住於此。	The greatly learned and virtuous ones reside here.
+['ZH_T51_2066_001:0005c03_2']	寺門西向飛閣凌虛。	寺門西向飛閣凌虛。	The temple gate faces west, with flying eaves soaring into the sky.
+['ZH_T51_2066_001:0005c03_11']	雕刻奇形妙盡工飾。	雕刻奇形妙盡工飾。	The carvings and strange shapes exhaust the wonders of craftsmanship.
+['ZH_T51_2066_001:0005c03_19']	其門乃與房相連。	其門乃與房相連。	The gate is connected to the rooms.
+['ZH_T51_2066_001:0005c04_4']	元不別作。	元不別作。	It is not made separately at all.
+['ZH_T51_2066_001:0005c04_14']	但前出兩步齊安四柱。	但前出兩步齊安四柱。	But it protrudes two steps in front, with four pillars evenly spaced.
+['ZH_T51_2066_001:0005c05_8']	其門雖非過大實乃裝架彌堅。	其門雖非過大實乃裝架彌堅。	Although the gate is not too large, it is indeed sturdy and well-constructed.
+['ZH_T51_2066_001:0005c05_17']	每至食時重關返閉。	每至食時重關返閉。	Every mealtime, the heavy gates are closed again.
+['ZH_T51_2066_001:0005c06_7']	既是聖教意在防私。	既是聖教意在防私。	Since it is the holy teaching, the intention is to prevent privacy.
+['ZH_T51_2066_001:0005c06_17']	寺內之地方三十步許。	寺內之地方三十步許。	The area inside the temple, about thirty steps,
+['ZH_T51_2066_001:0005c07_3']	皆以塼砌。	皆以塼砌。	is all paved with bricks.
+['ZH_T51_2066_001:0005c07_13']	小者或七步或五步耳。	小者或七步或五步耳。	The smaller ones are either seven steps or five steps.
+['ZH_T51_2066_001:0005c08_7', 'ZH_T51_2066_001:0005c08_16']	凡所覆屋脊上簷前房內之地。🔽並用塼屑如桃棗大。	凡所覆屋脊上簷前房內之地。 並用塼屑如桃棗大。	All the roofs, ridgepoles, eaves, and the ground inside the rooms,🔽use brick dust the size of peaches and dates.
+['ZH_T51_2066_001:0005c09_7']	和雜粘泥以杵平築。	和雜粘泥以杵平築。	Mix it with sticky mud and level it with a pestle.
+['ZH_T51_2066_001:0005c09_12']	用疆石灰。	用疆石灰。	Use lime from the borderlands.
+['ZH_T51_2066_001:0005c10_7']	雜以麻䈥并油及麻滓爛皮之屬。	雜以麻䈥并油及麻滓爛皮之屬。	Mix it with hemp paste, oil, and rotten skin and other such things.
+['ZH_T51_2066_001:0005c10_18']	浸漬多日泥於塼地之上。	浸漬多日泥於塼地之上。	Soak it for many days and smear it on the brick floor.
+['ZH_T51_2066_001:0005c11_8']	覆以青草經三數日。	覆以青草經三數日。	Cover it with green grass for three or so days.
+['ZH_T51_2066_001:0005c11_18']	看其欲乾重以滑石揩。	看其欲乾重以滑石揩。	Look at it when it is about to dry and polish it again with smooth stone.
+['ZH_T51_2066_001:0005c12_10']	拭拂赤土汁或丹朱之類。	拭拂赤土汁或丹朱之類。	Wipe it with red earth juice or the like of vermilion.
+['ZH_T51_2066_001:0005c13_1']	後以油塗鮮澄若鏡。	後以油塗鮮澄若鏡。	Later, apply oil to it, making it as clear as a mirror.
+['ZH_T51_2066_001:0005c13_11']	其堂殿階陛悉皆如此。	其堂殿階陛悉皆如此。	The halls, pavilions, and steps are all like this.
+['ZH_T51_2066_001:0005c14_1']	一作已後縱人踐蹋。	一作已後縱人踐蹋。	Once it is done, even if people step on it,
+['ZH_T51_2066_001:0005c14_12']	動經一二十載曾不圮磔。	動經一二十載曾不圮磔。	even after ten or twenty years, it will not crack or break.
+['ZH_T51_2066_001:0005c15_2']	不同石灰水沾便脫。	不同石灰水沾便脫。	Unlike lime, which falls off when it gets wet.
+['ZH_T51_2066_001:0005c15_11']	如斯等類乃有八寺。	如斯等類乃有八寺。	There are eight such temples.
+['ZH_T51_2066_001:0005c16_1']	上皆平通規矩相似。	上皆平通規矩相似。	They are all level and connected, similar in shape.
+['ZH_T51_2066_001:0005c16_9']	於寺東面西取房。	於寺東面西取房。	On the east side of the temple, facing west, take a room.
+['ZH_T51_2066_001:0005c16_14']	或一或三。	或一或三。	Either one or three.
+['ZH_T51_2066_001:0005c16_19']	用安尊像。	用安尊像。	Use it to house the Buddha's image.
+['ZH_T51_2066_001:0005c17_10']	或可即於此面前出多少。	或可即於此面前出多少。	Or it is possible to build a platform in front of it, with more or less.
+['ZH_T51_2066_001:0005c18_1']	別起臺觀為佛殿矣。	別起臺觀為佛殿矣。	And build a Buddha hall.
+['ZH_T51_2066_001:0005c18_10']	此寺西南大院之外。	此寺西南大院之外。	Outside the large courtyard southwest of the temple.
+['ZH_T51_2066_001:0005c19_18']	方列大窣覩波舊云塔者訛略及諸制底舊云支提者訛數乃盈百。	方列大窣覩波舊云塔者訛略及諸制底舊云支提者訛數乃盈百。	There are more than a hundred large stupas and various shrines.
+['ZH_T51_2066_001:0005c20_3']	聖跡相連不可稱記。	聖跡相連不可稱記。	There are hundreds of large stupas and shrines, with sacred sites connected to each other, too many to record.
+['ZH_T51_2066_001:0005c20_12', 'ZH_T51_2066_001:0005c21_4']	金寶瑩飾實成希有。🔽其間僧徒綱軌出納之儀。	金寶瑩飾實成希有。 其間僧徒綱軌出納之儀。	Adorned with gold and jewels, they are truly rare and extraordinary.
+['ZH_T51_2066_001:0005c21_16', 'ZH_T51_2066_001:0005c22_10']	具如中方錄及寄歸傳所述。🔽寺內但以最老上座而為尊主。	具如中方錄及寄歸傳所述。 寺內但以最老上座而為尊主。	The rules and etiquette for monks coming and going are described in detail in the Records of the Central Regions and the Letters Sent Home.
+['ZH_T51_2066_001:0005c22_15', 'ZH_T51_2066_001:0005c23_5']	不論其德。🔽諸有門鑰每宵封印。	不論其德。 諸有門鑰每宵封印。	Within the temple, the oldest senior monk is considered the most venerable, regardless of his virtue.
+['ZH_T51_2066_001:0005c23_10']	將付上座。	將付上座。	All keys are sealed every evening and handed over to the senior monk.
+['ZH_T51_2066_001:0005c23_19']	更無別置寺主維那。	更無別置寺主維那。	There is no separate position of abbot or rector.
+['ZH_T51_2066_001:0005c24_9']	但造寺之人名為寺主。	但造寺之人名為寺主。	The person who built the temple is called the temple master.
+['ZH_T51_2066_001:0005c24_17']	梵云毘訶羅莎弭。	梵云毘訶羅莎弭。	In Sanskrit, it is called vihāra-sāmī.
+['ZH_T51_2066_001:0005c25_13']	若作番直典掌寺門及和僧白事者。	若作番直典掌寺門及和僧白事者。	If someone is on duty, in charge of the temple gate and informing the monks of matters,
+['ZH_T51_2066_001:0005c26_1']	名毘訶羅波羅。	名毘訶羅波羅。	they are called vihāra-pāla.
+['ZH_T51_2066_001:0005c26_6']	譯為護寺。	譯為護寺。	Translated as protecting the temple.
+['ZH_T51_2066_001:0005c26_15', 'ZH_T51_2066_001:0005c27_3']	若鳴健稚及監食者。🔽名為羯磨陀那。	若鳴健稚及監食者。 名為羯磨陀那。	If someone rings the ghanta and oversees the meals,🔽they are called karma-dāna.
+['ZH_T51_2066_001:0005c27_8']	譯為授事。	譯為授事。	Translated as attending to affairs.
+['ZH_T51_2066_001:0005c27_15']	言維那者略也。	言維那者略也。	The word weina is a shortened form.
+['ZH_T51_2066_001:0005c28_8']	眾僧有事集眾平章令其護寺。	眾僧有事集眾平章令其護寺。	When there are matters for the assembly of monks, they gather to discuss and have him protect the temple.
+['ZH_T51_2066_001:0005c28_17']	巡行告白一一人前。	巡行告白一一人前。	He goes around and announces to each person.
+['ZH_T51_2066_001:0005c29_7']	皆須合掌各伸其事。	皆須合掌各伸其事。	All must join their palms and express their matters.
+['ZH_T51_2066_001:0005c29_18']	若一人不許則事不得成。	若一人不許則事不得成。	If even one person does not agree, then the matter cannot be accomplished.
+['ZH_T51_2066_001:0006a01_10']	全無眾前打槌秉白之法。	全無眾前打槌秉白之法。	There is no complete method of striking the hammer and announcing in front of the assembly.
+['ZH_T51_2066_001:0006a02_1']	若見不許以理喻之。	若見不許以理喻之。	If one sees disagreement, one should persuade with reason.
+['ZH_T51_2066_001:0006a02_10']	未有挾強便加壓伏。	未有挾強便加壓伏。	There has never been the case of forcefully imposing one's will.
+['ZH_T51_2066_001:0006a02_18']	其守庫當莊之流。	其守庫當莊之流。	Those who guard the treasury and the fields,
+['ZH_T51_2066_001:0006a03_13']	雖三二人亦遣典庫家人合掌為白。	雖三二人亦遣典庫家人合掌為白。	even if there are three or two people, they also send the treasury staff to join their palms and announce.
+['ZH_T51_2066_001:0006a04_14']	若和方可費用誠無獨任之咎不白而獨用者。	若和方可費用誠無獨任之咎不白而獨用者。	If there is harmony, then it is permissible to spend. Truly there is no fault of acting alone without announcing. Those who use it alone without announcing,
+['ZH_T51_2066_001:0006a05_3']	下至半升之粟。	下至半升之粟。	down to half a pint of millet,
+['ZH_T51_2066_001:0006a05_9']	即交被驅擯。	即交被驅擯。	will immediately be expelled.
+['ZH_T51_2066_001:0006a06_9']	若一人稱豪獨用僧物處斷綱務不白大眾者。	若一人稱豪獨用僧物處斷綱務不白大眾者。	If one person claims to be powerful and uses the Sangha's property alone without announcing to the assembly,
+['ZH_T51_2066_001:0006a06_16']	名為俱攞鉢底。	名為俱攞鉢底。	it is called kulapati.
+['ZH_T51_2066_001:0006a07_2']	譯為家主。	譯為家主。	Translated as householder.
+['ZH_T51_2066_001:0006a07_15']	斯乃佛法之大疣人神所共怨。	斯乃佛法之大疣人神所共怨。	This is a great boil on the Buddha's teachings, hated by both humans and spirits.
+['ZH_T51_2066_001:0006a08_3']	雖復於寺有益。	雖復於寺有益。	Although it may benefit the temple,
+['ZH_T51_2066_001:0006a08_10']	而終獲罪彌深。	而終獲罪彌深。	in the end, one will incur even deeper offenses.
+['ZH_T51_2066_001:0006a08_17']	智者必不為也。	智者必不為也。	The wise will certainly not do it.
+['ZH_T51_2066_001:0006a09_8']	又諸外道先有九十六部。	又諸外道先有九十六部。	Moreover, the non-Buddhist paths originally had ninety-six schools.
+['ZH_T51_2066_001:0006a09_13']	今但十餘。	今但十餘。	Now there are only ten or so left.
+['ZH_T51_2066_001:0006a10_1']	若有齋會聚集。	若有齋會聚集。	If there are gatherings for vegetarian feasts,
+['ZH_T51_2066_001:0006a10_8']	各各自居一處。	各各自居一處。	each of them stays in their own place.
+['ZH_T51_2066_001:0006a10_17']	並與僧尼無競先後。	並與僧尼無競先後。	They do not compete with monks and nuns over the order of precedence.
+['ZH_T51_2066_001:0006a11_6']	既其法別理不同行。	既其法別理不同行。	Since their teachings are different, their principles are not the same.
+['ZH_T51_2066_001:0006a11_15']	各習所宗坐無交雜。	各習所宗坐無交雜。	Each practices what they revere, sitting without mixing.
+['ZH_T51_2066_001:0006a12_5']	此之寺制理極嚴峻。	此之寺制理極嚴峻。	This temple system is extremely strict in principle.
+['ZH_T51_2066_001:0006a12_18']	每半月令典事佐史巡房讀制。	每半月令典事佐史巡房讀制。	Every half month, the temple administrator and officials tour the rooms and read the regulations.
+['ZH_T51_2066_001:0006a13_8']	眾僧名字不貫王籍。	眾僧名字不貫王籍。	The names of the monks are not included in the royal registry.
+['ZH_T51_2066_001:0006a13_17']	其有犯者眾自治罰。	其有犯者眾自治罰。	If there are any offenders, the assembly punishes them themselves.
+['ZH_T51_2066_001:0006a14_7']	為此僧徒咸相敬懼。	為此僧徒咸相敬懼。	For this reason, the monks all respect and fear each other.
+['ZH_T51_2066_001:0006a15_1']	其寺受用雖迮而益利彌寬。	其寺受用雖迮而益利彌寬。	Although the temple's use is cramped, the benefits are even wider.
+['ZH_T51_2066_001:0006a15_14']	曾憶在京見人畫出祇洹寺樣。	曾憶在京見人畫出祇洹寺樣。	I once remember seeing a painting of Jetavana Temple in the capital.
+['ZH_T51_2066_001:0006a15_19']	咸是憑虛。	咸是憑虛。	They are all based on falsehoods.
+['ZH_T51_2066_001:0006a16_10']	為廣異聞略陳梗概云爾。	為廣異聞略陳梗概云爾。	I have briefly presented the general outline of the various unusual teachings.
+['ZH_T51_2066_001:0006a17_9']	又五天之地但是大寺。	又五天之地但是大寺。	Moreover, in the five regions of India, there are only large temples.
+['ZH_T51_2066_001:0006a17_18']	君王悉皆令置漏水。	君王悉皆令置漏水。	The king should order to place leaking water everywhere.
+['ZH_T51_2066_001:0006a18_4']	為此晝夜。	為此晝夜。	For this, day and night.
+['ZH_T51_2066_001:0006a18_9']	期候不難。	期候不難。	The timing is not difficult.
+['ZH_T51_2066_001:0006a18_14']	准如律教。	准如律教。	In accordance with the Vinaya teachings.
+['ZH_T51_2066_001:0006a18_19']	夜分三分。	夜分三分。	The night is divided into three parts.
+['ZH_T51_2066_001:0006a19_5']	初後制令禪誦。	初後制令禪誦。	The first and last are prescribed for meditation and recitation.
+['ZH_T51_2066_001:0006a19_12']	中間隨意消息。	中間隨意消息。	In the middle, one can rest as one wishes.
+['ZH_T51_2066_001:0006a20_6']	其漏水法廣如寄歸傳中所述。	其漏水法廣如寄歸傳中所述。	The method of leaking water is described in detail in the Record of Returning to the West.
+['ZH_T51_2066_001:0006a20_13']	雖復言陳寺樣。	雖復言陳寺樣。	Although the appearance of the temple is mentioned,
+['ZH_T51_2066_001:0006a21_7']	終恐在事還迷為此畫出其圖。	終恐在事還迷為此畫出其圖。	I am afraid that people will still be confused in practice. Therefore, I draw this picture.
+['ZH_T51_2066_001:0006a21_14']	冀令目擊無滯。	冀令目擊無滯。	I hope that by seeing it, there will be no obstruction.
+['ZH_T51_2066_001:0006a22_4']	如能奏請依樣造之。	如能奏請依樣造之。	If one can request to build according to the model,
+['ZH_T51_2066_001:0006a22_15']	即王舍支那理成無別耳。	即王舍支那理成無別耳。	then it will be no different from the royal capital of China.
+['ZH_T51_2066_001:0006a23_5']	此下宜畫寺樣也。	此下宜畫寺樣也。	Below this, the temple model should be drawn.
+['ZH_T51_2066_001:0006a25_6']	此是室利那爛陀莫訶毘訶羅樣唐譯云吉祥神龍大住處也。	此是室利那爛陀莫訶毘訶羅樣唐譯云吉祥神龍大住處也。	This is the model of the Śrī Nālandā Mahāvihāra. The Tang translation says Auspicious Dragon Great Dwelling Place.
+['ZH_T51_2066_001:0006a26_3']	西國凡喚君王及大官屬并大寺舍。	西國凡喚君王及大官屬并大寺舍。	In the Western Regions, whenever calling a king, a high official, or a great temple,
+['ZH_T51_2066_001:0006a26_9']	皆先云室利。	皆先云室利。	they all first say śrī.
+['ZH_T51_2066_001:0006a27_6']	意取吉祥尊貴之義那爛陀乃是龍名。	意取吉祥尊貴之義那爛陀乃是龍名。	The meaning is to take the meaning of auspicious and noble. Nālandā is the name of a dragon.
+['ZH_T51_2066_001:0006a27_16']	近此有龍名那伽爛陀。	近此有龍名那伽爛陀。	Nearby there is a dragon named Nāgārjuna.
+['ZH_T51_2066_001:0006a28_2']	故以為號。	故以為號。	Therefore, it is named after him.
+['ZH_T51_2066_001:0006a28_10']	毘訶羅是住處義。	毘訶羅是住處義。	Vihāra means a dwelling place.
+['ZH_T51_2066_001:0006a29_1']	比云寺者不是正翻。	比云寺者不是正翻。	Temple is not the correct translation.
+['ZH_T51_2066_001:0006a29_18']	如觀一寺餘七同然背上平直通人還往。	如觀一寺餘七同然背上平直通人還往。	If one observes one temple, the other seven are the same. The back is flat and straight, connecting people to come and go.
+['ZH_T51_2066_001:0006b01_10']	凡觀寺樣者須南面看之。	凡觀寺樣者須南面看之。	Those who wish to observe the temple style must look at it from the south.
+['ZH_T51_2066_001:0006b02_3']	欲使西出其門方得直勢。	欲使西出其門方得直勢。	It is intended to make the exit to the west, so that the gate can be directly accessed.
+['ZH_T51_2066_001:0006b02_16']	於門南畔可二十步有窣覩波。	於門南畔可二十步有窣覩波。	About twenty steps to the south of the gate, there is a stūpa.
+['ZH_T51_2066_001:0006b03_2']	高百尺許。	高百尺許。	It is about a hundred feet high.
+['ZH_T51_2066_001:0006b03_14']	是世尊昔日夏三月安居處。	是世尊昔日夏三月安居處。	This is where the World-Honored One once spent the three months of summer retreat.
+['ZH_T51_2066_001:0006b04_4']	梵名慕攞健陀俱胝。	梵名慕攞健陀俱胝。	In Sanskrit, it is called Mulgandha Kuti.
+['ZH_T51_2066_001:0006b04_12']	唐云根本香殿矣。	唐云根本香殿矣。	In Tang, it is called the Fundamental Fragrant Hall.
+['ZH_T51_2066_001:0006b05_1']	門北畔五十步許。	門北畔五十步許。	About fifty steps to the north of the gate,
+['ZH_T51_2066_001:0006b05_8']	復有大窣覩波。	復有大窣覩波。	there is another large stūpa.
+['ZH_T51_2066_001:0006b05_13']	更高於此。	更高於此。	It is even higher than this one.
+['ZH_T51_2066_001:0006b05_20']	是幼日王所造。	是幼日王所造。	It was built by King Aśoka.
+['ZH_T51_2066_001:0006b06_4']	皆並塼作。	皆並塼作。	They are all made of bricks.
+['ZH_T51_2066_001:0006b06_9']	裝飾精妙。	裝飾精妙。	The decorations are exquisite.
+['ZH_T51_2066_001:0006b06_14']	金床寶地。	金床寶地。	The golden bed and jeweled ground
+['ZH_T51_2066_001:0006b06_19']	供養希有。	供養希有。	are offerings of rarity.
+['ZH_T51_2066_001:0006b07_7']	中有如來轉法輪像。	中有如來轉法輪像。	Inside there is an image of the Tathāgata turning the Dharma wheel.
+['ZH_T51_2066_001:0006b07_16']	次此西南有小制底。	次此西南有小制底。	Next to it, to the southwest, there is a small stupa.
+['ZH_T51_2066_001:0006b08_2']	高一丈餘。	高一丈餘。	More than one zhang tall.
+['ZH_T51_2066_001:0006b08_12']	是婆羅門執雀請問處。	是婆羅門執雀請問處。	This is where a Brahmin held a sparrow and asked questions.
+['ZH_T51_2066_001:0006b08_19']	唐云雀離浮圖。	唐云雀離浮圖。	The Tang Dynasty says: This is the Sparrow Liutao Stupa.
+['ZH_T51_2066_001:0006b09_4']	此即是也。	此即是也。	This is it.
+['ZH_T51_2066_001:0006b09_18']	根本殿西有佛齒木樹非是楊柳。	根本殿西有佛齒木樹非是楊柳。	To the west of the main hall, there is a betel nut tree, not a willow tree.
+['ZH_T51_2066_001:0006b10_7']	其次西畔有戒壇。	其次西畔有戒壇。	Next to it, to the west, there is a precepts platform.
+['ZH_T51_2066_001:0006b10_15']	方可大尺一丈餘。	方可大尺一丈餘。	About one zhang in size.
+['ZH_T51_2066_001:0006b11_7']	即於平地周壘塼牆子。	即於平地周壘塼牆子。	It is a brick wall built around the flat ground.
+['ZH_T51_2066_001:0006b11_12']	高二尺許。	高二尺許。	About two chi tall.
+['ZH_T51_2066_001:0006b12_4']	牆內坐基可高五寸。	牆內坐基可高五寸。	Inside the wall, the sitting base is about five centimeters tall.
+['ZH_T51_2066_001:0006b12_10']	中有小制底。	中有小制底。	In the middle, there is a small stupa.
+['ZH_T51_2066_001:0006b13_2']	壇東殿角有佛經行之基。	壇東殿角有佛經行之基。	In the northeast corner of the platform, there is the base of the Buddha's walking path.
+['ZH_T51_2066_001:0006b13_7']	壘塼為之。	壘塼為之。	It is built with bricks.
+['ZH_T51_2066_001:0006b13_12']	寬可二肘。	寬可二肘。	It is about two cubits wide.
+['ZH_T51_2066_001:0006b13_18']	長十四五肘。	長十四五肘。	And fourteen or fifteen cubits long.
+['ZH_T51_2066_001:0006b14_4']	高可二肘餘。	高可二肘餘。	It is about two cubits tall.
+['ZH_T51_2066_001:0006b14_15']	上乃石灰塐作蓮華開勢。	上乃石灰塐作蓮華開勢。	On top, it is plastered with lime to make a lotus flower in full bloom.
+['ZH_T51_2066_001:0006b15_1']	高可二寸。	高可二寸。	About two centimeters tall.
+['ZH_T51_2066_001:0006b15_6']	闊一尺許。	闊一尺許。	And about one chi wide.
+['ZH_T51_2066_001:0006b15_15']	有十四五表佛足跡。	有十四五表佛足跡。	There are fourteen or fifteen marks of the Buddha's feet.
+['ZH_T51_2066_001:0006b16_4']	此寺則南望王城。	此寺則南望王城。	This temple faces south to the royal city.
+['ZH_T51_2066_001:0006b16_9']	纔三十里。	纔三十里。	Just thirty li away.
+['ZH_T51_2066_001:0006b16_18']	鷲峯竹苑皆在城傍。	鷲峯竹苑皆在城傍。	Vulture Peak and Bamboo Grove are both near the city.
+['ZH_T51_2066_001:0006b17_4']	西南向大覺。	西南向大覺。	Facing south-west towards the Great Enlightenment.
+['ZH_T51_2066_001:0006b17_10']	正南尊足山。	正南尊足山。	Directly south is Venerable Foot Mountain.
+['ZH_T51_2066_001:0006b17_15']	並可七驛。	並可七驛。	Both are about seven post stations away.
+['ZH_T51_2066_001:0006b18_2']	北向薛舍離。	北向薛舍離。	Facing north towards Śrāvastī.
+['ZH_T51_2066_001:0006b18_8']	乃二十五驛。	乃二十五驛。	It is twenty-five post stations away.
+['ZH_T51_2066_001:0006b18_13']	西瞻鹿苑。	西瞻鹿苑。	Looking west towards the Deer Park.
+['ZH_T51_2066_001:0006b18_19']	二十餘驛東。	二十餘驛東。	More than twenty post stations east.
+['ZH_T51_2066_001:0006b19_5']	向耽摩立底國。	向耽摩立底國。	Facing the country of Tāmralipti.
+['ZH_T51_2066_001:0006b19_11']	有六七十驛。	有六七十驛。	There are sixty to seventy post stations.
+['ZH_T51_2066_001:0006b20_3']	即是海口昇舶歸唐之處。	即是海口昇舶歸唐之處。	This is the mouth of the ocean where ships ascend to return to China.
+['ZH_T51_2066_001:0006b20_15']	此寺內僧眾有三千五百人。	此寺內僧眾有三千五百人。	In this temple, there are three thousand five hundred monks.
+['ZH_T51_2066_001:0006b21_5']	屬寺村莊二百一所。	屬寺村莊二百一所。	The temple's villages and estates number two hundred and one.
+['ZH_T51_2066_001:0006b22_14']	並是積代君王給其人戶永充供養言驛者即當一踰繕那也重曰。	並是積代君王給其人戶永充供養言驛者即當一踰繕那也重曰。	All of them were given by the kings of the past as permanent offerings to the monks. The post stations are equivalent to one yojana.
+['ZH_T51_2066_001:0006b22_23']	龍池龜洛地隔天津。	龍池龜洛地隔天津。	The Dragon Pond and Turtle Capital are separated by the Tian River.
+['ZH_T51_2066_001:0006b23_8']	途遙去馬道絕來人。	途遙去馬道絕來人。	The road is far, and the horse path is cut off. People who come here are few.
+['ZH_T51_2066_001:0006b23_17', 'ZH_T51_2066_001:0006b24_9']	致令傳說罕得其真。🔽模形別匠軌製殊陳依俙。	致令傳說罕得其真。 模形別匠軌製殊陳依俙。	This causes the transmission of stories to rarely obtain the truth.🔽Imitating shapes, different craftsmen create different patterns. Following the ancient, it vaguely resembles.
+['ZH_T51_2066_001:0006b24_16']	畫古髣髴驚新。	畫古髣髴驚新。	The painting is ancient, and the new is surprisingly similar.
+['ZH_T51_2066_001:0006b25_4']	庶觀者之虔想。	庶觀者之虔想。	It is hoped that those who see it will sincerely imagine.
+['ZH_T51_2066_001:0006b25_11']	若佛在而翹神。	若佛在而翹神。	If the Buddha is present, one should uplift the spirit.Here is the corrected and aligned text:
+['ZH_T51_2066_001:0006b26_100']	大唐西域求法高僧傳卷上	大唐西域求法高僧傳卷上	The Biographies of Eminent Monks Who Sought the Dharma in the Western Regions during the Great Tang, Volume 1

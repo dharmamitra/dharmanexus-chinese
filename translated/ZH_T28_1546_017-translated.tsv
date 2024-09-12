@@ -1,0 +1,994 @@
+segmentnr	original	analyzed	translated
+['ZH_T28_1546_017:0121c02_0']	2阿毘曇毘婆沙論卷第十七	2阿毘曇毘婆沙論卷第十七	Abhidharma-vibhāṣā-śāstra, Scroll 17🔽
+['ZH_T28_1546_017:0121c04_0']	迦旃延子造　五百羅漢釋	迦旃延子造　五百羅漢釋	Composed by Kātyāyanīputra, explained by five hundred arhats
+['ZH_T28_1546_017:0121c05_0']	北涼天竺沙門浮陀跋摩	北涼天竺沙門浮陀跋摩	Translated by the Northern Liang Indian Śramaṇa Buddhavarman
+['ZH_T28_1546_017:0121c08_4']	共道泰等譯雜揵度愛敬品中云何數滅？	共道泰等譯雜揵度愛敬品中云何數滅？	and Daotai and others, from the chapter on love and respect in the Miscellaneous Section, it says: What is cessation through deliberation?
+['ZH_T28_1546_017:0121c08_10']	云何非數滅？	云何非數滅？	What is cessation not through deliberation?
+['ZH_T28_1546_017:0121c08_15']	乃至廣說。	乃至廣說。	And so on, explaining in detail.
+['ZH_T28_1546_017:0121c08_18']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0121c09_4']	何故作此論？	何故作此論？	Why did you write this treatise?
+['ZH_T28_1546_017:0121c09_7']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0121c09_14']	為止並義者意。	為止並義者意。	To stop the intention of those who hold contradictory views.
+['ZH_T28_1546_017:0121c09_20']	如譬喻者說：	如譬喻者說：	As the metaphysicians say:
+['ZH_T28_1546_017:0121c10_5']	三種滅無體。	三種滅無體。	The three kinds of cessation do not have substance.
+['ZH_T28_1546_017:0121c11_10']	為止如是說者意，欲明三種滅各有體相故，而作此論。	為止如是說者意，欲明三種滅各有體相故，而作此論。	To stop such statements, to clarify that the three kinds of cessation each have their own characteristics, this treatise is written.
+['ZH_T28_1546_017:0121c12_6']	復次所以作此論者，毘婆闍婆提說：	復次所以作此論者，毘婆闍婆提說：	Furthermore, the reason for writing this treatise is that Vibhajyavādin says:
+['ZH_T28_1546_017:0121c12_14']	三種滅皆是無為。	三種滅皆是無為。	The three kinds of cessation are all unconditioned.
+['ZH_T28_1546_017:0121c14_3']	欲止如是說者意，說三種滅，二是無為、一是有為故，而作此論。	欲止如是說者意，說三種滅，二是無為、一是有為故，而作此論。	To stop such statements, to explain that the three kinds of cessation, two are unconditioned and one is conditioned, this treatise is written.
+['ZH_T28_1546_017:0121c15_4']	云何數滅？	云何數滅？	What is cessation through deliberation?
+['ZH_T28_1546_017:0121c15_7']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0121c15_15']	若滅得解脫是也。	若滅得解脫是也。	If cessation is attained through liberation, that is it.
+['ZH_T28_1546_017:0121c16_14']	彼法滅，彼得得、解脫得，解脫得是名數滅。	彼法滅，彼得得、解脫得，解脫得是名數滅。	When those dharmas cease, one attains the attainment of cessation and the attainment of liberation. The attainment of liberation is called the cessation of calculation.
+['ZH_T28_1546_017:0121c16_20']	云何非數滅？	云何非數滅？	What is non-calculation cessation?
+['ZH_T28_1546_017:0121c17_2']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0121c17_10']	若滅非解脫是也。	若滅非解脫是也。	If cessation is not liberation, that is it.
+['ZH_T28_1546_017:0121c18_14']	彼法若滅，彼得不得解脫，不得解脫得，是名非數滅。	彼法若滅，彼得不得解脫，不得解脫得，是名非數滅。	When those dharmas cease, one does not attain the attainment of cessation, nor does one attain the attainment of liberation. This is called non-calculation cessation.
+['ZH_T28_1546_017:0121c18_20']	云何無常滅？	云何無常滅？	What is impermanence cessation?
+['ZH_T28_1546_017:0121c19_2']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0121c19_9', 'ZH_T28_1546_017:0121c20_5']	諸行散滅是也。🔽無常滅，散滅諸行，非如散豆穀等。	諸行散滅是也。 無常滅，散滅諸行，非如散豆穀等。	It is the scattering and cessation of conditioned forces.
+['ZH_T28_1546_017:0121c22_12']	無常滅，令諸行於前一剎那能有所作，於後剎那更不能有所作，非無行體，止其所作故，作如是說。	無常滅，令諸行於前一剎那能有所作，於後剎那更不能有所作，非無行體，止其所作故，作如是說。	Impermanence cessation causes conditioned forces to cease in the next moment after they have performed their function in the previous moment, but it does not cause the conditioned forces themselves to cease. Therefore, it is said that it causes the cessation of their activity.
+['ZH_T28_1546_017:0121c22_15']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0121c23_5']	非數滅、無常滅有何差別？	非數滅、無常滅有何差別？	What is the difference between non-calculation cessation and impermanence cessation?
+['ZH_T28_1546_017:0121c23_8']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0121c25_7']	非數滅者，疾瘦困厄自作他作苦惱種種魔事，如是隨世等法，若得解脫，是名非數滅。	非數滅者，疾瘦困厄自作他作苦惱種種魔事，如是隨世等法，若得解脫，是名非數滅。	As for non-numerically extinguished cessation, it refers to various demonic activities such as illness, emaciation, distress, self-inflicted harm, harm inflicted by others, and suffering, as well as various worldly dharmas. If one attains liberation from these, it is called non-numerically extinguished cessation.
+['ZH_T28_1546_017:0121c27_4']	若說疾瘦困厄自作他作苦惱種種魔事等法，若得解脫，是名有漏諸行得非數滅。	若說疾瘦困厄自作他作苦惱種種魔事等法，若得解脫，是名有漏諸行得非數滅。	If one speaks of various demonic activities such as illness, emaciation, distress, self-inflicted harm, harm inflicted by others, and suffering, and if one attains liberation from them, it is called the attainment of non-numerically extinguished cessation by defiled conditioned dharmas.
+['ZH_T28_1546_017:0121c28_7']	若說隨世等法，若得解脫，是名無漏諸行得非數滅。	若說隨世等法，若得解脫，是名無漏諸行得非數滅。	If one speaks of worldly dharmas, and if one attains liberation from them, it is called the attainment of non-numerically extinguished cessation by undefiled conditioned dharmas.
+['ZH_T28_1546_017:0121c28_12']	所以者何？	所以者何？	Why is this so?
+['ZH_T28_1546_017:0121c29_2']	無漏諸行亦在世故。	無漏諸行亦在世故。	Because undefiled conditioned dharmas are also in the world.
+['ZH_T28_1546_017:0121c29_18']	無常滅者，令諸行散滅，乃至廣說。	無常滅者，令諸行散滅，乃至廣說。	As for impermanent cessation, it causes conditioned dharmas to scatter and cease, and so on.
+['ZH_T28_1546_017:0121c29_21']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0122a01_17']	何故但問非數滅、無常滅，不問數滅耶？	何故但問非數滅、無常滅，不問數滅耶？	Why do you only ask about non-numerically extinguished cessation and impermanent cessation, and not about numerically extinguished cessation?
+['ZH_T28_1546_017:0122a01_20']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0122a02_17']	或有說者，彼作經者意欲爾，乃至廣說。	或有說者，彼作經者意欲爾，乃至廣說。	Some say that the author of the sutra intended it to be so, and so on.
+['ZH_T28_1546_017:0122a03_15']	復有說者，先已說差別，如說云何數滅？	復有說者，先已說差別，如說云何數滅？	Furthermore, some say that the distinction has already been explained, as in the question What is numerically extinguished cessation?
+['ZH_T28_1546_017:0122a04_7']	其滅者是解脫，乃至廣說。	其滅者是解脫，乃至廣說。	The cessation of that is liberation, and so on at length.
+['ZH_T28_1546_017:0122a05_1']	二滅者非解脫，是以問其差別。	二滅者非解脫，是以問其差別。	The two cessations are not liberation, therefore it asks about their distinctions.
+['ZH_T28_1546_017:0122a05_17']	復有說者，以此二滅俱不用功滅故。	復有說者，以此二滅俱不用功滅故。	Furthermore, some say that because these two cessations are both effortless cessations.
+['ZH_T28_1546_017:0122a06_11']	復有說者，盡應問三種滅差別。	復有說者，盡應問三種滅差別。	Furthermore, some say that the three kinds of cessation should all be asked about their distinctions.
+['ZH_T28_1546_017:0122a06_16']	云何數滅？	云何數滅？	What is cessation through deliberation?
+['ZH_T28_1546_017:0122a06_19']	答曰：	答曰：	The answer is:
+['ZH_T28_1546_017:0122a07_7', 'ZH_T28_1546_017:0122a08_1']	若滅是解脫不繫相。🔽非數滅者，是解脫非不繫相。	若滅是解脫不繫相。 非數滅者，是解脫非不繫相。	If cessation is liberation, it is the characteristic of unbinding.🔽Cessation not through deliberation is liberation, but it is not the characteristic of unbinding.
+['ZH_T28_1546_017:0122a08_15']	無常滅，非是解脫亦非不繫相。	無常滅，非是解脫亦非不繫相。	Impermanent cessation is neither liberation nor the characteristic of unbinding.
+['ZH_T28_1546_017:0122a09_13']	復有說者，數滅，三世陰入界中可得。	復有說者，數滅，三世陰入界中可得。	Furthermore, some say that cessation through deliberation can be found among the aggregates, sense bases, and elements of the three times.
+['ZH_T28_1546_017:0122a10_6']	非數滅，未來世不生法中可得。	非數滅，未來世不生法中可得。	Cessation not through deliberation can be found among future dharmas that do not arise.
+['ZH_T28_1546_017:0122a10_17']	無常滅，現在世中可得。	無常滅，現在世中可得。	Impermanent cessation can be found in the present time.
+['ZH_T28_1546_017:0122a11_12', 'ZH_T28_1546_017:0122a12_5']	復有說者，數滅是善，彼得亦善。🔽非數滅是無記，彼得亦是無記。	復有說者，數滅是善，彼得亦善。 非數滅是無記，彼得亦是無記。	Furthermore, some say that cessation through deliberation is wholesome, and its attainment is also wholesome.🔽Cessation not through deliberation is indeterminate, and its attainment is also indeterminate.
+['ZH_T28_1546_017:0122a12_19']	無常滅有三種，彼得亦有三種。	無常滅有三種，彼得亦有三種。	Impermanent cessation is of three kinds, and its attainment is also of three kinds.
+['ZH_T28_1546_017:0122a13_17']	復有說者，數滅是不繫，彼得是繫不繫。	復有說者，數滅是不繫，彼得是繫不繫。	There is another explanation: Annihilation through calculation is unattached, and its attainment is either attached or unattached.
+['ZH_T28_1546_017:0122a14_9']	非數滅是不繫，彼得是繫。	非數滅是不繫，彼得是繫。	Annihilation without calculation is unattached, and its attainment is either attached or unattached.
+['ZH_T28_1546_017:0122a15_4']	無常是繫不繫，彼得亦是繫不繫。	無常是繫不繫，彼得亦是繫不繫。	Impermanence is either attached or unattached, and its attainment is also either attached or unattached.
+['ZH_T28_1546_017:0122a16_10']	復有說者，數滅是非學非無學，彼得是學無學非學非無學。	復有說者，數滅是非學非無學，彼得是學無學非學非無學。	There is another explanation: Annihilation through calculation is neither training nor post-training, and its attainment is either training, post-training, or neither training nor post-training.
+['ZH_T28_1546_017:0122a17_12']	非數滅是非學非無學，彼得亦是非學非無學。	非數滅是非學非無學，彼得亦是非學非無學。	Annihilation without calculation is neither training nor post-training, and its attainment is also neither training nor post-training.
+['ZH_T28_1546_017:0122a18_4']	無常滅三種，彼得亦三種。	無常滅三種，彼得亦三種。	Annihilation of impermanence is of three kinds, and its attainment is also of three kinds.
+['ZH_T28_1546_017:0122a19_6']	復有說者，數滅是不斷，彼得或修道斷、或不斷。	復有說者，數滅是不斷，彼得或修道斷、或不斷。	There is another explanation: Annihilation through calculation is not severed, and its attainment is either severed by the path of cultivation or not severed.
+['ZH_T28_1546_017:0122a19_20']	非數滅是不斷，彼得是修道斷。	非數滅是不斷，彼得是修道斷。	Annihilation without calculation is not severed, and its attainment is severed by the path of cultivation.
+['ZH_T28_1546_017:0122a20_11']	無常滅三種，彼得亦三種。	無常滅三種，彼得亦三種。	Annihilation of impermanence is of three kinds, and its attainment is also of three kinds.
+['ZH_T28_1546_017:0122a21_18']	復有說者，數滅是道果，彼得或是道是道果、或非道非道果。	復有說者，數滅是道果，彼得或是道是道果、或非道非道果。	There is another explanation: Annihilation through calculation is the fruit of the path, and its attainment is either the path or the fruit of the path, or neither the path nor the fruit of the path.
+['ZH_T28_1546_017:0122a22_13']	非數滅非道果，彼得非道非道果。	非數滅非道果，彼得非道非道果。	Non-analytical cessation is not the fruit of the path, and its attainment is neither the path nor the fruit of the path.
+['ZH_T28_1546_017:0122a24_3']	無常滅或是道非道果、或是道亦道果、或非道非道果，彼得亦爾。	無常滅或是道非道果、或是道亦道果、或非道非道果，彼得亦爾。	Impermanent cessation may be the path but not the fruit of the path, may be both the path and the fruit of the path, or may be neither the path nor the fruit of the path. Its attainment is also like this.
+['ZH_T28_1546_017:0122a25_4']	復有說者，數滅是滅諦所攝，彼得是三諦所攝。	復有說者，數滅是滅諦所攝，彼得是三諦所攝。	Furthermore, some say: Analytical cessation is included in the truth of cessation, and its attainment is included in three truths.
+['ZH_T28_1546_017:0122a26_2']	非數滅非滅諦所攝，彼得苦集諦所攝。	非數滅非滅諦所攝，彼得苦集諦所攝。	Non-analytical cessation is not included in the truth of cessation, and its attainment is included in the truths of suffering and accumulation.
+['ZH_T28_1546_017:0122a26_15']	無常滅三種諦所攝，得亦爾。	無常滅三種諦所攝，得亦爾。	Impermanent cessation is included in three kinds of truths, and its attainment is also like this.
+['ZH_T28_1546_017:0122a27_2']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0122a27_9']	何等是數滅義？	何等是數滅義？	What is the meaning of analytical cessation?
+['ZH_T28_1546_017:0122a27_12']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0122a28_6']	數者是慧，滅是慧果，故名數滅。	數者是慧，滅是慧果，故名數滅。	Analytical means wisdom, and cessation is the fruit of wisdom, thus it is called analytical cessation.
+['ZH_T28_1546_017:0122a29_14']	復有說者，別數得故言是數滅，如見苦時苦忍、苦智所得別；	復有說者，別數得故言是數滅，如見苦時苦忍、苦智所得別；	Furthermore, some say: It is called analytical cessation because it is attained through separate analysis, just as when seeing suffering, the acceptance of suffering and the wisdom of suffering are attained separately;
+['ZH_T28_1546_017:0122b01_10']	見集、見滅、見道所得亦別，故名數滅。	見集、見滅、見道所得亦別，故名數滅。	When seeing accumulation, seeing cessation, and seeing the path, they are also attained separately, thus it is called analytical cessation.
+['ZH_T28_1546_017:0122b02_8']	復有說者，以難得多用功故，名為數滅。	復有說者，以難得多用功故，名為數滅。	Furthermore, some say: It is called analytical cessation because it requires much effort to attain.
+['ZH_T28_1546_017:0122b02_11']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0122b03_3']	此滅為是一體、為是多體耶？	此滅為是一體、為是多體耶？	Is this cessation one substance or many substances?
+['ZH_T28_1546_017:0122b03_6']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0122b03_15']	或有說者，是一體。	或有說者，是一體。	Some say it is one substance.
+['ZH_T28_1546_017:0122b03_18']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0122b05_5']	若是一體者，證見道所斷諸結滅時，亦證修道所斷，諸結滅不耶？	若是一體者，證見道所斷諸結滅時，亦證修道所斷，諸結滅不耶？	If it is one substance, when realizing the cessation of the bonds to be eliminated by seeing the path, does one also realize the cessation of the bonds to be eliminated by the path of cultivation?
+['ZH_T28_1546_017:0122b05_15']	若證者，則修道無用。	若證者，則修道無用。	If one realizes it, then the path of cultivation is useless.
+['ZH_T28_1546_017:0122b06_12']	若不證者，云何一體法少分證少分不證？	若不證者，云何一體法少分證少分不證？	If one does not realize it, how can a single substance be partially realized and partially unrealized?
+['ZH_T28_1546_017:0122b08_5']	復有說者，滅體有五，見苦所斷煩惱滅是一種，乃至修道所斷煩惱滅。	復有說者，滅體有五，見苦所斷煩惱滅是一種，乃至修道所斷煩惱滅。	Furthermore, some say the substance of cessation is fivefold: the cessation of afflictions to be eliminated by seeing suffering is one kind, up to the cessation of afflictions to be eliminated by the path of cultivation.
+['ZH_T28_1546_017:0122b08_10']	是第五種。	是第五種。	This is the fifth kind.
+['ZH_T28_1546_017:0122b08_13']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0122b08_18']	此亦有過。	此亦有過。	This also has a fault.
+['ZH_T28_1546_017:0122b09_3']	所以者何？	所以者何？	Why is it so?
+['ZH_T28_1546_017:0122b10_7']	如證欲界修道所斷上上使滅時，復證餘品使滅不耶？	如證欲界修道所斷上上使滅時，復證餘品使滅不耶？	When realizing the cessation of the uppermost upper category of afflictions to be eliminated by the path of cultivation in the desire realm, does one also realize the cessation of other categories of afflictions?
+['ZH_T28_1546_017:0122b11_3']	若當證者，餘品對治道則無功用。	若當證者，餘品對治道則無功用。	If one realizes it, then the antidote to the other categories is useless.
+['ZH_T28_1546_017:0122b12_2']	若不證者，云何一體法少分證少分不證？	若不證者，云何一體法少分證少分不證？	If one does not realize it, how can one realize a small part of the one essence and not realize a small part?
+['ZH_T28_1546_017:0122b12_13']	復有說者，滅體有十三：	復有說者，滅體有十三：	There is another explanation: the essence of cessation has thirteen:
+['ZH_T28_1546_017:0122b13_6']	見道所斷有四，修道所斷有九。	見道所斷有四，修道所斷有九。	Four are eliminated by the path of seeing, and nine are eliminated by the path of cultivation.
+['ZH_T28_1546_017:0122b13_9']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0122b13_19']	此亦有過，所以者何？	此亦有過，所以者何？	This also has a fault. Why is it so?
+['ZH_T28_1546_017:0122b15_3']	若證欲界修道所斷滅時，復證初禪修道所斷滅不？	若證欲界修道所斷滅時，復證初禪修道所斷滅不？	When realizing the cessation eliminated by the path of cultivation in the desire realm, does one also realize the cessation eliminated by the path of cultivation in the first trance?
+['ZH_T28_1546_017:0122b15_13']	若證不證，俱同前過。	若證不證，俱同前過。	Whether one realizes it or not, both are the same as the previous fault.
+['ZH_T28_1546_017:0122b15_16']	評曰：	評曰：	The judges say:
+['ZH_T28_1546_017:0122b15_21']	應作是說：	應作是說：	It should be said:
+['ZH_T28_1546_017:0122b16_10']	隨有漏法體，滅體亦爾。	隨有漏法體，滅體亦爾。	According to the essence of contaminated dharmas, the essence of cessation is also so.
+['ZH_T28_1546_017:0122b16_13']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0122b17_10']	若然者，先何故問涅槃為一體為多體耶？	若然者，先何故問涅槃為一體為多體耶？	If so, why was the question about nirvana being one essence or many essences asked first?
+['ZH_T28_1546_017:0122b17_13']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0122b17_19']	先應作是問。	先應作是問。	The question should be asked first.
+['ZH_T28_1546_017:0122b19_3']	若一眾生證一法滅時，一切眾生亦同證此滅不耶？	若一眾生證一法滅時，一切眾生亦同證此滅不耶？	When one sentient being realizes the cessation of one dharma, do all sentient beings also realize this cessation together?
+['ZH_T28_1546_017:0122b19_16']	若同者，云何涅槃不是共法？	若同者，云何涅槃不是共法？	If so, how is nirvana not a common dharma?
+['ZH_T28_1546_017:0122b20_14']	一眾生得涅槃時，一切眾生亦應得涅槃。	一眾生得涅槃時，一切眾生亦應得涅槃。	When one sentient being attains nirvāṇa, all sentient beings should also attain nirvāṇa.
+['ZH_T28_1546_017:0122b21_9']	若異者，云何涅槃非是相似法耶？	若異者，云何涅槃非是相似法耶？	If it is different, how can nirvāṇa not be a similar dharma?
+['ZH_T28_1546_017:0122b21_16']	此經復云何通？	此經復云何通？	How can this sūtra be understood?
+['ZH_T28_1546_017:0122b21_19']	如說：	如說：	It is said:
+['ZH_T28_1546_017:0122b22_14']	如來解脫、阿羅漢解脫等無差別。	如來解脫、阿羅漢解脫等無差別。	The liberation of the Tathāgata and the liberation of the arhat are equal and without distinction.
+['ZH_T28_1546_017:0122b22_17']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0122b23_2']	應作是說：	應作是說：	It should be said:
+['ZH_T28_1546_017:0122b24_1']	如一眾生證此法，一切眾生亦同證此法。	如一眾生證此法，一切眾生亦同證此法。	Just as one sentient being realizes this dharma, all sentient beings also realize this dharma together.
+['ZH_T28_1546_017:0122b24_4']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0122b24_18']	若然者，云何涅槃不是共法耶？	若然者，云何涅槃不是共法耶？	If so, how can nirvāṇa not be a common dharma?
+['ZH_T28_1546_017:0122b24_21']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0122b25_13']	以體言之則同，以得言之則異。	以體言之則同，以得言之則異。	In terms of its essence, it is the same, but in terms of its attainment, it is different.
+['ZH_T28_1546_017:0122b25_18']	所以者何？	所以者何？	Why is it so?
+['ZH_T28_1546_017:0122b26_5']	以諸得各異故。	以諸得各異故。	Because the attainments are each different.
+['ZH_T28_1546_017:0122b26_8']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0122b27_13']	若然者，云何不一眾生得涅槃時，一切眾生亦得涅槃耶？	若然者，云何不一眾生得涅槃時，一切眾生亦得涅槃耶？	If so, why is it that when one sentient being attains nirvāṇa, all sentient beings do not also attain nirvāṇa?
+['ZH_T28_1546_017:0122b27_16']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0122b28_18']	若成就涅槃得者得涅槃，若不成就得者不得涅槃。	若成就涅槃得者得涅槃，若不成就得者不得涅槃。	If one attains nirvana, one attains nirvana. If one does not attain it, one does not attain nirvana.
+['ZH_T28_1546_017:0122c01_3']	復有說者，若一眾生證此滅時，餘眾生所證者各異。	復有說者，若一眾生證此滅時，餘眾生所證者各異。	Moreover, some say that when one being realizes this cessation, what is realized by other beings is each different.
+['ZH_T28_1546_017:0122c01_6']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0122c01_20']	若然者，云何涅槃非是相似法？	若然者，云何涅槃非是相似法？	If so, how is nirvana not a similar dharma?
+['ZH_T28_1546_017:0122c02_2']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0122c03_8']	言非相似者，非相似因，以涅槃無相似因故，言非相似法。	言非相似者，非相似因，以涅槃無相似因故，言非相似法。	As for saying it is not similar, it is not a similar cause. Because nirvana has no similar cause, it is said to be a dharma that is not similar.
+['ZH_T28_1546_017:0122c03_11']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0122c04_10']	若然者，苦法忍無相似因，亦是非相似法耶？	若然者，苦法忍無相似因，亦是非相似法耶？	If so, is the perseverance for the dharma of suffering, which has no similar cause, also a dharma that is not similar?
+['ZH_T28_1546_017:0122c04_13']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0122c05_13']	苦法忍雖不從相似因生，而能與他作相似因；	苦法忍雖不從相似因生，而能與他作相似因；	Although the perseverance for the dharma of suffering does not arise from a similar cause, it can be a similar cause for others;
+['ZH_T28_1546_017:0122c06_12']	涅槃不從相似因生，亦不與他作相似因。	涅槃不從相似因生，亦不與他作相似因。	Nirvana does not arise from a similar cause, nor does it act as a similar cause for others.
+['ZH_T28_1546_017:0122c07_8']	復有說者，以不同故，言不相似。	復有說者，以不同故，言不相似。	Moreover, some say that because it is not the same, it is said to be dissimilar.
+['ZH_T28_1546_017:0122c07_14']	有為法性同。	有為法性同。	The nature of conditioned dharmas is the same.
+['ZH_T28_1546_017:0122c07_19']	云何性同？	云何性同？	How is the nature the same?
+['ZH_T28_1546_017:0122c08_20']	同在世、同是陰、同是苦，無有一法是常是善者。	同在世、同是陰、同是苦，無有一法是常是善者。	They are all in the world, all aggregates, all suffering, and there is not a single dharma that is permanent or good.
+['ZH_T28_1546_017:0122c09_17']	復有說者，世法是同，彼非世，故不同。	復有說者，世法是同，彼非世，故不同。	There is another explanation: worldly dharmas are the same, but those are not worldly, so they are not the same.
+['ZH_T28_1546_017:0122c10_17']	如是陰法、苦法、諸生法、諸趣法，當知亦爾。	如是陰法、苦法、諸生法、諸趣法，當知亦爾。	In this way, the dharmas of aggregates, suffering, birth, and destinies should also be understood.
+['ZH_T28_1546_017:0122c11_17']	復有說者，前後是相似，彼法無前後，故言不相似。	復有說者，前後是相似，彼法無前後，故言不相似。	There is another explanation: the past and future are similar, but those dharmas have no past or future, so they are said to be dissimilar.
+['ZH_T28_1546_017:0122c12_9']	如前後，上中下法亦如是。	如前後，上中下法亦如是。	Like the past and future, superior, middling, and inferior dharmas are also like this.
+['ZH_T28_1546_017:0122c13_13']	如來解脫、羅漢解脫，此經云何通者，以俱是常是善故。	如來解脫、羅漢解脫，此經云何通者，以俱是常是善故。	How does this sūtra reconcile the statement that the liberation of the Tathāgata and the liberation of the arhat are the same, because they are both permanent and good?
+['ZH_T28_1546_017:0122c14_9']	復有說者，以在一身中決定俱有故。	復有說者，以在一身中決定俱有故。	There is another explanation: because they are definitely present together in one body.
+['ZH_T28_1546_017:0122c14_14']	所以者何？	所以者何？	Why is it so?
+['ZH_T28_1546_017:0122c15_20']	一切眾生盡有三種菩提性，所謂佛、辟支佛、聲聞菩提。	一切眾生盡有三種菩提性，所謂佛、辟支佛、聲聞菩提。	All sentient beings completely possess the three kinds of bodhi-nature, namely the bodhi of buddhas, pratyekabuddhas, and śrāvakas.
+['ZH_T28_1546_017:0122c16_10']	若從佛道去，亦證此法；	若從佛道去，亦證此法；	If one departs from the buddha path, one also realizes this dharma;🔽...
+['ZH_T28_1546_017:0122c17_13']	若從辟支佛、聲聞道去，亦證此法，是故言無差別。	若從辟支佛、聲聞道去，亦證此法，是故言無差別。	If one departs from the path of pratyekabuddhas and śrāvakas, one also realizes this Dharma, therefore it is said to be without distinction.
+['ZH_T28_1546_017:0122c17_16']	評曰：	評曰：	The judges say:
+['ZH_T28_1546_017:0122c18_7']	不應作是說，如前說者好。	不應作是說，如前說者好。	One should not say this, the previous explanation is better.
+['ZH_T28_1546_017:0122c19_2']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0122c19_15']	外物中數滅，為有得者不耶？	外物中數滅，為有得者不耶？	Is there attainment of cessation in external objects or not?
+['ZH_T28_1546_017:0122c20_10']	若得者，眾生不成就外法，云何得？	若得者，眾生不成就外法，云何得？	If there is attainment, sentient beings do not accomplish external dharmas, how can they attain?
+['ZH_T28_1546_017:0122c21_1']	若得者，此經復云何通？	若得者，此經復云何通？	If there is attainment, how can this sūtra be understood?
+['ZH_T28_1546_017:0122c21_4']	如說：	如說：	As it is said:
+['ZH_T28_1546_017:0122c21_8']	諸長老！	諸長老！	Elder monks!
+['ZH_T28_1546_017:0122c21_19']	我斷一切愛，得內解脫。	我斷一切愛，得內解脫。	I have cut off all craving and attained inner liberation.
+['ZH_T28_1546_017:0122c22_9']	若不得者，此經復云何通？	若不得者，此經復云何通？	If there is no attainment, how can this sūtra be understood?
+['ZH_T28_1546_017:0122c22_12']	如說：	如說：	As it is said:
+['ZH_T28_1546_017:0122c22_17']	云何斷界？	云何斷界？	What is the realm of cutting off?
+['ZH_T28_1546_017:0122c22_20']	答曰：	答曰：	The answer is:
+['ZH_T28_1546_017:0122c23_14']	一切諸行斷，是名斷界，乃至廣說。	一切諸行斷，是名斷界，乃至廣說。	The cutting off of all conditioned forces is called the realm of cutting off, and so on at length.
+['ZH_T28_1546_017:0122c23_17']	答曰：	答曰：	The answer is:
+['ZH_T28_1546_017:0122c24_1']	應作是說：	應作是說：	One should say:
+['ZH_T28_1546_017:0122c24_5']	有得者。	有得者。	There is attainment.
+['ZH_T28_1546_017:0122c24_8']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0122c25_1']	若然者，不成就外法，云何得耶？	若然者，不成就外法，云何得耶？	If so, how can one attain external dharmas without accomplishing them?
+['ZH_T28_1546_017:0122c25_4']	答曰：	答曰：	The answer is:
+['ZH_T28_1546_017:0122c25_18']	雖不成就外法，而得外法數滅。	雖不成就外法，而得外法數滅。	Although one does not attain external dharmas, one can attain the cessation of external dharmas.
+['ZH_T28_1546_017:0122c27_7']	如過去未來命等八根，雖不成就得其數滅，我斷一切愛得內解脫。	如過去未來命等八根，雖不成就得其數滅，我斷一切愛得內解脫。	Just as the eight faculties such as life in the past and future, although one does not attain them, one can attain their cessation. I cut off all craving and attain inner liberation.
+['ZH_T28_1546_017:0122c28_12']	此經云何通者，此說若內得解脫，當知外法亦得解脫。	此經云何通者，此說若內得解脫，當知外法亦得解脫。	How can this sutra be understood? This means that if one attains inner liberation, one should know that external dharmas also attain liberation.
+['ZH_T28_1546_017:0123a01_7']	復有說者，以此解脫從自身修方便得，不由外人修方便得，是故言得內解脫。	復有說者，以此解脫從自身修方便得，不由外人修方便得，是故言得內解脫。	Furthermore, some say that this liberation is attained through cultivating skillful means in one's own body, and not through cultivating skillful means by outsiders. Therefore, it is said that one attains inner liberation.
+['ZH_T28_1546_017:0123a02_1']	復有說者，不得外法中數滅。	復有說者，不得外法中數滅。	Furthermore, some say that one does not attain the cessation of external dharmas.
+['ZH_T28_1546_017:0123a02_4']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0123a02_14']	若然者，此經云何通？	若然者，此經云何通？	If so, how can this sutra be understood?
+['ZH_T28_1546_017:0123a02_17']	如說：	如說：	As it is said:
+['ZH_T28_1546_017:0123a03_9']	一切諸行斷名斷界，乃至廣說。	一切諸行斷名斷界，乃至廣說。	The cessation of all conditioned phenomena is called the realm of cessation, and so on.
+['ZH_T28_1546_017:0123a03_12']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0123a03_18']	有二種一切：	有二種一切：	There are two kinds of all:
+['ZH_T28_1546_017:0123a04_8']	有分一切、有一切一切。	有分一切、有一切一切。	There is a partial all and there is an all of all.
+['ZH_T28_1546_017:0123a04_20']	此中說分一切，故言一切。	此中說分一切，故言一切。	Here it speaks of a partial all, therefore it says all.
+['ZH_T28_1546_017:0123a05_15']	復有說者，外物中有數滅而不可得。	復有說者，外物中有數滅而不可得。	There are also those who say that in external things there is cessation by counting that cannot be attained.
+['ZH_T28_1546_017:0123a05_18']	評曰：	評曰：	The judges say:
+['ZH_T28_1546_017:0123a06_18']	不應作是說，寧當說無，不應說有而不可得。	不應作是說，寧當說無，不應說有而不可得。	One should not say this. It is better to say it does not exist than to say it exists but cannot be attained.
+['ZH_T28_1546_017:0123a07_5']	何用是無用物？	何用是無用物？	What is the use of this useless thing?
+['ZH_T28_1546_017:0123a07_11']	為亦有亦得。	為亦有亦得。	Is it also existent and attainable?
+['ZH_T28_1546_017:0123a07_17']	如是說者好：	如是說者好：	Those who say this are good:
+['ZH_T28_1546_017:0123a08_21']	若當外物數滅不可得者，則違《波伽羅那經》，如說：	若當外物數滅不可得者，則違《波伽羅那經》，如說：	If external things cannot be attained by cessation through counting, then it contradicts the Pārāyaṇa Sūtra, which says:
+['ZH_T28_1546_017:0123a09_6']	云何得作證法？	云何得作證法？	What is the Dharma that can be realized?
+['ZH_T28_1546_017:0123a09_9']	答言：	答言：	The answer is:
+['ZH_T28_1546_017:0123a09_14']	一切善法。	一切善法。	All wholesome dharmas.
+['ZH_T28_1546_017:0123a10_5']	此法是善，亦得可得證。	此法是善，亦得可得證。	This Dharma is wholesome, and can be attained and realized.
+['ZH_T28_1546_017:0123a10_18']	欲令無如是過故，說言可得。	欲令無如是過故，說言可得。	In order to avoid this error, it is said that it can be attained.
+['ZH_T28_1546_017:0123a11_2']	問曰：	問曰：	The question is:
+['ZH_T28_1546_017:0123a11_16']	此數滅體，為是陰、為非陰耶？	此數滅體，為是陰、為非陰耶？	Is this essence of cessation by counting a skandha or not a skandha?
+['ZH_T28_1546_017:0123a12_6']	若是陰者，何不本是涅槃？	若是陰者，何不本是涅槃？	If it is a skandha, why is it not originally nirvāṇa?
+['ZH_T28_1546_017:0123a12_10']	何以故？	何以故？	Why is it so?
+['ZH_T28_1546_017:0123a12_16']	先有諸陰故。	先有諸陰故。	Because the skandhas existed before.
+['ZH_T28_1546_017:0123a13_13']	若非陰者，云何為無所有法而修於道？	若非陰者，云何為無所有法而修於道？	If it is not a skandha, how can one cultivate the path for a non-existent dharma?
+['ZH_T28_1546_017:0123a13_16']	答曰：	答曰：	The answer is:
+['ZH_T28_1546_017:0123a14_2']	應作是說：	應作是說：	It should be said:
+['ZH_T28_1546_017:0123a15_3']	體非是陰亦非陰，然從色陰乃至識陰體得之。	體非是陰亦非陰，然從色陰乃至識陰體得之。	The essence is neither a skandha nor a skandha, but it is obtained from the essence of the form skandha up to the consciousness skandha.
+['ZH_T28_1546_017:0123a18_14']	此數滅亦名涅槃、亦名不相似、亦名非品、亦名無跋那跋那，秦言色，亦言性、亦言稱讚、亦言字、亦言最勝、亦名智、亦名應、亦名不親近、亦名不修、亦名可樂、亦名近、亦名妙、亦名離。	此數滅亦名涅槃、亦名不相似、亦名非品、亦名無跋那跋那，秦言色，亦言性、亦言稱讚、亦言字、亦言最勝、亦名智、亦名應、亦名不親近、亦名不修、亦名可樂、亦名近、亦名妙、亦名離。	This cessation is also called nirvana, also called dissimilar, also called non-category, also called avana-avana, Qin says color, also says nature, also says praise, also says word, also says supreme, also called knowledge, also called should, also called not intimate, also called not cultivated, also called enjoyable, also called near, also called wonderful, also called separation.
+['ZH_T28_1546_017:0123a18_17']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0123a19_1']	何故言涅槃？	何故言涅槃？	Why is it called nirvana?
+['ZH_T28_1546_017:0123a19_4']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0123a19_14']	槃那言林，涅者言離。	槃那言林，涅者言離。	Panna means forest, nie means to leave.
+['ZH_T28_1546_017:0123a20_11']	永離陰林、離三火林、離四林，故言涅槃。	永離陰林、離三火林、離四林，故言涅槃。	Permanently leaving the forest of skandhas, leaving the forest of three fires, leaving the forest of four, therefore it is called nirvana.
+['ZH_T28_1546_017:0123a21_3']	復次不織義是涅槃，如先說。	復次不織義是涅槃，如先說。	Furthermore, the meaning of non-weaving is nirvana, as explained before.
+['ZH_T28_1546_017:0123a22_8']	何故名不相似者，無相似因故，如先說，無上中下等故。	何故名不相似者，無相似因故，如先說，無上中下等故。	Why is it called dissimilar? Because there is no similar cause, as explained before, because there is no upper, middle, lower, etc.
+['ZH_T28_1546_017:0123a23_11']	何故名非品者，離諸品故，如說有為法體性是品。	何故名非品者，離諸品故，如說有為法體性是品。	Why is it called non-category? Because it is apart from all categories, just as conditioned dharmas are said to be by nature categories.
+['ZH_T28_1546_017:0123a24_15']	諸作是說，有住相者，四相及彼法五法，是俱生品。	諸作是說，有住相者，四相及彼法五法，是俱生品。	Those who say there is a phase of abiding, the four characteristics and those dharmas are the five dharmas that arise together.
+['ZH_T28_1546_017:0123a25_17']	諸作是說，無住相者，三相及彼法四法，是俱生品。	諸作是說，無住相者，三相及彼法四法，是俱生品。	Those who say there is no phase of abiding, the three characteristics and those dharmas are the four dharmas that arise together.
+['ZH_T28_1546_017:0123a26_10']	彼法無如是相故，名為非品。	彼法無如是相故，名為非品。	Those dharmas do not have such characteristics, so they are called non-categories.
+['ZH_T28_1546_017:0123a26_20']	復有說者，世是品法；	復有說者，世是品法；	There are also those who say, the world is a category of dharmas;
+['ZH_T28_1546_017:0123a27_9']	彼法離世，名為非品。	彼法離世，名為非品。	Those dharmas are apart from the world, so they are called non-categories.
+['ZH_T28_1546_017:0123a28_3']	諸陰、諸苦、諸生、諸趣，說亦如是。	諸陰、諸苦、諸生、諸趣，說亦如是。	The aggregates, sufferings, births, and destinies are explained in the same way.
+['ZH_T28_1546_017:0123a29_8']	何故名無跋那者，稱讚之體已自成故，不待復更稱讚。	何故名無跋那者，稱讚之體已自成故，不待復更稱讚。	Why is it called avadāna? Because the substance of praise is already accomplished, it does not need to be praised again.
+['ZH_T28_1546_017:0123b01_4']	如人本性賢善，不待稱讚，本賢善故。	如人本性賢善，不待稱讚，本賢善故。	Just as a person who is by nature virtuous does not need to be praised, because he is already virtuous by nature.
+['ZH_T28_1546_017:0123b01_9']	彼亦如是。	彼亦如是。	It is the same for that.
+['ZH_T28_1546_017:0123b03_4']	復次有為法中，或以因稱果、或以果稱因，彼法無果可以稱因、無因可以稱果。	復次有為法中，或以因稱果、或以果稱因，彼法無果可以稱因、無因可以稱果。	Furthermore, among conditioned dharmas, sometimes the cause is called the effect, and sometimes the effect is called the cause. Those dharmas have no effect that can be called the cause, and no cause that can be called the effect.
+['ZH_T28_1546_017:0123b03_19']	復次諸聖親證此法故，不待稱讚。	復次諸聖親證此法故，不待稱讚。	Furthermore, because the sages personally realize this dharma, they do not need to praise it.
+['ZH_T28_1546_017:0123b04_12']	復次不稱讚者，有無邊稱故。	復次不稱讚者，有無邊稱故。	Furthermore, as for not praising, it is because there are boundless praises.
+['ZH_T28_1546_017:0123b05_10']	如人大德，言此人德不可說，彼亦如是。	如人大德，言此人德不可說，彼亦如是。	Just as a person of great virtue is said to be one whose virtues cannot be spoken of, it is the same for this.
+['ZH_T28_1546_017:0123b06_5']	復次不可稱讚者，周匝有美稱故。	復次不可稱讚者，周匝有美稱故。	Furthermore, as for what cannot be praised, it is because there is a beautiful reputation all around.
+['ZH_T28_1546_017:0123b06_15']	如淨明珠，周匝除闇。	如淨明珠，周匝除闇。	Just as a pure bright pearl removes darkness all around,
+['ZH_T28_1546_017:0123b06_20']	彼亦如是。	彼亦如是。	it is the same for this.
+['ZH_T28_1546_017:0123b07_16']	亦如阿波那加珠，所在之處而便安立。	亦如阿波那加珠，所在之處而便安立。	It is also like the Apana-ga jewel, which is established wherever it is.
+['ZH_T28_1546_017:0123b08_16']	如是若解脫得，在人身中，此身名為安立。	如是若解脫得，在人身中，此身名為安立。	In the same way, if liberation is attained, in a person's body, this body is called established.
+['ZH_T28_1546_017:0123b09_9']	復次不可稱讚者，名為非稱。	復次不可稱讚者，名為非稱。	Furthermore, as for what cannot be praised, it is called non-praise.
+['ZH_T28_1546_017:0123b10_6']	無有人能如法說其過者，名為非稱。	無有人能如法說其過者，名為非稱。	There is no one who can speak of its faults in accordance with the Dharma, it is called non-praise.
+['ZH_T28_1546_017:0123b10_20']	復有說者，離諸性故言無跋那。	復有說者，離諸性故言無跋那。	There is also an explanation that it is said to be without color because it is free from all natures.
+['ZH_T28_1546_017:0123b11_17']	此中無剎利、婆羅門、居士、首陀性故。	此中無剎利、婆羅門、居士、首陀性故。	Here, because there is no nature of kṣatriyas, brahmins, householders, or śūdras,
+['ZH_T28_1546_017:0123b12_14']	言無跋那，亦無青黃等色，故言無跋那。	言無跋那，亦無青黃等色，故言無跋那。	it is said to be without color. It is also without blue, yellow, and other colors, so it is said to be without color.
+['ZH_T28_1546_017:0123b13_13']	有為法，或性是色、或依色、或為色作所依。	有為法，或性是色、或依色、或為色作所依。	Conditioned dharmas are either by nature form, or they rely on form, or they serve as a basis for form.
+['ZH_T28_1546_017:0123b14_12']	彼法性，非是色、亦非依色、亦不為色作所依。	彼法性，非是色、亦非依色、亦不為色作所依。	Those dharmas by nature are not form, nor do they rely on form, nor do they serve as a basis for form.
+['ZH_T28_1546_017:0123b14_19']	何故名最勝者？	何故名最勝者？	Why is it called the most excellent?
+['ZH_T28_1546_017:0123b16_7']	以上妙故名最勝，如世間以上妙飲食衣服纓絡等故名最勝。	以上妙故名最勝，如世間以上妙飲食衣服纓絡等故名最勝。	Because it is supremely wonderful, it is called the most excellent, just as in the world it is called the most excellent because of supremely wonderful food, drink, clothing, and ornaments, etc.
+['ZH_T28_1546_017:0123b16_14']	尊者瞿沙說曰：	尊者瞿沙說曰：	The Venerable Ghoṣa said:
+['ZH_T28_1546_017:0123b17_10']	彼法是最勝，以是通暢究竟法故。	彼法是最勝，以是通暢究竟法故。	That dharma is the most excellent because it is the ultimate dharma of thorough understanding.
+['ZH_T28_1546_017:0123b17_16']	何故名智者？	何故名智者？	Why is it called the wise one?
+['ZH_T28_1546_017:0123b18_1']	以智果故。	以智果故。	Because it is the fruit of wisdom.
+['ZH_T28_1546_017:0123b18_6']	如經中說：	如經中說：	As it is said in the sūtra:
+['ZH_T28_1546_017:0123b19_1']	六入是業、六入是業果，以業名說。	六入是業、六入是業果，以業名說。	The six sense bases are karma, the six sense bases are the fruit of karma, and are called by the name of karma.
+['ZH_T28_1546_017:0123b19_12']	如斷是智果，以智名說。	如斷是智果，以智名說。	Just as cutting off is called wisdom because it is the fruit of wisdom.
+['ZH_T28_1546_017:0123b20_6']	如天眼天耳是通果，以通名說。	如天眼天耳是通果，以通名說。	Just as the divine eye and divine ear are called spiritual powers because they are the fruits of spiritual powers.
+['ZH_T28_1546_017:0123b20_21']	彼亦如是，是智果故，以智名說。	彼亦如是，是智果故，以智名說。	It is the same for this, because it is the fruit of wisdom, it is called wisdom.
+['ZH_T28_1546_017:0123b21_5']	何故名應者？	何故名應者？	Why is it called the one who should be?
+['ZH_T28_1546_017:0123b22_5']	應受供養故名應，世界所有上供盡應受故。	應受供養故名應，世界所有上供盡應受故。	Because he should receive offerings, he is called the one who should be, because he should receive all the best offerings in the world.
+['ZH_T28_1546_017:0123b22_13']	何故名不親近者？	何故名不親近者？	Why is it called the one who does not associate closely?
+['ZH_T28_1546_017:0123b23_1']	以無可親近故。	以無可親近故。	Because there is nothing to associate closely with.
+['ZH_T28_1546_017:0123b24_8']	有為法以貪其果而親近之，如人為貪蔭涼花果故親近於樹。	有為法以貪其果而親近之，如人為貪蔭涼花果故親近於樹。	Conditioned dharmas are associated with them because of craving for their fruits, just as a person associates closely with a tree because of craving for its shade, coolness, flowers, and fruits.
+['ZH_T28_1546_017:0123b25_2']	彼法與上相違故，名不親近。	彼法與上相違故，名不親近。	Because those dharmas are contrary to the above, they are called not associating closely.
+['ZH_T28_1546_017:0123b25_5']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0123b26_4']	若說不親近者，何以故經中說親近明人耶？	若說不親近者，何以故經中說親近明人耶？	If it is said to be not associating closely, why does the sutra say to associate closely with wise people?
+['ZH_T28_1546_017:0123b26_7']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0123b26_12']	以得智故。	以得智故。	Because of attaining wisdom.
+['ZH_T28_1546_017:0123b27_1']	明人者，佛、若佛弟子。	明人者，佛、若佛弟子。	Wise people are buddhas or the Buddha's disciples.
+['ZH_T28_1546_017:0123b28_2']	以親近故，得所緣忍智及成就得，是故說親近。	以親近故，得所緣忍智及成就得，是故說親近。	Because of associating closely, one attains the wisdom of acceptance of the object and the attainment of accomplishment, therefore it is said to associate closely.
+['ZH_T28_1546_017:0123b29_8']	復有說者，明人所依去故說親近，如說阿羅漢去至涅槃。	復有說者，明人所依去故說親近，如說阿羅漢去至涅槃。	There is also an explanation that because the enlightened person relies on going, it is said to be close, just as it is said that the arhat goes to nirvana.
+['ZH_T28_1546_017:0123b29_15']	何故名不修者？	何故名不修者？	Why is it called not cultivated?
+['ZH_T28_1546_017:0123c01_2']	以不在身中。	以不在身中。	Because it is not present in the body.
+['ZH_T28_1546_017:0123c02_3']	若法住在身中者，修彼法不在身中，是故不修。	若法住在身中者，修彼法不在身中，是故不修。	If a dharma is present in the body, the cultivation of that dharma is not present in the body, and therefore it is not cultivated.
+['ZH_T28_1546_017:0123c02_15']	復有說者，以無可修法故。	復有說者，以無可修法故。	There is also an explanation that because there is no dharma to be cultivated,
+['ZH_T28_1546_017:0123c03_14']	如阿毘曇所說，修法彼中無故，名曰不修。	如阿毘曇所說，修法彼中無故，名曰不修。	as it is said in the Abhidharma, because the dharmas to be cultivated are absent there, it is called not cultivated.
+['ZH_T28_1546_017:0123c04_11']	復有說者，以無可親近事故，所以不修。	復有說者，以無可親近事故，所以不修。	There is also an explanation that because there is no object to be closely attended to, it is not cultivated.
+['ZH_T28_1546_017:0123c04_14']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0123c05_4']	若不修者，此偈云何通？	若不修者，此偈云何通？	If it is not cultivated, how can this verse be understood?
+['ZH_T28_1546_017:0123c05_8']	如偈說：	如偈說：	As a verse says:
+['ZH_T28_1546_017:0123c06_0']	「瞿曇坐樹下，　　禪思不放逸，	「瞿曇坐樹下，　　禪思不放逸，	Gautama sits under a tree, contemplating without negligence,
+['ZH_T28_1546_017:0123c07_13']	不久履道迹，　　涅槃在心中。	不久履道迹，　　涅槃在心中。	Before long he will tread the path, nirvana is in his mind.
+['ZH_T28_1546_017:0123c08_2']	」答曰：	」答曰：	Answer:
+['ZH_T28_1546_017:0123c08_11']	如尊者波奢所說言：	如尊者波奢所說言：	As the Venerable Pāṣa says:
+['ZH_T28_1546_017:0123c09_7']	涅槃在心中者，心中成就涅槃得故。	涅槃在心中者，心中成就涅槃得故。	As for nirvana being in the mind, it is because nirvana is accomplished in the mind and attained.
+['ZH_T28_1546_017:0123c09_14']	何故名可樂者？	何故名可樂者？	Why is it called pleasant?
+['ZH_T28_1546_017:0123c10_20']	以離一切苦故，聖人畏苦，涅槃無身心苦故，聖人樂之。	以離一切苦故，聖人畏苦，涅槃無身心苦故，聖人樂之。	Because it is free from all suffering. The sages fear suffering, but nirvana is free from the suffering of body and mind, so the sages delight in it.
+['ZH_T28_1546_017:0123c11_15']	如苦惡戒生死增長老死，說亦如是。	如苦惡戒生死增長老死，說亦如是。	As with suffering, so with evil precepts and the growth of old age and death.
+['ZH_T28_1546_017:0123c13_3']	世尊經說時解脫是樂法、無漏戒是樂戒者，以能到涅槃故。	世尊經說時解脫是樂法、無漏戒是樂戒者，以能到涅槃故。	The World-Honored One's sutra says that timely liberation is a pleasant dharma, and that the uncontaminated precepts are pleasant precepts, because they can lead to nirvana.
+['ZH_T28_1546_017:0123c13_9']	何故名近者？	何故名近者？	Why is it called near?
+['ZH_T28_1546_017:0123c13_15']	以是有法故。	以是有法故。	Because it is an existent dharma.
+['ZH_T28_1546_017:0123c14_16']	或有說是非有法，而彼法實有體性，是故說近。	或有說是非有法，而彼法實有體性，是故說近。	Some say it is a non-existent dharma, but that dharma actually has a nature, so it is called near.
+['ZH_T28_1546_017:0123c15_6']	以是事故，世尊經說：	以是事故，世尊經說：	For this reason, the World-Honored One's sutra says:
+['ZH_T28_1546_017:0123c16_6']	行者精進成就十五法，是名學迹，得近涅槃。	行者精進成就十五法，是名學迹，得近涅槃。	The practitioner who diligently accomplishes fifteen dharmas is called a learner's trace, and attains proximity to nirvana.
+['ZH_T28_1546_017:0123c16_16']	復次不選擇身故名近。	復次不選擇身故名近。	Moreover, it is called near because the body is not selected.
+['ZH_T28_1546_017:0123c17_18']	若剎利修道即證，婆羅門、毘舍、首陀修道亦證。	若剎利修道即證，婆羅門、毘舍、首陀修道亦證。	If a kshatriya practices and realizes, a brahmin, vaishya, or shudra who practices also realizes.
+['ZH_T28_1546_017:0123c18_8']	復次不選擇處所故名近。	復次不選擇處所故名近。	Moreover, it is called near because the location is not selected.
+['ZH_T28_1546_017:0123c19_3']	若於村落、若於靜處修道即得。	若於村落、若於靜處修道即得。	Whether cultivating the path in a village or in a quiet place, one can attain it.
+['ZH_T28_1546_017:0123c19_13']	復次以是近觀故名近。	復次以是近觀故名近。	Furthermore, because it is a proximate observation, it is called proximate.
+['ZH_T28_1546_017:0123c20_14']	諸聖起緣，彼忍智現在前，正觀此法如在目前。	諸聖起緣，彼忍智現在前，正觀此法如在目前。	When the noble ones give rise to the present forbearance and knowledge that takes that as its object, they correctly observe this dharma as if it were right before their eyes.
+['ZH_T28_1546_017:0123c21_4']	復次以比相故知近。	復次以比相故知近。	Furthermore, because of the characteristics of inference, one knows it is proximate.
+['ZH_T28_1546_017:0123c21_15']	如《波伽羅那經》所說：	如《波伽羅那經》所說：	As the Pārāyaṇa Sūtra says:
+['ZH_T28_1546_017:0123c21_20']	云何遠法？	云何遠法？	What are distant dharmas?
+['ZH_T28_1546_017:0123c22_5']	謂過去未來法。	謂過去未來法。	It refers to past and future dharmas.
+['ZH_T28_1546_017:0123c22_10']	云何近法？	云何近法？	What are proximate dharmas?
+['ZH_T28_1546_017:0123c22_19']	謂現在前及無為法。	謂現在前及無為法。	It refers to present dharmas and unconditioned dharmas.
+['ZH_T28_1546_017:0123c23_10']	復次住近處得故名處近。	復次住近處得故名處近。	Furthermore, because one attains it by abiding in a proximate place, it is called proximate.
+['ZH_T28_1546_017:0123c24_7']	近處者謂現在世，現在世證故名近。	近處者謂現在世，現在世證故名近。	A proximate place refers to the present world. Because the present world is realized, it is called proximate.
+['ZH_T28_1546_017:0123c24_17']	復次捨近法得故名近。	復次捨近法得故名近。	Furthermore, because one abandons proximate dharmas and attains them, it is called proximate.
+['ZH_T28_1546_017:0123c25_17']	近法名現在，聖人捨現在法入涅槃故名近。	近法名現在，聖人捨現在法入涅槃故名近。	Proximate dharmas refer to the present. Because the noble ones abandon present dharmas and enter nirvāṇa, it is called proximate.
+['ZH_T28_1546_017:0123c26_5']	尊者瞿沙說曰：	尊者瞿沙說曰：	The Venerable Ghoṣa says:
+['ZH_T28_1546_017:0123c27_3']	精勤次第趣向，修正方便者，得故名近。	精勤次第趣向，修正方便者，得故名近。	Because one attains it by diligently and sequentially directing oneself and cultivating right skillful means, it is called proximate.
+['ZH_T28_1546_017:0123c28_1']	復次聖道所依身定故，此法不爾，名近。	復次聖道所依身定故，此法不爾，名近。	Furthermore, because the body that supports the noble path is definite, this dharma is not like that, and is called near.
+['ZH_T28_1546_017:0123c28_16']	若依此身，應起聖道，餘身不能。	若依此身，應起聖道，餘身不能。	If one relies on this body, one should give rise to the noble path, and other bodies cannot.
+['ZH_T28_1546_017:0123c29_14']	涅槃不爾，隨修道所依身則能證，是名為近。	涅槃不爾，隨修道所依身則能證，是名為近。	Nirvana is not like this. It can be realized according to the body that supports the path of cultivation. This is called near.
+['ZH_T28_1546_017:0123c29_17']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0124a01_3']	何故名妙耶？	何故名妙耶？	Why is it called excellent?
+['ZH_T28_1546_017:0124a01_18']	如道亦是妙，何以獨稱涅槃為妙？	如道亦是妙，何以獨稱涅槃為妙？	If the path is also excellent, why is it exclusively called excellent nirvana?
+['ZH_T28_1546_017:0124a02_5']	波伽羅那所說：	波伽羅那所說：	The Pārāyaṇic says:
+['ZH_T28_1546_017:0124a02_10']	云何妙法？	云何妙法？	What is the excellent dharma?
+['ZH_T28_1546_017:0124a02_17']	無漏善法是也。	無漏善法是也。	It is the pure good dharma.
+['ZH_T28_1546_017:0124a02_20']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0124a03_11']	道雖是妙，涅槃是妙中妙。	道雖是妙，涅槃是妙中妙。	Although the path is excellent, nirvana is the most excellent among the excellent.
+['ZH_T28_1546_017:0124a04_9']	復次道雖是妙，雜無常過故，涅槃不爾。	復次道雖是妙，雜無常過故，涅槃不爾。	Furthermore, although the path is excellent, it is mixed with impermanent faults. Nirvana is not like this.
+['ZH_T28_1546_017:0124a06_18']	復次道有對治厭惡善根故，如空空三昧、無相無相三昧、無願無願三昧，無有善法能厭惡涅槃者，故名為妙。	復次道有對治厭惡善根故，如空空三昧、無相無相三昧、無願無願三昧，無有善法能厭惡涅槃者，故名為妙。	Furthermore, because the path has antidotes and is despised by the wholesome roots, like the emptiness of emptiness samādhi, the signlessness of signlessness samādhi, and the wishlessness of wishlessness samādhi, there is no wholesome dharma that can despise nirvana. Therefore, it is called excellent.
+['ZH_T28_1546_017:0124a07_1']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0124a07_9']	涅槃何故名離耶？	涅槃何故名離耶？	Why is nirvana called separation?
+['ZH_T28_1546_017:0124a07_16']	如道亦是離相。	如道亦是離相。	It is also characterized by separation, like the path.
+['ZH_T28_1546_017:0124a08_4']	如波伽羅那所說：	如波伽羅那所說：	As stated in the Pāṭho:
+['ZH_T28_1546_017:0124a08_9']	云何離法？	云何離法？	What are the separated dharmas?
+['ZH_T28_1546_017:0124a08_12']	答言：	答言：	The answer is:
+['ZH_T28_1546_017:0124a10_2']	欲界繫，或色無色界繫，出要寂靜善定、學法無學法、數滅等法是也。	欲界繫，或色無色界繫，出要寂靜善定、學法無學法、數滅等法是也。	Those connected to the desire realm, or those connected to the form or formless realms, the good samādhi of liberation and tranquility, the dharmas of learning and the dharmas of no-more-learning, and the various kinds of cessation are like this.
+['ZH_T28_1546_017:0124a10_5']	答曰：	答曰：	The answer is:
+['ZH_T28_1546_017:0124a10_18']	涅槃唯是離，道是離是可離。	涅槃唯是離，道是離是可離。	Nirvana is only separation, the path is separation and can be separated.
+['ZH_T28_1546_017:0124a11_8']	復次捨一切法故言離。	復次捨一切法故言離。	Moreover, it is said to be separated because it abandons all dharmas.
+['ZH_T28_1546_017:0124a11_16']	有漏法有二種捨：	有漏法有二種捨：	There are two kinds of abandonment of contaminated dharmas:
+['ZH_T28_1546_017:0124a12_3']	一者離欲捨；	一者離欲捨；	First, the abandonment of separation from desire;
+['ZH_T28_1546_017:0124a12_8']	二者棄捨。	二者棄捨。	Second, the abandonment of discarding.
+['ZH_T28_1546_017:0124a13_4']	無漏有為法雖無離欲捨，而有棄捨；	無漏有為法雖無離欲捨，而有棄捨；	Although uncontaminated conditioned dharmas do not have the abandonment of separation from desire, they do have the abandonment of discarding;
+['ZH_T28_1546_017:0124a13_15']	涅槃無離欲捨亦無棄捨。	涅槃無離欲捨亦無棄捨。	Nirvana does not have the abandonment of separation from desire, nor does it have the abandonment of discarding.
+['ZH_T28_1546_017:0124a14_4']	復次第一義是離。	復次第一義是離。	Moreover, the ultimate truth is separation.
+['ZH_T28_1546_017:0124a14_17']	以色故離欲，以無色故離色。	以色故離欲，以無色故離色。	Because of form, one separates from desire; because of the formless, one separates from form.
+['ZH_T28_1546_017:0124a15_13']	諸有所作、諸有所思，以涅槃故離。	諸有所作、諸有所思，以涅槃故離。	All that is done and all that is thought, because of nirvana, one separates from them.
+['ZH_T28_1546_017:0124a16_5']	云何非數滅？	云何非數滅？	What is non-analytical cessation?
+['ZH_T28_1546_017:0124a16_8']	答曰：	答曰：	The answer is:
+['ZH_T28_1546_017:0124a16_14']	是滅非解脫。	是滅非解脫。	This cessation is not liberation.
+['ZH_T28_1546_017:0124a16_17']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0124a17_3']	何故名非數滅？	何故名非數滅？	Why is it called non-analytical cessation?
+['ZH_T28_1546_017:0124a17_6']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0124a17_19']	不以功作而得，是名非數滅。	不以功作而得，是名非數滅。	It is not attained through effort, and is called non-analytical cessation.
+['ZH_T28_1546_017:0124a18_3']	所以者何？	所以者何？	Why is it so?
+['ZH_T28_1546_017:0124a20_3']	如人住此，四方所有色聲香味觸是五識身所緣法，不以功作而住、不生法中，故非數滅。	如人住此，四方所有色聲香味觸是五識身所緣法，不以功作而住、不生法中，故非數滅。	For example, a person dwelling here, the forms, sounds, smells, tastes, and tactile objects in the four directions are the objects of the five sense consciousnesses. Not dwelling through effort, not arising in the dharma, it is therefore non-analytical cessation.
+['ZH_T28_1546_017:0124a20_6']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0124a20_15']	以何法能得此法耶？	以何法能得此法耶？	By what dharma can one attain this dharma?
+['ZH_T28_1546_017:0124a20_18']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0124a21_16']	或有說者，以過去未來陰入界，非現在世。	或有說者，以過去未來陰入界，非現在世。	Some say that it is the past and future aggregates, sense bases, and elements, not the present world.
+['ZH_T28_1546_017:0124a22_1']	所以者何？	所以者何？	Why is it so?
+['ZH_T28_1546_017:0124a22_13']	以陰入界現在身中可得故。	以陰入界現在身中可得故。	Because the aggregates, sense bases, and elements in the present body can be obtained.
+['ZH_T28_1546_017:0124a24_1']	如此說者，一一剎那中有失有得，剎那生時失、剎那滅時得。	如此說者，一一剎那中有失有得，剎那生時失、剎那滅時得。	Those who say this have loss and gain in each moment. When a moment arises, there is loss. When a moment ceases, there is gain.
+['ZH_T28_1546_017:0124a24_16']	復有說者，未來世中得，非過去。	復有說者，未來世中得，非過去。	Again, some say that it is attained in the future, not in the past.
+['ZH_T28_1546_017:0124a24_21']	所以者何？	所以者何？	Why is it so?
+['ZH_T28_1546_017:0124a25_16']	過去諸陰曾在身中，今日陰即在身故。	過去諸陰曾在身中，今日陰即在身故。	Because the past aggregates were once in the body, and the present aggregates are in the body today.
+['ZH_T28_1546_017:0124a26_3']	此說亦有過。	此說亦有過。	This explanation also has a fault.
+['ZH_T28_1546_017:0124a26_8']	所以者何？	所以者何？	Why is it so?
+['ZH_T28_1546_017:0124a26_20']	未來法生時，此法亦捨故。	未來法生時，此法亦捨故。	Because when future dharmas arise, these dharmas are also abandoned.
+['ZH_T28_1546_017:0124a27_2']	評曰：	評曰：	The judges say:
+['ZH_T28_1546_017:0124a28_7']	於未來不生法中得，如是說者好，以是故一切時常增益。	於未來不生法中得，如是說者好，以是故一切時常增益。	It is good to say that it is obtained among future dharmas that do not arise, because in this way it is always increased.
+['ZH_T28_1546_017:0124a28_10']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0124a28_20']	數滅多、非數滅多耶？	數滅多、非數滅多耶？	Are the many cessations through application, or are the many cessations not through application?
+['ZH_T28_1546_017:0124a29_2']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0124a29_16']	或有說者，數滅多，非數滅少。	或有說者，數滅多，非數滅少。	Some say: Cessation through application is more, and cessation not through application is less.
+['ZH_T28_1546_017:0124b01_1']	所以者何？	所以者何？	Why is it so?
+['ZH_T28_1546_017:0124b02_8']	數滅於過去未來現在法中得，非數滅唯未來不生法中得故。	數滅於過去未來現在法中得，非數滅唯未來不生法中得故。	Because cessation through application is obtained among past, future, and present dharmas, while cessation not through application is only obtained among future dharmas that do not arise.
+['ZH_T28_1546_017:0124b03_2']	復有說者，非數滅多，數滅少。	復有說者，非數滅多，數滅少。	Some say: Cessation not through application is more, and cessation through application is less.
+['ZH_T28_1546_017:0124b03_7']	所以者何？	所以者何？	Why is it so?
+['ZH_T28_1546_017:0124b04_8', 'ZH_T28_1546_017:0124b04_11']	非數滅有漏無漏法中得，數滅唯有漏法中得故。🔽評曰：	非數滅有漏無漏法中得，數滅唯有漏法中得故。 評曰：	Because cessation not through application is obtained among contaminated and uncontaminated dharmas, while cessation through application is only obtained among contaminated dharmas.🔽The judges say:
+['ZH_T28_1546_017:0124b04_16']	應作是說：	應作是說：	It should be said:
+['ZH_T28_1546_017:0124b05_14']	此二法俱無量無邊，以是事故應作四句。	此二法俱無量無邊，以是事故應作四句。	These two dharmas are both immeasurable and boundless, and for this reason, four sentences should be made.
+['ZH_T28_1546_017:0124b08_16']	有法是數滅所得非非數滅所得，有法非數滅所得非是數滅所得，有法亦數滅所得亦非數滅所得，有法非數滅所得亦非非數滅所得。	有法是數滅所得非非數滅所得，有法非數滅所得非是數滅所得，有法亦數滅所得亦非數滅所得，有法非數滅所得亦非非數滅所得。	There are dharmas that are obtained by counting cessation but not by non-counting cessation, there are dharmas that are not obtained by counting cessation and are not obtained by non-counting cessation, there are dharmas that are obtained by counting cessation and are also obtained by non-counting cessation, and there are dharmas that are not obtained by counting cessation and are also not obtained by non-counting cessation.
+['ZH_T28_1546_017:0124b09_17']	初句者，過去現在有漏法及未來世生者是也。	初句者，過去現在有漏法及未來世生者是也。	The first sentence refers to past and present contaminated dharmas and those that will arise in the future.
+['ZH_T28_1546_017:0124b10_14']	第二句者，未來世不生無漏法是也。	第二句者，未來世不生無漏法是也。	The second sentence refers to uncontaminated dharmas that will not arise in the future.
+['ZH_T28_1546_017:0124b11_10']	第三句者，謂未來世不生有漏法是。	第三句者，謂未來世不生有漏法是。	The third sentence refers to contaminated dharmas that will not arise in the future.
+['ZH_T28_1546_017:0124b12_16']	第四句者，謂過去現在無漏法、未來世必生無漏法是也。	第四句者，謂過去現在無漏法、未來世必生無漏法是也。	The fourth sentence refers to past and present uncontaminated dharmas and uncontaminated dharmas that will definitely arise in the future.
+['ZH_T28_1546_017:0124b13_16']	如住此凡夫人得五道中五識，非數滅。	如住此凡夫人得五道中五識，非數滅。	For example, when an ordinary person dwells in this [realm], they obtain the five consciousnesses in the five destinies, which are non-counting cessations.
+['ZH_T28_1546_017:0124b14_2']	所以者何？	所以者何？	Why is it so?
+['ZH_T28_1546_017:0124b15_12']	彼中所有色聲香味觸緣彼識住，在不生法中故，是以得彼非數滅。	彼中所有色聲香味觸緣彼識住，在不生法中故，是以得彼非數滅。	The consciousness that takes form, sound, smell, taste, and touch as objects in those realms abides in the unborn dharmas, and therefore one attains their non-analytical cessation.
+['ZH_T28_1546_017:0124b16_15']	如此處色聲香味觸，彼五處眾生亦於此得非數滅。	如此處色聲香味觸，彼五處眾生亦於此得非數滅。	In this way, the five sense objects of form, sound, smell, taste, and touch are also attained as non-analytical cessation by sentient beings in those realms.
+['ZH_T28_1546_017:0124b17_14']	若惡道分已斷者，彼盡得惡道中非數滅。	若惡道分已斷者，彼盡得惡道中非數滅。	If the part of the evil destinies has been severed, one attains the non-analytical cessation of the evil destinies.
+['ZH_T28_1546_017:0124b17_17']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0124b18_3']	誰能斷惡道？	誰能斷惡道？	Who can sever the evil destinies?
+['ZH_T28_1546_017:0124b18_6']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0124b20_12']	或是布施、或是持戒、或是聞慧，或是思慧，如不淨、阿那般那、念處，或是修慧，如煗法、頂法至忍必斷。	或是布施、或是持戒、或是聞慧，或是思慧，如不淨、阿那般那、念處，或是修慧，如煗法、頂法至忍必斷。	It may be through giving, or through upholding precepts, or through the wisdom of hearing, or through the wisdom of contemplation, such as impurity, mindfulness of breathing, or the bases of mindfulness, or through the wisdom of cultivation, such as the dharmas of heat, the dharmas of summits, up to forbearance will definitely sever them.
+['ZH_T28_1546_017:0124b20_20']	尊者婆檀陀說曰：	尊者婆檀陀說曰：	The Venerable Vatthāyana said:
+['ZH_T28_1546_017:0124b21_13']	若不因覺知緣起法則不斷惡道。	若不因覺知緣起法則不斷惡道。	If one does not rely on understanding dependent origination, then the evil destinies will not be severed.
+['ZH_T28_1546_017:0124b21_18']	此說云何？	此說云何？	What does this mean?
+['ZH_T28_1546_017:0124b22_12']	言覺知緣起法者盡是無漏道。	言覺知緣起法者盡是無漏道。	Those who are said to understand dependent origination are all of the uncontaminated path.
+['ZH_T28_1546_017:0124b22_15']	評曰：	評曰：	The judges say:
+['ZH_T28_1546_017:0124b23_2']	不應作是說。	不應作是說。	This should not be said.
+['ZH_T28_1546_017:0124b23_8']	如是說者好：	如是說者好：	Those who say this are good:
+['ZH_T28_1546_017:0124b24_15']	或以布施、或以持戒得惡道非數滅，乃至以頂得惡道非數滅。	或以布施、或以持戒得惡道非數滅，乃至以頂得惡道非數滅。	Or by giving or by upholding precepts, one attains the non-analytical cessation of the evil destinies. Up to the peak [of existence] one attains the non-analytical cessation of the evil destinies.
+['ZH_T28_1546_017:0124b25_18']	自有眾生得如上善根惡道分斷，鈍根者乃至忍斷。	自有眾生得如上善根惡道分斷，鈍根者乃至忍斷。	There are sentient beings who attain the above wholesome roots and sever the portion of the evil destinies. Those with dull faculties sever up to the acceptance [of the truth].
+['ZH_T28_1546_017:0124b26_2']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0124b26_19']	為一時得三惡道非數滅、為次第得耶？	為一時得三惡道非數滅、為次第得耶？	Do they attain the non-analytical cessation of the three evil destinies all at once, or do they attain them in sequence?
+['ZH_T28_1546_017:0124b27_2']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0124b27_13']	或有說者，三種一時得。	或有說者，三種一時得。	Some say that the three are attained all at once.
+['ZH_T28_1546_017:0124b27_16']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0124b29_1']	若爾者，提婆達多生地獄中，豈非得餓鬼、畜生非數滅耶？	若爾者，提婆達多生地獄中，豈非得餓鬼、畜生非數滅耶？	If so, when Devadatta was born in hell, did he not attain the non-analytical cessation of hungry ghosts and animals?
+['ZH_T28_1546_017:0124b29_4']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0124c01_9']	唯除地獄一生分，餘地獄生分及餓鬼、畜生分一時得。	唯除地獄一生分，餘地獄生分及餓鬼、畜生分一時得。	Except for the portion of one birth in hell, the remaining portions of hell births, as well as the portions of hungry ghosts and animals, are attained all at once.
+['ZH_T28_1546_017:0124c01_12']	評曰：	評曰：	Discussion:
+['ZH_T28_1546_017:0124c02_12']	若起達分善根斷惡道者，一切惡道得非數滅。	若起達分善根斷惡道者，一切惡道得非數滅。	If one arouses the wholesome roots that lead to penetration and severs the evil destinies, one attains the non-analytical cessation of all evil destinies.
+['ZH_T28_1546_017:0124c03_4']	若施等斷惡道，此則不定。	若施等斷惡道，此則不定。	If one severs the evil destinies through giving and so forth, this is not definite.
+['ZH_T28_1546_017:0124c04_2']	若斷地獄，則得地獄非數滅，餘則不定。	若斷地獄，則得地獄非數滅，餘則不定。	If one severs the hells, one attains the non-acquisition of the hells, but the others are not fixed.
+['ZH_T28_1546_017:0124c04_8']	餘趣亦如是。	餘趣亦如是。	The other destinies are also like this.
+['ZH_T28_1546_017:0124c05_10']	若以達分善根斷惡道者，彼惡道一時非數滅。	若以達分善根斷惡道者，彼惡道一時非數滅。	If one severs the evil destinies with the roots of goodness that penetrate, one non-acquisition of the evil destinies at one time.
+['ZH_T28_1546_017:0124c06_18']	已說得惡道非數滅，復云何得生處非數滅？	已說得惡道非數滅，復云何得生處非數滅？	Having already explained the attainment of the non-acquisition of the evil destinies, how does one attain the non-acquisition of the birth destinies?
+['ZH_T28_1546_017:0124c07_2']	答曰：	答曰：	The answer is:
+['ZH_T28_1546_017:0124c08_17']	住增上忍時，除人天中七生分、色無色界一切處一生分，其餘諸生皆得非數滅。	住增上忍時，除人天中七生分、色無色界一切處一生分，其餘諸生皆得非數滅。	When abiding in the supreme patience, one attains the non-acquisition of all the remaining births, except for seven births in the human and heavenly realms and one birth in the form and formless realms.
+['ZH_T28_1546_017:0124c10_9']	須陀洹趣斯陀含果，住方便道不起，得斯陀含、得欲界六生分非數滅；	須陀洹趣斯陀含果，住方便道不起，得斯陀含、得欲界六生分非數滅；	A stream-enterer who is progressing towards the fruit of once-returning, abiding in the path of preparation and not arising, attains once-returning and the non-acquisition of six births in the desire realm.
+['ZH_T28_1546_017:0124c11_5']	若起得者，住第六無礙道時得也。	若起得者，住第六無礙道時得也。	If one attains it by arising, it is attained when abiding in the sixth unobstructed path.
+['ZH_T28_1546_017:0124c12_18']	若斯陀含趣阿那含果，住方便道不起，得阿那含、得欲界一生分非數滅。	若斯陀含趣阿那含果，住方便道不起，得阿那含、得欲界一生分非數滅。	If a once-returner who is progressing towards the fruit of non-returning, abiding in the path of preparation and not arising, attains non-returning and the non-acquisition of one birth in the desire realm.
+['ZH_T28_1546_017:0124c13_15']	最後無礙道，當得欲界一切生分數滅。	最後無礙道，當得欲界一切生分數滅。	In the final unobstructed path, one attains the extinction of all birth-stages in the desire realm that is not due to spiritual practice.
+['ZH_T28_1546_017:0124c15_8']	若起得者，最後無礙道得欲界一生分非數滅，當得欲界一切生分數滅。	若起得者，最後無礙道得欲界一生分非數滅，當得欲界一切生分數滅。	If one attains the ability to manifest [the extinction of defilements], in the final unobstructed path one attains the extinction of one birth-stage in the desire realm that is not due to spiritual practice, and one attains the extinction of all birth-stages in the desire realm that is due to spiritual practice.
+['ZH_T28_1546_017:0124c17_2']	離初禪欲時，若是不退法，住方便道不起者，得初禪二分二生分非數滅。	離初禪欲時，若是不退法，住方便道不起者，得初禪二分二生分非數滅。	When one is free from desire for the first trance state, if one is not a person of non-retrogression and does not arise from the path of preparation, one attains the extinction of two parts and two birth-stages in the first trance state that is not due to spiritual practice.
+['ZH_T28_1546_017:0124c17_19']	最後無礙道，當得初禪一切生分數滅。	最後無礙道，當得初禪一切生分數滅。	In the final unobstructed path, one attains the extinction of all birth-stages in the first trance state that is due to spiritual practice.
+['ZH_T28_1546_017:0124c19_6']	若起者，最後無礙道得二生分非數滅，當得一切生分數滅。	若起者，最後無礙道得二生分非數滅，當得一切生分數滅。	If one arises [from the path of preparation], in the final unobstructed path one attains the extinction of two birth-stages that is not due to spiritual practice, and one attains the extinction of all birth-stages that is due to spiritual practice.
+['ZH_T28_1546_017:0124c21_2']	若是退法，若起若不起，最後無礙道當得初禪地一切生分數滅，不得非數滅。	若是退法，若起若不起，最後無礙道當得初禪地一切生分數滅，不得非數滅。	If one is a person of retrogression, whether one arises or not, in the final unobstructed path one attains the extinction of all birth-stages in the first trance state that is due to spiritual practice, and one does not attain the extinction that is not due to spiritual practice.
+['ZH_T28_1546_017:0124c21_16']	乃至離無所有處欲，說亦如是。	乃至離無所有處欲，說亦如是。	Up to being free from desire for the sphere of nothingness, the explanation is the same.
+['ZH_T28_1546_017:0124c24_15']	若離非想非非想處欲，若是不退，住方便道不起者，得非想非非想處一生分非數滅，最後無礙道當得非想非非想處一切生分數滅。	若離非想非非想處欲，若是不退，住方便道不起者，得非想非非想處一生分非數滅，最後無礙道當得非想非非想處一切生分數滅。	If one who has not yet abandoned desire for the sphere of neither-perception-nor-non-perception, who is not a non-returner, who abides in the path of preparation and does not arise, attains the non-analytical cessation of one life in the sphere of neither-perception-nor-non-perception, and in the final unobstructed path, one will attain the analytical cessation of all lives in the sphere of neither-perception-nor-non-perception.
+['ZH_T28_1546_017:0124c26_11']	若起者，最後無礙道得非想非非想處一生分非數滅，當得一切生分數滅。	若起者，最後無礙道得非想非非想處一生分非數滅，當得一切生分數滅。	If one arises, in the final unobstructed path, one attains the non-analytical cessation of one life in the sphere of neither-perception-nor-non-perception, and will attain the analytical cessation of all lives.
+['ZH_T28_1546_017:0124c28_17']	若是退法，不起離欲者，住方便道，得八地餘生分非數滅，最後無礙道當得非想非非想處一切生分數滅。	若是退法，不起離欲者，住方便道，得八地餘生分非數滅，最後無礙道當得非想非非想處一切生分數滅。	If one is of the type to regress, who does not arise to abandon desire, abiding in the path of preparation, one attains the non-analytical cessation of the remaining lives in the eight stages, and in the final unobstructed path, one will attain the analytical cessation of all lives in the sphere of neither-perception-nor-non-perception.
+['ZH_T28_1546_017:0125a01_16']	若起者，最後無礙道得八地中餘生分非數滅，當得非想非非想處一切生分數滅。	若起者，最後無礙道得八地中餘生分非數滅，當得非想非非想處一切生分數滅。	If one arises, in the final unobstructed path, one attains the non-analytical cessation of the remaining lives in the eight stages, and will attain the analytical cessation of all lives in the sphere of neither-perception-nor-non-perception.
+['ZH_T28_1546_017:0125a02_11']	已說生處，諸煩惱復云何？	已說生處，諸煩惱復云何？	Having explained the realms of rebirth, what about the afflictions?
+['ZH_T28_1546_017:0125a02_14']	答曰：	答曰：	The answer is:
+['ZH_T28_1546_017:0125a04_5']	住增上忍時，得三界見道所斷煩惱非數滅，隨無礙道隨種當得數滅。	住增上忍時，得三界見道所斷煩惱非數滅，隨無礙道隨種當得數滅。	When abiding in the supreme patience, one attains the non-analytical cessation of the afflictions eliminated by the path of seeing in the three realms, and according to the unobstructed path, one will attain the analytical cessation according to the type.
+['ZH_T28_1546_017:0125a05_18']	若是聖人、是不退法、是不起、離欲界欲、隨所斷種、住方便道，得非數滅。	若是聖人、是不退法、是不起、離欲界欲、隨所斷種、住方便道，得非數滅。	If one is a noble person, one who is not subject to regression, one who is not subject to retrogressing, one who is free from desire for the desire realm, according to the type of afflictions eliminated, abiding in the path of preparation, one attains the non-analytical cessation.
+['ZH_T28_1546_017:0125a06_9', 'ZH_T28_1546_017:0125a07_9']	隨無礙道隨種，當得數滅。🔽若起者，隨無礙道隨種，得非數滅，當得數滅。	隨無礙道隨種，當得數滅。 若起者，隨無礙道隨種，得非數滅，當得數滅。	According to the unobstructed path, one will attain the analytical cessation according to the type.🔽If one retrogresses, according to the unobstructed path, one attains the non-analytical cessation according to the type, and will attain the analytical cessation.
+['ZH_T28_1546_017:0125a08_17']	若是退法，若起若不起，隨無礙道隨種，不得非數滅，當得數滅。	若是退法，若起若不起，隨無礙道隨種，不得非數滅，當得數滅。	If one is subject to regression, whether retrogressing or not, according to the unobstructed path, one does not attain the non-analytical cessation, and will attain the analytical cessation.
+['ZH_T28_1546_017:0125a09_13']	乃至離非想非非想處欲，說亦如是。	乃至離非想非非想處欲，說亦如是。	Up to being free from desire for the sphere of neither-perception-nor-non-perception, the explanation is the same.
+['ZH_T28_1546_017:0125a09_16']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0125a10_10']	退法者，於諸煩惱何時得非數滅？	退法者，於諸煩惱何時得非數滅？	When are the afflictions of one subject to regression attained as non-analytical cessation?
+['ZH_T28_1546_017:0125a10_13']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0125a11_17']	或有說者，若信解脫轉根得見到時，解脫轉根得不動。	或有說者，若信解脫轉根得見到時，解脫轉根得不動。	Some say: If one of faith liberation transforms faculties and attains to the view-attained, then liberation transforms faculties and attains to unshakable.
+['ZH_T28_1546_017:0125a12_1']	評曰：	評曰：	Commentary:
+['ZH_T28_1546_017:0125a12_6']	應作是說：	應作是說：	One should say:
+['ZH_T28_1546_017:0125a13_4']	若得決定更不退，爾時得諸煩惱非數滅。	若得決定更不退，爾時得諸煩惱非數滅。	If one attains certainty and never regresses again, at that time one attains the non-analytical cessation of all afflictions.
+['ZH_T28_1546_017:0125a13_14']	以是事故，而作四句。	以是事故，而作四句。	For this reason, four alternatives are made.
+['ZH_T28_1546_017:0125a15_10']	或有煩惱先得非數滅後得數滅，先得數滅後得非數滅，或有俱得，或有俱不得。	或有煩惱先得非數滅後得數滅，先得數滅後得非數滅，或有俱得，或有俱不得。	There are afflictions that first attain non-analytical cessation and later attain analytical cessation, afflictions that first attain analytical cessation and later attain non-analytical cessation, afflictions that are both attained simultaneously, and afflictions that are not attained simultaneously.
+['ZH_T28_1546_017:0125a18_3']	初句者，住增上忍，於三界見道所斷煩惱，是不退法、不起離欲，住方便道修道所斷煩惱，是謂先得非數滅後得數滅。	初句者，住增上忍，於三界見道所斷煩惱，是不退法、不起離欲，住方便道修道所斷煩惱，是謂先得非數滅後得數滅。	The first alternative refers to abiding in the supreme patience, the afflictions to be eliminated by the path of seeing in the three realms, which are for those who are not subject to retrogression and do not arouse detachment, and the afflictions to be eliminated by the path of cultivation while abiding in the path of preparation. This is called first attaining non-analytical cessation and later attaining analytical cessation.
+['ZH_T28_1546_017:0125a19_14']	第二句者，若是退法，三界修道所斷煩惱，是謂先得數滅後得非數滅。	第二句者，若是退法，三界修道所斷煩惱，是謂先得數滅後得非數滅。	The second alternative refers to those who are subject to retrogression, the afflictions to be eliminated by the path of cultivation in the three realms. This is called first attaining analytical cessation and later attaining non-analytical cessation.
+['ZH_T28_1546_017:0125a21_4']	第三句者，若是不退法，起離欲，隨無礙道、隨種，得非數滅得數滅。	第三句者，若是不退法，起離欲，隨無礙道、隨種，得非數滅得數滅。	The third alternative refers to those who are not subject to retrogression, who arouse detachment, and according to the unobstructed path and type, attain both non-analytical cessation and analytical cessation.
+['ZH_T28_1546_017:0125a22_11']	復有離欲界欲斷上上煩惱時，染污五識身於所緣得非數滅。	復有離欲界欲斷上上煩惱時，染污五識身於所緣得非數滅。	Furthermore, when one is free from desire for the desire realm and eliminates the upper upper afflictions, the defiled five consciousnesses obtain non-analytical cessation with regard to their objects.
+['ZH_T28_1546_017:0125a23_6']	得數滅，乃至離八種欲亦如是。	得數滅，乃至離八種欲亦如是。	They obtain analytical cessation, and so on up to being free from the desire for the eighth stage.
+['ZH_T28_1546_017:0125a25_10']	若斷下下煩惱時，彼下下染污五識身，於所緣得非數滅得數滅，亦得欲界善不隱沒無記行數滅。	若斷下下煩惱時，彼下下染污五識身，於所緣得非數滅得數滅，亦得欲界善不隱沒無記行數滅。	When eliminating the lower lower afflictions, those lower lower defiled five consciousnesses obtain non-analytical cessation with regard to their objects and obtain analytical cessation, and also obtain the desire realm wholesome and unwholesome indeterminate dharmas' analytical cessation.
+['ZH_T28_1546_017:0125a27_11']	離初禪欲，斷上上煩惱，彼上上染污三識身，於所緣得非數滅得數滅，離八種欲亦如是。	離初禪欲，斷上上煩惱，彼上上染污三識身，於所緣得非數滅得數滅，離八種欲亦如是。	When free from desire for the first dhyāna and eliminating the upper upper afflictions, those upper upper defiled three consciousnesses obtain non-analytical cessation with regard to their objects and obtain analytical cessation, and so on up to being free from the desire for the eighth stage.
+['ZH_T28_1546_017:0125a29_18']	若斷下下煩惱時，彼初禪下下染污三識身，於所緣得非數滅得數滅，亦得初禪地善不隱沒無記行數滅。	若斷下下煩惱時，彼初禪下下染污三識身，於所緣得非數滅得數滅，亦得初禪地善不隱沒無記行數滅。	When eliminating the lower lower afflictions, those first dhyāna lower lower defiled three consciousnesses obtain non-analytical cessation with regard to their objects and obtain analytical cessation, and also obtain the first dhyāna stage wholesome and unwholesome indeterminate dharmas' analytical cessation.
+['ZH_T28_1546_017:0125b01_4']	是謂俱得。	是謂俱得。	This is called obtaining both.
+['ZH_T28_1546_017:0125b01_15']	第四句者，除上爾所事。	第四句者，除上爾所事。	The fourth case is excluding the above matters.
+['ZH_T28_1546_017:0125b02_9']	已說煩惱，道復云何？	已說煩惱，道復云何？	Having explained the afflictions, what is the path?
+['ZH_T28_1546_017:0125b02_12']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0125b03_11']	堅信人行堅信道時，於堅法道得非數滅。	堅信人行堅信道時，於堅法道得非數滅。	When a person of firm faith practices the path of firm faith, they attain non-analytical cessation with regard to the path of firm dharmas.
+['ZH_T28_1546_017:0125b04_10']	堅法人行堅法道時，於堅信道得非數滅。	堅法人行堅法道時，於堅信道得非數滅。	When a person of firm dharmas practices the path of firm dharmas, they attain non-analytical cessation with regard to the path of firm faith.
+['ZH_T28_1546_017:0125b05_9']	見到人行見到道時，於信解脫道得非數滅。	見到人行見到道時，於信解脫道得非數滅。	When a person of insight practices the path of insight, they attain non-analytical cessation with regard to the path of liberation by faith.
+['ZH_T28_1546_017:0125b06_14']	非時解脫人行非時解脫道時，於時解脫道得非數滅。	非時解脫人行非時解脫道時，於時解脫道得非數滅。	When a person of non-occasional liberation practices the path of non-occasional liberation, they attain non-analytical cessation with regard to the path of occasional liberation.
+['ZH_T28_1546_017:0125b07_19', 'ZH_T28_1546_017:0125b09_5']	聲聞人於聲聞道決定者，於辟支佛道、佛道得非數滅。🔽辟支佛人於辟支佛道決定者，於佛道、聲聞道得非數滅。	聲聞人於聲聞道決定者，於辟支佛道、佛道得非數滅。 辟支佛人於辟支佛道決定者，於佛道、聲聞道得非數滅。	A person of the śrāvaka vehicle who is determined in the śrāvaka path attains non-analytical cessation with regard to the pratyekabuddha path and the buddha path.🔽A person of the pratyekabuddha vehicle who is determined in the pratyekabuddha path attains non-analytical cessation with regard to the buddha path and the śrāvaka path.
+['ZH_T28_1546_017:0125b10_9']	求佛道者於佛道決定時，於聲聞辟支佛道得非數滅。	求佛道者於佛道決定時，於聲聞辟支佛道得非數滅。	When a person seeking the buddha path is determined in the buddha path, they attain non-analytical cessation with regard to the śrāvaka and pratyekabuddha paths.
+['ZH_T28_1546_017:0125b10_16']	阿羅漢有六種：	阿羅漢有六種：	There are six kinds of arhats:
+['ZH_T28_1546_017:0125b11_1']	一、退法；	一、退法；	1. The one who regresses;
+['ZH_T28_1546_017:0125b11_6']	二、思法；	二、思法；	2. The one who contemplates;
+['ZH_T28_1546_017:0125b11_11']	三、護法；	三、護法；	3. The one who guards;
+['ZH_T28_1546_017:0125b11_16']	四、等住；	四、等住；	4. The one who abides equally;
+['ZH_T28_1546_017:0125b11_22']	五、能勝進；	五、能勝進；	5. The one who can progress;
+['ZH_T28_1546_017:0125b12_1']	六、不動。	六、不動。	Sixth, the immovable.
+['ZH_T28_1546_017:0125b12_4']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0125b12_18']	此諸阿羅漢於何時得非數滅耶？	此諸阿羅漢於何時得非數滅耶？	When do these arhats attain non-numerically extinguished cessation?
+['ZH_T28_1546_017:0125b13_1']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0125b14_9']	若退法者，於退法決定者，於五種得非數滅，若不決定者不得。	若退法者，於退法決定者，於五種得非數滅，若不決定者不得。	If one of the type liable to regress, in the case of one definitely liable to regress, attains non-numerically extinguished cessation in the five types, if not definite, one does not attain.
+['ZH_T28_1546_017:0125b14_19']	乃至能勝進說亦如是。	乃至能勝進說亦如是。	Up to the one capable of penetrating insight, speaking thus is also so.
+['ZH_T28_1546_017:0125b15_18']	不動法者，得不動法，於五種道得非數滅。	不動法者，得不動法，於五種道得非數滅。	The immovable type attains the immovable, and attains non-numerically extinguished cessation in the five paths.
+['ZH_T28_1546_017:0125b16_2']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0125b17_1']	非數滅皆是勝進時得，何以不是道果耶？	非數滅皆是勝進時得，何以不是道果耶？	Is non-numerically extinguished cessation not a path fruit, since it is all attained at the time of penetrating insight?
+['ZH_T28_1546_017:0125b17_4']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0125b17_19']	本離欲時，不為此法作方便得故。	本離欲時，不為此法作方便得故。	Because at the time of originally separating from desire, one does not attain by means of expedient in regard to this dharma.
+['ZH_T28_1546_017:0125b18_17']	若當為非數滅作方便者，非數滅則不可得。	若當為非數滅作方便者，非數滅則不可得。	If one were to expedient in regard to non-numerically extinguished cessation, then non-numerically extinguished cessation would be unobtainable.
+['ZH_T28_1546_017:0125b19_3']	所以者何？	所以者何？	Why is this?
+['ZH_T28_1546_017:0125b19_18']	若心貪著有，是人不能過三惡道；	若心貪著有，是人不能過三惡道；	If the mind is attached to existence, this person is unable to transcend the three evil destinies;
+['ZH_T28_1546_017:0125b20_9']	若心為涅槃，能過惡道。	若心為涅槃，能過惡道。	if the mind is for nirvana, it can transcend the evil destinies.
+['ZH_T28_1546_017:0125b21_2']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0125b21_11']	非數滅得是何心果？	非數滅得是何心果？	What is the mind fruit of attaining non-numerically extinguished cessation?
+['ZH_T28_1546_017:0125b21_14', 'ZH_T28_1546_017:0125b22_7']	答曰：🔽或有說者，是造受生處心果。	答曰： 或有說者，是造受生處心果。	Answer:🔽Some say it is the result of the mind that creates the place of rebirth.
+['ZH_T28_1546_017:0125b23_8']	復有說者，若心能使生相續，是彼心功用果。	復有說者，若心能使生相續，是彼心功用果。	Some say it is the result of the function of the mind that can cause continuity of birth.
+['ZH_T28_1546_017:0125b23_11']	評曰：	評曰：	The judges say:
+['ZH_T28_1546_017:0125b23_16']	應作是說：	應作是說：	It should be said:
+['ZH_T28_1546_017:0125b24_9']	隨住何心得非數滅，即彼心果。	隨住何心得非數滅，即彼心果。	The non-analytical cessation obtained by any abiding mind is the result of that mind.
+['ZH_T28_1546_017:0125b24_12']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0125b24_20']	於何法得非數滅？	於何法得非數滅？	In what dharmas is non-analytical cessation obtained?
+['ZH_T28_1546_017:0125b25_2']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0125b25_13']	於三界繫及不繫法中得。	於三界繫及不繫法中得。	It is obtained in the dharmas bound to the three realms and unconditioned.
+['ZH_T28_1546_017:0125b26_13']	生欲界於此四法中得，生色無色界亦如是。	生欲界於此四法中得，生色無色界亦如是。	Born in the desire realm, it is obtained in these four dharmas. Born in the form and formless realms is also like this.
+['ZH_T28_1546_017:0125b27_7']	非數滅得，隨生何地即彼地繫。	非數滅得，隨生何地即彼地繫。	The obtainment of non-analytical cessation is bound to whatever stage one is born in.
+['ZH_T28_1546_017:0125b28_2']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0125b28_13']	非數滅於何法得增長耶？	非數滅於何法得增長耶？	In what dharmas does non-analytical cessation increase?
+['ZH_T28_1546_017:0125b28_16']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0125c01_15']	生欲界中，於欲界繫五識身而得增長，亦有緣現在欲界意識身而得增長，然微細難現；	生欲界中，於欲界繫五識身而得增長，亦有緣現在欲界意識身而得增長，然微細難現；	In the desire realm, it increases in the five sense consciousnesses bound to the desire realm. It also increases in the present mental consciousness of the desire realm, but it is subtle and difficult to manifest;
+['ZH_T28_1546_017:0125c02_15']	於色界三識無量解脫勝處一切處而得增長；	於色界三識無量解脫勝處一切處而得增長；	In the form realm, the three types of consciousness, the immeasurable, the liberations, the spheres of mastery, and the spheres of totality can increase.
+['ZH_T28_1546_017:0125c03_5']	無色界唯一切處。	無色界唯一切處。	In the formless realm, only the spheres of totality.
+['ZH_T28_1546_017:0125c04_15']	生色界中，欲界五識身而得增長，意識亦得增長，然微細難現；	生色界中，欲界五識身而得增長，意識亦得增長，然微細難現；	If one is born in the form realm, the five types of consciousness in the desire realm can increase, and the mental consciousness can also increase, but it is subtle and difficult to manifest.
+['ZH_T28_1546_017:0125c05_13']	色界三識無量解脫勝處一切處而得增長；	色界三識無量解脫勝處一切處而得增長；	The three types of consciousness in the form realm, the immeasurable, the liberations, the spheres of mastery, and the spheres of totality can increase.
+['ZH_T28_1546_017:0125c06_3']	無色界唯一切處。	無色界唯一切處。	In the formless realm, only the spheres of totality.
+['ZH_T28_1546_017:0125c07_12']	生色界中，於欲界五識、色界三識無量解脫勝處一切處而得增長。	生色界中，於欲界五識、色界三識無量解脫勝處一切處而得增長。	If one is born in the form realm, the five types of consciousness in the desire realm, the three types of consciousness in the form realm, the immeasurable, the liberations, the spheres of mastery, and the spheres of totality can increase.
+['ZH_T28_1546_017:0125c08_2']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0125c09_3']	聖人生色界中，於欲界繫何法中得非數滅耶？	聖人生色界中，於欲界繫何法中得非數滅耶？	When the noble ones are born in the form realm, what dharmas bound to the desire realm do they attain non-analytical cessation of?
+['ZH_T28_1546_017:0125c09_6', 'ZH_T28_1546_017:0125c10_9']	答曰：🔽初禪命終生二禪中，初禪果欲界變化心得非數滅。	答曰： 初禪命終生二禪中，初禪果欲界變化心得非數滅。	Answer:🔽When one's life ends in the first dhyāna and one is born in the second dhyāna, the fruit of the first dhyāna and the mind of transformation in the desire realm attain non-analytical cessation.
+['ZH_T28_1546_017:0125c11_11']	若生三禪中，初禪、二禪果欲界變化心得非數滅。	若生三禪中，初禪、二禪果欲界變化心得非數滅。	If one is born in the third dhyāna, the fruit of the first and second dhyānas and the mind of transformation in the desire realm attain non-analytical cessation.
+['ZH_T28_1546_017:0125c12_18']	若生第四禪中，初禪、二禪、三禪果欲界變化心得非數滅。	若生第四禪中，初禪、二禪、三禪果欲界變化心得非數滅。	If one is born in the fourth dhyāna, the fruits of the first, second, and third dhyānas and the mind of transformation in the desire realm attain non-acquisition cessation.
+['ZH_T28_1546_017:0125c14_7']	乃至第三禪命終生第四禪中，第三禪果欲界變化心得非數滅。	乃至第三禪命終生第四禪中，第三禪果欲界變化心得非數滅。	Up to dying in the third dhyāna and being born in the fourth dhyāna, the fruits of the third dhyāna and the mind of transformation in the desire realm attain non-acquisition cessation.
+['ZH_T28_1546_017:0125c14_10']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0125c15_14']	色界命終生無色界中，於欲界繫何法中得非數滅耶？	色界命終生無色界中，於欲界繫何法中得非數滅耶？	When ending life in the form realm and being born in the formless realm, in what dharmas bound to the desire realm does one attain non-acquisition cessation?
+['ZH_T28_1546_017:0125c15_17']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0125c17_2', 'ZH_T28_1546_017:0125c18_6']	若初禪命終生無色中，四禪果欲界變化心得非數滅。🔽第二禪命終生無色中，三禪果欲界變化心得非數滅。	若初禪命終生無色中，四禪果欲界變化心得非數滅。 第二禪命終生無色中，三禪果欲界變化心得非數滅。	If one ends life in the first dhyāna and is born in the formless realm, the fruits of the four dhyānas and the mind of transformation in the desire realm attain non-acquisition cessation.🔽If one ends life in the second dhyāna and is born in the formless realm, the fruits of the three dhyānas and the mind of transformation in the desire realm attain non-acquisition cessation.
+['ZH_T28_1546_017:0125c19_10']	第三禪命終生無色中，二禪果欲界變化心得非數滅。	第三禪命終生無色中，二禪果欲界變化心得非數滅。	If one ends life in the third dhyāna and is born in the formless realm, the fruits of the two dhyānas and the mind of transformation in the desire realm attain non-acquisition cessation.
+['ZH_T28_1546_017:0125c20_15']	第四禪命終生無色中，一禪果欲界變化心得非數滅。	第四禪命終生無色中，一禪果欲界變化心得非數滅。	If one ends life in the fourth dhyāna and is born in the formless realm, the fruits of the one dhyāna and the mind of transformation in the desire realm attain non-acquisition cessation.
+['ZH_T28_1546_017:0125c21_16']	聖人生無色界中，於欲色界繫法不得非數滅。	聖人生無色界中，於欲色界繫法不得非數滅。	When an arhat is born in the formless realm, he does not obtain non-analytical cessation of dharmas bound to the desire and form realms.
+['ZH_T28_1546_017:0125c22_2']	所以者何？	所以者何？	Why is this?
+['ZH_T28_1546_017:0125c22_7']	先已得故。	先已得故。	Because he has already obtained them before.
+['ZH_T28_1546_017:0125c23_2']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0125c24_10']	先入涅槃阿羅漢得非數滅多、後入涅槃阿羅漢得非數滅多耶？	先入涅槃阿羅漢得非數滅多、後入涅槃阿羅漢得非數滅多耶？	Do arhats who enter nirvana first obtain more non-analytical cessations, or do arhats who enter nirvana later obtain more non-analytical cessations?
+['ZH_T28_1546_017:0125c24_13']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0125c25_1']	前入涅槃者多。	前入涅槃者多。	Those who enter nirvana first obtain more.
+['ZH_T28_1546_017:0125c27_7']	迦葉佛時入涅槃者則多釋迦牟尼佛時入涅槃者，釋迦牟尼佛時入涅槃者則多彌勒佛時入涅槃者。	迦葉佛時入涅槃者則多釋迦牟尼佛時入涅槃者，釋迦牟尼佛時入涅槃者則多彌勒佛時入涅槃者。	Those who enter nirvana during the time of Kāśyapa Buddha are more than those who enter nirvana during the time of Śākyamuni Buddha, and those who enter nirvana during the time of Śākyamuni Buddha are more than those who enter nirvana during the time of Maitreya Buddha.
+['ZH_T28_1546_017:0125c27_10']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0125c28_4']	何等阿羅漢成就非數滅最多？	何等阿羅漢成就非數滅最多？	Which arhats have the most non-analytical cessations?
+['ZH_T28_1546_017:0125c28_7']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0125c29_11']	生無色界阿羅漢住最後心者，於一切法得非數滅多。	生無色界阿羅漢住最後心者，於一切法得非數滅多。	Arhats born in the formless realm who abide in the final mind obtain the most non-analytical cessations of all dharmas.
+['ZH_T28_1546_017:0126a01_7']	頗有陰界入永滅而不得非數滅耶？	頗有陰界入永滅而不得非數滅耶？	Can there be the complete cessation of aggregates, realms, and sense bases without obtaining non-analytical cessation?
+['ZH_T28_1546_017:0126a01_10']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0126a02_1']	有，謂阿羅漢住最後心。	有，謂阿羅漢住最後心。	There can be, namely arhats abiding in the final mind.
+['ZH_T28_1546_017:0126a02_4']	評曰：	評曰：	Commentary:
+['ZH_T28_1546_017:0126a02_10']	不應作是說。	不應作是說。	This should not be said.
+['ZH_T28_1546_017:0126a02_15']	所以者何？	所以者何？	Why is it so?
+['ZH_T28_1546_017:0126a03_9']	無有陰界入永滅而不得非數滅者。	無有陰界入永滅而不得非數滅者。	There is no one who has completely extinguished the aggregates, realms, and sense bases without attaining non-analytical cessation.
+['ZH_T28_1546_017:0126a03_12']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0126a04_11']	阿羅漢住最後心時，非是不得非數滅耶？	阿羅漢住最後心時，非是不得非數滅耶？	When an arhat abides in the final thought, doesn't he not attain non-analytical cessation?
+['ZH_T28_1546_017:0126a04_14']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0126a04_18']	非不得。	非不得。	He does not not attain it.
+['ZH_T28_1546_017:0126a05_3']	所以者何？	所以者何？	Why is it so?
+['ZH_T28_1546_017:0126a07_2']	阿羅漢若決定欲入涅槃時，爾時除若五心六心當起現在前，餘陰界入悉得非數滅。	阿羅漢若決定欲入涅槃時，爾時除若五心六心當起現在前，餘陰界入悉得非數滅。	When an arhat definitely wishes to enter nirvana, at that time, excluding the five or six thoughts that will arise and appear in the present, the remaining aggregates, realms, and sense bases all attain non-analytical cessation.
+['ZH_T28_1546_017:0126a09_9']	世尊說有二涅槃界，謂有餘身涅槃界、無餘身涅槃界，乃至廣說。	世尊說有二涅槃界，謂有餘身涅槃界、無餘身涅槃界，乃至廣說。	The World-Honored One has said there are two nirvana realms, namely the nirvana realm with the remaining body and the nirvana realm without the remaining body, and so on at length.
+['ZH_T28_1546_017:0126a09_12']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0126a09_18']	何故作此論？	何故作此論？	Why did he compose this treatise?
+['ZH_T28_1546_017:0126a09_21']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0126a10_2']	上說。	上說。	It was said above.
+['ZH_T28_1546_017:0126a10_7']	云何數滅？	云何數滅？	What is analytical cessation?
+['ZH_T28_1546_017:0126a10_10']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0126a11_2']	若滅是解脫，彼數滅有二種：	若滅是解脫，彼數滅有二種：	If cessation is liberation, that analytical cessation is of two kinds:
+['ZH_T28_1546_017:0126a12_1']	一是有餘身涅槃界、二是無餘身涅槃界。	一是有餘身涅槃界、二是無餘身涅槃界。	one is the nirvana realm with the remaining body, and the other is the nirvana realm without the remaining body.
+['ZH_T28_1546_017:0126a13_9']	未說云何有餘身涅槃界、無餘身涅槃界，今欲說故，而作此論。	未說云何有餘身涅槃界、無餘身涅槃界，今欲說故，而作此論。	It has not yet been explained how there is a nirvana realm with remaining aggregates and a nirvana realm without remaining aggregates, so this treatise is composed to explain this.
+['ZH_T28_1546_017:0126a14_11']	復有說有餘身涅槃界有體、無餘身涅槃界無體。	復有說有餘身涅槃界有體、無餘身涅槃界無體。	Furthermore, some say that the nirvana realm with remaining aggregates has substance, while the nirvana realm without remaining aggregates has no substance.
+['ZH_T28_1546_017:0126a15_14']	復有說有餘身涅槃界是善、無餘身涅槃界是無記。	復有說有餘身涅槃界是善、無餘身涅槃界是無記。	Furthermore, some say that the nirvana realm with remaining aggregates is wholesome, while the nirvana realm without remaining aggregates is indeterminate.
+['ZH_T28_1546_017:0126a16_18']	復有說有餘身涅槃界是道果、無餘身涅槃界非道果。	復有說有餘身涅槃界是道果、無餘身涅槃界非道果。	Furthermore, some say that the nirvana realm with remaining aggregates is the fruit of the path, while the nirvana realm without remaining aggregates is not the fruit of the path.
+['ZH_T28_1546_017:0126a18_6']	復有說有餘身涅槃界是諦所攝、無餘身涅槃界非諦所攝。	復有說有餘身涅槃界是諦所攝、無餘身涅槃界非諦所攝。	Furthermore, some say that the nirvana realm with remaining aggregates is included in the truths, while the nirvana realm without remaining aggregates is not included in the truths.
+['ZH_T28_1546_017:0126a19_11']	復有說有餘身涅槃界是有為、無餘身涅槃界是無為。	復有說有餘身涅槃界是有為、無餘身涅槃界是無為。	Furthermore, some say that the nirvana realm with remaining aggregates is conditioned, while the nirvana realm without remaining aggregates is unconditioned.
+['ZH_T28_1546_017:0126a19_19']	有漏無漏亦如是。	有漏無漏亦如是。	The same applies to contaminated and uncontaminated [aggregates].
+['ZH_T28_1546_017:0126a20_16']	為止如是說者，意欲明此義俱是無漏。	為止如是說者，意欲明此義俱是無漏。	In order to refute such statements, the intention is to clarify that both of these [nirvana realms] are uncontaminated.
+['ZH_T28_1546_017:0126a22_1']	以是事故，為止他義、欲顯己義，乃至廣說，而作此論。	以是事故，為止他義、欲顯己義，乃至廣說，而作此論。	For this reason, in order to refute the meaning of others and to reveal one's own meaning, and so on, this treatise is composed.
+['ZH_T28_1546_017:0126a22_10']	云何有餘身涅槃界？	云何有餘身涅槃界？	What is the nirvana realm with remainder of the body?
+['ZH_T28_1546_017:0126a22_13']	答曰：	答曰：	The answer is:
+['ZH_T28_1546_017:0126a23_8']	阿羅漢住壽，四大未滅，乃至廣說。	阿羅漢住壽，四大未滅，乃至廣說。	The arhat dwells in life, the four great elements have not yet ceased, and so on.
+['ZH_T28_1546_017:0126a23_18']	四大者，即四大是也。	四大者，即四大是也。	The four great elements are the four great elements themselves.
+['ZH_T28_1546_017:0126a24_6']	諸根者，造色是也。	諸根者，造色是也。	The faculties are the derivative form.
+['ZH_T28_1546_017:0126a24_18']	相續心者，是心心數法也。	相續心者，是心心數法也。	The continuous mind refers to the mind and mental factors.
+['ZH_T28_1546_017:0126a25_19']	若此四大造色、心心數法未滅，是有餘身涅槃界。	若此四大造色、心心數法未滅，是有餘身涅槃界。	If these four great elements, derivative form, mind, and mental factors have not ceased, it is the nirvana realm with remainder of the body.
+['ZH_T28_1546_017:0126a27_4']	復有說者，四大是四大身，諸根即諸根，相續心是覺性。	復有說者，四大是四大身，諸根即諸根，相續心是覺性。	Furthermore, some say that the four great elements are the body of the four great elements, the faculties are the faculties themselves, and the continuous mind is the nature of cognition.
+['ZH_T28_1546_017:0126a28_2']	若身諸根、覺性未滅，是有餘身涅槃界。	若身諸根、覺性未滅，是有餘身涅槃界。	If the body, faculties, and the nature of cognition have not ceased, it is the nirvana realm with remainder of the body.
+['ZH_T28_1546_017:0126a28_18']	如是等諸有餘故，名有餘身涅槃界。	如是等諸有餘故，名有餘身涅槃界。	Because there are such remainders, it is called the nirvana realm with remainder of the body.
+['ZH_T28_1546_017:0126a29_3']	身有二種：	身有二種：	There are two kinds of bodies:
+['ZH_T28_1546_017:0126a29_9']	一、煩惱身；	一、煩惱身；	First, the body of afflictions;
+['ZH_T28_1546_017:0126b01_3']	二、生身，雖無煩惱身而有生身。	二、生身，雖無煩惱身而有生身。	Second, although there is no body with afflictions, there is a physical body.
+['ZH_T28_1546_017:0126b01_13']	復有說者，身有二種：	復有說者，身有二種：	Furthermore, there are those who say that the body is of two kinds:
+['ZH_T28_1546_017:0126b01_21']	有染污、不染污。	有染污、不染污。	There is that which is defiled and that which is undefiled.
+['ZH_T28_1546_017:0126b02_17']	染污已盡，唯有不染污，是故說四大等。	染污已盡，唯有不染污，是故說四大等。	The defiled has already been exhausted, and only the undefiled remains. Therefore, it is said to be the four great elements and so forth.
+['ZH_T28_1546_017:0126b03_4']	有餘故言有餘。	有餘故言有餘。	Because there is a remainder, it is called with remainder.
+['ZH_T28_1546_017:0126b03_11']	四大為生何法？	四大為生何法？	What dharma is produced by the four great elements?
+['ZH_T28_1546_017:0126b03_16']	謂生造色。	謂生造色。	It is said to produce derivative form.
+['ZH_T28_1546_017:0126b04_11']	依造色能生心心數法，乃至廣說。	依造色能生心心數法，乃至廣說。	It is said that derivative form is able to produce mind and mental factors, and so forth.
+['ZH_T28_1546_017:0126b05_10']	彼斷一切結得作證，是名有餘身涅槃界。	彼斷一切結得作證，是名有餘身涅槃界。	The severance of all bonds and the attainment of realization is called the realm of nirvana with a remaining body.
+['ZH_T28_1546_017:0126b05_19']	云何無餘身涅槃界？	云何無餘身涅槃界？	What is the realm of nirvana without a remaining body?
+['ZH_T28_1546_017:0126b06_16']	若阿羅漢已入涅槃四大滅，乃至廣說。	若阿羅漢已入涅槃四大滅，乃至廣說。	It is said that when an arhat enters nirvana, the four great elements cease, and so forth.
+['ZH_T28_1546_017:0126b08_2']	四大者即四大，諸根者是造色，相續心者是心心數法。	四大者即四大，諸根者是造色，相續心者是心心數法。	The four great elements are the four great elements themselves, the faculties are derivative form, and the continuum of mind is mind and mental factors.
+['ZH_T28_1546_017:0126b09_4']	若此四大、諸根、心心數法滅，是名無餘身涅槃界。	若此四大、諸根、心心數法滅，是名無餘身涅槃界。	The cessation of these four great elements, faculties, mind, and mental factors is called the realm of nirvana without a remaining body.
+['ZH_T28_1546_017:0126b10_6']	復有說者，四大身諸根即諸根，相續心是覺性。	復有說者，四大身諸根即諸根，相續心是覺性。	There are also those who say that the body's faculties are the faculties themselves, and the continuity of the mind is the nature of cognition.
+['ZH_T28_1546_017:0126b11_4']	若身諸根、覺性滅，是名無餘身涅槃界。	若身諸根、覺性滅，是名無餘身涅槃界。	If the body's faculties and the nature of cognition cease, this is called the nirvāṇa realm of the remainderless body.
+['ZH_T28_1546_017:0126b11_7']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0126b11_15']	此文不應作是說：	此文不應作是說：	This text should not be spoken of in this way:
+['ZH_T28_1546_017:0126b12_10']	身諸根覺性滅，名無餘身涅槃界。	身諸根覺性滅，名無餘身涅槃界。	The cessation of the body's faculties and the nature of cognition is called the nirvāṇa realm of the remainderless body.
+['ZH_T28_1546_017:0126b12_15']	應作是說：	應作是說：	It should be said:
+['ZH_T28_1546_017:0126b13_17']	阿羅漢斷一切結盡入於涅槃，是名無餘身涅槃界。	阿羅漢斷一切結盡入於涅槃，是名無餘身涅槃界。	The arhat who has severed all bonds and entered nirvāṇa is called the nirvāṇa realm of the remainderless body.
+['ZH_T28_1546_017:0126b14_8']	而不說者，有何意耶？	而不說者，有何意耶？	But why is it not spoken of in this way?
+['ZH_T28_1546_017:0126b14_11']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0126b15_7']	彼尊者依世俗言說，信經故而作是說。	彼尊者依世俗言說，信經故而作是說。	That Venerable One spoke of it in this way based on conventional speech and faith in the sūtras.
+['ZH_T28_1546_017:0126b19_13']	阿羅漢死時，風大能損火大，火大損故飲食不消，飲食不消故四大羸，四大羸故諸根亦劣，諸根劣故不能與心心數法作所依，心心數法無所依故則不生，心心數法不生便是無餘身涅槃界。	阿羅漢死時，風大能損火大，火大損故飲食不消，飲食不消故四大羸，四大羸故諸根亦劣，諸根劣故不能與心心數法作所依，心心數法無所依故則不生，心心數法不生便是無餘身涅槃界。	When an arhat is dying, the wind element can harm the fire element. Because the fire element is harmed, food and drink are not digested. Because food and drink are not digested, the four elements become weak. Because the four elements are weak, the faculties also become inferior. Because the faculties are inferior, they cannot serve as supports for the mind and mental factors. Because the mind and mental factors have no support, they do not arise. The non-arising of the mind and mental factors is the realm of nirvāṇa without remainder.
+['ZH_T28_1546_017:0126b19_18']	身有二種：	身有二種：	The body is of two kinds:
+['ZH_T28_1546_017:0126b20_4']	一者生身；	一者生身；	First, the born body;
+['ZH_T28_1546_017:0126b20_9']	二煩惱身。	二煩惱身。	Second, the body of afflictions.
+['ZH_T28_1546_017:0126b21_5']	彼二種身俱滅，是名無餘身涅槃界。	彼二種身俱滅，是名無餘身涅槃界。	The extinction of both kinds of bodies is called the realm of nirvāṇa without remainder.
+['ZH_T28_1546_017:0126b22_2']	復有說者，身有二種，謂染污、不染污。	復有說者，身有二種，謂染污、不染污。	Furthermore, there are those who say that the body is of two kinds, namely defiled and undefiled.
+['ZH_T28_1546_017:0126b23_3']	二種身俱滅，一切結使斷，是名無餘身涅槃界。	二種身俱滅，一切結使斷，是名無餘身涅槃界。	The extinction of both kinds of bodies, and the severing of all bonds and defilements, is called the realm of nirvāṇa without remainder.
+['ZH_T28_1546_017:0126b23_6']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0126b24_2']	此中何以不說斷一切結得作證耶？	此中何以不說斷一切結得作證耶？	Why is it not said here that one attains realization by severing all bonds and defilements?
+['ZH_T28_1546_017:0126b24_5']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0126b24_18']	以現在得作證故，言得作證。	以現在得作證故，言得作證。	Because one attains realization in the present, it is said that one attains realization.
+['ZH_T28_1546_017:0126b25_11']	彼時現在得滅故，不言得作證。	彼時現在得滅故，不言得作證。	Because it is attained in the present, it is not said to be attained and realized.
+['ZH_T28_1546_017:0126b26_8']	復有說者，有眾生處，有得誰得此得？	復有說者，有眾生處，有得誰得此得？	Moreover, there are those who say that there are sentient beings who attain this attainment.
+['ZH_T28_1546_017:0126b26_20']	言是提婆達多、延若達多。	言是提婆達多、延若達多。	It is said that this is Devadatta and Yajñadatta.
+['ZH_T28_1546_017:0126b28_5']	彼中無如是眾生差別故，唯此法性，是故不說得作證等。	彼中無如是眾生差別故，唯此法性，是故不說得作證等。	Because there is no such distinction of sentient beings in that, it is only the nature of dharmas, and therefore it is not said to be attained and realized, etc.
+['ZH_T28_1546_017:0126b29_2']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0126c01_9']	凡夫人學人斷，為是有餘身涅槃界、為是無餘身涅槃界耶？	凡夫人學人斷，為是有餘身涅槃界、為是無餘身涅槃界耶？	Is the elimination of ordinary people and learners the realm of nirvana with remainder of the aggregates or the realm of nirvana without remainder of the aggregates?
+['ZH_T28_1546_017:0126c01_12']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0126c04_19', 'ZH_T28_1546_017:0126c05_2']	亦不名有餘身涅槃界，亦不名無餘身涅槃界，但名為斷，亦名無、亦名為滅、亦名為諦少分，是斷智少分、非斷智少分，是沙門果少分、非沙門果。🔽問曰：	亦不名有餘身涅槃界，亦不名無餘身涅槃界，但名為斷，亦名無、亦名為滅、亦名為諦少分，是斷智少分、非斷智少分，是沙門果少分、非沙門果。🔽問曰：	It is neither called the realm of nirvana with remainder of the aggregates nor the realm of nirvana without remainder of the aggregates, but is simply called elimination, also called non-existence, also called cessation, also called a part of the truth, a part of the knowledge of elimination, not a part of the knowledge of non-elimination, a part of the fruits of the śramaṇa, not the fruits of the śramaṇa.
+['ZH_T28_1546_017:0126c06_7']	頗有阿羅漢不住有餘身涅槃界、不住無餘身涅槃界耶？	頗有阿羅漢不住有餘身涅槃界、不住無餘身涅槃界耶？	Is there an arhat who does not dwell in the realm of nirvana with remaining aggregates, nor in the realm of nirvana without remaining aggregates?
+['ZH_T28_1546_017:0126c06_10']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0126c06_17']	如經本所說有。	如經本所說有。	As stated in the sutra, there is.
+['ZH_T28_1546_017:0126c06_20']	如說：	如說：	As it is said:
+['ZH_T28_1546_017:0126c07_12']	具三事者，名有餘身涅槃界；	具三事者，名有餘身涅槃界；	One who possesses the three things is called one who dwells in the realm of nirvana with remaining aggregates;
+['ZH_T28_1546_017:0126c08_5']	無三事者，名無餘身涅槃界。	無三事者，名無餘身涅槃界。	One who lacks the three things is called one who dwells in the realm of nirvana without remaining aggregates.
+['ZH_T28_1546_017:0126c09_9']	生色界阿羅漢，入滅盡定，唯有四大諸根，無相續心。	生色界阿羅漢，入滅盡定，唯有四大諸根，無相續心。	An arhat born in the form realm who enters the attainment of cessation only has the four great elements and faculties, but no continuous mind.
+['ZH_T28_1546_017:0126c10_9']	生無色界阿羅漢，唯有相續心，無諸根四大。	生無色界阿羅漢，唯有相續心，無諸根四大。	An arhat born in the formless realm only has a continuous mind, but no faculties or four great elements.
+['ZH_T28_1546_017:0126c11_11']	生欲界阿羅漢，唯有四大相續心，有諸根不具者。	生欲界阿羅漢，唯有四大相續心，有諸根不具者。	An arhat born in the desire realm only has the four great elements and a continuous mind, but lacks complete faculties.
+['ZH_T28_1546_017:0126c11_14']	評曰：	評曰：	The judges say:
+['ZH_T28_1546_017:0126c12_12']	如是諸阿羅漢，皆當言住有餘身涅槃界。	如是諸阿羅漢，皆當言住有餘身涅槃界。	All such arhats should be said to dwell in the realm of nirvana with remaining aggregates.
+['ZH_T28_1546_017:0126c12_19']	經文應如是說：	經文應如是說：	The text of the sutra should be stated as follows:
+['ZH_T28_1546_017:0126c13_9']	云何住有餘身涅槃界？	云何住有餘身涅槃界？	How does one dwell in the realm of nirvana with remaining aggregates?
+['ZH_T28_1546_017:0126c13_12']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0126c14_6']	阿羅漢住壽，一切結盡得作證。	阿羅漢住壽，一切結盡得作證。	An arhat who dwells in life, with all bonds ended, attains realization.
+['ZH_T28_1546_017:0126c14_15']	云何無餘身涅槃界？	云何無餘身涅槃界？	What is the nirvana realm with no remainder of the aggregates?
+['ZH_T28_1546_017:0126c14_18']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0126c15_9']	阿羅漢一切結盡入涅槃。	阿羅漢一切結盡入涅槃。	Arhats who have extinguished all bonds enter nirvana.
+['ZH_T28_1546_017:0126c16_18']	若作是說，盡攝生欲界生色無色界、有心無心、具根不具根者。	若作是說，盡攝生欲界生色無色界、有心無心、具根不具根者。	If this is said, it completely includes those born in the desire realm, those born in the form and formless realms, those with minds and those without minds, those with complete faculties and those with incomplete faculties.
+['ZH_T28_1546_017:0126c17_6']	涅槃當言學耶？	涅槃當言學耶？	Should nirvana be said to be of learners,
+['ZH_T28_1546_017:0126c17_11']	乃至廣說。	乃至廣說。	and so on in detail.
+['ZH_T28_1546_017:0126c17_14']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0126c17_20']	何故作此論？	何故作此論？	Why was this treatise composed?
+['ZH_T28_1546_017:0126c18_2']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0126c18_18']	先說數滅是二種涅槃界，乃至廣說。	先說數滅是二種涅槃界，乃至廣說。	It was previously said that cessation is the two kinds of nirvana realms, and so on in detail.
+['ZH_T28_1546_017:0126c19_12']	未說是學、無學、非學非無學。	未說是學、無學、非學非無學。	It was not yet said whether it is of learners, post-learners, or neither learners nor post-learners.
+['ZH_T28_1546_017:0126c20_1']	今欲說故，而作此論。	今欲說故，而作此論。	Now, wishing to explain this, this treatise is composed.
+['ZH_T28_1546_017:0126c20_18']	復次何故作此論者，為止並義者意故。	復次何故作此論者，為止並義者意故。	Furthermore, why was this treatise composed? It was composed to stop the intention of those who hold contradictory views.
+['ZH_T28_1546_017:0126c21_9']	如犢子部說涅槃有三種：	如犢子部說涅槃有三種：	Like the Vātsīputrīyas who say nirvana is of three kinds:
+['ZH_T28_1546_017:0126c22_1']	是學、無學、非學非無學。	是學、無學、非學非無學。	of learners, post-learners, and neither learners nor post-learners.
+['ZH_T28_1546_017:0126c24_10']	若學斷諸結得作證是名學，若無學斷諸結得作證是名無學，若非學非無學斷諸結得作證是名非學非無學。	若學斷諸結得作證是名學，若無學斷諸結得作證是名無學，若非學非無學斷諸結得作證是名非學非無學。	If it is the realization of the abandonment of all bonds through training, it is called training. If it is the realization of the abandonment of all bonds by one beyond training, it is called beyond training. If it is the realization of the abandonment of all bonds by one neither in training nor beyond training, it is called neither in training nor beyond training.
+['ZH_T28_1546_017:0126c25_9']	為止如是說者意，欲顯己義故而作此論。	為止如是說者意，欲顯己義故而作此論。	In order to refute such statements and to demonstrate one's own view, this treatise is composed.
+['ZH_T28_1546_017:0126c26_15']	涅槃當言學、無學、非學非無學耶？	涅槃當言學、無學、非學非無學耶？	Should nirvana be said to be in training, beyond training, or neither in training nor beyond training?
+['ZH_T28_1546_017:0126c26_18']	答曰：	答曰：	The answer is:
+['ZH_T28_1546_017:0126c27_7']	涅槃當言非學非無學。	涅槃當言非學非無學。	Nirvana should be said to be neither in training nor beyond training.
+['ZH_T28_1546_017:0126c28_14']	復有說者，涅槃是學、無學、非學非無學者，此是犢子部所說。	復有說者，涅槃是學、無學、非學非無學者，此是犢子部所說。	There are also those who say that nirvana is in training, beyond training, and neither in training nor beyond training. This is the view of the Vātsīputrīya school.
+['ZH_T28_1546_017:0126c28_19']	所以者何？	所以者何？	Why is it so?
+['ZH_T28_1546_017:0127a01_16']	彼說涅槃有三種性，若學斷諸結得作證是名學也，無學、非學非無學說亦如是。	彼說涅槃有三種性，若學斷諸結得作證是名學也，無學、非學非無學說亦如是。	They say that nirvana has three natures. If it is the realization of the abandonment of all bonds through training, it is called in training. The same is said for beyond training and neither in training nor beyond training.
+['ZH_T28_1546_017:0127a02_6']	作如是說者則有大過。	作如是說者則有大過。	Those who make such statements have great errors.
+['ZH_T28_1546_017:0127a03_4']	云何一解脫體為三得所得，便有三性。	云何一解脫體為三得所得，便有三性。	How can a single essence of liberation be obtained by three realizations and thus have three natures?
+['ZH_T28_1546_017:0127a04_15']	如我義者，如此文、如此義、如此論、如我等意，涅槃是非學非無學。	如我義者，如此文、如此義、如此論、如我等意，涅槃是非學非無學。	As for my meaning, it is like this text, this meaning, this treatise, and according to our understanding, nirvana is neither training nor beyond training.
+['ZH_T28_1546_017:0127a06_3']	此是尊者迦旃延子欲顯己義、經本，應齊作是說，不應作餘說。	此是尊者迦旃延子欲顯己義、經本，應齊作是說，不應作餘說。	This is Venerable Kātyāyanīputra's desire to show his own meaning and the original sūtra. It should be said like this, and should not be said otherwise.
+['ZH_T28_1546_017:0127a06_8']	所以者何？	所以者何？	Why is it so?
+['ZH_T28_1546_017:0127a07_2']	若作餘說，育多婆提所說有過。	若作餘說，育多婆提所說有過。	If it is said otherwise, there will be faults in what Udayanabhadra says.
+['ZH_T28_1546_017:0127a07_12']	復有說者，應作餘說。	復有說者，應作餘說。	There is also another explanation that it should be said otherwise.
+['ZH_T28_1546_017:0127a07_17']	所以者何？	所以者何？	Why is it so?
+['ZH_T28_1546_017:0127a08_7']	毘婆闍婆提問育多婆提：	毘婆闍婆提問育多婆提：	Vibhajyavādin asked Udayanabhadra:
+['ZH_T28_1546_017:0127a09_3']	如是汝說涅槃是非學非無學耶？	如是汝說涅槃是非學非無學耶？	Do you say that nirvana is neither training nor beyond training?
+['ZH_T28_1546_017:0127a09_11']	此是問亦是定言。	此是問亦是定言。	This is a question and also a definitive statement.
+['ZH_T28_1546_017:0127a09_16']	所以者何？	所以者何？	Why is it so?
+['ZH_T28_1546_017:0127a10_12']	若不定他言說說他過者，是則不可。	若不定他言說說他過者，是則不可。	If one does not define the other's words and speaks of the other's faults, then it is unacceptable.
+['ZH_T28_1546_017:0127a10_19']	育多婆提答言：	育多婆提答言：	Udayanabhadra replied:
+['ZH_T28_1546_017:0127a11_2']	如是。	如是。	Yes.
+['ZH_T28_1546_017:0127a11_12']	毘婆闍婆提復作是難：	毘婆闍婆提復作是難：	Vibhajyavādin then raised this objection:
+['ZH_T28_1546_017:0127a11_17']	於意云何？	於意云何？	What do you think?
+['ZH_T28_1546_017:0127a12_13']	若先以世俗道斷結作證，乃至廣說。	若先以世俗道斷結作證，乃至廣說。	If one first cuts off the bonds through the worldly path and makes it manifest, and so on at length.
+['ZH_T28_1546_017:0127a13_4']	得阿那含果，彼是學耶？	得阿那含果，彼是學耶？	Having attained the fruit of non-returner, is one still a learner?
+['ZH_T28_1546_017:0127a13_11']	育多婆提答言：	育多婆提答言：	Yuktībhāva-ti replied:
+['ZH_T28_1546_017:0127a13_14']	不也。	不也。	No, it is not so.
+['ZH_T28_1546_017:0127a13_19']	所以者何？	所以者何？	Why is it so?
+['ZH_T28_1546_017:0127a14_9']	我說涅槃是非學非無學。	我說涅槃是非學非無學。	I say that nirvana is neither a learner nor a non-learner.
+['ZH_T28_1546_017:0127a16_3']	育多婆提欲說毘婆闍婆提過，若當先以世俗道斷結得作證，乃至廣說。	育多婆提欲說毘婆闍婆提過，若當先以世俗道斷結得作證，乃至廣說。	Yuktībhāva-ti wanted to state the fault of Vibhajyavādin. If one first cuts off the bonds through the worldly path and makes it manifest, and so on at length.
+['ZH_T28_1546_017:0127a17_1']	乃至得阿那含果彼是學者，本應是學。	乃至得阿那含果彼是學者，本應是學。	Up to attaining the fruit of non-returner, one is still a learner, one should originally be a learner.
+['ZH_T28_1546_017:0127a17_15']	若不得果而是學者，此事不可。	若不得果而是學者，此事不可。	If one does not attain the fruit but is a learner, this is impossible.
+['ZH_T28_1546_017:0127a18_19']	趣阿羅漢斷結作證、阿羅漢斷結作證退，說亦如是。	趣阿羅漢斷結作證、阿羅漢斷結作證退，說亦如是。	The same applies to the case of one who is progressing towards arhatship, cutting off the bonds and making it manifest, and the arhat cutting off the bonds and making it manifest, and falling back.
+['ZH_T28_1546_017:0127a20_3']	育多婆提於他法中不順義者，集置一處而說其過。	育多婆提於他法中不順義者，集置一處而說其過。	Yuktībhāva-ti puts together in one place the faults of those who do not follow the meaning in other teachings and explains them.
+['ZH_T28_1546_017:0127a21_14']	若當涅槃是非學非無學復作學、學作無學、無學作學者，是則不定。	若當涅槃是非學非無學復作學、學作無學、無學作學者，是則不定。	If nirvana is neither training nor non-training, and then becomes training, training becomes non-training, and non-training becomes training, then it is not fixed.
+['ZH_T28_1546_017:0127a22_3']	若不定者，則是無常。	若不定者，則是無常。	If it is not fixed, then it is impermanent.
+['ZH_T28_1546_017:0127a22_17']	若無常者，有為無為無有差別。	若無常者，有為無為無有差別。	If it is impermanent, then there is no distinction between conditioned and unconditioned.
+['ZH_T28_1546_017:0127a23_2']	所以者何？	所以者何？	Why is it so?
+['ZH_T28_1546_017:0127a24_7']	涅槃未曾作非學非無學復作學、學作無學、無學作學。	涅槃未曾作非學非無學復作學、學作無學、無學作學。	Because nirvana has never been neither training nor non-training, and then becomes training, training becomes non-training, and non-training becomes training.
+['ZH_T28_1546_017:0127a25_10']	以是故，涅槃於一切時是常、是寂滅、是非學非無學。	以是故，涅槃於一切時是常、是寂滅、是非學非無學。	Therefore, nirvana is always permanent, peaceful, and neither training nor non-training.
+['ZH_T28_1546_017:0127a25_16']	廣說如經本。	廣說如經本。	As extensively explained in the sutra.
+['ZH_T28_1546_017:0127a26_14']	復有說者，育多婆提欲說毘婆闍婆提過。	復有說者，育多婆提欲說毘婆闍婆提過。	There is also a saying that Udayin wanted to point out the faults of Vibhajyavadin.
+['ZH_T28_1546_017:0127a27_5']	毘婆闍婆提有二種過：	毘婆闍婆提有二種過：	Vibhajyavadin has two kinds of faults:
+['ZH_T28_1546_017:0127a28_11']	一說涅槃是非學非無學復作學、學作無學、無學作學；	一說涅槃是非學非無學復作學、學作無學、無學作學；	First, he says that nirvana is neither training nor non-training, and then becomes training, training becomes non-training, and non-training becomes training;
+['ZH_T28_1546_017:0127b01_3']	二說涅槃是非學非無學者常是非學非無學、學常是學、無學常是無學。	二說涅槃是非學非無學者常是非學非無學、學常是學、無學常是無學。	The second view is that nirvana is neither training nor non-training. The constant is neither training nor non-training, the training is always training, and the non-training is always non-training.
+['ZH_T28_1546_017:0127b01_15']	育多婆提難毘婆闍婆提言：	育多婆提難毘婆闍婆提言：	Yuktībhāva-tīkā criticizes Vibhāṣā-śāstra:
+['ZH_T28_1546_017:0127b03_17']	涅槃是非學非無學復作學、學作無學、無學作學者，如是汝說涅槃是非學非無學然後作學耶？	涅槃是非學非無學復作學、學作無學、無學作學者，如是汝說涅槃是非學非無學然後作學耶？	Nirvana is neither training nor non-training, and it becomes training again. Training becomes non-training, and non-training becomes training. Do you say that nirvana is neither training nor non-training, and then becomes training?
+['ZH_T28_1546_017:0127b04_7']	毘婆闍婆提答言：	毘婆闍婆提答言：	Vibhāṣā-śāstra answers:
+['ZH_T28_1546_017:0127b04_10']	如是。	如是。	Yes.
+['ZH_T28_1546_017:0127b05_4']	育多婆提復難毘婆闍婆提言：	育多婆提復難毘婆闍婆提言：	Yuktībhāva-tīkā further criticizes Vibhāṣā-śāstra:
+['ZH_T28_1546_017:0127b05_9', 'ZH_T28_1546_017:0127b06_1']	於意云何？🔽若先以世俗道，乃至廣說。	於意云何？ 若先以世俗道，乃至廣說。	What do you think?
+['ZH_T28_1546_017:0127b06_17']	後見四聖諦得阿那含果，彼是學耶？	後見四聖諦得阿那含果，彼是學耶？	If one first uses the worldly path, and so on, and later sees the four noble truths and attains the fruit of non-returner, is that training?
+['ZH_T28_1546_017:0127b07_5']	毘婆闍婆提答言：	毘婆闍婆提答言：	Vibhāṣā-śāstra answers:
+['ZH_T28_1546_017:0127b07_8']	如是。	如是。	Yes.
+['ZH_T28_1546_017:0127b07_13']	所以者何？	所以者何？	Why is it so?
+['ZH_T28_1546_017:0127b08_8']	我說涅槃是非學非無學復作學故。	我說涅槃是非學非無學復作學故。	I say that nirvana is neither training nor non-training, and it becomes training again.
+['ZH_T28_1546_017:0127b09_3']	育多婆提復問毘婆闍婆提言：	育多婆提復問毘婆闍婆提言：	Yuktībhāva-tīkā further asks Vibhāṣā-śāstra:
+['ZH_T28_1546_017:0127b09_8']	汝意云何？	汝意云何？	What do you think?
+['ZH_T28_1546_017:0127b10_17']	先以世俗道斷結得作證是非學非無學，即彼非學非無學作學耶？	先以世俗道斷結得作證是非學非無學，即彼非學非無學作學耶？	Is it the case that one first uses the worldly path to sever the bonds and attain realization, which is neither training nor post-training, and then that which is neither training nor post-training becomes training?
+['ZH_T28_1546_017:0127b11_6', 'ZH_T28_1546_017:0127b11_9']	毘婆闍婆提答言：🔽如是。	毘婆闍婆提答言： 如是。	Vibhajyavādin replied:🔽Yes.
+['ZH_T28_1546_017:0127b11_14']	所以者何？	所以者何？	Why is it so?
+['ZH_T28_1546_017:0127b12_6']	我說非學非無學後作學故。	我說非學非無學後作學故。	Because I say that which is neither training nor post-training later becomes training.
+['ZH_T28_1546_017:0127b13_1']	育多婆提復說毘婆闍婆提過：	育多婆提復說毘婆闍婆提過：	Yaudha-yajña also said that Vibhajyavādin's error:
+['ZH_T28_1546_017:0127b14_10']	若先以世俗道斷結得作證，後得阿那含果當是學者，本應是學。	若先以世俗道斷結得作證，後得阿那含果當是學者，本應是學。	If one first uses the worldly path to sever the bonds and attain realization, and later attains the fruit of non-returner, then one should originally be in training.
+['ZH_T28_1546_017:0127b15_4']	若不得果而是學者，是則不可。	若不得果而是學者，是則不可。	If one does not attain the fruit but is in training, then this is impossible.
+['ZH_T28_1546_017:0127b15_17']	育多婆提復難毘婆闍婆提言：	育多婆提復難毘婆闍婆提言：	Yaudha-yajña also questioned Vibhajyavādin, saying:
+['ZH_T28_1546_017:0127b17_14']	趣阿羅漢斷結得作證是學，後作無學阿羅漢，斷結得作證，退作學，說亦如是。	趣阿羅漢斷結得作證是學，後作無學阿羅漢，斷結得作證，退作學，說亦如是。	If one is in training when severing the bonds and attaining realization in the pursuit of arhatship, and later becomes a post-training arhat, then severing the bonds and attaining realization, regressing to become a trainee, the explanation is the same.
+['ZH_T28_1546_017:0127b18_16']	育多婆提於他法中不順義者，集置一處說過如上。	育多婆提於他法中不順義者，集置一處說過如上。	Yaudha-yajña collected in one place the errors of Vibhajyavādin's non-conformity with the meaning in other dharmas, and explained them as above.
+['ZH_T28_1546_017:0127b20_18']	若說涅槃是非學非無學常是非學非無學，乃至無學常是無學者，育多婆提難毘婆闍婆提言：	若說涅槃是非學非無學常是非學非無學，乃至無學常是無學者，育多婆提難毘婆闍婆提言：	If you say that nirvana is neither a learner nor a non-learner, and is always neither a learner nor a non-learner, and that up to the non-learner is always a non-learner, Yaudha-tiṣya challenges Vibha-jya-tiṣya, saying:
+['ZH_T28_1546_017:0127b21_8']	汝說涅槃有三種耶？	汝說涅槃有三種耶？	Do you say that nirvana is of three kinds?
+['ZH_T28_1546_017:0127b21_11']	答曰：	答曰：	He replies:
+['ZH_T28_1546_017:0127b21_14']	如是。	如是。	So it is.
+['ZH_T28_1546_017:0127b22_7']	育多婆提難毘婆闍婆提言：	育多婆提難毘婆闍婆提言：	Yaudha-tiṣya challenges Vibha-jya-tiṣya, saying:
+['ZH_T28_1546_017:0127b22_12']	於意云何？	於意云何？	What do you think?
+['ZH_T28_1546_017:0127b24_16']	若先以世俗道斷欲愛恚，未見真諦欲得見故懃修方便，修方便時得見真諦得阿那含，彼是學耶？	若先以世俗道斷欲愛恚，未見真諦欲得見故懃修方便，修方便時得見真諦得阿那含，彼是學耶？	If one first cuts off desire and anger through the worldly path, and in order to see the truth diligently practices skillful means, and when practicing skillful means sees the truth and attains the state of anāgāmin, is he a learner?
+['ZH_T28_1546_017:0127b24_19']	答曰：	答曰：	He replies:
+['ZH_T28_1546_017:0127b25_2']	如是。	如是。	So it is.
+['ZH_T28_1546_017:0127b25_7']	所以者何？	所以者何？	Why is it so?
+['ZH_T28_1546_017:0127b25_16']	我說涅槃有三種故。	我說涅槃有三種故。	Because I say that nirvana is of three kinds.
+['ZH_T28_1546_017:0127b26_8']	育多婆提難毘婆闍婆提言：	育多婆提難毘婆闍婆提言：	Yaudha-tiṣya challenges Vibha-jya-tiṣya, saying:
+['ZH_T28_1546_017:0127b26_13']	於意云何？	於意云何？	What do you think?
+['ZH_T28_1546_017:0127b28_4']	若先以世俗道斷結作證是非學非無學，後得阿那含果即是學耶？	若先以世俗道斷結作證是非學非無學，後得阿那含果即是學耶？	If one first cuts off bonds through the worldly path and realizes the state of neither a learner nor a non-learner, and later attains the fruit of anāgāmin, is he then a learner?
+['ZH_T28_1546_017:0127b28_7']	答言：	答言：	He replies:
+['ZH_T28_1546_017:0127b28_10']	不也。	不也。	No, it is not so.
+['ZH_T28_1546_017:0127b28_15']	所以者何？	所以者何？	Why is it so?
+['ZH_T28_1546_017:0127b29_17']	我說涅槃是非學非無學常是非學非無學，乃至廣說。	我說涅槃是非學非無學常是非學非無學，乃至廣說。	I say that nirvana is neither a learner nor a non-learner, and is always neither a learner nor a non-learner, and so on at length.
+['ZH_T28_1546_017:0127c01_10']	毘婆闍婆提反難育多婆提：	毘婆闍婆提反難育多婆提：	Vibhajyavādin counters Yāthāvādi:
+['ZH_T28_1546_017:0127c03_1']	若當涅槃是非學非無學後作學者，未得阿那含果時本應是學。	若當涅槃是非學非無學後作學者，未得阿那含果時本應是學。	If nirvana is neither a learner nor a non-learner, and later becomes a learner, then before attaining the fruit of non-returner, it should originally be a learner.
+['ZH_T28_1546_017:0127c04_9']	育多婆提欲去此過故，若不得阿那含果而是學者，此則不可。	育多婆提欲去此過故，若不得阿那含果而是學者，此則不可。	Yāthāvādi, wanting to avoid this fault, says: If one does not attain the fruit of non-returner but is a learner, this is not possible.
+['ZH_T28_1546_017:0127c05_2']	育多婆提復難毘婆闍婆提：	育多婆提復難毘婆闍婆提：	Yāthāvādi further counters Vibhajyavādin:
+['ZH_T28_1546_017:0127c06_8']	若趣阿羅漢果斷結作證，阿羅漢斷結作證退，說亦如是。	若趣阿羅漢果斷結作證，阿羅漢斷結作證退，說亦如是。	If one is progressing towards the fruit of arhatship and severing the bonds to realize it, and an arhat severs the bonds to realize it and regresses, the explanation is the same.
+['ZH_T28_1546_017:0127c07_11']	育多婆提於他法中不順義者，集置一處而說其過。	育多婆提於他法中不順義者，集置一處而說其過。	Yāthāvādi collects and explains the faults of those who do not follow the meaning in other teachings.
+['ZH_T28_1546_017:0127c10_3']	若當涅槃是非學非無學後作學、學作無學、無學作學，非學非無學常是非學非無學，乃至無學常是無學者，是則不定。	若當涅槃是非學非無學後作學、學作無學、無學作學，非學非無學常是非學非無學，乃至無學常是無學者，是則不定。	If nirvana were neither training nor non-training, and later became training, with training becoming non-training, and non-training becoming training, and neither training nor non-training always remained neither training nor non-training, up to non-training always being non-training, then it would not be fixed.
+['ZH_T28_1546_017:0127c11_6']	若不定者則是無常，若無常者有為無為無有差別。	若不定者則是無常，若無常者有為無為無有差別。	If it were not fixed, then it would be impermanent. If it were impermanent, then there would be no distinction between the conditioned and the unconditioned.
+['ZH_T28_1546_017:0127c13_13']	涅槃未曾作非學非無學後作學、學作無學、無學作學，非學非無學常是非學非無學，乃至無學常是無學。	涅槃未曾作非學非無學後作學、學作無學、無學作學，非學非無學常是非學非無學，乃至無學常是無學。	Nirvana never becomes neither training nor non-training, and later becomes training, with training becoming non-training, and non-training becoming training. Neither training nor non-training always remains neither training nor non-training, up to non-training always being non-training.
+['ZH_T28_1546_017:0127c14_17']	以是事故，涅槃於一切時是常，是寂滅、非學非無學。	以是事故，涅槃於一切時是常，是寂滅、非學非無學。	For this reason, nirvana is permanent at all times, it is the cessation of neither training nor non-training.
+['ZH_T28_1546_017:0127c15_3']	廣說如經本。	廣說如經本。	It is explained in detail in the sutra.
+['ZH_T28_1546_017:0127c15_6']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0127c15_16']	所說得，復有得不耶？	所說得，復有得不耶？	Is there also attainment of attainment that is attained?
+['ZH_T28_1546_017:0127c16_11']	若當有者，得復有得，便為無窮。	若當有者，得復有得，便為無窮。	If there were, then attainment would have attainment again, which would lead to an infinite regress.
+['ZH_T28_1546_017:0127c17_2']	若無窮者，無成就此得者。	若無窮者，無成就此得者。	If there were an infinite regress, then there would be no one who accomplishes this attainment.
+['ZH_T28_1546_017:0127c17_5']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0127c17_10']	應作此論：	應作此論：	This treatise should be composed:
+['ZH_T28_1546_017:0127c17_15']	得復有得。	得復有得。	Attainment also has attainment.
+['ZH_T28_1546_017:0127c17_18']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0127c18_5']	若然者是則無窮。	若然者是則無窮。	If so, then this would be endless.
+['ZH_T28_1546_017:0127c18_8']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0127c18_14']	無窮有何過？	無窮有何過？	What is wrong with being endless?
+['ZH_T28_1546_017:0127c19_11']	未來世寬，能容此得，以生死法無窮故。	未來世寬，能容此得，以生死法無窮故。	The future world is vast and can accommodate this attainment, because the dharmas of birth and death are endless.
+['ZH_T28_1546_017:0127c19_16']	得亦復然。	得亦復然。	Attainment is also like this.
+['ZH_T28_1546_017:0127c20_16']	是故難斷、難除、難過眾苦相續，猶如連鎖。	是故難斷、難除、難過眾苦相續，猶如連鎖。	Therefore, the continuity of various sufferings is difficult to cut off, difficult to remove, and difficult to overcome, just like a chain.
+['ZH_T28_1546_017:0127c21_13']	復有說者，以俱在一世一剎那中故非無窮。	復有說者，以俱在一世一剎那中故非無窮。	There is also a saying: Because they are all in the same world and the same moment, it is not endless.
+['ZH_T28_1546_017:0127c21_16']	評曰：	評曰：	The judges say:
+['ZH_T28_1546_017:0127c22_2']	應作是說：	應作是說：	It should be said:
+['ZH_T28_1546_017:0127c22_18']	法生時三法俱生，謂法、得、得得。	法生時三法俱生，謂法、得、得得。	When a dharma arises, three dharmas arise together, namely the dharma, attainment, and the attainment of attainment.
+['ZH_T28_1546_017:0127c24_2']	以得故成就彼法及得得，以得得故成就得，是故非無窮。	以得故成就彼法及得得，以得得故成就得，是故非無窮。	Because of attainment, one accomplishes that dharma and the attainment of attainment. Because of the attainment of attainment, one accomplishes attainment. Therefore, it is not endless.
+['ZH_T28_1546_017:0127c24_12']	以是事故，而作此論。	以是事故，而作此論。	For this reason, this treatise is composed.
+['ZH_T28_1546_017:0127c25_12']	頗有行陰、色陰同於一得耶？	頗有行陰、色陰同於一得耶？	Is there any aggregate of formations and aggregate of form that have the same attainment?
+['ZH_T28_1546_017:0127c25_15']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0127c26_4']	有，所謂色得得是也。	有，所謂色得得是也。	There is, namely the attainment of form.
+['ZH_T28_1546_017:0127c26_17']	乃至行陰、識陰，說亦如是。	乃至行陰、識陰，說亦如是。	Up to the aggregate of formations and the aggregate of consciousness, the explanation is the same.
+['ZH_T28_1546_017:0127c27_5']	有為、無為亦同一得。	有為、無為亦同一得。	The conditioned and the unconditioned also have the same attainment.
+['ZH_T28_1546_017:0127c27_10']	所以者何？	所以者何？	Why is this?
+['ZH_T28_1546_017:0127c27_15']	無為得得。	無為得得。	The attainment of the unconditioned is the attainment of attainment.
+['ZH_T28_1546_017:0127c28_12']	無為及得得，是名有為無為同共一得。	無為及得得，是名有為無為同共一得。	The unconditioned and the attainment of attainment are called the conditioned and the unconditioned having the same attainment.
+['ZH_T28_1546_017:0127c28_15']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0127c29_5']	有成就過去未來得不？	有成就過去未來得不？	Do those who attain past and future non-attainment exist?
+['ZH_T28_1546_017:0127c29_17']	若成就者，云何非是無窮。	若成就者，云何非是無窮。	If they exist, how is it not an infinite regress?
+['ZH_T28_1546_017:0128a01_2']	所以者何？	所以者何？	Why is this?
+['ZH_T28_1546_017:0128a01_15']	法生時，法、得、得得俱生。	法生時，法、得、得得俱生。	When dharmas arise, dharmas, attainment, and the attainment of attainment arise together.
+['ZH_T28_1546_017:0128a02_2']	此三滅已，便生六得：	此三滅已，便生六得：	When these three cease, six attainments arise:
+['ZH_T28_1546_017:0128a02_11']	三是得，三是得得。	三是得，三是得得。	three are attainments, three are the attainments of attainments.
+['ZH_T28_1546_017:0128a03_10']	是六生十二，十二生二十四，乃至無量無邊。	是六生十二，十二生二十四，乃至無量無邊。	These six give rise to twelve, twelve give rise to twenty-four, and so on, to infinite and boundless.
+['ZH_T28_1546_017:0128a04_5']	若不成就者，定揵度又云何通耶？	若不成就者，定揵度又云何通耶？	If they do not exist, how does the定犍度 passage make sense?
+['ZH_T28_1546_017:0128a04_8']	如說：	如說：	As it says:
+['ZH_T28_1546_017:0128a06_13']	無色界命終，生欲界中所得陰界入四大、善不善無記根、結縛使纏煩惱，當言本得得、本不得得？	無色界命終，生欲界中所得陰界入四大、善不善無記根、結縛使纏煩惱，當言本得得、本不得得？	When one ends life in the formless realm and is reborn in the desire realm, the aggregates, realms, bases, four great elements, wholesome, unwholesome, and indeterminate faculties, bonds, afflictions, and entanglements that are obtained, should they be said to be obtained through prior non-acquisition or through prior acquisition?
+['ZH_T28_1546_017:0128a06_16']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0128a08_3']	善染污當言本得得，報當言本不得得，彼得亦有善亦有染污。	善染污當言本得得，報當言本不得得，彼得亦有善亦有染污。	Wholesome and defiled [faculties] should be said to be obtained through prior acquisition, while the retribution [faculties] should be said to be obtained through prior non-acquisition. Their acquisition can also be wholesome or defiled.
+['ZH_T28_1546_017:0128a08_18']	復有說者，有成就過去未來得者。	復有說者，有成就過去未來得者。	There are also those who say that there are those who accomplish past and future acquisitions.
+['ZH_T28_1546_017:0128a09_1']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0128a09_12']	若然者，云何非是無窮？	若然者，云何非是無窮？	If so, how is it not endless?
+['ZH_T28_1546_017:0128a09_15']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0128a10_3']	假令無窮，復有何過？	假令無窮，復有何過？	Even if it is endless, what fault is there?
+['ZH_T28_1546_017:0128a10_12']	未來世窮無容處耶？	未來世窮無容處耶？	Is it not possible for the future to be endless?
+['ZH_T28_1546_017:0128a11_19']	以生死是無窮故，難斷、難除、難過眾苦相續，猶如連鎖。	以生死是無窮故，難斷、難除、難過眾苦相續，猶如連鎖。	Because birth and death are endless, it is difficult to cut off, difficult to eliminate, and difficult to transcend the continuity of various sufferings, just like a chain.
+['ZH_T28_1546_017:0128a12_8']	復有說者，無有成就者。	復有說者，無有成就者。	There are also those who say that there is no accomplishment.
+['ZH_T28_1546_017:0128a12_11']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0128a13_10']	若然者，如說無色界命終生欲界，乃至廣說。	若然者，如說無色界命終生欲界，乃至廣說。	If so, as it is said that one who ends life in the formless realm and is reborn in the desire realm, and so on, in detail...
+['ZH_T28_1546_017:0128a13_17']	此文云何通耶？	此文云何通耶？	How can this passage be understood?
+['ZH_T28_1546_017:0128a13_20']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0128a14_12']	此文不說得，說得所不攝法。	此文不說得，說得所不攝法。	This passage does not speak of attainment, but of dharmas not included in attainment.
+['ZH_T28_1546_017:0128a14_15']	評曰：	評曰：	The judges say:
+['ZH_T28_1546_017:0128a15_1']	不應作是說。	不應作是說。	This should not be said.
+['ZH_T28_1546_017:0128a15_6']	應作是說；	應作是說；	It should be said:
+['ZH_T28_1546_017:0128a15_16']	有成就過去未來得者。	有成就過去未來得者。	There are those who accomplish past and future attainments.
+['ZH_T28_1546_017:0128a16_1']	所以者何？	所以者何？	Why is this?
+['ZH_T28_1546_017:0128a16_5']	以得故。	以得故。	Because of attainment.
+['ZH_T28_1546_017:0128a18_6']	沙門果有差別，若不成就過去未來得者，一一剎那沙門果亦得亦捨，修梵行者則無休息心。	沙門果有差別，若不成就過去未來得者，一一剎那沙門果亦得亦捨，修梵行者則無休息心。	The fruits of the śramaṇa have distinctions. If one does not accomplish past and future attainments, then in each moment the fruits of the śramaṇa are both attained and abandoned. The practitioner of the holy life would then have no rest in mind.
+['ZH_T28_1546_017:0128a19_1']	復更有過，以三事故捨於聖道：	復更有過，以三事故捨於聖道：	There is also another fault. One abandons the holy path for three reasons:
+['ZH_T28_1546_017:0128a19_5']	一、退；	一、退；	First, regression;
+['ZH_T28_1546_017:0128a19_10']	二、轉根；	二、轉根；	Second, changing faculties;
+['ZH_T28_1546_017:0128a19_15']	三、得果。	三、得果。	Third, attaining the fruit.
+['ZH_T28_1546_017:0128a20_18']	不因此三，亦捨聖道，然無是處，是故有成就過去未來得者。	不因此三，亦捨聖道，然無是處，是故有成就過去未來得者。	One does not abandon the holy path for these three reasons, but there is no such case. Therefore, there are those who accomplish past and future attainments.
+['ZH_T28_1546_017:0128a21_6']	苦法忍有十五得：	苦法忍有十五得：	The perseverance for the knowledge of the dharma with regard to suffering has fifteen attainments:
+['ZH_T28_1546_017:0128a22_11']	一是苦法忍俱，二是苦法智俱，乃至道比忍俱有十五。	一是苦法忍俱，二是苦法智俱，乃至道比忍俱有十五。	Two are concurrent with the knowledge of the dharma with regard to suffering, up to fifteen concurrent with the perseverance for the subsequent knowledge with regard to the path.
+['ZH_T28_1546_017:0128a23_12']	乃至無學初智，除其自體，盡是因，廣說如上。	乃至無學初智，除其自體，盡是因，廣說如上。	Up to the first cognition of the post-learner, excluding its own nature, all are causes, explained in detail as above.
+['ZH_T28_1546_017:0128a24_1']	苦集諦得，苦集諦攝；	苦集諦得，苦集諦攝；	The attainment of the truths of suffering and accumulation is included in the truth of suffering and accumulation;
+['ZH_T28_1546_017:0128a24_9']	滅諦得，三諦攝；	滅諦得，三諦攝；	The attainment of the truth of cessation is included in three truths;
+['ZH_T28_1546_017:0128a24_18']	道諦得，即道諦攝。	道諦得，即道諦攝。	The attainment of the truth of the path is included in the truth of the path itself.
+['ZH_T28_1546_017:0128a25_12']	苦集道諦三世攝，彼得亦三世攝；	苦集道諦三世攝，彼得亦三世攝；	The truths of suffering, accumulation, and the path are included in the three times, and their attainments are also included in the three times;
+['ZH_T28_1546_017:0128a26_5']	滅諦不在三世得、三世攝。	滅諦不在三世得、三世攝。	The truth of cessation is not included in the three times, and its attainment is included in the three times.
+['ZH_T28_1546_017:0128a27_5']	苦集諦是善不善無記，彼得亦是善不善無記；	苦集諦是善不善無記，彼得亦是善不善無記；	The truths of suffering and accumulation are wholesome, unwholesome, and indeterminate, and their attainments are also wholesome, unwholesome, and indeterminate;
+['ZH_T28_1546_017:0128a27_17']	滅道諦是善，彼得亦是善。	滅道諦是善，彼得亦是善。	The truths of cessation and the path are wholesome, and their attainments are also wholesome.
+['ZH_T28_1546_017:0128a28_12']	苦集諦是三界繫，彼得亦三界繫；	苦集諦是三界繫，彼得亦三界繫；	The truths of suffering and accumulation are bound to the three realms, and their attainments are also bound to the three realms;
+['ZH_T28_1546_017:0128a29_12']	滅諦是不繫，彼得是色無色界繫，亦是不繫。	滅諦是不繫，彼得是色無色界繫，亦是不繫。	The truth of cessation is unbound, and its attainment is bound to the form and formless realms, and also unbound.
+['ZH_T28_1546_017:0128b01_4']	道諦是不繫，得亦是不繫。	道諦是不繫，得亦是不繫。	The truth of the path is unbound, and its attainment is also unbound.
+['ZH_T28_1546_017:0128b02_5']	苦集諦是非學非無學，彼得亦是非學非無學；	苦集諦是非學非無學，彼得亦是非學非無學；	The truths of suffering and accumulation are neither training nor post-training, and their attainments are also neither training nor post-training;
+['ZH_T28_1546_017:0128b03_7']	滅諦是非學非無學，彼得是學無學非學非無學；	滅諦是非學非無學，彼得是學無學非學非無學；	The truth of cessation is neither training nor non-training. Its attainment is training, non-training, and neither training nor non-training.
+['ZH_T28_1546_017:0128b04_3']	道諦是學無學，彼得亦是學無學。	道諦是學無學，彼得亦是學無學。	The truth of the path is training and non-training. Its attainment is also training and non-training.
+['ZH_T28_1546_017:0128b05_4']	苦集諦是見道修道斷，彼得亦是見道修道斷；	苦集諦是見道修道斷，彼得亦是見道修道斷；	The truths of suffering and accumulation are eliminated by the path of seeing and the path of cultivation. Its attainment is also eliminated by the path of seeing and the path of cultivation.
+['ZH_T28_1546_017:0128b05_19']	滅諦是不斷，彼得是修道斷不斷；	滅諦是不斷，彼得是修道斷不斷；	The truth of cessation is not eliminated. Its attainment is eliminated by the path of cultivation and not eliminated.
+['ZH_T28_1546_017:0128b06_12']	道諦是不斷，彼得亦是不斷。	道諦是不斷，彼得亦是不斷。	The truth of the path is not eliminated. Its attainment is also not eliminated.
+['ZH_T28_1546_017:0128b08_3']	欲界見道修道所斷，乃至無所有處見道修道所斷解脫得有三種：	欲界見道修道所斷，乃至無所有處見道修道所斷解脫得有三種：	In the desire realm, eliminated by the path of seeing and the path of cultivation, up to the sphere of nothingness, eliminated by the path of seeing and the path of cultivation, there are three kinds of attainment of liberation:
+['ZH_T28_1546_017:0128b08_14']	學、無學、非學非無學。	學、無學、非學非無學。	Training, non-training, and neither training nor non-training.
+['ZH_T28_1546_017:0128b09_16']	非想非非想處見道所斷修道所斷八種解脫得有二種：	非想非非想處見道所斷修道所斷八種解脫得有二種：	In the sphere of neither perception nor non-perception, eliminated by the path of seeing and the path of cultivation, the eight kinds of attainment of liberation have two kinds:
+['ZH_T28_1546_017:0128b10_2']	學、無學。	學、無學。	Training and non-training.
+['ZH_T28_1546_017:0128b10_12']	第九種解脫得是無學。	第九種解脫得是無學。	The ninth kind of attainment of liberation is non-training.
+['ZH_T28_1546_017:0128b10_17']	所以者何？	所以者何？	Why is it so?
+['ZH_T28_1546_017:0128b11_6']	彼得與盡智俱生故。	彼得與盡智俱生故。	Because its attainment arises together with the knowledge of destruction.
+['ZH_T28_1546_017:0128b12_2']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0128b13_17']	欲界見道修道所斷，乃至非想非非想處見道修道所斷，彼解脫得幾地所攝耶？	欲界見道修道所斷，乃至非想非非想處見道修道所斷，彼解脫得幾地所攝耶？	The liberation attained by eliminating the afflictions to be eliminated by seeing and cultivation in the desire realm, up to the afflictions to be eliminated by seeing and cultivation in the sphere of neither-perception-nor-non-perception, how many stages do they include?
+['ZH_T28_1546_017:0128b14_1', 'ZH_T28_1546_017:0128b15_1']	答曰：🔽或有說者，隨其斷對治道在何地，彼得亦爾。	答曰： 或有說者，隨其斷對治道在何地，彼得亦爾。	Answer:🔽Some say: According to the stage of the path of elimination, that liberation also belongs to that stage.
+['ZH_T28_1546_017:0128b16_3']	諸作是說，隨其斷對治道所在之地，彼得亦爾者。	諸作是說，隨其斷對治道所在之地，彼得亦爾者。	Those who say that according to the stage of the path of elimination, that liberation also belongs to that stage,
+['ZH_T28_1546_017:0128b17_2']	欲界見道修道所斷解脫得，未至禪所攝；	欲界見道修道所斷解脫得，未至禪所攝；	the liberation attained by eliminating the afflictions to be eliminated by seeing and cultivation in the desire realm belongs to the stage of preliminary concentration;
+['ZH_T28_1546_017:0128b18_2']	初禪解脫得，三地所攝，謂未至、初禪、中間禪；	初禪解脫得，三地所攝，謂未至、初禪、中間禪；	the liberation attained in the first concentration belongs to three stages, namely the preliminary concentration, the first concentration, and the intermediate concentration;
+['ZH_T28_1546_017:0128b18_12']	第二禪者，四地所攝；	第二禪者，四地所攝；	the second concentration belongs to four stages;
+['ZH_T28_1546_017:0128b19_1']	第三禪者，五地所攝；	第三禪者，五地所攝；	the third concentration belongs to five stages;
+['ZH_T28_1546_017:0128b20_5']	第四禪見道修道所斷無色見道所斷者，是六地所攝；	第四禪見道修道所斷無色見道所斷者，是六地所攝；	the afflictions to be eliminated by seeing and cultivation in the fourth concentration and the afflictions to be eliminated by seeing in the formless realm belong to six stages;
+['ZH_T28_1546_017:0128b20_18']	空處修道所斷者，七地所攝；	空處修道所斷者，七地所攝；	the afflictions to be eliminated by cultivation in the sphere of infinite space belong to seven stages;
+['ZH_T28_1546_017:0128b21_3']	識處八地；	識處八地；	the sphere of infinite consciousness belongs to eight stages;
+['ZH_T28_1546_017:0128b21_17']	無所有處、非想非非想處九地。	無所有處、非想非非想處九地。	The sphere of nothingness and the sphere of neither-perception-nor-non-perception belong to nine stages.
+['ZH_T28_1546_017:0128b22_18']	復有說者，隨彼過患對治所在之地，彼得亦爾。	復有說者，隨彼過患對治所在之地，彼得亦爾。	There is another explanation: Wherever there is a counteragent to a fault, that [liberation] also exists there.
+['ZH_T28_1546_017:0128b25_1']	諸作是說，彼隨有過患對治所在之地，彼得亦爾者，欲色界見道修道所斷解脫得，六地所攝；	諸作是說，彼隨有過患對治所在之地，彼得亦爾者，欲色界見道修道所斷解脫得，六地所攝；	Those who say that [liberation] exists wherever there is a counteragent to a fault, the attainment of liberation from the realms of desire and form, which are eliminated by the path of seeing and the path of cultivation, is included in six stages;
+['ZH_T28_1546_017:0128b25_13']	空處見道修道所斷，七地；	空處見道修道所斷，七地；	The [attainment of liberation] eliminated by the path of seeing and the path of cultivation in the sphere of infinite space belongs to seven stages;
+['ZH_T28_1546_017:0128b26_5']	識處見道修道所斷，八地；	識處見道修道所斷，八地；	The [attainment of liberation] eliminated by the path of seeing and the path of cultivation in the sphere of infinite consciousness belongs to eight stages;
+['ZH_T28_1546_017:0128b27_6', 'ZH_T28_1546_017:0128b28_13']	無所有處、非想非非想處見道修道所斷，九地。🔽復有說者，隨地有法智分，彼地亦有欲界見道修道所斷解脫得。	無所有處、非想非非想處見道修道所斷，九地。 復有說者，隨地有法智分，彼地亦有欲界見道修道所斷解脫得。	The [attainment of liberation] eliminated by the path of seeing and the path of cultivation in the sphere of nothingness and the sphere of neither-perception-nor-non-perception belongs to nine stages.🔽There is another explanation: Wherever there is the category of knowledge of dharmas, there is also the attainment of liberation from the realms of desire and form, which are eliminated by the path of seeing and the path of cultivation.
+['ZH_T28_1546_017:0128b29_18']	若地有比智分，彼亦色無色界見道修道所斷解脫得。	若地有比智分，彼亦色無色界見道修道所斷解脫得。	If there is the category of subsequent knowledge, there is also the attainment of liberation from the realms of form and formlessness, which are eliminated by the path of seeing and the path of cultivation.
+['ZH_T28_1546_017:0128c02_14']	諸作是說，隨彼有法智分，彼地亦爾者，欲界見道修道所斷解脫得，六地所攝；	諸作是說，隨彼有法智分，彼地亦爾者，欲界見道修道所斷解脫得，六地所攝；	Those who say that the liberation attainment of each stage corresponds to the stage of the dharma knowledge of that stage say that the liberation attainment of the desire realm, eliminated by the path of seeing and the path of cultivation, is included in the six stages;
+['ZH_T28_1546_017:0128c03_14']	色無色界見道修道所斷解脫得，九地所攝。	色無色界見道修道所斷解脫得，九地所攝。	the liberation attainment of the form and formless realms, eliminated by the path of seeing and the path of cultivation, is included in the nine stages.
+['ZH_T28_1546_017:0128c03_17']	評曰：	評曰：	The judges say:
+['ZH_T28_1546_017:0128c05_2']	不應作是說，如前說隨地有斷對治道彼得亦爾者好。	不應作是說，如前說隨地有斷對治道彼得亦爾者好。	This should not be said. It is better to say that the liberation attainment of each stage corresponds to the stage of the path of elimination of that stage, as stated above.
+['ZH_T28_1546_017:0128c06_1']	問：	問：	Question:
+['ZH_T28_1546_017:0128c08_2']	若以滅道法智離色無色界欲，彼色無色界修道所斷解脫得，為是法智分、為是比智分耶？	若以滅道法智離色無色界欲，彼色無色界修道所斷解脫得，為是法智分、為是比智分耶？	If one abandons the desire for the form and formless realms with the dharma knowledge of cessation and the path, does the liberation attainment of the form and formless realms, eliminated by the path of cultivation, belong to the category of dharma knowledge or to the category of inferential knowledge?
+['ZH_T28_1546_017:0128c08_5']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0128c08_14']	或有說，是法智分。	或有說，是法智分。	Some say it belongs to the category of dharma knowledge.
+['ZH_T28_1546_017:0128c08_19']	所以者何？	所以者何？	Why is this?
+['ZH_T28_1546_017:0128c09_5']	以是法智所證故。	以是法智所證故。	Because it is realized by dharma knowledge.
+['ZH_T28_1546_017:0128c09_8']	評曰：	評曰：	The judges say:
+['ZH_T28_1546_017:0128c09_14']	不應作是說。	不應作是說。	This should not be said.
+['ZH_T28_1546_017:0128c09_19']	是比智分。	是比智分。	It belongs to the category of inferential knowledge.
+['ZH_T28_1546_017:0128c10_2']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0128c10_16']	是法智所證，云何是比智分耶？	是法智所證，云何是比智分耶？	If it is realized by dharma knowledge, how can it belong to the category of inferential knowledge?
+['ZH_T28_1546_017:0128c10_19']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0128c11_12']	雖是法智所證，而以比智所知。	雖是法智所證，而以比智所知。	Although it is realized by the knowledge of dharmas, it is known by inferential knowledge.
+['ZH_T28_1546_017:0128c12_16']	然皆是色無色界根本對治，隨以何斷而皆是比智分。	然皆是色無色界根本對治，隨以何斷而皆是比智分。	However, they are all the fundamental antidotes to the form and formless realms, and whatever is eliminated is all a part of inferential knowledge.
+['ZH_T28_1546_017:0128c13_2', 'ZH_T28_1546_017:0128c16_6', 'ZH_T28_1546_017:0128c19_4']	問曰：🔽若離五種欲入見道者，苦法忍滅、苦法智生，彼前所斷欲界見苦所斷五種欲、彼剎那中所斷四種欲，彼九種盡是與苦法忍俱生無漏得作證。🔽如是乃至道法忍滅、道法智生，彼前所斷欲界見道所斷五種欲、彼剎那中所斷四種欲彼九種，盡是與道法智俱生無漏得作證。	問曰： 若離五種欲入見道者，苦法忍滅、苦法智生，彼前所斷欲界見苦所斷五種欲、彼剎那中所斷四種欲，彼九種盡是與苦法忍俱生無漏得作證。 如是乃至道法忍滅、道法智生，彼前所斷欲界見道所斷五種欲、彼剎那中所斷四種欲彼九種，盡是與道法智俱生無漏得作證。	Question:🔽If one who has separated from the five desires enters the path of seeing, when the perseverance for the knowledge of dharmas regarding suffering is extinguished and the knowledge of dharmas regarding suffering arises, the five kinds of desires in the desire realm that were previously eliminated by the view of suffering, and the four kinds of desires that are eliminated in that instant, those nine kinds of exhaustions are all realized by the uncontaminated attainment that arises together with the perseverance for the knowledge of dharmas regarding suffering.🔽In this way, up to when the perseverance for the knowledge of dharmas regarding the path is extinguished and the knowledge of dharmas regarding the path arises, the five kinds of desires in the desire realm that were previously eliminated by the view of the path, and the four kinds of desires that are eliminated in that instant, those nine kinds are all realized by the uncontaminated attainment that arises together with the knowledge of dharmas regarding the path.
+['ZH_T28_1546_017:0128c20_15']	若道比忍滅道比智生，是時得三界見道所斷，與道比智俱生解脫得。	若道比忍滅道比智生，是時得三界見道所斷，與道比智俱生解脫得。	When the perseverance for the knowledge of the aspects of the path is extinguished and the knowledge of the aspects of the path arises, at that time one attains the uncontaminated attainment of liberation that arises together with the knowledge of the aspects of the path, which eliminates the five kinds of desires that are eliminated by the view of the path in the three realms.
+['ZH_T28_1546_017:0128c21_14']	彼得欲界修道所斷五種欲無漏解脫得不？	彼得欲界修道所斷五種欲無漏解脫得不？	Do they obtain the five kinds of desire-realm cultivation-path-eliminated uncontaminated liberations?
+['ZH_T28_1546_017:0128c22_5']	尊者僧伽婆修答曰：	尊者僧伽婆修答曰：	Venerable Saṃghabhadra answered:
+['ZH_T28_1546_017:0128c22_7']	得。	得。	They do.
+['ZH_T28_1546_017:0128c22_12']	所以者何？	所以者何？	Why is this?
+['ZH_T28_1546_017:0128c23_5']	以是須陀洹，亦是斯陀含向故。	以是須陀洹，亦是斯陀含向故。	Because they are stream-enterers and also candidates for once-returners.
+['ZH_T28_1546_017:0128c23_8']	評曰：	評曰：	The judges say:
+['ZH_T28_1546_017:0128c23_14']	不應作是說。	不應作是說。	This should not be said.
+['ZH_T28_1546_017:0128c23_20']	言不得者好。	言不得者好。	The statement that they do not obtain them is good.
+['ZH_T28_1546_017:0128c24_4']	所以者何？	所以者何？	Why is this?
+['ZH_T28_1546_017:0128c24_16']	不可說住果時復得趣果道。	不可說住果時復得趣果道。	It cannot be said that when abiding in the fruit one again obtains the path leading to the fruit.
+['ZH_T28_1546_017:0128c25_13']	彼不得趣果道，為以何事言是趣果？	彼不得趣果道，為以何事言是趣果？	Since they do not obtain the path leading to the fruit, by what means is it said that they are leading to the fruit?
+['ZH_T28_1546_017:0128c25_16']	問曰：	問曰：	The question is asked:
+['ZH_T28_1546_017:0128c26_7']	為以何時得彼解脫得耶？	為以何時得彼解脫得耶？	At what time do they obtain those liberation attainments?
+['ZH_T28_1546_017:0128c26_10']	答曰：	答曰：	The answer is:
+['ZH_T28_1546_017:0128c27_9']	或有說者，若修向斯陀含果方便是時便得。	或有說者，若修向斯陀含果方便是時便得。	Some say that when cultivating the approach to the once-returner fruit, at that time they obtain it.
+['ZH_T28_1546_017:0128c27_12']	評曰：	評曰：	The judges say:
+['ZH_T28_1546_017:0128c28_6']	不應作是說言是時得解脫得。	不應作是說言是時得解脫得。	This should not be said, that at that time they obtain the liberation attainments.
+['ZH_T28_1546_017:0128c28_11']	應作是說：	應作是說：	It should be said:
+['ZH_T28_1546_017:0128c29_3']	若得斯陀含果是時便得。	若得斯陀含果是時便得。	When they obtain the once-returner fruit, at that time they obtain it.
+['ZH_T28_1546_017:0129a01_2']	問曰：	問曰：	The question is asked:
+['ZH_T28_1546_017:0129a02_9']	聖人以世俗道離欲，此道為是曾所得道、為是未曾得道耶？	聖人以世俗道離欲，此道為是曾所得道、為是未曾得道耶？	Do the sages use a path that they have previously attained or a path that they have not previously attained to detach from desire through the worldly path?
+['ZH_T28_1546_017:0129a02_12']	答曰：	答曰：	Answer:🔽Some say:
+['ZH_T28_1546_017:0129a03_2']	或有說者，是曾所得道。	或有說者，是曾所得道。	It is a path that they have previously attained.
+['ZH_T28_1546_017:0129a03_7']	所以者何？	所以者何？	Why is this?
+['ZH_T28_1546_017:0129a04_7']	如無始以來所用離欲道，今所用道即是彼道。	如無始以來所用離欲道，今所用道即是彼道。	Because the path used to detach from desire since beginningless [time] is precisely that path used now.
+['ZH_T28_1546_017:0129a05_16']	若以曾所得道，離欲界上上欲時，於離上上欲中得二種解脫得：	若以曾所得道，離欲界上上欲時，於離上上欲中得二種解脫得：	If one uses a path that has been previously attained to detach from the uppermost desire of the desire realm, in detaching from the uppermost desire, one attains two kinds of liberation:
+['ZH_T28_1546_017:0129a06_7']	一是世俗，以曾得者；	一是世俗，以曾得者；	One is the mundane, because it is previously attained;
+['ZH_T28_1546_017:0129a06_18']	二是無漏道，未來修故。	二是無漏道，未來修故。	The other is the uncontaminated path, because it is cultivated in the future.
+['ZH_T28_1546_017:0129a07_15']	亦得欲界見道所斷上上煩惱解脫無漏得。	亦得欲界見道所斷上上煩惱解脫無漏得。	One also attains the uncontaminated attainment of liberation from the uppermost afflictions to be eliminated by the path of seeing in the desire realm.
+['ZH_T28_1546_017:0129a07_18']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0129a08_15']	若作是說，是共對治亦是不共對治。	若作是說，是共對治亦是不共對治。	If one makes this statement, it is both a common antidote and a non-common antidote.
+['ZH_T28_1546_017:0129a09_1']	所以者何？	所以者何？	Why is this?
+['ZH_T28_1546_017:0129a10_12']	以曾所得道斷見道修道所斷煩惱同在一處，如斷草束，亦如刻契。	以曾所得道斷見道修道所斷煩惱同在一處，如斷草束，亦如刻契。	Because using a path that has been previously attained to eliminate afflictions to be eliminated by the path of seeing and the path of cultivation is the same as cutting a bundle of grass, or as carving a tally.
+['ZH_T28_1546_017:0129a11_4']	斷九種欲，是名共對治道。	斷九種欲，是名共對治道。	Cutting off the nine kinds of desires is called the common counteractive path.
+['ZH_T28_1546_017:0129a12_4']	若聖人以此道斷修道所斷結時，是名不共。	若聖人以此道斷修道所斷結時，是名不共。	If a sage uses this path to cut off the bonds to be cut off by the path of cultivation, it is called the uncommon.
+['ZH_T28_1546_017:0129a12_7']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0129a12_17']	所曾得道唯是共對治。	所曾得道唯是共對治。	The path that has been attained is only the common counteractive.
+['ZH_T28_1546_017:0129a13_2']	所以者何？	所以者何？	Why is it so?
+['ZH_T28_1546_017:0129a13_11']	以見道所斷結已斷。	以見道所斷結已斷。	Because the bonds to be cut off by the path of seeing have already been cut off.
+['ZH_T28_1546_017:0129a14_1']	若當不斷，此亦能斷。	若當不斷，此亦能斷。	If they were not to be cut off, this [path] would also be able to cut them off.
+['ZH_T28_1546_017:0129a14_19']	復有說者，聖人所用世俗道是未曾得道。	復有說者，聖人所用世俗道是未曾得道。	Furthermore, there are those who say that the worldly path used by sages is the path that has not been attained.
+['ZH_T28_1546_017:0129a15_4']	所以者何？	所以者何？	Why is it so?
+['ZH_T28_1546_017:0129a15_19']	無始以來所用道異、今所用道異。	無始以來所用道異、今所用道異。	Because the path used since beginningless time is different from the path used now.
+['ZH_T28_1546_017:0129a17_5']	若作是說，以未曾得道離欲界上上欲時，得二種解脫得：	若作是說，以未曾得道離欲界上上欲時，得二種解脫得：	If this is said, when using the path that has not been attained to detach from the upper upper desires of the desire realm, two kinds of liberation are attained:
+['ZH_T28_1546_017:0129a17_10']	一是世俗；	一是世俗；	One is worldly;
+['ZH_T28_1546_017:0129a17_15']	二是無漏。	二是無漏。	The other is uncontaminated.
+['ZH_T28_1546_017:0129a18_5']	世俗者，以未曾得道故。	世俗者，以未曾得道故。	The worldly [liberation] is because the path that has not been attained is used.
+['ZH_T28_1546_017:0129a18_15']	無漏者，以未來修故。	無漏者，以未來修故。	The uncontaminated [liberation] is because it is cultivated in the future.
+['ZH_T28_1546_017:0129a19_10']	於欲界見道所斷上上煩惱非對治。	於欲界見道所斷上上煩惱非對治。	The upper upper afflictions to be cut off by the path of seeing in the desire realm are not the counteractive [path].
+['ZH_T28_1546_017:0129a19_15']	所以者何？	所以者何？	Why is it so?
+['ZH_T28_1546_017:0129a20_4']	以未曾得此道故。	以未曾得此道故。	Because this path has never been attained before.
+['ZH_T28_1546_017:0129a20_16']	若作是說，則是不共對治。	若作是說，則是不共對治。	If it is said in this way, then it is a unique antidote.
+['ZH_T28_1546_017:0129a22_16']	第九解脫道，若未曾得道、已曾得道一時悉得，亦得欲界見道修道所斷漏無漏二種解脫得。	第九解脫道，若未曾得道、已曾得道一時悉得，亦得欲界見道修道所斷漏無漏二種解脫得。	In the ninth path of liberation, if the path that has never been attained before and the path that has already been attained are all attained at the same time, one also attains the two kinds of liberation of the desire realm, the defiled and undefiled, and the attainment of the path of seeing and the path of cultivation that has been severed.
+['ZH_T28_1546_017:0129a23_1']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0129a24_16']	以何等故，第九解脫道，已曾得道，已未曾得道修，餘無礙解脫道何以不修耶？	以何等故，第九解脫道，已曾得道，已未曾得道修，餘無礙解脫道何以不修耶？	Why is it that in the ninth path of liberation, the path that has already been attained and the path that has never been attained before are cultivated, but why is it that the other unobstructed paths and paths of liberation are not cultivated?
+['ZH_T28_1546_017:0129a24_19']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0129a25_13']	離欲得地時修異、斷欲道時異。	離欲得地時修異、斷欲道時異。	The time of attaining the ground through detachment is different from the time of severing the path of desire.
+['ZH_T28_1546_017:0129a28_2']	第九解脫道時是離欲得地，是故以曾得道未曾得道修斷欲道時不得地，是故未曾得道修、曾得道不修。	第九解脫道時是離欲得地，是故以曾得道未曾得道修斷欲道時不得地，是故未曾得道修、曾得道不修。	At the time of the ninth path of liberation, it is detachment and attaining the ground, therefore, it cultivates the path that has already been attained and the path that has never been attained before. At the time of severing the path of desire, one does not attain the ground, therefore, it cultivates the path that has never been attained before and does not cultivate the path that has already been attained.
+['ZH_T28_1546_017:0129a28_15']	以是事故，智揵度所說善通。	以是事故，智揵度所說善通。	For this reason, the explanation in the Abhidharma-jñāna-pāda is well-founded.
+['ZH_T28_1546_017:0129a28_18']	如說：	如說：	As it is said:
+['ZH_T28_1546_017:0129a29_15']	若成就現在他心智，亦成就過去未來耶？	若成就現在他心智，亦成就過去未來耶？	If one possesses the present knowledge of others' minds, does one also possess the past and future [knowledge of others' minds]?
+['ZH_T28_1546_017:0129a29_18']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0129b01_1']	如是。	如是。	So it is.
+['ZH_T28_1546_017:0129b01_4']	評曰：	評曰：	The judges say:
+['ZH_T28_1546_017:0129b01_10']	如是說者好。	如是說者好。	Those who say this are good.
+['ZH_T28_1546_017:0129b02_7']	以未曾得道離欲，已曾得道未曾得道修。	以未曾得道離欲，已曾得道未曾得道修。	Because one who has not yet attained the path to liberation has already attained the path and has not yet attained the path to cultivation.
+['ZH_T28_1546_017:0129b04_12']	若作是說，以未曾得道離欲，已曾得道未曾得道修者，離欲界修道所斷上上欲時，得三種解脫得：	若作是說，以未曾得道離欲，已曾得道未曾得道修者，離欲界修道所斷上上欲時，得三種解脫得：	If one says this, because one who has not yet attained the path to liberation has already attained the path and has not yet attained the path to cultivation, when one is about to abandon the upper upper desire of the path of cultivation that is to be abandoned, one attains three kinds of liberation attainments:
+['ZH_T28_1546_017:0129b05_1']	一是世俗曾得道；	一是世俗曾得道；	One is the mundane path that has been attained before;
+['ZH_T28_1546_017:0129b05_7']	二未曾得道；	二未曾得道；	The second is the path that has not been attained before;
+['ZH_T28_1546_017:0129b05_11']	三無漏。	三無漏。	The third is the undefiled [path].
+['ZH_T28_1546_017:0129b06_12']	於見道所斷上上欲得一解脫得，以曾得道故。	於見道所斷上上欲得一解脫得，以曾得道故。	When one is about to abandon the upper upper desire that is to be abandoned by the path of seeing, one attains one liberation attainment, because one has already attained the path.
+['ZH_T28_1546_017:0129b07_9']	以是義故，善去不共對治過亦作過說。	以是義故，善去不共對治過亦作過說。	For this reason, the good departure and the unique antidote are also said to be faults.
+['ZH_T28_1546_017:0129b09_4', 'ZH_T28_1546_017:0129b09_7']	頗有不退、不得果、不轉根，而於見道所斷結得作證耶？🔽答曰：	頗有不退、不得果、不轉根，而於見道所斷結得作證耶？ 答曰：	Is there anyone who does not regress, does not attain the fruit, does not change the faculties, but realizes the bonds that are to be abandoned by the path of seeing?🔽Answer:
+['ZH_T28_1546_017:0129b09_9']	有。	有。	There is.
+['ZH_T28_1546_017:0129b09_17']	如此所說者是也。	如此所說者是也。	This is what is meant.
+['ZH_T28_1546_017:0129b10_14']	如上上煩惱，乃至下下煩惱，說亦如是。	如上上煩惱，乃至下下煩惱，說亦如是。	The explanation of the upper-upper afflictions up to the lower-lower afflictions is also like this.
+['ZH_T28_1546_017:0129b11_13']	如離欲界欲，乃至離無所有處欲，說亦如是。	如離欲界欲，乃至離無所有處欲，說亦如是。	The explanation of detaching from the desire of the desire realm up to detaching from the desire of the sphere of nothingness is also like this.
+['ZH_T28_1546_017:0129b12_2']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0129b13_11']	頗一剎那頃當得信等五根，得而不捨、捨而不得，乃至廣作四句？	頗一剎那頃當得信等五根，得而不捨、捨而不得，乃至廣作四句？	Can one attain the five faculties such as faith in an instant, attain them and not abandon them, abandon them and not attain them, and so on, to make four sentences in full detail?
+['ZH_T28_1546_017:0129b13_14']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0129b13_16']	有。	有。	There are.
+['ZH_T28_1546_017:0129b15_6']	初句者，向阿那含果住最後無礙道時，當得初禪地善有漏諸根是也。	初句者，向阿那含果住最後無礙道時，當得初禪地善有漏諸根是也。	The first sentence refers to when one is about to attain the fruit of non-return and abides in the final unobstructed path, one attains the wholesome contaminated faculties of the first dhyāna ground.
+['ZH_T28_1546_017:0129b16_1']	第二句者，欲界悔憂俱根是也。	第二句者，欲界悔憂俱根是也。	The second sentence refers to the faculties of regret and sorrow in the desire realm.
+['ZH_T28_1546_017:0129b17_5']	第三句者，無漏諸根，捨無礙道所攝，當得解脫道所攝。	第三句者，無漏諸根，捨無礙道所攝，當得解脫道所攝。	The third sentence refers to the uncontaminated faculties, which are abandoned when the unobstructed path is abandoned and attained when the path of liberation is attained.
+['ZH_T28_1546_017:0129b17_16']	第四句者，除上爾所事。	第四句者，除上爾所事。	The fourth sentence excludes the above cases.
+['ZH_T28_1546_017:0129b17_19']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0129b18_10']	諸得過去，彼法亦過去耶？	諸得過去，彼法亦過去耶？	Are all dharmas that are attained in the past also past?
+['ZH_T28_1546_017:0129b19_1']	若法過去，彼得過去耶？	若法過去，彼得過去耶？	If a dharma is past, does it obtain the past?
+['ZH_T28_1546_017:0129b19_8']	乃至廣作四句。	乃至廣作四句。	And so on, elaborating into four sentences.
+['ZH_T28_1546_017:0129b19_11']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0129b19_13']	有。	有。	There is.
+['ZH_T28_1546_017:0129b20_13']	初句者，數滅非數滅得在過去，彼法非過去是也。	初句者，數滅非數滅得在過去，彼法非過去是也。	The first sentence refers to the attainment of cessation by calculation and cessation by non-calculation being in the past, but that dharma is not past.
+['ZH_T28_1546_017:0129b21_9']	第二句者，過去世非眾生數法是也。	第二句者，過去世非眾生數法是也。	The second sentence refers to dharmas not associated with sentient beings in the past.
+['ZH_T28_1546_017:0129b22_5']	第三句者，過去世眾生數法是也。	第三句者，過去世眾生數法是也。	The third sentence refers to dharmas associated with sentient beings in the past.
+['ZH_T28_1546_017:0129b23_5']	第四句者，虛空、未來現在非眾生數法是也。	第四句者，虛空、未來現在非眾生數法是也。	The fourth sentence refers to space, dharmas not associated with sentient beings in the future and present.
+['ZH_T28_1546_017:0129b23_17']	未來現在亦應如是作四句。	未來現在亦應如是作四句。	Four sentences should also be made in the same way for the future and present.
+['ZH_T28_1546_017:0129b24_2']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0129b24_13']	若法修，彼法得亦修耶？	若法修，彼法得亦修耶？	If a dharma is cultivated, is its attainment also cultivated?
+['ZH_T28_1546_017:0129b24_16']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0129b25_4']	若法修，彼法得亦修。	若法修，彼法得亦修。	If a dharma is cultivated, its attainment is also cultivated.
+['ZH_T28_1546_017:0129b25_15']	頗法得修，彼法不修耶？	頗法得修，彼法不修耶？	Is there a dharma whose attainment is cultivated but the dharma is not cultivated?
+['ZH_T28_1546_017:0129b25_18']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0129b26_2']	有，數滅是。	有，數滅是。	There is, namely cessation by calculation.
+['ZH_T28_1546_017:0129b27_2']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0129b27_17']	若法無得，彼法非不有解脫得耶？	若法無得，彼法非不有解脫得耶？	If a dharma has no attainment, does it not have the attainment of liberation?
+['ZH_T28_1546_017:0129b28_11']	若無解脫得，彼法非不有得耶？	若無解脫得，彼法非不有得耶？	If there is no attainment of liberation, is it not the case that those dharmas have no attainment?
+['ZH_T28_1546_017:0129b28_18']	乃至廣作四句。	乃至廣作四句。	And so on, elaborating the four alternatives.
+['ZH_T28_1546_017:0129b29_1']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0129b29_3']	有。	有。	There are.
+['ZH_T28_1546_017:0129c01_4']	初句者，非眾生數法，是謂無得非不有解脫得耶。	初句者，非眾生數法，是謂無得非不有解脫得耶。	The first alternative refers to dharmas that are not sentient beings, which are said to have no attainment but not no attainment of liberation.
+['ZH_T28_1546_017:0129c02_11']	第二句者，有為無漏數滅非數滅，是謂無解脫得非不有得也。	第二句者，有為無漏數滅非數滅，是謂無解脫得非不有得也。	The second alternative refers to conditioned and uncontaminated cessation and non-cessation, which are said to have no attainment of liberation but not no attainment.
+['ZH_T28_1546_017:0129c03_11']	第三句者，虛空，是謂非有得非有解脫得也。	第三句者，虛空，是謂非有得非有解脫得也。	The third alternative refers to space, which is said to have neither attainment nor attainment of liberation.
+['ZH_T28_1546_017:0129c04_18']	第四句者，眾生數有漏法，是謂非不有得非不有解脫得也。	第四句者，眾生數有漏法，是謂非不有得非不有解脫得也。	The fourth alternative refers to sentient beings' contaminated dharmas, which are said to have neither no attainment nor no attainment of liberation.
+['ZH_T28_1546_017:0129c05_2']	問曰：	問曰：	Question:
+['ZH_T28_1546_017:0129c05_15']	若法有得，彼法無解脫得耶？	若法有得，彼法無解脫得耶？	If a dharma has attainment, does that dharma have no attainment of liberation?
+['ZH_T28_1546_017:0129c06_8']	若法有解脫得，彼法無得耶？	若法有解脫得，彼法無得耶？	If a dharma has attainment of liberation, does that dharma have no attainment?
+['ZH_T28_1546_017:0129c06_15']	乃至廣作四句。	乃至廣作四句。	And so on, elaborating the four alternatives.
+['ZH_T28_1546_017:0129c06_18']	答曰：	答曰：	Answer:
+['ZH_T28_1546_017:0129c06_20']	有。	有。	There are.
+['ZH_T28_1546_017:0129c07_15']	初句者，有為無漏及數滅非數滅是也。	初句者，有為無漏及數滅非數滅是也。	The first alternative refers to conditioned and uncontaminated cessation and non-cessation.
+['ZH_T28_1546_017:0129c08_7']	第二句，非眾生數法是也。	第二句，非眾生數法是也。	The second phrase refers to dharmas that are not sentient beings.
+['ZH_T28_1546_017:0129c09_2']	第三句者，眾生數有漏法是也。	第三句者，眾生數有漏法是也。	The third phrase refers to dharmas that are sentient beings and have outflows.
+['ZH_T28_1546_017:0129c09_20']	第四句者，虛空是也此是句應在非句前。	第四句者，虛空是也此是句應在非句前。	The fourth phrase refers to space. This phrase should be placed before the phrase not a phrase.Here is the corrected and aligned text:
+['ZH_T28_1546_017:0129c10_100']	阿毘曇毘婆沙論卷第十七	阿毘曇毘婆沙論卷第十七	Abhidharma-vibhāṣā-śāstra, fascicle 17

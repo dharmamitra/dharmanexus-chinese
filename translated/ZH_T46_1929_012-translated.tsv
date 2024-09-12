@@ -1,0 +1,933 @@
+segmentnr	original	analyzed	translated
+['ZH_T46_1929_012:0764a23_0']	四教義卷第十二	四教義卷第十二	Volume 12 of the Four Teachings
+['ZH_T46_1929_012:0764a25_0']	天台山修禪寺智顗禪師撰	天台山修禪寺智顗禪師撰	Composed by Chan Master Zhiyi of Xiuchan Temple on Mount Tiantai
+['ZH_T46_1929_012:0764a26_0']	第三引眾經論證誠明圓教位者。大涅	第三引眾經論證誠明圓教位者。大涅	The third section cites various sutras and treatises to prove and clarify the stages of the perfect teaching. The great nirvana
+['ZH_T46_1929_012:0764a27_7']	槃經明月愛三昧。	槃經明月愛三昧。	Sutra, the samadhi of loving the bright moon,
+['ZH_T46_1929_012:0764a27_16']	從初一日至十五日。	從初一日至十五日。	From the first day to the fifteenth day,
+['ZH_T46_1929_012:0764a28_5']	光明漸漸增長。	光明漸漸增長。	The light gradually increases.
+['ZH_T46_1929_012:0764a28_15']	又從十六日至三十日。	又從十六日至三十日。	Again, from the sixteenth day to the thirtieth day,
+['ZH_T46_1929_012:0764a29_3']	光明漸漸滅盡。	光明漸漸滅盡。	The light gradually diminishes.
+['ZH_T46_1929_012:0764a29_10']	月光漸漸增長。	月光漸漸增長。	The moonlight gradually increases,
+['ZH_T46_1929_012:0764b01_3']	譬智德十五摩訶般若光明。	譬智德十五摩訶般若光明。	Which is likened to the fifteen kinds of wisdom and virtue of the great prajna light.
+['ZH_T46_1929_012:0764b01_8']	漸漸滅盡。	漸漸滅盡。	Gradually diminishing,
+['ZH_T46_1929_012:0764b01_14']	譬十五斷德。	譬十五斷德。	Is likened to the fifteen kinds of merit of severing [delusions].
+['ZH_T46_1929_012:0764b02_7']	無累解脫無明漸漸滅盡也。	無累解脫無明漸漸滅盡也。	The liberation of being free from afflictions and the gradual extinction of ignorance.
+['ZH_T46_1929_012:0764b02_14']	十五種智斷者。	十五種智斷者。	The fifteen kinds of wisdom and merit of severing [delusions] are as follows:
+['ZH_T46_1929_012:0764b03_4']	三十心為三智斷。	三十心為三智斷。	The thirty minds are divided into three kinds of wisdom and merit of severing [delusions].
+['ZH_T46_1929_012:0764b03_11']	十地為十智斷。	十地為十智斷。	The ten grounds are divided into ten kinds of wisdom and merit of severing [delusions].
+['ZH_T46_1929_012:0764b03_18']	等覺為一智斷。	等覺為一智斷。	The stage of equal enlightenment is divided into one kind of wisdom and merit of severing [delusions].
+['ZH_T46_1929_012:0764b04_6']	合為十五智斷。	合為十五智斷。	Combined, they form fifteen kinds of wisdom and merit of severing [delusions].
+['ZH_T46_1929_012:0764b04_16']	故從初一日至十五日。	故從初一日至十五日。	Therefore, from the first day to the fifteenth day,
+['ZH_T46_1929_012:0764b05_4']	故以月為譬也。	故以月為譬也。	Therefore, the moon is used as a metaphor.
+['ZH_T46_1929_012:0764b05_11']	月體即譬法身。	月體即譬法身。	The essence of the moon is likened to the Dharma body.
+['ZH_T46_1929_012:0764b06_10']	法身是一光明漸增譬般若智德不生而生。	法身是一光明漸增譬般若智德不生而生。	The Dharma body is one, and the light gradually increases, which is like the wisdom and virtue of prajñā not arising but arising.
+['ZH_T46_1929_012:0764b07_6']	光明漸減譬解脫斷德不滅而滅。	光明漸減譬解脫斷德不滅而滅。	The light gradually decreases, which is like the virtue of cutting off of liberation not extinguishing but extinguishing.
+['ZH_T46_1929_012:0764b07_12']	故涅槃經明。	故涅槃經明。	Therefore, the Nirvana Sutra explains.
+['ZH_T46_1929_012:0764b08_10']	從初實安置諸子祕密之藏三德涅槃。	從初實安置諸子祕密之藏三德涅槃。	From the beginning, the children are securely placed in the secret treasury of the three virtues of nirvana.
+['ZH_T46_1929_012:0764b09_7']	然後我亦當於此祕藏藏而般涅槃。	然後我亦當於此祕藏藏而般涅槃。	Then, I will also enter parinirvāṇa in this secret treasury.
+['ZH_T46_1929_012:0764b09_15']	此最後究竟涅槃。	此最後究竟涅槃。	This is the final ultimate parinirvāṇa.
+['ZH_T46_1929_012:0764b10_3']	名為不生不生。	名為不生不生。	It is called the non-arising of non-arising.
+['ZH_T46_1929_012:0764b10_12']	般若畢竟不生不滅。	般若畢竟不生不滅。	Prajñā is ultimately non-arising and non-extinguishing.
+['ZH_T46_1929_012:0764b11_1']	更無惑可滅也。	更無惑可滅也。	There are no more delusions to be extinguished.
+['ZH_T46_1929_012:0764b11_17']	問曰若是圓位頓悟一證即便應究竟。	問曰若是圓位頓悟一證即便應究竟。	Question: If this is the stage of completion and sudden enlightenment, then one should immediately attain the ultimate.
+['ZH_T46_1929_012:0764b12_12']	何得引月愛三昧十五日月喻。	何得引月愛三昧十五日月喻。	How can one cite the fifteen-day moon as a metaphor?
+['ZH_T46_1929_012:0764b13_6']	答曰一向無淺深已如前破。	答曰一向無淺深已如前破。	Answer: The lack of shallowness and depth has already been refuted above.
+['ZH_T46_1929_012:0764b13_15']	但證位是諸佛境界。	但證位是諸佛境界。	But the stage of realization is the realm of all buddhas.
+['ZH_T46_1929_012:0764b14_5']	凡夫未識豈可定執。	凡夫未識豈可定執。	How can ordinary people who do not yet understand it be determined?
+['ZH_T46_1929_012:0764b14_14']	今借十五日月喻者。	今借十五日月喻者。	Now, borrowing the metaphor of the fifteen-day moon,
+['ZH_T46_1929_012:0764b15_6']	此約不可喻中而論喻耳。	此約不可喻中而論喻耳。	this is discussing a metaphor within that which cannot be metaphorically illustrated.
+['ZH_T46_1929_012:0764b15_12', 'ZH_T46_1929_012:0764b15_17']	故涅槃經云。🔽又解脫者。	故涅槃經云。 又解脫者。	Therefore, the Nirvana Sutra says:
+['ZH_T46_1929_012:0764b16_3']	名無譬喻。	名無譬喻。	Moreover, liberation is called without analogy.
+['ZH_T46_1929_012:0764b16_12']	無譬喻者即真解脫。	無譬喻者即真解脫。	That which is without analogy is true liberation.
+['ZH_T46_1929_012:0764b17_1']	譬如面譬如滿月。	譬如面譬如滿月。	It is like a face, like a full moon.
+['ZH_T46_1929_012:0764b17_13']	實非無有五根相同彼月也。	實非無有五根相同彼月也。	In reality, it is not without the five faculties that are the same as the moon.
+['ZH_T46_1929_012:0764b18_5']	問曰何得知月喻譬地位。	問曰何得知月喻譬地位。	Question: How do we know that the moon metaphor illustrates the stages?
+['ZH_T46_1929_012:0764b18_17']	答曰勝天王般若具出此義。	答曰勝天王般若具出此義。	Answer: The Prajnaparamita Sutra of King Prasenajit fully explains this meaning.
+['ZH_T46_1929_012:0764b19_13']	問曰若約佛性中道明無明所覆。	問曰若約佛性中道明無明所覆。	Question: If the middle way in Buddha-nature is explained as being covered by ignorance,
+['ZH_T46_1929_012:0764b20_4']	何得定有四十二品。	何得定有四十二品。	how can it definitely have forty-two levels?
+['ZH_T46_1929_012:0764b20_13']	答曰此義前已略明。	答曰此義前已略明。	Answer: This meaning has already been briefly explained before.
+['ZH_T46_1929_012:0764b21_1']	無明雖無所有。	無明雖無所有。	Although ignorance does not exist,
+['ZH_T46_1929_012:0764b21_6']	不有而有。	不有而有。	it exists without existing.
+['ZH_T46_1929_012:0764b21_13']	不無淺深階品。	不無淺深階品。	It is not without shallow and deep levels.
+['ZH_T46_1929_012:0764b22_4']	一往大分為四十二品。	一往大分為四十二品。	Generally divided into forty-two levels.
+['ZH_T46_1929_012:0764b22_9']	然論品數。	然論品數。	However, in terms of the number of levels,
+['ZH_T46_1929_012:0764b23_1']	實自無量無邊不可說示。	實自無量無邊不可說示。	it is truly immeasurable, boundless, and indescribable.
+['ZH_T46_1929_012:0764b23_7']	故大智論云。	故大智論云。	Therefore, the Mahāprajñāpāramitā Śāstra says:
+['ZH_T46_1929_012:0764b23_16']	無明品類其數甚多。	無明品類其數甚多。	The types of ignorance are very numerous.
+['ZH_T46_1929_012:0764b24_8']	是故處處說破無明三昧。	是故處處說破無明三昧。	Therefore, it is said everywhere to destroy the samādhi of ignorance.
+['ZH_T46_1929_012:0764b24_11']	又云。	又云。	It also says:
+['ZH_T46_1929_012:0764b24_16']	法愛難盡。	法愛難盡。	The love of the Dharma is difficult to exhaust.
+['ZH_T46_1929_012:0764b25_5']	處處重說般若也。	處處重說般若也。	It is explained again and again in various places.
+['ZH_T46_1929_012:0764b25_10']	法華經云。	法華經云。	The Lotus Sutra says:
+['ZH_T46_1929_012:0764b26_2', 'ZH_T46_1929_012:0764b26_7']	諸佛為一大事因緣故。🔽出現於世。	諸佛為一大事因緣故。 出現於世。	The Buddhas appear in the world for the sake of one great matter.
+['ZH_T46_1929_012:0764b26_16', 'ZH_T46_1929_012:0764b27_1']	為令眾生開佛知見。🔽示佛知見。	為令眾生開佛知見。 示佛知見。	It is to cause sentient beings to open the Buddha's wisdom-insight,🔽to reveal the Buddha's wisdom-insight,
+['ZH_T46_1929_012:0764b27_6']	悟佛知見。	悟佛知見。	to awaken to the Buddha's wisdom-insight,
+['ZH_T46_1929_012:0764b27_13']	入佛知見道故。	入佛知見道故。	and to enter the Buddha's path of wisdom-insight.
+['ZH_T46_1929_012:0764b27_18']	此之四義。	此之四義。	These four meanings,
+['ZH_T46_1929_012:0764b28_3', 'ZH_T46_1929_012:0764b28_12']	南嶽師解云。🔽開佛知見即是十住。	南嶽師解云。 開佛知見即是十住。	the master of Nanyue explains:🔽Opening the Buddha's wisdom-insight is the ten abodes.
+['ZH_T46_1929_012:0764b29_2', 'ZH_T46_1929_012:0764b29_12']	示佛知見即是十行。🔽悟佛知見即是十迴向。	示佛知見即是十行。 悟佛知見即是十迴向。	Revealing the Buddha's wisdom-insight is the ten practices.🔽Awakening to the Buddha's wisdom-insight is the ten dedications of merit.
+['ZH_T46_1929_012:0764c01_2']	入佛知見即是十地。	入佛知見即是十地。	Entering the Buddha's wisdom-insight is the ten grounds,
+['ZH_T46_1929_012:0764c01_7']	及等覺地。	及等覺地。	as well as the ground of equal enlightenment.
+['ZH_T46_1929_012:0764c01_14']	皆言佛知見者。	皆言佛知見者。	All speak of the Buddha's wisdom-insight,
+['ZH_T46_1929_012:0764c02_3']	悉得一切種智也。	悉得一切種智也。	all attain the omniscience of all modes.
+['ZH_T46_1929_012:0764c02_10']	皆言佛知見者。	皆言佛知見者。	All speak of the Buddha's wisdom-insight,
+['ZH_T46_1929_012:0764c02_16']	悉得佛眼也。	悉得佛眼也。	all attain the Buddha's eye.
+['ZH_T46_1929_012:0764c03_3', 'ZH_T46_1929_012:0764c03_14']	又法句云。🔽是為諸佛一大事因緣者。	又法句云。 是為諸佛一大事因緣者。	Moreover, the Dharma Verses say:🔽This is the one great matter of the Buddhas,
+['ZH_T46_1929_012:0764c04_5']	同入一乘諸佛實相也。	同入一乘諸佛實相也。	it is the same entry into the one vehicle, the true aspect of all dharmas of the Buddhas.
+['ZH_T46_1929_012:0764c04_8']	又云。	又云。	It also says:
+['ZH_T46_1929_012:0764c05_2']	唯佛與佛乃能究盡諸法實相。	唯佛與佛乃能究盡諸法實相。	Only the Buddha, together with the Buddhas, can thoroughly understand the true nature of all dharmas.
+['ZH_T46_1929_012:0764c05_7']	又火宅品。	又火宅品。	Moreover, in the chapter on the burning house,
+['ZH_T46_1929_012:0764c05_14']	諸子門外索車。	諸子門外索車。	the children outside the gate ask for the carts.
+['ZH_T46_1929_012:0764c06_5']	長者各賜諸子等一大車。	長者各賜諸子等一大車。	The elder gives each child a great cart.
+['ZH_T46_1929_012:0764c06_10']	是時諸子。	是時諸子。	At that time, the children
+['ZH_T46_1929_012:0764c07_3']	乘此寶車遊於四方嬉戲。	乘此寶車遊於四方嬉戲。	ride these jeweled carts to play in the four directions,
+['ZH_T46_1929_012:0764c07_14']	快樂自在無礙直至道場。	快樂自在無礙直至道場。	happily and freely without obstruction, going straight to the place of practice.
+['ZH_T46_1929_012:0764c07_19']	言四方者。	言四方者。	As for the four directions,
+['ZH_T46_1929_012:0764c08_10']	即譬開示悟入之四位也。	即譬開示悟入之四位也。	they are metaphors for the four stages of revealing, understanding, realizing, and entering.
+['ZH_T46_1929_012:0764c08_15']	直至道場。	直至道場。	Going straight to the place of practice
+['ZH_T46_1929_012:0764c09_10']	即究竟盡諸法實相妙覺極位。	即究竟盡諸法實相妙覺極位。	is the ultimate stage of understanding the true nature of all dharmas, the wondrous enlightenment of ultimate perfection.
+['ZH_T46_1929_012:0764c10_4']	如此皆是明圓位之異名也。	如此皆是明圓位之異名也。	All of this clarifies the different names for the perfect stages.
+['ZH_T46_1929_012:0764c10_8']	大品經。	大品經。	In the Mahāprajñāpāramitā Sūtra,
+['ZH_T46_1929_012:0764c10_18']	明阿字等四十二字門。	明阿字等四十二字門。	it clarifies the gate of the forty-two letters beginning with A.
+['ZH_T46_1929_012:0764c11_5']	南嶽師解云。	南嶽師解云。	The teacher of Nanyue explains:
+['ZH_T46_1929_012:0764c11_13']	此是諸佛之密語。	此是諸佛之密語。	This is the secret language of the Buddhas,
+['ZH_T46_1929_012:0764c12_2']	表四十二心之位。	表四十二心之位。	symbolizing the stages of the forty-two minds.
+['ZH_T46_1929_012:0764c12_11']	若學問人多疑此語。	若學問人多疑此語。	Those who study often doubt this statement,
+['ZH_T46_1929_012:0764c12_19']	謂大智論無此釋。	謂大智論無此釋。	saying that the Mahāprajñāpāramitā Śāstra does not have this explanation.
+['ZH_T46_1929_012:0764c13_7']	然龍樹釋大品經。	然龍樹釋大品經。	However, Nāgârjuna's commentary on the Mahāprajñāpāramitā Sūtra,
+['ZH_T46_1929_012:0764c13_16']	論有千卷什師並略。	論有千卷什師並略。	the treatise has a thousand scrolls, which Master Kumārajīva abbreviated.
+['ZH_T46_1929_012:0764c14_4']	何必無此釋也。	何必無此釋也。	Why must there be no such interpretation?
+['ZH_T46_1929_012:0764c14_13']	今謂此解深應冥會。	今謂此解深應冥會。	Now, I say that this interpretation should deeply accord with the truth.
+['ZH_T46_1929_012:0764c14_18']	所以然者。	所以然者。	The reason is as follows.
+['ZH_T46_1929_012:0764c15_6']	經說初阿後荼。	經說初阿後荼。	The sutra speaks of the first letter a and the last letter ta.
+['ZH_T46_1929_012:0764c15_13', 'ZH_T46_1929_012:0764c16_5']	中有四十二字。🔽初阿字門亦具四十二字。	中有四十二字。 初阿字門亦具四十二字。	In between, there are forty-two letters.🔽The first letter a also contains forty-two letters.
+['ZH_T46_1929_012:0764c16_16']	後荼字門亦具四十二字。	後荼字門亦具四十二字。	The last letter ta also contains forty-two letters.
+['ZH_T46_1929_012:0764c17_2']	華嚴經云。	華嚴經云。	The Huayan Sutra says:
+['ZH_T46_1929_012:0764c17_15']	從初一地具足一切諸地功德。	從初一地具足一切諸地功德。	From the first ground, it is fully endowed with the merits of all grounds.
+['ZH_T46_1929_012:0764c18_1']	詳此義意。	詳此義意。	Examining this meaning,
+['ZH_T46_1929_012:0764c18_6']	極似相關。	極似相關。	it is extremely similar to the related [teachings].
+['ZH_T46_1929_012:0764c18_12']	又大品經云。	又大品經云。	Moreover, the Mahāprajñāpāramitā Śāstra says:
+['ZH_T46_1929_012:0764c18_19']	若聞初阿字門。	若聞初阿字門。	If one hears the first letter 'a',
+['ZH_T46_1929_012:0764c19_5']	則解一切義。	則解一切義。	then one understands all meanings.
+['ZH_T46_1929_012:0764c19_15']	所謂一切法初不生故。	所謂一切法初不生故。	That is to say, all phenomena are originally unborn.
+['ZH_T46_1929_012:0764c20_4']	此豈非圓教菩薩。	此豈非圓教菩薩。	How could this not be the stage of the bodhisattva of the perfect teaching,
+['ZH_T46_1929_012:0764c20_14']	初得無生法忍之位也。	初得無生法忍之位也。	who has initially attained the forbearance of the non-arising of dharmas?
+['ZH_T46_1929_012:0764c21_3']	過荼無字可說。	過荼無字可說。	Beyond 'ta', there are no letters that can be spoken.
+['ZH_T46_1929_012:0764c22_1']	此豈非是妙覺極地無上無上無過。	此豈非是妙覺極地無上無上無過。	How could this not be the stage of wondrous enlightenment, the utmost of the utmost, with nothing above it?
+['ZH_T46_1929_012:0764c22_13']	不可過此字有法而可說也。	不可過此字有法而可說也。	There are no dharmas beyond this letter that can be spoken.
+['ZH_T46_1929_012:0764c23_3']	又大品經廣乘品。	又大品經廣乘品。	Moreover, in the chapter on the great vehicle in the Mahāprajñāpāramitā Śāstra,
+['ZH_T46_1929_012:0764c23_10']	說一切法門竟。	說一切法門竟。	Having finished explaining the Dharma gates of all dharmas,
+['ZH_T46_1929_012:0764c23_17']	即說四十二字。	即說四十二字。	he then spoke of the forty-two letters.
+['ZH_T46_1929_012:0764c24_5']	豈非是圓教菩薩。	豈非是圓教菩薩。	How could this not be the bodhisattvas of the perfect teaching?
+['ZH_T46_1929_012:0764c24_15']	從初發心得諸法實相。	從初發心得諸法實相。	From the initial arousal of the mind, one attains the true nature of all dharmas.
+['ZH_T46_1929_012:0764c25_2']	具一切佛法。	具一切佛法。	Endowed with all the Buddha's teachings,
+['ZH_T46_1929_012:0764c25_7']	故名阿字。	故名阿字。	therefore it is called the letter A.
+['ZH_T46_1929_012:0764c25_19']	至妙覺地窮一切諸法源底。	至妙覺地窮一切諸法源底。	Up to the stage of wondrous enlightenment, one exhausts the very source of all dharmas,
+['ZH_T46_1929_012:0764c26_4']	故名荼字。	故名荼字。	therefore it is called the letter D.
+['ZH_T46_1929_012:0764c26_17']	作此解釋圓教之位極似分明。	作此解釋圓教之位極似分明。	Making this interpretation, the stages of the perfect teaching seem extremely clear.
+['ZH_T46_1929_012:0764c27_5']	又四十二字門。	又四十二字門。	Moreover, the gate of the forty-two letters,
+['ZH_T46_1929_012:0764c27_11']	後即說十地。	後即說十地。	after which the ten grounds are immediately explained,
+['ZH_T46_1929_012:0764c28_5']	此即是顯別教方便之次位也。	此即是顯別教方便之次位也。	this is precisely the manifestation of the subsequent stages of skillful means of the separate teaching.
+['ZH_T46_1929_012:0764c28_16']	又次十地說三乘共十地。	又次十地說三乘共十地。	Moreover, after the ten grounds, the ten grounds shared by the three vehicles are explained,
+['ZH_T46_1929_012:0764c29_8']	即是顯通教方便之位也。	即是顯通教方便之位也。	this is the manifestation of the stages of skillful means of the common teaching.
+['ZH_T46_1929_012:0764c29_15']	經文三處宛然。	經文三處宛然。	The passages in the sūtra are distinct in three places.
+['ZH_T46_1929_012:0765a01_5']	比決圓別通三教。	比決圓別通三教。	Comparing and determining the perfect, separate, and common teachings,
+['ZH_T46_1929_012:0765a01_13']	顯在大品經文也。	顯在大品經文也。	they are revealed in the text of the Mahāprajñāpāramitā Sūtra.
+['ZH_T46_1929_012:0765a02_1']	故大品經云。	故大品經云。	Therefore, the Mahāprajñāpāramitā Sūtra says:
+['ZH_T46_1929_012:0765a02_7']	是乘從三界。	是乘從三界。	This vehicle goes out from the three realms,
+['ZH_T46_1929_012:0765a02_15']	出到薩婆若中住。	出到薩婆若中住。	and reaches the state of omniscience.
+['ZH_T46_1929_012:0765a03_2']	又三慧品云。	又三慧品云。	Moreover, the chapter on the three kinds of wisdom says:
+['ZH_T46_1929_012:0765a03_13']	菩薩從初發心修習三慧。	菩薩從初發心修習三慧。	Bodhisattvas, from the initial arousal of the mind, cultivate the three kinds of wisdom.
+['ZH_T46_1929_012:0765a03_18']	至坐道場。	至坐道場。	Up to sitting at the site of enlightenment.
+['ZH_T46_1929_012:0765a04_5']	仁王般若經云。	仁王般若經云。	The Renwang Bore Jing says:
+['ZH_T46_1929_012:0765a04_13']	三賢十聖忍中行。	三賢十聖忍中行。	The three sages and ten saints practice within forbearance.
+['ZH_T46_1929_012:0765a05_2']	唯佛一人能盡源。	唯佛一人能盡源。	Only the Buddha, alone, is able to exhaust the source.
+['ZH_T46_1929_012:0765a05_12']	前所引思益楞伽等經。	前所引思益楞伽等經。	The Siyi Lengjia and other sutras mentioned above.
+['ZH_T46_1929_012:0765a06_3']	明寂滅真如有何次位。	明寂滅真如有何次位。	Clarify that the true nature of quiescent extinction has no successive stages.
+['ZH_T46_1929_012:0765a06_13']	即是無次位之次位也。	即是無次位之次位也。	This is precisely the successive stages that are without successive stages.
+['ZH_T46_1929_012:0765a06_19']	又瓔珞經云。	又瓔珞經云。	Moreover, the Yinyang Jing says:
+['ZH_T46_1929_012:0765a07_8']	三賢菩薩心心寂滅。	三賢菩薩心心寂滅。	The three sages and ten saints, moment by moment, are in quiescent extinction.
+['ZH_T46_1929_012:0765a07_17']	自然流入薩婆若海。	自然流入薩婆若海。	Naturally flowing into the ocean of sarvajña.
+['ZH_T46_1929_012:0765a08_7']	華嚴經明四十一位。	華嚴經明四十一位。	The Huayan Jing clarifies the forty-one stages.
+['ZH_T46_1929_012:0765a08_14']	既是圓頓之教。	既是圓頓之教。	Since it is a perfect and sudden teaching.
+['ZH_T46_1929_012:0765a09_5']	明圓位之意甚自分明。	明圓位之意甚自分明。	The meaning of clarifying the perfect stages is very clear.
+['ZH_T46_1929_012:0765a09_16']	但有時開別教方便之說。	但有時開別教方便之說。	But sometimes it opens up the expedient teachings of the separate teaching.
+['ZH_T46_1929_012:0765a10_6']	事相隔別似如淺近。	事相隔別似如淺近。	The phenomena and characteristics are separate, seemingly shallow and close.
+['ZH_T46_1929_012:0765a10_12', 'ZH_T46_1929_012:0765a11_3']	故十地論師。🔽作教道證道二道明義。	故十地論師。 作教道證道二道明義。	Therefore, the masters of the Shidi Lun.🔽Make the two paths of the path of teaching and the path of realization to clarify the meaning.
+['ZH_T46_1929_012:0765a11_14']	或作地相地實二種明義。	或作地相地實二種明義。	Or make the two kinds of clarification of the characteristics of the stages and the reality of the stages.
+['ZH_T46_1929_012:0765a12_10']	正是為修行別教方便事相之文也。	正是為修行別教方便事相之文也。	This is precisely the text on the expedient phenomena for practicing the separate teaching.
+['ZH_T46_1929_012:0765a12_13']	又云。	又云。	It also says:
+['ZH_T46_1929_012:0765a13_8']	一切無礙人一切道出生死也。	一切無礙人一切道出生死也。	All unobstructed people all paths to escape from birth and death.
+['ZH_T46_1929_012:0765a13_13']	智度論云。	智度論云。	The Mahāprajñāpāramitā Śāstra says:
+['ZH_T46_1929_012:0765a14_2']	菩薩從初發心。	菩薩從初發心。	Bodhisattvas, from the initial generation of the mind,
+['ZH_T46_1929_012:0765a14_8']	觀涅槃行道。	觀涅槃行道。	Contemplate nirvāṇa and practice the path,
+['ZH_T46_1929_012:0765a14_14']	乃至坐道場。	乃至坐道場。	Up to sitting in the place of enlightenment.
+['ZH_T46_1929_012:0765a14_17']	又云。	又云。	It also says:
+['ZH_T46_1929_012:0765a15_4']	菩薩從初發心。	菩薩從初發心。	Bodhisattvas, from the initial generation of the mind,
+['ZH_T46_1929_012:0765a15_11']	觀諸法實相慧。	觀諸法實相慧。	Contemplate the wisdom of the true characteristics of all dharmas,
+['ZH_T46_1929_012:0765a15_19']	名為般若波羅蜜。	名為般若波羅蜜。	Which is called prajñā-pāramitā.
+['ZH_T46_1929_012:0765a16_10']	至佛心中變名一切種智。	至佛心中變名一切種智。	Up to the mind of a buddha, it transforms and is called omniscience.
+['ZH_T46_1929_012:0765a17_1']	譬如入海有始入者。	譬如入海有始入者。	It is like entering the ocean, some have just begun to enter,
+['ZH_T46_1929_012:0765a17_10']	有後入者有至半者。	有後入者有至半者。	Some have entered later, some have reached the halfway point,
+['ZH_T46_1929_012:0765a17_16']	有到彼岸者。	有到彼岸者。	Some have reached the other shore.
+['ZH_T46_1929_012:0765a18_2']	皆名入海。	皆名入海。	They are all called entering the ocean.
+['ZH_T46_1929_012:0765a18_7']	菩薩亦爾。	菩薩亦爾。	Bodhisattvas are also like this.
+['ZH_T46_1929_012:0765a18_17']	從初發心觀諸法實相。	從初發心觀諸法實相。	From the initial generation of the mind, they contemplate the true characteristics of all dharmas.
+['ZH_T46_1929_012:0765a19_3']	實相雖一。	實相雖一。	Although the true characteristics are one,
+['ZH_T46_1929_012:0765a19_14']	而觀智不無淺深之殊也。	而觀智不無淺深之殊也。	The wisdom of contemplation is not without distinctions of shallow and deep.
+['ZH_T46_1929_012:0765a19_19']	第四料簡。	第四料簡。	Fourth, analyzing and clarifying.
+['ZH_T46_1929_012:0765a20_15']	問曰何不依大乘經論對諸法門明位。	問曰何不依大乘經論對諸法門明位。	Question: Why not rely on the Mahāyāna sūtras and treatises to clarify the stages according to various Dharma gates?
+['ZH_T46_1929_012:0765a20_18']	答曰。	答曰。	Answer:
+['ZH_T46_1929_012:0765a21_6']	今引此等經論。	今引此等經論。	Now, citing these sutras and treatises,
+['ZH_T46_1929_012:0765a21_14']	釋成圓教次位者。	釋成圓教次位者。	To explain the stages of the perfect teaching,
+['ZH_T46_1929_012:0765a22_5']	此約不思議平等法界。	此約不思議平等法界。	This is based on the inconceivable equal dharma realm,
+['ZH_T46_1929_012:0765a22_17']	辨不思議非次位之次位也。	辨不思議非次位之次位也。	Discerning the inconceivable, which is not the stages of stages.
+['ZH_T46_1929_012:0765a23_4']	若別對法門。	若別對法門。	If specifically corresponding to the Dharma gates,
+['ZH_T46_1929_012:0765a23_11']	尋者若不得意。	尋者若不得意。	If the seeker does not understand the meaning,
+['ZH_T46_1929_012:0765a23_17']	多別解別執。	多別解別執。	There will be many separate explanations and attachments,
+['ZH_T46_1929_012:0765a24_7']	則失圓通中道之正意。	則失圓通中道之正意。	Then losing the correct meaning of the perfect unobstructed middle way,
+['ZH_T46_1929_012:0765a25_1']	不思議諸佛菩薩之次位也。	不思議諸佛菩薩之次位也。	The stages of the inconceivable Buddhas and Bodhisattvas.
+['ZH_T46_1929_012:0765a25_9']	是事非凡夫所知。	是事非凡夫所知。	This matter is not known to ordinary people,
+['ZH_T46_1929_012:0765a25_16']	正可仰信而已。	正可仰信而已。	One can only revere and believe in it.
+['ZH_T46_1929_012:0765a26_3']	故華嚴經云。	故華嚴經云。	Therefore, the Huayan Sutra says:
+['ZH_T46_1929_012:0765a26_9']	諸地不可說。	諸地不可說。	The stages cannot be spoken of,
+['ZH_T46_1929_012:0765a26_15']	何況以示人。	何況以示人。	How much more so to show them to people.
+['ZH_T46_1929_012:0765a27_1']	所以然者。	所以然者。	The reason for this is as follows:
+['ZH_T46_1929_012:0765a27_6']	且置大乘。	且置大乘。	Let alone the Mahayana,
+['ZH_T46_1929_012:0765a27_13']	懺悔發初隨喜。	懺悔發初隨喜。	Repenting and giving rise to initial joy,
+['ZH_T46_1929_012:0765a28_5']	一信心獲一施陀羅尼門。	一信心獲一施陀羅尼門。	One mind of faith obtains one dhāraṇī gate of giving,
+['ZH_T46_1929_012:0765a28_14']	已不可向一切人說。	已不可向一切人說。	Already it cannot be spoken to all people,
+['ZH_T46_1929_012:0765a29_3']	雖復種種分別。	雖復種種分別。	Although there are various distinctions,
+['ZH_T46_1929_012:0765a29_8']	亦不可解。	亦不可解。	It is also incomprehensible,
+['ZH_T46_1929_012:0765b01_1']	何況圓教四十二心法門。	何況圓教四十二心法門。	How much more so the forty-two mind Dharma gates of the perfect teaching!
+['ZH_T46_1929_012:0765b01_9']	二乘尚不聞其名。	二乘尚不聞其名。	The two vehicles do not even hear its name.
+['ZH_T46_1929_012:0765b01_18']	豈有凡夫而能說也。	豈有凡夫而能說也。	How could an ordinary person be able to speak of it?
+['ZH_T46_1929_012:0765b02_4']	且置是事。	且置是事。	Let us set this aside for now.
+['ZH_T46_1929_012:0765b02_14']	如聲聞法中學四念處。	如聲聞法中學四念處。	In the teachings of the śrāvakas, one cultivates the four establishments of mindfulness.
+['ZH_T46_1929_012:0765b02_19']	發煖法時。	發煖法時。	When giving rise to the heat stage,
+['ZH_T46_1929_012:0765b03_12']	亦不可向一切外凡未證者說。	亦不可向一切外凡未證者說。	one also cannot speak of it to all ordinary beings who have not yet realized it.
+['ZH_T46_1929_012:0765b04_4']	設種種因緣而解說者。	設種種因緣而解說者。	Even if one explains it with various causes and conditions,
+['ZH_T46_1929_012:0765b04_10']	終不可能解。	終不可能解。	in the end it will not be possible to understand.
+['ZH_T46_1929_012:0765b05_2']	豈況圓教諸佛菩薩位行。	豈況圓教諸佛菩薩位行。	How much more so for the stages and practices of buddhas and bodhisattvas in the perfect teaching!
+['ZH_T46_1929_012:0765b05_9']	而可知可說也。	而可知可說也。	How could it be known or spoken of?
+['ZH_T46_1929_012:0765b05_14']	且置是事。	且置是事。	Let us set this aside for now.
+['ZH_T46_1929_012:0765b06_2']	如世凡人坐禪。	如世凡人坐禪。	In the world, ordinary people sit in meditation.
+['ZH_T46_1929_012:0765b06_9']	發禪五支功德。	發禪五支功德。	They give rise to the five factors of dhyāna.
+['ZH_T46_1929_012:0765b06_18']	尚不可為未證者說。	尚不可為未證者說。	They still cannot speak of it to those who have not yet realized it.
+['ZH_T46_1929_012:0765b07_5']	設方便巧說。	設方便巧說。	Even if they skillfully explain it with skillful means,
+['ZH_T46_1929_012:0765b07_14']	未證之者亦不能解。	未證之者亦不能解。	those who have not yet realized it will also be unable to understand.
+['ZH_T46_1929_012:0765b08_11']	豈況諸佛菩薩地位法門而可分別也。	豈況諸佛菩薩地位法門而可分別也。	How much more so for the Dharma gates of the stages of buddhas and bodhisattvas, which can be distinguished!
+['ZH_T46_1929_012:0765b08_16']	末代法師。	末代法師。	Dharma masters of the latter age
+['ZH_T46_1929_012:0765b09_8']	多取經論方便所明斷伏。	多取經論方便所明斷伏。	often take the cessation and subduing explained in the skillful means of the sūtras and śāstras,
+['ZH_T46_1929_012:0765b09_13']	對諸法門。	對諸法門。	and match them with various Dharma gates,
+['ZH_T46_1929_012:0765b10_4']	釋大乘賢聖地位云云。	釋大乘賢聖地位云云。	explaining the stages of sages and worthies in the Mahāyāna.
+['ZH_T46_1929_012:0765b10_9']	今意不爾。	今意不爾。	My intention is not like this now.
+['ZH_T46_1929_012:0765b10_14']	所以者何。	所以者何。	Why is it so?
+['ZH_T46_1929_012:0765b11_4']	如水性冷飲者方知。	如水性冷飲者方知。	Just as the nature of water is cold, only those who drink it know it.
+['ZH_T46_1929_012:0765b11_13']	心無實行何用問為。	心無實行何用問為。	The mind has no real practice, so what is the use of asking?
+['ZH_T46_1929_012:0765b12_4']	是以今辨四教四位者。	是以今辨四教四位者。	Therefore, now I distinguish the four teachings and four stages.
+['ZH_T46_1929_012:0765b12_9']	出諸經論。	出諸經論。	They come from various sūtras and treatises.
+['ZH_T46_1929_012:0765b12_18']	此乃諸佛權實法門。	此乃諸佛權實法門。	This is the gate of the provisional and true Dharma of all Buddhas.
+['ZH_T46_1929_012:0765b13_5']	於四不可說中。	於四不可說中。	Among the four inexpressibles,
+['ZH_T46_1929_012:0765b13_12']	用四悉檀而說。	用四悉檀而說。	using the four siddhāntas, it is explained.
+['ZH_T46_1929_012:0765b14_3']	此是諸佛大菩薩境界。	此是諸佛大菩薩境界。	This is the realm of all Buddhas and great bodhisattvas.
+['ZH_T46_1929_012:0765b14_15']	非諸小菩薩聲聞緣覺所知。	非諸小菩薩聲聞緣覺所知。	It is not known by the small bodhisattvas, śrāvakas, and pratyekabuddhas.
+['ZH_T46_1929_012:0765b15_7']	豈況末代凡夫所能解也。	豈況末代凡夫所能解也。	How much less can it be understood by ordinary people of the latter age?
+['ZH_T46_1929_012:0765b15_18']	深屬一家學道說法之者。	深屬一家學道說法之者。	It deeply belongs to those who study and expound the Way in one's own family.
+['ZH_T46_1929_012:0765b16_6']	自非得證分明。	自非得證分明。	If one does not attain clear realization oneself,
+['ZH_T46_1929_012:0765b17_6']	慎勿偏執諸經論諸佛菩薩方便赴緣之言。	慎勿偏執諸經論諸佛菩薩方便赴緣之言。	one should be cautious not to cling to the expedient words of various sūtras, treatises, Buddhas, and bodhisattvas that accord with conditions.
+['ZH_T46_1929_012:0765b18_2']	空諍不思議不可測量之行位也。	空諍不思議不可測量之行位也。	In vain, one disputes the inconceivable and immeasurable practices and stages.
+['ZH_T46_1929_012:0765b18_9']	普願法界眾生。	普願法界眾生。	Universally, it is wished that sentient beings in the Dharma realm
+['ZH_T46_1929_012:0765b18_15']	歸僧息諍論。	歸僧息諍論。	return to the Saṅgha and cease disputes.
+['ZH_T46_1929_012:0765b19_3']	入大和合海也。	入大和合海也。	Enter the ocean of great harmony.
+['ZH_T46_1929_012:0765b19_17']	第五約圓教位釋淨無垢稱義者。	第五約圓教位釋淨無垢稱義者。	Fifth, explaining the meaning of Pure and Unstained in terms of the stages of the perfect teaching.
+['ZH_T46_1929_012:0765b20_3']	維摩大士。	維摩大士。	The great being Vimalakīrti.
+['ZH_T46_1929_012:0765b20_12']	若是位在法身補處。	若是位在法身補處。	If his stage is in the Dharma body and he is about to become a Buddha,
+['ZH_T46_1929_012:0765b21_4']	即是等覺金剛無垢之位。	即是等覺金剛無垢之位。	then it is the stage of adamantine purity of the stage of equal enlightenment.
+['ZH_T46_1929_012:0765b21_9']	智慧將圓。	智慧將圓。	Wisdom is about to be perfected.
+['ZH_T46_1929_012:0765b21_15']	如十四日月。	如十四日月。	Like the fourteenth day of the lunar month.
+['ZH_T46_1929_012:0765b22_1']	無明將盡。	無明將盡。	Ignorance is about to be exhausted.
+['ZH_T46_1929_012:0765b22_8']	如二十九日月。	如二十九日月。	Like the twenty-ninth day of the lunar month.
+['ZH_T46_1929_012:0765b22_14']	故智度論云。	故智度論云。	Therefore the Mahāprajñāpāramitā Śāstra says:
+['ZH_T46_1929_012:0765b22_19']	普賢文殊。	普賢文殊。	Samantabhadra and Mañjuśrī
+['ZH_T46_1929_012:0765b23_7']	亦有十力四無所畏。	亦有十力四無所畏。	also have the ten powers and four forms of fearlessness.
+['ZH_T46_1929_012:0765b23_13']	如十四日月。	如十四日月。	Like the fourteenth day of the lunar month.
+['ZH_T46_1929_012:0765b24_5']	佛亦具足十力四無所畏。	佛亦具足十力四無所畏。	The Buddha also fully possesses the ten powers and four forms of fearlessness.
+['ZH_T46_1929_012:0765b24_12']	如十五日月也。	如十五日月也。	Like the fifteenth day of the lunar month.
+['ZH_T46_1929_012:0765b24_17']	法性理顯。	法性理顯。	The principle of the nature of dharmas is revealed.
+['ZH_T46_1929_012:0765b25_2']	故名為淨。	故名為淨。	Therefore it is called pure.
+['ZH_T46_1929_012:0765b25_9']	無明惑垢將盡。	無明惑垢將盡。	The defilements of ignorance are about to be exhausted.
+['ZH_T46_1929_012:0765b25_14']	故稱無垢。	故稱無垢。	Therefore it is called unstained.
+['ZH_T46_1929_012:0765b26_4']	等覺智慧稱理圓明。	等覺智慧稱理圓明。	The wisdom of equal enlightenment is in accord with the perfect illumination of principle.
+['ZH_T46_1929_012:0765b26_9']	稱機而照。	稱機而照。	It illuminates in accordance with the capacities of beings.
+['ZH_T46_1929_012:0765b26_17']	故言淨無垢稱也。	故言淨無垢稱也。	Therefore it is called Pure and Unstained.
+['ZH_T46_1929_012:0765b27_4']	是則位隣妙覺。	是則位隣妙覺。	This then is the stage adjacent to wondrous enlightenment.
+['ZH_T46_1929_012:0765b27_9']	若論圓應。	若論圓應。	If we discuss perfect response,
+['ZH_T46_1929_012:0765b28_6']	乃至十方佛土現十法界身八相成道。	乃至十方佛土現十法界身八相成道。	Up to manifesting the bodies of the ten dharma realms in the buddha lands of the ten directions, accomplishing the eight aspects of the path.
+['ZH_T46_1929_012:0765b28_16']	此土應宜現補處之形。	此土應宜現補處之形。	The appropriate manifestation in this land is the form of one who is about to attain Buddhahood.
+['ZH_T46_1929_012:0765b29_4']	故居無動佛所。	故居無動佛所。	Therefore, he resides in the place of the Buddha Immovable.
+['ZH_T46_1929_012:0765b29_10']	為補處菩薩。	為補處菩薩。	As a bodhisattva who is about to attain Buddhahood,
+['ZH_T46_1929_012:0765b29_15']	來遊忍界。	來遊忍界。	he comes to the world of endurance.
+['ZH_T46_1929_012:0765c01_1']	呵諸菩薩。	呵諸菩薩。	He rebukes the bodhisattvas,
+['ZH_T46_1929_012:0765c01_9']	皆稱不任問疾者。	皆稱不任問疾者。	all saying that they are not worthy to inquire about his illness.
+['ZH_T46_1929_012:0765c01_16']	正以圓破偏也。	正以圓破偏也。	This is precisely using the perfect to break the biased.
+['ZH_T46_1929_012:0765c02_9']	又說入不二法門而獨默然者。	又說入不二法門而獨默然者。	Moreover, he speaks of entering the non-dual dharma gate but remains silent alone.
+['ZH_T46_1929_012:0765c02_17']	表圓教內證法門。	表圓教內證法門。	This illustrates the dharma gate of inner realization in the perfect teaching.
+['ZH_T46_1929_012:0765c03_4']	不可說示也。	不可說示也。	It cannot be spoken or demonstrated.
+['ZH_T46_1929_012:0765c03_11']	第五約五味譬。	第五約五味譬。	Fifth, using the five flavors as analogies.
+['ZH_T46_1929_012:0765c03_17']	明四教位者。	明四教位者。	To clarify the stages of the four teachings.
+['ZH_T46_1929_012:0765c04_9']	大涅槃經明五味譬不同。	大涅槃經明五味譬不同。	The Mahāparinirvāṇa Sūtra clarifies the different analogies of the five flavors.
+['ZH_T46_1929_012:0765c05_3']	以成四教辨位不同之相也。	以成四教辨位不同之相也。	Using them to form the different aspects of clarifying the stages of the four teachings.
+['ZH_T46_1929_012:0765c05_6']	經云。	經云。	The sūtra says:
+['ZH_T46_1929_012:0765c05_11', 'ZH_T46_1929_012:0765c05_17']	凡夫如乳。🔽須陀洹如酪。	凡夫如乳。 須陀洹如酪。	Ordinary beings are like milk.🔽Srotāpannas are like curdled milk.
+['ZH_T46_1929_012:0765c06_4']	斯陀含如生蘇。	斯陀含如生蘇。	Sakṛdāgāmins are like raw ghee.
+['ZH_T46_1929_012:0765c06_11']	阿那含如熟蘇。	阿那含如熟蘇。	Anāgāmins are like mature ghee.
+['ZH_T46_1929_012:0765c07_2']	阿羅漢辟支佛如醍醐。	阿羅漢辟支佛如醍醐。	Arhats and pratyekabuddhas are like the finest ghee.
+['ZH_T46_1929_012:0765c07_6']	此譬意。	此譬意。	The meaning of this analogy is:
+['ZH_T46_1929_012:0765c07_16']	恐是顯三藏教明位也。	恐是顯三藏教明位也。	I fear this illustrates the stages in the Tripiṭaka Teaching.
+['ZH_T46_1929_012:0765c08_1']	經又云。	經又云。	The sūtra also says:
+['ZH_T46_1929_012:0765c08_10']	凡夫如乳聲聞如酪。	凡夫如乳聲聞如酪。	Ordinary beings are like milk, śrāvakas are like curdled milk,
+['ZH_T46_1929_012:0765c08_17']	辟支佛如生蘇。	辟支佛如生蘇。	pratyekabuddhas are like fresh butter,
+['ZH_T46_1929_012:0765c09_4']	菩薩如熟蘇。	菩薩如熟蘇。	bodhisattvas are like clarified butter,
+['ZH_T46_1929_012:0765c09_9']	佛如醍醐。	佛如醍醐。	and buddhas are like ghee.
+['ZH_T46_1929_012:0765c10_2']	此譬意恐是顯通教明位也。	此譬意恐是顯通教明位也。	I fear this parable illustrates the stages in the Shared Teaching.
+['ZH_T46_1929_012:0765c10_6']	經又云。	經又云。	The sūtra also says:
+['ZH_T46_1929_012:0765c10_13']	凡夫如雜血乳。	凡夫如雜血乳。	Ordinary beings are like blood-mixed milk,
+['ZH_T46_1929_012:0765c11_1']	羅漢如清淨乳。	羅漢如清淨乳。	arhats are like pure milk,
+['ZH_T46_1929_012:0765c11_7']	辟支佛如酪。	辟支佛如酪。	pratyekabuddhas are like curdled milk,
+['ZH_T46_1929_012:0765c11_14']	菩薩如生熟蘇。	菩薩如生熟蘇。	bodhisattvas are like fresh and mature butter,
+['ZH_T46_1929_012:0765c11_19']	佛如醍醐。	佛如醍醐。	and buddhas are like ghee.
+['ZH_T46_1929_012:0765c12_10']	此譬意恐顯別教明位也。	此譬意恐顯別教明位也。	I fear this parable illustrates the stages in the Distinct Teaching.
+['ZH_T46_1929_012:0765c12_14']	經又云。	經又云。	The sūtra also says:
+['ZH_T46_1929_012:0765c13_4']	雪山有草名曰忍辱。	雪山有草名曰忍辱。	There is a grass in the Himalayas called forbearance.
+['ZH_T46_1929_012:0765c13_13']	牛若食者即得醍醐。	牛若食者即得醍醐。	If cows eat it, they will obtain ghee.
+['ZH_T46_1929_012:0765c14_3']	忍辱草者喻八聖道。	忍辱草者喻八聖道。	The grass of forbearance is a metaphor for the eightfold noble path.
+['ZH_T46_1929_012:0765c14_10']	乳喻十二部經。	乳喻十二部經。	Milk is a metaphor for the twelve divisions of the canon.
+['ZH_T46_1929_012:0765c14_19']	隨有能修八聖道者。	隨有能修八聖道者。	Those who are able to cultivate the eightfold noble path
+['ZH_T46_1929_012:0765c15_8']	即見佛性住大涅槃。	即見佛性住大涅槃。	will see the Buddha-nature and abide in great nirvāṇa.
+['ZH_T46_1929_012:0765c15_17']	此即譬於圓教菩薩。	此即譬於圓教菩薩。	This is a metaphor for the bodhisattvas of the Perfect Teaching.
+['ZH_T46_1929_012:0765c16_8']	從初發心即開佛知見。	從初發心即開佛知見。	From the initial arousal of the mind, they open the view of the Buddha's knowledge and insight.
+['ZH_T46_1929_012:0765c16_17']	見佛性住大涅槃也。	見佛性住大涅槃也。	Seeing the Buddha-nature and abiding in great nirvana.
+['ZH_T46_1929_012:0765c17_7']	涅槃經明此之四譬。	涅槃經明此之四譬。	The Nirvana Sutra explains these four parables.
+['ZH_T46_1929_012:0765c17_17']	譬四教明位其義宛然。	譬四教明位其義宛然。	The meaning of the four teachings clarifying the stages is complete.
+['ZH_T46_1929_012:0765c18_9']	若不信四教明位不同者。	若不信四教明位不同者。	If one does not believe that the four teachings clarify the stages differently,
+['ZH_T46_1929_012:0765c19_4']	云何消釋此五味四種譬也。	云何消釋此五味四種譬也。	how can one explain these five flavors and four kinds of parables?
+['ZH_T46_1929_012:0765c19_16']	今明前四教明位合此四譬。	今明前四教明位合此四譬。	Now, it is clarified that the four teachings clarify the stages and correspond to these four parables.
+['ZH_T46_1929_012:0765c20_5']	一往似如目覩。	一往似如目覩。	At first glance, it seems like seeing with one's own eyes.
+['ZH_T46_1929_012:0765c20_14']	只自聖人密意難知。	只自聖人密意難知。	Only the sage's secret intentions are difficult to know.
+['ZH_T46_1929_012:0765c21_1']	何可定執。	何可定執。	How can one be determined and attached?
+['ZH_T46_1929_012:0765c21_7']	又涅槃經云。	又涅槃經云。	Moreover, the Nirvana Sutra says:
+['ZH_T46_1929_012:0765c21_16']	譬如有人置毒於乳。	譬如有人置毒於乳。	It is like someone placing poison in milk.
+['ZH_T46_1929_012:0765c22_2']	乃至醍醐。	乃至醍醐。	Up to and including ghee.
+['ZH_T46_1929_012:0765c22_7']	亦能殺人。	亦能殺人。	It can also kill people.
+['ZH_T46_1929_012:0765c22_14']	此譬應得兩用。	此譬應得兩用。	This parable should be used in two ways.
+['ZH_T46_1929_012:0765c23_3']	若對經教五味明義。	若對經教五味明義。	If it is used to clarify the meaning of the five flavors in the sutras and teachings,
+['ZH_T46_1929_012:0765c23_11']	處處皆得見佛性。	處處皆得見佛性。	in every place one can see the Buddha-nature
+['ZH_T46_1929_012:0765c23_16']	入涅槃也。	入涅槃也。	and enter nirvana.
+['ZH_T46_1929_012:0765c24_8']	此即是不定教門事在下釋。	此即是不定教門事在下釋。	This is the indeterminate teaching method, which will be explained below.
+['ZH_T46_1929_012:0765c24_17']	若是約位明殺人義。	若是約位明殺人義。	If it is used to clarify the meaning of killing people in the stages,
+['ZH_T46_1929_012:0765c25_7']	四位五味根緣不定。	四位五味根緣不定。	the stages and five flavors are not fixed.
+['ZH_T46_1929_012:0765c25_14']	隨其大乘機發。	隨其大乘機發。	According to the development of the Mahayana potential,
+['ZH_T46_1929_012:0765c26_14']	即皆以如來滅度而滅度之故同殺人之義也。	即皆以如來滅度而滅度之故同殺人之義也。	They are all liberated by the Tathagata's nirvana, thus having the same meaning as killing people.
+['ZH_T46_1929_012:0765c27_11']	第六辨眾經明四教位多少不同者。	第六辨眾經明四教位多少不同者。	Sixth, distinguishing the different numbers of stages in the four teachings in various sutras.
+['ZH_T46_1929_012:0765c27_16']	華嚴頓教。	華嚴頓教。	The sudden teaching of the Flower Ornament Sutra.
+['ZH_T46_1929_012:0765c28_5']	但明別圓二教位。	但明別圓二教位。	Only clarifies the stages of the two teachings of the distinct and perfect.
+['ZH_T46_1929_012:0765c28_10']	漸教之初。	漸教之初。	At the beginning of the gradual teaching.
+['ZH_T46_1929_012:0765c29_5']	聲聞經但明三藏教三乘之位。	聲聞經但明三藏教三乘之位。	The sutras for shravakas only clarify the stages of the three vehicles in the Tripitaka teaching.
+['ZH_T46_1929_012:0765c29_17']	若方等大乘具用四教明位。	若方等大乘具用四教明位。	If the Mahayana of the Vaipulya sutras fully uses the four teachings to clarify the stages.
+['ZH_T46_1929_012:0766a01_12']	摩訶般若但明通別圓三教之位。	摩訶般若但明通別圓三教之位。	The Mahayana of the Great Perfection of Wisdom only clarifies the stages of the three teachings of the shared, distinct, and perfect.
+['ZH_T46_1929_012:0766a02_6']	若法華經但明圓教一佛乘。	若法華經但明圓教一佛乘。	If the Lotus Sutra only clarifies the stage of the one Buddha vehicle in the perfect teaching.
+['ZH_T46_1929_012:0766a02_13']	開示悟入之位。	開示悟入之位。	The stages of revealing, understanding, realizing, and entering.
+['ZH_T46_1929_012:0766a02_18']	俱通大乘。	俱通大乘。	All pervade the Mahayana.
+['ZH_T46_1929_012:0766a03_5']	明二乘如前。	明二乘如前。	It clarifies the two vehicles as before.
+['ZH_T46_1929_012:0766a03_12']	但通教菩薩位。	但通教菩薩位。	But the stages of the bodhisattvas in the shared teaching.
+['ZH_T46_1929_012:0766a03_17']	用別接通。	用別接通。	Use the distinct to connect with the shared.
+['ZH_T46_1929_012:0766a04_6']	明佛性四德涅槃。	明佛性四德涅槃。	It clarifies the four virtues of Buddha-nature and nirvana.
+['ZH_T46_1929_012:0766a04_13']	三藏二乘如前。	三藏二乘如前。	The two vehicles in the Tripitaka are as before.
+['ZH_T46_1929_012:0766a05_2']	廢三藏大乘之位。	廢三藏大乘之位。	It discards the stages of the Mahayana in the Tripitaka.
+['ZH_T46_1929_012:0766a05_12']	三阿僧祇劫伏結之因。	三阿僧祇劫伏結之因。	The causes of subduing the bonds over three asaṃkhyeya kalpas.
+['ZH_T46_1929_012:0766a06_7']	三十四心斷結之果入二涅槃也。	三十四心斷結之果入二涅槃也。	The fruition of severing the bonds with thirty-four mental states enters the two nirvanas.
+['ZH_T46_1929_012:0766a07_4']	又通教三藏教明二乘位至大涅槃。	又通教三藏教明二乘位至大涅槃。	Moreover, the two vehicles' stages in the Shared Teaching and the Tripiṭaka Teaching are explained up to great nirvāṇa.
+['ZH_T46_1929_012:0766a07_13']	俱引入別圓二位也。	俱引入別圓二位也。	Moreover, the two vehicles' stages in the Shared Teaching and the Tripiṭaka Teaching are both led into the Distinct and Perfect teachings.
+['ZH_T46_1929_012:0766a08_3']	問曰若廢三藏佛位。	問曰若廢三藏佛位。	Question: If the Buddha stage in the Tripiṭaka Teaching is abandoned,
+['ZH_T46_1929_012:0766a08_12']	何得言羅漢辟支佛。	何得言羅漢辟支佛。	how can it be said that arhats and pratyekabuddhas
+['ZH_T46_1929_012:0766a08_17']	佛如醍醐。	佛如醍醐。	are like ghee?
+['ZH_T46_1929_012:0766a09_8']	答曰三位但界內結盡。	答曰三位但界內結盡。	Answer: The three stages only exhaust the bonds within the realm of desire.
+['ZH_T46_1929_012:0766a09_16']	此結成往昔之義。	此結成往昔之義。	This concludes the meaning of the past,
+['ZH_T46_1929_012:0766a10_7']	非今涅槃之所用也。	非今涅槃之所用也。	and is not what is used in the Nirvana Sutra.
+['ZH_T46_1929_012:0766a10_16']	大門第五明權實者。	大門第五明權實者。	The fifth major point clarifies the provisional and the real.
+['ZH_T46_1929_012:0766a11_5']	就此即為三意。	就此即為三意。	This is divided into three points.
+['ZH_T46_1929_012:0766a11_11']	一略明權實。	一略明權實。	First, briefly clarifying the provisional and the real.
+['ZH_T46_1929_012:0766a11_16']	二明格位。	二明格位。	Second, clarifying the graded stages.
+['ZH_T46_1929_012:0766a12_1']	三明興廢。	三明興廢。	Third, clarifying the rise and fall.
+['ZH_T46_1929_012:0766a12_7']	一明權實者。	一明權實者。	First, clarifying the provisional and the real.
+['ZH_T46_1929_012:0766a12_14']	權是暫用之名。	權是暫用之名。	The provisional is a name for temporary use.
+['ZH_T46_1929_012:0766a13_1']	實以永施為義。	實以永施為義。	The real is defined as eternal bestowal.
+['ZH_T46_1929_012:0766a13_11']	方便波羅蜜隨情近益。	方便波羅蜜隨情近益。	The perfection of skillful means benefits beings according to their capacities.
+['ZH_T46_1929_012:0766a13_16']	故名為權。	故名為權。	Therefore, it is called the provisional.
+['ZH_T46_1929_012:0766a14_7']	智慧波羅蜜稱理究竟。	智慧波羅蜜稱理究竟。	The perfection of wisdom accords with principle and is ultimate.
+['ZH_T46_1929_012:0766a14_13']	故名為實也。	故名為實也。	Therefore, it is called the real.
+['ZH_T46_1929_012:0766a15_3']	是則三教暫赴物情。	是則三教暫赴物情。	This means that the three teachings temporarily respond to the capacities of beings.
+['ZH_T46_1929_012:0766a15_8']	故名為權。	故名為權。	Therefore, they are called provisional.
+['ZH_T46_1929_012:0766a15_15']	圓教究竟利物。	圓教究竟利物。	The perfect teaching ultimately benefits beings.
+['ZH_T46_1929_012:0766a16_1']	故名為實。	故名為實。	Therefore, it is called true.
+['ZH_T46_1929_012:0766a16_10']	分別權實應須四義。	分別權實應須四義。	Distinguishing the provisional and true should require four meanings.
+['ZH_T46_1929_012:0766a16_19']	一明一切非權非實。	一明一切非權非實。	First, clarifying that all are neither provisional nor true.
+['ZH_T46_1929_012:0766a17_6']	二明一切皆權。	二明一切皆權。	Second, clarifying that all are provisional.
+['ZH_T46_1929_012:0766a17_13']	三明一切皆實。	三明一切皆實。	Third, clarifying that all are true.
+['ZH_T46_1929_012:0766a18_9']	四明一切佛法非權非實而權而實。	四明一切佛法非權非實而權而實。	Fourth, clarifying that all Buddhist teachings are neither provisional nor true, yet provisional and true.
+['ZH_T46_1929_012:0766a19_1']	一明一切非權非實者。	一明一切非權非實者。	First, clarifying that all are neither provisional nor true:
+['ZH_T46_1929_012:0766a19_8']	若論四不可說。	若論四不可說。	If discussing the four inexpressibles,
+['ZH_T46_1929_012:0766a20_1']	無說則無四教可分無三教。	無說則無四教可分無三教。	Without speaking, then there are no four teachings to distinguish, and no three teachings.
+['ZH_T46_1929_012:0766a20_5']	即非權。	即非權。	Then it is not provisional.
+['ZH_T46_1929_012:0766a20_12']	無圓教則非實。	無圓教則非實。	Without the perfect teaching, it is not true.
+['ZH_T46_1929_012:0766a21_5']	是則一切佛法皆非權非實。	是則一切佛法皆非權非實。	This means that all Buddhist teachings are neither provisional nor true.
+['ZH_T46_1929_012:0766a21_13']	二明一切皆權者。	二明一切皆權者。	Second, clarifying that all are provisional:
+['ZH_T46_1929_012:0766a22_6']	若論四不可說有因緣而說。	若論四不可說有因緣而說。	If discussing the four inexpressibles, there are causes and conditions for speaking.
+['ZH_T46_1929_012:0766a22_18']	是則四教皆是權巧化物也。	是則四教皆是權巧化物也。	This means that the four teachings are all skillful means for transforming beings.
+['ZH_T46_1929_012:0766a23_3']	故佛言。	故佛言。	Therefore, the Buddha said:
+['ZH_T46_1929_012:0766a23_9']	我坐道場時。	我坐道場時。	When I was sitting at the site of enlightenment,
+['ZH_T46_1929_012:0766a23_15']	不得一法實。	不得一法實。	I did not attain a single real teaching.
+['ZH_T46_1929_012:0766a24_1']	空拳誑小兒。	空拳誑小兒。	An empty fist deceives small children,
+['ZH_T46_1929_012:0766a24_8']	以度於一切也。	以度於一切也。	In order to deliver all.
+['ZH_T46_1929_012:0766a24_16']	三明一切皆實者。	三明一切皆實者。	Third, all are real means:
+['ZH_T46_1929_012:0766a25_2']	無說而說之。	無說而說之。	Without speaking, there is speaking.
+['ZH_T46_1929_012:0766a25_10']	必應機赴緣之益。	必應機赴緣之益。	It must benefit in accordance with the capacities and conditions of sentient beings.
+['ZH_T46_1929_012:0766a25_15']	其義皆實。	其義皆實。	Its meaning is all real.
+['ZH_T46_1929_012:0766a26_4']	故四教皆名實也。	故四教皆名實也。	Therefore, the four teachings are all called real.
+['ZH_T46_1929_012:0766a26_10', 'ZH_T46_1929_012:0766a27_1']	故智度論云。🔽有世界對治為人故實。	故智度論云。 有世界對治為人故實。	Therefore, the Mahāprajñāpāramitā Śāstra says:🔽There are worlds where the Dharma is taught for the sake of antidotes and for the sake of people.
+['ZH_T46_1929_012:0766a27_8']	有第一義故實。	有第一義故實。	There are worlds where the Dharma is taught for the sake of ultimate truth.
+['ZH_T46_1929_012:0766a27_18']	此即皆實不虛之義也。	此即皆實不虛之義也。	This is the meaning of all being real and not false.
+['ZH_T46_1929_012:0766a28_13']	四明一切佛法非權非實而權實者。	四明一切佛法非權非實而權實者。	Fourth, all Buddhist teachings are neither provisional nor real, yet provisional and real.
+['ZH_T46_1929_012:0766a29_8']	若四不可說則無權實之可分。	若四不可說則無權實之可分。	If the four inexpressibles are so, then there is no provisional or real to be distinguished.
+['ZH_T46_1929_012:0766a29_15']	故言非權非實。	故言非權非實。	Therefore, it is said to be neither provisional nor real.
+['ZH_T46_1929_012:0766b01_7']	不說而說三教即是權也。	不說而說三教即是權也。	Not speaking, yet speaking the three teachings is precisely the provisional.
+['ZH_T46_1929_012:0766b01_16']	而說圓教即是實也。	而說圓教即是實也。	Speaking the perfect teaching is precisely the real.
+['ZH_T46_1929_012:0766b02_8', 'ZH_T46_1929_012:0766b02_14']	但一家明權實義有三種。🔽一化他權實。	但一家明權實義有三種。 一化他權實。	However, the Tiantai tradition's explanation of the provisional and real has three types.🔽First, the provisional and real in teaching others.
+['ZH_T46_1929_012:0766b03_3']	二自行化他權實。	二自行化他權實。	Second, the provisional and real in one's own practice and teaching others.
+['ZH_T46_1929_012:0766b03_9']	三自行權實。	三自行權實。	Third, the provisional and real in one's own practice.
+['ZH_T46_1929_012:0766b03_16']	若是化他權實。	若是化他權實。	If it is the provisional and real in teaching others,
+['ZH_T46_1929_012:0766b04_5']	前三教非但是權。	前三教非但是權。	The first three teachings are not only provisional.
+['ZH_T46_1929_012:0766b04_10']	就此權中。	就此權中。	Within this provisional,
+['ZH_T46_1929_012:0766b04_17']	亦各說權實也。	亦各說權實也。	They also each explain the provisional and the real.
+['ZH_T46_1929_012:0766b05_7']	若明自行化他權實。	若明自行化他權實。	If clarifying the provisional and the real of one's own practice and transforming others,
+['ZH_T46_1929_012:0766b05_17']	即是前三教並是權用。	即是前三教並是權用。	then the previous three teachings are all provisional uses.
+['ZH_T46_1929_012:0766b06_7']	圓教所明一向是實。	圓教所明一向是實。	What is clarified in the perfect teaching is entirely real.
+['ZH_T46_1929_012:0766b06_14']	若論自行權實。	若論自行權實。	If discussing the provisional and the real of one's own practice,
+['ZH_T46_1929_012:0766b07_3']	即就圓教之位辨。	即就圓教之位辨。	then it is based on the stages of the perfect teaching to distinguish.
+['ZH_T46_1929_012:0766b07_9']	照中道為實。	照中道為實。	Illuminating the middle way is real.
+['ZH_T46_1929_012:0766b07_17']	雙照二諦為權也。	雙照二諦為權也。	Illuminating both truths is provisional.
+['ZH_T46_1929_012:0766b08_9']	第二明格位者即為三意。	第二明格位者即為三意。	The second is clarifying the stages, which has three meanings.
+['ZH_T46_1929_012:0766b09_2']	一約三藏教位格後三教。	一約三藏教位格後三教。	First, using the stages of the Tripiṭaka teaching to compare the latter three teachings.
+['ZH_T46_1929_012:0766b09_12']	二約通教位格後二教。	二約通教位格後二教。	Second, using the stages of the Shared teaching to compare the latter two teachings.
+['ZH_T46_1929_012:0766b10_2']	三約別教格後圓教。	三約別教格後圓教。	Third, using the Distinct teaching to compare the perfect teaching.
+['ZH_T46_1929_012:0766b10_14']	一約三藏教位格後三教者。	一約三藏教位格後三教者。	First, using the stages of the Tripiṭaka teaching to compare the latter three teachings.
+['ZH_T46_1929_012:0766b10_19']	即為三意。	即為三意。	This has three meanings.
+['ZH_T46_1929_012:0766b11_9']	一明三藏教位格通教。	一明三藏教位格通教。	First, clarifying the stages of the Tripiṭaka teaching compared to the Shared teaching.
+['ZH_T46_1929_012:0766b11_14']	二格別教。	二格別教。	Second, compared to the Distinct teaching.
+['ZH_T46_1929_012:0766b11_19']	三格圓教。	三格圓教。	Third, compared to the perfect teaching.
+['ZH_T46_1929_012:0766b12_5']	一格通教者。	一格通教者。	First, comparing to the Shared teaching.
+['ZH_T46_1929_012:0766b12_12']	若論聲聞緣覺。	若論聲聞緣覺。	If discussing the śrāvakas and pratyekabuddhas,
+['ZH_T46_1929_012:0766b13_2']	與通教明二乘不殊。	與通教明二乘不殊。	they are no different from what is clarified in the Shared teaching about the two vehicles.
+['ZH_T46_1929_012:0766b13_9']	若約大乘明位。	若約大乘明位。	If discussing the stages from the perspective of the Mahāyāna,
+['ZH_T46_1929_012:0766b13_16']	此則大為殊別。	此則大為殊別。	this then greatly distinguishes them.
+['ZH_T46_1929_012:0766b14_2']	所以者何。	所以者何。	Why is this so?
+['ZH_T46_1929_012:0766b15_5']	三藏教明三阿僧祇劫修行乃至補處即是無垢位。	三藏教明三阿僧祇劫修行乃至補處即是無垢位。	The Tripiṭaka teachings clarify that one cultivates for three asaṃkhyeya kalpas up to the stage of being a bodhisattva in the final birth, which is the stage of being free from defilements.
+['ZH_T46_1929_012:0766b16_4']	正得齊於通教柔順忍信地忍法中忍也。	正得齊於通教柔順忍信地忍法中忍也。	One can only be equal to the stage of acquiescence in accordance with principles and the stage of faith in the teachings of patience in the shared teachings.
+['ZH_T46_1929_012:0766b17_8']	若三藏之佛則得齊於通教佛地正習俱盡八相齊也。	若三藏之佛則得齊於通教佛地正習俱盡八相齊也。	If one is a buddha in the Tripiṭaka teachings, then one can be equal to the stage of buddhahood in the shared teachings, with both the manifest and habitual [defilements] exhausted, and the eight characteristics are the same.
+['ZH_T46_1929_012:0766b17_11']	傍論。	傍論。	This is a discussion on the side.
+['ZH_T46_1929_012:0766b18_2']	三藏佛是折法智力拙。	三藏佛是折法智力拙。	The buddha of the Tripiṭaka teachings is the power of the wisdom of analyzing dharmas, which is clumsy.
+['ZH_T46_1929_012:0766b18_9']	通教佛是體法。	通教佛是體法。	The buddha of the shared teachings embodies dharmas,
+['ZH_T46_1929_012:0766b18_13']	故為巧。	故為巧。	so it is skillful.
+['ZH_T46_1929_012:0766b18_16']	問曰。	問曰。	A question is asked:
+['ZH_T46_1929_012:0766b19_1']	智度論云。	智度論云。	The Treatise on the Stages of Concentration says:
+['ZH_T46_1929_012:0766b19_15']	阿羅漢地於聲聞經中名之為佛。	阿羅漢地於聲聞經中名之為佛。	The stage of arhatship is called buddhahood in the sūtras for śrāvakas.
+['ZH_T46_1929_012:0766b20_3']	但得二種涅槃。	但得二種涅槃。	One only attains the two kinds of nirvāṇa.
+['ZH_T46_1929_012:0766b20_6']	答曰。	答曰。	An answer is given:
+['ZH_T46_1929_012:0766b20_13']	今謂皆除正使。	今謂皆除正使。	Now it is said that all manifest [defilements] are eliminated.
+['ZH_T46_1929_012:0766b20_18']	已辦地齊。	已辦地齊。	The stage of having accomplished what was to be done is the same.
+['ZH_T46_1929_012:0766b21_7']	若取二諦滿正習盡。	若取二諦滿正習盡。	If one takes the fulfillment of the two truths and the exhaustion of the manifest and habitual [defilements],
+['ZH_T46_1929_012:0766b21_12']	二佛齊也。	二佛齊也。	the two buddhas are the same.
+['ZH_T46_1929_012:0766b22_6']	二明用三藏教位格別教位者。	二明用三藏教位格別教位者。	Second, clarifying the comparison of the stages of the Tripiṭaka teachings with the stages of the distinct teachings.
+['ZH_T46_1929_012:0766b23_2']	三藏教明一生補處淨無垢稱位。	三藏教明一生補處淨無垢稱位。	The Tripiṭaka teachings clarify the stage of being a bodhisattva in the final birth and being pure and free from defilements.
+['ZH_T46_1929_012:0766b23_6']	格別教。	格別教。	Compared to the distinct teachings,
+['ZH_T46_1929_012:0766b23_18']	與鐵輪位十信第十願心齊。	與鐵輪位十信第十願心齊。	It is equal to the tenth vow mind of the tenth stage of faith in the iron wheel position.
+['ZH_T46_1929_012:0766b24_10']	佛地但與別教第十迴向齊。	佛地但與別教第十迴向齊。	The Buddha ground is only equal to the tenth stage of the separate teaching.
+['ZH_T46_1929_012:0766b24_18']	或可與初地齊也。	或可與初地齊也。	Or it may be equal to the first stage.
+['ZH_T46_1929_012:0766b25_4']	此乃正意。	此乃正意。	This is the correct meaning.
+['ZH_T46_1929_012:0766b25_12', 'ZH_T46_1929_012:0766b26_4']	傍論類通教可知。🔽三明三藏教格圓教位者。	傍論類通教可知。 三明三藏教格圓教位者。	The side discussion can be understood by comparing with the teaching of the three vehicles.🔽Third, clarifying the comparison of the stages of the three vehicles teaching with the perfect teaching.
+['ZH_T46_1929_012:0766b26_14']	三藏補處淨無垢稱位。	三藏補處淨無垢稱位。	The stage of the one who is about to become a Buddha in the three vehicles and the stage of Vimalakīrti are
+['ZH_T46_1929_012:0766b27_8']	但與圓教五品弟子第五品齊。	但與圓教五品弟子第五品齊。	only equal to the fifth stage of the five categories of disciples in the perfect teaching.
+['ZH_T46_1929_012:0766b28_4']	佛地但與鐵輪位十信後願心齊。	佛地但與鐵輪位十信後願心齊。	The Buddha ground is only equal to the vow mind after the tenth stage of faith in the iron wheel position.
+['ZH_T46_1929_012:0766b28_9']	正義如此。	正義如此。	The correct meaning is like this.
+['ZH_T46_1929_012:0766b28_16']	傍論亦有優劣。	傍論亦有優劣。	The side discussion also has superiority and inferiority.
+['ZH_T46_1929_012:0766b29_5']	三藏佛正習俱盡。	三藏佛正習俱盡。	The Buddha of the three vehicles completely eliminates both the afflictions and their traces.
+['ZH_T46_1929_012:0766b29_10']	以此為勝。	以此為勝。	Using this as the superior.
+['ZH_T46_1929_012:0766c01_4']	不明六根清淨不思議之妙用。	不明六根清淨不思議之妙用。	It does not clarify the wondrous function of the six sense faculties being pure and inconceivable.
+['ZH_T46_1929_012:0766c01_9']	此為劣也。	此為劣也。	This is the inferior.
+['ZH_T46_1929_012:0766c02_3']	故華嚴經歎初發心住菩薩云。	故華嚴經歎初發心住菩薩云。	Therefore, the Huayan Sutra praises the bodhisattva who has just attained the first stage of mind and says:
+['ZH_T46_1929_012:0766c02_13', 'ZH_T46_1929_012:0766c03_9']	初發心以過於牟尼也。🔽二明用通教位格後二教位即為二。	初發心以過於牟尼也。 二明用通教位格後二教位即為二。	The initial arousal of the mind surpasses the sage.
+['ZH_T46_1929_012:0766c03_14']	一格別教。	一格別教。	Second, clarifying the comparison of the stages of the two later teachings using the teaching of the three vehicles. There are two parts: 1. Comparing with the separate teaching.
+['ZH_T46_1929_012:0766c03_19']	二格圓教。	二格圓教。	Second, the correspondence with the perfect teaching.
+['ZH_T46_1929_012:0766c04_7']	一明格別教位者。	一明格別教位者。	First, clarifying the correspondence with the separate teaching stages.
+['ZH_T46_1929_012:0766c04_18']	通教明補處淨無垢稱位。	通教明補處淨無垢稱位。	The shared teaching clarifies the stage of the one who is about to become a buddha and the stage of Vimalakīrti.
+['ZH_T46_1929_012:0766c05_11']	別教第十法界無量迴向齊。	別教第十法界無量迴向齊。	The separate teaching's tenth Dharma realm of immeasurable turning towards is the same as.
+['ZH_T46_1929_012:0766c06_7']	通教佛果但與十地初歡喜地齊。	通教佛果但與十地初歡喜地齊。	The shared teaching's fruition of buddhahood is only the same as the first ground of joy of the ten grounds.
+['ZH_T46_1929_012:0766c06_12']	正義如此。	正義如此。	The correct principle is like this.
+['ZH_T46_1929_012:0766c06_18']	傍論有劣者。	傍論有劣者。	The ancillary discussion has inferiority.
+['ZH_T46_1929_012:0766c07_9']	無相似中道智伏無明也。	無相似中道智伏無明也。	There is no similar wisdom of the middle way to subdue ignorance.
+['ZH_T46_1929_012:0766c07_16']	二明格圓教者。	二明格圓教者。	Second, clarifying the correspondence with the perfect teaching.
+['ZH_T46_1929_012:0766c08_9']	若通教明補處淨無垢稱位。	若通教明補處淨無垢稱位。	If the shared teaching clarifies the stage of the one who is about to become a buddha and the stage of Vimalakīrti,
+['ZH_T46_1929_012:0766c09_6']	但與圓教鐵輪位十信第十願心齊。	但與圓教鐵輪位十信第十願心齊。	It is only the same as the tenth vow mind of the ten faiths of the perfect teaching's iron wheel stage.
+['ZH_T46_1929_012:0766c09_12']	通教明佛果。	通教明佛果。	The shared teaching's fruition of buddhahood
+['ZH_T46_1929_012:0766c10_1']	但與初發心住齊。	但與初發心住齊。	Is only the same as the first stage of the mind of enlightenment.
+['ZH_T46_1929_012:0766c10_8']	此是一往格之。	此是一往格之。	This is a one-sided correspondence.
+['ZH_T46_1929_012:0766c10_13']	正論則劣。	正論則劣。	The correct discussion is inferior.
+['ZH_T46_1929_012:0766c10_18']	初發心住。	初發心住。	The first stage of the mind of enlightenment.
+['ZH_T46_1929_012:0766c11_11']	以初發心住即能顯中道法身。	以初發心住即能顯中道法身。	Because the first stage of the mind of enlightenment is able to manifest the middle way and the Dharma body,
+['ZH_T46_1929_012:0766c12_2']	斷無明一品為勝也。	斷無明一品為勝也。	It is superior to cutting off the first level of ignorance.
+['ZH_T46_1929_012:0766c12_12']	三明別教格圓教位者。	三明別教格圓教位者。	Third, clarifying the correspondence with the perfect teaching stages of the separate teaching.
+['ZH_T46_1929_012:0766c13_11']	若別教明法身法雲一生補處淨無垢稱位。	若別教明法身法雲一生補處淨無垢稱位。	If the separate teaching clarifies the stage of Dharma body, Dharma cloud, one life to Buddhahood, and Vimalakīrti's purity,
+['ZH_T46_1929_012:0766c14_6']	但與圓教十位第十灌頂住齊。	但與圓教十位第十灌頂住齊。	it is only equal to the tenth stage of empowerment in the perfect teaching.
+['ZH_T46_1929_012:0766c14_15']	佛地斷十一品無明。	佛地斷十一品無明。	The Buddha ground eliminates eleven kinds of ignorance,
+['ZH_T46_1929_012:0766c15_6']	但與十行初歡喜行齊。	但與十行初歡喜行齊。	but it is only equal to the first stage of joy in the ten practices.
+['ZH_T46_1929_012:0766c15_12']	若依仁王經。	若依仁王經。	If relying on the Sutra of the Benevolent King,
+['ZH_T46_1929_012:0766c16_1']	開十地為三十生。	開十地為三十生。	the ten grounds are divided into thirty lives.
+['ZH_T46_1929_012:0766c16_15']	是則無垢與法界無量迴向位齊。	是則無垢與法界無量迴向位齊。	This means that Vimalakīrti is equal to the stage of immeasurable turning of the Dharma realm in the perfect teaching.
+['ZH_T46_1929_012:0766c17_7']	佛地與十地初歡喜地齊。	佛地與十地初歡喜地齊。	The Buddha ground is equal to the first stage of joy in the ten grounds.
+['ZH_T46_1929_012:0766c18_2']	是則別教明一生補處望圓教。	是則別教明一生補處望圓教。	This means that the separate teaching's clarification of one life to Buddhahood, compared to the perfect teaching,
+['ZH_T46_1929_012:0766c18_7']	若依前釋。	若依前釋。	if relying on the previous explanation,
+['ZH_T46_1929_012:0766c18_12']	以義往推。	以義往推。	using the meaning to infer,
+['ZH_T46_1929_012:0766c19_2']	猶有三十一品無明。	猶有三十一品無明。	there are still thirty-one kinds of ignorance.
+['ZH_T46_1929_012:0766c19_9']	若依引仁王經。	若依引仁王經。	If relying on the Sutra of the Benevolent King quoted,
+['ZH_T46_1929_012:0766c19_17']	即有十一品無明。	即有十一品無明。	there are then eleven kinds of ignorance.
+['ZH_T46_1929_012:0766c20_7']	是則別圓法身補處。	是則別圓法身補處。	This means that the separate and perfect teachings' Dharma body and one life to Buddhahood,
+['ZH_T46_1929_012:0766c20_12']	雖通約位。	雖通約位。	although generally based on stages,
+['ZH_T46_1929_012:0766c20_19']	無垢稱義懸殊。	無垢稱義懸殊。	the meaning of Vimalakīrti is vastly different.
+['ZH_T46_1929_012:0766c21_12']	豈得一概而釋維摩詰之名也。	豈得一概而釋維摩詰之名也。	How can one generally explain the name Vimalakīrti?
+['ZH_T46_1929_012:0766c21_15']	問曰。	問曰。	The question says:
+['ZH_T46_1929_012:0766c22_3']	尋至道即是一。	尋至道即是一。	Investigating the ultimate way is precisely one,
+['ZH_T46_1929_012:0766c22_11']	若格前方便三教。	若格前方便三教。	If we compare the three teachings of skillful means before,
+['ZH_T46_1929_012:0766c23_4']	所明補處佛果遂傳爾懸殊。	所明補處佛果遂傳爾懸殊。	the Buddha-fruit of the future Buddha that is explained is ultimately very different.
+['ZH_T46_1929_012:0766c23_9']	此意難解。	此意難解。	This meaning is difficult to understand.
+['ZH_T46_1929_012:0766c23_12']	答曰。	答曰。	The answer is:
+['ZH_T46_1929_012:0766c23_17']	二義往釋。	二義往釋。	It is explained from two perspectives.
+['ZH_T46_1929_012:0766c24_2']	一有教有人。	一有教有人。	One is that there are teachings and people.
+['ZH_T46_1929_012:0766c24_8']	二有教無人。	二有教無人。	The other is that there are teachings but no people.
+['ZH_T46_1929_012:0766c24_17']	若是三教方便之說。	若是三教方便之說。	If it is the expedient teachings of the three teachings,
+['ZH_T46_1929_012:0766c25_5']	因中稟教之者。	因中稟教之者。	those who receive the teachings in the cause stage,
+['ZH_T46_1929_012:0766c25_12']	即並有教有人。	即並有教有人。	all have teachings and people.
+['ZH_T46_1929_012:0766c26_7']	佛果補處及上位菩薩能說三教。	佛果補處及上位菩薩能說三教。	The future Buddha-fruit and the high-ranking bodhisattvas who can expound the three teachings,
+['ZH_T46_1929_012:0766c26_14']	此並有教無人。	此並有教無人。	all have teachings but no people.
+['ZH_T46_1929_012:0766c26_19']	所以者何。	所以者何。	Why is this so?
+['ZH_T46_1929_012:0766c27_11']	所稟三教行人因教各獲利。	所稟三教行人因教各獲利。	The practitioners who receive the three teachings each gain benefits according to the teachings,
+['ZH_T46_1929_012:0766c27_18']	故有教有人也。	故有教有人也。	so there are teachings and people.
+['ZH_T46_1929_012:0766c28_14']	能說之教主示現為三教之佛菩薩。	能說之教主示現為三教之佛菩薩。	The teaching masters who can expound the teachings manifest as the Buddhas and bodhisattvas of the three teachings,
+['ZH_T46_1929_012:0766c29_3']	令物慕果行因。	令物慕果行因。	causing beings to aspire to the fruition and practice the cause.
+['ZH_T46_1929_012:0766c29_13']	因行既成則無復化主。	因行既成則無復化主。	Once the causal practices are accomplished, there is no more teaching master.
+['ZH_T46_1929_012:0767a01_2']	如斯乃緣感便應。	如斯乃緣感便應。	In this way, when conditions are met, there is a response.
+['ZH_T46_1929_012:0767a01_7']	緣謝便息。	緣謝便息。	When the conditions are gone, it ceases.
+['ZH_T46_1929_012:0767a01_13']	空拳誑小兒。	空拳誑小兒。	An empty fist deceives a child,
+['ZH_T46_1929_012:0767a01_18']	引將還家。	引將還家。	leading it back home.
+['ZH_T46_1929_012:0767a02_4']	手中實無物也。	手中實無物也。	There is nothing real in the hand.
+['ZH_T46_1929_012:0767a02_13']	三教化主亦皆如是。	三教化主亦皆如是。	The three teachers of the teachings are also like this.
+['ZH_T46_1929_012:0767a03_4']	若是圓教有教有人者。	若是圓教有教有人者。	If it is the perfect teaching with teaching and people,
+['ZH_T46_1929_012:0767a03_9']	因中稟教。	因中稟教。	in the cause one receives the teaching,
+['ZH_T46_1929_012:0767a03_18']	乃至法雲有教有人。	乃至法雲有教有人。	up to the Dharma cloud with teaching and people,
+['ZH_T46_1929_012:0767a04_6']	斷四十一品無明。	斷四十一品無明。	cutting off the forty-one levels of ignorance,
+['ZH_T46_1929_012:0767a04_15']	法身補處此實非虛。	法身補處此實非虛。	the Dharma body in the position of the next Buddha is truly not false.
+['ZH_T46_1929_012:0767a05_5']	妙覺法身無說之說。	妙覺法身無說之說。	The wondrously enlightened Dharma body's unspoken teaching
+['ZH_T46_1929_012:0767a05_15']	即是果上有教有人也。	即是果上有教有人也。	is precisely the teaching and people in the fruition.
+['ZH_T46_1929_012:0767a06_5']	有教無人因之為權。	有教無人因之為權。	Having teaching but no people is considered provisional.
+['ZH_T46_1929_012:0767a06_10']	有教有人。	有教有人。	Having teaching and people
+['ZH_T46_1929_012:0767a06_15']	名之為實。	名之為實。	is called true.
+['ZH_T46_1929_012:0767a06_18']	問曰。	問曰。	Question:
+['ZH_T46_1929_012:0767a07_9']	若爾四教明果可分權實。	若爾四教明果可分權實。	If so, the four teachings' elucidation of the fruition can be divided into provisional and true.
+['ZH_T46_1929_012:0767a08_1']	四教因地皆有教有人。	四教因地皆有教有人。	The ground of the causes of the four teachings all have teaching and people.
+['ZH_T46_1929_012:0767a08_8']	何得分其權實。	何得分其權實。	How can they be divided into provisional and true?
+['ZH_T46_1929_012:0767a08_11']	答曰。	答曰。	Answer:
+['ZH_T46_1929_012:0767a08_14']	今明。	今明。	Now it is explained.
+['ZH_T46_1929_012:0767a09_2']	三教之人名為權人。	三教之人名為權人。	The people of the three teachings are called provisional people.
+['ZH_T46_1929_012:0767a09_8']	稟圓教之人。	稟圓教之人。	The people who receive the perfect teaching
+['ZH_T46_1929_012:0767a09_14']	則人教俱實。	則人教俱實。	then have both true teaching and true people.
+['ZH_T46_1929_012:0767a10_5']	故約四教明因分權實也。	故約四教明因分權實也。	Therefore, the four teachings are used to clarify the provisional and true division of the causes.
+['ZH_T46_1929_012:0767a10_8']	問曰。	問曰。	Question:
+['ZH_T46_1929_012:0767a10_13']	三教之因。	三教之因。	The causes of the three teachings
+['ZH_T46_1929_012:0767a10_18']	既立權人。	既立權人。	have already established provisional people.
+['ZH_T46_1929_012:0767a11_10']	三教之果何意不得辨權人也。	三教之果何意不得辨權人也。	How can the fruits of the three teachings not be used to distinguish the people of the provisional?
+['ZH_T46_1929_012:0767a11_13']	答曰。	答曰。	Answer:
+['ZH_T46_1929_012:0767a12_3']	三教行人可成圓人。	三教行人可成圓人。	The practitioners of the three teachings can become people of the perfect teaching.
+['ZH_T46_1929_012:0767a12_15']	無有三教之佛修因作圓佛。	無有三教之佛修因作圓佛。	There are no buddhas of the three teachings who cultivate the causes to become perfect buddhas.
+['ZH_T46_1929_012:0767a13_1']	故非類也。	故非類也。	Therefore, it is not a comparable case.
+['ZH_T46_1929_012:0767a13_12']	第三明興廢者即為二意。	第三明興廢者即為二意。	The third, clarifying the rise and fall, has two meanings.
+['ZH_T46_1929_012:0767a14_1']	一權教有興有廢。	一權教有興有廢。	First, the provisional teaching has rise and fall.
+['ZH_T46_1929_012:0767a14_9']	二實教興而不廢。	二實教興而不廢。	Second, the true teaching rises but does not fall.
+['ZH_T46_1929_012:0767a14_19']	一明權教有興有廢者。	一明權教有興有廢者。	First, clarifying the provisional teaching has rise and fall,
+['ZH_T46_1929_012:0767a15_4']	即為三意。	即為三意。	has three meanings.
+['ZH_T46_1929_012:0767a15_13']	一三藏教機起即興。	一三藏教機起即興。	First, when the capacity for the Tripiṭaka teaching arises, it rises.
+['ZH_T46_1929_012:0767a15_18']	機謝則廢。	機謝則廢。	When the capacity ends, it falls.
+['ZH_T46_1929_012:0767a16_4']	所言機興者。	所言機興者。	What is meant by the rise of capacity?
+['ZH_T46_1929_012:0767a16_13']	可發之義名之為機。	可發之義名之為機。	The meaning of what can be aroused is called capacity.
+['ZH_T46_1929_012:0767a17_3']	前緣有小樂欲可起。	前緣有小樂欲可起。	Previously, there was a small desire that could arise.
+['ZH_T46_1929_012:0767a17_8']	小善可生。	小善可生。	Small goodness could be born.
+['ZH_T46_1929_012:0767a17_13']	小惡可治。	小惡可治。	Small evil could be cured.
+['ZH_T46_1929_012:0767a18_1']	偏真之解可發。	偏真之解可發。	The understanding of the biased truth could be aroused.
+['ZH_T46_1929_012:0767a18_8']	故須用四悉檀。	故須用四悉檀。	Therefore, the four siddhāntas are needed.
+['ZH_T46_1929_012:0767a18_14']	於聲聞經中。	於聲聞經中。	In the sūtras for śrāvakas,
+['ZH_T46_1929_012:0767a19_10']	說因緣生滅四諦十二因緣六度之教。	說因緣生滅四諦十二因緣六度之教。	the teachings of the four truths of arising and ceasing through causes and conditions, the twelve links of dependent arising, and the six perfections are explained.
+['ZH_T46_1929_012:0767a19_16']	開三乘之道。	開三乘之道。	The path of the three vehicles is opened.
+['ZH_T46_1929_012:0767a20_2']	聞則稱機。	聞則稱機。	Hearing it, it accords with the capacities.
+['ZH_T46_1929_012:0767a20_7']	樂欲心起。	樂欲心起。	The mind of delight and desire arises.
+['ZH_T46_1929_012:0767a20_12']	生善斷惡。	生善斷惡。	Generating goodness and cutting off evil.
+['ZH_T46_1929_012:0767a21_1']	若是二乘發真無漏。	若是二乘發真無漏。	If it is the two vehicles giving rise to true and undefiled [wisdom],
+['ZH_T46_1929_012:0767a21_7']	證有餘涅槃。	證有餘涅槃。	Realizing the nirvana with remainder.
+['ZH_T46_1929_012:0767a21_16']	若是菩薩六度調心。	若是菩薩六度調心。	If it is a bodhisattva adjusting the mind with the six perfections,
+['ZH_T46_1929_012:0767a22_5']	得伏忍柔順忍也。	得伏忍柔順忍也。	Attaining the patience of subjugation and the patience of following.
+['ZH_T46_1929_012:0767a22_10']	法華經云。	法華經云。	The Lotus Sutra says:
+['ZH_T46_1929_012:0767a22_16']	小智樂小法。	小智樂小法。	Those of little wisdom delight in the lesser teaching,
+['ZH_T46_1929_012:0767a23_3']	不自信作佛。	不自信作佛。	Not having confidence in becoming a buddha themselves.
+['ZH_T46_1929_012:0767a23_14']	是故以方便分別說諸果。	是故以方便分別說諸果。	Therefore, using skillful means, they distinguish and explain the various fruits.
+['ZH_T46_1929_012:0767a23_19']	為此機緣。	為此機緣。	For this kind of opportunity,
+['ZH_T46_1929_012:0767a24_6']	雖無三藏伏結。	雖無三藏伏結。	Although there is no cultivation of the bonds in the Tripiṭaka,
+['ZH_T46_1929_012:0767a24_11']	補處菩薩。	補處菩薩。	The bodhisattva who is about to attain Buddhahood,
+['ZH_T46_1929_012:0767a24_17']	淨無垢稱義。	淨無垢稱義。	The meaning of being pure and free from defilements,
+['ZH_T46_1929_012:0767a25_5']	三十四心佛果。	三十四心佛果。	The thirty-four mental states of the fruition of Buddhahood,
+['ZH_T46_1929_012:0767a25_13']	住有餘涅槃之佛。	住有餘涅槃之佛。	The Buddha who abides in the nirvana with remainder,
+['ZH_T46_1929_012:0767a26_5']	為欲以四悉檀教赴此故。	為欲以四悉檀教赴此故。	In order to respond to this with the four siddhāntas,
+['ZH_T46_1929_012:0767a26_12']	示現此教形聲。	示現此教形聲。	He manifests this teaching in form and sound,
+['ZH_T46_1929_012:0767a26_17']	赴機度物。	赴機度物。	Responding to the capacities and liberating beings.
+['ZH_T46_1929_012:0767a27_4']	故法華經明。	故法華經明。	Therefore, the Lotus Sutra clarifies:
+['ZH_T46_1929_012:0767a27_11']	長者即脫瓔珞。	長者即脫瓔珞。	The elder then took off his necklace,
+['ZH_T46_1929_012:0767a27_16']	著弊垢衣。	著弊垢衣。	Wore tattered and dirty clothes,
+['ZH_T46_1929_012:0767a28_2']	執持糞器。	執持糞器。	Held a manure bucket,
+['ZH_T46_1929_012:0767a28_7']	狀有所畏。	狀有所畏。	Appearing to be afraid of something,
+['ZH_T46_1929_012:0767a28_12']	語諸作人。	語諸作人。	And said to the workers:
+['ZH_T46_1929_012:0767a29_1']	即是三藏教興之義。	即是三藏教興之義。	This is the meaning of the rise of the Tripiṭaka teachings.
+['ZH_T46_1929_012:0767a29_4']	廢者。	廢者。	As for the abolition,
+['ZH_T46_1929_012:0767a29_10']	此小欲將歇。	此小欲將歇。	this small desire is about to end.
+['ZH_T46_1929_012:0767a29_15']	小善已成。	小善已成。	Small goodness has already been accomplished.
+['ZH_T46_1929_012:0767a29_20']	事惡已除。	事惡已除。	Evil deeds have already been eliminated.
+['ZH_T46_1929_012:0767b01_4']	真解已發。	真解已發。	True understanding has already arisen.
+['ZH_T46_1929_012:0767b01_11']	是則四緣俱息。	是則四緣俱息。	This is then the cessation of the four conditions.
+['ZH_T46_1929_012:0767b02_7']	則三藏所說之教能說之人俱廢也。	則三藏所說之教能說之人俱廢也。	Then the teachings spoken by the Tripiṭaka and the person who speaks them are both abolished.
+['ZH_T46_1929_012:0767b02_15']	二明通教興廢者。	二明通教興廢者。	Second, clarifying the rise and fall of the Shared Teaching.
+['ZH_T46_1929_012:0767b03_1']	興則機興。	興則機興。	The rise is the rise of the opportunity.
+['ZH_T46_1929_012:0767b03_6']	廢則機廢。	廢則機廢。	The fall is the fall of the opportunity.
+['ZH_T46_1929_012:0767b03_13']	機興而教興者。	機興而教興者。	The rise of the opportunity and the rise of the teaching.
+['ZH_T46_1929_012:0767b04_3']	無生四諦樂欲將起。	無生四諦樂欲將起。	The desire for the four truths of non-arising is about to arise.
+['ZH_T46_1929_012:0767b04_12']	體假入空之善可生。	體假入空之善可生。	The goodness of entering emptiness through the provisional can be born.
+['ZH_T46_1929_012:0767b04_19']	迷理見思可斷。	迷理見思可斷。	The deluded views and thoughts about principles can be eliminated.
+['ZH_T46_1929_012:0767b05_6']	即真之解可發。	即真之解可發。	The understanding of the true can arise.
+['ZH_T46_1929_012:0767b06_2']	故須用四悉檀說無生四諦通教。	故須用四悉檀說無生四諦通教。	Therefore, the four siddhāntas are used to speak of the four truths of non-arising and the Shared Teaching.
+['ZH_T46_1929_012:0767b06_11']	三乘聞則樂欲心起。	三乘聞則樂欲心起。	The three vehicles, upon hearing, give rise to a desirous mind.
+['ZH_T46_1929_012:0767b06_16']	生善斷惡。	生善斷惡。	Cultivating goodness and eliminating evil.
+['ZH_T46_1929_012:0767b07_7']	三乘同發即真無漏之慧。	三乘同發即真無漏之慧。	The three vehicles together give rise to the wisdom of the true and undefiled.
+['ZH_T46_1929_012:0767b07_12']	見第一義。	見第一義。	Seeing the ultimate truth.
+['ZH_T46_1929_012:0767b08_7']	二乘住有餘涅槃菩薩則不滯空。	二乘住有餘涅槃菩薩則不滯空。	The two vehicles dwell in the nirvana with remainder, while the bodhisattvas do not stagnate in emptiness.
+['ZH_T46_1929_012:0767b08_14']	慈悲入假化物。	慈悲入假化物。	With compassion, they enter the provisional and transform beings.
+['ZH_T46_1929_012:0767b08_19']	誓求佛果。	誓求佛果。	Vowing to seek the fruition of Buddhahood.
+['ZH_T46_1929_012:0767b09_6']	為赴此之機緣。	為赴此之機緣。	In response to this kind of spiritual affinity,
+['ZH_T46_1929_012:0767b09_15']	雖無通教斷結侵習。	雖無通教斷結侵習。	Although there is no shared teaching to sever bonds and diminish habitual tendencies,
+['ZH_T46_1929_012:0767b10_8']	上地補處菩薩淨無垢稱位。	上地補處菩薩淨無垢稱位。	The bodhisattvas in the upper stages who are about to become Buddhas, and those at the stage of Vimalakīrti,
+['ZH_T46_1929_012:0767b10_16']	一念相應慧斷習。	一念相應慧斷習。	Use the wisdom of a single thought to sever habitual tendencies.
+['ZH_T46_1929_012:0767b11_5']	佛果住有餘涅槃。	佛果住有餘涅槃。	The fruition of Buddhahood abides in the nirvana with remainder.
+['ZH_T46_1929_012:0767b11_16']	為赴通教赴此三乘根緣。	為赴通教赴此三乘根緣。	In response to the spiritual affinities of the three vehicles of the shared teaching,
+['ZH_T46_1929_012:0767b12_5']	示現此教形聲。	示現此教形聲。	Demonstrates this teaching in form and sound.
+['ZH_T46_1929_012:0767b12_12']	悉檀赴緣逗物。	悉檀赴緣逗物。	The four siddhāntas respond to conditions and guide beings.
+['ZH_T46_1929_012:0767b12_17']	故名為興。	故名為興。	Therefore, it is called flourishing.
+['ZH_T46_1929_012:0767b12_20']	廢者。	廢者。	As for abolition,
+['ZH_T46_1929_012:0767b13_6']	四機既息緣謝。	四機既息緣謝。	When the four kinds of spiritual affinities have ceased and the conditions have passed,
+['ZH_T46_1929_012:0767b13_18']	所說通教能說之人俱廢也。	所說通教能說之人俱廢也。	The shared teaching that is expounded and the expounder are both abolished.
+['ZH_T46_1929_012:0767b14_7']	三明別教興廢者。	三明別教興廢者。	Third, as for the flourishing and abolition of the distinct teaching,
+['ZH_T46_1929_012:0767b14_14']	興則機興教興。	興則機興教興。	When it flourishes, the spiritual affinities flourish and the teaching flourishes.
+['ZH_T46_1929_012:0767b15_4']	無量四諦樂欲將起。	無量四諦樂欲將起。	The desire for the immeasurable four noble truths is about to arise.
+['ZH_T46_1929_012:0767b15_13']	從空入假善根可生。	從空入假善根可生。	The wholesome roots that can be born from entering the provisional from emptiness,
+['ZH_T46_1929_012:0767b16_7']	無量恒沙煩惱別惑見思可治。	無量恒沙煩惱別惑見思可治。	The distinct delusions and views and thoughts that can be cured among the immeasurable and innumerable afflictions,
+['ZH_T46_1929_012:0767b16_18']	中道第一義諦真解可發。	中道第一義諦真解可發。	And the true understanding of the Middle Way and the ultimate truth can be aroused.
+['ZH_T46_1929_012:0767b17_14']	故須用四悉檀說無量四諦起別教。	故須用四悉檀說無量四諦起別教。	Therefore, it is necessary to use the four siddhāntas to expound the immeasurable four noble truths and give rise to the distinct teaching.
+['ZH_T46_1929_012:0767b18_5']	菩薩聞則樂欲心起。	菩薩聞則樂欲心起。	Bodhisattvas, upon hearing it, give rise to a mind of delight and desire.
+['ZH_T46_1929_012:0767b18_11']	生界外之善。	生界外之善。	[It produces] wholesome [states of mind] outside the realm of existence.
+['ZH_T46_1929_012:0767b18_17']	斷界外之惡。	斷界外之惡。	[It cuts off] unwholesome [states of mind] outside the realm of existence.
+['ZH_T46_1929_012:0767b19_10']	發中道相似無漏及真無漏。	發中道相似無漏及真無漏。	[It gives rise to] the semblance of the Middle Way, which is without outflows, as well as true, without outflows.
+['ZH_T46_1929_012:0767b20_2']	求常住佛果大般涅槃。	求常住佛果大般涅槃。	[It seeks] the great parinirvāṇa of the Buddha's fruition, which is eternal.
+['ZH_T46_1929_012:0767b20_9']	為赴此之機緣。	為赴此之機緣。	In order to respond to this kind of spiritual affinity,
+['ZH_T46_1929_012:0767b20_19']	雖無別教斷十品無明。	雖無別教斷十品無明。	although there is no separate teaching for cutting off the ten levels of ignorance,
+['ZH_T46_1929_012:0767b21_12']	法身補處菩薩斷十一品無明。	法身補處菩薩斷十一品無明。	bodhisattvas who are filling the position of the Dharma body cut off the eleventh level of ignorance.
+['ZH_T46_1929_012:0767b21_17']	究竟佛果。	究竟佛果。	[They attain] the fruition of ultimate buddhahood.
+['ZH_T46_1929_012:0767b22_6']	而示現此教形聲。	而示現此教形聲。	[The Buddha] manifests this teaching in form and sound.
+['ZH_T46_1929_012:0767b22_15']	用四悉檀赴物機緣。	用四悉檀赴物機緣。	Using the four siddhāntas, he responds to the spiritual affinities of beings.
+['ZH_T46_1929_012:0767b23_3']	說無量四聖諦。	說無量四聖諦。	He expounds the immeasurable four noble truths.
+['ZH_T46_1929_012:0767b23_10']	故名別教興也。	故名別教興也。	Therefore, it is called the arising of the separate teaching.
+['ZH_T46_1929_012:0767b23_13']	廢者。	廢者。	As for the abolition [of the separate teaching],
+['ZH_T46_1929_012:0767b24_2']	四十二品補處菩薩。	四十二品補處菩薩。	bodhisattvas who are filling the position [of the Buddha] in the forty-second level,
+['ZH_T46_1929_012:0767b24_10']	此教佛果俱廢也。	此教佛果俱廢也。	the fruition of buddhahood in this teaching is both abolished.
+['ZH_T46_1929_012:0767b25_3']	二明圓教俱興而不廢者。	二明圓教俱興而不廢者。	Second, clarifying that the perfect teaching both arises and is not abolished:
+['ZH_T46_1929_012:0767b25_14']	若於華嚴方等法華涅槃。	若於華嚴方等法華涅槃。	If, in the Flower Ornament [Sūtra], the Vaipulya [Sūtras], the Lotus Sūtra, and the Nirvāṇa [Sūtra],
+['ZH_T46_1929_012:0767b26_15']	所說圓教赴圓機樂欲生善斷惑見中第一義諦。	所說圓教赴圓機樂欲生善斷惑見中第一義諦。	the perfect teaching expounded responds to the perfect capacity, delight and desire, produces wholesome [states of mind], cuts off delusions, and sees the ultimate truth of the Middle Way,
+['ZH_T46_1929_012:0767b27_8']	是則從初發心至無垢地。	是則從初發心至無垢地。	This is from the initial arousal of the mind up to the stage of no defilements.
+['ZH_T46_1929_012:0767b27_13']	赴四根緣。	赴四根緣。	Responding to the four kinds of capacities and conditions,
+['ZH_T46_1929_012:0767b27_18']	常說此教。	常說此教。	Always expounding this teaching.
+['ZH_T46_1929_012:0767b28_3']	至等覺佛。	至等覺佛。	Up to the stage of equal enlightenment and buddhahood,
+['ZH_T46_1929_012:0767b28_8']	故名為興。	故名為興。	Therefore it is called flourishing.
+['ZH_T46_1929_012:0767b29_1']	故三十二菩薩文殊師利等。	故三十二菩薩文殊師利等。	Therefore, the thirty-two bodhisattvas, Mañjuśrī and others,
+['ZH_T46_1929_012:0767b29_9']	皆說入不二法門。	皆說入不二法門。	All speak of entering the non-dual Dharma gate.
+['ZH_T46_1929_012:0767b29_17']	即是教興之意也。	即是教興之意也。	This is the meaning of the flourishing of the teaching.
+['ZH_T46_1929_012:0767c01_3']	若證妙覺。	若證妙覺。	If one realizes wondrous enlightenment,
+['ZH_T46_1929_012:0767c01_8']	無師自悟。	無師自悟。	Without a teacher, one awakens by oneself.
+['ZH_T46_1929_012:0767c01_13']	無法可歎。	無法可歎。	There is no praiseworthy Dharma.
+['ZH_T46_1929_012:0767c01_18']	無善可生。	無善可生。	There is no good to be produced.
+['ZH_T46_1929_012:0767c02_3']	無惡可斷。	無惡可斷。	There is no evil to be eliminated.
+['ZH_T46_1929_012:0767c02_10']	更無深理可見。	更無深理可見。	There is no profound truth to be seen.
+['ZH_T46_1929_012:0767c02_16']	言詞相寂滅。	言詞相寂滅。	The characteristics of words are quiescent and extinguished.
+['ZH_T46_1929_012:0767c03_1']	本自無興。	本自無興。	Originally, there is no flourishing.
+['ZH_T46_1929_012:0767c03_6']	故無廢也。	故無廢也。	Therefore, there is no decline.
+['ZH_T46_1929_012:0767c03_14']	無廢亦得論廢者。	無廢亦得論廢者。	As for the non-decline that is also discussed as decline,
+['ZH_T46_1929_012:0767c04_3']	四悉檀機盡則教息。	四悉檀機盡則教息。	When the conditions for the four siddhāntas are exhausted, the teaching ceases.
+['ZH_T46_1929_012:0767c04_8']	故名廢也。	故名廢也。	Therefore, it is called decline.
+['ZH_T46_1929_012:0767c04_14']	故大品經云。	故大品經云。	Therefore, the Mahāprajñāpāramitā Sūtra says:
+['ZH_T46_1929_012:0767c05_2']	過荼無字可說。	過荼無字可說。	Beyond the letter 荼, there is no Dharma that can be spoken.
+['ZH_T46_1929_012:0767c05_7']	涅槃經云。	涅槃經云。	The Nirvāṇa Sūtra says:
+['ZH_T46_1929_012:0767c05_16']	不生不生不可說也。	不生不生不可說也。	The unborn and unborn cannot be spoken.
+['ZH_T46_1929_012:0767c06_5']	故淨名默然杜口。	故淨名默然杜口。	Therefore, Vimalakīrti was silent and did not speak.
+['ZH_T46_1929_012:0767c06_17']	不須復以言言於無言之理。	不須復以言言於無言之理。	There is no need to further use words to speak of the principle beyond words.
+['ZH_T46_1929_012:0767c07_7']	文殊稱歎表絕言也。	文殊稱歎表絕言也。	Mañjuśrī's praise shows the transcendence of words.
+['ZH_T46_1929_012:0767c07_16']	是則在因有人有教。	是則在因有人有教。	This means that in the cause there are people and teachings.
+['ZH_T46_1929_012:0767c08_5']	至果則教廢人存。	至果則教廢人存。	When reaching the fruition, the teachings are abandoned and the people remain.
+['ZH_T46_1929_012:0767c08_14']	三德涅槃湛然清淨。	三德涅槃湛然清淨。	The nirvana of the three virtues is tranquil and pure.
+['ZH_T46_1929_012:0767c09_14']	豈同前三教補處菩薩菩提佛果皆有教無人。	豈同前三教補處菩薩菩提佛果皆有教無人。	How can it be the same as the previous three teachings, where the bodhisattvas in the stage of preparation, the Buddha's enlightenment, and the fruition of buddhahood all have teachings but no people?
+['ZH_T46_1929_012:0767c10_3']	教廢人亦隨廢。	教廢人亦隨廢。	The teachings are abandoned and the people also follow in being abandoned.
+['ZH_T46_1929_012:0767c10_13']	權實之意顯在於此也。	權實之意顯在於此也。	The meaning of provisional and real is clearly shown here.
+['ZH_T46_1929_012:0767c11_4']	第六約觀心明四教者。	第六約觀心明四教者。	The sixth is explaining the four teachings from the perspective of contemplating the mind.
+['ZH_T46_1929_012:0767c11_11']	從三觀起四教。	從三觀起四教。	The four teachings arise from the three contemplations.
+['ZH_T46_1929_012:0767c11_16']	已如前辨。	已如前辨。	This has already been explained above.
+['ZH_T46_1929_012:0767c12_5']	今但論即心行用。	今但論即心行用。	Now we only discuss the practice and function of the mind.
+['ZH_T46_1929_012:0767c13_1']	識一切教門皆從初心觀行而起。	識一切教門皆從初心觀行而起。	Know that all the teachings arise from the contemplation and practice of the initial mind.
+['ZH_T46_1929_012:0767c13_10']	四教既攝一切經教。	四教既攝一切經教。	Since the four teachings encompass all the scriptures and teachings,
+['ZH_T46_1929_012:0767c13_18']	若一念觀心分明。	若一念觀心分明。	if the contemplation of a single thought is clear,
+['ZH_T46_1929_012:0767c14_12']	能分別一念無明因緣所生之心。	能分別一念無明因緣所生之心。	one can discern the mind born from the causes and conditions of a single thought of ignorance,
+['ZH_T46_1929_012:0767c14_17']	四辨歷然。	四辨歷然。	and the four abilities are distinct.
+['ZH_T46_1929_012:0767c15_12']	則一切經教大意皆約觀心通達。	則一切經教大意皆約觀心通達。	Then the main points of all the scriptures and teachings are all about contemplating the mind and penetrating it.
+['ZH_T46_1929_012:0767c16_1']	就此即為四意。	就此即為四意。	This is divided into four parts.
+['ZH_T46_1929_012:0767c16_11']	一約觀心明三藏教相。	一約觀心明三藏教相。	First, clarifying the characteristics of the Tripiṭaka Teaching by contemplating the mind.
+['ZH_T46_1929_012:0767c17_1']	二約觀心明通教相。	二約觀心明通教相。	Second, clarifying the characteristics of the Shared Teaching by contemplating the mind.
+['ZH_T46_1929_012:0767c17_10']	三約觀心明別教相。	三約觀心明別教相。	Third, clarifying the characteristics of the Distinct Teaching by contemplating the mind.
+['ZH_T46_1929_012:0767c17_19']	四約觀心明圓教相。	四約觀心明圓教相。	Fourth, clarifying the characteristics of the Perfect Teaching by contemplating the mind.
+['ZH_T46_1929_012:0767c18_11']	第一約觀心明三藏教相者。	第一約觀心明三藏教相者。	The first, clarifying the characteristics of the Tripiṭaka Teaching by contemplating the mind,
+['ZH_T46_1929_012:0767c19_8']	即是觀一念因緣所生之心生滅相。	即是觀一念因緣所生之心生滅相。	Is contemplating the arising and ceasing characteristics of the mind born from causes and conditions in a single thought.
+['ZH_T46_1929_012:0767c19_13']	折假入空。	折假入空。	Breaking down the provisional and entering emptiness.
+['ZH_T46_1929_012:0767c19_18']	約此觀門。	約此觀門。	Based on this contemplation,
+['ZH_T46_1929_012:0767c20_6']	起一切三藏教也。	起一切三藏教也。	All the teachings of the Tripiṭaka arise.
+['ZH_T46_1929_012:0767c20_15']	若觀生滅四諦入道。	若觀生滅四諦入道。	If one contemplates the arising and ceasing four noble truths and enters the path,
+['ZH_T46_1929_012:0767c21_3']	即是修多羅藏。	即是修多羅藏。	This is the Sūtra Piṭaka.
+['ZH_T46_1929_012:0767c21_10']	故增一阿含云。	故增一阿含云。	Therefore, the Ekottara Āgama says:
+['ZH_T46_1929_012:0767c21_16']	佛告諸比丘。	佛告諸比丘。	The Buddha told the bhikṣus:
+['ZH_T46_1929_012:0767c22_7']	謂一切法者只是一法。	謂一切法者只是一法。	As for all dharmas, there is only one dharma.
+['ZH_T46_1929_012:0767c22_13']	何等為一法。	何等為一法。	What is the one dharma?
+['ZH_T46_1929_012:0767c23_4']	心是一法出一切法也。	心是一法出一切法也。	The mind is the one dharma that gives rise to all dharmas.
+['ZH_T46_1929_012:0767c23_9']	智度論云。	智度論云。	The Mahāprajñāpāramitā Śāstra says:
+['ZH_T46_1929_012:0767c23_19']	從初轉法輪至大涅槃。	從初轉法輪至大涅槃。	From the initial turning of the Dharma wheel up to the great nirvāṇa,
+['ZH_T46_1929_012:0767c24_5']	結修多羅藏。	結修多羅藏。	The Sūtra Piṭaka is compiled.
+['ZH_T46_1929_012:0767c24_17']	此只是約心生滅說四聖諦。	此只是約心生滅說四聖諦。	This is simply explaining the four noble truths based on the arising and ceasing of the mind.
+['ZH_T46_1929_012:0767c25_8']	即是法歸法本之義也。	即是法歸法本之義也。	It is the meaning of returning to the Dharma and the basis of the Dharma.
+['ZH_T46_1929_012:0767c25_18']	觀心出一切毘尼藏者。	觀心出一切毘尼藏者。	Contemplating the mind gives rise to the entire Vinaya Piṭaka.
+['ZH_T46_1929_012:0767c26_4']	佛制戒時。	佛制戒時。	When the Buddha established the precepts,
+['ZH_T46_1929_012:0767c26_9']	問諸比丘。	問諸比丘。	he asked the bhikṣus,
+['ZH_T46_1929_012:0767c26_15']	汝法何心作。	汝法何心作。	What was your state of mind when you acted?
+['ZH_T46_1929_012:0767c27_1']	若有心作。	若有心作。	If there was a state of mind when acting,
+['ZH_T46_1929_012:0767c27_6']	即是犯戒。	即是犯戒。	then it is a violation of the precepts.
+['ZH_T46_1929_012:0767c27_13']	有犯故有持也。	有犯故有持也。	Because there is a violation, there is also observance.
+['ZH_T46_1929_012:0767c27_18']	若無心作。	若無心作。	If there was no state of mind when acting,
+['ZH_T46_1929_012:0767c28_3']	則不名犯。	則不名犯。	then it is not considered a violation.
+['ZH_T46_1929_012:0767c28_10']	犯義不說持也。	犯義不說持也。	The meaning of violation is not discussed in terms of observance.
+['ZH_T46_1929_012:0767c28_16']	故重心發戒。	故重心發戒。	Therefore, a heavy state of mind gives rise to precepts.
+['ZH_T46_1929_012:0767c29_5']	無心則不發戒也。	無心則不發戒也。	Without a state of mind, precepts are not given rise to.
+['ZH_T46_1929_012:0767c29_16']	所言從心出阿毘曇藏者。	所言從心出阿毘曇藏者。	As for the statement that the Abhidharma Piṭaka arises from the mind,
+['ZH_T46_1929_012:0768a01_6']	四卷略說名毘曇心。	四卷略說名毘曇心。	the four-fascicle Abhidharma-hṛdaya is a brief explanation.
+['ZH_T46_1929_012:0768a02_1']	達磨波羅處中而說名為雜心。	達磨波羅處中而說名為雜心。	Dharmapāla's explanation from a neutral perspective is called the Saṃyuktâbhidharmahṛdaya.
+['ZH_T46_1929_012:0768a02_11']	如此皆是約心辨毘曇。	如此皆是約心辨毘曇。	In this way, all of these are about using the mind to discern the Abhidharma.
+['ZH_T46_1929_012:0768a02_16']	無比法者。	無比法者。	As for the unsurpassed Dharma,
+['ZH_T46_1929_012:0768a03_5']	分別諸心心數法。	分別諸心心數法。	it distinguishes the various mental factors and mental activities.
+['ZH_T46_1929_012:0768a03_13']	一切法不可比也。	一切法不可比也。	All dharmas are beyond comparison.
+['ZH_T46_1929_012:0768a04_3']	二約觀心明通教者。	二約觀心明通教者。	Second, clarifying the shared teaching by contemplating the mind.
+['ZH_T46_1929_012:0768a04_13']	觀心因緣所生一切法。	觀心因緣所生一切法。	Contemplating the mind's causes and conditions gives rise to all dharmas.
+['ZH_T46_1929_012:0768a05_2']	心空則一切法空。	心空則一切法空。	When the mind is empty, all dharmas are empty.
+['ZH_T46_1929_012:0768a05_9']	是為體假入空。	是為體假入空。	This is called entering emptiness by realizing the provisional nature of phenomena.
+['ZH_T46_1929_012:0768a06_5']	一切通教所明行位因果皆從此起。	一切通教所明行位因果皆從此起。	All the practices, stages, causes, and effects explained in the Shared Teaching arise from this.
+['ZH_T46_1929_012:0768a06_14']	三約觀心明別教者。	三約觀心明別教者。	Third, explaining the Distinct Teaching in terms of contemplating the mind:
+['ZH_T46_1929_012:0768a07_2']	觀心因緣所生。	觀心因緣所生。	Contemplating the mind as arising from causes and conditions,
+['ZH_T46_1929_012:0768a07_6']	即假名。	即假名。	is the provisional name,
+['ZH_T46_1929_012:0768a07_15']	具足一切恒沙佛法。	具足一切恒沙佛法。	endowed with all the Buddha's teachings like the sands of the Ganges.
+['ZH_T46_1929_012:0768a08_4']	依無明阿梨耶識。	依無明阿梨耶識。	Based on the ignorance of the ālaya consciousness,
+['ZH_T46_1929_012:0768a08_11']	分別無量四諦。	分別無量四諦。	discriminating the immeasurable Four Noble Truths,
+['ZH_T46_1929_012:0768a09_7']	一切別教所明行位因果皆從此起。	一切別教所明行位因果皆從此起。	all the practices, stages, causes, and effects explained in the Distinct Teaching arise from this.
+['ZH_T46_1929_012:0768a09_16']	四約觀心明圓教者。	四約觀心明圓教者。	Fourth, explaining the Perfect Teaching in terms of contemplating the mind:
+['ZH_T46_1929_012:0768a10_4']	觀心因緣所生。	觀心因緣所生。	Contemplating the mind as arising from causes and conditions,
+['ZH_T46_1929_012:0768a10_12']	具足一切十法界。	具足一切十法界。	endowed with all the ten Dharma realms,
+['ZH_T46_1929_012:0768a10_17']	無所積聚。	無所積聚。	without accumulation,
+['ZH_T46_1929_012:0768a11_3']	不縱不橫。	不縱不橫。	neither vertical nor horizontal,
+['ZH_T46_1929_012:0768a11_13']	不思議中道二諦之理。	不思議中道二諦之理。	the principle of the inconceivable Middle Way and the Two Truths,
+['ZH_T46_1929_012:0768a12_9']	一切圓教所明行位因果皆從此起。	一切圓教所明行位因果皆從此起。	all the practices, stages, causes, and effects explained in the Perfect Teaching arise from this.
+['ZH_T46_1929_012:0768a12_17']	如輪王頂上明珠。	如輪王頂上明珠。	Like the luminous pearl on the head of a universal monarch,
+['ZH_T46_1929_012:0768a13_11']	是則四教皆從一念無明心起。	是則四教皆從一念無明心起。	then the four teachings all arise from a single thought of ignorance,
+['ZH_T46_1929_012:0768a14_11']	即是破微塵出三千大千世界經卷之義也。	即是破微塵出三千大千世界經卷之義也。	which is the meaning of the sutra emerging from a tiny particle of dust.
+['ZH_T46_1929_012:0768a15_2']	第七通諸經論為二。	第七通諸經論為二。	The seventh is to apply to various sūtras and treatises in two ways.
+['ZH_T46_1929_012:0768a15_9']	一明對諸經論。	一明對諸經論。	First, clarifying the correspondence with various sūtras and treatises.
+['ZH_T46_1929_012:0768a15_17']	二通釋此經文義。	二通釋此經文義。	Second, explaining the meaning of this sūtra.
+['ZH_T46_1929_012:0768a16_7']	就初四教對經論者。	就初四教對經論者。	In the first, the four teachings correspond to sūtras and treatises.
+['ZH_T46_1929_012:0768a17_1']	佛用四教成一切頓漸諸經。	佛用四教成一切頓漸諸經。	The Buddha uses the four teachings to accomplish all sudden and gradual sūtras.
+['ZH_T46_1929_012:0768a17_10']	論釋經豈越四教也。	論釋經豈越四教也。	How can the treatises' explanations of the sūtras go beyond the four teachings?
+['ZH_T46_1929_012:0768a17_15']	即為二意。	即為二意。	There are then two points.
+['ZH_T46_1929_012:0768a18_3']	一對經二對論。	一對經二對論。	First, corresponding to the sūtras; second, corresponding to the treatises.
+['ZH_T46_1929_012:0768a18_8']	一對經者。	一對經者。	First, corresponding to the sūtras.
+['ZH_T46_1929_012:0768a18_19']	若華嚴經但具二教所成。	若華嚴經但具二教所成。	If the Huayan Sūtra only possesses the two teachings that it accomplishes.
+['ZH_T46_1929_012:0768a19_3']	一別教。	一別教。	One is the distinct teaching.
+['ZH_T46_1929_012:0768a19_7']	二圓教。	二圓教。	The other is the perfect teaching.
+['ZH_T46_1929_012:0768a19_12']	所以者何。	所以者何。	Why is this so?
+['ZH_T46_1929_012:0768a20_16']	別教則諸菩薩宣說歷劫修行四十二心斷結行位階差。	別教則諸菩薩宣說歷劫修行四十二心斷結行位階差。	The distinct teaching then has the bodhisattvas proclaiming the cultivation of the forty-two stages and the practice of severing bonds over kalpas, with the stages and differences in practice.
+['ZH_T46_1929_012:0768a21_10']	圓教明一心具足一切諸行。	圓教明一心具足一切諸行。	The perfect teaching clarifies that the one mind is replete with all practices.
+['ZH_T46_1929_012:0768a22_5']	從初一地具足一切諸地功德。	從初一地具足一切諸地功德。	From the first stage, it is replete with the merits of all stages.
+['ZH_T46_1929_012:0768a22_15']	次明漸教之初聲聞經。	次明漸教之初聲聞經。	Next, clarifying the beginning of the gradual teaching, the sūtras for śrāvakas.
+['ZH_T46_1929_012:0768a23_3']	但具足三藏教。	但具足三藏教。	It is only replete with the Tripiṭaka teaching.
+['ZH_T46_1929_012:0768a23_16']	方等大乘及以此經具足四教。	方等大乘及以此經具足四教。	The Mahāyāna of the Vaipulya sūtras and this sūtra are replete with the four teachings.
+['ZH_T46_1929_012:0768a24_6']	摩訶般若具足三教。	摩訶般若具足三教。	The Mahāprajñāpāramitā Sūtra is complete with three teachings.
+['ZH_T46_1929_012:0768a24_11']	除三藏教。	除三藏教。	Excluding the Tripiṭaka Teaching.
+['ZH_T46_1929_012:0768a24_19']	法華經開權顯實。	法華經開權顯實。	The Lotus Sūtra reveals the real after discarding the provisional.
+['ZH_T46_1929_012:0768a25_5']	正直捨方便。	正直捨方便。	It is straightforward and abandons skillful means.
+['ZH_T46_1929_012:0768a25_10']	但一圓教。	但一圓教。	It is solely the One Perfect Teaching.
+['ZH_T46_1929_012:0768a25_18']	涅槃經具足四教。	涅槃經具足四教。	The Nirvāṇa Sūtra is complete with four teachings.
+['ZH_T46_1929_012:0768a26_4']	成五味義也。	成五味義也。	This accomplishes the meaning of the five flavors.
+['ZH_T46_1929_012:0768a26_7']	問曰。	問曰。	Question:
+['ZH_T46_1929_012:0768a26_16']	方等大乘亦具四教。	方等大乘亦具四教。	The Mahāyāna of the Vaipulya Sūtras also has four teachings.
+['ZH_T46_1929_012:0768a27_5']	何故不成五味義。	何故不成五味義。	Why does it not accomplish the meaning of the five flavors?
+['ZH_T46_1929_012:0768a27_8']	答曰。	答曰。	Answer:
+['ZH_T46_1929_012:0768a27_15']	不明聲聞作佛。	不明聲聞作佛。	It does not clarify that the śrāvakas become buddhas.
+['ZH_T46_1929_012:0768a28_2']	五味之義不成。	五味之義不成。	The meaning of the five flavors is not accomplished.
+['ZH_T46_1929_012:0768a28_7']	約不定中。	約不定中。	Based on the indeterminate,
+['ZH_T46_1929_012:0768a28_13']	得論四教也。	得論四教也。	one can discuss the four teachings.
+['ZH_T46_1929_012:0768a29_9']	釋迦出世所有經教更不過此四教。	釋迦出世所有經教更不過此四教。	The sūtras and teachings of Śākyamuni's appearance in the world do not go beyond these four teachings.
+['ZH_T46_1929_012:0768a29_14']	攝此諸經。	攝此諸經。	They include all these sūtras.
+['ZH_T46_1929_012:0768a29_19', 'ZH_T46_1929_012:0768b01_4']	罄無不盡。🔽二對論者。	罄無不盡。 二對論者。	There is nothing left out.🔽Second, the discussion:
+['ZH_T46_1929_012:0768b01_9']	論有二種。	論有二種。	There are two kinds of discussions.
+['ZH_T46_1929_012:0768b01_16']	一者通申經論。	一者通申經論。	First, discussing the sūtras in a general way;
+['ZH_T46_1929_012:0768b02_4']	二者別申經論。	二者別申經論。	second, discussing the sūtras in a specific way.
+['ZH_T46_1929_012:0768b02_11']	一通申經論者。	一通申經論者。	First, discussing the sūtras in a general way:
+['ZH_T46_1929_012:0768b02_16']	即為二意。	即為二意。	There are two points.
+['ZH_T46_1929_012:0768b03_4']	一通申小乘經。	一通申小乘經。	First, discussing the Hīnayāna sūtras in a general way;
+['ZH_T46_1929_012:0768b03_11']	二通申大乘經。	二通申大乘經。	second, discussing the Mahāyāna sūtras in a general way.
+['ZH_T46_1929_012:0768b03_19']	一通申小乘經者。	一通申小乘經者。	First, those that comprehensively explain the sūtras of the Lesser Vehicle.
+['ZH_T46_1929_012:0768b04_9']	如毘曇成實昆勒等論。	如毘曇成實昆勒等論。	Such as the Abhidharma, Satyasiddhi, and Kṣemaṅkara treatises.
+['ZH_T46_1929_012:0768b05_6']	並是通申小乘經論故成實論主云。	並是通申小乘經論故成實論主云。	They all comprehensively explain the sūtras and treatises of the Lesser Vehicle. The author of the Satyasiddhi Śāstra says:
+['ZH_T46_1929_012:0768b05_17']	我今正欲論三藏中實義。	我今正欲論三藏中實義。	I now wish to discuss the true meaning in the Tripiṭaka.
+['ZH_T46_1929_012:0768b06_7']	二通申大乘經論者。	二通申大乘經論者。	Second, those that comprehensively explain the sūtras and treatises of the Great Vehicle.
+['ZH_T46_1929_012:0768b07_10']	如地持論．攝大乘論．唯識論．中論．十二門論等。	如地持論．攝大乘論．唯識論．中論．十二門論等。	Such as the Bodhisattvabhūmi Sūtra, Mahāyānasaṃgraha Sāstra, Vijñaptimātratāsiddhi Sāstra, Madhyamaka Sāstra, and Dvādaśanikāya Śāstra.
+['ZH_T46_1929_012:0768b08_6']	並是通申諸大乘經所明別圓兩經也。	並是通申諸大乘經所明別圓兩經也。	They all comprehensively explain the distinct and perfect sūtras of the various Mahāyāna sūtras.
+['ZH_T46_1929_012:0768b08_13']	二別申經論者。	二別申經論者。	Second, those that specifically explain the sūtras and treatises.
+['ZH_T46_1929_012:0768b08_18']	即為二意。	即為二意。	There are two points.
+['ZH_T46_1929_012:0768b09_5']	一別申小乘經。	一別申小乘經。	First, specifically explaining the sūtras of the Lesser Vehicle.
+['ZH_T46_1929_012:0768b09_12']	二別申大乘經。	二別申大乘經。	Second, specifically explaining the sūtras of the Great Vehicle.
+['ZH_T46_1929_012:0768b10_1']	一別申小乘經者。	一別申小乘經者。	First, specifically explaining the sūtras of the Lesser Vehicle.
+['ZH_T46_1929_012:0768b10_11']	如俱舍論別申修多羅。	如俱舍論別申修多羅。	Such as the Abhidharmakośa Sāstra specifically explaining the sūtras.
+['ZH_T46_1929_012:0768b10_19']	明了論別申毘尼。	明了論別申毘尼。	The Mīmāṃsā Sāstra specifically explaining the Vinaya.
+['ZH_T46_1929_012:0768b11_18']	毘婆娑論．阿毘曇論別申佛在世說毘曇也。	毘婆娑論．阿毘曇論別申佛在世說毘曇也。	The Vibhāṣā Sāstra and Abhidharma Sāstra specifically explaining the Abhidharma taught by the Buddha during his lifetime.
+['ZH_T46_1929_012:0768b12_9']	二明別申大乘經論者。	二明別申大乘經論者。	Second, explaining the sūtras and treatises of the Great Vehicle.
+['ZH_T46_1929_012:0768b13_5']	如十地論別申華嚴經別圓兩教。	如十地論別申華嚴經別圓兩教。	As the Daśabhūmika-vibhāṣā-śāstra specifically explains the Huayan Sūtra's two teachings of the Distinct and the Perfect,
+['ZH_T46_1929_012:0768b14_4']	大智度論別申摩訶般若經通別圓三教。	大智度論別申摩訶般若經通別圓三教。	the Mahāprajñāpāramitā-śāstra specifically explains the Mahāprajñāpāramitā Sūtra's three teachings of the Shared, the Distinct, and the Perfect,
+['ZH_T46_1929_012:0768b14_17']	應有別申大集方等及此經論。	應有別申大集方等及此經論。	there should be specific explanations of the Mahāsaṃnipāta Sūtra, the Vaipulya Sūtras, and this treatise.
+['ZH_T46_1929_012:0768b15_3']	不來此土。	不來此土。	[But] they did not come to this land.
+['ZH_T46_1929_012:0768b15_16']	金剛般若論別申金剛般若經。	金剛般若論別申金剛般若經。	The Vajracchedikā-prajñāpāramitā-śāstra specifically explains the Vajracchedikā-prajñāpāramitā Sūtra,
+['ZH_T46_1929_012:0768b16_9']	法華論別申法華經一圓教。	法華論別申法華經一圓教。	the Saddharmapuṇḍarīka-sūtra-śāstra specifically explains the Saddharmapuṇḍarīka Sūtra's one Perfect Teaching,
+['ZH_T46_1929_012:0768b17_4']	涅槃論別申涅槃經四教五味。	涅槃論別申涅槃經四教五味。	the Mahāparinirvāṇa-sūtra-śāstra specifically explains the Mahāparinirvāṇa Sūtra's four teachings and five flavors.
+['ZH_T46_1929_012:0768b17_11']	論度此土不盡。	論度此土不盡。	The treatises did not completely reach this land.
+['ZH_T46_1929_012:0768b17_18']	如是等論申經。	如是等論申經。	Such treatises explain the sūtras.
+['ZH_T46_1929_012:0768b18_4']	即是申觀心。	即是申觀心。	This is precisely explaining the contemplation of the mind.
+['ZH_T46_1929_012:0768b18_13']	此等諸經今分明也。	此等諸經今分明也。	These various sūtras are now clear.
+['ZH_T46_1929_012:0768b19_1']	是則精修觀心。	是則精修觀心。	This is then the precise cultivation of contemplating the mind.
+['ZH_T46_1929_012:0768b19_8']	洞解一切經論。	洞解一切經論。	Thoroughly understanding all sūtras and treatises.
+['ZH_T46_1929_012:0768b19_17']	若經論不從心出者。	若經論不從心出者。	If the sūtras and treatises did not come from the mind,
+['ZH_T46_1929_012:0768b20_3']	觀行之人。	觀行之人。	the practitioner of contemplation,
+['ZH_T46_1929_012:0768b20_9']	既不聽不讀。	既不聽不讀。	having neither listened nor read,
+['ZH_T46_1929_012:0768b20_17']	何得內心通達耶。	何得內心通達耶。	how could they internally understand?
+['ZH_T46_1929_012:0768b21_5']	此乃有所言說。	此乃有所言說。	This is precisely having something to say,
+['ZH_T46_1929_012:0768b21_12']	冥與經論相應。	冥與經論相應。	obscurely corresponding with the sūtras and treatises.
+['ZH_T46_1929_012:0768b21_17']	意在此也。	意在此也。	The meaning lies in this.
+['ZH_T46_1929_012:0768b22_13']	第二正明用四教通釋此經云文義者。	第二正明用四教通釋此經云文義者。	The second is to directly explain the use of the four teachings to universally interpret this sutra.
+['ZH_T46_1929_012:0768b22_18']	即為二意。	即為二意。	There are two points.
+['ZH_T46_1929_012:0768b23_5']	一釋經五義。	一釋經五義。	The first is to explain the five meanings of the sutra.
+['ZH_T46_1929_012:0768b23_10']	二通經文。	二通經文。	The second is to explain the sutra text.
+['ZH_T46_1929_012:0768b23_18']	一釋此經五義者。	一釋此經五義者。	The first is to explain the five meanings of this sutra.
+['ZH_T46_1929_012:0768b24_13']	即如前約四教位釋淨無垢稱之名。	即如前約四教位釋淨無垢稱之名。	It is the same as the previous explanation of the name Pure and Unstained Renown according to the four teachings.
+['ZH_T46_1929_012:0768b25_1']	名一而義異。	名一而義異。	The name is the same but the meanings are different.
+['ZH_T46_1929_012:0768b25_6', 'ZH_T46_1929_012:0768b25_19']	次辨體者。🔽三教所詮即是思議解脫之體。	次辨體者。 三教所詮即是思議解脫之體。	Next, to discern the essence.🔽The essence of the three teachings is the conceivable liberation.
+['ZH_T46_1929_012:0768b26_12']	圓教所明即是不思議解脫也。	圓教所明即是不思議解脫也。	The essence of the perfect teaching is the inconceivable liberation.
+['ZH_T46_1929_012:0768b26_17']	次明宗者。	次明宗者。	Next, to clarify the main purport.
+['ZH_T46_1929_012:0768b27_16']	是即四教明四種四諦因果感佛國不同也。	是即四教明四種四諦因果感佛國不同也。	This is the four teachings clarifying the four kinds of four truths and the causes and effects of the different buddha lands they evoke.
+['ZH_T46_1929_012:0768b28_3']	次顯用者。	次顯用者。	Next, to reveal the function.
+['ZH_T46_1929_012:0768b28_12']	即是四教從淺至深。	即是四教從淺至深。	This is the four teachings from shallow to deep.
+['ZH_T46_1929_012:0768b29_1']	次第以深呵淺也。	次第以深呵淺也。	Gradually using the profound to rebuke the shallow.
+['ZH_T46_1929_012:0768b29_7']	次判教相者。	次判教相者。	Next, to distinguish the characteristics of the teachings.
+['ZH_T46_1929_012:0768b29_14']	此經具明四教。	此經具明四教。	This sutra fully clarifies the four teachings.
+['ZH_T46_1929_012:0768c01_2']	與諸經有同有異。	與諸經有同有異。	It has similarities and differences with other sutras.
+['ZH_T46_1929_012:0768c01_7']	如前分別。	如前分別。	As previously analyzed.
+['ZH_T46_1929_012:0768c01_17']	二用四教釋此經文者。	二用四教釋此經文者。	The second is to use the four teachings to explain the text of this sutra.
+['ZH_T46_1929_012:0768c02_3']	即為三意。	即為三意。	There are three points.
+['ZH_T46_1929_012:0768c02_10']	一通室外四品。	一通室外四品。	The first is the four chapters that are common to the outer room.
+['ZH_T46_1929_012:0768c02_17', 'ZH_T46_1929_012:0768c03_4']	二通室內六品。🔽三通出室四品。	二通室內六品。 三通出室四品。	The second is the six chapters that are common to the inner room.🔽The third is the four chapters that are common to leaving the room.
+['ZH_T46_1929_012:0768c03_12']	一通室外四品者。	一通室外四品者。	The first is the four chapters that are common to the outer room.
+['ZH_T46_1929_012:0768c04_2']	用四教明因果不同。	用四教明因果不同。	Using the four teachings to clarify the differences in cause and effect.
+['ZH_T46_1929_012:0768c04_11']	故釋迦現佛國有異。	故釋迦現佛國有異。	Therefore, Shakyamuni's manifested buddha land has differences.
+['ZH_T46_1929_012:0768c05_2']	如身子梵王所見不同。	如身子梵王所見不同。	Like Shariputra and Brahma's different perspectives.
+['ZH_T46_1929_012:0768c05_8']	諸天共寶器。	諸天共寶器。	The heavens share jeweled vessels.
+['ZH_T46_1929_012:0768c05_14']	食隨其果報。	食隨其果報。	Food according to their karmic retribution.
+['ZH_T46_1929_012:0768c06_1']	飯色有異故。	飯色有異故。	The color of the rice is different.
+['ZH_T46_1929_012:0768c06_9']	以稟四教不同故。	以稟四教不同故。	Therefore, due to receiving the four teachings differently.
+['ZH_T46_1929_012:0768c06_16']	見佛國有異也。	見佛國有異也。	One sees the differences in the buddha lands.
+['ZH_T46_1929_012:0768c07_2']	釋方便品。	釋方便品。	Explaining the chapter on skillful means.
+['ZH_T46_1929_012:0768c07_10']	正用三藏教通教。	正用三藏教通教。	Correctly using the Tripiṭaka teaching and the common teaching.
+['ZH_T46_1929_012:0768c07_15']	所以者何。	所以者何。	Why is it so?
+['ZH_T46_1929_012:0768c08_7']	說折法入空因緣生滅無常。	說折法入空因緣生滅無常。	Explaining the causes and conditions of breaking down phenomena and entering emptiness, arising and ceasing impermanence.
+['ZH_T46_1929_012:0768c09_1']	復說如夢幻體假入空之意。	復說如夢幻體假入空之意。	It also explains the meaning of the dream-like and illusory nature of phenomena entering emptiness.
+['ZH_T46_1929_012:0768c09_11']	是則因中用拙巧二度。	是則因中用拙巧二度。	This is then using the clumsy and skillful two stages in the cause.
+['ZH_T46_1929_012:0768c10_1']	破其界內愛見著心。	破其界內愛見著心。	Breaking the mind attached to love and views within the realm.
+['ZH_T46_1929_012:0768c10_10']	勤修二教之法身也。	勤修二教之法身也。	Diligent cultivation of the Dharma body of the two teachings.
+['ZH_T46_1929_012:0768c11_2']	弟子品用通教別教圓教。	弟子品用通教別教圓教。	The chapter on disciples uses the common teaching, the distinct teaching, and the perfect teaching.
+['ZH_T46_1929_012:0768c11_14']	彈呵十大弟子及五百羅漢。	彈呵十大弟子及五百羅漢。	He criticized the ten great disciples and five hundred arhats.
+['ZH_T46_1929_012:0768c12_1']	用通教彈者。	用通教彈者。	Using the Shared Teaching to criticize means:
+['ZH_T46_1929_012:0768c12_15']	如呵迦旃延說三藏教拙度五義。	如呵迦旃延說三藏教拙度五義。	Like criticizing Kātyāyanīputra's explanation of the Tripiṭaka Teaching's clumsy five meanings.
+['ZH_T46_1929_012:0768c13_3']	用別教折呵者。	用別教折呵者。	Using the Distinct Teaching to rebuke means:
+['ZH_T46_1929_012:0768c13_16']	此如呵富樓那穢食置寶器也。	此如呵富樓那穢食置寶器也。	This is like criticizing Pūrṇa Maitrāyaniputra for placing defiled food in a jeweled vessel.
+['ZH_T46_1929_012:0768c14_2']	用圓教者。	用圓教者。	Using the Perfect Teaching means:
+['ZH_T46_1929_012:0768c14_10']	如彈身子善吉云。	如彈身子善吉云。	Like criticizing Śāriputra and Subhūti, saying:
+['ZH_T46_1929_012:0768c14_15']	不起滅定。	不起滅定。	Not arising from the concentration of cessation.
+['ZH_T46_1929_012:0768c14_20']	現諸威儀。	現諸威儀。	Manifesting various dignified deportments.
+['ZH_T46_1929_012:0768c15_4']	不斷廢愛。	不斷廢愛。	Not cutting off and abandoning craving.
+['ZH_T46_1929_012:0768c15_9']	起於明脫。	起於明脫。	Giving rise to clear liberation.
+['ZH_T46_1929_012:0768c15_15']	亦不縛不解。	亦不縛不解。	Also not bound or untied.
+['ZH_T46_1929_012:0768c16_5']	並是用圓教意彈也。	並是用圓教意彈也。	All of this uses the meaning of the Perfect Teaching to criticize.
+['ZH_T46_1929_012:0768c16_12']	四教釋菩薩品。	四教釋菩薩品。	The four teachings explain the chapter on bodhisattvas.
+['ZH_T46_1929_012:0768c16_18']	正是用圓教。	正是用圓教。	This is precisely using the Perfect Teaching.
+['ZH_T46_1929_012:0768c18_8']	呵四大菩薩用三藏通教別教自行化他偏僻法華不思議圓頓之道。	呵四大菩薩用三藏通教別教自行化他偏僻法華不思議圓頓之道。	To criticize the four great bodhisattvas for using the Tripiṭaka Teaching, the Shared Teaching, and the Distinct Teaching's biased methods of self-benefit and benefiting others, and the inconceivable perfect and sudden way of the Lotus Sūtra.
+['ZH_T46_1929_012:0768c19_4']	二明室內用四教釋六品經文者。	二明室內用四教釋六品經文者。	Second, clarifying the use of the four teachings to explain the six chapters of the sūtra.
+['ZH_T46_1929_012:0768c19_12']	大士無三教之疾。	大士無三教之疾。	The great being has no illness of the three teachings.
+['ZH_T46_1929_012:0768c20_1']	以方便現同三疾。	以方便現同三疾。	He expediently manifests the same three illnesses.
+['ZH_T46_1929_012:0768c20_8']	約此辨問疾也。	約此辨問疾也。	Based on this, he discusses the illness.
+['ZH_T46_1929_012:0768c21_9']	不思議品正明住圓教不思議示現四教之事也。	不思議品正明住圓教不思議示現四教之事也。	The chapter on the inconceivable correctly clarifies the inconceivable manifestations of the four teachings in the perfect teaching.
+['ZH_T46_1929_012:0768c22_11']	觀眾生品即是辨不思議別圓兩教從假入空也。	觀眾生品即是辨不思議別圓兩教從假入空也。	The chapter on contemplating sentient beings is precisely the discernment of the inconceivable, the two teachings of the separate and perfect, entering emptiness from the conventional.
+['ZH_T46_1929_012:0768c24_1']	佛道品即是辨不思議圓教從空入假行於非道通達佛道也。	佛道品即是辨不思議圓教從空入假行於非道通達佛道也。	The chapter on the Buddha way is precisely the discernment of the inconceivable, the perfect teaching, entering the conventional from emptiness, practicing the non-way and penetrating the Buddha way.
+['ZH_T46_1929_012:0768c25_6']	不二法門品正明圓教不思議中道正觀入不二法門也。	不二法門品正明圓教不思議中道正觀入不二法門也。	The chapter on the non-dual Dharma gate correctly clarifies the inconceivable, the perfect teaching, the correct contemplation of the middle way, entering the non-dual Dharma gate.
+['ZH_T46_1929_012:0768c26_10']	香積品即是不思議圓教所明雙照二諦法界圓融也。	香積品即是不思議圓教所明雙照二諦法界圓融也。	The chapter on Fragrant Accumulation is precisely the inconceivable, the perfect teaching, the twofold illumination of the two truths and the perfect fusion of the Dharma realm.
+['ZH_T46_1929_012:0768c27_5']	三明四教通出室四品經文者。	三明四教通出室四品經文者。	Third, the four chapters of the sutra that universally exit the room are as follows:
+['ZH_T46_1929_012:0768c27_11']	通菩薩行品。	通菩薩行品。	The chapter on universal bodhisattva practices.
+['ZH_T46_1929_012:0768c28_2']	令菩薩遍行四教之行。	令菩薩遍行四教之行。	It causes bodhisattvas to universally practice the four teachings.
+['ZH_T46_1929_012:0768c28_9']	四土化眾生也。	四土化眾生也。	Transforming sentient beings in the four lands.
+['ZH_T46_1929_012:0768c28_18']	四教通見阿閦品者。	四教通見阿閦品者。	The four teachings universally see the chapter on Akṣobhya.
+['ZH_T46_1929_012:0768c29_7']	明若依四教修四行。	明若依四教修四行。	It clarifies that if one cultivates the four practices according to the four teachings,
+['ZH_T46_1929_012:0768c29_12']	發菩提心。	發菩提心。	Gives rise to the bodhi mind,
+['ZH_T46_1929_012:0769a01_2']	始得生阿閦佛國也。	始得生阿閦佛國也。	Only then can one be born in the land of Buddha Akṣobhya.
+['ZH_T46_1929_012:0769a01_15']	亦用此成無動如來佛國之行。	亦用此成無動如來佛國之行。	It is also used to accomplish the practice of the Buddha land of Akṣobhya Tathāgata.
+['ZH_T46_1929_012:0769a02_1']	得成佛時。	得成佛時。	When one attains Buddhahood,
+['ZH_T46_1929_012:0769a02_12']	所有佛國如妙喜世界也。	所有佛國如妙喜世界也。	one's Buddha land will be like the world of Wonderful Joy.
+['ZH_T46_1929_012:0769a03_6']	用四教通法供養屬累二品者。	用四教通法供養屬累二品者。	As for the two chapters on offerings and entrustment using the teachings of the four teachings,
+['ZH_T46_1929_012:0769a03_13']	付屬天帝彌勒。	付屬天帝彌勒。	they entrust the Buddha's teachings to Indra and Maitreya,
+['ZH_T46_1929_012:0769a04_5']	令於佛去世後流通此經。	令於佛去世後流通此經。	ordering them to spread this sūtra after the Buddha's passing.
+['ZH_T46_1929_012:0769a04_18']	四教利益未來弟子令不絕也。	四教利益未來弟子令不絕也。	The four teachings benefit future disciples, causing them to continue without interruption.Here is the corrected and aligned text:
+['ZH_T46_1929_012:0769a05_100']	四教義卷第十二	四教義卷第十二	The Meaning of the Four Teachings, Scroll 12

@@ -1,0 +1,934 @@
+segmentnr	original	analyzed	translated
+['ZH_T27_1545_015:0071c23_0']	阿毘達磨大毘婆沙論卷第十五	阿毘達磨大毘婆沙論卷第十五	Abhidharma-mahāvibhāṣā-śāstra, fascicle 15
+['ZH_T27_1545_015:0071c25_0']	五百大阿羅漢等造	五百大阿羅漢等造	Composed by 500 great arhats and others
+['ZH_T27_1545_015:0071c26_0', 'ZH_T27_1545_015:0071c28_7']	三藏法師玄奘奉　詔譯🔽7雜蘊第一中智納息第二之七問名為隨語地繫。	三藏法師玄奘奉　詔譯 7雜蘊第一中智納息第二之七問名為隨語地繫。	Translated by Tripiṭaka Master Xuanzang on imperial command
+['ZH_T27_1545_015:0071c28_17']	為隨補特伽羅地繫耶。	為隨補特伽羅地繫耶。	Is it according to the realm to which the person belongs?
+['ZH_T27_1545_015:0071c29_2']	有說。	有說。	Some say:
+['ZH_T27_1545_015:0071c29_8']	名隨語地繫。	名隨語地繫。	The name is bound to the language of the realm.
+['ZH_T27_1545_015:0071c29_13']	彼作是說。	彼作是說。	They say:
+['ZH_T27_1545_015:0071c29_18']	生欲界者。	生欲界者。	One born in the desire realm,
+['ZH_T27_1545_015:0072a01_5']	若作欲界語。	若作欲界語。	if speaking in the language of the desire realm,
+['ZH_T27_1545_015:0072a01_10']	彼欲界身。	彼欲界身。	that desire realm body,
+['ZH_T27_1545_015:0072a01_14']	欲界語。	欲界語。	desire realm language,
+['ZH_T27_1545_015:0072a01_18']	欲界名。	欲界名。	desire realm name,
+['ZH_T27_1545_015:0072a02_9']	所說義或三界繫或不繫。	所說義或三界繫或不繫。	the meaning expressed may be bound to the three realms or unbound.
+['ZH_T27_1545_015:0072a02_16']	若作初靜慮語。	若作初靜慮語。	If speaking in the language of the first dhyāna,
+['ZH_T27_1545_015:0072a03_6']	彼欲界身初靜慮語。	彼欲界身初靜慮語。	that desire realm body, first dhyāna language,
+['ZH_T27_1545_015:0072a03_11']	初靜慮名。	初靜慮名。	first dhyāna name,
+['ZH_T27_1545_015:0072a03_18']	所說義如前說。	所說義如前說。	the meaning expressed is as explained above.
+['ZH_T27_1545_015:0072a04_5']	生初靜慮者。	生初靜慮者。	One born in the first dhyāna,
+['ZH_T27_1545_015:0072a04_17']	若作初靜慮語彼初靜慮身。	若作初靜慮語彼初靜慮身。	if speaking in the language of the first dhyāna, that first dhyāna body,
+['ZH_T27_1545_015:0072a05_4']	初靜慮語。	初靜慮語。	first dhyāna language,
+['ZH_T27_1545_015:0072a05_9']	初靜慮名。	初靜慮名。	first dhyāna name,
+['ZH_T27_1545_015:0072a05_16']	所說義如前說。	所說義如前說。	the meaning expressed is as explained above.
+['ZH_T27_1545_015:0072a06_8']	若作欲界語彼初靜慮身。	若作欲界語彼初靜慮身。	If speaking in the language of the desire realm, that first dhyāna body,
+['ZH_T27_1545_015:0072a06_15']	欲界語欲界名。	欲界語欲界名。	desire realm language, desire realm name,
+['ZH_T27_1545_015:0072a07_3']	所說義如前說。	所說義如前說。	The meaning of what is said is as explained above.
+['ZH_T27_1545_015:0072a07_14']	生第二第三第四靜慮者。	生第二第三第四靜慮者。	Those born in the second, third, and fourth meditative absorptions,
+['ZH_T27_1545_015:0072a08_2']	若作欲界語。	若作欲界語。	if they speak in the desire realm,
+['ZH_T27_1545_015:0072a08_13']	彼第二第三第四靜慮身。	彼第二第三第四靜慮身。	their bodies in the second, third, and fourth meditative absorptions,
+['ZH_T27_1545_015:0072a09_1']	欲界語欲界名。	欲界語欲界名。	the desire realm speech, and the desire realm name,
+['ZH_T27_1545_015:0072a09_8']	所說義如前說。	所說義如前說。	the meaning of what is said is as explained above.
+['ZH_T27_1545_015:0072a09_15']	若作初靜慮語。	若作初靜慮語。	If they speak in the first meditative absorption,
+['ZH_T27_1545_015:0072a10_7']	彼第二第三第四靜慮身。	彼第二第三第四靜慮身。	their bodies in the second, third, and fourth meditative absorptions,
+['ZH_T27_1545_015:0072a10_16']	初靜慮語初靜慮名。	初靜慮語初靜慮名。	the first meditative absorption speech, and the first meditative absorption name,
+['ZH_T27_1545_015:0072a11_5']	所說義如前說。	所說義如前說。	the meaning of what is said is as explained above.
+['ZH_T27_1545_015:0072a11_10']	問若爾者。	問若爾者。	Question: If that is so,
+['ZH_T27_1545_015:0072a12_1']	上三靜慮為有名不。	上三靜慮為有名不。	do the upper three meditative absorptions have names or not?
+['ZH_T27_1545_015:0072a12_4']	有說。	有說。	Some say:
+['ZH_T27_1545_015:0072a12_6']	無。	無。	No.🔽🔽
+['ZH_T27_1545_015:0072a12_9']	有說。	有說。	Some say:
+['ZH_T27_1545_015:0072a12_11']	有。	有。	Yes,
+['ZH_T27_1545_015:0072a12_16']	而不可說。	而不可說。	but they cannot be spoken.
+['ZH_T27_1545_015:0072a12_19']	評曰。	評曰。	The judges say:
+['ZH_T27_1545_015:0072a13_4']	彼不應作是說。	彼不應作是說。	They should not say this.
+['ZH_T27_1545_015:0072a13_12']	寧說無不應說有。	寧說無不應說有。	It is better to say they do not exist than to say they exist.
+['ZH_T27_1545_015:0072a14_4']	而不可說以無用故。	而不可說以無用故。	But cannot be spoken because they are useless.
+['ZH_T27_1545_015:0072a14_7']	有說。	有說。	Some say:
+['ZH_T27_1545_015:0072a14_16']	名隨補特伽羅地繫。	名隨補特伽羅地繫。	Names are bound to the realm of the individual.
+['ZH_T27_1545_015:0072a15_2']	彼作是說。	彼作是說。	They say:
+['ZH_T27_1545_015:0072a15_7']	生欲界者。	生欲界者。	Those born in the desire realm,
+['ZH_T27_1545_015:0072a15_13']	若作欲界語。	若作欲界語。	if they speak in the desire realm,
+['ZH_T27_1545_015:0072a16_5']	彼欲界身欲界語欲界名。	彼欲界身欲界語欲界名。	That desire realm body, desire realm speech, and desire realm name,
+['ZH_T27_1545_015:0072a16_12']	所說義如前說。	所說義如前說。	The meaning explained is as previously stated.
+['ZH_T27_1545_015:0072a17_1']	若作初靜慮語。	若作初靜慮語。	If one speaks in the first dhyāna,
+['ZH_T27_1545_015:0072a17_10']	彼欲界身初靜慮語。	彼欲界身初靜慮語。	That desire realm body, first dhyāna speech,
+['ZH_T27_1545_015:0072a17_14']	欲界名。	欲界名。	Desire realm name,
+['ZH_T27_1545_015:0072a18_2']	所說義如前說。	所說義如前說。	The meaning explained is as previously stated.
+['ZH_T27_1545_015:0072a18_8']	生初靜慮者。	生初靜慮者。	One born in the first dhyāna,
+['ZH_T27_1545_015:0072a18_15']	若作初靜慮語。	若作初靜慮語。	If one speaks in the first dhyāna,
+['ZH_T27_1545_015:0072a19_6']	彼初靜慮身初靜慮語。	彼初靜慮身初靜慮語。	That first dhyāna body, first dhyāna speech,
+['ZH_T27_1545_015:0072a19_11']	初靜慮名。	初靜慮名。	First dhyāna name,
+['ZH_T27_1545_015:0072a19_18']	所說義如前說。	所說義如前說。	The meaning explained is as previously stated.
+['ZH_T27_1545_015:0072a20_5']	若作欲界語。	若作欲界語。	If one speaks in the desire realm,
+['ZH_T27_1545_015:0072a20_18']	彼初靜慮身欲界語初靜慮名。	彼初靜慮身欲界語初靜慮名。	That first dhyāna body, desire realm speech, first dhyāna name,
+['ZH_T27_1545_015:0072a21_6']	所說義如前說。	所說義如前說。	The meaning explained is as previously stated.
+['ZH_T27_1545_015:0072a21_17']	生第二第三第四靜慮者。	生第二第三第四靜慮者。	One born in the second, third, and fourth dhyānas,
+['ZH_T27_1545_015:0072a22_5']	若作欲界語。	若作欲界語。	If one speaks in the desire realm,
+['ZH_T27_1545_015:0072a22_16']	彼第二第三第四靜慮身。	彼第二第三第四靜慮身。	That second, third, and fourth dhyāna body,
+['ZH_T27_1545_015:0072a23_2']	欲界語。	欲界語。	Desire realm speech,
+['ZH_T27_1545_015:0072a23_12']	第二第三第四靜慮名。	第二第三第四靜慮名。	Second, third, and fourth dhyāna name,
+['ZH_T27_1545_015:0072a24_1']	所說義如前說。	所說義如前說。	The meaning explained is as previously stated.
+['ZH_T27_1545_015:0072a24_8']	若作初靜慮語。	若作初靜慮語。	If one speaks in the first dhyāna,
+['ZH_T27_1545_015:0072a24_19']	彼第二第三第四靜慮身。	彼第二第三第四靜慮身。	That second, third, and fourth dhyāna body,
+['ZH_T27_1545_015:0072a25_4']	初靜慮語。	初靜慮語。	The language of the first meditation.
+['ZH_T27_1545_015:0072a25_14']	第二第三第四靜慮名。	第二第三第四靜慮名。	The second, third, and fourth meditations are called.
+['ZH_T27_1545_015:0072a26_3']	所說義如前說。	所說義如前說。	The meaning explained is as explained above.
+['ZH_T27_1545_015:0072a26_8']	問若爾者。	問若爾者。	Question: If that is so,
+['ZH_T27_1545_015:0072a26_16']	無色界為有名不。	無色界為有名不。	do the formless realms have names or not?
+['ZH_T27_1545_015:0072a26_19']	有說。	有說。	Some say
+['ZH_T27_1545_015:0072a27_1']	無。	無。	No.🔽🔽
+['ZH_T27_1545_015:0072a27_4']	有說。	有說。	Some say
+['ZH_T27_1545_015:0072a27_6']	有。	有。	yes.
+['ZH_T27_1545_015:0072a27_11']	而不可說。	而不可說。	But they cannot be said to exist.
+['ZH_T27_1545_015:0072a28_1']	評曰彼不應作是說。	評曰彼不應作是說。	The judges say that they should not say this.
+['ZH_T27_1545_015:0072a28_9']	寧說無不應說有。	寧說無不應說有。	It is better to say they do not exist than to say they do exist.
+['ZH_T27_1545_015:0072a29_1']	而不可說以無用故。	而不可說以無用故。	But cannot be said because they serve no purpose.
+['ZH_T27_1545_015:0072a29_5']	如說名。	如說名。	As with names,
+['ZH_T27_1545_015:0072a29_10', 'ZH_T27_1545_015:0072b01_8']	文句亦爾。🔽問名等為是有情數。	文句亦爾。 問名等為是有情數。	phrases are also like this.
+['ZH_T27_1545_015:0072b01_15']	為非有情數耶。	為非有情數耶。	Question: Are names, etc. sentient beings or not?
+['ZH_T27_1545_015:0072b02_3', 'ZH_T27_1545_015:0072b02_11']	答是有情數。🔽問名等為有執受。	答是有情數。 問名等為有執受。	Answer: They are sentient beings.
+['ZH_T27_1545_015:0072b02_17']	為無執受耶。	為無執受耶。	Question: Are names, etc. appropriated or not?
+['ZH_T27_1545_015:0072b03_3']	答無執受。	答無執受。	Answer: They are not appropriated.
+['ZH_T27_1545_015:0072b03_11']	問名等為是長養。	問名等為是長養。	Question: Are names, etc. nourished or not?
+['ZH_T27_1545_015:0072b03_16']	為是等流。	為是等流。	Are they the outflow of causes or not?
+['ZH_T27_1545_015:0072b04_4']	為是異熟生耶。	為是異熟生耶。	Are they born from karmic retribution or not?
+['ZH_T27_1545_015:0072b04_9']	答是等流。	答是等流。	Answer: They are the outflow of causes.
+['ZH_T27_1545_015:0072b04_17']	非長養非異熟生。	非長養非異熟生。	They are not nourished, nor are they born from karmic retribution.
+['ZH_T27_1545_015:0072b05_7']	問若名等非異熟生。	問若名等非異熟生。	Question: If names, etc. are not born from karmic retribution,
+['ZH_T27_1545_015:0072b05_13']	契經云何通。	契經云何通。	How can the sutra be understood?
+['ZH_T27_1545_015:0072b05_16']	如說。	如說。	As it is said:
+['ZH_T27_1545_015:0072b06_2']	佛告阿難。	佛告阿難。	The Buddha told Ananda:
+['ZH_T27_1545_015:0072b06_6']	我亦說。	我亦說。	I also say:
+['ZH_T27_1545_015:0072b06_14']	名從業生是業果。	名從業生是業果。	Name arises from karma, and karma is its result.
+['ZH_T27_1545_015:0072b07_8']	答名亦是業增上果故作如是說。	答名亦是業增上果故作如是說。	The answer is: Name is also the dominant result of karma, so it is said.
+['ZH_T27_1545_015:0072b07_17']	謂作好業亦得好名。	謂作好業亦得好名。	That is to say, one who does good karma also obtains a good reputation.
+['ZH_T27_1545_015:0072b08_4', 'ZH_T27_1545_015:0072b08_10', 'ZH_T27_1545_015:0072b08_14']	然非異熟。🔽問名等為善。🔽為不善。	然非異熟。 問名等為善。 為不善。	However, it is not a ripening result.
+['ZH_T27_1545_015:0072b09_1']	為無記耶。	為無記耶。	Question: Are name and so forth wholesome, unwholesome, or indeterminate?
+['ZH_T27_1545_015:0072b09_5']	答無記。	答無記。	Answer: They are indeterminate.
+['ZH_T27_1545_015:0072b09_11']	非造業者故。	非造業者故。	Because they are not created by the doer.
+['ZH_T27_1545_015:0072b09_15']	思起故。	思起故。	Because they arise from intention.
+['ZH_T27_1545_015:0072b10_1']	如四大種。	如四大種。	Like the four great elements.
+['ZH_T27_1545_015:0072b11_6']	問誰成就名等。	問誰成就名等。	Question: Who possesses name and so forth?
+['ZH_T27_1545_015:0072b11_15']	為能說者為所說耶。	為能說者為所說耶。	Is it the speaker or the one spoken to?
+['ZH_T27_1545_015:0072b12_2']	設爾何失。	設爾何失。	If so, what is the error?
+['ZH_T27_1545_015:0072b12_11']	若能說者則阿羅漢。	若能說者則阿羅漢。	If it is the speaker, then arhats
+['ZH_T27_1545_015:0072b12_18']	應成就染污法。	應成就染污法。	should possess defiled dharmas.
+['ZH_T27_1545_015:0072b13_10']	離欲染者應成就不善法。	離欲染者應成就不善法。	Those who have separated from the defilements of desire should possess unwholesome dharmas.
+['ZH_T27_1545_015:0072b14_1']	異生應成就聖法。	異生應成就聖法。	Ordinary beings should possess holy dharmas.
+['ZH_T27_1545_015:0072b14_11']	斷善根者應成就善法。	斷善根者應成就善法。	Those who have severed wholesome roots should possess wholesome dharmas.
+['ZH_T27_1545_015:0072b15_6']	以阿羅漢等亦說染污等法故。	以阿羅漢等亦說染污等法故。	Because arhats and others also speak of defiled dharmas and so forth.
+['ZH_T27_1545_015:0072b15_11']	若所說者。	若所說者。	If it is the one spoken to,
+['ZH_T27_1545_015:0072b16_5']	則外事及無為亦應成就名等。	則外事及無為亦應成就名等。	Then external things and unconditioned dharmas should also be accomplished and named,
+['ZH_T27_1545_015:0072b16_14']	以彼亦是所說法故。	以彼亦是所說法故。	because they are also the dharmas that are spoken.
+['ZH_T27_1545_015:0072b17_6']	答唯能說者成就名等。	答唯能說者成就名等。	The answer is: Only the speaker accomplishes names and so forth.
+['ZH_T27_1545_015:0072b17_14']	問若爾後難善通。	問若爾後難善通。	If that is so, then the later difficulty is well resolved.
+['ZH_T27_1545_015:0072b18_1']	前難云何通。	前難云何通。	How is the earlier difficulty resolved?
+['ZH_T27_1545_015:0072b18_14']	答阿羅漢等雖成就染污等名。	答阿羅漢等雖成就染污等名。	The answer is: Although arhats and so forth accomplish defiled and so forth names,
+['ZH_T27_1545_015:0072b19_5']	而不成就染污等法。	而不成就染污等法。	they do not accomplish defiled and so forth dharmas.
+['ZH_T27_1545_015:0072b20_1']	以染污等名皆是無覆無記法故。	以染污等名皆是無覆無記法故。	Because defiled and so forth names are all undefiled and indeterminate dharmas.
+['ZH_T27_1545_015:0072b21_9']	問一剎那心能起一語。	問一剎那心能起一語。	The question is: Can one moment of mind give rise to one utterance?
+['ZH_T27_1545_015:0072b22_1']	一剎那語能說一字耶。	一剎那語能說一字耶。	Can one moment of utterance speak one syllable?
+['ZH_T27_1545_015:0072b22_12']	答佛一剎那心能起一語。	答佛一剎那心能起一語。	The answer is: One moment of the Buddha's mind can give rise to one utterance.
+['ZH_T27_1545_015:0072b23_1']	一剎那語能說一字。	一剎那語能說一字。	One moment of utterance can speak one syllable.
+['ZH_T27_1545_015:0072b23_14']	聲聞獨覺一剎那心能起一語。	聲聞獨覺一剎那心能起一語。	One moment of the śrāvaka and pratyekabuddha's mind can give rise to one utterance.
+['ZH_T27_1545_015:0072b24_5']	一剎那語不能說一字。	一剎那語不能說一字。	One moment of utterance cannot speak one syllable.
+['ZH_T27_1545_015:0072b24_16']	彼說𧙃時必經多剎那故。	彼說𧙃時必經多剎那故。	Because they say that when speaking, it must pass through many moments.
+['ZH_T27_1545_015:0072b25_3']	由此唯佛。	由此唯佛。	For this reason, only the Buddha
+['ZH_T27_1545_015:0072b25_16']	其言捷利聲韻無過詞辯第一。	其言捷利聲韻無過詞辯第一。	has the most eloquent speech, with no faults in sound or rhythm, and is foremost in verbal eloquence.
+['ZH_T27_1545_015:0072b26_11']	問三世諸法一一各有三世名耶。	問三世諸法一一各有三世名耶。	Question: Do the dharmas of the three times each have the names of the three times?
+['ZH_T27_1545_015:0072b26_14']	答有。	答有。	Answer: Yes.
+['ZH_T27_1545_015:0072b27_5']	過去諸法有過去名者。	過去諸法有過去名者。	The past dharmas have the name of the past.
+['ZH_T27_1545_015:0072b27_10']	如過去佛。	如過去佛。	Like the past buddhas.
+['ZH_T27_1545_015:0072b27_15', 'ZH_T27_1545_015:0072b28_6']	以如是名。🔽說過去法過去諸法。	以如是名。 說過去法過去諸法。	Using such names,🔽the past dharmas of the past are explained.
+['ZH_T27_1545_015:0072b28_12']	有未來名者。	有未來名者。	The past dharmas have the name of the future.
+['ZH_T27_1545_015:0072b28_17']	如未來佛。	如未來佛。	Like the future buddhas.
+['ZH_T27_1545_015:0072b29_3', 'ZH_T27_1545_015:0072b29_12']	以如是名。🔽說過去法過去諸法。	以如是名。 說過去法過去諸法。	Using such names,🔽the past dharmas of the past are explained.
+['ZH_T27_1545_015:0072b29_18']	有現在名者。	有現在名者。	The past dharmas have the name of the present.
+['ZH_T27_1545_015:0072c01_4']	如現在佛。	如現在佛。	Like the present buddhas.
+['ZH_T27_1545_015:0072c01_9', 'ZH_T27_1545_015:0072c02_1']	以如是名。🔽說過去法未來現在法。	以如是名。 說過去法未來現在法。	Using such names,
+['ZH_T27_1545_015:0072c02_15']	廣說亦爾問一切名皆能顯義耶。	廣說亦爾問一切名皆能顯義耶。	the past dharmas of the past and the present are explained. The extensive explanation is also like this. Question: Can all names manifest meaning?
+['ZH_T27_1545_015:0072c03_5']	答一切名皆能顯義。	答一切名皆能顯義。	Answer: All names can manifest meaning.
+['ZH_T27_1545_015:0072c03_14']	問若以此名顯斷常。	問若以此名顯斷常。	Question: If using this name to manifest annihilationism and eternalism,
+['ZH_T27_1545_015:0072c04_6']	第二頭第三手第六蘊。	第二頭第三手第六蘊。	the second head, the third hand, the sixth aggregate,
+['ZH_T27_1545_015:0072c04_16']	第十三處第十九界等。	第十三處第十九界等。	the thirteenth sense base, the nineteenth element, etc.,
+['ZH_T27_1545_015:0072c05_5']	此名何所顯耶。	此名何所顯耶。	what does this name manifest?
+['ZH_T27_1545_015:0072c05_15']	答此名即顯斷常等想。	答此名即顯斷常等想。	Answer: This name manifests the conception of annihilationism and eternalism, etc.
+['ZH_T27_1545_015:0072c06_8']	問若以此名顯諸法無我。	問若以此名顯諸法無我。	Question: If using this name to manifest the non-self of all dharmas,
+['ZH_T27_1545_015:0072c06_16']	此名何所不顯耶。	此名何所不顯耶。	What is not revealed by this name?
+['ZH_T27_1545_015:0072c07_2']	有說。	有說。	Some say:
+['ZH_T27_1545_015:0072c07_11']	除其自性及俱有法。	除其自性及俱有法。	Except for its own nature and co-existent dharmas,
+['ZH_T27_1545_015:0072c07_16']	餘悉能顯。	餘悉能顯。	The rest can all be revealed.
+['ZH_T27_1545_015:0072c08_1']	有說。	有說。	Some say:
+['ZH_T27_1545_015:0072c08_10']	唯除自性餘悉能顯。	唯除自性餘悉能顯。	Only except for its own nature, the rest can all be revealed.
+['ZH_T27_1545_015:0072c08_13']	有說。	有說。	Some say:
+['ZH_T27_1545_015:0072c09_6']	唯除四字餘悉能顯有說。	唯除四字餘悉能顯有說。	Only except for the four characters, the rest can all be revealed. Some say:
+['ZH_T27_1545_015:0072c09_11', 'ZH_T27_1545_015:0072c10_2']	一切悉顯。🔽謂於此中薩能顯婆。	一切悉顯。 謂於此中薩能顯婆。	All can be revealed.🔽That is to say, here, sa can reveal va,
+['ZH_T27_1545_015:0072c10_7', 'ZH_T27_1545_015:0072c10_12']	婆能顯薩。🔽達能顯磨。	婆能顯薩。 達能顯磨。	Va can reveal sa,🔽Da can reveal ma,
+['ZH_T27_1545_015:0072c10_17']	磨能顯達。	磨能顯達。	Ma can reveal da.
+['ZH_T27_1545_015:0072c11_2']	是故此中。	是故此中。	Therefore,
+['ZH_T27_1545_015:0072c11_15']	雖顯一切而無自性顯自性失。	雖顯一切而無自性顯自性失。	Although all can be revealed here, there is no fault of the nature revealing its own nature.
+['ZH_T27_1545_015:0072c12_7']	問名之與義何者多耶。	問名之與義何者多耶。	Question: Which is more numerous, names or meanings?
+['ZH_T27_1545_015:0072c12_13']	答義多名少。	答義多名少。	Answer: Meanings are more numerous, names are fewer.
+['ZH_T27_1545_015:0072c12_18']	所以者何。	所以者何。	Why is it so?
+['ZH_T27_1545_015:0072c14_4']	義攝十七界一界少分十一處一處少分四蘊一蘊少分。	義攝十七界一界少分十一處一處少分四蘊一蘊少分。	Because meanings include seventeen elements, a small part of one element, eleven sense bases, a small part of one sense base, four aggregates, and a small part of one aggregate.
+['ZH_T27_1545_015:0072c14_15']	名攝一界一處一蘊少分。	名攝一界一處一蘊少分。	Names include a small part of one element, one sense base, and one aggregate.
+['ZH_T27_1545_015:0072c14_18']	有說。	有說。	Some say:
+['ZH_T27_1545_015:0072c15_4']	名多義少。	名多義少。	Names are more numerous, meanings are fewer.
+['ZH_T27_1545_015:0072c15_9']	所以者何。	所以者何。	Why is it so?
+['ZH_T27_1545_015:0072c15_18']	以一一義有多名故。	以一一義有多名故。	Because each meaning has many names.
+['ZH_T27_1545_015:0072c16_8']	如古所制尼健荼書。	如古所制尼健荼書。	Like the ancient Ni Jian Te script.
+['ZH_T27_1545_015:0072c16_15']	一一義有千名。	一一義有千名。	Each meaning has a thousand names.
+['ZH_T27_1545_015:0072c17_2']	次後略之。	次後略之。	Later it was abbreviated.
+['ZH_T27_1545_015:0072c17_11']	於一一義唯留百名。	於一一義唯留百名。	For each meaning, only a hundred names were retained.
+['ZH_T27_1545_015:0072c18_2']	今一一義唯留十名。	今一一義唯留十名。	Now, for each meaning, only ten names are retained.
+['ZH_T27_1545_015:0072c18_15']	又說法者以無量名說一義故。	又說法者以無量名說一義故。	Moreover, the expounder of the Dharma uses innumerable names to explain a single meaning.
+['ZH_T27_1545_015:0072c19_6']	如是說者義多名少。	如是說者義多名少。	In this way, the meaning is abundant while the names are few.
+['ZH_T27_1545_015:0072c19_11']	所以者何。	所以者何。	Why is this?
+['ZH_T27_1545_015:0072c19_16']	名亦義故。	名亦義故。	Because names are also meanings.
+['ZH_T27_1545_015:0072c20_5']	設名非義義猶為多。	設名非義義猶為多。	Even if names are not meanings, meanings are still abundant.
+['ZH_T27_1545_015:0072c20_15']	以攝十七界一界少分。	以攝十七界一界少分。	It includes seventeen elements and a small part of one element.
+['ZH_T27_1545_015:0072c21_2']	乃至廣說。	乃至廣說。	And so on, it explains in detail.
+['ZH_T27_1545_015:0072c21_8']	況名亦是義。	況名亦是義。	How much more so if names are also meanings!
+['ZH_T27_1545_015:0072c21_15']	是餘名所顯故。	是餘名所顯故。	This is because they are manifested by other names.
+['ZH_T27_1545_015:0072c22_9']	是則義攝十八界十二處五蘊。	是則義攝十八界十二處五蘊。	This then includes eighteen elements, twelve sense bases, and five aggregates.
+['ZH_T27_1545_015:0072c23_3']	名但攝一界一處一蘊少分。	名但攝一界一處一蘊少分。	Names only include a small part of one element, one sense base, and one aggregate.
+['ZH_T27_1545_015:0072c23_11']	問若名亦是義者。	問若名亦是義者。	Question: If names are also meanings,
+['ZH_T27_1545_015:0072c23_18']	名義有何差別。	名義有何差別。	what is the difference between names and meanings?
+['ZH_T27_1545_015:0072c24_9']	答能顯是名所顯是義。	答能顯是名所顯是義。	Answer: That which can manifest is a name, that which is manifested is a meaning.
+['ZH_T27_1545_015:0072c24_16']	復次名是非色。	復次名是非色。	Furthermore, names are non-form.
+['ZH_T27_1545_015:0072c25_4']	義通色非色。	義通色非色。	Meanings are both form and non-form.
+['ZH_T27_1545_015:0072c25_9']	名唯無見。	名唯無見。	Names are only invisible.
+['ZH_T27_1545_015:0072c25_16']	義通有見無見。	義通有見無見。	The meaning is common to both visible and invisible [dharmas].
+['ZH_T27_1545_015:0072c26_2']	名唯無對。	名唯無對。	The name is only unobstructing.
+['ZH_T27_1545_015:0072c26_9']	義通有對無對。	義通有對無對。	The meaning is common to both obstructing and unobstructing [dharmas].
+['ZH_T27_1545_015:0072c26_14']	名唯有漏。	名唯有漏。	The name is only contaminated.
+['ZH_T27_1545_015:0072c27_2']	義通有漏無漏。	義通有漏無漏。	The meaning is common to both contaminated and uncontaminated [dharmas].
+['ZH_T27_1545_015:0072c27_7']	名唯有為。	名唯有為。	The name is only conditioned.
+['ZH_T27_1545_015:0072c27_14']	義通有為無為。	義通有為無為。	The meaning is common to both conditioned and unconditioned [dharmas].
+['ZH_T27_1545_015:0072c28_2']	復次名唯無記。	復次名唯無記。	Furthermore, the name is only indeterminate.
+['ZH_T27_1545_015:0072c28_10']	義通善不善無記。	義通善不善無記。	The meaning is common to both wholesome, unwholesome, and indeterminate [dharmas].
+['ZH_T27_1545_015:0072c28_16']	名唯墮三世。	名唯墮三世。	The name is only included in the three times.
+['ZH_T27_1545_015:0072c29_7']	義通墮三世及離世。	義通墮三世及離世。	The meaning is common to both that which is included in the three times and that which is apart from the times.
+['ZH_T27_1545_015:0072c29_14']	名唯欲色界繫。	名唯欲色界繫。	The name is only bound to the desire and form realms.
+['ZH_T27_1545_015:0073a01_5']	義通三界繫及不繫。	義通三界繫及不繫。	The meaning is common to that which is bound to the three realms and that which is unbound.
+['ZH_T27_1545_015:0073a01_13']	名唯非學非無學。	名唯非學非無學。	The name is only neither training nor post-training.
+['ZH_T27_1545_015:0073a02_6']	義通學無學非學非無學。	義通學無學非學非無學。	The meaning is common to training, post-training, and neither training nor post-training [dharmas].
+['ZH_T27_1545_015:0073a02_12']	名唯修所斷。	名唯修所斷。	The name is only eliminated through cultivation.
+['ZH_T27_1545_015:0073a03_3']	義通見修所斷及不斷。	義通見修所斷及不斷。	The meaning is common to that which is eliminated through seeing, cultivation, and that which is not eliminated [by either].
+['ZH_T27_1545_015:0073a03_11']	復次名唯不染污。	復次名唯不染污。	Furthermore, the name is only undefiled.
+['ZH_T27_1545_015:0073a03_19']	義通染污不染污。	義通染污不染污。	The meaning is common to both defiled and undefiled [dharmas].
+['ZH_T27_1545_015:0073a04_6']	如染污不染污。	如染污不染污。	As with defiled and undefiled,
+['ZH_T27_1545_015:0073a04_11']	有罪無罪。	有罪無罪。	there are those with offenses and those without offenses,
+['ZH_T27_1545_015:0073a05_1']	有覆無覆是退非退。	有覆無覆是退非退。	those with hindrances and those without hindrances, those in decline and those not in decline,
+['ZH_T27_1545_015:0073a05_8']	黑法白法亦爾。	黑法白法亦爾。	and it is the same with black dharmas and white dharmas.
+['ZH_T27_1545_015:0073a05_15']	復次名無異熟。	復次名無異熟。	Furthermore, the name has no ripening.
+['ZH_T27_1545_015:0073a06_5']	義通有異熟無異熟。	義通有異熟無異熟。	The meaning is both with and without retribution.
+['ZH_T27_1545_015:0073a06_10']	名非異熟。	名非異熟。	The name is not retribution.
+['ZH_T27_1545_015:0073a06_18']	義通異熟非異熟。	義通異熟非異熟。	The meaning is both retribution and non-retribution.
+['ZH_T27_1545_015:0073a07_4']	名不相應。	名不相應。	The name is not associated.
+['ZH_T27_1545_015:0073a07_12']	義通相應不相應。	義通相應不相應。	The meaning is both associated and not associated.
+['ZH_T27_1545_015:0073a08_1', 'ZH_T27_1545_015:0073a08_8', 'ZH_T27_1545_015:0073a08_15']	如相應不相應。🔽有所依無所依。🔽有所緣無所緣。	如相應不相應。 有所依無所依。 有所緣無所緣。	Like being associated and not associated,🔽having a basis and not having a basis,🔽having an object and not having an object,
+['ZH_T27_1545_015:0073a09_2']	有行相無行相。	有行相無行相。	having aspects and not having aspects,
+['ZH_T27_1545_015:0073a09_11']	有警覺無警覺亦爾。	有警覺無警覺亦爾。	having awareness and not having awareness are also like this.
+['ZH_T27_1545_015:0073a10_1']	復次名唯苦集諦攝。	復次名唯苦集諦攝。	Furthermore, the name is only included in the truths of suffering and accumulation.
+['ZH_T27_1545_015:0073a10_10']	義通四諦及非諦攝。	義通四諦及非諦攝。	The meaning is included in the four truths and also not included in the truths.
+['ZH_T27_1545_015:0073a10_15']	由如是等。	由如是等。	Because of this,
+['ZH_T27_1545_015:0073a11_1']	名義差別。	名義差別。	the distinction between name and meaning.
+['ZH_T27_1545_015:0073a11_7']	問義為可說。	問義為可說。	Question: Is the meaning expressible?
+['ZH_T27_1545_015:0073a11_13']	為不可說耶。	為不可說耶。	Is it inexpressible?
+['ZH_T27_1545_015:0073a11_18']	設爾何失。	設爾何失。	If so, what is the error?
+['ZH_T27_1545_015:0073a12_3', 'ZH_T27_1545_015:0073a12_9']	若可說者。🔽說火應燒舌。	若可說者。 說火應燒舌。	If it can be expressed,🔽speaking of fire should burn the tongue.
+['ZH_T27_1545_015:0073a12_15']	說刀應割舌。	說刀應割舌。	Speaking of a knife should cut the tongue.
+['ZH_T27_1545_015:0073a13_4', 'ZH_T27_1545_015:0073a13_10']	說不淨應污舌。🔽說飲應除渴。	說不淨應污舌。 說飲應除渴。	Speaking of impurity should defile the tongue.🔽Speaking of drinking should quench thirst.
+['ZH_T27_1545_015:0073a13_16']	說食應除飢。	說食應除飢。	Speaking of food should relieve hunger.
+['ZH_T27_1545_015:0073a14_3']	如是等。	如是等。	This is the case.
+['ZH_T27_1545_015:0073a14_9']	若不可說者。	若不可說者。	If it cannot be expressed,
+['ZH_T27_1545_015:0073a14_18']	云何所索不顛倒耶。	云何所索不顛倒耶。	how can what is sought be non-erroneous?
+['ZH_T27_1545_015:0073a15_6']	如索象應得馬。	如索象應得馬。	It is like asking for an elephant and getting a horse.
+['ZH_T27_1545_015:0073a15_12']	索馬應得象。	索馬應得象。	It is like asking for a horse and getting an elephant.
+['ZH_T27_1545_015:0073a15_16']	如是等。	如是等。	This is the kind of thing.
+['ZH_T27_1545_015:0073a16_7']	契經所說復云何通。	契經所說復云何通。	How can we understand what is said in the sutras?
+['ZH_T27_1545_015:0073a16_10']	如說。	如說。	It is said:
+['ZH_T27_1545_015:0073a17_1']	我所說法初中後善。	我所說法初中後善。	The Dharma I teach is good in the beginning, good in the middle, and good in the end.
+['ZH_T27_1545_015:0073a17_6']	文義巧妙。	文義巧妙。	The words and meaning are skillfully expressed.
+['ZH_T27_1545_015:0073a17_12']	答義不可說。	答義不可說。	The answer is that the meaning cannot be spoken.
+['ZH_T27_1545_015:0073a18_1']	問若爾前難善通。	問若爾前難善通。	Question: If so, the previous objection is well answered.
+['ZH_T27_1545_015:0073a18_10']	云何所索不顛倒耶。	云何所索不顛倒耶。	How is it that what is asked for is not inverted?
+['ZH_T27_1545_015:0073a18_16']	答劫初時人。	答劫初時人。	Answer: The people at the beginning of the eon,
+['ZH_T27_1545_015:0073a19_5']	共於象等假立名想。	共於象等假立名想。	collectively gave names and concepts to elephants and so forth.
+['ZH_T27_1545_015:0073a19_10']	展轉傳來。	展轉傳來。	They passed it down to each other.
+['ZH_T27_1545_015:0073a20_1']	故令所索而不顛倒。	故令所索而不顛倒。	Therefore, what is asked for is not inverted.
+['ZH_T27_1545_015:0073a20_4']	有說。	有說。	Some say:
+['ZH_T27_1545_015:0073a20_13']	語能起名名能顯義。	語能起名名能顯義。	Language can give rise to names and names can manifest meaning.
+['ZH_T27_1545_015:0073a21_8']	語雖不能親說得義而依展轉。	語雖不能親說得義而依展轉。	Although language cannot directly speak of meaning, it relies on a gradual process.
+['ZH_T27_1545_015:0073a22_4']	如子孫法故於象等所索無倒。	如子孫法故於象等所索無倒。	Like the method of descendants and grandchildren, therefore, what is asked for regarding elephants and so forth is not inverted.
+['ZH_T27_1545_015:0073a22_14']	問契經所說復云何通。	問契經所說復云何通。	Question: How can we understand what is said in the sutras?
+['ZH_T27_1545_015:0073a22_17']	如說。	如說。	It is said:
+['ZH_T27_1545_015:0073a23_7']	我所說法初中後善。	我所說法初中後善。	The Dharma I teach is good in the beginning, good in the middle, and good in the end.
+['ZH_T27_1545_015:0073a23_12']	文義巧妙。	文義巧妙。	The words and meaning are skillfully expressed.
+['ZH_T27_1545_015:0073a24_3']	尊者世友作是釋言。	尊者世友作是釋言。	The Venerable Vasumitra gave this explanation:
+['ZH_T27_1545_015:0073a24_12']	語能起文文能顯義。	語能起文文能顯義。	Language can give rise to texts, and texts can reveal the meaning.
+['ZH_T27_1545_015:0073a24_17']	故作是說。	故作是說。	Therefore, this is said.
+['ZH_T27_1545_015:0073a25_3']	復作是言。	復作是言。	Again, it is said:
+['ZH_T27_1545_015:0073a25_12']	為異外道故作是說。	為異外道故作是說。	In order to be different from non-Buddhists, this is said.
+['ZH_T27_1545_015:0073a26_2']	謂諸外道所說法。	謂諸外道所說法。	That is to say, the teachings spoken by non-Buddhists
+['ZH_T27_1545_015:0073a26_9']	或少義或無義。	或少義或無義。	have little meaning or no meaning.
+['ZH_T27_1545_015:0073a26_18']	世尊所說有義多義。	世尊所說有義多義。	The teachings spoken by the World-Honored One have much meaning.
+['ZH_T27_1545_015:0073a27_3']	是故說言。	是故說言。	Therefore, it is said:
+['ZH_T27_1545_015:0073a27_12']	我所說法文義巧妙。	我所說法文義巧妙。	The texts and meanings of my teachings are skillfully profound.
+['ZH_T27_1545_015:0073a27_17']	復作是說。	復作是說。	Again, it is said:
+['ZH_T27_1545_015:0073a28_7']	外道所說文義相違。	外道所說文義相違。	The texts and meanings spoken by non-Buddhists are contradictory.
+['ZH_T27_1545_015:0073a28_16']	世尊所說文義相順。	世尊所說文義相順。	The texts and meanings spoken by the World-Honored One are in accord.
+['ZH_T27_1545_015:0073a29_7']	欲顯異彼故作是說。	欲顯異彼故作是說。	In order to show the difference from them, this is said.
+['ZH_T27_1545_015:0073b01_13']	問名句文身是不相應行蘊所攝。	問名句文身是不相應行蘊所攝。	Question: The aggregates of names, phrases, and syllables are included in the aggregate of formations that are not associated with the mind.
+['ZH_T27_1545_015:0073b02_4']	何故佛說四蘊名名。	何故佛說四蘊名名。	Why did the Buddha say that the four aggregates are called names?
+['ZH_T27_1545_015:0073b02_14']	答佛於有為總立二分。	答佛於有為總立二分。	Answer: The Buddha generally established two parts for conditioned phenomena:
+['ZH_T27_1545_015:0073b03_1']	謂色非色。	謂色非色。	Namely, form and non-form.
+['ZH_T27_1545_015:0073b03_6']	色是色蘊。	色是色蘊。	Form is the aggregate of form.
+['ZH_T27_1545_015:0073b03_15']	非色即是受等四蘊。	非色即是受等四蘊。	Non-form is precisely the four aggregates such as feeling, etc.
+['ZH_T27_1545_015:0073b03_20']	非色聚中。	非色聚中。	Within the aggregate of non-form,
+['ZH_T27_1545_015:0073b04_8']	有能顯了一切法名。	有能顯了一切法名。	There is no name that can reveal all dharmas.
+['ZH_T27_1545_015:0073b04_17']	故非色聚總說為名。	故非色聚總說為名。	Therefore, the aggregate of non-form is not generally called names.
+['ZH_T27_1545_015:0073b05_2']	有說。	有說。	Some say:
+['ZH_T27_1545_015:0073b05_11']	色法麁顯即說為色。	色法麁顯即說為色。	Form dharmas are coarse and obvious, so they are called form.
+['ZH_T27_1545_015:0073b05_16']	非色微隱。	非色微隱。	Non-form is subtle and hidden.
+['ZH_T27_1545_015:0073b06_6']	由名顯故說之為名。	由名顯故說之為名。	Because it is manifested by names, it is called name.
+['ZH_T27_1545_015:0073b07_1']	然實名等唯不相應行蘊所攝。	然實名等唯不相應行蘊所攝。	However, in reality, name and so forth are only included in the aggregate of mental activities that are not associated with mind.
+['ZH_T27_1545_015:0073b07_6']	名有六種。	名有六種。	There are six kinds of names.
+['ZH_T27_1545_015:0073b07_11']	一功德名。	一功德名。	First, names of merits.
+['ZH_T27_1545_015:0073b07_16']	二生類名。	二生類名。	Second, names of birth classes.
+['ZH_T27_1545_015:0073b08_1']	三時分名。	三時分名。	Third, names of time periods.
+['ZH_T27_1545_015:0073b08_6']	四隨欲名。	四隨欲名。	Fourth, names according to desire.
+['ZH_T27_1545_015:0073b08_11']	五業生名。	五業生名。	Fifth, names born from karma.
+['ZH_T27_1545_015:0073b08_16']	六摽相名。	六摽相名。	Sixth, names that indicate characteristics.
+['ZH_T27_1545_015:0073b09_7']	功德名者謂依功德立名。	功德名者謂依功德立名。	Names of merits refer to names established based on merits.
+['ZH_T27_1545_015:0073b09_10']	如解。	如解。	Such as understanding.
+['ZH_T27_1545_015:0073b10_3']	或誦素怛纜者名為經師。	或誦素怛纜者名為經師。	Or one who recites the sūtras is called a sūtra master.
+['ZH_T27_1545_015:0073b10_16']	若解或誦毘奈耶者名為律師。	若解或誦毘奈耶者名為律師。	If one understands or recites the Vinaya, one is called a vinaya master.
+['ZH_T27_1545_015:0073b11_1']	若解。	若解。	If one understands.
+['ZH_T27_1545_015:0073b11_13']	或誦阿毘達磨者名為論師。	或誦阿毘達磨者名為論師。	Or recites the Abhidharma, one is called a śāstra master.
+['ZH_T27_1545_015:0073b12_4']	得預流果名為預流。	得預流果名為預流。	Attaining the fruit of stream-entry is called stream-enterer.
+['ZH_T27_1545_015:0073b12_16']	乃至得阿羅漢果名阿羅漢。	乃至得阿羅漢果名阿羅漢。	Up to attaining the fruit of arhatship is called arhat.
+['ZH_T27_1545_015:0073b13_2', 'ZH_T27_1545_015:0073b13_7']	如是等。🔽生類名者。	如是等。 生類名者。	Like this and so forth.
+['ZH_T27_1545_015:0073b13_14']	謂依生類立名。	謂依生類立名。	Names of birth classes refer to names established based on the class of birth.
+['ZH_T27_1545_015:0073b14_5']	如城市生者名城市人。	如城市生者名城市人。	Such as one born in a city is called a city person.
+['ZH_T27_1545_015:0073b14_14']	村野生者名村野人。	村野生者名村野人。	Those born in villages and in the wild are called villagers and wild people.
+['ZH_T27_1545_015:0073b15_7']	剎帝利種中生者名剎帝利。	剎帝利種中生者名剎帝利。	Those born in the kṣatriya caste are called kṣatriyas.
+['ZH_T27_1545_015:0073b15_17']	乃至戍達羅種中生者。	乃至戍達羅種中生者。	Up to those born in the śūdra caste
+['ZH_T27_1545_015:0073b16_3']	名戍達羅。	名戍達羅。	are called śūdras.
+['ZH_T27_1545_015:0073b16_7', 'ZH_T27_1545_015:0073b16_12']	如是等。🔽時分名者。	如是等。 時分名者。	This is how it is.🔽Names based on time periods
+['ZH_T27_1545_015:0073b16_19']	謂依時分立名。	謂依時分立名。	are those given based on time periods.
+['ZH_T27_1545_015:0073b17_8']	如童稚時名為童子。	如童稚時名為童子。	For example, during childhood, one is called a child.
+['ZH_T27_1545_015:0073b18_1']	乃至衰老時名為老人。	乃至衰老時名為老人。	Up to old age, one is called an elder.
+['ZH_T27_1545_015:0073b18_5', 'ZH_T27_1545_015:0073b18_10']	如是等。🔽隨欲名者。	如是等。 隨欲名者。	This is how it is.🔽Names based on desire
+['ZH_T27_1545_015:0073b18_17']	謂隨樂欲立名。	謂隨樂欲立名。	are those given according to one's wishes.
+['ZH_T27_1545_015:0073b19_3']	如初生時。	如初生時。	For example, at birth,
+['ZH_T27_1545_015:0073b19_8']	或父母等。	或父母等。	either one's parents or others,
+['ZH_T27_1545_015:0073b19_13']	或沙門等。	或沙門等。	or śramaṇas and so forth,
+['ZH_T27_1545_015:0073b19_18']	為其立名。	為其立名。	give one a name.
+['ZH_T27_1545_015:0073b20_2', 'ZH_T27_1545_015:0073b20_7']	如是等。🔽業生名者。	如是等。 業生名者。	This is how it is.🔽Names based on karma
+['ZH_T27_1545_015:0073b20_14']	謂依作業立名。	謂依作業立名。	are those given based on one's occupation.
+['ZH_T27_1545_015:0073b21_4']	如善畫者名為畫師。	如善畫者名為畫師。	For example, a skilled painter is called a painter.
+['ZH_T27_1545_015:0073b21_13']	鍛金鐵者名金鐵師。	鍛金鐵者名金鐵師。	One who forges gold and iron is called a goldsmith or ironsmith.
+['ZH_T27_1545_015:0073b21_17', 'ZH_T27_1545_015:0073b22_4']	如是等。🔽摽相名者。	如是等。 摽相名者。	This is how it is.🔽Names based on characteristics
+['ZH_T27_1545_015:0073b22_11', 'ZH_T27_1545_015:0073b23_3']	謂依摽相立名。🔽如執杖者名執杖人。	謂依摽相立名。 如執杖者名執杖人。	are those given based on characteristics.🔽For example, one who carries a staff is called a staff-bearer.
+['ZH_T27_1545_015:0073b23_11']	執蓋者名執蓋人。	執蓋者名執蓋人。	One who carries an umbrella is called an umbrella-bearer.
+['ZH_T27_1545_015:0073b23_15']	如是等。	如是等。	and so on.
+['ZH_T27_1545_015:0073b24_3']	復次名有四種。	復次名有四種。	Next, there are four kinds of names.
+['ZH_T27_1545_015:0073b24_8']	一假想名。	一假想名。	First, hypothetical names.
+['ZH_T27_1545_015:0073b24_13']	二隨用名。	二隨用名。	Second, names according to function.
+['ZH_T27_1545_015:0073b24_18']	三彼益名。	三彼益名。	Third, names of benefit.
+['ZH_T27_1545_015:0073b25_2']	四從略名。	四從略名。	Fourth, names from abbreviation.
+['ZH_T27_1545_015:0073b25_7']	假想名者。	假想名者。	Hypothetical names are
+['ZH_T27_1545_015:0073b25_16']	如貧賤者名為富貴。	如貧賤者名為富貴。	like calling a poor person noble.
+['ZH_T27_1545_015:0073b26_1']	如是等。	如是等。	This and so on.
+['ZH_T27_1545_015:0073b26_6']	隨用名者。	隨用名者。	Names according to function are
+['ZH_T27_1545_015:0073b26_15']	如腹行者名腹行蟲。	如腹行者名腹行蟲。	like calling a belly-crawling worm a belly-walker.
+['ZH_T27_1545_015:0073b26_19']	如是等。	如是等。	This and so on.
+['ZH_T27_1545_015:0073b27_4']	彼益名者。	彼益名者。	Names of benefit are
+['ZH_T27_1545_015:0073b27_16']	如天神邊求得者名為天授。	如天神邊求得者名為天授。	like calling one who obtains something from a deity given by the deity.
+['ZH_T27_1545_015:0073b28_9']	因祠祀而得者名為祠授。	因祠祀而得者名為祠授。	One who obtains something from a sacrifice is called given by sacrifice.
+['ZH_T27_1545_015:0073b28_13']	如是等。	如是等。	This and so on.
+['ZH_T27_1545_015:0073b28_18']	從略名者。	從略名者。	Names from abbreviation are
+['ZH_T27_1545_015:0073b29_10']	如具五功德者名為五德。	如具五功德者名為五德。	like calling one who possesses five virtues the five virtues.
+['ZH_T27_1545_015:0073c01_2']	繫屬王者名曰王人。	繫屬王者名曰王人。	One who belongs to a king is called king's man.
+['ZH_T27_1545_015:0073c01_6']	如是等。	如是等。	This and so on.
+['ZH_T27_1545_015:0073c01_13']	復次名有二種。	復次名有二種。	Next, there are two kinds of names.
+['ZH_T27_1545_015:0073c01_17']	一生名。	一生名。	First, birth names.
+['ZH_T27_1545_015:0073c02_1']	二作名。	二作名。	Second, created names.
+['ZH_T27_1545_015:0073c02_5']	生名者。	生名者。	Birth names are
+['ZH_T27_1545_015:0073c02_14']	如剎帝利婆羅門等。	如剎帝利婆羅門等。	like kshatriya, brahmin, and so on.
+['ZH_T27_1545_015:0073c02_18']	作名者。	作名者。	Created names are
+['ZH_T27_1545_015:0073c03_7']	如父母等所為立名。	如父母等所為立名。	like names given by parents and so on.
+['ZH_T27_1545_015:0073c03_10']	有說。	有說。	Some say:
+['ZH_T27_1545_015:0073c04_5']	生名者謂初生時父母等所立名。	生名者謂初生時父母等所立名。	The name given at birth is the name given by parents and others at the time of birth.
+['ZH_T27_1545_015:0073c04_9']	作名者。	作名者。	The name given later is
+['ZH_T27_1545_015:0073c05_3']	謂於後時親友知識所為立名。	謂於後時親友知識所為立名。	the name given by relatives and friends at a later time.
+['ZH_T27_1545_015:0073c05_10']	復次名有二種。	復次名有二種。	Moreover, there are two kinds of names:
+['ZH_T27_1545_015:0073c05_15']	一有相名。	一有相名。	1. Names with characteristics
+['ZH_T27_1545_015:0073c06_1']	二無相名。	二無相名。	2. Names without characteristics
+['ZH_T27_1545_015:0073c06_6']	有相名者。	有相名者。	Names with characteristics are
+['ZH_T27_1545_015:0073c06_15']	如無常苦空無我等。	如無常苦空無我等。	like impermanence, suffering, emptiness, and no-self, etc.
+['ZH_T27_1545_015:0073c07_1']	無相名者。	無相名者。	Names without characteristics are
+['ZH_T27_1545_015:0073c07_10']	如我人有情意生等。	如我人有情意生等。	like self, person, sentient being, and conscious one, etc.
+['ZH_T27_1545_015:0073c08_5']	若佛出世則有相名多無相名少。	若佛出世則有相名多無相名少。	If the Buddha appears in the world, there are more names with characteristics and fewer names without characteristics.
+['ZH_T27_1545_015:0073c09_1']	若不出世則無相名多有相名少。	若不出世則無相名多有相名少。	If he does not appear in the world, there are more names without characteristics and fewer names with characteristics.
+['ZH_T27_1545_015:0073c09_9']	問火名為是有相。	問火名為是有相。	Question: Is the name fire a name with characteristics
+['ZH_T27_1545_015:0073c09_14']	為是無相。	為是無相。	or a name without characteristics?
+['ZH_T27_1545_015:0073c10_6']	答若云尸棄是有相名。	答若云尸棄是有相名。	Answer: If one says Śikhin, it is a name with characteristics.
+['ZH_T27_1545_015:0073c10_12']	若云阿耆尼。	若云阿耆尼。	If one says Agni,
+['ZH_T27_1545_015:0073c10_17']	是無相名。	是無相名。	it is a name without characteristics.
+['ZH_T27_1545_015:0073c11_6']	復次名有二種。	復次名有二種。	Moreover, there are two kinds of names:
+['ZH_T27_1545_015:0073c11_10']	一共名。	一共名。	1. Common names
+['ZH_T27_1545_015:0073c11_15']	二不共名。	二不共名。	2. Uncommon names
+['ZH_T27_1545_015:0073c12_1']	不共名者。	不共名者。	Uncommon names are
+['ZH_T27_1545_015:0073c12_10']	如佛法僧蘊界處等。	如佛法僧蘊界處等。	like the aggregates, realms, and sense bases of the Buddha, Dharma, and Sangha, etc.
+['ZH_T27_1545_015:0073c12_14']	共名者。	共名者。	Common names are
+['ZH_T27_1545_015:0073c13_3']	謂餘世間共所立名。	謂餘世間共所立名。	It is a name established in common by other worlds.
+['ZH_T27_1545_015:0073c13_8']	有餘師說。	有餘師說。	Some say:
+['ZH_T27_1545_015:0073c13_13', 'ZH_T27_1545_015:0073c14_4']	無不共名。🔽以一法可立一切名。	無不共名。 以一法可立一切名。	There are no names that are not shared.🔽Because one dharma can be given all names,
+['ZH_T27_1545_015:0073c14_13']	一切法可立一名故。	一切法可立一名故。	and all dharmas can be given the name of one.
+['ZH_T27_1545_015:0073c15_5']	名皆是共如共不共名。	名皆是共如共不共名。	All names are shared, just like shared and unshared names.
+['ZH_T27_1545_015:0073c15_12']	曾未曾名亦爾。	曾未曾名亦爾。	Names that have been used and those that have not been used are also like this.
+['ZH_T27_1545_015:0073c16_1']	復次名有二種。	復次名有二種。	Furthermore, names are of two kinds.
+['ZH_T27_1545_015:0073c16_5']	一定名。	一定名。	First, fixed names.
+['ZH_T27_1545_015:0073c16_10']	二不定名。	二不定名。	Second, unfixed names.
+['ZH_T27_1545_015:0073c16_14']	定名者。	定名者。	Fixed names are
+['ZH_T27_1545_015:0073c17_4']	如蘇迷盧大海洲渚等。	如蘇迷盧大海洲渚等。	like Sumeru, the great ocean, continents, etc.
+['ZH_T27_1545_015:0073c17_9']	不定名者。	不定名者。	Unfixed names are
+['ZH_T27_1545_015:0073c17_18']	謂餘世間隨共立名。	謂餘世間隨共立名。	the other names established in common by the world.
+['ZH_T27_1545_015:0073c18_4']	有餘師說。	有餘師說。	Some say:
+['ZH_T27_1545_015:0073c18_9']	無決定名。	無決定名。	There are no fixed names.
+['ZH_T27_1545_015:0073c18_14', 'ZH_T27_1545_015:0073c18_19']	所以者何。🔽蘇迷盧等。	所以者何。 蘇迷盧等。	Why is this?🔽Even in the border regions,
+['ZH_T27_1545_015:0073c19_8']	邊方亦為作種種名。	邊方亦為作種種名。	Sumeru, etc. are also given various names.
+['ZH_T27_1545_015:0073c19_17']	此方文頌亦作餘名。	此方文頌亦作餘名。	The verses of this land are also given other names.
+['ZH_T27_1545_015:0073c20_12']	如是說者蘇迷盧等有決定名。	如是說者蘇迷盧等有決定名。	Those who say this say that Sumeru, etc. have fixed names.
+['ZH_T27_1545_015:0073c21_7']	劫初成時蘇迷盧等名已定故。	劫初成時蘇迷盧等名已定故。	Because when the eon is first formed, the names of Sumeru, etc. are already fixed.
+['ZH_T27_1545_015:0073c21_17']	問前劫壞時一切失壞。	問前劫壞時一切失壞。	Question: When the previous eon was destroyed, everything was lost.
+['ZH_T27_1545_015:0073c22_8']	今劫成已誰傳彼名。	今劫成已誰傳彼名。	Now that the eon has been formed, who transmitted those names?
+['ZH_T27_1545_015:0073c23_1']	答有諸仙人得宿住智。	答有諸仙人得宿住智。	Answer: There are sages who attain the knowledge of past lives.
+['ZH_T27_1545_015:0073c23_10']	憶前劫事復傳彼名。	憶前劫事復傳彼名。	They remember the events of previous eons and transmit those names.
+['ZH_T27_1545_015:0073c24_1']	或劫初人由法爾力。	或劫初人由法爾力。	Or, the people at the beginning of the eon, by the power of the fundamental nature,
+['ZH_T27_1545_015:0073c24_10', 'ZH_T27_1545_015:0073c24_16']	心想欻有彼名現前。🔽問諸所有名。	心想欻有彼名現前。 問諸所有名。	suddenly have those names appear before their minds.
+['ZH_T27_1545_015:0073c25_11']	為皆先有展轉傳說為新立耶。	為皆先有展轉傳說為新立耶。	Question: Are all existing names transmitted from the past, or are they newly established?
+['ZH_T27_1545_015:0073c26_3']	答蘇迷盧等諸名先有。	答蘇迷盧等諸名先有。	Answer: Names such as Mount Sumeru and so on existed in the past.
+['ZH_T27_1545_015:0073c26_8']	餘名不定。	餘名不定。	Other names are indefinite.
+['ZH_T27_1545_015:0073c26_13']	或有新立。	或有新立。	Some are newly established.
+['ZH_T27_1545_015:0073c27_1']	復次名有二種。	復次名有二種。	Furthermore, there are two kinds of names.
+['ZH_T27_1545_015:0073c27_6']	一者詮體。	一者詮體。	The first is the name that expresses the essence.
+['ZH_T27_1545_015:0073c27_11']	二者詮用。	二者詮用。	The second is the name that expresses the function.
+['ZH_T27_1545_015:0073c27_16']	詮體名者。	詮體名者。	The name that expresses the essence is
+['ZH_T27_1545_015:0073c28_5']	如盆中果舍中人等。	如盆中果舍中人等。	like fruits in a basin, people in a house, and so on.
+['ZH_T27_1545_015:0073c28_10']	詮用名者。	詮用名者。	The name that expresses the function is
+['ZH_T27_1545_015:0073c28_17']	如刈者誦者等。	如刈者誦者等。	like the one who cuts, the one who recites, and so on.
+['ZH_T27_1545_015:0073c29_2']	有說。	有說。	Some say
+['ZH_T27_1545_015:0073c29_7']	詮體名者。	詮體名者。	the name that expresses the essence is
+['ZH_T27_1545_015:0073c29_14']	如堅濕煖動等。	如堅濕煖動等。	like solidity, moisture, heat, and movement, and so on.
+['ZH_T27_1545_015:0073c29_19']	詮用名者。	詮用名者。	The name that expresses the function is
+['ZH_T27_1545_015:0074a01_6']	如持攝熟長等。	如持攝熟長等。	like supporting, collecting, ripening, and extending, and so on.
+['ZH_T27_1545_015:0074a01_9', 'ZH_T27_1545_015:0074a01_18']	有說。🔽詮體名者謂諸惡等。	有說。 詮體名者謂諸惡等。	Some say🔽the name that expresses the essence is like evil and so on.
+['ZH_T27_1545_015:0074a02_4']	詮用名者。	詮用名者。	The name that expresses the function is
+['ZH_T27_1545_015:0074a02_9']	謂莫作等。	謂莫作等。	It refers to things like do not do and so on.
+['ZH_T27_1545_015:0074a02_17']	問名為有邊際不。	問名為有邊際不。	Is it said to have a limit or not?
+['ZH_T27_1545_015:0074a03_3']	有作是說。	有作是說。	Some say:
+['ZH_T27_1545_015:0074a03_12']	名無邊際法無邊故。	名無邊際法無邊故。	Names have no limit, because dharmas are limitless.
+['ZH_T27_1545_015:0074a04_3']	於一一法有多名故。	於一一法有多名故。	Because each dharma has many names.
+['ZH_T27_1545_015:0074a04_8']	復有說者。	復有說者。	There is also a saying:
+['ZH_T27_1545_015:0074a04_13']	名有邊際。	名有邊際。	Names have a limit.
+['ZH_T27_1545_015:0074a05_3']	唯佛能知餘無知者。	唯佛能知餘無知者。	Only the Buddha can know it, others do not know it.
+['ZH_T27_1545_015:0074a05_16']	以佛能知名邊際故名一切智。	以佛能知名邊際故名一切智。	Because the Buddha can know the limit of names, he is called the Omniscient One.
+['ZH_T27_1545_015:0074a06_1']	有說。	有說。	Some say:
+['ZH_T27_1545_015:0074a06_10']	佛及獨覺知名邊際。	佛及獨覺知名邊際。	The Buddha and pratyekabuddhas can know the limit of names.
+['ZH_T27_1545_015:0074a06_15']	餘不能知。	餘不能知。	Others cannot know it.
+['ZH_T27_1545_015:0074a06_18']	有說。	有說。	Some say:
+['ZH_T27_1545_015:0074a07_13']	佛及獨覺到彼岸聲聞知名邊際。	佛及獨覺到彼岸聲聞知名邊際。	The Buddha, pratyekabuddhas, and śrāvakas who have reached the other shore can know the limit of names.
+['ZH_T27_1545_015:0074a08_1']	餘不能知。	餘不能知。	Others cannot know it.
+['ZH_T27_1545_015:0074a08_4']	評曰。	評曰。	The judges say:
+['ZH_T27_1545_015:0074a08_9']	初說為善。	初說為善。	The first explanation is good.
+['ZH_T27_1545_015:0074a08_18']	唯佛能知名之邊際。	唯佛能知名之邊際。	Only the Buddha can know the limit of names.
+['ZH_T27_1545_015:0074a09_8']	餘皆無有一切智故。	餘皆無有一切智故。	Because others do not have omniscience.
+['ZH_T27_1545_015:0074a10_5']	問有佛無佛世間恒有名句文身。	問有佛無佛世間恒有名句文身。	Question: Whether there is a Buddha or not, the world always has the aggregates of names, phrases, and syllables.
+['ZH_T27_1545_015:0074a10_10', 'ZH_T27_1545_015:0074a10_15']	何故經言。🔽如來出世。	何故經言。 如來出世。	Why does the sūtra say:🔽When the Tathāgata appears in the world,
+['ZH_T27_1545_015:0074a11_10']	便有種種多名身等出現世間。	便有種種多名身等出現世間。	various multiple name-bodies and so on appear in the world.
+['ZH_T27_1545_015:0074a12_3']	答依不共名故作是說。	答依不共名故作是說。	The answer is that this is said based on the name that is not shared.
+['ZH_T27_1545_015:0074a12_12']	如佛法僧蘊界處等。	如佛法僧蘊界處等。	Like the aggregates, realms, bases, etc. of the Buddha, Dharma, and Sangha.
+['ZH_T27_1545_015:0074a12_18']	唯佛出世方。	唯佛出世方。	Only when the Buddha appears in the world
+['ZH_T27_1545_015:0074a13_3']	有此名。	有此名。	do these names exist.
+['ZH_T27_1545_015:0074a13_8']	有作是說。	有作是說。	Some say:
+['ZH_T27_1545_015:0074a13_13']	唯佛出世。	唯佛出世。	Only when the Buddha appears in the world
+['ZH_T27_1545_015:0074a14_3']	有順解脫順空無我。	有順解脫順空無我。	are there those that accord with liberation, emptiness, and non-self,
+['ZH_T27_1545_015:0074a14_12']	違生死苦違我我所。	違生死苦違我我所。	oppose birth and death, suffering, self, and what belongs to self,
+['ZH_T27_1545_015:0074a15_1']	斷諸見生覺意。	斷諸見生覺意。	cut off the arising of views, and give rise to the intention.
+['ZH_T27_1545_015:0074a15_8']	背煩惱向出要。	背煩惱向出要。	They turn away from afflictions and toward the essential,
+['ZH_T27_1545_015:0074a15_15']	止愚癡生智慧。	止愚癡生智慧。	stop ignorance and give rise to wisdom,
+['ZH_T27_1545_015:0074a16_4']	斷猶豫生決定。	斷猶豫生決定。	cut off doubt and give rise to certainty,
+['ZH_T27_1545_015:0074a16_11']	厭生死樂涅槃。	厭生死樂涅槃。	become weary of birth and death and delight in nirvana,
+['ZH_T27_1545_015:0074a17_1']	毀外道讚正法。	毀外道讚正法。	criticize non-Buddhists and praise the true Dharma.
+['ZH_T27_1545_015:0074a17_6']	諸如是等。	諸如是等。	All such things as these
+['ZH_T27_1545_015:0074a17_15']	名句文身出現於世。	名句文身出現於世。	are the appearance in the world of the collections of names, phrases, and syllables.
+['ZH_T27_1545_015:0074a18_6']	餘時不爾故作是說。	餘時不爾故作是說。	It is not so at other times, and therefore this is said.
+['ZH_T27_1545_015:0074a18_11']	如契經說。	如契經說。	As a sutra says:
+['ZH_T27_1545_015:0074a18_17']	有三種言依。	有三種言依。	There are three kinds of verbal bases,
+['ZH_T27_1545_015:0074a19_4']	無第四第五。	無第四第五。	no fourth or fifth.
+['ZH_T27_1545_015:0074a19_9']	云何為三。	云何為三。	What are the three?
+['ZH_T27_1545_015:0074a19_18']	謂依過去說曾諸法。	謂依過去說曾諸法。	They are: based on the past, speaking of past phenomena;
+['ZH_T27_1545_015:0074a20_7']	依未來說當諸法。	依未來說當諸法。	based on the future, speaking of future phenomena;
+['ZH_T27_1545_015:0074a20_15']	依現在說今諸法。	依現在說今諸法。	based on the present, speaking of present phenomena.
+['ZH_T27_1545_015:0074a21_6']	問言依以何為自性。	問言依以何為自性。	When asked what the nature of the basis is,
+['ZH_T27_1545_015:0074a21_13']	答品類足說言。	答品類足說言。	the answer is given in the Abhidharma-nyāyânusāra-śāstra:
+['ZH_T27_1545_015:0074a22_7']	依十八界十二處五蘊所攝。	依十八界十二處五蘊所攝。	It is included in the eighteen elements, twelve sense bases, and five aggregates.
+['ZH_T27_1545_015:0074a23_9']	問言即是語彼依是名。	問言即是語彼依是名。	When asked if the basis is just the name that is spoken,
+['ZH_T27_1545_015:0074a24_2']	但應一界一處一蘊所攝。	但應一界一處一蘊所攝。	it should be said that it is included in one element, one sense base, and one aggregate.
+['ZH_T27_1545_015:0074a24_17']	何故言十八界十二處五蘊所攝耶。	何故言十八界十二處五蘊所攝耶。	Why is it said to be included in the eighteen elements, twelve sense bases, and five aggregates?
+['ZH_T27_1545_015:0074a25_4']	答彼論應說。	答彼論應說。	The answer is that the treatise should say:
+['ZH_T27_1545_015:0074a25_15']	言依一界一處一蘊所攝。	言依一界一處一蘊所攝。	It is included in one element, one sense base, and one aggregate.
+['ZH_T27_1545_015:0074a26_10']	而言十八界十二處五蘊所攝者。	而言十八界十二處五蘊所攝者。	But when it says it is included in the eighteen elements, twelve sense bases, and five aggregates,
+['ZH_T27_1545_015:0074a27_1', 'ZH_T27_1545_015:0074a27_11']	依展轉因故作是說。🔽謂語依名轉名依義轉。	依展轉因故作是說。 謂語依名轉名依義轉。	it is because it is based on a chain of causes.🔽That is to say, the basis of speech is based on names, and names are based on meanings.
+['ZH_T27_1545_015:0074a28_1']	義是言展轉依義中。	義是言展轉依義中。	Within the meaning,
+['ZH_T27_1545_015:0074a28_13']	具有十八界十二處五蘊故。	具有十八界十二處五蘊故。	all eighteen elements, twelve sense bases, and five aggregates are included.
+['ZH_T27_1545_015:0074a29_3']	說者聽者皆為於義。	說者聽者皆為於義。	Both the speaker and the listener are for the sake of the meaning.
+['ZH_T27_1545_015:0074a29_12']	是故彼論依展轉因。	是故彼論依展轉因。	Therefore, the treatise, based on a chain of causes,
+['ZH_T27_1545_015:0074a29_18']	說言依自性。	說言依自性。	says that the basis is the nature of speech.
+['ZH_T27_1545_015:0074b01_10']	有說言依是名及所說義。	有說言依是名及所說義。	Some say that the basis is the name and the meaning that is spoken.
+['ZH_T27_1545_015:0074b02_1']	是故具有十八界等。	是故具有十八界等。	Therefore, it includes the eighteen elements and so forth.
+['ZH_T27_1545_015:0074b02_10']	以言依名及義轉故。	以言依名及義轉故。	Because speech arises in dependence on names and meanings.
+['ZH_T27_1545_015:0074b03_5']	問何故但依三世法說三言依。	問何故但依三世法說三言依。	Question: Why is it said that the three kinds of speech depend on dharmas of the three time periods,
+['ZH_T27_1545_015:0074b03_15']	不依無為法說言依耶。	不依無為法說言依耶。	but not that speech depends on unconditioned dharmas?
+['ZH_T27_1545_015:0074b04_9']	答亦應說無為法是言依。	答亦應說無為法是言依。	Answer: Unconditioned dharmas should also be said to be the basis of speech.
+['ZH_T27_1545_015:0074b05_3']	而不說者當知此義有餘。	而不說者當知此義有餘。	But it is not said. One should know that this meaning is incomplete.
+['ZH_T27_1545_015:0074b05_6', 'ZH_T27_1545_015:0074b05_15']	有說。🔽無為攝在現在品中。	有說。 無為攝在現在品中。	Some say:🔽Unconditioned dharmas are included in the category of present dharmas,
+['ZH_T27_1545_015:0074b06_5']	以現在法得無為故。	以現在法得無為故。	because present dharmas attain the unconditioned.
+['ZH_T27_1545_015:0074b06_8']	有說。	有說。	Some say:
+['ZH_T27_1545_015:0074b07_1']	言多分依有為法轉故。	言多分依有為法轉故。	Because speech mostly arises in dependence on conditioned dharmas,
+['ZH_T27_1545_015:0074b07_9']	無為法不說言依。	無為法不說言依。	unconditioned dharmas are not said to be the basis of speech.
+['ZH_T27_1545_015:0074b07_12']	有說。	有說。	Some say:
+['ZH_T27_1545_015:0074b08_6']	為止有情增上愚故說三言依。	為止有情增上愚故說三言依。	In order to stop sentient beings' excessive delusion, the three kinds of speech are said to depend on the three time periods.
+['ZH_T27_1545_015:0074b09_2']	於有為法所起無明多增上故。	於有為法所起無明多增上故。	Because the ignorance that arises with regard to conditioned dharmas is mostly excessive.
+['ZH_T27_1545_015:0074b09_5']	有說。	有說。	Some say:
+['ZH_T27_1545_015:0074b09_15']	有情多於三世猶豫故。	有情多於三世猶豫故。	Because sentient beings mostly doubt the three time periods,
+['ZH_T27_1545_015:0074b10_4']	佛為說三種言依。	佛為說三種言依。	the Buddha speaks of the three kinds of speech.
+['ZH_T27_1545_015:0074b10_7']	有說。	有說。	Some say:
+['ZH_T27_1545_015:0074b11_2']	為止外道執有我故說三言依。	為止外道執有我故說三言依。	In order to stop non-Buddhists' attachment to the existence of a self, the three kinds of speech are said to depend on the three time periods.
+['ZH_T27_1545_015:0074b11_11']	謂外道言若無我者。	謂外道言若無我者。	Non-Buddhists say: If there is no self,
+['ZH_T27_1545_015:0074b11_17']	我言何依故。	我言何依故。	on what basis does the word self arise?🔽Therefore, the three kinds of speech are said to depend on the three time periods.
+['ZH_T27_1545_015:0074b12_5']	佛為說三種言依。	佛為說三種言依。	The Buddha explained that the three kinds of expressions are based on the three times.
+['ZH_T27_1545_015:0074b12_14']	我言但依三世起故。	我言但依三世起故。	The word I is based only on the arising of the three times.
+['ZH_T27_1545_015:0074b13_7']	有說為止撥無去來二世。	有說為止撥無去來二世。	Some say that in order to stop the denial of the past and future two times,
+['ZH_T27_1545_015:0074b14_3']	并止現在是無為執說三言依。	并止現在是無為執說三言依。	and to stop the attachment that the present is unconditioned, the three kinds of expressions are explained.
+['ZH_T27_1545_015:0074b14_16']	依是有體有用法故無必無體。	依是有體有用法故無必無體。	Existence has substance and function, so it must have substance.
+['ZH_T27_1545_015:0074b15_6']	無為無用故非言依。	無為無用故非言依。	The unconditioned has no function, so it is not an expression.
+['ZH_T27_1545_015:0074b15_17']	有說有為法麁多信是有。	有說有為法麁多信是有。	Some say that conditioned dharmas are coarse and many, and people believe in their existence.
+['ZH_T27_1545_015:0074b16_8']	易起言說故立言依。	易起言說故立言依。	It is easy to give rise to expressions, so they are established as expressions.
+['ZH_T27_1545_015:0074b17_4']	無為法細少信是有難起言說。	無為法細少信是有難起言說。	Unconditioned dharmas are subtle and few, and people find it difficult to believe in their existence and give rise to expressions.
+['ZH_T27_1545_015:0074b17_9']	故非言依。	故非言依。	Therefore they are not expressions.
+['ZH_T27_1545_015:0074b17_18']	尊者世友作如是說。	尊者世友作如是說。	The Venerable Vasumitra said:
+['ZH_T27_1545_015:0074b18_8']	有為無為分為二聚。	有為無為分為二聚。	The conditioned and unconditioned are divided into two groups.
+['ZH_T27_1545_015:0074b18_17']	若彼聚中三事可得。	若彼聚中三事可得。	If the three things can be obtained in that group,
+['ZH_T27_1545_015:0074b19_8']	謂語名義立為言依。	謂語名義立為言依。	namely speech, name, and meaning, it is established as an expression.
+['ZH_T27_1545_015:0074b19_17']	無為聚中雖得有義。	無為聚中雖得有義。	Although meaning can be obtained in the unconditioned group,
+['ZH_T27_1545_015:0074b20_8']	而無餘二故非言依。	而無餘二故非言依。	it lacks the other two, so it is not an expression.
+['ZH_T27_1545_015:0074b20_13']	大德說曰。	大德說曰。	The Venerable One said:
+['ZH_T27_1545_015:0074b21_8']	若法有用取果與果可立言依。	若法有用取果與果可立言依。	If a dharma has a function, it can take effects and give effects, and can be established as an expression.
+['ZH_T27_1545_015:0074b21_17']	無為無用是故不說。	無為無用是故不說。	Because the unconditioned has neither, it is not mentioned.
+['ZH_T27_1545_015:0074b22_4']	脇尊者言。	脇尊者言。	Venerable Pārśva said:
+['ZH_T27_1545_015:0074b23_4']	有為諸法與言可有俱時轉義故立言依。	有為諸法與言可有俱時轉義故立言依。	Conditioned dharmas can be said to exist simultaneously with the meaning of turning together, so they are established as the basis of speech.
+['ZH_T27_1545_015:0074b23_13']	無為不然是故不說。	無為不然是故不說。	The unconditioned is not like this, therefore it is not mentioned.
+['ZH_T27_1545_015:0074b24_8', 'ZH_T27_1545_015:0074b25_1']	問若依過去說未來現在法。🔽依未來說過去現在法。	問若依過去說未來現在法。 依未來說過去現在法。	Question: If past is spoken of in relation to future and present dharmas,🔽future is spoken of in relation to past and present dharmas,
+['ZH_T27_1545_015:0074b25_11']	依現在說過去未來法。	依現在說過去未來法。	and present is spoken of in relation to past and future dharmas,
+['ZH_T27_1545_015:0074b26_2']	彼是何等言依攝耶。	彼是何等言依攝耶。	to which of the three bases of speech do they belong?
+['ZH_T27_1545_015:0074b26_15']	有作是說彼不攝在三言依中。	有作是說彼不攝在三言依中。	There is an explanation that they are not included in the three bases of speech.
+['ZH_T27_1545_015:0074b27_2']	復有說者。	復有說者。	There is also an explanation:
+['ZH_T27_1545_015:0074b27_12']	若依過去說未來現在。	若依過去說未來現在。	If past is spoken of in relation to future and present,
+['ZH_T27_1545_015:0074b28_2']	即攝在過去中。	即攝在過去中。	it is included in the past.
+['ZH_T27_1545_015:0074b28_14']	乃至若依現在說過去未來。	乃至若依現在說過去未來。	Up to if present is spoken of in relation to past and future,
+['ZH_T27_1545_015:0074b29_3']	即攝在現在中。	即攝在現在中。	it is included in the present.
+['ZH_T27_1545_015:0074b29_8']	有餘師說。	有餘師說。	Other masters say:
+['ZH_T27_1545_015:0074b29_18']	若依過去說未來現在。	若依過去說未來現在。	If past is spoken of in relation to future and present,
+['ZH_T27_1545_015:0074c01_7']	未來者攝在未來。	未來者攝在未來。	the future is included in the future,
+['ZH_T27_1545_015:0074c01_17']	現在者攝在現在乃至。	現在者攝在現在乃至。	the present is included in the present, up to
+['ZH_T27_1545_015:0074c02_9']	若依現在說過去未來。	若依現在說過去未來。	if present is spoken of in relation to past and future,
+['ZH_T27_1545_015:0074c03_3']	過去者攝在過去未來者。	過去者攝在過去未來者。	The past is included in the past, and the future is included in the future.
+['ZH_T27_1545_015:0074c03_16', 'ZH_T27_1545_015:0074c04_8']	攝在未來前說言依義為體故。🔽問若於一時頓說二世。	攝在未來前說言依義為體故。 問若於一時頓說二世。	Because it was previously said that the meaning is the essence of the basis.🔽Question: If the two times or even the three times are spoken of all at once,
+['ZH_T27_1545_015:0074c04_17']	或復三世何言依攝。	或復三世何言依攝。	why is it said that they are included in the basis?
+['ZH_T27_1545_015:0074c05_12']	有作是說彼不攝在三言依中。	有作是說彼不攝在三言依中。	There is an explanation that they are not included in the three bases.
+['ZH_T27_1545_015:0074c06_5']	復有說者隨能顯名。	復有說者隨能顯名。	There is also an explanation that they are included in the time in which the name that can manifest them is found.
+['ZH_T27_1545_015:0074c06_10']	在何世攝。	在何世攝。	In which time are they included?
+['ZH_T27_1545_015:0074c07_1']	即說攝在彼世言依。	即說攝在彼世言依。	It is said that they are included in that time in which the basis is found.
+['ZH_T27_1545_015:0074c07_6']	有餘師說。	有餘師說。	There are other masters who say:
+['ZH_T27_1545_015:0074c07_15']	隨所顯義在何世攝。	隨所顯義在何世攝。	In which time is the meaning that is manifested included?
+['ZH_T27_1545_015:0074c08_5']	即說攝在彼世言依。	即說攝在彼世言依。	It is said that it is included in that time in which the basis is found.
+['ZH_T27_1545_015:0074c08_14']	前說言依義為體故。	前說言依義為體故。	Because it was previously said that the meaning is the essence of the basis.
+['ZH_T27_1545_015:0074c09_11']	問契經但說有三種言依於義已足。	問契經但說有三種言依於義已足。	Question: The sutra only speaks of three kinds of bases for speech, which is sufficient for the meaning.
+['ZH_T27_1545_015:0074c10_4']	何故復說無第四第五。	何故復說無第四第五。	Why does it also say that there is no fourth or fifth?
+['ZH_T27_1545_015:0074c10_14']	答無第四者遮第四世。	答無第四者遮第四世。	Answer: As for there being no fourth, it denies a fourth time.
+['ZH_T27_1545_015:0074c11_5']	恐有執有第四世故。	恐有執有第四世故。	Because it fears that there may be the attachment that there is a fourth time.
+['ZH_T27_1545_015:0074c11_14']	無第五者遮無為法。	無第五者遮無為法。	As for there being no fifth, it denies unconditioned dharmas.
+['ZH_T27_1545_015:0074c12_6']	恐執無為是言依故。	恐執無為是言依故。	Because it fears that unconditioned dharmas may be taken as a basis for speech.
+['ZH_T27_1545_015:0074c12_15']	有說二言鄭重遮止。	有說二言鄭重遮止。	Some say that the two words not are used to emphatically prohibit.
+['ZH_T27_1545_015:0074c13_6']	欲令所說義決定故。	欲令所說義決定故。	In order to make the meaning of what is said certain.
+['ZH_T27_1545_015:0074c13_16']	契經依世建立言依故。	契經依世建立言依故。	The sutras establish the basis of speech based on the world.
+['ZH_T27_1545_015:0074c14_6']	說有三無四無五。	說有三無四無五。	Therefore, it is said that there are three and not four, five and not six.
+['ZH_T27_1545_015:0074c14_17']	若依如理作意建立言依。	若依如理作意建立言依。	If the basis of speech is established based on proper attention,
+['ZH_T27_1545_015:0074c15_9']	應說有一無第二第三。	應說有一無第二第三。	It should be said that there is one and not a second, third.
+['ZH_T27_1545_015:0074c16_6']	無第二者遮有第二如理作意。	無第二者遮有第二如理作意。	The absence of a second prohibits a second proper attention.
+['ZH_T27_1545_015:0074c17_3']	無第三者遮如理作意所不攝法。	無第三者遮如理作意所不攝法。	The absence of a third prohibits dharmas not included in proper attention.
+['ZH_T27_1545_015:0074c17_12']	若依止觀建立言依。	若依止觀建立言依。	If the basis of speech is established based on calming and insight,
+['ZH_T27_1545_015:0074c18_9']	應說有二無第三第四義如前說。	應說有二無第三第四義如前說。	It should be said that there are two and not a third, fourth, the meaning is as explained above.
+['ZH_T27_1545_015:0074c19_3']	若依三解脫門建立言依。	若依三解脫門建立言依。	If the basis of speech is established based on the three doors to liberation,
+['ZH_T27_1545_015:0074c19_17']	應言有三無第四第五義如前說。	應言有三無第四第五義如前說。	It should be said that there are three and not a fourth, fifth, the meaning is as explained above.
+['ZH_T27_1545_015:0074c20_9']	若依四聖諦建立言依。	若依四聖諦建立言依。	If the basis of speech is established based on the four noble truths,
+['ZH_T27_1545_015:0074c21_6']	應說有四無第五第六義如前說。	應說有四無第五第六義如前說。	It should be said that there are four and not a fifth, sixth, the meaning is as explained above.
+['ZH_T27_1545_015:0074c21_15']	若依五蘊建立言依。	若依五蘊建立言依。	If the basis of speech is established based on the five aggregates,
+['ZH_T27_1545_015:0074c22_11']	應說有五無第六第七義如前說。	應說有五無第六第七義如前說。	It should be said that there are five and not a sixth, seventh, the meaning is as explained above.
+['ZH_T27_1545_015:0074c23_4']	若依六隨念建立言依。	若依六隨念建立言依。	If the basis of designation is established based on the six recollections,
+['ZH_T27_1545_015:0074c24_1']	應說有六無第七第八義如前說。	應說有六無第七第八義如前說。	it should be said that there are six, not seven or eight. The meaning is as explained above.
+['ZH_T27_1545_015:0074c24_12']	若依七等覺支建立言依。	若依七等覺支建立言依。	If the basis of designation is established based on the seven factors of enlightenment,
+['ZH_T27_1545_015:0074c25_8']	應說有七無第八第九義如前說。	應說有七無第八第九義如前說。	it should be said that there are seven, not eight or nine. The meaning is as explained above.
+['ZH_T27_1545_015:0074c26_2']	若依八聖道支建立言依。	若依八聖道支建立言依。	If the basis of designation is established based on the eightfold noble path,
+['ZH_T27_1545_015:0074c26_16']	應說有八無第九第十義如前說。	應說有八無第九第十義如前說。	it should be said that there are eight, not nine or ten. The meaning is as explained above.
+['ZH_T27_1545_015:0074c27_9']	若依九次第定建立言依。	若依九次第定建立言依。	If the basis of designation is established based on the nine successive concentrations,
+['ZH_T27_1545_015:0074c28_7']	應說有九無第十第十一義如前說。	應說有九無第十第十一義如前說。	it should be said that there are nine, not ten or eleven. The meaning is as explained above.
+['ZH_T27_1545_015:0074c29_1']	若依如來十力建立言依。	若依如來十力建立言依。	If the basis of designation is established based on the ten powers of the Tathāgata,
+['ZH_T27_1545_015:0074c29_17']	應說有十無第十一第十二義如前說。	應說有十無第十一第十二義如前說。	it should be said that there are ten, not eleven or twelve. The meaning is as explained above.
+['ZH_T27_1545_015:0075a01_14']	如是若依餘法建立言依應如理說。	如是若依餘法建立言依應如理說。	In this way, if the basis of designation is established based on other dharmas, it should be explained accordingly.
+['ZH_T27_1545_015:0075a02_6']	此經依世建立言依。	此經依世建立言依。	This sūtra establishes the basis of designation based on the world.
+['ZH_T27_1545_015:0075a02_15']	故但說三無四無五。	故但說三無四無五。	Therefore, it only speaks of three, not four, not five.
+['ZH_T27_1545_015:0075a03_6']	即此經中作如是說。	即此經中作如是說。	In this very sūtra, it is said:
+['ZH_T27_1545_015:0075a03_17']	應以四事觀察補特伽羅。	應以四事觀察補特伽羅。	One should observe a person in terms of four things.
+['ZH_T27_1545_015:0075a04_13']	知彼具壽為可與語為不可與語。	知彼具壽為可與語為不可與語。	Knowing whether that venerable one is suitable to speak with or not.
+['ZH_T27_1545_015:0075a05_1']	云何為四。	云何為四。	What are the four?
+['ZH_T27_1545_015:0075a05_7']	一者處非處。	一者處非處。	First, the proper and improper.
+['ZH_T27_1545_015:0075a05_12']	二者智論。	二者智論。	Second, the treatise on knowledge.
+['ZH_T27_1545_015:0075a05_17']	三者分別。	三者分別。	Third, discrimination.
+['ZH_T27_1545_015:0075a06_2']	四者道跡。	四者道跡。	Fourth, the traces of the path.
+['ZH_T27_1545_015:0075a06_11']	若於此四善安住者。	若於此四善安住者。	If one is well-established in these four,
+['ZH_T27_1545_015:0075a06_16']	彼可與語。	彼可與語。	then one is suitable to speak with.
+['ZH_T27_1545_015:0075a07_6']	與此相違不可與語。	與此相違不可與語。	Those who are contrary to this are not suitable to speak with.
+['ZH_T27_1545_015:0075a07_16']	問如是四事有何差別。	問如是四事有何差別。	Question: What is the difference between these four things?
+['ZH_T27_1545_015:0075a08_7']	答不善安住處非處者。	答不善安住處非處者。	Answer: One who is not well-established in the proper and improper
+['ZH_T27_1545_015:0075a08_17']	謂不如實知是處非處。	謂不如實知是處非處。	means one who does not know the proper and improper as they truly are.
+['ZH_T27_1545_015:0075a09_7']	不善安住智論者。	不善安住智論者。	One who is not well-established in the treatise on knowledge
+['ZH_T27_1545_015:0075a09_17']	謂不如實知智及爾焰。	謂不如實知智及爾焰。	means one who does not know knowledge and its objects as they truly are.
+['ZH_T27_1545_015:0075a10_7']	不善安住分別者。	不善安住分別者。	One who is not well-established in discrimination
+['ZH_T27_1545_015:0075a10_17']	謂不如實知世俗勝義。	謂不如實知世俗勝義。	means one who does not know the conventional and ultimate as they truly are.
+['ZH_T27_1545_015:0075a11_7']	不善安住道跡者。	不善安住道跡者。	One who is not well-established in the traces of the path
+['ZH_T27_1545_015:0075a12_4']	謂不如實知趣苦集行及趣苦滅行。	謂不如實知趣苦集行及趣苦滅行。	means one who does not know the practices leading to the origin of suffering and the practices leading to the cessation of suffering as they truly are.
+['ZH_T27_1545_015:0075a12_13']	有說不善安住處非。	有說不善安住處非。	Some say that one who is not well-established in the proper and improper
+['ZH_T27_1545_015:0075a12_16']	處者。	處者。	means
+['ZH_T27_1545_015:0075a14_12']	謂不如實知眼色為緣生眼識乃至意法為緣生意識是處耳等為緣生眼識。	謂不如實知眼色為緣生眼識乃至意法為緣生意識是處耳等為緣生眼識。	It means not knowing as it truly is that eye and form are the conditions for the arising of eye-consciousness, up to mind and dharmas are the conditions for the arising of mind-consciousness, but instead taking the ear and so forth as the conditions for the arising of eye-consciousness.🔽🔽
+['ZH_T27_1545_015:0075a15_7']	乃至眼等為緣生意識非處。	乃至眼等為緣生意識非處。	It means not knowing as it truly is that the eye and form as conditions give rise to eye consciousness, up to the mind and dharmas as conditions give rise to mind consciousness, this is the case. The ear, etc. as conditions give rise to eye consciousness, up to the eye, etc. as conditions give rise to mind consciousness is not the case.
+['ZH_T27_1545_015:0075a15_15']	不善安住智論者。	不善安住智論者。	Not skillfully abiding in the knowledge of treatises.
+['ZH_T27_1545_015:0075a16_7']	謂不如實知十智差別。	謂不如實知十智差別。	It means not knowing as it truly is the distinctions of the ten knowledges.
+['ZH_T27_1545_015:0075a16_15']	不善安住分別者。	不善安住分別者。	Not skillfully abiding in discrimination.
+['ZH_T27_1545_015:0075a17_10']	謂不如實知了義經及不了義經。	謂不如實知了義經及不了義經。	It means not knowing as it truly is the sūtras of definitive meaning and the sūtras of provisional meaning.
+['ZH_T27_1545_015:0075a17_18']	不善安住道跡者。	不善安住道跡者。	Not skillfully abiding in the traces of the path.
+['ZH_T27_1545_015:0075a18_9']	謂不如實知四種行跡。	謂不如實知四種行跡。	It means not knowing as it truly is the four kinds of traces of the path.
+['ZH_T27_1545_015:0075a19_2']	有說不善安住處非處者。	有說不善安住處非處者。	Some say that not skillfully abiding in the possible and impossible means
+['ZH_T27_1545_015:0075a19_12']	謂不如實知有理無理。	謂不如實知有理無理。	not knowing as it truly is what is reasonable and what is unreasonable.
+['ZH_T27_1545_015:0075a20_1']	不善安住智論者。	不善安住智論者。	Not skillfully abiding in the knowledge of treatises means
+['ZH_T27_1545_015:0075a20_11']	謂不如實知聖者正論。	謂不如實知聖者正論。	not knowing as it truly is the correct treatises of the noble ones.
+['ZH_T27_1545_015:0075a21_1']	不善安住分別者。	不善安住分別者。	Not skillfully abiding in discrimination means
+['ZH_T27_1545_015:0075a21_11']	謂不如實知假設言論。	謂不如實知假設言論。	not knowing as it truly is the hypothetical discourses.
+['ZH_T27_1545_015:0075a22_1']	不善安住道跡者。	不善安住道跡者。	Not skillfully abiding in the traces of the path means
+['ZH_T27_1545_015:0075a22_11']	謂不如實知他言句義。	謂不如實知他言句義。	not knowing as it truly is the meaning of the words and phrases of others.
+['ZH_T27_1545_015:0075a23_1']	前中後別而輒酬對。	前中後別而輒酬對。	Answering questions separately for each of the past, present, and future.
+['ZH_T27_1545_015:0075a23_12']	有說不善安住處非處者。	有說不善安住處非處者。	Some say that not skillfully abiding in the proper and improper means
+['ZH_T27_1545_015:0075a24_4']	謂不能如實立所立宗。	謂不能如實立所立宗。	not being able to establish one's own thesis as it truly is.
+['ZH_T27_1545_015:0075a24_12']	不善安住智論者。	不善安住智論者。	Not skillfully abiding in the treatises of knowledge means
+['ZH_T27_1545_015:0075a25_4']	謂不能堪受他所問難。	謂不能堪受他所問難。	not being able to bear the questions and difficulties posed by others.
+['ZH_T27_1545_015:0075a26_3']	不善安住分別者謂不善了知詭誑真實。	不善安住分別者謂不善了知詭誑真實。	Not skillfully abiding in discrimination means not being able to understand clearly the deceptive and the true.
+['ZH_T27_1545_015:0075a26_11']	不善安住道跡者。	不善安住道跡者。	Not skillfully abiding in the traces of the path means
+['ZH_T27_1545_015:0075a27_2']	謂不能成辦增上覺慧。	謂不能成辦增上覺慧。	not being able to accomplish the supreme wisdom.
+['ZH_T27_1545_015:0075a27_13', 'ZH_T27_1545_015:0075a28_1']	有說不善安住處非處者。🔽謂於自宗他宗。	有說不善安住處非處者。 謂於自宗他宗。	Some say that not skillfully abiding in the proper and improper means
+['ZH_T27_1545_015:0075a28_10']	不善安住而有所說。	不善安住而有所說。	not being able to speak skillfully while not abiding in one's own or others' tenets.
+['ZH_T27_1545_015:0075a28_18']	不善安住智論者。	不善安住智論者。	Not skillfully abiding in the treatises of knowledge means
+['ZH_T27_1545_015:0075a29_13']	謂不了知他以量為先有所詰難。	謂不了知他以量為先有所詰難。	not understanding that others' questioning is based on valid cognition.
+['ZH_T27_1545_015:0075b01_5']	不善安住分別者。	不善安住分別者。	Not skillfully abiding in discrimination means
+['ZH_T27_1545_015:0075b02_1']	謂不了知他前後次第相應言論。	謂不了知他前後次第相應言論。	not understanding others' sequential and corresponding discourse.
+['ZH_T27_1545_015:0075b02_9']	不善安住道跡者。	不善安住道跡者。	Not skillfully abiding in the traces of the path means
+['ZH_T27_1545_015:0075b03_1']	謂不能滿足所求勝事。	謂不能滿足所求勝事。	not being able to fulfill one's quest for superior matters.
+['ZH_T27_1545_015:0075b03_12']	有說不善安住處非處者。	有說不善安住處非處者。	Some say that not skillfully abiding in the proper and improper is
+['ZH_T27_1545_015:0075b04_4']	謂不善了知現非現量。	謂不善了知現非現量。	referring to not skillfully understanding the present and non-present direct perception.
+['ZH_T27_1545_015:0075b04_12']	不善安住智論者。	不善安住智論者。	Not skillfully abiding in the treatises of knowledge is
+['ZH_T27_1545_015:0075b05_4']	謂於先所聞堅執不捨。	謂於先所聞堅執不捨。	referring to firmly grasping what one has previously heard and not letting go of it.
+['ZH_T27_1545_015:0075b05_13']	不欲觀察前後德失。	不欲觀察前後德失。	Not wishing to contemplate the virtues and faults before and after.
+['ZH_T27_1545_015:0075b06_3']	不善安住分別者。	不善安住分別者。	Not skillfully abiding in discrimination is
+['ZH_T27_1545_015:0075b06_13']	謂於他正說心懷猶豫。	謂於他正說心懷猶豫。	referring to harboring doubts in one's mind regarding the correct teachings of others.
+['ZH_T27_1545_015:0075b07_4']	如不能決是飯是酥。	如不能決是飯是酥。	Like being unable to determine whether it is rice or butter.
+['ZH_T27_1545_015:0075b07_12']	不善安住道跡者。	不善安住道跡者。	Not skillfully abiding in the traces of the path is
+['ZH_T27_1545_015:0075b08_8']	謂不了知現比至教為先問難。	謂不了知現比至教為先問難。	referring to not understanding the questions and difficulties that precede the present, analogy, and authoritative testimony.
+['ZH_T27_1545_015:0075b08_13']	脇尊者言。	脇尊者言。	The Venerable Pārśva said:
+['ZH_T27_1545_015:0075b09_3']	不善安住處非處者。	不善安住處非處者。	Not skillfully abiding in the proper and improper is
+['ZH_T27_1545_015:0075b09_13']	謂於所知境不善了知。	謂於所知境不善了知。	referring to not skillfully understanding the known objects.
+['ZH_T27_1545_015:0075b10_2']	不善安住智論者。	不善安住智論者。	Not skillfully abiding in the treatises of knowledge is
+['ZH_T27_1545_015:0075b10_12']	謂於能知智不善了知。	謂於能知智不善了知。	referring to not skillfully understanding the knowing cognition.
+['ZH_T27_1545_015:0075b11_2']	不善安住分別者。	不善安住分別者。	Not skillfully abiding in discrimination is
+['ZH_T27_1545_015:0075b11_12']	謂於邪正教不善了知。	謂於邪正教不善了知。	referring to not skillfully understanding the false and correct teachings.
+['ZH_T27_1545_015:0075b12_2']	不善安住道跡者。	不善安住道跡者。	Not skillfully abiding in the traces of the path is
+['ZH_T27_1545_015:0075b12_12']	謂於邪正行不善了知。	謂於邪正行不善了知。	referring to not skillfully understanding the false and correct practices.
+['ZH_T27_1545_015:0075b13_3']	尊者僧伽筏蘇說曰。	尊者僧伽筏蘇說曰。	Venerable Saṃghabhadra said:
+['ZH_T27_1545_015:0075b13_12', 'ZH_T27_1545_015:0075b14_3']	不善安住處非處者。🔽謂於多界經中所說。	不善安住處非處者。 謂於多界經中所說。	Those who are not well-established in the proper and improper are
+['ZH_T27_1545_015:0075b14_12']	處非處義不善了知。	處非處義不善了知。	Those who do not understand well the meaning of the proper and improper as explained in the many sūtras on the elements.
+['ZH_T27_1545_015:0075b15_2']	不善安住智論者。	不善安住智論者。	Those who are not well-established in the treatises on knowledge
+['ZH_T27_1545_015:0075b16_1']	謂於四十四智七十七智事不善了知。	謂於四十四智七十七智事不善了知。	Are those who do not understand well the forty-four knowledges and the seventy-seven knowledges.
+['ZH_T27_1545_015:0075b16_9']	不善安住分別者。	不善安住分別者。	Those who are not well-established in discrimination
+['ZH_T27_1545_015:0075b17_2']	謂於雜染清淨不善了知。	謂於雜染清淨不善了知。	Are those who do not understand well the defiled and pure.
+['ZH_T27_1545_015:0075b17_10']	不善安住道跡者。	不善安住道跡者。	Those who are not well-established in the path
+['ZH_T27_1545_015:0075b18_9']	謂於趣色滅行乃至趣識滅行不善了知。	謂於趣色滅行乃至趣識滅行不善了知。	Are those who do not understand well the practices leading to the cessation of form, up to the practices leading to the cessation of consciousness.
+['ZH_T27_1545_015:0075b19_1']	與上相違名善安住。	與上相違名善安住。	The opposite of this is being well-established.
+['ZH_T27_1545_015:0075b20_8']	即此經中復作是說。	即此經中復作是說。	In this very sūtra, it is further said:
+['ZH_T27_1545_015:0075b21_2']	應以四事觀察補特伽羅。	應以四事觀察補特伽羅。	One should observe a person with four things
+['ZH_T27_1545_015:0075b21_16']	知彼具壽為可與語為不可與語。	知彼具壽為可與語為不可與語。	To know whether that venerable one can be spoken to or cannot be spoken to.
+['ZH_T27_1545_015:0075b22_3', 'ZH_T27_1545_015:0075b22_11', 'ZH_T27_1545_015:0075b23_1']	云何為四。🔽一者應一向記問。🔽二者應分別記問。	云何為四。 一者應一向記問。 二者應分別記問。	What are the four?🔽First, one should answer directly a question that should be answered directly.
+['ZH_T27_1545_015:0075b23_9']	三者應反詰記問。	三者應反詰記問。	Second, one should answer by discrimination a question that should be answered by discrimination.🔽Third, one should answer by counter-questioning a question that should be answered by counter-questioning.
+['ZH_T27_1545_015:0075b23_17']	四者應捨置記問。	四者應捨置記問。	Fourth, questions that should be set aside and answered.
+['ZH_T27_1545_015:0075b24_12']	若於此四如應記者彼可與語。	若於此四如應記者彼可與語。	If one can answer these four types of questions as appropriate, one can engage in discussion.
+['ZH_T27_1545_015:0075b25_3']	與此相違不可與語。	與此相違不可與語。	Those that are contrary to this cannot engage in discussion.
+['ZH_T27_1545_015:0075b25_12']	云何名應一向記問。	云何名應一向記問。	What is called a question that should be answered directly?
+['ZH_T27_1545_015:0075b26_2']	此問應以一向記故。	此問應以一向記故。	Because this question should be answered directly.
+['ZH_T27_1545_015:0075b26_14']	謂有問言如來應正等覺耶。	謂有問言如來應正等覺耶。	For example, if someone asks, Is the Tathāgata a true and complete enlightenment?
+['ZH_T27_1545_015:0075b27_5']	法善說耶僧妙行耶。	法善說耶僧妙行耶。	Is the Dharma well-taught? Is the Saṅgha of good conduct?
+['ZH_T27_1545_015:0075b27_12']	一切行無常耶。	一切行無常耶。	Are all conditioned things impermanent?
+['ZH_T27_1545_015:0075b28_1']	一切法無我耶。	一切法無我耶。	Are all dharmas without self?
+['ZH_T27_1545_015:0075b28_7']	涅槃寂靜耶。	涅槃寂靜耶。	Is nirvāṇa quiescent?
+['ZH_T27_1545_015:0075b28_16']	應一向記此皆如是。	應一向記此皆如是。	One should answer directly that all of these are so.
+['ZH_T27_1545_015:0075b29_8']	問何故此問應一向記。	問何故此問應一向記。	Why should this question be answered directly?
+['ZH_T27_1545_015:0075c01_3']	答此問能引義利能引善法。	答此問能引義利能引善法。	Answer: Because this question can lead to benefit and can lead to good dharmas.
+['ZH_T27_1545_015:0075c01_16']	隨順梵行能發覺慧能得涅槃。	隨順梵行能發覺慧能得涅槃。	It accords with pure conduct, can give rise to wisdom, and can attain nirvāṇa.
+['ZH_T27_1545_015:0075c02_7']	是故此問應一向記。	是故此問應一向記。	Therefore, this question should be answered directly.
+['ZH_T27_1545_015:0075c02_16']	云何名應分別記問。	云何名應分別記問。	What is called a question that should be answered discriminately?
+['ZH_T27_1545_015:0075c03_7']	此問應以分別記故。	此問應以分別記故。	Because this question should be answered discriminately.
+['ZH_T27_1545_015:0075c03_16']	謂有請言為我說法。	謂有請言為我說法。	For example, if someone requests, Please teach the Dharma to me,
+['ZH_T27_1545_015:0075c04_7']	應告彼言法有多種。	應告彼言法有多種。	one should tell them, There are many kinds of Dharma.
+['ZH_T27_1545_015:0075c05_1']	有過去有未來有現在。	有過去有未來有現在。	There are those in the past, future, and present.
+['ZH_T27_1545_015:0075c05_10']	有善有不善有無記。	有善有不善有無記。	There are wholesome, unwholesome, and indeterminate ones.
+['ZH_T27_1545_015:0075c06_7']	有欲界繫有色界繫有無色界繫。	有欲界繫有色界繫有無色界繫。	There are those bound to the desire realm, form realm, and formless realm.
+['ZH_T27_1545_015:0075c07_2']	有學有無學有非學非無學。	有學有無學有非學非無學。	There are those in training, those beyond training, and those neither in training nor beyond training.
+['ZH_T27_1545_015:0075c07_11']	有見所斷有修所斷。	有見所斷有修所斷。	There are those eliminated by seeing the truths, those eliminated by cultivation,
+['ZH_T27_1545_015:0075c08_2']	有不斷欲說何者。	有不斷欲說何者。	and those that are not eliminated. What are they?
+['ZH_T27_1545_015:0075c08_11']	云何名應反詰記問。	云何名應反詰記問。	What is called a question to be answered with a counter-question?
+['ZH_T27_1545_015:0075c09_2']	此問應以反詰記故。	此問應以反詰記故。	Because this question should be answered with a counter-question.
+['ZH_T27_1545_015:0075c09_11']	謂有問言為我說法。	謂有問言為我說法。	It is like someone asking, Please explain the Dharma to me.
+['ZH_T27_1545_015:0075c10_3']	應反詰言法有眾多。	應反詰言法有眾多。	One should counter-question, There are many kinds of Dharma.
+['ZH_T27_1545_015:0075c10_12']	汝問何者眾多法者。	汝問何者眾多法者。	Which of the many kinds of Dharma do you ask about?
+['ZH_T27_1545_015:0075c11_3']	謂過去等如前廣說。	謂過去等如前廣說。	It refers to the past, etc., as explained in detail above.
+['ZH_T27_1545_015:0075c11_10']	問應分別記論。	問應分別記論。	The treatise on questions to be answered with discrimination.
+['ZH_T27_1545_015:0075c12_1']	應反詰記論有何差別。	應反詰記論有何差別。	What is the difference between the treatise on questions to be answered with counter-questions?
+['ZH_T27_1545_015:0075c12_14']	答答意雖無差別而問意有異。	答答意雖無差別而問意有異。	Although the meaning of the answer is without distinction, the meaning of the question is different.
+['ZH_T27_1545_015:0075c13_7']	謂彼問者有為知解故問。	謂彼問者有為知解故問。	It refers to the questioner asking in order to know and understand,
+['ZH_T27_1545_015:0075c13_14']	有為觸惱故問。	有為觸惱故問。	and asking in order to provoke.
+['ZH_T27_1545_015:0075c14_3']	若為知解故問。	若為知解故問。	If one asks in order to know and understand,
+['ZH_T27_1545_015:0075c14_12']	應告彼言法有多種。	應告彼言法有多種。	one should tell them that there are many kinds of Dharma.
+['ZH_T27_1545_015:0075c15_9']	有過去有未來有現在廣說乃至。	有過去有未來有現在廣說乃至。	There are past, future, and present... and so on up to...
+['ZH_T27_1545_015:0075c16_8']	有見所斷有修所斷有不斷欲說何者。	有見所斷有修所斷有不斷欲說何者。	There are those that are to be eliminated by seeing, those that are to be eliminated by cultivation, and those that are not to be eliminated. Which one do you want to talk about?
+['ZH_T27_1545_015:0075c17_1']	若言為我說過去法。	若言為我說過去法。	If you say, Speak to me about past dharmas,
+['ZH_T27_1545_015:0075c17_13']	應告彼言過去法亦有多種。	應告彼言過去法亦有多種。	You should tell them, Past dharmas are also of many kinds.
+['ZH_T27_1545_015:0075c18_9']	有善有不善有無記欲說何者。	有善有不善有無記欲說何者。	There are wholesome, unwholesome, and indeterminate ones. Which one do you want to talk about?
+['ZH_T27_1545_015:0075c19_1']	若言為我說善法。	若言為我說善法。	If you say, Speak to me about wholesome dharmas,
+['ZH_T27_1545_015:0075c19_12']	應告彼言善法亦有多種。	應告彼言善法亦有多種。	You should tell them, Wholesome dharmas are also of many kinds.
+['ZH_T27_1545_015:0075c20_7']	有色有受想行識欲說何者。	有色有受想行識欲說何者。	There are form, feeling, perception, mental formations, and consciousness. Which one do you want to talk about?
+['ZH_T27_1545_015:0075c20_15']	若言為我說色法。	若言為我說色法。	If you say, Speak to me about dharmas of form,
+['ZH_T27_1545_015:0075c21_9']	應告彼言色法亦有多種。	應告彼言色法亦有多種。	You should tell them, Dharmas of form are also of many kinds.
+['ZH_T27_1545_015:0075c22_8']	有離殺生乃至有離雜穢語欲說何者。	有離殺生乃至有離雜穢語欲說何者。	There are those that are free from killing living beings up to those that are free from frivolous speech. Which one do you want to talk about?
+['ZH_T27_1545_015:0075c23_1']	若言為我說離殺生。	若言為我說離殺生。	If you say, Speak to me about being free from killing living beings,
+['ZH_T27_1545_015:0075c23_12', 'ZH_T27_1545_015:0075c24_1']	應告彼言離殺生有三種。🔽謂從無貪生。	應告彼言離殺生有三種。 謂從無貪生。	You should tell them, Being free from killing living beings is of three kinds.🔽It arises from non-greed,
+['ZH_T27_1545_015:0075c24_6']	從無瞋生。	從無瞋生。	it arises from non-hatred,
+['ZH_T27_1545_015:0075c24_11']	從無癡生。	從無癡生。	and it arises from non-delusion.
+['ZH_T27_1545_015:0075c24_16']	欲說何者。	欲說何者。	Which one do you want to talk about?
+['ZH_T27_1545_015:0075c25_7']	若言為我說從無貪生。	若言為我說從無貪生。	If you say, Speak to me about what arises from non-greed,
+['ZH_T27_1545_015:0075c26_3']	應告彼言無貪生者復有二種。	應告彼言無貪生者復有二種。	One should tell them, The arising of non-greed is also of two kinds.
+['ZH_T27_1545_015:0075c26_12']	謂表無表欲說何者。	謂表無表欲說何者。	Which do you mean, the manifested or the unmanifested?
+['ZH_T27_1545_015:0075c27_4']	若為知解故發問者。	若為知解故發問者。	If the question is asked for the sake of understanding,
+['ZH_T27_1545_015:0075c27_13']	則應如是分別而答。	則應如是分別而答。	one should answer by making distinctions in this way.
+['ZH_T27_1545_015:0075c28_3']	若為觸惱故問。	若為觸惱故問。	If the question is asked to provoke,
+['ZH_T27_1545_015:0075c29_1']	應反詰言法有眾多汝問何者不。	應反詰言法有眾多汝問何者不。	one should counter-question, There are many dharmas, which one do you ask about?
+['ZH_T27_1545_015:0075c29_13']	應為說有過去乃至有不斷。	應為說有過去乃至有不斷。	One should explain that there is past, up to there is uninterrupted.
+['ZH_T27_1545_015:0076a01_6']	若言為我說過去法。	若言為我說過去法。	If one says, Explain the past dharmas for me,
+['ZH_T27_1545_015:0076a02_4']	應反詰言過去法多汝問何者不。	應反詰言過去法多汝問何者不。	one should counter-question, There are many past dharmas, which one do you ask about?
+['ZH_T27_1545_015:0076a02_13']	應為說善不善無記。	應為說善不善無記。	One should explain that there are wholesome, unwholesome, and indeterminate.
+['ZH_T27_1545_015:0076a03_4']	若言為我說善法。	若言為我說善法。	If one says, Explain the wholesome dharmas for me,
+['ZH_T27_1545_015:0076a04_2']	應反詰言善法亦多汝問何者不。	應反詰言善法亦多汝問何者不。	one should counter-question, There are also many wholesome dharmas, which one do you ask about?
+['ZH_T27_1545_015:0076a04_10']	應為說色乃至識。	應為說色乃至識。	One should explain that there are form, up to consciousness.
+['ZH_T27_1545_015:0076a05_1']	若言為我說色法。	若言為我說色法。	If one says, Explain the dharmas of form for me,
+['ZH_T27_1545_015:0076a05_15']	應反詰言色法亦多汝問何者不。	應反詰言色法亦多汝問何者不。	one should counter-question, There are also many dharmas of form, which one do you ask about?
+['ZH_T27_1545_015:0076a06_11']	應為說離殺生乃至離雜穢語。	應為說離殺生乃至離雜穢語。	One should explain that there are abandoning killing, up to abandoning frivolous speech.
+['ZH_T27_1545_015:0076a07_3']	若言為我說離殺生。	若言為我說離殺生。	If one says, Explain abandoning killing for me,
+['ZH_T27_1545_015:0076a08_2']	應反詰言離殺生亦多汝問何者不。	應反詰言離殺生亦多汝問何者不。	One should counter-question, There are also many that abstain from killing. Which one do you ask about?
+['ZH_T27_1545_015:0076a08_16']	應為說從無貪生乃至從無癡生。	應為說從無貪生乃至從無癡生。	One should explain for them that it arises from non-greed, up to that it arises from non-delusion.
+['ZH_T27_1545_015:0076a10_10']	若言為我說從無貪生應反詰言從無貪生亦有眾多汝問何者不。	若言為我說從無貪生應反詰言從無貪生亦有眾多汝問何者不。	If they say, Explain for me how it arises from non-greed, one should counter-question, There are also many that arise from non-greed. Which one do you ask about?
+['ZH_T27_1545_015:0076a11_1']	應為說表及無表。	應為說表及無表。	One should explain for them that it is both indicated and unindicated.
+['ZH_T27_1545_015:0076a11_10']	若為觸惱故發問者。	若為觸惱故發問者。	If they ask in order to cause trouble,
+['ZH_T27_1545_015:0076a12_1']	則應如是總相反詰。	則應如是總相反詰。	one should then generally counter-question like this,
+['ZH_T27_1545_015:0076a12_10']	令彼問盡或令自答。	令彼問盡或令自答。	causing them to exhaust their questions or to answer themselves.
+['ZH_T27_1545_015:0076a13_1']	如有為知解故問。	如有為知解故問。	There are those who ask in order to understand,
+['ZH_T27_1545_015:0076a13_8']	有為觸惱故問。	有為觸惱故問。	there are those who ask in order to cause trouble.
+['ZH_T27_1545_015:0076a13_17']	如是有為求善故問。	如是有為求善故問。	There are those who ask in order to seek goodness,
+['ZH_T27_1545_015:0076a14_10']	有為試他覺慧淺深故問。	有為試他覺慧淺深故問。	there are those who ask in order to test others' shallow and deep awareness and understanding.
+['ZH_T27_1545_015:0076a15_1']	有為求義故問。	有為求義故問。	There are those who ask in order to seek meaning,
+['ZH_T27_1545_015:0076a15_8']	有為摧他故問。	有為摧他故問。	there are those who ask in order to defeat others.
+['ZH_T27_1545_015:0076a15_14', 'ZH_T27_1545_015:0076a16_1']	有質直故問。🔽有諂曲故問。	有質直故問。 有諂曲故問。	There are those who ask because of straightforwardness,🔽there are those who ask because of flattery.
+['ZH_T27_1545_015:0076a16_7']	有柔和故問。	有柔和故問。	There are those who ask because of gentleness,
+['ZH_T27_1545_015:0076a16_17']	有憍傲故問應知亦爾。	有憍傲故問應知亦爾。	there are those who ask because of arrogance. One should know it is also like this.
+['ZH_T27_1545_015:0076a17_8']	如是名為分別反詰。	如是名為分別反詰。	This is called discriminating counter-questioning.
+['ZH_T27_1545_015:0076a17_13']	二論差別。	二論差別。	Second, the distinction between the two treatises.
+['ZH_T27_1545_015:0076a18_4']	云何名應捨置記問。	云何名應捨置記問。	What is called a question to be set aside?
+['ZH_T27_1545_015:0076a18_13']	此問應以捨置記故。	此問應以捨置記故。	Because this question should be answered by setting it aside.
+['ZH_T27_1545_015:0076a19_4']	謂有外道來詣佛所。	謂有外道來詣佛所。	There was a non-Buddhist who came to where the Buddha was.
+['ZH_T27_1545_015:0076a19_8']	白佛言。	白佛言。	He said to the Buddha:
+['ZH_T27_1545_015:0076a19_12']	喬答摩。	喬答摩。	Gautama.
+['ZH_T27_1545_015:0076a20_2']	世間常耶乃至廣說。	世間常耶乃至廣說。	Is the world permanent? and so on.
+['ZH_T27_1545_015:0076a20_16']	四句世間有邊耶乃至廣說四句。	四句世間有邊耶乃至廣說四句。	The four statements: Is the world finite? and so on, the four statements.
+['ZH_T27_1545_015:0076a21_2']	世尊告曰。	世尊告曰。	The World-Honored One said:
+['ZH_T27_1545_015:0076a21_7']	皆不應記。	皆不應記。	All should not be answered.
+['ZH_T27_1545_015:0076a21_17']	問何故世尊不答此問。	問何故世尊不答此問。	Why did the World-Honored One not answer this question?
+['ZH_T27_1545_015:0076a22_12']	答彼諸外道執有實我名為世間。	答彼諸外道執有實我名為世間。	Answer: Those non-Buddhists grasped the existence of a real self and called it the world.
+['ZH_T27_1545_015:0076a23_4']	來詣佛所作如是問。	來詣佛所作如是問。	They came to where the Buddha was and asked this question.
+['ZH_T27_1545_015:0076a23_13']	佛作是念實我定無。	佛作是念實我定無。	The Buddha thought like this: A real self definitely does not exist.
+['ZH_T27_1545_015:0076a24_5']	若答言無彼當作是言。	若答言無彼當作是言。	If he answered no, they would say:
+['ZH_T27_1545_015:0076a24_11']	我不問有無。	我不問有無。	I did not ask about existence or non-existence.
+['ZH_T27_1545_015:0076a25_2']	若答言常或無常等。	若答言常或無常等。	If he answered permanent or impermanent and so on,
+['ZH_T27_1545_015:0076a25_11']	便不應理實我本無。	便不應理實我本無。	it would not be reasonable. A real self originally does not exist.
+['ZH_T27_1545_015:0076a26_2']	如何可說常無常等。	如何可說常無常等。	How can one say permanent, impermanent, and so on?
+['ZH_T27_1545_015:0076a26_11']	如有問他此石女兒。	如有問他此石女兒。	It is like someone asking another:
+['ZH_T27_1545_015:0076a27_2']	恭敬孝順及愛語不。	恭敬孝順及愛語不。	Is the daughter of a stone statue respectful, filial, and loving in speech?
+['ZH_T27_1545_015:0076a27_11']	彼作是念石女無兒。	彼作是念石女無兒。	They think, A barren woman has no child.
+['ZH_T27_1545_015:0076a28_3']	若答言無彼當作是言。	若答言無彼當作是言。	If one answers no, they will say,
+['ZH_T27_1545_015:0076a28_9']	我不問有無。	我不問有無。	I did not ask about existence or non-existence.
+['ZH_T27_1545_015:0076a29_4']	若我答言恭敬孝順及愛語者。	若我答言恭敬孝順及愛語者。	If I answer respect, filial obedience, and kind speech,
+['ZH_T27_1545_015:0076a29_13']	便不應理石女無兒。	便不應理石女無兒。	it would not be appropriate to say a barren woman has no child.
+['ZH_T27_1545_015:0076b01_4']	如何可說有恭敬等。	如何可說有恭敬等。	How can one speak of the existence of respect, etc.?
+['ZH_T27_1545_015:0076b01_11']	此亦如是所問。	此亦如是所問。	This is also like that. The question
+['ZH_T27_1545_015:0076b02_8']	非有非真非實不應道理故佛不答。	非有非真非實不應道理故佛不答。	is not about existence, truth, or reality, so the Buddha did not answer.
+['ZH_T27_1545_015:0076b03_1']	復有外道來詣佛所。	復有外道來詣佛所。	Again, a non-Buddhist came to where the Buddha was,
+['ZH_T27_1545_015:0076b03_8']	白佛言喬答摩。	白佛言喬答摩。	and said to the Buddha, Gautama,
+['ZH_T27_1545_015:0076b03_17']	命者即身為異身耶。	命者即身為異身耶。	is the life-principle the same as the body or different from the body?
+['ZH_T27_1545_015:0076b04_3']	世尊告曰。	世尊告曰。	The World-Honored One said,
+['ZH_T27_1545_015:0076b04_9']	俱不應記問。	俱不應記問。	Both should not be answered.
+['ZH_T27_1545_015:0076b04_18']	何故世尊不答此問。	何故世尊不答此問。	Why did the World-Honored One not answer this question?
+['ZH_T27_1545_015:0076b05_13']	答彼諸外道執有實我名為命者。	答彼諸外道執有實我名為命者。	The answer is: those non-Buddhists grasp at the existence of a real self, which they call the life-principle.
+['ZH_T27_1545_015:0076b06_5']	來詣佛所作如是問。	來詣佛所作如是問。	They came to where the Buddha was and asked this question.
+['ZH_T27_1545_015:0076b06_10']	佛作是念。	佛作是念。	The Buddha thought like this:
+['ZH_T27_1545_015:0076b06_15']	實我定無。	實我定無。	A real self definitely does not exist.
+['ZH_T27_1545_015:0076b07_7']	若答言無彼當作是言。	若答言無彼當作是言。	If one answers no, they will say,
+['ZH_T27_1545_015:0076b07_13']	我不問有無。	我不問有無。	I did not ask about existence or non-existence.
+['ZH_T27_1545_015:0076b08_2']	若我答言即身。	若我答言即身。	If I answer the same as the body,
+['ZH_T27_1545_015:0076b08_9']	或異便不應理。	或異便不應理。	If different, it would not be reasonable.
+['ZH_T27_1545_015:0076b08_14']	實我本無。	實我本無。	The real self originally does not exist.
+['ZH_T27_1545_015:0076b09_4']	如何可說與身一異。	如何可說與身一異。	How can it be said to be the same as or different from the body?
+['ZH_T27_1545_015:0076b09_17']	如有問他兔角牛角為相似不。	如有問他兔角牛角為相似不。	It is like someone asking another, Are the horns of a rabbit and the horns of an ox similar or not?
+['ZH_T27_1545_015:0076b10_8']	彼作是念兔角本無。	彼作是念兔角本無。	The other thinks, The horns of a rabbit originally do not exist.
+['ZH_T27_1545_015:0076b10_13']	若答言無。	若答言無。	If one answers, They do not exist,
+['ZH_T27_1545_015:0076b11_1']	彼當作是言。	彼當作是言。	the other will say,
+['ZH_T27_1545_015:0076b11_7']	我不問有無。	我不問有無。	I did not ask about existence or non-existence.
+['ZH_T27_1545_015:0076b11_18']	若我答言相似或不相似。	若我答言相似或不相似。	If I answer, They are similar or They are not similar,
+['ZH_T27_1545_015:0076b12_4']	便不應理。	便不應理。	it would not be reasonable.
+['ZH_T27_1545_015:0076b12_9']	兔角本無。	兔角本無。	The horns of a rabbit originally do not exist.
+['ZH_T27_1545_015:0076b13_6']	如何可說與牛角相似不相似耶。	如何可說與牛角相似不相似耶。	How can it be said that they are similar to or different from the horns of an ox?
+['ZH_T27_1545_015:0076b13_13']	此亦如是所問。	此亦如是所問。	This is also like that. The question
+['ZH_T27_1545_015:0076b14_2']	非有非真非實。	非有非真非實。	is not about existence, truth, or reality.
+['ZH_T27_1545_015:0076b14_11']	不應道理故佛不答。	不應道理故佛不答。	It is not reasonable, so the Buddha did not answer.
+['ZH_T27_1545_015:0076b15_7']	復有外道來詣佛所白佛言。	復有外道來詣佛所白佛言。	Again, a non-Buddhist came to where the Buddha was and said to the Buddha,
+['ZH_T27_1545_015:0076b15_11']	喬答摩。	喬答摩。	Gautama,
+['ZH_T27_1545_015:0076b16_6']	如來死後為有為無乃至四句。	如來死後為有為無乃至四句。	after the Tathāgata's death, does he exist, does he not exist, up to the four propositions?
+['ZH_T27_1545_015:0076b16_11']	世尊告曰。	世尊告曰。	The World-Honored One said,
+['ZH_T27_1545_015:0076b16_16']	皆不應記。	皆不應記。	All should not be determined.
+['ZH_T27_1545_015:0076b17_8']	問何故世尊不答此問。	問何故世尊不答此問。	Why did the World-Honored One not answer this question?
+['ZH_T27_1545_015:0076b18_5']	答彼諸外道執有實我名為如來。	答彼諸外道執有實我名為如來。	Answer: Those non-Buddhists hold that there is a real self, which they call the Tathāgata.
+['ZH_T27_1545_015:0076b18_12']	彼執此我本無。	彼執此我本無。	They hold that this self did not exist before,
+['ZH_T27_1545_015:0076b18_16']	而有問。	而有問。	but now exists.
+['ZH_T27_1545_015:0076b19_9']	佛死後為有為無乃至廣說。	佛死後為有為無乃至廣說。	The Buddha, after his death, is asked whether he exists or not, and so on, in detail.
+['ZH_T27_1545_015:0076b19_14']	佛作是念。	佛作是念。	The Buddha thinks like this:
+['ZH_T27_1545_015:0076b20_3']	如是本無今有。	如是本無今有。	This which did not exist before now exists.
+['ZH_T27_1545_015:0076b20_10']	實我畢竟無體。	實我畢竟無體。	The real self is ultimately without substance.
+['ZH_T27_1545_015:0076b21_1']	若答此我今尚是無。	若答此我今尚是無。	If I answer that this self now still does not exist,
+['ZH_T27_1545_015:0076b21_7']	彼當作是言。	彼當作是言。	they will say:
+['ZH_T27_1545_015:0076b21_14']	我不問今有無。	我不問今有無。	I did not ask about its existence or non-existence now.
+['ZH_T27_1545_015:0076b22_8']	若我答言死後有等便不應理。	若我答言死後有等便不應理。	If I answer that it exists after death, it would not be reasonable.
+['ZH_T27_1545_015:0076b22_17']	如是實我今尚是無。	如是實我今尚是無。	In this way, the real self now still does not exist.
+['ZH_T27_1545_015:0076b23_8']	如何可說死後有等。	如何可說死後有等。	How can it be said to exist after death and so on?
+['ZH_T27_1545_015:0076b23_17']	所問非有非真非實。	所問非有非真非實。	The question is neither existent nor real,
+['ZH_T27_1545_015:0076b24_8']	不應道理故佛不答。	不應道理故佛不答。	and is not reasonable, so the Buddha does not answer.
+['ZH_T27_1545_015:0076b25_4']	復有外道來詣佛所白佛言。	復有外道來詣佛所白佛言。	Again, a non-Buddhist came to where the Buddha was and said to the Buddha:
+['ZH_T27_1545_015:0076b25_8']	喬答摩。	喬答摩。	Gautama,
+['ZH_T27_1545_015:0076b25_14']	自作自受耶。	自作自受耶。	do you create karma and experience its results yourself?
+['ZH_T27_1545_015:0076b26_4']	世尊告曰此不應記。	世尊告曰此不應記。	The World-Honored One said: This should not be determined.
+['ZH_T27_1545_015:0076b27_10']	問何故世尊不答此問答彼諸外道執有實我自作自受。	問何故世尊不答此問答彼諸外道執有實我自作自受。	Question: Why did the World-Honored One not answer this question? Answer: Those non-Buddhists hold that there is a real self that acts and experiences itself.
+['ZH_T27_1545_015:0076b28_6']	佛說無我故不應答義如前說。	佛說無我故不應答義如前說。	The Buddha teaches no-self, so he should not answer. The meaning is as explained above.
+['ZH_T27_1545_015:0076b28_16']	彼復問言他作他受耶。	彼復問言他作他受耶。	They further asked: Is it that others act and others experience?
+['ZH_T27_1545_015:0076b29_7']	世尊告曰此不應記。	世尊告曰此不應記。	The World-Honored One said: This should not be determined.
+['ZH_T27_1545_015:0076b29_17']	問何故世尊不答此問。	問何故世尊不答此問。	Question: Why did the World-Honored One not answer this question?
+['ZH_T27_1545_015:0076c01_14']	答彼諸外道執有實我名自在天等。	答彼諸外道執有實我名自在天等。	Answer: Those non-Buddhists hold that there is a real self called the god Maheśvara, etc.
+['ZH_T27_1545_015:0076c02_3']	彼能作我受果。	彼能作我受果。	They can act and experience for the self.
+['ZH_T27_1545_015:0076c02_16']	佛說無我故不應答義如前說。	佛說無我故不應答義如前說。	The Buddha teaches no-self, so he should not answer. The meaning is as explained above.
+['ZH_T27_1545_015:0076c03_9']	彼復問言自他作自受耶。	彼復問言自他作自受耶。	They further asked: Is it that oneself and others act and oneself experiences?
+['ZH_T27_1545_015:0076c03_18']	世尊告曰此不應記。	世尊告曰此不應記。	The World-Honored One said: This should not be determined.
+['ZH_T27_1545_015:0076c04_9']	問何故世尊不答此問。	問何故世尊不答此問。	Question: Why did the World-Honored One not answer this question?
+['ZH_T27_1545_015:0076c05_6']	答彼諸外道執有實我名為自他。	答彼諸外道執有實我名為自他。	Answer: Those non-Buddhists hold that there is a real self called oneself and others.
+['ZH_T27_1545_015:0076c06_2']	佛說無我故不應答義如前說。	佛說無我故不應答義如前說。	The Buddha teaches no-self, so he should not answer. The meaning is as explained above.
+['ZH_T27_1545_015:0076c06_15']	彼復問言非自他作無因而生。	彼復問言非自他作無因而生。	They further asked: Is it that it is not created by oneself or others, but arises without a cause?
+['ZH_T27_1545_015:0076c07_3']	無作無受耶。	無作無受耶。	Is there no action and no experience?
+['ZH_T27_1545_015:0076c07_12']	世尊告曰此不應記。	世尊告曰此不應記。	The World-Honored One said, This should not be answered.
+['ZH_T27_1545_015:0076c08_4']	問何故世尊不答此問。	問何故世尊不答此問。	Question: Why did the World-Honored One not answer this question?
+['ZH_T27_1545_015:0076c08_14']	答世尊常說果從因生。	答世尊常說果從因生。	Answer: The World-Honored One always says that effects arise from causes.
+['ZH_T27_1545_015:0076c09_5']	自作自受故不應答。	自作自受故不應答。	Because one creates and experiences oneself, he should not answer.
+['ZH_T27_1545_015:0076c10_2']	問何故於彼外道諸問應捨置耶。	問何故於彼外道諸問應捨置耶。	Question: Why should the Buddha's questions to the non-Buddhists be set aside?
+['ZH_T27_1545_015:0076c10_14']	答彼問不引義利不引善法。	答彼問不引義利不引善法。	Answer: Because those questions do not lead to benefit, do not lead to good dharmas,
+['ZH_T27_1545_015:0076c11_10']	不順梵行不發覺慧不得涅槃。	不順梵行不發覺慧不得涅槃。	do not accord with pure conduct, do not give rise to wisdom, and do not attain nirvana.
+['ZH_T27_1545_015:0076c12_2']	是故彼問皆應捨置。	是故彼問皆應捨置。	Therefore, those questions should all be set aside.
+['ZH_T27_1545_015:0076c12_12']	問前三有答可名為記。	問前三有答可名為記。	Question: The first three with answers can be called answers.
+['ZH_T27_1545_015:0076c13_3']	第四無答云何名記。	第四無答云何名記。	The fourth without an answer, how can it be called an answer?
+['ZH_T27_1545_015:0076c13_13']	答佛雖告言此不應記。	答佛雖告言此不應記。	Answer: Although the Buddha said, This should not be answered,
+['ZH_T27_1545_015:0076c14_5']	而實已與答理相應。	而實已與答理相應。	but in reality he has already given an answer that accords with reason.
+['ZH_T27_1545_015:0076c14_14']	是根本答故亦名記。	是根本答故亦名記。	Because it is the fundamental answer, it is also called an answer.
+['ZH_T27_1545_015:0076c15_5']	令彼問者得正解故。	令彼問者得正解故。	Because it causes the questioner to attain correct understanding.
+['ZH_T27_1545_015:0076c15_14']	或有默然於理得勝。	或有默然於理得勝。	Or there are those who remain silent and attain victory in principle.
+['ZH_T27_1545_015:0076c16_6']	況酬彼問而非記耶。	況酬彼問而非記耶。	How much more so for answering their questions and not answering them?
+['ZH_T27_1545_015:0076c16_15']	昔有外道名扇帙略。	昔有外道名扇帙略。	In the past, there was a non-Buddhist named Śreṇika.
+['ZH_T27_1545_015:0076c17_3']	聰明廣學。	聰明廣學。	He was intelligent and learned widely.
+['ZH_T27_1545_015:0076c17_12']	是大論師為論議故。	是大論師為論議故。	This great debater, for the sake of debate,
+['ZH_T27_1545_015:0076c18_2']	來入迦濕彌羅國。	來入迦濕彌羅國。	This great debater came to the country of Kāśmīra for the sake of debate.
+['ZH_T27_1545_015:0076c18_15']	爾時此國有阿羅漢名筏素羅。	爾時此國有阿羅漢名筏素羅。	At that time, there was an arhat in this country named Vāṣpa.
+['ZH_T27_1545_015:0076c19_6']	三明六通具八解脫。	三明六通具八解脫。	He had the three insights, the six spiritual powers, and was endowed with the eight liberations.
+['ZH_T27_1545_015:0076c20_3', 'ZH_T27_1545_015:0076c20_12']	學窮內外恒住波利質呾羅林中。🔽時扇帙略為捔論故。	學窮內外恒住波利質呾羅林中。 時扇帙略為捔論故。	Having studied both internally and externally, he always resided in the Pāṇḍava Grove.🔽At that time, Saṃghabhadra came to him for the sake of a debate.
+['ZH_T27_1545_015:0076c21_4']	來詣其所共相問訊。	來詣其所共相問訊。	They greeted each other.
+['ZH_T27_1545_015:0076c21_13']	種種慰勞在一面坐。	種種慰勞在一面坐。	After various kinds of comforting, they sat to one side.
+['ZH_T27_1545_015:0076c21_18']	白言苾芻。	白言苾芻。	He said to the bhikṣu,
+['ZH_T27_1545_015:0076c22_4']	欲相捔論。	欲相捔論。	We wish to have a debate.
+['ZH_T27_1545_015:0076c22_13']	尊者與我誰先立宗。	尊者與我誰先立宗。	Venerable one, who should establish the thesis first?
+['ZH_T27_1545_015:0076c23_8']	筏素羅言我是舊住應先立宗。	筏素羅言我是舊住應先立宗。	Vāṣpa said, I am the resident here and should establish the thesis first.
+['ZH_T27_1545_015:0076c24_4']	但汝遠來稍當疲倦隨意先立。	但汝遠來稍當疲倦隨意先立。	But since you have come from afar and are somewhat tired, you may establish it as you wish.
+['ZH_T27_1545_015:0076c24_13']	時扇帙略便立宗言。	時扇帙略便立宗言。	Then Saṃghabhadra established the thesis, saying,
+['ZH_T27_1545_015:0076c25_4']	一切立論皆有報答。	一切立論皆有報答。	All who establish a thesis have a response.
+['ZH_T27_1545_015:0076c25_13']	覺慧若盡其論乃窮。	覺慧若盡其論乃窮。	If wisdom is exhausted, then the debate is over.
+['ZH_T27_1545_015:0076c26_4']	時筏素羅默然而住。	時筏素羅默然而住。	At that time, Vāṣpa remained silent.
+['ZH_T27_1545_015:0076c27_4']	彼扇帙略與諸弟子歡喜而起唱如是言。	彼扇帙略與諸弟子歡喜而起唱如是言。	Saṃghabhadra, together with his disciples, joyfully arose and proclaimed, This is so!
+['ZH_T27_1545_015:0076c27_13']	今此苾芻已墮負處。	今此苾芻已墮負處。	Now this bhikṣu has fallen into a losing position.
+['ZH_T27_1545_015:0076c28_4']	時筏素羅告彼弟子。	時筏素羅告彼弟子。	At that time, Vāṣpa told his disciples,
+['ZH_T27_1545_015:0076c28_13']	汝師若是扇帙略者。	汝師若是扇帙略者。	If your teacher is a debater,
+['ZH_T27_1545_015:0076c29_5']	不久當悟誰墮負處。	不久當悟誰墮負處。	he will soon realize who has fallen into a losing position.
+['ZH_T27_1545_015:0077a01_1']	彼諸弟子聞之嗤笑隨逐其師。	彼諸弟子聞之嗤笑隨逐其師。	Those disciples heard this and laughed, following their teacher.
+['ZH_T27_1545_015:0077a01_6']	從林而出。	從林而出。	They came out of the forest.
+['ZH_T27_1545_015:0077a01_15']	時扇帙略尋即思惟。	時扇帙略尋即思惟。	At that time, Śaṇḍhila immediately thought,
+['ZH_T27_1545_015:0077a02_8']	何故沙門作如是說乃便自悟。	何故沙門作如是說乃便自悟。	Why did the śramaṇa say this? He then realized,
+['ZH_T27_1545_015:0077a03_3']	我立論言一切立論皆有報答。	我立論言一切立論皆有報答。	I established the proposition that all propositions have a response.
+['ZH_T27_1545_015:0077a03_16']	苾芻默然是我墮負深生慚𧹞。	苾芻默然是我墮負深生慚𧹞。	The bhikṣu's silence is my losing position. I feel deeply ashamed.
+['ZH_T27_1545_015:0077a04_11']	告弟子言吾所立論今已墮負。	告弟子言吾所立論今已墮負。	He told his disciples, The proposition I established has now fallen into a losing position.
+['ZH_T27_1545_015:0077a05_3']	可與汝等馳還懺謝。	可與汝等馳還懺謝。	You can race back with me to apologize.
+['ZH_T27_1545_015:0077a05_12']	弟子白言何名墮負。	弟子白言何名墮負。	The disciples said, What is meant by falling into a losing position?
+['ZH_T27_1545_015:0077a06_2']	時扇帙略具為述之。	時扇帙略具為述之。	At that time, Śaṇḍhila explained it in detail.
+['ZH_T27_1545_015:0077a06_7']	弟子報言。	弟子報言。	The disciples replied,
+['ZH_T27_1545_015:0077a06_16']	已對大眾得勝而來。	已對大眾得勝而來。	We have already come back victorious after facing the great assembly.
+['ZH_T27_1545_015:0077a07_6']	何須復往懺謝取辱。	何須復往懺謝取辱。	Why should we go back again to apologize and take humiliation?
+['ZH_T27_1545_015:0077a07_11']	其師報曰。	其師報曰。	Their teacher said,
+['ZH_T27_1545_015:0077a07_18']	我寧於智者邊。	我寧於智者邊。	I would rather
+['ZH_T27_1545_015:0077a08_10']	受劣不能於愚者邊取勝。	受劣不能於愚者邊取勝。	If one accepts defeat from a fool, one cannot be considered superior.
+['ZH_T27_1545_015:0077a09_3']	即與弟子還入林中。	即與弟子還入林中。	Then he returned to the forest with his disciples.
+['ZH_T27_1545_015:0077a09_12']	到尊者所頂禮雙足。	到尊者所頂禮雙足。	He went to the Venerable and bowed at his feet.
+['ZH_T27_1545_015:0077a10_4']	作如是言尊者得勝。	作如是言尊者得勝。	He said, The Venerable has won.
+['ZH_T27_1545_015:0077a10_17']	我已墮負尊者是師我是弟子。	我已墮負尊者是師我是弟子。	I have lost. The Venerable is the teacher and I am the disciple.
+['ZH_T27_1545_015:0077a11_7']	從今以後請常教誨。	從今以後請常教誨。	From now on, please always instruct me.
+['ZH_T27_1545_015:0077a11_16']	如是默然於理得勝。	如是默然於理得勝。	In this way, remaining silent is also considered a victory.
+['ZH_T27_1545_015:0077a12_7']	況酬彼問而不名答。	況酬彼問而不名答。	How much more so when answering his question, which is not considered an answer.
+['ZH_T27_1545_015:0077a12_16']	是故四種皆名為記。	是故四種皆名為記。	Therefore, all four are called answers.Here is the corrected and aligned text:
+['ZH_T27_1545_015:0077a13_100']	說一切有部發智大毘婆沙論卷第十五	說一切有部發智大毘婆沙論卷第十五	Sarvâstivāda Abhidharma-mahāvibhāṣā-śāstra, fascicle 15

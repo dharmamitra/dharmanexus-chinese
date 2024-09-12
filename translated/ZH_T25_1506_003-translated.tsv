@@ -1,0 +1,737 @@
+segmentnr	original	analyzed	translated
+['ZH_T25_1506_003:0025b02_0']	三法度論卷下	三法度論卷下	Three Dharmas Treatise, Scroll 2
+['ZH_T25_1506_003:0025b04_0']	東晉罽賓三藏瞿曇僧伽提婆譯	東晉罽賓三藏瞿曇僧伽提婆譯	Translated by Gautama Saṃghadeva, Tripiṭaka Master from Kaśmīra in the Eastern Jin
+['ZH_T25_1506_003:0025b05_0']	3 依品依品第三	3 依品依品第三	Chapter 3: Relying on the Chapters
+['ZH_T25_1506_003:0025b06_1']	問：	問：	Question:
+['ZH_T25_1506_003:0025b06_7']	已說德及惡。	已說德及惡。	Virtuous and unvirtuous have already been explained.
+['ZH_T25_1506_003:0025b06_12']	云何為依？	云何為依？	What are the bases?
+['ZH_T25_1506_003:0025b06_14']	答：	答：	Answer:
+['ZH_T25_1506_003:0025b06_23']	依者，陰、界、入。	依者，陰、界、入。	The bases are the aggregates, realms, and sense bases.
+['ZH_T25_1506_003:0025b07_15']	陰、界、入者，此三是依，可依故說依。	陰、界、入者，此三是依，可依故說依。	The aggregates, realms, and sense bases - these three are the bases, because they can be relied upon, they are called bases.
+['ZH_T25_1506_003:0025b08_2']	可依者是立義。	可依者是立義。	That which can be relied upon is the established meaning.
+['ZH_T25_1506_003:0025b09_7']	眾生於陰、界、入作依，行德及惡，是故當知此是德惡所依。	眾生於陰、界、入作依，行德及惡，是故當知此是德惡所依。	Sentient beings rely on the aggregates, realms, and sense bases to practice virtue and unvirtue. Therefore, you should know that these are the bases of virtue and unvirtue.
+['ZH_T25_1506_003:0025b09_9']	問：	問：	Question:
+['ZH_T25_1506_003:0025b09_14']	云何為陰？	云何為陰？	What are the aggregates?
+['ZH_T25_1506_003:0025b09_16']	答：	答：	Answer:
+['ZH_T25_1506_003:0025b10_1']	陰者，色、行、知。	陰者，色、行、知。	The aggregates are form, mental activities, and cognition.
+['ZH_T25_1506_003:0025b10_15']	色、行、知者，此三當知是陰。	色、行、知者，此三當知是陰。	Form, mental activities, and cognition - these three should be known as the aggregates.
+['ZH_T25_1506_003:0025b11_1']	陰、積聚、束，同一義。	陰、積聚、束，同一義。	Aggregates, accumulations, and bundles have the same meaning.
+['ZH_T25_1506_003:0025b12_3']	於中青黃赤白、麁細長短方圓比，當知總是色陰。	於中青黃赤白、麁細長短方圓比，當知總是色陰。	Among them, blue, yellow, red, white, coarse, fine, long, short, square, round, and so on, should all be known as the form aggregate.
+['ZH_T25_1506_003:0025b13_7']	於中色者，四大及四大所造可見不可見，是說色陰。	於中色者，四大及四大所造可見不可見，是說色陰。	Among them, form refers to the four great elements and what is derived from the four great elements, visible and invisible. This is called the form aggregate.
+['ZH_T25_1506_003:0025b13_18']	四大及造色者，是二種：	四大及造色者，是二種：	The four great elements and derived form are of two kinds:
+['ZH_T25_1506_003:0025b14_5']	可見及不可見。	可見及不可見。	Visible and invisible.
+['ZH_T25_1506_003:0025b14_14']	可見者，謂眼所見。	可見者，謂眼所見。	The visible refers to what is seen by the eyes.
+['ZH_T25_1506_003:0025b15_5']	不可見者，是聲香味細滑。	不可見者，是聲香味細滑。	The invisible refers to sound, smell, taste, and touch.
+['ZH_T25_1506_003:0025b15_14']	眼耳鼻舌身及四大。	眼耳鼻舌身及四大。	The eyes, ears, nose, tongue, body, and the four great elements.
+['ZH_T25_1506_003:0025b15_16']	問：	問：	Question:
+['ZH_T25_1506_003:0025b17_1']	說色者四大及四大造，此中四大尚不知，況復四大造！	說色者四大及四大造，此中四大尚不知，況復四大造！	It is said that form is the four great elements and what is derived from the four great elements. Here, the four great elements are not even known, let alone what is derived from the four great elements!
+['ZH_T25_1506_003:0025b17_7']	云何為四大？	云何為四大？	What are the four great elements?
+['ZH_T25_1506_003:0025b17_9']	答：	答：	Answer:
+['ZH_T25_1506_003:0025b17_20']	大者，地、水、火、風。	大者，地、水、火、風。	The great ones are earth, water, fire, and wind.
+['ZH_T25_1506_003:0025b18_6']	此地、水、火、風，假名是大。	此地、水、火、風，假名是大。	These earth, water, fire, and wind are provisionally called the great ones.
+['ZH_T25_1506_003:0025b19_10']	是色一一及合，於中堅相地、濕相水、熱相火、動相風。	是色一一及合，於中堅相地、濕相水、熱相火、動相風。	This form, each and combined, has the characteristic of solidity as earth, the characteristic of wetness as water, the characteristic of heat as fire, and the characteristic of movement as wind.
+['ZH_T25_1506_003:0025b20_12']	彼造色者，烟、雲霧、影、闇明、日，五色五情如是比。	彼造色者，烟、雲霧、影、闇明、日，五色五情如是比。	What is derived from them refers to smoke, clouds, fog, shadow, darkness, light, the five colors, and the five sense faculties, and so forth.
+['ZH_T25_1506_003:0025b21_1']	問：	問：	Question:
+['ZH_T25_1506_003:0025b21_6']	已說色陰。	已說色陰。	The form aggregate has already been explained.
+['ZH_T25_1506_003:0025b21_11']	云何為行？	云何為行？	What is the aggregate of mental formations?
+['ZH_T25_1506_003:0025b21_13']	答：	答：	The answer:
+['ZH_T25_1506_003:0025b21_23']	行者，依身、口、心。	行者，依身、口、心。	Mental formations are based on body, speech, and mind.
+['ZH_T25_1506_003:0025b23_4']	此依於身故說依身，依於口故說依口，依於心故說依心。	此依於身故說依身，依於口故說依口，依於心故說依心。	Because they are based on the body, they are said to be based on the body. Because they are based on speech, they are said to be based on speech. Because they are based on the mind, they are said to be based on the mind.
+['ZH_T25_1506_003:0025b23_21']	依身、口、心作行，作有為行故說行。	依身、口、心作行，作有為行故說行。	Mental formations are called formations because they are mental activities that are based on the body, speech, and mind, and because they are conditioned activities.
+['ZH_T25_1506_003:0025b24_5']	如佛契經說：	如佛契經說：	As stated in the Buddha's sutras:
+['ZH_T25_1506_003:0025b25_3']	「色者有為行，彼復更作，如子復造子。	「色者有為行，彼復更作，如子復造子。	Form is a conditioned formation, and it further creates, like a son creating another son.
+['ZH_T25_1506_003:0025b25_15']	」如色，當知五陰亦如是。	」如色，當知五陰亦如是。	Just as with form, the five aggregates should be understood in the same way.
+['ZH_T25_1506_003:0025b26_13']	彼無量種無量合作已，謂之五陰，如穀聚。	彼無量種無量合作已，謂之五陰，如穀聚。	Having created them in countless ways and with countless activities, they are called the five aggregates, like a heap of grain.
+['ZH_T25_1506_003:0025b26_16']	行者：	行者：	Mental formations:
+['ZH_T25_1506_003:0025b27_7']	福、非福、不動，是三說行。	福、非福、不動，是三說行。	Meritorious, non-meritorious, and imperturbable - these three are called mental formations.
+['ZH_T25_1506_003:0025b27_9']	問：	問：	Question:
+['ZH_T25_1506_003:0025b27_14']	云何為知？	云何為知？	What is meant by knowing?
+['ZH_T25_1506_003:0025b27_16']	答：	答：	Answer:
+['ZH_T25_1506_003:0025b28_1']	知者，痛、想、識。	知者，痛、想、識。	Knowing refers to feeling, perception, and consciousness.
+['ZH_T25_1506_003:0025b28_18']	此三是知，亦說道法，以道不相離故。	此三是知，亦說道法，以道不相離故。	These three are knowing, and they are also called the path and the Dharma, because the path is inseparable.
+['ZH_T25_1506_003:0025b29_2']	如世尊說：	如世尊說：	As the World-Honored One said:
+['ZH_T25_1506_003:0025b29_10']	「若痛者即是知。	「若痛者即是知。	If pain is the knower,
+['ZH_T25_1506_003:0025b29_13']	」問：	」問：	 asked:
+['ZH_T25_1506_003:0025b29_18']	云何為痛？	云何為痛？	What is pain?
+['ZH_T25_1506_003:0025b29_20']	答：	答：	The answer:
+['ZH_T25_1506_003:0025c01_7']	痛者，樂、苦、不苦不樂痛。	痛者，樂、苦、不苦不樂痛。	Pain is pleasant, painful, and neither pleasant nor painful.
+['ZH_T25_1506_003:0025c01_12']	痛性說痛。	痛性說痛。	The nature of pain is said to be pain.
+['ZH_T25_1506_003:0025c02_2']	痛無所由，痛痛即能痛。	痛無所由，痛痛即能痛。	Pain has no basis, pain itself is able to feel pain.
+['ZH_T25_1506_003:0025c02_13']	若痛有由者，應有異命。	若痛有由者，應有異命。	If pain has a basis, it should be different from life.
+['ZH_T25_1506_003:0025c03_4']	若即能痛者，應即是命；	若即能痛者，應即是命；	If it is able to feel pain, it should be life itself;
+['ZH_T25_1506_003:0025c03_15']	但痛非命，故痛性是痛。	但痛非命，故痛性是痛。	But pain is not life, therefore the nature of pain is pain.
+['ZH_T25_1506_003:0025c04_7']	是分別字者，說此痛三種：	是分別字者，說此痛三種：	This is the analysis of the word, which says this pain is of three kinds:
+['ZH_T25_1506_003:0025c04_19']	樂痛、苦痛、不苦不樂痛。	樂痛、苦痛、不苦不樂痛。	Pleasant pain, painful pain, and neither pleasant nor painful pain.
+['ZH_T25_1506_003:0025c06_6']	是各各相緣，緣樂痛有苦痛，緣苦痛有樂痛，緣俱有不苦不樂痛。	是各各相緣，緣樂痛有苦痛，緣苦痛有樂痛，緣俱有不苦不樂痛。	Each has its own object, from pleasant pain there is painful pain, from painful pain there is pleasant pain, from both there is neither pleasant nor painful pain.
+['ZH_T25_1506_003:0025c06_11']	如世尊說：	如世尊說：	As the World-Honored One said:
+['ZH_T25_1506_003:0025c07_16']	「樂痛與苦痛對，苦痛與樂痛對，樂苦痛與不苦不樂痛對。	「樂痛與苦痛對，苦痛與樂痛對，樂苦痛與不苦不樂痛對。	Pleasant pain and painful pain are opposites, painful pain and pleasant pain are opposites, pleasant and painful pain and neither pleasant nor painful pain are opposites.
+['ZH_T25_1506_003:0025c08_4']	」對者是怨敵義。	」對者是怨敵義。	Opposite means hostile.
+['ZH_T25_1506_003:0025c08_6']	問：	問：	Asked:
+['ZH_T25_1506_003:0025c08_11']	云何樂痛？	云何樂痛？	What is pleasant pain?
+['ZH_T25_1506_003:0025c08_13']	答：	答：	The answer:
+['ZH_T25_1506_003:0025c09_1']	樂者，欲、不惡、無著生。	樂者，欲、不惡、無著生。	Pleasure means desire, non-aversion, and non-attachment arising.
+['ZH_T25_1506_003:0025c09_8']	樂痛者有三種：	樂痛者有三種：	There are three kinds of pleasant feelings:
+['ZH_T25_1506_003:0025c09_19']	欲生、不惡生、無著生。	欲生、不惡生、無著生。	Desire arising, non-aversion arising, and non-attachment arising.
+['ZH_T25_1506_003:0025c10_9']	於中欲生者，行五欲悅樂。	於中欲生者，行五欲悅樂。	Among them, desire arising means the pleasure of engaging in the five desires.
+['ZH_T25_1506_003:0025c11_2']	不惡生者，不惡名說不增惡。	不惡生者，不惡名說不增惡。	Non-aversion arising means non-aversion is said to be non-increasing aversion.
+['ZH_T25_1506_003:0025c12_1']	是行善無欲戒，於戒不悔，意由此悅樂。	是行善無欲戒，於戒不悔，意由此悅樂。	This is practicing the precepts without desire, and due to this, the mind is pleased with the precepts and has no regrets.
+['ZH_T25_1506_003:0025c13_11']	無著生者，伏根離五欲，無亂意行禪無量等時悅樂，是說無著生。	無著生者，伏根離五欲，無亂意行禪無量等時悅樂，是說無著生。	Non-attachment arising means when subduing the faculties, separating from the five desires, and practicing the dhyānas and immeasurables with an undistracted mind, there is pleasure, which is said to be non-attachment arising.
+['ZH_T25_1506_003:0025c14_7']	無著名不著，於根義亦復說不染。	無著名不著，於根義亦復說不染。	Non-attachment is also said to be non-defilement in the meaning of the faculties.
+['ZH_T25_1506_003:0025c14_14']	是說樂痛三種。	是說樂痛三種。	This is said to be the three kinds of pleasant feelings.
+['ZH_T25_1506_003:0025c14_16']	問：	問：	Question:
+['ZH_T25_1506_003:0025c15_1']	云何苦痛？	云何苦痛？	What is painful feeling?
+['ZH_T25_1506_003:0025c15_3', 'ZH_T25_1506_003:0025c15_12', 'ZH_T25_1506_003:0025c15_25']	答：🔽苦者，生、老、死。🔽生、老、死者，此三是苦痛。	答： 苦者，生、老、死。 生、老、死者，此三是苦痛。	Answer:🔽Pain means birth, old age, and death.🔽Birth, old age, and death, these three are painful feelings.
+['ZH_T25_1506_003:0025c17_6']	於中生苦如生癰，老苦如初發癰，死苦如已發癰深入骨節中。	於中生苦如生癰，老苦如初發癰，死苦如已發癰深入骨節中。	Among them, the pain of birth is like a pimple forming, the pain of old age is like the initial appearance of a pimple, and the pain of death is like a pimple that has already appeared and penetrates deep into the joints of the bones.
+['ZH_T25_1506_003:0025c18_1']	復次生故有一切苦，故曰生苦。	復次生故有一切苦，故曰生苦。	Furthermore, because of birth, there is all suffering, therefore it is called the suffering of birth.
+['ZH_T25_1506_003:0025c18_6']	如世尊說：	如世尊說：	As the World-Honored One said:
+['ZH_T25_1506_003:0025c18_17']	「生故有截手足如是比。	「生故有截手足如是比。	Because of birth, there is cutting off of hands and feet, and so on.
+['ZH_T25_1506_003:0025c19_14']	」老苦者色壯力壞故，死苦者愛相別離故。	」老苦者色壯力壞故，死苦者愛相別離故。	The suffering of old age is because the complexion, strength, and power deteriorate; the suffering of death is because of the separation of loved ones.
+['ZH_T25_1506_003:0025c19_19']	是謂苦痛。	是謂苦痛。	These are called painful feelings.
+['ZH_T25_1506_003:0025c20_1']	問：	問：	Question:
+['ZH_T25_1506_003:0025c20_9']	云何不苦不樂痛？	云何不苦不樂痛？	What is neither painful nor pleasant feeling?
+['ZH_T25_1506_003:0025c20_11']	答：	答：	Answer:
+['ZH_T25_1506_003:0025c20_20']	不苦不樂者，三界。	不苦不樂者，三界。	The neither painful nor pleasant one is the three realms.
+['ZH_T25_1506_003:0025c21_11']	若不苦不樂者，當知是三界。	若不苦不樂者，當知是三界。	If it is neither painful nor pleasant, it should be known as the three realms.
+['ZH_T25_1506_003:0025c22_3']	不苦不樂者，障礙於苦樂。	不苦不樂者，障礙於苦樂。	The neither painful nor pleasant one obstructs pain and pleasure.
+['ZH_T25_1506_003:0025c22_10']	是三界後當說。	是三界後當說。	This will be explained later in the three realms.
+['ZH_T25_1506_003:0025c23_16']	若使不苦不樂是三界，制前說苦樂，當知非以樂苦三界。	若使不苦不樂是三界，制前說苦樂，當知非以樂苦三界。	If the neither painful nor pleasant one is the three realms, the previously stated pain and pleasure should be known as not being the three realms of pain and pleasure.
+['ZH_T25_1506_003:0025c25_1']	欲界三痛、色界二樂及不苦不樂、無色界一不苦不樂。	欲界三痛、色界二樂及不苦不樂、無色界一不苦不樂。	The desire realm has three feelings, the form realm has two kinds of pleasure and neither painful nor pleasant, and the formless realm has one kind of neither painful nor pleasant.
+['ZH_T25_1506_003:0025c25_12']	是故不苦不樂當知三界。	是故不苦不樂當知三界。	Therefore, the neither painful nor pleasant one should be known as the three realms.
+['ZH_T25_1506_003:0025c25_14']	問：	問：	Question:
+['ZH_T25_1506_003:0025c25_20']	是痛為何依？	是痛為何依？	What is the basis of these feelings?
+['ZH_T25_1506_003:0025c26_1']	答：	答：	Answer:
+['ZH_T25_1506_003:0025c27_5']	樂者多欲所依，苦者多恚所依，不苦不樂者多癡所依。	樂者多欲所依，苦者多恚所依，不苦不樂者多癡所依。	Pleasure is the basis for much desire, pain is the basis for much anger, and neither-pain-nor-pleasure is the basis for much delusion.
+['ZH_T25_1506_003:0025c27_10']	所以者何？	所以者何？	Why is it so?
+['ZH_T25_1506_003:0025c28_8']	有樂痛無欲，能除欲，如三禪中苦痛。	有樂痛無欲，能除欲，如三禪中苦痛。	There is pleasant feeling without desire, which can eliminate desire, like the pain in the third dhyāna.
+['ZH_T25_1506_003:0025c29_3']	無恚，如世尊頭痛及傷腳不起恚。	無恚，如世尊頭痛及傷腳不起恚。	There is no anger, like the World-Honored One's headache and injured foot, yet he did not give rise to anger.
+['ZH_T25_1506_003:0026a01_6']	不苦不樂覺第四禪及四無色定，彼中無癡能除癡。	不苦不樂覺第四禪及四無色定，彼中無癡能除癡。	The neither-pain-nor-pleasure sensation in the fourth dhyāna and the four formless concentrations, there is no delusion that can eliminate delusion.
+['ZH_T25_1506_003:0026a01_16']	若爾者，隨義可得說。	若爾者，隨義可得說。	If that is so, then it can be said according to the meaning.
+['ZH_T25_1506_003:0026a01_18']	問：	問：	Question:
+['ZH_T25_1506_003:0026a02_2']	彼從何生？	彼從何生？	From what do they arise?
+['ZH_T25_1506_003:0026a02_4']	答：	答：	Answer:
+['ZH_T25_1506_003:0026a03_1']	彼業、逼、界，生彼樂痛苦痛不苦不樂痛。	彼業、逼、界，生彼樂痛苦痛不苦不樂痛。	From karma, affliction, and realm, arise pleasant, painful, and neither-painful-nor-pleasant sensations.
+['ZH_T25_1506_003:0026a03_21']	當知從業生、逼生、界生，非自然、非偶爾。	當知從業生、逼生、界生，非自然、非偶爾。	It should be known that they arise from karma, affliction, and realm, not spontaneously, not by chance.
+['ZH_T25_1506_003:0026a03_23']	問：	問：	Question:
+['ZH_T25_1506_003:0026a04_11']	業者無量種，此中說何業？	業者無量種，此中說何業？	Karma is of innumerable kinds, which karma is being referred to here?
+['ZH_T25_1506_003:0026a04_13']	答：	答：	Answer:
+['ZH_T25_1506_003:0026a05_4']	業生者，福、非福、不動。	業生者，福、非福、不動。	As for karma-born, it refers to meritorious, non-meritorious, and immovable [karma].
+['ZH_T25_1506_003:0026a06_9']	此樂痛、苦痛、不苦不樂痛，從此三業福、非福、不動中生。	此樂痛、苦痛、不苦不樂痛，從此三業福、非福、不動中生。	This pleasant feeling, painful feeling, and neither-unpleasant-nor-pleasant feeling arise from these three kinds of karma: meritorious, demeritorious, and immovable.
+['ZH_T25_1506_003:0026a07_12']	如義，樂痛從福生，苦痛從罪生，不苦不樂痛從不動生。	如義，樂痛從福生，苦痛從罪生，不苦不樂痛從不動生。	According to the meaning, pleasant feeling arises from merit, painful feeling arises from demerit, and neither-unpleasant-nor-pleasant feeling arises from the immovable.
+['ZH_T25_1506_003:0026a08_8']	於中福者，能除惡行，是四禪為首。	於中福者，能除惡行，是四禪為首。	Among them, merit is able to eliminate evil conduct, and the four dhyanas are foremost.
+['ZH_T25_1506_003:0026a08_16']	非福者，是惡行。	非福者，是惡行。	Demerit is evil conduct.
+['ZH_T25_1506_003:0026a09_6']	不動者，第四禪及無色。	不動者，第四禪及無色。	The immovable refers to the fourth dhyana and the formless realm.
+['ZH_T25_1506_003:0026a09_8']	問：	問：	Question:
+['ZH_T25_1506_003:0026a10_9']	如前已說福者施戒修，修者即是禪無量及無色。	如前已說福者施戒修，修者即是禪無量及無色。	As previously stated, merit refers to giving, morality, and cultivation. Cultivation is precisely the dhyanas, immeasurables, and formless [absorptions].
+['ZH_T25_1506_003:0026a11_2']	今云何別說樂痛從福生？	今云何別說樂痛從福生？	How is it now separately said that pleasant feeling arises from merit?
+['ZH_T25_1506_003:0026a11_4']	答：	答：	Answer:
+['ZH_T25_1506_003:0026a11_18']	別說無咎，以眾多聚故此別說。	別說無咎，以眾多聚故此別說。	There is no fault in separate explanation, because it is a collection of many aggregates, this is separately explained.
+['ZH_T25_1506_003:0026a12_3']	禪如所說。	禪如所說。	The dhyanas are as explained.
+['ZH_T25_1506_003:0026a14_6']	與比丘三衣別，與佛護鉢不可以佛護，亦是比丘故與三衣鉢，而比丘異於佛護者，應與彼衣。	與比丘三衣別，與佛護鉢不可以佛護，亦是比丘故與三衣鉢，而比丘異於佛護者，應與彼衣。	Separately giving the three robes to a bhikkhu, and the Buddha's protected bowl cannot be used as the Buddha's protection, because it is also a bhikkhu's. Therefore, the three robes and bowl are given, but the bhikkhu is different from the Buddha's protection, and the robe should be given to him.
+['ZH_T25_1506_003:0026a15_2']	如是修者禪無量無色，福者三禪。	如是修者禪無量無色，福者三禪。	One who cultivates in this way is one who cultivates the dhyānas, immeasurables, and formless [absorptions]. One who cultivates merit is one who cultivates the three dhyānas.
+['ZH_T25_1506_003:0026a16_1']	若不分別三禪，於修應有過，眾多聚故。	若不分別三禪，於修應有過，眾多聚故。	If one does not distinguish the three dhyānas, there will be an error in cultivation, because of the many aggregates.
+['ZH_T25_1506_003:0026a16_3']	問：	問：	Question:
+['ZH_T25_1506_003:0026a16_8']	云何逼生？	云何逼生？	How does one cause harm to living beings?
+['ZH_T25_1506_003:0026a16_10']	答：	答：	Answer:
+['ZH_T25_1506_003:0026a16_20']	逼生者，己、他、俱。	逼生者，己、他、俱。	Causing harm to living beings means oneself, others, or both.
+['ZH_T25_1506_003:0026a17_1']	逼生痛三種：	逼生痛三種：	There are three kinds of pain caused by harming living beings:
+['ZH_T25_1506_003:0026a17_10']	為己、為他、為俱。	為己、為他、為俱。	For oneself, for others, or for both.
+['ZH_T25_1506_003:0026a17_15']	逼者二種：	逼者二種：	Causing harm is of two kinds:
+['ZH_T25_1506_003:0026a17_21']	為樂、為苦。	為樂、為苦。	For pleasure or for suffering.
+['ZH_T25_1506_003:0026a18_18']	於中為己者，如以刀自刺，若後以旃檀藥塗。	於中為己者，如以刀自刺，若後以旃檀藥塗。	Among them, for oneself is like stabbing oneself with a knife, or later applying sandalwood ointment.
+['ZH_T25_1506_003:0026a19_13']	為他者，如擊破他頭，復治以藥。	為他者，如擊破他頭，復治以藥。	For others is like breaking the head of another, and then treating it with medicine.
+['ZH_T25_1506_003:0026a20_11']	為俱者，如語人使擊破我頭已，復以藥塗。	為俱者，如語人使擊破我頭已，復以藥塗。	For both is like telling someone to break my head and then apply medicine.
+['ZH_T25_1506_003:0026a21_3']	如是盡當知是謂逼生苦。	如是盡當知是謂逼生苦。	Thus, one should know that this is called the suffering of causing harm to living beings.
+['ZH_T25_1506_003:0026a21_5']	問：	問：	Question:
+['ZH_T25_1506_003:0026a21_10']	云何界生？	云何界生？	How does one give rise to the realms?
+['ZH_T25_1506_003:0026a21_12']	答：	答：	Answer:
+['ZH_T25_1506_003:0026a21_22']	界生者，時、惡、患。	界生者，時、惡、患。	Giving rise to the realms means time, evil, and affliction.
+['ZH_T25_1506_003:0026a21_24']	問：	問：	Question:
+['ZH_T25_1506_003:0026a22_10']	界者已說欲、色、無色界。	界者已說欲、色、無色界。	The realms have already been explained as the desire realm, form realm, and formless realm.
+['ZH_T25_1506_003:0026a22_16']	云何即是耶？	云何即是耶？	How is it the same?
+['ZH_T25_1506_003:0026a22_18']	答：	答：	Answer:
+['ZH_T25_1506_003:0026a23_10']	此非界者，離眾生，是三種想：	此非界者，離眾生，是三種想：	This is not a realm, it is free from sentient beings, and has three kinds of thoughts:
+['ZH_T25_1506_003:0026a23_16']	時、惡、患。	時、惡、患。	Time, evil, and affliction.
+['ZH_T25_1506_003:0026a23_22']	此界是假想。	此界是假想。	This realm is a conceptualization.
+['ZH_T25_1506_003:0026a24_9']	於中時者，夏、冬、春。	於中時者，夏、冬、春。	Among them, time refers to summer, winter, and spring.
+['ZH_T25_1506_003:0026a24_23']	夏、冬、春者，當知此三是時。	夏、冬、春者，當知此三是時。	Summer, winter, and spring, one should know these three are time.
+['ZH_T25_1506_003:0026a25_17']	夏者澹增長，冬者涎唾增長，春者風增長。	夏者澹增長，冬者涎唾增長，春者風增長。	Summer increases phlegm, winter increases saliva, and spring increases wind.
+['ZH_T25_1506_003:0026a26_13']	如醫方說時故有樂痛，是謂三時。	如醫方說時故有樂痛，是謂三時。	As the medical scriptures say, there is pleasant pain due to time. This is called the three times.
+['ZH_T25_1506_003:0026a26_15']	問：	問：	Question:
+['ZH_T25_1506_003:0026a26_19']	云何惡？	云何惡？	What is evil?
+['ZH_T25_1506_003:0026a27_7']	為惡行、愛無明耶？	為惡行、愛無明耶？	Is it evil conduct or the ignorance of craving?
+['ZH_T25_1506_003:0026a28_1']	答不破壞法身，此說壞四大身。	答不破壞法身，此說壞四大身。	Answer: It does not destroy the dharma body, this refers to the destruction of the four elements body.
+['ZH_T25_1506_003:0026a28_3']	問：	問：	Question:
+['ZH_T25_1506_003:0026a28_7']	云何惡？	云何惡？	What is evil?
+['ZH_T25_1506_003:0026a28_9']	答：	答：	Answer:
+['ZH_T25_1506_003:0026a28_17']	惡者，風澹涎唾。	惡者，風澹涎唾。	Evil refers to wind, phlegm, and saliva.
+['ZH_T25_1506_003:0026a29_10']	此風澹涎唾壞四大身，由是故生痛。	此風澹涎唾壞四大身，由是故生痛。	This wind, phlegm, and saliva destroy the four elements body, and therefore pain arises.
+['ZH_T25_1506_003:0026a29_12']	問：	問：	Question:
+['ZH_T25_1506_003:0026a29_16']	云何患？	云何患？	What is affliction?
+['ZH_T25_1506_003:0026a29_18']	答：	答：	Answer:
+['ZH_T25_1506_003:0026b01_5']	患者，眾生因離患多。	患者，眾生因離患多。	Affliction refers to the many afflictions caused by sentient beings due to separation.
+['ZH_T25_1506_003:0026b01_13']	若眾生因離生苦。	若眾生因離生苦。	If sentient beings are suffering from separation,
+['ZH_T25_1506_003:0026b02_2']	牆壁樹山巖崩。	牆壁樹山巖崩。	walls, trees, mountains, and cliffs collapse.
+['ZH_T25_1506_003:0026b02_16']	因者，因己、他、俱，是謂痛。	因者，因己、他、俱，是謂痛。	Cause means one's own, others', or both. This is called pain.
+['ZH_T25_1506_003:0026b02_18']	問：	問：	Question:
+['ZH_T25_1506_003:0026b02_22']	云何想？	云何想？	What is perception?
+['ZH_T25_1506_003:0026b02_24']	答：	答：	Answer:
+['ZH_T25_1506_003:0026b03_15']	想者，有想、無想、無所想觀差別。	想者，有想、無想、無所想觀差別。	Perception is having perception, no perception, and observing nothing to perceive.
+['ZH_T25_1506_003:0026b04_4']	想者，說是受形像差別。	想者，說是受形像差別。	Perception is said to be the distinguishing characteristics of the form of experience.
+['ZH_T25_1506_003:0026b05_3']	此中有想、無想、無所想觀差別，是同一義。	此中有想、無想、無所想觀差別，是同一義。	Here, having perception, no perception, and observing nothing to perceive are the same meaning.
+['ZH_T25_1506_003:0026b05_18']	於中有想者俱依，無想者不俱依。	於中有想者俱依，無想者不俱依。	Among them, having perception is based on both, no perception is not based on both.
+['ZH_T25_1506_003:0026b07_3']	如眾多瓶，或有人說是蜜瓶、是酥瓶，由此想故想。	如眾多瓶，或有人說是蜜瓶、是酥瓶，由此想故想。	Like many pots, some people say this is a honey pot, this is a ghee pot. Because of this perception, there is perception.
+['ZH_T25_1506_003:0026b07_16']	若無蜜、無酥，是空受空想。	若無蜜、無酥，是空受空想。	If there is no honey, no ghee, it is an empty experience with empty perception.
+['ZH_T25_1506_003:0026b08_13']	如是聲想比受差別，若遣聲比如是受。	如是聲想比受差別，若遣聲比如是受。	In this way, the perception of sound is distinguished by experience. If the perception of sound is eliminated, the experience is like this.
+['ZH_T25_1506_003:0026b09_5']	無所想者，此無所有即捨。	無所想者，此無所有即捨。	Nothing to perceive means this non-existence is abandonment.
+['ZH_T25_1506_003:0026b10_8']	復次有欲說有所有是有欲，說解脫處觀已無所有。	復次有欲說有所有是有欲，說解脫處觀已無所有。	Furthermore, those who wish to speak of existence are those who wish to have something, while those who view liberation as having nothing are those who speak of having nothing.
+['ZH_T25_1506_003:0026b12_2']	復次有想者觀善識處，無想者觀非想非非想處，無所想者觀無所有處。	復次有想者觀善識處，無想者觀非想非非想處，無所想者觀無所有處。	Furthermore, those with thoughts view the good sphere of consciousness, those without thoughts view the sphere of neither-perception-nor-non-perception, and those with nothing to think view the sphere of nothingness.
+['ZH_T25_1506_003:0026b12_4']	問：	問：	Question:
+['ZH_T25_1506_003:0026b12_8']	云何識？	云何識？	What is consciousness?
+['ZH_T25_1506_003:0026b12_10']	答：	答：	Answer:
+['ZH_T25_1506_003:0026b12_21']	識者，生，成、不成入。	識者，生，成、不成入。	Consciousness is birth, entering into existence and non-existence.
+['ZH_T25_1506_003:0026b13_6']	行名色俱，依緣可得。	行名色俱，依緣可得。	Name and form go together, and can be obtained through conditions.
+['ZH_T25_1506_003:0026b13_17']	識者，異種智，故說識。	識者，異種智，故說識。	Consciousness is different kinds of cognition, therefore it is called consciousness.
+['ZH_T25_1506_003:0026b14_2']	種種智故說識。	種種智故說識。	Because of various kinds of cognition, it is called consciousness.
+['ZH_T25_1506_003:0026b14_6']	是三種：	是三種：	There are three kinds:
+['ZH_T25_1506_003:0026b14_15']	生、成入、不成入。	生、成入、不成入。	Entering into existence and non-existence through birth.
+['ZH_T25_1506_003:0026b15_8']	依行、依名色、依二緣，可得是三種。	依行、依名色、依二緣，可得是三種。	Can be obtained through conditions of name and form and two conditions.
+['ZH_T25_1506_003:0026b16_17']	世尊十二緣起中說行緣識，復說名色緣識，復說眼色緣生眼識。	世尊十二緣起中說行緣識，復說名色緣識，復說眼色緣生眼識。	The World-Honored One said in the twelve links of dependent origination that the condition of formations is consciousness, he also said that the condition of name and form is consciousness, and he also said that the condition of eye and form gives rise to eye consciousness.
+['ZH_T25_1506_003:0026b17_14']	於中種種行造生時，入母胎網俱生識。	於中種種行造生時，入母胎網俱生識。	Among them, when various formations are created at the time of birth, consciousness is born together with the mother's womb.
+['ZH_T25_1506_003:0026b18_13']	是謂行緣生識，即於母胎中漸厚成諸入。	是謂行緣生識，即於母胎中漸厚成諸入。	This is called the arising of consciousness conditioned by formations, which gradually thickens in the mother's womb to form the sense bases.
+['ZH_T25_1506_003:0026b19_3']	已生識是名色緣識。	已生識是名色緣識。	The consciousness that has already arisen is called name-and-form conditioned by consciousness.
+['ZH_T25_1506_003:0026b20_5']	復次成入，諍不諍、入定不入定，緣根及根義生識。	復次成入，諍不諍、入定不入定，緣根及根義生識。	Furthermore, whether in conflict or not, whether in concentration or not, consciousness arises based on the faculties and their objects.
+['ZH_T25_1506_003:0026b20_10']	是依二緣。	是依二緣。	This is the condition of the two bases.
+['ZH_T25_1506_003:0026b21_12']	緣者是依，不可無依而生識，是謂俱依緣可得。	緣者是依，不可無依而生識，是謂俱依緣可得。	The condition is the basis, and consciousness cannot arise without a basis. This is called the condition of the two bases being available.
+['ZH_T25_1506_003:0026b21_14']	問：	問：	Question:
+['ZH_T25_1506_003:0026b22_2']	如前已說戒定智。	如前已說戒定智。	As it has already been said that precepts, concentration, and wisdom,
+['ZH_T25_1506_003:0026b22_9']	何以復重說識？	何以復重說識？	why is consciousness mentioned again?
+['ZH_T25_1506_003:0026b22_11']	答：	答：	Answer:
+['ZH_T25_1506_003:0026b23_8']	依智及所依是二種，此是依、彼是所依。	依智及所依是二種，此是依、彼是所依。	There are two kinds: wisdom and its basis. This is the basis, and that is the based.
+['ZH_T25_1506_003:0026b24_7']	復次如說戒二種，如是此中亦說二種無咎。	復次如說戒二種，如是此中亦說二種無咎。	Furthermore, just as precepts are said to be of two kinds, so too is it not wrong to say that there are two kinds here.
+['ZH_T25_1506_003:0026b25_8']	依品第一真度說竟。	依品第一真度說竟。	The first chapter of the true liberation of the treatise is completed.
+['ZH_T25_1506_003:0026b26_1']	問：	問：	Question:
+['ZH_T25_1506_003:0026b26_5']	已說陰。	已說陰。	The aggregates have been explained.
+['ZH_T25_1506_003:0026b26_9']	云何界？	云何界？	What are the realms?
+['ZH_T25_1506_003:0026b26_11', 'ZH_T25_1506_003:0026b26_22']	答：🔽界者，欲、色、無色界。	答： 界者，欲、色、無色界。	Answer:🔽The realms are the desire, form, and formless realms.
+['ZH_T25_1506_003:0026b27_13']	欲界、色界、無色界，此三是界。	欲界、色界、無色界，此三是界。	The desire realm, form realm, and formless realm, these three are the realms.
+['ZH_T25_1506_003:0026b27_21']	持是業，故曰界。	持是業，故曰界。	Because it upholds these actions, it is called a realm.
+['ZH_T25_1506_003:0026b28_7']	於中住業，故曰界。	於中住業，故曰界。	Because actions abide within it, it is called a realm.
+['ZH_T25_1506_003:0026b29_2']	是攝一切眾生，至無餘般涅槃。	是攝一切眾生，至無餘般涅槃。	This includes all sentient beings up to the attainment of nirvāṇa without remainder.
+['ZH_T25_1506_003:0026b29_4']	問：	問：	Question:
+['ZH_T25_1506_003:0026b29_9']	云何欲界？	云何欲界？	What is the desire realm?
+['ZH_T25_1506_003:0026b29_11']	答：	答：	Answer:
+['ZH_T25_1506_003:0026b29_22']	欲界者，人、天、惡趣。	欲界者，人、天、惡趣。	The desire realm refers to humans, gods, and evil destinies.
+['ZH_T25_1506_003:0026c01_9', 'ZH_T25_1506_003:0026c01_19']	人、天、惡趣者，此略說欲界。🔽於中住欲，故說欲界。	人、天、惡趣者，此略說欲界。 於中住欲，故說欲界。	Humans, gods, and evil destinies - this briefly explains the desire realm.🔽Because one abides in desire within it, it is called the desire realm.
+['ZH_T25_1506_003:0026c02_6']	持欲，故說欲界。	持欲，故說欲界。	Because it upholds desire, it is called the desire realm.
+['ZH_T25_1506_003:0026c02_8']	問：	問：	Question:
+['ZH_T25_1506_003:0026c02_13']	云何為人？	云何為人？	What is meant by humans?
+['ZH_T25_1506_003:0026c02_15']	答：	答：	Answer:
+['ZH_T25_1506_003:0026c03_3', 'ZH_T25_1506_003:0026c03_18']	人者，男女命根所觀相。🔽依四洲男根所觀相、女根所觀相。	人者，男女命根所觀相。 依四洲男根所觀相、女根所觀相。	Humans refer to those observed by the faculties of male and female life.
+['ZH_T25_1506_003:0026c04_12']	命根所觀相，當知此一切是人。	命根所觀相，當知此一切是人。	Those observed by the male faculty, those observed by the female faculty, and those observed by the life faculty - one should know that all of these are humans.
+['ZH_T25_1506_003:0026c05_1']	是一切亦依四洲。	是一切亦依四洲。	All of these also depend on the four continents.
+['ZH_T25_1506_003:0026c05_15']	於中女相謂之女，男相謂之男。	於中女相謂之女，男相謂之男。	Among them, those with female characteristics are called women, and those with male characteristics are called men.
+['ZH_T25_1506_003:0026c05_17']	問：	問：	Question:
+['ZH_T25_1506_003:0026c06_14']	命根所觀相非為男女，是以命根別說耶？	命根所觀相非為男女，是以命根別說耶？	Since those observed by the life faculty are neither male nor female, why is the life faculty mentioned separately?
+['ZH_T25_1506_003:0026c06_16']	答：	答：	Answer:
+['ZH_T25_1506_003:0026c07_13']	雖有男女命根所觀相，此中說差別。	雖有男女命根所觀相，此中說差別。	Although there are male and female life faculties that are observed, distinctions are made here.
+['ZH_T25_1506_003:0026c08_13']	不成男者，不在男女根所觀相中，但有命根。	不成男者，不在男女根所觀相中，但有命根。	Those who are not fully male or female are not included in the observed characteristics of male and female faculties, but only have the life faculty.
+['ZH_T25_1506_003:0026c09_18']	所觀相住膜漸厚有命根，而男女根未成，是謂差別。	所觀相住膜漸厚有命根，而男女根未成，是謂差別。	The observed characteristics that remain gradually thicken, and there is the life faculty, but the male and female faculties are not yet fully formed. This is said to be the distinction.
+['ZH_T25_1506_003:0026c10_1']	問：	問：	Question:
+['ZH_T25_1506_003:0026c10_6']	云何四洲？	云何四洲？	What are the four continents?
+['ZH_T25_1506_003:0026c10_8']	答：	答：	Answer:
+['ZH_T25_1506_003:0026c11_10']	洲者，閻浮提、弗于逮、瞿耶尼、欝單越，是說四洲。	洲者，閻浮提、弗于逮、瞿耶尼、欝單越，是說四洲。	The continents are Jambudvīpa, Pūrvavideha, Aparagodānīya, and Uttarakuru. These are said to be the four continents.
+['ZH_T25_1506_003:0026c12_5']	於中閻浮提所觀相，故說閻浮提。	於中閻浮提所觀相，故說閻浮提。	Among them, Jambudvīpa is so named because it is observed as the observed characteristics of Jambudvīpa.
+['ZH_T25_1506_003:0026c13_3']	隨方所觀相三，弗于逮、瞿耶尼、欝單越。	隨方所觀相三，弗于逮、瞿耶尼、欝單越。	The observed characteristics of the three directions follow the direction. Pūrvavideha, Aparagodānīya, and Uttarakuru.
+['ZH_T25_1506_003:0026c14_2']	彼壽隨其數，樂具差別有限，展轉有勝。	彼壽隨其數，樂具差別有限，展轉有勝。	Their lifespans correspond to their numbers, and the distinctions in the enjoyment of pleasures are limited, with each being superior to the next.
+['ZH_T25_1506_003:0026c14_4']	問：	問：	Question:
+['ZH_T25_1506_003:0026c14_13']	天者，總名二種天：	天者，總名二種天：	The gods are generally called two kinds of gods:
+['ZH_T25_1506_003:0026c14_19']	欲生及離欲。	欲生及離欲。	those born from desire and those free from desire.
+['ZH_T25_1506_003:0026c15_4']	此中云何說天？	此中云何說天？	How are they said to be gods here?
+['ZH_T25_1506_003:0026c15_6']	答：	答：	Answer:
+['ZH_T25_1506_003:0026c15_17']	天者細滑、說、視欲生。	天者細滑、說、視欲生。	The gods are those born from desire for smoothness, speech, and sight.
+['ZH_T25_1506_003:0026c16_6']	說欲生者，當知不說離欲。	說欲生者，當知不說離欲。	Those who say they are born from desire should be understood as not speaking of being free from desire.
+['ZH_T25_1506_003:0026c16_13']	欲生天者三種：	欲生天者三種：	Those born from desire in the heavens are of three kinds:
+['ZH_T25_1506_003:0026c17_6', 'ZH_T25_1506_003:0026c17_15']	細滑欲生、說欲生、視欲生。🔽說欲生者，化樂天。	細滑欲生、說欲生、視欲生。 說欲生者，化樂天。	those born from desire for smoothness, those born from desire for speech, and those born from desire for looking.🔽Those born from desire for speech are the Paranirmitavaśavartin gods.
+['ZH_T25_1506_003:0026c18_18']	彼若染污心於染污心天女共語言，彼於爾時便成欲。	彼若染污心於染污心天女共語言，彼於爾時便成欲。	If they speak with a heavenly maiden with a defiled mind, at that time they will have desire.
+['ZH_T25_1506_003:0026c19_14']	若一染污意者，不成欲，但歡樂。	若一染污意者，不成欲，但歡樂。	If only one has a defiled mind, it does not constitute desire, but only joy.
+['ZH_T25_1506_003:0026c20_8']	如此間人捉時歡悅，彼亦如是。	如此間人捉時歡悅，彼亦如是。	Just as people here are delighted when they hold hands, so are they.
+['ZH_T25_1506_003:0026c20_16']	不染污意如母女。	不染污意如母女。	A non-defiled mind is like that of a mother or daughter.
+['ZH_T25_1506_003:0026c21_13']	造化妙境界悅樂於欲，故曰化樂天。	造化妙境界悅樂於欲，故曰化樂天。	Creating wonderful objects and delighting in desire, they are called the Paranirmitavaśavartin gods.
+['ZH_T25_1506_003:0026c22_4']	視欲生者，他化自在天。	視欲生者，他化自在天。	Those born from desire for looking are the Nirmāṇarati gods.
+['ZH_T25_1506_003:0026c23_4']	彼若共天女各各染著相視，彼於爾時成欲。	彼若共天女各各染著相視，彼於爾時成欲。	If they look at each other with mutual attachment to a heavenly maiden, at that time they will have desire.
+['ZH_T25_1506_003:0026c23_17']	若一染著意不成欲，但歡樂。	若一染著意不成欲，但歡樂。	If only one has an attached mind, it does not constitute desire, but only joy.
+['ZH_T25_1506_003:0026c24_11']	如此間人抱時生樂，不染污意。	如此間人抱時生樂，不染污意。	Just as people here are delighted when they embrace, so are they with a non-defiled mind.
+['ZH_T25_1506_003:0026c25_11']	如見他人，他所化自在故，說他化自在天。	如見他人，他所化自在故，說他化自在天。	As seen in others, they are called Paranirmitavaśavartin gods because they freely transform others.
+['ZH_T25_1506_003:0026c25_13']	問：	問：	Question:
+['ZH_T25_1506_003:0026c25_20']	是說視欲生天。	是說視欲生天。	This explains the gods born from desire.
+['ZH_T25_1506_003:0026c26_6']	云何細滑欲生？	云何細滑欲生？	How are the gods born from the desire for smoothness?
+['ZH_T25_1506_003:0026c26_8']	答：	答：	Answer:
+['ZH_T25_1506_003:0026c27_1']	細滑欲生者，兩兩、相抱、執手。	細滑欲生者，兩兩、相抱、執手。	Those born from the desire for smoothness are those who embrace each other and hold hands.
+['ZH_T25_1506_003:0026c27_9']	細滑欲生天三種：	細滑欲生天三種：	There are three kinds of gods born from the desire for smoothness:
+['ZH_T25_1506_003:0026c28_3']	兩兩欲生、抱欲生、執手欲生。	兩兩欲生、抱欲生、執手欲生。	those born from mutual desire, those born from embracing, and those born from holding hands.
+['ZH_T25_1506_003:0026c28_14']	於中兩兩欲生，後當說。	於中兩兩欲生，後當說。	Among them, those born from mutual desire will be explained later.
+['ZH_T25_1506_003:0026c29_12']	抱欲生者，炎磨天炎磨天，晉曰時分天也。	抱欲生者，炎磨天炎磨天，晉曰時分天也。	Those born from embracing are the Yāma gods.
+['ZH_T25_1506_003:0027a01_1']	彼各各染著意，若抱時便成欲。	彼各各染著意，若抱時便成欲。	When they each become attached and embrace, desire is fulfilled.
+['ZH_T25_1506_003:0027a01_13']	一染著者不成欲，但歡悅。	一染著者不成欲，但歡悅。	If only one is attached, desire is not fulfilled, but there is joy.
+['ZH_T25_1506_003:0027a02_2']	如此間人相抱生樂。	如此間人相抱生樂。	Like humans here who embrace and experience pleasure.
+['ZH_T25_1506_003:0027a02_10']	不染著意如他人。	不染著意如他人。	Without attachment, like other people.
+['ZH_T25_1506_003:0027a03_4']	夜時時歡喜說樂，故曰炎磨。	夜時時歡喜說樂，故曰炎磨。	They rejoice and speak of pleasure from time to time at night, thus called Yāma.
+['ZH_T25_1506_003:0027a03_6']	問：	問：	Question:
+['ZH_T25_1506_003:0027a03_13']	云何執手欲生？	云何執手欲生？	How are those born from the desire to hold hands?
+['ZH_T25_1506_003:0027a03_15']	答：	答：	Answer:
+['ZH_T25_1506_003:0027a04_15']	執手欲生者，兜率哆天兜率哆天，晉曰知足天也。	執手欲生者，兜率哆天兜率哆天，晉曰知足天也。	As for desire arising from holding hands, in the Tuṣita Heaven, the Tuṣita Heaven is called the Heaven of Contentment in Jin.
+['ZH_T25_1506_003:0027a05_8']	彼若共天女各各染污意執手，爾時成欲。	彼若共天女各各染污意執手，爾時成欲。	If they and the celestial maidens each have lustful thoughts and hold hands, at that time desire is fulfilled.
+['ZH_T25_1506_003:0027a05_19']	一染著不成欲，但歡悅。	一染著不成欲，但歡悅。	One attachment does not constitute desire, but only joy.
+['ZH_T25_1506_003:0027a06_5']	如此抱時生樂。	如此抱時生樂。	In this way, pleasure arises when embracing.
+['ZH_T25_1506_003:0027a06_13']	無染污意如他人。	無染污意如他人。	Without lustful thoughts, like other people.
+['ZH_T25_1506_003:0027a07_8']	自所有境界知足，故說兜率哆。	自所有境界知足，故說兜率哆。	Because they are content with their own realm, it is called Tuṣita.
+['ZH_T25_1506_003:0027a07_10']	問：	問：	Question:
+['ZH_T25_1506_003:0027a07_17']	云何兩兩欲生？	云何兩兩欲生？	How does desire arise from pairs?
+['ZH_T25_1506_003:0027a07_19']	答：	答：	Answer:
+['ZH_T25_1506_003:0027a09_2']	兩兩欲生者，三十三、四王地，兩兩共事故，曰兩兩欲生。	兩兩欲生者，三十三、四王地，兩兩共事故，曰兩兩欲生。	As for desire arising from pairs, in the Heaven of the Thirty-three and the Heaven of the Four Kings, because they engage in activities in pairs, it is called desire arising from pairs.
+['ZH_T25_1506_003:0027a09_14']	彼一切欲事，具如前所說。	彼一切欲事，具如前所說。	All their desires are as explained above.
+['ZH_T25_1506_003:0027a10_10']	但分別故，說兩兩欲生天，如此間人。	但分別故，說兩兩欲生天，如此間人。	But because of distinctions, it is said that desire arises from pairs in the heavens, like among humans here.
+['ZH_T25_1506_003:0027a11_10']	於中三十三天者，在須彌山頂，彼行欲如人。	於中三十三天者，在須彌山頂，彼行欲如人。	Among them, the Heaven of the Thirty-three is on the peak of Mount Sumeru. Their desire is like that of humans.
+['ZH_T25_1506_003:0027a11_16']	四王者處中。	四王者處中。	The Four Kings are in the middle.
+['ZH_T25_1506_003:0027a12_13']	地天者，依此地樹山間居，愛樂樂境界。	地天者，依此地樹山間居，愛樂樂境界。	The earth gods dwell in the spaces between the earth, trees, and mountains, and delight in the pleasures of the objects of the senses.
+['ZH_T25_1506_003:0027a13_2']	是一切名天行欲。	是一切名天行欲。	This is called the heavenly way of desire.
+['ZH_T25_1506_003:0027a14_4']	如人間無不淨而有氣，居止轉倍上，是謂欲界天。	如人間無不淨而有氣，居止轉倍上，是謂欲界天。	As in the human realm, there is no impurity but there is qi. Dwelling in the heavens is twice as high as the above. This is called the heavens of the desire realm.
+['ZH_T25_1506_003:0027a14_6']	問：	問：	Question:
+['ZH_T25_1506_003:0027a14_11']	云何惡趣？	云何惡趣？	What are the evil destinies?
+['ZH_T25_1506_003:0027a14_13']	答：	答：	Answer:
+['ZH_T25_1506_003:0027a15_8']	惡趣者，地獄、畜生、餓鬼，此三是惡趣。	惡趣者，地獄、畜生、餓鬼，此三是惡趣。	The evil destinies are the hells, animal realm, and hungry ghost realm. These three are the evil destinies.
+['ZH_T25_1506_003:0027a15_17']	此趣惡，故曰惡趣。	此趣惡，故曰惡趣。	These destinies are evil, thus they are called evil destinies.
+['ZH_T25_1506_003:0027a16_8']	惡者，不可愛，故曰惡趣。	惡者，不可愛，故曰惡趣。	Evil means unlovable, thus they are called evil destinies.
+['ZH_T25_1506_003:0027a16_10']	問：	問：	Question:
+['ZH_T25_1506_003:0027a16_15']	云何地獄？	云何地獄？	What are the hells?
+['ZH_T25_1506_003:0027a16_17']	答：	答：	Answer:
+['ZH_T25_1506_003:0027a17_3']	地獄者，寒、熱、邊。	地獄者，寒、熱、邊。	The hells are the cold, hot, and peripheral hells.
+['ZH_T25_1506_003:0027a17_6']	地獄：	地獄：	The hells:
+['ZH_T25_1506_003:0027a17_18']	寒地獄、熱地獄、邊地獄。	寒地獄、熱地獄、邊地獄。	The cold hells, hot hells, and peripheral hells.
+['ZH_T25_1506_003:0027a18_6']	獄者，不可樂，故曰地獄。	獄者，不可樂，故曰地獄。	Hell means unenjoyable, thus it is called hell.
+['ZH_T25_1506_003:0027a18_15']	是無量種，今當說。	是無量種，今當說。	This has countless types, which will now be explained.
+['ZH_T25_1506_003:0027a18_17']	問：	問：	Question:
+['ZH_T25_1506_003:0027a19_1']	云何寒地獄？	云何寒地獄？	What are the cold hells?
+['ZH_T25_1506_003:0027a19_3']	答：	答：	Answer:
+['ZH_T25_1506_003:0027a20_8']	寒地獄者，了叫喚、不了叫喚、不叫喚，是三相觀相寒地獄。	寒地獄者，了叫喚、不了叫喚、不叫喚，是三相觀相寒地獄。	As for the cold hells, they are the three aspects of the Hell of Screaming, the Hell of Screaming Without Cessation, and the Hell of Screaming and Lamentation. These three aspects are the characteristics of the cold hells.
+['ZH_T25_1506_003:0027a21_8']	了叫喚、不了叫喚、極惡喚呼，故曰叫喚。	了叫喚、不了叫喚、極惡喚呼，故曰叫喚。	Screaming, screaming without cessation, and extremely evil wailing are called screaming.
+['ZH_T25_1506_003:0027a21_10']	問：	問：	Question:
+['ZH_T25_1506_003:0027a21_16']	云何了叫喚？	云何了叫喚？	What is meant by screaming?
+['ZH_T25_1506_003:0027a21_18']	答：	答：	Answer:
+['ZH_T25_1506_003:0027a22_14']	了叫喚者，阿浮陀、泥羅浮陀、阿波跛。	了叫喚者，阿浮陀、泥羅浮陀、阿波跛。	As for screaming, it refers to Afu, Nilofu, and Apoli.
+['ZH_T25_1506_003:0027a23_13']	阿浮、泥羅浮陀、阿波跛者，此三是了叫喚。	阿浮、泥羅浮陀、阿波跛者，此三是了叫喚。	Afu, Nilofu, and Apoli are the three aspects of screaming.
+['ZH_T25_1506_003:0027a24_1']	阿浮陀者，是說數。	阿浮陀者，是說數。	Afu means counting.
+['ZH_T25_1506_003:0027a25_2']	如摩竭國十芥子倉，各受二十佉梨，滿中芥子。	如摩竭國十芥子倉，各受二十佉梨，滿中芥子。	It is like ten mustard seed granaries in the country of Magadha, each holding twenty khārī filled with mustard seeds.
+['ZH_T25_1506_003:0027a25_15']	假使有人百年取一，猶可盡；	假使有人百年取一，猶可盡；	Even if someone were to take one every hundred years, it would still be possible to exhaust them;
+['ZH_T25_1506_003:0027a26_6']	阿浮陀地獄，壽不可盡。	阿浮陀地獄，壽不可盡。	but the lifespan in the Afu hell cannot be exhausted.
+['ZH_T25_1506_003:0027a29_1']	二升名一阿勒，四阿勒為一獨籠那，十六獨籠那為一佉梨，二十佉梨為一倉，如是至十，阿浮陀地獄壽數當知，餘各轉倍。	二升名一阿勒，四阿勒為一獨籠那，十六獨籠那為一佉梨，二十佉梨為一倉，如是至十，阿浮陀地獄壽數當知，餘各轉倍。	Two se is called one aḷe, four aḷe is one duṅgaṇa, sixteen duṅgaṇa is one khāḷi, twenty khāḷi is one granary, and so on up to ten, the lifespan in the Avīci hell should be known, each subsequent one doubles.
+['ZH_T25_1506_003:0027b01_11']	復次阿浮陀者，似癰，阿浮陀地獄中由寒身中生似癰，故曰阿浮陀。	復次阿浮陀者，似癰，阿浮陀地獄中由寒身中生似癰，故曰阿浮陀。	Next, Avīci means like a boil. In the Avīci hell, boils appear on the body due to the cold, hence it is called Avīci.
+['ZH_T25_1506_003:0027b02_16']	泥羅浮陀者，不似癰，但舉身風吹脹滿故，說泥羅浮陀。	泥羅浮陀者，不似癰，但舉身風吹脹滿故，說泥羅浮陀。	Nīrodha means not like a boil, but the entire body is blown up and filled with wind, thus it is called Nīrodha.
+['ZH_T25_1506_003:0027b04_8']	阿波跛者，為極寒風所吹，剝身皮肉落急戰，喚阿波跛，故曰阿波跛。	阿波跛者，為極寒風所吹，剝身皮肉落急戰，喚阿波跛，故曰阿波跛。	Apapāda means being blown by extremely cold winds, the skin and flesh of the body are stripped off and fall off, and one trembles violently, crying Apapāda, thus it is called Apapāda.
+['ZH_T25_1506_003:0027b04_15']	此三種了叫喚。	此三種了叫喚。	These three are called loudly crying.
+['ZH_T25_1506_003:0027b04_17']	問：	問：	Question:
+['ZH_T25_1506_003:0027b05_3']	云何不了叫喚？	云何不了叫喚？	What is meant by not loudly crying?
+['ZH_T25_1506_003:0027b05_5']	答：	答：	Answer:
+['ZH_T25_1506_003:0027b05_22']	不了叫喚者，阿吒鵂、吒鵂、優鉢羅。	不了叫喚者，阿吒鵂、吒鵂、優鉢羅。	As for not loudly crying, it refers to Aṭaṭa, Hahava, and Utpala.
+['ZH_T25_1506_003:0027b06_18']	阿吒鵂、吒鵂、優鉢羅，此三是不了叫喚。	阿吒鵂、吒鵂、優鉢羅，此三是不了叫喚。	Aṭa, ṭaṭa, and utpala - these three are the ones that cry out incoherently.
+['ZH_T25_1506_003:0027b08_1']	於中阿吒鵂、吒鵂者，亦為極寒風所吹，剝身皮肉落。	於中阿吒鵂、吒鵂者，亦為極寒風所吹，剝身皮肉落。	Among them, aṭa and ṭaṭa are also blown by extremely cold winds, causing their skin and flesh to fall off.
+['ZH_T25_1506_003:0027b08_19']	彼不堪苦，或時大方便喚阿吒鵂、吒鵂。	彼不堪苦，或時大方便喚阿吒鵂、吒鵂。	Unable to bear the pain, they sometimes cry out in great distress, aṭa and ṭaṭa.
+['ZH_T25_1506_003:0027b10_13']	優鉢羅者，極大寒風吹剝身皮肉落，因罪故自體中生鐵葉纏身，如優鉢羅華。	優鉢羅者，極大寒風吹剝身皮肉落，因罪故自體中生鐵葉纏身，如優鉢羅華。	As for utpala, they are blown by extremely cold winds that cause their skin and flesh to fall off. Due to their sins, iron leaves grow from their bodies, enveloping them like utpala flowers.
+['ZH_T25_1506_003:0027b11_17']	彼以誹謗賢聖人故，墮優鉢羅地獄，常受如是苦。	彼以誹謗賢聖人故，墮優鉢羅地獄，常受如是苦。	Because they slandered sages, they fall into the utpala hell and constantly experience such suffering.
+['ZH_T25_1506_003:0027b11_19']	問：	問：	Question:
+['ZH_T25_1506_003:0027b12_4']	云何不叫喚？	云何不叫喚？	Why are they not crying out?
+['ZH_T25_1506_003:0027b12_6']	答：	答：	Answer:
+['ZH_T25_1506_003:0027b13_14']	不叫喚者，拘牟陀、須揵緹伽、分陀梨伽、波曇摩，此四是不叫喚。	不叫喚者，拘牟陀、須揵緹伽、分陀梨伽、波曇摩，此四是不叫喚。	As for those who are not crying out, kumuda, sumuktika, pundarika, and padma - these four are the ones who are not crying out.
+['ZH_T25_1506_003:0027b15_13']	而極寒風吹身脹滿，使身如拘牟陀、須揵緹伽、分陀梨伽、波曇摩，受困苦極呻吟住。	而極寒風吹身脹滿，使身如拘牟陀、須揵緹伽、分陀梨伽、波曇摩，受困苦極呻吟住。	And the extreme cold wind blows on the body, causing it to swell and fill, making the body like a kuśa, a sukantika, a pūtikā, or a pāṭhīna, suffering from hardship and groaning in pain.
+['ZH_T25_1506_003:0027b16_17']	彼以誹謗賢聖人故，墮彼四種地獄，一切時受無量苦。	彼以誹謗賢聖人故，墮彼四種地獄，一切時受無量苦。	Because of their slander of the sages, they fall into those four kinds of hells and always experience immeasurable suffering.
+['ZH_T25_1506_003:0027b18_11']	是一切十寒地獄，處在四洲間，著鐵圍大鐵圍山底，仰向居止在闇中。	是一切十寒地獄，處在四洲間，著鐵圍大鐵圍山底，仰向居止在闇中。	All these ten cold hells are located between the four continents, at the bottom of the Iron Ring Mountain and the Great Iron Ring Mountain, facing upward, dwelling in the dark.
+['ZH_T25_1506_003:0027b20_1']	寒風壞身體、大火所然，身如燒竹𥯤林聲駮駮，各各相觸生想。	寒風壞身體、大火所然，身如燒竹𥯤林聲駮駮，各各相觸生想。	The cold wind destroys the body, and the great fire burns it, the body is like a burning bamboo or a forest of reeds, making a crackling sound, and they touch each other, giving rise to thoughts.
+['ZH_T25_1506_003:0027b20_12']	亦復有餘眾生於中受苦。	亦復有餘眾生於中受苦。	There are also other sentient beings who experience suffering there.
+['ZH_T25_1506_003:0027b21_7']	彼一切謗毀賢聖故，受如是苦。	彼一切謗毀賢聖故，受如是苦。	Because they all slander and denigrate the sages, they experience such suffering.
+['ZH_T25_1506_003:0027b21_13']	如世尊說偈：	如世尊說偈：	As the World-Honored One said in a verse:
+['ZH_T25_1506_003:0027b22_0']	「泥羅浮有百千，　　阿浮陀三十五，	「泥羅浮有百千，　　阿浮陀三十五，	There are a hundred thousand niraya hells, and thirty-five apayas,
+['ZH_T25_1506_003:0027b23_15']	是聖惡趣地獄，　　口及意惡願故。	是聖惡趣地獄，　　口及意惡願故。	These are the evil destinies of the sages, due to the evil wishes of speech and mind.
+['ZH_T25_1506_003:0027b24_5']	」是謂寒地獄。	」是謂寒地獄。	This is called the cold hell.
+['ZH_T25_1506_003:0027b24_7']	問：	問：	Question:
+['ZH_T25_1506_003:0027b24_13']	云何熱地獄？	云何熱地獄？	What is the hot hell?
+['ZH_T25_1506_003:0027b24_15']	答：	答：	Answer:
+['ZH_T25_1506_003:0027b25_10']	熱地獄者，有主治、少主治、無主治。	熱地獄者，有主治、少主治、無主治。	As for the hot hell, there are those with a master, those with a lesser master, and those without a master.
+['ZH_T25_1506_003:0027b26_7']	此三相觀相有主治、少主治、無主治。	此三相觀相有主治、少主治、無主治。	These three are observed to have the characteristics of those with a master, those with a lesser master, and those without a master.
+['ZH_T25_1506_003:0027b26_15']	主治者，是考掠。	主治者，是考掠。	Those with a master are those who are tortured.
+['ZH_T25_1506_003:0027b28_9']	此多為眾生所治、或不多為所治、或自治、或由罪自生、或離眾生方便受大苦。	此多為眾生所治、或不多為所治、或自治、或由罪自生、或離眾生方便受大苦。	Many of these are governed by sentient beings, some are not governed by many, some govern themselves, some suffer from their own sins, and some experience great suffering apart from sentient beings.
+['ZH_T25_1506_003:0027b28_11']	問：	問：	Question:
+['ZH_T25_1506_003:0027b28_17']	云何有主治？	云何有主治？	What is meant by those with a master?
+['ZH_T25_1506_003:0027b28_19', 'ZH_T25_1506_003:0027b29_10']	答：🔽有主治者，活、行、黑繩。	答： 有主治者，活、行、黑繩。	Answer:🔽As for those with a master, they are the hells of Revival, Black Rope, and Crushing.
+['ZH_T25_1506_003:0027b29_24']	活、行、黑繩，此三是有主治。	活、行、黑繩，此三是有主治。	Revival, Black Rope, and Crushing, these three have a master.
+['ZH_T25_1506_003:0027c02_5']	活地獄者，獄卒以利刀斧解剝剉斬罪眾生，如斬剉羊頭。	活地獄者，獄卒以利刀斧解剝剉斬罪眾生，如斬剉羊頭。	In the Revival hell, the wardens use sharp knives and axes to cut, peel, chop, and slice the sinful sentient beings, like cutting and chopping a sheep's head.
+['ZH_T25_1506_003:0027c03_6']	皮肉解散已，彼罪緣未盡，以冷風吹還生如故。	皮肉解散已，彼罪緣未盡，以冷風吹還生如故。	After the skin and flesh are separated, due to the unfinished karmic conditions, a cool wind blows and they revive as before.
+['ZH_T25_1506_003:0027c04_10']	復因惡罪，手自然生鐵爪，鋒利猶若刀刃，形如半月。	復因惡罪，手自然生鐵爪，鋒利猶若刀刃，形如半月。	Furthermore, due to evil offenses, iron claws naturally grew from their hands, sharp like knife blades, shaped like half-moons.
+['ZH_T25_1506_003:0027c04_17']	各各生怨結意：	各各生怨結意：	Each gave rise to feelings of resentment:
+['ZH_T25_1506_003:0027c05_8']	「彼曾逼迫我，今復逼迫。	「彼曾逼迫我，今復逼迫。	He once oppressed me, and now he oppresses me again.
+['ZH_T25_1506_003:0027c06_4']	」由此生恚，更相爴截也，如刈竹𥯤。	」由此生恚，更相爴截也，如刈竹𥯤。	Because of this, they became angry and cut each other to pieces, like cutting bamboo.
+['ZH_T25_1506_003:0027c06_18']	彼於此間結恨心，死故生彼中。	彼於此間結恨心，死故生彼中。	They gave rise to feelings of resentment here, and because of death, they were reborn there.
+['ZH_T25_1506_003:0027c08_1']	黑繩地獄者，挓罪人著地，以黑繩絣段段斫截。	黑繩地獄者，挓罪人著地，以黑繩絣段段斫截。	In the Black Rope Hell, sinners are pinned to the ground and cut into pieces with black ropes.
+['ZH_T25_1506_003:0027c08_14']	彼於此間以刀斫眾生故生彼。	彼於此間以刀斫眾生故生彼。	Because they used knives to harm beings here, they are reborn there.
+['ZH_T25_1506_003:0027c09_13']	復次以熱赤銅鐵鍱纏身，骨破髓血流出。	復次以熱赤銅鐵鍱纏身，骨破髓血流出。	Furthermore, they are wrapped in hot red copper iron sheets, and their bones break, with marrow and blood flowing out.
+['ZH_T25_1506_003:0027c11_2']	彼於此間以鞭杖加眾生，及出家不精進，受著信施衣故生彼。	彼於此間以鞭杖加眾生，及出家不精進，受著信施衣故生彼。	Because they used whips and sticks to harm beings here, and because they left home but were not diligent and accepted the offerings of robes, they are reborn there.
+['ZH_T25_1506_003:0027c11_17']	極大闇冥苦烟熏，倒懸身使吸烟。	極大闇冥苦烟熏，倒懸身使吸烟。	It is extremely dark and painful, with smoke burning. They are hung upside down to inhale the smoke.
+['ZH_T25_1506_003:0027c12_10']	彼於此間以烟熏穴居眾生故。	彼於此間以烟熏穴居眾生故。	Because they smoked out the beings living in holes here.
+['ZH_T25_1506_003:0027c13_14']	行地獄者，行列罪眾生如屠肆者，截手足耳鼻及頭。	行地獄者，行列罪眾生如屠肆者，截手足耳鼻及頭。	As for the hell of walking, it is like a slaughterhouse where sinful beings are lined up, with their hands, feet, ears, nose, and heads cut off.
+['ZH_T25_1506_003:0027c14_7']	本為屠兒，故受如是苦。	本為屠兒，故受如是苦。	Because he was originally a butcher, he suffers such retribution.
+['ZH_T25_1506_003:0027c15_11']	復次熱鐵地、駕鐵火車，獄卒乘之，張眼㖑喚叱叱便走。	復次熱鐵地、駕鐵火車，獄卒乘之，張眼㖑喚叱叱便走。	Next, on the burning iron ground, a jailer rides an iron fire cart, with eyes wide open, shouting and running.
+['ZH_T25_1506_003:0027c16_11']	彼於此間乘象馬比，驅使疲勞故墮彼中。	彼於此間乘象馬比，驅使疲勞故墮彼中。	Because he rode elephants and horses in this world, driving them to exhaustion, he falls into that.
+['ZH_T25_1506_003:0027c17_10']	婬犯他妻，驅上劍樹自然火然，受如是苦。	婬犯他妻，驅上劍樹自然火然，受如是苦。	Because he lustfully violates other's wives, he is driven up a sword tree that naturally catches fire, and suffers such retribution.
+['ZH_T25_1506_003:0027c17_18']	是謂有主治地獄。	是謂有主治地獄。	This is called the hell with a master in charge.
+['ZH_T25_1506_003:0027c18_18']	獄卒者，以行緣故不被火燒，行報者不可思。	獄卒者，以行緣故不被火燒，行報者不可思。	As for the jailers, because of the conditions of their actions, they are not burned by the fire. The retribution of actions is inconceivable.
+['ZH_T25_1506_003:0027c18_20']	問：	問：	Question:
+['ZH_T25_1506_003:0027c19_7']	云何少主治地獄？	云何少主治地獄？	What is the hell with few masters in charge?
+['ZH_T25_1506_003:0027c19_9', 'ZH_T25_1506_003:0027c20_1']	答：🔽少主治者，眾合、大哭、鐵檻。	答： 少主治者，眾合、大哭、鐵檻。	Answer:🔽As for the hell with few masters in charge, it refers to Saṃghāta, Mahāraurava, and Ayaḥśālmalīvana.
+['ZH_T25_1506_003:0027c20_19']	眾合、大哭、鐵檻，此三是少主治地獄。	眾合、大哭、鐵檻，此三是少主治地獄。	Saṃghāta, Mahāraurava, and Ayaḥśālmalīvana - these three are hells with few masters in charge.
+['ZH_T25_1506_003:0027c24_3']	眾合地獄者，罪眾生畏地獄卒，無量百千走入山間，入已前後自然生火遮彼，為火前後遮已，兩兩山自合如磨，由此故血流如河、骨肉爛盡。	眾合地獄者，罪眾生畏地獄卒，無量百千走入山間，入已前後自然生火遮彼，為火前後遮已，兩兩山自合如磨，由此故血流如河、骨肉爛盡。	As for the Saṃghāta Hell, sinful beings are afraid of the hell wardens. They run into the mountains in countless hundreds and thousands. After entering, fire spontaneously arises in front and behind them, blocking them. After blocking them in front and behind with fire, the mountains themselves come together like a millstone. Because of this, blood flows like a river and bones and flesh are completely rotten.
+['ZH_T25_1506_003:0027c24_14']	彼於此間喜磨眾生為首。	彼於此間喜磨眾生為首。	They were the leaders in this world who delighted in grinding beings.
+['ZH_T25_1506_003:0027c25_18']	復次火燒大鐵臼，以杵擣百年，彼以罪緣故命不盡。	復次火燒大鐵臼，以杵擣百年，彼以罪緣故命不盡。	Furthermore, a large iron mortar is burned with fire, and they are pounded with a pestle for a hundred years. Because of their sinful causes, their lives do not end.
+['ZH_T25_1506_003:0027c26_14']	彼於此間以臼擣殺蚤虱及殛殺故。	彼於此間以臼擣殺蚤虱及殛殺故。	They were the ones who in this world used mortars to kill lice and fleas and kill them with pestles.
+['ZH_T25_1506_003:0027c27_16']	大哭地獄者，大鐵山遍火然，四絕無行處。	大哭地獄者，大鐵山遍火然，四絕無行處。	As for the Mahāraurava Hell, large iron mountains are completely ablaze, with no passage in the four directions.
+['ZH_T25_1506_003:0027c28_6']	惡獄卒無慈，瞋恚言：	惡獄卒無慈，瞋恚言：	The evil wardens are merciless and say angrily:
+['ZH_T25_1506_003:0027c28_12']	「欲何所趣？	「欲何所趣？	Where do you want to go?
+['ZH_T25_1506_003:0027c29_6']	」無事與事，以火燒鐵杵擊破其頭。	」無事與事，以火燒鐵杵擊破其頭。	Whether it is a matter or not, they burn them with fire and smash their heads with iron pestles.
+['ZH_T25_1506_003:0028a01_2']	彼於此間因苦萬民故生彼中。	彼於此間因苦萬民故生彼中。	They were born there because they caused suffering to the myriad people in this world.
+['ZH_T25_1506_003:0028a02_4']	鐵檻者，火然鐵地，驅罪眾生使入中熬令熟。	鐵檻者，火然鐵地，驅罪眾生使入中熬令熟。	The iron cage is a burning iron ground, where the sinful beings are driven to enter and cooked.
+['ZH_T25_1506_003:0028a02_16']	熟已復驅出，為惡狗所食。	熟已復驅出，為惡狗所食。	After being cooked, they are driven out and eaten by vicious dogs.
+['ZH_T25_1506_003:0028a03_16']	食肉盡，風吹使生，還復如故，復已還驅使入。	食肉盡，風吹使生，還復如故，復已還驅使入。	When the flesh is eaten, the wind blows to make them revive, and they return to their original state. They are then driven to enter again.
+['ZH_T25_1506_003:0028a04_9']	彼於此間養蠶煮炙故生彼中。	彼於此間養蠶煮炙故生彼中。	They are born there because they raised silkworms and boiled them in this world.
+['ZH_T25_1506_003:0028a04_15']	是謂少主治。	是謂少主治。	This is called the minor hell with a warden.
+['ZH_T25_1506_003:0028a04_17']	問：	問：	Question:
+['ZH_T25_1506_003:0028a05_3']	云何無主治？	云何無主治？	What is the hell without a warden?
+['ZH_T25_1506_003:0028a05_5']	答：	答：	Answer:
+['ZH_T25_1506_003:0028a05_17']	無主治者，哭、炙、無缺。	無主治者，哭、炙、無缺。	The hell without a warden is the crying, burning, and incomplete hells.
+['ZH_T25_1506_003:0028a06_8']	哭、炙、無缺者，此三是無主治。	哭、炙、無缺者，此三是無主治。	The crying, burning, and incomplete hells are the three hells without wardens.
+['ZH_T25_1506_003:0028a08_2']	哭地獄者，火熾然鐵似如龜甲，處極狹迮，各盛在中以鐵蓋覆，受如此極苦。	哭地獄者，火熾然鐵似如龜甲，處極狹迮，各盛在中以鐵蓋覆，受如此極苦。	In the crying hell, the blazing iron resembles a turtle shell, and the place is extremely cramped. Each being is placed inside and covered with an iron lid, experiencing such extreme suffering.
+['ZH_T25_1506_003:0028a09_4']	彼於此間焚燒曠野，及薰燒穴居眾生，故生彼中。	彼於此間焚燒曠野，及薰燒穴居眾生，故生彼中。	They are born there because they burned the wilderness and scorched the creatures living in holes in this world.
+['ZH_T25_1506_003:0028a10_9']	炙地獄者，大鐵山火焰相搏，以鐵鏟鏟之，周匝猗炙。	炙地獄者，大鐵山火焰相搏，以鐵鏟鏟之，周匝猗炙。	As for the roasting hell, it is a large iron mountain where flames merge together. It is scraped with an iron spatula, and roasted all around.
+['ZH_T25_1506_003:0028a11_4']	一面適熟，鏟自然轉反覆顛倒。	一面適熟，鏟自然轉反覆顛倒。	When one side is cooked, the spatula turns by itself, turning it over and over.
+['ZH_T25_1506_003:0028a11_18']	彼於此間貫刺殺人，故生彼中。	彼於此間貫刺殺人，故生彼中。	Because one pierces and kills people here, one is born there.
+['ZH_T25_1506_003:0028a13_13']	無缺地獄者，鐵地周匝火然，縱廣百由旬，四門如城，以銅薄覆上，炎炎相續。	無缺地獄者，鐵地周匝火然，縱廣百由旬，四門如城，以銅薄覆上，炎炎相續。	As for the Avīci hell, the iron ground is surrounded by fire, a hundred yojanas long and wide, with four gates like a city, covered with copper foil, with flames continuing one after another.
+['ZH_T25_1506_003:0028a14_18']	罪眾生在中積聚如薪，炎無罣礙，燋爛其身受苦無缺。	罪眾生在中積聚如薪，炎無罣礙，燋爛其身受苦無缺。	Sinful beings are piled up in it like firewood, with flames unobstructed, burning their bodies and causing suffering without interruption.
+['ZH_T25_1506_003:0028a16_17']	彼於此間殺父母、真人、惡意向佛使血出、鬪亂眾僧，及作增上十不善業迹，故生彼中。	彼於此間殺父母、真人、惡意向佛使血出、鬪亂眾僧，及作增上十不善業迹，故生彼中。	Because one kills one's parents, an arhat, has evil intentions towards the Buddha causing him to bleed, foments discord in the saṅgha, and commits the ten unwholesome courses of action to a high degree, one is born there.
+['ZH_T25_1506_003:0028a17_3']	是謂無主治。	是謂無主治。	This is called the realm without a master.
+['ZH_T25_1506_003:0028a17_5']	問：	問：	Question:
+['ZH_T25_1506_003:0028a17_11']	云何邊地獄？	云何邊地獄？	What are the neighboring hells?
+['ZH_T25_1506_003:0028a17_13']	答：	答：	Answer:
+['ZH_T25_1506_003:0028a19_2']	邊地獄者，所在處水間山間及曠野，獨一受惡業報，是謂邊地獄。	邊地獄者，所在處水間山間及曠野，獨一受惡業報，是謂邊地獄。	The solitary hells are in various places, between water, between mountains, and in the wilderness. One alone experiences the retribution for evil karma. This is called the solitary hells.
+['ZH_T25_1506_003:0028a19_4']	問：	問：	Question:
+['ZH_T25_1506_003:0028a19_9']	已說地獄。	已說地獄。	The hells have been explained.
+['ZH_T25_1506_003:0028a19_14']	云何畜生？	云何畜生？	What are the animals?
+['ZH_T25_1506_003:0028a19_16']	答：	答：	Answer:
+['ZH_T25_1506_003:0028a20_13']	畜生者，陸、水、空行，一切無足、二足、多足。	畜生者，陸、水、空行，一切無足、二足、多足。	The animals are those that move on land, in water, and in the air. They have no feet, two feet, or many feet.
+['ZH_T25_1506_003:0028a21_4', 'ZH_T25_1506_003:0028a21_19']	陸行、水行、空行，此三是畜生。🔽陸行者，象馬牛羊驢騾駱駝為首。	陸行、水行、空行，此三是畜生。 陸行者，象馬牛羊驢騾駱駝為首。	The three types are those that move on land, in water, and in the air.🔽Those that move on land are headed by elephants, horses, cows, sheep, donkeys, mules, and camels.
+['ZH_T25_1506_003:0028a22_13']	水行者，魚摩竭失收摩賴為首。	水行者，魚摩竭失收摩賴為首。	Those that move in water are headed by fish, makaras, and crocodiles.
+['ZH_T25_1506_003:0028a23_4']	空行者，鳥及蚊蚋為首。	空行者，鳥及蚊蚋為首。	Those that move in the air are headed by birds and mosquitoes.
+['ZH_T25_1506_003:0028a23_15']	一切無足、二足、多足。	一切無足、二足、多足。	They have no feet, two feet, or many feet.
+['ZH_T25_1506_003:0028a24_1']	無足者，蛇為首。	無足者，蛇為首。	Those with no feet are headed by snakes.
+['ZH_T25_1506_003:0028a24_9']	二足者，鳥為首。	二足者，鳥為首。	Those with two feet are headed by birds.
+['ZH_T25_1506_003:0028a25_1']	多足者，牛馬蜂及百足為首。	多足者，牛馬蜂及百足為首。	Those with many feet are headed by cows, horses, bees, and centipedes.
+['ZH_T25_1506_003:0028a25_20']	彼一切種種大罪業行，生彼中，是謂畜生。	彼一切種種大罪業行，生彼中，是謂畜生。	They are born there due to various great evil karmic actions. These are called the animals.
+['ZH_T25_1506_003:0028a26_1']	問：	問：	Question:
+['ZH_T25_1506_003:0028a26_6']	已說畜生。	已說畜生。	The animals have been explained.
+['ZH_T25_1506_003:0028a26_11']	云何餓鬼？	云何餓鬼？	What about the hungry ghosts?
+['ZH_T25_1506_003:0028a26_13']	答：	答：	Answer:
+['ZH_T25_1506_003:0028a27_2']	餓鬼者，無財、少財、多財。	餓鬼者，無財、少財、多財。	The hungry ghosts are those without wealth, those with little wealth, and those with much wealth.
+['ZH_T25_1506_003:0028a27_19']	無財、少財、多財者，此三種是餓鬼。	無財、少財、多財者，此三種是餓鬼。	Those without wealth, those with little wealth, and those with much wealth - these three types are hungry ghosts.
+['ZH_T25_1506_003:0028a27_21']	問：	問：	Question:
+['ZH_T25_1506_003:0028a28_4']	云何無財？	云何無財？	What are those without wealth?
+['ZH_T25_1506_003:0028a28_6']	答：	答：	Answer:
+['ZH_T25_1506_003:0028a28_17']	無財者，炬、針、臭口。	無財者，炬、針、臭口。	Those without wealth are the torch, the needle, and the foul-smelling mouth.
+['ZH_T25_1506_003:0028a29_7']	炬口、針口、臭口，是三種無財。	炬口、針口、臭口，是三種無財。	The torch mouth, the needle mouth, and the foul-smelling mouth - these three types are without wealth.
+['ZH_T25_1506_003:0028b01_10']	炬口者，合口猛火炎從口出自燒，如野火燒多羅樹。	炬口者，合口猛火炎從口出自燒，如野火燒多羅樹。	The torch mouth is one whose mouth emits a raging fire that burns itself, like a wild fire burning a palm tree.
+['ZH_T25_1506_003:0028b02_5']	彼於此間多行慳貪，故生彼受苦。	彼於此間多行慳貪，故生彼受苦。	Because they often practiced stinginess and greed in this world, they are born there to experience suffering.
+['ZH_T25_1506_003:0028b03_11']	針口者，腹大如山谷，咽如針孔，設得豐饒食而不得食。	針口者，腹大如山谷，咽如針孔，設得豐饒食而不得食。	The needle mouth is one whose belly is as large as a mountain valley, and whose throat is as small as a needle, so even if they obtain abundant food, they cannot eat it.
+['ZH_T25_1506_003:0028b04_18']	臭口者，口爛腐臭，如糞廁自噫氣臭，無腹不得食受大苦。	臭口者，口爛腐臭，如糞廁自噫氣臭，無腹不得食受大苦。	The foul-smelling mouth is one whose mouth rots and smells foul, like a cesspool, and whose own belches smell bad, and who has no stomach and cannot eat, experiencing great suffering.
+['ZH_T25_1506_003:0028b05_3']	是謂無財。	是謂無財。	These are called those without wealth.
+['ZH_T25_1506_003:0028b05_5']	問：	問：	Question:
+['ZH_T25_1506_003:0028b05_10']	云何少財？	云何少財？	What are those with little wealth?
+['ZH_T25_1506_003:0028b05_12']	答：	答：	Answer:
+['ZH_T25_1506_003:0028b05_23']	少財者，針、臭毛、𭼹。	少財者，針、臭毛、𭼹。	Those with little wealth have needles, foul-smelling hair, and thorns.
+['ZH_T25_1506_003:0028b06_15']	針毛、臭毛、𭼹者，此三種是少財。	針毛、臭毛、𭼹者，此三種是少財。	Needles, foul-smelling hair, and thorns - these three are of little wealth.
+['ZH_T25_1506_003:0028b07_8']	彼或時少得不淨物，故說少財。	彼或時少得不淨物，故說少財。	They sometimes obtain impure things, so it is said they have little wealth.
+['ZH_T25_1506_003:0028b09_2']	針毛者，毛極堅長，頭利如針，覆身遍滿自體，節節相離，行來甚難，毛還自刺。	針毛者，毛極堅長，頭利如針，覆身遍滿自體，節節相離，行來甚難，毛還自刺。	As for needles, the hair is extremely hard and long, with tips sharp like needles, covering the body all over, with the body parts separated from each other, making it very difficult to move around, and the hair pricks itself.
+['ZH_T25_1506_003:0028b09_13']	如利箭射鹿，受極大苦。	如利箭射鹿，受極大苦。	It is like a sharp arrow shooting a deer, experiencing extreme great suffering.
+['ZH_T25_1506_003:0028b09_19']	或時少得食。	或時少得食。	Sometimes they obtain a little food.
+['ZH_T25_1506_003:0028b11_13']	臭毛者，毛極臭覆身，更互自刺體，身臭風發惱生，瞋恚自拔毛，受如此苦。	臭毛者，毛極臭覆身，更互自刺體，身臭風發惱生，瞋恚自拔毛，受如此苦。	As for foul-smelling hair, the hair is extremely foul-smelling and covers the body, pricking each other, and the body emits a foul-smelling wind that causes irritation and anger, pulling out the hair by oneself, experiencing such suffering.
+['ZH_T25_1506_003:0028b12_17']	𭼹者，自罪業報生𭼹，還自決破，膿血流出取而食之。	𭼹者，自罪業報生𭼹，還自決破，膿血流出取而食之。	As for thorns, thorns are born from one's own sinful karmic retribution, and they pierce and break oneself, with pus and blood flowing out to be taken and eaten.
+['ZH_T25_1506_003:0028b13_2']	是謂少財。	是謂少財。	This is called having little wealth.
+['ZH_T25_1506_003:0028b13_4']	問：	問：	Question:
+['ZH_T25_1506_003:0028b13_9']	云何多財？	云何多財？	What is meant by having much wealth?
+['ZH_T25_1506_003:0028b13_11']	答：	答：	Answer:
+['ZH_T25_1506_003:0028b13_22']	多財者，棄、失、大勢。	多財者，棄、失、大勢。	Those with much wealth have abandoned, lost, and great power.
+['ZH_T25_1506_003:0028b14_9']	棄、失、大勢，此三種是多財。	棄、失、大勢，此三種是多財。	Abandonment, loss, and great power, these three are for those with much wealth.
+['ZH_T25_1506_003:0028b15_12']	棄者，若宿命施故得殘，彼終身祭祠得，由此故得樂。	棄者，若宿命施故得殘，彼終身祭祠得，由此故得樂。	Abandonment means that due to giving in past lives, one obtains leftovers. By this, one obtains happiness.
+['ZH_T25_1506_003:0028b16_15']	失者，街巷四道所遺落者，彼終身得，由此故得樂。	失者，街巷四道所遺落者，彼終身得，由此故得樂。	Loss means that which is left on the streets and crossroads. By this, one obtains happiness.
+['ZH_T25_1506_003:0028b17_8']	大勢者，夜叉、羅剎、毘舍遮。	大勢者，夜叉、羅剎、毘舍遮。	Great power means yakshas, rakshasas, and pishachas.
+['ZH_T25_1506_003:0028b18_3']	夜叉、羅剎、毘舍遮，此三種是大勢。	夜叉、羅剎、毘舍遮，此三種是大勢。	Yakshas, rakshasas, and pishachas, these three have great power.
+['ZH_T25_1506_003:0028b19_12']	彼境界如天，宿命福德故，或得妙食，食已無量餓鬼圍繞相見生苦。	彼境界如天，宿命福德故，或得妙食，食已無量餓鬼圍繞相見生苦。	Their realm is like that of the gods. Due to merit from past lives, they may obtain delicious food. After eating, countless hungry ghosts surround them, causing suffering upon seeing each other.
+['ZH_T25_1506_003:0028b20_12']	如人在獄見親生苦，彼亦如是圍繞生苦。	如人在獄見親生苦，彼亦如是圍繞生苦。	Just as a person in prison sees their relatives and suffers, so do they, surrounded by suffering.
+['ZH_T25_1506_003:0028b21_7']	由此苦故，食化為膿，受如是苦。	由此苦故，食化為膿，受如是苦。	Due to this suffering, the food transforms into pus, and they experience such suffering.
+['ZH_T25_1506_003:0028b21_12']	是謂大勢。	是謂大勢。	This is called great power.
+['ZH_T25_1506_003:0028b22_15']	彼畜、人、天形，是餓鬼畜形、人形、天形，隨其業故。	彼畜、人、天形，是餓鬼畜形、人形、天形，隨其業故。	They have the forms of animals, humans, and gods, and the forms of hungry ghosts, animals, and humans, according to their karma.
+['ZH_T25_1506_003:0028b22_20']	是謂欲界。	是謂欲界。	This is called the desire realm.
+['ZH_T25_1506_003:0028b22_22']	問：	問：	Question:
+['ZH_T25_1506_003:0028b23_4']	已說欲界。	已說欲界。	The desire realm has been explained.
+['ZH_T25_1506_003:0028b23_9']	云何色界？	云何色界？	What is the form realm?
+['ZH_T25_1506_003:0028b23_11']	答：	答：	Answer:
+['ZH_T25_1506_003:0028b24_1']	色界者，有喜、無喜、護。	色界者，有喜、無喜、護。	As for the form realm, there is joy, no joy, and equanimity.
+['ZH_T25_1506_003:0028b25_3']	色界者無欲，但由禪除恚故，得妙色如煉真金。	色界者無欲，但由禪除恚故，得妙色如煉真金。	The form realm is free from desire, but due to the dhyānas being free from ill-will, one attains a sublime form like refined true gold.
+['ZH_T25_1506_003:0028b25_17']	是界有喜、無喜、離苦樂是護。	是界有喜、無喜、離苦樂是護。	This realm has joy, no joy, and is free from suffering and pleasure, which is equanimity.
+['ZH_T25_1506_003:0028b26_4']	喜俱樂，故曰有喜。	喜俱樂，故曰有喜。	Because it is accompanied by joy and pleasure, it is said to have joy.
+['ZH_T25_1506_003:0028b26_16']	離喜不喜俱樂，故曰無喜。	離喜不喜俱樂，故曰無喜。	Because it is free from joy and not accompanied by joy, it is said to have no joy.
+['ZH_T25_1506_003:0028b27_7']	是離苦息樂、如馬息駕。	是離苦息樂、如馬息駕。	This is free from suffering, resting in pleasure, like a horse resting from pulling a carriage.
+['ZH_T25_1506_003:0028b27_9']	問：	問：	Question:
+['ZH_T25_1506_003:0028b27_14']	云何有喜？	云何有喜？	What is having joy?
+['ZH_T25_1506_003:0028b27_16']	答：	答：	Answer:
+['ZH_T25_1506_003:0028b28_7']	有喜者，有覺、無覺、少觀。	有喜者，有覺、無覺、少觀。	As for having joy, there is initial thought, no initial thought, and little sustained thought.
+['ZH_T25_1506_003:0028b29_9']	俱覺故說有覺，離覺故說無覺，少有觀故說少觀。	俱覺故說有覺，離覺故說無覺，少有觀故說少觀。	Because it is accompanied by initial thought, it is said to have initial thought. Because it is free from initial thought, it is said to have no initial thought. Because there is little sustained thought, it is said to have little sustained thought.
+['ZH_T25_1506_003:0028b29_17']	樂者，離是說禪。	樂者，離是說禪。	As for pleasure, it is said to be free from this and is called dhyāna.
+['ZH_T25_1506_003:0028c02_1']	於中有覺者是初禪，無覺者是二禪，少觀者是初中間。	於中有覺者是初禪，無覺者是二禪，少觀者是初中間。	Within this, having initial thought refers to the first dhyāna, no initial thought refers to the second dhyāna, and little sustained thought refers to the first intermediate state.
+['ZH_T25_1506_003:0028c02_9']	習此禪生色界中。	習此禪生色界中。	Practicing this meditation, one is reborn in the form realm.
+['ZH_T25_1506_003:0028c03_3']	說眾生為說界，說界為說禪。	說眾生為說界，說界為說禪。	Explaining sentient beings is explaining the realms, explaining the realms is explaining the meditations.
+['ZH_T25_1506_003:0028c03_5']	問：	問：	Question:
+['ZH_T25_1506_003:0028c03_12']	誰習有觀禪生？	誰習有觀禪生？	Who practices the meditation of contemplating existence and is reborn?
+['ZH_T25_1506_003:0028c03_14']	答：	答：	Answer:
+['ZH_T25_1506_003:0028c04_17']	有覺者，梵富樓、梵迦夷、梵波產，習有覺禪生彼中。	有覺者，梵富樓、梵迦夷、梵波產，習有覺禪生彼中。	Those with perception, such as Brahmapurohita, Brahmakayika, and Brahmaprabhasa, practice the meditation of contemplating existence and are reborn there.
+['ZH_T25_1506_003:0028c05_14']	梵富樓、梵迦夷、梵波產，此三種是有覺。	梵富樓、梵迦夷、梵波產，此三種是有覺。	Brahmapurohita, Brahmakayika, and Brahmaprabhasa, these three kinds are with perception.
+['ZH_T25_1506_003:0028c05_20']	軟中隨其生。	軟中隨其生。	Soft and medium, according to their birth.
+['ZH_T25_1506_003:0028c06_9']	大梵者，由少觀生覺。	大梵者，由少觀生覺。	As for Mahabrahma, due to slight contemplation, perception arises.
+['ZH_T25_1506_003:0028c06_15']	觀義前已說。	觀義前已說。	The meaning of contemplation has been explained before.
+['ZH_T25_1506_003:0028c06_17']	問：	問：	Question:
+['ZH_T25_1506_003:0028c07_1']	云何無覺？	云何無覺？	What is without perception?
+['ZH_T25_1506_003:0028c07_3']	答：	答：	Answer:
+['ZH_T25_1506_003:0028c07_17']	無覺者，少光、無量光、光耀。	無覺者，少光、無量光、光耀。	Those without perception are Parittasubha, Apramanasubha, and Subhakṛtsna.
+['ZH_T25_1506_003:0028c08_11']	覺習無覺喜樂相應禪，是生三種天：	覺習無覺喜樂相應禪，是生三種天：	Contemplating the meditation of non-perception, associated with joy and pleasure, one is reborn in three kinds of heavens:
+['ZH_T25_1506_003:0028c09_1']	少光、無量光、光耀。	少光、無量光、光耀。	Parittasubha, Apramanasubha, and Subhakṛtsna.
+['ZH_T25_1506_003:0028c09_13']	此想、或是假想、或因想。	此想、或是假想、或因想。	This perception, either conceptual or conceptual cause.
+['ZH_T25_1506_003:0028c10_13']	復次少光者，語言時口出少光，光少故說少光。	復次少光者，語言時口出少光，光少故說少光。	Furthermore, Parittasubha, when speaking, emits a little light from the mouth, because the light is small, it is called Parittasubha.
+['ZH_T25_1506_003:0028c11_2']	光多，故說無量光。	光多，故說無量光。	Because the light is abundant, it is said to be immeasurable light.
+['ZH_T25_1506_003:0028c11_12']	淨光無邊，故說光耀。	淨光無邊，故說光耀。	The pure light is boundless, so it is said to be radiant.
+['ZH_T25_1506_003:0028c11_14']	問：	問：	Question:
+['ZH_T25_1506_003:0028c11_19']	已說有喜。	已說有喜。	It has already been said that there is joy.
+['ZH_T25_1506_003:0028c12_3']	云何無喜？	云何無喜？	How is there no joy?
+['ZH_T25_1506_003:0028c12_5']	答：	答：	Answer:
+['ZH_T25_1506_003:0028c12_19']	無喜者，少淨、無量淨、遍淨。	無喜者，少淨、無量淨、遍淨。	Those without joy are the heavens of lesser purity, immeasurable purity, and universal purity.
+['ZH_T25_1506_003:0028c13_11']	覺習無喜樂相應禪，是生三種天。	覺習無喜樂相應禪，是生三種天。	Cultivating the meditation associated with the perception of joy without joy gives rise to these three kinds of heavens.
+['ZH_T25_1506_003:0028c14_16']	少淨者，是不多名，此少方便相應禪，生少淨天受樂。	少淨者，是不多名，此少方便相應禪，生少淨天受樂。	Lesser purity is a name for not being abundant. This meditation associated with lesser skillful means gives rise to the heaven of lesser purity and the experience of bliss.
+['ZH_T25_1506_003:0028c15_14']	亦少中方便，生無量淨天，上生遍淨天。	亦少中方便，生無量淨天，上生遍淨天。	It is also the lesser skillful means that gives rise to the heaven of immeasurable purity, and above that, to the heaven of universal purity.
+['ZH_T25_1506_003:0028c15_16']	問：	問：	Question:
+['ZH_T25_1506_003:0028c16_1']	已說無喜樂。	已說無喜樂。	It has already been said that there is joy without bliss.
+['ZH_T25_1506_003:0028c16_5']	云何護？	云何護？	How is there equanimity?
+['ZH_T25_1506_003:0028c16_7']	答：	答：	Answer:
+['ZH_T25_1506_003:0028c16_13']	護相應三種：	護相應三種：	Equanimity is associated with three kinds:
+['ZH_T25_1506_003:0028c17_5']	一有想、二無想、三覺意相應。	一有想、二無想、三覺意相應。	one is associated with perception, two are associated with non-perception, and three are associated with the factors of enlightenment.
+['ZH_T25_1506_003:0028c17_18']	彼護者，果實、無想、淨居。	彼護者，果實、無想、淨居。	Those who guard are the heavens of fruition, non-perception, and the pure abodes.
+['ZH_T25_1506_003:0028c18_12']	修習護樂相應禪生彼中，故說護。	修習護樂相應禪生彼中，故說護。	Cultivating the meditation associated with the bliss of guarding gives rise to these heavens, and therefore it is said to be guarding.
+['ZH_T25_1506_003:0028c18_16']	是三種：	是三種：	These are the three kinds:
+['ZH_T25_1506_003:0028c19_7']	果實天、無想天、淨居天。	果實天、無想天、淨居天。	the Heaven of Fruit Rearing, the Heaven of No-thought, and the Heaven of Pure Abode.
+['ZH_T25_1506_003:0028c20_5']	於中果實者，修習微中上第四禪生果實。	於中果實者，修習微中上第四禪生果實。	Among them, the Heaven of Fruit Rearing is born from cultivating the fourth dhyāna of lesser, middling, and superior levels.
+['ZH_T25_1506_003:0028c20_16']	無想者，滅想故生無想。	無想者，滅想故生無想。	The Heaven of No-thought is born from extinguishing thought and entering no-thought.
+['ZH_T25_1506_003:0028c22_6']	彼滅痛想識，以無欲想故俱滅，唯有色陰、行陰，少人生想便死。	彼滅痛想識，以無欲想故俱滅，唯有色陰、行陰，少人生想便死。	There, feeling, thought, and consciousness are extinguished. Because of the absence of desire and thought, they are extinguished together. Only the aggregates of form and volitional formations remain. If a few people give rise to thought, they immediately die.
+['ZH_T25_1506_003:0028c22_8']	問：	問：	Question:
+['ZH_T25_1506_003:0028c22_13']	云何淨居？	云何淨居？	What is the Heaven of Pure Abode?
+['ZH_T25_1506_003:0028c22_15']	答：	答：	Answer:
+['ZH_T25_1506_003:0028c23_6']	淨居者，善現、善見、淨。	淨居者，善現、善見、淨。	The Heaven of Pure Abode refers to the Heaven of Excellent Manifestation, the Heaven of Excellent Vision, and the Pure Heaven.
+['ZH_T25_1506_003:0028c23_21']	善現、善見、淨，此三種是淨居。	善現、善見、淨，此三種是淨居。	The Heaven of Excellent Manifestation, the Heaven of Excellent Vision, and the Pure Heaven - these three are the Heavens of Pure Abode.
+['ZH_T25_1506_003:0028c24_7']	淨居者，諸煩惱盡居。	淨居者，諸煩惱盡居。	The Heaven of Pure Abode refers to the abode where all afflictions are exhausted.
+['ZH_T25_1506_003:0028c24_9']	問：	問：	Question:
+['ZH_T25_1506_003:0028c24_20']	五淨居地，今何以說三？	五淨居地，今何以說三？	Why are only three of the five heavens of pure abode mentioned now?
+['ZH_T25_1506_003:0028c25_1']	答：	答：	Answer:
+['ZH_T25_1506_003:0028c25_14']	淨者，無煩、無熱、色究竟。	淨者，無煩、無熱、色究竟。	The Pure Heavens are the Heaven of No Afflictions, the Heaven of No Heat, and the Ultimate Form Heaven.
+['ZH_T25_1506_003:0028c26_14']	無煩、無熱、色究竟者，此三是淨相，作經者意欲爾。	無煩、無熱、色究竟者，此三是淨相，作經者意欲爾。	The Heaven of No Afflictions, the Heaven of No Heat, and the Ultimate Form Heaven - these three have the characteristic of purity. The intention of the sutra author is like this.
+['ZH_T25_1506_003:0028c26_16']	問：	問：	Question:
+['ZH_T25_1506_003:0028c27_1']	已說色界。	已說色界。	The form realm has been explained.
+['ZH_T25_1506_003:0028c27_7']	云何無色界？	云何無色界？	What is the formless realm?
+['ZH_T25_1506_003:0028c27_9']	答：	答：	Answer:
+['ZH_T25_1506_003:0028c27_19']	無色者，前修中已說。	無色者，前修中已說。	The formless ones have already been explained in the previous cultivation.
+['ZH_T25_1506_003:0028c28_18']	彼於是間修習正受，生無色界，是道及果俱說。	彼於是間修習正受，生無色界，是道及果俱說。	They cultivate the samādhi here and are born in the formless realm. This is the path and its fruits together.
+['ZH_T25_1506_003:0028c29_8']	依品第二真度說竟。	依品第二真度說竟。	The second true liberation based on the stages is finished.
+['ZH_T25_1506_003:0029a01_1']	問：	問：	Question:
+['ZH_T25_1506_003:0029a01_6']	已說陰界。	已說陰界。	The aggregates and realms have already been explained.
+['ZH_T25_1506_003:0029a01_11']	云何為入？	云何為入？	What are the sense bases?
+['ZH_T25_1506_003:0029a01_13']	答：	答：	Answer:
+['ZH_T25_1506_003:0029a02_1']	入者，細滑、度、解脫入。	入者，細滑、度、解脫入。	The sense bases are the sense base of touch, the sense base of measure, and the sense base of liberation.
+['ZH_T25_1506_003:0029a02_18']	細滑入、度入、解脫入，此三是入相。	細滑入、度入、解脫入，此三是入相。	The sense base of touch, the sense base of measure, and the sense base of liberation - these three are the characteristics of the sense bases.
+['ZH_T25_1506_003:0029a03_5']	入者依，如天廟。	入者依，如天廟。	The sense bases are the basis, like a heavenly temple.
+['ZH_T25_1506_003:0029a03_7']	問：	問：	Question:
+['ZH_T25_1506_003:0029a03_12']	彼為誰入？	彼為誰入？	What do they enter?
+['ZH_T25_1506_003:0029a03_14']	答：	答：	Answer:
+['ZH_T25_1506_003:0029a03_19']	德、惡入。	德、惡入。	The sense bases of virtue and evil.
+['ZH_T25_1506_003:0029a04_7']	於中解脫入者，是德所依。	於中解脫入者，是德所依。	Among them, the sense base of liberation is the basis of virtue.
+['ZH_T25_1506_003:0029a04_16']	度入者，是惡所依。	度入者，是惡所依。	The sense base of measure is the basis of evil.
+['ZH_T25_1506_003:0029a05_3']	細滑入，俱所依。	細滑入，俱所依。	The sense base of touch is the basis of both.
+['ZH_T25_1506_003:0029a05_14']	染污意生惡，淨意生德。	染污意生惡，淨意生德。	Defiled mind gives rise to evil, pure mind gives rise to virtue.
+['ZH_T25_1506_003:0029a05_16']	問：	問：	Question:
+['ZH_T25_1506_003:0029a06_1']	云何細滑入？	云何細滑入？	What is the sense base of touch?
+['ZH_T25_1506_003:0029a06_3']	答：	答：	Answer:
+['ZH_T25_1506_003:0029a06_21']	細滑入者，近境界、不近境界、無境界。	細滑入者，近境界、不近境界、無境界。	The sense base of touch is the proximate object, the non-proximate object, and the non-object.
+['ZH_T25_1506_003:0029a07_15']	細滑入是近境界、不近境界、無境界。	細滑入是近境界、不近境界、無境界。	The subtle and smooth sense bases are the proximate sense bases, the non-proximate sense bases, and the non-sense bases.
+['ZH_T25_1506_003:0029a08_2']	境界者，是緣處。	境界者，是緣處。	The sense bases are the objects of the sense faculties.
+['ZH_T25_1506_003:0029a09_14']	隨其緣行，是彼境界近緣說近境界，不近緣說不近境界，無緣說無境界。	隨其緣行，是彼境界近緣說近境界，不近緣說不近境界，無緣說無境界。	According to their objects, this is called the proximate sense bases. The non-proximate sense bases are called the non-proximate sense bases. The non-sense bases are called the non-sense bases.
+['ZH_T25_1506_003:0029a09_16']	問：	問：	Question:
+['ZH_T25_1506_003:0029a10_2']	云何近境界？	云何近境界？	What are the proximate sense bases?
+['ZH_T25_1506_003:0029a10_4']	答：	答：	Answer:
+['ZH_T25_1506_003:0029a10_16']	近境界者，鼻、舌、身入。	近境界者，鼻、舌、身入。	The proximate sense bases are the nose, tongue, and body sense bases.
+['ZH_T25_1506_003:0029a11_7']	鼻入、舌入、身入，是三近境界。	鼻入、舌入、身入，是三近境界。	The nose sense base, tongue sense base, and body sense base are the three proximate sense bases.
+['ZH_T25_1506_003:0029a11_17']	香至鼻聞、不至不聞。	香至鼻聞、不至不聞。	Smells reach the nose and are smelled, but if they do not reach, they are not smelled.
+['ZH_T25_1506_003:0029a12_11']	雖有華極遠，但香離華來至鼻聞。	雖有華極遠，但香離華來至鼻聞。	Although there are flowers that are extremely far away, the fragrance leaves the flowers and comes to the nose to be smelled.
+['ZH_T25_1506_003:0029a13_19']	香者性色，是以因北風，香至南不至北，是以香離華來至鼻聞。	香者性色，是以因北風，香至南不至北，是以香離華來至鼻聞。	Fragrance is by nature form, therefore due to the north wind, the fragrance reaches the south but not the north, therefore the fragrance leaves the flowers and comes to the nose to be smelled.
+['ZH_T25_1506_003:0029a14_17']	味亦如是，著舌知味，不從器、不從手。	味亦如是，著舌知味，不從器、不從手。	Taste is also like this, it is known by the tongue, not from the vessel, not from the hand.
+['ZH_T25_1506_003:0029a15_2']	細滑亦如是。	細滑亦如是。	Smoothness is also like this.
+['ZH_T25_1506_003:0029a16_9']	身根所覺是八種，堅軟、輕重、麁澁、寒熱，由彼彼種細滑而後覺。	身根所覺是八種，堅軟、輕重、麁澁、寒熱，由彼彼種細滑而後覺。	What is perceived by the body faculty is the eight kinds: hard, soft, light, heavy, rough, smooth, cold, and hot. One perceives them later through their respective kinds of smoothness.
+['ZH_T25_1506_003:0029a16_17']	是故彼三近境界。	是故彼三近境界。	Therefore, those three are close to their objects.
+['ZH_T25_1506_003:0029a16_19']	問：	問：	Question:
+['ZH_T25_1506_003:0029a17_6']	云何不近境界？	云何不近境界？	How are they not close to their objects?
+['ZH_T25_1506_003:0029a17_8']	答：	答：	Answer:
+['ZH_T25_1506_003:0029a17_21']	不近境界者，眼、耳、意入。	不近境界者，眼、耳、意入。	The not close to their objects are the eye, ear, and mind faculties.
+['ZH_T25_1506_003:0029a18_14']	眼入、耳入、意入，是三不近境界。	眼入、耳入、意入，是三不近境界。	The eye faculty, ear faculty, and mind faculty - these three are not close to their objects.
+['ZH_T25_1506_003:0029a18_16']	問：	問：	Question:
+['ZH_T25_1506_003:0029a19_4']	眼亦近見少不逼境界。	眼亦近見少不逼境界。	The eye also sees what is close and does not necessarily approach its objects.
+['ZH_T25_1506_003:0029a19_17']	耳亦如是，蚊在耳中亦聞聲。	耳亦如是，蚊在耳中亦聞聲。	The ear is also like this, one can hear a mosquito in the ear.
+['ZH_T25_1506_003:0029a20_2']	意是無色。	意是無色。	The mind is formless.
+['ZH_T25_1506_003:0029a20_10']	云何知不近境界？	云何知不近境界？	How do we know it is not close to its objects?
+['ZH_T25_1506_003:0029a20_12']	答：	答：	Answer:
+['ZH_T25_1506_003:0029a21_9']	以是故說不近境界，若不逼則受境界。	以是故說不近境界，若不逼則受境界。	For this reason, it is said to be not close to its objects. If it does not approach, then it receives its objects.
+['ZH_T25_1506_003:0029a21_11']	問：	問：	Question:
+['ZH_T25_1506_003:0029a21_20']	不近境界為齊幾何？	不近境界為齊幾何？	How far is it from its objects if it is not close to them?
+['ZH_T25_1506_003:0029a22_1']	答：	答：	Answer:
+['ZH_T25_1506_003:0029a22_7']	此中無齊限。	此中無齊限。	There is no limit to this.
+['ZH_T25_1506_003:0029a23_2']	或有四十千由旬見日月，或不見。	或有四十千由旬見日月，或不見。	Some see the sun and moon forty thousand yojanas away, some do not see them.
+['ZH_T25_1506_003:0029a23_18']	或一由旬見色，或十里，隨其根力。	或一由旬見色，或十里，隨其根力。	Some see color for one yojana, some for ten li, according to the power of their faculties.
+['ZH_T25_1506_003:0029a24_11']	以是故說不近境界，不說遠。	以是故說不近境界，不說遠。	Therefore it is said not to be a proximate object, not that it is distant.
+['ZH_T25_1506_003:0029a25_11']	但不逼受境界，非以物至見處見，離而後見。	但不逼受境界，非以物至見處見，離而後見。	But it is not an object that is grasped by contact, it is seen even when separated from the object.
+['ZH_T25_1506_003:0029a27_5']	耳亦如是，非以逼近故得聞，蚊雖在耳中不至聞處，此亦隨其根力聞聲。	耳亦如是，非以逼近故得聞，蚊雖在耳中不至聞處，此亦隨其根力聞聲。	The ear is also like this, it does not hear by being close to the sound, even if a mosquito is in the ear it does not reach the place of hearing, it hears sound according to the power of the faculty.
+['ZH_T25_1506_003:0029a28_7']	意者無色，彼無近遠，是以說不近境界，不說遠。	意者無色，彼無近遠，是以說不近境界，不說遠。	The mind is formless, it has no near or far, therefore it is said to have no proximate object, not that it is distant.
+['ZH_T25_1506_003:0029a28_9']	問：	問：	Question:
+['ZH_T25_1506_003:0029a28_15']	云何無境界？	云何無境界？	How is it without an object?
+['ZH_T25_1506_003:0029a28_17']	答：	答：	Answer:
+['ZH_T25_1506_003:0029a29_9']	無境界者，外已受、他受及不受。	無境界者，外已受、他受及不受。	As for having no object, it is external, already experienced, experienced by others, and not experienced.
+['ZH_T25_1506_003:0029b01_11']	外者無境界，色聲香味細滑法，於此法中假名外。	外者無境界，色聲香味細滑法，於此法中假名外。	The external is without an object, form, sound, smell, taste, and touch are the dharmas, and in these dharmas the name external is provisionally established.
+['ZH_T25_1506_003:0029b02_12']	是已受、他受及不受，此無境界，但為他境界。	是已受、他受及不受，此無境界，但為他境界。	This is already experienced, experienced by others, and not experienced, it has no object, but is only the object of others.
+['ZH_T25_1506_003:0029b04_1']	此五境界無緣，而他所緣法當分別，是亦多無境界，故說無境界。	此五境界無緣，而他所緣法當分別，是亦多無境界，故說無境界。	These five objects have no conditions, but the objects of others should be distinguished. These also have many objects, so they are said to have no objects.
+['ZH_T25_1506_003:0029b04_8']	問已說細滑入。	問已說細滑入。	Having already explained the aggregate of touch,
+['ZH_T25_1506_003:0029b04_13']	云何度入？	云何度入？	how are the sense bases explained?
+['ZH_T25_1506_003:0029b04_15']	答：	答：	The answer is:
+['ZH_T25_1506_003:0029b05_10']	度入者，一處因、不正因、無因說。	度入者，一處因、不正因、無因說。	The sense bases are said to be one cause, an improper cause, and no cause.
+['ZH_T25_1506_003:0029b06_16']	一處因說、不正因說、無因說，此三義無量，而略說是三度入。	一處因說、不正因說、無因說，此三義無量，而略說是三度入。	One cause is said, an improper cause is said, and no cause is said. These three meanings are immeasurable, but in brief, these three sense bases are explained.
+['ZH_T25_1506_003:0029b07_17']	於中一處因者，說言如因陀羅幢，眾人所舉來。	於中一處因者，說言如因陀羅幢，眾人所舉來。	Among them, one cause is said to be like the banner of Indra, raised by many people.
+['ZH_T25_1506_003:0029b08_9']	於中一說者，調達持來。	於中一說者，調達持來。	Among them, one is said to be brought by Devadatta.
+['ZH_T25_1506_003:0029b09_11']	彼亦在中，但非獨調達，於此事應說眾而說一。	彼亦在中，但非獨調達，於此事應說眾而說一。	He is also in the middle, but not only Devadatta. In this matter, the many should be said, but one is said.
+['ZH_T25_1506_003:0029b11_12']	一處因說亦如是，三事合成義，或宿命業、或現所作、或由他因，如是三事成，義唯說一。	一處因說亦如是，三事合成義，或宿命業、或現所作、或由他因，如是三事成，義唯說一。	The same is true for one cause being said. The meaning of the combination of three things, either from karma in a past life, or from what is done in the present, or from other causes, in this way the three things are accomplished, but only one is said.
+['ZH_T25_1506_003:0029b13_1']	不正因說者，言如此因陀羅幢，有人說非一人所持來亦非二。	不正因說者，言如此因陀羅幢，有人說非一人所持來亦非二。	As for the incorrect explanation of causes, some say that such a Indra's banner is not brought by one person nor by two.
+['ZH_T25_1506_003:0029b13_11']	此中雖有因，但不正。	此中雖有因，但不正。	Although there are causes here, they are simply incorrect.
+['ZH_T25_1506_003:0029b14_10']	無因說者，言如是因陀羅幢，無所因而來。	無因說者，言如是因陀羅幢，無所因而來。	As for the explanation of no causes, some say that such an Indra's banner comes without any cause.
+['ZH_T25_1506_003:0029b14_12']	問：	問：	Question:
+['ZH_T25_1506_003:0029b14_18']	云何一處因？	云何一處因？	What is meant by a single cause?
+['ZH_T25_1506_003:0029b14_20']	答：	答：	Answer:
+['ZH_T25_1506_003:0029b15_9']	一處者，業自他功夫。	一處者，業自他功夫。	A single cause refers to the effort of oneself and others.
+['ZH_T25_1506_003:0029b15_19']	一說已所作者有二種：	一說已所作者有二種：	There are two kinds of what has been done by oneself:
+['ZH_T25_1506_003:0029b16_10']	或宿命所作、或現所作。	或宿命所作、或現所作。	either done in a past life or done in the present.
+['ZH_T25_1506_003:0029b17_3']	於中若宿命所作者是名業。	於中若宿命所作者是名業。	Among them, if it was done in a past life, it is called karma.
+['ZH_T25_1506_003:0029b17_11']	或復有說天作者。	或復有說天作者。	Or some say it is created by the gods.
+['ZH_T25_1506_003:0029b18_2']	如是三種成義，如前說。	如是三種成義，如前說。	Such three kinds of established meanings are as explained above.
+['ZH_T25_1506_003:0029b19_2']	如是三種義，或說業者、或說功夫、或說他恩。	如是三種義，或說業者、或說功夫、或說他恩。	Such three kinds of meanings are either explained as karma, or as effort, or as the kindness of others.
+['ZH_T25_1506_003:0029b20_5']	一處者唯說業，彼負他功夫，不知恩義，不可與從事。	一處者唯說業，彼負他功夫，不知恩義，不可與從事。	As for a single cause, it only refers to karma. If one owes the effort of others, does not know kindness, and cannot be associated with,Here is the corrected and aligned text:
+['ZH_T25_1506_003:0029b21_2']	若我本所作，求以不求會當自得。	若我本所作，求以不求會當自得。	If it is what I originally created, whether sought or not sought, it will naturally be obtained.
+['ZH_T25_1506_003:0029b21_11']	一處說者有如是咎。	一處說者有如是咎。	If it is explained in one place, there is this fault.
+['ZH_T25_1506_003:0029b21_13']	問：	問：	Question:
+['ZH_T25_1506_003:0029b21_19']	云何不正因？	云何不正因？	What is an incorrect cause?
+['ZH_T25_1506_003:0029b21_21']	答：	答：	Answer:
+['ZH_T25_1506_003:0029b22_16']	不正因說者，眾生、法、俱根因想說。	不正因說者，眾生、法、俱根因想說。	The one who explains an incorrect cause thinks of the cause as sentient beings, phenomena, or both.
+['ZH_T25_1506_003:0029b23_2']	不正因說三種：	不正因說三種：	The incorrect cause is explained in three ways:
+['ZH_T25_1506_003:0029b23_16']	眾生、法、俱眾生及法根因想。	眾生、法、俱眾生及法根因想。	sentient beings, phenomena, or both sentient beings and phenomena.
+['ZH_T25_1506_003:0029b25_6']	好惡眾生所作，或復說法所作，或說眾生及法所作，是不正因說三種。	好惡眾生所作，或復說法所作，或說眾生及法所作，是不正因說三種。	What is created by good or bad sentient beings, or what is created by explaining phenomena, or what is created by sentient beings and phenomena, is the three types of incorrect cause explanations.
+['ZH_T25_1506_003:0029b25_20']	但非眾生作、非法作、亦非俱。	但非眾生作、非法作、亦非俱。	But it is not created by sentient beings, not created by phenomena, and not created by both.
+['ZH_T25_1506_003:0029b26_1']	問：	問：	Question:
+['ZH_T25_1506_003:0029b26_9']	云何眾生根因想？	云何眾生根因想？	What is the thought of the cause of sentient beings' faculties?
+['ZH_T25_1506_003:0029b26_11']	答：	答：	Answer:
+['ZH_T25_1506_003:0029b27_4']	眾生者，梵、伊攝披羅、謂駛耨說。	眾生者，梵、伊攝披羅、謂駛耨說。	Sentient beings refer to Brahma, Iśvara, Kapila, and Kaṇāda.
+['ZH_T25_1506_003:0029b27_13']	說者，眾生作世間。	說者，眾生作世間。	The one who explains thinks that sentient beings create the world.
+['ZH_T25_1506_003:0029b28_19']	梵造化主、伊攝披羅造化主、謂駛耨造化主，無慧者謂爾。	梵造化主、伊攝披羅造化主、謂駛耨造化主，無慧者謂爾。	The ignorant think that Brahma is the creator, Iśvara is the creator, Kapila is the creator, and Kaṇāda is the creator.
+['ZH_T25_1506_003:0029c01_16']	言梵造化者，說梵天造虛空，虛空造風，風造水地，水地造丘山草木，如是有世間。	言梵造化者，說梵天造虛空，虛空造風，風造水地，水地造丘山草木，如是有世間。	As for the statement that Brahma creates transformation, it says that Brahma creates space, space creates wind, wind creates water and earth, water and earth create hills, mountains, grasses and trees, and thus there is the world.
+['ZH_T25_1506_003:0029c02_3']	彼一切有過。	彼一切有過。	All of this is faulty.
+['ZH_T25_1506_003:0029c02_8']	所以者何？	所以者何？	Why is it so?
+['ZH_T25_1506_003:0029c03_7']	若梵天造空及地者，彼住何處造此空及地？	若梵天造空及地者，彼住何處造此空及地？	If Brahma creates space and earth, in what place does he create this space and earth?
+['ZH_T25_1506_003:0029c03_19']	若即住中造者，是義不然。	若即住中造者，是義不然。	If he creates it while residing in it, this is not reasonable.
+['ZH_T25_1506_003:0029c04_4']	如是有過。	如是有過。	Thus there is fault.
+['ZH_T25_1506_003:0029c04_16']	伊攝披羅，謂駛耨亦如是。	伊攝披羅，謂駛耨亦如是。	The Iśvarakṛṣṇa Sāṃkhya Kārikā also states the same.
+['ZH_T25_1506_003:0029c04_18']	問：	問：	Question:
+['ZH_T25_1506_003:0029c05_1']	云何法？	云何法？	What is the Dharma?
+['ZH_T25_1506_003:0029c05_3']	答：	答：	Answer:
+['ZH_T25_1506_003:0029c05_14']	法者，時、氣、自然作。	法者，時、氣、自然作。	The Dharma is created by time, nature, and spontaneous action.
+['ZH_T25_1506_003:0029c06_5']	時作、氣作、自然作，此三說法根因。	時作、氣作、自然作，此三說法根因。	Created by time, created by nature, and created spontaneously - these three are said to be the root causes of the Dharma.
+['ZH_T25_1506_003:0029c06_11']	於中言時者：	於中言時者：	Among them, time is said to be:
+['ZH_T25_1506_003:0029c07_0']	「時節生一切，　　一切時節熟，	「時節生一切，　　一切時節熟，	Time gives rise to everything, everything ripens in time,
+['ZH_T25_1506_003:0029c08_13']	一切時所壞，　　一切世時作。	一切時所壞，　　一切世時作。	Everything is destroyed in time, everything in the world is created by time.
+['ZH_T25_1506_003:0029c09_4']	」此說有咎。	」此說有咎。	This statement is faulty.
+['ZH_T25_1506_003:0029c10_13']	如前一處說中，可求者不求、若不可求求得者，是時作，行非作。	如前一處說中，可求者不求、若不可求求得者，是時作，行非作。	As explained in the previous section, if what can be sought is not sought, or if what cannot be sought is sought and obtained, then at that time, it is action but not creation.
+['ZH_T25_1506_003:0029c10_18']	莫言有過。	莫言有過。	Do not say there is a fault.
+['ZH_T25_1506_003:0029c11_2']	所以者何？	所以者何？	Why is it so?
+['ZH_T25_1506_003:0029c11_16']	時者空，若空，造物者義不然。	時者空，若空，造物者義不然。	Time is empty. If it is empty, the meaning of the creator is not so.
+['ZH_T25_1506_003:0029c12_1']	如是皆有過。	如是皆有過。	In this way, all have faults.
+['ZH_T25_1506_003:0029c13_0']	「氣亦不能造，　　氣者無有情，	「氣亦不能造，　　氣者無有情，	Qi also cannot create, qi has no sentience,
+['ZH_T25_1506_003:0029c14_13']	是謂事無事，　　氣無有此念。	是謂事無事，　　氣無有此念。	This is called having affairs and not having affairs, qi has no such thought.
+['ZH_T25_1506_003:0029c16_11']	自然亦如是，自然若生，　　非自然義。	自然亦如是，自然若生，　　非自然義。	Nature is also like this, if nature arises, it is not the meaning of nature.
+['ZH_T25_1506_003:0029c17_5']	」若無者非因。	」若無者非因。	If it does not exist, it is not a cause.
+['ZH_T25_1506_003:0029c18_3']	若無因生，一切生亦如是，自然何差降？	若無因生，一切生亦如是，自然何差降？	If arising occurs without a cause, all arising is also like this, what is the difference in nature?
+['ZH_T25_1506_003:0029c18_12']	若有常者，彼何咎？	若有常者，彼何咎？	If it exists permanently, what is the fault?
+['ZH_T25_1506_003:0029c19_2']	非有常敗壞如是比過。	非有常敗壞如是比過。	It is not permanent destruction, such faults as this.
+['ZH_T25_1506_003:0029c19_7']	莫言有咎。	莫言有咎。	Do not say there is a fault.
+['ZH_T25_1506_003:0029c19_9']	問：	問：	Question:
+['ZH_T25_1506_003:0029c19_14']	云何無因？	云何無因？	How is it without a cause?
+['ZH_T25_1506_003:0029c19_16']	答：	答：	Answer:
+['ZH_T25_1506_003:0029c20_1']	無因者，性、偶、無。	無因者，性、偶、無。	As for no cause, it is nature, coincidence, and non-existence.
+['ZH_T25_1506_003:0029c20_11']	說無因者，是三種說：	說無因者，是三種說：	Those who speak of no cause make three kinds of statements:
+['ZH_T25_1506_003:0029c20_20']	性說、偶說、無說。	性說、偶說、無說。	Nature, chance, and nothingness.
+['ZH_T25_1506_003:0029c21_10']	性者，言萬物性中生，非因他。	性者，言萬物性中生，非因他。	Nature means that things are born from the nature within them, not from other causes.
+['ZH_T25_1506_003:0029c21_15']	所以者何？	所以者何？	Why is this?
+['ZH_T25_1506_003:0029c22_9']	如棘刺利，無能利者，如是一切。	如棘刺利，無能利者，如是一切。	Just as thorns are sharp, no one can make them sharp, so it is with everything.
+['ZH_T25_1506_003:0029c22_19']	說偶者，言萬物偶生。	說偶者，言萬物偶生。	Those who speak of chance say that things are born by chance.
+['ZH_T25_1506_003:0029c23_16']	如大水泉原，草墮中合在一處，說偶爾。	如大水泉原，草墮中合在一處，說偶爾。	Just as grass falls into a spring of great water and sticks together in one place, it is said to be by chance.
+['ZH_T25_1506_003:0029c24_8']	彼偶風來，或吹東西南北。	彼偶風來，或吹東西南北。	Then the wind comes and blows it to the east, west, north, and south.
+['ZH_T25_1506_003:0029c24_15']	萬物生亦如是。	萬物生亦如是。	The birth of things is also like this.
+['ZH_T25_1506_003:0029c25_11']	說無者，言審爾此中無所有，云何生？	說無者，言審爾此中無所有，云何生？	Those who speak of nothingness say, Indeed, there is nothing here. How can it be born?
+['ZH_T25_1506_003:0029c25_15']	由何生？	由何生？	From what is it born?
+['ZH_T25_1506_003:0029c25_19']	何處生？	何處生？	Where is it born?
+['ZH_T25_1506_003:0029c26_5']	此非有所有。	此非有所有。	This is not something that exists.
+['ZH_T25_1506_003:0029c26_11']	彼一切有咎。	彼一切有咎。	All of them have faults.
+['ZH_T25_1506_003:0029c26_16']	所以者何？	所以者何？	Why is this?
+['ZH_T25_1506_003:0029c28_3']	若萬物性應生者，生萌牙時，不須作田業，亦不須溉灌。	若萬物性應生者，生萌牙時，不須作田業，亦不須溉灌。	If things should be born from their nature, when sprouts are born, there is no need to farm or irrigate.
+['ZH_T25_1506_003:0029c28_14']	若無此事，萌牙終不生。	若無此事，萌牙終不生。	If this does not happen, sprouts will never grow.
+['ZH_T25_1506_003:0029c29_4']	是以萬物非性所生。	是以萬物非性所生。	Therefore, myriad things are not born from nature.
+['ZH_T25_1506_003:0029c29_11']	如是一一當止。	如是一一當止。	In this way, each should be stopped.
+['ZH_T25_1506_003:0029c29_13']	問：	問：	Question:
+['ZH_T25_1506_003:0029c29_18']	已說度入。	已說度入。	The penetrations have been explained.
+['ZH_T25_1506_003:0030a01_3']	云何解脫入？	云何解脫入？	How are the liberations penetrated?
+['ZH_T25_1506_003:0030a01_5']	答：	答：	Answer:
+['ZH_T25_1506_003:0030a01_17']	解脫入者，想、禪、博聞。	解脫入者，想、禪、博聞。	As for the liberations being penetrated, they are conceptualization, meditation, and extensive learning.
+['ZH_T25_1506_003:0030a02_5']	想、禪、博聞，此三是解脫入。	想、禪、博聞，此三是解脫入。	Conceptualization, meditation, and extensive learning - these three are the liberations being penetrated.
+['ZH_T25_1506_003:0030a02_15']	解脫者，滅惡彼解脫。	解脫者，滅惡彼解脫。	Liberation means extinguishing evil and being liberated from it.
+['ZH_T25_1506_003:0030a03_4']	此三入，依是得解脫。	此三入，依是得解脫。	These three penetrations are based on this to attain liberation.
+['ZH_T25_1506_003:0030a04_3']	想者是緣義，依此佛，辟支佛，聲聞得解脫。	想者是緣義，依此佛，辟支佛，聲聞得解脫。	Conceptualization means the meaning of conditions. Based on this, buddhas, pratyekabuddhas, and śrāvakas attain liberation.
+['ZH_T25_1506_003:0030a05_4']	禪者，如第一品已說，當觀此義，亦依彼得解脫。	禪者，如第一品已說，當觀此義，亦依彼得解脫。	Meditation is as explained in the first chapter. One should contemplate this meaning, and also attain liberation based on it.
+['ZH_T25_1506_003:0030a05_6']	問：	問：	Question:
+['ZH_T25_1506_003:0030a05_11']	云何博聞？	云何博聞？	What is meant by extensive learning?
+['ZH_T25_1506_003:0030a05_13']	答：	答：	Answer:
+['ZH_T25_1506_003:0030a05_23']	博聞者，說、聽、誦。	博聞者，說、聽、誦。	As for extensive learning, it refers to speaking, listening, and reciting.
+['ZH_T25_1506_003:0030a06_7', 'ZH_T25_1506_003:0030a06_15']	說者，說如所聽。🔽聽者，聽如所說。	說者，說如所聽。 聽者，聽如所說。	Speaking means speaking as one has heard.🔽Listening means listening as one has spoken.
+['ZH_T25_1506_003:0030a07_1']	誦者，如所聞誦。	誦者，如所聞誦。	Reciting means reciting as one has heard.
+['ZH_T25_1506_003:0030a07_3']	問：	問：	Question:
+['ZH_T25_1506_003:0030a07_21']	博聞者，前多聞已說契經、阿毘曇、律。	博聞者，前多聞已說契經、阿毘曇、律。	As for being well-versed, the previous explanation of being learned already mentioned sutras, abhidharma, and the vinaya.
+['ZH_T25_1506_003:0030a08_12']	此中有何異，復說說、聽、誦？	此中有何異，復說說、聽、誦？	What is the difference here, to again speak of speaking, listening, and reciting?
+['ZH_T25_1506_003:0030a08_14']	答：	答：	Answer:
+['ZH_T25_1506_003:0030a09_3']	前三種多聞，應三種受：	前三種多聞，應三種受：	The previous three kinds of being learned should be received in three ways:
+['ZH_T25_1506_003:0030a09_15']	說時受、聽時受、誦時受。	說時受、聽時受、誦時受。	when speaking, receiving, when listening, receiving, when reciting, receiving.
+['ZH_T25_1506_003:0030a10_2']	世尊弟子四種：	世尊弟子四種：	The World-Honored One's disciples are of four kinds:
+['ZH_T25_1506_003:0030a11_3']	有真諦處成、有施處成、有止處成、有慧處成。	有真諦處成、有施處成、有止處成、有慧處成。	some attain the truth, some attain giving, some attain cessation, some attain wisdom.
+['ZH_T25_1506_003:0030a11_16']	彼是方便聽真諦，故得解脫。	彼是方便聽真諦，故得解脫。	They listen to the truth as a skillful means, and thus attain liberation.
+['ZH_T25_1506_003:0030a12_17']	施處說止、止處從禪、慧處從誦，是謂解脫處。	施處說止、止處從禪、慧處從誦，是謂解脫處。	In the place of giving, cessation is spoken of, in the place of cessation, from meditation, in the place of wisdom, from recitation, this is called the place of liberation.
+['ZH_T25_1506_003:0030a14_1']	此三法度，正觀無罣礙，意欲令見其真，漸次得是解脫。	此三法度，正觀無罣礙，意欲令見其真，漸次得是解脫。	These three dharmas cross over, correctly contemplate without obstruction, the mind wishes to make them see its truth, gradually attaining this liberation.
+['ZH_T25_1506_003:0030a14_13']	得解脫故，慧者學世尊法。	得解脫故，慧者學世尊法。	Because of attaining liberation, the wise study the World-Honored One's Dharma.
+['ZH_T25_1506_003:0030a15_8']	依品第三真度說竟。	依品第三真度說竟。	The third chapter of the treatise on the three dharmas is completed.Here is the corrected and aligned text:
+['ZH_T25_1506_003:0030a16_100']	三法度論卷下	三法度論卷下	Treatise on the Three Dharmas, Scroll 2

@@ -1,0 +1,933 @@
+segmentnr	original	analyzed	translated
+['ZH_T30_1569_001:0168a18_0']	百論卷上	百論卷上	Hundred Treatises, Scroll 1
+['ZH_T30_1569_001:0168a20_0']	提婆菩薩造　婆藪開士釋	提婆菩薩造　婆藪開士釋	Composed by Bodhisattva Deva, Explained by Upāsaka Kaimoxi
+['ZH_T30_1569_001:0168a21_0']	姚秦三藏鳩摩羅什譯	姚秦三藏鳩摩羅什譯	Translated by Tripiṭaka Master Kumārajīva of the Yao Qin Dynasty
+['ZH_T30_1569_001:0168a23_0']	頂禮佛足哀世尊，　　於無量劫荷眾苦，	頂禮佛足哀世尊，　　於無量劫荷眾苦，	Bowing to the Buddha's feet, the compassionate World-Honored One, who for countless eons bore the sufferings of the many,
+['ZH_T30_1569_001:0168a24_17']	煩惱已盡習亦除，　　梵釋龍神咸恭敬。	煩惱已盡習亦除，　　梵釋龍神咸恭敬。	The afflictions already exhausted, the habits also removed, Brahmā, Indra, dragons and spirits all respectfully venerate.
+['ZH_T30_1569_001:0168a25_0']	亦禮無上照世法，　　能淨瑕穢止戲論，	亦禮無上照世法，　　能淨瑕穢止戲論，	Also bowing to the unsurpassed Dharma that illuminates the world, which can purify impurities and stop frivolous arguments,
+['ZH_T30_1569_001:0168a26_17']	諸佛世尊之所說，　　并及八輩應真僧。	諸佛世尊之所說，　　并及八輩應真僧。	That which is spoken by the Buddhas, the World-Honored Ones, and also the assembly of sages and saints.
+['ZH_T30_1569_001:0168a27_2']	外曰：	外曰：	The non-Buddhist says:
+['ZH_T30_1569_001:0168a27_16']	偈言世尊之所說，何等是世尊？	偈言世尊之所說，何等是世尊？	The verse says, That which is spoken by the World-Honored One. What is the World-Honored One?
+['ZH_T30_1569_001:0168a27_19']	內曰：	內曰：	The Buddhist says:
+['ZH_T30_1569_001:0168a28_6']	汝何故生如是疑？	汝何故生如是疑？	Why do you give rise to such doubts?
+['ZH_T30_1569_001:0168a28_9']	外曰：	外曰：	The non-Buddhist says:
+['ZH_T30_1569_001:0168a29_1']	種種說世尊相故生疑。	種種說世尊相故生疑。	Because there are various explanations of the characteristics of the World-Honored One, doubts arise.
+['ZH_T30_1569_001:0168a29_5']	有人言：	有人言：	Some people say:
+['ZH_T30_1569_001:0168a29_17']	葦紐天秦言遍勝天名世尊。	葦紐天秦言遍勝天名世尊。	The god Veṇu-tathāgata (meaning all-victorious) is called the World-Honored One.
+['ZH_T30_1569_001:0168a29_20']	又言：	又言：	Some also say:
+['ZH_T30_1569_001:0168b01_14']	摩醯首羅天秦言大自在天名世尊。	摩醯首羅天秦言大自在天名世尊。	The god Maheśvara (meaning great self-mastery) is called the World-Honored One.
+['ZH_T30_1569_001:0168b01_17']	又言：	又言：	Some also say:
+['ZH_T30_1569_001:0168b02_14']	迦毘羅、優樓迦、勒沙婆等仙人皆名世尊。	迦毘羅、優樓迦、勒沙婆等仙人皆名世尊。	Sages such as Kapila, Uluka, and Kanada are all called World Honored Ones.
+['ZH_T30_1569_001:0168b03_5']	汝何以獨言佛為世尊？	汝何以獨言佛為世尊？	Why do you alone call the Buddha the World Honored One?
+['ZH_T30_1569_001:0168b03_10']	是故生疑。	是故生疑。	Therefore, doubts arise.
+['ZH_T30_1569_001:0168b03_13']	內曰：	內曰：	Internally, it is said:
+['ZH_T30_1569_001:0168b05_3']	佛知諸法實相明了無礙，又能說深淨法，是故獨稱佛為世尊。	佛知諸法實相明了無礙，又能說深淨法，是故獨稱佛為世尊。	The Buddha clearly and unobstructedly knows the true characteristics of all dharmas, and is also able to expound the profound and pure Dharma. Therefore, he alone is called the World Honored One.
+['ZH_T30_1569_001:0168b05_6']	外曰：	外曰：	Externally, it is said:
+['ZH_T30_1569_001:0168b06_6']	諸餘導師亦能明了諸法相，亦能說深淨法。	諸餘導師亦能明了諸法相，亦能說深淨法。	Other guides are also able to clearly understand the characteristics of dharmas and are also able to expound the profound and pure Dharma.
+['ZH_T30_1569_001:0168b08_5']	如迦毘羅弟子誦僧佉經，說諸善法總相別相，於二十五諦中，淨覺分是名善法。	如迦毘羅弟子誦僧佉經，說諸善法總相別相，於二十五諦中，淨覺分是名善法。	For example, the disciples of Kapila recite the Sāṃkhya scriptures, speaking of the general and specific characteristics of good dharmas. Among the twenty-five principles, the pure awareness part is called good dharma.
+['ZH_T30_1569_001:0168b10_6']	優樓迦弟子誦衛世師經，言於六諦，求那諦中日三洗再供養，火等和合生神分善法。	優樓迦弟子誦衛世師經，言於六諦，求那諦中日三洗再供養，火等和合生神分善法。	The disciples of Uluka recite the Vaiśeṣika scriptures, saying that among the six principles, in the principle of seeking benefits, one should bathe three times a day and make offerings twice a day, and the combination of fire and so forth gives rise to the good dharma of the spiritual part.
+['ZH_T30_1569_001:0168b11_17']	勒沙婆弟子誦尼乾子經，言五熱炙身、拔髮等受苦法，是名善法。	勒沙婆弟子誦尼乾子經，言五熱炙身、拔髮等受苦法，是名善法。	The disciples of Kanada recite the Nyāya scriptures, saying that suffering practices such as bathing in five heats and pulling out hair are called good dharma.
+['ZH_T30_1569_001:0168b13_14']	又有諸師，行自餓法、投淵赴火、自墜高巖、寂默常立、持牛戒等，是名善法。	又有諸師，行自餓法、投淵赴火、自墜高巖、寂默常立、持牛戒等，是名善法。	There are also those who practice fasting, drowning in the abyss, jumping into fire, falling from high cliffs, silent standing, observing the cow precepts, and so on, which are considered good dharmas.
+['ZH_T30_1569_001:0168b14_13']	如是等皆是深淨法，何以言獨佛能說耶？	如是等皆是深淨法，何以言獨佛能說耶？	Such are all profound and pure dharmas. Why do you say only the Buddha can speak of them?
+['ZH_T30_1569_001:0168b14_16']	內曰：	內曰：	Internally, it is said:
+['ZH_T30_1569_001:0168b15_14']	是皆邪見，覆正見故，不能說深淨法。	是皆邪見，覆正見故，不能說深淨法。	These are all wrong views, because they cover the right view, and therefore cannot speak of the profound and pure Dharma.
+['ZH_T30_1569_001:0168b16_3']	是事後當廣說。	是事後當廣說。	This matter will be discussed in detail later.
+['ZH_T30_1569_001:0168b16_6']	外曰：	外曰：	Externally, it is said:
+['ZH_T30_1569_001:0168b16_14']	佛說何等善法相？	佛說何等善法相？	What are the characteristics of the good dharmas spoken by the Buddha?
+['ZH_T30_1569_001:0168b16_17']	內曰：	內曰：	Internally, it is said:
+['ZH_T30_1569_001:0168b17_6']	惡止善行法修妬路。	惡止善行法修妬路。	The Dharma of ceasing evil and practicing good.
+['ZH_T30_1569_001:0168b17_14']	佛略說善法二種：	佛略說善法二種：	The Buddha briefly speaks of two kinds of good dharmas:
+['ZH_T30_1569_001:0168b17_20']	止相、行相。	止相、行相。	The characteristics of cessation and the characteristics of practice.
+['ZH_T30_1569_001:0168b18_8']	息一切惡，是名止相；	息一切惡，是名止相；	Cessation of all evil is called the characteristic of cessation;
+['ZH_T30_1569_001:0168b18_18']	修一切善，是名行相。	修一切善，是名行相。	Cultivating all good is called the characteristic of practice.
+['ZH_T30_1569_001:0168b19_4']	何等為惡？	何等為惡？	What is evil?
+['ZH_T30_1569_001:0168b19_16']	身邪行、口邪行、意邪行。	身邪行、口邪行、意邪行。	Evil conduct of body, speech, and mind.
+['ZH_T30_1569_001:0168b19_18']	身：	身：	Body:
+['ZH_T30_1569_001:0168b20_3']	殺、盜、婬。	殺、盜、婬。	Killing, stealing, and sexual misconduct.
+['ZH_T30_1569_001:0168b20_5']	口：	口：	Speech:
+['ZH_T30_1569_001:0168b20_17']	妄言、兩舌、惡口、綺語。	妄言、兩舌、惡口、綺語。	False speech, divisive speech, harsh speech, and frivolous speech.
+['ZH_T30_1569_001:0168b20_19']	意：	意：	Mind:
+['ZH_T30_1569_001:0168b20_27']	貪、瞋惱、邪見。	貪、瞋惱、邪見。	Greed, hatred, and wrong views.
+['ZH_T30_1569_001:0168b22_14']	復有十不善道所不攝鞭杖繫閉等，及十不善道前後種種罪，是名為惡。	復有十不善道所不攝鞭杖繫閉等，及十不善道前後種種罪，是名為惡。	There are also those not included in the ten unwholesome paths, such as whipping, binding, and imprisoning, as well as various offenses before and after the ten unwholesome paths. This is called evil.
+['ZH_T30_1569_001:0168b23_1']	何等為止？	何等為止？	What is meant by cessation?
+['ZH_T30_1569_001:0168b23_6']	息惡不作。	息惡不作。	Cessation of evil and non-action.
+['ZH_T30_1569_001:0168b24_12']	若心生、若口語、若受戒，從今日終不復作，是名為止。	若心生、若口語、若受戒，從今日終不復作，是名為止。	Whether it arises in the mind, is spoken, or is accepted as a precept, from this day forth one will never commit it again. This is called cessation.
+['ZH_T30_1569_001:0168b24_17']	何等為善？	何等為善？	What is meant by good?
+['ZH_T30_1569_001:0168b25_11']	身正行、口正行、意正行。	身正行、口正行、意正行。	Right conduct of body, speech, and mind.
+['ZH_T30_1569_001:0168b26_1']	身迎送、合掌、禮敬等。	身迎送、合掌、禮敬等。	Such as welcoming, sending off, joining palms, and paying respects with the body.
+['ZH_T30_1569_001:0168b26_17']	口實語、和合語、柔軟語、利益語。	口實語、和合語、柔軟語、利益語。	Truthful speech, harmonious speech, gentle speech, and beneficial speech with the mouth.
+['ZH_T30_1569_001:0168b27_5']	意慈悲、正見等。	意慈悲、正見等。	Compassion and right views with the mind.
+['ZH_T30_1569_001:0168b27_18']	如是種種清淨法，是名善法。	如是種種清淨法，是名善法。	Various pure dharmas such as these are called good dharmas.
+['ZH_T30_1569_001:0168b28_3']	何等為行？	何等為行？	What is meant by practice?
+['ZH_T30_1569_001:0168b28_18']	於是善法中信受修習，是名為行。	於是善法中信受修習，是名為行。	Faithfully accepting and cultivating these good dharmas is called practice.
+['ZH_T30_1569_001:0168b29_2']	外曰：	外曰：	The outsider says:
+['ZH_T30_1569_001:0168b29_15']	汝經有過，初不吉故修妬路。	汝經有過，初不吉故修妬路。	Your sutra has a fault because it is not auspicious at the beginning, according to the sutra.
+['ZH_T30_1569_001:0168c01_17']	諸師作經法，初說吉故，義味易解，法音流布。	諸師作經法，初說吉故，義味易解，法音流布。	The masters who compose scriptures first speak of auspiciousness, so the meaning is easy to understand and the Dharma sound spreads.
+['ZH_T30_1569_001:0168c02_14']	若智人讀誦念知，便得增壽威德尊重。	若智人讀誦念知，便得增壽威德尊重。	If wise people read, recite, and contemplate it, they will attain increased longevity, majestic virtue, and respect.
+['ZH_T30_1569_001:0168c04_1']	如有經名婆羅呵波帝秦言廣主經，如是經等初皆言吉。	如有經名婆羅呵波帝秦言廣主經，如是經等初皆言吉。	There is a sutra called the Brahmadatta Sutra (meaning King of Vast Dominion), and such sutras all begin with auspicious.
+['ZH_T30_1569_001:0168c04_11']	以初吉故，中後亦吉。	以初吉故，中後亦吉。	Because it is auspicious at the beginning, it is also auspicious in the middle and end.
+['ZH_T30_1569_001:0168c05_2']	汝經初說惡，故是不吉。	汝經初說惡，故是不吉。	Your sutra begins with evil, so it is inauspicious.
+['ZH_T30_1569_001:0168c05_10']	是以言汝經有過。	是以言汝經有過。	Therefore, it is said that your sutra has faults.
+['ZH_T30_1569_001:0168c05_13']	內曰：	內曰：	Internally, it is said:
+['ZH_T30_1569_001:0168c05_16']	不然。	不然。	Otherwise,🔽🔽
+['ZH_T30_1569_001:0168c06_11']	斷邪見故說是經修妬路，是吉。	斷邪見故說是經修妬路，是吉。	In order to eliminate wrong views, this sutra is taught, which is auspicious.
+['ZH_T30_1569_001:0168c07_6']	是不吉，此是邪見氣，是故無過。	是不吉，此是邪見氣，是故無過。	This is inauspicious, this is the breath of wrong views, therefore there is no fault.
+['ZH_T30_1569_001:0168c08_5']	復次無吉故修妬路，若少有吉，經初應言吉。	復次無吉故修妬路，若少有吉，經初應言吉。	Furthermore, because there is no auspiciousness, this sutra, if there were a little auspiciousness, the beginning of the sutra should say auspicious.
+['ZH_T30_1569_001:0168c08_10']	此實無吉。	此實無吉。	This is truly without auspiciousness.
+['ZH_T30_1569_001:0168c08_14']	何以故？	何以故？	Why is it so?
+['ZH_T30_1569_001:0168c10_5']	是一事，此以為吉，彼以為不吉、或以為非吉非不吉，不定故無吉。	是一事，此以為吉，彼以為不吉、或以為非吉非不吉，不定故無吉。	This one thing is considered auspicious by some, inauspicious by others, or neither auspicious nor inauspicious by still others, because it is indefinite, there is no auspiciousness.
+['ZH_T30_1569_001:0168c11_13']	汝愚人無方便，強欲求樂，妄生憶想，言是事吉、是事不吉。	汝愚人無方便，強欲求樂，妄生憶想，言是事吉、是事不吉。	You foolish people, lacking skillful means, forcefully seek pleasure, vainly giving rise to thoughts, saying this is auspicious and that is inauspicious.
+['ZH_T30_1569_001:0168c12_7']	復次自他共不可得故修妬路。	復次自他共不可得故修妬路。	Next, because self, other, and both are not attainable, according to the sutra.
+['ZH_T30_1569_001:0168c12_14']	是吉法不自生。	是吉法不自生。	This auspicious dharma does not arise from itself.
+['ZH_T30_1569_001:0168c12_18']	何以故？	何以故？	Why is it so?
+['ZH_T30_1569_001:0168c13_8']	無有一法從自己生故。	無有一法從自己生故。	Because there is no dharma that arises from itself.
+['ZH_T30_1569_001:0168c13_18']	亦二相過故，一者生；	亦二相過故，一者生；	Also, because of the error of two characteristics, one is arising;
+['ZH_T30_1569_001:0168c14_4']	二者能生。	二者能生。	two is that which gives rise.
+['ZH_T30_1569_001:0168c15_1']	亦不從他生，自相無故，他相亦無。	亦不從他生，自相無故，他相亦無。	It also does not arise from other, because its own characteristic does not exist, and the characteristic of other also does not exist.
+['ZH_T30_1569_001:0168c15_14']	復次無窮故，以生更有生故。	復次無窮故，以生更有生故。	Moreover, because of infinite regress, because arising has further arising.
+['ZH_T30_1569_001:0168c16_4']	亦不共生，二俱過故。	亦不共生，二俱過故。	It also does not arise from both, because both are erroneous.
+['ZH_T30_1569_001:0168c16_11']	凡生法有三種：	凡生法有三種：	There are three kinds of arising dharmas:
+['ZH_T30_1569_001:0168c16_17']	自、他、共。	自、他、共。	self, other, and both.
+['ZH_T30_1569_001:0168c17_11']	是三種中求不可得，是故無吉事。	是三種中求不可得，是故無吉事。	Among these three kinds, it cannot be sought and obtained, therefore there is no auspicious matter.
+['ZH_T30_1569_001:0168c17_14', 'ZH_T30_1569_001:0168c18_6']	外曰：🔽是吉自生故如鹽修妬路。	外曰： 是吉自生故如鹽修妬路。	The non-Buddhist says:🔽Because this auspiciousness arises from itself, it is like salt, according to the sutra.
+['ZH_T30_1569_001:0168c18_19']	譬如鹽自性醎，能使餘物醎。	譬如鹽自性醎，能使餘物醎。	It is like salt, whose nature is salty and can make other things salty.
+['ZH_T30_1569_001:0168c19_12']	吉亦如是，自性吉能使餘物吉。	吉亦如是，自性吉能使餘物吉。	auspiciousness is also like this, its own nature is auspicious and can make other things auspicious.
+['ZH_T30_1569_001:0168c19_15']	內曰：	內曰：	Internally, it is said:
+['ZH_T30_1569_001:0168c20_12']	前已破故，亦鹽相鹽中住故修妬路。	前已破故，亦鹽相鹽中住故修妬路。	Because it has already been refuted before, and also because the characteristics of salt reside within salt.
+['ZH_T30_1569_001:0168c22_3']	我先破無有法自性生，復次汝意謂鹽從因緣出，是故鹽不自性醎。	我先破無有法自性生，復次汝意謂鹽從因緣出，是故鹽不自性醎。	I have previously refuted the idea that dharmas arise from their own nature. Furthermore, your idea is that salt comes from causes and conditions, therefore salt is not salty by its own nature.
+['ZH_T30_1569_001:0168c23_2']	我不受汝語，今當還以汝語破汝所說。	我不受汝語，今當還以汝語破汝所說。	I do not accept your words. Now I will use your words to refute what you have said.
+['ZH_T30_1569_001:0168c24_1']	鹽雖他物合，物不為鹽，鹽相鹽中住故。	鹽雖他物合，物不為鹽，鹽相鹽中住故。	Although salt is combined with other things, those things do not become salt, because the characteristics of salt reside within salt.
+['ZH_T30_1569_001:0168c24_10']	譬如牛相不為馬相。	譬如牛相不為馬相。	It is like the characteristics of an ox not becoming the characteristics of a horse.
+['ZH_T30_1569_001:0168c24_13']	外曰：	外曰：	Externally, it is said:
+['ZH_T30_1569_001:0168c24_19']	如燈修妬路。	如燈修妬路。	Like a lamp.
+['ZH_T30_1569_001:0168c25_10']	譬如燈既自照，亦能照他。	譬如燈既自照，亦能照他。	It is like a lamp that illuminates itself and can also illuminate others.
+['ZH_T30_1569_001:0168c26_6']	吉亦如是，自吉亦能令不吉者吉。	吉亦如是，自吉亦能令不吉者吉。	Auspiciousness is also like this, it is auspicious by itself and can also make inauspicious things auspicious.
+['ZH_T30_1569_001:0168c26_9']	內曰：	內曰：	Internally, it is said:
+['ZH_T30_1569_001:0168c26_19']	燈自他無闇故修妬路。	燈自他無闇故修妬路。	Because a lamp has no darkness in itself or others.
+['ZH_T30_1569_001:0168c27_3']	燈自無闇。	燈自無闇。	A lamp has no darkness in itself.
+['ZH_T30_1569_001:0168c27_7']	何以故？	何以故？	Why is it so?
+['ZH_T30_1569_001:0168c27_19']	明闇不並故，燈亦無能照。	明闇不並故，燈亦無能照。	Because light and darkness do not coexist, a lamp also has no ability to illuminate.
+['ZH_T30_1569_001:0168c28_10']	不能照故，亦二相過故：	不能照故，亦二相過故：	Because it cannot illuminate, and also because of the error of two characteristics:
+['ZH_T30_1569_001:0168c29_5']	一能照、二受照，是故燈不自照。	一能照、二受照，是故燈不自照。	One is the illuminator, the other is the illuminated. Therefore, the lamp does not illuminate itself.
+['ZH_T30_1569_001:0169a01_2']	所照之處亦無闇，是故不能照他。	所照之處亦無闇，是故不能照他。	The place that is illuminated is also without darkness. Therefore, it cannot illuminate others.
+['ZH_T30_1569_001:0169a01_17']	以破闇故名照，無闇可破故非照。	以破闇故名照，無闇可破故非照。	Because it destroys darkness, it is called illumination. Since there is no darkness to be destroyed, it is not illumination.
+['ZH_T30_1569_001:0169a02_2']	外曰：	外曰：	The opponent says:
+['ZH_T30_1569_001:0169a02_13']	初生時二俱照故修妬路。	初生時二俱照故修妬路。	Because when it first arises, both [self and other] are illuminated.
+['ZH_T30_1569_001:0169a03_13']	我不言燈先生而後照，初生時自照亦能照他。	我不言燈先生而後照，初生時自照亦能照他。	I do not say that the lamp arises first and then illuminates. When it first arises, it illuminates itself and is also able to illuminate others.
+['ZH_T30_1569_001:0169a03_16']	內曰：	內曰：	The proponent of the treatise says:
+['ZH_T30_1569_001:0169a03_19']	不然。	不然。	This is not so.
+['ZH_T30_1569_001:0169a04_12']	一法有無相不可得故修妬路。	一法有無相不可得故修妬路。	Because the existence and non-existence of a single dharma cannot be apprehended.
+['ZH_T30_1569_001:0169a05_3']	初生時名半生、半未生。	初生時名半生、半未生。	When it first arises, half has arisen and half has not yet arisen.
+['ZH_T30_1569_001:0169a06_2']	生不能照如前說，何況未生能有所照？	生不能照如前說，何況未生能有所照？	What has arisen cannot illuminate, as explained above. How much less can what has not yet arisen illuminate anything?
+['ZH_T30_1569_001:0169a06_15']	復次一法云何亦有相亦無相？	復次一法云何亦有相亦無相？	Moreover, how can a single dharma both have characteristics and lack characteristics?
+['ZH_T30_1569_001:0169a07_6']	復次不到闇故修妬路。	復次不到闇故修妬路。	Moreover, because it does not reach darkness.
+['ZH_T30_1569_001:0169a08_4']	燈若已生、若未生，俱不到闇，性相違故。	燈若已生、若未生，俱不到闇，性相違故。	Whether the lamp has already arisen or has not yet arisen, it does not reach darkness, because their natures are mutually contradictory.
+['ZH_T30_1569_001:0169a08_16']	燈若不到闇，云何能破闇？	燈若不到闇，云何能破闇？	If the lamp does not reach the darkness, how can it illuminate the darkness?
+['ZH_T30_1569_001:0169a08_19']	外曰：	外曰：	The opponent says:
+['ZH_T30_1569_001:0169a09_7']	如呪星故修妬路。	如呪星故修妬路。	Like a spell and the stars, it is so.
+['ZH_T30_1569_001:0169a09_16']	若遙呪遠人能令惱；	若遙呪遠人能令惱；	If one recites a spell from afar, it can cause harm to a distant person;
+['ZH_T30_1569_001:0169a10_9']	亦如星變在天，令人不吉。	亦如星變在天，令人不吉。	It is also like the stars changing in the sky, causing misfortune for people.
+['ZH_T30_1569_001:0169a11_5']	燈亦如是，雖不到闇而能破闇。	燈亦如是，雖不到闇而能破闇。	The lamp is also like this, although it does not reach the darkness, it can illuminate the darkness.
+['ZH_T30_1569_001:0169a11_8']	內曰：	內曰：	The proponent of the inner teaching says:
+['ZH_T30_1569_001:0169a11_16']	太過實故修妬路。	太過實故修妬路。	Too much, because it is a fact.
+['ZH_T30_1569_001:0169a13_4']	若燈有力，不到闇而能破闇者，何不天竺然燈破振旦闇？	若燈有力，不到闇而能破闇者，何不天竺然燈破振旦闇？	If the lamp has the power to illuminate the darkness without reaching it, why doesn't it illuminate the darkness in China from being lit in India?
+['ZH_T30_1569_001:0169a14_8']	如呪星力能及遠，而燈事不爾，是故汝喻非也。	如呪星力能及遠，而燈事不爾，是故汝喻非也。	Like the power of a spell and the stars can reach far, but the lamp is not like this. Therefore your analogy is not correct.
+['ZH_T30_1569_001:0169a14_20']	復次若初吉餘不吉修妬路。	復次若初吉餘不吉修妬路。	Furthermore, if the beginning is auspicious, the rest is inauspicious.
+['ZH_T30_1569_001:0169a15_10']	若經初言吉，餘應不吉。	若經初言吉，餘應不吉。	If the beginning of the sutra is auspicious, the rest should be inauspicious.
+['ZH_T30_1569_001:0169a16_7']	若餘亦吉，汝言初吉者，是為妄語。	若餘亦吉，汝言初吉者，是為妄語。	If the rest is also auspicious, your statement that the beginning is auspicious is false.
+['ZH_T30_1569_001:0169a16_10', 'ZH_T30_1569_001:0169a16_20']	外曰：🔽初吉故餘亦吉修妬路。	外曰： 初吉故餘亦吉修妬路。	The opponent says:🔽Because the beginning is auspicious, the rest is also auspicious.
+['ZH_T30_1569_001:0169a17_7', 'ZH_T30_1569_001:0169a17_10']	初吉力故餘亦吉。🔽內曰：	初吉力故餘亦吉。🔽內曰：	Because the power of the auspicious beginning, the rest is also auspicious.
+['ZH_T30_1569_001:0169a18_4']	不吉多故，吉為不吉修妬路。	不吉多故，吉為不吉修妬路。	Because there are many inauspicious things, auspicious becomes inauspicious.
+['ZH_T30_1569_001:0169a19_7']	汝經初言吉則多不吉，以不吉多故，應吉為不吉。	汝經初言吉則多不吉，以不吉多故，應吉為不吉。	Your sutra says at the beginning that auspicious is mostly inauspicious, and because there are many inauspicious things, auspicious should become inauspicious.
+['ZH_T30_1569_001:0169a19_10']	外曰：	外曰：	The non-Buddhist says:
+['ZH_T30_1569_001:0169a19_17']	如象手修妬路。	如象手修妬路。	Like the hand of an elephant.
+['ZH_T30_1569_001:0169a21_3']	譬如象有手故名有手，不以有眼耳頭等名為有眼耳頭。	譬如象有手故名有手，不以有眼耳頭等名為有眼耳頭。	It is like an elephant being called having a hand because it has a hand, not because it has eyes, ears, head, etc.
+['ZH_T30_1569_001:0169a21_18']	如是以少吉力故，令多不吉為吉。	如是以少吉力故，令多不吉為吉。	In the same way, because of the power of a little auspiciousness, many inauspicious things are made auspicious.
+['ZH_T30_1569_001:0169a22_2']	內曰：	內曰：	The Buddhist says:
+['ZH_T30_1569_001:0169a22_5']	不然。	不然。	This is not so.
+['ZH_T30_1569_001:0169a22_13']	無象過故修妬路。	無象過故修妬路。	Because there is no fault of the elephant.
+['ZH_T30_1569_001:0169a23_11']	若象與手異，頭足等亦異，如是則無別象。	若象與手異，頭足等亦異，如是則無別象。	If the elephant is different from the hand, the head, feet, etc. are also different, then there is no separate elephant.
+['ZH_T30_1569_001:0169a24_8']	若分中有分具者，何不頭中有足？	若分中有分具者，何不頭中有足？	If the parts have the whole, why is there no foot in the head?
+['ZH_T30_1569_001:0169a24_14']	如破異中說。	如破異中說。	As explained in the refutation of difference.
+['ZH_T30_1569_001:0169a25_9']	若象與手不異者，亦無別象。	若象與手不異者，亦無別象。	If the elephant is not different from the hand, there is also no separate elephant.
+['ZH_T30_1569_001:0169a27_1']	若有分與分不異者，頭應是足，二事與象不異故，如破一中說。	若有分與分不異者，頭應是足，二事與象不異故，如破一中說。	If the parts are not different from the part, the head should be the foot, because the two are not different from the elephant, as explained in the refutation of oneness.
+['ZH_T30_1569_001:0169a28_7']	如是吉事，種種因緣求不可得，云何言初吉故中後亦吉？	如是吉事，種種因緣求不可得，云何言初吉故中後亦吉？	Such auspicious events cannot be sought through various causes and conditions. How can you say that because the beginning is auspicious, the middle and end are also auspicious?
+['ZH_T30_1569_001:0169a28_10']	外曰：	外曰：	The non-Buddhist says:
+['ZH_T30_1569_001:0169a29_1']	惡止止妙，何不在初？	惡止止妙，何不在初？	Stopping evil is wonderful, why not put it first?
+['ZH_T30_1569_001:0169a29_4']	內曰：	內曰：	The Buddhist says:
+['ZH_T30_1569_001:0169b01_3']	行者要先知惡然後能止，是故先惡後止。	行者要先知惡然後能止，是故先惡後止。	The practitioner must first know evil in order to be able to stop it, therefore evil comes first and stopping comes later.
+['ZH_T30_1569_001:0169b01_6']	外曰：	外曰：	The non-Buddhist says:
+['ZH_T30_1569_001:0169b01_20']	善行應在初，有妙果故修妬路。	善行應在初，有妙果故修妬路。	Good practice should come first, because it has wonderful results.
+['ZH_T30_1569_001:0169b03_11']	諸善法有妙果，行者欲得妙果故止惡，如是應先說善行、後說惡止。	諸善法有妙果，行者欲得妙果故止惡，如是應先說善行、後說惡止。	All good dharmas have wonderful results. The practitioner wants to attain wonderful results, so he stops evil. In this way, good practice should be explained first, and stopping evil should be explained later.
+['ZH_T30_1569_001:0169b03_14']	內曰：	內曰：	The Buddhist says:
+['ZH_T30_1569_001:0169b04_9']	次第法故，先除麁垢、次除細垢。	次第法故，先除麁垢、次除細垢。	Because of the sequential Dharma, first remove coarse defilements, then remove subtle defilements.
+['ZH_T30_1569_001:0169b05_14']	若行者不止惡，不能修善，是故先除麁垢，後染善法。	若行者不止惡，不能修善，是故先除麁垢，後染善法。	If the practitioner does not stop evil, he cannot cultivate good. Therefore, first remove coarse defilements, then dye good dharmas.
+['ZH_T30_1569_001:0169b06_9']	譬如浣衣，先去垢然後可染。	譬如浣衣，先去垢然後可染。	It is like washing clothes, first removing dirt, then it can be dyed.
+['ZH_T30_1569_001:0169b06_12']	外曰：	外曰：	The non-Buddhist says:
+['ZH_T30_1569_001:0169b07_5']	已說惡止，不應復言善行。	已說惡止，不應復言善行。	Having already explained stopping evil, you should not say good practice again.
+['ZH_T30_1569_001:0169b07_8']	內曰：	內曰：	The Buddhist says:
+['ZH_T30_1569_001:0169b07_18']	布施等善行故修妬路。	布施等善行故修妬路。	Because giving and other good practices are the sutras.
+['ZH_T30_1569_001:0169b08_9']	布施是善行，非是惡止。	布施是善行，非是惡止。	Giving is a good practice, not the cessation of evil.
+['ZH_T30_1569_001:0169b10_6']	復次如大菩薩惡已先止，行四無量心，憐愍眾生守護他命，是則善行非止惡。	復次如大菩薩惡已先止，行四無量心，憐愍眾生守護他命，是則善行非止惡。	Moreover, like a great bodhisattva, evil has already ceased, practicing the four immeasurables, pitying sentient beings and guarding others' lives, this is then a good practice, not the cessation of evil.
+['ZH_T30_1569_001:0169b10_9']	外曰：	外曰：	The non-Buddhist says:
+['ZH_T30_1569_001:0169b11_5']	布施是止慳法，是故布施應是止惡。	布施是止慳法，是故布施應是止惡。	Giving is the cessation of stinginess, therefore giving should be the cessation of evil.
+['ZH_T30_1569_001:0169b11_8']	內曰：	內曰：	The Buddhist says:
+['ZH_T30_1569_001:0169b11_11']	不然。	不然。	This is not so.
+['ZH_T30_1569_001:0169b12_10']	若不布施便是惡者，諸不布施悉應有罪。	若不布施便是惡者，諸不布施悉應有罪。	If not giving is indeed evil, then all who do not give should have offenses.
+['ZH_T30_1569_001:0169b13_9']	復次諸漏盡人慳貪已盡，布施時止何惡？	復次諸漏盡人慳貪已盡，布施時止何惡？	Moreover, for those who have exhausted the contaminants, stinginess has already been exhausted. When giving, what evil is being stopped?
+['ZH_T30_1569_001:0169b14_3']	或有人雖行布施，慳心不止。	或有人雖行布施，慳心不止。	There are people who, although practicing giving, do not stop stingy thoughts.
+['ZH_T30_1569_001:0169b15_4']	縱復能止，然以善行為本，是故布施是善行。	縱復能止，然以善行為本，是故布施是善行。	Even if they can stop it, it is still based on good practice. Therefore giving is a good practice.
+['ZH_T30_1569_001:0169b15_7']	外曰：	外曰：	The non-Buddhist says:
+['ZH_T30_1569_001:0169b15_18']	已說善行，不應說惡止。	已說善行，不應說惡止。	It has already been said to be good practice, it should not be said to be the cessation of evil.
+['ZH_T30_1569_001:0169b16_3']	何以故？	何以故？	Why is this?
+['ZH_T30_1569_001:0169b16_11']	惡止即是善行故。	惡止即是善行故。	Because the cessation of evil is precisely good practice.
+['ZH_T30_1569_001:0169b16_14']	內曰：	內曰：	The Buddhist says:
+['ZH_T30_1569_001:0169b17_6']	止相息、行相作，性相違故。	止相息、行相作，性相違故。	Because the characteristics of cessation and the characteristics of practice are mutually contradictory.
+['ZH_T30_1569_001:0169b17_17']	是故說善行，不攝惡止。	是故說善行，不攝惡止。	Therefore, when speaking of good practice, evil cessation is not included.
+['ZH_T30_1569_001:0169b17_20']	外曰：	外曰：	The opponent says:
+['ZH_T30_1569_001:0169b18_4']	是事實爾。	是事實爾。	This is indeed so.
+['ZH_T30_1569_001:0169b19_18']	我不言惡止善行是一相，但惡止則是善法，是故若言善行，不應復言惡止。	我不言惡止善行是一相，但惡止則是善法，是故若言善行，不應復言惡止。	I do not say that evil cessation and good practice are of the same characteristic, but evil cessation is precisely good dharmas. Therefore, if you speak of good practice, you should not also speak of evil cessation.
+['ZH_T30_1569_001:0169b20_2']	內曰：	內曰：	The proponent of the treatise says:
+['ZH_T30_1569_001:0169b20_9']	應說惡止善行。	應說惡止善行。	Evil cessation and good practice should be spoken of.
+['ZH_T30_1569_001:0169b20_13']	何以故？	何以故？	Why is this?
+['ZH_T30_1569_001:0169b21_12']	惡止名受戒時息諸惡，善行名修習善法。	惡止名受戒時息諸惡，善行名修習善法。	Evil cessation is called the cessation of all evils at the time of receiving precepts, and good practice is called the cultivation of good dharmas.
+['ZH_T30_1569_001:0169b24_6']	若但說善行福不說惡止者，有人受戒惡止，若心不善、若心無記，是時不行善故不應有福，是時惡止故亦有福。	若但說善行福不說惡止者，有人受戒惡止，若心不善、若心無記，是時不行善故不應有福，是時惡止故亦有福。	If only good practice and blessings are spoken of, but not evil cessation, there are people who receive precepts and cease evils, but when the mind is not good or neutral, at that time they are not practicing good, so there should be no blessings. At that time, because of the cessation of evil, there are also blessings.
+['ZH_T30_1569_001:0169b25_1']	是故應說惡止，亦應說善行。	是故應說惡止，亦應說善行。	Therefore, evil cessation should be spoken of, and good practice should also be spoken of.
+['ZH_T30_1569_001:0169b26_1']	是惡止善行法，隨眾生意故，佛三種分別：	是惡止善行法，隨眾生意故，佛三種分別：	This dharma of evil cessation and good practice is distinguished in three ways by the Buddha according to the intentions of the assembly:
+['ZH_T30_1569_001:0169b26_12']	下中上人施戒智修妬路。	下中上人施戒智修妬路。	The practice of giving, morality, and wisdom for the three types of people.
+['ZH_T30_1569_001:0169b26_18']	行者有三種：	行者有三種：	There are three types of practitioners:
+['ZH_T30_1569_001:0169b27_18']	下智人教布施，中智人教持戒，上智人教智慧。	下智人教布施，中智人教持戒，上智人教智慧。	Those of lower wisdom are taught to practice giving, those of middling wisdom are taught to practice morality, and those of higher wisdom are taught to practice wisdom.
+['ZH_T30_1569_001:0169b28_11']	布施名利益他捨財相應思。	布施名利益他捨財相應思。	Giving is defined as the thought associated with the relinquishment of wealth for the benefit of others,
+['ZH_T30_1569_001:0169c01_12']	及起身口業持戒名，若口語、若心生、若受戒，從今日不復作三種身邪行、四種口邪行。	及起身口業持戒名，若口語、若心生、若受戒，從今日不復作三種身邪行、四種口邪行。	And the arising of bodily and verbal actions. Morality is defined as the verbal expression, mental generation, and acceptance of precepts, from this day forth no longer engaging in the three types of sexual misconduct or the four types of verbal misconduct.
+['ZH_T30_1569_001:0169c02_5']	智慧名諸法相中心定不動。	智慧名諸法相中心定不動。	Wisdom is defined as the unwavering concentration of the mind on the characteristics of phenomena.
+['ZH_T30_1569_001:0169c02_12']	何以說下中上？	何以說下中上？	Why are they called lower, middling, and higher?
+['ZH_T30_1569_001:0169c02_18']	利益差降故。	利益差降故。	Because of the differences in benefits.
+['ZH_T30_1569_001:0169c03_11']	布施者少利益，是名下智；	布施者少利益，是名下智；	Giving is of lower benefit, this is called lower wisdom;
+['ZH_T30_1569_001:0169c04_3']	持戒者中利益，是名中智；	持戒者中利益，是名中智；	Morality is of middling benefit, this is called middling wisdom;
+['ZH_T30_1569_001:0169c04_15']	智慧者上利益，是名上智。	智慧者上利益，是名上智。	Wisdom is of higher benefit, this is called higher wisdom.
+['ZH_T30_1569_001:0169c05_18']	復次施報下，戒報中，智報上，是故說下中上智。	復次施報下，戒報中，智報上，是故說下中上智。	Furthermore, the rewards of giving are lower, the rewards of morality are middling, and the rewards of wisdom are higher, therefore they are called lower, middling, and higher wisdom.
+['ZH_T30_1569_001:0169c06_1']	外曰：	外曰：	The outsider said:
+['ZH_T30_1569_001:0169c06_10']	布施者皆是下智不？	布施者皆是下智不？	Is giving always of lower wisdom?
+['ZH_T30_1569_001:0169c06_13']	內曰：	內曰：	Internally said:
+['ZH_T30_1569_001:0169c06_16']	不然。	不然。	This is not so.
+['ZH_T30_1569_001:0169c06_20']	何以故？	何以故？	Why is it so?
+['ZH_T30_1569_001:0169c07_4']	施有二種：	施有二種：	There are two kinds of giving:
+['ZH_T30_1569_001:0169c07_14']	一者不淨，二者淨行。	一者不淨，二者淨行。	One is impure, the other is pure practice.
+['ZH_T30_1569_001:0169c08_4']	不淨施是名下智人。	不淨施是名下智人。	Impure giving is called the giving of a person of inferior wisdom.
+['ZH_T30_1569_001:0169c08_7']	外曰：	外曰：	Externally said:
+['ZH_T30_1569_001:0169c08_14']	何等名不淨施？	何等名不淨施？	What is called impure giving?
+['ZH_T30_1569_001:0169c08_17']	內曰：	內曰：	Internally said:
+['ZH_T30_1569_001:0169c09_12']	為報施是不淨，如市易故修妬路。	為報施是不淨，如市易故修妬路。	Giving in return is impure, like buying and selling, according to the sutras.
+['ZH_T30_1569_001:0169c09_17']	報有二種：	報有二種：	There are two kinds of rewards:
+['ZH_T30_1569_001:0169c10_2']	現報、後報。	現報、後報。	Immediate rewards and future rewards.
+['ZH_T30_1569_001:0169c10_12']	現報者，名稱敬愛等。	現報者，名稱敬愛等。	Immediate rewards are fame, respect, love, etc.
+['ZH_T30_1569_001:0169c11_1']	後報者，後世富貴等。	後報者，後世富貴等。	Future rewards are wealth and nobility in the next life, etc.
+['ZH_T30_1569_001:0169c11_7']	是名不淨施。	是名不淨施。	This is called impure giving.
+['ZH_T30_1569_001:0169c11_12']	所以者何？	所以者何？	Why is it so?
+['ZH_T30_1569_001:0169c11_17']	還欲得故。	還欲得故。	Because one still wants to receive.
+['ZH_T30_1569_001:0169c13_15']	譬如賈客遠到他方，雖持雜物多所饒益，然非憐愍眾生，以自求利故，是業不淨。	譬如賈客遠到他方，雖持雜物多所饒益，然非憐愍眾生，以自求利故，是業不淨。	It is like a merchant who travels far to other places, although he holds various goods and benefits many people, it is not out of compassion for sentient beings, but because he seeks his own profit, this karma is impure.
+['ZH_T30_1569_001:0169c14_5']	布施求報亦復如是。	布施求報亦復如是。	Giving in order to receive rewards is also like this.
+['ZH_T30_1569_001:0169c14_8']	外曰：	外曰：	Externally said:
+['ZH_T30_1569_001:0169c14_14']	何等名淨施？	何等名淨施？	What is called pure giving?
+['ZH_T30_1569_001:0169c14_17']	內曰：	內曰：	Internally said:
+['ZH_T30_1569_001:0169c15_14']	若人愛敬利益他故，不求今世後世報。	若人愛敬利益他故，不求今世後世報。	If a person loves and respects others and benefits them without seeking rewards in this world or the next,
+['ZH_T30_1569_001:0169c16_14']	如眾菩薩及諸上人行清淨施，是名淨施。	如眾菩薩及諸上人行清淨施，是名淨施。	such as the bodhisattvas and superior people who practice pure giving, this is called pure giving.
+['ZH_T30_1569_001:0169c16_17']	外曰：	外曰：	The non-Buddhist says:
+['ZH_T30_1569_001:0169c17_7']	持戒皆是中智人不？	持戒皆是中智人不？	Are all those who uphold the precepts not of middling wisdom?
+['ZH_T30_1569_001:0169c17_10']	內曰：	內曰：	The Buddhist says:
+['ZH_T30_1569_001:0169c17_13']	不然。	不然。	No, it is not so.
+['ZH_T30_1569_001:0169c17_17']	何以故？	何以故？	Why is it so?
+['ZH_T30_1569_001:0169c18_3']	持戒有二種：	持戒有二種：	There are two kinds of upholding the precepts:
+['ZH_T30_1569_001:0169c18_12']	一者不淨，二者淨。	一者不淨，二者淨。	one is impure, and the other is pure.
+['ZH_T30_1569_001:0169c19_3']	不淨持戒者，名中智人。	不淨持戒者，名中智人。	Those who uphold the precepts in an impure way are called people of middling wisdom.
+['ZH_T30_1569_001:0169c19_6']	外曰：	外曰：	The non-Buddhist says:
+['ZH_T30_1569_001:0169c19_13']	何等不淨持戒？	何等不淨持戒？	What is impure upholding of the precepts?
+['ZH_T30_1569_001:0169c19_16']	內曰：	內曰：	The Buddhist says:
+['ZH_T30_1569_001:0169c20_14']	持戒求樂報，為婬欲故，如覆相修妬路。	持戒求樂報，為婬欲故，如覆相修妬路。	Upholding the precepts while seeking pleasant rewards, for the sake of sexual desire, like practicing the sutras while concealing one's faults.
+['ZH_T30_1569_001:0169c21_1']	樂報有二種：	樂報有二種：	Pleasant rewards are of two kinds:
+['ZH_T30_1569_001:0169c21_13']	一者生天，二者人中富貴。	一者生天，二者人中富貴。	one is rebirth in the heavens, and the other is wealth and status among humans.
+['ZH_T30_1569_001:0169c22_15']	若持戒求天上，與天女娛樂，若人中受五欲樂。	若持戒求天上，與天女娛樂，若人中受五欲樂。	If one upholds the precepts while seeking rebirth in the heavens, to enjoy oneself with celestial maidens, or to experience the five desires among humans,
+['ZH_T30_1569_001:0169c23_1']	所以者何？	所以者何？	why is it so?
+['ZH_T30_1569_001:0169c23_6']	為婬欲故。	為婬欲故。	It is because of sexual desire.
+['ZH_T30_1569_001:0169c24_9']	如覆相者，內欲他色、外詐親善，是名不淨持戒。	如覆相者，內欲他色、外詐親善，是名不淨持戒。	Like one who covers up, internally desiring others' forms, externally pretending to be friendly, this is called impure upholding of precepts.
+['ZH_T30_1569_001:0169c24_16']	如阿難語難陀：	如阿難語難陀：	As Ananda said to Nanda:
+['ZH_T30_1569_001:0169c25_14']	「如羝羊相觸，　　將前而更却；	「如羝羊相觸，　　將前而更却；	Like rams butting each other, advancing yet retreating;
+['ZH_T30_1569_001:0169c26_13']	汝為欲持戒，　　其事亦如是。	汝為欲持戒，　　其事亦如是。	You uphold precepts for the sake of desire, the matter is also like this.
+['ZH_T30_1569_001:0169c27_0']	身雖能持戒，　　心為欲所牽，	身雖能持戒，　　心為欲所牽，	Although the body upholds precepts, the mind is dragged by desire,
+['ZH_T30_1569_001:0169c28_13']	斯業不清淨，　　何用是戒為？	斯業不清淨，　　何用是戒為？	This karma is impure, what use are these precepts?
+['ZH_T30_1569_001:0169c29_2']	」外曰：	」外曰：	The outsider said:
+['ZH_T30_1569_001:0169c29_9']	何等名淨持戒？	何等名淨持戒？	What is called pure upholding of precepts?
+['ZH_T30_1569_001:0169c29_12']	內曰：	內曰：	The insider said:
+['ZH_T30_1569_001:0170a04_10']	行者作是念，一切善法戒為根本，持戒之人則心不悔，不悔則歡喜，歡喜則心樂，心樂得一心，一心則生實智，實智生則得厭，得厭則離欲，離欲得解脫，解脫得涅槃。	行者作是念，一切善法戒為根本，持戒之人則心不悔，不悔則歡喜，歡喜則心樂，心樂得一心，一心則生實智，實智生則得厭，得厭則離欲，離欲得解脫，解脫得涅槃。	The practitioner thinks like this: all wholesome dharmas take precepts as the foundation. One who upholds precepts then has no remorse. Without remorse, there is joy. With joy, the mind is at ease. With an at-ease mind, one attains single-mindedness. With single-mindedness, one gives rise to true wisdom. With the arising of true wisdom, one attains disgust. With disgust, one attains detachment. With detachment, one attains liberation. With liberation, one attains nirvana.
+['ZH_T30_1569_001:0170a04_16']	是名淨持戒。	是名淨持戒。	This is called pure upholding of precepts.
+['ZH_T30_1569_001:0170a04_19']	外曰：	外曰：	The outsider said:
+['ZH_T30_1569_001:0170a05_15']	若上智者，欝陀羅伽等為上修妬路。	若上智者，欝陀羅伽等為上修妬路。	If the highest wisdom is for Udraka Rāmaputra and others, it is the highest sūtra.
+['ZH_T30_1569_001:0170a06_4']	若行智人，是名上智。	若行智人，是名上智。	If a person of wisdom practices, he is called the highest wisdom.
+['ZH_T30_1569_001:0170a07_4']	今欝陀羅伽、阿羅邏外道等應為上智人。	今欝陀羅伽、阿羅邏外道等應為上智人。	Now Udraka Rāmaputra, Ārāḍa Kālāma, and other non-Buddhists should be people of the highest wisdom.
+['ZH_T30_1569_001:0170a07_7']	內曰：	內曰：	The inner [teachings] say:
+['ZH_T30_1569_001:0170a07_10']	不然。	不然。	This is not so.
+['ZH_T30_1569_001:0170a07_14']	何以故？	何以故？	Why is it so?
+['ZH_T30_1569_001:0170a08_1']	智亦有二種：	智亦有二種：	Wisdom is also of two kinds:
+['ZH_T30_1569_001:0170a08_10']	一者不淨，二者淨。	一者不淨，二者淨。	First, impure; second, pure.
+['ZH_T30_1569_001:0170a08_13']	外曰：	外曰：	The outer [teachings] say:
+['ZH_T30_1569_001:0170a08_20']	何等名不淨智？	何等名不淨智？	What is called impure wisdom?
+['ZH_T30_1569_001:0170a09_2']	內曰：	內曰：	The inner [teachings] say:
+['ZH_T30_1569_001:0170a09_19']	為世界繫縛故不淨，如怨來親修妬路。	為世界繫縛故不淨，如怨來親修妬路。	Because it is bound by the world, it is impure, like an enemy coming as a friend.
+['ZH_T30_1569_001:0170a10_8']	世界智能增長生死。	世界智能增長生死。	Worldly wisdom can increase birth and death.
+['ZH_T30_1569_001:0170a10_13']	所以者何？	所以者何？	Why is it so?
+['ZH_T30_1569_001:0170a11_1']	此智還繫縛故。	此智還繫縛故。	Because this wisdom binds again.
+['ZH_T30_1569_001:0170a11_16']	譬如怨家，初詐親附，久則生害。	譬如怨家，初詐親附，久則生害。	It is like an enemy who first pretends to be friendly, but after a long time, harm arises.
+['ZH_T30_1569_001:0170a12_3']	世界智亦如是。	世界智亦如是。	Worldly wisdom is also like this.
+['ZH_T30_1569_001:0170a12_6']	外曰：	外曰：	The outer [teachings] say:
+['ZH_T30_1569_001:0170a12_15']	但是智能增長生死？	但是智能增長生死？	Is it only wisdom that can increase birth and death?
+['ZH_T30_1569_001:0170a13_2']	施戒亦爾耶？	施戒亦爾耶？	Are giving and morality also like this?
+['ZH_T30_1569_001:0170a13_5']	內曰：	內曰：	The inner [teachings] say:
+['ZH_T30_1569_001:0170a13_16']	取福捨惡是行法修妬路。	取福捨惡是行法修妬路。	Taking blessings and abandoning evil is practicing the Dharma.
+['ZH_T30_1569_001:0170a13_21']	福名福報。	福名福報。	Merit refers to the fruits of merit.
+['ZH_T30_1569_001:0170a14_2']	外曰：	外曰：	The opponent says:
+['ZH_T30_1569_001:0170a15_1']	若福名福報者，何以修妬路中但言福？	若福名福報者，何以修妬路中但言福？	If merit refers to the fruits of merit, why does the Sutra on the Perfection of Wisdom only speak of merit?
+['ZH_T30_1569_001:0170a15_4']	內曰：	內曰：	The proponent of the doctrine says:
+['ZH_T30_1569_001:0170a15_13']	福名因，福報名果。	福名因，福報名果。	Merit refers to the cause, and the fruits of merit refer to the effect.
+['ZH_T30_1569_001:0170a16_12']	或說因為果、或說果為因，此中說因為果。	或說因為果、或說果為因，此中說因為果。	Sometimes the cause is spoken of as the effect, and sometimes the effect is spoken of as the cause. Here, the cause is spoken of as the effect.
+['ZH_T30_1569_001:0170a17_16']	譬如食千兩金，金不可食，因金得食，故名食金。	譬如食千兩金，金不可食，因金得食，故名食金。	It is like eating a thousand ounces of gold. The gold cannot be eaten, but because one obtains food by means of the gold, it is called eating gold.
+['ZH_T30_1569_001:0170a18_17']	又如見畫，言是好手，因手得畫，故名好手。	又如見畫，言是好手，因手得畫，故名好手。	It is also like seeing a painting and saying it is a good hand. Because one obtains the painting by means of the hand, it is called a good hand.
+['ZH_T30_1569_001:0170a19_9']	取名著，著福報惡先已說。	取名著，著福報惡先已說。	Attachment refers to clinging. The evil of clinging to the fruits of merit has already been explained.
+['ZH_T30_1569_001:0170a20_2']	行名將人常行生死中。	行名將人常行生死中。	Practice refers to that which always leads people to transmigrate in the cycle of birth and death.
+['ZH_T30_1569_001:0170a20_5']	外曰：	外曰：	The opponent says:
+['ZH_T30_1569_001:0170a20_12']	何等是不行法？	何等是不行法？	What are the dharmas that are not practiced?
+['ZH_T30_1569_001:0170a20_15']	內曰：	內曰：	The proponent of the doctrine says:
+['ZH_T30_1569_001:0170a21_11']	俱捨修妬路俱名福報罪報，捨名心不著。	俱捨修妬路俱名福報罪報，捨名心不著。	The Sutra on the Perfection of Wisdom speaks of both merit and demerit as well as their abandonment. Abandonment means the mind is not attached.
+['ZH_T30_1569_001:0170a22_11']	心不著福，不復往來五道，是名不行法。	心不著福，不復往來五道，是名不行法。	If the mind is not attached to merit, it will no longer go and come in the five destinies. This is called the dharma that is not practiced.
+['ZH_T30_1569_001:0170a22_14']	外曰：	外曰：	The opponent says:
+['ZH_T30_1569_001:0170a23_15']	福不應捨，以果報妙故，亦不說因緣故修妬路。	福不應捨，以果報妙故，亦不說因緣故修妬路。	One should not abandon merit, because its retribution is wonderful, and it is also not said to be cultivated for causes and conditions.
+['ZH_T30_1569_001:0170a24_15']	諸福果報妙，一切眾生常求妙果，云何可捨？	諸福果報妙，一切眾生常求妙果，云何可捨？	The fruits of all merits are wonderful. All sentient beings always seek wonderful fruits. How can they be abandoned?
+['ZH_T30_1569_001:0170a25_1']	又如佛言：	又如佛言：	Moreover, as the Buddha said:
+['ZH_T30_1569_001:0170a25_6']	「諸比丘！	「諸比丘！	Bhikṣus!
+['ZH_T30_1569_001:0170a25_11']	於福莫畏。	於福莫畏。	Do not fear merit.
+['ZH_T30_1569_001:0170a26_5']	」汝今又不說因緣，是故不應捨福。	」汝今又不說因緣，是故不應捨福。	You now do not speak of causes and conditions, therefore one should not abandon merit.
+['ZH_T30_1569_001:0170a26_8']	內曰：	內曰：	Internally, it is said:
+['ZH_T30_1569_001:0170a26_16']	福滅時苦修妬路。	福滅時苦修妬路。	When merit perishes, there is suffering.
+['ZH_T30_1569_001:0170a27_6']	福名福報，滅名失壞。	福名福報，滅名失壞。	Merit refers to meritorious retribution. Perishing means losing and destroying.
+['ZH_T30_1569_001:0170a28_1']	福報滅時，離所樂事，生大憂苦。	福報滅時，離所樂事，生大憂苦。	When meritorious retribution perishes, one is separated from delightful things and gives rise to great sorrow and suffering.
+['ZH_T30_1569_001:0170a28_5']	如佛說：	如佛說：	As the Buddha said:
+['ZH_T30_1569_001:0170a28_20']	「樂受生時樂、住時樂，滅時苦。	「樂受生時樂、住時樂，滅時苦。	Pleasant feelings are pleasant when arising and pleasant when abiding, but painful when ceasing.
+['ZH_T30_1569_001:0170a29_4']	」是故應捨福。	」是故應捨福。	Therefore, merit should be abandoned.
+['ZH_T30_1569_001:0170b01_3']	又如佛言於福莫畏者，助道應行故。	又如佛言於福莫畏者，助道應行故。	Moreover, when the Buddha said not to fear merit, it is because one should practice what aids the path.
+['ZH_T30_1569_001:0170b01_7']	如佛說：	如佛說：	As the Buddha said:
+['ZH_T30_1569_001:0170b01_17']	「福尚應捨，何況罪。	「福尚應捨，何況罪。	Merit should still be abandoned, let alone evil.
+['ZH_T30_1569_001:0170b01_21']	」外曰：	」外曰：	Externally, it is said:
+['ZH_T30_1569_001:0170b02_4']	罪福相違故。	罪福相違故。	Because evil and merit are mutually contradictory.
+['ZH_T30_1569_001:0170b03_1']	汝言福滅時苦者，罪生住時應樂。	汝言福滅時苦者，罪生住時應樂。	You say that when merit is exhausted, there is suffering. When sin arises and abides, it should be happiness.
+['ZH_T30_1569_001:0170b03_4']	內曰：	內曰：	Internally, it is said:
+['ZH_T30_1569_001:0170b03_12']	罪住時苦修妬路。	罪住時苦修妬路。	When sin abides, there is suffering.
+['ZH_T30_1569_001:0170b04_7']	罪名罪報，罪報生時苦，何況住時。	罪名罪報，罪報生時苦，何況住時。	Sin is called the retribution for sin. When the retribution for sin arises, there is suffering, let alone when it abides.
+['ZH_T30_1569_001:0170b04_11']	如佛說：	如佛說：	As the Buddha said:
+['ZH_T30_1569_001:0170b05_5']	「苦受生時苦、住時苦，滅時樂。	「苦受生時苦、住時苦，滅時樂。	When painful feelings arise, there is suffering. When they abide, there is suffering. When they cease, there is happiness.
+['ZH_T30_1569_001:0170b07_6']	」汝言罪福相違故，罪生時應樂者，今當答汝，何不言福罪相違故，罪滅時樂、生住時苦？	」汝言罪福相違故，罪生時應樂者，今當答汝，何不言福罪相違故，罪滅時樂、生住時苦？	You say that because sin and merit are mutually contradictory, when sin arises, it should be happiness. Now I will answer you. Why don't you say that because merit and sin are mutually contradictory, when merit ceases, it is happiness, and when it arises and abides, it is suffering?
+['ZH_T30_1569_001:0170b07_9']	外曰：	外曰：	Externally, it is said:
+['ZH_T30_1569_001:0170b08_4']	常福無捨因緣故不應捨修妬路。	常福無捨因緣故不應捨修妬路。	Because there are no conditions for abandoning permanent merit, it should not be abandoned.
+['ZH_T30_1569_001:0170b08_15']	汝說捨福，因緣滅時苦。	汝說捨福，因緣滅時苦。	You say that when the conditions for abandoning merit cease, there is suffering.
+['ZH_T30_1569_001:0170b09_9']	今常福報中無滅苦，故不應捨。	今常福報中無滅苦，故不應捨。	Now in the retribution for permanent merit, there is no suffering of cessation, so it should not be abandoned.
+['ZH_T30_1569_001:0170b09_13']	如經說：	如經說：	As the sutra says:
+['ZH_T30_1569_001:0170b10_14']	能作馬祀，是人度衰老死，福報常、生處常。	能作馬祀，是人度衰老死，福報常、生處常。	One who can perform the horse sacrifice transcends old age, death, and suffering. The retribution of merit is permanent, and the place of rebirth is permanent.
+['ZH_T30_1569_001:0170b11_1']	是福不應捨。	是福不應捨。	This merit should not be abandoned.
+['ZH_T30_1569_001:0170b11_4']	內曰：	內曰：	Internally, it is said:
+['ZH_T30_1569_001:0170b11_15']	福應捨，二相故修妬路。	福應捨，二相故修妬路。	Because merit has two aspects, it should be abandoned.
+['ZH_T30_1569_001:0170b11_21']	是福有二相：	是福有二相：	This merit has two aspects:
+['ZH_T30_1569_001:0170b12_7']	能與樂、能與苦。	能與樂、能與苦。	It can bring happiness and it can bring suffering.
+['ZH_T30_1569_001:0170b13_1']	如雜毒飯，食時美、欲消時苦。	如雜毒飯，食時美、欲消時苦。	Like poisoned rice, it tastes good when eaten but causes suffering when it is being digested.
+['ZH_T30_1569_001:0170b13_6']	福亦如是。	福亦如是。	Merit is also like this.
+['ZH_T30_1569_001:0170b14_2']	復次有福報是樂因，多受則苦因。	復次有福報是樂因，多受則苦因。	Moreover, some meritorious rewards are causes of happiness, but when received in excess, they become causes of suffering.
+['ZH_T30_1569_001:0170b14_19']	譬如近火，止寒則樂，轉近燒身則苦。	譬如近火，止寒則樂，轉近燒身則苦。	For example, when one is near a fire, it is pleasant to relieve the cold, but as one gets closer, it burns the body and causes suffering.
+['ZH_T30_1569_001:0170b15_16']	是故福二相，二相故無常，是以應捨。	是故福二相，二相故無常，是以應捨。	Therefore, merit has two aspects, and because it has two aspects, it is impermanent. For this reason, it should be abandoned.
+['ZH_T30_1569_001:0170b17_3']	又汝言馬祀福報常者，但有言說，無因緣故修妬路。	又汝言馬祀福報常者，但有言說，無因緣故修妬路。	Furthermore, you say that the rewards of the horse sacrifice are permanent, but this is mere words, because there is no reason.
+['ZH_T30_1569_001:0170b17_11']	馬祀福報實無常。	馬祀福報實無常。	The rewards of the horse sacrifice are actually impermanent.
+['ZH_T30_1569_001:0170b17_15']	何以故？	何以故？	Why is this?
+['ZH_T30_1569_001:0170b18_3']	馬祀業因緣有量故。	馬祀業因緣有量故。	Because the cause of the horse sacrifice karma is limited.
+['ZH_T30_1569_001:0170b18_15']	世間因若有量，果亦有量。	世間因若有量，果亦有量。	In the world, if the cause is limited, the effect is also limited.
+['ZH_T30_1569_001:0170b19_5']	如泥團小，瓶亦小。	如泥團小，瓶亦小。	For example, if the clay lump is small, the pot is also small.
+['ZH_T30_1569_001:0170b19_17']	是故馬祀，業有量故無常。	是故馬祀，業有量故無常。	Therefore, because the horse sacrifice karma is limited, it is impermanent.
+['ZH_T30_1569_001:0170b20_15']	復次聞汝天有瞋恚，共鬪相惱，故不應常。	復次聞汝天有瞋恚，共鬪相惱，故不應常。	Moreover, we hear that in your heavens there is anger, fighting, and mutual disturbance, so they should not be permanent.
+['ZH_T30_1569_001:0170b21_12']	又汝馬祀等業，從因緣生故皆無常。	又汝馬祀等業，從因緣生故皆無常。	Furthermore, the karma of horse sacrifices and so on arises from causes and conditions, so they are all impermanent.
+['ZH_T30_1569_001:0170b22_15']	復次有漏淨福無常故尚應捨，何況雜罪福修妬路。	復次有漏淨福無常故尚應捨，何況雜罪福修妬路。	Moreover, pure merit with outflows is impermanent, so it should be abandoned, let alone mixed merit and demerit.
+['ZH_T30_1569_001:0170b23_6']	如馬祀業中有殺等罪故。	如馬祀業中有殺等罪故。	For example, in the karma of horse sacrifices there is the sin of killing and so on.
+['ZH_T30_1569_001:0170b24_14']	復次如僧佉經言，祀法不淨、無常、勝負相故，是以應捨。	復次如僧佉經言，祀法不淨、無常、勝負相故，是以應捨。	Furthermore, as the Saṃkhya scriptures say, the method of sacrifice is impure, impermanent, and characterized by victory and defeat, so it should be abandoned.
+['ZH_T30_1569_001:0170b24_17']	外曰：	外曰：	The non-Buddhist says:
+['ZH_T30_1569_001:0170b25_6']	若捨福，不應作修妬路。	若捨福，不應作修妬路。	If merit is to be abandoned, one should not perform it.
+['ZH_T30_1569_001:0170b26_5']	若福必捨，本不應作，何有智人空為苦事？	若福必捨，本不應作，何有智人空為苦事？	If merit must be abandoned, it should not have been done in the first place. What wise person would create suffering for no reason?
+['ZH_T30_1569_001:0170b26_15']	譬如陶家，作器還破。	譬如陶家，作器還破。	It is like a potter making vessels only to break them again.
+['ZH_T30_1569_001:0170b26_18']	內曰：	內曰：	The Buddhist says:
+['ZH_T30_1569_001:0170b27_13']	生道次第法，如垢衣浣染修妬路。	生道次第法，如垢衣浣染修妬路。	The Dharma of the stages of the path of birth is like washing and dyeing a dirty garment.
+['ZH_T30_1569_001:0170b28_10']	如垢衣先浣後淨乃染，浣淨不虛也。	如垢衣先浣後淨乃染，浣淨不虛也。	Just as a dirty garment is first washed and then dyed when it is clean, washing it is not in vain.
+['ZH_T30_1569_001:0170b28_15']	所以者何？	所以者何？	Why is this?
+['ZH_T30_1569_001:0170b29_9']	染法次第故，以垢衣不受染故。	染法次第故，以垢衣不受染故。	Because defiled dharmas follow in sequence, and because a dirty cloth does not accept dye.
+['ZH_T30_1569_001:0170c01_13']	如是先除罪垢，次以福德熏心，然後受涅槃道染。	如是先除罪垢，次以福德熏心，然後受涅槃道染。	In this way, one first removes sinful defilements, then perfumes the mind with merit, and then accepts the dye of the path to nirvana.
+['ZH_T30_1569_001:0170c01_16']	外曰：	外曰：	The non-Buddhist says:
+['ZH_T30_1569_001:0170c02_7']	捨福依何等修妬路？	捨福依何等修妬路？	On what basis does one abandon merit and cultivate the path?
+['ZH_T30_1569_001:0170c02_17']	依福捨惡，依何捨福？	依福捨惡，依何捨福？	One abandons evil based on merit, but on what basis does one abandon merit?
+['ZH_T30_1569_001:0170c03_1']	內曰：	內曰：	The Buddhist says:
+['ZH_T30_1569_001:0170c03_9']	無相最上修妬路。	無相最上修妬路。	The markless is supreme.
+['ZH_T30_1569_001:0170c04_12']	取福人天中生，取罪三惡道生，是故無相智慧最第一。	取福人天中生，取罪三惡道生，是故無相智慧最第一。	One who grasps at merit is born among humans and gods, and one who grasps at sin is born in the three evil destinies. Therefore, the wisdom of the markless is the foremost.
+['ZH_T30_1569_001:0170c06_1']	無相名一切相不憶念，離一切受，過去未來現在法心無所著。	無相名一切相不憶念，離一切受，過去未來現在法心無所著。	The markless is called not recollecting any marks, being free from all feelings, and the mind being unattached to past, future, and present dharmas.
+['ZH_T30_1569_001:0170c06_18']	一切法自性無故則無所依，是名無相。	一切法自性無故則無所依，是名無相。	Because the intrinsic nature of all dharmas is nonexistent, there is nothing to rely on. This is called the markless.
+['ZH_T30_1569_001:0170c07_8']	以是方便故能捨福。	以是方便故能捨福。	By means of this skillful means, one is able to abandon merit.
+['ZH_T30_1569_001:0170c07_12']	何以故？	何以故？	Why is this?
+['ZH_T30_1569_001:0170c08_8']	除三種解脫門，第一利不可得。	除三種解脫門，第一利不可得。	Apart from the three gates of liberation, the foremost benefit cannot be attained.
+['ZH_T30_1569_001:0170c08_15']	如佛語諸比丘：	如佛語諸比丘：	As the Buddha said to the bhikṣus:
+['ZH_T30_1569_001:0170c10_11']	「若有人言我不用空無相無作，欲得若知若見無增上慢者，是人空言無實。	「若有人言我不用空無相無作，欲得若知若見無增上慢者，是人空言無實。	If someone says, 'I do not use emptiness, signlessness, and wishlessness, but wish to attain knowledge and insight without the conceit of superiority,' this person's words are empty and without substance.
+['ZH_T30_1569_001:0170c12_2']	」2 破神品破神品第二外曰：	」2 破神品破神品第二外曰：	Chapter 2: Refuting the Soul. The outsider says:
+['ZH_T30_1569_001:0170c13_4']	不應言一切法空無相，神等諸法有故修妬路。	不應言一切法空無相，神等諸法有故修妬路。	One should not say that all dharmas are empty and signless, because the soul and other dharmas exist.
+['ZH_T30_1569_001:0170c13_14']	迦毘羅、優樓迦等言：	迦毘羅、優樓迦等言：	Kāpila, Ūluka, and others say:
+['ZH_T30_1569_001:0170c13_20']	神及諸法有。	神及諸法有。	The soul and all dharmas exist.
+['ZH_T30_1569_001:0170c14_3']	迦毘羅言：	迦毘羅言：	Kāpila says:
+['ZH_T30_1569_001:0170c16_4']	從冥初生覺，從覺生我心，從我心生五微塵，從五微塵生五大，從五大生十一根。	從冥初生覺，從覺生我心，從我心生五微塵，從五微塵生五大，從五大生十一根。	From the primordial darkness, consciousness arises. From consciousness, the self-mind arises. From the self-mind, the five subtle elements arise. From the five subtle elements, the five gross elements arise. From the five gross elements, the eleven sense organs arise.
+['ZH_T30_1569_001:0170c17_7']	神為主，常、覺相、處中、常住、不壞不敗、攝受諸法。	神為主，常、覺相、處中、常住、不壞不敗、攝受諸法。	The soul is the master, permanent, characterized by consciousness, neutral, eternal, indestructible, imperishable, and embraces all dharmas.
+['ZH_T30_1569_001:0170c18_1']	能知此二十五諦，即得解脫；	能知此二十五諦，即得解脫；	One who knows these twenty-five tattvas attains liberation;
+['ZH_T30_1569_001:0170c18_11']	不知此者，不離生死。	不知此者，不離生死。	One who does not know them is not free from birth and death.
+['ZH_T30_1569_001:0170c18_16']	優樓迦言：	優樓迦言：	Ūluka says:
+['ZH_T30_1569_001:0170c20_1']	實有神常，以出入息、視眴、壽命等相故，則知有神。	實有神常，以出入息、視眴、壽命等相故，則知有神。	The existence of a real, eternal soul is known through the characteristics of inhalation and exhalation, seeing, blinking, lifespan, etc.
+['ZH_T30_1569_001:0170c21_3']	復次以欲恚、苦樂、智慧等所依處故，則知有神。	復次以欲恚、苦樂、智慧等所依處故，則知有神。	Moreover, it is known that there is a soul because it is the basis of desire, anger, suffering, pleasure, wisdom, etc.
+['ZH_T30_1569_001:0170c21_15']	是故神是實有，云何言無？	是故神是實有，云何言無？	Therefore, the soul truly exists. Why do you say it does not exist?
+['ZH_T30_1569_001:0170c22_15']	若有而言無，則為惡邪人，惡邪人無解脫。	若有而言無，則為惡邪人，惡邪人無解脫。	If one says non-existent where there is existence, one becomes a person of evil views. A person of evil views has no liberation.
+['ZH_T30_1569_001:0170c23_8']	是故不應言一切法空無相。	是故不應言一切法空無相。	Therefore, one should not say that all dharmas are empty and without characteristics.
+['ZH_T30_1569_001:0170c23_11']	內曰：	內曰：	The inner [opponent] says:
+['ZH_T30_1569_001:0170c24_4']	若有神而言無，是為惡邪。	若有神而言無，是為惡邪。	If one says non-existent where there is existence, this is an evil view.
+['ZH_T30_1569_001:0170c24_15']	若無而言無，此有何過？	若無而言無，此有何過？	If one says non-existent where there is non-existence, what is wrong with that?
+['ZH_T30_1569_001:0170c25_6']	諦觀察之，實無有神。	諦觀察之，實無有神。	Upon careful examination, there truly is no soul.
+['ZH_T30_1569_001:0170c25_9']	外曰：	外曰：	The outer [opponent] says:
+['ZH_T30_1569_001:0170c25_13']	實有神。	實有神。	The soul truly exists.
+['ZH_T30_1569_001:0170c26_6']	如僧佉經中說，覺相是神。	如僧佉經中說，覺相是神。	As the Saṃkhya scriptures say, the characteristic of awareness is the soul.
+['ZH_T30_1569_001:0170c26_9']	內曰：	內曰：	The inner [opponent] says:
+['ZH_T30_1569_001:0170c26_15']	神覺為一耶？	神覺為一耶？	Is the soul and awareness the same?
+['ZH_T30_1569_001:0170c26_19']	為異耶？	為異耶？	Or are they different?
+['ZH_T30_1569_001:0170c27_2']	外曰：	外曰：	The outer [opponent] says:
+['ZH_T30_1569_001:0170c27_7']	神覺一也。	神覺一也。	The soul and awareness are the same.
+['ZH_T30_1569_001:0170c27_10']	內曰：	內曰：	The inner [opponent] says:
+['ZH_T30_1569_001:0170c28_3']	覺若神相，神無常修妬路。	覺若神相，神無常修妬路。	If awareness is the characteristic of the soul, the soul is impermanent according to the Śruti.
+['ZH_T30_1569_001:0170c28_20']	若覺是神相者，覺無常故，神應無常。	若覺是神相者，覺無常故，神應無常。	If cognition is the characteristic of the spirit, then because cognition is impermanent, the spirit should also be impermanent.
+['ZH_T30_1569_001:0170c29_15']	譬如熱是火相，熱無常故，火亦無常。	譬如熱是火相，熱無常故，火亦無常。	For example, heat is the characteristic of fire, and because heat is impermanent, fire is also impermanent.
+['ZH_T30_1569_001:0171a01_1']	今覺實無常。	今覺實無常。	Now, cognition is indeed impermanent.
+['ZH_T30_1569_001:0171a01_6']	所以者何？	所以者何？	Why is it so?
+['ZH_T30_1569_001:0171a02_8']	相各異故、屬因緣故、本無今有故、已有還無故。	相各異故、屬因緣故、本無今有故、已有還無故。	Because the characteristics are different, because it depends on causes and conditions, because it did not exist before but exists now, and because it existed but does not exist again.
+['ZH_T30_1569_001:0171a02_11']	外曰：	外曰：	The non-Buddhist says:
+['ZH_T30_1569_001:0171a02_19']	不生故常修妬路。	不生故常修妬路。	Because it does not arise, it is permanent.
+['ZH_T30_1569_001:0171a03_10']	生相法無常，神非生相故常。	生相法無常，神非生相故常。	The characteristic of arising is impermanent, but the spirit is not the characteristic of arising, so it is permanent.
+['ZH_T30_1569_001:0171a03_13']	內曰：	內曰：	The Buddhist says:
+['ZH_T30_1569_001:0171a04_4']	若爾覺非神相修妬路。	若爾覺非神相修妬路。	If so, cognition is not the characteristic of the spirit.
+['ZH_T30_1569_001:0171a04_20']	覺是無常，汝說神常，神應與覺異。	覺是無常，汝說神常，神應與覺異。	Cognition is impermanent, but you say the spirit is permanent. The spirit should be different from cognition.
+['ZH_T30_1569_001:0171a05_17']	若神覺不異者，覺無常故，神亦應無常。	若神覺不異者，覺無常故，神亦應無常。	If the spirit and cognition are not different, because cognition is impermanent, the spirit should also be impermanent.
+['ZH_T30_1569_001:0171a06_11']	復次若覺是神相，無有是處。	復次若覺是神相，無有是處。	Furthermore, if cognition is the characteristic of the spirit, this is not possible.
+['ZH_T30_1569_001:0171a06_16']	所以者何？	所以者何？	Why is it so?
+['ZH_T30_1569_001:0171a07_6']	覺行一處故修妬路。	覺行一處故修妬路。	Because cognition operates in one place.
+['ZH_T30_1569_001:0171a08_12']	若覺是神相者，汝法中神遍一切處，覺亦應一時遍行五道；	若覺是神相者，汝法中神遍一切處，覺亦應一時遍行五道；	If you say that consciousness is the characteristic of the spirit, then according to your doctrine, the spirit pervades everywhere, and consciousness should also function in the five destinies simultaneously;
+['ZH_T30_1569_001:0171a09_11']	而覺行一處不能周遍，是故覺非神相。	而覺行一處不能周遍，是故覺非神相。	yet consciousness functions in one place and cannot pervade everywhere. Therefore, consciousness is not the characteristic of the spirit.
+['ZH_T30_1569_001:0171a10_5']	復次若爾神與覺等修妬路。	復次若爾神與覺等修妬路。	Furthermore, if so, the spirit is equal to consciousness.
+['ZH_T30_1569_001:0171a11_4']	汝以覺為神相者，神應與覺等，神則不遍。	汝以覺為神相者，神應與覺等，神則不遍。	If you take consciousness as the characteristic of the spirit, the spirit should be equal to consciousness, and the spirit would not be pervasive.
+['ZH_T30_1569_001:0171a12_7']	譬如火無熱不熱相，神亦如是，不應有遍不遍相。	譬如火無熱不熱相，神亦如是，不應有遍不遍相。	Just as fire has no characteristic of heat or non-heat, the spirit is also like this, and should not have the characteristics of pervasiveness or non-pervasiveness.
+['ZH_T30_1569_001:0171a13_6']	復次若以為遍，則有覺不覺相修妬路。	復次若以為遍，則有覺不覺相修妬路。	Furthermore, if it is considered pervasive, then there is the characteristic of consciousness and non-consciousness.
+['ZH_T30_1569_001:0171a13_17']	汝欲令神遍，神則二相：	汝欲令神遍，神則二相：	If you want to make the spirit pervasive, the spirit would have two characteristics:
+['ZH_T30_1569_001:0171a14_1']	覺、不覺相。	覺、不覺相。	the characteristics of consciousness and non-consciousness.
+['ZH_T30_1569_001:0171a14_5']	何以故？	何以故？	Why is it so?
+['ZH_T30_1569_001:0171a14_10']	覺不遍故。	覺不遍故。	Because consciousness is not pervasive.
+['ZH_T30_1569_001:0171a15_9']	神若墮覺處是則覺，若墮不覺處是則不覺。	神若墮覺處是則覺，若墮不覺處是則不覺。	If the spirit falls into the place of consciousness, then it is consciousness; if it falls into the place of non-consciousness, then it is non-consciousness.
+['ZH_T30_1569_001:0171a15_12']	外曰：	外曰：	The opponent says:
+['ZH_T30_1569_001:0171a16_3']	力遍故無過修妬路。	力遍故無過修妬路。	There is no fault because the power is pervasive.
+['ZH_T30_1569_001:0171a17_3']	有處覺雖無用，此中亦有覺力，是故無無覺過。	有處覺雖無用，此中亦有覺力，是故無無覺過。	Although there is no function of cognition in some places, there is still the power of cognition here. Therefore, there is no fault of no cognition.
+['ZH_T30_1569_001:0171a17_6']	內曰：	內曰：	Internally, it is said:
+['ZH_T30_1569_001:0171a17_9']	不然。	不然。	This is not so.
+['ZH_T30_1569_001:0171a17_19']	力有力不異故修妬路。	力有力不異故修妬路。	Because the power and the powerful are not different.
+['ZH_T30_1569_001:0171a19_2']	若有覺力處是中，覺應有用而無用，是故汝語非也。	若有覺力處是中，覺應有用而無用，是故汝語非也。	If there is the power of cognition in a place, then cognition should have a function there but does not. Therefore, your statement is not correct.
+['ZH_T30_1569_001:0171a20_3']	若如是說覺無用處亦有覺力者，但有是語。	若如是說覺無用處亦有覺力者，但有是語。	If you say that even where cognition is without function, there is still the power of cognition, then this is just a statement.
+['ZH_T30_1569_001:0171a20_6']	外曰：	外曰：	Externally, it is said:
+['ZH_T30_1569_001:0171a20_18']	因緣合故覺力有用修妬路。	因緣合故覺力有用修妬路。	Because the power of cognition has a function when causes and conditions come together.
+['ZH_T30_1569_001:0171a21_14']	神雖有覺力，要待因緣合故乃能有用。	神雖有覺力，要待因緣合故乃能有用。	Although the spirit has the power of cognition, it can only have a function when it depends on the coming together of causes and conditions.
+['ZH_T30_1569_001:0171a21_17']	內曰：	內曰：	Internally, it is said:
+['ZH_T30_1569_001:0171a22_7']	墮生相故修妬路。	墮生相故修妬路。	Because it falls into the characteristic of arising.
+['ZH_T30_1569_001:0171a23_9']	若因緣合時覺有用者，是覺屬因緣故，則墮生相。	若因緣合時覺有用者，是覺屬因緣故，則墮生相。	If cognition has a function when causes and conditions come together, then this cognition belongs to causes and conditions, and thus falls into the characteristic of arising.
+['ZH_T30_1569_001:0171a24_3']	若覺神不異，神亦是生相。	若覺神不異，神亦是生相。	If cognition and the spirit are not different, then the spirit is also a characteristic of arising.
+['ZH_T30_1569_001:0171a24_6', 'ZH_T30_1569_001:0171a24_12']	外曰：🔽如燈修妬路。	外曰： 如燈修妬路。	Externally, it is said:🔽It is like a lamp.
+['ZH_T30_1569_001:0171a25_3']	譬如燈能照物、不能作物。	譬如燈能照物、不能作物。	It is like a lamp that can illuminate objects but cannot create objects.
+['ZH_T30_1569_001:0171a26_2']	因緣亦如是，能令覺有用，不能生覺。	因緣亦如是，能令覺有用，不能生覺。	Conditions are also like this, able to make cognition have function, but unable to produce cognition.
+['ZH_T30_1569_001:0171a26_5']	內曰：	內曰：	Internally, it is said:
+['ZH_T30_1569_001:0171a26_8']	不然。	不然。	This is not so.
+['ZH_T30_1569_001:0171a27_6']	燈雖不照瓶等，而瓶等可得亦可持用。	燈雖不照瓶等，而瓶等可得亦可持用。	Although the lamp does not illuminate pots and so forth, pots and so forth can be obtained and also used.
+['ZH_T30_1569_001:0171a28_16']	若因緣不合時，覺不可得，神亦不能覺苦樂，是故汝喻非也。	若因緣不合時，覺不可得，神亦不能覺苦樂，是故汝喻非也。	If conditions do not combine, cognition cannot be obtained, and the spirit also cannot cognize suffering and pleasure. Therefore your analogy is not appropriate.
+['ZH_T30_1569_001:0171a28_19']	外曰：	外曰：	Externally, it is said:
+['ZH_T30_1569_001:0171a29_5']	如色修妬路。	如色修妬路。	Like form, according to the sutra.
+['ZH_T30_1569_001:0171a29_20']	譬如色，雖先有燈，不照則不了。	譬如色，雖先有燈，不照則不了。	It is like form, although it exists before the lamp, if it is not illuminated it is not understood.
+['ZH_T30_1569_001:0171b01_15']	如是覺雖先有，因緣未合故亦不了。	如是覺雖先有，因緣未合故亦不了。	In the same way, although cognition exists before, it is also not understood because conditions have not yet combined.
+['ZH_T30_1569_001:0171b01_18']	內曰：	內曰：	Internally, it is said:
+['ZH_T30_1569_001:0171b02_2']	不然。	不然。	This is not so.
+['ZH_T30_1569_001:0171b02_11']	自相不了故修妬路。	自相不了故修妬路。	Because its own characteristics are not understood, according to the sutra.
+['ZH_T30_1569_001:0171b03_6']	若未有照，人雖不了，色相自了。	若未有照，人雖不了，色相自了。	If it is not illuminated, although people do not understand, the characteristics of form are understood by itself.
+['ZH_T30_1569_001:0171b04_1']	汝覺相自不了，是故汝喻非也。	汝覺相自不了，是故汝喻非也。	Your characteristics of cognition are not understood by itself. Therefore your analogy is not appropriate.
+['ZH_T30_1569_001:0171b05_11']	復次以無相故，色相不以人知故為色相，是故若不見時常有色。	復次以無相故，色相不以人知故為色相，是故若不見時常有色。	Moreover, because it has no characteristics, the characteristics of form are not taken to be the characteristics of form because they are known by people. Therefore if it is not seen, form always exists.
+['ZH_T30_1569_001:0171b06_7']	汝知是神相，不應以無知處為知。	汝知是神相，不應以無知處為知。	You know this is the characteristic of the spirit, so you should not take the unknown as known.
+['ZH_T30_1569_001:0171b07_9']	無知處為知，是事不然，汝法中知覺一義。	無知處為知，是事不然，汝法中知覺一義。	Taking the unknown as known is unreasonable, in your doctrine, knowledge and perception have the same meaning.
+['ZH_T30_1569_001:0171b07_12']	外曰：	外曰：	The non-Buddhist says:
+['ZH_T30_1569_001:0171b09_6']	優樓迦弟子誦衛世師經言，知與神異，是故神不墮無常中，亦不無知。	優樓迦弟子誦衛世師經言，知與神異，是故神不墮無常中，亦不無知。	The disciples of Uluka recite the Vaiśeṣika scriptures, saying that knowledge is different from the spirit. Therefore, the spirit does not fall into the category of impermanence, nor is it ignorant.
+['ZH_T30_1569_001:0171b09_10']	何以故？	何以故？	Why is it so?
+['ZH_T30_1569_001:0171b09_15', 'ZH_T30_1569_001:0171b10_3']	神知合故。🔽如有牛修妬路。	神知合故。 如有牛修妬路。	Because the spirit and knowledge are combined.🔽It is like having an ox.
+['ZH_T30_1569_001:0171b10_16']	譬如人與牛合，故人名有牛。	譬如人與牛合，故人名有牛。	It is like a person who is called to have an ox because of combining with an ox.
+['ZH_T30_1569_001:0171b11_9']	如是神情意塵合故，神有知生。	如是神情意塵合故，神有知生。	In the same way, when the spirit, mind, and sense objects combine, the knowledge of the spirit arises.
+['ZH_T30_1569_001:0171b12_1']	以神合知故，神名有知。	以神合知故，神名有知。	Because the spirit combines with knowledge, the spirit is called to have knowledge.
+['ZH_T30_1569_001:0171b12_4', 'ZH_T30_1569_001:0171b12_18']	內曰：🔽牛相牛中住，非有牛中修妬路。	內曰： 牛相牛中住，非有牛中修妬路。	The Buddhist says:🔽The characteristics of an ox reside in the ox, not in having an ox.
+['ZH_T30_1569_001:0171b13_8']	牛相牛中住，不在有牛中。	牛相牛中住，不在有牛中。	The characteristics of an ox reside in the ox, not in having an ox.
+['ZH_T30_1569_001:0171b14_7']	是故雖人牛合有牛不作牛，但牛為牛。	是故雖人牛合有牛不作牛，但牛為牛。	Therefore, although a person and an ox combine, having an ox does not become an ox, but only the ox is an ox.
+['ZH_T30_1569_001:0171b15_6']	如是雖神知合，知相知中住，神不為知。	如是雖神知合，知相知中住，神不為知。	Thus, although the spirit and cognition combine, the characteristics of cognition reside within cognition, and the spirit does not become cognition.
+['ZH_T30_1569_001:0171b16_15']	汝言神情意塵合故知生，是知知色塵等，是故但知能知非神知。	汝言神情意塵合故知生，是知知色塵等，是故但知能知非神知。	You say that cognition arises from the combination of spirit, cognition, intention, and objects. This cognition cognizes visible objects and so on. Therefore, it is cognition that cognizes, not the spirit cognizing.
+['ZH_T30_1569_001:0171b17_9']	譬如火能燒，非有火人燒。	譬如火能燒，非有火人燒。	It is like fire that burns, not a person with fire burning.
+['ZH_T30_1569_001:0171b17_12']	外曰：	外曰：	The non-Buddhist says:
+['ZH_T30_1569_001:0171b17_20']	能用法故修妬路。	能用法故修妬路。	Because it is used, it is a sūtra.
+['ZH_T30_1569_001:0171b18_15']	人雖有見相，用燈則見、離燈則不見。	人雖有見相，用燈則見、離燈則不見。	Although a person has the characteristics of seeing, when using a lamp, they see, and when apart from the lamp, they do not see.
+['ZH_T30_1569_001:0171b19_13']	神雖有能知，用知則知、離知則不知。	神雖有能知，用知則知、離知則不知。	Although the spirit has the ability to cognize, when using cognition, it cognizes, and when apart from cognition, it does not cognize.
+['ZH_T30_1569_001:0171b19_16']	內曰：	內曰：	The Buddhist says:
+['ZH_T30_1569_001:0171b19_19']	不然。	不然。	This is not so.
+['ZH_T30_1569_001:0171b20_7']	知即能知故修妬路。	知即能知故修妬路。	Because cognition is itself the ability to cognize, it is a sūtra.
+['ZH_T30_1569_001:0171b21_17']	以情意塵合故知生，是知能知色等諸塵，是故知即能知，非是所用。	以情意塵合故知生，是知能知色等諸塵，是故知即能知，非是所用。	Because the combination of cognition, intention, and objects gives rise to cognition, this cognition is able to cognize visible objects and other objects. Therefore, cognition is itself the ability to cognize, not what is used.
+['ZH_T30_1569_001:0171b22_8']	若知即能知，神復何用？	若知即能知，神復何用？	If cognition is itself the ability to cognize, what further use is there for the spirit?
+['ZH_T30_1569_001:0171b22_13']	燈喻非也。	燈喻非也。	The lamp analogy is not correct.
+['ZH_T30_1569_001:0171b22_17']	何以故？	何以故？	Why is this?
+['ZH_T30_1569_001:0171b23_7']	燈不知色等故修妬路。	燈不知色等故修妬路。	Because the lamp does not cognize visible objects and so on, it is a sūtra.
+['ZH_T30_1569_001:0171b24_11']	燈雖先有，不能知色等，非知法故，是故但知能知色。	燈雖先有，不能知色等，非知法故，是故但知能知色。	Although the lamp existed before, it cannot cognize form, etc., because it is not a cognizing dharma. Therefore, it only cognizes what can be cognized.
+['ZH_T30_1569_001:0171b25_2']	若不能知，不名為知。	若不能知，不名為知。	If it cannot cognize, it cannot be called cognition.
+['ZH_T30_1569_001:0171b25_14']	是故縱有能知，彼能何用？	是故縱有能知，彼能何用？	Therefore, even if there is cognition, what use is that cognition?
+['ZH_T30_1569_001:0171b25_17']	外曰：	外曰：	The opponent says:
+['ZH_T30_1569_001:0171b26_8']	馬身合故神為馬修妬路。	馬身合故神為馬修妬路。	Because the spirit is united with the horse body, the spirit is called a horse.
+['ZH_T30_1569_001:0171b27_2']	譬如神與馬身合故，神名為馬。	譬如神與馬身合故，神名為馬。	For example, because the spirit is united with the horse body, the spirit is called a horse.
+['ZH_T30_1569_001:0171b27_13']	神雖異身，亦名神為馬。	神雖異身，亦名神為馬。	Although the spirit is different from the body, it is also called the spirit as a horse.
+['ZH_T30_1569_001:0171b28_7']	如是神知合故，神名為知。	如是神知合故，神名為知。	In the same way, because the spirit is united with cognition, the spirit is called cognition.
+['ZH_T30_1569_001:0171b28_10']	內曰。	內曰。	The proponent of the inner doctrine says:
+['ZH_T30_1569_001:0171b28_13']	不然。	不然。	This is not so.
+['ZH_T30_1569_001:0171b29_3']	身中神非馬修妬路。	身中神非馬修妬路。	The spirit in the body is not a horse.
+['ZH_T30_1569_001:0171b29_9']	馬身即馬也。	馬身即馬也。	The horse body is the horse itself.
+['ZH_T30_1569_001:0171c01_8']	汝謂身與神異，則神與馬異，云何以神為馬？	汝謂身與神異，則神與馬異，云何以神為馬？	If you say the body is different from the spirit, then the spirit is different from the horse. How can you take the spirit as a horse?
+['ZH_T30_1569_001:0171c01_15']	是故此喻非也。	是故此喻非也。	Therefore, this analogy is not correct.
+['ZH_T30_1569_001:0171c02_6']	以神喻神，則墮負處。	以神喻神，則墮負處。	Using the spirit as an analogy for the spirit, you fall into a losing position.
+['ZH_T30_1569_001:0171c02_9']	外曰：	外曰：	The opponent says:
+['ZH_T30_1569_001:0171c02_16']	如黑疊修妬路。	如黑疊修妬路。	Like a black cloth.
+['ZH_T30_1569_001:0171c03_16']	譬如黑疊，黑雖異疊，疊與黑合故名為黑疊。	譬如黑疊，黑雖異疊，疊與黑合故名為黑疊。	It is like a black blanket. Although black is different from the blanket, because the blanket is combined with black, it is called a black blanket.
+['ZH_T30_1569_001:0171c04_14']	如是知雖異神，神與知合故神名為知。	如是知雖異神，神與知合故神名為知。	In the same way, although knowledge is different from the spirit, because the spirit is combined with knowledge, the spirit is called knowledge.
+['ZH_T30_1569_001:0171c04_17']	內曰：	內曰：	The inner [disciple] says:
+['ZH_T30_1569_001:0171c05_6']	若爾無神修妬路。	若爾無神修妬路。	If so, there is no spirit.
+['ZH_T30_1569_001:0171c06_2']	若神與知合，故神名為知，神應非神。	若神與知合，故神名為知，神應非神。	If the spirit is combined with knowledge, therefore the spirit is called knowledge, the spirit should not be a spirit.
+['ZH_T30_1569_001:0171c06_6']	何以故？	何以故？	Why is it so?
+['ZH_T30_1569_001:0171c07_8']	我先說知即是能知，若知不名神，神亦不名能知。	我先說知即是能知，若知不名神，神亦不名能知。	I previously said that knowledge is the knower. If knowledge is not called a spirit, the spirit is also not called a knower.
+['ZH_T30_1569_001:0171c08_11']	若他合故以他為名者，知與神合，何不名知為神？	若他合故以他為名者，知與神合，何不名知為神？	If because of being combined with another, it is named after the other, since knowledge is combined with the spirit, why is it not called knowledge as the spirit?
+['ZH_T30_1569_001:0171c09_7']	又如先說黑疊喻者，自違汝經。	又如先說黑疊喻者，自違汝經。	Moreover, it is like the previously explained black blanket analogy, which contradicts your sutra.
+['ZH_T30_1569_001:0171c10_1']	汝經黑是求那，疊是陀羅驃。	汝經黑是求那，疊是陀羅驃。	In your sutra, black is a guna, and the blanket is a dharmin.
+['ZH_T30_1569_001:0171c10_17']	陀羅驃不作求那，求那不作陀羅驃。	陀羅驃不作求那，求那不作陀羅驃。	The dharmin does not become the guna, and the guna does not become the dharmin.
+['ZH_T30_1569_001:0171c11_1']	外曰：	外曰：	The outsider says:
+['ZH_T30_1569_001:0171c11_8']	如有杖修妬路。	如有杖修妬路。	It is like having a staff.
+['ZH_T30_1569_001:0171c12_6']	譬如人與杖合，故人名有杖，不但名杖。	譬如人與杖合，故人名有杖，不但名杖。	It is like a person combined with a staff, therefore the person is called having a staff, not just called a staff.
+['ZH_T30_1569_001:0171c13_4']	杖雖與人合，杖不名有人，亦不名人。	杖雖與人合，杖不名有人，亦不名人。	Although the staff is combined with a person, the staff is not called a person, nor is it called a man.
+['ZH_T30_1569_001:0171c14_17']	如是神與知合，故神名能知，不但名知，亦非是知與神合故，知名為神。	如是神與知合，故神名能知，不但名知，亦非是知與神合故，知名為神。	In the same way, the spirit is combined with knowledge, so the spirit is called able to know, not just called knowledge, and also not because knowledge is combined with the spirit, so knowledge is called the spirit.
+['ZH_T30_1569_001:0171c15_2']	內曰：	內曰：	Internally said:
+['ZH_T30_1569_001:0171c15_5']	不然。	不然。	Otherwise,🔽🔽
+['ZH_T30_1569_001:0171c15_13']	有杖非杖修妬路。	有杖非杖修妬路。	There is a staff, not a staff.
+['ZH_T30_1569_001:0171c16_5']	雖杖與有杖合，有杖不為杖。	雖杖與有杖合，有杖不為杖。	Although the staff is combined with the one who has a staff, the one who has a staff is not the staff.
+['ZH_T30_1569_001:0171c17_4']	如是知相知中非神中，是故神非能知。	如是知相知中非神中，是故神非能知。	In the same way, the characteristics of knowledge are not in the spirit in the midst of knowledge, therefore the spirit is not able to know.
+['ZH_T30_1569_001:0171c17_7']	外曰：	外曰：	Externally said:
+['ZH_T30_1569_001:0171c18_4']	僧佉人復言，若知與神異，有如上過。	僧佉人復言，若知與神異，有如上過。	The Sāṃkhya person again said, if knowledge is different from the spirit, there is the above error.
+['ZH_T30_1569_001:0171c18_12']	我經中無如是過。	我經中無如是過。	My sūtra does not have this error.
+['ZH_T30_1569_001:0171c18_17']	所以者何？	所以者何？	Why is it so?
+['ZH_T30_1569_001:0171c19_4']	覺即神相故。	覺即神相故。	Because awareness is the characteristic of the spirit.
+['ZH_T30_1569_001:0171c20_1']	我以覺相為神，是故常覺無不覺。	我以覺相為神，是故常覺無不覺。	I take the characteristic of awareness as the spirit, therefore it is always aware and not unaware.
+['ZH_T30_1569_001:0171c20_4']	內曰：	內曰：	Internally said:
+['ZH_T30_1569_001:0171c20_14']	雖已先破，今當更說。	雖已先破，今當更說。	Although it has already been refuted before, I will now explain it again.
+['ZH_T30_1569_001:0171c21_5']	若覺相神不一修妬路。	若覺相神不一修妬路。	If the characteristic of awareness and the spirit are not one.Here is the corrected and aligned text:🔽Sāṃkhya-prakaraṇa
+['ZH_T30_1569_001:0171c22_4', 'ZH_T30_1569_001:0171c22_7']	覺有種種苦樂覺等，若覺是神相，神應種種。🔽外曰：	覺有種種苦樂覺等，若覺是神相，神應種種。 外曰：	If the awareness is the characteristic of the spirit, the spirit should be various.🔽The non-Buddhist says:
+['ZH_T30_1569_001:0171c22_10']	不然。	不然。	Otherwise,🔽🔽
+['ZH_T30_1569_001:0171c23_4']	一為種種相，如頗梨修妬路。	一為種種相，如頗梨修妬路。	One becomes various characteristics, like a crystal.
+['ZH_T30_1569_001:0171c24_1']	如一頗梨珠隨色而變，或青黃赤白等。	如一頗梨珠隨色而變，或青黃赤白等。	Just as a single crystal changes according to the color, being blue, yellow, red, white, etc.
+['ZH_T30_1569_001:0171c24_18']	如是一覺隨塵別異，或覺苦或覺樂等。	如是一覺隨塵別異，或覺苦或覺樂等。	In the same way, a single awareness distinguishes according to the object, being aware of suffering, pleasure, etc.
+['ZH_T30_1569_001:0171c25_10']	覺雖種種相，實是一覺。	覺雖種種相，實是一覺。	Although awareness has various characteristics, it is actually a single awareness.
+['ZH_T30_1569_001:0171c25_13']	內曰：	內曰：	The Buddhist says:
+['ZH_T30_1569_001:0171c26_3']	若爾罪福一相修妬路。	若爾罪福一相修妬路。	If so, merit and demerit would have the same characteristic.
+['ZH_T30_1569_001:0171c27_7']	若益他覺是名福，若損他覺是名罪，一切慧人心信是法。	若益他覺是名福，若損他覺是名罪，一切慧人心信是法。	If the awareness that benefits others is called merit, and the awareness that harms others is called demerit, the minds of all wise people believe in this principle.
+['ZH_T30_1569_001:0171c28_15']	若益他覺、損他覺是一者，應罪福一相，如施盜等亦應一。	若益他覺、損他覺是一者，應罪福一相，如施盜等亦應一。	If the awareness that benefits others and the awareness that harms others are the same, then merit and demerit would have the same characteristic, and giving and stealing, etc. would also be the same.
+['ZH_T30_1569_001:0171c29_8']	復次如珠先有，隨色而變。	復次如珠先有，隨色而變。	Moreover, it is like the crystal that already exists and changes according to the color.
+['ZH_T30_1569_001:0172a01_3']	然覺共緣生，是故汝喻非也。	然覺共緣生，是故汝喻非也。	However, awareness arises together with conditions. Therefore your analogy is not correct.
+['ZH_T30_1569_001:0172a01_17']	復次珠新新生滅故，相則不一。	復次珠新新生滅故，相則不一。	Moreover, since the pearl is newly born and perishes, its characteristics are not the same.
+['ZH_T30_1569_001:0172a02_9']	汝言珠一者，是亦非也。	汝言珠一者，是亦非也。	Your statement that the pearl is one is also not correct.
+['ZH_T30_1569_001:0172a02_12']	外曰：	外曰：	The opponent says:
+['ZH_T30_1569_001:0172a02_15']	不然。	不然。	No, it is not so.
+['ZH_T30_1569_001:0172a03_9']	果雖多，作者一，如陶師修妬路。	果雖多，作者一，如陶師修妬路。	Although the fruits are many, the doer is one, like a potter.
+['ZH_T30_1569_001:0172a04_8']	如一陶師作瓶瓫等，非作者一故果便一也。	如一陶師作瓶瓫等，非作者一故果便一也。	Just as a single potter makes pots, jars, and so on, the fruits are not one because the doer is one.
+['ZH_T30_1569_001:0172a05_2']	如是一覺能作損益等業。	如是一覺能作損益等業。	In the same way, a single thought can perform actions such as benefiting and harming.
+['ZH_T30_1569_001:0172a05_5']	內曰：	內曰：	The opponent says:
+['ZH_T30_1569_001:0172a05_14']	陶師無別異修妬路。	陶師無別異修妬路。	The potter has no difference.
+['ZH_T30_1569_001:0172a06_10']	譬如陶師身一無異相，而與瓶瓫等異。	譬如陶師身一無異相，而與瓶瓫等異。	Just as a potter's body is one without any different characteristics, yet it is different from pots, jars, and so on.
+['ZH_T30_1569_001:0172a07_4']	然益他覺、損他覺實有異相。	然益他覺、損他覺實有異相。	However, the thought of benefiting others and the thought of harming others do have different characteristics.
+['ZH_T30_1569_001:0172a08_2']	又損益等與覺不異，是故汝喻非也。	又損益等與覺不異，是故汝喻非也。	Moreover, benefiting, harming, and so on are not different from thought. Therefore your analogy is not correct.
+['ZH_T30_1569_001:0172a08_5']	外曰：	外曰：	The opponent says:
+['ZH_T30_1569_001:0172a08_17']	實有神，比知相故修妬路。	實有神，比知相故修妬路。	The spirit truly exists, because its characteristics can be inferred.
+['ZH_T30_1569_001:0172a09_10']	有物雖不可現知，以比相故知。	有物雖不可現知，以比相故知。	Although a thing cannot be directly known, it can be known through its inferred characteristics.
+['ZH_T30_1569_001:0172a11_4']	如見人先去然後到彼，日月東出西沒雖不見去，以到彼故知去。	如見人先去然後到彼，日月東出西沒雖不見去，以到彼故知去。	It is like seeing a person first leave and then arrive at the other place. Although the sun and moon do not appear to leave when rising in the east and setting in the west, we know they leave because they arrive at the other place.
+['ZH_T30_1569_001:0172a12_7']	如是見諸求那依陀羅驃，以比知相故知有神。	如是見諸求那依陀羅驃，以比知相故知有神。	In the same way, we see that the qualities depend on the self, and by inference we know there is a spirit.
+['ZH_T30_1569_001:0172a12_17']	神知合故，神名能知。	神知合故，神名能知。	The spirit is called the knower because it combines with knowledge.
+['ZH_T30_1569_001:0172a13_1']	內曰：	內曰：	The inner [Buddhist] says:
+['ZH_T30_1569_001:0172a13_12']	是事先已破，今當更說。	是事先已破，今當更說。	This matter has already been refuted before, but I will now explain it again.
+['ZH_T30_1569_001:0172a13_20']	不知非神修妬路。	不知非神修妬路。	Knowledge is not the spirit.
+['ZH_T30_1569_001:0172a14_8']	汝法神遍廣大而知少。	汝法神遍廣大而知少。	According to your teaching, the spirit is all-pervading and vast, while knowledge is limited.
+['ZH_T30_1569_001:0172a15_6']	若神知者，有處有時不知，是則非神。	若神知者，有處有時不知，是則非神。	If the spirit is the knower, there are places and times when it does not know, then it is not the spirit.
+['ZH_T30_1569_001:0172a16_7']	有處名身外，有時名身內，睡眠悶等是時不知。	有處名身外，有時名身內，睡眠悶等是時不知。	Places are called outside the body, and times are called inside the body, such as during sleep and stupor when it does not know.
+['ZH_T30_1569_001:0172a17_4']	若神知相有處有時不知，是則非神。	若神知相有處有時不知，是則非神。	If the characteristics of the spirit's knowledge do not know at certain places and times, then it is not the spirit.
+['ZH_T30_1569_001:0172a17_8']	何以故？	何以故？	Why is this?
+['ZH_T30_1569_001:0172a17_13']	無知相故。	無知相故。	Because it lacks the characteristics of knowledge.
+['ZH_T30_1569_001:0172a18_7']	汝以知相有神者，空無實也。	汝以知相有神者，空無實也。	If you say the spirit exists because of the characteristics of knowledge, it is empty and unreal.
+['ZH_T30_1569_001:0172a18_10']	外曰：	外曰：	The outsider says:
+['ZH_T30_1569_001:0172a19_3']	行無故知無，如煙修妬路。	行無故知無，如煙修妬路。	Because there is no activity, there is no knowledge, just like smoke.
+['ZH_T30_1569_001:0172a20_2']	如煙是火相，炭時無煙，是時雖無煙而有火。	如煙是火相，炭時無煙，是時雖無煙而有火。	Just as smoke is a characteristic of fire, when there is charcoal there is no smoke. At that time, although there is no smoke, there is still fire.
+['ZH_T30_1569_001:0172a21_3']	如是知雖神相，若有知、若無知，神應常有。	如是知雖神相，若有知、若無知，神應常有。	In the same way, although knowledge is a characteristic of the spirit, whether there is knowledge or not, the spirit should always exist.
+['ZH_T30_1569_001:0172a21_6']	內曰：	內曰：	The inner [disciple] says:
+['ZH_T30_1569_001:0172a21_9']	不然。	不然。	Otherwise,🔽🔽
+['ZH_T30_1569_001:0172a21_17']	神能知故修妬路。	神能知故修妬路。	Because the spirit can know.
+['ZH_T30_1569_001:0172a22_16']	若不知時欲令有神者，神則不能知，亦無知相。	若不知時欲令有神者，神則不能知，亦無知相。	If you want to say that the spirit exists when there is no knowledge, then the spirit cannot know and also has no characteristic of knowing.
+['ZH_T30_1569_001:0172a23_2']	所以者何？	所以者何？	Why is this?
+['ZH_T30_1569_001:0172a23_12']	汝神無知時亦有神故。	汝神無知時亦有神故。	Because even when the spirit has no knowledge, the spirit still exists.
+['ZH_T30_1569_001:0172a24_9']	復次若無煙時，現見有火知有火。	復次若無煙時，現見有火知有火。	Furthermore, when there is no smoke, we can see that there is fire and know that there is fire.
+['ZH_T30_1569_001:0172a25_11']	神若有知、若無知，無能見者，是故汝喻非也。	神若有知、若無知，無能見者，是故汝喻非也。	Whether the spirit has knowledge or not, there is no one who can see it. Therefore your analogy is not correct.
+['ZH_T30_1569_001:0172a26_11']	復次汝說見共相比知故有神，此亦非也。	復次汝說見共相比知故有神，此亦非也。	Furthermore, you say that because we see the knowledge of the spirit together with its object, the spirit exists. This is also not so.
+['ZH_T30_1569_001:0172a26_16']	所以者何？	所以者何？	Why is this?
+['ZH_T30_1569_001:0172a27_9']	見去者去法到彼故修妬路。	見去者去法到彼故修妬路。	Because we see the goer going and reaching there.Here is the corrected and aligned text:
+['ZH_T30_1569_001:0172a29_4']	若離去者無去法，離去法無去者到彼，如是見去者曰到彼，必知有去法。	若離去者無去法，離去法無去者到彼，如是見去者曰到彼，必知有去法。	If apart from the goer there is no act of going, and apart from the act of going there is no goer reaching the other place, then seeing the goer as reaching the other place, one must know there is the act of going.
+['ZH_T30_1569_001:0172b01_7']	若離神無知，是事不然，是故不應以知故知有神。	若離神無知，是事不然，是故不應以知故知有神。	If apart from the spirit there is no knowing, this is not so. Therefore, one should not know the existence of the spirit because of knowing.
+['ZH_T30_1569_001:0172b03_4']	不可見龜而有毛想，不可見石女而有兒想，如是不應見知便有神想。	不可見龜而有毛想，不可見石女而有兒想，如是不應見知便有神想。	One cannot imagine hair on a turtle that cannot be seen, nor imagine a child of a stone woman that cannot be seen. In the same way, one should not imagine the existence of the spirit upon seeing knowing.
+['ZH_T30_1569_001:0172b03_7']	外曰：	外曰：	The non-Buddhist says:
+['ZH_T30_1569_001:0172b03_14']	如手取修妬路。	如手取修妬路。	Like a hand grasping sūtras.
+['ZH_T30_1569_001:0172b05_3']	如手有時取、有時不取，不可以不取時不名為手，手常名手。	如手有時取、有時不取，不可以不取時不名為手，手常名手。	Sometimes a hand grasps, sometimes it does not. One cannot say that when it does not grasp it is not a hand, for a hand is always called a hand.
+['ZH_T30_1569_001:0172b06_13']	神亦如是，有時知、有時不知，不可以不知時不名為神，神常名神。	神亦如是，有時知、有時不知，不可以不知時不名為神，神常名神。	The spirit is also like this. Sometimes it knows, sometimes it does not know. One cannot say that when it does not know it is not a spirit, for the spirit is always called a spirit.
+['ZH_T30_1569_001:0172b06_16', 'ZH_T30_1569_001:0172b07_6']	內曰：🔽取非手相修妬路。	內曰： 取非手相修妬路。	The Buddhist says:🔽Grasping is not the characteristic of the hand.
+['ZH_T30_1569_001:0172b07_14']	取是手業非手相。	取是手業非手相。	Grasping is the function of the hand, not its characteristic.
+['ZH_T30_1569_001:0172b07_18']	何以故？	何以故？	Why is it so?
+['ZH_T30_1569_001:0172b08_5']	不以取故知為手。	不以取故知為手。	One does not know it is a hand because of grasping.
+['ZH_T30_1569_001:0172b08_17']	汝以知即神相，此喻非也。	汝以知即神相，此喻非也。	You take knowing to be the characteristic of the spirit, but this analogy is not correct.
+['ZH_T30_1569_001:0172b09_1']	外曰：	外曰：	The non-Buddhist says:
+['ZH_T30_1569_001:0172b09_13']	定有神，覺苦樂故修妬路。	定有神，覺苦樂故修妬路。	The spirit definitely exists because it experiences suffering and pleasure.
+['ZH_T30_1569_001:0172b10_9']	若無覺者則無覺，身獨不能覺苦樂。	若無覺者則無覺，身獨不能覺苦樂。	If there is no experiencer, there would be no experience. The body alone cannot experience suffering and pleasure.
+['ZH_T30_1569_001:0172b10_13']	何以故？	何以故？	Why is it so?
+['ZH_T30_1569_001:0172b11_5']	死人有身，不能覺苦樂。	死人有身，不能覺苦樂。	A dead person has a body but cannot experience suffering and pleasure.
+['ZH_T30_1569_001:0172b12_10']	如是知有身者能覺苦樂，此則為神，是故定有神。	如是知有身者能覺苦樂，此則為神，是故定有神。	Thus, one knows that the experiencer of the body can experience suffering and pleasure. This is the spirit. Therefore, the spirit definitely exists.
+['ZH_T30_1569_001:0172b12_13']	內曰：	內曰：	The Buddhist says:
+['ZH_T30_1569_001:0172b12_21']	若惱亦斷修妬路。	若惱亦斷修妬路。	If it is harmed, it is also cut off.
+['ZH_T30_1569_001:0172b13_9']	如刀害身，是時生惱。	如刀害身，是時生惱。	When the knife harms the body, suffering arises at that time.
+['ZH_T30_1569_001:0172b14_6']	若刀害神，神亦有惱者，神亦應斷。	若刀害神，神亦有惱者，神亦應斷。	If the knife harms the spirit, and the spirit also has suffering, then the spirit should also be cut off.
+['ZH_T30_1569_001:0172b14_9']	外曰：	外曰：	The non-Buddhist says:
+['ZH_T30_1569_001:0172b14_12']	不然。	不然。	Otherwise,🔽🔽
+['ZH_T30_1569_001:0172b14_21']	無觸故如空修妬路。	無觸故如空修妬路。	Because it is untouchable, like empty space.
+['ZH_T30_1569_001:0172b15_7']	神無觸故不可斷。	神無觸故不可斷。	Because the spirit is untouchable, it cannot be cut off.
+['ZH_T30_1569_001:0172b16_7']	如燒舍時，內空無觸故不可燒，但有熱。	如燒舍時，內空無觸故不可燒，但有熱。	When a house is burned, the inner space is untouchable, so it cannot be burned, but there is heat.
+['ZH_T30_1569_001:0172b17_7']	如是斷身時，內神無觸故不可斷，但有惱。	如是斷身時，內神無觸故不可斷，但有惱。	In the same way, when the body is cut off, the inner spirit is untouchable, so it cannot be cut off, but there is suffering.
+['ZH_T30_1569_001:0172b17_10']	內曰：	內曰：	The Buddhist says:
+['ZH_T30_1569_001:0172b17_18']	若爾無去修妬路。	若爾無去修妬路。	If so, there is no going.
+['ZH_T30_1569_001:0172b18_9']	若神無觸，身不應到餘處。	若神無觸，身不應到餘處。	If the spirit has no contact, the body should not reach other places.
+['ZH_T30_1569_001:0172b18_13']	何以故？	何以故？	Why is it so?
+['ZH_T30_1569_001:0172b19_7']	去法從思惟生、從身動生。	去法從思惟生、從身動生。	The method of going arises from thought and arises from bodily movement.
+['ZH_T30_1569_001:0172b19_17']	身無思惟，非覺法故。	身無思惟，非覺法故。	The body has no thought, because it is not a cognitive dharma.
+['ZH_T30_1569_001:0172b20_8']	神無動力，非身法故。	神無動力，非身法故。	The spirit has no power of movement, because it is not a bodily dharma.
+['ZH_T30_1569_001:0172b20_17']	如是身不應到餘處。	如是身不應到餘處。	Thus the body should not reach other places.
+['ZH_T30_1569_001:0172b21_2', 'ZH_T30_1569_001:0172b21_9']	外曰：🔽如盲跛修妬路。	外曰： 如盲跛修妬路。	The opponent says:🔽Like a blind person and a lame person.
+['ZH_T30_1569_001:0172b21_18']	譬如盲跛相假能去。	譬如盲跛相假能去。	It is like a blind person and a lame person relying on each other to be able to go.
+['ZH_T30_1569_001:0172b22_15']	如是神有思惟、身有動力，和合而去。	如是神有思惟、身有動力，和合而去。	Thus the spirit has thought, and the body has the power of movement, combining to go.
+['ZH_T30_1569_001:0172b22_18']	內曰：	內曰：	The proponent of the treatise says:
+['ZH_T30_1569_001:0172b23_5']	異相故修妬路。	異相故修妬路。	Because of being different.
+['ZH_T30_1569_001:0172b23_20']	如盲跛，二觸二思惟故法應能去。	如盲跛，二觸二思惟故法應能去。	Like a blind person and a lame person, because of two contacts and two thoughts, the dharmas should be able to go.
+['ZH_T30_1569_001:0172b24_15']	身神無二事故不應去，是故無去法。	身神無二事故不應去，是故無去法。	The body and spirit do not have two things, so they should not go. Therefore there is no method of going.
+['ZH_T30_1569_001:0172b25_7']	若不爾，有如上斷過。	若不爾，有如上斷過。	If it is not so, there is the above fault of cutting off.
+['ZH_T30_1569_001:0172b25_19']	復次汝謂空熱，此事不然。	復次汝謂空熱，此事不然。	Moreover, you say that space is hot, but this is not so.
+['ZH_T30_1569_001:0172b26_3']	何以故？	何以故？	Why is it so?
+['ZH_T30_1569_001:0172b26_13']	空無觸故，微熱遍空。	空無觸故，微熱遍空。	Because space has no contact, subtle heat pervades space.
+['ZH_T30_1569_001:0172b27_9']	身觸覺熱，非空熱也，但假言空熱。	身觸覺熱，非空熱也，但假言空熱。	The body feels heat, but it is not the heat of space. It is only figuratively said that space is hot.
+['ZH_T30_1569_001:0172b27_12']	外曰：	外曰：	The opponent says:
+['ZH_T30_1569_001:0172b28_3']	如舍主惱修妬路。	如舍主惱修妬路。	Like the owner of a house being harmed.
+['ZH_T30_1569_001:0172b28_15']	如燒舍時，舍主惱而不燒。	如燒舍時，舍主惱而不燒。	When a house is burning, the owner of the house is harmed but not burned.
+['ZH_T30_1569_001:0172b29_8']	如是身斷時，神但惱而不斷。	如是身斷時，神但惱而不斷。	In the same way, when the body is cut, the spirit is only harmed but not cut.
+['ZH_T30_1569_001:0172b29_11']	內曰：	內曰：	The proponent of the inner teaching says:
+['ZH_T30_1569_001:0172b29_14']	不然。	不然。	This is not so.
+['ZH_T30_1569_001:0172c01_3']	無常故燒修妬路。	無常故燒修妬路。	Because it is impermanent, it is burned.
+['ZH_T30_1569_001:0172c01_19']	舍燒時，草木等無常故，亦燒亦熱。	舍燒時，草木等無常故，亦燒亦熱。	When a house is burning, grass, wood, etc. are also burned and hot because they are impermanent.
+['ZH_T30_1569_001:0172c02_7']	空常故，不燒不熱。	空常故，不燒不熱。	Space is permanent, so it is not burned and not hot.
+['ZH_T30_1569_001:0172c02_19']	如是身無常故，亦惱亦斷。	如是身無常故，亦惱亦斷。	In the same way, the body is harmed and cut off because it is impermanent.
+['ZH_T30_1569_001:0172c03_8']	神常故，不惱不斷。	神常故，不惱不斷。	The spirit is not harmed or cut off because it is permanent.
+['ZH_T30_1569_001:0172c04_1']	復次舍主遠火故不應燒。	復次舍主遠火故不應燒。	Furthermore, the owner of the house is not burned because he is far from the fire.
+['ZH_T30_1569_001:0172c04_14']	汝經言神遍滿故，亦應斷壞。	汝經言神遍滿故，亦應斷壞。	According to your scriptures, the spirit pervades everywhere, so it should also be harmed and destroyed.
+['ZH_T30_1569_001:0172c04_17']	外曰：	外曰：	The opponent says:
+['ZH_T30_1569_001:0172c05_8']	必有神取色等故修妬路。	必有神取色等故修妬路。	Because the spirit must grasp form, etc.
+['ZH_T30_1569_001:0172c06_9']	五情不能知五塵，非知法故，是故知神能知。	五情不能知五塵，非知法故，是故知神能知。	The five sense faculties cannot know the five sense objects because they are not the principle of knowing. Therefore, it is known that the spirit can know.
+['ZH_T30_1569_001:0172c07_10']	神用眼等知色等諸塵，如人以鎌收刈五穀。	神用眼等知色等諸塵，如人以鎌收刈五穀。	The spirit uses the eyes and so on to perceive forms and other objects, just as a person uses a sickle to harvest the five grains.
+['ZH_T30_1569_001:0172c07_13']	內曰：	內曰：	Internally, it is said:
+['ZH_T30_1569_001:0172c08_4']	何不用耳見修妬路。	何不用耳見修妬路。	Why not use the ears to see sūtras?
+['ZH_T30_1569_001:0172c08_17']	若神見有力，何不用耳見色？	若神見有力，何不用耳見色？	If the spirit has the power to see, why not use the ears to see forms?
+['ZH_T30_1569_001:0172c09_7']	如火能燒，處處皆燒。	如火能燒，處處皆燒。	Just as fire can burn everywhere.
+['ZH_T30_1569_001:0172c10_1']	又如人或時無鎌，手亦能斷。	又如人或時無鎌，手亦能斷。	Also, it is like a person who sometimes has no sickle, but can still cut with their hands.
+['ZH_T30_1569_001:0172c10_17']	又如舍有六向，人居其內所在能見。	又如舍有六向，人居其內所在能見。	Also, it is like a house with six directions, a person living inside can see everywhere.
+['ZH_T30_1569_001:0172c11_8']	神亦如是，處處應見。	神亦如是，處處應見。	The spirit is also like this, it should see everywhere.
+['ZH_T30_1569_001:0172c11_11']	外曰：	外曰：	Externally, it is said:
+['ZH_T30_1569_001:0172c11_14']	不然。	不然。	Otherwise,🔽🔽
+['ZH_T30_1569_001:0172c12_6']	所用定故，如陶師修妬路。	所用定故，如陶師修妬路。	Because the function is fixed, like a potter making sūtras.
+['ZH_T30_1569_001:0172c13_14']	神雖有見力，然眼等所伺不同，於塵各定故，不能用耳見色。	神雖有見力，然眼等所伺不同，於塵各定故，不能用耳見色。	Although the spirit has the power to see, the objects observed by the eyes and so on are different, and it is fixed on each object, so it cannot use the ears to see forms.
+['ZH_T30_1569_001:0172c14_10']	如陶師雖能作瓶，離泥不能作。	如陶師雖能作瓶，離泥不能作。	It is like a potter who can make pots, but cannot make them without clay.
+['ZH_T30_1569_001:0172c15_7']	如是神雖有見力，非眼不能見。	如是神雖有見力，非眼不能見。	In the same way, although the spirit has the power to see, it cannot see without the eyes.
+['ZH_T30_1569_001:0172c15_10']	內曰：	內曰：	Internally, it is said:
+['ZH_T30_1569_001:0172c15_17']	若爾盲修妬路。	若爾盲修妬路。	If so, then blind sūtras.
+['ZH_T30_1569_001:0172c16_8']	若神用眼見，則神與眼異。	若神用眼見，則神與眼異。	If the spirit uses the eyes to see, then the spirit is different from the eyes.
+['ZH_T30_1569_001:0172c16_18']	神與眼異，則神無眼。	神與眼異，則神無眼。	If the spirit is different from the eyes, then the spirit has no eyes.
+['ZH_T30_1569_001:0172c17_5']	神無眼云何見？	神無眼云何見？	How can a spirit without eyes see?
+['ZH_T30_1569_001:0172c17_16']	汝陶師喻者，是亦不然。	汝陶師喻者，是亦不然。	Your analogy of the potter is also incorrect.
+['ZH_T30_1569_001:0172c18_2']	所以者何？	所以者何？	Why is it so?
+['ZH_T30_1569_001:0172c18_14']	離泥更無有瓶，泥即為瓶；	離泥更無有瓶，泥即為瓶；	Apart from clay, there is no other vessel; the clay itself is the vessel.
+['ZH_T30_1569_001:0172c19_1']	而眼色異故。	而眼色異故。	But because eyes and forms are different.
+['ZH_T30_1569_001:0172c19_4']	外曰：	外曰：	The non-Buddhist says:
+['ZH_T30_1569_001:0172c19_14']	有神異情動故修妬路。	有神異情動故修妬路。	There is a spirit different from the mind, because of movement.
+['ZH_T30_1569_001:0172c21_8']	若無神者，何故見他食果口中生涎，如是不應以眼知味，有眼者能知。	若無神者，何故見他食果口中生涎，如是不應以眼知味，有眼者能知。	If there were no spirit, why would saliva be produced in the mouth when seeing others eating fruit? It should not be that the eyes know taste. One with eyes can know.
+['ZH_T30_1569_001:0172c21_20']	復次一物眼身知故修妬路。	復次一物眼身知故修妬路。	Furthermore, because one thing is known by both eyes and body.
+['ZH_T30_1569_001:0172c23_7']	如人眼先識瓶等，闇中雖不用眼，身觸亦知，是故知有神。	如人眼先識瓶等，闇中雖不用眼，身觸亦知，是故知有神。	Just as a person first recognizes a pot with the eyes, even though not using the eyes in the dark, the body can also know by touch. Therefore, we know there is a spirit.
+['ZH_T30_1569_001:0172c23_10']	內曰：	內曰：	The Buddhist says:
+['ZH_T30_1569_001:0172c23_20']	如盲，修妬路中已破。	如盲，修妬路中已破。	This has already been refuted in the Madhyamaka.
+['ZH_T30_1569_001:0172c25_3']	復次若眼見他食果而口生涎者，餘情何以不動？	復次若眼見他食果而口生涎者，餘情何以不動？	Furthermore, if the eyes see others eating fruit and saliva is produced in the mouth, why are the other faculties not moved?
+['ZH_T30_1569_001:0172c25_8']	身亦如是。	身亦如是。	The body is also like this.
+['ZH_T30_1569_001:0172c25_11']	外曰：	外曰：	The opponent says:
+['ZH_T30_1569_001:0172c25_18']	如人燒修妬路。	如人燒修妬路。	Just as a person burns sūtras.
+['ZH_T30_1569_001:0172c26_10']	譬如人雖能燒，離火不能燒。	譬如人雖能燒，離火不能燒。	Just as although a person can burn, they cannot burn apart from fire.
+['ZH_T30_1569_001:0172c27_8']	神亦如是，用眼能見，離眼不能見。	神亦如是，用眼能見，離眼不能見。	The spirit is also like this, using the eyes to see, apart from the eyes it cannot see.
+['ZH_T30_1569_001:0172c27_11']	內曰：	內曰：	The proponent of the inner teaching says:
+['ZH_T30_1569_001:0172c27_17']	火燒修妬路。	火燒修妬路。	Fire burns sūtras.
+['ZH_T30_1569_001:0172c28_6']	言人燒者，是則妄語。	言人燒者，是則妄語。	Saying a person burns is then false speech.
+['ZH_T30_1569_001:0172c28_10']	何以故？	何以故？	Why is this?
+['ZH_T30_1569_001:0172c28_20']	人無燒相，火自能燒。	人無燒相，火自能燒。	A person has no characteristic of burning, fire itself can burn.
+['ZH_T30_1569_001:0173a01_1']	如風動木相揩生火，焚燒山澤，無有作者。	如風動木相揩生火，焚燒山澤，無有作者。	Just as wind moves and wood rubs together to produce fire, burning mountains and marshes, without a creator.
+['ZH_T30_1569_001:0173a01_13']	是故火自能燒，非人燒也。	是故火自能燒，非人燒也。	Therefore, fire itself can burn, it is not that a person burns.
+['ZH_T30_1569_001:0173a01_16']	外曰：	外曰：	The opponent says:
+['ZH_T30_1569_001:0173a02_3']	如意修妬路。	如意修妬路。	Just as the mind.
+['ZH_T30_1569_001:0173a03_4']	如死人雖有眼，無意故神則不見，若有意神則見。	如死人雖有眼，無意故神則不見，若有意神則見。	Just as a dead person, although having eyes, because of having no mind the spirit then does not see, if having a mind the spirit then sees.
+['ZH_T30_1569_001:0173a03_16']	如是神用眼見，離眼不見。	如是神用眼見，離眼不見。	In this way, the spirit uses the eyes to see, apart from the eyes it does not see.
+['ZH_T30_1569_001:0173a03_19']	內曰：	內曰：	The proponent of the inner teaching says:
+['ZH_T30_1569_001:0173a05_9']	若有意能知、無意不能知者，但意行眼等門中便知，神復何用？	若有意能知、無意不能知者，但意行眼等門中便知，神復何用？	If having a mind can know and without a mind cannot know, then the mind just operates within the gates of the eyes and so forth and then knows, what further use is there for the spirit?
+['ZH_T30_1569_001:0173a05_12']	外曰：	外曰：	The opponent says:
+['ZH_T30_1569_001:0173a05_17']	意不自知。	意不自知。	The mind does not know itself.
+['ZH_T30_1569_001:0173a06_13']	若意意相知，此則無窮，我神一故。	若意意相知，此則無窮，我神一故。	If the mind knows itself, this would be an infinite regress, because the self and the spirit are one.
+['ZH_T30_1569_001:0173a07_3']	以神知意，非無窮也。	以神知意，非無窮也。	It is because the spirit knows the mind that there is no infinite regress.
+['ZH_T30_1569_001:0173a07_6']	內曰：	內曰：	Internally, it is said:
+['ZH_T30_1569_001:0173a07_13']	神亦神修妬路。	神亦神修妬路。	The spirit is also the spirit.
+['ZH_T30_1569_001:0173a08_2']	若神知意，誰復知神？	若神知意，誰復知神？	If the spirit knows the mind, who then knows the spirit?
+['ZH_T30_1569_001:0173a08_12']	若神知神，是亦無窮。	若神知神，是亦無窮。	If the spirit knows the spirit, this would also be an infinite regress.
+['ZH_T30_1569_001:0173a09_12']	我法以現在意知過去意，意法無常故無咎。	我法以現在意知過去意，意法無常故無咎。	In our teaching, the present mind knows the past mind, because the dharma of the mind is impermanent, so there is no fault.
+['ZH_T30_1569_001:0173a09_15']	外曰：	外曰：	Externally, it is said:
+['ZH_T30_1569_001:0173a10_4']	云何除神修妬路？	云何除神修妬路？	How can the spirit be excluded?
+['ZH_T30_1569_001:0173a10_16']	若除神，云何但意知諸塵？	若除神，云何但意知諸塵？	If the spirit is excluded, how can the mind alone know all objects?
+['ZH_T30_1569_001:0173a10_19']	內曰：	內曰：	Internally, it is said:
+['ZH_T30_1569_001:0173a11_6']	如火熱相修妬路。	如火熱相修妬路。	Like the characteristic of heat in fire.
+['ZH_T30_1569_001:0173a12_8']	譬如火熱，無有作者，火性自熱，無有不熱之火。	譬如火熱，無有作者，火性自熱，無有不熱之火。	It is like fire and heat, which have no creator. The nature of fire is inherently hot, and there is no fire that is not hot.
+['ZH_T30_1569_001:0173a13_7']	如是意是知相，雖復離神，性知故能知。	如是意是知相，雖復離神，性知故能知。	In the same way, the mind is characterized by knowing. Although it is apart from the spirit, it can know because of its inherent knowing nature.
+['ZH_T30_1569_001:0173a13_17']	神知異故，神不應知。	神知異故，神不應知。	The spirit and knowing are different, so the spirit should not know.
+['ZH_T30_1569_001:0173a13_20']	外曰：	外曰：	Externally, it is said:
+['ZH_T30_1569_001:0173a14_19']	應有神宿，習念相續故，生時憂喜行修妬路。	應有神宿，習念相續故，生時憂喜行修妬路。	There must be a soul, because the continuity of habitual memory exists. At birth, there is the practice of joy and sorrow.
+['ZH_T30_1569_001:0173a16_16']	如小兒生便知行憂喜等事，無有教者，以先世宿習憶念相續故，今世還為種種業。	如小兒生便知行憂喜等事，無有教者，以先世宿習憶念相續故，今世還為種種業。	Just as a child is born knowing to practice joy and sorrow, without being taught, because of the continuity of habitual memory from past lives, in this life it again creates various karma.
+['ZH_T30_1569_001:0173a17_6']	是故知有神亦常相。	是故知有神亦常相。	Therefore, we know that there is a soul and it has the characteristic of permanence.
+['ZH_T30_1569_001:0173a17_9']	內曰：	內曰：	Internally, it is said:
+['ZH_T30_1569_001:0173a17_17']	遍云何念修妬路？	遍云何念修妬路？	How can there be universal memory?
+['ZH_T30_1569_001:0173a18_12']	神常遍諸塵，無不念時，念從何生？	神常遍諸塵，無不念時，念從何生？	If the soul is permanent and pervades all objects, there is no time when it is not remembered. From what does memory arise?
+['ZH_T30_1569_001:0173a20_2']	復次若念一切處生，念亦應遍一切處，如是一切處應一時念。	復次若念一切處生，念亦應遍一切處，如是一切處應一時念。	Moreover, if memory arises everywhere, memory should also pervade everywhere. In this way, everything should be remembered at the same time.
+['ZH_T30_1569_001:0173a21_1']	若念分分處生，神則有分，有分故無常。	若念分分處生，神則有分，有分故無常。	If memory arises in each part, then the soul has parts. Because it has parts, it is impermanent.
+['ZH_T30_1569_001:0173a21_19']	復次若神無知、若知非神，此事先已破。	復次若神無知、若知非神，此事先已破。	Furthermore, if the soul is without knowledge, or if knowledge is not the soul, this matter has already been refuted.
+['ZH_T30_1569_001:0173a22_2', 'ZH_T30_1569_001:0173a22_10']	外曰：🔽合故念生修妬路。	外曰： 合故念生修妬路。	Externally, it is said:🔽Memory arises from combination.
+['ZH_T30_1569_001:0173a23_1']	若神意合，以勢發故念生。	若神意合，以勢發故念生。	If the soul and mind combine, then due to the power [of the combination], memory arises.
+['ZH_T30_1569_001:0173a23_5']	何以故？	何以故？	Why is it so?
+['ZH_T30_1569_001:0173a23_19']	神意雖合，勢不發者則念不生。	神意雖合，勢不發者則念不生。	Although the spirit and mind are united, if the power does not arise, then thoughts do not arise.
+['ZH_T30_1569_001:0173a24_2']	內曰：	內曰：	The inner [disciple] says:
+['ZH_T30_1569_001:0173a24_12']	雖先已破，今當重說。	雖先已破，今當重說。	Although it has been refuted before, I will now explain it again.
+['ZH_T30_1569_001:0173a25_2']	神若知相，不應生念。	神若知相，不應生念。	If the spirit knows, it should not give rise to thoughts.
+['ZH_T30_1569_001:0173a25_13']	若非知相，亦不應生念。	若非知相，亦不應生念。	If it is not knowing, it should also not give rise to thoughts.
+['ZH_T30_1569_001:0173a26_4']	復次若念知修妬路。	復次若念知修妬路。	Furthermore, if thoughts know the sutras,
+['ZH_T30_1569_001:0173a27_10']	若念生是時知，若念不生是時不知，應念即是知，神復何用？	若念生是時知，若念不生是時不知，應念即是知，神復何用？	if thoughts arise at that time it knows, if thoughts do not arise at that time it does not know, then thoughts should be knowing, what further use is there for the spirit?
+['ZH_T30_1569_001:0173a27_13']	外曰：	外曰：	The outsider says:
+['ZH_T30_1569_001:0173a27_17']	應有神。	應有神。	There should be a spirit.
+['ZH_T30_1569_001:0173a28_6']	左見右識故修妬路。	左見右識故修妬路。	Because the left sees and the right recognizes.
+['ZH_T30_1569_001:0173a29_5']	如人先左眼見，後右眼識，不應彼見此識。	如人先左眼見，後右眼識，不應彼見此識。	Just as a person first sees with the left eye and later recognizes with the right eye, it should not be that what is seen by one is recognized by the other.
+['ZH_T30_1569_001:0173a29_16']	以內有神故，左見右識。	以內有神故，左見右識。	Because there is a spirit within, the left sees and the right recognizes.
+['ZH_T30_1569_001:0173a29_19']	內曰：	內曰：	The inner [disciple] says:
+['ZH_T30_1569_001:0173b01_7']	共答二眼修妬路。	共答二眼修妬路。	The common answer to the two eyes.
+['ZH_T30_1569_001:0173b01_13']	分知不名知。	分知不名知。	Distinguishing knowledge is not called knowing.
+['ZH_T30_1569_001:0173b02_8']	復次若爾無知，復次遍云何念？	復次若爾無知，復次遍云何念？	Furthermore, if so, there is no knowing. Furthermore, how does it remember everywhere?
+['ZH_T30_1569_001:0173b03_3']	復次若念知，復次何不用耳見？	復次若念知，復次何不用耳見？	Furthermore, if it remembers knowing, furthermore, why not use the ears to see?
+['ZH_T30_1569_001:0173b05_12']	復次若爾盲，復次如左眼見不應右眼識，神亦不應此分見彼分識，是故不應以左眼見右眼識故便有神。	復次若爾盲，復次如左眼見不應右眼識，神亦不應此分見彼分識，是故不應以左眼見右眼識故便有神。	Furthermore, if it is so, the blind person's left eye sees but the right eye does not perceive. The spirit should not see with this part and perceive with that part. Therefore, one should not say that because the left eye sees and the right eye perceives, there is a spirit.
+['ZH_T30_1569_001:0173b05_15']	外曰：	外曰：	The non-Buddhist says:
+['ZH_T30_1569_001:0173b06_8']	念屬神故神知修妬路。	念屬神故神知修妬路。	Because memory belongs to the spirit, the spirit knows.
+['ZH_T30_1569_001:0173b07_5']	念名神法，是念神中生，是故神用念知。	念名神法，是念神中生，是故神用念知。	Memory is called a spiritual dharma. This memory arises in the spirit. Therefore, the spirit uses memory to know.
+['ZH_T30_1569_001:0173b07_8']	內曰：	內曰：	The Buddhist says:
+['ZH_T30_1569_001:0173b07_11']	不然。	不然。	This is not so.
+['ZH_T30_1569_001:0173b07_20']	分知不名知修妬路。	分知不名知修妬路。	Partial knowledge is not called knowledge.
+['ZH_T30_1569_001:0173b08_12']	若神一分處知生，神則分知。	若神一分處知生，神則分知。	If a part of the spirit produces knowledge, then the spirit has partial knowledge.
+['ZH_T30_1569_001:0173b09_2']	若神分知，神不名知。	若神分知，神不名知。	If the spirit has partial knowledge, the spirit is not called knowledge.
+['ZH_T30_1569_001:0173b09_5']	外曰：	外曰：	The non-Buddhist says:
+['ZH_T30_1569_001:0173b09_11']	神知非分知。	神知非分知。	The spirit's knowledge is not partial knowledge.
+['ZH_T30_1569_001:0173b09_15']	何以故？	何以故？	Why is it so?
+['ZH_T30_1569_001:0173b10_10']	神雖分知，神名知，如身業修妬路。	神雖分知，神名知，如身業修妬路。	Although the spirit has partial knowledge, the spirit is called knowledge, just like bodily action.
+['ZH_T30_1569_001:0173b11_4']	譬如身分，手有所作名為身作。	譬如身分，手有所作名為身作。	It is like a part of the body. When the hand does something, it is called bodily action.
+['ZH_T30_1569_001:0173b11_15']	如是神雖分知，神名知。	如是神雖分知，神名知。	In the same way, although the spirit has partial knowledge, the spirit is called knowledge.
+['ZH_T30_1569_001:0173b11_18']	內曰：	內曰：	The Buddhist says:
+['ZH_T30_1569_001:0173b12_7']	若爾無知修妬路。	若爾無知修妬路。	If so, there is no knowledge.
+['ZH_T30_1569_001:0173b13_8']	汝法神遍意少，神意合故神知生，是知與意等少。	汝法神遍意少，神意合故神知生，是知與意等少。	Your theory is that the spirit is all-pervading, but the mind is small. Because the spirit and mind combine, the spirit knows and life arises. This knowing is equal to the mind and small.
+['ZH_T30_1569_001:0173b14_12']	若以少知神名知者，汝何不言以多不知故神名不知？	若以少知神名知者，汝何不言以多不知故神名不知？	If you say that the spirit is called a knower because of its small knowing, why don't you say that the spirit is called a non-knower because of its much unknowing?
+['ZH_T30_1569_001:0173b15_7']	又汝身業喻者，此事不然。	又汝身業喻者，此事不然。	Moreover, your analogy of bodily action is not correct.
+['ZH_T30_1569_001:0173b15_11']	何以故？	何以故？	Why is it so?
+['ZH_T30_1569_001:0173b16_1']	分有分一異不可得故。	分有分一異不可得故。	Because the parts and the whole cannot be said to be the same or different.
+['ZH_T30_1569_001:0173b16_4']	外曰：	外曰：	The non-Buddhist says:
+['ZH_T30_1569_001:0173b16_12']	如衣分燒修妬路。	如衣分燒修妬路。	Like a cloth whose parts are burned.
+['ZH_T30_1569_001:0173b17_2']	譬如衣一分燒，名為燒衣。	譬如衣一分燒，名為燒衣。	It is like a cloth, one part of which is burned, and it is called a burned cloth.
+['ZH_T30_1569_001:0173b17_15']	如是神雖一分知，名為神知。	如是神雖一分知，名為神知。	In the same way, although the spirit knows only one part, it is called the spirit's knowing.
+['ZH_T30_1569_001:0173b18_1']	內曰：	內曰：	The Buddhist says:
+['ZH_T30_1569_001:0173b18_9', 'ZH_T30_1569_001:0173b19_4']	燒亦如是修妬路。🔽若衣一分燒，不名為燒，應名分燒。	燒亦如是修妬路。 若衣一分燒，不名為燒，應名分燒。	Burning is also like this.🔽If one part of a cloth is burned, it cannot be called burned, but should be called partially burned.
+['ZH_T30_1569_001:0173b20_6']	汝以一分燒故衣名燒者，今多不燒應名不燒。	汝以一分燒故衣名燒者，今多不燒應名不燒。	If you say that because one part is burned, the cloth is called burned, then now that much is not burned, it should be called not burned.
+['ZH_T30_1569_001:0173b20_10']	何以故？	何以故？	Why is it so?
+['ZH_T30_1569_001:0173b21_2']	是衣多不燒，實有用故。	是衣多不燒，實有用故。	Because much of the cloth is not burned, it still has a function.
+['ZH_T30_1569_001:0173b21_9']	是以莫著語言。	是以莫著語言。	Therefore, do not be attached to words.
+['ZH_T30_1569_001:0173b23_2']	3 破一品破一品第三外曰：	3 破一品破一品第三外曰：	3. Refuting the First Chapter, Part Three, the Outsider says:
+['ZH_T30_1569_001:0173b23_6']	應有神。	應有神。	There should be a soul.
+['ZH_T30_1569_001:0173b23_19']	有一瓶等，神所有故修妬路。	有一瓶等，神所有故修妬路。	Because there are things like a pot that belong to the soul.
+['ZH_T30_1569_001:0173b24_16']	若有神則有神所有，若無神則無神所有。	若有神則有神所有，若無神則無神所有。	If there is a soul, then there are things that belong to the soul. If there is no soul, then there are no things that belong to the soul.
+['ZH_T30_1569_001:0173b25_11']	有一瓶等是神所有，故有神。	有一瓶等是神所有，故有神。	Because there are things like a pot that belong to the soul, therefore there is a soul.
+['ZH_T30_1569_001:0173b25_14']	內曰：	內曰：	The Insider says:
+['ZH_T30_1569_001:0173b25_17']	不然。	不然。	That is not so.
+['ZH_T30_1569_001:0173b26_1']	何以故？	何以故？	Why is it so?
+['ZH_T30_1569_001:0173b26_8']	神已不可得故。	神已不可得故。	Because the soul cannot be apprehended.
+['ZH_T30_1569_001:0173b27_2']	今思惟有一瓶等，若以一有？	今思惟有一瓶等，若以一有？	Now, when contemplating the existence of a pot, is it by way of oneness?
+['ZH_T30_1569_001:0173b27_7']	若以異有？	若以異有？	Or is it by way of difference?
+['ZH_T30_1569_001:0173b27_12']	二俱有過。	二俱有過。	Both have faults.
+['ZH_T30_1569_001:0173b27_15']	外曰：	外曰：	The outsider says:
+['ZH_T30_1569_001:0173b28_8']	有一瓶等，若以一有，有何過？	有一瓶等，若以一有，有何過？	If there is a pot by way of oneness, what is the fault?
+['ZH_T30_1569_001:0173b28_11', 'ZH_T30_1569_001:0173b29_13']	內曰：🔽若有一瓶一，如一一切成若不成、若顛倒修妬路。	內曰： 若有一瓶一，如一一切成若不成、若顛倒修妬路。	The insider says:🔽If there is a pot by way of oneness, then like one, everything is established. If not established, then it is upside down.
+['ZH_T30_1569_001:0173c02_6']	若有一瓶一者，如因陀羅釋迦憍尸迦，其有因陀羅處則有釋迦憍尸迦。	若有一瓶一者，如因陀羅釋迦憍尸迦，其有因陀羅處則有釋迦憍尸迦。	If there is a pot by way of oneness, then like Indra, Shakra, and Koshisheng, where there is the place of Indra, there is Shakra and Koshisheng.
+['ZH_T30_1569_001:0173c03_15']	如是隨有處則有一瓶，隨一處則有有瓶，隨瓶處則有有一。	如是隨有處則有一瓶，隨一處則有有瓶，隨瓶處則有有一。	In this way, wherever there is a place, there is a pot; wherever there is a place, there is the existence of a pot; wherever there is a pot, there is the existence of one.
+['ZH_T30_1569_001:0173c06_1']	若爾衣等諸物亦應是瓶，有一瓶一故，如是其有一物皆應是瓶，今瓶衣等物悉應是一。	若爾衣等諸物亦應是瓶，有一瓶一故，如是其有一物皆應是瓶，今瓶衣等物悉應是一。	If so, then cloth and other things should also be pots, because they have one pot, and in the same way, all things that have one should be pots. Now, pots, cloth, and other things should all be one.
+['ZH_T30_1569_001:0173c06_13']	復次有常故，一瓶亦應常。	復次有常故，一瓶亦應常。	Moreover, because of permanence, one pot should also be permanent.
+['ZH_T30_1569_001:0173c07_4']	復次若說有則說一瓶。	復次若說有則說一瓶。	Moreover, if existence is spoken of, then one pot is also spoken of.
+['ZH_T30_1569_001:0173c07_17']	復次一是數，有瓶亦應是數。	復次一是數，有瓶亦應是數。	Moreover, one is a number, and the existence of a pot should also be a number.
+['ZH_T30_1569_001:0173c08_13']	復次若瓶五身，有一亦應五身。	復次若瓶五身，有一亦應五身。	Moreover, if a pot has five bodies, then one should also have five bodies.
+['ZH_T30_1569_001:0173c09_10']	若瓶有形有對，有一亦應有形有對。	若瓶有形有對，有一亦應有形有對。	If a pot has form and resistance, then one should also have form and resistance.
+['ZH_T30_1569_001:0173c10_3']	若瓶無常，有一亦應無常。	若瓶無常，有一亦應無常。	If a pot is impermanent, then one should also be impermanent.
+['ZH_T30_1569_001:0173c10_11']	是名如一一切成。	是名如一一切成。	This is called the establishment of all as one.
+['ZH_T30_1569_001:0173c11_16']	若處處有是中無瓶，今處處瓶是亦無瓶，有不異故。	若處處有是中無瓶，今處處瓶是亦無瓶，有不異故。	If there is no pot in various places, then the pot in various places is also without a pot, because existence is not different.
+['ZH_T30_1569_001:0173c12_17']	復次事事有不是瓶，今瓶則非瓶，有不異故。	復次事事有不是瓶，今瓶則非瓶，有不異故。	Furthermore, regarding things, there are those that are not pots. Now, a pot is not a pot, because there is no difference.
+['ZH_T30_1569_001:0173c14_8']	復次若說有不攝一瓶，今說一瓶亦不應攝一瓶，有不異故。	復次若說有不攝一瓶，今說一瓶亦不應攝一瓶，有不異故。	Furthermore, if it is said that existence does not include a single pot, now it is said that a single pot also should not include a single pot, because existence is no different.
+['ZH_T30_1569_001:0173c14_15']	復次若有非瓶。	復次若有非瓶。	Furthermore, if existence is not a pot,
+['ZH_T30_1569_001:0173c15_1']	瓶亦非瓶。	瓶亦非瓶。	a pot is also not a pot.
+['ZH_T30_1569_001:0173c15_6']	有不異故。	有不異故。	Because existence is no different.
+['ZH_T30_1569_001:0173c15_15']	是名如一一切不成。	是名如一一切不成。	This is called the non-establishment of all as one.
+['ZH_T30_1569_001:0173c16_12']	若欲說瓶應說有，欲說有應說瓶。	若欲說瓶應說有，欲說有應說瓶。	If one wishes to speak of a pot, one should speak of existence. If one wishes to speak of existence, one should speak of a pot.
+['ZH_T30_1569_001:0173c17_7']	復次汝瓶成故，有一亦成。	復次汝瓶成故，有一亦成。	Furthermore, because the pot is established, existence is also established.
+['ZH_T30_1569_001:0173c18_2']	若有一成故，瓶亦應成，以一故。	若有一成故，瓶亦應成，以一故。	If existence is established, then the pot should also be established, because of being one.
+['ZH_T30_1569_001:0173c18_23']	是名如一，一切顛倒此中四紙辯名字無可傳譯。	是名如一，一切顛倒此中四紙辯名字無可傳譯。	This is called the inversion of all as one. Four pages here are untranslatable due to missing names.
+['ZH_T30_1569_001:0173c18_26']	外曰：	外曰：	The opponent says:
+['ZH_T30_1569_001:0173c19_9']	物有一故無過修妬路。	物有一故無過修妬路。	Because things are one, there is no fault. Sūtra
+['ZH_T30_1569_001:0173c20_15']	物是有，亦是一，是故若有瓶處必有有一，非有一處皆是瓶。	物是有，亦是一，是故若有瓶處必有有一，非有一處皆是瓶。	Things are existence and also one. Therefore, where there is a pot, there must be existence. It is not that where there is existence, all are pots.
+['ZH_T30_1569_001:0173c22_1']	復次若說瓶，當知已攝有一，非說有一必攝瓶。	復次若說瓶，當知已攝有一，非說有一必攝瓶。	Moreover, if one speaks of a pot, one should know that it already includes one, but speaking of one does not necessarily include a pot.
+['ZH_T30_1569_001:0173c22_4']	內曰：	內曰：	The inner [disciple] says:
+['ZH_T30_1569_001:0173c22_8']	瓶有二。	瓶有二。	A pot has two.
+['ZH_T30_1569_001:0173c22_12']	何故二？	何故二？	Why two?
+['ZH_T30_1569_001:0173c22_18']	無瓶修妬路。	無瓶修妬路。	There is no sutra on pots.
+['ZH_T30_1569_001:0173c23_10']	若有一瓶一，何故有一處無瓶？	若有一瓶一，何故有一處無瓶？	If there is one pot and one, why is there no pot in one place?
+['ZH_T30_1569_001:0173c24_3']	復次云何說有一不攝瓶？	復次云何說有一不攝瓶？	Moreover, how can it be said that one does not include a pot?
+['ZH_T30_1569_001:0173c24_6']	外曰：	外曰：	The outsider says:
+['ZH_T30_1569_001:0173c24_16']	瓶中瓶有定故修妬路。	瓶中瓶有定故修妬路。	Because the existence of a pot in a pot is definite, according to the sutra.
+['ZH_T30_1569_001:0173c27_6']	瓶中瓶有與瓶不異，而異於衣物等，是故在在處瓶是中有瓶有，亦在在處瓶有是中有瓶，非在在有處有瓶。	瓶中瓶有與瓶不異，而異於衣物等，是故在在處瓶是中有瓶有，亦在在處瓶有是中有瓶，非在在有處有瓶。	The existence of a pot in a pot is not different from a pot, but it is different from clothes and other things. Therefore, wherever there is a pot, there is the existence of a pot in it, and wherever there is the existence of a pot, there is a pot in it. But it is not the case that wherever there is existence, there is a pot.
+['ZH_T30_1569_001:0173c27_9']	內曰：	內曰：	The inner [disciple] says:
+['ZH_T30_1569_001:0173c27_12']	不然。	不然。	It is not so.
+['ZH_T30_1569_001:0173c28_3']	瓶有不異故修妬路。	瓶有不異故修妬路。	Because the existence of a pot is not different, according to the sutra.
+['ZH_T30_1569_001:0173c28_8']	有是總相。	有是總相。	Existence is a general characteristic.
+['ZH_T30_1569_001:0173c28_12', 'ZH_T30_1569_001:0173c29_1']	何以故？🔽若說有，則信瓶等諸物。	何以故？ 若說有，則信瓶等諸物。	Why is it so?🔽If one speaks of existence, then one believes in pots and other things.
+['ZH_T30_1569_001:0173c29_12']	若說瓶，不信衣等諸物。	若說瓶，不信衣等諸物。	If one speaks of a pot, one does not believe in clothes and other things.
+['ZH_T30_1569_001:0174a01_9']	是故瓶是別相，有是總相，云何為一？	是故瓶是別相，有是總相，云何為一？	Therefore, a pot is a specific characteristic, and existence is a general characteristic. How can they be one?
+['ZH_T30_1569_001:0174a01_12']	外曰：	外曰：	The opponent says:
+['ZH_T30_1569_001:0174a01_19']	如父子修妬路。	如父子修妬路。	Like father and son.
+['ZH_T30_1569_001:0174a03_5']	譬如一人亦子亦父，如是總相亦是別相，別相亦是總相。	譬如一人亦子亦父，如是總相亦是別相，別相亦是總相。	Just as a person is both a son and a father, so a general characteristic is also a specific characteristic, and a specific characteristic is also a general characteristic.
+['ZH_T30_1569_001:0174a03_8']	內曰：	內曰：	The proponent of the treatise says:
+['ZH_T30_1569_001:0174a03_11']	不然。	不然。	This is not so.
+['ZH_T30_1569_001:0174a03_18']	子故父修妬路。	子故父修妬路。	Because of being a son, one is a father.
+['ZH_T30_1569_001:0174a04_12']	若未生子不名為父，子生然後為父。	若未生子不名為父，子生然後為父。	If one has not yet had a son, one is not called a father. Only after having a son does one become a father.
+['ZH_T30_1569_001:0174a05_6']	復次是喻同我，汝則非也。	復次是喻同我，汝則非也。	Moreover, this analogy is the same for us, but not for you.
+['ZH_T30_1569_001:0174a05_9']	外曰：	外曰：	The opponent says:
+['ZH_T30_1569_001:0174a05_20']	應有瓶，皆信故修妬路。	應有瓶，皆信故修妬路。	There should be pots, because everyone believes in them.
+['ZH_T30_1569_001:0174a06_14']	世人眼見信有瓶用，是故應有瓶。	世人眼見信有瓶用，是故應有瓶。	People in the world see with their eyes and believe in the use of pots. Therefore, there should be pots.
+['ZH_T30_1569_001:0174a06_17']	內曰：	內曰：	The proponent of the treatise says:
+['ZH_T30_1569_001:0174a07_9']	有不異故一切無修妬路。	有不異故一切無修妬路。	Because existence is not different, everything is nonexistent.
+['ZH_T30_1569_001:0174a08_7']	若瓶與有不異者，瓶應是總相非別相。	若瓶與有不異者，瓶應是總相非別相。	If a pot is not different from existence, a pot should be a general characteristic and not a specific characteristic.
+['ZH_T30_1569_001:0174a09_16']	別相無故總相亦無，因有別相故有總相，若無別相則無總相。	別相無故總相亦無，因有別相故有總相，若無別相則無總相。	Because specific characteristics do not exist, general characteristics also do not exist. Because there are specific characteristics, there are general characteristics. If there are no specific characteristics, there are no general characteristics.
+['ZH_T30_1569_001:0174a10_9']	是二無故，一切皆無。	是二無故，一切皆無。	Because of the non-existence of these two, everything is non-existent.
+['ZH_T30_1569_001:0174a10_12']	外曰：	外曰：	The opponent says:
+['ZH_T30_1569_001:0174a11_3']	如足分等名身修妬路。	如足分等名身修妬路。	Just as the parts of the foot are called the body.
+['ZH_T30_1569_001:0174a11_19']	如頭足分等雖不異身，非但足為身。	如頭足分等雖不異身，非但足為身。	Just as the head, foot, and other parts are not different from the body, but the foot is not the body.
+['ZH_T30_1569_001:0174a12_14']	如是瓶與有雖不異，而瓶非總相。	如是瓶與有雖不異，而瓶非總相。	In the same way, although the pot and existence are not different, the pot is not the universal characteristic.
+['ZH_T30_1569_001:0174a12_17']	內曰：	內曰：	The proponent of the doctrine says:
+['ZH_T30_1569_001:0174a13_15']	若足與身不異，何故足不為頭修妬路。	若足與身不異，何故足不為頭修妬路。	If the foot is not different from the body, why is the foot not the head?
+['ZH_T30_1569_001:0174a15_3']	若頭足分等與身不異者，足應是頭，是二與身不異故。	若頭足分等與身不異者，足應是頭，是二與身不異故。	If the head, foot, and other parts are not different from the body, the foot should be the head, because these two are not different from the body.
+['ZH_T30_1569_001:0174a16_2']	如因陀羅釋迦不異故，因陀羅即釋迦。	如因陀羅釋迦不異故，因陀羅即釋迦。	Just as Indra and Shakra are not different, therefore Indra is Shakra.
+['ZH_T30_1569_001:0174a16_5']	外曰：	外曰：	The opponent says:
+['ZH_T30_1569_001:0174a16_15']	諸分異故無過修妬路。	諸分異故無過修妬路。	There is no fault because the parts are different.
+['ZH_T30_1569_001:0174a17_12']	分有分不異，非分分不異，是故頭足不一。	分有分不異，非分分不異，是故頭足不一。	The part and the whole are not different, but the part is not the same as the part. Therefore, the head and foot are not the same.
+['ZH_T30_1569_001:0174a17_15']	內曰：	內曰：	The proponent of the doctrine says:
+['ZH_T30_1569_001:0174a18_4']	若爾無身修妬路。	若爾無身修妬路。	If so, there is no body.
+['ZH_T30_1569_001:0174a19_13']	若足與頭異，頭與足分等異，如是但有諸分，更無有分名之為身。	若足與頭異，頭與足分等異，如是但有諸分，更無有分名之為身。	If the feet are different from the head, and the head is different from the parts of the feet, then there are only parts, and there is no further part that can be called the body.
+['ZH_T30_1569_001:0174a19_16']	外曰：	外曰：	The opponent says:
+['ZH_T30_1569_001:0174a20_1']	不然。	不然。	Otherwise,🔽🔽
+['ZH_T30_1569_001:0174a20_17']	多因一果現故，如色等是瓶修妬路。	多因一果現故，如色等是瓶修妬路。	Because the effect is seen to arise from many causes, like a pot from color, etc.
+['ZH_T30_1569_001:0174a22_14']	如色分等多因現一瓶果，此中非但色為瓶，亦不離色為瓶，是故色分等不為一。	如色分等多因現一瓶果，此中非但色為瓶，亦不離色為瓶，是故色分等不為一。	Just as a pot is seen as the effect arising from many causes like color and parts, here the pot is not just color, nor is it the pot apart from color. Therefore, color and parts are not one.
+['ZH_T30_1569_001:0174a23_6']	足分等與身亦如是。	足分等與身亦如是。	The same is so for the body and the parts of the feet, etc.
+['ZH_T30_1569_001:0174a23_9']	內曰：	內曰：	The proponent of the thesis says:
+['ZH_T30_1569_001:0174a24_1']	如色等瓶亦不一修妬路。	如色等瓶亦不一修妬路。	Like color, etc., the pot is also not one.
+['ZH_T30_1569_001:0174a25_3']	若瓶與色聲香味觸五分不異者，不應言一瓶。	若瓶與色聲香味觸五分不異者，不應言一瓶。	If the pot is not different from the five parts of color, sound, smell, taste, and touch, then it should not be said to be one pot.
+['ZH_T30_1569_001:0174a26_4']	若言一瓶，色分等亦應一，色等與瓶不異故。	若言一瓶，色分等亦應一，色等與瓶不異故。	If it is said to be one pot, then color, etc. should also be one, because color, etc. are not different from the pot.
+['ZH_T30_1569_001:0174a26_7']	外曰：	外曰：	The opponent says:
+['ZH_T30_1569_001:0174a26_14']	如軍林修妬路。	如軍林修妬路。	Like an army and a forest.
+['ZH_T30_1569_001:0174a28_14']	若象馬車步多眾合故名為軍，又松柏等多樹合故名為林，非獨松為林，亦不離松為林；	若象馬車步多眾合故名為軍，又松柏等多樹合故名為林，非獨松為林，亦不離松為林；	If there are many elephants, horses, chariots, and infantry combined, it is called an army. Also, many pine and cypress trees combined are called a forest. Pines alone are not a forest, nor is a forest apart from pines.
+['ZH_T30_1569_001:0174a28_18']	軍亦爾。	軍亦爾。	The same is so for an army.
+['ZH_T30_1569_001:0174a29_15']	如是非一色名為瓶，亦不離色為瓶。	如是非一色名為瓶，亦不離色為瓶。	It is not that a single color is called a vase, nor is a vase apart from color.
+['ZH_T30_1569_001:0174b01_1']	內曰：	內曰：	The inner [school] says:
+['ZH_T30_1569_001:0174b01_9']	眾亦如瓶修妬路。	眾亦如瓶修妬路。	The many are also like a vase.
+['ZH_T30_1569_001:0174b02_5']	若松柏等與林不異者，不應言一林。	若松柏等與林不異者，不應言一林。	If pine and cypress trees are not different from the forest, one should not say one forest.
+['ZH_T30_1569_001:0174b03_7']	若言一林者，松柏等亦應一，與林不異故。	若言一林者，松柏等亦應一，與林不異故。	If one says one forest, pine and cypress trees should also be one, because they are not different from the forest.
+['ZH_T30_1569_001:0174b04_4']	如松樹根莖枝節華葉，亦應如是破。	如松樹根莖枝節華葉，亦應如是破。	Like the roots, trunk, branches, nodes, flowers, and leaves of a pine tree, one should also refute them in this way.
+['ZH_T30_1569_001:0174b04_17']	如軍等一切物，盡應如是破。	如軍等一切物，盡應如是破。	Like the army and all other things, one should refute them all in this way.
+['ZH_T30_1569_001:0174b05_1']	外曰：	外曰：	The outer [school] says:
+['ZH_T30_1569_001:0174b05_9']	受多瓶故修妬路。	受多瓶故修妬路。	Because many vases are received.
+['ZH_T30_1569_001:0174b05_19']	汝說色分等多修妬路。	汝說色分等多修妬路。	You say that the parts of color, etc. are many.
+['ZH_T30_1569_001:0174b06_13']	瓶亦應多，是故欲破一瓶而受多瓶。	瓶亦應多，是故欲破一瓶而受多瓶。	The vase should also be many. Therefore, you want to refute one vase but accept many vases.
+['ZH_T30_1569_001:0174b06_16']	內曰：	內曰：	The inner [school] says:
+['ZH_T30_1569_001:0174b07_8']	非色等多故瓶多修妬路。	非色等多故瓶多修妬路。	It is not because color, etc. are many that the vase is many.
+['ZH_T30_1569_001:0174b07_18']	我說汝過，非受多瓶。	我說汝過，非受多瓶。	I say your error is not in accepting many jars.
+['ZH_T30_1569_001:0174b08_14']	汝自言色分等多，無別瓶法為色等果。	汝自言色分等多，無別瓶法為色等果。	You yourself say that the parts of color, etc. are many, and there is no separate jar dharma as the effect of color, etc.
+['ZH_T30_1569_001:0174b08_17']	外曰：	外曰：	The opponent says:
+['ZH_T30_1569_001:0174b09_6']	有果，以不破因。	有果，以不破因。	There is an effect, because the cause is not destroyed.
+['ZH_T30_1569_001:0174b09_15']	有因故果成修妬路。	有因故果成修妬路。	Because there is a cause, the effect is established.
+['ZH_T30_1569_001:0174b10_8']	汝破瓶果，不破色等瓶因。	汝破瓶果，不破色等瓶因。	You destroy the jar effect, but do not destroy the color, etc. jar causes.
+['ZH_T30_1569_001:0174b11_1']	若有因必有果，無無果因。	若有因必有果，無無果因。	If there is a cause, there must be an effect. There is no cause without an effect.
+['ZH_T30_1569_001:0174b12_4']	復次色等瓶因是微塵果，汝受色等故，因果俱成。	復次色等瓶因是微塵果，汝受色等故，因果俱成。	Moreover, the color, etc. jar causes are the effect of the subtle particles. Because you accept color, etc., cause and effect are both established.
+['ZH_T30_1569_001:0174b12_7']	內曰：	內曰：	The proponent of the treatise says:
+['ZH_T30_1569_001:0174b12_18']	如果無，因亦無修妬路。	如果無，因亦無修妬路。	If the effect does not exist, the cause also does not exist.
+['ZH_T30_1569_001:0174b13_12']	如瓶與色等多分不異故，瓶不應一。	如瓶與色等多分不異故，瓶不應一。	Just as the jar is not different from the many parts such as color, etc., the jar should not be one.
+['ZH_T30_1569_001:0174b14_11']	今色等多分與瓶不異故，色等不應多。	今色等多分與瓶不異故，色等不應多。	Now color, etc. and the many parts are not different from the jar, so color, etc. should not be many.
+['ZH_T30_1569_001:0174b16_1']	又如汝言無無果因，今果破故因亦自破，汝法因果一故。	又如汝言無無果因，今果破故因亦自破，汝法因果一故。	Moreover, as for your statement that there is no cause without an effect, now because the effect is destroyed, the cause is also destroyed by itself. This is because in your doctrine, cause and effect are one.
+['ZH_T30_1569_001:0174b16_11']	復次三世為一修妬路。	復次三世為一修妬路。	Moreover, the three times are one.
+['ZH_T30_1569_001:0174b17_6']	泥團時現在，瓶時未來，土時過去。	泥團時現在，瓶時未來，土時過去。	When the lump of clay is present, the pot is future, and the earth is past.
+['ZH_T30_1569_001:0174b18_7']	若因果一，泥團中應有瓶土，是故三世時為一。	若因果一，泥團中應有瓶土，是故三世時為一。	If cause and effect are one, then the lump of clay should contain the pot and earth. Therefore, the three times are one.
+['ZH_T30_1569_001:0174b19_1']	已作、今作、當作者，如是語壞。	已作、今作、當作者，如是語壞。	The statements already done, doing now, and will do are destroyed.
+['ZH_T30_1569_001:0174b19_4']	外曰：	外曰：	The opponent says:
+['ZH_T30_1569_001:0174b19_7']	不然。	不然。	Otherwise,🔽🔽
+['ZH_T30_1569_001:0174b19_21']	因果相待成故，如長短修妬路。	因果相待成故，如長短修妬路。	Because cause and effect are established in mutual dependence, like long and short.
+['ZH_T30_1569_001:0174b21_9']	如因長見短、因短見長，如是泥團，觀瓶則是因、觀土則是果。	如因長見短、因短見長，如是泥團，觀瓶則是因、觀土則是果。	Just as long is seen in dependence on short, and short is seen in dependence on long, in the same way, when observing a pot in a lump of clay, it is the cause, and when observing earth, it is the effect.
+['ZH_T30_1569_001:0174b21_12']	內曰：	內曰：	The proponent of the inner doctrine says:
+['ZH_T30_1569_001:0174b22_18']	因他相違共過故，非長中長相，亦非短中及共中修妬路。	因他相違共過故，非長中長相，亦非短中及共中修妬路。	Because of the fault of mutual contradiction with others, it is not the characteristic of length in length, nor in shortness, nor in both.
+['ZH_T30_1569_001:0174b23_9']	若實有長相，若長中有？	若實有長相，若長中有？	If the characteristic of length really exists, is it in length?
+['ZH_T30_1569_001:0174b23_14']	若短中有？	若短中有？	Is it in shortness?
+['ZH_T30_1569_001:0174b23_19']	若共中有？	若共中有？	Is it in both?
+['ZH_T30_1569_001:0174b24_4']	是不可得。	是不可得。	It cannot be found.
+['ZH_T30_1569_001:0174b24_8']	何以故？	何以故？	Why is it so?
+['ZH_T30_1569_001:0174b25_7']	長中無長相，以因他故，因短故為長。	長中無長相，以因他故，因短故為長。	Because the characteristic of length is not in length, it is made long in dependence on shortness.
+['ZH_T30_1569_001:0174b25_18']	短中亦無長，性相違故。	短中亦無長，性相違故。	In the short, there is also no long, because of the contradiction between nature and characteristics.
+['ZH_T30_1569_001:0174b26_9']	若短中有長，不名為短。	若短中有長，不名為短。	If there is long in the short, it is not called short.
+['ZH_T30_1569_001:0174b27_3']	長短共中亦無長，二俱過故。	長短共中亦無長，二俱過故。	In the common middle of long and short, there is also no long, because both have faults.
+['ZH_T30_1569_001:0174b27_18']	若長中有、若短中有，先說有過。	若長中有、若短中有，先說有過。	If there is long in the long, or if there is long in the short, the previously stated faults still apply.
+['ZH_T30_1569_001:0174b28_4']	短相亦如是。	短相亦如是。	The characteristics of short are also like this.
+['ZH_T30_1569_001:0174b28_14']	若無長短，云何相待？	若無長短，云何相待？	If there is no long or short, how can they be mutually dependent?Here is the corrected and aligned text:
+['ZH_T30_1569_001:0174b29_100']	百論卷上	百論卷上	Ba lun, Scroll 1

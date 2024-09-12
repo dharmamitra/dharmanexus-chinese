@@ -1,0 +1,918 @@
+segmentnr	original	analyzed	translated
+['ZH_T30_1579_003:0289c23_0']	瑜伽師地論卷第三	瑜伽師地論卷第三	Yogācārabhūmi Śāstra, fascicle 3
+['ZH_T30_1579_003:0289c25_0']	彌勒菩薩說	彌勒菩薩說	Expounded by Maitreya Bodhisattva
+['ZH_T30_1579_003:0289c26_0', 'ZH_T30_1579_003:0289c28_8']	三藏法師玄奘奉　詔譯🔽本地分中意地第二之三復次即前所說自性。	三藏法師玄奘奉　詔譯 本地分中意地第二之三復次即前所說自性。	Translated by Tripiṭaka Master Xuanzang on imperial command
+['ZH_T30_1579_003:0289c28_17']	乃至業等五事當知。	乃至業等五事當知。	In the first part on the fundamental stages, the third section on the mental faculty, it is said that the five factors such as nature
+['ZH_T30_1579_003:0289c29_5']	皆由三處所攝。	皆由三處所攝。	should all be understood as being included in the three realms.
+['ZH_T30_1579_003:0289c29_11']	謂由色聚故。	謂由色聚故。	Namely, by means of the aggregation of form,
+['ZH_T30_1579_003:0289c29_17']	心心所品故。	心心所品故。	the class of mind and mental factors,
+['ZH_T30_1579_003:0290a01_3']	及無為故。	及無為故。	and the unconditioned.
+['ZH_T30_1579_003:0290a01_9']	除餘假有法。	除餘假有法。	Excluding the remaining nominally existent dharmas.
+['ZH_T30_1579_003:0290a01_18']	今當先說色聚諸法。	今當先說色聚諸法。	Now, I will first explain the dharmas of the aggregation of form.
+['ZH_T30_1579_003:0290a02_5']	問一切法生。	問一切法生。	Question: All dharmas arise
+['ZH_T30_1579_003:0290a02_12', 'ZH_T30_1579_003:0290a03_7']	皆從自種而起。🔽云何說諸大種能生所造色耶。	皆從自種而起。 云何說諸大種能生所造色耶。	from their own seeds.🔽How can it be said that the great elements give rise to derivative form?
+['ZH_T30_1579_003:0290a03_14', 'ZH_T30_1579_003:0290a04_1']	云何造色依彼。🔽彼所建立。	云何造色依彼。 彼所建立。	How are derivative forms dependent on them,🔽established by them,
+['ZH_T30_1579_003:0290a04_6']	彼所任持。	彼所任持。	supported by them,
+['ZH_T30_1579_003:0290a04_12']	彼所長養耶。	彼所長養耶。	and nourished by them?
+['ZH_T30_1579_003:0290a05_16']	答由一切內外大種及所造色種子皆悉依附內相續心。	答由一切內外大種及所造色種子皆悉依附內相續心。	Answer: The seeds of all internal and external great elements and derivative form are all attached to the mind that continues internally.
+['ZH_T30_1579_003:0290a06_11']	乃至諸大種子未生諸大以來。	乃至諸大種子未生諸大以來。	Until the seeds of the great elements have not yet given rise to the great elements,
+['ZH_T30_1579_003:0290a07_3']	造色種子終不能生。	造色種子終不能生。	The seeds of derivative form can never produce it.
+['ZH_T30_1579_003:0290a07_10']	造色要由彼生。	造色要由彼生。	Derivative form must arise from them.
+['ZH_T30_1579_003:0290a08_1']	造色方從自種子生。	造色方從自種子生。	Only then does derivative form arise from its own seeds.
+['ZH_T30_1579_003:0290a08_10']	是故說彼能生造色。	是故說彼能生造色。	Therefore it is said that they can produce derivative form.
+['ZH_T30_1579_003:0290a09_1']	要由彼生為前導故。	要由彼生為前導故。	Because they must arise as a precursor.
+['ZH_T30_1579_003:0290a09_6']	由此道理。	由此道理。	For this reason,
+['ZH_T30_1579_003:0290a09_15']	說諸大種為彼生因。	說諸大種為彼生因。	the great elements are said to be the cause of their arising.
+['ZH_T30_1579_003:0290a10_5']	云何造色依於彼耶。	云何造色依於彼耶。	How are derivative forms dependent on them?
+['ZH_T30_1579_003:0290a11_2']	由造色生已不離大種處而轉故。	由造色生已不離大種處而轉故。	Because after derivative forms arise, they do not leave the place of the great elements and continue to exist.
+['ZH_T30_1579_003:0290a11_9']	云何彼所建立。	云何彼所建立。	How are they established by them?
+['ZH_T30_1579_003:0290a11_15']	由大種損益。	由大種損益。	Because when the great elements are benefited or harmed,
+['ZH_T30_1579_003:0290a12_2']	彼同安危故。	彼同安危故。	they share the same safety and danger.
+['ZH_T30_1579_003:0290a12_9']	云何彼所任持。	云何彼所任持。	How are they supported by them?
+['ZH_T30_1579_003:0290a13_2']	由隨大種等量不壞故。	由隨大種等量不壞故。	Because they do not perish when the great elements are equal in size.
+['ZH_T30_1579_003:0290a13_9']	云何彼所長養。	云何彼所長養。	How are they nourished by them?
+['ZH_T30_1579_003:0290a14_14']	由因飲食睡眠修習梵行三摩地等依彼造色倍復增廣。	由因飲食睡眠修習梵行三摩地等依彼造色倍復增廣。	Because the derivative forms increase and expand even more due to the causes of food, sleep, practicing pure conduct, and samādhi, etc.
+['ZH_T30_1579_003:0290a15_5']	故說大種為彼養因。	故說大種為彼養因。	Therefore the great elements are said to be the cause of their nourishment.
+['ZH_T30_1579_003:0290a15_15']	如是諸大種望所造色。	如是諸大種望所造色。	In this way, the great elements with respect to derivative forms,
+['ZH_T30_1579_003:0290a16_5']	有五種作用應知。	有五種作用應知。	have five kinds of functions that should be known.
+['ZH_T30_1579_003:0290a17_6']	復次於色聚中。	復次於色聚中。	Furthermore, in a mass of form,
+['ZH_T30_1579_003:0290a17_12']	曾無極微生。	曾無極微生。	There is never the arising of the slightest thing.
+['ZH_T30_1579_003:0290a18_5']	若從自種生時唯聚集生。	若從自種生時唯聚集生。	If it arises from its own seeds, it arises only through aggregation.
+['ZH_T30_1579_003:0290a18_12']	或細或中或大。	或細或中或大。	Either subtle, medium, or large.
+['ZH_T30_1579_003:0290a19_2']	又非極微集成色聚。	又非極微集成色聚。	Moreover, the aggregation of form is not composed of atoms.
+['ZH_T30_1579_003:0290a19_15']	但由覺慧分析諸色極量邊際。	但由覺慧分析諸色極量邊際。	But it is only through the discernment of wisdom that the ultimate limit of form is analyzed.
+['ZH_T30_1579_003:0290a20_7']	分別假立以為極微。	分別假立以為極微。	Discernment provisionally establishes it as an atom.
+['ZH_T30_1579_003:0290a20_15']	又色聚亦有方分。	又色聚亦有方分。	Moreover, the aggregation of form also has spatial division.
+['ZH_T30_1579_003:0290a21_3']	極微亦有方分。	極微亦有方分。	Atoms also have spatial division.
+['ZH_T30_1579_003:0290a21_12']	然色聚有分非極微。	然色聚有分非極微。	However, the aggregation of form has spatial division, but not atoms.
+['ZH_T30_1579_003:0290a21_16']	何以故。	何以故。	Why is this?
+['ZH_T30_1579_003:0290a22_4']	由極微即是分。	由極微即是分。	Because atoms are themselves divisions.
+['ZH_T30_1579_003:0290a22_14']	此是聚色所有非極微。	此是聚色所有非極微。	This belongs to the aggregation of form, not to atoms.
+['ZH_T30_1579_003:0290a23_1']	復有餘極微。	復有餘極微。	Moreover, there are other atoms.
+['ZH_T30_1579_003:0290a23_9']	是故極微非有分。	是故極微非有分。	Therefore, atoms do not have spatial division.
+['ZH_T30_1579_003:0290a23_17']	又不相離有二種。	又不相離有二種。	Moreover, non-separation is of two kinds.
+['ZH_T30_1579_003:0290a24_5']	一同處不相離。	一同處不相離。	The first is non-separation of the same location.
+['ZH_T30_1579_003:0290a24_17']	謂大種極微與色香味觸等。	謂大種極微與色香味觸等。	This refers to the atoms of the primary elements and form, smell, taste, and touch, etc.
+['ZH_T30_1579_003:0290a25_7']	於無根處有離根者。	於無根處有離根者。	In places without faculties, there are those separated from faculties.
+['ZH_T30_1579_003:0290a25_16']	於有根處有有根者。	於有根處有有根者。	In places with faculties, there are those with faculties.
+['ZH_T30_1579_003:0290a26_6']	是名同處不相離。	是名同處不相離。	This is called non-separation of the same location.
+['ZH_T30_1579_003:0290a26_13']	二和雜不相離。	二和雜不相離。	The second is non-separation of mixture.
+['ZH_T30_1579_003:0290a27_14']	謂即此大種極微與餘聚集能造所造色處俱故。	謂即此大種極微與餘聚集能造所造色處俱故。	That is to say, these ultimate atoms of the primary elements, together with the derivative form of the form sense-sphere that they collectively produce, are mutually inseparable.
+['ZH_T30_1579_003:0290a28_4']	是名和雜不相離。	是名和雜不相離。	This is called being mixed and inseparable.
+['ZH_T30_1579_003:0290a28_11']	又此遍滿聚色。	又此遍滿聚色。	Moreover, this aggregate of all-pervading form
+['ZH_T30_1579_003:0290a29_11']	應知如種種物石磨為末以水和合互不相離。	應知如種種物石磨為末以水和合互不相離。	should be understood as being like various substances ground into powder and mixed with water, mutually inseparable.
+['ZH_T30_1579_003:0290b01_5']	非如胡麻綠豆粟稗等聚。	非如胡麻綠豆粟稗等聚。	It is not like an aggregate of sesame, green beans, millet, or barnyard grass, etc.
+['ZH_T30_1579_003:0290b01_12']	又一切所造色。	又一切所造色。	Moreover, all derivative form
+['ZH_T30_1579_003:0290b02_1']	皆即依止大種處。	皆即依止大種處。	is all based on the primary elements.
+['ZH_T30_1579_003:0290b02_16']	不過大種處量乃至大種所據處所。	不過大種處量乃至大種所據處所。	It does not exceed the measure of the primary elements' locations, up to the locations occupied by the primary elements.
+['ZH_T30_1579_003:0290b03_6']	諸所造色還即據此。	諸所造色還即據此。	All derivative form is still based on this.
+['ZH_T30_1579_003:0290b04_2']	由此因緣說所造色依於大種。	由此因緣說所造色依於大種。	For this reason, it is said that derivative form is based on the primary elements.
+['ZH_T30_1579_003:0290b04_15']	即以此義說諸大種名為大種。	即以此義說諸大種名為大種。	It is precisely by this meaning that the primary elements are called primary elements.
+['ZH_T30_1579_003:0290b05_10']	由此大種其性大故為種生故。	由此大種其性大故為種生故。	Because the nature of these primary elements is great, and because they produce the various elements.
+['ZH_T30_1579_003:0290b06_7']	復次於諸色聚中。	復次於諸色聚中。	Moreover, within all aggregates of form,
+['ZH_T30_1579_003:0290b06_14']	略有十四種事。	略有十四種事。	there are roughly fourteen kinds of things.
+['ZH_T30_1579_003:0290b07_1']	謂地水火風。	謂地水火風。	They are earth, water, fire, and wind.
+['ZH_T30_1579_003:0290b07_7']	色聲香味觸。	色聲香味觸。	Form, sound, smell, taste, and touch.
+['ZH_T30_1579_003:0290b07_13']	及眼等五根。	及眼等五根。	And the five sense faculties such as the eyes, etc.
+['ZH_T30_1579_003:0290b08_1']	除唯意所行色。	除唯意所行色。	Except for the form that is only experienced by the mind.
+['ZH_T30_1579_003:0290b08_6']	一切色聚。	一切色聚。	All aggregates of form.
+['ZH_T30_1579_003:0290b08_14']	有色諸根所攝者。	有色諸根所攝者。	Those that are included in the form sense bases.
+['ZH_T30_1579_003:0290b08_18', 'ZH_T30_1579_003:0290b09_4', 'ZH_T30_1579_003:0290b09_13']	有一切。🔽如所說事界。🔽如有色諸根所攝聚。	有一切。 如所說事界。 如有色諸根所攝聚。	There are all.🔽The aggregates of form sense bases are just like the aggregates of form sense bases.🔽Just as there are aggregates of form sense bases,
+['ZH_T30_1579_003:0290b10_10']	如是有色諸根所依大種所攝聚亦爾。	如是有色諸根所依大種所攝聚亦爾。	there are also aggregates of the primary elements that support the form sense bases.
+['ZH_T30_1579_003:0290b11_6']	所餘色聚除有色諸根唯有餘界。	所餘色聚除有色諸根唯有餘界。	The remaining aggregates of form, except for the form sense bases, only have the remaining sense bases.
+['ZH_T30_1579_003:0290b11_15']	又約相攝有十四事。	又約相攝有十四事。	Moreover, in terms of mutual inclusion, there are fourteen things.
+['ZH_T30_1579_003:0290b12_7']	即由相攝施設事極微。	即由相攝施設事極微。	The mutual inclusion establishes the ultimate atom.
+['ZH_T30_1579_003:0290b12_12', 'ZH_T30_1579_003:0290b13_3']	若約界攝。🔽隨於此聚有爾所界。	若約界攝。 隨於此聚有爾所界。	If in terms of the inclusion of sense bases,🔽according to how many sense bases there are in a certain aggregate,
+['ZH_T30_1579_003:0290b13_12']	即說此聚爾所事攝。	即說此聚爾所事攝。	that aggregate is said to be included in that many things.
+['ZH_T30_1579_003:0290b14_1']	若約不相離攝。	若約不相離攝。	If in terms of the inclusion of inseparability,
+['ZH_T30_1579_003:0290b14_10', 'ZH_T30_1579_003:0290b14_16']	或內或外所有諸聚。🔽隨於此聚中。	或內或外所有諸聚。 隨於此聚中。	whether internal or external, all the aggregates,
+['ZH_T30_1579_003:0290b15_7']	乃至有爾所法相可得。	乃至有爾所法相可得。	according to how many dharmas can be obtained in a certain aggregate,
+['ZH_T30_1579_003:0290b16_1']	即說此聚爾所事攝應知。	即說此聚爾所事攝應知。	that aggregate is said to be included in that many things. This should be understood.
+['ZH_T30_1579_003:0290b16_6']	所以者何。	所以者何。	Why is it so?
+['ZH_T30_1579_003:0290b16_17']	或有聚中唯一大種可得。	或有聚中唯一大種可得。	In some aggregates, only one primary element can be obtained,
+['ZH_T30_1579_003:0290b17_15']	如石末尼真珠琉璃珂貝璧玉珊瑚等中。	如石末尼真珠琉璃珂貝璧玉珊瑚等中。	Like in stone, gems, pearls, lapis lazuli, shells, jade, coral, etc.
+['ZH_T30_1579_003:0290b18_7']	或池沼溝渠江河等中。	或池沼溝渠江河等中。	Or in ponds, marshes, ditches, rivers, etc.
+['ZH_T30_1579_003:0290b18_15']	或火焰燈燭等中。	或火焰燈燭等中。	Or in flames, lamps, candles, etc.
+['ZH_T30_1579_003:0290b19_9']	或四方風輪有塵無塵風等中。	或四方風輪有塵無塵風等中。	Or in the four-sided wind wheel, with or without dust, etc.
+['ZH_T30_1579_003:0290b20_1']	或有聚中二大種可得。	或有聚中二大種可得。	In some aggregates, two primary elements can be obtained.
+['ZH_T30_1579_003:0290b20_11']	如雪濕樹葉花果等中。	如雪濕樹葉花果等中。	Like in snow, wet trees, leaves, flowers, fruits, etc.
+['ZH_T30_1579_003:0290b20_18']	或熱末尼等中。	或熱末尼等中。	Or in hot gems, etc.
+['ZH_T30_1579_003:0290b21_9']	或有聚中三大種可得。	或有聚中三大種可得。	In some aggregates, three primary elements can be obtained.
+['ZH_T30_1579_003:0290b21_16']	如即熱樹等中。	如即熱樹等中。	Like in hot trees, etc.
+['ZH_T30_1579_003:0290b22_3']	或動搖中。	或動搖中。	Or in motion.
+['ZH_T30_1579_003:0290b22_13']	或有聚中四大種可得。	或有聚中四大種可得。	In some aggregates, four primary elements can be obtained.
+['ZH_T30_1579_003:0290b23_2']	謂於內色聚中。	謂於內色聚中。	That is, in the internal form aggregate.
+['ZH_T30_1579_003:0290b23_8']	如薄伽梵說。	如薄伽梵說。	As the Blessed One said.
+['ZH_T30_1579_003:0290b23_14']	於各別內身。	於各別內身。	In each individual internal body.
+['ZH_T30_1579_003:0290b24_8']	若髮毛等乃至糞穢是內地界。	若髮毛等乃至糞穢是內地界。	If it is hair, body hair, etc., up to feces, it is the internal earth element.
+['ZH_T30_1579_003:0290b24_17']	若小便等是內水界。	若小便等是內水界。	If it is urine, etc., it is the internal water element.
+['ZH_T30_1579_003:0290b25_11']	若於身中所有煖等是內火界。	若於身中所有煖等是內火界。	If there is any warmth in the body, etc., it is the internal fire element.
+['ZH_T30_1579_003:0290b26_3']	若上行等風是內風界。	若上行等風是內風界。	If it is wind moving upwards, etc., it is the internal wind element.
+['ZH_T30_1579_003:0290b26_10']	如是若於此聚。	如是若於此聚。	In this way, if in this aggregate,
+['ZH_T30_1579_003:0290b27_2']	彼相可得說彼相為有。	彼相可得說彼相為有。	If their characteristics can be perceived, those characteristics are said to exist.
+['ZH_T30_1579_003:0290b27_12']	若不可得說彼相為無。	若不可得說彼相為無。	If they cannot be perceived, those characteristics are said to be non-existent.
+['ZH_T30_1579_003:0290b28_9']	復次聲於一切色聚中界故說有。	復次聲於一切色聚中界故說有。	Moreover, sound exists in all collections of form, and therefore it is said to exist.
+['ZH_T30_1579_003:0290b28_14']	相即不定。	相即不定。	Its characteristics are indeterminate.
+['ZH_T30_1579_003:0290b29_4']	由現在方便生故。	由現在方便生故。	Because it arises through present conditions.
+['ZH_T30_1579_003:0290b29_9']	風有二種。	風有二種。	There are two kinds of wind:
+['ZH_T30_1579_003:0290c01_1']	謂恒相續及不恒相續。	謂恒相續及不恒相續。	Constantly continuous and not constantly continuous.
+['ZH_T30_1579_003:0290c01_6']	恒相續者。	恒相續者。	The constantly continuous one
+['ZH_T30_1579_003:0290c01_17']	謂於彼彼聚有恒旋轉風。	謂於彼彼聚有恒旋轉風。	Refers to the wind that constantly circulates in various collections.
+['ZH_T30_1579_003:0290c02_4']	不恒相續者。	不恒相續者。	The not constantly continuous one
+['ZH_T30_1579_003:0290c02_12']	謂旋風及空行風。	謂旋風及空行風。	Refers to whirlwinds and winds that move through space.
+['ZH_T30_1579_003:0290c02_18']	又闇色明色。	又闇色明色。	Moreover, dark color and bright color
+['ZH_T30_1579_003:0290c03_6']	說名空界及孔隙。	說名空界及孔隙。	Are called the space element and openings.
+['ZH_T30_1579_003:0290c03_15']	又諸闇色恒相續者。	又諸闇色恒相續者。	Moreover, the constantly continuous dark color
+['ZH_T30_1579_003:0290c04_2']	謂世界中間。	謂世界中間。	Refers to the space between worlds.
+['ZH_T30_1579_003:0290c04_8']	不恒相續者。	不恒相續者。	The not constantly continuous one
+['ZH_T30_1579_003:0290c04_15']	謂於餘處如是。	謂於餘處如是。	Refers to other places.
+['ZH_T30_1579_003:0290c05_3']	明色恒相續者。	明色恒相續者。	The constantly continuous bright color
+['ZH_T30_1579_003:0290c05_12']	謂於自然光明天中。	謂於自然光明天中。	Refers to the natural light of heavenly bodies.
+['ZH_T30_1579_003:0290c05_18']	不恒相續者。	不恒相續者。	The not constantly continuous one
+['ZH_T30_1579_003:0290c06_3']	謂於餘處。	謂於餘處。	Refers to other places.
+['ZH_T30_1579_003:0290c06_8']	又明闇色。	又明闇色。	Moreover, the dark and bright colors
+['ZH_T30_1579_003:0290c06_17']	謂於顯色增聚應知。	謂於顯色增聚應知。	Should be understood as the increase and accumulation of manifest colors.
+['ZH_T30_1579_003:0290c07_16', 'ZH_T30_1579_003:0290c08_8']	又由依止色聚種子功能故若遇相似緣時。🔽或小聚無間大聚生。	又由依止色聚種子功能故若遇相似緣時。 或小聚無間大聚生。	Moreover, due to the power of the seeds in the aggregate of form, when encountering similar conditions,🔽sometimes a small aggregate immediately arises after a large aggregate,
+['ZH_T30_1579_003:0290c08_17']	或大聚無間小聚生。	或大聚無間小聚生。	sometimes a large aggregate immediately arises after a small aggregate.
+['ZH_T30_1579_003:0290c09_11']	由此因緣施設諸聚有增有減。	由此因緣施設諸聚有增有減。	For this reason, it is established that the aggregates may increase or decrease.
+['ZH_T30_1579_003:0290c09_15']	如經言。	如經言。	As a sutra says:
+['ZH_T30_1579_003:0290c10_13']	若堅堅攝近攝非近攝執受乃至廣說。	若堅堅攝近攝非近攝執受乃至廣說。	If it is solid, it is included in the solid, the near, and the not near, and is grasped, and so on, in detail.
+['ZH_T30_1579_003:0290c11_1']	堅云何謂地。	堅云何謂地。	What is solidity? It refers to earth.
+['ZH_T30_1579_003:0290c11_10']	堅攝云何謂彼種子。	堅攝云何謂彼種子。	What is included in the solid? It refers to its seeds.
+['ZH_T30_1579_003:0290c11_18']	又堅者即彼界堅。	又堅者即彼界堅。	Moreover, the solid refers to the solidity of that realm.
+['ZH_T30_1579_003:0290c12_9']	攝者謂髮毛等或土塊等。	攝者謂髮毛等或土塊等。	The included refers to hair, body hair, and so on, or earth, clods, and so on.
+['ZH_T30_1579_003:0290c12_18']	近攝云何謂有執受。	近攝云何謂有執受。	What is the near included? It refers to what is grasped.
+['ZH_T30_1579_003:0290c13_8', 'ZH_T30_1579_003:0290c13_18']	執受云何謂內所攝。🔽非近攝云何謂無執受。	執受云何謂內所攝。 非近攝云何謂無執受。	What is grasped? It refers to what is internal.🔽What is the not near included? It refers to what is not grasped.
+['ZH_T30_1579_003:0290c14_9', 'ZH_T30_1579_003:0290c14_14']	無執受云何謂外所攝。🔽又心心所。	無執受云何謂外所攝。 又心心所。	What is not grasped? It refers to what is external.
+['ZH_T30_1579_003:0290c15_6']	所執種子名近攝名執受。	所執種子名近攝名執受。	Moreover, the seeds grasped by the mind and mental factors are called the near included and the grasped.
+['ZH_T30_1579_003:0290c16_2']	與此相違名非近攝名非執受。	與此相違名非近攝名非執受。	The opposite of this is called the not near included and the not grasped.
+['ZH_T30_1579_003:0290c16_12']	又隨逐自身故名近攝。	又隨逐自身故名近攝。	Moreover, because it follows one's own body, it is called the near included.
+['ZH_T30_1579_003:0290c16_18']	執受如前說。	執受如前說。	The grasping is as explained before.
+['ZH_T30_1579_003:0290c17_9']	如是水等界如理應知。	如是水等界如理應知。	The water and other elements should be understood in the same way.
+['ZH_T30_1579_003:0290c17_17']	又於一切色聚中。	又於一切色聚中。	Moreover, in all collections of form,
+['ZH_T30_1579_003:0290c18_10']	一切時具有一切大種界。	一切時具有一切大種界。	at all times, all the great elements are present.
+['ZH_T30_1579_003:0290c19_6']	如世間現見乾薪等物鑽即火生。	如世間現見乾薪等物鑽即火生。	As is commonly seen in the world, when dry firewood, etc. is drilled, fire arises.
+['ZH_T30_1579_003:0290c19_12']	擊石等亦爾。	擊石等亦爾。	The same is so for striking stone, etc.
+['ZH_T30_1579_003:0290c20_8']	又銅鐵金銀等極火所燒即銷為水。	又銅鐵金銀等極火所燒即銷為水。	Moreover, copper, iron, gold, silver, etc. when burned by extreme heat, melt into water.
+['ZH_T30_1579_003:0290c20_17']	從月愛珠水便流出。	從月愛珠水便流出。	From the moon-love pearl, water flows out.
+['ZH_T30_1579_003:0290c21_5']	又得神通者。	又得神通者。	Moreover, those who attain spiritual powers,
+['ZH_T30_1579_003:0290c21_11']	由心勝解力。	由心勝解力。	by the power of the mind's superior understanding,
+['ZH_T30_1579_003:0290c22_2']	變大地等成金銀等。	變大地等成金銀等。	transform the great earth, etc. into gold, silver, etc.
+['ZH_T30_1579_003:0290c22_11']	又色聚有三種流轉。	又色聚有三種流轉。	Moreover, there are three kinds of transmigration of form aggregates:
+['ZH_T30_1579_003:0290c22_16']	一者長養。	一者長養。	1. Nourishment,
+['ZH_T30_1579_003:0290c23_1']	二者等流。	二者等流。	2. Equal flow,
+['ZH_T30_1579_003:0290c23_7']	三者異熟生。	三者異熟生。	3. Arisen from karmic retribution.
+['ZH_T30_1579_003:0290c23_13']	長養有二種。	長養有二種。	Nourishment is of two kinds:
+['ZH_T30_1579_003:0290c24_1']	一處遍滿長養。	一處遍滿長養。	1. Nourishment by pervading the location,
+['ZH_T30_1579_003:0290c24_8']	二相增盛長養。	二相增盛長養。	2. Nourishment by increasing the characteristics.
+['ZH_T30_1579_003:0290c24_14']	等流有四種。	等流有四種。	Equal flow is of four kinds:
+['ZH_T30_1579_003:0290c25_1']	一長養等流。	一長養等流。	1. Nourishment as equal flow,
+['ZH_T30_1579_003:0290c25_7']	二異熟等流。	二異熟等流。	2. Karmic retribution as equal flow,
+['ZH_T30_1579_003:0290c25_13']	三變異等流。	三變異等流。	3. Transformation as equal flow,
+['ZH_T30_1579_003:0290c25_19']	四自性等流。	四自性等流。	4. Nature as equal flow.
+['ZH_T30_1579_003:0290c26_5']	異熟生有二種。	異熟生有二種。	There are two kinds of resultant-birth.
+['ZH_T30_1579_003:0290c26_15']	一異熟體生名異熟生。	一異熟體生名異熟生。	The first is called resultant-birth because the essence of the result is born.
+['ZH_T30_1579_003:0290c27_7']	二從異熟生名異熟生。	二從異熟生名異熟生。	The second is called resultant-birth because it is born from the result.
+['ZH_T30_1579_003:0290c28_1']	又諸色聚略說依六處轉。	又諸色聚略說依六處轉。	Moreover, the aggregates of form are said to evolve in dependence on six bases.
+['ZH_T30_1579_003:0290c28_6', 'ZH_T30_1579_003:0290c28_10']	謂建立處。🔽覆藏處。	謂建立處。 覆藏處。	Namely, the base of establishment,🔽the base of concealment,
+['ZH_T30_1579_003:0290c28_14', 'ZH_T30_1579_003:0290c28_19', 'ZH_T30_1579_003:0290c29_1']	資具處。🔽根所依處。🔽根處。	資具處。 根所依處。 根處。	the base of requisites,🔽the base of support for the faculties,🔽the base of the faculties,
+['ZH_T30_1579_003:0290c29_8']	三摩地所行處。	三摩地所行處。	and the base of the objects of concentration.
+['ZH_T30_1579_003:0291a01_8']	復次於心心所品中。	復次於心心所品中。	Next, within the category of mind and mental factors,
+['ZH_T30_1579_003:0291a02_3']	有心可得及五十三心所可得。	有心可得及五十三心所可得。	there is mind that can be attained and fifty-three mental factors that can be attained,
+['ZH_T30_1579_003:0291a02_8']	謂作意等。	謂作意等。	namely attention and so forth,
+['ZH_T30_1579_003:0291a03_1']	乃至尋伺為後邊如前說。	乃至尋伺為後邊如前說。	up to investigation and analysis as the last, as explained before.
+['ZH_T30_1579_003:0291a03_8']	問如是諸心所。	問如是諸心所。	Question: As for these mental factors,
+['ZH_T30_1579_003:0291a03_14']	幾依一切處。	幾依一切處。	how many rely on all places,
+['ZH_T30_1579_003:0291a04_7']	心生一切地一切時一切耶。	心生一切地一切時一切耶。	and does the mind arise in all places, at all times, and with all [mental factors]?
+['ZH_T30_1579_003:0291a04_14']	答五謂作意等。	答五謂作意等。	Answer: Five, namely attention and so forth,
+['ZH_T30_1579_003:0291a05_1']	思為後邊。	思為後邊。	with volition as the last.
+['ZH_T30_1579_003:0291a05_7']	幾依一切處。	幾依一切處。	How many rely on all places,
+['ZH_T30_1579_003:0291a06_3']	心生一切地非一切時非一切耶。	心生一切地非一切時非一切耶。	but the mind arises in all places, not at all times, and not with all [mental factors]?
+['ZH_T30_1579_003:0291a06_7']	答亦五。	答亦五。	Answer: Also five,
+['ZH_T30_1579_003:0291a06_11']	謂欲等。	謂欲等。	namely desire and so forth,
+['ZH_T30_1579_003:0291a06_16']	慧為後邊。	慧為後邊。	with wisdom as the last.
+['ZH_T30_1579_003:0291a07_5']	幾唯依善非一切處。	幾唯依善非一切處。	How many are only based on wholesome [minds] and not in all places?
+['ZH_T30_1579_003:0291a08_3']	心生然一切地非一切時非一切耶。	心生然一切地非一切時非一切耶。	Do they arise in the mind in all stages, at all times, and in all [minds]?
+['ZH_T30_1579_003:0291a08_8']	答謂信等。	答謂信等。	The answer is: Faith and so forth,
+['ZH_T30_1579_003:0291a08_14']	不害為後邊。	不害為後邊。	with non-harming as the last.
+['ZH_T30_1579_003:0291a09_5']	幾唯依染污非一切處。	幾唯依染污非一切處。	How many are only based on defiled [minds] and not in all places?
+['ZH_T30_1579_003:0291a10_3']	心生非一切地非一切時非一切耶。	心生非一切地非一切時非一切耶。	Do they arise in the mind in all stages, at all times, and in all [minds]?
+['ZH_T30_1579_003:0291a10_8']	答謂貪等。	答謂貪等。	The answer is: Greed and so forth,
+['ZH_T30_1579_003:0291a10_15']	不正知為後邊。	不正知為後邊。	with incorrect knowledge as the last.
+['ZH_T30_1579_003:0291a11_2']	幾依一切處。	幾依一切處。	How many are based on all places?
+['ZH_T30_1579_003:0291a11_17']	心生非一切地非一切時非一切耶。	心生非一切地非一切時非一切耶。	Do they arise in the mind in all stages, at all times, and in all [minds]?
+['ZH_T30_1579_003:0291a12_5']	答謂惡作等。	答謂惡作等。	The answer is: Regret and so forth,
+['ZH_T30_1579_003:0291a12_10']	伺為後邊。	伺為後邊。	with applied thought as the last.
+['ZH_T30_1579_003:0291a12_16']	復次根不壞。	復次根不壞。	Furthermore, the faculties are unimpaired,
+['ZH_T30_1579_003:0291a13_8']	境界現前能生作意正起。	境界現前能生作意正起。	the objects are present, and the volition that produces [the consciousness] arises.
+['ZH_T30_1579_003:0291a13_17']	爾時從彼識乃得生。	爾時從彼識乃得生。	At that time, consciousness can arise from them.
+['ZH_T30_1579_003:0291a14_5']	云何根不壞。	云何根不壞。	How are the faculties unimpaired?
+['ZH_T30_1579_003:0291a14_11']	謂有二種因。	謂有二種因。	There are two kinds of causes:
+['ZH_T30_1579_003:0291a14_17']	一不滅壞故。	一不滅壞故。	First, because they are not destroyed,
+['ZH_T30_1579_003:0291a15_4']	二不羸劣故。	二不羸劣故。	second, because they are not weak.
+['ZH_T30_1579_003:0291a15_11']	云何境界現前。	云何境界現前。	How are the objects present?
+['ZH_T30_1579_003:0291a16_1']	謂或由所依處故。	謂或由所依處故。	Either by the place of support,
+['ZH_T30_1579_003:0291a16_7']	或由自性故。	或由自性故。	or by their own nature.
+['ZH_T30_1579_003:0291a16_12']	或由方故。	或由方故。	Or it is due to direction.
+['ZH_T30_1579_003:0291a16_17']	或由時故。	或由時故。	Or it is due to time.
+['ZH_T30_1579_003:0291a17_7']	或由顯了不顯了故。	或由顯了不顯了故。	Or it is due to being manifest or unmanifest.
+['ZH_T30_1579_003:0291a17_16']	或由全分及一分故。	或由全分及一分故。	Or it is due to the whole part or a part.
+['ZH_T30_1579_003:0291a18_11', 'ZH_T30_1579_003:0291a18_16']	若四種障所不障礙亦非極遠。🔽謂覆蔽障。	若四種障所不障礙亦非極遠。 謂覆蔽障。	If the four kinds of obstacles do not obstruct and are also not extremely distant,🔽Namely, the obstacle of concealment,
+['ZH_T30_1579_003:0291a19_2', 'ZH_T30_1579_003:0291a19_6']	隱沒障。🔽映奪障。	隱沒障。 映奪障。	The obstacle of submergence,🔽The obstacle of outshining,
+['ZH_T30_1579_003:0291a19_10']	幻惑障。	幻惑障。	The obstacle of deception.
+['ZH_T30_1579_003:0291a19_16']	極遠有二種。	極遠有二種。	There are two kinds of extreme distance,
+['ZH_T30_1579_003:0291a20_2']	謂處所極遠。	謂處所極遠。	Namely, extreme distance in terms of location,
+['ZH_T30_1579_003:0291a20_7']	損減極遠。	損減極遠。	Extreme distance in terms of diminution.
+['ZH_T30_1579_003:0291a20_16']	云何能生作意正起。	云何能生作意正起。	How does the correct arising of the mind of generation occur?
+['ZH_T30_1579_003:0291a21_2']	由四因故。	由四因故。	It is due to four causes.
+['ZH_T30_1579_003:0291a21_7']	一由欲力。	一由欲力。	First, by the power of desire.
+['ZH_T30_1579_003:0291a21_12']	二由念力。	二由念力。	Second, by the power of mindfulness.
+['ZH_T30_1579_003:0291a21_18']	三由境界力。	三由境界力。	Third, by the power of the object.
+['ZH_T30_1579_003:0291a22_4']	四由數習力。	四由數習力。	Fourth, by the power of repeated practice.
+['ZH_T30_1579_003:0291a22_10']	云何由欲力。	云何由欲力。	How is it by the power of desire?
+['ZH_T30_1579_003:0291a23_3']	謂若於是處心有愛著。	謂若於是處心有愛著。	If the mind has attachment to a certain place,
+['ZH_T30_1579_003:0291a23_12']	心則於彼多作意生。	心則於彼多作意生。	The mind will often give rise to attention to that.
+['ZH_T30_1579_003:0291a23_18']	云何由念力。	云何由念力。	How is it by the power of mindfulness?
+['ZH_T30_1579_003:0291a24_13']	謂若於彼已善取其相已極作想。	謂若於彼已善取其相已極作想。	If one has already well grasped its characteristics and has already made extreme thoughts,
+['ZH_T30_1579_003:0291a25_5']	心則於彼多作意生。	心則於彼多作意生。	The mind will often give rise to attention to that.
+['ZH_T30_1579_003:0291a25_12']	云何由境界力。	云何由境界力。	How is it by the power of the object?
+['ZH_T30_1579_003:0291a26_3']	謂若彼境界或極廣大。	謂若彼境界或極廣大。	That is to say, if the object is extremely vast,
+['ZH_T30_1579_003:0291a26_12']	或極可意正現在前。	或極可意正現在前。	If the object is extremely vast or extremely agreeable,
+['ZH_T30_1579_003:0291a27_2']	心則於彼多作意生。	心則於彼多作意生。	the mind is often inclined to attend to it.
+['ZH_T30_1579_003:0291a27_9', 'ZH_T30_1579_003:0291a27_15']	云何由數習力。🔽若於彼境界。	云何由數習力。 若於彼境界。	How is it by the power of frequent practice?
+['ZH_T30_1579_003:0291a28_5']	已極串習已極諳悉。	已極串習已極諳悉。	If one has already become extremely familiar with an object,
+['ZH_T30_1579_003:0291a28_14']	心即於彼多作意生。	心即於彼多作意生。	the mind is often inclined to attend to it.
+['ZH_T30_1579_003:0291a29_1']	若異此者。	若異此者。	If it were otherwise,
+['ZH_T30_1579_003:0291a29_16']	應於一所緣境唯一作意一切時生。	應於一所緣境唯一作意一切時生。	one would only generate a single mental attention towards a single object at all times.
+['ZH_T30_1579_003:0291b01_12']	又非五識身有二剎那相隨俱生。	又非五識身有二剎那相隨俱生。	Moreover, the five sense consciousnesses do not arise together in two moments.
+['ZH_T30_1579_003:0291b02_6']	亦無展轉無間更互而生。	亦無展轉無間更互而生。	Nor do they arise from each other in immediate succession.
+['ZH_T30_1579_003:0291b02_16']	又一剎那五識身生已。	又一剎那五識身生已。	Also, when a moment of the five sense consciousnesses arises,
+['ZH_T30_1579_003:0291b03_6']	從此無間必意識生。	從此無間必意識生。	after that, consciousness must arise.
+['ZH_T30_1579_003:0291b04_1']	從此無間或時散亂或耳識生。	從此無間或時散亂或耳識生。	After that, sometimes there is distraction, or an auditory consciousness arises,
+['ZH_T30_1579_003:0291b04_11']	或五識身中隨一識生。	或五識身中隨一識生。	or one of the five sense consciousnesses arises.
+['ZH_T30_1579_003:0291b04_16']	若不散亂。	若不散亂。	If there is no distraction,
+['ZH_T30_1579_003:0291b05_8']	必定意識中第二決定心生。	必定意識中第二決定心生。	definitely a second decisive mind arises in the mental consciousness.
+['ZH_T30_1579_003:0291b06_1']	由此尋求決定二意識故。	由此尋求決定二意識故。	Because of these two mental consciousnesses of seeking and deciding,
+['ZH_T30_1579_003:0291b06_6']	分別境界。	分別境界。	one discriminates objects.
+['ZH_T30_1579_003:0291b06_13']	又由二種因故。	又由二種因故。	Moreover, it is due to two kinds of causes.
+['ZH_T30_1579_003:0291b07_2']	或染污或善法生。	或染污或善法生。	Either defiled or wholesome dharmas arise.
+['ZH_T30_1579_003:0291b07_7']	謂分別故。	謂分別故。	Namely, due to discrimination,
+['ZH_T30_1579_003:0291b07_13']	及先所引故。	及先所引故。	and due to what was previously attracted.
+['ZH_T30_1579_003:0291b08_3']	意識中所有由二種因。	意識中所有由二種因。	In the mental consciousness, all [dharmas] are due to these two kinds of causes.
+['ZH_T30_1579_003:0291b08_14']	在五識者唯由先所引故。	在五識者唯由先所引故。	In the five consciousnesses, [dharmas] are only due to what was previously attracted.
+['ZH_T30_1579_003:0291b09_1']	所以者何。	所以者何。	Why is this?
+['ZH_T30_1579_003:0291b09_13']	由染污及善意識力所引故。	由染污及善意識力所引故。	Because defiled and wholesome dharmas are attracted by the power of the defiled and wholesome mental consciousness.
+['ZH_T30_1579_003:0291b10_5']	從此無間於眼等識中。	從此無間於眼等識中。	Immediately after this, in the eye consciousness and so forth,
+['ZH_T30_1579_003:0291b10_12']	染污及善法生。	染污及善法生。	defiled and wholesome dharmas arise.
+['ZH_T30_1579_003:0291b10_17']	不由分別。	不由分別。	Not due to discrimination.
+['ZH_T30_1579_003:0291b11_4']	彼無分別故。	彼無分別故。	Because they are without discrimination.
+['ZH_T30_1579_003:0291b12_1']	由此道理說眼等識隨意識轉。	由此道理說眼等識隨意識轉。	By this principle, it is said that the eye consciousness and so forth follow the mental consciousness.
+['ZH_T30_1579_003:0291b12_5']	如經言。	如經言。	As the sūtra says:
+['ZH_T30_1579_003:0291b12_13']	起一心若眾多心。	起一心若眾多心。	Whether one mind arises or many minds,
+['ZH_T30_1579_003:0291b13_4']	云何安立此一心耶。	云何安立此一心耶。	how is this one mind established?
+['ZH_T30_1579_003:0291b14_2']	謂世俗言說一心剎那非生起剎那。	謂世俗言說一心剎那非生起剎那。	Namely, in conventional discourse, one mind moment is not a moment of arising.
+['ZH_T30_1579_003:0291b14_13']	云何世俗言說一心剎那。	云何世俗言說一心剎那。	How is it that in conventional discourse, one mind moment?
+['ZH_T30_1579_003:0291b15_1']	謂一處為依止。	謂一處為依止。	Namely, taking one basis as support,
+['ZH_T30_1579_003:0291b15_7']	於一境界事。	於一境界事。	regarding one object,
+['ZH_T30_1579_003:0291b15_14']	有爾所了別生。	有爾所了別生。	there is the arising of so much discrimination.
+['ZH_T30_1579_003:0291b16_5']	總爾所時名一心剎那。	總爾所時名一心剎那。	The total of such time is called one moment of thought.
+['ZH_T30_1579_003:0291b16_15']	又相似相續亦說名一。	又相似相續亦說名一。	Moreover, a similar continuity is also called one.
+['ZH_T30_1579_003:0291b17_6']	與第二念極相似故。	與第二念極相似故。	Because it is extremely similar to the second moment.
+['ZH_T30_1579_003:0291b18_2']	又意識任運散亂緣不串習境時。	又意識任運散亂緣不串習境時。	Moreover, when the mental consciousness is naturally distracted and takes as its object a realm that is not well-practiced,
+['ZH_T30_1579_003:0291b18_7']	無欲等生。	無欲等生。	at that time desire and so forth do not arise.
+['ZH_T30_1579_003:0291b18_17']	爾時意識名率爾墮心。	爾時意識名率爾墮心。	At that time, the mental consciousness is called the mind that spontaneously falls.
+['ZH_T30_1579_003:0291b19_4']	唯緣過去境。	唯緣過去境。	It only takes past realms as its object.
+['ZH_T30_1579_003:0291b19_13']	五識無間所生意識。	五識無間所生意識。	The mental consciousness that arises immediately after the five consciousnesses,
+['ZH_T30_1579_003:0291b20_1']	或尋求或決定。	或尋求或決定。	either seeks or determines.
+['ZH_T30_1579_003:0291b20_9']	唯應說緣現在境。	唯應說緣現在境。	It should only be said to take present realms as its object.
+['ZH_T30_1579_003:0291b20_17']	若此即緣彼境生。	若此即緣彼境生。	If it arises taking that realm as its object,
+['ZH_T30_1579_003:0291b21_9']	又識能了別事之總相。	又識能了別事之總相。	Moreover, consciousness is able to cognize the general characteristics of events.
+['ZH_T30_1579_003:0291b22_2']	即此所未了別所了境相。	即此所未了別所了境相。	The characteristics of the cognized realm that have not yet been cognized by this,
+['ZH_T30_1579_003:0291b22_11']	能了別者說名作意。	能了別者說名作意。	The cognizer is called attention.
+['ZH_T30_1579_003:0291b23_4']	即此可意不可意俱相違相。	即此可意不可意俱相違相。	This is the agreeable, disagreeable, and both disagreeable and agreeable characteristics.
+['ZH_T30_1579_003:0291b23_9']	由觸了別。	由觸了別。	By contact, it is cognized.
+['ZH_T30_1579_003:0291b24_1']	即此攝受損害俱相違相。	即此攝受損害俱相違相。	This is the characteristics of acceptance, harm, and both acceptance and harm.
+['ZH_T30_1579_003:0291b24_6']	由受了別。	由受了別。	By feeling, it is cognized.
+['ZH_T30_1579_003:0291b24_13']	即此言說因相。	即此言說因相。	This is the characteristics of the cause of speech.
+['ZH_T30_1579_003:0291b24_18']	由想了別。	由想了別。	By conceptualization, it is cognized.
+['ZH_T30_1579_003:0291b25_9']	即此邪正俱相違行因相。	即此邪正俱相違行因相。	This is the characteristic of the cause of action that is both wrong and right.
+['ZH_T30_1579_003:0291b25_14']	由思了別。	由思了別。	Because of the discrimination of thought.
+['ZH_T30_1579_003:0291b26_7']	是故說彼作意等思為後邊。	是故說彼作意等思為後邊。	Therefore, it is said that intention and thought are the last.
+['ZH_T30_1579_003:0291b27_9']	名心所有法遍一切處一切地一切時一切生。	名心所有法遍一切處一切地一切時一切生。	It is called the mental factors that are present in all places, all stages, all times, and all births.
+['ZH_T30_1579_003:0291b27_18']	作意云何謂心迴轉。	作意云何謂心迴轉。	What is attention? It means the turning of the mind.
+['ZH_T30_1579_003:0291b28_7', 'ZH_T30_1579_003:0291b28_14']	觸云何謂三和合。🔽受云何謂領納。	觸云何謂三和合。 受云何謂領納。	What is contact? It means the union of the three.🔽What is feeling? It means experience.
+['ZH_T30_1579_003:0291b29_2']	想云何謂了像。	想云何謂了像。	What is perception? It means the cognition of characteristics.
+['ZH_T30_1579_003:0291b29_10']	思云何謂心造作。	思云何謂心造作。	What is volition? It means the activity of the mind.
+['ZH_T30_1579_003:0291c01_1']	欲云何謂於可樂事。	欲云何謂於可樂事。	What is desire? It means in regard to agreeable things,
+['ZH_T30_1579_003:0291c01_11']	隨彼彼行欲有所作性。	隨彼彼行欲有所作性。	the nature of wanting to engage in various activities.
+['ZH_T30_1579_003:0291c02_3']	勝解云何謂於決定事。	勝解云何謂於決定事。	What is resolve? It means in regard to ascertained things,
+['ZH_T30_1579_003:0291c02_13']	隨彼彼行印可隨順性。	隨彼彼行印可隨順性。	the nature of affirming and following various activities.
+['ZH_T30_1579_003:0291c03_4']	念云何謂於串習事。	念云何謂於串習事。	What is memory? It means in regard to familiar things,
+['ZH_T30_1579_003:0291c03_14']	隨彼彼行明了記憶性。	隨彼彼行明了記憶性。	the nature of clearly remembering various activities.
+['ZH_T30_1579_003:0291c04_8']	三摩地云何謂於所觀察事。	三摩地云何謂於所觀察事。	What is concentration? It means in regard to observed things,
+['ZH_T30_1579_003:0291c05_3']	隨彼彼行審慮所依心一境性。	隨彼彼行審慮所依心一境性。	the basis for careful consideration and the one-pointedness of the mind that follows various activities.
+['ZH_T30_1579_003:0291c05_14']	慧云何謂即於所觀察事。	慧云何謂即於所觀察事。	What is wisdom? It means in regard to observed things,
+['ZH_T30_1579_003:0291c06_6']	隨彼彼行簡擇諸法性。	隨彼彼行簡擇諸法性。	According to each practice, one discriminates the nature of dharmas.
+['ZH_T30_1579_003:0291c06_13', 'ZH_T30_1579_003:0291c07_3']	或由如理所引。🔽或由不如理所引。	或由如理所引。 或由不如理所引。	Either induced by proper reasoning,🔽or induced by improper reasoning,
+['ZH_T30_1579_003:0291c07_15']	或由非如理非不如理所引。	或由非如理非不如理所引。	or induced by neither proper nor improper reasoning.
+['ZH_T30_1579_003:0291c08_6']	又作意作何業。	又作意作何業。	Moreover, what function does attention perform?
+['ZH_T30_1579_003:0291c08_12']	謂引心為業。	謂引心為業。	It is said that its function is to direct the mind.
+['ZH_T30_1579_003:0291c08_17']	觸作何業。	觸作何業。	What function does contact perform?
+['ZH_T30_1579_003:0291c09_7']	謂受想思所依為業。	謂受想思所依為業。	Its function is to serve as the basis for feeling, conceptualization, and volition.
+['ZH_T30_1579_003:0291c09_12']	受作何業。	受作何業。	What function does feeling perform?
+['ZH_T30_1579_003:0291c10_2']	謂愛生所依為業。	謂愛生所依為業。	Its function is to serve as the basis for the arising of craving.
+['ZH_T30_1579_003:0291c10_7']	想作何業。	想作何業。	What function does conceptualization perform?
+['ZH_T30_1579_003:0291c11_4']	謂於所緣令心發起種種言說為業。	謂於所緣令心發起種種言說為業。	Its function is to cause the mind to give rise to various verbal expressions regarding the object.
+['ZH_T30_1579_003:0291c11_9']	思作何業。	思作何業。	What function does volition perform?
+['ZH_T30_1579_003:0291c12_3']	謂發起尋伺身語業等為業。	謂發起尋伺身語業等為業。	Its function is to give rise to applied thought, sustained thought, bodily and verbal actions, and so forth.
+['ZH_T30_1579_003:0291c12_8']	欲作何業。	欲作何業。	What function does desire perform?
+['ZH_T30_1579_003:0291c12_14']	謂發勤為業。	謂發勤為業。	It is said that its function is to give rise to effort.
+['ZH_T30_1579_003:0291c13_1']	勝解作何業。	勝解作何業。	What function does resolve perform?
+['ZH_T30_1579_003:0291c13_14']	謂於所緣任持功德過失為業。	謂於所緣任持功德過失為業。	Its function is to hold onto the merits and faults of the object.
+['ZH_T30_1579_003:0291c14_2']	念作何業。	念作何業。	What function does mindfulness perform?
+['ZH_T30_1579_003:0291c14_17']	謂於久遠所思所作所說憶念為業。	謂於久遠所思所作所說憶念為業。	Its function is to recollect what was thought, done, and said a long time ago.
+['ZH_T30_1579_003:0291c15_6']	三摩地作何業。	三摩地作何業。	What function does samādhi perform?
+['ZH_T30_1579_003:0291c15_13']	謂智所依為業。	謂智所依為業。	Its function is to serve as the basis for wisdom.
+['ZH_T30_1579_003:0291c15_18']	慧作何業。	慧作何業。	What is the function of prajñā?
+['ZH_T30_1579_003:0291c16_16']	謂於戲論所行染污清淨隨順推求為業。	謂於戲論所行染污清淨隨順推求為業。	It is the function of seeking in accordance with the defilement and purity of discursive thought.
+['ZH_T30_1579_003:0291c17_6']	云何建立三世。	云何建立三世。	How are the three times established?
+['ZH_T30_1579_003:0291c17_15']	謂諸種子不離法故。	謂諸種子不離法故。	It is said that because the seeds are not separate from dharmas,
+['ZH_T30_1579_003:0291c18_2']	如法建立。	如法建立。	they are established in the same way as dharmas.
+['ZH_T30_1579_003:0291c18_11']	又由與果未與果故。	又由與果未與果故。	Moreover, it is because the fruit has not yet been given.
+['ZH_T30_1579_003:0291c18_16']	若諸果法。	若諸果法。	If the dharmas of the fruit
+['ZH_T30_1579_003:0291c19_5']	若已滅相是過去。	若已滅相是過去。	have already ceased, they are past.
+['ZH_T30_1579_003:0291c19_14']	有因未生相是未來。	有因未生相是未來。	If the characteristics of the cause have not yet arisen, they are future.
+['ZH_T30_1579_003:0291c20_5']	已生未滅相是現在。	已生未滅相是現在。	If they have already arisen but not yet ceased, they are present.
+['ZH_T30_1579_003:0291c22_11']	云何建立生老住無常謂於一切處識相續中一切種子相續俱行建立。	云何建立生老住無常謂於一切處識相續中一切種子相續俱行建立。	How are birth, old age, duration, and impermanence established? It is said that in the continuity of consciousness in all realms, the continuity of all seeds is established as accompanying.
+['ZH_T30_1579_003:0291c22_17']	由有緣力故。	由有緣力故。	Because of the power of conditions,
+['ZH_T30_1579_003:0291c23_5']	先未相續生。	先未相續生。	what had not previously continued arises.
+['ZH_T30_1579_003:0291c23_11']	法今最初生。	法今最初生。	This dharma now arises for the first time.
+['ZH_T30_1579_003:0291c23_18']	是名生有為相。	是名生有為相。	This is called the characteristic of birth of conditioned phenomena.
+['ZH_T30_1579_003:0291c24_5']	即此變異性。	即此變異性。	This very transformation
+['ZH_T30_1579_003:0291c24_11']	名老有為相。	名老有為相。	is called the characteristic of old age of conditioned phenomena.
+['ZH_T30_1579_003:0291c24_16', 'ZH_T30_1579_003:0291c25_3']	此復二種。🔽一異性變異性。	此復二種。 一異性變異性。	This is of two kinds.🔽One is the transformation of difference.
+['ZH_T30_1579_003:0291c25_10']	二變性變異性。	二變性變異性。	The other is the transformation of change.
+['ZH_T30_1579_003:0291c25_17']	由有相似生故。	由有相似生故。	Because of the arising of similarity,
+['ZH_T30_1579_003:0291c26_5']	立異性變異性。	立異性變異性。	The characteristic of arising and the characteristic of change.
+['ZH_T30_1579_003:0291c26_13']	由有不相似生故。	由有不相似生故。	Because there is birth that is not similar.
+['ZH_T30_1579_003:0291c27_2']	立變性變異性。	立變性變異性。	The characteristic of change and the characteristic of transformation.
+['ZH_T30_1579_003:0291c27_9']	即已生時唯生。	即已生時唯生。	When it has already arisen, it only arises.
+['ZH_T30_1579_003:0291c28_1']	剎那隨轉故名住有為相。	剎那隨轉故名住有為相。	Because it arises and transforms in a moment, it is called the characteristic of abiding of the conditioned.
+['ZH_T30_1579_003:0291c28_6']	生剎那後。	生剎那後。	After the moment of arising,
+['ZH_T30_1579_003:0291c28_18']	剎那不住故名無常有為相。	剎那不住故名無常有為相。	Because it does not abide in a moment, it is called the characteristic of impermanence of the conditioned.
+['ZH_T30_1579_003:0291c29_10']	如是即約諸法分位差別。	如是即約諸法分位差別。	Thus, based on the distinctions in the states of dharmas,
+['ZH_T30_1579_003:0291c29_15']	建立四相。	建立四相。	The four characteristics are established.
+['ZH_T30_1579_003:0292a01_4']	又有四緣。	又有四緣。	There are also four conditions.
+['ZH_T30_1579_003:0292a01_8']	一因緣。	一因緣。	First, the causal condition.
+['ZH_T30_1579_003:0292a01_14']	二等無間緣。	二等無間緣。	Second, the immediately preceding condition.
+['ZH_T30_1579_003:0292a01_19']	三所緣緣。	三所緣緣。	Third, the object condition.
+['ZH_T30_1579_003:0292a02_4']	四增上緣。	四增上緣。	Fourth, the dominant condition.
+['ZH_T30_1579_003:0292a02_8']	因緣者。	因緣者。	As for the causal condition,
+['ZH_T30_1579_003:0292a02_12']	謂種子。	謂種子。	It refers to seeds.
+['ZH_T30_1579_003:0292a02_18']	等無間緣者。	等無間緣者。	As for the immediately preceding condition,
+['ZH_T30_1579_003:0292a03_9']	謂若此識無間諸識決定生。	謂若此識無間諸識決定生。	If this consciousness immediately gives rise to various consciousnesses with certainty,
+['ZH_T30_1579_003:0292a03_17']	此是彼等無間緣。	此是彼等無間緣。	This is the immediately preceding condition for that.
+['ZH_T30_1579_003:0292a04_3']	所緣緣者。	所緣緣者。	As for the object condition,
+['ZH_T30_1579_003:0292a04_13']	謂諸心心所所緣境界。	謂諸心心所所緣境界。	It refers to the objects of cognition of various minds and mental factors.
+['ZH_T30_1579_003:0292a04_18']	增上緣者。	增上緣者。	As for the dominant condition,
+['ZH_T30_1579_003:0292a05_6']	謂除種子餘所依。	謂除種子餘所依。	It refers to the remaining supports, excluding the seeds,
+['ZH_T30_1579_003:0292a05_16']	如眼及助伴法望眼識。	如眼及助伴法望眼識。	Such as the eyes and the accompanying dharmas, in relation to eye consciousness.
+['ZH_T30_1579_003:0292a06_4']	所餘識亦爾。	所餘識亦爾。	The remaining consciousnesses are also like this.
+['ZH_T30_1579_003:0292a07_5']	又善不善性。	又善不善性。	Moreover, the nature of good and bad.
+['ZH_T30_1579_003:0292a07_12']	能取愛非愛果。	能取愛非愛果。	Can take on desirable and undesirable fruits.
+['ZH_T30_1579_003:0292a08_2']	如是等類名增上緣。	如是等類名增上緣。	This kind of category is called the dominant condition.
+['ZH_T30_1579_003:0292a08_12']	又由種子故建立因緣。	又由種子故建立因緣。	Moreover, the establishment of causal conditions is due to seeds.
+['ZH_T30_1579_003:0292a09_4']	由自性故立等無間緣。	由自性故立等無間緣。	The establishment of the immediately preceding condition is due to self-nature.
+['ZH_T30_1579_003:0292a09_14']	由所緣境故立所緣緣。	由所緣境故立所緣緣。	The establishment of the object condition is due to the objective realm.
+['ZH_T30_1579_003:0292a10_9']	由所依及助伴等故立增上緣。	由所依及助伴等故立增上緣。	The establishment of the dominant condition is due to the basis and assisting factors, etc.
+['ZH_T30_1579_003:0292a10_13']	如經言。	如經言。	As the sutra says:
+['ZH_T30_1579_003:0292a11_4']	諸因諸緣能生識者。	諸因諸緣能生識者。	The causes and conditions that give rise to consciousness.
+['ZH_T30_1579_003:0292a11_11']	彼即此四因緣。	彼即此四因緣。	Those are the four causal conditions.
+['ZH_T30_1579_003:0292a11_18']	一種亦因亦緣。	一種亦因亦緣。	One is both a cause and a condition.
+['ZH_T30_1579_003:0292a12_4']	餘唯是緣。	餘唯是緣。	The rest are only conditions.
+['ZH_T30_1579_003:0292a13_2']	云何。	云何。	How is it so?
+['ZH_T30_1579_003:0292a13_11']	謂諸善法或立一種。	謂諸善法或立一種。	It is said: All wholesome dharmas are established as one kind.
+['ZH_T30_1579_003:0292a13_17']	由無罪義故。	由無罪義故。	Due to the meaning of being free from offense.
+['ZH_T30_1579_003:0292a14_3', 'ZH_T30_1579_003:0292a14_8']	或立二種。🔽謂生得善。	或立二種。 謂生得善。	Or they are established as two kinds.
+['ZH_T30_1579_003:0292a14_13']	及方便善。	及方便善。	That is, innate wholesome [dharmas] and wholesome [dharmas] acquired through effort.
+['ZH_T30_1579_003:0292a14_18', 'ZH_T30_1579_003:0292a15_3', 'ZH_T30_1579_003:0292a15_7']	或立三種。🔽謂自性善。🔽相應善。	或立三種。 謂自性善。 相應善。	Or they are established as three kinds.
+['ZH_T30_1579_003:0292a15_11']	等起善。	等起善。	That is, wholesome by nature, wholesome by association, and wholesome by origination.
+['ZH_T30_1579_003:0292a15_16', 'ZH_T30_1579_003:0292a16_2']	或立四種。🔽謂順福分善。	或立四種。 謂順福分善。	Or they are established as four kinds.
+['ZH_T30_1579_003:0292a16_8']	順解脫分善。	順解脫分善。	That is, wholesome [dharmas] conducive to the accumulation of merit, wholesome [dharmas] conducive to liberation,
+['ZH_T30_1579_003:0292a16_14']	順決擇分善。	順決擇分善。	The wholesome of the stage of heat, summit, patience, and supreme worldly dharmas.
+['ZH_T30_1579_003:0292a16_19']	及無漏善。	及無漏善。	And the wholesome of the stage of the path of insight.
+['ZH_T30_1579_003:0292a17_3']	或立五種。	或立五種。	Or it is established as five kinds.
+['ZH_T30_1579_003:0292a17_8', 'ZH_T30_1579_003:0292a17_12']	謂施性善。🔽戒性善。	謂施性善。 戒性善。	Namely, the wholesome of the nature of giving.🔽The wholesome of the nature of morality.
+['ZH_T30_1579_003:0292a17_16']	修性善。	修性善。	The wholesome of the nature of cultivation.
+['ZH_T30_1579_003:0292a17_20']	愛果善。	愛果善。	The wholesome with the fruit of love.
+['ZH_T30_1579_003:0292a18_4']	離繫果善。	離繫果善。	The wholesome with the fruit of separation.
+['ZH_T30_1579_003:0292a18_9']	或立六種。	或立六種。	Or it is established as six kinds.
+['ZH_T30_1579_003:0292a19_2']	謂善色受想行識及擇滅。	謂善色受想行識及擇滅。	Namely, the wholesome of form, feeling, perception, impulse, consciousness, and the cessation obtained through contemplation.
+['ZH_T30_1579_003:0292a19_7']	或立七種。	或立七種。	Or it is established as seven kinds.
+['ZH_T30_1579_003:0292a19_14']	謂念住所攝善。	謂念住所攝善。	Namely, the wholesome included in the bases of mindfulness.
+['ZH_T30_1579_003:0292a20_1', 'ZH_T30_1579_003:0292a20_7']	正勤所攝善。🔽神足所攝善。	正勤所攝善。 神足所攝善。	The wholesome included in the right efforts.🔽The wholesome included in the bases of supernatural powers.
+['ZH_T30_1579_003:0292a20_12', 'ZH_T30_1579_003:0292a20_17']	根所攝善。🔽力所攝善。	根所攝善。 力所攝善。	The wholesome included in the faculties.🔽The wholesome included in the powers.
+['ZH_T30_1579_003:0292a21_2']	覺支所攝善。	覺支所攝善。	The wholesome included in the factors of enlightenment.
+['ZH_T30_1579_003:0292a21_8']	道支所攝善。	道支所攝善。	The wholesome included in the factors of the path.
+['ZH_T30_1579_003:0292a21_13']	或立八種。	或立八種。	Or it is established as eight kinds.
+['ZH_T30_1579_003:0292a22_7']	謂起迎合掌問訊禮敬業所攝善。	謂起迎合掌問訊禮敬業所攝善。	Namely, the wholesome included in the activities of rising to greet, joining palms, inquiring after well-being, and paying respect.
+['ZH_T30_1579_003:0292a23_2']	讚彼妙說稱揚實德所攝善。	讚彼妙說稱揚實德所攝善。	The wholesome included in praising their wonderful teachings and extolling their real virtues.
+['ZH_T30_1579_003:0292a23_10']	供承病者所攝善。	供承病者所攝善。	The wholesome included in attending to the sick.
+['ZH_T30_1579_003:0292a23_18']	敬事師長所攝善。	敬事師長所攝善。	The wholesome included in respectfully serving teachers and elders.
+['ZH_T30_1579_003:0292a24_5', 'ZH_T30_1579_003:0292a24_11']	隨善所攝善。🔽勸請所攝善。	隨善所攝善。 勸請所攝善。	The wholesome included in following the good.🔽The wholesome included in requesting [the Buddhas to teach].
+['ZH_T30_1579_003:0292a24_17']	迴向所攝善。	迴向所攝善。	The wholesome included in dedicating [merit].
+['ZH_T30_1579_003:0292a25_4']	修無量所攝善。	修無量所攝善。	The wholesome included in cultivating the immeasurables.
+['ZH_T30_1579_003:0292a25_9']	或立九種。	或立九種。	Or it is established as nine kinds.
+['ZH_T30_1579_003:0292a26_5']	謂方便無間解脫勝進道所攝善。	謂方便無間解脫勝進道所攝善。	Namely, the good included in the paths of skillful means, uninterrupted [path], liberation, and further progress;
+['ZH_T30_1579_003:0292a26_17']	及軟中上世出世道所攝善。	及軟中上世出世道所攝善。	And the good included in the worldly and supramundane paths of weak, medium, and strong [practice].
+['ZH_T30_1579_003:0292a27_3']	或立十種。	或立十種。	Or it is established as ten kinds.
+['ZH_T30_1579_003:0292a27_8']	謂有依善。	謂有依善。	Namely, the good with support;
+['ZH_T30_1579_003:0292a27_12']	無依善。	無依善。	The good without support;
+['ZH_T30_1579_003:0292a27_17']	聞所生善。	聞所生善。	The good born of hearing;
+['ZH_T30_1579_003:0292a28_2']	思所生善。	思所生善。	The good born of contemplation;
+['ZH_T30_1579_003:0292a28_8']	律儀所攝善。	律儀所攝善。	The good included in the precepts;
+['ZH_T30_1579_003:0292a28_19']	非律儀非不律儀所攝善。	非律儀非不律儀所攝善。	The good included in neither precepts nor non-precepts;
+['ZH_T30_1579_003:0292a29_7', 'ZH_T30_1579_003:0292a29_14']	根本眷屬所攝善。🔽聲聞乘所攝善。	根本眷屬所攝善。 聲聞乘所攝善。	The good included in the fundamental and its retinue;🔽The good included in the Śrāvaka Vehicle;
+['ZH_T30_1579_003:0292b01_2']	獨覺乘所攝善。	獨覺乘所攝善。	The good included in the Pratyekabuddha Vehicle;
+['ZH_T30_1579_003:0292b01_8']	大乘所攝善。	大乘所攝善。	The good included in the Great Vehicle.
+['ZH_T30_1579_003:0292b01_13']	又立十種。	又立十種。	Moreover, it is established as ten kinds.
+['ZH_T30_1579_003:0292b01_19']	謂欲界繫善。	謂欲界繫善。	Namely, the good bound to the desire realm;
+['ZH_T30_1579_003:0292b02_8', 'ZH_T30_1579_003:0292b02_17']	初二三四靜慮繫善。🔽空無邊處識無邊處。	初二三四靜慮繫善。 空無邊處識無邊處。	The good bound to the first, second, third, and fourth dhyānas;🔽The sphere of infinite space, the sphere of infinite consciousness,
+['ZH_T30_1579_003:0292b03_11']	無所有處非想非非想處繫善。	無所有處非想非非想處繫善。	The sphere of nothingness, and the sphere of neither-perception-nor-non-perception;
+['ZH_T30_1579_003:0292b03_17']	無漏所攝善。	無漏所攝善。	The good included in the uncontaminated.
+['ZH_T30_1579_003:0292b04_3']	又有十種。	又有十種。	Moreover, there are ten kinds.
+['ZH_T30_1579_003:0292b04_9']	謂十善業道。	謂十善業道。	Namely, the ten wholesome courses of action.
+['ZH_T30_1579_003:0292b04_14']	又有十種。	又有十種。	Moreover, there are ten kinds.
+['ZH_T30_1579_003:0292b05_8']	謂無學正見乃至正解脫正智。	謂無學正見乃至正解脫正智。	Namely, the right view, right thought, right speech, right action, right livelihood, right effort, right mindfulness, right concentration, right liberation, and right wisdom of the adept.
+['ZH_T30_1579_003:0292b05_13']	又有十種。	又有十種。	There are also ten kinds.
+['ZH_T30_1579_003:0292b06_6']	謂能感八福生及轉輪王善。	謂能感八福生及轉輪王善。	Namely, the wholesome that can bring about the eight kinds of rebirth in the heavens and the wholesome of a wheel-turning king,
+['ZH_T30_1579_003:0292b06_12']	及趣不動善。	及趣不動善。	And the wholesome that leads to the immovable.
+['ZH_T30_1579_003:0292b07_2']	如是等類諸善差別。	如是等類諸善差別。	Such are the various distinctions of wholesome dharmas.
+['ZH_T30_1579_003:0292b07_10']	略說善有二種義。	略說善有二種義。	In brief, there are two kinds of wholesome dharmas:
+['ZH_T30_1579_003:0292b07_17']	謂取愛果義善。	謂取愛果義善。	The wholesome that takes on the fruit of love,
+['ZH_T30_1579_003:0292b08_7']	了知事及彼果義。	了知事及彼果義。	And the wholesome that understands things and their fruits.
+['ZH_T30_1579_003:0292b08_12']	不善法者。	不善法者。	As for unwholesome dharmas,
+['ZH_T30_1579_003:0292b09_1']	謂與善法相違。	謂與善法相違。	They are contrary to wholesome dharmas,
+['ZH_T30_1579_003:0292b09_7']	及能為障礙。	及能為障礙。	And are able to create obstacles.
+['ZH_T30_1579_003:0292b09_15']	由能取不愛果故。	由能取不愛果故。	Because they take on unloved fruits,
+['ZH_T30_1579_003:0292b10_4']	及不正了知事故。	及不正了知事故。	And because they do not correctly understand things.
+['ZH_T30_1579_003:0292b10_13']	無記法者略有四種。	無記法者略有四種。	As for indeterminate dharmas, there are roughly four kinds:
+['ZH_T30_1579_003:0292b10_18']	謂異熟生。	謂異熟生。	Those that are born from retribution,
+['ZH_T30_1579_003:0292b11_6']	及一分威儀路。	及一分威儀路。	And a part of deportment,
+['ZH_T30_1579_003:0292b11_13']	工巧處及變化。	工巧處及變化。	Crafts, and transformations.
+['ZH_T30_1579_003:0292b11_18']	若諸工巧。	若諸工巧。	If one's crafts
+['ZH_T30_1579_003:0292b12_7']	但為戲樂不為活命。	但為戲樂不為活命。	Are only for the enjoyment of play, not for the sake of livelihood,
+['ZH_T30_1579_003:0292b12_16']	非習業想非為簡擇。	非習業想非為簡擇。	Not thinking of them as practice, not for the sake of discernment,
+['ZH_T30_1579_003:0292b13_12']	此工巧處業是染污餘是無記。	此工巧處業是染污餘是無記。	Those crafts are defiled, the rest are indeterminate.
+['ZH_T30_1579_003:0292b13_17']	如工巧處。	如工巧處。	Just as with crafts,
+['ZH_T30_1579_003:0292b14_4']	威儀路亦爾。	威儀路亦爾。	Deportment is also like this.
+['ZH_T30_1579_003:0292b14_10']	變化有二種。	變化有二種。	Transformation has two kinds.
+['ZH_T30_1579_003:0292b14_16']	謂善及無記。	謂善及無記。	Namely, wholesome and indeterminate.
+['ZH_T30_1579_003:0292b15_3']	有一種。	有一種。	There is one kind.
+['ZH_T30_1579_003:0292b15_8']	謂能見色。	謂能見色。	Namely, that which can see form.
+['ZH_T30_1579_003:0292b15_13']	或立二種。	或立二種。	Or it is established as two kinds.
+['ZH_T30_1579_003:0292b15_18']	謂長養眼。	謂長養眼。	Namely, the nourished eye.
+['ZH_T30_1579_003:0292b16_3']	異熟生眼。	異熟生眼。	The eye born of karmic retribution.
+['ZH_T30_1579_003:0292b16_8']	或立三種。	或立三種。	Or it is established as three kinds.
+['ZH_T30_1579_003:0292b16_16']	謂肉眼天眼慧眼。	謂肉眼天眼慧眼。	Namely, the flesh eye, the heavenly eye, and the wisdom eye.
+['ZH_T30_1579_003:0292b17_2', 'ZH_T30_1579_003:0292b17_7']	或立四種。🔽謂有瞚眼。	或立四種。 謂有瞚眼。	Or it is established as four kinds.🔽Namely, the eye that blinks.
+['ZH_T30_1579_003:0292b17_11', 'ZH_T30_1579_003:0292b17_16']	無瞚眼。🔽恒相續眼。	無瞚眼。 恒相續眼。	The eye that does not blink.🔽The eye that is always in continuity.
+['ZH_T30_1579_003:0292b18_1']	不恒相續眼。	不恒相續眼。	The eye that is not always in continuity.
+['ZH_T30_1579_003:0292b18_6']	恒相續者。	恒相續者。	The one that is always in continuity.
+['ZH_T30_1579_003:0292b18_11']	謂色界眼。	謂色界眼。	Namely, the eye of the form realm.
+['ZH_T30_1579_003:0292b18_16']	或立五種。	或立五種。	Or it is established as five kinds.
+['ZH_T30_1579_003:0292b19_3']	謂五趣所攝眼。	謂五趣所攝眼。	Namely, the eye included in the five destinies.
+['ZH_T30_1579_003:0292b19_8']	或立六種。	或立六種。	Or it is established as six kinds.
+['ZH_T30_1579_003:0292b19_14']	謂自相續眼。	謂自相續眼。	Namely, the eye in one's own continuum.
+['ZH_T30_1579_003:0292b19_19', 'ZH_T30_1579_003:0292b20_3']	他相續眼。🔽端嚴眼。	他相續眼。 端嚴眼。	The eye in another's continuum.🔽The beautiful eye.🔽The ugly eye.
+['ZH_T30_1579_003:0292b20_7', 'ZH_T30_1579_003:0292b20_11']	醜陋眼。🔽有垢眼。	醜陋眼。 有垢眼。	The defiled eye.
+['ZH_T30_1579_003:0292b20_15']	無垢眼。	無垢眼。	The undefiled eye.
+['ZH_T30_1579_003:0292b20_20']	或立七種。	或立七種。	Or it is established as seven kinds.
+['ZH_T30_1579_003:0292b21_4']	謂有識眼。	謂有識眼。	Namely, the eye with consciousness.
+['ZH_T30_1579_003:0292b21_8']	無識眼。	無識眼。	The eye without consciousness.
+['ZH_T30_1579_003:0292b21_13']	強眼弱眼。	強眼弱眼。	The strong eye, the weak eye.
+['ZH_T30_1579_003:0292b21_19', 'ZH_T30_1579_003:0292b22_5']	善識所依眼。🔽不善識所依眼。	善識所依眼。 不善識所依眼。	The eye that is the basis for wholesome consciousness.🔽The eye that is the basis for unwholesome consciousness.
+['ZH_T30_1579_003:0292b22_12']	無記識所依眼。	無記識所依眼。	The eye that is the basis for indeterminate consciousness.
+['ZH_T30_1579_003:0292b22_17']	或立八種。	或立八種。	Or it is established as eight kinds.
+['ZH_T30_1579_003:0292b23_3']	謂依處眼。	謂依處眼。	Namely, the eye based on the sense bases,
+['ZH_T30_1579_003:0292b23_7']	變化眼。	變化眼。	the eye of transformation,
+['ZH_T30_1579_003:0292b23_14']	善業異熟生眼。	善業異熟生眼。	the eye born of the ripening of good karma,
+['ZH_T30_1579_003:0292b24_2', 'ZH_T30_1579_003:0292b24_8']	不善業異熟生眼。🔽食所長養眼。	不善業異熟生眼。 食所長養眼。	the eye born of the ripening of bad karma,🔽the eye nourished by food,
+['ZH_T30_1579_003:0292b24_14', 'ZH_T30_1579_003:0292b24_20']	睡眠長養眼。🔽梵行長養眼。	睡眠長養眼。 梵行長養眼。	the eye nourished by sleep,🔽the eye nourished by pure conduct,
+['ZH_T30_1579_003:0292b25_5']	定所長養眼。	定所長養眼。	and the eye nourished by concentration.
+['ZH_T30_1579_003:0292b25_10']	或立九種。	或立九種。	Or it is established as nine kinds.
+['ZH_T30_1579_003:0292b25_15', 'ZH_T30_1579_003:0292b25_19', 'ZH_T30_1579_003:0292b26_3']	謂已得眼。🔽未得眼。🔽曾得眼。	謂已得眼。 未得眼。 曾得眼。	Namely, the obtained eye,🔽the unobtained eye,🔽the previously obtained eye,
+['ZH_T30_1579_003:0292b26_8']	未曾得眼。	未曾得眼。	the previously unobtained eye,
+['ZH_T30_1579_003:0292b26_13', 'ZH_T30_1579_003:0292b26_17']	得已失眼。🔽應斷眼。	得已失眼。 應斷眼。	the obtained and lost eye,🔽the eye to be eliminated,
+['ZH_T30_1579_003:0292b27_1']	不應斷眼。	不應斷眼。	the eye not to be eliminated,
+['ZH_T30_1579_003:0292b27_5']	已斷眼。	已斷眼。	the already eliminated eye,
+['ZH_T30_1579_003:0292b27_10']	非已斷眼。	非已斷眼。	and the eye not yet eliminated.
+['ZH_T30_1579_003:0292b27_17']	或立十種者無。	或立十種者無。	Or it is established as ten kinds, but there are none.
+['ZH_T30_1579_003:0292b28_3']	或立十一種。	或立十一種。	Or it is established as eleven kinds.
+['ZH_T30_1579_003:0292b28_8']	謂過去眼。	謂過去眼。	Namely, the past eye,
+['ZH_T30_1579_003:0292b28_12']	未來眼。	未來眼。	the future eye,
+['ZH_T30_1579_003:0292b28_16']	現在眼。	現在眼。	the present eye,
+['ZH_T30_1579_003:0292b28_21', 'ZH_T30_1579_003:0292b29_4']	內眼外眼。🔽麁眼細眼。	內眼外眼。 麁眼細眼。	the internal eye, the external eye,🔽the coarse eye, the subtle eye,
+['ZH_T30_1579_003:0292b29_9']	劣眼妙眼。	劣眼妙眼。	the inferior eye, the superior eye,
+['ZH_T30_1579_003:0292b29_14', 'ZH_T30_1579_003:0292b29_19']	遠眼近眼。🔽如眼如是。	遠眼近眼。 如眼如是。	the distant eye, the near eye.🔽Just as with the eye,
+['ZH_T30_1579_003:0292c01_4']	耳等亦爾。	耳等亦爾。	the ear and so forth are also like this.
+['ZH_T30_1579_003:0292c01_10']	是中差別者。	是中差別者。	The differences among them are:
+['ZH_T30_1579_003:0292c01_16']	謂增三增四。	謂增三增四。	increasing by three and increasing by four.
+['ZH_T30_1579_003:0292c02_1']	三種耳者。	三種耳者。	The three kinds of ears are:
+['ZH_T30_1579_003:0292c02_7']	謂肉所纏耳。	謂肉所纏耳。	The ears covered by flesh,
+['ZH_T30_1579_003:0292c02_10']	天耳。	天耳。	The heavenly ear,
+['ZH_T30_1579_003:0292c02_14']	審諦耳。	審諦耳。	And the discerning ear.
+['ZH_T30_1579_003:0292c02_19', 'ZH_T30_1579_003:0292c03_4']	四種耳者。🔽謂恒相續耳。	四種耳者。 謂恒相續耳。	The four kinds of ears are:🔽The ears that are always continuous,
+['ZH_T30_1579_003:0292c03_10']	不恒相續耳。	不恒相續耳。	The ears that are not always continuous,
+['ZH_T30_1579_003:0292c03_14']	高聽耳。	高聽耳。	The ears that listen from above,
+['ZH_T30_1579_003:0292c03_19']	非高聽耳。	非高聽耳。	And the ears that do not listen from above.
+['ZH_T30_1579_003:0292c04_4']	三種鼻舌者。	三種鼻舌者。	The three kinds of nose and tongue are:
+['ZH_T30_1579_003:0292c04_8']	謂光淨。	謂光淨。	The bright and pure,
+['ZH_T30_1579_003:0292c04_12']	不光淨。	不光淨。	The not bright and pure,
+['ZH_T30_1579_003:0292c04_16']	及被損。	及被損。	And the damaged.
+['ZH_T30_1579_003:0292c05_1']	四種鼻舌者。	四種鼻舌者。	The four kinds of nose and tongue are:
+['ZH_T30_1579_003:0292c05_6']	謂恒相續。	謂恒相續。	The always continuous,
+['ZH_T30_1579_003:0292c05_11']	不恒相續。	不恒相續。	The not always continuous,
+['ZH_T30_1579_003:0292c05_16']	有識無識。	有識無識。	The ones with consciousness and without consciousness.
+['ZH_T30_1579_003:0292c06_1', 'ZH_T30_1579_003:0292c06_6']	三種身者。🔽謂滓穢處。	三種身者。 謂滓穢處。	The three kinds of body are:🔽The defiled places,
+['ZH_T30_1579_003:0292c06_11']	非滓穢處。	非滓穢處。	The non-defiled places,
+['ZH_T30_1579_003:0292c07_3']	及一切遍諸根所隨逐故。	及一切遍諸根所隨逐故。	And the all-pervading because it is followed by all the faculties.
+['ZH_T30_1579_003:0292c07_8']	四種身者。	四種身者。	The four kinds of body are:
+['ZH_T30_1579_003:0292c07_13']	謂恒相續。	謂恒相續。	The always continuous,
+['ZH_T30_1579_003:0292c07_18', 'ZH_T30_1579_003:0292c08_3']	不恒相續。🔽有自然光。	不恒相續。 有自然光。	The not always continuous,🔽The ones with natural light,
+['ZH_T30_1579_003:0292c08_8']	無自然光。	無自然光。	And the ones without natural light.
+['ZH_T30_1579_003:0292c09_5']	或立一種意。	或立一種意。	Or one kind of mind is established,
+['ZH_T30_1579_003:0292c09_12']	謂由識法義故。	謂由識法義故。	Because of the dharma of consciousness and meaning.
+['ZH_T30_1579_003:0292c09_17', 'ZH_T30_1579_003:0292c10_4']	或立二種。🔽謂墮施設意。	或立二種。 謂墮施設意。	Or two kinds are established,🔽The mind that falls into the established teachings,
+['ZH_T30_1579_003:0292c10_10']	不墮施設意。	不墮施設意。	And the mind that does not fall into the established teachings.
+['ZH_T30_1579_003:0292c11_2']	初謂了別名言者意。	初謂了別名言者意。	The first refers to the mind that understands names and phrases.
+['ZH_T30_1579_003:0292c11_8', 'ZH_T30_1579_003:0292c11_15']	後謂嬰兒意。🔽又初謂世間意。	後謂嬰兒意。 又初謂世間意。	The latter refers to the mind of an infant.🔽Moreover, the first refers to the worldly mind.
+['ZH_T30_1579_003:0292c12_2']	後謂出世間意。	後謂出世間意。	The latter refers to the supramundane mind.
+['ZH_T30_1579_003:0292c12_7']	或立三種。	或立三種。	Or it is established as three kinds.
+['ZH_T30_1579_003:0292c12_12']	謂心意識。	謂心意識。	Namely, mind, thought, and consciousness.
+['ZH_T30_1579_003:0292c12_17']	或立四種。	或立四種。	Or it is established as four kinds.
+['ZH_T30_1579_003:0292c13_2', 'ZH_T30_1579_003:0292c13_7']	謂善不善。🔽有覆無記。	謂善不善。 有覆無記。	Namely, wholesome, unwholesome,
+['ZH_T30_1579_003:0292c13_12']	無覆無記。	無覆無記。	obscured neutral, and unobscured neutral.
+['ZH_T30_1579_003:0292c14_3']	或立五種謂五位差別。	或立五種謂五位差別。	Or it is established as five kinds, namely the distinctions of the five states.
+['ZH_T30_1579_003:0292c14_7']	一因位。	一因位。	First, the causal state.
+['ZH_T30_1579_003:0292c14_11']	二果位。	二果位。	Second, the fruitional state.
+['ZH_T30_1579_003:0292c14_15']	三樂位。	三樂位。	Third, the pleasurable state.
+['ZH_T30_1579_003:0292c14_19']	四苦位。	四苦位。	Fourth, the painful state.
+['ZH_T30_1579_003:0292c15_5']	五不苦不樂位。	五不苦不樂位。	Fifth, the neither pleasurable nor painful state.
+['ZH_T30_1579_003:0292c15_10']	或立六種。	或立六種。	Or it is established as six kinds.
+['ZH_T30_1579_003:0292c15_15']	謂六識身。	謂六識身。	Namely, the six groups of consciousnesses.
+['ZH_T30_1579_003:0292c16_1']	或立七種。	或立七種。	Or it is established as seven kinds.
+['ZH_T30_1579_003:0292c16_7']	謂依七識住。	謂依七識住。	Namely, based on the seven abodes of consciousness.
+['ZH_T30_1579_003:0292c16_12', 'ZH_T30_1579_003:0292c16_17', 'ZH_T30_1579_003:0292c17_3']	或立八種。🔽謂增語觸。🔽相應有對觸。	或立八種。 謂增語觸。 相應有對觸。	Or it is established as eight kinds.🔽Namely, contact associated with verbal expression,
+['ZH_T30_1579_003:0292c17_7', 'ZH_T30_1579_003:0292c17_11']	相應依。🔽耽嗜依。	相應依。 耽嗜依。	contact associated with resistance,🔽based on dependence,🔽based on indulgence,
+['ZH_T30_1579_003:0292c17_17']	出離有愛味。	出離有愛味。	with relish,
+['ZH_T30_1579_003:0292c18_1']	無愛味。	無愛味。	without relish,🔽mundane,
+['ZH_T30_1579_003:0292c18_4', 'ZH_T30_1579_003:0292c18_8', 'ZH_T30_1579_003:0292c18_13']	世間。🔽出世間。🔽或立九種。	世間。 出世間。 或立九種。	supramundane.🔽Or it is established as nine kinds.
+['ZH_T30_1579_003:0292c18_20']	謂依九有情居。	謂依九有情居。	Namely, based on the nine abodes of sentient beings.
+['ZH_T30_1579_003:0292c19_6']	或立十種者無。	或立十種者無。	Or establishing ten kinds does not exist.
+['ZH_T30_1579_003:0292c19_15']	或立十一種如前說。	或立十一種如前說。	Or establishing eleven kinds is as explained before.
+['ZH_T30_1579_003:0292c20_3']	或立十二種。	或立十二種。	Or establishing twelve kinds.
+['ZH_T30_1579_003:0292c20_8']	即十二心。	即十二心。	That is the twelve minds.
+['ZH_T30_1579_003:0292c20_17']	謂欲界善心不善心。	謂欲界善心不善心。	Namely, the wholesome mind, unwholesome mind,
+['ZH_T30_1579_003:0292c21_3']	有覆無記心。	有覆無記心。	obscured indeterminate mind,
+['ZH_T30_1579_003:0292c21_9']	無覆無記心。	無覆無記心。	unobscured indeterminate mind of the desire realm.
+['ZH_T30_1579_003:0292c21_18']	色界有三心除不善。	色界有三心除不善。	The form realm has three minds, excluding the unwholesome.
+['ZH_T30_1579_003:0292c22_5']	無色界亦爾。	無色界亦爾。	The formless realm is also like this.
+['ZH_T30_1579_003:0292c22_13']	出世間心有二種。	出世間心有二種。	The supramundane mind has two kinds,
+['ZH_T30_1579_003:0292c22_19']	謂學及無學。	謂學及無學。	namely the learner's and the post-learner's.
+['ZH_T30_1579_003:0292c23_5']	或立一種色。	或立一種色。	Or establishing one kind of form.
+['ZH_T30_1579_003:0292c23_13']	謂由眼所行義故。	謂由眼所行義故。	That is because it is the meaning of what is experienced by the eye.
+['ZH_T30_1579_003:0292c24_5']	或立二種謂內色外色。	或立二種謂內色外色。	Or establishing two kinds, namely internal form and external form.
+['ZH_T30_1579_003:0292c24_10']	或立三種。	或立三種。	Or establishing three kinds.
+['ZH_T30_1579_003:0292c24_18']	謂顯色形色表色。	謂顯色形色表色。	Namely, color, shape, and informative form.
+['ZH_T30_1579_003:0292c25_3']	或立四種。	或立四種。	Or establishing four kinds.
+['ZH_T30_1579_003:0292c25_10']	謂有依光明色。	謂有依光明色。	Namely, supported luminous form,
+['ZH_T30_1579_003:0292c25_16']	無依光明色。	無依光明色。	unsupported luminous form,
+['ZH_T30_1579_003:0292c26_3']	正不正光明色。	正不正光明色。	correct and incorrect luminous form,
+['ZH_T30_1579_003:0292c26_8']	積集住色。	積集住色。	and accumulated abiding form.
+['ZH_T30_1579_003:0292c26_13']	或立五種。	或立五種。	Or establishing five kinds.
+['ZH_T30_1579_003:0292c27_2']	謂由五趣差別故。	謂由五趣差別故。	That is because of the differences in the five destinies.
+['ZH_T30_1579_003:0292c27_7']	或立六種。	或立六種。	Or establishing six kinds.
+['ZH_T30_1579_003:0292c27_14']	謂建立所攝色。	謂建立所攝色。	Namely, form included in the establishments.
+['ZH_T30_1579_003:0292c28_1']	覆藏所攝色。	覆藏所攝色。	Form that is included in concealment.
+['ZH_T30_1579_003:0292c28_7']	境界所攝色。	境界所攝色。	Form that is included in the objective realm.
+['ZH_T30_1579_003:0292c28_12']	有情數色。	有情數色。	Form that is included in sentient beings.
+['ZH_T30_1579_003:0292c28_18']	非有情數色。	非有情數色。	Form that is not included in sentient beings.
+['ZH_T30_1579_003:0292c29_3']	有見有對色。	有見有對色。	Form that is visible and has resistance.
+['ZH_T30_1579_003:0292c29_8']	或立七種。	或立七種。	Or it is established as seven kinds.
+['ZH_T30_1579_003:0293a01_1']	謂由七種攝受事差別故。	謂由七種攝受事差別故。	Because it is differentiated by the seven kinds of appropriation.
+['ZH_T30_1579_003:0293a01_6']	或立八種。	或立八種。	Or it is established as eight kinds.
+['ZH_T30_1579_003:0293a01_13']	謂依八世雜說。	謂依八世雜說。	Because it is based on the eight worldly mixtures.
+['ZH_T30_1579_003:0293a01_19']	一地分雜色。	一地分雜色。	One, the mixture of colors of earth divisions.
+['ZH_T30_1579_003:0293a02_4']	二山雜色。	二山雜色。	Two, the mixture of colors of mountains.
+['ZH_T30_1579_003:0293a02_13']	三園林池沼等雜色。	三園林池沼等雜色。	Three, the mixture of colors of gardens, forests, ponds, and marshes, etc.
+['ZH_T30_1579_003:0293a02_19']	四宮室雜色。	四宮室雜色。	Four, the mixture of colors of palaces and chambers.
+['ZH_T30_1579_003:0293a03_5']	五業處雜色。	五業處雜色。	Five, the mixture of colors of places of work.
+['ZH_T30_1579_003:0293a03_11']	六彩畫雜色。	六彩畫雜色。	Six, the mixture of colors of paintings.
+['ZH_T30_1579_003:0293a03_17']	七鍛業雜色。	七鍛業雜色。	Seven, the mixture of colors of metalwork.
+['ZH_T30_1579_003:0293a04_3']	八資具雜色。	八資具雜色。	Eight, the mixture of colors of equipment.
+['ZH_T30_1579_003:0293a04_8', 'ZH_T30_1579_003:0293a04_13']	或立九種。🔽謂若過去。	或立九種。 謂若過去。	Or it is established as nine kinds.🔽If it is past.
+['ZH_T30_1579_003:0293a04_17']	若未來。	若未來。	If it is future.
+['ZH_T30_1579_003:0293a05_1', 'ZH_T30_1579_003:0293a05_6']	若現在。🔽若麁若細。	若現在。 若麁若細。	If it is present.🔽If it is coarse, if it is fine.
+['ZH_T30_1579_003:0293a05_11']	若劣若妙。	若劣若妙。	If it is inferior, if it is excellent.
+['ZH_T30_1579_003:0293a05_16']	若遠若近。	若遠若近。	If it is far, if it is near.
+['ZH_T30_1579_003:0293a06_1']	或立十種。	或立十種。	Or it is established as ten kinds.
+['ZH_T30_1579_003:0293a06_7']	謂十種資具。	謂十種資具。	The ten kinds of equipment.
+['ZH_T30_1579_003:0293a06_13']	或立一種聲。	或立一種聲。	Or it is established as one kind of sound.
+['ZH_T30_1579_003:0293a07_2']	謂由耳所行義故。	謂由耳所行義故。	Because it is what is experienced by the ear.
+['ZH_T30_1579_003:0293a07_7']	或立二種。	或立二種。	Or it is established as two kinds.
+['ZH_T30_1579_003:0293a07_12']	謂了義聲。	謂了義聲。	Namely, the sound of definitive meaning.
+['ZH_T30_1579_003:0293a07_17']	不了義聲。	不了義聲。	The sound of non-definitive meaning.
+['ZH_T30_1579_003:0293a08_2', 'ZH_T30_1579_003:0293a08_9']	或立三種。🔽謂因受大種聲。	或立三種。 謂因受大種聲。	Or establishing three kinds.🔽Namely, sound caused by the great elements that are accepted.
+['ZH_T30_1579_003:0293a08_16']	因不受大種聲。	因不受大種聲。	Sound caused by the great elements that are not accepted.
+['ZH_T30_1579_003:0293a09_2']	因俱大種聲。	因俱大種聲。	Sound caused by the great elements that are both.
+['ZH_T30_1579_003:0293a09_7']	或立四種。	或立四種。	Or establishing four kinds.
+['ZH_T30_1579_003:0293a09_12', 'ZH_T30_1579_003:0293a09_17']	謂善不善。🔽有覆無記。	謂善不善。 有覆無記。	Namely, wholesome, unwholesome,🔽obscured-neutral,
+['ZH_T30_1579_003:0293a10_2']	無覆無記。	無覆無記。	and unobscured-neutral.
+['ZH_T30_1579_003:0293a10_7']	或立五種。	或立五種。	Or establishing five kinds.
+['ZH_T30_1579_003:0293a10_15']	謂由五趣差別故。	謂由五趣差別故。	Namely, due to the differences in the five destinies.
+['ZH_T30_1579_003:0293a11_1']	或立六種。	或立六種。	Or establishing six kinds.
+['ZH_T30_1579_003:0293a11_8']	一受持讀誦聲。	一受持讀誦聲。	One, the sound of upholding and reciting.
+['ZH_T30_1579_003:0293a11_13']	二請問聲。	二請問聲。	Two, the sound of asking questions.
+['ZH_T30_1579_003:0293a11_18']	三說法聲。	三說法聲。	Three, the sound of expounding the Dharma.
+['ZH_T30_1579_003:0293a12_4']	四論議決擇聲。	四論議決擇聲。	Four, the sound of discussing and discerning.
+['ZH_T30_1579_003:0293a12_15']	五展轉言教若犯若出聲。	五展轉言教若犯若出聲。	Five, the sound of mutual instruction, whether committing an offense or emerging from it.
+['ZH_T30_1579_003:0293a13_1']	六喧雜聲。	六喧雜聲。	Six, the sound of clamor and confusion.
+['ZH_T30_1579_003:0293a13_6']	或立七種。	或立七種。	Or establishing seven kinds.
+['ZH_T30_1579_003:0293a13_12']	謂男聲女聲。	謂男聲女聲。	Namely, male voice, female voice,
+['ZH_T30_1579_003:0293a13_19']	下聲中聲上聲。	下聲中聲上聲。	low voice, medium voice, high voice,
+['ZH_T30_1579_003:0293a14_4']	鳥獸等聲。	鳥獸等聲。	the sounds of birds and beasts,
+['ZH_T30_1579_003:0293a14_9']	風林叢聲。	風林叢聲。	the sounds of wind and forest groves.
+['ZH_T30_1579_003:0293a14_14', 'ZH_T30_1579_003:0293a15_1']	或立八種。🔽謂四聖言聲。	或立八種。 謂四聖言聲。	Or establishing eight kinds.🔽Namely, the sounds of the four noble truths,
+['ZH_T30_1579_003:0293a15_7']	四非聖言聲。	四非聖言聲。	and the sounds of the four non-noble truths.
+['ZH_T30_1579_003:0293a15_13']	四非聖言者。	四非聖言者。	The four non-noble truths are:
+['ZH_T30_1579_003:0293a15_19']	一不見言見。	一不見言見。	One, saying one has not seen what one has not seen.
+['ZH_T30_1579_003:0293a16_4']	見言不見。	見言不見。	Seeing says not seeing.
+['ZH_T30_1579_003:0293a16_8', 'ZH_T30_1579_003:0293a16_14']	非聖言。🔽二不聞言聞。	非聖言。 二不聞言聞。	Not the words of a sage.🔽Second, not hearing says hearing.
+['ZH_T30_1579_003:0293a16_19']	聞言不聞。	聞言不聞。	Hearing says not hearing.
+['ZH_T30_1579_003:0293a17_3']	非聖言。	非聖言。	Not the words of a sage.
+['ZH_T30_1579_003:0293a17_9']	三不覺言覺。	三不覺言覺。	Third, not knowing says knowing.
+['ZH_T30_1579_003:0293a17_14']	覺言不覺。	覺言不覺。	Knowing says not knowing.
+['ZH_T30_1579_003:0293a17_18']	非聖言。	非聖言。	Not the words of a sage.
+['ZH_T30_1579_003:0293a18_4']	四不知言知。	四不知言知。	Fourth, not knowing says knowing.
+['ZH_T30_1579_003:0293a18_9']	知言不知。	知言不知。	Knowing says not knowing.
+['ZH_T30_1579_003:0293a18_13']	非聖言。	非聖言。	Not the words of a sage.
+['ZH_T30_1579_003:0293a18_18']	四聖言者。	四聖言者。	The four words of a sage are:
+['ZH_T30_1579_003:0293a19_10']	一見言見不見言不見聖言。	一見言見不見言不見聖言。	First, seeing says seeing, not seeing says not seeing, the words of a sage.
+['ZH_T30_1579_003:0293a20_5']	二聞言聞不聞言不聞聖言。	二聞言聞不聞言不聞聖言。	Second, hearing says hearing, not hearing says not hearing, the words of a sage.
+['ZH_T30_1579_003:0293a20_17']	三覺言覺不覺言不覺聖言。	三覺言覺不覺言不覺聖言。	Third, knowing says knowing, not knowing says not knowing, the words of a sage.
+['ZH_T30_1579_003:0293a21_11']	四知言知不知言不知聖言。	四知言知不知言不知聖言。	Fourth, knowing says knowing, not knowing says not knowing, the words of a sage.
+['ZH_T30_1579_003:0293a21_16']	又有八種。	又有八種。	There are also eight kinds.
+['ZH_T30_1579_003:0293a22_5']	謂四善語業道。	謂四善語業道。	That is, the four good verbal karmic paths.
+['ZH_T30_1579_003:0293a22_12']	四不善語業道。	四不善語業道。	The four unwholesome verbal karmic paths.
+['ZH_T30_1579_003:0293a22_17']	或立九種。	或立九種。	Or establishing nine kinds.
+['ZH_T30_1579_003:0293a23_5']	謂過去未來現在。	謂過去未來現在。	That is, past, future, and present.
+['ZH_T30_1579_003:0293a23_12']	乃至若遠若近。	乃至若遠若近。	Up to far and near.
+['ZH_T30_1579_003:0293a23_17']	或立十種。	或立十種。	Or establishing ten kinds.
+['ZH_T30_1579_003:0293a24_4']	謂五樂所攝聲。	謂五樂所攝聲。	That is, the sounds included in the five pleasures.
+['ZH_T30_1579_003:0293a24_9']	此復云何。	此復云何。	What are they again?
+['ZH_T30_1579_003:0293a24_15']	一舞俱行聲。	一舞俱行聲。	First, the sound accompanying dance.
+['ZH_T30_1579_003:0293a25_1']	二歌俱行聲。	二歌俱行聲。	Second, the sound of singing and music together.
+['ZH_T30_1579_003:0293a25_8']	三絃管俱行聲。	三絃管俱行聲。	Third, the sound of strings and pipes together.
+['ZH_T30_1579_003:0293a25_14']	四女俱行聲。	四女俱行聲。	Fourth, the sound of women together.
+['ZH_T30_1579_003:0293a25_20']	五男俱行聲。	五男俱行聲。	Fifth, the sound of men together.
+['ZH_T30_1579_003:0293a26_5']	六螺俱行聲。	六螺俱行聲。	Sixth, the sound of conches together.
+['ZH_T30_1579_003:0293a26_13', 'ZH_T30_1579_003:0293a27_2']	七腰等鼓俱行聲。🔽八岡等鼓俱行聲。	七腰等鼓俱行聲。 八岡等鼓俱行聲。	Seventh, the sound of waist drums and so forth together.🔽Eighth, the sound of gongs and so forth together.
+['ZH_T30_1579_003:0293a27_11']	九都曇等鼓俱行聲。	九都曇等鼓俱行聲。	Ninth, the sound of tabours and so forth together.
+['ZH_T30_1579_003:0293a27_16']	十俳叫聲。	十俳叫聲。	Tenth, the sound of shouting.
+['ZH_T30_1579_003:0293a28_5']	或立一種香。	或立一種香。	Or establish one kind of smell.
+['ZH_T30_1579_003:0293a28_13']	謂由鼻所行義故。	謂由鼻所行義故。	Because it is the meaning of what is experienced by the nose.
+['ZH_T30_1579_003:0293a28_18']	或立二種。	或立二種。	Or establish two kinds.
+['ZH_T30_1579_003:0293a29_4']	謂內及外。	謂內及外。	Namely, internal and external.
+['ZH_T30_1579_003:0293a29_9']	或立三種。	或立三種。	Or establish three kinds.
+['ZH_T30_1579_003:0293b01_1']	謂可意不可意及處中香。	謂可意不可意及處中香。	Namely, agreeable smells, disagreeable smells, and neutral smells.
+['ZH_T30_1579_003:0293b01_6']	或立四種。	或立四種。	Or establish four kinds.
+['ZH_T30_1579_003:0293b01_11', 'ZH_T30_1579_003:0293b01_15']	謂四大香。🔽一沈香。	謂四大香。 一沈香。	Namely, the smells of the four great elements.🔽First, agarwood.🔽Second, sandalwood.
+['ZH_T30_1579_003:0293b02_2', 'ZH_T30_1579_003:0293b02_7']	二窣堵魯迦香。🔽三龍腦香。	二窣堵魯迦香。 三龍腦香。	Third, camphor.
+['ZH_T30_1579_003:0293b02_11']	四麝香。	四麝香。	Fourth, musk.
+['ZH_T30_1579_003:0293b02_16']	或立五種。	或立五種。	Or establish five kinds.
+['ZH_T30_1579_003:0293b03_8']	謂根香莖香葉香花香果香。	謂根香莖香葉香花香果香。	Namely, root smells, stem smells, leaf smells, flower smells, and fruit smells.
+['ZH_T30_1579_003:0293b03_13']	或立六種。	或立六種。	Or establish six kinds.
+['ZH_T30_1579_003:0293b04_11']	謂食香飲香衣香莊嚴具香乘香宮室香。	謂食香飲香衣香莊嚴具香乘香宮室香。	Namely, the smells of food, drink, clothing, ornaments, vehicles, and palaces.
+['ZH_T30_1579_003:0293b04_16']	或立七種。	或立七種。	Or seven kinds are established.
+['ZH_T30_1579_003:0293b06_1']	謂皮香葉香素泣謎羅香栴檀香三辛香熏香末香。	謂皮香葉香素泣謎羅香栴檀香三辛香熏香末香。	Namely, skin fragrance, leaf fragrance, sukhumāra fragrance, sandalwood fragrance, three spice fragrance, incense fragrance, and powder fragrance.
+['ZH_T30_1579_003:0293b06_6']	或立八種。	或立八種。	Or eight kinds are established.
+['ZH_T30_1579_003:0293b06_11']	謂俱生香。	謂俱生香。	Namely, innate fragrance,
+['ZH_T30_1579_003:0293b06_16']	非俱生香。	非俱生香。	non-innate fragrance,
+['ZH_T30_1579_003:0293b06_20']	恒續香。	恒續香。	continuous fragrance,
+['ZH_T30_1579_003:0293b07_4']	非恒續香。	非恒續香。	non-continuous fragrance,
+['ZH_T30_1579_003:0293b07_9']	雜香純香。	雜香純香。	mixed fragrance, pure fragrance,
+['ZH_T30_1579_003:0293b07_15']	猛香非猛香。	猛香非猛香。	fierce fragrance, and non-fierce fragrance.
+['ZH_T30_1579_003:0293b08_1']	或立九種。	或立九種。	Or nine kinds are established.
+['ZH_T30_1579_003:0293b08_13']	謂過去未來現在等如前說。	謂過去未來現在等如前說。	Namely, past, future, present, etc., as explained before.
+['ZH_T30_1579_003:0293b08_18']	或立十種。	或立十種。	Or ten kinds are established.
+['ZH_T30_1579_003:0293b09_4']	謂女香男香。	謂女香男香。	Namely, female fragrance, male fragrance,
+['ZH_T30_1579_003:0293b09_11', 'ZH_T30_1579_003:0293b09_16']	一指香二指香。🔽唾香洟香。	一指香二指香。 唾香洟香。	one-finger fragrance, two-finger fragrance,🔽saliva fragrance, nasal mucus fragrance,
+['ZH_T30_1579_003:0293b10_4']	脂髓膿血香肉香。	脂髓膿血香肉香。	fat marrow pus blood fragrance, flesh fragrance,
+['ZH_T30_1579_003:0293b10_11']	雜糅香淤埿香。	雜糅香淤埿香。	mixed fragrance, and mud fragrance.
+['ZH_T30_1579_003:0293b11_5']	或立一種味。	或立一種味。	Or one kind of taste is established.
+['ZH_T30_1579_003:0293b11_13']	謂由舌所行義故。	謂由舌所行義故。	Because it is the meaning of what is experienced by the tongue.
+['ZH_T30_1579_003:0293b11_18']	或立二種。	或立二種。	Or two kinds are established.
+['ZH_T30_1579_003:0293b12_4']	謂內及外。	謂內及外。	Namely, internal and external.
+['ZH_T30_1579_003:0293b12_9']	或立三種。	或立三種。	Or three kinds are established.
+['ZH_T30_1579_003:0293b12_17']	謂可意等如前說。	謂可意等如前說。	Namely, agreeable, etc., as explained before.
+['ZH_T30_1579_003:0293b13_3', 'ZH_T30_1579_003:0293b13_8', 'ZH_T30_1579_003:0293b13_12']	或立四種。🔽謂大麥味。🔽粳稻味。	或立四種。 謂大麥味。 粳稻味。	Or four kinds are established.🔽Namely, barley flavor,🔽rice flavor,
+['ZH_T30_1579_003:0293b13_16']	小麥味。	小麥味。	wheat flavor,
+['ZH_T30_1579_003:0293b14_1']	餘下穀味。	餘下穀味。	The remaining grains and flavors.
+['ZH_T30_1579_003:0293b14_6', 'ZH_T30_1579_003:0293b14_11']	或立五種。🔽謂酒飲味。	或立五種。 謂酒飲味。	Or establish five kinds.🔽Namely, alcoholic beverages and flavors.
+['ZH_T30_1579_003:0293b14_16', 'ZH_T30_1579_003:0293b14_20']	非酒飲味。🔽蔬菜味。	非酒飲味。 蔬菜味。	Non-alcoholic beverages and flavors.🔽Vegetable flavors.
+['ZH_T30_1579_003:0293b15_3']	林果味。	林果味。	Forest fruit flavors.
+['ZH_T30_1579_003:0293b15_7']	所食味。	所食味。	Edible flavors.
+['ZH_T30_1579_003:0293b15_12']	或立六種。	或立六種。	Or establish six kinds.
+['ZH_T30_1579_003:0293b15_17']	謂甘苦等。	謂甘苦等。	Namely, sweet, bitter, and so forth.
+['ZH_T30_1579_003:0293b16_2']	或立七種。	或立七種。	Or establish seven kinds.
+['ZH_T30_1579_003:0293b17_3']	謂酥味油味蜜味甘蔗變味乳酪味鹽味肉味。	謂酥味油味蜜味甘蔗變味乳酪味鹽味肉味。	Namely, butter flavor, oil flavor, honey flavor, sugarcane flavor, milk flavor, cheese flavor, salt flavor, and meat flavor.
+['ZH_T30_1579_003:0293b17_8']	或立八種。	或立八種。	Or establish eight kinds.
+['ZH_T30_1579_003:0293b17_12']	如香說。	如香說。	As explained in the section on fragrances.
+['ZH_T30_1579_003:0293b17_17']	或立九種。	或立九種。	Or establish nine kinds.
+['ZH_T30_1579_003:0293b18_2']	亦如香說。	亦如香說。	Also as explained in the section on fragrances.
+['ZH_T30_1579_003:0293b18_7', 'ZH_T30_1579_003:0293b18_12']	或立十種。🔽謂可嚼味。	或立十種。 謂可嚼味。	Or establish ten kinds.🔽Namely, chewable flavors.
+['ZH_T30_1579_003:0293b18_16', 'ZH_T30_1579_003:0293b18_20']	可噉味。🔽可甞味。	可噉味。 可甞味。	Edible flavors.🔽Tasteable flavors.
+['ZH_T30_1579_003:0293b19_3', 'ZH_T30_1579_003:0293b19_7']	可飲味。🔽可吮味。	可飲味。 可吮味。	Drinkable flavors.🔽Suckable flavors.
+['ZH_T30_1579_003:0293b19_12', 'ZH_T30_1579_003:0293b19_16', 'ZH_T30_1579_003:0293b19_20']	可爆乾味。🔽充足味。🔽休愈味。	可爆乾味。 充足味。 休愈味。	Dry-roasted flavors.🔽Satisfying flavors.🔽Restorative flavors.
+['ZH_T30_1579_003:0293b20_3']	盪滌味。	盪滌味。	Purifying flavors.
+['ZH_T30_1579_003:0293b20_7']	常習味。	常習味。	Habitual flavors.
+['ZH_T30_1579_003:0293b20_14']	後五謂諸藥味。	後五謂諸藥味。	The last five refer to medicinal flavors.
+['ZH_T30_1579_003:0293b21_5']	或立一種觸。	或立一種觸。	Or establish one kind of touch.
+['ZH_T30_1579_003:0293b21_13']	謂由身所行義故。	謂由身所行義故。	Because it is the meaning of what is practiced by the body.
+['ZH_T30_1579_003:0293b21_18']	或立二種。	或立二種。	Or establish two kinds.
+['ZH_T30_1579_003:0293b22_3']	如香說。	如香說。	As explained in the section on fragrances.
+['ZH_T30_1579_003:0293b22_8']	或立三種。	或立三種。	Or establish three kinds.
+['ZH_T30_1579_003:0293b22_13']	謂可意等。	謂可意等。	Namely, pleasant, unpleasant, etc.
+['ZH_T30_1579_003:0293b22_18']	或立四種。	或立四種。	Or it is established as four kinds.
+['ZH_T30_1579_003:0293b23_8']	謂摩觸搦觸打觸揉觸。	謂摩觸搦觸打觸揉觸。	Namely, touching, pinching, beating, and rubbing.
+['ZH_T30_1579_003:0293b23_13']	或立五種。	或立五種。	Or it is established as five kinds.
+['ZH_T30_1579_003:0293b23_19']	謂五趣差別。	謂五趣差別。	Namely, the differences between the five destinies.
+['ZH_T30_1579_003:0293b24_4']	又有五種。	又有五種。	There are also five kinds.
+['ZH_T30_1579_003:0293b24_14']	謂蚊䗈風日蛇蠍等觸。	謂蚊䗈風日蛇蠍等觸。	Namely, the touches of mosquitoes, gnats, wind, sun, snakes, scorpions, etc.
+['ZH_T30_1579_003:0293b25_1']	或立六種。	或立六種。	Or it is established as six kinds.
+['ZH_T30_1579_003:0293b25_9']	謂苦樂不苦不樂。	謂苦樂不苦不樂。	Namely, suffering, happiness, neither suffering nor happiness.
+['ZH_T30_1579_003:0293b25_18']	俱生所治攝能治攝。	俱生所治攝能治攝。	Born together, what is to be eliminated, and what is able to eliminate.
+['ZH_T30_1579_003:0293b26_3']	或立七種。	或立七種。	Or it is established as seven kinds.
+['ZH_T30_1579_003:0293b26_8', 'ZH_T30_1579_003:0293b26_12']	謂堅鞕觸。🔽流濕觸。	謂堅鞕觸。 流濕觸。	Namely, hard and rough touch.🔽Flowing and moist touch.
+['ZH_T30_1579_003:0293b26_17']	煖觸動觸。	煖觸動觸。	Warm touch, moving touch.
+['ZH_T30_1579_003:0293b27_1']	跳墮觸。	跳墮觸。	Jumping and falling touch.
+['ZH_T30_1579_003:0293b27_5']	摩按觸。	摩按觸。	Touching and pressing.
+['ZH_T30_1579_003:0293b27_10']	身變異觸。	身變異觸。	Touch of bodily change.
+['ZH_T30_1579_003:0293b27_15']	謂濕滑等。	謂濕滑等。	Namely, wetness, smoothness, etc.
+['ZH_T30_1579_003:0293b27_20']	或立八種。	或立八種。	Or it is established as eight kinds.
+['ZH_T30_1579_003:0293b28_4', 'ZH_T30_1579_003:0293b28_8', 'ZH_T30_1579_003:0293b28_12']	謂手觸觸。🔽塊觸觸。🔽杖觸觸。	謂手觸觸。 塊觸觸。 杖觸觸。	Namely, hand touch,🔽lump touch,🔽stick touch,
+['ZH_T30_1579_003:0293b28_16']	刀觸觸。	刀觸觸。	knife touch,
+['ZH_T30_1579_003:0293b28_20', 'ZH_T30_1579_003:0293b29_3', 'ZH_T30_1579_003:0293b29_7']	冷觸觸。🔽煖觸觸。🔽飢觸觸。	冷觸觸。 煖觸觸。 飢觸觸。	cold touch,🔽warm touch,🔽hunger touch,
+['ZH_T30_1579_003:0293b29_11']	渴觸觸。	渴觸觸。	and thirst touch.
+['ZH_T30_1579_003:0293b29_16']	或立九種。	或立九種。	Or it is established as nine kinds.
+['ZH_T30_1579_003:0293b29_20']	如香說。	如香說。	As explained in the case of smell.
+['ZH_T30_1579_003:0293c01_4', 'ZH_T30_1579_003:0293c01_10']	或立十種。🔽謂食觸飲觸。	或立十種。 謂食觸飲觸。	Or it is established as ten kinds.🔽Namely, food touch, drink touch,
+['ZH_T30_1579_003:0293c01_15']	乘觸衣觸。	乘觸衣觸。	vehicle touch, clothing touch,
+['ZH_T30_1579_003:0293c02_1', 'ZH_T30_1579_003:0293c02_5']	莊嚴具觸。🔽床坐觸。	莊嚴具觸。 床坐觸。	The touch of ornaments.🔽The touch of beds and seats.
+['ZH_T30_1579_003:0293c02_14']	机橙臺枕及方座觸。	机橙臺枕及方座觸。	The touch of tables, stands, pillows, and square seats.
+['ZH_T30_1579_003:0293c02_19']	女觸男觸。	女觸男觸。	The touch of women and men.
+['ZH_T30_1579_003:0293c03_7']	彼二相事受用觸。	彼二相事受用觸。	The touch of the two types of objects that are experienced.
+['ZH_T30_1579_003:0293c04_4']	略說法界。	略說法界。	In brief, the dharma realm.
+['ZH_T30_1579_003:0293c04_14']	若假若實有八十七法。	若假若實有八十七法。	Whether conventional or real, there are eighty-seven dharmas.
+['ZH_T30_1579_003:0293c05_1']	彼復云何。	彼復云何。	What are they again?
+['ZH_T30_1579_003:0293c05_11']	謂心所有法有五十三。	謂心所有法有五十三。	Namely, the mental factors have fifty-three.
+['ZH_T30_1579_003:0293c05_16']	始從作意。	始從作意。	Starting from intention.
+['ZH_T30_1579_003:0293c06_5']	乃至尋伺為後邊。	乃至尋伺為後邊。	Up to investigation and analysis as the last.
+['ZH_T30_1579_003:0293c06_14']	法處所攝色有二種。	法處所攝色有二種。	The form included in the dharma realm is of two kinds.
+['ZH_T30_1579_003:0293c07_5']	謂律儀不律儀所攝色。	謂律儀不律儀所攝色。	Namely, the form included in moral discipline and the form included in immorality.
+['ZH_T30_1579_003:0293c07_12']	三摩地所行色。	三摩地所行色。	The form practiced by samādhi.
+['ZH_T30_1579_003:0293c08_3']	不相應行有二十四種。	不相應行有二十四種。	The dissociated formations have twenty-four kinds.
+['ZH_T30_1579_003:0293c08_6']	謂得。	謂得。	Namely, attainment.
+['ZH_T30_1579_003:0293c08_10']	無想定。	無想定。	The attainment of non-perception.
+['ZH_T30_1579_003:0293c08_14']	滅盡定。	滅盡定。	The attainment of cessation.
+['ZH_T30_1579_003:0293c08_19']	無想異熟。	無想異熟。	The karmic maturation of non-perception.
+['ZH_T30_1579_003:0293c09_1']	命根。	命根。	The life faculty.
+['ZH_T30_1579_003:0293c09_5']	眾同分。	眾同分。	The homogeneity of beings.
+['ZH_T30_1579_003:0293c09_9']	異生性。	異生性。	The nature of being an ordinary person.
+['ZH_T30_1579_003:0293c09_15']	生老住無常。	生老住無常。	Birth, aging, abiding, and impermanence.
+['ZH_T30_1579_003:0293c10_1']	名身句身文身。	名身句身文身。	The body of names, the body of phrases, and the body of letters.
+['ZH_T30_1579_003:0293c10_4']	流轉。	流轉。	Transmigration.
+['ZH_T30_1579_003:0293c10_9']	定異相應。	定異相應。	The characteristics of determination, association,
+['ZH_T30_1579_003:0293c10_12', 'ZH_T30_1579_003:0293c10_15']	勢速。🔽次第。	勢速。 次第。	swiftness,🔽sequence,
+['ZH_T30_1579_003:0293c10_19']	時方數。	時方數。	time, direction, and number.
+['ZH_T30_1579_003:0293c11_3']	和合不和合。	和合不和合。	whether in combination or not in combination.
+['ZH_T30_1579_003:0293c11_9']	無為有八事。	無為有八事。	The unconditioned has eight aspects.
+['ZH_T30_1579_003:0293c11_13']	謂虛空。	謂虛空。	Namely, space,
+['ZH_T30_1579_003:0293c11_17']	非擇滅。	非擇滅。	non-analytical cessation,
+['ZH_T30_1579_003:0293c11_20']	擇滅。	擇滅。	analytical cessation,
+['ZH_T30_1579_003:0293c12_3']	善不善。	善不善。	wholesome, unwholesome,
+['ZH_T30_1579_003:0293c12_7']	無記法。	無記法。	indeterminate dharmas,
+['ZH_T30_1579_003:0293c12_15']	真如不動想受滅。	真如不動想受滅。	suchness, immovable, cessation of ideation and sensation.
+['ZH_T30_1579_003:0293c13_4']	如是無為廣八略六。	如是無為廣八略六。	Thus, the unconditioned is broadly eight, concisely six.
+['ZH_T30_1579_003:0293c13_13']	若六若八平等平等。	若六若八平等平等。	Whether six or eight, they are equal, completely equal.
+['ZH_T30_1579_003:0293c14_8']	復次法界或立一種。	復次法界或立一種。	Furthermore, the dharma realm is established as one kind,
+['ZH_T30_1579_003:0293c14_15']	謂由意所行義。	謂由意所行義。	namely, that which is referred to by the mind.
+['ZH_T30_1579_003:0293c15_2', 'ZH_T30_1579_003:0293c15_8']	或立二種。🔽謂假所攝法。	或立二種。 謂假所攝法。	Or it is established as two kinds,🔽namely, dharmas included in the nominal and
+['ZH_T30_1579_003:0293c15_14']	非假所攝法。	非假所攝法。	dharmas not included in the nominal.
+['ZH_T30_1579_003:0293c15_19']	或立三種。	或立三種。	Or it is established as three kinds,
+['ZH_T30_1579_003:0293c16_10']	謂有色無色及有為無為。	謂有色無色及有為無為。	namely, form, the formless, and the conditioned and unconditioned.
+['ZH_T30_1579_003:0293c16_15']	或立四種。	或立四種。	Or it is established as four kinds,
+['ZH_T30_1579_003:0293c17_4']	謂有色假所攝法。	謂有色假所攝法。	namely, dharmas included in form and the nominal,
+['ZH_T30_1579_003:0293c17_13', 'ZH_T30_1579_003:0293c18_4']	無色心所有所攝法。🔽無色不相應假所攝法。	無色心所有所攝法。 無色不相應假所攝法。	dharmas included in the formless and mental factors,🔽dharmas included in the formless and dissociated from the nominal,
+['ZH_T30_1579_003:0293c18_15']	無色無為假非假所攝法。	無色無為假非假所攝法。	dharmas included in the formless and unconditioned, and not included in the nominal.
+['ZH_T30_1579_003:0293c19_1']	或立五種。	或立五種。	Or it is established as five kinds,
+['ZH_T30_1579_003:0293c19_7']	謂色心所法。	謂色心所法。	namely, form, mental factors,
+['ZH_T30_1579_003:0293c19_13']	心不相應行。	心不相應行。	formations dissociated from the mind,
+['ZH_T30_1579_003:0293c19_19']	善無記無為。	善無記無為。	wholesome, indeterminate, and unconditioned.
+['ZH_T30_1579_003:0293c20_4']	或立六種。	或立六種。	Or it is established as six kinds.
+['ZH_T30_1579_003:0293c20_8']	謂受想。	謂受想。	Namely, feeling and conception.
+['ZH_T30_1579_003:0293c20_12']	相應行。	相應行。	Associated with mental activities.
+['ZH_T30_1579_003:0293c20_17']	不相應行。	不相應行。	Not associated with mental activities.
+['ZH_T30_1579_003:0293c21_1']	色無為。	色無為。	Form and unconditioned factors.
+['ZH_T30_1579_003:0293c21_6']	或立七種。	或立七種。	Or it is established as seven kinds.
+['ZH_T30_1579_003:0293c21_11']	謂受想思。	謂受想思。	Namely, feeling, conception, volition.
+['ZH_T30_1579_003:0293c21_17']	染污不染污。	染污不染污。	Defiled and undefiled.
+['ZH_T30_1579_003:0293c22_1']	色無為。	色無為。	Form and unconditioned factors.
+['ZH_T30_1579_003:0293c22_6']	或立八種。	或立八種。	Or it is established as eight kinds.
+['ZH_T30_1579_003:0293c22_19']	謂善不善無記受想行色無為。	謂善不善無記受想行色無為。	Namely, wholesome, unwholesome, indeterminate feeling, conception, mental activities, form, and unconditioned factors.
+['ZH_T30_1579_003:0293c23_4']	或立九種。	或立九種。	Or it is established as nine kinds.
+['ZH_T30_1579_003:0293c23_14']	謂由過去未來等差別。	謂由過去未來等差別。	Namely, by the distinctions of past, future, etc.
+['ZH_T30_1579_003:0293c24_1']	或立十種。	或立十種。	Or it is established as ten kinds.
+['ZH_T30_1579_003:0293c24_7', 'ZH_T30_1579_003:0293c24_13']	謂由十種義。🔽一隨逐生義。	謂由十種義。 一隨逐生義。	Namely, by the ten kinds of meanings.🔽First, the meaning of following birth.
+['ZH_T30_1579_003:0293c24_19']	二領所緣義。	二領所緣義。	Second, the meaning of experiencing the object.
+['ZH_T30_1579_003:0293c25_6']	三取所緣相義。	三取所緣相義。	Third, the meaning of grasping the characteristics of the object.
+['ZH_T30_1579_003:0293c25_14']	四於所緣造作義。	四於所緣造作義。	Fourth, the meaning of creating in regard to the object.
+['ZH_T30_1579_003:0293c26_7']	五即彼諸法分位差別義。	五即彼諸法分位差別義。	Fifth, the meaning of the distinctions of states of those dharmas.
+['ZH_T30_1579_003:0293c26_13', 'ZH_T30_1579_003:0293c26_19']	六無障礙義。🔽七常離繫義。	六無障礙義。 七常離繫義。	Sixth, the meaning of unobstructedness.🔽Seventh, the meaning of always being unattached.
+['ZH_T30_1579_003:0293c27_6']	八常非離繫義。	八常非離繫義。	Eighth, the meaning of always being non-unattached.
+['ZH_T30_1579_003:0293c27_13']	九常無顛倒義。	九常無顛倒義。	Ninth, the meaning of always being non-inverted.
+['ZH_T30_1579_003:0293c28_1']	十苦樂離繫義。	十苦樂離繫義。	Tenth, the meaning of being unattached to suffering and pleasure.
+['ZH_T30_1579_003:0293c28_14']	非受離繫義及受離繫義如是。	非受離繫義及受離繫義如是。	The meaning of being unattached to feeling and the meaning of being attached to feeling are like this.
+['ZH_T30_1579_003:0293c29_5']	若內若外六處所攝法。	若內若外六處所攝法。	Whether internal or external, all phenomena included in the six sense bases
+['ZH_T30_1579_003:0293c29_15']	差別分別有六百六十。	差別分別有六百六十。	are distinguished and analyzed into six hundred and sixty.
+['ZH_T30_1579_003:0294a01_6']	復次屢觀眾色。	復次屢觀眾色。	Furthermore, repeatedly observing various forms,
+['ZH_T30_1579_003:0294a01_11']	觀而復捨。	觀而復捨。	observing and then letting go,
+['ZH_T30_1579_003:0294a01_16', 'ZH_T30_1579_003:0294a02_6', 'ZH_T30_1579_003:0294a02_11']	故名為眼。🔽數數於此聲至能聞。🔽故名為耳。	故名為眼。 數數於此聲至能聞。 故名為耳。	is called the eye.
+['ZH_T30_1579_003:0294a03_2']	數由此故能嗅諸香。	數由此故能嗅諸香。	Repeatedly through this, one is able to smell various fragrances,
+['ZH_T30_1579_003:0294a03_7']	故名為鼻。	故名為鼻。	therefore it is called the nose.
+['ZH_T30_1579_003:0294a04_2']	能除飢羸數發言論表彰呼召。	能除飢羸數發言論表彰呼召。	Able to remove hunger and weakness, repeatedly engaging in verbal discussions and expressing oneself through speech,
+['ZH_T30_1579_003:0294a04_15']	故名為舌諸根所隨周遍積聚。	故名為舌諸根所隨周遍積聚。	is called the tongue. All the faculties follow it and gather around it,
+['ZH_T30_1579_003:0294a05_1']	故名為身。	故名為身。	therefore it is called the body.
+['ZH_T30_1579_003:0294a05_10']	愚夫長夜瑩飾藏護。	愚夫長夜瑩飾藏護。	Foolish people for a long time polish, conceal, and protect it,
+['ZH_T30_1579_003:0294a06_1']	執為己有計為我所。	執為己有計為我所。	grasping it as their own and considering it as their possessions.
+['ZH_T30_1579_003:0294a06_10']	我及我所又諸世間。	我及我所又諸世間。	As for the self and what belongs to the self, moreover, in the various worlds,
+['ZH_T30_1579_003:0294a06_19']	依此假立種種名想。	依此假立種種名想。	based on this, various names and concepts are provisionally established,
+['ZH_T30_1579_003:0294a07_4']	謂之有情。	謂之有情。	calling it a sentient being.
+['ZH_T30_1579_003:0294a07_17']	人與命者生者意生及儒童等。	人與命者生者意生及儒童等。	A person, a life, one who is born, one whose mind is born, and a youth, and so forth.
+['ZH_T30_1579_003:0294a08_3']	故名為意。	故名為意。	Therefore it is called the mind.
+['ZH_T30_1579_003:0294a08_16']	數可示現在其方所質量可增。	數可示現在其方所質量可增。	The present can be indicated in its location, and its quantity can increase,
+['ZH_T30_1579_003:0294a09_3']	故名為色。	故名為色。	therefore it is called form.
+['ZH_T30_1579_003:0294a09_12']	數宣數謝隨增異論。	數宣數謝隨增異論。	Repeatedly proclaiming and repeatedly apologizing, following the increase of different discussions.
+['ZH_T30_1579_003:0294a09_17']	故名為聲。	故名為聲。	Therefore, it is called sound.
+['ZH_T30_1579_003:0294a10_7']	離質潛形屢隨風轉。	離質潛形屢隨風轉。	Separating from substance and hiding form, often following the wind,
+['ZH_T30_1579_003:0294a10_12']	故名為香。	故名為香。	Therefore, it is called smell.
+['ZH_T30_1579_003:0294a11_3']	可以舌甞屢招疾苦。	可以舌甞屢招疾苦。	That which can be tasted by the tongue often attracts illness and suffering.
+['ZH_T30_1579_003:0294a11_8']	故名為味。	故名為味。	Therefore, it is called taste.
+['ZH_T30_1579_003:0294a11_17']	數可為身之所證得。	數可為身之所證得。	That which can often be realized by the body,
+['ZH_T30_1579_003:0294a12_16']	故名為觸遍能任持唯意境性故名為法。	故名為觸遍能任持唯意境性故名為法。	Therefore, it is called touch, which is able to universally support only the nature of the mental object, therefore it is called dharma.
+['ZH_T30_1579_003:0294a13_10']	如是等類諸法差別應知。	如是等類諸法差別應知。	Such categories of dharmas should be known.
+['ZH_T30_1579_003:0294a14_2']	此中重說嗢拕南曰。	此中重說嗢拕南曰。	Here, the Udana is recited again:
+['ZH_T30_1579_003:0294a15_0']	自性及所依　　所緣助伴業	自性及所依　　所緣助伴業	Nature, basis, object, assisting factors, and function,🔽By these five aspects,
+['ZH_T30_1579_003:0294a16_0']	由此五種門　　諸心差別轉	由此五種門　　諸心差別轉	The various minds turn.
+['ZH_T30_1579_003:0294a17_12']	此中顯由五法六識身差別轉。	此中顯由五法六識身差別轉。	Here, it shows that the six consciousnesses turn by means of five dharmas.
+['ZH_T30_1579_003:0294a17_17', 'ZH_T30_1579_003:0294a18_3', 'ZH_T30_1579_003:0294a18_7']	謂自性故。🔽所依故。🔽所緣故。	謂自性故。 所依故。 所緣故。	That is to say, by nature,🔽By basis,🔽By object,
+['ZH_T30_1579_003:0294a18_11']	助伴故。	助伴故。	By assisting factors,
+['ZH_T30_1579_003:0294a18_14']	業故。	業故。	And by function.
+['ZH_T30_1579_003:0294a19_8', 'ZH_T30_1579_003:0294a19_13']	又復應知蘊善巧攝。🔽界善巧攝。	又復應知蘊善巧攝。 界善巧攝。	Moreover, it should be known that the aggregates are included,🔽The realms are included,
+['ZH_T30_1579_003:0294a19_18', 'ZH_T30_1579_003:0294a20_4']	處善巧攝。🔽緣起善巧攝。	處善巧攝。 緣起善巧攝。	The sense bases are included,🔽Dependent origination is included,
+['ZH_T30_1579_003:0294a20_11']	處非處善巧攝。	處非處善巧攝。	And the principle of possibility and impossibility is included.
+['ZH_T30_1579_003:0294a20_16']	根善巧攝。	根善巧攝。	It is included in the skillful means of the faculties.
+['ZH_T30_1579_003:0294a21_9']	知諸佛語言九事所攝。	知諸佛語言九事所攝。	It is known that the Buddha's language is included in nine matters.
+['ZH_T30_1579_003:0294a21_14']	云何九事。	云何九事。	What are the nine matters?
+['ZH_T30_1579_003:0294a21_19']	一有情事。	一有情事。	First, the matter of sentient beings.
+['ZH_T30_1579_003:0294a22_4']	二受用事。	二受用事。	Second, the matter of enjoyment.
+['ZH_T30_1579_003:0294a22_9']	三生起事。	三生起事。	Third, the matter of arising.
+['ZH_T30_1579_003:0294a22_14']	四安住事。	四安住事。	Fourth, the matter of abiding.
+['ZH_T30_1579_003:0294a22_19']	五染淨事。	五染淨事。	Fifth, the matter of defilement and purity.
+['ZH_T30_1579_003:0294a23_3']	六差別事。	六差別事。	Sixth, the matter of distinctions.
+['ZH_T30_1579_003:0294a23_8']	七說者事。	七說者事。	Seventh, the matter of the speaker.
+['ZH_T30_1579_003:0294a23_13']	八所說事。	八所說事。	Eighth, the matter of what is spoken.
+['ZH_T30_1579_003:0294a23_18']	九眾會事。	九眾會事。	Ninth, the matter of the assembly.
+['ZH_T30_1579_003:0294a24_6']	有情事者謂五取蘊。	有情事者謂五取蘊。	As for the matter of sentient beings, it refers to the five appropriated aggregates.
+['ZH_T30_1579_003:0294a24_15']	受用事者謂十二處。	受用事者謂十二處。	As for the matter of enjoyment, it refers to the twelve sense bases.
+['ZH_T30_1579_003:0294a25_6']	生起事者謂十二分事。	生起事者謂十二分事。	As for the matter of arising, it refers to the twelve links of dependent arising.
+['ZH_T30_1579_003:0294a25_12']	緣起及緣生。	緣起及緣生。	Dependent origination and dependent arising.
+['ZH_T30_1579_003:0294a26_1']	安住事者謂四食。	安住事者謂四食。	As for the matter of abiding, it refers to the four kinds of food.
+['ZH_T30_1579_003:0294a26_10']	染淨事者謂四聖諦。	染淨事者謂四聖諦。	As for the matter of defilement and purity, it refers to the four noble truths.
+['ZH_T30_1579_003:0294a26_19']	差別事者謂無量界。	差別事者謂無量界。	As for the matter of distinctions, it refers to the immeasurable realms.
+['ZH_T30_1579_003:0294a27_10']	說者事者謂佛及彼弟子。	說者事者謂佛及彼弟子。	As for the matter of the speaker, it refers to the Buddha and his disciples.
+['ZH_T30_1579_003:0294a28_6']	所說事者謂四念住等菩提分法。	所說事者謂四念住等菩提分法。	As for the matter of what is spoken, it refers to the factors of enlightenment such as the four establishments of mindfulness.
+['ZH_T30_1579_003:0294a28_15']	眾會事者所謂八眾。	眾會事者所謂八眾。	As for the matter of the assembly, it refers to the eight assemblies.
+['ZH_T30_1579_003:0294a29_2']	一剎帝利眾。	一剎帝利眾。	First, the assembly of kṣatriyas.
+['ZH_T30_1579_003:0294a29_8']	二婆羅門眾。	二婆羅門眾。	Second, the assembly of brahmins.
+['ZH_T30_1579_003:0294a29_13']	三長者眾。	三長者眾。	third, the assembly of elders;
+['ZH_T30_1579_003:0294a29_18']	四沙門眾。	四沙門眾。	fourth, the assembly of śramaṇas;
+['ZH_T30_1579_003:0294b01_4']	五四大天王眾。	五四大天王眾。	fifth, the assembly of the four great heavenly kings;
+['ZH_T30_1579_003:0294b01_11']	六三十三天眾。	六三十三天眾。	sixth, the assembly of the thirty-three celestials;
+['ZH_T30_1579_003:0294b01_17']	七焰摩天眾。	七焰摩天眾。	seventh, the assembly of the Yāma gods;
+['ZH_T30_1579_003:0294b02_3']	八梵天眾。	八梵天眾。	eighth, the assembly of the Brahmā gods.
+['ZH_T30_1579_003:0294b02_9']	又嗢拕南曰。	又嗢拕南曰。	Moreover, the uddāna says:
+['ZH_T30_1579_003:0294b03_0']	色聚相應品　　世相及與緣	色聚相應品　　世相及與緣	Chapter on the Aggregates of Form, Corresponding to the Characteristics of the World and Conditions,
+['ZH_T30_1579_003:0294b04_0']	善等差別門　　巧便事為後	善等差別門　　巧便事為後	The Gate of Distinctions of Wholesome and So Forth, Skillful Means as the Last.🔽Here is the corrected and aligned text:
+['ZH_T30_1579_003:0294b05_100']	瑜伽師地論卷第三	瑜伽師地論卷第三	Yogācārabhūmi Śāstra, Scroll 3

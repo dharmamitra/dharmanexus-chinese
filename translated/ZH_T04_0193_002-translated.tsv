@@ -1,0 +1,917 @@
+segmentnr	original	analyzed	translated
+['ZH_T04_0193_002:0063a15_0']	佛本行經卷第二一名佛本行讚傳	佛本行經卷第二一名佛本行讚傳	The Sutra of the Past Activities of the Buddha, Scroll 2, also known as the Biography of the Past Activities of the Buddha
+['ZH_T04_0193_002:0063a17_0']	宋涼州沙門釋寶雲譯	宋涼州沙門釋寶雲譯	Translated by Shi Baojun, a monk from Liangzhou in the Song Dynasty
+['ZH_T04_0193_002:0063a18_0']	8 與眾婇女遊居品與眾婇女遊居品第八	8 與眾婇女遊居品與眾婇女遊居品第八	Chapter 8: Amusing and Dwelling with the Maidens
+['ZH_T04_0193_002:0063a19_11']	種種嚴飾，　　猶如天宮；	種種嚴飾，　　猶如天宮；	Various adornments, like a heavenly palace;
+['ZH_T04_0193_002:0063a20_4']	　　春秋冬夏，四時各異。	　　春秋冬夏，四時各異。	Spring, autumn, winter, and summer, the four seasons are different.
+['ZH_T04_0193_002:0063a20_18']	　　應節修治，　　遊觀園池；	　　應節修治，　　遊觀園池；	In accordance with the season, the gardens and ponds are repaired and enjoyed;
+['ZH_T04_0193_002:0063a21_11']	亦如天帝，　　施安樹林。	亦如天帝，　　施安樹林。	It is also like the Heavenly Emperor, providing peace and comfort in the forests.
+['ZH_T04_0193_002:0063a22_4']	　　太子因遊，至園池觀；	　　太子因遊，至園池觀；	The prince, while wandering, arrives at the garden and pond to observe;
+['ZH_T04_0193_002:0063a22_18']	　　婇女圍繞，　　如月處星。	　　婇女圍繞，　　如月處星。	The maidens surround him, like the moon among the stars.
+['ZH_T04_0193_002:0063a23_11']	於是眾女，　　晝夜作樂；	於是眾女，　　晝夜作樂；	Then, the maidens, day and night, make music;
+['ZH_T04_0193_002:0063a24_4']	　　謿調戲笑，過數年已。	　　謿調戲笑，過數年已。	Chattering and laughing, passing many years.
+['ZH_T04_0193_002:0063a24_18']	　　或娛樂之，　　更造新術；	　　或娛樂之，　　更造新術；	Sometimes entertaining him, creating new techniques;
+['ZH_T04_0193_002:0063a25_11']	或現己身，　　或時書頌。	或現己身，　　或時書頌。	Sometimes revealing their own bodies, sometimes writing verses.
+['ZH_T04_0193_002:0063a26_4']	　　或圖廟畫，或有刻鏤；	　　或圖廟畫，或有刻鏤；	Sometimes painting in temples, sometimes carving;
+['ZH_T04_0193_002:0063a26_18']	　　或有以泥，　　為若干像。	　　或有以泥，　　為若干像。	Sometimes using clay, creating various images.
+['ZH_T04_0193_002:0063a27_11', 'ZH_T04_0193_002:0063a28_4', 'ZH_T04_0193_002:0063a28_18']	或有結花，　　以為敷飾；🔽　　或㽵面目，或有塗香。🔽　　或以鏡照，　　或櫛梳頭；	或有結花，　　以為敷飾； 　　或㽵面目，或有塗香。 　　或以鏡照，　　或櫛梳頭；	Some wove flowers to make decorations;🔽Some applied makeup to their faces, some smeared on perfume.🔽Some used mirrors to reflect, some combed their hair;
+['ZH_T04_0193_002:0063a29_11']	或黛黑眉，　　或丹口脣。	或黛黑眉，　　或丹口脣。	Some used black eyebrow pencil, some applied red lipstick.
+['ZH_T04_0193_002:0063b01_4', 'ZH_T04_0193_002:0063b01_18']	　　或復有女，華相打擲；🔽　　或戲笑者，　　或悲歎泣。	　　或復有女，華相打擲； 　　或戲笑者，　　或悲歎泣。	Some women threw flowers at each other;🔽Some played and laughed, some wept with sorrow.
+['ZH_T04_0193_002:0063b02_11']	或口詠歌，　　可聽可樂；	或口詠歌，　　可聽可樂；	Some sang songs with their mouths, pleasing to hear and delightful;
+['ZH_T04_0193_002:0063b03_4']	　　猶如華中，眾蜜蜂鳴。	　　猶如華中，眾蜜蜂鳴。	Like the buzzing of bees among flowers.
+['ZH_T04_0193_002:0063b03_18']	　　眾女求浴，　　太子聽從；	　　眾女求浴，　　太子聽從；	The women sought to bathe, and the prince listened and complied;
+['ZH_T04_0193_002:0063b04_11']	無憂樹間，　　丹華之池。	無憂樹間，　　丹華之池。	Between the ashoka trees, in the red flower pond.
+['ZH_T04_0193_002:0063b05_4']	　　圓光文飾，照樹金色；	　　圓光文飾，照樹金色；	The circular light patterns illuminated the golden-colored trees;
+['ZH_T04_0193_002:0063b05_18']	　　猶金在火，　　耀耀林樹。	　　猶金在火，　　耀耀林樹。	Like gold in fire, shining on the forest trees.
+['ZH_T04_0193_002:0063b06_11']	諸樹傾屈，　　散供眾花；	諸樹傾屈，　　散供眾花；	The trees bent over, scattering offerings of various flowers;
+['ZH_T04_0193_002:0063b07_4']	　　眾鳥相和，悲哀而鳴。	　　眾鳥相和，悲哀而鳴。	The birds harmonized with each other, crying out in sorrow.
+['ZH_T04_0193_002:0063b07_18']	　　女笑鳥鳴，　　震聲遠聞；	　　女笑鳥鳴，　　震聲遠聞；	The women's laughter and the birds' cries resounded far and wide;
+['ZH_T04_0193_002:0063b08_11']	五音俱作，　　感動人情。	五音俱作，　　感動人情。	The five tones all sounded together, moving people's emotions.
+['ZH_T04_0193_002:0063b09_4']	　　太子入池，水至其腰；	　　太子入池，水至其腰；	The prince entered the pond, the water reaching his waist;
+['ZH_T04_0193_002:0063b09_18']	　　諸女圍繞，　　明耀浴池。	　　諸女圍繞，　　明耀浴池。	The women surrounded him, illuminating the bathing pond.
+['ZH_T04_0193_002:0063b10_11']	猶如明珠，　　繞寶山王；	猶如明珠，　　繞寶山王；	Like a bright pearl, circling the king of jeweled mountains;
+['ZH_T04_0193_002:0063b11_4']	　　妙相顯赫，其好巍巍。	　　妙相顯赫，其好巍巍。	His wondrous features were radiant, his beauty towering.
+['ZH_T04_0193_002:0063b11_18']	　　眾女水中，　　種種戲笑；	　　眾女水中，　　種種戲笑；	The many women in the water, laughing and playing in various ways;
+['ZH_T04_0193_002:0063b12_11']	或相湮沒，　　或水相灑。	或相湮沒，　　或水相灑。	Sometimes submerging each other, sometimes splashing water on each other.
+['ZH_T04_0193_002:0063b13_4']	　　或有弄華，以華相擲；	　　或有弄華，以華相擲；	Some played with flowers, throwing flowers at each other;
+['ZH_T04_0193_002:0063b13_18']	　　或入水底，　　良久乃出。	　　或入水底，　　良久乃出。	Some entered the water and emerged only after a long while.
+['ZH_T04_0193_002:0063b14_11']	或於水中，　　現其眾華；	或於水中，　　現其眾華；	Some in the water revealed their various flowers;
+['ZH_T04_0193_002:0063b15_4']	　　或復於水，但現其手。	　　或復於水，但現其手。	Some in the water only revealed their hands.
+['ZH_T04_0193_002:0063b15_18']	　　眾女池中，　　光耀眾華；	　　眾女池中，　　光耀眾華；	The many women in the pond, illuminating the many flowers;
+['ZH_T04_0193_002:0063b16_11']	令眾藕花，　　失其精光。	令眾藕花，　　失其精光。	Causing the many lotus flowers to lose their luster.
+['ZH_T04_0193_002:0063b17_4']	　　或有攀緣，太子手臂；	　　或有攀緣，太子手臂；	Some clung to the prince's arms;
+['ZH_T04_0193_002:0063b17_18', 'ZH_T04_0193_002:0063b18_11']	　　猶如雜花，　　纏著金柱。🔽女粧塗香，　　水洗皆墮；	　　猶如雜花，　　纏著金柱。 女粧塗香，　　水洗皆墮；	Like various flowers entwining a golden pillar.🔽The women's painted and perfumed water washed away;
+['ZH_T04_0193_002:0063b19_4']	　　栴檀木櫁，水成香池。	　　栴檀木櫁，水成香池。	The sandalwood and agarwood became fragrant ponds in the water.
+['ZH_T04_0193_002:0063b19_18']	　　如是戲笑，　　難可計數；	　　如是戲笑，　　難可計數；	Such games and laughter were innumerable;
+['ZH_T04_0193_002:0063b20_11']	六萬婇女，　　圍繞其側。	六萬婇女，　　圍繞其側。	Sixty thousand court ladies surrounded him on all sides.
+['ZH_T04_0193_002:0063b21_4']	　　太子於中，如天帝釋；	　　太子於中，如天帝釋；	The prince was like Indra among them,
+['ZH_T04_0193_002:0063b21_18']	　　於天浴池，　　與天女俱。	　　於天浴池，　　與天女俱。	In a heavenly bathing pond, together with celestial maidens.
+['ZH_T04_0193_002:0063b22_11']	於是皆乘，　　金銀寶船；	於是皆乘，　　金銀寶船；	They all rode golden and silver jeweled boats;
+['ZH_T04_0193_002:0063b23_4']	　　遊戲池中，如天乘雲。	　　遊戲池中，如天乘雲。	Playing in the pond, like the gods riding on clouds.
+['ZH_T04_0193_002:0063b23_18']	　　太子復乘，　　七寶之船；	　　太子復乘，　　七寶之船；	The prince also rode a boat made of the seven treasures;
+['ZH_T04_0193_002:0063b24_11']	妃在其側，　　俱共入池。	妃在其側，　　俱共入池。	His consort was by his side, and they both entered the pond together.
+['ZH_T04_0193_002:0063b25_4']	　　色身金照，光各一丈；	　　色身金照，光各一丈；	His physical body was golden, shining with light each ten zhang;
+['ZH_T04_0193_002:0063b25_18']	　　如日乘船，　　莫不驚愕。	　　如日乘船，　　莫不驚愕。	Like the sun riding in a boat, none were not startled.
+['ZH_T04_0193_002:0063b26_11']	謂是日出，　　眾華開張；	謂是日出，　　眾華開張；	They said it was the sun rising, with myriad flowers blooming;
+['ZH_T04_0193_002:0063b27_4']	　　明重光照，喻日天子。	　　明重光照，喻日天子。	The bright double light shining, likened to the sun god.
+['ZH_T04_0193_002:0063b27_18']	　　太子出池，　　諸女更嚴；	　　太子出池，　　諸女更嚴；	When the prince emerged from the pond, the maidens adorned themselves again;
+['ZH_T04_0193_002:0063b28_11']	作眾伎樂，　　行甘蔗漿。	作眾伎樂，　　行甘蔗漿。	Making various kinds of music, they served sugarcane juice.
+['ZH_T04_0193_002:0063b29_4']	　　諸女飲已，跳踉舞戲；	　　諸女飲已，跳踉舞戲；	After the maidens drank, they jumped and danced playfully;
+['ZH_T04_0193_002:0063b29_18', 'ZH_T04_0193_002:0063c01_11']	　　時日便冥，　　向月燭明。🔽欲惑太子，　　意終不傾；	　　時日便冥，　　向月燭明。 欲惑太子，　　意終不傾；	At that time, the sun had already set, and they turned to the moon for illumination.🔽They wanted to seduce the prince, but his mind never wavered;
+['ZH_T04_0193_002:0063c02_4']	　　欲使其貪，意終不著。	　　欲使其貪，意終不著。	They wanted him to be greedy, but his mind never attached itself.
+['ZH_T04_0193_002:0063c02_18']	　　慧燈甚明，　　終無能滅；	　　慧燈甚明，　　終無能滅；	The lamp of wisdom was very bright, and no one could extinguish it;
+['ZH_T04_0193_002:0063c03_11']	猶明珠燈，　　不損飛蛾。	猶明珠燈，　　不損飛蛾。	It was like the light of a bright pearl, not harming the flying moths.
+['ZH_T04_0193_002:0063c04_4']	　　斯須至冥，眾女睡眠；	　　斯須至冥，眾女睡眠；	In an instant, it became dark, and the women fell asleep;
+['ZH_T04_0193_002:0063c04_18']	　　太子妃寐，　　夢覩憂變。	　　太子妃寐，　　夢覩憂變。	The prince's wife slept and dreamed of sorrowful changes.
+['ZH_T04_0193_002:0063c05_11']	太子出家，　　捨宮婇女；	太子出家，　　捨宮婇女；	The prince left home, abandoning the palace and court ladies;
+['ZH_T04_0193_002:0063c06_4']	　　逃入山澤，妃獨逐走。	　　逃入山澤，妃獨逐走。	He fled into the mountains and wilderness, and the wife alone chased after him.
+['ZH_T04_0193_002:0063c06_11']	　　從後求哀：	　　從後求哀：	She followed behind and begged for mercy:
+['ZH_T04_0193_002:0063c07_11']	　　「莫相捐棄，澡手見授，　　今棄付誰？	　　「莫相捐棄，澡手見授，　　今棄付誰？	Do not abandon me. I washed my hands and offered them to you. Now, whom shall I be given to?
+['ZH_T04_0193_002:0063c08_4']	　　惟今自察，無量過失；	　　惟今自察，無量過失；	Now, I only observe myself, with countless faults;
+['ZH_T04_0193_002:0063c08_18']	　　願微重榮，　　莫生相捨。	　　願微重榮，　　莫生相捨。	I wish for a slight重榮, do not give rise to abandoning each other.
+['ZH_T04_0193_002:0063c09_11']	獨入山澤，　　勤修眾德；	獨入山澤，　　勤修眾德；	Alone entering the mountains and wilderness, diligently cultivating various virtues;
+['ZH_T04_0193_002:0063c10_4']	　　何恡於妾，致大酷惡。	　　何恡於妾，致大酷惡。	How can you begrudge this concubine, causing great cruelty?
+['ZH_T04_0193_002:0063c10_18']	　　古賢出學，　　亦復好妃；	　　古賢出學，　　亦復好妃；	The ancient sages, when leaving home, also had beloved consorts;
+['ZH_T04_0193_002:0063c11_11']	唯垂愍傷，　　願聽侍從。	唯垂愍傷，　　願聽侍從。	Please have compassion and allow me to attend and follow.
+['ZH_T04_0193_002:0063c12_4']	」　　追呼不息，太子入林；	」　　追呼不息，太子入林；	Following and calling out unceasingly, the prince entered the forest;
+['ZH_T04_0193_002:0063c12_18']	　　心意發狂，　　樹樹行求。	　　心意發狂，　　樹樹行求。	His mind and thoughts became crazed, searching among the trees.
+['ZH_T04_0193_002:0063c13_4']	㘁向樹曰：	㘁向樹曰：	He wailed towards a tree, saying:
+['ZH_T04_0193_002:0063c13_19']	　　「汝獨無憂，　　我獨懷惱；	　　「汝獨無憂，　　我獨懷惱；	You alone have no worries, I alone bear distress;
+['ZH_T04_0193_002:0063c14_4']	示我太子。	示我太子。	Show me the prince.
+['ZH_T04_0193_002:0063c14_19']	」　　仰見樹上，　　有赤觜鳥；	」　　仰見樹上，　　有赤觜鳥；	Looking up, he saw a bird with a red beak in the tree;
+['ZH_T04_0193_002:0063c15_4']	向鳥歎苦：	向鳥歎苦：	He lamented in suffering towards the bird:
+['ZH_T04_0193_002:0063c15_12']	　　「我失所怙。	　　「我失所怙。	I have lost my support.
+['ZH_T04_0193_002:0063c16_4']	　　汝聲似之，留聲與汝；	　　汝聲似之，留聲與汝；	Your voice resembles his, stay and give me your voice;
+['ZH_T04_0193_002:0063c16_18']	　　願以鳴聲，　　除我心惱。	　　願以鳴聲，　　除我心惱。	I wish to use your cry to remove the distress in my heart.
+['ZH_T04_0193_002:0063c17_4']	」又見樹曰：	」又見樹曰：	He also saw a tree and said:
+['ZH_T04_0193_002:0063c17_12']	　　「汝何不慈？	　　「汝何不慈？	How can you not be compassionate?
+['ZH_T04_0193_002:0063c18_4']	　　吾厄夫怙，迷行犯觸。	　　吾厄夫怙，迷行犯觸。	I am in distress, my husband is my support, I am confused and have offended you.
+['ZH_T04_0193_002:0063c18_18']	　　賢夫所棄，　　宜見愍傷；	　　賢夫所棄，　　宜見愍傷；	The wise husband has abandoned me, you should have compassion;
+['ZH_T04_0193_002:0063c19_11']	如何見笑，　　華盡開敷。	如何見笑，　　華盡開敷。	How can you laugh, with the flowers all blooming?
+['ZH_T04_0193_002:0063c20_4']	」　　見雙頭鵒，相將俱飛；	」　　見雙頭鵒，相將俱飛；	He saw a pair of parrots flying together;
+['ZH_T04_0193_002:0063c20_18']	　　益增憂苦，　　流泣且言：	　　益增憂苦，　　流泣且言：	My sorrow and distress increase, and I weep and say:
+['ZH_T04_0193_002:0063c21_12']	「唯願示我，　　懷重慊者；	「唯願示我，　　懷重慊者；	Please show me, I bear a heavy grievance;
+['ZH_T04_0193_002:0063c22_4']	　　令我覩之，失之我亡。	　　令我覩之，失之我亡。	Let me see it, if I lose it I will die.
+['ZH_T04_0193_002:0063c22_18']	　　樹華散我，　　更耗我心；	　　樹華散我，　　更耗我心；	The tree flowers scatter me, and further waste my heart;
+['ZH_T04_0193_002:0063c23_11']	唯汝仁鳥，　　莫嫉快我。	唯汝仁鳥，　　莫嫉快我。	Only you, kind bird, do not envy and delight in me.
+['ZH_T04_0193_002:0063c24_4']	　　當散我心，好喜伎樂；	　　當散我心，好喜伎樂；	You should scatter my heart, which delights in music;
+['ZH_T04_0193_002:0063c24_18']	　　未曾相犯，　　何為必爾。	　　未曾相犯，　　何為必爾。	We have never offended each other, why must it be so?
+['ZH_T04_0193_002:0063c25_11']	為風所動，　　樹枝傾曲；	為風所動，　　樹枝傾曲；	Moved by the wind, the tree branches bend and curve;
+['ZH_T04_0193_002:0063c26_4']	　　猶如以掌，擊打於我。	　　猶如以掌，擊打於我。	It is as if a palm is striking me.
+['ZH_T04_0193_002:0063c26_18']	　　鳥獸角視，　　爾不遣夫；	　　鳥獸角視，　　爾不遣夫；	The birds and beasts watch with horns, you do not send away the husband;
+['ZH_T04_0193_002:0063c27_11']	水聲如罵，　　我不任治。	水聲如罵，　　我不任治。	The sound of the water is like scolding, I am not fit to govern.
+['ZH_T04_0193_002:0063c28_4']	」　　太子不還，便悲歎曰：	」　　太子不還，便悲歎曰：	The prince not returning, he then sighed and said:
+['ZH_T04_0193_002:0063c28_19']	　　「留目紺蓮，　　留超與應。	　　「留目紺蓮，　　留超與應。	Leave the eyes, dark blue lotuses, leave the surpassing and responsive;
+['ZH_T04_0193_002:0063c29_11']	留笑華敷，　　留顏金華；	留笑華敷，　　留顏金華；	Leave the blooming flower of laughter, leave the golden flower of the face;
+['ZH_T04_0193_002:0064a01_4']	　　留髮辟兵，我見遺忽？	　　留髮辟兵，我見遺忽？	Leave the hair that wards off weapons, I see the sudden abandonment?
+['ZH_T04_0193_002:0064a02_11']	」　　口言未止，　　忽見太子，於林樹間，　　便前搏曰：	」　　口言未止，　　忽見太子，於林樹間，　　便前搏曰：	Before he finished speaking, he suddenly saw the prince in the forest, and rushed forward, saying:
+['ZH_T04_0193_002:0064a02_19']	　　「何為相棄？	　　「何為相棄？	Why did you abandon me?
+['ZH_T04_0193_002:0064a03_4']	」語頃驚覺；	」語頃驚覺；	 In an instant, he woke up in shock;
+['ZH_T04_0193_002:0064a03_18']	　　抱持太子，　　慚懼戰𤴨。	　　抱持太子，　　慚懼戰𤴨。	Embracing the prince, he was ashamed, fearful, and trembling.
+['ZH_T04_0193_002:0064a04_4']	太子問曰：	太子問曰：	The prince asked:
+['ZH_T04_0193_002:0064a04_12']	　　「何為如是？	　　「何為如是？	Why are you like this?
+['ZH_T04_0193_002:0064a04_20']	」　　便說夢事。	」　　便說夢事。	He then told the dream events.
+['ZH_T04_0193_002:0064a05_4']	太子報曰：	太子報曰：	The prince replied:
+['ZH_T04_0193_002:0064a05_12']	　　「此非為汝？	　　「此非為汝？	This is not for you.
+['ZH_T04_0193_002:0064a06_4']	　　吾無所去，誰往誰返？	　　吾無所去，誰往誰返？	I have nowhere to go, who goes and who returns?
+['ZH_T04_0193_002:0064a06_18']	　　無有往者，　　亦無所至。	　　無有往者，　　亦無所至。	There is no one who goes, and nowhere to arrive.
+['ZH_T04_0193_002:0064a07_0']	汝諦覺是，　　色如聚沫，　　覺意如泡，	汝諦覺是，　　色如聚沫，　　覺意如泡，	You should realize this: form is like a mass of foam, the mind of awakening is like a bubble,
+['ZH_T04_0193_002:0064a08_0']	相如光炎，　　行如芭蕉，　　識法如幻，	相如光炎，　　行如芭蕉，　　識法如幻，	characteristics are like a mirage, actions are like a plantain tree, and the dharma of consciousness is like an illusion,
+['ZH_T04_0193_002:0064a09_4']	諸根無力；	諸根無力；	all faculties are powerless;
+['ZH_T04_0193_002:0064a09_18']	　　形體相因，　　猶如華合。	　　形體相因，　　猶如華合。	The physical form and characteristics depend on each other, like flowers in union.
+['ZH_T04_0193_002:0064a10_11']	覺世無常，　　譬如野馬；	覺世無常，　　譬如野馬；	Realizing the impermanence of the world, it is like a mirage;
+['ZH_T04_0193_002:0064a11_4']	　　吾我無有，亦無堅要。	　　吾我無有，亦無堅要。	The self does not exist, and there is nothing solid or essential.
+['ZH_T04_0193_002:0064a11_18']	　　合會有離，　　汝當諦覺。	　　合會有離，　　汝當諦覺。	Union will end in separation, you should contemplate this carefully.
+['ZH_T04_0193_002:0064a12_4']	」太子自思：	」太子自思：	The prince thought to himself:
+['ZH_T04_0193_002:0064a12_12']	　　「是吾出應。	　　「是吾出應。	This is my response.
+['ZH_T04_0193_002:0064a14_13']	」9 現憂懼品佛本行經現憂懼品第九王愍太子愁，　　勸令行遊觀；	」9 現憂懼品佛本行經現憂懼品第九王愍太子愁，　　勸令行遊觀；	Chapter 9: Demonstrating Anxiety The king pitied the prince's sorrow and encouraged him to go out for a stroll;
+['ZH_T04_0193_002:0064a15_13']	始出宮城門，　　霍然日出雲。	始出宮城門，　　霍然日出雲。	As soon as he left the palace gate, the sun broke through the clouds.
+['ZH_T04_0193_002:0064a16_13']	駕乘七寶車，　　眾德相自嚴；	駕乘七寶車，　　眾德相自嚴；	He rode in a seven-jeweled carriage, adorned with the marks of myriad virtues;
+['ZH_T04_0193_002:0064a17_13']	所將從貴重，　　如月與眾星。	所將從貴重，　　如月與眾星。	Those who accompanied him were of high status, like the moon with the stars.
+['ZH_T04_0193_002:0064a18_13']	功德充滿備，　　形容甚殊妙；	功德充滿備，　　形容甚殊妙；	His merits were fully complete, and his appearance was extremely extraordinary;
+['ZH_T04_0193_002:0064a19_13']	都勅國邑里，　　并除老病死。	都勅國邑里，　　并除老病死。	He ordered all the villages in the country, and also removed the old, sick, and dead.
+['ZH_T04_0193_002:0064a20_13']	窮凍困厄者，　　莫令現道側；	窮凍困厄者，　　莫令現道側；	Those who were poor, frozen, and in distress, do not let them appear on the side of the road;
+['ZH_T04_0193_002:0064a21_13']	各各盡力嚴，　　若干幢旛蓋。	各各盡力嚴，　　若干幢旛蓋。	Each of them exerted their utmost to adorn themselves, with various banners and canopies.
+['ZH_T04_0193_002:0064a22_13']	樓閣諸婦女，　　猶如天宮城；	樓閣諸婦女，　　猶如天宮城；	The towers and pavilions were filled with women, like the celestial palace;
+['ZH_T04_0193_002:0064a23_13']	嚴飾甚靡麗，　　莫不懷歡慶。	嚴飾甚靡麗，　　莫不懷歡慶。	The decorations were extremely luxurious, and everyone was filled with joy and celebration.
+['ZH_T04_0193_002:0064a24_13']	萬民皆歌詠，　　聲嚮震一國；	萬民皆歌詠，　　聲嚮震一國；	The myriad people all sang praises, their voices resounding throughout the country;
+['ZH_T04_0193_002:0064a25_13']	猶秋水歸海，　　諍競欲觀見。	猶秋水歸海，　　諍競欲觀見。	Like autumn waters returning to the ocean, they vied to go and see.
+['ZH_T04_0193_002:0064a26_13']	莊嚴易服飾，　　未竟便起走；	莊嚴易服飾，　　未竟便起走；	Adorning and changing their attire, before finishing they would rise and run;
+['ZH_T04_0193_002:0064a27_13']	或未及莊嚴，　　聞聲便馳往。	或未及莊嚴，　　聞聲便馳往。	Some had not yet finished adorning, hearing the sound they would rush forth.
+['ZH_T04_0193_002:0064a28_13']	於眾閣欄楯，　　側塞不相容；	於眾閣欄楯，　　側塞不相容；	In the crowd, the railings and balustrades were packed, unable to accommodate them;
+['ZH_T04_0193_002:0064a29_13']	或頭身自懸，　　猶如眾華垂。	或頭身自懸，　　猶如眾華垂。	Some hung their heads and bodies, like a multitude of flowers hanging down.
+['ZH_T04_0193_002:0064b01_13']	或有傾屈禮，　　各懷敬歎曰：	或有傾屈禮，　　各懷敬歎曰：	Some bowed in reverence, each harboring admiration, saying:
+['ZH_T04_0193_002:0064b02_6']	「當為世導師。	「當為世導師。	You will be the guide for the world.
+['ZH_T04_0193_002:0064b02_15']	」　　散眾花香瓔。	」　　散眾花香瓔。	Scattering flowers, incense, and necklaces,
+['ZH_T04_0193_002:0064b03_13']	見以皆愕觀，　　展轉相謂言：	見以皆愕觀，　　展轉相謂言：	Seeing this, they all looked on in astonishment, passing it on to each other, saying:
+['ZH_T04_0193_002:0064b04_6']	「此當為何神？	「此當為何神？	What deity is this?
+['ZH_T04_0193_002:0064b05_0']	或云是天帝，　　魔王或梵王，	或云是天帝，　　魔王或梵王，	Some said it was the Heavenly Emperor, the Demon King, or the Brahma King,
+['ZH_T04_0193_002:0064b06_13']	懷疑歡踊躍，　　歌歎若干種。	懷疑歡踊躍，　　歌歎若干種。	Filled with doubt, they joyfully leapt up, singing and praising in myriad ways.
+['ZH_T04_0193_002:0064b07_13']	諸天見太子，　　容飾導從出；	諸天見太子，　　容飾導從出；	The gods saw the prince, his appearance and retinue leaving;
+['ZH_T04_0193_002:0064b08_13']	猶如天帝釋，　　出遊觀之時。	猶如天帝釋，　　出遊觀之時。	It was like when the Heavenly Emperor Śakra goes out on an excursion to observe.
+['ZH_T04_0193_002:0064b09_13']	於是淨居天，　　欲興降瑞應；	於是淨居天，　　欲興降瑞應；	Then the gods of the Pure Abode wished to manifest auspicious omens;
+['ZH_T04_0193_002:0064b10_13']	如前佛見瑞，　　勸意出家學。	如前佛見瑞，　　勸意出家學。	Just as the previous Buddha saw the auspicious signs, he encouraged the intention to leave the household life and study.
+['ZH_T04_0193_002:0064b11_13', 'ZH_T04_0193_002:0064b12_13']	天卒化病人，　　喘臥在道側；🔽色惡眼睛黃，　　體氣口燋乾。	天卒化病人，　　喘臥在道側； 色惡眼睛黃，　　體氣口燋乾。	The gods suddenly transformed into a sick person, gasping and lying on the side of the road;🔽The complexion was ugly, the eyeballs were yellow, the body was swollen, and the mouth was parched and dry.
+['ZH_T04_0193_002:0064b13_13']	身腫腹膖脹，　　惡露諸不淨；	身腫腹膖脹，　　惡露諸不淨；	The body was swollen and bloated, with all kinds of impurities and filth;
+['ZH_T04_0193_002:0064b14_13']	宛轉而自塗，　　菩薩舉目見。	宛轉而自塗，　　菩薩舉目見。	Rolling around and smearing himself, the Bodhisattva raised his eyes to see.
+['ZH_T04_0193_002:0064b15_1']	問：	問：	He asked:
+['ZH_T04_0193_002:0064b15_7']	「是為何物？	「是為何物？	What is this?
+['ZH_T04_0193_002:0064b15_15']	　　醜惡難可視。	　　醜惡難可視。	It is ugly and difficult to look at.
+['ZH_T04_0193_002:0064b16_5']	」御者尋對曰：	」御者尋對曰：	The charioteer immediately replied:
+['ZH_T04_0193_002:0064b17_13']	　　「食飲不時節，四大錯不順，　　是名為病人。	　　「食飲不時節，四大錯不順，　　是名為病人。	Eating and drinking at irregular times, with the four elements out of balance, this is called a sick person.
+['ZH_T04_0193_002:0064b18_5']	」菩薩報之曰：	」菩薩報之曰：	The Bodhisattva said in response:
+['ZH_T04_0193_002:0064b18_14']	　　「視何不分減？	　　「視何不分減？	What can be divided and reduced when looking at this?
+['ZH_T04_0193_002:0064b19_5']	」御者復對曰：	」御者復對曰：	The charioteer replied again:
+['ZH_T04_0193_002:0064b20_13']	　　「是不可分代，都世無能免，　　疾病之危厄。	　　「是不可分代，都世無能免，　　疾病之危厄。	This cannot be divided or replaced. In the entire world, there is no one who can avoid the perilous calamity of illness.
+['ZH_T04_0193_002:0064b21_13']	四百四種病，　　大患如世間；	四百四種病，　　大患如世間；	The four hundred and four kinds of illnesses, great afflictions like in the world;
+['ZH_T04_0193_002:0064b22_13']	尊亦未免離，　　處大變難患。	尊亦未免離，　　處大變難患。	The Honored One has not yet escaped from them, dwelling in great changes and difficulties.🔽The prince then stopped the carriage,
+['ZH_T04_0193_002:0064b23_13']	」太子即停駕，　　慘然懷憂歎；	」太子即停駕，　　慘然懷憂歎；	sorrowful and worried,
+['ZH_T04_0193_002:0064b24_13']	聞病心驚痛，　　如象被毒箭。	聞病心驚痛，　　如象被毒箭。	hearing of the illness, his heart trembled in pain, like an elephant struck by poison.
+['ZH_T04_0193_002:0064b25_13']	見病觸其情，　　尋勅御迴車；	見病觸其情，　　尋勅御迴車；	Seeing the illness touch his feelings, he ordered the charioteer to turn the carriage back;
+['ZH_T04_0193_002:0064b26_13']	心懼懷悚然，　　如牛畏雷雹；	心懼懷悚然，　　如牛畏雷雹；	his heart was afraid and worried, like a cow fearing thunder and hail;
+['ZH_T04_0193_002:0064b27_13']	聞雷聲怖愕，　　驚懅體不安。	聞雷聲怖愕，　　驚懅體不安。	hearing the sound of thunder, he was startled and his body was uneasy.
+['ZH_T04_0193_002:0064b28_13', 'ZH_T04_0193_002:0064b29_0']	後時復更出，　　天化作老人；🔽頭如絲雪霧，　　皮緩肌體皺，	後時復更出，　　天化作老人； 頭如絲雪霧，　　皮緩肌體皺，	Later, he went out again, and the heavens transformed into an old man;🔽his head was like snow and mist, his loose skin and muscles were wrinkled,
+['ZH_T04_0193_002:0064c01_13']	戰如水中枝，　　身僂如張弓。	戰如水中枝，　　身僂如張弓。	he trembled like branches in the water, his body bent like a drawn bow.
+['ZH_T04_0193_002:0064c02_5']	太子見即問：	太子見即問：	The prince saw and asked:
+['ZH_T04_0193_002:0064c02_14']	　　「是名為何人？	　　「是名為何人？	What is the name of this person?
+['ZH_T04_0193_002:0064c03_5']	生便如是耶？	生便如是耶？	Is he born like this?
+['ZH_T04_0193_002:0064c03_13']	　　為有變者乎？	　　為有變者乎？	Or is there a change?
+['ZH_T04_0193_002:0064c04_5']	」御者因對曰：	」御者因對曰：	The charioteer then replied:
+['ZH_T04_0193_002:0064c05_5']	　　「始從身受胎，微起如泡沫；	　　「始從身受胎，微起如泡沫；	First, from the moment of conception in the body, it arises subtly like a bubble;
+['ZH_T04_0193_002:0064c06_13']	　　緣起五體見，分合成六情，　　然後乃出生。	　　緣起五體見，分合成六情，　　然後乃出生。	Dependent arising is seen in the five parts, which combine to form the six sense faculties, and then it is born.
+['ZH_T04_0193_002:0064c07_13']	小飲母乳活，　　次長乃食穀；	小飲母乳活，　　次長乃食穀；	Nourished by the mother's milk, it grows and then eats grains;
+['ZH_T04_0193_002:0064c08_0']	轉緣地而行，　　初語如鸚鵡，	轉緣地而行，　　初語如鸚鵡，	It turns to walk on the ground, its first words are like a parrot's,
+['ZH_T04_0193_002:0064c09_13']	爾乃立行走，　　體貌形容成；	爾乃立行走，　　體貌形容成；	Then it stands and runs, its body and appearance are formed;
+['ZH_T04_0193_002:0064c10_13']	諸根轉成熟，　　以故名曰老。	諸根轉成熟，　　以故名曰老。	The faculties gradually mature, and therefore it is called old.
+['ZH_T04_0193_002:0064c11_0']	是名天使召，　　顯教悟眾生，	是名天使召，　　顯教悟眾生，	This is called the messenger's summons, manifesting the teachings to enlighten sentient beings,
+['ZH_T04_0193_002:0064c12_13']	形衰失歡慘，　　如花被毒霜。	形衰失歡慘，　　如花被毒霜。	The form declines and loses joy and sorrow, like a flower struck by poisonous frost.
+['ZH_T04_0193_002:0064c13_13']	面如月遭蝕，　　心猶日雲霧；	面如月遭蝕，　　心猶日雲霧；	The face is like the moon being eclipsed, the mind is like the sun covered by clouds and fog;
+['ZH_T04_0193_002:0064c14_13']	壯進力枯竭，　　如夏沙淋水。	壯進力枯竭，　　如夏沙淋水。	The strength of youth and progress dries up, like summer sand soaking up water.
+['ZH_T04_0193_002:0064c15_13']	竊人志思才，　　無形如來賊；	竊人志思才，　　無形如來賊；	Stealing people's aspirations and abilities, the formless thief comes;
+['ZH_T04_0193_002:0064c16_13']	心惱失聽識，　　猶野火燒澤。	心惱失聽識，　　猶野火燒澤。	The mind is troubled and loses hearing and cognition, like a wild fire burning a marsh.
+['ZH_T04_0193_002:0064c17_13']	迫迮如壓油，　　飲其體精氣；	迫迮如壓油，　　飲其體精氣；	It is like pressing oil, drinking the essence of the body;
+['ZH_T04_0193_002:0064c18_13']	懷變令形異，　　是者名為老。	懷變令形異，　　是者名為老。	Causing changes and transforming the form, this is called old age.
+['ZH_T04_0193_002:0064c19_13']	」太子視良久，　　悵然而長歎：	」太子視良久，　　悵然而長歎：	The prince looked for a long time, sighing deeply,
+['ZH_T04_0193_002:0064c20_14']	「老病大石山，　　強磨碎眾生。	「老病大石山，　　強磨碎眾生。	The great mountain of old age and sickness strongly grinds sentient beings.
+['ZH_T04_0193_002:0064c21_13']	世普遭苦患，　　何可暢意安？	世普遭苦患，　　何可暢意安？	The world is universally afflicted by suffering, how can one be at ease?
+['ZH_T04_0193_002:0064c22_13']	當設方便逃，　　如避強害寇。	當設方便逃，　　如避強害寇。	One should devise a means of escape, like avoiding a strong and harmful enemy.
+['ZH_T04_0193_002:0064c23_0']	後復出遊見，　　天化命過人，	後復出遊見，　　天化命過人，	Later, he went out again and saw a person who had been transformed by heaven and had passed away.
+['ZH_T04_0193_002:0064c24_13']	宗親隨喪車，　　被髮而啼哭。	宗親隨喪車，　　被髮而啼哭。	Relatives followed the funeral car, with disheveled hair and crying.
+['ZH_T04_0193_002:0064c25_2']	問曰：	問曰：	He asked, 
+['ZH_T04_0193_002:0064c25_7']	「是何等？	「是何等？	What is this?
+['ZH_T04_0193_002:0064c25_15']	　　以至誠示吾。	　　以至誠示吾。	Please show me with sincerity.
+['ZH_T04_0193_002:0064c26_13', 'ZH_T04_0193_002:0064c27_14']	」爾時諸侍御，　　便為具足說：🔽「日迫致枯老，　　病流精汁竭；	」爾時諸侍御，　　便為具足說： 「日迫致枯老，　　病流精汁竭；	At that time, the attendants fully explained for him,🔽The sun presses and brings about withering old age, the flow of illness exhausts the essence;
+['ZH_T04_0193_002:0064c28_13']	八節之利鋸，　　攦刻壽命樹。	八節之利鋸，　　攦刻壽命樹。	The sharp saw of the eight joints chops and carves the tree of life.
+['ZH_T04_0193_002:0064c29_13']	日月之斧利，　　晝夜恒斫斷；	日月之斧利，　　晝夜恒斫斷；	Cutting day and night without cease;🔽Meeting the wind of impermanence,
+['ZH_T04_0193_002:0065a01_13']	會遇無常風，　　隨靡崩顛墮。	會遇無常風，　　隨靡崩顛墮。	Toppling and falling, with no fixed direction.🔽Separated from parents,
+['ZH_T04_0193_002:0065a02_13']	與父母離別，　　隨行獨迷走；	與父母離別，　　隨行獨迷走；	Wandering alone, with no one to rely on;
+['ZH_T04_0193_002:0065a03_13']	妻子及兄弟，　　無親可恃怙。	妻子及兄弟，　　無親可恃怙。	No relatives or friends to depend on.
+['ZH_T04_0193_002:0065a04_13']	莫能設方便，　　圍繞而哭泣；	莫能設方便，　　圍繞而哭泣；	Unable to devise any means, they surround and weep;
+['ZH_T04_0193_002:0065a05_13']	追慕哀摧傷，　　歎其生時德。	追慕哀摧傷，　　歎其生時德。	Mourning and lamenting, praising his virtues when alive.
+['ZH_T04_0193_002:0065a06_6']	」「吾亦當爾乎？	」「吾亦當爾乎？	Will I also be like this?
+['ZH_T04_0193_002:0065a06_16']	」　　「都上尊莫疑。	」　　「都上尊莫疑。	Do not doubt, O Venerable One.
+['ZH_T04_0193_002:0065a07_6']	」「我亦離親耶？	」「我亦離親耶？	Will I also be separated from my loved ones?
+['ZH_T04_0193_002:0065a07_16']	」　　「爾尊必當別。	」　　「爾尊必當別。	O Venerable One, you will certainly part from them.🔽The world is held by death,
+['ZH_T04_0193_002:0065a08_13']	普世死所執，　　如何暢笑語？	普世死所執，　　如何暢笑語？	How can you speak with joy?🔽Out of shamelessness,
+['ZH_T04_0193_002:0065a09_13']	不知慚愧故，　　更歷無數死。	不知慚愧故，　　更歷無數死。	You will experience countless deaths again.🔽The long road of day and night,
+['ZH_T04_0193_002:0065a10_13']	晝夜之長塗，　　日月運不停；	晝夜之長塗，　　日月運不停；	The sun and moon never stop;🔽Old age, sickness, and suffering,
+['ZH_T04_0193_002:0065a11_13']	老枯病所毒，　　憂惱之牙齒。	老枯病所毒，　　憂惱之牙齒。	The teeth of worry and distress.
+['ZH_T04_0193_002:0065a12_13']	四時舌所舐，　　宿行速危嶮；	四時舌所舐，　　宿行速危嶮；	Fourth, the tongue that licks, the past actions quickly become dangerous and perilous;
+['ZH_T04_0193_002:0065a13_13']	一切莫能免，　　死猶龍所吞。	一切莫能免，　　死猶龍所吞。	All cannot escape, death is like being swallowed by a dragon.
+['ZH_T04_0193_002:0065a14_13']	普入盡傷折，　　都崩盡斷壞；	普入盡傷折，　　都崩盡斷壞；	Universally entering, all are injured and broken, completely collapsing, completely destroyed;
+['ZH_T04_0193_002:0065a15_13']	悉奪其所願，　　盡吞盡燒沒。	悉奪其所願，　　盡吞盡燒沒。	All are deprived of their wishes, completely swallowed, completely burned and submerged.
+['ZH_T04_0193_002:0065a16_13']	盡駈盡挫摧，　　莫有能禁遮；	盡駈盡挫摧，　　莫有能禁遮；	All are driven, all are crushed and destroyed, none can stop them;
+['ZH_T04_0193_002:0065a17_5']	尊當覺是死。	尊當覺是死。	The honored one should be aware of this death.
+['ZH_T04_0193_002:0065a17_14']	」　　聞已懷懼曰：	」　　聞已懷懼曰：	 Having heard this, he was afraid and said:
+['ZH_T04_0193_002:0065a18_14']	「處世之笑者，　　金石為笑耶？	「處世之笑者，　　金石為笑耶？	Those who laugh in the world, do gold and stone laugh?
+['ZH_T04_0193_002:0065a19_13']	」太子懷憂行，　　憶死如湯灼；	」太子懷憂行，　　憶死如湯灼；	 The prince walked with worry, remembering death as if scalded by boiling water;
+['ZH_T04_0193_002:0065a20_13']	猶如猛師子，　　處林遭野火。	猶如猛師子，　　處林遭野火。	Just like a fierce lion, dwelling in the forest encountering a wild fire.
+['ZH_T04_0193_002:0065a21_0']	思欲得免離，　　老病死熾炎，	思欲得免離，　　老病死熾炎，	Thinking of wanting to escape from the raging flames of old age, sickness, and death,
+['ZH_T04_0193_002:0065a22_13']	順道念不忘，　　方便欲求出。	順道念不忘，　　方便欲求出。	Contemplating the path in accordance with it, not forgetting, skillfully wanting to seek to leave.
+['ZH_T04_0193_002:0065a23_0']	天化作梵志，　　見形暴露憔，	天化作梵志，　　見形暴露憔，	The heavens transformed into a brahman, seeing the exposed emaciated form,
+['ZH_T04_0193_002:0065a24_0']	簇髮鬚眉長，　　被麤鹿皮衣，	簇髮鬚眉長，　　被麤鹿皮衣，	With disheveled hair and long eyebrows, wearing coarse deerskin clothes,
+['ZH_T04_0193_002:0065a25_13']	手持澡瓶水，　　又執三枝杖。	手持澡瓶水，　　又執三枝杖。	Holding a water pot in his hand, and also grasping a staff with three branches.
+['ZH_T04_0193_002:0065a26_5']	菩薩因問曰：	菩薩因問曰：	The Bodhisattva asked:
+['ZH_T04_0193_002:0065a26_14']	　　「仁修術願何？	　　「仁修術願何？	What do you wish to attain by practicing this art?
+['ZH_T04_0193_002:0065a27_5']	」尋聲應太子：	」尋聲應太子：	He immediately responded to the Crown Prince:
+['ZH_T04_0193_002:0065a28_0']	無病老死患，　　是處名天上，	無病老死患，　　是處名天上，	The place free from the afflictions of illness, old age, and death is called heaven.
+['ZH_T04_0193_002:0065a29_13']	今於此下種，　　生天廣大花。	今於此下種，　　生天廣大花。	Now, plant the seeds here, and the vast flowers of heaven will grow.
+['ZH_T04_0193_002:0065b01_13']	願求快安樂，　　萌芽天上生。	願求快安樂，　　萌芽天上生。	Wish for swift peace and bliss, and the sprouts will be born in heaven.
+['ZH_T04_0193_002:0065b02_5']	」太子歎吒曰：	」太子歎吒曰：	The Crown Prince sighed and said:
+['ZH_T04_0193_002:0065b03_13']	　　「斯士見計明，告御天離患，　　是亦吾所樂。	　　「斯士見計明，告御天離患，　　是亦吾所樂。	This man's views are clear. He tells the charioteer to go to heaven, free from suffering. This is also what I desire.
+['ZH_T04_0193_002:0065b04_0']	心惟懷一疑，　　為永恒不常，	心惟懷一疑，　　為永恒不常，	But I have one doubt in my mind: is it eternal or impermanent?
+['ZH_T04_0193_002:0065b05_13']	若必常安樂，　　可願生天耳！	若必常安樂，　　可願生天耳！	If it is truly eternally blissful, then I wish to be born in heaven!
+['ZH_T04_0193_002:0065b06_0']	天於上稱善，　　歎太子心淨，	天於上稱善，　　歎太子心淨，	Heaven praised from above, praising the Crown Prince's pure mind,
+['ZH_T04_0193_002:0065b07_13']	天上雖快樂，　　卒必當墮落。	天上雖快樂，　　卒必當墮落。	Although heaven is joyful, it will eventually fall.
+['ZH_T04_0193_002:0065b08_0']	食福眾善快，　　終無永長存，	食福眾善快，　　終無永長存，	Enjoying blessings and virtues will not last forever,
+['ZH_T04_0193_002:0065b09_13']	福盡即退墮，　　三塗受苦分。	福盡即退墮，　　三塗受苦分。	When merit is exhausted, one immediately falls back and degenerates, suffering in the three evil paths.
+['ZH_T04_0193_002:0065b10_13']	日有千光炎，　　福盡墮闇冥；	日有千光炎，　　福盡墮闇冥；	The sun has a thousand rays of light, but when merit is exhausted, it falls into darkness;
+['ZH_T04_0193_002:0065b11_13']	月滿盛照耀，　　月天墮失明。	月滿盛照耀，　　月天墮失明。	The full moon shines brightly, but the moon god loses his eyesight.
+['ZH_T04_0193_002:0065b12_13']	梵釋無數天，　　雖實天榮位；	梵釋無數天，　　雖實天榮位；	Brahma, Shakra, and countless gods, although they truly enjoy heavenly glory and status;
+['ZH_T04_0193_002:0065b13_13']	還為可傷物，　　乞匃餓鬼形。	還為可傷物，　　乞匃餓鬼形。	They are still objects of pity, with the form of a begging ghost.
+['ZH_T04_0193_002:0065b14_13']	昔為寶頂佛，　　燃燈立七日；	昔為寶頂佛，　　燃燈立七日；	In the past, as Buddha Ratnashikhin, I lit lamps for seven days;
+['ZH_T04_0193_002:0065b15_13']	始發意求佛，　　誓願甚堅固。	始發意求佛，　　誓願甚堅固。	I first gave rise to the intention to seek Buddhahood, and my vows were extremely firm.
+['ZH_T04_0193_002:0065b16_13']	即時魔心戰，　　猶如芭蕉樹；	即時魔心戰，　　猶如芭蕉樹；	At that moment, Mara's mind trembled, like a plantain tree;
+['ZH_T04_0193_002:0065b17_13']	亦令魔宮殿，　　震動不得安。	亦令魔宮殿，　　震動不得安。	He also caused Mara's palace to quake and be unsettled.
+['ZH_T04_0193_002:0065b18_13']	為三界所敬，　　今者不宜忘；	為三界所敬，　　今者不宜忘；	Respected by the three realms, it is not appropriate to forget now;
+['ZH_T04_0193_002:0065b19_13']	於無央數佛，　　修若干勞勤。	於無央數佛，　　修若干勞勤。	For countless Buddhas, I cultivated various hardships.
+['ZH_T04_0193_002:0065b20_13']	昔為施安佛，　　起七寶大塔；	昔為施安佛，　　起七寶大塔；	In the past, as Buddha Shian, I built a great stupa of the seven treasures;
+['ZH_T04_0193_002:0065b21_13']	猶如須彌山，　　峙立於地上。	猶如須彌山，　　峙立於地上。	Like Mount Sumeru, standing on the ground.
+['ZH_T04_0193_002:0065b22_13']	上錠光七華，　　受莂當為佛；	上錠光七華，　　受莂當為佛；	Receiving the prediction, will become a Buddha;🔽Scattered golden flowers on all Buddhas,
+['ZH_T04_0193_002:0065b23_13']	金華散普佛，　　終日願大乘。	金華散普佛，　　終日願大乘。	For a whole day, aspired to the Great Vehicle.🔽Also built temples and monasteries,
+['ZH_T04_0193_002:0065b24_13']	又為起廟寺，　　事蓮華上佛；	又為起廟寺，　　事蓮華上佛；	Served the Buddha on the lotus flower;
+['ZH_T04_0193_002:0065b25_13']	及餘無數佛，　　眾寶香花施。	及餘無數佛，　　眾寶香花施。	And other countless Buddhas, offered various treasures, incense, and flowers.
+['ZH_T04_0193_002:0065b26_13']	以天華供養，　　無數能仁佛；	以天華供養，　　無數能仁佛；	With heavenly flowers, made offerings to countless Śākyamuni Buddhas;
+['ZH_T04_0193_002:0065b27_13']	又供現義佛，　　華香畢已壽。	又供現義佛，　　華香畢已壽。	Also made offerings to the Buddha of Present Meaning, with flowers and incense, until the end of his life.
+['ZH_T04_0193_002:0065b28_13']	歌歎方面佛，　　乃至于七日；	歌歎方面佛，　　乃至于七日；	Praised the Buddhas in all directions, for seven days;
+['ZH_T04_0193_002:0065b29_13']	供養無見佛，　　盡己之形壽。	供養無見佛，　　盡己之形壽。	Made offerings to the Buddha of No Appearance, until the end of his life.
+['ZH_T04_0193_002:0065c01_13']	復施頂王佛，　　七寶名衣服；	復施頂王佛，　　七寶名衣服；	Again made offerings to King Buddha of the Peak, with seven treasures, famous garments;
+['ZH_T04_0193_002:0065c02_13']	布施無漏佛，　　求欲作沙門。	布施無漏佛，　　求欲作沙門。	Made offerings to the Buddha of No Outflows, wishing to become a śramaṇa.🔽Also to the Buddha of Light of Principle,
+['ZH_T04_0193_002:0065c03_13']	又於理光佛，　　入道持淨法；	又於理光佛，　　入道持淨法；	Entered the path and upheld the pure Dharma;
+['ZH_T04_0193_002:0065c04_13']	復於無限佛，　　剃頭作沙門。	復於無限佛，　　剃頭作沙門。	Again to the Buddha of No Limit, shaved his head and became a śramaṇa.
+['ZH_T04_0193_002:0065c05_13']	於數千諸佛，　　執勤勞謙敬；	於數千諸佛，　　執勤勞謙敬；	To countless thousands of Buddhas, upheld diligent respect;
+['ZH_T04_0193_002:0065c06_13']	有身餧餓虎，　　以妻息施與。	有身餧餓虎，　　以妻息施與。	Giving away one's body to feed a starving tiger, even one's wife and children.
+['ZH_T04_0193_002:0065c07_13']	捨眼身肌肉，　　手足心不亂；	捨眼身肌肉，　　手足心不亂；	Giving away one's eyes, body flesh and skin, hands and feet, without any disturbance in the mind;
+['ZH_T04_0193_002:0065c08_13']	如是不可計，　　頭施有千數。	如是不可計，　　頭施有千數。	Like this, countless times, giving away one's head a thousand times.
+['ZH_T04_0193_002:0065c09_13']	當施與之時，　　震動三千界；	當施與之時，　　震動三千界；	When making these offerings, the three thousand worlds tremble;
+['ZH_T04_0193_002:0065c10_13']	如是言說頃，　　現天壽終墮。	如是言說頃，　　現天壽終墮。	In this way, in the time it takes to speak, one manifests the end of the heavenly lifespan and falls.
+['ZH_T04_0193_002:0065c11_13']	後者悲嘆慕，　　展轉相憐傷；	後者悲嘆慕，　　展轉相憐傷；	The latter one grieves and yearns, turning to each other in sympathy;
+['ZH_T04_0193_002:0065c12_13']	下現八地獄，　　各十六官屬。	下現八地獄，　　各十六官屬。	Below, the eight hells manifest, each with sixteen officials and attendants.
+['ZH_T04_0193_002:0065c13_13']	忽有大聲出，　　普世皆當死。	忽有大聲出，　　普世皆當死。	Suddenly a great voice emerges, saying, The entire world will die.
+['ZH_T04_0193_002:0065c14_0']	從此轉進行，　　釋種女名鹿，	從此轉進行，　　釋種女名鹿，	From here, continuing on, there is a Śākya girl named Lu,
+['ZH_T04_0193_002:0065c15_13']	見太子如天，　　發大聲言曰：	見太子如天，　　發大聲言曰：	Who sees the prince like a god, and utters a great voice, saying:
+['ZH_T04_0193_002:0065c16_0']	「是父不懷憂，　　為母大安樂，	「是父不懷憂，　　為母大安樂，	If the father is not worried, for the mother there is great peace and joy,
+['ZH_T04_0193_002:0065c17_13']	其夫如此者，　　婦如逮無為。	其夫如此者，　　婦如逮無為。	If the husband is like this, the wife attains non-action.
+['ZH_T04_0193_002:0065c18_0']	如從天雲雷，　　聲入太子耳，	如從天雲雷，　　聲入太子耳，	Like the sound from the heavenly clouds and thunder, entering the prince's ears,
+['ZH_T04_0193_002:0065c19_13']	始聞無為音，　　猶疲勞得息。	始聞無為音，　　猶疲勞得息。	Having initially heard the sound of the unconditioned, it is as if the weary have found rest.
+['ZH_T04_0193_002:0065c20_13']	諸情已充足，　　意中如逮得；	諸情已充足，　　意中如逮得；	The faculties are already fully satisfied, and the mind is as if it has attained;
+['ZH_T04_0193_002:0065c21_13']	以己盛寶瓔，　　遙擲掛女頸。	以己盛寶瓔，　　遙擲掛女頸。	With one's own abundant jeweled necklace, one throws it from afar and hangs it around the woman's neck.
+['ZH_T04_0193_002:0065c22_13']	以聞無為喜，　　不以邪欲與；	以聞無為喜，　　不以邪欲與；	Hearing the joy of the unconditioned, not giving it through deviant desires;
+['ZH_T04_0193_002:0065c23_13']	勸心向無為，　　忽見化沙門。	勸心向無為，　　忽見化沙門。	Encouraging the mind to turn towards the unconditioned, suddenly seeing a transformed śramaṇa.
+['ZH_T04_0193_002:0065c24_13']	威儀戒寂靜，　　法服手持鉢；	威儀戒寂靜，　　法服手持鉢；	With dignified deportment, precepts, and tranquility, wearing the Dharma robes, and holding the alms bowl in hand;
+['ZH_T04_0193_002:0065c25_13']	太子告御者，　　迴車往行就。	太子告御者，　　迴車往行就。	The prince tells the charioteer, Turn the chariot and go to approach him.
+['ZH_T04_0193_002:0065c26_13']	太子問沙門，　　尋聲而應之：	太子問沙門，　　尋聲而應之：	The prince asks the śramaṇa, and in response to the sound,
+['ZH_T04_0193_002:0065c27_14']	「六情無諸漏，　　捨家轉離患。	「六情無諸漏，　　捨家轉離患。	The six faculties are free from defilements, abandoning the household and turning away from afflictions.
+['ZH_T04_0193_002:0065c28_13']	山巖空閑樹，　　止宿獨靜處；	山巖空閑樹，　　止宿獨靜處；	In mountain cliffs, empty quietude, and trees, dwelling alone in a still place;
+['ZH_T04_0193_002:0065c29_13']	乞匃自存活，　　太子願學此？	乞匃自存活，　　太子願學此？	Begging for one's own sustenance, does the prince wish to learn this?
+['ZH_T04_0193_002:0066a01_13']	我名曰沙門，　　欲求解脫故；	我名曰沙門，　　欲求解脫故；	My name is a śramaṇa, seeking liberation;
+['ZH_T04_0193_002:0066a02_13']	愛憎意俱除，　　諸情調心定。	愛憎意俱除，　　諸情調心定。	Love and hatred are both removed, the faculties are regulated, and the mind is in concentration.
+['ZH_T04_0193_002:0066a03_13']	無著捨吾我，　　眾事一切棄；	無著捨吾我，　　眾事一切棄；	Renouncing attachment and self, abandoning all things,
+['ZH_T04_0193_002:0066a04_0']	乘自守車輿，　　手執智慧弓，	乘自守車輿，　　手執智慧弓，	Riding his own guarded chariot, holding the bow of wisdom in his hand,
+['ZH_T04_0193_002:0066a05_13']	廣設諸方便，　　欲壞滅魔兵。	廣設諸方便，　　欲壞滅魔兵。	Extensively setting up various skillful means, wishing to destroy the demon army.
+['ZH_T04_0193_002:0066a06_13']	願無火無地，　　無水無風雲；	願無火無地，　　無水無風雲；	May there be no fire, no earth, no water, no wind or clouds;
+['ZH_T04_0193_002:0066a07_0']	無日月星辰，　　無雲空息患，	無日月星辰，　　無雲空息患，	No sun, moon, or stars, no clouds or empty sky, no worries or troubles,
+['ZH_T04_0193_002:0066a08_13']	無老死憂苦，　　亦無別離惱。	無老死憂苦，　　亦無別離惱。	No old age, death, sorrow or suffering, and no separation or distress.
+['ZH_T04_0193_002:0066a09_13']	甘露永乖滅，　　吾願求是處。	甘露永乖滅，　　吾願求是處。	The nectar is forever separated and extinguished, I wish to seek this place.
+['ZH_T04_0193_002:0066a10_13']	」說是言適竟，　　忽滅太子前。	」說是言適竟，　　忽滅太子前。	As soon as these words were spoken, he suddenly disappeared before the prince.
+['ZH_T04_0193_002:0066a11_0']	太子安庠行，　　光影照耀地，	太子安庠行，　　光影照耀地，	The prince walked calmly, his light and shadow illuminating the ground,
+['ZH_T04_0193_002:0066a12_5']	還至遊觀園；	還至遊觀園；	Returning to the pleasure garden;
+['ZH_T04_0193_002:0066a13_13']	　　心寂滅定安，意思若干種，　　眾善之方便。	　　心寂滅定安，意思若干種，　　眾善之方便。	His mind peacefully concentrated and at ease, his thoughts of various kinds, the skillful means of various wholesome deeds.
+['ZH_T04_0193_002:0066a15_13']	10 閻浮提樹蔭品佛本行經閻浮提樹蔭品第十菩薩於是時，　　心懷慘然還；	10 閻浮提樹蔭品佛本行經閻浮提樹蔭品第十菩薩於是時，　　心懷慘然還；	Chapter 10: The Shade of the Rose Apple Tree in Jambudvīpa Buddha's Past Life Chapter on the Shade of the Rose Apple Tree in Jambudvīpa At this time, the Bodhisattva, his mind filled with sadness, returned;
+['ZH_T04_0193_002:0066a16_13']	過到遊觀園，　　德曜猶天帝。	過到遊觀園，　　德曜猶天帝。	Passing by the pleasure garden, his virtue shone like Indra's.
+['ZH_T04_0193_002:0066a17_13']	諸仙聖之王，　　不以女色惑；	諸仙聖之王，　　不以女色惑；	The king of sages and saints was not deluded by the beauty of women;
+['ZH_T04_0193_002:0066a18_13', 'ZH_T04_0193_002:0066a19_13']	時見農田夫，　　興功耕犁作。🔽踐截蠕動蟲，　　即起悲痛心；	時見農田夫，　　興功耕犁作。 踐截蠕動蟲，　　即起悲痛心；	At that time, he saw farmers working in the fields, plowing and cultivating.🔽He trampled and cut insects, and immediately felt compassion;
+['ZH_T04_0193_002:0066a20_13']	如親傷赤子，　　愷然而長歎。	如親傷赤子，　　愷然而長歎。	It was like hurting his own infant, and he sighed deeply.
+['ZH_T04_0193_002:0066a21_13']	去其樹不遠，　　伏藏忽出現；	去其樹不遠，　　伏藏忽出現；	Not far from the tree, a hidden treasure suddenly appeared;
+['ZH_T04_0193_002:0066a22_13']	辟方一由旬，　　七寶光盈滿。	辟方一由旬，　　七寶光盈滿。	It was one yojana square, filled with the radiance of the seven treasures.
+['ZH_T04_0193_002:0066a23_13']	將從喜踊躍，　　取金畫寶器；	將從喜踊躍，　　取金畫寶器；	The retinue rejoiced and leaped, taking golden and jeweled vessels;
+['ZH_T04_0193_002:0066a24_13']	銘題古王號，　　某器某王造。	銘題古王號，　　某器某王造。	The inscriptions bore the names of ancient kings, stating that such and such vessels were made by such and such kings.
+['ZH_T04_0193_002:0066a25_13']	太子省銘題，　　過去轉輪王；	太子省銘題，　　過去轉輪王；	The prince examined the inscriptions, realizing they were of past wheel-turning kings;
+['ZH_T04_0193_002:0066a26_13']	八萬四千代，　　展轉相承習。	八萬四千代，　　展轉相承習。	Eighty-four thousand generations passed down from one to another.
+['ZH_T04_0193_002:0066a27_13']	視其七寶積，　　如見毒蛇虺；	視其七寶積，　　如見毒蛇虺；	Looking at the accumulated seven treasures, he saw them as poisonous snakes;
+['ZH_T04_0193_002:0066a28_13']	回顧花光顏，　　傾屈敬先代。	回顧花光顏，　　傾屈敬先代。	He turned to look at the radiant beauty, bowing and respecting the past.
+['ZH_T04_0193_002:0066a29_13']	泣出紺色睫，　　雨於花容顏；	泣出紺色睫，　　雨於花容顏；	Tears flowed from her dark-blue eyelashes, raining down on her flower-like face;
+['ZH_T04_0193_002:0066b01_13']	即舉普慈目，　　仰廣視空中。	即舉普慈目，　　仰廣視空中。	She then raised her all-compassionate eyes and looked up at the sky.
+['ZH_T04_0193_002:0066b02_13']	發情哀梵音，　　勅其左右曰：	發情哀梵音，　　勅其左右曰：	With an affectionate Brahma voice, she ordered her attendants, saying:
+['ZH_T04_0193_002:0066b03_14']	「往古諸釋尊，　　雄猛世憍慢；	「往古諸釋尊，　　雄猛世憍慢；	In the past, the Shakyas were heroic and prideful in the world;
+['ZH_T04_0193_002:0066b04_13']	捨國名天位，　　空獨至何方？	捨國名天位，　　空獨至何方？	They abandoned their country and the position of heavenly kings, and went alone to unknown places.
+['ZH_T04_0193_002:0066b05_13']	賦役勞四域，　　積聚無央數；	賦役勞四域，　　積聚無央數；	They levied taxes and labor on the four continents, accumulating countless treasures;
+['ZH_T04_0193_002:0066b06_13']	土地國寶藏，　　故字其主無。	土地國寶藏，　　故字其主無。	The land, the country, and the treasure vaults, the names and masters of which were long forgotten.
+['ZH_T04_0193_002:0066b07_13']	」心思計無常，　　趣閻浮樹下；	」心思計無常，　　趣閻浮樹下；	 She thought of impermanence and went to the foot of the Rose Apple Tree;
+['ZH_T04_0193_002:0066b08_13']	即舉金剛膊，　　置金色䏶上。	即舉金剛膊，　　置金色䏶上。	She then raised her adamantine arm and placed it on her golden thigh.
+['ZH_T04_0193_002:0066b09_13']	坐思堅不動，　　聚意專一定；	坐思堅不動，　　聚意專一定；	Sitting in meditation, unshakable, she concentrated her mind in single-pointed focus;
+['ZH_T04_0193_002:0066b10_13']	觀起滅合散，　　逮得一定住。	觀起滅合散，　　逮得一定住。	Observing the arising and ceasing, the coming together and dispersing, she attained a state of single-pointed abiding.
+['ZH_T04_0193_002:0066b11_13']	如江河沙數，　　諸佛不共意；	如江河沙數，　　諸佛不共意；	Like the number of sands in the Ganges, the minds of the Buddhas are not shared by others;
+['ZH_T04_0193_002:0066b12_13']	九惱江流濁，　　以珠能使清。	九惱江流濁，　　以珠能使清。	The nine afflictions flow turbid, but the pearl can make them clear.
+['ZH_T04_0193_002:0066b13_13']	於一切眾生，　　慈心彈指頃；	於一切眾生，　　慈心彈指頃；	With a compassionate mind toward all beings, even for the time of a finger snap;
+['ZH_T04_0193_002:0066b14_13']	福無限無量，　　慈加眾生故。	福無限無量，　　慈加眾生故。	The merit is limitless and immeasurable, because compassion is extended to beings.
+['ZH_T04_0193_002:0066b15_13']	復起慈愍心，　　欲安眾苦患；	復起慈愍心，　　欲安眾苦患；	Again giving rise to a compassionate mind, wishing to relieve the suffering of the multitude;
+['ZH_T04_0193_002:0066b16_13']	諦察見一切，　　平等逮一禪。	諦察見一切，　　平等逮一禪。	Carefully observing and seeing all, attaining the same meditation.
+['ZH_T04_0193_002:0066b17_13']	棄諸欲惡法，　　尋得歡喜解；	棄諸欲惡法，　　尋得歡喜解；	Abandoning desires and evil dharmas, one quickly attains joyful understanding;
+['ZH_T04_0193_002:0066b18_13']	乃至第四禪，　　及無量清淨。	乃至第四禪，　　及無量清淨。	Up to the fourth dhyāna, and immeasurable purity.
+['ZH_T04_0193_002:0066b19_13']	日時轉向夕，　　諸樹蔭移徙；	日時轉向夕，　　諸樹蔭移徙；	As the day turns to evening, the shade of the trees shifts;
+['ZH_T04_0193_002:0066b20_13']	唯閻浮樹影，　　如蓋覆太子。	唯閻浮樹影，　　如蓋覆太子。	Only the shade of the rose apple tree, like a canopy covering the prince.
+['ZH_T04_0193_002:0066b21_13']	猶人識恩養，　　宿行報不捨；	猶人識恩養，　　宿行報不捨；	Like a person who recognizes kindness and repays it without abandoning past practices;
+['ZH_T04_0193_002:0066b22_13']	蔭不離太子，　　如報不捨對。	蔭不離太子，　　如報不捨對。	The shade does not leave the prince, like a repayment that does not abandon the encounter.
+['ZH_T04_0193_002:0066b23_13']	釋種王聞之，　　騰至如師子；	釋種王聞之，　　騰至如師子；	The Śākya king heard of this and soared there like a lion;
+['ZH_T04_0193_002:0066b24_13']	見子處樹下，　　猶如雲中日。	見子處樹下，　　猶如雲中日。	Seeing his son dwelling under the tree, like the sun in the clouds.
+['ZH_T04_0193_002:0066b25_13']	情喜懷踊躍，　　愕然不自勝；	情喜懷踊躍，　　愕然不自勝；	With joy and excitement in his heart, he was astonished and overwhelmed;
+['ZH_T04_0193_002:0066b26_13']	慈目垂泣視，　　禮足悲聲歎：	慈目垂泣視，　　禮足悲聲歎：	With compassionate eyes, he looked down and wept, paying homage and lamenting in a sorrowful voice:
+['ZH_T04_0193_002:0066b27_14']	「以無量敬意，　　如是今再禮；	「以無量敬意，　　如是今再禮；	With immeasurable respect, I now pay homage again in this way;
+['ZH_T04_0193_002:0066b28_13']	願國土有德，　　莫生捨棄去。	願國土有德，　　莫生捨棄去。	I wish that the virtuous ones in the country will not abandon and leave.
+['ZH_T04_0193_002:0066b29_13']	普懷喜踊躍，　　猶如僥天福；	普懷喜踊躍，　　猶如僥天福；	All felt joy and exaltation, like the blessings of the gods;
+['ZH_T04_0193_002:0066c01_13']	幸莫棄愚迷，　　失僥墜罪冥。	幸莫棄愚迷，　　失僥墜罪冥。	Fortunately, do not abandon the foolish and deluded, losing the blessings and falling into the darkness of offenses.
+['ZH_T04_0193_002:0066c02_13']	子是世間德，　　顯古先人號；	子是世間德，　　顯古先人號；	You are the virtue of the world, manifesting the names of the ancient sages;
+['ZH_T04_0193_002:0066c03_13']	一切所恃賴，　　諸釋中之雄。	一切所恃賴，　　諸釋中之雄。	All rely on you, the hero among the Śākyas.
+['ZH_T04_0193_002:0066c04_13']	是吾之身命，　　諸女之欲天；	是吾之身命，　　諸女之欲天；	You are the life of me and others, the heavenly desire of the women;
+['ZH_T04_0193_002:0066c05_13']	眾生之梵天，　　普命之自在；	眾生之梵天，　　普命之自在；	The Brahmā Heaven of sentient beings, the sovereign of all destinies;
+['ZH_T04_0193_002:0066c06_13']	莫奪吾等命，　　猶如強敵王。	莫奪吾等命，　　猶如強敵王。	Do not take away our lives, like a powerful enemy king.
+['ZH_T04_0193_002:0066c07_13']	」王愛子不覺，　　悲慘且還宮。	」王愛子不覺，　　悲慘且還宮。	The king, out of love for his son, did not realize the sorrow and returned to the palace.
+['ZH_T04_0193_002:0066c08_13']	王去後不久，　　太子從禪覺；	王去後不久，　　太子從禪覺；	Not long after the king left, the prince awoke from meditation;
+['ZH_T04_0193_002:0066c09_13']	聞空中有聲，　　三天於上問：	聞空中有聲，　　三天於上問：	He heard a voice in the sky, three heavens above, asking:
+['ZH_T04_0193_002:0066c10_14']	「天人之導師，　　願聽我等言。	「天人之導師，　　願聽我等言。	The guide of gods and humans, please listen to our words.
+['ZH_T04_0193_002:0066c11_13']	願尊可時出，　　從無央數劫；	願尊可時出，　　從無央數劫；	We wish for the Honored One to appear in time, after innumerable eons;
+['ZH_T04_0193_002:0066c12_13']	名色二支分，　　周遍於五道。	名色二支分，　　周遍於五道。	The two branches of name and form pervade the five realms.
+['ZH_T04_0193_002:0066c13_13']	根萌至於有，　　甚大而堅固；	根萌至於有，　　甚大而堅固；	The sprouts of the faculties reach existence, very large and firm;
+['ZH_T04_0193_002:0066c14_13']	今以智慧犁，　　反生死樹原。	今以智慧犁，　　反生死樹原。	Now, with the plow of wisdom, overturn the roots of the tree of birth and death.
+['ZH_T04_0193_002:0066c15_13']	愛深廣淵池，　　亂想如魚遊；	愛深廣淵池，　　亂想如魚遊；	The deep and vast pool of craving, with confused thoughts like swimming fish;
+['ZH_T04_0193_002:0066c16_13']	迴覆迷牢著，　　嫉恚駛流波。	迴覆迷牢著，　　嫉恚駛流波。	Revolving and confused, attached to the fast-flowing waves of jealousy and anger.
+['ZH_T04_0193_002:0066c17_5']	」第二天所啟：	」第二天所啟：	The second god said:
+['ZH_T04_0193_002:0066c17_14']	　　「以清淨敬意；	　　「以清淨敬意；	With a pure and respectful attitude;
+['ZH_T04_0193_002:0066c18_13']	可乘進浮舟，　　度塵勞海岸。	可乘進浮舟，　　度塵勞海岸。	You can ride the advancing raft boat to cross the shore of afflictions.
+['ZH_T04_0193_002:0066c19_5', 'ZH_T04_0193_002:0066c19_14']	」第三天啟言：🔽　　「種山憍慢巖；	」第三天啟言： 　　「種山憍慢巖；	The third god said:🔽The mountain of arrogance, the cliff of conceit;
+['ZH_T04_0193_002:0066c20_13']	邪見之深坑，　　嫉恚之絕崖。	邪見之深坑，　　嫉恚之絕崖。	The deep pit of wrong views, the sheer cliff of jealousy and anger.
+['ZH_T04_0193_002:0066c21_13']	病死之川谷，　　傾邪而屈曲；	病死之川谷，　　傾邪而屈曲；	The valley of the river of sickness and death, sloping and winding;
+['ZH_T04_0193_002:0066c22_13']	以慧金剛杵，　　壞破眾苦山。	以慧金剛杵，　　壞破眾苦山。	Using the vajra of wisdom, destroy the mountain of various sufferings.
+['ZH_T04_0193_002:0066c23_13']	」聞已從坐起，　　晃耀如金山；	」聞已從坐起，　　晃耀如金山；	Having heard this, he rose from his seat, shining like a golden mountain;
+['ZH_T04_0193_002:0066c24_13']	雄步臂𦟛平，　　聲如雲雷音。	雄步臂𦟛平，　　聲如雲雷音。	With majestic steps and even arms, his voice like the sound of thunder in the clouds.
+['ZH_T04_0193_002:0066c25_13']	目如紺蓮葉，　　面容如月盛；	目如紺蓮葉，　　面容如月盛；	His eyes like dark blue lotus leaves, his countenance like the full moon;
+['ZH_T04_0193_002:0066c26_13']	厭家樂無為，　　意但思欲出。	厭家樂無為，　　意但思欲出。	Disgusted with the household life, he only wished to leave it and pursue the unconditioned.
+['ZH_T04_0193_002:0066c27_13']	如師子被箭，　　傷心還入宮；	如師子被箭，　　傷心還入宮；	Like a lion struck by an arrow, his heart pained, he returned to the palace;
+['ZH_T04_0193_002:0066c28_13']	行詣父王宮，　　白淨之殿前。	行詣父王宮，　　白淨之殿前。	He went to the palace of King Śuddhodana, in front of the Vimalaprabhā Hall.
+['ZH_T04_0193_002:0066c29_13']	跪叉手自啟，　　唯願聽所陳：	跪叉手自啟，　　唯願聽所陳：	He knelt with his palms joined and said, Please listen to what I have to say:
+['ZH_T04_0193_002:0067a01_14']	「欲得捨家出，　　述修古聖業；	「欲得捨家出，　　述修古聖業；	I wish to leave the household life and practice the ancient sages' path;
+['ZH_T04_0193_002:0067a02_13']	合會必有離，　　誰能依久存。	合會必有離，　　誰能依久存。	All unions must end in separation, who can rely on them to last long?
+['ZH_T04_0193_002:0067a03_13']	」王聞其所啟，　　心如動水月；	」王聞其所啟，　　心如動水月；	The king heard his request, his heart like a moving water-moon;
+['ZH_T04_0193_002:0067a04_13']	感噎不能言，　　良久乃發聲：	感噎不能言，　　良久乃發聲：	Overcome with emotion, he could not speak, only after a long while did he speak:
+['ZH_T04_0193_002:0067a05_14']	「唯莫懷此意，　　非是卿出時；	「唯莫懷此意，　　非是卿出時；	Do not harbor this intention, this is not the time for you to leave;
+['ZH_T04_0193_002:0067a06_13']	年始初美盛，　　不宜居山澤。	年始初美盛，　　不宜居山澤。	You are still in the prime of youth, it is not suitable to live in the mountains and marshes.
+['ZH_T04_0193_002:0067a07_13']	今正是吾時，　　捨位入法律；	今正是吾時，　　捨位入法律；	Now is the time for me to relinquish the throne and enter the Dharma;
+['ZH_T04_0193_002:0067a08_13']	以卿有德子，　　幸應踐榮位。	以卿有德子，　　幸應踐榮位。	Since you have a virtuous son, you should ascend the throne.
+['ZH_T04_0193_002:0067a09_13']	地祇懷悕望，　　求轉輪聖王；	地祇懷悕望，　　求轉輪聖王；	The earth spirits long for a wheel-turning sage king;
+['ZH_T04_0193_002:0067a10_13']	釋種因卿顯，　　汝不宜禪位。	釋種因卿顯，　　汝不宜禪位。	The Śākya clan is made illustrious because of you, you should not abdicate.
+['ZH_T04_0193_002:0067a11_13']	」因以深重聲，　　而報父王曰：	」因以深重聲，　　而報父王曰：	Then, with a deep and solemn voice, he replied to his father, the king:
+['ZH_T04_0193_002:0067a12_14']	「願尊以四事，　　為己之保任；	「願尊以四事，　　為己之保任；	Please, O Venerable One, make the four things your own guarantees;
+['ZH_T04_0193_002:0067a13_13']	使病不侵強，　　老不奪盛壯。	使病不侵強，　　老不奪盛壯。	Ensure that illness does not invade the strong, and old age does not rob youth.
+['ZH_T04_0193_002:0067a14_13']	死是普世患，　　令莫竊壽命；	死是普世患，　　令莫竊壽命；	Death is the universal affliction of the world, ensure that no one secretly takes away life;
+['ZH_T04_0193_002:0067a15_13']	盛事不壞敗，　　如是為四事。	盛事不壞敗，　　如是為四事。	Ensure that prosperous affairs are not destroyed, these are the four things.
+['ZH_T04_0193_002:0067a16_13']	若必能保任，　　便可無憂住；	若必能保任，　　便可無憂住；	If you can definitely guarantee them, then you may dwell without worry;
+['ZH_T04_0193_002:0067a17_13']	不行諸山澤，　　泰然治國民。	不行諸山澤，　　泰然治國民。	Do not go to the mountains and wilderness, be at ease and govern the people.
+['ZH_T04_0193_002:0067a18_2']	」王曰：	」王曰：	The king said:
+['ZH_T04_0193_002:0067a18_15']	「此四事，　　無能保任者；	「此四事，　　無能保任者；	These four things cannot be guaranteed by anyone;
+['ZH_T04_0193_002:0067a19_13']	卿應食國位，　　無有不順理。	卿應食國位，　　無有不順理。	You should enjoy the position of king, without going against reason.
+['ZH_T04_0193_002:0067a20_13']	居位可修法，　　致得無為道；	居位可修法，　　致得無為道；	Dwelling in the position, you can cultivate the Dharma, and attain the unconditioned path;
+['ZH_T04_0193_002:0067a21_13']	七寶為首冠，　　寶服光耀體。	七寶為首冠，　　寶服光耀體。	The seven treasures are the foremost crown, and the jeweled robe shines on the body.
+['ZH_T04_0193_002:0067a22_13']	眾好自榮恣，　　如欲界天子；	眾好自榮恣，　　如欲界天子；	The multitude of good qualities adorn and indulge oneself, like the son of a god in the desire realm;
+['ZH_T04_0193_002:0067a23_13']	皆居臨王位，　　自致得解脫。	皆居臨王位，　　自致得解脫。	All dwell in the position of king, and attain liberation for themselves.
+['ZH_T04_0193_002:0067a24_0']	有王名力勝，　　有王名不迷，	有王名力勝，　　有王名不迷，	There is a king named Powerful Victory, there is a king named Non-Delusion,
+['ZH_T04_0193_002:0067a25_13']	有王名識知，　　有王名武力。	有王名識知，　　有王名武力。	There is a king named Knower, there is a king named Martial Power.
+['ZH_T04_0193_002:0067a26_13']	此等居王位，　　逮得解脫滅；	此等居王位，　　逮得解脫滅；	These dwell in the position of king, and attain the cessation of liberation;
+['ZH_T04_0193_002:0067a27_13']	如是但居國，　　兩得無所失。	如是但居國，　　兩得無所失。	Thus, just dwelling in the country, both are obtained without loss.
+['ZH_T04_0193_002:0067a28_13']	於意得自在，　　及乃國土地；	於意得自在，　　及乃國土地；	In the mind, one obtains mastery, as well as the land of the country;
+['ZH_T04_0193_002:0067a29_13']	無能妨廢者，　　必當速成辦。	無能妨廢者，　　必當速成辦。	There is no one who can obstruct or neglect, one will surely quickly accomplish.
+['ZH_T04_0193_002:0067b01_13']	吾願以五服，　　容飾駕授卿；	吾願以五服，　　容飾駕授卿；	I wish to give you five garments, adornments, and a carriage;
+['ZH_T04_0193_002:0067b02_13']	沐卿寶蓋下，　　吾乃居山澤。	沐卿寶蓋下，　　吾乃居山澤。	I will bathe under your jeweled canopy, and I will dwell in the mountains and marshes.
+['ZH_T04_0193_002:0067b03_13']	」太子執謙敬，　　而報父王曰：	」太子執謙敬，　　而報父王曰：	The prince respectfully replied to the king, saying:
+['ZH_T04_0193_002:0067b04_14']	「若不可保任，　　願莫見固遮。	「若不可保任，　　願莫見固遮。	If it cannot be protected, I beg you not to see it as a firm obstruction.
+['ZH_T04_0193_002:0067b05_13']	雖是真金舍，　　失火當避走；	雖是真金舍，　　失火當避走；	Although it is a golden house, when a fire breaks out, one should flee;
+['ZH_T04_0193_002:0067b06_13']	智者不宜遮，　　逃災避火者。	智者不宜遮，　　逃災避火者。	The wise should not obstruct those who escape from a disaster or avoid a fire.
+['ZH_T04_0193_002:0067b07_13']	當覺真金舍，　　及與自在俱；	當覺真金舍，　　及與自在俱；	One should be aware of the golden house and its freedom;
+['ZH_T04_0193_002:0067b08_13']	雖快三火熾，　　不當捨逃乎？	雖快三火熾，　　不當捨逃乎？	Although it is pleasant, when the three fires blaze, one should not abandon and flee?
+['ZH_T04_0193_002:0067b09_13']	又有清浴池，　　芙蓉甚充滿；	又有清浴池，　　芙蓉甚充滿；	There is also a clear bathing pool, filled with lotuses;
+['ZH_T04_0193_002:0067b10_13']	中有裹蜾𧐴，　　不可捨棄耶？	中有裹蜾𧐴，　　不可捨棄耶？	In it, there is a silkworm cocoon, which cannot be discarded?
+['ZH_T04_0193_002:0067b11_13']	手執持老弓，　　甚強停調利；	手執持老弓，　　甚強停調利；	Holding an old bow in the hand, it is very strong, steady, and sharp;
+['ZH_T04_0193_002:0067b12_13']	射以病苦箭，　　發著終不失。	射以病苦箭，　　發著終不失。	Shooting with the arrow of illness and suffering, once released, it will never miss.
+['ZH_T04_0193_002:0067b13_13']	墮宿對之圍，　　閻王常所獵；	墮宿對之圍，　　閻王常所獵；	Falling into the net of past karmic retribution, always hunted by King Yama;
+['ZH_T04_0193_002:0067b14_13']	何愚當立待，　　可來快射我。	何愚當立待，　　可來快射我。	What fool would stand and wait, allowing him to come and shoot me well?
+['ZH_T04_0193_002:0067b15_13']	若有人畏空，　　方方逃避走；	若有人畏空，　　方方逃避走；	If there is someone who fears emptiness, running away in all directions;
+['ZH_T04_0193_002:0067b16_13']	所到見虛空，　　怖不知所趣。	所到見虛空，　　怖不知所趣。	Wherever they went, they saw empty space, frightened and not knowing where to go.
+['ZH_T04_0193_002:0067b17_13']	如是於五趣，　　無常普周遍；	如是於五趣，　　無常普周遍；	Thus, in the five destinies, impermanence pervades everywhere;
+['ZH_T04_0193_002:0067b18_13']	欲至無畏方，　　是不宜故遮。	欲至無畏方，　　是不宜故遮。	If you want to reach the place of fearlessness, this is not appropriate, so I stop you.
+['ZH_T04_0193_002:0067b19_13']	」於時釋尊王，　　默然不加報；	」於時釋尊王，　　默然不加報；	At that time, King Śākyamuni remained silent and did not respond;
+['ZH_T04_0193_002:0067b20_13']	手自牽子手，　　曉喻欲令起。	手自牽子手，　　曉喻欲令起。	He personally took his son's hand and tried to comfort him, wanting him to get up.
+['ZH_T04_0193_002:0067b21_13']	即勅諸傍臣，　　增伎樂牢守；	即勅諸傍臣，　　增伎樂牢守；	He then ordered the ministers to increase the music and guard him closely;
+['ZH_T04_0193_002:0067b22_13']	於時聖太子，　　入宮自消息。	於時聖太子，　　入宮自消息。	At that time, the Holy Prince entered the palace to calm himself.
+['ZH_T04_0193_002:0067b24_13']	11 出家品佛本行經出家品第十一太子於是時，　　心懷甚憔悴；	11 出家品佛本行經出家品第十一太子於是時，　　心懷甚憔悴；	Chapter 11: Renunciation Buddha-carita: Chapter 11, Renunciation At this time, the prince's heart was very sad;
+['ZH_T04_0193_002:0067b25_13']	又更詣父王，　　盡意勤求出。	又更詣父王，　　盡意勤求出。	He went to see the king again, earnestly requesting to leave.
+['ZH_T04_0193_002:0067b26_14']	「尊若見憐愍，　　願觀世擾動；	「尊若見憐愍，　　願觀世擾動；	If you have compassion for me, please observe the disturbance in the world;
+['ZH_T04_0193_002:0067b27_13']	合會莫不離，　　難得保久長。	合會莫不離，　　難得保久長。	All gatherings will eventually part, it is difficult to maintain for a long time.
+['ZH_T04_0193_002:0067b28_13']	唯願見聽放，　　至仙人山澤；	唯願見聽放，　　至仙人山澤；	I only wish for your permission to go to the mountains and forests of the sages;
+['ZH_T04_0193_002:0067b29_13']	於彼修淨行，　　開現解脫路。	於彼修淨行，　　開現解脫路。	Cultivating pure conduct there, revealing the path to liberation.
+['ZH_T04_0193_002:0067c01_13']	更無有餘願，　　過踰出上者；	更無有餘願，　　過踰出上者；	There is no other wish that surpasses or exceeds this;
+['ZH_T04_0193_002:0067c02_13']	若審見愛愍，　　願必見聽放。	若審見愛愍，　　願必見聽放。	If you truly see and have compassion, I wish you would definitely allow me to leave.
+['ZH_T04_0193_002:0067c03_13']	」於時白淨王，　　以蓮花色手；	」於時白淨王，　　以蓮花色手；	At that time, King Śuddhodana, with his lotus-colored hand,
+['ZH_T04_0193_002:0067c04_13']	牽太子手已，　　悲聲而告之。	牽太子手已，　　悲聲而告之。	Grasped the prince's hand and sadly said to him.
+['ZH_T04_0193_002:0067c05_13']	垂泣而熟視，　　良久乃長嘆；	垂泣而熟視，　　良久乃長嘆；	Weeping and looking at him intently, he sighed for a long time;
+['ZH_T04_0193_002:0067c06_5']	然後發聲言：	然後發聲言：	Only then did he speak, saying:
+['ZH_T04_0193_002:0067c07_13']	　　「辛酸苦痛辭，唯子可放捨，　　莫復懷此心；	　　「辛酸苦痛辭，唯子可放捨，　　莫復懷此心；	With bitter and painful words, I can only let you go, do not bear this in your heart;
+['ZH_T04_0193_002:0067c08_13']	今未應是汝，　　山澤自守時。	今未應是汝，　　山澤自守時。	Now is not yet your time to be in the mountains and marshes, guarding yourself.
+['ZH_T04_0193_002:0067c09_13']	心習受榮樂，　　未曾少苦勤；	心習受榮樂，　　未曾少苦勤；	Your mind is accustomed to receiving glory and pleasure, never having experienced the slightest hardship or toil;
+['ZH_T04_0193_002:0067c10_13']	為眾欲所劫，　　猶如無御車。	為眾欲所劫，　　猶如無御車。	You are robbed by the desires of the multitude, like a chariot without a driver.
+['ZH_T04_0193_002:0067c11_13']	如今正是吾，　　山澤自守時；	如今正是吾，　　山澤自守時；	Now is precisely the time for me to be in the mountains and marshes, guarding myself;
+['ZH_T04_0193_002:0067c12_13']	應以王榮位，　　次欲委授卿。	應以王榮位，　　次欲委授卿。	I should use the glorious position of the king to entrust it to you next.
+['ZH_T04_0193_002:0067c13_13']	香湯灌沐汝，　　以寶冠駕授；	香湯灌沐汝，　　以寶冠駕授；	I will bathe you with fragrant water and bestow upon you the crown and chariot;
+['ZH_T04_0193_002:0067c14_13']	我懷喜不憂，　　入山澤無慮。	我懷喜不憂，　　入山澤無慮。	I am joyful and not worried, entering the mountains and marshes without concern.
+['ZH_T04_0193_002:0067c15_13']	願見汝沐浴，　　初踐於王位；	願見汝沐浴，　　初踐於王位；	I wish to see you bathed, first ascending to the throne;
+['ZH_T04_0193_002:0067c16_13']	駕授觀視汝，　　慰吾父僥意。	駕授觀視汝，　　慰吾父僥意。	Riding the chariot and looking at you, comforting my father's wishful thoughts.
+['ZH_T04_0193_002:0067c17_13']	寫恩愛所生，　　久積之涕泣；	寫恩愛所生，　　久積之涕泣；	Expressing the love and affection born from long-accumulated tears and weeping;
+['ZH_T04_0193_002:0067c18_13']	淚盈目入澤，　　以塞先人責。	淚盈目入澤，　　以塞先人責。	Tears filling the eyes and entering the marshes, to block the blame of the ancestors.
+['ZH_T04_0193_002:0067c19_17']	」太子聞王令如是，　　即啟王以清深辭；	」太子聞王令如是，　　即啟王以清深辭；	The prince heard the king's order like this, and then addressed the king with clear and profound words;
+['ZH_T04_0193_002:0067c20_18']	「已審覺王垂愛愍，　　余亦孝敬重愛尊。	「已審覺王垂愛愍，　　余亦孝敬重愛尊。	I have already understood that the king has bestowed love and compassion, and I too respect and love my parents with filial piety.
+['ZH_T04_0193_002:0067c21_17']	若欲逃出夫火宅，　　有親愛遮不令出；	若欲逃出夫火宅，　　有親愛遮不令出；	If you want to escape from the burning house, if there is love that obstructs and does not allow you to leave;
+['ZH_T04_0193_002:0067c22_17']	以親愛故俱被燒，　　有何善好願思之。	以親愛故俱被燒，　　有何善好願思之。	Because of the love, you will both be burned, what good is there? Please think about it.
+['ZH_T04_0193_002:0067c23_17']	今欲逃避無常火，　　智者不宜遮令燒；	今欲逃避無常火，　　智者不宜遮令燒；	Now wanting to escape the fire of impermanence, the wise should not block and burn;
+['ZH_T04_0193_002:0067c24_17']	但欲求免不俱燒，　　願見聽許入山澤。	但欲求免不俱燒，　　願見聽許入山澤。	I only wish to escape being burned together, please allow me to enter the mountains and marshes.
+['ZH_T04_0193_002:0067c25_17']	誰不欲與親屬俱，　　若永已聚不離散；	誰不欲與親屬俱，　　若永已聚不離散；	Who does not wish to be with their relatives, if they are forever gathered and not separated;
+['ZH_T04_0193_002:0067c26_17']	與諸親厚所愛染，　　死力不強離別者。	與諸親厚所愛染，　　死力不強離別者。	If those who are attached to their loved ones are not forcibly separated by the power of death.
+['ZH_T04_0193_002:0067c27_17']	是故釋王願恕亮，　　非為無為戀慕心；	是故釋王願恕亮，　　非為無為戀慕心；	Therefore, the Śākya king should forgive me, it is not out of a desire for non-action that I long for them;
+['ZH_T04_0193_002:0067c28_17']	以不自在屬無常，　　是故決意求泥洹。	以不自在屬無常，　　是故決意求泥洹。	Because I am not independent and belong to impermanence, therefore I resolutely seek nirvāṇa.
+['ZH_T04_0193_002:0067c29_17']	前世所有諸親愛，　　我在何許彼何至？	前世所有諸親愛，　　我在何許彼何至？	All the loved ones from past lives, where am I and where are they?
+['ZH_T04_0193_002:0068a01_17']	我今以何益彼等，　　宿對風吹如雲散。	我今以何益彼等，　　宿對風吹如雲散。	What benefit do I now have for them? Like clouds scattered by the wind of past karma.
+['ZH_T04_0193_002:0068a02_17']	王勅云非卿去時，　　若死來時可却者；	王勅云非卿去時，　　若死來時可却者；	The king's decree says, When you leave, if death comes, you may turn back;
+['ZH_T04_0193_002:0068a03_17']	曼火未盛有所燒，　　當與逆滅莫出後。	曼火未盛有所燒，　　當與逆滅莫出後。	Before the fire is raging and there is something to burn, you should extinguish it against the current, do not come out later.
+['ZH_T04_0193_002:0068a04_17']	尊以王位盡委授，　　彼無恃怙無歸救；	尊以王位盡委授，　　彼無恃怙無歸救；	The honored one has entrusted the kingdom to you, they have no reliance, no one to save them;🔽...
+['ZH_T04_0193_002:0068a05_17']	猶負大石渡深水，　　是故不宜受王位。	猶負大石渡深水，　　是故不宜受王位。	Like carrying a large stone across deep water, therefore, one should not accept the position of king.
+['ZH_T04_0193_002:0068a06_13']	」王聞太子言，　　辭理甚正直；	」王聞太子言，　　辭理甚正直；	When the king heard the prince's words, the meaning and principles were very straightforward;
+['ZH_T04_0193_002:0068a07_13']	子言不可答，　　無理可固遮。	子言不可答，　　無理可固遮。	The son's words could not be answered, and there was no principle that could firmly block them.
+['ZH_T04_0193_002:0068a08_13']	即令勅諸臣，　　竊守太子宮；	即令勅諸臣，　　竊守太子宮；	He immediately ordered the ministers to secretly guard the prince's palace;
+['ZH_T04_0193_002:0068a09_13']	增益其伎樂，　　莫令子愁慘。	增益其伎樂，　　莫令子愁慘。	Increasing the entertainment, do not let the son be sorrowful.
+['ZH_T04_0193_002:0068a10_11']	已後不久，　　日向欲夕；	已後不久，　　日向欲夕；	After that, not long, the day was about to turn to evening;
+['ZH_T04_0193_002:0068a11_4']	　　於是入宮，如月入雲。	　　於是入宮，如月入雲。	Then he entered the palace, like the moon entering the clouds.
+['ZH_T04_0193_002:0068a11_18']	　　坐觀伎樂，　　如象被閉；	　　坐觀伎樂，　　如象被閉；	Sitting and watching the entertainment, like an elephant in captivity;
+['ZH_T04_0193_002:0068a12_11']	患厭伎樂，　　小却偃息。	患厭伎樂，　　小却偃息。	Disliking and wearying of the entertainment, he slightly withdrew and rested.
+['ZH_T04_0193_002:0068a13_4']	　　雖小偃息，於事覺寤；	　　雖小偃息，於事覺寤；	Although he slightly withdrew and rested, he was aware of things in his sleep;
+['ZH_T04_0193_002:0068a13_18']	　　寤寐尋起，　　見婇女眠。	　　寤寐尋起，　　見婇女眠。	Awakening from sleep, he rose and saw the maids sleeping.
+['ZH_T04_0193_002:0068a14_11']	瓔珞迸散，　　失棄樂器；	瓔珞迸散，　　失棄樂器；	The necklaces scattered, losing the musical instruments;
+['ZH_T04_0193_002:0068a15_4']	　　衣裳發露，種種若干。	　　衣裳發露，種種若干。	The clothes were exposed, with various kinds.
+['ZH_T04_0193_002:0068a15_18']	　　涎涕流出，　　塗污咽胸；	　　涎涕流出，　　塗污咽胸；	Saliva and snot flowed out, smearing the throat and chest;
+['ZH_T04_0193_002:0068a16_11']	偃伏張口，　　難可觀視。	偃伏張口，　　難可觀視。	Lying down, with mouths agape, difficult to look at.
+['ZH_T04_0193_002:0068a17_4']	　　或有女人，抱樂器眠；	　　或有女人，抱樂器眠；	Some women were sleeping, holding musical instruments;🔽Some were leaning on each other,
+['ZH_T04_0193_002:0068a17_18']	　　或更相枕，　　或獨夫伏。	　　或更相枕，　　或獨夫伏。	Some were lying alone.
+['ZH_T04_0193_002:0068a18_11']	或有女人，　　直立而眠；	或有女人，　　直立而眠；	Some women were sleeping, standing straight;
+['ZH_T04_0193_002:0068a19_4']	　　髻解垂髮，如孔雀毛。	　　髻解垂髮，如孔雀毛。	Their hairpins loosened, hair hanging down, like peacock feathers.
+['ZH_T04_0193_002:0068a19_18']	　　或有女人，　　仰視而眠；	　　或有女人，　　仰視而眠；	Some women were sleeping, looking up;
+['ZH_T04_0193_002:0068a20_11']	猶如司曆，　　仰占星宿。	猶如司曆，　　仰占星宿。	Like an astrologer, looking up to observe the stars.
+['ZH_T04_0193_002:0068a21_4']	　　見如是已，甚懷不悅；	　　見如是已，甚懷不悅；	Having seen this, he was very displeased;
+['ZH_T04_0193_002:0068a21_18']	　　諦觀諸女，　　熟自思惟。	　　諦觀諸女，　　熟自思惟。	He carefully observed the women, contemplating deeply.
+['ZH_T04_0193_002:0068a22_11']	慨然長歎，　　震動胸中；	慨然長歎，　　震動胸中；	He sighed deeply, shaking his chest;
+['ZH_T04_0193_002:0068a23_4']	　　想處宮中，如丘墓間。	　　想處宮中，如丘墓間。	He thought of being in the palace as if in a cemetery.
+['ZH_T04_0193_002:0068a23_18']	　　諸女盛美，　　姿容妙好；	　　諸女盛美，　　姿容妙好；	The women were in full bloom, with exquisite features;
+['ZH_T04_0193_002:0068a24_11']	太子憂懼，　　如象遭火。	太子憂懼，　　如象遭火。	The prince was worried, like an elephant encountering fire.
+['ZH_T04_0193_002:0068a25_4']	　　「諸女姿好，眠賊所盜；	　　「諸女姿好，眠賊所盜；	The women's beauty was stolen by the thief of sleep;
+['ZH_T04_0193_002:0068a25_18']	　　忘失志思，　　樂器交錯。	　　忘失志思，　　樂器交錯。	They lost their intentions and thoughts, with musical instruments scattered about.
+['ZH_T04_0193_002:0068a26_11']	諸女性弱，　　常懷慚愧；	諸女性弱，　　常懷慚愧；	Women are by nature weak, always feeling shame and embarrassment;
+['ZH_T04_0193_002:0068a27_4']	　　為眠昏象，而見蹋踐。	　　為眠昏象，而見蹋踐。	Like a sleeping and confused elephant, trampling and destroying.
+['ZH_T04_0193_002:0068a27_18']	　　如妙花樹，　　枝葉繁茂；	　　如妙花樹，　　枝葉繁茂；	Like a wonderful flower tree, with luxuriant branches and leaves;
+['ZH_T04_0193_002:0068a28_11']	卒遇餓象，　　拔破碎散。	卒遇餓象，　　拔破碎散。	Suddenly encountering a starving elephant, it is uprooted, shattered, and scattered.
+['ZH_T04_0193_002:0068a29_4']	　　生死危害，甚輕躁擾；	　　生死危害，甚輕躁擾；	The dangers of birth and death are very light and disturbing;
+['ZH_T04_0193_002:0068a29_18']	　　嶮薄欺偽，　　無親舊故。	　　嶮薄欺偽，　　無親舊故。	The treacherous and deceitful have no old acquaintances.
+['ZH_T04_0193_002:0068b01_11']	此現生存，　　形體如是；	此現生存，　　形體如是；	This present living body is like this;
+['ZH_T04_0193_002:0068b02_4']	　　或於是身，不知慚愧。	　　或於是身，不知慚愧。	In this body, one does not know shame or disgrace.
+['ZH_T04_0193_002:0068b02_18']	　　忽然墮地，　　亡失姿好；	　　忽然墮地，　　亡失姿好；	Suddenly falling to the ground, losing one's beautiful appearance;
+['ZH_T04_0193_002:0068b03_11']	睡眠之困，　　堅䩕其目。	睡眠之困，　　堅䩕其目。	The exhaustion of sleep, firmly closing the eyes.
+['ZH_T04_0193_002:0068b04_4']	　　睡眠加之，形體難視；	　　睡眠加之，形體難視；	Sleep adds to it, the body is difficult to look at;
+['ZH_T04_0193_002:0068b04_18']	　　若當死亡，　　其形何似。	　　若當死亡，　　其形何似。	If one is to die, what will the body be like?
+['ZH_T04_0193_002:0068b05_11']	是本支體，　　是本諸根；	是本支體，　　是本諸根；	This is the original body, this is the original faculties;
+['ZH_T04_0193_002:0068b06_4']	　　眠蓋所覆，乃致斯變。	　　眠蓋所覆，乃致斯變。	Covered by the cover of sleep, it leads to this change.
+['ZH_T04_0193_002:0068b06_18']	　　猶失機關，　　不可復還；	　　猶失機關，　　不可復還；	Like losing a mechanism, it cannot be restored;
+['ZH_T04_0193_002:0068b07_11']	失姿則臥，　　若草土塊。	失姿則臥，　　若草土塊。	Losing one's appearance while lying down, like a grass or dirt clod.
+['ZH_T04_0193_002:0068b08_4']	　　久遠已來，癡力甚強；	　　久遠已來，癡力甚強；	For a long time, the power of delusion is very strong;
+['ZH_T04_0193_002:0068b08_18']	　　覆蔽耳目，　　令聾盲冥。	　　覆蔽耳目，　　令聾盲冥。	Covering the ears and eyes, causing deafness and blindness.
+['ZH_T04_0193_002:0068b09_11']	身之污穢，　　顯露可見；	身之污穢，　　顯露可見；	The impurities of the body are exposed and can be seen;
+['ZH_T04_0193_002:0068b10_4']	　　覆以薄皮，莫能覺知。	　　覆以薄皮，莫能覺知。	Covered with thin skin, no one can be aware of it.
+['ZH_T04_0193_002:0068b10_18']	　　一切普世，　　甚遭困厄；	　　一切普世，　　甚遭困厄；	All the people in the world suffer greatly;
+['ZH_T04_0193_002:0068b11_11']	無所恃怙，　　如輪迅轉。	無所恃怙，　　如輪迅轉。	Having no one to rely on, like a rapidly spinning wheel.
+['ZH_T04_0193_002:0068b12_4']	　　緣塵勞垢，所沈湮沒；	　　緣塵勞垢，所沈湮沒；	Submerged by the defilements of the dusts and afflictions;
+['ZH_T04_0193_002:0068b12_18']	　　猶如大象，　　沈深淵池。	　　猶如大象，　　沈深淵池。	Like a great elephant sinking in a deep pond.
+['ZH_T04_0193_002:0068b13_11']	今吾不宜，　　牽連於此；	今吾不宜，　　牽連於此；	Now I should not be dragged into this;
+['ZH_T04_0193_002:0068b14_4']	　　塵勞之網，以自結縛。	　　塵勞之網，以自結縛。	Binding myself with the net of dust and afflictions.
+['ZH_T04_0193_002:0068b14_18']	　　是故惡此，　　五欲愛垢；	　　是故惡此，　　五欲愛垢；	Therefore, I detest these five desires and impurities of love;
+['ZH_T04_0193_002:0068b15_11']	捨屋渾住，　　獨入山靜。	捨屋渾住，　　獨入山靜。	Abandoning the house and staying alone in the mountains and forests.
+['ZH_T04_0193_002:0068b16_4']	　　為宿善本，催逼發寤；	　　為宿善本，催逼發寤；	Due to past wholesome roots, urged and awakened;
+['ZH_T04_0193_002:0068b16_18']	　　太子決意，　　欲出生死。	　　太子決意，　　欲出生死。	The Crown Prince resolutely intends to escape from birth and death.
+['ZH_T04_0193_002:0068b17_11']	吾出家時，　　今已會至；	吾出家時，　　今已會至；	When I leave the household life, the time has now come;
+['ZH_T04_0193_002:0068b18_4']	　　不宜久處，生死大畏。	　　不宜久處，生死大畏。	It is not appropriate to stay for a long time in the great fear of birth and death.
+['ZH_T04_0193_002:0068b18_18']	　　是故今日，　　當入山澤；	　　是故今日，　　當入山澤；	Therefore, today I will enter the mountains and wilderness;
+['ZH_T04_0193_002:0068b19_11']	唯覺生死，　　熱時炎光。	唯覺生死，　　熱時炎光。	Only aware of the heat of birth and death, like a mirage.
+['ZH_T04_0193_002:0068b20_4']	　　吾自觀察，有能堪任；	　　吾自觀察，有能堪任；	I observe myself, there is one who is able and capable;
+['ZH_T04_0193_002:0068b20_18']	　　四大未分，　　當早逃走。	　　四大未分，　　當早逃走。	Before the four elements are divided, I should flee early.
+['ZH_T04_0193_002:0068b21_11']	」諸天人覺，　　太子心清；	」諸天人覺，　　太子心清；	The heavenly beings were aware that the prince's mind was pure;
+['ZH_T04_0193_002:0068b22_4']	　　時淨居天，尋時來下。	　　時淨居天，尋時來下。	At that time, the heavenly beings of the Pure Abode descended.
+['ZH_T04_0193_002:0068b22_18']	　　壓諸侍衛，　　純昏眠寐；	　　壓諸侍衛，　　純昏眠寐；	They suppressed all the guards, who were all deeply asleep;
+['ZH_T04_0193_002:0068b23_11']	即時普開，　　宮城諸門。	即時普開，　　宮城諸門。	Then they opened all the palace gates.
+['ZH_T04_0193_002:0068b24_4']	　　若當如常，每開門時；	　　若當如常，每開門時；	If it were as usual, every time the gates were opened;
+['ZH_T04_0193_002:0068b24_18']	　　其聲嚮徹，　　聞一由延。	　　其聲嚮徹，　　聞一由延。	The sound would penetrate and be heard for one yojana.
+['ZH_T04_0193_002:0068b25_11']	天開諸門，　　令寂無聲；	天開諸門，　　令寂無聲；	The heavens opened the gates, making them silent and soundless;
+['ZH_T04_0193_002:0068b26_4']	　　天歎太子，種種功德。	　　天歎太子，種種功德。	The heavens praised the prince's various merits and virtues.
+['ZH_T04_0193_002:0068b26_18']	　　諸天踊躍，　　歡喜充懷；	　　諸天踊躍，　　歡喜充懷；	The heavenly beings rejoiced, their joy filling their hearts;
+['ZH_T04_0193_002:0068b27_11']	為太子顯，　　種種祥瑞。	為太子顯，　　種種祥瑞。	For the prince, they manifested various auspicious signs.
+['ZH_T04_0193_002:0068b28_4']	　　天散花香，連續不斷；	　　天散花香，連續不斷；	The heavens scattered flowers and incense, continuously without interruption;
+['ZH_T04_0193_002:0068b28_18']	　　伎樂歌詠，　　震動虛空。	　　伎樂歌詠，　　震動虛空。	Music and singing resounded through the sky.
+['ZH_T04_0193_002:0068b29_11']	見吉祥瑞，　　諸天勸助；	見吉祥瑞，　　諸天勸助；	Seeing auspicious omens, the gods encouraged and assisted;
+['ZH_T04_0193_002:0068c01_4']	　　心甚歡喜，因作是想：	　　心甚歡喜，因作是想：	The mind was greatly delighted, and this thought was made:
+['ZH_T04_0193_002:0068c01_19']	　　「人戀宗親，　　不能捨離；	　　「人戀宗親，　　不能捨離；	People are attached to their relatives and cannot let go;
+['ZH_T04_0193_002:0068c02_11']	𤛆牛愛尾，　　為火所燒。	𤛆牛愛尾，　　為火所燒。	A cow loves its tail, and is burned by fire.
+['ZH_T04_0193_002:0068c03_4']	」　　即從坐起，意計決定；	」　　即從坐起，意計決定；	Then he rose from his seat, his mind determined;
+['ZH_T04_0193_002:0068c03_18']	　　於婇女花，　　寶宮浴池。	　　於婇女花，　　寶宮浴池。	In the flower of the harem, the jeweled palace and bathing pool.
+['ZH_T04_0193_002:0068c04_11']	猶如鴈王，　　棄花淵池；	猶如鴈王，　　棄花淵池；	Just like the king of geese, abandoning the flower pond;
+['ZH_T04_0193_002:0068c05_4']	　　太子亦爾，無所戀著。	　　太子亦爾，無所戀著。	The prince was also like this, with nothing to be attached to.
+['ZH_T04_0193_002:0068c05_19']	　　「是吾最後，　　與女人俱；	　　「是吾最後，　　與女人俱；	This is my last time, together with a woman;
+['ZH_T04_0193_002:0068c06_11']	是吾末後，　　止宿居家。	是吾末後，　　止宿居家。	This is my last time, staying overnight in a household.
+['ZH_T04_0193_002:0068c07_4']	　　虛空尚可，破為百分；	　　虛空尚可，破為百分；	The sky can still be broken into a hundred parts;
+['ZH_T04_0193_002:0068c07_18']	　　吾終不著，　　愛欲還此。	　　吾終不著，　　愛欲還此。	I will never be attached to desire and return here.
+['ZH_T04_0193_002:0068c08_11']	」即時出宮，　　如師子王；	」即時出宮，　　如師子王；	Then he left the palace, like a lion king;
+['ZH_T04_0193_002:0068c09_4']	　　壞裂堅網，獨行遊步。	　　壞裂堅網，獨行遊步。	Breaking through the strong net, walking alone.
+['ZH_T04_0193_002:0068c09_18']	　　裂家牢網，　　亦復如是；	　　裂家牢網，　　亦復如是；	It is the same as cutting through the strong net of the family.
+['ZH_T04_0193_002:0068c10_11']	即以方便，　　覺起車匿。	即以方便，　　覺起車匿。	Then, with skillful means, he awakened Channa.
+['ZH_T04_0193_002:0068c11_4']	　　以柔軟聲，告語車匿；	　　以柔軟聲，告語車匿；	With a gentle voice, he told Channa:
+['ZH_T04_0193_002:0068c11_18']	　　速取良馬，　　犍陟使來。	　　速取良馬，　　犍陟使來。	Quickly take the fine horse Kaṇṭhaka and bring it here.
+['ZH_T04_0193_002:0068c12_11']	諸天迷惑，　　車匿心意；	諸天迷惑，　　車匿心意；	The devas confused Channa's mind and thoughts;
+['ZH_T04_0193_002:0068c13_4']	　　即致白馬，猶如馬王。	　　即致白馬，猶如馬王。	He immediately brought the white horse, like a horse king.
+['ZH_T04_0193_002:0068c13_18']	　　被駕鞍勒，　　皆令嚴備；	　　被駕鞍勒，　　皆令嚴備；	The saddle and bridle were all made ready;
+['ZH_T04_0193_002:0068c14_11']	喻如白鶴，　　與雲電俱。	喻如白鶴，　　與雲電俱。	It was like a white crane with clouds and lightning.
+['ZH_T04_0193_002:0068c15_4']	　　於是太子，手摩馬頭；	　　於是太子，手摩馬頭；	Then the prince stroked the horse's head with his hand;
+['ZH_T04_0193_002:0068c15_18']	　　以柔軟辭，　　曉喻白馬：	　　以柔軟辭，　　曉喻白馬：	With gentle words, he comforted the white horse:
+['ZH_T04_0193_002:0068c16_12']	「吾有大願，　　委累於汝；	「吾有大願，　　委累於汝；	I have a great vow, entrusting it to you;
+['ZH_T04_0193_002:0068c17_4']	　　生長共俱，如賢善友。	　　生長共俱，如賢善友。	Growing up together, like a virtuous and good friend.
+['ZH_T04_0193_002:0068c17_18']	　　必為快善，　　令吾無礙；	　　必為快善，　　令吾無礙；	It must be very good, allowing me to be unobstructed;
+['ZH_T04_0193_002:0068c18_11']	欲突牢陣，　　度至彼岸。	欲突牢陣，　　度至彼岸。	Wishing to break through the strong formation, crossing to the other shore.
+['ZH_T04_0193_002:0068c19_4']	　　是汝最後，所應奉事；	　　是汝最後，所應奉事；	This is your last duty to serve;
+['ZH_T04_0193_002:0068c19_18']	　　今夜是汝，　　最後負重。	　　今夜是汝，　　最後負重。	Tonight will be your last time carrying a heavy load.
+['ZH_T04_0193_002:0068c20_11']	吾後不復，　　勞動犍陟；	吾後不復，　　勞動犍陟；	I will not trouble Kanthaka to move again;
+['ZH_T04_0193_002:0068c21_4']	　　是我最後，乘齊此斷。	　　是我最後，乘齊此斷。	This is my last ride, ending here.
+['ZH_T04_0193_002:0068c21_19']	」　　太子說已，　　便前上馬；	」　　太子說已，　　便前上馬；	Having spoken, the prince then mounted the horse;
+['ZH_T04_0193_002:0068c22_11']	如日初出，　　現于山崗。	如日初出，　　現于山崗。	Like the sun just rising over the mountain peaks.
+['ZH_T04_0193_002:0068c23_4']	　　在白馬上，威德巍巍；	　　在白馬上，威德巍巍；	Atop the white horse, his majestic virtue was lofty;
+['ZH_T04_0193_002:0068c23_18']	　　猶秋時月，　　乘白雲中。	　　猶秋時月，　　乘白雲中。	Like the autumn moon riding in the midst of white clouds.
+['ZH_T04_0193_002:0068c24_11']	四種鬼神，　　欲令速疾；	四種鬼神，　　欲令速疾；	The four kinds of ghosts and spirits, wishing to make him go quickly;
+['ZH_T04_0193_002:0068c25_4']	　　接舉馬足，甚使精良。	　　接舉馬足，甚使精良。	Received and lifted the horse's hooves, making it extremely excellent.
+['ZH_T04_0193_002:0068c25_18']	　　四王躬自，　　在前而導；	　　四王躬自，　　在前而導；	The Four Heavenly Kings personally led the way in front;
+['ZH_T04_0193_002:0068c26_11']	諸天從出，　　明如晝日。	諸天從出，　　明如晝日。	The gods followed, as bright as daylight.
+['ZH_T04_0193_002:0068c27_11']	　　天龍鬼神，及諸仙聖，　　同聲歎曰：	　　天龍鬼神，及諸仙聖，　　同聲歎曰：	The devas, nāgas, ghosts and spirits, and various sages and saints, all exclaimed in unison:
+['ZH_T04_0193_002:0068c28_0']	所以捨棄，　　四方天下，　　及親寶宮，	所以捨棄，　　四方天下，　　及親寶宮，	The reason for abandoning the four directions of the world and the precious palace of his kin,
+['ZH_T04_0193_002:0068c29_4']	疾得其願。	疾得其願。	Is to quickly attain his wish.
+['ZH_T04_0193_002:0068c29_19']	」　　太子即出，　　宮城之外；	」　　太子即出，　　宮城之外；	The prince then left, outside the palace city;
+['ZH_T04_0193_002:0069a01_11']	震動顯赫，　　展暢言說：	震動顯赫，　　展暢言說：	Shaking and shining brightly, he spoke expansively, saying:
+['ZH_T04_0193_002:0069a02_4']	　　「須彌山王，令尚可散；	　　「須彌山王，令尚可散；	Even Mount Sumeru can still be scattered;
+['ZH_T04_0193_002:0069a02_18']	　　口氣吹之，　　或可崩墮。	　　口氣吹之，　　或可崩墮。	Blowing it with my breath, it may perhaps collapse.
+['ZH_T04_0193_002:0069a03_11']	吾若不能，　　成佛聖道；	吾若不能，　　成佛聖道；	If I am unable to accomplish the holy path of Buddhahood;
+['ZH_T04_0193_002:0069a04_4']	　　終不還入，赤澤之城。	　　終不還入，赤澤之城。	I will never return to the city of Rājagṛha.
+['ZH_T04_0193_002:0069a04_19']	」　　猶如疾風，　　吹遣浮雲；	」　　猶如疾風，　　吹遣浮雲；	Like a swift wind driving away floating clouds;
+['ZH_T04_0193_002:0069a05_11']	斯須之頃，　　出釋國界。	斯須之頃，　　出釋國界。	In an instant, he left the realm of the Śākyas.
+['ZH_T04_0193_002:0069a06_4']	　　如發意頃，尋時即至；	　　如發意頃，尋時即至；	Like the time it takes to form an intention, he immediately arrived;
+['ZH_T04_0193_002:0069a06_18']	　　猶日到于，　　西山之岳。	　　猶日到于，　　西山之岳。	Like the sun reaching the western mountain.
+['ZH_T04_0193_002:0069a07_11']	即便下馬，　　入山澤中；	即便下馬，　　入山澤中；	He then dismounted and entered the mountains and forests;
+['ZH_T04_0193_002:0069a08_4']	　　心懷歡喜，辦已大事。	　　心懷歡喜，辦已大事。	With a joyful mind, he accomplished the great matter.
+['ZH_T04_0193_002:0069a10_13']	12 車匿品佛本行經車匿品第十二菩薩以普慈，　　目睫紺青色；	12 車匿品佛本行經車匿品第十二菩薩以普慈，　　目睫紺青色；	Chapter 12: Channa of the Buddha-avatamsaka-sūtra Channa Chapter The Bodhisattva, with universal kindness, eyes with dark blue eyelashes;
+['ZH_T04_0193_002:0069a11_13']	眼雨淚且言，　　盡心曉車匿。	眼雨淚且言，　　盡心曉車匿。	Eyes raining tears, speaking with utmost sincerity to Channa.
+['ZH_T04_0193_002:0069a12_13']	金鞘明珠靶，　　拔劍如抽虺；	金鞘明珠靶，　　拔劍如抽虺；	The golden scabbard and bright pearl target, drawing the sword like pulling out a viper;
+['ZH_T04_0193_002:0069a13_13']	自以剃其頭，　　天敬接髮去。	自以剃其頭，　　天敬接髮去。	I myself shaved my head, the heavens respectfully received my hair.
+['ZH_T04_0193_002:0069a14_17']	解寶瓔珞付車匿，　　遙跪敬意囑及曰：	解寶瓔珞付車匿，　　遙跪敬意囑及曰：	Unraveling the jeweled necklace and entrusting it to Channa, kneeling from afar with respectful intention, I said:
+['ZH_T04_0193_002:0069a15_18']	「以此寶珠拜上王，　　執慈意啟唯莫憂。	「以此寶珠拜上王，　　執慈意啟唯莫憂。	With this pearl, I offer it to the king, holding compassionate thoughts, please do not worry.
+['ZH_T04_0193_002:0069a16_17']	畏死懷懼甚苦劇，　　乃令父王失所僥；	畏死懷懼甚苦劇，　　乃令父王失所僥；	Fear of death, apprehension, and great suffering, causing the father king to lose his luck;
+['ZH_T04_0193_002:0069a17_17']	未還膝下之報養，　　乃令慈母宿天上。	未還膝下之報養，　　乃令慈母宿天上。	Not yet repaying the nurturing of my knees, causing the compassionate mother to dwell in the heavens.
+['ZH_T04_0193_002:0069a18_12']	「未致父子，　　慈孝恩養；	「未致父子，　　慈孝恩養；	Not yet able to repay the kindness and nurturing of father and son,
+['ZH_T04_0193_002:0069a19_4']	　　畏死別痛，入山滅意。	　　畏死別痛，入山滅意。	Fearing the pain of separation at death, I enter the mountains to extinguish my thoughts.
+['ZH_T04_0193_002:0069a19_18']	　　覺生死惡，　　事甚眾多；	　　覺生死惡，　　事甚眾多；	Realizing that the evils of birth and death are very numerous,
+['ZH_T04_0193_002:0069a20_11']	我性本調，　　強變令疎。	我性本調，　　強變令疎。	My nature is originally disciplined, yet it is forcibly changed to be distant.
+['ZH_T04_0193_002:0069a21_4']	　　如父戀愛，以加於我；	　　如父戀愛，以加於我；	Just as my father's love and affection are added to me,🔽I too am compassionate and respectful,
+['ZH_T04_0193_002:0069a21_18']	　　我亦慈敬，　　尊重於父。	　　我亦慈敬，　　尊重於父。	honoring my father.🔽Now, Channa,
+['ZH_T04_0193_002:0069a22_11']	今卿車匿，　　具達此義；	今卿車匿，　　具達此義；	you fully understand this meaning;
+['ZH_T04_0193_002:0069a23_4']	　　何煩慇懃，廣及囑啟。	　　何煩慇懃，廣及囑啟。	Why bother to be earnest and extensive, and to entrust and exhort?
+['ZH_T04_0193_002:0069a23_18']	　　閑緩豐饒，　　快樂之時；	　　閑緩豐饒，　　快樂之時；	When leisurely, relaxed, abundant, and happy,
+['ZH_T04_0193_002:0069a24_11']	親厚良友，　　甚易可得。	親厚良友，　　甚易可得。	close friends and good companions are very easy to obtain.
+['ZH_T04_0193_002:0069a25_4']	　　遭患遇厄，良友難值；	　　遭患遇厄，良友難值；	When encountering difficulties and misfortune, good friends are hard to find;
+['ZH_T04_0193_002:0069a25_18']	　　能以快善，　　濟人厄者。	　　能以快善，　　濟人厄者。	Those who can use kindness and goodness to save people from misfortune,
+['ZH_T04_0193_002:0069a26_11']	或有僕使，　　不蒙恩愛；	或有僕使，　　不蒙恩愛；	There may be servants who do not receive kindness and love;
+['ZH_T04_0193_002:0069a27_4']	　　眾勞事役，不悉堪能。	　　眾勞事役，不悉堪能。	Many are burdened with work and are not fully capable.
+['ZH_T04_0193_002:0069a27_18']	　　如卿車匿，　　受恩堪能；	　　如卿車匿，　　受恩堪能；	Like you, Chandaka, who receive kindness and are capable;
+['ZH_T04_0193_002:0069a28_11']	遭惡有卿，　　亦難可遇。	遭惡有卿，　　亦難可遇。	When encountering evil, having you is also difficult to encounter.
+['ZH_T04_0193_002:0069a29_4']	　　凡人居於，快樂中時；	　　凡人居於，快樂中時；	When ordinary people dwell in happiness,
+['ZH_T04_0193_002:0069a29_18']	　　疎遠外人，　　來歸為友。	　　疎遠外人，　　來歸為友。	They keep outsiders at a distance, and those who come to take refuge become friends.
+['ZH_T04_0193_002:0069b01_11']	人遭困儉，　　苦厄中時；	人遭困儉，　　苦厄中時；	When people encounter hardship and misfortune,
+['ZH_T04_0193_002:0069b02_4']	　　骨肉親友，叛為他人。	　　骨肉親友，叛為他人。	Even their flesh and blood relatives and friends turn against them for others.
+['ZH_T04_0193_002:0069b02_18']	　　此吾曩先，　　諸釋種族；	　　此吾曩先，　　諸釋種族；	This was my family of Shakya people in the past;
+['ZH_T04_0193_002:0069b03_11']	馳聲四遠，　　家私風俗。	馳聲四遠，　　家私風俗。	Their reputation spread far and wide, and their family customs
+['ZH_T04_0193_002:0069b04_4']	　　是我先人，所由山澤；	　　是我先人，所由山澤；	This is where my ancestors came from in the mountains and fields;
+['ZH_T04_0193_002:0069b04_18']	　　諸釋亦復，　　不宜蚩我。	　　諸釋亦復，　　不宜蚩我。	The Śākyas should not belittle me either.
+['ZH_T04_0193_002:0069b05_11']	以財施者，　　甚移眾多；	以財施者，　　甚移眾多；	Those who give material things are very numerous,
+['ZH_T04_0193_002:0069b06_4']	　　莫有能以，善法廣施。	　　莫有能以，善法廣施。	But there are few who can give the Dharma widely.
+['ZH_T04_0193_002:0069b06_18']	　　能以善法，　　廣施與者；	　　能以善法，　　廣施與者；	Those who can give the Dharma widely
+['ZH_T04_0193_002:0069b07_11']	無央數劫，　　甚難遭值。	無央數劫，　　甚難遭值。	Are extremely difficult to encounter for countless eons.
+['ZH_T04_0193_002:0069b08_4']	　　如卿車匿，今還歸家；	　　如卿車匿，今還歸家；	Now, Channa, when you return home,
+['ZH_T04_0193_002:0069b08_18']	　　宜向父王，　　陳吾缺斷。	　　宜向父王，　　陳吾缺斷。	You should tell the king on my behalf
+['ZH_T04_0193_002:0069b09_11']	世人由知，　　捐除愛著；	世人由知，　　捐除愛著；	That worldly people, due to their knowledge, abandon attachment;
+['ZH_T04_0193_002:0069b10_4']	　　愛著已除，則無憂戀。	　　愛著已除，則無憂戀。	When attachment is removed, then there is no more sorrow or longing.🔽I see that the whole world is submerged
+['ZH_T04_0193_002:0069b11_11']	　　吾見普世，　　皆沈沒在，憂惱苦患，　　大海深淵。	　　吾見普世，　　皆沈沒在，憂惱苦患，　　大海深淵。	In the deep abyss of the great ocean of suffering and affliction.
+['ZH_T04_0193_002:0069b12_4']	　　所以捨家，欲除老病；	　　所以捨家，欲除老病；	Therefore, I leave home, wishing to eliminate old age and sickness;
+['ZH_T04_0193_002:0069b12_18', 'ZH_T04_0193_002:0069b13_11']	　　不宜相惱，　　增益憂患。🔽人生墮地，　　常追逐人；	　　不宜相惱，　　增益憂患。 人生墮地，　　常追逐人；	You should not trouble me, increasing my worries and afflictions.🔽When a person is born on the ground, old age, sickness, and death always pursue them;
+['ZH_T04_0193_002:0069b14_4']	　　老病死患，甚弊惡害。	　　老病死患，甚弊惡害。	The afflictions of old age, sickness, and death are extremely harmful.
+['ZH_T04_0193_002:0069b14_18']	　　誰能開心，　　信不畏是；	　　誰能開心，　　信不畏是；	Who can open their heart and believe in this fearlessness?
+['ZH_T04_0193_002:0069b15_11']	拔刀惡賊，　　追人走者。	拔刀惡賊，　　追人走者。	The pursuer is a fierce robber with a drawn sword.
+['ZH_T04_0193_002:0069b16_4', 'ZH_T04_0193_002:0069b16_18']	　　若不自勸，開意遠離；🔽　　家屬親族，　　恩愛染着。	　　若不自勸，開意遠離； 　　家屬親族，　　恩愛染着。	If one does not encourage oneself to open the mind and distance oneself,
+['ZH_T04_0193_002:0069b17_11']	必當強遭，　　別離之患；	必當強遭，　　別離之患；	one will certainly be forcefully separated from family, relatives, and the afflictions of affection and attachment.
+['ZH_T04_0193_002:0069b18_4']	　　死對不避，賢愚貴賤。	　　死對不避，賢愚貴賤。	Death will inevitably befall one, regardless of whether one is wise or foolish, noble or humble.
+['ZH_T04_0193_002:0069b19_14']	「親族恩愛會，　　必當強別離；	「親族恩愛會，　　必當強別離；	 Relatives and loved ones will inevitably be forcefully separated.
+['ZH_T04_0193_002:0069b20_13']	奚不別求度，　　不令強死別。	奚不別求度，　　不令強死別。	Why not seek liberation separately, so as not to be forcefully separated by death?
+['ZH_T04_0193_002:0069b21_13']	王若懷此想，　　子非時入山；	王若懷此想，　　子非時入山；	If the king harbors this thought, the prince will enter the mountains at the wrong time;
+['ZH_T04_0193_002:0069b22_13']	行善莫待時，　　命如燭遇風。	行善莫待時，　　命如燭遇風。	Practicing goodness should not wait for the right time, life is like a candle in the wind.
+['ZH_T04_0193_002:0069b23_13']	勝情於父王，　　遙跪叉手啟；	勝情於父王，　　遙跪叉手啟；	Superior in sentiment to the king, he knelt from afar with palms joined and said:
+['ZH_T04_0193_002:0069b24_13']	世間遭劇苦，　　莫念脫苦者。	世間遭劇苦，　　莫念脫苦者。	In the world, those who encounter severe suffering do not think of escaping from suffering.
+['ZH_T04_0193_002:0069b25_13']	吾已脫老病，　　逮得最榮樂；	吾已脫老病，　　逮得最榮樂；	I have already escaped from old age and sickness, and attained the most glorious happiness;
+['ZH_T04_0193_002:0069b26_13']	天帝受五欲，　　不及我受樂。	天帝受五欲，　　不及我受樂。	The heavenly emperor receiving the five desires does not equal my enjoyment of happiness.
+['ZH_T04_0193_002:0069b27_13']	所以離親族，　　後圖獲大利；	所以離親族，　　後圖獲大利；	Therefore, leaving behind relatives, I will later attain great benefits;
+['ZH_T04_0193_002:0069b28_13']	欲令一切生，　　永滅憎愛離。	欲令一切生，　　永滅憎愛離。	I wish to cause all beings to forever extinguish hatred and love, and be separated from them.
+['ZH_T04_0193_002:0069b29_13']	卿知吾素慈，　　父王愛重我；	卿知吾素慈，　　父王愛重我；	You know that I have always been kind, and my father, the king, loves and respects me;
+['ZH_T04_0193_002:0069c01_13']	車匿方便啟，　　諫王令釋憂。	車匿方便啟，　　諫王令釋憂。	Channa, with skillful means, inform the king and make him release his worries.
+['ZH_T04_0193_002:0069c02_13']	」車匿聞教勅，　　愕然懷悲感；	」車匿聞教勅，　　愕然懷悲感；	Channa heard the instructions and was startled, filled with sorrow;
+['ZH_T04_0193_002:0069c03_13']	悚息戰慄悶，　　心如被毒箭。	悚息戰慄悶，　　心如被毒箭。	He trembled in fear and confusion, his heart like being struck by a poisoned arrow.
+['ZH_T04_0193_002:0069c04_13']	雨淚下連珠，　　長跪啼且言：	雨淚下連珠，　　長跪啼且言：	Tears fell like a string of pearls, kneeling for a long time, crying and saying:
+['ZH_T04_0193_002:0069c05_14']	「如何轉輪族，　　今殄滅於尊。	「如何轉輪族，　　今殄滅於尊。	How can the wheel-turning clan now destroy the honored one?
+['ZH_T04_0193_002:0069c06_13']	尊口恒習言，　　與是復與是；	尊口恒習言，　　與是復與是；	The honored one's mouth always practices speaking, with this and with this;
+['ZH_T04_0193_002:0069c07_13']	今反行乞求，　　如何不恥世。	今反行乞求，　　如何不恥世。	Now, on the contrary, going out to beg, how can it not be shameful in the world?
+['ZH_T04_0193_002:0069c08_13']	生性柔體婉，　　今反卒被惡；	生性柔體婉，　　今反卒被惡；	Born with a gentle nature and delicate body, now on the contrary suddenly encountering evil;
+['ZH_T04_0193_002:0069c09_13']	本猶芙蓉花，　　今出火相燒。	本猶芙蓉花，　　今出火相燒。	Originally like a lotus flower, now fire comes out to burn it.
+['ZH_T04_0193_002:0069c10_13']	尊今唯宜速，　　出心之惡奇；	尊今唯宜速，　　出心之惡奇；	The honored one now should only quickly leave, the evil wonder in the mind;
+['ZH_T04_0193_002:0069c11_13']	毒蛇卒入舍，　　當尋擲棄去。	毒蛇卒入舍，　　當尋擲棄去。	If a poisonous snake suddenly enters the house, one should immediately throw it out.
+['ZH_T04_0193_002:0069c12_13']	今不審王意，　　念尊心摧傷；	今不審王意，　　念尊心摧傷；	Now I do not know the king's intention, and my mind is crushed by the thought of the Venerable One;
+['ZH_T04_0193_002:0069c13_13']	不憶緣尊惱，　　猶晝更遭冥。	不憶緣尊惱，　　猶晝更遭冥。	I do not recall ever causing trouble to the Venerable One, yet I am now in darkness as if it were daytime.
+['ZH_T04_0193_002:0069c14_13']	不謂當有是，　　妙德柔軟子；	不謂當有是，　　妙德柔軟子；	I did not expect that there would be this, a son of sublime virtue and gentleness;
+['ZH_T04_0193_002:0069c15_13']	望應節雨澤，　　反雨火釋族。	望應節雨澤，　　反雨火釋族。	I hoped for timely rain and dew, but instead rain and fire fell from the Śākya clan.
+['ZH_T04_0193_002:0069c16_13']	如是大慈父，　　以善養育尊；	如是大慈父，　　以善養育尊；	Such a great and compassionate father, who raised the Venerable One with goodness;
+['ZH_T04_0193_002:0069c17_13']	忽捨養父王，　　如行欺失善。	忽捨養父王，　　如行欺失善。	He suddenly abandoned his father, the king, as if committing a fraud and losing his virtue.
+['ZH_T04_0193_002:0069c18_13']	姨養猶如母，　　繫育如親生；	姨養猶如母，　　繫育如親生；	The aunt raised him as if he were a mother, and nurtured him as if he were a relative;
+['ZH_T04_0193_002:0069c19_13']	願尊莫忽忘，　　如識反復士。	願尊莫忽忘，　　如識反復士。	I wish the Venerable One would not forget, as if recognizing a person who repays kindness.
+['ZH_T04_0193_002:0069c20_13']	如是諸親族，　　及昆弟鄉邑；	如是諸親族，　　及昆弟鄉邑；	Such relatives, and brothers from the same village;
+['ZH_T04_0193_002:0069c21_13']	願莫捨是會，　　如慳人恡財。	願莫捨是會，　　如慳人恡財。	I wish he would not abandon this assembly, as if a miserly person is stingy with wealth.
+['ZH_T04_0193_002:0069c22_13']	尊與城別後，　　國人狂懷憂；	尊與城別後，　　國人狂懷憂；	After the Venerable One left the city, the people of the country were crazed with worry;
+['ZH_T04_0193_002:0069c23_13']	如龍遇金鳥，　　舉國動如是。	如龍遇金鳥，　　舉國動如是。	As if a dragon encountered a garuḍa, the entire country trembled like this.
+['ZH_T04_0193_002:0069c24_13']	尊生時普國，　　吉祥如天上；	尊生時普國，　　吉祥如天上；	When you were born, the entire country was auspicious, like heaven;
+['ZH_T04_0193_002:0069c25_13']	今捨入山澤，　　墜苦如墮獄。	今捨入山澤，　　墜苦如墮獄。	Now abandoning to enter the mountains and wilderness, the suffering is like falling into hell.
+['ZH_T04_0193_002:0069c26_13']	初施德於國，　　猶冬日陽和；	初施德於國，　　猶冬日陽和；	Initially, your virtue to the country was like the warmth of the winter sun;
+['ZH_T04_0193_002:0069c27_13']	後施憂惱熱，　　如夏亢燋然。	後施憂惱熱，　　如夏亢燋然。	Later, your bestowal of worry and distress is like the scorching heat of a drought in summer.
+['ZH_T04_0193_002:0069c28_13']	咄哉苦無德，　　審為天所迷；	咄哉苦無德，　　審為天所迷；	Alas, suffering has no virtue, truly it is being deluded by heaven;
+['ZH_T04_0193_002:0069c29_13']	致馬來與尊，　　致憂惱一國。	致馬來與尊，　　致憂惱一國。	It caused the horse to come and bestow worry and distress upon the entire country.
+['ZH_T04_0193_002:0070a01_13']	施目淚於民，　　心憂口祝禱；	施目淚於民，　　心憂口祝禱；	Bestowing tears to the people, the mind is worried and the mouth offers prayers;
+['ZH_T04_0193_002:0070a02_13']	王以下男女，　　覆以憂霧雲。	王以下男女，　　覆以憂霧雲。	The king and his sons and daughters are covered with a cloud of worry.
+['ZH_T04_0193_002:0070a03_13']	先師訓禮儀，　　當普慈眾生；	先師訓禮儀，　　當普慈眾生；	The former teacher's training in etiquette and propriety, one should universally have compassion for all beings;
+['ZH_T04_0193_002:0070a04_13']	惱二親種族，　　自守有何道。	惱二親種族，　　自守有何道。	Disturbing the two parents and relatives, what path is there in self-guarding?
+['ZH_T04_0193_002:0070a05_13']	象馬千祠祀，　　若慈愍眾生；	象馬千祠祀，　　若慈愍眾生；	Sacrificing a thousand elephants and horses, if one has compassion for all beings;
+['ZH_T04_0193_002:0070a06_13']	假稱量二德，　　慈福萬億重。	假稱量二德，　　慈福萬億重。	Pretending to measure the two virtues, the merit of compassion is ten thousand koṭis of times greater.
+['ZH_T04_0193_002:0070a07_13']	今王求寶子，　　垂老憂體重；	今王求寶子，　　垂老憂體重；	Now the king seeks a precious son, with old age approaching, the body is heavy with worry;
+['ZH_T04_0193_002:0070a08_13']	狂行失志思，　　如野象失子。	狂行失志思，　　如野象失子。	With mad behavior and lost will, like a wild elephant losing its calf.
+['ZH_T04_0193_002:0070a09_13']	涕泣目眩赤，　　失寐顏色變；	涕泣目眩赤，　　失寐顏色變；	Weeping, eyes red and swollen, losing sleep and changing complexion;
+['ZH_T04_0193_002:0070a10_13']	今王歎呼吟，　　猶山鳥失子。	今王歎呼吟，　　猶山鳥失子。	Now the king laments and sings, like a mountain bird losing its young.
+['ZH_T04_0193_002:0070a11_13']	吾當用活為，　　失豐德神子；	吾當用活為，　　失豐德神子；	I should live for him, losing the son of abundant virtue and divinity;
+['ZH_T04_0193_002:0070a12_13']	從子遭惱報，　　王當云如是。	從子遭惱報，　　王當云如是。	Following the son's suffering and retribution, the king should be like this.
+['ZH_T04_0193_002:0070a13_13']	尊面習蓋蔭，　　何忍日暴露；	尊面習蓋蔭，　　何忍日暴露；	The honored face is accustomed to the shade of the canopy, how can you bear the sun's exposure?
+['ZH_T04_0193_002:0070a14_13']	在宮寢寐時，　　寶帳綩綖褥。	在宮寢寐時，　　寶帳綩綖褥。	When sleeping in the palace, on jeweled curtains, soft bedding;
+['ZH_T04_0193_002:0070a15_13']	寶枕文繡被，　　五音以寢寐；	寶枕文繡被，　　五音以寢寐；	Jeweled pillows, embroidered covers, and the five tones for sleeping;
+['ZH_T04_0193_002:0070a16_13']	今布草枕臂，　　鳥鳴如何眠？	今布草枕臂，　　鳥鳴如何眠？	Now spreading grass for a pillow, with birds singing, how can you sleep?
+['ZH_T04_0193_002:0070a17_13']	若人聞此問，　　縱令金剛心；	若人聞此問，　　縱令金剛心；	If people hear this question, even if they have an adamantine mind;
+['ZH_T04_0193_002:0070a18_13']	他聞心當裂，　　況親族知識。	他聞心當裂，　　況親族知識。	Hearing it, their hearts will break, let alone close relatives and acquaintances.
+['ZH_T04_0193_002:0070a19_14']	」「卿莫放吾志，　　奉我有大勞；	」「卿莫放吾志，　　奉我有大勞；	Do not let go of my will, I have greatly served you;
+['ZH_T04_0193_002:0070a20_13']	今還馬犍陟，　　吾已居山澤。	今還馬犍陟，　　吾已居山澤。	Now returning the horse Kanthaka, I have already gone to live in the mountains and marshes.
+['ZH_T04_0193_002:0070a21_13']	」馬聞太子語，　　目即雨熱淚；	」馬聞太子語，　　目即雨熱淚；	When the horse heard the prince's words, its eyes immediately rained hot tears;
+['ZH_T04_0193_002:0070a22_13']	跪地暢悲鳴，　　便跪舌舐足。	跪地暢悲鳴，　　便跪舌舐足。	Kneeling on the ground, it neighed with sorrow, then knelt down and licked the prince's feet with its tongue.
+['ZH_T04_0193_002:0070a23_13']	以百福相手，　　太子摩馬頭；	以百福相手，　　太子摩馬頭；	With his hundred-blessed hands, the prince stroked the horse's head,
+['ZH_T04_0193_002:0070a24_13']	猶如曉良友，　　吾當識汝勤。	猶如曉良友，　　吾當識汝勤。	As if consoling a good friend, saying, I will remember your efforts.
+['ZH_T04_0193_002:0070a25_5']	車匿啟太子：	車匿啟太子：	Channa said to the prince:
+['ZH_T04_0193_002:0070a26_13']	　　「已割意捨國，願莫見遣還，　　離尊用活為？	　　「已割意捨國，願莫見遣還，　　離尊用活為？	You have already cut off your intentions and left the country. I hope you will not be sent back to see me. What is the use of living apart from you?
+['ZH_T04_0193_002:0070a27_13']	戀尊心燋惱，　　何忍能還命；	戀尊心燋惱，　　何忍能還命；	Longing for you, my heart is scorched and distressed. How can I bear to return to life?
+['ZH_T04_0193_002:0070a28_13']	捨尊曠野路，　　云何獨堪諧？	捨尊曠野路，　　云何獨堪諧？	Leaving you on the road to the wilderness, how can I bear to go back alone?
+['ZH_T04_0193_002:0070a29_14']	」「卿但將馬去，　　可來還見吾；	」「卿但將馬去，　　可來還見吾；	 You just take the horse and go. You can come back and see me;
+['ZH_T04_0193_002:0070b01_13']	事成當還國，　　不成願形枯。	事成當還國，　　不成願形枯。	If the matter is accomplished, I will return to the country. If it is not accomplished, I wish to wither away.
+['ZH_T04_0193_002:0070b02_13']	」車匿啼且還，　　順道而牽馬；	」車匿啼且還，　　順道而牽馬；	Channa cried as he returned, leading the horse along the road;
+['ZH_T04_0193_002:0070b03_13']	顧視而無厭，　　蹋地強還歸。	顧視而無厭，　　蹋地強還歸。	Looking back without any reluctance, he stamped his feet and forcefully returned.
+['ZH_T04_0193_002:0070b04_13']	太子捨家出，　　願逮不動處；	太子捨家出，　　願逮不動處；	The prince left home to seek the immovable state;
+['ZH_T04_0193_002:0070b05_13']	欲令一切生，　　皆逮得是處。	欲令一切生，　　皆逮得是處。	Wishing to cause all beings to attain this state.🔽Chapter 13: King Bimbisāra's Inquiry into Affairs Buddha-carita: The Life of the Buddha, Chapter 13: King Bimbisāra's Inquiry into Affairs
+['ZH_T04_0193_002:0070b07_11']	13 瓶沙王問事品佛本行經瓶沙王問事品第十三於是車匿，　　將馬去後；	13 瓶沙王問事品佛本行經瓶沙王問事品第十三於是車匿，　　將馬去後；	Then, after Channa took the horse away,
+['ZH_T04_0193_002:0070b08_4']	　　寂然滅意，詳雄猛步。	　　寂然滅意，詳雄猛步。	He was silent, his mind extinguished, his steps firm and courageous.
+['ZH_T04_0193_002:0070b08_18']	　　如師子王，　　裂壞眾網；	　　如師子王，　　裂壞眾網；	Like a lion king, tearing apart the nets,
+['ZH_T04_0193_002:0070b09_11']	專心一向，　　樂居山澤。	專心一向，　　樂居山澤。	Single-mindedly, he enjoyed dwelling in the mountains and fields.
+['ZH_T04_0193_002:0070b10_4']	　　形體巍巍，目明普視；	　　形體巍巍，目明普視；	His form was majestic, his eyes bright and all-seeing;
+['ZH_T04_0193_002:0070b10_18']	　　入林樹間，　　如日入雲。	　　入林樹間，　　如日入雲。	Entering the forest, like the sun entering the clouds.
+['ZH_T04_0193_002:0070b11_11']	雖獨遊行，　　德如大眾；	雖獨遊行，　　德如大眾；	Although he wandered alone, his virtue was like that of a great assembly;
+['ZH_T04_0193_002:0070b12_4']	　　眾善內著，外福始友。	　　眾善內著，外福始友。	The multitude of virtues internally attached, external blessings beginning with friendship.
+['ZH_T04_0193_002:0070b13_13']	行且自思惟，　　不宜著綵服；	行且自思惟，　　不宜著綵服；	As he walked, he thought to himself, It is not appropriate to wear colorful clothes;
+['ZH_T04_0193_002:0070b14_13']	忽見釋化作，　　獵師被袈裟。	忽見釋化作，　　獵師被袈裟。	Suddenly he saw Śakra transform into a hunter wearing a kāṣāya robe.
+['ZH_T04_0193_002:0070b15_5']	太子因語曰：	太子因語曰：	The prince then said, 
+['ZH_T04_0193_002:0070b16_13']	　　「此服非汝宜，取吾金綵衣，　　卿袈裟與我。	　　「此服非汝宜，取吾金綵衣，　　卿袈裟與我。	This robe is not suitable for you. Take my golden brocade robe and give me your kāṣāya robe.
+['ZH_T04_0193_002:0070b17_13']	」獵師尋便與，　　木蘭真袈裟；	」獵師尋便與，　　木蘭真袈裟；	The hunter then gave him the true monastic robe of wood-colored cloth;
+['ZH_T04_0193_002:0070b18_13']	受衣還釋形，　　忽然昇虛逝。	受衣還釋形，　　忽然昇虛逝。	Receiving the robe, he returned to his original form and suddenly ascended into the sky and departed.
+['ZH_T04_0193_002:0070b19_13']	太子被袈裟，　　體宜則鮮明；	太子被袈裟，　　體宜則鮮明；	The prince, wearing the monastic robe, his body was fresh and bright;
+['ZH_T04_0193_002:0070b20_13']	猶如盛秋月，　　紫雲所纏繞。	猶如盛秋月，　　紫雲所纏繞。	Just like the full autumn moon, wrapped in purple clouds.
+['ZH_T04_0193_002:0070b21_13']	林藪有梵志，　　隱居學神仙；	林藪有梵志，　　隱居學神仙；	In the forest there was a brahman, living in seclusion studying the divine arts;
+['ZH_T04_0193_002:0070b22_13']	見太子往至，　　皆懷愕然心。	見太子往至，　　皆懷愕然心。	Seeing the prince come, they all had a shocked mind.
+['ZH_T04_0193_002:0070b23_13']	熟視觀太子，　　不能還其竲；	熟視觀太子，　　不能還其竲；	Thoroughly gazing at the prince, they could not return to their original state;
+['ZH_T04_0193_002:0070b24_13']	懷疑良久頃，　　乃還相謂曰：	懷疑良久頃，　　乃還相謂曰：	With doubts in their hearts for a long time, they then returned to each other and said:
+['ZH_T04_0193_002:0070b25_14']	「得無是北斗，　　七星第八者；	「得無是北斗，　　七星第八者；	Could it be the eighth star of the Big Dipper,
+['ZH_T04_0193_002:0070b26_13']	或云乘馬宿，　　下行視世間。	或云乘馬宿，　　下行視世間。	Or said to be the star of the constellation Pegasus, descending to observe the world.
+['ZH_T04_0193_002:0070b27_13']	或云觀其形，　　將是德神願；	或云觀其形，　　將是德神願；	Or said to observe his form, it will be the divine vow of virtue;
+['ZH_T04_0193_002:0070b28_13']	或名日天子，　　或言月天降。	或名日天子，　　或言月天降。	Or named the sun god, or said to be the moon god descending.
+['ZH_T04_0193_002:0070b29_13']	」於其中有一，　　智達梵志曰：	」於其中有一，　　智達梵志曰：	Among them there was a wise brahman who said:
+['ZH_T04_0193_002:0070c01_14']	「將無是梵天，　　自下至此林。	「將無是梵天，　　自下至此林。	Could it be that the Brahma Heaven has descended to this forest?
+['ZH_T04_0193_002:0070c02_13']	以卿梵志等，　　守行純熟故；	以卿梵志等，　　守行純熟故；	Because you ascetics and others abide in pure practice;
+['ZH_T04_0193_002:0070c03_13']	喜欲充吾僥，　　故行至此林。	喜欲充吾僥，　　故行至此林。	I joyfully wish to fulfill my good fortune, so I have come to this forest.
+['ZH_T04_0193_002:0070c04_13']	」以如是言論，　　同聲相謂已；	」以如是言論，　　同聲相謂已；	Having spoken such words, they spoke to each other in unison;
+['ZH_T04_0193_002:0070c05_13']	梵志體重者，　　忽然即輕便。	梵志體重者，　　忽然即輕便。	The heavy body of the ascetic suddenly became light and nimble.
+['ZH_T04_0193_002:0070c06_5']	菩薩問梵志：	菩薩問梵志：	The Bodhisattva asked the ascetics:
+['ZH_T04_0193_002:0070c06_14']	　　「各修何道術？	　　「各修何道術？	What path and techniques does each of you cultivate?
+['ZH_T04_0193_002:0070c07_13']	」無有可採者，　　有一梵志曰：	」無有可採者，　　有一梵志曰：	There was no one who could respond, but one ascetic said:
+['ZH_T04_0193_002:0070c08_14']	「善哉汝德妙，　　意決甚深奧。	「善哉汝德妙，　　意決甚深奧。	Excellent! Your virtue is wonderful, and your intentions are very profound.
+['ZH_T04_0193_002:0070c09_13']	年盛德幼美，　　覺生死欲穢。	年盛德幼美，　　覺生死欲穢。	In the prime of your youth, with youthful beauty, you are aware of the defilements of birth and death.
+['ZH_T04_0193_002:0070c10_13']	唯當審諦察，　　生天泥洹道；	唯當審諦察，　　生天泥洹道；	You should only carefully observe the path to rebirth in the heavens and nirvana;
+['ZH_T04_0193_002:0070c11_13']	樂取滅度者，　　是可謂為人。	樂取滅度者，　　是可謂為人。	Those who delight in attaining nirvana are to be called people.
+['ZH_T04_0193_002:0070c12_13']	若心必決定，　　樂趣無為者；	若心必決定，　　樂趣無為者；	If your mind is definitely determined, and you delight in the unconditioned,
+['ZH_T04_0193_002:0070c13_13']	速疾可往詣，　　中清淨山林。	速疾可往詣，　　中清淨山林。	You should quickly go to the pure mountain forests.
+['ZH_T04_0193_002:0070c14_13']	於彼有仙士，　　名曰無不達；	於彼有仙士，　　名曰無不達；	There was an ascetic there, named Nothing Unattained;
+['ZH_T04_0193_002:0070c15_13']	彼得審諦眼，　　觀見泥洹無。	彼得審諦眼，　　觀見泥洹無。	He obtained the eye of discernment, and observed that nirvana was nonexistent.
+['ZH_T04_0193_002:0070c16_13']	如我今觀察，　　仁意之審諦；	如我今觀察，　　仁意之審諦；	As I now observe, your intention is discerning and true;
+['ZH_T04_0193_002:0070c17_13']	彼之所修學，　　豈能合仁意。	彼之所修學，　　豈能合仁意。	How could what he cultivated be able to accord with your intention?
+['ZH_T04_0193_002:0070c18_13']	其面如滿月，　　舌如花葉者；	其面如滿月，　　舌如花葉者；	One whose face is like the full moon, and whose tongue is like flower petals,
+['ZH_T04_0193_002:0070c19_13']	必當普飲盡，　　智慧之淵海。	必當普飲盡，　　智慧之淵海。	Will surely drink up the vast ocean of wisdom.
+['ZH_T04_0193_002:0070c20_13']	」視菩薩行步，　　如月天子降；	」視菩薩行步，　　如月天子降；	Observing the Bodhisattva's gait, like the moon god descending;
+['ZH_T04_0193_002:0070c21_13', 'ZH_T04_0193_002:0070c22_13']	於是諸梵志，　　皆嘆未曾有。🔽心皆懷踊躍，　　如淵海潮波；	於是諸梵志，　　皆嘆未曾有。 心皆懷踊躍，　　如淵海潮波；	Then all the Brahmins exclaimed in wonder.🔽Their minds were filled with joy, like the tides of the ocean;
+['ZH_T04_0193_002:0070c23_13']	情中欣欣喜，　　猶冥蒙月光。	情中欣欣喜，　　猶冥蒙月光。	Their feelings were elated with joy, like the darkness being illuminated by moonlight.
+['ZH_T04_0193_002:0070c24_13']	太子見是等，　　所學各若干；	太子見是等，　　所學各若干；	The prince saw these, whose studies were each various;
+['ZH_T04_0193_002:0070c25_13']	種種暴露形，　　心傷悵然歎：	種種暴露形，　　心傷悵然歎：	Their forms exposed in various ways, his heart was pained and he sighed:
+['ZH_T04_0193_002:0070c26_14']	「何一惡之甚，　　愚癡所迷惑；	「何一惡之甚，　　愚癡所迷惑；	What is the worst evil, deluded by foolishness?
+['ZH_T04_0193_002:0070c27_13']	世間可憐傷，　　迷行強入苦。	世間可憐傷，　　迷行強入苦。	The world is pitiable, with deluded actions forcefully entering suffering.
+['ZH_T04_0193_002:0070c28_13']	」心思無吾我，　　猶如大象王；	」心思無吾我，　　猶如大象王；	The mind contemplates without self, like the king of great elephants;
+['ZH_T04_0193_002:0070c29_13']	悚然懷恐懼，　　出離盛火林。	悚然懷恐懼，　　出離盛火林。	Startled and fearful, leaving the forest of blazing fire.
+['ZH_T04_0193_002:0071a01_13']	金色之光明，　　晃照林樹邊；	金色之光明，　　晃照林樹邊；	The golden-colored radiance illuminates the edge of the forest;
+['ZH_T04_0193_002:0071a02_13']	猶如秋節日，　　歷青雲而去。	猶如秋節日，　　歷青雲而去。	Like the autumn season, passing through the blue clouds.
+['ZH_T04_0193_002:0071a03_13', 'ZH_T04_0193_002:0071a04_13']	見恒運眾流，　　至於海水王；🔽以群鴈白鵠，　　為白珠瓔珞。	見恒運眾流，　　至於海水王； 以群鴈白鵠，　　為白珠瓔珞。	Seeing the constant flow of the Ganges River reaching the king of the ocean;🔽Using flocks of white geese as white pearl necklaces.
+['ZH_T04_0193_002:0071a05_13']	用勢洪流波，　　以當寶環釧；	用勢洪流波，　　以當寶環釧；	Using the vast waves of power as jeweled bracelets and anklets;
+['ZH_T04_0193_002:0071a06_13']	來至恒水側，　　猶如海神王。	來至恒水側，　　猶如海神王。	Coming to the side of the Ganges River, like the king of the ocean gods.
+['ZH_T04_0193_002:0071a07_13']	以百福德相，　　普莊嚴其身；	以百福德相，　　普莊嚴其身；	Using the marks of a hundred merits to adorn his body;
+['ZH_T04_0193_002:0071a08_13']	入於恒水中，　　眾流皆澄清。	入於恒水中，　　眾流皆澄清。	Entering the water of the Ganges, all the currents become clear.
+['ZH_T04_0193_002:0071a09_13']	一切水中神，　　從下迎接足；	一切水中神，　　從下迎接足；	All the water spirits welcome his feet from below;
+['ZH_T04_0193_002:0071a10_13']	斯須尋歷過，　　猶如群鴈王。	斯須尋歷過，　　猶如群鴈王。	In an instant, he passes through, like the king of flocks of geese.
+['ZH_T04_0193_002:0071a11_13']	時度恒水已，　　知宜行應節；	時度恒水已，　　知宜行應節；	Having crossed the Ganges River, knowing the appropriate time to proceed,
+['ZH_T04_0193_002:0071a12_13']	除去貢高意，　　入王舍分衛。	除去貢高意，　　入王舍分衛。	Removing thoughts of arrogance, he entered Rājagṛha to beg for alms.
+['ZH_T04_0193_002:0071a13_13']	被服沙門衣，　　木蘭色袈裟；	被服沙門衣，　　木蘭色袈裟；	Wearing the robes of an ascetic, a maroon-colored robe;
+['ZH_T04_0193_002:0071a14_13']	寂定攝諸根，　　行步應威儀。	寂定攝諸根，　　行步應威儀。	Tranquil and focused, controlling the senses, his steps in accord with dignified conduct.
+['ZH_T04_0193_002:0071a15_13']	見太子體相，　　功德耀巍巍；	見太子體相，　　功德耀巍巍；	Seeing the prince's physical characteristics, his merits shining brightly;
+['ZH_T04_0193_002:0071a16_13']	所服寂滅衣，　　色應清淨行。	所服寂滅衣，　　色應清淨行。	The robes he wore were of tranquility, the color in accord with pure conduct.
+['ZH_T04_0193_002:0071a17_13']	人民皆愕然，　　擾動懷歡喜；	人民皆愕然，　　擾動懷歡喜；	The people were all astonished, agitated with joy in their hearts;
+['ZH_T04_0193_002:0071a18_13']	熟觀菩薩形，　　眼睛如繫著。	熟觀菩薩形，　　眼睛如繫著。	Thoroughly observing the Bodhisattva's form, their eyes were fixed upon him.
+['ZH_T04_0193_002:0071a19_13']	聚觀是菩薩，　　其心無厭極；	聚觀是菩薩，　　其心無厭極；	Gathered to observe this Bodhisattva, their minds were insatiable;
+['ZH_T04_0193_002:0071a20_13']	宿世功德備，　　眾相悉具足。	宿世功德備，　　眾相悉具足。	Merits from past lives were complete, all the marks fully endowed.
+['ZH_T04_0193_002:0071a21_13']	猶如妙芙蓉，　　雜色千種藕；	猶如妙芙蓉，　　雜色千種藕；	Like a beautiful lotus flower, with a thousand kinds of variegated colors;
+['ZH_T04_0193_002:0071a22_13']	眾人往自觀，　　如蜂集蓮花。	眾人往自觀，　　如蜂集蓮花。	The people went to observe themselves, like bees gathering around lotus flowers.
+['ZH_T04_0193_002:0071a23_13']	厥所由至趣，　　眾人悉隨從；	厥所由至趣，　　眾人悉隨從；	Wherever he went, the people all followed;
+['ZH_T04_0193_002:0071a24_13']	譬如人諸根，　　隨心走周旋。	譬如人諸根，　　隨心走周旋。	It is like a person's faculties, following the mind, running around.
+['ZH_T04_0193_002:0071a25_13']	因展轉相謂，　　歎羨其功德；	因展轉相謂，　　歎羨其功德；	Because of this, they turn to each other, praising and admiring his merits;
+['ZH_T04_0193_002:0071a26_13']	觀此言是人，　　人中之妙寶。	觀此言是人，　　人中之妙寶。	Observing this person's words, he is a wonderful treasure among people.
+['ZH_T04_0193_002:0071a27_13']	諦視其眼目，　　面之妙姿容；	諦視其眼目，　　面之妙姿容；	Carefully looking at his eyes and the wonderful appearance of his face;
+['ZH_T04_0193_002:0071a28_13']	譬如聚粟金，　　中有帝紺寶。	譬如聚粟金，　　中有帝紺寶。	It is like a heap of millet and gold, with an imperial purple jewel in the middle.
+['ZH_T04_0193_002:0071a29_13']	光明所纏繞，　　德相積聚成；	光明所纏繞，　　德相積聚成；	Surrounded by radiance, virtues and characteristics accumulate;
+['ZH_T04_0193_002:0071b01_13']	姿貌甚和合，　　眾好悉具足。	姿貌甚和合，　　眾好悉具足。	The appearance is very harmonious, with all the good qualities complete.
+['ZH_T04_0193_002:0071b02_13']	彌一切人意，　　眼睛俱相隨；	彌一切人意，　　眼睛俱相隨；	Satisfying the minds of all people, the eyes follow each other;
+['ZH_T04_0193_002:0071b03_13']	數數諦熟視，　　而無有厭足。	數數諦熟視，　　而無有厭足。	Carefully observing again and again, one never tires of it.
+['ZH_T04_0193_002:0071b04_13']	猶如遇暴雪，　　寒凍甚猛切；	猶如遇暴雪，　　寒凍甚猛切；	It is like encountering a heavy snowstorm, with severe cold and freezing;
+['ZH_T04_0193_002:0071b05_13']	眾人爭競前，　　猶如得火湯。	眾人爭競前，　　猶如得火湯。	The people compete to go forward, as if they have obtained hot water.
+['ZH_T04_0193_002:0071b06_13']	諸貴姓女人，　　各馳出其舍；	諸貴姓女人，　　各馳出其舍；	The noble-born women each rush out of their houses;
+['ZH_T04_0193_002:0071b07_13']	猶如盛雲中，　　晃晃出電光。	猶如盛雲中，　　晃晃出電光。	It is like the bright lightning flashing from within the thick clouds.
+['ZH_T04_0193_002:0071b08_13']	譬如無憂樹，　　枝葉花繁茂；	譬如無憂樹，　　枝葉花繁茂；	It is like a tree without worries, with luxuriant branches, leaves, and flowers;
+['ZH_T04_0193_002:0071b09_13']	風之所吹屈，　　傾曲禮菩薩。	風之所吹屈，　　傾曲禮菩薩。	Blown by the wind, it bends and bows to the Bodhisattva.
+['ZH_T04_0193_002:0071b10_13']	抱上嬰孩兒，　　口皆放母乳；	抱上嬰孩兒，　　口皆放母乳；	An infant in the arms, its mouth releases mother's milk;
+['ZH_T04_0193_002:0071b11_13']	熟視觀菩薩，　　忘不還求乳。	熟視觀菩薩，　　忘不還求乳。	Staring intently at the Bodhisattva, it forgets to suckle.
+['ZH_T04_0193_002:0071b12_13']	舉城中人民，　　皆共競嘆譽；	舉城中人民，　　皆共競嘆譽；	The people of the entire city all compete in praising and admiring;
+['ZH_T04_0193_002:0071b13_13']	各各言是好，　　是妙是好相。	各各言是好，　　是妙是好相。	Each says, This is good, This is wonderful, This is a good sign.
+['ZH_T04_0193_002:0071b14_5']	時有一人言：	時有一人言：	At that time, there was a person who said:
+['ZH_T04_0193_002:0071b15_13']	　　「若卒有人言，如甞石蜜餅，　　是美是不美？	　　「若卒有人言，如甞石蜜餅，　　是美是不美？	If suddenly there is someone who says, 'The taste of a rock candy cake is either delicious or not delicious?'
+['ZH_T04_0193_002:0071b16_13']	如彼之形貌，　　若偏歎一事；	如彼之形貌，　　若偏歎一事；	Like their appearance, if one praises a single matter one-sidedly;
+['ZH_T04_0193_002:0071b17_13']	不可偏說一，　　眾德善積聚。	不可偏說一，　　眾德善積聚。	One cannot speak one-sidedly, as the multitude of virtues are accumulated.
+['ZH_T04_0193_002:0071b18_13', 'ZH_T04_0193_002:0071b19_13']	」審諦之表識，　　眾善盡顯露；🔽以嚴飾其身，　　充滿人心目。	」審諦之表識，　　眾善盡顯露； 以嚴飾其身，　　充滿人心目。	The manifestation of discernment, all wholesome qualities are fully revealed;🔽Adorning their bodies, filling the hearts and eyes of the people.
+['ZH_T04_0193_002:0071b20_13']	眾花飾其容，　　軟香感人情；	眾花飾其容，　　軟香感人情；	The multitude of flowers adorning their appearance, soft fragrance touching people's feelings;
+['ZH_T04_0193_002:0071b21_13']	猶如陽春節，　　顯然而晃昱。	猶如陽春節，　　顯然而晃昱。	it is manifest and radiant.🔽As for the retribution of past actions,
+['ZH_T04_0193_002:0071b22_13']	夫宿行之報，　　如何無慈心；	夫宿行之報，　　如何無慈心；	how can there be no compassionate mind?🔽Using this heavenly form to beg,
+['ZH_T04_0193_002:0071b23_13']	以是天形乞，　　不為普地王。	以是天形乞，　　不為普地王。	it is not for the universal king.🔽Consciousness can recognize this,
+['ZH_T04_0193_002:0071b24_13']	識能識知是，　　行從他人乞；	識能識知是，　　行從他人乞；	and practice begging from others;🔽who can give to this person,
+['ZH_T04_0193_002:0071b25_13']	誰能施是人，　　計無有稱者。	誰能施是人，　　計無有稱者。	calculating there is no match.🔽At that time, the king of that country,
+['ZH_T04_0193_002:0071b26_13']	爾時其國王，　　厥號為瓶沙；	爾時其國王，　　厥號為瓶沙；	called Bimbisāra;🔽at that time, he was in a high pavilion,
+['ZH_T04_0193_002:0071b27_13']	時處高觀上，　　遙見太子行。	時處高觀上，　　遙見太子行。	and from afar he saw the prince walking.
+['ZH_T04_0193_002:0071b28_5']	即問左右曰：	即問左右曰：	He immediately asked those on the left and right:
+['ZH_T04_0193_002:0071b28_14']	　　「彼行者是誰？	　　「彼行者是誰？	Who is that walker?🔽His appearance is very fresh and bright,
+['ZH_T04_0193_002:0071b29_13']	容貌甚鮮明，　　而服縵色衣。	容貌甚鮮明，　　而服縵色衣。	and he wears a variegated-colored robe.🔽The attendant ministers then informed the king,
+['ZH_T04_0193_002:0071c01_13']	」傍臣即啟王，　　廣陳其種姓；	」傍臣即啟王，　　廣陳其種姓；	extensively explaining his lineage;
+['ZH_T04_0193_002:0071c02_5']	王勅傍臣曰：	王勅傍臣曰：	The king ordered the attendant ministers:
+['ZH_T04_0193_002:0071c02_14']	　　「察其行所趣？	　　「察其行所趣？	Observe where he is going?🔽Outside the city, after eating,
+['ZH_T04_0193_002:0071c03_13']	」於城外食訖，　　上槃塔名山；	」於城外食訖，　　上槃塔名山；	he went to Mount Pāṇḍava;🔽the light and shadow were shining brightly,
+['ZH_T04_0193_002:0071c04_13']	光影照然明，　　如日臨山崗。	光影照然明，　　如日臨山崗。	like the sun on a mountain ridge.
+['ZH_T04_0193_002:0071c05_13']	於時王瓶沙，　　單與將從俱；	於時王瓶沙，　　單與將從俱；	At that time, King Bimbisāra, alone with his attendants,
+['ZH_T04_0193_002:0071c06_13']	王至槃塔山，　　服飾形容殊。	王至槃塔山，　　服飾形容殊。	The king arrived at Mount Pāṇḍava, his attire and appearance extraordinary.
+['ZH_T04_0193_002:0071c07_13']	侍從執寶蓋，　　祥雅師子步；	侍從執寶蓋，　　祥雅師子步；	His retinue held a jeweled parasol, auspicious and elegant, with a lion's stride;
+['ZH_T04_0193_002:0071c08_13']	王至下寶車，　　步步而登山。	王至下寶車，　　步步而登山。	The king descended from his jeweled chariot, step by step, climbing the mountain.
+['ZH_T04_0193_002:0071c09_13']	見太子獨坐，　　諸根寂然滅；	見太子獨坐，　　諸根寂然滅；	He saw the prince sitting alone, his faculties still and extinguished;
+['ZH_T04_0193_002:0071c10_13']	譬如盛滿月，　　霍然處雲上。	譬如盛滿月，　　霍然處雲上。	Like a full moon, suddenly appearing above the clouds.
+['ZH_T04_0193_002:0071c11_13']	如諸法色像，　　忽然而化現；	如諸法色像，　　忽然而化現；	Like the appearance of phenomena, suddenly manifesting;
+['ZH_T04_0193_002:0071c12_13']	意甚懷愕然，　　顧謂傍臣曰：	意甚懷愕然，　　顧謂傍臣曰：	His mind was greatly startled, and he said to the ministers beside him:
+['ZH_T04_0193_002:0071c13_14']	「其有是形貌，　　姿容可愛喜；	「其有是形貌，　　姿容可愛喜；	Whoever has such a form and appearance, with a lovable and delightful countenance;
+['ZH_T04_0193_002:0071c14_13']	今是必可保，　　能成大善德。	今是必可保，　　能成大善德。	Now this one is certainly worthy of protection, able to accomplish great virtue.
+['ZH_T04_0193_002:0071c15_13']	今觀其眾善，　　宛軟而柔弱；	今觀其眾善，　　宛軟而柔弱；	Now observing his many virtues, gentle and yielding;
+['ZH_T04_0193_002:0071c16_13']	略視其要相，　　唯佛應有是。	略視其要相，　　唯佛應有是。	Briefly considering his essential characteristics, only a Buddha should have this.
+['ZH_T04_0193_002:0071c17_13']	」除去憍慢意，　　執謙而為禮；	」除去憍慢意，　　執謙而為禮；	Removing his arrogant thoughts, he humbly made obeisance;
+['ZH_T04_0193_002:0071c18_13']	王因其時宜，　　而問訊菩薩。	王因其時宜，　　而問訊菩薩。	The king, in accordance with the occasion, inquired after the Bodhisattva.
+['ZH_T04_0193_002:0071c19_13']	王以清淨意，　　前坐青石上；	王以清淨意，　　前坐青石上；	With a pure mind, the king sat in front on a blue stone;
+['ZH_T04_0193_002:0071c20_13']	即便啟菩薩，　　因是說偈言：	即便啟菩薩，　　因是說偈言：	He then addressed the Bodhisattva and spoke this verse:
+['ZH_T04_0193_002:0071c21_14']	「太子之先族，　　出於日天子；	「太子之先族，　　出於日天子；	The ancestral lineage of the prince comes from the sun god;
+['ZH_T04_0193_002:0071c22_13']	年時在壯幼，　　形容甚照曜。	年時在壯幼，　　形容甚照曜。	In the prime of youth, his appearance is extremely radiant.
+['ZH_T04_0193_002:0071c23_13']	不審其緣故，　　乃興發此意；	不審其緣故，　　乃興發此意；	I do not know the reason why he has given rise to this intention;
+['ZH_T04_0193_002:0071c24_13']	乞匃以自濟，　　不甘世王位。	乞匃以自濟，　　不甘世王位。	Begging for his own sustenance, he does not relish the king's position.
+['ZH_T04_0193_002:0071c25_13']	姿媚甚怡照，　　已積善快然；	姿媚甚怡照，　　已積善快然；	His captivating beauty is extremely delightful; he has already accumulated goodness and is joyful;
+['ZH_T04_0193_002:0071c26_13']	猶如閻浮樹，　　眾花茂盛好。	猶如閻浮樹，　　眾花茂盛好。	It is like the rose apple tree, with its luxuriant and beautiful flowers.
+['ZH_T04_0193_002:0071c27_13']	服著此袈裟，　　喻如以草裹；	服著此袈裟，　　喻如以草裹；	Wearing this saffron robe is like being wrapped in grass;
+['ZH_T04_0193_002:0071c28_13']	猶樹花畏雪，　　不敢顯其輝。	猶樹花畏雪，　　不敢顯其輝。	It is like a tree's flowers fearing snow, not daring to reveal their brilliance.
+['ZH_T04_0193_002:0071c29_13']	太子宜服著，　　天上之名寶；	太子宜服著，　　天上之名寶；	The prince should wear the famous treasures of the heavens;
+['ZH_T04_0193_002:0072a01_13']	今此縵色衣，　　殊不與相宜。	今此縵色衣，　　殊不與相宜。	This variegated-colored robe is not at all suitable.
+['ZH_T04_0193_002:0072a02_13']	若有潔淨物，　　有微穢可訶；	若有潔淨物，　　有微穢可訶；	If there are pure things, even slightly defiled ones are to be criticized;
+['ZH_T04_0193_002:0072a03_13']	顯露而悉現，　　無方可以除。	顯露而悉現，　　無方可以除。	They are all revealed in the open, and there is no way to remove them.
+['ZH_T04_0193_002:0072a04_13']	臂𦟛甚長好，　　猶如紫金柱；	臂𦟛甚長好，　　猶如紫金柱；	The arms are very long and beautiful, like purple golden pillars;
+['ZH_T04_0193_002:0072a05_13']	宜飾以七寶，　　應執持妙弓。	宜飾以七寶，　　應執持妙弓。	They should be adorned with the seven treasures and hold a wonderful bow.
+['ZH_T04_0193_002:0072a06_13']	如是之手臂，　　但宜以惠施；	如是之手臂，　　但宜以惠施；	Such arms are only suitable for giving;
+['ZH_T04_0193_002:0072a07_13']	不宜以是手，　　從人而乞取。	不宜以是手，　　從人而乞取。	It is not suitable to use these hands to beg from others.
+['ZH_T04_0193_002:0072a08_13']	若其執謙敬，　　不肯習父位；	若其執謙敬，　　不肯習父位；	If he is humble and respectful, unwilling to learn his father's position;
+['ZH_T04_0193_002:0072a09_13']	今我盡愛敬，　　相請臨鄙國。	今我盡愛敬，　　相請臨鄙國。	Now I am full of love and respect, inviting him to come to my country.
+['ZH_T04_0193_002:0072a10_13']	盡所有榮祿，　　享此摩竭國；	盡所有榮祿，　　享此摩竭國；	All the glory and rank, enjoying this Magadha country;
+['ZH_T04_0193_002:0072a11_13']	若欲普土地，　　鄙當躬相佐。	若欲普土地，　　鄙當躬相佐。	If he wishes to rule the land, I will personally assist him.
+['ZH_T04_0193_002:0072a12_13']	如仁之德相，　　并應攝天世；	如仁之德相，　　并應攝天世；	With your virtuous appearance, you should also rule the heavens and the world;
+['ZH_T04_0193_002:0072a13_13']	但以手執持，　　天世豈足勞。	但以手執持，　　天世豈足勞。	But just holding your hands, is the heavenly world not enough trouble?
+['ZH_T04_0193_002:0072a14_13']	如今天帝釋，　　起中為人臣；	如今天帝釋，　　起中為人臣；	Now the Heavenly Emperor, rising up to be a minister to a human;
+['ZH_T04_0193_002:0072a15_13']	何況此地上，　　如吾等諸王。	何況此地上，　　如吾等諸王。	How much more so for the kings like us on this earth?
+['ZH_T04_0193_002:0072a16_13']	我不厭善法，　　亦不患守義；	我不厭善法，　　亦不患守義；	I am not weary of good dharmas, nor do I suffer from upholding the truth;
+['ZH_T04_0193_002:0072a17_13']	非時捨出家，　　唯此疑我情。	非時捨出家，　　唯此疑我情。	It is only this doubt in my mind that makes me abandon the home life at an inopportune time.
+['ZH_T04_0193_002:0072a18_13']	初如少壯年，　　已過志衰弱；	初如少壯年，　　已過志衰弱；	At first, like a young man, I have already passed through the stage of ambition and weakness;
+['ZH_T04_0193_002:0072a19_13']	諸根以調良，　　易迴如馬勒。	諸根以調良，　　易迴如馬勒。	The faculties are well-tamed, easily turned like a horse's bridle.
+['ZH_T04_0193_002:0072a20_13']	施慧戒自守，　　眾行之面目；	施慧戒自守，　　眾行之面目；	Generosity, wisdom, precepts, and self-guarding are the face of the multitude of practices;
+['ZH_T04_0193_002:0072a21_13']	發現先世行，　　逮遇前善本。	發現先世行，　　逮遇前善本。	Revealing the practices of past lives, I encounter the former good roots.
+['ZH_T04_0193_002:0072a22_13']	頃年轉長大，　　爾乃可奉法；	頃年轉長大，　　爾乃可奉法；	After a few years of growing up, then it is possible to uphold the Dharma;
+['ZH_T04_0193_002:0072a23_13']	年高意便調，　　不隨逐諸欲。	年高意便調，　　不隨逐諸欲。	When the mind is mature with age, it does not follow after the desires.
+['ZH_T04_0193_002:0072a24_13']	以是故不可，　　困極其形體；	以是故不可，　　困極其形體；	For this reason, it is not possible to exhaust one's physical form;
+['ZH_T04_0193_002:0072a25_13']	今所逮福慶，　　順理可享食。	今所逮福慶，　　順理可享食。	The blessings and celebrations that are now attained can be enjoyed in accordance with principle.
+['ZH_T04_0193_002:0072a26_13']	六情之可欲，　　如應決充益；	六情之可欲，　　如應決充益；	The desires that can be enjoyed by the six sense faculties should be fully satisfied as appropriate;
+['ZH_T04_0193_002:0072a27_13']	然後乃出求，　　甘露解脫法。	然後乃出求，　　甘露解脫法。	Only then should one go out in search of the Dharma of liberation, the nectar.
+['ZH_T04_0193_002:0072a28_13']	姿容之光明，　　超逾日之精；	姿容之光明，　　超逾日之精；	The radiance of his countenance surpasses the brilliance of the sun;
+['ZH_T04_0193_002:0072a29_13']	仁德已過出，　　世人諸天人。	仁德已過出，　　世人諸天人。	His benevolent virtue surpasses that of worldly people and celestial beings.
+['ZH_T04_0193_002:0072b01_13']	自古未曾聞，　　亦所不曾見；	自古未曾聞，　　亦所不曾見；	Never before have I heard of, nor seen,
+['ZH_T04_0193_002:0072b02_13']	如是之形貌，　　覩者皆愕然。	如是之形貌，　　覩者皆愕然。	Such a countenance, at the sight of which all are astonished.
+['ZH_T04_0193_002:0072b03_13']	如今見太子，　　舉動之風姿；	如今見太子，　　舉動之風姿；	Now, seeing the prince's movements and demeanor,
+['ZH_T04_0193_002:0072b04_13']	又察其志本，　　甚猛銳堅強。	又察其志本，　　甚猛銳堅強。	And examining his resolve, it is extremely fierce and firm.
+['ZH_T04_0193_002:0072b05_13']	猶如深淵底，　　群魚於中遊；	猶如深淵底，　　群魚於中遊；	Like the bottom of a deep abyss, where schools of fish swim;
+['ZH_T04_0193_002:0072b06_13']	於上雖不現，　　察外動可知。	於上雖不現，　　察外動可知。	Although not visible on the surface, their movements outside can be known.
+['ZH_T04_0193_002:0072b07_13']	今見諸楷式，　　在體而隱胗；	今見諸楷式，　　在體而隱胗；	Now, seeing all the models, hidden in the body,
+['ZH_T04_0193_002:0072b08_13']	決定照然明，　　指示聖王位。	決定照然明，　　指示聖王位。	It is certain and clear that he will indicate the position of a sage-king.
+['ZH_T04_0193_002:0072b09_13']	如是之妙善，　　不加薄德人；	如是之妙善，　　不加薄德人；	Such excellence is not bestowed upon those of meager virtue;
+['ZH_T04_0193_002:0072b10_13']	吉祥善名號，　　不歸不肖子。	吉祥善名號，　　不歸不肖子。	Auspicious and good renown do not return to unworthy sons.
+['ZH_T04_0193_002:0072b11_13']	假令心懷疑，　　還恥於門族；	假令心懷疑，　　還恥於門族；	If one harbors doubts in one's mind, one will still shame the family;
+['ZH_T04_0193_002:0072b12_13']	以服沙門形，　　如何當還捨。	以服沙門形，　　如何當還捨。	Having donned the appearance of an ascetic, how could I abandon it?
+['ZH_T04_0193_002:0072b13_13']	古世諸帝代，　　天王未以來；	古世諸帝代，　　天王未以來；	From ancient times, through the reigns of emperors, up to the present Heavenly King;
+['ZH_T04_0193_002:0072b14_13']	壯年欲國位，　　垂老皆捨家。	壯年欲國位，　　垂老皆捨家。	In the prime of life, desiring the throne, in old age they all abandon the household.
+['ZH_T04_0193_002:0072b15_13']	」瓶沙說是事，　　廣牽引比故；	」瓶沙說是事，　　廣牽引比故；	Bimbisāra spoke of this matter, extensively drawing on past examples;
+['ZH_T04_0193_002:0072b16_13']	又有餘辛酸，　　寫體謙敬辭。	又有餘辛酸，　　寫體謙敬辭。	There were also other bitter and sad words, expressing his sincerity and respectful words.
+['ZH_T04_0193_002:0072b17_13']	視覺菩薩意，　　不動如太山；	視覺菩薩意，　　不動如太山；	Looking at the Bodhisattva's intention, unmoving like a great mountain;
+['ZH_T04_0193_002:0072b18_13']	執慈而默視，　　清心聽報誨。	執慈而默視，　　清心聽報誨。	Holding compassion and silently gazing, purifying the mind to listen to the teachings.Here is the corrected and aligned text:
+['ZH_T04_0193_002:0072b19_100']	佛本行經卷第二	佛本行經卷第二	The Sutra of the Buddha's Past Activities, Scroll 2

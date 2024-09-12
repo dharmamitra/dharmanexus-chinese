@@ -1,0 +1,672 @@
+segmentnr	original	analyzed	translated
+['ZH_T10_0279_057:0299b08_0']	大方廣佛華嚴經卷第五十七	大方廣佛華嚴經卷第五十七	Mahāvaipulya Buddhâvataṃsaka Sūtra, Scroll 57
+['ZH_T10_0279_057:0299b10_0']	于闐國三藏實叉難陀奉　制譯	于闐國三藏實叉難陀奉　制譯	Tripiṭaka Master Śikṣānanda of Khotan, translated by imperial decree
+['ZH_T10_0279_057:0299b11_0']	之五離世間品第三十八之五	之五離世間品第三十八之五	Part Five: Chapter 38, Section 5 of the Separation from the World
+['ZH_T10_0279_057:0299b12_3']	「佛子！	「佛子！	Buddha's disciple!
+['ZH_T10_0279_057:0299b12_14']	菩薩摩訶薩有十種習氣。	菩薩摩訶薩有十種習氣。	Bodhisattva-mahāsattvas have ten kinds of habitual tendencies.
+['ZH_T10_0279_057:0299b12_19']	何等為十？	何等為十？	What are the ten?
+['ZH_T10_0279_057:0299b13_1']	所謂：	所謂：	Namely:
+['ZH_T10_0279_057:0299b13_7']	菩提心習氣；	菩提心習氣；	The habitual tendencies of the bodhi mind;
+['ZH_T10_0279_057:0299b13_12']	善根習氣；	善根習氣；	The habitual tendencies of wholesome roots;
+['ZH_T10_0279_057:0299b13_19']	教化眾生習氣；	教化眾生習氣；	The habitual tendencies of teaching and transforming sentient beings;
+['ZH_T10_0279_057:0299b14_3']	見佛習氣；	見佛習氣；	The habitual tendencies of seeing the Buddha;
+['ZH_T10_0279_057:0299b14_13']	於清淨世界受生習氣；	於清淨世界受生習氣；	The habitual tendencies of being born in a pure world;
+['ZH_T10_0279_057:0299b14_17', 'ZH_T10_0279_057:0299b15_1']	行習氣；🔽願習氣；	行習氣； 願習氣；	The habitual tendencies of practice;🔽The habitual tendencies of vows;
+['ZH_T10_0279_057:0299b15_7']	波羅蜜習氣；	波羅蜜習氣；	The habitual tendencies of the perfections;
+['ZH_T10_0279_057:0299b15_15']	思惟平等法習氣；	思惟平等法習氣；	The habitual tendencies of contemplating the equal Dharma;
+['ZH_T10_0279_057:0299b16_4']	種種境界差別習氣。	種種境界差別習氣。	The habitual tendencies of the various distinctions in realms.
+['ZH_T10_0279_057:0299b16_8']	是為十。	是為十。	These are the ten.
+['ZH_T10_0279_057:0299b18_1']	若諸菩薩安住此法，則永離一切煩惱習氣，得如來大智習氣非習氣智。	若諸菩薩安住此法，則永離一切煩惱習氣，得如來大智習氣非習氣智。	If bodhisattvas abide in these principles, they will forever part from the habitual tendencies of all afflictions, attain the habitual tendencies of the Tathāgata's great wisdom, and the wisdom that is not habitual tendencies.
+['ZH_T10_0279_057:0299b18_5']	「佛子！	「佛子！	Buddha's disciple!
+['ZH_T10_0279_057:0299b19_3']	菩薩摩訶薩有十種取，以此不斷諸菩薩行。	菩薩摩訶薩有十種取，以此不斷諸菩薩行。	Bodhisattva-mahāsattvas have ten kinds of grasping, which are uninterrupted in the practices of bodhisattvas.
+['ZH_T10_0279_057:0299b19_8']	何等為十？	何等為十？	What are the ten?
+['ZH_T10_0279_057:0299b19_11']	所謂：	所謂：	Namely:
+['ZH_T10_0279_057:0299b20_3']	取一切眾生界，究竟教化故；	取一切眾生界，究竟教化故；	Grasping the realms of all sentient beings, in order to ultimately teach and transform them;
+['ZH_T10_0279_057:0299b20_15']	取一切世界，究竟嚴淨故；	取一切世界，究竟嚴淨故；	Grasping all worlds, in order to ultimately adorn and purify them;
+['ZH_T10_0279_057:0299b21_7']	取如來，修菩薩行為供養故；	取如來，修菩薩行為供養故；	Grasping the Tathāgatas, in order to cultivate bodhisattva practices and make offerings to them;
+['ZH_T10_0279_057:0299b22_2', 'ZH_T10_0279_057:0299b22_14']	取善根，積集諸佛相好功德故；🔽取大悲，滅一切眾生苦故；	取善根，積集諸佛相好功德故； 取大悲，滅一切眾生苦故；	Grasping wholesome roots, in order to accumulate the merits and virtues of the Buddha's physical marks;🔽Grasping great compassion, in order to extinguish the suffering of all sentient beings;
+['ZH_T10_0279_057:0299b23_8']	取大慈，與一切眾生一切智樂故；	取大慈，與一切眾生一切智樂故；	Grasping great kindness, in order to bestow the bliss of omniscience upon all sentient beings;
+['ZH_T10_0279_057:0299b24_3']	取波羅蜜，積集菩薩諸莊嚴故；	取波羅蜜，積集菩薩諸莊嚴故；	Grasping the perfections, in order to accumulate the adornments of bodhisattvas;
+['ZH_T10_0279_057:0299b24_18']	取善巧方便，於一切處皆示現故；	取善巧方便，於一切處皆示現故；	Grasping skillful means, in order to manifest in all places;
+['ZH_T10_0279_057:0299b25_8']	取菩提，得無礙智故；	取菩提，得無礙智故；	Grasping enlightenment, in order to attain unobstructed cognition;
+['ZH_T10_0279_057:0299b26_10']	略說菩薩取一切法，於一切處悉以明智而現了故。	略說菩薩取一切法，於一切處悉以明智而現了故。	In brief, bodhisattvas grasp all dharmas, and in all places they clearly manifest with bright cognition.
+['ZH_T10_0279_057:0299b26_14']	是為十。	是為十。	These are the ten.
+['ZH_T10_0279_057:0299b28_6']	若諸菩薩安住此取，則能不斷諸菩薩行，得一切如來無上無所取法。	若諸菩薩安住此取，則能不斷諸菩薩行，得一切如來無上無所取法。	If bodhisattvas abide in these attachments, they will be able to continuously engage in the practices of bodhisattvas and attain the unsurpassed Dharma of non-attachment of all tathāgatas.
+['ZH_T10_0279_057:0299b28_10']	「佛子！	「佛子！	Buddha's disciples!
+['ZH_T10_0279_057:0299b28_20']	菩薩摩訶薩有十種修。	菩薩摩訶薩有十種修。	Bodhisattva-mahāsattvas have ten kinds of cultivation.
+['ZH_T10_0279_057:0299b29_4']	何等為十？	何等為十？	What are the ten?
+['ZH_T10_0279_057:0299b29_7']	所謂：	所謂：	Namely:
+['ZH_T10_0279_057:0299b29_13']	修諸波羅蜜；	修諸波羅蜜；	Cultivating the perfections;
+['ZH_T10_0279_057:0299b29_16']	修學；	修學；	Cultivating learning;
+['ZH_T10_0279_057:0299b29_19']	修慧；	修慧；	Cultivating wisdom;
+['ZH_T10_0279_057:0299c01_1']	修義；	修義；	Cultivating meaning;
+['ZH_T10_0279_057:0299c01_4']	修法；	修法；	Cultivating the Dharma;
+['ZH_T10_0279_057:0299c01_8']	修出離；	修出離；	Cultivating liberation;
+['ZH_T10_0279_057:0299c01_12']	修示現；	修示現；	Cultivating manifestation;
+['ZH_T10_0279_057:0299c01_18']	修勤行匪懈；	修勤行匪懈；	Cultivating diligent practice without slacking off;
+['ZH_T10_0279_057:0299c02_3']	修成等正覺；	修成等正覺；	Cultivating the perfect enlightenment of accomplishment;
+['ZH_T10_0279_057:0299c02_9']	修轉正法輪。	修轉正法輪。	Cultivating the turning of the wheel of the true Dharma.
+['ZH_T10_0279_057:0299c02_13']	是為十。	是為十。	These are the ten.
+['ZH_T10_0279_057:0299c03_12']	若諸菩薩安住其中，則得無上修修一切法。	若諸菩薩安住其中，則得無上修修一切法。	If bodhisattvas abide in them, they will attain the unsurpassed cultivation of all dharmas.
+['ZH_T10_0279_057:0299c03_16']	「佛子！	「佛子！	Buddha's disciples!
+['ZH_T10_0279_057:0299c04_8']	菩薩摩訶薩有十種成就佛法。	菩薩摩訶薩有十種成就佛法。	Bodhisattva-mahāsattvas have ten kinds of accomplishments of the Buddha's teachings.
+['ZH_T10_0279_057:0299c04_13']	何等為十？	何等為十？	What are the ten?
+['ZH_T10_0279_057:0299c04_16']	所謂：	所謂：	Namely:
+['ZH_T10_0279_057:0299c05_6']	不離善知識成就佛法；	不離善知識成就佛法；	Not separating from good and virtuous friends is an accomplishment of the Buddha's teachings;
+['ZH_T10_0279_057:0299c05_15']	深信佛語成就佛法；	深信佛語成就佛法；	Deeply believing in the Buddha's words is an accomplishment of the Buddha's teachings;
+['ZH_T10_0279_057:0299c06_5']	不謗正法成就佛法；	不謗正法成就佛法；	Not slandering the true Dharma is an accomplishment of the Buddha's teachings;
+['ZH_T10_0279_057:0299c07_1']	以無量無盡善根迴向成就佛法；	以無量無盡善根迴向成就佛法；	Using immeasurable and inexhaustible wholesome roots to accomplish the Buddha's teachings;
+['ZH_T10_0279_057:0299c07_15']	信解如來境界無邊際成就佛法；	信解如來境界無邊際成就佛法；	Faithfully understanding that the Tathāgata's realm is boundless and accomplishing the Buddha's teachings;
+['ZH_T10_0279_057:0299c08_8']	知一切世界境界成就佛法；	知一切世界境界成就佛法；	Knowing that all world realms are the realm and accomplishing the Buddha's teachings;
+['ZH_T10_0279_057:0299c09_1']	不捨法界境界成就佛法；	不捨法界境界成就佛法；	Not abandoning the realm of the Dharma realm and accomplishing the Buddha's teachings;
+['ZH_T10_0279_057:0299c09_12']	遠離諸魔境界成就佛法；	遠離諸魔境界成就佛法；	Far removing the realms of the māras and accomplishing the Buddha's teachings;
+['ZH_T10_0279_057:0299c10_6']	正念一切諸佛境界成就佛法；	正念一切諸佛境界成就佛法；	Correctly contemplating the realms of all buddhas and accomplishing the Buddha's teachings;
+['ZH_T10_0279_057:0299c11_1']	樂求如來十力境界成就佛法。	樂求如來十力境界成就佛法。	Gladly seeking the realms of the Tathāgata's ten powers and accomplishing the Buddha's teachings.
+['ZH_T10_0279_057:0299c11_5']	是為十。	是為十。	These are the ten.
+['ZH_T10_0279_057:0299c12_6']	若諸菩薩安住此法，則得成就如來無上大智慧。	若諸菩薩安住此法，則得成就如來無上大智慧。	If bodhisattvas abide in these teachings, they will then attain the Tathāgata's unsurpassed great wisdom.
+['ZH_T10_0279_057:0299c12_10']	「佛子！	「佛子！	Buddha's disciple!
+['ZH_T10_0279_057:0299c13_8']	菩薩摩訶薩有十種退失佛法，應當遠離。	菩薩摩訶薩有十種退失佛法，應當遠離。	Bodhisattva-mahāsattvas have ten kinds of retrogressions from the Buddha's teachings, which they should distance themselves from.
+['ZH_T10_0279_057:0299c13_13']	何等為十？	何等為十？	What are the ten?
+['ZH_T10_0279_057:0299c13_16']	所謂：	所謂：	They are:
+['ZH_T10_0279_057:0299c14_5']	輕慢善知識退失佛法；	輕慢善知識退失佛法；	1. Disrespecting good and virtuous friends is a retrogression from the Buddha's teachings;
+['ZH_T10_0279_057:0299c14_14']	畏生死苦退失佛法；	畏生死苦退失佛法；	2. Fearing the suffering of birth and death is a retrogression from the Buddha's teachings;
+['ZH_T10_0279_057:0299c15_5']	厭修菩薩行退失佛法；	厭修菩薩行退失佛法；	3. Disliking the practice of bodhisattva conduct is a retrogression from the Buddha's teachings;
+['ZH_T10_0279_057:0299c15_15']	不樂住世間退失佛法；	不樂住世間退失佛法；	4. Not delighting in abiding in the world is a retrogression from the Buddha's teachings;
+['ZH_T10_0279_057:0299c16_6']	耽著三昧退失佛法；	耽著三昧退失佛法；	Indulging in samādhi and regressing from the Buddha Dharma;
+['ZH_T10_0279_057:0299c16_15']	執取善根退失佛法；	執取善根退失佛法；	Grasping at wholesome roots and regressing from the Buddha Dharma;
+['ZH_T10_0279_057:0299c17_5']	誹謗正法退失佛法；	誹謗正法退失佛法；	Slandering the true Dharma and regressing from the Buddha Dharma;
+['ZH_T10_0279_057:0299c17_14']	斷菩薩行退失佛法；	斷菩薩行退失佛法；	Cutting off bodhisattva practices and regressing from the Buddha Dharma;
+['ZH_T10_0279_057:0299c18_5']	樂二乘道退失佛法；	樂二乘道退失佛法；	Delighting in the path of the two vehicles and regressing from the Buddha Dharma;
+['ZH_T10_0279_057:0299c18_15']	嫌恨諸菩薩退失佛法。	嫌恨諸菩薩退失佛法。	Resenting and hating bodhisattvas and regressing from the Buddha Dharma.
+['ZH_T10_0279_057:0299c19_1']	是為十。	是為十。	These are the ten.
+['ZH_T10_0279_057:0299c19_18']	若諸菩薩遠離此法，則入菩薩離生道。	若諸菩薩遠離此法，則入菩薩離生道。	If bodhisattvas distance themselves from these dharmas, they will enter the bodhisattvas' path of detachment from birth.
+['ZH_T10_0279_057:0299c20_1']	「佛子！	「佛子！	Buddha's disciple!
+['ZH_T10_0279_057:0299c20_13']	菩薩摩訶薩有十種離生道。	菩薩摩訶薩有十種離生道。	Bodhisattva-mahāsattvas have ten kinds of paths of detachment from birth.
+['ZH_T10_0279_057:0299c20_18']	何等為十？	何等為十？	What are the ten?
+['ZH_T10_0279_057:0299c21_1']	所謂：	所謂：	They are:
+['ZH_T10_0279_057:0299c22_2']	出生般若波羅蜜而恒觀察一切眾生，是為一；	出生般若波羅蜜而恒觀察一切眾生，是為一；	Giving rise to the perfection of wisdom while always observing all sentient beings, this is one;
+['ZH_T10_0279_057:0299c23_1']	遠離諸見而度脫一切見縛眾生，是為二；	遠離諸見而度脫一切見縛眾生，是為二；	Being free from all views while liberating all sentient beings bound by views, this is two;
+['ZH_T10_0279_057:0299c24_1']	不念一切相而不捨一切著相眾生，是為三；	不念一切相而不捨一切著相眾生，是為三；	Not thinking of any characteristics while not abandoning sentient beings attached to characteristics, this is three;
+['ZH_T10_0279_057:0299c24_17']	超過三界而常在一切世界，是為四；	超過三界而常在一切世界，是為四；	Surpassing the three realms while always being in all worlds, this is four;
+['ZH_T10_0279_057:0299c25_15']	永離煩惱而與一切眾生共居，是為五；	永離煩惱而與一切眾生共居，是為五；	To be forever free from afflictions while living with all sentient beings is the fifth;
+['ZH_T10_0279_057:0299c26_18']	得離欲法而常以大悲哀愍一切著欲眾生，是為六；	得離欲法而常以大悲哀愍一切著欲眾生，是為六；	To attain the Dharma of detachment while always having great compassion for all sentient beings who are attached to desires is the sixth;
+['ZH_T10_0279_057:0299c27_16']	常樂寂靜而恒示現一切眷屬，是為七；	常樂寂靜而恒示現一切眷屬，是為七；	To always delight in tranquility while constantly manifesting all retinues is the seventh;
+['ZH_T10_0279_057:0299c28_15']	離世間生而死此生彼起菩薩行，是為八；	離世間生而死此生彼起菩薩行，是為八；	To be free from worldly birth while dying here and being born there to carry out bodhisattva practices is the eighth;
+['ZH_T10_0279_057:0299c29_17']	不染一切世間法而不斷一切世間所作，是為九；	不染一切世間法而不斷一切世間所作，是為九；	To be unstained by any worldly dharmas while not abandoning any worldly activities is the ninth;
+['ZH_T10_0279_057:0300a02_2']	諸佛菩提已現其前而不捨菩薩一切願行，是為十。	諸佛菩提已現其前而不捨菩薩一切願行，是為十。	To have the Buddha's enlightenment already manifest before one while not abandoning any bodhisattva vows or practices is the tenth.
+['ZH_T10_0279_057:0300a02_5']	佛子！	佛子！	Buddha's disciple!
+['ZH_T10_0279_057:0300a03_17']	是為菩薩摩訶薩十種離生道，出離世間，不與世共，而亦不雜二乘之行。	是為菩薩摩訶薩十種離生道，出離世間，不與世共，而亦不雜二乘之行。	These are the ten kinds of paths of detachment from birth by the bodhisattva-mahāsattva. They leave the world and are not the same as the world, yet they are also not mixed up in the practices of the two vehicles.
+['ZH_T10_0279_057:0300a04_15']	若諸菩薩安住此法，則得菩薩決定法。	若諸菩薩安住此法，則得菩薩決定法。	If the bodhisattvas abide in these dharmas, they will attain the definitive Dharma of the bodhisattvas.
+['ZH_T10_0279_057:0300a04_19']	「佛子！	「佛子！	Buddha's disciple!
+['ZH_T10_0279_057:0300a05_10']	菩薩摩訶薩有十種決定法。	菩薩摩訶薩有十種決定法。	The bodhisattva-mahāsattva has ten kinds of definitive dharmas.
+['ZH_T10_0279_057:0300a05_15', 'ZH_T10_0279_057:0300a05_18']	何等為十？🔽所謂；	何等為十？ 所謂；	They are:
+['ZH_T10_0279_057:0300a06_8']	決定於如來種族中生；	決定於如來種族中生；	Definitely being born in the Tathāgata's family;
+['ZH_T10_0279_057:0300a06_18']	決定於諸佛境界中住；	決定於諸佛境界中住；	Definitely abiding in the Buddha's realm;
+['ZH_T10_0279_057:0300a07_9']	決定了知菩薩所作事；	決定了知菩薩所作事；	Definitely understanding the deeds of the bodhisattvas;
+['ZH_T10_0279_057:0300a07_18']	決定安住諸波羅蜜；	決定安住諸波羅蜜；	Definitely abiding in the perfections;
+['ZH_T10_0279_057:0300a08_8', 'ZH_T10_0279_057:0300a08_17']	決定得預如來眾會；🔽決定能顯如來種性；	決定得預如來眾會； 決定能顯如來種性；	Definitely attaining to participate in the Tathāgata's assembly;🔽Definitely able to manifest the Tathāgata's lineage;
+['ZH_T10_0279_057:0300a09_6']	決定安住如來力；	決定安住如來力；	Definitely abiding in the Tathāgata's power;
+['ZH_T10_0279_057:0300a09_14']	決定深入佛菩提；	決定深入佛菩提；	Definitely deeply entering the Buddha's enlightenment;
+['ZH_T10_0279_057:0300a10_6']	決定與一切如來同一身；	決定與一切如來同一身；	Definitely having the same body as all Tathāgatas;
+['ZH_T10_0279_057:0300a11_1']	決定與一切如來所住無有二。	決定與一切如來所住無有二。	Definitely having no duality with the abode of all Tathāgatas.
+['ZH_T10_0279_057:0300a11_5']	是為十。	是為十。	These are the ten.
+['ZH_T10_0279_057:0300a11_9']	「佛子！	「佛子！	Buddha's disciple!
+['ZH_T10_0279_057:0300a12_2']	菩薩摩訶薩有十種出生佛法道。	菩薩摩訶薩有十種出生佛法道。	Bodhisattva-mahāsattvas have ten kinds of ways of giving birth to the Buddha's teachings.
+['ZH_T10_0279_057:0300a12_7']	何等為十？	何等為十？	What are the ten?
+['ZH_T10_0279_057:0300a12_10', 'ZH_T10_0279_057:0300a13_7']	所謂：🔽隨順善友是出生佛法道，同種善根故；	所謂： 隨順善友是出生佛法道，同種善根故；	They are:🔽Following good friends is the way of giving birth to the Buddha's teachings, because they have the same good roots;
+['ZH_T10_0279_057:0300a14_4']	深心信解是出生佛法道，知佛自在故；	深心信解是出生佛法道，知佛自在故；	Deeply believing and understanding is the way of giving birth to the Buddha's teachings, because they know the Buddha's mastery;
+['ZH_T10_0279_057:0300a15_2']	發大誓願是出生佛法道，其心寬廣故；	發大誓願是出生佛法道，其心寬廣故；	Making great vows is the path of giving rise to the Buddha's teachings, because the mind is vast;
+['ZH_T10_0279_057:0300a15_19']	忍自善根是出生佛法道，知業不失故；	忍自善根是出生佛法道，知業不失故；	Forbearing one's own wholesome roots is the path of giving rise to the Buddha's teachings, because one knows that karma is not lost;
+['ZH_T10_0279_057:0300a17_2']	一切劫修行無厭足是出生佛法道，盡未來際故；	一切劫修行無厭足是出生佛法道，盡未來際故；	Cultivating without weariness for all kalpas is the path of giving rise to the Buddha's teachings, because it extends to the end of the future;
+['ZH_T10_0279_057:0300a18_4']	阿僧祇世界皆示現是出生佛法道，成熟眾生故；	阿僧祇世界皆示現是出生佛法道，成熟眾生故；	Manifesting in incalculable worlds is the path of giving rise to the Buddha's teachings, because it brings sentient beings to maturity;
+['ZH_T10_0279_057:0300a19_3']	不斷菩薩行是出生佛法道，增長大悲故；	不斷菩薩行是出生佛法道，增長大悲故；	Not cutting off the bodhisattva practices is the path of giving rise to the Buddha's teachings, because it increases great compassion;
+['ZH_T10_0279_057:0300a20_4']	無量心是出生佛法道，一念遍一切虛空界故；	無量心是出生佛法道，一念遍一切虛空界故；	The immeasurable mind is the path of giving rise to the Buddha's teachings, because in a single thought it pervades all the realms of space;
+['ZH_T10_0279_057:0300a21_4']	殊勝行是出生佛法道，本所修行無失壞故；	殊勝行是出生佛法道，本所修行無失壞故；	The supreme practices are the path of giving rise to the Buddha's teachings, because the practices cultivated in the past are not lost;
+['ZH_T10_0279_057:0300a22_15']	如來種是出生佛法道，令一切眾生樂發菩提心，以一切善法資持故。	如來種是出生佛法道，令一切眾生樂發菩提心，以一切善法資持故。	The lineage of the Tathāgatas is the path of giving rise to the Buddha's teachings, because it delights all sentient beings in giving rise to the mind of enlightenment and supports them with all wholesome dharmas.
+['ZH_T10_0279_057:0300a22_19']	是為十。	是為十。	These are the ten.
+['ZH_T10_0279_057:0300a23_16']	若諸菩薩安住此法，則得大丈夫名號。	若諸菩薩安住此法，則得大丈夫名號。	If bodhisattvas abide in these teachings, they will attain the title of 'great man.'
+['ZH_T10_0279_057:0300a23_20']	「佛子！	「佛子！	Buddha's disciple!
+['ZH_T10_0279_057:0300a24_13']	菩薩摩訶薩有十種大丈夫名號。	菩薩摩訶薩有十種大丈夫名號。	Bodhisattva-mahāsattvas have ten kinds of names of great men.
+['ZH_T10_0279_057:0300a24_18']	何等為十？	何等為十？	What are the ten?
+['ZH_T10_0279_057:0300a25_2']	所謂：	所謂：	They are called:
+['ZH_T10_0279_057:0300a25_5']	名為：	名為：	They are called:
+['ZH_T10_0279_057:0300a25_17']	菩提薩埵，菩提智所生故；	菩提薩埵，菩提智所生故；	bodhisattva, because they are born from the wisdom of enlightenment;
+['ZH_T10_0279_057:0300a25_20']	名為：	名為：	They are called:
+['ZH_T10_0279_057:0300a26_9']	摩訶薩埵，安住大乘故；	摩訶薩埵，安住大乘故；	mahāsattva, because they abide in the Great Vehicle;
+['ZH_T10_0279_057:0300a26_12']	名為：	名為：	They are called:
+['ZH_T10_0279_057:0300a27_2']	第一薩埵，證第一法故；	第一薩埵，證第一法故；	first sattva, because they realize the foremost Dharma;
+['ZH_T10_0279_057:0300a27_5']	名為：	名為：	They are called:
+['ZH_T10_0279_057:0300a27_15']	勝薩埵，覺悟勝法故；	勝薩埵，覺悟勝法故；	supreme sattva, because they awaken to the supreme Dharma;
+['ZH_T10_0279_057:0300a27_18']	名為：	名為：	They are called:
+['ZH_T10_0279_057:0300a28_7']	最勝薩埵，智慧最勝故；	最勝薩埵，智慧最勝故；	most excellent sattva, because their wisdom is most excellent;
+['ZH_T10_0279_057:0300a28_10']	名為：	名為：	They are called:
+['ZH_T10_0279_057:0300a28_20']	上薩埵，起上精進故；	上薩埵，起上精進故；	superior sattva, because they arouse superior zeal;
+['ZH_T10_0279_057:0300a29_1']	名為：	名為：	They are called:
+['ZH_T10_0279_057:0300a29_13']	無上薩埵，開示無上法故；	無上薩埵，開示無上法故；	unsurpassed sattva, because they reveal the unsurpassed Dharma;
+['ZH_T10_0279_057:0300a29_16']	名為：	名為：	They are called:
+['ZH_T10_0279_057:0300b01_4']	力薩埵，廣知十力故；	力薩埵，廣知十力故；	powerful sattva, because they extensively know the ten powers;
+['ZH_T10_0279_057:0300b01_7']	名為：	名為：	They are called:
+['ZH_T10_0279_057:0300b01_18']	無等薩埵，世間無比故；	無等薩埵，世間無比故；	unequalled sattva, because they are incomparable in the world;
+['ZH_T10_0279_057:0300b01_21']	名為：	名為：	They are called:
+['ZH_T10_0279_057:0300b02_11']	不思議薩埵，一念成佛故。	不思議薩埵，一念成佛故。	inconceivable sattva, because they attain Buddhahood in a single thought.
+['ZH_T10_0279_057:0300b02_15']	是為十。	是為十。	These are the ten.
+['ZH_T10_0279_057:0300b03_11']	若諸菩薩得此名號，則成就菩薩道。	若諸菩薩得此名號，則成就菩薩道。	If bodhisattvas attain this name, they will accomplish the bodhisattva path.
+['ZH_T10_0279_057:0300b03_15']	「佛子！	「佛子！	Buddha's disciple!
+['ZH_T10_0279_057:0300b04_4']	菩薩摩訶薩有十種道。	菩薩摩訶薩有十種道。	Bodhisattva-mahāsattvas have ten kinds of paths.
+['ZH_T10_0279_057:0300b04_9']	何等為十？	何等為十？	What are the ten?
+['ZH_T10_0279_057:0300b04_12']	所謂：	所謂：	They are:
+['ZH_T10_0279_057:0300b05_7']	一道是菩薩道，不捨獨一菩提心故。	一道是菩薩道，不捨獨一菩提心故。	The one path is the bodhisattva path, because it does not abandon the solitary enlightenment mind.
+['ZH_T10_0279_057:0300b06_4']	二道是菩薩道，出生智慧及方便故。	二道是菩薩道，出生智慧及方便故。	The two paths are the bodhisattva path, because they give rise to wisdom and skillful means.
+['ZH_T10_0279_057:0300b07_4']	三道是菩薩道，行空、無相、無願，不著三界故。	三道是菩薩道，行空、無相、無願，不著三界故。	The three paths are the bodhisattva path, because they practice emptiness, signlessness, and wishlessness, and are not attached to the three realms.
+['ZH_T10_0279_057:0300b09_1']	四行是菩薩道，懺除罪障，隨喜福德，恭敬尊重勸請如來，善巧迴向無休息故。	四行是菩薩道，懺除罪障，隨喜福德，恭敬尊重勸請如來，善巧迴向無休息故。	The four practices are the bodhisattva path, because they repent of karmic hindrances, rejoice in blessings and virtues, respectfully honor and request the Tathāgatas, and skillfully dedicate [merit] without rest.
+['ZH_T10_0279_057:0300b11_15']	五根是菩薩道，安住淨信堅固不動，起大精進所作究竟，一向正念無異攀緣，巧知三昧入出方便，善能分別智慧境界故。	五根是菩薩道，安住淨信堅固不動，起大精進所作究竟，一向正念無異攀緣，巧知三昧入出方便，善能分別智慧境界故。	The five faculties are the bodhisattva path, because they abide in pure faith, are firm and unmoving, arouse great diligence, accomplish what they do, are single-mindedly mindful without other thoughts, skillfully know the skillful means of entering and exiting samādhi, and are well able to discern the realm of wisdom.
+['ZH_T10_0279_057:0300b12_3']	六通是菩薩道。	六通是菩薩道。	The six supernormal powers are the bodhisattva path.
+['ZH_T10_0279_057:0300b12_6']	所謂；	所謂；	Namely:
+['ZH_T10_0279_057:0300b13_9']	天眼，悉見一切世界所有眾色，知諸眾生死此生彼故；	天眼，悉見一切世界所有眾色，知諸眾生死此生彼故；	The heavenly eye, which sees all the various forms in all worlds and knows where all beings die and are reborn;
+['ZH_T10_0279_057:0300b14_14']	天耳，悉聞諸佛說法，受持憶念，廣為眾生隨根演暢故；	天耳，悉聞諸佛說法，受持憶念，廣為眾生隨根演暢故；	The heavenly ear, which hears all the buddhas expounding the Dharma, upholds and remembers it, and widely expounds it for sentient beings according to their faculties;
+['ZH_T10_0279_057:0300b15_9']	他心智，能知他心，自在無礙故；	他心智，能知他心，自在無礙故；	The knowledge of others' minds, which is able to know others' minds freely and without obstruction;
+['ZH_T10_0279_057:0300b16_8']	宿命念，憶知過去一切劫數，增長善根故；	宿命念，憶知過去一切劫數，增長善根故；	The recollection of past lives, which remembers and knows the number of past kalpas and increases wholesome roots;
+['ZH_T10_0279_057:0300b17_11']	神足通，隨所應化一切眾生，種種為現，令樂法故；	神足通，隨所應化一切眾生，種種為現，令樂法故；	The supernormal powers, which manifest various things for all sentient beings to be transformed according to their capacities, causing them to delight in the Dharma;
+['ZH_T10_0279_057:0300b18_8']	漏盡智，現證實際，起菩薩行不斷絕故。	漏盡智，現證實際，起菩薩行不斷絕故。	The knowledge of the destruction of defilements, which directly realizes the ultimate reality and does not cut off the bodhisattva practices.
+['ZH_T10_0279_057:0300b18_15']	七念是菩薩道。	七念是菩薩道。	The seven recollections are the bodhisattva path.
+['ZH_T10_0279_057:0300b18_18']	所謂：	所謂：	Namely:
+['ZH_T10_0279_057:0300b19_19']	念佛，於一毛孔見無量佛，開悟一切眾生心故；	念佛，於一毛孔見無量佛，開悟一切眾生心故；	Recollecting the Buddha, seeing immeasurable buddhas in a single pore, in order to enlighten all sentient beings' minds;
+['ZH_T10_0279_057:0300b22_3']	念法，不離一如來眾會，於一切如來眾會中親承妙法，隨諸眾生根性欲樂而為演說，令悟入故；	念法，不離一如來眾會，於一切如來眾會中親承妙法，隨諸眾生根性欲樂而為演說，令悟入故；	Remembering the Dharma, never leaving the assembly of a Tathāgata, personally receiving the wonderful Dharma in the assemblies of all Tathāgatas, and expounding it according to the capacities, inclinations, and desires of sentient beings, in order to cause them to awaken and enter [the Dharma];
+['ZH_T10_0279_057:0300b23_5']	念僧，恒相續見無有休息，於一切世間見菩薩故；	念僧，恒相續見無有休息，於一切世間見菩薩故；	Remembering the Saṅgha, always seeing them in a continuous manner without rest, in order to see bodhisattvas in all worlds;
+['ZH_T10_0279_057:0300b24_6']	念捨，了知一切菩薩捨行，增長廣大布施心故；	念捨，了知一切菩薩捨行，增長廣大布施心故；	Remembering relinquishment, understanding all bodhisattvas' practices of relinquishment, in order to increase and expand the mind of generosity;
+['ZH_T10_0279_057:0300b25_6']	念戒，不捨菩提心，以一切善根迴向眾生故；	念戒，不捨菩提心，以一切善根迴向眾生故；	Remembering precepts, not abandoning the bodhi mind, in order to dedicate all wholesome roots to sentient beings;
+['ZH_T10_0279_057:0300b26_6']	念天，常憶念兜率陀天宮一生補處菩薩故；	念天，常憶念兜率陀天宮一生補處菩薩故；	Remembering the heavens, always recollecting the bodhisattva who is to attain Buddhahood in his next life in the Tuṣita Heaven;
+['ZH_T10_0279_057:0300b27_8']	念眾生，智慧方便教化調伏，普及一切無間斷故。	念眾生，智慧方便教化調伏，普及一切無間斷故。	Remembering sentient beings, using wisdom and skillful means to teach and tame them, in order to universally reach all without interruption.
+['ZH_T10_0279_057:0300b28_2']	隨順菩提八聖道是菩薩道。	隨順菩提八聖道是菩薩道。	The eightfold noble path of enlightenment is the bodhisattva path.
+['ZH_T10_0279_057:0300b28_5']	所謂：	所謂：	Namely:
+['ZH_T10_0279_057:0300b28_19']	行正見道，遠離一切諸邪見故；	行正見道，遠離一切諸邪見故；	Practicing the path of right view, in order to be free from all wrong views;
+['ZH_T10_0279_057:0300b29_17']	起正思惟，捨妄分別，心常隨順一切智故；	起正思惟，捨妄分別，心常隨順一切智故；	Arousing right thought, abandoning false discrimination, the mind always accords with omniscience;
+['ZH_T10_0279_057:0300c01_12']	常行正語，離語四過，順聖言故；	常行正語，離語四過，順聖言故；	Always practicing right speech, free from the four faults of speech, in accord with the words of the sages;
+['ZH_T10_0279_057:0300c02_5']	恒修正業，教化眾生令調伏故；	恒修正業，教化眾生令調伏故；	Constantly cultivating right action, teaching and transforming sentient beings to make them subdue their minds;
+['ZH_T10_0279_057:0300c04_1']	安住正命，頭陀知足，威儀審正，隨順菩提行四聖種，一切過失皆永離故；	安住正命，頭陀知足，威儀審正，隨順菩提行四聖種，一切過失皆永離故；	Abiding in right livelihood, practicing austerity and contentment, with dignified and correct deportment, in accord with the path of enlightenment, practicing the four noble traditions, forever free from all faults;
+['ZH_T10_0279_057:0300c05_5']	起正精進，勤修一切菩薩苦行，入佛十力無罣礙故；	起正精進，勤修一切菩薩苦行，入佛十力無罣礙故；	Arousing right effort, diligently cultivating all the difficult practices of bodhisattvas, entering the ten powers of the Buddha without obstruction;
+['ZH_T10_0279_057:0300c06_8']	心常正念，悉能憶持一切言音，除滅世間散動心故；	心常正念，悉能憶持一切言音，除滅世間散動心故；	The mind always rightly recollects, able to remember all spoken sounds, eliminating the distracted mind of the world;
+['ZH_T10_0279_057:0300c08_1']	心常正定，善入菩薩不思議解脫門，於一三昧中出生一切諸三昧故。	心常正定，善入菩薩不思議解脫門，於一三昧中出生一切諸三昧故。	The mind is always rightly concentrated, well entering the inconceivable liberation gate of bodhisattvas, giving rise to all samādhis from a single samādhi.
+['ZH_T10_0279_057:0300c08_11']	入九次第定是菩薩道。	入九次第定是菩薩道。	Entering the nine successive samādhis is the bodhisattva path.
+['ZH_T10_0279_057:0300c08_14']	所謂；	所謂；	Namely;
+['ZH_T10_0279_057:0300c09_9']	離欲恚害，而以一切語業說法無礙；	離欲恚害，而以一切語業說法無礙；	Free from desire, anger, and harm, yet using all verbal actions to expound the Dharma without obstruction;
+['ZH_T10_0279_057:0300c10_7']	滅除覺觀，而以一切智覺觀教化眾生；	滅除覺觀，而以一切智覺觀教化眾生；	They eliminate discursive thoughts while using the teachings of omniscience to transform sentient beings;
+['ZH_T10_0279_057:0300c11_3']	捨離喜愛，而見一切佛，心大歡喜；	捨離喜愛，而見一切佛，心大歡喜；	They abandon joy and love while seeing all Buddhas and being greatly delighted;
+['ZH_T10_0279_057:0300c11_18']	離世間樂，而隨順出世菩薩道樂；	離世間樂，而隨順出世菩薩道樂；	They leave behind worldly pleasures while following the bliss of the bodhisattva path that accords with the supramundane;
+['ZH_T10_0279_057:0300c12_18']	從此不動，入無色定，而亦不捨欲、色受生；	從此不動，入無色定，而亦不捨欲、色受生；	From this they do not move, entering the formless concentrations while also not abandoning birth in the desire and form realms;
+['ZH_T10_0279_057:0300c13_15']	雖住滅一切想受定，而亦不息菩薩行故。	雖住滅一切想受定，而亦不息菩薩行故。	Although abiding in the concentration that extinguishes all thoughts and feelings, they still do not cease bodhisattva practices.
+['ZH_T10_0279_057:0300c14_5']	學佛十力是菩薩道。	學佛十力是菩薩道。	Cultivating the ten powers of the Buddha is the bodhisattva path.
+['ZH_T10_0279_057:0300c14_8']	所謂：	所謂：	Namely:
+['ZH_T10_0279_057:0300c14_17']	善知是處、非處智；	善知是處、非處智；	Skillfully knowing what is possible and impossible;
+['ZH_T10_0279_057:0300c15_14']	善知一切眾生、去、來現在業報因果智；	善知一切眾生、去、來現在業報因果智；	Skillfully knowing the causes and effects of the karmic retributions of all sentient beings' past, present, and future;
+['ZH_T10_0279_057:0300c16_14']	善知一切眾生上、中、下根不同隨宜說法智；	善知一切眾生上、中、下根不同隨宜說法智；	Skillfully knowing how to teach the Dharma according to the different superior, middling, and inferior faculties of all sentient beings;
+['ZH_T10_0279_057:0300c17_7']	善知一切眾生種種無量性智；	善知一切眾生種種無量性智；	Skillfully knowing the various immeasurable natures of all sentient beings;
+['ZH_T10_0279_057:0300c18_8']	善知一切眾生軟、中、上解差別令入法方便智；	善知一切眾生軟、中、上解差別令入法方便智；	Skillfully knowing the distinctions in the soft, middling, and superior understanding of all sentient beings and the skillful means to cause them to enter the Dharma;
+['ZH_T10_0279_057:0300c20_5']	遍一切世間、一切剎、一切三世、一切劫，普現如來形相威儀而亦不捨菩薩所行智；	遍一切世間、一切剎、一切三世、一切劫，普現如來形相威儀而亦不捨菩薩所行智；	pervading all worlds, all lands, all pasts, presents, and futures, and all kalpas, manifesting the appearance and demeanor of the Tathāgata while also not abandoning the practices of the bodhisattvas;
+['ZH_T10_0279_057:0300c22_1']	善知一切諸禪解脫及諸三昧若垢若淨、時與非時，方便出生諸菩薩解脫門智；	善知一切諸禪解脫及諸三昧若垢若淨、時與非時，方便出生諸菩薩解脫門智；	skillfully knowing all dhyānas, liberations, and samādhis, whether defiled or pure, and at the appropriate or inappropriate times, giving rise to the wisdom of the bodhisattvas' liberation gates;
+['ZH_T10_0279_057:0300c22_18']	知一切眾生於諸趣中死此生彼差別智；	知一切眾生於諸趣中死此生彼差別智；	knowing the differences in the deaths and rebirths of all sentient beings in the various destinies;
+['ZH_T10_0279_057:0300c23_13']	於一念中悉知三世一切劫數智；	於一念中悉知三世一切劫數智；	in a single thought, knowing the number of all kalpas in the three times;
+['ZH_T10_0279_057:0300c25_2']	善知一切眾生樂欲、諸使、惑習滅盡智，而不捨離諸菩薩行。	善知一切眾生樂欲、諸使、惑習滅盡智，而不捨離諸菩薩行。	knowing the extinction of the desires, afflictions, and habits of all sentient beings, yet not abandoning the practices of the bodhisattvas.
+['ZH_T10_0279_057:0300c25_6']	是為十。	是為十。	These are the ten.
+['ZH_T10_0279_057:0300c26_8']	若諸菩薩安住此法，則得一切如來無上巧方便道。	若諸菩薩安住此法，則得一切如來無上巧方便道。	If bodhisattvas abide in these principles, they will attain the unsurpassed skillful means and path of all tathāgatas.
+['ZH_T10_0279_057:0300c27_3']	「佛子！	「佛子！	Buddha's disciple!
+['ZH_T10_0279_057:0300c28_8']	菩薩摩訶薩有無量道、無量助道、無量修道、無量莊嚴道。	菩薩摩訶薩有無量道、無量助道、無量修道、無量莊嚴道。	Bodhisattva-mahāsattvas have innumerable paths, innumerable aids to the path, innumerable cultivated paths, and innumerable adorned paths.
+['ZH_T10_0279_057:0300c28_12']	「佛子！	「佛子！	Buddha's disciple!
+['ZH_T10_0279_057:0300c29_3']	菩薩摩訶薩有十種無量道。	菩薩摩訶薩有十種無量道。	Bodhisattva-mahāsattvas have ten kinds of immeasurable paths.
+['ZH_T10_0279_057:0300c29_8']	何等為十？	何等為十？	What are the ten?
+['ZH_T10_0279_057:0300c29_11']	所謂：	所謂：	Namely:
+['ZH_T10_0279_057:0301a01_3']	虛空無量故，菩薩道亦無量；	虛空無量故，菩薩道亦無量；	Because space is immeasurable, the bodhisattva's path is also immeasurable;
+['ZH_T10_0279_057:0301a01_16']	法界無邊故，菩薩道亦無量；	法界無邊故，菩薩道亦無量；	Because the Dharma realm is boundless, the bodhisattva's path is also immeasurable;
+['ZH_T10_0279_057:0301a02_10']	眾生界無盡故，菩薩道亦無量；	眾生界無盡故，菩薩道亦無量；	Because the realm of sentient beings is inexhaustible, the bodhisattva's path is also immeasurable;
+['ZH_T10_0279_057:0301a03_3']	世界無際故，菩薩道亦無量；	世界無際故，菩薩道亦無量；	Because the world has no limits, the bodhisattva's path is also immeasurable;
+['ZH_T10_0279_057:0301a03_17']	劫數不可盡故，菩薩道亦無量；	劫數不可盡故，菩薩道亦無量；	Because the number of eons is inexhaustible, the bodhisattva's path is also immeasurable;
+['ZH_T10_0279_057:0301a04_15']	一切眾生語言法無量故，菩薩道亦無量；	一切眾生語言法無量故，菩薩道亦無量；	Because the immeasurable teachings of the languages of all sentient beings are immeasurable, the bodhisattva's path is also immeasurable;
+['ZH_T10_0279_057:0301a05_10']	如來身無量故，菩薩道亦無量；	如來身無量故，菩薩道亦無量；	Because the Tathāgata's body is immeasurable, the bodhisattva's path is also immeasurable;
+['ZH_T10_0279_057:0301a06_4']	佛音聲無量故，菩薩道亦無量；	佛音聲無量故，菩薩道亦無量；	Because the Tathāgata's voice is immeasurable, the bodhisattva's path is also immeasurable;
+['ZH_T10_0279_057:0301a06_18']	如來力無量故，菩薩道亦無量；	如來力無量故，菩薩道亦無量；	Because the Tathāgata's powers are immeasurable, the bodhisattva's path is also immeasurable;
+['ZH_T10_0279_057:0301a07_13']	一切智智無量故，菩薩道亦無量。	一切智智無量故，菩薩道亦無量。	Because omniscience is immeasurable, the bodhisattva's path is also immeasurable.
+['ZH_T10_0279_057:0301a07_17']	是為十。	是為十。	These are the ten.
+['ZH_T10_0279_057:0301a07_21']	「佛子！	「佛子！	Buddha's disciple!
+['ZH_T10_0279_057:0301a08_12']	菩薩摩訶薩有十種無量助道。	菩薩摩訶薩有十種無量助道。	Bodhisattva-mahāsattvas have ten kinds of immeasurable aids to the path.
+['ZH_T10_0279_057:0301a08_17']	何等為十？	何等為十？	What are the ten?
+['ZH_T10_0279_057:0301a08_20']	所謂：	所謂：	They are:
+['ZH_T10_0279_057:0301a09_12']	如虛空界無量，菩薩集助道亦無量；	如虛空界無量，菩薩集助道亦無量；	Just as the realm of space is immeasurable, the bodhisattvas' accumulation of practices to assist the path is also immeasurable;
+['ZH_T10_0279_057:0301a10_8']	如法界無邊，菩薩集助道亦無邊；	如法界無邊，菩薩集助道亦無邊；	Just as the Dharma realm is boundless, the bodhisattvas' accumulation of practices to assist the path is also boundless;
+['ZH_T10_0279_057:0301a11_5']	如眾生界無盡，菩薩集助道亦無盡；	如眾生界無盡，菩薩集助道亦無盡；	Just as the realm of sentient beings is inexhaustible, the bodhisattvas' accumulation of practices to assist the path is also inexhaustible;
+['ZH_T10_0279_057:0301a12_1']	如世界無際，菩薩集助道亦無際；	如世界無際，菩薩集助道亦無際；	Just as the world is without limits, the bodhisattvas' accumulation of practices to assist the path is also without limits;
+['ZH_T10_0279_057:0301a13_5']	如劫數說不可盡，菩薩集助道亦一切世間說不能盡；	如劫數說不可盡，菩薩集助道亦一切世間說不能盡；	Just as the number of eons cannot be exhausted, the bodhisattvas' accumulation of practices to assist the path is also inexpressible in all worlds;
+['ZH_T10_0279_057:0301a14_12']	如眾生語言法無量，菩薩集助道出生智慧知語言法亦無量；	如眾生語言法無量，菩薩集助道出生智慧知語言法亦無量；	Just as the number of languages of sentient beings is immeasurable, the bodhisattvas' accumulation of practices to assist the path gives rise to wisdom and knowledge of languages, which is also immeasurable;
+['ZH_T10_0279_057:0301a16_8']	如如來身無量，菩薩集助道遍一切眾生、一切剎、一切世、一切劫亦無量；	如如來身無量，菩薩集助道遍一切眾生、一切剎、一切世、一切劫亦無量；	Just as the Tathāgata's body is immeasurable, the bodhisattvas' accumulation of practices to assist the path pervades all sentient beings, all lands, all worlds, and all eons, and is also immeasurable;
+['ZH_T10_0279_057:0301a18_5']	如佛音聲無量，菩薩出一言音周遍法界，一切眾生無不聞知故，所集助道亦無量；	如佛音聲無量，菩薩出一言音周遍法界，一切眾生無不聞知故，所集助道亦無量；	Just as the Buddha's voice is immeasurable, the bodhisattvas emit a single sound that pervades the Dharma realm, and all sentient beings hear and know it, therefore the accumulation of practices to assist the path is also immeasurable;
+['ZH_T10_0279_057:0301a19_6']	如佛力無量，菩薩承如來力積集助道亦無量；	如佛力無量，菩薩承如來力積集助道亦無量；	Just as the Buddha's power is immeasurable, the bodhisattvas' accumulation of auxiliary practices in response to the Tathāgata's power is also immeasurable;
+['ZH_T10_0279_057:0301a20_8']	如一切智智無量，菩薩積集助道亦如是無有量。	如一切智智無量，菩薩積集助道亦如是無有量。	Just as the wisdom of omniscience is immeasurable, the bodhisattvas' accumulation of auxiliary practices is also like this, immeasurable.
+['ZH_T10_0279_057:0301a20_12']	是為十。	是為十。	These are the ten.
+['ZH_T10_0279_057:0301a21_11']	若諸菩薩安住此法，則得如來無量智慧。	若諸菩薩安住此法，則得如來無量智慧。	If bodhisattvas abide in these principles, they will attain the immeasurable wisdom of the Tathāgata.
+['ZH_T10_0279_057:0301a21_15']	「佛子！	「佛子！	Buddha's disciples!
+['ZH_T10_0279_057:0301a22_7']	菩薩摩訶薩有十種無量修道。	菩薩摩訶薩有十種無量修道。	Bodhisattva-mahāsattvas have ten kinds of immeasurable cultivation of the path.
+['ZH_T10_0279_057:0301a22_12']	何等為十？	何等為十？	What are the ten?
+['ZH_T10_0279_057:0301a22_15']	所謂：	所謂：	They are:
+['ZH_T10_0279_057:0301a23_12']	不來不去修，身、語、意業無動作故；	不來不去修，身、語、意業無動作故；	Cultivation of non-coming and non-going, because the activities of body, speech, and mind are motionless;
+['ZH_T10_0279_057:0301a24_1']	不增不減修，如本性故；	不增不減修，如本性故；	Cultivation of non-increase and non-decrease, because it is like the inherent nature;
+['ZH_T10_0279_057:0301a24_12']	非有非無修，無自性故；	非有非無修，無自性故；	Cultivation of neither existence nor non-existence, because it has no inherent nature;
+['ZH_T10_0279_057:0301a26_3']	如幻如夢、如影如響、如鏡中像、如熱時焰、如水中月修，離一切執著故；	如幻如夢、如影如響、如鏡中像、如熱時焰、如水中月修，離一切執著故；	Cultivation like an illusion, like a dream, like a shadow, like an echo, like a reflection in a mirror, like a mirage, like the moon in the water, because it is free from all attachments;
+['ZH_T10_0279_057:0301a27_6']	空、無相、無願、無作修，明見三界而集福德不休息故；	空、無相、無願、無作修，明見三界而集福德不休息故；	Cultivation of emptiness, signlessness, wishlessness, and non-action, because it clearly sees the three realms but unceasingly accumulates merit and virtue;
+['ZH_T10_0279_057:0301a28_7']	不可說、無言說、離言說修，遠離施設安立法故；	不可說、無言說、離言說修，遠離施設安立法故；	Inconceivable, inexpressible, and beyond words, because it is far removed from the establishment and designation of dharmas;
+['ZH_T10_0279_057:0301a29_3']	不壞法界修，智慧現知一切法故；	不壞法界修，智慧現知一切法故；	Cultivation of the indestructible Dharma realm, because wisdom directly knows all dharmas;
+['ZH_T10_0279_057:0301b01_3']	不壞真如實際修，普入真如實際虛空際故；	不壞真如實際修，普入真如實際虛空際故；	Cultivation of the indestructible suchness and ultimate reality, because it universally enters the realm of suchness, ultimate reality, and the realm of space;
+['ZH_T10_0279_057:0301b01_18']	廣大智慧修，諸有所作力無盡故；	廣大智慧修，諸有所作力無盡故；	Cultivation of vast wisdom, because all that is done is with inexhaustible power;
+['ZH_T10_0279_057:0301b03_7']	住如來十力、四無所畏、一切智智平等修，現見一切法無疑惑故。	住如來十力、四無所畏、一切智智平等修，現見一切法無疑惑故。	Cultivation of equality with the ten powers, four fearlessnesses, and omniscience of the Tathāgatas, because all dharmas are directly seen without doubt.
+['ZH_T10_0279_057:0301b03_11']	是為十。	是為十。	These are the ten.
+['ZH_T10_0279_057:0301b04_14']	若諸菩薩安住此法，則得如來一切智無上善巧修。	若諸菩薩安住此法，則得如來一切智無上善巧修。	If bodhisattvas abide in these, they will attain the unsurpassed skillful cultivation of omniscience of the Tathāgatas.
+['ZH_T10_0279_057:0301b04_18']	「佛子！	「佛子！	Buddha's disciple!
+['ZH_T10_0279_057:0301b05_9']	菩薩摩訶薩有十種莊嚴道。	菩薩摩訶薩有十種莊嚴道。	Bodhisattva-mahāsattvas have ten kinds of adornments of the path.
+['ZH_T10_0279_057:0301b05_14']	何等為十？	何等為十？	What are the ten?
+['ZH_T10_0279_057:0301b05_17']	佛子！	佛子！	Buddha's disciple!
+['ZH_T10_0279_057:0301b08_2']	菩薩摩訶薩不離欲界，入色界、無色界禪定解脫及諸三昧，亦不因此而受彼生，是為第一莊嚴道。	菩薩摩訶薩不離欲界，入色界、無色界禪定解脫及諸三昧，亦不因此而受彼生，是為第一莊嚴道。	Bodhisattva-mahāsattvas do not leave the desire realm to enter the concentrations, liberations, and various samādhis of the form and formless realms, and they do not take rebirth due to these [realms], this is the first adorned path.
+['ZH_T10_0279_057:0301b09_9']	智慧現前，入聲聞道，不以此道而取出離，是為第二莊嚴道。	智慧現前，入聲聞道，不以此道而取出離，是為第二莊嚴道。	Wisdom manifests, entering the śrāvaka path, but not attaining liberation through this path, this is the second adorned path.
+['ZH_T10_0279_057:0301b10_16']	智慧現前，入辟支佛道，而起大悲無有休息，是為第三莊嚴道。	智慧現前，入辟支佛道，而起大悲無有休息，是為第三莊嚴道。	Wisdom manifests, entering the pratyekabuddha path, but giving rise to great compassion without rest, this is the third adorned path.
+['ZH_T10_0279_057:0301b12_18']	雖有人、天眷屬圍遶，百千采女歌舞侍從，未曾暫捨禪定解脫及諸三昧，是為第四莊嚴道。	雖有人、天眷屬圍遶，百千采女歌舞侍從，未曾暫捨禪定解脫及諸三昧，是為第四莊嚴道。	Although surrounded by human and heavenly relatives, with hundreds of thousands of singing and dancing female attendants, they never temporarily abandon concentration, liberation, and various samādhis, this is the fourth adorned path.
+['ZH_T10_0279_057:0301b15_2']	與一切眾生受諸欲樂共相娛樂，乃至未曾於一念間捨離菩薩平等三昧，是為第五莊嚴道。	與一切眾生受諸欲樂共相娛樂，乃至未曾於一念間捨離菩薩平等三昧，是為第五莊嚴道。	Together with all sentient beings, enjoying various desires and amusements, yet never for a single moment abandoning the bodhisattvas' equanimous samādhi, this is the fifth adorned path.
+['ZH_T10_0279_057:0301b16_18']	已到一切世間彼岸，於諸世法悉無所著，而亦不捨度眾生行，是為第六莊嚴道。	已到一切世間彼岸，於諸世法悉無所著，而亦不捨度眾生行，是為第六莊嚴道。	Having already reached the other shore of all worlds, they are unattached to worldly dharmas, yet they do not abandon the practice of liberating sentient beings. This is the sixth adornment of the path.
+['ZH_T10_0279_057:0301b19_4']	安住正道、正智、正見，而能示入一切邪道，不取為實，不執為淨，令彼眾生遠離邪法，是為第七莊嚴道。	安住正道、正智、正見，而能示入一切邪道，不取為實，不執為淨，令彼眾生遠離邪法，是為第七莊嚴道。	They abide in the right path, right knowledge, and right view, yet they are able to demonstrate entry into all wrong paths, without taking them as real or grasping them as pure. They cause those sentient beings to abandon wrong dharmas. This is the seventh adornment of the path.
+['ZH_T10_0279_057:0301b24_6']	常善護持如來淨戒，身、語、意業無諸過失，為欲教化犯戒眾生，示行一切凡愚之行，雖已具足清淨福德住菩薩趣，而示生於一切地獄、畜生、餓鬼及諸險難、貧窮等處，令彼眾生皆得解脫，而實菩薩不生彼趣，是為第八莊嚴道。	常善護持如來淨戒，身、語、意業無諸過失，為欲教化犯戒眾生，示行一切凡愚之行，雖已具足清淨福德住菩薩趣，而示生於一切地獄、畜生、餓鬼及諸險難、貧窮等處，令彼眾生皆得解脫，而實菩薩不生彼趣，是為第八莊嚴道。	They always skillfully uphold the Tathāgata's pure precepts, with no faults in their bodily, verbal, and mental actions. In order to teach and transform sentient beings who violate the precepts, they demonstrate engaging in all the conduct of foolish commoners. Although they have already perfected pure blessings and virtues and abide in the bodhisattva stage, they demonstrate being born in all the hells, animal realms, hungry ghost realms, and in all the dangerous and poor places, causing those sentient beings to all attain liberation. Yet in reality the bodhisattva is not born in those realms. This is the eighth adornment of the path.
+['ZH_T10_0279_057:0301c02_4']	不由他教，得無礙辯，智慧光明普能照了一切佛法，為一切如來神力所持，與一切諸佛同一法身，成就一切堅固大人明淨密法，安住一切平等諸乘，諸佛境界皆現其前，具足一切世智光明，照見一切諸眾生界，能為眾生作知法師，而示求正法未曾休息，雖實與眾生作無上師，而示行尊敬闍梨和尚。	不由他教，得無礙辯，智慧光明普能照了一切佛法，為一切如來神力所持，與一切諸佛同一法身，成就一切堅固大人明淨密法，安住一切平等諸乘，諸佛境界皆現其前，具足一切世智光明，照見一切諸眾生界，能為眾生作知法師，而示求正法未曾休息，雖實與眾生作無上師，而示行尊敬闍梨和尚。	Without being taught by others, they attain unobstructed eloquence and the wisdom-illumination that universally illuminates all Buddha-Dharmas. They are upheld by the spiritual power of all Tathāgatas, and with all Buddhas they share the same Dharma-body. They accomplish all the firm, great man's clear and pure secret Dharmas, and abide in all the equal vehicles. The Buddha-realms all appear before them, and they are fully endowed with the worldly wisdom-illumination. They illuminate the realms of all sentient beings and are able to be the Dharma-masters for sentient beings, yet they demonstrate seeking the true Dharma without ever resting. Although they are in reality the unsurpassed teachers for sentient beings, they demonstrate respectfully practicing under spiritual benefactors and preceptors.
+['ZH_T10_0279_057:0301c02_8']	何以故？	何以故？	Why is it so?
+['ZH_T10_0279_057:0301c03_13']	菩薩摩訶薩善巧方便住菩薩道，隨其所應皆為示現。	菩薩摩訶薩善巧方便住菩薩道，隨其所應皆為示現。	Bodhisattva-mahāsattvas skillfully use expedient means to abide in the bodhisattva path and manifest it according to what is appropriate.
+['ZH_T10_0279_057:0301c04_2']	是為第九莊嚴道。	是為第九莊嚴道。	This is the ninth adornment of the path.
+['ZH_T10_0279_057:0301c05_19']	善根具足，諸行究竟，一切如來所共灌頂，到一切法自在彼岸，無礙法繒以冠其首；	善根具足，諸行究竟，一切如來所共灌頂，到一切法自在彼岸，無礙法繒以冠其首；	The roots of goodness are complete, and all practices are perfected. They are consecrated by all Tathāgatas together, and reach the other shore of mastery over all dharmas. The cloth of unobstructed dharmas is placed on their heads;
+['ZH_T10_0279_057:0301c07_16']	其身遍至一切世界，普現如來無礙之身，於法自在最上究竟，轉於無礙清淨法輪；	其身遍至一切世界，普現如來無礙之身，於法自在最上究竟，轉於無礙清淨法輪；	Their bodies pervade all worlds, universally manifesting the unobstructed body of the Tathāgata. In mastery over the Dharma, they have reached the ultimate. They turn the unobstructed and pure Dharma wheel;
+['ZH_T10_0279_057:0301c09_7']	一切菩薩自在之法皆已成就，而為眾生故，於一切國土示現受生；	一切菩薩自在之法皆已成就，而為眾生故，於一切國土示現受生；	They have accomplished all the dharmas of mastery of the bodhisattvas, and for the sake of sentient beings, they manifest birth in all lands;
+['ZH_T10_0279_057:0301c13_9']	與三世諸佛同一境界，而不廢菩薩行，不捨菩薩法，不懈菩薩業，不離菩薩道，不弛菩薩儀，不斷菩薩取，不息菩薩巧方便，不絕菩薩所作事，不厭菩薩生成用，不止菩薩住持力。	與三世諸佛同一境界，而不廢菩薩行，不捨菩薩法，不懈菩薩業，不離菩薩道，不弛菩薩儀，不斷菩薩取，不息菩薩巧方便，不絕菩薩所作事，不厭菩薩生成用，不止菩薩住持力。	They are of the same realm as the Buddhas of the three times, yet they do not abandon the practices of the bodhisattvas, they do not abandon the dharmas of the bodhisattvas, they do not slacken the activities of the bodhisattvas, they do not depart from the path of the bodhisattvas, they do not loosen the deportment of the bodhisattvas, they do not cease the grasping of the bodhisattvas, they do not stop the skillful means of the bodhisattvas, they do not end the activities of the bodhisattvas, they do not tire of the generative functions of the bodhisattvas, and they do not cease the power of upholding of the bodhisattvas.
+['ZH_T10_0279_057:0301c13_13']	何以故？	何以故？	Why is it so?
+['ZH_T10_0279_057:0301c15_4']	菩薩欲疾證阿耨多羅三藐三菩提，觀一切智門修菩薩行無休息故。	菩薩欲疾證阿耨多羅三藐三菩提，觀一切智門修菩薩行無休息故。	Bodhisattvas who wish to quickly realize supreme perfect enlightenment, observe the door of omniscience, cultivate bodhisattva practices without rest.
+['ZH_T10_0279_057:0301c15_12']	是為第十莊嚴道。	是為第十莊嚴道。	This is the tenth adornment path.
+['ZH_T10_0279_057:0301c17_1']	若諸菩薩安住此法，則得如來無上大莊嚴道，亦不捨菩薩道。	若諸菩薩安住此法，則得如來無上大莊嚴道，亦不捨菩薩道。	If bodhisattvas abide in these dharmas, they will attain the Tathāgata's unsurpassed great adornment path, and will not abandon the bodhisattva path.
+['ZH_T10_0279_057:0301c17_5']	「佛子！	「佛子！	Buddha's disciple!
+['ZH_T10_0279_057:0301c17_15']	菩薩摩訶薩有十種足。	菩薩摩訶薩有十種足。	Bodhisattva-mahāsattvas have ten kinds of feet.
+['ZH_T10_0279_057:0301c17_20']	何等為十？	何等為十？	What are the ten?
+['ZH_T10_0279_057:0301c18_14']	所謂持戒足，殊勝大願悉成滿故；	所謂持戒足，殊勝大願悉成滿故；	Namely, the feet of upholding precepts, because all the excellent great vows are fulfilled;
+['ZH_T10_0279_057:0301c19_10']	精進足，集一切菩提分法不退轉故；	精進足，集一切菩提分法不退轉故；	The feet of diligence, because of not regressing in gathering all the factors of enlightenment;
+['ZH_T10_0279_057:0301c20_4']	神通足，隨眾生欲令歡喜故；	神通足，隨眾生欲令歡喜故；	The feet of spiritual powers, because of delighting sentient beings according to their desires;
+['ZH_T10_0279_057:0301c21_1']	神力足，不離一佛剎往一切佛剎故；	神力足，不離一佛剎往一切佛剎故；	The feet of spiritual power, because of not leaving one buddha-land to go to all buddha-lands;
+['ZH_T10_0279_057:0301c21_14']	深心足，願求一切殊勝法故；	深心足，願求一切殊勝法故；	The feet of the profound mind, because of vowing to seek all the excellent dharmas;
+['ZH_T10_0279_057:0301c22_6']	堅誓足，一切所作咸究竟故；	堅誓足，一切所作咸究竟故；	The feet of firm vows, because of completing all that is to be done;
+['ZH_T10_0279_057:0301c22_19']	隨順足，不違一切尊者教故；	隨順足，不違一切尊者教故；	The feet of compliance, because of not going against the teachings of all venerable ones;
+['ZH_T10_0279_057:0301c23_16']	樂法足，聞持一切佛所說法不疲懈故；	樂法足，聞持一切佛所說法不疲懈故；	the foot of delighting in the Dharma, listening to and upholding all the teachings spoken by the Buddha without fatigue;
+['ZH_T10_0279_057:0301c24_10']	法雨足，為眾演說無怯弱故；	法雨足，為眾演說無怯弱故；	the foot of the Dharma rain, expounding the Dharma for the assembly without timidity;
+['ZH_T10_0279_057:0301c25_4']	修行足，一切諸惡悉遠離故。	修行足，一切諸惡悉遠離故。	the foot of practice, completely abandoning all evil.
+['ZH_T10_0279_057:0301c25_8']	是為十。	是為十。	These are the ten.
+['ZH_T10_0279_057:0301c27_2']	若諸菩薩安住此法，則得如來無上最勝足，若一舉步，悉能遍至一切世界。	若諸菩薩安住此法，則得如來無上最勝足，若一舉步，悉能遍至一切世界。	If bodhisattvas abide in these, they will attain the Tathāgata's unsurpassed, supreme feet, and with a single step, they will be able to reach all worlds.
+['ZH_T10_0279_057:0301c27_6']	「佛子！	「佛子！	Buddha's disciple!
+['ZH_T10_0279_057:0301c27_16']	菩薩摩訶薩有十種手。	菩薩摩訶薩有十種手。	Bodhisattva-mahāsattvas have ten kinds of hands.
+['ZH_T10_0279_057:0301c28_1']	何等為十？	何等為十？	What are the ten?
+['ZH_T10_0279_057:0301c28_4']	所謂：	所謂：	They are:
+['ZH_T10_0279_057:0301c29_2']	深信手，於佛所說，一向忍可，究竟受持故；	深信手，於佛所說，一向忍可，究竟受持故；	the hand of deep faith, single-mindedly accepting and ultimately upholding what is spoken by the Buddha;
+['ZH_T10_0279_057:0302a01_1']	布施手，有來求者，隨其所欲皆令充滿故；	布施手，有來求者，隨其所欲皆令充滿故；	the hand of generosity, satisfying those who come seeking according to their wishes;
+['ZH_T10_0279_057:0302a01_16']	先意問訊手，舒展右掌相迎引故；	先意問訊手，舒展右掌相迎引故；	the hand of greeting with a smile, extending one's right palm to welcome and lead them;
+['ZH_T10_0279_057:0302a02_11']	供養諸佛手，集眾福德無疲厭故；	供養諸佛手，集眾福德無疲厭故；	the hand of making offerings to the buddhas, accumulating various merits and virtues without weariness;
+['ZH_T10_0279_057:0302a03_6']	多聞善巧手，悉斷一切眾生疑故；	多聞善巧手，悉斷一切眾生疑故；	the hand of skillful means in listening widely, completely resolving all doubts of sentient beings;
+['ZH_T10_0279_057:0302a04_3']	令超三界手，授與眾生拔出欲泥故；	令超三界手，授與眾生拔出欲泥故；	The hand that transcends the three realms, in order to pull out sentient beings from the mud of desire;
+['ZH_T10_0279_057:0302a04_19']	置於彼岸手，四暴流中救溺眾生故；	置於彼岸手，四暴流中救溺眾生故；	The hand that places on the other shore, in order to rescue those drowning in the four violent currents;
+['ZH_T10_0279_057:0302a05_15']	不吝正法手，所有妙法悉以開示故；	不吝正法手，所有妙法悉以開示故；	The hand that does not begrudge the true Dharma, in order to reveal all wondrous dharmas;
+['ZH_T10_0279_057:0302a06_12']	善用眾論手，以智慧藥滅身心病故；	善用眾論手，以智慧藥滅身心病故；	The hand that skillfully uses various treatises, in order to extinguish the illnesses of body and mind with the medicine of wisdom;
+['ZH_T10_0279_057:0302a07_9']	恒持智寶手，開法光明破煩惱闇故。	恒持智寶手，開法光明破煩惱闇故。	The hand that always holds the treasure of wisdom, in order to open the light of the Dharma and destroy the darkness of afflictions.
+['ZH_T10_0279_057:0302a07_13']	是為十。	是為十。	These are the ten.
+['ZH_T10_0279_057:0302a09_1']	若諸菩薩安住此法，則得如來無上手，普覆十方一切世界。	若諸菩薩安住此法，則得如來無上手，普覆十方一切世界。	If bodhisattvas abide in these dharmas, they will attain the Tathāgata's unsurpassed hand, which universally covers all worlds in the ten directions.
+['ZH_T10_0279_057:0302a09_5']	「佛子！	「佛子！	Buddha's disciple!
+['ZH_T10_0279_057:0302a09_15']	菩薩摩訶薩有十種腹。	菩薩摩訶薩有十種腹。	Bodhisattva-mahāsattvas have ten kinds of bellies.
+['ZH_T10_0279_057:0302a09_20']	何等為十？	何等為十？	What are the ten?
+['ZH_T10_0279_057:0302a10_2']	所謂；	所謂；	Namely:
+['ZH_T10_0279_057:0302a10_12']	離諂曲腹，心清淨故；	離諂曲腹，心清淨故；	The belly free from flattery, because the mind is pure;
+['ZH_T10_0279_057:0302a11_1', 'ZH_T10_0279_057:0302a11_11']	離幻偽腹，性質直故；🔽不虛假腹，無險詖故；	離幻偽腹，性質直故； 不虛假腹，無險詖故；	The belly free from deception, because the nature is straightforward;🔽The belly that is not false, because there is no deceitfulness;
+['ZH_T10_0279_057:0302a12_5']	無欺奪腹，於一切物無所貪故；	無欺奪腹，於一切物無所貪故；	The belly that is not deceitful, because there is no greed for anything;
+['ZH_T10_0279_057:0302a12_15']	斷煩惱腹，具智慧故；	斷煩惱腹，具智慧故；	The belly of severing afflictions, because of possessing wisdom;
+['ZH_T10_0279_057:0302a13_6']	清淨心腹，離諸惡故；	清淨心腹，離諸惡故；	The belly of a pure mind, because of being free from all evil;
+['ZH_T10_0279_057:0302a13_18']	觀察飲食腹，念如實法故；	觀察飲食腹，念如實法故；	The belly of observing food and drink, because of contemplating the true Dharma;
+['ZH_T10_0279_057:0302a14_10']	觀察無作腹，覺悟緣起故；	觀察無作腹，覺悟緣起故；	The belly of observing non-action, because of awakening to dependent origination;
+['ZH_T10_0279_057:0302a15_6']	覺悟一切出離道腹，善成熟深心故；	覺悟一切出離道腹，善成熟深心故；	The belly of awakening to all paths of liberation, because of skillfully maturing the profound mind;
+['ZH_T10_0279_057:0302a16_7']	遠離一切邊見垢腹，令一切眾生得入佛腹故。	遠離一切邊見垢腹，令一切眾生得入佛腹故。	The belly of being free from the defilements of all extreme views, because of enabling all sentient beings to enter the Buddha's belly.
+['ZH_T10_0279_057:0302a16_11']	是為十。	是為十。	These are the ten.
+['ZH_T10_0279_057:0302a18_1']	若諸菩薩安住此法，則得如來無上廣大腹，悉能容受一切眾生。	若諸菩薩安住此法，則得如來無上廣大腹，悉能容受一切眾生。	If bodhisattvas abide in these principles, they will attain the Tathāgata's unsurpassed vast belly and be able to fully accommodate all sentient beings.
+['ZH_T10_0279_057:0302a18_5']	「佛子！	「佛子！	Buddha's disciple!
+['ZH_T10_0279_057:0302a18_15']	菩薩摩訶薩有十種藏。	菩薩摩訶薩有十種藏。	Bodhisattva-mahāsattvas have ten kinds of treasuries.
+['ZH_T10_0279_057:0302a18_20']	何等為十？	何等為十？	What are the ten?
+['ZH_T10_0279_057:0302a19_2', 'ZH_T10_0279_057:0302a20_2']	所謂：🔽不斷佛種是菩薩藏，開示佛法無量威德故；	所謂： 不斷佛種是菩薩藏，開示佛法無量威德故；	Namely:🔽Not severing the Buddha's lineage is a bodhisattva's treasury, because it reveals the immeasurable majestic virtue of the Buddha's teachings;
+['ZH_T10_0279_057:0302a21_2']	增長法種是菩薩藏，出生智慧廣大光明故；	增長法種是菩薩藏，出生智慧廣大光明故；	Increasing the Dharma lineage is a bodhisattva's treasury, because it gives rise to the vast light of wisdom;
+['ZH_T10_0279_057:0302a22_2']	住持僧種是菩薩藏，令其得入不退法輪故；	住持僧種是菩薩藏，令其得入不退法輪故；	The bodhisattva canon is the support of the lineage of monks, enabling them to enter the irreversible Dharma wheel.
+['ZH_T10_0279_057:0302a23_4']	覺悟正定眾生是菩薩藏，善隨其時不逾一念故；	覺悟正定眾生是菩薩藏，善隨其時不逾一念故；	The bodhisattva canon is the awakening of beings in right concentration, skillfully following their time without exceeding a single thought.
+['ZH_T10_0279_057:0302a24_8']	究竟成熟不定眾生是菩薩藏，令因相續無有間斷故；	究竟成熟不定眾生是菩薩藏，令因相續無有間斷故；	The bodhisattva canon is the ultimate maturation of indeterminate beings, enabling their causes to continue without interruption.
+['ZH_T10_0279_057:0302a25_14']	為邪定眾生發起大悲是菩薩藏，令未來因悉得成就故；	為邪定眾生發起大悲是菩薩藏，令未來因悉得成就故；	The bodhisattva canon is the great compassion aroused for beings in wrong concentration, enabling their future causes to be fully accomplished.
+['ZH_T10_0279_057:0302a27_1']	滿佛十力不可壞因是菩薩藏，具降伏魔軍無對善根故；	滿佛十力不可壞因是菩薩藏，具降伏魔軍無對善根故；	The bodhisattva canon is the indestructible cause for fulfilling the Buddha's ten powers, possessing the unopposed wholesome roots of subduing the demon army.
+['ZH_T10_0279_057:0302a28_5']	最勝無畏大師子吼是菩薩藏，令一切眾生皆歡喜故；	最勝無畏大師子吼是菩薩藏，令一切眾生皆歡喜故；	The bodhisattva canon is the supreme fearless great lion's roar, enabling all beings to rejoice.
+['ZH_T10_0279_057:0302a29_7']	得佛十八不共法是菩薩藏，智慧普入一切處故；	得佛十八不共法是菩薩藏，智慧普入一切處故；	The bodhisattva canon is attaining the Buddha's eighteen distinctive abilities, with wisdom penetrating everywhere.
+['ZH_T10_0279_057:0302b02_1']	普了知一切眾生、一切剎、一切法、一切佛是菩薩藏，於一念中悉明見故。	普了知一切眾生、一切剎、一切法、一切佛是菩薩藏，於一念中悉明見故。	The bodhisattva canon is the universal understanding of all beings, all lands, all dharmas, and all Buddhas, clearly seeing them all in a single thought.
+['ZH_T10_0279_057:0302b02_5']	是為十。	是為十。	These are the ten.
+['ZH_T10_0279_057:0302b03_10']	若諸菩薩安住此法，則得如來無上善根不可壞大智慧藏。	若諸菩薩安住此法，則得如來無上善根不可壞大智慧藏。	If bodhisattvas abide in these dharmas, they will attain the Tathāgata's unsurpassed, indestructible great wisdom treasury of wholesome roots.
+['ZH_T10_0279_057:0302b03_14']	「佛子！	「佛子！	Buddha's disciple!
+['ZH_T10_0279_057:0302b04_4']	菩薩摩訶薩有十種心。	菩薩摩訶薩有十種心。	Bodhisattva-mahāsattvas have ten kinds of minds.
+['ZH_T10_0279_057:0302b04_9']	何等為十？	何等為十？	What are the ten?
+['ZH_T10_0279_057:0302b04_12']	所謂：	所謂：	Namely:
+['ZH_T10_0279_057:0302b05_4']	精勤心，一切所作悉究竟故；	精勤心，一切所作悉究竟故；	Diligent mind, because all that is done is ultimately accomplished;
+['ZH_T10_0279_057:0302b05_17']	不懈心，積集相好福德行故；	不懈心，積集相好福德行故；	Non-lax mind, because merit and virtue are accumulated for the major and minor marks;
+['ZH_T10_0279_057:0302b06_11']	大勇健心，摧破一切諸魔軍故；	大勇健心，摧破一切諸魔軍故；	Greatly courageous mind, because all māra armies are crushed;
+['ZH_T10_0279_057:0302b07_5']	如理行心，除滅一切諸煩惱故；	如理行心，除滅一切諸煩惱故；	Mind of practicing in accordance with principles, because all afflictions are eradicated;
+['ZH_T10_0279_057:0302b07_19']	不退轉心，乃至菩提終不息故；	不退轉心，乃至菩提終不息故；	Non-retreating mind, because it never ceases until attaining enlightenment;
+['ZH_T10_0279_057:0302b08_13']	性清淨心，知心不動無所著故；	性清淨心，知心不動無所著故；	Pure nature mind, because it knows the mind is unmoving and unattached;
+['ZH_T10_0279_057:0302b09_7']	知眾生心，隨其解欲令出離故；	知眾生心，隨其解欲令出離故；	Knowing the minds of sentient beings, because it causes them to leave the world according to their understanding and desires;
+['ZH_T10_0279_057:0302b10_15']	令入佛法大梵住心，知諸眾生種種解欲，不以別乘而救護故；	令入佛法大梵住心，知諸眾生種種解欲，不以別乘而救護故；	Mind of abiding in the great brahma abode of entering the Buddha's teachings, because it knows the various understandings and desires of sentient beings and does not save and protect them with separate vehicles;
+['ZH_T10_0279_057:0302b11_15']	空、無相、無願、無作心，見三界相不取著故；	空、無相、無願、無作心，見三界相不取著故；	The mind of emptiness, signlessness, wishlessness, and non-action, because one sees the characteristics of the three realms without grasping or attachment;
+['ZH_T10_0279_057:0302b13_8']	卐字相金剛堅固勝藏莊嚴心，一切眾生數等魔來乃至不能動一毛故。	卐字相金剛堅固勝藏莊嚴心，一切眾生數等魔來乃至不能動一毛故。	The mind adorned with the auspicious mark of the swastika, the adamantine firm and excellent treasury, because even if demons equal in number to all sentient beings were to come, they would not be able to move a single hair.
+['ZH_T10_0279_057:0302b13_12']	是為十。	是為十。	These are the ten.
+['ZH_T10_0279_057:0302b14_15']	若諸菩薩安住此法，則得如來無上大智光明藏心。	若諸菩薩安住此法，則得如來無上大智光明藏心。	If bodhisattvas abide in these, they will attain the mind of the Tathāgata's unsurpassed great wisdom treasury of light.
+['ZH_T10_0279_057:0302b14_19']	「佛子！	「佛子！	Buddha's disciple!
+['ZH_T10_0279_057:0302b15_9']	菩薩摩訶薩有十種被甲。	菩薩摩訶薩有十種被甲。	Bodhisattva-mahāsattvas have ten kinds of armor.
+['ZH_T10_0279_057:0302b15_14']	何等為十？	何等為十？	What are the ten?
+['ZH_T10_0279_057:0302b15_17', 'ZH_T10_0279_057:0302b16_10']	所謂：🔽被大慈甲，救護一切眾生故；	所謂： 被大慈甲，救護一切眾生故；	They are:🔽Donning the armor of great kindness, in order to save and protect all sentient beings;
+['ZH_T10_0279_057:0302b17_3']	被大悲甲，堪忍一切諸苦故；	被大悲甲，堪忍一切諸苦故；	Donning the armor of great compassion, in order to endure all suffering;
+['ZH_T10_0279_057:0302b17_16']	被大願甲，一切所作究竟故；	被大願甲，一切所作究竟故；	Donning the armor of great vows, in order to accomplish all that needs to be done;
+['ZH_T10_0279_057:0302b18_10']	被迴向甲，建立一切佛莊嚴故；	被迴向甲，建立一切佛莊嚴故；	Donning the armor of dedication, in order to establish the adornments of all buddhas;
+['ZH_T10_0279_057:0302b19_19']	被福德甲，饒益一切諸眾生故，被波羅蜜甲，度脫一切諸含識故；	被福德甲，饒益一切諸眾生故，被波羅蜜甲，度脫一切諸含識故；	Donning the armor of blessings and virtues, in order to benefit all sentient beings, donning the armor of the perfections, in order to liberate all living beings;
+['ZH_T10_0279_057:0302b20_14']	被智慧甲，滅一切眾生煩惱闇故；	被智慧甲，滅一切眾生煩惱闇故；	Wearing the armor of wisdom, in order to extinguish the darkness of afflictions of all sentient beings;
+['ZH_T10_0279_057:0302b21_9']	被善巧方便甲，生普門善根故；	被善巧方便甲，生普門善根故；	Wearing the armor of skillful means, in order to give rise to the roots of goodness of the universal gate;
+['ZH_T10_0279_057:0302b22_8']	被一切智心堅固不散亂甲，不樂餘乘故；	被一切智心堅固不散亂甲，不樂餘乘故；	Wearing the armor of the firm and unconfused mind of omniscience, in order not to delight in other vehicles;
+['ZH_T10_0279_057:0302b23_4']	被一心決定甲，於一切法離疑惑故。	被一心決定甲，於一切法離疑惑故。	Wearing the armor of single-minded determination, in order to be free from doubt and confusion regarding all dharmas.
+['ZH_T10_0279_057:0302b23_8']	是為十。	是為十。	These are the ten.
+['ZH_T10_0279_057:0302b24_15']	若諸菩薩安住此法，則被如來無上甲冑，悉能摧伏一切魔軍。	若諸菩薩安住此法，則被如來無上甲冑，悉能摧伏一切魔軍。	If bodhisattvas abide in these principles, they will don the Tathāgata's unsurpassed armor and be able to subdue all māra armies.
+['ZH_T10_0279_057:0302b24_19']	「佛子！	「佛子！	Buddha's disciple!
+['ZH_T10_0279_057:0302b25_9']	菩薩摩訶薩有十種器仗。	菩薩摩訶薩有十種器仗。	Bodhisattva-mahāsattvas have ten kinds of weapons.
+['ZH_T10_0279_057:0302b25_14']	何等為十？	何等為十？	What are the ten?
+['ZH_T10_0279_057:0302b25_17']	所謂；	所謂；	They are:
+['ZH_T10_0279_057:0302b26_13']	布施是菩薩器仗，摧破一切慳吝故；	布施是菩薩器仗，摧破一切慳吝故；	Generosity is a bodhisattva's weapon, for it destroys all stinginess;
+['ZH_T10_0279_057:0302b27_10']	持戒是菩薩器仗，棄捨一切毀犯故；	持戒是菩薩器仗，棄捨一切毀犯故；	Upholding precepts is a bodhisattva's weapon, for it abandons all transgressions;
+['ZH_T10_0279_057:0302b28_6']	平等是菩薩器仗，斷除一切分別故；	平等是菩薩器仗，斷除一切分別故；	Equality is a bodhisattva's weapon, for it eliminates all discriminations;
+['ZH_T10_0279_057:0302b29_3']	智慧是菩薩器仗，消滅一切煩惱故；	智慧是菩薩器仗，消滅一切煩惱故；	Wisdom is a bodhisattva's weapon, for it extinguishes all afflictions;
+['ZH_T10_0279_057:0302b29_19']	正命是菩薩器仗，遠離一切邪命故；	正命是菩薩器仗，遠離一切邪命故；	Right livelihood is a bodhisattva's weapon, because it is far removed from all wrong livelihoods;
+['ZH_T10_0279_057:0302c01_17']	善巧方便是菩薩器仗，於一切處示現故；	善巧方便是菩薩器仗，於一切處示現故；	Skillful means is a bodhisattva's weapon, because it manifests in all places;
+['ZH_T10_0279_057:0302c03_5']	略說貪、瞋、癡等一切煩惱是菩薩器仗，以煩惱門度眾生故；	略說貪、瞋、癡等一切煩惱是菩薩器仗，以煩惱門度眾生故；	In brief, greed, anger, delusion, and all afflictions are a bodhisattva's weapon, because they use the gateway of afflictions to deliver sentient beings;
+['ZH_T10_0279_057:0302c04_5']	生死是菩薩器仗，不斷菩薩行教化眾生故；	生死是菩薩器仗，不斷菩薩行教化眾生故；	Saṃsāra is a bodhisattva's weapon, because it does not cut off the bodhisattva practices of teaching and transforming sentient beings;
+['ZH_T10_0279_057:0302c05_4']	說如實法是菩薩器仗，能破一切執著故；	說如實法是菩薩器仗，能破一切執著故；	Expounding the true Dharma is a bodhisattva's weapon, because it can destroy all attachments;
+['ZH_T10_0279_057:0302c06_2']	一切智是菩薩器仗，不捨菩薩行門故。	一切智是菩薩器仗，不捨菩薩行門故。	Omniscience is a bodhisattva's weapon, because it does not abandon the gateway of bodhisattva practices.
+['ZH_T10_0279_057:0302c06_6']	是為十。	是為十。	These are the ten.
+['ZH_T10_0279_057:0302c07_12']	若諸菩薩安住此法，則能除滅一切眾生長夜所集煩惱結使。	若諸菩薩安住此法，則能除滅一切眾生長夜所集煩惱結使。	If bodhisattvas abide in these principles, they can eliminate the afflictions and bonds accumulated over a long night by all sentient beings.
+['ZH_T10_0279_057:0302c08_3']	「佛子！	「佛子！	Buddha's disciple!
+['ZH_T10_0279_057:0302c08_13']	菩薩摩訶薩有十種首。	菩薩摩訶薩有十種首。	Bodhisattva-mahāsattvas have ten kinds of heads.
+['ZH_T10_0279_057:0302c08_18']	何等為十？	何等為十？	What are the ten?
+['ZH_T10_0279_057:0302c08_21']	所謂：	所謂：	They are:
+['ZH_T10_0279_057:0302c09_9']	涅槃首，無能見頂故；	涅槃首，無能見頂故；	The head of nirvāṇa, because no one can see its peak;
+['ZH_T10_0279_057:0302c10_2']	尊敬首，一切人、天所敬禮故；	尊敬首，一切人、天所敬禮故；	The head of respect, because it is revered and worshipped by all humans and gods;
+['ZH_T10_0279_057:0302c10_17']	廣大勝解首，三千界中最為勝故；	廣大勝解首，三千界中最為勝故；	The head of vast and superior understanding, because it is the most supreme in the trichiliocosm;
+['ZH_T10_0279_057:0302c11_12']	第一善根首，三界眾生咸供養故；	第一善根首，三界眾生咸供養故；	The head of the foremost wholesome roots, because beings in the three realms all make offerings to it;
+['ZH_T10_0279_057:0302c12_7']	荷戴眾生首，成就頂上肉髻相故；	荷戴眾生首，成就頂上肉髻相故；	The head that supports beings, because it accomplishes the mark of the flesh-crown on the head;
+['ZH_T10_0279_057:0302c13_3', 'ZH_T10_0279_057:0302c13_19']	不輕賤他首，於一切處常尊勝故；🔽般若波羅蜜首，長養一切功德法故；	不輕賤他首，於一切處常尊勝故； 般若波羅蜜首，長養一切功德法故；	The head that does not despise others, because it is always supreme and victorious in all places;🔽The head of prajñā-pāramitā, because it nurtures all meritorious dharmas;
+['ZH_T10_0279_057:0302c14_15']	方便智相應首，普現一切同類身故；	方便智相應首，普現一切同類身故；	The head that accords with the wisdom of skillful means, because it universally manifests bodies that accord with all types;
+['ZH_T10_0279_057:0302c15_14']	教化一切眾生首，以一切眾生為弟子故；	教化一切眾生首，以一切眾生為弟子故；	The head that teaches and transforms all beings, because it takes all beings as disciples;
+['ZH_T10_0279_057:0302c16_13']	守護諸佛法眼首，能令三寶種不斷絕故。	守護諸佛法眼首，能令三寶種不斷絕故。	The head that guards and protects the Dharma eye of the buddhas, because it enables the lineage of the Three Jewels to be uninterrupted.
+['ZH_T10_0279_057:0302c16_17']	是為十。	是為十。	These are the ten.
+['ZH_T10_0279_057:0302c17_17']	若諸菩薩安住此法，則得如來無上大智慧首。	若諸菩薩安住此法，則得如來無上大智慧首。	If bodhisattvas abide in these principles, they will attain the unsurpassed great wisdom-head of the Tathāgata.
+['ZH_T10_0279_057:0302c18_1']	「佛子！	「佛子！	Buddha's disciple!
+['ZH_T10_0279_057:0302c18_11']	菩薩摩訶薩有十種眼。	菩薩摩訶薩有十種眼。	Bodhisattva-mahāsattvas have ten kinds of eyes.
+['ZH_T10_0279_057:0302c18_14']	所謂：	所謂：	Namely:
+['ZH_T10_0279_057:0302c19_2']	肉眼，見一切色故；	肉眼，見一切色故；	the flesh eye, because it sees all forms;
+['ZH_T10_0279_057:0302c19_13']	天眼，見一切眾生心故；	天眼，見一切眾生心故；	the heavenly eye, because it sees the minds of all sentient beings;
+['ZH_T10_0279_057:0302c20_6']	慧眼，見一切眾生諸根境界故；	慧眼，見一切眾生諸根境界故；	the wisdom eye, because it sees the faculties and realms of all sentient beings;
+['ZH_T10_0279_057:0302c20_18']	法眼，見一切法如實相故；	法眼，見一切法如實相故；	the Dharma eye, because it sees the true nature of all dharmas;
+['ZH_T10_0279_057:0302c21_9']	佛眼，見如來十力故；	佛眼，見如來十力故；	the Buddha eye, because it sees the ten powers of the Tathāgata;
+['ZH_T10_0279_057:0302c21_18']	智眼，知見諸法故；	智眼，知見諸法故；	the knowledge eye, because it knows and sees all dharmas;
+['ZH_T10_0279_057:0302c22_7']	光明眼，見佛光明故；	光明眼，見佛光明故；	the light eye, because it sees the Buddha's light;
+['ZH_T10_0279_057:0302c22_17']	出生死眼，見涅槃故；	出生死眼，見涅槃故；	the eye of transcending birth and death, because it sees nirvāṇa;
+['ZH_T10_0279_057:0302c23_7']	無礙眼，所見無障故；	無礙眼，所見無障故；	the unobstructed eye, because what it sees is unimpeded;
+['ZH_T10_0279_057:0302c23_19']	一切智眼，見普門法界故。	一切智眼，見普門法界故。	the eye of omniscience, because it sees the universal Dharma realm.
+['ZH_T10_0279_057:0302c24_2']	是為十。	是為十。	These are the ten.
+['ZH_T10_0279_057:0302c25_6']	若諸菩薩安住此法，則得如來無上大智慧眼「佛子！	若諸菩薩安住此法，則得如來無上大智慧眼「佛子！	If bodhisattvas abide in these principles, they will attain the unsurpassed great wisdom eye of the Tathāgata. Buddha's disciples!
+['ZH_T10_0279_057:0302c25_16']	菩薩摩訶薩有十種耳。	菩薩摩訶薩有十種耳。	Bodhisattva-mahāsattvas have ten kinds of ears.
+['ZH_T10_0279_057:0302c26_1']	何等為十？	何等為十？	What are the ten?
+['ZH_T10_0279_057:0302c26_4', 'ZH_T10_0279_057:0302c26_14']	所謂：🔽聞讚歎聲，斷除貪愛；	所謂： 聞讚歎聲，斷除貪愛；	They are:🔽Hearing praise, they eliminate greed and desire;
+['ZH_T10_0279_057:0302c27_2']	聞毀呰聲，斷除瞋恚；	聞毀呰聲，斷除瞋恚；	Hearing slander, they eliminate anger and hatred;
+['ZH_T10_0279_057:0302c27_12']	聞說二乘，不著不求；	聞說二乘，不著不求；	Hearing about the two vehicles, they are neither attached nor seek them;
+['ZH_T10_0279_057:0302c28_1']	聞菩薩道，歡喜踊躍；	聞菩薩道，歡喜踊躍；	Hearing the bodhisattva path, they rejoice and leap with joy;
+['ZH_T10_0279_057:0302c28_20']	聞地獄等諸苦難處，起大悲心，發弘誓願；	聞地獄等諸苦難處，起大悲心，發弘誓願；	Hearing about the various difficult and painful places such as the hells, they give rise to a great compassionate mind and make vast vows;
+['ZH_T10_0279_057:0302c29_18']	聞說人、天勝妙之事，知彼皆是無常之法；	聞說人、天勝妙之事，知彼皆是無常之法；	Hearing about the wonderful and marvelous things of humans and gods, they know that they are all impermanent dharmas;
+['ZH_T10_0279_057:0303a01_17']	聞有讚歎諸佛功德，勤加精進，令速圓滿；	聞有讚歎諸佛功德，勤加精進，令速圓滿；	Hearing praises of the Buddha's merits, they diligently make progress to quickly perfect them;
+['ZH_T10_0279_057:0303a02_17']	聞說六度、四攝等法，發心修行，願到彼岸；	聞說六度、四攝等法，發心修行，願到彼岸；	Hearing about the dharmas of the six pāramitās, the four means of conversion, and so forth, they give rise to the intention to practice and vow to reach the other shore;
+['ZH_T10_0279_057:0303a04_1']	聞十方世界一切音聲，悉知如響，入不可說甚深妙義；	聞十方世界一切音聲，悉知如響，入不可說甚深妙義；	Hearing all the sounds in the worlds of the ten directions, they know them all to be like echoes, entering the inexpressible, profound, and wonderful meaning;
+['ZH_T10_0279_057:0303a05_14']	菩薩摩訶薩從初發心乃至道場，常聞正法未曾暫息，而恒不捨化眾生事。	菩薩摩訶薩從初發心乃至道場，常聞正法未曾暫息，而恒不捨化眾生事。	Bodhisattva-mahāsattvas, from their initial arousal of the intention to attain enlightenment up to the site of enlightenment, always hear the true Dharma without a moment's rest, yet they never abandon the task of transforming sentient beings.
+['ZH_T10_0279_057:0303a05_18']	是為十。	是為十。	These are the ten.
+['ZH_T10_0279_057:0303a06_18']	若諸菩薩成就此法，則得如來無上大智慧耳。	若諸菩薩成就此法，則得如來無上大智慧耳。	If bodhisattvas accomplish these dharmas, they will attain the Tathāgata's unsurpassed great wisdom-ear.
+['ZH_T10_0279_057:0303a07_3']	「佛子！	「佛子！	Buddha's disciple!
+['ZH_T10_0279_057:0303a07_13']	菩薩摩訶薩有十種鼻。	菩薩摩訶薩有十種鼻。	Bodhisattva-mahāsattvas have ten kinds of nose.
+['ZH_T10_0279_057:0303a07_18']	何等為十？	何等為十？	What are the ten?
+['ZH_T10_0279_057:0303a07_21']	所謂：	所謂：	Namely:
+['ZH_T10_0279_057:0303a08_8']	聞諸臭物不以為臭；	聞諸臭物不以為臭；	Smelling foul odors does not consider them foul;
+['ZH_T10_0279_057:0303a08_17']	聞諸香氣不以為香；	聞諸香氣不以為香；	Smelling fragrant scents does not consider them fragrant;
+['ZH_T10_0279_057:0303a09_8']	香臭俱聞，其心平等；	香臭俱聞，其心平等；	Smelling both fragrant and foul, the mind is impartial;
+['ZH_T10_0279_057:0303a09_18']	非香非臭，安住於捨；	非香非臭，安住於捨；	Not fragrant and not foul, abiding in equanimity;
+['ZH_T10_0279_057:0303a11_12']	若聞眾生衣服、臥具及其肢體所有香臭，則能知彼貪、恚、愚癡等分之行；	若聞眾生衣服、臥具及其肢體所有香臭，則能知彼貪、恚、愚癡等分之行；	If smelling the fragrances and odors of sentient beings' clothing, bedding, and limbs, one can know their conduct of greed, anger, delusion, and equanimity;
+['ZH_T10_0279_057:0303a12_13']	若聞諸伏藏草木等香，皆如對目前，分明辨了；	若聞諸伏藏草木等香，皆如對目前，分明辨了；	If smelling the fragrances of hidden treasures, grasses, trees, and so forth, it is as if seeing them directly in front, clearly discerning them;
+['ZH_T10_0279_057:0303a14_3']	若聞下至阿鼻地獄、上至有頂眾生之香，皆知彼過去所行之行；	若聞下至阿鼻地獄、上至有頂眾生之香，皆知彼過去所行之行；	If smelling the fragrances of sentient beings from the Avīci Hell up to the peak of existence, one knows the conduct they engaged in in the past;
+['ZH_T10_0279_057:0303a15_9']	若聞諸聲聞布施、持戒、多聞慧香，住一切智心，不令散動；	若聞諸聲聞布施、持戒、多聞慧香，住一切智心，不令散動；	If smelling the fragrances of the generosity, discipline, learning, and wisdom of śrāvakas, abiding in the mind of omniscience, preventing it from being scattered and agitated;
+['ZH_T10_0279_057:0303a16_7']	若聞一切菩薩行香，以平等慧入如來地；	若聞一切菩薩行香，以平等慧入如來地；	If smelling the fragrances of the practices of all bodhisattvas, entering the stage of the tathāgatas with impartial wisdom;
+['ZH_T10_0279_057:0303a17_6']	聞一切佛智境界香，亦不廢捨諸菩薩行。	聞一切佛智境界香，亦不廢捨諸菩薩行。	Smelling the fragrances of the sphere of cognition of all buddhas, also not abandoning the practices of bodhisattvas.
+['ZH_T10_0279_057:0303a17_10']	是為十。	是為十。	These are the ten.
+['ZH_T10_0279_057:0303a18_11']	若諸菩薩成就此法，則得如來無量無邊清淨鼻。	若諸菩薩成就此法，則得如來無量無邊清淨鼻。	If bodhisattvas accomplish these dharmas, they will attain the Tathāgata's immeasurable and boundless pure nose.
+['ZH_T10_0279_057:0303a18_15']	「佛子！	「佛子！	Buddha's disciple!
+['ZH_T10_0279_057:0303a19_5']	菩薩摩訶薩有十種舌。	菩薩摩訶薩有十種舌。	Bodhisattva-mahāsattvas have ten kinds of tongues.
+['ZH_T10_0279_057:0303a19_10']	何等為十？	何等為十？	What are the ten?
+['ZH_T10_0279_057:0303a19_13']	所謂：	所謂：	Namely:
+['ZH_T10_0279_057:0303a20_4']	開示演說無盡眾生行舌；	開示演說無盡眾生行舌；	The tongue that reveals and expounds the inexhaustible practices of sentient beings;
+['ZH_T10_0279_057:0303a20_14']	開示演說無盡法門舌；	開示演說無盡法門舌；	The tongue that reveals and expounds the inexhaustible Dharma gates;
+['ZH_T10_0279_057:0303a21_5']	讚歎諸佛無盡功德舌；	讚歎諸佛無盡功德舌；	The tongue that praises the inexhaustible merits of the buddhas;
+['ZH_T10_0279_057:0303a21_13']	演暢辭辯無盡舌；	演暢辭辯無盡舌；	The tongue that expounds inexhaustible eloquence;
+['ZH_T10_0279_057:0303a22_2']	開闡大乘助道舌；	開闡大乘助道舌；	The tongue that opens up the auxiliary path of the Great Vehicle;
+['ZH_T10_0279_057:0303a22_10']	遍覆十方虛空舌；	遍覆十方虛空舌；	The tongue that covers the ten directions and space;
+['ZH_T10_0279_057:0303a22_18']	普照一切佛剎舌；	普照一切佛剎舌；	The tongue that universally illuminates all buddha-lands;
+['ZH_T10_0279_057:0303a23_6']	普使眾生悟解舌；	普使眾生悟解舌；	The tongue that causes all sentient beings to awaken and understand;
+['ZH_T10_0279_057:0303a23_14']	悉令諸佛歎喜舌；	悉令諸佛歎喜舌；	The tongue that causes all buddhas to rejoice;
+['ZH_T10_0279_057:0303a24_19']	降伏一切諸魔外道，除滅一切生死煩惱，令至涅槃舌。	降伏一切諸魔外道，除滅一切生死煩惱，令至涅槃舌。	The tongue that subdues all māras and non-Buddhists, eliminates all birth and death and afflictions, and causes one to attain nirvāṇa.
+['ZH_T10_0279_057:0303a25_3']	是為十。	是為十。	These are the ten.
+['ZH_T10_0279_057:0303a26_9']	若諸菩薩成就此法，則得如來遍覆一切諸佛國土無上舌。	若諸菩薩成就此法，則得如來遍覆一切諸佛國土無上舌。	If bodhisattvas accomplish these dharmas, they will attain the Tathāgata's tongue that universally covers all buddha-lands and is unsurpassed.
+['ZH_T10_0279_057:0303a26_13']	「佛子！	「佛子！	Buddha's disciples!
+['ZH_T10_0279_057:0303a27_3']	菩薩摩訶薩有十種身。	菩薩摩訶薩有十種身。	Bodhisattva-mahāsattvas have ten kinds of bodies.
+['ZH_T10_0279_057:0303a27_8']	何等為十？	何等為十？	What are the ten?
+['ZH_T10_0279_057:0303a27_11']	所謂：	所謂：	Namely:
+['ZH_T10_0279_057:0303a28_2']	人身，為教化一切諸人故；	人身，為教化一切諸人故；	Human body, in order to teach and transform all humans;
+['ZH_T10_0279_057:0303a28_19']	非人身，為教化地獄、畜生、餓鬼故；	非人身，為教化地獄、畜生、餓鬼故；	Non-human body, in order to teach and transform hell beings, animals, and hungry ghosts;
+['ZH_T10_0279_057:0303a29_15']	天身，為教化欲界、色界、無色界眾生故；	天身，為教化欲界、色界、無色界眾生故；	Heavenly body, in order to teach and transform sentient beings in the desire realm, form realm, and formless realm;
+['ZH_T10_0279_057:0303b01_3']	學身，示現學地故；	學身，示現學地故；	Learned body, manifesting the stage of learning;
+['ZH_T10_0279_057:0303b01_15']	無學身，示現阿羅漢地故；	無學身，示現阿羅漢地故；	Unlearned body, manifesting the stage of arhats;
+['ZH_T10_0279_057:0303b02_8']	獨覺身，教化令入辟支佛地故；	獨覺身，教化令入辟支佛地故；	Pratyekabuddha body, teaching and transforming them to enter the pratyekabuddha stage;
+['ZH_T10_0279_057:0303b02_19']	菩薩身，令成就大乘故；	菩薩身，令成就大乘故；	Bodhisattva body, enabling them to accomplish the Great Vehicle;
+['ZH_T10_0279_057:0303b03_9']	如來身，智水灌頂故；	如來身，智水灌頂故；	Tathāgata body, being sprinkled with the water of wisdom and anointed;
+['ZH_T10_0279_057:0303b03_19']	意生身，善巧出生故；	意生身，善巧出生故；	Mind-born body, skillfully manifesting;
+['ZH_T10_0279_057:0303b04_16']	無漏法身，以無功用示現一切眾生身故。	無漏法身，以無功用示現一切眾生身故。	Dharma body free from outflows, manifesting the bodies of all sentient beings effortlessly.
+['ZH_T10_0279_057:0303b05_1']	是為十。	是為十。	These are the ten.
+['ZH_T10_0279_057:0303b05_19']	若諸菩薩成就此法，則得如來無上之身。	若諸菩薩成就此法，則得如來無上之身。	If bodhisattvas accomplish these dharmas, they will attain the unsurpassed body of the Tathāgata.
+['ZH_T10_0279_057:0303b06_3']	「佛子！	「佛子！	Buddha's disciples!
+['ZH_T10_0279_057:0303b06_13']	菩薩摩訶薩有十種意。	菩薩摩訶薩有十種意。	Bodhisattva-mahāsattvas have ten kinds of mind.
+['ZH_T10_0279_057:0303b06_18']	何等為十？	何等為十？	What are the ten?
+['ZH_T10_0279_057:0303b07_11']	所謂上首意，發起一切善根故；	所謂上首意，發起一切善根故；	Namely, the foremost mind, giving rise to all wholesome roots;
+['ZH_T10_0279_057:0303b08_3']	安住意，深信堅固不動故；	安住意，深信堅固不動故；	The abiding mind, deeply believing and being unshakable;
+['ZH_T10_0279_057:0303b08_15']	深入意，隨順佛法而解故；	深入意，隨順佛法而解故；	The penetrating mind, in accordance with the Buddha's teachings and understanding;
+['ZH_T10_0279_057:0303b09_6']	內了意，知諸眾生心樂故；	內了意，知諸眾生心樂故；	The inwardly comprehending mind, knowing the mental dispositions of sentient beings;
+['ZH_T10_0279_057:0303b09_18']	無亂意，一切煩惱不雜故；	無亂意，一切煩惱不雜故；	The unconfused mind, not mixed with any afflictions;
+['ZH_T10_0279_057:0303b10_10', 'ZH_T10_0279_057:0303b11_4']	明淨意，客塵不能染著故；🔽善觀眾生意，無有一念失時故；	明淨意，客塵不能染著故； 善觀眾生意，無有一念失時故；	The clear and pure mind, not defiled by adventitious dust;🔽The mind skillfully observing the assembly, not missing the right time for a single thought;
+['ZH_T10_0279_057:0303b11_18']	善擇所作意，未曾一處生過故；	善擇所作意，未曾一處生過故；	The mind skillfully discerning what should be done, never giving rise to faults in a single place;
+['ZH_T10_0279_057:0303b12_12']	密護諸根意，調伏不令馳散故；	密護諸根意，調伏不令馳散故；	The mind closely guarding the sense faculties, subduing them and not letting them run wild;
+['ZH_T10_0279_057:0303b13_10']	善入三昧意，深入佛三昧無我、我所故。	善入三昧意，深入佛三昧無我、我所故。	The mind skillfully entering samādhi, deeply entering the Buddha's samādhi without self or possessions.
+['ZH_T10_0279_057:0303b13_14']	是為十。	是為十。	These are the ten.
+['ZH_T10_0279_057:0303b14_12']	若諸菩薩安住此法，則得一切佛無上意。	若諸菩薩安住此法，則得一切佛無上意。	If bodhisattvas abide in these principles, they will attain the unsurpassed mind of all Buddhas.
+['ZH_T10_0279_057:0303b14_16']	「佛子！	「佛子！	Buddha's disciple!
+['ZH_T10_0279_057:0303b15_5']	菩薩摩訶薩有十種行。	菩薩摩訶薩有十種行。	Bodhisattva-mahāsattvas have ten kinds of practices.
+['ZH_T10_0279_057:0303b15_10']	何等為十？	何等為十？	What are the ten?
+['ZH_T10_0279_057:0303b15_13']	所謂：	所謂：	Namely:
+['ZH_T10_0279_057:0303b16_2']	聞法行，愛樂於法故；	聞法行，愛樂於法故；	The practice of hearing the Dharma, because of loving the Dharma;
+['ZH_T10_0279_057:0303b16_12']	說法行，利益眾生故；	說法行，利益眾生故；	The practice of expounding the Dharma, because of benefiting sentient beings;
+['ZH_T10_0279_057:0303b17_5']	離貪、恚，癡怖畏行，調伏自心故；	離貪、恚，癡怖畏行，調伏自心故；	The practice of being free from greed, anger, and fear, because of subduing one's own mind;
+['ZH_T10_0279_057:0303b17_17']	欲界行，教化欲界眾生故；	欲界行，教化欲界眾生故；	The practice of the desire realm, because of teaching and transforming sentient beings in the desire realm;
+['ZH_T10_0279_057:0303b18_11']	色、無色界三昧行，令速轉還故；	色、無色界三昧行，令速轉還故；	The practice of the concentrations of the form and formless realms, because of causing them to quickly turn back;
+['ZH_T10_0279_057:0303b19_3']	趣向法義行，速得智慧故；	趣向法義行，速得智慧故；	The practice of heading towards the meaning of the Dharma, because of quickly attaining wisdom;
+['ZH_T10_0279_057:0303b19_17']	一切生處行，自在教化眾生故；	一切生處行，自在教化眾生故；	The practice of all places of birth, because of freely teaching and transforming sentient beings;
+['ZH_T10_0279_057:0303b20_11']	一切佛剎行，禮拜供養諸佛故；	一切佛剎行，禮拜供養諸佛故；	The practice of all buddha-lands, because of paying homage and making offerings to all buddhas;
+['ZH_T10_0279_057:0303b21_3']	涅槃行，不斷生死相續故；	涅槃行，不斷生死相續故；	The practice of nirvāṇa, because of not abandoning the continuity of birth and death;
+['ZH_T10_0279_057:0303b21_19']	成滿一切佛法行，不捨菩薩法行故。	成滿一切佛法行，不捨菩薩法行故。	The practice of fulfilling all buddha-dharmas, because of not abandoning the practices of bodhisattvas.
+['ZH_T10_0279_057:0303b22_3']	是為十。	是為十。	These are the ten.
+['ZH_T10_0279_057:0303b23_3']	若諸菩薩安住此法，則得如來無來無去行。	若諸菩薩安住此法，則得如來無來無去行。	If bodhisattvas abide in these practices, they will attain the Tathāgata's practice of non-coming and non-going.
+['ZH_T10_0279_057:0303b23_7']	「佛子！	「佛子！	Buddha's disciple!
+['ZH_T10_0279_057:0303b23_17']	菩薩摩訶薩有十種住。	菩薩摩訶薩有十種住。	Bodhisattva-mahāsattvas have ten kinds of abodes.
+['ZH_T10_0279_057:0303b24_1']	何等為十？	何等為十？	What are the ten?
+['ZH_T10_0279_057:0303b24_4']	所謂：	所謂：	Namely:
+['ZH_T10_0279_057:0303b24_15']	菩提心住，曾不忘失故；	菩提心住，曾不忘失故；	Abiding in the bodhi mind, never forgetting it;
+['ZH_T10_0279_057:0303b25_4']	波羅蜜住，不厭助道故；	波羅蜜住，不厭助道故；	Abiding in the perfections, never tiring of assisting the path;
+['ZH_T10_0279_057:0303b25_14']	說法住，增長智慧故；	說法住，增長智慧故；	Abiding in expounding the Dharma, increasing wisdom;
+['ZH_T10_0279_057:0303b26_4']	阿蘭若住，證大禪定故；	阿蘭若住，證大禪定故；	Abiding in the araṇya, realizing great samādhi;
+['ZH_T10_0279_057:0303b27_5']	隨順一切智頭陀知足四聖種住，少欲少事故；	隨順一切智頭陀知足四聖種住，少欲少事故；	Abiding in the four noble practices of austerity and contentment that accord with omniscience, desiring few desires and few affairs;
+['ZH_T10_0279_057:0303b27_15']	深信住，荷負正法故；	深信住，荷負正法故；	Abiding in deep faith, bearing the true Dharma;
+['ZH_T10_0279_057:0303b28_7']	親近如來住，學佛威儀故；	親近如來住，學佛威儀故；	Abiding in intimacy with the Tathāgata, learning the Buddha's deportment;
+['ZH_T10_0279_057:0303b28_19']	出生神通住，圓滿大智故；	出生神通住，圓滿大智故；	Abiding in the arising of spiritual powers, perfecting great wisdom;
+['ZH_T10_0279_057:0303b29_8']	得忍住，滿足授記故；	得忍住，滿足授記故；	Abiding in attaining forbearance, fulfilling the prediction;
+['ZH_T10_0279_057:0303c01_3']	道場住，具足力、無畏、一切佛法故。	道場住，具足力、無畏、一切佛法故。	Abiding in the site of enlightenment, fully endowed with the powers, fearlessnesses, and all buddha-dharmas.
+['ZH_T10_0279_057:0303c01_7']	是為十。	是為十。	These are the ten.
+['ZH_T10_0279_057:0303c02_5']	若諸菩薩安住此法，則得一切智無上住。	若諸菩薩安住此法，則得一切智無上住。	If bodhisattvas abide in these dharmas, they will attain the unsurpassed abode of omniscience.
+['ZH_T10_0279_057:0303c02_9']	「佛子！	「佛子！	Buddha's disciple!
+['ZH_T10_0279_057:0303c02_19']	菩薩摩訶薩有十種坐。	菩薩摩訶薩有十種坐。	Bodhisattva-mahāsattvas have ten kinds of sitting.
+['ZH_T10_0279_057:0303c03_3']	何等為十？	何等為十？	What are the ten?
+['ZH_T10_0279_057:0303c03_6']	所謂：	所謂：	Namely:
+['ZH_T10_0279_057:0303c03_17']	轉輪王坐，興十善道故；	轉輪王坐，興十善道故；	The wheel-turning king's seat, because he promotes the ten wholesome deeds;
+['ZH_T10_0279_057:0303c04_14']	四天王坐，於一切世間自在安立佛法故；	四天王坐，於一切世間自在安立佛法故；	The four heavenly kings' seat, because he establishes the Buddha's teachings with sovereignty over all worlds;
+['ZH_T10_0279_057:0303c05_8']	帝釋坐，與一切眾生為勝主故；	帝釋坐，與一切眾生為勝主故；	The Indra's seat, because he is the supreme lord of all sentient beings;
+['ZH_T10_0279_057:0303c06_2', 'ZH_T10_0279_057:0303c06_11']	梵天坐，於自他心得自在故；🔽師子坐，能說法故；	梵天坐，於自他心得自在故； 師子坐，能說法故；	The Brahma's seat, because he has sovereignty over his own and others' minds;🔽The lion's seat, because he is able to expound the Dharma;
+['ZH_T10_0279_057:0303c07_5']	正法坐，以總持辯才力而開示故；	正法坐，以總持辯才力而開示故；	The true Dharma's seat, because he reveals it with the power of dhāraṇīs and eloquence;
+['ZH_T10_0279_057:0303c07_15']	堅固坐，誓願究竟故；	堅固坐，誓願究竟故；	The firm seat, because his vows are ultimate;
+['ZH_T10_0279_057:0303c08_8']	大慈坐，令惡眾生悉歡喜故；	大慈坐，令惡眾生悉歡喜故；	The great kindness' seat, because he causes evil sentient beings to rejoice;
+['ZH_T10_0279_057:0303c09_2']	大悲坐，忍一切苦不疲厭故；	大悲坐，忍一切苦不疲厭故；	The great compassion's seat, because he endures all suffering without weariness;
+['ZH_T10_0279_057:0303c09_15']	金剛坐，降伏眾魔及外道故。	金剛坐，降伏眾魔及外道故。	The vajra's seat, because he subdues the māras and non-Buddhists.
+['ZH_T10_0279_057:0303c09_19']	是為十。	是為十。	These are the ten.
+['ZH_T10_0279_057:0303c10_17']	若諸菩薩安住此法，則得如來無上正覺坐。	若諸菩薩安住此法，則得如來無上正覺坐。	If bodhisattvas abide in these principles, they will attain the Tathāgata's unsurpassed seat of right awakening.
+['ZH_T10_0279_057:0303c11_1']	「佛子！	「佛子！	Buddha's disciple!
+['ZH_T10_0279_057:0303c11_11']	菩薩摩訶薩有十種臥。	菩薩摩訶薩有十種臥。	Bodhisattva-mahāsattvas have ten kinds of lying down.
+['ZH_T10_0279_057:0303c11_16']	何等為十？	何等為十？	What are the ten?
+['ZH_T10_0279_057:0303c11_19']	所謂：	所謂：	Namely:
+['ZH_T10_0279_057:0303c12_8']	寂靜臥，身心憺怕故；	寂靜臥，身心憺怕故；	lying in tranquility, because body and mind are at ease;
+['ZH_T10_0279_057:0303c12_18']	禪定臥，如理修行故；	禪定臥，如理修行故；	lying in meditation, because one practices in accordance with principle;
+['ZH_T10_0279_057:0303c13_7']	三昧臥，身心柔軟故；	三昧臥，身心柔軟故；	lying in samādhi, because body and mind are pliant;
+['ZH_T10_0279_057:0303c13_17']	梵天臥，不惱自他故；	梵天臥，不惱自他故；	lying in the brahma heaven, because one does not trouble oneself or others;
+['ZH_T10_0279_057:0303c14_7']	善業臥，於後不悔故；	善業臥，於後不悔故；	lying in good karma, because one does not regret it later;
+['ZH_T10_0279_057:0303c14_17', 'ZH_T10_0279_057:0303c15_7']	正信臥，不可傾動故；🔽正道臥，善友開覺故；	正信臥，不可傾動故； 正道臥，善友開覺故；	lying in right faith, because it cannot be shaken;🔽lying in the right path, because good friends awaken one;
+['ZH_T10_0279_057:0303c15_17']	妙願臥，善巧迴向故；	妙願臥，善巧迴向故；	lying in wonderful vows, because one skillfully dedicates [merit];
+['ZH_T10_0279_057:0303c16_8']	一切事畢臥，所作成辦故；	一切事畢臥，所作成辦故；	lying in having completed all tasks, because what is to be done is accomplished;
+['ZH_T10_0279_057:0303c17_1']	捨諸功用臥，一切慣習故。	捨諸功用臥，一切慣習故。	lying in abandoning all effort, because of all habitual tendencies.
+['ZH_T10_0279_057:0303c17_5']	是為十。	是為十。	These are the ten.
+['ZH_T10_0279_057:0303c18_13']	若諸菩薩安住此法，則得如來無上大法臥，悉能開悟一切眾生。	若諸菩薩安住此法，則得如來無上大法臥，悉能開悟一切眾生。	If bodhisattvas abide by these principles, they will attain the Tathāgata's unsurpassed great Dharma lying down and be able to awaken all sentient beings.
+['ZH_T10_0279_057:0303c18_17']	「佛子！	「佛子！	Buddha's disciple!
+['ZH_T10_0279_057:0303c19_8']	菩薩摩訶薩有十種所住處。	菩薩摩訶薩有十種所住處。	Bodhisattva-mahāsattvas have ten kinds of places to abide.
+['ZH_T10_0279_057:0303c19_13']	何等為十？	何等為十？	What are the ten?
+['ZH_T10_0279_057:0303c19_16']	所謂；	所謂；	Namely:
+['ZH_T10_0279_057:0303c20_14']	以大慈為所住處，於一切眾生心平等故；	以大慈為所住處，於一切眾生心平等故；	Taking great kindness as the place to abide, because one's mind is impartial towards all sentient beings;
+['ZH_T10_0279_057:0303c21_9']	以大悲為所住處，不輕未學故；	以大悲為所住處，不輕未學故；	The abode of great compassion, because of not despising those who have not yet studied;
+['ZH_T10_0279_057:0303c22_4']	以大喜為所住處，離一切憂惱故；	以大喜為所住處，離一切憂惱故；	The abode of great joy, because of being free from all worries and distress;
+['ZH_T10_0279_057:0303c23_2']	以大捨為所住處，於有為、無為平等故；	以大捨為所住處，於有為、無為平等故；	The abode of great equanimity, because of the equality of conditioned and unconditioned;
+['ZH_T10_0279_057:0303c24_1']	以一切波羅蜜為所住處，菩提心為首故；	以一切波羅蜜為所住處，菩提心為首故；	The abode of all perfections, because of bodhicitta being foremost;
+['ZH_T10_0279_057:0303c24_16']	以一切空為所住處，善巧觀察故；	以一切空為所住處，善巧觀察故；	The abode of all emptiness, because of skillful observation;
+['ZH_T10_0279_057:0303c25_10']	以無相為所住處，不出正位故；	以無相為所住處，不出正位故；	The abode of signlessness, because of not departing from the correct stage;
+['ZH_T10_0279_057:0303c26_4']	以無願為所住處，觀察受生故；	以無願為所住處，觀察受生故；	The abode of wishlessness, because of observing rebirth;
+['ZH_T10_0279_057:0303c26_18']	以念慧為所住處，忍法成滿故；	以念慧為所住處，忍法成滿故；	The abode of mindfulness and wisdom, because of the perfection of forbearance;
+['ZH_T10_0279_057:0303c27_15']	以一切法平等為所住處，得授記別故。	以一切法平等為所住處，得授記別故。	The abode of the equality of all dharmas, because of receiving predictions.
+['ZH_T10_0279_057:0303c28_1']	是為十。	是為十。	These are the ten.
+['ZH_T10_0279_057:0303c29_3']	若諸菩薩安住此法，則得如來無上無礙所住處。	若諸菩薩安住此法，則得如來無上無礙所住處。	If bodhisattvas abide in these principles, they will attain the Tathāgata's unsurpassed abode of non-obstruction.
+['ZH_T10_0279_057:0303c29_7']	「佛子！	「佛子！	Buddha's disciple!
+['ZH_T10_0279_057:0303c29_19']	菩薩摩訶薩有十種所行處。	菩薩摩訶薩有十種所行處。	Bodhisattva-mahāsattvas have ten kinds of abodes.
+['ZH_T10_0279_057:0304a01_3']	何等為十？	何等為十？	What are the ten?
+['ZH_T10_0279_057:0304a01_6']	所謂：	所謂：	Namely:
+['ZH_T10_0279_057:0304a01_20']	以正念為所行處，滿足念處故；	以正念為所行處，滿足念處故；	Taking right mindfulness as the place of practice, fulfilling the bases of mindfulness;
+['ZH_T10_0279_057:0304a02_13']	以諸趣為所行處，正覺法趣故；	以諸趣為所行處，正覺法趣故；	Taking all destinies as the place of practice, rightly awakening to the Dharma destinies;
+['ZH_T10_0279_057:0304a03_8']	以智慧為所行處，得佛歡喜故；	以智慧為所行處，得佛歡喜故；	Taking wisdom as the place of practice, attaining the Buddha's joy;
+['ZH_T10_0279_057:0304a04_5']	以波羅蜜為所行處，滿足一切智智故；	以波羅蜜為所行處，滿足一切智智故；	Taking the perfections as the place of practice, fulfilling omniscience;
+['ZH_T10_0279_057:0304a04_19']	以四攝為所行處，教化眾生故；	以四攝為所行處，教化眾生故；	Taking the four means of conversion as the place of practice, teaching and transforming sentient beings;
+['ZH_T10_0279_057:0304a05_13']	以生死為所行處，積集善根故；	以生死為所行處，積集善根故；	Taking birth and death as the place of practice, accumulating wholesome roots;
+['ZH_T10_0279_057:0304a06_17']	以與一切眾生雜談戲為所行處，隨應教化令永離故；	以與一切眾生雜談戲為所行處，隨應教化令永離故；	Taking all kinds of worldly talk as the place of practice, teaching and transforming according to the circumstances, causing them to be forever free;
+['ZH_T10_0279_057:0304a07_17']	以神通為所行處，知一切眾生諸根境界故；	以神通為所行處，知一切眾生諸根境界故；	Taking spiritual powers as the place of practice, knowing the faculties and realms of all sentient beings;
+['ZH_T10_0279_057:0304a08_17']	以善巧方便為所行處，般若波羅蜜相應故；	以善巧方便為所行處，般若波羅蜜相應故；	Taking skillful means as the place of practice, being in accord with the perfection of wisdom;
+['ZH_T10_0279_057:0304a09_18']	以道場為所行處，成一切智而不斷菩薩行故。	以道場為所行處，成一切智而不斷菩薩行故。	Taking the site of enlightenment as the place of practice, attaining omniscience without severing the practices of enlightening beings.
+['ZH_T10_0279_057:0304a10_3']	是為十。	是為十。	These are the ten.
+['ZH_T10_0279_057:0304a11_6']	若諸菩薩安住此法，則得如來無上大智慧所行處。	若諸菩薩安住此法，則得如來無上大智慧所行處。	If bodhisattvas abide in these dharmas, they will attain the supreme great wisdom and the place of practice of the Tathāgata.
+['ZH_T10_0279_057:0304a11_10']	「佛子！	「佛子！	Buddha's disciple!
+['ZH_T10_0279_057:0304a12_1']	菩薩摩訶薩有十種觀察。	菩薩摩訶薩有十種觀察。	Bodhisattva-mahāsattvas have ten kinds of observation.
+['ZH_T10_0279_057:0304a12_6']	何等為十？	何等為十？	What are the ten?
+['ZH_T10_0279_057:0304a12_9']	所謂：	所謂：	Namely:
+['ZH_T10_0279_057:0304a12_21']	知諸業觀察，微細悉見故；	知諸業觀察，微細悉見故；	Knowing the observation of all karmas, seeing them all in detail;
+['ZH_T10_0279_057:0304a13_11']	知諸趣觀察，不取眾生故；	知諸趣觀察，不取眾生故；	Knowing the observation of all destinies, not grasping sentient beings;
+['ZH_T10_0279_057:0304a14_3']	知諸根觀察，了達無根故；	知諸根觀察，了達無根故；	Knowing the observation of all faculties, penetratingly understanding that there are no faculties;
+['ZH_T10_0279_057:0304a14_15']	知諸法觀察，不壞法界故；	知諸法觀察，不壞法界故；	Knowing the observation of all dharmas, not destroying the dharma realm;
+['ZH_T10_0279_057:0304a15_7']	見佛法觀察，勤修佛眼故；	見佛法觀察，勤修佛眼故；	Observing the seeing of the Buddha-dharmas, diligently cultivating the Buddha-eye;
+['ZH_T10_0279_057:0304a15_19']	得智慧觀察，如理說法故；	得智慧觀察，如理說法故；	Attaining the observation of wisdom, expounding the Dharma in accordance with principle;
+['ZH_T10_0279_057:0304a16_10']	無生忍觀察，決了佛法故；	無生忍觀察，決了佛法故；	The observation of forbearance in the absence of arising, decisively understanding the Buddha-dharmas;
+['ZH_T10_0279_057:0304a17_12']	不退地觀察，滅一切煩惱，超出三界、二乘地故；	不退地觀察，滅一切煩惱，超出三界、二乘地故；	The observation of the stage of nonretrogression, extinguishing all afflictions, transcending the stage of the two vehicles and the realm of the three realms;
+['ZH_T10_0279_057:0304a18_8']	灌頂地觀察，於一切佛法自在不動故；	灌頂地觀察，於一切佛法自在不動故；	The observation of the stage of consecration, being unmoved in mastery over all Buddha-dharmas;
+['ZH_T10_0279_057:0304a19_8']	善覺智三昧觀察，於一切十方施作佛事故。	善覺智三昧觀察，於一切十方施作佛事故。	The samādhi of observing with the wisdom of good awakening, in order to carry out the Buddha's affairs in all the ten directions.
+['ZH_T10_0279_057:0304a19_12']	是為十。	是為十。	These are the ten.
+['ZH_T10_0279_057:0304a20_13']	若諸菩薩安住此法，則得如來無上大觀察智。	若諸菩薩安住此法，則得如來無上大觀察智。	If bodhisattvas abide in these dharmas, they will attain the Tathāgata's unsurpassed great observing wisdom.
+['ZH_T10_0279_057:0304a20_17']	「佛子！	「佛子！	Buddha's disciple!
+['ZH_T10_0279_057:0304a21_8']	菩薩摩訶薩有十種普觀察。	菩薩摩訶薩有十種普觀察。	Bodhisattva-mahāsattvas have ten kinds of universal observations.
+['ZH_T10_0279_057:0304a21_13']	何等為十？	何等為十？	What are the ten?
+['ZH_T10_0279_057:0304a21_16']	所謂：	所謂：	They are:
+['ZH_T10_0279_057:0304a22_14']	普觀一切諸來求者，以無違心滿其意故；	普觀一切諸來求者，以無違心滿其意故；	Universally observing all those who come seeking, in order to fulfill their wishes without going against them;
+['ZH_T10_0279_057:0304a23_13']	普觀一切犯戒眾生，安置如來淨戒中故；	普觀一切犯戒眾生，安置如來淨戒中故；	Universally observing all sentient beings who violate precepts, in order to establish them in the Tathāgata's pure precepts;
+['ZH_T10_0279_057:0304a24_12']	普觀一切害心眾生，安置如來忍力中故；	普觀一切害心眾生，安置如來忍力中故；	Universally observing all sentient beings with harmful thoughts, in order to establish them in the Tathāgata's power of forbearance;
+['ZH_T10_0279_057:0304a25_15']	普觀一切懈怠眾生，勸令精勤不捨荷負大乘擔故；	普觀一切懈怠眾生，勸令精勤不捨荷負大乘擔故；	Universally observing all indolent sentient beings, in order to encourage them to be diligent and not abandon the great vehicle;
+['ZH_T10_0279_057:0304a26_18']	普觀一切亂心眾生，令住如來一切智地無散動故；	普觀一切亂心眾生，令住如來一切智地無散動故；	Universally observing all distracted sentient beings, in order to enable them to abide in the Tathāgata's ground of omniscience without agitation;
+['ZH_T10_0279_057:0304a27_17']	普觀一切惡慧眾生，令除疑惑破有見故；	普觀一切惡慧眾生，令除疑惑破有見故；	Universally observing all sentient beings with evil wisdom, in order to eliminate their doubts and break their views of existence;
+['ZH_T10_0279_057:0304a28_16']	普觀一切平等善友，順其教命住佛法故；	普觀一切平等善友，順其教命住佛法故；	Universally observing all as equal and good friends, in accordance with their teachings and commands, abiding in the Buddha's teachings;
+['ZH_T10_0279_057:0304a29_15']	普觀一切所聞之法，疾得證見最上義故；	普觀一切所聞之法，疾得證見最上義故；	Universally observing all the teachings one hears, quickly attaining realization and seeing the supreme meaning;
+['ZH_T10_0279_057:0304b01_14']	普觀一切無邊眾生，常不捨離大悲力故；	普觀一切無邊眾生，常不捨離大悲力故；	Universally observing all boundless sentient beings, always not abandoning the power of great compassion;
+['ZH_T10_0279_057:0304b02_13']	普觀一切諸佛之法，速得成就一切智故。	普觀一切諸佛之法，速得成就一切智故。	Universally observing all the Buddha's teachings, quickly attaining accomplishment in omniscience.
+['ZH_T10_0279_057:0304b02_17']	是為十。	是為十。	These are the ten.
+['ZH_T10_0279_057:0304b04_1']	若諸菩薩安住此法，則得如來無上大智慧普觀察。	若諸菩薩安住此法，則得如來無上大智慧普觀察。	If bodhisattvas abide in these teachings, they will attain the Tathāgata's unsurpassed great wisdom and universal observation.
+['ZH_T10_0279_057:0304b04_5']	「佛子！	「佛子！	Buddha's disciple!
+['ZH_T10_0279_057:0304b04_16']	菩薩摩訶薩有十種奮迅。	菩薩摩訶薩有十種奮迅。	Bodhisattva-mahāsattvas have ten kinds of shaking.
+['ZH_T10_0279_057:0304b05_1']	何等為十？	何等為十？	What are the ten?
+['ZH_T10_0279_057:0304b05_4']	所謂：	所謂：	Namely:
+['ZH_T10_0279_057:0304b06_6']	牛王奮迅，映蔽一切天、龍、夜叉、乾闥婆等諸大眾故；	牛王奮迅，映蔽一切天、龍、夜叉、乾闥婆等諸大眾故；	The shaking of the king of oxen, outshining all devas, nāgas, yakṣas, gandharvas, and other great assemblies;
+['ZH_T10_0279_057:0304b07_5']	象王奮迅，心善調柔，荷負一切諸眾生故；	象王奮迅，心善調柔，荷負一切諸眾生故；	The shaking of the king of elephants, with a well-tamed mind, bearing all sentient beings;
+['ZH_T10_0279_057:0304b09_8']	龍王奮迅，興大法密雲，耀解脫電光，震如實義雷，降諸根、力、覺分、禪定、解脫、三昧甘露雨故；	龍王奮迅，興大法密雲，耀解脫電光，震如實義雷，降諸根、力、覺分、禪定、解脫、三昧甘露雨故；	The naga king's manifestation is to arouse the great Dharma's secret clouds, shine the light of liberation, thunder the true meaning, and rain down the sweet dew of the faculties, powers, enlightenment factors, dhyanas, liberations, and samadhis;
+['ZH_T10_0279_057:0304b11_5']	大金翅鳥王奮迅，竭貪愛水，破愚癡㲉，搏撮煩惱諸惡毒龍，令出生死大苦海故；	大金翅鳥王奮迅，竭貪愛水，破愚癡㲉，搏撮煩惱諸惡毒龍，令出生死大苦海故；	The great garuda king's manifestation is to exhaust the water of craving, break through the shell of ignorance, and seize the evil poisonous nagas of afflictions, causing them to escape the great suffering of birth and death;
+['ZH_T10_0279_057:0304b12_15']	大師子王奮迅，安住無畏平等大智以為器仗，摧伏眾魔及外道故；	大師子王奮迅，安住無畏平等大智以為器仗，摧伏眾魔及外道故；	The great lion king's manifestation is to peacefully abide in the fearless and impartial great wisdom as a weapon, to subdue the various maras and non-Buddhists;
+['ZH_T10_0279_057:0304b14_1']	勇健奮迅，能於生死大戰陣中摧滅一切煩惱怨故；	勇健奮迅，能於生死大戰陣中摧滅一切煩惱怨故；	The manifestation of bravery is to be able to destroy all the enemies of afflictions in the great battle of birth and death;
+['ZH_T10_0279_057:0304b15_4']	大智奮迅，知蘊、界、處及諸緣起，自在開示一切法故；	大智奮迅，知蘊、界、處及諸緣起，自在開示一切法故；	The manifestation of great wisdom is to know the aggregates, realms, sense bases, and dependent origination, and to freely expound all dharmas;
+['ZH_T10_0279_057:0304b16_8']	陀羅尼奮迅，以念慧力持法不忘，隨眾生根為宣說故；	陀羅尼奮迅，以念慧力持法不忘，隨眾生根為宣說故；	The manifestation of dharanis is to uphold the Dharma with the power of mindfulness and wisdom without forgetting, and to proclaim it according to the capacities of sentient beings;
+['ZH_T10_0279_057:0304b17_12']	辯才奮迅，無礙迅疾分別一切，咸令受益心歡喜故；	辯才奮迅，無礙迅疾分別一切，咸令受益心歡喜故；	The lion's roar of eloquence, unhindered and swift, distinguishes all, causing all to receive benefits and rejoice in their hearts;
+['ZH_T10_0279_057:0304b21_1']	如來奮迅，一切智智助道之法皆悉成滿，以一念相應慧，所應得者一切皆得，所應悟者一切皆悟，坐師子座降魔怨敵，成阿耨多羅三藐三菩提故。	如來奮迅，一切智智助道之法皆悉成滿，以一念相應慧，所應得者一切皆得，所應悟者一切皆悟，坐師子座降魔怨敵，成阿耨多羅三藐三菩提故。	The lion's roar of the Tathāgata, the wisdom of omniscience and the methods of assisting the Way are all fulfilled, and with the wisdom of a single thought, all that should be attained is attained, all that should be realized is realized, sitting on the lion's seat, subduing Māra and his enemies, and attaining supreme perfect enlightenment.
+['ZH_T10_0279_057:0304b21_5']	是為十。	是為十。	These are the ten.
+['ZH_T10_0279_057:0304b22_9']	若諸菩薩安住此法，則得諸佛於一切法無上自在奮迅。	若諸菩薩安住此法，則得諸佛於一切法無上自在奮迅。	If bodhisattvas abide in these principles, they will attain the buddhas' unsurpassed mastery and lion's roar in all dharmas.
+['ZH_T10_0279_057:0304b22_13']	「佛子！	「佛子！	Buddha's disciple!
+['ZH_T10_0279_057:0304b23_5']	菩薩摩訶薩有十種師子吼。	菩薩摩訶薩有十種師子吼。	Bodhisattva-mahāsattvas have ten kinds of lion's roar.
+['ZH_T10_0279_057:0304b23_10']	何等為十？	何等為十？	What are the ten?
+['ZH_T10_0279_057:0304b23_13']	所謂：	所謂：	They are:
+['ZH_T10_0279_057:0304b23_16']	唱言：	唱言：	Proclaiming:
+['ZH_T10_0279_057:0304b24_4']	『我當必定成正等覺。	『我當必定成正等覺。	I will definitely attain perfect enlightenment.
+['ZH_T10_0279_057:0304b24_14']	』是菩提心大師子吼。	』是菩提心大師子吼。	This is the lion's roar of the mind of enlightenment.
+['ZH_T10_0279_057:0304b26_5']	『我當令一切眾生，未度者度，未脫者脫，未安者安，未涅槃者令得涅槃。	『我當令一切眾生，未度者度，未脫者脫，未安者安，未涅槃者令得涅槃。	'I shall enable all sentient beings who have not yet crossed over to cross over, those who have not yet been liberated to be liberated, those who have not yet found peace to find peace, and those who have not yet attained nirvana to attain nirvana.'
+['ZH_T10_0279_057:0304b26_14']	』是大悲大師子吼。	』是大悲大師子吼。	This is the great compassion of the lion's roar of the Great Teacher.
+['ZH_T10_0279_057:0304b27_6']	『我當令佛、法、僧種無有斷絕。	『我當令佛、法、僧種無有斷絕。	'I shall ensure that the lineage of the Buddha, Dharma, and Sangha is never cut off.'
+['ZH_T10_0279_057:0304b27_17']	』是報如來恩大師子吼。	』是報如來恩大師子吼。	This is the lion's roar of repaying the kindness of the Tathagata.
+['ZH_T10_0279_057:0304b28_6']	『我當嚴淨一切佛剎。	『我當嚴淨一切佛剎。	'I shall adorn and purify all buddha-lands.'
+['ZH_T10_0279_057:0304b28_17']	』是究竟堅誓大師子吼。	』是究竟堅誓大師子吼。	This is the lion's roar of the ultimate firm vow.
+['ZH_T10_0279_057:0304b29_10']	『我當除滅一切惡道及諸難處。	『我當除滅一切惡道及諸難處。	'I shall eliminate all evil destinies and difficult situations.'
+['ZH_T10_0279_057:0304c01_2']	』是自持淨戒大師子吼。	』是自持淨戒大師子吼。	This is the lion's roar of personally upholding pure precepts.
+['ZH_T10_0279_057:0304c02_1']	『我當滿足一切諸佛身、語及意相好莊嚴。	『我當滿足一切諸佛身、語及意相好莊嚴。	'I shall perfect the physical, verbal, and mental characteristics and adornments of all buddhas.'
+['ZH_T10_0279_057:0304c02_12']	』是求福無厭大師子吼。	』是求福無厭大師子吼。	This is the lion's roar of being insatiable in seeking merit.
+['ZH_T10_0279_057:0304c03_5']	『我當成滿一切諸佛所有智慧。	『我當成滿一切諸佛所有智慧。	'I shall fulfill all the wisdom possessed by all buddhas.'
+['ZH_T10_0279_057:0304c03_16']	』是求智無厭大師子吼。	』是求智無厭大師子吼。	This is the lion's roar of being insatiable in seeking wisdom.
+['ZH_T10_0279_057:0304c04_9']	『我當除滅一切眾魔及諸魔業。	『我當除滅一切眾魔及諸魔業。	'I shall eliminate all demons and demonic activities.'
+['ZH_T10_0279_057:0304c05_4']	』是修正行斷諸煩惱大師子吼。	』是修正行斷諸煩惱大師子吼。	This is the great lion's roar of practicing the right way to cut off afflictions.
+['ZH_T10_0279_057:0304c06_21']	『我當了知一切諸法無我，無眾生、無壽命、無補伽羅，空、無相、無願，淨如虛空。	『我當了知一切諸法無我，無眾生、無壽命、無補伽羅，空、無相、無願，淨如虛空。	'I will understand all dharmas to be without self, without sentient beings, without life, without person, empty, signless, wishless, and pure like space.'
+['ZH_T10_0279_057:0304c07_8']	』是無生法忍大師子吼。	』是無生法忍大師子吼。	This is the great lion's roar of the acceptance of the non-arising of dharmas.
+['ZH_T10_0279_057:0304c09_3']	最後生菩薩震動一切諸佛國土悉令嚴淨，是時，一切釋、梵、四王咸來讚請：	最後生菩薩震動一切諸佛國土悉令嚴淨，是時，一切釋、梵、四王咸來讚請：	The bodhisattva in his final birth shakes all buddha-lands and purifies them. At that time, all Śakras, Brahmās, and world-protectors come and praise him, saying:
+['ZH_T10_0279_057:0304c09_17']	『唯願菩薩以無生法而現受生！	『唯願菩薩以無生法而現受生！	'We only wish that the bodhisattva, with the Dharma of non-arising, would manifest birth.'
+['ZH_T10_0279_057:0304c10_10']	』菩薩則以無礙慧眼普觀世間：	』菩薩則以無礙慧眼普觀世間：	The bodhisattva then universally observes the world with the unobstructed eye of wisdom:
+['ZH_T10_0279_057:0304c11_1']	『一切眾生無如我者。	『一切眾生無如我者。	'All sentient beings are not like me.'
+['ZH_T10_0279_057:0304c11_20']	』即於王宮示現誕生，自行七步大師子吼：	』即於王宮示現誕生，自行七步大師子吼：	He then manifests birth in the royal palace and takes seven steps with the great lion's roar:
+['ZH_T10_0279_057:0304c12_18']	『我於世間最勝第一，我當永盡生死邊際。	『我於世間最勝第一，我當永盡生死邊際。	'I am supreme in the world. I will forever end the limits of birth and death.'
+['ZH_T10_0279_057:0304c13_8']	』是如說而作大師子吼。	』是如說而作大師子吼。	This is the great lion's roar of acting in accordance with one's words.
+['ZH_T10_0279_057:0304c13_12']	是為十。	是為十。	These are the ten.
+['ZH_T10_0279_057:0304c14_13']	若諸菩薩安住此法，則得如來無上大師子吼。	若諸菩薩安住此法，則得如來無上大師子吼。	If bodhisattvas abide in these dharmas, they will attain the unsurpassed lion's roar of the Tathāgata.
+['ZH_T10_0279_057:0304c15_100']	大方廣佛華嚴經卷第五十七	大方廣佛華嚴經卷第五十七	Buddhâvataṃsaka Sūtra, Scroll 57

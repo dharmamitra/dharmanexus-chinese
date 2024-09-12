@@ -1,0 +1,747 @@
+segmentnr	original	analyzed	translated
+['ZH_T27_1545_085:0437c02_0']	阿毘達磨大毘婆沙論卷第八十	阿毘達磨大毘婆沙論卷第八十	Abhidharma-mahāvibhāṣā-śāstra, fascicle 80
+['ZH_T27_1545_085:0437c03_0']	五	五	five
+['ZH_T27_1545_085:0437c05_0']	五百大阿羅漢等造	五百大阿羅漢等造	composed by 500 great arhats and others
+['ZH_T27_1545_085:0437c08_4']	三藏法師玄奘奉　詔譯15結蘊第二中十門納息第四之十五如契經說。	三藏法師玄奘奉　詔譯15結蘊第二中十門納息第四之十五如契經說。	tripiṭaka master Xuanzang respectfully received
+['ZH_T27_1545_085:0437c08_13']	有一苾芻來詣佛所。	有一苾芻來詣佛所。	there was a bhikṣu who came to where the Buddha was
+['ZH_T27_1545_085:0437c09_4']	頂禮佛足退坐一面。	頂禮佛足退坐一面。	he bowed his head at the Buddha's feet and sat to one side
+['ZH_T27_1545_085:0437c09_9']	而白佛言。	而白佛言。	he said to the Buddha
+['ZH_T27_1545_085:0437c09_12']	世尊。	世尊。	World-Honored One
+['ZH_T27_1545_085:0437c09_19']	說有明界淨界。	說有明界淨界。	you have spoken of the realm of light, the realm of purity
+['ZH_T27_1545_085:0437c10_5']	空無邊處界。	空無邊處界。	the realm of infinite space
+['ZH_T27_1545_085:0437c10_11', 'ZH_T27_1545_085:0437c10_17']	識無邊處界。🔽無所有處界。	識無邊處界。 無所有處界。	the realm of infinite consciousness🔽the realm of nothingness
+['ZH_T27_1545_085:0437c11_5']	非想非非想處界。	非想非非想處界。	the realm of neither perception nor non-perception
+['ZH_T27_1545_085:0437c11_8']	滅界。	滅界。	the realm of cessation
+['ZH_T27_1545_085:0437c11_17']	如是七界緣何施設。	如是七界緣何施設。	how are these seven realms established?
+['ZH_T27_1545_085:0437c12_3']	世尊告曰。	世尊告曰。	the World-Honored One said
+['ZH_T27_1545_085:0437c12_11']	緣闇故施設明界。	緣闇故施設明界。	they are established because of darkness, therefore the realm of light is established
+['ZH_T27_1545_085:0437c13_2']	緣不淨故施設淨界。	緣不淨故施設淨界。	because of impurity, therefore the realm of purity is established
+['ZH_T27_1545_085:0437c13_14']	緣色趣故施設空無邊處界。	緣色趣故施設空無邊處界。	because of the direction of form, therefore the realm of infinite space is established
+['ZH_T27_1545_085:0437c14_8']	緣邊際故施設識無邊處界。	緣邊際故施設識無邊處界。	because of the extreme limit, therefore the realm of infinite consciousness is established
+['ZH_T27_1545_085:0437c15_3']	緣所有故施設無所有處界。	緣所有故施設無所有處界。	because of existence, therefore the realm of nothingness is established
+['ZH_T27_1545_085:0437c15_17']	緣有身故施設非想非非想處界。	緣有身故施設非想非非想處界。	because of the body, therefore the realm of neither perception nor non-perception is established
+['ZH_T27_1545_085:0437c16_9']	緣有身滅故施設滅界。	緣有身滅故施設滅界。	The cessation element is established based on the cessation of the body.
+['ZH_T27_1545_085:0437c17_2']	問此中苾芻依何事問。	問此中苾芻依何事問。	Question: What matter did the bhikṣus ask about in this context?
+['ZH_T27_1545_085:0437c17_11']	世尊復以何事而答。	世尊復以何事而答。	What matter did the World-Honored One answer with?
+['ZH_T27_1545_085:0437c18_7']	答此中苾芻依八解脫覆相而問。	答此中苾芻依八解脫覆相而問。	Answer: In this context, the bhikṣus asked with a veiled meaning based on the eight liberations.
+['ZH_T27_1545_085:0437c18_16', 'ZH_T27_1545_085:0437c19_2']	佛亦以此覆相而答。🔽明界者。	佛亦以此覆相而答。 明界者。	The Buddha also answered with that veiled meaning.
+['ZH_T27_1545_085:0437c19_8', 'ZH_T27_1545_085:0437c19_12']	謂初二解脫。🔽淨界者。	謂初二解脫。 淨界者。	The bright element refers to the first two liberations.
+['ZH_T27_1545_085:0437c19_18', 'ZH_T27_1545_085:0437c20_4']	謂第三解脫。🔽四無色處界者。	謂第三解脫。 四無色處界者。	The pure element refers to the third liberation.
+['ZH_T27_1545_085:0437c20_11', 'ZH_T27_1545_085:0437c20_15']	謂四無色解脫。🔽滅界者。	謂四無色解脫。 滅界者。	The four formless realms refer to the four formless liberations.
+['ZH_T27_1545_085:0437c21_2']	謂想受滅解脫。	謂想受滅解脫。	The cessation element refers to the liberation of the cessation of perception and feeling.
+['ZH_T27_1545_085:0437c21_17']	問何故苾芻依八解脫覆相而問答。	問何故苾芻依八解脫覆相而問答。	Question: Why did the bhikṣus ask with a veiled meaning based on the eight liberations?
+['ZH_T27_1545_085:0437c22_12']	以彼苾芻少欲喜足覆藏己善。	以彼苾芻少欲喜足覆藏己善。	Answer: Because those bhikṣus had few desires and were content, concealing their own goodness.
+['ZH_T27_1545_085:0437c23_8']	不欲令他知自有德故作此問。	不欲令他知自有德故作此問。	They did not want others to know about their own virtues, so they asked this question.
+['ZH_T27_1545_085:0437c24_5']	問何故世尊以八解脫覆相而答。	問何故世尊以八解脫覆相而答。	Question: Why did the World-Honored One answer with a veiled meaning based on the eight liberations?
+['ZH_T27_1545_085:0437c24_15']	答欲令苾芻意樂滿故。	答欲令苾芻意樂滿故。	Answer: In order to fulfill the aspirations of the bhikṣus.
+['ZH_T27_1545_085:0437c25_6']	謂彼苾芻作如是念。	謂彼苾芻作如是念。	That is to say, those bhikṣus thought like this:
+['ZH_T27_1545_085:0437c25_15']	若佛為我覆相而答。	若佛為我覆相而答。	If the Buddha answers with a veiled meaning for me,...
+['ZH_T27_1545_085:0437c26_6']	八解脫者豈不善哉。	八解脫者豈不善哉。	Are the eight liberations not good?
+['ZH_T27_1545_085:0437c26_15']	由此世尊覆相而答。	由此世尊覆相而答。	For this reason, the World-Honored One answered by concealing the characteristics.
+['ZH_T27_1545_085:0437c27_7']	此中緣闇故施設明界者。	此中緣闇故施設明界者。	Here, the realm of light is established based on the darkness it relies on.
+['ZH_T27_1545_085:0437c27_16']	闇謂欲界緣色處貪。	闇謂欲界緣色處貪。	Darkness refers to the craving for the form realm in the desire realm.
+['ZH_T27_1545_085:0437c28_11']	初二解脫是彼對治故緣彼立。	初二解脫是彼對治故緣彼立。	The first two liberations are the antidotes to that, so they are established based on it.
+['ZH_T27_1545_085:0437c29_4']	緣不淨故施設淨界者。	緣不淨故施設淨界者。	The realm of purity is established based on impurity.
+['ZH_T27_1545_085:0437c29_16']	不淨謂初二解脫第三解脫。	不淨謂初二解脫第三解脫。	Impurity refers to the first two liberations and the third liberation.
+['ZH_T27_1545_085:0438a01_6']	是彼對治故緣彼立。	是彼對治故緣彼立。	They are the antidotes to that, so they are established based on it.
+['ZH_T27_1545_085:0438a02_2']	緣色趣故施設空無邊處界者。	緣色趣故施設空無邊處界者。	The realm of the sphere of infinite space is established based on the tendency towards form.
+['ZH_T27_1545_085:0438a02_14']	色趣謂第四靜慮第四解脫。	色趣謂第四靜慮第四解脫。	The tendency towards form refers to the fourth meditation and the fourth liberation in the fourth meditation.
+['ZH_T27_1545_085:0438a03_4']	是彼對治故緣彼立。	是彼對治故緣彼立。	They are the antidotes to that, so they are established based on it.
+['ZH_T27_1545_085:0438a03_17']	緣邊際故施設識無邊處界者。	緣邊際故施設識無邊處界者。	The realm of the sphere of infinite consciousness is established based on the limit.
+['ZH_T27_1545_085:0438a04_7']	邊際謂空無邊處。	邊際謂空無邊處。	The limit refers to the sphere of infinite space.
+['ZH_T27_1545_085:0438a04_14']	彼住色邊際故。	彼住色邊際故。	Because it abides at the limit of form.
+['ZH_T27_1545_085:0438a05_8']	第五解脫是彼對治故緣彼立。	第五解脫是彼對治故緣彼立。	The fifth liberation is the antidote to that, so it is established based on it.
+['ZH_T27_1545_085:0438a06_4']	緣所有故施設無所有處界者。	緣所有故施設無所有處界者。	The realm of the sphere of nothingness is established based on all that exists.
+['ZH_T27_1545_085:0438a07_2']	所有謂識無邊處彼有無邊行相轉故。	所有謂識無邊處彼有無邊行相轉故。	The sphere of infinite consciousness is called existence because it is associated with the notion of infinite consciousness.
+['ZH_T27_1545_085:0438a07_15']	第六解脫是彼對治故緣彼立。	第六解脫是彼對治故緣彼立。	The sixth liberation is established by taking it as its object because it is the antidote to that.
+['ZH_T27_1545_085:0438a08_12']	緣有身故施設非想非非想處界者。	緣有身故施設非想非非想處界者。	The sphere of neither-perception-nor-non-perception is established by taking the existence of the body as its object.
+['ZH_T27_1545_085:0438a09_2']	有身謂無所有處。	有身謂無所有處。	The existence of the body refers to the sphere of nothingness.
+['ZH_T27_1545_085:0438a09_15']	此猶有生死身非全無所有故。	此猶有生死身非全無所有故。	This is because there is still a body of birth and death, and it is not completely nonexistent.
+['ZH_T27_1545_085:0438a10_10']	第七解脫是彼對治故緣彼立。	第七解脫是彼對治故緣彼立。	The seventh liberation is established by taking it as its object because it is the antidote to that.
+['ZH_T27_1545_085:0438a11_4']	緣有身滅故施設滅界者。	緣有身滅故施設滅界者。	The sphere of cessation is established by taking the cessation of the existence of the body as its object.
+['ZH_T27_1545_085:0438a11_15']	有身滅謂非想非非想處。	有身滅謂非想非非想處。	The cessation of the existence of the body refers to the sphere of neither-perception-nor-non-perception.
+['ZH_T27_1545_085:0438a12_9']	以彼能滅無所有處有身法故。	以彼能滅無所有處有身法故。	This is because it is able to extinguish the existence of the body in the sphere of nothingness.
+['ZH_T27_1545_085:0438a13_4']	第八解脫是彼對治故緣彼立。	第八解脫是彼對治故緣彼立。	The eighth liberation is established by taking it as its object because it is the antidote to that.
+['ZH_T27_1545_085:0438a13_9']	有作是說。	有作是說。	Some say:
+['ZH_T27_1545_085:0438a14_7']	此中苾芻依略廣離三界染覆相而問。	此中苾芻依略廣離三界染覆相而問。	Here, the bhikṣu asks about the abandonment of the three realms in brief and in detail, covering it up.
+['ZH_T27_1545_085:0438a14_17', 'ZH_T27_1545_085:0438a15_2']	世尊亦以此覆相而答。🔽明界者。	世尊亦以此覆相而答。 明界者。	The World-Honored One also answers by covering it up.
+['ZH_T27_1545_085:0438a15_12']	略顯離欲界染加行道。	略顯離欲界染加行道。	The sphere of light refers to the path of preparation for abandoning the defilements of the desire realm in brief.
+['ZH_T27_1545_085:0438a16_1']	此緣闇施設者。	此緣闇施設者。	This is called the sphere of darkness.
+['ZH_T27_1545_085:0438a16_10']	闇謂欲界緣五欲貪。	闇謂欲界緣五欲貪。	Darkness refers to the desire realm, which is the craving for the five sense objects.
+['ZH_T27_1545_085:0438a17_4']	色界加行是彼對治故緣彼立。	色界加行是彼對治故緣彼立。	The formless realm is the antidote to that, and therefore it is established as the object of that [concentration].
+['ZH_T27_1545_085:0438a17_14']	淨界者略顯離欲界染。	淨界者略顯離欲界染。	The pure realm briefly shows the abandonment of the defilements of the desire realm.
+['ZH_T27_1545_085:0438a18_2']	空無邊處界者。	空無邊處界者。	The sphere of infinite space
+['ZH_T27_1545_085:0438a18_9']	略顯離色界染。	略顯離色界染。	briefly shows the abandonment of the defilements of the form realm.
+['ZH_T27_1545_085:0438a19_5']	識無邊無所有非想非非想處界者。	識無邊無所有非想非非想處界者。	The spheres of infinite consciousness, nothingness, and neither-perception-nor-non-perception
+['ZH_T27_1545_085:0438a19_13']	廣顯離無色界染。	廣顯離無色界染。	show in detail the abandonment of the defilements of the formless realm.
+['ZH_T27_1545_085:0438a20_5']	滅界者略顯離無色界染。	滅界者略顯離無色界染。	The sphere of cessation briefly shows the abandonment of the defilements of the formless realm.
+['ZH_T27_1545_085:0438a20_10']	此中有說。	此中有說。	Regarding this, some say:
+['ZH_T27_1545_085:0438a21_2']	明界者略顯離欲界染。	明界者略顯離欲界染。	The bright realm briefly shows the abandonment of the defilements of the desire realm,
+['ZH_T27_1545_085:0438a21_11']	唯未至定斷欲闇故。	唯未至定斷欲闇故。	because only the preliminary concentration abandons the darkness of desire.
+['ZH_T27_1545_085:0438a22_3']	淨界者廣顯離色界染。	淨界者廣顯離色界染。	The pure realm shows in detail the abandonment of the defilements of the form realm,
+['ZH_T27_1545_085:0438a22_13']	以四靜慮等皆名淨故。	以四靜慮等皆名淨故。	because the four meditations and so forth are all called pure.
+['ZH_T27_1545_085:0438a23_1']	空無邊處界者。	空無邊處界者。	The sphere of infinite space
+['ZH_T27_1545_085:0438a23_8']	略顯離色界染。	略顯離色界染。	briefly shows the abandonment of the defilements of the form realm.
+['ZH_T27_1545_085:0438a23_16', 'ZH_T27_1545_085:0438a24_8']	後三無色處界者。🔽廣顯離無色界染滅界者。	後三無色處界者。 廣顯離無色界染滅界者。	The spheres of the last three formless realms🔽show in detail the abandonment of the defilements of the formless realm. The sphere of cessation
+['ZH_T27_1545_085:0438a24_16']	略顯離無色界染。	略顯離無色界染。	briefly shows the abandonment of the defilements of the formless realm.
+['ZH_T27_1545_085:0438a25_6']	欲界唯有一地染故。	欲界唯有一地染故。	Because the desire realm has only one level of defilement.
+['ZH_T27_1545_085:0438a26_4']	略顯對治色無色界各有四地染故。	略顯對治色無色界各有四地染故。	Briefly revealing the antidotes, each of the defiled states of the form and formless realms has four levels.
+['ZH_T27_1545_085:0438a26_11']	廣略顯彼對治。	廣略顯彼對治。	Extensively revealing their antidotes.
+['ZH_T27_1545_085:0438a26_16']	譬喻者說。	譬喻者說。	The metaphorists say:
+['ZH_T27_1545_085:0438a27_10']	此中苾芻依八等至覆相而問。	此中苾芻依八等至覆相而問。	Here, the bhikṣus, based on the eight meditative absorptions, ask about the characteristics.
+['ZH_T27_1545_085:0438a28_2']	佛亦以此覆相而答。	佛亦以此覆相而答。	The Buddha also, using these characteristics, answers.
+['ZH_T27_1545_085:0438a28_11']	然此經文誦者增減。	然此經文誦者增減。	However, in the text of this sūtra, the reciters increase and decrease.
+['ZH_T27_1545_085:0438a29_2', 'ZH_T27_1545_085:0438a29_6']	謂增減界而減廣界。🔽明界者。	謂增減界而減廣界。 明界者。	That is, they increase and decrease the realms, but decrease the extensive realms.
+['ZH_T27_1545_085:0438a29_18']	謂初二靜慮此緣闇施設者。	謂初二靜慮此緣闇施設者。	The clear realm refers to the first two meditative absorptions. This is established based on external conditions.
+['ZH_T27_1545_085:0438b01_5']	闇謂外緣諸蓋。	闇謂外緣諸蓋。	Darkness refers to the various hindrances as external conditions.
+['ZH_T27_1545_085:0438b01_18', 'ZH_T27_1545_085:0438b02_3']	初二靜慮是彼對治故緣彼立。🔽淨界者。	初二靜慮是彼對治故緣彼立。 淨界者。	The first two meditative absorptions are their antidotes, so they are established based on them.
+['ZH_T27_1545_085:0438b02_9', 'ZH_T27_1545_085:0438b02_13']	謂第三靜慮。🔽廣界者。	謂第三靜慮。 廣界者。	The pure realm refers to the third meditative absorption.
+['ZH_T27_1545_085:0438b02_19']	謂第四靜慮。	謂第四靜慮。	The extensive realm refers to the fourth meditative absorption.
+['ZH_T27_1545_085:0438b03_9']	四無色處界即四無色處。	四無色處界即四無色處。	The four formless realms are the four formless attainments.
+['ZH_T27_1545_085:0438b04_4']	即此經說。	即此經說。	This sūtra says:
+['ZH_T27_1545_085:0438b04_17']	時彼苾芻聞佛所說歡喜敬受。	時彼苾芻聞佛所說歡喜敬受。	At that time, the bhikṣus, having heard the Buddha's teachings, joyfully received them with respect.
+['ZH_T27_1545_085:0438b05_3']	復白佛言。	復白佛言。	They further addressed the Buddha, saying:
+['ZH_T27_1545_085:0438b05_6']	世尊。	世尊。	World-Honored One,
+['ZH_T27_1545_085:0438b05_17']	明界乃至滅界由何定得。	明界乃至滅界由何定得。	the clear realm up to the realm of cessation - by which meditative absorption can one attain them?
+['ZH_T27_1545_085:0438b06_3']	佛告苾芻。	佛告苾芻。	The Buddha told the bhikṣus:
+['ZH_T27_1545_085:0438b06_14']	如是諸界由自行餘定得。	如是諸界由自行餘定得。	Thus, these realms are obtained by one's own practice and other concentrations.
+['ZH_T27_1545_085:0438b07_9']	苾芻聞已歡喜敬受禮佛而去。	苾芻聞已歡喜敬受禮佛而去。	Having heard this, the bhikṣus joyfully accepted it, bowed to the Buddha and left.
+['ZH_T27_1545_085:0438b07_14']	此中有說。	此中有說。	Among them, some say:
+['ZH_T27_1545_085:0438b08_1']	彼問得界。	彼問得界。	They asked about obtaining the realms.
+['ZH_T27_1545_085:0438b08_6']	復有說者。	復有說者。	There are also those who say:
+['ZH_T27_1545_085:0438b08_11']	彼問得斷。	彼問得斷。	They asked about obtaining cessation.
+['ZH_T27_1545_085:0438b09_8']	若問得界彼問意言。	若問得界彼問意言。	If they asked about obtaining the realms, their question meant:
+['ZH_T27_1545_085:0438b10_2']	如是諸界由何定得彼體。	如是諸界由何定得彼體。	By what concentration are these realms obtained?
+['ZH_T27_1545_085:0438b10_7']	佛答意言。	佛答意言。	The Buddha's answer meant:
+['ZH_T27_1545_085:0438b10_19']	明界乃至非想非非想處界。	明界乃至非想非非想處界。	The realms up to the sphere of neither-perception-nor-non-perception
+['ZH_T27_1545_085:0438b11_5']	由自行定得。	由自行定得。	are obtained by one's own practice and concentration.
+['ZH_T27_1545_085:0438b11_14']	自行定者謂自近分。	自行定者謂自近分。	One's own practice and concentration refers to one's own preliminary concentration.
+['ZH_T27_1545_085:0438b12_10']	由自近分離下地染得自地解脫。	由自近分離下地染得自地解脫。	By separating from the defilements of the lower stages through one's own preliminary concentration, one obtains liberation from one's own stage.
+['ZH_T27_1545_085:0438b13_10']	謂由初靜慮近分離欲界染得初二解脫。	謂由初靜慮近分離欲界染得初二解脫。	That is to say, by separating from the defilements of the desire realm through the preliminary concentration of the first meditation, one obtains the first two liberations.
+['ZH_T27_1545_085:0438b14_11']	由第四靜慮近分離第三靜慮染得淨解脫。	由第四靜慮近分離第三靜慮染得淨解脫。	By separating from the defilements of the third meditation through the preliminary concentration of the fourth meditation, one obtains the pure liberation.
+['ZH_T27_1545_085:0438b15_15']	由空無邊處近分離第四靜慮染得空無邊處解脫。	由空無邊處近分離第四靜慮染得空無邊處解脫。	By separating from the defilements of the fourth meditation through the preliminary concentration of the sphere of infinite space, one obtains the liberation of the sphere of infinite space.
+['ZH_T27_1545_085:0438b16_10']	乃至由非想非非想處近分。	乃至由非想非非想處近分。	Up to by the preliminary concentration of the sphere of neither-perception-nor-non-perception,
+['ZH_T27_1545_085:0438b17_9']	離無所有處染得非想非非想處解脫。	離無所有處染得非想非非想處解脫。	Attaining the liberation of the sphere of neither-perception-nor-non-perception by detaching from the sphere of nothingness.
+['ZH_T27_1545_085:0438b18_1']	唯有滅界由餘定得。	唯有滅界由餘定得。	Only the sphere of cessation is attained by other concentrations.
+['ZH_T27_1545_085:0438b18_10']	餘定者謂有所依定。	餘定者謂有所依定。	Other concentrations refer to supported concentrations.
+['ZH_T27_1545_085:0438b18_19']	即是非想非非想處。	即是非想非非想處。	That is, the sphere of neither-perception-nor-non-perception.
+['ZH_T27_1545_085:0438b19_8']	彼是諸有根本定故。	彼是諸有根本定故。	Because it is the fundamental concentration of all existences.
+['ZH_T27_1545_085:0438b19_12']	或有說。	或有說。	Some say:
+['ZH_T27_1545_085:0438b19_18']	此名有勝定。	此名有勝定。	This is called the supreme concentration.
+['ZH_T27_1545_085:0438b20_8']	於諸有中此最勝故。	於諸有中此最勝故。	Because it is the most excellent among all existences.
+['ZH_T27_1545_085:0438b20_17']	或說此名想受滅定。	或說此名想受滅定。	Some call it the concentration of the cessation of perception and feeling.
+['ZH_T27_1545_085:0438b21_8']	是想受滅入出定故。	是想受滅入出定故。	Because one enters and exits this concentration through the cessation of perception and feeling.
+['ZH_T27_1545_085:0438b21_17']	由此定得第八解脫。	由此定得第八解脫。	By this concentration, one attains the eighth liberation.
+['ZH_T27_1545_085:0438b22_8']	若問得斷彼問意言。	若問得斷彼問意言。	If one asks about the attainment of their cessation, the meaning of the question is:
+['ZH_T27_1545_085:0438b23_2']	如是諸界由何定得彼斷。	如是諸界由何定得彼斷。	By which concentration does one attain the cessation of these spheres?
+['ZH_T27_1545_085:0438b23_7']	佛答意言。	佛答意言。	The meaning of the Buddha's answer is:
+['ZH_T27_1545_085:0438b23_17']	明界乃至無所有處界。	明界乃至無所有處界。	The spheres of light up to the sphere of nothingness
+['ZH_T27_1545_085:0438b24_4', 'ZH_T27_1545_085:0438b24_9']	由自行餘定得。🔽自行定者。	由自行餘定得。 自行定者。	Are attained by one's own and other concentrations.🔽One's own concentration refers to
+['ZH_T27_1545_085:0438b24_18']	謂自近分即有漏定。	謂自近分即有漏定。	One's own proximity, that is, contaminated concentration.
+['ZH_T27_1545_085:0438b25_7']	餘定者謂諸無漏定。	餘定者謂諸無漏定。	Other concentrations refer to all uncontaminated concentrations.
+['ZH_T27_1545_085:0438b25_16']	欲界乃至無所有處。	欲界乃至無所有處。	The desire realm up to the sphere of nothingness.
+['ZH_T27_1545_085:0438b26_8']	皆由此二定離染得彼斷。	皆由此二定離染得彼斷。	All are attained by these two concentrations, by the separation from defilements, and by the attainment of their elimination.
+['ZH_T27_1545_085:0438b26_14']	非想非非想。	非想非非想。	The sphere of neither-perception-nor-non-perception.
+['ZH_T27_1545_085:0438b27_4']	處界但由餘定得。	處界但由餘定得。	The realm is only attained by the other concentrations.
+['ZH_T27_1545_085:0438b28_4']	唯無漏定能離非想非非想處染得彼斷。	唯無漏定能離非想非非想處染得彼斷。	Only the pure concentrations can separate from the defilements of the sphere of neither-perception-nor-non-perception and attain their elimination.
+['ZH_T27_1545_085:0438b28_12']	故滅界但由餘得。	故滅界但由餘得。	Therefore, the realm of cessation is only attained by the other.
+['ZH_T27_1545_085:0438b29_4']	餘謂有身滅即是涅槃。	餘謂有身滅即是涅槃。	The other refers to the cessation of the body, which is precisely nirvāṇa.
+['ZH_T27_1545_085:0438b29_17']	般涅槃時捨滅盡定說名為斷。	般涅槃時捨滅盡定說名為斷。	At the time of parinirvāṇa, the abandonment of the concentration of cessation is called elimination.
+['ZH_T27_1545_085:0438c01_14']	由餘涅槃而得彼斷故說彼由餘得。	由餘涅槃而得彼斷故說彼由餘得。	Because by the other nirvāṇa one attains their elimination, it is said that they are attained by the other.
+['ZH_T27_1545_085:0438c02_4']	八勝處者。	八勝處者。	The eight spheres of mastery.
+['ZH_T27_1545_085:0438c02_14']	一內有色想觀外色少。	一內有色想觀外色少。	First, internally having the perception of form, one sees external forms as few.
+['ZH_T27_1545_085:0438c03_6']	二內有色想觀外色多。	二內有色想觀外色多。	Second, internally having the perception of form, one sees external forms as many.
+['ZH_T27_1545_085:0438c03_16']	三內無色想觀外色少。	三內無色想觀外色少。	Third, internally without the perception of form, one sees external forms as few.
+['ZH_T27_1545_085:0438c04_8']	四內無色想觀外色多。	四內無色想觀外色多。	Fourth, internally without the perception of form, one sees external forms as many.
+['ZH_T27_1545_085:0438c05_4']	內無色想觀外諸色青黃赤白。	內無色想觀外諸色青黃赤白。	Internally without the perception of form, one sees external forms as blue, yellow, red, and white.
+['ZH_T27_1545_085:0438c05_9']	復為四種。	復為四種。	There are also four kinds.
+['ZH_T27_1545_085:0438c05_18']	如是八種名八勝處。	如是八種名八勝處。	These eight kinds are called the eight spheres of mastery.
+['ZH_T27_1545_085:0438c06_9']	問此八勝處自性是何。	問此八勝處自性是何。	Question: What is the intrinsic nature of these eight spheres of mastery?
+['ZH_T27_1545_085:0438c07_5']	答無貪善根以為自性對治貪故。	答無貪善根以為自性對治貪故。	Answer: It takes the wholesome root of non-greed as its intrinsic nature, because it counteracts greed.
+['ZH_T27_1545_085:0438c07_13']	若兼取相應隨轉。	若兼取相應隨轉。	If one also includes the associated and concomitant [factors],
+['ZH_T27_1545_085:0438c08_6']	則欲界者以四蘊為自性。	則欲界者以四蘊為自性。	then those in the desire realm take the four aggregates as their intrinsic nature,
+['ZH_T27_1545_085:0438c08_16']	色界者以五蘊為自性。	色界者以五蘊為自性。	and those in the form realm take the five aggregates as their intrinsic nature.
+['ZH_T27_1545_085:0438c09_7']	如是名為勝處自性。	如是名為勝處自性。	This is called the intrinsic nature of the spheres of mastery.
+['ZH_T27_1545_085:0438c09_16']	我物自體相分本性。	我物自體相分本性。	One's own things, self-nature, aspect, and fundamental nature.
+['ZH_T27_1545_085:0438c10_8']	已說自性所以今當說。	已說自性所以今當說。	The reason for its existence has already been explained, and now it will be explained.
+['ZH_T27_1545_085:0438c10_15']	問何故名勝處。	問何故名勝處。	Question: Why is it called the spheres of mastery?
+['ZH_T27_1545_085:0438c11_3']	勝處是何義。	勝處是何義。	What is the meaning of the spheres of mastery?
+['ZH_T27_1545_085:0438c11_13']	答勝所緣境故名勝處。	答勝所緣境故名勝處。	Answer: It is called the spheres of mastery because it masters the objects.
+['ZH_T27_1545_085:0438c12_6']	復次勝諸煩惱故名勝處。	復次勝諸煩惱故名勝處。	Furthermore, it is called the spheres of mastery because it masters all afflictions.
+['ZH_T27_1545_085:0438c13_2']	雖觀行者非一切能勝所緣境。	雖觀行者非一切能勝所緣境。	Although not all contemplatives can master the objects,
+['ZH_T27_1545_085:0438c13_15']	而於所緣不起煩惱亦名為勝。	而於所緣不起煩惱亦名為勝。	still not giving rise to afflictions towards the objects is also called mastery.
+['ZH_T27_1545_085:0438c14_3']	如契經說。	如契經說。	As a sutra says:
+['ZH_T27_1545_085:0438c14_12']	於此處勝故名勝處。	於此處勝故名勝處。	Because one is superior in this place, it is called the spheres of mastery.
+['ZH_T27_1545_085:0438c15_5']	此八勝處界者皆是色界。	此八勝處界者皆是色界。	As for the realms of these eight spheres of mastery, they all belong to the form realm.
+['ZH_T27_1545_085:0438c16_7']	地者前四勝處在初二靜慮及未至定靜慮中間。	地者前四勝處在初二靜慮及未至定靜慮中間。	As for the stages, the first four spheres of mastery are in the first two meditations, the preliminary concentration, and the intermediate meditation.
+['ZH_T27_1545_085:0438c16_17']	後四勝處在第四靜慮。	後四勝處在第四靜慮。	The last four spheres of mastery are in the fourth meditative absorption.
+['ZH_T27_1545_085:0438c17_8']	所依者皆依欲界身起。	所依者皆依欲界身起。	As for their basis, they all arise based on a body in the desire realm.
+['ZH_T27_1545_085:0438c18_2']	行相者一切皆非分明行相。	行相者一切皆非分明行相。	As for their aspects, all of them are not aspects of clear perception.
+['ZH_T27_1545_085:0438c18_14']	所緣者皆緣欲界一切色處。	所緣者皆緣欲界一切色處。	As for their objects, they all take as their objects all the form sense-spheres of the desire realm.
+['ZH_T27_1545_085:0438c19_5']	問若爾經說當云何通。	問若爾經說當云何通。	Question: If this is so, how can we understand the sutra's statement?
+['ZH_T27_1545_085:0438c20_1']	尊者無滅在室羅筏住一精舍。	尊者無滅在室羅筏住一精舍。	The Venerable Aniruddha was staying in a monastery in Śrāvastī.
+['ZH_T27_1545_085:0438c20_10']	爾時有四悅意天女。	爾時有四悅意天女。	At that time, there were four celestial maidens who were pleasing to the mind.
+['ZH_T27_1545_085:0438c21_1']	來至尊者座前而立。	來至尊者座前而立。	They came to the Venerable's seat and stood there.
+['ZH_T27_1545_085:0438c21_4']	白言。	白言。	They said:
+['ZH_T27_1545_085:0438c21_15']	我等於四色處轉變自在。	我等於四色處轉變自在。	We can transform and freely control the four colors.
+['ZH_T27_1545_085:0438c22_5']	隨所愛色皆能化作。	隨所愛色皆能化作。	We can manifest whatever color is loved and transform it.
+['ZH_T27_1545_085:0438c22_14']	以相娛樂隨心所玩。	以相娛樂隨心所玩。	We can amuse ourselves with each other and play with whatever we desire in our minds.
+['ZH_T27_1545_085:0438c23_5']	衣服嚴具皆能現之。	衣服嚴具皆能現之。	We can manifest clothing and adornments.
+['ZH_T27_1545_085:0438c23_14']	願垂納受以充供侍。	願垂納受以充供侍。	We wish that you would accept us and serve you.
+['ZH_T27_1545_085:0438c24_5']	尊者無滅作是念言。	尊者無滅作是念言。	The Venerable Aniruddha thought like this:
+['ZH_T27_1545_085:0438c24_14']	我應緣彼起不淨觀。	我應緣彼起不淨觀。	I should give rise to the contemplation of impurity with regard to them.
+['ZH_T27_1545_085:0438c25_6']	作是念已入初靜慮。	作是念已入初靜慮。	Having had this thought, he entered the first meditative absorption.
+['ZH_T27_1545_085:0438c25_15']	緣彼不能起不淨想。	緣彼不能起不淨想。	He was unable to give rise to the thought of impurity with regard to them.
+['ZH_T27_1545_085:0438c26_14']	乃至後入第四靜慮緣亦不能起不淨想。	乃至後入第四靜慮緣亦不能起不淨想。	Even later, when entering the fourth dhyāna, the object also cannot give rise to the thought of impurity.
+['ZH_T27_1545_085:0438c27_2']	復作是念。	復作是念。	He further thought:
+['ZH_T27_1545_085:0438c27_15']	此天女身有種種色惑亂人意。	此天女身有種種色惑亂人意。	The body of this celestial maiden has various colors that confuse the mind.
+['ZH_T27_1545_085:0438c28_6']	若彼純作一種色者。	若彼純作一種色者。	If she were to make only one kind of color,
+['ZH_T27_1545_085:0438c28_15']	我能於彼起不淨觀。	我能於彼起不淨觀。	I would be able to contemplate impurity towards her.
+['ZH_T27_1545_085:0438c29_14']	念已語言姊等前說於四色處轉變自在。	念已語言姊等前說於四色處轉變自在。	Having thought this, he said, Sisters, as previously mentioned, you have mastery over transforming the four colors.
+['ZH_T27_1545_085:0439a01_5']	願能為我皆現青色。	願能為我皆現青色。	Please show me all in the color blue for me.
+['ZH_T27_1545_085:0439a01_14']	天女奉教即為現青。	天女奉教即為現青。	The celestial maidens obeyed and showed him all in blue.
+['ZH_T27_1545_085:0439a02_5']	緣亦不能起不淨想。	緣亦不能起不淨想。	The object also cannot give rise to the thought of impurity.
+['ZH_T27_1545_085:0439a02_10']	復作是念。	復作是念。	He further thought:
+['ZH_T27_1545_085:0439a03_1']	彼於四色轉變自在。	彼於四色轉變自在。	They have mastery over transforming the four colors.
+['ZH_T27_1545_085:0439a03_14']	若作餘色或能緣之起不淨觀。	若作餘色或能緣之起不淨觀。	If they make other colors, I may be able to contemplate impurity towards them.
+['ZH_T27_1545_085:0439a04_5']	念已語言願現黃色。	念已語言願現黃色。	Having thought this, he said, Please show me the color yellow.
+['ZH_T27_1545_085:0439a04_14']	天女即為皆現黃色。	天女即為皆現黃色。	The celestial maidens immediately showed him all in the color yellow.
+['ZH_T27_1545_085:0439a05_5']	緣亦不能起不淨想。	緣亦不能起不淨想。	The object also cannot give rise to the thought of impurity.
+['ZH_T27_1545_085:0439a05_14']	復語天女皆現赤色。	復語天女皆現赤色。	He further said to the celestial maidens, Show me all in the color red.
+['ZH_T27_1545_085:0439a06_6']	緣亦不能起不淨想。	緣亦不能起不淨想。	The object also cannot give rise to the thought of impurity.
+['ZH_T27_1545_085:0439a06_11']	復作是念。	復作是念。	He further thought:
+['ZH_T27_1545_085:0439a07_7']	於諸色中白色最能順不淨觀。	於諸色中白色最能順不淨觀。	Among all colors, white is the most conducive to the contemplation of impurity.
+['ZH_T27_1545_085:0439a07_16']	我當令彼皆現白色。	我當令彼皆現白色。	I shall cause them all to appear white.
+['ZH_T27_1545_085:0439a08_7']	念已語言願現白色。	念已語言願現白色。	Having thought this, he said, Please appear white.
+['ZH_T27_1545_085:0439a08_16']	天女復為皆現白色。	天女復為皆現白色。	The celestial maiden then caused them all to appear white.
+['ZH_T27_1545_085:0439a09_6']	緣亦不能起不淨想。	緣亦不能起不淨想。	Even then, he was still unable to arouse the thought of impurity.
+['ZH_T27_1545_085:0439a09_15']	尊者無滅作是念言。	尊者無滅作是念言。	Venerable Aniruddha thought,
+['ZH_T27_1545_085:0439a10_6']	天色殊妙不可勝伏。	天色殊妙不可勝伏。	The celestial colors are so exquisite, they cannot be overcome.
+['ZH_T27_1545_085:0439a10_15']	於是閉目默然而坐。	於是閉目默然而坐。	Thereupon, he closed his eyes and sat in silence.
+['ZH_T27_1545_085:0439a11_6']	天知尊者都無染心。	天知尊者都無染心。	The celestial maiden knew that Venerable Aniruddha was completely free from defiled thoughts.
+['ZH_T27_1545_085:0439a11_15', 'ZH_T27_1545_085:0439a12_6']	相顧既慚忽然不現。🔽時尊者定不勝彼境。	相顧既慚忽然不現。 時尊者定不勝彼境。	They looked at each other in embarrassment and suddenly disappeared.🔽At that time, Venerable Aniruddha's concentration could not overcome that object.
+['ZH_T27_1545_085:0439a12_15']	境亦不能勝尊者定。	境亦不能勝尊者定。	The object could also not overcome Venerable Aniruddha's concentration.
+['ZH_T27_1545_085:0439a13_10']	如二力士展轉力齊不能相勝。	如二力士展轉力齊不能相勝。	It was like two strong men exerting equal strength, unable to overcome each other.
+['ZH_T27_1545_085:0439a13_15']	此亦如是。	此亦如是。	This is also like that.
+['ZH_T27_1545_085:0439a14_6']	此經所說當云何通。	此經所說當云何通。	How should we understand what is said in this sutra?
+['ZH_T27_1545_085:0439a15_3']	答尊者無滅於天色境雖不能勝。	答尊者無滅於天色境雖不能勝。	Answer: Although Venerable Aniruddha could not overcome the celestial color objects,
+['ZH_T27_1545_085:0439a15_16']	舍利子等利根勝定皆能勝之。	舍利子等利根勝定皆能勝之。	Śāriputra and others with sharp faculties and superior concentration could all overcome them.
+['ZH_T27_1545_085:0439a16_12']	問緣佛身色頗有能起不淨觀不。	問緣佛身色頗有能起不淨觀不。	Question: Can one arouse the contemplation of impurity with regard to the Buddha's physical form?
+['ZH_T27_1545_085:0439a16_15']	有說。	有說。	Some say:
+['ZH_T27_1545_085:0439a16_18']	不能。	不能。	They cannot.
+['ZH_T27_1545_085:0439a17_12']	以佛身色光明赫曜清淨無垢。	以佛身色光明赫曜清淨無垢。	Because the Buddha's physical form is radiant, pure, and immaculate.
+['ZH_T27_1545_085:0439a18_4']	無有能緣起不淨想。	無有能緣起不淨想。	There is no one who can give rise to impure thoughts towards it.
+['ZH_T27_1545_085:0439a18_9']	有作是說。	有作是說。	Some say:
+['ZH_T27_1545_085:0439a18_18']	一切異生聲聞獨覺。	一切異生聲聞獨覺。	All ordinary beings, śrāvakas, and pratyekabuddhas
+['ZH_T27_1545_085:0439a19_12']	皆不能緣諸佛身色起不淨想。	皆不能緣諸佛身色起不淨想。	Are all unable to give rise to impure thoughts towards the Buddha's physical form.
+['ZH_T27_1545_085:0439a20_12']	唯佛世尊於佛身色容有能緣起不淨想。	唯佛世尊於佛身色容有能緣起不淨想。	Only the World-Honored Buddha may be able to give rise to impure thoughts towards the Buddha's physical form.
+['ZH_T27_1545_085:0439a20_17']	或有說者。	或有說者。	Some say:
+['ZH_T27_1545_085:0439a21_6']	不淨觀有二種。	不淨觀有二種。	There are two kinds of impurity meditation.
+['ZH_T27_1545_085:0439a21_12']	一觀色過患。	一觀色過患。	One is contemplating the faults of form.
+['ZH_T27_1545_085:0439a21_18']	二觀色緣起。	二觀色緣起。	The other is contemplating the arising of form.
+['ZH_T27_1545_085:0439a22_5']	觀色過患者。	觀色過患者。	As for contemplating the faults of form,
+['ZH_T27_1545_085:0439a22_14']	不能緣佛起不淨想。	不能緣佛起不淨想。	One cannot give rise to impure thoughts towards the Buddha.
+['ZH_T27_1545_085:0439a23_11']	觀色緣起者亦能緣佛起不淨想。	觀色緣起者亦能緣佛起不淨想。	As for contemplating the arising of form, one can give rise to impure thoughts towards the Buddha.
+['ZH_T27_1545_085:0439a23_16']	復有說者。	復有說者。	Some say:
+['ZH_T27_1545_085:0439a24_5', 'ZH_T27_1545_085:0439a24_11']	不淨觀有二種。🔽一於自相轉。	不淨觀有二種。 一於自相轉。	There are two kinds of impurity meditation.🔽One operates on the specific characteristics.
+['ZH_T27_1545_085:0439a24_17']	二於共相轉。	二於共相轉。	The other operates on the common characteristics.
+['ZH_T27_1545_085:0439a25_5']	於自相轉者。	於自相轉者。	As for the one operating on the specific characteristics,
+['ZH_T27_1545_085:0439a25_14']	不能緣佛起不淨想。	不能緣佛起不淨想。	One cannot give rise to impure thoughts towards the Buddha.
+['ZH_T27_1545_085:0439a26_3']	於共相轉者。	於共相轉者。	As for the one operating on the common characteristics,
+['ZH_T27_1545_085:0439a26_12']	亦能緣佛起不淨想。	亦能緣佛起不淨想。	It can also give rise to impure thoughts regarding the Buddha.
+['ZH_T27_1545_085:0439a27_8']	問諸不淨觀為在意地為在五識。	問諸不淨觀為在意地為在五識。	Question: Do all impure contemplations exist in the mind or in the five consciousnesses?
+['ZH_T27_1545_085:0439a27_16']	答在意地非五識。	答在意地非五識。	Answer: They exist in the mind, not in the five consciousnesses.
+['ZH_T27_1545_085:0439a28_9']	問若爾經說當云何通。	問若爾經說當云何通。	Question: If so, how can the sūtras be understood?
+['ZH_T27_1545_085:0439a29_7']	如說眼見色已隨觀不淨如理思惟。	如說眼見色已隨觀不淨如理思惟。	As it is said, Having seen forms with the eyes, one contemplates impurity and properly reflects.
+['ZH_T27_1545_085:0439b01_7']	廣說乃至身覺觸已隨觀不淨如理思惟。	廣說乃至身覺觸已隨觀不淨如理思惟。	Extending to Having felt touches with the body, one contemplates impurity and properly reflects.
+['ZH_T27_1545_085:0439b02_8']	答由五識身方便引起諸不淨觀故作是說。	答由五識身方便引起諸不淨觀故作是說。	Answer: It is said this way because the impure contemplations are induced by the five consciousnesses.
+['ZH_T27_1545_085:0439b02_17']	如意近行實唯意地。	如意近行實唯意地。	Just as mental activities actually exist only in the mind,
+['ZH_T27_1545_085:0439b03_8']	五識引起此亦應爾。	五識引起此亦應爾。	this is also so for what is induced by the five consciousnesses.
+['ZH_T27_1545_085:0439b04_1']	問諸不淨觀唯緣色處。	問諸不淨觀唯緣色處。	Question: Do the impure contemplations only take the form realm as their object?
+['ZH_T27_1545_085:0439b04_10']	但應說言眼見色已。	但應說言眼見色已。	It should only be said, Having seen forms with the eyes,
+['ZH_T27_1545_085:0439b05_1']	隨觀不淨如理思惟。	隨觀不淨如理思惟。	One contemplates impurity and properly reflects.
+['ZH_T27_1545_085:0439b05_10']	何故亦言耳聞聲已。	何故亦言耳聞聲已。	Why is it also said, Having heard sounds with the ears,
+['ZH_T27_1545_085:0439b06_4']	廣說乃至身覺觸已如理思惟。	廣說乃至身覺觸已如理思惟。	extending to Having felt touches with the body, one properly reflects?
+['ZH_T27_1545_085:0439b07_5']	答如不淨觀能伏色貪亦能伏餘四境貪故。	答如不淨觀能伏色貪亦能伏餘四境貪故。	Answer: Because the impure contemplations can subdue craving for forms and can also subdue craving for the other four objects,
+['ZH_T27_1545_085:0439b07_14']	作如是說亦不違理。	作如是說亦不違理。	To explain it in this way does not contradict reason.
+['ZH_T27_1545_085:0439b08_2']	有作是說。	有作是說。	There is an explanation.
+['ZH_T27_1545_085:0439b08_15']	眼見色已廣說乃至身覺觸已。	眼見色已廣說乃至身覺觸已。	Having seen form with the eye, and so on up to having felt a tactile object with the body,
+['ZH_T27_1545_085:0439b09_13']	一一皆能引起緣色不淨觀故作如是說。	一一皆能引起緣色不淨觀故作如是說。	each is able to induce the contemplation of impurity with regard to form. This is why it is explained in this way.
+['ZH_T27_1545_085:0439b10_1']	或有說者。	或有說者。	Or there are those who say,
+['ZH_T27_1545_085:0439b10_10']	非不淨觀緣聲等起。	非不淨觀緣聲等起。	it is not that the contemplation of impurity does not arise with regard to sound and so on.
+['ZH_T27_1545_085:0439b11_1']	別有殊勝不淨行相。	別有殊勝不淨行相。	There is a special superior aspect of impurity
+['ZH_T27_1545_085:0439b11_10']	能緣聲等不淨相生。	能緣聲等不淨相生。	that is able to give rise to the contemplation of the impure aspects of sound and so on.
+['ZH_T27_1545_085:0439b11_15']	復有說者。	復有說者。	There are also those who say,
+['ZH_T27_1545_085:0439b12_1']	諸瑜伽師。	諸瑜伽師。	all yogins
+['ZH_T27_1545_085:0439b12_10']	先緣色處修不淨觀。	先緣色處修不淨觀。	first contemplate the sense base of form in the contemplation of impurity.
+['ZH_T27_1545_085:0439b13_1']	得成熟已後緣聲等。	得成熟已後緣聲等。	Having attained maturity, they later contemplate sound and so on.
+['ZH_T27_1545_085:0439b13_10']	起厭患想勝伏彼境。	起厭患想勝伏彼境。	They give rise to thoughts of disgust and thoroughly subdue those objects.
+['ZH_T27_1545_085:0439b13_15']	能伏者善。	能伏者善。	If one is able to subdue them, it is good.
+['ZH_T27_1545_085:0439b14_9']	若不能伏復緣色處起不淨觀。	若不能伏復緣色處起不淨觀。	If one is unable to subdue them, one again contemplates the sense base of form in the contemplation of impurity.
+['ZH_T27_1545_085:0439b15_5']	如習鬪戰而活命者從木冊出。	如習鬪戰而活命者從木冊出。	It is like one who makes a living by engaging in combat coming out of the wooden fence.
+['ZH_T27_1545_085:0439b15_14']	與他鬪戰得勝者善。	與他鬪戰得勝者善。	If one is able to defeat the opponent, it is good.
+['ZH_T27_1545_085:0439b16_6']	若不得勝還入木冊。	若不得勝還入木冊。	If one is unable to defeat them, one returns to the wooden fence.
+['ZH_T27_1545_085:0439b16_15']	此亦如是故不相違。	此亦如是故不相違。	This is also like that, so there is no contradiction.
+['ZH_T27_1545_085:0439b17_3']	有餘師說。	有餘師說。	There are other masters who say,
+['ZH_T27_1545_085:0439b17_16']	此契經中不說緣色起不淨觀。	此契經中不說緣色起不淨觀。	This sutra does not say that one gives rise to the contemplation of impurity with form as its object.
+['ZH_T27_1545_085:0439b18_8']	但說於色等起厭患想。	但說於色等起厭患想。	It only says that one gives rise to the thought of disgust with regard to form, etc.
+['ZH_T27_1545_085:0439b19_5']	觀此成滿已乃至能厭心心所法。	觀此成滿已乃至能厭心心所法。	When this contemplation is perfected, one is able to become disgusted with the mind and mental factors.
+['ZH_T27_1545_085:0439b19_14']	故彼經說意知法已。	故彼經說意知法已。	Therefore that sutra says that the mind cognizes dharmas,
+['ZH_T27_1545_085:0439b20_5']	隨觀不淨如理思惟。	隨觀不淨如理思惟。	and then contemplates them as impure and thinks of them in accordance with reality.
+['ZH_T27_1545_085:0439b21_1']	故不淨言顯厭患想非不淨觀。	故不淨言顯厭患想非不淨觀。	Therefore the word impure refers to the thought of disgust, not to the contemplation of impurity.
+['ZH_T27_1545_085:0439b22_1']	故八勝處唯以欲界一切色處為所緣境。	故八勝處唯以欲界一切色處為所緣境。	Therefore the eight spheres of mastery only take all form bases of the desire realm as their objects.
+['ZH_T27_1545_085:0439b22_13']	念住者此八唯與身念住俱。	念住者此八唯與身念住俱。	As for the applications of mindfulness, these eight are only concomitant with the application of mindfulness of the body.
+['ZH_T27_1545_085:0439b23_6']	智者一切唯與世俗智俱。	智者一切唯與世俗智俱。	As for cognition, all are only concomitant with conventional cognition.
+['ZH_T27_1545_085:0439b23_11']	三摩地者。	三摩地者。	As for meditative absorption,
+['ZH_T27_1545_085:0439b24_2']	一切不與三摩地俱。	一切不與三摩地俱。	all are not concomitant with meditative absorption.
+['ZH_T27_1545_085:0439b24_15']	根相應者總說但與喜捨相應。	根相應者總說但與喜捨相應。	As for the faculties with which they are associated, it is generally said that they are only associated with joy and equanimity.
+['ZH_T27_1545_085:0439b25_5']	三世者皆通三世。	三世者皆通三世。	As for the three times, they all pervade the three times.
+['ZH_T27_1545_085:0439b25_10']	緣三世者。	緣三世者。	As for taking the three times as objects,
+['ZH_T27_1545_085:0439b26_2']	此八勝處過去緣過去。	此八勝處過去緣過去。	these eight spheres of mastery take the past as objects in the past,
+['ZH_T27_1545_085:0439b26_8']	現在緣現在。	現在緣現在。	take the present as objects in the present,
+['ZH_T27_1545_085:0439b26_17']	未來若生法緣未來。	未來若生法緣未來。	and take the future as objects in the future if they are dharmas that will arise.
+['ZH_T27_1545_085:0439b27_6']	若不生法緣三世。	若不生法緣三世。	If they are dharmas that will not arise, they take the three times as objects.
+['ZH_T27_1545_085:0439b27_13']	善不善無記者。	善不善無記者。	The wholesome, unwholesome, and indeterminate [dharmas].🔽🔽
+['ZH_T27_1545_085:0439b28_11']	皆唯是善緣善不善無記者皆緣三種。	皆唯是善緣善不善無記者皆緣三種。	The wholesome, unwholesome, and indeterminate [mental factors] are all only wholesome. The objects of wholesome, unwholesome, and indeterminate [mental factors] are all of the three kinds.
+['ZH_T27_1545_085:0439b29_6']	三界繫及不繫者皆唯色界繫。	三界繫及不繫者皆唯色界繫。	The [mental factors] bound to the three realms and unbound are all only bound to the form realm.
+['ZH_T27_1545_085:0439b29_15']	緣三界繫及不繫者。	緣三界繫及不繫者。	The objects bound to the three realms and unbound are
+['ZH_T27_1545_085:0439c01_5']	皆唯緣欲界繫。	皆唯緣欲界繫。	all only bound to the desire realm.
+['ZH_T27_1545_085:0439c01_15']	學無學非學非無學者。	學無學非學非無學者。	The [mental factors] of learners, post-learners, and neither learners nor post-learners are
+['ZH_T27_1545_085:0439c02_5']	皆唯非學非無學。	皆唯非學非無學。	all only neither learners nor post-learners.
+['ZH_T27_1545_085:0439c02_16']	緣學無學非學非無學者。	緣學無學非學非無學者。	The objects of learners, post-learners, and neither learners nor post-learners are
+['ZH_T27_1545_085:0439c03_7']	皆唯緣非學非無學。	皆唯緣非學非無學。	all only neither learners nor post-learners.
+['ZH_T27_1545_085:0439c04_1']	見所斷修所斷非所斷者。	見所斷修所斷非所斷者。	The [mental factors] eliminated by seeing, eliminated by cultivation, and not eliminated are
+['ZH_T27_1545_085:0439c04_7']	皆唯修所斷。	皆唯修所斷。	all only eliminated by cultivation.
+['ZH_T27_1545_085:0439c05_1']	緣見所斷修所斷非所斷者。	緣見所斷修所斷非所斷者。	The objects eliminated by seeing, eliminated by cultivation, and not eliminated are
+['ZH_T27_1545_085:0439c05_8']	皆唯緣修所斷。	皆唯緣修所斷。	all only eliminated by cultivation.
+['ZH_T27_1545_085:0439c05_14']	緣名緣義者。	緣名緣義者。	The [mental factors] that take names as objects and that take meanings as objects are
+['ZH_T27_1545_085:0439c06_1']	皆唯緣義。	皆唯緣義。	all only those that take meanings as objects.
+['ZH_T27_1545_085:0439c06_13']	緣自相續他相續非相續者。	緣自相續他相續非相續者。	The [mental factors] that take one's own continuum, others' continuums, and non-continuums as objects are
+['ZH_T27_1545_085:0439c07_3']	初二緣自他相續。	初二緣自他相續。	the first two that take one's own and others' continuums as objects.
+['ZH_T27_1545_085:0439c07_8']	後六有說。	後六有說。	The latter six are said to
+['ZH_T27_1545_085:0439c07_14']	唯緣他相續。	唯緣他相續。	only take others' continuums as objects.
+['ZH_T27_1545_085:0439c07_17']	有說。	有說。	It is said that
+['ZH_T27_1545_085:0439c08_5']	通緣自他相續。	通緣自他相續。	they are common to taking one's own and others' continuums as objects.
+['ZH_T27_1545_085:0439c08_13']	加行得離染得者。	加行得離染得者。	Those obtained through preparatory effort and those obtained through detachment.
+['ZH_T27_1545_085:0439c08_18']	皆通二種。	皆通二種。	All are of both kinds.
+['ZH_T27_1545_085:0439c09_4']	離染得者。	離染得者。	Those obtained through detachment.
+['ZH_T27_1545_085:0439c09_16']	在初靜慮者離欲界染時得。	在初靜慮者離欲界染時得。	Those in the first meditation obtain it when they detach from the defilements of the desire realm.
+['ZH_T27_1545_085:0439c10_12']	在第二靜慮者離初靜慮染時得。	在第二靜慮者離初靜慮染時得。	Those in the second meditation obtain it when they detach from the defilements of the first meditation.
+['ZH_T27_1545_085:0439c11_10']	在第四靜慮者離第三靜慮染時得。	在第四靜慮者離第三靜慮染時得。	Those in the fourth meditation obtain it when they detach from the defilements of the third meditation.
+['ZH_T27_1545_085:0439c12_11']	彼後由加行現在前加行得者由加行故得。	彼後由加行現在前加行得者由加行故得。	Later, those obtained through preparatory effort are manifested through preparatory effort. Those obtained through preparatory effort are obtained through preparatory effort.
+['ZH_T27_1545_085:0439c13_3', 'ZH_T27_1545_085:0439c13_11']	亦由加行故現在前。🔽聲聞或由中加行。	亦由加行故現在前。 聲聞或由中加行。	They are also manifested through preparatory effort.
+['ZH_T27_1545_085:0439c13_17']	或由上加行。	或由上加行。	Śrāvakas, either through middling preparatory effort or through superior preparatory effort.
+['ZH_T27_1545_085:0439c14_5']	獨覺由下加行。	獨覺由下加行。	Pratyekabuddhas through inferior preparatory effort.
+['ZH_T27_1545_085:0439c14_15']	佛不由加行得及現前。	佛不由加行得及現前。	Buddhas do not obtain or manifest through preparatory effort.
+['ZH_T27_1545_085:0439c15_4']	曾得未曾得者。	曾得未曾得者。	Those that have been obtained before and those that have not been obtained before.
+['ZH_T27_1545_085:0439c15_12']	皆通曾得未曾得。	皆通曾得未曾得。	All are of both kinds that have been obtained before and those that have not been obtained before.
+['ZH_T27_1545_085:0439c16_7']	謂諸聖者及內法異生皆通二種。	謂諸聖者及內法異生皆通二種。	That is to say, noble ones and ordinary beings of the inner group are of both kinds.
+['ZH_T27_1545_085:0439c17_8']	外法異生唯是曾得如是已說勝處總相。	外法異生唯是曾得如是已說勝處總相。	Ordinary beings of the outer group are only of those that have been obtained before. Thus the general characteristics of the spheres of mastery have been explained.
+['ZH_T27_1545_085:0439c17_17']	一一別相今應廣說。	一一別相今應廣說。	The specific characteristics of each one should now be explained in detail.
+['ZH_T27_1545_085:0439c18_8']	內有色想觀外色少。	內有色想觀外色少。	Having internal form, one sees external forms as few.
+['ZH_T27_1545_085:0439c19_8']	若好若惡於彼諸色勝知勝見是初勝處。	若好若惡於彼諸色勝知勝見是初勝處。	Whether good or bad, to have superior knowledge and superior insight regarding those forms is the first sphere of mastery.
+['ZH_T27_1545_085:0439c19_16']	此中內有色想者。	此中內有色想者。	Here, having the notion of internal form means
+['ZH_T27_1545_085:0439c20_12']	謂有內各別色想未離未捨未除。	謂有內各別色想未離未捨未除。	having not yet abandoned, not yet relinquished, not yet eliminated the notion of internal distinct forms.
+['ZH_T27_1545_085:0439c21_10']	觀外色者謂為離捨除各別內色想。	觀外色者謂為離捨除各別內色想。	Contemplating external forms means, in order to abandon and relinquish the notion of internal distinct forms,
+['ZH_T27_1545_085:0439c22_3']	由勝解作意觀外諸色。	由勝解作意觀外諸色。	by means of the intention of superior resolve, contemplating external forms.
+['ZH_T27_1545_085:0439c22_10']	少者謂二種少。	少者謂二種少。	Few means two kinds of few:
+['ZH_T27_1545_085:0439c22_15']	一所緣少。	一所緣少。	one is few in terms of object,
+['ZH_T27_1545_085:0439c22_20']	二自在少。	二自在少。	and two is few in terms of mastery.
+['ZH_T27_1545_085:0439c23_3']	若好者。	若好者。	Good means
+['ZH_T27_1545_085:0439c23_13']	謂不弊壞青黃赤白色。	謂不弊壞青黃赤白色。	not damaged, not spoiled, blue, yellow, red, or white.
+['ZH_T27_1545_085:0439c23_17']	若惡者。	若惡者。	Bad means
+['ZH_T27_1545_085:0439c24_7']	謂弊壞青黃赤白色。	謂弊壞青黃赤白色。	damaged, spoiled, blue, yellow, red, or white.
+['ZH_T27_1545_085:0439c24_17', 'ZH_T27_1545_085:0439c25_7']	於彼諸色勝知勝見者。🔽謂為調伏欲貪故。	於彼諸色勝知勝見者。 謂為調伏欲貪故。	To have superior knowledge and superior insight regarding those forms means🔽in order to subdue sensual desire,
+['ZH_T27_1545_085:0439c25_13']	斷壞欲貪故。	斷壞欲貪故。	in order to cut off sensual desire,
+['ZH_T27_1545_085:0439c26_2']	超越欲貪故。	超越欲貪故。	in order to transcend sensual desire,
+['ZH_T27_1545_085:0439c26_15']	於彼諸色起勝知見勝伏彼色。	於彼諸色起勝知見勝伏彼色。	to have superior knowledge and insight regarding those forms, to subdue those forms.
+['ZH_T27_1545_085:0439c27_7']	謂攝受彼及調伏彼。	謂攝受彼及調伏彼。	It means to accept and subdue them,
+['ZH_T27_1545_085:0439c28_7']	猶如大家及大家子攝受調伏自諸僕使。	猶如大家及大家子攝受調伏自諸僕使。	just as a great householder and the great householder's son accept and subdue their own servants.
+['ZH_T27_1545_085:0439c28_16']	是故名為勝知勝見。	是故名為勝知勝見。	Therefore it is called superior knowledge and superior vision.
+['ZH_T27_1545_085:0439c29_3']	是初勝處者。	是初勝處者。	This is called the first stage of mastery.
+['ZH_T27_1545_085:0439c29_12']	初謂名數次第在初。	初謂名數次第在初。	The first means that in terms of names and numbers, it is the first.
+['ZH_T27_1545_085:0440a01_6']	或入彼定次第在初勝處者。	或入彼定次第在初勝處者。	Or it means that in terms of the sequence of entering that concentration, it is the first. The stage of mastery means
+['ZH_T27_1545_085:0440a01_16']	謂入彼定時所有善色。	謂入彼定時所有善色。	that when one enters that concentration, all wholesome form,
+['ZH_T27_1545_085:0440a02_7']	受想行識總名勝處。	受想行識總名勝處。	feeling, perception, volition, and consciousness are collectively called the stage of mastery.
+['ZH_T27_1545_085:0440a03_3']	如初勝處應知第二勝處亦爾。	如初勝處應知第二勝處亦爾。	Just as the first stage of mastery should be known, the second stage of mastery should also be known in the same way.
+['ZH_T27_1545_085:0440a03_8']	有差別者。	有差別者。	There is a difference.
+['ZH_T27_1545_085:0440a03_17']	謂此第二觀外色多。	謂此第二觀外色多。	It means that in this second [stage], one observes external forms to be many.
+['ZH_T27_1545_085:0440a04_7']	多有二種一所緣多。	多有二種一所緣多。	Many has two kinds: one is many in terms of objects,
+['ZH_T27_1545_085:0440a04_12']	二自在多。	二自在多。	and two is many in terms of mastery.
+['ZH_T27_1545_085:0440a04_17']	餘如前說。	餘如前說。	The rest is explained as before.
+['ZH_T27_1545_085:0440a05_7']	內無色想觀外色少。	內無色想觀外色少。	Internally without the notion of form, externally observing few forms,
+['ZH_T27_1545_085:0440a06_3']	若好若惡於彼諸色勝知勝見。	若好若惡於彼諸色勝知勝見。	whether beautiful or ugly, one has superior knowledge and superior vision of those forms.
+['ZH_T27_1545_085:0440a06_9']	是第三勝處。	是第三勝處。	This is the third stage of mastery.
+['ZH_T27_1545_085:0440a06_17']	此中內無色想者。	此中內無色想者。	Here, internally without the notion of form means
+['ZH_T27_1545_085:0440a07_11']	謂內各別色想已離已捨已除。	謂內各別色想已離已捨已除。	that one has already abandoned, removed, and eliminated the internal individual notions of form.
+['ZH_T27_1545_085:0440a07_16']	觀外色者。	觀外色者。	Observing external forms means
+['ZH_T27_1545_085:0440a08_9']	謂不為離捨除內各別色相。	謂不為離捨除內各別色相。	that without abandoning, removing, or eliminating the internal individual characteristics of form,
+['ZH_T27_1545_085:0440a09_4']	而由勝解作意觀外諸色。	而由勝解作意觀外諸色。	one observes external forms by means of the superior intention and attention.
+['ZH_T27_1545_085:0440a09_9']	餘如前說。	餘如前說。	The rest is as explained above.
+['ZH_T27_1545_085:0440a10_5']	如第三勝處應知第四勝處亦爾。	如第三勝處應知第四勝處亦爾。	It should be known that the fourth sphere of mastery is also like this, with the third sphere of mastery.
+['ZH_T27_1545_085:0440a10_10']	有差別者。	有差別者。	There is a difference.
+['ZH_T27_1545_085:0440a11_2']	謂第四勝處觀外色多。	謂第四勝處觀外色多。	It is said that in the fourth sphere of mastery, one observes external forms as numerous.
+['ZH_T27_1545_085:0440a11_7']	內無色想。	內無色想。	Internally, one has no conception of form.
+['ZH_T27_1545_085:0440a12_2']	觀外色青青顯青現青光無量。	觀外色青青顯青現青光無量。	One observes external forms as blue, appearing blue, manifesting as blue, with a blue hue, immeasurable,
+['ZH_T27_1545_085:0440a12_15']	無量淨妙可喜可樂不可違逆。	無量淨妙可喜可樂不可違逆。	immeasurable, pure, wonderful, delightful, enjoyable, and irreproachable.
+['ZH_T27_1545_085:0440a13_3']	如隖莫迦花。	如隖莫迦花。	Like the umāpuṣpa flower.
+['ZH_T27_1545_085:0440a13_13']	或婆羅痆斯染青衣色。	或婆羅痆斯染青衣色。	Or like the color of cloth dyed in the country of Vārāṇasī.
+['ZH_T27_1545_085:0440a14_7']	於彼諸色勝知勝見有如是想。	於彼諸色勝知勝見有如是想。	With regard to those forms, one has superior knowledge and superior vision, and has such a conception.
+['ZH_T27_1545_085:0440a14_13']	是第五勝處。	是第五勝處。	This is the fifth sphere of mastery.
+['ZH_T27_1545_085:0440a15_9']	此中內無色想外觀色義如前說。	此中內無色想外觀色義如前說。	Here, the meaning of internally having no conception of form and externally observing forms is as explained above.
+['ZH_T27_1545_085:0440a15_16']	青者謂諸青色。	青者謂諸青色。	Blue means all blue colors.
+['ZH_T27_1545_085:0440a16_7']	若大若小總說為青。	若大若小總說為青。	Whether large or small, they are collectively called blue.
+['ZH_T27_1545_085:0440a16_11']	青顯者。	青顯者。	Blue appearance means
+['ZH_T27_1545_085:0440a17_9']	謂彼青色眼所照了眼所行境故名青顯。	謂彼青色眼所照了眼所行境故名青顯。	that those blue forms are illuminated by the eye and are the objects of the eye's activity, thus they are called blue appearance.
+['ZH_T27_1545_085:0440a17_13']	青現者。	青現者。	Blue manifestation means
+['ZH_T27_1545_085:0440a18_8']	謂彼青色如為眼識所了別已。	謂彼青色如為眼識所了別已。	that after those blue forms have been cognized by the eye consciousness,
+['ZH_T27_1545_085:0440a19_5']	引生意識亦分別之故名青現。	引生意識亦分別之故名青現。	they are also discriminated by the mental consciousness, thus they are called blue manifestation.
+['ZH_T27_1545_085:0440a19_9']	青光者。	青光者。	The blue light refers to🔽🔽
+['ZH_T27_1545_085:0440a20_3', 'ZH_T27_1545_085:0440a20_7']	謂彼青色光明照曜故名青光。🔽無量者。	謂彼青色光明照曜故名青光。 無量者。	Blue light refers to the blue light that illuminates and shines, thus it is called blue light.
+['ZH_T27_1545_085:0440a21_1', 'ZH_T27_1545_085:0440a21_7']	謂彼青色廣無邊際故名無量。🔽無量淨妙者。	謂彼青色廣無邊際故名無量。 無量淨妙者。	Immeasurable refers to the blue color that is vast and boundless, thus it is called immeasurable.
+['ZH_T27_1545_085:0440a21_16']	謂如青色廣無邊際。	謂如青色廣無邊際。	Immeasurable purity and subtlety refers to the fact that just as the blue color is vast and boundless,
+['ZH_T27_1545_085:0440a22_5']	彼淨妙相亦無邊際。	彼淨妙相亦無邊際。	the characteristics of purity and subtlety are also boundless.
+['ZH_T27_1545_085:0440a22_14', 'ZH_T27_1545_085:0440a22_18']	是故名為無量淨妙。🔽可憙者。	是故名為無量淨妙。 可憙者。	Therefore, it is called immeasurable purity and subtlety.
+['ZH_T27_1545_085:0440a23_16', 'ZH_T27_1545_085:0440a24_3']	謂彼青色可欣可悅令意悅豫故名可憙。🔽可樂者。	謂彼青色可欣可悅令意悅豫故名可憙。 可樂者。	Delightful refers to the blue color that is pleasing and delightful, causing the mind to be joyful, thus it is called delightful.
+['ZH_T27_1545_085:0440a24_12']	謂彼青色可愛可玩。	謂彼青色可愛可玩。	Enjoyable refers to the blue color that is lovable and enjoyable.
+['ZH_T27_1545_085:0440a25_7']	若緣於此不復希餘故名可樂。	若緣於此不復希餘故名可樂。	If one relies on it, one will no longer desire anything else, thus it is called enjoyable.
+['ZH_T27_1545_085:0440a26_8']	不可違逆者謂彼青色令心堪忍隨順趣向。	不可違逆者謂彼青色令心堪忍隨順趣向。	Unresistable refers to the blue color that makes the mind patient and compliant, and one goes along with it.
+['ZH_T27_1545_085:0440a26_17', 'ZH_T27_1545_085:0440a27_15']	是故名為不可違逆。🔽如隖莫迦花或婆羅痆斯染青衣色者。	是故名為不可違逆。 如隖莫迦花或婆羅痆斯染青衣色者。	Therefore, it is called unresistible.
+['ZH_T27_1545_085:0440a28_6']	謂彼極青故引為喻。	謂彼極青故引為喻。	Like the utpala flower or the blue dye of Vārāṇasī refers to the fact that it is extremely blue, thus it is used as a metaphor.
+['ZH_T27_1545_085:0440a28_15']	於彼諸色勝知勝見。	於彼諸色勝知勝見。	Superior knowledge and superior insight regarding those colors
+['ZH_T27_1545_085:0440a29_2']	義如前說。	義如前說。	The meaning is as explained above.
+['ZH_T27_1545_085:0440a29_8']	有如是想者。	有如是想者。	If there is such a thought,
+['ZH_T27_1545_085:0440b01_1']	謂於彼青色有如前說。	謂於彼青色有如前說。	it means that regarding that blue color, as explained above,
+['ZH_T27_1545_085:0440b01_11']	青想現前是第五勝處。	青想現前是第五勝處。	the thought of blue appears, which is the fifth sphere of mastery.
+['ZH_T27_1545_085:0440b01_16']	義亦如前。	義亦如前。	The meaning is also as explained before.
+['ZH_T27_1545_085:0440b02_13']	如說青勝處說黃赤白勝處應知亦爾。	如說青勝處說黃赤白勝處應知亦爾。	As the blue sphere of mastery is explained, the yellow, red, and white spheres of mastery should be understood as such.
+['ZH_T27_1545_085:0440b03_12']	有差別者黃勝處應說如羯尼迦羅花。	有差別者黃勝處應說如羯尼迦羅花。	There is a difference. The yellow sphere of mastery should be explained as the karṇikāra flower.
+['ZH_T27_1545_085:0440b04_7']	赤勝處應說如槃度時縛迦花。	赤勝處應說如槃度時縛迦花。	The red sphere of mastery should be explained as the bandhujīvaka flower.
+['ZH_T27_1545_085:0440b05_4']	白勝處應說如隖殺私星婆羅痆斯。	白勝處應說如隖殺私星婆羅痆斯。	The white sphere of mastery should be explained as the star Utkata and the city of Vārāṇasī.
+['ZH_T27_1545_085:0440b05_13']	黃赤白衣隨類應說。	黃赤白衣隨類應說。	The yellow, red, and white robes should be explained according to their type.
+['ZH_T27_1545_085:0440b06_4']	問四顯色中何者最勝。	問四顯色中何者最勝。	Question: Among the four manifest colors, which is the most excellent?
+['ZH_T27_1545_085:0440b07_7']	尊者世友作如是說白色最勝世共說此是吉祥故。	尊者世友作如是說白色最勝世共說此是吉祥故。	Venerable Vasumitra says: The white color is the most excellent. The world commonly says this is auspicious.
+['ZH_T27_1545_085:0440b07_16']	如四方中東方最勝。	如四方中東方最勝。	Just as the east is the most excellent among the four directions,
+['ZH_T27_1545_085:0440b08_7']	是吉祥故白色亦爾。	是吉祥故白色亦爾。	because it is auspicious, so is the white color.
+['ZH_T27_1545_085:0440b08_12']	大德說曰。	大德說曰。	The Venerable One says:
+['ZH_T27_1545_085:0440b09_3']	緣白色時令心明淨。	緣白色時令心明淨。	When taking the white color as the object, it makes the mind clear and pure.
+['ZH_T27_1545_085:0440b09_12']	以不隨順惛沈睡眠。	以不隨順惛沈睡眠。	Because it does not follow along with torpor and sleepiness,
+['ZH_T27_1545_085:0440b10_3']	能任持身故最為勝。	能任持身故最為勝。	it can support the body, so it is the most excellent.
+['ZH_T27_1545_085:0440b11_4']	十遍處者。	十遍處者。	As for the ten universal bases,
+['ZH_T27_1545_085:0440b12_6']	謂青黃赤白地水火風空無邊處識無邊處遍處。	謂青黃赤白地水火風空無邊處識無邊處遍處。	They are the universal bases of blue, yellow, red, white, earth, water, fire, wind, infinite space, and infinite consciousness.
+['ZH_T27_1545_085:0440b12_16']	問此十遍處自性是何。	問此十遍處自性是何。	Question: What is the intrinsic nature of these ten universal bases?
+['ZH_T27_1545_085:0440b13_15']	答前八遍處以無貪善根為自性對治貪故。	答前八遍處以無貪善根為自性對治貪故。	Answer: The first eight universal bases take the wholesome root of non-greed as their intrinsic nature, because they counteract greed.
+['ZH_T27_1545_085:0440b14_6']	若兼取相應隨轉。	若兼取相應隨轉。	If one includes the associated and concomitant [factors],
+['ZH_T27_1545_085:0440b14_17']	即欲界者以四蘊為自性。	即欲界者以四蘊為自性。	Those belonging to the desire realm take the four aggregates as their intrinsic nature.
+['ZH_T27_1545_085:0440b15_9']	色界者以五蘊為自性。	色界者以五蘊為自性。	Those belonging to the form realm take the five aggregates as their intrinsic nature.
+['ZH_T27_1545_085:0440b16_4']	後二遍處俱以四蘊為自性。	後二遍處俱以四蘊為自性。	The last two universal bases both take the four aggregates as their intrinsic nature.
+['ZH_T27_1545_085:0440b16_13']	如是名為遍處自性。	如是名為遍處自性。	This is called the intrinsic nature of the universal bases.
+['ZH_T27_1545_085:0440b17_4']	我物自體相分本性。	我物自體相分本性。	One's own things, one's own body, one's own characteristics, one's own essence.
+['ZH_T27_1545_085:0440b17_14']	已說自性所以今當說。	已說自性所以今當說。	The reasons will now be explained.
+['ZH_T27_1545_085:0440b18_3']	問何故名遍處。	問何故名遍處。	Question: Why are they called universal bases?
+['ZH_T27_1545_085:0440b18_9']	遍處是何義。	遍處是何義。	What is the meaning of universal bases?
+['ZH_T27_1545_085:0440b19_1']	答由二緣故名為遍處。	答由二緣故名為遍處。	Answer: They are called universal bases for two reasons.
+['ZH_T27_1545_085:0440b19_6']	一由無間。	一由無間。	First, because of being uninterrupted;
+['ZH_T27_1545_085:0440b19_11']	二由廣大。	二由廣大。	Second, because of being vast.
+['ZH_T27_1545_085:0440b19_16']	由無間者。	由無間者。	As for being uninterrupted,
+['ZH_T27_1545_085:0440b20_14']	謂純青等勝解作意不相間雜故名無間。	謂純青等勝解作意不相間雜故名無間。	It means that the intention of resolve towards pure blue, etc. is not mixed with anything else, so it is called uninterrupted.
+['ZH_T27_1545_085:0440b21_2']	由廣大者。	由廣大者。	By being vast,🔽🔽
+['ZH_T27_1545_085:0440b21_11']	謂緣青等勝解作意。	謂緣青等勝解作意。	By vastness refers to the resolve and attention directed towards blue and so forth.
+['ZH_T27_1545_085:0440b22_2']	境相無邊故名廣大。	境相無邊故名廣大。	The characteristics of the objects are boundless, thus it is called vast.
+['ZH_T27_1545_085:0440b22_7']	大德說曰。	大德說曰。	The Venerable One said:
+['ZH_T27_1545_085:0440b23_2']	所緣寬廣無有間隙故名遍處。	所緣寬廣無有間隙故名遍處。	The objects are vast and without gaps, thus it is called universal.
+['ZH_T27_1545_085:0440b24_6']	此十遍處界者。	此十遍處界者。	As for the realms of these ten universal bases,
+['ZH_T27_1545_085:0440b24_14']	前八遍處是色界。	前八遍處是色界。	the first eight universal bases belong to the form realm.
+['ZH_T27_1545_085:0440b25_4']	後二遍處是無色界。	後二遍處是無色界。	The last two universal bases belong to the formless realm.
+['ZH_T27_1545_085:0440b25_16']	地者前八遍處在第四靜慮。	地者前八遍處在第四靜慮。	As for the stages, the first eight universal bases are in the fourth meditative absorption.
+['ZH_T27_1545_085:0440b26_7']	第九遍處在空無邊處。	第九遍處在空無邊處。	The ninth universal base is in the sphere of infinite space.
+['ZH_T27_1545_085:0440b26_17']	第十遍處在識無邊處。	第十遍處在識無邊處。	The tenth universal base is in the sphere of infinite consciousness.
+['ZH_T27_1545_085:0440b27_4']	所以者何。	所以者何。	Why is this so?
+['ZH_T27_1545_085:0440b27_14']	以淨解脫在第四靜慮。	以淨解脫在第四靜慮。	Because the pure liberations are in the fourth meditative absorption.
+['ZH_T27_1545_085:0440b28_5']	由此能入後四勝處。	由此能入後四勝處。	By this, one is able to enter the last four excellent spheres.
+['ZH_T27_1545_085:0440b28_18']	此後四勝處復能入前八遍處。	此後四勝處復能入前八遍處。	These last four excellent spheres are further able to enter the first eight universal bases.
+['ZH_T27_1545_085:0440b29_12']	此中解脫唯於所緣總取淨相。	此中解脫唯於所緣總取淨相。	Here, the liberations merely generally grasp the pure characteristics of the objects.
+['ZH_T27_1545_085:0440c01_5']	未能分別青黃赤白。	未能分別青黃赤白。	One is still unable to distinguish blue, yellow, red, and white.
+['ZH_T27_1545_085:0440c01_18']	後四勝處雖能分別青黃赤白。	後四勝處雖能分別青黃赤白。	The last four excellent spheres, although able to distinguish blue, yellow, red, and white,
+['ZH_T27_1545_085:0440c02_8']	而未能作無邊行相。	而未能作無邊行相。	are still unable to take on the aspect of boundlessness.
+['ZH_T27_1545_085:0440c03_4']	前四遍處非唯分別青黃赤白。	前四遍處非唯分別青黃赤白。	The first four spheres of totality are not only conceptualizations of blue, yellow, red, and white.
+['ZH_T27_1545_085:0440c03_13']	而亦能作無邊行相。	而亦能作無邊行相。	The first four universal bases are not only conceptual, but also able to take boundless aspects.
+['ZH_T27_1545_085:0440c04_3']	謂觀青等一一無邊。	謂觀青等一一無邊。	This means that each of the four colors is seen as boundless.
+['ZH_T27_1545_085:0440c04_12']	復思青等為何所依。	復思青等為何所依。	Moreover, one contemplates what the blue, etc., are based on.
+['ZH_T27_1545_085:0440c04_18']	知依大種故。	知依大種故。	One knows that they are based on the great elements.
+['ZH_T27_1545_085:0440c05_8']	次觀地等一一無邊。	次觀地等一一無邊。	Therefore, one next contemplates each of the great elements as boundless.
+['ZH_T27_1545_085:0440c06_6']	復思此所覺色由何廣大知由虛空故。	復思此所覺色由何廣大知由虛空故。	Moreover, one contemplates what causes the perceived form to be vast. One knows that it is caused by space.
+['ZH_T27_1545_085:0440c07_5']	次起空無邊處復思此能覺誰為所依。	次起空無邊處復思此能覺誰為所依。	Therefore, one next gives rise to the base of infinite space. One further contemplates what the one who perceives this is based on.
+['ZH_T27_1545_085:0440c07_11']	知依廣識故。	知依廣識故。	One knows that it is based on the vast consciousness.
+['ZH_T27_1545_085:0440c08_1']	次復起識無邊處。	次復起識無邊處。	Therefore, one next gives rise to the base of infinite consciousness.
+['ZH_T27_1545_085:0440c08_10']	此所依識無別所依。	此所依識無別所依。	The consciousness that is the basis of this has no separate basis.
+['ZH_T27_1545_085:0440c09_1']	故更不立上為遍處。	故更不立上為遍處。	Therefore, it is not established as a higher universal base.
+['ZH_T27_1545_085:0440c09_15']	所依者前八遍處唯依欲界身起。	所依者前八遍處唯依欲界身起。	As for the basis, the first eight universal bases only arise based on a body in the desire realm.
+['ZH_T27_1545_085:0440c10_8']	後二遍處通依三界身起。	後二遍處通依三界身起。	The last two universal bases both arise based on a body in the three realms.
+['ZH_T27_1545_085:0440c10_12']	行相者。	行相者。	As for the aspects,
+['ZH_T27_1545_085:0440c11_3']	此十皆作無邊行相。	此十皆作無邊行相。	these ten all take boundless aspects.
+['ZH_T27_1545_085:0440c11_7']	所緣者。	所緣者。	As for the objects,
+['ZH_T27_1545_085:0440c11_18']	前八遍處唯緣欲界色處。	前八遍處唯緣欲界色處。	the first eight universal bases only take the form base in the desire realm as their objects.
+['ZH_T27_1545_085:0440c12_10']	後二遍處各緣自地四蘊。	後二遍處各緣自地四蘊。	The last two all-encompassing bases each take the four aggregates of their own stage as objects.
+['ZH_T27_1545_085:0440c12_14']	念住者。	念住者。	As for the foundations of mindfulness:
+['ZH_T27_1545_085:0440c13_4']	前八遍處身念住俱。	前八遍處身念住俱。	The first eight all-encompassing bases are concomitant with the foundation of mindfulness of the body.
+['ZH_T27_1545_085:0440c13_13']	後二遍處法念住俱。	後二遍處法念住俱。	The last two all-encompassing bases are concomitant with the foundation of mindfulness of dharmas.🔽As for cognition:
+['ZH_T27_1545_085:0440c15_1']	智者一切皆與世俗智俱三摩地者一切不與三摩地俱。	智者一切皆與世俗智俱三摩地者一切不與三摩地俱。	All are concomitant with conventional cognition. As for samādhi: All are not concomitant with samādhi.
+['ZH_T27_1545_085:0440c15_6']	根相應者。	根相應者。	As for faculties:
+['ZH_T27_1545_085:0440c15_15']	一切唯與捨根相應。	一切唯與捨根相應。	All are only concomitant with the faculty of equanimity.
+['ZH_T27_1545_085:0440c15_19']	三世者。	三世者。	As for the three times:
+['ZH_T27_1545_085:0440c16_4']	皆通三世。	皆通三世。	All are common to the three times.
+['ZH_T27_1545_085:0440c16_9']	緣三世者。	緣三世者。	As for taking the three times as objects:
+['ZH_T27_1545_085:0440c17_1']	前八遍處過去緣過去。	前八遍處過去緣過去。	The first eight all-encompassing bases take the past as objects in the past.
+['ZH_T27_1545_085:0440c17_15']	現在緣現在未來若生法緣未來。	現在緣現在未來若生法緣未來。	The present takes the present as objects. The future takes the future as objects if they are dharmas that have arisen.
+['ZH_T27_1545_085:0440c18_5']	若不生法緣三世。	若不生法緣三世。	If they are dharmas that have not arisen, they take the three times as objects.
+['ZH_T27_1545_085:0440c18_14']	後二遍處俱緣三世。	後二遍處俱緣三世。	The last two all-encompassing bases both take the three times as objects.
+['ZH_T27_1545_085:0440c19_2']	善不善無記者。	善不善無記者。	As for wholesome, unwholesome, and indeterminate:
+['ZH_T27_1545_085:0440c19_13']	皆唯善緣善不善無記者。	皆唯善緣善不善無記者。	All are only wholesome. As for taking wholesome, unwholesome, and indeterminate as objects:
+['ZH_T27_1545_085:0440c20_3']	前八遍處緣三種。	前八遍處緣三種。	The first eight all-encompassing bases take the three kinds as objects.
+['ZH_T27_1545_085:0440c20_12']	後二遍處緣善無記。	後二遍處緣善無記。	The last two all-encompassing bases take wholesome and indeterminate as objects.
+['ZH_T27_1545_085:0440c21_1']	三界繫及不繫者。	三界繫及不繫者。	As for being bound to the three realms and being unbound:
+['ZH_T27_1545_085:0440c21_10']	前八遍處唯色界繫。	前八遍處唯色界繫。	The first eight all-encompassing bases are only bound to the form realm.
+['ZH_T27_1545_085:0440c22_2']	後二遍處唯無色界繫。	後二遍處唯無色界繫。	The last two bases of totality are only bound to the formless realm.
+['ZH_T27_1545_085:0440c22_11']	緣三界繫及不繫者。	緣三界繫及不繫者。	They take as objects those bound to the three realms and those unbound.
+['ZH_T27_1545_085:0440c23_3']	前八遍處唯緣欲界繫。	前八遍處唯緣欲界繫。	The first eight bases of totality only take as objects those bound to the desire realm.
+['ZH_T27_1545_085:0440c23_14']	後二遍處唯緣無色界繫。	後二遍處唯緣無色界繫。	The last two bases of totality only take as objects those bound to the formless realm.
+['ZH_T27_1545_085:0440c24_6']	學無學非學非無學者。	學無學非學非無學者。	As for whether they are of the learner, post-learner, or neither learner nor post-learner,
+['ZH_T27_1545_085:0440c24_14']	皆唯非學非無學。	皆唯非學非無學。	they are all only neither learner nor post-learner.
+['ZH_T27_1545_085:0440c25_7']	緣學無學非學非無學者。	緣學無學非學非無學者。	As for whether they take as objects those of the learner, post-learner, or neither learner nor post-learner,
+['ZH_T27_1545_085:0440c25_16']	皆唯緣非學非無學。	皆唯緣非學非無學。	they all only take as objects those of neither learner nor post-learner.
+['ZH_T27_1545_085:0440c26_9']	見所斷修所斷非所斷者。	見所斷修所斷非所斷者。	As for whether they are eliminated by seeing, eliminated by cultivation, or not eliminated,
+['ZH_T27_1545_085:0440c26_15']	皆唯修所斷。	皆唯修所斷。	they are all only eliminated by cultivation.
+['ZH_T27_1545_085:0440c27_9']	緣見所斷修所斷非所斷者。	緣見所斷修所斷非所斷者。	As for whether they take as objects those eliminated by seeing, eliminated by cultivation, or not eliminated,
+['ZH_T27_1545_085:0440c28_2']	前八遍處唯緣修所斷。	前八遍處唯緣修所斷。	the first eight bases of totality only take as objects those eliminated by cultivation.
+['ZH_T27_1545_085:0440c28_12']	後二遍處緣見修所斷。	後二遍處緣見修所斷。	The last two bases of totality take as objects those eliminated by seeing and cultivation.
+['ZH_T27_1545_085:0440c28_18']	緣名緣義者。	緣名緣義者。	As for whether they take names as objects or meanings as objects,
+['ZH_T27_1545_085:0440c29_3']	皆緣義。	皆緣義。	they all take meanings as objects.
+['ZH_T27_1545_085:0440c29_15']	緣自相續他相續非相續者。	緣自相續他相續非相續者。	As for whether they take one's own continuity, another's continuity, or no continuity as objects,
+['ZH_T27_1545_085:0441a01_2']	前八遍處。	前八遍處。	the first eight bases of totality
+['ZH_T27_1545_085:0441a01_5']	有說。	有說。	Some say
+['ZH_T27_1545_085:0441a01_11']	唯緣他相續。	唯緣他相續。	only take another's continuity as objects.
+['ZH_T27_1545_085:0441a02_2']	有說通緣自他相續。	有說通緣自他相續。	Some say they take one's own and another's continuity as objects.
+['ZH_T27_1545_085:0441a02_13']	後二遍處俱緣自他相續。	後二遍處俱緣自他相續。	The last two universal bases are both associated with oneself and others.
+['ZH_T27_1545_085:0441a03_2']	加行得離染得者。	加行得離染得者。	As for the attainment through practice and the attainment through detachment,
+['ZH_T27_1545_085:0441a03_12']	皆通加行得及離染得。	皆通加行得及離染得。	all are both attained through practice and attained through detachment.
+['ZH_T27_1545_085:0441a03_17']	離染得者。	離染得者。	As for the attainment through detachment,
+['ZH_T27_1545_085:0441a04_10']	前八遍處離第三靜慮染時得。	前八遍處離第三靜慮染時得。	the first eight universal bases are attained when one detaches from the third trance state.
+['ZH_T27_1545_085:0441a05_5']	第九遍處離第四靜慮染時得。	第九遍處離第四靜慮染時得。	The ninth universal base is attained when one detaches from the fourth trance state.
+['ZH_T27_1545_085:0441a06_1']	第十遍處離空無邊處染時得。	第十遍處離空無邊處染時得。	The tenth universal base is attained when one detaches from the sphere of infinite space.
+['ZH_T27_1545_085:0441a06_10']	彼後由加行現在前。	彼後由加行現在前。	Later, they manifest through practice.
+['ZH_T27_1545_085:0441a07_2']	加行得者由加行故得。	加行得者由加行故得。	As for the attainment through practice, they are attained through practice,
+['ZH_T27_1545_085:0441a07_11']	亦由加行故現在前。	亦由加行故現在前。	and also manifest through practice.
+['ZH_T27_1545_085:0441a08_1']	聲聞或由中加行。	聲聞或由中加行。	Śrāvakas may either manifest through middling practice
+['ZH_T27_1545_085:0441a08_7']	或由上加行。	或由上加行。	or through superior practice.
+['ZH_T27_1545_085:0441a08_14']	獨覺由下加行。	獨覺由下加行。	Pratyekabuddhas manifest through inferior practice.
+['ZH_T27_1545_085:0441a09_5']	佛不由加行得及現前。	佛不由加行得及現前。	Buddhas neither attain nor manifest through practice.
+['ZH_T27_1545_085:0441a09_12']	曾得未曾得者。	曾得未曾得者。	As for the previously attained and the not previously attained,
+['ZH_T27_1545_085:0441a10_1']	皆通曾得未曾得。	皆通曾得未曾得。	all are both previously attained and not previously attained.
+['ZH_T27_1545_085:0441a10_17']	謂諸聖者及內法異生通曾得未曾得。	謂諸聖者及內法異生通曾得未曾得。	This means that noble ones and those of the inner teachings who are ordinary beings are both previously attained and not previously attained.
+['ZH_T27_1545_085:0441a11_7']	外法異生唯是曾得。	外法異生唯是曾得。	Those of the outer teachings who are ordinary beings are only previously attained.
+['ZH_T27_1545_085:0441a12_9']	問此十遍處加行云何。	問此十遍處加行云何。	Question: What is the practice of these ten universal bases?
+['ZH_T27_1545_085:0441a13_3']	答前四遍處以眼識為加行。	答前四遍處以眼識為加行。	Answer: The first four universal bases take eye consciousness as their practice.
+['ZH_T27_1545_085:0441a14_1']	至成滿時緣青黃赤白四色處為境。	至成滿時緣青黃赤白四色處為境。	When they are fully accomplished, they take the four objects of form, blue, yellow, red, and white as their objects.
+['ZH_T27_1545_085:0441a14_12']	中四遍處以身識為加行。	中四遍處以身識為加行。	The middle four universal bases take body consciousness as their practice.
+['ZH_T27_1545_085:0441a15_10']	至成滿時緣地水火風四觸處為境。	至成滿時緣地水火風四觸處為境。	When they are fully accomplished, they take the four objects of touch, earth, water, fire, and wind as their objects.
+['ZH_T27_1545_085:0441a15_15']	有作是說。	有作是說。	There is an explanation:
+['ZH_T27_1545_085:0441a16_8']	前七遍處以眼識為加行。	前七遍處以眼識為加行。	The first seven universal bases take eye consciousness as their practice.
+['ZH_T27_1545_085:0441a17_2']	中一遍處以身識為加行。	中一遍處以身識為加行。	One of the middle universal bases takes body consciousness as its practice.
+['ZH_T27_1545_085:0441a17_7']	所以者何。	所以者何。	Why is this?
+['ZH_T27_1545_085:0441a17_13']	地水火遍處。	地水火遍處。	The universal bases of earth, water, and fire.
+['ZH_T27_1545_085:0441a18_3']	以形顯色為所緣故。	以形顯色為所緣故。	Take shape and visible form as their objects.
+['ZH_T27_1545_085:0441a18_15']	風遍處以動性觸為所緣故。	風遍處以動性觸為所緣故。	The universal base of wind takes movement and touch as its object.
+['ZH_T27_1545_085:0441a19_2']	復有說者。	復有說者。	There is another explanation:
+['ZH_T27_1545_085:0441a19_14']	前八遍處皆以眼識為加行。	前八遍處皆以眼識為加行。	The first eight universal bases all take eye consciousness as their practice.
+['ZH_T27_1545_085:0441a20_1']	所以者何。	所以者何。	Why is this?
+['ZH_T27_1545_085:0441a20_12']	風遍處亦以色為所緣故。	風遍處亦以色為所緣故。	Because the universal base of wind also takes form as its object.
+['ZH_T27_1545_085:0441a20_17']	如世間說。	如世間說。	As the world says:
+['ZH_T27_1545_085:0441a21_7']	東風南風西風北風。	東風南風西風北風。	East wind, south wind, west wind, north wind.
+['ZH_T27_1545_085:0441a21_14']	有塵風無塵風。	有塵風無塵風。	Wind with dust, wind without dust.
+['ZH_T27_1545_085:0441a22_1', 'ZH_T27_1545_085:0441a22_6']	毘隰縛風。🔽吠嵐婆風。	毘隰縛風。 吠嵐婆風。	Vaisnava wind.🔽Vāyu wind.
+['ZH_T27_1545_085:0441a22_11']	風輪風等。	風輪風等。	Wind wheel wind, etc.
+['ZH_T27_1545_085:0441a23_1']	故風遍處亦緣色處。	故風遍處亦緣色處。	Therefore, the all-encompassing concentration on wind also takes the form of the wind element as its object.
+['ZH_T27_1545_085:0441a23_11']	空無邊處以空為加行。	空無邊處以空為加行。	The sphere of infinite space takes space as its preparatory practice.
+['ZH_T27_1545_085:0441a24_3']	識無邊處以識為加行。	識無邊處以識為加行。	The sphere of infinite consciousness takes consciousness as its preparatory practice.
+['ZH_T27_1545_085:0441a25_8']	如是已說遍處總相。	如是已說遍處總相。	Thus, the general characteristics of the all-encompassing concentrations have been explained.
+['ZH_T27_1545_085:0441a25_17']	一一別相今應略說。	一一別相今應略說。	The individual characteristics of each should now be briefly explained.
+['ZH_T27_1545_085:0441a26_10']	於一切青若上若下若傍。	於一切青若上若下若傍。	In all that is blue, whether above, below, or to the side,
+['ZH_T27_1545_085:0441a26_15']	無二無量。	無二無量。	there is no duality, no measure.
+['ZH_T27_1545_085:0441a27_5']	起一青想是初遍處。	起一青想是初遍處。	One gives rise to the thought of blue, which is the first all-encompassing concentration.
+['ZH_T27_1545_085:0441a27_10']	一切青者。	一切青者。	All that is blue
+['ZH_T27_1545_085:0441a28_4']	謂諸青色若小若大總名為青。	謂諸青色若小若大總名為青。	refers to all blue forms, whether small or large, collectively called blue.
+['ZH_T27_1545_085:0441a28_10']	上者謂上方。	上者謂上方。	Above refers to the upper direction.
+['ZH_T27_1545_085:0441a28_16']	下者謂下方。	下者謂下方。	Below refers to the lower direction.
+['ZH_T27_1545_085:0441a29_8']	傍者謂四方四維無二者。	傍者謂四方四維無二者。	To the side refers to the four cardinal directions and the four intermediate directions. No duality means
+['ZH_T27_1545_085:0441a29_17', 'ZH_T27_1545_085:0441b01_2']	謂純青相無餘間雜。🔽無量者。	謂純青相無餘間雜。 無量者。	that the characteristics are purely blue, without any admixture.🔽No measure means
+['ZH_T27_1545_085:0441b01_7']	謂無邊際。	謂無邊際。	that there is no limit.
+['ZH_T27_1545_085:0441b01_13']	起一青想者。	起一青想者。	One gives rise to the thought of blue means
+['ZH_T27_1545_085:0441b02_9']	謂由勝解作意於一切處起一青想。	謂由勝解作意於一切處起一青想。	that by means of the superior intention and attention, one gives rise to the thought of blue in all places.
+['ZH_T27_1545_085:0441b02_15']	是初遍處者。	是初遍處者。	Which is the first all-encompassing concentration means
+['ZH_T27_1545_085:0441b03_6']	初謂名數次第在初。	初謂名數次第在初。	The first is that the sequence of names and numbers is at the beginning.
+['ZH_T27_1545_085:0441b03_17']	或入此定次第在初遍處。	或入此定次第在初遍處。	Or entering this concentration is at the beginning in sequence.
+['ZH_T27_1545_085:0441b04_17']	謂入此定時所有善色受想行識總名遍處。	謂入此定時所有善色受想行識總名遍處。	That is to say, when entering this concentration, all wholesome form, feeling, perception, volitional formations, and consciousness are collectively called universal bases.
+['ZH_T27_1545_085:0441b05_6']	如青遍處廣說。	如青遍處廣說。	Like the universal base of blue, and so on, is explained in detail.
+['ZH_T27_1545_085:0441b05_17']	乃至識無邊處遍處亦爾。	乃至識無邊處遍處亦爾。	Up to the universal base of infinite consciousness is also like this.
+['ZH_T27_1545_085:0441b06_3']	有差別者。	有差別者。	There is a difference.
+['ZH_T27_1545_085:0441b06_12']	後二遍處不應說色。	後二遍處不應說色。	The last two universal bases should not speak of form.
+['ZH_T27_1545_085:0441b07_4']	唯應說受想行識蘊。	唯應說受想行識蘊。	One should only speak of the aggregates of feeling, perception, volitional formations, and consciousness.
+['ZH_T27_1545_085:0441b07_14']	問前八遍處可有上下。	問前八遍處可有上下。	Question: The first eight universal bases may have above and below.
+['ZH_T27_1545_085:0441b08_4']	彼所緣境有方處故。	彼所緣境有方處故。	Because the objects they take as their objects have spatial locations.
+['ZH_T27_1545_085:0441b08_13']	後二遍處緣空緣識。	後二遍處緣空緣識。	The last two universal bases take emptiness and consciousness as their objects.
+['ZH_T27_1545_085:0441b09_4']	所緣既無方處上下。	所緣既無方處上下。	Since the objects they take as their objects have no spatial locations above and below,
+['ZH_T27_1545_085:0441b09_13']	云何可說有上下耶。	云何可說有上下耶。	how can it be said that they have above and below?
+['ZH_T27_1545_085:0441b10_9']	答後二遍處所緣雖無上下方所。	答後二遍處所緣雖無上下方所。	Answer: Although the objects taken as objects by the last two universal bases have no above and below or spatial locations,
+['ZH_T27_1545_085:0441b10_17']	而所依定有三品。	而所依定有三品。	the concentration they rely on has three grades.
+['ZH_T27_1545_085:0441b11_5', 'ZH_T27_1545_085:0441b11_12']	故可說上下。🔽上謂依上品定。	故可說上下。 上謂依上品定。	Therefore, it can be said to have above and below.🔽Above refers to relying on superior concentration.
+['ZH_T27_1545_085:0441b12_1']	下謂依下品定。	下謂依下品定。	Below refers to relying on inferior concentration.
+['ZH_T27_1545_085:0441b12_10']	復言傍者依中品定。	復言傍者依中品定。	Furthermore, the word side refers to relying on middling concentration.
+['ZH_T27_1545_085:0441b12_17']	復次修觀行者。	復次修觀行者。	Furthermore, the practitioner.
+['ZH_T27_1545_085:0441b13_12']	身所居處有上下故可言上下傍。	身所居處有上下故可言上下傍。	The place where the body resides has above and below, so it can be said to have above, below, and sides.
+['ZH_T27_1545_085:0441b14_8']	謂處等其事云何下者住人中。	謂處等其事云何下者住人中。	What are the matters such as place? The lower one resides among humans.
+['ZH_T27_1545_085:0441b14_17']	中者住四大王眾天。	中者住四大王眾天。	The middle one resides in the Heaven of the Four Kings.
+['ZH_T27_1545_085:0441b15_6']	上者住三十三天。	上者住三十三天。	The upper one resides in the Heaven of the Thirty-three.
+['ZH_T27_1545_085:0441b16_5']	如是乃至他化自在展轉相望為下中上。	如是乃至他化自在展轉相望為下中上。	In this way, up to the Heaven of Free Enjoyment of Manifestations by Others, they are mutually referred to as lower, middle, and upper.
+['ZH_T27_1545_085:0441b16_10']	上者名上。	上者名上。	The upper one is called upper.
+['ZH_T27_1545_085:0441b16_15']	下者名下。	下者名下。	The lower one is called lower.
+['ZH_T27_1545_085:0441b17_1']	中者名傍。	中者名傍。	The middle one is called side.
+['ZH_T27_1545_085:0441b18_15']	問何故第三靜慮無解脫勝處遍處耶。	問何故第三靜慮無解脫勝處遍處耶。	Why is there no liberation, mastery, or universal sphere in the third concentration?
+['ZH_T27_1545_085:0441b19_7']	答非田器故乃至廣說。	答非田器故乃至廣說。	The answer is: because it is not a field, and so on.
+['ZH_T27_1545_085:0441b19_18']	復次對治欲界初靜慮中。	復次對治欲界初靜慮中。	Furthermore, in the first concentration of the desire realm,
+['ZH_T27_1545_085:0441b20_8']	識身所引緣色貪故。	識身所引緣色貪故。	it is because it attracts the craving for form of the aggregate of consciousness.
+['ZH_T27_1545_085:0441b21_4']	初二靜慮立緣不淨解脫勝處。	初二靜慮立緣不淨解脫勝處。	Therefore, the liberation and mastery of the first two concentrations take the impure as their object.
+['ZH_T27_1545_085:0441b22_2']	第二第三靜慮無識身所引緣色貪故。	第二第三靜慮無識身所引緣色貪故。	Because the second and third concentrations do not attract the craving for form of the aggregate of consciousness,
+['ZH_T27_1545_085:0441b22_9']	第三第四靜慮。	第三第四靜慮。	the third and fourth concentrations
+['ZH_T27_1545_085:0441b23_2']	不立緣色不淨解脫勝處。	不立緣色不淨解脫勝處。	do not establish the liberation and mastery of the impure form as their object.
+['ZH_T27_1545_085:0441b23_12']	前三靜慮有尋伺喜樂。	前三靜慮有尋伺喜樂。	The first three dhyanas have vitarka, vicara, priti, and sukha.
+['ZH_T27_1545_085:0441b24_6']	及入出息擾亂事故無淨解脫。	及入出息擾亂事故無淨解脫。	And because the in-and-out breath disturbs them, there is no pure liberation.
+['ZH_T27_1545_085:0441b25_9']	後四勝處前八遍處緣淨妙境能伏煩惱其事甚難。	後四勝處前八遍處緣淨妙境能伏煩惱其事甚難。	The last four deliverances, the first eight spheres of mastery, and the first eight totalities take pure and wonderful objects as their objects and are able to subdue afflictions. This is very difficult.
+['ZH_T27_1545_085:0441b26_5']	是故必依無擾亂地乃得成就。	是故必依無擾亂地乃得成就。	Therefore, one must rely on the stage free from disturbance in order to accomplish them.
+['ZH_T27_1545_085:0441b26_16']	復次第三靜慮去欲界遠。	復次第三靜慮去欲界遠。	Furthermore, the third dhyana is far from the desire realm.
+['ZH_T27_1545_085:0441b27_7']	於靜慮中又非最勝。	於靜慮中又非最勝。	And within the dhyanas, it is not the most excellent.
+['ZH_T27_1545_085:0441b28_10']	故無解脫勝處遍處復次第三靜慮如第三無色。	故無解脫勝處遍處復次第三靜慮如第三無色。	Therefore, there are no deliverances, spheres of mastery, or totalities. Furthermore, the third dhyana, like the third formless attainment,
+['ZH_T27_1545_085:0441b29_3', 'ZH_T27_1545_085:0441b29_17']	無多功德故無解脫等。🔽謂空識無邊處有無邊行相功德。	無多功德故無解脫等。 謂空識無邊處有無邊行相功德。	has few merits and therefore no deliverances, etc.🔽That is to say, the sphere of infinite space and the sphere of infinite consciousness have the merit of the aspect of infinity.
+['ZH_T27_1545_085:0441c01_10']	非想非非想處有滅定功德。	非想非非想處有滅定功德。	The sphere of nothingness has the merit of the concentration of cessation.
+['ZH_T27_1545_085:0441c02_2']	無所有處無無邊行相。	無所有處無無邊行相。	The sphere of neither-perception-nor-non-perception has neither the aspect of infinity
+['ZH_T27_1545_085:0441c02_7']	又無滅定。	又無滅定。	nor the concentration of cessation.
+['ZH_T27_1545_085:0441c03_13']	是故此地功德減少第三靜慮如彼亦無解脫勝處遍處功德。	是故此地功德減少第三靜慮如彼亦無解脫勝處遍處功德。	Therefore, the merits of this stage are few. The third dhyana, like it, also has no merits of deliverances, spheres of mastery, or totalities.
+['ZH_T27_1545_085:0441c04_10']	復次第三靜慮有生死中最勝受樂。	復次第三靜慮有生死中最勝受樂。	Furthermore, in the third meditation there is the most excellent pleasure of life and death.
+['ZH_T27_1545_085:0441c05_9']	能令行者耽著迷亂故無解脫勝處遍處。	能令行者耽著迷亂故無解脫勝處遍處。	It can cause practitioners to become addicted and confused, so there are no superior and universal bases for liberation.
+['ZH_T27_1545_085:0441c06_6']	問若爾應無無量通等諸餘功德。	問若爾應無無量通等諸餘功德。	Question: If that is so, then there should be no other merits such as the immeasurables, supernormal powers, and so forth.
+['ZH_T27_1545_085:0441c06_16']	答言功德少不說全無。	答言功德少不說全無。	Answer: It is said that there are few merits, not that they are completely absent.
+['ZH_T27_1545_085:0441c07_14']	若此地中無無量等應此靜慮空無功德。	若此地中無無量等應此靜慮空無功德。	If this ground lacks the immeasurables and so forth, then this meditation would be empty of merits.
+['ZH_T27_1545_085:0441c08_10']	復次無量總緣通慧遊戲此地。	復次無量總緣通慧遊戲此地。	Furthermore, the immeasurables generally give rise to supernormal powers that play in this ground.
+['ZH_T27_1545_085:0441c09_4']	得有解脫勝處遍處功德。	得有解脫勝處遍處功德。	One attains the merits of the superior and universal bases for liberation.
+['ZH_T27_1545_085:0441c10_4']	別緣色等伏諸煩惱以難成故此地中無。	別緣色等伏諸煩惱以難成故此地中無。	The specific focus on form and so forth subdues the afflictions, but because it is difficult to accomplish, this ground lacks them.
+['ZH_T27_1545_085:0441c11_4']	如契經說。	如契經說。	As the sutra says:
+['ZH_T27_1545_085:0441c11_11']	得地遍處定者。	得地遍處定者。	Those who attain the universal concentration of the ground
+['ZH_T27_1545_085:0441c11_16']	作如是念。	作如是念。	Think like this:
+['ZH_T27_1545_085:0441c12_6']	地即是我我即是地。	地即是我我即是地。	The ground is precisely me, and I am precisely the ground.
+['ZH_T27_1545_085:0441c12_15']	地之與我無二無別。	地之與我無二無別。	The ground and I are non-dual and not separate.
+['ZH_T27_1545_085:0441c13_3']	得餘遍處定者。	得餘遍處定者。	Those who attain the other universal concentrations
+['ZH_T27_1545_085:0441c13_12']	隨自所緣廣說亦爾。	隨自所緣廣說亦爾。	Speak extensively in the same way according to their own focus.
+['ZH_T27_1545_085:0441c14_1']	問得遍處定者。	問得遍處定者。	Question: Those who attain the universal concentrations
+['ZH_T27_1545_085:0441c14_10']	必已離第三靜慮染。	必已離第三靜慮染。	Must have already become free from the defilements of the third meditation.
+['ZH_T27_1545_085:0441c15_3']	彼所起我見必是第四靜慮。	彼所起我見必是第四靜慮。	The self-view that arises from that must be the fourth meditation.
+['ZH_T27_1545_085:0441c15_11']	若第四靜慮我見。	若第四靜慮我見。	If it is the fourth meditation self-view,
+['ZH_T27_1545_085:0441c16_7']	必唯緣第四靜慮地等前八遍處。	必唯緣第四靜慮地等前八遍處。	it must only take the earth and other eight universal bases of the fourth meditation stage as objects.
+['ZH_T27_1545_085:0441c16_16']	但緣欲界色處為境。	但緣欲界色處為境。	But it takes only the form base of the desire realm as its object.
+['ZH_T27_1545_085:0441c17_11']	如何可說與彼我見同緣地等。	如何可說與彼我見同緣地等。	How can it be said to take the earth and so on as objects in the same way as that self-view?
+['ZH_T27_1545_085:0441c17_16']	有作是說。	有作是說。	There is an explanation:
+['ZH_T27_1545_085:0441c18_14']	此中於未得彼定者說得彼定者聲。	此中於未得彼定者說得彼定者聲。	Here, it is said that one who has not yet attained that concentration is one who has attained it.
+['ZH_T27_1545_085:0441c19_7']	如非沙門說名沙門。	如非沙門說名沙門。	Just as one who is not a śramaṇa is called a śramaṇa,
+['ZH_T27_1545_085:0441c20_1', 'ZH_T27_1545_085:0441c20_18']	非婆羅門說名婆羅門。🔽謂以欲界聞思所成初學修習地等遍處。	非婆羅門說名婆羅門。 謂以欲界聞思所成初學修習地等遍處。	and one who is not a brāhmaṇa is called a brāhmaṇa.
+['ZH_T27_1545_085:0441c21_8']	猶未能斷欲界煩惱。	猶未能斷欲界煩惱。	That is to say, one who has not yet eliminated the afflictions of the desire realm,
+['ZH_T27_1545_085:0441c21_17']	未得根本地等遍處。	未得根本地等遍處。	and has not yet attained the fundamental earth and other universal bases,🔽practices the earth and other universal bases that are accomplished through hearing and contemplation in the desire realm for the first time.
+['ZH_T27_1545_085:0441c22_8']	故緣地等容起我見。	故緣地等容起我見。	Therefore, it is possible for him to give rise to a self-view that takes the earth and so on as objects.
+['ZH_T27_1545_085:0441c22_13']	或有說者。	或有說者。	Or there is an explanation:
+['ZH_T27_1545_085:0441c23_5']	仍舊名說亦不相違。	仍舊名說亦不相違。	It is also not contradictory to use the old name.
+['ZH_T27_1545_085:0441c23_10']	如有國王。	如有國王。	It is like a king
+['ZH_T27_1545_085:0441c23_15']	雖失王位。	雖失王位。	who, although he has lost his royal status,
+['ZH_T27_1545_085:0441c24_6']	仍舊名說亦呼為王。	仍舊名說亦呼為王。	is still called a king using his old name.
+['ZH_T27_1545_085:0441c24_15']	如是先得地遍處等。	如是先得地遍處等。	In the same way, one who has previously attained the universal bases such as the earth,
+['ZH_T27_1545_085:0441c25_6']	今雖退失仍名得者。	今雖退失仍名得者。	Even though they have now regressed and lost [the attainment], they are still called those who have attained it.
+['ZH_T27_1545_085:0441c25_13']	彼起欲界我見。	彼起欲界我見。	If they give rise to the view of self in the desire realm,
+['ZH_T27_1545_085:0441c26_7']	緣欲界地等計我於理無違。	緣欲界地等計我於理無違。	taking the desire realm and so forth as the self, there is no contradiction with reason.
+['ZH_T27_1545_085:0441c26_12']	復有說者。	復有說者。	There is another explanation.
+['ZH_T27_1545_085:0441c27_4']	依速入出遍處我見。	依速入出遍處我見。	Based on quickly entering and exiting the bases of totality and the view of self,
+['ZH_T27_1545_085:0441c27_13']	作如是說亦不相違。	作如是說亦不相違。	making such statements is also not contradictory.
+['ZH_T27_1545_085:0441c28_4']	謂彼先得地遍處等。	謂彼先得地遍處等。	This means that they first attain the bases of totality such as the earth base,
+['ZH_T27_1545_085:0441c28_13']	後速退起欲界我見。	後速退起欲界我見。	and later quickly regress and give rise to the view of self in the desire realm,
+['ZH_T27_1545_085:0441c29_3']	緣執欲界地等為我。	緣執欲界地等為我。	taking the desire realm and so forth as the self.
+['ZH_T27_1545_085:0442a01_7']	速復還得第四靜慮地遍處等彼緣欲界地等為境。	速復還得第四靜慮地遍處等彼緣欲界地等為境。	They quickly regain the bases of totality such as the fourth dhyana ground, and take the desire realm and so forth as their objects.
+['ZH_T27_1545_085:0442a02_1']	如提婆達多先得靜慮。	如提婆達多先得靜慮。	Like Devadatta, who first attained the dhyanas,
+['ZH_T27_1545_085:0442a02_11']	以神境通力變作小兒。	以神境通力變作小兒。	used the power of his spiritual penetrations to transform into a small child,
+['ZH_T27_1545_085:0442a03_3']	著金縷俗衣作五花頂。	著金縷俗衣作五花頂。	wearing secular clothes with golden threads, making five flower crowns,
+['ZH_T27_1545_085:0442a03_16']	在未生怨太子膝上婉轉而戲。	在未生怨太子膝上婉轉而戲。	playing on the lap of Prince Ajatashatru, rolling around and playing.
+['ZH_T27_1545_085:0442a04_11']	仍令太子知是尊者提婆達多。	仍令太子知是尊者提婆達多。	Still causing the prince to know that this was Venerable Devadatta.
+['ZH_T27_1545_085:0442a05_3']	時未生怨憐愛抱弄。	時未生怨憐愛抱弄。	At that time, Ajatashatru loved him and held him, playing with him.
+['ZH_T27_1545_085:0442a05_12']	嗚而復以唾置口中。	嗚而復以唾置口中。	He then spat into his mouth.
+['ZH_T27_1545_085:0442a06_7']	提婆達多貪利養故遂咽其唾。	提婆達多貪利養故遂咽其唾。	Devadatta, out of greed for profit, swallowed the saliva.
+['ZH_T27_1545_085:0442a06_12']	故佛訶曰。	故佛訶曰。	Therefore the Buddha scolded him, saying,
+['ZH_T27_1545_085:0442a07_3']	汝是死屍食人唾者。	汝是死屍食人唾者。	You are a corpse-eater who swallows human saliva.
+['ZH_T27_1545_085:0442a07_12']	彼咽唾時便退靜慮。	彼咽唾時便退靜慮。	When he swallowed the saliva, he immediately fell from meditative absorption.
+['ZH_T27_1545_085:0442a08_11']	速復還得令所變身在太子膝如故而戲。	速復還得令所變身在太子膝如故而戲。	He quickly regained it, causing the transformed body on the prince's lap to play as before.
+['ZH_T27_1545_085:0442a09_3']	遍處我見應知亦爾。	遍處我見應知亦爾。	One should understand the all-encompassing view of self to be the same as this.
+['ZH_T27_1545_085:0442a09_8']	有餘師說。	有餘師說。	Other masters say,
+['ZH_T27_1545_085:0442a10_4']	此中有身見執第四靜慮地等為我。	此中有身見執第四靜慮地等為我。	In this intermediate state, the body views the fourth meditative absorption and below as the self.
+['ZH_T27_1545_085:0442a10_17']	前八遍處亦緣第四靜慮地等。	前八遍處亦緣第四靜慮地等。	The first eight all-encompassing bases also take the fourth meditative absorption and below as objects.
+['ZH_T27_1545_085:0442a11_11']	問豈不前八遍處緣欲界色耶。	問豈不前八遍處緣欲界色耶。	Question: Aren't the first eight all-encompassing bases also taken as objects in the desire realm?
+['ZH_T27_1545_085:0442a12_8']	答亦緣欲界色亦緣第四靜慮色。	答亦緣欲界色亦緣第四靜慮色。	Answer: They are also taken as objects in the desire realm and also in the fourth meditative absorption.
+['ZH_T27_1545_085:0442a12_18']	問色界諸天純一白色。	問色界諸天純一白色。	Question: The gods in the form realm are pure and white in color.
+['ZH_T27_1545_085:0442a13_8']	云何緣彼作青等耶。	云何緣彼作青等耶。	How can they be taken as objects and made blue, etc.?
+['ZH_T27_1545_085:0442a14_1']	答色界有情純一白色。	答色界有情純一白色。	Answer: Sentient beings in the form realm are pure and white in color.
+['ZH_T27_1545_085:0442a14_10']	彼非情數亦有青等。	彼非情數亦有青等。	Non-sentient things there also have blue, etc.
+['ZH_T27_1545_085:0442a14_13']	評曰。	評曰。	The judges say,
+['ZH_T27_1545_085:0442a15_1']	彼不應作是說。	彼不應作是說。	They should not say this.
+['ZH_T27_1545_085:0442a15_14']	若有身見與八遍處相應俱有。	若有身見與八遍處相應俱有。	If there were a view of a real self associated with and coexisting with the eight universal bases,
+['ZH_T27_1545_085:0442a16_8']	可設難言如何相應俱有法。	可設難言如何相應俱有法。	one could raise the question of how these associated and coexisting dharmas
+['ZH_T27_1545_085:0442a17_2']	或緣第四靜慮或緣欲界。	或緣第四靜慮或緣欲界。	either take the fourth meditation as their object or take the desire realm as their object.
+['ZH_T27_1545_085:0442a18_4']	然有身見前八遍處非相應非俱有不應為難。	然有身見前八遍處非相應非俱有不應為難。	However, since the view of a real self and the first eight universal bases are neither associated nor coexisting, this question should not be raised.
+['ZH_T27_1545_085:0442a19_1']	而一有情名計我者亦名得定者。	而一有情名計我者亦名得定者。	One sentient being is called one who conceives of a self and is also called one who attains concentration.
+['ZH_T27_1545_085:0442a19_11']	以有身見故名計我者。	以有身見故名計我者。	Because of the view of a real self, he is called one who conceives of a self.
+['ZH_T27_1545_085:0442a20_2']	以遍處故名得定者。	以遍處故名得定者。	Because of the universal bases, he is called one who attains concentration.
+['ZH_T27_1545_085:0442a20_15']	有身見執第四靜慮地等為我。	有身見執第四靜慮地等為我。	The view of a real self takes the fourth meditation and other stages as a self.
+['ZH_T27_1545_085:0442a21_14']	前八遍處緣欲界色非俱時故善通此經。	前八遍處緣欲界色非俱時故善通此經。	Since the first eight universal bases take the form of the desire realm as their object, not simultaneously, this sūtra is well explained.
+['ZH_T27_1545_085:0442a22_14']	此有身見與八遍處所依身同所緣境異。	此有身見與八遍處所依身同所緣境異。	This view of a real self and the first eight universal bases have the same basis in the body but different objects.
+['ZH_T27_1545_085:0442a23_4']	如契經說。	如契經說。	As a sūtra says:
+['ZH_T27_1545_085:0442a23_14']	有地等定有地等遍處。	有地等定有地等遍處。	There is earth concentration, etc., and there are universal bases of earth, etc.
+['ZH_T27_1545_085:0442a24_11']	問此地等定與地等遍處有何差別。	問此地等定與地等遍處有何差別。	Question: What is the difference between these earth concentrations, etc., and the universal bases of earth, etc.?
+['ZH_T27_1545_085:0442a25_15']	答地等定在欲界四靜慮地等遍處唯在第四靜慮。	答地等定在欲界四靜慮地等遍處唯在第四靜慮。	Answer: The earth concentrations, etc., are in the desire realm and the four meditations, while the universal bases of earth, etc., are only in the fourth meditation.
+['ZH_T27_1545_085:0442a26_8']	復次加行時名地等定。	復次加行時名地等定。	Furthermore, when in the stage of preparation, it is called the concentration on earth, etc.
+['ZH_T27_1545_085:0442a26_17']	成滿時名地等遍處。	成滿時名地等遍處。	When perfected, it is called the universal sphere of earth, etc.
+['ZH_T27_1545_085:0442a27_7']	復次因時名地等定。	復次因時名地等定。	Furthermore, when it is a cause, it is called the concentration on earth, etc.
+['ZH_T27_1545_085:0442a27_15']	果時名地等遍處。	果時名地等遍處。	When it is a result, it is called the universal sphere of earth, etc.
+['ZH_T27_1545_085:0442a28_9']	復次若作少分解時名地等定。	復次若作少分解時名地等定。	Furthermore, when there is an understanding of a small part, it is called the concentration on earth, etc.
+['ZH_T27_1545_085:0442a29_4']	若作周遍解時名地等遍處。	若作周遍解時名地等遍處。	When there is an understanding of the all-pervasiveness, it is called the universal sphere of earth, etc.
+['ZH_T27_1545_085:0442a29_9']	是謂差別。	是謂差別。	This is the difference.
+['ZH_T27_1545_085:0442b01_11']	問解脫勝處遍處有何差別。	問解脫勝處遍處有何差別。	Question: What is the difference between the liberations, the spheres of mastery, and the universal spheres?
+['ZH_T27_1545_085:0442b02_12']	答名即差別謂此名解脫此名勝處此名遍處。	答名即差別謂此名解脫此名勝處此名遍處。	Answer: The names themselves are the difference. This is called liberation, this is called the spheres of mastery, and this is called the universal spheres.
+['ZH_T27_1545_085:0442b03_5', 'ZH_T27_1545_085:0442b03_13']	復次下品善根名解脫。🔽中品善根名勝處。	復次下品善根名解脫。 中品善根名勝處。	Furthermore, the inferior wholesome roots are called liberation.🔽The middling wholesome roots are called the spheres of mastery.
+['ZH_T27_1545_085:0442b04_3']	上品善根名遍處。	上品善根名遍處。	The superior wholesome roots are called the universal spheres.
+['ZH_T27_1545_085:0442b04_12']	復次小善根名解脫。	復次小善根名解脫。	Furthermore, the small wholesome roots are called liberation.
+['ZH_T27_1545_085:0442b05_1']	大善根名勝處。	大善根名勝處。	The great wholesome roots are called the spheres of mastery.
+['ZH_T27_1545_085:0442b05_9']	無量善根名遍處。	無量善根名遍處。	The immeasurable wholesome roots are called the universal spheres.
+['ZH_T27_1545_085:0442b05_17']	復次唯因名解脫。	復次唯因名解脫。	Furthermore, only the causes are called liberation.
+['ZH_T27_1545_085:0442b06_5']	唯果名遍處。	唯果名遍處。	Only the results are called the universal spheres.
+['ZH_T27_1545_085:0442b06_12']	通因果名勝處。	通因果名勝處。	Both the causes and results are called the spheres of mastery.
+['ZH_T27_1545_085:0442b07_5']	復次能有棄背名解脫。	復次能有棄背名解脫。	Furthermore, that which can abandon and turn away is called liberation.
+['ZH_T27_1545_085:0442b07_13']	能勝伏境名勝處。	能勝伏境名勝處。	The name conquering the object is conquering the object.
+['ZH_T27_1545_085:0442b08_3']	能廣所緣名遍處。	能廣所緣名遍處。	The name extending the object is extending the object.
+['ZH_T27_1545_085:0442b08_13', 'ZH_T27_1545_085:0442b09_4']	復次唯作勝解名解脫。🔽能伏煩惱名勝處。	復次唯作勝解名解脫。 能伏煩惱名勝處。	Furthermore, only the name liberation is liberation.🔽The name conquering the object is conquering the object.
+['ZH_T27_1545_085:0442b09_16']	於所緣境無二無量名遍處。	於所緣境無二無量名遍處。	The name extending the object is extending the object.
+['ZH_T27_1545_085:0442b10_13']	復次若得解脫未必已得勝處遍處。	復次若得解脫未必已得勝處遍處。	Furthermore, if one attains liberation, one may not necessarily have already attained conquering the object and extending the object.
+['ZH_T27_1545_085:0442b11_6']	若得勝處必已得解脫。	若得勝處必已得解脫。	If one attains conquering the object, one must have already attained liberation.
+['ZH_T27_1545_085:0442b11_13']	未必已得遍處。	未必已得遍處。	One may not necessarily have already attained extending the object.
+['ZH_T27_1545_085:0442b12_8']	若得遍處必已得解脫及勝處。	若得遍處必已得解脫及勝處。	If one attains extending the object, one must have already attained liberation and conquering the object.
+['ZH_T27_1545_085:0442b12_13']	所以者何。	所以者何。	Why is it so?
+['ZH_T27_1545_085:0442b13_2']	從解脫入勝處。	從解脫入勝處。	From liberation one enters conquering the object.
+['ZH_T27_1545_085:0442b13_9']	從勝處入遍處。	從勝處入遍處。	From conquering the object one enters extending the object.
+['ZH_T27_1545_085:0442b14_3']	故是謂解脫勝處遍處差別。	故是謂解脫勝處遍處差別。	Therefore, this is the difference between liberation, conquering the object, and extending the object.
+['ZH_T27_1545_085:0442b15_8']	此中八智三三摩地。	此中八智三三摩地。	Among them, eight knowledges and three samādhis,
+['ZH_T27_1545_085:0442b15_14']	三重三摩地。	三重三摩地。	threefold samādhi,
+['ZH_T27_1545_085:0442b16_4']	如後智蘊當廣分別。	如後智蘊當廣分別。	will be extensively distinguished in the later chapter on knowledge.
+['ZH_T27_1545_085:0442b16_14']	三結乃至九十八隨眠。	三結乃至九十八隨眠。	Three fetters up to ninety-eight latent afflictions,
+['ZH_T27_1545_085:0442b17_4']	如此蘊初已廣分別。	如此蘊初已廣分別。	have already been extensively distinguished in the beginning of this chapter.
+['ZH_T27_1545_085:0442b18_100']	說一切有部發智大毘婆沙論卷第八十五	說一切有部發智大毘婆沙論卷第八十五	Abhidharma-mahāvibhāṣā-śāstra, fascicle 85

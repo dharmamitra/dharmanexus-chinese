@@ -1,0 +1,857 @@
+segmentnr	original	analyzed	translated
+['ZH_T55_2157_012:0859a17_0']	2貞元新定釋教目錄卷第十二	2貞元新定釋教目錄卷第十二	2. New Catalogue of the Canon of the Buddhist Teachings Compiled in the Zhenyuan Era, Scroll 12
+['ZH_T55_2157_012:0859a19_0']	西京西明寺沙門圓照撰	西京西明寺沙門圓照撰	Compiled by Śramaṇa Yuangong of Ximing Temple in the Western Capital
+['ZH_T55_2157_012:0859a20_0']	總集群經錄上之十二	總集群經錄上之十二	General Collection of Scriptures, Part 12 of 12
+['ZH_T55_2157_012:0859a21_2']	帝曰。	帝曰。	The Emperor said:
+['ZH_T55_2157_012:0859a21_13']	自師行後朕奉為穆大后。	自師行後朕奉為穆大后。	Since the master left, we have revered him as the great empress dowager Mu.
+['ZH_T55_2157_012:0859a22_6']	於西京造弘福寺可就翻譯。	於西京造弘福寺可就翻譯。	We have built Hongfu Temple in the Western Capital, where you may translate.
+['ZH_T55_2157_012:0859a22_13']	所須人物吏力。	所須人物吏力。	The people and officials you need
+['ZH_T55_2157_012:0859a23_5']	並與玄齡商量務令優洽。	並與玄齡商量務令優洽。	We will discuss with Xuancheng to ensure your satisfaction.
+['ZH_T55_2157_012:0859a23_14']	既承明命返迹京師。	既承明命返迹京師。	Having received the imperial decree, he returned to the capital city.
+['ZH_T55_2157_012:0859a25_2']	遂召證義大德諳解大小乘經論為時輩所推者一十一人至。	遂召證義大德諳解大小乘經論為時輩所推者一十一人至。	He then summoned eleven great virtuous ones who were well-versed in the scriptures and treatises of the Mahayana and Hinayana, and who were respected by their contemporaries.
+['ZH_T55_2157_012:0859a25_12']	即京弘福寺沙門靈潤。	即京弘福寺沙門靈潤。	They were Śramaṇa Lingrun of Hongfu Temple in the capital,
+['ZH_T55_2157_012:0859a25_17']	沙門文備。	沙門文備。	Śramaṇa Wenbei,
+['ZH_T55_2157_012:0859a26_6', 'ZH_T55_2157_012:0859a26_14']	羅漢寺沙門惠貴。🔽實際寺沙門明琰。	羅漢寺沙門惠貴。 實際寺沙門明琰。	Śramaṇa Huiqi of Luohan Temple,🔽Śramaṇa Mingyan of Shiji Temple,
+['ZH_T55_2157_012:0859a27_3', 'ZH_T55_2157_012:0859a27_11']	寶昌寺沙門法祥。🔽靜法寺沙門普賢。	寶昌寺沙門法祥。 靜法寺沙門普賢。	Śramaṇa Faxiang of Baosheng Temple,🔽Śramaṇa Puxian of Jingfa Temple,
+['ZH_T55_2157_012:0859a27_19']	法海寺沙門神昉。	法海寺沙門神昉。	Śramaṇa Shenfang of Fahai Temple,
+['ZH_T55_2157_012:0859a28_9']	廓州法講寺沙門道深。	廓州法講寺沙門道深。	Śramaṇa Daoshen of Fajiang Temple in Kuozhou,
+['ZH_T55_2157_012:0859a29_10']	汴州演覺寺沙門玄忠蒲州普救寺沙門神泰。	汴州演覺寺沙門玄忠蒲州普救寺沙門神泰。	Śramaṇa Xuanzhong of Yanjue Temple in Bianzhou, and Śramaṇa Shentai of Pugu Temple in Puzhou.
+['ZH_T55_2157_012:0859b01_3']	線州振響寺沙門敬明等。	線州振響寺沙門敬明等。	Venerable monks Jingming and others from Zhenxiang Temple in Linzhou.
+['ZH_T55_2157_012:0859b01_11', 'ZH_T55_2157_012:0859b02_2', 'ZH_T55_2157_012:0859b02_10']	綴文大德九人至。🔽即京普光寺沙門拪玄。🔽弘福寺沙門明濬。	綴文大德九人至。 即京普光寺沙門拪玄。 弘福寺沙門明濬。	Nine great virtuous ones who compiled the text arrived.🔽They were Monk Xiuxuan of Puguang Temple in the capital.🔽Monk Mingjun of Hongfu Temple.
+['ZH_T55_2157_012:0859b02_18']	會昌寺沙門辯機。	會昌寺沙門辯機。	Monk Bianji of Huichang Temple.
+['ZH_T55_2157_012:0859b03_10', 'ZH_T55_2157_012:0859b04_2']	終南山豐德寺沙門道宣。🔽簡州福聚寺沙門靖邁。	終南山豐德寺沙門道宣。 簡州福聚寺沙門靖邁。	Monk Daoxuan of Fengde Temple in Zhongnan Mountain.🔽Monk Jingmai of Fuzhu Temple in Jianzhou.
+['ZH_T55_2157_012:0859b04_12', 'ZH_T55_2157_012:0859b05_2', 'ZH_T55_2157_012:0859b05_12']	蒲州普救寺沙門行支。🔽栖巖寺沙門道卓。🔽邠州昭仁寺沙門惠立。	蒲州普救寺沙門行支。 栖巖寺沙門道卓。 邠州昭仁寺沙門惠立。	Monk Xingzhi of Pujiu Temple in Puzhou.🔽Monk Daozhuo of Qiyanshan Temple.🔽Monk Huili of Zhaoren Temple in Binzhou.
+['ZH_T55_2157_012:0859b06_4']	洛州天宮寺沙門玄則等。	洛州天宮寺沙門玄則等。	Monk Xuance and others of Tiangong Temple in Luozhou.
+['ZH_T55_2157_012:0859b06_12']	字學大德一人至。	字學大德一人至。	One great virtuous one who studied characters arrived.
+['ZH_T55_2157_012:0859b07_4']	即京大總持寺沙門玄應。	即京大總持寺沙門玄應。	He was Monk Xuanyan of Datongzhi Temple in the capital.
+['ZH_T55_2157_012:0859b07_15']	證梵語梵文大德一人至。	證梵語梵文大德一人至。	One great virtuous one who mastered Sanskrit language and texts arrived.
+['ZH_T55_2157_012:0859b08_7']	即京大興善寺沙門玄謨。	即京大興善寺沙門玄謨。	He was Monk Xuanmo of Daxingshan Temple in the capital.
+['ZH_T55_2157_012:0859b09_2']	其年五月方操貝葉開演梵文。	其年五月方操貝葉開演梵文。	In the fifth month of that year, they began to interpret the Sanskrit texts.
+['ZH_T55_2157_012:0859b09_10']	創譯大菩薩藏經。	創譯大菩薩藏經。	They started translating the Mahābodhisattvapitaka Sūtra.
+['ZH_T55_2157_012:0859b10_3']	沙門道宣執筆并刪綴詞理。	沙門道宣執筆并刪綴詞理。	Monk Daoxuan took notes and revised the text and meaning.
+['ZH_T55_2157_012:0859b11_4']	又復旁翻佛地經六門陀羅尼經顯揚聖教論。	又復旁翻佛地經六門陀羅尼經顯揚聖教論。	He also translated the Buddha-bhumi-sutra, the Six-door Dharani Sutra, and the Abhidharmasamuccaya-vyakhya.
+['ZH_T55_2157_012:0859b12_4']	二十年春正月又譯大乘阿毘達磨雜集論。	二十年春正月又譯大乘阿毘達磨雜集論。	In the spring of the 20th year, he translated the Abhidharmasamuccaya-vyakhya.
+['ZH_T55_2157_012:0859b12_12']	次譯瑜伽師地論。	次譯瑜伽師地論。	Next, he translated the Yogacarabhumi-sastra.
+['ZH_T55_2157_012:0859b13_2']	法師於論重加陶練。	法師於論重加陶練。	The Dharma Master carefully polished the treatise.
+['ZH_T55_2157_012:0859b13_15']	微有餘隙又出西域記十二卷。	微有餘隙又出西域記十二卷。	With a little free time, he also wrote the Datang Xiyu Ji in 12 fascicles.
+['ZH_T55_2157_012:0859b14_8']	沙門辯機親受事連比前後。	沙門辯機親受事連比前後。	The monk Bianji personally received the task and recorded it in sequence.
+['ZH_T55_2157_012:0859b14_18']	自前代已來所譯經教。	自前代已來所譯經教。	Since ancient times, the scriptures and teachings that have been translated
+['ZH_T55_2157_012:0859b15_8']	初從梵語倒寫本文。	初從梵語倒寫本文。	First, the Sanskrit text is written in reverse.
+['ZH_T55_2157_012:0859b15_17']	次乃迴之順同此俗。	次乃迴之順同此俗。	Then, it is turned to conform to the customs here.
+['ZH_T55_2157_012:0859b16_7']	然後筆人亂理文句。	然後筆人亂理文句。	Afterwards, the scribes confuse the sentence structure.
+['ZH_T55_2157_012:0859b16_16']	中間增損多墜金言。	中間增損多墜金言。	In the middle, there are many additions and deletions that fall from the golden words.
+['ZH_T55_2157_012:0859b17_6']	今所翻傳都由奘旨。	今所翻傳都由奘旨。	The current translations are all based on Xuanzang's meaning.
+['ZH_T55_2157_012:0859b17_15']	意思獨斷出語成章。	意思獨斷出語成章。	He independently decides the meaning and expresses it in complete sentences.
+['ZH_T55_2157_012:0859b18_5']	詞人隨寫即可披翫。	詞人隨寫即可披翫。	The scribes write it down as he speaks, and it can be read immediately.
+['ZH_T55_2157_012:0859b18_8']	于時。	于時。	At that time,
+['ZH_T55_2157_012:0859b19_4']	駕返西京。	駕返西京。	The imperial carriage returned to the Western Capital.
+['ZH_T55_2157_012:0859b20_4']	奘乃進新譯經論并大唐西域記表請題序。	奘乃進新譯經論并大唐西域記表請題序。	Xuanzang presented the newly translated scriptures, treatises, and the Datang Xiyu Ji, requesting an inscription.
+['ZH_T55_2157_012:0859b21_6']	手勅答書略云。	手勅答書略云。	The emperor's reply said in brief:
+['ZH_T55_2157_012:0859b21_16']	朕學淺心拙在物猶迷。	朕學淺心拙在物猶迷。	My learning is shallow and my mind is clumsy. I am still confused about worldly matters.
+['ZH_T55_2157_012:0859b22_7']	況佛教幽微豈能仰測。	況佛教幽微豈能仰測。	How could I possibly fathom the profound teachings of Buddhism?
+['ZH_T55_2157_012:0859b22_16']	請為經題非己所聞。	請為經題非己所聞。	I requested to make the sutra title, but it is not something I have heard of myself.
+['ZH_T55_2157_012:0859b23_9']	其雜撰西域記者當自披覽。	其雜撰西域記者當自披覽。	You should read the Records of the Western Regions that I have compiled.
+['ZH_T55_2157_012:0859b24_1']	又再三表請方蒙允許。	又再三表請方蒙允許。	The master again and again requested permission, and only then was it granted.
+['ZH_T55_2157_012:0859b24_12']	遂謂駙馬都尉高履行曰。	遂謂駙馬都尉高履行曰。	He then said to Gao Li, the Marquis of Puwei:
+['ZH_T55_2157_012:0859b25_2']	卿前請朕為父作碑。	卿前請朕為父作碑。	You previously requested me to write a stele for your father.
+['ZH_T55_2157_012:0859b25_13']	今氣力不如昔願作功德。	今氣力不如昔願作功德。	Now my strength is not as good as before. I wish to make merit.
+['ZH_T55_2157_012:0859b26_4']	為法師作序不能作碑。	為法師作序不能作碑。	I can write a preface for the master, but I cannot write a stele.
+['ZH_T55_2157_012:0859b26_8']	卿知之。	卿知之。	You should know this.
+['ZH_T55_2157_012:0859b27_11']	貞觀二十二年春幸玉華宮。	貞觀二十二年春幸玉華宮。	In the spring of the twenty-second year of Zhenguan, the emperor went to Yuhua Palace.
+['ZH_T55_2157_012:0859b28_7']	六月勅追法師赴宮見於玉華殿。	六月勅追法師赴宮見於玉華殿。	In the sixth month, the emperor ordered the master to go to the palace to see him at Yuhua Hall.
+['ZH_T55_2157_012:0859b28_10']	帝問。	帝問。	The emperor asked:
+['ZH_T55_2157_012:0859b28_16']	比翻何經論。	比翻何經論。	What sutras and treatises have you recently translated?
+['ZH_T55_2157_012:0859b29_10']	答近翻瑜伽師地論訖凡一百卷。	答近翻瑜伽師地論訖凡一百卷。	The master replied: Recently I have finished translating the Yogācārabhūmi-śāstra in 100 fascicles.
+['ZH_T55_2157_012:0859c01_2']	帝曰。	帝曰。	The emperor said:
+['ZH_T55_2157_012:0859c01_11']	此論甚大何聖所說。	此論甚大何聖所說。	This treatise is very extensive. By which sage was it spoken?
+['ZH_T55_2157_012:0859c01_16']	復明何義。	復明何義。	What meaning does it elucidate?
+['ZH_T55_2157_012:0859c01_19']	答曰。	答曰。	The master replied:
+['ZH_T55_2157_012:0859c02_7']	論是彌勒菩薩說。	論是彌勒菩薩說。	The treatise was spoken by Maitreya Bodhisattva.
+['ZH_T55_2157_012:0859c02_13']	明十七地義。	明十七地義。	It clarifies the meaning of the seventeen stages.
+['ZH_T55_2157_012:0859c02_16']	又問。	又問。	He also asked:
+['ZH_T55_2157_012:0859c03_2']	何名十七地。	何名十七地。	What are called the seventeen stages?
+['ZH_T55_2157_012:0859c03_12']	奘舉綱提目陳列大義。	奘舉綱提目陳列大義。	Zang raised the main points and listed the great meanings.
+['ZH_T55_2157_012:0859c04_4']	帝深愛焉。	帝深愛焉。	The emperor deeply loved it.
+['ZH_T55_2157_012:0859c04_12']	遣向京取瑜伽論。	遣向京取瑜伽論。	He sent someone to the capital to obtain the Yogācārabhūmi-śāstra.
+['ZH_T55_2157_012:0859c04_17']	帝自詳覽。	帝自詳覽。	The emperor personally examined it.
+['ZH_T55_2157_012:0859c05_10']	覩其詞義宏遠非從來所聞。	覩其詞義宏遠非從來所聞。	He saw that its words and meanings were vast and far-reaching, unlike what he had heard before.
+['ZH_T55_2157_012:0859c05_16']	歎謂侍臣曰。	歎謂侍臣曰。	He sighed and said to his attendants:
+['ZH_T55_2157_012:0859c06_12']	朕觀佛經譬猶瞻天望海莫測高深。	朕觀佛經譬猶瞻天望海莫測高深。	We observe the Buddha's scriptures as if gazing at the sky or the ocean, unable to fathom their heights or depths.
+['ZH_T55_2157_012:0859c07_5']	法師能於異域得是深法。	法師能於異域得是深法。	The Dharma Master is able to obtain this profound Dharma in a foreign land.
+['ZH_T55_2157_012:0859c08_1']	朕比以軍國務殷不及委尋佛教。	朕比以軍國務殷不及委尋佛教。	We have been preoccupied with military and state affairs and have not had the time to thoroughly investigate the Buddha's teachings.
+['ZH_T55_2157_012:0859c08_14']	而今觀之宗源杳曠靡知涯際。	而今觀之宗源杳曠靡知涯際。	But now, observing the vast and boundless source of the teachings, we do not know its limits.
+['ZH_T55_2157_012:0859c09_12']	其儒道九流比之猶汀瀅之池方溟渤耳。	其儒道九流比之猶汀瀅之池方溟渤耳。	Compared to the nine streams of Confucianism and Daoism, they are like a pond by the shore compared to the vast ocean.
+['ZH_T55_2157_012:0859c10_6']	而世云三教齊致此妄談也。	而世云三教齊致此妄談也。	Yet the world says that the three teachings are equal, this is a false claim.
+['ZH_T55_2157_012:0859c11_8']	勅所司簡祕書書手。	勅所司簡祕書書手。	 The emperor ordered the relevant authorities to select scribes from the Secretariat.
+['ZH_T55_2157_012:0859c11_17']	寫新翻經論為九本。	寫新翻經論為九本。	To copy the newly translated scriptures and treatises into nine copies.
+['ZH_T55_2157_012:0859c13_1']	頒與豫雍洛兗相荊楊涼益等九大州展轉流通。	頒與豫雍洛兗相荊楊涼益等九大州展轉流通。	It was distributed to the nine great states of Yu, Yong, Luo, Yan, Xiang, Jing, Yang, Liang, and Yi, and circulated from one to another.
+['ZH_T55_2157_012:0859c13_13']	使率土之人同稟未聞之義。	使率土之人同稟未聞之義。	It was to ensure that the people of the whole country would receive the unheard-of teachings.
+['ZH_T55_2157_012:0859c14_2']	帝先許作新經序。	帝先許作新經序。	The Emperor had previously agreed to write a preface for the new scriptures.
+['ZH_T55_2157_012:0859c14_13']	機務繁劇未及措意至此。	機務繁劇未及措意至此。	But due to the heavy workload, he had not had the chance to put his mind to it.
+['ZH_T55_2157_012:0859c15_7']	法師重啟方為染翰少頃而成。	法師重啟方為染翰少頃而成。	When the Dharma Master reminded him again, he immediately began writing and completed it in a short while.
+['ZH_T55_2157_012:0859c15_16']	名大唐三藏聖教序。	名大唐三藏聖教序。	It was named the Preface to the Holy Teachings of the Great Tang Tripiṭaka.
+['ZH_T55_2157_012:0859c16_8']	神筆自寫勅貫眾經之首。	神筆自寫勅貫眾經之首。	The Emperor personally copied it with his own hand and ordered it to be placed at the beginning of all scriptures.
+['ZH_T55_2157_012:0859c17_13']	帝居慶福殿百寮侍衛命法師坐。	帝居慶福殿百寮侍衛命法師坐。	The Emperor was in the Qinfu Hall, with hundreds of officials in attendance. He ordered the Dharma Master to sit.
+['ZH_T55_2157_012:0859c18_14']	使弘文館學士上官儀以所製序對群寮宣讀。	使弘文館學士上官儀以所製序對群寮宣讀。	He ordered Shangguan Yi, a scholar of the Hongwenguan, to read the preface he had written to the officials.
+['ZH_T55_2157_012:0859c19_7']	霞煥錦舒極褒揚之美致。	霞煥錦舒極褒揚之美致。	The preface was as radiant as brocade, to the utmost praise and exaltation.
+['ZH_T55_2157_012:0859c19_15']	天皇在春宮奉覩。	天皇在春宮奉覩。	The Heavenly Emperor, while still a crown prince, respectfully read it.
+['ZH_T55_2157_012:0859c20_7']	聖文又製述三藏聖記。	聖文又製述三藏聖記。	The Holy Text also wrote the Record of the Holy Tripiṭaka.
+['ZH_T55_2157_012:0859c21_1']	自此常參內禁扣問沈隱。	自此常參內禁扣問沈隱。	From then on, he often attended the inner palace and asked about profound matters.
+['ZH_T55_2157_012:0859c21_10']	翻譯相續不爽法機。	翻譯相續不爽法機。	The translation continued without missing the opportunity of the Dharma.
+['ZH_T55_2157_012:0859c22_2']	又讀法師所進菩薩藏經。	又讀法師所進菩薩藏經。	He also read the Bodhisattvapitaka Sutra that the Dharma Master had submitted.
+['ZH_T55_2157_012:0859c22_12']	美之因　勅春宮作序。	美之因　勅春宮作序。	The Crown Prince was ordered to write a preface.
+['ZH_T55_2157_012:0859c23_14']	其後秋七月夏罷　勅賜雲納袈裟一領妙絕今古。	其後秋七月夏罷　勅賜雲納袈裟一領妙絕今古。	Later, in the autumn of the seventh month, after the summer retreat, the Emperor bestowed a cloud-colored kaṣāya robe, which was wonderfully exquisite, surpassing anything from the past or present.
+['ZH_T55_2157_012:0859c24_6']	又勅天下諸寺各度五人。	又勅天下諸寺各度五人。	He also ordered that five monks be ordained in each temple throughout the country.
+['ZH_T55_2157_012:0859c24_15']	弘福寺宜度五十人。	弘福寺宜度五十人。	Hongfu Temple should ordain fifty people.
+['ZH_T55_2157_012:0859c25_8']	維持聖種皆奘正言之力也。	維持聖種皆奘正言之力也。	Maintaining the holy lineage was all due to Xuanzang's correct words and power.
+['ZH_T55_2157_012:0859c25_16']	冬十月隨駕還京。	冬十月隨駕還京。	In the winter of the tenth month, he followed the imperial procession back to the capital.
+['ZH_T55_2157_012:0859c26_13']	勅所司於北闕紫微殿西別營一所。	勅所司於北闕紫微殿西別營一所。	The Emperor ordered the authorities to build a separate residence to the west of the Ziguang Pavilion in the Northern Palace.
+['ZH_T55_2157_012:0859c26_18']	號弘法院。	號弘法院。	It was called Hongfu Academy.
+['ZH_T55_2157_012:0859c27_4']	令奘居之。	令奘居之。	He ordered Xuanzang to reside there.
+['ZH_T55_2157_012:0859c27_11']	晝則帝留談說。	晝則帝留談說。	During the day, the Emperor kept him for discussions.
+['ZH_T55_2157_012:0859c27_18']	夜乃還院翻經。	夜乃還院翻經。	At night, he returned to the academy to translate scriptures.
+['ZH_T55_2157_012:0859c28_5', 'ZH_T55_2157_012:0859c28_10', 'ZH_T55_2157_012:0859c28_16']	更譯無性攝論。🔽世親攝論。🔽緣起聖道經。	更譯無性攝論。 世親攝論。 緣起聖道經。	He further translated the Asvabhāva-vibhāṣā-śāstra,🔽the Vasubandhu-vibhāṣā-śāstra,🔽the Pratītyasamutpāda-sūtra,
+['ZH_T55_2157_012:0859c29_2']	百法明門論。	百法明門論。	and the Śata-dharma-pravacana-śāstra.
+['ZH_T55_2157_012:0860a01_11']	皇太子奉為　文德聖皇后。	皇太子奉為　文德聖皇后。	The Crown Prince, on behalf of the Sagely Empress of Wen De,
+['ZH_T55_2157_012:0860a02_6']	於晉昌里置慈恩寺度三百人。	於晉昌里置慈恩寺度三百人。	established Ci'en Temple in Jinchang Lane and ordained three hundred people.
+['ZH_T55_2157_012:0860a03_1']	別造翻經院令法師移就翻譯。	別造翻經院令法師移就翻譯。	He separately built a translation academy, ordering the Dharma Master to move there for translation.
+['ZH_T55_2157_012:0860a03_16']	仍綱維寺任給新度弟子一十五人。	仍綱維寺任給新度弟子一十五人。	He was still the leader of the temple and was given fifteen new disciples.
+['ZH_T55_2157_012:0860a04_7']	弘福寺舊處仍給十人。	弘福寺舊處仍給十人。	Ten people were given to the old place of Hongfu Temple.
+['ZH_T55_2157_012:0860a04_16']	皇儲親降製詩褒飾。	皇儲親降製詩褒飾。	The Crown Prince personally wrote a poem to praise him.
+['ZH_T55_2157_012:0860a05_10']	二十三年夏四月駕幸翠微宮。	二十三年夏四月駕幸翠微宮。	In the fourth month of summer in the twenty-third year, the Emperor went to Cuiwei Palace.
+['ZH_T55_2157_012:0860a05_15']	仍勅陪從。	仍勅陪從。	He was ordered to accompany him.
+['ZH_T55_2157_012:0860a06_9', 'ZH_T55_2157_012:0860a07_1']	既至處分之外唯談玄論道。🔽問因果報應及西域先。	既至處分之外唯談玄論道。 問因果報應及西域先。	Apart from the places he visited, he only talked about the profound and the Way.
+['ZH_T55_2157_012:0860a08_5']	聖遺芳故迹。	聖遺芳故迹。	He asked about cause and effect, retribution, and the traces left by the sages of the Western Regions.
+['ZH_T55_2157_012:0860a08_11']	皆引經酬對。	皆引經酬對。	He all quoted the sutras in his answers.
+['ZH_T55_2157_012:0860a08_16']	帝深信納。	帝深信納。	The Emperor deeply believed and accepted them.
+['ZH_T55_2157_012:0860a09_2']	數攘袂歎曰。	數攘袂歎曰。	He often sighed with his sleeves rolled up.
+['ZH_T55_2157_012:0860a09_9']	朕共師相逢晚。	朕共師相逢晚。	I met the Master too late.
+['ZH_T55_2157_012:0860a09_16']	不得廣興佛事。	不得廣興佛事。	I cannot extensively promote Buddhist activities.
+['ZH_T55_2157_012:0860a10_15']	逮高宗嗣錄素所珍敬追入優問禮殊恒祑。	逮高宗嗣錄素所珍敬追入優問禮殊恒祑。	When Gaozong succeeded to the throne, he cherished and respected him as before. He invited him to ask questions and the etiquette was unusual.
+['ZH_T55_2157_012:0860a11_8']	永徽二年請造梵本經臺。	永徽二年請造梵本經臺。	In the second year of Yonghui, he requested to build a platform for Sanskrit scriptures.
+['ZH_T55_2157_012:0860a11_18']	蒙　勅賜物尋得成就。	蒙　勅賜物尋得成就。	He was granted imperial gifts and soon accomplished it.
+['ZH_T55_2157_012:0860a12_13']	又追入內於修文殿翻發智等論。	又追入內於修文殿翻發智等論。	He was also invited to the inner palace to translate the *Mahāvibhāṣā-śāstra and other treatises at Xiujian Hall.
+['ZH_T55_2157_012:0860a13_6']	降手詔飛白書慰問優洽。	降手詔飛白書慰問優洽。	The Emperor wrote a comforting message in cursive script and inquired about his well-being.
+['ZH_T55_2157_012:0860a13_13']	顯慶元年正月。	顯慶元年正月。	In the first month of the first year of Xianqing,
+['ZH_T55_2157_012:0860a14_6']	為皇太子於慈恩寺設大齋。	為皇太子於慈恩寺設大齋。	for the Crown Prince, a great vegetarian feast was held at the Ci'en Temple.
+['ZH_T55_2157_012:0860a14_11']	朝寮總至。	朝寮總至。	The court officials all gathered.
+['ZH_T55_2157_012:0860a15_9']	黃門侍郎薛元超中書侍郎李義府曰。	黃門侍郎薛元超中書侍郎李義府曰。	Huangmen Shilang Xue Yuanchao and Zhongshu Shilang Li Yifu said:
+['ZH_T55_2157_012:0860a15_16']	譯經佛法之大。	譯經佛法之大。	The translation of scriptures is a great matter of Buddhism.
+['ZH_T55_2157_012:0860a16_7']	未知何德可以光揚耶。	未知何德可以光揚耶。	We do not know what merits can be used to glorify it.
+['ZH_T55_2157_012:0860a16_10']	奘曰。	奘曰。	Zang said:
+['ZH_T55_2157_012:0860a16_18']	公之問常所懷矣。	公之問常所懷矣。	Your question is what I have always been thinking.
+['ZH_T55_2157_012:0860a17_5']	譯經雖位在僧。	譯經雖位在僧。	Although the translation of scriptures is ranked among monks,
+['ZH_T55_2157_012:0860a17_12']	光價終憑朝貴。	光價終憑朝貴。	the radiance and price ultimately depend on the nobility of the court.
+['ZH_T55_2157_012:0860a18_5']	至如符秦時曇摩難提譯經。	至如符秦時曇摩難提譯經。	As for the time of Fu Qin, Tanmo Nantuo translated scriptures.
+['ZH_T55_2157_012:0860a18_15']	黃門侍郎趙文業執筆。	黃門侍郎趙文業執筆。	Huangmen Shilang Zhao Wenyue wrote them down.
+['ZH_T55_2157_012:0860a19_6']	姚秦時鳩摩羅什譯經。	姚秦時鳩摩羅什譯經。	In the time of Yao Qin, Kumārajīva translated scriptures.
+['ZH_T55_2157_012:0860a19_17']	秦主及安成侯姚嵩筆受。	秦主及安成侯姚嵩筆受。	The ruler of Qin and Ancheng Hou Yao Song recorded them.
+['ZH_T55_2157_012:0860a20_8']	元魏時菩提留支譯經。	元魏時菩提留支譯經。	In the time of Yuan Wei, Bodhiruci translated scriptures.
+['ZH_T55_2157_012:0860a21_3']	則宣武皇帝及侍中崔光錄文。	則宣武皇帝及侍中崔光錄文。	Then Emperor Xuanwu and Shizhong Cui Guang recorded the text.
+['ZH_T55_2157_012:0860a21_12']	齊梁周隋並皆如是。	齊梁周隋並皆如是。	Qi, Liang, Zhou, and Sui were all like this.
+['ZH_T55_2157_012:0860a22_3']	大唐貞觀初波頗翻譯。	大唐貞觀初波頗翻譯。	In the beginning of the Zhenguan era of the Great Tang, Boshou translated.
+['ZH_T55_2157_012:0860a23_7']	勅左僕射房玄齡。	勅左僕射房玄齡。	The edict ordered Zuo Pushi Fang Xuanling.
+['ZH_T55_2157_012:0860a23_14', 'ZH_T55_2157_012:0860a24_3']	趙郡王李孝恭。🔽太子詹事杜正倫。	趙郡王李孝恭。 太子詹事杜正倫。	Prince of Zhaojun, Li Xiaogong.🔽Du Zhenglun, the Chief Minister of the Crown Prince.
+['ZH_T55_2157_012:0860a24_9']	大府蕭璟等。	大府蕭璟等。	Xiao Jing of the Imperial Household, and others.
+['ZH_T55_2157_012:0860a24_14']	監問譯之。	監問譯之。	Monitored and questioned the translation.
+['ZH_T55_2157_012:0860a25_4']	今並無之不足光遠。	今並無之不足光遠。	Now they are all gone, and it is not enough to shine far.
+['ZH_T55_2157_012:0860a25_16']	公等能為致言則斯美可至。	公等能為致言則斯美可至。	If you can speak for it, then this beauty can be reached.
+['ZH_T55_2157_012:0860a26_4', 'ZH_T55_2157_012:0860a26_7']	二公詳為陳奏。🔽尋下。	二公詳為陳奏。 尋下。	The two gentlemen discussed and presented it.
+['ZH_T55_2157_012:0860a27_2']	勅曰。	勅曰。	Soon the edict was issued, saying:
+['ZH_T55_2157_012:0860a27_11']	慈恩翻譯文義須精。	慈恩翻譯文義須精。	The translation of Ci'en Monastery must be refined in both text and meaning.
+['ZH_T55_2157_012:0860a28_1']	宜令左僕射于志寧。	宜令左僕射于志寧。	It is appropriate to order the Left Premier Yu Zhining,
+['ZH_T55_2157_012:0860a28_7', 'ZH_T55_2157_012:0860a28_15']	中書令來濟。🔽禮部尚書許敬宗。	中書令來濟。 禮部尚書許敬宗。	the Minister of the Secretariat Lai Ji,🔽the Minister of Rites Xu Jingzong,
+['ZH_T55_2157_012:0860a29_3']	黃門侍郎薛元超。	黃門侍郎薛元超。	the Chamberlain for Ceremonials Xue Yuanchao,
+['ZH_T55_2157_012:0860a29_16']	中書侍郎李義府等時為看閱。	中書侍郎李義府等時為看閱。	and the Vice Director of the Department of State Affairs Li Yifu and others to review it at that time.
+['ZH_T55_2157_012:0860b01_6']	有穩便處即隨潤色。	有穩便處即隨潤色。	If there is a convenient place, then follow and polish it.
+['ZH_T55_2157_012:0860b01_17']	若須學士任量追兩三人。	若須學士任量追兩三人。	If you need scholars, follow the amount and pursue two or three people.
+['ZH_T55_2157_012:0860b02_7']	冬十一月中宮在難。	冬十一月中宮在難。	In the middle of the eleventh month of winter, the empress was in labor.
+['ZH_T55_2157_012:0860b02_16']	歸依三寶請垂加祐。	歸依三寶請垂加祐。	She took refuge in the Three Jewels and asked for your protection.
+['ZH_T55_2157_012:0860b03_11']	法師啟曰　聖體必安和無苦。	法師啟曰　聖體必安和無苦。	The Dharma master said: The imperial body must be at peace and free from suffering.
+['ZH_T55_2157_012:0860b03_18']	然所懷者是男。	然所懷者是男。	However, what she is carrying is a boy.
+['ZH_T55_2157_012:0860b04_8']	平安之後願聽出家。	平安之後願聽出家。	After the peace, he wished to be allowed to leave the household life.
+['ZH_T55_2157_012:0860b04_14']	當蒙　勅許。	當蒙　勅許。	He would receive the imperial permission.
+['ZH_T55_2157_012:0860b04_19']	其月一日。	其月一日。	On the first day of that month,
+['ZH_T55_2157_012:0860b06_2']	皇后施納袈裟一領妙勝前者并時服玩百有餘件。	皇后施納袈裟一領妙勝前者并時服玩百有餘件。	the Empress Dowager donated a kaṣāya robe, the finest of the finest, and over a hundred other items of clothing and personal effects.
+['ZH_T55_2157_012:0860b06_12']	五日有　勅令報法師。	五日有　勅令報法師。	On the fifth day, there was an imperial edict ordering the Dharma Master to report:
+['ZH_T55_2157_012:0860b07_1']	皇后分難已訖。	皇后分難已訖。	The Empress Dowager has given birth.
+['ZH_T55_2157_012:0860b07_14']	端正奇特神光滿院自庭燭天。	端正奇特神光滿院自庭燭天。	She is upright and extraordinary, with a divine light filling the courtyard, illuminating the heavens from the courtyard itself.
+['ZH_T55_2157_012:0860b08_5']	朕歡喜無己內外舞躍。	朕歡喜無己內外舞躍。	I am overjoyed beyond measure, dancing with delight inside and out.
+['ZH_T55_2157_012:0860b08_11']	必不違所許。	必不違所許。	I will certainly not go back on my promise.
+['ZH_T55_2157_012:0860b08_17']	願法師護念。	願法師護念。	I wish that the Dharma Master will protect and remember me.
+['ZH_T55_2157_012:0860b09_4']	遂號為佛光王。	遂號為佛光王。	He was then named Prince Buddha Light.
+['ZH_T55_2157_012:0860b09_13']	當受三歸被袈裟服。	當受三歸被袈裟服。	He will receive the Three Refuges and wear the kaṣāya robe.
+['ZH_T55_2157_012:0860b10_11']	十二月五日滿月　勅為佛光王度七人。	十二月五日滿月　勅為佛光王度七人。	On the fifth day of the twelfth month, the full moon, the emperor ordered seven people to be ordained for Prince Buddha Light.
+['ZH_T55_2157_012:0860b11_2']	仍請法師為王剃髮。	仍請法師為王剃髮。	He also invited the Dharma Master to shave the prince's head.
+['ZH_T55_2157_012:0860b11_8']	其佛光王即。	其佛光王即。	That Prince Buddha Light is
+['ZH_T55_2157_012:0860b12_12']	中宗孝和皇帝初生之瑞號也。	中宗孝和皇帝初生之瑞號也。	the auspicious name given to Emperor Zhongzong Xuanzong when he was first born.
+['ZH_T55_2157_012:0860b13_3']	創登皇極勅為法師。	創登皇極勅為法師。	When he first ascended the throne, he ordered the Dharma Master
+['ZH_T55_2157_012:0860b13_13']	於兩京各置一佛光寺。	於兩京各置一佛光寺。	to establish a Buddha Light Temple in each of the two capitals,
+['ZH_T55_2157_012:0860b14_1']	并度人居之。	并度人居之。	and to ordain people to reside there.
+['ZH_T55_2157_012:0860b14_15']	其東都佛光寺即法師之故宅也。	其東都佛光寺即法師之故宅也。	The Eastern Capital's Foshou Temple was the master's former residence.
+['ZH_T55_2157_012:0860b15_6']	復內出畫影奘之寶輿。	復內出畫影奘之寶輿。	He also brought out the painted shadow and precious carriage of Xuanzang.
+['ZH_T55_2157_012:0860b15_15']	送慈恩寺翻譯堂中。	送慈恩寺翻譯堂中。	And sent them to the Translation Hall of Ci'en Temple.
+['ZH_T55_2157_012:0860b16_5']	追諡法師稱大遍覺。	追諡法師稱大遍覺。	He posthumously bestowed the title of Great Universal Enlightenment on the master.
+['ZH_T55_2157_012:0860b17_1']	顯慶二年春二月　駕幸洛陽宮。	顯慶二年春二月　駕幸洛陽宮。	In the second year of Xianqing, in the second month of spring, the emperor went to the palace in Luoyang.
+['ZH_T55_2157_012:0860b17_12']	法師與佛光王駕前而發。	法師與佛光王駕前而發。	The master left with Prince Foshou.
+['ZH_T55_2157_012:0860b17_19']	并翻經僧五人。	并翻經僧五人。	And five monks who translated scriptures.
+['ZH_T55_2157_012:0860b18_10']	陪從弟子各一事事公給。	陪從弟子各一事事公給。	Each disciple was given one attendant and all expenses were provided by the government.
+['ZH_T55_2157_012:0860b19_1']	既到安置積翠宮。	既到安置積翠宮。	Upon arrival, they were lodged at Jikuicui Palace.
+['ZH_T55_2157_012:0860b19_9']	召入大內麗日殿。	召入大內麗日殿。	They were summoned into the inner palace at Liri Hall.
+['ZH_T55_2157_012:0860b19_16']	翻觀所緣等論。	翻觀所緣等論。	They translated the Discernment of the Perceived and other treatises.
+['ZH_T55_2157_012:0860b20_1']	夏四月。	夏四月。	In the fourth month of summer,
+['ZH_T55_2157_012:0860b21_13']	車駕避暑於明德宮法師亦陪從。	車駕避暑於明德宮法師亦陪從。	the imperial carriage avoided the heat at Mingde Palace and the master also accompanied them.
+['ZH_T55_2157_012:0860b22_8']	安置飛花殿譯大毘婆沙等論。	安置飛花殿譯大毘婆沙等論。	They were lodged at Feihua Palace and translated the Great Commentary and other treatises.
+['ZH_T55_2157_012:0860b23_4']	五月　勅法師還於積翠宮翻譯。	五月　勅法師還於積翠宮翻譯。	In the fifth month, the emperor ordered the master to return to Jikuicui Palace to translate scriptures.
+['ZH_T55_2157_012:0860b23_11']	法師初謁文帝。	法師初謁文帝。	When the master first met Emperor Wen,
+['ZH_T55_2157_012:0860b24_1']	已請於少林寺翻經。	已請於少林寺翻經。	he had requested to translate scriptures at Shaolin Temple.
+['ZH_T55_2157_012:0860b24_12']	至是秋九月復請入少林。	至是秋九月復請入少林。	In the ninth month of autumn, he was again requested to enter Shaolin.
+['ZH_T55_2157_012:0860b25_8']	天皇手詔抑而不許。	天皇手詔抑而不許。	The emperor personally wrote a decree to suppress it and did not allow it.
+['ZH_T55_2157_012:0860b25_18']	三年二月隨　駕還京。	三年二月隨　駕還京。	In the third year, in the second month, he followed the imperial carriage back to the capital.
+['ZH_T55_2157_012:0860b26_7']	秋七月西明寺成。	秋七月西明寺成。	In the seventh month of autumn, Ximing Temple was completed.
+['ZH_T55_2157_012:0860b26_13']	勅法師居之。	勅法師居之。	The imperial decree ordered the Dharma master to reside there.
+['ZH_T55_2157_012:0860b27_13']	令給上房一口新度沙彌海會等十人充弟子。	令給上房一口新度沙彌海會等十人充弟子。	He was given an upper room and ten newly ordained śrāmaṇeras, including Haihui, to serve as disciples.
+['ZH_T55_2157_012:0860b28_5']	天皇以法師先朝所重。	天皇以法師先朝所重。	The Heavenly Emperor valued the Dharma master as someone respected by the previous emperor.
+['ZH_T55_2157_012:0860b28_14']	嗣位之後禮敬逾隆。	嗣位之後禮敬逾隆。	After succeeding to the throne, his reverence and respect surpassed the previous emperor.
+['ZH_T55_2157_012:0860b29_4']	中使朝臣問慰無絕。	中使朝臣問慰無絕。	Imperial messengers and court officials constantly inquired about his well-being.
+['ZH_T55_2157_012:0860b29_11']	東國重於般若。	東國重於般若。	The Eastern Country values prajñā.
+['ZH_T55_2157_012:0860c01_1']	前代雖翻文不周備。	前代雖翻文不周備。	Although it was translated in previous generations, the text was not complete.
+['ZH_T55_2157_012:0860c01_10']	眾人更請委悉重翻。	眾人更請委悉重翻。	The people requested again to carefully and thoroughly retranslate it.
+['ZH_T55_2157_012:0860c01_16']	然般若部大。	然般若部大。	However, the prajñā section is vast.
+['ZH_T55_2157_012:0860c02_10']	京師多務又人命無常恐難得了。	京師多務又人命無常恐難得了。	The capital is busy and human life is impermanent, so it is feared that it will not be completed.
+['ZH_T55_2157_012:0860c03_1']	請就於玉華宮翻譯。	請就於玉華宮翻譯。	He requested to translate it at Yuhua Palace.
+['ZH_T55_2157_012:0860c03_14']	即以四年冬十月徙於玉華宮。	即以四年冬十月徙於玉華宮。	In the fourth year, in the tenth month of winter, he moved to Yuhua Palace.
+['ZH_T55_2157_012:0860c04_17']	并翻經大德及門徒等同去其供給諸事一如京下。	并翻經大德及門徒等同去其供給諸事一如京下。	The great virtuous ones who translated the sūtras and their disciples all went there. The provisions and services were the same as in the capital.
+['ZH_T55_2157_012:0860c05_8']	至彼安置肅誠院焉。	至彼安置肅誠院焉。	When they arrived there, they were settled in Suxing Temple.
+['ZH_T55_2157_012:0860c06_5']	五年春正月一日起首翻大般若經。	五年春正月一日起首翻大般若經。	On the first day of the first month in the spring of the fifth year, the translation of the Mahāprajñāpāramitā-sūtra began.
+['ZH_T55_2157_012:0860c06_14']	梵本總有二十萬頌。	梵本總有二十萬頌。	The Sanskrit text has a total of 200,000 verses.
+['ZH_T55_2157_012:0860c07_4']	佛於四處十六會說。	佛於四處十六會說。	The Buddha spoke it in sixteen assemblies at four places.
+['ZH_T55_2157_012:0860c07_15']	文既廣大學徒每請刪略。	文既廣大學徒每請刪略。	The text being so extensive, the disciples often requested an abridged version.
+['ZH_T55_2157_012:0860c08_6']	如羅什所翻除繁去重。	如羅什所翻除繁去重。	Like the one translated by Kumārajīva, which removed the redundancies and repetitions.
+['ZH_T55_2157_012:0860c08_13']	法師將順眾意。	法師將順眾意。	The Dharma Master was about to comply with the assembly's intention.
+['ZH_T55_2157_012:0860c09_9']	於夜夢中即有極怖畏事以相警誡。	於夜夢中即有極怖畏事以相警誡。	In his dream during the night, he was warned with extremely frightening events.
+['ZH_T55_2157_012:0860c09_18']	覺已驚懼向諸眾說。	覺已驚懼向諸眾說。	After waking up, he was frightened and told the assembly.
+['ZH_T55_2157_012:0860c10_4']	還依廣翻。	還依廣翻。	He then returned to the extensive translation.
+['ZH_T55_2157_012:0860c10_17']	夜中乃見諸佛菩薩勝吉祥事。	夜中乃見諸佛菩薩勝吉祥事。	During the night, he saw the auspicious events of the buddhas and bodhisattvas.
+['ZH_T55_2157_012:0860c11_7']	覺而喜慶不敢更刪。	覺而喜慶不敢更刪。	After waking up, he rejoiced and did not dare to further abridge it.
+['ZH_T55_2157_012:0860c12_4']	至龍朔三年十月二十日功畢絕筆。	至龍朔三年十月二十日功畢絕筆。	On the 20th day of the 10th month in the 3rd year of Longshuo, the work was completed.
+['ZH_T55_2157_012:0860c12_10']	合成六百卷。	合成六百卷。	It was compiled into 600 fascicles.
+['ZH_T55_2157_012:0860c12_19']	合掌歡喜告徒眾曰。	合掌歡喜告徒眾曰。	With palms joined, he joyfully told the disciples:
+['ZH_T55_2157_012:0860c13_7']	此經於此地有緣。	此經於此地有緣。	This sūtra has a connection with this land.
+['ZH_T55_2157_012:0860c14_1']	玄奘來此玉華者經之力也。	玄奘來此玉華者經之力也。	The reason Xuanzang came to this Yuhua is due to the power of the sūtra.
+['ZH_T55_2157_012:0860c14_14']	向在京師諸緣牽亂豈有了時。	向在京師諸緣牽亂豈有了時。	Previously in the capital, the various conditions were distracting, how could it have been completed?
+['ZH_T55_2157_012:0860c14_19']	今得終訖。	今得終訖。	Now it has been completed.
+['ZH_T55_2157_012:0860c15_10']	並是諸佛冥加龍天擁護。	並是諸佛冥加龍天擁護。	All of this is due to the silent assistance of the Buddhas and the protection of the dragons and gods.
+['ZH_T55_2157_012:0860c16_6']	此乃鎮國之妙典人天之大寶。	此乃鎮國之妙典人天之大寶。	This is indeed a wonderful scripture for stabilizing the nation and a great treasure for humans and gods.
+['ZH_T55_2157_012:0860c16_15']	徒眾宜各踊躍欣慶。	徒眾宜各踊躍欣慶。	The assembly should all rejoice with joy.
+['ZH_T55_2157_012:0860c18_3']	於中間又翻成唯識論辯中邊唯識二十論品類足論等。	於中間又翻成唯識論辯中邊唯識二十論品類足論等。	In the middle, he also translated the Vijñaptimātratāsiddhi-śāstra, the Madhyamāntavibhāga, the Vijñaptimātratā-viṃśaka, and the Põndikapāda-śāstra, etc.
+['ZH_T55_2157_012:0860c18_12']	至十一月二十二日。	至十一月二十二日。	On the twenty-second day of the eleventh month,
+['ZH_T55_2157_012:0860c19_3']	令弟子窺基奉表奏聞。	令弟子窺基奉表奏聞。	he ordered his disciple Kuiji to present a memorial to the emperor,
+['ZH_T55_2157_012:0860c19_9']	請御製經序。	請御製經序。	requesting the imperial preface for the sūtra.
+['ZH_T55_2157_012:0860c20_8']	至十二月七日通事舍人馮義宣　勅垂許。	至十二月七日通事舍人馮義宣　勅垂許。	On the seventh day of the twelfth month, Feng Yi, the Court Gentleman for Ceremonials, announced the imperial decree granting permission.
+['ZH_T55_2157_012:0860c21_8']	麟德元年正月一日翻經大德及玉華寺眾。	麟德元年正月一日翻經大德及玉華寺眾。	On the first day of the first month of the first year of the Linde era, the monks who had translated the sūtras and the assembly of Yuhua Temple
+['ZH_T55_2157_012:0860c21_18']	慇懃啟請翻大寶積經。	慇懃啟請翻大寶積經。	sincerely requested to translate the Mahā-ratnakūṭa-sūtra.
+['ZH_T55_2157_012:0860c22_13']	法師見眾僧專至俛仰翻數行訖。	法師見眾僧專至俛仰翻數行訖。	The Dharma Master, seeing the monks' sincerity, translated a few lines with a sigh.
+['ZH_T55_2157_012:0860c23_5']	便攝梵本停住告眾曰。	便攝梵本停住告眾曰。	Then he put away the Sanskrit text and stopped, telling the assembly:
+['ZH_T55_2157_012:0860c23_15']	此經部軸與大般若同。	此經部軸與大般若同。	This sūtra is the same size as the Mahā-prajñā-pāramitā-sūtra.
+['ZH_T55_2157_012:0860c24_7']	玄奘自量氣力不復辦此。	玄奘自量氣力不復辦此。	I, Xuanzang, have considered my own strength and am unable to complete this task.
+['ZH_T55_2157_012:0860c25_7']	奘自貞觀十九年乙巳於弘福寺創啟梵文。	奘自貞觀十九年乙巳於弘福寺創啟梵文。	Xuanzang himself began translating the Sanskrit texts at Hongfu Temple in the 19th year of Zhenguan (645 CE), the year of Yi Si.
+['ZH_T55_2157_012:0860c26_2']	訖麟德元年甲子終玉華宮寺。	訖麟德元年甲子終玉華宮寺。	Xuanzang himself began translating the Sanskrit texts at Hongfu Temple in the 19th year of Zhenguan (乙巳), and completed them at Yuhua Palace Temple in the 1st year of Linde (甲子).
+['ZH_T55_2157_012:0860c26_7']	凡二十載。	凡二十載。	In total, it took twenty years.
+['ZH_T55_2157_012:0860c27_11']	總出大小乘經律論等合七十五部一千三百三十五卷。	總出大小乘經律論等合七十五部一千三百三十五卷。	He translated a total of 75 parts of scriptures, vinaya texts, and treatises, totaling 1,335 volumes, both Mahayana and Hinayana.
+['ZH_T55_2157_012:0860c28_2']	又別撰西域記一部。	又別撰西域記一部。	He also wrote a separate record of the Western Regions in one part.
+['ZH_T55_2157_012:0860c28_16']	自般若翻了惟自策勤行道禮懺。	自般若翻了惟自策勤行道禮懺。	After the Prajnaparamita Sutra was translated, he diligently practiced the Way and made offerings.
+['ZH_T55_2157_012:0860c29_6']	告翻經僧及門人曰。	告翻經僧及門人曰。	He told the monks who translated the sutras and his disciples:
+['ZH_T55_2157_012:0860c29_15']	有為之法必歸磨滅。	有為之法必歸磨滅。	All conditioned dharmas must return to extinction.
+['ZH_T55_2157_012:0861a01_5']	泡幻形質何得久停。	泡幻形質何得久停。	How can the illusory form last long?
+['ZH_T55_2157_012:0861a01_16']	行年六十五矣必卒玉華。	行年六十五矣必卒玉華。	I am 65 years old. I will definitely die at Yuhua.
+['ZH_T55_2157_012:0861a02_8']	於經論有疑者今可速問。	於經論有疑者今可速問。	If you have doubts about the sutras and treatises, you should ask me quickly now.
+['ZH_T55_2157_012:0861a02_14']	又謂門人曰。	又謂門人曰。	He also said to his disciples:
+['ZH_T55_2157_012:0861a03_5']	吾來玉華本緣般若。	吾來玉華本緣般若。	I came to Yuhua originally because of the Prajnaparamita Sutra.
+['ZH_T55_2157_012:0861a03_16']	今經事既終吾生涯亦盡。	今經事既終吾生涯亦盡。	Now that the sutra work is finished, my life is also coming to an end.
+['ZH_T55_2157_012:0861a04_10']	若無常後汝等遣吾宜從省儉。	若無常後汝等遣吾宜從省儉。	After I pass away, you should send me away simply and frugally.
+['ZH_T55_2157_012:0861a04_17']	可以籧篨裹送。	可以籧篨裹送。	You can wrap me in straw mats and send me off.
+['ZH_T55_2157_012:0861a05_11']	仍擇山㵎僻處安置勿近宮寺。	仍擇山㵎僻處安置勿近宮寺。	He then chose a secluded place in the mountains to settle them, not near the palace or temples.
+['ZH_T55_2157_012:0861a06_2']	不淨之身宜從屏遠。	不淨之身宜從屏遠。	The impure body should be kept far away from such places.
+['ZH_T55_2157_012:0861a06_12']	門徒等聞之莫不哀鯁。	門徒等聞之莫不哀鯁。	When the disciples heard this, they were all saddened.
+['ZH_T55_2157_012:0861a07_7']	奘生常以來願生彌勒及遊西域。	奘生常以來願生彌勒及遊西域。	Since Xuanzang was young, he wished to be reborn in Maitreya's heaven and traveled to the Western Regions.
+['ZH_T55_2157_012:0861a07_18']	又聞無著兄弟皆生彼天。	又聞無著兄弟皆生彼天。	He also heard that Asanga and his brother were both born in that heaven.
+['ZH_T55_2157_012:0861a08_8']	又頻祈請咸有顯證。	又頻祈請咸有顯證。	He frequently made requests and had clear evidence.
+['ZH_T55_2157_012:0861a08_17']	懷此專至蓋增翹勵。	懷此專至蓋增翹勵。	Cherishing this single-minded devotion, he increased his diligence.
+['ZH_T55_2157_012:0861a09_7']	所造功德皆願往生。	所造功德皆願往生。	All the merits he created were dedicated to being reborn there.
+['ZH_T55_2157_012:0861a10_3']	至正月九日脚趺傷脛因即寢疾。	至正月九日脚趺傷脛因即寢疾。	On the ninth day of the first month, his foot injured his calf and he fell ill.
+['ZH_T55_2157_012:0861a10_16']	開目閉目見大蓮華鮮白而至。	開目閉目見大蓮華鮮白而至。	With his eyes open or closed, he saw a large white lotus flower.
+['ZH_T55_2157_012:0861a11_6']	又見偉相知生佛前。	又見偉相知生佛前。	He also saw a majestic appearance and knew he would be born in the Buddha's presence.
+['ZH_T55_2157_012:0861a12_1']	遂命僧喜尚讀所翻經論名目。	遂命僧喜尚讀所翻經論名目。	He then ordered the monk Xi Shang to read the names of the sutras and treatises he had translated.
+['ZH_T55_2157_012:0861a12_15']	及造像寫經施僧濟乏然燈放生。	及造像寫經施僧濟乏然燈放生。	As well as the images he had created, the sutras he had copied, the monks he had supported, the poor he had relieved, the lamps he had offered, and the living beings he had released.
+['ZH_T55_2157_012:0861a13_5']	具令讀訖自懷欣悅。	具令讀訖自懷欣悅。	After hearing this, he was delighted.
+['ZH_T55_2157_012:0861a13_14']	總召門人有緣並集。	總召門人有緣並集。	He summoned all his disciples with karmic connections to gather.
+['ZH_T55_2157_012:0861a14_3']	於是罄捨衣資。	於是罄捨衣資。	He then emptied his belongings.
+['ZH_T55_2157_012:0861a14_13']	更令造像及轉讀齋䞋。	更令造像及轉讀齋䞋。	He ordered more images to be created, sutras to be recited, and offerings to be made.
+['ZH_T55_2157_012:0861a15_3']	又命塐工宗法智。	又命塐工宗法智。	He also ordered the sculptor Zong Fajizhi.
+['ZH_T55_2157_012:0861a15_13']	於嘉壽殿竪菩提像骨。	於嘉壽殿竪菩提像骨。	At Jiashou Hall, he erected a statue of Bodhi's bones.
+['ZH_T55_2157_012:0861a16_6']	對寺僧門人辭訣并遣表訖。	對寺僧門人辭訣并遣表訖。	Facing the monks and disciples of the temple, he took leave and sent the memorial.
+['ZH_T55_2157_012:0861a16_12']	便默念彌勒。	便默念彌勒。	Then he silently recited the name of Maitreya.
+['ZH_T55_2157_012:0861a17_11']	又令旁人稱願生頌至二月四日右脇累足。	又令旁人稱願生頌至二月四日右脇累足。	He also ordered those beside him to chant the vow to be reborn in the verse. On the fourth day of the second month, he lay on his right side with his feet stacked.
+['ZH_T55_2157_012:0861a17_16']	右手支頭。	右手支頭。	His right hand supported his head.
+['ZH_T55_2157_012:0861a18_2']	左手申髀。	左手申髀。	His left hand stretched to his thigh.
+['ZH_T55_2157_012:0861a18_11']	暨于屬纊竟不迴轉。	暨于屬纊竟不迴轉。	Until the end, he did not turn over.
+['ZH_T55_2157_012:0861a19_2']	不飲不食至五日中夜。	不飲不食至五日中夜。	He did not drink or eat. On the fifth day, in the middle of the night.
+['ZH_T55_2157_012:0861a19_9']	弟子光等問云。	弟子光等問云。	The disciples Guang and others asked.
+['ZH_T55_2157_012:0861a20_3']	和上決定得生彌勒內眾不。	和上決定得生彌勒內眾不。	Is the master determined to be reborn in Maitreya's inner assembly?
+['ZH_T55_2157_012:0861a20_6']	答曰。	答曰。	He replied.
+['ZH_T55_2157_012:0861a20_9']	得生。	得生。	I will be reborn.
+['ZH_T55_2157_012:0861a20_20']	言訖氣息漸微少間神逝。	言訖氣息漸微少間神逝。	After saying this, his breath gradually became faint and his spirit departed.
+['ZH_T55_2157_012:0861a21_6']	侍人不覺屬纊。	侍人不覺屬纊。	The attendants did not notice and wrapped him.
+['ZH_T55_2157_012:0861a21_17']	方委從足漸冷最後頂暖。	方委從足漸冷最後頂暖。	Only then did they realize that from the feet he gradually became cold, and the top of his head was still warm.
+['ZH_T55_2157_012:0861a22_7']	顏色赤白怡悅勝常。	顏色赤白怡悅勝常。	His complexion was red and white, and his joy was more than usual.
+['ZH_T55_2157_012:0861a23_2']	過七七日竟無改變亦無異氣。	過七七日竟無改變亦無異氣。	After seven weeks, there was no change at all, nor any unusual smell.
+['ZH_T55_2157_012:0861a23_13']	自非定慧莊嚴戒香資被。	自非定慧莊嚴戒香資被。	If it were not for the adornment of concentration and wisdom, and the support of the fragrance of precepts,
+['ZH_T55_2157_012:0861a23_18']	孰能致此。	孰能致此。	who could achieve this?
+['ZH_T55_2157_012:0861a24_9']	又冥應眾多具於別傳。	又冥應眾多具於別傳。	Moreover, his secret responses to many people are fully recorded in a separate biography.
+['ZH_T55_2157_012:0861a24_14']	此略不述。	此略不述。	This is briefly not mentioned here.
+['ZH_T55_2157_012:0861a25_5']	時坊州刺史竇師倫奏。	時坊州刺史竇師倫奏。	At that time, the Prefect of Fangzhou, Dou Shilin, reported:
+['ZH_T55_2157_012:0861a25_10']	法師已亡。	法師已亡。	The Dharma Master has already passed away.
+['ZH_T55_2157_012:0861a26_4']	帝聞之哀慟傷感為之罷朝曰。	帝聞之哀慟傷感為之罷朝曰。	When the Emperor heard this, he was deeply saddened and moved. He canceled court for the day, saying:
+['ZH_T55_2157_012:0861a26_10']	朕失國寶矣。	朕失國寶矣。	I have lost the country's treasure!
+['ZH_T55_2157_012:0861a27_3']	時文武宰寮莫不悲咽流涕。	時文武宰寮莫不悲咽流涕。	At that time, the civil and military officials all wept with grief.
+['ZH_T55_2157_012:0861a27_13']	帝言已嗚咽悲不能勝。	帝言已嗚咽悲不能勝。	The Emperor, having finished speaking, choked with sobs, unable to contain his sorrow.
+['ZH_T55_2157_012:0861a28_2']	翌日又謂群臣曰。	翌日又謂群臣曰。	The next day, he again told the officials:
+['ZH_T55_2157_012:0861a28_14']	惜哉朕國內失奘法師一人。	惜哉朕國內失奘法師一人。	Alas! In my country, we have lost the one person of Dharma Master Xuanzang.
+['ZH_T55_2157_012:0861a29_3']	可謂釋眾梁摧矣。	可謂釋眾梁摧矣。	It can be said that the pillars of the Buddhist community have collapsed.
+['ZH_T55_2157_012:0861a29_9']	四生無導矣。	四生無導矣。	The four types of beings have lost their guide.
+['ZH_T55_2157_012:0861b01_2']	亦何異苦海方濟舟檝遽沈。	亦何異苦海方濟舟檝遽沈。	Is it not like a boat suddenly sinking in the midst of crossing the sea of suffering?
+['ZH_T55_2157_012:0861b01_11']	闇室猶昏燈炬斯掩。	闇室猶昏燈炬斯掩。	Is it not like a lamp suddenly extinguished in the midst of a dark room?
+['ZH_T55_2157_012:0861b01_19']	帝言已嗟惋不怡。	帝言已嗟惋不怡。	 Having finished speaking, the Emperor sighed with regret and was not at ease.
+['ZH_T55_2157_012:0861b02_14']	尋下　勅移神柩歸京安置慈恩寺。	尋下　勅移神柩歸京安置慈恩寺。	He then issued an edict to move the Dharma Master's coffin back to the capital and place it in Ci'en Temple.
+['ZH_T55_2157_012:0861b03_5']	葬事所須並令官給。	葬事所須並令官給。	All the necessary funeral expenses were to be provided by the government.
+['ZH_T55_2157_012:0861b04_4']	又　勅葬日聽京城僧尼幢蓋送至墓所。	又　勅葬日聽京城僧尼幢蓋送至墓所。	The edict also stated that on the day of the burial, monks and nuns from the capital could carry banners and canopies to the grave site.
+['ZH_T55_2157_012:0861b04_11']	法師道茂德高。	法師道茂德高。	The Dharma master's virtue was lofty and his path was extensive.
+['ZH_T55_2157_012:0861b05_6']	為明時痛惜故於亡後重疊降恩。	為明時痛惜故於亡後重疊降恩。	Because the bright times deeply cherished him, they bestowed heavy grace after his death.
+['ZH_T55_2157_012:0861b05_15']	求之古人無以加也。	求之古人無以加也。	Sought in the ancients, there is nothing to add to this.
+['ZH_T55_2157_012:0861b06_7']	於是素蓋素幢浮空雲合。	於是素蓋素幢浮空雲合。	Thus, a plain canopy and plain banner floated in the sky, and the clouds gathered.
+['ZH_T55_2157_012:0861b06_16']	哀笳哀梵氣遏人神。	哀笳哀梵氣遏人神。	The mournful music and mournful Sanskrit sound choked the spirits of humans and gods.
+['ZH_T55_2157_012:0861b07_4']	四俗以之悲涼。	四俗以之悲涼。	The four common people grieved and felt cool because of this.
+['ZH_T55_2157_012:0861b07_11']	七眾惜其沈沒。	七眾惜其沈沒。	The seven assemblies cherished his sinking.
+['ZH_T55_2157_012:0861b08_10']	以四月十五日葬於󱜔東白鹿原四十里中。	以四月十五日葬於󱜔東白鹿原四十里中。	On the fifteenth day of the fourth month, he was buried forty li east of Chang'an, on White Deer Plain.
+['ZH_T55_2157_012:0861b09_5']	皂素彌滿其塋與兄捷公相近。	皂素彌滿其塋與兄捷公相近。	The black and white crowds filled the tomb, close to his elder brother, the Duke of Jie.
+['ZH_T55_2157_012:0861b09_14']	苕然白塔近燭帝城。	苕然白塔近燭帝城。	The tall white pagoda was near the imperial city.
+['ZH_T55_2157_012:0861b10_4']	禁中多見時傷聖慮。	禁中多見時傷聖慮。	In the palace, it was often seen, hurting the sage's thoughts.
+['ZH_T55_2157_012:0861b10_14', 'ZH_T55_2157_012:0861b11_4']	至總章元年四月八日。🔽有勅改葬𮠏川北原。	至總章元年四月八日。 有勅改葬𮠏川北原。	In the first year of the Zongshen era, on the eighth day of the fourth month,🔽an edict was issued to change the burial to the northern plain of the river.
+['ZH_T55_2157_012:0861b11_18']	與州縣相知供給吏力乃又出之。	與州縣相知供給吏力乃又出之。	The county government provided official labor to take it out again.
+['ZH_T55_2157_012:0861b12_4']	眾咸歎異。	眾咸歎異。	The crowd all sighed in admiration.
+['ZH_T55_2157_012:0861b12_9']	經久埋瘞。	經久埋瘞。	After being buried for a long time,
+['ZH_T55_2157_012:0861b12_14']	色相如初。	色相如初。	the appearance was as before.
+['ZH_T55_2157_012:0861b13_1']	自非願力所持。	自非願力所持。	If it were not for the power of the vow,
+['ZH_T55_2157_012:0861b13_6']	焉能致此。	焉能致此。	how could it have been like this?
+['ZH_T55_2157_012:0861b14_3']	法師形長七尺板身赤白色眉目疎朗。	法師形長七尺板身赤白色眉目疎朗。	The master's body was seven chi tall, with a reddish-white complexion and sparse eyebrows and eyes.
+['ZH_T55_2157_012:0861b14_8', 'ZH_T55_2157_012:0861b14_13']	形貌端凝。🔽談論清華。	形貌端凝。 談論清華。	His appearance was dignified.🔽His discussions were elegant.
+['ZH_T55_2157_012:0861b14_18']	音詞遠暢。	音詞遠暢。	His voice was clear and far-reaching.
+['ZH_T55_2157_012:0861b15_4']	使聽者無倦。	使聽者無倦。	He made the listeners never tired.
+['ZH_T55_2157_012:0861b15_9', 'ZH_T55_2157_012:0861b15_14']	瞻者忘疲。🔽或處徒眾。	瞻者忘疲。 或處徒眾。	Those who looked at him forgot their fatigue.🔽Sometimes he was among the assembly,
+['ZH_T55_2157_012:0861b15_19']	或對嘉賓。	或對嘉賓。	sometimes facing distinguished guests.
+['ZH_T55_2157_012:0861b16_3']	一坐半日。	一坐半日。	Sitting for half a day,
+['ZH_T55_2157_012:0861b16_8']	終無傾動。	終無傾動。	he never swayed.
+['ZH_T55_2157_012:0861b16_13']	服止乾陀。	服止乾陀。	He wore a Gandhāran robe,
+['ZH_T55_2157_012:0861b16_18']	裁唯細㲲。	裁唯細㲲。	made only of fine cotton.
+['ZH_T55_2157_012:0861b17_7']	脩廣適中行步雍容。	脩廣適中行步雍容。	His gait was proper, neither too slow nor too fast.
+['ZH_T55_2157_012:0861b17_16']	直前而視輒不顧眄。	直前而視輒不顧眄。	He never looked sideways, but straight ahead.
+['ZH_T55_2157_012:0861b18_7']	滔滔焉若長江之紀地。	滔滔焉若長江之紀地。	He was like the long river marking the land,
+['ZH_T55_2157_012:0861b18_17']	灼灼焉類芙蕖之在水。	灼灼焉類芙蕖之在水。	shining like a lotus in the water.
+['ZH_T55_2157_012:0861b19_9']	加以戒範端凝始終如一。	加以戒範端凝始終如一。	Moreover, his precepts and deportment were dignified, and he was consistent from beginning to end.
+['ZH_T55_2157_012:0861b19_18']	愛惜之志過護浮囊。	愛惜之志過護浮囊。	His determination to cherish them was greater than guarding a life-saving raft.
+['ZH_T55_2157_012:0861b20_8']	持敬之堅超逾繫草。	持敬之堅超逾繫草。	His firm adherence to them surpassed even the binding of grass.
+['ZH_T55_2157_012:0861b20_17']	性愛怡簡不好交遊。	性愛怡簡不好交遊。	He loved simplicity and did not enjoy socializing.
+['ZH_T55_2157_012:0861b21_8']	一入道場非朝命不出。	一入道場非朝命不出。	Once he entered the monastery, he would not leave without a summons from the court.
+['ZH_T55_2157_012:0861b22_1']	又聞盛暑之辰體無霑液。	又聞盛暑之辰體無霑液。	It was also heard that during the hot summer months, his body did not sweat.
+['ZH_T55_2157_012:0861b22_10']	祁寒之際貌不慘悽。	祁寒之際貌不慘悽。	Even in the midst of severe cold, his appearance was not grim.
+['ZH_T55_2157_012:0861b23_1']	又不夭不申不欠不啑。	又不夭不申不欠不啑。	He neither shortened nor extended his limbs, nor did he yawn or sneeze.
+['ZH_T55_2157_012:0861b23_16']	斯蓋未詳其地位何賢聖之可格哉。	斯蓋未詳其地位何賢聖之可格哉。	This is probably because his stage of spiritual attainment is not yet known, and he is not comparable to any sages.
+['ZH_T55_2157_012:0861b24_9']	又北宮現疾之時徵應繁縟。	又北宮現疾之時徵應繁縟。	Moreover, when the Northern Palace was afflicted with illness, the omens were abundant.
+['ZH_T55_2157_012:0861b24_18']	將終之日色貌敷愉。	將終之日色貌敷愉。	On the day of his death, his complexion was relaxed and pleasant.
+['ZH_T55_2157_012:0861b25_6']	亦難得而測也。	亦難得而測也。	It is also difficult to fathom.
+['ZH_T55_2157_012:0861b26_1']	及終月餘有人齎栴檀末香至。	及終月餘有人齎栴檀末香至。	More than a month after his death, someone brought sandalwood powder incense.
+['ZH_T55_2157_012:0861b26_12']	請依西國法以塗三藏身。	請依西國法以塗三藏身。	They requested to apply it to the body of the Tripiṭaka master according to the Western methods.
+['ZH_T55_2157_012:0861b26_18']	眾咸莫之許。	眾咸莫之許。	The assembly all did not agree.
+['ZH_T55_2157_012:0861b27_4']	其人作色曰。	其人作色曰。	That person said with a sullen expression,
+['ZH_T55_2157_012:0861b27_11']	弟子別奉進止。	弟子別奉進止。	I will respectfully follow the instructions of the disciples.
+['ZH_T55_2157_012:0861b28_3']	師等若不許請錄狀以聞。	師等若不許請錄狀以聞。	If you masters do not agree, please record the situation and report it.
+['ZH_T55_2157_012:0861b28_13']	眾從之及開棺發殮已。	眾從之及開棺發殮已。	The assembly followed him. When they opened the coffin and removed the shroud,
+['ZH_T55_2157_012:0861b29_6']	人覺異香香等蓮花之氣。	人覺異香香等蓮花之氣。	people sensed a strange fragrance, equal to the scent of lotus flowers.
+['ZH_T55_2157_012:0861b29_11']	互相驚問。	互相驚問。	They looked at each other in surprise and asked,
+['ZH_T55_2157_012:0861b29_16']	皆云若茲。	皆云若茲。	All say it is like this.
+['ZH_T55_2157_012:0861c01_8']	向人徐併殮衣唯留襯服。	向人徐併殮衣唯留襯服。	The person slowly removed the shrouds and left only the undergarments.
+['ZH_T55_2157_012:0861c01_17']	眾覩三藏貌如生人。	眾覩三藏貌如生人。	The assembly saw that the Tripiṭaka master's appearance was as if he were alive.
+['ZH_T55_2157_012:0861c02_4']	皆號絕共視。	皆號絕共視。	They all cried out in unison and looked at him together.
+['ZH_T55_2157_012:0861c02_18']	向人塗香服殮蓋棺已俄失所在。	向人塗香服殮蓋棺已俄失所在。	After applying incense and clothing the body, the coffin was sealed. Suddenly, his whereabouts were unknown.
+['ZH_T55_2157_012:0861c03_5']	眾疑天人焉。	眾疑天人焉。	The assembly suspected he was a celestial being.
+['ZH_T55_2157_012:0861c03_16']	又其聽言觀行名實相守。	又其聽言觀行名實相守。	Moreover, his words and conduct were in accord with his name and reality.
+['ZH_T55_2157_012:0861c04_6']	精厲晨昏計時分業。	精厲晨昏計時分業。	He was diligent in the morning and evening, calculating the time and dividing his duties.
+['ZH_T55_2157_012:0861c04_15']	虔虔不懈專思法務。	虔虔不懈專思法務。	He was reverent and untiring, solely thinking of the Dharma.
+['ZH_T55_2157_012:0861c05_5']	言無名利行絕虛浮。	言無名利行絕虛浮。	His words were free from fame and profit, and his actions were devoid of falsehood.
+['ZH_T55_2157_012:0861c05_14']	曲識機緣善通物性。	曲識機緣善通物性。	He skillfully understood karmic conditions and was well-versed in the nature of things.
+['ZH_T55_2157_012:0861c06_5']	不倨不謟行藏適時。	不倨不謟行藏適時。	He was neither arrogant nor deceitful, but acted in a timely manner.
+['ZH_T55_2157_012:0861c06_14']	吐味幽深辯開疑議。	吐味幽深辯開疑議。	His teachings were profound and his explanations resolved doubts.
+['ZH_T55_2157_012:0861c07_3']	寔當代之英賢。	寔當代之英賢。	He was truly a brilliant man of the present age.
+['ZH_T55_2157_012:0861c07_11']	乃釋門之法將矣。	乃釋門之法將矣。	He was a Dharma general of the Buddhist gate.
+['ZH_T55_2157_012:0861c08_3']	且其發蒙入法特異常倫。	且其發蒙入法特異常倫。	Moreover, his enlightenment and entry into the Dharma were extraordinary.
+['ZH_T55_2157_012:0861c08_12']	聽覽經論用為恒任。	聽覽經論用為恒任。	He listened to and contemplated the sutras and treatises, taking them as his constant duty.
+['ZH_T55_2157_012:0861c09_3']	既周行東夏挹酌諸師。	既周行東夏挹酌諸師。	Having traveled throughout Eastern China, he consulted with various masters.
+['ZH_T55_2157_012:0861c09_12']	披露肝膽盡其精義。	披露肝膽盡其精義。	He revealed his thoughts and exhausted his refined meaning.
+['ZH_T55_2157_012:0861c10_4']	莫不傾倒林藪更親學府。	莫不傾倒林藪更親學府。	There was none who did not pour out his knowledge and personally accompany him to the academy.
+['ZH_T55_2157_012:0861c10_15']	遂能不遠數萬諮求勝法。	遂能不遠數萬諮求勝法。	He was finally able to travel tens of thousands of miles to seek the supreme Dharma.
+['ZH_T55_2157_012:0861c11_5']	誓捨形命必會為期。	誓捨形命必會為期。	He vowed to give up his body and life, and would definitely meet his goal.
+['ZH_T55_2157_012:0861c11_14']	發趾張掖途次龍沙。	發趾張掖途次龍沙。	He set out from Zhangye and passed through Longsha.
+['ZH_T55_2157_012:0861c12_4']	中途艱險身心僅絕。	中途艱險身心僅絕。	The journey was perilous, and his body and mind were nearly exhausted.
+['ZH_T55_2157_012:0861c12_13']	既達高昌倍光來價。	既達高昌倍光來價。	Having reached Gaochang, he doubled the price of the offerings.
+['ZH_T55_2157_012:0861c13_3']	傳國祖送備閱雲儀。	傳國祖送備閱雲儀。	The National Preceptor sent him off with all the cloud-like offerings.
+['ZH_T55_2157_012:0861c13_10']	路出鐵門石門。	路出鐵門石門。	He passed through the Iron Gate and the Stone Gate.
+['ZH_T55_2157_012:0861c13_17', 'ZH_T55_2157_012:0861c14_7']	躬乘沙嶺雪嶺。🔽歷天險而志逾慷慨。	躬乘沙嶺雪嶺。 歷天險而志逾慷慨。	He personally rode through the Sand Ridge and the Snow Ridge.🔽Despite the treacherous paths, his determination was even more resolute.
+['ZH_T55_2157_012:0861c14_16']	遭凶賊而神彌厲勇。	遭凶賊而神彌厲勇。	Even when encountering violent bandits, his spirit became even more courageous.
+['ZH_T55_2157_012:0861c15_8']	兼以歸稟正教師承戒賢。	兼以歸稟正教師承戒賢。	Moreover, he received the correct teaching from his teacher, who transmitted the precepts of Xuanzang.
+['ZH_T55_2157_012:0861c15_17']	現逐言揚義非再授。	現逐言揚義非再授。	He was able to expound the meaning of the teachings without being taught twice.
+['ZH_T55_2157_012:0861c16_7']	廣聞異論包藏胸臆。	廣聞異論包藏胸臆。	He extensively heard various theories and stored them in his mind.
+['ZH_T55_2157_012:0861c16_18']	致使梵侶傾心不遺其法。	致使梵侶傾心不遺其法。	This caused the Indian monks to wholeheartedly not abandon his teachings.
+['ZH_T55_2157_012:0861c17_10']	又以起信一論文出馬鳴。	又以起信一論文出馬鳴。	Moreover, the treatise Awakening of Faith was composed by Aśvaghoṣa.
+['ZH_T55_2157_012:0861c18_1']	印度諸僧思承其本。	印度諸僧思承其本。	The Indian monks all wanted to receive its original text.
+['ZH_T55_2157_012:0861c18_12']	奘乃譯唐為梵通布五天。	奘乃譯唐為梵通布五天。	Xuanzang then translated it from Tang into Sanskrit and circulated it throughout the five regions of India.
+['ZH_T55_2157_012:0861c19_4']	斯則法化之緣東西互舉。	斯則法化之緣東西互舉。	This is the mutual promotion of the Dharma teachings between the East and the West.
+['ZH_T55_2157_012:0861c19_14']	又西華餘論深尚聲明。	又西華餘論深尚聲明。	Moreover, the remaining theories of the Western Regions highly valued the study of sound.
+['ZH_T55_2157_012:0861c20_6']	奘乃卑心請決隨授隨曉。	奘乃卑心請決隨授隨曉。	Xuanzang humbly requested instruction and understood it as he was taught.
+['ZH_T55_2157_012:0861c20_17']	致有七變其勢動發異蹤。	致有七變其勢動發異蹤。	This resulted in seven changes in its form, with different traces emerging.
+['ZH_T55_2157_012:0861c21_7']	三修廣論恢張懷抱。	三修廣論恢張懷抱。	The three cultivations and extensive discussions expand the mind.
+['ZH_T55_2157_012:0861c22_8']	故得施無厭寺三千學僧皆號智囊護持城塹。	故得施無厭寺三千學僧皆號智囊護持城塹。	Therefore, the 3,000 monks of Shiwuyan Temple are all called wise counselors and upholders of the city's ramparts.
+['ZH_T55_2157_012:0861c23_1']	及覩其脣吻聽其詞義。	及覩其脣吻聽其詞義。	And seeing his lips and hearing his words and meanings,
+['ZH_T55_2157_012:0861c23_7']	皆彈指讚歎。	皆彈指讚歎。	They all snap their fingers and praise.
+['ZH_T55_2157_012:0861c23_12']	何斯人也。	何斯人也。	What kind of person is this?
+['ZH_T55_2157_012:0861c24_4']	其遊歷塞外海東百三十國。	其遊歷塞外海東百三十國。	He traveled to 130 countries outside the pass and in the East Sea.
+['ZH_T55_2157_012:0861c24_13']	道俗邪正承其名者。	道俗邪正承其名者。	Monks and laypeople, whether heretical or orthodox, who follow his name,
+['ZH_T55_2157_012:0861c25_5']	莫不仰德歸依更崇開信。	莫不仰德歸依更崇開信。	None do not look up to his virtue and take refuge in him, further promoting faith.
+['ZH_T55_2157_012:0861c26_6']	可以家國增榮光宅推遠獻奉歲至咸奘之功。	可以家國增榮光宅推遠獻奉歲至咸奘之功。	This can increase the glory of the family and country, and promote the distant offerings of the years, all due to Xuanzang's merit.
+['ZH_T55_2157_012:0861c26_17']	若非天挺英靈生知聖授。	若非天挺英靈生知聖授。	If it were not for the heaven-born hero, born with the sage's bestowal,
+['ZH_T55_2157_012:0861c27_5']	何能振斯鴻緒。	何能振斯鴻緒。	How could he carry on this great legacy,
+['ZH_T55_2157_012:0861c27_10']	導達遺蹤。	導達遺蹤。	Guiding and reaching the remaining traces?
+['ZH_T55_2157_012:0861c27_19']	前後僧傳往天竺者。	前後僧傳往天竺者。	In the past, those who went to India in the biographies of monks,
+['ZH_T55_2157_012:0861c28_12']	首自法顯法勇終于道邃道生。	首自法顯法勇終于道邃道生。	Starting from Faxian and Fawang, ending with Daosui and Daosheng,
+['ZH_T55_2157_012:0861c29_3']	相繼中途一十七返。	相繼中途一十七返。	Succession of seventeen returns halfway.
+['ZH_T55_2157_012:0862a01_4']	取其通言華梵妙達文筌揚導國風開悟邪正。	取其通言華梵妙達文筌揚導國風開悟邪正。	Taking their common words, the wonderful understanding of Sanskrit and the promotion of the national style to enlighten the heretical and correct,
+['ZH_T55_2157_012:0862a01_11']	莫高於法師矣。	莫高於法師矣。	None are higher than the Dharma Master!
+['ZH_T55_2157_012:0862a02_3']	恨其經部不翻其數猶眾。	恨其經部不翻其數猶眾。	Regretting that the number of sūtras not translated by the Tripiṭaka was still great.
+['ZH_T55_2157_012:0862a02_12']	年未遲暮足得出之。	年未遲暮足得出之。	Since he was not yet old, he could have completed the translation.
+['ZH_T55_2157_012:0862a02_19']	無常奄及惜哉。	無常奄及惜哉。	Alas, impermanence suddenly took him.
+['ZH_T55_2157_012:0862a03_1']	至。	至。	Arrived.
+['ZH_T55_2157_012:0862a04_16']	肅宗文明武德大聖大宣孝皇帝有　勅。	肅宗文明武德大聖大宣孝皇帝有　勅。	By imperial decree of the sagacious and cultured, martial and virtuous, great sage, great propagator of filial piety Emperor Xuanzong.
+['ZH_T55_2157_012:0862a05_9']	於塔塋所置大唐興教寺。	於塔塋所置大唐興教寺。	A Great Tang Propagation of the Teachings Monastery was established at the tomb site.
+['ZH_T55_2157_012:0862a05_16']	以旌傳譯之功。	以旌傳譯之功。	To proclaim the merit of the transmission and translation.
+['ZH_T55_2157_012:0862a07_16', 'ZH_T55_2157_012:0862a18_11_0']	垂芳不朽時至德三載歲在戊戌二月五日改為乾元元年八月二日勅內出寺額度僧七人至十二月日白黑奉迎大唐興教寺額至於鬱川寺所安置耳。🔽四分律刪補隨機羯磨一卷序題云曇無德部四分	垂芳不朽時至德三載歲在戊戌二月五日改為乾元元年八月二日勅內出寺額度僧七人至十二月日白黑奉迎大唐興教寺額至於鬱川寺所安置耳。 四分律刪補隨機羯磨一卷序題云曇無德部四分	The fragrance is passed down without decay. At the time, in the third year of the Zhide era, in the year of wuxu, on the fifth day of the second month, it was changed to the first year of the Ganyuan era. On the second day of the eighth month, by imperial decree, seven monks were ordained and brought out of the monastery. On the day of the twelfth month, the clergy and laity welcomed the plaque of the Great Tang Propagation of the Teachings Monastery and placed it in the Utchuan Monastery.🔽The Saṃghabhedavastu of the Mūlasarvâstivāda, 1 fascicle, also called the Saṃghabhedavastu of the Mūlasarvâstivāda, translated by Yijing, the same as the one in the Kaiyuan Catalog
+['ZH_T55_2157_012:0862a18_11_1', 'ZH_T55_2157_012:0862a18_11_2']	律刪補隨機羯磨見內典錄釋迦氏略譜一卷或無🔽略字見內典錄麟德二年九月十八日於西明寺撰	律刪補隨機羯磨見內典錄釋迦氏略譜一卷或無🔽略字見內典錄麟德二年九月十八日於西明寺撰	The Saṃghabhedavastu of the Mūlasarvâstivāda, 1 fascicle, also called the Saṃghabhedavastu of the Mūlasarvâstivāda, translated by Yijing, the same as the one in the Kaiyuan Catalog🔽The Saṃghabhedavastu of the Mūlasarvâstivāda, 1 fascicle, also called the Saṃghabhedavastu of the Mūlasarvâstivāda, translated by Yijing, the same as the one in the Kaiyuan Catalog🔽The Saṃghabhedavastu of the Mūlasarvâstivāda, 1 fascicle, also called the Saṃghabhedavastu of the Mūlasarvâstivāda, translated by Yijing, the same as the one in the Kaiyuan Catalog
+['ZH_T55_2157_012:0862a18_11_3']	記釋迦方志二卷見內典錄永徽元年撰大唐內典	記釋迦方志二卷見內典錄永徽元年撰大唐內典	Record and Commentary on the Regions of Śākyamuni, 2 fascicles, seen in the Buddhist Catalogue, compiled in the first year of Yong-hui, Great Tang Buddhist Catalogue
+['ZH_T55_2157_012:0862a18_11_4']	錄十卷見內典錄麟德元年於西明寺譯集古今佛	錄十卷見內典錄麟德元年於西明寺譯集古今佛	10 fascicles, seen in the Buddhist Catalogue, translated at Ximing Temple in the first year of Linde, Collection of Ancient and Modern Buddhist
+['ZH_T55_2157_012:0862a18_11_5', 'ZH_T55_2157_012:0862a18_11_6']	道論衡實錄四卷見內典錄麟德元年龍朔元年於🔽西明寺撰第四卷麟德元年撰或三卷東夏三寶感	道論衡實錄四卷見內典錄麟德元年龍朔元年於 西明寺撰第四卷麟德元年撰或三卷東夏三寶感	Discussions and True Records, 4 fascicles, seen in the Buddhist Catalogue, written in the first year of Linde and the first year of Long-shuo at
+['ZH_T55_2157_012:0862a18_11_7', 'ZH_T55_2157_012:0862a18_11_8']	通錄三卷亦云集神州三寶感通錄見內典錄麟德🔽元年撰續高僧傳三十卷見內典錄廣弘明集三十	通錄三卷亦云集神州三寶感通錄見內典錄麟德 元年撰續高僧傳三十卷見內典錄廣弘明集三十	Ximing Temple, the fourth fascicle written in the first year of Linde, sometimes 3 fascicles, Record of the Miraculous Responses of the Three Jewels in Eastern Xia, 3 fascicles, also called Collection of the Miraculous Responses of the Three Jewels in China, seen in the Buddhist Catalogue, written in the first year of Linde
+['ZH_T55_2157_012:0862a18_11_9']	卷見內典錄右八部八十一卷其本並在。	卷見內典錄右八部八十一卷其本並在。	Continued Biographies of Eminent Monks, 30 fascicles, seen in the Buddhist Catalogue, Guang Hongming Ji, 30 fascicles, seen in the Buddhist Catalogue, the originals of the above 8 parts in 81 fascicles are all here.
+['ZH_T55_2157_012:0862a19_5']	沙門釋道宣。	沙門釋道宣。	Śramaṇa Shi Daoxuan.
+['ZH_T55_2157_012:0862a19_10']	俗姓錢氏。	俗姓錢氏。	His secular surname is Qian.
+['ZH_T55_2157_012:0862a19_15']	吳興人也。	吳興人也。	He is from Wuxing.
+['ZH_T55_2157_012:0862a20_1']	彭祖之後胤。	彭祖之後胤。	He is a descendant of Pengzu.
+['ZH_T55_2157_012:0862a20_11']	宣少尋教相長慕尋師。	宣少尋教相長慕尋師。	Daoxuan studied the teachings when young and admired seeking teachers when he grew up.
+['ZH_T55_2157_012:0862a21_1']	關之東西河之南北。	關之東西河之南北。	The east and west of Guanzhong, the south and north of Hedong.
+['ZH_T55_2157_012:0862a21_10']	追訪賢友無憚苦辛。	追訪賢友無憚苦辛。	He diligently sought out wise friends without tiring of the hardships.
+['ZH_T55_2157_012:0862a21_19']	外博九流內釋三學。	外博九流內釋三學。	Outwardly he was well-versed in the Nine Schools, inwardly he mastered the Three Learnings.
+['ZH_T55_2157_012:0862a22_8']	戒香芬潔定水澄漪。	戒香芬潔定水澄漪。	The fragrance of precepts was pure and clean, the water of concentration was calm and rippling.
+['ZH_T55_2157_012:0862a22_17']	存護法城著述無輟。	存護法城著述無輟。	He preserved and protected the Dharma city, composing without cease.
+['ZH_T55_2157_012:0862a23_7']	尤工律藏刪補章儀。	尤工律藏刪補章儀。	He was especially skilled in the Vinaya Piṭaka, revising and supplementing the ritual procedures.
+['ZH_T55_2157_012:0862a23_17']	常於終南山以堅其志。	常於終南山以堅其志。	He always stayed on Zhongnan Mountain to strengthen his resolve.
+['ZH_T55_2157_012:0862a24_7']	凡所修撰並行於代。	凡所修撰並行於代。	All that he composed circulated in the world.
+['ZH_T55_2157_012:0862a24_16']	護法經要此錄載之。	護法經要此錄載之。	The Essentials of the Dharma-Protecting Sūtras are listed in this catalog.
+['ZH_T55_2157_012:0862a25_7']	餘別行門在於內典錄。	餘別行門在於內典錄。	The other separately circulated texts are in the Catalog of Inner Scriptures.
+['ZH_T55_2157_012:0862a26_8']	貞觀末年方事修緝撰四分刪補羯磨等八部。	貞觀末年方事修緝撰四分刪補羯磨等八部。	In the end of the Zhenguan era, he was engaged in cultivation and composition, writing the Saṃghabhedavastu-vinaya-kṣudraka-vastu-karma-aṣṭa-grantha, etc., in eight parts.
+['ZH_T55_2157_012:0862a27_4']	內典錄中更有後續高僧傳十卷。	內典錄中更有後續高僧傳十卷。	In the Catalog of Inner Scriptures, there is also the Continuation of the Biographies of Eminent Monks in Ten Volumes.
+['ZH_T55_2157_012:0862a27_11']	尋本未獲故闕。	尋本未獲故闕。	I have not yet found the original text, so it is missing.
+['ZH_T55_2157_012:0862b02_11']	一切經音義二十五卷見內典錄右一部二十五卷其本見在。	一切經音義二十五卷見內典錄右一部二十五卷其本見在。	The Sounds and Meanings of All Scriptures in Twenty-Five Volumes are listed in the Catalog of Inner Scriptures. The above one work in twenty-five volumes is extant.
+['ZH_T55_2157_012:0862b03_5', 'ZH_T55_2157_012:0862b03_15']	沙門釋玄應。🔽大慈恩寺翻經沙門也。	沙門釋玄應。 大慈恩寺翻經沙門也。	Śramaṇa Shi Xuan-ying.🔽He is a monk who translates sūtras at the Great Ci'en Monastery.
+['ZH_T55_2157_012:0862b04_7']	博聞強記鏡林苑之宏標。	博聞強記鏡林苑之宏標。	He is widely learned and has a strong memory, reflecting the grand banner of the Lin Garden.
+['ZH_T55_2157_012:0862b04_18']	窮討本支通古今之五體。	窮討本支通古今之五體。	Thoroughly investigating the origins and branches, it unifies the five forms of writing from ancient times to the present.
+['ZH_T55_2157_012:0862b05_10']	故能讎校源流勘閱時代。	故能讎校源流勘閱時代。	Thus, it can compare the sources and streams, and examine the eras.
+['ZH_T55_2157_012:0862b06_5']	刪雅古之野素削澆薄之浮雜。	刪雅古之野素削澆薄之浮雜。	It deletes the rustic and simple of the past, and cuts out the frivolous and mixed of the decadent.
+['ZH_T55_2157_012:0862b06_12']	悟通俗而顯教。	悟通俗而顯教。	It awakens to the common language and reveals the teachings.
+['ZH_T55_2157_012:0862b07_1']	舉集略而勝美。	舉集略而勝美。	It takes the collected essentials and surpasses the beautiful.
+['ZH_T55_2157_012:0862b07_10']	真可謂文字之鴻囿。	真可謂文字之鴻囿。	It can truly be called the great garden of written characters.
+['ZH_T55_2157_012:0862b07_18']	言音之龜鏡者也。	言音之龜鏡者也。	The tortoise mirror of spoken sounds.
+['ZH_T55_2157_012:0862b08_10', 'ZH_T55_2157_012:0862b09_1', 'ZH_T55_2157_012:0862b09_14']	以貞觀之末勅召參傳綜經。🔽理經正緯咨為實錄。🔽因譯尋閱捃拾藏經為之音義。	以貞觀之末勅召參傳綜經。 理經正緯咨為實錄。 因譯尋閱捃拾藏經為之音義。	At the end of the Zhenguan era, he was summoned by imperial decree to participate in the transmission and collation of the sutras.🔽He examined the principles of the sutras and the weft texts, and consulted them as real records.🔽He translated and examined them, and collected the sutras as sound and meaning.
+['ZH_T55_2157_012:0862b10_4']	注釋訓解援引群籍。	注釋訓解援引群籍。	He annotated and explained them, citing various scriptures.
+['ZH_T55_2157_012:0862b10_13']	證據卓明煥然可領。	證據卓明煥然可領。	The evidence is clearly established, and it can be fully understood.
+['ZH_T55_2157_012:0862b11_8']	昔高齊沙門釋道慧為一切經音。	昔高齊沙門釋道慧為一切經音。	In the past, during the Gao-Qi period, the monk Shi Dao-Hui made the sounds for all sutras.
+['ZH_T55_2157_012:0862b11_17']	依字置反曾無追顧。	依字置反曾無追顧。	He placed the tones according to the characters, never looking back.
+['ZH_T55_2157_012:0862b12_7']	致失教義寔迷匡俗。	致失教義寔迷匡俗。	This resulted in the loss of the meaning of the teachings and the real confusion of guiding the secular world.
+['ZH_T55_2157_012:0862b12_16']	應所作者全異恒倫。	應所作者全異恒倫。	What should be done is completely different from the usual.
+['ZH_T55_2157_012:0862b13_6']	徵覈本據務在實錄。	徵覈本據務在實錄。	The basis for investigation is in the real records.
+['ZH_T55_2157_012:0862b13_13']	即萬代之師宗。	即萬代之師宗。	It is the teacher and patriarch of the myriad generations.
+['ZH_T55_2157_012:0862b14_2']	亦當朝之難偶也。	亦當朝之難偶也。	It is also a difficult coincidence in the morning.
+['ZH_T55_2157_012:0862b14_12']	恨敘綴纔了未及覆疎。	恨敘綴纔了未及覆疎。	I regret that the narration was barely completed and has not yet been revised.
+['ZH_T55_2157_012:0862b14_19']	遂從物故惜哉。	遂從物故惜哉。	It is a pity that it was subsequently lost.
+['ZH_T55_2157_012:0862b16_9']	古今譯經圖紀四卷右一部四卷其本見在。	古今譯經圖紀四卷右一部四卷其本見在。	The Illustrated Records of the Translation of Scriptures through the Ages in four fascicles, a total of four fascicles, the original text is extant.
+['ZH_T55_2157_012:0862b17_5']	沙門釋靖邁。	沙門釋靖邁。	Śramaṇa Shi Jingmai.
+['ZH_T55_2157_012:0862b17_10']	簡州人也。	簡州人也。	He was a person from Jianzhou.
+['ZH_T55_2157_012:0862b17_16']	以博學馳譽。	以博學馳譽。	He was renowned for his extensive learning.
+['ZH_T55_2157_012:0862b18_6']	大唐三藏翻譯眾經。	大唐三藏翻譯眾經。	The Tripiṭaka Master of the Great Tang translated various sūtras.
+['ZH_T55_2157_012:0862b18_13']	召充綴文大德。	召充綴文大德。	He was summoned to serve as the great virtuous one who compiled the texts.
+['ZH_T55_2157_012:0862b19_4']	後大慈恩寺翻經堂中。	後大慈恩寺翻經堂中。	Later, in the translation hall of the Great Ci'en Monastery,
+['ZH_T55_2157_012:0862b19_13']	壁畫古來傳譯緇素。	壁畫古來傳譯緇素。	the murals depicted the monks and laypeople who had transmitted and translated in the past.
+['ZH_T55_2157_012:0862b20_3']	靖邁於是緝維其事。	靖邁於是緝維其事。	Jingmai then compiled and edited their deeds.
+['ZH_T55_2157_012:0862b20_12']	撰成圖紀題之于壁。	撰成圖紀題之于壁。	He wrote the Illustrated Records and titled it on the wall.
+['ZH_T55_2157_012:0862b21_4']	但略費長房錄續逮皇朝。	但略費長房錄續逮皇朝。	However, he briefly continued the record of Fei Changfang and continued to the imperial court.
+['ZH_T55_2157_012:0862b21_13']	直述譯經餘無所紀。	直述譯經餘無所紀。	He only recorded the remaining translations of the sūtras and did not record anything else.
+['ZH_T55_2157_012:0862b29_9']	千眼千臂觀世音菩薩陀羅尼神呪經二卷或一卷貞觀中在內譯初出與流志千手千眼身經同本波崙製序千囀陀羅尼觀世音菩薩呪經一卷或無經字永徽四年於總持寺譯觀自在菩薩隨心呪經一卷亦云多唎心經永徽四年於總持寺譯清淨觀世音普賢陀羅尼經一卷永徽四年於總持寺譯見大周錄右四部五卷其本並在。	千眼千臂觀世音菩薩陀羅尼神呪經二卷或一卷貞觀中在內譯初出與流志千手千眼身經同本波崙製序千囀陀羅尼觀世音菩薩呪經一卷或無經字永徽四年於總持寺譯觀自在菩薩隨心呪經一卷亦云多唎心經永徽四年於總持寺譯清淨觀世音普賢陀羅尼經一卷永徽四年於總持寺譯見大周錄右四部五卷其本並在。	Thousand-eyed and Thousand-armed Avalokiteśvara Bodhisattva Dhāraṇī Sūtra in two fascicles, sometimes one fascicle, translated inside during the Zhenguan period, first issued, the same text as the Thousand Hands and Thousand Eyes Body Sūtra translated by Yijing, with a preface written by Pūrṇavardhana Thousand-syllable Dhāraṇī Avalokiteśvara Bodhisattva Dhāraṇī Sūtra in one fascicle, sometimes without the word sūtra, translated in the fourth year of the Yong徽 era at Zongchi Temple Avalokitêśvara Bodhisattva's Heart Dhāraṇī Sūtra in one fascicle, also called Tārā's Heart Sūtra, translated in the fourth year of the Yong徽 era at Zongchi Temple Pure Avalokiteśvara Samantabhadra Dhāraṇī Sūtra in one fascicle, translated in the fourth year of the Yong徽 era at Zongchi Temple, seen in the Great Zhou Catalogue, a total of four texts in five fascicles, the originals are all present.
+['ZH_T55_2157_012:0862c01_5']	沙門釋智通。	沙門釋智通。	Śramaṇa Shi Zhitong.
+['ZH_T55_2157_012:0862c01_14']	律行清高兼明經論。	律行清高兼明經論。	His Vinaya practice was pure and lofty, and he also understood the scriptures and treatises.
+['ZH_T55_2157_012:0862c02_4']	於總持門特所留意。	於總持門特所留意。	He was particularly attentive to the dhāraṇī gate.
+['ZH_T55_2157_012:0862c02_14']	通以隋大業年中出家。	通以隋大業年中出家。	Zhitong left home during the Dàyè era of the Sui dynasty.
+['ZH_T55_2157_012:0862c03_2']	住京大總持寺。	住京大總持寺。	He resided at Dà Zōngchí Temple in the capital.
+['ZH_T55_2157_012:0862c03_8']	有遊方之志。	有遊方之志。	He had the ambition to travel around.
+['ZH_T55_2157_012:0862c04_1']	遂於洛京翻經館學梵書語。	遂於洛京翻經館學梵書語。	So he studied Sanskrit writing and language at the Translation Institute in Luoyang.
+['ZH_T55_2157_012:0862c04_6']	早通精奧。	早通精奧。	He became well-versed in the profound teachings at an early age.
+['ZH_T55_2157_012:0862c04_16']	唐貞觀中有北天竺僧。	唐貞觀中有北天竺僧。	During the Zhenguan era of the Tang Dynasty, there was a monk from northern India.
+['ZH_T55_2157_012:0862c05_9']	齎千臂千眼經梵本奉進文帝。	齎千臂千眼經梵本奉進文帝。	He brought a Sanskrit version of the Thousand-Armed and Thousand-Eyed Sutra and presented it to Emperor Wen.
+['ZH_T55_2157_012:0862c06_1']	勅通共梵僧相對譯出。	勅通共梵僧相對譯出。	The emperor ordered him to translate it together with the Indian monk.
+['ZH_T55_2157_012:0862c06_6']	勒成二卷。	勒成二卷。	It was compiled into two fascicles.
+['ZH_T55_2157_012:0862c06_17']	後於天皇永徽四年癸丑。	後於天皇永徽四年癸丑。	Later, in the fourth year of the Yonghui era of Emperor Tianhuang, the Gui Chou year,
+['ZH_T55_2157_012:0862c07_11']	於總持寺又出千囀等經三部。	於總持寺又出千囀等經三部。	he also translated three sutras including the Thousand-Voiced Sutra at Zongchi Temple.
+['ZH_T55_2157_012:0862c10_9']	千手千眼觀世音菩薩廣大圓滿無礙大悲心陀羅尼經一卷右一部一卷其本見在。	千手千眼觀世音菩薩廣大圓滿無礙大悲心陀羅尼經一卷右一部一卷其本見在。	The Thousand-Armed and Thousand-Eyed Avalokitesvara Bodhisattva's Vast, Perfect, Unimpeded Great Compassion Mind Dharani Sutra, one fascicle. The original text of this one sutra in one fascicle is extant.
+['ZH_T55_2157_012:0862c11_6']	沙門伽梵達摩。	沙門伽梵達摩。	Shaman Gavampata.
+['ZH_T55_2157_012:0862c11_11']	此云尊法。	此云尊法。	This means Venerable Dharma.
+['ZH_T55_2157_012:0862c11_17']	西印度人也。	西印度人也。	He was from western India.
+['ZH_T55_2157_012:0862c12_9']	譯千手千眼大悲心經一卷。	譯千手千眼大悲心經一卷。	He translated the Thousand-Armed and Thousand-Eyed Sutra of Great Compassion in one fascicle.
+['ZH_T55_2157_012:0862c13_7']	然題云西天竺伽梵達摩譯不標年代。	然題云西天竺伽梵達摩譯不標年代。	However, the title says it was translated by Gavampata of the Western Regions, without specifying the year.
+['ZH_T55_2157_012:0862c14_1']	推其本末似是　皇朝新譯。	推其本末似是　皇朝新譯。	Judging from its origins, it seems to be a new translation of the Imperial Dynasty.
+['ZH_T55_2157_012:0862c14_12']	但以傳法之士隨緣利見。	但以傳法之士隨緣利見。	However, the practitioners who transmit the Dharma benefit others according to conditions.
+['ZH_T55_2157_012:0862c15_2']	出經流布更適餘方。	出經流布更適餘方。	The sutras they produce and disseminate may reach other places.
+['ZH_T55_2157_012:0862c15_13']	既不記年號故莫知近遠。	既不記年號故莫知近遠。	Since the year and reign period are not recorded, it is unknown how long ago it was.
+['ZH_T55_2157_012:0862c16_4']	昇親問梵僧云有梵本。	昇親問梵僧云有梵本。	Ascending, he personally asked the Indian monk if there was an Indian version.
+['ZH_T55_2157_012:0862c16_13']	既非謬妄故載斯錄。	既非謬妄故載斯錄。	Since it is not false, it is recorded in this catalog.
+['ZH_T55_2157_012:0862c17_6']	准千臂經序亦云智通共出。	准千臂經序亦云智通共出。	According to the preface to the Thousand-Armed Sutra, it is also said to have been translated together by Zhitong.
+['ZH_T55_2157_012:0862c20_11']	陀羅尼集經十二卷見大周錄永徽四年三月十四日於慧日寺譯至五年四月十五日畢沙門玄楷筆受右一部一十二卷其本見在。	陀羅尼集經十二卷見大周錄永徽四年三月十四日於慧日寺譯至五年四月十五日畢沙門玄楷筆受右一部一十二卷其本見在。	Dhāraṇī Collection Sūtra in 12 fascicles, seen in the Great Zhou Catalog, translated at Huirisi Temple on March 14, 4th year of Yonghui, completed on April 15, 5th year, recorded by Śramaṇa Xuankai. The original text is in 12 fascicles.
+['ZH_T55_2157_012:0862c21_6']	沙門阿地瞿多。	沙門阿地瞿多。	Śramaṇa Atigupta.
+['ZH_T55_2157_012:0862c21_12']	唐言無極高。	唐言無極高。	In Chinese, it means Supremely High.
+['ZH_T55_2157_012:0862c21_17']	中印度人。	中印度人。	He was from Central India.
+['ZH_T55_2157_012:0862c22_7']	學窮滿字行潔圓珠。	學窮滿字行潔圓珠。	He studied the full range of letters and his conduct was as pure as a perfect pearl.
+['ZH_T55_2157_012:0862c22_16', 'ZH_T55_2157_012:0862c23_8']	精練五明妙通三藏。🔽加以大士利生無悋鄉國。	精練五明妙通三藏。 加以大士利生無悋鄉國。	He was well-versed in the five fields of knowledge and had a profound understanding of the Tripiṭaka.
+['ZH_T55_2157_012:0862c23_17']	志弘像教罔懼艱險。	志弘像教罔懼艱險。	Moreover, he was a great being who benefited sentient beings without stinginess, and his mind was to spread the image teaching without fearing difficulties.
+['ZH_T55_2157_012:0862c24_8']	遂西踰雪嶺東越沙河。	遂西踰雪嶺東越沙河。	He then crossed the Snow Mountains in the west and went beyond the deserts in the east.
+['ZH_T55_2157_012:0862c24_18']	載歷艱危來儀　帝闕。	載歷艱危來儀　帝闕。	He went through hardships and arrived at the imperial capital.
+['ZH_T55_2157_012:0862c25_12']	以　天皇永徽三年壬子正月。	以　天皇永徽三年壬子正月。	In the third year of Yonghui, the year jiazi of the Heavenly Emperor, January.
+['ZH_T55_2157_012:0862c26_11']	廣將梵本來屆長安　勅令慈恩寺安置。	廣將梵本來屆長安　勅令慈恩寺安置。	He widely brought the Sanskrit scriptures to Chang'an, and was ordered to be housed in Ci'en Temple.
+['ZH_T55_2157_012:0862c27_4']	沙門大乘琮等一十六人。	沙門大乘琮等一十六人。	Sixteen monks, including Da Cheng Cong,
+['ZH_T55_2157_012:0862c27_14']	英公鄂公等一十二人。	英公鄂公等一十二人。	and twelve people, including Duke Ying and Duke E,
+['ZH_T55_2157_012:0862c28_5']	請高於慧日寺浮圖院。	請高於慧日寺浮圖院。	invited Gao to the Fotu Courtyard of Huiri Temple.
+['ZH_T55_2157_012:0862c28_14']	建陀羅尼普集會壇。	建陀羅尼普集會壇。	He established the Dhāraṇī Universal Assembly Altar.
+['ZH_T55_2157_012:0862c29_2']	所須並皆供辦。	所須並皆供辦。	All the necessary supplies were provided.
+['ZH_T55_2157_012:0862c29_11']	法成之日屢降靈異。	法成之日屢降靈異。	On the day of the Dharma's completion, many spiritual wonders descended.
+['ZH_T55_2157_012:0863a01_1']	京中道俗咸歎希逢。	京中道俗咸歎希逢。	Monks and laypeople in the capital all marveled at the rare encounter.
+['ZH_T55_2157_012:0863a01_14']	沙門玄楷等遂固請翻其法本。	沙門玄楷等遂固請翻其法本。	Monk Xuan Kai and others then firmly requested the translation of the Dharma scriptures.
+['ZH_T55_2157_012:0863a02_7']	後以四年癸丑至五年甲寅。	後以四年癸丑至五年甲寅。	Later, from the fourth year (412 CE), the year of Gui Chou, to the fifth year (413 CE), the year of Jia Yin,
+['ZH_T55_2157_012:0863a03_11']	於慧日寺從金剛大道場經中要鈔譯集成一十二卷。	於慧日寺從金剛大道場經中要鈔譯集成一十二卷。	at Huiri Temple, he translated the essential excerpts from the Vajra Great Ritual Altar Sutra into twelve fascicles.
+['ZH_T55_2157_012:0863a04_1']	沙門玄楷等筆受。	沙門玄楷等筆受。	Monk Xuan Kai and others took down the dictation.
+['ZH_T55_2157_012:0863a05_5']	于時有中印度大菩提寺僧阿難律木叉師迦葉師等。	于時有中印度大菩提寺僧阿難律木叉師迦葉師等。	At that time, there were monks from Mahābodhi Temple in Central India, Ānanda, Lü Muchakashi, and Kāśyapa, etc.
+['ZH_T55_2157_012:0863a05_15']	於經行寺譯功德天法。	於經行寺譯功德天法。	They translated the method of Gongde Tian at Jingxing Temple.
+['ZH_T55_2157_012:0863a06_5']	編在集經第十卷內。	編在集經第十卷內。	It is included in the tenth fascicle of the collected sutras.
+['ZH_T55_2157_012:0863a06_11']	故不別存也。	故不別存也。	Therefore, it is not separately preserved.
+['ZH_T55_2157_012:0863a08_10']	諸經要集二十卷顯慶四年西明寺撰右一部二十卷其本見在。	諸經要集二十卷顯慶四年西明寺撰右一部二十卷其本見在。	The Essential Collection of Various Sutras in twenty fascicles, compiled at Ximing Temple in the fourth year of Xianqing. The above one work in twenty fascicles still exists.
+['ZH_T55_2157_012:0863a09_5']	沙門釋玄惲。	沙門釋玄惲。	Shaman Shi Xuanhun.
+['ZH_T55_2157_012:0863a09_10']	本名世道。	本名世道。	Originally named Shidao.
+['ZH_T55_2157_012:0863a10_1']	律學高譽謨重前良。	律學高譽謨重前良。	He was highly regarded for his Vinaya studies and was respected by the previous sages.
+['ZH_T55_2157_012:0863a10_6']	綴緝為務。	綴緝為務。	He made compiling and editing his task.
+['ZH_T55_2157_012:0863a10_15']	兼有鈔疏注解眾經。	兼有鈔疏注解眾經。	He also wrote commentaries and annotations for various sutras.
+['ZH_T55_2157_012:0863a11_4']	西明創居召為大德。	西明創居召為大德。	When Ximing Temple was first established, he was summoned to be a great virtuous one.
+['ZH_T55_2157_012:0863a11_13']	顯慶年中讀一切經。	顯慶年中讀一切經。	In the Xianqing years, he read all the sutras.
+['ZH_T55_2157_012:0863a12_3']	鈔諸要事撰成一部。	鈔諸要事撰成一部。	He compiled the essential matters and wrote a collection in one part.
+['ZH_T55_2157_012:0863a12_9']	名諸經要集。	名諸經要集。	It is called The Essential Collection of Various Sutras.
+['ZH_T55_2157_012:0863a12_16']	餘如內典錄載。	餘如內典錄載。	The rest is recorded in the Catalog of Buddhist Works.
+['ZH_T55_2157_012:0863a14_9']	集沙門不拜俗議六卷見內典錄右一部六卷其本見在。	集沙門不拜俗議六卷見內典錄右一部六卷其本見在。	The Discussion on Monks Not Bowing to Laypeople in six fascicles, seen in the Catalog of Buddhist Works. The above one work in six fascicles still exists.
+['ZH_T55_2157_012:0863a15_5']	沙門釋彥琮。	沙門釋彥琮。	Shaman Shi Yancong.
+['ZH_T55_2157_012:0863a17_3']	識量聰敏博曉群經善屬文筆尤工著述　天皇龍朔二年壬戌有　詔令拜　君親。	識量聰敏博曉群經善屬文筆尤工著述　天皇龍朔二年壬戌有　詔令拜　君親。	He was intelligent and well-versed in various sutras. He was good at writing and especially skilled in composition. In the second year of Longshuo in the Tianhuang era, the year jinshu, there was an edict ordering monks to bow to their parents and ruler.
+['ZH_T55_2157_012:0863a17_13']	恐傷國化令百司遍議。	恐傷國化令百司遍議。	Fearing it would harm the national transformation, he ordered the hundred officials to discuss it everywhere.
+['ZH_T55_2157_012:0863a18_2']	于時沙門道宣等。	于時沙門道宣等。	At that time, monks such as Daoxuan, etc.
+['ZH_T55_2157_012:0863a18_15']	共上書啟聞于朝廷眾議異端。	共上書啟聞于朝廷眾議異端。	Together they wrote a memorial to inform the imperial court, and the opinions of the assembly differed.
+['ZH_T55_2157_012:0863a19_6']	所司進入　聖躬親覽。	所司進入　聖躬親覽。	The authorities submitted it to the emperor, who personally examined it.
+['ZH_T55_2157_012:0863a19_11']	下勅罷之。	下勅罷之。	An edict was issued to abolish it.
+['ZH_T55_2157_012:0863a19_19']	琮恐後代無聞故。	琮恐後代無聞故。	Zong feared that later generations would not know about it, so
+['ZH_T55_2157_012:0863a20_13']	纂斯事并前代故事及先賢答對。	纂斯事并前代故事及先賢答對。	he compiled this matter, as well as events from previous generations and the responses of earlier sages.
+['ZH_T55_2157_012:0863a21_5']	名為集沙門不拜俗議。	名為集沙門不拜俗議。	It is called The Collection of Discussions on Śramaṇas Not Bowing to the Secular World.
+['ZH_T55_2157_012:0863a21_14']	傳之後代永作楷摸。	傳之後代永作楷摸。	It is transmitted to later generations as a permanent model.
+['ZH_T55_2157_012:0863a22_5']	牆塹法城玄風不墜也。	牆塹法城玄風不墜也。	The profound teachings of the Dharma city are not lost.
+['ZH_T55_2157_012:0863a22_17']	兼撰大唐京師寺錄行於代。	兼撰大唐京師寺錄行於代。	He also compiled the Record of Monasteries in the Capital of the Great Tang Dynasty and circulated it in the world.
+['ZH_T55_2157_012:0863a28_19']	師子莊嚴王菩薩請問經一卷亦名八曼荼羅經龍朔三年於慈恩寺譯見大周錄離垢惠菩薩所問禮佛法經一卷龍朔三年於慈恩寺譯見大周錄阿吒那智呪經一卷龍朔三年於慈恩寺譯見續高僧傳右三部三卷前二部二卷見在後一部一卷闕本。	師子莊嚴王菩薩請問經一卷亦名八曼荼羅經龍朔三年於慈恩寺譯見大周錄離垢惠菩薩所問禮佛法經一卷龍朔三年於慈恩寺譯見大周錄阿吒那智呪經一卷龍朔三年於慈恩寺譯見續高僧傳右三部三卷前二部二卷見在後一部一卷闕本。	Lion Adorned King Bodhisattva's Inquiry Sutra in one fascicle, also called the Eight Maṇḍala Sutra, translated in the third year of Longshuo at Ci'en Temple, seen in the Great Zhou Catalog Purity Wisdom Bodhisattva's Inquiry Sutra on the Dharma of Paying Homage to the Buddha in one fascicle, translated in the third year of Longshuo at Ci'en Temple, seen in the Great Zhou Catalog Aṭanatiya Dhāraṇī Sutra in one fascicle, translated in the third year of Longshuo at Ci'en Temple, seen in the Continued Biographies of Eminent Monks, right, three texts in three fascicles, the first two texts in two fascicles are extant, the last text in one fascicle is lost.
+['ZH_T55_2157_012:0863a29_4']	沙門那提。	沙門那提。	Śramaṇa Nati.
+['ZH_T55_2157_012:0863a29_9']	唐曰福生。	唐曰福生。	Tang Dynasty says: Born of Blessings.
+['ZH_T55_2157_012:0863b01_2']	具依梵言則云布如烏代耶。	具依梵言則云布如烏代耶。	If the Sanskrit is fully followed, it is called Pu ru o dai ya.
+['ZH_T55_2157_012:0863b01_8']	以言煩多故。	以言煩多故。	Because the words are too many,
+['ZH_T55_2157_012:0863b01_18']	此但訛略而云那提也。	此但訛略而云那提也。	this is only abbreviated and called Nati.
+['ZH_T55_2157_012:0863b02_4']	本中印度人。	本中印度人。	Originally from Central India.
+['ZH_T55_2157_012:0863b02_16']	少出家名師開悟志氣雄遠。	少出家名師開悟志氣雄遠。	Left home at a young age, enlightened by the master, with a lofty and far-reaching spirit.
+['ZH_T55_2157_012:0863b03_10']	弘道為懷歷遊諸國務在開物。	弘道為懷歷遊諸國務在開物。	Taking the propagation of the Way as his intention, he traveled through various countries, focusing on enlightening beings.
+['ZH_T55_2157_012:0863b04_2']	而善達聲明通諸詁訓。	而善達聲明通諸詁訓。	And he was well-versed in phonology and understood various etymologies.
+['ZH_T55_2157_012:0863b04_17']	大夏召為文士擬此士蘭臺著作者。	大夏召為文士擬此士蘭臺著作者。	In Daxia, he was called a literary scholar, and was compared to this kind of scholar. He wrote in the Lantai.
+['ZH_T55_2157_012:0863b05_5']	汎愛好奇尚。	汎愛好奇尚。	He was fond of the strange and unusual.
+['ZH_T55_2157_012:0863b05_14']	聞有涉悟不憚遠夷。	聞有涉悟不憚遠夷。	He heard that there were those who had insights, and did not avoid distant barbarians.
+['ZH_T55_2157_012:0863b06_2']	曾往執師子國。	曾往執師子國。	He once went to the country of Siṃhala.
+['ZH_T55_2157_012:0863b06_10']	又東南上楞伽山。	又東南上楞伽山。	He also went to the top of Laṅkā Mountain in the southeast.
+['ZH_T55_2157_012:0863b06_19']	南海諸國隨緣遠化。	南海諸國隨緣遠化。	He spread the Dharma far and wide in the various countries of the South Seas.
+['ZH_T55_2157_012:0863b07_17']	承脂那東國盛傳大乘佛法崇盛贍洲稱最。	承脂那東國盛傳大乘佛法崇盛贍洲稱最。	He heard that in the eastern country of China, the Mahāyāna Buddhist teachings were widely transmitted, and the Buddhist teachings were flourishing, being the best in Jambudvīpa.
+['ZH_T55_2157_012:0863b09_2']	乃搜集大小乘經律論五百餘夾合一千五百餘部。	乃搜集大小乘經律論五百餘夾合一千五百餘部。	He then collected more than five hundred bundles of sūtras, vinayas, and śāstras of the Mahāyāna and Hīnayāna, totaling more than one thousand five hundred texts.
+['ZH_T55_2157_012:0863b09_14']	以天皇永徽六年創達京師。	以天皇永徽六年創達京師。	In the sixth year of the Wengui era of Emperor Tianhuang, he arrived in the capital.
+['ZH_T55_2157_012:0863b10_9']	有勅令於慈恩寺安置所司供給。	有勅令於慈恩寺安置所司供給。	By imperial decree, he was lodged in Ci'en Temple, and the authorities provided for his needs.
+['ZH_T55_2157_012:0863b11_5']	時玄奘法師當途翻譯聲華騰蔚。	時玄奘法師當途翻譯聲華騰蔚。	At that time, Dharma Master Xuanzang was translating scriptures on the way, and his fame was spreading far and wide.
+['ZH_T55_2157_012:0863b11_14']	無由克彰掩仰蕭條。	無由克彰掩仰蕭條。	He had no way to make it known, and was hidden and neglected.
+['ZH_T55_2157_012:0863b12_1']	達名寔難。	達名寔難。	It was truly difficult to make his name known.
+['ZH_T55_2157_012:0863b12_12']	那提不蒙引到無由自敷。	那提不蒙引到無由自敷。	Nati did not receive an invitation, and had no way to spread the Dharma himself.
+['ZH_T55_2157_012:0863b12_17']	顯慶元年。	顯慶元年。	In the first year of Xianqing.
+['ZH_T55_2157_012:0863b13_10']	勅往昆崙諸國採取異藥。	勅往昆崙諸國採取異藥。	By imperial decree, he went to the Kunlun countries to collect rare medicines.
+['ZH_T55_2157_012:0863b14_9']	既至南海諸王歸敬為別立寺度人授法。	既至南海諸王歸敬為別立寺度人授法。	When he arrived in the South Seas, the kings of various countries respected him and established a separate temple for him to ordain people and teach the Dharma.
+['ZH_T55_2157_012:0863b14_18']	弘化之廣又倍於前。	弘化之廣又倍於前。	The vastness of his propagation of the Dharma was twice as great as before.
+['ZH_T55_2157_012:0863b16_2']	以昔被　勅往理須返命慈恩寺梵本擬重尋研。	以昔被　勅往理須返命慈恩寺梵本擬重尋研。	Since he had been ordered to go there in the past, he should return to his original temple. The Sanskrit texts of the Ci'en Temple were to be examined again.
+['ZH_T55_2157_012:0863b16_11']	龍朔三年還返舊寺。	龍朔三年還返舊寺。	In the third year of Longshuo, he returned to his original temple.
+['ZH_T55_2157_012:0863b17_2']	所齎諸經並為奘將出。	所齎諸經並為奘將出。	The various scriptures he brought were to be translated by Xuanzang.
+['ZH_T55_2157_012:0863b17_11']	意欲翻度莫有依憑。	意欲翻度莫有依憑。	He intended to translate them, but there was no one to rely on.
+['ZH_T55_2157_012:0863b18_4']	惟譯八曼茶羅等經三部。	惟譯八曼茶羅等經三部。	He only translated three scriptures, including the Eight Maṇḍalas.
+['ZH_T55_2157_012:0863b18_13']	要約精最可常行學。	要約精最可常行學。	They are concise, essential, and most suitable for constant practice and study.
+['ZH_T55_2157_012:0863b19_4']	禪林寺沙門惠澤譯語。	禪林寺沙門惠澤譯語。	Translated by the Śramaṇa Huize of Chanlin Temple.
+['ZH_T55_2157_012:0863b19_17']	豐德寺沙門道宣綴文并製序。	豐德寺沙門道宣綴文并製序。	Compiled by the Śramaṇa Daoxuan of Fengde Temple, who also wrote the preface.
+['ZH_T55_2157_012:0863b20_17']	其年南海真臘國為那提素所化者奉敬無已。	其年南海真臘國為那提素所化者奉敬無已。	In that year, the people of Zhenla Kingdom in the South Seas who had been converted by Nati Su respected him without end.
+['ZH_T55_2157_012:0863b21_11']	思見其人互相牽率假途遠請。	思見其人互相牽率假途遠請。	Thinking of seeing him, they mutually pulled each other, pretending to make a distant request.
+['ZH_T55_2157_012:0863b21_14']	乃云。	乃云。	They said:
+['ZH_T55_2157_012:0863b22_4']	國有好藥唯提識之。	國有好藥唯提識之。	Our country has good medicine, only Nati knows it.
+['ZH_T55_2157_012:0863b22_9']	請自採取。	請自採取。	Please go and pick it yourself.
+['ZH_T55_2157_012:0863b23_1']	下勅聽往返亦未曾有。	下勅聽往返亦未曾有。	The imperial decree allowed him to go and return, which had never happened before.
+['ZH_T55_2157_012:0863b23_9']	博訪大夏行人云。	博訪大夏行人云。	The travelers from the Great Summer say:
+['ZH_T55_2157_012:0863b24_2']	那提三藏乃龍樹之門人也。	那提三藏乃龍樹之門人也。	The Tripiṭaka Master Nāḍī is a disciple of Nāgârjuna.
+['ZH_T55_2157_012:0863b24_10']	所解無相與奘碩。	所解無相與奘碩。	His understanding of signlessness is equal to that of Xuanzang.
+['ZH_T55_2157_012:0863b24_16']	反西梵僧云。	反西梵僧云。	The Western Indian monks say:
+['ZH_T55_2157_012:0863b25_5']	大師隱後斯人第一。	大師隱後斯人第一。	After the Great Master disappeared, this person is the first.
+['ZH_T55_2157_012:0863b25_14']	深解實相善達方便。	深解實相善達方便。	He deeply understands reality and skillfully understands skillful means.
+['ZH_T55_2157_012:0863b26_2']	小乘五部毘尼。	小乘五部毘尼。	The Vinaya of the five schools of the Lesser Vehicle,
+['ZH_T55_2157_012:0863b26_9']	外道四違陀論。	外道四違陀論。	and the four Vedas of non-Buddhists,
+['ZH_T55_2157_012:0863b27_1']	莫不洞達源底通明言義。	莫不洞達源底通明言義。	he has thoroughly penetrated their sources and clearly understands their words and meanings.
+['ZH_T55_2157_012:0863b27_10']	詞出珠聯理暢霞舉。	詞出珠聯理暢霞舉。	His words are like pearls strung together, and his principles are as radiant as the rising sun.
+['ZH_T55_2157_012:0863b28_5']	所著大乘集義論可有四十餘卷。	所著大乘集義論可有四十餘卷。	The Treatise on the Collection of Mahāyāna Meanings he composed has over forty fascicles.
+['ZH_T55_2157_012:0863b28_14']	將事譯之被遣遂闕。	將事譯之被遣遂闕。	He was about to translate it, but was sent away and thus it was left incomplete.
+['ZH_T55_2157_012:0863b29_6']	夫以抱麟之歎代有斯蹤。	夫以抱麟之歎代有斯蹤。	The lament of having a unicorn is a trace of this in later generations.
+['ZH_T55_2157_012:0863b29_11']	知人難哉。	知人難哉。	How difficult it is to know people!
+['ZH_T55_2157_012:0863c01_3']	千齡罕遇那提挾道遠至。	千齡罕遇那提挾道遠至。	In a thousand years, it is rare to encounter someone like Nāḍī who came from afar with the Way.
+['ZH_T55_2157_012:0863c01_12']	投俾北冥既無所待。	投俾北冥既無所待。	He was cast into the North Sea, but there was no one to rely on.
+['ZH_T55_2157_012:0863c02_2']	乃三被毒再充南役。	乃三被毒再充南役。	He was poisoned three times and again sent to the South.
+['ZH_T55_2157_012:0863c02_11']	崎嶇數萬頻歷瘴氛。	崎嶇數萬頻歷瘴氛。	He traveled tens of thousands of miles, frequently passing through miasmal vapors.
+['ZH_T55_2157_012:0863c03_2']	委命遭命斯在斯人。	委命遭命斯在斯人。	He entrusted his life and encountered this person who was fated to die.
+['ZH_T55_2157_012:0863c03_7']	嗚呼惜哉。	嗚呼惜哉。	Alas, what a pity!
+['ZH_T55_2157_012:0863c06_9']	大般涅槃經後譯茶毘分二卷亦云闍維分亦云後分沙門惠立製序見大周錄右一部二卷其本見在。	大般涅槃經後譯茶毘分二卷亦云闍維分亦云後分沙門惠立製序見大周錄右一部二卷其本見在。	Mahāparinirvāṇa Sūtra, later translation, cremation chapter, 2 fascicles, also called the cremation chapter, also called the later chapter, preface written by Śramaṇa Huìlì, listed in the Dàzhōu lù. Right, 1 text, 2 fascicles, the original is extant.
+['ZH_T55_2157_012:0863c07_7']	沙門若那跋陀羅。	沙門若那跋陀羅。	Śramaṇa Yánǎbātōluó.
+['ZH_T55_2157_012:0863c07_12']	唐云智賢。	唐云智賢。	In Chinese, Zhìxián.
+['ZH_T55_2157_012:0863c08_2']	南海波凌亦曰訶凌國人也。	南海波凌亦曰訶凌國人也。	A person from the country of Nánhǎi Pōlíng, also called Hālíng.
+['ZH_T55_2157_012:0863c08_7', 'ZH_T55_2157_012:0863c09_3']	善三藏學。🔽往者麟德年中益府成都沙門會寧。	善三藏學。 往者麟德年中益府成都沙門會寧。	Skilled in the study of the Tripiṭaka.🔽In the Lín Dé years, Śramaṇa Huìníng of Chéngdū in Yì Prefecture.
+['ZH_T55_2157_012:0863c09_11']	故遊天竺觀禮聖。	故遊天竺觀禮聖。	Formerly traveled to India to observe and pay homage to the holy sites.
+['ZH_T55_2157_012:0863c10_3']	跡汎舶西逝路經波凌國。	跡汎舶西逝路經波凌國。	Crossing the sea to the west, passing through Pōlíng country.
+['ZH_T55_2157_012:0863c10_15']	遂共智賢譯涅槃後分二卷。	遂共智賢譯涅槃後分二卷。	Together with Zhìxián, they translated the later chapter of the Nirvāṇa Sūtra in 2 fascicles.
+['ZH_T55_2157_012:0863c11_3', 'ZH_T55_2157_012:0863c11_10']	寄經達於交州。🔽會寧方之天竺。	寄經達於交州。 會寧方之天竺。	Sending the sūtra to Jiāozhōu.🔽Huìníng then went to India.
+['ZH_T55_2157_012:0863c12_11']	後至儀鳳年初交州都督梁難敵遣使附經入京。	後至儀鳳年初交州都督梁難敵遣使附經入京。	Later, in the first year of Yífēng, the governor of Jiāozhōu, Liáng Nàndí, sent an envoy to send the sūtra to the capital.
+['ZH_T55_2157_012:0863c13_6']	三年戊寅大慈恩寺沙門靈會。	三年戊寅大慈恩寺沙門靈會。	In the third year, wŭyín, the śramaṇa Línghuì of Dàcí'ēn Temple.
+['ZH_T55_2157_012:0863c13_14']	於東宮啟請施行。	於東宮啟請施行。	At the East Palace, he requested permission to implement it.
+['ZH_T55_2157_012:0864a18_13_0']	大乘顯識經二卷第二出與寶積賢護長者會同本	大乘顯識經二卷第二出與寶積賢護長者會同本	Mahāyāna Manifestation of Consciousness Sūtra, 2 fascicles, second edition, same text as the chapter on the elder Anāthapiṇḍada in the Ratnakūṭa Sūtra
+['ZH_T55_2157_012:0864a18_13_1']	見大周錄永隆元年於東都太原寺譯大方廣佛華	見大周錄永隆元年於東都太原寺譯大方廣佛華	Seen in the catalogue of the Great Zhou, translated in the first year of Yonglong at the Taiyuan Temple in the Eastern Capital, the chapter on continuing to enter the Dharma realm of the Flower Ornament Sutra of the Vast Flower Ornament Buddha
+['ZH_T55_2157_012:0864a18_13_2']	嚴經續入法界品一卷或無續字續舊華嚴經闕文	嚴經續入法界品一卷或無續字續舊華嚴經闕文	In one fascicle, or without the word continue, continuing the missing text of the old Flower Ornament Sutra
+['ZH_T55_2157_012:0864a18_13_3', 'ZH_T55_2157_012:0864a18_13_4']	見大周錄垂拱元年於西太原寺歸寧院譯方廣大🔽莊嚴經十二卷一名神通遊戲第四出與竺法護普	見大周錄垂拱元年於西太原寺歸寧院譯方廣大 莊嚴經十二卷一名神通遊戲第四出與竺法護普	Seen in the catalogue of the Great Zhou, translated in the first year of Chuigong at the Guining Cloister of the Western Taiyuan Temple, the Sutra of Vast and Great Adornment
+['ZH_T55_2157_012:0864a18_13_5']	曜經等同本見大周錄永淳二年九月十五日畢於	曜經等同本見大周錄永淳二年九月十五日畢於	In twelve fascicles, also called the Sutra of the Play of Supernatural Powers, fourth edition, same text as the Sutra of Universal Illumination translated by Dharmarakṣa, etc., seen in the catalogue of the Great Zhou, completed on the fifteenth day of the ninth month of the second year of Yongchun
+['ZH_T55_2157_012:0864a18_13_6', 'ZH_T55_2157_012:0864a18_13_7']	西太原寺歸寧院譯沙門復禮筆受證契大乘經二🔽卷亦名入一切佛境界智陪盧遮那藏第二出與大	西太原寺歸寧院譯沙門復禮筆受證契大乘經二 卷亦名入一切佛境界智陪盧遮那藏第二出與大	At the Guining Cloister of the Western Taiyuan Temple, translated by Śramaṇa Fuli, who took down the dictation, the Sutra of Certifying the Mahāyāna
+['ZH_T55_2157_012:0864a18_13_8']	乘同性經同本見大周錄永隆元年於太原寺譯大	乘同性經同本見大周錄永隆元年於太原寺譯大	In two fascicles, also called the Sutra on Entering the Knowledge of the Buddha Realm, second edition, same text as the Sutra on the Same Nature of the Mahāyāna, seen in the catalogue of the Great Zhou, translated in the first year of Yonglong at the Taiyuan Temple, the Mahāyāna
+['ZH_T55_2157_012:0864a18_13_9']	乘離文字普光明藏經一卷第三出與元魏菩提留	乘離文字普光明藏經一卷第三出與元魏菩提留	Sūtra of the Universal Light Treasury, which transcends written words, in one fascicle, third edition, same as the one by Bodhiruci of the Yuanwei
+['ZH_T55_2157_012:0864a18_13_10', 'ZH_T55_2157_012:0864a18_13_11', 'ZH_T55_2157_012:0864a18_13_12']	支所出無字寶篋經等同本見大周錄永淳二年於🔽太原寺歸寧院譯大乘遍照光明藏無字法門經一🔽卷第四出即與次前離文經同本日照重出大方廣	支所出無字寶篋經等同本見大周錄永淳二年於 太原寺歸寧院譯大乘遍照光明藏無字法門經一 卷第四出即與次前離文經同本日照重出大方廣	The Sūtra of the Vehicle Departing from Letters, in one fascicle, third edition. The same text as the Sūtra of the Jewel Casket Without Letters translated by Bodhiruci of the Yuanwei dynasty. It is listed in the Dazhou lu. Translated in the second year of Yongchun,
+['ZH_T55_2157_012:0864a18_13_13', 'ZH_T55_2157_012:0864a18_13_14', 'ZH_T55_2157_012:0864a18_13_15', 'ZH_T55_2157_012:0864a18_13_16']	師子吼經一卷第二出與如來師子吼經同本見大🔽周錄永隆元年於東太原寺譯大乘百福相經一卷🔽初出見大周錄永淳二年於西太原寺歸寧院譯大🔽乘百福莊嚴相經一卷第二出即與次前百福相經	師子吼經一卷第二出與如來師子吼經同本見大 周錄永隆元年於東太原寺譯大乘百福相經一卷 初出見大周錄永淳二年於西太原寺歸寧院譯大 乘百福莊嚴相經一卷第二出即與次前百福相經	at Taiyuansi, in the Guining Cloister. The Sūtra of the Door of the Dharma Without Letters, the Vast and Luminous Treasury of the Mahāyāna, in one fascicle, fourth edition. The same text as the previous Sūtra Departing from Letters. It was retranslated by Renzhao. The Sūtra of the Vast Expanse, the Lion's Roar of the Mahāyāna, in one fascicle, second edition. The same text as the Sūtra of the Tathāgata's Lion's Roar. It is listed in the Dazhou lu. Translated in the first year of Yonglong,🔽at Dong Taiyuansi. The Sūtra of the Hundred Meritorious Marks of the Mahāyāna, in one fascicle, first edition. It is listed in the Dazhou lu. Translated in the second year of Yongchun,
+['ZH_T55_2157_012:0864a18_13_17']	同本日照重出大乘四法經一卷初出見大周錄永	同本日照重出大乘四法經一卷初出見大周錄永	at Xitaiyuansi, in the Guining Cloister. The Sūtra of the Hundred Meritorious Adornments of the Mahāyāna, in one fascicle, second edition. The same text as the previous Sūtra of the Hundred Meritorious Marks. It was retranslated by Renzhao. The Sūtra of the Four Dharmas of the Mahāyāna, in one fascicle, first edition. It is listed in the Dazhou lu. Yonglong,
+['ZH_T55_2157_012:0864a18_13_18', 'ZH_T55_2157_012:0864a18_13_19', 'ZH_T55_2157_012:0864a18_13_20', 'ZH_T55_2157_012:0864a18_13_21', 'ZH_T55_2157_012:0864a18_13_22']	隆元年於東太原寺譯菩薩修行四法經一卷永隆🔽二年正月於京弘福寺譯沙門彥琮製序第二出與🔽前大乘四法同本於京再出七俱胝佛大心准提陀🔽羅尼經一卷初出與金剛智出者同本見大周錄垂🔽拱元年於西太原寺歸寧院譯佛頂最勝陀羅尼經	隆元年於東太原寺譯菩薩修行四法經一卷永隆 二年正月於京弘福寺譯沙門彥琮製序第二出與 前大乘四法同本於京再出七俱胝佛大心准提陀 羅尼經一卷初出與金剛智出者同本見大周錄垂 拱元年於西太原寺歸寧院譯佛頂最勝陀羅尼經	In the first year of Long, he translated the Sutra on the Bodhisattva's Practice of the Four Dharmas in one fascicle, Yonglong
+['ZH_T55_2157_012:0864a18_13_23', 'ZH_T55_2157_012:0864a18_13_24', 'ZH_T55_2157_012:0864a18_13_25', 'ZH_T55_2157_012:0864a18_13_26']	一卷第二出與杜顗等出者同本永淳元年五月二🔽十日於京弘福寺共沙門彥琮譯兼製序見經前序🔽最勝佛頂陀羅尼除業障經一卷第四出即與前經🔽同本日照後欲歸國於大東都共沙門惠智再譯前	一卷第二出與杜顗等出者同本永淳元年五月二🔽十日於京弘福寺共沙門彥琮譯兼製序見經前序🔽最勝佛頂陀羅尼除業障經一卷第四出即與前經🔽同本日照後欲歸國於大東都共沙門惠智再譯前	In the second year, in the first month, at Hongfu Temple in the capital, he translated the preface written by Śramaṇa Yanzong. The second time it was released, it was the same as the previous version of the Mahāyāna Four Dharmas. He released the Saptākṣara-buddha-mahā-citta-uṣṇīṣa-dhāraṇī Sūtra in one fascicle for the first time. It was the same as the version translated by Vajrabodhi. It was seen in the catalogue of the Great Zhou Dynasty. In the first year of Chuigong, at Xita yuan Temple, he translated the Buddha's Crown Supreme Dhāraṇī Sūtra in one fascicle. It was the second time it was released. It was the same as the version translated by Du Yi and others. In the first year of Yongchun, on the second and tenth days of the fifth month, at Hongfu Temple in the capital, he translated together with Śramaṇa Yanzong, and wrote the preface. It was seen in the preface to the sūtra. The Supreme Buddha's Crown Dhāraṇī Sūtra for Eliminating Karmic Hindrances in one fascicle. It was the fourth time it was released. It was the same as the previous sūtra. On that day, Zhào wanted to return to his country. At the Great Eastern Capital, he translated it again together with Śramaṇa Huìzhì.
+['ZH_T55_2157_012:0864a18_13_27', 'ZH_T55_2157_012:0864a18_13_28', 'ZH_T55_2157_012:0864a18_13_29', 'ZH_T55_2157_012:0864a18_13_30']	緣後法二文並廣大乘密嚴經三卷見大周錄造塔🔽功德經一卷見大周錄永隆元年於東太原寺譯金🔽剛般若波羅蜜經破取著不壞假名論二卷功德救🔽菩薩造亦云功德施論見大周錄永淳二年九月十	緣後法二文並廣大乘密嚴經三卷見大周錄造塔 功德經一卷見大周錄永隆元年於東太原寺譯金 剛般若波羅蜜經破取著不壞假名論二卷功德救 菩薩造亦云功德施論見大周錄永淳二年九月十	The two texts on the subsequent Dharma are both extensive. The Sutra of the Merits of Building a Stupa, one fascicle, seen in the catalogue of the Great Zhou. Translated in the first year of Yonglong at Dong Taiyuan Temple.🔽The Vajra Prajnaparamita Sutra, the Treatise on Destroying Attachment and Preserving False Names, two fascicles, composed by the Bodhisattva Gunasila. Also called the Treatise of Gunasila. Seen in the catalogue of the Great Zhou. On the tenth day of the ninth month of the second year of Yongchun.
+['ZH_T55_2157_012:0864a18_13_31', 'ZH_T55_2157_012:0864a18_13_32', 'ZH_T55_2157_012:0864a18_13_33', 'ZH_T55_2157_012:0864a18_13_34']	五日於西太原寺歸寧院譯大乘廣五蘊論一卷安🔽惠菩薩造無廣字見大周錄垂拱元年六月十五日🔽於西太原寺歸寧院譯右一十八部三十四卷其本🔽並在。	五日於西太原寺歸寧院譯大乘廣五蘊論一卷安 惠菩薩造無廣字見大周錄垂拱元年六月十五日 於西太原寺歸寧院譯右一十八部三十四卷其本 並在。	The two texts on the two dharmas of the later conditions are both extensive. The Sutra on the Merits of Building a Stupa in three fascicles is seen in the Dazhou lu. Translated in the first year of Yonglong at Dong Taiyuan Temple. The Diamond Prajnaparamita Sutra, the Treatise on Destroying Attachment and Not Destroying Provisional Names in two fascicles, composed by the Bodhisattva Gunasri. Also called the Treatise on Gunasri. Seen in the Dazhou lu. Translated on the tenth day of the ninth month in the second year of Yongchun at Xita Yuansi Guiningyuan. The Treatise on the Five Skandhas in the Mahayana in one fascicle, composed by the Bodhisattva Anhui. Without the character guang. Seen in the Dazhou lu. Translated on the fifteenth day of the sixth month in the first year of Chuigong at Xita Yuansi Guiningyuan. The eighteen works in thirty-four fascicles on the right are all extant.
+['ZH_T55_2157_012:0864a19_6']	沙門地婆訶羅。	沙門地婆訶羅。	Śramaṇa Divākara.
+['ZH_T55_2157_012:0864a19_11']	唐言日照。	唐言日照。	Means Sun Illuminating in Tang.
+['ZH_T55_2157_012:0864a20_1']	中印度人洞明三藏。	中印度人洞明三藏。	A person from Central India who thoroughly understood the Tripiṭaka.
+['ZH_T55_2157_012:0864a20_6']	博曉四含。	博曉四含。	He was well-versed in the Four Āgamas.
+['ZH_T55_2157_012:0864a20_15']	戒行清高學業優贍。	戒行清高學業優贍。	His precepts and conduct were pure and lofty, and his academic achievements were outstanding.
+['ZH_T55_2157_012:0864a21_4']	尤工呪術兼洞五明。	尤工呪術兼洞五明。	He was especially skilled in spells and also thoroughly understood the five sciences.
+['ZH_T55_2157_012:0864a21_13']	志在利生來遊此國。	志在利生來遊此國。	With the intention of benefiting beings, he came to this country.
+['ZH_T55_2157_012:0864a22_3']	以天皇儀鳳初至。	以天皇儀鳳初至。	In the first year of Yifeng of Emperor Tianhuang,
+['ZH_T55_2157_012:0864a23_20']	天后垂拱末於兩京東西太原寺西太原寺即今西崇福寺是也東太原寺即今太福先寺是也。	天后垂拱末於兩京東西太原寺西太原寺即今西崇福寺是也東太原寺即今太福先寺是也。	in the last year of Tianshou of Empress Wu, he translated the Mahāyāna Abhidharma Sūtra and other eighteen texts at the East and West Taiyuan Temples in the two capitals (the West Taiyuan Temple is now the West Chongfu Temple, and the East Taiyuan Temple is now the Tai Fu Xian Temple),
+['ZH_T55_2157_012:0864a24_6', 'ZH_T55_2157_012:0864a24_18']	及西京弘福寺。🔽譯大乘顯識經等一十八部。	及西京弘福寺。 譯大乘顯識經等一十八部。	and at Hongfu Temple in the Western Capital.
+['ZH_T55_2157_012:0864a25_10']	沙門單陀般若提婆譯語。	沙門單陀般若提婆譯語。	Śramaṇa Dharmākara and Devaprajña translated the language.
+['ZH_T55_2157_012:0864a26_11']	沙門惠智證梵語　勅召名德十人助其法化。	沙門惠智證梵語　勅召名德十人助其法化。	Śramaṇa Huizhi verified the Sanskrit language. By imperial order, ten virtuous monks were summoned to assist in the Dharma propagation.
+['ZH_T55_2157_012:0864b01_12']	沙門道成薄塵嘉尚圓測靈辯明恂懷度證義。	沙門道成薄塵嘉尚圓測靈辯明恂懷度證義。	Śramaṇa Daoxing, Bochen, Jiashang, Yuance, Lingbian, Mingxun, and Huadu verified the meaning.
+['ZH_T55_2157_012:0864b02_7']	沙門思玄復禮等綴文筆受。	沙門思玄復禮等綴文筆受。	Śramaṇa Siyuan, Fuli, and others compiled the text.
+['ZH_T55_2157_012:0864b03_10']	天后親敷睿藻製序標首。	天后親敷睿藻製序標首。	Empress Wu personally composed the preface in elegant prose, placing it at the beginning.
+['ZH_T55_2157_012:0864b04_2']	光飾像教傳之不朽也。	光飾像教傳之不朽也。	It glorifies the Buddhist teachings and is passed down without decay.
+['ZH_T55_2157_012:0864b07_9']	佛頂尊勝陀羅尼經一卷初出與日照等出者同本儀鳳四年正月五日譯出右一部一卷其本見在。	佛頂尊勝陀羅尼經一卷初出與日照等出者同本儀鳳四年正月五日譯出右一部一卷其本見在。	Buddha's Crown Supreme Dhāraṇī Sūtra in one fascicle, first translated, the same text as that translated by Yízhãojìng and others. Translated on the fifth day of the first month in the fourth year of Yífēng. The above one work in one fascicle is extant.
+['ZH_T55_2157_012:0864b08_9']	清信士杜行顗京兆人。	清信士杜行顗京兆人。	The upāsaka Dū Hángyǐ was from Jīngzhào.
+['ZH_T55_2157_012:0864b09_7']	儀鳳中任朝散郎行鴻臚寺典客署令。	儀鳳中任朝散郎行鴻臚寺典客署令。	During the Yífēng period, he served as a court gentleman and acting director of the Ministry of Education.
+['ZH_T55_2157_012:0864b10_7']	顗明諸蕃語兼有文藻天竺語書亦窮其妙。	顗明諸蕃語兼有文藻天竺語書亦窮其妙。	Hángyǐ was proficient in the languages of various foreign countries and also had literary talent. He also mastered the Sanskrit language and writing.
+['ZH_T55_2157_012:0864b11_1']	于時有罽賓國僧佛馱波利。	于時有罽賓國僧佛馱波利。	At that time, there was a monk named Fótuōbōlì from Kāśmīra.
+['ZH_T55_2157_012:0864b11_11']	齎梵經一夾詣闕奉獻。	齎梵經一夾詣闕奉獻。	He brought a bundle of Sanskrit scriptures to the capital as tribute.
+['ZH_T55_2157_012:0864b12_8']	天皇有詔命顗翻出。	天皇有詔命顗翻出。	The Heavenly Emperor issued an edict ordering Hángyǐ to translate them.
+['ZH_T55_2157_012:0864b12_18']	名為佛頂尊勝陀羅尼。	名為佛頂尊勝陀羅尼。	They were named the Buddha's Crown Supreme Dhāraṇī.
+['ZH_T55_2157_012:0864b14_2']	寧遠將軍度婆及中印度三藏法師地婆訶羅證譯。	寧遠將軍度婆及中印度三藏法師地婆訶羅證譯。	The general for pacifying the frontier Dūpó and the Tripiṭaka master from Central India Dīpamkara Śrījñāna certified the translation.
+['ZH_T55_2157_012:0864b14_12']	是時儀鳳四年正月也。	是時儀鳳四年正月也。	At that time, it was the first month of the fourth year of Yífēng.
+['ZH_T55_2157_012:0864b15_8']	此杜譯者有廟諱國諱皆隱而避之。	此杜譯者有廟諱國諱皆隱而避之。	In this Dū translation, all taboo characters in the names of emperors and countries were concealed to avoid them.
+['ZH_T55_2157_012:0864b15_15']	即世尊為聖尊。	即世尊為聖尊。	The World-Honored One was called the Holy Honored One.
+['ZH_T55_2157_012:0864b16_2']	世界為生界。	世界為生界。	The world was called the realm of birth.
+['ZH_T55_2157_012:0864b16_8']	大勢為大趣。	大勢為大趣。	Great power is the great direction.
+['ZH_T55_2157_012:0864b16_14', 'ZH_T55_2157_012:0864b16_19']	救治為救除。🔽譯訖奉進。	救治為救除。 譯訖奉進。	Saving and curing is saving and removing.🔽After the translation was completed, it was presented to the emperor.
+['ZH_T55_2157_012:0864b17_8']	皇上讀訖顧謂顗曰。	皇上讀訖顧謂顗曰。	The emperor read it and said to Zhiyi:
+['ZH_T55_2157_012:0864b17_17']	既是聖言不須避諱。	既是聖言不須避諱。	Since it is the holy words, there is no need to avoid taboo words.
+['ZH_T55_2157_012:0864b18_12']	杜時奉　詔以正屬故而有寢焉。	杜時奉　詔以正屬故而有寢焉。	At that time, Du followed the imperial decree and because it was related to the present, it was put aside.
+['ZH_T55_2157_012:0864b19_3']	荏苒之間杜君長逝。	荏苒之間杜君長逝。	In the meantime, Master Du passed away.
+['ZH_T55_2157_012:0864b19_12']	未遑改正其經遂行。	未遑改正其經遂行。	The sutra was not revised in time and was circulated as it was.
+['ZH_T55_2157_012:0864b20_3']	後日照三藏奉詔再譯。	後日照三藏奉詔再譯。	Later, Tripitaka Master Yijing followed the imperial decree to retranslate it.
+['ZH_T55_2157_012:0864b20_12']	名佛頂最勝陀羅尼。	名佛頂最勝陀羅尼。	It was named the Supreme Usnīsa Dharani.
+['ZH_T55_2157_012:0864b20_17']	大周錄云。	大周錄云。	The Great Zhou Catalogue says:
+['ZH_T55_2157_012:0864b21_14']	佛頂尊勝陀羅尼日照三藏譯者誤也。	佛頂尊勝陀羅尼日照三藏譯者誤也。	The Usnīsa-vijaya-dhāraṇī translated by Tripitaka Master Yijing is a mistake.
+['ZH_T55_2157_012:0864b23_7']	十門辯惑論二卷答太子文學權無二釋典稽疑或三卷右一部二卷本在。	十門辯惑論二卷答太子文學權無二釋典稽疑或三卷右一部二卷本在。	The Treatise on Distinguishing Delusions in Ten Chapters, 2 fascicles, in response to the doubts raised by Prince Wenzi Quan Wuer, or 3 fascicles, a total of 1 work in 2 fascicles.
+['ZH_T55_2157_012:0864b24_8']	沙門釋復禮京兆人。	沙門釋復禮京兆人。	Shamon Shi Fuli, a person from Jingzhao.
+['ZH_T55_2157_012:0864b24_14']	俗姓皇甫氏。	俗姓皇甫氏。	His secular surname was Huangfu.
+['ZH_T55_2157_012:0864b25_3']	少出家住興善寺。	少出家住興善寺。	He left home at a young age and stayed at Xingshan Temple.
+['ZH_T55_2157_012:0864b25_10']	性靈靜寡嗜慾。	性靈靜寡嗜慾。	By nature, he was spiritual, quiet, and had few desires.
+['ZH_T55_2157_012:0864b26_1']	遊心內典兼博玄儒。	遊心內典兼博玄儒。	He immersed his mind in Buddhist scriptures and also studied Confucianism extensively.
+['ZH_T55_2157_012:0864b26_10']	尤工賦詠善於著述。	尤工賦詠善於著述。	He was especially skilled in composing poems and was good at writing.
+['ZH_T55_2157_012:0864b26_19']	俗流名士皆慕仰之。	俗流名士皆慕仰之。	The famous scholars of the secular world all admired and looked up to him.
+['ZH_T55_2157_012:0864b28_1']	三藏地婆訶羅實叉難陀等譯大莊嚴華嚴等經。	三藏地婆訶羅實叉難陀等譯大莊嚴華嚴等經。	The Tripiṭaka masters Divākara and Śikṣānanda and others translated the Mahāvaipulya Buddhâvataṃsaka Sūtra and other sūtras.
+['ZH_T55_2157_012:0864b28_10']	皆勅召禮令同翻譯。	皆勅召禮令同翻譯。	They were all ordered to be invited to participate in the translation together.
+['ZH_T55_2157_012:0864b29_1']	綴文裁義實屬斯人。	綴文裁義實屬斯人。	The composition and editing of the text was truly entrusted to this person.
+['ZH_T55_2157_012:0864b29_10']	天皇永隆二年辛巳。	天皇永隆二年辛巳。	In the second year of the Yonglong era of Emperor Tianhuang, the Xinsi year.
+['ZH_T55_2157_012:0864c01_15']	因太子文學權無二述釋典稽疑十條用以問禮請令釋滯。	因太子文學權無二述釋典稽疑十條用以問禮請令釋滯。	Because of the ten questions raised by the Prince's scholar Quan Wuer regarding the Buddhist canon, he invited Li to explain the doubts and ask for clarification.
+['ZH_T55_2157_012:0864c02_5']	遂答之撰成二卷。	遂答之撰成二卷。	He then answered them and compiled them into two fascicles.
+['ZH_T55_2157_012:0864c02_13']	名曰十門辯惑蒙。	名曰十門辯惑蒙。	It was named Ten Gates of Discerning Delusions.
+['ZH_T55_2157_012:0864c03_5']	賓主酬答剖折稽疑。	賓主酬答剖折稽疑。	The host and guest questioned and answered each other, analyzing the doubts.
+['ZH_T55_2157_012:0864c03_11']	文出於智府。	文出於智府。	The text comes from the treasury of wisdom.
+['ZH_T55_2157_012:0864c03_17']	義在於心外。	義在於心外。	The meaning is outside the mind.
+['ZH_T55_2157_012:0864c04_6']	如斯答對非此而誰。	如斯答對非此而誰。	Such answers and responses, who else could do this?
+['ZH_T55_2157_012:0864c04_17']	可謂龍猛更生馬鳴再出。	可謂龍猛更生馬鳴再出。	It can be said that Nāgārjuna was reborn and Aśvaghoṣa appeared again.
+['ZH_T55_2157_012:0864c05_14']	權文學覩斯輪已眾疑頓遣頂戴遵行。	權文學覩斯輪已眾疑頓遣頂戴遵行。	The scholar Quan Wuer saw this wheel and all his doubts were suddenly dispelled. He accepted it with reverence and practiced it.
+['ZH_T55_2157_012:0864c06_4']	此雖一時之酬答。	此雖一時之酬答。	Although this is a temporary exchange of answers,
+['ZH_T55_2157_012:0864c06_13']	寔為萬代之龜鏡也。	寔為萬代之龜鏡也。	it truly serves as a mirror for ten thousand generations.
+['ZH_T55_2157_012:0864c07_4']	法師兼有文集行於代。	法師兼有文集行於代。	The Dharma Master also had literary collections circulated in the world.
+['ZH_T55_2157_012:0864c09_9']	大唐慈恩寺三藏法師傳十卷右一部十卷其本見在。	大唐慈恩寺三藏法師傳十卷右一部十卷其本見在。	The Biography of the Tripiṭaka Master of the Great Tang Dynasty, 10 fascicles. The above, 1 work in 10 fascicles, the original is extant.
+['ZH_T55_2157_012:0864c10_5']	沙門釋惠立。	沙門釋惠立。	Śramaṇa Shi Huili.
+['ZH_T55_2157_012:0864c10_10']	本名字立。	本名字立。	Originally named Li.
+['ZH_T55_2157_012:0864c10_17']	天皇改為惠立。	天皇改為惠立。	Emperor Tian changed it to Huili.
+['ZH_T55_2157_012:0864c11_3']	俗姓趙氏。	俗姓趙氏。	His secular surname was Zhao.
+['ZH_T55_2157_012:0864c11_8']	天水人也。	天水人也。	He was a person from Tianshui.
+['ZH_T55_2157_012:0864c11_17']	遠祖因䆠徙寓新平。	遠祖因䆠徙寓新平。	His distant ancestors moved to Xinping because of a famine.
+['ZH_T55_2157_012:0864c12_7']	故為豳今改為邠人焉。	故為豳今改為邠人焉。	Therefore, he became a person of Bin, now changed to Bin.
+['ZH_T55_2157_012:0864c12_16']	爰祖及父俱馳高譽。	爰祖及父俱馳高譽。	His ancestors and father were both renowned.
+['ZH_T55_2157_012:0864c13_8']	立節隋祕書郎毅之第三子也。	立節隋祕書郎毅之第三子也。	Huili was the third son of Sui Sheren Yi.
+['ZH_T55_2157_012:0864c13_18']	生而破嶷有棄俗之志。	生而破嶷有棄俗之志。	He was born with a lofty character and had the will to renounce the world.
+['ZH_T55_2157_012:0864c14_15']	年十五貞觀三年出家住豳州昭仁寺。	年十五貞觀三年出家住豳州昭仁寺。	At the age of fifteen, in the third year of Zhenguan, he left home and lived at Zhaoren Temple in Binzhou.
+['ZH_T55_2157_012:0864c15_7']	此寺破薛舉之戰場也。	此寺破薛舉之戰場也。	This temple was the battlefield where Xue Ju was defeated.
+['ZH_T55_2157_012:0864c15_17']	立識敏才俊神清道遠。	立識敏才俊神清道遠。	Huili had a clear mind, outstanding talent, a pure spirit, and a distant path.
+['ZH_T55_2157_012:0864c16_6']	習林遠之高風。	習林遠之高風。	He studied the lofty style of Lin Yuan.
+['ZH_T55_2157_012:0864c16_13']	邁肇融之識量。	邁肇融之識量。	He surpassed the intellectual capacity of Huiruo and Tanluan.
+['ZH_T55_2157_012:0864c16_18']	聲譽聞徹。	聲譽聞徹。	His fame spread far and wide.
+['ZH_T55_2157_012:0864c17_11']	勅召充大慈恩寺翻經大德。	勅召充大慈恩寺翻經大德。	By imperial decree, he was summoned to be a great virtuous one in translating sūtras at the Great Ci'en Temple.
+['ZH_T55_2157_012:0864c18_2']	次補西明寺都維那。	次補西明寺都維那。	He was later appointed as the abbot of Ximing Temple.
+['ZH_T55_2157_012:0864c18_9']	後授太原寺主。	後授太原寺主。	Later, he was appointed as the abbot of Taiyuan Temple.
+['ZH_T55_2157_012:0864c18_18']	皆降綸旨令維寺住。	皆降綸旨令維寺住。	All of these were ordered by imperial decree.
+['ZH_T55_2157_012:0864c19_8', 'ZH_T55_2157_012:0864c19_16']	天皇之代頻召入內。🔽與黃冠對論皆愜。	天皇之代頻召入內。 與黃冠對論皆愜。	During the Tianhuang era, he was frequently summoned to the inner palace.
+['ZH_T55_2157_012:0864c20_2']	帝旨。	帝旨。	He debated with the Daoists and satisfied the emperor's intention.
+['ZH_T55_2157_012:0864c20_7']	事在別傳。	事在別傳。	The details are in a separate biography.
+['ZH_T55_2157_012:0864c21_8']	立以玄奘法師求經印度經無紀述季代罕聞。	立以玄奘法師求經印度經無紀述季代罕聞。	He thought that since Master Xuanzang had requested scriptures from India, there was no record of it and few people heard about it in the later period.
+['ZH_T55_2157_012:0864c21_17']	遂撰慈恩三藏行傳。	遂撰慈恩三藏行傳。	So he composed the Biography of the Tripiṭaka Master of the Ci'en Temple.
+['ZH_T55_2157_012:0864c22_3']	未成而卒。	未成而卒。	It was not completed before he passed away.
+['ZH_T55_2157_012:0864c22_16']	後弘福寺沙門彥琮續而成之。	後弘福寺沙門彥琮續而成之。	Later, the monk Yanzong of Hongfu Temple continued to complete it.
+['ZH_T55_2157_012:0864c23_2']	總成十卷。	總成十卷。	It was compiled into a total of ten fascicles.
+['ZH_T55_2157_012:0864c23_16']	故初題云沙門惠立本釋彥琮箋。	故初題云沙門惠立本釋彥琮箋。	Therefore, the title at the beginning says Written by Monk Huili, Annotated by Yanzong.
+['ZH_T55_2157_012:0864c28_9']	四分比丘戒本一卷題云四分戒本并序西太原寺沙門懷素集四分比丘尼戒本一卷題加尼字餘同前四分僧羯磨三卷題云羯磨卷上并序出四分西太原寺沙門懷素集四分尼羯磨三卷題加尼字餘同前右四部八卷其本並在。	四分比丘戒本一卷題云四分戒本并序西太原寺沙門懷素集四分比丘尼戒本一卷題加尼字餘同前四分僧羯磨三卷題云羯磨卷上并序出四分西太原寺沙門懷素集四分尼羯磨三卷題加尼字餘同前右四部八卷其本並在。	Four Part Bhikṣu Prātimokṣa Sūtra in one fascicle, titled Four Part Prātimokṣa Sūtra with Preface, compiled by Śramaṇa Huai Xu of Xita Yuan Temple Four Part Bhikṣuṇī Prātimokṣa Sūtra in one fascicle, with the character bhikṣuṇī added to the title, the rest the same as the previous Four Part Bhikṣu Karma in three fascicles, titled Karma Fascicle One with Preface, from the Four Part Vinaya, compiled by Śramaṇa Huai Xu of Xita Yuan Temple Four Part Bhikṣuṇī Karma in three fascicles, with the character bhikṣuṇī added to the title, the rest the same as the previous The above four works in eight fascicles, the texts are all present.
+['ZH_T55_2157_012:0865a01_4']	沙門懷素。	沙門懷素。	Śramaṇa Huai Xu.
+['ZH_T55_2157_012:0865a01_9']	俗姓范氏。	俗姓范氏。	His secular surname was Fan.
+['ZH_T55_2157_012:0865a01_13']	京兆人。	京兆人。	He was a person from Jingzhao.
+['ZH_T55_2157_012:0865a01_18']	世襲冠冕。	世襲冠冕。	His family had held official positions for generations.
+['ZH_T55_2157_012:0865a02_13']	貞觀十九年出家師奘法師為弟子。	貞觀十九年出家師奘法師為弟子。	In the nineteenth year of the Zhenguan era, he left home and became a disciple of Dharma Master Xuanzang.
+['ZH_T55_2157_012:0865a03_5']	而立性聰敏專尋經論。	而立性聰敏專尋經論。	Yet he was naturally intelligent and focused on studying sūtras and treatises.
+['ZH_T55_2157_012:0865a03_14']	進具之後偏隷毘尼。	進具之後偏隷毘尼。	After receiving full ordination, he specialized in the Vinaya.
+['ZH_T55_2157_012:0865a04_6']	依道成律師學四分律。	依道成律師學四分律。	He studied the Four Part Vinaya under Vinaya Master Daocheng.
+['ZH_T55_2157_012:0865a04_15']	不淹時序而為上首。	不淹時序而為上首。	In a short time, he became the leader.
+['ZH_T55_2157_012:0865a05_5']	先居弘濟後住太原。	先居弘濟後住太原。	He first resided at Hongji and later at Taiyuan.
+['ZH_T55_2157_012:0865a05_14']	學侶雲奔教授無輟。	學侶雲奔教授無輟。	Students flocked like clouds, and he never stopped teaching.
+['ZH_T55_2157_012:0865a06_13']	以先德所集多不依文率己私見妄生增減。	以先德所集多不依文率己私見妄生增減。	The collections made by the sages of the past often do not follow the texts, but rather express their own private views, arbitrarily adding and subtracting.
+['ZH_T55_2157_012:0865a07_8']	遂乃撿尋律藏抄出戒心羯磨。	遂乃撿尋律藏抄出戒心羯磨。	Thus, they searched through the Vinaya canon and copied out the essential precepts and rituals.
+['ZH_T55_2157_012:0865a07_17']	但取成文非妄穿鑿。	但取成文非妄穿鑿。	They only took the established texts, not fabricating them out of thin air.
+['ZH_T55_2157_012:0865a08_12']	可謂嗣徽迦葉繼軌波離而已焉。	可謂嗣徽迦葉繼軌波離而已焉。	They can be said to have continued the fame of Kāśyapa and followed in the footsteps of Upāli.
+['ZH_T55_2157_012:0865a09_15']	又別撰四分記抄兼經論疏記等五十餘卷行於代。	又別撰四分記抄兼經論疏記等五十餘卷行於代。	He also separately compiled more than fifty fascicles of commentaries on the Four Part Vinaya, as well as commentaries on sutras and treatises, which circulated widely.
+['ZH_T55_2157_012:0865a11_9']	大方廣圓覺修多羅了義經一卷右一部一卷其本見在。	大方廣圓覺修多羅了義經一卷右一部一卷其本見在。	The Sutra of Perfect Enlightenment, one fascicle. The above one work in one fascicle is extant.
+['ZH_T55_2157_012:0865a12_7']	沙門佛陀跋多羅。	沙門佛陀跋多羅。	The śramaṇa Buddhatara.
+['ZH_T55_2157_012:0865a12_12']	唐云覺救。	唐云覺救。	In Chinese, Juejiu.
+['ZH_T55_2157_012:0865a13_1']	北印度罽賓人也。	北印度罽賓人也。	He was from Kāśmīra in northern India.
+['ZH_T55_2157_012:0865a13_16']	於東都白馬寺譯圓覺了義經一部。	於東都白馬寺譯圓覺了義經一部。	He translated the Sutra of Perfect Enlightenment in one fascicle at Baima Temple in the Eastern Capital.
+['ZH_T55_2157_012:0865a14_5']	此近出不委何年。	此近出不委何年。	This was recently translated, but the year is unknown.
+['ZH_T55_2157_012:0865a14_15']	且弘道為懷務甄詐妄。	且弘道為懷務甄詐妄。	However, his intention was to propagate the Way and distinguish falsehood.
+['ZH_T55_2157_012:0865a15_8']	但真詮不謬豈假具知年耶。	但真詮不謬豈假具知年耶。	But since the true teachings are not mistaken, why bother to know the year in detail?
+['ZH_T55_2157_012:0865a17_9']	佛頂尊勝陀羅尼經一卷第三出與杜顗等出者同本見大周錄及經前序右一部一卷其本見在。	佛頂尊勝陀羅尼經一卷第三出與杜顗等出者同本見大周錄及經前序右一部一卷其本見在。	Buddha's Crown Dhāraṇī Sūtra in one fascicle, third edition, same text as that translated by Du Yi and others, seen in the catalogue of the Great Zhou and the preface to the sūtra, a total of one fascicle, the original text is extant.
+['ZH_T55_2157_012:0865a18_6']	沙門佛陀波利。	沙門佛陀波利。	Śramaṇa Buddhapāli.
+['ZH_T55_2157_012:0865a18_11']	唐言覺護。	唐言覺護。	Means protector of the Buddha's teachings in Chinese.
+['ZH_T55_2157_012:0865a18_19']	北印度罽賓國人。	北印度罽賓國人。	A person from Kāśmīra in northern India.
+['ZH_T55_2157_012:0865a19_8']	忘身侚道遍觀靈跡。	忘身侚道遍觀靈跡。	Forgetting his own body, he pursued the Way and observed spiritual traces everywhere.
+['ZH_T55_2157_012:0865a19_18']	聞文殊師利在清涼山。	聞文殊師利在清涼山。	Hearing that Mañjuśrī was at Mount Qingliang,
+['ZH_T55_2157_012:0865a20_8', 'ZH_T55_2157_012:0865a20_10']	遠涉流沙躬來禮謁。🔽以。	遠涉流沙躬來禮謁。 以。	he crossed the desert from afar and came to pay homage in person.
+['ZH_T55_2157_012:0865a21_16']	天皇儀鳳元年景子杖錫五臺虔誠禮拜。	天皇儀鳳元年景子杖錫五臺虔誠禮拜。	In the first year of the Yifeng era of Emperor Tianhuang, the year of Jingzi, he held his staff at the Five Peaks and sincerely paid homage.
+['ZH_T55_2157_012:0865a22_7']	悲泣雨淚望覩聖容。	悲泣雨淚望覩聖容。	Weeping with tears, he hoped to see the holy countenance.
+['ZH_T55_2157_012:0865a23_1']	倐焉見一老翁從山中出來。	倐焉見一老翁從山中出來。	Suddenly he saw an old man coming out of the mountain,
+['ZH_T55_2157_012:0865a23_7']	作婆羅門語。	作婆羅門語。	speaking in the language of a brāhman.
+['ZH_T55_2157_012:0865a23_12']	謂波利曰。	謂波利曰。	He said to Pāli:
+['ZH_T55_2157_012:0865a24_2']	師精誠懇惻何所求耶。	師精誠懇惻何所求耶。	Your sincerity is heartfelt, what do you seek?
+['ZH_T55_2157_012:0865a24_7']	波利答曰。	波利答曰。	Pāli replied:
+['ZH_T55_2157_012:0865a24_17']	聞文殊大士隱跡此山。	聞文殊大士隱跡此山。	I heard that Mañjuśrī Bodhisattva has secluded himself on this mountain.
+['ZH_T55_2157_012:0865a25_6']	從印度來欲求瞻禮。	從印度來欲求瞻禮。	I have come from India wishing to pay homage.
+['ZH_T55_2157_012:0865a26_6']	翁曰師從彼國將佛頂尊勝陀羅尼經來不。	翁曰師從彼國將佛頂尊勝陀羅尼經來不。	The old man said, Did you bring the Buddha's Supreme Dhāraṇī Sūtra from that country?
+['ZH_T55_2157_012:0865a26_15']	此土眾生多造諸罪。	此土眾生多造諸罪。	The sentient beings in this land often commit various offenses.
+['ZH_T55_2157_012:0865a27_5']	出家之輩亦多所犯。	出家之輩亦多所犯。	Even those who have left the household life often violate precepts.
+['ZH_T55_2157_012:0865a27_14']	佛頂神呪除罪祕方。	佛頂神呪除罪祕方。	The Buddha's supreme divine spell is a secret method for eliminating offenses.
+['ZH_T55_2157_012:0865a28_4']	若不將經徒來何益。	若不將經徒來何益。	If you did not bring the sūtra, what benefit is there in coming here?
+['ZH_T55_2157_012:0865a28_13']	縱見文殊何必能識。	縱見文殊何必能識。	Even if you saw Mañjuśrī, how could you recognize him?
+['ZH_T55_2157_012:0865a29_8']	師可還西國取彼經來流傳此土。	師可還西國取彼經來流傳此土。	You should return to the Western Country to obtain that sūtra and spread it in this land.
+['ZH_T55_2157_012:0865a29_15']	即是遍奉眾聖。	即是遍奉眾聖。	This would be to universally serve the various sages.
+['ZH_T55_2157_012:0865b01_5', 'ZH_T55_2157_012:0865b01_8']	廣利群生拯濟幽冥。🔽報諸。	廣利群生拯濟幽冥。 報諸。	It would greatly benefit sentient beings and rescue the netherworld.
+['ZH_T55_2157_012:0865b02_3']	佛恩也。	佛恩也。	It would be repaying the Buddha's grace.
+['ZH_T55_2157_012:0865b03_5']	師取經來至此弟子當示師文殊師利菩薩所在。	師取經來至此弟子當示師文殊師利菩薩所在。	When you obtain the sūtra and bring it here, I will show you where Mañjuśrī Bodhisattva is.
+['ZH_T55_2157_012:0865b03_16']	波利聞此語已不勝喜躍。	波利聞此語已不勝喜躍。	When Bālī heard these words, he was overjoyed.
+['ZH_T55_2157_012:0865b04_7']	遂裁抑悲淚向山更禮。	遂裁抑悲淚向山更禮。	He restrained his sorrowful tears and bowed to the mountain again.
+['ZH_T55_2157_012:0865b04_17']	舉頭之頃忽不見老人。	舉頭之頃忽不見老人。	As soon as he raised his head, he suddenly could not see the old man.
+['ZH_T55_2157_012:0865b05_7']	波利驚愕倍增虔敬。	波利驚愕倍增虔敬。	Bālī was startled and doubled his reverence.
+['ZH_T55_2157_012:0865b05_17']	遂返歸本國取得經來。	遂返歸本國取得經來。	He then returned to his home country to obtain the sūtra.
+['ZH_T55_2157_012:0865b06_1']	既達。	既達。	After arriving,
+['ZH_T55_2157_012:0865b07_6']	帝城便求進見。	帝城便求進見。	he sought to enter the imperial capital to have an audience.
+['ZH_T55_2157_012:0865b07_11']	有司具狀。	有司具狀。	The officials prepared a report.
+['ZH_T55_2157_012:0865b08_2']	聞奏。	聞奏。	It was presented to the emperor.
+['ZH_T55_2157_012:0865b09_10']	天皇賞其精誠崇斯祕典。	天皇賞其精誠崇斯祕典。	The Heavenly Emperor admired his sincerity and revered this secret canon.
+['ZH_T55_2157_012:0865b10_13']	遂詔鴻臚寺典客令杜行顗及日照三藏於內共譯。	遂詔鴻臚寺典客令杜行顗及日照三藏於內共譯。	He then ordered Du Xingyi, the Director of Guests at the Honglu Temple, and the Tripiṭaka Master Rishuta to translate it together in the inner palace.
+['ZH_T55_2157_012:0865b11_3']	譯訖䞋絹三十匹。	譯訖䞋絹三十匹。	After the translation was completed, he was given thirty bolts of silk.
+['ZH_T55_2157_012:0865b11_8']	經留在內。	經留在內。	The sūtra was kept in the inner palace.
+['ZH_T55_2157_012:0865b11_17']	波利因乃垂泣奏曰。	波利因乃垂泣奏曰。	Poluo then wept and said,
+['ZH_T55_2157_012:0865b12_6']	委棄身命志在利人。	委棄身命志在利人。	I am willing to give up my life and my mind is set on benefiting others.
+['ZH_T55_2157_012:0865b12_15']	請布流行是所誠望。	請布流行是所誠望。	Please circulate it. This is my sincere wish.
+['ZH_T55_2157_012:0865b14_1']	帝愍其專至遂留所譯之經還其梵本任將流布。	帝愍其專至遂留所譯之經還其梵本任將流布。	The emperor pitied his single-minded devotion and finally kept the translated sūtra and returned the Sanskrit text to him to circulate as he wished.
+['ZH_T55_2157_012:0865b14_10']	波利得經不勝喜躍。	波利得經不勝喜躍。	Poluo obtained the sūtra and was overjoyed.
+['ZH_T55_2157_012:0865b15_9']	將向西明寺訪得善梵語僧順貞奏共翻譯。	將向西明寺訪得善梵語僧順貞奏共翻譯。	He went to Ximing Temple and found the monk Shunzhen, who was proficient in Sanskrit, and requested to translate it together.
+['ZH_T55_2157_012:0865b16_4']	帝允其請。	帝允其請。	The emperor approved his request.
+['ZH_T55_2157_012:0865b16_17']	遂對翻經大德圓測共貞翻出。	遂對翻經大德圓測共貞翻出。	He then had it translated together with the great virtuous one who translated sūtras, Yuance, and Zhen.
+['ZH_T55_2157_012:0865b17_7']	名佛頂尊勝陀羅尼。	名佛頂尊勝陀羅尼。	It was named the Buddha's Crown Superior Dhāraṇī.
+['ZH_T55_2157_012:0865b17_16']	與前杜令所翻之者。	與前杜令所翻之者。	Compared with the one previously translated by Du Xingyi,
+['ZH_T55_2157_012:0865b18_6']	呪韻經文大同小異。	呪韻經文大同小異。	the rhyme of the dhāraṇī and the text of the sūtra were mostly the same with slight differences.
+['ZH_T55_2157_012:0865b19_7']	波利所願已畢持經梵本入於五臺于今不出。	波利所願已畢持經梵本入於五臺于今不出。	Parī's wishes were fulfilled. He brought the Sanskrit text of the sūtra to Mount Wutai and has not come out until now.
+['ZH_T55_2157_012:0865b19_12']	莫知所之。	莫知所之。	No one knows where he is.
+['ZH_T55_2157_012:0865b20_2']	比諸眾譯此最弘布。	比諸眾譯此最弘布。	Among the various translations, this one is the most widely circulated.
+['ZH_T55_2157_012:0865b21_18']	准經前序乃云永淳二年迴至西京具狀聞奏。	准經前序乃云永淳二年迴至西京具狀聞奏。	According to the preface to the sūtra, it says that in the second year of Yongchun, he returned to the Western Capital and reported the situation in detail.
+['ZH_T55_2157_012:0865b21_36']	其年即共順貞再譯名佛頂尊勝陀羅尼經。	其年即共順貞再譯名佛頂尊勝陀羅尼經。	In that year, he and Shunzhen translated it again, named the Buddha's Crown Superior Dhāraṇī Sūtra.
+['ZH_T55_2157_012:0865b21_45']	今尋此說年月稍乖。	今尋此說年月稍乖。	Now, when examining this account, the year and month are slightly inconsistent.
+['ZH_T55_2157_012:0865b22_27']	其杜令譯者乃儀鳳四年正月五日也日照再譯乃永淳元年五月十三日也。	其杜令譯者乃儀鳳四年正月五日也日照再譯乃永淳元年五月十三日也。	The translation by Du Ling was on the fifth day of the first month in the fourth year of Yifeng. The retranslation by Rizhao was on the thirteenth day of the fifth month in the first year of Yongchun.
+['ZH_T55_2157_012:0865b22_38']	既云永淳二年方達唐境。	既云永淳二年方達唐境。	Since it is said that it reached the Tang territory in the second year of Yongchun,
+['ZH_T55_2157_012:0865b23_1']	前之二本從何而得。	前之二本從何而得。	where did the first two versions come from?
+['ZH_T55_2157_012:0865b23_13']	又永淳二年天皇已幸東都。	又永淳二年天皇已幸東都。	Moreover, in the second year of Yongchun, the Heavenly Emperor had already gone to the Eastern Capital.
+['ZH_T55_2157_012:0865b23_22']	如何乃云在京譯出。	如何乃云在京譯出。	How could it be said that it was translated in the capital?
+['ZH_T55_2157_012:0865b23_39']	其序復是永昌已後有人迷記却敘前事。	其序復是永昌已後有人迷記却敘前事。	The preface is also after Yongchang. Someone mistakenly recalled past events.
+['ZH_T55_2157_012:0865b23_44']	致有參差。	致有參差。	There are discrepancies.
+['ZH_T55_2157_012:0865b24_9']	此波利譯者不可依序定其年月也。	此波利譯者不可依序定其年月也。	This Parī means the translator cannot rely on the preface to determine the year and month.🔽Here is the corrected and aligned text:
+['ZH_T55_2157_012:0865b25_100']	貞元新定釋教目錄卷第十二	貞元新定釋教目錄卷第十二	Zhenyan Xinding Shijiao Mulù, Scroll 12

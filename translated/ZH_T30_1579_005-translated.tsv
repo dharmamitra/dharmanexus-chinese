@@ -1,0 +1,810 @@
+segmentnr	original	analyzed	translated
+['ZH_T30_1579_005:0299a02_0']	瑜伽師地論卷第五	瑜伽師地論卷第五	Yogācārabhūmi-śāstra, fascicle 5
+['ZH_T30_1579_005:0299a04_0']	彌勒菩薩說	彌勒菩薩說	Expounded by Maitreya Bodhisattva
+['ZH_T30_1579_005:0299a05_0']	三藏法師玄奘奉　詔譯	三藏法師玄奘奉　詔譯	Translated by Tripiṭaka Master Xuanzang on imperial command
+['ZH_T30_1579_005:0299a07_6']	本地分中有尋有伺等三地之二復次於色界中。	本地分中有尋有伺等三地之二復次於色界中。	In the Bhūmi-vastu, there are three grounds with vitarka and vicāra, etc. Secondly, in the form realm,
+['ZH_T30_1579_005:0299a07_15']	初靜慮地受生諸天。	初靜慮地受生諸天。	the gods born in the first dhyāna ground
+['ZH_T30_1579_005:0299a08_6']	即受彼地離生喜樂。	即受彼地離生喜樂。	experience the joy and pleasure of separation from afflictions in that ground.
+['ZH_T30_1579_005:0299a08_14']	第二靜慮地諸天。	第二靜慮地諸天。	The gods in the second dhyāna ground
+['ZH_T30_1579_005:0299a09_1']	受定生喜樂。	受定生喜樂。	experience the joy and pleasure born from concentration.
+['ZH_T30_1579_005:0299a09_9']	第三靜慮地諸天。	第三靜慮地諸天。	The gods in the third dhyāna ground
+['ZH_T30_1579_005:0299a09_15']	受離喜妙樂。	受離喜妙樂。	experience the sublime pleasure of separation from joy.
+['ZH_T30_1579_005:0299a10_3']	第四靜慮地諸天。	第四靜慮地諸天。	The gods in the fourth dhyāna ground
+['ZH_T30_1579_005:0299a11_2']	受捨念清淨寂靜無動之樂無色界諸天。	受捨念清淨寂靜無動之樂無色界諸天。	experience the pleasure of equanimity, mindfulness, purity, and stillness without movement. The gods in the formless realm
+['ZH_T30_1579_005:0299a11_11']	受極寂靜解脫之樂。	受極寂靜解脫之樂。	experience the pleasure of the liberation of ultimate stillness.
+['ZH_T30_1579_005:0299a12_1']	又由六種殊勝故。	又由六種殊勝故。	Moreover, due to six kinds of superiority,
+['ZH_T30_1579_005:0299a12_8']	苦樂殊勝應知。	苦樂殊勝應知。	the superiority of suffering and pleasure should be known.
+['ZH_T30_1579_005:0299a12_14']	一形量殊勝。	一形量殊勝。	First, the superiority of form and size.
+['ZH_T30_1579_005:0299a13_1']	二柔軟殊勝。	二柔軟殊勝。	Second, the superiority of softness.
+['ZH_T30_1579_005:0299a13_6']	三緣殊勝。	三緣殊勝。	Third, the superiority of conditions.
+['ZH_T30_1579_005:0299a13_11']	四時殊勝。	四時殊勝。	Fourth, the superiority of time.
+['ZH_T30_1579_005:0299a13_16']	五心殊勝。	五心殊勝。	Fifth, the superiority of mind.
+['ZH_T30_1579_005:0299a14_1']	六所依殊勝。	六所依殊勝。	Sixth, the superiority of basis.
+['ZH_T30_1579_005:0299a14_5']	何以故。	何以故。	Why is it so?
+['ZH_T30_1579_005:0299a14_14']	如如身量漸增廣大。	如如身量漸增廣大。	As the body gradually increases in size,
+['ZH_T30_1579_005:0299a15_4']	如是如是苦轉殊勝。	如是如是苦轉殊勝。	Suffering becomes more and more intense.
+['ZH_T30_1579_005:0299a15_13', 'ZH_T30_1579_005:0299a16_3', 'ZH_T30_1579_005:0299a16_16']	如如依止漸更柔軟。🔽如是如是苦轉殊勝。🔽如如苦緣漸更猛盛眾多差別。	如如依止漸更柔軟。 如是如是苦轉殊勝。 如如苦緣漸更猛盛眾多差別。	As the basis gradually becomes more and more pliable,🔽Suffering becomes more and more intense.🔽As the conditions for suffering gradually become more intense and numerous,
+['ZH_T30_1579_005:0299a17_6']	如是如是苦轉殊勝。	如是如是苦轉殊勝。	Suffering becomes more and more intense.
+['ZH_T30_1579_005:0299a17_15']	如如時分漸遠無間。	如如時分漸遠無間。	As the duration gradually becomes longer and uninterrupted,
+['ZH_T30_1579_005:0299a18_5']	如是如是苦轉殊勝。	如是如是苦轉殊勝。	Suffering becomes more and more intense.
+['ZH_T30_1579_005:0299a18_18']	如如內心無簡擇力漸漸增廣。	如如內心無簡擇力漸漸增廣。	As the power of non-discrimination in the inner mind gradually increases,
+['ZH_T30_1579_005:0299a19_8']	如是如是苦轉殊勝。	如是如是苦轉殊勝。	Suffering becomes more and more intense.
+['ZH_T30_1579_005:0299a19_17', 'ZH_T30_1579_005:0299a20_7']	如如所依苦器漸增。🔽如是如是苦轉殊勝。	如如所依苦器漸增。 如是如是苦轉殊勝。	As the basis for suffering gradually increases,🔽Suffering becomes more and more intense.
+['ZH_T30_1579_005:0299a20_12']	如苦殊勝。	如苦殊勝。	As suffering becomes more intense,
+['ZH_T30_1579_005:0299a21_1']	如是樂殊勝義。	如是樂殊勝義。	So does the meaning of the superiority of bliss.
+['ZH_T30_1579_005:0299a21_10']	隨其所應廣說應知。	隨其所應廣說應知。	This should be understood in detail according to the appropriate circumstances.
+['ZH_T30_1579_005:0299a21_16']	又樂有二種。	又樂有二種。	Moreover, there are two kinds of bliss:
+['ZH_T30_1579_005:0299a22_5']	一非聖財所生樂。	一非聖財所生樂。	One is the bliss born from non-holy wealth,
+['ZH_T30_1579_005:0299a22_12']	二聖財所生樂。	二聖財所生樂。	And the other is the bliss born from holy wealth.
+['ZH_T30_1579_005:0299a23_1']	非聖財所生樂者。	非聖財所生樂者。	As for the bliss born from non-holy wealth,
+['ZH_T30_1579_005:0299a23_11']	謂四種資具為緣得生。	謂四種資具為緣得生。	It arises from the four kinds of requisites as conditions.
+['ZH_T30_1579_005:0299a23_17']	一適悅資具。	一適悅資具。	First, the requisites for comfort.
+['ZH_T30_1579_005:0299a24_3']	二滋長資具。	二滋長資具。	Second, the requisites for growth.
+['ZH_T30_1579_005:0299a24_9']	三清淨資具。	三清淨資具。	Third, the requisites for purity.
+['ZH_T30_1579_005:0299a24_15']	四住持資具。	四住持資具。	Fourth, the requisites for support.
+['ZH_T30_1579_005:0299a25_1']	適悅資具者。	適悅資具者。	As for the requisites for comfort,
+['ZH_T30_1579_005:0299a25_11']	謂車乘衣服諸莊嚴具。	謂車乘衣服諸莊嚴具。	They refer to vehicles, clothing, various adornments,
+['ZH_T30_1579_005:0299a26_9']	歌笑舞樂塗香花鬘種種上妙珍翫樂具。	歌笑舞樂塗香花鬘種種上妙珍翫樂具。	Singing, laughing, dancing, music, fragrant ointments, flower garlands, various exquisite and precious playthings and pleasures,
+['ZH_T30_1579_005:0299a27_4']	光明照曜男女侍衛種種庫藏。	光明照曜男女侍衛種種庫藏。	Illuminating light, male and female attendants, and various treasuries.
+['ZH_T30_1579_005:0299a27_10']	滋長資具者。	滋長資具者。	As for the requisites for growth,
+['ZH_T30_1579_005:0299a27_17']	謂無尋思輪石。	謂無尋思輪石。	They refer to things like wheels, stones,
+['ZH_T30_1579_005:0299a28_3']	椎打築蹋。	椎打築蹋。	Pounding, beating, treading,
+['ZH_T30_1579_005:0299a28_8']	按摩等事。	按摩等事。	Massaging, and so forth.
+['ZH_T30_1579_005:0299a28_14']	清淨資具者。	清淨資具者。	As for the requisites for purity,
+['ZH_T30_1579_005:0299a28_19']	謂吉祥草。	謂吉祥草。	They refer to auspicious grasses,
+['ZH_T30_1579_005:0299a29_3']	頻螺果。	頻螺果。	Pippala fruits,
+['ZH_T30_1579_005:0299a29_10']	螺貝滿瓮等事。	螺貝滿瓮等事。	Conch shells, full jars, and so forth.
+['ZH_T30_1579_005:0299a29_16']	住持資具者。	住持資具者。	As for the requisites for support,
+['ZH_T30_1579_005:0299b01_1', 'ZH_T30_1579_005:0299b01_8']	謂飲及食。🔽聖財所生樂者。	謂飲及食。 聖財所生樂者。	They refer to drinking and eating.🔽The happiness produced by the seven riches of the noble ones refers to
+['ZH_T30_1579_005:0299b01_17']	謂七聖財為緣得生。	謂七聖財為緣得生。	The seven riches of the noble ones serving as conditions for its arising.
+['ZH_T30_1579_005:0299b02_3']	何等為七。	何等為七。	What are the seven?
+['ZH_T30_1579_005:0299b02_18']	一信二戒三慚四愧五聞六捨七慧。	一信二戒三慚四愧五聞六捨七慧。	First, faith; second, morality; third, shame; fourth, conscience; fifth, learning; sixth, generosity; seventh, wisdom.
+['ZH_T30_1579_005:0299b03_7']	復次由十五種相。	復次由十五種相。	Furthermore, by fifteen kinds of characteristics,
+['ZH_T30_1579_005:0299b03_17']	聖非聖財所生樂差別。	聖非聖財所生樂差別。	The difference in the happiness produced by the wealth of the noble and the non-noble.
+['ZH_T30_1579_005:0299b04_3']	何等十五。	何等十五。	What are the fifteen?
+['ZH_T30_1579_005:0299b04_15']	謂非聖財所生樂能起惡行。	謂非聖財所生樂能起惡行。	Namely, the happiness produced by the wealth of the non-noble can give rise to evil conduct.
+['ZH_T30_1579_005:0299b05_6']	聖財所生樂能起妙行。	聖財所生樂能起妙行。	The happiness produced by the wealth of the noble can give rise to good conduct.
+['ZH_T30_1579_005:0299b06_2']	又非聖財所生樂有罪喜樂相應。	又非聖財所生樂有罪喜樂相應。	Moreover, the happiness produced by the wealth of the non-noble is associated with guilty joy and pleasure.
+['ZH_T30_1579_005:0299b06_14']	聖財所生樂無罪喜樂相應。	聖財所生樂無罪喜樂相應。	The happiness produced by the wealth of the noble is associated with guiltless joy and pleasure.
+['ZH_T30_1579_005:0299b07_9']	又非聖財所生樂微小不遍所依。	又非聖財所生樂微小不遍所依。	Moreover, the happiness produced by the wealth of the non-noble is slight and does not pervade the basis.
+['ZH_T30_1579_005:0299b08_3']	聖財所生樂廣大遍滿所依。	聖財所生樂廣大遍滿所依。	The happiness produced by the wealth of the noble is vast and fills the basis.
+['ZH_T30_1579_005:0299b08_16']	又非聖財所生樂非一切時有。	又非聖財所生樂非一切時有。	Moreover, the happiness produced by the wealth of the non-noble does not exist at all times.
+['ZH_T30_1579_005:0299b09_3']	以依外緣故。	以依外緣故。	Because it depends on external conditions.
+['ZH_T30_1579_005:0299b09_13']	聖財所生樂一切時有。	聖財所生樂一切時有。	The happiness produced by the wealth of the noble exists at all times.
+['ZH_T30_1579_005:0299b10_1']	以依內緣故。	以依內緣故。	Because it depends on internal conditions.
+['ZH_T30_1579_005:0299b10_14']	又非聖財所生樂非一切地有。	又非聖財所生樂非一切地有。	Moreover, the happiness produced by the wealth of the non-noble does not exist in all stages.
+['ZH_T30_1579_005:0299b10_19']	唯欲界故。	唯欲界故。	It is only in the desire realm.
+['ZH_T30_1579_005:0299b11_9']	聖財所生樂一切地有。	聖財所生樂一切地有。	The happiness produced by the wealth of the noble exists in all stages.
+['ZH_T30_1579_005:0299b12_1']	通三界繫及不繫故。	通三界繫及不繫故。	Because it is connected to the three realms and is unattached.
+['ZH_T30_1579_005:0299b13_1']	又非聖財所生樂不能引發後世聖非聖財。	又非聖財所生樂不能引發後世聖非聖財。	Moreover, the happiness produced by the wealth of the non-noble cannot give rise to the wealth of the noble and the non-noble in the next life.
+['ZH_T30_1579_005:0299b13_16']	聖財所生樂能引發後世聖非聖財。	聖財所生樂能引發後世聖非聖財。	The happiness produced by the wealth of the noble ones can lead to the wealth of the noble ones and the non-noble ones in the next world.
+['ZH_T30_1579_005:0299b14_13']	又非聖財所生樂若受用時有盡有邊。	又非聖財所生樂若受用時有盡有邊。	Moreover, the happiness produced by the wealth of the non-noble ones, when enjoyed, has an end and a limit.
+['ZH_T30_1579_005:0299b15_13']	聖財所生樂若受用時轉更充盛增長廣大。	聖財所生樂若受用時轉更充盛增長廣大。	The happiness produced by the wealth of the noble ones, when enjoyed, becomes more and more abundant and increases and expands.
+['ZH_T30_1579_005:0299b16_7']	又非聖財所生樂為他劫奪。	又非聖財所生樂為他劫奪。	Moreover, the happiness produced by the wealth of the non-noble ones can be robbed by others.
+['ZH_T30_1579_005:0299b16_16']	若王若賊怨及水火。	若王若賊怨及水火。	By the king, thieves, enemies, and by water and fire.
+['ZH_T30_1579_005:0299b17_8']	聖財所生樂無能侵奪。	聖財所生樂無能侵奪。	The happiness produced by the wealth of the noble ones cannot be invaded.
+['ZH_T30_1579_005:0299b18_7']	又非聖財所生樂不可從今世持往後世。	又非聖財所生樂不可從今世持往後世。	Moreover, the happiness produced by the wealth of the non-noble ones cannot be taken from this world to the next world.
+['ZH_T30_1579_005:0299b19_4']	聖財所生樂可從今世持往後世。	聖財所生樂可從今世持往後世。	The happiness produced by the wealth of the noble ones can be taken from this world to the next world.
+['ZH_T30_1579_005:0299b20_2']	又非聖財所生樂受用之時不可充足。	又非聖財所生樂受用之時不可充足。	Moreover, when enjoying the happiness produced by the wealth of the non-noble ones, it cannot be fully satisfied.
+['ZH_T30_1579_005:0299b20_16']	聖財所生樂受用之時究竟充滿。	聖財所生樂受用之時究竟充滿。	When enjoying the happiness produced by the wealth of the noble ones, it is ultimately filled.
+['ZH_T30_1579_005:0299b21_8']	又非聖財所生樂有怖畏。	又非聖財所生樂有怖畏。	Moreover, the happiness produced by the wealth of the non-noble ones is fearful.
+['ZH_T30_1579_005:0299b21_12']	有怨對。	有怨對。	There are enemies.
+['ZH_T30_1579_005:0299b21_16']	有災橫。	有災橫。	There are calamities.
+['ZH_T30_1579_005:0299b22_1']	有燒惱。	有燒惱。	There is burning.
+['ZH_T30_1579_005:0299b22_9']	不能斷後世大苦。	不能斷後世大苦。	It cannot cut off the great suffering of the next world.
+['ZH_T30_1579_005:0299b22_14']	有怖畏者。	有怖畏者。	As for being fearful,
+['ZH_T30_1579_005:0299b23_6']	謂懼當生苦所依處故。	謂懼當生苦所依處故。	Because it is the basis for fear of future suffering.
+['ZH_T30_1579_005:0299b23_11']	有怨對者。	有怨對者。	Those with enemies
+['ZH_T30_1579_005:0299b24_3']	謂鬪訟違諍所依處故。	謂鬪訟違諍所依處故。	are the basis for disputes and conflicts.
+['ZH_T30_1579_005:0299b24_8']	有災橫者。	有災橫者。	Those with calamities
+['ZH_T30_1579_005:0299b24_17']	謂老病死所依處故。	謂老病死所依處故。	are the basis for old age, sickness, and death.
+['ZH_T30_1579_005:0299b25_3', 'ZH_T30_1579_005:0299b25_12']	有燒惱者。🔽謂由此樂性不真實。	有燒惱者。 謂由此樂性不真實。	Those with burning afflictions
+['ZH_T30_1579_005:0299b26_7']	如疥癩病虛妄顛倒所依處故。	如疥癩病虛妄顛倒所依處故。	are the basis for false and inverted views, like the false view of the body as pure.
+['ZH_T30_1579_005:0299b27_2']	愁歎憂苦種種熱惱所依處故。	愁歎憂苦種種熱惱所依處故。	They are the basis for various kinds of distress, such as sorrow, lamentation, suffering, and anxiety.
+['ZH_T30_1579_005:0299b27_11']	不能斷後世大苦者。	不能斷後世大苦者。	Those who cannot end the great suffering of future lives
+['ZH_T30_1579_005:0299b28_6']	謂貪瞋等本隨二惑所依處故。	謂貪瞋等本隨二惑所依處故。	are the basis for the two kinds of afflictions, the fundamental and the secondary.
+['ZH_T30_1579_005:0299b28_15', 'ZH_T30_1579_005:0299b29_1']	聖財所生樂無怖畏。🔽無怨對。	聖財所生樂無怖畏。 無怨對。	The happiness born from the wealth of the noble ones is free from fear,🔽free from enemies,
+['ZH_T30_1579_005:0299b29_5']	無災橫。	無災橫。	free from calamities,
+['ZH_T30_1579_005:0299b29_9']	無燒惱。	無燒惱。	free from burning afflictions,
+['ZH_T30_1579_005:0299b29_16']	能斷後世大苦。	能斷後世大苦。	and can end the great suffering of future lives.
+['ZH_T30_1579_005:0299c01_5']	隨其所應與上相違。	隨其所應與上相違。	As appropriate, it is the opposite of the above.
+['ZH_T30_1579_005:0299c01_10']	廣說應知。	廣說應知。	It should be understood in detail.
+['ZH_T30_1579_005:0299c02_2']	又外有欲者受用欲塵。	又外有欲者受用欲塵。	Moreover, those who enjoy external desires enjoy sense objects,
+['ZH_T30_1579_005:0299c02_11']	聖慧命者受用正法。	聖慧命者受用正法。	while those who enjoy the life of wisdom of the noble ones enjoy the true Dharma.
+['ZH_T30_1579_005:0299c03_2']	由五種相故有差別。	由五種相故有差別。	There are five aspects of difference.
+['ZH_T30_1579_005:0299c03_7']	由此因緣。	由此因緣。	For these reasons,
+['ZH_T30_1579_005:0299c04_4']	說聖慧命者以無上慧命清淨自活。	說聖慧命者以無上慧命清淨自活。	It is said that the holy ones live their lives with wisdom, pure and unsullied.
+['ZH_T30_1579_005:0299c04_9']	何等為五。	何等為五。	What are the five?
+['ZH_T30_1579_005:0299c05_2']	一受用正法者不染污故。	一受用正法者不染污故。	First, those who enjoy the true Dharma are unstained.
+['ZH_T30_1579_005:0299c05_13']	二受用正法者極畢竟故。	二受用正法者極畢竟故。	Second, those who enjoy the true Dharma are ultimately definitive.
+['ZH_T30_1579_005:0299c06_6']	三受用正法者一向定故。	三受用正法者一向定故。	Third, those who enjoy the true Dharma are one-sidedly determined.
+['ZH_T30_1579_005:0299c07_4']	四受用正法者與餘慧命者不共故。	四受用正法者與餘慧命者不共故。	Fourth, those who enjoy the true Dharma do not share it with other wise ones.
+['ZH_T30_1579_005:0299c07_16']	五受用正法者有真實樂故。	五受用正法者有真實樂故。	Fifth, those who enjoy the true Dharma have true joy.
+['ZH_T30_1579_005:0299c08_5']	摧伏魔怨故。	摧伏魔怨故。	Because it subdues the demons and enemies.
+['ZH_T30_1579_005:0299c08_16', 'ZH_T30_1579_005:0299c09_9']	此中諸受欲者所有欲樂。🔽是隨順喜處貪愛所隨故。	此中諸受欲者所有欲樂。 是隨順喜處貪愛所隨故。	Herein, all those who enjoy desires have desires and pleasures.🔽This is because they follow the craving that accompanies joy.
+['ZH_T30_1579_005:0299c10_3']	是隨順憂處瞋恚所隨故。	是隨順憂處瞋恚所隨故。	This is because they follow the hatred that accompanies sorrow.
+['ZH_T30_1579_005:0299c10_17']	是隨順捨處無簡擇捨之所隨故。	是隨順捨處無簡擇捨之所隨故。	This is because they follow the indifference that accompanies equanimity without discernment.
+['ZH_T30_1579_005:0299c11_12']	聖慧命者受用正法則不如是。	聖慧命者受用正法則不如是。	The holy ones who enjoy the true Dharma are not like this.
+['ZH_T30_1579_005:0299c12_5']	又諸有欲者受用欲塵。	又諸有欲者受用欲塵。	Moreover, those who enjoy desires enjoy the objects of desire.
+['ZH_T30_1579_005:0299c13_1']	從不可知本際以來以無常故。	從不可知本際以來以無常故。	Since beginningless time, because of impermanence,
+['ZH_T30_1579_005:0299c13_10']	捨餘欲塵得餘欲塵。	捨餘欲塵得餘欲塵。	they abandon other desires and obtain other desires.
+['ZH_T30_1579_005:0299c14_1']	或於一時都無所得。	或於一時都無所得。	Or at one time they attain nothing at all.
+['ZH_T30_1579_005:0299c14_14']	聖慧命者受用正法則不如是。	聖慧命者受用正法則不如是。	The one who is wise in the holy life does not experience the true Dharma in this way.
+['ZH_T30_1579_005:0299c15_5']	又受欲者受用欲時。	又受欲者受用欲時。	Moreover, when one who enjoys desires experiences desires,
+['ZH_T30_1579_005:0299c16_1']	即於此事一起喜愛一起憂恚。	即於此事一起喜愛一起憂恚。	with regard to this matter, one gives rise to joy and love, and one gives rise to worry and anger.
+['ZH_T30_1579_005:0299c16_14']	復即於彼或時生喜或時生憂。	復即於彼或時生喜或時生憂。	Again, with regard to that, one sometimes gives rise to joy and sometimes gives rise to worry.
+['ZH_T30_1579_005:0299c17_9']	聖慧命者受用正法則不如是。	聖慧命者受用正法則不如是。	The one who is wise in the holy life does not experience the true Dharma in this way.
+['ZH_T30_1579_005:0299c18_1']	又諸離欲外慧命者。	又諸離欲外慧命者。	Moreover, the one who is wise in the external Dharma, having already left desires,
+['ZH_T30_1579_005:0299c18_16']	於種種見趣自分別所起邪勝解處。	於種種見趣自分別所起邪勝解處。	with regard to the various views and practices, and the places where one gives rise to wrong understanding and attachment,
+['ZH_T30_1579_005:0299c19_7']	其心猛利種種取著。	其心猛利種種取著。	one's mind is sharp and one gives rise to various attachments.
+['ZH_T30_1579_005:0299c19_16']	恒為欲染之所隨逐。	恒為欲染之所隨逐。	One is always followed by the defilements of desire.
+['ZH_T30_1579_005:0299c20_7']	雖已離欲復還退起。	雖已離欲復還退起。	Although one has already left desires, one still falls back and gives rise to them again.
+['ZH_T30_1579_005:0299c21_3', 'ZH_T30_1579_005:0299c21_16']	聖慧命者受用正法則不如是。🔽又受欲者及諸世間已離欲者。	聖慧命者受用正法則不如是。 又受欲者及諸世間已離欲者。	The one who is wise in the holy life does not experience the true Dharma in this way.
+['ZH_T30_1579_005:0299c22_7']	所有欲樂及離欲樂。	所有欲樂及離欲樂。	Moreover, the desires and pleasures of one who enjoys desires, and the desires and pleasures of one who has already left desires in the world,
+['ZH_T30_1579_005:0299c22_12']	皆非真實。	皆非真實。	are all not real.
+['ZH_T30_1579_005:0299c23_3']	皆為魔怨之所隨逐。	皆為魔怨之所隨逐。	They are all followed by the demonic enemies.
+['ZH_T30_1579_005:0299c23_16']	如幻如響如影如焰如夢所見。	如幻如響如影如焰如夢所見。	They are like an illusion, like an echo, like a shadow, like a flame, like what is seen in a dream.
+['ZH_T30_1579_005:0299c24_7']	猶如幻作諸莊嚴具。	猶如幻作諸莊嚴具。	It is like a magician creating various ornaments.
+['ZH_T30_1579_005:0299c24_17']	又著樂愚夫諸受欲者。	又著樂愚夫諸受欲者。	Moreover, foolish people who indulge in pleasures,
+['ZH_T30_1579_005:0299c25_8']	及諸世間已離欲者。	及諸世間已離欲者。	and worldly people who have already become detached from desires,
+['ZH_T30_1579_005:0299c26_4']	凡所受用猶如癲狂如醉亂等。	凡所受用猶如癲狂如醉亂等。	whatever they enjoy is like a drunkard's delirium.
+['ZH_T30_1579_005:0299c26_13']	未制魔軍而有受用。	未制魔軍而有受用。	Before subduing the demon army, there is enjoyment.
+['ZH_T30_1579_005:0299c27_4']	是故彼樂為非真實。	是故彼樂為非真實。	Therefore, that pleasure is not real.
+['ZH_T30_1579_005:0299c27_13']	亦不能制所有魔事。	亦不能制所有魔事。	And it cannot subdue the various demonic affairs.
+['ZH_T30_1579_005:0299c28_8']	聖慧命者受用正法則不如是。	聖慧命者受用正法則不如是。	The enjoyment of the right Dharma by the noble ones with wisdom-life is not like this.
+['ZH_T30_1579_005:0299c29_14']	復次三界有情所依之身當云何觀。	復次三界有情所依之身當云何觀。	Next, how should one view the body that is the basis of sentient beings in the three realms?
+['ZH_T30_1579_005:0300a01_7']	謂如毒熱癰麁重所隨故。	謂如毒熱癰麁重所隨故。	Namely, it is like a poisonous hot boil that is accompanied by coarseness.
+['ZH_T30_1579_005:0300a02_3']	即於此身樂受生時當云何觀。	即於此身樂受生時當云何觀。	When pleasant feeling arises in this body, how should one view it?
+['ZH_T30_1579_005:0300a02_13']	謂如毒熱癰暫遇冷觸。	謂如毒熱癰暫遇冷觸。	It is like a poisonous hot boil that temporarily encounters a cold touch.
+['ZH_T30_1579_005:0300a03_8']	即於此身苦受生時當云何觀。	即於此身苦受生時當云何觀。	When painful feeling arises in this body, how should one view it?
+['ZH_T30_1579_005:0300a04_2']	謂如毒熱癰為熱灰所觸。	謂如毒熱癰為熱灰所觸。	It is like a poisonous hot boil being touched by hot ashes.
+['ZH_T30_1579_005:0300a05_1']	即於此身不苦不樂受生時當云何觀。	即於此身不苦不樂受生時當云何觀。	When neither-painful-nor-pleasant feeling arises in this body, how should one view it?
+['ZH_T30_1579_005:0300a05_12']	謂如毒熱癰離冷熱等觸。	謂如毒熱癰離冷熱等觸。	It is like a poisonous hot boil being separated from cold, hot, and other touches.
+['ZH_T30_1579_005:0300a06_2']	自性毒熱而本住故。	自性毒熱而本住故。	Because it is by nature hot and painful, and because it is the basis of suffering.
+['ZH_T30_1579_005:0300a06_7']	薄伽梵說。	薄伽梵說。	The Blessed One said:
+['ZH_T30_1579_005:0300a06_16']	當知樂受壞苦故苦。	當知樂受壞苦故苦。	One should know that pleasant feeling is suffering because it is subject to change.
+['ZH_T30_1579_005:0300a07_3']	苦受苦苦故苦。	苦受苦苦故苦。	Painful feeling is suffering because it is painful by nature.
+['ZH_T30_1579_005:0300a07_13']	不苦不樂受行苦故苦。	不苦不樂受行苦故苦。	Neither-painful-nor-pleasant feeling is suffering because it is subject to the suffering of conditioned existence.
+['ZH_T30_1579_005:0300a08_3', 'ZH_T30_1579_005:0300a08_9']	又說有有愛味喜。🔽有離愛味喜。	又說有有愛味喜。 有離愛味喜。	It is also said that there is the joy of attachment to existence,🔽the joy of detachment from attachment,
+['ZH_T30_1579_005:0300a08_16']	有勝離愛味喜。	有勝離愛味喜。	and the joy of the highest detachment from attachment.
+['ZH_T30_1579_005:0300a09_6']	如是等類如經廣說。	如是等類如經廣說。	Such categories are explained in detail in the sutras.
+['ZH_T30_1579_005:0300a09_13']	應知墮二界攝。	應知墮二界攝。	One should know that they belong to the two realms.
+['ZH_T30_1579_005:0300a10_11']	又薄伽梵建立想受滅樂為樂中第一。	又薄伽梵建立想受滅樂為樂中第一。	Moreover, the Blessed One established the cessation of ideation and feeling as the foremost of all pleasures.
+['ZH_T30_1579_005:0300a11_3']	此依住樂非謂受樂。	此依住樂非謂受樂。	This is based on abiding in pleasure, not on the experience of pleasure.
+['ZH_T30_1579_005:0300a11_10']	又說有三種樂。	又說有三種樂。	It is also said that there are three kinds of pleasure:
+['ZH_T30_1579_005:0300a12_1']	謂離貪離瞋離癡。	謂離貪離瞋離癡。	the pleasure of being free from greed, the pleasure of being free from hatred, and the pleasure of being free from delusion.
+['ZH_T30_1579_005:0300a12_13']	此三種樂唯無漏界中可得。	此三種樂唯無漏界中可得。	These three kinds of pleasure can only be found in the realm of the uncontaminated.
+['ZH_T30_1579_005:0300a13_4']	是故此樂名為常樂。	是故此樂名為常樂。	Therefore, this pleasure is called eternal pleasure.
+['ZH_T30_1579_005:0300a13_9']	無漏界攝。	無漏界攝。	It is included in the uncontaminated realm.
+['ZH_T30_1579_005:0300a14_11']	界將生已生有情壽命安住。	界將生已生有情壽命安住。	The life of sentient beings who are about to be born or have already been born in the realms abides.
+['ZH_T30_1579_005:0300a15_6']	此中當知觸意思識三種食故。	此中當知觸意思識三種食故。	Here, one should know that because of the three kinds of nutriments - contact, intention, and consciousness -
+['ZH_T30_1579_005:0300a15_17']	一切三界有情壽命安住。	一切三界有情壽命安住。	the life of all sentient beings in the three realms abides.
+['ZH_T30_1579_005:0300a16_13']	段食一種唯令欲界有情壽命安住。	段食一種唯令欲界有情壽命安住。	The one kind of coarse food only sustains the life and well-being of sentient beings in the desire realm.
+['ZH_T30_1579_005:0300a17_6']	又於那落迦受生有情。	又於那落迦受生有情。	Moreover, for sentient beings born in the hells,
+['ZH_T30_1579_005:0300a17_12']	有微細段食。	有微細段食。	there is subtle coarse food.
+['ZH_T30_1579_005:0300a18_4']	謂腑藏中有微動風。	謂腑藏中有微動風。	That is to say, there is a subtle moving wind in the internal organs.
+['ZH_T30_1579_005:0300a18_13']	由此因緣彼得久住。	由此因緣彼得久住。	Because of this cause and condition, they can remain for a long time.
+['ZH_T30_1579_005:0300a19_6']	餓鬼傍生人中有麁段食。	餓鬼傍生人中有麁段食。	Hungry ghosts, animals, and humans in the desire realm have coarse coarse food.
+['ZH_T30_1579_005:0300a19_15']	謂作分段而噉食之。	謂作分段而噉食之。	That is to say, they make it into pieces and eat it.
+['ZH_T30_1579_005:0300a20_3']	復有微細食。	復有微細食。	There is also subtle food.
+['ZH_T30_1579_005:0300a21_1']	謂住羯羅藍等位有情及欲界諸天。	謂住羯羅藍等位有情及欲界諸天。	That is to say, for sentient beings in the state of kalala and so forth, and for the gods in the desire realm,
+['ZH_T30_1579_005:0300a21_6']	由彼食已。	由彼食已。	because of that food,
+['ZH_T30_1579_005:0300a22_1']	所有段食流入一切身分支節。	所有段食流入一切身分支節。	all the coarse food flows into all the limbs and joints of the body,
+['ZH_T30_1579_005:0300a22_10']	尋即消化無有便穢。	尋即消化無有便穢。	and is immediately digested without any excrement.
+['ZH_T30_1579_005:0300a23_7']	復次婬欲受用者。	復次婬欲受用者。	Next, as for the enjoyment of sexual desire,
+['ZH_T30_1579_005:0300a24_3']	諸那落迦中所有有情皆無婬事。	諸那落迦中所有有情皆無婬事。	all the sentient beings in the hells are without sexual activity.
+['ZH_T30_1579_005:0300a24_8']	所以者何。	所以者何。	Why is this?
+['ZH_T30_1579_005:0300a25_7']	由彼有情長時無間多受種種極猛利苦。	由彼有情長時無間多受種種極猛利苦。	Because those sentient beings continuously experience various extremely intense sufferings for a long time.
+['ZH_T30_1579_005:0300a25_12']	由此因緣。	由此因緣。	Because of this cause and condition,
+['ZH_T30_1579_005:0300a26_6']	彼諸有情若男於女不起女欲。	彼諸有情若男於女不起女欲。	if they are male, they do not arouse female desire towards females.
+['ZH_T30_1579_005:0300a26_15']	若女於男不起男欲。	若女於男不起男欲。	If a woman does not arouse male desire towards a man,
+['ZH_T30_1579_005:0300a27_6', 'ZH_T30_1579_005:0300a27_17']	何況展轉二二交會。🔽若鬼傍生人中所有依身。	何況展轉二二交會。 若鬼傍生人中所有依身。	how much less would they engage in mutual sexual intercourse?
+['ZH_T30_1579_005:0300a28_7']	苦樂相雜故有婬欲。	苦樂相雜故有婬欲。	Among ghosts, animals, and humans, there are desires due to the mixture of suffering and pleasure in the bodies they rely on.
+['ZH_T30_1579_005:0300a29_2']	男女展轉二二交會不淨流出。	男女展轉二二交會不淨流出。	Men and women engage in mutual sexual intercourse, and impurities flow out.
+['ZH_T30_1579_005:0300a29_15']	欲界諸天雖行婬欲無此不淨。	欲界諸天雖行婬欲無此不淨。	Although the gods in the desire realm engage in sexual desires, they do not have impurities.
+['ZH_T30_1579_005:0300b01_10']	然於根門有風氣出煩惱便息。	然於根門有風氣出煩惱便息。	However, there is a wind-like energy that comes out from their sense faculties, and their afflictions are thereby quelled.
+['ZH_T30_1579_005:0300b01_16']	四大王眾天。	四大王眾天。	The gods in the Heaven of the Four Kings
+['ZH_T30_1579_005:0300b02_7']	二二交會熱惱方息。	二二交會熱惱方息。	cease their heat and distress through mutual sexual intercourse.
+['ZH_T30_1579_005:0300b02_14']	如四大王眾天。	如四大王眾天。	Just as in the Heaven of the Four Kings,
+['ZH_T30_1579_005:0300b03_2']	三十三天亦爾。	三十三天亦爾。	so it is in the Heaven of the Thirty-three.
+['ZH_T30_1579_005:0300b03_6']	時分天。	時分天。	In the Heaven of the Yāma gods,
+['ZH_T30_1579_005:0300b03_15']	唯互相抱熱惱便息。	唯互相抱熱惱便息。	they cease their heat and distress merely by embracing each other.
+['ZH_T30_1579_005:0300b03_19']	知足天。	知足天。	In the Heaven of Joy,
+['ZH_T30_1579_005:0300b04_8']	唯相執手熱惱便息。	唯相執手熱惱便息。	they cease their heat and distress merely by holding hands.
+['ZH_T30_1579_005:0300b04_12']	樂化天。	樂化天。	In the Heaven of Delighting in Emanations,
+['ZH_T30_1579_005:0300b05_2']	相顧而笑熱惱便息。	相顧而笑熱惱便息。	they cease their heat and distress by smiling at each other.
+['ZH_T30_1579_005:0300b05_8']	他化自在天。	他化自在天。	In the Heaven of Free Enjoyment of Manifestations by Others,
+['ZH_T30_1579_005:0300b05_17']	眼相顧視熱惱便息。	眼相顧視熱惱便息。	they cease their heat and distress by merely gazing at each other.
+['ZH_T30_1579_005:0300b06_2']	又三洲人。	又三洲人。	Moreover, in the three continents of humans,
+['ZH_T30_1579_005:0300b06_11']	攝受妻妾施設嫁娶。	攝受妻妾施設嫁娶。	they accept wives and concubines and arrange marriages.
+['ZH_T30_1579_005:0300b07_6']	北拘盧洲無我所故無攝受故。	北拘盧洲無我所故無攝受故。	In the northern continent Kuru, because there is no sense of ownership and no appropriation,
+['ZH_T30_1579_005:0300b08_3']	一切有情無攝受妻妾亦無嫁娶。	一切有情無攝受妻妾亦無嫁娶。	all sentient beings have no appropriated wives and concubines, and there is no marriage.
+['ZH_T30_1579_005:0300b08_8']	如三洲人。	如三洲人。	Like the people of the three continents.
+['ZH_T30_1579_005:0300b09_2']	如是大力鬼及欲界諸天亦爾。	如是大力鬼及欲界諸天亦爾。	The powerful ghosts and the gods of the desire realm are also like this.
+['ZH_T30_1579_005:0300b09_14']	唯除樂化天及他化自在天。	唯除樂化天及他化自在天。	Only except for the Heaven of Delight in Emanations and the Heaven of Free Enjoyment of Manifestations by Others.
+['ZH_T30_1579_005:0300b10_9']	又一切欲界天眾無有處女胎藏。	又一切欲界天眾無有處女胎藏。	Moreover, all the heavenly beings of the desire realm do not have the womb of a virgin.
+['ZH_T30_1579_005:0300b11_8']	然四大王眾天於父母肩上或於懷中。	然四大王眾天於父母肩上或於懷中。	However, in the Heaven of the Four Kings, on the shoulders of the parents or in their arms,
+['ZH_T30_1579_005:0300b12_1']	如五歲小兒欻然化出。	如五歲小兒欻然化出。	like a five-year-old child, they suddenly appear through transformation.
+['ZH_T30_1579_005:0300b12_9']	三十三天如六歲。	三十三天如六歲。	In the Heaven of the Thirty-three, like a six-year-old.
+['ZH_T30_1579_005:0300b12_16']	時分天如七歲。	時分天如七歲。	In the Heaven of Timely Portion, like a seven-year-old.
+['ZH_T30_1579_005:0300b13_4', 'ZH_T30_1579_005:0300b13_11']	知足天如八歲。🔽樂化天如九歲。	知足天如八歲。 樂化天如九歲。	In the Heaven of Contentment, like an eight-year-old.🔽In the Heaven of Delight in Emanations, like a nine-year-old.
+['ZH_T30_1579_005:0300b14_2']	他化自在天如十歲。	他化自在天如十歲。	In the Heaven of Free Enjoyment of Manifestations by Others, like a ten-year-old.
+['ZH_T30_1579_005:0300b15_11']	復次生建立者謂三種欲生。	復次生建立者謂三種欲生。	Next, as for the establishment of birth, it refers to the three kinds of desire-born.
+['ZH_T30_1579_005:0300b16_3']	或有眾生現住欲塵。	或有眾生現住欲塵。	There are sentient beings who currently abide in the desire realm.
+['ZH_T30_1579_005:0300b16_15']	由此現住欲塵故富貴自在。	由此現住欲塵故富貴自在。	Because of this current abiding in the desire realm, they are wealthy and self-sufficient.
+['ZH_T30_1579_005:0300b17_2']	彼復云何。	彼復云何。	What are they again?
+['ZH_T30_1579_005:0300b18_1']	謂一切人及四大王眾天乃至善知足天。	謂一切人及四大王眾天乃至善知足天。	It refers to all humans and the gods of the Heaven of the Four Kings up to the Heaven of Delight in Creating.
+['ZH_T30_1579_005:0300b18_8']	是名第一欲生。	是名第一欲生。	This is called the first desire realm.
+['ZH_T30_1579_005:0300b18_17']	或有眾生變化欲塵。	或有眾生變化欲塵。	There are sentient beings who transform desire objects.
+['ZH_T30_1579_005:0300b19_10']	由此變化欲塵故富貴自在。	由此變化欲塵故富貴自在。	Because of this transformation of desire objects, they are wealthy and powerful.
+['ZH_T30_1579_005:0300b19_15']	彼復云何。	彼復云何。	What is that?
+['ZH_T30_1579_005:0300b20_1']	謂樂化天。	謂樂化天。	It refers to the Heaven of Delight in Transformations.
+['ZH_T30_1579_005:0300b20_14']	由彼諸天為自己故化為欲塵。	由彼諸天為自己故化為欲塵。	Because the gods in that heaven transform desire objects for themselves.
+['ZH_T30_1579_005:0300b21_1']	非為他故。	非為他故。	Not for others.
+['ZH_T30_1579_005:0300b21_14']	唯自變化諸欲塵故富貴自在。	唯自變化諸欲塵故富貴自在。	Only because they transform various desire objects for themselves are they wealthy and powerful.
+['ZH_T30_1579_005:0300b22_3']	是名第二欲生。	是名第二欲生。	This is called the second desire realm.
+['ZH_T30_1579_005:0300b22_12']	或有眾生他化欲塵。	或有眾生他化欲塵。	There are sentient beings who use desire objects created by others.
+['ZH_T30_1579_005:0300b23_7']	由他所化諸欲塵故富貴自在。	由他所化諸欲塵故富貴自在。	Because of the desire objects created by others, they are wealthy and powerful.
+['ZH_T30_1579_005:0300b23_18']	彼復云何謂他化自在天。	彼復云何謂他化自在天。	What is that? It refers to the Heaven of Free Enjoyment of Manifestations by Others.
+['ZH_T30_1579_005:0300b25_4']	由彼諸天為自因緣亦能變化為他因緣亦能變化。	由彼諸天為自因緣亦能變化為他因緣亦能變化。	Because the gods in that heaven are able to transform for their own causes and conditions, and also able to transform for the causes and conditions of others.
+['ZH_T30_1579_005:0300b26_7']	故於自化非為希奇用他所化欲塵為富貴自在。	故於自化非為希奇用他所化欲塵為富貴自在。	Therefore, in their own transformations, they do not consider it extraordinary. They use the desire objects created by others for their own wealth and power.
+['ZH_T30_1579_005:0300b26_17']	故說此天為他化自在。	故說此天為他化自在。	Therefore, this heaven is called the Heaven of Free Enjoyment of Manifestations by Others.
+['ZH_T30_1579_005:0300b27_12']	非彼諸天唯受用他所化欲塵。	非彼諸天唯受用他所化欲塵。	It is not that those gods only enjoy the desire objects created by others.
+['ZH_T30_1579_005:0300b28_6']	亦有受用自所化欲塵者。	亦有受用自所化欲塵者。	There are also those who enjoy the desire objects created by themselves.
+['ZH_T30_1579_005:0300b28_13']	是名第三欲生。	是名第三欲生。	This is called the third desire realm birth.
+['ZH_T30_1579_005:0300b29_2']	復有三種樂生。	復有三種樂生。	There are also three kinds of blissful births.
+['ZH_T30_1579_005:0300b29_16']	或有眾生用離生喜樂灌灑其身。	或有眾生用離生喜樂灌灑其身。	There are sentient beings whose bodies are sprinkled with the bliss of separation from birth.
+['ZH_T30_1579_005:0300c01_6']	謂初靜慮地諸天。	謂初靜慮地諸天。	This refers to the gods of the first dhyana realm.
+['ZH_T30_1579_005:0300c01_13']	是名第一樂生。	是名第一樂生。	This is called the first blissful birth.
+['ZH_T30_1579_005:0300c02_9']	或有眾生由定生喜樂灌灑其身。	或有眾生由定生喜樂灌灑其身。	There are sentient beings whose bodies are sprinkled with the bliss of concentration-born joy.
+['ZH_T30_1579_005:0300c02_18']	謂第二靜慮地諸天。	謂第二靜慮地諸天。	This refers to the gods of the second dhyana realm.
+['ZH_T30_1579_005:0300c03_6']	是名第二樂生。	是名第二樂生。	This is called the second blissful birth.
+['ZH_T30_1579_005:0300c04_2']	或有眾生以離喜樂灌灑其身。	或有眾生以離喜樂灌灑其身。	There are sentient beings whose bodies are sprinkled with the bliss of separation from joy.
+['ZH_T30_1579_005:0300c04_11']	謂第三靜慮地諸天。	謂第三靜慮地諸天。	This refers to the gods of the third dhyana realm.
+['ZH_T30_1579_005:0300c04_18']	是名第三樂生。	是名第三樂生。	This is called the third blissful birth.
+['ZH_T30_1579_005:0300c05_13']	問何故建立三種欲生三種樂生耶。	問何故建立三種欲生三種樂生耶。	Question: Why are the three kinds of desire realm births and the three kinds of blissful births established?
+['ZH_T30_1579_005:0300c06_2']	答由三種求故。	答由三種求故。	Answer: Because of the three kinds of seeking.
+['ZH_T30_1579_005:0300c06_6']	一欲求。	一欲求。	First, desire seeking.
+['ZH_T30_1579_005:0300c06_10']	二有求。	二有求。	Second, existence seeking.
+['ZH_T30_1579_005:0300c06_15']	三梵行求。	三梵行求。	Third, seeking the holy life.
+['ZH_T30_1579_005:0300c07_9']	謂若諸沙門或婆羅門墮欲求者。	謂若諸沙門或婆羅門墮欲求者。	If the various ascetics or Brahmins fall into desire seeking,
+['ZH_T30_1579_005:0300c08_1']	一切皆為三種欲生。	一切皆為三種欲生。	All are born from the three kinds of desires.
+['ZH_T30_1579_005:0300c08_6']	更無增過。	更無增過。	There is no further increase or excess.
+['ZH_T30_1579_005:0300c09_1']	若諸沙門或婆羅門墮有求者。	若諸沙門或婆羅門墮有求者。	If all śramaṇas or brāhmaṇas fall into seeking existence,
+['ZH_T30_1579_005:0300c09_6']	多分求樂。	多分求樂。	they mostly seek pleasure.
+['ZH_T30_1579_005:0300c09_11']	由貪樂故。	由貪樂故。	Because of craving pleasure,
+['ZH_T30_1579_005:0300c10_1']	一切皆為三種樂生。	一切皆為三種樂生。	all are born from the three kinds of pleasures.
+['ZH_T30_1579_005:0300c11_7']	由諸世間為不苦不樂寂靜生處起追求者極為尠少故。	由諸世間為不苦不樂寂靜生處起追求者極為尠少故。	Because those in the world who pursue the place of birth of the peaceful and neither-suffering-nor-happy [state] are extremely few,
+['ZH_T30_1579_005:0300c11_15']	此以上不立為生。	此以上不立為生。	therefore, this [state] is not established as a birth above this.
+['ZH_T30_1579_005:0300c12_11']	若諸沙門或婆羅門墮梵行求者。	若諸沙門或婆羅門墮梵行求者。	If all śramaṇas or brāhmaṇas fall into seeking the holy life,
+['ZH_T30_1579_005:0300c13_3']	一切皆為求無漏界。	一切皆為求無漏界。	all are seeking the uncontaminated realm.
+['ZH_T30_1579_005:0300c13_14']	或復有一墮邪梵行求者。	或復有一墮邪梵行求者。	Or, there may be one who falls into seeking the wrong holy life,
+['ZH_T30_1579_005:0300c15_2']	為求不動空無邊處識無邊處無所有處非想非非想處。	為求不動空無邊處識無邊處無所有處非想非非想處。	seeking the immovable, the sphere of infinite space, the sphere of infinite consciousness, the sphere of nothingness, and the sphere of neither-perception-nor-non-perception,
+['ZH_T30_1579_005:0300c15_7']	起邪分別。	起邪分別。	giving rise to wrong discrimination,
+['ZH_T30_1579_005:0300c15_12']	謂為解脫。	謂為解脫。	claiming it to be liberation.
+['ZH_T30_1579_005:0300c16_3']	當知此是有上梵行求。	當知此是有上梵行求。	One should know that this is the seeking of the holy life with remainder.
+['ZH_T30_1579_005:0300c16_10']	無上梵行求者。	無上梵行求者。	The seeking of the supreme holy life
+['ZH_T30_1579_005:0300c16_16']	謂求無漏界。	謂求無漏界。	is seeking the uncontaminated realm.
+['ZH_T30_1579_005:0300c17_7']	復次自體建立者。	復次自體建立者。	Next, as for the establishment of the essence,
+['ZH_T30_1579_005:0300c18_8']	謂於三界中所有眾生有四種得自體差別。	謂於三界中所有眾生有四種得自體差別。	It means that among the three realms, all sentient beings have four kinds of differences in obtaining their own bodies.
+['ZH_T30_1579_005:0300c18_15']	或有所得自體。	或有所得自體。	There are those who obtain their own bodies
+['ZH_T30_1579_005:0300c19_6']	由自所害不由他害。	由自所害不由他害。	and are harmed by themselves, not by others.
+['ZH_T30_1579_005:0300c19_12']	謂有欲界天。	謂有欲界天。	This refers to some gods in the desire realm.
+['ZH_T30_1579_005:0300c19_18']	名遊戲忘念。	名遊戲忘念。	Called those who forget mindfulness while playing.
+['ZH_T30_1579_005:0300c20_4']	彼諸天眾。	彼諸天眾。	Those gods
+['ZH_T30_1579_005:0300c20_13']	或時耽著種種戲樂。	或時耽著種種戲樂。	Sometimes become addicted to various kinds of play and joy.
+['ZH_T30_1579_005:0300c20_18']	久相續住。	久相續住。	Abiding for a long time.
+['ZH_T30_1579_005:0300c21_8']	由久住故忘失憶念。	由久住故忘失憶念。	Because of abiding for a long time, they lose their mindfulness.
+['ZH_T30_1579_005:0300c22_1']	由失念故從彼處沒。	由失念故從彼處沒。	Because of losing mindfulness, they fall from that place.
+['ZH_T30_1579_005:0300c22_10']	或復有天名曰意憤。	或復有天名曰意憤。	Or there are gods called those with angry minds.
+['ZH_T30_1579_005:0300c22_15']	彼諸天眾。	彼諸天眾。	Those gods
+['ZH_T30_1579_005:0300c23_5']	有時展轉角眼相視。	有時展轉角眼相視。	Sometimes glance at each other with the corners of their eyes.
+['ZH_T30_1579_005:0300c23_14']	由相視故意憤轉增。	由相視故意憤轉增。	Because of looking at each other, their angry minds increase.
+['ZH_T30_1579_005:0300c24_5']	意憤增故從彼處沒。	意憤增故從彼處沒。	Because their angry minds increase, they fall from that place.
+['ZH_T30_1579_005:0300c24_12']	或有所得自體。	或有所得自體。	There are those who obtain their own bodies
+['ZH_T30_1579_005:0300c25_3']	由他所害不由自害。	由他所害不由自害。	and are harmed by others, not by themselves.
+['ZH_T30_1579_005:0300c25_17']	謂處羯羅藍遏部曇閉尸鍵南位。	謂處羯羅藍遏部曇閉尸鍵南位。	This refers to those in the stages of kalala, arbuda, peśin, and ghana,
+['ZH_T30_1579_005:0300c26_9']	及在母腹中所有眾生。	及在母腹中所有眾生。	and all sentient beings in the mother's womb.
+['ZH_T30_1579_005:0300c26_16']	或有所得自體。	或有所得自體。	There are those who obtain their own bodies
+['ZH_T30_1579_005:0300c27_7']	亦由自害亦由他害。	亦由自害亦由他害。	It is also due to self-harm and also due to harm by others.
+['ZH_T30_1579_005:0300c27_17']	謂即彼眾生處已生位。	謂即彼眾生處已生位。	It refers to those sentient beings who are already born.
+['ZH_T30_1579_005:0300c28_8']	諸根圓滿諸根成就。	諸根圓滿諸根成就。	The faculties are complete and the faculties are accomplished.
+['ZH_T30_1579_005:0300c28_15']	或有所得自體。	或有所得自體。	Or there is a self-body that is obtained.
+['ZH_T30_1579_005:0300c29_6']	亦非自害亦非他害。	亦非自害亦非他害。	It is neither self-harm nor harm by others.
+['ZH_T30_1579_005:0300c29_14']	謂色無色界諸天。	謂色無色界諸天。	It refers to the gods of the form and formless realms.
+['ZH_T30_1579_005:0301a01_2']	一切那落迦。	一切那落迦。	All hells.
+['ZH_T30_1579_005:0301a01_8']	似那落迦鬼。	似那落迦鬼。	Like hell ghosts.
+['ZH_T30_1579_005:0301a01_13']	如來使者。	如來使者。	The messengers of the Tathāgata.
+['ZH_T30_1579_005:0301a01_18']	住最後身。	住最後身。	Dwelling in the final body.
+['ZH_T30_1579_005:0301a02_12']	慈定滅定若無諍定若處中有。	慈定滅定若無諍定若處中有。	The concentration of loving-kindness, the concentration of cessation, the concentration of non-conflict, and the intermediate state of existence.
+['ZH_T30_1579_005:0301a02_17']	如是等類。	如是等類。	Such categories as these.
+['ZH_T30_1579_005:0301a03_7']	云何因緣果建立。	云何因緣果建立。	How is the establishment of causes and conditions?
+['ZH_T30_1579_005:0301a03_14']	謂略說有四種。	謂略說有四種。	In brief, there are four kinds.
+['ZH_T30_1579_005:0301a04_1']	一由相故。	一由相故。	First, by characteristics.
+['ZH_T30_1579_005:0301a04_7']	二由依處故。	二由依處故。	Second, by basis.
+['ZH_T30_1579_005:0301a04_13']	三由差別故。	三由差別故。	Third, by distinctions.
+['ZH_T30_1579_005:0301a05_1']	四由建立故。	四由建立故。	Fourth, by establishment.
+['ZH_T30_1579_005:0301a06_6']	和合故彼法生。	和合故彼法生。	Because of the combination, those dharmas arise.
+['ZH_T30_1579_005:0301a06_15']	或得或成或辦或用。	或得或成或辦或用。	Or are obtained, or are accomplished, or are completed, or are used.
+['ZH_T30_1579_005:0301a07_2']	說此為彼因。	說此為彼因。	This is said to be their cause.
+['ZH_T30_1579_005:0301a08_3']	法生耶。	法生耶。	Do dharmas arise?
+['ZH_T30_1579_005:0301a08_10']	答自種子為先。	答自種子為先。	Answer: Taking one's own seeds as the forerunner.
+['ZH_T30_1579_005:0301a09_11']	除種子依所餘若有色若無色依及業為建立。	除種子依所餘若有色若無色依及業為建立。	Except for the seeds, the remaining form and formless bases are established by karma.
+['ZH_T30_1579_005:0301a10_2']	助伴所緣為和合故。	助伴所緣為和合故。	The associates and objects are combined.
+['ZH_T30_1579_005:0301a11_2']	隨其所應欲繫色繫無色繫及不繫諸法生。	隨其所應欲繫色繫無色繫及不繫諸法生。	According to circumstances, the dharmas of desire, form, formlessness, and non-attachment arise.
+['ZH_T30_1579_005:0301a12_3']	何法耶。	何法耶。	What dharmas?
+['ZH_T30_1579_005:0301a12_15']	答聲聞獨覺如來種性為先。	答聲聞獨覺如來種性為先。	The answer is: Taking the lineages of śrāvakas, pratyekabuddhas, and tathāgatas as the basis,
+['ZH_T30_1579_005:0301a13_3']	內分力為建立。	內分力為建立。	the power of internal factors is established.
+['ZH_T30_1579_005:0301a13_11']	外分力為和合故。	外分力為和合故。	The power of external factors is combined.
+['ZH_T30_1579_005:0301a14_3']	證得煩惱離繫涅槃。	證得煩惱離繫涅槃。	One realizes the nirvāṇa of being free from afflictions.
+['ZH_T30_1579_005:0301a14_8']	內分力者。	內分力者。	The power of internal factors.
+['ZH_T30_1579_005:0301a14_18']	謂如理作意少欲知足。	謂如理作意少欲知足。	It refers to proper thought, few desires, contentment,
+['ZH_T30_1579_005:0301a15_12']	等內分善法及得人身生在聖處。	等內分善法及得人身生在聖處。	and other wholesome dharmas of internal factors, as well as obtaining a human body and being born in a noble place.
+['ZH_T30_1579_005:0301a16_3']	諸根無缺無事業障。	諸根無缺無事業障。	The faculties are without deficiency, without obstacles to practice,
+['ZH_T30_1579_005:0301a16_12']	於其善處深生淨信。	於其善處深生淨信。	and deeply generates pure faith in wholesome places.
+['ZH_T30_1579_005:0301a17_3']	如是等法名內分力。	如是等法名內分力。	Such dharmas are called the power of internal factors.
+['ZH_T30_1579_005:0301a17_8']	外分力者。	外分力者。	The power of external factors.
+['ZH_T30_1579_005:0301a18_4']	謂諸佛興世宣說妙法教法猶存。	謂諸佛興世宣說妙法教法猶存。	It refers to the Buddhas appearing in the world, proclaiming the wonderful Dharma, and the teachings still remaining.
+['ZH_T30_1579_005:0301a18_13']	住正法者隨順而轉。	住正法者隨順而轉。	Those who abide in the true Dharma turn according to it.
+['ZH_T30_1579_005:0301a19_4']	具悲信者以為施主。	具悲信者以為施主。	Those who possess compassion and faith become benefactors.
+['ZH_T30_1579_005:0301a19_13']	如是等法名外分力。	如是等法名外分力。	These kinds of dharmas are called the power of external conditions.
+['ZH_T30_1579_005:0301a20_5']	先誰為建立。	先誰為建立。	Who established them first?
+['ZH_T30_1579_005:0301a20_14']	誰和合故何法成耶。	誰和合故何法成耶。	By what kind of combination can what dharma be accomplished?
+['ZH_T30_1579_005:0301a21_5']	答所知勝解愛樂為先。	答所知勝解愛樂為先。	Answer: Knowledge, understanding, and desire come first.
+['ZH_T30_1579_005:0301a21_13']	宗因譬喻為建立。	宗因譬喻為建立。	Doctrines, reasons, and similes are used for establishment.
+['ZH_T30_1579_005:0301a22_7']	不相違眾善敵論者為和合故。	不相違眾善敵論者為和合故。	Not contradicting each other, the good debaters combine.
+['ZH_T30_1579_005:0301a22_12']	所立義成。	所立義成。	The established meaning is accomplished.
+['ZH_T30_1579_005:0301a23_4']	4目 辦問以誰為先誰為建立。	4目 辦問以誰為先誰為建立。	The question is: What comes first? What is established?
+['ZH_T30_1579_005:0301a23_13']	誰和合故何法辦耶。	誰和合故何法辦耶。	By what kind of combination can what dharma be accomplished?
+['ZH_T30_1579_005:0301a24_1']	答工巧智為先。	答工巧智為先。	Answer: Skillful knowledge comes first.
+['ZH_T30_1579_005:0301a24_9', 'ZH_T30_1579_005:0301a25_2']	隨彼勤劬為建立。🔽工巧業處眾具為和合故。	隨彼勤劬為建立。 工巧業處眾具為和合故。	Diligence according to that is used for establishment.🔽The various tools of the skillful crafts are combined.
+['ZH_T30_1579_005:0301a25_8']	工巧業處辦。	工巧業處辦。	The skillful crafts are accomplished.
+['ZH_T30_1579_005:0301a25_13']	又愛為先。	又愛為先。	Moreover, desire comes first.
+['ZH_T30_1579_005:0301a26_5']	由食住者依止為建立。	由食住者依止為建立。	Abiding by relying on food is used for support.
+['ZH_T30_1579_005:0301a26_12']	四食為和合故。	四食為和合故。	The four kinds of food are combined.
+['ZH_T30_1579_005:0301a27_3']	受生有情安住充辦。	受生有情安住充辦。	The sentient beings who have taken rebirth abide and are sustained.
+['ZH_T30_1579_005:0301a28_4']	何法用耶。	何法用耶。	What is the function of dharmas?
+['ZH_T30_1579_005:0301a28_12', 'ZH_T30_1579_005:0301a29_1']	答即自種子為先。🔽即此生為建立。	答即自種子為先。 即此生為建立。	Answer: One's own seeds come first.🔽This arising is used for establishment.
+['ZH_T30_1579_005:0301a29_10']	即此生緣為和合故。	即此生緣為和合故。	The conditions for this arising are combined.
+['ZH_T30_1579_005:0301b01_1']	自業諸法作用可知。	自業諸法作用可知。	The functions of dharmas produced by one's own actions can be known.
+['ZH_T30_1579_005:0301b01_10']	何等名為自業作用。	何等名為自業作用。	What are called the functions of one's own actions?
+['ZH_T30_1579_005:0301b02_6']	謂眼以見為業。	謂眼以見為業。	It means that the eye has seeing as its function.
+['ZH_T30_1579_005:0301b02_17']	如是餘根各自業用應知。	如是餘根各自業用應知。	In this way, the other faculties each have their own functions, which should be known.
+['ZH_T30_1579_005:0301b03_13']	又地能持水能爛火能燒風能燥。	又地能持水能爛火能燒風能燥。	Moreover, earth can support, water can dissolve, fire can burn, and wind can dry.
+['ZH_T30_1579_005:0301b04_8']	如是等類當知外分自業差別。	如是等類當知外分自業差別。	In this way, the distinctions in the functions of the external realms should be known.
+['ZH_T30_1579_005:0301b05_2']	一語。	一語。	One: words.
+['ZH_T30_1579_005:0301b05_6']	二領受。	二領受。	Two: experience.
+['ZH_T30_1579_005:0301b05_10']	三習氣。	三習氣。	Three: habitual tendencies.
+['ZH_T30_1579_005:0301b05_16']	四有潤種子。	四有潤種子。	Four: moistened seeds.
+['ZH_T30_1579_005:0301b06_1']	五無間滅。	五無間滅。	Five: uninterrupted cessation.
+['ZH_T30_1579_005:0301b06_5']	六境界。	六境界。	Six: objects.
+['ZH_T30_1579_005:0301b06_8']	七根。	七根。	Seven: faculties.
+['ZH_T30_1579_005:0301b06_12']	八作用。	八作用。	Eight: functions.
+['ZH_T30_1579_005:0301b06_16']	九士用。	九士用。	Nine: human effort.
+['ZH_T30_1579_005:0301b06_21']	十真實見。	十真實見。	Ten: true seeing.
+['ZH_T30_1579_005:0301b07_4']	十一隨順。	十一隨順。	Eleven: conformity.
+['ZH_T30_1579_005:0301b07_11']	十二差別功能。	十二差別功能。	Twelve: distinctive abilities.
+['ZH_T30_1579_005:0301b07_16']	十三和合。	十三和合。	Thirteen: combination.
+['ZH_T30_1579_005:0301b08_1']	十四障礙。	十四障礙。	Fourteen: obstruction.
+['ZH_T30_1579_005:0301b08_7']	十五無障礙。	十五無障礙。	Fifteen: non-obstruction.
+['ZH_T30_1579_005:0301b09_5']	因等差別者。	因等差別者。	As for the distinctions in causes, etc.,
+['ZH_T30_1579_005:0301b09_16']	謂十因四緣五果十因者。	謂十因四緣五果十因者。	It refers to the ten causes, four conditions, and five fruits. The ten causes are:
+['ZH_T30_1579_005:0301b10_2']	一隨說因。	一隨說因。	One: cause of designation.
+['ZH_T30_1579_005:0301b10_7']	二觀待因。	二觀待因。	Two: condition of dependence.
+['ZH_T30_1579_005:0301b10_12']	三牽引因。	三牽引因。	Three: cause of attraction.
+['ZH_T30_1579_005:0301b10_17']	四生起因。	四生起因。	Four: cause of production.
+['ZH_T30_1579_005:0301b11_1']	五攝受因。	五攝受因。	Fifth, the cause of inclusion.
+['ZH_T30_1579_005:0301b11_6']	六引發因。	六引發因。	Sixth, the cause of attraction.
+['ZH_T30_1579_005:0301b11_11']	七定異因。	七定異因。	Seventh, the cause of determination.
+['ZH_T30_1579_005:0301b11_16', 'ZH_T30_1579_005:0301b12_1']	八同事因。🔽九相違因。	八同事因。 九相違因。	Eighth, the cause of cooperation.🔽Ninth, the cause of opposition.
+['ZH_T30_1579_005:0301b12_7']	十不相違因。	十不相違因。	Tenth, the cause of non-opposition.
+['ZH_T30_1579_005:0301b12_11']	四緣者。	四緣者。	As for the four conditions,
+['ZH_T30_1579_005:0301b12_15']	一因緣。	一因緣。	first, the causal condition.
+['ZH_T30_1579_005:0301b13_1']	二等無間緣。	二等無間緣。	Second, the immediately preceding condition.
+['ZH_T30_1579_005:0301b13_6']	三所緣緣。	三所緣緣。	Third, the object condition.
+['ZH_T30_1579_005:0301b13_11']	四增上緣。	四增上緣。	Fourth, the dominant condition.
+['ZH_T30_1579_005:0301b13_15']	五果者。	五果者。	As for the five fruits,
+['ZH_T30_1579_005:0301b13_20']	一異熟果。	一異熟果。	first, the result of karmic maturation.
+['ZH_T30_1579_005:0301b14_4']	二等流果。	二等流果。	Second, the result of natural outflow.
+['ZH_T30_1579_005:0301b14_9']	三離繫果。	三離繫果。	Third, the result of separation.
+['ZH_T30_1579_005:0301b14_14']	四士用果。	四士用果。	Fourth, the result of human effort.
+['ZH_T30_1579_005:0301b14_19']	五增上果。	五增上果。	Fifth, the dominant result.
+['ZH_T30_1579_005:0301b15_4', 'ZH_T30_1579_005:0301b15_11']	等建立者。🔽謂依語因依處。	等建立者。 謂依語因依處。	As for the equal establishment,
+['ZH_T30_1579_005:0301b15_17']	施設隨說因。	施設隨說因。	it refers to establishing the cause of verbal expression based on the basis of language.
+['ZH_T30_1579_005:0301b16_3']	所以者何。	所以者何。	Why is it so?
+['ZH_T30_1579_005:0301b17_4']	由於欲界繫法色無色界繫法及不繫法施設。	由於欲界繫法色無色界繫法及不繫法施設。	Because names are established first for the dharmas of the desire realm, the dharmas of the form and formless realms, and the unconditioned dharmas.
+['ZH_T30_1579_005:0301b17_11']	名為先故想轉。	名為先故想轉。	Because of this, conceptualization arises.
+['ZH_T30_1579_005:0301b17_18']	想為先故語轉。	想為先故語轉。	Because of conceptualization, language arises.
+['ZH_T30_1579_005:0301b18_12']	由語故隨見聞覺知起諸言說。	由語故隨見聞覺知起諸言說。	Because of language, one gives rise to various expressions based on what one sees, hears, cognizes, and knows.
+['ZH_T30_1579_005:0301b19_7']	是故依語依處施設隨說因。	是故依語依處施設隨說因。	Therefore, the cause of verbal expression is established based on the basis of language.
+['ZH_T30_1579_005:0301b19_14']	依領受因依處。	依領受因依處。	Based on the basis of the cause of experience,
+['ZH_T30_1579_005:0301b20_2']	施設觀待因。	施設觀待因。	The establishment of the causal condition of dependence.
+['ZH_T30_1579_005:0301b20_7']	所以者何。	所以者何。	Why is it so?
+['ZH_T30_1579_005:0301b20_12']	由諸有情。	由諸有情。	Because of all sentient beings.
+['ZH_T30_1579_005:0301b21_2']	諸有欲求欲繫樂者。	諸有欲求欲繫樂者。	Those who desire to seek the pleasure bound to desire,
+['ZH_T30_1579_005:0301b21_7']	彼觀待此。	彼觀待此。	they depend on this.
+['ZH_T30_1579_005:0301b22_7']	於諸欲具或為求得或為積集或為受用。	於諸欲具或為求得或為積集或為受用。	Regarding the various requisites of desire, they either seek to obtain them, accumulate them, or enjoy them.
+['ZH_T30_1579_005:0301b23_1']	諸有欲求色無色繫樂者。	諸有欲求色無色繫樂者。	Those who desire to seek the pleasure bound to the form and formless realms,
+['ZH_T30_1579_005:0301b23_6']	彼觀待此。	彼觀待此。	they depend on this.
+['ZH_T30_1579_005:0301b24_1']	於彼諸緣或為求得或為受用。	於彼諸緣或為求得或為受用。	Regarding those conditions, they either seek to obtain them or enjoy them.
+['ZH_T30_1579_005:0301b24_10']	諸有欲求不繫樂者。	諸有欲求不繫樂者。	Those who desire to seek the pleasure unbound,
+['ZH_T30_1579_005:0301b24_15']	彼觀待此。	彼觀待此。	they depend on this.
+['ZH_T30_1579_005:0301b25_9']	於彼諸緣或為求得或為受用。	於彼諸緣或為求得或為受用。	Regarding those conditions, they either seek to obtain them or enjoy them.
+['ZH_T30_1579_005:0301b25_16']	諸有不欲苦者。	諸有不欲苦者。	Those who do not wish for suffering,
+['ZH_T30_1579_005:0301b26_4']	彼觀待此。	彼觀待此。	they depend on this.
+['ZH_T30_1579_005:0301b26_13']	於彼生緣於彼斷緣。	於彼生緣於彼斷緣。	Regarding the conditions for the arising of that [suffering] and the conditions for the cessation of that [suffering],
+['ZH_T30_1579_005:0301b27_8']	或為遠離或為求得或為受用。	或為遠離或為求得或為受用。	either to be far removed from them, to seek to obtain them, or to enjoy them.
+['ZH_T30_1579_005:0301b27_16', 'ZH_T30_1579_005:0301b28_4']	是故依領受依處。🔽施設觀待因。	是故依領受依處。 施設觀待因。	Therefore, based on the basis of experience,🔽the causal condition of dependence is established.
+['ZH_T30_1579_005:0301b28_11']	依習氣因依處。	依習氣因依處。	Based on the basis of habitual tendencies,
+['ZH_T30_1579_005:0301b28_17']	施設牽引因。	施設牽引因。	the causal condition of attraction is established.
+['ZH_T30_1579_005:0301b29_3']	所以者何。	所以者何。	Why is it so?
+['ZH_T30_1579_005:0301b29_15']	由淨不淨業熏習三界諸行。	由淨不淨業熏習三界諸行。	Due to the perfuming of pure and impure actions, the various practices of the three realms
+['ZH_T30_1579_005:0301c01_11']	於愛不愛趣中牽引愛不愛自體。	於愛不愛趣中牽引愛不愛自體。	attract the desired and undesired bodies in the desired and undesired destinies.
+['ZH_T30_1579_005:0301c02_7']	又即由此增上力故外物盛衰。	又即由此增上力故外物盛衰。	Moreover, due to the power of these [actions], external things flourish or decline.
+['ZH_T30_1579_005:0301c03_3']	是故依諸行淨不淨業習氣依處。	是故依諸行淨不淨業習氣依處。	Therefore, based on the perfuming of the pure and impure actions of the various practices,
+['ZH_T30_1579_005:0301c03_9']	施設牽引因。	施設牽引因。	the attracting cause is established.
+['ZH_T30_1579_005:0301c03_18']	依有潤種子因依處。	依有潤種子因依處。	Based on the basis of moistened seeds,
+['ZH_T30_1579_005:0301c04_5']	施設生起因。	施設生起因。	the producing cause is established.
+['ZH_T30_1579_005:0301c04_10']	所以者何。	所以者何。	Why is this?
+['ZH_T30_1579_005:0301c05_6', 'ZH_T30_1579_005:0301c05_15']	由欲色無色界繫法各從自種子生。🔽愛名能潤種是所潤。	由欲色無色界繫法各從自種子生。 愛名能潤種是所潤。	Because the dharmas of the desire, form, and formless realms are each born from their own seeds.🔽Desire is called the moistener, and the seeds are what is moistened.
+['ZH_T30_1579_005:0301c06_6']	由此所潤諸種子故。	由此所潤諸種子故。	Due to being moistened by this [desire],
+['ZH_T30_1579_005:0301c07_2']	先所牽引各別自體當得生起。	先所牽引各別自體當得生起。	the previously attracted individual bodies will be able to arise.
+['ZH_T30_1579_005:0301c07_6']	如經言。	如經言。	As a sutra says:
+['ZH_T30_1579_005:0301c07_12']	業為感生因。	業為感生因。	Karma is the cause of rebirth.
+['ZH_T30_1579_005:0301c07_18']	愛為生起因。	愛為生起因。	Desire is the cause of production.
+['ZH_T30_1579_005:0301c08_8']	是故依有潤種子依處。	是故依有潤種子依處。	Therefore, based on the basis of moistened seeds,
+['ZH_T30_1579_005:0301c08_14']	施設生起因。	施設生起因。	the producing cause is established.
+['ZH_T30_1579_005:0301c09_4']	依無間滅因依處。	依無間滅因依處。	Based on the basis of the immediately extinguished cause
+['ZH_T30_1579_005:0301c10_2']	及依境界根作用士用真實見因依處。	及依境界根作用士用真實見因依處。	and the basis of the real view of objects, faculties, functions, and personal effort,
+['ZH_T30_1579_005:0301c10_8']	施設攝受因。	施設攝受因。	The cause of establishment and acceptance.
+['ZH_T30_1579_005:0301c10_13']	所以者何。	所以者何。	Why is it so?
+['ZH_T30_1579_005:0301c10_19']	由欲繫諸法。	由欲繫諸法。	Because the dharmas bound to desire
+['ZH_T30_1579_005:0301c11_6', 'ZH_T30_1579_005:0301c11_12']	無間滅攝受故。🔽境界攝受故。	無間滅攝受故。 境界攝受故。	are established by the acceptance of uninterrupted cessation,🔽by the acceptance of objects,
+['ZH_T30_1579_005:0301c11_17', 'ZH_T30_1579_005:0301c12_3']	根攝受故。🔽作用攝受故。	根攝受故。 作用攝受故。	by the acceptance of faculties,🔽by the acceptance of functions,🔽and by the acceptance of human effort.
+['ZH_T30_1579_005:0301c12_12']	士用攝受故諸行轉。	士用攝受故諸行轉。	Thus, the activities of dharmas arise.
+['ZH_T30_1579_005:0301c12_17']	如欲繫法。	如欲繫法。	Just as dharmas bound to desire,
+['ZH_T30_1579_005:0301c13_8']	如是色無色繫法亦爾。	如是色無色繫法亦爾。	so are dharmas bound to form and the formless realm.
+['ZH_T30_1579_005:0301c13_17']	或由真實見攝受故。	或由真實見攝受故。	Or, by the acceptance of true insight,
+['ZH_T30_1579_005:0301c14_5']	餘不繫法轉。	餘不繫法轉。	the remaining unbound dharmas arise.
+['ZH_T30_1579_005:0301c15_6']	是故依無間滅境界根作用士用真實見依處。	是故依無間滅境界根作用士用真實見依處。	Therefore, based on the bases of uninterrupted cessation, objects, faculties, functions, human effort, and true insight,
+['ZH_T30_1579_005:0301c15_12']	施設攝受因。	施設攝受因。	the cause of establishment and acceptance is established.
+['ZH_T30_1579_005:0301c16_1']	依隨順因依處。	依隨順因依處。	Based on the basis of the cause of conformity,
+['ZH_T30_1579_005:0301c16_7']	施設引發因。	施設引發因。	the cause of attraction is established.
+['ZH_T30_1579_005:0301c16_12']	所以者何。	所以者何。	Why is it so?
+['ZH_T30_1579_005:0301c16_18']	由欲繫善法。	由欲繫善法。	Because the wholesome dharmas bound to desire
+['ZH_T30_1579_005:0301c17_7']	能引欲繫諸勝善法。	能引欲繫諸勝善法。	can attract the excellent wholesome dharmas bound to desire.
+['ZH_T30_1579_005:0301c17_14']	如是欲繫善法。	如是欲繫善法。	In this way, the wholesome dharmas bound to desire
+['ZH_T30_1579_005:0301c18_8']	能引色無色繫及不繫善法。	能引色無色繫及不繫善法。	can attract the wholesome dharmas bound to the form and formless realms, as well as the unbound ones.
+['ZH_T30_1579_005:0301c18_14', 'ZH_T30_1579_005:0301c19_2']	由隨順彼故。🔽如欲繫善法。	由隨順彼故。 如欲繫善法。	Because they conform to them.🔽Just as the wholesome dharmas bound to desire,
+['ZH_T30_1579_005:0301c19_9']	如是色繫善法。	如是色繫善法。	so are the wholesome dharmas bound to the form realm.
+['ZH_T30_1579_005:0301c20_9']	能引色繫諸勝善法及無色繫善法不繫善法。	能引色繫諸勝善法及無色繫善法不繫善法。	It can attract the excellent wholesome dharmas bound to the form realm, the wholesome dharmas bound to the formless realm, and the unconditioned wholesome dharmas.
+['ZH_T30_1579_005:0301c20_15']	如色繫善法。	如色繫善法。	Just as the wholesome dharmas bound to the form realm,
+['ZH_T30_1579_005:0301c21_5']	如是無色繫善法。	如是無色繫善法。	so are the wholesome dharmas bound to the formless realm.
+['ZH_T30_1579_005:0301c22_2']	能引無色繫諸勝善法及不繫善法。	能引無色繫諸勝善法及不繫善法。	They can attract the excellent wholesome dharmas bound to the formless realm and the unconditioned wholesome dharmas.
+['ZH_T30_1579_005:0301c22_9']	如無色繫善法。	如無色繫善法。	Just as the wholesome dharmas bound to the formless realm,
+['ZH_T30_1579_005:0301c22_16']	如是不繫善法。	如是不繫善法。	so are the unconditioned wholesome dharmas.
+['ZH_T30_1579_005:0301c23_7']	能引不繫諸勝善法。	能引不繫諸勝善法。	They can attract the excellent unconditioned dharmas,
+['ZH_T30_1579_005:0301c23_16']	及能引發無為作證。	及能引發無為作證。	and they can also give rise to the realization of the unconditioned.
+['ZH_T30_1579_005:0301c24_10']	又不善法能引諸勝不善法。	又不善法能引諸勝不善法。	Moreover, unwholesome dharmas can attract the excellent unwholesome dharmas.
+['ZH_T30_1579_005:0301c25_12']	謂欲貪能引瞋癡慢見疑身惡行語惡行意惡行。	謂欲貪能引瞋癡慢見疑身惡行語惡行意惡行。	That is to say, desire and greed can attract anger, delusion, pride, views, doubt, bodily misconduct, verbal misconduct, and mental misconduct.
+['ZH_T30_1579_005:0301c25_16']	如欲貪。	如欲貪。	Just as with desire and greed,
+['ZH_T30_1579_005:0301c26_5']	如是瞋癡慢見疑。	如是瞋癡慢見疑。	so it is with anger, delusion, pride, views, and doubt.
+['ZH_T30_1579_005:0301c26_13']	隨其所應盡當知。	隨其所應盡當知。	One should understand them all according to their respective situations.
+['ZH_T30_1579_005:0301c27_1']	如是無記法。	如是無記法。	So it is with indeterminate dharmas.
+['ZH_T30_1579_005:0301c27_10']	能引善不善無記法。	能引善不善無記法。	They can attract wholesome, unwholesome, and indeterminate dharmas.
+['ZH_T30_1579_005:0301c28_5']	如善不善無記種子阿賴耶識。	如善不善無記種子阿賴耶識。	Just like the seeds of wholesome, unwholesome, and indeterminate dharmas in the ālaya-vijñāna.
+['ZH_T30_1579_005:0301c28_10']	又無記法。	又無記法。	Moreover, indeterminate dharmas
+['ZH_T30_1579_005:0301c28_17']	能引無記勝法。	能引無記勝法。	can attract indeterminate excellent dharmas.
+['ZH_T30_1579_005:0301c29_16']	如段食能引受生有情令住令安勢力增長。	如段食能引受生有情令住令安勢力增長。	Just as material food can lead sentient beings to be reborn, make them abide, make them comfortable, and increase their power.
+['ZH_T30_1579_005:0302a01_5']	由隨順彼故。	由隨順彼故。	Because it accords with them.
+['ZH_T30_1579_005:0302a01_13']	是故依隨順依處。	是故依隨順依處。	Therefore, based on the basis of accord,
+['ZH_T30_1579_005:0302a02_1']	施設引發因。	施設引發因。	the leading cause is established.
+['ZH_T30_1579_005:0302a02_10']	依差別功能因依處。	依差別功能因依處。	Based on the basis of the cause of differentiated functions,
+['ZH_T30_1579_005:0302a02_16']	施設定異因。	施設定異因。	the cause of differentiation is established.
+['ZH_T30_1579_005:0302a03_2']	所以者何。	所以者何。	Why is it so?
+['ZH_T30_1579_005:0302a04_7']	由欲繫諸法自性功能有差別故能生種種自性功能。	由欲繫諸法自性功能有差別故能生種種自性功能。	Because the nature and functions of dharmas bound to the desire realm are differentiated, they can give rise to various natures and functions.
+['ZH_T30_1579_005:0302a04_12']	如欲繫法。	如欲繫法。	Just like dharmas bound to the desire realm,
+['ZH_T30_1579_005:0302a05_7']	如是色無色繫及不繫法亦爾。	如是色無色繫及不繫法亦爾。	so are dharmas bound to the form realm, formless realm, and unbound.
+['ZH_T30_1579_005:0302a05_17']	是故依差別功能依處。	是故依差別功能依處。	Therefore, based on the basis of differentiated functions,
+['ZH_T30_1579_005:0302a06_4']	施設定異因。	施設定異因。	the cause of differentiation is established.
+['ZH_T30_1579_005:0302a06_11']	依和合因依處。	依和合因依處。	Based on the basis of the cause of combination,
+['ZH_T30_1579_005:0302a07_3']	施設同事因所以者何。	施設同事因所以者何。	the cooperative cause is established. Why is it so?
+['ZH_T30_1579_005:0302a07_13']	要由獲得自生和合故。	要由獲得自生和合故。	Because only by obtaining the combination of one's own birth
+['ZH_T30_1579_005:0302a08_4']	欲繫法生如欲繫法。	欲繫法生如欲繫法。	can dharmas bound to the desire realm be born. Just like dharmas bound to the desire realm,
+['ZH_T30_1579_005:0302a08_17']	如是色無色繫及不繫法亦爾。	如是色無色繫及不繫法亦爾。	so are dharmas bound to the form realm, formless realm, and unbound.
+['ZH_T30_1579_005:0302a09_4']	如生和合。	如生和合。	Just as there is the combination of birth,
+['ZH_T30_1579_005:0302a09_15']	如是得成辦用和合亦爾。	如是得成辦用和合亦爾。	so is the combination of accomplishment and function.
+['ZH_T30_1579_005:0302a10_6']	是故依和合依處。	是故依和合依處。	Therefore, based on the basis of combination,
+['ZH_T30_1579_005:0302a10_12']	施設同事因。	施設同事因。	the cause of cooperation is established.
+['ZH_T30_1579_005:0302a11_1']	依障礙因依處。	依障礙因依處。	Based on the basis of obstructive causes,
+['ZH_T30_1579_005:0302a11_7']	施設相違因。	施設相違因。	the cause of opposition is established.
+['ZH_T30_1579_005:0302a11_12']	所以者何。	所以者何。	Why is it so?
+['ZH_T30_1579_005:0302a12_1']	由欲繫法將得生。	由欲繫法將得生。	Because when dharmas bound to desire are about to arise,
+['ZH_T30_1579_005:0302a12_11']	若障礙現前便不得生。	若障礙現前便不得生。	if an obstruction is present, they cannot arise.
+['ZH_T30_1579_005:0302a12_16']	如欲繫法。	如欲繫法。	As with dharmas bound to desire,
+['ZH_T30_1579_005:0302a13_10']	如是色無色繫及不繫法亦爾。	如是色無色繫及不繫法亦爾。	so it is with dharmas bound to form, bound to the formless, and unbound.
+['ZH_T30_1579_005:0302a14_3']	如生如是得成辦用亦爾。	如生如是得成辦用亦爾。	As with arising, so it is with attainment and function.
+['ZH_T30_1579_005:0302a14_11']	是故依障礙依處。	是故依障礙依處。	Therefore, based on the basis of obstruction,
+['ZH_T30_1579_005:0302a14_17', 'ZH_T30_1579_005:0302a15_6']	施設相違因。🔽依無障礙因依處。	施設相違因。 依無障礙因依處。	the cause of opposition is established.🔽Based on the basis of unobstructed causes,
+['ZH_T30_1579_005:0302a15_13']	施設不相違因。	施設不相違因。	the cause of non-opposition is established.
+['ZH_T30_1579_005:0302a15_18']	所以者何。	所以者何。	Why is it so?
+['ZH_T30_1579_005:0302a16_7']	由欲繫法將得生。	由欲繫法將得生。	Because when dharmas bound to desire are about to arise,
+['ZH_T30_1579_005:0302a17_1']	若無障礙現前爾時便生。	若無障礙現前爾時便生。	if there is no obstruction present, they will then arise.
+['ZH_T30_1579_005:0302a17_6']	如欲繫法。	如欲繫法。	As with dharmas bound to desire,
+['ZH_T30_1579_005:0302a18_1']	如是色無色繫及不繫法亦爾。	如是色無色繫及不繫法亦爾。	so it is with dharmas bound to form, bound to the formless, and unbound.
+['ZH_T30_1579_005:0302a18_4']	如生。	如生。	As with arising,
+['ZH_T30_1579_005:0302a18_13']	如是得成辦用亦爾。	如是得成辦用亦爾。	so it is with attainment and function.
+['ZH_T30_1579_005:0302a19_3']	是故依無障礙依處。	是故依無障礙依處。	Therefore, based on the basis of non-obstruction,
+['ZH_T30_1579_005:0302a19_10']	施設不相違因。	施設不相違因。	The non-contradictory cause.
+['ZH_T30_1579_005:0302a20_1']	復次依種子緣依處。	復次依種子緣依處。	Moreover, based on the causal basis of seeds,
+['ZH_T30_1579_005:0302a20_6']	施設因緣。	施設因緣。	The causal condition is established.
+['ZH_T30_1579_005:0302a20_14']	依無間滅緣依處。	依無間滅緣依處。	Based on the causal basis of immediate cessation,
+['ZH_T30_1579_005:0302a21_2']	施設等無間緣。	施設等無間緣。	The condition as direct antecedent is established.
+['ZH_T30_1579_005:0302a21_9']	依境界緣依處。	依境界緣依處。	Based on the causal basis of the objective realm,
+['ZH_T30_1579_005:0302a21_15']	施設所緣緣。	施設所緣緣。	The objective condition is established.
+['ZH_T30_1579_005:0302a22_3']	依所餘緣依處。	依所餘緣依處。	Based on the causal basis of the remaining conditions,
+['ZH_T30_1579_005:0302a22_9']	施設增上緣。	施設增上緣。	The dominant condition is established.
+['ZH_T30_1579_005:0302a23_11']	復次依習氣隨順因緣依處。	復次依習氣隨順因緣依處。	Moreover, based on the causal basis of the cause of conformity with habitual tendencies,
+['ZH_T30_1579_005:0302a24_3']	施設異熟果及等流果。	施設異熟果及等流果。	The ripened effect and the effect of uniform outflow are established.
+['ZH_T30_1579_005:0302a24_12']	依真實見因緣依處。	依真實見因緣依處。	Based on the causal basis of the cause of true insight,
+['ZH_T30_1579_005:0302a24_18']	施設離繫果。	施設離繫果。	The effect of separation is established.
+['ZH_T30_1579_005:0302a25_7']	依士用因緣依處。	依士用因緣依處。	Based on the causal basis of the cause of human effort and the cause of the dominant condition,
+['ZH_T30_1579_005:0302a25_13']	施設士用果。	施設士用果。	The effect of human effort is established.
+['ZH_T30_1579_005:0302a26_3']	依所餘因緣依處。	依所餘因緣依處。	Based on the causal basis of the remaining causes,
+['ZH_T30_1579_005:0302a26_9']	施設增上果。	施設增上果。	The dominant effect is established.
+['ZH_T30_1579_005:0302a27_5']	立義是緣義。	立義是緣義。	The meaning of conditions is the meaning of establishment.
+['ZH_T30_1579_005:0302a27_12']	成辦義是果義。	成辦義是果義。	The meaning of effect is the meaning of accomplishment.
+['ZH_T30_1579_005:0302a28_2']	種相。	種相。	The characteristics of seeds.
+['ZH_T30_1579_005:0302a28_7']	一能生因。	一能生因。	The first is the productive cause.
+['ZH_T30_1579_005:0302a28_12']	二方便因。	二方便因。	The second is the instrumental cause.
+['ZH_T30_1579_005:0302a28_17']	三俱有因。	三俱有因。	The third is the co-existent cause.
+['ZH_T30_1579_005:0302a29_2']	四無間滅因。	四無間滅因。	The fourth is the cause of immediate cessation.
+['ZH_T30_1579_005:0302a29_8']	五久遠滅因。	五久遠滅因。	The fifth is the cause of distant cessation.
+['ZH_T30_1579_005:0302a29_13']	能生因者。	能生因者。	The productive cause.🔽🔽
+['ZH_T30_1579_005:0302a29_18', 'ZH_T30_1579_005:0302b01_2']	謂生起因。🔽方便因者。	謂生起因。 方便因者。	The productive cause refers to the cause of origination.
+['ZH_T30_1579_005:0302b01_7', 'ZH_T30_1579_005:0302b01_12']	謂所餘因。🔽俱有因者。	謂所餘因。 俱有因者。	The instrumental cause refers to the remaining causes.
+['ZH_T30_1579_005:0302b01_17']	謂攝受因。	謂攝受因。	The co-existent cause refers to the cause of inclusion.
+['ZH_T30_1579_005:0302b01_20']	一分。	一分。	A part of it.
+['ZH_T30_1579_005:0302b02_5']	如眼於眼識。	如眼於眼識。	Like the eye in relation to eye-consciousness.
+['ZH_T30_1579_005:0302b02_14', 'ZH_T30_1579_005:0302b03_2']	如是耳等於所餘識。🔽無間滅因者。	如是耳等於所餘識。 無間滅因者。	In the same way, the ear and so forth in relation to the remaining consciousnesses.
+['ZH_T30_1579_005:0302b03_7', 'ZH_T30_1579_005:0302b03_13']	謂生起因。🔽久遠滅因者。	謂生起因。 久遠滅因者。	The immediately preceding and ceasing cause refers to the cause of origination.
+['ZH_T30_1579_005:0302b03_18']	謂牽引因。	謂牽引因。	The cause that has ceased for a long time refers to the projecting cause.
+['ZH_T30_1579_005:0302b04_6']	又建立因有五種相。	又建立因有五種相。	Moreover, the establishing cause has five aspects.
+['ZH_T30_1579_005:0302b04_11']	一可愛因。	一可愛因。	The first is the lovable cause.
+['ZH_T30_1579_005:0302b04_17']	二不可愛因。	二不可愛因。	The second is the unlovable cause.
+['ZH_T30_1579_005:0302b05_2']	三增長因。	三增長因。	The third is the cause of increase.
+['ZH_T30_1579_005:0302b05_7']	四流轉因。	四流轉因。	The fourth is the cause of transmigration.
+['ZH_T30_1579_005:0302b05_12']	五還滅因。	五還滅因。	The fifth is the cause of cessation.
+['ZH_T30_1579_005:0302b06_1']	又建立因有七種相。	又建立因有七種相。	Moreover, the establishing cause has seven aspects.
+['ZH_T30_1579_005:0302b06_8']	謂無常法是因。	謂無常法是因。	Namely, impermanent dharmas are causes.
+['ZH_T30_1579_005:0302b06_17']	無有常法能為法因。	無有常法能為法因。	There are no permanent dharmas that can be causes for dharmas.
+['ZH_T30_1579_005:0302b07_4']	謂或為生因。	謂或為生因。	Namely, either as a cause of origination,
+['ZH_T30_1579_005:0302b07_9', 'ZH_T30_1579_005:0302b07_15']	或為得因。🔽或為成立因。	或為得因。 或為成立因。	or as a cause of attainment,🔽or as a cause of establishment,
+['ZH_T30_1579_005:0302b08_2']	或為成辦因。	或為成辦因。	or as a cause of accomplishment,
+['ZH_T30_1579_005:0302b08_8']	或為作用因。	或為作用因。	or as a cause of function.
+['ZH_T30_1579_005:0302b09_1']	又雖無常法為無常法因。	又雖無常法為無常法因。	Moreover, although impermanent dharmas are causes for impermanent dharmas,
+['ZH_T30_1579_005:0302b09_8']	然與他性為因。	然與他性為因。	However, it serves as a cause for other natures.
+['ZH_T30_1579_005:0302b09_16']	亦與後自性為因。	亦與後自性為因。	It also serves as a cause for subsequent self-natures.
+['ZH_T30_1579_005:0302b10_4']	非即此剎那。	非即此剎那。	Not for this very moment.
+['ZH_T30_1579_005:0302b10_12']	又雖與他性為因。	又雖與他性為因。	Moreover, although it serves as a cause for other natures,
+['ZH_T30_1579_005:0302b11_2']	及與後自性為因。	及與後自性為因。	and serves as a cause for subsequent self-natures,
+['ZH_T30_1579_005:0302b11_12']	然已生未滅方能為因。	然已生未滅方能為因。	it can only serve as a cause when it has already arisen and not yet ceased.
+['ZH_T30_1579_005:0302b11_18']	非未生已滅。	非未生已滅。	Not when it has not yet arisen or has already ceased.
+['ZH_T30_1579_005:0302b12_6']	又雖已生未滅。	又雖已生未滅。	Moreover, although it has already arisen and not yet ceased,
+['ZH_T30_1579_005:0302b13_1']	然得餘緣方能為因。	然得餘緣方能為因。	it can only serve as a cause when it obtains other conditions.
+['ZH_T30_1579_005:0302b13_7']	非不得餘緣。	非不得餘緣。	Not when it does not obtain other conditions.
+['ZH_T30_1579_005:0302b13_13']	又雖得餘緣。	又雖得餘緣。	Moreover, although it obtains other conditions,
+['ZH_T30_1579_005:0302b14_2']	然成變異方能為因。	然成變異方能為因。	it can only serve as a cause when it becomes transformed.
+['ZH_T30_1579_005:0302b14_7']	非未變異。	非未變異。	Not when it has not yet transformed.
+['ZH_T30_1579_005:0302b14_13']	又雖成變異。	又雖成變異。	Moreover, although it has become transformed,
+['ZH_T30_1579_005:0302b15_6']	必與功能相應方能為因。	必與功能相應方能為因。	it can only serve as a cause when it is necessarily associated with function.
+['ZH_T30_1579_005:0302b15_11']	非失功能。	非失功能。	Not when it loses its function.
+['ZH_T30_1579_005:0302b16_2']	又雖與功能相應。	又雖與功能相應。	Moreover, although it is necessarily associated with function,
+['ZH_T30_1579_005:0302b16_13']	然必相稱相順方能為因。	然必相稱相順方能為因。	it can only serve as a cause when it is necessarily commensurate and in accord.
+['ZH_T30_1579_005:0302b17_2']	非不相稱相順。	非不相稱相順。	Not when it is not commensurate and in accord.
+['ZH_T30_1579_005:0302b17_9']	由如是七種相。	由如是七種相。	By means of these seven characteristics,
+['ZH_T30_1579_005:0302b18_2']	隨其所應諸因建立應知。	隨其所應諸因建立應知。	the establishment of various causes should be understood according to what is appropriate.
+['ZH_T30_1579_005:0302b19_7']	云何相施設建立。	云何相施設建立。	What is the establishment of designation by characteristics?
+['ZH_T30_1579_005:0302b19_12']	嗢拕南曰。	嗢拕南曰。	The uddāna says:
+['ZH_T30_1579_005:0302b20_0']	體所緣行相　　等起與差別	體所緣行相　　等起與差別	The essence, object, mode of activity, origination, distinctions,
+['ZH_T30_1579_005:0302b21_0']	決擇及流轉　　略辯相應知	決擇及流轉　　略辯相應知	Discernment, and evolution should be known through brief explanation.
+['ZH_T30_1579_005:0302b22_8']	應知此相略有七種。	應知此相略有七種。	One should know that these characteristics are of seven kinds.
+['ZH_T30_1579_005:0302b22_12']	一體性。	一體性。	First, the essence.
+['ZH_T30_1579_005:0302b22_16']	二所緣。	二所緣。	Second, the object.
+['ZH_T30_1579_005:0302b23_1']	三行相。	三行相。	Third, the mode of activity.
+['ZH_T30_1579_005:0302b23_5']	四等起。	四等起。	Fourth, origination.
+['ZH_T30_1579_005:0302b23_9']	五差別。	五差別。	Fifth, distinctions.
+['ZH_T30_1579_005:0302b23_13']	六決擇。	六決擇。	Sixth, discernment.
+['ZH_T30_1579_005:0302b23_17', 'ZH_T30_1579_005:0302b24_2']	七流轉。🔽尋伺體性者。	七流轉。 尋伺體性者。	Seventh, evolution.🔽As for the essence of applied thought and sustained thought,
+['ZH_T30_1579_005:0302b24_10']	謂不深推度所緣。	謂不深推度所緣。	It refers to not deeply investigating the object.
+['ZH_T30_1579_005:0302b24_15']	思為體性。	思為體性。	It takes thought as its essence.
+['ZH_T30_1579_005:0302b25_3']	若深推度所緣。	若深推度所緣。	If deeply investigating the object,
+['ZH_T30_1579_005:0302b25_10']	慧為體性應知。	慧為體性應知。	It should be known that wisdom is its essence.
+['ZH_T30_1579_005:0302b25_16']	尋伺所緣者。	尋伺所緣者。	As for the object of applied thought and sustained thought,
+['ZH_T30_1579_005:0302b26_10', 'ZH_T30_1579_005:0302b26_16', 'ZH_T30_1579_005:0302b27_10']	謂依名身句身文身義為所緣。🔽尋伺行相者。🔽謂即於此所緣尋求行相是尋。	謂依名身句身文身義為所緣。 尋伺行相者。 謂即於此所緣尋求行相是尋。	It takes the meaning of the collections of names, phrases, and syllables as its object.🔽As for the mode of activity of applied thought and sustained thought,🔽It refers to the mode of activity of seeking the object in this way is applied thought.
+['ZH_T30_1579_005:0302b28_5', 'ZH_T30_1579_005:0302b28_11']	即於此所緣伺察行相是伺。🔽尋伺等起者。	即於此所緣伺察行相是伺。 尋伺等起者。	The mode of activity of observing the object in this way is sustained thought.🔽As for the origination of applied thought and sustained thought,
+['ZH_T30_1579_005:0302b28_17']	謂發起語言。	謂發起語言。	It refers to giving rise to language.
+['ZH_T30_1579_005:0302b29_3']	尋伺差別者。	尋伺差別者。	As for the distinctions of applied thought and sustained thought,
+['ZH_T30_1579_005:0302b29_9']	有七種差別。	有七種差別。	There are seven kinds of distinctions.
+['ZH_T30_1579_005:0302c01_1']	謂有相無相乃至不染污。	謂有相無相乃至不染污。	Namely, with characteristics, without characteristics, up to undefiled.
+['ZH_T30_1579_005:0302c01_5']	如前說。	如前說。	As explained above.
+['ZH_T30_1579_005:0302c01_11', 'ZH_T30_1579_005:0302c01_19']	尋伺決擇者。🔽若尋伺即分別耶。	尋伺決擇者。 若尋伺即分別耶。	As for the discernment of applied thought and sustained thought,🔽if applied thought and sustained thought are discrimination,
+['ZH_T30_1579_005:0302c02_7']	設分別即尋伺耶。	設分別即尋伺耶。	are discrimination also applied thought and sustained thought?
+['ZH_T30_1579_005:0302c02_16']	謂諸尋伺必是分別。	謂諸尋伺必是分別。	Applied thought and sustained thought are necessarily discrimination.
+['ZH_T30_1579_005:0302c03_5']	或有分別非尋伺。	或有分別非尋伺。	But there may be discrimination that is not applied thought and sustained thought.
+['ZH_T30_1579_005:0302c03_11']	謂望出世智。	謂望出世智。	That is, in relation to supramundane cognition.
+['ZH_T30_1579_005:0302c04_3']	所餘一切三界心心所。	所餘一切三界心心所。	All other minds and mental factors in the three realms
+['ZH_T30_1579_005:0302c04_12']	皆是分別而非尋伺。	皆是分別而非尋伺。	are discrimination but not applied thought and sustained thought.
+['ZH_T30_1579_005:0302c05_5']	尋伺流轉者若那落迦尋伺。	尋伺流轉者若那落迦尋伺。	As for the revolving of applied thought and sustained thought, if the applied thought and sustained thought of hell beings
+['ZH_T30_1579_005:0302c05_9']	何等行。	何等行。	what are their modes?
+['ZH_T30_1579_005:0302c05_13']	何所觸。	何所觸。	What do they contact?
+['ZH_T30_1579_005:0302c05_17']	何所引。	何所引。	What do they lead to?
+['ZH_T30_1579_005:0302c06_1']	何相應。	何相應。	What are they associated with?
+['ZH_T30_1579_005:0302c06_5']	何所求。	何所求。	What do they seek?
+['ZH_T30_1579_005:0302c06_10']	何業轉耶。	何業轉耶。	In what activity do they revolve?
+['ZH_T30_1579_005:0302c06_15']	如那落迦。	如那落迦。	As with hell beings,
+['ZH_T30_1579_005:0302c07_15']	如是傍生餓鬼人欲界天初靜慮地天所有尋伺。	如是傍生餓鬼人欲界天初靜慮地天所有尋伺。	so are the applied thought and sustained thought of animals, hungry ghosts, humans, and the gods of the desire realm and the first dhyāna heaven.
+['ZH_T30_1579_005:0302c08_1']	何等行。	何等行。	What are their modes?
+['ZH_T30_1579_005:0302c08_5']	何所觸。	何所觸。	What do they contact?
+['ZH_T30_1579_005:0302c08_9']	何所引。	何所引。	What do they lead to?
+['ZH_T30_1579_005:0302c08_13']	何相應。	何相應。	What are they associated with?
+['ZH_T30_1579_005:0302c08_17']	何所求。	何所求。	What do they seek?
+['ZH_T30_1579_005:0302c09_1']	何業轉耶。	何業轉耶。	In what activity do they revolve?
+['ZH_T30_1579_005:0302c09_12']	謂那落迦尋伺唯是慼行。	謂那落迦尋伺唯是慼行。	That is, the applied thought and sustained thought of hell beings are only of the nature of dejection.
+['ZH_T30_1579_005:0302c09_17']	觸非愛境。	觸非愛境。	They are in contact with unpleasant objects.
+['ZH_T30_1579_005:0302c10_7']	引發於苦與憂相應。	引發於苦與憂相應。	They give rise to suffering and are associated with sorrow.
+['ZH_T30_1579_005:0302c10_16']	常求脫苦嬈心業轉。	常求脫苦嬈心業轉。	They always seek to escape from suffering and their minds are disturbed by karma.
+['ZH_T30_1579_005:0302c11_9']	如那落迦尋伺一向受苦。	如那落迦尋伺一向受苦。	Just as the applied thought and sustained thought of hell beings are exclusively of the nature of suffering,
+['ZH_T30_1579_005:0302c11_16']	餓鬼尋伺亦爾。	餓鬼尋伺亦爾。	the applied thought and sustained thought of hungry ghosts are also like this.
+['ZH_T30_1579_005:0302c12_11']	傍生人趣大力餓鬼所有尋伺。	傍生人趣大力餓鬼所有尋伺。	The applied thought and sustained thought of animals, humans, and powerful hungry ghosts
+['ZH_T30_1579_005:0302c13_2']	多分慼行少分欣行。	多分慼行少分欣行。	are mostly of the nature of dejection and to a small extent of the nature of joy.
+['ZH_T30_1579_005:0302c13_9']	多分觸非愛境。	多分觸非愛境。	They are mostly in contact with unpleasant objects
+['ZH_T30_1579_005:0302c13_16']	少分觸可愛境。	少分觸可愛境。	and to a small extent with pleasant objects.
+['ZH_T30_1579_005:0302c14_6']	多分引苦少分引樂。	多分引苦少分引樂。	They mostly give rise to suffering and to a small extent to pleasure.
+['ZH_T30_1579_005:0302c14_12']	多分憂相應。	多分憂相應。	They are mostly associated with sorrow
+['ZH_T30_1579_005:0302c14_18']	少分喜相應。	少分喜相應。	and to a small extent with joy.
+['ZH_T30_1579_005:0302c15_5']	多分求脫苦。	多分求脫苦。	They mostly seek to escape from suffering
+['ZH_T30_1579_005:0302c15_11']	少分求遇樂。	少分求遇樂。	and to a small extent to encounter pleasure.
+['ZH_T30_1579_005:0302c15_16']	嬈心業轉。	嬈心業轉。	Their minds are disturbed by karma.
+['ZH_T30_1579_005:0302c16_6']	欲界諸天所有尋伺。	欲界諸天所有尋伺。	The applied thought and sustained thought of the gods of the desire realm
+['ZH_T30_1579_005:0302c16_15']	多分欣行少分慼行。	多分欣行少分慼行。	are mostly of the nature of joy and to a small extent of the nature of dejection.
+['ZH_T30_1579_005:0302c17_3']	多分觸可愛境。	多分觸可愛境。	They are mostly in contact with pleasant objects
+['ZH_T30_1579_005:0302c17_10']	少分觸非愛境。	少分觸非愛境。	and to a small extent with unpleasant objects.
+['ZH_T30_1579_005:0302c18_1']	多分引樂少分引苦。	多分引樂少分引苦。	They mostly give rise to pleasure and to a small extent to suffering.
+['ZH_T30_1579_005:0302c18_7']	多分喜相應。	多分喜相應。	They are mostly associated with joy
+['ZH_T30_1579_005:0302c18_13']	少分憂相應。	少分憂相應。	It is associated with a small amount of worry.
+['ZH_T30_1579_005:0302c19_5']	多分求遇樂少分求脫苦。	多分求遇樂少分求脫苦。	For the most part, it seeks to encounter pleasure and a small amount seeks to escape suffering.
+['ZH_T30_1579_005:0302c19_10']	嬈心業轉。	嬈心業轉。	The mind is disturbed by karma.
+['ZH_T30_1579_005:0302c20_2']	初靜慮地天所有尋伺。	初靜慮地天所有尋伺。	The investigation and deliberation of the gods in the first dhyāna ground.
+['ZH_T30_1579_005:0302c20_7']	一向欣行。	一向欣行。	Are entirely of the type that delights.
+['ZH_T30_1579_005:0302c20_16', 'ZH_T30_1579_005:0302c21_1']	一向觸內可愛境界。🔽一向引樂。	一向觸內可愛境界。 一向引樂。	They entirely touch the delightful objects within.🔽They entirely attract pleasure.
+['ZH_T30_1579_005:0302c21_7']	一向喜相應。	一向喜相應。	They are entirely associated with joy.
+['ZH_T30_1579_005:0302c21_13']	唯求不離樂。	唯求不離樂。	They only seek not to be separated from pleasure.
+['ZH_T30_1579_005:0302c21_19']	不嬈心業轉。	不嬈心業轉。	The mind is disturbed by karma.
+['ZH_T30_1579_005:0302c22_10']	云何如理作意施設建立。	云何如理作意施設建立。	How is the establishment of proper mental activity?
+['ZH_T30_1579_005:0302c22_15']	嗢拕南曰。	嗢拕南曰。	The uddāna says:
+['ZH_T30_1579_005:0302c23_0']	依處及與事　　求受用正行	依處及與事　　求受用正行	Based on the basis and the matter, seeking, experiencing, and correct practice,
+['ZH_T30_1579_005:0302c24_0']	二菩提資糧　　到彼岸方便	二菩提資糧　　到彼岸方便	The two kinds of provisions for bodhi, the skillful means of reaching the other shore,
+['ZH_T30_1579_005:0302c25_8']	應知建立略由八相。	應知建立略由八相。	One should know that the establishment is briefly due to eight aspects.
+['ZH_T30_1579_005:0302c25_16']	謂由依處故事故。	謂由依處故事故。	Namely, due to the basis, and due to the matter,
+['ZH_T30_1579_005:0302c26_1']	求故。	求故。	Due to seeking,
+['ZH_T30_1579_005:0302c26_5']	受用故。	受用故。	Due to experiencing,
+['ZH_T30_1579_005:0302c26_9', 'ZH_T30_1579_005:0302c26_18', 'ZH_T30_1579_005:0302c27_6']	正行故。🔽聲聞乘資糧方便故。🔽獨覺乘資糧方便故。	正行故。 聲聞乘資糧方便故。 獨覺乘資糧方便故。	Due to correct practice,🔽Due to the skillful means of the provisions for the vehicle of the hearers,🔽Due to the skillful means of the provisions for the vehicle of the solitary realizers,
+['ZH_T30_1579_005:0302c27_16']	波羅蜜多引發方便故。	波羅蜜多引發方便故。	Due to the skillful means of arousing the perfections,
+['ZH_T30_1579_005:0302c28_4']	如理作意相應。	如理作意相應。	In accordance with proper mental activity.
+['ZH_T30_1579_005:0302c28_10']	尋伺依處者。	尋伺依處者。	The bases of applied thought and sustained thought are as follows.
+['ZH_T30_1579_005:0302c28_17']	謂有六種依處。	謂有六種依處。	There are six kinds of bases.
+['ZH_T30_1579_005:0302c29_3']	一決定時。	一決定時。	First, at the time of determination;
+['ZH_T30_1579_005:0302c29_8']	二止息時。	二止息時。	second, at the time of cessation;
+['ZH_T30_1579_005:0302c29_13']	三作業時。	三作業時。	third, at the time of activity;
+['ZH_T30_1579_005:0302c29_20']	四世間離欲時。	四世間離欲時。	fourth, at the time of worldly detachment;
+['ZH_T30_1579_005:0303a01_6']	五出世離欲時。	五出世離欲時。	fifth, at the time of supramundane detachment;
+['ZH_T30_1579_005:0303a01_13', 'ZH_T30_1579_005:0303a02_1']	六攝益有情時。🔽如理作意相應。	六攝益有情時。 如理作意相應。	sixth, at the time of benefiting sentient beings.🔽Conjoined with proper attention.
+['ZH_T30_1579_005:0303a02_6']	尋伺事者。	尋伺事者。	The objects of applied thought and sustained thought are as follows.
+['ZH_T30_1579_005:0303a02_11']	謂八種事。	謂八種事。	There are eight kinds of objects.
+['ZH_T30_1579_005:0303a02_20']	一施所成福作用事。	一施所成福作用事。	First, the object of the function of merit accomplished through giving;
+['ZH_T30_1579_005:0303a03_8']	二戒所成福作用事。	二戒所成福作用事。	second, the object of the function of merit accomplished through morality;
+['ZH_T30_1579_005:0303a03_17']	三修所成福作用事。	三修所成福作用事。	third, the object of the function of merit accomplished through meditation;
+['ZH_T30_1579_005:0303a04_4']	四聞所成事。	四聞所成事。	fourth, the object accomplished through learning;
+['ZH_T30_1579_005:0303a04_10']	五思所成事。	五思所成事。	fifth, the object accomplished through reflection;
+['ZH_T30_1579_005:0303a04_17']	六餘修所成事。	六餘修所成事。	sixth, the object accomplished through other cultivation;
+['ZH_T30_1579_005:0303a05_5']	七簡擇所成事。	七簡擇所成事。	seventh, the object accomplished through discrimination;
+['ZH_T30_1579_005:0303a05_14', 'ZH_T30_1579_005:0303a06_2']	八攝益有情所成事。🔽如理作意相應。	八攝益有情所成事。 如理作意相應。	eighth, the object accomplished through benefiting sentient beings.🔽Conjoined with proper attention.
+['ZH_T30_1579_005:0303a06_7']	尋伺求者。	尋伺求者。	The seeking of applied thought and sustained thought is as follows.
+['ZH_T30_1579_005:0303a07_7', 'ZH_T30_1579_005:0303a07_14']	謂如有一不以非法及不兇險追求財物。🔽如理作意相應。	謂如有一不以非法及不兇險追求財物。 如理作意相應。	It is like someone who does not pursue wealth through unrighteous means or violence.🔽Conjoined with proper attention.
+['ZH_T30_1579_005:0303a08_2']	尋伺受用者。	尋伺受用者。	The enjoyment of applied thought and sustained thought is as follows.
+['ZH_T30_1579_005:0303a08_11', 'ZH_T30_1579_005:0303a09_2']	謂如即彼追求財已。🔽不染不住不耽不縛。	謂如即彼追求財已。 不染不住不耽不縛。	It means that after seeking wealth,🔽one is not defiled, not attached, not indulging, not bound,
+['ZH_T30_1579_005:0303a09_11']	不悶不著亦不堅執。	不悶不著亦不堅執。	not depressed, not clinging, and not grasping firmly.
+['ZH_T30_1579_005:0303a10_7']	深見過患了知出離而受用之。	深見過患了知出離而受用之。	One deeply sees the faults and understands liberation while enjoying it.
+['ZH_T30_1579_005:0303a10_14']	如理作意相應。	如理作意相應。	It is associated with proper thought.
+['ZH_T30_1579_005:0303a11_1']	尋伺正行者。	尋伺正行者。	The one who practices contemplation and investigation
+['ZH_T30_1579_005:0303a12_1']	謂如有一了知父母沙門婆羅門及家長等。	謂如有一了知父母沙門婆羅門及家長等。	is like someone who knows parents, śramaṇas, brāhmans, and householders, etc.
+['ZH_T30_1579_005:0303a12_10']	恭敬供養利益承事。	恭敬供養利益承事。	They respectfully make offerings, benefit, and serve.
+['ZH_T30_1579_005:0303a13_5']	於今世後世所作罪中見大怖畏。	於今世後世所作罪中見大怖畏。	They see great fear in the sins committed in this world and the next.
+['ZH_T30_1579_005:0303a13_14']	行施作福受齋持戒。	行施作福受齋持戒。	They practice giving, making merit, observing precepts, and upholding the precepts.
+['ZH_T30_1579_005:0303a14_5']	聲聞乘資糧方便者。	聲聞乘資糧方便者。	The expedient means of the śrāvaka vehicle's provisions
+['ZH_T30_1579_005:0303a14_14']	聲聞地中我當廣說。	聲聞地中我當廣說。	will be explained in detail in the Śrāvaka Grounds.
+['ZH_T30_1579_005:0303a15_4']	獨覺乘資糧方便者。	獨覺乘資糧方便者。	The expedient means of the pratyekabuddha vehicle's provisions
+['ZH_T30_1579_005:0303a15_13']	獨覺地中我當廣說。	獨覺地中我當廣說。	will be explained in detail in the Pratyekabuddha Grounds.
+['ZH_T30_1579_005:0303a16_4']	波羅蜜多引發方便者。	波羅蜜多引發方便者。	The expedient means of generating the perfections
+['ZH_T30_1579_005:0303a16_13']	菩薩地中我當廣說。	菩薩地中我當廣說。	will be explained in detail in the Bodhisattva Grounds.
+['ZH_T30_1579_005:0303a17_8']	復次施主有四種相。	復次施主有四種相。	Next, there are four characteristics of a donor:
+['ZH_T30_1579_005:0303a17_13']	一有欲樂。	一有欲樂。	First, having a desire for giving;
+['ZH_T30_1579_005:0303a17_18']	二無偏黨。	二無偏黨。	Second, being impartial;
+['ZH_T30_1579_005:0303a18_4']	三除匱乏。	三除匱乏。	Third, eliminating lack.
+['ZH_T30_1579_005:0303a18_9']	四具正智。	四具正智。	Fourth, possessing right wisdom.
+['ZH_T30_1579_005:0303a18_18']	具尸羅者亦有四相。	具尸羅者亦有四相。	One who possesses morality also has four characteristics.
+['ZH_T30_1579_005:0303a19_4']	一有欲樂。	一有欲樂。	First, having desire and joy.
+['ZH_T30_1579_005:0303a19_9']	二結橋梁。	二結橋梁。	Second, forming bridges and roads.
+['ZH_T30_1579_005:0303a19_14']	三不現行。	三不現行。	Third, not engaging in misconduct.
+['ZH_T30_1579_005:0303a19_19']	四具正智。	四具正智。	Fourth, possessing right wisdom.
+['ZH_T30_1579_005:0303a20_8']	成就修者亦有四相。	成就修者亦有四相。	One who accomplishes cultivation also has four characteristics.
+['ZH_T30_1579_005:0303a20_14']	一欲解清淨。	一欲解清淨。	First, pure understanding and resolve.
+['ZH_T30_1579_005:0303a21_1']	二引攝清淨。	二引攝清淨。	Second, pure attraction and appropriation.
+['ZH_T30_1579_005:0303a21_8']	三勝解定清淨。	三勝解定清淨。	Third, pure resolve and concentration.
+['ZH_T30_1579_005:0303a21_13']	四智清淨。	四智清淨。	Fourth, pure wisdom.
+['ZH_T30_1579_005:0303a22_2']	六種。	六種。	Six kinds.
+['ZH_T30_1579_005:0303a22_8']	一受學受施。	一受學受施。	First, accepting and giving out of learning.
+['ZH_T30_1579_005:0303a22_14']	二活命受施。	二活命受施。	Second, accepting and giving for the sake of livelihood.
+['ZH_T30_1579_005:0303a23_1']	三貧匱受施。	三貧匱受施。	Third, accepting and giving out of poverty and destitution.
+['ZH_T30_1579_005:0303a23_7']	四棄捨受施。	四棄捨受施。	Fourth, accepting and giving out of abandonment.
+['ZH_T30_1579_005:0303a23_13']	五羈遊受施。	五羈遊受施。	Fifth, accepting and giving while traveling.
+['ZH_T30_1579_005:0303a23_19']	六耽著受施。	六耽著受施。	Sixth, accepting and giving out of attachment.
+['ZH_T30_1579_005:0303a24_6', 'ZH_T30_1579_005:0303a24_11']	復有八種損惱。🔽一飢損惱。	復有八種損惱。 一飢損惱。	There are also eight kinds of harm.🔽First, harm from hunger.
+['ZH_T30_1579_005:0303a24_16']	二渴損惱。	二渴損惱。	Second, harm from thirst.
+['ZH_T30_1579_005:0303a25_2']	三麁食損惱。	三麁食損惱。	Third, harm from coarse food.
+['ZH_T30_1579_005:0303a25_8']	四疲倦損惱。	四疲倦損惱。	Fourth, harm from fatigue and weariness.
+['ZH_T30_1579_005:0303a25_13']	五寒損惱。	五寒損惱。	Fifth, harm from cold.
+['ZH_T30_1579_005:0303a25_18']	六熱損惱。	六熱損惱。	Sixth, harm from heat.
+['ZH_T30_1579_005:0303a26_4']	七無覆障損惱。	七無覆障損惱。	Seventh, harm from lack of shelter.
+['ZH_T30_1579_005:0303a26_11']	八有覆障損惱。	八有覆障損惱。	Eighth, harm from having shelter.
+['ZH_T30_1579_005:0303a26_18']	復有六種損惱。	復有六種損惱。	There are also six kinds of harm.
+['ZH_T30_1579_005:0303a27_2']	一俱生。	一俱生。	First, co-arising.
+['ZH_T30_1579_005:0303a27_8']	二所欲匱乏。	二所欲匱乏。	Second, lack of what is desired.
+['ZH_T30_1579_005:0303a27_12']	三逼切。	三逼切。	Third, oppression.
+['ZH_T30_1579_005:0303a27_18']	四時節變異。	四時節變異。	Fourth, change in time.
+['ZH_T30_1579_005:0303a28_2']	五流漏。	五流漏。	Fifth, leakage.
+['ZH_T30_1579_005:0303a28_8']	六事業休廢。	六事業休廢。	Sixth, cessation of work.
+['ZH_T30_1579_005:0303a29_1']	益。	益。	Benefit.
+['ZH_T30_1579_005:0303a29_9']	二勇健無損攝益。	二勇健無損攝益。	Second, courageous and vigorous benefit.
+['ZH_T30_1579_005:0303a29_15']	三覆護攝益。	三覆護攝益。	Third, protective benefit.
+['ZH_T30_1579_005:0303b01_1']	四塗香攝益。	四塗香攝益。	Fourth, fragrant benefit.
+['ZH_T30_1579_005:0303b01_7']	五衣服攝益。	五衣服攝益。	Fifth, clothing benefit.
+['ZH_T30_1579_005:0303b01_13']	六共住攝益。	六共住攝益。	Sixth, living together benefit.
+['ZH_T30_1579_005:0303b02_3']	復有四種非善友相。	復有四種非善友相。	There are also four kinds of characteristics of bad friends.
+['ZH_T30_1579_005:0303b02_9']	一不捨怨心。	一不捨怨心。	First, not abandoning enmity.
+['ZH_T30_1579_005:0303b02_15']	二引彼不愛。	二引彼不愛。	Second, leading to what is unloved.
+['ZH_T30_1579_005:0303b03_2']	三遮彼所愛。	三遮彼所愛。	Third, blocking what is loved.
+['ZH_T30_1579_005:0303b03_8']	四引非所宜。	四引非所宜。	Fourth, leading to what is unsuitable.
+['ZH_T30_1579_005:0303b04_3']	與此相違當知即是四善友相。	與此相違當知即是四善友相。	It should be known that the opposite of this is the four characteristics of good friends.
+['ZH_T30_1579_005:0303b04_10']	復有三種引攝。	復有三種引攝。	There are also three kinds of attraction.
+['ZH_T30_1579_005:0303b04_17']	一引攝資生具。	一引攝資生具。	First, attracting the necessities of life.
+['ZH_T30_1579_005:0303b05_5']	二引攝有喜樂。	二引攝有喜樂。	Second, attracting joy and pleasure.
+['ZH_T30_1579_005:0303b05_12']	三引攝離喜樂。	三引攝離喜樂。	Third, attracting the abandonment of joy and pleasure.
+['ZH_T30_1579_005:0303b06_3']	復有四種隨轉供事。	復有四種隨轉供事。	There are also four kinds of service and offerings.
+['ZH_T30_1579_005:0303b06_13']	一隨轉供事非知舊者。	一隨轉供事非知舊者。	First, serving and offering to those who are not known.
+['ZH_T30_1579_005:0303b07_5']	二隨轉供事諸親友者。	二隨轉供事諸親友者。	Second, serving and offering to relatives.
+['ZH_T30_1579_005:0303b07_15']	三隨轉供事所尊重者。	三隨轉供事所尊重者。	Third, following and serving those who are venerable.
+['ZH_T30_1579_005:0303b08_7']	四隨轉供事具福慧者。	四隨轉供事具福慧者。	Fourth, following and serving those who possess merit and wisdom.
+['ZH_T30_1579_005:0303b08_16']	由此四種隨轉供事。	由此四種隨轉供事。	By means of these four kinds of following and serving,
+['ZH_T30_1579_005:0303b09_9']	依止四處獲得五果應知。	依止四處獲得五果應知。	one will obtain five fruits based on four bases, which should be known.
+['ZH_T30_1579_005:0303b09_14']	何等四處。	何等四處。	What are the four bases?
+['ZH_T30_1579_005:0303b10_2']	一無攝受處。	一無攝受處。	First, the base of non-acceptance.
+['ZH_T30_1579_005:0303b10_8']	二無侵惱處。	二無侵惱處。	Second, the base of non-harming.
+['ZH_T30_1579_005:0303b10_14']	三應供養處。	三應供養處。	Third, the base of offerings.
+['ZH_T30_1579_005:0303b11_2']	四同分隨轉處。	四同分隨轉處。	Fourth, the base of following and turning together.
+['ZH_T30_1579_005:0303b11_11']	依此四處能感五果。	依此四處能感五果。	Based on these four bases, one can elicit five fruits.
+['ZH_T30_1579_005:0303b11_17']	一感大財富。	一感大財富。	First, eliciting great wealth.
+['ZH_T30_1579_005:0303b12_4']	二名稱普聞。	二名稱普聞。	Second, having a far-reaching reputation.
+['ZH_T30_1579_005:0303b12_10']	三離諸煩惱。	三離諸煩惱。	Third, being free from afflictions.
+['ZH_T30_1579_005:0303b12_16']	四證得涅槃。	四證得涅槃。	Fourth, realizing nirvana.
+['ZH_T30_1579_005:0303b13_3']	五或往善趣。	五或往善趣。	Fifth, or going to a good realm.
+['ZH_T30_1579_005:0303b13_14']	又聰慧者有三種聰慧相。	又聰慧者有三種聰慧相。	Moreover, the wise person has three kinds of characteristics of wisdom.
+['ZH_T30_1579_005:0303b14_2']	一於善受行。	一於善受行。	First, skillfully accepting and practicing.
+['ZH_T30_1579_005:0303b14_8']	二於善決定。	二於善決定。	Second, skillfully determining.
+['ZH_T30_1579_005:0303b14_14']	三於善堅固。	三於善堅固。	Third, skillfully being firm.
+['ZH_T30_1579_005:0303b14_19']	復有三相。	復有三相。	There are also three characteristics.
+['ZH_T30_1579_005:0303b15_6']	一受學增上戒。	一受學增上戒。	First, accepting and studying the superior precepts.
+['ZH_T30_1579_005:0303b15_13']	二受學增上心。	二受學增上心。	Second, accepting and studying the superior concentration.
+['ZH_T30_1579_005:0303b16_2']	三受學增上慧。	三受學增上慧。	Third, accepting and studying the superior wisdom.Here is the corrected and aligned text:
+['ZH_T30_1579_005:0303b17_100']	瑜伽師地論卷第五	瑜伽師地論卷第五	Discourse on the Stages of Concentration Practice, Scroll 5

@@ -1,0 +1,901 @@
+segmentnr	original	analyzed	translated
+['ZH_T16_0682_002:0755c16_0', 'ZH_T16_0682_002:0755c18_0']	大乘密嚴經卷中🔽開府儀同三司特進試鴻臚卿	大乘密嚴經卷中 開府儀同三司特進試鴻臚卿	Mahāyāna-tantra of the Secret Adornment, Scroll 2🔽Kaifuyi Tongsansi Tejin Shi Honglu Qing
+['ZH_T16_0682_002:0755c19_0']	肅國公食邑三千戶賜紫贈司空	肅國公食邑三千戶賜紫贈司空	Su Guo Gong Shiyi Qianhu Hu Cizi Zeng Sikong🔽Posthumous Title: Great Mirror, Style: Greatly Wise Tripiṭaka Master Amoghavajra of Daxingshansi, Translated by Imperial Order, Entering the Chapter on the Birth of the Subtle Body of the Secret Adornment, the Remainder
+['ZH_T16_0682_002:0755c29_7_0']	諡大鑑正號大廣智大興善寺三藏沙門不空奉　詔譯入密嚴微妙身生品之餘爾時大會中有普賢眾色大威德菩薩摩訶薩，與其同類持世菩薩摩訶薩	諡大鑑正號大廣智大興善寺三藏沙門不空奉　詔譯入密嚴微妙身生品之餘爾時大會中有普賢眾色大威德菩薩摩訶薩，與其同類持世菩薩摩訶薩	At that time, in the great assembly, there was the Bodhisattva Mahāsattva Samantabhadra of Universal Color and Great Authority, together with the Bodhisattva Mahāsattva Dhṛḍhadhanu,
+['ZH_T16_0682_002:0755c29_7_1']	持進菩薩摩訶薩	持進菩薩摩訶薩	the Bodhisattva Mahāsattva Dhṛḍhavrata,
+['ZH_T16_0682_002:0755c29_7_2']	曼殊室利菩薩摩訶薩	曼殊室利菩薩摩訶薩	the Bodhisattva Mahāsattva Mañjuśrī,
+['ZH_T16_0682_002:0755c29_7_3']	神通王菩薩摩訶薩	神通王菩薩摩訶薩	the Bodhisattva Mahāsattva ṛddhi-rāja,
+['ZH_T16_0682_002:0755c29_7_4']	得大勢菩薩摩訶薩	得大勢菩薩摩訶薩	the Bodhisattva Mahāsattva mahāsthāmaprāpta,
+['ZH_T16_0682_002:0755c29_7_5']	解脫月菩薩摩訶薩	解脫月菩薩摩訶薩	the Bodhisattva Mahāsattva vimukticandra,
+['ZH_T16_0682_002:0755c29_7_6']	金剛臍菩薩摩訶薩	金剛臍菩薩摩訶薩	the Bodhisattva Mahāsattva vajra-nābhi,
+['ZH_T16_0682_002:0755c29_7_7']	大樹緊那羅王菩薩摩訶薩	大樹緊那羅王菩薩摩訶薩	the Bodhisattva Mahāsattva mahā-druma kiṃnara-rāja,
+['ZH_T16_0682_002:0755c29_7_8']	虛空藏菩薩摩訶薩等，乃至摩尼大寶藏殿無量諸天。	虛空藏菩薩摩訶薩等，乃至摩尼大寶藏殿無量諸天。	the Bodhisattva Mahāsattva ākāśagarbha, and others, up to the immeasurable devas in the maṇi great treasure palace.
+['ZH_T16_0682_002:0756a05_8']	復有密嚴土中諸瑜祇眾，與彼無量俱胝佛剎來聽法者，聞說密嚴甚深功德，於法恭敬定得轉依，恒居此土不生餘處，咸共悲愍未來世中一切有情，普欲等慈為作饒益，各共瞻仰金剛藏菩薩摩訶薩，一心同聲以偈問曰：	復有密嚴土中諸瑜祇眾，與彼無量俱胝佛剎來聽法者，聞說密嚴甚深功德，於法恭敬定得轉依，恒居此土不生餘處，咸共悲愍未來世中一切有情，普欲等慈為作饒益，各共瞻仰金剛藏菩薩摩訶薩，一心同聲以偈問曰：	Furthermore, the assembly of yogins in the secret and pure land, together with those who came to listen to the Dharma from countless koṭis of buddha lands, heard the explanation of the profound merits of the secret and pure land, and with respect for the Dharma, attained the turning of dependence, always dwelling in this land and not being born elsewhere. They all had compassion for all beings in the future world, universally wishing to benefit them with equality and kindness, and each looked up to Vajragarbha Bodhisattva Mahāsattva, with one mind and the same voice, asking in verse:
+['ZH_T16_0682_002:0756a06_0']	「尊者具辯才，　　唯願見開示，	「尊者具辯才，　　唯願見開示，	The Venerable One is endowed with eloquence, please show us,
+['ZH_T16_0682_002:0756a07_13']	世間諸色像，　　其誰之所作？	世間諸色像，　　其誰之所作？	In the world, who is the creator of all forms and appearances?
+['ZH_T16_0682_002:0756a08_13']	為如工造瓶，　　泥輪以埏埴？	為如工造瓶，　　泥輪以埏埴？	Is it like a craftsman making a pot, using clay and a wheel to shape it?
+['ZH_T16_0682_002:0756a09_13']	為如奏樂者，　　擊動所成音？	為如奏樂者，　　擊動所成音？	Is it like a musician producing sound by striking and moving?
+['ZH_T16_0682_002:0756a10_0']	為如一物體，　　有三種自性，	為如一物體，　　有三種自性，	Is it like a single substance having three kinds of self-nature,
+['ZH_T16_0682_002:0756a11_13']	謂已成未成，　　咸在於一物？	謂已成未成，　　咸在於一物？	Namely, the already accomplished and the yet to be accomplished, all existing in a single substance?
+['ZH_T16_0682_002:0756a12_13', 'ZH_T16_0682_002:0756a13_5']	云何種種色，　　一物而建立？🔽為兜率所作？	云何種種色，　　一物而建立？ 為兜率所作？	Be established in a single entity?🔽Is it created by the Tuṣita Heaven?
+['ZH_T16_0682_002:0756a13_13']	　　夜摩所作耶？	　　夜摩所作耶？	Is it created by the Yāma Heaven?
+['ZH_T16_0682_002:0756a14_5']	他化自在作？	他化自在作？	Is it created by the Paranirmita-vaśavartin Heaven?
+['ZH_T16_0682_002:0756a14_13', 'ZH_T16_0682_002:0756a15_5']	　　大樹緊那羅？🔽善見天所作？	　　大樹緊那羅？ 善見天所作？	Is it created by the Mahādruma kiṃnara?🔽Is it created by the Heaven of Excellent Vision?
+['ZH_T16_0682_002:0756a15_13']	　　色究竟天耶？	　　色究竟天耶？	Is it created by the Akaniṣṭha Heaven?
+['ZH_T16_0682_002:0756a16_5']	螺髻梵王作？	螺髻梵王作？	Is it created by the Brahmā with the Conch Hair Topknot?
+['ZH_T16_0682_002:0756a16_13']	　　無色天作耶？	　　無色天作耶？	Is it created by the Formless Heavens?
+['ZH_T16_0682_002:0756a17_5']	一切天主作？	一切天主作？	Is it created by all the Lords of the Heavens?
+['ZH_T16_0682_002:0756a17_13']	　　自然所作耶？	　　自然所作耶？	Is it created by itself?
+['ZH_T16_0682_002:0756a18_5']	變化之所作？	變化之所作？	Is it created by transformation?
+['ZH_T16_0682_002:0756a18_13']	　　諸佛所作耶？	　　諸佛所作耶？	Is it created by the Buddhas?
+['ZH_T16_0682_002:0756a19_13']	為餘世界中，　　佛子之所作？	為餘世界中，　　佛子之所作？	Is it created by the Buddha's disciples in other worlds?🔽These various created colors
+['ZH_T16_0682_002:0756a20_0']	是諸作眾色，　　惑亂而建立，	是諸作眾色，　　惑亂而建立，	Are established as confusing illusions,
+['ZH_T16_0682_002:0756a21_13']	所起於惑亂，　　如鹿見陽焰。	所起於惑亂，　　如鹿見陽焰。	What arises from confusion is like a deer seeing a mirage.
+['ZH_T16_0682_002:0756a22_0']	譬如於瓶處，　　為德之所依，	譬如於瓶處，　　為德之所依，	Just as in the case of a pot, it is the basis for qualities,🔽All worlds,
+['ZH_T16_0682_002:0756a23_0']	一切諸世間，　　能住於處者，	一切諸世間，　　能住於處者，	Those who can abide in a place,
+['ZH_T16_0682_002:0756a24_0']	非德者屬德，　　非德依德者，	非德者屬德，　　非德依德者，	Are not qualities belonging to qualities, nor do non-qualities rely on qualities,
+['ZH_T16_0682_002:0756a25_13']	展轉和合故，　　眾德所集成。	展轉和合故，　　眾德所集成。	Because of the combination of various factors, it is composed of the aggregation of many virtues.
+['ZH_T16_0682_002:0756a26_13']	諸色唯惑亂，　　為亦有住耶？	諸色唯惑亂，　　為亦有住耶？	Are all forms only confused, or do they also have a basis?
+['ZH_T16_0682_002:0756a27_5']	為梵王所作？	為梵王所作？	Are they created by the Brahma King?
+['ZH_T16_0682_002:0756a27_13']	　　那羅延作耶？	　　那羅延作耶？	Are they created by Narayana?
+['ZH_T16_0682_002:0756a28_13']	雄猛及勝論、　　數論自作耶？	雄猛及勝論、　　數論自作耶？	Are they created by the powerful, the victorious theories, or the theories of numbers?
+['ZH_T16_0682_002:0756a29_5']	勝性之所作？	勝性之所作？	Are they created by the supreme nature?
+['ZH_T16_0682_002:0756a29_13']	　　自在自然耶？	　　自在自然耶？	Are they created by the self-existent one?
+['ZH_T16_0682_002:0756b01_5']	時無明所生？	時無明所生？	Are they born from ignorance at the time of creation?
+['ZH_T16_0682_002:0756b01_13']	　　愛業所作耶？	　　愛業所作耶？	Are they created by the karma of love?
+['ZH_T16_0682_002:0756b02_13']	天仙及世定，　　皆悉懷疑惑。	天仙及世定，　　皆悉懷疑惑。	The gods, sages, and the world all have doubts.
+['ZH_T16_0682_002:0756b03_0']	為先無有體，　　猶如於幻夢，	為先無有體，　　猶如於幻夢，	Are they originally without substance, like an illusion or a dream,
+['ZH_T16_0682_002:0756b04_13']	亦如熱時焰，　　及乾闥婆城？	亦如熱時焰，　　及乾闥婆城？	Like a mirage in the heat, or a city of the gandharvas?
+['ZH_T16_0682_002:0756b05_0']	無始妄分別，　　隨彼彼相續，	無始妄分別，　　隨彼彼相續，	Since beginningless false discrimination, following this and that continuity,
+['ZH_T16_0682_002:0756b06_0']	起能耶所耶，　　如蛇有二頭，	起能耶所耶，　　如蛇有二頭，	Arises as the agent or the object, like a snake with two heads,
+['ZH_T16_0682_002:0756b07_0']	亦如起屍行，　　木人機所轉，	亦如起屍行，　　木人機所轉，	Or like a walking corpse, a wooden person moved by mechanisms,
+['ZH_T16_0682_002:0756b08_13']	空中見垂髮，　　及旋火輪耶？	空中見垂髮，　　及旋火輪耶？	Or like seeing hanging hair in the sky, or a whirling fire wheel?
+['ZH_T16_0682_002:0756b10_15']	」爾時金剛藏菩薩摩訶薩告普賢眾色大威德菩薩摩訶薩及餘大眾，而說偈言：	」爾時金剛藏菩薩摩訶薩告普賢眾色大威德菩薩摩訶薩及餘大眾，而說偈言：	At that time, Vajragarbha Bodhisattva Mahāsattva addressed Samantabhadra Bodhisattva Mahāsattva of Universal Form and Great Virtue, as well as the great assembly, and spoke a verse, saying:
+['ZH_T16_0682_002:0756b11_0']	「世間眾色像，　　不從作者生，	「世間眾色像，　　不從作者生，	The various forms in the world are not born from a creator,
+['ZH_T16_0682_002:0756b12_0']	亦如劫比羅，　　因陀羅等作，	亦如劫比羅，　　因陀羅等作，	Just like Kapila, Indra, and others,
+['ZH_T16_0682_002:0756b13_0']	亦非祠祭果，　　亦非圍陀教，	亦非祠祭果，　　亦非圍陀教，	They are also not the fruits of sacrifice, nor are they the teachings of the Vedas.
+['ZH_T16_0682_002:0756b14_13']	彼有多因種，　　修行常不住；	彼有多因種，　　修行常不住；	They have many kinds of causes, and practice is always impermanent;
+['ZH_T16_0682_002:0756b15_0']	亦復非無有，　　能持世間因，	亦復非無有，　　能持世間因，	They are also not non-existent, able to uphold the causes of the world,
+['ZH_T16_0682_002:0756b16_13']	謂第八丈夫，　　是名為藏識。	謂第八丈夫，　　是名為藏識。	That is to say, the eighth person, called the store consciousness.
+['ZH_T16_0682_002:0756b17_0']	由此成眾色，　　如轉輪眾瓶，	由此成眾色，　　如轉輪眾瓶，	By this, various forms are accomplished, like a potter's wheel and pots,
+['ZH_T16_0682_002:0756b18_0']	如油遍在麻，　　鹽中有醎味，	如油遍在麻，　　鹽中有醎味，	Like oil pervades sesame, and salt has a salty taste,
+['ZH_T16_0682_002:0756b19_0']	如無常遍色，　　丈夫識亦然，	如無常遍色，　　丈夫識亦然，	Like impermanence pervades form, the consciousness of a person is also like this,
+['ZH_T16_0682_002:0756b20_0']	如香在沈麝，　　及光居日月，	如香在沈麝，　　及光居日月，	Like fragrance resides in agarwood, and light abides in the sun and moon,
+['ZH_T16_0682_002:0756b21_0']	遠離能所作，　　及以有無宗，	遠離能所作，　　及以有無宗，	Far removed from agent and action, and the tenets of existence and non-existence,
+['ZH_T16_0682_002:0756b22_0']	亦離於一異，　　一切外道過，	亦離於一異，　　一切外道過，	Also free from sameness and difference, all the faults of non-Buddhists,
+['ZH_T16_0682_002:0756b23_13']	非智所尋求，　　不可得分別。	非智所尋求，　　不可得分別。	Not sought by the intellect, cannot be discriminated.
+['ZH_T16_0682_002:0756b24_0']	定心解脫者，　　自覺之所證，	定心解脫者，　　自覺之所證，	The liberated one with a concentrated mind, realizes through self-awakening,
+['ZH_T16_0682_002:0756b25_13']	若離阿賴耶，　　即無有餘識。	若離阿賴耶，　　即無有餘識。	If apart from the ālaya, there are no other consciousnesses.
+['ZH_T16_0682_002:0756b26_0']	譬如海波浪，　　與海雖不異，	譬如海波浪，　　與海雖不異，	Just as the ocean's waves, although not different from the ocean,
+['ZH_T16_0682_002:0756b27_13']	海靜波去來，　　亦不可言一。	海靜波去來，　　亦不可言一。	The ocean is still and the waves come and go, yet one cannot say they are the same.
+['ZH_T16_0682_002:0756b28_0']	譬如修定者，　　內定清淨心，	譬如修定者，　　內定清淨心，	Just as one in meditation, with a mind of pure concentration,
+['ZH_T16_0682_002:0756b29_0']	神通自在人，　　所有諸通慧，	神通自在人，　　所有諸通慧，	The person with spiritual powers and penetrations,
+['ZH_T16_0682_002:0756c01_13']	觀行者能見，　　非餘之所了。	觀行者能見，　　非餘之所了。	The contemplator can see, not understood by others.
+['ZH_T16_0682_002:0756c02_0']	如是流轉識，　　依彼藏識住，	如是流轉識，　　依彼藏識住，	Thus the transmigrating consciousness, depends on the store consciousness,
+['ZH_T16_0682_002:0756c03_13']	佛及諸佛子，　　定者常觀見。	佛及諸佛子，　　定者常觀見。	The Buddhas and their disciples, always see it with concentration.
+['ZH_T16_0682_002:0756c04_0']	藏識持於世，　　如以線貫珠，	藏識持於世，　　如以線貫珠，	The store consciousness holds the world, like beads strung on a thread,
+['ZH_T16_0682_002:0756c05_13']	如輪與車合，　　業風之所轉。	如輪與車合，　　業風之所轉。	Just as a wheel is combined with a cart, it is turned by the power of karma.
+['ZH_T16_0682_002:0756c06_0']	陶師運輪杖，　　器成隨所用，	陶師運輪杖，　　器成隨所用，	The potter operates the wheel and stick, and when the vessel is formed, it is used as needed.
+['ZH_T16_0682_002:0756c07_0']	藏識與諸界，　　共力無不成，	藏識與諸界，　　共力無不成，	The storehouse consciousness and the various elements, with their combined power, nothing is not accomplished.
+['ZH_T16_0682_002:0756c08_13']	內外識世間，　　彌給悉周遍。	內外識世間，　　彌給悉周遍。	The inner and outer consciousnesses of the world, Meggi (Maitreya) pervades everywhere.
+['ZH_T16_0682_002:0756c09_0']	譬如眾星象，　　布列在虛空，	譬如眾星象，　　布列在虛空，	It is like the stars and constellations, arranged in the sky,
+['ZH_T16_0682_002:0756c10_13']	風力之所持，　　運行常不息。	風力之所持，　　運行常不息。	Held by the power of the wind, they revolve and never cease.
+['ZH_T16_0682_002:0756c11_0']	如空中鳥跡，　　求之莫能見，	如空中鳥跡，　　求之莫能見，	Just as the traces of birds in the sky, when sought, cannot be seen,
+['ZH_T16_0682_002:0756c12_0']	若離於虛空，　　飛翔不可得，	若離於虛空，　　飛翔不可得，	If apart from the empty sky, flying cannot be obtained,
+['ZH_T16_0682_002:0756c13_13']	藏識亦如是，　　不離自他身。	藏識亦如是，　　不離自他身。	The storehouse consciousness is also like this, not apart from one's own body and the bodies of others.
+['ZH_T16_0682_002:0756c14_0']	如海起波濤，　　如空含萬象，	如海起波濤，　　如空含萬象，	Just as the ocean gives rise to waves, and the sky contains myriad forms,
+['ZH_T16_0682_002:0756c15_13']	丈夫識亦爾，　　蘊藏諸習氣。	丈夫識亦爾，　　蘊藏諸習氣。	The consciousness of a great man is also like this, storing all habitual tendencies.
+['ZH_T16_0682_002:0756c16_0']	譬如水中月，　　及以諸蓮華，	譬如水中月，　　及以諸蓮華，	It is like the moon in the water, and the various lotus flowers,
+['ZH_T16_0682_002:0756c17_13']	與水不相雜，　　不為水所著。	與水不相雜，　　不為水所著。	Not mixed with the water, not attached to the water.
+['ZH_T16_0682_002:0756c18_0']	藏識亦如是，　　習氣莫能染，	藏識亦如是，　　習氣莫能染，	The store consciousness is also like this, with habitual tendencies unable to taint it,
+['ZH_T16_0682_002:0756c19_13']	如目有童子，　　眼終不自見。	如目有童子，　　眼終不自見。	Like the eyes have a child, the eyes themselves can never see.
+['ZH_T16_0682_002:0756c20_0']	賴耶住於身，　　攝藏諸種子，	賴耶住於身，　　攝藏諸種子，	The ālaya abides in the body, storing all seeds,
+['ZH_T16_0682_002:0756c21_0']	遍持壽煖識，　　如雲覆世間，	遍持壽煖識，　　如雲覆世間，	Universally sustaining life, warmth, and consciousness, like clouds covering the world,
+['ZH_T16_0682_002:0756c22_13']	業用曾不停，　　有情莫能見。	業用曾不停，　　有情莫能見。	Its functions never cease, sentient beings cannot see it.
+['ZH_T16_0682_002:0756c23_0']	身者眾色成，　　又能作諸色，	身者眾色成，　　又能作諸色，	The body is composed of many colors, and can also create various forms,
+['ZH_T16_0682_002:0756c24_13']	如陶師不依，　　以泥成眾器。	如陶師不依，　　以泥成眾器。	Like a potter not relying on clay to create various vessels.
+['ZH_T16_0682_002:0756c25_0']	世間妄分別，　　見牛等有角，	世間妄分別，　　見牛等有角，	The world falsely discriminates, seeing cows and so forth as having horns,
+['ZH_T16_0682_002:0756c26_0']	不了角非有，　　因言兔角無，	不了角非有，　　因言兔角無，	Not understanding that horns do not exist, it is said that rabbits have no horns,
+['ZH_T16_0682_002:0756c27_13']	分析至極微，　　求角無所有。	分析至極微，　　求角無所有。	Analyzing down to the most subtle particles, seeking horns there is nothing.
+['ZH_T16_0682_002:0756c28_0']	要待於有法，　　而起於無見，	要待於有法，　　而起於無見，	One must rely on existent dharmas to give rise to the view of nonexistence,
+['ZH_T16_0682_002:0756c29_13']	有法本自無，　　無見何所待？	有法本自無，　　無見何所待？	Existent dharmas are originally nonexistent, what does the view of nonexistence rely on?
+['ZH_T16_0682_002:0757a01_0']	若有若無法，　　展轉互相因，	若有若無法，　　展轉互相因，	Existence and nonexistence mutually cause each other,
+['ZH_T16_0682_002:0757a02_0']	有無二法中，　　不應起分別，	有無二法中，　　不應起分別，	Within the two dharmas of existence and non-existence, one should not give rise to discrimination.
+['ZH_T16_0682_002:0757a03_13']	若離於所覺，　　能覺即不生。	若離於所覺，　　能覺即不生。	If one departs from the object of cognition, the cognition itself will not arise.
+['ZH_T16_0682_002:0757a04_0']	譬如旋火輪，　　翳幻乾城等，	譬如旋火輪，　　翳幻乾城等，	It is like a whirling fire wheel, a mirage, or a castle in the clouds -
+['ZH_T16_0682_002:0757a05_0']	皆因少所見，　　而生是諸覺，	皆因少所見，　　而生是諸覺，	All arise from a small amount of seeing, and from this arise various cognitions.
+['ZH_T16_0682_002:0757a06_13']	若離於所因，　　此覺即無有。	若離於所因，　　此覺即無有。	If one departs from the cause, this cognition will not exist.
+['ZH_T16_0682_002:0757a07_0']	名相互相繫，　　習氣無有邊，	名相互相繫，　　習氣無有邊，	Names are mutually related, and habitual tendencies are boundless.
+['ZH_T16_0682_002:0757a08_0']	一切諸分別，　　與意而俱起，	一切諸分別，　　與意而俱起，	All discriminations arise together with the mind,
+['ZH_T16_0682_002:0757a09_13']	有情流轉故，　　圓成則不證。	有情流轉故，　　圓成則不證。	Because sentient beings transmigrate, the perfected [nature] is not realized.
+['ZH_T16_0682_002:0757a10_0']	無始時積集，　　沈迷諸妄境，	無始時積集，　　沈迷諸妄境，	Accumulated since beginningless time, one is deluded in various false realms,
+['ZH_T16_0682_002:0757a11_13']	戲論而熏習，　　生於種種心。	戲論而熏習，　　生於種種心。	Discourses and habitual tendencies give rise to various minds.
+['ZH_T16_0682_002:0757a12_0']	能取及所取，　　有情心自性，	能取及所取，　　有情心自性，	The grasper and the grasped, the nature of the sentient being's mind,
+['ZH_T16_0682_002:0757a13_13']	瓶衣等諸相，　　見實不可得。	瓶衣等諸相，　　見實不可得。	The characteristics of vases, clothing, and so forth, when seen are ultimately unobtainable.
+['ZH_T16_0682_002:0757a14_0']	一切唯有覺，　　所覺義皆無，	一切唯有覺，　　所覺義皆無，	All are only cognition, the meaning of the cognized is all non-existent,
+['ZH_T16_0682_002:0757a15_0']	能覺所覺性，　　自然如是轉，	能覺所覺性，　　自然如是轉，	The nature of the perceiver and the perceived naturally transforms in this way,
+['ZH_T16_0682_002:0757a16_13']	愚夫不除斷，　　習氣心迷惑。	愚夫不除斷，　　習氣心迷惑。	But the ignorant do not eliminate it, their minds deluded by habitual tendencies.
+['ZH_T16_0682_002:0757a17_0']	賴耶及七識，　　有時而頓生，	賴耶及七識，　　有時而頓生，	The ālaya and the seven consciousnesses sometimes arise suddenly,
+['ZH_T16_0682_002:0757a18_0']	猶如海波浪，　　風緣之所動，	猶如海波浪，　　風緣之所動，	Just like the waves in the ocean, moved by the conditions of wind,
+['ZH_T16_0682_002:0757a19_13']	洄澓而騰轉，　　無有斷絕時。	洄澓而騰轉，　　無有斷絕時。	Whirlpools and eddies, without a moment of cessation.
+['ZH_T16_0682_002:0757a20_0']	識浪亦如是，　　境界風所擊，	識浪亦如是，　　境界風所擊，	The waves of consciousness are also like this, struck by the winds of objects,
+['ZH_T16_0682_002:0757a21_13']	種種諸分別，　　自內而執取。	種種諸分別，　　自內而執取。	Various discriminations, grasped from within.
+['ZH_T16_0682_002:0757a22_0']	如地無分別，　　庶物依以生，	如地無分別，　　庶物依以生，	Just as the earth is without discrimination, and myriad things rely on it to grow,
+['ZH_T16_0682_002:0757a23_13']	藏識亦復然，　　眾境之依處。	藏識亦復然，　　眾境之依處。	The store consciousness is also like this, the basis for myriad realms.
+['ZH_T16_0682_002:0757a24_0']	如人以己手，　　還自捫其身，	如人以己手，　　還自捫其身，	Just as a person uses their own hands to touch their own body,
+['ZH_T16_0682_002:0757a25_0']	亦如象以鼻，　　取水自霑灑，	亦如象以鼻，　　取水自霑灑，	Or like an elephant using its trunk to take water and sprinkle itself,
+['ZH_T16_0682_002:0757a26_0']	復似諸嬰孩，　　以口含其指，	復似諸嬰孩，　　以口含其指，	Or like infants using their mouths to suck on their fingers,
+['ZH_T16_0682_002:0757a27_13']	是知識分別，　　現境還自緣。	是知識分別，　　現境還自緣。	So it is with consciousness discriminating, manifesting objects and still relying on itself.
+['ZH_T16_0682_002:0757a28_0']	是心之境界，　　普遍於三有，	是心之境界，　　普遍於三有，	This is the realm of the mind, pervading the three existences.
+['ZH_T16_0682_002:0757a29_0']	久修觀行者，　　而能善通達，	久修觀行者，　　而能善通達，	Those who have long cultivated contemplation can skillfully penetrate
+['ZH_T16_0682_002:0757b01_13']	內外諸世間，　　一切唯心現。	內外諸世間，　　一切唯心現。	The inner and outer worlds, all manifested by the mind alone.
+['ZH_T16_0682_002:0757b02_0']	爾時金剛藏，　　說是妙法已，	爾時金剛藏，　　說是妙法已，	At that time, Vajra Treasury, having expounded this wonderful Dharma,
+['ZH_T16_0682_002:0757b03_0']	默然而止住，　　思惟於法界，	默然而止住，　　思惟於法界，	Silently abided, contemplating the Dharma realm,
+['ZH_T16_0682_002:0757b04_0']	微妙普遍定，　　則入諸佛境，	微妙普遍定，　　則入諸佛境，	The subtle and universal samādhi, then entered the realm of all Buddhas,
+['ZH_T16_0682_002:0757b05_13']	見無量佛子，　　當修住密嚴。	見無量佛子，　　當修住密嚴。	Seeing innumerable Buddha-sons, about to cultivate and abide in the Secret Adornment.
+['ZH_T16_0682_002:0757b06_0']	即從禪定起，　　放光而普照，	即從禪定起，　　放光而普照，	Then, rising from samādhi, emitting light to universally illuminate,
+['ZH_T16_0682_002:0757b07_0']	欲色與無色，　　及無想天宮，	欲色與無色，　　及無想天宮，	The desire realm, form realm, formless realm, and the palaces of the non-percipient celestials,
+['ZH_T16_0682_002:0757b08_0']	如是光明中，　　復現諸佛剎，	如是光明中，　　復現諸佛剎，	In this light, Buddha-lands were further manifested,
+['ZH_T16_0682_002:0757b09_0']	悉見無量佛，　　相好妙端嚴，	悉見無量佛，　　相好妙端嚴，	All seeing innumerable Buddhas, with sublime and wondrous marks and characteristics,
+['ZH_T16_0682_002:0757b10_13']	種種微妙色，　　皆從佛身出。	種種微妙色，　　皆從佛身出。	Various subtle colors, all emanating from the Buddha's body.
+['ZH_T16_0682_002:0757b11_0']	隨其所愛樂，　　世間作利益，	隨其所愛樂，　　世間作利益，	In accordance with their cherished desires, benefiting the world,
+['ZH_T16_0682_002:0757b12_0']	皆使彼佛子，　　稱讚密嚴名，	皆使彼佛子，　　稱讚密嚴名，	All of them caused the Buddha's disciples to praise the name of the Secret Adornment,
+['ZH_T16_0682_002:0757b13_5']	欣然相顧視。	欣然相顧視。	And they looked at each other with joy.
+['ZH_T16_0682_002:0757b13_13']	　　復作如是說：	　　復作如是說：	They also said like this:
+['ZH_T16_0682_002:0757b14_0']	「密嚴妙無垢，　　能除一切罪，	「密嚴妙無垢，　　能除一切罪，	The Secret Adornment is wondrous and immaculate, able to remove all offenses,
+['ZH_T16_0682_002:0757b15_13']	觀行者勝處，　　其土最殊妙。	觀行者勝處，　　其土最殊妙。	The supreme place of contemplation practitioners, that land is most marvelous.
+['ZH_T16_0682_002:0757b16_0']	我等聞名字，　　心生大喜悅，	我等聞名字，　　心生大喜悅，	We, having heard its name, give rise to great joy in our minds,
+['ZH_T16_0682_002:0757b17_13']	各從其所住，　　俱來詣密嚴。	各從其所住，　　俱來詣密嚴。	Each from their own abode, all come to the Secret Adornment.
+['ZH_T16_0682_002:0757b18_0']	色盡螺髻梵，　　及與淨居天，	色盡螺髻梵，　　及與淨居天，	The Brahmā of the coiled topknot who has exhausted form, as well as the Śuddhāvāsa gods,
+['ZH_T16_0682_002:0757b19_0']	希慕此密嚴，　　佛子所生處，	希慕此密嚴，　　佛子所生處，	Yearn for this Secret Adornment, the place where the Buddha's disciples are born,
+['ZH_T16_0682_002:0757b20_13']	同心而共聚，　　咸請梵王言：	同心而共聚，　　咸請梵王言：	With the same mind they gather together, all requesting the Brahmā King, saying:🔽How can we now
+['ZH_T16_0682_002:0757b21_14']	「我等今云何，　　得至密嚴土？	「我等今云何，　　得至密嚴土？	Reach the Secret Adornment Land?
+['ZH_T16_0682_002:0757b22_13']	天王若往彼，　　我等當營從。	天王若往彼，　　我等當營從。	If the Heavenly King goes there, we will follow.
+['ZH_T16_0682_002:0757b23_0']	爾時螺髻梵，　　聞諸天眾言，	爾時螺髻梵，　　聞諸天眾言，	At that time, the Brahmā of the coiled topknot, hearing the words of the heavenly multitudes,
+['ZH_T16_0682_002:0757b24_13']	遽即與同行，　　中路迷所適。	遽即與同行，　　中路迷所適。	Immediately went with them, but got lost on the way.
+['ZH_T16_0682_002:0757b25_13']	梵王先覺悟，　　以慧審觀察：	梵王先覺悟，　　以慧審觀察：	The Brahma King first awakened and carefully observed with wisdom:
+['ZH_T16_0682_002:0757b26_14']	「彼勝觀行境，　　何階而可至？	「彼勝觀行境，　　何階而可至？	What stage can one reach in the realm of supreme contemplation?
+['ZH_T16_0682_002:0757b27_0']	欲色自在者，　　非彼所能詣，	欲色自在者，　　非彼所能詣，	Those who are free in the desire and form realms cannot go there,
+['ZH_T16_0682_002:0757b28_0']	非空處識處，　　及與非非想，	非空處識處，　　及與非非想，	Nor can those in the sphere of infinite space, the sphere of infinite consciousness, or the sphere of nothingness,
+['ZH_T16_0682_002:0757b29_0']	并餘外道宗，　　邪定者能往，	并餘外道宗，　　邪定者能往，	Or other non-Buddhist schools with deviant concentrations.
+['ZH_T16_0682_002:0757c01_13']	云何作善巧，　　得至於密嚴？	云何作善巧，　　得至於密嚴？	How can one skillfully reach the Secret Adornment?
+['ZH_T16_0682_002:0757c02_0']	或以天中天，　　威神力加護，	或以天中天，　　威神力加護，	Perhaps the god among gods will bestow his majestic spiritual power,
+['ZH_T16_0682_002:0757c03_13']	能令至亟行，　　得會密嚴宮。	能令至亟行，　　得會密嚴宮。	Causing one to quickly arrive and join the assembly in the Secret Adornment Palace.
+['ZH_T16_0682_002:0757c04_0']	螺髻梵發聲，　　即時盡歸命，	螺髻梵發聲，　　即時盡歸命，	When the conch-haired Brahma spoke, they immediately paid homage,
+['ZH_T16_0682_002:0757c05_0']	見佛滿空界，　　威光而熾然，	見佛滿空界，　　威光而熾然，	Seeing the Buddha filling the realm of space, his majestic radiance blazing,
+['ZH_T16_0682_002:0757c06_5']	告彼梵王言：	告彼梵王言：	He told the Brahma King:
+['ZH_T16_0682_002:0757c06_14']	　　「汝當還本殿；	　　「汝當還本殿；	You should return to your original palace;
+['ZH_T16_0682_002:0757c07_0']	如來密嚴剎，　　是觀行之境，	如來密嚴剎，　　是觀行之境，	The Tathāgata's Secret Adornment Realm is the realm of contemplation,
+['ZH_T16_0682_002:0757c08_13']	非想尚難階，　　色者何能往？	非想尚難階，　　色者何能往？	Even the sphere of nothingness is still difficult to reach, let alone the form realm.
+['ZH_T16_0682_002:0757c09_0']	梵王從諸佛，　　聞如是告已，	梵王從諸佛，　　聞如是告已，	Brahma King, having heard this proclamation from the Buddhas,
+['ZH_T16_0682_002:0757c10_13']	退還於本處，　　尋至梵天宮。	退還於本處，　　尋至梵天宮。	Retreated and returned to his original place, and soon arrived at the Brahma Heaven Palace.
+['ZH_T16_0682_002:0757c11_13']	時淨居諸天，　　各各相共議：	時淨居諸天，　　各各相共議：	At that time, the gods of the Pure Abode each discussed among themselves, saying:
+['ZH_T16_0682_002:0757c12_0']	「螺髻梵天主，　　威神不能往，	「螺髻梵天主，　　威神不能往，	The Brahma King with the conch-shaped topknot has no spiritual power to go there.
+['ZH_T16_0682_002:0757c13_0']	當知密嚴土，　　勝妙難思議，	當知密嚴土，　　勝妙難思議，	Know that the land of the Secret Adornment is supreme and wonderful, difficult to conceive,
+['ZH_T16_0682_002:0757c14_13']	自非如幻定，　　誰能詣斯剎？	自非如幻定，　　誰能詣斯剎？	Not being like an illusory concentration, who can go to this realm?
+['ZH_T16_0682_002:0757c15_0']	此會聞天眾，　　稱讚功德聲，	此會聞天眾，　　稱讚功德聲，	The heavenly beings in this assembly heard the praise of the merits and virtues,
+['ZH_T16_0682_002:0757c16_13']	生於奇特心，　　乃白金剛藏：	生於奇特心，　　乃白金剛藏：	Giving rise to a sense of wonder, they then addressed Vajra Treasury, saying:
+['ZH_T16_0682_002:0757c17_14']	「我等皆樂聞，　　唯垂演深法。	「我等皆樂聞，　　唯垂演深法。	We all delight in hearing it, please expound the profound Dharma.
+['ZH_T16_0682_002:0757c18_13']	」爾時金剛藏，　　即告大眾言：	」爾時金剛藏，　　即告大眾言：	At that time, Vajra Treasury then addressed the great assembly, saying:
+['ZH_T16_0682_002:0757c19_14']	「如來所說法，　　誰能盡敷演？	「如來所說法，　　誰能盡敷演？	The Dharma spoken by the Tathāgata, who can fully expound it?
+['ZH_T16_0682_002:0757c20_0']	自覺之聖智，　　境界不思議，	自覺之聖智，　　境界不思議，	The realm of the holy wisdom of self-realization is inconceivable,
+['ZH_T16_0682_002:0757c21_13']	非深觀行人，　　云何可開示？	非深觀行人，　　云何可開示？	How can it be revealed to those who do not deeply contemplate and practice?
+['ZH_T16_0682_002:0757c22_0']	時持進夜摩，　　自在諸佛子，	時持進夜摩，　　自在諸佛子，	At that time, the night-dwelling devas, the Yamas, the freely-roaming sons of the buddhas,
+['ZH_T16_0682_002:0757c23_5']	異口同音言：	異口同音言：	With different mouths but the same voice, said:
+['ZH_T16_0682_002:0757c23_14']	　　「唯願速宣說。	　　「唯願速宣說。	We only wish for you to quickly proclaim it.
+['ZH_T16_0682_002:0757c24_0']	神通與曼殊、　　慈氏緊那王，	神通與曼殊、　　慈氏緊那王，	The spiritual powers and Mañjuśrī, Maitreya, the kiṃnara king,
+['ZH_T16_0682_002:0757c25_13']	及餘修定者，　　咸皆作是請。	及餘修定者，　　咸皆作是請。	And the others who cultivate concentration, all make this request.
+['ZH_T16_0682_002:0757c26_0']	諸天持明仙，　　空中奏眾樂，	諸天持明仙，　　空中奏眾樂，	The devas, vidyādharas, and sages in the sky play various kinds of music,
+['ZH_T16_0682_002:0757c27_5']	同心而勸請：	同心而勸請：	With the same mind they encourage and request:
+['ZH_T16_0682_002:0757c27_14']	　　「唯垂為宣說。	　　「唯垂為宣說。	Please bestow it upon us and proclaim it.
+['ZH_T16_0682_002:0757c28_13']	」如是勸請已，　　各坐於勝座。	」如是勸請已，　　各坐於勝座。	Having made such encouragement and requests, each sits upon their excellent seat.
+['ZH_T16_0682_002:0757c29_0']	梵王承佛力，　　還來此會中，	梵王承佛力，　　還來此會中，	Brahmā, inheriting the Buddha's power, returns to this assembly,
+['ZH_T16_0682_002:0758a01_13']	復白金剛藏，　　作於如是問：	復白金剛藏，　　作於如是問：	And again addresses Vajra Treasury, making such inquiries:
+['ZH_T16_0682_002:0758a02_0']	「今此諸大會，　　嚴飾未曾有，	「今此諸大會，　　嚴飾未曾有，	Now, this great assembly is adorned in an unprecedented manner,
+['ZH_T16_0682_002:0758a03_0']	悉是尊弟子，　　聰慧無等倫，	悉是尊弟子，　　聰慧無等倫，	All of them are the Venerable One's disciples, with wisdom unequaled,
+['ZH_T16_0682_002:0758a04_13']	皆於尊者處，　　渴仰而求法。	皆於尊者處，　　渴仰而求法。	All of them thirst for the Dharma and seek it from the Venerable One.
+['ZH_T16_0682_002:0758a05_13']	我今猶未知，　　所問為何等？	我今猶未知，　　所問為何等？	I now still do not know what kind of questions will be asked.
+['ZH_T16_0682_002:0758a06_0']	憍臘與勝墮，　　及頂生輪王，	憍臘與勝墮，　　及頂生輪王，	Kaurava, Mahāsammata, and the cakravartin king Māndhātṛ,
+['ZH_T16_0682_002:0758a07_5']	為是少年馬？	為是少年馬？	Are they young horses?
+['ZH_T16_0682_002:0758a07_13']	　　為是古仙傳？	　　為是古仙傳？	Or are they the teachings of ancient sages?
+['ZH_T16_0682_002:0758a08_0']	甘蔗種之子，　　千弓持國王，	甘蔗種之子，　　千弓持國王，	The son of the Ikṣvāku lineage, King Sahasrāśva,
+['ZH_T16_0682_002:0758a09_0']	欲色無色中，　　人天等之法，	欲色無色中，　　人天等之法，	The dharmas of desire, form, and formless realms, humans, gods, and so forth,
+['ZH_T16_0682_002:0758a10_13']	為是菩薩行，　　獨覺及聲聞？	為是菩薩行，　　獨覺及聲聞？	Are they the practices of bodhisattvas, pratyekabuddhas, and śrāvakas?
+['ZH_T16_0682_002:0758a11_0']	乃至修羅明，　　星象等眾論，	乃至修羅明，　　星象等眾論，	Up to the knowledge of asuras, astrology, and various treatises,
+['ZH_T16_0682_002:0758a12_13']	唯願如是事，　　次第而演說。	唯願如是事，　　次第而演說。	I only wish that such matters be explained in sequence.
+['ZH_T16_0682_002:0758a13_13']	我等及天人，　　一心咸聽受。	我等及天人，　　一心咸聽受。	We and the devas and humans, with one mind, will listen and accept.
+['ZH_T16_0682_002:0758a14_0']	爾時解脫月、　　持世虛空藏、	爾時解脫月、　　持世虛空藏、	At that time, Vimukticandra, Dhṛtarāṣṭra, Ākāśagarbha,
+['ZH_T16_0682_002:0758a15_0', 'ZH_T16_0682_002:0758a16_0']	大勢觀自在、　　總持自在王、🔽寶髻與天冠、　　金剛手寂慧，	大勢觀自在、　　總持自在王、 寶髻與天冠、　　金剛手寂慧，	Mahāsthāmaprāpta, Avalokitêśvara, Dhāraṇīśvara-rāja,
+['ZH_T16_0682_002:0758a17_0']	及寶手大士，　　并諸最勝子，	及寶手大士，　　并諸最勝子，	Ratnaśikhin, and Devacūḍa, Vajrapāṇi, and the great being Ratnamudrāhasta, along with the most excellent sons,
+['ZH_T16_0682_002:0758a18_0']	皆從俱胝剎，　　來坐蓮花宮，	皆從俱胝剎，　　來坐蓮花宮，	All came from koṭi of buddha-fields to sit in the lotus palace,
+['ZH_T16_0682_002:0758a19_5']	咸請金剛藏：	咸請金剛藏：	All request Vajra Treasury:
+['ZH_T16_0682_002:0758a20_13']	　　「唯願大慧說，過去及未來，　　牟尼清淨智。	　　「唯願大慧說，過去及未來，　　牟尼清淨智。	Please, Great Wisdom, speak of the past and future, the pure wisdom of the Sage.
+['ZH_T16_0682_002:0758a21_0']	仁於佛親受，　　明了心不疑，	仁於佛親受，　　明了心不疑，	You have personally received it from the Buddha, your mind is clear and without doubt,
+['ZH_T16_0682_002:0758a22_13']	此眾皆樂聞，　　願尊時演說。	此眾皆樂聞，　　願尊時演說。	This assembly all delights in hearing, may the Venerable one expound it in time.
+['ZH_T16_0682_002:0758a23_13']	」定王金剛藏，　　普告大眾言：	」定王金剛藏，　　普告大眾言：	The King of Concentration Vajra Treasury, universally addressing the great assembly, said:
+['ZH_T16_0682_002:0758a24_0']	「如來所說法，　　非我具能演，	「如來所說法，　　非我具能演，	The Dharma spoken by the Tathāgata, I am not able to expound in full,
+['ZH_T16_0682_002:0758a25_13']	唯除佛菩薩，　　威神之所護。	唯除佛菩薩，　　威神之所護。	Except for the Buddha and Bodhisattvas, who are protected by the power of the Dharma.
+['ZH_T16_0682_002:0758a26_0']	我今至心禮，　　自在清淨宮，	我今至心禮，　　自在清淨宮，	I now respectfully bow to the palace of self-mastery and purity,
+['ZH_T16_0682_002:0758a27_13']	摩尼寶藏殿，　　佛及諸佛子。	摩尼寶藏殿，　　佛及諸佛子。	The Manjushri's Discourse on the Pure Land Sutra, the Buddha and all Buddha's disciples.
+['ZH_T16_0682_002:0758a28_0']	我以敬心說，　　如來清淨智，	我以敬心說，　　如來清淨智，	I will speak with a respectful mind of the Tathāgata's pure wisdom,
+['ZH_T16_0682_002:0758a29_13']	能令紹佛種，　　汝等應諦聽。	能令紹佛種，　　汝等應諦聽。	Which can cause one to continue the Buddha's lineage, you all should listen attentively.
+['ZH_T16_0682_002:0758b01_0']	此非諸王論，　　及輪王軌儀，	此非諸王論，　　及輪王軌儀，	This is not the discussion of kings, nor the rules of wheel-turning kings,
+['ZH_T16_0682_002:0758b02_0']	但示於密嚴，　　如來之種性，	但示於密嚴，　　如來之種性，	But only shows the secret and pure, the lineage of the Tathāgata,
+['ZH_T16_0682_002:0758b03_13']	正定者境界，　　諸佛之勝事。	正定者境界，　　諸佛之勝事。	The realm of right concentration is the supreme activity of the buddhas.
+['ZH_T16_0682_002:0758b04_0']	如來微妙智，　　離於能所覺，	如來微妙智，　　離於能所覺，	The subtle wisdom of the Tathāgata is free from the ability to perceive,
+['ZH_T16_0682_002:0758b05_13']	是故非我力，　　能演此甚深；	是故非我力，　　能演此甚深；	Therefore, with my own power I am unable to expound this profound truth;
+['ZH_T16_0682_002:0758b06_13']	但以佛威神，　　從佛而聽受。	但以佛威神，　　從佛而聽受。	But by the majestic spiritual power of the Buddha, I listen and receive it from the Buddha.
+['ZH_T16_0682_002:0758b07_0']	此智甚微妙，　　是三摩地花，	此智甚微妙，　　是三摩地花，	This wisdom is extremely subtle, the flower of samādhi,
+['ZH_T16_0682_002:0758b08_13']	佛在密嚴中，　　正受而開演；	佛在密嚴中，　　正受而開演；	The Buddha, dwelling in the secret and majestic palace, expounds it while in right concentration;
+['ZH_T16_0682_002:0758b09_0']	遠離諸言說，　　及以一切見，	遠離諸言說，　　及以一切見，	Far removed from all verbal expression and all views,
+['ZH_T16_0682_002:0758b10_0']	若有若無等，　　如是四種邊，	若有若無等，　　如是四種邊，	Existence, non-existence, and so forth - these four kinds of extremes,
+['ZH_T16_0682_002:0758b11_13']	是名最清淨，　　中道之妙理。	是名最清淨，　　中道之妙理。	Are called the most pure, the wondrous principle of the middle way.
+['ZH_T16_0682_002:0758b12_0']	密嚴諸定者，　　於此能觀察，	密嚴諸定者，　　於此能觀察，	The practitioners of the secret and majestic samādhis are able to observe this,
+['ZH_T16_0682_002:0758b13_13']	離著而轉依，　　速入如來地。	離著而轉依，　　速入如來地。	Free from attachment, they transform their basis and quickly enter the stage of the Tathāgata.
+['ZH_T16_0682_002:0758b14_0']	時諸佛子眾，　　從尊聞是語，	時諸佛子眾，　　從尊聞是語，	At that time, the assembly of Buddha's disciples, hearing these words from the Honored One,
+['ZH_T16_0682_002:0758b15_13']	頭面禮雙足，　　恭敬而白言：	頭面禮雙足，　　恭敬而白言：	Bowed their heads to his two feet, respectfully addressed him, saying:🔽The Honored One has expounded the profound and subtle Dharma,🔽Which is difficult to encounter even in countless eons.
+['ZH_T16_0682_002:0758b16_0']	「我等受樂法，　　如渴人思飲，	「我等受樂法，　　如渴人思飲，	We enjoy the Dharma, like a thirsty person thinking of drinking,
+['ZH_T16_0682_002:0758b17_5']	如遊蜂念蜜。	如遊蜂念蜜。	Like a wandering bee thinking of honey.
+['ZH_T16_0682_002:0758b18_0']	唯願正宣說，　　令諸菩薩眾，	唯願正宣說，　　令諸菩薩眾，	We only wish for the correct proclamation, causing the assembly of Bodhisattvas
+['ZH_T16_0682_002:0758b19_13']	於定得自在，　　智慧大威德；	於定得自在，　　智慧大威德；	To attain mastery over meditation, wisdom, great authority;
+['ZH_T16_0682_002:0758b20_0']	及諸剎土王，　　深解觀行者，	及諸剎土王，　　深解觀行者，	And the kings of various lands, deeply understanding the practitioners,
+['ZH_T16_0682_002:0758b21_0']	咸欲聞如來，　　所說甚深法，	咸欲聞如來，　　所說甚深法，	All wish to hear the Tathāgata's profoundly spoken Dharma,
+['ZH_T16_0682_002:0758b22_0']	皆願聽尊者，　　微妙梵帝聲，	皆願聽尊者，　　微妙梵帝聲，	All wish to listen to the Venerable One's subtle Brahma-emperor's voice,
+['ZH_T16_0682_002:0758b23_0']	如來所悅可，　　深遠善巧聲，	如來所悅可，　　深遠善巧聲，	The Tathāgata's delightful, profound, skillful voice,
+['ZH_T16_0682_002:0758b24_13']	演說殊勝義，　　悉令得明了。	演說殊勝義，　　悉令得明了。	Expounding the supreme meaning, causing all to attain clarity.
+['ZH_T16_0682_002:0758b25_5']	」金剛藏告言：	」金剛藏告言：	Vajragarbha said:
+['ZH_T16_0682_002:0758b26_13']	　　「如來所說義，真實甚希有，　　離相難可見；	　　「如來所說義，真實甚希有，　　離相難可見；	The meaning spoken by the Tathāgata is true and extremely rare, devoid of characteristics and difficult to see;
+['ZH_T16_0682_002:0758b27_0']	如空中無物，　　見影為希有，	如空中無物，　　見影為希有，	Like space being devoid of objects, seeing a shadow is rare,
+['ZH_T16_0682_002:0758b28_13']	如來所說義，　　希有亦復然。	如來所說義，　　希有亦復然。	The meaning spoken by the Tathāgata is also like this.
+['ZH_T16_0682_002:0758b29_0']	空中風鳥跡，　　其形不可見，	空中風鳥跡，　　其形不可見，	The traces of wind and birds in the sky, their forms cannot be seen,
+['ZH_T16_0682_002:0758c01_13']	牟尼演妙理，　　難見亦復然。	牟尼演妙理，　　難見亦復然。	The Sage expounds the wondrous principles, difficult to see, it is the same.
+['ZH_T16_0682_002:0758c02_0']	世間之事喻，　　智者能明了，	世間之事喻，　　智者能明了，	The worldly analogies, the wise ones can understand clearly,
+['ZH_T16_0682_002:0758c03_0']	諸佛所宣說，　　譬喻不能知，	諸佛所宣說，　　譬喻不能知，	The parables expounded by the Buddhas, one cannot know,
+['ZH_T16_0682_002:0758c04_13']	令我之所見，　　如夢乾城等。	令我之所見，　　如夢乾城等。	Causing what I see to be like dreams, mirages, and so forth.
+['ZH_T16_0682_002:0758c05_0']	此會有觀行，　　具大智慧者，	此會有觀行，　　具大智慧者，	In this assembly, there are those who contemplate and practice, endowed with great wisdom,
+['ZH_T16_0682_002:0758c06_0']	通達真實義，　　無不皆明了，	通達真實義，　　無不皆明了，	Penetrating the true meaning, all are clearly understood,
+['ZH_T16_0682_002:0758c07_13']	云何為是人，　　說佛難思境？	云何為是人，　　說佛難思境？	How can I speak for these people, of the inconceivable realm of the Buddhas?
+['ZH_T16_0682_002:0758c08_0']	然今所開演，　　憑佛威神力，	然今所開演，　　憑佛威神力，	Yet now, what is revealed, relies on the Buddha's majestic spiritual power,
+['ZH_T16_0682_002:0758c09_13']	一切最勝子，　　至心應諦聽。	一切最勝子，　　至心應諦聽。	All the most excellent sons, with utmost sincerity, should listen attentively.
+['ZH_T16_0682_002:0758c10_0']	如來妙言說，　　句義皆相應，	如來妙言說，　　句義皆相應，	The Tathāgata's wondrous words and speech, the meanings of the phrases are all mutually corresponding,
+['ZH_T16_0682_002:0758c11_13']	超越心境界，　　遠離於譬喻。	超越心境界，　　遠離於譬喻。	Transcending the realm of the mind, far removed from analogies.
+['ZH_T16_0682_002:0758c12_0']	猶如蜂採花，　　先者取精粹，	猶如蜂採花，　　先者取精粹，	Just like a bee collecting pollen from flowers, first taking the essence,
+['ZH_T16_0682_002:0758c13_13']	是諸後至者，　　皆悉味其餘。	是諸後至者，　　皆悉味其餘。	Those who come later all taste the remainder.
+['ZH_T16_0682_002:0758c14_0']	勝牟尼亦然，　　先得妙法味，	勝牟尼亦然，　　先得妙法味，	The supreme sage is also like this. First obtaining the wonderful taste of the Dharma,
+['ZH_T16_0682_002:0758c15_13']	我則飲其餘，　　今為眾宣說。	我則飲其餘，　　今為眾宣說。	I then drink the remainder and now proclaim it for the assembly.
+['ZH_T16_0682_002:0758c16_0']	天中天境界，　　增悅諸明智，	天中天境界，　　增悅諸明智，	The realm of the god among gods increases the joy of the wise.
+['ZH_T16_0682_002:0758c17_13']	實非意測量，　　言象可能表。	實非意測量，　　言象可能表。	It is truly not something the mind can fathom, yet words and symbols can express it.
+['ZH_T16_0682_002:0758c18_0']	示同人形色，　　相好以嚴身，	示同人形色，　　相好以嚴身，	Displaying a form and color the same as humans, with excellent characteristics to adorn the body,
+['ZH_T16_0682_002:0758c19_0']	現於勝妙宮，　　寶冠以為飾，	現於勝妙宮，　　寶冠以為飾，	Manifesting in the supreme and wondrous palace, with a jeweled crown as an adornment,
+['ZH_T16_0682_002:0758c20_0']	圓光及輪輻，　　種種皆成就，	圓光及輪輻，　　種種皆成就，	The perfect radiance and spokes of the wheel are all accomplished in various ways,
+['ZH_T16_0682_002:0758c21_13']	照曜於宮殿，　　能除外道憍。	照曜於宮殿，　　能除外道憍。	Illuminating the palace and able to remove the pride of non-Buddhists.
+['ZH_T16_0682_002:0758c22_0']	諸佛四時中，　　恒依密嚴住，	諸佛四時中，　　恒依密嚴住，	In the four periods of time, the buddhas always abide in the secret and wondrous,
+['ZH_T16_0682_002:0758c23_13']	而於一切處，　　現生及涅槃。	而於一切處，　　現生及涅槃。	Yet in all places they manifest birth and nirvana.
+['ZH_T16_0682_002:0758c24_0']	純善少減時，　　惡生及濁亂，	純善少減時，　　惡生及濁亂，	When pure goodness decreases, evil arises and becomes turbulent,
+['ZH_T16_0682_002:0758c25_0']	隨彼之意樂，　　利益諸有情，	隨彼之意樂，　　利益諸有情，	In accordance with their inclinations, they benefit all beings.
+['ZH_T16_0682_002:0758c26_0']	業用無暫停，　　常住密嚴剎，	業用無暫停，　　常住密嚴剎，	Their activities are unceasing for a moment, always abiding in the secret and majestic realm,
+['ZH_T16_0682_002:0758c27_13']	此之清淨處，　　瑜祇安樂宮。	此之清淨處，　　瑜祇安樂宮。	This pure place is the palace of bliss for yogins.
+['ZH_T16_0682_002:0758c28_0']	濁亂少減時，　　顯示如來相，	濁亂少減時，　　顯示如來相，	When the time of reduced turbidity and confusion arrives, they manifest the characteristics of the Tathāgata,
+['ZH_T16_0682_002:0758c29_13']	譬如淨滿月，　　影遍於眾水。	譬如淨滿月，　　影遍於眾水。	Like the clear full moon, its reflection pervades all waters.
+['ZH_T16_0682_002:0759a01_0']	佛以一切身，　　隨宜而應化，	佛以一切身，　　隨宜而應化，	The Buddha, with all his bodies, responds to transformations according to what is appropriate,
+['ZH_T16_0682_002:0759a02_13']	如來淨智境，　　觀行者皆見。	如來淨智境，　　觀行者皆見。	The pure realm of the Tathāgata's wisdom is seen by all practitioners who contemplate.
+['ZH_T16_0682_002:0759a03_0']	或現大自在，　　或現那羅延，	或現大自在，　　或現那羅延，	Sometimes manifesting as Maheśvara, sometimes manifesting as Nārāyaṇa,
+['ZH_T16_0682_002:0759a04_13']	或現迦毘羅，　　住空而說法；	或現迦毘羅，　　住空而說法；	Sometimes manifesting as Kapila, abiding in the sky and expounding the Dharma;
+['ZH_T16_0682_002:0759a05_0']	或現圍陀者，　　常行及妙喜，	或現圍陀者，　　常行及妙喜，	Sometimes manifesting as the Vedas, constant practice and sublime joy,
+['ZH_T16_0682_002:0759a06_13']	童天及尸棄，　　羅護都牟盧；	童天及尸棄，　　羅護都牟盧；	Kumāra, Brahmā, Śikhin, and Rāhula;
+['ZH_T16_0682_002:0759a07_0']	或現緊那羅，　　甘蔗月種姓，	或現緊那羅，　　甘蔗月種姓，	Sometimes manifesting as kiṃnara, sugarcane, lunar clan,
+['ZH_T16_0682_002:0759a08_13']	及諸國王等，　　一切所瞻奉；	及諸國王等，　　一切所瞻奉；	And various kings, all looked up to and revered;
+['ZH_T16_0682_002:0759a09_0']	或作大醫王，　　示現於眾人，	或作大醫王，　　示現於眾人，	Sometimes becoming a great physician king, manifesting to the masses,
+['ZH_T16_0682_002:0759a10_0']	金剛等眾寶，　　銅鐵及諸礦，	金剛等眾寶，　　銅鐵及諸礦，	Vajra and other precious gems, copper, iron, and various ores,
+['ZH_T16_0682_002:0759a11_0']	明珠與鉛錫，　　紅碧二頗梨，	明珠與鉛錫，　　紅碧二頗梨，	Luminous pearls, lead, tin, red and green crystal,
+['ZH_T16_0682_002:0759a12_0']	隨彼諸有情，　　愛樂而顯現，	隨彼諸有情，　　愛樂而顯現，	According to the preferences of sentient beings, they manifest,
+['ZH_T16_0682_002:0759a13_13']	由佛加持力，　　令彼悉安樂。	由佛加持力，　　令彼悉安樂。	By the power of the Buddha's empowerment, causing them all to be at ease.
+['ZH_T16_0682_002:0759a14_0']	天女及龍女，　　乾闥婆之女，	天女及龍女，　　乾闥婆之女，	Celestial maidens, nāga maidens, and gandharva maidens,
+['ZH_T16_0682_002:0759a15_13']	欲界自在者，　　不能動其心。	欲界自在者，　　不能動其心。	Those who are self-mastery in the desire realm, cannot move their minds.
+['ZH_T16_0682_002:0759a16_0']	超勝欲境界，　　及勝色界色，	超勝欲境界，　　及勝色界色，	Surpassing the realm of desire and the form of the form realm,
+['ZH_T16_0682_002:0759a17_0']	空處及識處，　　無所有之處，	空處及識處，　　無所有之處，	The sphere of space, the sphere of consciousness, the sphere of nothingness,
+['ZH_T16_0682_002:0759a18_0']	非想非非想，　　於彼不迷惑，	非想非非想，　　於彼不迷惑，	The sphere of neither perception nor non-perception, they are not confused about them,
+['ZH_T16_0682_002:0759a19_0']	無想諸定者，　　未離於惑纏，	無想諸定者，　　未離於惑纏，	Those in various samādhis without thought, have not yet escaped the bonds of delusion,
+['ZH_T16_0682_002:0759a20_0']	非安非清淨，　　流轉於諸有，	非安非清淨，　　流轉於諸有，	They are neither at ease nor pure, and revolve through various existences,
+['ZH_T16_0682_002:0759a21_13']	有身者所生，　　非如密嚴國。	有身者所生，　　非如密嚴國。	Born from those with bodies, not like the country of the Matrix of Great Compassion.
+['ZH_T16_0682_002:0759a22_0']	密嚴微妙土，　　清淨福為嚴，	密嚴微妙土，　　清淨福為嚴，	The subtle land of the Matrix of Great Compassion, is adorned with pure blessings,
+['ZH_T16_0682_002:0759a23_13']	解脫知見人，　　最勝之依處。	解脫知見人，　　最勝之依處。	The place of liberation and knowledge of the person, the supreme reliance.
+['ZH_T16_0682_002:0759a24_0']	具十種自在，　　六通三摩地，	具十種自在，　　六通三摩地，	Endowed with ten kinds of mastery, the six spiritual powers and samādhi,
+['ZH_T16_0682_002:0759a25_13']	皆以成意身，　　如佛於彼現。	皆以成意身，　　如佛於彼現。	All accomplished with the mind-made body, like the Buddha appearing there.
+['ZH_T16_0682_002:0759a26_0']	修行於十地，　　檀等波羅蜜，	修行於十地，　　檀等波羅蜜，	Cultivating the ten grounds, the pāramitās such as generosity,
+['ZH_T16_0682_002:0759a27_13']	一切相好花，　　常以為嚴飾。	一切相好花，　　常以為嚴飾。	All the marks and characteristics of a buddha, always used as adornments.
+['ZH_T16_0682_002:0759a28_0']	遠離於分別，　　亦非無覺了，	遠離於分別，　　亦非無覺了，	Far removed from discrimination, not without understanding,
+['ZH_T16_0682_002:0759a29_13']	無有我意根，　　惠根常悅樂。	無有我意根，　　惠根常悅樂。	Without the sense of self, the faculty of wisdom always delighted.
+['ZH_T16_0682_002:0759b01_0']	施等諸功德，　　淨業悉圓滿，	施等諸功德，　　淨業悉圓滿，	The merits of generosity and so forth, pure karma all complete,
+['ZH_T16_0682_002:0759b02_13']	得佛勝所依，　　密嚴之淨國。	得佛勝所依，　　密嚴之淨國。	Attaining the supreme reliance of the Buddha, the pure land of the Womb of Mysteries.
+['ZH_T16_0682_002:0759b03_0']	此土最微妙，　　不假日月明，	此土最微妙，　　不假日月明，	This land is most subtle, not illuminated by the sun and moon,
+['ZH_T16_0682_002:0759b04_13']	佛及諸菩薩，　　清淨光恒照。	佛及諸菩薩，　　清淨光恒照。	The Buddha and bodhisattvas, the pure light always illuminating.
+['ZH_T16_0682_002:0759b05_0']	密嚴中眾聖，　　其光逾聚日，	密嚴中眾聖，　　其光逾聚日，	In the Womb of Mysteries, the light of the sages surpasses the radiance of the sun,
+['ZH_T16_0682_002:0759b06_13']	無有晝夜時，　　亦無老死患。	無有晝夜時，　　亦無老死患。	Without the distinction of day and night, and also no suffering of old age and death.
+['ZH_T16_0682_002:0759b07_0']	殊勝密嚴宮，　　諸天所希慕，	殊勝密嚴宮，　　諸天所希慕，	The sublime and secret palace, longed for by the devas,
+['ZH_T16_0682_002:0759b08_0']	最上瑜伽者，　　地地而進修，	最上瑜伽者，　　地地而進修，	The supreme yoga practitioners, advancing and cultivating stage by stage,
+['ZH_T16_0682_002:0759b09_13']	了知一切法，　　皆以心為性。	了知一切法，　　皆以心為性。	Understand that all dharmas have mind as their nature.
+['ZH_T16_0682_002:0759b10_0']	善說阿賴耶，　　三性法無我，	善說阿賴耶，　　三性法無我，	Well expounding the ālaya, the three natures, and the non-self of dharmas,
+['ZH_T16_0682_002:0759b11_13']	其身轉清淨，　　而生密嚴國。	其身轉清淨，　　而生密嚴國。	Their bodies transform into purity and are born in the secret and sublime realm.
+['ZH_T16_0682_002:0759b13_0']	爾時金剛藏，　　菩薩摩訶薩，	爾時金剛藏，　　菩薩摩訶薩，	At that time, the Bodhisattva Mahāsattva Vajra Treasury
+['ZH_T16_0682_002:0759b14_5']	復告螺髻梵：	復告螺髻梵：	Again addressed the Brahmā with the Conch-wheel Topknot:
+['ZH_T16_0682_002:0759b15_0']	一切有情身，　　九物以為性，	一切有情身，　　九物以為性，	The bodies of all sentient beings are composed of nine substances,
+['ZH_T16_0682_002:0759b16_0']	有為相遷動，　　能造所造俱，	有為相遷動，　　能造所造俱，	The characteristics of conditioned phenomena are transient, the creator and the created are both impermanent,
+['ZH_T16_0682_002:0759b17_0']	精血共和合，　　增長於不淨，	精血共和合，　　增長於不淨，	Semen and blood combine and merge, increasing the impurities,
+['ZH_T16_0682_002:0759b18_0']	為無量諸業，　　之所常覆纏，	為無量諸業，　　之所常覆纏，	Constantly covered and entangled by innumerable karmas,
+['ZH_T16_0682_002:0759b19_0']	如毒樹所生，　　扶踈而蓊欝，	如毒樹所生，　　扶踈而蓊欝，	Like a poisonous tree that grows, lush and luxuriant,
+['ZH_T16_0682_002:0759b20_13']	貪瞋等煩惱，　　增長亦如是。	貪瞋等煩惱，　　增長亦如是。	Greed, hatred, and other afflictions also increase in the same way.
+['ZH_T16_0682_002:0759b21_0']	九月或十月，　　生於滿足時，	九月或十月，　　生於滿足時，	In the ninth or tenth month, they are born at the time of fulfillment,
+['ZH_T16_0682_002:0759b22_13']	既從胎藏出，　　顛危受諸苦。	既從胎藏出，　　顛危受諸苦。	Having emerged from the womb, they are unsteady and experience various sufferings.
+['ZH_T16_0682_002:0759b23_0']	天主應當知，　　此諸有情類，	天主應當知，　　此諸有情類，	The lord of the gods should know that all these sentient beings
+['ZH_T16_0682_002:0759b24_13']	皆由業力故，　　驅馳運動生。	皆由業力故，　　驅馳運動生。	Are driven and propelled by the power of karma to be born.
+['ZH_T16_0682_002:0759b25_0']	或自人中來，　　或以傍生趣，	或自人中來，　　或以傍生趣，	Some come from the human realm, some from the animal realm,
+['ZH_T16_0682_002:0759b26_0']	非天與羅剎，　　龍及於諸鬼，	非天與羅剎，　　龍及於諸鬼，	Asuras, rākṣasas, dragons, and various ghosts,
+['ZH_T16_0682_002:0759b27_0']	或以持明族，　　天趣之勝身，	或以持明族，　　天趣之勝身，	Some with the superior bodies of the celestial realm, holding the mantra lineage,
+['ZH_T16_0682_002:0759b28_0']	或於瑜祇中，　　退失三摩地，	或於瑜祇中，　　退失三摩地，	Or in the yūgha [period], losing their samādhi,
+['ZH_T16_0682_002:0759c01_13']	輪王之貴族，　　而來生此中。	輪王之貴族，　　而來生此中。	The noble lineage of the wheel-turning king, they are born here.
+['ZH_T16_0682_002:0759c02_0']	如是既生已，　　諸根遂增長，	如是既生已，　　諸根遂增長，	Thus, having been born, the faculties gradually develop,
+['ZH_T16_0682_002:0759c03_0']	隨親近宿習，　　復造于諸業，	隨親近宿習，　　復造于諸業，	Following and being close to past habits, they create various karmas again.
+['ZH_T16_0682_002:0759c04_13']	由斯業大故，　　輪迴諸趣中。	由斯業大故，　　輪迴諸趣中。	Due to these great karmas, they cycle through the various realms.
+['ZH_T16_0682_002:0759c05_0']	若有諸智者，　　聞法得覺悟，	若有諸智者，　　聞法得覺悟，	If there are wise ones who hear the Dharma and attain enlightenment,
+['ZH_T16_0682_002:0759c06_0']	離文字分別，　　入三解脫門，	離文字分別，　　入三解脫門，	Free from discriminating with words, entering the three gates of liberation,
+['ZH_T16_0682_002:0759c07_0']	得證真實理，　　清淨之殊勝，	得證真實理，　　清淨之殊勝，	Attaining the realization of true reality, the purity of excellence,
+['ZH_T16_0682_002:0759c08_0']	上上最清淨，　　即往於密嚴，	上上最清淨，　　即往於密嚴，	The most pure of the highest, then going to the Secret Adornment,
+['ZH_T16_0682_002:0759c09_13']	能遍俱胝剎，　　隨宜而應現。	能遍俱胝剎，　　隨宜而應現。	Able to pervade koṭis of lands, manifesting as appropriate.
+['ZH_T16_0682_002:0759c10_0']	天主如是生，　　永脫諸險趣，	天主如是生，　　永脫諸險趣，	The Lord of Heaven is born like this, forever escaping the perilous destinies,
+['ZH_T16_0682_002:0759c11_0']	是名為丈夫，　　亦名為智者，	是名為丈夫，　　亦名為智者，	This is called a great man, also called a wise one,
+['ZH_T16_0682_002:0759c12_13']	亦名天中天，　　佛子眾圍繞。	亦名天中天，　　佛子眾圍繞。	Also called the god among gods, surrounded by the assembly of Buddha's disciples.
+['ZH_T16_0682_002:0759c13_0']	天主應當知，　　胎藏身虛偽，	天主應當知，　　胎藏身虛偽，	The Lord of Heaven should know that the womb-born body is false and deceptive,
+['ZH_T16_0682_002:0759c14_13']	非從自性生，　　非從癡愛業；	非從自性生，　　非從癡愛業；	Not born from self-nature, not from deluded attachment and karma;
+['ZH_T16_0682_002:0759c15_0']	以皆因相有，　　了達滅無餘，	以皆因相有，　　了達滅無餘，	Because they all arise from characteristics, thoroughly understanding their extinction without remainder,
+['ZH_T16_0682_002:0759c16_0']	亦離於分別，　　及以於文字，	亦離於分別，　　及以於文字，	Also free from discrimination and written words,
+['ZH_T16_0682_002:0759c17_13']	能如斯觀者，　　即往密嚴場。	能如斯觀者，　　即往密嚴場。	Those who are able to contemplate in this way will go to the Secret Adornment ground.
+['ZH_T16_0682_002:0759c18_0']	若諸修定人，　　住定攀緣境，	若諸修定人，　　住定攀緣境，	If the people who cultivate meditation dwell in meditation and grasp at objects,
+['ZH_T16_0682_002:0759c19_0']	即便為聲色，　　誑惑生取著，	即便為聲色，　　誑惑生取著，	Then, sound and form arise, deceiving and confusing, causing attachment.
+['ZH_T16_0682_002:0759c20_0']	不能得堅固，　　亦名散動心，	不能得堅固，　　亦名散動心，	Unable to attain stability, it is also called a distracted mind.
+['ZH_T16_0682_002:0759c21_13']	以斯邪定縛，　　流轉生三界。	以斯邪定縛，　　流轉生三界。	Bound by this wrong concentration, one transmigrates and is born in the three realms.
+['ZH_T16_0682_002:0759c22_0']	若有勝瑜祇，　　善住三摩地，	若有勝瑜祇，　　善住三摩地，	If there is a superior yogin who abides well in samādhi,
+['ZH_T16_0682_002:0759c23_0']	遠離能所取，　　寂然心不生，	遠離能所取，　　寂然心不生，	Far from the grasper and the grasped, the mind is tranquil and does not arise.
+['ZH_T16_0682_002:0759c24_0']	是名真實修，　　無相觀行者，	是名真實修，　　無相觀行者，	This is called true cultivation, the practitioner of signless contemplation.
+['ZH_T16_0682_002:0759c25_13']	欲生密嚴土，　　常應如是觀。	欲生密嚴土，　　常應如是觀。	Desiring to be born in the Land of Subtle Adornments, one should always contemplate in this way.
+['ZH_T16_0682_002:0759c27_0']	爾時金剛藏，　　菩薩摩訶薩，	爾時金剛藏，　　菩薩摩訶薩，	At that time, Vajragarbha, the Bodhisattva Mahāsattva,
+['ZH_T16_0682_002:0759c28_5']	復告螺髻梵：	復告螺髻梵：	Again addressed the Brahmā with the Conch-mark:
+['ZH_T16_0682_002:0759c29_0']	八種九種心，　　常與無明轉，	八種九種心，　　常與無明轉，	The eight kinds and nine kinds of mind always revolve with ignorance,
+['ZH_T16_0682_002:0760a01_13']	能生諸世間，　　皆心心法現。	能生諸世間，　　皆心心法現。	Able to give rise to all worlds, all manifested by mind and mental factors.
+['ZH_T16_0682_002:0760a02_0']	由彼流轉故，　　諸識與諸根，	由彼流轉故，　　諸識與諸根，	Because of their revolving, the various consciousnesses and the various faculties,
+['ZH_T16_0682_002:0760a03_13']	無明所變異，　　本心堅不動。	無明所變異，　　本心堅不動。	Transformed by ignorance, the fundamental mind is firm and unmoving.
+['ZH_T16_0682_002:0760a04_0']	世間及根境，　　皆從十二支，	世間及根境，　　皆從十二支，	The world and the sense faculties and objects, all arise from the twelve links,
+['ZH_T16_0682_002:0760a05_13']	能生及所生，　　剎那而滅壞。	能生及所生，　　剎那而滅壞。	Causing birth and being born, perishing in an instant.
+['ZH_T16_0682_002:0760a06_0']	梵世至非想，　　亦從於因緣，	梵世至非想，　　亦從於因緣，	From the Brahma world up to the non-conceptual, they also arise from causes and conditions,
+['ZH_T16_0682_002:0760a07_13']	唯有天中天，　　能離作所作。	唯有天中天，　　能離作所作。	Only the Heaven of Heavens can transcend the doer and the deed.
+['ZH_T16_0682_002:0760a08_0']	有情及無情，　　動與不動法，	有情及無情，　　動與不動法，	Sentient beings and insentient beings, moving and unmoving dharmas,
+['ZH_T16_0682_002:0760a09_13']	皆如於瓶等，　　滅壞以為性。	皆如於瓶等，　　滅壞以為性。	Are all like vases and so forth, with destruction and disintegration as their nature.
+['ZH_T16_0682_002:0760a10_0']	天主應當知，　　諸識甚微細，	天主應當知，　　諸識甚微細，	The Lord of the Heavens should know that the various consciousnesses are extremely subtle,
+['ZH_T16_0682_002:0760a11_13']	遷流而速疾，　　是佛之境界。	遷流而速疾，　　是佛之境界。	Transmigrating and swiftly flowing, this is the realm of the Buddha.
+['ZH_T16_0682_002:0760a12_0']	諸仙及外道，　　假稱是牟尼，	諸仙及外道，　　假稱是牟尼，	The sages and non-Buddhists falsely claim to be the Silent Sage,
+['ZH_T16_0682_002:0760a13_0']	以言互相縛，　　而貪種種色，	以言互相縛，　　而貪種種色，	Bound by words to each other, yet greedy for various forms,
+['ZH_T16_0682_002:0760a14_13']	於此生滅識，　　悉皆不能知。	於此生滅識，　　悉皆不能知。	They are all unable to know the consciousness that arises and ceases here.
+['ZH_T16_0682_002:0760a15_0']	假使一千歲，　　思惟四吠陀，	假使一千歲，　　思惟四吠陀，	Even if one contemplates the four Vedas for a thousand years,
+['ZH_T16_0682_002:0760a16_13']	行施得梵天，　　還當有退落。	行施得梵天，　　還當有退落。	Practicing giving to attain the Brahma Heaven, one will still fall back down.
+['ZH_T16_0682_002:0760a17_0']	或四月苦行，　　祠祭所獲果，	或四月苦行，　　祠祭所獲果，	Or the fruits obtained through four months of ascetic practice and sacrifices,
+['ZH_T16_0682_002:0760a18_0']	或修異類壇，　　事火所求福，	或修異類壇，　　事火所求福，	Or the blessings sought through cultivating various types of altars and serving the fire,
+['ZH_T16_0682_002:0760a19_0']	或修三趣法，　　宰羊以祈禱，	或修三趣法，　　宰羊以祈禱，	Or cultivating the methods of the three paths, sacrificing sheep to make prayers,
+['ZH_T16_0682_002:0760a20_13']	得果還有退，　　梵王何不悟？	得果還有退，　　梵王何不悟？	Obtaining fruits but still regressing, why does Brahma not awaken?
+['ZH_T16_0682_002:0760a21_0']	三德果繫屬，　　不堅如芭蕉，	三德果繫屬，　　不堅如芭蕉，	The fruits of the three virtues are bound, not firm like a plantain tree,
+['ZH_T16_0682_002:0760a22_13']	唯以智解脫，　　得生密嚴土。	唯以智解脫，　　得生密嚴土。	Only by attaining liberation through wisdom can one be born in the Womb of Mystery.
+['ZH_T16_0682_002:0760a23_0']	定者證斯境，　　方能往彼宮，	定者證斯境，　　方能往彼宮，	Those in concentration who realize this realm will be able to go to that palace,
+['ZH_T16_0682_002:0760a24_13']	是故大梵天，　　應當善修習。	是故大梵天，　　應當善修習。	Therefore, the Great Brahma Heaven should cultivate well.
+['ZH_T16_0682_002:0760a25_0']	密嚴中之人，　　無生死眷屬，	密嚴中之人，　　無生死眷屬，	The people in the Womb of Mystery have no relatives in birth and death,
+['ZH_T16_0682_002:0760a26_0']	一切有情識，　　不斷亦不壞，	一切有情識，　　不斷亦不壞，	The consciousness of all sentient beings is neither cut off nor destroyed,
+['ZH_T16_0682_002:0760a27_0']	諸業無染著，　　亦無染熏習，	諸業無染著，　　亦無染熏習，	All karmas are without attachment and also without tainted perfuming,
+['ZH_T16_0682_002:0760a28_0']	如蓮不著水，　　猶空不染塵，	如蓮不著水，　　猶空不染塵，	Like a lotus unstained by water, like the sky unstained by dust,
+['ZH_T16_0682_002:0760a29_13']	日月無雲翳，　　瑜伽者亦爾。	日月無雲翳，　　瑜伽者亦爾。	The sun and moon are without clouds or obscurations, the yogin is also like this.
+['ZH_T16_0682_002:0760b01_0']	速修是觀行，　　如來所攝持，	速修是觀行，　　如來所攝持，	Quickly cultivate this contemplation practice, embraced by the Tathāgata,
+['ZH_T16_0682_002:0760b02_0']	沐之淨戒流，　　飲以智慧液，	沐之淨戒流，　　飲以智慧液，	Bathe in the flowing pure precepts, drink the liquid of wisdom,
+['ZH_T16_0682_002:0760b03_13']	由修勝戒智，　　生死得解脫。	由修勝戒智，　　生死得解脫。	By cultivating the superior precepts and wisdom, one attains liberation from birth and death.
+['ZH_T16_0682_002:0760b04_0']	天主應當知，　　有情蘊處界，	天主應當知，　　有情蘊處界，	The Lord of Heaven should know that the aggregates, sense bases, and elements of sentient beings,
+['ZH_T16_0682_002:0760b05_13']	眾法所合成，　　悉皆無所有。	眾法所合成，　　悉皆無所有。	Are composed of various dharmas, all of which are non-existent.
+['ZH_T16_0682_002:0760b06_0']	眼色等因緣，　　而得生於識，	眼色等因緣，　　而得生於識，	The causes and conditions of eyes, forms, and so forth, Give rise to consciousness,
+['ZH_T16_0682_002:0760b07_13']	猶火因薪熾，　　識起亦復然。	猶火因薪熾，　　識起亦復然。	Just as fire burns due to firewood, the arising of consciousness is also like this.
+['ZH_T16_0682_002:0760b08_0']	境轉隨妄心，　　猶鐵逐磁石，	境轉隨妄心，　　猶鐵逐磁石，	Objects change according to the deluded mind, like iron following a magnet,
+['ZH_T16_0682_002:0760b09_0']	如乾城陽焰，　　愚渴之所取，	如乾城陽焰，　　愚渴之所取，	Like mirages in the dry city, grasped at by the deluded and thirsty,
+['ZH_T16_0682_002:0760b10_0']	中無能造物，　　但隨心變異，	中無能造物，　　但隨心變異，	There is no creator within, but it changes according to the mind,
+['ZH_T16_0682_002:0760b11_13']	復如乾城人，　　往來皆不實。	復如乾城人，　　往來皆不實。	And also like the people in the dry city, coming and going are all unreal.
+['ZH_T16_0682_002:0760b12_0']	眾生身亦爾，　　進止悉非真，	眾生身亦爾，　　進止悉非真，	The body of sentient beings is also like this, coming and going are all not real,
+['ZH_T16_0682_002:0760b13_0']	亦如夢中見，　　寤後即非有，	亦如夢中見，　　寤後即非有，	Also like seeing in a dream, upon awakening it is immediately non-existent,
+['ZH_T16_0682_002:0760b14_13']	妄見蘊等法，　　覺已本寂然。	妄見蘊等法，　　覺已本寂然。	Awakening to their original quiescence.
+['ZH_T16_0682_002:0760b15_0']	四大微塵眾，　　離心無所得，	四大微塵眾，　　離心無所得，	The four great elements and the multitude of subtle particles, apart from the mind, nothing can be obtained.
+['ZH_T16_0682_002:0760b16_13']	世間可持物，　　孰非四大成。	世間可持物，　　孰非四大成。	What worldly substance can be held that is not composed of the four great elements?
+['ZH_T16_0682_002:0760b17_0']	譬如風疾緣，　　或現見諸境，	譬如風疾緣，　　或現見諸境，	It is like the condition of a wind illness, where various objects may be seen,
+['ZH_T16_0682_002:0760b18_13']	起屍無作者，　　世間法亦然。	起屍無作者，　　世間法亦然。	A corpse rising without an agent; the dharmas of the world are also like this.
+['ZH_T16_0682_002:0760b19_0']	汝等諸佛子，　　應當善觀察，	汝等諸佛子，　　應當善觀察，	You, all Buddha's disciples, should observe well,
+['ZH_T16_0682_002:0760b20_0']	世間諸動植，　　猶如水聚沫，	世間諸動植，　　猶如水聚沫，	The moving and unmoving beings in the world are like a mass of foam in water,
+['ZH_T16_0682_002:0760b21_0']	瓶衣等妄想，　　不實如陽焰，	瓶衣等妄想，　　不實如陽焰，	The false imaginations of pots, clothes, and so forth are unreal like a mirage,
+['ZH_T16_0682_002:0760b22_0']	苦樂等諸受，　　方之水上泡，	苦樂等諸受，　　方之水上泡，	Suffering, joy, and other feelings are like bubbles on water,
+['ZH_T16_0682_002:0760b23_0']	眾行如芭蕉，　　中無有堅實，	眾行如芭蕉，　　中無有堅實，	The various activities are like a plantain tree, with no solid essence within,
+['ZH_T16_0682_002:0760b24_13']	是識如幻事，　　虛偽悉非真。	是識如幻事，　　虛偽悉非真。	Consciousness is like an illusion, all false and not real.
+['ZH_T16_0682_002:0760b25_0']	於彼三界中，　　動與不動法，	於彼三界中，　　動與不動法，	Within those three realms, the moving and unmoving dharmas,
+['ZH_T16_0682_002:0760b26_0']	皆同於夢境，　　迷心之所現，	皆同於夢境，　　迷心之所現，	Are all the same as dream objects, manifested by the deluded mind.
+['ZH_T16_0682_002:0760b27_0']	亦如幻化事，　　及乾闥婆城，	亦如幻化事，　　及乾闥婆城，	Also like illusory events, and a gandharva city,
+['ZH_T16_0682_002:0760b28_13']	但誑於愚夫，　　初無有真實。	但誑於愚夫，　　初無有真實。	Only deceiving the foolish, originally without true reality.
+['ZH_T16_0682_002:0760b29_0']	佛子覺此法，　　其心無所畏，	佛子覺此法，　　其心無所畏，	Buddha's disciples awaken to this Dharma, their minds fearless,
+['ZH_T16_0682_002:0760c01_13']	慧火焚諸患，　　即生密嚴國。	慧火焚諸患，　　即生密嚴國。	The fire of wisdom burns away all afflictions, and they are born in the Land of Matrix of Adornments.
+['ZH_T16_0682_002:0760c02_0']	世間皆無相，　　相為所繫縛，	世間皆無相，　　相為所繫縛，	The world is all without characteristics, characteristics are what bind one,
+['ZH_T16_0682_002:0760c03_0']	無相為吉祥，　　相及心境界，	無相為吉祥，　　相及心境界，	Being without characteristics is auspicious, characteristics and the realm of the mind,
+['ZH_T16_0682_002:0760c04_0']	心境界非真，　　真為慧境界，	心境界非真，　　真為慧境界，	The realm of the mind is not true, truth is the realm of wisdom,
+['ZH_T16_0682_002:0760c05_0']	遠離於眾相，　　慈悲之所行，	遠離於眾相，　　慈悲之所行，	Far removed from various characteristics, the practice of compassion,
+['ZH_T16_0682_002:0760c06_13']	無相遍一切，　　三界皆清淨。	無相遍一切，　　三界皆清淨。	Without characteristics, pervading everywhere, the three realms are all pure.
+['ZH_T16_0682_002:0760c07_0']	色聲等眾相，　　名為三界法，	色聲等眾相，　　名為三界法，	Form, sound, and other various characteristics are called the dharmas of the three realms,
+['ZH_T16_0682_002:0760c08_0']	一切諸根境，　　有情之縛因，	一切諸根境，　　有情之縛因，	All the sense faculties and objects are the cause of sentient beings' bondage,
+['ZH_T16_0682_002:0760c09_13']	由慧得解脫，　　安樂而自在。	由慧得解脫，　　安樂而自在。	Through wisdom one attains liberation, peaceful and blissful, and sovereign.
+['ZH_T16_0682_002:0760c10_0']	時寶髻菩薩，　　坐殊妙之座，	時寶髻菩薩，　　坐殊妙之座，	At that time, Bodhisattva Ratnacūḍa, sitting on an exquisite seat,
+['ZH_T16_0682_002:0760c11_13']	向於金剛藏，　　而作如是言：	向於金剛藏，　　而作如是言：	He then addressed Vajragarbha, saying:
+['ZH_T16_0682_002:0760c12_0']	「遍諸俱胝剎，　　尊者為上首，	「遍諸俱胝剎，　　尊者為上首，	In all the koṭis of lands, the Venerable is the foremost,
+['ZH_T16_0682_002:0760c13_0']	成就最妙智，　　了達所知法，	成就最妙智，　　了達所知法，	Accomplishing the most wonderful wisdom, comprehending the knowable dharmas,
+['ZH_T16_0682_002:0760c14_13']	於無量悉檀，　　皆已得明見。	於無量悉檀，　　皆已得明見。	In the innumerable siddhāntas, he has already attained clear insight.
+['ZH_T16_0682_002:0760c15_0']	今在修行眾，　　能淨於彼疑，	今在修行眾，　　能淨於彼疑，	Now, in the assembly of practitioners, he can purify their doubts,
+['ZH_T16_0682_002:0760c16_0']	覺察有情身，　　一切之本起，	覺察有情身，　　一切之本起，	Awakening to the fundamental arising of all sentient beings' bodies,
+['ZH_T16_0682_002:0760c17_13']	以妙音演暢，　　窮劫不能盡。	以妙音演暢，　　窮劫不能盡。	Proclaiming it with wonderful sounds, it cannot be exhausted in eons.
+['ZH_T16_0682_002:0760c18_0']	應當為眾會，　　說離諸逆順，	應當為眾會，　　說離諸逆順，	He should explain to the assembly, leaving behind all opposition and compliance,
+['ZH_T16_0682_002:0760c19_0']	似非似等因，　　及以真實法，	似非似等因，　　及以真實法，	The causes of similarity, dissimilarity, and so forth, as well as the true Dharma,
+['ZH_T16_0682_002:0760c20_0']	令此諸智者，　　心淨無有疑，	令此諸智者，　　心淨無有疑，	Causing these wise ones to have pure minds without doubt,
+['ZH_T16_0682_002:0760c21_13']	捨於諸蘊因，　　不久得解脫。	捨於諸蘊因，　　不久得解脫。	Abandoning the causes of the aggregates, they will soon attain liberation.
+['ZH_T16_0682_002:0760c22_0']	蘊因法非法，　　生此身後身，	蘊因法非法，　　生此身後身，	The causes of the aggregates, the Dharma and non-Dharma, give rise to this body and future bodies,
+['ZH_T16_0682_002:0760c23_13']	智則能脫苦，　　受則為堅縛。	智則能脫苦，　　受則為堅縛。	Wisdom can then free one from suffering, while acceptance becomes a firm bondage.
+['ZH_T16_0682_002:0760c24_0']	有情心所起，　　由色及以明，	有情心所起，　　由色及以明，	Sentient beings' mental activities arise from form, light,
+['ZH_T16_0682_002:0760c25_0']	作意等眾緣，　　馳散於諸境，	作意等眾緣，　　馳散於諸境，	Attention, and various conditions, racing and scattering towards objects,
+['ZH_T16_0682_002:0760c26_0']	迅疾其奔電，　　難可得覺知，	迅疾其奔電，　　難可得覺知，	Swift like a rushing lightning bolt, difficult to be aware of,
+['ZH_T16_0682_002:0760c27_13']	無明及愛業，　　以之而濁亂。	無明及愛業，　　以之而濁亂。	Ignorance, craving, and karma cause turbidity and confusion.
+['ZH_T16_0682_002:0760c28_0']	諸法意先導，　　意速意殊勝，	諸法意先導，　　意速意殊勝，	The mind is the forerunner of phenomena, the mind is swift, the mind is supreme,
+['ZH_T16_0682_002:0760c29_0']	法與意相應，　　皆以意為性，	法與意相應，　　皆以意為性，	Phenomena are in accord with the mind, all have the nature of the mind,
+['ZH_T16_0682_002:0761a01_13']	譬如摩尼寶，　　顯現於眾彩。	譬如摩尼寶，　　顯現於眾彩。	Just like a mani jewel manifesting various colors.
+['ZH_T16_0682_002:0761a02_13']	如是之妙義，　　佛子何不說？	如是之妙義，　　佛子何不說？	Such marvelous meaning, why don't the Buddha's disciples speak of it?
+['ZH_T16_0682_002:0761a03_13']	如眾色摩尼，　　隨色而顯現。	如眾色摩尼，　　隨色而顯現。	Like a jewel with various colors, manifesting according to the color.
+['ZH_T16_0682_002:0761a04_0']	仁者瑜祇中，　　照耀亦如是，	仁者瑜祇中，　　照耀亦如是，	The illumination in the Yugandhara region is also like this,
+['ZH_T16_0682_002:0761a05_0']	具足如來像，　　恒住自在宮，	具足如來像，　　恒住自在宮，	Endowed with the appearance of the Tathāgata, always dwelling in the palace of sovereignty,
+['ZH_T16_0682_002:0761a06_13']	佛子眾圍繞，　　隨宜應為說。	佛子眾圍繞，　　隨宜應為說。	Surrounded by the assembly of Buddha's disciples, speaking as appropriate.
+['ZH_T16_0682_002:0761a07_0']	爾時金剛藏，　　菩薩摩訶薩，	爾時金剛藏，　　菩薩摩訶薩，	At that time, Vajra Treasury, the Bodhisattva Mahāsattva,
+['ZH_T16_0682_002:0761a08_13']	於法自在者，　　復告大眾言：	於法自在者，　　復告大眾言：	The one who has mastery over the Dharma, further addressed the great assembly, saying:
+['ZH_T16_0682_002:0761a09_0']	「密嚴微妙土，　　是最勝寂靜，	「密嚴微妙土，　　是最勝寂靜，	The subtle and wondrous land of the Matrix of the Great Perfect Mirror Wisdom is the most supreme and tranquil,
+['ZH_T16_0682_002:0761a10_0']	亦是大涅槃，　　解脫淨法界，	亦是大涅槃，　　解脫淨法界，	It is also the great parinirvāṇa, the pure Dharma realm of liberation,
+['ZH_T16_0682_002:0761a11_0']	亦是妙智境，　　及以大神通，	亦是妙智境，　　及以大神通，	It is also the realm of wondrous cognition and great spiritual powers,
+['ZH_T16_0682_002:0761a12_13']	修諸觀行者，　　所依之妙剎。	修諸觀行者，　　所依之妙剎。	It is the wondrous realm relied upon by practitioners cultivating various contemplations.
+['ZH_T16_0682_002:0761a13_0']	不斷亦不境，　　常住無變易，	不斷亦不境，　　常住無變易，	It is neither cut off nor destroyed, always abiding without change,
+['ZH_T16_0682_002:0761a14_0']	水亦不能濡，　　風亦不能燥，	水亦不能濡，　　風亦不能燥，	Water cannot moisten it, wind cannot dry it,
+['ZH_T16_0682_002:0761a15_0']	非如瓶等體，　　勤勇成而壞，	非如瓶等體，　　勤勇成而壞，	Unlike the substance of a vase, which is created by effort and perishes,
+['ZH_T16_0682_002:0761a16_13']	非似不似因，　　二種所成立。	非似不似因，　　二種所成立。	It is neither like nor unlike the two kinds of established causes.
+['ZH_T16_0682_002:0761a17_0']	立宗及諸分，　　皆是不定法，	立宗及諸分，　　皆是不定法，	The thesis and various parts are all indeterminate dharmas,
+['ZH_T16_0682_002:0761a18_13']	以宗及以因，　　各執差別故。	以宗及以因，　　各執差別故。	Because the thesis and reasons are each grasped as different.
+['ZH_T16_0682_002:0761a19_0']	密嚴微妙剎，　　體是轉依識，	密嚴微妙剎，　　體是轉依識，	The subtle and wondrous realm of the Matrix of the Great Perfect Mirror Wisdom is the transformed basis of consciousness,
+['ZH_T16_0682_002:0761a20_13']	超於分別心，　　非妄情境界。	超於分別心，　　非妄情境界。	Transcending the discriminating mind, not the realm of deluded emotions.
+['ZH_T16_0682_002:0761a21_0']	如來密嚴剎，　　無終亦無始，	如來密嚴剎，　　無終亦無始，	The Tathāgata's secret and pure land, without end and without beginning,
+['ZH_T16_0682_002:0761a22_0']	非微塵自性，　　非由於樂欲，	非微塵自性，　　非由於樂欲，	Not the nature of subtle particles, not due to desire,
+['ZH_T16_0682_002:0761a23_0']	非大自在作，　　非無明愛業，	非大自在作，　　非無明愛業，	Not created by Maheśvara, not by ignorance, craving, and karma,
+['ZH_T16_0682_002:0761a24_0']	但由無功用，　　妙智之所生，	但由無功用，　　妙智之所生，	But only born from effortless wondrous wisdom,
+['ZH_T16_0682_002:0761a25_13']	出欲色無色，　　超無想暗網。	出欲色無色，　　超無想暗網。	Emerging from desire, form, and formlessness, transcending the dark net of non-thought.
+['ZH_T16_0682_002:0761a26_0']	密嚴微妙土，　　是阿若悉檀，	密嚴微妙土，　　是阿若悉檀，	The subtle land of the secret and pure is the artha of the Tathāgata,
+['ZH_T16_0682_002:0761a27_0', 'ZH_T16_0682_002:0761a28_0']	非諸因明者，　　所量之境界，🔽非由於勝性，　　自在與聲論，	非諸因明者，　　所量之境界， 非由於勝性，　　自在與聲論，	Not the realm of measurement for those who study logic,🔽Not due to the nature of excellence, Maheśvara, or the Sāṃkhya school,
+['ZH_T16_0682_002:0761a29_0']	及吠陀等宗，　　之所能開顯，	及吠陀等宗，　　之所能開顯，	Nor can it be revealed by the Vedas and other doctrines,
+['ZH_T16_0682_002:0761b01_0']	乃至資糧位，　　智慧不能了，	乃至資糧位，　　智慧不能了，	Up to the stage of equipment, wisdom cannot understand it,
+['ZH_T16_0682_002:0761b02_13']	唯是於如來，　　及十地智境。	唯是於如來，　　及十地智境。	It is only the realm of the Tathāgata and the wisdom of the ten grounds.
+['ZH_T16_0682_002:0761b03_0']	仁者今諦聽，　　愚夫迷世間，	仁者今諦聽，　　愚夫迷世間，	The wise one should now listen attentively. The foolish are confused by the world,
+['ZH_T16_0682_002:0761b04_0']	為業及非業，　　我今演此義，	為業及非業，　　我今演此義，	Regarding it as karma and not karma. I will now expound this meaning,
+['ZH_T16_0682_002:0761b05_13']	令修勝定者，　　獲得於安樂。	令修勝定者，　　獲得於安樂。	Will attain peace and bliss.🔽All inner and outer things
+['ZH_T16_0682_002:0761b06_0']	內外一切物，　　所見唯自心，	內外一切物，　　所見唯自心，	Are only one's own mind that is seen.🔽Sentient beings' minds have two natures:
+['ZH_T16_0682_002:0761b07_13']	有情心二性，　　能取及所取。	有情心二性，　　能取及所取。	The grasper and the grasped.🔽The essence of the mind has two aspects:
+['ZH_T16_0682_002:0761b08_0']	心體有二門，　　即心見眾物，	心體有二門，　　即心見眾物，	The mind and the various objects seen.🔽Ordinary beings are confused by their nature
+['ZH_T16_0682_002:0761b09_13']	凡夫性迷惑，　　於自不能了。	凡夫性迷惑，　　於自不能了。	And cannot understand themselves.🔽Like a vase manifesting form and appearance,
+['ZH_T16_0682_002:0761b10_0']	如瓶現色相，　　無體唯自心，	如瓶現色相，　　無體唯自心，	Without substance, it is only one's own mind.🔽The weak in concentration and the sages
+['ZH_T16_0682_002:0761b11_0']	羸定及諸仙，　　於此義惑亂，	羸定及諸仙，　　於此義惑亂，	Are deluded about this meaning,🔽Abandoning the true principle
+['ZH_T16_0682_002:0761b12_13']	捨於真實理，　　而行分別路。	捨於真實理，　　而行分別路。	And practicing the path of discrimination.🔽This mind has two natures,
+['ZH_T16_0682_002:0761b13_0']	是心有二性，　　如鏡像月影，	是心有二性，　　如鏡像月影，	Like a mirror image or the reflection of the moon.🔽Like the eyes having cataracts,
+['ZH_T16_0682_002:0761b14_13']	如目而有翳，　　妄見於毛輪。	如目而有翳，　　妄見於毛輪。	Falsely seeing a hair wheel.🔽In space there is no hair wheel,
+['ZH_T16_0682_002:0761b15_0']	空中無毛輪，　　應無珠瓔珞，	空中無毛輪，　　應無珠瓔珞，	There should be no pearl necklaces,🔽But only from diseased and clouded eyes
+['ZH_T16_0682_002:0761b16_0']	但從病翳眼，　　若斯而顯現，	但從病翳眼，　　若斯而顯現，	Do they appear in this way.🔽Those who falsely conceptualize
+['ZH_T16_0682_002:0761b17_0']	虛妄計著者，　　不覺恒執取，	虛妄計著者，　　不覺恒執取，	Are always unaware and grasp.
+['ZH_T16_0682_002:0761b18_13']	廣現諸嚴飾，　　種種梵等相。	廣現諸嚴飾，　　種種梵等相。	With various Brahma-like appearances.
+['ZH_T16_0682_002:0761b19_0']	一切諸有情，　　及與瓶衣等，	一切諸有情，　　及與瓶衣等，	All sentient beings, as well as vases, clothing, and so forth,
+['ZH_T16_0682_002:0761b20_13']	內外種種事，　　皆悉從心起。	內外種種事，　　皆悉從心起。	The various internal and external things, all arise from the mind.
+['ZH_T16_0682_002:0761b21_0']	此密嚴妙定，　　非餘之所有，	此密嚴妙定，　　非餘之所有，	This wondrous samādhi of the Womb of Mysteries is not possessed by others.
+['ZH_T16_0682_002:0761b22_0']	若有修行者，　　生於眾福地，	若有修行者，　　生於眾福地，	If there are practitioners who are born in the land of abundant blessings,
+['ZH_T16_0682_002:0761b23_0']	或生欲自在，　　或於色界天，	或生欲自在，　　或於色界天，	Either born with desire and freedom, or in the heavens of the form realm,
+['ZH_T16_0682_002:0761b24_0']	乃至無相宮，　　色究竟天處，	乃至無相宮，　　色究竟天處，	Up to the formless palace, the heaven of the summit of existence,
+['ZH_T16_0682_002:0761b25_0']	空識無所有，　　非想非非想，	空識無所有，　　非想非非想，	The heavens of space, consciousness, nothingness, neither perception nor non-perception,
+['ZH_T16_0682_002:0761b26_0']	種種諸宮殿，　　漸次除貪欲，	種種諸宮殿，　　漸次除貪欲，	The various palaces and abodes, gradually eliminating greed and desire,
+['ZH_T16_0682_002:0761b27_0']	不久得生彼，　　密嚴觀行宮，	不久得生彼，　　密嚴觀行宮，	Before long, they will be born in the palace of the practice of the Womb of Mysteries,
+['ZH_T16_0682_002:0761b28_13']	眾佛子圍繞，　　自在而遊戲。	眾佛子圍繞，　　自在而遊戲。	Surrounded by the Buddha's disciples, freely playing and enjoying themselves.
+['ZH_T16_0682_002:0761b29_0']	汝應修此定，　　如何著親屬，	汝應修此定，　　如何著親屬，	You should cultivate this samādhi. How can you be attached to relatives?
+['ZH_T16_0682_002:0761c01_13']	親屬常繫縛，　　輪迴生死因。	親屬常繫縛，　　輪迴生死因。	Relatives always bind one, causing one to revolve in birth and death.
+['ZH_T16_0682_002:0761c02_0']	男女意惑亂，　　精血共和合，	男女意惑亂，　　精血共和合，	The minds of men and women are confused, and semen and blood mix together,
+['ZH_T16_0682_002:0761c03_0']	如蟲生自泥，　　此中生亦爾，	如蟲生自泥，　　此中生亦爾，	Like a worm born from mud, birth in this world is also like this.
+['ZH_T16_0682_002:0761c04_13']	九月或十月，　　彼體漸增長。	九月或十月，　　彼體漸增長。	For nine or ten months, their bodies gradually grow larger.
+['ZH_T16_0682_002:0761c05_0']	時至出胎已，　　譬如蟲蠕動，	時至出胎已，　　譬如蟲蠕動，	When the time comes, they emerge from the womb, like a wriggling worm,
+['ZH_T16_0682_002:0761c06_13']	從此而長大，　　乃至心了知。	從此而長大，　　乃至心了知。	From this they grow up, until the mind becomes aware.
+['ZH_T16_0682_002:0761c07_0']	我觀諸有情，　　生生悉如此，	我觀諸有情，　　生生悉如此，	I observe that all sentient beings, in each birth, are all like this.
+['ZH_T16_0682_002:0761c08_0']	父母無有數，　　妻子亦復然，	父母無有數，　　妻子亦復然，	Parents are countless, and so are wives and children,
+['ZH_T16_0682_002:0761c09_13']	於諸世間中，　　無處不周遍。	於諸世間中，　　無處不周遍。	In all the worlds, there is no place they do not pervade.
+['ZH_T16_0682_002:0761c10_0']	譬如彼石女，　　夢己忽生子，	譬如彼石女，　　夢己忽生子，	It is like that stone woman, who suddenly dreams of giving birth to a child,
+['ZH_T16_0682_002:0761c11_0']	生已方歡樂，　　尋又見其亡，	生已方歡樂，　　尋又見其亡，	After giving birth, she is happy, but soon sees him die,
+['ZH_T16_0682_002:0761c12_5']	悲哀不自勝；	悲哀不自勝；	Grieving, she cannot bear it;
+['ZH_T16_0682_002:0761c13_13']	　　忽然從睡覺，不見有其子，　　初生及後終。	　　忽然從睡覺，不見有其子，　　初生及後終。	Suddenly she wakes up from sleep and does not see her child, the initial birth and subsequent death.
+['ZH_T16_0682_002:0761c14_0']	又夢遊山川，　　城邑與園苑，	又夢遊山川，　　城邑與園苑，	Again, she dreams of wandering in mountains and rivers, cities and gardens,
+['ZH_T16_0682_002:0761c15_0']	一切諸境界，　　世間共受用，	一切諸境界，　　世間共受用，	All the various objects of the world are shared and enjoyed by all,
+['ZH_T16_0682_002:0761c16_0']	彼此互相見，　　馳鶩而往來，	彼此互相見，　　馳鶩而往來，	They see each other, run and come and go,
+['ZH_T16_0682_002:0761c17_13']	運轉與屈伸，　　無量之境界；	運轉與屈伸，　　無量之境界；	The immeasurable objects of movement, turning, bending and stretching,
+['ZH_T16_0682_002:0761c18_13']	及從於睡覺，　　一切皆非有。	及從於睡覺，　　一切皆非有。	And from sleep to awakening, all are non-existent.
+['ZH_T16_0682_002:0761c19_0']	亦如多欲者，　　夢見於女人，	亦如多欲者，　　夢見於女人，	Also, like one with much desire, who dreams of a woman,
+['ZH_T16_0682_002:0761c20_0']	顏貌甚端嚴，　　服玩皆珍綺，	顏貌甚端嚴，　　服玩皆珍綺，	With a very beautiful appearance, wearing precious ornaments,
+['ZH_T16_0682_002:0761c21_13']	種種恣歡樂，　　覺已悉皆無。	種種恣歡樂，　　覺已悉皆無。	Enjoying various pleasures, upon awakening, all are gone.
+['ZH_T16_0682_002:0761c22_0']	一切諸世間，　　當知亦如是，	一切諸世間，　　當知亦如是，	All the various worlds, you should know, are also like this,
+['ZH_T16_0682_002:0761c23_0']	王位及營從，　　父母等宗姻，	王位及營從，　　父母等宗姻，	The position of king, retinue, parents, and relatives,
+['ZH_T16_0682_002:0761c24_13']	但誑於愚夫，　　體性皆非實。	但誑於愚夫，　　體性皆非實。	Only deceive the foolish, their essence is all unreal.
+['ZH_T16_0682_002:0761c25_13']	汝於三摩地，　　何故不勤修？	汝於三摩地，　　何故不勤修？	Why do you not diligently cultivate in samādhi?
+['ZH_T16_0682_002:0761c26_0']	無量諸聲聞，　　獨覺及菩薩，	無量諸聲聞，　　獨覺及菩薩，	The immeasurable śrāvakas, pratyekabuddhas, and bodhisattvas,
+['ZH_T16_0682_002:0761c27_0']	住山間樹下，　　寂靜修禪處，	住山間樹下，　　寂靜修禪處，	Dwelling in the mountains and under the trees, in places of quiet meditation,
+['ZH_T16_0682_002:0761c28_0']	摩羅耶乳海，　　頻陀婆利師，	摩羅耶乳海，　　頻陀婆利師，	The Malaya and Kṣīroda oceans, the Vindhya and Pāriyātra mountains,
+['ZH_T16_0682_002:0761c29_0', 'ZH_T16_0682_002:0762a01_0']	摩醯因陀羅，　　雞羅雪山等，🔽或止圓生樹，　　或住嬌微那，	摩醯因陀羅，　　雞羅雪山等， 或止圓生樹，　　或住嬌微那，	The Mahendra and Indra mountains, the Kirīta and Himalayas,🔽Sometimes dwelling under the Pārijāta tree, sometimes residing in the Jālinī palace,
+['ZH_T16_0682_002:0762a02_0']	處須彌半腹，　　或憩如意樹，	處須彌半腹，　　或憩如意樹，	Staying in the middle of Mount Sumeru, sometimes resting under the wish-fulfilling tree,
+['ZH_T16_0682_002:0762a03_0']	絆住劍摩羅，　　於中而宴默，	絆住劍摩羅，　　於中而宴默，	Binding up the sword-like Māra, and remaining silent in the midst of them,
+['ZH_T16_0682_002:0762a04_0']	或食贍部果，　　及飲甘露味，	或食贍部果，　　及飲甘露味，	Sometimes eating the fruits of the Jambū tree, and drinking the taste of nectar,
+['ZH_T16_0682_002:0762a05_13']	具足諸神通，　　而常修此觀。	具足諸神通，　　而常修此觀。	Endowed with all spiritual powers, always cultivating this contemplation.
+['ZH_T16_0682_002:0762a06_0']	過去未來世，　　坐於蓮華臺，	過去未來世，　　坐於蓮華臺，	In the past and future worlds, sitting on a lotus platform,
+['ZH_T16_0682_002:0762a07_13']	結加住等引，　　如是常觀察。	結加住等引，　　如是常觀察。	Forming mudras and abiding in concentration, thus always observing.
+['ZH_T16_0682_002:0762a08_0']	善攝諸根故，　　不散一切境，	善攝諸根故，　　不散一切境，	Because of well-restraining the faculties, not scattering to all objects,
+['ZH_T16_0682_002:0762a09_13']	如以鉤制象，　　住定亦復然。	如以鉤制象，　　住定亦復然。	Like using a hook to control an elephant, abiding in concentration is also like this.
+['ZH_T16_0682_002:0762a10_0']	世間若出世，　　一切諸餘定，	世間若出世，　　一切諸餘定，	Whether worldly or supramundane, all other concentrations,
+['ZH_T16_0682_002:0762a11_13']	佛定淨無垢，　　貪愛皆遣除。	佛定淨無垢，　　貪愛皆遣除。	The Buddha's concentration is pure and stainless, dispelling all craving and attachment.
+['ZH_T16_0682_002:0762a12_0']	遍愛無色定，　　無想等禪中，	遍愛無色定，　　無想等禪中，	Universally loving the formless concentrations, in the concentrations such as the attainment of non-perception,
+['ZH_T16_0682_002:0762a13_0']	見彼日月形，　　蓮花與深險，	見彼日月形，　　蓮花與深險，	Seeing the forms of the sun and moon, lotuses and deep abysses,
+['ZH_T16_0682_002:0762a14_13']	如空火眾色，　　邪定非究竟。	如空火眾色，　　邪定非究竟。	Like the various colors of fire in the sky, the wrong concentrations are not ultimate.
+['ZH_T16_0682_002:0762a15_0']	拂除如是相，　　得淨無分別，	拂除如是相，　　得淨無分別，	Shaking off such forms, attaining purity without discrimination,
+['ZH_T16_0682_002:0762a16_0']	則見俱胝剎，　　諸佛住等引，	則見俱胝剎，　　諸佛住等引，	Then one sees koṭis of lands, the buddhas abiding in concentration,
+['ZH_T16_0682_002:0762a17_0']	同時共舒手，　　以水灌其頂，	同時共舒手，　　以水灌其頂，	Simultaneously extending their hands, pouring water on one's head,
+['ZH_T16_0682_002:0762a18_13']	即入於佛地，　　示現眾色形。	即入於佛地，　　示現眾色形。	Then entering the stage of buddhahood, manifesting various forms.
+['ZH_T16_0682_002:0762a19_0']	既得種種身，　　則具薩婆若，	既得種種身，　　則具薩婆若，	Having attained various bodies, one is then endowed with omniscience,
+['ZH_T16_0682_002:0762a20_0']	力通及自在，　　正定陀羅尼，	力通及自在，　　正定陀羅尼，	Powers, spiritual penetrations, and mastery, right concentration and dhāraṇīs,
+['ZH_T16_0682_002:0762a21_13']	如是等功德，　　莫不皆成就。	如是等功德，　　莫不皆成就。	Such merits and virtues are all accomplished.
+['ZH_T16_0682_002:0762a22_0']	分析於諸色，　　乃至觀極微，	分析於諸色，　　乃至觀極微，	Analyzing the various forms, even observing the most subtle particles,
+['ZH_T16_0682_002:0762a23_0']	自性無所有，　　譬如於兔角，	自性無所有，　　譬如於兔角，	Their nature is non-existent, like the horns of a rabbit,
+['ZH_T16_0682_002:0762a24_0']	無分無分別，　　蘊有蘊亦然，	無分無分別，　　蘊有蘊亦然，	Without parts, without discrimination, the aggregates and what they contain are also thus,🔽Here is the corrected and aligned text:
+['ZH_T16_0682_002:0762a25_13']	同於幻所作，　　一切皆如是。	同於幻所作，　　一切皆如是。	Are all like this.
+['ZH_T16_0682_002:0762a26_0']	此中無業果，　　亦無作業人，	此中無業果，　　亦無作業人，	Here there are no karmic fruits, Nor is there one who performs actions,
+['ZH_T16_0682_002:0762a27_5']	無能作世間。	無能作世間。	There is no one who can create the world.
+['ZH_T16_0682_002:0762a28_13']	　　設有作能作，能作待於作，　　何名能作人？	　　設有作能作，能作待於作，　　何名能作人？	Even if there is a creator, the creator depends on creation, How can one be called a creator?
+['ZH_T16_0682_002:0762a29_5']	此言成過患。	此言成過患。	This statement becomes a fault.
+['ZH_T16_0682_002:0762b01_0']	我者成諸境，　　地輪依水輪，	我者成諸境，　　地輪依水輪，	The self becomes the various realms, The earth wheel depends on the water wheel,
+['ZH_T16_0682_002:0762b02_13']	及有情世間，　　次第而安布。	及有情世間，　　次第而安布。	And the world of sentient beings, Arranged in sequence.
+['ZH_T16_0682_002:0762b03_0']	諸趣各差別，　　彼此互往來，	諸趣各差別，　　彼此互往來，	The various destinies are each different, Going and coming between them,
+['ZH_T16_0682_002:0762b04_0']	於事起諸根，　　而能取於境，	於事起諸根，　　而能取於境，	In things arise the various faculties, And are able to grasp objects,
+['ZH_T16_0682_002:0762b05_0']	此等非由我，　　皆是於分別，	此等非由我，　　皆是於分別，	These are not due to the self, They are all conceptualization,
+['ZH_T16_0682_002:0762b06_0']	展轉而變異，　　同於乳酪酥，	展轉而變異，　　同於乳酪酥，	Mutually transforming, Like milk, curd, and butter,
+['ZH_T16_0682_002:0762b07_13']	如是生住滅，　　計業與非業。	如是生住滅，　　計業與非業。	Thus arise, abide, and cease, Considering karma and non-karma.
+['ZH_T16_0682_002:0762b08_0']	定者常觀此，　　如乾城與夢，	定者常觀此，　　如乾城與夢，	The concentrated one always observes this, Like a mirage and a dream,
+['ZH_T16_0682_002:0762b09_0']	無始來戲論，　　熏習於有情，	無始來戲論，　　熏習於有情，	Since beginningless time, conceptual proliferation, Permeates sentient beings,
+['ZH_T16_0682_002:0762b10_13']	種種之過咎，　　而生分別業。	種種之過咎，　　而生分別業。	Various faults arise from discriminating karma.
+['ZH_T16_0682_002:0762b11_0']	諸根猶如幻，　　境界同於夢，	諸根猶如幻，　　境界同於夢，	The faculties are like illusions, and objects are like dreams.
+['ZH_T16_0682_002:0762b12_13']	能作所作業，　　定者能遠離。	能作所作業，　　定者能遠離。	The doer and the deed are definitely something the concentrated one can transcend.
+['ZH_T16_0682_002:0762b13_0']	惡覺微劣者，　　迷惑生妄計，	惡覺微劣者，　　迷惑生妄計，	Those with evil thoughts and little strength are deluded and give rise to false calculations.
+['ZH_T16_0682_002:0762b14_13', 'ZH_T16_0682_002:0762b15_0']	分別於能作，　　一切諸世間。🔽或謂摩尼珠，　　金銀等眾礦，	分別於能作，　　一切諸世間。 或謂摩尼珠，　　金銀等眾礦，	They discriminate the doer and all worlds.🔽Some say that the various colors of birds and beasts,
+['ZH_T16_0682_002:0762b16_0']	鳥獸色差別，　　刺端銛以利，	鳥獸色差別，　　刺端銛以利，	The sharpness of thorns, and the differences in gems, gold, silver, and other ores,
+['ZH_T16_0682_002:0762b17_13']	此等皆不同，　　應知無作者。	此等皆不同，　　應知無作者。	Are all not the same, and one should know there is no creator.
+['ZH_T16_0682_002:0762b18_0']	世間相差別，　　皆從分別生，	世間相差別，　　皆從分別生，	The differences in worldly appearances all arise from discrimination.
+['ZH_T16_0682_002:0762b19_0']	非勝性微塵，　　無因自然等，	非勝性微塵，　　無因自然等，	Not from the supreme nature, atoms, no cause, spontaneous, etc.,
+['ZH_T16_0682_002:0762b20_13']	惡覺者妄計，　　不知其體性。	惡覺者妄計，　　不知其體性。	The falsely calculated by those with evil thoughts do not know their essence.
+['ZH_T16_0682_002:0762b21_0']	為業為非業，　　如是起分別，	為業為非業，　　如是起分別，	Regarding karma and non-karma, thus discrimination arises.
+['ZH_T16_0682_002:0762b22_0']	如毒在於乳，　　隨變與相應，	如毒在於乳，　　隨變與相應，	Like poison in milk, it changes with the transformation and accords with it.
+['ZH_T16_0682_002:0762b23_13']	一切處分別，　　諸法亦如是。	一切處分別，　　諸法亦如是。	The discrimination of all places, the dharmas are also like this.
+['ZH_T16_0682_002:0762b24_0']	是性亦不生，　　是性亦不滅，	是性亦不生，　　是性亦不滅，	This nature is also unborn, this nature is also unceasing,
+['ZH_T16_0682_002:0762b25_13']	惑者不能了，　　種種異分別。	惑者不能了，　　種種異分別。	The deluded are unable to understand, discriminating various differences.
+['ZH_T16_0682_002:0762b26_0']	世間唯積集，　　定者乃能觀，	世間唯積集，　　定者乃能觀，	The world is only accumulated, only the concentrated one can observe,
+['ZH_T16_0682_002:0762b27_13']	汝等應勤修，　　無思業非業。	汝等應勤修，　　無思業非業。	You should diligently cultivate, non-thought karma is not karma.
+['ZH_T16_0682_002:0762b28_0']	有情互來往，　　如日月超迴，	有情互來往，　　如日月超迴，	Sentient beings mutually come and go, like the sun and moon passing through,
+['ZH_T16_0682_002:0762b29_13']	在空無所依，　　隨風而運轉。	在空無所依，　　隨風而運轉。	Abiding in space without support, moving with the wind.
+['ZH_T16_0682_002:0762c01_0']	業性甚微隱，　　密嚴者能見，	業性甚微隱，　　密嚴者能見，	The nature of karma is very subtle and hidden, only the pure ones can see it,
+['ZH_T16_0682_002:0762c02_0']	修諸勝觀行，　　不為甚所羇，	修諸勝觀行，　　不為甚所羇，	Cultivating various supreme contemplations, not greatly bound,
+['ZH_T16_0682_002:0762c03_0']	如火燎長焚，　　須臾作灰燼，	如火燎長焚，　　須臾作灰燼，	Like a fire burning for a long time, in an instant it becomes ashes,
+['ZH_T16_0682_002:0762c04_13']	智火焚業薪，　　當知亦如是。	智火焚業薪，　　當知亦如是。	The wisdom fire burning the firewood of karma, you should know it is also like this.
+['ZH_T16_0682_002:0762c05_0']	又如燈破闇，　　一念盡無餘，	又如燈破闇，　　一念盡無餘，	Also like a lamp dispelling darkness, in a single thought it is completely gone without remainder,
+['ZH_T16_0682_002:0762c06_0']	諸業習暗冥，　　無始之熏聚，	諸業習暗冥，　　無始之熏聚，	The darkness of karmic habits, accumulated from beginningless time,
+['ZH_T16_0682_002:0762c07_13']	牟尼智燈起，　　剎那頓皆滅。	牟尼智燈起，　　剎那頓皆滅。	The lamp of the Sage's wisdom arises, instantly extinguishing them all.
+['ZH_T16_0682_002:0762c09_0']	爾時金剛藏，　　菩薩摩訶薩，	爾時金剛藏，　　菩薩摩訶薩，	At that time, Vajra Treasury, the Bodhisattva Mahasattva,
+['ZH_T16_0682_002:0762c10_5']	復告於大眾：	復告於大眾：	again addressed the great assembly, saying:
+['ZH_T16_0682_002:0762c11_0']	譬如空閑地，　　欲造立宮室，	譬如空閑地，　　欲造立宮室，	It is like a desolate place, wishing to build a palace,
+['ZH_T16_0682_002:0762c12_0']	匠人資土木，　　然後方得成，	匠人資土木，　　然後方得成，	the craftsman relies on earth and wood, only then can it be accomplished.
+['ZH_T16_0682_002:0762c13_13']	諦觀諸物中，　　二皆無舍宅。	諦觀諸物中，　　二皆無舍宅。	Carefully observe all things, both are devoid of a house.
+['ZH_T16_0682_002:0762c14_0']	亦如於眾指，　　和合以成拳，	亦如於眾指，　　和合以成拳，	It is also like the many fingers, combined to form a fist.
+['ZH_T16_0682_002:0762c15_13']	離指而推求，　　拳體不可得。	離指而推求，　　拳體不可得。	Apart from the fingers, when seeking the fist, the essence of the fist cannot be found.
+['ZH_T16_0682_002:0762c16_0']	軍師及車乘，　　城邑與園林，	軍師及車乘，　　城邑與園林，	Armies, generals, and vehicles, cities, towns, and gardens,
+['ZH_T16_0682_002:0762c17_0']	雲物須山川，　　瓶衣等諸相，	雲物須山川，　　瓶衣等諸相，	clouds, objects, mountains, and rivers, vases, clothing, and other forms,
+['ZH_T16_0682_002:0762c18_13']	皆是假和合，　　智者了如夢。	皆是假和合，　　智者了如夢。	are all falsely combined, the wise understand them to be like dreams.
+['ZH_T16_0682_002:0762c19_0']	如是身舍宅，　　諸界所集成，	如是身舍宅，　　諸界所集成，	In this way, the body is a house, composed of various elements,
+['ZH_T16_0682_002:0762c20_0']	蘊積猶崇山，　　攲危如朽屋，	蘊積猶崇山，　　攲危如朽屋，	accumulated like a lofty mountain, leaning precariously like an old house.
+['ZH_T16_0682_002:0762c21_0']	不生亦不滅，　　非自亦非他，	不生亦不滅，　　非自亦非他，	Neither arising nor ceasing, not self and not other,
+['ZH_T16_0682_002:0762c22_0']	如乾闥婆城，　　如雲亦如影，	如乾闥婆城，　　如雲亦如影，	Like a gandharva's castle, like clouds and also like a shadow,
+['ZH_T16_0682_002:0762c23_0']	復如熱時焰，　　亦如觀繪事，	復如熱時焰，　　亦如觀繪事，	Again like a mirage in the hot season, also like contemplating a painting,
+['ZH_T16_0682_002:0762c24_13']	相自於妄現，　　性淨離有無。	相自於妄現，　　性淨離有無。	The characteristics manifest from delusion, the nature is pure, free from existence and non-existence.
+['ZH_T16_0682_002:0762c25_0']	亦如盲與跛，　　相假而得行，	亦如盲與跛，　　相假而得行，	Also like a blind person and a lame person, relying on each other to walk,
+['ZH_T16_0682_002:0762c26_13']	自性無能持，　　凡愚身亦爾。	自性無能持，　　凡愚身亦爾。	The intrinsic nature is unable to uphold, the body of ordinary fools is also like this.
+['ZH_T16_0682_002:0762c27_0']	分析至極微，　　空名無實物，	分析至極微，　　空名無實物，	Analyzing down to the most subtle particles, empty names without real objects,
+['ZH_T16_0682_002:0762c28_13']	極微不可得，　　諸法亦如是。	極微不可得，　　諸法亦如是。	The most subtle particles cannot be obtained, all dharmas are also like this.
+['ZH_T16_0682_002:0762c29_0']	瑜伽淨慧者，　　作是思惟時，	瑜伽淨慧者，　　作是思惟時，	When the yogi of pure wisdom contemplates in this way,
+['ZH_T16_0682_002:0763a01_0']	便於色聲等，　　遠離於覺念，	便於色聲等，　　遠離於覺念，	Then with regard to form, sound, and so forth, he becomes free from conceptual thoughts,
+['ZH_T16_0682_002:0763a02_0']	一切意息已，　　泰然得解脫，	一切意息已，　　泰然得解脫，	Having ceased all mental activity, he is at ease and attains liberation,
+['ZH_T16_0682_002:0763a03_13']	不愛於有情，　　常樂於等持。	不愛於有情，　　常樂於等持。	Not attached to sentient beings, always delighting in meditative absorption.
+['ZH_T16_0682_002:0763a04_0']	設有諸天仙，　　姝麗女人等，	設有諸天仙，　　姝麗女人等，	Even if there are various celestial sages, beautiful women and so forth,
+['ZH_T16_0682_002:0763a05_13']	而來供養者，　　如觀夢無染。	而來供養者，　　如觀夢無染。	Those who come to make offerings are like observing a dream without attachment.
+['ZH_T16_0682_002:0763a06_0']	身雖住於此，　　外道不能見，	身雖住於此，　　外道不能見，	Although the body dwells here, non-Buddhists cannot see it,
+['ZH_T16_0682_002:0763a07_13']	持明與梵天，　　亦不覩其頂。	持明與梵天，　　亦不覩其頂。	The vidyadhara and Brahma also cannot see the crown of the head.
+['ZH_T16_0682_002:0763a08_0']	當生摩尼宮，　　自在而遊戲，	當生摩尼宮，　　自在而遊戲，	One will be born in the maṇi palace, freely playing and enjoying oneself,
+['ZH_T16_0682_002:0763a09_13']	與諸明妃眾，　　離欲常歡娛。	與諸明妃眾，　　離欲常歡娛。	Together with the assembly of vidyādhārīs, always happily indulging without desire.
+['ZH_T16_0682_002:0763a10_0']	此之觀行法，　　薩埵之境界，	此之觀行法，　　薩埵之境界，	This practice of visualization is the realm of the sattva,
+['ZH_T16_0682_002:0763a11_0']	仁應速修習，　　發於勇猛心，	仁應速修習，　　發於勇猛心，	You should quickly cultivate and give rise to a courageous mind,
+['ZH_T16_0682_002:0763a12_0']	當生光明宮，　　利益於三有，	當生光明宮，　　利益於三有，	You will be born in the palace of light, benefiting the three existences,
+['ZH_T16_0682_002:0763a13_0']	則斷貪欲分，　　及離瞋恚癡，	則斷貪欲分，　　及離瞋恚癡，	Then cutting off the part of craving, and leaving behind anger and delusion,
+['ZH_T16_0682_002:0763a14_13']	能詣大密嚴，　　寂靜殊勝處。	能詣大密嚴，　　寂靜殊勝處。	You will be able to go to the great secret and solemn, tranquil and sublime place.
+['ZH_T16_0682_002:0763a15_0']	彼無死境界，　　亦非識所行，	彼無死境界，　　亦非識所行，	That is the realm beyond death, also not the domain of consciousness,
+['ZH_T16_0682_002:0763a16_0']	遠離於諸相，　　非分別所得，	遠離於諸相，　　非分別所得，	Far removed from all characteristics, not attained through discrimination,
+['ZH_T16_0682_002:0763a17_0']	為此微妙處，　　瑜伽者相應，	為此微妙處，　　瑜伽者相應，	For this subtle place, the yogin is in accord,
+['ZH_T16_0682_002:0763a18_13']	是故修觀行，　　希求於彼土。	是故修觀行，　　希求於彼土。	Aspiring to that land.
+['ZH_T16_0682_002:0763a19_0']	既勝於貪恚，　　無我亦無人，	既勝於貪恚，　　無我亦無人，	Having overcome greed and anger, without self and also without person,
+['ZH_T16_0682_002:0763a20_0']	勝定汝應修，　　勿生於三毒，	勝定汝應修，　　勿生於三毒，	You should cultivate supreme concentration, do not give rise to the three poisons.
+['ZH_T16_0682_002:0763a21_13']	若執於境界，　　則有二覺生。	若執於境界，　　則有二覺生。	If you grasp at objects, then two kinds of cognition will arise.
+['ZH_T16_0682_002:0763a22_0']	猶如美女人，　　曼臉而縝髮，	猶如美女人，　　曼臉而縝髮，	Like a beautiful woman, with a lovely face and thick hair,
+['ZH_T16_0682_002:0763a23_0']	多欲者見已，　　愛著而思惟，	多欲者見已，　　愛著而思惟，	Those with much desire, upon seeing her, become attached and contemplate her,
+['ZH_T16_0682_002:0763a24_0']	迷惑生染覺，　　專想無餘念，	迷惑生染覺，　　專想無餘念，	Confused, giving rise to defiled cognition, single-mindedly thinking of nothing else,
+['ZH_T16_0682_002:0763a25_0']	行來及坐起，　　飲食與眠睡，	行來及坐起，　　飲食與眠睡，	Whether walking, coming, sitting, rising, eating, drinking, or sleeping,
+['ZH_T16_0682_002:0763a26_13']	彼女之容姿，　　常現於心想。	彼女之容姿，　　常現於心想。	The appearance of that woman always appears in the mind.
+['ZH_T16_0682_002:0763a27_0']	如此之惡慧，　　皆由妄境生，	如此之惡慧，　　皆由妄境生，	Such evil wisdom all arises from false objects,
+['ZH_T16_0682_002:0763a28_13']	溺在境淤泥，　　是故不應著。	溺在境淤泥，　　是故不應著。	Drowning in the mud of objects, therefore one should not be attached.
+['ZH_T16_0682_002:0763a29_0']	或如諸世間，　　邪慧妄分別，	或如諸世間，　　邪慧妄分別，	Or like in the world, with mistaken wisdom falsely discriminating,🔽Regarding cows, goats, sheep, deer,
+['ZH_T16_0682_002:0763b01_0']	於牛及山羊，　　設婆與麋鹿，	於牛及山羊，　　設婆與麋鹿，	and antelopes,
+['ZH_T16_0682_002:0763b02_0']	見彼有角故，　　執之以為實，	見彼有角故，　　執之以為實，	Seeing that there are horns, one takes them to be real,
+['ZH_T16_0682_002:0763b03_13']	而於彪兔等，　　便生無角解。	而於彪兔等，　　便生無角解。	And with respect to leopards, rabbits, and so forth, one then gives rise to the understanding that they have no horns.
+['ZH_T16_0682_002:0763b04_13']	若非見牛角，　　於兔寧執無？	若非見牛角，　　於兔寧執無？	If one does not see the horns of an ox, with respect to a rabbit how can one grasp at their non-existence?
+['ZH_T16_0682_002:0763b05_0']	世間亦復然，　　妄見有所得，	世間亦復然，　　妄見有所得，	The world is also like this - falsely seeing that there is something obtained,
+['ZH_T16_0682_002:0763b06_0']	後求體非實，　　便言法定無，	後求體非實，　　便言法定無，	Later seeking the essence that is not real, one then says that dharmas are definitely non-existent.
+['ZH_T16_0682_002:0763b07_13']	未捨分別來，　　常生是邪覺。	未捨分別來，　　常生是邪覺。	As long as one has not abandoned discrimination, one always gives rise to this false understanding.
+['ZH_T16_0682_002:0763b08_0']	仁應審觀察，　　心行諸境界，	仁應審觀察，　　心行諸境界，	You should carefully observe - the mind engages with various objects,
+['ZH_T16_0682_002:0763b09_13']	皆如妄所得，　　角與無角等。	皆如妄所得，　　角與無角等。	All like falsely obtained horns and non-horns, and so forth.
+['ZH_T16_0682_002:0763b10_0']	若諸修行者，　　能作如是觀，	若諸修行者，　　能作如是觀，	If all practitioners are able to cultivate such insight,
+['ZH_T16_0682_002:0763b11_0']	隨其所意樂，　　或作轉輪王，	隨其所意樂，　　或作轉輪王，	In accordance with their aspirations, they may become wheel-turning kings,
+['ZH_T16_0682_002:0763b12_13']	昇空而往還，　　具有大威力；	昇空而往還，　　具有大威力；	Ascending into the sky and going back and forth, possessing great power;
+['ZH_T16_0682_002:0763b13_0']	或生日月殿，　　及諸星宿宮，	或生日月殿，　　及諸星宿宮，	Or they may be born in the palaces of the sun, moon, and various stars,
+['ZH_T16_0682_002:0763b14_0']	四王忉利天，　　焰摩及兜率，	四王忉利天，　　焰摩及兜率，	The four heavenly kings, the Heaven of the Thirty-three, the Heaven of Yāma, and the Heaven of Tuṣita,
+['ZH_T16_0682_002:0763b15_13']	化樂與他化，　　摩尼寶殿中；	化樂與他化，　　摩尼寶殿中；	In the palaces of maṇi jewels in the Nirmāṇarati and Paranirmitavaśavartin heavens;
+['ZH_T16_0682_002:0763b16_0']	色界梵眾身，　　并十梵天處，	色界梵眾身，　　并十梵天處，	The bodies of the Brahmakāyika gods in the form realm, and the abodes of the ten Brahmalokas,
+['ZH_T16_0682_002:0763b17_0']	無煩及無熱，　　善見與善現，	無煩及無熱，　　善見與善現，	The heavens of Anavatapta, Atapa, Sudarśana, Sudṛśa,
+['ZH_T16_0682_002:0763b18_13']	阿迦尼吒宮，　　自在而遊戲；	阿迦尼吒宮，　　自在而遊戲；	The palace of Akaniṣṭha, freely playing;
+['ZH_T16_0682_002:0763b19_0']	空識無所有，　　非想非非想，	空識無所有，　　非想非非想，	The spheres of space, consciousness, nothingness, neither perception nor non-perception,
+['ZH_T16_0682_002:0763b20_0']	住彼漸除欲，　　乃至諸佛剎，	住彼漸除欲，　　乃至諸佛剎，	Dwelling there, gradually eliminating desires, up to the buddha-lands,
+['ZH_T16_0682_002:0763b21_13']	常遊微妙定，　　解脫之境界。	常遊微妙定，　　解脫之境界。	Always roaming in subtle samādhi, the realm of liberation.
+['ZH_T16_0682_002:0763b22_0']	譬如因破瓶，　　而乃成於瓦，	譬如因破瓶，　　而乃成於瓦，	It is like breaking a pot to make shards,
+['ZH_T16_0682_002:0763b23_13']	壞性剎那現，　　於常見無常；	壞性剎那現，　　於常見無常；	The nature of destruction appears in a moment, in the view of permanence, impermanence;
+['ZH_T16_0682_002:0763b24_13']	種子生於芽，　　芽生種已壞。	種子生於芽，　　芽生種已壞。	Seeds give rise to sprouts, the sprout arises and the seed is destroyed.
+['ZH_T16_0682_002:0763b25_0']	又如彼陶匠，　　以泥而作瓶，	又如彼陶匠，　　以泥而作瓶，	Also, like a potter, using clay to make a pot,
+['ZH_T16_0682_002:0763b26_13']	泥若是奢摩，　　瓶亦如其色；	泥若是奢摩，　　瓶亦如其色；	If the clay is śamatha, the pot is also the same color;🔽Sometimes the potter,
+['ZH_T16_0682_002:0763b27_0']	或時彼匠者，　　兼用雜色泥，	或時彼匠者，　　兼用雜色泥，	Using clay of various colors,
+['ZH_T16_0682_002:0763b28_13']	比至燒已成，　　各隨其泥色。	比至燒已成，　　各隨其泥色。	When burned, they become each according to their clay color.
+['ZH_T16_0682_002:0763b29_0']	從箭竹生葱，　　從角生於䔉，	從箭竹生葱，　　從角生於䔉，	From arrow bamboo grows scallion, from horn grows coriander,
+['ZH_T16_0682_002:0763c01_13']	穢蠅與敗蜜，　　各得生於蟲。	穢蠅與敗蜜，　　各得生於蟲。	From filthy flies and spoiled honey, each gives rise to worms.
+['ZH_T16_0682_002:0763c02_0']	當知世間果，　　似因不似因，	當知世間果，　　似因不似因，	One should know that worldly fruits, similar to causes or not similar to causes,
+['ZH_T16_0682_002:0763c03_0']	皆因變壞故，　　乃得生於果，	皆因變壞故，　　乃得生於果，	All arise from the transformation and destruction of causes, and then give rise to fruits.
+['ZH_T16_0682_002:0763c04_0']	眾塵成所作，　　體性不變壞，	眾塵成所作，　　體性不變壞，	The essence of things composed of various elements is not transformed or destroyed,
+['ZH_T16_0682_002:0763c05_13']	皆是世愚夫，　　而生妄分別。	皆是世愚夫，　　而生妄分別。	All this is the false discrimination of foolish worldly people.
+['ZH_T16_0682_002:0763c06_0']	能作我內我，　　勝我不可得，	能作我內我，　　勝我不可得，	The creator, my inner self, the supreme self cannot be attained,
+['ZH_T16_0682_002:0763c07_0']	亦無於意我，　　亦無積集因，	亦無於意我，　　亦無積集因，	There is also no self of the mind, and there are no accumulated causes,
+['ZH_T16_0682_002:0763c08_13']	及以親生因，　　不從識緣有。	及以親生因，　　不從識緣有。	And no direct causes, it does not exist from the conditions of consciousness.
+['ZH_T16_0682_002:0763c09_0']	智者之境界，　　善巧力所生，	智者之境界，　　善巧力所生，	The realm of the wise, born from the power of skillful means,
+['ZH_T16_0682_002:0763c10_0']	拔除煩惱刺，　　降魔并眷屬，	拔除煩惱刺，　　降魔并眷屬，	Pulls out the thorns of afflictions, subdues demons and their retinue,
+['ZH_T16_0682_002:0763c11_13']	世間貪愛盡，　　如蜜能消瘦。	世間貪愛盡，　　如蜜能消瘦。	Worldly greed and love exhausted, like honey can reduce thinness.
+['ZH_T16_0682_002:0763c12_0']	諸仙由有貪，　　流轉生諸趣，	諸仙由有貪，　　流轉生諸趣，	The sages, due to having craving, transmigrate and take birth in various realms,
+['ZH_T16_0682_002:0763c13_13']	多時所熏習，　　譬如瞋恚蛇。	多時所熏習，　　譬如瞋恚蛇。	Habituated over many lifetimes, like a venomous snake.
+['ZH_T16_0682_002:0763c14_0']	煩惱火燒然，　　流轉險惡趣，	煩惱火燒然，　　流轉險惡趣，	Burned by the fire of afflictions, transmigrating through dangerous evil destinies,
+['ZH_T16_0682_002:0763c15_13']	離貪即解脫，　　常勤修觀行。	離貪即解脫，　　常勤修觀行。	Free from craving, one is liberated, always diligently cultivating meditative practices.
+['ZH_T16_0682_002:0763c17_0']	爾時金剛藏，　　菩薩摩訶薩，	爾時金剛藏，　　菩薩摩訶薩，	At that time, Vajragarbha, the Bodhisattva Mahāsattva,
+['ZH_T16_0682_002:0763c18_5']	復告諸大眾：	復告諸大眾：	Again addressed the great assembly, saying:
+['ZH_T16_0682_002:0763c19_0']	我昔蒙佛力，　　加持得妙定，	我昔蒙佛力，　　加持得妙定，	I have in the past been empowered by the Buddha's power, and attained wondrous samādhi,
+['ZH_T16_0682_002:0763c20_13']	明見俱胝剎，　　修行世定者。	明見俱胝剎，　　修行世定者。	Clearly seeing koṭis of lands, those who cultivate worldly samādhis.
+['ZH_T16_0682_002:0763c21_0']	諸佛與佛子，　　清淨所住處，	諸佛與佛子，　　清淨所住處，	The Buddhas and their disciples, the pure abode,
+['ZH_T16_0682_002:0763c22_13']	於中唯密嚴，　　安樂最第一。	於中唯密嚴，　　安樂最第一。	Among them, only the Secret Adornment is most blissful and supreme.
+['ZH_T16_0682_002:0763c23_0']	諸佛坐蓮花，　　有如殊妙殿，	諸佛坐蓮花，　　有如殊妙殿，	The Buddhas sit on lotus flowers, like a wondrous palace,
+['ZH_T16_0682_002:0763c24_0']	我等從定起，　　一心以瞻仰，	我等從定起，　　一心以瞻仰，	We, having arisen from samādhi, single-mindedly look up in admiration,
+['ZH_T16_0682_002:0763c25_13']	自見住密嚴，　　佛子眾圍繞。	自見住密嚴，　　佛子眾圍繞。	Seeing ourselves dwelling in the Secret Adornment, surrounded by the assembly of Buddha's disciples.
+['ZH_T16_0682_002:0763c26_0']	復見解脫藏，　　住在於宮中，	復見解脫藏，　　住在於宮中，	I also saw the treasury of liberation, dwelling in the palace,
+['ZH_T16_0682_002:0763c27_0']	身量如指節，　　色相甚明朗，	身量如指節，　　色相甚明朗，	The size of his body like a finger joint, his appearance very bright and clear,
+['ZH_T16_0682_002:0763c28_13']	如空淨滿月，　　如阿恒思花。	如空淨滿月，　　如阿恒思花。	Like the pure full moon in the sky, like the flower of the ahengsi plant.
+['ZH_T16_0682_002:0763c29_5']	我即心自念：	我即心自念：	I then thought to myself:
+['ZH_T16_0682_002:0763c29_14']	　　『是誰難思事？	　　『是誰難思事？	Whose inconceivable matter is this?🔽I then saw my own body,
+['ZH_T16_0682_002:0764a01_0']	即便見已身，　　在於彼腹內，	即便見已身，　　在於彼腹內，	in his belly,🔽And also saw everywhere
+['ZH_T16_0682_002:0764a02_13']	亦於中普見，　　一切諸世間。	亦於中普見，　　一切諸世間。	all the worlds.🔽The Buddha's disciples in the lotus treasury,
+['ZH_T16_0682_002:0764a03_0']	蓮花藏佛子，　　以佛神力故，	蓮花藏佛子，　　以佛神力故，	by the Buddha's spiritual power,
+['ZH_T16_0682_002:0764a04_13']	亦皆如是見，　　咸歎不思議。	亦皆如是見，　　咸歎不思議。	also all saw like this, and all praised the inconceivability.
+['ZH_T16_0682_002:0764a05_0']	天中天作已，　　即攝威神力，	天中天作已，　　即攝威神力，	Having done so, the Buddha in heaven then withdrew his spiritual power,
+['ZH_T16_0682_002:0764a06_0']	大眾悉如故，　　希有妙難思，	大眾悉如故，　　希有妙難思，	and the great assembly was as before, the rare and wonderful was difficult to conceive,
+['ZH_T16_0682_002:0764a07_13']	瑜祇種種色，　　是佛之境界。	瑜祇種種色，　　是佛之境界。	the various colors of the yugi were the Buddha's realm.
+['ZH_T16_0682_002:0764a08_0']	諸仁應當知，　　佛昔為菩薩，	諸仁應當知，　　佛昔為菩薩，	You all should know that the Buddha, when he was a bodhisattva,🔽from that ground of joy,
+['ZH_T16_0682_002:0764a09_0']	從彼歡喜地，　　得至於離垢，	從彼歡喜地，　　得至於離垢，	reached the ground of freedom from defilements,
+['ZH_T16_0682_002:0764a10_0']	發光及焰慧，　　難勝與現前，	發光及焰慧，　　難勝與現前，	The grounds of Luminous, Blazing Wisdom, Hard to Conquer, and Manifesting,
+['ZH_T16_0682_002:0764a11_0']	遠行及不動，　　善慧法雲地，	遠行及不動，　　善慧法雲地，	Far-Going, Immovable, Excellent Wisdom, and Dharma Cloud,
+['ZH_T16_0682_002:0764a12_0']	獲得陀羅尼，　　生無盡句義，	獲得陀羅尼，　　生無盡句義，	Attaining dhāraṇīs, giving rise to inexhaustible meanings,
+['ZH_T16_0682_002:0764a13_0']	首楞嚴等定，　　及以意成身，	首楞嚴等定，　　及以意成身，	The śūraṃgama and other samādhis, as well as the body formed by intention,
+['ZH_T16_0682_002:0764a14_0']	細性與輕性，　　大性及意樂，	細性與輕性，　　大性及意樂，	Subtle nature, light nature, great nature, and delight,
+['ZH_T16_0682_002:0764a15_0']	尊貴欲壽等，　　獲斯八自在，	尊貴欲壽等，　　獲斯八自在，	Noble status, desires, lifespan, and so forth, attaining these eight masteries,
+['ZH_T16_0682_002:0764a16_13']	如應而顯現，　　遊戲於密嚴。	如應而顯現，　　遊戲於密嚴。	As appropriate, manifesting and playing in the Womb of Mystery.
+['ZH_T16_0682_002:0764a17_0']	名稱妙光明，　　功德皆成就，	名稱妙光明，　　功德皆成就，	Renown, wondrous light, and merits all accomplished,
+['ZH_T16_0682_002:0764a18_13']	轉復得清淨，　　現成等正覺。	轉復得清淨，　　現成等正覺。	Turning again to attain purity, manifesting perfect enlightenment.
+['ZH_T16_0682_002:0764a19_0']	化為佛菩薩，　　種種妙色像，	化為佛菩薩，　　種種妙色像，	Transforming into buddhas and bodhisattvas, various wondrous forms,
+['ZH_T16_0682_002:0764a20_0']	自然遍一切，　　而轉妙法輪，	自然遍一切，　　而轉妙法輪，	Naturally pervading everywhere, turning the wondrous Dharma wheel,
+['ZH_T16_0682_002:0764a21_0']	速令諸眾生，　　以智斷諸惑，	速令諸眾生，　　以智斷諸惑，	Swiftly enabling sentient beings to use wisdom to sever afflictions,
+['ZH_T16_0682_002:0764a22_13']	利樂諸趣已，　　還住密嚴中。	利樂諸趣已，　　還住密嚴中。	Benefiting and delighting all realms, then returning to dwell in the Womb of Mystery.
+['ZH_T16_0682_002:0764a23_0']	或有諸大士，　　見佛現身色，	或有諸大士，　　見佛現身色，	Some great beings see the Buddha manifesting his physical form,
+['ZH_T16_0682_002:0764a24_0']	莊嚴吉祥相，　　光明自然發，	莊嚴吉祥相，　　光明自然發，	Adorned with auspicious characteristics, his radiance naturally emitting,
+['ZH_T16_0682_002:0764a25_0']	熾盛如火聚，　　住於蓮花宮，	熾盛如火聚，　　住於蓮花宮，	Blazing like a mass of fire, dwelling in the lotus palace,
+['ZH_T16_0682_002:0764a26_0']	與諸觀行人，　　嬉遊安樂定，	與諸觀行人，　　嬉遊安樂定，	Together with practitioners of contemplation, playfully enjoying the bliss of concentration,
+['ZH_T16_0682_002:0764a27_13']	三摩地自在，　　處所最殊勝。	三摩地自在，　　處所最殊勝。	With mastery in samādhi, the abode most excellent.
+['ZH_T16_0682_002:0764a28_0']	或見於大樹，　　緊那羅王身，	或見於大樹，　　緊那羅王身，	Some see on the great tree the body of the kiṃnara king,
+['ZH_T16_0682_002:0764a29_0']	現於百千億，　　種種之變化，	現於百千億，　　種種之變化，	Manifesting hundreds of thousands of koṭis of various transformations,
+['ZH_T16_0682_002:0764b01_13']	光明皎如月，　　遍照諸國王。	光明皎如月，　　遍照諸國王。	His radiance as bright as the moon, illuminating all the kings of countries.
+['ZH_T16_0682_002:0764b02_0']	或見兜率天，　　無量諸佛子，	或見兜率天，　　無量諸佛子，	Some see in Tuṣita Heaven countless Buddha's disciples,
+['ZH_T16_0682_002:0764b03_0']	身如帝青色，　　功德相莊嚴，	身如帝青色，　　功德相莊嚴，	Their bodies the color of imperial blue, adorned with the characteristics of merit,
+['ZH_T16_0682_002:0764b04_0']	首飾摩尼冠，　　坐於殊勝殿，	首飾摩尼冠，　　坐於殊勝殿，	Their heads adorned with maṇi crowns, sitting in the most excellent hall,
+['ZH_T16_0682_002:0764b05_13']	光明普照耀，　　一切智通達。	光明普照耀，　　一切智通達。	Their radiance illuminating everywhere, penetrating all-knowing wisdom.
+['ZH_T16_0682_002:0764b06_0']	或見於普賢，　　具有大威力，	或見於普賢，　　具有大威力，	Some see Samantabhadra, endowed with great power,
+['ZH_T16_0682_002:0764b07_0']	得於一切智，　　四無礙辯才，	得於一切智，　　四無礙辯才，	Attaining omniscience and the four unobstructed eloquences,
+['ZH_T16_0682_002:0764b08_0']	身相現光明，　　獨勝無倫匹，	身相現光明，　　獨勝無倫匹，	The body's appearance manifests radiance, uniquely supreme and without compare,
+['ZH_T16_0682_002:0764b09_0']	住於滿月殿，　　密嚴之定海，	住於滿月殿，　　密嚴之定海，	Dwelling in the palace of the full moon, the ocean of the samādhi of the subtle and wondrous,
+['ZH_T16_0682_002:0764b10_13']	遍現眾色像，　　賢聖所稱歎。	遍現眾色像，　　賢聖所稱歎。	Universally manifesting various forms and appearances, praised by the sages and saints.
+['ZH_T16_0682_002:0764b11_0']	無量諸天眾，　　及乾闥婆等，	無量諸天眾，　　及乾闥婆等，	The immeasurable multitudes of devas, as well as the gandharvas and others,
+['ZH_T16_0682_002:0764b12_13']	明仙及國王，　　眷屬眾圍繞。	明仙及國王，　　眷屬眾圍繞。	The luminous sages and the kings, surrounded by their retinues and multitudes.
+['ZH_T16_0682_002:0764b13_0']	或見最勝子，　　并諸觀行師，	或見最勝子，　　并諸觀行師，	Sometimes seeing the supreme sons, as well as the meditation masters,
+['ZH_T16_0682_002:0764b14_0']	寂靜而住禪，　　儼如在睡眠，	寂靜而住禪，　　儼如在睡眠，	Quietly dwelling in meditation, dignified as if in sleep,
+['ZH_T16_0682_002:0764b15_0']	遠離於沈怠，　　順行諸佛教，	遠離於沈怠，　　順行諸佛教，	Far removed from indolence and negligence, following the Buddha's teachings,
+['ZH_T16_0682_002:0764b16_13']	勤苦而清羸，　　示同於外道。	勤苦而清羸，　　示同於外道。	Suffering and yet pure and emaciated, demonstrating the same as the non-Buddhists.
+['ZH_T16_0682_002:0764b17_0']	六欲及梵天，　　有頂至贍部，	六欲及梵天，　　有頂至贍部，	From the six desire heavens and the Brahma heavens, up to the peak of existence and down to Jambudvīpa,
+['ZH_T16_0682_002:0764b18_0']	於中而現化，　　多種之光明，	於中而現化，　　多種之光明，	Manifesting transformations within, with many kinds of radiance,
+['ZH_T16_0682_002:0764b19_13']	神通調御者，　　赫奕而熾盛。	神通調御者，　　赫奕而熾盛。	The one with spiritual powers and mastery, resplendent and blazing.
+['ZH_T16_0682_002:0764b20_0']	或見為導師，　　降胎并誕育，	或見為導師，　　降胎并誕育，	Or seeing them as guides, descending into the womb and being born,
+['ZH_T16_0682_002:0764b21_13']	出家修靜慮，　　乃至般涅槃。	出家修靜慮，　　乃至般涅槃。	Leaving home to cultivate meditative concentration, up to parinirvāṇa.
+['ZH_T16_0682_002:0764b22_0']	佛智不思議，　　一切皆圓滿，	佛智不思議，　　一切皆圓滿，	The Buddha's wisdom is inconceivable, all is perfect and complete,
+['ZH_T16_0682_002:0764b23_13']	得自在無畏，　　人天等歸依。	得自在無畏，　　人天等歸依。	Attaining mastery and fearlessness, humans, gods, and others take refuge.
+['ZH_T16_0682_002:0764b24_0']	仁者應當知，　　諸佛之體性，	仁者應當知，　　諸佛之體性，	You should know that the essence of the buddhas
+['ZH_T16_0682_002:0764b25_13']	智慧最無比，　　唯佛所能知。	智慧最無比，　　唯佛所能知。	Has wisdom that is incomparably supreme, only the Buddha can know it.
+['ZH_T16_0682_002:0764b26_0']	如釋迦已獲，　　人中勝師子，	如釋迦已獲，　　人中勝師子，	Just as Śākyamuni has already attained it, the supreme lion among humans,
+['ZH_T16_0682_002:0764b27_0']	汝等咸當得，　　生信勿懷疑，	汝等咸當得，　　生信勿懷疑，	You will all attain it, give rise to faith and do not harbor doubts,
+['ZH_T16_0682_002:0764b28_13']	信即為佛體，　　必當得解脫。	信即為佛體，　　必當得解脫。	Faith is precisely the essence of the Buddha, you will certainly attain liberation.
+['ZH_T16_0682_002:0764b29_0']	或為彼天主，　　及以諸粟散，	或為彼天主，　　及以諸粟散，	Or becoming the lord of the devas, or the various minor kings,
+['ZH_T16_0682_002:0764c01_0']	乃至生梵宮，　　而作轉輪王，	乃至生梵宮，　　而作轉輪王，	Up to being born in Brahmā's palace, becoming a wheel-turning king,
+['ZH_T16_0682_002:0764c02_0']	轉生蓮花藏，　　在彼佛會中，	轉生蓮花藏，　　在彼佛會中，	Transmigrating and being born in the lotus womb, in that Buddha assembly,
+['ZH_T16_0682_002:0764c03_13']	蓮花而化生，　　獲大精進力。	蓮花而化生，　　獲大精進力。	Born by transformation from a lotus flower, attaining the power of great vigor.
+['ZH_T16_0682_002:0764c04_0']	由此降魔眾，　　及欲熏習因，	由此降魔眾，　　及欲熏習因，	By this, the hordes of demons are subdued, and the causes of the perfuming of desire,
+['ZH_T16_0682_002:0764c05_0']	志意無怯弱，　　證成一道法，	志意無怯弱，　　證成一道法，	The mind is without timidity, and the Dharma of the One Path is realized,
+['ZH_T16_0682_002:0764c06_13']	紹繼於佛事，　　得王諸國土。	紹繼於佛事，　　得王諸國土。	Inheriting the Buddha's work, one obtains the lands of all countries.
+['ZH_T16_0682_002:0764c07_0']	若欲得作佛，　　當淨佛性道，	若欲得作佛，　　當淨佛性道，	If one wishes to become a Buddha, one should purify the Buddha-nature path,
+['ZH_T16_0682_002:0764c08_0']	種姓既淨已，　　諸佛即授記，	種姓既淨已，　　諸佛即授記，	Once the lineage is purified, the Buddhas will then give predictions,
+['ZH_T16_0682_002:0764c09_0']	瑜祇轉覺悟，　　不久當成佛，	瑜祇轉覺悟，　　不久當成佛，	The Yogis will awaken, and before long they will become Buddhas,
+['ZH_T16_0682_002:0764c10_13']	一切修行者，　　而為作依怙。	一切修行者，　　而為作依怙。	For all practitioners, they will become a refuge.🔽Just as the great earth
+['ZH_T16_0682_002:0764c11_0']	譬如彼大地，　　亦為眾所依，	譬如彼大地，　　亦為眾所依，	Is also the support of all,
+['ZH_T16_0682_002:0764c12_0']	如於妙行者，　　能療一切病，	如於妙行者，　　能療一切病，	Just as in the practice of the sublime, one is able to cure all illnesses,
+['ZH_T16_0682_002:0764c13_13']	覺者亦如是，　　能除虛妄疾。	覺者亦如是，　　能除虛妄疾。	The Awakened One is also like this, able to remove the illnesses of falsehood.
+['ZH_T16_0682_002:0764c14_0']	得無分別心，　　支解不傾動，	得無分別心，　　支解不傾動，	Obtaining the mind of non-discrimination, one is unmoved by mutilation,
+['ZH_T16_0682_002:0764c15_0']	內外之境界，　　了達皆唯識，	內外之境界，　　了達皆唯識，	The inner and outer realms are thoroughly understood to be only consciousness,
+['ZH_T16_0682_002:0764c16_13']	能遠離於我，　　亦離於我所。	能遠離於我，　　亦離於我所。	One is able to be apart from the self and also apart from what belongs to the self.
+['ZH_T16_0682_002:0764c17_0']	無能害所害，　　及以於害具，	無能害所害，　　及以於害具，	There is no one who is harmed, nor anything that is harmed, nor any instrument of harm,
+['ZH_T16_0682_002:0764c18_0']	一切悉皆是，　　意識之境界，	一切悉皆是，　　意識之境界，	All of these are the objects of the mental consciousness,
+['ZH_T16_0682_002:0764c19_13']	皆依阿賴耶，　　如是妄分別。	皆依阿賴耶，　　如是妄分別。	All depend on the ālaya-vijñāna, thus falsely discriminated.
+['ZH_T16_0682_002:0764c20_0']	如珠合日光，　　相感而生火，	如珠合日光，　　相感而生火，	Like a jewel combining with sunlight, they attract each other and give rise to fire,
+['ZH_T16_0682_002:0764c21_13']	此火非珠出，　　亦非從日生。	此火非珠出，　　亦非從日生。	This fire does not come from the jewel, nor is it born from the sun.
+['ZH_T16_0682_002:0764c22_0']	心意識亦爾，　　根境意和合，	心意識亦爾，　　根境意和合，	The mind, thought, and consciousness are also like this, the faculties, objects, and manas combine,
+['ZH_T16_0682_002:0764c23_13']	能生於諸心，　　如海起波浪。	能生於諸心，　　如海起波浪。	Able to give rise to various minds, like waves arising in the ocean.
+['ZH_T16_0682_002:0764c24_0']	此性非陽焰，　　亦非於夢幻，	此性非陽焰，　　亦非於夢幻，	This nature is not like a mirage, nor is it like a dream or illusion,
+['ZH_T16_0682_002:0764c25_0']	非同如是等，　　迷惑之所取，	非同如是等，　　迷惑之所取，	Not the same as these kinds of deluded grasping,
+['ZH_T16_0682_002:0764c26_13']	非同龜鼃毛，　　及與於兔角。	非同龜鼃毛，　　及與於兔角。	Not the same as a tortoise's hair, or a rabbit's horns.
+['ZH_T16_0682_002:0764c27_0']	又如雷電合，　　震發而生火，	又如雷電合，　　震發而生火，	Also, like thunder and lightning combining, they shake and give rise to fire,🔽Does this fire come from water,
+['ZH_T16_0682_002:0764c28_0']	此火為從水，　　為從雷電生，	此火為從水，　　為從雷電生，	Or is it born from thunder and lightning?
+['ZH_T16_0682_002:0764c29_13']	竟無有定知，　　此火從生處。	竟無有定知，　　此火從生處。	In the end there is no definite knowledge, this fire has a place of origin.
+['ZH_T16_0682_002:0765a01_0']	如火為從水，　　造作於瓶等，	如火為從水，　　造作於瓶等，	Just as fire is used to create pots and other things,
+['ZH_T16_0682_002:0765a02_0']	欲等諸心法，　　與心而共生，	欲等諸心法，　　與心而共生，	The mental factors such as desire arise together with the mind,
+['ZH_T16_0682_002:0765a03_13']	和合無定性，　　當知亦如是。	和合無定性，　　當知亦如是。	Their combination has no fixed nature, and one should know they are also like this.
+['ZH_T16_0682_002:0765a04_0']	心境不思議，　　密嚴者知見，	心境不思議，　　密嚴者知見，	The inconceivable mind and objects are known and seen by those in the Womb of the Tathāgata,
+['ZH_T16_0682_002:0765a05_0']	有情之藏護，　　無始妙俱生，	有情之藏護，　　無始妙俱生，	The repository of sentient beings, protected, beginningless, and wondrously born together,
+['ZH_T16_0682_002:0765a06_0']	如涅槃虛空，　　擇滅無為性，	如涅槃虛空，　　擇滅無為性，	Like nirvāṇa, space, and the nature of cessation through discernment,
+['ZH_T16_0682_002:0765a07_13']	遠離於三世，　　清淨常圓滿。	遠離於三世，　　清淨常圓滿。	Far removed from the three times, pure and always perfect.
+['ZH_T16_0682_002:0765a08_0']	如月有虧盈，　　顯現諸國土，	如月有虧盈，　　顯現諸國土，	Just as the moon has waxing and waning, manifesting the various lands,
+['ZH_T16_0682_002:0765a09_13']	循環體是一，　　其性無增減；	循環體是一，　　其性無增減；	The cycle is of one substance, its nature without increase or decrease;
+['ZH_T16_0682_002:0765a10_0']	愚夫所分別，　　見月有增減，	愚夫所分別，　　見月有增減，	Fools discriminate, seeing the moon as waxing and waning,
+['ZH_T16_0682_002:0765a11_13']	往來於四洲，　　而實無盈缺。	往來於四洲，　　而實無盈缺。	Circling the four continents, yet in reality without fullness or deficiency.
+['ZH_T16_0682_002:0765a12_0']	如是之藏識，　　普現有情界，	如是之藏識，　　普現有情界，	In this way, the store consciousness universally manifests the realm of sentient beings,
+['ZH_T16_0682_002:0765a13_13']	其體無增減，　　圓潔常光明；	其體無增減，　　圓潔常光明；	Its substance without increase or decrease, pure and always radiant;
+['ZH_T16_0682_002:0765a14_0']	愚夫妄分別，　　恒於賴耶識，	愚夫妄分別，　　恒於賴耶識，	The foolish falsely discriminate, always regarding the ālaya consciousness,
+['ZH_T16_0682_002:0765a15_13']	計著有增減，　　應知亦如是。	計著有增減，　　應知亦如是。	As having increase and decrease, one should know it is also like this.
+['ZH_T16_0682_002:0765a16_0']	若有於此識，　　能正而了知，	若有於此識，　　能正而了知，	If there is anyone who can correctly understand this consciousness,
+['ZH_T16_0682_002:0765a17_0']	即便得無漏，　　轉依位差別，	即便得無漏，　　轉依位差別，	Then one will attain the stage of the distinction of the transformation of the basis free from outflows,
+['ZH_T16_0682_002:0765a18_13']	如是差別法，　　得者甚為難。	如是差別法，　　得者甚為難。	Such a distinguished dharma is very difficult to attain.
+['ZH_T16_0682_002:0765a19_0']	藏識亦如是，　　與七識俱轉，	藏識亦如是，　　與七識俱轉，	The store consciousness is also like this, turning together with the seven consciousnesses,
+['ZH_T16_0682_002:0765a20_13']	熏習以相應，　　體性而無染。	熏習以相應，　　體性而無染。	Perfuming and being in accord, its essence is undefiled.
+['ZH_T16_0682_002:0765a21_0']	猶如河中木，　　隨水以漂流，	猶如河中木，　　隨水以漂流，	Just as a piece of wood in a river is carried along by the water,
+['ZH_T16_0682_002:0765a22_13']	而木與於流，　　體相各差別。	而木與於流，　　體相各差別。	While the wood and the current have different appearances,
+['ZH_T16_0682_002:0765a23_0']	藏識亦如是，　　諸識習氣俱，	藏識亦如是，　　諸識習氣俱，	The store consciousness is also like this, together with the habitual energies of the various consciousnesses,
+['ZH_T16_0682_002:0765a24_13', 'ZH_T16_0682_002:0765a25_0']	而恒性清淨，　　不為其所業。🔽清淨與雜染，　　皆依阿賴耶，	而恒性清淨，　　不為其所業。 清淨與雜染，　　皆依阿賴耶，	Yet it is always of pure nature, not being affected by them.🔽Purity and defilement both depend on the ālaya,
+['ZH_T16_0682_002:0765a26_0']	聖者現法樂，　　等引之境界，	聖者現法樂，　　等引之境界，	The realm of samādhi and equanimity in the present life of the sages,
+['ZH_T16_0682_002:0765a27_0']	人天等諸趣，　　一切佛剎土，	人天等諸趣，　　一切佛剎土，	The various destinies of humans, gods, and so forth, and all the buddha lands,
+['ZH_T16_0682_002:0765a28_0']	如是染淨法，　　如來藏為因，	如是染淨法，　　如來藏為因，	Such defiled and pure dharmas, the tathāgatagarbha is the cause.
+['ZH_T16_0682_002:0765a29_13']	由彼悟成佛，　　為諸乘種性。	由彼悟成佛，　　為諸乘種性。	By realizing it, one becomes a buddha, and is the seed nature of all vehicles.
+['ZH_T16_0682_002:0765b01_0']	一切諸眾生，　　有具於威力，	一切諸眾生，　　有具於威力，	All sentient beings possess powerful abilities,
+['ZH_T16_0682_002:0765b02_0']	自在諸功德，　　殊勝諸吉祥，	自在諸功德，　　殊勝諸吉祥，	Sovereign and various merits, and supreme auspiciousness,
+['ZH_T16_0682_002:0765b03_0']	乃至險惡處，　　上中下差別，	乃至險惡處，　　上中下差別，	Even in dangerous and evil places, there are distinctions of superior, middling, and inferior,
+['ZH_T16_0682_002:0765b04_13']	賴耶恒住中，　　遍為作依止。	賴耶恒住中，　　遍為作依止。	The ālaya-vijñāna always abides within, universally acting as a support.🔽All of these are the fruits of sentient beings,
+['ZH_T16_0682_002:0765b05_0']	悉是諸有情，　　無始時來果，	悉是諸有情，　　無始時來果，	Coming from beginningless time,
+['ZH_T16_0682_002:0765b06_0']	以諸業習氣，　　而能自增長，	以諸業習氣，　　而能自增長，	By the perfuming of various karmas, it is able to self-increase,🔽And also increase
+['ZH_T16_0682_002:0765b07_13']	亦復而增長，　　所餘之七識。	亦復而增長，　　所餘之七識。	The remaining seven consciousnesses.
+['ZH_T16_0682_002:0765b08_0']	由是之愚夫，　　執以為內我，	由是之愚夫，　　執以為內我，	Because of this, the foolish grasp it as the inner self,
+['ZH_T16_0682_002:0765b09_13']	能作所依我，　　輪迴於生死。	能作所依我，　　輪迴於生死。	Causing the self to be the support, and transmigrating in birth and death.
+['ZH_T16_0682_002:0765b10_0']	意識在身中，　　迅疾如風轉，	意識在身中，　　迅疾如風轉，	The mental consciousness abides within the body, swiftly turning like the wind,
+['ZH_T16_0682_002:0765b11_0']	業風所吹動，　　遍住於諸根，	業風所吹動，　　遍住於諸根，	Blown by the wind of karma, it moves and abides in all the faculties,
+['ZH_T16_0682_002:0765b12_13']	常與七識俱，　　流轉如波浪。	常與七識俱，　　流轉如波浪。	Always together with the seven consciousnesses, flowing and turning like waves.
+['ZH_T16_0682_002:0765b13_0']	微塵與勝性，　　自在及時方，	微塵與勝性，　　自在及時方，	Atoms, the supreme nature, self-mastery, time and space,
+['ZH_T16_0682_002:0765b14_13']	悉是淨賴耶，　　於中妄分別。	悉是淨賴耶，　　於中妄分別。	Are all the pure ālaya-vijñāna, falsely discriminated within it.
+['ZH_T16_0682_002:0765b15_0']	賴耶由業力，　　及愛以為因，	賴耶由業力，　　及愛以為因，	The ālaya-vijñāna, by the power of karma and craving as its cause,
+['ZH_T16_0682_002:0765b16_13']	成就諸世間，　　種種之品類；	成就諸世間，　　種種之品類；	Accomplishes the various kinds of worlds;
+['ZH_T16_0682_002:0765b17_13']	愚夫恒不了，　　執之為作者。	愚夫恒不了，　　執之為作者。	Fools are always unable to understand, grasping it as the creator.
+['ZH_T16_0682_002:0765b18_0']	此識之體相，　　微細甚難知，	此識之體相，　　微細甚難知，	The essence of this consciousness is subtle and very difficult to know,
+['ZH_T16_0682_002:0765b19_0']	未見於真實，　　心迷不能覺，	未見於真實，　　心迷不能覺，	Before seeing the truth, the mind is confused and unable to perceive,
+['ZH_T16_0682_002:0765b20_13']	常於根境意，　　而生於愛著。	常於根境意，　　而生於愛著。	Always giving rise to attachment to the faculties, objects, and mind.
+['ZH_T16_0682_002:0765b21_5']	」金剛藏復言：	」金剛藏復言：	 Vajra Treasury further said:
+['ZH_T16_0682_002:0765b21_14']	　　「無畏諸佛子！	　　「無畏諸佛子！	Fearless Buddha's disciples!
+['ZH_T16_0682_002:0765b22_0']	如是賴耶體，　　云何不見聞，	如是賴耶體，　　云何不見聞，	How is it that the essence of the ālaya-vijñāna is neither seen nor heard,
+['ZH_T16_0682_002:0765b23_0']	眾身之所依，　　性淨恒無染，	眾身之所依，　　性淨恒無染，	The basis of the many bodies, its nature always pure and undefiled,
+['ZH_T16_0682_002:0765b24_0']	具足三十二，　　佛相及輪王，	具足三十二，　　佛相及輪王，	Endowed with the thirty-two marks, of a buddha and a wheel-turning king,
+['ZH_T16_0682_002:0765b25_13']	遍於三界中，　　而現種種色。	遍於三界中，　　而現種種色。	Universally in the three realms, manifesting various colors.
+['ZH_T16_0682_002:0765b26_0']	猶如淨空月，　　眾星所環繞，	猶如淨空月，　　眾星所環繞，	Just like the pure moon in the sky, surrounded by the myriad stars,
+['ZH_T16_0682_002:0765b27_13']	藏識與諸識，　　住身亦如是。	藏識與諸識，　　住身亦如是。	The store consciousness and the various consciousnesses abide in the body, also like this.
+['ZH_T16_0682_002:0765b28_0']	亦如欲天主，　　天女眾圍繞，	亦如欲天主，　　天女眾圍繞，	Also like the lord of the desire heavens, surrounded by multitudes of celestial maidens,
+['ZH_T16_0682_002:0765b29_13']	顯於寶宮殿，　　藏識亦如是。	顯於寶宮殿，　　藏識亦如是。	Manifesting in the jeweled palace, the store consciousness is also like this.
+['ZH_T16_0682_002:0765c01_0']	如江海諸神，　　水中而自在，	如江海諸神，　　水中而自在，	Like the spirits of the rivers and seas, freely in the water,
+['ZH_T16_0682_002:0765c02_13']	藏識處於世，　　當知亦如是。	藏識處於世，　　當知亦如是。	The store consciousness abiding in the world, one should know it is also like this.
+['ZH_T16_0682_002:0765c03_0']	如龍依水天，　　如百川歸海，	如龍依水天，　　如百川歸海，	Like the dragon relying on the water, like the myriad streams returning to the sea,
+['ZH_T16_0682_002:0765c04_13']	如樹王依地，　　現心亦如是。	如樹王依地，　　現心亦如是。	Like the king of trees relying on the earth, manifesting the mind is also like this.
+['ZH_T16_0682_002:0765c05_0']	如日在宮殿，　　旋繞妙高山，	如日在宮殿，　　旋繞妙高山，	Like the sun in the palace, circling around Mount Sumeru,
+['ZH_T16_0682_002:0765c06_13']	諸天皆敬禮，　　佛地心亦爾。	諸天皆敬禮，　　佛地心亦爾。	The myriad heavens all pay homage, the buddha ground mind is also like this.
+['ZH_T16_0682_002:0765c07_0']	十種諸地中，　　修行一切行，	十種諸地中，　　修行一切行，	In the ten kinds of grounds, cultivating all practices,
+['ZH_T16_0682_002:0765c08_0']	在於菩薩身，　　顯現於大海，	在於菩薩身，　　顯現於大海，	Manifesting in the bodies of bodhisattvas, appearing in the great ocean,
+['ZH_T16_0682_002:0765c09_0']	遍利與安樂，　　如來常稱讚，	遍利與安樂，　　如來常稱讚，	Universally benefiting and bringing happiness, always praised by the Tathāgata,
+['ZH_T16_0682_002:0765c10_13']	地地皆清淨，　　故號為佛子。	地地皆清淨，　　故號為佛子。	Each stage is pure, therefore called the Buddha's disciples.
+['ZH_T16_0682_002:0765c11_0']	在於菩薩身，　　是即名菩薩，	在於菩薩身，　　是即名菩薩，	Existing in the bodies of bodhisattvas, this is called the bodhisattva,
+['ZH_T16_0682_002:0765c12_13']	佛與諸菩薩，　　皆是賴耶名。	佛與諸菩薩，　　皆是賴耶名。	The Buddha and all bodhisattvas are all called the storehouse consciousness.
+['ZH_T16_0682_002:0765c13_0']	佛及最勝子，　　已授當授記，	佛及最勝子，　　已授當授記，	The Buddha and the supreme disciples have received and will receive predictions,
+['ZH_T16_0682_002:0765c14_13']	廣大阿賴耶，　　當成等正覺。	廣大阿賴耶，　　當成等正覺。	The vast storehouse consciousness will attain perfect enlightenment.
+['ZH_T16_0682_002:0765c15_0']	即此賴耶體，　　密嚴者能見，	即此賴耶體，　　密嚴者能見，	This very essence of the storehouse consciousness can be seen by those in the Womb of the Tathāgata,
+['ZH_T16_0682_002:0765c16_13']	由最勝瑜伽，　　妙定相應故。	由最勝瑜伽，　　妙定相應故。	Because of the supreme yoga, in accord with the wondrous samādhi.
+['ZH_T16_0682_002:0765c17_0']	諸佛與緣覺，　　聲聞及外道，	諸佛與緣覺，　　聲聞及外道，	The buddhas, pratyekabuddhas, śrāvakas, and non-Buddhists,
+['ZH_T16_0682_002:0765c18_13']	證理無畏人，　　所觀皆此識。	證理無畏人，　　所觀皆此識。	Those who have realized the truth and are fearless, all observe this consciousness.
+['ZH_T16_0682_002:0765c19_0']	種種諸識境，　　皆從心所變，	種種諸識境，　　皆從心所變，	The various realms of consciousness are all transformations of the mind,
+['ZH_T16_0682_002:0765c20_0']	瓶衣等眾物，　　如是性皆無，	瓶衣等眾物，　　如是性皆無，	Vessels, clothing, and other things, their natures are all nonexistent,
+['ZH_T16_0682_002:0765c21_0']	悉依阿賴耶，　　所見皆迷惑，	悉依阿賴耶，　　所見皆迷惑，	All depend on the ālaya, what is seen is all deluded,
+['ZH_T16_0682_002:0765c22_13']	謂以諸熏習，　　妄生能所取。	謂以諸熏習，　　妄生能所取。	It is said that through various perfuming, the deluded give rise to subject and object.
+['ZH_T16_0682_002:0765c23_0']	體非如幻化，　　非陽焰毛輪，	體非如幻化，　　非陽焰毛輪，	The essence is not like an illusion or transformation, not like a mirage or a hair wheel,
+['ZH_T16_0682_002:0765c24_0']	非生非不生，　　空性空遠離，	非生非不生，　　空性空遠離，	Not arising and not non-arising, the nature of emptiness is empty and far removed,
+['ZH_T16_0682_002:0765c25_13']	有無皆無性，　　長短等亦然。	有無皆無性，　　長短等亦然。	Existence and non-existence are both without nature, long and short are also like this.
+['ZH_T16_0682_002:0765c26_0']	智者觀幻事，　　此皆唯幻術，	智者觀幻事，　　此皆唯幻術，	The wise observe illusory phenomena, all of this is only illusory arts,
+['ZH_T16_0682_002:0765c27_13']	未曾有一物，　　與幻而同起。	未曾有一物，　　與幻而同起。	Never has there been a single thing that arises together with an illusion.
+['ZH_T16_0682_002:0765c28_0']	有情所分別，　　如幻而可見，	有情所分別，　　如幻而可見，	Sentient beings' discriminations can be seen like an illusion,
+['ZH_T16_0682_002:0765c29_0']	陽焰毛輪相，　　二俱不可得，	陽焰毛輪相，　　二俱不可得，	A mirage and the appearance of a hair wheel, both are unobtainable,
+['ZH_T16_0682_002:0766a01_13']	離一亦無二，　　無過世當世。	離一亦無二，　　無過世當世。	Apart from one, there is no two, there is no past or future.
+['ZH_T16_0682_002:0766a02_0']	此皆識變異，　　無幻無幻名，	此皆識變異，　　無幻無幻名，	This is all the transformation of consciousness, no illusion and no name of illusion,
+['ZH_T16_0682_002:0766a03_13']	諸性無所得，　　是幻幻所作。	諸性無所得，　　是幻幻所作。	All natures are unobtainable, this is the illusion created by an illusion.
+['ZH_T16_0682_002:0766a04_0']	世間有迷惑，　　其心不自在，	世間有迷惑，　　其心不自在，	The world has delusion, their minds are not free,
+['ZH_T16_0682_002:0766a05_0']	妄說有能幻，　　幻成種種物，	妄說有能幻，　　幻成種種物，	Falsely speaking of having the ability to conjure, conjuring various things,
+['ZH_T16_0682_002:0766a06_0']	動搖及往來，　　雖見皆非實，	動搖及往來，　　雖見皆非實，	Shaking and moving, coming and going, although seen, all are not real,
+['ZH_T16_0682_002:0766a07_13']	如鐵因磁石，　　所向而轉移。	如鐵因磁石，　　所向而轉移。	Like iron following a magnet, turning in response to it.
+['ZH_T16_0682_002:0766a08_0']	藏識亦如是，　　隨於分別種，	藏識亦如是，　　隨於分別種，	The store consciousness is also like this, following the seeds of discrimination,
+['ZH_T16_0682_002:0766a09_13']	一切諸世間，　　無處不周遍。	一切諸世間，　　無處不周遍。	All the various worlds, there is no place it does not pervade.
+['ZH_T16_0682_002:0766a10_0']	如日摩尼寶，　　無思及分別，	如日摩尼寶，　　無思及分別，	Like the sun and a maṇi jewel, without thought or discrimination,
+['ZH_T16_0682_002:0766a11_13']	此識遍諸處，　　見之謂流轉。	此識遍諸處，　　見之謂流轉。	This consciousness pervades all places, seeing it is called samsara.
+['ZH_T16_0682_002:0766a12_0']	不死亦不生，　　本非流轉法，	不死亦不生，　　本非流轉法，	Not dead and not born, originally not a dharma of samsara,
+['ZH_T16_0682_002:0766a13_13']	如夢見生死，　　覺悟即解脫。	如夢見生死，　　覺悟即解脫。	Like dreaming of birth and death, awakening is liberation.
+['ZH_T16_0682_002:0766a14_0']	佛子若轉依，　　即名解脫者，	佛子若轉依，　　即名解脫者，	If the Buddha's disciples transform the basis, they are called liberated ones,
+['ZH_T16_0682_002:0766a15_13', 'ZH_T16_0682_002:0766a16_0']	此即是諸佛，　　最勝之教理。🔽審量一切法，　　如稱如明鏡，	此即是諸佛，　　最勝之教理。 審量一切法，　　如稱如明鏡，	This is precisely the most supreme teaching principle of the buddhas.🔽Carefully measuring all dharmas, like a scale, like a bright mirror,
+['ZH_T16_0682_002:0766a17_0']	照曜如明燈，　　試驗如金石，	照曜如明燈，　　試驗如金石，	Illuminating like a bright lamp, testing like gold and stone,
+['ZH_T16_0682_002:0766a18_13']	正道之標相，　　遠離於斷滅。	正道之標相，　　遠離於斷滅。	Far removed from annihilation.🔽Those who cultivate supreme concentration,
+['ZH_T16_0682_002:0766a19_0']	修習勝定者，　　皆由清淨因，	修習勝定者，　　皆由清淨因，	All by means of pure causes,
+['ZH_T16_0682_002:0766a20_13']	令離諸雜染，　　轉依而顯現。	令離諸雜染，　　轉依而顯現。	Causing one to be free from all defilements, and the dependent origination becomes manifest.Here is the corrected and aligned text:
+['ZH_T16_0682_002:0766a21_100']	」大乘密嚴經卷中	」大乘密嚴經卷中	The Mahāyāna-garbha-saṃdhi-vyūha Sūtra, fascicle 2

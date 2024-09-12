@@ -1,0 +1,801 @@
+segmentnr	original	analyzed	translated
+['ZH_T30_1564_001:0001a03_0']	中論卷第一	中論卷第一	Middle Treatise, Scroll 1
+['ZH_T30_1564_001:0001a05_0']	釋僧叡序釋僧叡序	釋僧叡序釋僧叡序	Preface by Shi Sengrui, Preface by Shi Sengrui
+['ZH_T30_1564_001:0001a06_0']	《中論》有五百偈，龍樹菩薩之所造也。以中為	《中論》有五百偈，龍樹菩薩之所造也。以中為	The Middle Treatise has five hundred verses, composed by Nāgârjuna Bodhisattva. The reason it is called Middle
+['ZH_T30_1564_001:0001a07_7']	名者，照其實也；	名者，照其實也；	is because it illuminates reality;
+['ZH_T30_1564_001:0001a07_18']	以論為稱者，盡其言也。	以論為稱者，盡其言也。	the reason it is called Treatise is because it exhausts its words.
+['ZH_T30_1564_001:0001a08_12']	實非名不悟，故寄中以宣之；	實非名不悟，故寄中以宣之；	Reality cannot be understood without a name, so it relies on the middle to proclaim it;
+['ZH_T30_1564_001:0001a09_8']	言非釋不盡，故假論以明之。	言非釋不盡，故假論以明之。	words cannot be exhausted without explanation, so it relies on the treatise to clarify it.
+['ZH_T30_1564_001:0001a10_14']	其實既宣、其言既明，於菩薩之行、道場之照朗然懸解矣。	其實既宣、其言既明，於菩薩之行、道場之照朗然懸解矣。	When reality is proclaimed and words are clarified, the bodhisattva's practice and the illumination of the Way-place are suddenly understood.
+['ZH_T30_1564_001:0001a11_11']	夫滯惑生於倒見，三界以之而淪溺；	夫滯惑生於倒見，三界以之而淪溺；	Delusion arises from inverted views, and the three realms are drowned in it;
+['ZH_T30_1564_001:0001a12_7']	偏悟起於厭智，耿介以之而致乖。	偏悟起於厭智，耿介以之而致乖。	One-sided enlightenment arises from the wisdom of disgust, and uprightness leads to deviation.
+['ZH_T30_1564_001:0001a16_2']	故知大覺在乎曠照、小智纏乎隘心，照之不曠則不足以夷有無一道俗、知之不盡則未可以涉中途泯二際，道俗之不夷、二際之不泯，菩薩之憂也。	故知大覺在乎曠照、小智纏乎隘心，照之不曠則不足以夷有無一道俗、知之不盡則未可以涉中途泯二際，道俗之不夷、二際之不泯，菩薩之憂也。	Therefore, we know that great enlightenment lies in vast illumination, while lesser wisdom is confined to narrow thoughts. If illumination is not vast, it is insufficient to level the one path of existence and nonexistence, and if knowledge is not exhaustive, it is not yet able to traverse the middle way and obliterate the two ends. The non-leveling of the path of existence and nonexistence, and the non-obliteration of the two ends, are the worries of the bodhisattvas.
+['ZH_T30_1564_001:0001a17_8']	是以龍樹大士，析之以中道，使惑趣之徒望玄指而一變；	是以龍樹大士，析之以中道，使惑趣之徒望玄指而一變；	Therefore, the great sage Nāgârjuna analyzes it with the middle way, causing those who pursue delusion to change with a single glance at the profound pointer;
+['ZH_T30_1564_001:0001a18_8']	括之以即化，令玄悟之賓喪諮詢於朝徹。	括之以即化，令玄悟之賓喪諮詢於朝徹。	He summarizes it with the transformation, causing guests of profound enlightenment to lose their inquiries in the morning and evening.
+['ZH_T30_1564_001:0001a20_8']	蕩蕩焉，真可謂坦夷路於沖階、敞玄門於宇內，扇慧風於陳枚、流甘露於枯悴者矣。	蕩蕩焉，真可謂坦夷路於沖階、敞玄門於宇內，扇慧風於陳枚、流甘露於枯悴者矣。	Vast and expansive, it can truly be said to level the path in the void, open the gate of mysteries within the universe, fan the wind of wisdom among the myriad things, and pour the sweet dew on the withered and emaciated.
+['ZH_T30_1564_001:0001a22_2']	夫百樑之搆興則鄙茅茨之仄陋，覩斯論之宏曠則知偏悟之鄙倍。	夫百樑之搆興則鄙茅茨之仄陋，覩斯論之宏曠則知偏悟之鄙倍。	When the construction of a hundred-beam building begins, it disparages the narrow and humble thatched hut. Seeing the vastness of this treatise, one knows that biased enlightenment is a hundred times more contemptible.
+['ZH_T30_1564_001:0001a23_1']	幸哉此區之赤縣，忽得移靈鷲以作鎮；	幸哉此區之赤縣，忽得移靈鷲以作鎮；	Fortunate is this red region, which suddenly obtains the establishment of Vulture Peak;
+['ZH_T30_1564_001:0001a23_15']	險陂之邊情，乃蒙流光之餘惠。	險陂之邊情，乃蒙流光之餘惠。	The feelings of those on the edge of dangerous swamps are now blessed with the remaining grace of the flowing light.
+['ZH_T30_1564_001:0001a24_12']	而今而後，談道之賢始可與論實矣。	而今而後，談道之賢始可與論實矣。	From now on, the virtuous ones who discuss the Way can finally discuss the truth.
+['ZH_T30_1564_001:0001a26_12']	云天竺諸國敢預學者之流，無不翫味斯論以為喉衿，其染翰申釋者甚亦不少。	云天竺諸國敢預學者之流，無不翫味斯論以為喉衿，其染翰申釋者甚亦不少。	It is said that in the various countries of India, all those who engage in study do not fail to savor this treatise and consider it the essence. There are also quite a few who have written commentaries to expound it.
+['ZH_T30_1564_001:0001a28_1']	今所出者，是天竺梵志名賓伽羅、秦言青目之所釋也。	今所出者，是天竺梵志名賓伽羅、秦言青目之所釋也。	What is presented now is the commentary by the Indian Brahmin named Pingala, which means blue-eyed in Chinese.
+['ZH_T30_1564_001:0001b01_11']	其人雖信解深法而辭不雅中，其中乖闕煩重者法師皆裁而裨之，於經通之理盡矣，文或左右未盡善也。	其人雖信解深法而辭不雅中，其中乖闕煩重者法師皆裁而裨之，於經通之理盡矣，文或左右未盡善也。	Although that person had faith and understanding of the profound Dharma, his words were not elegant or moderate. The Dharma Master has edited and supplemented the parts that were incomplete, lacking, verbose, or repetitive, and has made them consistent with the sutra. The meaning is complete, but the wording may still be left and right, not yet perfect.
+['ZH_T30_1564_001:0001b04_7']	《百論》治外以閑邪，斯文袪內以流滯，《大智釋論》之淵博，《十二門觀》之精詣，尋斯四者，真若日月入懷，無不朗然鑒徹矣。	《百論》治外以閑邪，斯文袪內以流滯，《大智釋論》之淵博，《十二門觀》之精詣，尋斯四者，真若日月入懷，無不朗然鑒徹矣。	The Bai Lun deals with the external world to eliminate evil, while this text removes internal stagnation. The Da Zhi Shi Lun is profound and vast, and the Shi Er Men Guan is precise and penetrating. If one studies these four texts, it is truly like the sun and moon entering one's heart, illuminating everything clearly.
+['ZH_T30_1564_001:0001b06_5']	予翫之味之，不能釋手，遂復忘其鄙拙託悟懷於一序，并目品義題之於首。	予翫之味之，不能釋手，遂復忘其鄙拙託悟懷於一序，并目品義題之於首。	I played with it and savored it, unable to let go of it, and thus forgot my own vulgarity and clumsiness, entrusting my enlightened thoughts to a preface, and named the chapters and meanings at the beginning.
+['ZH_T30_1564_001:0001b06_11']	豈期能釋耶？	豈期能釋耶？	How could I expect to be able to explain it?
+['ZH_T30_1564_001:0001b07_2']	蓋是欣自同之懷耳。	蓋是欣自同之懷耳。	It is simply the thought of rejoicing in my own accord.
+['ZH_T30_1564_001:0001b14_0']	不生亦不滅，　　不常亦不斷，	不生亦不滅，　　不常亦不斷，	Not born, nor extinguished, not permanent, nor annihilated,
+['ZH_T30_1564_001:0001b15_13']	不一亦不異，　　不來亦不出。	不一亦不異，　　不來亦不出。	Not one, nor different, not coming, nor going out.
+['ZH_T30_1564_001:0001b16_0']	能說是因緣，　　善滅諸戲論，	能說是因緣，　　善滅諸戲論，	Able to speak of this dependent origination, skillfully extinguishing all frivolous arguments,
+['ZH_T30_1564_001:0001b17_13']	我稽首禮佛，　　諸說中第一。	我稽首禮佛，　　諸說中第一。	I bow my head in reverence to the Buddha, the foremost among all teachers.
+['ZH_T30_1564_001:0001b18_2']	問曰：	問曰：	Question:
+['ZH_T30_1564_001:0001b18_8']	何故造此論？	何故造此論？	Why was this treatise composed?
+['ZH_T30_1564_001:0001b18_11']	答曰：	答曰：	Answer:
+['ZH_T30_1564_001:0001b21_16']	有人言萬物從大自在天生、有言從韋紐天生、有言從和合生、有言從時生、有言從世性生、有言從變生、有言從自然生、有言從微塵生。	有人言萬物從大自在天生、有言從韋紐天生、有言從和合生、有言從時生、有言從世性生、有言從變生、有言從自然生、有言從微塵生。	Some say that myriad things are born from the great self-sovereign god, some say they are born from Viṣṇu, some say they are born from combination, some say they are born from time, some say they are born from the nature of the world, some say they are born from transformation, some say they are born from spontaneity, some say they are born from atoms.
+['ZH_T30_1564_001:0001b23_11']	有如是等謬故，墮於無因、邪因、斷常等邪見，種種說我我所，不知正法。	有如是等謬故，墮於無因、邪因、斷常等邪見，種種說我我所，不知正法。	Because of these kinds of errors, they fall into wrong views such as no cause, wrong cause, annihilation, and permanence, and various explanations of self and what belongs to self, not knowing the true Dharma.
+['ZH_T30_1564_001:0001b27_13']	佛欲斷如是等諸邪見令知佛法故，先於聲聞法中說十二因緣，又為已習行有大心堪受深法者以大乘法說因緣相，所謂一切法不生不滅、不一不異等，畢竟空、無所有。	佛欲斷如是等諸邪見令知佛法故，先於聲聞法中說十二因緣，又為已習行有大心堪受深法者以大乘法說因緣相，所謂一切法不生不滅、不一不異等，畢竟空、無所有。	The Buddha, wishing to eliminate these kinds of wrong views and cause them to know the Buddha's teachings, first explained the twelve links of dependent arising in the teachings for śrāvakas. Moreover, for those who have already practiced and have a great mind capable of receiving the profound teachings, he explained the characteristics of dependent arising using the Mahāyāna teachings, namely that all dharmas are neither produced nor extinguished, neither one nor different, and so forth, ultimately empty and nonexistent.
+['ZH_T30_1564_001:0001b28_2']	如《般若波羅蜜》中說：	如《般若波羅蜜》中說：	As it is said in the Prajñāpāramitā:
+['ZH_T30_1564_001:0001b28_8']	佛告須菩提：	佛告須菩提：	The Buddha told Subhūti:
+['ZH_T30_1564_001:0001b29_9']	「菩薩坐道場時，觀十二因緣，如虛空不可盡。	「菩薩坐道場時，觀十二因緣，如虛空不可盡。	When bodhisattvas sit at the site of enlightenment, they contemplate the twelve links of dependent arising as inexhaustible like space.
+['ZH_T30_1564_001:0001c04_8']	佛滅度後，後五百歲像法中，人根轉鈍、深著諸法，求十二因緣、五陰、十二入、十八界等決定相，不知佛意但著文字，聞大乘法中說畢竟空，不知何因緣故空，即生疑見。	佛滅度後，後五百歲像法中，人根轉鈍、深著諸法，求十二因緣、五陰、十二入、十八界等決定相，不知佛意但著文字，聞大乘法中說畢竟空，不知何因緣故空，即生疑見。	After the Buddha's parinirvāṇa, in the latter five hundred years of the Semblance Dharma, people's faculties became duller and more deeply attached to various dharmas. They sought the definitive characteristics of the twelve links of dependent arising, the five aggregates, the twelve sense fields, the eighteen elements, and so forth. Not knowing the Buddha's intent, they were attached only to the words. Hearing the teaching of ultimate emptiness in the Mahāyāna, they did not know why it was empty, and so gave rise to doubts and views.
+['ZH_T30_1564_001:0001c05_6']	『若都畢竟空，云何分別有罪福報應等？	『若都畢竟空，云何分別有罪福報應等？	If everything is ultimately empty, how can there be distinctions of sin, merit, and karmic retribution?
+['ZH_T30_1564_001:0001c05_18']	如是則無世諦、第一義諦。	如是則無世諦、第一義諦。	In that case, there would be no conventional truth or ultimate truth.
+['ZH_T30_1564_001:0001c07_1']	』取是空相而起貪著，於畢竟空中生種種過。	』取是空相而起貪著，於畢竟空中生種種過。	Grasping at the characteristics of emptiness, they gave rise to attachment. In ultimate emptiness, they gave rise to various faults.
+['ZH_T30_1564_001:0001c07_15']	龍樹菩薩為是等故，造此中論。	龍樹菩薩為是等故，造此中論。	Bodhisattva Nāgârjuna composed this Madhyamaka treatise for the sake of such people.
+['ZH_T30_1564_001:0001c08_0']	「不生亦不滅，　　不常亦不斷，	「不生亦不滅，　　不常亦不斷，	Not arising and not ceasing, not permanent and not annihilated,
+['ZH_T30_1564_001:0001c09_13']	不一亦不異，　　不來亦不出。	不一亦不異，　　不來亦不出。	Not the same and not different, not coming and not going out.
+['ZH_T30_1564_001:0001c10_0']	能說是因緣，　　善滅諸戲論，	能說是因緣，　　善滅諸戲論，	Able to explain dependent arising, well extinguishing all frivolous arguments,
+['ZH_T30_1564_001:0001c11_13']	我稽首禮佛，　　諸說中第一。	我稽首禮佛，　　諸說中第一。	I bow my head in reverence to the Buddha, the foremost among all teachers.
+['ZH_T30_1564_001:0001c12_14']	」以此二偈讚佛，則已略說第一義。	」以此二偈讚佛，則已略說第一義。	With these two verses praising the Buddha, I have already briefly explained the ultimate truth.
+['ZH_T30_1564_001:0001c12_17']	問曰：	問曰：	Question:
+['ZH_T30_1564_001:0001c13_13']	諸法無量，何故但以此八事破？	諸法無量，何故但以此八事破？	Why are only these eight points used to refute all dharmas?
+['ZH_T30_1564_001:0001c13_16']	答曰：	答曰：	Answer:
+['ZH_T30_1564_001:0001c14_14']	法雖無量，略說八事則為總破一切法。	法雖無量，略說八事則為總破一切法。	Although dharmas are innumerable, explaining them in terms of these eight points is a comprehensive refutation of all dharmas.
+['ZH_T30_1564_001:0001c18_7']	不生者，諸論師種種說生相，或謂因果一、或謂因果異、或謂因中先有果、或謂因中先無果、或謂自體生、或謂從他生、或謂共生、或謂有生、或謂無生。	不生者，諸論師種種說生相，或謂因果一、或謂因果異、或謂因中先有果、或謂因中先無果、或謂自體生、或謂從他生、或謂共生、或謂有生、或謂無生。	As for non-arising, various masters have various explanations of the characteristics of arising. Some say cause and effect are one, some say cause and effect are different, some say the effect pre-exists in the cause, some say the effect does not pre-exist in the cause, some say it arises from itself, some say it arises from others, some say it arises from both, some say it arises from existence, and some say it arises from non-existence.
+['ZH_T30_1564_001:0001c19_5']	如是等說生相皆不然，此事後當廣說。	如是等說生相皆不然，此事後當廣說。	Such explanations of the characteristics of arising are all incorrect, which will be discussed in detail later.
+['ZH_T30_1564_001:0001c19_17']	生相決定不可得，故不生。	生相決定不可得，故不生。	The characteristics of arising are definitely unobtainable, therefore it does not arise.
+['ZH_T30_1564_001:0001c20_9']	不滅者，若無生何得有滅？	不滅者，若無生何得有滅？	As for non-cessation, if there is no arising, how can there be cessation?
+['ZH_T30_1564_001:0001c21_4']	以無生、無滅故，餘六事亦無。	以無生、無滅故，餘六事亦無。	Because of non-arising and non-cessation, the remaining six things are also non-existent.
+['ZH_T30_1564_001:0001c21_7']	問曰：	問曰：	Question:
+['ZH_T30_1564_001:0001c21_19']	不生、不滅已總破一切法。	不生、不滅已總破一切法。	Non-arising and non-cessation have already comprehensively refuted all dharmas.
+['ZH_T30_1564_001:0001c22_5']	何故復說六事？	何故復說六事？	Why is it said again that there are six things?
+['ZH_T30_1564_001:0001c22_8']	答曰：	答曰：	Answer:
+['ZH_T30_1564_001:0001c22_17']	為成不生不滅義故。	為成不生不滅義故。	In order to establish the meaning of non-arising and non-cessation.
+['ZH_T30_1564_001:0001c23_14']	有人不受不生不滅，而信不常不斷。	有人不受不生不滅，而信不常不斷。	There are people who do not accept non-arising and non-cessation, but believe in non-permanence and non-annihilation.
+['ZH_T30_1564_001:0001c24_11']	若深求不常不斷，即是不生不滅。	若深求不常不斷，即是不生不滅。	If one deeply seeks non-permanence and non-annihilation, it is precisely non-arising and non-cessation.
+['ZH_T30_1564_001:0001c24_15']	何以故？	何以故？	Why is this so?
+['ZH_T30_1564_001:0002a03_2']	法若實有則不應無，先有今無是即為斷，若先有性是則為常，是故說不常不斷，即入不生不滅義。	法若實有則不應無，先有今無是即為斷，若先有性是則為常，是故說不常不斷，即入不生不滅義。	If dharmas truly exist, they should not be non-existent. Existing before and now non-existent is precisely annihilation. If there was a nature before, it is precisely permanence. Therefore, speaking of non-permanence and non-annihilation enters the meaning of non-arising and non-cessation.
+['ZH_T30_1564_001:0002a04_2']	有人雖聞四種破諸法，猶以四門成諸法。	有人雖聞四種破諸法，猶以四門成諸法。	There are people who, although they hear the four kinds of refutations of dharmas, still use the four approaches to establish dharmas.
+['ZH_T30_1564_001:0002a04_7']	是亦不然。	是亦不然。	This is also not so.
+['ZH_T30_1564_001:0002a05_16']	若一則無緣，若異則無相續，後當種種破，是故復說不一不異。	若一則無緣，若異則無相續，後當種種破，是故復說不一不異。	If they are the same, there is no condition. If they are different, there is no continuity. Later, they will be refuted in various ways. Therefore, it is said again that they are neither the same nor different.
+['ZH_T30_1564_001:0002a06_15']	有人雖聞六種破諸法，猶以來出成諸法。	有人雖聞六種破諸法，猶以來出成諸法。	Some people, although they hear the six kinds of refutations of dharmas, still use coming and going to establish dharmas.
+['ZH_T30_1564_001:0002a08_5']	來者言諸法從自在天、世性、微塵等來，出者還去至本處。	來者言諸法從自在天、世性、微塵等來，出者還去至本處。	Coming means that dharmas come from the Lord of Creation, the nature of the world, atoms, and so forth, and going means returning to their original places.
+['ZH_T30_1564_001:0002a08_12']	復次萬物無生。	復次萬物無生。	Next, all things are without arising.
+['ZH_T30_1564_001:0002a08_16']	何以故？	何以故？	Why is it so?
+['ZH_T30_1564_001:0002a09_3']	世間現見故。	世間現見故。	Because it is seen in the world.
+['ZH_T30_1564_001:0002a09_13']	世間眼見劫初穀不生。	世間眼見劫初穀不生。	The world's eyes see that grains do not arise at the beginning of the eon.
+['ZH_T30_1564_001:0002a09_17']	何以故？	何以故？	Why is it so?
+['ZH_T30_1564_001:0002a10_9']	離劫初穀，今穀不可得。	離劫初穀，今穀不可得。	Because grains of the present cannot be obtained apart from the grains of the beginning of the eon.
+['ZH_T30_1564_001:0002a11_5']	若離劫初穀有今穀者則應有生；	若離劫初穀有今穀者則應有生；	If grains of the present existed apart from the grains of the beginning of the eon, then there would be arising;
+['ZH_T30_1564_001:0002a11_15']	而實不爾，是故不生。	而實不爾，是故不生。	but in reality it is not so, therefore they do not arise.
+['ZH_T30_1564_001:0002a11_18']	問曰：	問曰：	Question:
+['ZH_T30_1564_001:0002a12_6']	若不生則應滅。	若不生則應滅。	If they do not arise, then they should cease.
+['ZH_T30_1564_001:0002a12_9']	答曰：	答曰：	Answer:
+['ZH_T30_1564_001:0002a12_12']	不滅。	不滅。	They do not cease.
+['ZH_T30_1564_001:0002a12_16']	何以故？	何以故？	Why is it so?
+['ZH_T30_1564_001:0002a13_2']	世間現見故。	世間現見故。	Because it is seen in the world.
+['ZH_T30_1564_001:0002a13_12']	世間眼見劫初穀不滅。	世間眼見劫初穀不滅。	The world's eyes see that grains do not cease at the beginning of the eon.
+['ZH_T30_1564_001:0002a14_2']	若滅，今不應有穀；	若滅，今不應有穀；	If they ceased, then they should not exist now;
+['ZH_T30_1564_001:0002a14_12']	而實有穀，是故不滅。	而實有穀，是故不滅。	but in reality they do exist, therefore they do not cease.
+['ZH_T30_1564_001:0002a14_15']	問曰：	問曰：	Question:
+['ZH_T30_1564_001:0002a15_2', 'ZH_T30_1564_001:0002a15_5']	若不滅則應常。🔽答曰：	若不滅則應常。🔽答曰：	If they do not cease, then they should be eternal.
+['ZH_T30_1564_001:0002a15_8']	不常。	不常。	Not permanent.
+['ZH_T30_1564_001:0002a15_12']	何以故？	何以故？	Why is this?
+['ZH_T30_1564_001:0002a15_18']	世間現見故。	世間現見故。	Because it is seen in the world.
+['ZH_T30_1564_001:0002a17_2']	世間眼見萬物不常，如穀芽時種則變壞，是故不常。	世間眼見萬物不常，如穀芽時種則變壞，是故不常。	The world's eyes see that myriad things are not permanent, just as when a grain sprouts, the seed transforms and perishes. Therefore, it is not permanent.
+['ZH_T30_1564_001:0002a17_5']	問曰：	問曰：	Question:
+['ZH_T30_1564_001:0002a17_12']	若不常則應斷。	若不常則應斷。	If it is not permanent, then it should be cut off.
+['ZH_T30_1564_001:0002a17_15']	答曰：	答曰：	Answer:
+['ZH_T30_1564_001:0002a17_18']	不斷。	不斷。	It is not cut off.
+['ZH_T30_1564_001:0002a18_2']	何以故？	何以故？	Why is this?
+['ZH_T30_1564_001:0002a18_8']	世間現見故。	世間現見故。	Because it is seen in the world.
+['ZH_T30_1564_001:0002a19_9']	世間眼見萬物不斷，如從穀有芽，是故不斷；	世間眼見萬物不斷，如從穀有芽，是故不斷；	The world's eyes see that myriad things are not cut off, just as a sprout comes from a grain. Therefore, it is not cut off;
+['ZH_T30_1564_001:0002a19_17']	若斷，不應相續。	若斷，不應相續。	if it were cut off, it would not continue.
+['ZH_T30_1564_001:0002a20_1']	問曰：	問曰：	Question:
+['ZH_T30_1564_001:0002a20_10']	若爾者，萬物是一。	若爾者，萬物是一。	If that is so, then myriad things are one.
+['ZH_T30_1564_001:0002a20_13']	答曰：	答曰：	Answer:
+['ZH_T30_1564_001:0002a20_16']	不一。	不一。	They are not one.
+['ZH_T30_1564_001:0002a20_20']	何以故？	何以故？	Why is this?
+['ZH_T30_1564_001:0002a21_3']	世間現見故。	世間現見故。	Because it is seen in the world.
+['ZH_T30_1564_001:0002a22_4']	世間眼見萬物不一，如穀不作芽、芽不作穀。	世間眼見萬物不一，如穀不作芽、芽不作穀。	The world's eyes see that myriad things are not one, just as a grain does not make a sprout and a sprout does not make a grain.
+['ZH_T30_1564_001:0002a22_17']	若穀作芽、芽作穀者應是一；	若穀作芽、芽作穀者應是一；	If a grain made a sprout and a sprout made a grain, they would be one;
+['ZH_T30_1564_001:0002a23_9']	而實不爾，是故不一。	而實不爾，是故不一。	but in reality it is not so, therefore they are not one.
+['ZH_T30_1564_001:0002a23_12']	問曰：	問曰：	Question:
+['ZH_T30_1564_001:0002a23_19']	若不一則應異。	若不一則應異。	If they are not one, then they should be different.
+['ZH_T30_1564_001:0002a24_2']	答曰：	答曰：	Answer:
+['ZH_T30_1564_001:0002a24_5']	不異。	不異。	Not different.
+['ZH_T30_1564_001:0002a24_9']	何以故？	何以故？	Why is it so?
+['ZH_T30_1564_001:0002a24_15']	世間現見故。	世間現見故。	Because it is seen in the world.
+['ZH_T30_1564_001:0002a25_4']	世間眼見萬物不異。	世間眼見萬物不異。	The eyes of the world see that myriad things are not different.
+['ZH_T30_1564_001:0002a26_1']	若異者，何故分別穀芽、穀莖、穀葉？	若異者，何故分別穀芽、穀莖、穀葉？	If they were different, why would we distinguish grain sprouts, grain stems, and grain leaves?
+['ZH_T30_1564_001:0002a26_17']	不說樹芽、樹莖、樹葉，是故不異。	不說樹芽、樹莖、樹葉，是故不異。	We would not speak of tree sprouts, tree stems, and tree leaves. Therefore, they are not different.
+['ZH_T30_1564_001:0002a26_20']	問曰：	問曰：	Question:
+['ZH_T30_1564_001:0002a27_6']	若不異，應有來。	若不異，應有來。	If they are not different, there should be coming.
+['ZH_T30_1564_001:0002a27_9']	答曰：	答曰：	Answer:
+['ZH_T30_1564_001:0002a27_12']	無來。	無來。	There is no coming.
+['ZH_T30_1564_001:0002a27_16']	何以故？	何以故？	Why is it so?
+['ZH_T30_1564_001:0002a28_1']	世間現見故。	世間現見故。	Because it is seen in the world.
+['ZH_T30_1564_001:0002a29_2']	世間眼見萬物不來，如穀子中芽無所從來。	世間眼見萬物不來，如穀子中芽無所從來。	The eyes of the world see that myriad things do not come. For example, sprouts in grain seeds do not come from anywhere.
+['ZH_T30_1564_001:0002a29_19']	若來者，芽應從餘處來，如鳥來栖樹；	若來者，芽應從餘處來，如鳥來栖樹；	If they came, the sprouts would come from other places, like birds coming to perch on trees;
+['ZH_T30_1564_001:0002b01_9']	而實不爾，是故不來。	而實不爾，是故不來。	but in reality, it is not so. Therefore, they do not come.
+['ZH_T30_1564_001:0002b01_12']	問曰：	問曰：	Question:
+['ZH_T30_1564_001:0002b01_20']	若不來，應有出。	若不來，應有出。	If they do not come, there should be going out.
+['ZH_T30_1564_001:0002b02_2']	答曰：	答曰：	Answer:
+['ZH_T30_1564_001:0002b02_5']	不出。	不出。	There is no going out.
+['ZH_T30_1564_001:0002b02_9']	何以故？	何以故？	Why is it so?
+['ZH_T30_1564_001:0002b02_15']	世間現見故。	世間現見故。	Because it is seen in the world.
+['ZH_T30_1564_001:0002b03_4']	世間眼見萬物不出。	世間眼見萬物不出。	The eyes of the world see that myriad things do not go out.
+['ZH_T30_1564_001:0002b04_3']	若有出，應見芽從穀出，如蛇從穴出；	若有出，應見芽從穀出，如蛇從穴出；	If there were emergence, one should see sprouts emerging from grains, like a snake emerging from a hole;
+['ZH_T30_1564_001:0002b04_13']	而實不爾，是故不出。	而實不爾，是故不出。	but in reality it is not so, therefore there is no emergence.
+['ZH_T30_1564_001:0002b04_16']	問曰：	問曰：	Question:
+['ZH_T30_1564_001:0002b05_14']	汝雖釋不生不滅義，我欲聞造論者所說。	汝雖釋不生不滅義，我欲聞造論者所說。	Although you have explained the meaning of non-arising and non-extinction, I wish to hear what the author of the treatise has to say.
+['ZH_T30_1564_001:0002b05_17']	答曰：	答曰：	Answer:
+['ZH_T30_1564_001:0002b06_0']	「諸法不自生，　　亦不從他生，	「諸法不自生，　　亦不從他生，	All dharmas do not arise from themselves, nor do they arise from others,
+['ZH_T30_1564_001:0002b07_13']	不共不無因，　　是故知無生。	不共不無因，　　是故知無生。	not from both, nor without a cause, therefore one knows there is no arising.
+['ZH_T30_1564_001:0002b09_1']	」不自生者，萬物無有從自體生，必待眾因。	」不自生者，萬物無有從自體生，必待眾因。	As for not arising from themselves, myriad things do not arise from their own substance, they must depend on various causes.
+['ZH_T30_1564_001:0002b09_16']	復次若從自體生，則一法有二體：	復次若從自體生，則一法有二體：	Moreover, if they arose from their own substance, then one dharma would have two substances:
+['ZH_T30_1564_001:0002b10_6']	一謂生、二謂生者。	一謂生、二謂生者。	one is called arising, the other is the one who arises.
+['ZH_T30_1564_001:0002b11_3']	若離餘因從自體生者，則無因無緣。	若離餘因從自體生者，則無因無緣。	If they arose from their own substance apart from other causes, then there would be no cause and no conditions.
+['ZH_T30_1564_001:0002b11_14']	又生更有生，生則無窮。	又生更有生，生則無窮。	Moreover, arising would have further arising, and arising would be endless.
+['ZH_T30_1564_001:0002b12_2']	自無故，他亦無。	自無故，他亦無。	Because of the absence of self, other is also absent.
+['ZH_T30_1564_001:0002b12_6']	何以故？	何以故？	Why is it so?
+['ZH_T30_1564_001:0002b12_12']	有自故有他。	有自故有他。	Because there is self, there is other.
+['ZH_T30_1564_001:0002b13_11']	若不從自生，亦不從他生，共生則有二過：	若不從自生，亦不從他生，共生則有二過：	If it does not arise from itself, nor from another, nor from both, then arising from no cause would have two faults:
+['ZH_T30_1564_001:0002b13_18']	自生、他生故。	自生、他生故。	because of arising from itself and arising from another.
+['ZH_T30_1564_001:0002b14_12']	若無因而有萬物者，是則為常。	若無因而有萬物者，是則為常。	If things exist without a cause, then they would be permanent.
+['ZH_T30_1564_001:0002b14_17']	是事不然。	是事不然。	This is not so.
+['ZH_T30_1564_001:0002b17_1']	無因則無果，若無因有果者，布施持戒等應墮地獄、十惡五逆應當生天，以無因故。	無因則無果，若無因有果者，布施持戒等應墮地獄、十惡五逆應當生天，以無因故。	Without a cause, there would be no effect. If there were an effect without a cause, then one who practices charity and observes precepts would fall into hell, and one who commits the ten evil deeds and the five grave offenses would be reborn in heaven, because there would be no cause.
+['ZH_T30_1564_001:0002b17_4']	復次：	復次：	Furthermore:
+['ZH_T30_1564_001:0002b18_0']	「如諸法自性，　　不在於緣中，	「如諸法自性，　　不在於緣中，	As the intrinsic nature of all dharmas is not in the conditions,
+['ZH_T30_1564_001:0002b19_13']	以無自性故，　　他性亦復無。	以無自性故，　　他性亦復無。	Because of the absence of intrinsic nature, extrinsic nature also does not exist.
+['ZH_T30_1564_001:0002b21_2']	」諸法自性不在眾緣中，但眾緣和合故得名字。	」諸法自性不在眾緣中，但眾緣和合故得名字。	The intrinsic nature of all dharmas is not in the various conditions, but only the various conditions coming together can obtain a name.
+['ZH_T30_1564_001:0002b21_16']	自性即是自體，眾緣中無自性。	自性即是自體，眾緣中無自性。	Intrinsic nature is precisely one's own body. The various conditions do not have intrinsic nature.
+['ZH_T30_1564_001:0002b22_13']	自性無故不自生，自性無故他性亦無。	自性無故不自生，自性無故他性亦無。	Because intrinsic nature is absent, there is no arising from itself. Because intrinsic nature is absent, extrinsic nature also does not exist.
+['ZH_T30_1564_001:0002b22_17']	何以故？	何以故？	Why is this?
+['ZH_T30_1564_001:0002b23_14']	因自性有他性，他性於他亦是自性。	因自性有他性，他性於他亦是自性。	Because based on intrinsic nature there is extrinsic nature. Extrinsic nature, in relation to another, is also intrinsic nature.
+['ZH_T30_1564_001:0002b24_14']	若破自性即破他性，是故不應從他性生。	若破自性即破他性，是故不應從他性生。	If self-nature is refuted, other-nature is also refuted, therefore it should not arise from other-nature.
+['ZH_T30_1564_001:0002b25_10']	若破自性、他性，即破共義。	若破自性、他性，即破共義。	If self-nature and other-nature are refuted, the meaning of co-arising is also refuted.
+['ZH_T30_1564_001:0002b26_8']	無因則有大過，有因尚可破，何況無因！	無因則有大過，有因尚可破，何況無因！	If there is no cause, there is a great fault. Even with a cause, it can still be refuted, let alone without a cause!
+['ZH_T30_1564_001:0002b27_3']	於四句中生不可得，是故不生。	於四句中生不可得，是故不生。	Arising cannot be obtained within the four propositions, therefore it does not arise.
+['ZH_T30_1564_001:0002b27_6']	問曰：	問曰：	Question:
+['ZH_T30_1564_001:0002b28_5']	阿毘曇人言「諸法從四緣生」，云何言不生？	阿毘曇人言「諸法從四緣生」，云何言不生？	The Abhidharma masters say that dharmas arise from four conditions. Why do you say they do not arise?
+['ZH_T30_1564_001:0002b28_10']	何謂四緣？	何謂四緣？	What are the four conditions?
+['ZH_T30_1564_001:0002b29_0']	「因緣次第緣，　　緣緣增上緣，	「因緣次第緣，　　緣緣增上緣，	Causal condition, sequential condition, object condition, dominant condition,
+['ZH_T30_1564_001:0002c01_13']	四緣生諸法，　　更無第五緣。	四緣生諸法，　　更無第五緣。	Dharmas arise from these four conditions, there is no fifth condition.
+['ZH_T30_1564_001:0002c03_2']	」一切所有緣，皆攝在四緣，以是四緣萬物得生。	」一切所有緣，皆攝在四緣，以是四緣萬物得生。	All existing conditions are included in the four conditions, and it is through these four conditions that myriad things can arise.
+['ZH_T30_1564_001:0002c03_11']	因緣名一切有為法；	因緣名一切有為法；	The causal condition refers to all conditioned dharmas;
+['ZH_T30_1564_001:0002c05_3']	次第緣除過去現在阿羅漢最後心心數法，餘過去現在心心數法；	次第緣除過去現在阿羅漢最後心心數法，餘過去現在心心數法；	The sequential condition refers to all past and present mental and psychological states, except for the final mental and psychological states of an arhat;
+['ZH_T30_1564_001:0002c05_13']	緣緣、增上緣一切法。	緣緣、增上緣一切法。	The condition as object and the dominant condition are all dharmas.
+['ZH_T30_1564_001:0002c05_16']	答曰：	答曰：	Answer:
+['ZH_T30_1564_001:0002c06_14']	「果為從緣生，　　為從非緣生？	「果為從緣生，　　為從非緣生？	Does the effect arise from conditions or from non-conditions?
+['ZH_T30_1564_001:0002c07_13', 'ZH_T30_1564_001:0002c08_17']	是緣為有果，　　是緣為無果？🔽」若謂有果，是果為從緣生、為從非緣生？	是緣為有果，　　是緣為無果？ 」若謂有果，是果為從緣生、為從非緣生？	Are these conditions with an effect or are these conditions without an effect?🔽If it is said there is an effect, does this effect arise from conditions or from non-conditions?
+['ZH_T30_1564_001:0002c09_14']	若謂有緣，是緣為有果、為無果？	若謂有緣，是緣為有果、為無果？	If it is said there are conditions, are these conditions with an effect or without an effect?
+['ZH_T30_1564_001:0002c10_1']	二俱不然。	二俱不然。	Both are unreasonable.
+['ZH_T30_1564_001:0002c10_5']	何以故？	何以故？	Why is it so?
+['ZH_T30_1564_001:0002c11_14']	「因是法生果，　　是法名為緣；	「因是法生果，　　是法名為緣；	The dharma that is the cause for the arising of the effect is called a condition;
+['ZH_T30_1564_001:0002c12_13']	若是果未生，　　何不名非緣？	若是果未生，　　何不名非緣？	If the effect has not yet arisen, why is it not called a non-condition?
+['ZH_T30_1564_001:0002c13_5']	」諸緣無決定。	」諸緣無決定。	The conditions have no determination.
+['ZH_T30_1564_001:0002c13_9']	何以故？	何以故？	Why is it so?
+['ZH_T30_1564_001:0002c14_2']	若果未生，是時不名為緣；	若果未生，是時不名為緣；	If the effect has not yet arisen, at that time it is not called a condition;
+['ZH_T30_1564_001:0002c14_16']	但眼見從緣生果，故名之為緣。	但眼見從緣生果，故名之為緣。	But the eye sees that the effect arises from conditions, therefore it is called a condition.
+['ZH_T30_1564_001:0002c15_11']	緣成由於果，以果後、緣先故。	緣成由於果，以果後、緣先故。	The completion of the conditions is due to the effect, because the effect comes later and the conditions come first.
+['ZH_T30_1564_001:0002c16_2']	若未有果，何得名為緣？	若未有果，何得名為緣？	If the effect does not yet exist, how can it be called a condition?
+['ZH_T30_1564_001:0002c17_8']	如瓶以水土和合故有瓶生，見瓶緣知水土等是瓶緣。	如瓶以水土和合故有瓶生，見瓶緣知水土等是瓶緣。	Just as a pot is produced from the combination of water and clay, seeing the pot one knows that water and clay, etc. are the conditions for the pot.
+['ZH_T30_1564_001:0002c18_7']	若瓶未生時，何以不名水土等為非緣？	若瓶未生時，何以不名水土等為非緣？	If the pot has not yet been produced, why not call water and clay, etc. non-conditions?
+['ZH_T30_1564_001:0002c18_15']	是故果不從緣生。	是故果不從緣生。	Therefore, the effect is not produced from conditions.
+['ZH_T30_1564_001:0002c19_7']	緣尚不生，何況非緣。	緣尚不生，何況非緣。	Conditions themselves are not produced, let alone non-conditions.
+['ZH_T30_1564_001:0002c19_10']	復次：	復次：	Furthermore:
+['ZH_T30_1564_001:0002c20_14']	「果先於緣中，　　有無俱不可。	「果先於緣中，　　有無俱不可。	The effect, whether existent or non-existent, cannot be in the conditions.
+['ZH_T30_1564_001:0002c21_13']	先無為誰緣，　　先有何用緣。	先無為誰緣，　　先有何用緣。	If it is non-existent beforehand, what is the condition for? If it is existent beforehand, what is the use of a condition?
+['ZH_T30_1564_001:0002c22_10']	」緣中先非有果、非無果。	」緣中先非有果、非無果。	The effect is neither existent nor non-existent beforehand in the conditions.
+['ZH_T30_1564_001:0002c23_6']	若先有果，不名為緣，果先有故。	若先有果，不名為緣，果先有故。	If it is existent beforehand, it is not called a condition, because the effect already exists beforehand.
+['ZH_T30_1564_001:0002c24_3']	若先無果，亦不名為緣，不生餘物故。	若先無果，亦不名為緣，不生餘物故。	If it is non-existent beforehand, it is also not called a condition, because it does not produce other things.
+['ZH_T30_1564_001:0002c24_6']	問曰：	問曰：	Question:
+['ZH_T30_1564_001:0003a01_5']	已總破一切因緣，今欲聞一一破諸緣。	已總破一切因緣，今欲聞一一破諸緣。	Having already generally refuted all causes and conditions, I now wish to hear the refutation of each condition individually.
+['ZH_T30_1564_001:0003a01_8']	答曰：	答曰：	Answer:
+['ZH_T30_1564_001:0003a02_0']	「若果非有生，　　亦復非無生，	「若果非有生，　　亦復非無生，	If the effect is neither produced as existent nor as non-existent,
+['ZH_T30_1564_001:0003a03_13']	亦非有無生，　　何得言有緣？	亦非有無生，　　何得言有緣？	It is also not produced from existence or nonexistence, so how can you say there is a condition?
+['ZH_T30_1564_001:0003a04_10']	」若緣能生果，應有三種：	」若緣能生果，應有三種：	If a condition can produce a result, there should be three kinds:
+['ZH_T30_1564_001:0003a04_20']	若有、若無、若有無。	若有、若無、若有無。	If it is existent, nonexistent, or both existent and nonexistent.
+['ZH_T30_1564_001:0003a06_3']	如先偈中說，緣中若先有果，不應言生，以先有故。	如先偈中說，緣中若先有果，不應言生，以先有故。	As previously stated in a verse, if the result exists in the condition, it should not be said to be produced, because it already exists.
+['ZH_T30_1564_001:0003a07_7']	若先無果，不應言生，以先無故，亦應與非緣同故。	若先無果，不應言生，以先無故，亦應與非緣同故。	If the result does not exist beforehand, it should not be said to be produced, because it does not exist beforehand, and it should be the same as a non-condition.
+['ZH_T30_1564_001:0003a08_10']	有無亦不生者，有無名為半有半無，二俱有過。	有無亦不生者，有無名為半有半無，二俱有過。	Existence and nonexistence are also not produced. Existence and nonexistence are called half existence and half nonexistence, both of which have faults.
+['ZH_T30_1564_001:0003a09_12']	又有與無相違，無與有相違，何得一法有二相？	又有與無相違，無與有相違，何得一法有二相？	Moreover, existence contradicts nonexistence, and nonexistence contradicts existence. How can a single dharma have two natures?
+['ZH_T30_1564_001:0003a10_14']	如是三種求果生相不可得故，云何言有因緣？	如是三種求果生相不可得故，云何言有因緣？	Since the three kinds of seeking the characteristics of the production of a result cannot be obtained, how can you say there is a causal condition?
+['ZH_T30_1564_001:0003a11_1']	次第緣者：	次第緣者：	The condition as direct antecedent:
+['ZH_T30_1564_001:0003a12_0']	「果若未生時，　　則不應有滅，	「果若未生時，　　則不應有滅，	If the result has not yet arisen, it should not have cessation,
+['ZH_T30_1564_001:0003a13_5']	滅法何能緣？	滅法何能緣？	How can a dharma of cessation be able to be a condition?
+['ZH_T30_1564_001:0003a13_13']	　　故無次第緣。	　　故無次第緣。	Therefore there is no condition as direct antecedent.
+['ZH_T30_1564_001:0003a14_12']	」諸心心數法於三世中次第生。	」諸心心數法於三世中次第生。	All mental and mental factors arise in sequence in the three times.
+['ZH_T30_1564_001:0003a15_12']	現在心心數法滅，與未來心作次第緣。	現在心心數法滅，與未來心作次第緣。	The present mental and mental factors cease and serve as the condition for the arising of future mental and mental factors.
+['ZH_T30_1564_001:0003a16_8']	未來法未生，與誰作次第緣？	未來法未生，與誰作次第緣？	Future dharmas have not yet arisen, so what do they serve as the condition for arising?
+['ZH_T30_1564_001:0003a17_5']	若未來法已有，即是生，何用次第緣？	若未來法已有，即是生，何用次第緣？	If future dharmas already exist, they are already arisen, so what need is there for the condition for arising?
+['ZH_T30_1564_001:0003a18_19']	現在心心數法無有住時，若不住，何能為次第緣，若有住，則非有為法。	現在心心數法無有住時，若不住，何能為次第緣，若有住，則非有為法。	Present mental and mental factors have no time of abiding. If they do not abide, how can they serve as the condition for arising? If they abide, then they are not conditioned dharmas.
+['ZH_T30_1564_001:0003a19_14']	何以故，一切有為法常有滅相故。	何以故，一切有為法常有滅相故。	Why is it so? Because all conditioned dharmas always have the characteristic of cessation.
+['ZH_T30_1564_001:0003a20_7']	若滅已，則不能與作次第緣。	若滅已，則不能與作次第緣。	If they have ceased, then they cannot serve as the condition for arising.
+['ZH_T30_1564_001:0003a21_7']	若言滅法猶有則是常，若常則無罪福等。	若言滅法猶有則是常，若常則無罪福等。	If it is said that ceased dharmas still exist, then they are permanent. If they are permanent, then there is no sin or merit, etc.
+['ZH_T30_1564_001:0003a23_1']	若謂滅時能與作次第緣，滅時半滅半未滅，更無第三法名為滅時。	若謂滅時能與作次第緣，滅時半滅半未滅，更無第三法名為滅時。	If it is said that at the time of cessation they can serve as the condition for arising, then at the time of cessation, half have ceased and half have not yet ceased. There is no third dharma called the time of cessation.
+['ZH_T30_1564_001:0003a23_5']	又佛說：	又佛說：	Moreover, the Buddha said:
+['ZH_T30_1564_001:0003a24_1']	一切有為法念念滅，無一念時住。	一切有為法念念滅，無一念時住。	All conditioned dharmas cease moment by moment, not abiding for a single moment.
+['ZH_T30_1564_001:0003a24_14']	云何言現在法有欲滅未欲滅？	云何言現在法有欲滅未欲滅？	How can you say that present dharmas have both that which is about to cease and that which is not yet about to cease?
+['ZH_T30_1564_001:0003a25_14']	汝謂一念中無是欲滅未欲滅，則破自法。	汝謂一念中無是欲滅未欲滅，則破自法。	If you say that in a single moment there is neither that which is about to cease nor that which is not yet about to cease, then you contradict your own teachings.
+['ZH_T30_1564_001:0003a26_1']	汝阿毘曇說：	汝阿毘曇說：	Your Abhidharma says:
+['ZH_T30_1564_001:0003a26_10']	有滅法、有不滅法；	有滅法、有不滅法；	There are dharmas that cease and dharmas that do not cease;
+['ZH_T30_1564_001:0003a27_1']	有欲滅法、有不欲滅法。	有欲滅法、有不欲滅法。	There are dharmas that are about to cease and dharmas that are not yet about to cease.
+['ZH_T30_1564_001:0003a27_13']	欲滅法者，現在法將欲滅。	欲滅法者，現在法將欲滅。	Dharmas that are about to cease are present dharmas that are about to cease.
+['ZH_T30_1564_001:0003a29_9']	未欲滅法者，除現在將欲滅法，餘現在法及過去未來無為法，是名不欲滅法。	未欲滅法者，除現在將欲滅法，餘現在法及過去未來無為法，是名不欲滅法。	Dharmas that are not yet about to cease are present dharmas other than those about to cease, as well as past, future, and unconditioned dharmas. These are called dharmas that are not yet about to cease.
+['ZH_T30_1564_001:0003a29_16']	是故無次第緣。	是故無次第緣。	Therefore there is no condition as the equivalent and immediate antecedent.
+['ZH_T30_1564_001:0003b01_1']	緣緣者：	緣緣者：	As for the condition as object:
+['ZH_T30_1564_001:0003b02_0']	「如諸佛所說，　　真實微妙法，	「如諸佛所說，　　真實微妙法，	As the Buddhas have said, the true and subtle Dharma,
+['ZH_T30_1564_001:0003b03_13']	於此無緣法，　　云何有緣緣？	於此無緣法，　　云何有緣緣？	In this Dharma without conditions, how can there be a condition as object?
+['ZH_T30_1564_001:0003b06_5']	」佛說大乘諸法，若有色無色、有形無形、有漏無漏、有為無為等諸法相入於法性，一切皆空無相無緣。	」佛說大乘諸法，若有色無色、有形無形、有漏無漏、有為無為等諸法相入於法性，一切皆空無相無緣。	The Buddha taught the Mahāyāna dharmas, whether with form or formless, with shape or shapeless, with outflows or without outflows, conditioned or unconditioned, all the characteristics of dharmas enter into the nature of dharmas, and all are empty, without characteristics, and without conditions.
+['ZH_T30_1564_001:0003b06_16']	譬如眾流入海同為一味。	譬如眾流入海同為一味。	It is like the many streams entering the ocean, becoming of one taste.
+['ZH_T30_1564_001:0003b08_1']	實法可信，隨宜所說不可為實，是故無緣緣。	實法可信，隨宜所說不可為實，是故無緣緣。	The true dharma can be trusted, but what is said according to the circumstances cannot be taken as true, therefore there are no conditional conditions.
+['ZH_T30_1564_001:0003b08_6']	增上緣者：	增上緣者：	The dominant condition:
+['ZH_T30_1564_001:0003b09_14']	「諸法無自性，　　故無有有相；	「諸法無自性，　　故無有有相；	Because dharmas have no intrinsic nature, therefore they have no characteristic of existence;
+['ZH_T30_1564_001:0003b10_13']	說有是事故，　　是事有不然。	說有是事故，　　是事有不然。	It is said that because this thing exists, that thing exists, but this is not so.
+['ZH_T30_1564_001:0003b11_14']	」經說十二因緣，是事有故是事有。	」經說十二因緣，是事有故是事有。	 The sūtra teaches the twelve links of dependent arising, saying that because this thing exists, that thing exists.
+['ZH_T30_1564_001:0003b12_1']	此則不然。	此則不然。	This is not so.
+['ZH_T30_1564_001:0003b12_5']	何以故？	何以故？	Why is it so?
+['ZH_T30_1564_001:0003b13_8']	諸法從眾緣生故自無定性，自無定性故無有有相。	諸法從眾緣生故自無定性，自無定性故無有有相。	Because all dharmas arise from many conditions, they themselves have no fixed nature. Because they themselves have no fixed nature, they have no characteristic of existence.
+['ZH_T30_1564_001:0003b14_6']	有相無故，何得言是事有故是事有？	有相無故，何得言是事有故是事有？	Since the characteristic of existence does not exist, how can it be said that because this thing exists, that thing exists?
+['ZH_T30_1564_001:0003b15_6']	是故無增上緣，佛隨凡夫分別有無故說。	是故無增上緣，佛隨凡夫分別有無故說。	Therefore there is no dominant condition. The Buddha speaks of it according to the distinctions of ordinary people.
+['ZH_T30_1564_001:0003b15_9']	復次：	復次：	Furthermore:
+['ZH_T30_1564_001:0003b16_14']	「略廣因緣中，　　求果不可得；	「略廣因緣中，　　求果不可得；	In the brief and extensive conditions, the effect cannot be found.
+['ZH_T30_1564_001:0003b17_13']	因緣中若無，　　云何從緣出？	因緣中若無，　　云何從緣出？	If it does not exist in the conditions, how can it arise from conditions?
+['ZH_T30_1564_001:0003b18_11']	」略者，於和合因緣中無果。	」略者，於和合因緣中無果。	Briefly, there is no effect in the combined conditions.
+['ZH_T30_1564_001:0003b19_4']	廣者，於一一緣中亦無果。	廣者，於一一緣中亦無果。	Extensively, there is also no effect in each individual condition.
+['ZH_T30_1564_001:0003b20_4']	若略廣因緣中無果，云何言果從因緣出？	若略廣因緣中無果，云何言果從因緣出？	If there is no effect in the brief and extensive conditions, how can it be said that the effect arises from conditions?
+['ZH_T30_1564_001:0003b20_7']	復次：	復次：	Furthermore:
+['ZH_T30_1564_001:0003b21_14']	「若謂緣無果，　　而從緣中出；	「若謂緣無果，　　而從緣中出；	If it is said that the effect does not exist in the conditions but arises from the conditions,
+['ZH_T30_1564_001:0003b22_13']	是果何不從，　　非緣中而出？	是果何不從，　　非緣中而出？	Why does the effect not arise from non-conditions?
+['ZH_T30_1564_001:0003b23_17']	」若因緣中求果不可得，何故不從非緣出？	」若因緣中求果不可得，何故不從非緣出？	If the effect cannot be found in the conditions, why does it not arise from non-conditions?
+['ZH_T30_1564_001:0003b24_13']	如泥中無瓶，何故不從乳中出？	如泥中無瓶，何故不從乳中出？	Just as a pot does not exist in clay, why does it not arise from milk?
+['ZH_T30_1564_001:0003b24_16']	復次：	復次：	Furthermore:
+['ZH_T30_1564_001:0003b25_0']	「若果從緣生，　　是緣無自性，	「若果從緣生，　　是緣無自性，	If the effect arises from conditions, these conditions have no intrinsic nature,
+['ZH_T30_1564_001:0003b26_13']	從無自性生，　　何得從緣生？	從無自性生，　　何得從緣生？	If it arises from no intrinsic nature, how can it arise from conditions?
+['ZH_T30_1564_001:0003b27_0']	果不從緣生，　　不從非緣生，	果不從緣生，　　不從非緣生，	The effect does not arise from conditions, nor does it arise from non-conditions.
+['ZH_T30_1564_001:0003b28_13']	以果無有故，　　緣非緣亦無。	以果無有故，　　緣非緣亦無。	Because the effect does not exist, conditions and non-conditions also do not exist.
+['ZH_T30_1564_001:0003b29_11']	」果從眾緣生，是緣無自性。	」果從眾緣生，是緣無自性。	The effect arises from various conditions, but these conditions have no intrinsic nature.
+['ZH_T30_1564_001:0003c01_7']	若無自性則無法，無法何能生？	若無自性則無法，無法何能生？	If there is no intrinsic nature, then there is no dharma. If there is no dharma, how can it give rise to anything?
+['ZH_T30_1564_001:0003c01_15']	是故果不從緣生。	是故果不從緣生。	Therefore, the effect does not arise from conditions.
+['ZH_T30_1564_001:0003c02_11']	不從非緣生者，破緣故說非緣。	不從非緣生者，破緣故說非緣。	Not from non-conditions refutes conditions and speaks of non-conditions.
+['ZH_T30_1564_001:0003c03_6']	實無非緣法，是故不從非緣生。	實無非緣法，是故不從非緣生。	In reality, there is no dharma of non-conditions. Therefore, it does not arise from non-conditions.
+['ZH_T30_1564_001:0003c03_17']	若不從二生，是則無果。	若不從二生，是則無果。	If it does not arise from the two, then there is no effect.
+['ZH_T30_1564_001:0003c04_9']	無果故，緣非緣亦無。	無果故，緣非緣亦無。	Because there is no effect, conditions and non-conditions also do not exist.
+['ZH_T30_1564_001:0003c06_2']	2 觀去來品中論觀去來品第二二十五偈問曰：	2 觀去來品中論觀去來品第二二十五偈問曰：	Chapter 2: Contemplating the Past and Future, with 25 verses. Question:
+['ZH_T30_1564_001:0003c06_11']	世間眼見三時有作：	世間眼見三時有作：	The world's eyes see the three times having activity:
+['ZH_T30_1564_001:0003c06_20']	已去、未去、去時。	已去、未去、去時。	Already gone, not yet gone, and the time of going.
+['ZH_T30_1564_001:0003c07_9']	以有作故，當知有諸法。	以有作故，當知有諸法。	Because there is activity, one should know there are dharmas.
+['ZH_T30_1564_001:0003c07_12']	答曰：	答曰：	Answer:
+['ZH_T30_1564_001:0003c08_0']	「已去無有去，　　未去亦無去，	「已去無有去，　　未去亦無去，	In the past there is no going, in the future there is also no going,
+['ZH_T30_1564_001:0003c09_13']	離已去未去，　　去時亦無去。	離已去未去，　　去時亦無去。	Apart from the past and future, in the present there is also no going.
+['ZH_T30_1564_001:0003c10_9']	」已去無有去，已去故。	」已去無有去，已去故。	In the past there is no going, because it is already past.
+['ZH_T30_1564_001:0003c11_2']	若離去有去業，是事不然。	若離去有去業，是事不然。	If there is going apart from the act of going, this is not so.
+['ZH_T30_1564_001:0003c11_14']	未去亦無去，未有去法故。	未去亦無去，未有去法故。	In the future there is also no going, because the act of going has not yet occurred.
+['ZH_T30_1564_001:0003c12_14']	去時名半去半未去，不離已去、未去故。	去時名半去半未去，不離已去、未去故。	The present is called half gone and half not yet gone, because it is not apart from the past and future.
+['ZH_T30_1564_001:0003c12_17']	問曰：	問曰：	Question:
+['ZH_T30_1564_001:0003c13_0']	「動處則有去，　　此中有去時，	「動處則有去，　　此中有去時，	Where there is movement there is going, in this there is the present of going,
+['ZH_T30_1564_001:0003c14_13']	非已去未去，　　是故去時去。	非已去未去，　　是故去時去。	Not in the past or future, therefore in the present of going there is going.
+['ZH_T30_1564_001:0003c15_11']	」隨有作業處，是中應有去。	」隨有作業處，是中應有去。	Wherever there is the act of going, there should be going.
+['ZH_T30_1564_001:0004a01_8']	眼見去時中有作業、已去中作業已滅、未去中未有作業，是故當知去時有去。	眼見去時中有作業、已去中作業已滅、未去中未有作業，是故當知去時有去。	The eye sees that in the present of going there is the act of going, in the past the act of going has ceased, and in the future the act of going has not yet occurred. Therefore one should know that in the present of going there is going.
+['ZH_T30_1564_001:0004a01_11']	答曰：	答曰：	Answer:
+['ZH_T30_1564_001:0004a02_14']	「云何於去時，　　而當有去法？	「云何於去時，　　而當有去法？	How can there be the dharma of going in the present of going?
+['ZH_T30_1564_001:0004a03_13']	若離於去法，　　去時不可得。	若離於去法，　　去時不可得。	If apart from the dharma of going, the time of going cannot be apprehended.
+['ZH_T30_1564_001:0004a04_10']	」去時有去法，是事不然。	」去時有去法，是事不然。	The dharma of going existing at the time of going is not so.
+['ZH_T30_1564_001:0004a04_14']	何以故？	何以故？	Why is it so?
+['ZH_T30_1564_001:0004a05_5']	離去法去時不可得。	離去法去時不可得。	Apart from the dharma of going, the time of going cannot be apprehended.
+['ZH_T30_1564_001:0004a06_9']	若離去法有去時者，應去時中有去，如器中有果。	若離去法有去時者，應去時中有去，如器中有果。	If apart from the dharma of going there were a time of going, then at the time of going there would be going, just as there are fruits in a container.
+['ZH_T30_1564_001:0004a06_12']	復次：	復次：	Furthermore:
+['ZH_T30_1564_001:0004a07_14']	「若言去時去，　　是人則有咎；	「若言去時去，　　是人則有咎；	If it is said that at the time of going there is going, this person would have a fault;
+['ZH_T30_1564_001:0004a08_13']	離去有去時，　　去時獨去故。	離去有去時，　　去時獨去故。	Apart from going there is a time of going, because the time of going goes alone.
+['ZH_T30_1564_001:0004a10_4']	」若謂已去未去中無去、去時實有去者，是人則有咎。	」若謂已去未去中無去、去時實有去者，是人則有咎。	If it is said that in the already gone and not yet gone there is no going, but at the time of going there really is a goer, this person would have a fault.
+['ZH_T30_1564_001:0004a10_18']	若離去法有去時，則不相因待。	若離去法有去時，則不相因待。	If apart from the dharma of going there were a time of going, then they would not be mutually dependent.
+['ZH_T30_1564_001:0004a11_3']	何以故？	何以故？	Why is it so?
+['ZH_T30_1564_001:0004a11_15']	若說去時有去，是則為二；	若說去時有去，是則為二；	If it is said that at the time of going there is going, then there would be two kinds;
+['ZH_T30_1564_001:0004a12_13']	而實不爾，是故不得言離去有去時。	而實不爾，是故不得言離去有去時。	But in reality it is not so, therefore it cannot be said that apart from going there is a time of going.
+['ZH_T30_1564_001:0004a12_16']	復次：	復次：	Furthermore:
+['ZH_T30_1564_001:0004a13_14']	「若去時有去，　　則有二種去：	「若去時有去，　　則有二種去：	If at the time of going there is going, then there would be two kinds of going:
+['ZH_T30_1564_001:0004a14_13']	一謂為去時，　　二謂去時去。	一謂為去時，　　二謂去時去。	One is the time of going, the other is going at the time of going.
+['ZH_T30_1564_001:0004a15_17']	」若謂去時有去，是則有過，所謂有二去：	」若謂去時有去，是則有過，所謂有二去：	If you say there is going at the time of going, then there is an error, namely, there are two goings:
+['ZH_T30_1564_001:0004a16_6']	一者因去有去時；	一者因去有去時；	One is because of going there is a time of going;
+['ZH_T30_1564_001:0004a16_14']	二者去時中有去。	二者去時中有去。	The other is within the time of going there is going.
+['ZH_T30_1564_001:0004a16_17']	問曰：	問曰：	Question:
+['ZH_T30_1564_001:0004a17_7']	若有二去，有何咎？	若有二去，有何咎？	If there are two goings, what is the problem?
+['ZH_T30_1564_001:0004a17_10']	答曰：	答曰：	Answer:
+['ZH_T30_1564_001:0004a18_14']	「若有二去法，　　則有二去者；	「若有二去法，　　則有二去者；	If there are two goings, then there are two goers;
+['ZH_T30_1564_001:0004a19_13']	以離於去者，　　去法不可得。	以離於去者，　　去法不可得。	Because apart from the goer, the going cannot be apprehended.
+['ZH_T30_1564_001:0004a20_11']	」若有二去法，則有二去者。	」若有二去法，則有二去者。	If there are two goings, then there are two goers.
+['ZH_T30_1564_001:0004a20_15']	何以故？	何以故？	Why is this?
+['ZH_T30_1564_001:0004a21_4']	因去法有去者故。	因去法有去者故。	Because the goer exists due to the going.
+['ZH_T30_1564_001:0004a22_7']	一人有二去二去者，此則不然，是故去時亦無去。	一人有二去二去者，此則不然，是故去時亦無去。	One person having two goings and two goers is not so, therefore at the time of going there is also no going.
+['ZH_T30_1564_001:0004a22_10']	問曰：	問曰：	Question:
+['ZH_T30_1564_001:0004a23_2']	離去者無去法，可爾。	離去者無去法，可爾。	If apart from the goer there is no going, that may be so.
+['ZH_T30_1564_001:0004a23_11']	今三時中定有去者。	今三時中定有去者。	Now within the three times there definitely is a goer.
+['ZH_T30_1564_001:0004a23_14']	答曰：	答曰：	Answer:
+['ZH_T30_1564_001:0004a24_14']	「若離於去者，　　去法不可得；	「若離於去者，　　去法不可得；	If apart from the goer, the going cannot be apprehended;
+['ZH_T30_1564_001:0004a25_13']	以無去法故，　　何得有去者？	以無去法故，　　何得有去者？	Since there is no dharma of going, how can there be a goer?
+['ZH_T30_1564_001:0004a26_12', 'ZH_T30_1564_001:0004a27_9']	」若離於去者，則去法不可得。🔽今云何於無去法中言三時定有去者？	」若離於去者，則去法不可得。 今云何於無去法中言三時定有去者？	If apart from the goer, then the dharma of going cannot be obtained.
+['ZH_T30_1564_001:0004a27_12']	復次：	復次：	Now, how can it be said that in the absence of the dharma of going, the goer definitely exists in the three times? Moreover:
+['ZH_T30_1564_001:0004a28_14']	「去者則不去，　　不去者不去；	「去者則不去，　　不去者不去；	The goer does not go. The non-goer does not go.
+['ZH_T30_1564_001:0004a29_13']	離去不去者，　　無第三去者。	離去不去者，　　無第三去者。	Apart from the goer and the non-goer, there is no third goer.
+['ZH_T30_1564_001:0004b01_4']	」無有去者。	」無有去者。	There is no goer.
+['ZH_T30_1564_001:0004b01_8']	何以故？	何以故？	Why is it so?
+['ZH_T30_1564_001:0004b01_18']	若有去者，則有二種：	若有去者，則有二種：	If there is a goer, then there are two kinds:
+['ZH_T30_1564_001:0004b02_7']	若去者、若不去者。	若去者、若不去者。	Either the goer or the non-goer.
+['ZH_T30_1564_001:0004b02_18']	若離是二，無第三去者。	若離是二，無第三去者。	If apart from these two, there is no third goer.
+['ZH_T30_1564_001:0004b03_2']	問曰：	問曰：	Question:
+['ZH_T30_1564_001:0004b03_11']	若去者去，有何咎？	若去者去，有何咎？	If the goer goes, what is the fault?
+['ZH_T30_1564_001:0004b03_14']	答曰：	答曰：	Answer:
+['ZH_T30_1564_001:0004b04_14']	「若言去者去，　　云何有此義？	「若言去者去，　　云何有此義？	If it is said that the goer goes, how can this be so?
+['ZH_T30_1564_001:0004b05_13']	若離於去法，　　去者不可得。	若離於去法，　　去者不可得。	If apart from the dharma of going, the goer cannot be obtained.
+['ZH_T30_1564_001:0004b06_14']	」若謂定有去者用去法，是事不然。	」若謂定有去者用去法，是事不然。	If it is said that the goer definitely uses the dharma of going, this is not so.
+['ZH_T30_1564_001:0004b06_18']	何以故？	何以故？	Why is it so?
+['ZH_T30_1564_001:0004b07_10']	離去法，去者不可得故。	離去法，去者不可得故。	Because apart from the dharma of going, the goer cannot be apprehended.
+['ZH_T30_1564_001:0004b08_9']	若離去者定有去法，則去者能用去法；	若離去者定有去法，則去者能用去法；	If apart from the goer there definitely is the dharma of going, then the goer can employ the dharma of going;
+['ZH_T30_1564_001:0004b08_14']	而實不爾。	而實不爾。	but in reality it is not so.
+['ZH_T30_1564_001:0004b08_17']	復次：	復次：	Furthermore:
+['ZH_T30_1564_001:0004b09_14']	「若去者有去，　　則有二種去：	「若去者有去，　　則有二種去：	If the goer has going, then there are two kinds of going:
+['ZH_T30_1564_001:0004b10_13']	一謂去者去，　　二謂去法去。	一謂去者去，　　二謂去法去。	One is called the going of the goer, and the second is called the going of the dharma of going.
+['ZH_T30_1564_001:0004b12_4']	」若言去者用去法，則有二過，於一去者中而有二去：	」若言去者用去法，則有二過，於一去者中而有二去：	If it is said that the goer employs the dharma of going, then there are two errors. Within one goer there are two goings:
+['ZH_T30_1564_001:0004b13_3']	一以去法成去者、二以去者成去法。	一以去法成去者、二以去者成去法。	One is using the dharma of going to establish the goer, and the second is using the goer to establish the dharma of going.
+['ZH_T30_1564_001:0004b13_18']	去者成已然後用去法，是事不然。	去者成已然後用去法，是事不然。	The goer is established and then employs the dharma of going, but this is not so.
+['ZH_T30_1564_001:0004b15_2']	是故先三時中謂定有去者用去法，是事不然。	是故先三時中謂定有去者用去法，是事不然。	Therefore, it is not so that within the three times there definitely is a goer employing the dharma of going.
+['ZH_T30_1564_001:0004b15_5', 'ZH_T30_1564_001:0004b16_0']	復次：🔽「若謂去者去，　　是人則有咎，	復次： 「若謂去者去，　　是人則有咎，	Furthermore:🔽If it is said that the goer goes, this person then has an error,
+['ZH_T30_1564_001:0004b17_13']	離去有去者，　　說去者有去。	離去有去者，　　說去者有去。	Because apart from going there is a goer, it is said that the goer has going.
+['ZH_T30_1564_001:0004b19_4']	」若人說去者能用去法，是人則有咎，離去法有去者。	」若人說去者能用去法，是人則有咎，離去法有去者。	If someone says that the goer uses the dharma of going, then that person has a fault, because there is a goer apart from the dharma of going.
+['ZH_T30_1564_001:0004b19_8']	何以故？	何以故？	Why is it so?
+['ZH_T30_1564_001:0004b20_8']	說去者用去法，是為先有去者後有去法。	說去者用去法，是為先有去者後有去法。	Saying that the goer uses the dharma of going means that there is a goer first and then the dharma of going.
+['ZH_T30_1564_001:0004b21_6']	是事不然，是故三時中無有去者。	是事不然，是故三時中無有去者。	This is not so, therefore in the three times there is no goer.
+['ZH_T30_1564_001:0004b22_4']	復次，若決定有去、有去者，應有初發。	復次，若決定有去、有去者，應有初發。	Moreover, if going and the goer definitely exist, then there should be an initial departure.
+['ZH_T30_1564_001:0004b22_15']	而於三時中求發不可得。	而於三時中求發不可得。	But in the three times, seeking departure is unobtainable.
+['ZH_T30_1564_001:0004b23_2']	何以故？	何以故？	Why is it so?
+['ZH_T30_1564_001:0004b24_0']	「已去中無發，　　未去中無發，	「已去中無發，　　未去中無發，	In that which has already gone there is no departure, in that which has not yet gone there is no departure,
+['ZH_T30_1564_001:0004b25_13']	去時中無發，　　何處當有發？	去時中無發，　　何處當有發？	in the time of going there is no departure, where then should there be departure?
+['ZH_T30_1564_001:0004b26_8']	」何以故三時中無發？	」何以故三時中無發？	Why is it that in the three times there is no departure?
+['ZH_T30_1564_001:0004b27_0']	「未發無去時，　　亦無有已去，	「未發無去時，　　亦無有已去，	In that which has not yet departed there is no time of going, and there is also no that which has already gone,
+['ZH_T30_1564_001:0004b28_13']	是二應有發，　　未去何有發？	是二應有發，　　未去何有發？	these two should have departure, but how can there be departure in that which has not yet gone?
+['ZH_T30_1564_001:0004b29_0']	無去無未去，　　亦復無去時，	無去無未去，　　亦復無去時，	There is no going, there is no that which has not yet gone, and there is also no time of going,
+['ZH_T30_1564_001:0004c01_13']	一切無有發，　　何故而分別？	一切無有發，　　何故而分別？	If there is no one who has set out, why discriminate?
+['ZH_T30_1564_001:0004c02_12']	」若人未發則無去時亦無已去；	」若人未發則無去時亦無已去；	If a person has not yet set out, there is no time of going and no one who has gone.
+['ZH_T30_1564_001:0004c03_4']	若有發當在二處：	若有發當在二處：	If there is setting out, it must be in one of two places:
+['ZH_T30_1564_001:0004c03_11']	去時、已去中。	去時、已去中。	the time of going or the time after going.
+['ZH_T30_1564_001:0004c04_4']	二俱不然，未去時未有發故。	二俱不然，未去時未有發故。	Neither is correct, because at the time of not yet going there is no setting out.
+['ZH_T30_1564_001:0004c04_11']	未去中何有發？	未去中何有發？	How can there be setting out in the time of not yet going?
+['ZH_T30_1564_001:0004c05_18']	發無故無去，無去故無去者，何得有已去、未去、去時。	發無故無去，無去故無去者，何得有已去、未去、去時。	Because there is no setting out, there is no going. Because there is no going, there is no one who goes. How can there be that which has gone, that which has not yet gone, or the time of going?
+['ZH_T30_1564_001:0004c06_1']	問曰：	問曰：	Question:
+['ZH_T30_1564_001:0004c06_16']	若無去、無去者，應有住、住者。	若無去、無去者，應有住、住者。	If there is no going and no one who goes, there must be abiding and one who abides.
+['ZH_T30_1564_001:0004c06_19']	答曰：	答曰：	Answer:
+['ZH_T30_1564_001:0004c07_0']	「去者則不住，　　不去者不住，	「去者則不住，　　不去者不住，	One who goes does not abide, and one who does not go does not abide.
+['ZH_T30_1564_001:0004c08_13']	離去不去者，　　何有第三住？	離去不去者，　　何有第三住？	Apart from going and not going, how can there be a third abiding?
+['ZH_T30_1564_001:0004c09_18']	」若有住、有住者，應去者住、若不去者住。	」若有住、有住者，應去者住、若不去者住。	If there is abiding and one who abides, either one who goes abides or one who does not go abides.
+['ZH_T30_1564_001:0004c10_9']	若離此二，應有第三住。	若離此二，應有第三住。	If apart from these two, there should be a third abiding.
+['ZH_T30_1564_001:0004c10_14']	是事不然。	是事不然。	This is not so.
+['ZH_T30_1564_001:0004c11_15']	去者不住，去未息故，與去相違名為住。	去者不住，去未息故，與去相違名為住。	The one who has gone does not abide, because going has not yet ceased. Opposing the characteristic of going is called abiding.
+['ZH_T30_1564_001:0005a01_3']	不去者亦不住。	不去者亦不住。	The one who has not yet gone also does not abide.
+['ZH_T30_1564_001:0005a01_7']	何以故？	何以故？	Why is this?
+['ZH_T30_1564_001:0005a02_2']	因去法滅故有住，無去則無住。	因去法滅故有住，無去則無住。	Because the dharma of going ceases, there is abiding. Without going, there is no abiding.
+['ZH_T30_1564_001:0005a02_16']	離去者不去者，更無第三住者。	離去者不去者，更無第三住者。	Apart from the one who has gone and the one who has not yet gone, there is no third one who abides.
+['ZH_T30_1564_001:0005a03_14']	若有第三住者，即在去者、不去者中。	若有第三住者，即在去者、不去者中。	If there were a third one who abides, then it would be included among the one who has gone and the one who has not yet gone.
+['ZH_T30_1564_001:0005a04_6']	以是故，不得言去者住。	以是故，不得言去者住。	For this reason, one cannot say that the one who has gone abides.
+['ZH_T30_1564_001:0005a04_9']	復次：	復次：	Furthermore:
+['ZH_T30_1564_001:0005a05_14']	「去者若當住，　　云何有此義？	「去者若當住，　　云何有此義？	If the one who has gone were to abide, how could this be so?
+['ZH_T30_1564_001:0005a06_13']	若當離於去，　　去者不可得。	若當離於去，　　去者不可得。	If one were to depart from going, the one who has gone cannot be apprehended.
+['ZH_T30_1564_001:0005a07_5']	」汝謂去者住。	」汝謂去者住。	You say that the one who has gone abides.
+['ZH_T30_1564_001:0005a07_10']	是事不然。	是事不然。	This is not so.
+['ZH_T30_1564_001:0005a07_14']	何以故。	何以故。	Why is this?
+['ZH_T30_1564_001:0005a08_4']	離去法，去者不可得。	離去法，去者不可得。	Apart from the dharma of going, the one who has gone cannot be apprehended.
+['ZH_T30_1564_001:0005a08_17']	若去者在去相，云何當有住？	若去者在去相，云何當有住？	If the one who has gone is in the characteristic of going, how could there be abiding?
+['ZH_T30_1564_001:0005a09_4']	去住相違故。	去住相違故。	Because the characteristics of going and abiding are contradictory.
+['ZH_T30_1564_001:0005a09_7']	復次：	復次：	Furthermore:
+['ZH_T30_1564_001:0005a10_0']	「去未去無住，　　去時亦無住，	「去未去無住，　　去時亦無住，	In that which has gone and that which has not yet gone there is no abiding, and in the present going there is also no abiding.
+['ZH_T30_1564_001:0005a11_13']	所有行止法，　　皆同於去義。	所有行止法，　　皆同於去義。	All activities and stillness are the same as the meaning of going.
+['ZH_T30_1564_001:0005a13_1']	」若謂去者住，是人應在去時、已去、未去中住。	」若謂去者住，是人應在去時、已去、未去中住。	If you say the goer rests, this person should rest during going, after going, and before going.
+['ZH_T30_1564_001:0005a14_2']	三處皆無住，是故汝言去者有住，是則不然。	三處皆無住，是故汝言去者有住，是則不然。	There is no resting in any of the three places. Therefore, your statement that the goer has resting is not correct.
+['ZH_T30_1564_001:0005a14_17']	如破去法、住法，行、止亦如是。	如破去法、住法，行、止亦如是。	Just as the method of going and the method of resting are refuted, so are movement and stillness.
+['ZH_T30_1564_001:0005a15_11']	行者，如從穀子相續至芽莖葉等。	行者，如從穀子相續至芽莖葉等。	Movement is like the continuity from a seed to a sprout, stem, leaves, and so forth.
+['ZH_T30_1564_001:0005a16_6']	止者，穀子滅故芽莖葉滅。	止者，穀子滅故芽莖葉滅。	Stillness is the cessation of the sprout, stem, and leaves due to the cessation of the seed.
+['ZH_T30_1564_001:0005a16_17']	相續故名行，斷故名止。	相續故名行，斷故名止。	Continuity is called movement, and cessation is called stillness.
+['ZH_T30_1564_001:0005a18_8']	又如無明緣諸行乃至老死是名行，無明滅故諸行等滅是名止。	又如無明緣諸行乃至老死是名行，無明滅故諸行等滅是名止。	Moreover, it is like ignorance being the condition for formations up to old age and death, which is called movement. Due to the cessation of ignorance, the cessation of formations and so forth is called stillness.
+['ZH_T30_1564_001:0005a18_11']	問曰：	問曰：	Question:
+['ZH_T30_1564_001:0005a19_14']	汝雖種種門破去去者、住住者，而眼見有去住。	汝雖種種門破去去者、住住者，而眼見有去住。	Although you refute the goer going and the resister resting through various approaches, we see going and resting with our eyes.
+['ZH_T30_1564_001:0005a19_17']	答曰：	答曰：	Answer:
+['ZH_T30_1564_001:0005a20_4']	肉眼所見不可信。	肉眼所見不可信。	What is seen by the physical eye cannot be trusted.
+['ZH_T30_1564_001:0005a20_17']	若實有去去者，為以一法成？	若實有去去者，為以一法成？	If there really is going and a goer, are they accomplished by one dharma?
+['ZH_T30_1564_001:0005a21_5']	為以二法成？	為以二法成？	Is it accomplished by two dharmas?
+['ZH_T30_1564_001:0005a21_10']	二俱有過。	二俱有過。	Both are faulty.
+['ZH_T30_1564_001:0005a21_14']	何以故？	何以故？	Why is it so?
+['ZH_T30_1564_001:0005a22_14']	「去法即去者，　　是事則不然；	「去法即去者，　　是事則不然；	The dharma of going is the goer, this is not so;
+['ZH_T30_1564_001:0005a23_13']	去法異去者，　　是事亦不然。	去法異去者，　　是事亦不然。	The dharma of going is different from the goer, this is also not so.
+['ZH_T30_1564_001:0005a24_17']	」若去法、去者一，是則不然，異亦不然。	」若去法、去者一，是則不然，異亦不然。	If the dharma of going and the goer are the same, this is not so, and different is also not so.
+['ZH_T30_1564_001:0005a24_20']	問曰：	問曰：	Question:
+['ZH_T30_1564_001:0005a25_6']	一、異有何過？	一、異有何過？	What faults are there in being the same or different?
+['ZH_T30_1564_001:0005a25_9']	答曰：	答曰：	Answer:
+['ZH_T30_1564_001:0005a26_14']	「若謂於去法，　　即為是去者；	「若謂於去法，　　即為是去者；	If it is said that the dharma of going is the goer,
+['ZH_T30_1564_001:0005a27_13']	作者及作業，　　是事則為一。	作者及作業，　　是事則為一。	The doer and the action would be the same.
+['ZH_T30_1564_001:0005a28_13']	若謂於去法，　　有異於去者；	若謂於去法，　　有異於去者；	If it is said that the dharma of going is different from the goer,
+['ZH_T30_1564_001:0005a29_13']	離去者有去，　　離去有去者。	離去者有去，　　離去有去者。	Apart from the goer there is going, apart from going there is a goer.
+['ZH_T30_1564_001:0005b01_6']	」如是二俱有過。	」如是二俱有過。	Thus both have faults.
+['ZH_T30_1564_001:0005b01_10']	何以故？	何以故？	Why is it so?
+['ZH_T30_1564_001:0005b02_9']	若去法即是去者，是則錯亂，破於因緣。	若去法即是去者，是則錯亂，破於因緣。	If the dharma of going is the goer, then this is confused and breaks the causes and conditions.
+['ZH_T30_1564_001:0005b03_2']	因去有去者，因去者有去。	因去有去者，因去者有去。	Because of going there is a goer, because of the goer there is going.
+['ZH_T30_1564_001:0005b04_2']	又去名為法，去者名為人，人常法無常。	又去名為法，去者名為人，人常法無常。	Moreover, going is called the dharma, and the goer is called the person. The person is permanent, and the dharma is impermanent.
+['ZH_T30_1564_001:0005b04_17']	若一者，則二俱應常、二俱無常。	若一者，則二俱應常、二俱無常。	If they are the same, then both should be either permanent or impermanent.
+['ZH_T30_1564_001:0005b05_5']	一中有如是等過。	一中有如是等過。	There are such errors in the case of sameness.
+['ZH_T30_1564_001:0005b05_12']	若異者則相違。	若異者則相違。	If they are different, then they are contradictory.
+['ZH_T30_1564_001:0005b07_7']	未有去法應有去者，未有去者應有去法，不相因待，一法滅應一法在。	未有去法應有去者，未有去者應有去法，不相因待，一法滅應一法在。	Before there is the dharma of going, there should be the goer. Before there is the goer, there should be the dharma of going. They do not depend on each other. When one dharma ceases, the other should remain.
+['ZH_T30_1564_001:0005b07_15']	異中有如是等過。	異中有如是等過。	There are such errors in the case of difference.
+['ZH_T30_1564_001:0005b07_18']	復次：	復次：	Furthermore:
+['ZH_T30_1564_001:0005b08_0']	「去去者是二，　　若一異法成，	「去去者是二，　　若一異法成，	The goer and going are two. If they are established as the same or different,
+['ZH_T30_1564_001:0005b09_13']	二門俱不成，　　云何當有成？	二門俱不成，　　云何當有成？	Both approaches are not established. How can there be establishment?
+['ZH_T30_1564_001:0005b11_7']	」若去者、去法有，若以一法成、若以異法成，二俱不可得；	」若去者、去法有，若以一法成、若以異法成，二俱不可得；	If the goer and the dharma of going exist, whether established as the same or different, both are unobtainable;
+['ZH_T30_1564_001:0005b11_16']	先已說無第三法成。	先已說無第三法成。	It has already been said that there is no third way of establishment.
+['ZH_T30_1564_001:0005b12_7']	若謂有成，應說因緣。	若謂有成，應說因緣。	If you say there is establishment, you should explain the causes and conditions.
+['ZH_T30_1564_001:0005b12_18']	無去無去者，今當更說。	無去無去者，今當更說。	Without going and without a goer, I will now explain further.
+['ZH_T30_1564_001:0005b13_14']	「因去知去者，　　不能用是去；	「因去知去者，　　不能用是去；	Based on going to know the goer, cannot use this going;
+['ZH_T30_1564_001:0005b14_13']	先無有去法，　　故無去者去。	先無有去法，　　故無去者去。	Prior to there being the dharma of going, therefore there is no goer going.
+['ZH_T30_1564_001:0005b15_8']	」隨以何去法知去者？	」隨以何去法知去者？	Based on what dharma of going to know the goer?
+['ZH_T30_1564_001:0005b16_1']	是去者不能用是去法。	是去者不能用是去法。	This goer cannot use this dharma of going.
+['ZH_T30_1564_001:0005b16_5']	何以故？	何以故？	Why is it so?
+['ZH_T30_1564_001:0005b17_9']	是去法未有時無有去者，亦無去時、已去、未去。	是去法未有時無有去者，亦無去時、已去、未去。	When this dharma of going has not yet existed, there is no goer, and also no time of going, already gone, or not yet gone.
+['ZH_T30_1564_001:0005b18_2']	如先有人、有城邑，得有所起。	如先有人、有城邑，得有所起。	It is like prior to there being a person, there being a city, then there is something that arises.
+['ZH_T30_1564_001:0005b19_6']	去法、去者則不然，去者因去法成，去法因去者成故。	去法、去者則不然，去者因去法成，去法因去者成故。	The dharma of going and the goer are not like this, because the goer is established based on the dharma of going, and the dharma of going is established based on the goer.
+['ZH_T30_1564_001:0005b19_9']	復次：	復次：	Furthermore:
+['ZH_T30_1564_001:0005b20_0']	「因去知去者，　　不能用異去，	「因去知去者，　　不能用異去，	Based on going to know the goer, cannot use a different going,
+['ZH_T30_1564_001:0005b21_13']	於一去者中，　　不得二去故。	於一去者中，　　不得二去故。	Because in one goer, two goings cannot be found.
+['ZH_T30_1564_001:0005b23_1']	」隨以何去法知去者，是去者不能用異去法。	」隨以何去法知去者，是去者不能用異去法。	Based on what dharma of going to know the goer, this goer cannot use a different dharma of going.
+['ZH_T30_1564_001:0005b23_5']	何以故？	何以故？	Why is it so?
+['ZH_T30_1564_001:0005b23_17']	一去者中二去法不可得故。	一去者中二去法不可得故。	Because in one goer, two dharmas of going cannot be found.
+['ZH_T30_1564_001:0005b24_1']	復次：	復次：	Furthermore:
+['ZH_T30_1564_001:0005b25_14']	「決定有去者，　　不能用三去；	「決定有去者，　　不能用三去；	One with definite going cannot use the three goings;
+['ZH_T30_1564_001:0005b26_13']	不決定去者，　　亦不用三去。	不決定去者，　　亦不用三去。	One without definite going also cannot use the three goings.
+['ZH_T30_1564_001:0005b27_0']	去法定不定，　　去者不用三，	去法定不定，　　去者不用三，	The dharma of going, whether definite or indefinite, the goer does not use the three;
+['ZH_T30_1564_001:0005b28_13']	是故去去者，　　所去處皆無。	是故去去者，　　所去處皆無。	Therefore, going, the goer, and the place gone are all nonexistent.
+['ZH_T30_1564_001:0005b29_14']	」決定者，名本實有，不因去法生。	」決定者，名本實有，不因去法生。	Definite means originally truly existent, not arising due to the dharma of going.
+['ZH_T30_1564_001:0005c01_2']	去法名身動。	去法名身動。	The dharma of going is called the movement of the body.
+['ZH_T30_1564_001:0005c01_14']	三種名未去、已去、去時。	三種名未去、已去、去時。	The three kinds are called not yet gone, already gone, and the time of going.
+['ZH_T30_1564_001:0005c03_11']	若決定有去者，離去法應有去者，不應有住，是故說決定有去者不能用三去。	若決定有去者，離去法應有去者，不應有住，是故說決定有去者不能用三去。	If the goer definitely exists, apart from the dharma of going there should be a goer, and there should not be abiding. Therefore it is said that one with definite going cannot use the three goings.
+['ZH_T30_1564_001:0005c05_12']	若去者不決定，不決定名本實無，以因去法得名去者，以無去法故不能用三去。	若去者不決定，不決定名本實無，以因去法得名去者，以無去法故不能用三去。	If the goer is indefinite, indefinite means originally truly nonexistent, and due to the dharma of going one is called a goer. Since there is no dharma of going, one cannot use the three goings.
+['ZH_T30_1564_001:0005c06_13']	因去法故有去者，若先無去法則無去者。	因去法故有去者，若先無去法則無去者。	Due to the dharma of going there is a goer. If there was originally no dharma of going, then there would be no goer.
+['ZH_T30_1564_001:0005c07_7']	云何言不決定去者用三去？	云何言不決定去者用三去？	How can you say that the goer does not use the three goings?
+['ZH_T30_1564_001:0005c07_17']	如去者，去法亦如是。	如去者，去法亦如是。	The method of going is also like this.
+['ZH_T30_1564_001:0005c09_12']	若先離去者決定有去法，則不因去者有去法，是故去者不能用三去法。	若先離去者決定有去法，則不因去者有去法，是故去者不能用三去法。	If, prior to the goer, there is definitely a method of going, then the method of going does not depend on the goer. Therefore, the goer cannot use the three methods of going.
+['ZH_T30_1564_001:0005c10_7']	若決定無去法，去者何所用？	若決定無去法，去者何所用？	If there is definitely no method of going, what is the use of the goer?
+['ZH_T30_1564_001:0005c11_12']	如是思惟觀察，去法、去者、所去處，是法皆相因待。	如是思惟觀察，去法、去者、所去處，是法皆相因待。	Thus contemplating and observing, the method of going, the goer, and the place to be gone to, these dharmas all depend on each other.
+['ZH_T30_1564_001:0005c14_18']	因去法有去者，因去者有去法，因是二法則有可去處，不得言定有、不得言定無，是故決定知，三法虛妄，空無所有，但有假名，如幻如化。	因去法有去者，因去者有去法，因是二法則有可去處，不得言定有、不得言定無，是故決定知，三法虛妄，空無所有，但有假名，如幻如化。	Depending on the method of going there is a goer, depending on the goer there is the method of going, and depending on these two there is a place to be gone to. One cannot say they definitely exist, nor can one say they definitely do not exist. Therefore, one definitely knows that the three dharmas are false, empty, and nonexistent, but only have provisional names, like an illusion or a transformation.
+['ZH_T30_1564_001:0005c16_2']	3 觀六情品中論觀六情品第三八偈問曰：	3 觀六情品中論觀六情品第三八偈問曰：	Chapter 3: Contemplation of the Six Sense Faculties, with eight verses. Question:
+['ZH_T30_1564_001:0005c16_12']	經中說有六情，所謂：	經中說有六情，所謂：	The sutras speak of the six sense faculties, namely:
+['ZH_T30_1564_001:0006a01_0']	「眼耳及鼻舌、　　身意等六情，	「眼耳及鼻舌、　　身意等六情，	The eyes, ears, nose, tongue, body, and mind - these six faculties,
+['ZH_T30_1564_001:0006a02_13']	此眼等六情，　　行色等六塵。	此眼等六情，　　行色等六塵。	These eyes and the other six faculties, function with the six sense objects such as form.
+['ZH_T30_1564_001:0006a04_14']	」此中眼為內情、色為外塵，眼能見色，乃至意為內情、法為外塵，意能知法。	」此中眼為內情、色為外塵，眼能見色，乃至意為內情、法為外塵，意能知法。	Here, the eyes are the inner faculty, and form is the outer object. The eyes can see form, up to the mind being the inner faculty, and dharmas being the outer object, the mind can cognize dharmas.
+['ZH_T30_1564_001:0006a04_17']	答曰：	答曰：	Answer:
+['ZH_T30_1564_001:0006a04_20']	無也。	無也。	No, there is not.🔽🔽
+['ZH_T30_1564_001:0006a05_3']	何以故？	何以故？	Why is it so?
+['ZH_T30_1564_001:0006a06_14']	「是眼則不能，　　自見其己體；	「是眼則不能，　　自見其己體；	The eyes cannot see their own substance,
+['ZH_T30_1564_001:0006a07_13']	若不能自見，　　云何見餘物？	若不能自見，　　云何見餘物？	If they cannot see themselves, how can they see other things?
+['ZH_T30_1564_001:0006a08_7']	」是眼不能見自體。	」是眼不能見自體。	The eyes cannot see their own substance.
+['ZH_T30_1564_001:0006a08_11']	何以故？	何以故？	Why is it so?
+['ZH_T30_1564_001:0006a09_3']	如燈能自照亦能照他。	如燈能自照亦能照他。	Like a lamp can illuminate itself and also illuminate others.
+['ZH_T30_1564_001:0006a09_18']	眼若是見相，亦應自見亦應見他。	眼若是見相，亦應自見亦應見他。	If the eyes have the characteristic of seeing, they should be able to see themselves and also see others.
+['ZH_T30_1564_001:0006a11_3']	而實不爾，是故偈中說「若眼不自見，何能見餘物？	而實不爾，是故偈中說「若眼不自見，何能見餘物？	But in reality it is not so, therefore the verse says: If the eyes cannot see themselves, how can they see other things?
+['ZH_T30_1564_001:0006a11_7']	」問曰：	」問曰：	Question:
+['ZH_T30_1564_001:0006a11_19']	眼雖不能自見，而能見他。	眼雖不能自見，而能見他。	Although the eyes cannot see themselves, they can see others.
+['ZH_T30_1564_001:0006a12_10']	如火能燒他，不能自燒。	如火能燒他，不能自燒。	It is like fire, which can burn others but cannot burn itself.
+['ZH_T30_1564_001:0006a12_13']	答曰：	答曰：	Answer:
+['ZH_T30_1564_001:0006a13_14']	「火喻則不能，　　成於眼見法；	「火喻則不能，　　成於眼見法；	The analogy of fire cannot establish the principle of eye seeing;
+['ZH_T30_1564_001:0006a14_13']	去未去去時，　　已總答是事。	去未去去時，　　已總答是事。	The already gone, not yet gone, and the act of going have already been answered comprehensively.
+['ZH_T30_1564_001:0006a15_12']	」汝雖作火喻，不能成眼見法。	」汝雖作火喻，不能成眼見法。	Although you use the analogy of fire, it cannot establish the principle of eye seeing.
+['ZH_T30_1564_001:0006a17_3']	是事〈去來品〉中已答，如已去中無去、未去中無去、去時中無去；	是事〈去來品〉中已答，如已去中無去、未去中無去、去時中無去；	This has already been answered in the chapter on going and coming, just as there is no going in the already gone, no going in the not yet gone, and no going in the act of going;
+['ZH_T30_1564_001:0006a18_13']	如已燒、未燒、燒時俱無有燒，如是已見、未見、見時俱無見相。	如已燒、未燒、燒時俱無有燒，如是已見、未見、見時俱無見相。	Just as there is no burning in the already burned, not yet burned, or the act of burning, so there is no seeing in the already seen, not yet seen, or the act of seeing.
+['ZH_T30_1564_001:0006a18_16']	復次：	復次：	Furthermore:
+['ZH_T30_1564_001:0006a19_14']	「見若未見時，　　則不名為見；	「見若未見時，　　則不名為見；	If seeing is not yet seeing, then it cannot be called seeing;
+['ZH_T30_1564_001:0006a20_13']	而言見能見，　　是事則不然。	而言見能見，　　是事則不然。	To say that seeing can see, this is not reasonable.
+['ZH_T30_1564_001:0006a22_5']	」眼未對色則不能見，爾時不名為見，因對色名為見。	」眼未對色則不能見，爾時不名為見，因對色名為見。	The eye, if not yet encountering form, cannot see. At that time it cannot be called seeing. It is only upon encountering form that it is called seeing.
+['ZH_T30_1564_001:0006a23_5']	是故偈中說「未見時無見」，云何以見能見？	是故偈中說「未見時無見」，云何以見能見？	Therefore, the verse says, When not yet seen, there is no seeing. How can seeing see?
+['ZH_T30_1564_001:0006a23_14']	復次二處俱無見法。	復次二處俱無見法。	Furthermore, in both cases there is no dharma of seeing.
+['ZH_T30_1564_001:0006a23_18']	何以故？	何以故？	Why is it so?
+['ZH_T30_1564_001:0006a24_14']	「見不能有見，　　非見亦不見；	「見不能有見，　　非見亦不見；	Seeing cannot have seeing, non-seeing also does not see;
+['ZH_T30_1564_001:0006a25_13']	若已破於見，　　則為破見者。	若已破於見，　　則為破見者。	If seeing is already refuted, then the seer is refuted.
+['ZH_T30_1564_001:0006a26_10']	」見不能見，先已說過故。	」見不能見，先已說過故。	Seeing cannot see, because it has already been refuted.
+['ZH_T30_1564_001:0006a27_2']	非見亦不見，無見相故。	非見亦不見，無見相故。	Non-seeing also does not see, because it lacks the characteristic of seeing.
+['ZH_T30_1564_001:0006a27_12']	若無見相，云何能見？	若無見相，云何能見？	If it lacks the characteristic of seeing, how can it see?
+['ZH_T30_1564_001:0006a28_2']	見法無故，見者亦無。	見法無故，見者亦無。	Because the dharma of seeing does not exist, the seer also does not exist.
+['ZH_T30_1564_001:0006a28_6']	何以故？	何以故？	Why is it so?
+['ZH_T30_1564_001:0006a29_5']	若離見有見者，無眼者亦應以餘情見。	若離見有見者，無眼者亦應以餘情見。	If the seer exists apart from seeing, then even one without eyes should be able to see with the other faculties.
+['ZH_T30_1564_001:0006a29_17']	若以見見，則見中有見相。	若以見見，則見中有見相。	If seeing sees, then there would be the characteristic of seeing within seeing.
+['ZH_T30_1564_001:0006b02_3']	見者無見相，是故偈中說「若已破於見，則為破見者。	見者無見相，是故偈中說「若已破於見，則為破見者。	The seer lacks the characteristic of seeing. Therefore, the verse says, If seeing is already refuted, then the seer is refuted.
+['ZH_T30_1564_001:0006b02_7']	」復次：	」復次：	Furthermore:
+['ZH_T30_1564_001:0006b03_14']	「離見不離見，　　見者不可得；	「離見不離見，　　見者不可得；	Apart from seeing or not apart from seeing, the seer cannot be found;
+['ZH_T30_1564_001:0006b04_13']	以無見者故，　　何有見可見？	以無見者故，　　何有見可見？	Since there is no seer, how can there be seeing and the seen?
+['ZH_T30_1564_001:0006b05_9']	」若有見，見者則不成；	」若有見，見者則不成；	If there is seeing, the seer is not established.
+['ZH_T30_1564_001:0006b05_19']	若無見，見者亦不成。	若無見，見者亦不成。	If there is no seeing, the seer is also not established.
+['ZH_T30_1564_001:0006b06_11']	見者無故，云何有見可見？	見者無故，云何有見可見？	Since the seer does not exist, how can there be seeing and the seen?
+['ZH_T30_1564_001:0006b07_7']	若無見者，誰能用見法分別外色？	若無見者，誰能用見法分別外色？	If there is no seer, who can use the dharma of seeing to discriminate external forms?
+['ZH_T30_1564_001:0006b08_7']	是故偈中說「以無見者故，何有見可見？	是故偈中說「以無見者故，何有見可見？	Therefore, the verse says: Since there is no seer, how can there be seeing and the seen?
+['ZH_T30_1564_001:0006b08_11']	」復次：	」復次：	Furthermore:
+['ZH_T30_1564_001:0006b09_14']	「見可見無故，　　識等四法無；	「見可見無故，　　識等四法無；	Since seeing and the seen do not exist, the four dharmas of consciousness, etc. do not exist.
+['ZH_T30_1564_001:0006b10_13']	四取等諸緣，　　云何當得有？	四取等諸緣，　　云何當得有？	How can the conditions such as the four graspings, etc. exist?
+['ZH_T30_1564_001:0006b11_19']	」見、可見法無故，識、觸、受、愛四法皆無。	」見、可見法無故，識、觸、受、愛四法皆無。	Since the dharmas of seeing and the seen do not exist, the four dharmas of consciousness, contact, feeling, and craving all do not exist.
+['ZH_T30_1564_001:0006b12_13']	以無愛等故，四取等十二因緣分亦無。	以無愛等故，四取等十二因緣分亦無。	Since craving, etc. do not exist, the twelve links of dependent origination such as the four graspings, etc. also do not exist.
+['ZH_T30_1564_001:0006b12_16']	復次：	復次：	Furthermore:
+['ZH_T30_1564_001:0006b13_0']	「耳鼻舌身意，　　聲及聞者等，	「耳鼻舌身意，　　聲及聞者等，	The ear, nose, tongue, body, and mind, sounds and the hearer, etc.,
+['ZH_T30_1564_001:0006b14_13']	當知如是義，　　皆同於上說。	當知如是義，　　皆同於上說。	One should know that the meaning is all the same as what was explained above.
+['ZH_T30_1564_001:0006b15_15']	」如見、可見法空，屬眾緣故無決定。	」如見、可見法空，屬眾緣故無決定。	Just as seeing and the seen are empty, because they belong to various conditions, they are without determination.
+['ZH_T30_1564_001:0006b17_3']	餘耳等五情聲等五塵，當知亦同見可見法，義同故不別說。	餘耳等五情聲等五塵，當知亦同見可見法，義同故不別說。	The remaining five sense faculties such as the ear, and the five sense objects such as sound, should be understood to be the same as seeing and the seen, because the meaning is the same, they are not explained separately.
+['ZH_T30_1564_001:0006b19_2']	4 觀五陰品中論觀五陰品第四九偈問曰：	4 觀五陰品中論觀五陰品第四九偈問曰：	Chapter 4: Contemplation of the Five Skandhas, Nine Verses, Question:
+['ZH_T30_1564_001:0006b19_8']	經說有五陰。	經說有五陰。	The sutras speak of the five skandhas.
+['ZH_T30_1564_001:0006b19_13']	是事云何？	是事云何？	What is this about?
+['ZH_T30_1564_001:0006b19_16']	答曰：	答曰：	Answer:
+['ZH_T30_1564_001:0006b20_14']	「若離於色因，　　色則不可得；	「若離於色因，　　色則不可得；	If apart from the cause of form, form cannot be obtained;
+['ZH_T30_1564_001:0006b21_13']	若當離於色，　　色因不可得。	若當離於色，　　色因不可得。	If it is to be apart from form, the cause of form cannot be obtained.
+['ZH_T30_1564_001:0006b23_1']	」色因者，如布因縷，除縷則無布，除布則無縷。	」色因者，如布因縷，除縷則無布，除布則無縷。	The cause of form is like cloth being caused by threads. Apart from threads, there is no cloth. Apart from cloth, there are no threads.
+['ZH_T30_1564_001:0006b23_9']	布如色，縷如因。	布如色，縷如因。	Cloth is like form, and threads are like causes.
+['ZH_T30_1564_001:0006b23_12']	問曰：	問曰：	Question:
+['ZH_T30_1564_001:0006b24_3']	若離色因有色，有何過？	若離色因有色，有何過？	If apart from the cause of form, there is form, what is the error?
+['ZH_T30_1564_001:0006b24_6']	答曰：	答曰：	Answer:
+['ZH_T30_1564_001:0006b25_14']	「離色因有色，　　是色則無因；	「離色因有色，　　是色則無因；	If apart from the cause of form, there is form, this form would be without cause;
+['ZH_T30_1564_001:0006b26_13']	無因而有法，　　是事則不然。	無因而有法，　　是事則不然。	For a dharma to exist without cause, this is not so.
+['ZH_T30_1564_001:0006b27_10']	」如離縷有布，布則無因。	」如離縷有布，布則無因。	It is like saying that apart from threads there is cloth, but cloth has no cause.
+['ZH_T30_1564_001:0006b28_3']	無因而有法，世間所無有。	無因而有法，世間所無有。	There is no dharma that exists without a cause in the world.
+['ZH_T30_1564_001:0006b28_6']	問曰：	問曰：	Question:
+['ZH_T30_1564_001:0006b29_3']	佛法、外道法、世間法中皆有無因法。	佛法、外道法、世間法中皆有無因法。	In the Buddha's teachings, non-Buddhist teachings, and worldly teachings, there are all dharmas without a cause.
+['ZH_T30_1564_001:0006b29_17']	佛法有三無為，無為常故無因。	佛法有三無為，無為常故無因。	In the Buddha's teachings, there are three unconditioned [dharmas], which are permanent and therefore without a cause.
+['ZH_T30_1564_001:0006c01_17']	外道法中虛空、時、方、神、微塵、涅槃等。	外道法中虛空、時、方、神、微塵、涅槃等。	In the non-Buddhist teachings, there are space, time, direction, spirit, atoms, nirvana, etc.
+['ZH_T30_1564_001:0006c02_4']	世間法虛空、時、方等。	世間法虛空、時、方等。	In worldly teachings, there are space, time, direction, etc.
+['ZH_T30_1564_001:0006c03_2']	是三法無處不有故名為常，常故無因。	是三法無處不有故名為常，常故無因。	These three dharmas are present everywhere and are therefore called permanent, and because they are permanent, they have no cause.
+['ZH_T30_1564_001:0006c03_14']	汝何以說無因法世間所無？	汝何以說無因法世間所無？	Why do you say that dharmas without a cause do not exist in the world?
+['ZH_T30_1564_001:0006c03_17']	答曰：	答曰：	Answer:
+['ZH_T30_1564_001:0006c04_15']	此無因法但有言說，思惟分別則皆無。	此無因法但有言說，思惟分別則皆無。	These dharmas without a cause are mere words and phrases. If one contemplates and analyzes them, they are all nonexistent.
+['ZH_T30_1564_001:0006c05_9']	若法從因緣有，不應言無因。	若法從因緣有，不應言無因。	If a dharma exists due to causes and conditions, one should not say it has no cause.
+['ZH_T30_1564_001:0006c06_1']	若無因緣，則如我說。	若無因緣，則如我說。	If it has no causes and conditions, then it is as I have said.
+['ZH_T30_1564_001:0006c06_4']	問曰：	問曰：	Question:
+['ZH_T30_1564_001:0006c06_9']	有二種因：	有二種因：	There are two kinds of causes:
+['ZH_T30_1564_001:0006c06_20']	一者作因、二者言說因。	一者作因、二者言說因。	the first is the cause of creation, and the second is the cause of verbal expression.
+['ZH_T30_1564_001:0006c07_18']	是無因法無作因，但有言說因，令人知故。	是無因法無作因，但有言說因，令人知故。	This causeless dharma has no causal efficacy, but only verbal causation, because it makes people understand.
+['ZH_T30_1564_001:0006c08_2']	答曰：	答曰：	Answer:
+['ZH_T30_1564_001:0006c08_13']	雖有言說因，是事不然。	雖有言說因，是事不然。	Although there is verbal causation, this matter is not so.
+['ZH_T30_1564_001:0006c09_8']	虛空如六種中破，餘事後當破。	虛空如六種中破，餘事後當破。	Space is refuted in the six categories, and the other matters will be refuted later.
+['ZH_T30_1564_001:0006c10_8']	復次現事尚皆可破，何況微塵等不可見法？	復次現事尚皆可破，何況微塵等不可見法？	Moreover, even the present matters are all refutable, let alone the invisible dharmas such as atoms and so forth.
+['ZH_T30_1564_001:0006c11_1']	是故說無因法世間所無。	是故說無因法世間所無。	Therefore, it is said that causeless dharmas do not exist in the world.
+['ZH_T30_1564_001:0006c11_4']	問曰：	問曰：	Question:
+['ZH_T30_1564_001:0006c11_15']	若離色有色因，有何過？	若離色有色因，有何過？	If there is a cause of form apart from form, what fault is there?
+['ZH_T30_1564_001:0006c11_18']	答曰：	答曰：	Answer:
+['ZH_T30_1564_001:0006c12_14']	「若離色有因，　　則是無果因；	「若離色有因，　　則是無果因；	If there is a cause apart from form, it is a cause without an effect;
+['ZH_T30_1564_001:0006c13_13']	若言無果因，　　則無有是處。	若言無果因，　　則無有是處。	If it is said to be a cause without an effect, it is not the case.
+['ZH_T30_1564_001:0006c14_15']	」若除色果但有色因者，即是無果因。	」若除色果但有色因者，即是無果因。	If there is only a cause of form apart from the effect of form, it is a cause without an effect.
+['ZH_T30_1564_001:0006c14_18']	問曰：	問曰：	Question:
+['ZH_T30_1564_001:0006c15_9']	若無果有因，有何咎？	若無果有因，有何咎？	If there is a cause without an effect, what is the problem?
+['ZH_T30_1564_001:0006c15_12']	答曰：	答曰：	Answer:
+['ZH_T30_1564_001:0006c16_2']	無果有因，世間所無。	無果有因，世間所無。	A cause without an effect does not exist in the world.
+['ZH_T30_1564_001:0006c16_6']	何以故？	何以故？	Why is it so?
+['ZH_T30_1564_001:0006c16_13']	以果故名為因。	以果故名為因。	Because of the effect, it is called a cause.
+['ZH_T30_1564_001:0006c17_2']	若無果，云何名因？	若無果，云何名因？	If there is no effect, how can it be called a cause?
+['ZH_T30_1564_001:0006c18_2']	復次若因中無果者，物何以不從非因生？	復次若因中無果者，物何以不從非因生？	Moreover, if there is no effect in the cause, why do things not arise from non-causes?
+['ZH_T30_1564_001:0006c18_14']	是事如〈破因緣品〉中說。	是事如〈破因緣品〉中說。	This matter is explained in the chapter on breaking down causes and conditions.
+['ZH_T30_1564_001:0006c19_2']	是故無有無果因。	是故無有無果因。	Therefore, there is no cause without an effect.
+['ZH_T30_1564_001:0006c19_5']	復次：	復次：	Furthermore:
+['ZH_T30_1564_001:0006c20_14']	「若已有色者，　　則不用色因；	「若已有色者，　　則不用色因；	If there is form, then it does not use the cause of form;
+['ZH_T30_1564_001:0006c21_13']	若無有色者，　　亦不用色因。	若無有色者，　　亦不用色因。	If there is no form, it also does not use the cause of form.
+['ZH_T30_1564_001:0006c22_10']	」二處有色因，是則不然。	」二處有色因，是則不然。	The existence of the cause of form in these two cases is not so.
+['ZH_T30_1564_001:0006c23_5']	若先因中有色，不名為色因；	若先因中有色，不名為色因；	If form already exists in the cause, it is not called the cause of form;
+['ZH_T30_1564_001:0006c24_1']	若先因中無色，亦不名為色因。	若先因中無色，亦不名為色因。	If form does not exist in the cause, it is also not called the cause of form.
+['ZH_T30_1564_001:0006c24_4']	問曰：	問曰：	Question:
+['ZH_T30_1564_001:0006c25_1']	若二處俱不然，但有無因色，有何咎？	若二處俱不然，但有無因色，有何咎？	If both cases are not so, but there is form without a cause, what is the problem?
+['ZH_T30_1564_001:0006c25_4']	答曰：	答曰：	Answer:
+['ZH_T30_1564_001:0006c26_14']	「無因而有色，　　是事終不然。	「無因而有色，　　是事終不然。	Form existing without a cause is never so.
+['ZH_T30_1564_001:0006c27_13']	是故有智者，　　不應分別色。	是故有智者，　　不應分別色。	Therefore, the wise should not discriminate form.
+['ZH_T30_1564_001:0006c29_4']	」若因中有果、因中無果，此事尚不可得，何況無因有色。	」若因中有果、因中無果，此事尚不可得，何況無因有色。	If there is an effect in the cause or there is no effect in the cause, this matter is still unobtainable, let alone the existence of form without a cause.
+['ZH_T30_1564_001:0007a01_1']	是故言「無因而有色，是事終不然。	是故言「無因而有色，是事終不然。	Therefore, it is said, The existence of form without a cause is never so.
+['ZH_T30_1564_001:0007a01_13']	是故有智者，不應分別色。	是故有智者，不應分別色。	Therefore, the wise should not discriminate form.
+['ZH_T30_1564_001:0007a03_13']	」分別名凡夫，以無明愛染貪著色，然後以邪見生分別戲論，說因中有果、無果等。	」分別名凡夫，以無明愛染貪著色，然後以邪見生分別戲論，說因中有果、無果等。	Discrimination is the common person, who, due to ignorance and attachment, becomes attached to form, and then, due to wrong views, gives rise to discrimination and debate, speaking of the existence or non-existence of an effect in the cause, and so on.
+['ZH_T30_1564_001:0007a04_11']	今此中求色不可得，是故智者不應分別。	今此中求色不可得，是故智者不應分別。	Here, seeking form is unobtainable, and therefore the wise should not discriminate.
+['ZH_T30_1564_001:0007a04_14']	復次：	復次：	Furthermore:
+['ZH_T30_1564_001:0007a05_14']	「若果似於因，　　是事則不然；	「若果似於因，　　是事則不然；	If the effect resembles the cause, this matter is not so;
+['ZH_T30_1564_001:0007a06_13']	果若不似因，　　是事亦不然。	果若不似因，　　是事亦不然。	If the effect does not resemble the cause, this matter is also not so.
+['ZH_T30_1564_001:0007a07_17']	」若果與因相似，是事不然，因細果麁故。	」若果與因相似，是事不然，因細果麁故。	If the effect is similar to the cause, this is not so, because the cause is subtle and the effect is coarse.
+['ZH_T30_1564_001:0007a09_3']	因果色力等各異，如布似縷則不名布，縷多布一故。	因果色力等各異，如布似縷則不名布，縷多布一故。	The colors, strengths, and so on of cause and effect are each different. If cloth resembles thread, it is not called cloth, because there is much thread and little cloth.
+['ZH_T30_1564_001:0007a09_11']	不得言因果相似。	不得言因果相似。	One cannot say that cause and effect are similar.
+['ZH_T30_1564_001:0007a10_4']	若因果不相似，是亦不然。	若因果不相似，是亦不然。	If cause and effect are not similar, this is also unreasonable.
+['ZH_T30_1564_001:0007a11_12']	如麻縷不成絹，麁縷無出細布，是故不得言因果不相似。	如麻縷不成絹，麁縷無出細布，是故不得言因果不相似。	Just as hemp thread does not make silk, coarse thread does not produce fine cloth, therefore one cannot say that cause and effect are not similar.
+['ZH_T30_1564_001:0007a12_6']	二義不然，故無色、無色因。	二義不然，故無色、無色因。	Since both meanings are unreasonable, there is no form and no cause of form.
+['ZH_T30_1564_001:0007a13_0']	「受陰及想陰、　　行陰識陰等，	「受陰及想陰、　　行陰識陰等，	The aggregate of feeling, the aggregate of perception, the aggregate of mental formations, and the aggregate of consciousness,
+['ZH_T30_1564_001:0007a14_13']	其餘一切法，　　皆同於色陰。	其餘一切法，　　皆同於色陰。	All other dharmas are the same as the aggregate of form.
+['ZH_T30_1564_001:0007a15_14']	」四陰及一切法，亦應如是思惟破。	」四陰及一切法，亦應如是思惟破。	The four aggregates and all dharmas should also be contemplated and refuted in this way.
+['ZH_T30_1564_001:0007a16_11']	又今造論者欲讚美空義故而說偈：	又今造論者欲讚美空義故而說偈：	Moreover, the author of the treatise, wishing to praise the meaning of emptiness, speaks this verse:
+['ZH_T30_1564_001:0007a17_0']	「若人有問者，　　離空而欲答，	「若人有問者，　　離空而欲答，	If someone has a question and wishes to answer it apart from emptiness,
+['ZH_T30_1564_001:0007a18_13']	是則不成答，　　俱同於彼疑。	是則不成答，　　俱同於彼疑。	This is not a complete answer, both are the same as his doubt.
+['ZH_T30_1564_001:0007a19_0']	若人有難問，　　離空說其過，	若人有難問，　　離空說其過，	If someone has a difficult question and explains its error apart from emptiness,
+['ZH_T30_1564_001:0007a20_13']	是不成難問，　　俱同於彼疑。	是不成難問，　　俱同於彼疑。	This is not a complete question, both are the same as his doubt.
+['ZH_T30_1564_001:0007a22_13']	」若人論議時各有所執，離於空義而有問答者，皆不成問答，俱亦同疑。	」若人論議時各有所執，離於空義而有問答者，皆不成問答，俱亦同疑。	If people debate with each other, each holding their own views, apart from the principle of emptiness, any questions and answers will not be valid, and they will all be in doubt together.
+['ZH_T30_1564_001:0007a22_17']	如人言：	如人言：	It is like someone saying:
+['ZH_T30_1564_001:0007a23_2']	「瓶是無常。	「瓶是無常。	A vase is impermanent.
+['ZH_T30_1564_001:0007a23_7']	」問者言：	」問者言：	The questioner says:
+['ZH_T30_1564_001:0007a23_14']	「何以故無常？	「何以故無常？	Why is it impermanent?
+['ZH_T30_1564_001:0007a23_18']	」答言：	」答言：	The answer is:
+['ZH_T30_1564_001:0007a24_2']	「從無常因生故。	「從無常因生故。	Because it arises from impermanent causes.
+['ZH_T30_1564_001:0007a24_8']	」此不名答。	」此不名答。	This is not considered an answer.
+['ZH_T30_1564_001:0007a24_12']	何以故？	何以故？	Why is that?
+['ZH_T30_1564_001:0007a25_6']	因緣中亦疑，不知為常、為無常？	因緣中亦疑，不知為常、為無常？	In the causes and conditions, there is also doubt, not knowing whether it is permanent or impermanent.
+['ZH_T30_1564_001:0007a25_13']	是為同彼所疑。	是為同彼所疑。	This is the same as doubting what the other person says.
+['ZH_T30_1564_001:0007a27_1']	問者若欲說其過，不依於空而說諸法無常，則不名問難。	問者若欲說其過，不依於空而說諸法無常，則不名問難。	If the questioner wants to point out the other's faults, but does not rely on emptiness to say that all dharmas are impermanent, then it is not considered a valid objection.
+['ZH_T30_1564_001:0007a27_5']	何以故？	何以故？	Why is that?
+['ZH_T30_1564_001:0007a28_3']	汝因無常破我常，我亦因常破汝無常。	汝因無常破我常，我亦因常破汝無常。	You use impermanence to refute my permanence, and I also use permanence to refute your impermanence.
+['ZH_T30_1564_001:0007a29_8']	若實無常則無業報，眼耳等諸法念念滅，亦無有分別。	若實無常則無業報，眼耳等諸法念念滅，亦無有分別。	If it is truly impermanent, then there is no karmic retribution. The eyes, ears, and other dharmas cease moment by moment, and there is no discrimination.
+['ZH_T30_1564_001:0007b01_7']	有如是等過，皆不成問難，同彼所疑。	有如是等過，皆不成問難，同彼所疑。	If one has such faults, they all do not constitute a challenge, the same as their doubts.
+['ZH_T30_1564_001:0007b02_1']	若依空破常者，則無有過。	若依空破常者，則無有過。	If one relies on emptiness to refute permanence, then there are no faults.
+['ZH_T30_1564_001:0007b02_5']	何以故？	何以故？	Why is this?
+['ZH_T30_1564_001:0007b02_13']	此人不取空相故。	此人不取空相故。	Because this person does not grasp the characteristics of emptiness.
+['ZH_T30_1564_001:0007b04_2']	是故若欲問答，尚應依於空法，何況欲求離苦寂滅相者。	是故若欲問答，尚應依於空法，何況欲求離苦寂滅相者。	Therefore, if one wishes to ask and answer, one should still rely on the Dharma of emptiness, let alone one who wishes to seek the characteristics of the cessation of suffering.
+['ZH_T30_1564_001:0007b06_2']	5 觀六種品中論觀六種品第五八偈問曰：	5 觀六種品中論觀六種品第五八偈問曰：	Chapter 5: Contemplating the Six Kinds, with Eight Verses, Question:
+['ZH_T30_1564_001:0007b06_18']	六種各有定相，有定相故則有六種。	六種各有定相，有定相故則有六種。	The six kinds each have definite characteristics. Because they have definite characteristics, there are six kinds.
+['ZH_T30_1564_001:0007b07_2']	答曰：	答曰：	Answer:
+['ZH_T30_1564_001:0007b08_14']	「空相未有時，　　則無虛空法；	「空相未有時，　　則無虛空法；	When the characteristics of emptiness do not yet exist, then there is no dharma of empty space;
+['ZH_T30_1564_001:0007b09_13']	若先有虛空，　　即為是無相。	若先有虛空，　　即為是無相。	If empty space existed first, then it would be without characteristics.
+['ZH_T30_1564_001:0007b11_1']	」若未有虛空相先有虛空法者，虛空則無相。	」若未有虛空相先有虛空法者，虛空則無相。	If the dharma of empty space existed before the characteristics of empty space, then empty space would be without characteristics.
+['ZH_T30_1564_001:0007b11_5']	何以故？	何以故？	Why is this?
+['ZH_T30_1564_001:0007b11_13']	無色處名虛空相。	無色處名虛空相。	The absence of a location for form is called the characteristic of empty space.
+['ZH_T30_1564_001:0007b12_19']	色是作法無常，若色未生，未生則無滅，爾時無虛空相。	色是作法無常，若色未生，未生則無滅，爾時無虛空相。	Form is a created dharma and impermanent. If form has not yet arisen, not yet arisen then there is no cessation. At that time there is no characteristic of space.
+['ZH_T30_1564_001:0007b13_15']	因色故有無色處，無色處名虛空相。	因色故有無色處，無色處名虛空相。	Because of form there is a formless realm. The formless realm is called the characteristic of space.
+['ZH_T30_1564_001:0007b13_18']	問曰：	問曰：	Question:
+['ZH_T30_1564_001:0007b14_10']	若無相有虛空，有何咎？	若無相有虛空，有何咎？	If there is space without characteristics, what is the problem?
+['ZH_T30_1564_001:0007b14_13']	答曰：	答曰：	Answer:
+['ZH_T30_1564_001:0007b15_14']	「是無相之法，　　一切處無有；	「是無相之法，　　一切處無有；	This dharma without characteristics does not exist anywhere;
+['ZH_T30_1564_001:0007b16_13']	於無相法中，　　相則無所相。	於無相法中，　　相則無所相。	In the dharma without characteristics, characteristics have nothing to characterize.
+['ZH_T30_1564_001:0007b17_15']	」若於常無常法中，求無相法不可得。	」若於常無常法中，求無相法不可得。	If one seeks the dharma without characteristics in the dharmas of permanence and impermanence, it cannot be obtained.
+['ZH_T30_1564_001:0007b18_14']	如論者言，是有是無，云何知各有相？	如論者言，是有是無，云何知各有相？	As the treatise says, This exists, this does not exist. How do we know each has characteristics?
+['ZH_T30_1564_001:0007b19_12']	故生住滅是有為相，無生住滅是無為相。	故生住滅是有為相，無生住滅是無為相。	Therefore, arising, abiding, and ceasing are the characteristics of the conditioned, and the absence of arising, abiding, and ceasing are the characteristics of the unconditioned.
+['ZH_T30_1564_001:0007b20_4']	虛空若無相，則無虛空。	虛空若無相，則無虛空。	If space is without characteristics, then there is no space.
+['ZH_T30_1564_001:0007b21_2']	若謂先無相、後相來相者，是亦不然。	若謂先無相、後相來相者，是亦不然。	If one says that first there are no characteristics, and later characteristics come to characterize, this is also not so.
+['ZH_T30_1564_001:0007b21_13']	若先無相，則無法可相。	若先無相，則無法可相。	If first there are no characteristics, then there is no dharma to be characterized.
+['ZH_T30_1564_001:0007b21_17']	何以故？	何以故？	Why is this?
+['ZH_T30_1564_001:0007b22_14']	「有相無相中，　　相則無所住；	「有相無相中，　　相則無所住；	Within the characteristics and the absence of characteristics, characteristics have no abode;
+['ZH_T30_1564_001:0007b23_13']	離有相無相，　　餘處亦不住。	離有相無相，　　餘處亦不住。	Apart from the characteristics and the absence of characteristics, they also do not abide elsewhere.
+['ZH_T30_1564_001:0007b25_2']	」如有峯有角、尾端有毛、頸下垂𩑶，是名牛相。	」如有峯有角、尾端有毛、頸下垂𩑶，是名牛相。	Having a peak, having horns, having hair at the tip of the tail, and having a dewlap hanging from the neck - these are called the characteristics of an ox.
+['ZH_T30_1564_001:0007b25_10']	若離是相則無牛。	若離是相則無牛。	If one departs from these characteristics, then there is no ox.
+['ZH_T30_1564_001:0007b26_2']	若無牛，是諸相無所住。	若無牛，是諸相無所住。	If there is no ox, then these characteristics have no abode.
+['ZH_T30_1564_001:0007b26_16']	是故說於無相法中相則無所相。	是故說於無相法中相則無所相。	Therefore, it is said that within the Dharma of the absence of characteristics, characteristics have no characteristics.
+['ZH_T30_1564_001:0007b27_11']	有相中相亦不住，先有相故。	有相中相亦不住，先有相故。	Characteristics also do not abide within characteristics, because there are already characteristics.
+['ZH_T30_1564_001:0007b28_8']	如水相中火相不住，先有自相故。	如水相中火相不住，先有自相故。	It is like how the characteristics of fire do not abide within the characteristics of water, because there are already its own characteristics.
+['ZH_T30_1564_001:0007b29_14']	復次若無相中相住者，則為無因，無因名為無法而有相。	復次若無相中相住者，則為無因，無因名為無法而有相。	Moreover, if characteristics abide within the absence of characteristics, then they would be without a cause. Being without a cause is called the non-existence of dharmas yet having characteristics.
+['ZH_T30_1564_001:0007c01_6']	相、可相、常相，因待故。	相、可相、常相，因待故。	Characteristics, the characterized, and the constant characteristics are due to mutual dependence.
+['ZH_T30_1564_001:0007c02_2']	離有相無相法，更無第三處可相。	離有相無相法，更無第三處可相。	Apart from the Dharma of the absence of characteristics, there is no third place for the characterized.
+['ZH_T30_1564_001:0007c03_1']	是故偈中說「離有相無相，餘處亦不住。	是故偈中說「離有相無相，餘處亦不住。	Therefore, the verse says, Apart from the characteristics and the absence of characteristics, they also do not abide elsewhere.
+['ZH_T30_1564_001:0007c03_5']	」復次：	」復次：	Moreover:
+['ZH_T30_1564_001:0007c04_14']	「相法無有故，　　可相法亦無；	「相法無有故，　　可相法亦無；	Because the characterized dharma does not exist, the characteristic dharma also does not exist;
+['ZH_T30_1564_001:0007c05_13']	可相法無故，　　相法亦復無。	可相法無故，　　相法亦復無。	Because the characterized dharma does not exist, the characteristic dharma also does not exist.
+['ZH_T30_1564_001:0007c06_11']	」相無所住故，則無可相法；	」相無所住故，則無可相法；	Because the characteristic has no abode, then there is no characterized dharma;
+['ZH_T30_1564_001:0007c07_3']	可相法無故，相法亦無。	可相法無故，相法亦無。	Because the characterized dharma does not exist, the characteristic dharma also does not exist.
+['ZH_T30_1564_001:0007c07_7']	何以故？	何以故？	Why is this?
+['ZH_T30_1564_001:0007c08_7']	因相有可相，因可相有相，共相因待故。	因相有可相，因可相有相，共相因待故。	Because the characterized exists due to the characteristic, and the characteristic exists due to the characterized, they mutually depend on each other.
+['ZH_T30_1564_001:0007c09_14']	「是故今無相，　　亦無有可相；	「是故今無相，　　亦無有可相；	Therefore now there is no characteristic, and also no characterized;
+['ZH_T30_1564_001:0007c10_13']	離相可相已，　　更亦無有物。	離相可相已，　　更亦無有物。	Apart from the characteristic and the characterized, there is no other thing.
+['ZH_T30_1564_001:0007c11_18']	」於因緣中本末推求，相、可相決定不可得。	」於因緣中本末推求，相、可相決定不可得。	In the causes and conditions, whether investigating from the beginning or the end, the characteristic and the characterized are definitely unobtainable.
+['ZH_T30_1564_001:0007c12_11']	是二不可得故，一切法皆無。	是二不可得故，一切法皆無。	Because these two are unobtainable, all dharmas are non-existent.
+['ZH_T30_1564_001:0007c13_17']	一切法皆攝在相、可相二法中，或相為可相、或可相為相。	一切法皆攝在相、可相二法中，或相為可相、或可相為相。	All dharmas are subsumed within the two dharmas of characteristic and characterized, either the characteristic is the characterized or the characterized is the characteristic.
+['ZH_T30_1564_001:0007c14_13']	如火以烟為相，烟亦復以火為相。	如火以烟為相，烟亦復以火為相。	Just as fire takes smoke as its characteristic, and smoke also takes fire as its characteristic.
+['ZH_T30_1564_001:0007c14_16']	問曰：	問曰：	Question:
+['ZH_T30_1564_001:0007c15_8']	若無有有，應當有無。	若無有有，應當有無。	If there is no existence, there should be non-existence.
+['ZH_T30_1564_001:0007c15_11', 'ZH_T30_1564_001:0007c16_14']	答曰：🔽「若使無有有，　　云何當有無？	答曰： 「若使無有有，　　云何當有無？	Answer:🔽If there is no existence, how can there be non-existence?
+['ZH_T30_1564_001:0007c17_13']	有無既已無，　　知有無者誰？	有無既已無，　　知有無者誰？	Since existence and non-existence are both non-existent, who knows existence and non-existence?
+['ZH_T30_1564_001:0007c18_14']	」凡物若自壞、若為他壞，名為無。	」凡物若自壞、若為他壞，名為無。	All things, whether they perish by themselves or are destroyed by others, are called non-existent.
+['ZH_T30_1564_001:0007c19_6']	無不自有，從有而有。	無不自有，從有而有。	Non-existence does not exist by itself, but exists from existence.
+['ZH_T30_1564_001:0007c20_3']	是故言「若使無有有，云何當有無？	是故言「若使無有有，云何當有無？	Therefore it is said, If there is no existence, how can there be non-existence?
+['ZH_T30_1564_001:0007c20_18']	」眼見耳聞尚不可得，何況無物。	」眼見耳聞尚不可得，何況無物。	Even seeing with the eyes and hearing with the ears cannot be obtained, let alone a non-existent thing.
+['ZH_T30_1564_001:0007c21_1']	問曰：	問曰：	Question:
+['ZH_T30_1564_001:0007c22_1']	以無有有故無亦無，應當有知有無者。	以無有有故無亦無，應當有知有無者。	Since there is no existence, non-existence is also non-existent. There should be a knower of existence and non-existence.
+['ZH_T30_1564_001:0007c22_4']	答曰：	答曰：	Answer:
+['ZH_T30_1564_001:0007c22_19']	若有知者，應在有中、應在無中？	若有知者，應在有中、應在無中？	If there is a knower, it should be in existence or in non-existence?
+['ZH_T30_1564_001:0007c23_10']	有無既破，知者亦同破。	有無既破，知者亦同破。	Since existence and non-existence are refuted, the knower is also refuted together.
+['ZH_T30_1564_001:0007c24_0']	「是故知虛空，　　非有亦非無，	「是故知虛空，　　非有亦非無，	Therefore, know that space is neither existent nor non-existent,
+['ZH_T30_1564_001:0007c25_13']	非相非可相，　　餘五同虛空。	非相非可相，　　餘五同虛空。	Neither a characteristic nor something characterized, the remaining five are the same as space.
+['ZH_T30_1564_001:0007c26_17']	」如虛空種種求相不可得，餘五種亦如是。	」如虛空種種求相不可得，餘五種亦如是。	Just as the various characteristics of space cannot be obtained, the other five kinds are also like this.
+['ZH_T30_1564_001:0007c27_11']	問曰虛空不在初、不在後。	問曰虛空不在初、不在後。	Question: Space is neither in the beginning nor in the end.
+['ZH_T30_1564_001:0007c27_16']	何以先破？	何以先破？	Why is it destroyed first?
+['ZH_T30_1564_001:0007c27_19']	答曰：	答曰：	Answer:
+['ZH_T30_1564_001:0007c28_15']	地、水、火、風眾緣和合，故易破。	地、水、火、風眾緣和合，故易破。	Earth, water, fire, and wind are easily destroyed because they are a combination of many conditions.
+['ZH_T30_1564_001:0007c29_10']	識以苦樂因故知無常變異，故易破。	識以苦樂因故知無常變異，故易破。	Consciousness is easily destroyed because it is known to be impermanent and changing due to the causes of suffering and happiness.
+['ZH_T30_1564_001:0008a01_11']	虛空無如是相，但凡夫悕望為有，是故先破。	虛空無如是相，但凡夫悕望為有，是故先破。	Space does not have such characteristics, but ordinary people hope for its existence, so it is destroyed first.
+['ZH_T30_1564_001:0008a03_1']	復次虛空能持四大，四大因緣有識，是故先破根本，餘者自破。	復次虛空能持四大，四大因緣有識，是故先破根本，餘者自破。	Moreover, space can hold the four great elements, and consciousness exists due to the four great elements. Therefore, the root is destroyed first, and the rest is destroyed by itself.
+['ZH_T30_1564_001:0008a03_4']	問曰：	問曰：	Question:
+['ZH_T30_1564_001:0008a04_12']	世間人盡見諸法是有是無，汝何以獨與世間相違，言無所見？	世間人盡見諸法是有是無，汝何以獨與世間相違，言無所見？	All worldly people see that all dharmas are existent or nonexistent. Why do you alone go against the world and say that nothing is seen?
+['ZH_T30_1564_001:0008a04_15']	答曰：	答曰：	Answer:
+['ZH_T30_1564_001:0008a05_0']	「淺智見諸法，　　若有若無相，	「淺智見諸法，　　若有若無相，	Shallow wisdom sees the characteristics of existence or nonexistence of all dharmas,
+['ZH_T30_1564_001:0008a06_13']	是則不能見，　　滅見安隱法。	是則不能見，　　滅見安隱法。	But this cannot see the peaceful dharma of the cessation of views.
+['ZH_T30_1564_001:0008a08_4']	」若人未得道，不見諸法實相，愛見因緣故種種戲論。	」若人未得道，不見諸法實相，愛見因緣故種種戲論。	If a person has not yet attained the Way and does not see the true nature of all dharmas, then due to the causes and conditions of love and views, there are various kinds of frivolous discourse.
+['ZH_T30_1564_001:0008a09_1']	見法生時謂之為有，取相言有；	見法生時謂之為有，取相言有；	When seeing a dharma arise, one considers it to be existent and grasps at the characteristics, saying it exists.
+['ZH_T30_1564_001:0008a09_15']	見法滅時謂之為斷，取相言無。	見法滅時謂之為斷，取相言無。	When seeing a dharma cease, one considers it to be annihilated and grasps at the characteristics, saying it does not exist.
+['ZH_T30_1564_001:0008a12_12']	智者見諸法生即滅無見，見諸法滅即滅有見，是故於一切法雖有所見，皆如幻如夢，乃至無漏道見尚滅，何況餘見。	智者見諸法生即滅無見，見諸法滅即滅有見，是故於一切法雖有所見，皆如幻如夢，乃至無漏道見尚滅，何況餘見。	The wise see that when dharmas arise, there is no view of existence, and when dharmas cease, there is no view of non-existence. Therefore, although there is something seen in all dharmas, it is all like an illusion, like a dream, and even the view of the unconditioned path is extinguished, let alone the other views.
+['ZH_T30_1564_001:0008a13_11']	是故若不見滅、見安隱法者，則見有見無。	是故若不見滅、見安隱法者，則見有見無。	Therefore, if one does not see cessation and sees the peaceful Dharma, then one sees existence and non-existence.
+['ZH_T30_1564_001:0008a15_2']	6 觀染染者品中論觀染染者品第六十偈問曰：	6 觀染染者品中論觀染染者品第六十偈問曰：	Chapter 6: Contemplating the One Who Is Attached and Attachment, Ten Verses in the Chapter on Contemplating the One Who Is Attached and Attachment, Question:
+['ZH_T30_1564_001:0008a15_18']	經說貪欲、瞋恚、愚癡是世間根本。	經說貪欲、瞋恚、愚癡是世間根本。	The sutra says that desire, anger, and delusion are the roots of the world.
+['ZH_T30_1564_001:0008a17_13']	貪欲有種種名，初名愛、次名著、次名染、次名婬欲、次名貪欲，有如是等名字。	貪欲有種種名，初名愛、次名著、次名染、次名婬欲、次名貪欲，有如是等名字。	There are various names for greed and desire, the first being love, then attachment, then defilement, then sexual desire, then greed and desire, there are such names.
+['ZH_T30_1564_001:0008a18_14']	此是結使，依止眾生眾生名染者，貪欲名染法。	此是結使，依止眾生眾生名染者，貪欲名染法。	This is the fetters, based on sentient beings, sentient beings are called the defiled, greed and desire are called the defiled dharmas.
+['ZH_T30_1564_001:0008a19_8']	有染法、染者故，則有貪欲。	有染法、染者故，則有貪欲。	Because there are defiled dharmas and defiled ones, then there is greed and desire.
+['ZH_T30_1564_001:0008a20_9']	餘二亦如是，有瞋則有瞋者、有癡則有癡者。	餘二亦如是，有瞋則有瞋者、有癡則有癡者。	The other two are also like this, if there is anger then there is one who is angry, if there is delusion then there is one who is deluded.
+['ZH_T30_1564_001:0008a21_16']	以此三毒因緣起三業，三業因緣起三界，是故有一切法。	以此三毒因緣起三業，三業因緣起三界，是故有一切法。	Because of these three poisons, the three karmas arise, because of the three karmas, the three realms arise, therefore there are all dharmas.
+['ZH_T30_1564_001:0008a21_19']	答曰：	答曰：	Answer:
+['ZH_T30_1564_001:0008a22_14']	經雖說有三毒名字，求實不可得。	經雖說有三毒名字，求實不可得。	Although the sutra speaks of the names of the three poisons, seeking the reality cannot be obtained.
+['ZH_T30_1564_001:0008a22_18']	何以故？	何以故？	Why is it so?
+['ZH_T30_1564_001:0008a23_0']	「若離於染法，　　先自有染者，	「若離於染法，　　先自有染者，	If apart from the defiled dharmas, there is first a defiled one,
+['ZH_T30_1564_001:0008a24_13']	因是染欲者，　　應生於染法；	因是染欲者，　　應生於染法；	Because of this defiled one, the defiled dharma should arise;
+['ZH_T30_1564_001:0008a25_13']	若無有染者，　　云何當有染？	若無有染者，　　云何當有染？	If there is no defiled one, how can there be defilement?
+['ZH_T30_1564_001:0008a26_13']	若有若無染，　　染者亦如是。	若有若無染，　　染者亦如是。	Whether defiled or not, the defiler is also like this.
+['ZH_T30_1564_001:0008a28_1']	」若先定有染者，則不更須染，染者先已染故。	」若先定有染者，則不更須染，染者先已染故。	If the defiler is definitely existent beforehand, then it does not need to be defiled again, because the defiler would already be defiled.
+['ZH_T30_1564_001:0008a29_7']	若先定無染者，亦復不應起染，要當先有染者然後起染。	若先定無染者，亦復不應起染，要當先有染者然後起染。	If the defiler is definitely non-existent beforehand, then it should also not give rise to defilement, because it must be existent beforehand in order for defilement to arise later.
+['ZH_T30_1564_001:0008b01_1']	若先無染者，則無受染者。	若先無染者，則無受染者。	If the defiler is non-existent beforehand, then there is no one to receive defilement.
+['ZH_T30_1564_001:0008b02_7']	染法亦如是，若先離人定有染法，此則無因，云何得起？	染法亦如是，若先離人定有染法，此則無因，云何得起？	The defiled dharmas are also like this. If the defiled dharmas are definitely separate from the person and existent beforehand, then they would be without a cause, so how could they arise?
+['ZH_T30_1564_001:0008b02_13']	似如無薪火。	似如無薪火。	It would be like fire without fuel.
+['ZH_T30_1564_001:0008b04_8']	若先定無染法則無有染者，是故偈中說「若有若無染，染者亦如是。	若先定無染法則無有染者，是故偈中說「若有若無染，染者亦如是。	If the defiled dharmas are definitely non-existent beforehand, then there would be no defiler. Therefore the verse says, Whether defiled or not, the defiler is also like this.
+['ZH_T30_1564_001:0008b04_12']	」問曰：	」問曰：	Question:
+['ZH_T30_1564_001:0008b05_10']	若染法、染者先後相待生，是事不可得者。	若染法、染者先後相待生，是事不可得者。	If the defiled dharmas and the defiler arise in dependence on each other before and after, and this is not possible,
+['ZH_T30_1564_001:0008b05_19']	若一時生，有何咎？	若一時生，有何咎？	then if they arise simultaneously, what is wrong with that?
+['ZH_T30_1564_001:0008b06_2']	答曰：	答曰：	Answer:
+['ZH_T30_1564_001:0008b07_14']	「染者及染法，　　俱成則不然；	「染者及染法，　　俱成則不然；	The defiler and the defiled dharmas cannot be established as simultaneous;
+['ZH_T30_1564_001:0008b08_13']	染者染法俱，　　則無有相待。	染者染法俱，　　則無有相待。	The defiled one and the defiled dharmas are both without mutual dependence.
+['ZH_T30_1564_001:0008b10_3']	」若染法、染者一時成，則不相待，不因染者有染法。	」若染法、染者一時成，則不相待，不因染者有染法。	If the defiled dharmas and the defiled one are accomplished simultaneously, then they are without mutual dependence. Not because of the defiled one are there defiled dharmas.
+['ZH_T30_1564_001:0008b11_4']	不因染法有染者，是二應常，已無因成故。	不因染法有染者，是二應常，已無因成故。	Not because of the defiled dharmas is there a defiled one. These two should be permanent, because they are already accomplished without a cause.
+['ZH_T30_1564_001:0008b11_16']	若常則多過，無有解脫法。	若常則多過，無有解脫法。	If they are permanent, then there are many faults, and there is no dharma of liberation.
+['ZH_T30_1564_001:0008b12_12']	復次今當以一異法破染法、染者。	復次今當以一異法破染法、染者。	Furthermore, now I will use the dharmas of sameness and difference to refute the defiled dharmas and the defiled one.
+['ZH_T30_1564_001:0008b12_16']	何以故？	何以故？	Why is it so?
+['ZH_T30_1564_001:0008b13_14']	「染者染法一，　　一法云何合？	「染者染法一，　　一法云何合？	The defiled one and the defiled dharmas are the same, how can the same dharma combine?
+['ZH_T30_1564_001:0008b14_13']	染者染法異，　　異法云何合？	染者染法異，　　異法云何合？	The defiled one and the defiled dharmas are different, how can the different dharma combine?
+['ZH_T30_1564_001:0008b15_17']	」染法、染者，若以一法合、若以異法合。	」染法、染者，若以一法合、若以異法合。	The defiled dharmas and the defiled one, if they combine with the same dharma or if they combine with a different dharma.
+['ZH_T30_1564_001:0008b16_4']	若一則無合。	若一則無合。	If they are the same, then there is no combination.
+['ZH_T30_1564_001:0008b16_8']	何以故？	何以故？	Why is it so?
+['ZH_T30_1564_001:0008b16_15']	一法云何自合？	一法云何自合？	How can the same dharma combine with itself?
+['ZH_T30_1564_001:0008b17_4']	如指端不能自觸。	如指端不能自觸。	It is like the tip of a finger not being able to touch itself.
+['ZH_T30_1564_001:0008b17_15']	若以異法合，是亦不可。	若以異法合，是亦不可。	If they combine with a different dharma, this is also impossible.
+['ZH_T30_1564_001:0008b17_19']	何以故？	何以故？	Why is it so?
+['ZH_T30_1564_001:0008b18_4']	以異成故。	以異成故。	Because they are accomplished as different.
+['ZH_T30_1564_001:0008b18_19']	若各成竟，不須復合，雖合猶異。	若各成竟，不須復合，雖合猶異。	If each is already accomplished, there is no need for them to join again. Even if they join, they are still different.
+['ZH_T30_1564_001:0008b19_7']	復次一異俱不可。	復次一異俱不可。	Moreover, being the same or different is both untenable.
+['ZH_T30_1564_001:0008b19_11']	何以故？	何以故？	Why is this?
+['ZH_T30_1564_001:0008b20_14']	「若一有合者，　　離伴應有合；	「若一有合者，　　離伴應有合；	If the same has joining, then apart from the companion there should be joining;
+['ZH_T30_1564_001:0008b21_13']	若異有合者，　　離伴亦應合。	若異有合者，　　離伴亦應合。	If the different has joining, then apart from the companion there should also be joining.
+['ZH_T30_1564_001:0008b23_5']	」若染、染者一，強名為合者，應離餘因緣而有染、染者。	」若染、染者一，強名為合者，應離餘因緣而有染、染者。	If the defiled and the defiler are the same, then one should be defiled without other conditions.
+['ZH_T30_1564_001:0008b24_10']	復次若一，亦不應有染、染者二名，染是法、染者是人。	復次若一，亦不應有染、染者二名，染是法、染者是人。	Moreover, if they are the same, there should not be the two names of defiled and defiler. Defiled is the dharma, and defiler is the person.
+['ZH_T30_1564_001:0008b25_1']	若人法為一，是則大亂。	若人法為一，是則大亂。	If person and dharma are the same, then this is greatly confused.
+['ZH_T30_1564_001:0008b26_4']	若染、染者各異而言合者，則不須餘因緣而有合。	若染、染者各異而言合者，則不須餘因緣而有合。	If the defiled and the defiler are each different and are said to join, then they should not need other conditions to have joining.
+['ZH_T30_1564_001:0008b26_16']	若異而合者，雖遠亦應合。	若異而合者，雖遠亦應合。	If they are different and join, then even if far apart they should still join.
+['ZH_T30_1564_001:0008b27_1']	問曰：	問曰：	Question:
+['ZH_T30_1564_001:0008b27_8']	一不合，可爾；	一不合，可爾；	Being the same does not join, this is possible;
+['ZH_T30_1564_001:0008b27_15']	眼見異法共合。	眼見異法共合。	The eye sees different dharmas joining together.
+['ZH_T30_1564_001:0008b27_18']	答曰：	答曰：	Answer:
+['ZH_T30_1564_001:0008b28_14']	「若異而有合，　　染染者何事？	「若異而有合，　　染染者何事？	If there is a union of the different, what is the purpose of the defiled and the defiler?
+['ZH_T30_1564_001:0008b29_13']	是二相先異，　　然後說合相。	是二相先異，　　然後說合相。	The two characteristics are different first, and then the characteristic of union is spoken of.
+['ZH_T30_1564_001:0008c02_1']	」若染、染者先有決定異相而後合者，是則不合。	」若染、染者先有決定異相而後合者，是則不合。	If the defiled and the defiler have a definite different characteristic first and then unite, then this is not a union.
+['ZH_T30_1564_001:0008c02_5']	何以故？	何以故？	Why is it so?
+['ZH_T30_1564_001:0008c02_18']	是二相先已異，而後強說合。	是二相先已異，而後強說合。	The two characteristics are already different first, and then one forcefully speaks of a union.
+['ZH_T30_1564_001:0008c03_1']	復次：	復次：	Furthermore:
+['ZH_T30_1564_001:0008c04_0']	「若染及染者，　　先各成異相，	「若染及染者，　　先各成異相，	If the defiled and the defiler first each have a different characteristic,
+['ZH_T30_1564_001:0008c05_13']	既已成異相，　　云何而言合？	既已成異相，　　云何而言合？	having already formed a different characteristic, how can one speak of a union?
+['ZH_T30_1564_001:0008c06_19']	」若染、染者先各成別相，汝今何以強說合相？	」若染、染者先各成別相，汝今何以強說合相？	If the defiled and the defiler first each form a separate characteristic, why do you now forcefully speak of a union?
+['ZH_T30_1564_001:0008c07_2']	復次：	復次：	Furthermore:
+['ZH_T30_1564_001:0008c08_14']	「異相無有成，　　是故汝欲合；	「異相無有成，　　是故汝欲合；	The different characteristic is not established, therefore you wish to unite;
+['ZH_T30_1564_001:0008c09_13']	合相竟無成，　　而復說異相。	合相竟無成，　　而復說異相。	The characteristic of union is not established at all, and yet you speak of a different characteristic again.
+['ZH_T30_1564_001:0008c10_16']	」汝已染、染者異相不成故，復說合相。	」汝已染、染者異相不成故，復說合相。	Since the different characteristic of the defiled and the defiler is not established, you speak of the characteristic of union again.
+['ZH_T30_1564_001:0008c11_10']	合相中有過，染、染者不成。	合相中有過，染、染者不成。	There is an error in the characteristic of union, and the defiled and the defiler are not established.
+['ZH_T30_1564_001:0008c12_3']	汝為成合相故，復說異相。	汝為成合相故，復說異相。	You say that in order to establish the characteristic of combination, there is the characteristic of difference.
+['ZH_T30_1564_001:0008c12_15']	汝自已為定，而所說不定。	汝自已為定，而所說不定。	You yourself have already determined, yet what you say is undetermined.
+['ZH_T30_1564_001:0008c13_1']	何以故？	何以故？	Why is this?
+['ZH_T30_1564_001:0008c14_14']	「異相不成故，　　合相則不成；	「異相不成故，　　合相則不成；	Because the characteristic of difference is not established, the characteristic of combination is also not established.
+['ZH_T30_1564_001:0008c15_13']	於何異相中，　　而欲說合相？	於何異相中，　　而欲說合相？	In which characteristic of difference do you wish to speak of the characteristic of combination?
+['ZH_T30_1564_001:0008c16_18']	」以此中染、染者異相不成故，合相亦不成。	」以此中染、染者異相不成故，合相亦不成。	In this way, because the characteristic of difference between defilement and the defiled one is not established, the characteristic of combination is also not established.
+['ZH_T30_1564_001:0008c17_11']	汝於何異相中而欲說合相？	汝於何異相中而欲說合相？	In which characteristic of difference do you wish to speak of the characteristic of combination?
+['ZH_T30_1564_001:0008c17_14']	復次：	復次：	Furthermore:
+['ZH_T30_1564_001:0008c18_14']	「如是染染者，　　非合不合成；	「如是染染者，　　非合不合成；	In this way, defilement and the defiled one are neither combined nor not combined.
+['ZH_T30_1564_001:0008c19_13']	諸法亦如是，　　非合不合成。	諸法亦如是，　　非合不合成。	All dharmas are also like this, neither combined nor not combined.
+['ZH_T30_1564_001:0008c20_8']	」如染，恚癡亦如是。	」如染，恚癡亦如是。	As with defilement, so it is with anger and delusion.
+['ZH_T30_1564_001:0008c21_4']	如三毒，一切煩惱、一切法亦如是。	如三毒，一切煩惱、一切法亦如是。	As with the three poisons, so it is with all afflictions and all dharmas.
+['ZH_T30_1564_001:0008c22_1']	非先非後、非合非散等，因緣所成。	非先非後、非合非散等，因緣所成。	They are neither prior nor posterior, neither combined nor dispersed, and so forth, being composed of causes and conditions.Here is the corrected and aligned text:
+['ZH_T30_1564_001:0008c23_100']	中論卷第一	中論卷第一	Mūlamadhyamakakārikā, Chapter 1🔽1. Examination of the Tathāgata🔽The Tathāgata is not the aggregates, not different from the aggregates,
