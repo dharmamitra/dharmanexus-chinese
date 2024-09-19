@@ -1,144 +1,570 @@
-{
-  "T01": "阿含部",
-  "T02": "阿含部",
-  "T03": "本緣部",
-  "T04": "本緣部",
-  "T05": "般若部",
-  "T06": "般若部",
-  "T07": "般若部",
-  "T08": "般若部",
-  "T09": "法華部",
-  "T10": "華嚴部",
-  "T11": "寶積部",
-  "T12": "涅槃部",
-  "T13": "大集部",
-  "T14": "經集部",
-  "T15": "經集部",
-  "T16": "經集部",
-  "T17": "經集部",
-  "T18": "密教部",
-  "T19": "密教部",
-  "T20": "密教部",
-  "T21": "密教部",
-  "T22": "律部",
-  "T23": "律部",
-  "T24": "律部",
-  "T25": "釋經論部",
-  "T26": "毘曇部",
-  "T27": "毘曇部",
-  "T28": "毘曇部",
-  "T29": "毘曇部",
-  "T30": "中觀部",
-  "T31": "瑜伽部",
-  "T32": "論集部",
-  "T33": "經疏部",
-  "T34": "經疏部",
-  "T35": "經疏部",
-  "T36": "經疏部",
-  "T37": "經疏部",
-  "T38": "經疏部",
-  "T39": "經疏部",
-  "T40": "律疏部",
-  "T41": "論疏部",
-  "T42": "論疏部",
-  "T43": "論疏部",
-  "T44": "論疏部",
-  "T45": "諸宗部",
-  "T46": "諸宗部",
-  "T47": "諸宗部",
-  "T48": "諸宗部",
-  "T49": "史傳部",
-  "T50": "史傳部",
-  "T51": "史傳部",
-  "T52": "史傳部",
-  "T53": "事彙部",
-  "T54": "外教部",
-  "T55": "目錄部",
-  "T85": "古逸部",
-  "X01": "印度撰述",
-  "X02": "印度撰述",
-  "X03": "大小乘釋經部",
-  "X04": "大小乘釋經部",
-  "X05": "大小乘釋經部",
-  "X07": "大小乘釋經部",
-  "X08": "大小乘釋經部",
-  "X09": "大小乘釋經部",
-  "X10": "大小乘釋經部",
-  "X11": "大小乘釋經部",
-  "X12": "大小乘釋經部",
-  "X13": "大小乘釋經部",
-  "X14": "大小乘釋經部",
-  "X15": "大小乘釋經部",
-  "X16": "大小乘釋經部",
-  "X17": "大小乘釋經部",
-  "X18": "大小乘釋經部",
-  "X19": "大小乘釋經部",
-  "X20": "大小乘釋經部",
-  "X21": "大小乘釋經部",
-  "X22": "大小乘釋經部",
-  "X23": "大小乘釋經部",
-  "X24": "大小乘釋經部",
-  "X25": "大小乘釋經部",
-  "X26": "大小乘釋經部",
-  "X27": "大小乘釋經部",
-  "X28": "大小乘釋經部",
-  "X29": "大小乘釋經部",
-  "X30": "大小乘釋經部",
-  "X31": "大小乘釋經部",
-  "X32": "大小乘釋經部",
-  "X33": "大小乘釋經部",
-  "X34": "大小乘釋經部",
-  "X35": "大小乘釋經部",
-  "X36": "大小乘釋經部",
-  "X37": "大小乘釋經部",
-  "X38": "大小乘釋律部",
-  "X39": "大小乘釋律部",
-  "X40": "大小乘釋律部",
-  "X41": "大小乘釋律部",
-  "X42": "大小乘釋律部",
-  "X43": "大小乘釋律部",
-  "X44": "大小乘釋律部",
-  "X45": "大小乘釋論部",
-  "X46": "大小乘釋論部",
-  "X47": "大小乘釋論部",
-  "X48": "大小乘釋論部",
-  "X49": "大小乘釋論部",
-  "X50": "大小乘釋論部",
-  "X51": "大小乘釋論部",
-  "X53": "大小乘釋論部",
-  "X54": "諸宗著述部",
-  "X55": "諸宗著述部",
-  "X56": "諸宗著述部",
-  "X57": "諸宗著述部",
-  "X58": "諸宗著述部",
-  "X59": "諸宗著述部",
-  "X60": "諸宗著述部",
-  "X61": "諸宗著述部",
-  "X62": "諸宗著述部",
-  "X63": "諸宗著述部",
-  "X64": "諸宗著述部",
-  "X65": "諸宗著述部",
-  "X66": "諸宗著述部",
-  "X67": "諸宗著述部",
-  "X68": "諸宗著述部",
-  "X69": "諸宗著述部",
-  "X70": "諸宗著述部",
-  "X71": "諸宗著述部",
-  "X72": "諸宗著述部",
-  "X73": "諸宗著述部",
-  "X74": "禮懺部",
-  "X75": "史傳部",
-  "X76": "史傳部",
-  "X77": "史傳部",
-  "X78": "史傳部",
-  "X79": "史傳部",
-  "X80": "史傳部",
-  "X81": "史傳部",
-  "X82": "史傳部",
-  "X83": "史傳部",
-  "X84": "史傳部",
-  "X85": "史傳部",
-  "X86": "史傳部",
-  "X87": "史傳部",
-  "X88": "史傳部"
-}
+[
+  {
+    "category": "T01",
+    "displayName": "阿含部"
+  },
+  {
+    "category": "T02",
+    "displayName": "阿含部"
+  },
+  {
+    "category": "T03",
+    "displayName": "本緣部"
+  },
+  {
+    "category": "T04",
+    "displayName": "本緣部"
+  },
+  {
+    "category": "T05",
+    "displayName": "般若部"
+  },
+  {
+    "category": "T06",
+    "displayName": "般若部"
+  },
+  {
+    "category": "T07",
+    "displayName": "般若部"
+  },
+  {
+    "category": "T08",
+    "displayName": "般若部"
+  },
+  {
+    "category": "T09",
+    "displayName": "法華部"
+  },
+  {
+    "category": "T10",
+    "displayName": "華嚴部"
+  },
+  {
+    "category": "T11",
+    "displayName": "寶積部"
+  },
+  {
+    "category": "T12",
+    "displayName": "涅槃部"
+  },
+  {
+    "category": "T13",
+    "displayName": "大集部"
+  },
+  {
+    "category": "T14",
+    "displayName": "經集部"
+  },
+  {
+    "category": "T15",
+    "displayName": "經集部"
+  },
+  {
+    "category": "T16",
+    "displayName": "經集部"
+  },
+  {
+    "category": "T17",
+    "displayName": "經集部"
+  },
+  {
+    "category": "T18",
+    "displayName": "密教部"
+  },
+  {
+    "category": "T19",
+    "displayName": "密教部"
+  },
+  {
+    "category": "T20",
+    "displayName": "密教部"
+  },
+  {
+    "category": "T21",
+    "displayName": "密教部"
+  },
+  {
+    "category": "T22",
+    "displayName": "律部"
+  },
+  {
+    "category": "T23",
+    "displayName": "律部"
+  },
+  {
+    "category": "T24",
+    "displayName": "律部"
+  },
+  {
+    "category": "T25",
+    "displayName": "釋經論部"
+  },
+  {
+    "category": "T26",
+    "displayName": "毘曇部"
+  },
+  {
+    "category": "T27",
+    "displayName": "毘曇部"
+  },
+  {
+    "category": "T28",
+    "displayName": "毘曇部"
+  },
+  {
+    "category": "T29",
+    "displayName": "毘曇部"
+  },
+  {
+    "category": "T30",
+    "displayName": "中觀部"
+  },
+  {
+    "category": "T31",
+    "displayName": "瑜伽部"
+  },
+  {
+    "category": "T32",
+    "displayName": "論集部"
+  },
+  {
+    "category": "T33",
+    "displayName": "經疏部"
+  },
+  {
+    "category": "T34",
+    "displayName": "經疏部"
+  },
+  {
+    "category": "T35",
+    "displayName": "經疏部"
+  },
+  {
+    "category": "T36",
+    "displayName": "經疏部"
+  },
+  {
+    "category": "T37",
+    "displayName": "經疏部"
+  },
+  {
+    "category": "T38",
+    "displayName": "經疏部"
+  },
+  {
+    "category": "T39",
+    "displayName": "經疏部"
+  },
+  {
+    "category": "T40",
+    "displayName": "律疏部"
+  },
+  {
+    "category": "T41",
+    "displayName": "論疏部"
+  },
+  {
+    "category": "T42",
+    "displayName": "論疏部"
+  },
+  {
+    "category": "T43",
+    "displayName": "論疏部"
+  },
+  {
+    "category": "T44",
+    "displayName": "論疏部"
+  },
+  {
+    "category": "T45",
+    "displayName": "諸宗部"
+  },
+  {
+    "category": "T46",
+    "displayName": "諸宗部"
+  },
+  {
+    "category": "T47",
+    "displayName": "諸宗部"
+  },
+  {
+    "category": "T48",
+    "displayName": "諸宗部"
+  },
+  {
+    "category": "T49",
+    "displayName": "史傳部"
+  },
+  {
+    "category": "T50",
+    "displayName": "史傳部"
+  },
+  {
+    "category": "T51",
+    "displayName": "史傳部"
+  },
+  {
+    "category": "T52",
+    "displayName": "史傳部"
+  },
+  {
+    "category": "T53",
+    "displayName": "事彙部"
+  },
+  {
+    "category": "T54",
+    "displayName": "外教部"
+  },
+  {
+    "category": "T55",
+    "displayName": "目錄部"
+  },
+  {
+    "category": "T85",
+    "displayName": "古逸部"
+  },
+  {
+    "category": "X01",
+    "displayName": "印度撰述"
+  },
+  {
+    "category": "X02",
+    "displayName": "印度撰述"
+  },
+  {
+    "category": "X03",
+    "displayName": "大小乘釋經部"
+  },
+  {
+    "category": "X04",
+    "displayName": "大小乘釋經部"
+  },
+  {
+    "category": "X05",
+    "displayName": "大小乘釋經部"
+  },
+  {
+    "category": "X07",
+    "displayName": "大小乘釋經部"
+  },
+  {
+    "category": "X08",
+    "displayName": "大小乘釋經部"
+  },
+  {
+    "category": "X09",
+    "displayName": "大小乘釋經部"
+  },
+  {
+    "category": "X10",
+    "displayName": "大小乘釋經部"
+  },
+  {
+    "category": "X11",
+    "displayName": "大小乘釋經部"
+  },
+  {
+    "category": "X12",
+    "displayName": "大小乘釋經部"
+  },
+  {
+    "category": "X13",
+    "displayName": "大小乘釋經部"
+  },
+  {
+    "category": "X14",
+    "displayName": "大小乘釋經部"
+  },
+  {
+    "category": "X15",
+    "displayName": "大小乘釋經部"
+  },
+  {
+    "category": "X16",
+    "displayName": "大小乘釋經部"
+  },
+  {
+    "category": "X17",
+    "displayName": "大小乘釋經部"
+  },
+  {
+    "category": "X18",
+    "displayName": "大小乘釋經部"
+  },
+  {
+    "category": "X19",
+    "displayName": "大小乘釋經部"
+  },
+  {
+    "category": "X20",
+    "displayName": "大小乘釋經部"
+  },
+  {
+    "category": "X21",
+    "displayName": "大小乘釋經部"
+  },
+  {
+    "category": "X22",
+    "displayName": "大小乘釋經部"
+  },
+  {
+    "category": "X23",
+    "displayName": "大小乘釋經部"
+  },
+  {
+    "category": "X24",
+    "displayName": "大小乘釋經部"
+  },
+  {
+    "category": "X25",
+    "displayName": "大小乘釋經部"
+  },
+  {
+    "category": "X26",
+    "displayName": "大小乘釋經部"
+  },
+  {
+    "category": "X27",
+    "displayName": "大小乘釋經部"
+  },
+  {
+    "category": "X28",
+    "displayName": "大小乘釋經部"
+  },
+  {
+    "category": "X29",
+    "displayName": "大小乘釋經部"
+  },
+  {
+    "category": "X30",
+    "displayName": "大小乘釋經部"
+  },
+  {
+    "category": "X31",
+    "displayName": "大小乘釋經部"
+  },
+  {
+    "category": "X32",
+    "displayName": "大小乘釋經部"
+  },
+  {
+    "category": "X33",
+    "displayName": "大小乘釋經部"
+  },
+  {
+    "category": "X34",
+    "displayName": "大小乘釋經部"
+  },
+  {
+    "category": "X35",
+    "displayName": "大小乘釋經部"
+  },
+  {
+    "category": "X36",
+    "displayName": "大小乘釋經部"
+  },
+  {
+    "category": "X37",
+    "displayName": "大小乘釋經部"
+  },
+  {
+    "category": "X38",
+    "displayName": "大小乘釋律部"
+  },
+  {
+    "category": "X39",
+    "displayName": "大小乘釋律部"
+  },
+  {
+    "category": "X40",
+    "displayName": "大小乘釋律部"
+  },
+  {
+    "category": "X41",
+    "displayName": "大小乘釋律部"
+  },
+  {
+    "category": "X42",
+    "displayName": "大小乘釋律部"
+  },
+  {
+    "category": "X43",
+    "displayName": "大小乘釋律部"
+  },
+  {
+    "category": "X44",
+    "displayName": "大小乘釋律部"
+  },
+  {
+    "category": "X45",
+    "displayName": "大小乘釋論部"
+  },
+  {
+    "category": "X46",
+    "displayName": "大小乘釋論部"
+  },
+  {
+    "category": "X47",
+    "displayName": "大小乘釋論部"
+  },
+  {
+    "category": "X48",
+    "displayName": "大小乘釋論部"
+  },
+  {
+    "category": "X49",
+    "displayName": "大小乘釋論部"
+  },
+  {
+    "category": "X50",
+    "displayName": "大小乘釋論部"
+  },
+  {
+    "category": "X51",
+    "displayName": "大小乘釋論部"
+  },
+  {
+    "category": "X53",
+    "displayName": "大小乘釋論部"
+  },
+  {
+    "category": "X54",
+    "displayName": "諸宗著述部"
+  },
+  {
+    "category": "X55",
+    "displayName": "諸宗著述部"
+  },
+  {
+    "category": "X56",
+    "displayName": "諸宗著述部"
+  },
+  {
+    "category": "X57",
+    "displayName": "諸宗著述部"
+  },
+  {
+    "category": "X58",
+    "displayName": "諸宗著述部"
+  },
+  {
+    "category": "X59",
+    "displayName": "諸宗著述部"
+  },
+  {
+    "category": "X60",
+    "displayName": "諸宗著述部"
+  },
+  {
+    "category": "X61",
+    "displayName": "諸宗著述部"
+  },
+  {
+    "category": "X62",
+    "displayName": "諸宗著述部"
+  },
+  {
+    "category": "X63",
+    "displayName": "諸宗著述部"
+  },
+  {
+    "category": "X64",
+    "displayName": "諸宗著述部"
+  },
+  {
+    "category": "X65",
+    "displayName": "諸宗著述部"
+  },
+  {
+    "category": "X66",
+    "displayName": "諸宗著述部"
+  },
+  {
+    "category": "X67",
+    "displayName": "諸宗著述部"
+  },
+  {
+    "category": "X68",
+    "displayName": "諸宗著述部"
+  },
+  {
+    "category": "X69",
+    "displayName": "諸宗著述部"
+  },
+  {
+    "category": "X70",
+    "displayName": "諸宗著述部"
+  },
+  {
+    "category": "X71",
+    "displayName": "諸宗著述部"
+  },
+  {
+    "category": "X72",
+    "displayName": "諸宗著述部"
+  },
+  {
+    "category": "X73",
+    "displayName": "諸宗著述部"
+  },
+  {
+    "category": "X74",
+    "displayName": "禮懺部"
+  },
+  {
+    "category": "X75",
+    "displayName": "史傳部"
+  },
+  {
+    "category": "X76",
+    "displayName": "史傳部"
+  },
+  {
+    "category": "X77",
+    "displayName": "史傳部"
+  },
+  {
+    "category": "X78",
+    "displayName": "史傳部"
+  },
+  {
+    "category": "X79",
+    "displayName": "史傳部"
+  },
+  {
+    "category": "X80",
+    "displayName": "史傳部"
+  },
+  {
+    "category": "X81",
+    "displayName": "史傳部"
+  },
+  {
+    "category": "X82",
+    "displayName": "史傳部"
+  },
+  {
+    "category": "X83",
+    "displayName": "史傳部"
+  },
+  {
+    "category": "X84",
+    "displayName": "史傳部"
+  },
+  {
+    "category": "X85",
+    "displayName": "史傳部"
+  },
+  {
+    "category": "X86",
+    "displayName": "史傳部"
+  },
+  {
+    "category": "X87",
+    "displayName": "史傳部"
+  },
+  {
+    "category": "X88",
+    "displayName": "史傳部"
+  }
+]
