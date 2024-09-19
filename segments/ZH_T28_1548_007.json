@@ -1,0 +1,6890 @@
+[
+  {
+    "segmentnr":"ZH_T28_1548_007:0575b05_0",
+    "original":"舍利弗阿毘曇論卷第七",
+    "folio":7,
+    "stemmed":"舍 利 弗 阿 毘 曇 論 卷 第 七 "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575b07_0",
+    "original":"姚秦罽賓三藏曇摩耶舍",
+    "folio":7,
+    "stemmed":"姚 秦 罽 賓 三 藏 曇 摩 耶 舍 "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575b08_0",
+    "original":"共曇摩崛多等譯",
+    "folio":7,
+    "stemmed":"共 曇 摩 崛 多 等 譯 "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575b10_6",
+    "original":"非問分1 界品非問分界品第一色界、非色界。",
+    "folio":7,
+    "stemmed":"非 問 分 1   界 品 非 問 分 界 品 第 一 色 界  非 色 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575b10_15",
+    "original":"可見界、不可見界。",
+    "folio":7,
+    "stemmed":"可 見 界  不 可 見 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575b11_2",
+    "original":"有對界、無對界。",
+    "folio":7,
+    "stemmed":"有 對 界  無 對 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575b11_9",
+    "original":"聖界、非聖界。",
+    "folio":7,
+    "stemmed":"聖 界  非 聖 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575b11_17",
+    "original":"有漏界、無漏界。",
+    "folio":7,
+    "stemmed":"有 漏 界  無 漏 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575b12_3",
+    "original":"有愛界、無愛界。",
+    "folio":7,
+    "stemmed":"有 愛 界  無 愛 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575b12_11",
+    "original":"有求界、無求界。",
+    "folio":7,
+    "stemmed":"有 求 界  無 求 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575b12_20",
+    "original":"當取界、非當取界。",
+    "folio":7,
+    "stemmed":"當 取 界  非 當 取 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575b13_7",
+    "original":"有取界、無取界。",
+    "folio":7,
+    "stemmed":"有 取 界  無 取 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575b13_15",
+    "original":"有勝界、無勝界。",
+    "folio":7,
+    "stemmed":"有 勝 界  無 勝 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575b14_2",
+    "original":"有受界、非受界。",
+    "folio":7,
+    "stemmed":"有 受 界  非 受 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575b14_8",
+    "original":"內界、外界。",
+    "folio":7,
+    "stemmed":"內 界  外 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575b14_16",
+    "original":"有報界、無報界。",
+    "folio":7,
+    "stemmed":"有 報 界  無 報 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575b15_2",
+    "original":"心界、非心界。",
+    "folio":7,
+    "stemmed":"心 界  非 心 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575b15_13",
+    "original":"心相應界、非心相應界。",
+    "folio":7,
+    "stemmed":"心 相 應 界  非 心 相 應 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575b16_1",
+    "original":"心數界、非心數界。",
+    "folio":7,
+    "stemmed":"心 數 界  非 心 數 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575b16_8",
+    "original":"緣界、非緣界。",
+    "folio":7,
+    "stemmed":"緣 界  非 緣 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575b16_17",
+    "original":"共心界、非共心界。",
+    "folio":7,
+    "stemmed":"共 心 界  非 共 心 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575b17_7",
+    "original":"隨心轉界、不隨心轉界。",
+    "folio":7,
+    "stemmed":"隨 心 轉 界  不 隨 心 轉 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575b17_14",
+    "original":"業界、非業界。",
+    "folio":7,
+    "stemmed":"業 界  非 業 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575b18_2",
+    "original":"業報界、非業報界。",
+    "folio":7,
+    "stemmed":"業 報 界  非 業 報 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575b19_4",
+    "original":"業相應界、非業相應界、非業相應非非業相應界。",
+    "folio":7,
+    "stemmed":"業 相 應 界  非 業 相 應 界  非 業 相 應 非 非 業 相 應 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575b19_13",
+    "original":"共業界、不共業界。",
+    "folio":7,
+    "stemmed":"共 業 界  不 共 業 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575b20_3",
+    "original":"隨業轉界、非隨業轉界。",
+    "folio":7,
+    "stemmed":"隨 業 轉 界  非 隨 業 轉 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575b20_10",
+    "original":"因界、非因界。",
+    "folio":7,
+    "stemmed":"因 界  非 因 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575b20_18",
+    "original":"有因界、無因界。",
+    "folio":7,
+    "stemmed":"有 因 界  無 因 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575b21_5",
+    "original":"有緒界、無緒界。",
+    "folio":7,
+    "stemmed":"有 緒 界  無 緒 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575b21_13",
+    "original":"有緣界、無緣界。",
+    "folio":7,
+    "stemmed":"有 緣 界  無 緣 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575b21_21",
+    "original":"有為界、無為界。",
+    "folio":7,
+    "stemmed":"有 為 界  無 為 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575b22_6",
+    "original":"智界、非智界。",
+    "folio":7,
+    "stemmed":"智 界  非 智 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575b22_13",
+    "original":"識界、非識界。",
+    "folio":7,
+    "stemmed":"識 界  非 識 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575b22_20",
+    "original":"解界、非解界。",
+    "folio":7,
+    "stemmed":"解 界  非 解 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575b23_5",
+    "original":"了界、非了界。",
+    "folio":7,
+    "stemmed":"了 界  非 了 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575b23_16",
+    "original":"斷智知界、非斷智知界。",
+    "folio":7,
+    "stemmed":"斷 智 知 界  非 斷 智 知 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575b24_1",
+    "original":"斷界、非斷界。",
+    "folio":7,
+    "stemmed":"斷 界  非 斷 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575b24_8",
+    "original":"修界、非修界。",
+    "folio":7,
+    "stemmed":"修 界  非 修 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575b24_15",
+    "original":"證界、非證界。",
+    "folio":7,
+    "stemmed":"證 界  非 證 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575b25_5",
+    "original":"有餘涅槃界、無餘涅槃界。",
+    "folio":7,
+    "stemmed":"有餘涅槃 界  無餘涅槃 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575b25_16",
+    "original":"善界、不善界、無記界。",
+    "folio":7,
+    "stemmed":"善 界  不 善 界  無 記 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575b26_9",
+    "original":"學界、無學界、非學非無學界。",
+    "folio":7,
+    "stemmed":"學 界  無 學 界  非 學 非 無 學 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575b27_2",
+    "original":"報界、報法界、非報非報法界。",
+    "folio":7,
+    "stemmed":"報 界  報 法 界  非 報 非 報 法 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575b27_20",
+    "original":"見斷界、思惟斷界、非見斷非思惟斷界。",
+    "folio":7,
+    "stemmed":"見 斷 界  思 惟 斷 界  非 見 斷 非 思 惟 斷 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575b29_1",
+    "original":"見斷因界、思惟斷因界、非見斷非思惟斷因界。",
+    "folio":7,
+    "stemmed":"見 斷 因 界  思 惟 斷 因 界  非 見 斷 非 思 惟 斷 因 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575b29_10",
+    "original":"卑界、中界、勝界。",
+    "folio":7,
+    "stemmed":"卑 界  中 界  勝 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575b29_16",
+    "original":"麁界、細界。",
+    "folio":7,
+    "stemmed":"麁 界  細 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c02_1",
+    "original":"微界、發界、出界、度界、勤界、持界、出界、斷界、離欲界、滅界。",
+    "folio":7,
+    "stemmed":"微 界  發 界  出 界  度 界  勤 界  持 界  出 界  斷 界  離 欲 界  滅 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c02_11",
+    "original":"欲界、色界、無色界。",
+    "folio":7,
+    "stemmed":"欲 界  色 界  無 色 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c02_18",
+    "original":"色界、非色界。",
+    "folio":7,
+    "stemmed":"色 界  非 色 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c03_2",
+    "original":"滅界、三出界。",
+    "folio":7,
+    "stemmed":"滅 界  三 出 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c04_4",
+    "original":"過去界、未來界、現在界、非過去非未來非現在界。",
+    "folio":7,
+    "stemmed":"過 去 界  未 來 界  現 在 界  非 過 去 非 未 來 非 現 在 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c05_15",
+    "original":"過去境界界、未來境界界、現在境界界、非過去非未來非現在境界界。",
+    "folio":7,
+    "stemmed":"過 去 境 界 界  未 來 境 界 界  現 在 境 界 界  非 過 去 非 未 來 非 現 在 境 界 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c06_16",
+    "original":"欲界繫界、色界繫界、無色界繫界、不繫界。",
+    "folio":7,
+    "stemmed":"欲 界 繫 界  色 界 繫 界  無 色 界 繫 界  不 繫 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c07_10",
+    "original":"色界、受界、想界、行界、識界。",
+    "folio":7,
+    "stemmed":"色 界  受 界  想 界  行 界  識 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c07_18",
+    "original":"五出界、六出界。",
+    "folio":7,
+    "stemmed":"五 出 界  六 出 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c08_14",
+    "original":"地界、水界、火界、風界、空界、識界。",
+    "folio":7,
+    "stemmed":"地 界  水 界  火 界  風 界  空 界  識 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c09_7",
+    "original":"樂界、苦界、喜界、憂界、捨界。",
+    "folio":7,
+    "stemmed":"樂 界  苦 界  喜 界  憂 界  捨 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c09_20",
+    "original":"無明界、欲界、恚界、害界。",
+    "folio":7,
+    "stemmed":"無 明 界  欲 界  恚 界  害 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c10_15",
+    "original":"出界、不恚界、不害界、光界、淨界。",
+    "folio":7,
+    "stemmed":"出 界  不 恚 界  不 害 界  光 界  淨 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c11_16",
+    "original":"色界、空處界、識處界、不用處界、非想非非想處界。",
+    "folio":7,
+    "stemmed":"色 界  空 處 界  識 處 界  不 用 處 界  非想非非想處 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c11_20",
+    "original":"十八界。",
+    "folio":7,
+    "stemmed":"十 八 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c12_4",
+    "original":"云何色界？",
+    "folio":7,
+    "stemmed":"云 何 色 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c12_13",
+    "original":"法若色，是名色界。",
+    "folio":7,
+    "stemmed":"法 若 色  是 名 色 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c12_19",
+    "original":"云何非色界？",
+    "folio":7,
+    "stemmed":"云 何 非 色 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c13_8",
+    "original":"法非色，是名非色界。",
+    "folio":7,
+    "stemmed":"法 非 色  是 名 非 色 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c13_14",
+    "original":"云何可見界？",
+    "folio":7,
+    "stemmed":"云 何 可 見 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c14_2",
+    "original":"色入，是名可見界。",
+    "folio":7,
+    "stemmed":"色 入  是 名 可 見 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c14_9",
+    "original":"云何不可見界？",
+    "folio":7,
+    "stemmed":"云 何 不 可 見 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c15_2",
+    "original":"除色入，餘法，是名不可見界。",
+    "folio":7,
+    "stemmed":"除 色 入  餘 法  是 名 不 可 見 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c16_5",
+    "original":"云何有對界？",
+    "folio":7,
+    "stemmed":"云 何 有 對 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c16_15",
+    "original":"十色入，是名有對界。",
+    "folio":7,
+    "stemmed":"十 色 入  是 名 有 對 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c17_1",
+    "original":"云何無對界？",
+    "folio":7,
+    "stemmed":"云 何 無 對 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c17_13",
+    "original":"意入、法入，是名無對界。",
+    "folio":7,
+    "stemmed":"意 入  法 入  是 名 無 對 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c18_4",
+    "original":"云何聖界？",
+    "folio":7,
+    "stemmed":"云 何 聖 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c18_14",
+    "original":"若法無漏，是名聖界。",
+    "folio":7,
+    "stemmed":"若 法 無 漏  是 名 聖 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c18_20",
+    "original":"云何非聖界？",
+    "folio":7,
+    "stemmed":"云 何 非 聖 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c19_10",
+    "original":"若法有漏，是名非聖界。",
+    "folio":7,
+    "stemmed":"若 法 有 漏  是 名 非 聖 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c20_5",
+    "original":"云何有漏界？",
+    "folio":7,
+    "stemmed":"云 何 有 漏 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c20_16",
+    "original":"若法有愛，是名有漏界。",
+    "folio":7,
+    "stemmed":"若 法 有 愛  是 名 有 漏 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c21_2",
+    "original":"云何無漏界？",
+    "folio":7,
+    "stemmed":"云 何 無 漏 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c21_13",
+    "original":"若法無愛，是名無漏界。",
+    "folio":7,
+    "stemmed":"若 法 無 愛  是 名 無 漏 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c22_5",
+    "original":"云何有愛界？",
+    "folio":7,
+    "stemmed":"云 何 有 愛 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c22_16",
+    "original":"若法有求，是名有愛界。",
+    "folio":7,
+    "stemmed":"若 法 有 求  是 名 有 愛 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c23_2",
+    "original":"云何無愛界？",
+    "folio":7,
+    "stemmed":"云 何 無 愛 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c23_13",
+    "original":"若法無求，是名無愛界。",
+    "folio":7,
+    "stemmed":"若 法 無 求  是 名 無 愛 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c24_5",
+    "original":"云何有求界？",
+    "folio":7,
+    "stemmed":"云 何 有 求 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c24_16",
+    "original":"若法當取，是名有求界。",
+    "folio":7,
+    "stemmed":"若 法 當 取  是 名 有 求 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c25_2",
+    "original":"云何無求界？",
+    "folio":7,
+    "stemmed":"云 何 無 求 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c25_14",
+    "original":"若法非當取，是名無求界。",
+    "folio":7,
+    "stemmed":"若 法 非 當 取  是 名 無 求 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c26_5",
+    "original":"云何當取界？",
+    "folio":7,
+    "stemmed":"云 何 當 取 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c26_16",
+    "original":"若法有取，是名當取界。",
+    "folio":7,
+    "stemmed":"若 法 有 取  是 名 當 取 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c27_3",
+    "original":"云何非當取界？",
+    "folio":7,
+    "stemmed":"云 何 非 當 取 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c27_15",
+    "original":"若法無取，是名非當取界。",
+    "folio":7,
+    "stemmed":"若 法 無 取  是 名 非 當 取 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c28_5",
+    "original":"云何有取界？",
+    "folio":7,
+    "stemmed":"云 何 有 取 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c28_16",
+    "original":"若法有勝，是名有取界。",
+    "folio":7,
+    "stemmed":"若 法 有 勝  是 名 有 取 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c29_2",
+    "original":"云何無取界？",
+    "folio":7,
+    "stemmed":"云 何 無 取 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0575c29_13",
+    "original":"若法無勝，是名無取界。",
+    "folio":7,
+    "stemmed":"若 法 無 勝  是 名 無 取 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a01_5",
+    "original":"云何有勝界？",
+    "folio":7,
+    "stemmed":"云 何 有 勝 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a01_16",
+    "original":"若法有取，是名有勝界。",
+    "folio":7,
+    "stemmed":"若 法 有 取  是 名 有 勝 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a02_2",
+    "original":"云何無勝界？",
+    "folio":7,
+    "stemmed":"云 何 無 勝 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a02_13",
+    "original":"若法無取，是名無勝界。",
+    "folio":7,
+    "stemmed":"若 法 無 取  是 名 無 勝 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a02_19",
+    "original":"云何有勝界？",
+    "folio":7,
+    "stemmed":"云 何 有 勝 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a03_16",
+    "original":"若法界，有餘界勝妙過上，是名有勝界。",
+    "folio":7,
+    "stemmed":"若 法 界  有 餘 界 勝 妙 過 上  是 名 有 勝 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a04_2",
+    "original":"云何無勝界？",
+    "folio":7,
+    "stemmed":"云 何 無 勝 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a04_20",
+    "original":"若法界，無餘界勝妙過上，是名無勝界。",
+    "folio":7,
+    "stemmed":"若 法 界  無 餘 界 勝 妙 過 上  是 名 無 勝 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a05_4",
+    "original":"云何受界？",
+    "folio":7,
+    "stemmed":"云 何 受 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a05_13",
+    "original":"若法內，是名受界。",
+    "folio":7,
+    "stemmed":"若 法 內  是 名 受 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a05_19",
+    "original":"云何非受界？",
+    "folio":7,
+    "stemmed":"云 何 非 受 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a06_9",
+    "original":"若法外，是名非受界。",
+    "folio":7,
+    "stemmed":"若 法 外  是 名 非 受 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a07_4",
+    "original":"云何內界？",
+    "folio":7,
+    "stemmed":"云 何 內 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a07_13",
+    "original":"若法受，是名內界。",
+    "folio":7,
+    "stemmed":"若 法 受  是 名 內 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a07_18",
+    "original":"云何外界？",
+    "folio":7,
+    "stemmed":"云 何 外 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a08_7",
+    "original":"若法非受，是名外界。",
+    "folio":7,
+    "stemmed":"若 法 非 受  是 名 外 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a09_5",
+    "original":"云何有報界？",
+    "folio":7,
+    "stemmed":"云 何 有 報 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a09_16",
+    "original":"若法報法，是名有報界。",
+    "folio":7,
+    "stemmed":"若 法 報 法  是 名 有 報 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a10_2",
+    "original":"云何無報界？",
+    "folio":7,
+    "stemmed":"云 何 無 報 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a10_19",
+    "original":"若法報、若非報非報法，是名無報界。",
+    "folio":7,
+    "stemmed":"若 法 報  若 非 報 非 報 法  是 名 無 報 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a11_4",
+    "original":"云何心界？",
+    "folio":7,
+    "stemmed":"云 何 心 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a11_12",
+    "original":"意入，是名心界。",
+    "folio":7,
+    "stemmed":"意 入  是 名 心 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a11_18",
+    "original":"云何非心界？",
+    "folio":7,
+    "stemmed":"云 何 非 心 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a12_9",
+    "original":"除意入餘法，是名非心界。",
+    "folio":7,
+    "stemmed":"除 意 入 餘 法  是 名 非 心 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a13_6",
+    "original":"云何心相應界？",
+    "folio":7,
+    "stemmed":"云 何 心 相 應 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a13_18",
+    "original":"若法心數，是名心相應界。",
+    "folio":7,
+    "stemmed":"若 法 心 數  是 名 心 相 應 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a14_6",
+    "original":"云何非心相應界？",
+    "folio":7,
+    "stemmed":"云 何 非 心 相 應 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a15_1",
+    "original":"若法非心數，是名非心相應界。",
+    "folio":7,
+    "stemmed":"若 法 非 心 數  是 名 非 心 相 應 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a16_5",
+    "original":"云何心數界？",
+    "folio":7,
+    "stemmed":"云 何 心 數 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a16_17",
+    "original":"除心餘緣法，是名心數界。",
+    "folio":7,
+    "stemmed":"除 心 餘 緣 法  是 名 心 數 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a17_4",
+    "original":"云何非心數界？",
+    "folio":7,
+    "stemmed":"云 何 非 心 數 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a17_18",
+    "original":"若法非緣及心，是名非心數界。",
+    "folio":7,
+    "stemmed":"若 法 非 緣 及 心  是 名 非 心 數 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a18_4",
+    "original":"云何緣界？",
+    "folio":7,
+    "stemmed":"云 何 緣 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a18_16",
+    "original":"若法取相及心，是名緣界。",
+    "folio":7,
+    "stemmed":"若 法 取 相 及 心  是 名 緣 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a19_2",
+    "original":"云何非緣界？",
+    "folio":7,
+    "stemmed":"云 何 非 緣 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a19_16",
+    "original":"除心餘非心數法，是名非緣界。",
+    "folio":7,
+    "stemmed":"除 心 餘 非 心 數 法  是 名 非 緣 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a20_5",
+    "original":"云何共心界？",
+    "folio":7,
+    "stemmed":"云 何 共 心 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a21_5",
+    "original":"若法隨心轉、共心生共住共滅，是名共心界。",
+    "folio":7,
+    "stemmed":"若 法 隨 心 轉  共 心 生 共 住 共 滅  是 名 共 心 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a21_12",
+    "original":"云何非共心界？",
+    "folio":7,
+    "stemmed":"云 何 非 共 心 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a22_17",
+    "original":"若法不隨心轉、不共心生不共住不共滅，是名不共心界。",
+    "folio":7,
+    "stemmed":"若 法 不 隨 心 轉  不 共 心 生 不 共 住 不 共 滅  是 名 不 共 心 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a23_6",
+    "original":"云何隨心轉界？",
+    "folio":7,
+    "stemmed":"云 何 隨 心 轉 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a24_4",
+    "original":"若法共心生共住共滅，是名隨心轉界。",
+    "folio":7,
+    "stemmed":"若 法 共 心 生 共 住 共 滅  是 名 隨 心 轉 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a24_12",
+    "original":"云何不隨心轉界？",
+    "folio":7,
+    "stemmed":"云 何 不 隨 心 轉 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a25_14",
+    "original":"若法不共心生不共住不共滅，是名不隨心轉界。",
+    "folio":7,
+    "stemmed":"若 法 不 共 心 生 不 共 住 不 共 滅  是 名 不 隨 心 轉 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a26_4",
+    "original":"云何業界？",
+    "folio":7,
+    "stemmed":"云 何 業 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a26_16",
+    "original":"身業口業意業，是名業界。",
+    "folio":7,
+    "stemmed":"身業口業 意 業  是 名 業 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a27_2",
+    "original":"云何非業界？",
+    "folio":7,
+    "stemmed":"云 何 非 業 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a27_18",
+    "original":"除身業口業意業，餘法是名非業界。",
+    "folio":7,
+    "stemmed":"除 身業口業 意 業  餘 法 是 名 非 業 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a28_4",
+    "original":"云何業報界？",
+    "folio":7,
+    "stemmed":"云 何 業 報 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a28_18",
+    "original":"若法愛若法善報，是名業報界。",
+    "folio":7,
+    "stemmed":"若 法 愛 若 法 善 報  是 名 業 報 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576a29_6",
+    "original":"云何非業報界？",
+    "folio":7,
+    "stemmed":"云 何 非 業 報 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576b01_4",
+    "original":"若法報、若非報非報法，是名非業報界。",
+    "folio":7,
+    "stemmed":"若 法 報  若 非 報 非 報 法  是 名 非 業 報 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576b02_6",
+    "original":"云何業相應界？",
+    "folio":7,
+    "stemmed":"云 何 業 相 應 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576b03_1",
+    "original":"若法思相應，是名業相應界。",
+    "folio":7,
+    "stemmed":"若 法 思 相 應  是 名 業 相 應 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576b03_9",
+    "original":"云何非業相應界？",
+    "folio":7,
+    "stemmed":"云 何 非 業 相 應 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576b04_4",
+    "original":"若法非思相應，是名非業相應界。",
+    "folio":7,
+    "stemmed":"若 法 非 思 相 應  是 名 非 業 相 應 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576b04_17",
+    "original":"云何非業相應非非業相應界？",
+    "folio":7,
+    "stemmed":"云 何 非 業 相 應 非 非 業 相 應 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576b05_12",
+    "original":"思，是名非業相應非非業相應界。",
+    "folio":7,
+    "stemmed":"思  是 名 非 業 相 應 非 非 業 相 應 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576b06_5",
+    "original":"云何共業界？",
+    "folio":7,
+    "stemmed":"云 何 共 業 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576b07_5",
+    "original":"若法隨業轉、共業生共住共滅，是名共業界。",
+    "folio":7,
+    "stemmed":"若 法 隨 業 轉  共 業 生 共 住 共 滅  是 名 共 業 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576b07_12",
+    "original":"云何不共業界？",
+    "folio":7,
+    "stemmed":"云 何 不 共 業 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576b08_17",
+    "original":"若法不隨業轉、不共業生不共住不共滅，是名不共業界。",
+    "folio":7,
+    "stemmed":"若 法 不 隨 業 轉  不 共 業 生 不 共 住 不 共 滅  是 名 不 共 業 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576b09_6",
+    "original":"云何隨業轉界？",
+    "folio":7,
+    "stemmed":"云 何 隨 業 轉 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576b10_4",
+    "original":"若法共業生共住共滅，是名隨業轉界。",
+    "folio":7,
+    "stemmed":"若 法 共 業 生 共 住 共 滅  是 名 隨 業 轉 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576b10_12",
+    "original":"云何不隨業轉界？",
+    "folio":7,
+    "stemmed":"云 何 不 隨 業 轉 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576b11_14",
+    "original":"若法不共業生不共住不共滅，是名不隨業轉界。",
+    "folio":7,
+    "stemmed":"若 法 不 共 業 生 不 共 住 不 共 滅  是 名 不 隨 業 轉 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576b12_4",
+    "original":"云何因界？",
+    "folio":7,
+    "stemmed":"云 何 因 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576b13_15",
+    "original":"若法緣、若法非緣有報、若法非緣，除得果，餘善報及四大，是名因界。",
+    "folio":7,
+    "stemmed":"若 法 緣  若 法 非 緣 有 報  若 法 非 緣  除 得 果  餘 善 報 及 四 大  是 名 因 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576b14_1",
+    "original":"云何非因界？",
+    "folio":7,
+    "stemmed":"云 何 非 因 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576b14_19",
+    "original":"若法非緣無報不共業得果，是名非因界。",
+    "folio":7,
+    "stemmed":"若 法 非 緣 無 報 不 共 業 得 果  是 名 非 因 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576b15_5",
+    "original":"云何有因界？",
+    "folio":7,
+    "stemmed":"云 何 有 因 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576b15_16",
+    "original":"若法有緒，是名有因界。",
+    "folio":7,
+    "stemmed":"若 法 有 緒  是 名 有 因 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576b16_2",
+    "original":"云何無因界？",
+    "folio":7,
+    "stemmed":"云 何 無 因 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576b16_13",
+    "original":"若法無緒，是名無因界。",
+    "folio":7,
+    "stemmed":"若 法 無 緒  是 名 無 因 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576b17_5",
+    "original":"云何有緒界？",
+    "folio":7,
+    "stemmed":"云 何 有 緒 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576b17_16",
+    "original":"若法有緣，是名有緒界。",
+    "folio":7,
+    "stemmed":"若 法 有 緣  是 名 有 緒 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576b18_2",
+    "original":"云何無緒界？",
+    "folio":7,
+    "stemmed":"云 何 無 緒 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576b18_13",
+    "original":"若法無緣，是名無緒界。",
+    "folio":7,
+    "stemmed":"若 法 無 緣  是 名 無 緒 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576b19_5",
+    "original":"云何有緣界？",
+    "folio":7,
+    "stemmed":"云 何 有 緣 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576b19_16",
+    "original":"若法有為，是名有緣界。",
+    "folio":7,
+    "stemmed":"若 法 有 為  是 名 有 緣 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576b20_2",
+    "original":"云何無緣界？",
+    "folio":7,
+    "stemmed":"云 何 無 緣 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576b20_13",
+    "original":"若法無為，是名無緣界。",
+    "folio":7,
+    "stemmed":"若 法 無 為  是 名 無 緣 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576b21_5",
+    "original":"云何有為界？",
+    "folio":7,
+    "stemmed":"云 何 有 為 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576b21_16",
+    "original":"若法有緣，是名有為界。",
+    "folio":7,
+    "stemmed":"若 法 有 緣  是 名 有 為 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576b22_2",
+    "original":"云何無為界？",
+    "folio":7,
+    "stemmed":"云 何 無 為 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576b22_13",
+    "original":"若法無緣，是名無為界。",
+    "folio":7,
+    "stemmed":"若 法 無 緣  是 名 無 為 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576b23_4",
+    "original":"云何知界？",
+    "folio":7,
+    "stemmed":"云 何 知 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576b23_18",
+    "original":"一切法知如事知見，是名知界。",
+    "folio":7,
+    "stemmed":"一 切 法 知 如 事 知 見  是 名 知 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576b24_4",
+    "original":"云何非知界？",
+    "folio":7,
+    "stemmed":"云 何 非 知 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576b24_9",
+    "original":"無非知界。",
+    "folio":7,
+    "stemmed":"無 非 知 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576b25_9",
+    "original":"復次說，一切法非知如事知見，是名非知界。",
+    "folio":7,
+    "stemmed":"復 次 說  一 切 法 非 知 如 事 知 見  是 名 非 知 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576b26_4",
+    "original":"云何識界？",
+    "folio":7,
+    "stemmed":"云 何 識 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576b26_19",
+    "original":"一切法識意識如事識，是名識界。",
+    "folio":7,
+    "stemmed":"一 切 法 識 意 識 如 事 識  是 名 識 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576b27_5",
+    "original":"云何非識界？",
+    "folio":7,
+    "stemmed":"云 何 非 識 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576b27_10",
+    "original":"無非識界。",
+    "folio":7,
+    "stemmed":"無 非 識 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576b28_11",
+    "original":"復次說，一切法非識意識如事識，是名非識界。",
+    "folio":7,
+    "stemmed":"復 次 說  一 切 法 非 識 意 識 如 事 識  是 名 非 識 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576b29_4",
+    "original":"云何解界？",
+    "folio":7,
+    "stemmed":"云 何 解 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576b29_18",
+    "original":"一切法解如事知見，是名解界。",
+    "folio":7,
+    "stemmed":"一 切 法 解 如 事 知 見  是 名 解 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576c01_4",
+    "original":"云何非解界？",
+    "folio":7,
+    "stemmed":"云 何 非 解 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576c01_9",
+    "original":"無非解界。",
+    "folio":7,
+    "stemmed":"無 非 解 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576c02_9",
+    "original":"復次說，一切法非解如事知見，是名非解界。",
+    "folio":7,
+    "stemmed":"復 次 說  一 切 法 非 解 如 事 知 見  是 名 非 解 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576c03_4",
+    "original":"云何了界？",
+    "folio":7,
+    "stemmed":"云 何 了 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576c03_18",
+    "original":"一切法了如事知見，是名了界。",
+    "folio":7,
+    "stemmed":"一 切 法 了 如 事 知 見  是 名 了 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576c04_5",
+    "original":"云何非了界？",
+    "folio":7,
+    "stemmed":"云 何 非 了 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576c04_10",
+    "original":"無非了界。",
+    "folio":7,
+    "stemmed":"無 非 了 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576c05_10",
+    "original":"復次說，一切法非了如事知見，是名非了界。",
+    "folio":7,
+    "stemmed":"復 次 說  一 切 法 非 了 如 事 知 見  是 名 非 了 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576c06_6",
+    "original":"云何斷智知界？",
+    "folio":7,
+    "stemmed":"云 何 斷 智 知 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576c06_18",
+    "original":"若法不善，是名斷智知界。",
+    "folio":7,
+    "stemmed":"若 法 不 善  是 名 斷 智 知 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576c07_6",
+    "original":"云何非斷智知界？",
+    "folio":7,
+    "stemmed":"云 何 非 斷 智 知 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576c08_2",
+    "original":"若法善、若無記，是名非斷智知界。",
+    "folio":7,
+    "stemmed":"若 法 善  若 無 記  是 名 非 斷 智 知 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576c09_4",
+    "original":"云何斷界？",
+    "folio":7,
+    "stemmed":"云 何 斷 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576c09_14",
+    "original":"若法不善，是名斷界。",
+    "folio":7,
+    "stemmed":"若 法 不 善  是 名 斷 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576c10_1",
+    "original":"云何非斷界？",
+    "folio":7,
+    "stemmed":"云 何 非 斷 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576c10_15",
+    "original":"若法善、若無記，是名非斷界。",
+    "folio":7,
+    "stemmed":"若 法 善  若 無 記  是 名 非 斷 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576c11_4",
+    "original":"云何修界？",
+    "folio":7,
+    "stemmed":"云 何 修 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576c11_13",
+    "original":"若法善，是名修界。",
+    "folio":7,
+    "stemmed":"若 法 善  是 名 修 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576c11_19",
+    "original":"云何非修界？",
+    "folio":7,
+    "stemmed":"云 何 非 修 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576c12_12",
+    "original":"若法不善、無記，是名非修界。",
+    "folio":7,
+    "stemmed":"若 法 不 善  無 記  是 名 非 修 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576c13_4",
+    "original":"云何證界？",
+    "folio":7,
+    "stemmed":"云 何 證 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576c13_18",
+    "original":"一切法證如事知見，是名證界。",
+    "folio":7,
+    "stemmed":"一 切 法 證 如 事 知 見  是 名 證 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576c14_4",
+    "original":"云何非證界？",
+    "folio":7,
+    "stemmed":"云 何 非 證 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576c14_9",
+    "original":"無非證界。",
+    "folio":7,
+    "stemmed":"無 非 證 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576c15_9",
+    "original":"復次說，一切法非證如事知見，是名非證界。",
+    "folio":7,
+    "stemmed":"復 次 說  一 切 法 非 證 如 事 知 見  是 名 非 證 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576c16_7",
+    "original":"云何有餘涅槃界？",
+    "folio":7,
+    "stemmed":"云 何 有餘涅槃 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576c16_12",
+    "original":"如世尊說：",
+    "folio":7,
+    "stemmed":"如 世 尊 說  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576c17_2",
+    "original":"云何彼是二涅槃界？",
+    "folio":7,
+    "stemmed":"云 何 彼 是 二 涅 槃 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576c17_6",
+    "original":"何等二？",
+    "folio":7,
+    "stemmed":"何 等 二  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576c17_18",
+    "original":"有餘涅槃界、無餘涅槃界。",
+    "folio":7,
+    "stemmed":"有餘涅槃 界  無餘涅槃 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576c18_4",
+    "original":"云何有餘涅槃？",
+    "folio":7,
+    "stemmed":"云 何 有餘涅槃  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576c19_11",
+    "original":"謂此比丘阿羅漢，諸漏盡、所作竟、捨於重擔、逮得己利。",
+    "folio":7,
+    "stemmed":"謂 此 比 丘 阿 羅 漢  諸 漏 盡  所 作 竟  捨於重擔  逮得己利  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576c21_16",
+    "original":"是盡有煩惱正智，得解諸陰界入，以宿業緣住故，以心受諸苦樂，有適意不適意，是名有餘涅槃界。",
+    "folio":7,
+    "stemmed":"是 盡 有 煩 惱 正 智  得 解 諸 陰 界 入  以 宿 業 緣 住 故  以 心 受 諸 苦 樂  有 適 意 不 適 意  是 名 有餘涅槃 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576c22_4",
+    "original":"云何無餘涅槃界？",
+    "folio":7,
+    "stemmed":"云 何 無餘涅槃 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576c23_9",
+    "original":"謂比丘五陰滅，未來五陰不復續生，是名無餘涅槃界。",
+    "folio":7,
+    "stemmed":"謂 比 丘 五 陰 滅  未 來 五 陰 不 復 續 生  是 名 無餘涅槃 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576c24_4",
+    "original":"云何善界？",
+    "folio":7,
+    "stemmed":"云 何 善 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576c24_13",
+    "original":"若法修，是名善界。",
+    "folio":7,
+    "stemmed":"若 法 修  是 名 善 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576c25_1",
+    "original":"云何不善界？",
+    "folio":7,
+    "stemmed":"云 何 不 善 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576c25_11",
+    "original":"若法斷，是名不善界。",
+    "folio":7,
+    "stemmed":"若 法 斷  是 名 不 善 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576c25_17",
+    "original":"云何無記界？",
+    "folio":7,
+    "stemmed":"云 何 無 記 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576c26_13",
+    "original":"若法受、若法非報非報法，是名無記界。",
+    "folio":7,
+    "stemmed":"若 法 受  若 法 非 報 非 報 法  是 名 無 記 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576c27_4",
+    "original":"云何學界？",
+    "folio":7,
+    "stemmed":"云 何 學 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576c27_16",
+    "original":"若法聖非無學，是名學界。",
+    "folio":7,
+    "stemmed":"若 法 聖 非 無 學  是 名 學 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576c28_3",
+    "original":"云何無學界？",
+    "folio":7,
+    "stemmed":"云 何 無 學 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576c28_15",
+    "original":"若法聖非學，是名無學界。",
+    "folio":7,
+    "stemmed":"若 法 聖 非 學  是 名 無 學 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576c29_4",
+    "original":"云何非學非無學界？",
+    "folio":7,
+    "stemmed":"云 何 非 學 非 無 學 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0576c29_18",
+    "original":"若法非聖，是名非學非無學界。",
+    "folio":7,
+    "stemmed":"若 法 非 聖  是 名 非 學 非 無 學 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577a01_4",
+    "original":"云何報界？",
+    "folio":7,
+    "stemmed":"云 何 報 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577a01_18",
+    "original":"若法受、若法善報，是名報界。",
+    "folio":7,
+    "stemmed":"若 法 受  若 法 善 報  是 名 報 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577a02_3",
+    "original":"云何報法界？",
+    "folio":7,
+    "stemmed":"云 何 報 法 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577a02_14",
+    "original":"若法有報，是名報法界。",
+    "folio":7,
+    "stemmed":"若 法 有 報  是 名 報 法 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577a03_3",
+    "original":"云何非報非報法界？",
+    "folio":7,
+    "stemmed":"云 何 非 報 非 報 法 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577a04_2",
+    "original":"若法無記、非我分攝，是名非報非報法界。",
+    "folio":7,
+    "stemmed":"若 法 無 記  非 我 分 攝  是 名 非 報 非 報 法 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577a05_5",
+    "original":"云何見斷界？",
+    "folio":7,
+    "stemmed":"云 何 見 斷 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577a06_1",
+    "original":"若法不善非思惟斷，是名見斷界。",
+    "folio":7,
+    "stemmed":"若 法 不 善 非 思 惟 斷  是 名 見 斷 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577a06_8",
+    "original":"云何思惟斷界？",
+    "folio":7,
+    "stemmed":"云 何 思 惟 斷 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577a07_3",
+    "original":"若法不善非見斷，是名思惟斷界。",
+    "folio":7,
+    "stemmed":"若 法 不 善 非 見 斷  是 名 思 惟 斷 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577a07_14",
+    "original":"云何非見斷非思惟斷界？",
+    "folio":7,
+    "stemmed":"云 何 非 見 斷 非 思 惟 斷 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577a08_12",
+    "original":"若法善、無記，是名非見斷非思惟斷界。",
+    "folio":7,
+    "stemmed":"若 法 善  無 記  是 名 非 見 斷 非 思 惟 斷 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577a09_6",
+    "original":"云何見斷因界？",
+    "folio":7,
+    "stemmed":"云 何 見 斷 因 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577a10_1",
+    "original":"若法見斷法報，是名見斷因界。",
+    "folio":7,
+    "stemmed":"若 法 見 斷 法 報  是 名 見 斷 因 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577a10_9",
+    "original":"云何思惟斷因界？",
+    "folio":7,
+    "stemmed":"云 何 思 惟 斷 因 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577a11_11",
+    "original":"若法思惟斷、若法思惟斷法報，是名思惟斷因界。",
+    "folio":7,
+    "stemmed":"若 法 思 惟 斷  若 法 思 惟 斷 法 報  是 名 思 惟 斷 因 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577a12_4",
+    "original":"云何非見斷非思惟斷因界？",
+    "folio":7,
+    "stemmed":"云 何 非 見 斷 非 思 惟 斷 因 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577a13_15",
+    "original":"若法善、若法善法報、若法報非報非報法，是名非見斷非思惟斷因界。",
+    "folio":7,
+    "stemmed":"若 法 善  若 法 善 法 報  若 法 報 非 報 非 報 法  是 名 非 見 斷 非 思 惟 斷 因 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577a14_4",
+    "original":"云何卑界？",
+    "folio":7,
+    "stemmed":"云 何 卑 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577a14_14",
+    "original":"若法不善，是名卑界。",
+    "folio":7,
+    "stemmed":"若 法 不 善  是 名 卑 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577a14_19",
+    "original":"云何中界？",
+    "folio":7,
+    "stemmed":"云 何 中 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577a15_8",
+    "original":"若法無記，是名中界。",
+    "folio":7,
+    "stemmed":"若 法 無 記  是 名 中 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577a15_13",
+    "original":"云何勝界？",
+    "folio":7,
+    "stemmed":"云 何 勝 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577a16_1",
+    "original":"若法善，是名勝界。",
+    "folio":7,
+    "stemmed":"若 法 善  是 名 勝 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577a16_6",
+    "original":"云何卑界？",
+    "folio":7,
+    "stemmed":"云 何 卑 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577a16_20",
+    "original":"若法不善、若無記，是名卑界。",
+    "folio":7,
+    "stemmed":"若 法 不 善  若 無 記  是 名 卑 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577a17_3",
+    "original":"云何中界？",
+    "folio":7,
+    "stemmed":"云 何 中 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577a17_14",
+    "original":"若法非聖善，是名中界。",
+    "folio":7,
+    "stemmed":"若 法 非 聖 善  是 名 中 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577a17_19",
+    "original":"云何勝界？",
+    "folio":7,
+    "stemmed":"云 何 勝 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577a18_9",
+    "original":"若法聖無漏，是名勝界。",
+    "folio":7,
+    "stemmed":"若 法 聖 無 漏  是 名 勝 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577a19_4",
+    "original":"云何麁界？",
+    "folio":7,
+    "stemmed":"云 何 麁 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577a19_19",
+    "original":"若法欲界繫、色界繫，是名麁界。",
+    "folio":7,
+    "stemmed":"若 法 欲 界 繫  色 界 繫  是 名 麁 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577a20_3",
+    "original":"云何細界？",
+    "folio":7,
+    "stemmed":"云 何 細 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577a21_6",
+    "original":"若法空處繫、識處繫、不用處繫、若不繫，是名細界。",
+    "folio":7,
+    "stemmed":"若 法 空 處 繫  識 處 繫  不 用 處 繫  若 不 繫  是 名 細 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577a21_11",
+    "original":"云何微界？",
+    "folio":7,
+    "stemmed":"云 何 微 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577a22_6",
+    "original":"若法非想非非想處繫，是名微界。",
+    "folio":7,
+    "stemmed":"若 法 非想非非想處 繫  是 名 微 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577a24_1",
+    "original":"復次麁界，若法欲界繫、若色界繫、若空處繫、若識處繫、若不用處繫，是名麁界。",
+    "folio":7,
+    "stemmed":"復 次 麁 界  若 法 欲 界 繫  若 色 界 繫  若 空 處 繫  若 識 處 繫  若 不 用 處 繫  是 名 麁 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577a24_16",
+    "original":"復次細界，若法不繫，是名細界。",
+    "folio":7,
+    "stemmed":"復 次 細 界  若 法 不 繫  是 名 細 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577a24_21",
+    "original":"云何微界？",
+    "folio":7,
+    "stemmed":"云 何 微 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577a25_14",
+    "original":"若法非想非非想處繫，是名微界。",
+    "folio":7,
+    "stemmed":"若 法 非想非非想處 繫  是 名 微 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577a26_4",
+    "original":"云何發界？",
+    "folio":7,
+    "stemmed":"云 何 發 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577a26_19",
+    "original":"進若發正發生起觸證，是名發界。",
+    "folio":7,
+    "stemmed":"進 若 發 正 發 生 起 觸 證  是 名 發 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577a27_4",
+    "original":"云何出界？",
+    "folio":7,
+    "stemmed":"云 何 出 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577a27_16",
+    "original":"進若廣進未度，是名出界。",
+    "folio":7,
+    "stemmed":"進 若 廣 進 未 度  是 名 出 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577a28_1",
+    "original":"云何度界？",
+    "folio":7,
+    "stemmed":"云 何 度 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577a28_12",
+    "original":"進若廣已度，是名度界。",
+    "folio":7,
+    "stemmed":"進 若 廣 已 度  是 名 度 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577a28_17",
+    "original":"云何勤界？",
+    "folio":7,
+    "stemmed":"云 何 勤 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577a29_6",
+    "original":"力勤界，是名勤界。",
+    "folio":7,
+    "stemmed":"力 勤 界  是 名 勤 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577a29_11",
+    "original":"云何持界？",
+    "folio":7,
+    "stemmed":"云 何 持 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577b01_1",
+    "original":"總持持界，是名持界。",
+    "folio":7,
+    "stemmed":"總 持 持 界  是 名 持 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577b01_6",
+    "original":"云何出界？",
+    "folio":7,
+    "stemmed":"云 何 出 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577b01_15",
+    "original":"出出界，是名出界。",
+    "folio":7,
+    "stemmed":"出 出 界  是 名 出 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577b02_4",
+    "original":"復次勤界，謂勤精進。",
+    "folio":7,
+    "stemmed":"復 次 勤 界  謂 勤 精 進  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577b02_9",
+    "original":"何等精進？",
+    "folio":7,
+    "stemmed":"何 等 精 進  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577b03_13",
+    "original":"若身心發出度，用心不退轉、勤力正進，是名勤界。",
+    "folio":7,
+    "stemmed":"若 身 心 發 出 度  用 心 不 退 轉  勤 力 正 進  是 名 勤 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577b03_21",
+    "original":"復次持界，謂念。",
+    "folio":7,
+    "stemmed":"復 次 持 界  謂 念  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577b04_3",
+    "original":"何等念？",
+    "folio":7,
+    "stemmed":"何 等 念  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577b05_10",
+    "original":"如所聞所習法，持彼法正持令住，不忘想念念續，是名持界。",
+    "folio":7,
+    "stemmed":"如 所 聞 所 習 法  持 彼 法 正 持 令 住  不 忘 想 念 念 續  是 名 持 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577b06_10",
+    "original":"復次出界，捨一切漏盡愛滅涅槃，是名出界。",
+    "folio":7,
+    "stemmed":"復 次 出 界  捨 一切漏盡 愛 滅 涅 槃  是 名 出 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577b06_15",
+    "original":"云何斷界？",
+    "folio":7,
+    "stemmed":"云 何 斷 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577b08_11",
+    "original":"若比丘，樹間空處如是觀身行惡惡報，今世報後世報，捨身惡行、修身善行；",
+    "folio":7,
+    "stemmed":"若 比 丘  樹 間 空 處 如 是 觀 身 行 惡 惡 報  今 世 報 後 世 報  捨 身 惡 行  修 身 善 行  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577b10_4",
+    "original":"如是觀口意行惡惡報，今世報後世報，捨口意惡行、修口意善行，是名斷界。",
+    "folio":7,
+    "stemmed":"如 是 觀 口 意 行 惡 惡 報  今 世 報 後 世 報  捨 口 意 惡 行  修 口 意 善 行  是 名 斷 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577b10_10",
+    "original":"云何離欲界？",
+    "folio":7,
+    "stemmed":"云 何 離 欲 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577b11_4",
+    "original":"愛盡、離欲、涅槃，是名離欲界。",
+    "folio":7,
+    "stemmed":"愛 盡  離 欲  涅 槃  是 名 離 欲 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577b11_9",
+    "original":"云何滅界？",
+    "folio":7,
+    "stemmed":"云 何 滅 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577b12_1",
+    "original":"愛盡、離滅、涅槃，是名滅界。",
+    "folio":7,
+    "stemmed":"愛 盡  離 滅  涅 槃  是 名 滅 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577b13_4",
+    "original":"云何欲界？",
+    "folio":7,
+    "stemmed":"云 何 欲 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577b14_12",
+    "original":"從阿鼻大地獄，上至他化自在天，若色受想行識分，是名欲界。",
+    "folio":7,
+    "stemmed":"從 阿 鼻 大 地 獄  上 至 他化自在天  若 色 受 想 行 識 分  是 名 欲 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577b14_17",
+    "original":"云何色界？",
+    "folio":7,
+    "stemmed":"云 何 色 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577b16_1",
+    "original":"從梵天至阿迦尼吒天，若色受想行識分，是名色界。",
+    "folio":7,
+    "stemmed":"從 梵 天 至 阿 迦 尼 吒 天  若 色 受 想 行 識 分  是 名 色 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577b16_7",
+    "original":"云何無色界？",
+    "folio":7,
+    "stemmed":"云 何 無 色 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577b17_14",
+    "original":"從空處天至非想非非想處天，若受想行識分，是名無色界。",
+    "folio":7,
+    "stemmed":"從 空 處 天 至 非想非非想處 天  若 受 想 行 識 分  是 名 無 色 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577b18_4",
+    "original":"云何色界？",
+    "folio":7,
+    "stemmed":"云 何 色 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577b18_13",
+    "original":"若法色，是名色界。",
+    "folio":7,
+    "stemmed":"若 法 色  是 名 色 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577b18_19",
+    "original":"云何非色界？",
+    "folio":7,
+    "stemmed":"云 何 非 色 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577b19_14",
+    "original":"除二滅，餘非色法界，是名非色界。",
+    "folio":7,
+    "stemmed":"除 二 滅  餘 非 色 法 界  是 名 非 色 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577b20_4",
+    "original":"云何滅界？",
+    "folio":7,
+    "stemmed":"云 何 滅 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577b20_21",
+    "original":"二滅，智緣滅、非智緣滅，是名滅界。",
+    "folio":7,
+    "stemmed":"二 滅  智 緣 滅  非 智 緣 滅  是 名 滅 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577b21_5",
+    "original":"云何三出界？",
+    "folio":7,
+    "stemmed":"云 何 三 出 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577b21_10",
+    "original":"如世尊說：",
+    "folio":7,
+    "stemmed":"如 世 尊 說  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577b21_14",
+    "original":"三出界。",
+    "folio":7,
+    "stemmed":"三 出 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577b22_2",
+    "original":"何等三出界？",
+    "folio":7,
+    "stemmed":"何 等 三 出 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577b22_14",
+    "original":"謂出欲至色、出色至無色。",
+    "folio":7,
+    "stemmed":"謂 出 欲 至 色  出 色 至 無 色  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577b23_6",
+    "original":"若所作所集滅，是謂出。",
+    "folio":7,
+    "stemmed":"若 所 作 所 集 滅  是 謂 出  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577b23_13",
+    "original":"何謂出欲至色？",
+    "folio":7,
+    "stemmed":"何 謂 出 欲 至 色  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577b24_14",
+    "original":"若緣欲生有漏燋熱，彼色中無，是謂出欲至色。",
+    "folio":7,
+    "stemmed":"若 緣 欲 生 有 漏 燋 熱  彼 色 中 無  是 謂 出 欲 至 色  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577b25_2",
+    "original":"何謂出色至無色？",
+    "folio":7,
+    "stemmed":"何 謂 出 色 至 無 色  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577b26_5",
+    "original":"若緣色生有漏燋熱，彼無色中無，是謂出色至無色。",
+    "folio":7,
+    "stemmed":"若 緣 色 生 有 漏 燋 熱  彼 無 色 中 無  是 謂 出 色 至 無 色  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577b26_13",
+    "original":"何謂所作所集滅？",
+    "folio":7,
+    "stemmed":"何 謂 所 作 所 集 滅  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577b27_16",
+    "original":"若緣行生有漏燋熱，彼涅槃無，是謂所作所集滅。",
+    "folio":7,
+    "stemmed":"若 緣 行 生 有 漏 燋 熱  彼 涅 槃 無  是 謂 所 作 所 集 滅  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577b27_20",
+    "original":"是謂出。",
+    "folio":7,
+    "stemmed":"是 謂 出  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577b28_5",
+    "original":"是名三出界。",
+    "folio":7,
+    "stemmed":"是 名 三 出 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577b29_5",
+    "original":"云何過去界？",
+    "folio":7,
+    "stemmed":"云 何 過 去 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577b29_17",
+    "original":"若法生已滅，是名過去界。",
+    "folio":7,
+    "stemmed":"若 法 生 已 滅  是 名 過 去 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577c01_3",
+    "original":"云何未來界？",
+    "folio":7,
+    "stemmed":"云 何 未 來 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577c01_16",
+    "original":"若法未生未出，是名未來界。",
+    "folio":7,
+    "stemmed":"若 法 未 生 未 出  是 名 未 來 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577c02_2",
+    "original":"云何現在界？",
+    "folio":7,
+    "stemmed":"云 何 現 在 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577c02_13",
+    "original":"若法未滅，是名現在界。",
+    "folio":7,
+    "stemmed":"若 法 未 滅  是 名 現 在 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577c03_6",
+    "original":"云何非過去非未來非現在界？",
+    "folio":7,
+    "stemmed":"云 何 非 過 去 非 未 來 非 現 在 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577c04_5",
+    "original":"若法無為，是名非過去非未來非現在界。",
+    "folio":7,
+    "stemmed":"若 法 無 為  是 名 非 過 去 非 未 來 非 現 在 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577c05_7",
+    "original":"云何過去境界界？",
+    "folio":7,
+    "stemmed":"云 何 過 去 境 界 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577c06_4",
+    "original":"思惟過去、若法生，是名過去境界界。",
+    "folio":7,
+    "stemmed":"思 惟 過 去  若 法 生  是 名 過 去 境 界 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577c06_12",
+    "original":"云何未來境界界？",
+    "folio":7,
+    "stemmed":"云 何 未 來 境 界 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577c07_10",
+    "original":"思惟未來、若法未生，是名未來境界界。",
+    "folio":7,
+    "stemmed":"思 惟 未 來  若 法 未 生  是 名 未 來 境 界 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577c07_18",
+    "original":"云何現在境界界？",
+    "folio":7,
+    "stemmed":"云 何 現 在 境 界 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577c08_17",
+    "original":"思惟現在法、若法生，是名現在境界界。",
+    "folio":7,
+    "stemmed":"思 惟 現 在 法  若 法 生  是 名 現 在 境 界 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577c09_12",
+    "original":"云何非過去非未來非現在境界界？",
+    "folio":7,
+    "stemmed":"云 何 非 過 去 非 未 來 非 現 在 境 界 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577c11_6",
+    "original":"思惟非過去非未來非現在、若法生，是名非過去非未來非現在境界界。",
+    "folio":7,
+    "stemmed":"思 惟 非 過 去 非 未 來 非 現 在  若 法 生  是 名 非 過 去 非 未 來 非 現 在 境 界 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577c12_6",
+    "original":"云何欲界繫界？",
+    "folio":7,
+    "stemmed":"云 何 欲 界 繫 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577c13_1",
+    "original":"若法欲漏有漏，是名欲界繫界。",
+    "folio":7,
+    "stemmed":"若 法 欲 漏 有 漏  是 名 欲 界 繫 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577c13_8",
+    "original":"云何色界繫界？",
+    "folio":7,
+    "stemmed":"云 何 色 界 繫 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577c14_2",
+    "original":"若法色漏有漏，是名色界繫界。",
+    "folio":7,
+    "stemmed":"若 法 色 漏 有 漏  是 名 色 界 繫 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577c14_10",
+    "original":"云何無色界繫界？",
+    "folio":7,
+    "stemmed":"云 何 無 色 界 繫 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577c15_7",
+    "original":"若法無色漏有漏，是名無色界繫界。",
+    "folio":7,
+    "stemmed":"若 法 無 色 漏 有 漏  是 名 無 色 界 繫 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577c15_13",
+    "original":"云何不繫界？",
+    "folio":7,
+    "stemmed":"云 何 不 繫 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577c16_8",
+    "original":"若法界聖無漏，是名不繫界。",
+    "folio":7,
+    "stemmed":"若 法 界 聖 無 漏  是 名 不 繫 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577c17_4",
+    "original":"云何色界？",
+    "folio":7,
+    "stemmed":"云 何 色 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577c17_12",
+    "original":"色陰，是名色界。",
+    "folio":7,
+    "stemmed":"色 陰  是 名 色 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577c17_17",
+    "original":"云何受界？",
+    "folio":7,
+    "stemmed":"云 何 受 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577c18_3",
+    "original":"受陰，是名受界。",
+    "folio":7,
+    "stemmed":"受 陰  是 名 受 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577c18_8",
+    "original":"云何想界？",
+    "folio":7,
+    "stemmed":"云 何 想 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577c18_16",
+    "original":"想陰，是名想界。",
+    "folio":7,
+    "stemmed":"想 陰  是 名 想 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577c18_21",
+    "original":"云何行界？",
+    "folio":7,
+    "stemmed":"云 何 行 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577c19_7",
+    "original":"行陰，是名行界。",
+    "folio":7,
+    "stemmed":"行 陰  是 名 行 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577c19_12",
+    "original":"云何識界？",
+    "folio":7,
+    "stemmed":"云 何 識 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577c19_20",
+    "original":"識陰，是名識界。",
+    "folio":7,
+    "stemmed":"識 陰  是 名 識 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577c20_5",
+    "original":"云何五出界？",
+    "folio":7,
+    "stemmed":"云 何 五 出 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577c20_13",
+    "original":"如世尊說五出界。",
+    "folio":7,
+    "stemmed":"如 世 尊 說 五 出 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577c20_17",
+    "original":"何等五？",
+    "folio":7,
+    "stemmed":"何 等 五  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577c21_15",
+    "original":"謂比丘念欲時，心不向欲不清不住不解；",
+    "folio":7,
+    "stemmed":"謂 比 丘 念 欲 時  心 不 向 欲 不 清 不 住 不 解  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577c24_5",
+    "original":"念出心，出心向清住解，心善至善調善修，心若於欲出解起，緣欲生有漏燋熱出解離，不受是痛，是名出欲界。",
+    "folio":7,
+    "stemmed":"念 出 心  出 心 向 清 住 解  心 善 至 善 調 善 修  心 若 於 欲 出 解 起  緣 欲 生 有 漏 燋 熱 出 解 離  不 受 是 痛  是 名 出 欲 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577c25_7",
+    "original":"復次比丘念瞋恚時，心不向瞋恚不清不住不解；",
+    "folio":7,
+    "stemmed":"復 次 比 丘 念 瞋 恚 時  心 不 向 瞋 恚 不 清 不 住 不 解  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577c28_4",
+    "original":"念不瞋，心不恚，心向清住解，心善至善調善修，心若於瞋恚出解起，緣瞋恚生有漏燋熱出解離，不受是痛，是名出瞋恚界。",
+    "folio":7,
+    "stemmed":"念 不 瞋  心 不 恚  心 向 清 住 解  心 善 至 善 調 善 修  心 若 於 瞋 恚 出 解 起  緣 瞋 恚 生 有 漏 燋 熱 出 解 離  不 受 是 痛  是 名 出 瞋 恚 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0577c29_6",
+    "original":"復次比丘念害，念害時心不向害不清不住不解；",
+    "folio":7,
+    "stemmed":"復 次 比 丘 念 害  念 害 時 心 不 向 害 不 清 不 住 不 解  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578a02_18",
+    "original":"念不害，不害心向清住解，心善至善調善修，心若於害出解起，緣害生有漏燋熱彼出解離，不受是痛，是名出害界。",
+    "folio":7,
+    "stemmed":"念 不 害  不 害 心 向 清 住 解  心 善 至 善 調 善 修  心 若 於 害 出 解 起  緣 害 生 有 漏 燋 熱 彼 出 解 離  不 受 是 痛  是 名 出 害 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578a03_17",
+    "original":"復次比丘念色時，心不向色不清不住不解；",
+    "folio":7,
+    "stemmed":"復 次 比 丘 念 色 時  心 不 向 色 不 清 不 住 不 解  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578a06_8",
+    "original":"念無色，無色心向清住解，心善至善調善修，心於色出解起，緣色生有漏燋熱出解離，不受是痛，是名出色界。",
+    "folio":7,
+    "stemmed":"念 無 色  無 色 心 向 清 住 解  心 善 至 善 調 善 修  心 於 色 出 解 起  緣 色 生 有 漏 燋 熱 出 解 離  不 受 是 痛  是 名 出 色 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578a07_8",
+    "original":"復次比丘念自身，心不向自身不清不住不解；",
+    "folio":7,
+    "stemmed":"復 次 比 丘 念 自 身  心 不 向 自 身 不 清 不 住 不 解  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578a10_5",
+    "original":"念自身滅，滅自身心向清住解，心善至善調善修，心若於自身出解起，緣自身生有漏燋熱出解離，不受是痛，是名出自身界。",
+    "folio":7,
+    "stemmed":"念 自 身 滅  滅 自 身 心 向 清 住 解  心 善 至 善 調 善 修  心 若 於 自 身 出 解 起  緣 自 身 生 有 漏 燋 熱 出 解 離  不 受 是 痛  是 名 出 自 身 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578a10_11",
+    "original":"是名五出界。",
+    "folio":7,
+    "stemmed":"是 名 五 出 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578a11_5",
+    "original":"云何六出界？",
+    "folio":7,
+    "stemmed":"云 何 六 出 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578a11_13",
+    "original":"如世尊說六出界。",
+    "folio":7,
+    "stemmed":"如 世 尊 說 六 出 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578a12_6",
+    "original":"如比丘向彼比丘如是說：",
+    "folio":7,
+    "stemmed":"如 比 丘 向 彼 比 丘 如 是 說  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578a12_9",
+    "original":"比丘！",
+    "folio":7,
+    "stemmed":"比 丘  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578a13_20",
+    "original":"我慈解心親近多修學，作乘作物、謹慎、識、善進，我為瞋恚心所覆。",
+    "folio":7,
+    "stemmed":"我 慈 解 心 親 近 多 修 學  作 乘 作 物  謹 慎  識  善 進  我 為 瞋 恚 心 所 覆  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578a14_7",
+    "original":"彼比丘責此比丘：",
+    "folio":7,
+    "stemmed":"彼 比 丘 責 此 比 丘  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578a14_10",
+    "original":"比丘！",
+    "folio":7,
+    "stemmed":"比 丘  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578a15_1",
+    "original":"莫如是說，莫謗世尊。",
+    "folio":7,
+    "stemmed":"莫 如 是 說  莫 謗 世 尊  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578a15_14",
+    "original":"謗世尊不善，世尊不如是說。",
+    "folio":7,
+    "stemmed":"謗 世 尊 不 善  世 尊 不 如 是 說  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578a15_17",
+    "original":"比丘！",
+    "folio":7,
+    "stemmed":"比 丘  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578a16_2",
+    "original":"此非悕望處。",
+    "folio":7,
+    "stemmed":"此 非 悕 望 處  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578a18_1",
+    "original":"若慈解心親近多修學已、作乘作物已、謹慎已、識已、善進已，若瞋恚覆心者，無有是處。",
+    "folio":7,
+    "stemmed":"若 慈 解 心 親 近 多 修 學 已  作 乘 作 物 已  謹 慎 已  識 已  善 進 已  若 瞋 恚 覆 心 者  無 有 是 處  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578a18_5",
+    "original":"世尊說：",
+    "folio":7,
+    "stemmed":"世 尊 說  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578a18_8",
+    "original":"比丘！",
+    "folio":7,
+    "stemmed":"比 丘  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578a19_3",
+    "original":"出瞋恚心，善慈解心若修多學無量。",
+    "folio":7,
+    "stemmed":"出 瞋 恚 心  善 慈 解 心 若 修 多 學 無 量  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578a19_15",
+    "original":"復次比丘向彼比丘如是說：",
+    "folio":7,
+    "stemmed":"復 次 比 丘 向 彼 比 丘 如 是 說  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578a19_18",
+    "original":"比丘！",
+    "folio":7,
+    "stemmed":"比 丘  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578a21_7",
+    "original":"我悲解心親近多修學，作乘作物、謹慎、識、善進，我故為害心所覆。",
+    "folio":7,
+    "stemmed":"我 悲 解 心 親 近 多 修 學  作 乘 作 物  謹 慎  識  善 進  我 故 為 害 心 所 覆  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578a21_15",
+    "original":"彼比丘責此比丘：",
+    "folio":7,
+    "stemmed":"彼 比 丘 責 此 比 丘  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578a21_18",
+    "original":"比丘！",
+    "folio":7,
+    "stemmed":"比 丘  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578a22_8",
+    "original":"莫如是說，莫謗世尊。",
+    "folio":7,
+    "stemmed":"莫 如 是 說  莫 謗 世 尊  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578a23_2",
+    "original":"謗世尊非善，世尊不如是說。",
+    "folio":7,
+    "stemmed":"謗 世 尊 非 善  世 尊 不 如 是 說  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578a23_5",
+    "original":"比丘！",
+    "folio":7,
+    "stemmed":"比 丘  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578a23_11",
+    "original":"此非悕望處。",
+    "folio":7,
+    "stemmed":"此 非 悕 望 處  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578a25_9",
+    "original":"若悲解心親近多修學已、作乘作物已、謹慎已、識已、善進已，為害覆心者，無有是處。",
+    "folio":7,
+    "stemmed":"若 悲 解 心 親 近 多 修 學 已  作 乘 作 物 已  謹 慎 已  識 已  善 進 已  為 害 覆 心 者  無 有 是 處  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578a25_13",
+    "original":"世尊說：",
+    "folio":7,
+    "stemmed":"世 尊 說  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578a25_16",
+    "original":"比丘！",
+    "folio":7,
+    "stemmed":"比 丘  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578a26_9",
+    "original":"出害心，若悲解心若修多學無量。",
+    "folio":7,
+    "stemmed":"出 害 心  若 悲 解 心 若 修 多 學 無 量  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578a27_3",
+    "original":"復次比丘向彼比丘如是說：",
+    "folio":7,
+    "stemmed":"復 次 比 丘 向 彼 比 丘 如 是 說  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578a28_15",
+    "original":"我喜解心親近多修學，作乘作物、謹慎、識、善進，我故為不樂心所覆。",
+    "folio":7,
+    "stemmed":"我 喜 解 心 親 近 多 修 學  作 乘 作 物  謹 慎  識  善 進  我 故 為 不 樂 心 所 覆  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578a29_2",
+    "original":"彼比丘責此比丘：",
+    "folio":7,
+    "stemmed":"彼 比 丘 責 此 比 丘  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578a29_5",
+    "original":"比丘！",
+    "folio":7,
+    "stemmed":"比 丘  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578a29_15",
+    "original":"莫如是說，莫謗世尊。",
+    "folio":7,
+    "stemmed":"莫 如 是 說  莫 謗 世 尊  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578b01_8",
+    "original":"謗世尊非善，世尊不如是說。",
+    "folio":7,
+    "stemmed":"謗 世 尊 非 善  世 尊 不 如 是 說  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578b01_11",
+    "original":"比丘！",
+    "folio":7,
+    "stemmed":"比 丘  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578b01_17",
+    "original":"此非悕望處。",
+    "folio":7,
+    "stemmed":"此 非 悕 望 處  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578b03_18",
+    "original":"若喜解心親近已、多修學已、作乘作物已、謹慎已、識已、善進已，為不樂心所覆，無有是處。",
+    "folio":7,
+    "stemmed":"若 喜 解 心 親 近 已  多 修 學 已  作 乘 作 物 已  謹 慎 已  識 已  善 進 已  為 不 樂 心 所 覆  無 有 是 處  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578b04_1",
+    "original":"世尊說：",
+    "folio":7,
+    "stemmed":"世 尊 說  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578b04_4",
+    "original":"比丘！",
+    "folio":7,
+    "stemmed":"比 丘  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578b04_20",
+    "original":"出不樂心，若喜解心善修多學無量。",
+    "folio":7,
+    "stemmed":"出 不 樂 心  若 喜 解 心 善 修 多 學 無 量  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578b05_11",
+    "original":"復次比丘向彼比丘如是說：",
+    "folio":7,
+    "stemmed":"復 次 比 丘 向 彼 比 丘 如 是 說  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578b07_3",
+    "original":"我捨解心親近多修學，作乘作物、謹慎、識、善進，我故為愛恚心所覆。",
+    "folio":7,
+    "stemmed":"我 捨 解 心 親 近 多 修 學  作 乘 作 物  謹 慎  識  善 進  我 故 為 愛 恚 心 所 覆  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578b07_11",
+    "original":"彼比丘責此比丘：",
+    "folio":7,
+    "stemmed":"彼 比 丘 責 此 比 丘  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578b08_1",
+    "original":"莫如是說，莫謗世尊。",
+    "folio":7,
+    "stemmed":"莫 如 是 說  莫 謗 世 尊  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578b08_14",
+    "original":"謗世尊非善，世尊不如是說。",
+    "folio":7,
+    "stemmed":"謗 世 尊 非 善  世 尊 不 如 是 說  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578b08_17",
+    "original":"比丘！",
+    "folio":7,
+    "stemmed":"比 丘  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578b09_2",
+    "original":"此非悕望處。",
+    "folio":7,
+    "stemmed":"此 非 悕 望 處  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578b11_4",
+    "original":"若捨解心親近已、多修多學已、作乘作物已、謹慎已、識已、善進已，若有愛恚覆心，無有是處。",
+    "folio":7,
+    "stemmed":"若 捨 解 心 親 近 已  多 修 多 學 已  作 乘 作 物 已  謹 慎 已  識 已  善 進 已  若 有 愛 恚 覆 心  無 有 是 處  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578b11_8",
+    "original":"世尊說：",
+    "folio":7,
+    "stemmed":"世 尊 說  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578b11_11",
+    "original":"比丘！",
+    "folio":7,
+    "stemmed":"比 丘  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578b12_6",
+    "original":"出愛恚心，若捨解心善修多學無量。",
+    "folio":7,
+    "stemmed":"出 愛 恚 心  若 捨 解 心 善 修 多 學 無 量  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578b12_16",
+    "original":"復次比丘向彼如是說：",
+    "folio":7,
+    "stemmed":"復 次 比 丘 向 彼 如 是 說  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578b14_6",
+    "original":"我無想定心親近多修學，作乘作物、謹慎、識、善進，我故有念想識。",
+    "folio":7,
+    "stemmed":"我 無 想 定 心 親 近 多 修 學  作 乘 作 物  謹 慎  識  善 進  我 故 有 念 想 識  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578b14_14",
+    "original":"彼比丘責此比丘：",
+    "folio":7,
+    "stemmed":"彼 比 丘 責 此 比 丘  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578b14_17",
+    "original":"比丘！",
+    "folio":7,
+    "stemmed":"比 丘  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578b15_7",
+    "original":"莫如是說，莫謗世尊。",
+    "folio":7,
+    "stemmed":"莫 如 是 說  莫 謗 世 尊  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578b15_20",
+    "original":"謗世尊非善，世尊不如是說。",
+    "folio":7,
+    "stemmed":"謗 世 尊 非 善  世 尊 不 如 是 說  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578b16_7",
+    "original":"比丘此非悕望處。",
+    "folio":7,
+    "stemmed":"比 丘 此 非 悕 望 處  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578b18_9",
+    "original":"若無想定心親近已、多修學已、作乘作物已、謹慎已、識已、善進已，若有念想識，無有是處。",
+    "folio":7,
+    "stemmed":"若 無 想 定 心 親 近 已  多 修 學 已  作 乘 作 物 已  謹 慎 已  識 已  善 進 已  若 有 念 想 識  無 有 是 處  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578b18_13",
+    "original":"世尊說：",
+    "folio":7,
+    "stemmed":"世 尊 說  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578b18_16",
+    "original":"比丘！",
+    "folio":7,
+    "stemmed":"比 丘  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578b19_11",
+    "original":"出一切想，若無想定心善修多學無量。",
+    "folio":7,
+    "stemmed":"出 一 切 想  若 無 想 定 心 善 修 多 學 無 量  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578b20_5",
+    "original":"復次比丘向彼比丘如是說：",
+    "folio":7,
+    "stemmed":"復 次 比 丘 向 彼 比 丘 如 是 說  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578b21_1",
+    "original":"我滅我及我所故，有疑惑箭覆心。",
+    "folio":7,
+    "stemmed":"我 滅 我及我所 故  有 疑 惑 箭 覆 心  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578b21_9",
+    "original":"彼比丘責此比丘：",
+    "folio":7,
+    "stemmed":"彼 比 丘 責 此 比 丘  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578b21_12",
+    "original":"比丘！",
+    "folio":7,
+    "stemmed":"比 丘  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578b22_1",
+    "original":"莫如是說，莫謗世尊。",
+    "folio":7,
+    "stemmed":"莫 如 是 說  莫 謗 世 尊  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578b22_14",
+    "original":"謗世尊非善，世尊不如是說。",
+    "folio":7,
+    "stemmed":"謗 世 尊 非 善  世 尊 不 如 是 說  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578b22_17",
+    "original":"比丘！",
+    "folio":7,
+    "stemmed":"比 丘  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578b23_2",
+    "original":"此非悕望處。",
+    "folio":7,
+    "stemmed":"此 非 悕 望 處  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578b24_4",
+    "original":"若滅我及我所故，如有疑惑箭覆心者，無有是處。",
+    "folio":7,
+    "stemmed":"若 滅 我及我所 故  如 有 疑 惑 箭 覆 心 者  無 有 是 處  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578b24_8",
+    "original":"世尊說：",
+    "folio":7,
+    "stemmed":"世 尊 說  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578b24_11",
+    "original":"比丘！",
+    "folio":7,
+    "stemmed":"比 丘  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578b25_1",
+    "original":"出疑惑箭，若斷我慢。",
+    "folio":7,
+    "stemmed":"出 疑 惑 箭  若 斷 我 慢  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578b25_7",
+    "original":"是名六出界。",
+    "folio":7,
+    "stemmed":"是 名 六 出 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578b26_4",
+    "original":"云何地界？",
+    "folio":7,
+    "stemmed":"云 何 地 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578b26_16",
+    "original":"二地界，內地界、外地界。",
+    "folio":7,
+    "stemmed":"二 地 界  內 地 界  外 地 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578b27_1",
+    "original":"云何內地界？",
+    "folio":7,
+    "stemmed":"云 何 內 地 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578b29_12",
+    "original":"若此身內受堅，骨齒髮毛、薄皮膚肌肉筋脈、脾腎肝肺心胃、大腸小腸大腹小腹，此身及餘內受堅，是名內地界。",
+    "folio":7,
+    "stemmed":"若 此 身 內 受 堅  骨 齒 髮 毛  薄 皮 膚 肌 肉 筋 脈  脾 腎 肝 肺 心 胃  大 腸 小 腸 大 腹 小 腹  此 身 及 餘 內 受 堅  是 名 內 地 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578b29_18",
+    "original":"云何外地界？",
+    "folio":7,
+    "stemmed":"云 何 外 地 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578c03_15",
+    "original":"若外非受堅，銅鐵鉛錫白鑞、金銀真珠琉璃珂貝璧玉珊瑚、錢性寶貝珠、沙石草木枝葉莖節，及餘外非受堅，是名外地界。",
+    "folio":7,
+    "stemmed":"若 外 非 受 堅  銅 鐵 鉛 錫 白 鑞  金 銀 真 珠 琉 璃 珂 貝 璧 玉 珊 瑚  錢 性 寶 貝 珠  沙 石 草 木 枝 葉 莖 節  及 餘 外 非 受 堅  是 名 外 地 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578c04_11",
+    "original":"如是內地界、外地界，是名地界。",
+    "folio":7,
+    "stemmed":"如 是 內 地 界  外 地 界  是 名 地 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578c04_16",
+    "original":"云何水界？",
+    "folio":7,
+    "stemmed":"云 何 水 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578c05_7",
+    "original":"二水界，內水界、外水界。",
+    "folio":7,
+    "stemmed":"二 水 界  內 水 界  外 水 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578c05_13",
+    "original":"云何內水界？",
+    "folio":7,
+    "stemmed":"云 何 內 水 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578c07_13",
+    "original":"若此身內受水，涎癊膽汗、肪髓腦脂𦙽、涕唾膿血小便，及餘此身內受水潤等，是名內水界。",
+    "folio":7,
+    "stemmed":"若 此 身 內 受 水  涎 癊 膽 汗  肪 髓 腦 脂 𦙽  涕 唾 膿 血 小 便  及 餘 此 身 內 受 水 潤 等  是 名 內 水 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578c07_19",
+    "original":"云何外水界？",
+    "folio":7,
+    "stemmed":"云 何 外 水 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578c10_3",
+    "original":"若外水界非受，蘇油蜜石蜜黑石蜜、乳酪酪漿、醪酒甘蔗酒蜜酒，及餘外水非受，是名外水界。",
+    "folio":7,
+    "stemmed":"若 外 水 界 非 受  蘇 油 蜜 石 蜜 黑 石 蜜  乳 酪 酪 漿  醪 酒 甘 蔗 酒 蜜 酒  及 餘 外 水 非 受  是 名 外 水 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578c10_15",
+    "original":"如是內外水界，是名水界。",
+    "folio":7,
+    "stemmed":"如 是 內 外 水 界  是 名 水 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578c10_20",
+    "original":"云何火界？",
+    "folio":7,
+    "stemmed":"云 何 火 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578c11_11",
+    "original":"二火界，內火界、外火界。",
+    "folio":7,
+    "stemmed":"二 火 界  內 火 界  外 火 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578c11_17",
+    "original":"云何內火界？",
+    "folio":7,
+    "stemmed":"云 何 內 火 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578c13_18",
+    "original":"若此身內受火，熱若熱能令熱令身熱令內燋，若服食飲等消，及餘此身內受火，是名內火界。",
+    "folio":7,
+    "stemmed":"若 此 身 內 受 火  熱 若 熱 能 令 熱 令 身 熱 令 內 燋  若 服 食 飲 等 消  及 餘 此 身 內 受 火  是 名 內 火 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578c14_4",
+    "original":"云何外火界？",
+    "folio":7,
+    "stemmed":"云 何 外 火 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578c16_12",
+    "original":"若外火非受熱，若火熱日熱珠熱、舍熱牆熱山熱、穀氣熱草熱木熱牛糞熱，及餘外火熱非受，是名外火界。",
+    "folio":7,
+    "stemmed":"若 外 火 非 受 熱  若 火 熱 日 熱 珠 熱  舍 熱 牆 熱 山 熱  穀 氣 熱 草 熱 木 熱 牛 糞 熱  及 餘 外 火 熱 非 受  是 名 外 火 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578c17_8",
+    "original":"如是內火界、外火界，是名火界。",
+    "folio":7,
+    "stemmed":"如 是 內 火 界  外 火 界  是 名 火 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578c17_13",
+    "original":"云何風界？",
+    "folio":7,
+    "stemmed":"云 何 風 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578c18_3",
+    "original":"二風界，內風界、外風界。",
+    "folio":7,
+    "stemmed":"二 風 界  內 風 界  外 風 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578c18_9",
+    "original":"云何內風界？",
+    "folio":7,
+    "stemmed":"云 何 內 風 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578c20_13",
+    "original":"若此身內受風，上風下風、依節間風攣躄風骨節遊風、出息入息風，及餘內受風，是名內風界。",
+    "folio":7,
+    "stemmed":"若 此 身 內 受 風  上 風 下 風  依 節 間 風 攣 躄 風 骨 節 遊 風  出息入息 風  及 餘 內 受 風  是 名 內 風 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578c20_19",
+    "original":"云何外風界？",
+    "folio":7,
+    "stemmed":"云 何 外 風 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578c23_7",
+    "original":"若外風非受，若東西風南北風、雜塵風不雜塵風、冷風熱風、黑風毘嵐風動地風，及餘外風非受，是名外風界。",
+    "folio":7,
+    "stemmed":"若 外 風 非 受  若 東 西 風 南 北 風  雜 塵 風 不 雜 塵 風  冷 風 熱 風  黑 風 毘 嵐 風 動 地 風  及 餘 外 風 非 受  是 名 外 風 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578c23_20",
+    "original":"如是內風、外風，是名風界。",
+    "folio":7,
+    "stemmed":"如 是 內 風  外 風  是 名 風 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578c24_3",
+    "original":"云何空界？",
+    "folio":7,
+    "stemmed":"云 何 空 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578c24_15",
+    "original":"二空界，內空界、外空界。",
+    "folio":7,
+    "stemmed":"二 空 界  內 空 界  外 空 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578c24_21",
+    "original":"云何內空界？",
+    "folio":7,
+    "stemmed":"云 何 內 空 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578c27_17",
+    "original":"若此身內受空非四大所覆，若耳鼻孔口門、若食飲所由處、若食飲住處、若食飲出處，及餘此身內受空非四大所覆，是名內空界。",
+    "folio":7,
+    "stemmed":"若 此 身 內 受 空 非 四 大 所 覆  若 耳 鼻 孔 口 門  若 食 飲 所 由 處  若 食 飲 住 處  若 食 飲 出 處  及 餘 此 身 內 受 空 非 四 大 所 覆  是 名 內 空 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0578c28_4",
+    "original":"云何外空界？",
+    "folio":7,
+    "stemmed":"云 何 外 空 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579a01_3",
+    "original":"若外空非受非四大所覆，若丘井瓶甕坎谷，及餘外空非受非四大所覆，是名外空界。",
+    "folio":7,
+    "stemmed":"若 外 空 非 受 非 四 大 所 覆  若 丘 井 瓶 甕 坎 谷  及 餘 外 空 非 受 非 四 大 所 覆  是 名 外 空 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579a01_18",
+    "original":"如是內空界、外空界，是名空界。",
+    "folio":7,
+    "stemmed":"如 是 內 空 界  外 空 界  是 名 空 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579a02_4",
+    "original":"云何識界？",
+    "folio":7,
+    "stemmed":"云 何 識 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579a03_4",
+    "original":"六識身，眼識身、耳鼻舌身意識身，是名識界。",
+    "folio":7,
+    "stemmed":"六 識 身  眼 識 身  耳 鼻 舌 身 意 識 身  是 名 識 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579a04_4",
+    "original":"云何樂界？",
+    "folio":7,
+    "stemmed":"云 何 樂 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579a05_4",
+    "original":"眼觸樂受、耳鼻舌身觸樂受樂根，是名樂界。",
+    "folio":7,
+    "stemmed":"眼 觸 樂 受  耳 鼻 舌 身 觸 樂 受 樂 根  是 名 樂 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579a05_9",
+    "original":"云何苦界？",
+    "folio":7,
+    "stemmed":"云 何 苦 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579a06_9",
+    "original":"眼觸苦受、耳鼻舌身觸苦受苦根，是名苦界。",
+    "folio":7,
+    "stemmed":"眼 觸 苦 受  耳 鼻 舌 身 觸 苦 受 苦 根  是 名 苦 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579a06_14",
+    "original":"云何喜界？",
+    "folio":7,
+    "stemmed":"云 何 喜 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579a07_7",
+    "original":"若心樂受喜根，是名喜界。",
+    "folio":7,
+    "stemmed":"若 心 樂 受 喜 根  是 名 喜 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579a07_12",
+    "original":"云何憂界？",
+    "folio":7,
+    "stemmed":"云 何 憂 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579a08_3",
+    "original":"若心苦受憂根，是名憂界。",
+    "folio":7,
+    "stemmed":"若 心 苦 受 憂 根  是 名 憂 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579a08_8",
+    "original":"云何捨界？",
+    "folio":7,
+    "stemmed":"云 何 捨 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579a10_4",
+    "original":"身心非苦非樂受，謂眼觸非苦非樂受、耳鼻舌身觸非苦非樂受捨根，是名捨界。",
+    "folio":7,
+    "stemmed":"身 心 非 苦 非 樂 受  謂 眼 觸 非 苦 非 樂 受  耳 鼻 舌 身 觸 非 苦 非 樂 受 捨 根  是 名 捨 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579a11_5",
+    "original":"云何無明界？",
+    "folio":7,
+    "stemmed":"云 何 無 明 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579a11_16",
+    "original":"癡不善根，是名無明界。",
+    "folio":7,
+    "stemmed":"癡 不 善 根  是 名 無 明 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579a12_1",
+    "original":"云何欲界？",
+    "folio":7,
+    "stemmed":"云 何 欲 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579a12_10",
+    "original":"欲欲界，是名欲界。",
+    "folio":7,
+    "stemmed":"欲 欲 界  是 名 欲 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579a12_15",
+    "original":"云何恚界？",
+    "folio":7,
+    "stemmed":"云 何 恚 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579a13_3",
+    "original":"恚恚界，是名恚界。",
+    "folio":7,
+    "stemmed":"恚 恚 界  是 名 恚 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579a13_8",
+    "original":"云何害界？",
+    "folio":7,
+    "stemmed":"云 何 害 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579a13_17",
+    "original":"害害界，是名害界。",
+    "folio":7,
+    "stemmed":"害 害 界  是 名 害 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579a14_1",
+    "original":"云何欲界？",
+    "folio":7,
+    "stemmed":"云 何 欲 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579a15_13",
+    "original":"若欲欲欲膩、欲愛欲喜、欲支欲定、欲肯欲渴、欲燋欲網，是名欲界。",
+    "folio":7,
+    "stemmed":"若 欲 欲 欲 膩  欲 愛 欲 喜  欲 支 欲 定  欲 肯 欲 渴  欲 燋 欲 網  是 名 欲 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579a15_18",
+    "original":"云何恚界？",
+    "folio":7,
+    "stemmed":"云 何 恚 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579a16_19",
+    "original":"若欺惱眾生，侵陵悕望、非斷命根，是名恚界。",
+    "folio":7,
+    "stemmed":"若 欺 惱 眾 生  侵 陵 悕 望  非 斷 命 根  是 名 恚 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579a17_3",
+    "original":"云何害界？",
+    "folio":7,
+    "stemmed":"云 何 害 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579a18_3",
+    "original":"若欺害眾生，悕望侵陵斷命根，是名害界。",
+    "folio":7,
+    "stemmed":"若 欺 害 眾 生  悕 望 侵 陵 斷 命 根  是 名 害 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579a18_8",
+    "original":"云何欲界？",
+    "folio":7,
+    "stemmed":"云 何 欲 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579a24_10",
+    "original":"五欲愛喜適意愛色欲染相續，眼識色愛喜適意愛色欲染相續、耳鼻舌身識觸愛喜適意愛色欲染相續，若他欲他封邑他婦女他物令我得，若貪重貪究竟貪相應悕望愛欲染重欲染究竟欲染及餘可貪法，若貪重貪究竟貪悕望愛欲染重欲染究竟欲染，是名欲界。",
+    "folio":7,
+    "stemmed":"五 欲 愛 喜 適 意 愛 色 欲 染 相 續  眼 識 色 愛 喜 適 意 愛 色 欲 染 相 續  耳 鼻 舌 身 識 觸 愛 喜 適 意 愛 色 欲 染 相 續  若 他 欲 他 封 邑 他 婦 女 他 物 令 我 得  若 貪 重 貪 究 竟 貪 相 應 悕 望 愛 欲 染 重 欲 染 究 竟 欲 染 及 餘 可 貪 法  若 貪 重 貪 究 竟 貪 悕 望 愛 欲 染 重 欲 染 究 竟 欲 染  是 名 欲 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579a24_15",
+    "original":"云何恚界？",
+    "folio":7,
+    "stemmed":"云 何 恚 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579a27_11",
+    "original":"若少眾生若多眾生傷害此眾生，繫縛令得種種苦，若恚重恚究竟恚相應忿怒憎惡惱心佷戾不慈不愍不利益，是名恚界。",
+    "folio":7,
+    "stemmed":"若 少 眾 生 若 多 眾 生 傷 害 此 眾 生  繫 縛 令 得 種 種 苦  若 恚 重 恚 究 竟 恚 相 應 忿 怒 憎 惡 惱 心 佷 戾 不 慈 不 愍 不 利 益  是 名 恚 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579a27_16",
+    "original":"云何害界？",
+    "folio":7,
+    "stemmed":"云 何 害 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579a29_12",
+    "original":"若惱眾生，以手拳瓦石刀仗及餘諸惱，如是欺害眾生侵惱悕望斷命，是名害界。",
+    "folio":7,
+    "stemmed":"若 惱 眾 生  以 手 拳 瓦 石 刀 仗 及 餘 諸 惱  如 是 欺 害 眾 生 侵 惱 悕 望 斷 命  是 名 害 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579b01_4",
+    "original":"云何出界？",
+    "folio":7,
+    "stemmed":"云 何 出 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579b01_18",
+    "original":"除慈悲，餘善出法，是名出界。",
+    "folio":7,
+    "stemmed":"除 慈 悲  餘 善 出 法  是 名 出 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579b02_3",
+    "original":"云何不恚界？",
+    "folio":7,
+    "stemmed":"云 何 不 恚 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579b02_11",
+    "original":"慈，是名不恚界。",
+    "folio":7,
+    "stemmed":"慈  是 名 不 恚 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579b02_17",
+    "original":"云何不害界？",
+    "folio":7,
+    "stemmed":"云 何 不 害 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579b03_3",
+    "original":"悲，是名不害界。",
+    "folio":7,
+    "stemmed":"悲  是 名 不 害 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579b04_4",
+    "original":"云何光界？",
+    "folio":7,
+    "stemmed":"云 何 光 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579b04_10",
+    "original":"色光、慧光。",
+    "folio":7,
+    "stemmed":"色 光  慧 光  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579b04_15",
+    "original":"云何色光？",
+    "folio":7,
+    "stemmed":"云 何 色 光  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579b06_10",
+    "original":"火光、日光、月光、珠光、星宿光、佛光、眾生光，及餘四大所造光明照明，是名色光。",
+    "folio":7,
+    "stemmed":"火 光  日 光  月 光  珠 光  星 宿 光  佛 光  眾 生 光  及 餘 四 大 所 造 光 明 照 明  是 名 色 光  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579b06_15",
+    "original":"云何慧光？",
+    "folio":7,
+    "stemmed":"云 何 慧 光  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579b07_10",
+    "original":"三慧，思慧、聞慧、修慧，是名慧光。",
+    "folio":7,
+    "stemmed":"三 慧  思 慧  聞 慧  修 慧  是 名 慧 光  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579b08_1",
+    "original":"如是色光、慧光，是名光界。",
+    "folio":7,
+    "stemmed":"如 是 色 光  慧 光  是 名 光 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579b08_6",
+    "original":"云何淨界？",
+    "folio":7,
+    "stemmed":"云 何 淨 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579b09_8",
+    "original":"淨解脫及餘淨色能淨色，適意見無厭，是名淨界。",
+    "folio":7,
+    "stemmed":"淨 解 脫 及 餘 淨 色 能 淨 色  適 意 見 無 厭  是 名 淨 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579b10_4",
+    "original":"云何色界？",
+    "folio":7,
+    "stemmed":"云 何 色 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579b10_15",
+    "original":"色入、色陰，是名色界。",
+    "folio":7,
+    "stemmed":"色 入  色 陰  是 名 色 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579b11_5",
+    "original":"云何空處界？",
+    "folio":7,
+    "stemmed":"云 何 空 處 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579b12_4",
+    "original":"二空處界，或有為空處界、或無為空處界。",
+    "folio":7,
+    "stemmed":"二 空 處 界  或 有 為 空 處 界  或 無 為 空 處 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579b12_12",
+    "original":"云何有為空處界？",
+    "folio":7,
+    "stemmed":"云 何 有 為 空 處 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579b12_20",
+    "original":"空處定、空處生。",
+    "folio":7,
+    "stemmed":"空 處 定  空 處 生  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579b13_5",
+    "original":"云何空處定？",
+    "folio":7,
+    "stemmed":"云 何 空 處 定  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579b14_13",
+    "original":"若比丘離一切色想，滅瞋恚想，不思惟若干想，成就無邊空處。",
+    "folio":7,
+    "stemmed":"若 比 丘 離 一 切 色 想  滅 瞋 恚 想  不 思 惟 若 干 想  成 就 無 邊 空 處  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579b14_19",
+    "original":"云何空處生？",
+    "folio":7,
+    "stemmed":"云 何 空 處 生  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579b16_10",
+    "original":"若親近此定多修學故，空處天四種我分攝受想行識，是名空處生。",
+    "folio":7,
+    "stemmed":"若 親 近 此 定 多 修 學 故  空 處 天 四 種 我 分 攝 受 想 行 識  是 名 空 處 生  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579b17_10",
+    "original":"如是空處定、如是空處生，是名有為空處界。",
+    "folio":7,
+    "stemmed":"如 是 空 處 定  如 是 空 處 生  是 名 有 為 空 處 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579b17_18",
+    "original":"云何無為空處界？",
+    "folio":7,
+    "stemmed":"云 何 無 為 空 處 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579b18_14",
+    "original":"若以智斷，空處界若斷，是名空處。",
+    "folio":7,
+    "stemmed":"若 以 智 斷  空 處 界 若 斷  是 名 空 處  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579b19_15",
+    "original":"無為識處界、不用處界、非想非非想處界亦如是。",
+    "folio":7,
+    "stemmed":"無 為 識 處 界  不 用 處 界  非想非非想處 界 亦 如 是  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579b20_5",
+    "original":"云何十八界？",
+    "folio":7,
+    "stemmed":"云 何 十 八 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579b23_1",
+    "original":"眼界色界眼識界、耳界聲界耳識界、鼻界香界鼻識界、舌界味界舌識界、身界觸界身識界、意界法界意識界，是名十八界。",
+    "folio":7,
+    "stemmed":"眼 界 色 界 眼 識 界  耳 界 聲 界 耳 識 界  鼻 界 香 界 鼻 識 界  舌 界 味 界 舌 識 界  身 界 觸 界 身 識 界  意 界 法 界 意 識 界  是 名 十 八 界  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579b25_6",
+    "original":"2 業品舍利弗阿毘曇論非問分業品第二思業、思已業。",
+    "folio":7,
+    "stemmed":"2   業 品 舍 利 弗 阿 毘 曇 論 非 問 分 業 品 第 二 思 業  思 已 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579b25_15",
+    "original":"故作業、非故作業。",
+    "folio":7,
+    "stemmed":"故 作 業  非 故 作 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579b26_1",
+    "original":"受業、非受業。",
+    "folio":7,
+    "stemmed":"受 業  非 受 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579b26_9",
+    "original":"少受業、多受業。",
+    "folio":7,
+    "stemmed":"少 受 業  多 受 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579b26_16",
+    "original":"熟業、非熟業。",
+    "folio":7,
+    "stemmed":"熟 業  非 熟 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579b27_1",
+    "original":"色業、非色業。",
+    "folio":7,
+    "stemmed":"色 業  非 色 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579b27_10",
+    "original":"可見業、不可見業。",
+    "folio":7,
+    "stemmed":"可 見 業  不 可 見 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579b27_18",
+    "original":"有對業、無對業。",
+    "folio":7,
+    "stemmed":"有 對 業  無 對 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579b28_3",
+    "original":"聖業、非聖業。",
+    "folio":7,
+    "stemmed":"聖 業  非 聖 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579b28_11",
+    "original":"有漏業、無漏業。",
+    "folio":7,
+    "stemmed":"有 漏 業  無 漏 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579b28_19",
+    "original":"有愛業、無愛業。",
+    "folio":7,
+    "stemmed":"有 愛 業  無 愛 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579b29_6",
+    "original":"有求業、無求業。",
+    "folio":7,
+    "stemmed":"有 求 業  無 求 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579b29_15",
+    "original":"當取業、非當取業。",
+    "folio":7,
+    "stemmed":"當 取 業  非 當 取 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c01_2",
+    "original":"有取業、無取業。",
+    "folio":7,
+    "stemmed":"有 取 業  無 取 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c01_10",
+    "original":"有勝業、無勝業。",
+    "folio":7,
+    "stemmed":"有 勝 業  無 勝 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c01_17",
+    "original":"受業、非受業。",
+    "folio":7,
+    "stemmed":"受 業  非 受 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c02_1",
+    "original":"內業、外業。",
+    "folio":7,
+    "stemmed":"內 業  外 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c02_9",
+    "original":"有報業、無報業。",
+    "folio":7,
+    "stemmed":"有 報 業  無 報 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c02_20",
+    "original":"心相應業、非心相應業。",
+    "folio":7,
+    "stemmed":"心 相 應 業  非 心 相 應 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c03_8",
+    "original":"心數業、非心數業。",
+    "folio":7,
+    "stemmed":"心 數 業  非 心 數 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c03_15",
+    "original":"緣業、非緣業。",
+    "folio":7,
+    "stemmed":"緣 業  非 緣 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c04_3",
+    "original":"共心業、不共心業。",
+    "folio":7,
+    "stemmed":"共 心 業  不 共 心 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c04_14",
+    "original":"隨心轉業、不隨心轉業。",
+    "folio":7,
+    "stemmed":"隨 心 轉 業  不 隨 心 轉 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c05_12",
+    "original":"非業相應業、非業相應非非業相應業。",
+    "folio":7,
+    "stemmed":"非 業 相 應 業  非 業 相 應 非 非 業 相 應 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c05_19",
+    "original":"共業、非共業。",
+    "folio":7,
+    "stemmed":"共 業  非 共 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c06_10",
+    "original":"隨業轉業、不隨業轉業。",
+    "folio":7,
+    "stemmed":"隨 業 轉 業  不 隨 業 轉 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c06_17",
+    "original":"因業、非因業。",
+    "folio":7,
+    "stemmed":"因 業  非 因 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c07_14",
+    "original":"有因業、有緒業、有緣業、有為業。",
+    "folio":7,
+    "stemmed":"有 因 業  有 緒 業  有 緣 業  有 為 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c07_21",
+    "original":"知業、非知業。",
+    "folio":7,
+    "stemmed":"知 業  非 知 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c08_6",
+    "original":"識業、非識業。",
+    "folio":7,
+    "stemmed":"識 業  非 識 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c08_13",
+    "original":"解業、非解業。",
+    "folio":7,
+    "stemmed":"解 業  非 解 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c08_20",
+    "original":"了業、非了業。",
+    "folio":7,
+    "stemmed":"了 業  非 了 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c09_9",
+    "original":"斷智知業、非斷智知業。",
+    "folio":7,
+    "stemmed":"斷 智 知 業  非 斷 智 知 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c09_16",
+    "original":"斷業、非斷業。",
+    "folio":7,
+    "stemmed":"斷 業  非 斷 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c10_2",
+    "original":"修業、非修業。",
+    "folio":7,
+    "stemmed":"修 業  非 修 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c10_9",
+    "original":"證業、非證業。",
+    "folio":7,
+    "stemmed":"證 業  非 證 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c10_16",
+    "original":"教業、非教業。",
+    "folio":7,
+    "stemmed":"教 業  非 教 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c11_9",
+    "original":"身有教無教業、口有教無教業。",
+    "folio":7,
+    "stemmed":"身 有 教 無 教 業  口 有 教 無 教 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c11_18",
+    "original":"身業、口業、意業。",
+    "folio":7,
+    "stemmed":"身 業  口 業  意 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c12_10",
+    "original":"戒業、無戒業、非戒非無戒業。",
+    "folio":7,
+    "stemmed":"戒 業  無 戒 業  非 戒 非 無 戒 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c14_5",
+    "original":"身戒無戒非戒非無戒業、口戒無戒非戒非無戒業、意戒無戒非戒非無戒業。",
+    "folio":7,
+    "stemmed":"身 戒 無 戒 非 戒 非 無 戒 業  口 戒 無 戒 非 戒 非 無 戒 業  意 戒 無 戒 非 戒 非 無 戒 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c14_16",
+    "original":"善業、不善業、無記業。",
+    "folio":7,
+    "stemmed":"善 業  不 善 業  無 記 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c15_9",
+    "original":"學業、無學業、非學非無學業。",
+    "folio":7,
+    "stemmed":"學 業  無 學 業  非 學 非 無 學 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c16_2",
+    "original":"報業、報法業、非報非報法業。",
+    "folio":7,
+    "stemmed":"報 業  報 法 業  非 報 非 報 法 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c16_20",
+    "original":"見斷業、思惟斷業、非見斷非思惟斷業。",
+    "folio":7,
+    "stemmed":"見 斷 業  思 惟 斷 業  非 見 斷 非 思 惟 斷 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c18_1",
+    "original":"見斷因業、思惟斷因業、非見斷非思惟斷因業。",
+    "folio":7,
+    "stemmed":"見 斷 因 業  思 惟 斷 因 業  非 見 斷 非 思 惟 斷 因 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c18_10",
+    "original":"卑業、中業、勝業。",
+    "folio":7,
+    "stemmed":"卑 業  中 業  勝 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c18_19",
+    "original":"麁業、細業、微業。",
+    "folio":7,
+    "stemmed":"麁 業  細 業  微 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c19_9",
+    "original":"樂受業、苦受業、捨受業。",
+    "folio":7,
+    "stemmed":"樂 受 業  苦 受 業  捨 受 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c20_3",
+    "original":"樂受業、苦受業、非苦非樂受業。",
+    "folio":7,
+    "stemmed":"樂 受 業  苦 受 業  非 苦 非 樂 受 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c20_15",
+    "original":"喜處業、憂處業、捨處業。",
+    "folio":7,
+    "stemmed":"喜 處 業  憂 處 業  捨 處 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c21_9",
+    "original":"喜處業、憂處業、非喜非憂處業。",
+    "folio":7,
+    "stemmed":"喜 處 業  憂 處 業  非 喜 非 憂 處 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c22_1",
+    "original":"現法受業、生受業、後受業。",
+    "folio":7,
+    "stemmed":"現 法 受 業  生 受 業  後 受 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c22_16",
+    "original":"與樂業、與苦業、與不苦不樂業。",
+    "folio":7,
+    "stemmed":"與 樂 業  與 苦 業  與 不苦不樂 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c23_10",
+    "original":"樂果業、苦果業、不苦不樂果業。",
+    "folio":7,
+    "stemmed":"樂 果 業  苦 果 業  不苦不樂 果 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c24_4",
+    "original":"樂報業、苦報業、不苦不樂報業。",
+    "folio":7,
+    "stemmed":"樂 報 業  苦 報 業  不苦不樂 報 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c24_16",
+    "original":"過去業、未來業、現在業。",
+    "folio":7,
+    "stemmed":"過 去 業  未 來 業  現 在 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c26_7",
+    "original":"過去境界業、未來境界業、現在境界業、非過去非未來非現在境界業。",
+    "folio":7,
+    "stemmed":"過 去 境 界 業  未 來 境 界 業  現 在 境 界 業  非 過 去 非 未 來 非 現 在 境 界 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c27_7",
+    "original":"欲界繫業、色界繫業、無色界繫業、不繫業。",
+    "folio":7,
+    "stemmed":"欲 界 繫 業  色 界 繫 業  無 色 界 繫 業  不 繫 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c27_10",
+    "original":"四業。",
+    "folio":7,
+    "stemmed":"四 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c27_14",
+    "original":"四受業。",
+    "folio":7,
+    "stemmed":"四 受 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c27_17",
+    "original":"五怖。",
+    "folio":7,
+    "stemmed":"五 怖  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c27_20",
+    "original":"五怨。",
+    "folio":7,
+    "stemmed":"五 怨  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c28_2",
+    "original":"五無間業。",
+    "folio":7,
+    "stemmed":"五無間業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c28_9",
+    "original":"五戒、越五戒。",
+    "folio":7,
+    "stemmed":"五 戒  越 五 戒  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c28_21",
+    "original":"因貪業、因恚業、因癡業。",
+    "folio":7,
+    "stemmed":"因 貪 業  因 恚 業  因 癡 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0579c29_13",
+    "original":"因不貪業、因不恚業、因不癡業。",
+    "folio":7,
+    "stemmed":"因 不 貪 業  因 不 恚 業  因 不 癡 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580a01_20",
+    "original":"趣地獄業、趣畜生業、趣餓鬼業、趣人業、趣天業、趣涅槃業。",
+    "folio":7,
+    "stemmed":"趣 地 獄 業  趣 畜 生 業  趣 餓 鬼 業  趣 人 業  趣 天 業  趣 涅 槃 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580a02_4",
+    "original":"七不善法。",
+    "folio":7,
+    "stemmed":"七 不 善 法  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580a02_8",
+    "original":"七善法。",
+    "folio":7,
+    "stemmed":"七 善 法  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580a02_17",
+    "original":"八聖語、非八聖語。",
+    "folio":7,
+    "stemmed":"八 聖 語  非 八 聖 語  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580a03_8",
+    "original":"因貪身業、口業、意業。",
+    "folio":7,
+    "stemmed":"因 貪 身 業  口 業  意 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580a03_19",
+    "original":"因恚身業、口業、意業。",
+    "folio":7,
+    "stemmed":"因 恚 身 業  口 業  意 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580a04_7",
+    "original":"因癡身業、口業、意業。",
+    "folio":7,
+    "stemmed":"因 癡 身 業  口 業  意 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580a04_19",
+    "original":"因不貪身業、口業、意業。",
+    "folio":7,
+    "stemmed":"因 不 貪 身 業  口 業  意 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580a05_9",
+    "original":"因不恚身業、口業、意業。",
+    "folio":7,
+    "stemmed":"因 不 恚 身 業  口 業  意 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580a05_21",
+    "original":"因不癡身業、口業、意業。",
+    "folio":7,
+    "stemmed":"因 不 癡 身 業  口 業  意 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580a06_10",
+    "original":"十不善業道、十善業道。",
+    "folio":7,
+    "stemmed":"十不善業 道  十善業道  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580a07_14",
+    "original":"十法成就墮地獄速若𥎞矛、十法成就生天速如𥎞矛。",
+    "folio":7,
+    "stemmed":"十 法 成 就 墮 地 獄 速 若 𥎞 矛  十 法 成 就 生 天 速 如 𥎞 矛  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580a09_3",
+    "original":"二十法成就墮地獄速如𥎞矛、二十法成就生天速如𥎞矛。",
+    "folio":7,
+    "stemmed":"二 十 法 成 就 墮 地 獄 速 如 𥎞 矛  二 十 法 成 就 生 天 速 如 𥎞 矛  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580a10_10",
+    "original":"三十法成就墮地獄速如𥎞矛、三十法成就生天速如𥎞矛。",
+    "folio":7,
+    "stemmed":"三 十 法 成 就 墮 地 獄 速 如 𥎞 矛  三 十 法 成 就 生 天 速 如 𥎞 矛  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580a11_17",
+    "original":"四十法成就墮地獄速如𥎞矛、四十法成就生天速如𥎞矛。",
+    "folio":7,
+    "stemmed":"四 十 法 成 就 墮 地 獄 速 如 𥎞 矛  四 十 法 成 就 生 天 速 如 𥎞 矛  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580a12_4",
+    "original":"云何思業？",
+    "folio":7,
+    "stemmed":"云 何 思 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580a12_12",
+    "original":"意業，是名思業。",
+    "folio":7,
+    "stemmed":"意 業  是 名 思 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580a12_18",
+    "original":"云何思已業？",
+    "folio":7,
+    "stemmed":"云 何 思 已 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580a13_8",
+    "original":"身業、口業，是名思已業。",
+    "folio":7,
+    "stemmed":"身 業  口 業  是 名 思 已 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580a14_5",
+    "original":"云何故作業？",
+    "folio":7,
+    "stemmed":"云 何 故 作 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580a14_18",
+    "original":"若業故作受報，是名故作業。",
+    "folio":7,
+    "stemmed":"若 業 故 作 受 報  是 名 故 作 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580a15_5",
+    "original":"云何不故作業？",
+    "folio":7,
+    "stemmed":"云 何 不 故 作 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580a16_2",
+    "original":"若業不作不受報，是名不故作業。",
+    "folio":7,
+    "stemmed":"若 業 不 作 不 受 報  是 名 不 故 作 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580a17_4",
+    "original":"云何受業？",
+    "folio":7,
+    "stemmed":"云 何 受 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580a17_14",
+    "original":"若業有報，是名受業。",
+    "folio":7,
+    "stemmed":"若 業 有 報  是 名 受 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580a17_20",
+    "original":"云何非受業？",
+    "folio":7,
+    "stemmed":"云 何 非 受 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580a18_10",
+    "original":"若業無報，是名非受業。",
+    "folio":7,
+    "stemmed":"若 業 無 報  是 名 非 受 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580a19_9",
+    "original":"復次受業，若業有報及無報思，是名受業。",
+    "folio":7,
+    "stemmed":"復 次 受 業  若 業 有 報 及 無 報 思  是 名 受 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580a20_11",
+    "original":"復次非受業，若業無報身業口業，是名非受業。",
+    "folio":7,
+    "stemmed":"復 次 非 受 業  若 業 無 報 身業口業  是 名 非 受 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580a21_5",
+    "original":"云何少受業？",
+    "folio":7,
+    "stemmed":"云 何 少 受 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580a21_17",
+    "original":"若業受少報，是名少受業。",
+    "folio":7,
+    "stemmed":"若 業 受 少 報  是 名 少 受 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580a22_3",
+    "original":"云何多受業？",
+    "folio":7,
+    "stemmed":"云 何 多 受 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580a22_16",
+    "original":"若業不受少報，是名多受業。",
+    "folio":7,
+    "stemmed":"若 業 不 受 少 報  是 名 多 受 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580a23_4",
+    "original":"云何熟業？",
+    "folio":7,
+    "stemmed":"云 何 熟 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580a23_15",
+    "original":"若業近受報，是名熟業。",
+    "folio":7,
+    "stemmed":"若 業 近 受 報  是 名 熟 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580a24_1",
+    "original":"云何非熟業？",
+    "folio":7,
+    "stemmed":"云 何 非 熟 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580a24_14",
+    "original":"若業非近受報，是名非熟業。",
+    "folio":7,
+    "stemmed":"若 業 非 近 受 報  是 名 非 熟 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580a25_4",
+    "original":"云何色業？",
+    "folio":7,
+    "stemmed":"云 何 色 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580a25_14",
+    "original":"身業口業，是名色業。",
+    "folio":7,
+    "stemmed":"身業口業  是 名 色 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580a25_20",
+    "original":"云何非色業？",
+    "folio":7,
+    "stemmed":"云 何 非 色 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580a26_8",
+    "original":"意業，是名非色業。",
+    "folio":7,
+    "stemmed":"意 業  是 名 非 色 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580a27_5",
+    "original":"云何可見業？",
+    "folio":7,
+    "stemmed":"云 何 可 見 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580a27_17",
+    "original":"若業色入攝，是名可見業。",
+    "folio":7,
+    "stemmed":"若 業 色 入 攝  是 名 可 見 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580a28_4",
+    "original":"云何不可見業？",
+    "folio":7,
+    "stemmed":"云 何 不 可 見 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580a28_17",
+    "original":"若業法入攝，是名不可見業。",
+    "folio":7,
+    "stemmed":"若 業 法 入 攝  是 名 不 可 見 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580a29_5",
+    "original":"云何有對業？",
+    "folio":7,
+    "stemmed":"云 何 有 對 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580a29_20",
+    "original":"若業聲入、色入攝，是名有對業。",
+    "folio":7,
+    "stemmed":"若 業 聲 入  色 入 攝  是 名 有 對 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b01_5",
+    "original":"云何無對業？",
+    "folio":7,
+    "stemmed":"云 何 無 對 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b01_17",
+    "original":"若業法入攝，是名無對業。",
+    "folio":7,
+    "stemmed":"若 業 法 入 攝  是 名 無 對 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b02_4",
+    "original":"云何聖業？",
+    "folio":7,
+    "stemmed":"云 何 聖 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b02_14",
+    "original":"若業無漏，是名聖業。",
+    "folio":7,
+    "stemmed":"若 業 無 漏  是 名 聖 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b02_20",
+    "original":"云何非聖業？",
+    "folio":7,
+    "stemmed":"云 何 非 聖 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b03_10",
+    "original":"若業有漏，是名非聖業。",
+    "folio":7,
+    "stemmed":"若 業 有 漏  是 名 非 聖 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b04_5",
+    "original":"云何有漏業？",
+    "folio":7,
+    "stemmed":"云 何 有 漏 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b04_16",
+    "original":"若業有愛，是名有漏業。",
+    "folio":7,
+    "stemmed":"若 業 有 愛  是 名 有 漏 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b05_2",
+    "original":"云何無漏業？",
+    "folio":7,
+    "stemmed":"云 何 無 漏 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b05_13",
+    "original":"若業無愛，是名無漏業。",
+    "folio":7,
+    "stemmed":"若 業 無 愛  是 名 無 漏 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b06_5",
+    "original":"云何有愛業？",
+    "folio":7,
+    "stemmed":"云 何 有 愛 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b06_16",
+    "original":"若業有求，是名有愛業。",
+    "folio":7,
+    "stemmed":"若 業 有 求  是 名 有 愛 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b07_2",
+    "original":"云何無愛業？",
+    "folio":7,
+    "stemmed":"云 何 無 愛 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b07_13",
+    "original":"若業無求，是名無愛業。",
+    "folio":7,
+    "stemmed":"若 業 無 求  是 名 無 愛 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b08_5",
+    "original":"云何有求業？",
+    "folio":7,
+    "stemmed":"云 何 有 求 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b08_16",
+    "original":"若業當取，是名有求業。",
+    "folio":7,
+    "stemmed":"若 業 當 取  是 名 有 求 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b09_2",
+    "original":"云何無求業？",
+    "folio":7,
+    "stemmed":"云 何 無 求 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b09_14",
+    "original":"若業非當取，是名無求業。",
+    "folio":7,
+    "stemmed":"若 業 非 當 取  是 名 無 求 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b10_5",
+    "original":"云何當取業？",
+    "folio":7,
+    "stemmed":"云 何 當 取 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b10_16",
+    "original":"若業有取，是名當取業。",
+    "folio":7,
+    "stemmed":"若 業 有 取  是 名 當 取 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b11_3",
+    "original":"云何非當取業？",
+    "folio":7,
+    "stemmed":"云 何 非 當 取 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b11_15",
+    "original":"若業無取，是名非當取業。",
+    "folio":7,
+    "stemmed":"若 業 無 取  是 名 非 當 取 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b12_1",
+    "original":"云何有取業？",
+    "folio":7,
+    "stemmed":"云 何 有 取 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b12_12",
+    "original":"若業有勝，是名有取業。",
+    "folio":7,
+    "stemmed":"若 業 有 勝  是 名 有 取 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b12_18",
+    "original":"云何無取業？",
+    "folio":7,
+    "stemmed":"云 何 無 取 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b13_8",
+    "original":"若業無勝，是名無取業。",
+    "folio":7,
+    "stemmed":"若 業 無 勝  是 名 無 取 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b14_5",
+    "original":"云何有勝業？",
+    "folio":7,
+    "stemmed":"云 何 有 勝 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b14_16",
+    "original":"若業有取，是名有勝業。",
+    "folio":7,
+    "stemmed":"若 業 有 取  是 名 有 勝 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b15_2",
+    "original":"云何無勝業？",
+    "folio":7,
+    "stemmed":"云 何 無 勝 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b15_13",
+    "original":"若業無取，是名無勝業。",
+    "folio":7,
+    "stemmed":"若 業 無 取  是 名 無 勝 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b16_16",
+    "original":"復次有勝業，若此業，有餘業勝妙過上，是名有勝業。",
+    "folio":7,
+    "stemmed":"復 次 有 勝 業  若 此 業  有 餘 業 勝 妙 過 上  是 名 有 勝 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b17_20",
+    "original":"復次無勝業，若此業，無餘業勝妙過上，是名無勝業。",
+    "folio":7,
+    "stemmed":"復 次 無 勝 業  若 此 業  無 餘 業 勝 妙 過 上  是 名 無 勝 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b18_4",
+    "original":"云何受業？",
+    "folio":7,
+    "stemmed":"云 何 受 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b18_13",
+    "original":"若業內，是名受業。",
+    "folio":7,
+    "stemmed":"若 業 內  是 名 受 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b18_19",
+    "original":"云何非受業？",
+    "folio":7,
+    "stemmed":"云 何 非 受 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b19_8",
+    "original":"若業外，是名非受業。",
+    "folio":7,
+    "stemmed":"若 業 外  是 名 非 受 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b20_4",
+    "original":"云何內業？",
+    "folio":7,
+    "stemmed":"云 何 內 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b20_13",
+    "original":"若業受，是名內業。",
+    "folio":7,
+    "stemmed":"若 業 受  是 名 內 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b20_18",
+    "original":"云何外業？",
+    "folio":7,
+    "stemmed":"云 何 外 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b21_7",
+    "original":"若業非受，是名外業。",
+    "folio":7,
+    "stemmed":"若 業 非 受  是 名 外 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b21_13",
+    "original":"云何有報業？",
+    "folio":7,
+    "stemmed":"云 何 有 報 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b22_3",
+    "original":"若業有報，是名有報業。",
+    "folio":7,
+    "stemmed":"若 業 有 報  是 名 有 報 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b22_9",
+    "original":"云何無報業？",
+    "folio":7,
+    "stemmed":"云 何 無 報 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b23_1",
+    "original":"若業非報，是名無報業。",
+    "folio":7,
+    "stemmed":"若 業 非 報  是 名 無 報 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b24_6",
+    "original":"云何心相應業？",
+    "folio":7,
+    "stemmed":"云 何 心 相 應 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b24_18",
+    "original":"若業心數，是名心相應業。",
+    "folio":7,
+    "stemmed":"若 業 心 數  是 名 心 相 應 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b25_7",
+    "original":"云何非心相應業？",
+    "folio":7,
+    "stemmed":"云 何 非 心 相 應 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b26_2",
+    "original":"若業非心數，是名非心相應業。",
+    "folio":7,
+    "stemmed":"若 業 非 心 數  是 名 非 心 相 應 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b27_5",
+    "original":"云何心數業？",
+    "folio":7,
+    "stemmed":"云 何 心 數 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b27_15",
+    "original":"若業緣，是名心數業。",
+    "folio":7,
+    "stemmed":"若 業 緣  是 名 心 數 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b28_3",
+    "original":"云何非心數業？",
+    "folio":7,
+    "stemmed":"云 何 非 心 數 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b28_15",
+    "original":"若業非緣，是名非心數業。",
+    "folio":7,
+    "stemmed":"若 業 非 緣  是 名 非 心 數 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b29_4",
+    "original":"云何緣業？",
+    "folio":7,
+    "stemmed":"云 何 緣 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b29_14",
+    "original":"若業心數，是名緣業。",
+    "folio":7,
+    "stemmed":"若 業 心 數  是 名 緣 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580b29_20",
+    "original":"云何非緣業？",
+    "folio":7,
+    "stemmed":"云 何 非 緣 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580c01_11",
+    "original":"若業非心數，是名非緣業。",
+    "folio":7,
+    "stemmed":"若 業 非 心 數  是 名 非 緣 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580c02_5",
+    "original":"云何共心業？",
+    "folio":7,
+    "stemmed":"云 何 共 心 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580c03_5",
+    "original":"若業隨心轉、共心生共住共滅，是名共心業。",
+    "folio":7,
+    "stemmed":"若 業 隨 心 轉  共 心 生 共 住 共 滅  是 名 共 心 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580c03_12",
+    "original":"云何非共心業？",
+    "folio":7,
+    "stemmed":"云 何 非 共 心 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580c04_17",
+    "original":"若業不共心轉、不共心生不共住不共滅，是名不共心業。",
+    "folio":7,
+    "stemmed":"若 業 不 共 心 轉  不 共 心 生 不 共 住 不 共 滅  是 名 不 共 心 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580c05_6",
+    "original":"云何隨心轉業？",
+    "folio":7,
+    "stemmed":"云 何 隨 心 轉 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580c06_4",
+    "original":"若業共心生共住共滅，是名隨心轉業。",
+    "folio":7,
+    "stemmed":"若 業 共 心 生 共 住 共 滅  是 名 隨 心 轉 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580c06_12",
+    "original":"云何不隨心轉業？",
+    "folio":7,
+    "stemmed":"云 何 不 隨 心 轉 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580c07_14",
+    "original":"若業不共心生不共住不共滅，是名不隨心轉業。",
+    "folio":7,
+    "stemmed":"若 業 不 共 心 生 不 共 住 不 共 滅  是 名 不 隨 心 轉 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580c08_7",
+    "original":"云何非業相應業？",
+    "folio":7,
+    "stemmed":"云 何 非 業 相 應 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580c09_3",
+    "original":"若業非思相應，是名非業相應業。",
+    "folio":7,
+    "stemmed":"若 業 非 思 相 應  是 名 非 業 相 應 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580c09_16",
+    "original":"云何非業相應非非業相應業？",
+    "folio":7,
+    "stemmed":"云 何 非 業 相 應 非 非 業 相 應 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580c10_11",
+    "original":"思，是名非業相應非非業相應業。",
+    "folio":7,
+    "stemmed":"思  是 名 非 業 相 應 非 非 業 相 應 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580c11_4",
+    "original":"云何共業？",
+    "folio":7,
+    "stemmed":"云 何 共 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580c12_3",
+    "original":"若業隨業轉、共業生共住共滅，是名共業。",
+    "folio":7,
+    "stemmed":"若 業 隨 業 轉  共 業 生 共 住 共 滅  是 名 共 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580c12_9",
+    "original":"云何不共業？",
+    "folio":7,
+    "stemmed":"云 何 不 共 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580c13_13",
+    "original":"若業不隨業轉、不共業生不共住不共滅，是名不共業。",
+    "folio":7,
+    "stemmed":"若 業 不 隨 業 轉  不 共 業 生 不 共 住 不 共 滅  是 名 不 共 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580c14_6",
+    "original":"云何隨業轉業？",
+    "folio":7,
+    "stemmed":"云 何 隨 業 轉 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580c15_4",
+    "original":"若業共業生共住共滅，是名隨業轉業。",
+    "folio":7,
+    "stemmed":"若 業 共 業 生 共 住 共 滅  是 名 隨 業 轉 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580c15_12",
+    "original":"云何不隨業轉業？",
+    "folio":7,
+    "stemmed":"云 何 不 隨 業 轉 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580c16_12",
+    "original":"不共業生不共住不共滅，是名不隨業轉業。",
+    "folio":7,
+    "stemmed":"不 共 業 生 不 共 住 不 共 滅  是 名 不 隨 業 轉 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580c16_17",
+    "original":"云何因業？",
+    "folio":7,
+    "stemmed":"云 何 因 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580c17_15",
+    "original":"若業緣業若業非緣善有，是名因業。",
+    "folio":7,
+    "stemmed":"若 業 緣 業 若 業 非 緣 善 有  是 名 因 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580c18_4",
+    "original":"云何非因業？",
+    "folio":7,
+    "stemmed":"云 何 非 因 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580c19_2",
+    "original":"若業非緣無報報不共業，是名非因業。",
+    "folio":7,
+    "stemmed":"若 業 非 緣 無 報 報 不 共 業  是 名 非 因 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580c20_5",
+    "original":"云何有因業？",
+    "folio":7,
+    "stemmed":"云 何 有 因 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580c20_16",
+    "original":"若業有緒，是名有因業。",
+    "folio":7,
+    "stemmed":"若 業 有 緒  是 名 有 因 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580c21_5",
+    "original":"云何有緒業？",
+    "folio":7,
+    "stemmed":"云 何 有 緒 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580c22_3",
+    "original":"若業有緣轉業若業共業，是名有緒業。",
+    "folio":7,
+    "stemmed":"若 業 有 緣 轉 業 若 業 共 業  是 名 有 緒 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580c23_5",
+    "original":"云何有緣業？",
+    "folio":7,
+    "stemmed":"云 何 有 緣 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580c23_16",
+    "original":"若業有為，是名有緣業。",
+    "folio":7,
+    "stemmed":"若 業 有 為  是 名 有 緣 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580c24_5",
+    "original":"云何有為業？",
+    "folio":7,
+    "stemmed":"云 何 有 為 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580c24_16",
+    "original":"業若有緣，是名有為業。",
+    "folio":7,
+    "stemmed":"業 若 有 緣  是 名 有 為 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580c25_4",
+    "original":"云何知業？",
+    "folio":7,
+    "stemmed":"云 何 知 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580c25_18",
+    "original":"一切業知如事知見，是名知業。",
+    "folio":7,
+    "stemmed":"一 切 業 知 如 事 知 見  是 名 知 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580c26_4",
+    "original":"云何非知業？",
+    "folio":7,
+    "stemmed":"云 何 非 知 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580c26_9",
+    "original":"無非知業。",
+    "folio":7,
+    "stemmed":"無 非 知 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580c27_9",
+    "original":"復次說，一切業非知如事知見，是名非知業。",
+    "folio":7,
+    "stemmed":"復 次 說  一 切 業 非 知 如 事 知 見  是 名 非 知 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580c28_4",
+    "original":"云何識業？",
+    "folio":7,
+    "stemmed":"云 何 識 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580c28_19",
+    "original":"一切業識意識如事識，是名識業。",
+    "folio":7,
+    "stemmed":"一 切 業 識 意 識 如 事 識  是 名 識 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580c29_5",
+    "original":"云何非識業？",
+    "folio":7,
+    "stemmed":"云 何 非 識 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0580c29_10",
+    "original":"無非識業。",
+    "folio":7,
+    "stemmed":"無 非 識 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581a01_11",
+    "original":"復次說，一切業非識意識如事識，是名非識業。",
+    "folio":7,
+    "stemmed":"復 次 說  一 切 業 非 識 意 識 如 事 識  是 名 非 識 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581a02_4",
+    "original":"云何解業？",
+    "folio":7,
+    "stemmed":"云 何 解 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581a02_14",
+    "original":"如事知見，是名解業。",
+    "folio":7,
+    "stemmed":"如 事 知 見  是 名 解 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581a02_20",
+    "original":"云何非解業？",
+    "folio":7,
+    "stemmed":"云 何 非 解 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581a03_4",
+    "original":"無非解業。",
+    "folio":7,
+    "stemmed":"無 非 解 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581a04_4",
+    "original":"復次說，一切業非解如事知見，是名非解業。",
+    "folio":7,
+    "stemmed":"復 次 說  一 切 業 非 解 如 事 知 見  是 名 非 解 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581a05_4",
+    "original":"云何了業？",
+    "folio":7,
+    "stemmed":"云 何 了 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581a05_18",
+    "original":"一切業了如事知見，是名了業。",
+    "folio":7,
+    "stemmed":"一 切 業 了 如 事 知 見  是 名 了 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581a06_4",
+    "original":"云何非了業？",
+    "folio":7,
+    "stemmed":"云 何 非 了 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581a06_9",
+    "original":"無非了業。",
+    "folio":7,
+    "stemmed":"無 非 了 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581a07_6",
+    "original":"云何斷智知業？",
+    "folio":7,
+    "stemmed":"云 何 斷 智 知 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581a07_18",
+    "original":"業若不善，是名斷智知業。",
+    "folio":7,
+    "stemmed":"業 若 不 善  是 名 斷 智 知 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581a08_7",
+    "original":"云何非斷智知業？",
+    "folio":7,
+    "stemmed":"云 何 非 斷 智 知 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581a09_3",
+    "original":"若業善、若無記，是名非斷智知業。",
+    "folio":7,
+    "stemmed":"若 業 善  若 無 記  是 名 非 斷 智 知 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581a10_4",
+    "original":"云何斷業？",
+    "folio":7,
+    "stemmed":"云 何 斷 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581a10_14",
+    "original":"若業不善，是名斷業。",
+    "folio":7,
+    "stemmed":"若 業 不 善  是 名 斷 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581a10_20",
+    "original":"云何非斷業？",
+    "folio":7,
+    "stemmed":"云 何 非 斷 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581a11_13",
+    "original":"若業善、若無記，是名非斷業。",
+    "folio":7,
+    "stemmed":"若 業 善  若 無 記  是 名 非 斷 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581a12_4",
+    "original":"云何修業？",
+    "folio":7,
+    "stemmed":"云 何 修 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581a12_13",
+    "original":"若業善，是名修業。",
+    "folio":7,
+    "stemmed":"若 業 善  是 名 修 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581a12_19",
+    "original":"云何不修業？",
+    "folio":7,
+    "stemmed":"云 何 不 修 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581a13_12",
+    "original":"若業不善、無記，是名非修業。",
+    "folio":7,
+    "stemmed":"若 業 不 善  無 記  是 名 非 修 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581a14_4",
+    "original":"云何證業？",
+    "folio":7,
+    "stemmed":"云 何 證 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581a14_18",
+    "original":"一切業證如事知見，是名證業。",
+    "folio":7,
+    "stemmed":"一 切 業 證 如 事 知 見  是 名 證 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581a15_5",
+    "original":"云何非證業？",
+    "folio":7,
+    "stemmed":"云 何 非 證 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581a15_10",
+    "original":"無非證業。",
+    "folio":7,
+    "stemmed":"無 非 證 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581a16_10",
+    "original":"復次說，一切業非證如事知見，是名非證業。",
+    "folio":7,
+    "stemmed":"復 次 說  一 切 業 非 證 如 事 知 見  是 名 非 證 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581a17_4",
+    "original":"云何教業？",
+    "folio":7,
+    "stemmed":"云 何 教 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581a17_15",
+    "original":"身業、口業，是名教業。",
+    "folio":7,
+    "stemmed":"身 業  口 業  是 名 教 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581a17_21",
+    "original":"云何無教業？",
+    "folio":7,
+    "stemmed":"云 何 無 教 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581a18_8",
+    "original":"意業，是名無教業。",
+    "folio":7,
+    "stemmed":"意 業  是 名 無 教 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581a18_14",
+    "original":"云何身教業？",
+    "folio":7,
+    "stemmed":"云 何 身 教 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581a19_8",
+    "original":"若身業色入攝，是名身教業。",
+    "folio":7,
+    "stemmed":"若 身 業 色 入 攝  是 名 身 教 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581a19_15",
+    "original":"云何身無教業？",
+    "folio":7,
+    "stemmed":"云 何 身 無 教 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581a20_10",
+    "original":"若身業法入攝，是名身無教業。",
+    "folio":7,
+    "stemmed":"若 身 業 法 入 攝  是 名 身 無 教 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581a20_16",
+    "original":"云何口教業？",
+    "folio":7,
+    "stemmed":"云 何 口 教 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581a21_10",
+    "original":"若口業聲入攝，是名口教業。",
+    "folio":7,
+    "stemmed":"若 口 業 聲 入 攝  是 名 口 教 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581a21_17",
+    "original":"云何口無教業？",
+    "folio":7,
+    "stemmed":"云 何 口 無 教 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581a22_12",
+    "original":"若口業法入攝，是名口無教業。",
+    "folio":7,
+    "stemmed":"若 口 業 法 入 攝  是 名 口 無 教 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581a22_17",
+    "original":"云何身業？",
+    "folio":7,
+    "stemmed":"云 何 身 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581a23_10",
+    "original":"若業非緣非口業，是名身業。",
+    "folio":7,
+    "stemmed":"若 業 非 緣 非 口 業  是 名 身 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581a23_15",
+    "original":"云何口業？",
+    "folio":7,
+    "stemmed":"云 何 口 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581a24_8",
+    "original":"若業非緣非身業，是名口業。",
+    "folio":7,
+    "stemmed":"若 業 非 緣 非 身 業  是 名 口 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581a24_13",
+    "original":"云何意業？",
+    "folio":7,
+    "stemmed":"云 何 意 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581a25_1",
+    "original":"若業緣，是名意業。",
+    "folio":7,
+    "stemmed":"若 業 緣  是 名 意 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581a25_6",
+    "original":"云何戒業？",
+    "folio":7,
+    "stemmed":"云 何 戒 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581a27_13",
+    "original":"若業善心所起去來屈申迴轉身教、集聲音句言語口教、有漏身口戒無教、正語正業正命及善思，是名戒業。",
+    "folio":7,
+    "stemmed":"若 業 善 心 所 起 去 來 屈 申 迴 轉 身 教  集 聲 音 句 言 語 口 教  有 漏 身 口 戒 無 教  正 語 正 業 正 命 及 善 思  是 名 戒 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581a27_19",
+    "original":"云何無戒業？",
+    "folio":7,
+    "stemmed":"云 何 無 戒 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581b01_7",
+    "original":"若業不善不善心所起去來屈申迴轉身教、集聲音句言語口教、身口作非戒無教及不善思，是名無戒業。",
+    "folio":7,
+    "stemmed":"若 業 不 善 不 善 心 所 起 去 來 屈 申 迴 轉 身 教  集 聲 音 句 言 語 口 教  身 口 作 非 戒 無 教 及 不 善 思  是 名 無 戒 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581b01_16",
+    "original":"云何非戒非無戒業？",
+    "folio":7,
+    "stemmed":"云 何 非 戒 非 無 戒 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581b03_15",
+    "original":"若業無記心所起去來屈申迴轉身教、集聲音句言語口教及無記思，是名非戒非無戒業。",
+    "folio":7,
+    "stemmed":"若 業 無 記 心 所 起 去 來 屈 申 迴 轉 身 教  集 聲 音 句 言 語 口 教 及 無 記 思  是 名 非 戒 非 無 戒 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581b04_2",
+    "original":"云何身戒業？",
+    "folio":7,
+    "stemmed":"云 何 身 戒 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581b05_20",
+    "original":"若身業善、善心所起去來屈申迴轉身教、有漏身戒無教、正業身正命，是名身戒業。",
+    "folio":7,
+    "stemmed":"若 身 業 善  善 心 所 起 去 來 屈 申 迴 轉 身 教  有 漏 身 戒 無 教  正 業 身 正 命  是 名 身 戒 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581b06_6",
+    "original":"云何身無戒業？",
+    "folio":7,
+    "stemmed":"云 何 身 無 戒 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581b08_1",
+    "original":"若身業不善、不善心所起去來屈申迴轉身教、身非戒無教，是名身無戒業。",
+    "folio":7,
+    "stemmed":"若 身 業 不 善  不 善 心 所 起 去 來 屈 申 迴 轉 身 教  身 非 戒 無 教  是 名 身 無 戒 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581b08_11",
+    "original":"云何身非戒非無戒業？",
+    "folio":7,
+    "stemmed":"云 何 身 非 戒 非 無 戒 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581b10_4",
+    "original":"若身業無記、無記心所起去來屈申迴轉身教，是名身非戒非無戒業。",
+    "folio":7,
+    "stemmed":"若 身 業 無 記  無 記 心 所 起 去 來 屈 申 迴 轉 身 教  是 名 身 非 戒 非 無 戒 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581b10_10",
+    "original":"云何口戒業？",
+    "folio":7,
+    "stemmed":"云 何 口 戒 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581b12_7",
+    "original":"若口業善、善心所起集聲音句言語口教、有漏口戒無教、正語口正命，是名口戒業。",
+    "folio":7,
+    "stemmed":"若 口 業 善  善 心 所 起 集 聲 音 句 言 語 口 教  有 漏 口 戒 無 教  正 語 口 正 命  是 名 口 戒 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581b13_6",
+    "original":"云何口無戒業？",
+    "folio":7,
+    "stemmed":"云 何 口 無 戒 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581b15_1",
+    "original":"若口業不善、不善心所起集聲音句言語口教、口非戒無教，是名口無戒業。",
+    "folio":7,
+    "stemmed":"若 口 業 不 善  不 善 心 所 起 集 聲 音 句 言 語 口 教  口 非 戒 無 教  是 名 口 無 戒 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581b15_11",
+    "original":"云何口非戒非無戒業？",
+    "folio":7,
+    "stemmed":"云 何 口 非 戒 非 無 戒 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581b17_3",
+    "original":"若口業無記、無記心所起集聲音句言語口教，是名口非戒非無戒業。",
+    "folio":7,
+    "stemmed":"若 口 業 無 記  無 記 心 所 起 集 聲 音 句 言 語 口 教  是 名 口 非 戒 非 無 戒 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581b17_9",
+    "original":"云何意戒業？",
+    "folio":7,
+    "stemmed":"云 何 意 戒 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581b18_5",
+    "original":"若意業善、善心相應思，是名意戒業。",
+    "folio":7,
+    "stemmed":"若 意 業 善  善 心 相 應 思  是 名 意 戒 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581b18_12",
+    "original":"云何意無戒業？",
+    "folio":7,
+    "stemmed":"云 何 意 無 戒 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581b19_12",
+    "original":"若意業不善、不善心相應思，是名意無戒業。",
+    "folio":7,
+    "stemmed":"若 意 業 不 善  不 善 心 相 應 思  是 名 意 無 戒 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581b20_3",
+    "original":"云何意非戒非無戒業？",
+    "folio":7,
+    "stemmed":"云 何 意 非 戒 非 無 戒 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581b21_6",
+    "original":"若意業無記、無記心相應思，是名意非戒非無戒業。",
+    "folio":7,
+    "stemmed":"若 意 業 無 記  無 記 心 相 應 思  是 名 意 非 戒 非 無 戒 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581b22_4",
+    "original":"云何善業？",
+    "folio":7,
+    "stemmed":"云 何 善 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581b22_13",
+    "original":"若業修，是名善業。",
+    "folio":7,
+    "stemmed":"若 業 修  是 名 善 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581b22_19",
+    "original":"云何不善業？",
+    "folio":7,
+    "stemmed":"云 何 不 善 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581b23_8",
+    "original":"若業斷，是名不善業。",
+    "folio":7,
+    "stemmed":"若 業 斷  是 名 不 善 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581b23_14",
+    "original":"云何無記業？",
+    "folio":7,
+    "stemmed":"云 何 無 記 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581b24_11",
+    "original":"若受若業非報非報法，是名無記業。",
+    "folio":7,
+    "stemmed":"若 受 若 業 非 報 非 報 法  是 名 無 記 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581b25_4",
+    "original":"云何學業？",
+    "folio":7,
+    "stemmed":"云 何 學 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581b25_16",
+    "original":"若業聖非無學，是名學業。",
+    "folio":7,
+    "stemmed":"若 業 聖 非 無 學  是 名 學 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581b26_2",
+    "original":"云何無學業？",
+    "folio":7,
+    "stemmed":"云 何 無 學 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581b26_14",
+    "original":"若業聖非學，是名無學業。",
+    "folio":7,
+    "stemmed":"若 業 聖 非 學  是 名 無 學 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581b27_3",
+    "original":"云何非學非無學業？",
+    "folio":7,
+    "stemmed":"云 何 非 學 非 無 學 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581b27_17",
+    "original":"若業非聖，是名非學非無學業。",
+    "folio":7,
+    "stemmed":"若 業 非 聖  是 名 非 學 非 無 學 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581b28_4",
+    "original":"云何報業？",
+    "folio":7,
+    "stemmed":"云 何 報 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581b28_17",
+    "original":"若業受若業善報，是名報業。",
+    "folio":7,
+    "stemmed":"若 業 受 若 業 善 報  是 名 報 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581b29_3",
+    "original":"云何報法業？",
+    "folio":7,
+    "stemmed":"云 何 報 法 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581b29_14",
+    "original":"若業有報，是名報法業。",
+    "folio":7,
+    "stemmed":"若 業 有 報  是 名 報 法 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581c01_4",
+    "original":"云何非報非報法業？",
+    "folio":7,
+    "stemmed":"云 何 非 報 非 報 法 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581c02_3",
+    "original":"若業無記非我分攝，是名非報非報法業。",
+    "folio":7,
+    "stemmed":"若 業 無 記 非 我 分 攝  是 名 非 報 非 報 法 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581c02_9",
+    "original":"云何見斷業？",
+    "folio":7,
+    "stemmed":"云 何 見 斷 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581c03_4",
+    "original":"若業不善非思惟斷，是名見斷業。",
+    "folio":7,
+    "stemmed":"若 業 不 善 非 思 惟 斷  是 名 見 斷 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581c03_11",
+    "original":"云何思惟斷業？",
+    "folio":7,
+    "stemmed":"云 何 思 惟 斷 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581c04_6",
+    "original":"若業不善非見斷，是名思惟斷業。",
+    "folio":7,
+    "stemmed":"若 業 不 善 非 見 斷  是 名 思 惟 斷 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581c04_17",
+    "original":"云何非見斷非思惟斷業？",
+    "folio":7,
+    "stemmed":"云 何 非 見 斷 非 思 惟 斷 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581c05_15",
+    "original":"若業善無記，是名非見斷非思惟斷業。",
+    "folio":7,
+    "stemmed":"若 業 善 無 記  是 名 非 見 斷 非 思 惟 斷 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581c06_3",
+    "original":"云何見斷因業？",
+    "folio":7,
+    "stemmed":"云 何 見 斷 因 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581c07_1",
+    "original":"若業見斷、若見斷法報，是名見斷因業。",
+    "folio":7,
+    "stemmed":"若 業 見 斷  若 見 斷 法 報  是 名 見 斷 因 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581c07_9",
+    "original":"云何思惟斷因業？",
+    "folio":7,
+    "stemmed":"云 何 思 惟 斷 因 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581c08_10",
+    "original":"若業思惟斷、若思惟斷法報，是名思惟斷因業。",
+    "folio":7,
+    "stemmed":"若 業 思 惟 斷  若 思 惟 斷 法 報  是 名 思 惟 斷 因 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581c09_5",
+    "original":"云何非見斷因非思惟斷因業？",
+    "folio":7,
+    "stemmed":"云 何 非 見 斷 因 非 思 惟 斷 因 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581c10_17",
+    "original":"若業善若業善法報、若業報非報非報法，是名非見斷因非思惟斷因業。",
+    "folio":7,
+    "stemmed":"若 業 善 若 業 善 法 報  若 業 報 非 報 非 報 法  是 名 非 見 斷 因 非 思 惟 斷 因 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581c11_4",
+    "original":"云何卑業？",
+    "folio":7,
+    "stemmed":"云 何 卑 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581c11_14",
+    "original":"若業不善，是名卑業。",
+    "folio":7,
+    "stemmed":"若 業 不 善  是 名 卑 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581c11_19",
+    "original":"云何中業？",
+    "folio":7,
+    "stemmed":"云 何 中 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581c12_8",
+    "original":"若業無記，是名中業。",
+    "folio":7,
+    "stemmed":"若 業 無 記  是 名 中 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581c12_13",
+    "original":"云何勝業？",
+    "folio":7,
+    "stemmed":"云 何 勝 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581c13_2",
+    "original":"若業善，是名勝業。",
+    "folio":7,
+    "stemmed":"若 業 善  是 名 勝 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581c13_20",
+    "original":"復次卑業，若業不善、無記，是名卑業。",
+    "folio":7,
+    "stemmed":"復 次 卑 業  若 業 不 善  無 記  是 名 卑 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581c14_14",
+    "original":"復次中業，若業非聖善，是名中業。",
+    "folio":7,
+    "stemmed":"復 次 中 業  若 業 非 聖 善  是 名 中 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581c15_9",
+    "original":"復次勝業，若業聖無漏，是名勝業。",
+    "folio":7,
+    "stemmed":"復 次 勝 業  若 業 聖 無 漏  是 名 勝 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581c16_4",
+    "original":"云何麁業？",
+    "folio":7,
+    "stemmed":"云 何 麁 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581c16_15",
+    "original":"若業欲界繫，是名麁業。",
+    "folio":7,
+    "stemmed":"若 業 欲 界 繫  是 名 麁 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581c16_20",
+    "original":"云何細業？",
+    "folio":7,
+    "stemmed":"云 何 細 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581c17_13",
+    "original":"若業色界繫、不繫，是名細業。",
+    "folio":7,
+    "stemmed":"若 業 色 界 繫  不 繫  是 名 細 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581c17_18",
+    "original":"云何微業？",
+    "folio":7,
+    "stemmed":"云 何 微 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581c18_9",
+    "original":"若業無色界繫，是名微業。",
+    "folio":7,
+    "stemmed":"若 業 無 色 界 繫  是 名 微 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581c19_8",
+    "original":"復次麁業，若業欲界繫、色界繫，是名麁業。",
+    "folio":7,
+    "stemmed":"復 次 麁 業  若 業 欲 界 繫  色 界 繫  是 名 麁 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581c20_16",
+    "original":"復次細業，若業空處繫、識處繫、不用處繫、若不繫，是名細業。",
+    "folio":7,
+    "stemmed":"復 次 細 業  若 業 空 處 繫  識 處 繫  不 用 處 繫  若 不 繫  是 名 細 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581c21_14",
+    "original":"復次微業，若業非想非非想處繫，是名微業。",
+    "folio":7,
+    "stemmed":"復 次 微 業  若 業 非想非非想處 繫  是 名 微 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581c23_6",
+    "original":"復次麁業，若業欲界繫、色界繫、空處繫、識處繫、不用處繫，是名麁業。",
+    "folio":7,
+    "stemmed":"復 次 麁 業  若 業 欲 界 繫  色 界 繫  空 處 繫  識 處 繫  不 用 處 繫  是 名 麁 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581c23_21",
+    "original":"復次細業，若業不繫，是名細業。",
+    "folio":7,
+    "stemmed":"復 次 細 業  若 業 不 繫  是 名 細 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581c24_19",
+    "original":"復次微業，若業非想非非想處繫，是名微業。",
+    "folio":7,
+    "stemmed":"復 次 微 業  若 業 非想非非想處 繫  是 名 微 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581c25_5",
+    "original":"云何受樂業？",
+    "folio":7,
+    "stemmed":"云 何 受 樂 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581c25_18",
+    "original":"若業樂受相應，是名受樂業。",
+    "folio":7,
+    "stemmed":"若 業 樂 受 相 應  是 名 受 樂 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581c26_4",
+    "original":"云何受苦業？",
+    "folio":7,
+    "stemmed":"云 何 受 苦 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581c26_17",
+    "original":"若業苦受相應，是名受苦業。",
+    "folio":7,
+    "stemmed":"若 業 苦 受 相 應  是 名 受 苦 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581c27_5",
+    "original":"云何受捨業？",
+    "folio":7,
+    "stemmed":"云 何 受 捨 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581c28_2",
+    "original":"若業不苦不樂受相應，是名受捨業。",
+    "folio":7,
+    "stemmed":"若 業 不苦不樂受 相 應  是 名 受 捨 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581c29_5",
+    "original":"云何樂受業？",
+    "folio":7,
+    "stemmed":"云 何 樂 受 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0581c29_17",
+    "original":"若業受樂報，是名樂受業。",
+    "folio":7,
+    "stemmed":"若 業 受 樂 報  是 名 樂 受 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582a01_3",
+    "original":"云何苦受業？",
+    "folio":7,
+    "stemmed":"云 何 苦 受 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582a01_15",
+    "original":"若業受苦報，是名苦受業。",
+    "folio":7,
+    "stemmed":"若 業 受 苦 報  是 名 苦 受 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582a02_1",
+    "original":"云何捨受業？",
+    "folio":7,
+    "stemmed":"云 何 捨 受 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582a02_16",
+    "original":"若業受不苦不樂報，是名捨受業。",
+    "folio":7,
+    "stemmed":"若 業 受 不苦不樂 報  是 名 捨 受 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582a03_5",
+    "original":"云何樂受業？",
+    "folio":7,
+    "stemmed":"云 何 樂 受 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582a04_9",
+    "original":"除苦受不苦不樂受業，餘業若善有報，是名樂受業。",
+    "folio":7,
+    "stemmed":"除 苦 受 不苦不樂受業  餘 業 若 善 有 報  是 名 樂 受 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582a04_15",
+    "original":"云何苦受業？",
+    "folio":7,
+    "stemmed":"云 何 苦 受 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582a05_7",
+    "original":"若業不善，是名苦受業。",
+    "folio":7,
+    "stemmed":"若 業 不 善  是 名 苦 受 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582a05_16",
+    "original":"云何非苦非樂受業？",
+    "folio":7,
+    "stemmed":"云 何 非 苦 非 樂 受 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582a06_16",
+    "original":"除樂受苦受業，若餘業，是名非苦非樂受業。",
+    "folio":7,
+    "stemmed":"除 樂 受 苦 受 業  若 餘 業  是 名 非 苦 非 樂 受 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582a07_5",
+    "original":"云何喜處業？",
+    "folio":7,
+    "stemmed":"云 何 喜 處 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582a07_18",
+    "original":"若業發已生喜，是名喜處業。",
+    "folio":7,
+    "stemmed":"若 業 發 已 生 喜  是 名 喜 處 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582a08_4",
+    "original":"云何憂處業？",
+    "folio":7,
+    "stemmed":"云 何 憂 處 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582a08_17",
+    "original":"若業發已生憂，是名憂處業。",
+    "folio":7,
+    "stemmed":"若 業 發 已 生 憂  是 名 憂 處 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582a09_3",
+    "original":"云何捨處業？",
+    "folio":7,
+    "stemmed":"云 何 捨 處 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582a09_16",
+    "original":"若業發已出捨，是名捨處業。",
+    "folio":7,
+    "stemmed":"若 業 發 已 出 捨  是 名 捨 處 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582a11_2",
+    "original":"復次喜處業，除捨處業，餘處業若善有報，是名喜處業。",
+    "folio":7,
+    "stemmed":"復 次 喜 處 業  除 捨 處 業  餘 處 業 若 善 有 報  是 名 喜 處 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582a11_19",
+    "original":"復次憂處業，若業不善，是名憂處業。",
+    "folio":7,
+    "stemmed":"復 次 憂 處 業  若 業 不 善  是 名 憂 處 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582a13_3",
+    "original":"復次捨處業，除喜處業，餘業若善有報，是名捨處業。",
+    "folio":7,
+    "stemmed":"復 次 捨 處 業  除 喜 處 業  餘 業 若 善 有 報  是 名 捨 處 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582a14_1",
+    "original":"復次喜處業，若業善有報，是名喜處業。",
+    "folio":7,
+    "stemmed":"復 次 喜 處 業  若 業 善 有 報  是 名 喜 處 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582a15_1",
+    "original":"復次憂處業，若業不善有報，是名憂處業。",
+    "folio":7,
+    "stemmed":"復 次 憂 處 業  若 業 不 善 有 報  是 名 憂 處 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582a16_12",
+    "original":"復次非喜處非憂處業，除喜處、憂處業，若餘業，是名非喜處非憂處業。",
+    "folio":7,
+    "stemmed":"復 次 非 喜 處 非 憂 處 業  除 喜 處  憂 處 業  若 餘 業  是 名 非 喜 處 非 憂 處 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582a17_6",
+    "original":"云何現法受業？",
+    "folio":7,
+    "stemmed":"云 何 現 法 受 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582a19_2",
+    "original":"若業生我分，若長幼所作成就此業，於此生我長幼身受報，是名現法受業。",
+    "folio":7,
+    "stemmed":"若 業 生 我 分  若 長 幼 所 作 成 就 此 業  於 此 生 我 長 幼 身 受 報  是 名 現 法 受 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582a20_5",
+    "original":"云何生受業？",
+    "folio":7,
+    "stemmed":"云 何 生 受 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582a21_11",
+    "original":"若業生我分，長幼所作成就此業，生受報，是名生受業。",
+    "folio":7,
+    "stemmed":"若 業 生 我 分  長 幼 所 作 成 就 此 業  生 受 報  是 名 生 受 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582a21_17",
+    "original":"云何後受業？",
+    "folio":7,
+    "stemmed":"云 何 後 受 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582a23_9",
+    "original":"若業生我分，若長幼所作成就此業，第三第四生受報或多，是名後受業。",
+    "folio":7,
+    "stemmed":"若 業 生 我 分  若 長 幼 所 作 成 就 此 業  第 三 第 四 生 受 報 或 多  是 名 後 受 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582a24_5",
+    "original":"云何與樂業？",
+    "folio":7,
+    "stemmed":"云 何 與 樂 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582a24_17",
+    "original":"若業與樂果，是名與樂業。",
+    "folio":7,
+    "stemmed":"若 業 與 樂 果  是 名 與 樂 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582a25_3",
+    "original":"云何與苦業？",
+    "folio":7,
+    "stemmed":"云 何 與 苦 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582a25_15",
+    "original":"若業與苦果，是名與苦業。",
+    "folio":7,
+    "stemmed":"若 業 與 苦 果  是 名 與 苦 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582a26_5",
+    "original":"云何非與樂非與苦業？",
+    "folio":7,
+    "stemmed":"云 何 非 與 樂 非 與 苦 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582a27_5",
+    "original":"除與樂與苦業，若餘業，是名非與樂與苦業。",
+    "folio":7,
+    "stemmed":"除 與 樂 與 苦 業  若 餘 業  是 名 非 與 樂 與 苦 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582a28_5",
+    "original":"云何樂果業？",
+    "folio":7,
+    "stemmed":"云 何 樂 果 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582a28_18",
+    "original":"若業善有樂報，是名樂果業。",
+    "folio":7,
+    "stemmed":"若 業 善 有 樂 報  是 名 樂 果 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582a29_4",
+    "original":"云何苦果業？",
+    "folio":7,
+    "stemmed":"云 何 苦 果 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582a29_15",
+    "original":"若業不善，是名苦果業。",
+    "folio":7,
+    "stemmed":"若 業 不 善  是 名 苦 果 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582b01_5",
+    "original":"云何非樂果非苦果業？",
+    "folio":7,
+    "stemmed":"云 何 非 樂 果 非 苦 果 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582b02_6",
+    "original":"除樂果苦果業，若餘業，是名非樂果非苦果業。",
+    "folio":7,
+    "stemmed":"除 樂 果 苦 果 業  若 餘 業  是 名 非 樂 果 非 苦 果 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582b03_5",
+    "original":"云何樂報業？",
+    "folio":7,
+    "stemmed":"云 何 樂 報 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582b03_16",
+    "original":"若業樂果，是名樂報業。",
+    "folio":7,
+    "stemmed":"若 業 樂 果  是 名 樂 報 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582b04_2",
+    "original":"云何苦報業？",
+    "folio":7,
+    "stemmed":"云 何 苦 報 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582b04_13",
+    "original":"若業苦果，是名苦報業。",
+    "folio":7,
+    "stemmed":"若 業 苦 果  是 名 苦 報 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582b05_2",
+    "original":"云何非樂非苦報業？",
+    "folio":7,
+    "stemmed":"云 何 非 樂 非 苦 報 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582b06_3",
+    "original":"除樂報苦報業，若餘業，是名非樂報非苦報業。",
+    "folio":7,
+    "stemmed":"除 樂 報 苦 報 業  若 餘 業  是 名 非 樂 報 非 苦 報 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582b06_9",
+    "original":"云何樂報業？",
+    "folio":7,
+    "stemmed":"云 何 樂 報 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582b07_1",
+    "original":"若業善有報，是名樂報業。",
+    "folio":7,
+    "stemmed":"若 業 善 有 報  是 名 樂 報 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582b07_7",
+    "original":"云何苦報業？",
+    "folio":7,
+    "stemmed":"云 何 苦 報 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582b07_18",
+    "original":"若業不善，是名苦報業。",
+    "folio":7,
+    "stemmed":"若 業 不 善  是 名 苦 報 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582b08_7",
+    "original":"云何非樂非苦報業？",
+    "folio":7,
+    "stemmed":"云 何 非 樂 非 苦 報 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582b09_7",
+    "original":"除樂報苦報業，若餘業，是名非樂非苦報業。",
+    "folio":7,
+    "stemmed":"除 樂 報 苦 報 業  若 餘 業  是 名 非 樂 非 苦 報 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582b10_5",
+    "original":"云何過去業？",
+    "folio":7,
+    "stemmed":"云 何 過 去 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582b10_17",
+    "original":"若業生已滅，是名過去業。",
+    "folio":7,
+    "stemmed":"若 業 生 已 滅  是 名 過 去 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582b11_3",
+    "original":"云何未來業？",
+    "folio":7,
+    "stemmed":"云 何 未 來 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582b11_16",
+    "original":"若業未生未出，是名未來業。",
+    "folio":7,
+    "stemmed":"若 業 未 生 未 出  是 名 未 來 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582b12_2",
+    "original":"云何現在業？",
+    "folio":7,
+    "stemmed":"云 何 現 在 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582b12_14",
+    "original":"若業生未滅，是名現在業。",
+    "folio":7,
+    "stemmed":"若 業 生 未 滅  是 名 現 在 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582b13_7",
+    "original":"云何過去境界業？",
+    "folio":7,
+    "stemmed":"云 何 過 去 境 界 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582b14_5",
+    "original":"思惟過去法若業生，是名過去境界業。",
+    "folio":7,
+    "stemmed":"思 惟 過 去 法 若 業 生  是 名 過 去 境 界 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582b14_13",
+    "original":"云何未來境界業？",
+    "folio":7,
+    "stemmed":"云 何 未 來 境 界 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582b15_11",
+    "original":"思惟未來法若業生，是名未來境界業。",
+    "folio":7,
+    "stemmed":"思 惟 未 來 法 若 業 生  是 名 未 來 境 界 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582b15_19",
+    "original":"云何現在境界業？",
+    "folio":7,
+    "stemmed":"云 何 現 在 境 界 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582b16_16",
+    "original":"思惟現在法若業生，是名現在境界業。",
+    "folio":7,
+    "stemmed":"思 惟 現 在 法 若 業 生  是 名 現 在 境 界 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582b17_12",
+    "original":"云何非過去非未來非現在境界業？",
+    "folio":7,
+    "stemmed":"云 何 非 過 去 非 未 來 非 現 在 境 界 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582b19_7",
+    "original":"思惟非過去非未來非現在法若業生，是名非過去非未來非現在境界業。",
+    "folio":7,
+    "stemmed":"思 惟 非 過 去 非 未 來 非 現 在 法 若 業 生  是 名 非 過 去 非 未 來 非 現 在 境 界 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582b20_6",
+    "original":"云何欲界繫業？",
+    "folio":7,
+    "stemmed":"云 何 欲 界 繫 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582b21_1",
+    "original":"若業欲漏有漏，是名欲界繫業。",
+    "folio":7,
+    "stemmed":"若 業 欲 漏 有 漏  是 名 欲 界 繫 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582b21_8",
+    "original":"云何色界繫業？",
+    "folio":7,
+    "stemmed":"云 何 色 界 繫 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582b22_2",
+    "original":"若業色漏有漏，是名色界繫業。",
+    "folio":7,
+    "stemmed":"若 業 色 漏 有 漏  是 名 色 界 繫 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582b22_10",
+    "original":"云何無色界繫業？",
+    "folio":7,
+    "stemmed":"云 何 無 色 界 繫 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582b23_6",
+    "original":"若業無色漏有漏，是名無色界繫業。",
+    "folio":7,
+    "stemmed":"若 業 無 色 漏 有 漏  是 名 無 色 界 繫 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582b23_12",
+    "original":"云何不繫業？",
+    "folio":7,
+    "stemmed":"云 何 不 繫 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582b24_4",
+    "original":"若業聖無漏，是名不繫業。",
+    "folio":7,
+    "stemmed":"若 業 聖 無 漏  是 名 不 繫 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582b25_4",
+    "original":"云何四業？",
+    "folio":7,
+    "stemmed":"云 何 四 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582b26_12",
+    "original":"黑業黑報、白業白報、黑白業黑白報、非黑非白業非黑非白報。",
+    "folio":7,
+    "stemmed":"黑 業 黑 報  白 業 白 報  黑 白 業 黑 白 報  非 黑 非 白 業 非 黑 非 白 報  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582b26_19",
+    "original":"云何黑業黑報？",
+    "folio":7,
+    "stemmed":"云 何 黑 業 黑 報  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582b27_13",
+    "original":"若業不善有報，是名黑業黑報。",
+    "folio":7,
+    "stemmed":"若 業 不 善 有 報  是 名 黑 業 黑 報  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582b28_1",
+    "original":"云何白業白報？",
+    "folio":7,
+    "stemmed":"云 何 白 業 白 報  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582b28_14",
+    "original":"若業善有報，是名白業白報。",
+    "folio":7,
+    "stemmed":"若 業 善 有 報  是 名 白 業 白 報  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582b29_3",
+    "original":"云何黑白業黑白報？",
+    "folio":7,
+    "stemmed":"云 何 黑 白 業 黑 白 報  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582c01_16",
+    "original":"無一業若黑白黑白報，彼若黑業黑報、若白業白報，是名黑白業黑白報。",
+    "folio":7,
+    "stemmed":"無 一 業 若 黑 白 黑 白 報  彼 若 黑 業 黑 報  若 白 業 白 報  是 名 黑 白 業 黑 白 報  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582c02_9",
+    "original":"云何非黑非白業非黑非白報？",
+    "folio":7,
+    "stemmed":"云 何 非 黑 非 白 業 非 黑 非 白 報  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582c03_11",
+    "original":"若聖有報斷煩惱，是名非黑非白業非黑非白報。",
+    "folio":7,
+    "stemmed":"若 聖 有 報 斷 煩 惱  是 名 非 黑 非 白 業 非 黑 非 白 報  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582c03_18",
+    "original":"云何黑業黑報？",
+    "folio":7,
+    "stemmed":"云 何 黑 業 黑 報  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582c04_16",
+    "original":"若業不善有報，此業報是名黑業黑報。",
+    "folio":7,
+    "stemmed":"若 業 不 善 有 報  此 業 報 是 名 黑 業 黑 報  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582c05_4",
+    "original":"云何白業白報？",
+    "folio":7,
+    "stemmed":"云 何 白 業 白 報  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582c06_1",
+    "original":"若業善有報，此業報是名白業白報。",
+    "folio":7,
+    "stemmed":"若 業 善 有 報  此 業 報 是 名 白 業 白 報  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582c06_10",
+    "original":"云何黑白業黑白報？",
+    "folio":7,
+    "stemmed":"云 何 黑 白 業 黑 白 報  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582c08_8",
+    "original":"無一業黑白黑白報，彼若黑業黑報此業報、若白業白報此業報，是名黑白業黑白報。",
+    "folio":7,
+    "stemmed":"無 一 業 黑 白 黑 白 報  彼 若 黑 業 黑 報 此 業 報  若 白 業 白 報 此 業 報  是 名 黑 白 業 黑 白 報  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582c09_3",
+    "original":"云何非黑非白業非黑非白報？",
+    "folio":7,
+    "stemmed":"云 何 非 黑 非 白 業 非 黑 非 白 報  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582c10_4",
+    "original":"若法聖有報斷煩惱，是名非黑白業非黑白報。",
+    "folio":7,
+    "stemmed":"若 法 聖 有 報 斷 煩 惱  是 名 非 黑 白 業 非 黑 白 報  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582c10_11",
+    "original":"云何黑業黑報？",
+    "folio":7,
+    "stemmed":"云 何 黑 業 黑 報  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582c10_16",
+    "original":"如世尊說：",
+    "folio":7,
+    "stemmed":"如 世 尊 說  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582c11_4",
+    "original":"我自正知說四業。",
+    "folio":7,
+    "stemmed":"我 自 正 知 說 四 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582c11_8",
+    "original":"何等四？",
+    "folio":7,
+    "stemmed":"何 等 四  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582c13_1",
+    "original":"黑業黑報、白業白報、黑白業黑白報、非黑非白業非黑非白報業能盡業。",
+    "folio":7,
+    "stemmed":"黑 業 黑 報  白 業 白 報  黑 白 業 黑 白 報  非 黑 非 白 業 非 黑 非 白 報 業 能 盡 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582c13_8",
+    "original":"云何黑業黑報？",
+    "folio":7,
+    "stemmed":"云 何 黑 業 黑 報  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582c14_18",
+    "original":"若人作不清淨身行、作不清淨口行、作不清淨意行，成就不清淨業。",
+    "folio":7,
+    "stemmed":"若 人 作 不 清 淨 身 行  作 不 清 淨 口 行  作 不 清 淨 意 行  成 就 不 清 淨 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582c16_4",
+    "original":"彼行不清淨身口意行已、成就不清淨業已，生不清淨處。",
+    "folio":7,
+    "stemmed":"彼 行 不 清 淨 身 口 意 行 已  成 就 不 清 淨 業 已  生 不 清 淨 處  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582c16_18",
+    "original":"彼生不清淨處已，觸不清淨觸。",
+    "folio":7,
+    "stemmed":"彼 生 不 清 淨 處 已  觸 不 清 淨 觸  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582c19_9",
+    "original":"觸不清淨觸已，受不清淨受，一向苦切、一向受苦燋、一向不善、一向不愛喜適意、一向所憎惡，非天人所悕望。",
+    "folio":7,
+    "stemmed":"觸 不 清 淨 觸 已  受 不 清 淨 受  一 向 苦 切  一 向 受 苦 燋  一 向 不 善  一 向 不 愛 喜 適 意  一 向 所 憎 惡  非 天 人 所 悕 望  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582c20_13",
+    "original":"如地獄眾生，此眾生往生，隨所作業生，生已觸觸。",
+    "folio":7,
+    "stemmed":"如 地 獄 眾 生  此 眾 生 往 生  隨 所 作 業 生  生 已 觸 觸  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582c21_10",
+    "original":"我知眾生由業與苦，是名黑業黑報。",
+    "folio":7,
+    "stemmed":"我 知 眾 生 由 業 與 苦  是 名 黑 業 黑 報  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582c21_17",
+    "original":"云何白業白報？",
+    "folio":7,
+    "stemmed":"云 何 白 業 白 報  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582c23_4",
+    "original":"若人作清淨身行、作清淨口行、作清淨意行，成就清淨業行。",
+    "folio":7,
+    "stemmed":"若 人 作 清 淨 身 行  作 清 淨 口 行  作 清 淨 意 行  成 就 清 淨 業 行  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582c24_4",
+    "original":"清淨身口意行已、成就清淨業已，生清淨處。",
+    "folio":7,
+    "stemmed":"清 淨 身 口 意 行 已  成 就 清 淨 業 已  生 清 淨 處  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582c24_15",
+    "original":"生清淨處已，觸清淨觸。",
+    "folio":7,
+    "stemmed":"生 清 淨 處 已  觸 清 淨 觸  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582c26_8",
+    "original":"觸清淨觸已，受清淨受，一向樂愛喜適意、一向所不憎惡，天人所悕望。",
+    "folio":7,
+    "stemmed":"觸 清 淨 觸 已  受 清 淨 受  一 向 樂 愛 喜 適 意  一 向 所 不 憎 惡  天 人 所 悕 望  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582c27_13",
+    "original":"猶如遍淨天眾生，若眾生往生，隨所作業生，生已觸觸。",
+    "folio":7,
+    "stemmed":"猶 如 遍 淨 天 眾 生  若 眾 生 往 生  隨 所 作 業 生  生 已 觸 觸  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582c28_10",
+    "original":"我知眾生由業與樂，是名白業白報。",
+    "folio":7,
+    "stemmed":"我 知 眾 生 由 業 與 樂  是 名 白 業 白 報  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0582c29_1",
+    "original":"云何黑白業黑白報？",
+    "folio":7,
+    "stemmed":"云 何 黑 白 業 黑 白 報  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583a02_1",
+    "original":"若人行清淨不清淨身行、行清淨不清淨口行、行清淨不清淨意行，成就清淨不清淨業。",
+    "folio":7,
+    "stemmed":"若 人 行 清 淨 不 清 淨 身 行  行 清 淨 不 清 淨 口 行  行 清 淨 不 清 淨 意 行  成 就 清 淨 不 清 淨 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583a03_13",
+    "original":"彼行清淨不清淨身口意行已、成就清淨不清淨業已，生清淨不清淨處。",
+    "folio":7,
+    "stemmed":"彼 行 清 淨 不 清 淨 身 口 意 行 已  成 就 清 淨 不 清 淨 業 已  生 清 淨 不 清 淨 處  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583a04_11",
+    "original":"生清淨不清淨處已，觸清淨不清淨觸。",
+    "folio":7,
+    "stemmed":"生 清 淨 不 清 淨 處 已  觸 清 淨 不 清 淨 觸  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583a05_14",
+    "original":"觸清淨不清淨觸已，受清淨不清淨受，雜受苦樂。",
+    "folio":7,
+    "stemmed":"觸 清 淨 不 清 淨 觸 已  受 清 淨 不 清 淨 受  雜 受 苦 樂  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583a06_15",
+    "original":"如人如天，若眾生往生，隨所作業生，生已觸觸。",
+    "folio":7,
+    "stemmed":"如 人 如 天  若 眾 生 往 生  隨 所 作 業 生  生 已 觸 觸  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583a07_15",
+    "original":"我知眾生由業與苦樂，是名黑白業黑白報。",
+    "folio":7,
+    "stemmed":"我 知 眾 生 由 業 與 苦 樂  是 名 黑 白 業 黑 白 報  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583a08_11",
+    "original":"云何非黑白業非黑白報業能盡業？",
+    "folio":7,
+    "stemmed":"云 何 非 黑 白 業 非 黑 白 報 業 能 盡 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583a09_2",
+    "original":"若黑業黑報，若斷思；",
+    "folio":7,
+    "stemmed":"若 黑 業 黑 報  若 斷 思  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583a09_12",
+    "original":"若白業白報，若斷思；",
+    "folio":7,
+    "stemmed":"若 白 業 白 報  若 斷 思  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583a10_18",
+    "original":"若黑白業黑白報，若斷思，是名非黑白業非黑白報業能盡業。",
+    "folio":7,
+    "stemmed":"若 黑 白 業 黑 白 報  若 斷 思  是 名 非 黑 白 業 非 黑 白 報 業 能 盡 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583a11_4",
+    "original":"是名四業。",
+    "folio":7,
+    "stemmed":"是 名 四 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583a12_5",
+    "original":"云何四受業？",
+    "folio":7,
+    "stemmed":"云 何 四 受 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583a12_13",
+    "original":"如世尊說四受業。",
+    "folio":7,
+    "stemmed":"如 世 尊 說 四 受 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583a12_17",
+    "original":"何等四？",
+    "folio":7,
+    "stemmed":"何 等 四  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583a14_16",
+    "original":"有業現苦、後有苦報，有業現樂、後有苦報，有業現苦、後有樂報，有業現樂、後有樂報。",
+    "folio":7,
+    "stemmed":"有 業 現 苦  後 有 苦 報  有 業 現 樂  後 有 苦 報  有 業 現 苦  後 有 樂 報  有 業 現 樂  後 有 樂 報  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583a15_6",
+    "original":"云何受業現苦後有苦報？",
+    "folio":7,
+    "stemmed":"云 何 受 業 現 苦 後 有 苦 報  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583a16_9",
+    "original":"若人忍憂忍苦殺生，緣殺生故，以種種心受憂苦；",
+    "folio":7,
+    "stemmed":"若 人 忍 憂 忍 苦 殺 生  緣 殺 生 故  以 種 種 心 受 憂 苦  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583a19_8",
+    "original":"忍憂忍苦竊盜，邪婬，妄言，兩舌，惡口，綺語，貪欲，瞋恚，邪見，緣邪見故，以種種心受憂苦，身壞命終墮惡道地獄，此受業現苦後有苦報。",
+    "folio":7,
+    "stemmed":"忍 憂 忍 苦 竊 盜  邪 婬  妄 言  兩 舌  惡 口  綺 語  貪 欲  瞋 恚  邪 見  緣 邪 見 故  以 種 種 心 受 憂 苦  身 壞 命 終 墮 惡 道 地 獄  此 受 業 現 苦 後 有 苦 報  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583a20_1",
+    "original":"云何受業現樂後有苦報？",
+    "folio":7,
+    "stemmed":"云 何 受 業 現 樂 後 有 苦 報  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583a24_4",
+    "original":"若人忍喜忍樂殺生，緣殺生故，以種種心受喜樂，忍喜忍樂竊盜、邪婬、妄言、兩舌、惡口、綺語、貪欲、瞋恚、邪見，緣邪見故，以種種心受喜樂，身壞命終墮惡道地獄，此受業現樂後有苦報。",
+    "folio":7,
+    "stemmed":"若 人 忍 喜 忍 樂 殺 生  緣 殺 生 故  以 種 種 心 受 喜 樂  忍 喜 忍 樂 竊 盜  邪 婬  妄 言  兩 舌  惡 口  綺 語  貪 欲  瞋 恚  邪 見  緣 邪 見 故  以 種 種 心 受 喜 樂  身 壞 命 終 墮 惡 道 地 獄  此 受 業 現 樂 後 有 苦 報  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583a24_15",
+    "original":"云何受業現苦後有樂報？",
+    "folio":7,
+    "stemmed":"云 何 受 業 現 苦 後 有 樂 報  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583a26_1",
+    "original":"若人忍憂忍苦不殺生，緣不殺生故，以種種心受憂苦；",
+    "folio":7,
+    "stemmed":"若 人 忍 憂 忍 苦 不 殺 生  緣 不 殺 生 故  以 種 種 心 受 憂 苦  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583a29_11",
+    "original":"忍憂忍苦不竊盜、不邪婬、不妄言、不兩舌、不惡口、不綺語、不貪不欲、不瞋恚、正見，緣正見故，以種種心受憂苦，身壞命終生善道天上，此受業現苦後有樂報。",
+    "folio":7,
+    "stemmed":"忍 憂 忍 苦 不 竊 盜  不 邪 婬  不 妄 言  不 兩 舌  不 惡 口  不 綺 語  不 貪 不 欲  不 瞋 恚  正 見  緣 正 見 故  以 種 種 心 受 憂 苦  身 壞 命 終 生 善 道 天 上  此 受 業 現 苦 後 有 樂 報  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583b01_3",
+    "original":"云何受業現樂後有樂報？",
+    "folio":7,
+    "stemmed":"云 何 受 業 現 樂 後 有 樂 報  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583b05_16",
+    "original":"若人忍喜忍樂不殺生，緣不殺生故，以種種心受喜樂，忍喜忍樂不竊盜、不邪婬、不妄言、不兩舌、不惡口、不綺語、不貪欲、不瞋恚、正見，緣正見故，以種種心受喜樂，身壞命終生善道天上，此受業現樂後有樂報。",
+    "folio":7,
+    "stemmed":"若 人 忍 喜 忍 樂 不 殺 生  緣 不 殺 生 故  以 種 種 心 受 喜 樂  忍 喜 忍 樂 不 竊 盜  不 邪 婬  不 妄 言  不 兩 舌  不 惡 口  不 綺 語  不 貪 欲  不 瞋 恚  正 見  緣 正 見 故  以 種 種 心 受 喜 樂  身 壞 命 終 生 善 道 天 上  此 受 業 現 樂 後 有 樂 報  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583b06_3",
+    "original":"是名四受業。",
+    "folio":7,
+    "stemmed":"是 名 四 受 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583b07_4",
+    "original":"云何五怖？",
+    "folio":7,
+    "stemmed":"云 何 五 怖  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583b08_3",
+    "original":"若殺生，緣殺生故，今身生怖、後身生怖；",
+    "folio":7,
+    "stemmed":"若 殺 生  緣 殺 生 故  今 身 生 怖  後 身 生 怖  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583b09_14",
+    "original":"竊盜、邪婬、妄語、飲酒放逸處，緣飲酒放逸處故，今身生怖、後身生怖。",
+    "folio":7,
+    "stemmed":"竊 盜  邪 婬  妄 語  飲 酒 放 逸 處  緣 飲 酒 放 逸 處 故  今 身 生 怖  後 身 生 怖  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583b09_19",
+    "original":"是名五怖。",
+    "folio":7,
+    "stemmed":"是 名 五 怖  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583b10_4",
+    "original":"云何五怨？",
+    "folio":7,
+    "stemmed":"云 何 五 怨  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583b11_2",
+    "original":"若殺生，緣殺生故，今身生怨、後身生怨；",
+    "folio":7,
+    "stemmed":"若 殺 生  緣 殺 生 故  今 身 生 怨  後 身 生 怨  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583b12_13",
+    "original":"竊盜、邪婬、妄言、飲酒放逸處，緣飲酒放逸處故，今身生怨、後身生怨。",
+    "folio":7,
+    "stemmed":"竊 盜  邪 婬  妄 言  飲 酒 放 逸 處  緣 飲 酒 放 逸 處 故  今 身 生 怨  後 身 生 怨  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583b12_18",
+    "original":"是名五怨。",
+    "folio":7,
+    "stemmed":"是 名 五 怨  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583b13_5",
+    "original":"云何五無間？",
+    "folio":7,
+    "stemmed":"云 何 五 無 間  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583b14_18",
+    "original":"害母無間、害父無間、害阿羅漢無間、壞僧無間、於如來身惡心出血無間。",
+    "folio":7,
+    "stemmed":"害 母 無 間  害 父 無 間  害阿羅漢 無 間  壞 僧 無 間  於 如 來 身 惡 心 出 血 無 間  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583b15_5",
+    "original":"云何害母無間？",
+    "folio":7,
+    "stemmed":"云 何 害 母 無 間  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583b16_1",
+    "original":"若母母想故斷命，是名害母無間。",
+    "folio":7,
+    "stemmed":"若 母 母 想 故 斷 命  是 名 害 母 無 間  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583b16_8",
+    "original":"云何害父無間？",
+    "folio":7,
+    "stemmed":"云 何 害 父 無 間  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583b17_3",
+    "original":"若父父想故斷命，是名害父無間。",
+    "folio":7,
+    "stemmed":"若 父 父 想 故 斷 命  是 名 害 父 無 間  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583b17_12",
+    "original":"云何害阿羅漢無間？",
+    "folio":7,
+    "stemmed":"云 何 害阿羅漢 無 間  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583b18_11",
+    "original":"故斷阿羅漢聲聞命，是名害阿羅漢無間。",
+    "folio":7,
+    "stemmed":"故 斷 阿 羅 漢 聲 聞 命  是 名 害阿羅漢 無 間  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583b18_18",
+    "original":"云何壞僧無間？",
+    "folio":7,
+    "stemmed":"云 何 壞 僧 無 間  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583b20_10",
+    "original":"一面請四比丘或多，第二面請四比丘或多，行籌唱令，是名壞僧無間。",
+    "folio":7,
+    "stemmed":"一 面 請 四 比 丘 或 多  第 二 面 請 四 比 丘 或 多  行 籌 唱 令  是 名 壞 僧 無 間  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583b21_4",
+    "original":"云何於如來身惡心出血無間？",
+    "folio":7,
+    "stemmed":"云 何 於 如 來 身 惡 心 出 血 無 間  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583b22_18",
+    "original":"若故於如來身惡心出血成就業，乃至傷如髮端，是名於如來惡心出血無間。",
+    "folio":7,
+    "stemmed":"若 故 於 如 來 身 惡 心 出 血 成 就 業  乃 至 傷 如 髮 端  是 名 於 如 來 惡 心 出 血 無 間  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583b23_5",
+    "original":"是名五無間。",
+    "folio":7,
+    "stemmed":"是 名 五 無 間  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583b24_4",
+    "original":"云何五戒？",
+    "folio":7,
+    "stemmed":"云 何 五 戒  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583b25_11",
+    "original":"不殺生、不竊盜、不邪婬、不妄言、不飲酒放逸處，是名五戒。",
+    "folio":7,
+    "stemmed":"不 殺 生  不 竊 盜  不 邪 婬  不 妄 言  不 飲 酒 放 逸 處  是 名 五 戒  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583b25_17",
+    "original":"云何越五戒？",
+    "folio":7,
+    "stemmed":"云 何 越 五 戒  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583b26_20",
+    "original":"殺生、竊盜、邪婬、妄言、飲酒放逸處，是名越五戒。",
+    "folio":7,
+    "stemmed":"殺 生  竊 盜  邪 婬  妄 言  飲 酒 放 逸 處  是 名 越 五 戒  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583b27_5",
+    "original":"云何因貪業？",
+    "folio":7,
+    "stemmed":"云 何 因 貪 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583b28_10",
+    "original":"業若貪因、貪緒、貪集、貪緣身業口業意業，是名因貪業。",
+    "folio":7,
+    "stemmed":"業 若 貪 因  貪 緒  貪 集  貪 緣 身業口業 意 業  是 名 因 貪 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583b28_16",
+    "original":"云何因恚業？",
+    "folio":7,
+    "stemmed":"云 何 因 恚 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583b29_21",
+    "original":"業若恚因、恚緒、恚集、恚緣身業口意業，是名因恚業。",
+    "folio":7,
+    "stemmed":"業 若 恚 因  恚 緒  恚 集  恚 緣 身 業 口 意 業  是 名 因 恚 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583c01_5",
+    "original":"云何因癡業？",
+    "folio":7,
+    "stemmed":"云 何 因 癡 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583c02_9",
+    "original":"業若癡因、癡緒、癡集、癡緣身業口意業，是名癡因業。",
+    "folio":7,
+    "stemmed":"業 若 癡 因  癡 緒  癡 集  癡 緣 身 業 口 意 業  是 名 癡 因 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583c02_16",
+    "original":"云何不貪因業？",
+    "folio":7,
+    "stemmed":"云 何 不 貪 因 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583c04_4",
+    "original":"若不貪因、不貪緒、不貪集、不貪緣身業口業意業，是名不貪因業。",
+    "folio":7,
+    "stemmed":"若 不 貪 因  不 貪 緒  不 貪 集  不 貪 緣 身業口業 意 業  是 名 不 貪 因 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583c04_11",
+    "original":"云何不恚因業？",
+    "folio":7,
+    "stemmed":"云 何 不 恚 因 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583c06_1",
+    "original":"若不恚因、不恚緒、不恚集、不恚緣身業口業意業，是名不恚因業。",
+    "folio":7,
+    "stemmed":"若 不 恚 因  不 恚 緒  不 恚 集  不 恚 緣 身業口業 意 業  是 名 不 恚 因 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583c06_8",
+    "original":"云何不癡因業？",
+    "folio":7,
+    "stemmed":"云 何 不 癡 因 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583c07_16",
+    "original":"若不癡因、不癡緒、不癡集、不癡緣身業口業意業，是名不癡因業。",
+    "folio":7,
+    "stemmed":"若 不 癡 因  不 癡 緒  不 癡 集  不 癡 緣 身業口業 意 業  是 名 不 癡 因 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583c08_6",
+    "original":"云何趣地獄業？",
+    "folio":7,
+    "stemmed":"云 何 趣 地 獄 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583c09_5",
+    "original":"若業不善增，能令生地獄，是名趣地獄業。",
+    "folio":7,
+    "stemmed":"若 業 不 善 增  能 令 生 地 獄  是 名 趣 地 獄 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583c09_12",
+    "original":"云何趣畜生業？",
+    "folio":7,
+    "stemmed":"云 何 趣 畜 生 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583c10_11",
+    "original":"若業不善中，能令生畜生，是名趣畜生業。",
+    "folio":7,
+    "stemmed":"若 業 不 善 中  能 令 生 畜 生  是 名 趣 畜 生 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583c10_18",
+    "original":"云何趣餓鬼業？",
+    "folio":7,
+    "stemmed":"云 何 趣 餓 鬼 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583c11_17",
+    "original":"若業不善軟，能令生餓鬼，是名向餓鬼業。",
+    "folio":7,
+    "stemmed":"若 業 不 善 軟  能 令 生 餓 鬼  是 名 向 餓 鬼 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583c12_4",
+    "original":"云何趣人業？",
+    "folio":7,
+    "stemmed":"云 何 趣 人 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583c13_2",
+    "original":"若業善不增，能令生人中，是名趣人業。",
+    "folio":7,
+    "stemmed":"若 業 善 不 增  能 令 生 人 中  是 名 趣 人 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583c13_8",
+    "original":"云何趣天業？",
+    "folio":7,
+    "stemmed":"云 何 趣 天 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583c14_5",
+    "original":"若業善增，能令生天上，是名趣天業。",
+    "folio":7,
+    "stemmed":"若 業 善 增  能 令 生 天 上  是 名 趣 天 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583c14_12",
+    "original":"云何趣涅槃業？",
+    "folio":7,
+    "stemmed":"云 何 趣 涅 槃 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583c15_11",
+    "original":"若業聖有報，能斷煩惱，是名趣涅槃業。",
+    "folio":7,
+    "stemmed":"若 業 聖 有 報  能 斷 煩 惱  是 名 趣 涅 槃 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583c16_6",
+    "original":"云何七不善法？",
+    "folio":7,
+    "stemmed":"云 何 七 不 善 法  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583c17_11",
+    "original":"殺生、竊盜、邪婬、妄言、兩舌、惡口、綺語，是名七不善法。",
+    "folio":7,
+    "stemmed":"殺 生  竊 盜  邪 婬  妄 言  兩 舌  惡 口  綺 語  是 名 七 不 善 法  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583c17_17",
+    "original":"云何七善法？",
+    "folio":7,
+    "stemmed":"云 何 七 善 法  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583c19_7",
+    "original":"不殺生、不竊盜、不邪婬、不妄言、不兩舌、不惡口、不綺語，是名七善法。",
+    "folio":7,
+    "stemmed":"不 殺 生  不 竊 盜  不 邪 婬  不 妄 言  不 兩 舌  不 惡 口  不 綺 語  是 名 七 善 法  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583c20_6",
+    "original":"云何八非聖語？",
+    "folio":7,
+    "stemmed":"云 何 八 非 聖 語  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583c22_11",
+    "original":"不見言見、見言不見，不聞言聞、聞言不聞，不覺言覺、覺言不覺，不識言識、識言不識，是名八非聖語。",
+    "folio":7,
+    "stemmed":"不 見 言 見  見 言 不 見  不 聞 言 聞  聞 言 不 聞  不 覺 言 覺  覺 言 不 覺  不 識 言 識  識 言 不 識  是 名 八 非 聖 語  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583c22_17",
+    "original":"云何八聖語？",
+    "folio":7,
+    "stemmed":"云 何 八 聖 語  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583c25_1",
+    "original":"不見言不見、見言見，不聞言不聞、聞言聞，不覺言不覺、覺言覺，不識言不識、識言識，是名八聖語。",
+    "folio":7,
+    "stemmed":"不 見 言 不 見  見 言 見  不 聞 言 不 聞  聞 言 聞  不 覺 言 不 覺  覺 言 覺  不 識 言 不 識  識 言 識  是 名 八 聖 語  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583c26_6",
+    "original":"云何因貪身業？",
+    "folio":7,
+    "stemmed":"云 何 因 貪 身 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583c28_6",
+    "original":"若身業不善，因貪不離貪貪覆心所起去來屈申迴轉身教、身非戒無教，是名因貪身業。",
+    "folio":7,
+    "stemmed":"若 身 業 不 善  因 貪 不 離 貪 貪 覆 心 所 起 去 來 屈 申 迴 轉 身 教  身 非 戒 無 教  是 名 因 貪 身 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0583c28_13",
+    "original":"云何因貪口業？",
+    "folio":7,
+    "stemmed":"云 何 因 貪 口 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584a01_14",
+    "original":"若口業不善，因貪不離貪貪覆心所起集聲音句言語口業教、口非戒無教，是名因貪口業。",
+    "folio":7,
+    "stemmed":"若 口 業 不 善  因 貪 不 離 貪 貪 覆 心 所 起 集 聲 音 句 言 語 口 業 教  口 非 戒 無 教  是 名 因 貪 口 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584a02_1",
+    "original":"云何因貪意業？",
+    "folio":7,
+    "stemmed":"云 何 因 貪 意 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584a03_6",
+    "original":"若意業不善因貪不離貪貪覆心相應思，是名因貪意業。",
+    "folio":7,
+    "stemmed":"若 意 業 不 善 因 貪 不 離 貪 貪 覆 心 相 應 思  是 名 因 貪 意 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584a03_13",
+    "original":"云何因恚身業？",
+    "folio":7,
+    "stemmed":"云 何 因 恚 身 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584a05_12",
+    "original":"若身業不善因恚不離恚恚覆心所起去來屈申迴轉身教、身非戒無教，是名因恚身業。",
+    "folio":7,
+    "stemmed":"若 身 業 不 善 因 恚 不 離 恚 恚 覆 心 所 起 去 來 屈 申 迴 轉 身 教  身 非 戒 無 教  是 名 因 恚 身 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584a05_19",
+    "original":"云何因恚口業？",
+    "folio":7,
+    "stemmed":"云 何 因 恚 口 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584a07_18",
+    "original":"若口業不善因恚不離恚恚覆心所起集聲音句言語口教、口非戒無教，是名因恚口業。",
+    "folio":7,
+    "stemmed":"若 口 業 不 善 因 恚 不 離 恚 恚 覆 心 所 起 集 聲 音 句 言 語 口 教  口 非 戒 無 教  是 名 因 恚 口 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584a08_5",
+    "original":"云何因恚意業？",
+    "folio":7,
+    "stemmed":"云 何 因 恚 意 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584a09_11",
+    "original":"若意業不善因恚不離恚恚覆心相應思，是名因恚意業。",
+    "folio":7,
+    "stemmed":"若 意 業 不 善 因 恚 不 離 恚 恚 覆 心 相 應 思  是 名 因 恚 意 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584a09_18",
+    "original":"云何因癡身業？",
+    "folio":7,
+    "stemmed":"云 何 因 癡 身 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584a11_17",
+    "original":"若身業不善因癡不離癡癡覆心所起去來屈申迴轉身教、身非戒無教，是名因癡身業。",
+    "folio":7,
+    "stemmed":"若 身 業 不 善 因 癡 不 離 癡 癡 覆 心 所 起 去 來 屈 申 迴 轉 身 教  身 非 戒 無 教  是 名 因 癡 身 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584a12_4",
+    "original":"云何因癡口業？",
+    "folio":7,
+    "stemmed":"云 何 因 癡 口 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584a14_4",
+    "original":"若口業不善因癡不離癡癡覆心所起集聲音句言語口教、口非戒無教，是名因癡口業。",
+    "folio":7,
+    "stemmed":"若 口 業 不 善 因 癡 不 離 癡 癡 覆 心 所 起 集 聲 音 句 言 語 口 教  口 非 戒 無 教  是 名 因 癡 口 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584a14_11",
+    "original":"云何因癡意業？",
+    "folio":7,
+    "stemmed":"云 何 因 癡 意 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584a15_16",
+    "original":"若意業不善因癡不離癡癡覆心相應思，是名因癡意業。",
+    "folio":7,
+    "stemmed":"若 意 業 不 善 因 癡 不 離 癡 癡 覆 心 相 應 思  是 名 因 癡 意 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584a16_5",
+    "original":"云何因不貪身業？",
+    "folio":7,
+    "stemmed":"云 何 因 不 貪 身 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584a18_7",
+    "original":"若身業善因不貪離貪非貪覆心所起去來屈申迴轉身教、有漏身戒無教，是名因不貪身業。",
+    "folio":7,
+    "stemmed":"若 身 業 善 因 不 貪 離 貪 非 貪 覆 心 所 起 去 來 屈 申 迴 轉 身 教  有 漏 身 戒 無 教  是 名 因 不 貪 身 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584a19_7",
+    "original":"云何因不貪口業？",
+    "folio":7,
+    "stemmed":"云 何 因 不 貪 口 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584a21_9",
+    "original":"若口業善因不貪離貪非貪覆心所起集聲音句言語口教、有漏口戒無教，是名因不貪口業。",
+    "folio":7,
+    "stemmed":"若 口 業 善 因 不 貪 離 貪 非 貪 覆 心 所 起 集 聲 音 句 言 語 口 教  有 漏 口 戒 無 教  是 名 因 不 貪 口 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584a21_17",
+    "original":"云何因不貪意業？",
+    "folio":7,
+    "stemmed":"云 何 因 不 貪 意 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584a23_4",
+    "original":"若意業善因不貪離貪非貪覆心相應思，是名因不貪意業。",
+    "folio":7,
+    "stemmed":"若 意 業 善 因 不 貪 離 貪 非 貪 覆 心 相 應 思  是 名 因 不 貪 意 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584a23_12",
+    "original":"云何因不恚身業？",
+    "folio":7,
+    "stemmed":"云 何 因 不 恚 身 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584a25_12",
+    "original":"若身業善因不恚離恚非恚覆心所起去來屈申迴轉身教、有漏身戒無教，是名因不恚身業。",
+    "folio":7,
+    "stemmed":"若 身 業 善 因 不 恚 離 恚 非 恚 覆 心 所 起 去 來 屈 申 迴 轉 身 教  有 漏 身 戒 無 教  是 名 因 不 恚 身 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584a26_1",
+    "original":"云何因不恚口業？",
+    "folio":7,
+    "stemmed":"云 何 因 不 恚 口 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584a28_4",
+    "original":"若口業善因不恚離恚非恚覆心所起集聲音句言語口教、有漏口戒無教，是名因不恚口業。",
+    "folio":7,
+    "stemmed":"若 口 業 善 因 不 恚 離 恚 非 恚 覆 心 所 起 集 聲 音 句 言 語 口 教  有 漏 口 戒 無 教  是 名 因 不 恚 口 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584a28_12",
+    "original":"云何因不恚意業？",
+    "folio":7,
+    "stemmed":"云 何 因 不 恚 意 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584a29_18",
+    "original":"若意業善因不恚離恚非恚覆心相應思，是名因不恚意業。",
+    "folio":7,
+    "stemmed":"若 意 業 善 因 不 恚 離 恚 非 恚 覆 心 相 應 思  是 名 因 不 恚 意 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584b01_7",
+    "original":"云何因不癡身業？",
+    "folio":7,
+    "stemmed":"云 何 因 不 癡 身 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584b03_17",
+    "original":"若身善業因不癡離癡非癡覆心所起去來屈申迴轉身教、有漏身戒無教、正業身正命，是名因不癡身業。",
+    "folio":7,
+    "stemmed":"若 身 善 業 因 不 癡 離 癡 非 癡 覆 心 所 起 去 來 屈 申 迴 轉 身 教  有 漏 身 戒 無 教  正 業 身 正 命  是 名 因 不 癡 身 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584b04_5",
+    "original":"云何因不癡口業？",
+    "folio":7,
+    "stemmed":"云 何 因 不 癡 口 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584b06_12",
+    "original":"若口業善因不癡離癡非癡覆心所起集聲音句言語口教、有漏口戒無教、正語口正命，是名因不癡口業。",
+    "folio":7,
+    "stemmed":"若 口 業 善 因 不 癡 離 癡 非 癡 覆 心 所 起 集 聲 音 句 言 語 口 教  有 漏 口 戒 無 教  正 語 口 正 命  是 名 因 不 癡 口 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584b07_1",
+    "original":"云何因不癡意業？",
+    "folio":7,
+    "stemmed":"云 何 因 不 癡 意 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584b08_7",
+    "original":"若意業善因不癡離癡非癡覆心相應思，是名因不癡意業。",
+    "folio":7,
+    "stemmed":"若 意 業 善 因 不 癡 離 癡 非 癡 覆 心 相 應 思  是 名 因 不 癡 意 業  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584b09_7",
+    "original":"云何十不善業道？",
+    "folio":7,
+    "stemmed":"云 何 十不善業 道  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584b10_22",
+    "original":"殺生、竊盜、邪婬、妄語、兩舌、惡口、綺語、貪欲、瞋恚、邪見，是名十不善業道。",
+    "folio":7,
+    "stemmed":"殺 生  竊 盜  邪 婬  妄 語  兩 舌  惡 口  綺 語  貪 欲  瞋 恚  邪 見  是 名 十不善業 道  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584b11_6",
+    "original":"云何十善業道？",
+    "folio":7,
+    "stemmed":"云 何 十善業道  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584b13_8",
+    "original":"不殺生、不竊盜、不邪婬、不妄言、不兩舌、不惡口、不綺語、不貪欲、不瞋恚、正見行，是名十善業道。",
+    "folio":7,
+    "stemmed":"不 殺 生  不 竊 盜  不 邪 婬  不 妄 言  不 兩 舌  不 惡 口  不 綺 語  不 貪 欲  不 瞋 恚  正 見 行  是 名 十善業道  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584b14_13",
+    "original":"云何十法成就墮地獄速如𥎞矛？",
+    "folio":7,
+    "stemmed":"云 何 十 法 成 就 墮 地 獄 速 如 𥎞 矛  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584b15_14",
+    "original":"殺生乃至邪見，十法成就墮地獄速如𥎞矛。",
+    "folio":7,
+    "stemmed":"殺 生 乃 至 邪 見  十 法 成 就 墮 地 獄 速 如 𥎞 矛  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584b16_9",
+    "original":"云何十法成就生善處速如𥎞矛？",
+    "folio":7,
+    "stemmed":"云 何 十 法 成 就 生 善 處 速 如 𥎞 矛  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584b17_11",
+    "original":"不殺生乃至正見行，是十成就生善處速如𥎞矛。",
+    "folio":7,
+    "stemmed":"不 殺 生 乃 至 正 見 行  是 十 成 就 生 善 處 速 如 𥎞 矛  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584b18_9",
+    "original":"云何二十法成就墮地獄速如𥎞矛？",
+    "folio":7,
+    "stemmed":"云 何 二 十 法 成 就 墮 地 獄 速 如 𥎞 矛  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584b20_6",
+    "original":"自殺生、教他殺生，乃至自邪見、教他邪見，是名二十法成就墮地獄速如𥎞矛。",
+    "folio":7,
+    "stemmed":"自 殺 生  教 他 殺 生  乃 至 自 邪 見  教 他 邪 見  是 名 二 十 法 成 就 墮 地 獄 速 如 𥎞 矛  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584b21_14",
+    "original":"云何二十法成就生善處速如𥎞矛？",
+    "folio":7,
+    "stemmed":"云 何 二 十 法 成 就 生 善 處 速 如 𥎞 矛  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584b23_12",
+    "original":"自不殺生、教他不殺生，乃至自正見、教他正見行，是二十法成就生善處速如𥎞矛。",
+    "folio":7,
+    "stemmed":"自 不 殺 生  教 他 不 殺 生  乃 至 自 正 見  教 他 正 見 行  是 二 十 法 成 就 生 善 處 速 如 𥎞 矛  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584b24_14",
+    "original":"云何三十法成就墮地獄速如𥎞矛？",
+    "folio":7,
+    "stemmed":"云 何 三 十 法 成 就 墮 地 獄 速 如 𥎞 矛  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584b27_1",
+    "original":"自殺生、教他殺生、讚歎殺生，乃至自邪見、教他邪見、讚歎邪見，是三十法成就墮地獄速如𥎞矛。",
+    "folio":7,
+    "stemmed":"自 殺 生  教 他 殺 生  讚 歎 殺 生  乃 至 自 邪 見  教 他 邪 見  讚 歎 邪 見  是 三 十 法 成 就 墮 地 獄 速 如 𥎞 矛  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584b28_14",
+    "original":"云何三十法成就生善處速如𥎞矛？",
+    "folio":7,
+    "stemmed":"云 何 三 十 法 成 就 生 善 處 速 如 𥎞 矛  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584c02_5",
+    "original":"自不殺生、教他不殺生、讚歎不殺生，乃至自正見、教他正見、讚歎正見行，是名三十法成就生善處速如𥎞矛。",
+    "folio":7,
+    "stemmed":"自 不 殺 生  教 他 不 殺 生  讚 歎 不 殺 生  乃 至 自 正 見  教 他 正 見  讚 歎 正 見 行  是 名 三 十 法 成 就 生 善 處 速 如 𥎞 矛  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584c03_2",
+    "original":"云何四十法成就墮地獄速如𥎞矛？",
+    "folio":7,
+    "stemmed":"云 何 四 十 法 成 就 墮 地 獄 速 如 𥎞 矛  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584c05_13",
+    "original":"自殺生、教他殺生、讚歎殺生、願樂殺生，乃至自邪見、教他邪見、讚歎邪見、願樂邪見，是四十法成就墮地獄速如𥎞矛。",
+    "folio":7,
+    "stemmed":"自 殺 生  教 他 殺 生  讚 歎 殺 生  願 樂 殺 生  乃 至 自 邪 見  教 他 邪 見  讚 歎 邪 見  願 樂 邪 見  是 四 十 法 成 就 墮 地 獄 速 如 𥎞 矛  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584c06_14",
+    "original":"云何四十法成就生善處速如𥎞矛？",
+    "folio":7,
+    "stemmed":"云 何 四 十 法 成 就 生 善 處 速 如 𥎞 矛  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584c09_18",
+    "original":"自不殺生、教他不殺生、讚歎不殺生、不願樂殺生，乃至自正見、教他正見、讚歎正見、願樂正見行，是四十法成就生善處速如𥎞矛業品竟。",
+    "folio":7,
+    "stemmed":"自 不 殺 生  教 他 不 殺 生  讚 歎 不 殺 生  不 願 樂 殺 生  乃 至 自 正 見  教 他 正 見  讚 歎 正 見  願 樂 正 見 行  是 四 十 法 成 就 生 善 處 速 如 𥎞 矛 業 品 竟  "
+  },
+  {
+    "segmentnr":"ZH_T28_1548_007:0584c10_100",
+    "original":"舍利弗阿毘曇論卷第七",
+    "folio":7,
+    "stemmed":"舍 利 弗 阿 毘 曇 論 卷 第 七 "
+  }
+]

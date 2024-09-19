@@ -1,0 +1,6908 @@
+[
+  {
+    "segmentnr":"ZH_T30_1579_080:0742c12_0",
+    "original":"瑜伽師地論卷第八十",
+    "folio":80,
+    "stemmed":"瑜伽師地 論 卷 第 八 十 "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0742c14_0",
+    "original":"彌勒菩薩說",
+    "folio":80,
+    "stemmed":"彌 勒 菩 薩 說 "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0742c15_0",
+    "original":"三藏法師玄奘奉　詔譯",
+    "folio":80,
+    "stemmed":"三藏法師 玄 奘 奉  詔 譯 "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0742c17_14",
+    "original":"攝決擇分中菩薩地之九復次云何菩薩於正行中安立所學。",
+    "folio":80,
+    "stemmed":"攝 決 擇 分 中 菩 薩 地 之 九 復 次 云 何 菩 薩 於 正 行 中 安 立 所 學  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0742c18_5",
+    "original":"謂諸菩薩具足法住。",
+    "folio":80,
+    "stemmed":"謂 諸 菩 薩 具 足 法 住  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0742c19_1",
+    "original":"於依世俗諦道理所說不了義。",
+    "folio":80,
+    "stemmed":"於 依 世 俗 諦 道 理 所 說 不 了 義  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0742c19_12",
+    "original":"非所依聲聞乘相應經典。",
+    "folio":80,
+    "stemmed":"非 所 依 聲 聞 乘 相 應 經 典  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0742c20_3",
+    "original":"已作依持已作善巧。",
+    "folio":80,
+    "stemmed":"已 作 依 持 已 作 善 巧  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0742c21_1",
+    "original":"而復超度於大乘相應甚深空性相應。",
+    "folio":80,
+    "stemmed":"而 復 超 度 於 大乘相應 甚 深 空性相應  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0742c21_14",
+    "original":"依世俗勝義諦道理所說了義。",
+    "folio":80,
+    "stemmed":"依 世 俗 勝 義 諦 道 理 所 說 了 義  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0742c22_5",
+    "original":"可依經典勤修學時。",
+    "folio":80,
+    "stemmed":"可 依 經 典 勤 修 學 時  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0742c22_14",
+    "original":"名為如理正勤修學。",
+    "folio":80,
+    "stemmed":"名 為 如 理 正勤修學  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0742c23_5",
+    "original":"如是如理勤修學時。",
+    "folio":80,
+    "stemmed":"如 是 如 理 勤 修 學 時  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0742c23_14",
+    "original":"名正修行中道勝行。",
+    "folio":80,
+    "stemmed":"名 正 修 行 中 道 勝 行  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0742c24_1",
+    "original":"所以者何。",
+    "folio":80,
+    "stemmed":"所以者何  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0742c24_14",
+    "original":"由此正法貫穿十三中道行故。",
+    "folio":80,
+    "stemmed":"由 此 正 法 貫 穿 十 三 中 道 行 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0742c25_7",
+    "original":"一者貫穿補特伽羅空性。",
+    "folio":80,
+    "stemmed":"一 者 貫 穿 補 特 伽 羅 空 性  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0742c26_1",
+    "original":"二者貫穿補特伽羅無我性。",
+    "folio":80,
+    "stemmed":"二 者 貫 穿 補特伽羅無我性  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0742c26_9",
+    "original":"三者貫穿法空性。",
+    "folio":80,
+    "stemmed":"三 者 貫 穿 法 空 性  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0742c26_18",
+    "original":"四者貫穿法無我性。",
+    "folio":80,
+    "stemmed":"四 者 貫 穿 法無我性  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0742c27_7",
+    "original":"五者貫穿增益邊。",
+    "folio":80,
+    "stemmed":"五 者 貫 穿 增 益 邊  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0742c27_15",
+    "original":"六者貫穿損減邊。",
+    "folio":80,
+    "stemmed":"六 者 貫 穿 損 減 邊  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0742c28_5",
+    "original":"七者貫穿法現觀。",
+    "folio":80,
+    "stemmed":"七 者 貫 穿 法 現 觀  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0742c29_2",
+    "original":"八者貫穿法現觀迴向大菩提性。",
+    "folio":80,
+    "stemmed":"八 者 貫 穿 法 現 觀 迴 向 大 菩 提 性  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a01_3",
+    "original":"九者貫穿如是行者煩惱眾苦不纏繞心性。",
+    "folio":80,
+    "stemmed":"九 者 貫 穿 如 是 行 者 煩 惱 眾 苦 不 纏 繞 心 性  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a01_15",
+    "original":"十者貫穿二無我勝解差別。",
+    "folio":80,
+    "stemmed":"十 者 貫 穿 二 無 我 勝 解 差 別  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a02_10",
+    "original":"十一者貫穿前無我性是後因性。",
+    "folio":80,
+    "stemmed":"十 一 者 貫 穿 前 無 我 性 是 後 因 性  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a03_3",
+    "original":"十二者貫穿到邊際空性。",
+    "folio":80,
+    "stemmed":"十 二 者 貫 穿 到 邊 際 空 性  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a03_13",
+    "original":"十三者貫穿即彼威德。",
+    "folio":80,
+    "stemmed":"十 三 者 貫 穿 即 彼 威 德  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a04_10",
+    "original":"云何貫穿補特伽羅空性。",
+    "folio":80,
+    "stemmed":"云 何 貫 穿 補 特 伽 羅 空 性  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a04_16",
+    "original":"謂由一種相。",
+    "folio":80,
+    "stemmed":"謂 由 一 種 相  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a05_4",
+    "original":"不可得所顯故。",
+    "folio":80,
+    "stemmed":"不 可 得 所 顯 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a05_11",
+    "original":"此中不可得者。",
+    "folio":80,
+    "stemmed":"此 中 不 可 得 者  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a05_17",
+    "original":"謂於三種事。",
+    "folio":80,
+    "stemmed":"謂 於 三 種 事  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a06_4",
+    "original":"一者有情事。",
+    "folio":80,
+    "stemmed":"一 者 有 情 事  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a06_11",
+    "original":"二者彼差別事。",
+    "folio":80,
+    "stemmed":"二 者 彼 差 別 事  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a06_18",
+    "original":"三者彼受用事。",
+    "folio":80,
+    "stemmed":"三 者 彼 受 用 事  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a07_8",
+    "original":"若內若外若二中間。",
+    "folio":80,
+    "stemmed":"若內若外 若 二 中 間  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a08_3",
+    "original":"愚夫遍計所執實我都不可得。",
+    "folio":80,
+    "stemmed":"愚 夫 遍 計 所 執 實 我 都 不 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a09_11",
+    "original":"云何貫穿補特伽羅無我性。",
+    "folio":80,
+    "stemmed":"云 何 貫 穿 補特伽羅無我性  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a09_17",
+    "original":"謂由唯一相。",
+    "folio":80,
+    "stemmed":"謂 由 唯 一 相  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a10_4",
+    "original":"可得所顯故。",
+    "folio":80,
+    "stemmed":"可 得 所 顯 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a10_10",
+    "original":"此中可得者。",
+    "folio":80,
+    "stemmed":"此 中 可 得 者  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a11_17",
+    "original":"謂即於彼三事愚夫所遍計緣生諸法中常住實性不可得故。",
+    "folio":80,
+    "stemmed":"謂 即 於 彼 三 事 愚 夫 所 遍 計 緣 生 諸 法 中 常 住 實 性 不 可 得 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a12_12",
+    "original":"愚夫所計我異相性道理可得。",
+    "folio":80,
+    "stemmed":"愚 夫 所 計 我 異 相 性 道 理 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a13_7",
+    "original":"云何貫穿法空性。",
+    "folio":80,
+    "stemmed":"云 何 貫 穿 法 空 性  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a13_13",
+    "original":"謂唯由一相。",
+    "folio":80,
+    "stemmed":"謂 唯 由 一 相  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a14_2",
+    "original":"不可得所顯故。",
+    "folio":80,
+    "stemmed":"不 可 得 所 顯 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a14_9",
+    "original":"此中不可得者。",
+    "folio":80,
+    "stemmed":"此 中 不 可 得 者  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a15_1",
+    "original":"即於彼事所取無常性。",
+    "folio":80,
+    "stemmed":"即 於 彼 事 所 取 無 常 性  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a15_10",
+    "original":"若內若外若二中間。",
+    "folio":80,
+    "stemmed":"若內若外 若 二 中 間  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a16_6",
+    "original":"愚夫遍計所執言說自性都不可得。",
+    "folio":80,
+    "stemmed":"愚 夫 遍 計 所 執 言說自性 都 不 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a17_8",
+    "original":"云何貫穿法無我性。",
+    "folio":80,
+    "stemmed":"云 何 貫 穿 法無我性  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a17_14",
+    "original":"謂唯由一相。",
+    "folio":80,
+    "stemmed":"謂 唯 由 一 相  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a18_2",
+    "original":"可得所顯故。",
+    "folio":80,
+    "stemmed":"可 得 所 顯 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a18_8",
+    "original":"此中可得者。",
+    "folio":80,
+    "stemmed":"此 中 可 得 者  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a19_4",
+    "original":"謂即於彼事道理可得聖智所行。",
+    "folio":80,
+    "stemmed":"謂 即 於 彼 事 道 理 可 得 聖 智 所 行  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a20_4",
+    "original":"又即於彼自內所證不可以言為他宣說。",
+    "folio":80,
+    "stemmed":"又 即 於 彼 自內所證 不 可 以 言 為 他 宣 說  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a21_8",
+    "original":"彼由六相於諸凡愚遍計所執言說自性異相可得。",
+    "folio":80,
+    "stemmed":"彼 由 六 相 於 諸 凡 愚 遍 計 所 執 言說自性 異 相 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a21_13",
+    "original":"何等六相。",
+    "folio":80,
+    "stemmed":"何 等 六 相  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a22_3",
+    "original":"一者不可自尋思。",
+    "folio":80,
+    "stemmed":"一 者 不 可 自 尋 思  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a22_11",
+    "original":"二者不可說示他。",
+    "folio":80,
+    "stemmed":"二 者 不 可 說 示 他  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a23_2",
+    "original":"三者超過色根所行。",
+    "folio":80,
+    "stemmed":"三 者 超 過 色 根 所 行  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a23_10",
+    "original":"四者超過一切相。",
+    "folio":80,
+    "stemmed":"四 者 超 過 一 切 相  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a23_18",
+    "original":"五者超過識所行。",
+    "folio":80,
+    "stemmed":"五 者 超 過 識 所 行  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a24_8",
+    "original":"六者超過煩惱所行。",
+    "folio":80,
+    "stemmed":"六 者 超 過 煩 惱 所 行  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a24_16",
+    "original":"云何貫穿增益邊。",
+    "folio":80,
+    "stemmed":"云 何 貫 穿 增 益 邊  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a25_4",
+    "original":"謂由二種相。",
+    "folio":80,
+    "stemmed":"謂 由 二 種 相  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a25_14",
+    "original":"一者差別增益所顯故。",
+    "folio":80,
+    "stemmed":"一 者 差 別 增 益 所 顯 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a26_5",
+    "original":"二者自性增益所顯故。",
+    "folio":80,
+    "stemmed":"二 者 自 性 增 益 所 顯 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a26_14",
+    "original":"何等名為差別增益。",
+    "folio":80,
+    "stemmed":"何 等 名 為 差 別 增 益  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a27_5",
+    "original":"謂由後後展轉八相。",
+    "folio":80,
+    "stemmed":"謂 由 後 後 展 轉 八 相  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a27_16",
+    "original":"一者即於彼事執常增益。",
+    "folio":80,
+    "stemmed":"一 者 即 於 彼 事 執 常 增 益  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a28_6",
+    "original":"二者執無常增益。",
+    "folio":80,
+    "stemmed":"二 者 執 無 常 增 益  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a28_17",
+    "original":"三者執常增益為所依止。",
+    "folio":80,
+    "stemmed":"三 者 執 常 增 益 為 所 依 止  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a29_4",
+    "original":"執我增益。",
+    "folio":80,
+    "stemmed":"執 我 增 益  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743a29_16",
+    "original":"四者執無常增益為所依止。",
+    "folio":80,
+    "stemmed":"四 者 執 無 常 增 益 為 所 依 止  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b01_4",
+    "original":"執無我增益。",
+    "folio":80,
+    "stemmed":"執 無 我 增 益  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b01_16",
+    "original":"五者執無我增益為所依止。",
+    "folio":80,
+    "stemmed":"五 者 執 無 我 增 益 為 所 依 止  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b02_5",
+    "original":"執真實心增益。",
+    "folio":80,
+    "stemmed":"執 真 實 心 增 益  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b02_16",
+    "original":"六者執我增益為所依止。",
+    "folio":80,
+    "stemmed":"六 者 執 我 增 益 為 所 依 止  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b03_6",
+    "original":"執不真實心增益。",
+    "folio":80,
+    "stemmed":"執 不 真 實 心 增 益  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b03_11",
+    "original":"此復二種。",
+    "folio":80,
+    "stemmed":"此 復 二 種  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b03_16",
+    "original":"一者決定。",
+    "folio":80,
+    "stemmed":"一 者 決 定  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b04_1",
+    "original":"二者尋求。",
+    "folio":80,
+    "stemmed":"二 者 尋 求  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b04_5",
+    "original":"尋求者。",
+    "folio":80,
+    "stemmed":"尋 求 者  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b04_16",
+    "original":"謂遍計所依及遍計相應。",
+    "folio":80,
+    "stemmed":"謂 遍 計 所 依 及 遍 計 相 應  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b05_9",
+    "original":"於所對治雜染法中由五過失。",
+    "folio":80,
+    "stemmed":"於 所 對 治 雜 染 法 中 由 五 過 失  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b05_15",
+    "original":"謂顛倒過失。",
+    "folio":80,
+    "stemmed":"謂 顛 倒 過 失  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b06_1",
+    "original":"戲論過失。",
+    "folio":80,
+    "stemmed":"戲 論 過 失  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b06_8",
+    "original":"發起惡行過失。",
+    "folio":80,
+    "stemmed":"發 起 惡 行 過 失  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b06_13",
+    "original":"麁重過失。",
+    "folio":80,
+    "stemmed":"麁 重 過 失  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b06_19",
+    "original":"無常性過失。",
+    "folio":80,
+    "stemmed":"無 常 性 過 失  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b07_9",
+    "original":"及於彼能對治清淨法中。",
+    "folio":80,
+    "stemmed":"及 於 彼 能 對 治 清 淨 法 中  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b08_5",
+    "original":"七者執真實心增益為所依止。",
+    "folio":80,
+    "stemmed":"七 者 執 真 實 心 增 益 為 所 依 止  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b08_11",
+    "original":"執善等增益。",
+    "folio":80,
+    "stemmed":"執 善 等 增 益  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b09_1",
+    "original":"乃至執清淨增益。",
+    "folio":80,
+    "stemmed":"乃 至 執 清 淨 增 益  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b09_15",
+    "original":"八者執不真實心增益為所依止。",
+    "folio":80,
+    "stemmed":"八 者 執 不 真 實 心 增 益 為 所 依 止  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b10_4",
+    "original":"執不善等增益。",
+    "folio":80,
+    "stemmed":"執 不 善 等 增 益  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b10_12",
+    "original":"乃至執雜染增益。",
+    "folio":80,
+    "stemmed":"乃 至 執 雜 染 增 益  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b11_3",
+    "original":"是名八種差別增益。",
+    "folio":80,
+    "stemmed":"是 名 八 種 差 別 增 益  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b11_16",
+    "original":"此中菩薩於彼增益都不執著。",
+    "folio":80,
+    "stemmed":"此 中 菩 薩 於 彼 增 益 都 不 執 著  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b12_3",
+    "original":"不勸他執。",
+    "folio":80,
+    "stemmed":"不 勸 他 執  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b12_8",
+    "original":"亦不讚美。",
+    "folio":80,
+    "stemmed":"亦 不 讚 美  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b12_17",
+    "original":"何等名為自性增益。",
+    "folio":80,
+    "stemmed":"何 等 名 為 自 性 增 益  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b13_9",
+    "original":"謂差別增益為所依止。",
+    "folio":80,
+    "stemmed":"謂 差 別 增 益 為 所 依 止  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b14_9",
+    "original":"由諸愚夫遍計所執所有言說自性增益。",
+    "folio":80,
+    "stemmed":"由 諸 愚 夫 遍 計 所 執 所 有 言說自性 增 益  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b15_1",
+    "original":"即於彼事增益為有。",
+    "folio":80,
+    "stemmed":"即 於 彼 事 增 益 為 有  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b16_6",
+    "original":"云何貫穿損減。",
+    "folio":80,
+    "stemmed":"云 何 貫 穿 損 減  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b16_11",
+    "original":"謂由一相。",
+    "folio":80,
+    "stemmed":"謂 由 一 相  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b17_1",
+    "original":"損減實事所顯故。",
+    "folio":80,
+    "stemmed":"損 減 實 事 所 顯 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b17_9",
+    "original":"此中損減實事者。",
+    "folio":80,
+    "stemmed":"此 中 損 減 實 事 者  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b18_5",
+    "original":"謂即於彼邪法無我性起於勝解。",
+    "folio":80,
+    "stemmed":"謂 即 於 彼 邪 法無我性 起 於 勝 解  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b19_2",
+    "original":"執著一切種一切法相都無所有。",
+    "folio":80,
+    "stemmed":"執 著 一 切 種 一 切 法 相 都無所有  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b20_7",
+    "original":"云何貫穿法現觀。",
+    "folio":80,
+    "stemmed":"云 何 貫 穿 法 現 觀  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b20_13",
+    "original":"謂由三種相。",
+    "folio":80,
+    "stemmed":"謂 由 三 種 相  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b22_1",
+    "original":"一者即於彼事及第四生事所治能治有為無為安立中。",
+    "folio":80,
+    "stemmed":"一 者 即 於 彼 事 及 第 四 生 事 所治能治 有 為 無 為 安 立 中  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b22_10",
+    "original":"自性不可得所顯故。",
+    "folio":80,
+    "stemmed":"自 性 不 可 得 所 顯 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b23_4",
+    "original":"二者彼差別不可得所顯故。",
+    "folio":80,
+    "stemmed":"二 者 彼 差 別 不 可 得 所 顯 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b23_12",
+    "original":"三者即彼串習故。",
+    "folio":80,
+    "stemmed":"三 者 即 彼 串 習 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b24_3",
+    "original":"如實通達智所顯故。",
+    "folio":80,
+    "stemmed":"如 實 通 達 智 所 顯 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b24_12",
+    "original":"此中自性不可得者。",
+    "folio":80,
+    "stemmed":"此 中 自 性 不 可 得 者  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b25_5",
+    "original":"謂諸愚夫遍計所執自性。",
+    "folio":80,
+    "stemmed":"謂 諸 愚 夫 遍計所執自性  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b25_14",
+    "original":"此中差別不可得者。",
+    "folio":80,
+    "stemmed":"此 中 差 別 不 可 得 者  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b26_10",
+    "original":"謂即彼自性滅生集成二分不可得。",
+    "folio":80,
+    "stemmed":"謂 即 彼 自 性 滅 生 集 成 二 分 不 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b26_17",
+    "original":"此中智通達者。",
+    "folio":80,
+    "stemmed":"此 中 智 通 達 者  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b28_3",
+    "original":"謂即彼自性相不作意不思擇加行自內所證智通達。",
+    "folio":80,
+    "stemmed":"謂 即 彼 自 性 相 不 作 意 不 思 擇 加 行 自內所證 智 通 達  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b29_7",
+    "original":"云何貫穿法現觀。",
+    "folio":80,
+    "stemmed":"云 何 貫 穿 法 現 觀  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743b29_14",
+    "original":"迴向大菩提性。",
+    "folio":80,
+    "stemmed":"迴 向 大 菩 提 性  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c01_1",
+    "original":"謂由一種相。",
+    "folio":80,
+    "stemmed":"謂 由 一 種 相  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c01_13",
+    "original":"思擇所得能治所治不斷故。",
+    "folio":80,
+    "stemmed":"思 擇 所 得 能治所治 不 斷 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c02_2",
+    "original":"此中能治所治者。",
+    "folio":80,
+    "stemmed":"此 中 能治所治 者  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c02_10",
+    "original":"謂空是煩惱對治。",
+    "folio":80,
+    "stemmed":"謂 空 是 煩 惱 對 治  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c02_18",
+    "original":"無願是有願對治。",
+    "folio":80,
+    "stemmed":"無 願 是 有 願 對 治  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c03_7",
+    "original":"無相是諸相對治。",
+    "folio":80,
+    "stemmed":"無 相 是 諸 相 對 治  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c03_16",
+    "original":"如是一切名無造作。",
+    "folio":80,
+    "stemmed":"如是一切 名 無 造 作  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c04_7",
+    "original":"此復是後有業對治。",
+    "folio":80,
+    "stemmed":"此 復 是 後 有 業 對 治  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c04_14",
+    "original":"亦是生身流轉。",
+    "folio":80,
+    "stemmed":"亦 是 生 身 流 轉  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c05_4",
+    "original":"剎那生流轉對治。",
+    "folio":80,
+    "stemmed":"剎 那 生 流 轉 對 治  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c05_13",
+    "original":"名滅煩惱行無自性。",
+    "folio":80,
+    "stemmed":"名 滅 煩 惱 行 無 自 性  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c06_7",
+    "original":"此復以生死流轉為所對治。",
+    "folio":80,
+    "stemmed":"此 復 以 生死流轉 為 所 對 治  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c06_17",
+    "original":"若諸菩薩由此對治故。",
+    "folio":80,
+    "stemmed":"若 諸 菩 薩 由 此 對 治 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c07_7",
+    "original":"起思擇不斷所治。",
+    "folio":80,
+    "stemmed":"起 思 擇 不 斷 所 治  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c07_16",
+    "original":"此由悲愍諸眾生故。",
+    "folio":80,
+    "stemmed":"此 由 悲 愍 諸 眾 生 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c08_5",
+    "original":"希求大菩提。",
+    "folio":80,
+    "stemmed":"希 求大菩提  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c09_8",
+    "original":"云何貫穿如是行者。",
+    "folio":80,
+    "stemmed":"云 何 貫 穿 如 是 行 者  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c09_17",
+    "original":"煩惱眾苦不纏繞心。",
+    "folio":80,
+    "stemmed":"煩 惱 眾 苦 不 纏 繞 心  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c10_5",
+    "original":"謂由一種相。",
+    "folio":80,
+    "stemmed":"謂 由 一 種 相  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c10_14",
+    "original":"雖不永斷所對治法。",
+    "folio":80,
+    "stemmed":"雖 不 永 斷 所 對 治 法  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c11_4",
+    "original":"而能如實通達故。",
+    "folio":80,
+    "stemmed":"而 能 如 實 通 達 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c11_12",
+    "original":"此中如實通達者。",
+    "folio":80,
+    "stemmed":"此 中 如 實 通 達 者  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c12_6",
+    "original":"謂即於彼法由法無我加行。",
+    "folio":80,
+    "stemmed":"謂 即 於 彼 法 由 法 無 我 加 行  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c12_15",
+    "original":"觀彼自性無染無苦。",
+    "folio":80,
+    "stemmed":"觀 彼 自 性 無 染 無 苦  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c13_6",
+    "original":"云何貫穿差別。",
+    "folio":80,
+    "stemmed":"云 何 貫 穿 差 別  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c13_12",
+    "original":"謂由四種相。",
+    "folio":80,
+    "stemmed":"謂 由 四 種 相  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c14_2",
+    "original":"一者見差別所顯故。",
+    "folio":80,
+    "stemmed":"一 者 見 差 別 所 顯 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c14_16",
+    "original":"二者即此極遠損減差別所顯故。",
+    "folio":80,
+    "stemmed":"二 者 即 此 極 遠 損 減 差 別 所 顯 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c15_9",
+    "original":"三者於斷迷失差別所顯故。",
+    "folio":80,
+    "stemmed":"三 者 於 斷 迷 失 差 別 所 顯 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c16_4",
+    "original":"四者於心迷失差別所顯故。",
+    "folio":80,
+    "stemmed":"四 者 於 心 迷 失 差 別 所 顯 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c16_11",
+    "original":"此中見差別者。",
+    "folio":80,
+    "stemmed":"此 中 見 差 別 者  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c17_5",
+    "original":"謂住補特伽羅無我及涅槃。",
+    "folio":80,
+    "stemmed":"謂 住 補特伽羅無我 及 涅 槃  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c17_16",
+    "original":"於當來身起斷滅增上慢。",
+    "folio":80,
+    "stemmed":"於 當 來 身 起 斷 滅 增 上 慢  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c18_6",
+    "original":"又於所取觀察故。",
+    "folio":80,
+    "stemmed":"又 於 所 取 觀 察 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c19_1",
+    "original":"於能取言說自性畢竟遠離。",
+    "folio":80,
+    "stemmed":"於 能 取 言說自性 畢 竟 遠 離  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c19_10",
+    "original":"空性所攝不觀察故。",
+    "folio":80,
+    "stemmed":"空 性 所 攝 不 觀 察 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c20_2",
+    "original":"名不善觀察所知境界。",
+    "folio":80,
+    "stemmed":"名 不善觀察 所知境界  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c20_13",
+    "original":"由執著諸法故求煩惱斷。",
+    "folio":80,
+    "stemmed":"由 執 著 諸 法 故 求 煩 惱 斷  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c21_4",
+    "original":"而諸菩薩則不如是。",
+    "folio":80,
+    "stemmed":"而 諸 菩 薩 則 不 如 是  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c21_14",
+    "original":"此中極遠損減差別者。",
+    "folio":80,
+    "stemmed":"此 中 極 遠 損 減 差 別 者  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c22_5",
+    "original":"謂住補特伽羅無我。",
+    "folio":80,
+    "stemmed":"謂 住 補特伽羅無我  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c22_15",
+    "original":"於我見異生下中更下。",
+    "folio":80,
+    "stemmed":"於 我 見 異 生 下 中 更 下  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c23_1",
+    "original":"由二因緣。",
+    "folio":80,
+    "stemmed":"由 二 因 緣  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c23_8",
+    "original":"謂苦不解脫故。",
+    "folio":80,
+    "stemmed":"謂 苦 不 解 脫 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c23_13",
+    "original":"安住苦故。",
+    "folio":80,
+    "stemmed":"安 住 苦 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c24_4",
+    "original":"前後二種執著失壞故。",
+    "folio":80,
+    "stemmed":"前 後 二 種 執 著 失 壞 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c24_13",
+    "original":"而諸菩薩則不如是。",
+    "folio":80,
+    "stemmed":"而 諸 菩 薩 則 不 如 是  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c25_5",
+    "original":"此中於斷迷失差別者。",
+    "folio":80,
+    "stemmed":"此 中 於 斷 迷 失 差 別 者  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c25_14",
+    "original":"謂住補特伽羅無我。",
+    "folio":80,
+    "stemmed":"謂 住 補特伽羅無我  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c26_5",
+    "original":"執法無我無自性故。",
+    "folio":80,
+    "stemmed":"執 法 無 我 無 自 性 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c26_10",
+    "original":"便生驚怖。",
+    "folio":80,
+    "stemmed":"便 生 驚 怖  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c27_3",
+    "original":"謂無言說自性追求斷滅。",
+    "folio":80,
+    "stemmed":"謂 無 言說自性 追 求 斷 滅  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c27_12",
+    "original":"而諸菩薩則不如是。",
+    "folio":80,
+    "stemmed":"而 諸 菩 薩 則 不 如 是  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c28_4",
+    "original":"此中於心迷失差別者。",
+    "folio":80,
+    "stemmed":"此 中 於 心 迷 失 差 別 者  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c29_2",
+    "original":"謂如是於斷迷失住補特伽羅無我。",
+    "folio":80,
+    "stemmed":"謂 如 是 於 斷 迷 失 住 補特伽羅無我  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0743c29_12",
+    "original":"於自遍計所起境界中。",
+    "folio":80,
+    "stemmed":"於 自 遍計所起 境 界 中  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a01_4",
+    "original":"為想顛倒等之所顛倒。",
+    "folio":80,
+    "stemmed":"為 想 顛 倒 等 之 所 顛 倒  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a01_13",
+    "original":"而諸菩薩則不如是。",
+    "folio":80,
+    "stemmed":"而 諸 菩 薩 則 不 如 是  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a02_6",
+    "original":"云何貫穿因性。",
+    "folio":80,
+    "stemmed":"云 何 貫 穿 因 性  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a02_12",
+    "original":"謂由二種相。",
+    "folio":80,
+    "stemmed":"謂 由 二 種 相  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a03_4",
+    "original":"一者觀察能取所顯故。",
+    "folio":80,
+    "stemmed":"一 者 觀 察 能 取 所 顯 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a03_15",
+    "original":"二者彼如實通達所顯故。",
+    "folio":80,
+    "stemmed":"二 者 彼 如 實 通 達 所 顯 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a04_5",
+    "original":"此中觀察能取者。",
+    "folio":80,
+    "stemmed":"此 中 觀 察 能 取 者  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a04_14",
+    "original":"謂即觀察此無我智。",
+    "folio":80,
+    "stemmed":"謂 即 觀 察 此 無 我 智  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a05_4",
+    "original":"遠離言說自性故。",
+    "folio":80,
+    "stemmed":"遠 離 言說自性 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a05_11",
+    "original":"遠離彼分別故。",
+    "folio":80,
+    "stemmed":"遠 離 彼 分 別 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a05_16",
+    "original":"應捨相故。",
+    "folio":80,
+    "stemmed":"應 捨 相 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a06_3",
+    "original":"有剎那故。",
+    "folio":80,
+    "stemmed":"有 剎 那 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a06_12",
+    "original":"此中彼如實通達者。",
+    "folio":80,
+    "stemmed":"此 中 彼 如 實 通 達 者  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a07_3",
+    "original":"謂觀察所取能取二種。",
+    "folio":80,
+    "stemmed":"謂 觀 察 所取能取 二 種  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a07_12",
+    "original":"如理作意思惟為因。",
+    "folio":80,
+    "stemmed":"如理作意 思 惟 為 因  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a08_3",
+    "original":"各別內證決定智生。",
+    "folio":80,
+    "stemmed":"各 別 內 證 決 定 智 生  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a08_13",
+    "original":"云何貫穿到邊際空性。",
+    "folio":80,
+    "stemmed":"云 何 貫 穿 到 邊 際 空 性  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a09_1",
+    "original":"謂由一種相。",
+    "folio":80,
+    "stemmed":"謂 由 一 種 相  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a09_13",
+    "original":"即彼法無我智如實顯現故。",
+    "folio":80,
+    "stemmed":"即 彼 法無我智 如 實 顯 現 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a10_2",
+    "original":"此中如實顯現者。",
+    "folio":80,
+    "stemmed":"此 中 如 實 顯 現 者  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a10_13",
+    "original":"謂顯現業煩惱相似相故。",
+    "folio":80,
+    "stemmed":"謂 顯 現 業 煩 惱 相 似 相 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a11_2",
+    "original":"不可言說法故。",
+    "folio":80,
+    "stemmed":"不可言說 法 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a11_9",
+    "original":"離言說自性故。",
+    "folio":80,
+    "stemmed":"離 言說自性 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a11_16",
+    "original":"如是不執著故。",
+    "folio":80,
+    "stemmed":"如 是 不 執 著 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a12_3",
+    "original":"有剎那故。",
+    "folio":80,
+    "stemmed":"有 剎 那 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a13_10",
+    "original":"云何貫穿即彼空性威德。",
+    "folio":80,
+    "stemmed":"云 何 貫 穿 即 彼 空 性 威 德  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a13_16",
+    "original":"謂由一種相。",
+    "folio":80,
+    "stemmed":"謂 由 一 種 相  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a14_7",
+    "original":"業煩惱斷對治所顯故。",
+    "folio":80,
+    "stemmed":"業 煩 惱 斷 對 治 所 顯 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a14_12",
+    "original":"此中斷者。",
+    "folio":80,
+    "stemmed":"此 中 斷 者  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a15_3",
+    "original":"謂彼剎那光明想生。",
+    "folio":80,
+    "stemmed":"謂 彼 剎 那 光 明 想 生  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a16_1",
+    "original":"能斷無始時來所集一切諸業煩惱。",
+    "folio":80,
+    "stemmed":"能 斷 無始時來 所 集 一 切 諸 業 煩 惱  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a17_4",
+    "original":"有何差別。",
+    "folio":80,
+    "stemmed":"有何差別  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a17_11",
+    "original":"謂有四種聲聞。",
+    "folio":80,
+    "stemmed":"謂 有 四 種 聲 聞  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a18_10",
+    "original":"聲聞所學菩薩所學當知差別有十三種。",
+    "folio":80,
+    "stemmed":"聲 聞 所 學 菩 薩 所 學 當 知 差 別 有 十 三 種  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a19_8",
+    "original":"云何名為四種聲聞。",
+    "folio":80,
+    "stemmed":"云 何 名 為 四 種 聲 聞  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a19_15",
+    "original":"一者變化聲聞。",
+    "folio":80,
+    "stemmed":"一 者 變 化 聲 聞  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a20_5",
+    "original":"二者增上慢聲聞。",
+    "folio":80,
+    "stemmed":"二 者 增 上 慢 聲 聞  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a20_14",
+    "original":"三者迴向菩提聲聞。",
+    "folio":80,
+    "stemmed":"三 者 迴向菩提 聲 聞  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a21_4",
+    "original":"四者一向趣寂聲聞。",
+    "folio":80,
+    "stemmed":"四 者 一向趣寂 聲 聞  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a21_10",
+    "original":"變化聲聞者。",
+    "folio":80,
+    "stemmed":"變 化 聲 聞 者  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a21_15",
+    "original":"為欲化度。",
+    "folio":80,
+    "stemmed":"為 欲 化 度  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a22_5",
+    "original":"由彼所化諸有情故。",
+    "folio":80,
+    "stemmed":"由 彼 所 化 諸 有 情 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a22_18",
+    "original":"或諸菩薩或諸如來化作聲聞。",
+    "folio":80,
+    "stemmed":"或 諸 菩 薩 或 諸 如 來 化 作 聲 聞  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a23_6",
+    "original":"增上慢聲聞者。",
+    "folio":80,
+    "stemmed":"增 上 慢 聲 聞 者  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a23_17",
+    "original":"謂但由補特伽羅無我智。",
+    "folio":80,
+    "stemmed":"謂 但 由 補特伽羅無我 智  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a24_8",
+    "original":"及執著邪法無我智。",
+    "folio":80,
+    "stemmed":"及 執 著 邪 法無我智  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a24_13",
+    "original":"計為清淨。",
+    "folio":80,
+    "stemmed":"計 為 清 淨  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a25_3",
+    "original":"迴向菩提聲聞者。",
+    "folio":80,
+    "stemmed":"迴向菩提 聲 聞 者  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a25_16",
+    "original":"謂從本來是極微劣慈悲種姓。",
+    "folio":80,
+    "stemmed":"謂 從 本 來 是 極 微 劣 慈 悲 種 姓  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a26_6",
+    "original":"由親近如來住故。",
+    "folio":80,
+    "stemmed":"由 親 近 如 來 住 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a27_1",
+    "original":"於廣大佛法中起大功德想。",
+    "folio":80,
+    "stemmed":"於 廣 大 佛 法 中 起 大 功 德 想  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a27_6",
+    "original":"熏修相續。",
+    "folio":80,
+    "stemmed":"熏 修 相 續  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a27_15",
+    "original":"雖到究竟住無漏界。",
+    "folio":80,
+    "stemmed":"雖 到 究 竟 住 無 漏 界  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a28_9",
+    "original":"而蒙諸佛覺悟引入方便開導。",
+    "folio":80,
+    "stemmed":"而 蒙 諸 佛 覺 悟 引 入 方 便 開 導  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a29_4",
+    "original":"由此因故便能發趣廣大菩提。",
+    "folio":80,
+    "stemmed":"由 此 因 故 便 能 發 趣 廣 大 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744a29_13",
+    "original":"彼於如是廣大菩提。",
+    "folio":80,
+    "stemmed":"彼 於 如 是 廣 大 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b01_4",
+    "original":"雖能發趣由樂寂故。",
+    "folio":80,
+    "stemmed":"雖 能 發 趣 由 樂 寂 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b01_13",
+    "original":"於此加行極成遲鈍。",
+    "folio":80,
+    "stemmed":"於 此 加 行 極 成 遲 鈍  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b02_7",
+    "original":"不如初始發心有佛種性者。",
+    "folio":80,
+    "stemmed":"不 如 初 始 發 心 有 佛 種 性 者  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b02_15",
+    "original":"一向趣寂聲聞者。",
+    "folio":80,
+    "stemmed":"一向趣寂 聲 聞 者  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b03_12",
+    "original":"謂從本來是最極微劣慈悲種性故。",
+    "folio":80,
+    "stemmed":"謂 從 本 來 是 最 極 微 劣 慈 悲 種 性 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b04_6",
+    "original":"一向棄背利益眾生事故。",
+    "folio":80,
+    "stemmed":"一 向 棄 背 利 益 眾 生 事 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b04_15",
+    "original":"於生死苦極怖畏故。",
+    "folio":80,
+    "stemmed":"於 生 死 苦 極 怖 畏 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b05_6",
+    "original":"唯有安住涅槃意樂。",
+    "folio":80,
+    "stemmed":"唯 有 安 住 涅 槃 意 樂  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b05_15",
+    "original":"畢竟不能趣大菩提。",
+    "folio":80,
+    "stemmed":"畢 竟 不 能 趣 大 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b06_8",
+    "original":"如二王子相似處生。",
+    "folio":80,
+    "stemmed":"如 二 王 子 相 似 處 生  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b06_17",
+    "original":"平等平等受王快樂。",
+    "folio":80,
+    "stemmed":"平等平等 受 王 快 樂  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b07_13",
+    "original":"一於王政詩論工巧處等皆悉善知。",
+    "folio":80,
+    "stemmed":"一 於 王 政 詩 論 工 巧 處 等 皆 悉 善 知  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b08_5",
+    "original":"第二王子則不如是。",
+    "folio":80,
+    "stemmed":"第 二 王 子 則 不 如 是  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b08_14",
+    "original":"彼二但由此分差別。",
+    "folio":80,
+    "stemmed":"彼 二 但 由 此 分 差 別  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b09_5",
+    "original":"非由受用王之快樂。",
+    "folio":80,
+    "stemmed":"非 由 受 用 王 之 快 樂  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b10_6",
+    "original":"如是於無漏界中諸菩薩眾與一向趣寂聲聞。",
+    "folio":80,
+    "stemmed":"如 是 於 無 漏 界 中 諸 菩 薩 眾 與 一向趣寂 聲 聞  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b10_11",
+    "original":"當知差別。",
+    "folio":80,
+    "stemmed":"當 知 差 別  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b11_8",
+    "original":"應知彼二復有差別。",
+    "folio":80,
+    "stemmed":"應 知 彼 二 復 有 差 別  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b11_13",
+    "original":"謂意樂故。",
+    "folio":80,
+    "stemmed":"謂 意 樂 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b12_1",
+    "original":"白法集成故。",
+    "folio":80,
+    "stemmed":"白 法 集 成 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b12_6",
+    "original":"智集成故。",
+    "folio":80,
+    "stemmed":"智 集 成 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b12_10",
+    "original":"種類故。",
+    "folio":80,
+    "stemmed":"種 類 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b12_14",
+    "original":"種性故。",
+    "folio":80,
+    "stemmed":"種 性 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b12_18",
+    "original":"持種故。",
+    "folio":80,
+    "stemmed":"持 種 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b13_1",
+    "original":"加行故。",
+    "folio":80,
+    "stemmed":"加 行 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b13_5",
+    "original":"威德故。",
+    "folio":80,
+    "stemmed":"威 德 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b13_9",
+    "original":"正行故。",
+    "folio":80,
+    "stemmed":"正 行 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b13_13",
+    "original":"福田故。",
+    "folio":80,
+    "stemmed":"福 田 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b13_19",
+    "original":"殊勝差別故。",
+    "folio":80,
+    "stemmed":"殊 勝 差 別 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b14_2",
+    "original":"因果故。",
+    "folio":80,
+    "stemmed":"因 果 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b14_7",
+    "original":"生依止故。",
+    "folio":80,
+    "stemmed":"生 依 止 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b16_2",
+    "original":"一向趣寂聲聞棄背諸行雜染利益有情事故。",
+    "folio":80,
+    "stemmed":"一向趣寂 聲 聞 棄 背 諸 行 雜 染 利 益 有 情 事 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b16_11",
+    "original":"一向安住寂靜意樂。",
+    "folio":80,
+    "stemmed":"一 向 安 住 寂 靜 意 樂  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b17_5",
+    "original":"菩薩雖有垢染而與彼相違。",
+    "folio":80,
+    "stemmed":"菩 薩 雖 有 垢 染 而 與 彼 相 違  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b18_1",
+    "original":"又彼聲聞唯為自身得增長故。",
+    "folio":80,
+    "stemmed":"又 彼 聲 聞 唯 為 自 身 得 增 長 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b18_6",
+    "original":"白法狹小。",
+    "folio":80,
+    "stemmed":"白 法 狹 小  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b19_1",
+    "original":"菩薩為欲增長一切有情樂故。",
+    "folio":80,
+    "stemmed":"菩 薩 為 欲 增 長 一切有情 樂 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b19_6",
+    "original":"白法無量。",
+    "folio":80,
+    "stemmed":"白 法 無 量  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b19_15",
+    "original":"又彼聲聞由無為智。",
+    "folio":80,
+    "stemmed":"又 彼 聲 聞 由 無 為 智  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b20_5",
+    "original":"但為除遣自身煩惱。",
+    "folio":80,
+    "stemmed":"但 為 除 遣 自 身 煩 惱  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b20_18",
+    "original":"菩薩普為一切十方諸有情類。",
+    "folio":80,
+    "stemmed":"菩 薩 普 為 一 切 十 方 諸 有 情 類  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b21_16",
+    "original":"又彼聲聞雖緣最勝解脫法境作意集成。",
+    "folio":80,
+    "stemmed":"又 彼 聲 聞 雖 緣 最 勝 解 脫 法 境 作 意 集 成  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b22_3",
+    "original":"而非佛子。",
+    "folio":80,
+    "stemmed":"而 非 佛 子  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b23_3",
+    "original":"菩薩雖緣下劣諸行有情法境作意集成。",
+    "folio":80,
+    "stemmed":"菩 薩 雖 緣 下 劣 諸 行 有 情 法 境 作 意 集 成  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b23_8",
+    "original":"而是佛子。",
+    "folio":80,
+    "stemmed":"而 是 佛 子  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b24_6",
+    "original":"又彼聲聞雖勤精進於諦善巧心善安定。",
+    "folio":80,
+    "stemmed":"又 彼 聲 聞 雖 勤 精 進 於 諦 善 巧 心 善 安 定  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b24_15",
+    "original":"不成就佛種性相故。",
+    "folio":80,
+    "stemmed":"不 成 就 佛 種 性 相 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b25_6",
+    "original":"諸佛世尊不堪攝受。",
+    "folio":80,
+    "stemmed":"諸佛世尊 不 堪 攝 受  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b25_15",
+    "original":"而諸菩薩與彼相違。",
+    "folio":80,
+    "stemmed":"而 諸 菩 薩 與 彼 相 違  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b26_6",
+    "original":"又彼聲聞到究竟故。",
+    "folio":80,
+    "stemmed":"又 彼 聲 聞 到 究 竟 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b27_6",
+    "original":"根雖成熟於當來世而不能作佛所作事。",
+    "folio":80,
+    "stemmed":"根 雖 成 熟 於當來世 而 不 能 作 佛所作事  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b28_1",
+    "original":"菩薩初心剎那生已便能造作。",
+    "folio":80,
+    "stemmed":"菩 薩 初 心 剎 那 生 已 便 能 造 作  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b28_10",
+    "original":"又彼聲聞雖到究竟。",
+    "folio":80,
+    "stemmed":"又 彼 聲 聞 雖 到 究 竟  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b29_5",
+    "original":"而不為彼諸天人等供養讚嘆。",
+    "folio":80,
+    "stemmed":"而 不 為 彼 諸 天 人 等 供 養 讚 嘆  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744b29_14",
+    "original":"如住始業修行菩薩。",
+    "folio":80,
+    "stemmed":"如 住 始 業 修 行 菩 薩  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c01_9",
+    "original":"而諸菩薩雖復未到究竟之位。",
+    "folio":80,
+    "stemmed":"而 諸 菩 薩 雖 復 未 到 究 竟 之 位  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c02_8",
+    "original":"然其威德及與智慧映蔽一切聲聞獨覺。",
+    "folio":80,
+    "stemmed":"然 其 威 德 及 與 智 慧 映 蔽 一 切 聲聞獨覺  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c03_8",
+    "original":"又彼聲聞療煩惱病智慧良藥雖復成滿。",
+    "folio":80,
+    "stemmed":"又 彼 聲 聞 療 煩 惱 病 智 慧 良 藥 雖 復 成 滿  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c04_4",
+    "original":"而不能治一切眾生諸煩惱病。",
+    "folio":80,
+    "stemmed":"而 不 能 治 一 切 眾 生 諸 煩 惱 病  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c04_13",
+    "original":"而諸菩薩與彼相違。",
+    "folio":80,
+    "stemmed":"而 諸 菩 薩 與 彼 相 違  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c05_8",
+    "original":"由能修行利益他事勝義行故。",
+    "folio":80,
+    "stemmed":"由 能 修 行 利 益 他 事 勝 義 行 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c06_9",
+    "original":"又彼聲聞雖到究竟於諸有情智光明照然。",
+    "folio":80,
+    "stemmed":"又 彼 聲 聞 雖 到 究 竟 於諸有情 智 光 明 照 然  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c07_3",
+    "original":"非諸天及餘世間真實福田。",
+    "folio":80,
+    "stemmed":"非 諸 天 及 餘 世 間 真 實 福 田  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c07_12",
+    "original":"如諸菩薩未盡煩惱。",
+    "folio":80,
+    "stemmed":"如 諸 菩 薩 未 盡 煩 惱  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c08_7",
+    "original":"又於聲聞一切時中如來最勝。",
+    "folio":80,
+    "stemmed":"又 於 聲 聞 一 切 時 中 如 來 最 勝  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c09_2",
+    "original":"於最勝中諸菩薩眾彌復最勝。",
+    "folio":80,
+    "stemmed":"於 最 勝 中 諸 菩 薩 眾 彌 復 最 勝  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c09_11",
+    "original":"彼由於此所集成故。",
+    "folio":80,
+    "stemmed":"彼 由 於 此 所 集 成 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c10_3",
+    "original":"又由二緣應知彼勝。",
+    "folio":80,
+    "stemmed":"又 由 二 緣 應 知 彼 勝  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c10_12",
+    "original":"彼能成熟諸有情故。",
+    "folio":80,
+    "stemmed":"彼 能 成 熟 諸 有 情 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c11_3",
+    "original":"亦能成熟諸佛法故。",
+    "folio":80,
+    "stemmed":"亦 能 成 熟 諸 佛 法 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c11_12",
+    "original":"由此因緣感菩提果。",
+    "folio":80,
+    "stemmed":"由此因緣 感 菩 提 果  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c12_4",
+    "original":"隨所成熟諸有情類。",
+    "folio":80,
+    "stemmed":"隨 所 成 熟 諸 有 情 類  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c12_9",
+    "original":"能令解脫。",
+    "folio":80,
+    "stemmed":"能 令 解 脫  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c12_18",
+    "original":"譬如有人能辦能熟。",
+    "folio":80,
+    "stemmed":"譬 如 有 人 能 辦 能 熟  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c13_12",
+    "original":"覺慧希奇非彼端然而食用者。",
+    "folio":80,
+    "stemmed":"覺 慧 希 奇 非 彼 端 然 而 食 用 者  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c14_3",
+    "original":"此中道理當知亦爾。",
+    "folio":80,
+    "stemmed":"此 中 道 理 當 知 亦 爾  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c15_3",
+    "original":"又彼聲聞雖復一向受學修行清淨法因。",
+    "folio":80,
+    "stemmed":"又 彼 聲 聞 雖 復 一 向 受 學 修 行 清 淨 法 因  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c15_12",
+    "original":"亦為無量善友攝受。",
+    "folio":80,
+    "stemmed":"亦 為 無 量 善 友 攝 受  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c16_3",
+    "original":"而不能引大菩提果。",
+    "folio":80,
+    "stemmed":"而 不 能 引 大菩提果  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c16_12",
+    "original":"諸菩薩眾與彼相違。",
+    "folio":80,
+    "stemmed":"諸 菩 薩 眾 與 彼 相 違  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c16_17",
+    "original":"而能引發。",
+    "folio":80,
+    "stemmed":"而 能 引 發  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c17_7",
+    "original":"又諸聲聞依菩薩生。",
+    "folio":80,
+    "stemmed":"又 諸 聲 聞 依 菩 薩 生  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c17_16",
+    "original":"非諸菩薩依彼聲聞。",
+    "folio":80,
+    "stemmed":"非 諸 菩 薩 依 彼 聲 聞  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c18_11",
+    "original":"復次云何由世間出世間智。",
+    "folio":80,
+    "stemmed":"復 次 云 何 由 世間出世間 智  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c19_1",
+    "original":"能作利益他事。",
+    "folio":80,
+    "stemmed":"能 作 利 益 他 事  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c19_10",
+    "original":"謂諸菩薩遍於十方。",
+    "folio":80,
+    "stemmed":"謂 諸 菩 薩 遍 於 十 方  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c19_16",
+    "original":"或遊歷世界。",
+    "folio":80,
+    "stemmed":"或 遊 歷 世 界  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c20_3",
+    "original":"或遊歷國土。",
+    "folio":80,
+    "stemmed":"或 遊 歷 國 土  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c20_8",
+    "original":"或遊歷生。",
+    "folio":80,
+    "stemmed":"或 遊 歷 生  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c20_13",
+    "original":"或勸請他。",
+    "folio":80,
+    "stemmed":"或 勸 請 他  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c20_18",
+    "original":"為大良醫。",
+    "folio":80,
+    "stemmed":"為 大 良 醫  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c21_12",
+    "original":"善能療治煩惱鬼魅所著有情。",
+    "folio":80,
+    "stemmed":"善 能 療 治 煩 惱 鬼 魅 所 著 有 情  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c21_17",
+    "original":"為無有上。",
+    "folio":80,
+    "stemmed":"為 無 有 上  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c22_8",
+    "original":"宣說三學清淨之道。",
+    "folio":80,
+    "stemmed":"宣 說 三 學 清 淨 之 道  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c22_14",
+    "original":"云何世間智。",
+    "folio":80,
+    "stemmed":"云 何 世 間 智  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c23_5",
+    "original":"謂於麁品所有雜染。",
+    "folio":80,
+    "stemmed":"謂 於 麁 品 所 有 雜 染  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c23_12",
+    "original":"能為止息對治。",
+    "folio":80,
+    "stemmed":"能 為 止 息 對 治  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c24_5",
+    "original":"於中品者能為制伏對治。",
+    "folio":80,
+    "stemmed":"於 中 品 者 能 為 制 伏 對 治  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c24_14",
+    "original":"云何名為麁品雜染。",
+    "folio":80,
+    "stemmed":"云 何 名 為 麁 品 雜 染  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c25_6",
+    "original":"謂在家者貪瞋癡行性。",
+    "folio":80,
+    "stemmed":"謂 在 家 者 貪 瞋 癡 行 性  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c25_15",
+    "original":"諸出家者見依止性。",
+    "folio":80,
+    "stemmed":"諸 出 家 者 見 依 止 性  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c26_8",
+    "original":"及彼所依不正作意依止性。",
+    "folio":80,
+    "stemmed":"及 彼 所 依 不 正 作 意 依 止 性  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c26_15",
+    "original":"後有願依止性。",
+    "folio":80,
+    "stemmed":"後 有 願 依 止 性  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c27_5",
+    "original":"由總別四顛倒故。",
+    "folio":80,
+    "stemmed":"由 總 別 四 顛 倒 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c28_1",
+    "original":"於非解脫執為解脫依止性。",
+    "folio":80,
+    "stemmed":"於 非 解 脫 執 為 解 脫 依 止 性  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c29_6",
+    "original":"云何中品雜染。",
+    "folio":80,
+    "stemmed":"云 何 中 品 雜 染  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0744c29_15",
+    "original":"謂已止息麁品雜染。",
+    "folio":80,
+    "stemmed":"謂 已 止 息 麁 品 雜 染  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a01_5",
+    "original":"別別對治為依止故。",
+    "folio":80,
+    "stemmed":"別 別 對 治 為 依 止 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a01_17",
+    "original":"於諸境界貪瞋癡纏依止性。",
+    "folio":80,
+    "stemmed":"於 諸 境 界 貪 瞋 癡 纏 依 止 性  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a02_8",
+    "original":"於其所緣正繫念故。",
+    "folio":80,
+    "stemmed":"於 其 所 緣 正 繫 念 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a02_17",
+    "original":"令不定者心得安定。",
+    "folio":80,
+    "stemmed":"令 不 定 者 心 得 安 定  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a03_8",
+    "original":"精勤修習菩提分法。",
+    "folio":80,
+    "stemmed":"精勤修習 菩提分法  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a03_13",
+    "original":"方能制伏。",
+    "folio":80,
+    "stemmed":"方 能 制 伏  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a04_5",
+    "original":"不依此修而自恃舉故。",
+    "folio":80,
+    "stemmed":"不 依 此 修 而 自 恃 舉 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a04_13",
+    "original":"於所緣繫心令住。",
+    "folio":80,
+    "stemmed":"於 所 緣 繫 心 令 住  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a04_18",
+    "original":"勇猛精進。",
+    "folio":80,
+    "stemmed":"勇猛精進  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a05_8",
+    "original":"從此於住能正攝受。",
+    "folio":80,
+    "stemmed":"從 此 於 住 能 正 攝 受  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a05_13",
+    "original":"攝受住故。",
+    "folio":80,
+    "stemmed":"攝 受 住 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a05_18",
+    "original":"於積聚中。",
+    "folio":80,
+    "stemmed":"於 積 聚 中  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a06_8",
+    "original":"由一合執中煩惱轉。",
+    "folio":80,
+    "stemmed":"由 一 合 執 中 煩 惱 轉  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a06_13",
+    "original":"便能制伏。",
+    "folio":80,
+    "stemmed":"便 能 制 伏  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a07_8",
+    "original":"從此為斷出世間法所對治故。",
+    "folio":80,
+    "stemmed":"從 此 為 斷 出世間法 所 對 治 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a07_13",
+    "original":"依止對治。",
+    "folio":80,
+    "stemmed":"依 止 對 治  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a07_18",
+    "original":"即令堅住。",
+    "folio":80,
+    "stemmed":"即 令 堅 住  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a08_8",
+    "original":"從此能伏諸緣起愚。",
+    "folio":80,
+    "stemmed":"從 此 能 伏 諸 緣 起 愚  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a08_17",
+    "original":"補特伽羅無我性愚。",
+    "folio":80,
+    "stemmed":"補特伽羅無我性 愚  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a09_5",
+    "original":"及法無我性愚。",
+    "folio":80,
+    "stemmed":"及 法無我性 愚  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a10_1",
+    "original":"從此能於邪道正道皆得決定。",
+    "folio":80,
+    "stemmed":"從 此 能 於 邪 道 正 道 皆 得 決 定  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a11_5",
+    "original":"由如是相應知麁品中品雜染止息制伏能對治智。",
+    "folio":80,
+    "stemmed":"由 如 是 相 應 知 麁 品 中 品 雜 染 止 息 制 伏 能 對 治 智  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a11_11",
+    "original":"是名世間智。",
+    "folio":80,
+    "stemmed":"是 名 世 間 智  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a12_6",
+    "original":"云何出世間智。",
+    "folio":80,
+    "stemmed":"云 何 出世間智  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a13_2",
+    "original":"謂如是制伏貪瞋癡纏諸雜染已。",
+    "folio":80,
+    "stemmed":"謂 如 是 制 伏 貪 瞋 癡 纏 諸 雜 染 已  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a13_15",
+    "original":"復能對治微細隨眠所有雜染。",
+    "folio":80,
+    "stemmed":"復 能 對 治 微 細 隨 眠 所 有 雜 染  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a14_5",
+    "original":"此真實智名出世智。",
+    "folio":80,
+    "stemmed":"此 真 實 智 名 出 世 智  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a14_10",
+    "original":"此復云何。",
+    "folio":80,
+    "stemmed":"此 復 云 何  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a15_5",
+    "original":"謂即依彼制伏對治三處善巧。",
+    "folio":80,
+    "stemmed":"謂 即 依 彼 制 伏 對 治 三 處 善 巧  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a15_11",
+    "original":"謂緣起善巧。",
+    "folio":80,
+    "stemmed":"謂 緣 起 善 巧  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a16_4",
+    "original":"補特伽羅無我勝解善巧。",
+    "folio":80,
+    "stemmed":"補特伽羅無我 勝 解 善 巧  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a16_12",
+    "original":"法無我勝解善巧。",
+    "folio":80,
+    "stemmed":"法 無 我 勝 解 善 巧  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a17_10",
+    "original":"為欲超度無餘雜染對治四種無知故。",
+    "folio":80,
+    "stemmed":"為 欲 超 度 無 餘 雜 染 對 治 四 種 無 知 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a17_15",
+    "original":"不待他教。",
+    "folio":80,
+    "stemmed":"不 待 他 教  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a18_7",
+    "original":"於內精勤觀察自心。",
+    "folio":80,
+    "stemmed":"於 內 精 勤 觀 察 自 心  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a18_12",
+    "original":"四無知者。",
+    "folio":80,
+    "stemmed":"四 無 知 者  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a19_1",
+    "original":"一於共相無知。",
+    "folio":80,
+    "stemmed":"一 於 共 相 無 知  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a19_8",
+    "original":"二於自相無知。",
+    "folio":80,
+    "stemmed":"二 於 自 相 無 知  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a19_16",
+    "original":"三於雜染相無知。",
+    "folio":80,
+    "stemmed":"三 於 雜 染 相 無 知  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a20_6",
+    "original":"四於清淨相無知。",
+    "folio":80,
+    "stemmed":"四 於 清 淨 相 無 知  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a20_16",
+    "original":"由三種相應知心共相。",
+    "folio":80,
+    "stemmed":"由 三 種 相 應 知 心 共 相  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a21_13",
+    "original":"一於緣生者不現在前無作用故。",
+    "folio":80,
+    "stemmed":"一 於 緣 生 者 不 現 在 前 無 作 用 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a22_10",
+    "original":"二於現在者唯一剎那無作用故。",
+    "folio":80,
+    "stemmed":"二 於 現 在 者 唯 一 剎 那 無 作 用 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a23_6",
+    "original":"三於貪等自緣所生非心作故。",
+    "folio":80,
+    "stemmed":"三 於 貪 等 自 緣 所 生 非 心 作 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a23_16",
+    "original":"由三種相應知心自相。",
+    "folio":80,
+    "stemmed":"由 三 種 相 應 知 心 自 相  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a24_12",
+    "original":"一者如前言說自性不可得故。",
+    "folio":80,
+    "stemmed":"一 者 如 前 言說自性 不 可 得 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a25_8",
+    "original":"二者如前由六種相如實可得故。",
+    "folio":80,
+    "stemmed":"二 者 如 前 由 六 種 相 如 實 可 得 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a26_5",
+    "original":"三者一切聖者無差別智之所得故。",
+    "folio":80,
+    "stemmed":"三 者 一 切 聖 者 無 差 別 智 之 所 得 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a26_16",
+    "original":"由三種相應知心雜染相。",
+    "folio":80,
+    "stemmed":"由 三 種 相 應 知 心 雜 染 相  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a27_3",
+    "original":"一者生故。",
+    "folio":80,
+    "stemmed":"一 者 生 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a27_8",
+    "original":"二者轉故。",
+    "folio":80,
+    "stemmed":"二 者 轉 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a27_13",
+    "original":"三者行故。",
+    "folio":80,
+    "stemmed":"三 者 行 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a28_9",
+    "original":"於諸趣中種種自體生故名雜染生。",
+    "folio":80,
+    "stemmed":"於 諸 趣 中 種 種 自 體 生 故 名 雜 染 生  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a29_6",
+    "original":"即於此中生者自然剎那有流轉故。",
+    "folio":80,
+    "stemmed":"即 於 此 中 生 者 自 然 剎 那 有 流 轉 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745a29_15",
+    "original":"一切所緣難伏轉故。",
+    "folio":80,
+    "stemmed":"一 切 所 緣 難 伏 轉 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b01_6",
+    "original":"貪愛勢力之所轉故。",
+    "folio":80,
+    "stemmed":"貪 愛 勢 力 之 所 轉 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b01_11",
+    "original":"名雜染轉。",
+    "folio":80,
+    "stemmed":"名 雜 染 轉  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b02_2",
+    "original":"若於彼行若如是行。",
+    "folio":80,
+    "stemmed":"若 於 彼 行 若 如 是 行  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b02_7",
+    "original":"名雜染行。",
+    "folio":80,
+    "stemmed":"名 雜 染 行  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b02_16",
+    "original":"謂於一時行於善中。",
+    "folio":80,
+    "stemmed":"謂 於 一 時 行 於 善 中  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b03_7",
+    "original":"或於一時行不善中。",
+    "folio":80,
+    "stemmed":"或 於 一 時 行 不 善 中  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b03_16",
+    "original":"或於一時行境界中。",
+    "folio":80,
+    "stemmed":"或 於 一 時 行 境 界 中  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b04_7",
+    "original":"或於一時行造業中。",
+    "folio":80,
+    "stemmed":"或 於 一 時 行 造 業 中  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b04_16",
+    "original":"或於一時行煩惱中。",
+    "folio":80,
+    "stemmed":"或 於 一 時 行 煩 惱 中  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b05_7",
+    "original":"又於煩惱行貪瞋等。",
+    "folio":80,
+    "stemmed":"又 於 煩 惱 行 貪 瞋 等  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b05_13",
+    "original":"無決定行非。",
+    "folio":80,
+    "stemmed":"無 決 定 行 非  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b06_7",
+    "original":"即於此行有貪已復行無貪。",
+    "folio":80,
+    "stemmed":"即 於 此 行 有 貪 已 復 行 無 貪  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b06_16",
+    "original":"行無貪已復行有貪。",
+    "folio":80,
+    "stemmed":"行 無 貪 已 復 行 有 貪  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b07_2",
+    "original":"如是等。",
+    "folio":80,
+    "stemmed":"如 是 等  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b07_11",
+    "original":"又於隨順樂等法中。",
+    "folio":80,
+    "stemmed":"又 於 隨 順 樂 等 法 中  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b08_1",
+    "original":"得為增上現行。",
+    "folio":80,
+    "stemmed":"得 為 增 上 現 行  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b08_10",
+    "original":"又生自苦斷壞眾樂。",
+    "folio":80,
+    "stemmed":"又 生 自 苦 斷 壞 眾 樂  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b08_16",
+    "original":"不由執著故。",
+    "folio":80,
+    "stemmed":"不 由 執 著 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b09_4",
+    "original":"但由顛倒故。",
+    "folio":80,
+    "stemmed":"但 由 顛 倒 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b10_1",
+    "original":"由此引發自身眾苦無有厭足。",
+    "folio":80,
+    "stemmed":"由 此 引 發 自 身 眾 苦 無有厭足  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b10_10",
+    "original":"或於善中而安置時。",
+    "folio":80,
+    "stemmed":"或 於 善 中 而 安 置 時  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b11_1",
+    "original":"即便棄捨思求瑕隙。",
+    "folio":80,
+    "stemmed":"即 便 棄 捨 思 求 瑕 隙  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b11_10",
+    "original":"為令不善現前行故。",
+    "folio":80,
+    "stemmed":"為 令 不 善 現 前 行 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b12_1",
+    "original":"於其瑕隙及衰盛中。",
+    "folio":80,
+    "stemmed":"於 其 瑕 隙 及 衰 盛 中  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b12_10",
+    "original":"為諸愛恚之所損惱。",
+    "folio":80,
+    "stemmed":"為 諸 愛 恚 之 所 損 惱  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b13_11",
+    "original":"又隨放逸勢力一切所作諸善根本皆令損壞。",
+    "folio":80,
+    "stemmed":"又 隨 放 逸 勢 力 一 切 所 作 諸 善 根 本 皆 令 損 壞  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b14_2",
+    "original":"又極樂著色等境故。",
+    "folio":80,
+    "stemmed":"又 極 樂 著 色 等 境 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b14_16",
+    "original":"雖於極利益甘露界中數數思擇。",
+    "folio":80,
+    "stemmed":"雖 於 極 利 益 甘 露 界 中 數數思擇  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b15_4",
+    "original":"而難可安立。",
+    "folio":80,
+    "stemmed":"而 難 可 安 立  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b15_9",
+    "original":"於此義中。",
+    "folio":80,
+    "stemmed":"於 此 義 中  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b16_4",
+    "original":"示現假合所設譬喻其事應知。",
+    "folio":80,
+    "stemmed":"示 現 假 合 所 設 譬 喻 其 事 應 知  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b16_15",
+    "original":"由三種相應知心清淨相。",
+    "folio":80,
+    "stemmed":"由 三 種 相 應 知 心 清 淨 相  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b17_5",
+    "original":"一者不得得相故。",
+    "folio":80,
+    "stemmed":"一 者 不 得 得 相 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b17_12",
+    "original":"二者無為相故。",
+    "folio":80,
+    "stemmed":"二 者 無 為 相 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b18_1",
+    "original":"三者種性相故。",
+    "folio":80,
+    "stemmed":"三 者 種 性 相 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b18_10",
+    "original":"若由別異如理勤修。",
+    "folio":80,
+    "stemmed":"若 由 別 異 如 理 勤 修  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b19_2",
+    "original":"求心清淨不能證得。",
+    "folio":80,
+    "stemmed":"求 心 清 淨 不 能 證 得  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b19_11",
+    "original":"若由如是如理勤修。",
+    "folio":80,
+    "stemmed":"若 由 如 是 如 理 勤 修  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b19_16",
+    "original":"便能證得。",
+    "folio":80,
+    "stemmed":"便 能 證 得  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b20_6",
+    "original":"又不觀見言說自性。",
+    "folio":80,
+    "stemmed":"又 不 觀 見 言說自性  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b20_11",
+    "original":"見真如相。",
+    "folio":80,
+    "stemmed":"見 真 如 相  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b21_4",
+    "original":"此由九種相當觀無為相。",
+    "folio":80,
+    "stemmed":"此 由 九 種 相 當 觀 無 為 相  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b21_11",
+    "original":"一者不行世故。",
+    "folio":80,
+    "stemmed":"一 者 不 行 世 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b22_11",
+    "original":"二者非如在滅盡定言說自性不可得故。",
+    "folio":80,
+    "stemmed":"二 者 非 如 在 滅 盡 定 言說自性 不 可 得 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b23_1",
+    "original":"真如相可得故。",
+    "folio":80,
+    "stemmed":"真 如 相 可 得 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b23_6",
+    "original":"是無二相。",
+    "folio":80,
+    "stemmed":"是 無 二 相  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b23_14",
+    "original":"三者非生身相故。",
+    "folio":80,
+    "stemmed":"三 者 非 生 身 相 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b24_7",
+    "original":"四者超過生身因自性相故。",
+    "folio":80,
+    "stemmed":"四 者 超 過 生 身 因 自 性 相 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b24_16",
+    "original":"五者超過當來生故。",
+    "folio":80,
+    "stemmed":"五 者 超 過 當 來 生 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b25_6",
+    "original":"六者超過死沒故。",
+    "folio":80,
+    "stemmed":"六 者 超 過 死 沒 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b26_2",
+    "original":"七者超過剎那展轉不遠離故。",
+    "folio":80,
+    "stemmed":"七 者 超 過 剎 那 展 轉 不 遠 離 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b26_11",
+    "original":"八者超過趣轉易故。",
+    "folio":80,
+    "stemmed":"八 者 超 過 趣 轉 易 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b27_3",
+    "original":"九者超過業煩惱行故。",
+    "folio":80,
+    "stemmed":"九 者 超 過 業 煩 惱 行 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b27_9",
+    "original":"此中種性相。",
+    "folio":80,
+    "stemmed":"此 中 種 性 相  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b27_17",
+    "original":"當知是無學界相。",
+    "folio":80,
+    "stemmed":"當 知 是 無 學 界 相  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b28_7",
+    "original":"於現法中超過五事。",
+    "folio":80,
+    "stemmed":"於現法中 超 過 五 事  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b28_14",
+    "original":"一者超過所作。",
+    "folio":80,
+    "stemmed":"一 者 超 過 所 作  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b29_4",
+    "original":"二者超過非所作。",
+    "folio":80,
+    "stemmed":"二 者 超 過 非 所 作  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745b29_13",
+    "original":"三者超過所作加行。",
+    "folio":80,
+    "stemmed":"三 者 超 過 所作加行  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c01_4",
+    "original":"四者超過所作非加行。",
+    "folio":80,
+    "stemmed":"四 者 超 過 所 作 非 加 行  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c01_14",
+    "original":"五者超過非所作加行。",
+    "folio":80,
+    "stemmed":"五 者 超 過 非 所作加行  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c02_5",
+    "original":"於後法中超過六事。",
+    "folio":80,
+    "stemmed":"於 後 法 中 超 過 六 事  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c02_16",
+    "original":"一者超過能發起後有行。",
+    "folio":80,
+    "stemmed":"一 者 超 過 能 發 起 後 有 行  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c03_5",
+    "original":"二者超過彼行。",
+    "folio":80,
+    "stemmed":"二 者 超 過 彼 行  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c03_13",
+    "original":"三者超過彼果生。",
+    "folio":80,
+    "stemmed":"三 者 超 過 彼 果 生  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c04_4",
+    "original":"四者超過依彼衰盛。",
+    "folio":80,
+    "stemmed":"四 者 超 過 依 彼 衰 盛  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c05_8",
+    "original":"五者超過於彼所依一切無記動搖中修學期願受用。",
+    "folio":80,
+    "stemmed":"五 者 超 過 於 彼 所 依 一 切 無 記 動 搖 中 修 學 期 願 受 用  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c06_2",
+    "original":"六者超過彼所依自體差別。",
+    "folio":80,
+    "stemmed":"六 者 超 過 彼 所 依 自 體 差 別  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c06_14",
+    "original":"復由四位九相應知種性相。",
+    "folio":80,
+    "stemmed":"復 由 四 位 九 相 應 知 種 性 相  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c07_1",
+    "original":"何等四位。",
+    "folio":80,
+    "stemmed":"何 等 四 位  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c07_7",
+    "original":"一不清淨位。",
+    "folio":80,
+    "stemmed":"一 不 清 淨 位  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c07_12",
+    "original":"二清淨位。",
+    "folio":80,
+    "stemmed":"二 清 淨 位  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c07_17",
+    "original":"三通達位。",
+    "folio":80,
+    "stemmed":"三 通 達 位  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c08_1",
+    "original":"四究竟位。",
+    "folio":80,
+    "stemmed":"四 究 竟 位  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c08_6",
+    "original":"云何九相。",
+    "folio":80,
+    "stemmed":"云 何 九 相  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c08_12",
+    "original":"謂不清淨位。",
+    "folio":80,
+    "stemmed":"謂 不 清 淨 位  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c09_2",
+    "original":"於一切相等隨行故。",
+    "folio":80,
+    "stemmed":"於 一 切 相 等 隨 行 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c09_7",
+    "original":"譬如虛空。",
+    "folio":80,
+    "stemmed":"譬 如 虛 空  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c10_2",
+    "original":"若清淨位平等一味及身心遠離。",
+    "folio":80,
+    "stemmed":"若 清 淨 位 平 等 一 味 及 身 心 遠 離  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c10_12",
+    "original":"若通達位隨順趣究竟。",
+    "folio":80,
+    "stemmed":"若 通 達 位 隨 順 趣 究 竟  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c11_7",
+    "original":"由一切煩惱自性離繫離垢故。",
+    "folio":80,
+    "stemmed":"由 一切煩惱 自 性 離 繫 離 垢 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c11_14",
+    "original":"超過薩迦耶見。",
+    "folio":80,
+    "stemmed":"超 過 薩迦耶見  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c12_8",
+    "original":"及超過彼為根本諸惡見趣。",
+    "folio":80,
+    "stemmed":"及 超 過 彼 為 根 本 諸 惡 見 趣  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c12_17",
+    "original":"若究竟位安樂成滿。",
+    "folio":80,
+    "stemmed":"若 究 竟 位 安 樂 成 滿  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c13_6",
+    "original":"及超過三種變壞。",
+    "folio":80,
+    "stemmed":"及 超 過 三 種 變 壞  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c13_15",
+    "original":"何等名為三種變壞。",
+    "folio":80,
+    "stemmed":"何 等 名 為 三 種 變 壞  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c14_4",
+    "original":"一者老死等變壞。",
+    "folio":80,
+    "stemmed":"一 者 老 死 等 變 壞  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c14_12",
+    "original":"二者顛倒處變壞。",
+    "folio":80,
+    "stemmed":"二 者 顛 倒 處 變 壞  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c15_2",
+    "original":"三者清淨退失變壞。",
+    "folio":80,
+    "stemmed":"三 者 清 淨 退 失 變 壞  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c16_8",
+    "original":"謂諸貪憂毘柰耶故。",
+    "folio":80,
+    "stemmed":"謂 諸 貪 憂 毘 柰 耶 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c16_16",
+    "original":"是增上戒學加行。",
+    "folio":80,
+    "stemmed":"是 增上戒學 加 行  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c17_3",
+    "original":"厭患作意故。",
+    "folio":80,
+    "stemmed":"厭 患 作 意 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c17_11",
+    "original":"是增上心學加行。",
+    "folio":80,
+    "stemmed":"是 增上心學 加 行  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c18_1",
+    "original":"補特伽羅無我性故。",
+    "folio":80,
+    "stemmed":"補特伽羅無我性 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c18_8",
+    "original":"或法無我性故。",
+    "folio":80,
+    "stemmed":"或 法無我性 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c18_16",
+    "original":"是增上慧學加行。",
+    "folio":80,
+    "stemmed":"是 增上慧學 加 行  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c19_10",
+    "original":"此中貪憂是能發起所有毀犯。",
+    "folio":80,
+    "stemmed":"此 中 貪 憂 是 能 發 起 所 有 毀 犯  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c19_17",
+    "original":"又如正不除遣。",
+    "folio":80,
+    "stemmed":"又 如 正 不 除 遣  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c20_5",
+    "original":"如已不除遣。",
+    "folio":80,
+    "stemmed":"如 已 不 除 遣  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c20_10",
+    "original":"如正除遣。",
+    "folio":80,
+    "stemmed":"如 正 除 遣  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c20_15",
+    "original":"如已除遣。",
+    "folio":80,
+    "stemmed":"如 已 除 遣  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c21_1",
+    "original":"由此四相。",
+    "folio":80,
+    "stemmed":"由 此 四 相  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c21_15",
+    "original":"應知自心不如理作意所起貪欲。",
+    "folio":80,
+    "stemmed":"應 知 自 心 不如理作意 所 起 貪 欲  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c22_2",
+    "original":"薩迦耶見。",
+    "folio":80,
+    "stemmed":"薩迦耶見  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c22_7",
+    "original":"及與瞋恚。",
+    "folio":80,
+    "stemmed":"及 與 瞋 恚  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c22_12",
+    "original":"若由境界。",
+    "folio":80,
+    "stemmed":"若 由 境 界  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c23_2",
+    "original":"或復由他而起妄計。",
+    "folio":80,
+    "stemmed":"或 復 由 他 而 起 妄 計  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c23_10",
+    "original":"如是名正不除遣。",
+    "folio":80,
+    "stemmed":"如 是 名 正 不 除 遣  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c23_15",
+    "original":"若由境界。",
+    "folio":80,
+    "stemmed":"若 由 境 界  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c24_9",
+    "original":"或由他不饒益加行之所引奪。",
+    "folio":80,
+    "stemmed":"或 由 他 不 饒 益 加 行 之 所 引 奪  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c24_17",
+    "original":"如是名已不除遣。",
+    "folio":80,
+    "stemmed":"如 是 名 已 不 除 遣  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c25_7",
+    "original":"由隨一不除遣故。",
+    "folio":80,
+    "stemmed":"由 隨 一 不 除 遣 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c25_16",
+    "original":"當知隨一亦不除遣。",
+    "folio":80,
+    "stemmed":"當 知 隨 一 亦 不 除 遣  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c26_5",
+    "original":"由隨一除遣故。",
+    "folio":80,
+    "stemmed":"由 隨 一 除 遣 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c26_14",
+    "original":"當知隨一亦復除遣。",
+    "folio":80,
+    "stemmed":"當 知 隨 一 亦 復 除 遣  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c27_6",
+    "original":"又若不除遣雖住律儀。",
+    "folio":80,
+    "stemmed":"又 若 不 除 遣 雖 住 律 儀  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c27_15",
+    "original":"於增上戒尚名毀犯。",
+    "folio":80,
+    "stemmed":"於 增 上 戒 尚 名 毀 犯  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c28_6",
+    "original":"何況安住不律儀者。",
+    "folio":80,
+    "stemmed":"何 況 安 住 不 律 儀 者  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0745c29_3",
+    "original":"又增上心學於所緣境散亂錯誤。",
+    "folio":80,
+    "stemmed":"又 增上心學 於 所 緣 境 散 亂 錯 誤  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a01_3",
+    "original":"是能障礙依補特伽羅無我修增上慧者。",
+    "folio":80,
+    "stemmed":"是 能 障 礙 依 補特伽羅無我 修 增 上 慧 者  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a02_4",
+    "original":"薩迦耶見是能障礙依法無我修增上慧者。",
+    "folio":80,
+    "stemmed":"薩迦耶見 是 能 障 礙 依 法 無 我 修 增 上 慧 者  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a03_3",
+    "original":"自性差別分別計縛是能障礙於此三學。",
+    "folio":80,
+    "stemmed":"自性差別 分 別 計 縛 是 能 障 礙 於 此 三 學  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a03_15",
+    "original":"正修遣中有八種違逆學法。",
+    "folio":80,
+    "stemmed":"正 修 遣 中 有 八 種 違 逆 學 法  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a04_4",
+    "original":"有八種隨順學法。",
+    "folio":80,
+    "stemmed":"有 八 種 隨 順 學 法  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a04_9",
+    "original":"何等為八。",
+    "folio":80,
+    "stemmed":"何 等 為 八  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a04_16",
+    "original":"一者唐捐耽著。",
+    "folio":80,
+    "stemmed":"一 者 唐 捐 耽 著  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a05_3",
+    "original":"二者耽著故縛。",
+    "folio":80,
+    "stemmed":"二 者 耽 著 故 縛  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a05_10",
+    "original":"三者縛故障礙。",
+    "folio":80,
+    "stemmed":"三 者 縛 故 障 礙  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a05_17",
+    "original":"四者障礙故垢。",
+    "folio":80,
+    "stemmed":"四 者 障 礙 故 垢  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a06_4",
+    "original":"五者垢故災雹。",
+    "folio":80,
+    "stemmed":"五 者 垢 故 災 雹  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a06_11",
+    "original":"六者雹故瘡皰。",
+    "folio":80,
+    "stemmed":"六 者 雹 故 瘡 皰  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a06_19",
+    "original":"七者瘡皰故熱惱。",
+    "folio":80,
+    "stemmed":"七 者 瘡 皰 故 熱 惱  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a07_13",
+    "original":"八者熱惱故諸煩惱病難可療治。",
+    "folio":80,
+    "stemmed":"八 者 熱 惱 故 諸 煩 惱 病 難 可 療 治  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a08_10",
+    "original":"與此相違當知即是八種隨順學法。",
+    "folio":80,
+    "stemmed":"與 此 相 違 當 知 即 是 八 種 隨 順 學 法  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a09_9",
+    "original":"復次云何不善學沙門。",
+    "folio":80,
+    "stemmed":"復 次 云 何 不 善 學 沙 門  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a09_13",
+    "original":"謂三種。",
+    "folio":80,
+    "stemmed":"謂 三 種  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a10_4",
+    "original":"應知一者不顧沙門。",
+    "folio":80,
+    "stemmed":"應 知 一 者 不 顧 沙 門  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a10_11",
+    "original":"二者形相同分。",
+    "folio":80,
+    "stemmed":"二 者 形 相 同 分  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a11_11",
+    "original":"三者軌則正命受用加行戒見意樂皆不同分。",
+    "folio":80,
+    "stemmed":"三 者 軌 則 正 命 受 用 加 行 戒 見 意 樂 皆 不 同 分  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a12_3",
+    "original":"若迴向資具是增上戒。",
+    "folio":80,
+    "stemmed":"若 迴 向 資 具 是 增 上 戒  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a12_16",
+    "original":"形相同分是增上心及增上慧。",
+    "folio":80,
+    "stemmed":"形 相 同 分 是 增 上 心 及 增 上 慧  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a13_10",
+    "original":"形相同分是彼行意樂不同分。",
+    "folio":80,
+    "stemmed":"形 相 同 分 是 彼 行 意 樂 不 同 分  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a14_3",
+    "original":"若迴向聲譽是奢摩他支。",
+    "folio":80,
+    "stemmed":"若 迴 向 聲 譽 是 奢 摩 他 支  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a14_12",
+    "original":"同分是毘鉢舍那支。",
+    "folio":80,
+    "stemmed":"同 分 是 毘 鉢 舍 那 支  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a14_19",
+    "original":"同分是俱修支。",
+    "folio":80,
+    "stemmed":"同 分 是 俱 修 支  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a15_7",
+    "original":"同分是俱資糧支。",
+    "folio":80,
+    "stemmed":"同 分 是 俱 資 糧 支  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a15_16",
+    "original":"同分是意樂不同分。",
+    "folio":80,
+    "stemmed":"同 分 是 意 樂 不 同 分  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a16_8",
+    "original":"復次云何善學沙門。",
+    "folio":80,
+    "stemmed":"復 次 云 何 善 學 沙 門  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a16_15",
+    "original":"當知由四種相。",
+    "folio":80,
+    "stemmed":"當 知 由 四 種 相  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a17_2",
+    "original":"一者加行故。",
+    "folio":80,
+    "stemmed":"一 者 加 行 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a17_8",
+    "original":"二者意樂故。",
+    "folio":80,
+    "stemmed":"二 者 意 樂 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a17_14",
+    "original":"三者通達故。",
+    "folio":80,
+    "stemmed":"三 者 通 達 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a18_2",
+    "original":"四者趣究竟故。",
+    "folio":80,
+    "stemmed":"四 者 趣 究 竟 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a18_13",
+    "original":"於現法中由厭患加行故。",
+    "folio":80,
+    "stemmed":"於現法中 由 厭 患 加 行 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a19_9",
+    "original":"於前生中由相續成熟加行故。",
+    "folio":80,
+    "stemmed":"於 前 生 中 由 相 續 成 熟 加 行 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a19_16",
+    "original":"當知加行圓滿。",
+    "folio":80,
+    "stemmed":"當 知 加 行 圓 滿  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a20_8",
+    "original":"由法無我勝解意樂故。",
+    "folio":80,
+    "stemmed":"由 法 無 我 勝 解 意 樂 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a20_13",
+    "original":"若所應得。",
+    "folio":80,
+    "stemmed":"若 所 應 得  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a20_18",
+    "original":"若能應得。",
+    "folio":80,
+    "stemmed":"若 能 應 得  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a21_11",
+    "original":"於此二言說自性無執著故。",
+    "folio":80,
+    "stemmed":"於 此 二 言說自性 無 執 著 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a22_3",
+    "original":"於意趣義正尋求故。",
+    "folio":80,
+    "stemmed":"於 意 趣 義 正 尋 求 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a22_11",
+    "original":"不但隨順言詞故。",
+    "folio":80,
+    "stemmed":"不 但 隨 順 言 詞 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a23_1",
+    "original":"當知意樂圓滿。",
+    "folio":80,
+    "stemmed":"當 知 意 樂 圓 滿  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a24_4",
+    "original":"若於法真如以不緣他智通達自性無雜染故。",
+    "folio":80,
+    "stemmed":"若 於 法 真 如 以 不 緣 他 智 通 達 自 性 無 雜 染 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a24_14",
+    "original":"於世俗寶及世俗生死。",
+    "folio":80,
+    "stemmed":"於 世 俗 寶 及 世 俗 生 死  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a25_1",
+    "original":"涅槃解脫。",
+    "folio":80,
+    "stemmed":"涅 槃 解 脫  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a25_10",
+    "original":"繫縛自性無所得故。",
+    "folio":80,
+    "stemmed":"繫 縛 自 性 無 所 得 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a25_17",
+    "original":"當知通達圓滿。",
+    "folio":80,
+    "stemmed":"當 知 通 達 圓 滿  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a26_11",
+    "original":"已善修習一切雜染對治故。",
+    "folio":80,
+    "stemmed":"已 善 修 習 一 切 雜 染 對 治 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a27_4",
+    "original":"又於真如無斷壞故。",
+    "folio":80,
+    "stemmed":"又 於 真 如 無 斷 壞 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a27_10",
+    "original":"及能勝伏故。",
+    "folio":80,
+    "stemmed":"及 能 勝 伏 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a28_1",
+    "original":"當知趣究竟圓滿。",
+    "folio":80,
+    "stemmed":"當 知 趣 究 竟 圓 滿  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746a29_7",
+    "original":"復次不善學沙門。",
+    "folio":80,
+    "stemmed":"復 次 不 善 學 沙 門  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b01_3",
+    "original":"由三種相當知彼名不如其義。",
+    "folio":80,
+    "stemmed":"由 三 種 相 當 知 彼 名 不 如 其 義  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b01_14",
+    "original":"一者意樂衰損加行具足。",
+    "folio":80,
+    "stemmed":"一 者 意 樂 衰 損 加 行 具 足  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b02_6",
+    "original":"二者意樂具足加行衰損。",
+    "folio":80,
+    "stemmed":"二 者 意 樂 具 足 加 行 衰 損  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b02_17",
+    "original":"三者意樂衰損加行衰損。",
+    "folio":80,
+    "stemmed":"三 者 意 樂 衰 損 加 行 衰 損  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b03_9",
+    "original":"此中意樂衰損加行具足。",
+    "folio":80,
+    "stemmed":"此 中 意 樂 衰 損 加 行 具 足  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b03_14",
+    "original":"復有三種。",
+    "folio":80,
+    "stemmed":"復 有 三 種  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b04_5",
+    "original":"一者能聽唯此喜足。",
+    "folio":80,
+    "stemmed":"一 者 能 聽 唯 此 喜 足  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b04_14",
+    "original":"二者能說唯此喜足。",
+    "folio":80,
+    "stemmed":"二 者 能 說 唯 此 喜 足  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b05_13",
+    "original":"三者能證世間三摩地而生愛味唯此喜足。",
+    "folio":80,
+    "stemmed":"三 者 能 證 世 間 三 摩 地 而 生 愛 味 唯 此 喜 足  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b06_15",
+    "original":"若善學沙門唯由一相當知意樂具足加行具足。",
+    "folio":80,
+    "stemmed":"若 善 學 沙 門 唯 由 一 相 當 知 意 樂 具 足 加 行 具 足  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b07_9",
+    "original":"復次云何住世俗律儀。",
+    "folio":80,
+    "stemmed":"復 次 云 何 住 世 俗 律 儀  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b07_16",
+    "original":"當知有四種相。",
+    "folio":80,
+    "stemmed":"當 知 有 四 種 相  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b08_7",
+    "original":"謂雖成就六支尸羅。",
+    "folio":80,
+    "stemmed":"謂 雖 成 就 六 支 尸 羅  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b09_1",
+    "original":"而為二種損害損害尸羅。",
+    "folio":80,
+    "stemmed":"而 為 二 種 損 害 損 害 尸 羅  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b09_10",
+    "original":"謂由薩迦耶見纏故。",
+    "folio":80,
+    "stemmed":"謂 由 薩迦耶見 纏 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b10_3",
+    "original":"及於毀犯出離不了知故。",
+    "folio":80,
+    "stemmed":"及 於 毀 犯 出 離 不 了 知 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b10_12",
+    "original":"雖遠離此二種過失。",
+    "folio":80,
+    "stemmed":"雖 遠 離 此 二 種 過 失  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b11_4",
+    "original":"而未得世間清淨律儀。",
+    "folio":80,
+    "stemmed":"而 未 得 世 間 清 淨 律 儀  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b11_13",
+    "original":"不能制伏薩迦耶見。",
+    "folio":80,
+    "stemmed":"不 能 制 伏 薩迦耶見  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b12_5",
+    "original":"雖已得世間清淨律儀。",
+    "folio":80,
+    "stemmed":"雖 已 得 世 間 清 淨 律 儀  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b12_13",
+    "original":"已制伏薩迦耶見。",
+    "folio":80,
+    "stemmed":"已 制 伏 薩迦耶見  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b13_8",
+    "original":"而不損減串習法無我性怖畏。",
+    "folio":80,
+    "stemmed":"而 不 損 減 串 習 法無我性 怖 畏  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b13_13",
+    "original":"損壞尸羅。",
+    "folio":80,
+    "stemmed":"損 壞 尸 羅  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b14_5",
+    "original":"雖遠離一切所餘過失。",
+    "folio":80,
+    "stemmed":"雖 遠 離 一 切 所 餘 過 失  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b14_14",
+    "original":"而為邪法無我勝解。",
+    "folio":80,
+    "stemmed":"而 為 邪 法 無 我 勝 解  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b14_19",
+    "original":"及增上慢。",
+    "folio":80,
+    "stemmed":"及 增 上 慢  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b15_4",
+    "original":"損壞尸羅。",
+    "folio":80,
+    "stemmed":"損 壞 尸 羅  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b16_9",
+    "original":"復次云何住勝義律儀。",
+    "folio":80,
+    "stemmed":"復 次 云 何 住 勝 義 律 儀  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b16_17",
+    "original":"謂所成就出世間。",
+    "folio":80,
+    "stemmed":"謂 所 成 就 出 世 間  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b17_7",
+    "original":"一切煩惱不相應。",
+    "folio":80,
+    "stemmed":"一切煩惱 不 相 應  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b17_15",
+    "original":"能對治三界尸羅。",
+    "folio":80,
+    "stemmed":"能 對 治 三 界 尸 羅  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b18_6",
+    "original":"又於四種住律儀中。",
+    "folio":80,
+    "stemmed":"又 於 四 種 住 律 儀 中  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b18_15",
+    "original":"諸戲論法現所可得。",
+    "folio":80,
+    "stemmed":"諸 戲 論 法 現 所 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b19_4",
+    "original":"若能寂靜彼相。",
+    "folio":80,
+    "stemmed":"若 能 寂 靜 彼 相  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b19_13",
+    "original":"當知是名無漏尸羅。",
+    "folio":80,
+    "stemmed":"當 知 是 名 無 漏 尸 羅  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b20_4",
+    "original":"云何名為諸戲論法。",
+    "folio":80,
+    "stemmed":"云 何 名 為 諸 戲 論 法  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b20_16",
+    "original":"謂於初住律儀中我執可得。",
+    "folio":80,
+    "stemmed":"謂 於 初 住 律 儀 中 我 執 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b21_3",
+    "original":"若我所執。",
+    "folio":80,
+    "stemmed":"若 我 所 執  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b21_8",
+    "original":"若作毀犯。",
+    "folio":80,
+    "stemmed":"若 作 毀 犯  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b21_13",
+    "original":"若不作彼。",
+    "folio":80,
+    "stemmed":"若 不 作 彼  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b22_2",
+    "original":"若故思所作加行。",
+    "folio":80,
+    "stemmed":"若 故 思 所作加行  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b22_8",
+    "original":"若非彼加行。",
+    "folio":80,
+    "stemmed":"若 非 彼 加 行  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b22_14",
+    "original":"若正知而行。",
+    "folio":80,
+    "stemmed":"若 正 知 而 行  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b22_19",
+    "original":"若彼不行。",
+    "folio":80,
+    "stemmed":"若 彼 不 行  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b23_5",
+    "original":"若失念而行。",
+    "folio":80,
+    "stemmed":"若 失 念 而 行  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b23_10",
+    "original":"若彼不行。",
+    "folio":80,
+    "stemmed":"若 彼 不 行  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b24_9",
+    "original":"於第二住律儀中薩迦耶見品麁重隨行。",
+    "folio":80,
+    "stemmed":"於 第 二 住 律 儀 中 薩迦耶見 品 麁 重 隨 行  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b24_14",
+    "original":"若名可得。",
+    "folio":80,
+    "stemmed":"若 名 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b25_1",
+    "original":"若色可得。",
+    "folio":80,
+    "stemmed":"若 色 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b25_7",
+    "original":"若當來生相。",
+    "folio":80,
+    "stemmed":"若 當 來 生 相  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b25_13",
+    "original":"若今時無相。",
+    "folio":80,
+    "stemmed":"若 今 時 無 相  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b25_18",
+    "original":"若纏寂靜。",
+    "folio":80,
+    "stemmed":"若 纏 寂 靜  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b26_8",
+    "original":"若隨眠故彼不寂靜。",
+    "folio":80,
+    "stemmed":"若 隨 眠 故 彼 不 寂 靜  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b26_17",
+    "original":"若補特伽羅無我執。",
+    "folio":80,
+    "stemmed":"若 補特伽羅無我 執  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b27_7",
+    "original":"若補特伽羅執棄捨。",
+    "folio":80,
+    "stemmed":"若 補 特 伽 羅 執 棄 捨  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b28_5",
+    "original":"若即於彼補特伽羅無我執中所執性。",
+    "folio":80,
+    "stemmed":"若 即 於 彼 補特伽羅無我 執 中 所 執 性  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b28_11",
+    "original":"若非所執性。",
+    "folio":80,
+    "stemmed":"若 非 所 執 性  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b29_5",
+    "original":"若由此故於色等中有情執。",
+    "folio":80,
+    "stemmed":"若 由 此 故 於 色 等 中 有 情 執  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746b29_13",
+    "original":"若彼假設讚善執。",
+    "folio":80,
+    "stemmed":"若 彼 假 設 讚 善 執  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746c01_6",
+    "original":"若能假設心語假設讚善執。",
+    "folio":80,
+    "stemmed":"若 能 假 設 心 語 假 設 讚 善 執  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746c01_14",
+    "original":"於第三住律儀中。",
+    "folio":80,
+    "stemmed":"於 第 三 住 律 儀 中  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746c02_3",
+    "original":"若生上故世間。",
+    "folio":80,
+    "stemmed":"若 生 上 故 世 間  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746c02_11",
+    "original":"若捨下故非世間。",
+    "folio":80,
+    "stemmed":"若 捨 下 故 非 世 間  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746c02_18",
+    "original":"若三摩他依止。",
+    "folio":80,
+    "stemmed":"若 三 摩 他 依 止  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746c03_5",
+    "original":"若諸欲依止。",
+    "folio":80,
+    "stemmed":"若 諸 欲 依 止  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746c03_12",
+    "original":"若恃舉自尸羅。",
+    "folio":80,
+    "stemmed":"若 恃 舉 自 尸 羅  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746c04_1",
+    "original":"若輕蔑他尸羅。",
+    "folio":80,
+    "stemmed":"若 輕 蔑 他 尸 羅  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746c04_16",
+    "original":"於第四住律儀中若計我尸羅清淨。",
+    "folio":80,
+    "stemmed":"於 第 四 住 律 儀 中 若 計 我 尸 羅 清 淨  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746c05_13",
+    "original":"若由自性差別分別故分別尸羅。",
+    "folio":80,
+    "stemmed":"若 由 自性差別 分 別 故 分 別 尸 羅  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746c06_4",
+    "original":"如是等諸戲論法。",
+    "folio":80,
+    "stemmed":"如 是 等 諸 戲 論 法  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746c06_14",
+    "original":"於無漏戒中皆悉寂靜。",
+    "folio":80,
+    "stemmed":"於 無 漏 戒 中 皆 悉 寂 靜  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746c07_4",
+    "original":"又即與此義相應。",
+    "folio":80,
+    "stemmed":"又 即 與 此 義 相 應  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746c07_16",
+    "original":"依清淨三學應知所說伽他。",
+    "folio":80,
+    "stemmed":"依 清 淨 三 學 應 知 所 說 伽 他  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746c08_11",
+    "original":"當知為令福德資糧塵垢微薄。",
+    "folio":80,
+    "stemmed":"當 知 為 令 福德資糧 塵 垢 微 薄  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746c08_16",
+    "original":"攝受善士。",
+    "folio":80,
+    "stemmed":"攝 受 善 士  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746c09_3",
+    "original":"無失壞故。",
+    "folio":80,
+    "stemmed":"無 失 壞 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746c09_16",
+    "original":"智慧資糧於甚深處起勝解故。",
+    "folio":80,
+    "stemmed":"智慧資糧 於 甚 深 處 起 勝 解 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746c10_7",
+    "original":"由二因緣入如來教。",
+    "folio":80,
+    "stemmed":"由 二 因 緣 入 如 來 教  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746c11_1",
+    "original":"一者由法住智深了別故。",
+    "folio":80,
+    "stemmed":"一 者 由 法 住 智 深 了 別 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746c11_12",
+    "original":"二者由真實智善決定故。",
+    "folio":80,
+    "stemmed":"二 者 由 真 實 智 善 決 定 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746c12_10",
+    "original":"復次云何如來調伏方便。",
+    "folio":80,
+    "stemmed":"復 次 云 何 如 來 調 伏 方 便  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746c12_17",
+    "original":"當知此有二種。",
+    "folio":80,
+    "stemmed":"當 知 此 有 二 種  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746c13_5",
+    "original":"謂自體同分故。",
+    "folio":80,
+    "stemmed":"謂 自 體 同 分 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746c13_12",
+    "original":"及勝解同分故。",
+    "folio":80,
+    "stemmed":"及 勝 解 同 分 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746c14_7",
+    "original":"又現同分為令安住受教心故。",
+    "folio":80,
+    "stemmed":"又 現 同 分 為 令 安 住 受 教 心 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746c14_16",
+    "original":"及依教授而出離故。",
+    "folio":80,
+    "stemmed":"及 依 教 授 而 出 離 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746c15_15",
+    "original":"又正清淨加行教導教授當知復有四種。",
+    "folio":80,
+    "stemmed":"又 正 清 淨 加 行 教 導 教 授 當 知 復 有 四 種  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746c17_5",
+    "original":"一者於雜染清淨驚怖轉依教導二者遠離雜染因緣教導。",
+    "folio":80,
+    "stemmed":"一 者 於 雜 染 清 淨 驚 怖 轉 依 教 導 二 者 遠 離 雜 染 因 緣 教 導  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746c18_1",
+    "original":"三者遠離於清淨驚怖因緣教導。",
+    "folio":80,
+    "stemmed":"三 者 遠 離 於 清 淨 驚 怖 因 緣 教 導  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746c18_14",
+    "original":"四者第一現法樂住加行教導。",
+    "folio":80,
+    "stemmed":"四 者 第 一 現法樂住 加 行 教 導  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746c19_6",
+    "original":"此中雜染因緣有二種。",
+    "folio":80,
+    "stemmed":"此 中 雜 染 因 緣 有 二 種  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746c20_6",
+    "original":"一者由世俗言說自性雜染自性執分別故。",
+    "folio":80,
+    "stemmed":"一 者 由 世 俗 言說自性 雜 染 自 性 執 分 別 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746c21_3",
+    "original":"二者由彼功德過失差別執分別故。",
+    "folio":80,
+    "stemmed":"二 者 由 彼 功 德 過 失 差 別 執 分 別 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746c22_2",
+    "original":"由二種相應知於清淨導驚怖因緣。",
+    "folio":80,
+    "stemmed":"由 二 種 相 應 知 於 清 淨 導 驚 怖 因 緣  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746c23_1",
+    "original":"一者由於前後清淨導雜染分別故。",
+    "folio":80,
+    "stemmed":"一 者 由 於 前 後 清 淨 導 雜 染 分 別 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746c23_12",
+    "original":"二者由雜染遠離分別故。",
+    "folio":80,
+    "stemmed":"二 者 由 雜 染 遠 離 分 別 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746c24_10",
+    "original":"由二種相應知於涅槃清淨驚怖因緣。",
+    "folio":80,
+    "stemmed":"由 二 種 相 應 知 於 涅 槃 清 淨 驚 怖 因 緣  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746c25_5",
+    "original":"一者由世俗言說自性執故。",
+    "folio":80,
+    "stemmed":"一 者 由 世 俗 言說自性 執 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746c26_4",
+    "original":"二者於涅槃增語想中作心所有想故。",
+    "folio":80,
+    "stemmed":"二 者 於 涅 槃 增 語 想 中 作 心 所 有 想 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746c26_13",
+    "original":"又於寂靜心所有想。",
+    "folio":80,
+    "stemmed":"又 於 寂 靜 心 所 有 想  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746c27_4",
+    "original":"若增語想遍了知故。",
+    "folio":80,
+    "stemmed":"若 增 語 想 遍 了 知 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746c27_14",
+    "original":"於彼二因緣俱遠離故。",
+    "folio":80,
+    "stemmed":"於 彼 二 因 緣 俱 遠 離 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746c28_7",
+    "original":"當知是第一住加行教導。",
+    "folio":80,
+    "stemmed":"當 知 是 第 一 住 加 行 教 導  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746c29_1",
+    "original":"言。",
+    "folio":80,
+    "stemmed":"言  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0746c29_7",
+    "original":"謂無二相智。",
+    "folio":80,
+    "stemmed":"謂 無 二 相 智  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a01_1",
+    "original":"是能悟入一切密意語言相。",
+    "folio":80,
+    "stemmed":"是 能 悟 入 一 切 密意語言 相  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a01_15",
+    "original":"云何無二相謂諸名言安足處事。",
+    "folio":80,
+    "stemmed":"云 何 無 二 相 謂 諸 名 言 安 足 處 事  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a02_5",
+    "original":"由彼自性無所有故。",
+    "folio":80,
+    "stemmed":"由 彼 自 性 無 所 有 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a03_1",
+    "original":"非名言熏習想所行自性有故。",
+    "folio":80,
+    "stemmed":"非 名 言 熏 習 想 所 行 自 性 有 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a03_6",
+    "original":"說為無二。",
+    "folio":80,
+    "stemmed":"說 為 無 二  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a03_15",
+    "original":"於此無二若起二執。",
+    "folio":80,
+    "stemmed":"於 此 無 二 若 起 二 執  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a04_1",
+    "original":"名為雜染。",
+    "folio":80,
+    "stemmed":"名 為 雜 染  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a04_6",
+    "original":"若無二執。",
+    "folio":80,
+    "stemmed":"若 無 二 執  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a04_11",
+    "original":"名為清淨。",
+    "folio":80,
+    "stemmed":"名 為 清 淨  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a05_3",
+    "original":"又非一切名言安足處事。",
+    "folio":80,
+    "stemmed":"又 非 一 切 名 言 安 足 處 事  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a06_3",
+    "original":"由彼世俗言說熏習想所行自性無所有故。",
+    "folio":80,
+    "stemmed":"由 彼 世 俗 言 說 熏 習 想 所 行 自 性 無 所 有 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a06_15",
+    "original":"非彼熏習智所行自性有故。",
+    "folio":80,
+    "stemmed":"非 彼 熏 習 智 所 行 自 性 有 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a07_2",
+    "original":"說為無二。",
+    "folio":80,
+    "stemmed":"說 為 無 二  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a07_11",
+    "original":"於此無二若起二執。",
+    "folio":80,
+    "stemmed":"於 此 無 二 若 起 二 執  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a07_16",
+    "original":"名為雜染。",
+    "folio":80,
+    "stemmed":"名 為 雜 染  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a08_3",
+    "original":"若無二執。",
+    "folio":80,
+    "stemmed":"若 無 二 執  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a08_8",
+    "original":"名為清淨。",
+    "folio":80,
+    "stemmed":"名 為 清 淨  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a08_14",
+    "original":"由此無二相。",
+    "folio":80,
+    "stemmed":"由 此 無 二 相  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a09_8",
+    "original":"應知悟入如來一切密意語言。",
+    "folio":80,
+    "stemmed":"應 知 悟 入 如 來 一 切 密意語言  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a10_2",
+    "original":"此中由五種相名論圓滿。",
+    "folio":80,
+    "stemmed":"此 中 由 五 種 相 名 論 圓 滿  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a10_16",
+    "original":"即於教授中由五種相名果圓滿。",
+    "folio":80,
+    "stemmed":"即 於 教 授 中 由 五 種 相 名 果 圓 滿  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a11_10",
+    "original":"由五種相名果勝利圓滿。",
+    "folio":80,
+    "stemmed":"由 五 種 相 名 果 勝 利 圓 滿  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a12_2",
+    "original":"當知皆依密意語言。",
+    "folio":80,
+    "stemmed":"當 知 皆 依 密意語言  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a12_13",
+    "original":"云何由五種相名論圓滿。",
+    "folio":80,
+    "stemmed":"云 何 由 五 種 相 名 論 圓 滿  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a13_3",
+    "original":"謂若由此相宣說。",
+    "folio":80,
+    "stemmed":"謂 若 由 此 相 宣 說  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a13_8",
+    "original":"若是宣說。",
+    "folio":80,
+    "stemmed":"若 是 宣 說  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a13_13",
+    "original":"若所宣說。",
+    "folio":80,
+    "stemmed":"若 所 宣 說  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a13_19",
+    "original":"若如是宣說。",
+    "folio":80,
+    "stemmed":"若 如 是 宣 說  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a14_4",
+    "original":"若彼宣說。",
+    "folio":80,
+    "stemmed":"若 彼 宣 說  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a14_9",
+    "original":"如是圓滿。",
+    "folio":80,
+    "stemmed":"如 是 圓 滿  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a15_2",
+    "original":"云何由五種相名果圓滿。",
+    "folio":80,
+    "stemmed":"云 何 由 五 種 相 名 果 圓 滿  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a15_10",
+    "original":"謂無餘依涅槃界。",
+    "folio":80,
+    "stemmed":"謂 無餘依涅槃 界  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a15_18",
+    "original":"若有餘依涅槃界。",
+    "folio":80,
+    "stemmed":"若 有餘依涅槃 界  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a16_5",
+    "original":"若聖道圓滿。",
+    "folio":80,
+    "stemmed":"若 聖 道 圓 滿  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a16_10",
+    "original":"若勝內怨。",
+    "folio":80,
+    "stemmed":"若 勝 內 怨  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a16_15",
+    "original":"若勝外怨。",
+    "folio":80,
+    "stemmed":"若 勝 外 怨  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a17_1",
+    "original":"如是圓滿。",
+    "folio":80,
+    "stemmed":"如 是 圓 滿  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a17_14",
+    "original":"云何由五種相名果勝利圓滿。",
+    "folio":80,
+    "stemmed":"云 何 由 五 種 相 名 果 勝 利 圓 滿  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a18_4",
+    "original":"謂即是供養大師。",
+    "folio":80,
+    "stemmed":"謂 即 是 供 養 大 師  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a18_9",
+    "original":"報信施恩。",
+    "folio":80,
+    "stemmed":"報 信 施 恩  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a18_14",
+    "original":"越生死苦。",
+    "folio":80,
+    "stemmed":"越 生 死 苦  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a19_4",
+    "original":"於福田性無有退轉。",
+    "folio":80,
+    "stemmed":"於 福 田 性 無有退轉  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a19_13",
+    "original":"從法化生名如來子。",
+    "folio":80,
+    "stemmed":"從 法 化 生 名 如 來 子  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a20_1",
+    "original":"依止如來。",
+    "folio":80,
+    "stemmed":"依 止 如 來  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a21_15",
+    "original":"復次云何於菩薩藏教授中勝解勝利。",
+    "folio":80,
+    "stemmed":"復 次 云 何 於 菩薩藏教 授 中 勝 解 勝 利  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a22_4",
+    "original":"當知由五種相。",
+    "folio":80,
+    "stemmed":"當 知 由 五 種 相  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a23_6",
+    "original":"一者建立因時即能映蔽感大富貴增上因故。",
+    "folio":80,
+    "stemmed":"一 者 建 立 因 時 即 能 映 蔽 感 大 富 貴 增 上 因 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a23_13",
+    "original":"二者由轉依故。",
+    "folio":80,
+    "stemmed":"二 者 由 轉 依 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a24_6",
+    "original":"三者即於是處作說器故。",
+    "folio":80,
+    "stemmed":"三 者 即 於 是 處 作 說 器 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a24_14",
+    "original":"四者作說者器故。",
+    "folio":80,
+    "stemmed":"四 者 作 說 者 器 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a25_9",
+    "original":"五者於捨身時得見業清淨故。",
+    "folio":80,
+    "stemmed":"五 者 於 捨 身 時 得 見 業 清 淨 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a26_10",
+    "original":"由五種相當知映蔽感大富貴增上之因。",
+    "folio":80,
+    "stemmed":"由 五 種 相 當 知 映 蔽 感 大 富 貴 增 上 之 因  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a27_5",
+    "original":"所謂此因能引有量無量果故。",
+    "folio":80,
+    "stemmed":"所 謂 此 因 能 引 有 量 無 量 果 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a27_12",
+    "original":"有盡無盡法故。",
+    "folio":80,
+    "stemmed":"有 盡 無 盡 法 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a28_2",
+    "original":"感非廣大廣大樂故。",
+    "folio":80,
+    "stemmed":"感 非 廣 大 廣 大 樂 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a28_11",
+    "original":"是智資糧智自性故。",
+    "folio":80,
+    "stemmed":"是 智 資 糧 智 自 性 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a28_18",
+    "original":"由此能引彼故。",
+    "folio":80,
+    "stemmed":"由 此 能 引 彼 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a29_8",
+    "original":"又由遠離六種過失。",
+    "folio":80,
+    "stemmed":"又 由 遠 離 六 種 過 失  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747a29_13",
+    "original":"應知身行。",
+    "folio":80,
+    "stemmed":"應 知 身 行  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747b01_4",
+    "original":"何等名為六種過失。",
+    "folio":80,
+    "stemmed":"何 等 名 為 六 種 過 失  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747b01_12",
+    "original":"一者愁憂相過失。",
+    "folio":80,
+    "stemmed":"一 者 愁 憂 相 過 失  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747b02_4",
+    "original":"二者不了知數習過失。",
+    "folio":80,
+    "stemmed":"二 者 不 了 知 數 習 過 失  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747b02_15",
+    "original":"三者由二種相威儀過失。",
+    "folio":80,
+    "stemmed":"三 者 由 二 種 相 威 儀 過 失  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747b03_9",
+    "original":"四者由三種相怖畏相過失。",
+    "folio":80,
+    "stemmed":"四 者 由 三 種 相 怖 畏 相 過 失  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747b04_5",
+    "original":"五者由二種相遏履瑟吒過失。",
+    "folio":80,
+    "stemmed":"五 者 由 二 種 相 遏 履 瑟 吒 過 失  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747b04_14",
+    "original":"六者身不調柔過失。",
+    "folio":80,
+    "stemmed":"六 者 身 不 調 柔 過 失  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747b05_9",
+    "original":"又於相慶慰時遠離五種過失。",
+    "folio":80,
+    "stemmed":"又 於 相 慶 慰 時 遠 離 五 種 過 失  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747b06_5",
+    "original":"應知語行何等名為五種過失。",
+    "folio":80,
+    "stemmed":"應 知 語 行 何 等 名 為 五 種 過 失  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747b06_12",
+    "original":"一者怯怖過失。",
+    "folio":80,
+    "stemmed":"一 者 怯 怖 過 失  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747b06_19",
+    "original":"二者麁獷過失。",
+    "folio":80,
+    "stemmed":"二 者 麁 獷 過 失  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747b07_14",
+    "original":"三者棄捨佛語作不相應戲論過失。",
+    "folio":80,
+    "stemmed":"三 者 棄 捨 佛 語 作 不 相 應 戲 論 過 失  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747b08_7",
+    "original":"四者不讚歎如來過失。",
+    "folio":80,
+    "stemmed":"四 者 不 讚 歎 如 來 過 失  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747b09_3",
+    "original":"五者於同法者不施諫誨過失。",
+    "folio":80,
+    "stemmed":"五 者 於 同 法 者 不 施 諫 誨 過 失  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747b10_1",
+    "original":"又於記別所解了時遠離五種過失。",
+    "folio":80,
+    "stemmed":"又 於 記 別 所 解 了 時 遠 離 五 種 過 失  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747b10_6",
+    "original":"應知語行。",
+    "folio":80,
+    "stemmed":"應 知 語 行  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747b10_15",
+    "original":"何等名為五種過失。",
+    "folio":80,
+    "stemmed":"何 等 名 為 五 種 過 失  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747b11_7",
+    "original":"一者於所證得忘念過失。",
+    "folio":80,
+    "stemmed":"一 者 於 所 證 得 忘 念 過 失  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747b12_1",
+    "original":"二者前後語言相違過失。",
+    "folio":80,
+    "stemmed":"二 者 前 後 語 言 相 違 過 失  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747b12_10",
+    "original":"三者道理相違過失。",
+    "folio":80,
+    "stemmed":"三 者 道理相違 過 失  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747b13_4",
+    "original":"四者敬信聖教諸天訶責過失。",
+    "folio":80,
+    "stemmed":"四 者 敬 信 聖 教 諸 天 訶 責 過 失  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747b13_13",
+    "original":"五者如來訶責過失。",
+    "folio":80,
+    "stemmed":"五 者 如 來 訶 責 過 失  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747b14_3",
+    "original":"又由遠離五種過失。",
+    "folio":80,
+    "stemmed":"又 由 遠 離 五 種 過 失  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747b14_8",
+    "original":"應知意行。",
+    "folio":80,
+    "stemmed":"應 知 意 行  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747b14_18",
+    "original":"謂依現法義有前四種。",
+    "folio":80,
+    "stemmed":"謂 依 現 法 義 有 前 四 種  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747b15_8",
+    "original":"依後法義有第五種。",
+    "folio":80,
+    "stemmed":"依 後 法 義 有 第 五 種  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747b15_17",
+    "original":"何等名為五種過失。",
+    "folio":80,
+    "stemmed":"何 等 名 為 五 種 過 失  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747b16_6",
+    "original":"一者不忍過失。",
+    "folio":80,
+    "stemmed":"一 者 不 忍 過 失  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747b17_2",
+    "original":"不能忍受現在過去不饒益事故。",
+    "folio":80,
+    "stemmed":"不 能 忍 受 現 在 過 去 不饒益事 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747b17_9",
+    "original":"二者覆藏過失。",
+    "folio":80,
+    "stemmed":"二 者 覆 藏 過 失  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747b17_14",
+    "original":"由覆藏故。",
+    "folio":80,
+    "stemmed":"由 覆 藏 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747b18_1",
+    "original":"惡作燒惱故。",
+    "folio":80,
+    "stemmed":"惡 作 燒 惱 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747b18_8",
+    "original":"三者貪染過失。",
+    "folio":80,
+    "stemmed":"三 者 貪 染 過 失  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747b18_17",
+    "original":"希求諸欲及受用故。",
+    "folio":80,
+    "stemmed":"希 求 諸 欲 及 受 用 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747b19_6",
+    "original":"希求出離怨故。",
+    "folio":80,
+    "stemmed":"希 求 出 離 怨 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747b19_13",
+    "original":"四者忘念過失。",
+    "folio":80,
+    "stemmed":"四 者 忘 念 過 失  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747b20_8",
+    "original":"攝受不正見故於斷心迷亂故。",
+    "folio":80,
+    "stemmed":"攝 受 不 正 見 故 於 斷 心 迷 亂 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747b20_15",
+    "original":"五者期願過失。",
+    "folio":80,
+    "stemmed":"五 者 期 願 過 失  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747b22_5",
+    "original":"由自輕賤遠離廣大諸佛菩薩之所加被諸佛國土微妙願故。",
+    "folio":80,
+    "stemmed":"由 自 輕 賤 遠 離 廣 大 諸佛菩薩 之 所 加 被 諸 佛 國 土 微 妙 願 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747b22_17",
+    "original":"由微細意樂引發諸佛法故。",
+    "folio":80,
+    "stemmed":"由 微 細 意 樂 引 發 諸 佛 法 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747b23_16",
+    "original":"於一切法殊勝世間興盛差別起憍慢故。",
+    "folio":80,
+    "stemmed":"於一切法 殊 勝 世 間 興 盛 差 別 起 憍 慢 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747b24_4",
+    "original":"及願彼故。",
+    "folio":80,
+    "stemmed":"及 願 彼 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747b25_5",
+    "original":"於分別菩薩藏教授勝解勝利無量標釋中。",
+    "folio":80,
+    "stemmed":"於 分 別 菩薩藏教 授 勝 解 勝 利 無 量 標 釋 中  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747b25_17",
+    "original":"當知有無量無數勝解勝利。",
+    "folio":80,
+    "stemmed":"當 知 有 無量無數 勝 解 勝 利  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747b26_12",
+    "original":"於此地中餘決擇文更不復現。",
+    "folio":80,
+    "stemmed":"於 此 地 中 餘 決 擇 文 更 不 復 現  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747b28_9",
+    "original":"16-17 有餘依及無餘依二地攝決擇分中有餘依及無餘依二地如是已說菩薩地決擇。",
+    "folio":80,
+    "stemmed":"1 6  1 7   有 餘 依 及 無 餘 依 二 地 攝 決 擇 分 中 有 餘 依 及 無 餘 依 二 地 如 是 已 說 菩 薩 地 決 擇  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747b29_2",
+    "original":"有餘依無餘依二地決擇。",
+    "folio":80,
+    "stemmed":"有 餘 依 無 餘 依 二 地 決 擇  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747b29_31",
+    "original":"2章 正決擇有餘及無餘依二地1節 立章門我今當說嗢拕南曰。",
+    "folio":80,
+    "stemmed":"2 章   正 決 擇 有 餘 及 無 餘 依 二 地 1 節   立 章 門 我今當說 嗢 拕 南 曰  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c01_0",
+    "original":"離繫與壽行　　轉依住差別",
+    "folio":80,
+    "stemmed":"離 繫 與 壽 行   轉 依 住 差 別 "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c02_0",
+    "original":"有常樂殊勝　　異性自在等",
+    "folio":80,
+    "stemmed":"有 常 樂 殊 勝   異 性 自 在 等 "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c03_13",
+    "original":"問於有餘依涅槃界中現在轉時。",
+    "folio":80,
+    "stemmed":"問 於 有餘依涅槃 界 中 現 在 轉 時  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c04_5",
+    "original":"一切煩惱當言離繫耶。",
+    "folio":80,
+    "stemmed":"一切煩惱 當 言 離 繫 耶  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c04_12",
+    "original":"當言不離繫耶。",
+    "folio":80,
+    "stemmed":"當 言 不 離 繫 耶  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c05_1",
+    "original":"答當言離繫。",
+    "folio":80,
+    "stemmed":"答 當 言 離 繫  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c05_7",
+    "original":"問於一切苦。",
+    "folio":80,
+    "stemmed":"問 於 一 切 苦  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c05_13",
+    "original":"當言離繫耶。",
+    "folio":80,
+    "stemmed":"當 言 離 繫 耶  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c06_2",
+    "original":"當言不離繫耶。",
+    "folio":80,
+    "stemmed":"當 言 不 離 繫 耶  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c06_13",
+    "original":"答當言亦離繫亦不離繫。",
+    "folio":80,
+    "stemmed":"答 當 言 亦 離 繫 亦 不 離 繫  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c06_18",
+    "original":"所以者何。",
+    "folio":80,
+    "stemmed":"所以者何  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c07_12",
+    "original":"若未來生所有眾苦當言離繫。",
+    "folio":80,
+    "stemmed":"若 未 來 生 所 有 眾 苦 當 言 離 繫  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c08_8",
+    "original":"若現在生心所有苦亦當言離繫。",
+    "folio":80,
+    "stemmed":"若 現 在 生 心 所 有 苦 亦 當 言 離 繫  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c09_7",
+    "original":"若現身中飢苦渴苦界不平苦時節變苦。",
+    "folio":80,
+    "stemmed":"若 現 身 中 飢 苦 渴 苦 界 不 平 苦 時 節 變 苦  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c09_16",
+    "original":"及餘所有逼迫等苦。",
+    "folio":80,
+    "stemmed":"及 餘 所 有 逼 迫 等 苦  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c10_4",
+    "original":"當言不離繫。",
+    "folio":80,
+    "stemmed":"當 言 不 離 繫  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c10_11",
+    "original":"此由現前行故。",
+    "folio":80,
+    "stemmed":"此 由 現 前 行 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c11_3",
+    "original":"非諸煩惱所繫縛故。",
+    "folio":80,
+    "stemmed":"非 諸 煩 惱 所 繫 縛 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c12_12",
+    "original":"問若一切阿羅漢皆得心自在。",
+    "folio":80,
+    "stemmed":"問 若 一 切 阿 羅 漢 皆 得心自在  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c12_17",
+    "original":"何因緣故。",
+    "folio":80,
+    "stemmed":"何 因 緣 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c13_7",
+    "original":"不捨壽行入般涅槃。",
+    "folio":80,
+    "stemmed":"不 捨 壽 行 入般涅槃  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c13_16",
+    "original":"雖苦所逼而久住耶。",
+    "folio":80,
+    "stemmed":"雖 苦 所 逼 而 久 住 耶  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c14_6",
+    "original":"答功能有差別故。",
+    "folio":80,
+    "stemmed":"答 功 能 有 差 別 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c14_11",
+    "original":"所以者何。",
+    "folio":80,
+    "stemmed":"所以者何  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c15_4",
+    "original":"有一分阿羅漢能捨壽行。",
+    "folio":80,
+    "stemmed":"有 一 分 阿 羅 漢 能 捨 壽 行  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c15_9",
+    "original":"一分不能。",
+    "folio":80,
+    "stemmed":"一 分 不 能  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c16_2",
+    "original":"有一分阿羅漢能增壽行。",
+    "folio":80,
+    "stemmed":"有 一 分 阿 羅 漢 能 增 壽 行  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c16_8",
+    "original":"一分不能故。",
+    "folio":80,
+    "stemmed":"一 分 不 能 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c17_13",
+    "original":"問若阿羅漢如先所有六處生起。",
+    "folio":80,
+    "stemmed":"問 若 阿 羅 漢 如 先 所 有 六 處 生 起  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c18_4",
+    "original":"即如是住相續不滅。",
+    "folio":80,
+    "stemmed":"即 如 是 住 相 續 不 滅  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c18_9",
+    "original":"無有變異。",
+    "folio":80,
+    "stemmed":"無有變異  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c19_1",
+    "original":"更有何等異轉依性。",
+    "folio":80,
+    "stemmed":"更 有 何 等 異 轉 依 性  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c19_10",
+    "original":"而非六處相續而轉。",
+    "folio":80,
+    "stemmed":"而 非 六 處 相 續 而 轉  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c20_1",
+    "original":"若更無有異轉依者。",
+    "folio":80,
+    "stemmed":"若 更 無 有 異 轉 依 者  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c20_6",
+    "original":"何因緣故。",
+    "folio":80,
+    "stemmed":"何 因 緣 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c21_4",
+    "original":"前後二種依止相似而今後時煩惱不轉。",
+    "folio":80,
+    "stemmed":"前 後 二 種 依 止 相 似 而 今 後 時 煩 惱 不 轉  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c21_9",
+    "original":"聖道轉耶。",
+    "folio":80,
+    "stemmed":"聖 道 轉 耶  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c22_1",
+    "original":"答諸阿羅漢實有轉依。",
+    "folio":80,
+    "stemmed":"答 諸 阿 羅 漢 實 有 轉 依  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c22_10",
+    "original":"而此轉依與其六處。",
+    "folio":80,
+    "stemmed":"而 此 轉 依 與 其 六 處  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c23_1",
+    "original":"異不異性俱不可說。",
+    "folio":80,
+    "stemmed":"異不異性 俱 不 可 說  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c23_5",
+    "original":"何以故。",
+    "folio":80,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c23_16",
+    "original":"由此轉依真如清淨所顯。",
+    "folio":80,
+    "stemmed":"由 此 轉 依 真 如 清 淨 所 顯  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c24_2",
+    "original":"真如種性。",
+    "folio":80,
+    "stemmed":"真 如 種 性  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c24_7",
+    "original":"真如種子。",
+    "folio":80,
+    "stemmed":"真 如 種 子  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c24_12",
+    "original":"真如集成。",
+    "folio":80,
+    "stemmed":"真 如 集 成  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c25_2",
+    "original":"而彼真如與其六處。",
+    "folio":80,
+    "stemmed":"而 彼 真 如 與 其 六 處  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c25_11",
+    "original":"異不異性俱不可說。",
+    "folio":80,
+    "stemmed":"異不異性 俱 不 可 說  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c25_16",
+    "original":"不可說義。",
+    "folio":80,
+    "stemmed":"不 可 說 義  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c26_1",
+    "original":"如前已辯。",
+    "folio":80,
+    "stemmed":"如 前 已 辯  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c27_1",
+    "original":"是故若問所得轉依與其六處為異不異。",
+    "folio":80,
+    "stemmed":"是 故 若 問 所 得 轉 依 與 其 六 處 為 異 不 異  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c27_6",
+    "original":"非如理問。",
+    "folio":80,
+    "stemmed":"非 如 理 問  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c27_15",
+    "original":"若此轉依無有體者。",
+    "folio":80,
+    "stemmed":"若 此 轉 依 無 有 體 者  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c28_6",
+    "original":"應有如前所說過失。",
+    "folio":80,
+    "stemmed":"應 有 如前所說 過 失  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c28_15",
+    "original":"謂阿羅漢煩惱應行。",
+    "folio":80,
+    "stemmed":"謂 阿 羅 漢 煩 惱 應 行  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c29_2",
+    "original":"道應不行。",
+    "folio":80,
+    "stemmed":"道 應 不 行  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0747c29_11",
+    "original":"是故當知有轉依性。",
+    "folio":80,
+    "stemmed":"是故當知 有 轉 依 性  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a01_6",
+    "original":"世尊依此轉依體性密意說言。",
+    "folio":80,
+    "stemmed":"世 尊 依 此 轉 依 體 性 密意說言  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a02_0",
+    "original":"遍計自性中　　由有執無執",
+    "folio":80,
+    "stemmed":"遍 計 自 性 中   由 有 執 無 執 "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a03_0",
+    "original":"二種習氣故　　成雜染清淨",
+    "folio":80,
+    "stemmed":"二 種 習 氣 故   成 雜 染 清 淨 "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a04_0",
+    "original":"是即有漏界　　是即無漏界",
+    "folio":80,
+    "stemmed":"是 即 有 漏 界   是 即 無 漏 界 "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a05_0",
+    "original":"是即為轉依　　清淨無有上",
+    "folio":80,
+    "stemmed":"是 即 為 轉 依   清 淨 無 有 上 "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a06_8",
+    "original":"如屠牛師或彼弟子。",
+    "folio":80,
+    "stemmed":"如 屠 牛 師 或 彼 弟 子  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a06_17",
+    "original":"以利牛刀殺害牛已。",
+    "folio":80,
+    "stemmed":"以 利 牛 刀 殺 害 牛 已  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a07_16",
+    "original":"於內一切斫刺椎剖骨肉筋脈皆悉斷絕。",
+    "folio":80,
+    "stemmed":"於 內 一 切 斫 刺 椎 剖 骨 肉 筋 脈 皆 悉 斷 絕  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a08_7",
+    "original":"復以其皮張而蔽之。",
+    "folio":80,
+    "stemmed":"復 以 其 皮 張 而 蔽 之  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a09_2",
+    "original":"當言此牛與皮非離非合。",
+    "folio":80,
+    "stemmed":"當 言 此 牛 與 皮 非 離 非 合  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a09_13",
+    "original":"如是諸阿羅漢既得轉依。",
+    "folio":80,
+    "stemmed":"如 是 諸 阿 羅 漢 既 得 轉 依  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a10_13",
+    "original":"由慧利刀斷截一切結縛隨眠隨煩惱纏已。",
+    "folio":80,
+    "stemmed":"由 慧 利 刀 斷 截 一 切 結 縛 隨 眠 隨 煩 惱 纏 已  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a11_7",
+    "original":"當言與六處皮非離非合。",
+    "folio":80,
+    "stemmed":"當 言 與 六 處 皮 非 離 非 合  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a11_16",
+    "original":"又已轉依諸觀行者。",
+    "folio":80,
+    "stemmed":"又 已 轉 依 諸 觀 行 者  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a12_3",
+    "original":"雖取眾相。",
+    "folio":80,
+    "stemmed":"雖 取 眾 相  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a12_12",
+    "original":"當知與昔所取差別。",
+    "folio":80,
+    "stemmed":"當 知 與 昔 所 取 差 別  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a13_7",
+    "original":"此所取相猶如真如自內所證。",
+    "folio":80,
+    "stemmed":"此 所 取 相 猶 如 真 如 自內所證  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a14_7",
+    "original":"不可以言說示於他我所觀相如是如是。",
+    "folio":80,
+    "stemmed":"不 可 以 言 說 示 於 他 我 所 觀 相 如是如是  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a15_4",
+    "original":"涅槃界中。",
+    "folio":80,
+    "stemmed":"涅 槃 界 中  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a15_9",
+    "original":"住何等心。",
+    "folio":80,
+    "stemmed":"住 何 等 心  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a15_18",
+    "original":"於無餘依般涅槃界。",
+    "folio":80,
+    "stemmed":"於 無 餘 依 般 涅 槃 界  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a16_4",
+    "original":"當般涅槃。",
+    "folio":80,
+    "stemmed":"當 般 涅 槃  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a16_14",
+    "original":"答於一切相不復思惟。",
+    "folio":80,
+    "stemmed":"答 於 一 切 相 不 復 思 惟  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a17_5",
+    "original":"唯正思惟真無相界。",
+    "folio":80,
+    "stemmed":"唯 正 思 惟 真 無 相 界  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a17_14",
+    "original":"漸入滅定滅轉識等。",
+    "folio":80,
+    "stemmed":"漸 入 滅 定 滅 轉 識 等  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a18_4",
+    "original":"次異熟識捨所依止。",
+    "folio":80,
+    "stemmed":"次 異 熟 識 捨 所 依 止  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a18_13",
+    "original":"由異熟識無有取故。",
+    "folio":80,
+    "stemmed":"由 異 熟 識 無 有 取 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a19_4",
+    "original":"諸轉識等不復得生。",
+    "folio":80,
+    "stemmed":"諸 轉 識 等 不 復 得 生  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a19_17",
+    "original":"唯餘清淨無為離垢真法界在。",
+    "folio":80,
+    "stemmed":"唯 餘 清 淨 無 為 離 垢 真 法 界 在  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a20_8",
+    "original":"於此界中般涅槃已。",
+    "folio":80,
+    "stemmed":"於 此 界 中般涅槃 已  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a20_17",
+    "original":"不復墮於天龍藥叉。",
+    "folio":80,
+    "stemmed":"不 復 墮 於 天 龍 藥 叉  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a21_4",
+    "original":"若乾達縛。",
+    "folio":80,
+    "stemmed":"若 乾 達 縛  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a21_9",
+    "original":"若緊㮈洛。",
+    "folio":80,
+    "stemmed":"若 緊 㮈 洛  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a21_14",
+    "original":"若阿素洛。",
+    "folio":80,
+    "stemmed":"若 阿 素 洛  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a21_19",
+    "original":"若人等數。",
+    "folio":80,
+    "stemmed":"若 人 等 數  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a22_4",
+    "original":"以要言之。",
+    "folio":80,
+    "stemmed":"以要言之  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a22_13",
+    "original":"所有有情假想施設。",
+    "folio":80,
+    "stemmed":"所 有 有 情 假想施設  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a23_3",
+    "original":"遍於十方一切界。",
+    "folio":80,
+    "stemmed":"遍 於 十 方 一 切 界  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a23_7",
+    "original":"一切趣。",
+    "folio":80,
+    "stemmed":"一 切 趣  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a23_11",
+    "original":"一切生。",
+    "folio":80,
+    "stemmed":"一 切 生  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a23_16",
+    "original":"一切生類。",
+    "folio":80,
+    "stemmed":"一 切 生 類  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a24_1",
+    "original":"一切得身。",
+    "folio":80,
+    "stemmed":"一 切 得 身  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a24_6",
+    "original":"一切勝生。",
+    "folio":80,
+    "stemmed":"一 切 勝 生  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a24_11",
+    "original":"一切地中。",
+    "folio":80,
+    "stemmed":"一 切 地 中  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a25_1",
+    "original":"非此更復墮在彼數。",
+    "folio":80,
+    "stemmed":"非 此 更 復 墮 在 彼 數  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a25_5",
+    "original":"何以故。",
+    "folio":80,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a25_14",
+    "original":"由此真界離諸戲論。",
+    "folio":80,
+    "stemmed":"由 此 真 界 離 諸 戲 論  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a26_4",
+    "original":"唯成辦者內自證故。",
+    "folio":80,
+    "stemmed":"唯 成 辦 者 內 自 證 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a27_9",
+    "original":"問於有餘依涅槃界中。",
+    "folio":80,
+    "stemmed":"問 於 有餘依涅槃 界 中  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a27_18",
+    "original":"若無餘依涅槃界中。",
+    "folio":80,
+    "stemmed":"若 無餘依涅槃 界 中  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a28_8",
+    "original":"已般涅槃諸阿羅漢。",
+    "folio":80,
+    "stemmed":"已 般 涅 槃 諸 阿 羅 漢  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a28_13",
+    "original":"有何差別。",
+    "folio":80,
+    "stemmed":"有何差別  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a29_1",
+    "original":"答住有餘依。",
+    "folio":80,
+    "stemmed":"答 住 有 餘 依  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a29_6",
+    "original":"墮在眾數。",
+    "folio":80,
+    "stemmed":"墮 在 眾 數  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a29_11",
+    "original":"住無餘依。",
+    "folio":80,
+    "stemmed":"住 無 餘 依  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748a29_16",
+    "original":"不墮眾數。",
+    "folio":80,
+    "stemmed":"不 墮 眾 數  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b01_2",
+    "original":"住有餘依。",
+    "folio":80,
+    "stemmed":"住 有 餘 依  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b01_7",
+    "original":"猶有眾苦。",
+    "folio":80,
+    "stemmed":"猶 有 眾 苦  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b01_12",
+    "original":"住無餘依。",
+    "folio":80,
+    "stemmed":"住 無 餘 依  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b01_17",
+    "original":"永離眾苦。",
+    "folio":80,
+    "stemmed":"永 離 眾 苦  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b02_2",
+    "original":"住有餘依。",
+    "folio":80,
+    "stemmed":"住 有 餘 依  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b02_15",
+    "original":"所得轉依猶與六處而共相應。",
+    "folio":80,
+    "stemmed":"所 得 轉 依 猶 與 六 處 而 共 相 應  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b03_6",
+    "original":"住無餘依永不相應。",
+    "folio":80,
+    "stemmed":"住 無 餘 依 永 不 相 應  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b04_9",
+    "original":"問若無餘依涅槃界中。",
+    "folio":80,
+    "stemmed":"問 若 無餘依涅槃 界 中  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b05_8",
+    "original":"已般涅槃所有轉依永與六處不相應者。",
+    "folio":80,
+    "stemmed":"已 般 涅 槃 所 有 轉 依 永 與 六 處 不 相 應 者  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b05_17",
+    "original":"彼既無有六處所依。",
+    "folio":80,
+    "stemmed":"彼 既 無 有 六 處 所 依  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b06_4",
+    "original":"云何而住。",
+    "folio":80,
+    "stemmed":"云 何 而 住  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b07_1",
+    "original":"答非阿羅漢所得轉依六處為因。",
+    "folio":80,
+    "stemmed":"答 非 阿 羅 漢 所 得 轉 依 六 處 為 因  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b07_14",
+    "original":"然彼唯用緣真如境修道為因。",
+    "folio":80,
+    "stemmed":"然 彼 唯 用 緣 真 如 境 修 道 為 因  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b08_5",
+    "original":"是故六處若有若無。",
+    "folio":80,
+    "stemmed":"是 故 六 處 若有若無  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b08_14",
+    "original":"尚無轉依成變異性。",
+    "folio":80,
+    "stemmed":"尚 無 轉 依 成 變 異 性  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b09_1",
+    "original":"何況殞沒。",
+    "folio":80,
+    "stemmed":"何 況 殞 沒  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b09_10",
+    "original":"又復此界非所遍知。",
+    "folio":80,
+    "stemmed":"又 復 此 界 非 所 遍 知  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b09_15",
+    "original":"非所應斷。",
+    "folio":80,
+    "stemmed":"非 所 應 斷  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b10_2",
+    "original":"故不可滅。",
+    "folio":80,
+    "stemmed":"故 不 可 滅  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b11_3",
+    "original":"得轉依。",
+    "folio":80,
+    "stemmed":"得 轉 依  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b11_8",
+    "original":"當言是有。",
+    "folio":80,
+    "stemmed":"當 言 是 有  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b11_13",
+    "original":"當言非有。",
+    "folio":80,
+    "stemmed":"當 言 非 有  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b12_1",
+    "original":"答當言是有。",
+    "folio":80,
+    "stemmed":"答 當 言 是 有  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b12_7",
+    "original":"問當言何相。",
+    "folio":80,
+    "stemmed":"問 當 言 何 相  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b12_13",
+    "original":"答無戲論相。",
+    "folio":80,
+    "stemmed":"答 無 戲 論 相  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b13_3",
+    "original":"又善清淨法界為相。",
+    "folio":80,
+    "stemmed":"又 善 清 淨 法 界 為 相  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b13_13",
+    "original":"問何因緣故當言是有。",
+    "folio":80,
+    "stemmed":"問 何 因 緣 故 當 言 是 有  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b14_9",
+    "original":"答於有餘依及無餘依涅槃界中。",
+    "folio":80,
+    "stemmed":"答 於 有 餘 依 及 無餘依涅槃 界 中  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b14_18",
+    "original":"此轉依性皆無動法。",
+    "folio":80,
+    "stemmed":"此 轉 依 性 皆 無 動 法  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b15_4",
+    "original":"無動法故。",
+    "folio":80,
+    "stemmed":"無 動 法 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b15_13",
+    "original":"先有後無不應道理。",
+    "folio":80,
+    "stemmed":"先 有 後 無 不應道理  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b16_4",
+    "original":"又此法性非眾緣生。",
+    "folio":80,
+    "stemmed":"又 此 法 性 非 眾 緣 生  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b16_9",
+    "original":"無生無滅。",
+    "folio":80,
+    "stemmed":"無生無滅  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b16_18",
+    "original":"然譬如水澄清之性。",
+    "folio":80,
+    "stemmed":"然 譬 如 水 澄 清 之 性  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b17_8",
+    "original":"譬如真金調柔之性。",
+    "folio":80,
+    "stemmed":"譬 如 真 金 調 柔 之 性  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b17_17",
+    "original":"譬如虛空離雲霧性。",
+    "folio":80,
+    "stemmed":"譬 如 虛 空 離 雲 霧 性  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b18_8",
+    "original":"是故轉依當言是有。",
+    "folio":80,
+    "stemmed":"是 故 轉 依 當 言 是 有  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b19_5",
+    "original":"問當言是常。",
+    "folio":80,
+    "stemmed":"問 當 言 是 常  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b19_10",
+    "original":"當言無常。",
+    "folio":80,
+    "stemmed":"當 言 無 常  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b19_16",
+    "original":"答當言是常。",
+    "folio":80,
+    "stemmed":"答 當 言 是 常  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b20_8",
+    "original":"問何因緣故當言是常。",
+    "folio":80,
+    "stemmed":"問 何 因 緣 故 當 言 是 常  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b21_1",
+    "original":"答清淨真如之所顯故。",
+    "folio":80,
+    "stemmed":"答 清 淨 真 如 之 所 顯 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b21_6",
+    "original":"非緣生故。",
+    "folio":80,
+    "stemmed":"非 緣 生 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b21_11",
+    "original":"無生滅故。",
+    "folio":80,
+    "stemmed":"無 生 滅 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b22_5",
+    "original":"問當言是樂。",
+    "folio":80,
+    "stemmed":"問 當 言 是 樂  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b22_10",
+    "original":"當言非樂。",
+    "folio":80,
+    "stemmed":"當 言 非 樂  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b23_3",
+    "original":"答由勝義樂當言是樂。",
+    "folio":80,
+    "stemmed":"答 由 勝 義 樂 當 言 是 樂  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b23_8",
+    "original":"非由受樂。",
+    "folio":80,
+    "stemmed":"非 由 受 樂  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b23_13",
+    "original":"說名為樂。",
+    "folio":80,
+    "stemmed":"說 名 為 樂  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b23_17",
+    "original":"何以故。",
+    "folio":80,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b24_11",
+    "original":"一切煩惱及所生苦皆超越故。",
+    "folio":80,
+    "stemmed":"一切煩惱 及 所 生 苦 皆 超 越 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b25_9",
+    "original":"問於無餘依涅槃界中。",
+    "folio":80,
+    "stemmed":"問 於 無餘依涅槃 界 中  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b25_14",
+    "original":"般涅槃者。",
+    "folio":80,
+    "stemmed":"般涅槃者  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b26_9",
+    "original":"為有少分差別意趣殊異不耶。",
+    "folio":80,
+    "stemmed":"為 有 少 分 差 別 意 趣 殊 異 不 耶  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b26_15",
+    "original":"答一切無有。",
+    "folio":80,
+    "stemmed":"答 一 切 無 有  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b27_2",
+    "original":"所以者何。",
+    "folio":80,
+    "stemmed":"所以者何  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b27_15",
+    "original":"非此界中可得安立下中上品。",
+    "folio":80,
+    "stemmed":"非 此 界 中 可 得 安 立 下 中 上 品  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b28_6",
+    "original":"不可施設高下勝劣。",
+    "folio":80,
+    "stemmed":"不 可 施 設 高 下 勝 劣  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b28_15",
+    "original":"此是如來此聲聞等。",
+    "folio":80,
+    "stemmed":"此 是 如 來 此 聲 聞 等  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b29_7",
+    "original":"問何因緣故無有差別。",
+    "folio":80,
+    "stemmed":"問 何 因 緣 故 無有差別  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748b29_12",
+    "original":"所以者何。",
+    "folio":80,
+    "stemmed":"所以者何  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c01_3",
+    "original":"諸聲聞等有餘殘障。",
+    "folio":80,
+    "stemmed":"諸 聲 聞 等 有 餘 殘 障  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c01_16",
+    "original":"於無餘依涅槃界中而般涅槃。",
+    "folio":80,
+    "stemmed":"於 無餘依涅槃 界 中 而 般 涅 槃  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c02_6",
+    "original":"佛一切障永無所有。",
+    "folio":80,
+    "stemmed":"佛 一 切 障 永 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c02_16",
+    "original":"答住有餘依涅槃界中。",
+    "folio":80,
+    "stemmed":"答 住 有餘依涅槃 界 中  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c03_7",
+    "original":"可得安立有障無障。",
+    "folio":80,
+    "stemmed":"可 得 安 立 有 障 無 障  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c03_16",
+    "original":"住無餘依涅槃界中。",
+    "folio":80,
+    "stemmed":"住 無餘依涅槃 界 中  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c04_7",
+    "original":"畢竟無障可立差別。",
+    "folio":80,
+    "stemmed":"畢 竟 無 障 可 立 差 別  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c04_11",
+    "original":"何以故。",
+    "folio":80,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c05_3",
+    "original":"於此界中一切眾相。",
+    "folio":80,
+    "stemmed":"於 此 界 中 一 切 眾 相  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c05_12",
+    "original":"及諸麁重皆永息故。",
+    "folio":80,
+    "stemmed":"及 諸 麁 重 皆 永 息 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c05_17",
+    "original":"皆永滅故。",
+    "folio":80,
+    "stemmed":"皆 永 滅 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c06_3",
+    "original":"所以者何。",
+    "folio":80,
+    "stemmed":"所以者何  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c06_16",
+    "original":"諸阿羅漢住有餘依涅槃界時。",
+    "folio":80,
+    "stemmed":"諸 阿 羅 漢 住 有餘依涅槃 界 時  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c07_7",
+    "original":"一切眾相非悉永滅。",
+    "folio":80,
+    "stemmed":"一 切 眾 相 非 悉 永 滅  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c07_16",
+    "original":"異熟麁重亦非永滅。",
+    "folio":80,
+    "stemmed":"異 熟 麁 重 亦 非 永 滅  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c08_7",
+    "original":"由彼說有煩惱習氣。",
+    "folio":80,
+    "stemmed":"由 彼 說 有 煩惱習氣  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c09_3",
+    "original":"即觀待彼相及麁重安立有障。",
+    "folio":80,
+    "stemmed":"即 觀 待 彼 相 及 麁 重 安 立 有 障  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c09_12",
+    "original":"住無餘依涅槃界時。",
+    "folio":80,
+    "stemmed":"住 無餘依涅槃 界 時  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c09_17",
+    "original":"彼永無有。",
+    "folio":80,
+    "stemmed":"彼 永 無 有  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c10_7",
+    "original":"是故當知於此界中。",
+    "folio":80,
+    "stemmed":"是故當知 於 此 界 中  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c10_16",
+    "original":"無有有障無障差別。",
+    "folio":80,
+    "stemmed":"無 有 有 障 無 障 差 別  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c11_8",
+    "original":"問若此界中永無有障。",
+    "folio":80,
+    "stemmed":"問 若 此 界 中 永 無 有 障  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c11_17",
+    "original":"如諸如來離一切障。",
+    "folio":80,
+    "stemmed":"如 諸 如 來 離一切障  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c12_8",
+    "original":"阿羅漢等亦復如是。",
+    "folio":80,
+    "stemmed":"阿 羅 漢 等 亦復如是  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c12_13",
+    "original":"何因緣故。",
+    "folio":80,
+    "stemmed":"何 因 緣 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c13_7",
+    "original":"阿羅漢等不同如來作諸佛事。",
+    "folio":80,
+    "stemmed":"阿 羅 漢 等 不 同 如 來 作諸佛事  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c13_17",
+    "original":"答彼闕所修本弘願故。",
+    "folio":80,
+    "stemmed":"答 彼 闕 所 修 本 弘 願 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c14_8",
+    "original":"又彼種類種性爾故。",
+    "folio":80,
+    "stemmed":"又 彼 種 類 種 性 爾 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c15_4",
+    "original":"阿羅漢等決定無有還起意樂。",
+    "folio":80,
+    "stemmed":"阿 羅 漢 等 決 定 無 有 還 起 意 樂  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c15_9",
+    "original":"而般涅槃。",
+    "folio":80,
+    "stemmed":"而 般 涅 槃  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c16_1",
+    "original":"是故不能作諸佛事。",
+    "folio":80,
+    "stemmed":"是 故 不 能 作諸佛事  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c17_9",
+    "original":"問於無餘依涅槃界中。",
+    "folio":80,
+    "stemmed":"問 於 無餘依涅槃 界 中  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c18_1",
+    "original":"般涅槃者所有無漏界。",
+    "folio":80,
+    "stemmed":"般涅槃者 所 有 無 漏 界  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c18_6",
+    "original":"此與諸色。",
+    "folio":80,
+    "stemmed":"此 與 諸 色  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c18_11",
+    "original":"當言有異。",
+    "folio":80,
+    "stemmed":"當 言 有 異  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c18_16",
+    "original":"當言無異。",
+    "folio":80,
+    "stemmed":"當 言 無 異  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c19_7",
+    "original":"答當言非異亦非不異。",
+    "folio":80,
+    "stemmed":"答 當 言 非 異 亦 非 不 異  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c19_12",
+    "original":"如與諸色。",
+    "folio":80,
+    "stemmed":"如 與 諸 色  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c19_17",
+    "original":"與諸受等。",
+    "folio":80,
+    "stemmed":"與 諸 受 等  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c20_4",
+    "original":"當知亦爾。",
+    "folio":80,
+    "stemmed":"當 知 亦 爾  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c20_9",
+    "original":"與一切行。",
+    "folio":80,
+    "stemmed":"與 一 切 行  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c20_14",
+    "original":"與一切界。",
+    "folio":80,
+    "stemmed":"與 一 切 界  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c20_19",
+    "original":"與一切趣。",
+    "folio":80,
+    "stemmed":"與 一 切 趣  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c21_4",
+    "original":"亦復如是。",
+    "folio":80,
+    "stemmed":"亦復如是  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c22_1",
+    "original":"者。",
+    "folio":80,
+    "stemmed":"者  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c22_12",
+    "original":"於色等法當言獲得自在。",
+    "folio":80,
+    "stemmed":"於 色 等 法 當 言 獲 得 自 在  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c23_2",
+    "original":"當言不得自在。",
+    "folio":80,
+    "stemmed":"當 言 不得自在  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c23_10",
+    "original":"答當言獲得自在。",
+    "folio":80,
+    "stemmed":"答 當 言 獲 得 自 在  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c23_17",
+    "original":"問此所得自在。",
+    "folio":80,
+    "stemmed":"問 此 所 得 自 在  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c24_5",
+    "original":"當言能現在前。",
+    "folio":80,
+    "stemmed":"當 言 能 現 在 前  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c24_13",
+    "original":"當言不能現在前。",
+    "folio":80,
+    "stemmed":"當 言 不 能 現 在 前  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c25_3",
+    "original":"答一分能現在前。",
+    "folio":80,
+    "stemmed":"答 一 分 能 現 在 前  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c25_11",
+    "original":"一分不能現在前。",
+    "folio":80,
+    "stemmed":"一 分 不 能 現 在 前  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c26_5",
+    "original":"謂諸如來於無餘依涅槃界中。",
+    "folio":80,
+    "stemmed":"謂 諸 如 來 於 無餘依涅槃 界 中  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c26_14",
+    "original":"般涅槃已能現在前。",
+    "folio":80,
+    "stemmed":"般 涅 槃 已 能 現 在 前  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c27_5",
+    "original":"所餘不能令現在前。",
+    "folio":80,
+    "stemmed":"所 餘 不 能 令現在前  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c27_15",
+    "original":"問若此界中離諸戲論。",
+    "folio":80,
+    "stemmed":"問 若 此 界 中 離 諸 戲 論  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c28_6",
+    "original":"由此因緣不墮眾數。",
+    "folio":80,
+    "stemmed":"由此因緣 不 墮 眾 數  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c28_15",
+    "original":"云何復能起現在前。",
+    "folio":80,
+    "stemmed":"云 何 復 能 起 現 在 前  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0748c29_7",
+    "original":"答由先發起正弘願故。",
+    "folio":80,
+    "stemmed":"答 由 先 發 起 正 弘 願 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a01_3",
+    "original":"又由修習與彼相似道勢力故。",
+    "folio":80,
+    "stemmed":"又 由 修 習 與 彼 相 似 道 勢 力 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a01_12",
+    "original":"譬如正入滅盡定者。",
+    "folio":80,
+    "stemmed":"譬 如 正 入 滅 盡 定 者  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a02_8",
+    "original":"雖無是念我於滅定當可還出。",
+    "folio":80,
+    "stemmed":"雖 無 是 念 我 於 滅 定 當 可 還 出  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a02_13",
+    "original":"或出已住。",
+    "folio":80,
+    "stemmed":"或 出 已 住  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a03_4",
+    "original":"然由先時加行力故。",
+    "folio":80,
+    "stemmed":"然 由 先 時 加 行 力 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a03_9",
+    "original":"還從定出。",
+    "folio":80,
+    "stemmed":"還 從 定 出  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a04_9",
+    "original":"依有心行而起遊行當知此中道理亦爾。",
+    "folio":80,
+    "stemmed":"依 有 心 行 而 起 遊 行 當 知 此 中 道 理 亦 爾  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a05_7",
+    "original":"問迴向菩提聲聞。",
+    "folio":80,
+    "stemmed":"問 迴向菩提 聲 聞  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a05_17",
+    "original":"為住無餘依涅槃界中。",
+    "folio":80,
+    "stemmed":"為 住 無餘依涅槃 界 中  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a06_13",
+    "original":"能發趣阿耨多羅三藐三菩提耶。",
+    "folio":80,
+    "stemmed":"能 發 趣 阿耨多羅三藐三菩提 耶  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a07_6",
+    "original":"為住有餘依涅槃界耶。",
+    "folio":80,
+    "stemmed":"為 住 有餘依涅槃 界 耶  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a08_3",
+    "original":"答唯住有餘依涅槃界中可有此事。",
+    "folio":80,
+    "stemmed":"答 唯 住 有餘依涅槃 界 中 可 有 此 事  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a08_8",
+    "original":"所以者何。",
+    "folio":80,
+    "stemmed":"所以者何  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a08_17",
+    "original":"以無餘依涅槃界中。",
+    "folio":80,
+    "stemmed":"以 無餘依涅槃 界 中  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a09_7",
+    "original":"遠離一切發起事業。",
+    "folio":80,
+    "stemmed":"遠 離 一 切 發 起 事 業  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a09_16",
+    "original":"一切功用皆悉止息。",
+    "folio":80,
+    "stemmed":"一 切 功 用 皆 悉 止 息  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a10_11",
+    "original":"問若唯住有餘依涅槃界中。",
+    "folio":80,
+    "stemmed":"問 若 唯 住 有餘依涅槃 界 中  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a11_7",
+    "original":"能發趣阿耨多羅三藐三菩提者。",
+    "folio":80,
+    "stemmed":"能 發 趣 阿耨多羅三藐三菩提 者  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a12_11",
+    "original":"云何但由一生便能證得阿耨多羅三藐三菩提耶。",
+    "folio":80,
+    "stemmed":"云 何 但 由 一 生 便 能 證 得阿耨多羅三藐三菩提 耶  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a12_16",
+    "original":"所以者何。",
+    "folio":80,
+    "stemmed":"所以者何  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a13_11",
+    "original":"阿羅漢等尚當無有所餘一生。",
+    "folio":80,
+    "stemmed":"阿 羅 漢 等 尚 當 無 有 所 餘 一 生  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a14_3",
+    "original":"何況當有多生相續。",
+    "folio":80,
+    "stemmed":"何 況 當 有 多生相續  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a14_13",
+    "original":"答由彼要當增諸壽行。",
+    "folio":80,
+    "stemmed":"答 由 彼 要 當 增 諸 壽 行  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a14_18",
+    "original":"方能成辦。",
+    "folio":80,
+    "stemmed":"方 能 成 辦  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a15_12",
+    "original":"世尊多分依此迴向菩提聲聞。",
+    "folio":80,
+    "stemmed":"世 尊 多 分 依 此 迴向菩提 聲 聞  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a15_17",
+    "original":"密意說言。",
+    "folio":80,
+    "stemmed":"密意說言  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a16_12",
+    "original":"物類善男子若有善修四神足已。",
+    "folio":80,
+    "stemmed":"物 類 善 男 子 若 有 善 修 四 神 足 已  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a17_8",
+    "original":"能住一劫或餘一劫餘一劫者。",
+    "folio":80,
+    "stemmed":"能 住 一 劫 或 餘 一 劫 餘 一 劫 者  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a17_17",
+    "original":"此中意說過於一劫。",
+    "folio":80,
+    "stemmed":"此 中 意 說 過 於 一 劫  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a18_8",
+    "original":"彼雖如是增益壽行。",
+    "folio":80,
+    "stemmed":"彼 雖 如 是 增 益 壽 行  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a19_4",
+    "original":"能發趣阿耨多羅三藐三菩提。",
+    "folio":80,
+    "stemmed":"能 發 趣 阿耨多羅三藐三菩提  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a19_13",
+    "original":"而所修行極成遲鈍。",
+    "folio":80,
+    "stemmed":"而 所 修 行 極 成 遲 鈍  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a19_18",
+    "original":"樂涅槃故。",
+    "folio":80,
+    "stemmed":"樂 涅 槃 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a20_8",
+    "original":"不如初心始業菩薩。",
+    "folio":80,
+    "stemmed":"不 如 初 心 始 業 菩 薩  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a20_17",
+    "original":"彼既如是增壽行已。",
+    "folio":80,
+    "stemmed":"彼 既 如 是 增 壽 行 已  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a21_4",
+    "original":"留有根身。",
+    "folio":80,
+    "stemmed":"留 有 根 身  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a21_9",
+    "original":"別作化身。",
+    "folio":80,
+    "stemmed":"別 作 化 身  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a21_18",
+    "original":"同法者前方便示現。",
+    "folio":80,
+    "stemmed":"同 法 者 前 方 便 示 現  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a22_8",
+    "original":"於無餘依般涅槃界。",
+    "folio":80,
+    "stemmed":"於 無 餘 依 般 涅 槃 界  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a22_13",
+    "original":"而般涅槃。",
+    "folio":80,
+    "stemmed":"而 般 涅 槃  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a23_4",
+    "original":"由此因緣皆作是念。",
+    "folio":80,
+    "stemmed":"由此因緣 皆 作 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a23_17",
+    "original":"某名尊者於無餘依般涅槃界。",
+    "folio":80,
+    "stemmed":"某 名 尊 者 於 無 餘 依 般 涅 槃 界  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a24_3",
+    "original":"已般涅槃。",
+    "folio":80,
+    "stemmed":"已 般 涅 槃  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a24_12",
+    "original":"彼以所留有根實身。",
+    "folio":80,
+    "stemmed":"彼 以 所 留 有 根 實 身  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a25_3",
+    "original":"即於此界贍部洲中。",
+    "folio":80,
+    "stemmed":"即 於 此 界 贍 部 洲 中  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a25_12",
+    "original":"隨其所樂遠離而住。",
+    "folio":80,
+    "stemmed":"隨其所樂 遠離而住  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a26_2",
+    "original":"一切諸天尚不能覩。",
+    "folio":80,
+    "stemmed":"一 切 諸 天 尚 不 能 覩  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a26_11",
+    "original":"何況其餘眾生能見。",
+    "folio":80,
+    "stemmed":"何 況 其 餘 眾 生 能 見  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a27_2",
+    "original":"彼於涅槃多樂住故。",
+    "folio":80,
+    "stemmed":"彼 於 涅 槃 多 樂 住 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a27_11",
+    "original":"於遍遊行彼彼世界。",
+    "folio":80,
+    "stemmed":"於 遍 遊 行 彼 彼 世 界  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a28_2",
+    "original":"親近供養佛菩薩中。",
+    "folio":80,
+    "stemmed":"親近供養 佛 菩 薩 中  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a28_15",
+    "original":"及於修習菩提資糧諸聖道中。",
+    "folio":80,
+    "stemmed":"及 於 修 習 菩提資糧 諸 聖 道 中  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a29_10",
+    "original":"若放逸時諸佛菩薩數數覺悟。",
+    "folio":80,
+    "stemmed":"若 放 逸 時 諸佛菩薩 數 數 覺 悟  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749a29_15",
+    "original":"被覺悟已。",
+    "folio":80,
+    "stemmed":"被 覺 悟 已  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749b01_6",
+    "original":"於所修行能不放逸。",
+    "folio":80,
+    "stemmed":"於 所 修 行 能 不 放 逸  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749b02_9",
+    "original":"問若阿羅漢迴向菩提。",
+    "folio":80,
+    "stemmed":"問 若 阿 羅 漢 迴向菩提  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749b03_6",
+    "original":"便能證得阿耨多羅三藐三菩提者。",
+    "folio":80,
+    "stemmed":"便 能 證 得阿耨多羅三藐三菩提 者  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749b03_11",
+    "original":"何因緣故。",
+    "folio":80,
+    "stemmed":"何 因 緣 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749b04_6",
+    "original":"一切阿羅漢不皆迴向無上菩提。",
+    "folio":80,
+    "stemmed":"一 切 阿 羅 漢 不 皆 迴 向 無上菩提  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749b04_16",
+    "original":"答由彼種性有差別故。",
+    "folio":80,
+    "stemmed":"答 由 彼 種 性 有 差 別 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749b05_3",
+    "original":"所以者何。",
+    "folio":80,
+    "stemmed":"所以者何  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749b05_16",
+    "original":"諸阿羅漢現見種性有多差別。",
+    "folio":80,
+    "stemmed":"諸 阿 羅 漢 現 見 種 性 有 多 差 別  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749b06_11",
+    "original":"謂或見有諸阿羅漢俱分解脫。",
+    "folio":80,
+    "stemmed":"謂 或 見 有 諸 阿 羅 漢 俱 分 解 脫  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749b07_10",
+    "original":"或復見有唯慧解脫於無餘依般涅槃界。",
+    "folio":80,
+    "stemmed":"或 復 見 有 唯 慧 解 脫 於 無 餘 依 般 涅 槃 界  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749b07_15",
+    "original":"而般涅槃。",
+    "folio":80,
+    "stemmed":"而 般 涅 槃  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749b08_10",
+    "original":"是故當知由彼種性有差別故。",
+    "folio":80,
+    "stemmed":"是故當知 由 彼 種 性 有 差 別 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749b09_8",
+    "original":"非一切阿羅漢皆能迴向無上菩提。",
+    "folio":80,
+    "stemmed":"非 一 切 阿 羅 漢 皆 能 迴 向 無上菩提  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749b10_8",
+    "original":"復次迴向菩提聲聞。",
+    "folio":80,
+    "stemmed":"復 次 迴向菩提 聲 聞  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749b11_4",
+    "original":"或於學位即能棄捨求聲聞願。",
+    "folio":80,
+    "stemmed":"或 於 學 位 即 能 棄 捨 求 聲 聞 願  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749b11_13",
+    "original":"或無學位方能棄捨。",
+    "folio":80,
+    "stemmed":"或 無 學 位 方 能 棄 捨  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749b12_4",
+    "original":"由彼根性有差別故。",
+    "folio":80,
+    "stemmed":"由 彼 根 性 有 差 別 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749b12_13",
+    "original":"所待眾緣有差別故。",
+    "folio":80,
+    "stemmed":"所 待 眾 緣 有 差 別 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749b13_11",
+    "original":"如迴向菩提聲聞由遇緣故。",
+    "folio":80,
+    "stemmed":"如 迴向菩提 聲 聞 由 遇 緣 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749b14_5",
+    "original":"乘無上乘而般涅槃如是。",
+    "folio":80,
+    "stemmed":"乘 無 上 乘 而 般 涅 槃 如 是  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749b15_3",
+    "original":"菩薩設為如來及諸菩薩之所棄捨。",
+    "folio":80,
+    "stemmed":"菩 薩 設 為 如 來 及 諸 菩 薩 之 所 棄 捨  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749b15_8",
+    "original":"因棄捨故。",
+    "folio":80,
+    "stemmed":"因 棄 捨 故  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749b16_3",
+    "original":"若遭尤重求下劣乘般涅槃緣。",
+    "folio":80,
+    "stemmed":"若 遭 尤 重 求 下 劣 乘 般 涅 槃 緣  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749b16_12",
+    "original":"應乘下乘而般涅槃。",
+    "folio":80,
+    "stemmed":"應 乘 下 乘 而 般 涅 槃  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749b16_16",
+    "original":"然無處。",
+    "folio":80,
+    "stemmed":"然 無 處  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749b17_9",
+    "original":"無容諸佛菩薩如是放逸。",
+    "folio":80,
+    "stemmed":"無 容 諸佛菩薩 如 是 放 逸  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749b17_14",
+    "original":"棄捨於彼。",
+    "folio":80,
+    "stemmed":"棄 捨 於 彼  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749b18_1",
+    "original":"定無是處。",
+    "folio":80,
+    "stemmed":"定 無 是 處  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749b19_8",
+    "original":"復次迴向菩提聲聞。",
+    "folio":80,
+    "stemmed":"復 次 迴向菩提 聲 聞  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749b20_5",
+    "original":"若隨證得阿耨多羅三藐三菩提。",
+    "folio":80,
+    "stemmed":"若 隨 證 得阿耨多羅三藐三菩提  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749b20_12",
+    "original":"爾時即同如來。",
+    "folio":80,
+    "stemmed":"爾 時 即 同 如 來  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749b21_2",
+    "original":"於無餘依般涅槃界。",
+    "folio":80,
+    "stemmed":"於 無 餘 依 般 涅 槃 界  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749b21_7",
+    "original":"而般涅槃。",
+    "folio":80,
+    "stemmed":"而 般 涅 槃  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749b22_7",
+    "original":"問迴向菩提聲聞。",
+    "folio":80,
+    "stemmed":"問 迴向菩提 聲 聞  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749b23_1",
+    "original":"從本已來當言聲聞種性。",
+    "folio":80,
+    "stemmed":"從 本 已 來 當 言 聲聞種性  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749b23_8",
+    "original":"當言菩薩種性。",
+    "folio":80,
+    "stemmed":"當 言 菩薩種性  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749b23_16",
+    "original":"答當言不定種性。",
+    "folio":80,
+    "stemmed":"答 當 言 不定種性  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749b25_4",
+    "original":"譬如安立有不定聚諸有情類於般涅槃法性聚中。",
+    "folio":80,
+    "stemmed":"譬 如 安 立 有 不 定 聚 諸 有 情 類 於 般涅槃法 性 聚 中  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749b25_13",
+    "original":"當知此是不定種性。",
+    "folio":80,
+    "stemmed":"當 知 此 是 不定種性  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749b26_10",
+    "original":"復次彼即於此住處轉時。",
+    "folio":80,
+    "stemmed":"復 次 彼 即 於 此 住 處 轉 時  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749b26_15",
+    "original":"如無死畏。",
+    "folio":80,
+    "stemmed":"如 無 死 畏  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749b27_6",
+    "original":"如是亦無老病等畏。",
+    "folio":80,
+    "stemmed":"如 是 亦 無 老 病 等 畏  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749b27_11",
+    "original":"如來亦爾。",
+    "folio":80,
+    "stemmed":"如 來 亦 爾  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749b28_5",
+    "original":"彼及所餘於無餘依涅槃界中。",
+    "folio":80,
+    "stemmed":"彼 及 所 餘 於 無餘依涅槃 界 中  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749b28_10",
+    "original":"般涅槃者。",
+    "folio":80,
+    "stemmed":"般涅槃者  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749b29_5",
+    "original":"於十方界當知究竟不可思議。",
+    "folio":80,
+    "stemmed":"於 十 方 界 當 知 究 竟 不可思議  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749c01_1",
+    "original":"數數現作一切有情諸利益事。",
+    "folio":80,
+    "stemmed":"數 數 現 作 一切有情 諸 利 益 事  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749c01_15",
+    "original":"如首楞伽摩三摩地中說幻師喻。",
+    "folio":80,
+    "stemmed":"如 首 楞 伽 摩 三 摩 地 中 說 幻 師 喻  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749c02_1",
+    "original":"若商主喻。",
+    "folio":80,
+    "stemmed":"若 商 主 喻  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749c02_6",
+    "original":"若船師喻。",
+    "folio":80,
+    "stemmed":"若 船 師 喻  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749c02_15",
+    "original":"當知此中道理亦爾。",
+    "folio":80,
+    "stemmed":"當 知 此 中 道 理 亦 爾  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749c03_5",
+    "original":"是名最極如來祕密。",
+    "folio":80,
+    "stemmed":"是 名 最 極 如 來 祕 密  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749c03_18",
+    "original":"於此及餘種種差別如來祕密。",
+    "folio":80,
+    "stemmed":"於 此 及 餘 種種差別 如 來 祕 密  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749c04_12",
+    "original":"勝解行地修行菩薩下忍轉時。",
+    "folio":80,
+    "stemmed":"勝解行地 修 行 菩 薩 下 忍 轉 時  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749c05_3",
+    "original":"隨其勝解差別而轉。",
+    "folio":80,
+    "stemmed":"隨 其 勝 解 差 別 而 轉  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749c05_16",
+    "original":"從此轉勝進入增上意樂淨地。",
+    "folio":80,
+    "stemmed":"從 此 轉 勝 進 入 增上意樂 淨 地  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749c06_7",
+    "original":"如是乃至於九地中。",
+    "folio":80,
+    "stemmed":"如 是 乃 至 於 九 地 中  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749c06_12",
+    "original":"展轉增進。",
+    "folio":80,
+    "stemmed":"展 轉 增 進  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749c06_17",
+    "original":"勝解清淨。",
+    "folio":80,
+    "stemmed":"勝 解 清 淨  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749c07_11",
+    "original":"第十地中於此勝解最善清淨。",
+    "folio":80,
+    "stemmed":"第 十 地 中 於 此 勝 解 最 善 清 淨  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749c08_2",
+    "original":"於彼如來諸祕密中。",
+    "folio":80,
+    "stemmed":"於 彼 如 來 諸 祕 密 中  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749c08_11",
+    "original":"是諸菩薩應正隨轉。",
+    "folio":80,
+    "stemmed":"是 諸 菩 薩 應 正 隨 轉  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749c09_1",
+    "original":"當知如來如是祕密。",
+    "folio":80,
+    "stemmed":"當 知 如 來 如 是 祕 密  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749c09_10",
+    "original":"不可思議不可度量。",
+    "folio":80,
+    "stemmed":"不可思議 不 可 度 量  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749c10_1",
+    "original":"超過一切度量境界。",
+    "folio":80,
+    "stemmed":"超 過 一 切 度 量 境 界  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749c10_12",
+    "original":"問於法決擇總義云何答。",
+    "folio":80,
+    "stemmed":"問 於 法 決 擇 總 義 云 何 答  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749c11_0",
+    "original":"由品類差別　　而建立諸法",
+    "folio":80,
+    "stemmed":"由 品類差別   而 建 立 諸 法 "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749c12_0",
+    "original":"即於彼釋難　　分別一行等",
+    "folio":80,
+    "stemmed":"即 於 彼 釋 難   分 別 一 行 等 "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749c13_8",
+    "original":"如是應知此中總義。",
+    "folio":80,
+    "stemmed":"如 是 應 知 此 中 總 義  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749c14_4",
+    "original":"於此地中餘決擇文更不復現。",
+    "folio":80,
+    "stemmed":"於 此 地 中 餘 決 擇 文 更 不 復 現  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749c14_13",
+    "original":"當知於彼一一地中。",
+    "folio":80,
+    "stemmed":"當 知 於 彼 一 一 地 中  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749c15_4",
+    "original":"皆有無量決擇差別。",
+    "folio":80,
+    "stemmed":"皆 有 無 量 決 擇 差 別  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749c15_13",
+    "original":"我今且略開示少分。",
+    "folio":80,
+    "stemmed":"我 今 且 略 開 示 少 分  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749c16_9",
+    "original":"由此方隅由此所學由此教導。",
+    "folio":80,
+    "stemmed":"由 此 方 隅 由 此 所 學 由 此 教 導  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749c17_1",
+    "original":"諸有智者餘類應思。",
+    "folio":80,
+    "stemmed":"諸 有 智 者 餘 類 應 思  "
+  },
+  {
+    "segmentnr":"ZH_T30_1579_080:0749c18_100",
+    "original":"瑜伽師地論卷第八十",
+    "folio":80,
+    "stemmed":"瑜伽師地 論 卷 第 八 十 "
+  }
+]

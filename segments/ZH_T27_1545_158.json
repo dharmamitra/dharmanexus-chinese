@@ -1,0 +1,5252 @@
+[
+  {
+    "segmentnr":"ZH_T27_1545_158:0800c17_0",
+    "original":"阿毘達磨大毘婆沙論卷第一百",
+    "folio":158,
+    "stemmed":"阿 毘 達 磨 大 毘 婆 沙 論 卷 第 一 百 "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0800c18_0",
+    "original":"五十八",
+    "folio":158,
+    "stemmed":"五 十 八 "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0800c20_0",
+    "original":"五百大阿羅漢等造",
+    "folio":158,
+    "stemmed":"五 百 大阿羅漢 等 造 "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0800c23_7",
+    "original":"三藏法師玄奘奉　詔譯2定蘊第七中得納息第一之二問得非得何差別。",
+    "folio":158,
+    "stemmed":"三藏法師 玄 奘 奉  詔 譯 2 定 蘊 第 七 中 得 納 息 第 一 之 二 問 得 非 得 何 差 別  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0800c23_13",
+    "original":"答名即差別。",
+    "folio":158,
+    "stemmed":"答 名 即 差 別  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0800c23_17",
+    "original":"謂名得。",
+    "folio":158,
+    "stemmed":"謂 名 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0800c24_2",
+    "original":"名非得。",
+    "folio":158,
+    "stemmed":"名 非 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0800c24_10",
+    "original":"復次得有漏無漏。",
+    "folio":158,
+    "stemmed":"復 次 得 有漏無漏  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0800c24_16",
+    "original":"非得唯有漏。",
+    "folio":158,
+    "stemmed":"非 得 唯 有 漏  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0800c25_6",
+    "original":"復次得善不善無記。",
+    "folio":158,
+    "stemmed":"復 次 得 善不善無記  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0800c25_12",
+    "original":"非得唯無記。",
+    "folio":158,
+    "stemmed":"非 得 唯 無 記  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0800c26_3",
+    "original":"復次得三界繫及不繫。",
+    "folio":158,
+    "stemmed":"復 次 得 三 界 繫 及 不 繫  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0800c26_10",
+    "original":"非得唯三界繫。",
+    "folio":158,
+    "stemmed":"非 得 唯 三 界 繫  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0800c27_3",
+    "original":"復次得學無學非學非無學。",
+    "folio":158,
+    "stemmed":"復 次 得 學 無 學 非 學 非 無 學  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0800c27_12",
+    "original":"非得唯非學非無學。",
+    "folio":158,
+    "stemmed":"非 得 唯 非 學 非 無 學  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0800c27_19",
+    "original":"復次得見所斷。",
+    "folio":158,
+    "stemmed":"復 次 得 見 所 斷  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0800c28_3",
+    "original":"修所斷。",
+    "folio":158,
+    "stemmed":"修 所 斷  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0800c28_6",
+    "original":"不斷。",
+    "folio":158,
+    "stemmed":"不 斷  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0800c28_13",
+    "original":"非得唯修所斷。",
+    "folio":158,
+    "stemmed":"非 得 唯 修 所 斷  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0800c29_2",
+    "original":"復次得染污不染污。",
+    "folio":158,
+    "stemmed":"復 次 得 染 污 不 染 污  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0800c29_9",
+    "original":"非得唯不染污。",
+    "folio":158,
+    "stemmed":"非 得 唯 不 染 污  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0800c29_18",
+    "original":"復次得異熟非異熟。",
+    "folio":158,
+    "stemmed":"復 次 得 異 熟 非 異 熟  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a01_5",
+    "original":"非得唯非異熟。",
+    "folio":158,
+    "stemmed":"非 得 唯 非 異 熟  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a01_15",
+    "original":"復次得有異熟無異熟。",
+    "folio":158,
+    "stemmed":"復 次 得 有 異 熟 無 異 熟  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a02_3",
+    "original":"非得唯無異熟。",
+    "folio":158,
+    "stemmed":"非 得 唯 無 異 熟  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a02_10",
+    "original":"復次得與所得。",
+    "folio":158,
+    "stemmed":"復 次 得 與 所 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a02_15",
+    "original":"法或俱起。",
+    "folio":158,
+    "stemmed":"法 或 俱 起  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a03_1",
+    "original":"或不俱起。",
+    "folio":158,
+    "stemmed":"或 不 俱 起  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a03_13",
+    "original":"非得與所不得法必不俱起。",
+    "folio":158,
+    "stemmed":"非 得 與 所 不 得 法 必 不 俱 起  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a04_5",
+    "original":"復次得苦集道三諦攝。",
+    "folio":158,
+    "stemmed":"復 次 得 苦 集 道 三 諦 攝  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a04_13",
+    "original":"非得唯苦集諦攝。",
+    "folio":158,
+    "stemmed":"非 得 唯 苦 集 諦 攝  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a05_1",
+    "original":"以如是等門。",
+    "folio":158,
+    "stemmed":"以 如 是 等 門  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a05_9",
+    "original":"應知得非得差別。",
+    "folio":158,
+    "stemmed":"應 知 得 非 得 差 別  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a06_10",
+    "original":"問何故得與所得法性類。",
+    "folio":158,
+    "stemmed":"問 何 故 得 與 所 得 法 性 類  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a06_16",
+    "original":"或同或異耶。",
+    "folio":158,
+    "stemmed":"或 同 或 異 耶  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a07_3",
+    "original":"答得有三種。",
+    "folio":158,
+    "stemmed":"答 得 有 三 種  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a07_9",
+    "original":"一有為法得。",
+    "folio":158,
+    "stemmed":"一 有 為 法 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a07_14",
+    "original":"二擇滅得。",
+    "folio":158,
+    "stemmed":"二 擇 滅 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a08_1",
+    "original":"三非擇滅得。",
+    "folio":158,
+    "stemmed":"三 非 擇 滅 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a08_6",
+    "original":"有為法得。",
+    "folio":158,
+    "stemmed":"有 為 法 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a08_15",
+    "original":"隨所得法性類差別。",
+    "folio":158,
+    "stemmed":"隨 所 得 法 性 類 差 別  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a09_9",
+    "original":"以有為法能有作用引自得故。",
+    "folio":158,
+    "stemmed":"以 有 為 法 能 有 作 用 引 自 得 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a10_4",
+    "original":"擇滅得隨能證道性類差別。",
+    "folio":158,
+    "stemmed":"擇 滅 得 隨 能 證 道 性 類 差 別  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a10_13",
+    "original":"以諸擇滅自無作用。",
+    "folio":158,
+    "stemmed":"以 諸 擇 滅 自 無 作 用  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a11_2",
+    "original":"但由道力求證。",
+    "folio":158,
+    "stemmed":"但 由 道 力 求 證  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a11_9",
+    "original":"彼時引彼得故。",
+    "folio":158,
+    "stemmed":"彼 時 引 彼 得 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a11_14",
+    "original":"非擇滅得。",
+    "folio":158,
+    "stemmed":"非 擇 滅 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a12_4",
+    "original":"隨自所依性類差別。",
+    "folio":158,
+    "stemmed":"隨 自 所 依 性 類 差 別  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a12_13",
+    "original":"以非擇滅自無作用。",
+    "folio":158,
+    "stemmed":"以 非 擇 滅 自 無 作 用  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a12_18",
+    "original":"非道所求。",
+    "folio":158,
+    "stemmed":"非 道 所 求  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a13_13",
+    "original":"彼得但依命根眾同分而現前故。",
+    "folio":158,
+    "stemmed":"彼 得 但 依 命 根 眾 同 分 而 現 前 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a14_5",
+    "original":"問非得隨何性類差別。",
+    "folio":158,
+    "stemmed":"問 非 得 隨 何 性 類 差 別  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a15_2",
+    "original":"答彼定不隨所不得法以相違故。",
+    "folio":158,
+    "stemmed":"答 彼 定 不 隨 所 不 得 法 以 相 違 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a15_12",
+    "original":"又不隨道非道所求故。",
+    "folio":158,
+    "stemmed":"又 不 隨 道 非 道 所 求 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a16_4",
+    "original":"但依命根眾同分轉故。",
+    "folio":158,
+    "stemmed":"但 依 命 根 眾 同 分 轉 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a16_12",
+    "original":"隨所依性類差別。",
+    "folio":158,
+    "stemmed":"隨 所 依 性 類 差 別  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a17_3",
+    "original":"問若諸非得非擇滅得。",
+    "folio":158,
+    "stemmed":"問 若 諸 非 得 非 擇 滅 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a17_13",
+    "original":"俱隨所依性類差別者。",
+    "folio":158,
+    "stemmed":"俱 隨 所 依 性 類 差 別 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a18_1",
+    "original":"所依或異熟。",
+    "folio":158,
+    "stemmed":"所 依 或 異 熟  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a18_6",
+    "original":"或唯等流。",
+    "folio":158,
+    "stemmed":"或 唯 等 流  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a18_15",
+    "original":"此二隨何性類差別。",
+    "folio":158,
+    "stemmed":"此 二 隨 何 性 類 差 別  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a19_6",
+    "original":"答隨等流性以義遍故。",
+    "folio":158,
+    "stemmed":"答 隨 等 流 性 以 義 遍 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a19_15",
+    "original":"異熟非遍故不隨立。",
+    "folio":158,
+    "stemmed":"異 熟 非 遍 故 不 隨 立  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a20_7",
+    "original":"問非得若隨所不得法。",
+    "folio":158,
+    "stemmed":"問 非 得 若 隨 所 不 得 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a20_16",
+    "original":"性類差別有何過耶。",
+    "folio":158,
+    "stemmed":"性 類 差 別 有 何 過 耶  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a21_8",
+    "original":"答斷善根者應成就善。",
+    "folio":158,
+    "stemmed":"答 斷善根者 應 成 就 善  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a22_2",
+    "original":"已離欲染者應成就不善。",
+    "folio":158,
+    "stemmed":"已 離 欲 染 者 應 成 就 不 善  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a22_11",
+    "original":"諸無學者應成就染。",
+    "folio":158,
+    "stemmed":"諸 無 學 者 應 成 就 染  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a23_5",
+    "original":"異生應成就三乘無漏法。",
+    "folio":158,
+    "stemmed":"異 生 應 成 就 三 乘 無 漏 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a23_11",
+    "original":"退果應成果。",
+    "folio":158,
+    "stemmed":"退 果 應 成 果  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a23_17",
+    "original":"捨向應成向。",
+    "folio":158,
+    "stemmed":"捨 向 應 成 向  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a24_7",
+    "original":"二滅非得應是無為。",
+    "folio":158,
+    "stemmed":"二 滅 非 得 應 是 無 為  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a24_12",
+    "original":"由此等過。",
+    "folio":158,
+    "stemmed":"由 此 等 過  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a25_7",
+    "original":"非得不可隨所不得性類有異。",
+    "folio":158,
+    "stemmed":"非 得 不 可 隨 所 不 得 性 類 有 異  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a26_11",
+    "original":"問所說得為更有得為無耶。",
+    "folio":158,
+    "stemmed":"問 所 說 得 為 更 有 得 為 無 耶  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a27_3",
+    "original":"若更有得者得傳有得。",
+    "folio":158,
+    "stemmed":"若 更 有 得 者 得 傳 有 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a27_8",
+    "original":"何非無窮。",
+    "folio":158,
+    "stemmed":"何 非 無 窮  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a27_14",
+    "original":"若更無得者。",
+    "folio":158,
+    "stemmed":"若 更 無 得 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a28_4",
+    "original":"此得由何可說成就。",
+    "folio":158,
+    "stemmed":"此 得 由 何 可 說 成 就  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a28_9",
+    "original":"答應說得。",
+    "folio":158,
+    "stemmed":"答 應 說 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a28_13",
+    "original":"復有得。",
+    "folio":158,
+    "stemmed":"復 有 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a29_3",
+    "original":"問若爾應成無窮。",
+    "folio":158,
+    "stemmed":"問 若 爾 應 成 無 窮  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a29_11",
+    "original":"答無窮亦無有過。",
+    "folio":158,
+    "stemmed":"答 無 窮 亦 無 有 過  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801a29_18",
+    "original":"由此生死難斷。",
+    "folio":158,
+    "stemmed":"由 此 生 死 難 斷  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b01_2",
+    "original":"難越。",
+    "folio":158,
+    "stemmed":"難 越  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b01_13",
+    "original":"或無量得皆一剎那俱生。",
+    "folio":158,
+    "stemmed":"或 無 量 得 皆 一 剎 那 俱 生  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b02_1",
+    "original":"而滅無無窮過。",
+    "folio":158,
+    "stemmed":"而 滅 無 無 窮 過  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b02_6",
+    "original":"如是說者。",
+    "folio":158,
+    "stemmed":"如 是 說 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b02_15",
+    "original":"一剎那中但有三法。",
+    "folio":158,
+    "stemmed":"一 剎 那 中 但 有 三 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b02_19",
+    "original":"一彼法。",
+    "folio":158,
+    "stemmed":"一 彼 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b03_2",
+    "original":"二得。",
+    "folio":158,
+    "stemmed":"二 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b03_6",
+    "original":"三得得。",
+    "folio":158,
+    "stemmed":"三 得 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b03_17",
+    "original":"由得故成就彼法及得得。",
+    "folio":158,
+    "stemmed":"由 得 故 成 就 彼 法 及 得 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b04_6",
+    "original":"由得得故成就得。",
+    "folio":158,
+    "stemmed":"由 得 得 故 成 就 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b04_16",
+    "original":"由更互相得故非無窮。",
+    "folio":158,
+    "stemmed":"由 更 互 相 得 故 非 無 窮  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b05_9",
+    "original":"是故說色蘊行蘊一得得。",
+    "folio":158,
+    "stemmed":"是 故 說 色 蘊 行 蘊 一 得 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b06_1",
+    "original":"乃至識蘊行蘊一得得。",
+    "folio":158,
+    "stemmed":"乃 至 識 蘊 行 蘊 一 得 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b06_9",
+    "original":"有為無為一得得。",
+    "folio":158,
+    "stemmed":"有 為 無 為 一 得 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b06_19",
+    "original":"問為一一法各別有得。",
+    "folio":158,
+    "stemmed":"問 為 一 一 法 各 別 有 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b07_4",
+    "original":"為不爾耶。",
+    "folio":158,
+    "stemmed":"為 不 爾 耶  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b07_9",
+    "original":"或有說者。",
+    "folio":158,
+    "stemmed":"或 有 說 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b07_17",
+    "original":"俱有法同一得得。",
+    "folio":158,
+    "stemmed":"俱 有 法 同 一 得 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b08_8",
+    "original":"問若爾不應作如是說。",
+    "folio":158,
+    "stemmed":"問 若 爾 不 應 作如是說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b08_17",
+    "original":"色蘊行蘊一得得等。",
+    "folio":158,
+    "stemmed":"色 蘊 行 蘊 一 得 得 等  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b09_7",
+    "original":"答欲顯法與得得。",
+    "folio":158,
+    "stemmed":"答 欲 顯 法 與 得 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b09_16",
+    "original":"無異得故作如是說。",
+    "folio":158,
+    "stemmed":"無 異 得 故 作如是說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b10_12",
+    "original":"然實不無五蘊四蘊一得得義。",
+    "folio":158,
+    "stemmed":"然 實 不 無 五 蘊 四 蘊 一 得 得 義  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b10_15",
+    "original":"有說。",
+    "folio":158,
+    "stemmed":"有 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b11_5",
+    "original":"一一法各別得得。",
+    "folio":158,
+    "stemmed":"一 一 法 各 別 得 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b11_10",
+    "original":"唯除得得。",
+    "folio":158,
+    "stemmed":"唯 除 得 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b11_18",
+    "original":"與彼法同一得得。",
+    "folio":158,
+    "stemmed":"與 彼 法 同 一 得 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b12_9",
+    "original":"問若爾便有無窮過失。",
+    "folio":158,
+    "stemmed":"問 若 爾 便 有 無 窮 過 失  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b13_1",
+    "original":"以得皆有生住異滅。",
+    "folio":158,
+    "stemmed":"以 得 皆 有 生住異滅  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b13_10",
+    "original":"生等復有得與得得。",
+    "folio":158,
+    "stemmed":"生 等 復 有 得 與 得 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b14_1",
+    "original":"彼得得得復有生等。",
+    "folio":158,
+    "stemmed":"彼 得 得 得 復 有 生 等  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b14_10",
+    "original":"如是展轉成無窮故。",
+    "folio":158,
+    "stemmed":"如 是 展 轉 成 無 窮 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b14_18",
+    "original":"答無窮復有何過。",
+    "folio":158,
+    "stemmed":"答 無 窮 復 有 何 過  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b15_8",
+    "original":"由此生死難斷難越。",
+    "folio":158,
+    "stemmed":"由 此 生 死 難 斷 難 越  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b16_7",
+    "original":"或此諸法皆一剎那俱生而滅無無窮過。",
+    "folio":158,
+    "stemmed":"或 此 諸 法 皆 一 剎 那 俱 生 而 滅 無 無 窮 過  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b16_12",
+    "original":"如是說者。",
+    "folio":158,
+    "stemmed":"如 是 說 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b17_3",
+    "original":"法與生等同一得得。",
+    "folio":158,
+    "stemmed":"法 與 生 等 同 一 得 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b17_12",
+    "original":"相與所相極親近故。",
+    "folio":158,
+    "stemmed":"相 與 所 相 極 親 近 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b18_7",
+    "original":"由此善通色蘊行蘊一得得等。",
+    "folio":158,
+    "stemmed":"由 此 善 通 色 蘊 行 蘊 一 得 得 等  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b18_16",
+    "original":"又去如前無窮過失。",
+    "folio":158,
+    "stemmed":"又 去 如 前 無 窮 過 失  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b19_10",
+    "original":"如說得如是非得與得相違。",
+    "folio":158,
+    "stemmed":"如 說 得 如 是 非 得 與 得 相 違  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b19_15",
+    "original":"應隨廣說。",
+    "folio":158,
+    "stemmed":"應 隨 廣 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b20_6",
+    "original":"然無同時非得非得。",
+    "folio":158,
+    "stemmed":"然 無 同 時 非 得 非 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b21_1",
+    "original":"有情數法現在前時必與得俱。",
+    "folio":158,
+    "stemmed":"有 情 數 法 現 在 前 時 必 與 得 俱  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b22_3",
+    "original":"是故非得起時決定不與非得非得及彼法俱起。",
+    "folio":158,
+    "stemmed":"是 故 非 得 起 時 決 定 不 與 非 得 非 得 及 彼 法 俱 起  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b22_12",
+    "original":"由此三法互相違故。",
+    "folio":158,
+    "stemmed":"由 此 三 法 互 相 違 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b23_3",
+    "original":"異時說有此則不遮。",
+    "folio":158,
+    "stemmed":"異 時 說 有 此 則 不 遮  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b24_6",
+    "original":"問過去未來得。",
+    "folio":158,
+    "stemmed":"問 過去未來 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b24_10",
+    "original":"為成就。",
+    "folio":158,
+    "stemmed":"為 成 就  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b24_15",
+    "original":"為不成就。",
+    "folio":158,
+    "stemmed":"為 不 成 就  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b25_1",
+    "original":"若成就者。",
+    "folio":158,
+    "stemmed":"若 成 就 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b25_6",
+    "original":"則為無窮。",
+    "folio":158,
+    "stemmed":"則 為 無 窮  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b25_15",
+    "original":"謂一剎那三法俱起。",
+    "folio":158,
+    "stemmed":"謂 一 剎 那 三 法 俱 起  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b25_18",
+    "original":"一法。",
+    "folio":158,
+    "stemmed":"一 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b26_1",
+    "original":"二得。",
+    "folio":158,
+    "stemmed":"二 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b26_5",
+    "original":"三得得。",
+    "folio":158,
+    "stemmed":"三 得 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b26_14",
+    "original":"此三滅位有六得生。",
+    "folio":158,
+    "stemmed":"此 三 滅 位 有 六 得 生  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b26_18",
+    "original":"謂三得。",
+    "folio":158,
+    "stemmed":"謂 三 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b27_2",
+    "original":"三得得。",
+    "folio":158,
+    "stemmed":"三 得 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b27_11",
+    "original":"此六滅位十二得起。",
+    "folio":158,
+    "stemmed":"此 六 滅 位 十 二 得 起  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b27_18",
+    "original":"謂六得六得得。",
+    "folio":158,
+    "stemmed":"謂 六 得 六 得 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b28_3",
+    "original":"十二滅位。",
+    "folio":158,
+    "stemmed":"十 二 滅 位  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b28_9",
+    "original":"二十四得起。",
+    "folio":158,
+    "stemmed":"二 十 四 得 起  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b28_18",
+    "original":"謂十二得十二得得。",
+    "folio":158,
+    "stemmed":"謂 十 二 得 十 二 得 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801b29_7",
+    "original":"如是展轉無始時來。",
+    "folio":158,
+    "stemmed":"如 是 展 轉 無始時來  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c01_2",
+    "original":"乃至後際念念倍起其得無限。",
+    "folio":158,
+    "stemmed":"乃 至 後 際 念 念 倍 起 其 得 無 限  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c02_5",
+    "original":"隣次剎那倍增尚爾況於隔越前前剎那諸得倍增。",
+    "folio":158,
+    "stemmed":"隣 次 剎 那 倍 增 尚 爾 況 於 隔 越 前 前 剎 那 諸 得 倍 增  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c02_14",
+    "original":"是故展轉有無窮過。",
+    "folio":158,
+    "stemmed":"是 故 展 轉 有 無 窮 過  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c03_8",
+    "original":"若不成就便與此蘊後說相違。",
+    "folio":158,
+    "stemmed":"若 不 成 就 便 與 此 蘊 後 說 相 違  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c04_3",
+    "original":"如說從無色界歿生欲界時。",
+    "folio":158,
+    "stemmed":"如 說 從 無 色 界 歿 生 欲 界 時  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c04_9",
+    "original":"所得蘊界處。",
+    "folio":158,
+    "stemmed":"所 得 蘊 界 處  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c04_12",
+    "original":"大種。",
+    "folio":158,
+    "stemmed":"大 種  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c04_15",
+    "original":"善根。",
+    "folio":158,
+    "stemmed":"善 根  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c04_19",
+    "original":"不善根。",
+    "folio":158,
+    "stemmed":"不 善 根  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c05_2",
+    "original":"無記根。",
+    "folio":158,
+    "stemmed":"無 記 根  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c05_7",
+    "original":"結縛隨眠。",
+    "folio":158,
+    "stemmed":"結 縛 隨 眠  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c05_12",
+    "original":"隨煩惱纏。",
+    "folio":158,
+    "stemmed":"隨 煩 惱 纏  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c06_3",
+    "original":"當言曾得得未曾得得。",
+    "folio":158,
+    "stemmed":"當 言 曾 得 得 未 曾 得 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c06_14",
+    "original":"答善染污法當言曾得得。",
+    "folio":158,
+    "stemmed":"答 善 染 污 法 當 言 曾 得 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c07_5",
+    "original":"異熟法當言未曾得得。",
+    "folio":158,
+    "stemmed":"異 熟 法 當 言 未 曾 得 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c07_13",
+    "original":"如此則非不成就。",
+    "folio":158,
+    "stemmed":"如 此 則 非 不 成 就  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c08_4",
+    "original":"以得亦有善染污故。",
+    "folio":158,
+    "stemmed":"以 得 亦 有 善 染 污 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c08_10",
+    "original":"答應作是說。",
+    "folio":158,
+    "stemmed":"答 應 作 是 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c09_2",
+    "original":"過去未來得有成就者。",
+    "folio":158,
+    "stemmed":"過去未來 得 有 成 就 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c09_15",
+    "original":"以善及染污法等有三世得故。",
+    "folio":158,
+    "stemmed":"以 善 及 染 污 法 等 有 三 世 得 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c10_5",
+    "original":"問若爾豈非無窮。",
+    "folio":158,
+    "stemmed":"問 若 爾 豈 非 無 窮  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c10_13",
+    "original":"答無窮復有何過。",
+    "folio":158,
+    "stemmed":"答 無 窮 復 有 何 過  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c11_4",
+    "original":"由此生死難斷難越。",
+    "folio":158,
+    "stemmed":"由 此 生 死 難 斷 難 越  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c11_17",
+    "original":"或彼諸得一剎那生無無窮過。",
+    "folio":158,
+    "stemmed":"或 彼 諸 得 一 剎 那 生 無 無 窮 過  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c12_8",
+    "original":"又此諸得但可言多。",
+    "folio":158,
+    "stemmed":"又 此 諸 得 但 可 言 多  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c13_1",
+    "original":"而非無窮猶有分限故。",
+    "folio":158,
+    "stemmed":"而 非 無 窮 猶 有 分 限 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c13_6",
+    "original":"有餘師說。",
+    "folio":158,
+    "stemmed":"有餘師說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c13_17",
+    "original":"無有成就過去未來得者。",
+    "folio":158,
+    "stemmed":"無 有 成 就 過去未來 得 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c14_5",
+    "original":"是故無無窮過。",
+    "folio":158,
+    "stemmed":"是 故 無 無 窮 過  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c14_15",
+    "original":"問此蘊後說當云何通。",
+    "folio":158,
+    "stemmed":"問 此 蘊 後 說 當云何通  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c15_6",
+    "original":"答此蘊後文說所得法。",
+    "folio":158,
+    "stemmed":"答 此 蘊 後 文 說 所 得 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c15_11",
+    "original":"非能得得。",
+    "folio":158,
+    "stemmed":"非 能 得 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c15_16",
+    "original":"斯有何咎。",
+    "folio":158,
+    "stemmed":"斯 有 何 咎  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c16_2",
+    "original":"如是說者。",
+    "folio":158,
+    "stemmed":"如 是 說 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c16_15",
+    "original":"應如初說得如所得應成就故。",
+    "folio":158,
+    "stemmed":"應 如 初 說 得 如 所 得 應 成 就 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c17_7",
+    "original":"又以得故名沙門果。",
+    "folio":158,
+    "stemmed":"又 以 得 故 名 沙 門 果  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c17_16",
+    "original":"若過未得不成就者。",
+    "folio":158,
+    "stemmed":"若 過 未 得 不 成 就 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c18_9",
+    "original":"諸沙門果應剎那捨剎那得。",
+    "folio":158,
+    "stemmed":"諸 沙 門 果 應 剎 那 捨 剎 那 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c18_14",
+    "original":"然無是事。",
+    "folio":158,
+    "stemmed":"然 無 是 事  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c19_4",
+    "original":"又諸聖道有三時捨。",
+    "folio":158,
+    "stemmed":"又 諸 聖 道 有 三 時 捨  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c19_8",
+    "original":"謂退時。",
+    "folio":158,
+    "stemmed":"謂 退 時  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c19_12",
+    "original":"得果時。",
+    "folio":158,
+    "stemmed":"得 果 時  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c19_16",
+    "original":"練根時。",
+    "folio":158,
+    "stemmed":"練 根 時  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c20_5",
+    "original":"若過未得不成就者。",
+    "folio":158,
+    "stemmed":"若 過 未 得 不 成 就 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c20_15",
+    "original":"則聖道應剎那剎那捨。",
+    "folio":158,
+    "stemmed":"則 聖 道 應 剎 那 剎 那 捨  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c21_8",
+    "original":"非謂三時欲令無如是過。",
+    "folio":158,
+    "stemmed":"非 謂 三 時 欲 令 無 如 是 過  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c21_17",
+    "original":"故有成就過未諸得。",
+    "folio":158,
+    "stemmed":"故 有 成 就 過 未 諸 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c22_11",
+    "original":"若成就所得法亦成就彼得。",
+    "folio":158,
+    "stemmed":"若 成 就 所 得 法 亦 成 就 彼 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c23_3",
+    "original":"若所得法捨彼得亦捨。",
+    "folio":158,
+    "stemmed":"若 所 得 法 捨 彼 得 亦 捨  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c23_12",
+    "original":"以法與得捨得同故。",
+    "folio":158,
+    "stemmed":"以 法 與 得 捨 得 同 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c24_1",
+    "original":"然得總有四種。",
+    "folio":158,
+    "stemmed":"然 得 總 有 四 種  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c24_7",
+    "original":"一在彼法前。",
+    "folio":158,
+    "stemmed":"一 在 彼 法 前  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c24_13",
+    "original":"二在彼法後。",
+    "folio":158,
+    "stemmed":"二 在 彼 法 後  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c24_19",
+    "original":"三與彼法俱。",
+    "folio":158,
+    "stemmed":"三 與 彼 法 俱  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c25_8",
+    "original":"四非彼法前後及俱。",
+    "folio":158,
+    "stemmed":"四 非 彼 法 前 後 及 俱  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c25_17",
+    "original":"若所得法則有六種。",
+    "folio":158,
+    "stemmed":"若 所 得 法 則 有 六 種  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c26_8",
+    "original":"一有所得法唯有俱得。",
+    "folio":158,
+    "stemmed":"一 有 所 得 法 唯 有 俱 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c26_14",
+    "original":"如異熟生等。",
+    "folio":158,
+    "stemmed":"如 異 熟 生 等  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c27_6",
+    "original":"二有所得法唯有前得。",
+    "folio":158,
+    "stemmed":"二 有 所 得 法 唯 有 前 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c27_16",
+    "original":"如三類智邊世俗智等。",
+    "folio":158,
+    "stemmed":"如 三 類 智 邊 世 俗 智 等  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c28_1",
+    "original":"有說。",
+    "folio":158,
+    "stemmed":"有 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c28_8",
+    "original":"此等亦有俱得。",
+    "folio":158,
+    "stemmed":"此 等 亦 有 俱 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c29_2",
+    "original":"三有所得法唯有俱得後得。",
+    "folio":158,
+    "stemmed":"三 有 所 得 法 唯 有 俱 得 後 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0801c29_9",
+    "original":"如別解脫戒等。",
+    "folio":158,
+    "stemmed":"如 別解脫戒 等  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a01_3",
+    "original":"四有所得法唯有俱得前得。",
+    "folio":158,
+    "stemmed":"四 有 所 得 法 唯 有 俱 得 前 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a01_10",
+    "original":"如道類智忍等。",
+    "folio":158,
+    "stemmed":"如 道 類 智 忍 等  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a02_4",
+    "original":"五有所得法具有前後俱得。",
+    "folio":158,
+    "stemmed":"五 有 所 得 法 具 有 前 後 俱 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a02_12",
+    "original":"如所餘善染污等。",
+    "folio":158,
+    "stemmed":"如 所 餘 善 染 污 等  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a03_8",
+    "original":"六有所得法不可說有前後俱得。",
+    "folio":158,
+    "stemmed":"六 有 所 得 法 不 可 說 有 前 後 俱 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a03_13",
+    "original":"而有諸得。",
+    "folio":158,
+    "stemmed":"而 有 諸 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a04_2",
+    "original":"謂擇滅非擇滅。",
+    "folio":158,
+    "stemmed":"謂 擇 滅 非 擇 滅  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a04_13",
+    "original":"必無有法唯有法後得者。",
+    "folio":158,
+    "stemmed":"必 無 有 法 唯 有 法 後 得 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a05_4",
+    "original":"現在前時必有得故。",
+    "folio":158,
+    "stemmed":"現 在 前 時 必 有 得 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a05_13",
+    "original":"一切非得總有三種。",
+    "folio":158,
+    "stemmed":"一 切 非 得 總 有 三 種  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a06_1",
+    "original":"一在彼法前。",
+    "folio":158,
+    "stemmed":"一 在 彼 法 前  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a06_15",
+    "original":"二在彼法後三非彼法前後及俱。",
+    "folio":158,
+    "stemmed":"二 在 彼 法 後 三 非 彼 法 前 後 及 俱  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a07_5",
+    "original":"所不得法亦有三種。",
+    "folio":158,
+    "stemmed":"所 不 得 法 亦 有 三 種  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a07_12",
+    "original":"一有所不得法。",
+    "folio":158,
+    "stemmed":"一 有 所 不 得 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a08_12",
+    "original":"唯有彼前非得謂未來情數畢竟不生法。",
+    "folio":158,
+    "stemmed":"唯 有 彼 前 非 得 謂 未 來 情 數 畢竟不生 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a09_7",
+    "original":"及入無餘涅槃最後剎那心等。",
+    "folio":158,
+    "stemmed":"及 入無餘涅槃 最 後 剎 那 心 等  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a09_14",
+    "original":"二有所不得法。",
+    "folio":158,
+    "stemmed":"二 有 所 不 得 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a10_4",
+    "original":"通有彼前彼後非得。",
+    "folio":158,
+    "stemmed":"通 有 彼 前 彼 後 非 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a10_13",
+    "original":"謂餘隨應有情數法。",
+    "folio":158,
+    "stemmed":"謂 餘 隨 應 有 情 數 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a11_1",
+    "original":"三有所不得法。",
+    "folio":158,
+    "stemmed":"三 有 所 不 得 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a11_14",
+    "original":"無彼前後及俱非得而有非得。",
+    "folio":158,
+    "stemmed":"無 彼 前 後 及 俱 非 得 而 有 非 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a12_3",
+    "original":"謂擇滅非擇滅。",
+    "folio":158,
+    "stemmed":"謂 擇 滅 非 擇 滅  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a12_12",
+    "original":"必無非得可與法俱。",
+    "folio":158,
+    "stemmed":"必 無 非 得 可 與 法 俱  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a13_1",
+    "original":"以法現在前時。",
+    "folio":158,
+    "stemmed":"以 法 現 在 前 時  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a13_10",
+    "original":"是所得者必有得故。",
+    "folio":158,
+    "stemmed":"是 所 得 者 必 有 得 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a13_15",
+    "original":"非所得者。",
+    "folio":158,
+    "stemmed":"非 所 得 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a14_2",
+    "original":"無得無非得故。",
+    "folio":158,
+    "stemmed":"無 得 無 非 得 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a14_11",
+    "original":"亦無唯有彼後非得。",
+    "folio":158,
+    "stemmed":"亦 無 唯 有 彼 後 非 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a15_2",
+    "original":"非無始來恒成就彼。",
+    "folio":158,
+    "stemmed":"非 無 始 來 恒 成 就 彼  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a15_11",
+    "original":"未捨必起彼類盡故。",
+    "folio":158,
+    "stemmed":"未 捨 必 起 彼 類 盡 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a16_2",
+    "original":"然諸非得性羸劣故。",
+    "folio":158,
+    "stemmed":"然 諸 非 得 性 羸 劣 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a16_8",
+    "original":"唯成就現在。",
+    "folio":158,
+    "stemmed":"唯 成 就 現 在  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a16_17",
+    "original":"一一剎那得已即捨。",
+    "folio":158,
+    "stemmed":"一 一 剎 那 得 已 即 捨  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a17_8",
+    "original":"於未得彼法及已捨位。",
+    "folio":158,
+    "stemmed":"於 未 得 彼 法 及 已 捨 位  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a17_14",
+    "original":"恒有此非得。",
+    "folio":158,
+    "stemmed":"恒 有 此 非 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a17_17",
+    "original":"應知。",
+    "folio":158,
+    "stemmed":"應 知  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a18_9",
+    "original":"見道所起得有十五類。",
+    "folio":158,
+    "stemmed":"見 道 所 起 得 有 十 五 類  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a19_1",
+    "original":"即十五心時俱起諸得。",
+    "folio":158,
+    "stemmed":"即 十 五 心 時 俱 起 諸 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a19_14",
+    "original":"見道滅位與自所起諸得俱滅。",
+    "folio":158,
+    "stemmed":"見 道 滅 位 與 自 所 起 諸 得 俱 滅  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a20_9",
+    "original":"如日沒時與自所起光明俱沒。",
+    "folio":158,
+    "stemmed":"如 日 沒 時 與 自 所 起 光 明 俱 沒  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a21_1",
+    "original":"然苦法智忍有十五得。",
+    "folio":158,
+    "stemmed":"然 苦 法 智 忍 有 十 五 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a21_9",
+    "original":"苦法智有十四得。",
+    "folio":158,
+    "stemmed":"苦 法 智 有 十 四 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a22_1",
+    "original":"乃至道類智忍但有一得。",
+    "folio":158,
+    "stemmed":"乃 至 道 類 智 忍 但 有 一 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a22_11",
+    "original":"問見道得為但有爾所。",
+    "folio":158,
+    "stemmed":"問 見 道 得 為 但 有 爾 所  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a22_16",
+    "original":"為更有餘。",
+    "folio":158,
+    "stemmed":"為 更 有 餘  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a23_1",
+    "original":"有說。",
+    "folio":158,
+    "stemmed":"有 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a23_6",
+    "original":"但有爾所。",
+    "folio":158,
+    "stemmed":"但 有 爾 所  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a23_9",
+    "original":"有說。",
+    "folio":158,
+    "stemmed":"有 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a23_13",
+    "original":"更有餘。",
+    "folio":158,
+    "stemmed":"更 有 餘  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a24_6",
+    "original":"未來世不生諸得而不可說。",
+    "folio":158,
+    "stemmed":"未 來 世 不 生 諸 得 而 不 可 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a24_11",
+    "original":"此不應理。",
+    "folio":158,
+    "stemmed":"此 不 應 理  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a24_16",
+    "original":"寧當說無。",
+    "folio":158,
+    "stemmed":"寧 當 說 無  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a25_7",
+    "original":"不應言有而不可說。",
+    "folio":158,
+    "stemmed":"不 應 言 有 而 不 可 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a25_12",
+    "original":"如是說者。",
+    "folio":158,
+    "stemmed":"如 是 說 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a26_2",
+    "original":"更有餘未來得。",
+    "folio":158,
+    "stemmed":"更 有 餘 未 來 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a26_11",
+    "original":"苦法智忍一得俱生。",
+    "folio":158,
+    "stemmed":"苦 法 智 忍 一 得 俱 生  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a27_1",
+    "original":"忍得相望互無因義。",
+    "folio":158,
+    "stemmed":"忍 得 相 望 互 無 因 義  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a27_9",
+    "original":"苦法智三得俱生。",
+    "folio":158,
+    "stemmed":"苦 法 智 三 得 俱 生  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a27_13",
+    "original":"二道得。",
+    "folio":158,
+    "stemmed":"二 道 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a27_18",
+    "original":"一離繫得。",
+    "folio":158,
+    "stemmed":"一 離 繫 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a28_2",
+    "original":"二道得者。",
+    "folio":158,
+    "stemmed":"二 道 得 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a28_9",
+    "original":"謂苦法智忍得。",
+    "folio":158,
+    "stemmed":"謂 苦 法 智 忍 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a28_14",
+    "original":"苦法智得。",
+    "folio":158,
+    "stemmed":"苦 法 智 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a28_20",
+    "original":"一離繫得者。",
+    "folio":158,
+    "stemmed":"一 離 繫 得 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a29_11",
+    "original":"謂欲界見苦所斷十繫得滅。",
+    "folio":158,
+    "stemmed":"謂 欲 界 見苦所斷 十 繫 得 滅  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802a29_17",
+    "original":"十離繫得起。",
+    "folio":158,
+    "stemmed":"十 離 繫 得 起  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b01_10",
+    "original":"苦法智與彼三得互不為因。",
+    "folio":158,
+    "stemmed":"苦 法 智 與 彼 三 得 互 不 為 因  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b02_6",
+    "original":"苦法智忍與彼三得皆有因義。",
+    "folio":158,
+    "stemmed":"苦 法 智 忍 與 彼 三 得 皆 有 因 義  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b02_15",
+    "original":"苦類智忍四得俱生。",
+    "folio":158,
+    "stemmed":"苦類智忍 四 得 俱 生  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b03_5",
+    "original":"三道得一離繫得。",
+    "folio":158,
+    "stemmed":"三 道 得 一 離 繫 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b04_1",
+    "original":"苦類智忍與彼四得互不為因。",
+    "folio":158,
+    "stemmed":"苦類智忍 與 彼 四 得 互 不 為 因  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b04_10",
+    "original":"苦法智忍為四得因。",
+    "folio":158,
+    "stemmed":"苦 法 智 忍 為 四 得 因  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b04_18",
+    "original":"苦法智為三得因。",
+    "folio":158,
+    "stemmed":"苦 法 智 為 三 得 因  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b05_6",
+    "original":"除苦法智忍得。",
+    "folio":158,
+    "stemmed":"除 苦 法 智 忍 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b05_17",
+    "original":"以加行善法勝非劣因故。",
+    "folio":158,
+    "stemmed":"以 加 行 善 法 勝 非 劣 因 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b06_9",
+    "original":"有為法得隨法勝劣故。",
+    "folio":158,
+    "stemmed":"有 為 法 得 隨 法 勝 劣 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b06_17",
+    "original":"苦類智六得俱生。",
+    "folio":158,
+    "stemmed":"苦 類 智 六 得 俱 生  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b07_2",
+    "original":"四道得。",
+    "folio":158,
+    "stemmed":"四 道 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b07_7",
+    "original":"二離繫得。",
+    "folio":158,
+    "stemmed":"二 離 繫 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b08_9",
+    "original":"苦類智與彼六得互不為因苦法智忍為六得因。",
+    "folio":158,
+    "stemmed":"苦 類 智 與 彼 六 得 互 不 為 因 苦 法 智 忍 為 六 得 因  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b08_17",
+    "original":"苦法智為五得因。",
+    "folio":158,
+    "stemmed":"苦 法 智 為 五 得 因  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b09_6",
+    "original":"除苦法智忍得。",
+    "folio":158,
+    "stemmed":"除 苦 法 智 忍 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b09_11",
+    "original":"以彼劣故。",
+    "folio":158,
+    "stemmed":"以 彼 劣 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b10_2",
+    "original":"苦類智忍為三得因。",
+    "folio":158,
+    "stemmed":"苦類智忍 為 三 得 因  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b10_11",
+    "original":"除前三得以彼劣故。",
+    "folio":158,
+    "stemmed":"除 前 三 得 以 彼 劣 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b11_3",
+    "original":"問不與前二道得作因。",
+    "folio":158,
+    "stemmed":"問 不 與 前 二 道 得 作 因  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b11_13",
+    "original":"是事可爾彼所得劣故。",
+    "folio":158,
+    "stemmed":"是 事 可 爾 彼 所 得 劣 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b12_4",
+    "original":"不與前離繫得作因。",
+    "folio":158,
+    "stemmed":"不 與 前 離 繫 得 作 因  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b12_9",
+    "original":"云何可爾。",
+    "folio":158,
+    "stemmed":"云 何 可 爾  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b12_16",
+    "original":"彼所得最勝故。",
+    "folio":158,
+    "stemmed":"彼 所 得 最 勝 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b13_13",
+    "original":"答有為法得隨所得法勝劣彼所引故。",
+    "folio":158,
+    "stemmed":"答 有 為 法 得 隨 所 得 法 勝 劣 彼 所 引 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b14_8",
+    "original":"無為法得隨道勝劣道所引故。",
+    "folio":158,
+    "stemmed":"無 為 法 得 隨 道 勝 劣 道 所 引 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b14_17",
+    "original":"彼道劣故彼得非因。",
+    "folio":158,
+    "stemmed":"彼 道 劣 故 彼 得 非 因  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b15_13",
+    "original":"如是乃至道類智忍二十二得俱生。",
+    "folio":158,
+    "stemmed":"如 是 乃 至 道 類 智 忍 二 十 二 得 俱 生  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b15_18",
+    "original":"十五道得。",
+    "folio":158,
+    "stemmed":"十 五 道 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b16_4",
+    "original":"七離繫得。",
+    "folio":158,
+    "stemmed":"七 離 繫 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b16_17",
+    "original":"道類智忍與彼諸得互不為因。",
+    "folio":158,
+    "stemmed":"道 類 智 忍 與 彼 諸 得 互 不 為 因  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b17_12",
+    "original":"苦法智忍皆與二十二得作因。",
+    "folio":158,
+    "stemmed":"苦 法 智 忍 皆 與 二 十 二 得 作 因  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b18_6",
+    "original":"苦法智與二十一得作因。",
+    "folio":158,
+    "stemmed":"苦 法 智 與 二 十 一 得 作 因  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b19_1",
+    "original":"除苦法智忍得乃至道法智。",
+    "folio":158,
+    "stemmed":"除 苦 法 智 忍 得 乃 至 道 法 智  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b19_8",
+    "original":"但與三得作因。",
+    "folio":158,
+    "stemmed":"但 與 三 得 作 因  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b19_13",
+    "original":"謂二道得。",
+    "folio":158,
+    "stemmed":"謂 二 道 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b19_18",
+    "original":"一離繫得。",
+    "folio":158,
+    "stemmed":"一 離 繫 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b20_9",
+    "original":"非前十九得因以彼劣故。",
+    "folio":158,
+    "stemmed":"非 前 十 九 得 因 以 彼 劣 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b21_4",
+    "original":"由此故說頗有前生無漏法。",
+    "folio":158,
+    "stemmed":"由 此 故 說 頗 有 前 生 無 漏 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b21_13",
+    "original":"非後生無漏法因耶。",
+    "folio":158,
+    "stemmed":"非 後 生 無 漏 法 因 耶  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b21_16",
+    "original":"答有。",
+    "folio":158,
+    "stemmed":"答 有  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b22_2",
+    "original":"謂勝於劣。",
+    "folio":158,
+    "stemmed":"謂 勝 於 劣  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b23_8",
+    "original":"苦法智忍現在前時。",
+    "folio":158,
+    "stemmed":"苦 法 智 忍 現 在 前 時  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b23_18",
+    "original":"修未來無量苦法智忍。",
+    "folio":158,
+    "stemmed":"修 未 來 無 量 苦 法 智 忍  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b24_9",
+    "original":"此現在忍與所修為因。",
+    "folio":158,
+    "stemmed":"此 現 在 忍 與 所 修 為 因  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b24_14",
+    "original":"彼是此果。",
+    "folio":158,
+    "stemmed":"彼 是 此 果  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b24_17",
+    "original":"有說。",
+    "folio":158,
+    "stemmed":"有 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b25_12",
+    "original":"此現在忍非所修為因彼非此果。",
+    "folio":158,
+    "stemmed":"此 現 在 忍 非 所 修 為 因 彼 非 此 果  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b26_7",
+    "original":"以彼竟無一剎那現在前故。",
+    "folio":158,
+    "stemmed":"以 彼 竟 無 一 剎 那 現 在 前 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b26_10",
+    "original":"評曰。",
+    "folio":158,
+    "stemmed":"評 曰  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b27_3",
+    "original":"應說此為彼因彼是此果。",
+    "folio":158,
+    "stemmed":"應 說 此 為 彼 因 彼 是 此 果  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b27_12",
+    "original":"一相續攝非劣道故。",
+    "folio":158,
+    "stemmed":"一 相 續 攝 非 劣 道 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b28_6",
+    "original":"如是乃至金剛喻定現在前時。",
+    "folio":158,
+    "stemmed":"如 是 乃 至 金 剛 喻 定 現 在 前 時  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b28_16",
+    "original":"修未來無量金剛喻定。",
+    "folio":158,
+    "stemmed":"修 未 來 無 量 金 剛 喻 定  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b29_11",
+    "original":"此現在定與所修為因彼是此果。",
+    "folio":158,
+    "stemmed":"此 現 在 定 與 所 修 為 因 彼 是 此 果  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802b29_14",
+    "original":"有說。",
+    "folio":158,
+    "stemmed":"有 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c01_9",
+    "original":"此現在定非所修因彼非此果。",
+    "folio":158,
+    "stemmed":"此 現 在 定 非 所 修 因 彼 非 此 果  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c02_4",
+    "original":"以彼竟無一剎那現在前故。",
+    "folio":158,
+    "stemmed":"以 彼 竟 無 一 剎 那 現 在 前 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c02_7",
+    "original":"評曰。",
+    "folio":158,
+    "stemmed":"評 曰  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c02_18",
+    "original":"應說此為彼因彼是此果。",
+    "folio":158,
+    "stemmed":"應 說 此 為 彼 因 彼 是 此 果  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c03_8",
+    "original":"一相續攝非劣道故。",
+    "folio":158,
+    "stemmed":"一 相 續 攝 非 劣 道 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c03_15",
+    "original":"已生苦法智忍。",
+    "folio":158,
+    "stemmed":"已 生 苦 法 智 忍  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c04_7",
+    "original":"與不生苦法智忍為因。",
+    "folio":158,
+    "stemmed":"與 不 生 苦 法 智 忍 為 因  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c05_4",
+    "original":"亦與苦法智等一切學無學道為因。",
+    "folio":158,
+    "stemmed":"亦 與 苦 法 智 等 一 切 學 無 學 道 為 因  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c06_1",
+    "original":"已生苦法智與不生苦法智為因。",
+    "folio":158,
+    "stemmed":"已 生 苦 法 智 與 不 生 苦 法 智 為 因  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c06_9",
+    "original":"亦與苦類智忍等。",
+    "folio":158,
+    "stemmed":"亦 與 苦類智忍 等  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c06_18",
+    "original":"一切學無學道為因。",
+    "folio":158,
+    "stemmed":"一 切 學 無 學 道 為 因  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c07_8",
+    "original":"不與苦法智忍為因。",
+    "folio":158,
+    "stemmed":"不 與 苦 法 智 忍 為 因  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c07_17",
+    "original":"如是乃至已生盡智。",
+    "folio":158,
+    "stemmed":"如 是 乃 至 已 生 盡 智  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c08_7",
+    "original":"與未生盡智為因。",
+    "folio":158,
+    "stemmed":"與 未 生 盡 智 為 因  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c09_5",
+    "original":"亦與後已生未生一切無學道為因。",
+    "folio":158,
+    "stemmed":"亦 與 後 已 生 未 生 一 切 無 學 道 為 因  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c09_14",
+    "original":"不與一切學道為因。",
+    "folio":158,
+    "stemmed":"不 與 一 切 學 道 為 因  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c10_9",
+    "original":"由此故說頗有已生無漏法。",
+    "folio":158,
+    "stemmed":"由 此 故 說 頗 有 已 生 無 漏 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c11_1",
+    "original":"非未生無漏法因耶。",
+    "folio":158,
+    "stemmed":"非 未 生 無 漏 法 因 耶  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c11_4",
+    "original":"答有。",
+    "folio":158,
+    "stemmed":"答 有  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c11_11",
+    "original":"謂已生苦法智。",
+    "folio":158,
+    "stemmed":"謂 已 生 苦 法 智  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c12_1",
+    "original":"非未生苦法智忍因。",
+    "folio":158,
+    "stemmed":"非 未 生 苦 法 智 忍 因  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c12_8",
+    "original":"乃至已生盡智。",
+    "folio":158,
+    "stemmed":"乃 至 已 生 盡 智  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c12_17",
+    "original":"非未生金剛喻定因。",
+    "folio":158,
+    "stemmed":"非 未 生 金 剛 喻 定 因  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c13_7",
+    "original":"勝道不與劣道為因故。",
+    "folio":158,
+    "stemmed":"勝 道 不 與 劣 道 為 因 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c14_12",
+    "original":"苦集諦是有漏彼諸得亦有漏。",
+    "folio":158,
+    "stemmed":"苦 集 諦 是 有 漏 彼 諸 得 亦 有 漏  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c14_18",
+    "original":"滅諦是無漏。",
+    "folio":158,
+    "stemmed":"滅 諦 是 無 漏  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c15_6",
+    "original":"彼諸得或有漏。",
+    "folio":158,
+    "stemmed":"彼 諸 得 或 有 漏  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c15_15",
+    "original":"或無漏道諦是無漏。",
+    "folio":158,
+    "stemmed":"或 無 漏 道 諦 是 無 漏  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c16_3",
+    "original":"彼諸得亦無漏。",
+    "folio":158,
+    "stemmed":"彼 諸 得 亦 無 漏  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c17_1",
+    "original":"又苦集諦是善不善無記彼諸得亦爾。",
+    "folio":158,
+    "stemmed":"又 苦 集 諦 是 善不善無記 彼 諸 得 亦 爾  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c17_8",
+    "original":"滅諦道諦是善。",
+    "folio":158,
+    "stemmed":"滅 諦 道 諦 是 善  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c17_15",
+    "original":"彼諸得亦是善。",
+    "folio":158,
+    "stemmed":"彼 諸 得 亦 是 善  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c18_4",
+    "original":"又苦集諦是三界繫。",
+    "folio":158,
+    "stemmed":"又 苦 集 諦 是 三 界 繫  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c18_10",
+    "original":"彼諸得亦爾。",
+    "folio":158,
+    "stemmed":"彼 諸 得 亦 爾  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c18_16",
+    "original":"滅諦是不繫。",
+    "folio":158,
+    "stemmed":"滅 諦 是 不 繫  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c19_4",
+    "original":"彼諸得或色界繫。",
+    "folio":158,
+    "stemmed":"彼 諸 得 或 色 界 繫  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c19_10",
+    "original":"或無色界繫。",
+    "folio":158,
+    "stemmed":"或 無 色 界 繫  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c19_14",
+    "original":"或不繫。",
+    "folio":158,
+    "stemmed":"或 不 繫  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c19_20",
+    "original":"道諦是不繫。",
+    "folio":158,
+    "stemmed":"道 諦 是 不 繫  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c20_6",
+    "original":"彼諸得亦不繫。",
+    "folio":158,
+    "stemmed":"彼 諸 得 亦 不 繫  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c20_17",
+    "original":"又苦集諦是非學非無學。",
+    "folio":158,
+    "stemmed":"又 苦 集 諦 是 非 學 非 無 學  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c21_4",
+    "original":"彼諸得亦爾。",
+    "folio":158,
+    "stemmed":"彼 諸 得 亦 爾  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c21_13",
+    "original":"滅諦是非學非無學。",
+    "folio":158,
+    "stemmed":"滅 諦 是 非 學 非 無 學  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c22_3",
+    "original":"彼諸得或學或無學。",
+    "folio":158,
+    "stemmed":"彼 諸 得 或 學 或 無 學  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c22_10",
+    "original":"或非學非無學。",
+    "folio":158,
+    "stemmed":"或 非 學 非 無 學  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c22_17",
+    "original":"道諦是學無學。",
+    "folio":158,
+    "stemmed":"道 諦 是 學 無 學  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c23_3",
+    "original":"彼諸得亦爾。",
+    "folio":158,
+    "stemmed":"彼 諸 得 亦 爾  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c23_15",
+    "original":"又苦集諦是見所斷修所斷。",
+    "folio":158,
+    "stemmed":"又 苦 集 諦 是 見 所 斷 修 所 斷  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c24_2",
+    "original":"彼諸得亦爾。",
+    "folio":158,
+    "stemmed":"彼 諸 得 亦 爾  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c24_8",
+    "original":"滅諦是不斷。",
+    "folio":158,
+    "stemmed":"滅 諦 是 不 斷  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c24_16",
+    "original":"彼諸得或修所斷。",
+    "folio":158,
+    "stemmed":"彼 諸 得 或 修 所 斷  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c24_20",
+    "original":"或不斷。",
+    "folio":158,
+    "stemmed":"或 不 斷  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c25_5",
+    "original":"道諦是不斷。",
+    "folio":158,
+    "stemmed":"道 諦 是 不 斷  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c25_12",
+    "original":"彼諸得亦不斷。",
+    "folio":158,
+    "stemmed":"彼 諸 得 亦 不 斷  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c26_4",
+    "original":"又苦集諦是染污不染污。",
+    "folio":158,
+    "stemmed":"又 苦 集 諦 是 染 污 不 染 污  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c26_10",
+    "original":"彼諸得亦爾。",
+    "folio":158,
+    "stemmed":"彼 諸 得 亦 爾  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c26_19",
+    "original":"滅諦道諦是不染污。",
+    "folio":158,
+    "stemmed":"滅 諦 道 諦 是 不 染 污  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c27_5",
+    "original":"彼諸得亦爾。",
+    "folio":158,
+    "stemmed":"彼 諸 得 亦 爾  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c27_14",
+    "original":"又苦集諦是有異熟。",
+    "folio":158,
+    "stemmed":"又 苦 集 諦 是 有 異 熟  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c27_18",
+    "original":"無異熟。",
+    "folio":158,
+    "stemmed":"無 異 熟  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c28_4",
+    "original":"彼諸得亦爾。",
+    "folio":158,
+    "stemmed":"彼 諸 得 亦 爾  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c28_11",
+    "original":"滅諦是無異熟。",
+    "folio":158,
+    "stemmed":"滅 諦 是 無 異 熟  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c29_4",
+    "original":"彼諸得或有異熟或無異熟。",
+    "folio":158,
+    "stemmed":"彼 諸 得 或 有 異 熟 或 無 異 熟  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c29_11",
+    "original":"道諦是無異熟。",
+    "folio":158,
+    "stemmed":"道 諦 是 無 異 熟  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0802c29_17",
+    "original":"彼諸得亦爾。",
+    "folio":158,
+    "stemmed":"彼 諸 得 亦 爾  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a01_7",
+    "original":"又苦集諦是苦集諦攝。",
+    "folio":158,
+    "stemmed":"又 苦 集 諦 是 苦 集 諦 攝  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a01_13",
+    "original":"彼諸得亦爾。",
+    "folio":158,
+    "stemmed":"彼 諸 得 亦 爾  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a02_1",
+    "original":"滅諦是滅諦攝。",
+    "folio":158,
+    "stemmed":"滅 諦 是 滅 諦 攝  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a02_18",
+    "original":"彼諸得是苦集道三諦攝道諦是道諦攝。",
+    "folio":158,
+    "stemmed":"彼 諸 得 是 苦 集 道 三 諦 攝 道 諦 是 道 諦 攝  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a03_5",
+    "original":"彼諸得亦爾。",
+    "folio":158,
+    "stemmed":"彼 諸 得 亦 爾  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a03_14",
+    "original":"所得四諦與能得得。",
+    "folio":158,
+    "stemmed":"所 得 四 諦 與 能 得 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a04_5",
+    "original":"有如是等諸門同異。",
+    "folio":158,
+    "stemmed":"有 如 是 等 諸 門 同 異  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a05_6",
+    "original":"問何地所繫法。",
+    "folio":158,
+    "stemmed":"問 何 地 所 繫 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a05_13",
+    "original":"有幾種離繫得。",
+    "folio":158,
+    "stemmed":"有 幾 種 離 繫 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a06_4",
+    "original":"答欲界乃至無所有處。",
+    "folio":158,
+    "stemmed":"答 欲 界 乃 至 無所有處  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a06_17",
+    "original":"見修所斷法皆有三種離繫得。",
+    "folio":158,
+    "stemmed":"見修所斷 法 皆 有 三 種 離 繫 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a07_8",
+    "original":"謂學無學非學非無學。",
+    "folio":158,
+    "stemmed":"謂 學 無 學 非 學 非 無 學  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a08_1",
+    "original":"非想非非想處見所斷法。",
+    "folio":158,
+    "stemmed":"非想非非想處 見所斷法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a08_10",
+    "original":"及前八品修所斷法。",
+    "folio":158,
+    "stemmed":"及 前 八 品 修 所 斷 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a08_18",
+    "original":"皆有二種離繫得。",
+    "folio":158,
+    "stemmed":"皆 有 二 種 離 繫 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a09_3",
+    "original":"謂學無學。",
+    "folio":158,
+    "stemmed":"謂 學 無 學  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a09_12",
+    "original":"彼第九品修所斷法。",
+    "folio":158,
+    "stemmed":"彼 第 九 品 修 所 斷 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a10_1",
+    "original":"唯有一種離繫得。",
+    "folio":158,
+    "stemmed":"唯 有 一 種 離 繫 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a10_5",
+    "original":"謂無學。",
+    "folio":158,
+    "stemmed":"謂 無 學  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a10_14",
+    "original":"無學初心方初起故。",
+    "folio":158,
+    "stemmed":"無 學 初 心 方 初 起 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a11_1",
+    "original":"問何地所繫法。",
+    "folio":158,
+    "stemmed":"問 何 地 所 繫 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a11_10",
+    "original":"有幾地無漏離繫得。",
+    "folio":158,
+    "stemmed":"有 幾 地 無 漏 離 繫 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a11_15",
+    "original":"或有說者。",
+    "folio":158,
+    "stemmed":"或 有 說 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a12_5",
+    "original":"諸離繫得隨斷對治。",
+    "folio":158,
+    "stemmed":"諸 離 繫 得 隨 斷 對 治  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a12_10",
+    "original":"彼作是說。",
+    "folio":158,
+    "stemmed":"彼 作 是 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a13_4",
+    "original":"欲界見修所斷法無漏離繫得。",
+    "folio":158,
+    "stemmed":"欲 界 見修所斷 法 無 漏 離 繫 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a13_9",
+    "original":"未至定攝。",
+    "folio":158,
+    "stemmed":"未 至 定 攝  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a13_18",
+    "original":"初靜慮見修所斷法。",
+    "folio":158,
+    "stemmed":"初 靜 慮 見修所斷 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a14_7",
+    "original":"無漏離繫得三地攝。",
+    "folio":158,
+    "stemmed":"無 漏 離 繫 得 三 地 攝  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a14_17",
+    "original":"第二靜慮見修所斷法。",
+    "folio":158,
+    "stemmed":"第二靜慮 見修所斷 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a15_7",
+    "original":"無漏離繫得四地攝。",
+    "folio":158,
+    "stemmed":"無 漏 離 繫 得 四 地 攝  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a15_17",
+    "original":"第三靜慮見修所斷法。",
+    "folio":158,
+    "stemmed":"第三靜慮 見修所斷 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a16_7",
+    "original":"無漏離繫得五地攝。",
+    "folio":158,
+    "stemmed":"無 漏 離 繫 得 五 地 攝  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a16_17",
+    "original":"第四靜慮見修所斷法。",
+    "folio":158,
+    "stemmed":"第四靜慮 見修所斷 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a17_7",
+    "original":"及無色界見所斷法。",
+    "folio":158,
+    "stemmed":"及 無 色 界 見所斷法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a17_16",
+    "original":"無漏離繫得六地攝。",
+    "folio":158,
+    "stemmed":"無 漏 離 繫 得 六 地 攝  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a18_6",
+    "original":"空無邊處修所斷法。",
+    "folio":158,
+    "stemmed":"空 無 邊 處 修 所 斷 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a18_15",
+    "original":"無漏離繫得七地攝。",
+    "folio":158,
+    "stemmed":"無 漏 離 繫 得 七 地 攝  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a19_5",
+    "original":"識無邊處修所斷法。",
+    "folio":158,
+    "stemmed":"識無邊處 修 所 斷 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a19_14",
+    "original":"無漏離繫得八地攝。",
+    "folio":158,
+    "stemmed":"無 漏 離 繫 得 八 地 攝  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a20_6",
+    "original":"無所有處非想非非想處。",
+    "folio":158,
+    "stemmed":"無所有處 非想非非想處  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a20_15",
+    "original":"無漏離繫得九地攝。",
+    "folio":158,
+    "stemmed":"無 漏 離 繫 得 九 地 攝  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a21_1",
+    "original":"復有說者。",
+    "folio":158,
+    "stemmed":"復 有 說 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a21_10",
+    "original":"諸離繫得隨壞對治。",
+    "folio":158,
+    "stemmed":"諸 離 繫 得 隨 壞 對 治  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a21_15",
+    "original":"彼作是說。",
+    "folio":158,
+    "stemmed":"彼 作 是 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a22_4",
+    "original":"欲色界見修所斷法。",
+    "folio":158,
+    "stemmed":"欲 色 界 見修所斷 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a22_14",
+    "original":"無漏離繫得皆六地攝。",
+    "folio":158,
+    "stemmed":"無 漏 離 繫 得 皆 六 地 攝  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a23_5",
+    "original":"空無邊處見修所斷法。",
+    "folio":158,
+    "stemmed":"空 無 邊 處 見修所斷 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a23_14",
+    "original":"無漏離繫得七地攝。",
+    "folio":158,
+    "stemmed":"無 漏 離 繫 得 七 地 攝  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a24_5",
+    "original":"識無邊處見修所斷法。",
+    "folio":158,
+    "stemmed":"識無邊處 見修所斷 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a24_14",
+    "original":"無漏離繫得八地攝。",
+    "folio":158,
+    "stemmed":"無 漏 離 繫 得 八 地 攝  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a25_6",
+    "original":"無所有處非想非非想處。",
+    "folio":158,
+    "stemmed":"無所有處 非想非非想處  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a25_12",
+    "original":"見修所斷法。",
+    "folio":158,
+    "stemmed":"見修所斷 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a26_2",
+    "original":"無漏離繫得九地攝。",
+    "folio":158,
+    "stemmed":"無 漏 離 繫 得 九 地 攝  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a26_7",
+    "original":"有作是說。",
+    "folio":158,
+    "stemmed":"有 作 是 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a26_15",
+    "original":"若地有法智品道。",
+    "folio":158,
+    "stemmed":"若 地 有 法 智 品 道  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a27_12",
+    "original":"彼地有欲界見修所斷法無漏離繫得。",
+    "folio":158,
+    "stemmed":"彼 地 有 欲 界 見修所斷 法 無 漏 離 繫 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a28_9",
+    "original":"若地有類智品道彼地有色無色界。",
+    "folio":158,
+    "stemmed":"若 地 有 類 智 品 道 彼 地 有 色無色界  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a29_2",
+    "original":"見修所斷法無漏離繫得。",
+    "folio":158,
+    "stemmed":"見修所斷 法 無 漏 離 繫 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a29_7",
+    "original":"彼作是說。",
+    "folio":158,
+    "stemmed":"彼 作 是 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803a29_15",
+    "original":"欲界見修所斷法。",
+    "folio":158,
+    "stemmed":"欲 界 見修所斷 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b01_4",
+    "original":"無漏離繫得六地攝。",
+    "folio":158,
+    "stemmed":"無 漏 離 繫 得 六 地 攝  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b01_14",
+    "original":"色無色界見修所斷法。",
+    "folio":158,
+    "stemmed":"色無色界 見修所斷 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b02_4",
+    "original":"無漏離繫得九地攝。",
+    "folio":158,
+    "stemmed":"無 漏 離 繫 得 九 地 攝  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b02_7",
+    "original":"評曰。",
+    "folio":158,
+    "stemmed":"評 曰  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b02_14",
+    "original":"此中初說為善。",
+    "folio":158,
+    "stemmed":"此 中 初 說 為 善  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b03_9",
+    "original":"諸離繫得必由斷對治力所引起故。",
+    "folio":158,
+    "stemmed":"諸 離 繫 得 必 由 斷 對 治 力 所 引 起 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b04_10",
+    "original":"問若以滅道法智離色無色界修所斷染時。",
+    "folio":158,
+    "stemmed":"問 若 以 滅 道 法 智 離 色無色界 修 所 斷 染 時  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b05_2",
+    "original":"彼色無色界修所斷法。",
+    "folio":158,
+    "stemmed":"彼 色無色界 修 所 斷 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b05_8",
+    "original":"無漏離繫得。",
+    "folio":158,
+    "stemmed":"無 漏 離 繫 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b05_14",
+    "original":"為法智品攝。",
+    "folio":158,
+    "stemmed":"為 法 智 品 攝  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b06_2",
+    "original":"為類智品攝耶。",
+    "folio":158,
+    "stemmed":"為 類 智 品 攝 耶  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b06_12",
+    "original":"若法智品攝此不應理。",
+    "folio":158,
+    "stemmed":"若 法 智 品 攝 此 不 應 理  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b07_4",
+    "original":"彼法及斷類智所知故。",
+    "folio":158,
+    "stemmed":"彼 法 及 斷 類 智 所 知 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b07_14",
+    "original":"若類智品攝亦不應理。",
+    "folio":158,
+    "stemmed":"若 類 智 品 攝 亦 不 應 理  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b08_5",
+    "original":"彼斷及得法智所證故。",
+    "folio":158,
+    "stemmed":"彼 斷 及 得 法 智 所 證 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b08_10",
+    "original":"有作是說。",
+    "folio":158,
+    "stemmed":"有 作 是 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b09_1",
+    "original":"彼離繫得類智品攝。",
+    "folio":158,
+    "stemmed":"彼 離 繫 得 類 智 品 攝  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b09_14",
+    "original":"問豈不彼斷及得法智所證耶。",
+    "folio":158,
+    "stemmed":"問 豈 不 彼 斷 及 得 法 智 所 證 耶  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b10_7",
+    "original":"答雖法智所證而類智攝。",
+    "folio":158,
+    "stemmed":"答 雖 法 智 所 證 而 類 智 攝  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b10_13",
+    "original":"類智所知故。",
+    "folio":158,
+    "stemmed":"類 智 所 知 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b11_10",
+    "original":"有餘師說彼無漏離繫得法智品攝。",
+    "folio":158,
+    "stemmed":"有餘師說 彼 無 漏 離 繫 得 法 智 品 攝  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b12_5",
+    "original":"問豈不彼法及斷類智所知耶。",
+    "folio":158,
+    "stemmed":"問 豈 不 彼 法 及 斷 類 智 所 知 耶  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b12_16",
+    "original":"答雖類智所知而法智攝。",
+    "folio":158,
+    "stemmed":"答 雖 類 智 所 知 而 法 智 攝  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b13_4",
+    "original":"法智所證故。",
+    "folio":158,
+    "stemmed":"法 智 所 證 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b13_7",
+    "original":"評曰。",
+    "folio":158,
+    "stemmed":"評 曰  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b13_14",
+    "original":"此中初說為善。",
+    "folio":158,
+    "stemmed":"此 中 初 說 為 善  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b14_9",
+    "original":"以類智品是彼不共決定對治故。",
+    "folio":158,
+    "stemmed":"以 類 智 品 是 彼 不 共 決 定 對 治 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b15_5",
+    "original":"問聖者以世俗道離諸地染時。",
+    "folio":158,
+    "stemmed":"問 聖 者 以 世 俗 道 離 諸 地 染 時  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b15_16",
+    "original":"為是曾得道未曾得道耶。",
+    "folio":158,
+    "stemmed":"為 是 曾 得 道 未 曾 得 道 耶  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b16_3",
+    "original":"有作是說。",
+    "folio":158,
+    "stemmed":"有 作 是 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b16_8",
+    "original":"是曾得道。",
+    "folio":158,
+    "stemmed":"是 曾 得 道  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b16_16",
+    "original":"由此道無始時來。",
+    "folio":158,
+    "stemmed":"由 此 道 無始時來  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b17_6",
+    "original":"串習曾得今現前故。",
+    "folio":158,
+    "stemmed":"串 習 曾 得 今 現 前 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b17_11",
+    "original":"彼作是說。",
+    "folio":158,
+    "stemmed":"彼 作 是 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b17_18",
+    "original":"聖者以世俗道。",
+    "folio":158,
+    "stemmed":"聖 者 以 世 俗 道  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b18_11",
+    "original":"離欲界修所斷上上品染時。",
+    "folio":158,
+    "stemmed":"離 欲 界 修 所 斷 上 上 品 染 時  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b19_4",
+    "original":"於欲界修所斷上上品法。",
+    "folio":158,
+    "stemmed":"於 欲 界 修 所 斷 上 上 品 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b19_11",
+    "original":"得二種離繫得。",
+    "folio":158,
+    "stemmed":"得 二 種 離 繫 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b19_16",
+    "original":"一世俗得。",
+    "folio":158,
+    "stemmed":"一 世 俗 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b20_1",
+    "original":"二無漏得。",
+    "folio":158,
+    "stemmed":"二 無 漏 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b20_8",
+    "original":"世俗得是曾得。",
+    "folio":158,
+    "stemmed":"世 俗 得 是 曾 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b20_18",
+    "original":"道類無漏得是聖道類。",
+    "folio":158,
+    "stemmed":"道 類 無 漏 得 是 聖 道 類  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b21_7",
+    "original":"以世俗道現在前時。",
+    "folio":158,
+    "stemmed":"以 世 俗 道 現 在 前 時  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b21_16",
+    "original":"亦修未來無漏道故。",
+    "folio":158,
+    "stemmed":"亦 修 未 來 無 漏 道 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b22_9",
+    "original":"於欲界見所斷上上品法。",
+    "folio":158,
+    "stemmed":"於 欲 界 見 所 斷 上 上 品 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b22_16",
+    "original":"得一種離繫得。",
+    "folio":158,
+    "stemmed":"得 一 種 離 繫 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b23_9",
+    "original":"謂世俗得是曾得道類不得。",
+    "folio":158,
+    "stemmed":"謂 世 俗 得 是 曾 得 道 類 不 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b23_17",
+    "original":"無漏得先已得故。",
+    "folio":158,
+    "stemmed":"無 漏 得 先 已 得 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b24_9",
+    "original":"問若爾云何共對治道。",
+    "folio":158,
+    "stemmed":"問 若爾云何 共 對 治 道  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b24_16",
+    "original":"轉成不共對治。",
+    "folio":158,
+    "stemmed":"轉 成 不 共 對 治  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b25_3",
+    "original":"謂此曾得道。",
+    "folio":158,
+    "stemmed":"謂 此 曾 得 道  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b26_2",
+    "original":"先時總以欲界見修所斷諸法為九品斷。",
+    "folio":158,
+    "stemmed":"先 時 總 以 欲 界 見修所斷 諸 法 為 九 品 斷  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b26_15",
+    "original":"今時此道唯斷欲界修所斷故。",
+    "folio":158,
+    "stemmed":"今 時 此 道 唯 斷 欲 界 修 所 斷 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b27_6",
+    "original":"答此道猶名共對治道。",
+    "folio":158,
+    "stemmed":"答 此 道 猶 名 共 對 治 道  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b27_15",
+    "original":"以此恒有俱斷力故。",
+    "folio":158,
+    "stemmed":"以 此 恒 有 俱 斷 力 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b28_6",
+    "original":"此見所斷先已斷故。",
+    "folio":158,
+    "stemmed":"此 見 所 斷 先 已 斷 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b28_15",
+    "original":"今無可斷非不能斷。",
+    "folio":158,
+    "stemmed":"今 無 可 斷 非 不 能 斷  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b29_6",
+    "original":"是故恒名共對治道。",
+    "folio":158,
+    "stemmed":"是 故 恒 名 共 對 治 道  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803b29_12",
+    "original":"如離上上品。",
+    "folio":158,
+    "stemmed":"如 離 上 上 品  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c01_3",
+    "original":"乃至離下下品亦爾。",
+    "folio":158,
+    "stemmed":"乃 至 離 下 下 品 亦 爾  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c01_11",
+    "original":"如離欲界修所斷。",
+    "folio":158,
+    "stemmed":"如 離 欲 界 修 所 斷  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c02_6",
+    "original":"乃至離無所有處修所斷亦爾。",
+    "folio":158,
+    "stemmed":"乃 至 離 無所有處 修 所 斷 亦 爾  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c02_11",
+    "original":"有餘師說。",
+    "folio":158,
+    "stemmed":"有餘師說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c02_17",
+    "original":"是未曾得道。",
+    "folio":158,
+    "stemmed":"是 未 曾 得 道  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c03_6",
+    "original":"由此道無始時來。",
+    "folio":158,
+    "stemmed":"由 此 道 無始時來  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c03_16",
+    "original":"未習未得唯聖所起故。",
+    "folio":158,
+    "stemmed":"未 習 未 得 唯 聖 所 起 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c04_2",
+    "original":"彼作是說。",
+    "folio":158,
+    "stemmed":"彼 作 是 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c04_9",
+    "original":"聖者以世俗道。",
+    "folio":158,
+    "stemmed":"聖 者 以 世 俗 道  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c05_2",
+    "original":"離欲界修所斷上上品染時。",
+    "folio":158,
+    "stemmed":"離 欲 界 修 所 斷 上 上 品 染 時  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c05_13",
+    "original":"於欲界修所斷上上品法。",
+    "folio":158,
+    "stemmed":"於 欲 界 修 所 斷 上 上 品 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c06_2",
+    "original":"得二種離繫得。",
+    "folio":158,
+    "stemmed":"得 二 種 離 繫 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c06_7",
+    "original":"一世俗得。",
+    "folio":158,
+    "stemmed":"一 世 俗 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c06_12",
+    "original":"二無漏得。",
+    "folio":158,
+    "stemmed":"二 無 漏 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c06_20",
+    "original":"世俗得是未曾得。",
+    "folio":158,
+    "stemmed":"世 俗 得 是 未 曾 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c07_9",
+    "original":"道類無漏得是聖道類。",
+    "folio":158,
+    "stemmed":"道 類 無 漏 得 是 聖 道 類  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c07_18",
+    "original":"以世俗道現在前時。",
+    "folio":158,
+    "stemmed":"以 世 俗 道 現 在 前 時  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c08_8",
+    "original":"亦修未來無漏道故。",
+    "folio":158,
+    "stemmed":"亦 修 未 來 無 漏 道 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c09_1",
+    "original":"於欲界見所斷上上品法。",
+    "folio":158,
+    "stemmed":"於 欲 界 見 所 斷 上 上 品 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c09_7",
+    "original":"不得離繫得。",
+    "folio":158,
+    "stemmed":"不 得 離 繫 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c10_5",
+    "original":"不得世俗得者未曾得道非彼對治故。",
+    "folio":158,
+    "stemmed":"不 得 世 俗 得 者 未 曾 得 道 非 彼 對 治 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c11_12",
+    "original":"不得無漏得者先已得故如離上上品乃至離下中品亦爾。",
+    "folio":158,
+    "stemmed":"不 得 無 漏 得 者 先 已 得 故 如 離 上 上 品 乃 至 離 下 中 品 亦 爾  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c12_5",
+    "original":"如離欲界修所斷八品。",
+    "folio":158,
+    "stemmed":"如 離 欲 界 修 所 斷 八 品  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c12_15",
+    "original":"離初靜慮修所斷八品。",
+    "folio":158,
+    "stemmed":"離 初 靜 慮 修 所 斷 八 品  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c13_11",
+    "original":"乃至離無所有處修所斷八品亦爾。",
+    "folio":158,
+    "stemmed":"乃 至 離 無所有處 修 所 斷 八 品 亦 爾  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c13_18",
+    "original":"離欲界修所斷。",
+    "folio":158,
+    "stemmed":"離 欲 界 修 所 斷  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c14_7",
+    "original":"第九品解脫道時。",
+    "folio":158,
+    "stemmed":"第 九 品 解 脫 道 時  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c15_2",
+    "original":"未來修曾得未曾得二世俗道。",
+    "folio":158,
+    "stemmed":"未 來 修 曾 得 未 曾 得 二 世 俗 道  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c15_12",
+    "original":"爾時於欲界修所斷法。",
+    "folio":158,
+    "stemmed":"爾 時 於 欲 界 修 所 斷 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c16_1",
+    "original":"得三種離繫得。",
+    "folio":158,
+    "stemmed":"得 三 種 離 繫 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c16_8",
+    "original":"一世俗曾得得。",
+    "folio":158,
+    "stemmed":"一 世 俗 曾 得 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c16_14",
+    "original":"謂曾得道類。",
+    "folio":158,
+    "stemmed":"謂 曾 得 道 類  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c17_8",
+    "original":"二世俗未曾得得謂未曾得道類。",
+    "folio":158,
+    "stemmed":"二 世 俗 未 曾 得 得 謂 未 曾 得 道 類  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c17_13",
+    "original":"三無漏得。",
+    "folio":158,
+    "stemmed":"三 無 漏 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c18_6",
+    "original":"謂聖道類於欲界見所斷法。",
+    "folio":158,
+    "stemmed":"謂 聖 道 類 於 欲 界 見所斷法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c18_13",
+    "original":"得二種離繫得。",
+    "folio":158,
+    "stemmed":"得 二 種 離 繫 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c19_2",
+    "original":"除未曾得世俗得。",
+    "folio":158,
+    "stemmed":"除 未 曾 得 世 俗 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c19_12",
+    "original":"問云何知第九解脫時。",
+    "folio":158,
+    "stemmed":"問 云 何 知 第 九 解 脫 時  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c20_7",
+    "original":"能修未來曾得未曾得二世俗道。",
+    "folio":158,
+    "stemmed":"能 修 未 來 曾 得 未 曾 得 二 世 俗 道  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c21_1",
+    "original":"答以說若成就現在他心智。",
+    "folio":158,
+    "stemmed":"答 以 說 若 成 就 現 在 他 心 智  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c21_12",
+    "original":"彼定成就過去他心智故。",
+    "folio":158,
+    "stemmed":"彼 定 成 就 過 去 他 心 智 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c22_4",
+    "original":"問何故離前八品染時。",
+    "folio":158,
+    "stemmed":"問 何 故 離 前 八 品 染 時  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c22_10",
+    "original":"修未曾得道。",
+    "folio":158,
+    "stemmed":"修 未 曾 得 道  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c23_2",
+    "original":"離第九品染解脫道時。",
+    "folio":158,
+    "stemmed":"離 第 九 品 染 解 脫 道 時  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c23_11",
+    "original":"修曾得未曾得道耶。",
+    "folio":158,
+    "stemmed":"修 曾 得 未 曾 得 道 耶  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c24_3",
+    "original":"答離染道異得地亦異。",
+    "folio":158,
+    "stemmed":"答 離 染 道 異 得 地 亦 異  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c24_12",
+    "original":"謂離染道唯未曾得。",
+    "folio":158,
+    "stemmed":"謂 離 染 道 唯 未 曾 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c25_2",
+    "original":"未來所修亦未曾得。",
+    "folio":158,
+    "stemmed":"未 來 所 修 亦 未 曾 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c26_2",
+    "original":"若得地時現離染道雖未曾得得根本地故。",
+    "folio":158,
+    "stemmed":"若 得 地 時 現 離 染 道 雖 未 曾 得 得 根 本 地 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c26_13",
+    "original":"通修未來曾得未曾得道。",
+    "folio":158,
+    "stemmed":"通 修 未 來 曾 得 未 曾 得 道  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c27_6",
+    "original":"如離欲界修所斷第九品。",
+    "folio":158,
+    "stemmed":"如 離 欲 界 修 所 斷 第 九 品  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c28_4",
+    "original":"乃至離無所有處修所斷第九品亦爾。",
+    "folio":158,
+    "stemmed":"乃 至 離 無所有處 修 所 斷 第 九 品 亦 爾  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c28_7",
+    "original":"評曰。",
+    "folio":158,
+    "stemmed":"評 曰  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c28_12",
+    "original":"應作是說。",
+    "folio":158,
+    "stemmed":"應 作 是 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c29_5",
+    "original":"聖者以世俗道離諸地染時。",
+    "folio":158,
+    "stemmed":"聖 者 以 世 俗 道 離 諸 地 染 時  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0803c29_13",
+    "original":"應言是未曾得道。",
+    "folio":158,
+    "stemmed":"應 言 是 未 曾 得 道  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a01_5",
+    "original":"昔來未得唯聖所起故。",
+    "folio":158,
+    "stemmed":"昔 來 未 得 唯 聖 所 起 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a02_1",
+    "original":"然於未來通修曾得未曾得道。",
+    "folio":158,
+    "stemmed":"然 於 未 來 通 修 曾 得 未 曾 得 道  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a02_7",
+    "original":"所對治同故。",
+    "folio":158,
+    "stemmed":"所 對 治 同 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a02_12",
+    "original":"應作是說。",
+    "folio":158,
+    "stemmed":"應 作 是 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a02_19",
+    "original":"聖者以世俗道。",
+    "folio":158,
+    "stemmed":"聖 者 以 世 俗 道  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a03_11",
+    "original":"離欲界修所斷上上品染時。",
+    "folio":158,
+    "stemmed":"離 欲 界 修 所 斷 上 上 品 染 時  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a04_4",
+    "original":"於欲界修所斷上上品法。",
+    "folio":158,
+    "stemmed":"於 欲 界 修 所 斷 上 上 品 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a04_11",
+    "original":"得三種離繫得。",
+    "folio":158,
+    "stemmed":"得 三 種 離 繫 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a04_18",
+    "original":"一世俗曾得得。",
+    "folio":158,
+    "stemmed":"一 世 俗 曾 得 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a05_4",
+    "original":"謂曾得道類。",
+    "folio":158,
+    "stemmed":"謂 曾 得 道 類  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a05_12",
+    "original":"二世俗未曾得得。",
+    "folio":158,
+    "stemmed":"二 世 俗 未 曾 得 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a05_19",
+    "original":"謂未曾得道類。",
+    "folio":158,
+    "stemmed":"謂 未 曾 得 道 類  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a06_4",
+    "original":"三無漏得。",
+    "folio":158,
+    "stemmed":"三 無 漏 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a06_9",
+    "original":"謂聖道類。",
+    "folio":158,
+    "stemmed":"謂 聖 道 類  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a07_1",
+    "original":"於欲界見所斷上上品法。",
+    "folio":158,
+    "stemmed":"於 欲 界 見 所 斷 上 上 品 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a07_8",
+    "original":"得一種離繫得。",
+    "folio":158,
+    "stemmed":"得 一 種 離 繫 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a07_16",
+    "original":"謂曾得世俗道類。",
+    "folio":158,
+    "stemmed":"謂 曾 得 世 俗 道 類  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a08_4",
+    "original":"不得未曾得得者。",
+    "folio":158,
+    "stemmed":"不 得 未 曾 得 得 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a08_14",
+    "original":"未曾得道非彼對治故。",
+    "folio":158,
+    "stemmed":"未 曾 得 道 非 彼 對 治 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a09_3",
+    "original":"不得無漏得者。",
+    "folio":158,
+    "stemmed":"不 得 無 漏 得 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a09_8",
+    "original":"先已得故。",
+    "folio":158,
+    "stemmed":"先 已 得 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a09_14",
+    "original":"如離上上品。",
+    "folio":158,
+    "stemmed":"如 離 上 上 品  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a10_4",
+    "original":"乃至離下下品亦爾。",
+    "folio":158,
+    "stemmed":"乃 至 離 下 下 品 亦 爾  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a10_12",
+    "original":"如離欲界修所斷。",
+    "folio":158,
+    "stemmed":"如 離 欲 界 修 所 斷  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a11_7",
+    "original":"乃至離無所有處修所斷亦爾。",
+    "folio":158,
+    "stemmed":"乃 至 離 無所有處 修 所 斷 亦 爾  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a11_16",
+    "original":"由此故說頗有不退。",
+    "folio":158,
+    "stemmed":"由 此 故 說 頗 有 不 退  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a12_2",
+    "original":"不得果。",
+    "folio":158,
+    "stemmed":"不 得 果  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a12_6",
+    "original":"不轉根。",
+    "folio":158,
+    "stemmed":"不 轉 根  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a12_13",
+    "original":"非見道現在前。",
+    "folio":158,
+    "stemmed":"非 見 道 現 在 前  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a12_19",
+    "original":"亦非異生類。",
+    "folio":158,
+    "stemmed":"亦 非 異 生 類  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a13_11",
+    "original":"而於見所斷法得離繫得耶。",
+    "folio":158,
+    "stemmed":"而 於 見所斷法 得 離 繫 得 耶  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a13_14",
+    "original":"答有。",
+    "folio":158,
+    "stemmed":"答 有  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a14_1",
+    "original":"謂前所說。",
+    "folio":158,
+    "stemmed":"謂 前 所 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a14_12",
+    "original":"唯除離欲染第六九品時。",
+    "folio":158,
+    "stemmed":"唯 除 離 欲 染 第 六 九 品 時  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a15_13",
+    "original":"依所說義應作是說頗有離繫得。",
+    "folio":158,
+    "stemmed":"依 所 說 義 應 作 是 說 頗 有 離 繫 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a16_1",
+    "original":"得而不捨。",
+    "folio":158,
+    "stemmed":"得 而 不 捨  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a16_7",
+    "original":"捨而不得耶。",
+    "folio":158,
+    "stemmed":"捨 而 不 得 耶  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a16_13",
+    "original":"答應作四句。",
+    "folio":158,
+    "stemmed":"答 應 作 四 句  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a16_18",
+    "original":"有離繫得。",
+    "folio":158,
+    "stemmed":"有 離 繫 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a17_4",
+    "original":"得而不捨。",
+    "folio":158,
+    "stemmed":"得 而 不 捨  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a17_12",
+    "original":"謂諸異生離欲界。",
+    "folio":158,
+    "stemmed":"謂 諸 異 生 離 欲 界  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a18_2",
+    "original":"乃至無所有處染時。",
+    "folio":158,
+    "stemmed":"乃 至 無所有處 染 時  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a18_13",
+    "original":"及諸聖者非得果離染時。",
+    "folio":158,
+    "stemmed":"及 諸 聖 者 非 得 果 離 染 時  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a19_4",
+    "original":"有離繫得捨而不得。",
+    "folio":158,
+    "stemmed":"有 離 繫 得 捨 而 不 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a20_5",
+    "original":"謂諸異生從離欲界乃至無所有處染退時。",
+    "folio":158,
+    "stemmed":"謂 諸 異 生 從 離 欲 界 乃 至 無所有處 染 退 時  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a20_15",
+    "original":"及諸聖者非失果退時。",
+    "folio":158,
+    "stemmed":"及 諸 聖 者 非 失 果 退 時  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a21_11",
+    "original":"若從欲界歿生第二靜慮以上時。",
+    "folio":158,
+    "stemmed":"若 從 欲 界 歿 生 第二靜慮 以 上 時  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a22_8",
+    "original":"從初靜慮歿生第二靜慮以上時。",
+    "folio":158,
+    "stemmed":"從 初 靜 慮 歿 生 第二靜慮 以 上 時  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a23_8",
+    "original":"乃至從無所有處歿生非想非非想處時。",
+    "folio":158,
+    "stemmed":"乃 至 從 無所有處 歿 生 非想非非想處 時  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a24_4",
+    "original":"從色無色界諸地歿生欲界時。",
+    "folio":158,
+    "stemmed":"從 色無色界 諸 地 歿 生 欲 界 時  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a24_13",
+    "original":"有離繫得亦得亦捨。",
+    "folio":158,
+    "stemmed":"有 離 繫 得 亦 得 亦 捨  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a25_4",
+    "original":"謂進得四沙門果時。",
+    "folio":158,
+    "stemmed":"謂 進 得 四沙門果 時  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a25_14",
+    "original":"信勝解練根成見至時。",
+    "folio":158,
+    "stemmed":"信 勝 解 練 根 成 見 至 時  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a26_5",
+    "original":"退法種性阿羅漢等。",
+    "folio":158,
+    "stemmed":"退 法 種 性 阿 羅 漢 等  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a26_13",
+    "original":"練根成思法等時。",
+    "folio":158,
+    "stemmed":"練 根 成 思 法 等 時  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a27_3",
+    "original":"從離染或種性退。",
+    "folio":158,
+    "stemmed":"從 離 染 或 種 性 退  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a27_12",
+    "original":"若三若四沙門果時。",
+    "folio":158,
+    "stemmed":"若 三 若 四沙門果 時  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a28_6",
+    "original":"若色無色界上地歿生下地時。",
+    "folio":158,
+    "stemmed":"若 色無色界 上 地 歿 生 下 地 時  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a28_15",
+    "original":"有離繫得非得非捨。",
+    "folio":158,
+    "stemmed":"有 離 繫 得 非 得 非 捨  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a29_2",
+    "original":"謂除前相。",
+    "folio":158,
+    "stemmed":"謂 除 前 相  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804a29_12",
+    "original":"問若先離欲界五品染。",
+    "folio":158,
+    "stemmed":"問 若 先 離 欲 界 五 品 染  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b01_1",
+    "original":"後入正性離生。",
+    "folio":158,
+    "stemmed":"後 入正性離生  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b01_7",
+    "original":"苦法智生時。",
+    "folio":158,
+    "stemmed":"苦 法 智 生 時  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b01_19",
+    "original":"於先所斷見苦所斷五品法。",
+    "folio":158,
+    "stemmed":"於 先 所 斷 見苦所斷 五 品 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b02_11",
+    "original":"及今所斷見苦所斷四品法。",
+    "folio":158,
+    "stemmed":"及 今 所 斷 見苦所斷 四 品 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b03_8",
+    "original":"皆得無漏離繫得乃至道法智生時。",
+    "folio":158,
+    "stemmed":"皆 得 無 漏 離 繫 得 乃 至 道 法 智 生 時  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b04_2",
+    "original":"於先所斷見道所斷五品法。",
+    "folio":158,
+    "stemmed":"於 先 所 斷 見道所斷 五 品 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b04_14",
+    "original":"及今所斷見道所斷四品法。",
+    "folio":158,
+    "stemmed":"及 今 所 斷 見道所斷 四 品 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b05_3",
+    "original":"皆得無漏離繫得。",
+    "folio":158,
+    "stemmed":"皆 得 無 漏 離 繫 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b05_9",
+    "original":"道類智生時。",
+    "folio":158,
+    "stemmed":"道 類 智 生 時  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b06_6",
+    "original":"於三界見所斷法皆得無漏離繫得。",
+    "folio":158,
+    "stemmed":"於 三 界 見所斷法 皆 得 無 漏 離 繫 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b07_1",
+    "original":"彼先所斷欲界修所斷五品法。",
+    "folio":158,
+    "stemmed":"彼 先 所 斷 欲 界 修 所 斷 五 品 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b07_11",
+    "original":"無漏離繫得何時當得。",
+    "folio":158,
+    "stemmed":"無 漏 離 繫 得 何 時 當 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b08_3",
+    "original":"尊者僧伽筏蘇作如是說。",
+    "folio":158,
+    "stemmed":"尊 者 僧 伽 筏 蘇 作如是說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b08_9",
+    "original":"道類智時得。",
+    "folio":158,
+    "stemmed":"道 類 智 時 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b08_17",
+    "original":"以爾時名預流果。",
+    "folio":158,
+    "stemmed":"以 爾 時 名 預 流 果  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b09_5",
+    "original":"亦名一來向故。",
+    "folio":158,
+    "stemmed":"亦 名 一 來 向 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b09_10",
+    "original":"彼說不然。",
+    "folio":158,
+    "stemmed":"彼 說 不 然  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b09_15",
+    "original":"所以者何。",
+    "folio":158,
+    "stemmed":"所以者何  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b11_4",
+    "original":"以於爾時得預流果於一來果向道乃至未起一剎那現前。",
+    "folio":158,
+    "stemmed":"以 於 爾 時 得 預 流 果 於 一 來 果 向 道 乃 至 未 起 一 剎 那 現 前  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b11_13",
+    "original":"如何可說為一來向。",
+    "folio":158,
+    "stemmed":"如 何 可 說 為 一 來 向  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b11_18",
+    "original":"有作是說。",
+    "folio":158,
+    "stemmed":"有 作 是 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b12_9",
+    "original":"起一來果加行道時得。",
+    "folio":158,
+    "stemmed":"起 一 來 果 加 行 道 時 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b13_1",
+    "original":"以是一來向所攝故。",
+    "folio":158,
+    "stemmed":"以 是 一 來 向 所 攝 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b13_6",
+    "original":"有餘師說。",
+    "folio":158,
+    "stemmed":"有餘師說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b13_13",
+    "original":"得一來果時得。",
+    "folio":158,
+    "stemmed":"得 一 來 果 時 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b14_3",
+    "original":"以住第六無間道時。",
+    "folio":158,
+    "stemmed":"以 住 第 六 無 間 道 時  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b14_11",
+    "original":"能引三界見所斷。",
+    "folio":158,
+    "stemmed":"能 引 三 界 見 所 斷  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b15_3",
+    "original":"及欲界修所斷前六品法。",
+    "folio":158,
+    "stemmed":"及 欲 界 修 所 斷 前 六 品 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b15_9",
+    "original":"無漏離繫得。",
+    "folio":158,
+    "stemmed":"無 漏 離 繫 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b15_17",
+    "original":"令起得一來果故。",
+    "folio":158,
+    "stemmed":"令 起 得 一 來 果 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b16_3",
+    "original":"如是說者。",
+    "folio":158,
+    "stemmed":"如 是 說 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b16_14",
+    "original":"從預流果決定起勝進道。",
+    "folio":158,
+    "stemmed":"從 預 流 果 決 定 起 勝 進 道  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b17_2",
+    "original":"彼現前時得。",
+    "folio":158,
+    "stemmed":"彼 現 前 時 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b17_14",
+    "original":"以從下果起趣上勝進道時。",
+    "folio":158,
+    "stemmed":"以 從 下 果 起 趣 上 勝 進 道 時  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b18_11",
+    "original":"必修先所斷上位諸結對治道故。",
+    "folio":158,
+    "stemmed":"必 修 先 所 斷 上 位 諸 結 對 治 道 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b19_11",
+    "original":"問頗有一剎那頃於無漏離繫得有身作證。",
+    "folio":158,
+    "stemmed":"問 頗 有 一 剎 那 頃 於 無 漏 離 繫 得 有 身 作 證  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b20_13",
+    "original":"而慧不見有慧見而身不作證乃至作四句耶。",
+    "folio":158,
+    "stemmed":"而 慧 不 見 有 慧 見 而 身 不 作 證 乃 至 作 四 句 耶  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b20_16",
+    "original":"答有。",
+    "folio":158,
+    "stemmed":"答 有  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b21_5",
+    "original":"謂道類智忍滅。",
+    "folio":158,
+    "stemmed":"謂 道 類 智 忍 滅  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b21_11",
+    "original":"道類智生時。",
+    "folio":158,
+    "stemmed":"道 類 智 生 時  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b21_16",
+    "original":"應作四句。",
+    "folio":158,
+    "stemmed":"應 作 四 句  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b22_4",
+    "original":"有無漏離繫得。",
+    "folio":158,
+    "stemmed":"有 無 漏 離 繫 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b22_12",
+    "original":"身作證而慧不見。",
+    "folio":158,
+    "stemmed":"身 作 證 而 慧 不 見  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b23_6",
+    "original":"謂欲界見所斷法無漏離繫得。",
+    "folio":158,
+    "stemmed":"謂 欲 界 見所斷法 無 漏 離 繫 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b23_13",
+    "original":"有無漏離繫得。",
+    "folio":158,
+    "stemmed":"有 無 漏 離 繫 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b24_3",
+    "original":"慧見而身不作證。",
+    "folio":158,
+    "stemmed":"慧 見 而 身 不 作 證  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b24_18",
+    "original":"謂色無色界修所斷法無漏離繫得。",
+    "folio":158,
+    "stemmed":"謂 色無色界 修 所 斷 法 無 漏 離 繫 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b25_6",
+    "original":"有無漏離繫得。",
+    "folio":158,
+    "stemmed":"有 無 漏 離 繫 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b25_13",
+    "original":"身作證慧亦見。",
+    "folio":158,
+    "stemmed":"身 作 證 慧 亦 見  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b26_9",
+    "original":"謂色無色界見所斷法無漏離繫得。",
+    "folio":158,
+    "stemmed":"謂 色無色界 見所斷法 無 漏 離 繫 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b26_16",
+    "original":"有無漏離繫得。",
+    "folio":158,
+    "stemmed":"有 無 漏 離 繫 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b27_6",
+    "original":"身不作證慧亦不見。",
+    "folio":158,
+    "stemmed":"身 不 作 證 慧 亦 不 見  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b28_1",
+    "original":"謂欲界修所斷法無漏離繫得。",
+    "folio":158,
+    "stemmed":"謂 欲 界 修 所 斷 法 無 漏 離 繫 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b28_14",
+    "original":"問頗有一剎那頃於信等五根。",
+    "folio":158,
+    "stemmed":"問 頗 有 一 剎 那 頃 於 信 等 五 根  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b29_5",
+    "original":"得而不捨捨而不得。",
+    "folio":158,
+    "stemmed":"得 而 不 捨 捨 而 不 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b29_12",
+    "original":"乃至作四句耶。",
+    "folio":158,
+    "stemmed":"乃 至 作 四 句 耶  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804b29_15",
+    "original":"答有。",
+    "folio":158,
+    "stemmed":"答 有  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c01_4",
+    "original":"謂聖者離欲界染。",
+    "folio":158,
+    "stemmed":"謂 聖 者 離 欲 界 染  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c01_12",
+    "original":"住最後無間道時。",
+    "folio":158,
+    "stemmed":"住 最 後 無 間 道 時  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c01_17",
+    "original":"應作四句。",
+    "folio":158,
+    "stemmed":"應 作 四 句  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c02_4",
+    "original":"得而不捨者。",
+    "folio":158,
+    "stemmed":"得 而 不 捨 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c02_11",
+    "original":"謂三地世俗道。",
+    "folio":158,
+    "stemmed":"謂 三 地 世 俗 道  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c03_4",
+    "original":"二地無漏道所攝信等五根。",
+    "folio":158,
+    "stemmed":"二 地 無 漏 道 所 攝 信 等 五 根  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c03_10",
+    "original":"捨而不得者。",
+    "folio":158,
+    "stemmed":"捨 而 不 得 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c04_5",
+    "original":"謂欲界惡作憂根俱生信等五根。",
+    "folio":158,
+    "stemmed":"謂 欲 界 惡 作 憂 根 俱 生 信 等 五 根  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c04_11",
+    "original":"亦得亦捨者。",
+    "folio":158,
+    "stemmed":"亦 得 亦 捨 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c05_6",
+    "original":"謂未至地無漏道所攝信等五根。",
+    "folio":158,
+    "stemmed":"謂 未 至 地 無 漏 道 所 攝 信 等 五 根  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c05_13",
+    "original":"捨無間道所攝。",
+    "folio":158,
+    "stemmed":"捨 無 間 道 所 攝  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c06_1",
+    "original":"得解脫道所攝。",
+    "folio":158,
+    "stemmed":"得 解 脫 道 所 攝  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c06_7",
+    "original":"非得非捨者。",
+    "folio":158,
+    "stemmed":"非 得 非 捨 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c06_12",
+    "original":"謂除前相。",
+    "folio":158,
+    "stemmed":"謂 除 前 相  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c07_4",
+    "original":"問若法過去彼得過去耶。",
+    "folio":158,
+    "stemmed":"問 若 法 過 去 彼 得 過 去 耶  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c07_14",
+    "original":"設得過去彼法過去耶。",
+    "folio":158,
+    "stemmed":"設 得 過 去 彼 法 過 去 耶  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c08_2",
+    "original":"答應作四句。",
+    "folio":158,
+    "stemmed":"答 應 作 四 句  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c08_7",
+    "original":"有法過去。",
+    "folio":158,
+    "stemmed":"有 法 過 去  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c08_13",
+    "original":"彼得非過去。",
+    "folio":158,
+    "stemmed":"彼 得 非 過 去  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c09_2",
+    "original":"謂過去有情數法。",
+    "folio":158,
+    "stemmed":"謂 過 去 有 情 數 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c09_10",
+    "original":"彼得在未來現在。",
+    "folio":158,
+    "stemmed":"彼 得 在 未來現在  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c09_15",
+    "original":"有得過去。",
+    "folio":158,
+    "stemmed":"有 得 過 去  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c10_2",
+    "original":"彼法非過去。",
+    "folio":158,
+    "stemmed":"彼 法 非 過 去  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c10_16",
+    "original":"謂過去得得未來現在有情數法。",
+    "folio":158,
+    "stemmed":"謂 過 去 得 得 未來現在 有 情 數 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c11_4",
+    "original":"及擇滅非擇滅。",
+    "folio":158,
+    "stemmed":"及 擇 滅 非 擇 滅  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c11_9",
+    "original":"有法過去。",
+    "folio":158,
+    "stemmed":"有 法 過 去  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c11_15",
+    "original":"彼得亦過去。",
+    "folio":158,
+    "stemmed":"彼 得 亦 過 去  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c12_3",
+    "original":"謂過去有情數法。",
+    "folio":158,
+    "stemmed":"謂 過 去 有 情 數 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c12_9",
+    "original":"彼得在過去。",
+    "folio":158,
+    "stemmed":"彼 得 在 過 去  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c12_15",
+    "original":"有法非過去。",
+    "folio":158,
+    "stemmed":"有 法 非 過 去  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c13_4",
+    "original":"彼得亦非過去。",
+    "folio":158,
+    "stemmed":"彼 得 亦 非 過 去  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c14_2",
+    "original":"謂未來現在得得未來現在有情數法。",
+    "folio":158,
+    "stemmed":"謂 未來現在 得 得 未來現在 有 情 數 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c14_9",
+    "original":"及擇滅非擇滅。",
+    "folio":158,
+    "stemmed":"及 擇 滅 非 擇 滅  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c14_16",
+    "original":"如過去作四句。",
+    "folio":158,
+    "stemmed":"如 過 去 作 四 句  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c15_6",
+    "original":"未來現在各作四句。",
+    "folio":158,
+    "stemmed":"未來現在 各 作 四 句  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c15_11",
+    "original":"如理應知。",
+    "folio":158,
+    "stemmed":"如 理 應 知  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c15_18",
+    "original":"問若法在過去。",
+    "folio":158,
+    "stemmed":"問 若 法 在 過 去  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c16_7",
+    "original":"彼法有過去得耶。",
+    "folio":158,
+    "stemmed":"彼 法 有 過 去 得 耶  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c16_14",
+    "original":"設法有過去得。",
+    "folio":158,
+    "stemmed":"設 法 有 過 去 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c17_3",
+    "original":"彼法在過去耶。",
+    "folio":158,
+    "stemmed":"彼 法 在 過 去 耶  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c17_9",
+    "original":"答應作四句。",
+    "folio":158,
+    "stemmed":"答 應 作 四 句  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c17_15",
+    "original":"有法在過去。",
+    "folio":158,
+    "stemmed":"有 法 在 過 去  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c18_4",
+    "original":"彼法無過去得。",
+    "folio":158,
+    "stemmed":"彼 法 無 過 去 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c18_13",
+    "original":"謂過去非有情數法。",
+    "folio":158,
+    "stemmed":"謂 過 去 非有情數 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c19_2",
+    "original":"有法有過去得。",
+    "folio":158,
+    "stemmed":"有 法 有 過 去 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c19_9",
+    "original":"彼法不在過去。",
+    "folio":158,
+    "stemmed":"彼 法 不 在 過 去  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c19_16",
+    "original":"謂擇滅非擇滅。",
+    "folio":158,
+    "stemmed":"謂 擇 滅 非 擇 滅  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c20_7",
+    "original":"及未來現在有情數法。",
+    "folio":158,
+    "stemmed":"及 未來現在 有 情 數 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c20_12",
+    "original":"有過去得。",
+    "folio":158,
+    "stemmed":"有 過 去 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c20_18",
+    "original":"有法在過去。",
+    "folio":158,
+    "stemmed":"有 法 在 過 去  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c21_7",
+    "original":"彼法亦有過去得。",
+    "folio":158,
+    "stemmed":"彼 法 亦 有 過 去 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c21_15",
+    "original":"謂過去有情數法。",
+    "folio":158,
+    "stemmed":"謂 過 去 有 情 數 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c22_3",
+    "original":"有法非在過去。",
+    "folio":158,
+    "stemmed":"有 法 非 在 過 去  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c22_12",
+    "original":"彼法亦非有過去得。",
+    "folio":158,
+    "stemmed":"彼 法 亦 非 有 過 去 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c23_5",
+    "original":"謂未來現在非有情數法。",
+    "folio":158,
+    "stemmed":"謂 未來現在 非有情數 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c24_2",
+    "original":"及虛空無為并未來現在有情數法。",
+    "folio":158,
+    "stemmed":"及 虛 空 無 為 并 未來現在 有 情 數 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c24_13",
+    "original":"及擇滅非擇滅無過去得。",
+    "folio":158,
+    "stemmed":"及 擇 滅 非 擇 滅 無 過 去 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c25_2",
+    "original":"如過去作四句。",
+    "folio":158,
+    "stemmed":"如 過 去 作 四 句  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c25_11",
+    "original":"未來現在各作四句。",
+    "folio":158,
+    "stemmed":"未來現在 各 作 四 句  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c25_16",
+    "original":"如理應知。",
+    "folio":158,
+    "stemmed":"如 理 應 知  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c26_6",
+    "original":"問若法不在過去。",
+    "folio":158,
+    "stemmed":"問 若 法 不 在 過 去  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c26_14",
+    "original":"彼法無過去得耶。",
+    "folio":158,
+    "stemmed":"彼 法 無 過 去 得 耶  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c27_3",
+    "original":"設法無過去得。",
+    "folio":158,
+    "stemmed":"設 法 無 過 去 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c27_11",
+    "original":"彼法不在過去耶。",
+    "folio":158,
+    "stemmed":"彼 法 不 在 過 去 耶  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c27_17",
+    "original":"答應作四句。",
+    "folio":158,
+    "stemmed":"答 應 作 四 句  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c28_8",
+    "original":"前第二句作此第一句。",
+    "folio":158,
+    "stemmed":"前 第 二 句 作 此 第 一 句  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c28_18",
+    "original":"前第一句作此第二句。",
+    "folio":158,
+    "stemmed":"前 第 一 句 作 此 第 二 句  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0804c29_9",
+    "original":"前第四句作此第三句。",
+    "folio":158,
+    "stemmed":"前 第 四 句 作 此 第 三 句  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a01_1",
+    "original":"前第三句作此第四句。",
+    "folio":158,
+    "stemmed":"前 第 三 句 作 此 第 四 句  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a02_3",
+    "original":"如前應知如過去作四句未來現在各作四句。",
+    "folio":158,
+    "stemmed":"如 前 應 知 如 過 去 作 四 句 未來現在 各 作 四 句  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a02_8",
+    "original":"如理應知。",
+    "folio":158,
+    "stemmed":"如 理 應 知  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a03_3",
+    "original":"問若法有得彼法有離繫得耶。",
+    "folio":158,
+    "stemmed":"問 若 法 有 得 彼 法 有 離 繫 得 耶  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a03_10",
+    "original":"設法有離繫得。",
+    "folio":158,
+    "stemmed":"設 法 有 離 繫 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a03_16",
+    "original":"彼法有得耶。",
+    "folio":158,
+    "stemmed":"彼 法 有 得 耶  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a04_3",
+    "original":"答應作四句。",
+    "folio":158,
+    "stemmed":"答 應 作 四 句  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a04_15",
+    "original":"有法有得彼法非有離繫得。",
+    "folio":158,
+    "stemmed":"有 法 有 得 彼 法 非 有 離 繫 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a05_4",
+    "original":"謂無漏有為法。",
+    "folio":158,
+    "stemmed":"謂 無 漏 有 為 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a05_11",
+    "original":"及擇滅非擇滅。",
+    "folio":158,
+    "stemmed":"及 擇 滅 非 擇 滅  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a05_18",
+    "original":"有法有離繫得。",
+    "folio":158,
+    "stemmed":"有 法 有 離 繫 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a06_5",
+    "original":"彼法非有得。",
+    "folio":158,
+    "stemmed":"彼 法 非 有 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a06_12",
+    "original":"謂非有情數法。",
+    "folio":158,
+    "stemmed":"謂 非有情數 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a07_6",
+    "original":"有法有得彼法亦有離繫得。",
+    "folio":158,
+    "stemmed":"有 法 有 得 彼 法 亦 有 離 繫 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a07_14",
+    "original":"謂有漏有情數法。",
+    "folio":158,
+    "stemmed":"謂 有 漏 有 情 數 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a08_2",
+    "original":"有法非有得。",
+    "folio":158,
+    "stemmed":"有 法 非 有 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a08_11",
+    "original":"彼法亦非有離繫得。",
+    "folio":158,
+    "stemmed":"彼 法 亦 非 有 離 繫 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a08_17",
+    "original":"謂虛空無為。",
+    "folio":158,
+    "stemmed":"謂 虛 空 無 為  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a09_11",
+    "original":"問若法無得彼法無離繫得耶。",
+    "folio":158,
+    "stemmed":"問 若 法 無 得 彼 法 無 離 繫 得 耶  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a10_1",
+    "original":"設法無離繫得。",
+    "folio":158,
+    "stemmed":"設 法 無 離 繫 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a10_7",
+    "original":"彼法無得耶。",
+    "folio":158,
+    "stemmed":"彼 法 無 得 耶  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a10_13",
+    "original":"答應作四句。",
+    "folio":158,
+    "stemmed":"答 應 作 四 句  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a11_4",
+    "original":"前第二句作此第一句。",
+    "folio":158,
+    "stemmed":"前 第 二 句 作 此 第 一 句  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a12_5",
+    "original":"前第一句作此第二句前第四句作此第三句。",
+    "folio":158,
+    "stemmed":"前 第 一 句 作 此 第 二 句 前 第 四 句 作 此 第 三 句  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a12_15",
+    "original":"前第三句作此第四句。",
+    "folio":158,
+    "stemmed":"前 第 三 句 作 此 第 四 句  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a13_2",
+    "original":"如前應知。",
+    "folio":158,
+    "stemmed":"如 前 應 知  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a14_11",
+    "original":"問若法應修彼法得應修耶。",
+    "folio":158,
+    "stemmed":"問 若 法 應 修 彼 法 得 應 修 耶  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a15_5",
+    "original":"設法得應修彼法應修耶。",
+    "folio":158,
+    "stemmed":"設 法 得 應 修 彼 法 應 修 耶  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a15_17",
+    "original":"答若法應修彼法得亦應修。",
+    "folio":158,
+    "stemmed":"答 若 法 應 修 彼 法 得 亦 應 修  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a16_5",
+    "original":"有法得應修。",
+    "folio":158,
+    "stemmed":"有 法 得 應 修  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a16_11",
+    "original":"彼法非應修。",
+    "folio":158,
+    "stemmed":"彼 法 非 應 修  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a16_15",
+    "original":"謂擇滅。",
+    "folio":158,
+    "stemmed":"謂 擇 滅  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a17_2",
+    "original":"問若法應斷。",
+    "folio":158,
+    "stemmed":"問 若 法 應 斷  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a17_9",
+    "original":"彼法得應斷耶。",
+    "folio":158,
+    "stemmed":"彼 法 得 應 斷 耶  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a17_15",
+    "original":"設法得應斷。",
+    "folio":158,
+    "stemmed":"設 法 得 應 斷  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a18_2",
+    "original":"彼法應斷耶。",
+    "folio":158,
+    "stemmed":"彼 法 應 斷 耶  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a19_2",
+    "original":"答若法應斷彼法得亦應斷有法得應斷。",
+    "folio":158,
+    "stemmed":"答 若 法 應 斷 彼 法 得 亦 應 斷 有 法 得 應 斷  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a19_11",
+    "original":"彼法非應斷謂擇滅。",
+    "folio":158,
+    "stemmed":"彼 法 非 應 斷 謂 擇 滅  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a19_14",
+    "original":"一分。",
+    "folio":158,
+    "stemmed":"一 分  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a19_19",
+    "original":"及非擇滅。",
+    "folio":158,
+    "stemmed":"及 非 擇 滅  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a20_5",
+    "original":"問若法應厭。",
+    "folio":158,
+    "stemmed":"問 若 法 應 厭  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a20_12",
+    "original":"彼法得應厭耶。",
+    "folio":158,
+    "stemmed":"彼 法 得 應 厭 耶  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a20_18",
+    "original":"設法得應厭。",
+    "folio":158,
+    "stemmed":"設 法 得 應 厭  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a21_5",
+    "original":"彼法應厭耶。",
+    "folio":158,
+    "stemmed":"彼 法 應 厭 耶  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a21_11",
+    "original":"答若法應厭。",
+    "folio":158,
+    "stemmed":"答 若 法 應 厭  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a21_18",
+    "original":"彼法得亦應厭。",
+    "folio":158,
+    "stemmed":"彼 法 得 亦 應 厭  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a22_5",
+    "original":"有法得應厭。",
+    "folio":158,
+    "stemmed":"有 法 得 應 厭  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a22_11",
+    "original":"彼法非應厭。",
+    "folio":158,
+    "stemmed":"彼 法 非 應 厭  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a22_17",
+    "original":"謂擇滅一分。",
+    "folio":158,
+    "stemmed":"謂 擇 滅 一 分  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a23_3",
+    "original":"及非擇滅。",
+    "folio":158,
+    "stemmed":"及 非 擇 滅  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a23_13",
+    "original":"問何故諸得隨所得法。",
+    "folio":158,
+    "stemmed":"問 何 故 諸 得 隨 所 得 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a24_6",
+    "original":"成善等性而不成色等耶。",
+    "folio":158,
+    "stemmed":"成 善 等 性 而 不 成 色 等 耶  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a24_15",
+    "original":"答善等是諸法性類。",
+    "folio":158,
+    "stemmed":"答 善 等 是 諸 法 性 類  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a25_6",
+    "original":"諸法性類可相隨轉。",
+    "folio":158,
+    "stemmed":"諸 法 性 類 可 相 隨 轉  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a25_14",
+    "original":"色等是諸法自體。",
+    "folio":158,
+    "stemmed":"色 等 是 諸 法 自 體  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a26_4",
+    "original":"諸法自體無相隨義。",
+    "folio":158,
+    "stemmed":"諸 法 自 體 無 相 隨 義  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a26_7",
+    "original":"有說。",
+    "folio":158,
+    "stemmed":"有 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a26_17",
+    "original":"善等是共相可隨而轉。",
+    "folio":158,
+    "stemmed":"善 等 是 共 相 可 隨 而 轉  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a27_8",
+    "original":"色等是自相無相隨義。",
+    "folio":158,
+    "stemmed":"色 等 是 自 相 無 相 隨 義  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a28_4",
+    "original":"問何故諸得隨所得法定是善等。",
+    "folio":158,
+    "stemmed":"問 何 故 諸 得 隨 所 得 法 定 是 善 等  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a28_16",
+    "original":"不隨所得法定是過去等耶。",
+    "folio":158,
+    "stemmed":"不 隨 所 得 法 定 是 過 去 等 耶  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a29_9",
+    "original":"答所得諸法行世不定故。",
+    "folio":158,
+    "stemmed":"答 所 得 諸 法 行 世 不 定 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805a29_17",
+    "original":"能得得世亦不定。",
+    "folio":158,
+    "stemmed":"能 得 得 世 亦 不 定  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b01_8",
+    "original":"所得諸法善等性定故。",
+    "folio":158,
+    "stemmed":"所 得 諸 法 善 等 性 定 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b01_16",
+    "original":"能得得善等亦定。",
+    "folio":158,
+    "stemmed":"能 得 得 善 等 亦 定  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b02_5",
+    "original":"問諸得幾識所識。",
+    "folio":158,
+    "stemmed":"問 諸 得 幾 識 所 識  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b02_10",
+    "original":"幾智所知。",
+    "folio":158,
+    "stemmed":"幾 智 所 知  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b03_1",
+    "original":"幾隨眠之所隨增耶。",
+    "folio":158,
+    "stemmed":"幾 隨 眠 之 所 隨 增 耶  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b03_9",
+    "original":"答諸得一識所識。",
+    "folio":158,
+    "stemmed":"答 諸 得 一 識 所 識  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b04_2",
+    "original":"謂意識法界法處行蘊攝故。",
+    "folio":158,
+    "stemmed":"謂 意 識 法 界 法 處 行 蘊 攝 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b04_10",
+    "original":"八智所知除滅智。",
+    "folio":158,
+    "stemmed":"八 智 所 知 除 滅 智  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b05_4",
+    "original":"他心智以是有為不相應故。",
+    "folio":158,
+    "stemmed":"他 心 智 以 是 有 為 不 相 應 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b05_18",
+    "original":"三界五部有漏緣隨眠之所隨增。",
+    "folio":158,
+    "stemmed":"三 界 五 部 有 漏 緣 隨 眠 之 所 隨 增  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b06_10",
+    "original":"以於得中無相應隨增故。",
+    "folio":158,
+    "stemmed":"以 於 得 中 無 相 應 隨 增 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b07_2",
+    "original":"問諸非得幾識所識。",
+    "folio":158,
+    "stemmed":"問 諸 非 得 幾 識 所 識  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b07_7",
+    "original":"幾智所知。",
+    "folio":158,
+    "stemmed":"幾 智 所 知  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b07_16",
+    "original":"幾隨眠之所隨增耶。",
+    "folio":158,
+    "stemmed":"幾 隨 眠 之 所 隨 增 耶  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b08_6",
+    "original":"答諸非得一識所識。",
+    "folio":158,
+    "stemmed":"答 諸 非 得 一 識 所 識  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b08_10",
+    "original":"謂意識。",
+    "folio":158,
+    "stemmed":"謂 意 識  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b09_1",
+    "original":"亦法界法處行蘊攝故。",
+    "folio":158,
+    "stemmed":"亦 法 界 法 處 行 蘊 攝 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b09_6",
+    "original":"七智所知。",
+    "folio":158,
+    "stemmed":"七 智 所 知  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b09_15",
+    "original":"除滅智道智他心智。",
+    "folio":158,
+    "stemmed":"除 滅 智 道 智 他 心 智  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b10_5",
+    "original":"以是有漏不相應故。",
+    "folio":158,
+    "stemmed":"以 是 有 漏 不 相 應 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b10_11",
+    "original":"三界修所斷。",
+    "folio":158,
+    "stemmed":"三 界 修 所 斷  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b11_3",
+    "original":"及諸遍行隨眠之所隨增。",
+    "folio":158,
+    "stemmed":"及 諸 遍 行 隨 眠 之 所 隨 增  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b11_12",
+    "original":"以非得唯修所斷故。",
+    "folio":158,
+    "stemmed":"以 非 得 唯 修 所 斷 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b12_6",
+    "original":"問頗有捨得而不得非得耶。",
+    "folio":158,
+    "stemmed":"問 頗 有 捨 得 而 不 得 非 得 耶  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b12_9",
+    "original":"答有。",
+    "folio":158,
+    "stemmed":"答 有  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b12_17",
+    "original":"謂入無餘涅槃時。",
+    "folio":158,
+    "stemmed":"謂 入無餘涅槃 時  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b13_13",
+    "original":"捨諸法得而不得非得所依斷故。",
+    "folio":158,
+    "stemmed":"捨 諸 法 得 而 不 得 非 得 所 依 斷 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b14_6",
+    "original":"問頗有諸法先起非得。",
+    "folio":158,
+    "stemmed":"問 頗 有 諸 法 先 起 非 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b14_17",
+    "original":"一得以去更不起非得耶。",
+    "folio":158,
+    "stemmed":"一 得 以 去 更 不 起 非 得 耶  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b15_2",
+    "original":"答有。",
+    "folio":158,
+    "stemmed":"答 有  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b15_8",
+    "original":"謂諸非擇滅。",
+    "folio":158,
+    "stemmed":"謂 諸 非 擇 滅  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b15_14",
+    "original":"及無生智等。",
+    "folio":158,
+    "stemmed":"及 無 生 智 等  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b16_10",
+    "original":"一得以去乃至無餘涅槃前恒成就故。",
+    "folio":158,
+    "stemmed":"一 得 以 去 乃 至 無餘涅槃 前 恒 成 就 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b17_6",
+    "original":"問頗有諸法本來有得無非得耶。",
+    "folio":158,
+    "stemmed":"問 頗 有 諸 法 本 來 有 得 無 非 得 耶  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b17_10",
+    "original":"有說無。",
+    "folio":158,
+    "stemmed":"有 說 無  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b18_2",
+    "original":"以有得者必有非得故。",
+    "folio":158,
+    "stemmed":"以 有 得 者 必 有 非 得 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b18_5",
+    "original":"有說。",
+    "folio":158,
+    "stemmed":"有 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b18_7",
+    "original":"有。",
+    "folio":158,
+    "stemmed":"有  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b18_17",
+    "original":"如三類智邊世俗智等。",
+    "folio":158,
+    "stemmed":"如 三 類 智 邊 世 俗 智 等  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b19_10",
+    "original":"非擇滅法本來有得無有非得。",
+    "folio":158,
+    "stemmed":"非 擇 滅 法 本 來 有 得 無 有 非 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b20_2",
+    "original":"以彼本來定不生故。",
+    "folio":158,
+    "stemmed":"以 彼 本 來 定 不 生 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b21_13",
+    "original":"問如有一得能得彼法及得得亦有一非得能捨彼法及非得非得耶。",
+    "folio":158,
+    "stemmed":"問 如 有 一 得 能 得 彼 法 及 得 得 亦 有 一 非 得 能 捨 彼 法 及 非 得 非 得 耶  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b21_16",
+    "original":"答無。",
+    "folio":158,
+    "stemmed":"答 無  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b22_10",
+    "original":"以非得同時無非得非得故。",
+    "folio":158,
+    "stemmed":"以 非 得 同 時 無 非 得 非 得 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b23_2",
+    "original":"以現在非得必成就故。",
+    "folio":158,
+    "stemmed":"以 現 在 非 得 必 成 就 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b23_12",
+    "original":"問頗有法無得無非得。",
+    "folio":158,
+    "stemmed":"問 頗 有 法 無 得 無 非 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b24_4",
+    "original":"彼法滅有得有非得耶。",
+    "folio":158,
+    "stemmed":"彼 法 滅 有 得 有 非 得 耶  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b24_7",
+    "original":"答有。",
+    "folio":158,
+    "stemmed":"答 有  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b24_16",
+    "original":"謂一切非有情數法。",
+    "folio":158,
+    "stemmed":"謂 一 切 非有情數 法  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_158:0805b26_100",
+    "original":"說一切有部發智大毘婆沙論卷第一百五十八",
+    "folio":158,
+    "stemmed":"說 一 切 有 部 發 智 大 毘 婆 沙 論 卷 第 一 百 五 十 八 "
+  }
+]

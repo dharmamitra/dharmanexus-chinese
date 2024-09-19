@@ -1,0 +1,4382 @@
+[
+  {
+    "segmentnr":"ZH_T50_2058_001:0297a03_0",
+    "original":"付法藏因緣傳卷第一",
+    "folio":1,
+    "stemmed":"付 法 藏 因 緣 傳 卷 第 一 "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297a05_0",
+    "original":"元魏西域三藏吉迦夜共曇曜譯",
+    "folio":1,
+    "stemmed":"元 魏 西 域 三 藏 吉 迦 夜 共 曇 曜 譯 "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297a06_0",
+    "original":"敬禮無邊際　　去來現在佛",
+    "folio":1,
+    "stemmed":"敬 禮 無 邊 際   去來現在 佛 "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297a07_0",
+    "original":"等空不動智　　救世大悲尊",
+    "folio":1,
+    "stemmed":"等 空 不 動 智   救 世 大 悲 尊 "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297a08_4",
+    "original":"昔婆伽婆。",
+    "folio":1,
+    "stemmed":"昔 婆 伽 婆  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297a08_17",
+    "original":"於無量劫為眾生故求最勝道。",
+    "folio":1,
+    "stemmed":"於 無 量 劫 為 眾 生 故 求 最 勝 道  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297a09_7",
+    "original":"成就種種難行苦行。",
+    "folio":1,
+    "stemmed":"成 就 種 種 難行苦行  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297a10_6",
+    "original":"捨所愛身頭目髓腦國城妻子宮殿臣妾。",
+    "folio":1,
+    "stemmed":"捨 所 愛 身 頭 目 髓 腦 國 城 妻 子 宮 殿 臣 妾  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297a10_15",
+    "original":"投巖赴火斬截身體。",
+    "folio":1,
+    "stemmed":"投 巖 赴 火 斬 截 身 體  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297a12_11",
+    "original":"或時有為一四句偈剝皮為紙折骨為筆以血為墨書寫供養諮學明師稟受諸佛。",
+    "folio":1,
+    "stemmed":"或 時 有 為 一四句偈 剝 皮 為 紙 折 骨 為 筆 以 血 為 墨 書 寫 供 養 諮 學 明 師 稟 受 諸 佛  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297a13_2",
+    "original":"悲傷群生勞謙累德。",
+    "folio":1,
+    "stemmed":"悲 傷 群 生 勞 謙 累 德  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297a13_11",
+    "original":"修萬善行發洪誓願。",
+    "folio":1,
+    "stemmed":"修 萬 善 行 發 洪 誓 願  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297a14_2",
+    "original":"如五百本生緣中廣說。",
+    "folio":1,
+    "stemmed":"如 五 百 本 生 緣 中 廣 說  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297a14_11",
+    "original":"本學具足垂成正覺。",
+    "folio":1,
+    "stemmed":"本 學 具 足 垂 成 正 覺  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297a15_1",
+    "original":"菩提樹下跏趺而坐。",
+    "folio":1,
+    "stemmed":"菩提樹下 跏 趺 而 坐  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297a15_10",
+    "original":"第六天魔深生愁毒。",
+    "folio":1,
+    "stemmed":"第 六 天 魔 深 生 愁 毒  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297a15_19",
+    "original":"念其道成必當勝我。",
+    "folio":1,
+    "stemmed":"念 其 道 成 必 當 勝 我  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297a16_8",
+    "original":"即率官屬十八萬億。",
+    "folio":1,
+    "stemmed":"即 率 官 屬 十 八 萬 億  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297a16_17",
+    "original":"詣樹王下謂菩薩曰。",
+    "folio":1,
+    "stemmed":"詣 樹 王 下 謂 菩 薩 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297a17_7",
+    "original":"汝今宜可速起還宮。",
+    "folio":1,
+    "stemmed":"汝 今 宜 可 速 起 還 宮  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297a17_12",
+    "original":"若不爾者。",
+    "folio":1,
+    "stemmed":"若 不 爾 者  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297a18_2",
+    "original":"當持汝足擲大海外。",
+    "folio":1,
+    "stemmed":"當 持 汝 足 擲 大 海 外  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297a18_15",
+    "original":"爾時菩薩如師子王心無驚畏。",
+    "folio":1,
+    "stemmed":"爾 時 菩 薩 如 師 子 王 心 無 驚 畏  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297a18_18",
+    "original":"告言。",
+    "folio":1,
+    "stemmed":"告 言  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297a19_1",
+    "original":"波旬。",
+    "folio":1,
+    "stemmed":"波 旬  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297a19_14",
+    "original":"汝曾供養一辟支佛受八戒齋。",
+    "folio":1,
+    "stemmed":"汝 曾 供 養 一 辟 支 佛 受 八 戒 齋  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297a20_4",
+    "original":"由斯福故得為天王。",
+    "folio":1,
+    "stemmed":"由 斯 福 故 得 為 天 王  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297a20_13",
+    "original":"然我已於阿僧祇劫。",
+    "folio":1,
+    "stemmed":"然 我 已 於 阿僧祇劫  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297a21_3",
+    "original":"具足成就難行苦行。",
+    "folio":1,
+    "stemmed":"具 足 成 就 難行苦行  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297a22_2",
+    "original":"大地未有如針鋒許非吾昔日修苦行處。",
+    "folio":1,
+    "stemmed":"大 地 未 有 如 針 鋒 許 非 吾 昔 日 修 苦 行 處  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297a22_11",
+    "original":"假使魔眾如恒河沙。",
+    "folio":1,
+    "stemmed":"假 使 魔 眾 如 恒 河 沙  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297a23_1",
+    "original":"不能傾動我之一毛。",
+    "folio":1,
+    "stemmed":"不能傾動 我 之 一 毛  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297a23_14",
+    "original":"云何汝今欲以吾身擲大海外。",
+    "folio":1,
+    "stemmed":"云 何 汝 今 欲 以 吾 身 擲 大 海 外  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297a23_19",
+    "original":"魔復言曰。",
+    "folio":1,
+    "stemmed":"魔 復 言 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297a24_12",
+    "original":"我於往昔施辟支佛得為天主。",
+    "folio":1,
+    "stemmed":"我 於 往 昔 施 辟 支 佛 得 為 天 主  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297a24_17",
+    "original":"斯事可明。",
+    "folio":1,
+    "stemmed":"斯 事 可 明  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297a25_7",
+    "original":"今汝所說以何為證。",
+    "folio":1,
+    "stemmed":"今 汝 所 說 以 何 為 證  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297a25_17",
+    "original":"於是菩薩申手指地曰。",
+    "folio":1,
+    "stemmed":"於 是 菩 薩 申 手 指 地 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297a26_3",
+    "original":"此神知我。",
+    "folio":1,
+    "stemmed":"此 神 知 我  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297a26_16",
+    "original":"爾時地神從金剛際踊身而出。",
+    "folio":1,
+    "stemmed":"爾 時 地 神 從 金 剛 際 踊 身 而 出  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297a27_2",
+    "original":"合掌白言。",
+    "folio":1,
+    "stemmed":"合 掌 白 言  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297a27_7",
+    "original":"誠如尊教。",
+    "folio":1,
+    "stemmed":"誠 如 尊 教  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297a27_16",
+    "original":"有此地來我為其神。",
+    "folio":1,
+    "stemmed":"有 此 地 來 我 為 其 神  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297a28_13",
+    "original":"此地無有如針鋒許非是菩薩本行之處。",
+    "folio":1,
+    "stemmed":"此 地 無 有 如 針 鋒 許 非 是 菩 薩 本 行 之 處  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297a28_18",
+    "original":"魔聞斯言。",
+    "folio":1,
+    "stemmed":"魔 聞 斯 言  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297a29_4",
+    "original":"顛倒而墮。",
+    "folio":1,
+    "stemmed":"顛 倒 而 墮  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297a29_13",
+    "original":"破魔軍已成最正覺。",
+    "folio":1,
+    "stemmed":"破 魔 軍 已 成最正覺  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b01_3",
+    "original":"三達獨照六通無閡。",
+    "folio":1,
+    "stemmed":"三 達 獨 照 六 通 無 閡  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b01_12",
+    "original":"具足大悲辯才無盡。",
+    "folio":1,
+    "stemmed":"具 足 大 悲 辯才無盡  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b01_19",
+    "original":"所可宣說人皆。",
+    "folio":1,
+    "stemmed":"所 可 宣 說 人 皆  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b02_2",
+    "original":"信受。",
+    "folio":1,
+    "stemmed":"信 受  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b02_11",
+    "original":"暢微妙法拯濟群生。",
+    "folio":1,
+    "stemmed":"暢 微 妙 法 拯 濟 群 生  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b03_1",
+    "original":"譬如金剛所擬摧壞。",
+    "folio":1,
+    "stemmed":"譬 如 金 剛 所 擬 摧 壞  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b03_10",
+    "original":"如來教門亦復如是。",
+    "folio":1,
+    "stemmed":"如 來 教 門 亦復如是  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b03_19",
+    "original":"能滅眾生煩惱諸結。",
+    "folio":1,
+    "stemmed":"能 滅 眾 生 煩 惱 諸 結  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b04_8",
+    "original":"遍遊國土聚落城邑。",
+    "folio":1,
+    "stemmed":"遍 遊 國 土 聚 落 城 邑  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b04_17",
+    "original":"以清淨法拔眾毒刺。",
+    "folio":1,
+    "stemmed":"以 清 淨 法 拔 眾 毒 刺  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b05_7",
+    "original":"降伏外學立最勝幢。",
+    "folio":1,
+    "stemmed":"降 伏 外 學 立 最 勝 幢  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b05_16",
+    "original":"閉惡趣門開涅槃道。",
+    "folio":1,
+    "stemmed":"閉 惡 趣 門 開 涅 槃 道  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b06_6",
+    "original":"化緣將畢垂當滅度。",
+    "folio":1,
+    "stemmed":"化 緣 將 畢 垂 當 滅 度  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b06_15",
+    "original":"告大弟子摩訶迦葉。",
+    "folio":1,
+    "stemmed":"告 大 弟 子 摩 訶 迦 葉  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b07_9",
+    "original":"汝今當知我於無量阿僧祇劫。",
+    "folio":1,
+    "stemmed":"汝 今 當 知 我 於 無量阿僧祇劫  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b07_18",
+    "original":"為眾生故勤修苦行。",
+    "folio":1,
+    "stemmed":"為 眾 生 故 勤 修 苦 行  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b08_8",
+    "original":"一心專求無上勝法。",
+    "folio":1,
+    "stemmed":"一 心 專 求 無 上 勝 法  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b08_17",
+    "original":"如我昔願今已滿足。",
+    "folio":1,
+    "stemmed":"如 我 昔 願 今 已 滿 足  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b09_3",
+    "original":"迦葉當知。",
+    "folio":1,
+    "stemmed":"迦 葉 當 知  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b09_12",
+    "original":"譬如密雲充遍世界。",
+    "folio":1,
+    "stemmed":"譬 如 密 雲 充 遍 世 界  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b10_2",
+    "original":"降注甘雨生長萌芽。",
+    "folio":1,
+    "stemmed":"降 注 甘 雨 生 長 萌 芽  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b10_11",
+    "original":"無上法雨亦復如是。",
+    "folio":1,
+    "stemmed":"無 上 法 雨 亦復如是  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b11_1",
+    "original":"能令眾生增善根子。",
+    "folio":1,
+    "stemmed":"能 令 眾 生 增 善 根 子  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b11_18",
+    "original":"所以諸佛常加守護恭敬讚歎禮拜供養。",
+    "folio":1,
+    "stemmed":"所 以 諸 佛 常 加 守 護 恭 敬 讚 歎 禮拜供養  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b12_8",
+    "original":"如我今者將般涅槃。",
+    "folio":1,
+    "stemmed":"如 我 今 者 將 般 涅 槃  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b12_17",
+    "original":"以此深法用囑累汝。",
+    "folio":1,
+    "stemmed":"以 此 深 法 用 囑 累 汝  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b13_7",
+    "original":"汝當於後敬順我意。",
+    "folio":1,
+    "stemmed":"汝 當 於 後 敬 順 我 意  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b13_16",
+    "original":"廣宣流布無令斷絕。",
+    "folio":1,
+    "stemmed":"廣 宣 流 布 無 令 斷 絕  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b14_2",
+    "original":"迦葉白言。",
+    "folio":1,
+    "stemmed":"迦 葉 白 言  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b14_7",
+    "original":"善哉受教。",
+    "folio":1,
+    "stemmed":"善 哉 受 教  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b14_16",
+    "original":"我當如是奉持正法。",
+    "folio":1,
+    "stemmed":"我 當 如 是 奉 持 正 法  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b15_5",
+    "original":"使未來世等蒙饒益。",
+    "folio":1,
+    "stemmed":"使 未 來 世 等 蒙 饒 益  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b15_14",
+    "original":"唯願世尊不以為慮。",
+    "folio":1,
+    "stemmed":"唯 願 世 尊 不 以 為 慮  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b16_4",
+    "original":"是故如來滅度之後。",
+    "folio":1,
+    "stemmed":"是 故 如 來 滅 度 之 後  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b16_13",
+    "original":"摩訶迦葉次宣正教。",
+    "folio":1,
+    "stemmed":"摩 訶 迦 葉 次 宣 正 教  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b17_3",
+    "original":"集佛法藏化諸眾生。",
+    "folio":1,
+    "stemmed":"集 佛 法 藏 化 諸 眾 生  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b17_12",
+    "original":"其所度脫永不退轉。",
+    "folio":1,
+    "stemmed":"其 所 度 脫 永 不 退 轉  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b18_2",
+    "original":"彼大迦葉智慧淵廣。",
+    "folio":1,
+    "stemmed":"彼 大 迦 葉 智 慧 淵 廣  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b18_11",
+    "original":"名稱普聞功德具足。",
+    "folio":1,
+    "stemmed":"名稱普聞 功德具足  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b19_1",
+    "original":"今當隨順說其行願。",
+    "folio":1,
+    "stemmed":"今 當 隨 順 說 其 行 願  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b19_10",
+    "original":"過去久遠毘婆尸佛。",
+    "folio":1,
+    "stemmed":"過去久遠 毘 婆 尸 佛  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b19_19",
+    "original":"化眾生已入般涅槃。",
+    "folio":1,
+    "stemmed":"化 眾 生 已 入般涅槃  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b20_8",
+    "original":"四部弟子咸生悲戀。",
+    "folio":1,
+    "stemmed":"四 部 弟 子 咸 生 悲 戀  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b20_17",
+    "original":"收取舍利起七寶塔。",
+    "folio":1,
+    "stemmed":"收 取 舍 利 起 七 寶 塔  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b21_7",
+    "original":"表剎莊嚴殊特妙好。",
+    "folio":1,
+    "stemmed":"表 剎 莊 嚴 殊 特 妙 好  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b21_16",
+    "original":"時彼塔中有如來像。",
+    "folio":1,
+    "stemmed":"時 彼 塔 中 有 如 來 像  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b22_6",
+    "original":"面上金色少處缺壞。",
+    "folio":1,
+    "stemmed":"面 上 金 色 少 處 缺 壞  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b22_15",
+    "original":"時有貧女遊行乞匃。",
+    "folio":1,
+    "stemmed":"時 有 貧 女 遊 行 乞 匃  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b23_5",
+    "original":"得一金珠內懷歡喜。",
+    "folio":1,
+    "stemmed":"得 一 金 珠 內 懷 歡 喜  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b23_14",
+    "original":"意欲為薄補像面上。",
+    "folio":1,
+    "stemmed":"意 欲 為 薄 補 像 面 上  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b24_4",
+    "original":"迦葉爾時為鍛金師。",
+    "folio":1,
+    "stemmed":"迦 葉 爾 時 為 鍛 金 師  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b24_13",
+    "original":"女即持往倩令修造。",
+    "folio":1,
+    "stemmed":"女 即 持 往 倩 令 修 造  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b25_3",
+    "original":"是時金師聞其為福。",
+    "folio":1,
+    "stemmed":"是 時 金 師 聞 其 為 福  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b25_12",
+    "original":"歡喜治之瑩飾既訖。",
+    "folio":1,
+    "stemmed":"歡 喜 治 之 瑩 飾 既 訖  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b26_2",
+    "original":"用補像面因共願曰。",
+    "folio":1,
+    "stemmed":"用 補 像 面 因 共 願 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b26_11",
+    "original":"願我二人常為夫妻。",
+    "folio":1,
+    "stemmed":"願 我 二 人 常 為 夫 妻  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b27_1",
+    "original":"身真金色恒受勝樂。",
+    "folio":1,
+    "stemmed":"身 真 金 色 恒 受 勝 樂  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b27_6",
+    "original":"以是因緣。",
+    "folio":1,
+    "stemmed":"以是因緣  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b27_15",
+    "original":"九十一劫身真金色。",
+    "folio":1,
+    "stemmed":"九 十 一 劫 身 真 金 色  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b28_4",
+    "original":"生人天中快樂無極。",
+    "folio":1,
+    "stemmed":"生 人 天 中 快 樂 無 極  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b28_13",
+    "original":"最後託生第七梵天。",
+    "folio":1,
+    "stemmed":"最 後 託 生 第 七 梵 天  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b29_8",
+    "original":"時摩竭國有婆羅門名尼俱律陀。",
+    "folio":1,
+    "stemmed":"時 摩 竭 國 有婆羅門 名 尼 俱 律 陀  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297b29_17",
+    "original":"於過去世久修勝業。",
+    "folio":1,
+    "stemmed":"於 過 去 世 久 修 勝 業  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c01_7",
+    "original":"高才博達智慧深遠。",
+    "folio":1,
+    "stemmed":"高 才 博 達 智 慧 深 遠  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c01_16",
+    "original":"多饒財寶巨富無量。",
+    "folio":1,
+    "stemmed":"多 饒 財 寶 巨 富 無 量  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c02_6",
+    "original":"金銀琉璃珂貝璧玉。",
+    "folio":1,
+    "stemmed":"金 銀 琉 璃 珂 貝 璧 玉  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c02_15",
+    "original":"牛羊田宅奴婢車乘。",
+    "folio":1,
+    "stemmed":"牛 羊 田 宅 奴 婢 車 乘  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c03_5",
+    "original":"比摩竭王千倍為勝。",
+    "folio":1,
+    "stemmed":"比 摩 竭 王 千 倍 為 勝  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c03_14",
+    "original":"時瓶沙王金犁千具。",
+    "folio":1,
+    "stemmed":"時 瓶 沙 王 金 犁 千 具  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c04_8",
+    "original":"彼婆羅門恐與王齊招諸罪咎。",
+    "folio":1,
+    "stemmed":"彼 婆 羅 門 恐 與 王 齊 招 諸 罪 咎  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c05_3",
+    "original":"乃少其一唯有九百九十九具。",
+    "folio":1,
+    "stemmed":"乃 少 其 一 唯 有 九 百 九 十 九 具  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c05_8",
+    "original":"其家有㲲。",
+    "folio":1,
+    "stemmed":"其 家 有 㲲  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c05_18",
+    "original":"最下之者直百千兩金。",
+    "folio":1,
+    "stemmed":"最 下 之 者 直 百 千 兩 金  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c06_7",
+    "original":"以釘釘之入地七尺。",
+    "folio":1,
+    "stemmed":"以 釘 釘 之 入 地 七 尺  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c06_16",
+    "original":"㲲不穿破如本不異。",
+    "folio":1,
+    "stemmed":"㲲 不 穿 破 如 本 不 異  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c07_6",
+    "original":"以福德力財富如是。",
+    "folio":1,
+    "stemmed":"以 福 德 力 財 富 如 是  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c07_15",
+    "original":"雖饒財寶無有子息。",
+    "folio":1,
+    "stemmed":"雖 饒 財 寶 無 有 子 息  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c08_5",
+    "original":"自念老朽死時將至。",
+    "folio":1,
+    "stemmed":"自 念 老 朽 死 時 將 至  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c08_14",
+    "original":"庫藏諸物無所委付。",
+    "folio":1,
+    "stemmed":"庫 藏 諸 物 無 所 委 付  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c09_4",
+    "original":"於其舍側有樹林神。",
+    "folio":1,
+    "stemmed":"於 其 舍 側 有 樹 林 神  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c09_17",
+    "original":"彼婆羅門為求子故即往祈請。",
+    "folio":1,
+    "stemmed":"彼 婆 羅 門 為 求 子 故 即 往 祈 請  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c10_7",
+    "original":"經歷年歲了無徵應。",
+    "folio":1,
+    "stemmed":"經 歷 年 歲 了 無 徵 應  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c11_2",
+    "original":"時俱律陀大生瞋忿語樹神曰。",
+    "folio":1,
+    "stemmed":"時 俱 律 陀 大 生 瞋 忿 語 樹 神 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c11_11",
+    "original":"我事汝來已經年歲。",
+    "folio":1,
+    "stemmed":"我 事 汝 來 已 經 年 歲  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c12_1",
+    "original":"都不見為垂一福應。",
+    "folio":1,
+    "stemmed":"都 不 見 為 垂 一 福 應  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c12_10",
+    "original":"今當七日至心事汝。",
+    "folio":1,
+    "stemmed":"今 當 七 日 至 心 事 汝  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c12_19",
+    "original":"若復無驗必相燒剪。",
+    "folio":1,
+    "stemmed":"若 復 無 驗 必 相 燒 剪  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c13_8",
+    "original":"樹神聞已甚懷愁怖。",
+    "folio":1,
+    "stemmed":"樹 神 聞 已 甚 懷 愁 怖  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c13_17",
+    "original":"向四天王具陳斯事。",
+    "folio":1,
+    "stemmed":"向 四 天 王 具 陳 斯 事  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c14_7",
+    "original":"於是四王往白帝釋。",
+    "folio":1,
+    "stemmed":"於 是 四 王 往 白 帝 釋  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c15_6",
+    "original":"帝釋觀察閻浮提內無福德人堪為彼子。",
+    "folio":1,
+    "stemmed":"帝 釋 觀 察 閻 浮 提 內 無 福 德 人 堪 為 彼 子  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c15_15",
+    "original":"即詣梵王廣宣上事。",
+    "folio":1,
+    "stemmed":"即 詣 梵 王 廣 宣 上 事  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c16_13",
+    "original":"爾時梵王以天眼觀見有梵天臨當命終。",
+    "folio":1,
+    "stemmed":"爾 時 梵 王 以 天 眼 觀 見 有 梵 天 臨 當 命 終  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c16_18",
+    "original":"即告之曰。",
+    "folio":1,
+    "stemmed":"即 告 之 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c17_4",
+    "original":"汝若降神。",
+    "folio":1,
+    "stemmed":"汝 若 降 神  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c17_17",
+    "original":"宜當生彼閻浮提界婆羅門家。",
+    "folio":1,
+    "stemmed":"宜 當 生 彼 閻 浮 提 界 婆 羅 門 家  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c18_3",
+    "original":"梵天對曰。",
+    "folio":1,
+    "stemmed":"梵 天 對 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c18_12",
+    "original":"婆羅門法多惡邪見。",
+    "folio":1,
+    "stemmed":"婆 羅 門 法 多 惡 邪 見  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c19_2",
+    "original":"我今不能為其子也。",
+    "folio":1,
+    "stemmed":"我 今 不 能 為 其 子 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c19_7",
+    "original":"梵王復言。",
+    "folio":1,
+    "stemmed":"梵 王 復 言  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c19_16",
+    "original":"彼婆羅門有大威德。",
+    "folio":1,
+    "stemmed":"彼 婆 羅 門 有 大 威 德  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c20_5",
+    "original":"閻浮提人莫堪往生。",
+    "folio":1,
+    "stemmed":"閻 浮 提 人 莫 堪 往 生  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c20_14",
+    "original":"汝必生彼吾相擁護。",
+    "folio":1,
+    "stemmed":"汝 必 生 彼 吾 相 擁 護  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c21_4",
+    "original":"終不令汝入邪見也。",
+    "folio":1,
+    "stemmed":"終 不 令 汝 入 邪 見 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c21_9",
+    "original":"梵天曰諾。",
+    "folio":1,
+    "stemmed":"梵 天 曰 諾  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c21_14",
+    "original":"敬承聖教。",
+    "folio":1,
+    "stemmed":"敬 承 聖 教  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c22_7",
+    "original":"於是帝釋即向樹神說如斯事。",
+    "folio":1,
+    "stemmed":"於 是 帝 釋 即 向 樹 神 說 如 斯 事  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c23_2",
+    "original":"樹神歡喜尋詣其家語婆羅門。",
+    "folio":1,
+    "stemmed":"樹 神 歡 喜 尋 詣 其 家 語 婆 羅 門  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c23_11",
+    "original":"汝今勿復起恨於我。",
+    "folio":1,
+    "stemmed":"汝 今 勿 復 起 恨 於 我  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c24_1",
+    "original":"却後七日當滿卿願。",
+    "folio":1,
+    "stemmed":"却 後 七 日 當 滿 卿 願  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c24_10",
+    "original":"至七日已婦覺有娠。",
+    "folio":1,
+    "stemmed":"至 七 日 已 婦 覺 有 娠  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c24_19",
+    "original":"足滿十月生一男兒。",
+    "folio":1,
+    "stemmed":"足 滿 十 月 生 一 男 兒  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c25_8",
+    "original":"顏貌端正身真金色。",
+    "folio":1,
+    "stemmed":"顏 貌 端 正 身 真 金 色  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c25_17",
+    "original":"光明赫奕照一由旬。",
+    "folio":1,
+    "stemmed":"光 明 赫 奕 照 一 由 旬  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c26_3",
+    "original":"相師占曰。",
+    "folio":1,
+    "stemmed":"相 師 占 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c26_12",
+    "original":"此兒宿福有大威德。",
+    "folio":1,
+    "stemmed":"此 兒 宿 福 有 大 威 德  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c27_2",
+    "original":"志力清遠不貪世務。",
+    "folio":1,
+    "stemmed":"志 力 清 遠 不 貪 世 務  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c27_11",
+    "original":"必當出家得無著果。",
+    "folio":1,
+    "stemmed":"必 當 出 家 得 無 著 果  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c28_5",
+    "original":"年雖童稚志念清淨行慈博施。",
+    "folio":1,
+    "stemmed":"年 雖 童 稚 志 念 清 淨 行 慈 博 施  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c28_18",
+    "original":"少欲知足恒觀世樂無常危脆。",
+    "folio":1,
+    "stemmed":"少欲知足 恒 觀 世 樂 無 常 危 脆  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c29_8",
+    "original":"未曾暫生愛樂之想。",
+    "folio":1,
+    "stemmed":"未 曾 暫 生 愛 樂 之 想  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0297c29_17",
+    "original":"爾時父母見其如是。",
+    "folio":1,
+    "stemmed":"爾 時 父 母 見 其 如 是  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a01_3",
+    "original":"甚懷愁惱。",
+    "folio":1,
+    "stemmed":"甚 懷 愁 惱  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a01_8",
+    "original":"而相謂言。",
+    "folio":1,
+    "stemmed":"而 相 謂 言  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a01_13",
+    "original":"是兒生時。",
+    "folio":1,
+    "stemmed":"是 兒 生 時  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a01_18",
+    "original":"相師占曰。",
+    "folio":1,
+    "stemmed":"相 師 占 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a02_2",
+    "original":"必當出家。",
+    "folio":1,
+    "stemmed":"必 當 出 家  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a02_11",
+    "original":"今設何方斷絕其意。",
+    "folio":1,
+    "stemmed":"今 設 何 方 斷 絕 其 意  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a02_16",
+    "original":"覆自思惟。",
+    "folio":1,
+    "stemmed":"覆 自 思 惟  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a03_5",
+    "original":"世可耽著唯有美色。",
+    "folio":1,
+    "stemmed":"世 可 耽 著 唯 有 美 色  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a03_18",
+    "original":"當為選擇端正良匹用斷其意。",
+    "folio":1,
+    "stemmed":"當 為 選 擇 端 正 良 匹 用 斷 其 意  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a04_8",
+    "original":"至年十五欲為娉妻。",
+    "folio":1,
+    "stemmed":"至 年 十 五 欲 為 娉 妻  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a04_17",
+    "original":"迦葉聞之深生愁惱。",
+    "folio":1,
+    "stemmed":"迦 葉 聞 之 深 生 愁 惱  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a05_3",
+    "original":"白父母言。",
+    "folio":1,
+    "stemmed":"白 父 母 言  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a05_12",
+    "original":"我志清淨不須妻也。",
+    "folio":1,
+    "stemmed":"我 志 清 淨 不 須 妻 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a06_2",
+    "original":"如是至三父母不聽。",
+    "folio":1,
+    "stemmed":"如 是 至 三 父 母 不 聽  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a06_11",
+    "original":"於是迦葉知事難免。",
+    "folio":1,
+    "stemmed":"於 是 迦 葉 知 事 難 免  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a07_1",
+    "original":"便設權謀白父母言。",
+    "folio":1,
+    "stemmed":"便 設 權 謀 白 父 母 言  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a07_14",
+    "original":"能為我得金色女人姿容超世。",
+    "folio":1,
+    "stemmed":"能 為 我 得 金 色 女 人 姿 容 超 世  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a08_4",
+    "original":"然後乃當開意納之。",
+    "folio":1,
+    "stemmed":"然 後 乃 當 開 意 納 之  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a08_13",
+    "original":"若不得者終不娶也。",
+    "folio":1,
+    "stemmed":"若 不 得 者 終 不 娶 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a09_7",
+    "original":"爾時父母敬念彼故不違其語。",
+    "folio":1,
+    "stemmed":"爾 時 父 母 敬 念 彼 故 不 違 其 語  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a10_2",
+    "original":"即時迎召諸婆羅門遣行國界。",
+    "folio":1,
+    "stemmed":"即 時 迎 召 諸 婆 羅 門 遣 行 國 界  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a10_15",
+    "original":"若有女人身真金色端嚴殊妙。",
+    "folio":1,
+    "stemmed":"若 有 女 人 身 真 金 色 端嚴殊妙  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a11_1",
+    "original":"為我娉之。",
+    "folio":1,
+    "stemmed":"為 我 娉 之  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a11_10",
+    "original":"諸婆羅門便共為謀。",
+    "folio":1,
+    "stemmed":"諸 婆 羅 門 便 共 為 謀  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a11_19",
+    "original":"鑄金為人顏貌奇特。",
+    "folio":1,
+    "stemmed":"鑄 金 為 人 顏 貌 奇 特  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a12_8",
+    "original":"眾共輿之遊諸聚落。",
+    "folio":1,
+    "stemmed":"眾 共 輿 之 遊 諸 聚 落  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a12_13",
+    "original":"高聲唱言。",
+    "folio":1,
+    "stemmed":"高 聲 唱 言  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a12_18",
+    "original":"若有女人。",
+    "folio":1,
+    "stemmed":"若 有 女 人  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a13_7",
+    "original":"見此金神禮拜供養。",
+    "folio":1,
+    "stemmed":"見 此 金 神 禮拜供養  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a14_2",
+    "original":"未來必得微妙智慧身真金色。",
+    "folio":1,
+    "stemmed":"未 來 必 得 微 妙 智 慧 身 真 金 色  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a14_11",
+    "original":"諸女聞已皆出禮敬。",
+    "folio":1,
+    "stemmed":"諸 女 聞 已 皆 出 禮 敬  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a15_5",
+    "original":"時有一女顏容󳮸瑋體紫金色。",
+    "folio":1,
+    "stemmed":"時 有 一 女 顏 容  瑋 體 紫 金 色  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a15_14",
+    "original":"稟性柔和智慧深遠。",
+    "folio":1,
+    "stemmed":"稟 性 柔 和 智 慧 深 遠  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a16_4",
+    "original":"即是往日金珠女也。",
+    "folio":1,
+    "stemmed":"即 是 往 日 金 珠 女 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a16_13",
+    "original":"以昔勝緣有此妙身。",
+    "folio":1,
+    "stemmed":"以 昔 勝 緣 有 此 妙 身  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a17_3",
+    "original":"立志堅固獨不出外。",
+    "folio":1,
+    "stemmed":"立 志 堅 固 獨 不 出 外  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a17_12",
+    "original":"諸女咸問不出之意。",
+    "folio":1,
+    "stemmed":"諸 女 咸 問 不 出 之 意  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a17_17",
+    "original":"答言諸姊。",
+    "folio":1,
+    "stemmed":"答 言 諸 姊  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a18_6",
+    "original":"我意閑寂不悕餘願。",
+    "folio":1,
+    "stemmed":"我 意 閑 寂 不 悕 餘 願  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a18_11",
+    "original":"故不出耳。",
+    "folio":1,
+    "stemmed":"故 不 出 耳  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a19_5",
+    "original":"時諸女人強將此女往觀金神。",
+    "folio":1,
+    "stemmed":"時 諸 女 人 強 將 此 女 往 觀 金 神  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a19_14",
+    "original":"此女光明形貌姿麗。",
+    "folio":1,
+    "stemmed":"此 女 光 明 形 貌 姿 麗  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a20_4",
+    "original":"映蔽金神悉不復現。",
+    "folio":1,
+    "stemmed":"映 蔽 金 神 悉 不 復 現  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a20_13",
+    "original":"諸婆羅門即為娉之。",
+    "folio":1,
+    "stemmed":"諸 婆 羅 門 即 為 娉 之  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a20_18",
+    "original":"遂相然可。",
+    "folio":1,
+    "stemmed":"遂 相 然 可  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a21_3",
+    "original":"計期成婚。",
+    "folio":1,
+    "stemmed":"計 期 成 婚  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a21_12",
+    "original":"彼女聞之亦甚愁惱。",
+    "folio":1,
+    "stemmed":"彼 女 聞 之 亦 甚 愁 惱  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a22_2",
+    "original":"志不自從即便行嫁。",
+    "folio":1,
+    "stemmed":"志 不 自 從 即 便 行 嫁  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a22_11",
+    "original":"二人相對志各凝潔。",
+    "folio":1,
+    "stemmed":"二 人 相 對 志 各 凝 潔  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a23_1",
+    "original":"雖為夫妻了無欲意。",
+    "folio":1,
+    "stemmed":"雖 為 夫 妻 了 無 欲 意  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a23_6",
+    "original":"共立要曰。",
+    "folio":1,
+    "stemmed":"共 立 要 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a23_19",
+    "original":"我等今者宜各異房不相嬈近。",
+    "folio":1,
+    "stemmed":"我 等 今 者 宜 各 異 房 不 相 嬈 近  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a24_8",
+    "original":"爾時父母知是事已。",
+    "folio":1,
+    "stemmed":"爾 時 父 母 知 是 事 已  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a24_17",
+    "original":"即便勅人去除一室。",
+    "folio":1,
+    "stemmed":"即 便 勅 人 去 除 一 室  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a25_11",
+    "original":"令共同處空其室內唯置一床。",
+    "folio":1,
+    "stemmed":"令 共 同 處 空 其 室 內 唯 置 一 床  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a26_2",
+    "original":"於是迦葉更共妻要。",
+    "folio":1,
+    "stemmed":"於 是 迦 葉 更 共 妻 要  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a26_11",
+    "original":"今此室中唯有一床。",
+    "folio":1,
+    "stemmed":"今 此 室 中 唯 有 一 床  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a27_1",
+    "original":"我等二人理無同寢。",
+    "folio":1,
+    "stemmed":"我 等 二 人 理 無 同 寢  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a27_10",
+    "original":"我若眠息汝當經行。",
+    "folio":1,
+    "stemmed":"我 若 眠 息 汝 當 經 行  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a27_19",
+    "original":"汝若睡臥我當經行。",
+    "folio":1,
+    "stemmed":"汝 若 睡 臥 我 當 經 行  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a28_8",
+    "original":"後於中夜迦葉次行。",
+    "folio":1,
+    "stemmed":"後 於 中 夜 迦 葉 次 行  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a28_17",
+    "original":"妻時眠睡手垂床前。",
+    "folio":1,
+    "stemmed":"妻 時 眠 睡 手 垂 床 前  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298a29_11",
+    "original":"外有毒蛇從戶而入欲螫其妻。",
+    "folio":1,
+    "stemmed":"外 有 毒 蛇 從 戶 而 入 欲 螫 其 妻  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b01_2",
+    "original":"迦葉慈愍即便徐前。",
+    "folio":1,
+    "stemmed":"迦 葉 慈 愍 即 便 徐 前  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b01_11",
+    "original":"以衣裹手舉置床上。",
+    "folio":1,
+    "stemmed":"以 衣 裹 手 舉 置 床 上  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b02_1",
+    "original":"妻便驚寤而責之曰。",
+    "folio":1,
+    "stemmed":"妻 便 驚 寤 而 責 之 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b02_10",
+    "original":"今汝丈夫無志乃爾。",
+    "folio":1,
+    "stemmed":"今 汝 丈 夫 無 志 乃 爾  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b02_19",
+    "original":"共我立誓要不相近。",
+    "folio":1,
+    "stemmed":"共 我 立 誓 要 不 相 近  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b03_8",
+    "original":"今復何緣竊舉吾手。",
+    "folio":1,
+    "stemmed":"今 復 何 緣 竊 舉 吾 手  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b03_13",
+    "original":"迦葉答言。",
+    "folio":1,
+    "stemmed":"迦 葉 答 言  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b04_3",
+    "original":"我無欲情而近汝也。",
+    "folio":1,
+    "stemmed":"我 無 欲 情 而 近 汝 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b04_8",
+    "original":"蛇從外入。",
+    "folio":1,
+    "stemmed":"蛇 從 外 入  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b04_13",
+    "original":"規欲相螫。",
+    "folio":1,
+    "stemmed":"規 欲 相 螫  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b04_18",
+    "original":"恐為傷害。",
+    "folio":1,
+    "stemmed":"恐 為 傷 害  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b05_3",
+    "original":"舉汝手耳。",
+    "folio":1,
+    "stemmed":"舉 汝 手 耳  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b05_12",
+    "original":"毒蛇猶在即便示之。",
+    "folio":1,
+    "stemmed":"毒 蛇 猶 在 即 便 示 之  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b05_17",
+    "original":"妻意乃悟。",
+    "folio":1,
+    "stemmed":"妻 意 乃 悟  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b06_10",
+    "original":"於是夫妻深厭諸有不生甘樂。",
+    "folio":1,
+    "stemmed":"於 是 夫 妻 深 厭 諸 有 不 生 甘 樂  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b07_1",
+    "original":"如人淨洗不喜塵垢。",
+    "folio":1,
+    "stemmed":"如 人 淨 洗 不 喜 塵 垢  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b07_10",
+    "original":"詣父母所求欲出家。",
+    "folio":1,
+    "stemmed":"詣 父 母 所 求 欲 出 家  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b07_19",
+    "original":"既蒙聽許便作沙門。",
+    "folio":1,
+    "stemmed":"既 蒙 聽 許 便 作 沙 門  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b08_8",
+    "original":"清淨守素無為無欲。",
+    "folio":1,
+    "stemmed":"清 淨 守 素 無 為 無 欲  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b08_17",
+    "original":"在於空閑勤修苦行。",
+    "folio":1,
+    "stemmed":"在 於 空 閑 勤 修 苦 行  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b09_7",
+    "original":"於是迦葉作是誓言。",
+    "folio":1,
+    "stemmed":"於 是 迦 葉 作 是 誓 言  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b10_1",
+    "original":"世界所有成羅漢者我悉歸依。",
+    "folio":1,
+    "stemmed":"世 界 所 有 成 羅 漢 者 我 悉 歸 依  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b10_18",
+    "original":"作是語已出家威儀所有諸戒皆悉具足。",
+    "folio":1,
+    "stemmed":"作是語已 出 家 威 儀 所 有 諸 戒 皆 悉 具 足  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b11_16",
+    "original":"逮至如來成一切智於王舍城頒宣妙法。",
+    "folio":1,
+    "stemmed":"逮 至 如 來 成 一 切 智 於 王 舍 城 頒 宣 妙 法  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b12_7",
+    "original":"爾時迦葉披糞掃衣。",
+    "folio":1,
+    "stemmed":"爾 時 迦 葉 披 糞 掃 衣  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b13_5",
+    "original":"來詣佛所稽首禮敬合掌而立白佛言。",
+    "folio":1,
+    "stemmed":"來 詣 佛 所 稽 首 禮 敬 合 掌 而 立 白 佛 言  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b13_8",
+    "original":"世尊。",
+    "folio":1,
+    "stemmed":"世 尊  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b13_17",
+    "original":"我今歸依無上清涼。",
+    "folio":1,
+    "stemmed":"我 今 歸 依 無 上 清 涼  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b14_6",
+    "original":"願哀納受聽在末次。",
+    "folio":1,
+    "stemmed":"願 哀 納 受 聽 在 末 次  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b14_11",
+    "original":"世尊歎曰。",
+    "folio":1,
+    "stemmed":"世 尊 歎 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b14_16",
+    "original":"善來迦葉。",
+    "folio":1,
+    "stemmed":"善 來 迦 葉  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b15_5",
+    "original":"即分半座命令就坐。",
+    "folio":1,
+    "stemmed":"即 分 半 座 命 令 就 坐  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b15_10",
+    "original":"迦葉白佛。",
+    "folio":1,
+    "stemmed":"迦 葉 白 佛  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b15_19",
+    "original":"我是如來末行弟子。",
+    "folio":1,
+    "stemmed":"我 是 如 來 末 行 弟 子  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b16_8",
+    "original":"顧命分座不敢順旨。",
+    "folio":1,
+    "stemmed":"顧 命 分 座 不 敢 順 旨  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b16_17",
+    "original":"是時眾會咸生疑曰。",
+    "folio":1,
+    "stemmed":"是 時 眾 會 咸 生 疑 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b17_7",
+    "original":"此老沙門有何異德。",
+    "folio":1,
+    "stemmed":"此 老 沙 門 有 何 異 德  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b17_16",
+    "original":"乃令天尊分座命之。",
+    "folio":1,
+    "stemmed":"乃 令 天 尊 分 座 命 之  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b18_6",
+    "original":"此人殊勝唯佛知耳。",
+    "folio":1,
+    "stemmed":"此 人 殊 勝 唯 佛 知 耳  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b19_1",
+    "original":"於是如來知眾心念欲決所疑。",
+    "folio":1,
+    "stemmed":"於 是 如 來 知 眾 心 念 欲 決 所 疑  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b19_10",
+    "original":"即宣迦葉大行淵廣。",
+    "folio":1,
+    "stemmed":"即 宣 迦 葉 大 行 淵 廣  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b19_15",
+    "original":"世尊又曰。",
+    "folio":1,
+    "stemmed":"世 尊 又 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b20_16",
+    "original":"我今所有大慈大悲四禪三昧無量功德以自莊嚴。",
+    "folio":1,
+    "stemmed":"我 今 所 有 大慈大悲 四 禪 三 昧 無量功德 以 自 莊 嚴  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b21_7",
+    "original":"迦葉比丘亦復如是。",
+    "folio":1,
+    "stemmed":"迦 葉 比 丘 亦復如是  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b21_16",
+    "original":"又於往昔過去久遠。",
+    "folio":1,
+    "stemmed":"又 於 往 昔 過去久遠  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b22_6",
+    "original":"時有聖王號文陀竭。",
+    "folio":1,
+    "stemmed":"時 有 聖 王 號 文 陀 竭  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b22_15",
+    "original":"高才超世智慧無倫。",
+    "folio":1,
+    "stemmed":"高 才 超 世 智 慧 無 倫  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b23_5",
+    "original":"時天帝釋欽敬其德。",
+    "folio":1,
+    "stemmed":"時 天 帝 釋 欽 敬 其 德  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b23_14",
+    "original":"遣七寶車造闕迎王。",
+    "folio":1,
+    "stemmed":"遣 七 寶 車 造 闕 迎 王  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b24_4",
+    "original":"時乘天車飛空而往。",
+    "folio":1,
+    "stemmed":"時 乘 天 車 飛 空 而 往  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b24_13",
+    "original":"天帝出迎與共同坐。",
+    "folio":1,
+    "stemmed":"天 帝 出 迎 與 共 同 坐  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b25_3",
+    "original":"相娛樂已送王還宮。",
+    "folio":1,
+    "stemmed":"相 娛 樂 已 送 王 還 宮  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b25_8",
+    "original":"佛告比丘。",
+    "folio":1,
+    "stemmed":"佛 告 比 丘  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b25_17",
+    "original":"爾時天帝今迦葉是。",
+    "folio":1,
+    "stemmed":"爾 時 天 帝 今 迦 葉 是  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b26_7",
+    "original":"文陀竭王則吾身是。",
+    "folio":1,
+    "stemmed":"文 陀 竭 王 則 吾 身 是  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b27_2",
+    "original":"迦葉往昔以生死座命吾同坐。",
+    "folio":1,
+    "stemmed":"迦 葉 往 昔 以 生 死 座 命 吾 同 坐  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b27_11",
+    "original":"故吾今日成無上道。",
+    "folio":1,
+    "stemmed":"故 吾 今 日 成 無 上 道  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b28_1",
+    "original":"以正法座報其本勳。",
+    "folio":1,
+    "stemmed":"以 正 法 座 報 其 本 勳  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b28_10",
+    "original":"爾時世尊即為迦葉。",
+    "folio":1,
+    "stemmed":"爾 時 世 尊 即 為 迦 葉  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b28_19",
+    "original":"如應說法示教利喜。",
+    "folio":1,
+    "stemmed":"如 應 說 法 示 教 利 喜  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298b29_10",
+    "original":"譬如鮮淨白㲲易受染色。",
+    "folio":1,
+    "stemmed":"譬 如 鮮 淨 白 㲲 易 受 染 色  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c01_1",
+    "original":"即於座上得阿羅漢。",
+    "folio":1,
+    "stemmed":"即 於 座 上 得阿羅漢  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c01_10",
+    "original":"三明六通具八解脫。",
+    "folio":1,
+    "stemmed":"三 明 六 通 具 八 解 脫  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c01_19",
+    "original":"高才勇猛儀相安詳。",
+    "folio":1,
+    "stemmed":"高 才 勇 猛 儀 相 安 詳  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c02_8",
+    "original":"常與如來對坐說法。",
+    "folio":1,
+    "stemmed":"常 與 如 來 對 坐 說 法  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c02_17",
+    "original":"時諸天人謂世尊師。",
+    "folio":1,
+    "stemmed":"時 諸 天 人 謂 世 尊 師  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c03_7",
+    "original":"於是迦葉即辭如來。",
+    "folio":1,
+    "stemmed":"於 是 迦 葉 即 辭 如 來  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c03_17",
+    "original":"往耆闍崛山賓鉢羅窟。",
+    "folio":1,
+    "stemmed":"往 耆 闍 崛 山 賓 鉢 羅 窟  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c04_7",
+    "original":"其山多有流泉浴池。",
+    "folio":1,
+    "stemmed":"其 山 多 有 流 泉 浴 池  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c04_16",
+    "original":"樹林蓊欝華果茂盛。",
+    "folio":1,
+    "stemmed":"樹 林 蓊 欝 華 果 茂 盛  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c05_6",
+    "original":"百獸遊集吉鳥翔鳴。",
+    "folio":1,
+    "stemmed":"百 獸 遊 集 吉 鳥 翔 鳴  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c05_15",
+    "original":"金銀琉璃羅布其地。",
+    "folio":1,
+    "stemmed":"金 銀 琉 璃 羅 布 其 地  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c06_5",
+    "original":"迦葉在斯經行禪思。",
+    "folio":1,
+    "stemmed":"迦 葉 在 斯 經 行 禪 思  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c06_14",
+    "original":"宣暢妙法度諸眾生。",
+    "folio":1,
+    "stemmed":"宣 暢 妙 法 度 諸 眾 生  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c07_4",
+    "original":"至後世尊垂入涅槃。",
+    "folio":1,
+    "stemmed":"至 後 世 尊 垂 入 涅 槃  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c07_13",
+    "original":"放勝光明大地震動。",
+    "folio":1,
+    "stemmed":"放 勝 光 明 大 地 震 動  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c07_18",
+    "original":"便作是念。",
+    "folio":1,
+    "stemmed":"便 作 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c08_11",
+    "original":"將非如來欲入涅槃現斯相耶。",
+    "folio":1,
+    "stemmed":"將 非 如 來 欲 入 涅 槃 現 斯 相 耶  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c09_2",
+    "original":"即入三昧以天眼觀。",
+    "folio":1,
+    "stemmed":"即 入 三 昧 以 天 眼 觀  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c09_15",
+    "original":"見於世尊熙連河側全身捨壽。",
+    "folio":1,
+    "stemmed":"見 於 世 尊 熙 連 河 側 全 身 捨 壽  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c10_5",
+    "original":"作是觀已慘然不悅。",
+    "folio":1,
+    "stemmed":"作 是 觀 已 慘 然 不 悅  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c10_14",
+    "original":"如來涅槃何期駛哉。",
+    "folio":1,
+    "stemmed":"如 來 涅 槃 何 期 駛 哉  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c11_4",
+    "original":"世間眼滅不善增長。",
+    "folio":1,
+    "stemmed":"世 間 眼 滅 不 善 增 長  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c11_13",
+    "original":"即與眷屬前後圍遶。",
+    "folio":1,
+    "stemmed":"即 與 眷 屬 前 後 圍 遶  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c12_3",
+    "original":"向拘尸那城禮覲世尊。",
+    "folio":1,
+    "stemmed":"向 拘 尸 那 城 禮 覲 世 尊  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c12_12",
+    "original":"於其前路見一梵志。",
+    "folio":1,
+    "stemmed":"於 其 前 路 見 一 梵 志  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c13_2",
+    "original":"右手執持曼陀羅華。",
+    "folio":1,
+    "stemmed":"右 手 執 持 曼陀羅華  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c13_7",
+    "original":"迦葉問言。",
+    "folio":1,
+    "stemmed":"迦 葉 問 言  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c13_12",
+    "original":"汝從何來。",
+    "folio":1,
+    "stemmed":"汝 從 何 來  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c13_17",
+    "original":"識吾師不。",
+    "folio":1,
+    "stemmed":"識 吾 師 不  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c14_1",
+    "original":"答曰識之。",
+    "folio":1,
+    "stemmed":"答 曰 識 之  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c14_10",
+    "original":"入般涅槃已經七日。",
+    "folio":1,
+    "stemmed":"入般涅槃 已 經 七 日  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c14_19",
+    "original":"一切人天大設供養。",
+    "folio":1,
+    "stemmed":"一 切 人 天 大 設 供 養  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c15_8",
+    "original":"吾從彼間得斯花來。",
+    "folio":1,
+    "stemmed":"吾 從 彼 間 得 斯 花 來  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c15_17",
+    "original":"時諸比丘聞是語已。",
+    "folio":1,
+    "stemmed":"時 諸 比 丘 聞 是 語 已  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c16_7",
+    "original":"皆大悲惱舉身投地。",
+    "folio":1,
+    "stemmed":"皆 大 悲 惱 舉 身 投 地  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c16_16",
+    "original":"號哭哽咽淚下如雨。",
+    "folio":1,
+    "stemmed":"號 哭 哽 咽 淚 下 如 雨  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c17_2",
+    "original":"咸作是言。",
+    "folio":1,
+    "stemmed":"咸 作 是 言  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c17_11",
+    "original":"咄哉無常有大勢力。",
+    "folio":1,
+    "stemmed":"咄 哉 無 常 有大勢力  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c18_1",
+    "original":"能壞如是功德寶聚。",
+    "folio":1,
+    "stemmed":"能 壞 如 是 功 德 寶 聚  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c18_10",
+    "original":"枯竭法海摧倒法幢。",
+    "folio":1,
+    "stemmed":"枯 竭 法 海 摧 倒 法 幢  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c19_1",
+    "original":"世間闇冥永失大明。",
+    "folio":1,
+    "stemmed":"世 間 闇 冥 永 失 大 明  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c19_10",
+    "original":"一切眾生無所宗仰。",
+    "folio":1,
+    "stemmed":"一 切 眾 生 無 所 宗 仰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c19_19",
+    "original":"增長惡道減損天人。",
+    "folio":1,
+    "stemmed":"增 長 惡 道 減 損 天 人  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c20_8",
+    "original":"奇哉無常深可厭患。",
+    "folio":1,
+    "stemmed":"奇 哉 無 常 深 可 厭 患  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c20_17",
+    "original":"譬如電光理無久停。",
+    "folio":1,
+    "stemmed":"譬 如 電 光 理 無 久 停  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c21_7",
+    "original":"無常迅駛亦難可保。",
+    "folio":1,
+    "stemmed":"無 常 迅 駛 亦 難 可 保  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c21_16",
+    "original":"能壞盛年色力壽命。",
+    "folio":1,
+    "stemmed":"能 壞 盛 年 色 力 壽 命  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c22_6",
+    "original":"殄滅一切世間歡愛。",
+    "folio":1,
+    "stemmed":"殄 滅 一切世間 歡 愛  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c22_15",
+    "original":"愚人保之智者不也。",
+    "folio":1,
+    "stemmed":"愚 人 保 之 智 者 不 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c23_5",
+    "original":"於是迦葉與諸比丘。",
+    "folio":1,
+    "stemmed":"於 是 迦 葉 與 諸 比 丘  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c23_14",
+    "original":"即便前行至雙樹間。",
+    "folio":1,
+    "stemmed":"即 便 前 行 至 雙 樹 間  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c24_4",
+    "original":"遶棺三匝稽首作禮。",
+    "folio":1,
+    "stemmed":"遶 棺 三 匝 稽 首 作 禮  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c24_9",
+    "original":"而說偈言。",
+    "folio":1,
+    "stemmed":"而 說 偈 言  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c25_0",
+    "original":"超哉三界乘　　永度生死流",
+    "folio":1,
+    "stemmed":"超 哉 三 界 乘   永 度 生 死 流 "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c26_0",
+    "original":"寂然無相願　　微妙難思議",
+    "folio":1,
+    "stemmed":"寂 然 無 相 願   微 妙 難 思 議 "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c27_0",
+    "original":"佛日甚明淨　　能除愚癡闇",
+    "folio":1,
+    "stemmed":"佛 日 甚 明 淨   能 除 愚 癡 闇 "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c28_0",
+    "original":"積劫修苦行　　誓度諸苦人",
+    "folio":1,
+    "stemmed":"積 劫 修 苦 行   誓 度 諸 苦 人 "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0298c29_0",
+    "original":"云何於今者　　棄捨大慈悲",
+    "folio":1,
+    "stemmed":"云 何 於 今 者   棄 捨 大 慈 悲 "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299a01_0",
+    "original":"全身處金棺　　寂然安不動",
+    "folio":1,
+    "stemmed":"全 身 處 金 棺   寂 然 安 不 動 "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299a02_0",
+    "original":"唯願天人尊　　顯現金色身",
+    "folio":1,
+    "stemmed":"唯 願 天 人 尊   顯 現 金 色 身 "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299a03_0",
+    "original":"普令一切眾　　興起無量願",
+    "folio":1,
+    "stemmed":"普 令 一 切 眾   興 起 無 量 願 "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299a04_16",
+    "original":"爾時世尊於金棺內千張㲲中出金色足。",
+    "folio":1,
+    "stemmed":"爾 時 世 尊 於 金 棺 內 千 張 㲲 中 出 金 色 足  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299a05_7",
+    "original":"光明照曜猶如盛日。",
+    "folio":1,
+    "stemmed":"光 明 照 曜 猶 如 盛 日  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299a05_16",
+    "original":"棺㲲無虧而足顯現。",
+    "folio":1,
+    "stemmed":"棺 㲲 無 虧 而 足 顯 現  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299a06_14",
+    "original":"一切大眾見是事已倍更悲惱號哭哽塞。",
+    "folio":1,
+    "stemmed":"一 切 大 眾 見 是 事 已 倍 更 悲 惱 號 哭 哽 塞  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299a07_9",
+    "original":"爾時迦葉偏袒右肩接足作禮。",
+    "folio":1,
+    "stemmed":"爾 時 迦 葉 偏袒右肩 接足作禮  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299a07_14",
+    "original":"重說偈言。",
+    "folio":1,
+    "stemmed":"重 說 偈 言  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299a08_0",
+    "original":"如來足踝滿　　千輻相輪現",
+    "folio":1,
+    "stemmed":"如 來 足 踝 滿   千 輻 相 輪 現 "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299a09_0",
+    "original":"指纖長柔軟　　合縵網成就",
+    "folio":1,
+    "stemmed":"指 纖 長 柔 軟   合 縵 網 成 就 "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299a10_0",
+    "original":"大悲濟群生　　斷世眾疑結",
+    "folio":1,
+    "stemmed":"大 悲 濟 群 生   斷 世 眾 疑 結 "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299a11_0",
+    "original":"是故我今日　　頂禮最勝足",
+    "folio":1,
+    "stemmed":"是 故 我 今 日   頂 禮 最 勝 足 "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299a12_0",
+    "original":"我證四真諦　　說佛功德聚",
+    "folio":1,
+    "stemmed":"我 證 四 真 諦   說 佛 功 德 聚 "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299a13_0",
+    "original":"已讚歎恭敬　　宜還斂足入",
+    "folio":1,
+    "stemmed":"已 讚 歎 恭 敬   宜 還 斂 足 入 "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299a14_4",
+    "original":"爾時迦葉。",
+    "folio":1,
+    "stemmed":"爾 時 迦 葉  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299a14_17",
+    "original":"令諸力士更以千㲲用纏佛身。",
+    "folio":1,
+    "stemmed":"令 諸 力 士 更 以 千 㲲 用 纏 佛 身  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299a15_8",
+    "original":"香油灌上而閉棺蓋。",
+    "folio":1,
+    "stemmed":"香 油 灌 上 而 閉 棺 蓋  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299a15_17",
+    "original":"積栴檀薪闍維如來。",
+    "folio":1,
+    "stemmed":"積 栴 檀 薪 闍 維 如 來  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299a16_11",
+    "original":"阿難見火悲泣哽咽號哭懊惱。",
+    "folio":1,
+    "stemmed":"阿 難 見 火 悲 泣 哽 咽 號 哭 懊 惱  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299a16_16",
+    "original":"而說偈言。",
+    "folio":1,
+    "stemmed":"而 說 偈 言  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299a17_0",
+    "original":"怪哉無常　　甚可憂畏　　能滅如是",
+    "folio":1,
+    "stemmed":"怪 哉 無 常   甚 可 憂 畏   能 滅 如 是 "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299a18_0",
+    "original":"功德寶聚　　世尊此身　　清淨無垢",
+    "folio":1,
+    "stemmed":"功 德 寶 聚   世 尊 此 身   清 淨 無 垢 "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299a19_0",
+    "original":"今在金棺　　以千㲲纏　　香油流灌",
+    "folio":1,
+    "stemmed":"今 在 金 棺   以 千 㲲 纏   香 油 流 灌 "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299a20_0",
+    "original":"然栴檀薪　　微妙勝身　　為何所在",
+    "folio":1,
+    "stemmed":"然 栴 檀 薪   微 妙 勝 身   為 何 所 在 "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299a21_4",
+    "original":"爾時迦葉。",
+    "folio":1,
+    "stemmed":"爾 時 迦 葉  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299a21_9",
+    "original":"以乳滅火。",
+    "folio":1,
+    "stemmed":"以 乳 滅 火  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299a21_14",
+    "original":"說偈讚曰。",
+    "folio":1,
+    "stemmed":"說 偈 讚 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299a22_0",
+    "original":"千㲲纏身　　火耶旬之　　佛神力故",
+    "folio":1,
+    "stemmed":"千 㲲 纏 身   火 耶 旬 之   佛 神 力 故 "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299a23_0",
+    "original":"內一衣在　　外亦不燒　　唯中都盡",
+    "folio":1,
+    "stemmed":"內 一 衣 在   外 亦 不 燒   唯 中 都 盡 "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299a24_0",
+    "original":"此勝神力　　不可思議",
+    "folio":1,
+    "stemmed":"此 勝 神 力   不可思議 "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299a25_12",
+    "original":"摩訶迦葉說是偈已告諸比丘。",
+    "folio":1,
+    "stemmed":"摩 訶 迦 葉 說 是 偈 已 告 諸 比 丘  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299a25_17",
+    "original":"佛已耶旬。",
+    "folio":1,
+    "stemmed":"佛 已 耶 旬  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299a26_7",
+    "original":"世尊舍利非我等事。",
+    "folio":1,
+    "stemmed":"世 尊 舍 利 非 我 等 事  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299a26_11",
+    "original":"何以故。",
+    "folio":1,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299a27_1",
+    "original":"國王長者大臣居士。",
+    "folio":1,
+    "stemmed":"國 王 長 者 大 臣 居 士  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299a27_10",
+    "original":"求最勝福自當供養。",
+    "folio":1,
+    "stemmed":"求 最 勝 福 自 當 供 養  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299a27_19",
+    "original":"我等宜當結集法眼。",
+    "folio":1,
+    "stemmed":"我 等 宜 當 結 集 法 眼  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299a28_8",
+    "original":"無令法炬速疾磨滅。",
+    "folio":1,
+    "stemmed":"無 令 法 炬 速 疾 磨 滅  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299a28_17",
+    "original":"為未來世當作照明。",
+    "folio":1,
+    "stemmed":"為 未 來 世 當 作 照 明  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299a29_7",
+    "original":"紹隆三寶使不斷絕。",
+    "folio":1,
+    "stemmed":"紹 隆 三 寶 使 不 斷 絕  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299a29_16",
+    "original":"爾時迦葉與諸比丘。",
+    "folio":1,
+    "stemmed":"爾 時 迦 葉 與 諸 比 丘  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b01_6",
+    "original":"至王舍城賓鉢羅窟。",
+    "folio":1,
+    "stemmed":"至 王 舍 城 賓 鉢 羅 窟  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b01_15",
+    "original":"阿闍世王得無根信。",
+    "folio":1,
+    "stemmed":"阿 闍 世 王 得 無 根 信  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b02_13",
+    "original":"及至如來滅度之後群臣相與咸共議曰。",
+    "folio":1,
+    "stemmed":"及 至 如 來 滅 度 之 後 群 臣 相 與 咸 共 議 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b03_4",
+    "original":"大王信心猶如巨海。",
+    "folio":1,
+    "stemmed":"大 王 信 心 猶 如 巨 海  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b03_13",
+    "original":"超諸人天世界之上。",
+    "folio":1,
+    "stemmed":"超 諸 人 天 世 界 之 上  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b04_3",
+    "original":"若聞世尊入涅槃者。",
+    "folio":1,
+    "stemmed":"若 聞 世 尊 入 涅 槃 者  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b04_12",
+    "original":"沸血必當從面流出。",
+    "folio":1,
+    "stemmed":"沸 血 必 當 從 面 流 出  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b05_2",
+    "original":"身體分散命不云遠。",
+    "folio":1,
+    "stemmed":"身 體 分 散 命 不 云 遠  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b05_11",
+    "original":"當設何方令免斯難。",
+    "folio":1,
+    "stemmed":"當 設 何 方 令 免 斯 難  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b06_1",
+    "original":"時有一臣名曰雨舍。",
+    "folio":1,
+    "stemmed":"時 有 一 臣 名 曰 雨 舍  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b06_10",
+    "original":"智慧淵廣善於方便。",
+    "folio":1,
+    "stemmed":"智 慧 淵 廣 善 於 方 便  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b07_1",
+    "original":"造一銅池縱廣數仞。",
+    "folio":1,
+    "stemmed":"造 一 銅 池 縱 廣 數 仞  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b07_10",
+    "original":"以淨香油盈注其內。",
+    "folio":1,
+    "stemmed":"以 淨 香 油 盈 注 其 內  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b08_2",
+    "original":"令阿闍世王坐斯池中。",
+    "folio":1,
+    "stemmed":"令 阿 闍 世 王 坐 斯 池 中  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b08_11",
+    "original":"而復更以鮮淨白㲲。",
+    "folio":1,
+    "stemmed":"而 復 更 以 鮮 淨 白 㲲  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b09_1",
+    "original":"圖畫如來本行之像。",
+    "folio":1,
+    "stemmed":"圖 畫 如 來 本 行 之 像  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b09_18",
+    "original":"所謂菩薩從兜率天化乘白象降神母胎。",
+    "folio":1,
+    "stemmed":"所 謂 菩 薩 從 兜 率 天 化 乘 白 象 降 神 母 胎  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b10_8",
+    "original":"父名白淨母曰摩耶。",
+    "folio":1,
+    "stemmed":"父 名 白 淨 母 曰 摩 耶  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b10_17",
+    "original":"處胎滿足十月而生。",
+    "folio":1,
+    "stemmed":"處 胎 滿 足 十 月 而 生  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b11_7",
+    "original":"生未至地帝釋奉接。",
+    "folio":1,
+    "stemmed":"生 未 至 地 帝 釋 奉 接  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b12_2",
+    "original":"難陀龍王及跋難陀吐水而浴。",
+    "folio":1,
+    "stemmed":"難 陀 龍 王 及 跋 難 陀 吐 水 而 浴  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b12_11",
+    "original":"摩尼跋陀大鬼神王。",
+    "folio":1,
+    "stemmed":"摩 尼 跋 陀 大 鬼 神 王  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b13_1",
+    "original":"執持寶蓋隨後侍立。",
+    "folio":1,
+    "stemmed":"執 持 寶 蓋 隨 後 侍 立  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b13_10",
+    "original":"地神化華以承其足。",
+    "folio":1,
+    "stemmed":"地 神 化 華 以 承 其 足  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b13_19",
+    "original":"四方各行滿足七步。",
+    "folio":1,
+    "stemmed":"四 方 各 行 滿 足 七 步  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b14_12",
+    "original":"至於天廟令諸天像悉起奉迎。",
+    "folio":1,
+    "stemmed":"至 於 天 廟 令 諸 天 像 悉 起 奉 迎  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b15_3",
+    "original":"阿私陀仙抱持占相。",
+    "folio":1,
+    "stemmed":"阿 私 陀 仙 抱 持 占 相  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b15_12",
+    "original":"既占相已生大悲苦。",
+    "folio":1,
+    "stemmed":"既 占 相 已 生 大 悲 苦  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b16_2",
+    "original":"自傷當終不覩佛興。",
+    "folio":1,
+    "stemmed":"自 傷 當 終 不 覩 佛 興  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b16_11",
+    "original":"詣師學書技藝圖讖。",
+    "folio":1,
+    "stemmed":"詣 師 學 書 技 藝 圖 讖  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b17_5",
+    "original":"處在深宮六萬婇女娛樂受樂。",
+    "folio":1,
+    "stemmed":"處 在 深 宮 六 萬 婇 女 娛 樂 受 樂  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b17_15",
+    "original":"出城遊觀至迦毘羅園。",
+    "folio":1,
+    "stemmed":"出 城 遊 觀 至 迦 毘 羅 園  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b18_5",
+    "original":"道見老人及以沙門。",
+    "folio":1,
+    "stemmed":"道 見 老 人 及 以 沙 門  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b18_14",
+    "original":"還詣宮中見諸婇女。",
+    "folio":1,
+    "stemmed":"還 詣 宮 中 見 諸 婇 女  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b19_4",
+    "original":"形體狀貌猶如枯骨。",
+    "folio":1,
+    "stemmed":"形 體 狀 貌 猶 如 枯 骨  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b19_13",
+    "original":"所有宮殿塜墓無異。",
+    "folio":1,
+    "stemmed":"所 有 宮 殿 塜 墓 無 異  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b20_3",
+    "original":"厭惡出家夜半踰城。",
+    "folio":1,
+    "stemmed":"厭 惡 出 家 夜 半 踰 城  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b20_16",
+    "original":"至欝陀伽阿羅邏等大仙人所。",
+    "folio":1,
+    "stemmed":"至 欝 陀 伽 阿 羅 邏 等 大 仙 人 所  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b21_10",
+    "original":"聞說識處及非有想非無想定。",
+    "folio":1,
+    "stemmed":"聞 說 識 處 及 非 有 想 非 無 想 定  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b22_1",
+    "original":"既聞是已深諦觀察。",
+    "folio":1,
+    "stemmed":"既 聞 是 已 深 諦 觀 察  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b22_10",
+    "original":"知非常苦不淨無我。",
+    "folio":1,
+    "stemmed":"知 非 常 苦 不 淨 無 我  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b22_19",
+    "original":"捨至樹下六年苦行。",
+    "folio":1,
+    "stemmed":"捨 至 樹 下 六 年 苦 行  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b23_8",
+    "original":"便知是苦不能得道。",
+    "folio":1,
+    "stemmed":"便 知 是 苦 不 能 得 道  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b24_3",
+    "original":"爾時復到阿利跋提河中洗浴。",
+    "folio":1,
+    "stemmed":"爾 時 復 到 阿 利 跋 提 河 中 洗 浴  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b25_8",
+    "original":"爾時有二牧牛女人。",
+    "folio":1,
+    "stemmed":"爾 時 有 二 牧 牛 女 人  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b26_8",
+    "original":"欲祀神故以千頭牛搆取其乳飲五百頭。",
+    "folio":1,
+    "stemmed":"欲 祀 神 故 以 千 頭 牛 搆 取 其 乳 飲 五 百 頭  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b26_17",
+    "original":"如是展轉乃至一牛。",
+    "folio":1,
+    "stemmed":"如 是 展 轉 乃 至 一 牛  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b27_7",
+    "original":"即取其乳煮用作糜。",
+    "folio":1,
+    "stemmed":"即 取 其 乳 煮 用 作 糜  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b27_16",
+    "original":"涌高九尺不棄一渧。",
+    "folio":1,
+    "stemmed":"涌 高 九 尺 不 棄 一 渧  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b28_4",
+    "original":"有婆羅門問言。",
+    "folio":1,
+    "stemmed":"有婆羅門 問 言  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b28_7",
+    "original":"姊妹。",
+    "folio":1,
+    "stemmed":"姊 妹  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b28_16",
+    "original":"汝煮此糜欲上何人。",
+    "folio":1,
+    "stemmed":"汝 煮 此 糜 欲 上 何 人  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b29_2",
+    "original":"女即答曰。",
+    "folio":1,
+    "stemmed":"女 即 答 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b29_7",
+    "original":"持祀樹神。",
+    "folio":1,
+    "stemmed":"持 祀 樹 神  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299b29_12",
+    "original":"婆羅門言。",
+    "folio":1,
+    "stemmed":"婆羅門言  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c01_2",
+    "original":"何有神祇能受斯食。",
+    "folio":1,
+    "stemmed":"何 有 神 祇 能 受 斯 食  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c01_11",
+    "original":"唯有食者成一切智。",
+    "folio":1,
+    "stemmed":"唯 有 食 者 成 一 切 智  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c02_1",
+    "original":"乃能受汝若斯之供。",
+    "folio":1,
+    "stemmed":"乃 能 受 汝 若 斯 之 供  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c02_10",
+    "original":"於是女人便奉菩薩。",
+    "folio":1,
+    "stemmed":"於 是 女 人 便 奉 菩 薩  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c02_19",
+    "original":"即為納受而用食之。",
+    "folio":1,
+    "stemmed":"即 為 納 受 而 用 食 之  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c03_8",
+    "original":"然後方詣菩提樹下。",
+    "folio":1,
+    "stemmed":"然 後 方 詣 菩提樹下  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c03_17",
+    "original":"破魔波旬成最正覺。",
+    "folio":1,
+    "stemmed":"破 魔 波 旬 成最正覺  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c04_11",
+    "original":"於波羅㮈為五比丘初轉法輪。",
+    "folio":1,
+    "stemmed":"於 波 羅 㮈 為 五 比 丘 初轉法輪  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c05_10",
+    "original":"乃至詣於拘尸那城力士生地入般涅槃。",
+    "folio":1,
+    "stemmed":"乃 至 詣 於 拘 尸 那 城 力 士 生 地 入般涅槃  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c06_1",
+    "original":"如是等像皆悉圖畫。",
+    "folio":1,
+    "stemmed":"如 是 等 像 皆 悉 圖 畫  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c06_6",
+    "original":"王問群臣。",
+    "folio":1,
+    "stemmed":"王 問 群 臣  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c06_11",
+    "original":"汝作何等。",
+    "folio":1,
+    "stemmed":"汝 作 何 等  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c06_16",
+    "original":"答言大王。",
+    "folio":1,
+    "stemmed":"答 言 大 王  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c07_4",
+    "original":"我畫如來功德之像。",
+    "folio":1,
+    "stemmed":"我 畫 如 來 功 德 之 像  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c07_13",
+    "original":"次至世尊滅度形變。",
+    "folio":1,
+    "stemmed":"次 至 世 尊 滅 度 形 變  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c08_3",
+    "original":"王便驚愕舉身毛竪。",
+    "folio":1,
+    "stemmed":"王 便 驚 愕 舉 身 毛 竪  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c08_12",
+    "original":"深生悲戀思慕如來。",
+    "folio":1,
+    "stemmed":"深 生 悲 戀 思 慕 如 來  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c09_2",
+    "original":"此池中油五分之一。",
+    "folio":1,
+    "stemmed":"此 池 中 油 五 分 之 一  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c09_11",
+    "original":"忽然流注入王身中。",
+    "folio":1,
+    "stemmed":"忽 然 流 注 入 王 身 中  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c10_5",
+    "original":"譬如焦墼投之大池水自滲入。",
+    "folio":1,
+    "stemmed":"譬 如 焦 墼 投 之 大 池 水 自 滲 入  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c10_10",
+    "original":"彼亦如是。",
+    "folio":1,
+    "stemmed":"彼 亦 如 是  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c11_1",
+    "original":"由斯因緣命得全濟。",
+    "folio":1,
+    "stemmed":"由 斯 因 緣 命 得 全 濟  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c11_10",
+    "original":"阿闍世王信敬隆篤。",
+    "folio":1,
+    "stemmed":"阿 闍 世 王 信 敬 隆 篤  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c11_19",
+    "original":"感戀如來其事若此。",
+    "folio":1,
+    "stemmed":"感 戀 如 來 其 事 若 此  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c12_8",
+    "original":"聞迦葉往甚大歡喜。",
+    "folio":1,
+    "stemmed":"聞 迦 葉 往 甚 大 歡 喜  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c12_17",
+    "original":"嚴治道路燒香散華。",
+    "folio":1,
+    "stemmed":"嚴 治 道 路 燒 香 散 華  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c13_7",
+    "original":"自乘白象出迎迦葉。",
+    "folio":1,
+    "stemmed":"自 乘 白 象 出 迎 迦 葉  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c14_2",
+    "original":"王昔見佛自投象下恭敬禮拜。",
+    "folio":1,
+    "stemmed":"王 昔 見 佛 自 投 象 下 恭敬禮拜  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c14_11",
+    "original":"見迦葉時亦復如是。",
+    "folio":1,
+    "stemmed":"見 迦 葉 時 亦復如是  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c15_5",
+    "original":"摩訶迦葉神力接之令無傷害。",
+    "folio":1,
+    "stemmed":"摩 訶 迦 葉 神 力 接 之 令 無 傷 害  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c15_10",
+    "original":"即告王曰。",
+    "folio":1,
+    "stemmed":"即 告 王 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c15_19",
+    "original":"佛力殊勝不同聲聞。",
+    "folio":1,
+    "stemmed":"佛 力 殊 勝 不 同 聲 聞  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c16_8",
+    "original":"聲聞入定乃有神足。",
+    "folio":1,
+    "stemmed":"聲 聞 入 定 乃 有 神 足  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c16_17",
+    "original":"自後見我勿投象也。",
+    "folio":1,
+    "stemmed":"自 後 見 我 勿 投 象 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c17_3",
+    "original":"王言敬諾。",
+    "folio":1,
+    "stemmed":"王 言 敬 諾  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c17_8",
+    "original":"即白迦葉。",
+    "folio":1,
+    "stemmed":"即 白 迦 葉  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c17_17",
+    "original":"世尊涅槃我竟不見。",
+    "folio":1,
+    "stemmed":"世 尊 涅 槃 我 竟 不 見  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c18_6",
+    "original":"尊若滅度願必垂告。",
+    "folio":1,
+    "stemmed":"尊 若 滅 度 願 必 垂 告  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c18_11",
+    "original":"迦葉曰善。",
+    "folio":1,
+    "stemmed":"迦 葉 曰 善  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c18_16",
+    "original":"因告王言。",
+    "folio":1,
+    "stemmed":"因 告 王 言  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c19_5",
+    "original":"如來世尊智慧深遠。",
+    "folio":1,
+    "stemmed":"如 來 世 尊 智 慧 深 遠  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c19_14",
+    "original":"能滅眾生三毒熾火。",
+    "folio":1,
+    "stemmed":"能 滅 眾 生 三 毒 熾 火  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c20_4",
+    "original":"能枯十二因緣大樹。",
+    "folio":1,
+    "stemmed":"能 枯 十二因緣 大 樹  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c20_13",
+    "original":"諸天世人皆蒙饒益。",
+    "folio":1,
+    "stemmed":"諸 天 世 人 皆 蒙 饒 益  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c21_3",
+    "original":"今入涅槃世間眼滅。",
+    "folio":1,
+    "stemmed":"今 入 涅 槃 世 間 眼 滅  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c21_12",
+    "original":"生老病死憂悲衰惱。",
+    "folio":1,
+    "stemmed":"生老病死 憂 悲 衰 惱  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c22_2",
+    "original":"如是等苦轉更熾盛。",
+    "folio":1,
+    "stemmed":"如 是 等 苦 轉 更 熾 盛  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c22_11",
+    "original":"我欲為彼而作慧明。",
+    "folio":1,
+    "stemmed":"我 欲 為 彼 而 作 慧 明  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c23_1",
+    "original":"共諸比丘集佛法藏。",
+    "folio":1,
+    "stemmed":"共 諸 比 丘 集 佛 法 藏  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c23_10",
+    "original":"王於今者宜辦供具。",
+    "folio":1,
+    "stemmed":"王 於 今 者 宜 辦 供 具  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c23_15",
+    "original":"王言善哉。",
+    "folio":1,
+    "stemmed":"王 言 善 哉  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c24_4",
+    "original":"願諸聖士恒受我供。",
+    "folio":1,
+    "stemmed":"願 諸 聖 士 恒 受 我 供  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c24_13",
+    "original":"於是迦葉告阿那律。",
+    "folio":1,
+    "stemmed":"於 是 迦 葉 告 阿 那 律  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c25_3",
+    "original":"諸羅漢中誰不來者。",
+    "folio":1,
+    "stemmed":"諸 羅 漢 中 誰 不 來 者  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c25_8",
+    "original":"阿那律言。",
+    "folio":1,
+    "stemmed":"阿 那 律 言  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c25_18",
+    "original":"憍梵波提在尸利沙宮。",
+    "folio":1,
+    "stemmed":"憍 梵 波 提 在 尸 利 沙 宮  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c26_2",
+    "original":"猶未來。",
+    "folio":1,
+    "stemmed":"猶 未 來  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c26_12",
+    "original":"此爾時迦葉告梨婆提。",
+    "folio":1,
+    "stemmed":"此 爾 時 迦 葉 告 梨 婆 提  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c27_7",
+    "original":"汝可往彼尸利沙宮語憍梵波提。",
+    "folio":1,
+    "stemmed":"汝 可 往 彼 尸 利 沙 宮 語 憍 梵 波 提  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c27_16",
+    "original":"大迦葉等今有僧事。",
+    "folio":1,
+    "stemmed":"大 迦 葉 等 今 有 僧 事  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c28_2",
+    "original":"要須相見。",
+    "folio":1,
+    "stemmed":"要 須 相 見  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c28_11",
+    "original":"時梨婆提飛空而往。",
+    "folio":1,
+    "stemmed":"時 梨 婆 提 飛 空 而 往  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c28_16",
+    "original":"具陳上事。",
+    "folio":1,
+    "stemmed":"具 陳 上 事  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c29_5",
+    "original":"爾時尊者問梨婆提。",
+    "folio":1,
+    "stemmed":"爾 時 尊 者 問 梨 婆 提  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c29_14",
+    "original":"世尊何在而云迦葉。",
+    "folio":1,
+    "stemmed":"世 尊 何 在 而 云 迦 葉  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0299c29_19",
+    "original":"梨婆提言。",
+    "folio":1,
+    "stemmed":"梨 婆 提 言  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a01_4",
+    "original":"佛入涅槃。",
+    "folio":1,
+    "stemmed":"佛 入 涅 槃  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a01_13",
+    "original":"法橋已壞法山已崩。",
+    "folio":1,
+    "stemmed":"法 橋 已 壞 法 山 已 崩  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a02_3",
+    "original":"法燈已滅黑闇時至。",
+    "folio":1,
+    "stemmed":"法 燈 已 滅 黑 闇 時 至  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a02_10",
+    "original":"憍梵波提歎曰。",
+    "folio":1,
+    "stemmed":"憍 梵 波 提 歎 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a02_17",
+    "original":"苦哉世間空虛。",
+    "folio":1,
+    "stemmed":"苦 哉 世 間 空 虛  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a03_6",
+    "original":"魔王波旬今當喜矣。",
+    "folio":1,
+    "stemmed":"魔王波旬 今 當 喜 矣  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a03_15",
+    "original":"凡愚眾生無明所蔽。",
+    "folio":1,
+    "stemmed":"凡 愚 眾 生 無 明 所 蔽  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a04_5",
+    "original":"流轉生死沒在魔網。",
+    "folio":1,
+    "stemmed":"流轉生死 沒 在 魔 網  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a04_14",
+    "original":"十力世尊挽而出之。",
+    "folio":1,
+    "stemmed":"十 力 世 尊 挽 而 出 之  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a05_4",
+    "original":"今入涅槃永無救護。",
+    "folio":1,
+    "stemmed":"今 入 涅 槃 永 無 救 護  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a05_13",
+    "original":"哀哉眾生深可悲愍。",
+    "folio":1,
+    "stemmed":"哀 哉 眾 生 深 可 悲 愍  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a05_18",
+    "original":"告梨婆提。",
+    "folio":1,
+    "stemmed":"告 梨 婆 提  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a06_11",
+    "original":"汝可為我頂禮迦葉及餘聖眾。",
+    "folio":1,
+    "stemmed":"汝 可 為 我 頂 禮 迦 葉 及 餘 聖 眾  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a06_16",
+    "original":"如我辭曰。",
+    "folio":1,
+    "stemmed":"如 我 辭 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a07_6",
+    "original":"憍梵波提白大迦葉。",
+    "folio":1,
+    "stemmed":"憍 梵 波 提 白 大 迦 葉  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a07_11",
+    "original":"世尊若在。",
+    "folio":1,
+    "stemmed":"世 尊 若 在  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a08_1",
+    "original":"我當往彼禮拜供養。",
+    "folio":1,
+    "stemmed":"我 當 往 彼 禮拜供養  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a08_6",
+    "original":"今入涅槃。",
+    "folio":1,
+    "stemmed":"今 入 涅 槃  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a08_11",
+    "original":"世間空虛。",
+    "folio":1,
+    "stemmed":"世 間 空 虛  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a08_20",
+    "original":"觀閻浮提無一可樂。",
+    "folio":1,
+    "stemmed":"觀 閻 浮 提 無 一 可 樂  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a09_12",
+    "original":"如大龍王既捨身已龍子必隨。",
+    "folio":1,
+    "stemmed":"如 大 龍 王 既 捨 身 已 龍 子 必 隨  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a09_17",
+    "original":"我亦如是。",
+    "folio":1,
+    "stemmed":"我 亦 如 是  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a10_3",
+    "original":"今欲涅槃。",
+    "folio":1,
+    "stemmed":"今 欲 涅 槃  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a10_12",
+    "original":"作是語已即便滅度。",
+    "folio":1,
+    "stemmed":"作是語已 即 便 滅 度  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a11_6",
+    "original":"如是諸人聞佛滅度悉入涅槃。",
+    "folio":1,
+    "stemmed":"如 是 諸 人 聞 佛 滅 度 悉 入 涅 槃  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a11_11",
+    "original":"迦葉唱言。",
+    "folio":1,
+    "stemmed":"迦 葉 唱 言  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a12_1",
+    "original":"未集法藏勿涅槃也。",
+    "folio":1,
+    "stemmed":"未 集 法 藏 勿 涅 槃 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a12_10",
+    "original":"時諸比丘問大迦葉。",
+    "folio":1,
+    "stemmed":"時 諸 比 丘 問 大 迦 葉  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a12_15",
+    "original":"先集何法。",
+    "folio":1,
+    "stemmed":"先 集 何 法  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a13_1",
+    "original":"迦葉答言。",
+    "folio":1,
+    "stemmed":"迦 葉 答 言  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a13_6",
+    "original":"先修多羅。",
+    "folio":1,
+    "stemmed":"先 修 多 羅  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a13_15",
+    "original":"又問使誰集修多羅。",
+    "folio":1,
+    "stemmed":"又 問 使 誰 集 修 多 羅  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a14_1",
+    "original":"大迦葉言。",
+    "folio":1,
+    "stemmed":"大 迦 葉 言  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a14_14",
+    "original":"阿難比丘多聞總持有大智慧。",
+    "folio":1,
+    "stemmed":"阿 難 比 丘 多 聞 總 持 有 大 智 慧  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a15_4",
+    "original":"常隨如來梵行清淨。",
+    "folio":1,
+    "stemmed":"常 隨 如 來 梵 行 清 淨  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a15_13",
+    "original":"最後法中利安眾僧。",
+    "folio":1,
+    "stemmed":"最 後 法 中 利 安 眾 僧  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a16_3",
+    "original":"知見具足佛所讚歎。",
+    "folio":1,
+    "stemmed":"知 見 具 足 佛 所 讚 歎  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a16_12",
+    "original":"宜可使彼集修多羅。",
+    "folio":1,
+    "stemmed":"宜 可 使 彼 集 修 多 羅  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a17_2",
+    "original":"爾時迦葉即告阿難。",
+    "folio":1,
+    "stemmed":"爾 時 迦 葉 即 告 阿 難  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a17_11",
+    "original":"汝於今者可演法眼。",
+    "folio":1,
+    "stemmed":"汝 於 今 者 可 演 法 眼  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a17_16",
+    "original":"阿難曰諾。",
+    "folio":1,
+    "stemmed":"阿 難 曰 諾  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a18_6",
+    "original":"觀察眾心而說偈言。",
+    "folio":1,
+    "stemmed":"觀 察 眾 心 而 說 偈 言  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a19_0",
+    "original":"比丘諸眷屬　　離佛不莊嚴",
+    "folio":1,
+    "stemmed":"比 丘 諸 眷 屬   離 佛 不 莊 嚴 "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a20_0",
+    "original":"猶如虛空中　　眾星之無月",
+    "folio":1,
+    "stemmed":"猶如虛空 中   眾 星 之 無 月 "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a21_8",
+    "original":"說是偈已禮眾僧足。",
+    "folio":1,
+    "stemmed":"說 是 偈 已 禮 眾 僧 足  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a21_17",
+    "original":"即昇法座而說是言。",
+    "folio":1,
+    "stemmed":"即 昇 法 座 而 說 是 言  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a22_3",
+    "original":"如是我聞。",
+    "folio":1,
+    "stemmed":"如是我聞  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a23_1",
+    "original":"一時佛住波羅㮈鹿野苑中古仙住處。",
+    "folio":1,
+    "stemmed":"一 時 佛 住 波 羅 㮈 鹿 野 苑 中 古 仙 住 處  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a23_10",
+    "original":"為五比丘初轉法輪。",
+    "folio":1,
+    "stemmed":"為 五 比 丘 初轉法輪  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a23_15",
+    "original":"謂苦聖諦。",
+    "folio":1,
+    "stemmed":"謂 苦 聖 諦  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a23_20",
+    "original":"如是廣說。",
+    "folio":1,
+    "stemmed":"如 是 廣 說  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a24_4",
+    "original":"說是語已。",
+    "folio":1,
+    "stemmed":"說 是 語 已  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a24_13",
+    "original":"五百羅漢飛昇虛空。",
+    "folio":1,
+    "stemmed":"五 百 羅 漢 飛 昇 虛 空  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a24_18",
+    "original":"高聲唱言。",
+    "folio":1,
+    "stemmed":"高 聲 唱 言  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a25_7",
+    "original":"奇哉無常甚大迅速。",
+    "folio":1,
+    "stemmed":"奇 哉 無 常 甚 大 迅 速  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a25_16",
+    "original":"如河駛流逝而不返。",
+    "folio":1,
+    "stemmed":"如 河 駛 流 逝 而 不 返  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a26_6",
+    "original":"我等昔者目覩世尊。",
+    "folio":1,
+    "stemmed":"我 等 昔 者 目 覩 世 尊  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a26_11",
+    "original":"今乃言聞。",
+    "folio":1,
+    "stemmed":"今 乃 言 聞  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a27_1",
+    "original":"皆各悲泣而說偈言。",
+    "folio":1,
+    "stemmed":"皆 各 悲 泣 而 說 偈 言  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a28_0",
+    "original":"咄哉諸有苦　　迴動如水月",
+    "folio":1,
+    "stemmed":"咄 哉 諸 有 苦   迴 動 如 水 月 "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300a29_0",
+    "original":"不堅如芭蕉　　亦如幻影響",
+    "folio":1,
+    "stemmed":"不 堅 如 芭 蕉   亦 如 幻 影 響 "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b01_0",
+    "original":"如來大雄猛　　功德超三界",
+    "folio":1,
+    "stemmed":"如 來 大 雄 猛   功 德 超 三 界 "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b02_0",
+    "original":"猶為無常風　　㵱流而不住",
+    "folio":1,
+    "stemmed":"猶 為 無 常 風   㵱 流 而 不 住 "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b03_12",
+    "original":"五百羅漢說是偈已還復本座。",
+    "folio":1,
+    "stemmed":"五 百 羅 漢 說 是 偈 已 還 復 本 座  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b04_3",
+    "original":"爾時迦葉問諸比丘。",
+    "folio":1,
+    "stemmed":"爾 時 迦 葉 問 諸 比 丘  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b04_12",
+    "original":"阿難所言不錯謬耶。",
+    "folio":1,
+    "stemmed":"阿 難 所 言 不 錯 謬 耶  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b04_15",
+    "original":"皆曰。",
+    "folio":1,
+    "stemmed":"皆 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b05_2",
+    "original":"不異世尊所說。",
+    "folio":1,
+    "stemmed":"不 異 世 尊 所 說  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b05_11",
+    "original":"於是迦葉命優波離。",
+    "folio":1,
+    "stemmed":"於 是 迦 葉 命 優 波 離  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b05_16",
+    "original":"集毘尼藏。",
+    "folio":1,
+    "stemmed":"集 毘 尼 藏  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b06_5",
+    "original":"迦葉自集阿毘曇藏。",
+    "folio":1,
+    "stemmed":"迦 葉 自 集 阿 毘 曇 藏  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b06_10",
+    "original":"集法藏已。",
+    "folio":1,
+    "stemmed":"集 法 藏 已  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b06_19",
+    "original":"摩訶迦葉即說偈言。",
+    "folio":1,
+    "stemmed":"摩 訶 迦 葉 即 說 偈 言  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b07_0",
+    "original":"以此尊法輪　　濟諸群生類",
+    "folio":1,
+    "stemmed":"以 此 尊 法 輪   濟 諸 群 生 類 "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b08_0",
+    "original":"十力尊所說　　皆當勤修行",
+    "folio":1,
+    "stemmed":"十 力 尊 所 說   皆 當 勤 修 行 "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b09_0",
+    "original":"此法是明燈　　能破諸黑闇",
+    "folio":1,
+    "stemmed":"此 法 是 明 燈   能 破 諸 黑 闇 "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b10_0",
+    "original":"諸賢宜受持　　慎勿生放逸",
+    "folio":1,
+    "stemmed":"諸 賢 宜 受 持   慎 勿 生 放 逸 "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b11_9",
+    "original":"爾時迦葉入願智三昧。",
+    "folio":1,
+    "stemmed":"爾 時 迦 葉 入 願 智 三 昧  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b11_18",
+    "original":"觀所集法無闕少耶。",
+    "folio":1,
+    "stemmed":"觀 所 集 法 無 闕 少 耶  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b12_8",
+    "original":"思惟已訖知皆具足。",
+    "folio":1,
+    "stemmed":"思 惟 已 訖 知 皆 具 足  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b12_13",
+    "original":"便作是念。",
+    "folio":1,
+    "stemmed":"便 作 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b13_3",
+    "original":"如來大師我善知識。",
+    "folio":1,
+    "stemmed":"如 來 大 師 我 善 知 識  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b13_12",
+    "original":"利安饒益如母愛子。",
+    "folio":1,
+    "stemmed":"利 安 饒 益 如 母 愛 子  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b14_2",
+    "original":"我今以法益同梵行。",
+    "folio":1,
+    "stemmed":"我 今 以 法 益 同 梵 行  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b14_11",
+    "original":"示未來世作大悲想。",
+    "folio":1,
+    "stemmed":"示 未 來 世 作 大 悲 想  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b15_1",
+    "original":"欲使大法流布不絕。",
+    "folio":1,
+    "stemmed":"欲 使 大 法 流 布 不 絕  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b15_10",
+    "original":"始於今者報如來恩。",
+    "folio":1,
+    "stemmed":"始 於 今 者 報 如 來 恩  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b15_19",
+    "original":"我年朽邁身為老壞。",
+    "folio":1,
+    "stemmed":"我 年 朽 邁 身 為 老 壞  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b16_8",
+    "original":"臭爛之體甚可厭惡。",
+    "folio":1,
+    "stemmed":"臭 爛 之 體 甚 可 厭 惡  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b16_17",
+    "original":"無常危敗不可依恃。",
+    "folio":1,
+    "stemmed":"無 常 危 敗 不 可 依 恃  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b17_7",
+    "original":"恒為諸苦之所惱害。",
+    "folio":1,
+    "stemmed":"恒 為 諸 苦 之 所 惱 害  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b17_16",
+    "original":"誰有智者當樂此身。",
+    "folio":1,
+    "stemmed":"誰 有 智 者 當 樂 此 身  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b18_6",
+    "original":"我今宜可入般涅槃。",
+    "folio":1,
+    "stemmed":"我 今 宜 可 入般涅槃  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b18_11",
+    "original":"復更思惟。",
+    "folio":1,
+    "stemmed":"復 更 思 惟  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b19_10",
+    "original":"我今當住大慈大悲佛婆伽婆真善知識。",
+    "folio":1,
+    "stemmed":"我 今 當 住 大慈大悲 佛婆伽婆 真 善 知 識  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b20_1",
+    "original":"無量淨善功德所熏。",
+    "folio":1,
+    "stemmed":"無 量 淨 善 功 德 所 熏  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b20_10",
+    "original":"微妙舍利所在之處。",
+    "folio":1,
+    "stemmed":"微 妙 舍 利 所 在 之 處  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b20_19",
+    "original":"皆往禮拜恭敬供養。",
+    "folio":1,
+    "stemmed":"皆 往 禮 拜 恭敬供養  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b21_12",
+    "original":"即飛虛空至四塔前禮拜供養。",
+    "folio":1,
+    "stemmed":"即 飛 虛 空 至 四 塔 前 禮拜供養  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b22_3",
+    "original":"復詣八塔至心恭敬。",
+    "folio":1,
+    "stemmed":"復 詣 八 塔 至 心 恭 敬  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b23_2",
+    "original":"譬如雁王飛到大海娑伽羅宮禮敬佛牙。",
+    "folio":1,
+    "stemmed":"譬 如 雁 王 飛 到 大 海 娑 伽 羅 宮 禮 敬 佛 牙  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b23_15",
+    "original":"如大壯士屈申臂頃至忉利天。",
+    "folio":1,
+    "stemmed":"如 大 壯 士 屈 申 臂 頃 至 忉 利 天  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b24_5",
+    "original":"釋提桓因與諸天眾。",
+    "folio":1,
+    "stemmed":"釋提桓因 與 諸 天 眾  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b24_14",
+    "original":"出迎迦葉禮敬供養。",
+    "folio":1,
+    "stemmed":"出 迎 迦 葉 禮 敬 供 養  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b25_4",
+    "original":"摩訶迦葉告帝釋曰。",
+    "folio":1,
+    "stemmed":"摩 訶 迦 葉 告 帝 釋 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b25_9",
+    "original":"我欲涅槃。",
+    "folio":1,
+    "stemmed":"我 欲 涅 槃  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b25_18",
+    "original":"禮如來髮故來至此。",
+    "folio":1,
+    "stemmed":"禮 如 來 髮 故 來 至 此  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b26_7",
+    "original":"釋提桓因聞是語已。",
+    "folio":1,
+    "stemmed":"釋提桓因 聞 是 語 已  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b26_16",
+    "original":"心懷惆悵悲泣懊惱。",
+    "folio":1,
+    "stemmed":"心 懷 惆 悵 悲 泣 懊 惱  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b27_6",
+    "original":"自取佛髮敬授迦葉。",
+    "folio":1,
+    "stemmed":"自 取 佛 髮 敬 授 迦 葉  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b27_15",
+    "original":"迦葉受已至心禮敬。",
+    "folio":1,
+    "stemmed":"迦 葉 受 已 至 心 禮 敬  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b28_5",
+    "original":"牛頭栴檀以用供養。",
+    "folio":1,
+    "stemmed":"牛頭栴檀 以 用 供 養  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b28_14",
+    "original":"供養已訖語諸天子。",
+    "folio":1,
+    "stemmed":"供 養 已 訖 語 諸 天 子  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b29_4",
+    "original":"五欲無常不可久保。",
+    "folio":1,
+    "stemmed":"五 欲 無 常 不 可 久 保  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300b29_13",
+    "original":"如花上露見陽則晞。",
+    "folio":1,
+    "stemmed":"如 花 上 露 見 陽 則 晞  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c01_3",
+    "original":"唯有善法深可願樂。",
+    "folio":1,
+    "stemmed":"唯 有 善 法 深 可 願 樂  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c01_12",
+    "original":"當觀苦空慎莫放逸。",
+    "folio":1,
+    "stemmed":"當 觀 苦 空 慎 莫 放 逸  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c02_6",
+    "original":"作是語已從彼天沒還王舍城。",
+    "folio":1,
+    "stemmed":"作是語已 從 彼 天 沒 還 王 舍 城  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c02_15",
+    "original":"阿難隨逐未曾捨離。",
+    "folio":1,
+    "stemmed":"阿 難 隨 逐 未 曾 捨 離  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c03_5",
+    "original":"恐入涅槃或不覩見。",
+    "folio":1,
+    "stemmed":"恐 入 涅 槃 或 不 覩 見  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c03_18",
+    "original":"後於少時摩訶迦葉告阿難曰。",
+    "folio":1,
+    "stemmed":"後 於 少 時 摩 訶 迦 葉 告 阿 難 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c04_4",
+    "original":"汝獨入城。",
+    "folio":1,
+    "stemmed":"汝 獨 入 城  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c04_9",
+    "original":"我亦當往。",
+    "folio":1,
+    "stemmed":"我 亦 當 往  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c04_18",
+    "original":"爾時迦葉著衣持鉢。",
+    "folio":1,
+    "stemmed":"爾 時 迦 葉 著衣持鉢  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c05_7",
+    "original":"入王舍城作是念言。",
+    "folio":1,
+    "stemmed":"入 王 舍 城 作是念言  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c05_16",
+    "original":"阿闍世王本與我要。",
+    "folio":1,
+    "stemmed":"阿 闍 世 王 本 與 我 要  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c06_6",
+    "original":"若涅槃時必來見我。",
+    "folio":1,
+    "stemmed":"若 涅 槃 時 必 來 見 我  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c06_15",
+    "original":"我今當往告之可乎。",
+    "folio":1,
+    "stemmed":"我 今 當 往 告 之 可 乎  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c07_5",
+    "original":"到王門下語守門人。",
+    "folio":1,
+    "stemmed":"到 王 門 下 語 守 門 人  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c07_10",
+    "original":"為我白王。",
+    "folio":1,
+    "stemmed":"為 我 白 王  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c08_4",
+    "original":"摩訶迦葉今在門外欲得相見。",
+    "folio":1,
+    "stemmed":"摩 訶 迦 葉 今 在 門 外 欲 得 相 見  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c08_9",
+    "original":"守門人言。",
+    "folio":1,
+    "stemmed":"守 門 人 言  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c08_14",
+    "original":"王今睡眠。",
+    "folio":1,
+    "stemmed":"王 今 睡 眠  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c09_3",
+    "original":"若覺之者恐貽罪累。",
+    "folio":1,
+    "stemmed":"若 覺 之 者 恐 貽 罪 累  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c09_8",
+    "original":"迦葉語言。",
+    "folio":1,
+    "stemmed":"迦 葉 語 言  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c09_13",
+    "original":"王若覺者。",
+    "folio":1,
+    "stemmed":"王 若 覺 者  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c09_18",
+    "original":"好為我語。",
+    "folio":1,
+    "stemmed":"好 為 我 語  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c10_6",
+    "original":"摩訶迦葉欲入涅槃。",
+    "folio":1,
+    "stemmed":"摩 訶 迦 葉 欲 入 涅 槃  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c10_15",
+    "original":"來與王別不見而去。",
+    "folio":1,
+    "stemmed":"來 與 王 別 不 見 而 去  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c11_5",
+    "original":"於是迦葉至鷄足山。",
+    "folio":1,
+    "stemmed":"於 是 迦 葉 至 鷄 足 山  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c11_14",
+    "original":"於草敷上跏趺而坐。",
+    "folio":1,
+    "stemmed":"於 草 敷 上 跏 趺 而 坐  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c11_19",
+    "original":"作是願言。",
+    "folio":1,
+    "stemmed":"作 是 願 言  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c12_12",
+    "original":"今我此身著佛所與糞掃之衣。",
+    "folio":1,
+    "stemmed":"今 我 此 身 著 佛 所 與 糞 掃 之 衣  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c13_7",
+    "original":"自持己鉢乃至彌勒令不朽壞。",
+    "folio":1,
+    "stemmed":"自 持 己 鉢 乃 至 彌 勒 令 不 朽 壞  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c14_2",
+    "original":"使彼弟子皆見我身而生厭惡。",
+    "folio":1,
+    "stemmed":"使 彼 弟 子 皆 見 我 身 而 生 厭 惡  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c14_7",
+    "original":"復作是念。",
+    "folio":1,
+    "stemmed":"復 作 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c14_16",
+    "original":"阿闍世王若不見我。",
+    "folio":1,
+    "stemmed":"阿 闍 世 王 若 不 見 我  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c15_5",
+    "original":"沸血必當從面而出。",
+    "folio":1,
+    "stemmed":"沸 血 必 當 從 面 而 出  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c15_10",
+    "original":"命不全濟。",
+    "folio":1,
+    "stemmed":"命 不 全 濟  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c15_19",
+    "original":"若使彼王與阿難來。",
+    "folio":1,
+    "stemmed":"若 使 彼 王 與 阿 難 來  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c16_8",
+    "original":"山當為開令其得入。",
+    "folio":1,
+    "stemmed":"山 當 為 開 令 其 得 入  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c16_17",
+    "original":"若還去者復當還合。",
+    "folio":1,
+    "stemmed":"若 還 去 者 復 當 還 合  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c17_7",
+    "original":"便捨命行唯留少壽。",
+    "folio":1,
+    "stemmed":"便 捨 命 行 唯 留 少 壽  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c18_6",
+    "original":"應時大地六種震動釋提桓因與諸天子。",
+    "folio":1,
+    "stemmed":"應 時 大 地 六種震動 釋提桓因 與 諸 天 子  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c18_16",
+    "original":"以曼陀羅花天諸末香。",
+    "folio":1,
+    "stemmed":"以 曼陀羅花 天 諸 末 香  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c19_6",
+    "original":"供養舍利生大悲惱。",
+    "folio":1,
+    "stemmed":"供 養 舍 利 生 大 悲 惱  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c19_11",
+    "original":"而作是言。",
+    "folio":1,
+    "stemmed":"而 作 是 言  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c20_1",
+    "original":"如來滅度感戀未息。",
+    "folio":1,
+    "stemmed":"如 來 滅 度 感 戀 未 息  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c20_10",
+    "original":"迦葉涅槃增我悲惱。",
+    "folio":1,
+    "stemmed":"迦 葉 涅 槃 增 我 悲 惱  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c20_19",
+    "original":"賓鉢羅窟即便空曠。",
+    "folio":1,
+    "stemmed":"賓 鉢 羅 窟 即 便 空 曠  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c21_8",
+    "original":"巷里窮酸苦厄羸劣。",
+    "folio":1,
+    "stemmed":"巷 里 窮 酸 苦 厄 羸 劣  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c21_17",
+    "original":"貧露孤寒彼恒矜愍。",
+    "folio":1,
+    "stemmed":"貧 露 孤 寒 彼 恒 矜 愍  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c22_7",
+    "original":"今捨之去誰當覆護。",
+    "folio":1,
+    "stemmed":"今 捨 之 去 誰 當 覆 護  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c22_16",
+    "original":"如十五日天無雲翳。",
+    "folio":1,
+    "stemmed":"如 十 五 日 天 無 雲 翳  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c23_6",
+    "original":"月及眾星處空顯現。",
+    "folio":1,
+    "stemmed":"月 及 眾 星 處 空 顯 現  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c23_15",
+    "original":"如來聖眾亦復如是。",
+    "folio":1,
+    "stemmed":"如 來 聖 眾 亦復如是  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c24_5",
+    "original":"住在世間猶如星月。",
+    "folio":1,
+    "stemmed":"住 在 世 間 猶 如 星 月  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c24_14",
+    "original":"死無常雲如何卒起。",
+    "folio":1,
+    "stemmed":"死 無 常 雲 如 何 卒 起  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c25_5",
+    "original":"一旦隱蔽最勝福田。",
+    "folio":1,
+    "stemmed":"一 旦 隱 蔽 最 勝 福 田  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c25_14",
+    "original":"諸天如是極生悲感。",
+    "folio":1,
+    "stemmed":"諸 天 如 是 極 生 悲 感  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c26_4",
+    "original":"哀摧號哭啼泣懊惱。",
+    "folio":1,
+    "stemmed":"哀 摧 號 哭 啼 泣 懊 惱  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c26_13",
+    "original":"共相裁抑歸還天上。",
+    "folio":1,
+    "stemmed":"共 相 裁 抑 歸 還 天 上  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c27_3",
+    "original":"阿闍世王於睡臥中。",
+    "folio":1,
+    "stemmed":"阿 闍 世 王 於 睡 臥 中  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c27_8",
+    "original":"夢屋梁折。",
+    "folio":1,
+    "stemmed":"夢 屋 梁 折  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c27_17",
+    "original":"尋便驚覺心生惶怖。",
+    "folio":1,
+    "stemmed":"尋 便 驚 覺 心 生 惶 怖  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c28_2",
+    "original":"門人白王。",
+    "folio":1,
+    "stemmed":"門 人 白 王  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c28_11",
+    "original":"摩訶迦葉欲入涅槃。",
+    "folio":1,
+    "stemmed":"摩 訶 迦 葉 欲 入 涅 槃  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c29_1",
+    "original":"來與王別正值眠息。",
+    "folio":1,
+    "stemmed":"來 與 王 別 正 值 眠 息  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c29_10",
+    "original":"令我致意即便迴還。",
+    "folio":1,
+    "stemmed":"令 我 致 意 即 便 迴 還  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0300c29_19",
+    "original":"王聞是事悶絕躄地。",
+    "folio":1,
+    "stemmed":"王 聞 是 事 悶 絕 躄 地  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0301a01_8",
+    "original":"冷水灑面方得醒悟。",
+    "folio":1,
+    "stemmed":"冷 水 灑 面 方 得 醒 悟  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0301a01_17",
+    "original":"舉聲大哭涕泣盈目。",
+    "folio":1,
+    "stemmed":"舉 聲 大 哭 涕 泣 盈 目  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0301a02_7",
+    "original":"我何薄祐垢障深厚。",
+    "folio":1,
+    "stemmed":"我 何 薄 祐 垢 障 深 厚  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0301a02_16",
+    "original":"諸聖涅槃不一覩見。",
+    "folio":1,
+    "stemmed":"諸 聖 涅 槃 不 一 覩 見  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0301a03_6",
+    "original":"即詣竹園禮阿難足。",
+    "folio":1,
+    "stemmed":"即 詣 竹 園 禮 阿 難 足  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0301a03_9",
+    "original":"問言。",
+    "folio":1,
+    "stemmed":"問 言  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0301a03_16",
+    "original":"迦葉滅度未耶。",
+    "folio":1,
+    "stemmed":"迦 葉 滅 度 未 耶  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0301a04_1",
+    "original":"阿難答言。",
+    "folio":1,
+    "stemmed":"阿 難 答 言  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0301a04_6",
+    "original":"已涅槃矣。",
+    "folio":1,
+    "stemmed":"已 涅 槃 矣  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0301a04_11",
+    "original":"今在何處。",
+    "folio":1,
+    "stemmed":"今 在 何 處  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0301a04_16",
+    "original":"我欲供養。",
+    "folio":1,
+    "stemmed":"我 欲 供 養  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0301a05_9",
+    "original":"於是阿難共阿闍世王向雞足山。",
+    "folio":1,
+    "stemmed":"於 是 阿 難 共 阿 闍 世 王 向 雞 足 山  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0301a05_18",
+    "original":"王既到已山自開闢。",
+    "folio":1,
+    "stemmed":"王 既 到 已 山 自 開 闢  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0301a06_8",
+    "original":"迦葉在中全身不散。",
+    "folio":1,
+    "stemmed":"迦 葉 在 中 全 身 不 散  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0301a06_17",
+    "original":"曼陀羅花以覆其上。",
+    "folio":1,
+    "stemmed":"曼陀羅花 以 覆 其 上  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0301a07_7",
+    "original":"王見是已發聲號哭。",
+    "folio":1,
+    "stemmed":"王 見 是 已 發 聲 號 哭  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0301a07_12",
+    "original":"舉身投地。",
+    "folio":1,
+    "stemmed":"舉 身 投 地  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0301a08_2",
+    "original":"𧂐諸香木欲闍毘之。",
+    "folio":1,
+    "stemmed":"𧂐 諸 香 木 欲 闍 毘 之  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0301a08_7",
+    "original":"阿難問言。",
+    "folio":1,
+    "stemmed":"阿 難 問 言  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0301a08_12",
+    "original":"欲作何等。",
+    "folio":1,
+    "stemmed":"欲 作 何 等  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0301a08_17",
+    "original":"答欲耶旬。",
+    "folio":1,
+    "stemmed":"答 欲 耶 旬  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0301a09_2",
+    "original":"阿難言曰。",
+    "folio":1,
+    "stemmed":"阿 難 言 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0301a09_15",
+    "original":"摩訶迦葉以定住身待於彌勒。",
+    "folio":1,
+    "stemmed":"摩 訶 迦 葉 以 定 住 身 待 於 彌 勒  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0301a10_1",
+    "original":"不可得燒。",
+    "folio":1,
+    "stemmed":"不 可 得 燒  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0301a11_4",
+    "original":"彌勒出時當將徒眾九十六億至此山上見於迦葉。",
+    "folio":1,
+    "stemmed":"彌 勒 出 時 當 將 徒 眾 九 十 六 億 至 此 山 上 見 於 迦 葉  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0301a11_13",
+    "original":"時彌勒眾皆作是念。",
+    "folio":1,
+    "stemmed":"時 彌 勒 眾 皆 作 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0301a12_7",
+    "original":"釋迦如來弟子身形卑陋若此。",
+    "folio":1,
+    "stemmed":"釋 迦 如 來 弟 子 身 形 卑 陋 若 此  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0301a12_16",
+    "original":"彼佛亦當與斯無異。",
+    "folio":1,
+    "stemmed":"彼 佛 亦 當 與 斯 無 異  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0301a13_10",
+    "original":"於是迦葉踊身虛空作十八變。",
+    "folio":1,
+    "stemmed":"於 是 迦 葉 踊 身 虛 空 作 十 八 變  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0301a14_1",
+    "original":"變為大形充滿世界。",
+    "folio":1,
+    "stemmed":"變 為 大 形 充 滿 世 界  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0301a14_14",
+    "original":"時彌勒佛即就迦葉取僧伽梨。",
+    "folio":1,
+    "stemmed":"時 彌 勒 佛 即 就 迦 葉 取 僧 伽 梨  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0301a15_4",
+    "original":"是時大眾見其神力。",
+    "folio":1,
+    "stemmed":"是 時 大 眾 見 其 神 力  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0301a15_13",
+    "original":"除憍慢心成阿羅漢。",
+    "folio":1,
+    "stemmed":"除 憍 慢 心 成 阿 羅 漢  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0301a16_3",
+    "original":"王供養已還歸本國。",
+    "folio":1,
+    "stemmed":"王 供 養 已 還 歸 本 國  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0301a16_12",
+    "original":"時雞足山還合如初。",
+    "folio":1,
+    "stemmed":"時 雞 足 山 還 合 如 初  "
+  },
+  {
+    "segmentnr":"ZH_T50_2058_001:0301a17_100",
+    "original":"付法藏因緣傳卷第一",
+    "folio":1,
+    "stemmed":"付 法 藏 因 緣 傳 卷 第 一 "
+  }
+]

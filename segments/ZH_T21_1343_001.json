@@ -1,0 +1,5132 @@
+[
+  {
+    "segmentnr":"ZH_T21_1343_001:0843c09_0",
+    "original":"尊勝菩薩所問一切諸法入無",
+    "folio":1,
+    "stemmed":"尊 勝 菩 薩 所 問 一切諸法 入 無 "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0843c10_0",
+    "original":"量門陀羅尼經",
+    "folio":1,
+    "stemmed":"量 門 陀 羅 尼 經 "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0843c12_0",
+    "original":"北齊居士萬天懿譯",
+    "folio":1,
+    "stemmed":"北 齊 居 士 萬 天 懿 譯 "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0843c13_4",
+    "original":"如是我聞。",
+    "folio":1,
+    "stemmed":"如是我聞  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0843c13_18",
+    "original":"一時佛在舍衛國祇樹給孤獨園。",
+    "folio":1,
+    "stemmed":"一 時 佛 在 舍 衛 國 祇 樹 給 孤 獨 園  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0843c14_10",
+    "original":"與大比丘千二百五十人。",
+    "folio":1,
+    "stemmed":"與 大 比 丘 千二百五十 人  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0843c15_2",
+    "original":"菩薩摩訶薩萬二千人。",
+    "folio":1,
+    "stemmed":"菩薩摩訶薩 萬 二 千 人  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0843c15_9",
+    "original":"悉是一生補處。",
+    "folio":1,
+    "stemmed":"悉 是 一生補處  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0843c15_18",
+    "original":"從餘世界而來集會。",
+    "folio":1,
+    "stemmed":"從 餘 世 界 而 來 集 會  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0843c16_7",
+    "original":"得陀羅尼具無盡辯。",
+    "folio":1,
+    "stemmed":"得陀羅尼 具 無 盡 辯  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0843c16_16",
+    "original":"成就念慧具足慚愧。",
+    "folio":1,
+    "stemmed":"成 就 念 慧 具 足 慚 愧  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0843c17_6",
+    "original":"於諸佛法無有障礙。",
+    "folio":1,
+    "stemmed":"於 諸 佛 法 無有障礙  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0843c17_15",
+    "original":"為諸眾生不請之友。",
+    "folio":1,
+    "stemmed":"為 諸 眾 生 不請之友  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0843c18_5",
+    "original":"親近教化成就善法。",
+    "folio":1,
+    "stemmed":"親 近 教 化 成 就 善 法  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0843c18_14",
+    "original":"於諸佛剎往來無礙。",
+    "folio":1,
+    "stemmed":"於 諸 佛 剎 往 來 無 礙  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0843c19_8",
+    "original":"隨眾生心以眾善法而教化之。",
+    "folio":1,
+    "stemmed":"隨 眾 生 心 以 眾 善 法 而 教 化 之  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0843c19_17",
+    "original":"離於一切魔業境界。",
+    "folio":1,
+    "stemmed":"離 於 一 切 魔 業 境 界  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0843c20_7",
+    "original":"滅除一切煩惱怨賊。",
+    "folio":1,
+    "stemmed":"滅 除一切煩惱 怨 賊  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0843c20_16",
+    "original":"善能普入一切法界。",
+    "folio":1,
+    "stemmed":"善 能 普 入 一 切 法 界  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0843c21_6",
+    "original":"善能供養一切諸佛。",
+    "folio":1,
+    "stemmed":"善 能 供 養 一切諸佛  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0843c22_1",
+    "original":"善能安住一切諸禪解脫三昧。",
+    "folio":1,
+    "stemmed":"善 能 安 住 一 切 諸 禪 解 脫 三 昧  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0843c22_10",
+    "original":"又能隨意自在入出。",
+    "folio":1,
+    "stemmed":"又 能 隨意自在 入 出  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0843c23_3",
+    "original":"其名曰甘露鼓菩薩摩訶薩。",
+    "folio":1,
+    "stemmed":"其 名 曰 甘 露 鼓 菩薩摩訶薩  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0843c23_12",
+    "original":"甘露稱菩薩摩訶薩。",
+    "folio":1,
+    "stemmed":"甘 露 稱 菩薩摩訶薩  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0843c24_2",
+    "original":"甘露光菩薩摩訶薩。",
+    "folio":1,
+    "stemmed":"甘 露 光 菩薩摩訶薩  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0843c24_11",
+    "original":"甘露名菩薩摩訶薩。",
+    "folio":1,
+    "stemmed":"甘 露 名 菩薩摩訶薩  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0843c25_1",
+    "original":"甘露響菩薩摩訶薩。",
+    "folio":1,
+    "stemmed":"甘 露 響 菩薩摩訶薩  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0843c25_11",
+    "original":"娑羅樹王菩薩摩訶薩。",
+    "folio":1,
+    "stemmed":"娑 羅 樹 王 菩薩摩訶薩  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0843c26_3",
+    "original":"一切妙音菩薩摩訶薩。",
+    "folio":1,
+    "stemmed":"一 切 妙 音 菩薩摩訶薩  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0843c26_13",
+    "original":"一切智相菩薩摩訶薩。",
+    "folio":1,
+    "stemmed":"一切智相 菩薩摩訶薩  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0843c27_3",
+    "original":"稱相菩薩摩訶薩。",
+    "folio":1,
+    "stemmed":"稱 相 菩薩摩訶薩  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0843c27_12",
+    "original":"甘露入菩薩摩訶薩。",
+    "folio":1,
+    "stemmed":"甘 露 入 菩薩摩訶薩  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0843c28_2",
+    "original":"普慧菩薩摩訶薩。",
+    "folio":1,
+    "stemmed":"普 慧 菩薩摩訶薩  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0843c28_11",
+    "original":"普增上菩薩摩訶薩。",
+    "folio":1,
+    "stemmed":"普 增 上 菩薩摩訶薩  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0843c29_1",
+    "original":"普光菩薩摩訶薩。",
+    "folio":1,
+    "stemmed":"普 光 菩薩摩訶薩  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0843c29_9",
+    "original":"普稱菩薩摩訶薩。",
+    "folio":1,
+    "stemmed":"普 稱 菩薩摩訶薩  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0843c29_17",
+    "original":"普相菩薩摩訶薩。",
+    "folio":1,
+    "stemmed":"普 相 菩薩摩訶薩  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844a01_6",
+    "original":"普王菩薩摩訶薩。",
+    "folio":1,
+    "stemmed":"普 王 菩薩摩訶薩  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844a01_18",
+    "original":"普德相自在王菩薩摩訶薩。",
+    "folio":1,
+    "stemmed":"普 德 相 自 在 王 菩薩摩訶薩  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844a02_8",
+    "original":"微妙聲菩薩摩訶薩。",
+    "folio":1,
+    "stemmed":"微 妙 聲 菩薩摩訶薩  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844a02_16",
+    "original":"勝相菩薩摩訶薩。",
+    "folio":1,
+    "stemmed":"勝 相 菩薩摩訶薩  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844a03_7",
+    "original":"無能勝菩薩摩訶薩。",
+    "folio":1,
+    "stemmed":"無 能 勝 菩薩摩訶薩  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844a03_15",
+    "original":"普眼菩薩摩訶薩。",
+    "folio":1,
+    "stemmed":"普 眼 菩薩摩訶薩  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844a04_6",
+    "original":"普見德菩薩摩訶薩。",
+    "folio":1,
+    "stemmed":"普 見 德 菩薩摩訶薩  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844a04_16",
+    "original":"現無過惡菩薩摩訶薩。",
+    "folio":1,
+    "stemmed":"現 無 過 惡 菩薩摩訶薩  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844a05_6",
+    "original":"離過菩薩摩訶薩。",
+    "folio":1,
+    "stemmed":"離 過 菩薩摩訶薩  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844a05_15",
+    "original":"無過惡菩薩摩訶薩。",
+    "folio":1,
+    "stemmed":"無 過 惡 菩薩摩訶薩  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844a06_10",
+    "original":"一切眾生不請之友菩薩摩訶薩。",
+    "folio":1,
+    "stemmed":"一 切 眾 生 不請之友 菩薩摩訶薩  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844a07_4",
+    "original":"不捨一切眾生菩薩摩訶薩。",
+    "folio":1,
+    "stemmed":"不 捨 一 切 眾 生 菩薩摩訶薩  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844a07_17",
+    "original":"常樂集一切功德菩薩摩訶薩。",
+    "folio":1,
+    "stemmed":"常 樂 集一切功德 菩薩摩訶薩  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844a08_7",
+    "original":"善上乘菩薩摩訶薩。",
+    "folio":1,
+    "stemmed":"善 上 乘 菩薩摩訶薩  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844a09_1",
+    "original":"第一功德名稱菩薩摩訶薩。",
+    "folio":1,
+    "stemmed":"第 一 功 德 名 稱 菩薩摩訶薩  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844a09_16",
+    "original":"如是等上首菩薩摩訶薩萬二千人。",
+    "folio":1,
+    "stemmed":"如 是 等 上 首 菩薩摩訶薩 萬 二 千 人  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844a10_8",
+    "original":"焰摩天子等八萬天子俱。",
+    "folio":1,
+    "stemmed":"焰 摩 天 子 等 八 萬 天 子 俱  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844a10_17",
+    "original":"兜率陀天子八十億。",
+    "folio":1,
+    "stemmed":"兜 率 陀 天 子 八 十 億  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844a11_10",
+    "original":"化樂天子九千二百那由他。",
+    "folio":1,
+    "stemmed":"化 樂 天 子 九 千 二 百 那 由 他  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844a12_6",
+    "original":"他化自在天子一萬五千那由他。",
+    "folio":1,
+    "stemmed":"他化自在天 子 一 萬 五 千 那 由 他  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844a13_7",
+    "original":"從他化自在天乃至色界無量諸天皆來集會。",
+    "folio":1,
+    "stemmed":"從 他化自在天 乃 至 色 界 無 量 諸 天 皆 來 集 會  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844a14_17",
+    "original":"爾時東方過此九十二佛世界微塵數佛剎。",
+    "folio":1,
+    "stemmed":"爾 時 東 方 過 此 九 十 二 佛 世 界 微 塵 數 佛 剎  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844a15_7",
+    "original":"有世界名曰無勝。",
+    "folio":1,
+    "stemmed":"有 世 界 名 曰 無 勝  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844a16_1",
+    "original":"彼中有佛名曰善勝力如來。",
+    "folio":1,
+    "stemmed":"彼 中 有 佛 名 曰 善 勝 力 如 來  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844a16_13",
+    "original":"彼有菩薩摩訶薩名曰尊勝。",
+    "folio":1,
+    "stemmed":"彼 有 菩薩摩訶薩 名 曰 尊 勝  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844a17_4",
+    "original":"與菩薩大眾前後圍遶。",
+    "folio":1,
+    "stemmed":"與 菩 薩 大 眾 前 後 圍 遶  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844a17_13",
+    "original":"於一念頃於彼界沒。",
+    "folio":1,
+    "stemmed":"於 一 念 頃 於 彼 界 沒  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844a18_2",
+    "original":"忽現此娑婆世界。",
+    "folio":1,
+    "stemmed":"忽 現 此 娑婆世界  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844a18_7",
+    "original":"住虛空中。",
+    "folio":1,
+    "stemmed":"住 虛 空 中  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844a18_17",
+    "original":"彼一一菩薩放琉璃雲。",
+    "folio":1,
+    "stemmed":"彼 一 一 菩 薩 放 琉 璃 雲  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844a19_6",
+    "original":"遍覆三千大千世界。",
+    "folio":1,
+    "stemmed":"遍 覆 三千大千世界  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844a19_13",
+    "original":"雨閻浮檀金華。",
+    "folio":1,
+    "stemmed":"雨 閻浮檀金 華  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844a20_10",
+    "original":"一一菩薩各雨一佛世界微塵數供具。",
+    "folio":1,
+    "stemmed":"一 一 菩 薩 各 雨 一佛世界 微 塵 數 供 具  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844a21_16",
+    "original":"一一菩薩各雨一佛世界微塵數一切水陸所生無量雜華。",
+    "folio":1,
+    "stemmed":"一 一 菩 薩 各 雨 一佛世界 微 塵 數 一 切 水 陸 所 生 無 量 雜 華  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844a22_16",
+    "original":"一一菩薩各雨一佛世界微塵數微妙雜香。",
+    "folio":1,
+    "stemmed":"一 一 菩 薩 各 雨 一佛世界 微 塵 數 微 妙 雜 香  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844a24_6",
+    "original":"一一菩薩各雨一佛世界微塵數栴檀沈水黑堅沈水雲雨雜香。",
+    "folio":1,
+    "stemmed":"一 一 菩 薩 各 雨 一佛世界 微 塵 數 栴 檀 沈 水 黑 堅 沈 水 雲 雨 雜 香  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844a25_6",
+    "original":"一一菩薩各雨一佛世界微塵數七寶雜鬘。",
+    "folio":1,
+    "stemmed":"一 一 菩 薩 各 雨 一佛世界 微 塵 數 七 寶 雜 鬘  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844a26_5",
+    "original":"一一菩薩各雨一佛世界微塵數栴檀香。",
+    "folio":1,
+    "stemmed":"一 一 菩 薩 各 雨 一佛世界 微 塵 數 栴 檀 香  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844a27_9",
+    "original":"一一菩薩各雨一佛世界微塵數種種上妙天人之衣。",
+    "folio":1,
+    "stemmed":"一 一 菩 薩 各 雨 一佛世界 微 塵 數 種 種 上 妙 天 人 之 衣  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844a28_13",
+    "original":"一一菩薩各雨一佛世界微塵數種種莊嚴雜寶幢幡。",
+    "folio":1,
+    "stemmed":"一 一 菩 薩 各 雨 一佛世界 微 塵 數 種 種 莊 嚴 雜 寶 幢 幡  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844a29_11",
+    "original":"一一菩薩各出一佛世界微塵數偈讚。",
+    "folio":1,
+    "stemmed":"一 一 菩 薩 各 出 一佛世界 微 塵 數 偈 讚  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b01_2",
+    "original":"皆未曾有讚歎如來。",
+    "folio":1,
+    "stemmed":"皆 未 曾 有 讚 歎 如 來  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b01_10",
+    "original":"爾時此娑婆世界。",
+    "folio":1,
+    "stemmed":"爾 時 此 娑婆世界  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b02_4",
+    "original":"所有地獄苦惱眾生皆得安樂。",
+    "folio":1,
+    "stemmed":"所 有 地 獄 苦 惱 眾 生 皆 得 安 樂  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b02_13",
+    "original":"一切眾生慈心相向。",
+    "folio":1,
+    "stemmed":"一 切 眾 生 慈 心 相 向  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b03_3",
+    "original":"一切餓鬼悉皆飽滿。",
+    "folio":1,
+    "stemmed":"一 切 餓 鬼 悉 皆 飽 滿  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b03_12",
+    "original":"一切眾生離貪瞋癡。",
+    "folio":1,
+    "stemmed":"一 切 眾 生 離 貪 瞋 癡  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b04_6",
+    "original":"不寒不熱無有想欲不飢不渴。",
+    "folio":1,
+    "stemmed":"不 寒 不 熱 無 有 想 欲 不 飢 不 渴  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b04_15",
+    "original":"時日清和無有塵霧。",
+    "folio":1,
+    "stemmed":"時 日 清 和 無 有 塵 霧  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b05_13",
+    "original":"時諸眾生於色聲香味觸無不適意放逸。",
+    "folio":1,
+    "stemmed":"時 諸 眾 生 於 色聲香味觸 無 不 適 意 放 逸  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b06_2",
+    "original":"諸天悉得寂靜。",
+    "folio":1,
+    "stemmed":"諸 天 悉 得 寂 靜  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b07_2",
+    "original":"爾時尊勝菩薩摩訶薩即上至阿迦膩吒天。",
+    "folio":1,
+    "stemmed":"爾 時 尊 勝 菩薩摩訶薩 即 上 至 阿 迦 膩 吒 天  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b07_12",
+    "original":"住於空中而雨諸供具。",
+    "folio":1,
+    "stemmed":"住 於 空 中 而 雨 諸 供 具  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b07_17",
+    "original":"供養如來。",
+    "folio":1,
+    "stemmed":"供養如來  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b09_4",
+    "original":"雨一切華鬘雜香塗香末香衣蓋幢幡種種眾寶妙莊嚴具。",
+    "folio":1,
+    "stemmed":"雨 一 切 華 鬘 雜 香 塗 香 末 香 衣 蓋 幢 幡 種 種 眾 寶 妙 莊 嚴 具  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b10_17",
+    "original":"雨於一切天宮龍宮夜叉乾闥婆阿修羅迦樓羅緊那羅摩睺羅伽一切宮上。",
+    "folio":1,
+    "stemmed":"雨 於 一 切 天 宮 龍 宮 夜 叉 乾 闥 婆 阿 修 羅 迦 樓 羅 緊 那 羅 摩睺羅伽 一 切 宮 上  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b11_17",
+    "original":"及四天王宮乃至三千大千世界悉皆遍滿。",
+    "folio":1,
+    "stemmed":"及 四 天 王 宮 乃 至 三千大千世界 悉 皆 遍 滿  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b12_17",
+    "original":"爾時尊勝菩薩摩訶薩從上來下詣世尊前。",
+    "folio":1,
+    "stemmed":"爾 時 尊 勝 菩薩摩訶薩 從 上 來 下 詣 世 尊 前  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b13_11",
+    "original":"到已頂禮世尊足遶無量匝。",
+    "folio":1,
+    "stemmed":"到 已 頂 禮 世 尊 足 遶 無 量 匝  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b14_8",
+    "original":"以天清淨琉璃金剛珠網覆如來上。",
+    "folio":1,
+    "stemmed":"以 天 清 淨 琉 璃 金 剛 珠 網 覆 如 來 上  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b14_13",
+    "original":"坐於一面。",
+    "folio":1,
+    "stemmed":"坐 於 一 面  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b15_8",
+    "original":"爾時尊勝見佛世尊入一真諦法。",
+    "folio":1,
+    "stemmed":"爾 時 尊 勝 見 佛 世 尊 入 一 真 諦 法  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b15_13",
+    "original":"入是法時。",
+    "folio":1,
+    "stemmed":"入 是 法 時  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b16_7",
+    "original":"能入一切三世諸佛所說法門。",
+    "folio":1,
+    "stemmed":"能 入 一 切 三世諸佛 所 說 法 門  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b16_17",
+    "original":"能知諸佛無量相應辯。",
+    "folio":1,
+    "stemmed":"能 知 諸 佛 無 量 相 應 辯  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b17_2",
+    "original":"解脫辯。",
+    "folio":1,
+    "stemmed":"解 脫 辯  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b17_6",
+    "original":"無礙辯。",
+    "folio":1,
+    "stemmed":"無 礙 辯  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b17_10",
+    "original":"無著辯。",
+    "folio":1,
+    "stemmed":"無 著 辯  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b17_14",
+    "original":"無盡辯。",
+    "folio":1,
+    "stemmed":"無 盡 辯  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b17_19",
+    "original":"一切處辯。",
+    "folio":1,
+    "stemmed":"一 切 處 辯  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b18_2",
+    "original":"普遍辯。",
+    "folio":1,
+    "stemmed":"普 遍 辯  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b18_13",
+    "original":"一切法如實方便所說辯。",
+    "folio":1,
+    "stemmed":"一切法如 實 方 便 所 說 辯  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b19_4",
+    "original":"空無相無願解脫門辯。",
+    "folio":1,
+    "stemmed":"空無相無願 解 脫 門 辯  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b20_7",
+    "original":"一切諸禪解脫三昧如實方便分別念處明了說辯。",
+    "folio":1,
+    "stemmed":"一 切 諸 禪 解 脫 三 昧 如 實 方 便 分 別 念 處 明 了 說 辯  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b20_14",
+    "original":"正勤起滅說辯。",
+    "folio":1,
+    "stemmed":"正 勤 起 滅 說 辯  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b21_2",
+    "original":"神足往來說辯。",
+    "folio":1,
+    "stemmed":"神 足 往 來 說 辯  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b21_7",
+    "original":"根力智辯。",
+    "folio":1,
+    "stemmed":"根 力 智 辯  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b21_12",
+    "original":"力無勝辯。",
+    "folio":1,
+    "stemmed":"力 無 勝 辯  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b21_19",
+    "original":"菩提覺如實辯。",
+    "folio":1,
+    "stemmed":"菩 提 覺 如 實 辯  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b22_4",
+    "original":"分別法界辯。",
+    "folio":1,
+    "stemmed":"分 別 法 界 辯  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b22_9",
+    "original":"見如實辯。",
+    "folio":1,
+    "stemmed":"見 如 實 辯  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b23_7",
+    "original":"幻化泡焰水中月吼聲響一切法如實辯。",
+    "folio":1,
+    "stemmed":"幻 化 泡 焰 水 中 月 吼 聲 響 一切法如 實 辯  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b23_15",
+    "original":"無生無滅如實辯。",
+    "folio":1,
+    "stemmed":"無生無滅 如 實 辯  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b23_19",
+    "original":"微細辯。",
+    "folio":1,
+    "stemmed":"微 細 辯  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b24_3",
+    "original":"種種辯。",
+    "folio":1,
+    "stemmed":"種 種 辯  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b24_7",
+    "original":"美妙辯。",
+    "folio":1,
+    "stemmed":"美 妙 辯  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b24_18",
+    "original":"知眾生心善不善如實辯。",
+    "folio":1,
+    "stemmed":"知 眾 生 心 善 不 善 如 實 辯  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b25_7",
+    "original":"一切眾中以一音辯。",
+    "folio":1,
+    "stemmed":"一 切 眾 中 以 一 音 辯  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b25_12",
+    "original":"一切法辯。",
+    "folio":1,
+    "stemmed":"一 切 法 辯  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b26_2",
+    "original":"爾時尊勝見如是事。",
+    "folio":1,
+    "stemmed":"爾 時 尊 勝 見 如 是 事  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b26_10",
+    "original":"即從坐起整衣服。",
+    "folio":1,
+    "stemmed":"即 從 坐 起 整 衣 服  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b26_19",
+    "original":"右膝著地合掌向佛。",
+    "folio":1,
+    "stemmed":"右膝著地 合 掌 向 佛  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b27_5",
+    "original":"白佛言世尊。",
+    "folio":1,
+    "stemmed":"白 佛 言 世 尊  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b27_11",
+    "original":"願賜少空閑。",
+    "folio":1,
+    "stemmed":"願 賜 少 空 閑  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b28_1",
+    "original":"聽我問於如來正覺。",
+    "folio":1,
+    "stemmed":"聽 我 問 於 如 來 正 覺  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b28_11",
+    "original":"爾時世尊告尊勝菩薩。",
+    "folio":1,
+    "stemmed":"爾 時 世 尊 告 尊 勝 菩 薩  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b29_2",
+    "original":"我常於眾生施於空閑。",
+    "folio":1,
+    "stemmed":"我 常 於 眾 生 施 於 空 閑  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844b29_7",
+    "original":"恣汝所問。",
+    "folio":1,
+    "stemmed":"恣 汝 所 問  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844c01_1",
+    "original":"如來正覺當斷汝疑悅可汝意。",
+    "folio":1,
+    "stemmed":"如 來 正 覺 當 斷 汝 疑 悅 可 汝 意  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844c01_11",
+    "original":"爾時尊勝菩薩白佛言。",
+    "folio":1,
+    "stemmed":"爾 時 尊 勝 菩 薩 白 佛 言  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844c01_14",
+    "original":"世尊。",
+    "folio":1,
+    "stemmed":"世 尊  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844c02_11",
+    "original":"有陀羅尼名一切法無量如實所說法門。",
+    "folio":1,
+    "stemmed":"有 陀 羅 尼 名 一 切 法 無 量 如 實 所 說 法 門  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844c03_8",
+    "original":"若有菩薩得是陀羅尼相應法門者。",
+    "folio":1,
+    "stemmed":"若 有 菩 薩 得 是 陀 羅 尼 相 應 法 門 者  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844c03_17",
+    "original":"彼菩薩能得無斷辯。",
+    "folio":1,
+    "stemmed":"彼 菩 薩 能 得 無 斷 辯  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844c04_2",
+    "original":"無愚辯。",
+    "folio":1,
+    "stemmed":"無 愚 辯  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844c04_10",
+    "original":"一切法作無作辯。",
+    "folio":1,
+    "stemmed":"一 切 法 作 無 作 辯  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844c04_18",
+    "original":"知陀羅尼無礙辯。",
+    "folio":1,
+    "stemmed":"知 陀 羅 尼 無 礙 辯  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844c05_2",
+    "original":"微細辯。",
+    "folio":1,
+    "stemmed":"微 細 辯  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844c05_11",
+    "original":"能持一切諸佛所說。",
+    "folio":1,
+    "stemmed":"能 持 一切諸佛 所 說  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844c05_18",
+    "original":"能知無量所說。",
+    "folio":1,
+    "stemmed":"能 知 無 量 所 說  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844c06_7",
+    "original":"復能入陀羅尼聚智。",
+    "folio":1,
+    "stemmed":"復 能 入 陀 羅 尼 聚 智  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844c06_14",
+    "original":"能入界智根智。",
+    "folio":1,
+    "stemmed":"能 入 界 智 根 智  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844c06_19",
+    "original":"入真諦智。",
+    "folio":1,
+    "stemmed":"入 真 諦 智  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844c07_6",
+    "original":"入一切眾生智。",
+    "folio":1,
+    "stemmed":"入 一 切 眾 生 智  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844c07_12",
+    "original":"入非眾生智。",
+    "folio":1,
+    "stemmed":"入 非 眾 生 智  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844c07_16",
+    "original":"入有智。",
+    "folio":1,
+    "stemmed":"入 有 智  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844c08_1",
+    "original":"入非有智。",
+    "folio":1,
+    "stemmed":"入 非 有 智  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844c08_5",
+    "original":"入著智。",
+    "folio":1,
+    "stemmed":"入 著 智  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844c08_10",
+    "original":"入無著智。",
+    "folio":1,
+    "stemmed":"入 無 著 智  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844c08_14",
+    "original":"入空智。",
+    "folio":1,
+    "stemmed":"入 空 智  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844c08_19",
+    "original":"入非空智。",
+    "folio":1,
+    "stemmed":"入 非 空 智  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844c09_3",
+    "original":"入有想智。",
+    "folio":1,
+    "stemmed":"入 有 想 智  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844c09_8",
+    "original":"入無想智。",
+    "folio":1,
+    "stemmed":"入 無 想 智  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844c09_13",
+    "original":"入有願智。",
+    "folio":1,
+    "stemmed":"入 有 願 智  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844c09_18",
+    "original":"入無願智。",
+    "folio":1,
+    "stemmed":"入 無 願 智  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844c10_3",
+    "original":"入有依智。",
+    "folio":1,
+    "stemmed":"入 有 依 智  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844c10_8",
+    "original":"入無依智。",
+    "folio":1,
+    "stemmed":"入 無 依 智  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844c10_13",
+    "original":"入有為智。",
+    "folio":1,
+    "stemmed":"入 有 為 智  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844c10_18",
+    "original":"入無為智。",
+    "folio":1,
+    "stemmed":"入 無 為 智  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844c11_7",
+    "original":"入於一處得無礙辯智。",
+    "folio":1,
+    "stemmed":"入 於 一 處 得 無 礙 辯 智  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844c11_12",
+    "original":"唯願世尊。",
+    "folio":1,
+    "stemmed":"唯 願 世 尊  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844c12_4",
+    "original":"憐愍一切說此陀羅尼門。",
+    "folio":1,
+    "stemmed":"憐 愍 一 切 說 此 陀羅尼門  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844c12_13",
+    "original":"爾時世尊讚尊勝言。",
+    "folio":1,
+    "stemmed":"爾 時 世 尊 讚 尊 勝 言  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844c12_18",
+    "original":"善哉善哉。",
+    "folio":1,
+    "stemmed":"善哉善哉  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844c13_1",
+    "original":"尊勝。",
+    "folio":1,
+    "stemmed":"尊 勝  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844c13_12",
+    "original":"汝能以此事問如來正覺。",
+    "folio":1,
+    "stemmed":"汝 能 以 此 事 問 如 來 正 覺  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844c13_15",
+    "original":"尊勝。",
+    "folio":1,
+    "stemmed":"尊 勝  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844c14_4",
+    "original":"汝今諦聽善思念之。",
+    "folio":1,
+    "stemmed":"汝 今 諦 聽 善思念之  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844c14_9",
+    "original":"當為汝說。",
+    "folio":1,
+    "stemmed":"當 為 汝 說  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844c14_18",
+    "original":"爾時尊勝受教諦聽。",
+    "folio":1,
+    "stemmed":"爾 時 尊 勝 受 教 諦 聽  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844c15_3",
+    "original":"佛告尊勝。",
+    "folio":1,
+    "stemmed":"佛 告 尊 勝  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844c15_18",
+    "original":"何者一切諸法入無量門陀羅尼經。",
+    "folio":1,
+    "stemmed":"何 者 一切諸法 入 無 量 門 陀 羅 尼 經  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0844c16_8",
+    "original":"爾時世尊即便說之。",
+    "folio":1,
+    "stemmed":"爾 時 世 尊 即 便 說 之  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_0",
+    "original":"寫犾汦曇",
+    "folio":1,
+    "stemmed":"寫犾汦曇"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_1",
+    "original":"阿難多耶施",
+    "folio":1,
+    "stemmed":"阿難多耶施"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_2",
+    "original":"阿難多耶舍目呿波利簸𠼝",
+    "folio":1,
+    "stemmed":"阿難多耶舍目呿波利簸𠼝"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_3",
+    "original":"阿難多仇拏",
+    "folio":1,
+    "stemmed":"阿難多仇拏"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_4",
+    "original":"阿難多仇拏目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿難多仇拏目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_5",
+    "original":"阿摩吟阿摩羅目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿摩吟阿摩羅目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_6",
+    "original":"扇泯",
+    "folio":1,
+    "stemmed":"扇泯"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_7",
+    "original":"扇多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"扇多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_8",
+    "original":"修那移修那耶目呿波利簸梨",
+    "folio":1,
+    "stemmed":"修那移修那耶目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_9",
+    "original":"修耶",
+    "folio":1,
+    "stemmed":"修耶"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_10",
+    "original":"舍修耶施目呿波利簸梨",
+    "folio":1,
+    "stemmed":"舍修耶施目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_11",
+    "original":"啼泯師那移啼泯沙那他目呿波利簸梨",
+    "folio":1,
+    "stemmed":"啼泯師那移啼泯沙那他目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_12",
+    "original":"修目企修目呿",
+    "folio":1,
+    "stemmed":"修目企修目呿"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_13",
+    "original":"目呿波利簸梨",
+    "folio":1,
+    "stemmed":"目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_14",
+    "original":"闍吟闍羅目呿波利簸梨",
+    "folio":1,
+    "stemmed":"闍吟闍羅目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_15",
+    "original":"扇泯",
+    "folio":1,
+    "stemmed":"扇泯"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_16",
+    "original":"扇泯目呿波利簸梨",
+    "folio":1,
+    "stemmed":"扇泯目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_17",
+    "original":"肥那利肥那蛇目呿波利簸梨",
+    "folio":1,
+    "stemmed":"肥那利肥那蛇目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_18",
+    "original":"修檀泯修檀多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"修檀泯修檀多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_19",
+    "original":"喻尼施喻尼奢目呿波利簸梨",
+    "folio":1,
+    "stemmed":"喻尼施喻尼奢目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_20",
+    "original":"迦摩吟迦摩羅目呿波利簸梨",
+    "folio":1,
+    "stemmed":"迦摩吟迦摩羅目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_21",
+    "original":"修那移修那蛇目呿波利簸梨",
+    "folio":1,
+    "stemmed":"修那移修那蛇目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_22",
+    "original":"阿竭𭵆阿竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿竭𭵆阿竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_23",
+    "original":"阿囊羅移阿囊羅蛇目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿囊羅移阿囊羅蛇目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_24",
+    "original":"尼羅蛇肥竭泯尼羅蛇肥竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"尼羅蛇肥竭泯尼羅蛇肥竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_25",
+    "original":"僧都沙竭泯僧都沙竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"僧都沙竭泯僧都沙竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_26",
+    "original":"修竭𭵆修竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"修竭𭵆修竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_27",
+    "original":"阿摩吟阿摩羅目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿摩吟阿摩羅目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_28",
+    "original":"肥竭泯肥竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"肥竭泯肥竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_29",
+    "original":"阿能伽濘阿能伽囊目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿能伽濘阿能伽囊目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_30",
+    "original":"肥濕波脾肥濕波脾目呿波利簸梨",
+    "folio":1,
+    "stemmed":"肥濕波脾肥濕波脾目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_31",
+    "original":"阿難多竭泯阿難多竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿難多竭泯阿難多竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_32",
+    "original":"阿摩婆闍那肥竭泯阿摩婆闍那肥竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿摩婆闍那肥竭泯阿摩婆闍那肥竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_33",
+    "original":"阿摩羅伽泯阿摩羅伽多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿摩羅伽泯阿摩羅伽多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_34",
+    "original":"予彌吟予彌吟目呿波利簸梨",
+    "folio":1,
+    "stemmed":"予彌吟予彌吟目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_35",
+    "original":"迦久泯迦久泯目呿波利簸梨",
+    "folio":1,
+    "stemmed":"迦久泯迦久泯目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_36",
+    "original":"阿舍癡三鉢濘阿舍癡三鉢囊目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿舍癡三鉢濘阿舍癡三鉢囊目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_37",
+    "original":"仇留摩移仇留摩蛇目呿波利簸梨",
+    "folio":1,
+    "stemmed":"仇留摩移仇留摩蛇目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_38",
+    "original":"阿肥羅肥竭",
+    "folio":1,
+    "stemmed":"阿肥羅肥竭"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_39",
+    "original":"泯阿肥羅肥竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"泯阿肥羅肥竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_40",
+    "original":"阿奢地三鉢濘阿奢地三鉢那目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿奢地三鉢濘阿奢地三鉢那目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_41",
+    "original":"阿摩羅肥竭泯阿摩羅肥竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿摩羅肥竭泯阿摩羅肥竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_42",
+    "original":"羅仇尼仇泯羅仇尼仇多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"羅仇尼仇泯羅仇尼仇多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_43",
+    "original":"阿難多地施阿難多地奢目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿難多地施阿難多地奢目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_44",
+    "original":"阿難多豆呿肥竭泯阿難多豆呿肥竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿難多豆呿肥竭泯阿難多豆呿肥竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_45",
+    "original":"阿摩羅裟𧴵陀伽泯阿摩羅娑𧴵陀伽泯目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿摩羅裟𧴵陀伽泯阿摩羅娑𧴵陀伽泯目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_46",
+    "original":"修羅斯修羅娑目呿波利簸梨",
+    "folio":1,
+    "stemmed":"修羅斯修羅娑目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_47",
+    "original":"阿難多蛇施阿難多蛇奢目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿難多蛇施阿難多蛇奢目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_48",
+    "original":"修摩坻羅多濘修摩坻羅多囊目呿波利簸梨",
+    "folio":1,
+    "stemmed":"修摩坻羅多濘修摩坻羅多囊目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_49",
+    "original":"阿娑呿利底阿娑呿利多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿娑呿利底阿娑呿利多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_50",
+    "original":"阿襜摩毘泯阿襜摩毘多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿襜摩毘泯阿襜摩毘多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_51",
+    "original":"阿迦羅摩拏究舍梨阿迦羅拏究舍羅目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿迦羅摩拏究舍梨阿迦羅拏究舍羅目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_52",
+    "original":"阿三婆羅泯阿三婆羅泯多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿三婆羅泯阿三婆羅泯多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_53",
+    "original":"阿𧴵吟阿𧴵羅目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿𧴵吟阿𧴵羅目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_54",
+    "original":"修闍移修闍蛇目呿波利簸梨",
+    "folio":1,
+    "stemmed":"修闍移修闍蛇目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_55",
+    "original":"阿波羅彌律知阿波羅彌律知目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿波羅彌律知阿波羅彌律知目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_56",
+    "original":"阿浮斯阿浮娑目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿浮斯阿浮娑目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_57",
+    "original":"修肥質泯修肥",
+    "folio":1,
+    "stemmed":"修肥質泯修肥"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_58",
+    "original":"質多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"質多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_59",
+    "original":"莎目企莎目企目呿波利簸梨",
+    "folio":1,
+    "stemmed":"莎目企莎目企目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_60",
+    "original":"阿吃呿律泯阿吃呿律多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿吃呿律泯阿吃呿律多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_61",
+    "original":"阿婆彌律坻阿婆彌律多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿婆彌律坻阿婆彌律多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_62",
+    "original":"阿囊移阿囊蛇目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿囊移阿囊蛇目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_63",
+    "original":"阿伽摩坻䩭阿伽摩坻䩭目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿伽摩坻䩭阿伽摩坻䩭目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_64",
+    "original":"阿目企阿目企目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿目企阿目企目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_65",
+    "original":"祇闍啝坻祇闍啝坻目呿波利簸梨",
+    "folio":1,
+    "stemmed":"祇闍啝坻祇闍啝坻目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_66",
+    "original":"那蛇啝坻那蛇啝多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"那蛇啝坻那蛇啝多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_67",
+    "original":"阿摩羅啝坻阿摩羅啝多坻目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿摩羅啝坻阿摩羅啝多坻目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_68",
+    "original":"莎婆竭多摩坻莎婆竭多摩多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"莎婆竭多摩坻莎婆竭多摩多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_69",
+    "original":"阿伽摩多末坻阿伽摩多末多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿伽摩多末坻阿伽摩多末多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_70",
+    "original":"曇摩末坻曇摩末多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"曇摩末坻曇摩末多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_71",
+    "original":"阿𠹛吟阿𠹛羅目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿𠹛吟阿𠹛羅目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_72",
+    "original":"阿婆蛇摩坻阿婆蛇摩多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿婆蛇摩坻阿婆蛇摩多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_73",
+    "original":"曇摩他兜摩坻曇摩他兜末多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"曇摩他兜摩坻曇摩他兜末多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_74",
+    "original":"多咃伽多摩坻多咃伽多摩多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"多咃伽多摩坻多咃伽多摩多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_75",
+    "original":"肥仇吒摩坻肥仇吒摩多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"肥仇吒摩坻肥仇吒摩多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_76",
+    "original":"阿莎婆阿娑婆摩坻阿莎婆阿娑婆摩多目呿多波利簸梨",
+    "folio":1,
+    "stemmed":"阿莎婆阿娑婆摩坻阿莎婆阿娑婆摩多目呿多波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_77",
+    "original":"題婆摩坻題婆摩多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"題婆摩坻題婆摩多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_78",
+    "original":"那伽末坻那伽末多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"那伽末坻那伽末多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_79",
+    "original":"夜叉末坻夜叉末多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"夜叉末坻夜叉末多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_80",
+    "original":"乾沓婆末坻乾沓婆末多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"乾沓婆末坻乾沓婆末多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_81",
+    "original":"阿修羅末坻阿修羅末多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿修羅末坻阿修羅末多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_82",
+    "original":"伽留茶末坻伽留茶末多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"伽留茶末坻伽留茶末多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_83",
+    "original":"緊那羅末坻緊那羅末多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"緊那羅末坻緊那羅末多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_84",
+    "original":"摩睺羅伽末坻摩睺羅伽末多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"摩睺羅伽末坻摩睺羅伽末多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_85",
+    "original":"摩㝹沙末坻摩㝹沙末多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"摩㝹沙末坻摩㝹沙末多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_86",
+    "original":"阿摩㝹沙末坻阿摩㝹沙末多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿摩㝹沙末坻阿摩㝹沙末多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_87",
+    "original":"戰陀羅摩坻戰陀羅摩多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"戰陀羅摩坻戰陀羅摩多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_88",
+    "original":"修利蛇摩坻修利蛇摩多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"修利蛇摩坻修利蛇摩多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_89",
+    "original":"殊㗌律沙摩坻殊㗌律沙摩多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"殊㗌律沙摩坻殊㗌律沙摩多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_90",
+    "original":"伽伽那囊摩坻伽伽那囊摩多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"伽伽那囊摩坻伽伽那囊摩多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_91",
+    "original":"阿僧伽摩坻阿僧伽摩多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿僧伽摩坻阿僧伽摩多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_92",
+    "original":"羅仇摩坻羅仇摩多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"羅仇摩坻羅仇摩多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_93",
+    "original":"僧舍蛇摩坻僧舍蛇摩多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"僧舍蛇摩坻僧舍蛇摩多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_94",
+    "original":"那蛇囊摩坻那蛇囊摩多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"那蛇囊摩坻那蛇囊摩多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_95",
+    "original":"修蛇奢摩坻修蛇奢摩多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"修蛇奢摩坻修蛇奢摩多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_96",
+    "original":"羅多囊伐坻羅多囊伐多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"羅多囊伐坻羅多囊伐多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_97",
+    "original":"輸伽毘伽彌輸伽毘伽摩目呿波利簸梨",
+    "folio":1,
+    "stemmed":"輸伽毘伽彌輸伽毘伽摩目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_98",
+    "original":"薩埵三摩移薩埵三摩蛇目呿波利簸梨",
+    "folio":1,
+    "stemmed":"薩埵三摩移薩埵三摩蛇目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_99",
+    "original":"阿波竭多濘阿阿波竭多濘呵目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿波竭多濘阿阿波竭多濘呵目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_100",
+    "original":"闍利尼毘竭泯闍利尼毘竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"闍利尼毘竭泯闍利尼毘竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_101",
+    "original":"莎婆竭泯莎婆竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"莎婆竭泯莎婆竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_102",
+    "original":"修育泯修育多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"修育泯修育多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_103",
+    "original":"阿羅蛇邏摩毘竭泯阿羅蛇邏摩毘竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿羅蛇邏摩毘竭泯阿羅蛇邏摩毘竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_104",
+    "original":"阿僧仇支泯阿僧仇支多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿僧仇支泯阿僧仇支多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_105",
+    "original":"阿囊莎泯阿囊莎多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿囊莎泯阿囊莎多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_106",
+    "original":"修仇濘修仇拏目呿波利簸梨",
+    "folio":1,
+    "stemmed":"修仇濘修仇拏目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_107",
+    "original":"莎呿多曇咩莎呿多曇摩目呿波利簸梨",
+    "folio":1,
+    "stemmed":"莎呿多曇咩莎呿多曇摩目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_108",
+    "original":"羅仇夜施羅仇夜奢目呿波利簸梨",
+    "folio":1,
+    "stemmed":"羅仇夜施羅仇夜奢目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_109",
+    "original":"阿舍吒摩移阿舍吒摩夜目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿舍吒摩移阿舍吒摩夜目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_110",
+    "original":"豆伽坻毘伽咩豆伽多毘伽摩目呿波利簸梨",
+    "folio":1,
+    "stemmed":"豆伽坻毘伽咩豆伽多毘伽摩目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_111",
+    "original":"汦闍伐汦汦闍伐多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"汦闍伐汦汦闍伐多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_112",
+    "original":"尼多夜施尼多夜奢目呿波利簸梨",
+    "folio":1,
+    "stemmed":"尼多夜施尼多夜奢目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_113",
+    "original":"迦摩羅末坻迦摩羅末多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"迦摩羅末坻迦摩羅末多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_114",
+    "original":"阿禪多宿企阿禪多宿呿目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿禪多宿企阿禪多宿呿目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_115",
+    "original":"蛇他婆摩坻蛇他婆摩多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"蛇他婆摩坻蛇他婆摩多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_116",
+    "original":"𭈚伽囊摩坻𭈚伽囊摩多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"𭈚伽囊摩坻𭈚伽囊摩多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_117",
+    "original":"伽拏囊毘伽汦伽拏囊毘伽多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"伽拏囊毘伽汦伽拏囊毘伽多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_118",
+    "original":"阿波竭多𠹛吟阿波竭多𠹛羅目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿波竭多𠹛吟阿波竭多𠹛羅目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_119",
+    "original":"彌豆因利提蛇彌豆因利提蛇目呿波利簸梨",
+    "folio":1,
+    "stemmed":"彌豆因利提蛇彌豆因利提蛇目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_120",
+    "original":"僧育迦汦僧育迦多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"僧育迦汦僧育迦多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_121",
+    "original":"迦那迦摩移迦那迦摩蛇目呿波利簸梨",
+    "folio":1,
+    "stemmed":"迦那迦摩移迦那迦摩蛇目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_122",
+    "original":"勒那摩移勒那摩蛇目呿波利簸梨",
+    "folio":1,
+    "stemmed":"勒那摩移勒那摩蛇目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_123",
+    "original":"阿波伽多肥𠰄欣斯阿波伽多肥𠰄欣斯目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿波伽多肥𠰄欣斯阿波伽多肥𠰄欣斯目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_124",
+    "original":"阿難多肥福羅伏題阿難多肥福羅伏題目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿難多肥福羅伏題阿難多肥福羅伏題目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_125",
+    "original":"修目企修目佉目呿波利簸梨",
+    "folio":1,
+    "stemmed":"修目企修目佉目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_126",
+    "original":"汦闍夜施汦闍夜奢目呿波利簸梨",
+    "folio":1,
+    "stemmed":"汦闍夜施汦闍夜奢目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_127",
+    "original":"捨利摩坻捨利摩多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"捨利摩坻捨利摩多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_128",
+    "original":"具沙啝汦具沙啝多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"具沙啝汦具沙啝多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_129",
+    "original":"富留沙邏闍斯肥伽摩拏富留沙邏闍娑肥伽摩拏目呿波利簸梨",
+    "folio":1,
+    "stemmed":"富留沙邏闍斯肥伽摩拏富留沙邏闍娑肥伽摩拏目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_130",
+    "original":"迦羅竭汦迦羅竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"迦羅竭汦迦羅竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_131",
+    "original":"迦羅博伽汦迦羅博伽多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"迦羅博伽汦迦羅博伽多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_132",
+    "original":"呿陀伽目企呿陀伽目呿目呿波利簸梨",
+    "folio":1,
+    "stemmed":"呿陀伽目企呿陀伽目呿目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_133",
+    "original":"僧兜吒伽汦僧兜吒伽多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"僧兜吒伽汦僧兜吒伽多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_134",
+    "original":"乾陀竭汦乾陀竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"乾陀竭汦乾陀竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_135",
+    "original":"僧䩭多竭汦僧䩭多竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"僧䩭多竭汦僧䩭多竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_136",
+    "original":"阿囊恒叉拏竭汦阿囊恒叉拏竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿囊恒叉拏竭汦阿囊恒叉拏竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_137",
+    "original":"肥濕波斯竭汦肥濕波斯竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"肥濕波斯竭汦肥濕波斯竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_138",
+    "original":"阿囊摩蛇竭汦阿囊摩蛇竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿囊摩蛇竭汦阿囊摩蛇竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_139",
+    "original":"舍塹竭汦舍塹竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"舍塹竭汦舍塹竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_140",
+    "original":"婆㝹遮梨婆㝹遮羅目呿波利簸梨",
+    "folio":1,
+    "stemmed":"婆㝹遮梨婆㝹遮羅目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_141",
+    "original":"羅蛇囊竭汦羅蛇囊竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"羅蛇囊竭汦羅蛇囊竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_142",
+    "original":"奢羅拏竭汦奢羅拏竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"奢羅拏竭汦奢羅拏竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_143",
+    "original":"波羅蛇拏竭汦波羅蛇拏竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"波羅蛇拏竭汦波羅蛇拏竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_144",
+    "original":"阿摩羅竭汦阿摩羅竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿摩羅竭汦阿摩羅竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_145",
+    "original":"首脂竭汦首脂竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"首脂竭汦首脂竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_146",
+    "original":"素覔竭汦素覔竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"素覔竭汦素覔竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_147",
+    "original":"迦留沙波竭汦迦留沙波竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"迦留沙波竭汦迦留沙波竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_148",
+    "original":"僧奢蛇波竭坻僧奢蛇波竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"僧奢蛇波竭坻僧奢蛇波竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_149",
+    "original":"羅婆拏目企羅婆拏目呿目呿波利簸梨",
+    "folio":1,
+    "stemmed":"羅婆拏目企羅婆拏目呿目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_150",
+    "original":"多波囊目企多波囊目呿目呿波利簸梨",
+    "folio":1,
+    "stemmed":"多波囊目企多波囊目呿目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_151",
+    "original":"肥闍蛇竭汦肥闍蛇竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"肥闍蛇竭汦肥闍蛇竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_152",
+    "original":"多留泥竭汦多留拏竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"多留泥竭汦多留拏竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_153",
+    "original":"羅拏竭汦羅拏竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"羅拏竭汦羅拏竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_154",
+    "original":"肥質多竭汦肥質多竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"肥質多竭汦肥質多竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_155",
+    "original":"多羅竭汦多羅竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"多羅竭汦多羅竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_156",
+    "original":"咩囉㝹竭汦咩囉㝹竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"咩囉㝹竭汦咩囉㝹竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_157",
+    "original":"羅闍尼竭汦羅闍尼竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"羅闍尼竭汦羅闍尼竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_158",
+    "original":"羅吒竭汦羅吒竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"羅吒竭汦羅吒竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_159",
+    "original":"多咃竭汦多咃竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"多咃竭汦多咃竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_160",
+    "original":"羅婆肥竭汦羅婆肥竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"羅婆肥竭汦羅婆肥竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_161",
+    "original":"蛇咃婆阿肥波利多僧舍蛇肥伐耆汦蛇咃婆阿肥波利多僧舍蛇肥伐耆多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"蛇咃婆阿肥波利多僧舍蛇肥伐耆汦蛇咃婆阿肥波利多僧舍蛇肥伐耆多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_162",
+    "original":"三摩蛇竭濘三摩蛇竭囊目呿波利簸梨",
+    "folio":1,
+    "stemmed":"三摩蛇竭濘三摩蛇竭囊目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_163",
+    "original":"阿仇呵濘阿仇呵囊目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿仇呵濘阿仇呵囊目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_164",
+    "original":"阿羅婆禰阿羅婆拏目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿羅婆禰阿羅婆拏目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_165",
+    "original":"阿尼悲沙䩭阿尼比沙迦目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿尼悲沙䩭阿尼比沙迦目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_166",
+    "original":"阿羅婆迦咩阿羅婆迦摩目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿羅婆迦咩阿羅婆迦摩目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_167",
+    "original":"難提目企難提目呿波利簸梨",
+    "folio":1,
+    "stemmed":"難提目企難提目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_168",
+    "original":"阿路羅迦咩阿路羅迦摩目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿路羅迦咩阿路羅迦摩目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_169",
+    "original":"阿尼彌蓰阿尼彌沙目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿尼彌蓰阿尼彌沙目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_170",
+    "original":"輸迦肥竭汦輸迦肥竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"輸迦肥竭汦輸迦肥竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_171",
+    "original":"比梨蛇僧舍蛇肥竭汦比梨蛇僧舍蛇肥竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"比梨蛇僧舍蛇肥竭汦比梨蛇僧舍蛇肥竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_172",
+    "original":"阿難囊摩禰阿難囊摩那目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿難囊摩禰阿難囊摩那目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_173",
+    "original":"阿囊婆竭汦阿囊婆竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿囊婆竭汦阿囊婆竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_174",
+    "original":"肥肥伽竭汦肥肥伽竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"肥肥伽竭汦肥肥伽竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_175",
+    "original":"波咃摩毘羅沙濘波咃摩毘羅沙拏目呿波利簸梨",
+    "folio":1,
+    "stemmed":"波咃摩毘羅沙濘波咃摩毘羅沙拏目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_176",
+    "original":"毘茶竭汦毘茶竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"毘茶竭汦毘茶竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_177",
+    "original":"阿兜利移竭汦阿兜利移竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿兜利移竭汦阿兜利移竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_178",
+    "original":"吃多若竭汦吃多若竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"吃多若竭汦吃多若竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_179",
+    "original":"僧奢蛇三牟陀伽多竭汦僧奢蛇三牟陀伽多竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"僧奢蛇三牟陀伽多竭汦僧奢蛇三牟陀伽多竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_180",
+    "original":"阿婆蛇竭汦阿婆蛇竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿婆蛇竭汦阿婆蛇竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_181",
+    "original":"肥摩坻肥机拏竭汦肥摩坻肥机拏竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"肥摩坻肥机拏竭汦肥摩坻肥机拏竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_182",
+    "original":"婆羅肥竭汦婆羅肥竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"婆羅肥竭汦婆羅肥竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_183",
+    "original":"波婆闍肥目企波婆闍肥目呿目呿波利簸梨",
+    "folio":1,
+    "stemmed":"波婆闍肥目企波婆闍肥目呿目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_184",
+    "original":"多留肥竭汦多留肥竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"多留肥竭汦多留肥竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_185",
+    "original":"阿奢蛇竭汦三波那阿奢蛇竭多三波那目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿奢蛇竭汦三波那阿奢蛇竭多三波那目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_186",
+    "original":"題婆僧迦摩拏題婆僧迦摩拏目呿波利簸梨",
+    "folio":1,
+    "stemmed":"題婆僧迦摩拏題婆僧迦摩拏目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_187",
+    "original":"咃那彌他肥竭汦咃那彌他肥竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"咃那彌他肥竭汦咃那彌他肥竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_188",
+    "original":"阿囊嵐脾阿囊嵐婆目呿波利簸梨",
+    "folio":1,
+    "stemmed":"阿囊嵐脾阿囊嵐婆目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_189",
+    "original":"羅多那遏旨竭汦羅多那遏旨竭多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"羅多那遏旨竭汦羅多那遏旨竭多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_190",
+    "original":"瞿梨迦陀兜肥迦咩瞿利迦陀兜肥迦摩目呿波利簸梨",
+    "folio":1,
+    "stemmed":"瞿梨迦陀兜肥迦咩瞿利迦陀兜肥迦摩目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_191",
+    "original":"肥不羅竭汦肥不羅竭多目呿舍多波利簸梨",
+    "folio":1,
+    "stemmed":"肥不羅竭汦肥不羅竭多目呿舍多波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_192",
+    "original":"那蛇那蒙坻竭汦那蛇那蒙坻竭多目呿舍多波利簸梨",
+    "folio":1,
+    "stemmed":"那蛇那蒙坻竭汦那蛇那蒙坻竭多目呿舍多波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_193",
+    "original":"娑羅和羅伽汦娑羅和羅伽多目呿波利簸梨",
+    "folio":1,
+    "stemmed":"娑羅和羅伽汦娑羅和羅伽多目呿波利簸梨"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_194",
+    "original":"目呿博伽汦薩智薩多尼羅移浮汦浮多尼羅移蛇咃脾蛇咃和尼羅移阿尼羅移尼羅蛇波竭祇",
+    "folio":1,
+    "stemmed":"目呿博伽汦薩智薩多尼羅移浮汦浮多尼羅移蛇咃脾蛇咃和尼羅移阿尼羅移尼羅蛇波竭祇"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_195",
+    "original":"沙攡娑羅和坻",
+    "folio":1,
+    "stemmed":"沙攡娑羅和坻"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_196",
+    "original":"因偷末坻耶奢末坻",
+    "folio":1,
+    "stemmed":"因偷末坻耶奢末坻"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_197",
+    "original":"仇拏末坻那蛇末坻",
+    "folio":1,
+    "stemmed":"仇拏末坻那蛇末坻"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_198",
+    "original":"多羅末坻",
+    "folio":1,
+    "stemmed":"多羅末坻"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_199",
+    "original":"伽坻末坻迦呿",
+    "folio":1,
+    "stemmed":"伽坻末坻迦呿"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_200",
+    "original":"末坻",
+    "folio":1,
+    "stemmed":"末坻"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_201",
+    "original":"伽摩囊末坻",
+    "folio":1,
+    "stemmed":"伽摩囊末坻"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_202",
+    "original":"阿那放㹧末坻",
+    "folio":1,
+    "stemmed":"阿那放㹧末坻"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_203",
+    "original":"娑羅末坻姪茶末坻",
+    "folio":1,
+    "stemmed":"娑羅末坻姪茶末坻"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_204",
+    "original":"阿脾波路波末坻",
+    "folio":1,
+    "stemmed":"阿脾波路波末坻"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_205",
+    "original":"蛇咃婆末坻",
+    "folio":1,
+    "stemmed":"蛇咃婆末坻"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_206",
+    "original":"那蛇那末坻阿斤",
+    "folio":1,
+    "stemmed":"那蛇那末坻阿斤"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_207",
+    "original":"遮那末坻",
+    "folio":1,
+    "stemmed":"遮那末坻"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_208",
+    "original":"癡羅末坻",
+    "folio":1,
+    "stemmed":"癡羅末坻"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_209",
+    "original":"那伽末坻",
+    "folio":1,
+    "stemmed":"那伽末坻"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_210",
+    "original":"竭坻修竭坻",
+    "folio":1,
+    "stemmed":"竭坻修竭坻"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_211",
+    "original":"阿波竭坻",
+    "folio":1,
+    "stemmed":"阿波竭坻"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_212",
+    "original":"阿留拏竭坻",
+    "folio":1,
+    "stemmed":"阿留拏竭坻"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_213",
+    "original":"遮羅竭坻",
+    "folio":1,
+    "stemmed":"遮羅竭坻"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_214",
+    "original":"阿遮羅竭坻",
+    "folio":1,
+    "stemmed":"阿遮羅竭坻"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_215",
+    "original":"阿󱄓多竭坻",
+    "folio":1,
+    "stemmed":"阿󱄓多竭坻"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_216",
+    "original":"婆羅肥伽摩那竭坻",
+    "folio":1,
+    "stemmed":"婆羅肥伽摩那竭坻"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_217",
+    "original":"差芒竭坻",
+    "folio":1,
+    "stemmed":"差芒竭坻"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_218",
+    "original":"阿婆蛇竭坻",
+    "folio":1,
+    "stemmed":"阿婆蛇竭坻"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_219",
+    "original":"尸婆竭坻",
+    "folio":1,
+    "stemmed":"尸婆竭坻"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_220",
+    "original":"涅槃拏竭坻",
+    "folio":1,
+    "stemmed":"涅槃拏竭坻"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_221",
+    "original":"蛇咃和竭坻",
+    "folio":1,
+    "stemmed":"蛇咃和竭坻"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_222",
+    "original":"阿肥波梨多竭坻",
+    "folio":1,
+    "stemmed":"阿肥波梨多竭坻"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_223",
+    "original":"竭坻",
+    "folio":1,
+    "stemmed":"竭坻"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_224",
+    "original":"阿波伽多竭坻",
+    "folio":1,
+    "stemmed":"阿波伽多竭坻"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_225",
+    "original":"修那蛇竭坻",
+    "folio":1,
+    "stemmed":"修那蛇竭坻"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_226",
+    "original":"阿肥羅肥罰耆汦",
+    "folio":1,
+    "stemmed":"阿肥羅肥罰耆汦"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_227",
+    "original":"摩陀肥罰耆汦",
+    "folio":1,
+    "stemmed":"摩陀肥罰耆汦"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_228",
+    "original":"滿那肥罰耆汦",
+    "folio":1,
+    "stemmed":"滿那肥罰耆汦"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_229",
+    "original":"阿多肥罰耆汦",
+    "folio":1,
+    "stemmed":"阿多肥罰耆汦"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_230",
+    "original":"阿那移肥罰耆汦",
+    "folio":1,
+    "stemmed":"阿那移肥罰耆汦"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_231",
+    "original":"伽那肥伐耆汦",
+    "folio":1,
+    "stemmed":"伽那肥伐耆汦"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_232",
+    "original":"迦羅肥伐耆汦",
+    "folio":1,
+    "stemmed":"迦羅肥伐耆汦"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_233",
+    "original":"阿娑羅肥伐耆汦",
+    "folio":1,
+    "stemmed":"阿娑羅肥伐耆汦"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_234",
+    "original":"摩坻竭汦",
+    "folio":1,
+    "stemmed":"摩坻竭汦"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_235",
+    "original":"那蛇竭汦",
+    "folio":1,
+    "stemmed":"那蛇竭汦"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_236",
+    "original":"姪坻竭汦",
+    "folio":1,
+    "stemmed":"姪坻竭汦"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_237",
+    "original":"摩坻竭汦",
+    "folio":1,
+    "stemmed":"摩坻竭汦"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_238",
+    "original":"滅坻竭汦",
+    "folio":1,
+    "stemmed":"滅坻竭汦"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_239",
+    "original":"多咃伽多竭汦",
+    "folio":1,
+    "stemmed":"多咃伽多竭汦"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_240",
+    "original":"多咃婆阿那脾陀㝹竭汦",
+    "folio":1,
+    "stemmed":"多咃婆阿那脾陀㝹竭汦"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_241",
+    "original":"但摩陀坻",
+    "folio":1,
+    "stemmed":"但摩陀坻"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_242",
+    "original":"阿射脾陀㝹竭汦竭坻",
+    "folio":1,
+    "stemmed":"阿射脾陀㝹竭汦竭坻"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_243",
+    "original":"脾射",
+    "folio":1,
+    "stemmed":"脾射"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_244",
+    "original":"蛇竭汦娑羅脾犾啝耆羅摩耶三摩提目呿竭汦",
+    "folio":1,
+    "stemmed":"蛇竭汦娑羅脾犾啝耆羅摩耶三摩提目呿竭汦"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_245",
+    "original":"薩婆多咃竭多目呿",
+    "folio":1,
+    "stemmed":"薩婆多咃竭多目呿"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_246",
+    "original":"那耶蛇",
+    "folio":1,
+    "stemmed":"那耶蛇"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_247",
+    "original":"咃娑㝹菩陀",
+    "folio":1,
+    "stemmed":"咃娑㝹菩陀"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_248",
+    "original":"帝墮三曼多",
+    "folio":1,
+    "stemmed":"帝墮三曼多"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_249",
+    "original":"仇那㝹扇娑多咃竭多",
+    "folio":1,
+    "stemmed":"仇那㝹扇娑多咃竭多"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_4_250",
+    "original":"浮彌阿㝹菩陀㝹竭汦如是尊勝。",
+    "folio":1,
+    "stemmed":"浮彌阿㝹菩陀㝹竭汦如是尊勝。"
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a21_18",
+    "original":"此是一切諸法入無量門陀羅尼。",
+    "folio":1,
+    "stemmed":"此 是 一切諸法 入 無 量 門 陀 羅 尼  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a22_8",
+    "original":"若得此陀羅尼菩薩。",
+    "folio":1,
+    "stemmed":"若 得 此 陀 羅 尼 菩 薩  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a22_17",
+    "original":"能持一切諸佛所說。",
+    "folio":1,
+    "stemmed":"能 持 一切諸佛 所 說  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a23_7",
+    "original":"能遊一切諸佛世界。",
+    "folio":1,
+    "stemmed":"能 遊 一切諸佛 世 界  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a23_18",
+    "original":"能持一切聲聞緣覺所說。",
+    "folio":1,
+    "stemmed":"能 持 一 切 聲 聞 緣 覺 所 說  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a25_1",
+    "original":"一切世間經書醫方呪術圍陀經典悉能持之。",
+    "folio":1,
+    "stemmed":"一切世間 經 書 醫 方 呪 術 圍 陀 經 典 悉 能 持 之  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a25_12",
+    "original":"一切眾生言語能出能入。",
+    "folio":1,
+    "stemmed":"一 切 眾 生 言 語 能 出 能 入  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a26_2",
+    "original":"能知一切眾生之心。",
+    "folio":1,
+    "stemmed":"能 知 一 切 眾 生 之 心  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a26_11",
+    "original":"善知一切語言辭音。",
+    "folio":1,
+    "stemmed":"善 知 一 切 語 言 辭 音  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a27_6",
+    "original":"如其言音能即至如是一切道中。",
+    "folio":1,
+    "stemmed":"如 其 言 音 能 即 至 如是一切 道 中  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a27_17",
+    "original":"能知實不實法得念堅固。",
+    "folio":1,
+    "stemmed":"能 知 實 不 實 法 得 念 堅 固  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a28_7",
+    "original":"一切菩薩所應供養。",
+    "folio":1,
+    "stemmed":"一切菩薩 所 應 供 養  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a29_1",
+    "original":"能以一指動一切諸佛世界。",
+    "folio":1,
+    "stemmed":"能 以 一 指 動 一切諸佛 世 界  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847a29_11",
+    "original":"能使彼眾生無驚畏想。",
+    "folio":1,
+    "stemmed":"能 使 彼 眾 生 無 驚 畏 想  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b01_1",
+    "original":"能以一念知於三世。",
+    "folio":1,
+    "stemmed":"能 以 一 念 知 於 三 世  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b01_10",
+    "original":"能斷一切眾生疑悔。",
+    "folio":1,
+    "stemmed":"能 斷 一 切 眾 生 疑 悔  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b02_4",
+    "original":"能使眾生修決定行更無疑滯。",
+    "folio":1,
+    "stemmed":"能 使 眾 生 修 決 定 行 更 無 疑 滯  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b02_15",
+    "original":"常得善念終不依事諸天。",
+    "folio":1,
+    "stemmed":"常 得 善 念 終 不 依 事 諸 天  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b03_4",
+    "original":"得無量諸三昧門。",
+    "folio":1,
+    "stemmed":"得 無 量 諸 三 昧 門  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b03_9",
+    "original":"得宿命智。",
+    "folio":1,
+    "stemmed":"得 宿 命 智  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b03_19",
+    "original":"常得化生不受胎生常。",
+    "folio":1,
+    "stemmed":"常 得 化 生 不 受 胎 生 常  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b04_9",
+    "original":"坐蓮花終不生於惡趣。",
+    "folio":1,
+    "stemmed":"坐 蓮 花 終 不 生 於 惡 趣  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b04_16",
+    "original":"受身若受身處。",
+    "folio":1,
+    "stemmed":"受 身 若 受 身 處  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b05_4",
+    "original":"身中無諸蟲戶。",
+    "folio":1,
+    "stemmed":"身 中 無 諸 蟲 戶  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b05_16",
+    "original":"於一切生處常得是陀羅尼。",
+    "folio":1,
+    "stemmed":"於 一 切 生 處 常 得 是 陀 羅 尼  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b06_6",
+    "original":"永不生於無佛國土。",
+    "folio":1,
+    "stemmed":"永 不 生 於 無 佛 國 土  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b06_13",
+    "original":"常得無盡寶手。",
+    "folio":1,
+    "stemmed":"常 得 無 盡 寶 手  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b06_19",
+    "original":"得莊嚴佛國。",
+    "folio":1,
+    "stemmed":"得 莊 嚴 佛 國  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b07_9",
+    "original":"得如實方便教化眾生。",
+    "folio":1,
+    "stemmed":"得 如 實 方 便 教 化 眾 生  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b07_18",
+    "original":"能知眾生一切所行。",
+    "folio":1,
+    "stemmed":"能 知 眾 生 一 切 所 行  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b08_8",
+    "original":"能知眾生善不善心。",
+    "folio":1,
+    "stemmed":"能 知 眾 生 善 不 善 心  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b09_1",
+    "original":"能知一切外道所修行法。",
+    "folio":1,
+    "stemmed":"能 知 一 切 外 道 所 修 行 法  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b09_14",
+    "original":"得樂說方便得無盡藏陀羅尼。",
+    "folio":1,
+    "stemmed":"得 樂 說 方 便 得 無 盡 藏 陀 羅 尼  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b10_2",
+    "original":"得善喜陀羅尼。",
+    "folio":1,
+    "stemmed":"得 善 喜 陀 羅 尼  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b10_10",
+    "original":"得波修蜜陀羅尼。",
+    "folio":1,
+    "stemmed":"得 波 修 蜜 陀 羅 尼  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b11_1",
+    "original":"得無量稱陀羅尼。",
+    "folio":1,
+    "stemmed":"得 無 量 稱 陀 羅 尼  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b11_10",
+    "original":"得一切聞持陀羅尼。",
+    "folio":1,
+    "stemmed":"得 一 切 聞持陀羅尼  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b11_17",
+    "original":"得無畏陀羅尼。",
+    "folio":1,
+    "stemmed":"得 無 畏 陀 羅 尼  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b12_2",
+    "original":"復次尊勝。",
+    "folio":1,
+    "stemmed":"復 次 尊 勝  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b12_7",
+    "original":"舉要言之。",
+    "folio":1,
+    "stemmed":"舉 要 言 之  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b13_9",
+    "original":"是人能得一切佛剎虛空法界微塵數不忘陀羅尼。",
+    "folio":1,
+    "stemmed":"是 人 能 得 一 切 佛 剎 虛 空 法 界 微 塵 數 不 忘 陀 羅 尼  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b14_5",
+    "original":"得法界虛空界一切世界水界渧數。",
+    "folio":1,
+    "stemmed":"得 法 界 虛 空 界 一切世界 水 界 渧 數  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b14_15",
+    "original":"得如是等不忘陀羅尼。",
+    "folio":1,
+    "stemmed":"得 如 是 等 不 忘 陀 羅 尼  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b15_3",
+    "original":"得法界虛空界。",
+    "folio":1,
+    "stemmed":"得 法 界 虛 空 界  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b15_12",
+    "original":"盡未來際一切佛剎。",
+    "folio":1,
+    "stemmed":"盡未來際 一 切 佛 剎  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b15_17",
+    "original":"滿中大火。",
+    "folio":1,
+    "stemmed":"滿 中 大 火  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b16_6",
+    "original":"一切火焰生滅等數。",
+    "folio":1,
+    "stemmed":"一 切 火 焰 生 滅 等 數  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b16_16",
+    "original":"得如是等不忘陀羅尼。",
+    "folio":1,
+    "stemmed":"得 如 是 等 不 忘 陀 羅 尼  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b17_8",
+    "original":"復次得如是法界虛空界。",
+    "folio":1,
+    "stemmed":"復 次 得 如 是 法 界 虛 空 界  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b18_4",
+    "original":"盡未來際一切佛剎及大地草木。",
+    "folio":1,
+    "stemmed":"盡未來際 一 切 佛 剎 及 大 地 草 木  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b18_9",
+    "original":"碎為微塵。",
+    "folio":1,
+    "stemmed":"碎 為 微 塵  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b18_19",
+    "original":"得如是數不忘陀羅尼。",
+    "folio":1,
+    "stemmed":"得 如 是 數 不 忘 陀 羅 尼  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b19_8",
+    "original":"復次得法界虛空界。",
+    "folio":1,
+    "stemmed":"復 次 得 法 界 虛 空 界  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b19_17",
+    "original":"盡未來際一切佛剎。",
+    "folio":1,
+    "stemmed":"盡未來際 一 切 佛 剎  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b20_12",
+    "original":"以恒沙數及微塵等不忘陀羅尼。",
+    "folio":1,
+    "stemmed":"以 恒 沙 數 及 微 塵 等 不 忘 陀 羅 尼  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b21_8",
+    "original":"得諸佛現在心念陀羅尼如是等。",
+    "folio":1,
+    "stemmed":"得 諸 佛 現 在 心 念 陀 羅 尼 如 是 等  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b21_11",
+    "original":"尊勝。",
+    "folio":1,
+    "stemmed":"尊 勝  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b22_1",
+    "original":"得如是陀羅尼菩薩。",
+    "folio":1,
+    "stemmed":"得 如 是 陀 羅 尼 菩 薩  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b22_16",
+    "original":"能得如是等不可思議百千陀羅尼。",
+    "folio":1,
+    "stemmed":"能 得 如 是 等 不可思議 百 千 陀 羅 尼  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b23_11",
+    "original":"乃至不可思議無量百千三昧門。",
+    "folio":1,
+    "stemmed":"乃 至 不可思議 無 量 百 千 三 昧 門  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b23_14",
+    "original":"尊勝。",
+    "folio":1,
+    "stemmed":"尊 勝  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b24_3",
+    "original":"若有人善誦在心。",
+    "folio":1,
+    "stemmed":"若 有 人 善 誦 在 心  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b24_17",
+    "original":"是人無非人畏羅剎畏比舍遮畏。",
+    "folio":1,
+    "stemmed":"是 人 無 非 人 畏 羅 剎 畏 比 舍 遮 畏  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b25_5",
+    "original":"若在阿練若處。",
+    "folio":1,
+    "stemmed":"若 在 阿練若處  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b26_11",
+    "original":"無卑利多畏及師子虎狼惡獸毒蟲賊盜惡人及毛竪等畏。",
+    "folio":1,
+    "stemmed":"無 卑 利 多 畏 及 師 子 虎 狼 惡 獸 毒 蟲 賊 盜 惡 人 及 毛 竪 等 畏  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b27_1",
+    "original":"若誦此陀羅尼者。",
+    "folio":1,
+    "stemmed":"若 誦 此 陀 羅 尼 者  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b27_16",
+    "original":"若為一切諸惡鬼神所捉疾得解脫。",
+    "folio":1,
+    "stemmed":"若 為 一 切 諸 惡 鬼 神 所 捉 疾 得 解 脫  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b28_5",
+    "original":"若誦此陀羅尼者。",
+    "folio":1,
+    "stemmed":"若 誦 此 陀 羅 尼 者  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b28_10",
+    "original":"一切惡毒。",
+    "folio":1,
+    "stemmed":"一 切 惡 毒  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b29_2",
+    "original":"若身內若身外不能為患。",
+    "folio":1,
+    "stemmed":"若 身 內 若 身 外 不 能 為 患  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b29_11",
+    "original":"若有誦此陀羅尼處。",
+    "folio":1,
+    "stemmed":"若 有 誦 此 陀 羅 尼 處  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b29_17",
+    "original":"若村落城邑。",
+    "folio":1,
+    "stemmed":"若 村 落 城 邑  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b30_4",
+    "original":"若眾中若僧房。",
+    "folio":1,
+    "stemmed":"若 眾 中 若 僧 房  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847b30_9",
+    "original":"若經行處。",
+    "folio":1,
+    "stemmed":"若 經 行 處  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c01_1",
+    "original":"終無一切方道起屍等鬼。",
+    "folio":1,
+    "stemmed":"終 無 一 切 方 道 起 屍 等 鬼  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c02_4",
+    "original":"又無王難盜賊水火刀毒惡鬼人非人等毒龍等畏。",
+    "folio":1,
+    "stemmed":"又 無 王 難 盜 賊 水 火 刀 毒 惡 鬼 人 非 人 等 毒 龍 等 畏  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c02_9",
+    "original":"復次尊勝。",
+    "folio":1,
+    "stemmed":"復 次 尊 勝  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c03_4",
+    "original":"若有比丘比丘尼優婆塞優婆夷。",
+    "folio":1,
+    "stemmed":"若 有 比 丘 比 丘 尼 優 婆 塞 優 婆 夷  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c03_11",
+    "original":"若在家若出家。",
+    "folio":1,
+    "stemmed":"若 在 家 若 出 家  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c04_1",
+    "original":"修行淨行著淨衣服。",
+    "folio":1,
+    "stemmed":"修 行 淨 行 著 淨 衣 服  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c04_12",
+    "original":"以好香華供養諸佛菩薩。",
+    "folio":1,
+    "stemmed":"以 好 香 華 供 養 諸佛菩薩  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c04_19",
+    "original":"心念諸佛菩薩。",
+    "folio":1,
+    "stemmed":"心 念 諸佛菩薩  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c05_5",
+    "original":"誦此陀羅尼。",
+    "folio":1,
+    "stemmed":"誦 此 陀 羅 尼  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c05_10",
+    "original":"若有病人。",
+    "folio":1,
+    "stemmed":"若 有 病 人  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c07_5",
+    "original":"若頭痛若瘧病苦風病若熱病冷病若眾生苦動一日若二日若三日若四日。",
+    "folio":1,
+    "stemmed":"若 頭 痛 若 瘧 病 苦 風 病 若 熱 病 冷 病 若 眾 生 苦 動 一 日 若 二 日 若 三 日 若 四 日  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c08_4",
+    "original":"若常病若眼痛若齒牙痛若腹痛若背痛。",
+    "folio":1,
+    "stemmed":"若 常 病 若 眼 痛 若 齒 牙 痛 若 腹 痛 若 背 痛  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c08_15",
+    "original":"若惡風若失念若鬼所著。",
+    "folio":1,
+    "stemmed":"若 惡 風 若 失 念 若 鬼 所 著  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c09_1",
+    "original":"如是等病。",
+    "folio":1,
+    "stemmed":"如 是 等 病  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c09_10",
+    "original":"是人為誦此陀羅尼。",
+    "folio":1,
+    "stemmed":"是 人 為 誦 此 陀 羅 尼  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c09_15",
+    "original":"手摩捫之。",
+    "folio":1,
+    "stemmed":"手 摩 捫 之  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c09_18",
+    "original":"尊勝。",
+    "folio":1,
+    "stemmed":"尊 勝  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c10_11",
+    "original":"若誦此陀羅尼一百九十八遍。",
+    "folio":1,
+    "stemmed":"若 誦 此 陀 羅 尼 一 百 九 十 八 遍  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c10_18",
+    "original":"若諸病諸怖畏。",
+    "folio":1,
+    "stemmed":"若 諸 病 諸 怖 畏  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c11_8",
+    "original":"不除滅者無有是處。",
+    "folio":1,
+    "stemmed":"不 除 滅 者 無 有 是 處  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c11_12",
+    "original":"何以故。",
+    "folio":1,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c11_17",
+    "original":"過去諸佛。",
+    "folio":1,
+    "stemmed":"過去諸佛  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c12_7",
+    "original":"以此陀羅尼擁護眾生。",
+    "folio":1,
+    "stemmed":"以 此 陀 羅 尼 擁 護 眾 生  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c12_12",
+    "original":"未來諸佛。",
+    "folio":1,
+    "stemmed":"未來諸佛  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c13_4",
+    "original":"亦以此陀羅尼擁護眾生。",
+    "folio":1,
+    "stemmed":"亦 以 此 陀 羅 尼 擁 護 眾 生  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c13_9",
+    "original":"現在諸佛。",
+    "folio":1,
+    "stemmed":"現在諸佛  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c14_1",
+    "original":"亦以此陀羅尼擁護眾生。",
+    "folio":1,
+    "stemmed":"亦 以 此 陀 羅 尼 擁 護 眾 生  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c14_4",
+    "original":"尊勝。",
+    "folio":1,
+    "stemmed":"尊 勝  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c14_9",
+    "original":"此陀羅尼。",
+    "folio":1,
+    "stemmed":"此 陀 羅 尼  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c14_18",
+    "original":"有大功德有大勢力。",
+    "folio":1,
+    "stemmed":"有 大 功 德 有大勢力  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c15_7",
+    "original":"多為眾生作大利益。",
+    "folio":1,
+    "stemmed":"多 為 眾 生 作 大 利 益  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c15_12",
+    "original":"若有眾生。",
+    "folio":1,
+    "stemmed":"若 有 眾 生  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c16_4",
+    "original":"善誦此陀羅尼持在心者。",
+    "folio":1,
+    "stemmed":"善 誦 此 陀 羅 尼 持 在 心 者  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c16_15",
+    "original":"有八十億夜叉擁護是人。",
+    "folio":1,
+    "stemmed":"有 八 十 億 夜 叉 擁 護 是 人  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c17_1",
+    "original":"爾時會中。",
+    "folio":1,
+    "stemmed":"爾 時 會 中  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c17_10",
+    "original":"有夜叉王名奢臘娑。",
+    "folio":1,
+    "stemmed":"有 夜 叉 王 名 奢 臘 娑  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c17_15",
+    "original":"有千眷屬。",
+    "folio":1,
+    "stemmed":"有 千 眷 屬  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c17_19",
+    "original":"白佛言。",
+    "folio":1,
+    "stemmed":"白 佛 言  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c18_2",
+    "original":"世尊。",
+    "folio":1,
+    "stemmed":"世 尊  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c18_8",
+    "original":"我等并眷屬。",
+    "folio":1,
+    "stemmed":"我 等 并 眷 屬  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c18_19",
+    "original":"常當擁護誦此陀羅尼人。",
+    "folio":1,
+    "stemmed":"常 當 擁 護 誦 此 陀 羅 尼 人  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c19_2",
+    "original":"世尊。",
+    "folio":1,
+    "stemmed":"世 尊  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c19_7",
+    "original":"大雪山中。",
+    "folio":1,
+    "stemmed":"大 雪 山 中  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c19_16",
+    "original":"有好藥草名益精氣。",
+    "folio":1,
+    "stemmed":"有 好 藥 草 名 益 精 氣  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c20_1",
+    "original":"此藥德力。",
+    "folio":1,
+    "stemmed":"此 藥 德 力  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c20_17",
+    "original":"能令一切閻浮提所有藥草增長勢力。",
+    "folio":1,
+    "stemmed":"能 令 一 切 閻 浮 提 所 有 藥 草 增 長 勢 力  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c21_2",
+    "original":"世尊。",
+    "folio":1,
+    "stemmed":"世 尊  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c21_17",
+    "original":"我常以此妙藥灑散此人益其氣力。",
+    "folio":1,
+    "stemmed":"我 常 以 此 妙 藥 灑 散 此 人 益 其 氣 力  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c22_10",
+    "original":"使誦此陀羅尼人永不病苦。",
+    "folio":1,
+    "stemmed":"使 誦 此 陀 羅 尼 人 永 不 病 苦  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c23_5",
+    "original":"身心安隱無有痛處臥無惡夢。",
+    "folio":1,
+    "stemmed":"身 心 安 隱 無 有 痛 處 臥 無 惡 夢  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c24_4",
+    "original":"爾時世尊。",
+    "folio":1,
+    "stemmed":"爾 時 世 尊  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c24_9",
+    "original":"復告尊勝。",
+    "folio":1,
+    "stemmed":"復 告 尊 勝  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c25_1",
+    "original":"彼四大天王未成佛頃。",
+    "folio":1,
+    "stemmed":"彼 四大天王 未 成 佛 頃  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c25_12",
+    "original":"常當擁護誦此陀羅尼者。",
+    "folio":1,
+    "stemmed":"常 當 擁 護 誦 此 陀 羅 尼 者  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c25_17",
+    "original":"終不放捨。",
+    "folio":1,
+    "stemmed":"終 不 放 捨  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c26_4",
+    "original":"乃至三十三天。",
+    "folio":1,
+    "stemmed":"乃 至 三十三天  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c27_1",
+    "original":"炎摩兜率化樂他化自在諸天子等。",
+    "folio":1,
+    "stemmed":"炎 摩 兜 率 化 樂 他 化 自 在 諸 天 子 等  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c27_8",
+    "original":"乃至未成佛頃。",
+    "folio":1,
+    "stemmed":"乃 至 未 成 佛 頃  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c27_15",
+    "original":"常當擁護是人。",
+    "folio":1,
+    "stemmed":"常 當 擁 護 是 人  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c27_18",
+    "original":"尊勝。",
+    "folio":1,
+    "stemmed":"尊 勝  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c28_5",
+    "original":"持此陀羅尼者。",
+    "folio":1,
+    "stemmed":"持 此 陀 羅 尼 者  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c28_12",
+    "original":"不得陰界諸入。",
+    "folio":1,
+    "stemmed":"不 得 陰界諸入  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c29_1",
+    "original":"若不得陰界諸入。",
+    "folio":1,
+    "stemmed":"若 不 得 陰界諸入  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0847c29_9",
+    "original":"則不得一切諸法。",
+    "folio":1,
+    "stemmed":"則 不 得 一切諸法  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a01_8",
+    "original":"若不得一切諸法是人即疾成就此陀羅尼。",
+    "folio":1,
+    "stemmed":"若 不 得 一切諸法 是 人 即 疾 成 就 此 陀 羅 尼  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a01_13",
+    "original":"復次尊勝。",
+    "folio":1,
+    "stemmed":"復 次 尊 勝  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a02_1",
+    "original":"諸法實不可得。",
+    "folio":1,
+    "stemmed":"諸 法 實 不 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a02_14",
+    "original":"但以言語法故名為陰界諸入。",
+    "folio":1,
+    "stemmed":"但 以 言 語 法 故 名 為 陰界諸入  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a03_5",
+    "original":"陰界諸入故名為聚集。",
+    "folio":1,
+    "stemmed":"陰界諸入 故 名 為 聚 集  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a03_14",
+    "original":"一切諸法實無聚集。",
+    "folio":1,
+    "stemmed":"一切諸法 實 無 聚 集  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a03_18",
+    "original":"何以故。",
+    "folio":1,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a04_5",
+    "original":"色性不可得故。",
+    "folio":1,
+    "stemmed":"色 性 不 可 得 故  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a05_13",
+    "original":"如地地自性成就水水自性成就火火自性成就風風自性成就。",
+    "folio":1,
+    "stemmed":"如 地 地 自 性 成 就 水 水 自 性 成 就 火 火 自 性 成 就 風 風 自 性 成 就  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a06_4",
+    "original":"如是諸大自性成就。",
+    "folio":1,
+    "stemmed":"如 是 諸 大 自 性 成 就  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a06_13",
+    "original":"無增無減無有聚合。",
+    "folio":1,
+    "stemmed":"無增無減 無 有 聚 合  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a07_3",
+    "original":"實不可得無有處所。",
+    "folio":1,
+    "stemmed":"實 不 可 得 無 有 處 所  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a07_10",
+    "original":"云何名色如色。",
+    "folio":1,
+    "stemmed":"云 何 名 色 如 色  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a07_19",
+    "original":"地水火風亦復如是。",
+    "folio":1,
+    "stemmed":"地水火風 亦復如是  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a08_5",
+    "original":"過去無作者。",
+    "folio":1,
+    "stemmed":"過 去 無 作 者  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a08_11",
+    "original":"未來無作者。",
+    "folio":1,
+    "stemmed":"未 來 無 作 者  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a08_17",
+    "original":"現在無作者。",
+    "folio":1,
+    "stemmed":"現 在 無 作 者  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a09_1",
+    "original":"何以故。",
+    "folio":1,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a09_6",
+    "original":"一切諸法。",
+    "folio":1,
+    "stemmed":"一切諸法  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a09_15",
+    "original":"無形無色無生無滅。",
+    "folio":1,
+    "stemmed":"無 形 無 色 無生無滅  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a10_4",
+    "original":"法若不生則無有滅。",
+    "folio":1,
+    "stemmed":"法 若 不 生 則 無 有 滅  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a10_13",
+    "original":"若無生滅則無作為。",
+    "folio":1,
+    "stemmed":"若 無 生 滅 則 無 作 為  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a11_9",
+    "original":"復次言有色故則有過去未來現在。",
+    "folio":1,
+    "stemmed":"復 次 言 有 色 故 則 有 過去未來現在  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a11_16",
+    "original":"是色實不可得。",
+    "folio":1,
+    "stemmed":"是 色 實 不 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a12_4",
+    "original":"若色實不可得。",
+    "folio":1,
+    "stemmed":"若 色 實 不 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a12_15",
+    "original":"當知則無過去未來現在。",
+    "folio":1,
+    "stemmed":"當 知 則 無 過去未來現在  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a13_9",
+    "original":"是故此色痛想行識亦復如是。",
+    "folio":1,
+    "stemmed":"是 故 此 色 痛 想 行 識 亦復如是  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a14_3",
+    "original":"是故能入者即是入陀羅尼。",
+    "folio":1,
+    "stemmed":"是 故 能 入 者 即 是 入 陀 羅 尼  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a14_15",
+    "original":"入此陀羅尼者即名入此陰。",
+    "folio":1,
+    "stemmed":"入 此 陀 羅 尼 者 即 名 入 此 陰  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a15_8",
+    "original":"若入是陰即名得陀羅尼。",
+    "folio":1,
+    "stemmed":"若 入 是 陰 即 名 得陀羅尼  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a15_14",
+    "original":"此陀羅尼者。",
+    "folio":1,
+    "stemmed":"此 陀 羅 尼 者  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a15_19",
+    "original":"名之為持。",
+    "folio":1,
+    "stemmed":"名 之 為 持  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a16_5",
+    "original":"此持何所持。",
+    "folio":1,
+    "stemmed":"此 持 何 所 持  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a16_10",
+    "original":"持無所得。",
+    "folio":1,
+    "stemmed":"持 無 所 得  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a16_15",
+    "original":"名之為持。",
+    "folio":1,
+    "stemmed":"名 之 為 持  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a16_20",
+    "original":"所言得者。",
+    "folio":1,
+    "stemmed":"所 言 得 者  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a17_5",
+    "original":"以言語法故。",
+    "folio":1,
+    "stemmed":"以 言 語 法 故  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a17_13",
+    "original":"有名字音聲假合。",
+    "folio":1,
+    "stemmed":"有 名 字 音 聲 假 合  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a18_3",
+    "original":"實無所得假名為作。",
+    "folio":1,
+    "stemmed":"實 無 所 得 假 名 為 作  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a18_9",
+    "original":"實無陰無入。",
+    "folio":1,
+    "stemmed":"實 無 陰 無 入  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a18_15",
+    "original":"實無法可持。",
+    "folio":1,
+    "stemmed":"實 無 法 可 持  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a18_19",
+    "original":"何以故。",
+    "folio":1,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a19_8",
+    "original":"此無作法假名為色。",
+    "folio":1,
+    "stemmed":"此 無 作 法 假 名 為 色  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a19_17",
+    "original":"此無作法云何聚集。",
+    "folio":1,
+    "stemmed":"此 無 作 法 云 何 聚 集  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a20_7",
+    "original":"若可聚集假名為陰。",
+    "folio":1,
+    "stemmed":"若 可 聚 集 假 名 為 陰  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a20_16",
+    "original":"若不聚集云何名陰。",
+    "folio":1,
+    "stemmed":"若 不 聚 集 云 何 名 陰  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a21_2",
+    "original":"復次尊勝。",
+    "folio":1,
+    "stemmed":"復 次 尊 勝  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a21_8",
+    "original":"猶多集諸法。",
+    "folio":1,
+    "stemmed":"猶 多 集 諸 法  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a21_13",
+    "original":"名之為舍。",
+    "folio":1,
+    "stemmed":"名 之 為 舍  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a21_18",
+    "original":"名之為城。",
+    "folio":1,
+    "stemmed":"名 之 為 城  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a22_16",
+    "original":"如因有地墻壁梁柱椽梠門戶嚮牖名之為舍。",
+    "folio":1,
+    "stemmed":"如 因 有 地 墻 壁 梁 柱 椽 梠 門 戶 嚮 牖 名 之 為 舍  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a23_15",
+    "original":"因集多舍巷陌樓閣埤堄却敵園林池塹。",
+    "folio":1,
+    "stemmed":"因 集 多 舍 巷 陌 樓 閣 埤 堄 却 敵 園 林 池 塹  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a24_2",
+    "original":"名之為城。",
+    "folio":1,
+    "stemmed":"名 之 為 城  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a24_12",
+    "original":"若離此眾物城不可得。",
+    "folio":1,
+    "stemmed":"若 離 此 眾 物 城 不 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a24_17",
+    "original":"如是如是。",
+    "folio":1,
+    "stemmed":"如是如是  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a24_20",
+    "original":"尊勝。",
+    "folio":1,
+    "stemmed":"尊 勝  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a25_5",
+    "original":"為假合眾緣。",
+    "folio":1,
+    "stemmed":"為 假 合 眾 緣  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a25_10",
+    "original":"名為色陰。",
+    "folio":1,
+    "stemmed":"名 為 色 陰  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a25_19",
+    "original":"求此實相實不可得。",
+    "folio":1,
+    "stemmed":"求 此 實 相 實 不 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a26_8",
+    "original":"若不可得何有聚集。",
+    "folio":1,
+    "stemmed":"若 不 可 得 何 有 聚 集  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a27_1",
+    "original":"若無聚集何處有色如色。",
+    "folio":1,
+    "stemmed":"若 無 聚 集 何 處 有 色 如 色  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a27_10",
+    "original":"痛想行識亦復如是。",
+    "folio":1,
+    "stemmed":"痛 想 行 識 亦復如是  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a27_15",
+    "original":"復次尊勝。",
+    "folio":1,
+    "stemmed":"復 次 尊 勝  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a28_7",
+    "original":"若入此陰即名入陀羅尼門。",
+    "folio":1,
+    "stemmed":"若 入 此 陰 即 名 入 陀羅尼門  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a28_10",
+    "original":"尊勝。",
+    "folio":1,
+    "stemmed":"尊 勝  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a29_1",
+    "original":"此陀羅尼亦不可得。",
+    "folio":1,
+    "stemmed":"此 陀 羅 尼 亦 不 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a29_5",
+    "original":"何以故。",
+    "folio":1,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848a29_17",
+    "original":"如眼眼不可得界界不可得。",
+    "folio":1,
+    "stemmed":"如 眼 眼 不 可 得 界 界 不 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b01_7",
+    "original":"耳鼻舌身意亦復如是。",
+    "folio":1,
+    "stemmed":"耳 鼻 舌 身 意 亦復如是  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b01_12",
+    "original":"所以者何。",
+    "folio":1,
+    "stemmed":"所以者何  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b01_19",
+    "original":"此中實不可得。",
+    "folio":1,
+    "stemmed":"此 中 實 不 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b02_9",
+    "original":"若實不可得是名無物。",
+    "folio":1,
+    "stemmed":"若 實 不 可 得 是 名 無 物  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b02_18",
+    "original":"若無有物則無成就。",
+    "folio":1,
+    "stemmed":"若 無 有 物 則 無 成 就  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b03_8",
+    "original":"若無成就則無有生。",
+    "folio":1,
+    "stemmed":"若 無 成 就 則 無 有 生  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b03_17",
+    "original":"若無有生則無有滅。",
+    "folio":1,
+    "stemmed":"若 無 有 生 則 無 有 滅  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b04_11",
+    "original":"若無生滅則無過去未來現在。",
+    "folio":1,
+    "stemmed":"若 無 生 滅 則 無 過去未來現在  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b05_3",
+    "original":"但為世法有名字言語。",
+    "folio":1,
+    "stemmed":"但 為 世 法 有 名 字 言 語  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b05_13",
+    "original":"此名字言語實無所有。",
+    "folio":1,
+    "stemmed":"此 名 字 言 語 實無所有  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b06_2",
+    "original":"眾生者亦無有言。",
+    "folio":1,
+    "stemmed":"眾 生 者 亦 無 有 言  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b06_10",
+    "original":"世法者亦無有著。",
+    "folio":1,
+    "stemmed":"世 法 者 亦 無 有 著  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b07_1",
+    "original":"無著者即是無所有言。",
+    "folio":1,
+    "stemmed":"無 著 者 即 是 無 所 有 言  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b07_9",
+    "original":"此諸法實不可得。",
+    "folio":1,
+    "stemmed":"此 諸 法 實 不 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b07_14",
+    "original":"實無有物。",
+    "folio":1,
+    "stemmed":"實 無 有 物  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b08_3",
+    "original":"若實無物亦無成就。",
+    "folio":1,
+    "stemmed":"若 實 無 物 亦 無 成 就  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b08_12",
+    "original":"若無成就亦無有生。",
+    "folio":1,
+    "stemmed":"若 無 成 就 亦 無 有 生  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b09_2",
+    "original":"若無有生則無有滅。",
+    "folio":1,
+    "stemmed":"若 無 有 生 則 無 有 滅  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b09_11",
+    "original":"若無生滅則無三世。",
+    "folio":1,
+    "stemmed":"若 無 生 滅 則 無 三 世  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b10_1",
+    "original":"若無三世則無名字。",
+    "folio":1,
+    "stemmed":"若 無 三 世 則 無 名 字  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b10_6",
+    "original":"則無相貌。",
+    "folio":1,
+    "stemmed":"則 無 相 貌  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b10_15",
+    "original":"若無相貌則無言說。",
+    "folio":1,
+    "stemmed":"若 無 相 貌 則 無 言 說  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b11_4",
+    "original":"無有聚集無有染著。",
+    "folio":1,
+    "stemmed":"無 有 聚 集 無 有 染 著  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b11_13",
+    "original":"無去無來無證無得。",
+    "folio":1,
+    "stemmed":"無 去 無 來 無 證 無 得  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b11_18",
+    "original":"非凡夫地。",
+    "folio":1,
+    "stemmed":"非 凡 夫 地  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b12_3",
+    "original":"非聲聞地。",
+    "folio":1,
+    "stemmed":"非 聲 聞 地  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b12_8",
+    "original":"非緣覺地。",
+    "folio":1,
+    "stemmed":"非 緣 覺 地  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b12_13",
+    "original":"非菩薩地。",
+    "folio":1,
+    "stemmed":"非 菩 薩 地  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b12_18",
+    "original":"亦非佛地。",
+    "folio":1,
+    "stemmed":"亦 非 佛 地  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b13_4",
+    "original":"非地非非地。",
+    "folio":1,
+    "stemmed":"非 地 非 非 地  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b13_11",
+    "original":"若非地非非地。",
+    "folio":1,
+    "stemmed":"若 非 地 非 非 地  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b13_16",
+    "original":"名之為如。",
+    "folio":1,
+    "stemmed":"名 之 為 如  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b14_3",
+    "original":"亦非如非非如。",
+    "folio":1,
+    "stemmed":"亦 非 如 非 非 如  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b14_8",
+    "original":"寂滅無相。",
+    "folio":1,
+    "stemmed":"寂 滅 無 相  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b14_14",
+    "original":"又假言語法。",
+    "folio":1,
+    "stemmed":"又 假 言 語 法  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b14_19",
+    "original":"名為如來。",
+    "folio":1,
+    "stemmed":"名 為 如 來  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b15_3",
+    "original":"何以故。",
+    "folio":1,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b15_9",
+    "original":"以第一義故。",
+    "folio":1,
+    "stemmed":"以 第 一 義 故  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b15_18",
+    "original":"此第一義是無所有。",
+    "folio":1,
+    "stemmed":"此 第 一 義 是 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b16_3",
+    "original":"實不可得。",
+    "folio":1,
+    "stemmed":"實 不 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b16_13",
+    "original":"此不可得者名為如來。",
+    "folio":1,
+    "stemmed":"此 不 可 得 者 名 為 如 來  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b16_18",
+    "original":"復次尊勝。",
+    "folio":1,
+    "stemmed":"復 次 尊 勝  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b17_12",
+    "original":"如眼界色界眼識界乃至十八界。",
+    "folio":1,
+    "stemmed":"如 眼 界 色 界 眼 識 界 乃 至 十 八 界  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b17_18",
+    "original":"為言語法故。",
+    "folio":1,
+    "stemmed":"為 言 語 法 故  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b18_4",
+    "original":"為之作名。",
+    "folio":1,
+    "stemmed":"為 之 作 名  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b18_8",
+    "original":"如地界。",
+    "folio":1,
+    "stemmed":"如 地 界  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b18_16",
+    "original":"為眾生言語法故。",
+    "folio":1,
+    "stemmed":"為 眾 生 言 語 法 故  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b19_2",
+    "original":"為作種種名。",
+    "folio":1,
+    "stemmed":"為 作 種 種 名  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b19_7",
+    "original":"如是如是。",
+    "folio":1,
+    "stemmed":"如是如是  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b19_10",
+    "original":"尊勝。",
+    "folio":1,
+    "stemmed":"尊 勝  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b19_19",
+    "original":"此言語法名為法界。",
+    "folio":1,
+    "stemmed":"此 言 語 法 名 為 法 界  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b20_11",
+    "original":"若入此法界者名入此陀羅尼。",
+    "folio":1,
+    "stemmed":"若 入 此 法 界 者 名 入 此 陀 羅 尼  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b21_2",
+    "original":"彼中言入何者名入。",
+    "folio":1,
+    "stemmed":"彼 中 言 入 何 者 名 入  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b21_11",
+    "original":"所言入者入無所入。",
+    "folio":1,
+    "stemmed":"所 言 入 者 入 無 所 入  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b21_15",
+    "original":"何以故。",
+    "folio":1,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b22_4",
+    "original":"一切諸法實無有物。",
+    "folio":1,
+    "stemmed":"一切諸法 實 無 有 物  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b22_13",
+    "original":"若實無物則無成就。",
+    "folio":1,
+    "stemmed":"若 實 無 物 則 無 成 就  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b23_3",
+    "original":"若無成就則是無生。",
+    "folio":1,
+    "stemmed":"若 無 成 就 則 是 無 生  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b23_12",
+    "original":"若無有生則是無滅。",
+    "folio":1,
+    "stemmed":"若 無 有 生 則 是 無 滅  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b24_2",
+    "original":"若無生滅則無三世。",
+    "folio":1,
+    "stemmed":"若 無 生 滅 則 無 三 世  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b24_11",
+    "original":"但為諸法假立名字。",
+    "folio":1,
+    "stemmed":"但 為 諸 法 假立名字  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b25_2",
+    "original":"然此諸法及言說名字。",
+    "folio":1,
+    "stemmed":"然 此 諸 法 及 言 說 名 字  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b25_8",
+    "original":"實空無相法。",
+    "folio":1,
+    "stemmed":"實 空 無 相 法  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b25_16",
+    "original":"若無相即是無願。",
+    "folio":1,
+    "stemmed":"若 無 相 即 是 無 願  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b26_5",
+    "original":"若是無願即無去來。",
+    "folio":1,
+    "stemmed":"若 是 無 願 即 無 去 來  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b26_10",
+    "original":"動轉戲論。",
+    "folio":1,
+    "stemmed":"動 轉 戲 論  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b26_14",
+    "original":"善男子。",
+    "folio":1,
+    "stemmed":"善 男 子  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b27_3",
+    "original":"一切諸法實性如是。",
+    "folio":1,
+    "stemmed":"一切諸法 實 性 如 是  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b27_8",
+    "original":"無有欺誑。",
+    "folio":1,
+    "stemmed":"無 有 欺 誑  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b27_11",
+    "original":"尊勝。",
+    "folio":1,
+    "stemmed":"尊 勝  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b28_4",
+    "original":"於後世中若有善男子善女人。",
+    "folio":1,
+    "stemmed":"於 後 世 中 若 有 善 男 子 善 女 人  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b28_11",
+    "original":"若有書寫讀誦。",
+    "folio":1,
+    "stemmed":"若 有 書 寫 讀 誦  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b29_3",
+    "original":"若為人演說此陀羅尼者。",
+    "folio":1,
+    "stemmed":"若 為 人 演 說 此 陀 羅 尼 者  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848b29_10",
+    "original":"是人所得功德。",
+    "folio":1,
+    "stemmed":"是 人 所得功德  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848c01_5",
+    "original":"除佛世尊無有能說此人功德者。",
+    "folio":1,
+    "stemmed":"除 佛 世 尊 無 有 能 說 此 人 功 德 者  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848c01_14",
+    "original":"爾時世尊說此經已。",
+    "folio":1,
+    "stemmed":"爾 時 世 尊 說 此 經 已  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848c02_6",
+    "original":"三千大千世界六種震動。",
+    "folio":1,
+    "stemmed":"三千大千世界 六種震動  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848c02_15",
+    "original":"一切諸天作諸伎樂。",
+    "folio":1,
+    "stemmed":"一 切 諸 天 作 諸 伎 樂  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848c03_2",
+    "original":"雨諸天華。",
+    "folio":1,
+    "stemmed":"雨 諸 天 華  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848c03_12",
+    "original":"八萬四千人得法眼淨。",
+    "folio":1,
+    "stemmed":"八萬四千 人 得法眼淨  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848c04_3",
+    "original":"有一千人發無上道心。",
+    "folio":1,
+    "stemmed":"有 一 千 人 發 無上道心  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848c04_15",
+    "original":"九千三百諸天同發菩提心。",
+    "folio":1,
+    "stemmed":"九 千 三 百 諸 天 同 發菩提心  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848c05_13",
+    "original":"爾時尊勝及一切他方來會菩薩摩訶薩。",
+    "folio":1,
+    "stemmed":"爾 時 尊 勝 及 一 切 他 方 來 會 菩薩摩訶薩  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848c06_3",
+    "original":"及闍婆遮夜叉王。",
+    "folio":1,
+    "stemmed":"及 闍 婆 遮 夜 叉 王  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848c06_13",
+    "original":"并一切大眾諸天世人。",
+    "folio":1,
+    "stemmed":"并 一 切 大 眾 諸 天 世 人  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848c07_3",
+    "original":"及乾闥婆阿修羅等。",
+    "folio":1,
+    "stemmed":"及 乾 闥 婆 阿 修 羅 等  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848c07_8",
+    "original":"聞佛所說。",
+    "folio":1,
+    "stemmed":"聞 佛 所 說  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848c07_13",
+    "original":"歡喜奉行。",
+    "folio":1,
+    "stemmed":"歡 喜 奉 行  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848c10_9",
+    "original":"尊勝菩薩所問一切諸法入無量陀羅尼門經爾時三千日月諸天王。",
+    "folio":1,
+    "stemmed":"尊 勝 菩 薩 所 問 一切諸法 入 無 量 陀羅尼門 經 爾 時 三 千 日 月 諸 天 王  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848c10_13",
+    "original":"諸龍王。",
+    "folio":1,
+    "stemmed":"諸 龍 王  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848c11_1",
+    "original":"諸阿須倫王。",
+    "folio":1,
+    "stemmed":"諸 阿 須 倫 王  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848c11_12",
+    "original":"主天地大鬼神及天魔王。",
+    "folio":1,
+    "stemmed":"主 天 地 大 鬼 神 及 天 魔 王  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848c12_6",
+    "original":"火神王山神王樹神王諸神王。",
+    "folio":1,
+    "stemmed":"火 神 王 山 神 王 樹 神 王 諸 神 王  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848c12_15",
+    "original":"即於佛前叉手作禮。",
+    "folio":1,
+    "stemmed":"即 於 佛 前 叉 手 作 禮  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848c13_3",
+    "original":"奉行誦此呪者。",
+    "folio":1,
+    "stemmed":"奉 行 誦 此 呪 者  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848c13_10",
+    "original":"我日日往供養。",
+    "folio":1,
+    "stemmed":"我 日 日 往 供 養  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848c13_15",
+    "original":"便不橫死。",
+    "folio":1,
+    "stemmed":"便 不 橫 死  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848c14_4",
+    "original":"一切諸惡皆不得便。",
+    "folio":1,
+    "stemmed":"一 切 諸 惡 皆 不 得 便  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848c14_11",
+    "original":"持是呪所在處。",
+    "folio":1,
+    "stemmed":"持 是 呪 所 在 處  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848c15_5",
+    "original":"諸天王諸須倫王諸大鬼將軍。",
+    "folio":1,
+    "stemmed":"諸 天 王 諸 須 倫 王 諸 大 鬼 將 軍  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848c15_13",
+    "original":"皆共敬護承事之。",
+    "folio":1,
+    "stemmed":"皆 共 敬 護 承 事 之  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848c16_13",
+    "original":"學是呪者自致作佛爾時已下五紙丹藏皆無。",
+    "folio":1,
+    "stemmed":"學 是 呪 者 自 致 作 佛 爾 時 已 下 五 紙 丹 藏 皆 無  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848c19_8",
+    "original":"闍梨　摩訶闍梨　闍羅尼　優佉目佉　沙波提　摩訶沙波提受持是句呪諷讀誦。",
+    "folio":1,
+    "stemmed":"闍 梨  摩 訶 闍 梨  闍 羅 尼  優 佉 目 佉  沙 波 提  摩 訶 沙 波 提 受 持 是 句 呪 諷 讀 誦  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848c19_15",
+    "original":"識七世生宿命。",
+    "folio":1,
+    "stemmed":"識 七 世 生 宿 命  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848c19_19",
+    "original":"受持者。",
+    "folio":1,
+    "stemmed":"受 持 者  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848c20_14",
+    "original":"一切浮陀鬼神若人非人不得嬈近。",
+    "folio":1,
+    "stemmed":"一 切 浮 陀 鬼 神 若 人 非 人 不 得 嬈 近  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848c21_2",
+    "original":"毒蛇不敢螫。",
+    "folio":1,
+    "stemmed":"毒 蛇 不 敢 螫  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848c21_8",
+    "original":"毒藥自然除。",
+    "folio":1,
+    "stemmed":"毒 藥 自 然 除  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848c21_14",
+    "original":"刀亦不能傷。",
+    "folio":1,
+    "stemmed":"刀 亦 不 能 傷  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848c21_20",
+    "original":"王亦不敢害。",
+    "folio":1,
+    "stemmed":"王 亦 不 敢 害  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848c22_5",
+    "original":"梵亦不嗔之。",
+    "folio":1,
+    "stemmed":"梵 亦 不 嗔 之  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848c22_12",
+    "original":"七十億佛所說。",
+    "folio":1,
+    "stemmed":"七 十 億 佛 所 說  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848c23_2",
+    "original":"犯是呪者當犯重罪。",
+    "folio":1,
+    "stemmed":"犯 是 呪 者 當 犯 重 罪  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848c23_13",
+    "original":"復有菩薩彌勒等八十人。",
+    "folio":1,
+    "stemmed":"復 有 菩 薩 彌 勒 等 八 十 人  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848c24_3",
+    "original":"我亦當說是持句呪。",
+    "folio":1,
+    "stemmed":"我 亦 當 說 是 持 句 呪  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848c27_8",
+    "original":"阿知和知　吒佉吒羅　羅理彌　驢留彌　善梨　提梨受是持句呪諷誦讀。",
+    "folio":1,
+    "stemmed":"阿 知 和 知  吒 佉 吒 羅  羅 理 彌  驢 留 彌  善 梨  提 梨 受 是 持 句 呪 諷 誦 讀  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848c27_15",
+    "original":"識十四世宿命。",
+    "folio":1,
+    "stemmed":"識 十 四 世 宿 命  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848c28_8",
+    "original":"是持句呪八十四億佛所說。",
+    "folio":1,
+    "stemmed":"是 持 句 呪 八 十 四 億 佛 所 說  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0848c28_16",
+    "original":"犯是呪當獲重罪。",
+    "folio":1,
+    "stemmed":"犯 是 呪 當 獲 重 罪  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849a02_8",
+    "original":"阿知和知　那知鳩那　知提梨　沙羅波提阿那波提　波那提　迦和尼　摩訶迦和尼受是持句呪諷誦讀。",
+    "folio":1,
+    "stemmed":"阿 知 和 知  那 知 鳩 那  知 提 梨  沙 羅 波 提 阿 那 波 提  波 那 提  迦 和 尼  摩 訶 迦 和 尼 受 是 持 句 呪 諷 誦 讀  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849a02_15",
+    "original":"識無數世宿命。",
+    "folio":1,
+    "stemmed":"識 無 數 世 宿 命  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849a02_19",
+    "original":"受持者。",
+    "folio":1,
+    "stemmed":"受 持 者  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849a03_14",
+    "original":"一切浮陀鬼神若人非人不敢嬈近。",
+    "folio":1,
+    "stemmed":"一 切 浮 陀 鬼 神 若 人 非 人 不 敢 嬈 近  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849a04_2",
+    "original":"毒蛇不敢螫。",
+    "folio":1,
+    "stemmed":"毒 蛇 不 敢 螫  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849a04_8",
+    "original":"毒藥自然除。",
+    "folio":1,
+    "stemmed":"毒 藥 自 然 除  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849a04_14",
+    "original":"刀亦不能傷。",
+    "folio":1,
+    "stemmed":"刀 亦 不 能 傷  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849a04_20",
+    "original":"王亦不敢害。",
+    "folio":1,
+    "stemmed":"王 亦 不 敢 害  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849a05_5",
+    "original":"梵亦不瞋之。",
+    "folio":1,
+    "stemmed":"梵 亦 不 瞋 之  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849a05_16",
+    "original":"是持句呪無數億佛所說。",
+    "folio":1,
+    "stemmed":"是 持 句 呪 無 數 億 佛 所 說  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849a06_6",
+    "original":"犯是呪者當獲重罪。",
+    "folio":1,
+    "stemmed":"犯 是 呪 者 當 獲 重 罪  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849a07_4",
+    "original":"是持句呪。",
+    "folio":1,
+    "stemmed":"是 持 句 呪  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849a07_13",
+    "original":"呪於枯樹令生華葉。",
+    "folio":1,
+    "stemmed":"呪 於 枯 樹 令 生 華 葉  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849a08_3",
+    "original":"百病消除自然安隱。",
+    "folio":1,
+    "stemmed":"百 病 消 除 自 然 安 隱  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849a08_8",
+    "original":"辟除凶害。",
+    "folio":1,
+    "stemmed":"辟 除 凶 害  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849a09_1",
+    "original":"南無佛令我所呪皆得從願。",
+    "folio":1,
+    "stemmed":"南 無 佛 令 我 所 呪 皆 得 從 願  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849a09_8",
+    "original":"佛說陀隣尼鉢。",
+    "folio":1,
+    "stemmed":"佛 說 陀 隣 尼 鉢  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849a10_3",
+    "original":"聞如是。",
+    "folio":1,
+    "stemmed":"聞 如 是  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849a10_18",
+    "original":"一時佛在舍衛祇桓給飯孤獨精舍。",
+    "folio":1,
+    "stemmed":"一 時 佛 在 舍 衛 祇 桓 給 飯 孤 獨 精 舍  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849a13_5",
+    "original":"闍離　摩訶闍離　闍蘭尼　惰綺目低　三波提　摩訶三波提受持諷誦讀。",
+    "folio":1,
+    "stemmed":"闍 離  摩 訶 闍 離  闍 蘭 尼  惰 綺 目 低  三 波 提  摩 訶 三 波 提 受 持 諷 誦 讀  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849a13_12",
+    "original":"識七世生宿命。",
+    "folio":1,
+    "stemmed":"識 七 世 生 宿 命  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849a13_18",
+    "original":"是陀隣尼鉢。",
+    "folio":1,
+    "stemmed":"是 陀 隣 尼 鉢  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849a14_6",
+    "original":"七十七億佛所說。",
+    "folio":1,
+    "stemmed":"七 十 七 億 佛 所 說  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849a17_5",
+    "original":"頞䩚　拔䩚　𢴧吒吱　扠離勒吱　羅嵐彌　樓嵐彌　醯離　彌離鞮離是陀隣尼鉢。",
+    "folio":1,
+    "stemmed":"頞 䩚  拔 䩚  𢴧 吒 吱  扠 離 勒 吱  羅 嵐 彌  樓 嵐 彌  醯 離  彌 離 鞮 離 是 陀 隣 尼 鉢  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849a17_11",
+    "original":"奉持諷誦讀。",
+    "folio":1,
+    "stemmed":"奉 持 諷 誦 讀  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849a18_1",
+    "original":"識十四世先死宿命。",
+    "folio":1,
+    "stemmed":"識 十 四 世 先 死 宿 命  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849a18_7",
+    "original":"是陀隣尼鉢。",
+    "folio":1,
+    "stemmed":"是 陀 隣 尼 鉢  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849a18_16",
+    "original":"八萬四千億佛所說。",
+    "folio":1,
+    "stemmed":"八萬四千 億 佛 所 說  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849a22_6",
+    "original":"頞鞮　拔鞮涅䩚　鳩涅鞮　鐵離　莎羅波提　安那波提　那那波提　迦偷呢　摩訶迦偷呢受是陀隣尼鉢。",
+    "folio":1,
+    "stemmed":"頞 鞮  拔 鞮 涅 䩚  鳩 涅 鞮  鐵 離  莎 羅 波 提  安 那 波 提  那 那 波 提  迦 偷 呢  摩 訶 迦 偷 呢 受 是 陀 隣 尼 鉢  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849a22_11",
+    "original":"持諷誦讀。",
+    "folio":1,
+    "stemmed":"持 諷 誦 讀  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849a23_1",
+    "original":"識無央數世生宿命。",
+    "folio":1,
+    "stemmed":"識 無 央 數 世 生 宿 命  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849a23_10",
+    "original":"不可稱計億佛所說。",
+    "folio":1,
+    "stemmed":"不可稱計 億 佛 所 說  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849a26_8",
+    "original":"闍離　摩訶闍離　闍利泥　阿踦摩踦　婆婆帝　摩訶娑婆帝　娑慢帝　摩訶娑慢帝能自憶念七世生事。",
+    "folio":1,
+    "stemmed":"闍 離  摩 訶 闍 離  闍 利 泥  阿 踦 摩 踦  婆 婆 帝  摩 訶 娑 婆 帝  娑 慢 帝  摩 訶 娑 慢 帝 能 自 憶 念 七 世 生 事  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849a26_14",
+    "original":"此陀羅尼句。",
+    "folio":1,
+    "stemmed":"此 陀 羅 尼 句  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849a27_4",
+    "original":"七十七億諸佛所說。",
+    "folio":1,
+    "stemmed":"七 十 七 億 諸佛所說  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849b02_9",
+    "original":"阿智　婆智　那智　究那智　阿㝹婆帝婆帝婆帝　迦賜　摩訶迦賜　赴陀摩訶赴陀　赴赴陀　赴奢婆帝能自憶念十二世生事。",
+    "folio":1,
+    "stemmed":"阿 智  婆 智  那 智  究 那 智  阿 㝹 婆 帝 婆 帝 婆 帝  迦 賜  摩 訶 迦 賜  赴 陀 摩 訶 赴 陀  赴 赴 陀  赴 奢 婆 帝 能 自 憶 念 十 二 世 生 事  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849b02_12",
+    "original":"阿難。",
+    "folio":1,
+    "stemmed":"阿 難  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849b03_5",
+    "original":"此呪是八十二億諸佛所說。",
+    "folio":1,
+    "stemmed":"此 呪 是 八 十 二 億 諸佛所說  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849b07_8",
+    "original":"阿踦　摩踦　那踦　那祈尼　那伽娑離　娑羅尼離　闍醯離闍醯羅婆帝禪帝離禪帝羅婆帝能自憶念十三世事。",
+    "folio":1,
+    "stemmed":"阿 踦  摩 踦  那 踦  那 祈 尼  那 伽 娑 離  娑 羅 尼 離  闍 醯 離 闍 醯 羅 婆 帝 禪 帝 離 禪 帝 羅 婆 帝 能 自 憶 念 十 三 世 事  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849b07_11",
+    "original":"阿難。",
+    "folio":1,
+    "stemmed":"阿 難  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849b07_17",
+    "original":"此陀羅尼句。",
+    "folio":1,
+    "stemmed":"此 陀 羅 尼 句  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849b08_6",
+    "original":"九十九億諸佛所說。",
+    "folio":1,
+    "stemmed":"九 十 九 億 諸佛所說  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849b11_8",
+    "original":"阿智　那智　仇那智　踔踦　踔茶踦　樓樓彌　醯離　毘離　疋離能自憶念十四世事。",
+    "folio":1,
+    "stemmed":"阿 智  那 智  仇 那 智  踔 踦  踔 茶 踦  樓 樓 彌  醯 離  毘 離  疋 離 能 自 憶 念 十 四 世 事  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849b11_11",
+    "original":"阿難。",
+    "folio":1,
+    "stemmed":"阿 難  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849b12_4",
+    "original":"此呪是九十九億諸佛所說。",
+    "folio":1,
+    "stemmed":"此 呪 是 九 十 九 億 諸佛所說  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849b12_11",
+    "original":"是陀羅尼句者。",
+    "folio":1,
+    "stemmed":"是 陀 羅 尼 句 者  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849b13_1",
+    "original":"我等常當守護是人。",
+    "folio":1,
+    "stemmed":"我 等 常 當 守 護 是 人  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849b13_10",
+    "original":"爾時世尊便說偈言。",
+    "folio":1,
+    "stemmed":"爾 時 世 尊 便 說 偈 言  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849b14_0",
+    "original":"是陀羅尼經　　諸佛先已說",
+    "folio":1,
+    "stemmed":"是 陀 羅 尼 經   諸 佛 先 已 說 "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849b15_0",
+    "original":"我今亦演暢　　饒益眾生故",
+    "folio":1,
+    "stemmed":"我 今 亦 演 暢   饒 益 眾 生 故 "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849b16_0",
+    "original":"若人聞此呪　　廣生信樂心",
+    "folio":1,
+    "stemmed":"若 人 聞 此 呪   廣 生 信 樂 心 "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849b17_0",
+    "original":"能憶念前世　　至于十四生",
+    "folio":1,
+    "stemmed":"能 憶 念 前 世   至 于 十 四 生 "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849b18_0",
+    "original":"人有信樂心　　聞持如此呪",
+    "folio":1,
+    "stemmed":"人 有 信 樂 心   聞 持 如 此 呪 "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849b19_0",
+    "original":"其所住來處　　不遭諸厄難",
+    "folio":1,
+    "stemmed":"其 所 住 來 處   不 遭 諸 厄 難 "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849b20_0",
+    "original":"無有人非人　　鳩槃富單那",
+    "folio":1,
+    "stemmed":"無 有 人 非 人   鳩 槃 富 單 那 "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849b21_0",
+    "original":"能為作惱患　　誦持此呪故",
+    "folio":1,
+    "stemmed":"能 為 作 惱 患   誦 持 此 呪 故 "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849b22_0",
+    "original":"不為刀所傷　　毒亦不能害",
+    "folio":1,
+    "stemmed":"不 為 刀 所 傷   毒 亦 不 能 害 "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849b23_0",
+    "original":"不為他所殺　　誦持此呪故",
+    "folio":1,
+    "stemmed":"不 為 他 所 殺   誦 持 此 呪 故 "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849b24_0",
+    "original":"天魔王波旬　　欲界中特尊",
+    "folio":1,
+    "stemmed":"天 魔王波旬   欲 界 中 特 尊 "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849b25_0",
+    "original":"不能作留難　　誦持此呪故",
+    "folio":1,
+    "stemmed":"不 能 作 留 難   誦 持 此 呪 故 "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849b26_0",
+    "original":"父母及兄弟　　眷屬及親友",
+    "folio":1,
+    "stemmed":"父 母 及 兄 弟   眷 屬 及 親 友 "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849b27_0",
+    "original":"不逢諸衰禍　　誦持此呪故",
+    "folio":1,
+    "stemmed":"不 逢 諸 衰 禍   誦 持 此 呪 故 "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849b28_0",
+    "original":"於百千億劫　　造作不善業",
+    "folio":1,
+    "stemmed":"於 百 千 億 劫   造 作 不 善 業 "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849b29_0",
+    "original":"七日能令淨　　誦持此呪故",
+    "folio":1,
+    "stemmed":"七 日 能 令 淨   誦 持 此 呪 故 "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849c01_0",
+    "original":"菩薩於億劫　　積集諸福德",
+    "folio":1,
+    "stemmed":"菩 薩 於 億 劫   積 集 諸 福 德 "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849c02_0",
+    "original":"七日能令勝　　誦持此呪故",
+    "folio":1,
+    "stemmed":"七 日 能 令 勝   誦 持 此 呪 故 "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849c03_0",
+    "original":"四大天王等　　護世間四方",
+    "folio":1,
+    "stemmed":"四大天王 等   護 世 間 四 方 "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849c04_0",
+    "original":"拘毘羅提頭　　博叉毘樓茶",
+    "folio":1,
+    "stemmed":"拘 毘 羅 提 頭   博 叉 毘 樓 茶 "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849c05_0",
+    "original":"大臣諸眷屬　　歡喜而稱讚",
+    "folio":1,
+    "stemmed":"大 臣 諸 眷 屬   歡 喜 而 稱 讚 "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849c06_0",
+    "original":"恭敬常守護　　誦持此呪故",
+    "folio":1,
+    "stemmed":"恭 敬 常 守 護   誦 持 此 呪 故 "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849c07_0",
+    "original":"安隱囑累滿具足王如來　　紺琉璃具足王如",
+    "folio":1,
+    "stemmed":"安 隱 囑 累 滿 具 足 王 如 來   紺 琉 璃 具 足 王 如 "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849c12_0",
+    "original":"疾得無上道　　億劫阿僧祇",
+    "folio":1,
+    "stemmed":"疾 得 無 上 道   億 劫 阿 僧 祇 "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849c13_0",
+    "original":"行惡悉消除　　速得明解教",
+    "folio":1,
+    "stemmed":"行 惡 悉 消 除   速 得 明 解 教 "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849c14_0",
+    "original":"飛行到諸剎　　疾得泥洹道",
+    "folio":1,
+    "stemmed":"飛 行 到 諸 剎   疾 得 泥 洹 道 "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849c22_8",
+    "original":"南無佛陀　南無達　摩南無僧伽　南無摩呵梨師　毘闍羅闍　譪屈陀　建陀　娑滿馱跋闍　邏翅陀建崛茶誓茶　遮利遮利摩訶遮利哹摩利哹摩勒翅　悉耽鞞闍鞞　阿闍鞞匊究匊匊翅　薩婆陀羅尼翅　阿扇提　摩俱梨摩詣　呼彌呼彌呼摩呼摩娑禍呵過去無量諸佛所說。",
+    "folio":1,
+    "stemmed":"南 無 佛 陀  南 無 達  摩 南 無 僧 伽  南 無 摩 呵 梨 師  毘 闍 羅 闍  譪 屈 陀  建 陀  娑 滿 馱 跋 闍  邏 翅 陀 建 崛 茶 誓 茶  遮 利 遮 利 摩 訶 遮 利 哹 摩 利 哹 摩 勒 翅  悉 耽 鞞 闍 鞞  阿 闍 鞞 匊 究 匊 匊 翅  薩 婆 陀 羅 尼 翅  阿 扇 提  摩 俱 梨 摩 詣  呼 彌 呼 彌 呼 摩 呼 摩 娑 禍 呵 過 去 無 量 諸佛所說  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849c23_3",
+    "original":"未來彌勒賢劫菩薩亦當宣說。",
+    "folio":1,
+    "stemmed":"未 來 彌 勒 賢 劫 菩 薩 亦 當 宣 說  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849c23_10",
+    "original":"善治四大增損。",
+    "folio":1,
+    "stemmed":"善 治 四大增損  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849c23_19",
+    "original":"亦治心內四百四病。",
+    "folio":1,
+    "stemmed":"亦 治 心 內 四 百 四 病  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849c24_10",
+    "original":"亦治業障犯戒諸惡永盡。",
+    "folio":1,
+    "stemmed":"亦 治 業 障 犯 戒 諸 惡 永 盡  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849c25_2",
+    "original":"尊勝菩薩陀羅尼經一卷。",
+    "folio":1,
+    "stemmed":"尊 勝 菩 薩 陀 羅 尼 經 一 卷  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849c27_4",
+    "original":"尊勝菩薩所問經譯師傳開元錄云。",
+    "folio":1,
+    "stemmed":"尊 勝 菩 薩 所 問 經 譯 師 傳 開 元 錄 云  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849c27_9",
+    "original":"高齊之代。",
+    "folio":1,
+    "stemmed":"高 齊 之 代  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849c27_16",
+    "original":"有居士萬天懿。",
+    "folio":1,
+    "stemmed":"有 居 士 萬 天 懿  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849c28_5",
+    "original":"本姓拓音托跋氏。",
+    "folio":1,
+    "stemmed":"本 姓 拓 音 托 跋 氏  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849c28_12",
+    "original":"北岱雲中人也。",
+    "folio":1,
+    "stemmed":"北 岱 雲 中 人 也  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849c28_17",
+    "original":"魏分十姓。",
+    "folio":1,
+    "stemmed":"魏 分 十 姓  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849c29_8",
+    "original":"因為萬音木俟音其氏。",
+    "folio":1,
+    "stemmed":"因 為 萬 音 木 俟 音 其 氏  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0849c29_13",
+    "original":"世居洛陽。",
+    "folio":1,
+    "stemmed":"世 居 洛 陽  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0850a01_7",
+    "original":"故復為河南人題云天竺者非。",
+    "folio":1,
+    "stemmed":"故 復 為 河 南 人 題 云 天 竺 者 非  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0850a01_14",
+    "original":"後單稱萬氏焉。",
+    "folio":1,
+    "stemmed":"後 單 稱 萬 氏 焉  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0850a01_20",
+    "original":"懿少曾出家。",
+    "folio":1,
+    "stemmed":"懿 少 曾 出 家  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0850a02_2",
+    "original":"師婆羅門。",
+    "folio":1,
+    "stemmed":"師 婆 羅 門  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0850a02_9",
+    "original":"而聰慧有志力。",
+    "folio":1,
+    "stemmed":"而 聰 慧 有 志 力  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0850a02_15",
+    "original":"善梵書梵語。",
+    "folio":1,
+    "stemmed":"善 梵 書 梵 語  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0850a02_20",
+    "original":"兼工呪術。",
+    "folio":1,
+    "stemmed":"兼 工 呪 術  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0850a03_10",
+    "original":"由是應召得預翻傳之數。",
+    "folio":1,
+    "stemmed":"由 是 應 召 得 預 翻 傳 之 數  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0850a04_2",
+    "original":"以武成帝湛河清年中。",
+    "folio":1,
+    "stemmed":"以 武 成 帝 湛 河 清 年 中  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0850a04_17",
+    "original":"於鄴都自譯尊勝菩薩所問經一部。",
+    "folio":1,
+    "stemmed":"於 鄴 都 自 譯 尊 勝 菩 薩 所 問 經 一 部  "
+  },
+  {
+    "segmentnr":"ZH_T21_1343_001:0850a05_12",
+    "original":"廣行於世矣與無崖際持經同本。",
+    "folio":1,
+    "stemmed":"廣 行 於 世 矣 與 無 崖 際 持 經 同 本  "
+  }
+]

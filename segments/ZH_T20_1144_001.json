@@ -1,0 +1,584 @@
+[
+  {
+    "segmentnr":"ZH_T20_1144_001:0600c13_0",
+    "original":"佛說彌勒菩薩發願王偈",
+    "folio":1,
+    "stemmed":"佛 說 彌 勒 菩 薩 發 願 王 偈 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0600c15_0",
+    "original":"內閣掌譯西番蒙古諸文西番學",
+    "folio":1,
+    "stemmed":"內 閣 掌 譯 西 番 蒙 古 諸 文 西 番 學 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0600c16_0",
+    "original":"總管儀賓工布查布譯",
+    "folio":1,
+    "stemmed":"總 管 儀 賓 工 布 查 布 譯 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0600c18_2",
+    "original":"梵語阿喇鴉黑厄答喇巴呢達哈阿納喇阿雜阿。",
+    "folio":1,
+    "stemmed":"梵 語 阿 喇 鴉 黑 厄 答 喇 巴 呢 達 哈 阿 納 喇 阿 雜 阿  "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0600c19_7",
+    "original":"華言聖彌勒願王。",
+    "folio":1,
+    "stemmed":"華 言 聖 彌 勒 願 王  "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0600c20_11",
+    "original":"敬禮一切諸佛菩薩摩訶薩。",
+    "folio":1,
+    "stemmed":"敬 禮 一切諸佛 菩薩摩訶薩  "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0600c21_4",
+    "original":"佛告阿難。",
+    "folio":1,
+    "stemmed":"佛 告 阿 難  "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0600c21_13",
+    "original":"夫彌勒菩薩摩訶薩。",
+    "folio":1,
+    "stemmed":"夫 彌 勒 菩薩摩訶薩  "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0600c22_3",
+    "original":"往昔誓行菩提行時。",
+    "folio":1,
+    "stemmed":"往 昔 誓 行 菩 提 行 時  "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0600c22_8",
+    "original":"晝夜六時。",
+    "folio":1,
+    "stemmed":"晝 夜 六 時  "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0600c22_13",
+    "original":"偏袒右肩。",
+    "folio":1,
+    "stemmed":"偏袒右肩  "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0600c22_18",
+    "original":"右膝著地。",
+    "folio":1,
+    "stemmed":"右膝著地  "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0600c23_2",
+    "original":"合掌恭敬。",
+    "folio":1,
+    "stemmed":"合掌恭敬  "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0600c23_9",
+    "original":"而發如是願文。",
+    "folio":1,
+    "stemmed":"而 發 如 是 願 文  "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0600c24_0",
+    "original":"敬禮一切佛　　及具天眼仙",
+    "folio":1,
+    "stemmed":"敬 禮 一 切 佛   及 具 天 眼 仙 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0600c25_0",
+    "original":"菩薩摩訶薩　　并諸聲聞眾",
+    "folio":1,
+    "stemmed":"菩薩摩訶薩   并 諸 聲 聞 眾 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0600c26_0",
+    "original":"令避惡趣𡑞　　而示涅槃路",
+    "folio":1,
+    "stemmed":"令 避 惡 趣 𡑞   而 示 涅 槃 路 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0600c27_0",
+    "original":"引入無老死　　敬禮菩提心",
+    "folio":1,
+    "stemmed":"引 入 無 老 死   敬 禮 菩 提 心 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0600c28_0",
+    "original":"我由無明心　　所作一切罪",
+    "folio":1,
+    "stemmed":"我 由 無 明 心   所 作 一 切 罪 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0600c29_0",
+    "original":"今於佛面前　　懺悔盡無餘",
+    "folio":1,
+    "stemmed":"今 於 佛 面 前   懺 悔 盡 無 餘 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601a01_0",
+    "original":"自我三業門　　所積資糧福",
+    "folio":1,
+    "stemmed":"自 我 三 業 門   所 積 資 糧 福 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601a02_0",
+    "original":"是我普慧種　　願我道無盡",
+    "folio":1,
+    "stemmed":"是 我 普 慧 種   願 我 道 無 盡 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601a03_0",
+    "original":"十方諸國中　　所有供養佛",
+    "folio":1,
+    "stemmed":"十 方 諸 國 中   所 有 供 養 佛 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601a04_0",
+    "original":"佛昔隨喜者　　我今皆隨喜",
+    "folio":1,
+    "stemmed":"佛 昔 隨 喜 者   我 今 皆 隨 喜 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601a05_0",
+    "original":"懺悔一切罪　　隨喜諸善根",
+    "folio":1,
+    "stemmed":"懺 悔 一 切 罪   隨 喜 諸 善 根 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601a06_0",
+    "original":"敬禮一切佛　　願得大智慧",
+    "folio":1,
+    "stemmed":"敬 禮 一 切 佛   願 得 大 智 慧 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601a07_0",
+    "original":"十方一切處　　所有大菩薩",
+    "folio":1,
+    "stemmed":"十 方 一 切 處   所 有 大 菩 薩 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601a08_0",
+    "original":"止於十地者　　請速等正覺",
+    "folio":1,
+    "stemmed":"止 於 十 地 者   請 速 等 正 覺 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601a09_0",
+    "original":"既證圓覺心　　降伏諸魔軍",
+    "folio":1,
+    "stemmed":"既 證 圓 覺 心   降 伏 諸 魔 軍 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601a10_0",
+    "original":"為利諸有情　　願請轉法輪",
+    "folio":1,
+    "stemmed":"為 利 諸 有 情   願 請 轉 法 輪 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601a11_0",
+    "original":"以大法鼓音　　度眾生苦際",
+    "folio":1,
+    "stemmed":"以 大 法 鼓 音   度 眾 生 苦 際 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601a12_0",
+    "original":"願經無量劫　　常住世說法",
+    "folio":1,
+    "stemmed":"願 經 無 量 劫   常 住 世 說 法 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601a13_0",
+    "original":"祈運大悲智　　慈濟諸有情",
+    "folio":1,
+    "stemmed":"祈 運 大 悲 智   慈 濟 諸 有 情 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601a14_0",
+    "original":"陷溺貪欲澤　　恩愛所纏縛",
+    "folio":1,
+    "stemmed":"陷 溺 貪 欲 澤   恩 愛 所 纏 縛 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601a15_0",
+    "original":"眾生被障礙　　諸佛不憎捐",
+    "folio":1,
+    "stemmed":"眾 生 被 障 礙   諸 佛 不 憎 捐 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601a16_0",
+    "original":"慈悲諸含識　　拔出三有海",
+    "folio":1,
+    "stemmed":"慈 悲 諸 含 識   拔 出 三 有 海 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601a17_0",
+    "original":"一切三世佛　　所行諸道法",
+    "folio":1,
+    "stemmed":"一 切 三 世 佛   所 行 諸 道 法 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601a18_0",
+    "original":"我今皆隨學　　願證菩提道",
+    "folio":1,
+    "stemmed":"我 今 皆 隨 學   願 證 菩 提 道 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601a19_0",
+    "original":"同登六彼岸　　度六道眾生",
+    "folio":1,
+    "stemmed":"同 登 六 彼 岸   度 六 道 眾 生 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601a20_0",
+    "original":"證得六神通　　願成無上道",
+    "folio":1,
+    "stemmed":"證 得 六 神 通   願 成 無 上 道 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601a21_0",
+    "original":"無生及本源　　無處無自性",
+    "folio":1,
+    "stemmed":"無 生 及 本 源   無 處 無 自 性 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601a22_0",
+    "original":"悟此真空理　　無智亦無得",
+    "folio":1,
+    "stemmed":"悟 此 真 空 理   無 智 亦 無 得 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601a23_0",
+    "original":"無命無眾生　　無背無取向",
+    "folio":1,
+    "stemmed":"無 命 無 眾 生   無 背 無 取 向 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601a24_0",
+    "original":"願達無我法　　即等大仙佛",
+    "folio":1,
+    "stemmed":"願 達 無 我 法   即 等 大 仙 佛 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601a25_0",
+    "original":"願不住二執　　所攝一切物",
+    "folio":1,
+    "stemmed":"願 不 住 二 執   所 攝 一 切 物 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601a26_0",
+    "original":"為利益眾生　　不悋行布施",
+    "folio":1,
+    "stemmed":"為 利 益 眾 生   不 悋 行 布 施 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601a27_0",
+    "original":"物種侈靡盛　　我應用豐足",
+    "folio":1,
+    "stemmed":"物 種 侈 靡 盛   我 應 用 豐 足 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601a28_0",
+    "original":"物性等空寂　　圓滿布施度",
+    "folio":1,
+    "stemmed":"物 性 等 空 寂   圓 滿 布 施 度 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601a29_0",
+    "original":"所受止作品　　無瑕最清淨",
+    "folio":1,
+    "stemmed":"所 受 止 作 品   無 瑕 最 清 淨 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601b01_0",
+    "original":"及無癡矜慢　　圓滿戒律度",
+    "folio":1,
+    "stemmed":"及 無 癡 矜 慢   圓 滿 戒 律 度 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601b02_0",
+    "original":"如地水火風　　四大無觸背",
+    "folio":1,
+    "stemmed":"如 地水火風   四 大 無 觸 背 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601b03_0",
+    "original":"侵犯靡瞋恨　　圓滿忍辱度",
+    "folio":1,
+    "stemmed":"侵 犯 靡 瞋 恨   圓 滿 忍 辱 度 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601b04_0",
+    "original":"發心始終勤　　恒喜不懈弛",
+    "folio":1,
+    "stemmed":"發 心 始 終 勤   恒 喜 不 懈 弛 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601b05_0",
+    "original":"身心勇猛力　　圓滿精進度",
+    "folio":1,
+    "stemmed":"身 心 勇 猛 力   圓 滿 精 進 度 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601b06_0",
+    "original":"調伏正定聚　　如幻三摩地",
+    "folio":1,
+    "stemmed":"調 伏 正 定 聚   如 幻 三 摩 地 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601b07_0",
+    "original":"金剛禪那等　　圓滿靜慮度",
+    "folio":1,
+    "stemmed":"金 剛 禪 那 等   圓 滿 靜 慮 度 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601b08_0",
+    "original":"三種解脫門　　三時平等法",
+    "folio":1,
+    "stemmed":"三 種 解 脫 門   三 時 平 等 法 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601b09_0",
+    "original":"聞思修明了　　圓滿智慧度",
+    "folio":1,
+    "stemmed":"聞 思 修 明 了   圓 滿 智 慧 度 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601b10_0",
+    "original":"諸佛所稱讚　　熾盛光赫奕",
+    "folio":1,
+    "stemmed":"諸 佛 所 稱 讚   熾 盛 光 赫 奕 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601b11_0",
+    "original":"勤修菩薩行　　圓滿自他志",
+    "folio":1,
+    "stemmed":"勤 修菩薩行   圓 滿 自 他 志 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601b12_0",
+    "original":"行此菩提道　　名稱慈氏子",
+    "folio":1,
+    "stemmed":"行 此 菩 提 道   名 稱 慈 氏 子 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601b13_0",
+    "original":"圓滿六度行　　超於十地位",
+    "folio":1,
+    "stemmed":"圓 滿 六 度 行   超 於 十 地 位 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601b14_0",
+    "original":"我以此善願眾生　　命終速往兜率宮",
+    "folio":1,
+    "stemmed":"我 以 此 善 願 眾 生   命 終 速 往 兜 率 宮 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601b15_0",
+    "original":"受生皆於見法閣　　即為慈氏之長子",
+    "folio":1,
+    "stemmed":"受 生 皆 於 見 法 閣   即 為 慈 氏 之 長 子 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601b16_0",
+    "original":"十地自在降閻浮　　證得十力大位時",
+    "folio":1,
+    "stemmed":"十 地 自 在 降 閻 浮   證 得 十 力 大 位 時 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601b17_0",
+    "original":"願受妙法甘露味　　圓滿佛行盡無餘",
+    "folio":1,
+    "stemmed":"願 受 妙 法 甘 露 味   圓 滿 佛 行 盡 無 餘 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601b18_0",
+    "original":"從此命終承願力　　即得上生兜率天",
+    "folio":1,
+    "stemmed":"從 此 命 終 承 願 力   即 得 上 生 兜 率 天 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601b19_0",
+    "original":"忻慶奉事慈氏尊　　速得承授菩提記",
+    "folio":1,
+    "stemmed":"忻 慶 奉 事 慈 氏 尊   速 得 承 授 菩 提 記 "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601b20_2",
+    "original":"阿難。",
+    "folio":1,
+    "stemmed":"阿 難  "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601b20_12",
+    "original":"當知慈氏菩薩摩訶薩。",
+    "folio":1,
+    "stemmed":"當 知 慈 氏 菩薩摩訶薩  "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601b21_4",
+    "original":"如此以實善巧修淨行業。",
+    "folio":1,
+    "stemmed":"如 此 以 實 善 巧 修 淨 行 業  "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601b21_9",
+    "original":"道路平順。",
+    "folio":1,
+    "stemmed":"道 路 平 順  "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601b21_16",
+    "original":"而獲無上菩提。",
+    "folio":1,
+    "stemmed":"而 獲 無上菩提  "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601b22_1",
+    "original":"成等正覺。",
+    "folio":1,
+    "stemmed":"成等正覺  "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601b22_10",
+    "original":"成就真實大方便門。",
+    "folio":1,
+    "stemmed":"成 就 真 實 大 方 便 門  "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601b23_8",
+    "original":"按此經於漢藏未見。",
+    "folio":1,
+    "stemmed":"按 此 經 於 漢 藏 未 見  "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601b23_15",
+    "original":"而番本亦無出。",
+    "folio":1,
+    "stemmed":"而 番 本 亦 無 出  "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601b24_3",
+    "original":"然西國諸賢。",
+    "folio":1,
+    "stemmed":"然 西 國 諸 賢  "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601b24_8",
+    "original":"頗有註解。",
+    "folio":1,
+    "stemmed":"頗 有 註 解  "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601b24_18",
+    "original":"且普同作為恒常功課。",
+    "folio":1,
+    "stemmed":"且 普 同 作 為 恒 常 功 課  "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601b25_6",
+    "original":"與華嚴行願品。",
+    "folio":1,
+    "stemmed":"與 華 嚴 行 願 品  "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601b25_14",
+    "original":"三十五佛行願品。",
+    "folio":1,
+    "stemmed":"三 十 五 佛 行 願 品  "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601b26_4",
+    "original":"稱為三種大懺願。",
+    "folio":1,
+    "stemmed":"稱 為 三 種 大 懺 願  "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601b26_9",
+    "original":"愚略擬之。",
+    "folio":1,
+    "stemmed":"愚 略 擬 之  "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601b26_17",
+    "original":"蓋初自梵文譯時。",
+    "folio":1,
+    "stemmed":"蓋 初 自 梵 文 譯 時  "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601b27_9",
+    "original":"或于彌勒上生下生等經。",
+    "folio":1,
+    "stemmed":"或 于 彌 勒 上 生 下 生 等 經  "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601b28_4",
+    "original":"節取切要者也多分唐竺法護所譯。",
+    "folio":1,
+    "stemmed":"節 取 切 要 者 也 多 分 唐 竺 法 護 所 譯  "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601b28_20",
+    "original":"彌勒菩薩下生經相近今時海內清寧。",
+    "folio":1,
+    "stemmed":"彌 勒 菩 薩 下 生 經 相 近 今 時 海 內 清 寧  "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601b28_25",
+    "original":"三教並盛。",
+    "folio":1,
+    "stemmed":"三 教 並 盛  "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601b29_4",
+    "original":"資用不乏。",
+    "folio":1,
+    "stemmed":"資 用 不 乏  "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601b29_11",
+    "original":"人民向善者多。",
+    "folio":1,
+    "stemmed":"人 民 向 善 者 多  "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601c01_4",
+    "original":"近來常聞修建龍華會者。",
+    "folio":1,
+    "stemmed":"近 來 常 聞 修 建 龍 華 會 者  "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601c01_13",
+    "original":"憶為或有欲持誦者。",
+    "folio":1,
+    "stemmed":"憶 為 或 有 欲 持 誦 者  "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601c02_2",
+    "original":"因特譯出漢文。",
+    "folio":1,
+    "stemmed":"因 特 譯 出 漢 文  "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601c02_11",
+    "original":"便於信氏誦讀仰祈。",
+    "folio":1,
+    "stemmed":"便 於 信 氏 誦 讀 仰 祈  "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601c03_11",
+    "original":"聖慈加護廣布流通為願焉。",
+    "folio":1,
+    "stemmed":"聖 慈 加 護 廣 布 流 通 為 願 焉  "
+  },
+  {
+    "segmentnr":"ZH_T20_1144_001:0601c04_100",
+    "original":"　乾隆八年正月吉日翻竟於廣仁彌勒院",
+    "folio":1,
+    "stemmed":" 乾 隆 八 年 正 月 吉 日 翻 竟 於 廣 仁 彌 勒 院 "
+  }
+]

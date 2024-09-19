@@ -1,0 +1,2570 @@
+[
+  {
+    "segmentnr":"ZH_T32_1662_002:0547b19_0",
+    "original":"菩提行經卷第二",
+    "folio":2,
+    "stemmed":"菩 提 行 經 卷 第 二 "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0547b21_0",
+    "original":"聖龍樹菩薩集頌",
+    "folio":2,
+    "stemmed":"聖 龍 樹 菩 薩 集 頌 "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0547b22_0",
+    "original":"西天中印度惹爛駄囉國密林",
+    "folio":2,
+    "stemmed":"西 天 中 印 度 惹 爛 駄 囉 國 密 林 "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0547b26_0",
+    "original":"奉行諸善業，　　施戒而先導，",
+    "folio":2,
+    "stemmed":"奉 行 諸 善 業    施 戒 而 先 導  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0547b27_13",
+    "original":"供養於如來，　　百千劫無盡。",
+    "folio":2,
+    "stemmed":"供 養 於 如 來    百 千 劫 無 盡  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0547b28_0",
+    "original":"修行於羼提，　　嗔罪而不立，",
+    "folio":2,
+    "stemmed":"修 行 於 羼 提    嗔 罪 而 不 立  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0547b29_13",
+    "original":"觀種種體空，　　是故一心忍。",
+    "folio":2,
+    "stemmed":"觀 種 種 體 空    是 故 一 心 忍  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0547c01_0",
+    "original":"不得貪快樂，　　守意令平等，",
+    "folio":2,
+    "stemmed":"不 得 貪 快 樂    守 意 令 平 等  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0547c02_13",
+    "original":"心有嗔惱病，　　無睡恒不足。",
+    "folio":2,
+    "stemmed":"心 有 嗔 惱 病    無 睡 恒 不 足  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0547c03_0",
+    "original":"彼此有施主，　　供給於利養，",
+    "folio":2,
+    "stemmed":"彼 此 有 施 主    供 給 於 利 養  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0547c04_13",
+    "original":"隨彼愛重心，　　無得生瞋惱。",
+    "folio":2,
+    "stemmed":"隨 彼 愛 重 心    無 得 生 瞋 惱  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0547c05_0",
+    "original":"凡諸親近事，　　不起於憎嫌，",
+    "folio":2,
+    "stemmed":"凡 諸 親 近 事    不 起 於 憎 嫌  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0547c06_13",
+    "original":"於彼無所瞋，　　乃得其安樂。",
+    "folio":2,
+    "stemmed":"於 彼 無 所 瞋    乃 得 其 安 樂  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0547c07_0",
+    "original":"忍如是等事，　　若對於冤家，",
+    "folio":2,
+    "stemmed":"忍 如 是 等 事    若 對 於 冤 家  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0547c08_13",
+    "original":"於瞋若能除，　　世世獲安樂。",
+    "folio":2,
+    "stemmed":"於 瞋 若 能 除    世 世 獲 安 樂  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0547c09_0",
+    "original":"冤若生於心，　　於愛亦無喜，",
+    "folio":2,
+    "stemmed":"冤 若 生 於 心    於 愛 亦 無 喜  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0547c10_13",
+    "original":"若飱瞋惱食，　　無忍善不壞。",
+    "folio":2,
+    "stemmed":"若 飱 瞋 惱 食    無 忍 善 不 壞  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0547c11_0",
+    "original":"彼食我大冤，　　於我無善利，",
+    "folio":2,
+    "stemmed":"彼 食 我 大 冤    於 我 無 善 利  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0547c12_13",
+    "original":"知彼冤不食，　　是故忍堅牢。",
+    "folio":2,
+    "stemmed":"知 彼 冤 不 食    是 故 忍 堅 牢  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0547c13_0",
+    "original":"凡見冤來去，　　歡喜而不瞋，",
+    "folio":2,
+    "stemmed":"凡 見 冤 來 去    歡 喜 而 不 瞋  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0547c14_13",
+    "original":"於冤若起瞋，　　善利終滅盡。",
+    "folio":2,
+    "stemmed":"於 冤 若 起 瞋    善 利 終 滅 盡  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0547c15_0",
+    "original":"忍心常若此，　　令瞋不得起，",
+    "folio":2,
+    "stemmed":"忍 心 常 若 此    令 瞋 不 得 起  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0547c16_13",
+    "original":"住忍無時節，　　瞋冤自不生。",
+    "folio":2,
+    "stemmed":"住 忍 無 時 節    瞋 冤 自 不 生  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0547c17_0",
+    "original":"若人自保愛，　　不作惡口業，",
+    "folio":2,
+    "stemmed":"若 人 自 保 愛    不 作 惡 口 業  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0547c18_13",
+    "original":"口業若不離，　　後感冤家苦。",
+    "folio":2,
+    "stemmed":"口 業 若 不 離    後 感 冤 家 苦  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0547c19_0",
+    "original":"畏苦不出離，　　不行眾苦因，",
+    "folio":2,
+    "stemmed":"畏 苦 不 出 離    不 行 眾 苦 因  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0547c20_13",
+    "original":"是故堅忍心，　　獲得諸快樂。",
+    "folio":2,
+    "stemmed":"是 故 堅 忍 心    獲 得 諸 快 樂  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0547c21_0",
+    "original":"彼訥陵誐子，　　邪見求解脫，",
+    "folio":2,
+    "stemmed":"彼 訥 陵 誐 子    邪 見 求 解 脫  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0547c22_13",
+    "original":"刀割火燒身，　　無利由能忍。",
+    "folio":2,
+    "stemmed":"刀 割 火 燒 身    無 利 由 能 忍  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0547c23_0",
+    "original":"愚癡無正見，　　虛受大苦惱，",
+    "folio":2,
+    "stemmed":"愚 癡 無 正 見    虛 受 大 苦 惱  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0547c24_13",
+    "original":"我以菩提心，　　云何苦不忍？",
+    "folio":2,
+    "stemmed":"我 以 菩 提 心    云 何 苦 不 忍  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0547c25_0",
+    "original":"蚊蚤壁虱等，　　常飢渴苦惱，",
+    "folio":2,
+    "stemmed":"蚊 蚤 壁 虱 等    常 飢 渴 苦 惱  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0547c26_13",
+    "original":"大痒煩苦人，　　住忍而不見。",
+    "folio":2,
+    "stemmed":"大 痒 煩 苦 人    住 忍 而 不 見  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0547c27_0",
+    "original":"寒熱并雨風，　　病枷鎖捶打，",
+    "folio":2,
+    "stemmed":"寒 熱 并 雨 風    病 枷 鎖 捶 打  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0547c28_13",
+    "original":"被諸苦惱事，　　忍不求快樂。",
+    "folio":2,
+    "stemmed":"被 諸 苦 惱 事    忍 不 求 快 樂  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0547c29_0",
+    "original":"殺他血流迸，　　堅牢心勇猛，",
+    "folio":2,
+    "stemmed":"殺 他 血 流 迸    堅 牢 心 勇 猛  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548a01_13",
+    "original":"割身自見血，　　怕怖而驚倒。",
+    "folio":2,
+    "stemmed":"割 身 自 見 血    怕 怖 而 驚 倒  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548a02_0",
+    "original":"智者心清淨，　　常懼瞋惱侵，",
+    "folio":2,
+    "stemmed":"智 者 心 清 淨    常 懼 瞋 惱 侵  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548a03_13",
+    "original":"與煩惱相持，　　忍心恒勇猛。",
+    "folio":2,
+    "stemmed":"與 煩 惱 相 持    忍 心 恒 勇 猛  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548a04_0",
+    "original":"蛇腹行在地，　　喻瞋伏於心，",
+    "folio":2,
+    "stemmed":"蛇 腹 行 在 地    喻 瞋 伏 於 心  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548a05_13",
+    "original":"殺之謂無勇，　　殺彼得最勝。",
+    "folio":2,
+    "stemmed":"殺 之 謂 無 勇    殺 彼 得 最 勝  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548a06_0",
+    "original":"如來大悲者，　　愍苦說輪迴，",
+    "folio":2,
+    "stemmed":"如來大悲 者    愍 苦 說 輪 迴  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548a07_13",
+    "original":"使識罪根本，　　住忍而不作。",
+    "folio":2,
+    "stemmed":"使 識 罪 根 本    住 忍 而 不 作  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548a08_0",
+    "original":"父母何計心，　　懼子遭淪溺，",
+    "folio":2,
+    "stemmed":"父 母 何 計 心    懼 子 遭 淪 溺  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548a09_13",
+    "original":"持心離瞋怒，　　自遠大苦報。",
+    "folio":2,
+    "stemmed":"持 心 離 瞋 怒    自 遠 大 苦 報  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548a10_0",
+    "original":"譬如無智人，　　令罪而得生，",
+    "folio":2,
+    "stemmed":"譬 如 無 智 人    令 罪 而 得 生  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548a11_13",
+    "original":"修行而無智，　　瞋生亦復爾。",
+    "folio":2,
+    "stemmed":"修 行 而 無 智    瞋 生 亦 復 爾  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548a12_0",
+    "original":"欲住不思議，　　當須持自心，",
+    "folio":2,
+    "stemmed":"欲 住 不 思 議    當 須 持 自 心  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548a13_13",
+    "original":"於此生愛重，　　令瞋不生起。",
+    "folio":2,
+    "stemmed":"於 此 生 愛 重    令 瞋 不 生 起  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548a14_0",
+    "original":"若貪彼塵境，　　而生種種罪，",
+    "folio":2,
+    "stemmed":"若 貪 彼 塵 境    而 生 種 種 罪  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548a15_13",
+    "original":"因彼諸業力，　　而不得自由。",
+    "folio":2,
+    "stemmed":"因 彼 諸 業 力    而 不 得 自 由  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548a16_0",
+    "original":"於境若不貪，　　彼集無因立，",
+    "folio":2,
+    "stemmed":"於 境 若 不 貪    彼 集 無 因 立  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548a17_13",
+    "original":"和合心無故，　　是故無有生。",
+    "folio":2,
+    "stemmed":"和 合 心 無 故    是 故 無 有 生  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548a18_0",
+    "original":"不貪而不生，　　無得而自說，",
+    "folio":2,
+    "stemmed":"不 貪 而 不 生    無 得 而 自 說  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548a19_13",
+    "original":"我得如是故，　　是生不思議。",
+    "folio":2,
+    "stemmed":"我 得 如 是 故    是 生 不 思 議  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548a20_13",
+    "original":"彼無生不生，　　是得云何有？",
+    "folio":2,
+    "stemmed":"彼 無 生 不 生    是 得 云 何 有  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548a21_13",
+    "original":"瞻察於彼此，　　滅盡得無餘。",
+    "folio":2,
+    "stemmed":"瞻 察 於 彼 此    滅 盡 得 無 餘  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548a22_0",
+    "original":"此心恒清淨，　　喻隨色摩尼，",
+    "folio":2,
+    "stemmed":"此 心 恒 清 淨    喻 隨 色 摩 尼  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548a23_13",
+    "original":"所變悉從因，　　無因相何有？",
+    "folio":2,
+    "stemmed":"所 變 悉 從 因    無 因 相 何 有  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548a24_13",
+    "original":"過去行行時，　　彼行何所作？",
+    "folio":2,
+    "stemmed":"過 去 行 行 時    彼 行 何 所 作  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548a25_13",
+    "original":"隨彼所行因，　　等因而感果。",
+    "folio":2,
+    "stemmed":"隨 彼 所 行 因    等 因 而 感 果  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548a26_0",
+    "original":"一切雖由因，　　因善惡由心，",
+    "folio":2,
+    "stemmed":"一 切 雖 由 因    因 善 惡 由 心  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548a27_13",
+    "original":"說求性寂靜，　　如是有何過？",
+    "folio":2,
+    "stemmed":"說 求 性 寂 靜    如 是 有 何 過  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548a28_0",
+    "original":"若取和合因，　　是樂於苦惱，",
+    "folio":2,
+    "stemmed":"若 取 和 合 因    是 樂 於 苦 惱  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548a29_13",
+    "original":"此心不可住，　　智人應自勸。",
+    "folio":2,
+    "stemmed":"此 心 不 可 住    智 人 應 自 勸  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548b01_0",
+    "original":"是故見冤家，　　想作善知識，",
+    "folio":2,
+    "stemmed":"是 故 見 冤 家    想 作 善 知 識  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548b02_13",
+    "original":"因行如是行，　　當獲得快樂。",
+    "folio":2,
+    "stemmed":"因 行 如 是 行    當 獲 得 快 樂  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548b03_0",
+    "original":"如是諸有情，　　由業不自在，",
+    "folio":2,
+    "stemmed":"如 是 諸 有 情    由 業 不 自 在  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548b04_13",
+    "original":"自在若成就，　　誰肯趣於苦？",
+    "folio":2,
+    "stemmed":"自 在 若 成 就    誰 肯 趣 於 苦  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548b05_0",
+    "original":"散亂心緣塵，　　心被刺不覺，",
+    "folio":2,
+    "stemmed":"散 亂 心 緣 塵    心 被 刺 不 覺  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548b06_13",
+    "original":"食斷食增瞋，　　於苦而返愛。",
+    "folio":2,
+    "stemmed":"食 斷 食 增 瞋    於 苦 而 返 愛  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548b07_0",
+    "original":"自若無福行，　　返愛纏縛業，",
+    "folio":2,
+    "stemmed":"自 若 無 福 行    返 愛 纏 縛 業  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548b08_13",
+    "original":"如飱毒藥食，　　墮於生死崖。",
+    "folio":2,
+    "stemmed":"如 飱 毒 藥 食    墮 於 生 死 崖  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548b09_0",
+    "original":"自住是煩惱，　　誠由不自護，",
+    "folio":2,
+    "stemmed":"自 住 是 煩 惱    誠 由 不 自 護  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548b10_13",
+    "original":"欲解脫他人，　　此事何由得？",
+    "folio":2,
+    "stemmed":"欲 解 脫 他 人    此 事 何 由 得  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548b11_0",
+    "original":"煩惱迷昏濁，　　而致於自殺，",
+    "folio":2,
+    "stemmed":"煩 惱 迷 昏 濁    而 致 於 自 殺  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548b12_13",
+    "original":"毒盛無有悲，　　云何瞋不護？",
+    "folio":2,
+    "stemmed":"毒 盛 無 有 悲    云 何 瞋 不 護  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548b13_0",
+    "original":"自性既愚迷，　　於他行嬈亂，",
+    "folio":2,
+    "stemmed":"自 性 既 愚 迷    於 他 行 嬈 亂  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548b14_13",
+    "original":"生彼瞋無疑，　　如火而能燒。",
+    "folio":2,
+    "stemmed":"生 彼 瞋 無 疑    如 火 而 能 燒  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548b15_0",
+    "original":"有情性愚時，　　所行諸過失，",
+    "folio":2,
+    "stemmed":"有 情 性 愚 時    所 行 諸 過 失  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548b16_13",
+    "original":"愚迷故若此，　　如煙熏虛空。",
+    "folio":2,
+    "stemmed":"愚 迷 故 若 此    如 煙 熏 虛 空  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548b17_0",
+    "original":"若人瞋不護，　　愚迷無智故，",
+    "folio":2,
+    "stemmed":"若 人 瞋 不 護    愚 迷 無 智 故  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548b18_13",
+    "original":"喻持杖勸人，　　而增彼瞋惱。",
+    "folio":2,
+    "stemmed":"喻 持 杖 勸 人    而 增 彼 瞋 惱  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548b19_0",
+    "original":"我於過去生，　　苦惱諸有情，",
+    "folio":2,
+    "stemmed":"我 於 過 去 生    苦 惱 諸 有 情  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548b20_13",
+    "original":"是故於今身，　　被苦惱能忍。",
+    "folio":2,
+    "stemmed":"是 故 於 今 身    被 苦 惱 能 忍  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548b21_0",
+    "original":"我身喻於鐵，　　受彼燒鎚鍛，",
+    "folio":2,
+    "stemmed":"我 身 喻 於 鐵    受 彼 燒 鎚 鍛  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548b22_13",
+    "original":"如彼鐵持身，　　何得有其苦？",
+    "folio":2,
+    "stemmed":"如 彼 鐵 持 身    何 得 有 其 苦  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548b23_0",
+    "original":"我今看此身，　　如無情形像，",
+    "folio":2,
+    "stemmed":"我 今 看 此 身    如 無 情 形 像  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548b24_13",
+    "original":"雖被諸苦惱，　　而瞋無所起。",
+    "folio":2,
+    "stemmed":"雖 被 諸 苦 惱    而 瞋 無 所 起  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548b25_0",
+    "original":"愚迷起愛業，　　不知其苦本，",
+    "folio":2,
+    "stemmed":"愚 迷 起 愛 業    不 知 其 苦 本  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548b26_13",
+    "original":"得苦緣自過，　　云何生瞋惱？",
+    "folio":2,
+    "stemmed":"得 苦 緣 自 過    云 何 生 瞋 惱  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548b27_0",
+    "original":"喻受地獄苦，　　飛禽劍林等，",
+    "folio":2,
+    "stemmed":"喻 受 地 獄 苦    飛 禽 劍 林 等  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548b28_13",
+    "original":"知自業所生，　　何處有瞋惱？",
+    "folio":2,
+    "stemmed":"知 自 業 所 生    何 處 有 瞋 惱  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548b29_0",
+    "original":"我得如是業，　　此過知所起，",
+    "folio":2,
+    "stemmed":"我 得 如 是 業    此 過 知 所 起  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548c01_13",
+    "original":"設令入地獄，　　不由他所作。",
+    "folio":2,
+    "stemmed":"設 令 入 地 獄    不 由 他 所 作  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548c02_0",
+    "original":"欲盡我之業，　　無量無有邊，",
+    "folio":2,
+    "stemmed":"欲 盡 我 之 業    無 量 無 有 邊  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548c03_13",
+    "original":"我業既如是，　　長時受地獄。",
+    "folio":2,
+    "stemmed":"我 業 既 如 是    長 時 受 地 獄  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548c04_0",
+    "original":"我此過如是，　　彼實我冤家，",
+    "folio":2,
+    "stemmed":"我 此 過 如 是    彼 實 我 冤 家  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548c05_13",
+    "original":"云何分別知，　　愚迷瞋造作？",
+    "folio":2,
+    "stemmed":"云 何 分 別 知    愚 迷 瞋 造 作  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548c06_0",
+    "original":"若人自護持，　　對冤忍不恚，",
+    "folio":2,
+    "stemmed":"若 人 自 護 持    對 冤 忍 不 恚  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548c07_13",
+    "original":"是心功德生，　　地獄云何入？",
+    "folio":2,
+    "stemmed":"是 心 功 德 生    地 獄 云 何 入  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548c08_0",
+    "original":"盡我之所行，　　得因如彼時，",
+    "folio":2,
+    "stemmed":"盡 我 之 所 行    得 因 如 彼 時  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548c09_13",
+    "original":"不忍瞋不護，　　破壞於修行。",
+    "folio":2,
+    "stemmed":"不 忍 瞋 不 護    破 壞 於 修 行  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548c10_0",
+    "original":"意無相無形，　　散亂即破壞，",
+    "folio":2,
+    "stemmed":"意 無 相 無 形    散 亂 即 破 壞  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548c11_13",
+    "original":"由身護持故，　　身苦當忍受。",
+    "folio":2,
+    "stemmed":"由 身 護 持 故    身 苦 當 忍 受  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548c12_0",
+    "original":"我於口惡業，　　眾過而不作，",
+    "folio":2,
+    "stemmed":"我 於 口 惡 業    眾 過 而 不 作  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548c13_13",
+    "original":"身不被眾苦，　　云何心有瞋？",
+    "folio":2,
+    "stemmed":"身 不 被 眾 苦    云 何 心 有 瞋  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548c14_0",
+    "original":"我於今生中，　　淨心行利行，",
+    "folio":2,
+    "stemmed":"我 於 今 生 中    淨 心 行 利 行  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548c15_13",
+    "original":"於利益既無，　　何事於食飲？",
+    "folio":2,
+    "stemmed":"於 利 益 既 無    何 事 於 食 飲  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548c16_0",
+    "original":"凡所作為事，　　要在於利他，",
+    "folio":2,
+    "stemmed":"凡 所 作 為 事    要 在 於 利 他  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548c17_13",
+    "original":"彼無利非愛，　　定獲罪無疑。",
+    "folio":2,
+    "stemmed":"彼 無 利 非 愛    定 獲 罪 無 疑  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548c18_0",
+    "original":"不如今殞沒，　　無貪邪壽命，",
+    "folio":2,
+    "stemmed":"不 如 今 殞 沒    無 貪 邪 壽 命  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548c19_13",
+    "original":"邪命住雖久，　　死當墮苦趣。",
+    "folio":2,
+    "stemmed":"邪 命 住 雖 久    死 當 墮 苦 趣  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548c20_0",
+    "original":"譬如在夢中，　　百年受快樂，",
+    "folio":2,
+    "stemmed":"譬 如 在 夢 中    百 年 受 快 樂  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548c21_13",
+    "original":"如真實得樂，　　覺已知暫非。",
+    "folio":2,
+    "stemmed":"如 真 實 得 樂    覺 已 知 暫 非  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548c22_0",
+    "original":"喻彼時無常，　　壽命之延促，",
+    "folio":2,
+    "stemmed":"喻 彼 時 無 常    壽 命 之 延 促  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548c23_13",
+    "original":"覺此二事已，　　彼何得快樂？",
+    "folio":2,
+    "stemmed":"覺 此 二 事 已    彼 何 得 快 樂  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548c24_0",
+    "original":"久處於歡娛，　　自謂得多益，",
+    "folio":2,
+    "stemmed":"久 處 於 歡 娛    自 謂 得 多 益  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548c25_13",
+    "original":"如行人被劫，　　裸形復空手。",
+    "folio":2,
+    "stemmed":"如 行 人 被 劫    裸 形 復 空 手  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548c26_0",
+    "original":"福利隨過減，　　罪根還復生，",
+    "folio":2,
+    "stemmed":"福 利 隨 過 減    罪 根 還 復 生  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548c27_13",
+    "original":"福盡罪不生，　　為獲不瞋利。",
+    "folio":2,
+    "stemmed":"福 盡 罪 不 生    為 獲 不 瞋 利  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548c28_0",
+    "original":"彼何為活命，　　一向作不善，",
+    "folio":2,
+    "stemmed":"彼 何 為 活 命    一 向 作 不 善  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0548c29_13",
+    "original":"如是不思惟，　　無善不破壞。",
+    "folio":2,
+    "stemmed":"如 是 不 思 惟    無 善 不 破 壞  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549a01_0",
+    "original":"無得讚於瞋，　　破壞有情故，",
+    "folio":2,
+    "stemmed":"無 得 讚 於 瞋    破 壞 有 情 故  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549a02_13",
+    "original":"如是心利他，　　彼瞋無由生。",
+    "folio":2,
+    "stemmed":"如 是 心 利 他    彼 瞋 無 由 生  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549a03_0",
+    "original":"為彼修心人，　　於忍不住故，",
+    "folio":2,
+    "stemmed":"為 彼 修 心 人    於 忍 不 住 故  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549a04_13",
+    "original":"見彼煩惱生，　　是讚忍功德。",
+    "folio":2,
+    "stemmed":"見 彼 煩 惱 生    是 讚 忍 功 德  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549a05_0",
+    "original":"塔像妙法等，　　有謗及破壞，",
+    "folio":2,
+    "stemmed":"塔 像 妙 法 等    有 謗 及 破 壞  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549a06_13",
+    "original":"佛等無苦惱，　　我於彼不瞋。",
+    "folio":2,
+    "stemmed":"佛 等 無 苦 惱    我 於 彼 不 瞋  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549a07_0",
+    "original":"於師并眷屬，　　不作於愛業，",
+    "folio":2,
+    "stemmed":"於 師 并 眷 屬    不 作 於 愛 業  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549a08_13",
+    "original":"今因過去生，　　見之而自勉。",
+    "folio":2,
+    "stemmed":"今 因 過 去 生    見 之 而 自 勉  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549a09_0",
+    "original":"覺心觀有情，　　恒在眾苦惱，",
+    "folio":2,
+    "stemmed":"覺 心 觀 有 情    恒 在 眾 苦 惱  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549a10_13",
+    "original":"見彼如是已，　　於苦惱能忍。",
+    "folio":2,
+    "stemmed":"見 彼 如 是 已    於 苦 惱 能 忍  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549a11_0",
+    "original":"瞋恚與愚癡，　　分別過一等，",
+    "folio":2,
+    "stemmed":"瞋 恚 與 愚 癡    分 別 過 一 等  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549a12_13",
+    "original":"於此毒過咎，　　何得說無過？",
+    "folio":2,
+    "stemmed":"於 此 毒 過 咎    何 得 說 無 過  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549a13_0",
+    "original":"云何於過去，　　而作害他業，",
+    "folio":2,
+    "stemmed":"云 何 於 過 去    而 作 害 他 業  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549a14_13",
+    "original":"如是諸業因，　　間斷此何作？",
+    "folio":2,
+    "stemmed":"如 是 諸 業 因    間 斷 此 何 作  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549a15_0",
+    "original":"如佛福亦然，　　我今一心作，",
+    "folio":2,
+    "stemmed":"如 佛 福 亦 然    我 今 一 心 作  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549a16_13",
+    "original":"與一切有情，　　慈心互相覩。",
+    "folio":2,
+    "stemmed":"與 一切有情    慈 心 互 相 覩  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549a17_0",
+    "original":"喻火燒其舍，　　舍中而火入，",
+    "folio":2,
+    "stemmed":"喻 火 燒 其 舍    舍 中 而 火 入  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549a18_13",
+    "original":"舍中若有草，　　彼火自延蔓。",
+    "folio":2,
+    "stemmed":"舍 中 若 有 草    彼 火 自 延 蔓  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549a19_0",
+    "original":"如是還喻心，　　和合於瞋火，",
+    "folio":2,
+    "stemmed":"如 是 還 喻 心    和 合 於 瞋 火  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549a20_13",
+    "original":"燒彼福功德，　　剎那無所有。",
+    "folio":2,
+    "stemmed":"燒 彼 福 功 德    剎 那 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549a21_0",
+    "original":"若人殺在手，　　放之善可稱，",
+    "folio":2,
+    "stemmed":"若 人 殺 在 手    放 之 善 可 稱  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549a22_13",
+    "original":"地獄苦能免，　　此善誰不讚？",
+    "folio":2,
+    "stemmed":"地 獄 苦 能 免    此 善 誰 不 讚  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549a23_0",
+    "original":"若人在世間，　　少苦不能忍，",
+    "folio":2,
+    "stemmed":"若 人 在 世 間    少 苦 不 能 忍  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549a24_13",
+    "original":"地獄苦無量，　　瞋因何不斷？",
+    "folio":2,
+    "stemmed":"地 獄 苦 無 量    瞋 因 何 不 斷  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549a25_0",
+    "original":"我以如是苦，　　歷百千地獄，",
+    "folio":2,
+    "stemmed":"我 以 如 是 苦    歷 百 千 地 獄  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549a26_13",
+    "original":"一一為利他，　　所作不自為。",
+    "folio":2,
+    "stemmed":"一 一 為 利 他    所 作 不 自 為  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549a27_0",
+    "original":"我無如是等，　　諸大苦惱事，",
+    "folio":2,
+    "stemmed":"我 無 如 是 等    諸 大 苦 惱 事  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549a28_13",
+    "original":"以離世間故，　　為利如是行。",
+    "folio":2,
+    "stemmed":"以 離 世 間 故    為 利 如 是 行  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549a29_0",
+    "original":"離苦獲快樂，　　彼皆讚功德，",
+    "folio":2,
+    "stemmed":"離 苦 獲 快 樂    彼 皆 讚 功 德  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549b01_13",
+    "original":"得彼如是讚，　　云何而不喜？",
+    "folio":2,
+    "stemmed":"得 彼 如 是 讚    云 何 而 不 喜  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549b02_0",
+    "original":"彼既得如此，　　無礙之快樂，",
+    "folio":2,
+    "stemmed":"彼 既 得 如 此    無 礙 之 快 樂  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549b03_13",
+    "original":"利他行最上，　　智者何不勉？",
+    "folio":2,
+    "stemmed":"利 他 行 最 上    智 者 何 不 勉  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549b04_0",
+    "original":"如是最上行，　　得快樂不修，",
+    "folio":2,
+    "stemmed":"如 是 最 上 行    得 快 樂 不 修  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549b05_13",
+    "original":"此見若不捨，　　破壞於正見。",
+    "folio":2,
+    "stemmed":"此 見 若 不 捨    破 壞 於 正 見  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549b06_0",
+    "original":"若敬愛於他，　　以德而稱讚，",
+    "folio":2,
+    "stemmed":"若 敬 愛 於 他    以 德 而 稱 讚  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549b07_13",
+    "original":"他德既稱讚，　　乃是自敬愛。",
+    "folio":2,
+    "stemmed":"他 德 既 稱 讚    乃 是 自 敬 愛  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549b08_0",
+    "original":"當發菩提心，　　為一切有情，",
+    "folio":2,
+    "stemmed":"當 發菩提心    為 一切有情  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549b09_13",
+    "original":"令得諸快樂，　　云何瞋有情？",
+    "folio":2,
+    "stemmed":"令 得 諸 快 樂    云 何 瞋 有 情  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549b10_0",
+    "original":"佛為三界供，　　欲有情成佛，",
+    "folio":2,
+    "stemmed":"佛 為 三 界 供    欲 有 情 成 佛  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549b11_13",
+    "original":"世利得不實，　　彼煩惱何作？",
+    "folio":2,
+    "stemmed":"世 利 得 不 實    彼 煩 惱 何 作  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549b12_0",
+    "original":"若人之骨肉，　　乃及諸眷屬，",
+    "folio":2,
+    "stemmed":"若 人 之 骨 肉    乃 及 諸 眷 屬  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549b13_13",
+    "original":"養育與命等，　　不喜瞋何生？",
+    "folio":2,
+    "stemmed":"養 育 與 命 等    不 喜 瞋 何 生  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549b14_0",
+    "original":"如彼求菩提，　　當用菩提心，",
+    "folio":2,
+    "stemmed":"如 彼 求 菩 提    當 用 菩 提 心  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549b15_13",
+    "original":"而不愛有情，　　福自捨何瞋？",
+    "folio":2,
+    "stemmed":"而 不 愛 有 情    福 自 捨 何 瞋  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549b16_0",
+    "original":"若人有所求，　　出財大捨施，",
+    "folio":2,
+    "stemmed":"若 人 有 所 求    出 財 大 捨 施  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549b17_13",
+    "original":"所求既不獲，　　不如財在舍。",
+    "folio":2,
+    "stemmed":"所 求 既 不 獲    不 如 財 在 舍  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549b18_13",
+    "original":"清淨功德福，　　何障而不獲？",
+    "folio":2,
+    "stemmed":"清 淨 功 德 福    何 障 而 不 獲  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549b19_13",
+    "original":"得已自不受，　　如住瞋修行。",
+    "folio":2,
+    "stemmed":"得 已 自 不 受    如 住 瞋 修 行  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549b20_0",
+    "original":"作罪與作福，　　不同不隨喜，",
+    "folio":2,
+    "stemmed":"作 罪 與 作 福    不 同 不 隨 喜  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549b21_0",
+    "original":"亦復不依作，　　當自一無得，",
+    "folio":2,
+    "stemmed":"亦 復 不 依 作    當 自 一 無 得  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549b22_0",
+    "original":"若愛於冤家，　　欲求其歡喜，",
+    "folio":2,
+    "stemmed":"若 愛 於 冤 家    欲 求 其 歡 喜  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549b23_0",
+    "original":"復求諸讚說，　　此事無因得，",
+    "folio":2,
+    "stemmed":"復 求 諸 讚 說    此 事 無 因 得  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549b24_0",
+    "original":"雖欲利圓滿，　　返苦而無樂，",
+    "folio":2,
+    "stemmed":"雖 欲 利 圓 滿    返 苦 而 無 樂  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549b25_0",
+    "original":"菩提心不忍，　　於利不成就，",
+    "folio":2,
+    "stemmed":"菩 提 心 不 忍    於 利 不 成 就  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549b26_0",
+    "original":"煩惱之惡鉤，　　牽人不自在，",
+    "folio":2,
+    "stemmed":"煩 惱 之 惡 鉤    牽 人 不 自 在  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549b27_0",
+    "original":"由如地獄卒，　　擲人入湯火，",
+    "folio":2,
+    "stemmed":"由 如 地 獄 卒    擲 人 入 湯 火  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549b28_13",
+    "original":"我本求利他，　　何要虛稱讚？",
+    "folio":2,
+    "stemmed":"我 本 求 利 他    何 要 虛 稱 讚  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549b29_13",
+    "original":"無福無壽命，　　無力無安樂。",
+    "folio":2,
+    "stemmed":"無 福 無 壽 命    無 力 無 安 樂  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549c01_0",
+    "original":"自利行不圓，　　智者應須覺，",
+    "folio":2,
+    "stemmed":"自 利 行 不 圓    智 者 應 須 覺  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549c02_13",
+    "original":"後後而自行，　　當愛樂圓滿。",
+    "folio":2,
+    "stemmed":"後 後 而 自 行    當 愛 樂 圓 滿  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549c03_0",
+    "original":"修行要稱讚，　　若持刃自殺，",
+    "folio":2,
+    "stemmed":"修 行 要 稱 讚    若 持 刃 自 殺  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549c04_13",
+    "original":"如世不實事，　　無益無利樂。",
+    "folio":2,
+    "stemmed":"如 世 不 實 事    無 益 無 利 樂  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549c05_0",
+    "original":"譬如破壞舍，　　日照內外見，",
+    "folio":2,
+    "stemmed":"譬 如 破 壞 舍    日 照 內 外 見  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549c06_13",
+    "original":"亦由稱讚非，　　須用心明了。",
+    "folio":2,
+    "stemmed":"亦 由 稱 讚 非    須 用 心 明 了  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549c07_0",
+    "original":"汝思惟於聲，　　起滅而平等，",
+    "folio":2,
+    "stemmed":"汝 思 惟 於 聲    起 滅 而 平 等  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549c08_13",
+    "original":"心如此利他，　　當行如是行。",
+    "folio":2,
+    "stemmed":"心 如 此 利 他    當 行 如 是 行  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549c09_0",
+    "original":"於他何所受，　　而行於利益，",
+    "folio":2,
+    "stemmed":"於 他 何 所 受    而 行 於 利 益  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549c10_13",
+    "original":"彼既獲快樂，　　我利益非虛。",
+    "folio":2,
+    "stemmed":"彼 既 獲 快 樂    我 利 益 非 虛  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549c11_0",
+    "original":"彼彼獲利樂，　　以一切讚我，",
+    "folio":2,
+    "stemmed":"彼 彼 獲 利 樂    以 一 切 讚 我  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549c12_13",
+    "original":"云何而於我，　　無別威德樂？",
+    "folio":2,
+    "stemmed":"云 何 而 於 我    無 別 威 德 樂  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549c13_0",
+    "original":"彼如是讚我，　　以愛彼自得，",
+    "folio":2,
+    "stemmed":"彼 如 是 讚 我    以 愛 彼 自 得  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549c14_13",
+    "original":"彼無緣若此，　　如愚如迷者。",
+    "folio":2,
+    "stemmed":"彼 無 緣 若 此    如 愚 如 迷 者  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549c15_0",
+    "original":"此讚我雖獲，　　速破而勿著，",
+    "folio":2,
+    "stemmed":"此 讚 我 雖 獲    速 破 而 勿 著  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549c16_13",
+    "original":"憎惡正德者，　　由此而瞋作。",
+    "folio":2,
+    "stemmed":"憎 惡 正 德 者    由 此 而 瞋 作  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549c17_0",
+    "original":"是讚成障礙，　　我令不發起，",
+    "folio":2,
+    "stemmed":"是 讚 成 障 礙    我 令 不 發 起  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549c18_13",
+    "original":"護不墮惡趣，　　為彼行無我。",
+    "folio":2,
+    "stemmed":"護 不 墮 惡 趣    為 彼 行 無 我  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549c19_0",
+    "original":"若解諸有情，　　利養尊卑縛，",
+    "folio":2,
+    "stemmed":"若 解 諸 有 情    利 養 尊 卑 縛  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549c20_13",
+    "original":"令有情解脫，　　彼意云何瞋？",
+    "folio":2,
+    "stemmed":"令 有 情 解 脫    彼 意 云 何 瞋  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549c21_0",
+    "original":"若人欲捨苦，　　來入解脫門，",
+    "folio":2,
+    "stemmed":"若 人 欲 捨 苦    來 入 解 脫 門  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549c22_13",
+    "original":"此是佛威德，　　云何我瞋彼？",
+    "folio":2,
+    "stemmed":"此 是 佛 威 德    云 何 我 瞋 彼  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549c23_0",
+    "original":"此瞋我不作，　　於福障礙故，",
+    "folio":2,
+    "stemmed":"此 瞋 我 不 作    於 福 障 礙 故  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549c24_13",
+    "original":"修行平等忍，　　彼無不獲得。",
+    "folio":2,
+    "stemmed":"修 行 平 等 忍    彼 無 不 獲 得  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549c25_0",
+    "original":"自身諸過失，　　忍辱故不作，",
+    "folio":2,
+    "stemmed":"自 身 諸 過 失    忍 辱 故 不 作  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549c26_13",
+    "original":"過失不作故，　　彼福而獲得。",
+    "folio":2,
+    "stemmed":"過 失 不 作 故    彼 福 而 獲 得  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549c27_0",
+    "original":"若人福無有，　　安忍而自生，",
+    "folio":2,
+    "stemmed":"若 人 福 無 有    安 忍 而 自 生  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549c28_13",
+    "original":"常令安住忍，　　云何說障礙？",
+    "folio":2,
+    "stemmed":"常 令 安 住 忍    云 何 說 障 礙  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0549c29_0",
+    "original":"世求利益人，　　不於施作障，",
+    "folio":2,
+    "stemmed":"世 求 利 益 人    不 於 施 作 障  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550a01_13",
+    "original":"障礙出家故，　　是不得出家。",
+    "folio":2,
+    "stemmed":"障 礙 出 家 故    是 不 得 出 家  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550a02_0",
+    "original":"世間諸難得，　　求者而能與，",
+    "folio":2,
+    "stemmed":"世 間 諸 難 得    求 者 而 能 與  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550a03_13",
+    "original":"我唯說善利，　　於過無所得。",
+    "folio":2,
+    "stemmed":"我 唯 說 善 利    於 過 無 所 得  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550a04_0",
+    "original":"以彼菩提行，　　遠離於所冤，",
+    "folio":2,
+    "stemmed":"以 彼 菩 提 行    遠 離 於 所 冤  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550a05_13",
+    "original":"如出舍中藏，　　是故云不難。",
+    "folio":2,
+    "stemmed":"如 出 舍 中 藏    是 故 云 不 難  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550a06_0",
+    "original":"懺悔於業因，　　彼初為先導，",
+    "folio":2,
+    "stemmed":"懺 悔 於 業 因    彼 初 為 先 導  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550a07_13",
+    "original":"是故於忍果，　　如是而得生。",
+    "folio":2,
+    "stemmed":"是 故 於 忍 果    如 是 而 得 生  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550a08_0",
+    "original":"彼無我所心，　　此心乃住忍，",
+    "folio":2,
+    "stemmed":"彼 無 我 所 心    此 心 乃 住 忍  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550a09_13",
+    "original":"成就不思議，　　供養於妙法。",
+    "folio":2,
+    "stemmed":"成 就 不 思 議    供 養 於 妙 法  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550a10_0",
+    "original":"此心為利他，　　乃至以壽命，",
+    "folio":2,
+    "stemmed":"此 心 為 利 他    乃 至 以 壽 命  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550a11_13",
+    "original":"或以冤不供，　　云何別說忍？",
+    "folio":2,
+    "stemmed":"或 以 冤 不 供    云 何 別 說 忍  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550a12_0",
+    "original":"於彼彼惡心，　　各各與忍辱，",
+    "folio":2,
+    "stemmed":"於 彼 彼 惡 心    各 各 與 忍 辱  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550a13_13",
+    "original":"於如是得忍，　　因供養妙法。",
+    "folio":2,
+    "stemmed":"於 如 是 得 忍    因 供 養 妙 法  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550a14_0",
+    "original":"佛土眾生土，　　大牟尼說此，",
+    "folio":2,
+    "stemmed":"佛 土 眾 生 土    大 牟 尼 說 此  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550a15_13",
+    "original":"於彼奉事多，　　能感於富貴。",
+    "folio":2,
+    "stemmed":"於 彼 奉 事 多    能 感 於 富 貴  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550a16_0",
+    "original":"如來及於法，　　與有情平等，",
+    "folio":2,
+    "stemmed":"如 來 及 於 法    與 有 情 平 等  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550a17_13",
+    "original":"尊重於佛故，　　尊有情亦然。",
+    "folio":2,
+    "stemmed":"尊 重 於 佛 故    尊 有 情 亦 然  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550a18_0",
+    "original":"立意乃如是，　　於自無所作，",
+    "folio":2,
+    "stemmed":"立 意 乃 如 是    於 自 無 所 作  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550a19_13",
+    "original":"以彼大平等，　　平等於有情。",
+    "folio":2,
+    "stemmed":"以 彼 大 平 等    平 等 於 有 情  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550a20_0",
+    "original":"大意於有情，　　慈心而供養，",
+    "folio":2,
+    "stemmed":"大 意 於 有 情    慈 心 而 供 養  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550a21_13",
+    "original":"發心如佛福，　　如佛福可得。",
+    "folio":2,
+    "stemmed":"發 心 如 佛 福    如 佛 福 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550a22_0",
+    "original":"是故佛法行，　　佛有情平等，",
+    "folio":2,
+    "stemmed":"是 故 佛 法 行    佛 有 情 平 等  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550a23_13",
+    "original":"佛無所平等，　　功德海無邊。",
+    "folio":2,
+    "stemmed":"佛 無 所 平 等    功 德 海 無 邊  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550a24_0",
+    "original":"佛功德精純，　　無功德能比，",
+    "folio":2,
+    "stemmed":"佛 功 德 精 純    無 功 德 能 比  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550a25_13",
+    "original":"雖三界供養，　　見之而不能。",
+    "folio":2,
+    "stemmed":"雖 三 界 供 養    見 之 而 不 能  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550a26_0",
+    "original":"佛法等之師，　　是最上有情，",
+    "folio":2,
+    "stemmed":"佛 法 等 之 師    是 最 上 有 情  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550a27_13",
+    "original":"供養諸有情，　　當如此作意。",
+    "folio":2,
+    "stemmed":"供 養 諸 有 情    當 如 此 作 意  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550a28_0",
+    "original":"於自之眷屬，　　不能起利行，",
+    "folio":2,
+    "stemmed":"於 自 之 眷 屬    不 能 起 利 行  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550a29_13",
+    "original":"於他之奉事，　　不作得何過？",
+    "folio":2,
+    "stemmed":"於 他 之 奉 事    不 作 得 何 過  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550b01_0",
+    "original":"破壞身入無間獄，　　若彼作已我復作，",
+    "folio":2,
+    "stemmed":"破 壞 身 入 無 間 獄    若 彼 作 已 我 復 作  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550b02_17",
+    "original":"廣大心為彼一切，　　如是常行於善事。",
+    "folio":2,
+    "stemmed":"廣 大 心 為 彼 一 切    如 是 常 行 於 善 事  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550b03_0",
+    "original":"喻世人為自在主，　　由於己事不稱情，",
+    "folio":2,
+    "stemmed":"喻 世 人 為 自 在 主    由 於 己 事 不 稱 情  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550b04_17",
+    "original":"云何而為彼作子，　　我作非彼奴僕性。",
+    "folio":2,
+    "stemmed":"云 何 而 為 彼 作 子    我 作 非 彼 奴 僕 性  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550b05_0",
+    "original":"喻佛入苦而無苦，　　如得快樂復歡喜，",
+    "folio":2,
+    "stemmed":"喻 佛 入 苦 而 無 苦    如 得 快 樂 復 歡 喜  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550b06_17",
+    "original":"要歡喜彼一切佛，　　佛喜為彼能此作。",
+    "folio":2,
+    "stemmed":"要 歡 喜 彼 一 切 佛    佛 喜 為 彼 能 此 作  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550b07_0",
+    "original":"如身煩惱而普有，　　欲一切乏悉充足，",
+    "folio":2,
+    "stemmed":"如 身 煩 惱 而 普 有    欲 一 切 乏 悉 充 足  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550b08_17",
+    "original":"於有情苦亦復然，　　我無方便空悲慜。",
+    "folio":2,
+    "stemmed":"於 有 情 苦 亦 復 然    我 無 方 便 空 悲 慜  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550b09_0",
+    "original":"是故此苦我遠離，　　救一切苦興大悲，",
+    "folio":2,
+    "stemmed":"是 故 此 苦 我 遠 離    救 一 切 苦 興 大 悲  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550b10_17",
+    "original":"先嬈惱於忍辱人，　　彼罪我今而懺悔。",
+    "folio":2,
+    "stemmed":"先 嬈 惱 於 忍 辱 人    彼 罪 我 今 而 懺 悔  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550b11_0",
+    "original":"我今奉事於如來，　　同於世間諸僕從，",
+    "folio":2,
+    "stemmed":"我 今 奉 事 於 如 來    同 於 世 間 諸 僕 從  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550b12_17",
+    "original":"眾人足蹈我頂上，　　受之歡喜而同佛。",
+    "folio":2,
+    "stemmed":"眾 人 足 蹈 我 頂 上    受 之 歡 喜 而 同 佛  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550b13_0",
+    "original":"世間一切賤能作，　　以悲慜故無有礙，",
+    "folio":2,
+    "stemmed":"世 間 一 切 賤 能 作    以 悲 慜 故 無 有 礙  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550b14_17",
+    "original":"見此一切無比色，　　彼如是尊誰不敬？",
+    "folio":2,
+    "stemmed":"見 此 一 切 無 比 色    彼 如 是 尊 誰 不 敬  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550b15_0",
+    "original":"如是為奉於如來，　　如是為自利成就，",
+    "folio":2,
+    "stemmed":"如 是 為 奉 於 如 來    如 是 為 自 利 成 就  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550b16_17",
+    "original":"如是為除世苦惱，　　如是我今乃出家。",
+    "folio":2,
+    "stemmed":"如 是 為 除 世 苦 惱    如 是 我 今 乃 出 家  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550b17_0",
+    "original":"譬如一王人，　　能調伏大眾，",
+    "folio":2,
+    "stemmed":"譬 如 一 王 人    能 調 伏 大 眾  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550b18_13",
+    "original":"眾非一能調，　　以長親王故。",
+    "folio":2,
+    "stemmed":"眾 非 一 能 調    以 長 親 王 故  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550b19_0",
+    "original":"彼一而非獨，　　蓋有王之力，",
+    "folio":2,
+    "stemmed":"彼 一 而 非 獨    蓋 有 王 之 力  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550b20_13",
+    "original":"制斷不怯劣，　　亦無有過失。",
+    "folio":2,
+    "stemmed":"制 斷 不 怯 劣    亦 無有過失  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550b21_0",
+    "original":"悲慜心住忍，　　力若地獄卒，",
+    "folio":2,
+    "stemmed":"悲 慜 心 住 忍    力 若 地 獄 卒  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550b22_13",
+    "original":"將護於有情，　　如事以惡王。",
+    "folio":2,
+    "stemmed":"將 護 於 有 情    如 事 以 惡 王  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550b23_0",
+    "original":"瞋非王所令，　　如彼地獄苦，",
+    "folio":2,
+    "stemmed":"瞋 非 王 所 令    如 彼 地 獄 苦  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550b24_13",
+    "original":"煩惱於有情，　　彼苦而自受。",
+    "folio":2,
+    "stemmed":"煩 惱 於 有 情    彼 苦 而 自 受  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550b25_0",
+    "original":"喜非王所與，　　如得於佛等，",
+    "folio":2,
+    "stemmed":"喜 非 王 所 與    如 得 於 佛 等  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550b26_13",
+    "original":"善心於有情，　　此心何不受？",
+    "folio":2,
+    "stemmed":"善 心 於 有 情    此 心 何 不 受  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550b27_0",
+    "original":"將護於有情，　　後當得成佛，",
+    "folio":2,
+    "stemmed":"將 護 於 有 情    後 當 得 成 佛  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550b28_13",
+    "original":"見感尊重稱，　　此善何不見？",
+    "folio":2,
+    "stemmed":"見 感 尊 重 稱    此 善 何 不 見  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550b29_0",
+    "original":"無病復端嚴，　　快樂而長命，",
+    "folio":2,
+    "stemmed":"無 病 復 端 嚴    快 樂 而 長 命  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550c01_13",
+    "original":"富貴作輪王，　　斯皆從忍得。",
+    "folio":2,
+    "stemmed":"富 貴 作 輪 王    斯 皆 從 忍 得  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550c03_0",
+    "original":"智者行忍辱，　　菩提住精進，",
+    "folio":2,
+    "stemmed":"智 者 行 忍 辱    菩 提 住 精 進  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550c04_13",
+    "original":"懈怠遠離福，　　如離於風行。",
+    "folio":2,
+    "stemmed":"懈 怠 遠 離 福    如 離 於 風 行  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550c05_5",
+    "original":"精進力何解？",
+    "folio":2,
+    "stemmed":"精 進 力 何 解  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550c06_13",
+    "original":"　　彼要分別說，懈怠不精進，　　如毒宜自觀。",
+    "folio":2,
+    "stemmed":"  彼 要 分 別 說  懈 怠 不 精 進    如 毒 宜 自 觀  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550c07_0",
+    "original":"貪味於睡眠，　　謂快樂無事，",
+    "folio":2,
+    "stemmed":"貪 味 於 睡 眠    謂 快 樂 無 事  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550c08_13",
+    "original":"輪迴苦可嫌，　　而從懈怠生。",
+    "folio":2,
+    "stemmed":"輪 迴 苦 可 嫌    而 從 懈 怠 生  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550c09_0",
+    "original":"煩惱之舍宅，　　懈怠力牽入，",
+    "folio":2,
+    "stemmed":"煩 惱 之 舍 宅    懈 怠 力 牽 入  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550c10_13",
+    "original":"已到無常門，　　云何今不知？",
+    "folio":2,
+    "stemmed":"已 到 無 常 門    云 何 今 不 知  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550c11_0",
+    "original":"精進為自他，　　此行汝不見，",
+    "folio":2,
+    "stemmed":"精 進 為 自 他    此 行 汝 不 見  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550c12_13",
+    "original":"懈怠復睡眠，　　此如屠肆牛。",
+    "folio":2,
+    "stemmed":"懈 怠 復 睡 眠    此 如 屠 肆 牛  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550c13_0",
+    "original":"若此而不見，　　一切道皆斷，",
+    "folio":2,
+    "stemmed":"若 此 而 不 見    一 切 道 皆 斷  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550c14_13",
+    "original":"彼既無所得，　　云何樂睡眠？",
+    "folio":2,
+    "stemmed":"彼 既 無 所 得    云 何 樂 睡 眠  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550c15_0",
+    "original":"若得於威儀，　　無常而忽至，",
+    "folio":2,
+    "stemmed":"若 得 於 威 儀    無 常 而 忽 至  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550c16_13",
+    "original":"施為不可及，　　何以住懈怠？",
+    "folio":2,
+    "stemmed":"施 為 不 可 及    何 以 住 懈 怠  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550c17_0",
+    "original":"精進而不修，　　安然若精進，",
+    "folio":2,
+    "stemmed":"精 進 而 不 修    安 然 若 精 進  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550c18_13",
+    "original":"忽然趣無常，　　思惟而苦苦。",
+    "folio":2,
+    "stemmed":"忽 然 趣 無 常    思 惟 而 苦 苦  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550c19_0",
+    "original":"見彼焰魔門，　　苦惱復情急，",
+    "folio":2,
+    "stemmed":"見 彼 焰 魔 門    苦 惱 復 情 急  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550c20_13",
+    "original":"剎那而淚下，　　眷屬不能救。",
+    "folio":2,
+    "stemmed":"剎 那 而 淚 下    眷 屬 不 能 救  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550c21_0",
+    "original":"聽聞地獄聲，　　自念業熱惱，",
+    "folio":2,
+    "stemmed":"聽 聞 地 獄 聲    自 念 業 熱 惱  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550c22_13",
+    "original":"身住不淨處，　　驚怖不能極。",
+    "folio":2,
+    "stemmed":"身 住 不 淨 處    驚 怖 不 能 極  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550c23_13",
+    "original":"地獄苦極惡，　　惡業何復作？",
+    "folio":2,
+    "stemmed":"地 獄 苦 極 惡    惡 業 何 復 作  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550c24_13",
+    "original":"如魚鼎中活，　　彼得如是怖。",
+    "folio":2,
+    "stemmed":"如 魚 鼎 中 活    彼 得 如 是 怖  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550c25_0",
+    "original":"地獄業作已，　　乃受湯火苦，",
+    "folio":2,
+    "stemmed":"地 獄 業 作 已    乃 受 湯 火 苦  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550c26_13",
+    "original":"身糜爛苦惱，　　如何得清淨？",
+    "folio":2,
+    "stemmed":"身 糜 爛 苦 惱    如 何 得 清 淨  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550c27_0",
+    "original":"魔王多苦人，　　捉人送無常，",
+    "folio":2,
+    "stemmed":"魔 王 多 苦 人    捉 人 送 無 常  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550c28_13",
+    "original":"無常苦可畏，　　此見懈怠果。",
+    "folio":2,
+    "stemmed":"無 常 苦 可 畏    此 見 懈 怠 果  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0550c29_0",
+    "original":"愚迷著睡眠，　　此過而不劣，",
+    "folio":2,
+    "stemmed":"愚 迷 著 睡 眠    此 過 而 不 劣  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551a01_13",
+    "original":"入於大苦河，　　復不得人身。",
+    "folio":2,
+    "stemmed":"入 於 大 苦 河    復 不 得 人 身  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551a02_0",
+    "original":"除樂最上法，　　無邊樂種子，",
+    "folio":2,
+    "stemmed":"除 樂 最 上 法    無 邊 樂 種 子  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551a03_13",
+    "original":"懈怠并戲笑，　　苦因汝何樂。",
+    "folio":2,
+    "stemmed":"懈 怠 并 戲 笑    苦 因 汝 何 樂  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551a04_0",
+    "original":"見負嗔力多，　　知彼自精進，",
+    "folio":2,
+    "stemmed":"見 負 嗔 力 多    知 彼 自 精 進  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551a05_13",
+    "original":"自他各所行，　　如自他平等。",
+    "folio":2,
+    "stemmed":"自 他 各 所 行    如 自他平等  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551a06_0",
+    "original":"我何得菩提，　　而無分別作，",
+    "folio":2,
+    "stemmed":"我 何 得 菩 提    而 無 分 別 作  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551a07_13",
+    "original":"以如來真實，　　實言正解脫。",
+    "folio":2,
+    "stemmed":"以 如 來 真 實    實 言 正 解 脫  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551a08_0",
+    "original":"彼蚊蚋䗈蠅，　　及蟲蝦蜆等，",
+    "folio":2,
+    "stemmed":"彼 蚊 蚋 䗈 蠅    及 蟲 蝦 蜆 等  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551a09_13",
+    "original":"若獲精進力，　　亦當得菩提。",
+    "folio":2,
+    "stemmed":"若 獲 精 進 力    亦 當 得 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551a10_0",
+    "original":"彼我何生人，　　能知利不利，",
+    "folio":2,
+    "stemmed":"彼 我 何 生 人    能 知 利 不 利  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551a11_13",
+    "original":"恒知諸精進，　　何不得菩提？",
+    "folio":2,
+    "stemmed":"恒 知 諸 精 進    何 不 得 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551a12_0",
+    "original":"或捨於手足，　　於此而生怖，",
+    "folio":2,
+    "stemmed":"或 捨 於 手 足    於 此 而 生 怖  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551a13_13",
+    "original":"愚迷違師教，　　此利彼不知。",
+    "folio":2,
+    "stemmed":"愚 迷 違 師 教    此 利 彼 不 知  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551a14_0",
+    "original":"斷壞及燒煮，　　無邊皆拔出，",
+    "folio":2,
+    "stemmed":"斷 壞 及 燒 煮    無 邊 皆 拔 出  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551a15_13",
+    "original":"無數俱胝劫，　　而未得菩提。",
+    "folio":2,
+    "stemmed":"無 數 俱 胝 劫    而 未 得 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551a16_0",
+    "original":"歷此無數苦，　　久久證菩提，",
+    "folio":2,
+    "stemmed":"歷 此 無 數 苦    久 久 證 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551a17_13",
+    "original":"喻若毒苦傷，　　毒盡苦皆出。",
+    "folio":2,
+    "stemmed":"喻 若 毒 苦 傷    毒 盡 苦 皆 出  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551a18_0",
+    "original":"作一切醫人，　　救療諸病苦，",
+    "folio":2,
+    "stemmed":"作 一 切 醫 人    救 療 諸 病 苦  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551a19_13",
+    "original":"是故苦消除，　　一切病皆少。",
+    "folio":2,
+    "stemmed":"是 故 苦 消 除    一 切 病 皆 少  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551a20_0",
+    "original":"是故說救療，　　甜藥不利病，",
+    "folio":2,
+    "stemmed":"是 故 說 救 療    甜 藥 不 利 病  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551a21_13",
+    "original":"上醫療大病，　　甜藥皆不與。",
+    "folio":2,
+    "stemmed":"上 醫 療 大 病    甜 藥 皆 不 與  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551a22_0",
+    "original":"前後皆如是，　　智者咸所行，",
+    "folio":2,
+    "stemmed":"前 後 皆 如 是    智 者 咸 所 行  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551a23_13",
+    "original":"後後而進修，　　身肉而捨用。",
+    "folio":2,
+    "stemmed":"後 後 而 進 修    身 肉 而 捨 用  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551a24_0",
+    "original":"智者觀身肉，　　喻菜而生有，",
+    "folio":2,
+    "stemmed":"智 者 觀 身 肉    喻 菜 而 生 有  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551a25_13",
+    "original":"枯謝棄糞土，　　是捨不名難。",
+    "folio":2,
+    "stemmed":"枯 謝 棄 糞 土    是 捨 不 名 難  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551a26_0",
+    "original":"若身所作苦，　　心謂其虛作，",
+    "folio":2,
+    "stemmed":"若 身 所 作 苦    心 謂 其 虛 作  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551a27_13",
+    "original":"智者心非惡，　　彼無惡業苦。",
+    "folio":2,
+    "stemmed":"智 者 心 非 惡    彼 無 惡 業 苦  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551a28_0",
+    "original":"知法意快樂，　　具福身快樂，",
+    "folio":2,
+    "stemmed":"知 法 意 快 樂    具 福 身 快 樂  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551a29_13",
+    "original":"無此虛輪迴，　　得苦云何悲？",
+    "folio":2,
+    "stemmed":"無 此 虛 輪 迴    得 苦 云 何 悲  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551b01_0",
+    "original":"求盡過去罪，　　深利他福海，",
+    "folio":2,
+    "stemmed":"求 盡 過 去 罪    深 利 他 福 海  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551b02_13",
+    "original":"此力菩提心，　　二乘等要急。",
+    "folio":2,
+    "stemmed":"此 力 菩 提 心    二 乘 等 要 急  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551b03_13",
+    "original":"如是利不樂，　　行行何得苦？",
+    "folio":2,
+    "stemmed":"如 是 利 不 樂    行 行 何 得 苦  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551b04_13",
+    "original":"菩提心輦輿，　　智者乘得樂。",
+    "folio":2,
+    "stemmed":"菩 提 心 輦 輿    智 者 乘 得 樂  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551b05_0",
+    "original":"為成就有情，　　樂施方便力，",
+    "folio":2,
+    "stemmed":"為 成 就 有 情    樂 施 方 便 力  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551b06_13",
+    "original":"身力苦怖作，　　觀之唯稱讚。",
+    "folio":2,
+    "stemmed":"身 力 苦 怖 作    觀 之 唯 稱 讚  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551b07_0",
+    "original":"斷如是分別，　　增長於精進，",
+    "folio":2,
+    "stemmed":"斷 如 是 分 別    增 長 於 精 進  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551b08_13",
+    "original":"我身而能捨，　　超過身方便。",
+    "folio":2,
+    "stemmed":"我 身 而 能 捨    超 過 身 方 便  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551b09_0",
+    "original":"我消除自他，　　無數之過失，",
+    "folio":2,
+    "stemmed":"我 消 除 自 他    無 數 之 過 失  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551b10_13",
+    "original":"一一之過失，　　若劫盡無餘。",
+    "folio":2,
+    "stemmed":"一 一 之 過 失    若 劫 盡 無 餘  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551b11_0",
+    "original":"彼過一一盡，　　我無有纖毫，",
+    "folio":2,
+    "stemmed":"彼 過 一 一 盡    我 無 有 纖 毫  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551b12_13",
+    "original":"無邊苦已脫，　　我心云何損？",
+    "folio":2,
+    "stemmed":"無 邊 苦 已 脫    我 心 云 何 損  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551b13_0",
+    "original":"我求多功德，　　為利於自他，",
+    "folio":2,
+    "stemmed":"我 求 多 功 德    為 利 於 自 他  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551b14_13",
+    "original":"學一一功德，　　劫盡學無盡。",
+    "folio":2,
+    "stemmed":"學 一 一 功 德    劫 盡 學 無 盡  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551b15_0",
+    "original":"纖毫之功德，　　我生不曾作，",
+    "folio":2,
+    "stemmed":"纖 毫 之 功 德    我 生 不 曾 作  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551b16_13",
+    "original":"或當得生處，　　虛度無所有。",
+    "folio":2,
+    "stemmed":"或 當 得 生 處    虛 度 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551b17_0",
+    "original":"我樂興大供，　　供養佛世尊，",
+    "folio":2,
+    "stemmed":"我 樂 興 大 供    供 養 佛 世 尊  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551b18_13",
+    "original":"為貧不能作，　　而願不圓滿。",
+    "folio":2,
+    "stemmed":"為 貧 不 能 作    而 願 不 圓 滿  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551b19_0",
+    "original":"不施怖者安，　　不修母快樂，",
+    "folio":2,
+    "stemmed":"不 施 怖 者 安    不 修 母 快 樂  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551b20_13",
+    "original":"如入母胎藏，　　母唯病苦惱。",
+    "folio":2,
+    "stemmed":"如 入 母 胎 藏    母 唯 病 苦 惱  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551b21_0",
+    "original":"過去為離法，　　我今得果報，",
+    "folio":2,
+    "stemmed":"過 去 為 離 法    我 今 得 果 報  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551b22_13",
+    "original":"所生既如是，　　當行何法行？",
+    "folio":2,
+    "stemmed":"所 生 既 如 是    當 行 何 法 行  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551b23_0",
+    "original":"一切善心根，　　世間之牟尼，",
+    "folio":2,
+    "stemmed":"一 切 善 心 根    世 間 之 牟 尼  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551b24_13",
+    "original":"彼根恒不退，　　常得好果報。",
+    "folio":2,
+    "stemmed":"彼 根 恒 不 退    常 得 好 果 報  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551b25_0",
+    "original":"煩惱苦纏綿，　　而得種種怖，",
+    "folio":2,
+    "stemmed":"煩 惱 苦 纏 綿    而 得 種 種 怖  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551b26_13",
+    "original":"於他愛障難，　　生罪而自感。",
+    "folio":2,
+    "stemmed":"於 他 愛 障 難    生 罪 而 自 感  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551b27_0",
+    "original":"若人於處處，　　能起於善願，",
+    "folio":2,
+    "stemmed":"若 人 於 處 處    能 起 於 善 願  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551b28_13",
+    "original":"而感彼彼福，　　獲得供養果。",
+    "folio":2,
+    "stemmed":"而 感 彼 彼 福    獲 得 供 養 果  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551b29_0",
+    "original":"若人於處處，　　作罪取快樂，",
+    "folio":2,
+    "stemmed":"若 人 於 處 處    作 罪 取 快 樂  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551c01_13",
+    "original":"而感彼彼報，　　獲得苦器侵。",
+    "folio":2,
+    "stemmed":"而 感 彼 彼 報    獲 得 苦 器 侵  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551c02_0",
+    "original":"月藏中清涼，　　廣博妙香潔，",
+    "folio":2,
+    "stemmed":"月 藏 中 清 涼    廣 博 妙 香 潔  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551c03_13",
+    "original":"佛音味第一，　　非修而不得。",
+    "folio":2,
+    "stemmed":"佛 音 味 第 一    非 修 而 不 得  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551c04_0",
+    "original":"而彼善逝子，　　得解善逝法，",
+    "folio":2,
+    "stemmed":"而 彼 善 逝 子    得 解 善 逝 法  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551c05_13",
+    "original":"如蓮出最上，　　亦如仁覺月。",
+    "folio":2,
+    "stemmed":"如 蓮 出 最 上    亦 如 仁 覺 月  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551c06_0",
+    "original":"焰魔之獄卒，　　牽引於罪魂，",
+    "folio":2,
+    "stemmed":"焰 魔 之 獄 卒    牽 引 於 罪 魂  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551c07_13",
+    "original":"火坑及洋銅，　　燒煮悉皆入。",
+    "folio":2,
+    "stemmed":"火 坑 及 洋 銅    燒 煮 悉 皆 入  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551c08_0",
+    "original":"焰熾殺器杖，　　斷肉百千斤，",
+    "folio":2,
+    "stemmed":"焰 熾 殺 器 杖    斷 肉 百 千 斤  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551c09_13",
+    "original":"墮落熱鐵地，　　斯由多不善。",
+    "folio":2,
+    "stemmed":"墮 落 熱 鐵 地    斯 由 多 不 善  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551c10_0",
+    "original":"是故心作善，　　極微細觀察，",
+    "folio":2,
+    "stemmed":"是 故 心 作 善    極 微 細 觀 察  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551c11_13",
+    "original":"依彼金剛幡，　　修學而作觀。",
+    "folio":2,
+    "stemmed":"依 彼 金 剛 幡    修 學 而 作 觀  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551c12_0",
+    "original":"初學觀和合，　　不觀汝非學，",
+    "folio":2,
+    "stemmed":"初 學 觀 和 合    不 觀 汝 非 學  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551c13_13",
+    "original":"而無最上名，　　汝要迴心作。",
+    "folio":2,
+    "stemmed":"而 無 最 上 名    汝 要 迴 心 作  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551c14_0",
+    "original":"生中之所作，　　增長於罪苦，",
+    "folio":2,
+    "stemmed":"生 中 之 所 作    增 長 於 罪 苦  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551c15_13",
+    "original":"上事業不修，　　彼下不求勝。",
+    "folio":2,
+    "stemmed":"上 事 業 不 修    彼 下 不 求 勝  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551c16_0",
+    "original":"三種事應知，　　由業煩惱力，",
+    "folio":2,
+    "stemmed":"三 種 事 應 知    由 業 煩 惱 力  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551c17_13",
+    "original":"將來之惡因，　　於此云何作？",
+    "folio":2,
+    "stemmed":"將 來 之 惡 因    於 此 云 何 作  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551c18_0",
+    "original":"世間之煩惱，　　拘人不自由，",
+    "folio":2,
+    "stemmed":"世 間 之 煩 惱    拘 人 不 自 由  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551c19_13",
+    "original":"我如人不能，　　是故我無作。",
+    "folio":2,
+    "stemmed":"我 如 人 不 能    是 故 我 無 作  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551c20_13",
+    "original":"下業之所修，　　云何令安住？",
+    "folio":2,
+    "stemmed":"下 業 之 所 修    云 何 令 安 住  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551c21_13",
+    "original":"當觀我無我，　　而此我所作。",
+    "folio":2,
+    "stemmed":"當 觀 我 無 我    而 此 我 所 作  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551c22_0",
+    "original":"一滴之甘露，　　鳥食變金翅，",
+    "folio":2,
+    "stemmed":"一 滴 之 甘 露    鳥 食 變 金 翅  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551c23_13",
+    "original":"我意謂微劣，　　能脫少苦難。",
+    "folio":2,
+    "stemmed":"我 意 謂 微 劣    能 脫 少 苦 難  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551c24_0",
+    "original":"嗔作無心難，　　以不善罪故，",
+    "folio":2,
+    "stemmed":"嗔 作 無 心 難    以 不 善 罪 故  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551c25_13",
+    "original":"無心見發起，　　廣大勝難及。",
+    "folio":2,
+    "stemmed":"無 心 見 發 起    廣 大 勝 難 及  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551c26_0",
+    "original":"是故清淨心，　　頌作此文句，",
+    "folio":2,
+    "stemmed":"是 故 清 淨 心    頌 作 此 文 句  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551c27_13",
+    "original":"使知彼三界，　　我遠離戲論。",
+    "folio":2,
+    "stemmed":"使 知 彼 三 界    我 遠 離 戲 論  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551c28_0",
+    "original":"我得勝一切，　　無人能勝我，",
+    "folio":2,
+    "stemmed":"我 得 勝 一 切    無 人 能 勝 我  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0551c29_13",
+    "original":"我今而自知，　　是佛師子子。",
+    "folio":2,
+    "stemmed":"我 今 而 自 知    是 佛 師 子 子  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0552a01_0",
+    "original":"有情離我人，　　而彼得最上，",
+    "folio":2,
+    "stemmed":"有 情 離 我 人    而 彼 得 最 上  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0552a02_13",
+    "original":"不降懈怠冤，　　懈怠冤自降。",
+    "folio":2,
+    "stemmed":"不 降 懈 怠 冤    懈 怠 冤 自 降  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0552a03_0",
+    "original":"以惡趣所牽，　　身善速破壞，",
+    "folio":2,
+    "stemmed":"以 惡 趣 所 牽    身 善 速 破 壞  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0552a04_13",
+    "original":"由僕從愚惡，　　寄食而受瘦。",
+    "folio":2,
+    "stemmed":"由 僕 從 愚 惡    寄 食 而 受 瘦  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0552a05_0",
+    "original":"彼受於一切，　　修行住我慢，",
+    "folio":2,
+    "stemmed":"彼 受 於 一 切    修 行 住 我 慢  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0552a06_13",
+    "original":"而此得名聲，　　下劣云何說？",
+    "folio":2,
+    "stemmed":"而 此 得 名 聲    下 劣 云 何 說  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0552a07_0",
+    "original":"如是若勇猛，　　自勝彼冤家，",
+    "folio":2,
+    "stemmed":"如 是 若 勇 猛    自 勝 彼 冤 家  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0552a08_13",
+    "original":"勇猛行此修，　　慢冤而不勝。",
+    "folio":2,
+    "stemmed":"勇 猛 行 此 修    慢 冤 而 不 勝  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0552a09_0",
+    "original":"彼慢心若起，　　此實我冤家，",
+    "folio":2,
+    "stemmed":"彼 慢 心 若 起    此 實 我 冤 家  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0552a10_13",
+    "original":"勝果雖欲生，　　是果悉皆捨。",
+    "folio":2,
+    "stemmed":"勝 果 雖 欲 生    是 果 悉 皆 捨  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0552a11_0",
+    "original":"喻精進師子，　　煩惱獸中見，",
+    "folio":2,
+    "stemmed":"喻 精 進 師 子    煩 惱 獸 中 見  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0552a12_13",
+    "original":"煩惱獸千萬，　　雖眾不能敵。",
+    "folio":2,
+    "stemmed":"煩 惱 獸 千 萬    雖 眾 不 能 敵  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0552a13_0",
+    "original":"世有大苦惱，　　人自悉具見，",
+    "folio":2,
+    "stemmed":"世 有 大 苦 惱    人 自 悉 具 見  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0552a14_13",
+    "original":"煩惱不降伏，　　乃得如是苦。",
+    "folio":2,
+    "stemmed":"煩 惱 不 降 伏    乃 得 如 是 苦  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0552a15_0",
+    "original":"我寧使頭落，　　及刳剔心腸，",
+    "folio":2,
+    "stemmed":"我 寧 使 頭 落    及 刳 剔 心 腸  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0552a16_13",
+    "original":"煩惱諸冤家，　　一切我不降。",
+    "folio":2,
+    "stemmed":"煩 惱 諸 冤 家    一 切 我 不 降  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0552a17_0",
+    "original":"因修此精進，　　得彼慢業盡，",
+    "folio":2,
+    "stemmed":"因 修 此 精 進    得 彼 慢 業 盡  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0552a18_13",
+    "original":"獲得勝果報，　　自感嬉戲樂。",
+    "folio":2,
+    "stemmed":"獲 得 勝 果 報    自 感 嬉 戲 樂  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0552a19_0",
+    "original":"為快樂修因，　　彼却不獲得，",
+    "folio":2,
+    "stemmed":"為 快 樂 修 因    彼 却 不 獲 得  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0552a20_13",
+    "original":"所修不決定，　　亦得不殊勝。",
+    "folio":2,
+    "stemmed":"所 修 不 決 定    亦 得 不 殊 勝  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0552a21_0",
+    "original":"輪迴欲不足，　　喻貪刀刃蜜，",
+    "folio":2,
+    "stemmed":"輪 迴 欲 不 足    喻 貪 刀 刃 蜜  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0552a22_13",
+    "original":"福甘露若貪，　　食之後轉美。",
+    "folio":2,
+    "stemmed":"福 甘 露 若 貪    食 之 後 轉 美  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0552a23_0",
+    "original":"是故業寂靜，　　感妙果隨行，",
+    "folio":2,
+    "stemmed":"是 故 業 寂 靜    感 妙 果 隨 行  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0552a24_13",
+    "original":"如日溫月寒，　　晝夜而相逐。",
+    "folio":2,
+    "stemmed":"如 日 溫 月 寒    晝 夜 而 相 逐  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0552a25_0",
+    "original":"精進之有力，　　能破於懈怠，",
+    "folio":2,
+    "stemmed":"精 進 之 有 力    能 破 於 懈 怠  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0552a26_13",
+    "original":"獲得遠離故，　　深心而愛樂。",
+    "folio":2,
+    "stemmed":"獲 得 遠 離 故    深 心 而 愛 樂  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0552a27_0",
+    "original":"煩惱棒堅牢，　　鬪彼念慧劍，",
+    "folio":2,
+    "stemmed":"煩 惱 棒 堅 牢    鬪 彼 念 慧 劍  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0552a28_13",
+    "original":"喻棒劍相持，　　同彼女人學。",
+    "folio":2,
+    "stemmed":"喻 棒 劍 相 持    同 彼 女 人 學  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0552a29_0",
+    "original":"執劍手無力，　　失之而怖急，",
+    "folio":2,
+    "stemmed":"執 劍 手 無 力    失 之 而 怖 急  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0552b01_13",
+    "original":"念劍失亦然，　　地獄而在心。",
+    "folio":2,
+    "stemmed":"念 劍 失 亦 然    地 獄 而 在 心  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0552b02_0",
+    "original":"世間知善人，　　不肯飲毒血，",
+    "folio":2,
+    "stemmed":"世 間 知 善 人    不 肯 飲 毒 血  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0552b03_13",
+    "original":"心過亦復然，　　心過而不作。",
+    "folio":2,
+    "stemmed":"心 過 亦 復 然    心 過 而 不 作  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0552b04_0",
+    "original":"出家精進心，　　喻執持油鉢，",
+    "folio":2,
+    "stemmed":"出 家 精 進 心    喻 執 持 油 鉢  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0552b05_13",
+    "original":"鉢墜必當死，　　墜之故驚怖。",
+    "folio":2,
+    "stemmed":"鉢 墜 必 當 死    墜 之 故 驚 怖  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0552b06_0",
+    "original":"著睡眠懈怠，　　喻毒蛇在懷，",
+    "folio":2,
+    "stemmed":"著 睡 眠 懈 怠    喻 毒 蛇 在 懷  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0552b07_13",
+    "original":"不去當被傷，　　去之宜須急。",
+    "folio":2,
+    "stemmed":"不 去 當 被 傷    去 之 宜 須 急  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0552b08_0",
+    "original":"一一之深過，　　要迴心思惟，",
+    "folio":2,
+    "stemmed":"一 一 之 深 過    要 迴 心 思 惟  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0552b09_13",
+    "original":"此過不可守，　　云何我復作？",
+    "folio":2,
+    "stemmed":"此 過 不 可 守    云 何 我 復 作  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0552b10_0",
+    "original":"和合之業因，　　斷以正念劍，",
+    "folio":2,
+    "stemmed":"和 合 之 業 因    斷 以 正 念 劍  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0552b11_13",
+    "original":"云何名自位，　　此念而獲得？",
+    "folio":2,
+    "stemmed":"云 何 名 自 位    此 念 而 獲 得  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0552b12_0",
+    "original":"正念心不發，　　纖毫不能滅，",
+    "folio":2,
+    "stemmed":"正 念 心 不 發    纖 毫 不 能 滅  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0552b13_13",
+    "original":"來業如往行，　　一切報皆得。",
+    "folio":2,
+    "stemmed":"來 業 如 往 行    一 切 報 皆 得  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0552b14_0",
+    "original":"如彼覩羅綿，　　隨風而來往，",
+    "folio":2,
+    "stemmed":"如 彼 覩 羅 綿    隨 風 而 來 往  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0552b15_13",
+    "original":"精進人亦然，　　增上如是得。",
+    "folio":2,
+    "stemmed":"精 進 人 亦 然    增 上 如 是 得  "
+  },
+  {
+    "segmentnr":"ZH_T32_1662_002:0552b16_100",
+    "original":"菩提行經卷第二",
+    "folio":2,
+    "stemmed":"菩 提 行 經 卷 第 二 "
+  }
+]

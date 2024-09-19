@@ -1,0 +1,2570 @@
+[
+  {
+    "segmentnr":"ZH_T39_1793_001:0512c07_0",
+    "original":"溫室經義記",
+    "folio":1,
+    "stemmed":"溫 室 經 義 記 "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0512c09_0",
+    "original":"沙門釋慧遠撰",
+    "folio":1,
+    "stemmed":"沙 門 釋 慧 遠 撰 "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0512c10_0",
+    "original":"此經開首，須知六要：一、知教大小，教有二藏，",
+    "folio":1,
+    "stemmed":"此 經 開 首  須 知 六 要  一  知 教 大 小  教 有 二 藏  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0512c11_13",
+    "original":"備如常辨，此經大乘菩薩藏收。",
+    "folio":1,
+    "stemmed":"備 如 常 辨  此 經 大 乘 菩 薩 藏 收  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0512c13_11",
+    "original":"二、須知教局漸及頓，小教名局，大乘法中從小入者名之為漸，不藉小入名之為頓。",
+    "folio":1,
+    "stemmed":"二  須 知 教 局 漸 及 頓  小 教 名 局  大 乘 法 中 從 小 入 者 名 之 為 漸  不 藉 小 入 名 之 為 頓  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0512c13_16",
+    "original":"此經是漸。",
+    "folio":1,
+    "stemmed":"此 經 是 漸  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0512c14_14",
+    "original":"三、知教有三藏之別，此經是其修多羅藏。",
+    "folio":1,
+    "stemmed":"三  知 教 有 三 藏 之 別  此 經 是 其 修 多 羅 藏  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0512c15_10",
+    "original":"四、知經宗趣，此經福德檀行為宗。",
+    "folio":1,
+    "stemmed":"四  知 經 宗 趣  此 經 福 德 檀 行 為 宗  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0512c16_6",
+    "original":"五、知經名字，經名不同，備如常釋。",
+    "folio":1,
+    "stemmed":"五  知 經 名 字  經 名 不 同  備 如 常 釋  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0512c17_8",
+    "original":"今此經者，人法為名，佛是人也，說洗僧經是其法也。",
+    "folio":1,
+    "stemmed":"今 此 經 者  人 法 為 名  佛 是 人 也  說 洗 僧 經 是 其 法 也  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0512c17_19",
+    "original":"六、知說人，說有五種：",
+    "folio":1,
+    "stemmed":"六  知 說 人  說 有 五 種  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0512c19_13",
+    "original":"一者佛說、二聖弟子說、三諸天說、四神仙等說、五變化說，此經是其佛所說也。",
+    "folio":1,
+    "stemmed":"一 者 佛 說  二 聖 弟 子 說  三 諸 天 說  四 神 仙 等 說  五 變 化 說  此 經 是 其 佛 所 說 也  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0512c21_0",
+    "original":"　　　　　　　後漢安息三藏安世高譯",
+    "folio":1,
+    "stemmed":"       後 漢 安 息 三 藏 安 世 高 譯 "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0512c22_4",
+    "original":"次釋其名。",
+    "folio":1,
+    "stemmed":"次 釋 其 名  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0512c22_14",
+    "original":"初言佛者，標別說人。",
+    "folio":1,
+    "stemmed":"初 言 佛 者  標 別 說 人  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0512c23_3",
+    "original":"佛，外國語，此翻名覺。",
+    "folio":1,
+    "stemmed":"佛  外 國 語  此 翻 名 覺  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0512c23_8",
+    "original":"覺有兩義：",
+    "folio":1,
+    "stemmed":"覺 有 兩 義  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0512c23_18",
+    "original":"一者覺察，如人覺賊。",
+    "folio":1,
+    "stemmed":"一 者 覺 察  如 人 覺 賊  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0512c24_7",
+    "original":"二者覺悟，如人睦窹。",
+    "folio":1,
+    "stemmed":"二 者 覺 悟  如 人 睦 窹  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0512c25_1",
+    "original":"自覺覺他覺行窮滿，故稱為佛。",
+    "folio":1,
+    "stemmed":"自覺覺他 覺 行 窮 滿  故 稱 為 佛  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0512c25_6",
+    "original":"陳唱名說。",
+    "folio":1,
+    "stemmed":"陳 唱 名 說  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0512c25_16",
+    "original":"溫室洗浴，是所說也。",
+    "folio":1,
+    "stemmed":"溫 室 洗 浴  是 所 說 也  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0512c26_9",
+    "original":"和曘名溫，蔭障名室，此明洗處。",
+    "folio":1,
+    "stemmed":"和 曘 名 溫  蔭 障 名 室  此 明 洗 處  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0512c27_3",
+    "original":"備具七物，沐湯形垢，故曰洗浴。",
+    "folio":1,
+    "stemmed":"備 具 七 物  沐 湯 形 垢  故 曰 洗 浴  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0512c28_3",
+    "original":"但言洗浴即攝七物，此是說具，眾僧所洗。",
+    "folio":1,
+    "stemmed":"但 言 洗 浴 即 攝 七 物  此 是 說 具  眾 僧 所 洗  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0512c28_17",
+    "original":"外國正音名曰僧伽，此云和眾。",
+    "folio":1,
+    "stemmed":"外 國 正 音 名 曰 僧 伽  此 云 和 眾  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0512c29_15",
+    "original":"行德無乖名之為和，和者非一目之為眾。",
+    "folio":1,
+    "stemmed":"行 德 無 乖 名 之 為 和  和 者 非 一 目 之 為 眾  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513a01_15",
+    "original":"眾是漢名，僧是胡稱，胡漢并舉故曰眾僧。",
+    "folio":1,
+    "stemmed":"眾 是 漢 名  僧 是 胡 稱  胡 漢 并 舉 故 曰 眾 僧  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513a01_18",
+    "original":"問曰：",
+    "folio":1,
+    "stemmed":"問 曰  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513a03_3",
+    "original":"耆域請佛及僧溫室洗浴，今此何故偏言洗僧不論佛也？",
+    "folio":1,
+    "stemmed":"耆 域 請 佛 及 僧 溫 室 洗 浴  今 此 何 故 偏 言 洗 僧 不 論 佛 也  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513a03_8",
+    "original":"釋有三義。",
+    "folio":1,
+    "stemmed":"釋 有 三 義  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513a03_13",
+    "original":"一義釋云：",
+    "folio":1,
+    "stemmed":"一 義 釋 云  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513a04_7",
+    "original":"僧有二種，一、三歸僧，簡因異果。",
+    "folio":1,
+    "stemmed":"僧 有 二 種  一  三 歸 僧  簡 因 異 果  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513a04_18",
+    "original":"二、應供僧，佛亦在中。",
+    "folio":1,
+    "stemmed":"二  應 供 僧  佛 亦 在 中  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513a05_15",
+    "original":"今此所謂是應供僧，通攝如來，故不別說。",
+    "folio":1,
+    "stemmed":"今 此 所 謂 是 應 供 僧  通 攝 如 來  故 不 別 說  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513a06_17",
+    "original":"第二義者，所集之經流通末代，未來無佛故不說之。",
+    "folio":1,
+    "stemmed":"第 二 義 者  所 集 之 經 流 通 末 代  未 來 無 佛 故 不 說 之  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513a07_13",
+    "original":"第三義者，據施主心，佛僧通洗。",
+    "folio":1,
+    "stemmed":"第 三 義 者  據 施 主 心  佛 僧 通 洗  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513a08_17",
+    "original":"論其受者，僧有所須、佛則無假，今就受者，故云洗僧。",
+    "folio":1,
+    "stemmed":"論 其 受 者  僧 有 所 須  佛 則 無 假  今 就 受 者  故 云 洗 僧  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513a09_10",
+    "original":"經者，外國名修多羅，此翻名綖。",
+    "folio":1,
+    "stemmed":"經 者  外 國 名 修 多 羅  此 翻 名 綖  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513a10_1",
+    "original":"綖義似經，故存經稱。",
+    "folio":1,
+    "stemmed":"綖 義 似 經  故 存 經 稱  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513a11_4",
+    "original":"此經三分：",
+    "folio":1,
+    "stemmed":"此 經 三 分  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513a11_9",
+    "original":"初明由序；",
+    "folio":1,
+    "stemmed":"初 明 由 序  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513a11_19",
+    "original":"一心聽下，是其正宗；",
+    "folio":1,
+    "stemmed":"一 心 聽 下  是 其 正 宗  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513a12_12",
+    "original":"阿難白佛當何名下，是其流通。",
+    "folio":1,
+    "stemmed":"阿 難 白 佛 當 何 名 下  是 其 流 通  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513a12_17",
+    "original":"序有二種：",
+    "folio":1,
+    "stemmed":"序 有 二 種  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513a13_2",
+    "original":"一、發起序。",
+    "folio":1,
+    "stemmed":"一  發 起 序  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513a13_17",
+    "original":"佛將說經，先託時處，集眾起說。",
+    "folio":1,
+    "stemmed":"佛 將 說 經  先 託 時 處  集 眾 起 說  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513a14_2",
+    "original":"二、證信序。",
+    "folio":1,
+    "stemmed":"二  證 信 序  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513a15_6",
+    "original":"阿難將傳，先對眾生，言如是法我從佛聞，證成可信。",
+    "folio":1,
+    "stemmed":"阿 難 將 傳  先 對 眾 生  言 如 是 法 我 從 佛 聞  證 成 可 信  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513a15_20",
+    "original":"初阿難曰吾聞如是，是證信序。",
+    "folio":1,
+    "stemmed":"初 阿 難 曰 吾 聞 如 是  是 證 信 序  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513a16_9",
+    "original":"一時已下，義有兩兼：",
+    "folio":1,
+    "stemmed":"一 時 已 下  義 有 兩 兼  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513a16_19",
+    "original":"當時起說，名發起序；",
+    "folio":1,
+    "stemmed":"當 時 起 說  名 發 起 序  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513a17_11",
+    "original":"阿難引來證成信，名證信序。",
+    "folio":1,
+    "stemmed":"阿 難 引 來 證 成 信  名 證 信 序  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513a18_3",
+    "original":"阿難曰：",
+    "folio":1,
+    "stemmed":"阿 難 曰  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513a18_10",
+    "original":"吾從佛聞如是。",
+    "folio":1,
+    "stemmed":"吾 從 佛 聞 如 是  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513a19_5",
+    "original":"一時佛在摩竭提國因沙崛山中。",
+    "folio":1,
+    "stemmed":"一 時 佛 在 摩 竭 提 國 因 沙 崛 山 中  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513a20_14",
+    "original":"王舍城內有大長者奈女之子，名曰耆域，為大醫王，療治眾病。",
+    "folio":1,
+    "stemmed":"王 舍 城 內 有 大 長 者 奈 女 之 子  名 曰 耆 域  為 大 醫 王  療 治 眾 病  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513a21_13",
+    "original":"少小好學，才藝過通，智達五經、天文地理。",
+    "folio":1,
+    "stemmed":"少 小 好 學  才 藝 過 通  智 達 五 經  天 文 地 理  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513a22_12",
+    "original":"其所治者，莫不除愈，死者更生、喪車得還。",
+    "folio":1,
+    "stemmed":"其 所 治 者  莫 不 除 愈  死 者 更 生  喪 車 得 還  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513a23_11",
+    "original":"其德甚多，不可具陳，八國宗仰，見者歡喜。",
+    "folio":1,
+    "stemmed":"其 德 甚 多  不 可 具 陳  八 國 宗 仰  見 者 歡 喜  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513a23_20",
+    "original":"於是耆域夜欻生念：",
+    "folio":1,
+    "stemmed":"於 是 耆 域 夜 欻 生 念  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513a24_10",
+    "original":"「明至佛所，當問我疑。",
+    "folio":1,
+    "stemmed":" 明 至 佛 所  當 問 我 疑  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513a25_3",
+    "original":"」晨且勅家大小眷屬，嚴至佛所。",
+    "folio":1,
+    "stemmed":" 晨 且 勅 家 大 小 眷 屬  嚴 至 佛 所  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513a25_17",
+    "original":"到精舍門，見佛炳然光照天地。",
+    "folio":1,
+    "stemmed":"到 精 舍 門  見 佛 炳 然 光 照 天 地  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513a26_16",
+    "original":"眾生四輩數千萬人，佛為說法，一心靜聽。",
+    "folio":1,
+    "stemmed":"眾 生 四 輩 數 千 萬 人  佛 為 說 法  一 心 靜 聽  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513a27_15",
+    "original":"耆域眷屬下車直進，為佛作禮，各坐一面。",
+    "folio":1,
+    "stemmed":"耆 域 眷 屬 下 車 直 進  為 佛 作 禮  各 坐 一 面  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513a27_20",
+    "original":"佛慰勞曰：",
+    "folio":1,
+    "stemmed":"佛 慰 勞 曰  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513a28_5",
+    "original":"「善來醫王。",
+    "folio":1,
+    "stemmed":" 善 來 醫 王  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513a28_15",
+    "original":"欲有所問，莫得疑難。",
+    "folio":1,
+    "stemmed":"欲 有 所 問  莫 得 疑 難  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513a29_2",
+    "original":"」耆域長跪白佛言：",
+    "folio":1,
+    "stemmed":" 耆 域 長 跪 白 佛 言  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513b01_1",
+    "original":"「雖得生世，為人疎野，隨俗眾流，未曾為福。",
+    "folio":1,
+    "stemmed":" 雖 得 生 世  為 人 疎 野  隨 俗 眾 流  未 曾 為 福  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513b01_20",
+    "original":"今欲請佛，及僧、菩薩大士人，溫室澡浴。",
+    "folio":1,
+    "stemmed":"今 欲 請 佛  及 僧  菩薩大士 人  溫 室 澡 浴  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513b02_17",
+    "original":"願令眾生長夜清淨，穢垢消除，不遭眾患。",
+    "folio":1,
+    "stemmed":"願 令 眾 生 長 夜 清 淨  穢 垢 消 除  不 遭 眾 患  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513b03_7",
+    "original":"惟佛聖旨，不忽所願。",
+    "folio":1,
+    "stemmed":"惟 佛 聖 旨  不 忽 所 願  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513b03_13",
+    "original":"」佛告醫王：",
+    "folio":1,
+    "stemmed":" 佛 告 醫 王  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513b03_19",
+    "original":"「善哉妙意。",
+    "folio":1,
+    "stemmed":" 善 哉 妙 意  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513b04_6",
+    "original":"治眾人病，皆蒙除愈。",
+    "folio":1,
+    "stemmed":"治 眾 人 病  皆 蒙 除 愈  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513b04_17",
+    "original":"遠近慶賴，莫不復歡喜。",
+    "folio":1,
+    "stemmed":"遠 近 慶 賴  莫 不 復 歡 喜  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513b05_9",
+    "original":"今請佛及諸眾僧，人室洗浴。",
+    "folio":1,
+    "stemmed":"今 請 佛 及 諸 眾 僧  人 室 洗 浴  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513b06_3",
+    "original":"願及十方眾藥療疾，洗浴除垢。",
+    "folio":1,
+    "stemmed":"願 及 十 方 眾 藥 療 疾  洗 浴 除 垢  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513b06_8",
+    "original":"其福無量。",
+    "folio":1,
+    "stemmed":"其 福 無 量  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513b07_8",
+    "original":"」就初段中，言阿難者，標人別序，此名歡喜。",
+    "folio":1,
+    "stemmed":" 就 初 段 中  言 阿 難 者  標 人 別 序  此 名 歡 喜  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513b07_14",
+    "original":"曰，猶辭也。",
+    "folio":1,
+    "stemmed":"曰  猶 辭 也  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513b08_2",
+    "original":"吾聞如是，是證信辭。",
+    "folio":1,
+    "stemmed":"吾 聞 如 是  是 證 信 辭  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513b08_8",
+    "original":"吾，猶我也。",
+    "folio":1,
+    "stemmed":"吾  猶 我 也  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513b08_18",
+    "original":"阿難，彰已是能聞人。",
+    "folio":1,
+    "stemmed":"阿 難  彰 已 是 能 聞 人  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513b09_6",
+    "original":"言從佛者，出得聞處。",
+    "folio":1,
+    "stemmed":"言 從 佛 者  出 得 聞 處  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513b09_15",
+    "original":"如是者，是所聞法。",
+    "folio":1,
+    "stemmed":"如 是 者  是 所 聞 法  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513b09_20",
+    "original":"飡教曰聞。",
+    "folio":1,
+    "stemmed":"飡 教 曰 聞  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513b10_8",
+    "original":"佛語如法，名之為如。",
+    "folio":1,
+    "stemmed":"佛 語 如 法  名 之 為 如  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513b11_2",
+    "original":"如法之言，是當道理，故稱如是。",
+    "folio":1,
+    "stemmed":"如 法 之 言  是 當 道 理  故 稱 如 是  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513b12_5",
+    "original":"一時已下，雖有兩兼，對前證信，自下偏就發超以釋。",
+    "folio":1,
+    "stemmed":"一 時 已 下  雖 有 兩 兼  對 前 證 信  自 下 偏 就 發 超 以 釋  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513b12_15",
+    "original":"捨中人二，文別有六。",
+    "folio":1,
+    "stemmed":"捨 中 人 二  文 別 有 六  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513b13_12",
+    "original":"言人二者，一是化主、二耆域請主。",
+    "folio":1,
+    "stemmed":"言 人 二 者  一 是 化 主  二 耆 域 請 主  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513b14_2",
+    "original":"文別六者，一、明化主；",
+    "folio":1,
+    "stemmed":"文 別 六 者  一  明 化 主  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513b14_15",
+    "original":"二、王舍城下，明耆域請主；",
+    "folio":1,
+    "stemmed":"二  王 舍 城 下  明 耆 域 請 主  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513b15_8",
+    "original":"三、夜欻念下，明其耆域啟請方便；",
+    "folio":1,
+    "stemmed":"三  夜 欻 念 下  明 其 耆 域 啟 請 方 便  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513b16_4",
+    "original":"四、佛慰勞下，明佛化主安慰聽問；",
+    "folio":1,
+    "stemmed":"四  佛 慰 勞 下  明 佛 化 主 安 慰 聽 問  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513b16_16",
+    "original":"五、耆域白下，耆域正請。",
+    "folio":1,
+    "stemmed":"五  耆 域 白 下  耆 域 正 請  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513b17_6",
+    "original":"六、佛告醫下，如來述讚。",
+    "folio":1,
+    "stemmed":"六  佛 告 醫 下  如 來 述 讚  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513b18_4",
+    "original":"六中初二以為一對，次二一對，後二一對。",
+    "folio":1,
+    "stemmed":"六 中 初 二 以 為 一 對  次 二 一 對  後 二 一 對  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513b18_19",
+    "original":"就初段中，言一時者，為化時也。",
+    "folio":1,
+    "stemmed":"就 初 段 中  言 一 時 者  為 化 時 也  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513b19_13",
+    "original":"化時寬濫，簡別餘時，是故言一。",
+    "folio":1,
+    "stemmed":"化 時 寬 濫  簡 別 餘 時  是 故 言 一  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513b20_7",
+    "original":"所言佛者，為化人也，佛如前釋。",
+    "folio":1,
+    "stemmed":"所 言 佛 者  為 化 人 也  佛 如 前 釋  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513b20_17",
+    "original":"在摩竭下，為化處也。",
+    "folio":1,
+    "stemmed":"在 摩 竭 下  為 化 處 也  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513b21_20",
+    "original":"摩竭提國，就寬通舉，此云不害，因沙崛山隨別以指。",
+    "folio":1,
+    "stemmed":"摩 竭 提 國  就 寬 通 舉  此 云 不 害  因 沙 崛 山 隨 別 以 指  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513b23_3",
+    "original":"此猶經中祇闍崛山，傳之音異，此方名為靈鷲山也。",
+    "folio":1,
+    "stemmed":"此 猶 經 中 祇 闍 崛 山  傳 之 音 異  此 方 名 為 靈 鷲 山 也  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513b23_18",
+    "original":"第二段中，先標其人、後嘆其德。",
+    "folio":1,
+    "stemmed":"第 二 段 中  先 標 其 人  後 嘆 其 德  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513b24_11",
+    "original":"前標人中，王舍城內出其住處。",
+    "folio":1,
+    "stemmed":"前 標 人 中  王 舍 城 內 出 其 住 處  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513b25_6",
+    "original":"此城古昔多有王住，名王舍城。",
+    "folio":1,
+    "stemmed":"此 城 古 昔 多 有 王 住  名 王 舍 城  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513b25_16",
+    "original":"有大長者，彰其人德。",
+    "folio":1,
+    "stemmed":"有 大 長 者  彰 其 人 德  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513b26_3",
+    "original":"標時望，故號長者。",
+    "folio":1,
+    "stemmed":"標 時 望  故 號 長 者  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513b27_1",
+    "original":"㮈女之子，片其休，此事如彼《㮈女經》說。",
+    "folio":1,
+    "stemmed":"㮈 女 之 子  片 其 休  此 事 如 彼  㮈 女 經  說  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513b27_10",
+    "original":"名曰耆域，辨其諱。",
+    "folio":1,
+    "stemmed":"名 曰 耆 域  辨 其 諱  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513b28_3",
+    "original":"此名長命，長命因緣亦如經說。",
+    "folio":1,
+    "stemmed":"此 名 長 命  長 命 因 緣 亦 如 經 說  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513b28_8",
+    "original":"下嘆其德。",
+    "folio":1,
+    "stemmed":"下 嘆 其 德  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513b28_13",
+    "original":"初先正嘆。",
+    "folio":1,
+    "stemmed":"初 先 正 嘆  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513b29_7",
+    "original":"八國宗下，舉世驚喜，顯德高勝。",
+    "folio":1,
+    "stemmed":"八 國 宗 下  舉 世 驚 喜  顯 德 高 勝  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513b29_17",
+    "original":"前正嘆中，文別有四：",
+    "folio":1,
+    "stemmed":"前 正 嘆 中  文 別 有 四  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513c01_1",
+    "original":"一、嘆醫能；",
+    "folio":1,
+    "stemmed":"一  嘆 醫 能  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513c01_12",
+    "original":"二、少學下，嘆其餘德；",
+    "folio":1,
+    "stemmed":"二  少 學 下  嘆 其 餘 德  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513c02_1",
+    "original":"三、其所治下，顯前第一；",
+    "folio":1,
+    "stemmed":"三  其 所 治 下  顯 前 第 一  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513c02_13",
+    "original":"曰、其德多下，顯前第二。",
+    "folio":1,
+    "stemmed":"曰  其 德 多 下  顯 前 第 二  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513c03_6",
+    "original":"初嘆醫中，為大醫王，醫自在也。",
+    "folio":1,
+    "stemmed":"初 嘆 醫 中  為 大 醫 王  醫 自 在 也  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513c03_16",
+    "original":"治眾人病，醫療廣也。",
+    "folio":1,
+    "stemmed":"治 眾 人 病  醫 療 廣 也  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513c04_9",
+    "original":"嘆餘德中，先嘆學心、後嘆所成。",
+    "folio":1,
+    "stemmed":"嘆 餘 德 中  先 嘆 學 心  後 嘆 所 成  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513c04_19",
+    "original":"少小好學，嘆學心也。",
+    "folio":1,
+    "stemmed":"少 小 好 學  嘆 學 心 也  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513c05_8",
+    "original":"幼而翫道，名少小學。",
+    "folio":1,
+    "stemmed":"幼 而 翫 道  名 少 小 學  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513c05_18",
+    "original":"才藝過等，嘆所成也。",
+    "folio":1,
+    "stemmed":"才 藝 過 等  嘆 所 成 也  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513c06_2",
+    "original":"於中有二：",
+    "folio":1,
+    "stemmed":"於 中 有 二  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513c06_12",
+    "original":"初才藝過通，嘆其能。",
+    "folio":1,
+    "stemmed":"初 才 藝 過 通  嘆 其 能  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513c07_6",
+    "original":"外國具有六十四能，今略舉之。",
+    "folio":1,
+    "stemmed":"外 國 具 有 六 十 四 能  今 略 舉 之  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513c07_13",
+    "original":"匡時之德名歲。",
+    "folio":1,
+    "stemmed":"匡 時 之 德 名 歲  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513c08_1",
+    "original":"隨身之伎曰藝。",
+    "folio":1,
+    "stemmed":"隨 身 之 伎 曰 藝  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513c09_1",
+    "original":"才謂三才，行上應天，下狹於地，中和人情。",
+    "folio":1,
+    "stemmed":"才 謂 三 才  行 上 應 天  下 狹 於 地  中 和 人 情  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513c09_11",
+    "original":"藝是六藝，謂書數等。",
+    "folio":1,
+    "stemmed":"藝 是 六 藝  謂 書 數 等  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513c10_6",
+    "original":"於此才藝博練有餘，故曰過通。",
+    "folio":1,
+    "stemmed":"於 此 才 藝 博 練 有 餘  故 曰 過 通  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513c10_15",
+    "original":"二智達下，嘆其智。",
+    "folio":1,
+    "stemmed":"二 智 達 下  嘆 其 智  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513c11_2",
+    "original":"智達五經，善其文。",
+    "folio":1,
+    "stemmed":"智 達 五 經  善 其 文  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513c11_17",
+    "original":"五明論法，名為五經，非書詩等。",
+    "folio":1,
+    "stemmed":"五 明 論 法  名 為 五 經  非 書 詩 等  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513c12_5",
+    "original":"天文地理，識其事。",
+    "folio":1,
+    "stemmed":"天 文 地 理  識 其 事  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513c13_8",
+    "original":"下重顯前第一段中，其所治者莫不除愈，明醫善也。",
+    "folio":1,
+    "stemmed":"下 重 顯 前 第 一 段 中  其 所 治 者 莫 不 除 愈  明 醫 善 也  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513c13_13",
+    "original":"廣如律經。",
+    "folio":1,
+    "stemmed":"廣 如 律 經  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513c14_7",
+    "original":"死者更生、喪車得還，略顯一相。",
+    "folio":1,
+    "stemmed":"死 者 更 生  喪 車 得 還  略 顯 一 相  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513c15_14",
+    "original":"如律中，𤘽睒彌國有長者子，輪上遊戲，脚跌倒地，腹結而死。",
+    "folio":1,
+    "stemmed":"如 律 中  𤘽 睒 彌 國 有 長 者 子  輪 上 遊 戲  脚 跌 倒 地  腹 結 而 死  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513c16_3",
+    "original":"家命耆域為之救療。",
+    "folio":1,
+    "stemmed":"家 命 耆 域 為 之 救 療  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513c16_13",
+    "original":"耆域未至，童子已死。",
+    "folio":1,
+    "stemmed":"耆 域 未 至  童 子 已 死  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513c17_7",
+    "original":"其家親屬車載哭隨，送至殯所。",
+    "folio":1,
+    "stemmed":"其 家 親 屬 車 載 哭 隨  送 至 殯 所  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513c18_7",
+    "original":"耆域善聲論，遙聞哭音即知不死，呼之令還。",
+    "folio":1,
+    "stemmed":"耆 域 善 聲 論  遙 聞 哭 音 即 知 不 死  呼 之 令 還  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513c19_1",
+    "original":"破腹解脹，繚合藥拊，少時還活。",
+    "folio":1,
+    "stemmed":"破 腹 解 脹  繚 合 藥 拊  少 時 還 活  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513c19_6",
+    "original":"故今舉之。",
+    "folio":1,
+    "stemmed":"故 今 舉 之  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513c20_7",
+    "original":"以醫善下，重顯前第二段中，其德甚多不可陳者。",
+    "folio":1,
+    "stemmed":"以 醫 善 下  重 顯 前 第 二 段 中  其 德 甚 多 不 可 陳 者  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513c21_2",
+    "original":"彼才藝等隨別，廣論不可盡也。",
+    "folio":1,
+    "stemmed":"彼 才 藝 等 隨 別  廣 論 不 可 盡 也  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513c21_7",
+    "original":"上來正嘆。",
+    "folio":1,
+    "stemmed":"上 來 正 嘆  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513c22_1",
+    "original":"下舉八國同共驚喜，顯德高勝。",
+    "folio":1,
+    "stemmed":"下 舉 八 國 同 共 驚 喜  顯 德 高 勝  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513c22_15",
+    "original":"八國宗仰，顯前文中其德多也。",
+    "folio":1,
+    "stemmed":"八 國 宗 仰  顯 前 文 中 其 德 多 也  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513c23_8",
+    "original":"見者歡喜，顯前所治莫不愈也。",
+    "folio":1,
+    "stemmed":"見 者 歡 喜  顯 前 所 治 莫 不 愈 也  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513c23_18",
+    "original":"有患皆類，誰見不喜？",
+    "folio":1,
+    "stemmed":"有 患 皆 類  誰 見 不 喜  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513c24_11",
+    "original":"自下第三明其耆域啟請方便。",
+    "folio":1,
+    "stemmed":"自 下 第 三 明 其 耆 域 啟 請 方 便  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513c25_2",
+    "original":"於中初意、次口、後身。",
+    "folio":1,
+    "stemmed":"於 中 初 意  次 口  後 身  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513c25_16",
+    "original":"夜欻生念明問我疑，意方便也。",
+    "folio":1,
+    "stemmed":"夜 欻 生 念 明 問 我 疑  意 方 便 也  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513c26_13",
+    "original":"盡昏靜，託彼靜時以興福心，故夜生念。",
+    "folio":1,
+    "stemmed":"盡 昏 靜  託 彼 靜 時 以 興 福 心  故 夜 生 念  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513c27_8",
+    "original":"福心先無，今時迅起，故云欻生。",
+    "folio":1,
+    "stemmed":"福 心 先 無  今 時 迅 起  故 云 欻 生  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513c27_18",
+    "original":"遲曉請決，故自念言：",
+    "folio":1,
+    "stemmed":"遲 曉 請 決  故 自 念 言  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513c28_7",
+    "original":"明至佛所，當問我疑。",
+    "folio":1,
+    "stemmed":"明 至 佛 所  當 問 我 疑  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513c28_17",
+    "original":"晨旦勅家，口方便也。",
+    "folio":1,
+    "stemmed":"晨 旦 勅 家  口 方 便 也  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0513c29_15",
+    "original":"耆域善巧，欲以道法齊潤家親，故演勅家。",
+    "folio":1,
+    "stemmed":"耆 域 善 巧  欲 以 道 法 齊 潤 家 親  故 演 勅 家  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a01_9",
+    "original":"大小眷屬嚴至已下，身方便也。",
+    "folio":1,
+    "stemmed":"大 小 眷 屬 嚴 至 已 下  身 方 便 也  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a01_14",
+    "original":"於中三句：",
+    "folio":1,
+    "stemmed":"於 中 三 句  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a01_21",
+    "original":"一、嚴駕詣佛。",
+    "folio":1,
+    "stemmed":"一  嚴 駕 詣 佛  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a02_13",
+    "original":"佛僧住處精靜之室，通名精舍。",
+    "folio":1,
+    "stemmed":"佛 僧 住 處 精 靜 之 室  通 名 精 舍  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a03_1",
+    "original":"二、到已得見佛。",
+    "folio":1,
+    "stemmed":"二  到 已 得 見 佛  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a03_14",
+    "original":"佛炳然光照天地，正見佛身。",
+    "folio":1,
+    "stemmed":"佛 炳 然 光 照 天 地  正 見 佛 身  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a04_3",
+    "original":"身相顯著，故曰炳然。",
+    "folio":1,
+    "stemmed":"身 相 顯 著  故 曰 炳 然  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a04_13",
+    "original":"神暉洞朗，名照天地。",
+    "folio":1,
+    "stemmed":"神 暉 洞 朗  名 照 天 地  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a05_7",
+    "original":"眾坐四輩，數千萬人，兼覩其眾。",
+    "folio":1,
+    "stemmed":"眾 坐 四 輩  數 千 萬 人  兼 覩 其 眾  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a05_17",
+    "original":"佛為說法，見佛所為。",
+    "folio":1,
+    "stemmed":"佛 為 說 法  見 佛 所 為  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a06_6",
+    "original":"一心靜聽，覩眾所作。",
+    "folio":1,
+    "stemmed":"一 心 靜 聽  覩 眾 所 作  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a06_13",
+    "original":"三、見已設敬。",
+    "folio":1,
+    "stemmed":"三  見 已 設 敬  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a07_1",
+    "original":"下車直進，趣佛心專。",
+    "folio":1,
+    "stemmed":"下 車 直 進  趣 佛 心 專  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a07_11",
+    "original":"到已作禮，申已受敬。",
+    "folio":1,
+    "stemmed":"到 已 作 禮  申 已 受 敬  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a08_1",
+    "original":"各坐一面，自然安而聽。",
+    "folio":1,
+    "stemmed":"各 坐 一 面  自 然 安 而 聽  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a08_15",
+    "original":"自下第四，明其如來安慰聽問。",
+    "folio":1,
+    "stemmed":"自 下 第 四  明 其 如 來 安 慰 聽 問  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a09_9",
+    "original":"佛慰勞曰善來醫王，安其心也。",
+    "folio":1,
+    "stemmed":"佛 慰 勞 曰 善 來 醫 王  安 其 心 也  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a10_7",
+    "original":"慰是安慰，勞是勞睞，嘆其來好故曰善來。",
+    "folio":1,
+    "stemmed":"慰 是 安 慰  勞 是 勞 睞  嘆 其 來 好 故 曰 善 來  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a10_17",
+    "original":"欲問莫疑，聽其問也。",
+    "folio":1,
+    "stemmed":"欲 問 莫 疑  聽 其 問 也  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a11_6",
+    "original":"自下第五耆域正請。",
+    "folio":1,
+    "stemmed":"自 下 第 五 耆 域 正 請  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a11_11",
+    "original":"於中四句：",
+    "folio":1,
+    "stemmed":"於 中 四 句  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a12_13",
+    "original":"一展情疎、二請洗事、三因事興願、四請佛述成。",
+    "folio":1,
+    "stemmed":"一 展 情 疎  二 請 洗 事  三 因 事 興 願  四 請 佛 述 成  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a13_7",
+    "original":"從初乃至未曾為福，是第一句。",
+    "folio":1,
+    "stemmed":"從 初 乃 至 未 曾 為 福  是 第 一 句  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a14_1",
+    "original":"言雖得者，得生人中而無福善。",
+    "folio":1,
+    "stemmed":"言 雖 得 者  得 生 人 中 而 無 福 善  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a14_11",
+    "original":"辨得兼失，故曰雖矣。",
+    "folio":1,
+    "stemmed":"辨 得 兼 失  故 曰 雖 矣  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a15_10",
+    "original":"情禾親道目之為疎，常流俗裏說之為野。",
+    "folio":1,
+    "stemmed":"情 禾 親 道 目 之 為 疎  常 流 俗 裏 說 之 為 野  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a15_19",
+    "original":"隨俗眾流，顯前野。",
+    "folio":1,
+    "stemmed":"隨 俗 眾 流  顯 前 野  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a16_7",
+    "original":"未曾為福，彰前疎。",
+    "folio":1,
+    "stemmed":"未 曾 為 福  彰 前 疎  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a17_1",
+    "original":"今欲請佛及僧洗浴，是第二句。",
+    "folio":1,
+    "stemmed":"今 欲 請 佛 及 僧 洗 浴  是 第 二 句  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a17_11",
+    "original":"願令已下，是第三句。",
+    "folio":1,
+    "stemmed":"願 令 已 下  是 第 三 句  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a18_4",
+    "original":"願令眾生長夜清淨，離煩惱也。",
+    "folio":1,
+    "stemmed":"願 令 眾 生 長 夜 清 淨  離 煩 惱 也  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a18_14",
+    "original":"穢垢消除，離惡業也。",
+    "folio":1,
+    "stemmed":"穢 垢 消 除  離 惡 業 也  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a19_3",
+    "original":"不遭眾患，離苦報也。",
+    "folio":1,
+    "stemmed":"不 遭 眾 患  離 苦 報 也  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a19_13",
+    "original":"唯佛聖下，是第四句。",
+    "folio":1,
+    "stemmed":"唯 佛 聖 下  是 第 四 句  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a20_2",
+    "original":"唯者，是其專獨之辭。",
+    "folio":1,
+    "stemmed":"唯 者  是 其 專 獨 之 辭  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a20_7",
+    "original":"旨謂意旨。",
+    "folio":1,
+    "stemmed":"旨 謂 意 旨  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a20_12",
+    "original":"忽謂忽輕。",
+    "folio":1,
+    "stemmed":"忽 謂 忽 輕  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a21_5",
+    "original":"耆域啟請專，願佛意不輕已願。",
+    "folio":1,
+    "stemmed":"耆 域 啟 請 專  願 佛 意 不 輕 已 願  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a21_14",
+    "original":"自下第六如來述讚。",
+    "folio":1,
+    "stemmed":"自 下 第 六 如 來 述 讚  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a22_3",
+    "original":"善載，總嘆耆域。",
+    "folio":1,
+    "stemmed":"善 載  總 嘆 耆 域  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a22_15",
+    "original":"前作唯好名善，載是助辭。",
+    "folio":1,
+    "stemmed":"前 作 唯 好 名 善  載 是 助 辭  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a23_1",
+    "original":"妙意下，別。",
+    "folio":1,
+    "stemmed":"妙 意 下  別  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a23_6",
+    "original":"別中三句：",
+    "folio":1,
+    "stemmed":"別 中 三 句  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a23_16",
+    "original":"一者妙意，嘆前願心。",
+    "folio":1,
+    "stemmed":"一 者 妙 意  嘆 前 願 心  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a24_14",
+    "original":"此乃菩薩廣大之意，超出餘願，故曰妙意。",
+    "folio":1,
+    "stemmed":"此 乃 菩 薩 廣 大 之 意  超 出 餘 願  故 曰 妙 意  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a25_4",
+    "original":"二、治病皆愈，嘆前醫療。",
+    "folio":1,
+    "stemmed":"二  治 病 皆 愈  嘆 前 醫 療  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a26_3",
+    "original":"前諸德中，醫救物苦，濟世之要，故偏嘆之。",
+    "folio":1,
+    "stemmed":"前 諸 德 中  醫 救 物 苦  濟 世 之 要  故 偏 嘆 之  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a27_2",
+    "original":"三、復請佛及僧洗浴，嘆前所請洗浴之事。",
+    "folio":1,
+    "stemmed":"三  復 請 佛 及 僧 洗 浴  嘆 前 所 請 洗 浴 之 事  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a27_7",
+    "original":"下牒結嘆。",
+    "folio":1,
+    "stemmed":"下 牒 結 嘆  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a27_17",
+    "original":"願及十方，牒前妙意。",
+    "folio":1,
+    "stemmed":"願 及 十 方  牒 前 妙 意  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a28_6",
+    "original":"眾藥療疾，牒上治病。",
+    "folio":1,
+    "stemmed":"眾 藥 療 疾  牒 上 治 病  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a28_16",
+    "original":"洗浴除垢，牒前洗僧。",
+    "folio":1,
+    "stemmed":"洗 浴 除 垢  牒 前 洗 僧  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a29_4",
+    "original":"其福無量，總結嘆也。",
+    "folio":1,
+    "stemmed":"其 福 無 量  總 結 嘆 也  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514a29_14",
+    "original":"上來序說，下次正宗。",
+    "folio":1,
+    "stemmed":"上 來 序 說  下 次 正 宗  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514b02_1",
+    "original":"「一心聽法，吾當為汝先說澡浴眾僧及報之福。",
+    "folio":1,
+    "stemmed":" 一 心 聽 法  吾 當 為 汝 先 說 澡 浴 眾 僧 及 報 之 福  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514b02_7",
+    "original":"」佛告耆域：",
+    "folio":1,
+    "stemmed":" 佛 告 耆 域  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514b03_6",
+    "original":"「澡浴之法，當用七物，除去七病，得七福報。",
+    "folio":1,
+    "stemmed":" 澡 浴 之 法  當 用 七 物  除 去 七 病  得 七 福 報  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514b03_11",
+    "original":"何謂七物？",
+    "folio":1,
+    "stemmed":"何 謂 七 物  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514b05_13",
+    "original":"一者然火、二者淨水、三者澡豆、四者酥膏、五者淳灰、六者楊枝、七者內衣，此是澡浴之法。",
+    "folio":1,
+    "stemmed":"一 者 然 火  二 者 淨 水  三 者 澡 豆  四 者 酥 膏  五 者 淳 灰  六 者 楊 枝  七 者 內 衣  此 是 澡 浴 之 法  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514b05_19",
+    "original":"何謂除七病？",
+    "folio":1,
+    "stemmed":"何 謂 除 七 病  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514b08_15",
+    "original":"一者四大安隱、二者除風病、三者除濕痺、四者除寒氷、五者除熱氣、六者除垢穢、七者身體輕便眼目精明，是為除眾僧七病。",
+    "folio":1,
+    "stemmed":"一 者 四 大 安 隱  二 者 除 風 病  三 者 除 濕 痺  四 者 除 寒 氷  五 者 除 熱 氣  六 者 除 垢 穢  七 者 身 體 輕 便 眼 目 精 明  是 為 除 眾 僧 七 病  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514b09_6",
+    "original":"如是供養，便得七福。",
+    "folio":1,
+    "stemmed":"如 是 供 養  便 得 七 福  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514b09_11",
+    "original":"何謂七福？",
+    "folio":1,
+    "stemmed":"何 謂 七 福  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514b10_12",
+    "original":"一者四大無病，所生常安，勇武丁健，眾所敬仰。",
+    "folio":1,
+    "stemmed":"一 者 四 大 無 病  所 生 常 安  勇 武 丁 健  眾 所 敬 仰  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514b11_13",
+    "original":"二者所生清淨，面貌端正，塵水不著，為人所敬。",
+    "folio":1,
+    "stemmed":"二 者 所 生 清 淨  面 貌 端 正  塵 水 不 著  為 人 所 敬  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514b12_14",
+    "original":"三者身體常香，衣服潔淨，見者歡喜，莫不欽敬。",
+    "folio":1,
+    "stemmed":"三 者 身 體 常 香  衣 服 潔 淨  見 者 歡 喜  莫 不 欽 敬  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514b13_16",
+    "original":"四者肌體潤澤，威光德大，莫不敬歎，獨步無雙。",
+    "folio":1,
+    "stemmed":"四 者 肌 體 潤 澤  威 光 德 大  莫 不 敬 歎  獨 步 無 雙  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514b14_17",
+    "original":"五者多饒人從，拂拭塵垢，自然受福，常識宿命。",
+    "folio":1,
+    "stemmed":"五 者 多 饒 人 從  拂 拭 塵 垢  自 然 受 福  常 識 宿 命  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514b15_17",
+    "original":"六者口齒好香，方白齊平，所說教令莫不肅用。",
+    "folio":1,
+    "stemmed":"六 者 口 齒 好 香  方 白 齊 平  所 說 教 令 莫 不 肅 用  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514b16_18",
+    "original":"七者所生之處，自然衣裳光飾珍寶，見者悚息。",
+    "folio":1,
+    "stemmed":"七 者 所 生 之 處  自 然 衣 裳 光 飾 珍 寶  見 者 悚 息  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514b17_3",
+    "original":"」佛告耆域：",
+    "folio":1,
+    "stemmed":" 佛 告 耆 域  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514b17_18",
+    "original":"「作此洗浴眾僧開士，七福如是。",
+    "folio":1,
+    "stemmed":" 作 此 洗 浴 眾 僧 開 士  七 福 如 是  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514b20_2",
+    "original":"從此因緣，或為人臣、或為帝王、或為日月四天神王、或為帝釋、或為轉輪聖王、或為梵天，受福難量。",
+    "folio":1,
+    "stemmed":"從 此 因 緣  或 為 人 臣  或 為 帝 王  或 為 日 月 四 天 神 王  或 為 帝 釋  或 為 轉輪聖王  或 為 梵 天  受 福 難 量  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514b21_1",
+    "original":"或為菩薩，發意治地，功成志就，遂致作佛。",
+    "folio":1,
+    "stemmed":"或 為 菩 薩  發 意 治 地  功 成 志 就  遂 致 作 佛  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514b21_18",
+    "original":"斯之因供養眾僧無量福田，旱澇不傷。",
+    "folio":1,
+    "stemmed":"斯 之 因 供 養 眾 僧 無 量 福 田  旱 澇 不 傷  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514b22_8",
+    "original":"」於中初先勅聽許說。",
+    "folio":1,
+    "stemmed":" 於 中 初 先 勅 聽 許 說  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514b22_18",
+    "original":"一心聽法，是勅聽也。",
+    "folio":1,
+    "stemmed":"一 心 聽 法  是 勅 聽 也  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514b23_8",
+    "original":"當為汝說，是許說也。",
+    "folio":1,
+    "stemmed":"當 為 汝 說  是 許 說 也  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514b25_10",
+    "original":"先說洗僧及報福者，前說發願治病洗僧福皆無量，三種福中，今此先說洗僧之福，故曰先說。",
+    "folio":1,
+    "stemmed":"先 說 洗 僧 及 報 福 者  前 說 發 願 治 病 洗 僧 福 皆 無 量  三 種 福 中  今 此 先 說 洗 僧 之 福  故 曰 先 說  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514b26_4",
+    "original":"施功於僧，福還歸已，故曰反報。",
+    "folio":1,
+    "stemmed":"施 功 於 僧  福 還 歸 已  故 曰 反 報  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514b26_14",
+    "original":"下正為說，先開三門。",
+    "folio":1,
+    "stemmed":"下 正 為 說  先 開 三 門  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514b27_13",
+    "original":"洗浴之法當用七物，是第一門，洗僧之具。",
+    "folio":1,
+    "stemmed":"洗 浴 之 法 當 用 七 物  是 第 一 門  洗 僧 之 具  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514b28_7",
+    "original":"除去七病，是第二門，七物之能。",
+    "folio":1,
+    "stemmed":"除 去 七 病  是 第 二 門  七 物 之 能  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514b29_1",
+    "original":"得七福報，是第三門，洗僧之益。",
+    "folio":1,
+    "stemmed":"得 七 福 報  是 第 三 門  洗 僧 之 益  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514b29_6",
+    "original":"下廣辨之。",
+    "folio":1,
+    "stemmed":"下 廣 辨 之  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514c01_1",
+    "original":"廣初門中，先門起發、次列、後結。",
+    "folio":1,
+    "stemmed":"廣 初 門 中  先 門 起 發  次 列  後 結  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514c01_16",
+    "original":"廣第二中，亦先牒問、次辨其相。",
+    "folio":1,
+    "stemmed":"廣 第 二 中  亦 先 牒 問  次 辨 其 相  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514c02_15",
+    "original":"四大安穩，是內衣能，衣𦿔形醜故得安隱。",
+    "folio":1,
+    "stemmed":"四 大 安 穩  是 內 衣 能  衣 𦿔 形 醜 故 得 安 隱  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514c03_4",
+    "original":"除風病者，是淳灰能。",
+    "folio":1,
+    "stemmed":"除 風 病 者  是 淳 灰 能  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514c03_14",
+    "original":"除濕痺者，是蘇膏能。",
+    "folio":1,
+    "stemmed":"除 濕 痺 者  是 蘇 膏 能  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514c04_3",
+    "original":"除寒水者，是燃火能。",
+    "folio":1,
+    "stemmed":"除 寒 水 者  是 燃 火 能  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514c04_14",
+    "original":"能除熱氣者，是楊枝能。",
+    "folio":1,
+    "stemmed":"能 除 熱 氣 者  是 楊 枝 能  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514c05_2",
+    "original":"除穢者，是澡豆能。",
+    "folio":1,
+    "stemmed":"除 穢 者  是 澡 豆 能  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514c05_12",
+    "original":"身體輕者，是淨水能。",
+    "folio":1,
+    "stemmed":"身 體 輕 者  是 淨 水 能  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514c05_17",
+    "original":"是為下結。",
+    "folio":1,
+    "stemmed":"是 為 下 結  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514c06_16",
+    "original":"廣第三中，初先直說、次以偈頌、後重釋疑。",
+    "folio":1,
+    "stemmed":"廣 第 三 中  初 先 直 說  次 以 偈 頌  後 重 釋 疑  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514c07_14",
+    "original":"前直說中，初先廣辨洗僧福報斯之因由；",
+    "folio":1,
+    "stemmed":"前 直 說 中  初 先 廣 辨 洗 僧 福 報 斯 之 因 由  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514c08_4",
+    "original":"供養已下，結嘆僧田。",
+    "folio":1,
+    "stemmed":"供 養 已 下  結 嘆 僧 田  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514c08_13",
+    "original":"前中先明七種福報。",
+    "folio":1,
+    "stemmed":"前 中 先 明 七 種 福 報  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514c09_13",
+    "original":"從此因緣或為人已下，明前七報受之處所。",
+    "folio":1,
+    "stemmed":"從 此 因 緣 或 為 人 已 下  明 前 七 報 受 之 處 所  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514c10_12",
+    "original":"又復前段明七物果，後段明其洗心之果。",
+    "folio":1,
+    "stemmed":"又 復 前 段 明 七 物 果  後 段 明 其 洗 心 之 果  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514c11_11",
+    "original":"就初段中，如是供養得七福報，總以標舉。",
+    "folio":1,
+    "stemmed":"就 初 段 中  如 是 供 養 得 七 福 報  總 以 標 舉  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514c12_1",
+    "original":"何謂已下，別明七報。",
+    "folio":1,
+    "stemmed":"何 謂 已 下  別 明 七 報  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514c12_19",
+    "original":"七中皆初正辨報體、後舉人敬顯報殊勝。",
+    "folio":1,
+    "stemmed":"七 中 皆 初 正 辨 報 體  後 舉 人 敬 顯 報 殊 勝  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514c16_4",
+    "original":"初一是其燃火之報，第二是其淨水報，第三是其澡豆之報，第四是其蘇󱡐果報，第五是其淳灰果報，第六是其楊枝果報，第七是其內衣果報。",
+    "folio":1,
+    "stemmed":"初 一 是 其 燃 火 之 報  第 二 是 其 淨 水 報  第 三 是 其 澡 豆 之 報  第 四 是 其 蘇  果 報  第 五 是 其 淳 灰 果 報  第 六 是 其 楊 枝 果 報  第 七 是 其 內 衣 果 報  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514c16_9",
+    "original":"下總結之。",
+    "folio":1,
+    "stemmed":"下 總 結 之  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514c16_14",
+    "original":"開者名大。",
+    "folio":1,
+    "stemmed":"開 者 名 大  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514c17_15",
+    "original":"士謂士夫，人之別稱，故舊翻經名菩薩以為開士。",
+    "folio":1,
+    "stemmed":"士 謂 士 夫  人 之 別 稱  故 舊 翻 經 名 菩 薩 以 為 開 士  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514c19_1",
+    "original":"佛告耆域，仰作此七物，洗浴眾僧大士，所得七福如是。",
+    "folio":1,
+    "stemmed":"佛 告 耆 域  仰 作 此 七 物  洗 浴 眾 僧 大 士  所 得 七 福 如 是  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514c20_5",
+    "original":"上明報體，下明七報受之處所，所謂在人天乃至佛身。",
+    "folio":1,
+    "stemmed":"上 明 報 體  下 明 七 報 受 之 處 所  所 謂 在 人 天 乃 至 佛 身  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514c21_4",
+    "original":"又復上來明七物果，下次明其洗心之果。",
+    "folio":1,
+    "stemmed":"又 復 上 來 明 七 物 果  下 次 明 其 洗 心 之 果  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514c21_14",
+    "original":"洗心有四，得報各異：",
+    "folio":1,
+    "stemmed":"洗 心 有 四  得 報 各 異  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514c23_11",
+    "original":"一為世間五欲果報、二為世間離欲果報、三為出世小乘果報、四為出世大乘果報。",
+    "folio":1,
+    "stemmed":"一 為 世 間 五 欲 果 報  二 為 世間離欲 果 報  三 為 出 世 小 乘 果 報  四 為 出 世 大 乘 果 報  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514c24_5",
+    "original":"初至輪王，是求欲心所得果也。",
+    "folio":1,
+    "stemmed":"初 至 輪 王  是 求 欲 心 所 得 果 也  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514c25_18",
+    "original":"求欲之心有下中上，所得各異，下為人臣及粟散王、中為輪王、上生欲天。",
+    "folio":1,
+    "stemmed":"求 欲 之 心 有下中上  所 得 各 異  下 為 人 臣 及 粟 散 王  中 為 輪 王  上 生 欲 天  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514c26_17",
+    "original":"就下品中，專好自為不欲共他，正得為人。",
+    "folio":1,
+    "stemmed":"就 下 品 中  專 好 自 為 不 欲 共 他  正 得 為 人  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514c27_7",
+    "original":"見他喜助，得為大臣。",
+    "folio":1,
+    "stemmed":"見 他 喜 助  得 為 大 臣  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514c27_17",
+    "original":"為首近率，得為帝王。",
+    "folio":1,
+    "stemmed":"為 首 近 率  得 為 帝 王  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514c28_11",
+    "original":"中為輪王，無多階異，迴在後說。",
+    "folio":1,
+    "stemmed":"中 為 輪 王  無 多 階 異  迴 在 後 說  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0514c29_14",
+    "original":"上心作中，隨心昇降有其五階，始從地天乃至他化。",
+    "folio":1,
+    "stemmed":"上 心 作 中  隨 心 昇 降 有 其 五 階  始 從 地 天 乃 至 他 化  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515a01_13",
+    "original":"於中獨為不欲共他，直為散天日月星等。",
+    "folio":1,
+    "stemmed":"於 中 獨 為 不 欲 共 他  直 為 散 天 日 月 星 等  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515a02_7",
+    "original":"見他喜助，得為天臣四天王等。",
+    "folio":1,
+    "stemmed":"見 他 喜 助  得 為 天 臣 四 天 王 等  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515a03_2",
+    "original":"為首近率，為諸天王，謂帝釋等。",
+    "folio":1,
+    "stemmed":"為 首 近 率  為 諸 天 王  謂 帝 釋 等  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515a03_16",
+    "original":"或生梵下，是離欲心所得之果。",
+    "folio":1,
+    "stemmed":"或 生 梵 下  是 離 欲 心 所 得 之 果  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515a04_10",
+    "original":"初禪之果名為梵天，就始言之。",
+    "folio":1,
+    "stemmed":"初 禪 之 果 名 為 梵 天  就 始 言 之  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515a05_4",
+    "original":"亦可上界通名梵天，彼是禪果。",
+    "folio":1,
+    "stemmed":"亦 可 上 界 通 名 梵 天  彼 是 禪 果  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515a05_18",
+    "original":"由洗發禪故得生彼，非洗親生。",
+    "folio":1,
+    "stemmed":"由 洗 發 禪 故 得 生 彼  非 洗 親 生  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515a06_12",
+    "original":"第三分中，小乘之果略而不辨。",
+    "folio":1,
+    "stemmed":"第 三 分 中  小 乘 之 果 略 而 不 辨  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515a07_6",
+    "original":"為菩薩下，是其第四大乘之果。",
+    "folio":1,
+    "stemmed":"為 菩 薩 下  是 其 第 四 大 乘 之 果  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515a08_1",
+    "original":"或為菩薩種性解行，發意初地；",
+    "folio":1,
+    "stemmed":"或 為 菩薩種性 解 行  發 意 初 地  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515a09_1",
+    "original":"治地在於二地已上，彼超修道故曰治地；",
+    "folio":1,
+    "stemmed":"治 地 在 於 二 地 已 上  彼 超 修 道 故 曰 治 地  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515a09_19",
+    "original":"功成在於八地九地，行報純熟故曰功成；",
+    "folio":1,
+    "stemmed":"功 成 在 於 八 地 九 地  行 報 純 熟 故 曰 功 成  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515a10_14",
+    "original":"志就十地，學滿名就，作佛在果。",
+    "folio":1,
+    "stemmed":"志 就 十 地  學 滿 名 就  作 佛 在 果  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515a11_3",
+    "original":"上來正明洗僧福報。",
+    "folio":1,
+    "stemmed":"上 來 正 明 洗 僧 福 報  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515a11_12",
+    "original":"自下第二結嘆僧田。",
+    "folio":1,
+    "stemmed":"自 下 第 二 結 嘆 僧 田  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515a12_2",
+    "original":"斯由供僧結果屬因。",
+    "folio":1,
+    "stemmed":"斯 由 供 僧 結 果 屬 因  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515a12_16",
+    "original":"無量福田卑澇不傷，就田嘆勝。",
+    "folio":1,
+    "stemmed":"無 量 福 田 卑 澇 不 傷  就 田 嘆 勝  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515a13_10",
+    "original":"生多福故，名眾僧為無量福田。",
+    "folio":1,
+    "stemmed":"生 多 福 故  名 眾 僧 為 無 量 福 田  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515a14_8",
+    "original":"於中值福，餘殃不及，故是不為卑澇所傷。",
+    "folio":1,
+    "stemmed":"於 中 值 福  餘 殃 不 及  故 是 不 為 卑 澇 所 傷  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515a15_9",
+    "original":"此正道其世間卑澇不能傷敗，不須異解。",
+    "folio":1,
+    "stemmed":"此 正 道 其 世 間 卑 澇 不 能 傷 敗  不 須 異 解  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515a15_14",
+    "original":"下次偈頌。",
+    "folio":1,
+    "stemmed":"下 次 偈 頌  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515a16_12",
+    "original":"於是世尊重為耆域而作頌曰：",
+    "folio":1,
+    "stemmed":"於 是 世 尊 重 為 耆 域 而 作 頌 曰  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515a17_0",
+    "original":"「觀諸三界中，　　天人受景福，",
+    "folio":1,
+    "stemmed":" 觀 諸 三 界 中    天 人 受 景 福  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515a18_13",
+    "original":"道德無限量，　　諦聽次說之。",
+    "folio":1,
+    "stemmed":"道 德 無 限 量    諦 聽 次 說 之  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515a19_0",
+    "original":"夫人生處世，　　端正人所敬，",
+    "folio":1,
+    "stemmed":"夫 人 生 處 世    端 正 人 所 敬  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515a20_13",
+    "original":"體性常清淨，　　斯由洗眾僧。",
+    "folio":1,
+    "stemmed":"體 性 常 清 淨    斯 由 洗 眾 僧  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515a21_0",
+    "original":"若為大臣子，　　財富常吉安，",
+    "folio":1,
+    "stemmed":"若 為 大 臣 子    財 富 常 吉 安  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515a22_0",
+    "original":"勇健中賢良，　　出入無罣礙，",
+    "folio":1,
+    "stemmed":"勇 健 中 賢 良    出 入 無 罣 礙  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515a23_0",
+    "original":"所說人奉用，　　身體常香潔，",
+    "folio":1,
+    "stemmed":"所 說 人 奉 用    身 體 常 香 潔  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515a24_13",
+    "original":"端正色從容，　　斯由洗眾僧。",
+    "folio":1,
+    "stemmed":"端 正 色 從 容    斯 由 洗 眾 僧  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515a25_0",
+    "original":"若生天王家，　　生即常潔淨，",
+    "folio":1,
+    "stemmed":"若 生 天 王 家    生 即 常 潔 淨  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515a26_0",
+    "original":"洗浴以香湯，　　苾芬以薰身，",
+    "folio":1,
+    "stemmed":"洗 浴 以 香 湯    苾 芬 以 薰 身  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515a27_0",
+    "original":"形體與眾異，　　見者莫不欣，",
+    "folio":1,
+    "stemmed":"形 體 與 眾 異    見 者 莫 不 欣  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515a28_13",
+    "original":"斯造溫室浴，　　洗僧之福報。",
+    "folio":1,
+    "stemmed":"斯 造 溫 室 浴    洗 僧 之 福 報  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515a29_0",
+    "original":"第一四天王，　　典領四域方，",
+    "folio":1,
+    "stemmed":"第 一 四 天 王    典 領 四 域 方  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515b01_0",
+    "original":"光明身端正，　　威德護四鎮，",
+    "folio":1,
+    "stemmed":"光 明 身 端 正    威 德 護 四 鎮  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515b02_0",
+    "original":"日月及星宿，　　晃照除陰冥，",
+    "folio":1,
+    "stemmed":"日 月 及 星 宿    晃 照 除 陰 冥  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515b03_13",
+    "original":"斯由洗眾僧，　　福報如影響。",
+    "folio":1,
+    "stemmed":"斯 由 洗 眾 僧    福 報 如 影 響  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515b04_0",
+    "original":"第二忉利天，　　帝釋名曰因，",
+    "folio":1,
+    "stemmed":"第 二 忉 利 天    帝 釋 名 曰 因  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515b05_0",
+    "original":"六重之寶城，　　七寶為宮殿，",
+    "folio":1,
+    "stemmed":"六 重 之 寶 城    七 寶 為 宮 殿  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515b06_0",
+    "original":"勇猛天中尊，　　端正壽延長，",
+    "folio":1,
+    "stemmed":"勇 猛 天 中 尊    端 正 壽 延 長  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515b07_13",
+    "original":"斯由洗眾僧，　　其報無等倫。",
+    "folio":1,
+    "stemmed":"斯 由 洗 眾 僧    其 報 無 等 倫  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515b08_0",
+    "original":"世間轉輪王，　　七寶導在前，",
+    "folio":1,
+    "stemmed":"世 間 轉 輪 王    七 寶 導 在 前  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515b09_0",
+    "original":"周行四海外，　　兵馬八萬四，",
+    "folio":1,
+    "stemmed":"周 行 四 海 外    兵 馬 八 萬 四  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515b10_0",
+    "original":"明寶照晝夜，　　玉女隨時供，",
+    "folio":1,
+    "stemmed":"明 寶 照 晝 夜    玉 女 隨 時 供  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515b11_13",
+    "original":"端正身香潔，　　斯由洗眾僧。",
+    "folio":1,
+    "stemmed":"端 正 身 香 潔    斯 由 洗 眾 僧  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515b12_0",
+    "original":"第六化應天，　　欲界中獨尊，",
+    "folio":1,
+    "stemmed":"第 六 化 應 天    欲 界 中 獨 尊  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515b13_0",
+    "original":"天相光影足，　　威靈震六天，",
+    "folio":1,
+    "stemmed":"天 相 光 影 足    威 靈 震 六 天  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515b14_0",
+    "original":"自然食甘露，　　妓女常在邊，",
+    "folio":1,
+    "stemmed":"自 然 食 甘 露    妓 女 常 在 邊  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515b15_13",
+    "original":"眾德難稱喻，　　斯由洗眾僧。",
+    "folio":1,
+    "stemmed":"眾 德 難 稱 喻    斯 由 洗 眾 僧  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515b16_0",
+    "original":"梵魔三鉢天，　　淨居修自然，",
+    "folio":1,
+    "stemmed":"梵 魔 三 鉢 天    淨 居 修 自 然  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515b17_0",
+    "original":"行淨無垢穢，　　又無女人形，",
+    "folio":1,
+    "stemmed":"行 淨 無 垢 穢    又 無 女 人 形  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515b18_0",
+    "original":"梵行修潔已，　　志淳在泥洹，",
+    "folio":1,
+    "stemmed":"梵 行 修 潔 已    志 淳 在 泥 洹  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515b19_13",
+    "original":"得生彼天中，　　斯由洗眾僧。",
+    "folio":1,
+    "stemmed":"得 生 彼 天 中    斯 由 洗 眾 僧  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515b20_0",
+    "original":"佛為三界尊，　　修道甚苦勤，",
+    "folio":1,
+    "stemmed":"佛 為 三 界 尊    修 道 甚 苦 勤  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515b21_0",
+    "original":"積行無數劫，　　今乃得道真，",
+    "folio":1,
+    "stemmed":"積 行 無 數 劫    今 乃 得 道 真  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515b22_0",
+    "original":"金體玉為瓔，　　塵垢不著身，",
+    "folio":1,
+    "stemmed":"金 體 玉 為 瓔    塵 垢 不 著 身  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515b23_13",
+    "original":"圓光相具足，　　斯由洗眾僧。",
+    "folio":1,
+    "stemmed":"圓 光 相 具 足    斯 由 洗 眾 僧  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515b24_0",
+    "original":"諸佛從行得，　　種種不勞勤，",
+    "folio":1,
+    "stemmed":"諸 佛 從 行 得    種 種 不 勞 勤  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515b25_13",
+    "original":"所施三界人，　　無處不周遍。",
+    "folio":1,
+    "stemmed":"所 施 三 界 人    無 處 不 周 遍  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515b26_0",
+    "original":"眾僧之聖尊，　　四道良福田，",
+    "folio":1,
+    "stemmed":"眾 僧 之 聖 尊    四 道 良 福 田  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515b27_13",
+    "original":"道德從中出，　　是行最妙真。",
+    "folio":1,
+    "stemmed":"道 德 從 中 出    是 行 最 妙 真  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515b28_14",
+    "original":"」以義入偈，要略易解，故下頌之。",
+    "folio":1,
+    "stemmed":" 以 義 入 偈  要 略 易 解  故 下 頌 之  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515b28_19",
+    "original":"有何易解？",
+    "folio":1,
+    "stemmed":"有 何 易 解  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515b29_12",
+    "original":"向前文中，七福之外別說人等。",
+    "folio":1,
+    "stemmed":"向 前 文 中  七 福 之 外 別 說 人 等  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515c02_1",
+    "original":"人謂定別，故今就彼人身等上頌七福報，令知無別，是以須頌。",
+    "folio":1,
+    "stemmed":"人 謂 定 別  故 今 就 彼 人 身 等 上 頌 七 福 報  令 知 無 別  是 以 須 頌  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515c03_13",
+    "original":"偈有二十，前十九偈就人天等頌上七福，末後一偈頌頌前文中結嘆僧田。",
+    "folio":1,
+    "stemmed":"偈 有 二 十  前 十 九 偈 就 人 天 等 頌 上 七 福  末 後 一 偈 頌 頌 前 文 中 結 嘆 僧 田  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515c04_8",
+    "original":"前十九中，初偈總舉勅聽許說。",
+    "folio":1,
+    "stemmed":"前 十 九 中  初 偈 總 舉 勅 聽 許 說  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515c04_18",
+    "original":"觀者，如來自言觀也。",
+    "folio":1,
+    "stemmed":"觀 者  如 來 自 言 觀 也  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515c05_13",
+    "original":"諸三界中，天人顯福，舉其所觀。",
+    "folio":1,
+    "stemmed":"諸 三 界 中  天 人 顯 福  舉 其 所 觀  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515c06_11",
+    "original":"世間福報，修善如形、福似影，故曰影福。",
+    "folio":1,
+    "stemmed":"世 間 福 報  修 善 如 形  福 似 影  故 曰 影 福  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515c07_1",
+    "original":"道德無限量，舉出世果。",
+    "folio":1,
+    "stemmed":"道 德 無 限 量  舉 出 世 果  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515c07_19",
+    "original":"此等諦聽次為汝說下十八偈，正為說之。",
+    "folio":1,
+    "stemmed":"此 等 諦 聽 次 為 汝 說 下 十 八 偈  正 為 說 之  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515c09_17",
+    "original":"初有一偈，就人身上頌七福報，於中單頌淨水之果，餘略不論，斯由洗僧結果屬因。",
+    "folio":1,
+    "stemmed":"初 有 一 偈  就 人 身 上 頌 七 福 報  於 中 單 頌 淨 水 之 果  餘 略 不 論  斯 由 洗 僧 結 果 屬 因  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515c10_11",
+    "original":"次有兩偈，就彼大臣頌七福報。",
+    "folio":1,
+    "stemmed":"次 有 兩 偈  就 彼 大 臣 頌 七 福 報  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515c10_16",
+    "original":"於中有五：",
+    "folio":1,
+    "stemmed":"於 中 有 五  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515c13_12",
+    "original":"財富吉安是內衣果，勇猛賢良出入無礙是火燃報，所說人用是楊枝果，身體香潔是澡豆報，端正從容是淨水果，略無餘二。",
+    "folio":1,
+    "stemmed":"財 富 吉 安 是 內 衣 果  勇 猛 賢 良 出 入 無 礙 是 火 燃 報  所 說 人 用 是 楊 枝 果  身 體 香 潔 是 澡 豆 報  端 正 從 容 是 淨 水 果  略 無 餘 二  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515c14_6",
+    "original":"次有兩偈，就帝王身頌七福報。",
+    "folio":1,
+    "stemmed":"次 有 兩 偈  就 帝 王 身 頌 七 福 報  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515c16_4",
+    "original":"生即潔淨洗浴香湯苾芬薰身是澡豆果，形與眾異見莫不忻是淨水果，餘略不論。",
+    "folio":1,
+    "stemmed":"生 即 潔 淨 洗 浴 香 湯 苾 芬 薰 身 是 澡 豆 果  形 與 眾 異 見 莫 不 忻 是 淨 水 果  餘 略 不 論  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515c16_18",
+    "original":"次有一偈，就四天王頌七福報。",
+    "folio":1,
+    "stemmed":"次 有 一 偈  就 四 天 王 頌 七 福 報  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515c17_12",
+    "original":"次有一偈，就日月等頌七福報。",
+    "folio":1,
+    "stemmed":"次 有 一 偈  就 日 月 等 頌 七 福 報  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515c18_7",
+    "original":"次有兩偈，頌其帝釋頌七福報。",
+    "folio":1,
+    "stemmed":"次 有 兩 偈  頌 其 帝 釋 頌 七 福 報  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515c18_19",
+    "original":"次有兩偈，就輪王頌七福。",
+    "folio":1,
+    "stemmed":"次 有 兩 偈  就 輪 王 頌 七 福  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515c19_13",
+    "original":"次有兩偈，就他化天頌七福報。",
+    "folio":1,
+    "stemmed":"次 有 兩 偈  就 他 化 天 頌 七 福 報  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515c20_3",
+    "original":"餘欲界天略而不辨。",
+    "folio":1,
+    "stemmed":"餘 欲 界 天 略 而 不 辨  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515c21_7",
+    "original":"次有兩偈頌色界天，於中但明所受梵身，不明七報。",
+    "folio":1,
+    "stemmed":"次 有 兩 偈 頌 色 界 天  於 中 但 明 所 受 梵 身  不 明 七 報  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515c22_5",
+    "original":"初言梵魔三鉢天者，除五淨居是餘色天。",
+    "folio":1,
+    "stemmed":"初 言 梵 魔 三 鉢 天 者  除 五 淨 居 是 餘 色 天  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515c23_9",
+    "original":"此乃胡語，名彼梵天為梵摩羅三鉢利天，不須漢語。",
+    "folio":1,
+    "stemmed":"此 乃 胡 語  名 彼 梵 天 為 梵 摩 羅 三 鉢 利 天  不 須 漢 語  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515c23_14",
+    "original":"擿字別配。",
+    "folio":1,
+    "stemmed":"擿 字 別 配  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515c24_3",
+    "original":"淨居已下，是五那含。",
+    "folio":1,
+    "stemmed":"淨 居 已 下  是 五 那 含  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515c24_17",
+    "original":"下有三偈，就佛以頌七種福報。",
+    "folio":1,
+    "stemmed":"下 有 三 偈  就 佛 以 頌 七 種 福 報  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515c25_15",
+    "original":"於中前二明佛自德由行而成，勸物同習。",
+    "folio":1,
+    "stemmed":"於 中 前 二 明 佛 自 德 由 行 而 成  勸 物 同 習  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515c26_14",
+    "original":"後偈明佛利他之德由行而成，勸人同修。",
+    "folio":1,
+    "stemmed":"後 偈 明 佛 利 他 之 德 由 行 而 成  勸 人 同 修  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515c28_12",
+    "original":"此諸偈中，就人天等前頌七報皆不具足，隱顯故爾，欲識玄相，准上七報次第求之。",
+    "folio":1,
+    "stemmed":"此 諸 偈 中  就 人 天 等 前 頌 七 報 皆 不 具 足  隱 顯 故 爾  欲 識 玄 相  准 上 七 報 次 第 求 之  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515c29_2",
+    "original":"下次頌上結嘆僧田。",
+    "folio":1,
+    "stemmed":"下 次 頌 上 結 嘆 僧 田  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0515c29_12",
+    "original":"眾僧聖尊，大乘僧也。",
+    "folio":1,
+    "stemmed":"眾 僧 聖 尊  大 乘 僧 也  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0516a01_1",
+    "original":"四道良田，小乘僧也。",
+    "folio":1,
+    "stemmed":"四 道 良 田  小 乘 僧 也  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0516a01_18",
+    "original":"須陀、斯陀、那含、羅漢，是其四道。",
+    "folio":1,
+    "stemmed":"須 陀  斯 陀  那 含  羅 漢  是 其 四 道  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0516a02_4",
+    "original":"道德從出，是行真者。",
+    "folio":1,
+    "stemmed":"道 德 從 出  是 行 真 者  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0516a04_2",
+    "original":"如上所說人天等因是其道德，從僧田出，是洗僧行最為妙真，以從真實福田出故。",
+    "folio":1,
+    "stemmed":"如上所說 人 天 等 因 是 其 道 德  從 僧 田 出  是 洗 僧 行 最 為 妙 真  以 從 真 實 福 田 出 故  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0516a04_7",
+    "original":"下次釋疑。",
+    "folio":1,
+    "stemmed":"下 次 釋 疑  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0516a05_9",
+    "original":"佛說偈已，重告耆域：",
+    "folio":1,
+    "stemmed":"佛 說 偈 已  重 告 耆 域  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0516a07_6",
+    "original":"「觀彼三界，人天品類，高下長短、福德多少，皆由先世用心不等，是以所受各異不同。",
+    "folio":1,
+    "stemmed":" 觀 彼 三 界  人 天 品 類  高 下 長 短  福 德 多 少  皆 由 先 世 用 心 不 等  是 以 所 受 各 異 不 同  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0516a08_4",
+    "original":"如此受諸福報，皆由洗浴聖眾得之耳。",
+    "folio":1,
+    "stemmed":"如 此 受 諸 福 報  皆 由 洗 浴 聖 眾 得 之 耳  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0516a08_10",
+    "original":"」疑有二種：",
+    "folio":1,
+    "stemmed":" 疑 有 二 種  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0516a09_4",
+    "original":"一以洗僧福行不殊，疑報差別；",
+    "folio":1,
+    "stemmed":"一 以 洗 僧 福 行 不 殊  疑 報 差 別  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0516a09_18",
+    "original":"二聞由心所受不同，疑不假僧。",
+    "folio":1,
+    "stemmed":"二 聞 由 心 所 受 不 同  疑 不 假 僧  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0516a10_3",
+    "original":"今并釋之。",
+    "folio":1,
+    "stemmed":"今 并 釋 之  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0516a11_2",
+    "original":"從初乃至用心不等所受各異，釋遣初疑。",
+    "folio":1,
+    "stemmed":"從 初 乃 至 用 心 不 等 所 受 各 異  釋 遣 初 疑  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0516a11_18",
+    "original":"二、受諸福報皆從洗僧，釋去後疑。",
+    "folio":1,
+    "stemmed":"二  受 諸 福 報 皆 從 洗 僧  釋 去 後 疑  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0516a12_7",
+    "original":"上來正說，下次流通。",
+    "folio":1,
+    "stemmed":"上 來 正 說  下 次 流 通  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0516a13_10",
+    "original":"佛說經已，阿難白佛言：",
+    "folio":1,
+    "stemmed":"佛 說 經 已  阿 難 白 佛 言  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0516a13_17",
+    "original":"「當何名此經？",
+    "folio":1,
+    "stemmed":" 當 何 名 此 經  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0516a14_2",
+    "original":"以何勸誨之？",
+    "folio":1,
+    "stemmed":"以 何 勸 誨 之  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0516a14_6",
+    "original":"」佛言：",
+    "folio":1,
+    "stemmed":" 佛 言  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0516a14_10",
+    "original":"「阿難！",
+    "folio":1,
+    "stemmed":" 阿 難  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0516a14_21",
+    "original":"此經名溫室洗浴眾僧經。",
+    "folio":1,
+    "stemmed":"此 經 名 溫 室 洗 浴 眾 僧 經  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0516a15_8",
+    "original":"諸佛所說，非我獨造。",
+    "folio":1,
+    "stemmed":"諸佛所說  非 我 獨 造  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0516a15_18",
+    "original":"行者得度，非神授與。",
+    "folio":1,
+    "stemmed":"行 者 得 度  非 神 授 與  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0516a16_7",
+    "original":"求清淨福，自當奉行。",
+    "folio":1,
+    "stemmed":"求 清 淨 福  自 當 奉 行  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0516a17_17",
+    "original":"」佛說經竟，耆域、眷屬聞經歡喜，得須陀洹道，禮佛求退，嚴辦洗具。",
+    "folio":1,
+    "stemmed":" 佛 說 經 竟  耆 域  眷 屬 聞 經 歡 喜  得 須陀洹道  禮 佛 求 退  嚴 辦 洗 具  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0516a18_14",
+    "original":"眾坐大小各得道跡，皆共稽首禮佛而去。",
+    "folio":1,
+    "stemmed":"眾 坐 大 小 各 得 道 跡  皆 共 稽 首 禮 佛 而 去  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0516a20_1",
+    "original":"佛說溫室洗浴眾僧經初阿難問當何名經，問經名字。",
+    "folio":1,
+    "stemmed":"佛 說 溫 室 洗 浴 眾 僧 經 初 阿 難 問 當 何 名 經  問 經 名 字  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0516a20_11",
+    "original":"以何勸誨，問傳化儀。",
+    "folio":1,
+    "stemmed":"以 何 勸 誨  問 傳 化 儀  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0516a20_16",
+    "original":"次如來答。",
+    "folio":1,
+    "stemmed":"次 如 來 答  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0516a21_4",
+    "original":"名洗僧經，答其初問。",
+    "folio":1,
+    "stemmed":"名 洗 僧 經  答 其 初 問  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0516a21_14",
+    "original":"諸佛記下，答第二問。",
+    "folio":1,
+    "stemmed":"諸 佛 記 下  答 第 二 問  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0516a22_13",
+    "original":"於中初明諸佛共說，彰法要勝，勸人信樂。",
+    "folio":1,
+    "stemmed":"於 中 初 明 諸 佛 共 說  彰 法 要 勝  勸 人 信 樂  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0516a23_7",
+    "original":"後明行者方始得度，勸人修學。",
+    "folio":1,
+    "stemmed":"後 明 行 者 方 始 得 度  勸 人 修 學  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0516a23_17",
+    "original":"行者得度，明非無因。",
+    "folio":1,
+    "stemmed":"行 者 得 度  明 非 無 因  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0516a24_6",
+    "original":"非神授與，明非異因。",
+    "folio":1,
+    "stemmed":"非 神 授 與  明 非 異 因  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0516a24_20",
+    "original":"求清淨福自當奉行，結勸修學。",
+    "folio":1,
+    "stemmed":"求 清 淨 福 自 當 奉 行  結 勸 修 學  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0516a25_17",
+    "original":"當以此等而勸誨之下，明諸人聞法獲益。",
+    "folio":1,
+    "stemmed":"當 以 此 等 而 勸 誨 之 下  明 諸 人 聞 法 獲 益  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0516a26_15",
+    "original":"於中初明耆域眷屬悟道求退嚴辦說具。",
+    "folio":1,
+    "stemmed":"於 中 初 明 耆 域 眷 屬 悟 道 求 退 嚴 辦 說 具  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0516a27_15",
+    "original":"以聞果報皆由洗得，知法無性故得初果。",
+    "folio":1,
+    "stemmed":"以 聞 果 報 皆 由 洗 得  知 法 無 性 故 得 初 果  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0516a28_5",
+    "original":"後明食眾得益辭去。",
+    "folio":1,
+    "stemmed":"後 明 食 眾 得 益 辭 去  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0516b02_1",
+    "original":"溫室經義記畢往昔淨影大師嘗製《溫室經義記》，宣暢其幽旨。",
+    "folio":1,
+    "stemmed":"溫 室 經 義 記 畢 往 昔 淨 影 大 師 嘗 製  溫 室 經 義 記   宣 暢 其 幽 旨  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0516b02_19",
+    "original":"千歲之久，相傳至今，可謂法門大幸也。",
+    "folio":1,
+    "stemmed":"千 歲 之 久  相 傳 至 今  可 謂 法 門 大 幸 也  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0516b04_4",
+    "original":"予前年得之珍祕，比日逐節隨科分會本經，以便看讀。",
+    "folio":1,
+    "stemmed":"予 前 年 得 之 珍 祕  比 日 逐 節 隨 科 分 會 本 經  以 便 看 讀  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0516b05_2",
+    "original":"更命梓工謀作活字，以公海內同好云。",
+    "folio":1,
+    "stemmed":"更 命 梓 工 謀 作 活 字  以 公 海 內 同 好 云  "
+  },
+  {
+    "segmentnr":"ZH_T39_1793_001:0516b07_100",
+    "original":"于時寬保三癸亥冬十月三緣山袋谷沙門心應謹書",
+    "folio":1,
+    "stemmed":"于 時 寬 保 三 癸 亥 冬 十 月 三 緣 山 袋 谷 沙 門 心 應 謹 書 "
+  }
+]

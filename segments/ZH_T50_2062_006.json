@@ -1,0 +1,5840 @@
+[
+  {
+    "segmentnr":"ZH_T50_2062_006:0920b14_0",
+    "original":"大明高僧傳卷第六",
+    "folio":6,
+    "stemmed":"大 明 高 僧 傳 卷 第 六 "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920b16_0",
+    "original":"皇明天台山慈雲禪寺",
+    "folio":6,
+    "stemmed":"皇 明 天 台 山 慈 雲 禪 寺 "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920b17_0",
+    "original":"沙門釋　如惺　撰",
+    "folio":6,
+    "stemmed":"沙 門 釋  如 惺  撰 "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920b20_15",
+    "original":"之二習禪篇第三之二正傳十七人附見十人1 華亭昭慶寺沙門釋法寧傳華亭昭慶寺沙門釋法寧傳一釋法寧因住沂州馬𡺸山故號馬𡺸山。",
+    "folio":6,
+    "stemmed":"之 二 習 禪 篇 第 三 之 二 正 傳 十 七 人 附 見 十 人 1   華 亭 昭 慶 寺 沙 門 釋 法 寧 傳 華 亭 昭 慶 寺 沙 門 釋 法 寧 傳 一 釋 法 寧 因 住 沂 州 馬 𡺸 山 故 號 馬 𡺸 山  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920b21_8",
+    "original":"東密州莒縣李氏子也。",
+    "folio":6,
+    "stemmed":"東 密 州 莒 縣 李 氏 子 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920b22_4",
+    "original":"初依沂州天寧妙空明和尚得度。",
+    "folio":6,
+    "stemmed":"初 依 沂 州 天 寧 妙 空 明 和 尚 得 度  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920b22_15",
+    "original":"參侍既久盡得雲門宗旨。",
+    "folio":6,
+    "stemmed":"參 侍 既 久 盡 得 雲 門 宗 旨  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920b23_6",
+    "original":"出世住沂之淨居寺。",
+    "folio":6,
+    "stemmed":"出 世 住 沂 之 淨 居 寺  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920b23_13",
+    "original":"大弘雪竇之道。",
+    "folio":6,
+    "stemmed":"大 弘 雪 竇 之 道  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920b24_4",
+    "original":"紹興間抵華亭青龍。",
+    "folio":6,
+    "stemmed":"紹 興 間 抵 華 亭 青 龍  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920b24_14",
+    "original":"鎮察判章滾母高氏夢。",
+    "folio":6,
+    "stemmed":"鎮 察 判 章 滾 母 高 氏 夢  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920b24_19",
+    "original":"天人告曰。",
+    "folio":6,
+    "stemmed":"天 人 告 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920b25_4",
+    "original":"古佛來也。",
+    "folio":6,
+    "stemmed":"古 佛 來 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920b25_9",
+    "original":"翌日師至。",
+    "folio":6,
+    "stemmed":"翌 日 師 至  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920b26_2",
+    "original":"迎之止錢氏園乃建精舍。",
+    "folio":6,
+    "stemmed":"迎 之 止 錢 氏 園 乃 建 精 舍  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920b26_14",
+    "original":"掘地得鐵磬斷碑佛像之應。",
+    "folio":6,
+    "stemmed":"掘 地 得 鐵 磬 斷 碑 佛 像 之 應  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920b27_13",
+    "original":"於是華亭令柳約奏所建剎賜額曰淨居。",
+    "folio":6,
+    "stemmed":"於 是 華 亭 令 柳 約 奏 所 建 剎 賜 額 曰 淨 居  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920b28_6",
+    "original":"因省明公于明州雪竇。",
+    "folio":6,
+    "stemmed":"因 省 明 公 于 明 州 雪 竇  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920b28_16",
+    "original":"時郡守莫將請主吉祥。",
+    "folio":6,
+    "stemmed":"時 郡 守 莫 將 請 主 吉 祥  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920b29_10",
+    "original":"哲宗元符余山有精舍曰靈峯。",
+    "folio":6,
+    "stemmed":"哲 宗 元 符 余 山 有 精 舍 曰 靈 峯  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c01_2",
+    "original":"部符改曰昭慶禪院。",
+    "folio":6,
+    "stemmed":"部 符 改 曰 昭 慶 禪 院  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c01_15",
+    "original":"右丞朱諤請師為開山第一代。",
+    "folio":6,
+    "stemmed":"右 丞 朱 諤 請 師 為 開 山 第 一 代  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c02_9",
+    "original":"無何遷明州廣慧復返昭慶。",
+    "folio":6,
+    "stemmed":"無 何 遷 明 州 廣 慧 復 返 昭 慶  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c03_14",
+    "original":"紹興二十六年丙子正月八日沐浴端坐說法辭眾而寂。",
+    "folio":6,
+    "stemmed":"紹 興 二 十 六 年 丙 子 正 月 八 日 沐 浴 端 坐 說 法 辭 眾 而 寂  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c04_2",
+    "original":"世壽七十六。",
+    "folio":6,
+    "stemmed":"世 壽 七 十 六  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c04_8",
+    "original":"僧臘五十九。",
+    "folio":6,
+    "stemmed":"僧 臘 五 十 九  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c04_17",
+    "original":"塔全身于寺之東隅。",
+    "folio":6,
+    "stemmed":"塔 全 身 于 寺 之 東 隅  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c06_6",
+    "original":"2 衢州烏巨山沙門釋道行傳衢州烏巨山沙門釋道行傳二釋道行號雪堂。",
+    "folio":6,
+    "stemmed":"2   衢 州 烏 巨 山 沙 門 釋 道 行 傳 衢 州 烏 巨 山 沙 門 釋 道 行 傳 二 釋 道 行 號 雪 堂  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c06_13",
+    "original":"處州葉氏子也。",
+    "folio":6,
+    "stemmed":"處 州 葉 氏 子 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c07_3",
+    "original":"初依普照英得度。",
+    "folio":6,
+    "stemmed":"初 依 普 照 英 得 度  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c07_9",
+    "original":"出遊參佛眼。",
+    "folio":6,
+    "stemmed":"出 遊 參 佛 眼  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c08_7",
+    "original":"一日聞眼舉玄沙築著脚指話遂大悟。",
+    "folio":6,
+    "stemmed":"一 日 聞 眼 舉 玄 沙 築 著 脚 指 話 遂 大 悟  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c08_12",
+    "original":"住郡南明。",
+    "folio":6,
+    "stemmed":"住 郡 南 明  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c09_5",
+    "original":"上堂會得便會玉本無瑕。",
+    "folio":6,
+    "stemmed":"上 堂 會 得 便 會 玉 本 無 瑕  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c09_14",
+    "original":"若言不會碓嘴生花。",
+    "folio":6,
+    "stemmed":"若 言 不 會 碓 嘴 生 花  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c10_9",
+    "original":"試問九年面壁何如大會拈花。",
+    "folio":6,
+    "stemmed":"試 問 九 年 面 壁 何 如 大 會 拈 花  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c10_17",
+    "original":"南明恁麼商確也。",
+    "folio":6,
+    "stemmed":"南 明 恁 麼 商 確 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c11_4",
+    "original":"是順風撒沙。",
+    "folio":6,
+    "stemmed":"是 順 風 撒 沙  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c11_12",
+    "original":"次遷烏巨示眾舉。",
+    "folio":6,
+    "stemmed":"次 遷 烏 巨 示 眾 舉  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c12_1",
+    "original":"璣和尚問僧。",
+    "folio":6,
+    "stemmed":"璣 和 尚 問 僧  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c12_7",
+    "original":"禪以何為義。",
+    "folio":6,
+    "stemmed":"禪 以 何 為 義  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c12_16",
+    "original":"眾雖下語未契厥心。",
+    "folio":6,
+    "stemmed":"眾 雖 下 語 未 契 厥 心  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c13_6",
+    "original":"眾僧請益璣代云。",
+    "folio":6,
+    "stemmed":"眾 僧 請 益 璣 代 云  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c13_11",
+    "original":"以謗為義。",
+    "folio":6,
+    "stemmed":"以 謗 為 義  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c13_14",
+    "original":"師曰。",
+    "folio":6,
+    "stemmed":"師 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c14_2",
+    "original":"三世諸佛是謗。",
+    "folio":6,
+    "stemmed":"三世諸佛 是 謗  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c14_11",
+    "original":"西天二十八祖是謗。",
+    "folio":6,
+    "stemmed":"西 天 二 十 八 祖 是 謗  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c14_18",
+    "original":"唐土六祖是謗。",
+    "folio":6,
+    "stemmed":"唐 土 六 祖 是 謗  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c15_6",
+    "original":"天下老和尚是謗。",
+    "folio":6,
+    "stemmed":"天 下 老 和 尚 是 謗  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c15_11",
+    "original":"諸人是謗。",
+    "folio":6,
+    "stemmed":"諸 人 是 謗  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c15_16",
+    "original":"山僧是謗。",
+    "folio":6,
+    "stemmed":"山 僧 是 謗  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c16_5",
+    "original":"於中還有不謗者無。",
+    "folio":6,
+    "stemmed":"於 中 還 有 不 謗 者 無  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c16_13",
+    "original":"談玄說妙河沙數。",
+    "folio":6,
+    "stemmed":"談 玄 說 妙 河 沙 數  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c17_3",
+    "original":"爭似雙峯謗得親。",
+    "folio":6,
+    "stemmed":"爭 似 雙 峯 謗 得 親  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c17_8",
+    "original":"忽示微疾。",
+    "folio":6,
+    "stemmed":"忽 示 微 疾  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c17_19",
+    "original":"門弟子教授汪喬年至省。",
+    "folio":6,
+    "stemmed":"門 弟 子 教 授 汪 喬 年 至 省  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c18_6",
+    "original":"遂以後事委之。",
+    "folio":6,
+    "stemmed":"遂 以 後 事 委 之  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c18_10",
+    "original":"說偈曰。",
+    "folio":6,
+    "stemmed":"說 偈 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c18_17",
+    "original":"識則識自本心。",
+    "folio":6,
+    "stemmed":"識 則 識 自 本 心  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c19_5",
+    "original":"見則見自本性。",
+    "folio":6,
+    "stemmed":"見 則 見 自 本 性  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c19_12",
+    "original":"識得本心本性。",
+    "folio":6,
+    "stemmed":"識 得 本 心 本 性  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c20_1",
+    "original":"正是宗門大病。",
+    "folio":6,
+    "stemmed":"正 是 宗 門 大 病  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c20_5",
+    "original":"又註曰。",
+    "folio":6,
+    "stemmed":"又 註 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c20_11",
+    "original":"爛泥中有刺。",
+    "folio":6,
+    "stemmed":"爛 泥 中 有 刺  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c20_17",
+    "original":"莫道不疑好。",
+    "folio":6,
+    "stemmed":"莫 道 不 疑 好  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c21_8",
+    "original":"黎明沐浴更衣加趺而逝。",
+    "folio":6,
+    "stemmed":"黎 明 沐 浴 更 衣 加 趺 而 逝  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c21_16",
+    "original":"闍維獲五色舍利。",
+    "folio":6,
+    "stemmed":"闍 維 獲 五 色 舍 利  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c22_7",
+    "original":"煙所至處舍利纍然。",
+    "folio":6,
+    "stemmed":"煙 所 至 處 舍 利 纍 然  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c22_12",
+    "original":"齒舌不壞。",
+    "folio":6,
+    "stemmed":"齒 舌 不 壞  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c22_17",
+    "original":"塔于寺西。",
+    "folio":6,
+    "stemmed":"塔 于 寺 西  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c24_6",
+    "original":"3 安吉州何山沙門釋守珣傳安吉州何山沙門釋守珣傳三廣鑑英釋守珣號佛燈。",
+    "folio":6,
+    "stemmed":"3   安 吉 州 何 山 沙 門 釋 守 珣 傳 安 吉 州 何 山 沙 門 釋 守 珣 傳 三 廣 鑑 英 釋 守 珣 號 佛 燈  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c24_14",
+    "original":"即郡之施氏子也。",
+    "folio":6,
+    "stemmed":"即 郡 之 施 氏 子 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c25_5",
+    "original":"初參廣鑑瑛和尚不契。",
+    "folio":6,
+    "stemmed":"初 參 廣 鑑 瑛 和 尚 不 契  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c25_10",
+    "original":"遂謁佛鑑。",
+    "folio":6,
+    "stemmed":"遂 謁 佛 鑑  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c25_15",
+    "original":"隨眾咨請。",
+    "folio":6,
+    "stemmed":"隨 眾 咨 請  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c26_1",
+    "original":"邈無所入。",
+    "folio":6,
+    "stemmed":"邈 無 所 入  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c26_7",
+    "original":"乃封其衾曰。",
+    "folio":6,
+    "stemmed":"乃 封 其 衾 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c26_14",
+    "original":"今生若不徹去。",
+    "folio":6,
+    "stemmed":"今 生 若 不 徹 去  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c27_1",
+    "original":"誓不展此。",
+    "folio":6,
+    "stemmed":"誓 不 展 此  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c27_12",
+    "original":"於是晝夜霄立如喪考妣。",
+    "folio":6,
+    "stemmed":"於 是 晝 夜 霄 立 如 喪 考 妣  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c28_5",
+    "original":"逾七七日忽佛鑑上堂曰。",
+    "folio":6,
+    "stemmed":"逾 七 七 日 忽 佛 鑑 上 堂 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c28_16",
+    "original":"森羅及萬象一法之所印。",
+    "folio":6,
+    "stemmed":"森 羅 及 萬 象 一 法 之 所 印  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c29_2",
+    "original":"珣聞頓悟。",
+    "folio":6,
+    "stemmed":"珣 聞 頓 悟  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0920c29_5",
+    "original":"鑑曰。",
+    "folio":6,
+    "stemmed":"鑑 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a01_2",
+    "original":"可惜一顆明珠被這風顛漢拾得也。",
+    "folio":6,
+    "stemmed":"可 惜 一 顆 明 珠 被 這 風 顛 漢 拾 得 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a01_6",
+    "original":"乃詰曰。",
+    "folio":6,
+    "stemmed":"乃 詰 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a02_6",
+    "original":"靈雲道自從一見桃花後直至如今更不疑。",
+    "folio":6,
+    "stemmed":"靈 雲 道 自 從 一 見 桃 花 後 直 至 如 今 更 不 疑  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a02_14",
+    "original":"如何是他不疑處。",
+    "folio":6,
+    "stemmed":"如 何 是 他 不 疑 處  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a02_17",
+    "original":"珣曰。",
+    "folio":6,
+    "stemmed":"珣 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a03_5",
+    "original":"莫道靈雲不疑。",
+    "folio":6,
+    "stemmed":"莫 道 靈 雲 不 疑  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a03_16",
+    "original":"只今覓個疑處了不可得。",
+    "folio":6,
+    "stemmed":"只 今 覓 個 疑 處 了 不 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a04_1",
+    "original":"鑑曰。",
+    "folio":6,
+    "stemmed":"鑑 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a04_10",
+    "original":"玄沙道諦當甚諦當。",
+    "folio":6,
+    "stemmed":"玄 沙 道 諦 當 甚 諦 當  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a04_18",
+    "original":"敢保老兄未徹在。",
+    "folio":6,
+    "stemmed":"敢 保 老 兄 未 徹 在  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a05_7",
+    "original":"那裏是他未徹處。",
+    "folio":6,
+    "stemmed":"那 裏 是 他 未 徹 處  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a05_10",
+    "original":"珣曰。",
+    "folio":6,
+    "stemmed":"珣 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a05_19",
+    "original":"深知和尚老婆心切。",
+    "folio":6,
+    "stemmed":"深 知 和 尚 老 婆 心 切  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a06_3",
+    "original":"鑑然之。",
+    "folio":6,
+    "stemmed":"鑑 然 之  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a06_10",
+    "original":"珣拜起呈偈曰。",
+    "folio":6,
+    "stemmed":"珣 拜 起 呈 偈 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a06_18",
+    "original":"終日看天不舉頭。",
+    "folio":6,
+    "stemmed":"終 日 看 天 不 舉 頭  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a07_7",
+    "original":"桃花爛熳始擡眸。",
+    "folio":6,
+    "stemmed":"桃 花 爛 熳 始 擡 眸  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a07_15",
+    "original":"饒君更有遮天網。",
+    "folio":6,
+    "stemmed":"饒 君 更 有 遮 天 網  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a08_4",
+    "original":"透得牢關即便休。",
+    "folio":6,
+    "stemmed":"透 得 牢 關 即 便 休  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a08_10",
+    "original":"鑑囑令護持。",
+    "folio":6,
+    "stemmed":"鑑 囑 令 護 持  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a08_18",
+    "original":"是夕展衾厲聲曰。",
+    "folio":6,
+    "stemmed":"是 夕 展 衾 厲 聲 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a09_9",
+    "original":"這回珣上座穩睡去也。",
+    "folio":6,
+    "stemmed":"這 回 珣 上 座 穩 睡 去 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a10_2",
+    "original":"圓悟聞竊疑其未然乃曰。",
+    "folio":6,
+    "stemmed":"圓 悟 聞 竊 疑 其 未 然 乃 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a10_9",
+    "original":"我須勘過始得。",
+    "folio":6,
+    "stemmed":"我 須 勘 過 始 得  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a10_14",
+    "original":"令人召至。",
+    "folio":6,
+    "stemmed":"令 人 召 至  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a10_19",
+    "original":"因與遊山。",
+    "folio":6,
+    "stemmed":"因 與 遊 山  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a11_5",
+    "original":"偶到一水潭。",
+    "folio":6,
+    "stemmed":"偶 到 一 水 潭  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a11_12",
+    "original":"圓悟推珣入水。",
+    "folio":6,
+    "stemmed":"圓 悟 推 珣 入 水  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a11_16",
+    "original":"遽問曰。",
+    "folio":6,
+    "stemmed":"遽 問 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a12_7",
+    "original":"牛頭未見四祖時如何。",
+    "folio":6,
+    "stemmed":"牛 頭 未 見 四 祖 時 如 何  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a12_10",
+    "original":"珣曰。",
+    "folio":6,
+    "stemmed":"珣 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a12_15",
+    "original":"潭深魚聚。",
+    "folio":6,
+    "stemmed":"潭 深 魚 聚  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a13_2",
+    "original":"曰見後如何。",
+    "folio":6,
+    "stemmed":"曰 見 後 如 何  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a13_5",
+    "original":"珣曰。",
+    "folio":6,
+    "stemmed":"珣 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a13_10",
+    "original":"樹高招風。",
+    "folio":6,
+    "stemmed":"樹 高 招 風  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a13_19",
+    "original":"曰見與未見時如何。",
+    "folio":6,
+    "stemmed":"曰 見 與 未 見 時 如 何  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a14_2",
+    "original":"珣曰。",
+    "folio":6,
+    "stemmed":"珣 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a14_9",
+    "original":"伸脚在縮脚裏。",
+    "folio":6,
+    "stemmed":"伸 脚 在 縮 脚 裏  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a14_15",
+    "original":"圓悟大稱之。",
+    "folio":6,
+    "stemmed":"圓 悟 大 稱 之  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a15_4",
+    "original":"後出世初主禾山。",
+    "folio":6,
+    "stemmed":"後 出 世 初 主 禾 山  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a15_14",
+    "original":"次天聖徙何山及天寧。",
+    "folio":6,
+    "stemmed":"次 天 聖 徙 何 山 及 天 寧  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a16_6",
+    "original":"紹興甲寅謂居士鄭績曰。",
+    "folio":6,
+    "stemmed":"紹 興 甲 寅 謂 居 士 鄭 績 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a16_18",
+    "original":"十月八日是佛鑑先師忌日。",
+    "folio":6,
+    "stemmed":"十 月 八 日 是 佛 鑑 先 師 忌 日  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a17_4",
+    "original":"吾時至矣。",
+    "folio":6,
+    "stemmed":"吾 時 至 矣  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a17_9",
+    "original":"乞還障南。",
+    "folio":6,
+    "stemmed":"乞 還 障 南  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a18_5",
+    "original":"至十月四日續遣弟僧道如訊之。",
+    "folio":6,
+    "stemmed":"至 十 月 四 日 續 遣 弟 僧 道 如 訊 之  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a18_8",
+    "original":"珣曰。",
+    "folio":6,
+    "stemmed":"珣 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a18_15",
+    "original":"汝來正其時也。",
+    "folio":6,
+    "stemmed":"汝 來 正 其 時 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a19_5",
+    "original":"吾雖與佛鑑同條生。",
+    "folio":6,
+    "stemmed":"吾 雖 與 佛 鑑 同 條 生  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a19_11",
+    "original":"終不同條死。",
+    "folio":6,
+    "stemmed":"終 不 同 條 死  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a20_5",
+    "original":"明早可與我尋一隻小船來。",
+    "folio":6,
+    "stemmed":"明 早 可 與 我 尋 一 隻 小 船 來  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a20_9",
+    "original":"道如曰。",
+    "folio":6,
+    "stemmed":"道 如 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a20_15",
+    "original":"要長者高者。",
+    "folio":6,
+    "stemmed":"要 長 者 高 者  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a20_18",
+    "original":"珣曰。",
+    "folio":6,
+    "stemmed":"珣 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a21_3",
+    "original":"高五尺許。",
+    "folio":6,
+    "stemmed":"高 五 尺 許  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a21_14",
+    "original":"越三日雞鳴端坐如平時。",
+    "folio":6,
+    "stemmed":"越 三 日 雞 鳴 端 坐 如 平 時  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a21_19",
+    "original":"侍者請偈。",
+    "folio":6,
+    "stemmed":"侍 者 請 偈  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a22_2",
+    "original":"珣曰。",
+    "folio":6,
+    "stemmed":"珣 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a22_7",
+    "original":"不曾作得。",
+    "folio":6,
+    "stemmed":"不 曾 作 得  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a22_12",
+    "original":"言訖而逝。",
+    "folio":6,
+    "stemmed":"言 訖 而 逝  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a22_19",
+    "original":"闍維舌根不壞。",
+    "folio":6,
+    "stemmed":"闍 維 舌 根 不 壞  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a24_8",
+    "original":"4 眉州象耳山沙門釋袁覺傳眉州象耳山沙門釋袁覺傳四佛性釋袁覺郡之袁氏子。",
+    "folio":6,
+    "stemmed":"4   眉 州 象 耳 山 沙 門 釋 袁 覺 傳 眉 州 象 耳 山 沙 門 釋 袁 覺 傳 四 佛 性 釋 袁 覺 郡 之 袁 氏 子  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a24_14",
+    "original":"出家傳燈寺。",
+    "folio":6,
+    "stemmed":"出 家 傳 燈 寺  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a25_1",
+    "original":"本名圓覺。",
+    "folio":6,
+    "stemmed":"本 名 圓 覺  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a25_11",
+    "original":"郡守填祠牒誤寫袁字。",
+    "folio":6,
+    "stemmed":"郡 守 填 祠 牒 誤 寫 袁 字  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a26_3",
+    "original":"守疑其嫌因戲謂之曰。",
+    "folio":6,
+    "stemmed":"守 疑 其 嫌 因 戲 謂 之 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a26_10",
+    "original":"一字名之可乎。",
+    "folio":6,
+    "stemmed":"一 字 名 之 可 乎  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a26_13",
+    "original":"對曰。",
+    "folio":6,
+    "stemmed":"對 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a26_19",
+    "original":"一字已多也。",
+    "folio":6,
+    "stemmed":"一 字 已 多 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a27_4",
+    "original":"郡守異之。",
+    "folio":6,
+    "stemmed":"郡 守 異 之  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a27_10",
+    "original":"已而往大溈。",
+    "folio":6,
+    "stemmed":"已 而 往 大 溈  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a28_4",
+    "original":"依佛性和尚入室陳其所見。",
+    "folio":6,
+    "stemmed":"依 佛 性 和 尚 入 室 陳 其 所 見  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a28_7",
+    "original":"性曰。",
+    "folio":6,
+    "stemmed":"性 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a28_13",
+    "original":"汝忒殺遠在。",
+    "folio":6,
+    "stemmed":"汝 忒 殺 遠 在  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921a29_4",
+    "original":"俾充侍司遷掌賓客。",
+    "folio":6,
+    "stemmed":"俾 充 侍 司 遷 掌 賓 客  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b01_3",
+    "original":"佛性每舉法華開示悟入四字令下語。",
+    "folio":6,
+    "stemmed":"佛 性 每 舉 法 華 開 示 悟 入 四 字 令 下 語  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b01_6",
+    "original":"又曰。",
+    "folio":6,
+    "stemmed":"又 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b01_11",
+    "original":"待我黠頭。",
+    "folio":6,
+    "stemmed":"待 我 黠 頭  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b01_16",
+    "original":"汝理方是。",
+    "folio":6,
+    "stemmed":"汝 理 方 是  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b02_2",
+    "original":"偶不職被斥。",
+    "folio":6,
+    "stemmed":"偶 不 職 被 斥  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b02_7",
+    "original":"制中無依。",
+    "folio":6,
+    "stemmed":"制 中 無 依  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b02_13",
+    "original":"乃寓俗士家。",
+    "folio":6,
+    "stemmed":"乃 寓 俗 士 家  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b03_1",
+    "original":"一日誦法華。",
+    "folio":6,
+    "stemmed":"一 日 誦 法 華  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b03_15",
+    "original":"至亦復不知何者是火何者為舍。",
+    "folio":6,
+    "stemmed":"至 亦 復 不 知 何 者 是 火 何 者 為 舍  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b04_2",
+    "original":"乃豁然有省。",
+    "folio":6,
+    "stemmed":"乃 豁 然 有 省  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b04_9",
+    "original":"制罷歸寺白性。",
+    "folio":6,
+    "stemmed":"制 罷 歸 寺 白 性  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b04_14",
+    "original":"首為肯之。",
+    "folio":6,
+    "stemmed":"首 為 肯 之  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b05_7",
+    "original":"後至雲居見圓悟述所得。",
+    "folio":6,
+    "stemmed":"後 至 雲 居 見 圓 悟 述 所 得  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b05_12",
+    "original":"悟呵之曰。",
+    "folio":6,
+    "stemmed":"悟 呵 之 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b06_3",
+    "original":"本是淨地屙屎作麼。",
+    "folio":6,
+    "stemmed":"本 是 淨 地 屙 屎 作 麼  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b06_10",
+    "original":"於是所疑頓釋。",
+    "folio":6,
+    "stemmed":"於 是 所 疑 頓 釋  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b07_3",
+    "original":"紹興丁巳郡守請居象耳。",
+    "folio":6,
+    "stemmed":"紹 興 丁 巳 郡 守 請 居 象 耳  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b07_8",
+    "original":"法道大振。",
+    "folio":6,
+    "stemmed":"法 道 大 振  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b08_2",
+    "original":"四方英俊宿德鴻儒聞風禮謁。",
+    "folio":6,
+    "stemmed":"四 方 英 俊 宿 德 鴻 儒 聞 風 禮 謁  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b08_7",
+    "original":"室無所容。",
+    "folio":6,
+    "stemmed":"室 無 所 容  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b09_2",
+    "original":"開堂詞辨河傾峽瀉叢林稱之。",
+    "folio":6,
+    "stemmed":"開 堂 詞 辨 河 傾 峽 瀉 叢 林 稱 之  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b09_7",
+    "original":"未詳其終。",
+    "folio":6,
+    "stemmed":"未 詳 其 終  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b11_6",
+    "original":"5 明州天童沙門釋曇華傳明州天童沙門釋曇華傳五釋曇華字應庵。",
+    "folio":6,
+    "stemmed":"5   明 州 天 童 沙 門 釋 曇 華 傳 明 州 天 童 沙 門 釋 曇 華 傳 五 釋 曇 華 字 應 庵  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b11_13",
+    "original":"蘄州汪氏子也。",
+    "folio":6,
+    "stemmed":"蘄 州 汪 氏 子 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b12_3",
+    "original":"生而奇傑不類凡兒。",
+    "folio":6,
+    "stemmed":"生 而 奇 傑 不 類 凡 兒  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b12_13",
+    "original":"年十七依於東禪薙髮。",
+    "folio":6,
+    "stemmed":"年 十 七 依 於 東 禪 薙 髮  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b13_7",
+    "original":"首謁遂和尚略得染指法味。",
+    "folio":6,
+    "stemmed":"首 謁 遂 和 尚 略 得 染 指 法 味  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b13_14",
+    "original":"於是遍參知識。",
+    "folio":6,
+    "stemmed":"於 是 遍 參 知 識  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b14_2",
+    "original":"靡所契證。",
+    "folio":6,
+    "stemmed":"靡 所 契 證  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b14_13",
+    "original":"聞圓悟住雲居煅煉學者。",
+    "folio":6,
+    "stemmed":"聞 圓 悟 住 雲 居 煅 煉 學 者  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b15_1",
+    "original":"華往禮依侍。",
+    "folio":6,
+    "stemmed":"華 往 禮 依 侍  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b15_8",
+    "original":"悟乃痛與錐剳。",
+    "folio":6,
+    "stemmed":"悟 乃 痛 與 錐 剳  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b16_2",
+    "original":"值悟返蜀指見虎丘隆禪師。",
+    "folio":6,
+    "stemmed":"值 悟 返 蜀 指 見 虎 丘 隆 禪 師  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b16_10",
+    "original":"侍一載頓明大事。",
+    "folio":6,
+    "stemmed":"侍 一 載 頓 明 大 事  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b17_2",
+    "original":"已而訪此菴元命分座。",
+    "folio":6,
+    "stemmed":"已 而 訪 此 菴 元 命 分 座  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b17_9",
+    "original":"於是開堂妙嚴。",
+    "folio":6,
+    "stemmed":"於 是 開 堂 妙 嚴  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b17_13",
+    "original":"遷歸宗。",
+    "folio":6,
+    "stemmed":"遷 歸 宗  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b18_1",
+    "original":"時大慧在梅陽。",
+    "folio":6,
+    "stemmed":"時 大 慧 在 梅 陽  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b18_9",
+    "original":"有僧傳華示眾語。",
+    "folio":6,
+    "stemmed":"有 僧 傳 華 示 眾 語  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b18_18",
+    "original":"大慧見之極口稱歎。",
+    "folio":6,
+    "stemmed":"大 慧 見 之 極 口 稱 歎  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b19_4",
+    "original":"復寄偈曰。",
+    "folio":6,
+    "stemmed":"復 寄 偈 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b19_12",
+    "original":"坐斷金輪第一峯。",
+    "folio":6,
+    "stemmed":"坐 斷 金 輪 第 一 峯  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b20_2",
+    "original":"千妖百怪盡潛踪。",
+    "folio":6,
+    "stemmed":"千 妖 百 怪 盡 潛 踪  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b20_10",
+    "original":"年來又得真消息。",
+    "folio":6,
+    "stemmed":"年 來 又 得 真 消 息  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b20_18",
+    "original":"報道楊岐正脈通。",
+    "folio":6,
+    "stemmed":"報 道 楊 岐 正 脈 通  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b21_7",
+    "original":"虎丘忌日拈香曰。",
+    "folio":6,
+    "stemmed":"虎 丘 忌 日 拈 香 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b22_2",
+    "original":"生平沒興撞著這無意智老漢。",
+    "folio":6,
+    "stemmed":"生 平 沒 興 撞 著 這 無 意 智 老 漢  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b22_11",
+    "original":"做盡伎倆湊泊不得。",
+    "folio":6,
+    "stemmed":"做 盡 伎 倆 湊 泊 不 得  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b22_18",
+    "original":"從此卸却干戈。",
+    "folio":6,
+    "stemmed":"從 此 卸 却 干 戈  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b23_6",
+    "original":"隨分著衣喫飲。",
+    "folio":6,
+    "stemmed":"隨 分 著 衣 喫 飲  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b23_15",
+    "original":"二十年來坐曲彔床。",
+    "folio":6,
+    "stemmed":"二 十 年 來 坐 曲 彔 床  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b24_4",
+    "original":"懸羊頭賣狗肉。",
+    "folio":6,
+    "stemmed":"懸 羊 頭 賣 狗 肉  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b24_11",
+    "original":"知他有甚憑據。",
+    "folio":6,
+    "stemmed":"知 他 有 甚 憑 據  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b25_3",
+    "original":"雖然一年一度燒香日。",
+    "folio":6,
+    "stemmed":"雖 然 一 年 一 度 燒 香 日  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b25_11",
+    "original":"千古令人恨轉深。",
+    "folio":6,
+    "stemmed":"千 古 令 人 恨 轉 深  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b26_3",
+    "original":"世稱華與杲二甘露門。",
+    "folio":6,
+    "stemmed":"世 稱 華 與 杲 二 甘 露 門  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b26_9",
+    "original":"甞戒徒眾曰。",
+    "folio":6,
+    "stemmed":"甞 戒 徒 眾 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b26_15",
+    "original":"衲僧著草鞋。",
+    "folio":6,
+    "stemmed":"衲 僧 著 草 鞋  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b27_8",
+    "original":"住院何事口如黿蛇惡窟乎。",
+    "folio":6,
+    "stemmed":"住 院 何 事 口 如 黿 蛇 惡 窟 乎  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921b28_11",
+    "original":"宋隆興元年六月十三日奄然而化塔全身於東山。",
+    "folio":6,
+    "stemmed":"宋 隆 興 元 年 六 月 十 三 日 奄 然 而 化 塔 全 身 於 東 山  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c01_7",
+    "original":"6 臨安府靈隱寺沙門釋德光傳臨安府靈隱寺沙門釋德光傳六光化吉月庵杲百丈震釋德光賜號佛照。",
+    "folio":6,
+    "stemmed":"6   臨 安 府 靈 隱 寺 沙 門 釋 德 光 傳 臨 安 府 靈 隱 寺 沙 門 釋 德 光 傳 六 光 化 吉 月 庵 杲 百 丈 震 釋 德 光 賜 號 佛 照  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c01_15",
+    "original":"臨江軍彭氏子也。",
+    "folio":6,
+    "stemmed":"臨 江 軍 彭 氏 子 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c02_15",
+    "original":"志學之年即依本郡光化寺吉和尚薙髮受具。",
+    "folio":6,
+    "stemmed":"志 學 之 年 即 依 本 郡 光 化 寺 吉 和 尚 薙 髮 受 具  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c03_5",
+    "original":"一日入室吉問曰。",
+    "folio":6,
+    "stemmed":"一 日 入 室 吉 問 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c04_1",
+    "original":"不是心不是佛不是物是個甚麼光。",
+    "folio":6,
+    "stemmed":"不 是 心 不 是 佛 不 是 物 是 個 甚 麼 光  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c04_8",
+    "original":"罔措通夕不寐。",
+    "folio":6,
+    "stemmed":"罔 措 通 夕 不 寐  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c04_17",
+    "original":"次日復登方丈請曰。",
+    "folio":6,
+    "stemmed":"次 日 復 登 方 丈 請 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c05_5",
+    "original":"昨蒙和尚垂問。",
+    "folio":6,
+    "stemmed":"昨 蒙 和 尚 垂 問  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c06_4",
+    "original":"既不是心不是佛又不是物畢竟是甚麼。",
+    "folio":6,
+    "stemmed":"既 不 是 心 不 是 佛 又 不 是 物 畢 竟 是 甚 麼  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c06_11",
+    "original":"望乞慈悲指示。",
+    "folio":6,
+    "stemmed":"望 乞 慈 悲 指 示  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c06_18",
+    "original":"吉乃震威喝曰。",
+    "folio":6,
+    "stemmed":"吉 乃 震 威 喝 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c07_11",
+    "original":"這沙彌更要我與儞下註脚在。",
+    "folio":6,
+    "stemmed":"這 沙 彌 更 要 我 與 儞 下 註 脚 在  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c08_1",
+    "original":"拈棒劈脊打出。",
+    "folio":6,
+    "stemmed":"拈 棒 劈 脊 打 出  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c08_6",
+    "original":"於是有省。",
+    "folio":6,
+    "stemmed":"於 是 有 省  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c08_18",
+    "original":"次謁月菴杲應菴華百丈震。",
+    "folio":6,
+    "stemmed":"次 謁 月 菴 杲 應 菴 華 百 丈 震  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c09_4",
+    "original":"皆無所入。",
+    "folio":6,
+    "stemmed":"皆 無 所 入  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c09_16",
+    "original":"適大慧奉旨住明州阿育王。",
+    "folio":6,
+    "stemmed":"適 大 慧 奉 旨 住 明 州 阿 育 王  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c10_5",
+    "original":"四海英才鱗集。",
+    "folio":6,
+    "stemmed":"四 海 英 才 鱗 集  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c10_12",
+    "original":"光亦造焉入室。",
+    "folio":6,
+    "stemmed":"光 亦 造 焉 入 室  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c11_2",
+    "original":"大慧舉竹篦問曰。",
+    "folio":6,
+    "stemmed":"大 慧 舉 竹 篦 問 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c11_9",
+    "original":"喚作竹篦則觸。",
+    "folio":6,
+    "stemmed":"喚 作 竹 篦 則 觸  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c11_17",
+    "original":"不喚作竹篦則背。",
+    "folio":6,
+    "stemmed":"不 喚 作 竹 篦 則 背  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c12_7",
+    "original":"不得下語不得無語。",
+    "folio":6,
+    "stemmed":"不 得 下 語 不 得 無 語  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c12_11",
+    "original":"光擬對。",
+    "folio":6,
+    "stemmed":"光 擬 對  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c12_16",
+    "original":"大慧便棒。",
+    "folio":6,
+    "stemmed":"大 慧 便 棒  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c13_4",
+    "original":"光豁然大悟。",
+    "folio":6,
+    "stemmed":"光 豁 然 大 悟  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c13_15",
+    "original":"從前所得到此瓦解氷消。",
+    "folio":6,
+    "stemmed":"從 前 所 得 到 此 瓦 解 氷 消  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c14_13",
+    "original":"侍久之宋孝宗慕光道價降詔命住靈隱。",
+    "folio":6,
+    "stemmed":"侍 久 之 宋 孝 宗 慕 光 道 價 降 詔 命 住 靈 隱  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c15_5",
+    "original":"一日召問對答稱旨。",
+    "folio":6,
+    "stemmed":"一 日 召 問 對 答 稱 旨  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c15_11",
+    "original":"留宿內觀堂。",
+    "folio":6,
+    "stemmed":"留 宿 內 觀 堂  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c15_15",
+    "original":"後示寂。",
+    "folio":6,
+    "stemmed":"後 示 寂  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c16_3",
+    "original":"塔全身於東菴。",
+    "folio":6,
+    "stemmed":"塔 全 身 於 東 菴  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c18_9",
+    "original":"7 眉州中巖寺沙門釋祖覺傳眉州中巖寺沙門釋祖覺傳七慧日能南堂靜釋祖覺嘉州楊氏子也。",
+    "folio":6,
+    "stemmed":"7   眉 州 中 巖 寺 沙 門 釋 祖 覺 傳 眉 州 中 巖 寺 沙 門 釋 祖 覺 傳 七 慧 日 能 南 堂 靜 釋 祖 覺 嘉 州 楊 氏 子 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c19_2",
+    "original":"自幼聰慧書史過目成誦。",
+    "folio":6,
+    "stemmed":"自 幼 聰 慧 書 史 過 目 成 誦  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c19_10",
+    "original":"乃著書排斥釋氏。",
+    "folio":6,
+    "stemmed":"乃 著 書 排 斥 釋 氏  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c19_16",
+    "original":"忽惡境現前。",
+    "folio":6,
+    "stemmed":"忽 惡 境 現 前  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c20_2",
+    "original":"大怖悔過。",
+    "folio":6,
+    "stemmed":"大 怖 悔 過  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c20_11",
+    "original":"出家依慧日能和尚。",
+    "folio":6,
+    "stemmed":"出 家 依 慧 日 能 和 尚  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c20_18",
+    "original":"未幾疽生膝上。",
+    "folio":6,
+    "stemmed":"未 幾 疽 生 膝 上  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c21_6",
+    "original":"五年醫治莫愈。",
+    "folio":6,
+    "stemmed":"五 年 醫 治 莫 愈  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c21_13",
+    "original":"因書華嚴合論。",
+    "folio":6,
+    "stemmed":"因 書 華 嚴 合 論  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c22_2",
+    "original":"畢夕遂感異夢。",
+    "folio":6,
+    "stemmed":"畢 夕 遂 感 異 夢  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c22_9",
+    "original":"旦即捨杖趨履。",
+    "folio":6,
+    "stemmed":"旦 即 捨 杖 趨 履  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c23_2",
+    "original":"仍前一日誦至現相品曰。",
+    "folio":6,
+    "stemmed":"仍 前 一 日 誦 至 現 相 品 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c23_13",
+    "original":"佛身無有生而能示出生。",
+    "folio":6,
+    "stemmed":"佛 身 無 有 生 而 能 示 出 生  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c24_6",
+    "original":"法性如虛空諸佛於中住。",
+    "folio":6,
+    "stemmed":"法 性 如 虛 空 諸 佛 於 中 住  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c24_17",
+    "original":"無住亦無去處處皆見佛。",
+    "folio":6,
+    "stemmed":"無 住 亦 無 去 處 處 皆 見 佛  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c25_6",
+    "original":"遂悟華嚴宗旨。",
+    "folio":6,
+    "stemmed":"遂 悟 華 嚴 宗 旨  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c25_13",
+    "original":"至是始登僧籍。",
+    "folio":6,
+    "stemmed":"至 是 始 登 僧 籍  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c26_4",
+    "original":"府帥請講於千部堂。",
+    "folio":6,
+    "stemmed":"府 帥 請 講 於 千 部 堂  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c26_14",
+    "original":"而詞辯宏放眾所欽服。",
+    "folio":6,
+    "stemmed":"而 詞 辯 宏 放 眾 所 欽 服  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c27_7",
+    "original":"適南堂靜禪師過其門謂曰。",
+    "folio":6,
+    "stemmed":"適 南 堂 靜 禪 師 過 其 門 謂 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c27_16",
+    "original":"觀公講說獨步西南。",
+    "folio":6,
+    "stemmed":"觀 公 講 說 獨 步 西 南  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c28_7",
+    "original":"惜未解離文字相耳。",
+    "folio":6,
+    "stemmed":"惜 未 解 離 文 字 相 耳  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0921c28_14",
+    "original":"儻能問道方外。",
+    "folio":6,
+    "stemmed":"儻 能 問 道 方 外  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a01_4",
+    "original":"即今之周金剛也。",
+    "folio":6,
+    "stemmed":"即 今 之 周 金 剛 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a01_14",
+    "original":"覺欣然罷講南遊禪社。",
+    "folio":6,
+    "stemmed":"覺 欣 然 罷 講 南 遊 禪 社  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a02_4",
+    "original":"遂依圓悟於鍾阜。",
+    "folio":6,
+    "stemmed":"遂 依 圓 悟 於 鍾 阜  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a02_11",
+    "original":"一日入室悟舉。",
+    "folio":6,
+    "stemmed":"一 日 入 室 悟 舉  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a03_5",
+    "original":"羅山道有言時踞虎頭收虎尾。",
+    "folio":6,
+    "stemmed":"羅 山 道 有 言 時 踞 虎 頭 收 虎 尾  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a03_13",
+    "original":"第一句下明宗旨。",
+    "folio":6,
+    "stemmed":"第 一 句 下 明 宗 旨  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a04_7",
+    "original":"無言時覿露機鋒如同電拂。",
+    "folio":6,
+    "stemmed":"無 言 時 覿 露 機 鋒 如 同 電 拂  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a04_12",
+    "original":"作麼生會。",
+    "folio":6,
+    "stemmed":"作 麼 生 會  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a04_16",
+    "original":"覺罔對。",
+    "folio":6,
+    "stemmed":"覺 罔 對  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a05_8",
+    "original":"於是夙夜參究忽有所省。",
+    "folio":6,
+    "stemmed":"於 是 夙 夜 參 究 忽 有 所 省  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a05_13",
+    "original":"作偈呈曰。",
+    "folio":6,
+    "stemmed":"作 偈 呈 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a06_1",
+    "original":"家住孤峯頂。",
+    "folio":6,
+    "stemmed":"家 住 孤 峯 頂  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a06_7",
+    "original":"長年半掩門。",
+    "folio":6,
+    "stemmed":"長 年 半 掩 門  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a06_13",
+    "original":"自嗟身已老。",
+    "folio":6,
+    "stemmed":"自 嗟 身 已 老  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a06_19",
+    "original":"活計付兒孫。",
+    "folio":6,
+    "stemmed":"活 計 付 兒 孫  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a07_4",
+    "original":"悟未許可。",
+    "folio":6,
+    "stemmed":"悟 未 許 可  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a07_11",
+    "original":"次日入室悟問。",
+    "folio":6,
+    "stemmed":"次 日 入 室 悟 問  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a07_19",
+    "original":"昨日公案作麼生。",
+    "folio":6,
+    "stemmed":"昨 日 公 案 作 麼 生  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a08_3",
+    "original":"覺擬對。",
+    "folio":6,
+    "stemmed":"覺 擬 對  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a08_7",
+    "original":"悟喝曰。",
+    "folio":6,
+    "stemmed":"悟 喝 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a08_16",
+    "original":"佛法不是這個道理。",
+    "folio":6,
+    "stemmed":"佛 法 不 是 這 個 道 理  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a09_7",
+    "original":"覺復留五年愈更迷悶。",
+    "folio":6,
+    "stemmed":"覺 復 留 五 年 愈 更 迷 悶  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a10_4",
+    "original":"後於廬山棲賢閱浮山遠削執論云。",
+    "folio":6,
+    "stemmed":"後 於 廬 山 棲 賢 閱 浮 山 遠 削 執 論 云  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a10_11",
+    "original":"若道悟有親疎。",
+    "folio":6,
+    "stemmed":"若 道 悟 有 親 疎  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a11_5",
+    "original":"豈有旃檀林中却生臭草。",
+    "folio":6,
+    "stemmed":"豈 有 旃 檀 林 中 却 生 臭 草  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a11_11",
+    "original":"始豁然大悟。",
+    "folio":6,
+    "stemmed":"始 豁 然 大 悟  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a12_1",
+    "original":"遂作偈寄圓悟曰。",
+    "folio":6,
+    "stemmed":"遂 作 偈 寄 圓 悟 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a12_9",
+    "original":"出林依舊入蓬蒿。",
+    "folio":6,
+    "stemmed":"出 林 依 舊 入 蓬 蒿  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a12_17",
+    "original":"天網恢恢不可迯。",
+    "folio":6,
+    "stemmed":"天 網 恢 恢 不 可 迯  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a13_7",
+    "original":"誰信業緣無避處。",
+    "folio":6,
+    "stemmed":"誰 信 業 緣 無 避 處  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a13_15",
+    "original":"歸來不怕語聲高。",
+    "folio":6,
+    "stemmed":"歸 來 不 怕 語 聲 高  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a14_4",
+    "original":"悟大喜持示眾曰。",
+    "folio":6,
+    "stemmed":"悟 大 喜 持 示 眾 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a14_10",
+    "original":"覺華嚴徹矣。",
+    "folio":6,
+    "stemmed":"覺 華 嚴 徹 矣  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a15_4",
+    "original":"自是諸方皆稱曰覺華嚴云。",
+    "folio":6,
+    "stemmed":"自 是 諸 方 皆 稱 曰 覺 華 嚴 云  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a15_9",
+    "original":"上堂僧問。",
+    "folio":6,
+    "stemmed":"上 堂 僧 問  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a16_3",
+    "original":"最初威音王末後樓至佛未審。",
+    "folio":6,
+    "stemmed":"最 初 威 音 王 末 後 樓 至 佛 未 審  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a16_9",
+    "original":"參見甚麼人。",
+    "folio":6,
+    "stemmed":"參 見 甚 麼 人  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a16_12",
+    "original":"覺曰。",
+    "folio":6,
+    "stemmed":"覺 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a17_5",
+    "original":"家住大梁城更問長安路。",
+    "folio":6,
+    "stemmed":"家 住 大 梁 城 更 問 長 安 路  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a17_8",
+    "original":"僧問。",
+    "folio":6,
+    "stemmed":"僧 問  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a18_1",
+    "original":"如何是一喝如金剛王寶劍。",
+    "folio":6,
+    "stemmed":"如 何 是 一 喝 如 金 剛 王 寶 劍  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a18_4",
+    "original":"覺曰。",
+    "folio":6,
+    "stemmed":"覺 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a18_9",
+    "original":"血濺梵天。",
+    "folio":6,
+    "stemmed":"血 濺 梵 天  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a19_2",
+    "original":"曰如何是一喝如踞地師子。",
+    "folio":6,
+    "stemmed":"曰 如 何 是 一 喝 如 踞 地 師 子  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a19_5",
+    "original":"覺曰。",
+    "folio":6,
+    "stemmed":"覺 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a19_11",
+    "original":"驚殺野狐狸。",
+    "folio":6,
+    "stemmed":"驚 殺 野 狐 狸  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a20_4",
+    "original":"曰如何是一喝如探竿影草。",
+    "folio":6,
+    "stemmed":"曰 如 何 是 一 喝 如 探 竿 影 草  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a20_7",
+    "original":"覺曰。",
+    "folio":6,
+    "stemmed":"覺 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a20_13",
+    "original":"驗得儞骨出。",
+    "folio":6,
+    "stemmed":"驗 得 儞 骨 出  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a21_6",
+    "original":"曰如何是一喝不作一喝用。",
+    "folio":6,
+    "stemmed":"曰 如 何 是 一 喝 不 作 一 喝 用  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a21_9",
+    "original":"覺曰。",
+    "folio":6,
+    "stemmed":"覺 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a21_17",
+    "original":"直須識取把鍼人。",
+    "folio":6,
+    "stemmed":"直 須 識 取 把 鍼 人  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a22_6",
+    "original":"莫道鴛鴦好毛羽。",
+    "folio":6,
+    "stemmed":"莫 道 鴛 鴦 好 毛 羽  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a23_2",
+    "original":"系曰。",
+    "folio":6,
+    "stemmed":"系 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a23_12",
+    "original":"覺華嚴既於講席有聲。",
+    "folio":6,
+    "stemmed":"覺 華 嚴 既 於 講 席 有 聲  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a24_3",
+    "original":"南堂過而稍施提勉。",
+    "folio":6,
+    "stemmed":"南 堂 過 而 稍 施 提 勉  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a24_10",
+    "original":"便能罷講南遊。",
+    "folio":6,
+    "stemmed":"便 能 罷 講 南 遊  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a25_3",
+    "original":"正所謂見鞭影而行者也。",
+    "folio":6,
+    "stemmed":"正 所 謂 見 鞭 影 而 行 者 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a25_8",
+    "original":"豈不駿哉。",
+    "folio":6,
+    "stemmed":"豈 不 駿 哉  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a25_17",
+    "original":"至為圓悟項門一錐。",
+    "folio":6,
+    "stemmed":"至 為 圓 悟 項 門 一 錐  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a26_9",
+    "original":"雖然魂飛要且命根未斷。",
+    "folio":6,
+    "stemmed":"雖 然 魂 飛 要 且 命 根 未 斷  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a26_14",
+    "original":"尚依識見。",
+    "folio":6,
+    "stemmed":"尚 依 識 見  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a27_4",
+    "original":"呈偈遭圓悟一喝。",
+    "folio":6,
+    "stemmed":"呈 偈 遭 圓 悟 一 喝  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a27_9",
+    "original":"直得氣索。",
+    "folio":6,
+    "stemmed":"直 得 氣 索  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a27_16",
+    "original":"五年而始大徹。",
+    "folio":6,
+    "stemmed":"五 年 而 始 大 徹  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a29_3",
+    "original":"噫古為人師者必俟學者寒灰焰發絕後復甦方肯點頭。",
+    "folio":6,
+    "stemmed":"噫 古 為 人 師 者 必 俟 學 者 寒 灰 焰 發 絕 後 復 甦 方 肯 點 頭  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922a29_13",
+    "original":"未甞輕許而賊夫人子。",
+    "folio":6,
+    "stemmed":"未 甞 輕 許 而 賊 夫 人 子  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b01_4",
+    "original":"今人纔見靈利後生。",
+    "folio":6,
+    "stemmed":"今 人 纔 見 靈 利 後 生  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b01_11",
+    "original":"便使拈弄公案。",
+    "folio":6,
+    "stemmed":"便 使 拈 弄 公 案  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b02_2",
+    "original":"作得一偈頓焉稱賞。",
+    "folio":6,
+    "stemmed":"作 得 一 偈 頓 焉 稱 賞  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b02_10",
+    "original":"不亦彼此皆瞎也。",
+    "folio":6,
+    "stemmed":"不 亦 彼 此 皆 瞎 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b03_3",
+    "original":"殺人之惡小害人之惡大。",
+    "folio":6,
+    "stemmed":"殺 人 之 惡 小 害 人 之 惡 大  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b04_2",
+    "original":"其誰乎善於講者又當以覺公為良範。",
+    "folio":6,
+    "stemmed":"其 誰 乎 善 於 講 者 又 當 以 覺 公 為 良 範  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b06_6",
+    "original":"8 台州釣魚臺沙門釋自回傳台州釣魚臺沙門釋自回傳八釋自回號石頭。",
+    "folio":6,
+    "stemmed":"8   台 州 釣 魚 臺 沙 門 釋 自 回 傳 台 州 釣 魚 臺 沙 門 釋 自 回 傳 八 釋 自 回 號 石 頭  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b06_10",
+    "original":"臨海人。",
+    "folio":6,
+    "stemmed":"臨 海 人  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b06_15",
+    "original":"世業石工。",
+    "folio":6,
+    "stemmed":"世 業 石 工  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b07_3",
+    "original":"人呼石頭和尚。",
+    "folio":6,
+    "stemmed":"人 呼 石 頭 和 尚  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b07_12",
+    "original":"眼如盲龜不識一字。",
+    "folio":6,
+    "stemmed":"眼 如 盲 龜 不 識 一 字  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b08_3",
+    "original":"善根內啟志慕空宗。",
+    "folio":6,
+    "stemmed":"善 根 內 啟 志 慕 空 宗  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b08_12",
+    "original":"求人口授法華能誦。",
+    "folio":6,
+    "stemmed":"求 人 口 授 法 華 能 誦  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b09_6",
+    "original":"遂棄家投大隨和尚供掃灑。",
+    "folio":6,
+    "stemmed":"遂 棄 家 投 大 隨 和 尚 供 掃 灑  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b09_15",
+    "original":"寺中令取崖石公用。",
+    "folio":6,
+    "stemmed":"寺 中 令 取 崖 石 公 用  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b10_4",
+    "original":"回手不釋鎚鑿。",
+    "folio":6,
+    "stemmed":"回 手 不 釋 鎚 鑿  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b10_10",
+    "original":"誦經不輟口。",
+    "folio":6,
+    "stemmed":"誦 經 不 輟 口  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b10_16",
+    "original":"隨見而語曰。",
+    "folio":6,
+    "stemmed":"隨 見 而 語 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b11_6",
+    "original":"今日硿磕明日硿磕。",
+    "folio":6,
+    "stemmed":"今 日 硿 磕 明 日 硿 磕  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b11_15",
+    "original":"生死到來作甚折合。",
+    "folio":6,
+    "stemmed":"生 死 到 來 作 甚 折 合  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b12_2",
+    "original":"回愕然設禮。",
+    "folio":6,
+    "stemmed":"回 愕 然 設 禮  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b12_8",
+    "original":"願聞究竟法。",
+    "folio":6,
+    "stemmed":"願 聞 究 竟 法  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b13_4",
+    "original":"隨令罷誦經看趙州勘婆子因緣。",
+    "folio":6,
+    "stemmed":"隨 令 罷 誦 經 看 趙 州 勘 婆 子 因 緣  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b13_13",
+    "original":"於是念念參究久之。",
+    "folio":6,
+    "stemmed":"於 是 念 念 參 究 久 之  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b14_2",
+    "original":"一日鑿石石堅。",
+    "folio":6,
+    "stemmed":"一 日 鑿 石 石 堅  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b14_12",
+    "original":"乃盡力一鎚火光迸出。",
+    "folio":6,
+    "stemmed":"乃 盡 力 一 鎚 火 光 迸 出  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b14_17",
+    "original":"忽然徹悟。",
+    "folio":6,
+    "stemmed":"忽 然 徹 悟  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b15_8",
+    "original":"即走方丈禮拜呈偈曰。",
+    "folio":6,
+    "stemmed":"即 走 方 丈 禮 拜 呈 偈 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b15_17",
+    "original":"用盡工夫渾無巴鼻。",
+    "folio":6,
+    "stemmed":"用 盡 工 夫 渾 無 巴 鼻  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b16_8",
+    "original":"火光迸散元在這裏。",
+    "folio":6,
+    "stemmed":"火 光 迸 散 元 在 這 裏  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b16_13",
+    "original":"隨大喜曰。",
+    "folio":6,
+    "stemmed":"隨 大 喜 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b16_17",
+    "original":"子徹也。",
+    "folio":6,
+    "stemmed":"子 徹 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b17_5",
+    "original":"復述勘婆偈曰。",
+    "folio":6,
+    "stemmed":"復 述 勘 婆 偈 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b17_13",
+    "original":"三軍不動旗閃爍。",
+    "folio":6,
+    "stemmed":"三 軍 不 動 旗 閃 爍  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b18_3",
+    "original":"老婆正是魔王脚。",
+    "folio":6,
+    "stemmed":"老 婆 正 是 魔 王 脚  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b18_11",
+    "original":"趙州無柄鐵掃帚。",
+    "folio":6,
+    "stemmed":"趙 州 無 柄 鐵 掃 帚  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b19_1",
+    "original":"掃蕩烟塵空索索。",
+    "folio":6,
+    "stemmed":"掃 蕩 烟 塵 空 索 索  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b19_5",
+    "original":"隨可之。",
+    "folio":6,
+    "stemmed":"隨 可 之  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b19_14",
+    "original":"遂為薙染授以僧服。",
+    "folio":6,
+    "stemmed":"遂 為 薙 染 授 以 僧 服  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b20_2",
+    "original":"出世住釣魚臺。",
+    "folio":6,
+    "stemmed":"出 世 住 釣 魚 臺  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b20_6",
+    "original":"上堂曰。",
+    "folio":6,
+    "stemmed":"上 堂 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b20_17",
+    "original":"參禪學道大以井底叫渴。",
+    "folio":6,
+    "stemmed":"參 禪 學 道 大 以 井 底 叫 渴  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b21_10",
+    "original":"殊不知塞耳塞眼回避不及。",
+    "folio":6,
+    "stemmed":"殊 不 知 塞 耳 塞 眼 回 避 不 及  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b22_8",
+    "original":"且如十二時中行住坐臥動轉施為。",
+    "folio":6,
+    "stemmed":"且 如 十 二 時 中 行住坐臥 動 轉 施 為  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b22_15",
+    "original":"是甚麼人使作。",
+    "folio":6,
+    "stemmed":"是 甚 麼 人 使 作  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b23_8",
+    "original":"儞眼見耳聞何處不是路頭。",
+    "folio":6,
+    "stemmed":"儞 眼 見 耳 聞 何 處 不 是 路 頭  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b24_2",
+    "original":"若識得路頭便是大解脫處。",
+    "folio":6,
+    "stemmed":"若 識 得 路 頭 便 是 大 解 脫 處  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b24_11",
+    "original":"方知老漢與儞證明。",
+    "folio":6,
+    "stemmed":"方 知 老 漢 與 儞 證 明  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b25_1",
+    "original":"山河大地與儞證明。",
+    "folio":6,
+    "stemmed":"山 河 大 地 與 儞 證 明  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b25_15",
+    "original":"所以道十方薄伽梵一路涅槃門。",
+    "folio":6,
+    "stemmed":"所 以 道 十 方 薄 伽 梵 一 路 涅 槃 門  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b26_7",
+    "original":"諸仁者大凡有一物當途。",
+    "folio":6,
+    "stemmed":"諸 仁 者 大 凡 有 一 物 當 途  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b26_17",
+    "original":"要見一物當途之根源。",
+    "folio":6,
+    "stemmed":"要 見 一 物 當 途 之 根 源  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b27_13",
+    "original":"一物無處要見一物無處之根源。",
+    "folio":6,
+    "stemmed":"一 物 無 處 要 見 一 物 無 處 之 根 源  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b28_5",
+    "original":"見得根源源無所源。",
+    "folio":6,
+    "stemmed":"見 得 根 源 源 無 所 源  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b28_14",
+    "original":"所源既非何處不圓。",
+    "folio":6,
+    "stemmed":"所 源 既 非 何 處 不 圓  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922b29_9",
+    "original":"諸禪德儞看老僧有甚勝儞處。",
+    "folio":6,
+    "stemmed":"諸 禪 德 儞 看 老 僧 有 甚 勝 儞 處  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c01_1",
+    "original":"儞有甚不如老漢處。",
+    "folio":6,
+    "stemmed":"儞 有 甚 不 如 老 漢 處  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c01_11",
+    "original":"會麼太湖三萬六千頃。",
+    "folio":6,
+    "stemmed":"會 麼 太 湖 三 萬 六 千 頃  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c02_1",
+    "original":"月在波心說向誰。",
+    "folio":6,
+    "stemmed":"月 在 波 心 說 向 誰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c03_2",
+    "original":"系曰。",
+    "folio":6,
+    "stemmed":"系 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c03_14",
+    "original":"觀回師資生之業既傭且拙。",
+    "folio":6,
+    "stemmed":"觀 回 師 資 生 之 業 既 傭 且 拙  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c04_5",
+    "original":"學佛之志既銳且勤。",
+    "folio":6,
+    "stemmed":"學 佛 之 志 既 銳 且 勤  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c04_14",
+    "original":"始而迷則眸子如盲。",
+    "folio":6,
+    "stemmed":"始 而 迷 則 眸 子 如 盲  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c05_4",
+    "original":"後而悟則通身是眼。",
+    "folio":6,
+    "stemmed":"後 而 悟 則 通 身 是 眼  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c06_2",
+    "original":"至于說偈談禪大有超今逸古之風。",
+    "folio":6,
+    "stemmed":"至 于 說 偈 談 禪 大 有 超 今 逸 古 之 風  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c06_10",
+    "original":"得非能者復起耶。",
+    "folio":6,
+    "stemmed":"得 非 能 者 復 起 耶  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c07_4",
+    "original":"苟使其居讀五車出窮三藏。",
+    "folio":6,
+    "stemmed":"苟 使 其 居 讀 五 車 出 窮 三 藏  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c08_1",
+    "original":"又烏有一鎚而火光迸出之象哉。",
+    "folio":6,
+    "stemmed":"又 烏 有 一 鎚 而 火 光 迸 出 之 象 哉  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c08_12",
+    "original":"大凡天下治愈隆亂愈起。",
+    "folio":6,
+    "stemmed":"大 凡 天 下 治 愈 隆 亂 愈 起  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c08_19",
+    "original":"學固博執益封。",
+    "folio":6,
+    "stemmed":"學 固 博 執 益 封  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c09_8",
+    "original":"古人斥為雜毒入心。",
+    "folio":6,
+    "stemmed":"古 人 斥 為 雜 毒 入 心  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c09_13",
+    "original":"良有以也。",
+    "folio":6,
+    "stemmed":"良 有 以 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c10_12",
+    "original":"於戲世之錦心繡口之士文龍義虎之僧。",
+    "folio":6,
+    "stemmed":"於 戲 世 之 錦 心 繡 口 之 士 文 龍 義 虎 之 僧  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c11_9",
+    "original":"能為昌黎子之虛心周金剛之自返。",
+    "folio":6,
+    "stemmed":"能 為 昌 黎 子 之 虛 心 周 金 剛 之 自 返  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c12_4",
+    "original":"胡慮油不出麵道不我親哉。",
+    "folio":6,
+    "stemmed":"胡 慮 油 不 出 麵 道 不 我 親 哉  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c12_17",
+    "original":"所以追風逐日者非駑駘之足。",
+    "folio":6,
+    "stemmed":"所 以 追 風 逐 日 者 非 駑 駘 之 足  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c13_10",
+    "original":"訶佛罵祖者豈鄙陋之夫。",
+    "folio":6,
+    "stemmed":"訶 佛 罵 祖 者 豈 鄙 陋 之 夫  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c14_5",
+    "original":"或膠錮於見知枳梏其比量。",
+    "folio":6,
+    "stemmed":"或 膠 錮 於 見 知 枳 梏 其 比 量  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c14_15",
+    "original":"又莫若頑璞之易琢也。",
+    "folio":6,
+    "stemmed":"又 莫 若 頑 璞 之 易 琢 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c16_6",
+    "original":"9 潼川護聖寺沙門釋居靜傳潼川護聖寺沙門釋居靜傳九釋居靜號愚丘。",
+    "folio":6,
+    "stemmed":"9   潼 川 護 聖 寺 沙 門 釋 居 靜 傳 潼 川 護 聖 寺 沙 門 釋 居 靜 傳 九 釋 居 靜 號 愚 丘  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c16_13",
+    "original":"成都楊氏子也。",
+    "folio":6,
+    "stemmed":"成 都 楊 氏 子 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c17_6",
+    "original":"年十四依白馬寺安慧出家。",
+    "folio":6,
+    "stemmed":"年 十 四 依 白 馬 寺 安 慧 出 家  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c17_16",
+    "original":"聞南堂禪師道望往謁。",
+    "folio":6,
+    "stemmed":"聞 南 堂 禪 師 道 望 往 謁  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c18_11",
+    "original":"堂舉香嚴枯木裏龍吟話詰之。",
+    "folio":6,
+    "stemmed":"堂 舉 香 嚴 枯 木 裏 龍 吟 話 詰 之  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c19_1",
+    "original":"靜於言下大悟。",
+    "folio":6,
+    "stemmed":"靜 於 言 下 大 悟  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c19_7",
+    "original":"一日堂問曰。",
+    "folio":6,
+    "stemmed":"一 日 堂 問 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c19_15",
+    "original":"莫守寒巖異草青。",
+    "folio":6,
+    "stemmed":"莫 守 寒 巖 異 草 青  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c20_4",
+    "original":"坐却白雲宗不妙。",
+    "folio":6,
+    "stemmed":"坐 却 白 雲 宗 不 妙  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c20_9",
+    "original":"汝作麼生。",
+    "folio":6,
+    "stemmed":"汝 作 麼 生  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c20_12",
+    "original":"靜曰。",
+    "folio":6,
+    "stemmed":"靜 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c20_17",
+    "original":"直須揮劍。",
+    "folio":6,
+    "stemmed":"直 須 揮 劍  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c21_6",
+    "original":"若不揮劍漁父棲巢。",
+    "folio":6,
+    "stemmed":"若 不 揮 劍 漁 父 棲 巢  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c21_11",
+    "original":"堂矍然曰。",
+    "folio":6,
+    "stemmed":"堂 矍 然 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c22_3",
+    "original":"這小廝兒靜珍重便行。",
+    "folio":6,
+    "stemmed":"這 小 廝 兒 靜 珍 重 便 行  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c22_10",
+    "original":"後出世住東巖。",
+    "folio":6,
+    "stemmed":"後 出 世 住 東 巖  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c22_15",
+    "original":"甞謂眾曰。",
+    "folio":6,
+    "stemmed":"甞 謂 眾 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c24_5",
+    "original":"參學至要不出先南堂道最初句及末後句透得過者一生事畢。",
+    "folio":6,
+    "stemmed":"參 學 至 要 不 出 先 南 堂 道 最 初 句 及 末 後 句 透 得 過 者 一 生 事 畢  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c24_17",
+    "original":"儻或未然更與爾分作十門。",
+    "folio":6,
+    "stemmed":"儻 或 未 然 更 與 爾 分 作 十 門  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c25_6",
+    "original":"各各印證自心。",
+    "folio":6,
+    "stemmed":"各 各 印 證 自 心  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c25_13",
+    "original":"還得穩當也未。",
+    "folio":6,
+    "stemmed":"還 得 穩 當 也 未  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c26_5",
+    "original":"第一須信有教外別傳。",
+    "folio":6,
+    "stemmed":"第 一 須 信 有 教 外 別 傳  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c26_14",
+    "original":"第二知有教外別傳。",
+    "folio":6,
+    "stemmed":"第 二 知 有 教 外 別 傳  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c27_12",
+    "original":"第三須會無情說法與有情說法無二。",
+    "folio":6,
+    "stemmed":"第 三 須 會 無 情 說 法 與 有 情 說 法 無 二  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c28_7",
+    "original":"第四須見性如觀掌中之物。",
+    "folio":6,
+    "stemmed":"第 四 須 見 性 如 觀 掌 中 之 物  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c28_18",
+    "original":"了了分明一一田地穩密。",
+    "folio":6,
+    "stemmed":"了 了 分 明 一 一 田 地 穩 密  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c29_7",
+    "original":"第五須具擇法眼。",
+    "folio":6,
+    "stemmed":"第 五 須 具 擇 法 眼  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0922c29_17",
+    "original":"第六須要行鳥道玄路。",
+    "folio":6,
+    "stemmed":"第 六 須 要 行 鳥 道 玄 路  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a01_7",
+    "original":"第七須文武兼濟。",
+    "folio":6,
+    "stemmed":"第 七 須 文 武 兼 濟  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a01_15",
+    "original":"第八須摧邪顯正。",
+    "folio":6,
+    "stemmed":"第 八 須 摧 邪 顯 正  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a02_5",
+    "original":"第九須大機大用。",
+    "folio":6,
+    "stemmed":"第 九 須 大 機 大 用  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a02_14",
+    "original":"第十須向異類中行。",
+    "folio":6,
+    "stemmed":"第 十 須 向 異 類 中 行  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a03_3",
+    "original":"凡欲紹隆法種。",
+    "folio":6,
+    "stemmed":"凡 欲 紹 隆 法 種  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a04_12",
+    "original":"須盡此綱要方坐得這曲彔床子受天下人禮拜敢與佛祖為師。",
+    "folio":6,
+    "stemmed":"須 盡 此 綱 要 方 坐 得 這 曲 彔 床 子 受 天 下 人 禮 拜 敢 與 佛 祖 為 師  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a05_8",
+    "original":"若不到恁麼田地秖一向虛頭。",
+    "folio":6,
+    "stemmed":"若 不 到 恁 麼 田 地 秖 一 向 虛 頭  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a06_2",
+    "original":"他時異日閻老子未放爾在。",
+    "folio":6,
+    "stemmed":"他 時 異 日 閻 老 子 未 放 爾 在  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a06_6",
+    "original":"又偈曰。",
+    "folio":6,
+    "stemmed":"又 偈 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a06_14",
+    "original":"十門綱要掌中施。",
+    "folio":6,
+    "stemmed":"十 門 綱 要 掌 中 施  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a07_3",
+    "original":"會得來時自有為。",
+    "folio":6,
+    "stemmed":"會 得 來 時 自 有 為  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a07_11",
+    "original":"作者不須排位次。",
+    "folio":6,
+    "stemmed":"作 者 不 須 排 位 次  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a08_1",
+    "original":"大都首尾是根基。",
+    "folio":6,
+    "stemmed":"大 都 首 尾 是 根 基  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a10_6",
+    "original":"10 泉州教忠寺沙門釋彌光傳泉州教忠寺沙門釋彌光傳十黃蘗祥釋彌光號晦庵。",
+    "folio":6,
+    "stemmed":"1 0   泉 州 教 忠 寺 沙 門 釋 彌 光 傳 泉 州 教 忠 寺 沙 門 釋 彌 光 傳 十 黃 蘗 祥 釋 彌 光 號 晦 庵  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a10_13",
+    "original":"閩中季氏子也。",
+    "folio":6,
+    "stemmed":"閩 中 季 氏 子 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a11_6",
+    "original":"生寡言笑聞僧貝梵則喜。",
+    "folio":6,
+    "stemmed":"生 寡 言 笑 聞 僧 貝 梵 則 喜  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a11_17",
+    "original":"年十五依文慧禪師圓頂。",
+    "folio":6,
+    "stemmed":"年 十 五 依 文 慧 禪 師 圓 頂  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a12_8",
+    "original":"未窮海藏喜究群書。",
+    "folio":6,
+    "stemmed":"未 窮 海 藏 喜 究 群 書  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a12_13",
+    "original":"一日計曰。",
+    "folio":6,
+    "stemmed":"一 日 計 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a13_4",
+    "original":"剃髮染衣當期悟徹。",
+    "folio":6,
+    "stemmed":"剃 髮 染 衣 當 期 悟 徹  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a13_11",
+    "original":"而醉心俗典耶。",
+    "folio":6,
+    "stemmed":"而 醉 心 俗 典 耶  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a13_17",
+    "original":"遂首謁圓悟。",
+    "folio":6,
+    "stemmed":"遂 首 謁 圓 悟  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a14_7",
+    "original":"次參黃蘗詳高庵悟。",
+    "folio":6,
+    "stemmed":"次 參 黃 蘗 詳 高 庵 悟  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a14_12",
+    "original":"機語皆契。",
+    "folio":6,
+    "stemmed":"機 語 皆 契  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a15_4",
+    "original":"以淮楚盜起歸謁佛心。",
+    "folio":6,
+    "stemmed":"以 淮 楚 盜 起 歸 謁 佛 心  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a15_13",
+    "original":"值大慧寓廣因從之。",
+    "folio":6,
+    "stemmed":"值 大 慧 寓 廣 因 從 之  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a15_16",
+    "original":"慧曰。",
+    "folio":6,
+    "stemmed":"慧 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a16_12",
+    "original":"汝在佛心處所得者試舉一二看。",
+    "folio":6,
+    "stemmed":"汝 在 佛 心 處 所 得 者 試 舉 一 二 看  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a16_15",
+    "original":"光曰。",
+    "folio":6,
+    "stemmed":"光 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a17_8",
+    "original":"佛心上堂拈普化公案曰。",
+    "folio":6,
+    "stemmed":"佛 心 上 堂 拈 普 化 公 案 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a17_14",
+    "original":"佛心即不然。",
+    "folio":6,
+    "stemmed":"佛 心 即 不 然  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a18_3",
+    "original":"總不恁麼來時。",
+    "folio":6,
+    "stemmed":"總 不 恁 麼 來 時  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a18_10",
+    "original":"如何劈脊便打。",
+    "folio":6,
+    "stemmed":"如 何 劈 脊 便 打  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a18_17",
+    "original":"從教遍界分身。",
+    "folio":6,
+    "stemmed":"從 教 遍 界 分 身  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a18_20",
+    "original":"慧曰。",
+    "folio":6,
+    "stemmed":"慧 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a19_4",
+    "original":"汝意如何。",
+    "folio":6,
+    "stemmed":"汝 意 如 何  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a19_9",
+    "original":"曰某不肯。",
+    "folio":6,
+    "stemmed":"曰 某 不 肯  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a19_17",
+    "original":"他後頭下個註脚。",
+    "folio":6,
+    "stemmed":"他 後 頭 下 個 註 脚  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a20_1",
+    "original":"慧曰。",
+    "folio":6,
+    "stemmed":"慧 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a20_9",
+    "original":"此正是以病去法。",
+    "folio":6,
+    "stemmed":"此 正 是 以 病 去 法  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a20_17",
+    "original":"光毅然無信可意。",
+    "folio":6,
+    "stemmed":"光 毅 然 無 信 可 意  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a21_1",
+    "original":"慧曰。",
+    "folio":6,
+    "stemmed":"慧 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a21_7",
+    "original":"汝但揣摩看。",
+    "folio":6,
+    "stemmed":"汝 但 揣 摩 看  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a21_14",
+    "original":"光竟以為不然。",
+    "folio":6,
+    "stemmed":"光 竟 以 為 不 然  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a22_14",
+    "original":"經旬因記海印信公拈曰雷聲浩大雨點全無。",
+    "folio":6,
+    "stemmed":"經 旬 因 記 海 印 信 公 拈 曰 雷 聲 浩 大 雨 點 全 無  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a23_1",
+    "original":"光始無滯。",
+    "folio":6,
+    "stemmed":"光 始 無 滯  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a23_5",
+    "original":"趨告慧。",
+    "folio":6,
+    "stemmed":"趨 告 慧  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a24_2",
+    "original":"舉道者見琅邪并玄沙未徹語詰之。",
+    "folio":6,
+    "stemmed":"舉 道 者 見 琅 邪 并 玄 沙 未 徹 語 詰 之  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a24_10",
+    "original":"光對已大慧笑曰。",
+    "folio":6,
+    "stemmed":"光 對 已 大 慧 笑 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a25_2",
+    "original":"雖進一步秖不著所在。",
+    "folio":6,
+    "stemmed":"雖 進 一 步 秖 不 著 所 在  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a25_8",
+    "original":"如人斫樹根。",
+    "folio":6,
+    "stemmed":"如 人 斫 樹 根  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a25_17",
+    "original":"下一刀則命根斷矣。",
+    "folio":6,
+    "stemmed":"下 一 刀 則 命 根 斷 矣  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a26_4",
+    "original":"汝向枝上斫。",
+    "folio":6,
+    "stemmed":"汝 向 枝 上 斫  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a26_11",
+    "original":"其能斷命根乎。",
+    "folio":6,
+    "stemmed":"其 能 斷 命 根 乎  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a27_7",
+    "original":"今諸方浩浩說禪見處總如是也。",
+    "folio":6,
+    "stemmed":"今 諸 方 浩 浩 說 禪 見 處 總 如 是 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a27_12",
+    "original":"何益于事。",
+    "folio":6,
+    "stemmed":"何 益 于 事  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a28_6",
+    "original":"其楊岐正傳止三四人而已。",
+    "folio":6,
+    "stemmed":"其 楊 岐 正 傳 止 三 四 人 而 已  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a28_11",
+    "original":"光慍而去。",
+    "folio":6,
+    "stemmed":"光 慍 而 去  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a28_16",
+    "original":"翌日慧問。",
+    "folio":6,
+    "stemmed":"翌 日 慧 問  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a29_1",
+    "original":"汝還疑否。",
+    "folio":6,
+    "stemmed":"汝 還 疑 否  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a29_7",
+    "original":"曰無可疑者。",
+    "folio":6,
+    "stemmed":"曰 無 可 疑 者  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923a29_10",
+    "original":"慧曰。",
+    "folio":6,
+    "stemmed":"慧 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b01_6",
+    "original":"秖如古人相見未待開口已知虛實。",
+    "folio":6,
+    "stemmed":"秖 如 古 人 相 見 未 待 開 口 已 知 虛 實  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b01_15",
+    "original":"或聞其語便識淺深。",
+    "folio":6,
+    "stemmed":"或 聞 其 語 便 識 淺 深  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b02_2",
+    "original":"此理如何。",
+    "folio":6,
+    "stemmed":"此 理 如 何  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b02_12",
+    "original":"光悚然汗下莫知所詣。",
+    "folio":6,
+    "stemmed":"光 悚 然 汗 下 莫 知 所 詣  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b03_3",
+    "original":"慧令究有句無句話。",
+    "folio":6,
+    "stemmed":"慧 令 究 有 句 無 句 話  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b03_9",
+    "original":"慧過雲門庵。",
+    "folio":6,
+    "stemmed":"慧 過 雲 門 庵  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b03_14",
+    "original":"光亦侍行。",
+    "folio":6,
+    "stemmed":"光 亦 侍 行  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b03_19",
+    "original":"一日問曰。",
+    "folio":6,
+    "stemmed":"一 日 問 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b04_8",
+    "original":"某到這裏不能得徹。",
+    "folio":6,
+    "stemmed":"某 到 這 裏 不 能 得 徹  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b04_13",
+    "original":"病在甚處。",
+    "folio":6,
+    "stemmed":"病 在 甚 處  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b04_16",
+    "original":"慧曰。",
+    "folio":6,
+    "stemmed":"慧 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b05_7",
+    "original":"汝病最癖世醫拱手。",
+    "folio":6,
+    "stemmed":"汝 病 最 癖 世 醫 拱 手  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b05_17",
+    "original":"何也別人死了不得活。",
+    "folio":6,
+    "stemmed":"何 也 別 人 死 了 不 得 活  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b06_7",
+    "original":"汝今活了未曾死。",
+    "folio":6,
+    "stemmed":"汝 今 活 了 未 曾 死  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b06_15",
+    "original":"要到大安樂田地。",
+    "folio":6,
+    "stemmed":"要 到 大 安 樂 田 地  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b07_5",
+    "original":"須是死一回始得。",
+    "folio":6,
+    "stemmed":"須 是 死 一 回 始 得  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b07_11",
+    "original":"光疑情愈深。",
+    "folio":6,
+    "stemmed":"光 疑 情 愈 深  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b07_17",
+    "original":"後入室慧問。",
+    "folio":6,
+    "stemmed":"後 入 室 慧 問  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b08_7",
+    "original":"喫粥了也洗鉢盂了也。",
+    "folio":6,
+    "stemmed":"喫 粥 了 也 洗 鉢 盂 了 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b08_17",
+    "original":"去却藥忌道將一句來。",
+    "folio":6,
+    "stemmed":"去 却 藥 忌 道 將 一 句 來  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b09_4",
+    "original":"光曰裂破。",
+    "folio":6,
+    "stemmed":"光 曰 裂 破  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b09_11",
+    "original":"慧乃振威喝曰。",
+    "folio":6,
+    "stemmed":"慧 乃 振 威 喝 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b09_17",
+    "original":"儞又說禪也。",
+    "folio":6,
+    "stemmed":"儞 又 說 禪 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b10_3",
+    "original":"光即大悟。",
+    "folio":6,
+    "stemmed":"光 即 大 悟  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b10_11",
+    "original":"慧即撾鼓告眾曰。",
+    "folio":6,
+    "stemmed":"慧 即 撾 鼓 告 眾 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b11_1",
+    "original":"龜毛拈得笑咍咍。",
+    "folio":6,
+    "stemmed":"龜 毛 拈 得 笑 咍 咍  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b11_9",
+    "original":"一擊萬重關鎖開。",
+    "folio":6,
+    "stemmed":"一 擊 萬 重 關 鎖 開  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b11_17",
+    "original":"慶快平生在今日。",
+    "folio":6,
+    "stemmed":"慶 快 平 生 在 今 日  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b12_6",
+    "original":"孰云千里賺吾來。",
+    "folio":6,
+    "stemmed":"孰 云 千 里 賺 吾 來  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b12_12",
+    "original":"光亦呈偈曰。",
+    "folio":6,
+    "stemmed":"光 亦 呈 偈 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b13_2",
+    "original":"一拶當機怒雷吼。",
+    "folio":6,
+    "stemmed":"一 拶 當 機 怒 雷 吼  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b13_10",
+    "original":"驚起須彌藏北斗。",
+    "folio":6,
+    "stemmed":"驚 起 須 彌 藏 北 斗  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b13_18",
+    "original":"洪波浩渺浪滔天。",
+    "folio":6,
+    "stemmed":"洪 波 浩 渺 浪 滔 天  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b14_7",
+    "original":"拈得鼻孔失却口。",
+    "folio":6,
+    "stemmed":"拈 得 鼻 孔 失 却 口  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b14_14",
+    "original":"自爾名喧宇宙。",
+    "folio":6,
+    "stemmed":"自 爾 名 喧 宇 宙  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b15_5",
+    "original":"道洽緇素出住教忠。",
+    "folio":6,
+    "stemmed":"道 洽 緇 素 出 住 教 忠  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b15_13",
+    "original":"瓣香為妙喜拈出。",
+    "folio":6,
+    "stemmed":"瓣 香 為 妙 喜 拈 出  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b16_2",
+    "original":"其為知本也歟。",
+    "folio":6,
+    "stemmed":"其 為 知 本 也 歟  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b17_2",
+    "original":"系曰。",
+    "folio":6,
+    "stemmed":"系 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b18_2",
+    "original":"凡為人師者須具二種法方堪坐曲彔床。",
+    "folio":6,
+    "stemmed":"凡 為 人 師 者 須 具 二 種 法 方 堪 坐 曲 彔 床  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b18_8",
+    "original":"一先明己眼。",
+    "folio":6,
+    "stemmed":"一 先 明 己 眼  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b18_14",
+    "original":"二鑒機病源。",
+    "folio":6,
+    "stemmed":"二 鑒 機 病 源  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b19_1",
+    "original":"若己則未明。",
+    "folio":6,
+    "stemmed":"若 己 則 未 明  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b19_8",
+    "original":"自尚拕枷帶鎖。",
+    "folio":6,
+    "stemmed":"自 尚 拕 枷 帶 鎖  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b19_17",
+    "original":"胡能為人解粘去縛。",
+    "folio":6,
+    "stemmed":"胡 能 為 人 解 粘 去 縛  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b20_11",
+    "original":"不識病源未免傭醜殺人之陋。",
+    "folio":6,
+    "stemmed":"不 識 病 源 未 免 傭 醜 殺 人 之 陋  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b21_8",
+    "original":"所以久依爐鞴不能脫胎成器者。",
+    "folio":6,
+    "stemmed":"所 以 久 依 爐 鞴 不 能 脫 胎 成 器 者  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b21_15",
+    "original":"非學人之罪也。",
+    "folio":6,
+    "stemmed":"非 學 人 之 罪 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b22_8",
+    "original":"為學者亦須具二種法。",
+    "folio":6,
+    "stemmed":"為 學 者 亦 須 具 二 種 法  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b23_2",
+    "original":"方可驗天下善知識舌頭。",
+    "folio":6,
+    "stemmed":"方 可 驗 天 下 善 知 識 舌 頭  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b23_8",
+    "original":"一不自知足。",
+    "folio":6,
+    "stemmed":"一 不 自 知 足  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b23_14",
+    "original":"二死後復甦。",
+    "folio":6,
+    "stemmed":"二 死 後 復 甦  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b24_6",
+    "original":"若易知足必以魚目為珠。",
+    "folio":6,
+    "stemmed":"若 易 知 足 必 以 魚 目 為 珠  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b24_13",
+    "original":"若不死後再甦。",
+    "folio":6,
+    "stemmed":"若 不 死 後 再 甦  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b25_3",
+    "original":"則生死命根不斷。",
+    "folio":6,
+    "stemmed":"則 生 死 命 根 不 斷  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b26_1",
+    "original":"所以久入選佛場不能心空及第者。",
+    "folio":6,
+    "stemmed":"所 以 久 入 選 佛 場 不 能 心 空 及 第 者  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b26_8",
+    "original":"非宗匠之罪也。",
+    "folio":6,
+    "stemmed":"非 宗 匠 之 罪 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b26_18",
+    "original":"是故妙喜一生不自肯。",
+    "folio":6,
+    "stemmed":"是 故 妙 喜 一 生 不 自 肯  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b27_12",
+    "original":"晚登川勤之室直階華嚴七地。",
+    "folio":6,
+    "stemmed":"晚 登 川 勤 之 室 直 階 華 嚴 七 地  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b27_17",
+    "original":"不其然乎。",
+    "folio":6,
+    "stemmed":"不 其 然 乎  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b28_8",
+    "original":"今晦庵以滑稽參禪。",
+    "folio":6,
+    "stemmed":"今 晦 庵 以 滑 稽 參 禪  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b28_15",
+    "original":"未曾大死一番。",
+    "folio":6,
+    "stemmed":"未 曾 大 死 一 番  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b29_6",
+    "original":"苟非妙喜屠龍之手。",
+    "folio":6,
+    "stemmed":"苟 非 妙 喜 屠 龍 之 手  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923b29_15",
+    "original":"而不珍魚目者幾希。",
+    "folio":6,
+    "stemmed":"而 不 珍 魚 目 者 幾 希  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c01_4",
+    "original":"故遭振威一喝。",
+    "folio":6,
+    "stemmed":"故 遭 振 威 一 喝  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c01_11",
+    "original":"直下喪身失命。",
+    "folio":6,
+    "stemmed":"直 下 喪 身 失 命  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c02_4",
+    "original":"便能對眾作蟭螟蟲大吼。",
+    "folio":6,
+    "stemmed":"便 能 對 眾 作 蟭 螟 蟲 大 吼  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c02_9",
+    "original":"豈不快哉。",
+    "folio":6,
+    "stemmed":"豈不快哉  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c03_7",
+    "original":"嗚呼世之靈利漢靡不坐晦庵膏肓之疾。",
+    "folio":6,
+    "stemmed":"嗚 呼 世 之 靈 利 漢 靡 不 坐 晦 庵 膏 肓 之 疾  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c04_12",
+    "original":"如狂子失心而不可療者多矣曾未服醫父起死之劑。",
+    "folio":6,
+    "stemmed":"如 狂 子 失 心 而 不 可 療 者 多 矣 曾 未 服 醫 父 起 死 之 劑  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c05_3",
+    "original":"且急欲為人指迷。",
+    "folio":6,
+    "stemmed":"且 急 欲 為 人 指 迷  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c05_8",
+    "original":"不亦謬乎。",
+    "folio":6,
+    "stemmed":"不 亦 謬 乎  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c07_6",
+    "original":"11 江州東林寺沙門釋道顏傳江州東林寺沙門釋道顏傳十一釋道顏號卍庵。",
+    "folio":6,
+    "stemmed":"1 1   江 州 東 林 寺 沙 門 釋 道 顏 傳 江 州 東 林 寺 沙 門 釋 道 顏 傳 十 一 釋 道 顏 號 卍 庵  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c07_14",
+    "original":"潼川鮮于氏了也。",
+    "folio":6,
+    "stemmed":"潼 川 鮮 于 氏 了 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c08_1",
+    "original":"初參圓悟。",
+    "folio":6,
+    "stemmed":"初 參 圓 悟  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c08_11",
+    "original":"但登堂未能造其玄奧。",
+    "folio":6,
+    "stemmed":"但 登 堂 未 能 造 其 玄 奧  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c08_17",
+    "original":"圓悟將還蜀。",
+    "folio":6,
+    "stemmed":"圓 悟 將 還 蜀  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c09_6",
+    "original":"以書遺大慧曰。",
+    "folio":6,
+    "stemmed":"以 書 遺 大 慧 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c09_11",
+    "original":"顏彩繪已。",
+    "folio":6,
+    "stemmed":"顏 彩 繪 已  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c09_17",
+    "original":"特未點眼耳。",
+    "folio":6,
+    "stemmed":"特 未 點 眼 耳  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c10_7",
+    "original":"他日嗣後未可量也。",
+    "folio":6,
+    "stemmed":"他 日 嗣 後 未 可 量 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c10_16",
+    "original":"於是朝夕質疑於慧。",
+    "folio":6,
+    "stemmed":"於 是 朝 夕 質 疑 於 慧  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c11_3",
+    "original":"方大悟徹。",
+    "folio":6,
+    "stemmed":"方 大 悟 徹  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c11_16",
+    "original":"於是聲光遐溢黑白咸被其化。",
+    "folio":6,
+    "stemmed":"於 是 聲 光 遐 溢 黑 白 咸 被 其 化  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c12_1",
+    "original":"僧問。",
+    "folio":6,
+    "stemmed":"僧 問  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c12_7",
+    "original":"如何是佛顏。",
+    "folio":6,
+    "stemmed":"如 何 是 佛 顏  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c12_13",
+    "original":"曰誌公和尚。",
+    "folio":6,
+    "stemmed":"曰 誌 公 和 尚  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c13_3",
+    "original":"曰學人問佛何答誌公。",
+    "folio":6,
+    "stemmed":"曰 學 人 問 佛 何 答 誌 公  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c13_6",
+    "original":"顏曰。",
+    "folio":6,
+    "stemmed":"顏 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c13_14",
+    "original":"誌公不是閒和尚。",
+    "folio":6,
+    "stemmed":"誌 公 不 是 閒 和 尚  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c14_2",
+    "original":"曰如何是法顏。",
+    "folio":6,
+    "stemmed":"曰 如 何 是 法 顏  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c14_12",
+    "original":"曰黃絹幼婦外孫韲臼。",
+    "folio":6,
+    "stemmed":"曰 黃 絹 幼 婦 外 孫 韲 臼  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c14_18",
+    "original":"曰是甚章句。",
+    "folio":6,
+    "stemmed":"曰 是 甚 章 句  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c15_1",
+    "original":"顏曰。",
+    "folio":6,
+    "stemmed":"顏 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c15_6",
+    "original":"絕妙好辭。",
+    "folio":6,
+    "stemmed":"絕 妙 好 辭  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c15_12",
+    "original":"曰如何是僧。",
+    "folio":6,
+    "stemmed":"曰 如 何 是 僧  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c15_15",
+    "original":"顏曰。",
+    "folio":6,
+    "stemmed":"顏 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c16_2",
+    "original":"釣魚船上謝三郎。",
+    "folio":6,
+    "stemmed":"釣 魚 船 上 謝 三 郎  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c16_8",
+    "original":"曰何不直說。",
+    "folio":6,
+    "stemmed":"曰 何 不 直 說  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c16_11",
+    "original":"顏曰。",
+    "folio":6,
+    "stemmed":"顏 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c16_16",
+    "original":"玄沙和尚。",
+    "folio":6,
+    "stemmed":"玄 沙 和 尚  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c17_8",
+    "original":"顏凡所說法大概簡易如此。",
+    "folio":6,
+    "stemmed":"顏 凡 所 說 法 大 概 簡 易 如 此  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c19_6",
+    "original":"12 福州西禪寺沙門釋鼎需傳福州西禪寺沙門釋鼎需傳十二釋鼎需號懶庵。",
+    "folio":6,
+    "stemmed":"1 2   福 州 西 禪 寺 沙 門 釋 鼎 需 傳 福 州 西 禪 寺 沙 門 釋 鼎 需 傳 十 二 釋 鼎 需 號 懶 庵  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c19_13",
+    "original":"郡之林氏子也。",
+    "folio":6,
+    "stemmed":"郡 之 林 氏 子 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c20_2",
+    "original":"幼業儒舉進士。",
+    "folio":6,
+    "stemmed":"幼 業 儒 舉 進 士  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c20_7",
+    "original":"蒞政有聲。",
+    "folio":6,
+    "stemmed":"蒞 政 有 聲  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c21_2",
+    "original":"年二十五因閱遺教經忽省曰。",
+    "folio":6,
+    "stemmed":"年 二 十 五 因 閱 遺 教 經 忽 省 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c21_9",
+    "original":"幾為儒冠誤也。",
+    "folio":6,
+    "stemmed":"幾 為 儒 冠 誤 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c21_14",
+    "original":"即欲舍俗。",
+    "folio":6,
+    "stemmed":"即 欲 舍 俗  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c22_4",
+    "original":"母氏難以親迎在期。",
+    "folio":6,
+    "stemmed":"母 氏 難 以 親 迎 在 期  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c22_10",
+    "original":"需笑絕之曰。",
+    "folio":6,
+    "stemmed":"需 笑 絕 之 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c23_3",
+    "original":"夭桃紅杏一時分付春風。",
+    "folio":6,
+    "stemmed":"夭 桃 紅 杏 一 時 分 付 春 風  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c23_14",
+    "original":"翠竹黃花此去永為道侶。",
+    "folio":6,
+    "stemmed":"翠 竹 黃 花 此 去 永 為 道 侶  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c24_9",
+    "original":"遂依保壽樂公為大僧遍參名宿。",
+    "folio":6,
+    "stemmed":"遂 依 保 壽 樂 公 為 大 僧 遍 參 名 宿  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c25_1",
+    "original":"歸里結庵羌峯三年。",
+    "folio":6,
+    "stemmed":"歸 里 結 庵 羌 峯 三 年  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c25_12",
+    "original":"甞以即心即佛話問學者。",
+    "folio":6,
+    "stemmed":"甞 以 即 心 即 佛 話 問 學 者  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c26_2",
+    "original":"時妙喜庵于洋嶼。",
+    "folio":6,
+    "stemmed":"時 妙 喜 庵 于 洋 嶼  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c26_8",
+    "original":"晦庵光在侍。",
+    "folio":6,
+    "stemmed":"晦 庵 光 在 侍  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c26_15",
+    "original":"特以書招之曰。",
+    "folio":6,
+    "stemmed":"特 以 書 招 之 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c27_7",
+    "original":"此間庵主手段與諸方別。",
+    "folio":6,
+    "stemmed":"此 間 庵 主 手 段 與 諸 方 別  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c27_14",
+    "original":"可來少欵如何。",
+    "folio":6,
+    "stemmed":"可 來 少 欵 如 何  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c27_18",
+    "original":"需不答。",
+    "folio":6,
+    "stemmed":"需 不 答  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c28_5",
+    "original":"光以計邀至。",
+    "folio":6,
+    "stemmed":"光 以 計 邀 至  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c28_13",
+    "original":"值妙喜為眾入室。",
+    "folio":6,
+    "stemmed":"值 妙 喜 為 眾 入 室  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c29_2",
+    "original":"需欲隨喜而已。",
+    "folio":6,
+    "stemmed":"需 欲 隨 喜 而 已  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c29_7",
+    "original":"妙喜因舉。",
+    "folio":6,
+    "stemmed":"妙 喜 因 舉  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0923c29_12",
+    "original":"僧問馬祖。",
+    "folio":6,
+    "stemmed":"僧 問 馬 祖  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a01_3",
+    "original":"如何是佛祖云即心是佛。",
+    "folio":6,
+    "stemmed":"如 何 是 佛 祖 云 即 心 是 佛  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a01_8",
+    "original":"爾作麼生。",
+    "folio":6,
+    "stemmed":"爾 作 麼 生  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a01_12",
+    "original":"需下語。",
+    "folio":6,
+    "stemmed":"需 下 語  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a01_16",
+    "original":"喜詬曰。",
+    "folio":6,
+    "stemmed":"喜 詬 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a02_1",
+    "original":"汝見解如此。",
+    "folio":6,
+    "stemmed":"汝 見 解 如 此  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a02_8",
+    "original":"敢妄為人師耶。",
+    "folio":6,
+    "stemmed":"敢 妄 為 人 師 耶  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a02_17",
+    "original":"乃鳴鼓訐其為邪解。",
+    "folio":6,
+    "stemmed":"乃 鳴 鼓 訐 其 為 邪 解  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a03_8",
+    "original":"需淚交頤不敢仰視。",
+    "folio":6,
+    "stemmed":"需 淚 交 頤 不 敢 仰 視  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a03_13",
+    "original":"自默計曰。",
+    "folio":6,
+    "stemmed":"自 默 計 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a04_1",
+    "original":"我既為所排。",
+    "folio":6,
+    "stemmed":"我 既 為 所 排  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a04_13",
+    "original":"而西來不傳之旨豈止此耶。",
+    "folio":6,
+    "stemmed":"而 西 來 不 傳 之 旨 豈 止 此 耶  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a05_3",
+    "original":"遂求入弟子之列。",
+    "folio":6,
+    "stemmed":"遂 求 入 弟 子 之 列  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a05_10",
+    "original":"一日妙喜問曰。",
+    "folio":6,
+    "stemmed":"一 日 妙 喜 問 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a06_1",
+    "original":"內不放出外不放入。",
+    "folio":6,
+    "stemmed":"內 不 放 出 外 不 放 入  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a06_8",
+    "original":"正恁麼時如何。",
+    "folio":6,
+    "stemmed":"正 恁 麼 時 如 何  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a06_13",
+    "original":"需擬開口。",
+    "folio":6,
+    "stemmed":"需 擬 開 口  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a07_5",
+    "original":"喜拈竹篦劈脊連打三下。",
+    "folio":6,
+    "stemmed":"喜 拈 竹 篦 劈 脊 連 打 三 下  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a07_12",
+    "original":"需大悟厲聲曰。",
+    "folio":6,
+    "stemmed":"需 大 悟 厲 聲 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a07_19",
+    "original":"和尚已多了也。",
+    "folio":6,
+    "stemmed":"和 尚 已 多 了 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a08_5",
+    "original":"喜又打一下。",
+    "folio":6,
+    "stemmed":"喜 又 打 一 下  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a08_9",
+    "original":"需禮拜。",
+    "folio":6,
+    "stemmed":"需 禮 拜  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a08_13",
+    "original":"喜笑曰。",
+    "folio":6,
+    "stemmed":"喜 笑 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a09_3",
+    "original":"今日方知吾不汝欺也。",
+    "folio":6,
+    "stemmed":"今 日 方 知 吾 不 汝 欺 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a09_8",
+    "original":"印以偈曰。",
+    "folio":6,
+    "stemmed":"印 以 偈 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a09_16",
+    "original":"頂門竪亞摩醯眼。",
+    "folio":6,
+    "stemmed":"頂 門 竪 亞 摩 醯 眼  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a10_5",
+    "original":"肘後斜懸奪命符。",
+    "folio":6,
+    "stemmed":"肘 後 斜 懸 奪 命 符  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a10_12",
+    "original":"瞎却眼卸却符。",
+    "folio":6,
+    "stemmed":"瞎 却 眼 卸 却 符  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a11_2",
+    "original":"趙州東壁掛葫蘆。",
+    "folio":6,
+    "stemmed":"趙 州 東 壁 掛 葫 蘆  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a11_13",
+    "original":"自此名喧叢席道被遐方。",
+    "folio":6,
+    "stemmed":"自 此 名 喧 叢 席 道 被 遐 方  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a12_8",
+    "original":"此後開堂始稱具眼宗匠云也。",
+    "folio":6,
+    "stemmed":"此 後 開 堂 始 稱 具 眼 宗 匠 云 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a14_6",
+    "original":"13 建寧府沙門釋道謙傳建寧府沙門釋道謙傳十三釋道謙本郡人。",
+    "folio":6,
+    "stemmed":"1 3   建 寧 府 沙 門 釋 道 謙 傳 建 寧 府 沙 門 釋 道 謙 傳 十 三 釋 道 謙 本 郡 人  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a14_11",
+    "original":"未詳氏族。",
+    "folio":6,
+    "stemmed":"未 詳 氏 族  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a15_1",
+    "original":"初依佛果無所入。",
+    "folio":6,
+    "stemmed":"初 依 佛 果 無 所 入  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a15_9",
+    "original":"妙喜奉旨住徑山。",
+    "folio":6,
+    "stemmed":"妙 喜 奉 旨 住 徑 山  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a15_14",
+    "original":"謙亦在侍。",
+    "folio":6,
+    "stemmed":"謙 亦 在 侍  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a16_6",
+    "original":"令往長沙通書于張紫巖。",
+    "folio":6,
+    "stemmed":"令 往 長 沙 通 書 于 張 紫 巖  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a16_10",
+    "original":"乃自謂。",
+    "folio":6,
+    "stemmed":"乃 自 謂  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a17_2",
+    "original":"參禪二十年尚無個入處。",
+    "folio":6,
+    "stemmed":"參 禪 二 十 年 尚 無 個 入 處  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a17_7",
+    "original":"又有此行。",
+    "folio":6,
+    "stemmed":"又 有 此 行  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a17_14",
+    "original":"豈不荒廢了矣。",
+    "folio":6,
+    "stemmed":"豈 不 荒 廢 了 矣  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a18_2",
+    "original":"將辭友人宗元。",
+    "folio":6,
+    "stemmed":"將 辭 友 人 宗 元  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a18_7",
+    "original":"叱曰不可。",
+    "folio":6,
+    "stemmed":"叱 曰 不 可  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a18_17",
+    "original":"豈以在路參禪不得耶。",
+    "folio":6,
+    "stemmed":"豈 以 在 路 參 禪 不 得 耶  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a19_5",
+    "original":"汝去吾與俱往。",
+    "folio":6,
+    "stemmed":"汝 去 吾 與 俱 往  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a19_12",
+    "original":"一日在途泣曰。",
+    "folio":6,
+    "stemmed":"一 日 在 途 泣 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a20_2",
+    "original":"一生參禪無得力處。",
+    "folio":6,
+    "stemmed":"一 生 參 禪 無 得 力 處  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a20_12",
+    "original":"今奔波若此何得相應。",
+    "folio":6,
+    "stemmed":"今 奔 波 若 此 何 得 相 應  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a20_15",
+    "original":"元曰。",
+    "folio":6,
+    "stemmed":"元 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a21_16",
+    "original":"爾但將諸方參得悟得并圓悟妙喜與爾說得底。",
+    "folio":6,
+    "stemmed":"爾 但 將 諸 方 參 得 悟 得 并 圓 悟 妙 喜 與 爾 說 得 底  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a22_4",
+    "original":"都不要理會。",
+    "folio":6,
+    "stemmed":"都 不 要 理 會  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a22_13",
+    "original":"途中我可替者盡替。",
+    "folio":6,
+    "stemmed":"途 中 我 可 替 者 盡 替  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a23_4",
+    "original":"汝只有五事替不得。",
+    "folio":6,
+    "stemmed":"汝 只 有 五 事 替 不 得  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a23_9",
+    "original":"須自承當。",
+    "folio":6,
+    "stemmed":"須 自 承 當  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a23_15",
+    "original":"曰何為五事。",
+    "folio":6,
+    "stemmed":"曰 何 為 五 事  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a23_18",
+    "original":"元曰。",
+    "folio":6,
+    "stemmed":"元 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a24_14",
+    "original":"著衣喫飯屙屎放尿馱箇死屍路上行。",
+    "folio":6,
+    "stemmed":"著 衣 喫 飯 屙 屎 放 尿 馱 箇 死 屍 路 上 行  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a25_3",
+    "original":"謙於言下大徹。",
+    "folio":6,
+    "stemmed":"謙 於 言 下 大 徹  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a25_10",
+    "original":"不覺手舞足蹈。",
+    "folio":6,
+    "stemmed":"不 覺 手 舞 足 蹈  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a25_13",
+    "original":"元曰。",
+    "folio":6,
+    "stemmed":"元 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a26_2",
+    "original":"汝此回方可通書。",
+    "folio":6,
+    "stemmed":"汝 此 回 方 可 通 書  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a26_7",
+    "original":"吾先歸矣。",
+    "folio":6,
+    "stemmed":"吾 先 歸 矣  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a26_14",
+    "original":"後半載返雙徑。",
+    "folio":6,
+    "stemmed":"後 半 載 返 雙 徑  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a27_7",
+    "original":"妙喜于山門外亭一見便曰。",
+    "folio":6,
+    "stemmed":"妙 喜 于 山 門 外 亭 一 見 便 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a27_16",
+    "original":"建州子這回自別也。",
+    "folio":6,
+    "stemmed":"建 州 子 這 回 自 別 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a29_6",
+    "original":"14 潭州沙門釋清旦傳潭州沙門釋清旦傳十四釋清旦號慧通。",
+    "folio":6,
+    "stemmed":"1 4   潭 州 沙 門 釋 清 旦 傳 潭 州 沙 門 釋 清 旦 傳 十 四 釋 清 旦 號 慧 通  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924a29_13",
+    "original":"蓬州嚴氏子也。",
+    "folio":6,
+    "stemmed":"蓬 州 嚴 氏 子 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b01_3",
+    "original":"初辭親愛即嗜空宗。",
+    "folio":6,
+    "stemmed":"初 辭 親 愛 即 嗜 空 宗  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b01_16",
+    "original":"聞有教外別傳之道注念日切。",
+    "folio":6,
+    "stemmed":"聞 有 教 外 別 傳 之 道 注 念 日 切  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b02_8",
+    "original":"乃腰包出關擬投叢席。",
+    "folio":6,
+    "stemmed":"乃 腰 包 出 關 擬 投 叢 席  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b03_1",
+    "original":"時大溈泰和尚住德山。",
+    "folio":6,
+    "stemmed":"時 大 溈 泰 和 尚 住 德 山  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b03_9",
+    "original":"謁之值泰上堂舉。",
+    "folio":6,
+    "stemmed":"謁 之 值 泰 上 堂 舉  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b03_13",
+    "original":"趙州曰。",
+    "folio":6,
+    "stemmed":"趙 州 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b04_6",
+    "original":"臺山婆子已為汝勘破了也。",
+    "folio":6,
+    "stemmed":"臺 山 婆 子 已 為 汝 勘 破 了 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b04_14",
+    "original":"且道意在甚麼處。",
+    "folio":6,
+    "stemmed":"且 道 意 在 甚 麼 處  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b04_18",
+    "original":"良久曰。",
+    "folio":6,
+    "stemmed":"良 久 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b05_7",
+    "original":"就地撮將黃葉去。",
+    "folio":6,
+    "stemmed":"就 地 撮 將 黃 葉 去  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b05_15",
+    "original":"入山推出白雲來。",
+    "folio":6,
+    "stemmed":"入 山 推 出 白 雲 來  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b06_6",
+    "original":"旦聞平生疑礙釋然。",
+    "folio":6,
+    "stemmed":"旦 聞 平 生 疑 礙 釋 然  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b06_11",
+    "original":"翌日入室。",
+    "folio":6,
+    "stemmed":"翌 日 入 室  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b06_15",
+    "original":"泰問曰。",
+    "folio":6,
+    "stemmed":"泰 問 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b07_8",
+    "original":"前百丈不落因果因甚墮野狐。",
+    "folio":6,
+    "stemmed":"前 百 丈 不 落 因 果 因 甚 墮 野 狐  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b08_3",
+    "original":"後百丈不昧因果因甚脫野狐。",
+    "folio":6,
+    "stemmed":"後 百 丈 不 昧 因 果 因 甚 脫 野 狐  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b08_6",
+    "original":"旦曰。",
+    "folio":6,
+    "stemmed":"旦 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b08_13",
+    "original":"好與一坑埋却。",
+    "folio":6,
+    "stemmed":"好 與 一 坑 埋 却  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b08_19",
+    "original":"住後上堂曰。",
+    "folio":6,
+    "stemmed":"住 後 上 堂 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b09_7",
+    "original":"三脚驢子弄蹄行。",
+    "folio":6,
+    "stemmed":"三 脚 驢 子 弄 蹄 行  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b09_15",
+    "original":"步步相隨不相倒。",
+    "folio":6,
+    "stemmed":"步 步 相 隨 不 相 倒  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b10_1",
+    "original":"樹頭驚起。",
+    "folio":6,
+    "stemmed":"樹 頭 驚 起  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b10_7",
+    "original":"雙鯉魚拈來。",
+    "folio":6,
+    "stemmed":"雙 鯉 魚 拈 來  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b10_13",
+    "original":"一老一不老。",
+    "folio":6,
+    "stemmed":"一 老 一 不 老  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b11_2",
+    "original":"為憐松竹引清風。",
+    "folio":6,
+    "stemmed":"為 憐 松 竹 引 清 風  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b11_10",
+    "original":"其奈出門便是草。",
+    "folio":6,
+    "stemmed":"其 奈 出 門 便 是 草  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b11_18",
+    "original":"因喚檀郎識得渠。",
+    "folio":6,
+    "stemmed":"因 喚 檀 郎 識 得 渠  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b12_7",
+    "original":"大機大用都推倒。",
+    "folio":6,
+    "stemmed":"大 機 大 用 都 推 倒  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b12_15",
+    "original":"燒香勘證見根源。",
+    "folio":6,
+    "stemmed":"燒 香 勘 證 見 根 源  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b13_4",
+    "original":"糞掃堆頭拾得寶。",
+    "folio":6,
+    "stemmed":"糞 掃 堆 頭 拾 得 寶  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b13_12",
+    "original":"叢林浩浩謾商量。",
+    "folio":6,
+    "stemmed":"叢 林 浩 浩 謾 商 量  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b14_2",
+    "original":"勸君莫謗先師好。",
+    "folio":6,
+    "stemmed":"勸 君 莫 謗 先 師 好  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b14_13",
+    "original":"旦之門庭嚴肅機語峻利。",
+    "folio":6,
+    "stemmed":"旦 之 門 庭 嚴 肅 機 語 峻 利  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b15_3",
+    "original":"是故學者多難泊焉。",
+    "folio":6,
+    "stemmed":"是 故 學 者 多 難 泊 焉  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b17_7",
+    "original":"15 天台國清寺沙門釋行機傳天台國清寺沙門釋行機傳十五釋行機自號簡堂。",
+    "folio":6,
+    "stemmed":"1 5   天 台 國 清 寺 沙 門 釋 行 機 傳 天 台 國 清 寺 沙 門 釋 行 機 傳 十 五 釋 行 機 自 號 簡 堂  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b17_14",
+    "original":"郡之楊氏子也。",
+    "folio":6,
+    "stemmed":"郡 之 楊 氏 子 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b18_4",
+    "original":"生知夙發趣向高邁。",
+    "folio":6,
+    "stemmed":"生 知 夙 發 趣 向 高 邁  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b18_13",
+    "original":"丰姿挺異才壓儒林。",
+    "folio":6,
+    "stemmed":"丰 姿 挺 異 才 壓 儒 林  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b19_4",
+    "original":"少棄妻孥勤學出世。",
+    "folio":6,
+    "stemmed":"少 棄 妻 孥 勤 學 出 世  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b19_13",
+    "original":"精窮竺典逸貫三乘。",
+    "folio":6,
+    "stemmed":"精 窮 竺 典 逸 貫 三 乘  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b20_4",
+    "original":"竊欲離言單求直指。",
+    "folio":6,
+    "stemmed":"竊 欲 離 言 單 求 直 指  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b20_15",
+    "original":"於是慕護國元公之道價。",
+    "folio":6,
+    "stemmed":"於 是 慕 護 國 元 公 之 道 價  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b21_2",
+    "original":"擔簦相依。",
+    "folio":6,
+    "stemmed":"擔 簦 相 依  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b21_11",
+    "original":"稍觸鉗鎚密有契證。",
+    "folio":6,
+    "stemmed":"稍 觸 鉗 鎚 密 有 契 證  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b22_10",
+    "original":"因住莞山而刀耕火神單丁者一十七年。",
+    "folio":6,
+    "stemmed":"因 住 莞 山 而 刀 耕 火 神 單 丁 者 一 十 七 年  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b22_15",
+    "original":"甞有偈曰。",
+    "folio":6,
+    "stemmed":"甞 有 偈 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b23_4",
+    "original":"地爐無火客囊空。",
+    "folio":6,
+    "stemmed":"地 爐 無 火 客 囊 空  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b23_12",
+    "original":"雪似楊花落歲窮。",
+    "folio":6,
+    "stemmed":"雪 似 楊 花 落 歲 窮  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b24_3",
+    "original":"拾得斷麻穿壞衲。",
+    "folio":6,
+    "stemmed":"拾 得 斷 麻 穿 壞 衲  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b24_11",
+    "original":"不知身在寂寥中。",
+    "folio":6,
+    "stemmed":"不 知 身 在 寂 寥 中  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b24_14",
+    "original":"每曰。",
+    "folio":6,
+    "stemmed":"每 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b25_1",
+    "original":"某猶未穩在。",
+    "folio":6,
+    "stemmed":"某 猶 未 穩 在  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b25_10",
+    "original":"豈以住山樂吾事耶。",
+    "folio":6,
+    "stemmed":"豈 以 住 山 樂 吾 事 耶  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b26_3",
+    "original":"一日偶看斫樹倒地有聲。",
+    "folio":6,
+    "stemmed":"一 日 偶 看 斫 樹 倒 地 有 聲  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b26_17",
+    "original":"忽大悟平昔礙膺之物泮然氷釋。",
+    "folio":6,
+    "stemmed":"忽 大 悟 平 昔 礙 膺 之 物 泮 然 氷 釋  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b27_9",
+    "original":"未幾適有江州圓通之命。",
+    "folio":6,
+    "stemmed":"未 幾 適 有 江 州 圓 通 之 命  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b27_12",
+    "original":"乃曰。",
+    "folio":6,
+    "stemmed":"乃 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b27_17",
+    "original":"吾道行矣。",
+    "folio":6,
+    "stemmed":"吾 道 行 矣  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b28_6",
+    "original":"即欣然曳杖應之。",
+    "folio":6,
+    "stemmed":"即 欣 然 曳 杖 應 之  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b28_11",
+    "original":"登座說云。",
+    "folio":6,
+    "stemmed":"登 座 說 云  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b29_1",
+    "original":"圓通不開生藥舖。",
+    "folio":6,
+    "stemmed":"圓 通 不 開 生 藥 舖  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b29_9",
+    "original":"單單只賣死猫頭。",
+    "folio":6,
+    "stemmed":"單 單 只 賣 死 猫 頭  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924b29_17",
+    "original":"不知那個無思算。",
+    "folio":6,
+    "stemmed":"不 知 那 個 無 思 算  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c01_6",
+    "original":"喫著通身冷汗流。",
+    "folio":6,
+    "stemmed":"喫 著 通 身 冷 汗 流  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c01_13",
+    "original":"聞者無不絕倒。",
+    "folio":6,
+    "stemmed":"聞 者 無 不 絕 倒  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c02_2",
+    "original":"叢林至今稱焉。",
+    "folio":6,
+    "stemmed":"叢 林 至 今 稱 焉  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c04_9",
+    "original":"16 澧州靈巖寺沙門釋仰安傳澧州靈巖寺沙門釋仰安傳十六表自釋仰安未詳何許人氏。",
+    "folio":6,
+    "stemmed":"1 6   澧 州 靈 巖 寺 沙 門 釋 仰 安 傳 澧 州 靈 巖 寺 沙 門 釋 仰 安 傳 十 六 表 自 釋 仰 安 未 詳 何 許 人 氏  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c05_1",
+    "original":"頴異超群幼年舍俗。",
+    "folio":6,
+    "stemmed":"頴 異 超 群 幼 年 舍 俗  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c05_10",
+    "original":"既圓顱頂慕最上乘。",
+    "folio":6,
+    "stemmed":"既 圓 顱 頂 慕 最 上 乘  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c06_2",
+    "original":"精謹律儀耽遊講肆。",
+    "folio":6,
+    "stemmed":"精 謹 律 儀 耽 遊 講 肆  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c06_15",
+    "original":"久而棄之遂入佛果勤公之室。",
+    "folio":6,
+    "stemmed":"久 而 棄 之 遂 入 佛 果 勤 公 之 室  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c07_3",
+    "original":"時大溈泰為座。",
+    "folio":6,
+    "stemmed":"時 大 溈 泰 為 座  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c07_13",
+    "original":"元昕夕扣之頓領玄旨。",
+    "folio":6,
+    "stemmed":"元 昕 夕 扣 之 頓 領 玄 旨  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c08_2",
+    "original":"後泰住持德山。",
+    "folio":6,
+    "stemmed":"後 泰 住 持 德 山  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c08_12",
+    "original":"命安詣佛果通嗣法書。",
+    "folio":6,
+    "stemmed":"命 安 詣 佛 果 通 嗣 法 書  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c08_16",
+    "original":"果見問。",
+    "folio":6,
+    "stemmed":"果 見 問  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c09_6",
+    "original":"千里馳騁不辱宗風。",
+    "folio":6,
+    "stemmed":"千 里 馳 騁 不 辱 宗 風  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c09_15",
+    "original":"公案現成如何通信。",
+    "folio":6,
+    "stemmed":"公 案 現 成 如 何 通 信  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c09_18",
+    "original":"安曰。",
+    "folio":6,
+    "stemmed":"安 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c10_8",
+    "original":"覿面相呈更無回互。",
+    "folio":6,
+    "stemmed":"覿 面 相 呈 更 無 回 互  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c10_11",
+    "original":"果曰。",
+    "folio":6,
+    "stemmed":"果 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c10_17",
+    "original":"此是德山底。",
+    "folio":6,
+    "stemmed":"此 是 德 山 底  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c11_4",
+    "original":"那個是上座底。",
+    "folio":6,
+    "stemmed":"那 個 是 上 座 底  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c11_11",
+    "original":"曰豈有第二人。",
+    "folio":6,
+    "stemmed":"曰 豈 有 第 二 人  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c11_14",
+    "original":"果曰。",
+    "folio":6,
+    "stemmed":"果 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c11_18",
+    "original":"背後底。",
+    "folio":6,
+    "stemmed":"背 後 底  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c12_3",
+    "original":"聻安即進書。",
+    "folio":6,
+    "stemmed":"聻 安 即 進 書  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c12_9",
+    "original":"果笑稱作家。",
+    "folio":6,
+    "stemmed":"果 笑 稱 作 家  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c13_3",
+    "original":"次至僧堂前捧書問訊首座。",
+    "folio":6,
+    "stemmed":"次 至 僧 堂 前 捧 書 問 訊 首 座  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c13_6",
+    "original":"座曰。",
+    "folio":6,
+    "stemmed":"座 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c13_15",
+    "original":"玄沙白紙此自何來。",
+    "folio":6,
+    "stemmed":"玄 沙 白 紙 此 自 何 來  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c13_18",
+    "original":"安曰。",
+    "folio":6,
+    "stemmed":"安 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c14_7",
+    "original":"久默斯要不務速說。",
+    "folio":6,
+    "stemmed":"久 默 斯 要 不 務 速 說  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c14_12",
+    "original":"今日拜呈。",
+    "folio":6,
+    "stemmed":"今 日 拜 呈  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c14_17",
+    "original":"幸希一覽。",
+    "folio":6,
+    "stemmed":"幸 希 一 覽  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c15_2",
+    "original":"座便喝。",
+    "folio":6,
+    "stemmed":"座 便 喝  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c15_5",
+    "original":"安曰。",
+    "folio":6,
+    "stemmed":"安 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c15_10",
+    "original":"作家首座。",
+    "folio":6,
+    "stemmed":"作 家 首 座  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c15_14",
+    "original":"座又喝。",
+    "folio":6,
+    "stemmed":"座 又 喝  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c15_20",
+    "original":"安以書便打。",
+    "folio":6,
+    "stemmed":"安 以 書 便 打  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c16_3",
+    "original":"座擬議。",
+    "folio":6,
+    "stemmed":"座 擬 議  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c16_6",
+    "original":"安曰。",
+    "folio":6,
+    "stemmed":"安 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c16_12",
+    "original":"未明三八九。",
+    "folio":6,
+    "stemmed":"未 明 三 八 九  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c16_18",
+    "original":"不免自沈吟。",
+    "folio":6,
+    "stemmed":"不 免 自 沈 吟  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c17_4",
+    "original":"又打一下曰。",
+    "folio":6,
+    "stemmed":"又 打 一 下 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c17_13",
+    "original":"接時佛果佛眼同見。",
+    "folio":6,
+    "stemmed":"接 時 佛 果 佛 眼 同 見  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c17_16",
+    "original":"果曰。",
+    "folio":6,
+    "stemmed":"果 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c18_6",
+    "original":"打我首座死了也眼曰。",
+    "folio":6,
+    "stemmed":"打 我 首 座 死 了 也 眼 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c18_15",
+    "original":"官馬廝踢有甚憑據。",
+    "folio":6,
+    "stemmed":"官 馬 廝 踢 有 甚 憑 據  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c18_18",
+    "original":"安曰。",
+    "folio":6,
+    "stemmed":"安 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c19_6",
+    "original":"說甚官馬廝踢。",
+    "folio":6,
+    "stemmed":"說 甚 官 馬 廝 踢  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c19_14",
+    "original":"正是龍象蹴踏也。",
+    "folio":6,
+    "stemmed":"正 是 龍 象 蹴 踏 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c20_2",
+    "original":"果喚安至前曰。",
+    "folio":6,
+    "stemmed":"果 喚 安 至 前 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c20_9",
+    "original":"我五百人首座。",
+    "folio":6,
+    "stemmed":"我 五 百 人 首 座  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c20_15",
+    "original":"汝為何打他。",
+    "folio":6,
+    "stemmed":"汝 為 何 打 他  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c21_6",
+    "original":"安曰和尚也須喫一頓。",
+    "folio":6,
+    "stemmed":"安 曰 和 尚 也 須 喫 一 頓  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c21_13",
+    "original":"果顧佛眼吐舌。",
+    "folio":6,
+    "stemmed":"果 顧 佛 眼 吐 舌  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c21_16",
+    "original":"眼曰。",
+    "folio":6,
+    "stemmed":"眼 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c22_3",
+    "original":"未在却問曰。",
+    "folio":6,
+    "stemmed":"未 在 却 問 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c22_14",
+    "original":"空手把鋤頭話意作麼生。",
+    "folio":6,
+    "stemmed":"空 手 把 鋤 頭 話 意 作 麼 生  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c23_1",
+    "original":"安鞠躬曰。",
+    "folio":6,
+    "stemmed":"安 鞠 躬 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c23_8",
+    "original":"所供並是詣實。",
+    "folio":6,
+    "stemmed":"所 供 並 是 詣 實  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c23_12",
+    "original":"眼笑曰。",
+    "folio":6,
+    "stemmed":"眼 笑 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c23_19",
+    "original":"元來是屋裏人。",
+    "folio":6,
+    "stemmed":"元 來 是 屋 裏 人  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c24_12",
+    "original":"又往五祖山通書於表自和尚。",
+    "folio":6,
+    "stemmed":"又 往 五 祖 山 通 書 於 表 自 和 尚  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c24_15",
+    "original":"自曰。",
+    "folio":6,
+    "stemmed":"自 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c25_4",
+    "original":"書裏說箇甚麼。",
+    "folio":6,
+    "stemmed":"書 裏 說 箇 甚 麼  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c25_7",
+    "original":"安曰。",
+    "folio":6,
+    "stemmed":"安 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c25_12",
+    "original":"文彩已彰。",
+    "folio":6,
+    "stemmed":"文 彩 已 彰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c25_19",
+    "original":"曰畢竟說甚麼。",
+    "folio":6,
+    "stemmed":"曰 畢 竟 說 甚 麼  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c26_2",
+    "original":"安曰。",
+    "folio":6,
+    "stemmed":"安 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c26_8",
+    "original":"當陽揮寶劍。",
+    "folio":6,
+    "stemmed":"當 陽 揮 寶 劍  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c26_12",
+    "original":"自喚曰。",
+    "folio":6,
+    "stemmed":"自 喚 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c27_4",
+    "original":"近前來我這裏不識幾箇子。",
+    "folio":6,
+    "stemmed":"近 前 來 我 這 裏 不 識 幾 箇 子  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c27_7",
+    "original":"安曰。",
+    "folio":6,
+    "stemmed":"安 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c27_12",
+    "original":"莫詐敗好。",
+    "folio":6,
+    "stemmed":"莫 詐 敗 好  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c27_18",
+    "original":"自顧侍者曰。",
+    "folio":6,
+    "stemmed":"自 顧 侍 者 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c28_4",
+    "original":"是那裏僧。",
+    "folio":6,
+    "stemmed":"是 那 裏 僧  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c28_13",
+    "original":"曰曾在和尚會下去。",
+    "folio":6,
+    "stemmed":"曰 曾 在 和 尚 會 下 去  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c28_16",
+    "original":"自曰。",
+    "folio":6,
+    "stemmed":"自 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c29_4",
+    "original":"怪得恁麼活頭。",
+    "folio":6,
+    "stemmed":"怪 得 恁 麼 活 頭  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c29_7",
+    "original":"安曰。",
+    "folio":6,
+    "stemmed":"安 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0924c29_14",
+    "original":"被和尚鈍置來。",
+    "folio":6,
+    "stemmed":"被 和 尚 鈍 置 來  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a01_4",
+    "original":"自將書於香爐熏曰。",
+    "folio":6,
+    "stemmed":"自 將 書 於 香 爐 熏 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a01_10",
+    "original":"南無三曼多。",
+    "folio":6,
+    "stemmed":"南 無 三 曼 多  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a01_16",
+    "original":"安近前彈指。",
+    "folio":6,
+    "stemmed":"安 近 前 彈 指  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a02_2",
+    "original":"自便開書。",
+    "folio":6,
+    "stemmed":"自 便 開 書  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a02_9",
+    "original":"自是聲播四方。",
+    "folio":6,
+    "stemmed":"自 是 聲 播 四 方  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a02_17",
+    "original":"而不屈為泰使命。",
+    "folio":6,
+    "stemmed":"而 不 屈 為 泰 使 命  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a04_4",
+    "original":"未幾出主靈巖衲子輻輳拈椎竪拂大有古人之風焉。",
+    "folio":6,
+    "stemmed":"未 幾 出 主 靈 巖 衲 子 輻 輳 拈 椎 竪 拂 大 有 古 人 之 風 焉  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a06_6",
+    "original":"17 臨安府徑山沙門釋寶印傳臨安府徑山沙門釋寶印傳十七智策釋寶印號別峯。",
+    "folio":6,
+    "stemmed":"1 7   臨 安 府 徑 山 沙 門 釋 寶 印 傳 臨 安 府 徑 山 沙 門 釋 寶 印 傳 十 七 智 策 釋 寶 印 號 別 峯  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a06_13",
+    "original":"嘉州李氏子也。",
+    "folio":6,
+    "stemmed":"嘉 州 李 氏 子 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a07_4",
+    "original":"幼通六經長窮七史。",
+    "folio":6,
+    "stemmed":"幼 通 六 經 長 窮 七 史  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a07_13",
+    "original":"忽厭塵俗志慕竺墳。",
+    "folio":6,
+    "stemmed":"忽 厭 塵 俗 志 慕 竺 墳  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a08_6",
+    "original":"乃從德山清素和尚得度。",
+    "folio":6,
+    "stemmed":"乃 從 德 山 清 素 和 尚 得 度  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a08_16",
+    "original":"往聽華嚴起信盡得旨。",
+    "folio":6,
+    "stemmed":"往 聽 華 嚴 起 信 盡 得 旨  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a09_7",
+    "original":"覺勞算沙終非解脫。",
+    "folio":6,
+    "stemmed":"覺 勞 算 沙 終 非 解 脫  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a09_17",
+    "original":"遂依中峯密印民禪師。",
+    "folio":6,
+    "stemmed":"遂 依 中 峯 密 印 民 禪 師  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a10_3",
+    "original":"密印舉。",
+    "folio":6,
+    "stemmed":"密 印 舉  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a10_8",
+    "original":"僧問巖頭。",
+    "folio":6,
+    "stemmed":"僧 問 巖 頭  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a10_16",
+    "original":"起滅不停時如何。",
+    "folio":6,
+    "stemmed":"起 滅 不 停 時 如 何  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a11_1",
+    "original":"巖叱曰。",
+    "folio":6,
+    "stemmed":"巖 叱 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a11_6",
+    "original":"是誰起滅。",
+    "folio":6,
+    "stemmed":"是 誰 起 滅  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a11_11",
+    "original":"師聞大悟。",
+    "folio":6,
+    "stemmed":"師 聞 大 悟  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a11_18",
+    "original":"會圓悟歸昭覺。",
+    "folio":6,
+    "stemmed":"會 圓 悟 歸 昭 覺  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a12_3",
+    "original":"遣師往省。",
+    "folio":6,
+    "stemmed":"遣 師 往 省  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a12_8",
+    "original":"隨眾入室。",
+    "folio":6,
+    "stemmed":"隨 眾 入 室  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a12_11",
+    "original":"悟問。",
+    "folio":6,
+    "stemmed":"悟 問  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a13_1",
+    "original":"從上諸聖以何接人。",
+    "folio":6,
+    "stemmed":"從 上 諸 聖 以 何 接 人  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a13_6",
+    "original":"師竪起拳。",
+    "folio":6,
+    "stemmed":"師 竪 起 拳  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a13_9",
+    "original":"悟曰。",
+    "folio":6,
+    "stemmed":"悟 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a13_14",
+    "original":"此是老僧。",
+    "folio":6,
+    "stemmed":"此 是 老 僧  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a13_19",
+    "original":"用底何者。",
+    "folio":6,
+    "stemmed":"用 底 何 者  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a14_6",
+    "original":"是從上諸聖用底。",
+    "folio":6,
+    "stemmed":"是 從 上 諸 聖 用 底  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a14_12",
+    "original":"師以拳揮之。",
+    "folio":6,
+    "stemmed":"師 以 拳 揮 之  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a14_17",
+    "original":"悟亦舉拳。",
+    "folio":6,
+    "stemmed":"悟 亦 舉 拳  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a15_5",
+    "original":"相交大笑而止。",
+    "folio":6,
+    "stemmed":"相 交 大 笑 而 止  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a15_13",
+    "original":"又謁大慧於徑山。",
+    "folio":6,
+    "stemmed":"又 謁 大 慧 於 徑 山  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a15_16",
+    "original":"慧問。",
+    "folio":6,
+    "stemmed":"慧 問  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a16_1",
+    "original":"甚處來。",
+    "folio":6,
+    "stemmed":"甚 處 來  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a16_5",
+    "original":"曰西川。",
+    "folio":6,
+    "stemmed":"曰 西 川  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a16_8",
+    "original":"慧曰。",
+    "folio":6,
+    "stemmed":"慧 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a16_14",
+    "original":"未出劍門關。",
+    "folio":6,
+    "stemmed":"未 出 劍 門 關  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a17_2",
+    "original":"與汝三十棒了也。",
+    "folio":6,
+    "stemmed":"與 汝 三 十 棒 了 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a17_10",
+    "original":"曰不合起動和尚。",
+    "folio":6,
+    "stemmed":"曰 不 合 起 動 和 尚  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a17_14",
+    "original":"慧忻然。",
+    "folio":6,
+    "stemmed":"慧 忻 然  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a18_3",
+    "original":"後出奉詔住雪竇。",
+    "folio":6,
+    "stemmed":"後 出 奉 詔 住 雪 竇  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a18_13",
+    "original":"淳熙七年秋召師問道。",
+    "folio":6,
+    "stemmed":"淳 熙 七 年 秋 召 師 問 道  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a19_3",
+    "original":"賜肩輿入選德殿。",
+    "folio":6,
+    "stemmed":"賜 肩 輿 入 選 德 殿  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a19_6",
+    "original":"帝曰。",
+    "folio":6,
+    "stemmed":"帝 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a19_13",
+    "original":"三教聖人本同。",
+    "folio":6,
+    "stemmed":"三 教 聖 人 本 同  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a19_18",
+    "original":"這個理否。",
+    "folio":6,
+    "stemmed":"這 個 理 否  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a20_1",
+    "original":"對曰。",
+    "folio":6,
+    "stemmed":"對 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a20_14",
+    "original":"譬如虛空東西南北初無二也。",
+    "folio":6,
+    "stemmed":"譬 如 虛 空 東 西 南 北 初 無 二 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a20_17",
+    "original":"帝曰。",
+    "folio":6,
+    "stemmed":"帝 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a21_10",
+    "original":"但聖人所立門戶則不同耳。",
+    "folio":6,
+    "stemmed":"但 聖 人 所 立 門 戶 則 不 同 耳  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a22_3",
+    "original":"如孔子性以中庸設教。",
+    "folio":6,
+    "stemmed":"如 孔 子 性 以 中 庸 設 教  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a22_6",
+    "original":"印曰。",
+    "folio":6,
+    "stemmed":"印 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a22_16",
+    "original":"非中庸何以安立世間。",
+    "folio":6,
+    "stemmed":"非 中 庸 何 以 安 立 世 間  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a23_2",
+    "original":"故法華云。",
+    "folio":6,
+    "stemmed":"故 法 華 云  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a24_1",
+    "original":"治世語言資生業等皆與實相不相違背。",
+    "folio":6,
+    "stemmed":"治 世 語 言 資 生 業 等 皆 與 實 相 不 相 違 背  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a24_5",
+    "original":"華嚴云。",
+    "folio":6,
+    "stemmed":"華 嚴 云  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a24_16",
+    "original":"不壞世間相而成出世法。",
+    "folio":6,
+    "stemmed":"不 壞 世 間 相 而 成 出 世 法  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a24_19",
+    "original":"帝曰。",
+    "folio":6,
+    "stemmed":"帝 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a25_16",
+    "original":"今時士大夫學孔子者多只工文字語言。",
+    "folio":6,
+    "stemmed":"今 時 士 大 夫 學 孔 子 者 多 只 工 文 字 語 言  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a26_11",
+    "original":"不見夫子之道不識夫子之心。",
+    "folio":6,
+    "stemmed":"不 見 夫 子 之 道 不 識 夫 子 之 心  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a27_6",
+    "original":"惟釋氏禪宗不以文字教人。",
+    "folio":6,
+    "stemmed":"惟 釋 氏 禪 宗 不 以 文 字 教 人  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a27_15",
+    "original":"直指心源頓令悟入。",
+    "folio":6,
+    "stemmed":"直 指 心 源 頓 令 悟 入  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a28_6",
+    "original":"不亂于生死之際。",
+    "folio":6,
+    "stemmed":"不 亂 于 生 死 之 際  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a28_11",
+    "original":"此為殊勝。",
+    "folio":6,
+    "stemmed":"此 為 殊 勝  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a28_14",
+    "original":"印曰。",
+    "folio":6,
+    "stemmed":"印 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a29_6",
+    "original":"非獨後世不見夫子之心。",
+    "folio":6,
+    "stemmed":"非 獨 後 世 不 見 夫 子 之 心  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925a29_17",
+    "original":"甞見孔門顏子號為具體。",
+    "folio":6,
+    "stemmed":"甞 見 孔 門 顏 子 號 為 具 體  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b02_1",
+    "original":"盡平生力量只道得個瞻之在前忽焉在後。",
+    "folio":6,
+    "stemmed":"盡 平 生 力 量 只 道 得 個 瞻 之 在 前 忽 焉 在 後  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b02_7",
+    "original":"竟捉摸不著。",
+    "folio":6,
+    "stemmed":"竟 捉 摸 不 著  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b03_4",
+    "original":"而夫子分明八字打開向諸弟子道。",
+    "folio":6,
+    "stemmed":"而 夫 子 分 明 八 字 打 開 向 諸 弟 子 道  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b03_13",
+    "original":"二三子以我為隱乎。",
+    "folio":6,
+    "stemmed":"二 三 子 以 我 為 隱 乎  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b04_1",
+    "original":"吾無隱乎爾。",
+    "folio":6,
+    "stemmed":"吾 無 隱 乎 爾  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b04_15",
+    "original":"吾無行而不與二三子者是丘也。",
+    "folio":6,
+    "stemmed":"吾 無 行 而 不 與 二 三 子 者 是 丘 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b05_2",
+    "original":"以此觀之。",
+    "folio":6,
+    "stemmed":"以 此 觀 之  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b05_12",
+    "original":"夫子未甞迴避諸弟子。",
+    "folio":6,
+    "stemmed":"夫 子 未 甞 迴 避 諸 弟 子  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b06_4",
+    "original":"而諸弟子自蹉過了也。",
+    "folio":6,
+    "stemmed":"而 諸 弟 子 自 蹉 過 了 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b06_10",
+    "original":"昔張商英曰。",
+    "folio":6,
+    "stemmed":"昔 張 商 英 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b07_1",
+    "original":"吾學佛然後能知儒。",
+    "folio":6,
+    "stemmed":"吾 學 佛 然 後 能 知 儒  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b07_8",
+    "original":"此言實為至當。",
+    "folio":6,
+    "stemmed":"此 言 實 為 至 當  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b07_11",
+    "original":"帝曰。",
+    "folio":6,
+    "stemmed":"帝 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b07_18",
+    "original":"朕意亦謂如此。",
+    "folio":6,
+    "stemmed":"朕 意 亦 謂 如 此  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b08_2",
+    "original":"帝又問。",
+    "folio":6,
+    "stemmed":"帝 又 問  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b08_9",
+    "original":"莊子若何如人。",
+    "folio":6,
+    "stemmed":"莊 子 若 何 如 人  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b08_12",
+    "original":"印曰。",
+    "folio":6,
+    "stemmed":"印 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b09_6",
+    "original":"只是佛法中小乘聲聞以下人也。",
+    "folio":6,
+    "stemmed":"只 是 佛 法 中 小 乘 聲 聞 以 下 人 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b09_15",
+    "original":"蓋小乘厭身如桎梏。",
+    "folio":6,
+    "stemmed":"蓋 小 乘 厭 身 如 桎 梏  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b10_3",
+    "original":"棄智如雜毒。",
+    "folio":6,
+    "stemmed":"棄 智 如 雜 毒  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b10_12",
+    "original":"化火焚身入無為界。",
+    "folio":6,
+    "stemmed":"化 火 焚 身 入 無 為 界  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b11_8",
+    "original":"即如莊子所謂形固可使如槁木。",
+    "folio":6,
+    "stemmed":"即 如 莊 子 所 謂 形 固 可 使 如 槁 木  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b11_16",
+    "original":"心固可使如死灰。",
+    "folio":6,
+    "stemmed":"心 固 可 使 如 死 灰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b12_7",
+    "original":"若大乘人則不然。",
+    "folio":6,
+    "stemmed":"若 大 乘 人 則 不 然  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b12_16",
+    "original":"度眾生盡方證菩提。",
+    "folio":6,
+    "stemmed":"度 眾 生 盡 方 證 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b13_13",
+    "original":"正如伊尹所謂予天民之先覺者也。",
+    "folio":6,
+    "stemmed":"正 如 伊 尹 所 謂 予 天 民 之 先 覺 者 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b14_5",
+    "original":"將以斯道覺斯民也。",
+    "folio":6,
+    "stemmed":"將 以 斯 道 覺 斯 民 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b14_14",
+    "original":"有一夫不彼其澤者。",
+    "folio":6,
+    "stemmed":"有 一 夫 不 彼 其 澤 者  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b15_6",
+    "original":"若已推而內溝中也。",
+    "folio":6,
+    "stemmed":"若 已 推 而 內 溝 中 也  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b15_14",
+    "original":"帝大悅詔住徑山。",
+    "folio":6,
+    "stemmed":"帝 大 悅 詔 住 徑 山  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b15_18",
+    "original":"開堂曰。",
+    "folio":6,
+    "stemmed":"開 堂 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b16_13",
+    "original":"三世諸佛以一句演百千萬億句。",
+    "folio":6,
+    "stemmed":"三世諸佛 以 一 句 演 百 千 萬 億 句  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b17_7",
+    "original":"收百千萬億句秖在一句。",
+    "folio":6,
+    "stemmed":"收 百 千 萬 億 句 秖 在 一 句  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b17_16",
+    "original":"祖師門下半句也無。",
+    "folio":6,
+    "stemmed":"祖 師 門 下 半 句 也 無  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b18_7",
+    "original":"秖恁麼合喫多少痛棒。",
+    "folio":6,
+    "stemmed":"秖 恁 麼 合 喫 多 少 痛 棒  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b18_13",
+    "original":"諸仁者且道。",
+    "folio":6,
+    "stemmed":"諸 仁 者 且 道  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b19_1",
+    "original":"諸佛是祖師是。",
+    "folio":6,
+    "stemmed":"諸 佛 是 祖 師 是  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b19_14",
+    "original":"若道佛是祖不是祖是佛不是。",
+    "folio":6,
+    "stemmed":"若 道 佛 是 祖 不 是 祖 是 佛 不 是  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b20_13",
+    "original":"取舍未忘若道佛祖一時俱是一時俱不是。",
+    "folio":6,
+    "stemmed":"取 舍 未 忘 若 道 佛 祖 一 時 俱 是 一 時 俱 不 是  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b20_18",
+    "original":"顢頇不少。",
+    "folio":6,
+    "stemmed":"顢 頇 不 少  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b21_11",
+    "original":"且截斷葛藤一句作麼生道。",
+    "folio":6,
+    "stemmed":"且 截 斷 葛 藤 一 句 作 麼 生 道  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b21_15",
+    "original":"良久曰。",
+    "folio":6,
+    "stemmed":"良 久 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b22_3",
+    "original":"大蟲裏紙帽。",
+    "folio":6,
+    "stemmed":"大 蟲 裏 紙 帽  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b22_9",
+    "original":"好笑又驚人。",
+    "folio":6,
+    "stemmed":"好 笑 又 驚 人  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b23_1",
+    "original":"十年二月帝註圓覺經。",
+    "folio":6,
+    "stemmed":"十 年 二 月 帝 註 圓 覺 經  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b23_9",
+    "original":"賜師命作敘流行。",
+    "folio":6,
+    "stemmed":"賜 師 命 作 敘 流 行  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b24_7",
+    "original":"紹熙元年十一月往見智策禪師決別。",
+    "folio":6,
+    "stemmed":"紹 熙 元 年 十 一 月 往 見 智 策 禪 師 決 別  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b24_12",
+    "original":"策問行日。",
+    "folio":6,
+    "stemmed":"策 問 行 日  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b24_15",
+    "original":"師曰。",
+    "folio":6,
+    "stemmed":"師 曰  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b25_1",
+    "original":"水到渠成。",
+    "folio":6,
+    "stemmed":"水 到 渠 成  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b25_6",
+    "original":"索紙書云。",
+    "folio":6,
+    "stemmed":"索 紙 書 云  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b25_18",
+    "original":"十二月初七夜雞鳴時九字。",
+    "folio":6,
+    "stemmed":"十 二 月 初 七 夜 雞 鳴 時 九 字  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b26_4",
+    "original":"果至期而化。",
+    "folio":6,
+    "stemmed":"果 至 期 而 化  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b27_4",
+    "original":"留七日顏色明閏髮長頂溫葬全身于西岡。",
+    "folio":6,
+    "stemmed":"留 七 日 顏 色 明 閏 髮 長 頂 溫 葬 全 身 于 西 岡  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b27_9",
+    "original":"諡曰慈辯。",
+    "folio":6,
+    "stemmed":"諡 曰 慈 辯  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b27_14",
+    "original":"塔曰智光。",
+    "folio":6,
+    "stemmed":"塔 曰 智 光  "
+  },
+  {
+    "segmentnr":"ZH_T50_2062_006:0925b28_100",
+    "original":"大明高僧傳卷第六",
+    "folio":6,
+    "stemmed":"大 明 高 僧 傳 卷 第 六 "
+  }
+]

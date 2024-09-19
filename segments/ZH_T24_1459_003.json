@@ -1,0 +1,5942 @@
+[
+  {
+    "segmentnr":"ZH_T24_1459_003:0646a20_0",
+    "original":"根本說一切有部毘奈耶頌卷下",
+    "folio":3,
+    "stemmed":"根 本 說 一 切 有 部 毘 奈 耶 頌 卷 下 "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646a22_0",
+    "original":"尊者毘舍佉造",
+    "folio":3,
+    "stemmed":"尊 者 毘 舍 佉 造 "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646a23_0",
+    "original":"三藏法師義淨奉　制譯",
+    "folio":3,
+    "stemmed":"三藏法師 義 淨 奉  制 譯 "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646a25_5",
+    "original":"於十七跋窣睹等中述其要事(下)下明於十七跋窣覩等，中述其要事跋窣覩是事。",
+    "folio":3,
+    "stemmed":"於 十 七 跋 窣 睹 等 中 述 其 要 事  下  下 明 於 十 七 跋 窣 覩 等  中 述 其 要 事 跋 窣 覩 是 事  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646a26_13",
+    "original":"若是旃荼羅，　　唱令及酒舍；",
+    "folio":3,
+    "stemmed":"若 是 旃 荼 羅    唱 令 及 酒 舍  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646a27_13",
+    "original":"婬女王宮處，　　此五非行境。",
+    "folio":3,
+    "stemmed":"婬 女 王 宮 處    此 五 非 行 境  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646a28_13",
+    "original":"外道諸典籍，　　習讀將為勝；",
+    "folio":3,
+    "stemmed":"外 道 諸 典 籍    習 讀 將 為 勝  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646a29_13",
+    "original":"及數犯罪人，　　所食皆成毒。",
+    "folio":3,
+    "stemmed":"及 數 犯 罪 人    所 食 皆 成 毒  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646b01_13",
+    "original":"常應讀佛教，　　是惡道良醫；",
+    "folio":3,
+    "stemmed":"常 應 讀 佛 教    是 惡 道 良 醫  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646b02_13",
+    "original":"開許讀外書，　　為欲知其過。",
+    "folio":3,
+    "stemmed":"開 許 讀 外 書    為 欲 知 其 過  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646b03_13",
+    "original":"一切智言說，　　美妙多譬喻；",
+    "folio":3,
+    "stemmed":"一 切 智 言 說    美 妙 多 譬 喻  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646b04_13",
+    "original":"豈如外道論，　　無理言麁淺。",
+    "folio":3,
+    "stemmed":"豈 如 外 道 論    無 理 言 麁 淺  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646b05_13",
+    "original":"多畜諸器具，　　彫飾皆不許；",
+    "folio":3,
+    "stemmed":"多 畜 諸 器 具    彫 飾 皆 不 許  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646b06_13",
+    "original":"若畫坐床足，　　斯皆外道儀。",
+    "folio":3,
+    "stemmed":"若 畫 坐 床 足    斯 皆 外 道 儀  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646b07_13",
+    "original":"苾芻身老病，　　若乘輿隨聽；",
+    "folio":3,
+    "stemmed":"苾 芻 身 老 病    若 乘 輿 隨 聽  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646b08_13",
+    "original":"杖絡及皮衣，　　斯皆在開限。",
+    "folio":3,
+    "stemmed":"杖 絡 及 皮 衣    斯 皆 在 開 限  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646b09_13",
+    "original":"無由帝釋請，　　遂開於浴室；",
+    "folio":3,
+    "stemmed":"無 由 帝 釋 請    遂 開 於 浴 室  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646b10_13",
+    "original":"并勤定誦人，　　咸聽小食飯。",
+    "folio":3,
+    "stemmed":"并 勤 定 誦 人    咸 聽 小 食 飯  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646b11_13",
+    "original":"不注於眼口，　　亦不香薰衣；",
+    "folio":3,
+    "stemmed":"不 注 於 眼 口    亦 不 香 薰 衣  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646b12_13",
+    "original":"不畫傘皮鞋，　　揩爪令光淨。",
+    "folio":3,
+    "stemmed":"不 畫 傘 皮 鞋    揩 爪 令 光 淨  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646b13_13",
+    "original":"傘蓋有二種，　　葉作葦竹成；",
+    "folio":3,
+    "stemmed":"傘 蓋 有 二 種    葉 作 葦 竹 成  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646b14_13",
+    "original":"若至村中時，　　不應正持入。",
+    "folio":3,
+    "stemmed":"若 至 村 中 時    不 應 正 持 入  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646b15_13",
+    "original":"若作於傘柄，　　應與傘蓋同；",
+    "folio":3,
+    "stemmed":"若 作 於 傘 柄    應 與 傘 蓋 同  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646b16_13",
+    "original":"欠呿開口時，　　應將衣手掩。",
+    "folio":3,
+    "stemmed":"欠 呿 開 口 時    應 將 衣 手 掩  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646b17_13",
+    "original":"有緣須笑時，　　不得露齗齒；",
+    "folio":3,
+    "stemmed":"有 緣 須 笑 時    不 得 露 齗 齒  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646b18_13",
+    "original":"讚詠大師德，　　說法時非過。",
+    "folio":3,
+    "stemmed":"讚 詠 大 師 德    說 法 時 非 過  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646b19_13",
+    "original":"不得長作聲，　　宣唱牟尼典；",
+    "folio":3,
+    "stemmed":"不 得 長 作 聲    宣 唱 牟 尼 典  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646b20_13",
+    "original":"讀誦宜依法，　　隨處勿相違。",
+    "folio":3,
+    "stemmed":"讀 誦 宜 依 法    隨 處 勿 相 違  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646b21_13",
+    "original":"若學讚德聲，　　應在於屏處；",
+    "folio":3,
+    "stemmed":"若 學 讚 德 聲    應 在 於 屏 處  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646b22_13",
+    "original":"為宣揚正法，　　不應生染心。",
+    "folio":3,
+    "stemmed":"為 宣 揚 正 法    不 應 生 染 心  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646b23_13",
+    "original":"苾芻及尼等，　　五眾許安居；",
+    "folio":3,
+    "stemmed":"苾 芻 及 尼 等    五 眾 許 安 居  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646b24_13",
+    "original":"若至夏罷時，　　五眾集隨意。",
+    "folio":3,
+    "stemmed":"若 至 夏 罷 時    五 眾 集 隨 意  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646b25_13",
+    "original":"苾芻苾芻尼，　　一切戒須學；",
+    "folio":3,
+    "stemmed":"苾 芻 苾 芻 尼    一 切 戒 須 學  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646b26_13",
+    "original":"求寂求寂女，　　受十戒應知。",
+    "folio":3,
+    "stemmed":"求 寂 求 寂 女    受 十 戒 應 知  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646b27_13",
+    "original":"不獨在道行，　　亦不獨渡水；",
+    "folio":3,
+    "stemmed":"不 獨 在 道 行    亦 不 獨 渡 水  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646b28_13",
+    "original":"不故觸男子，　　不與男同宿；",
+    "folio":3,
+    "stemmed":"不 故 觸 男 子    不 與 男 同 宿  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646b29_13",
+    "original":"不為媒嫁事，　　不覆藏他罪；",
+    "folio":3,
+    "stemmed":"不 為 媒 嫁 事    不 覆 藏 他 罪  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646c01_13",
+    "original":"是名為六法，　　正學女應知。",
+    "folio":3,
+    "stemmed":"是 名 為 六 法    正 學 女 應 知  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646c02_13",
+    "original":"金銀不應捉，　　不除隱處毛；",
+    "folio":3,
+    "stemmed":"金 銀 不 應 捉    不 除 隱 處 毛  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646c03_13",
+    "original":"亦不掘生地，　　不斷於青草；",
+    "folio":3,
+    "stemmed":"亦 不 掘 生 地    不 斷 於 青 草  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646c04_13",
+    "original":"不得不受食，　　及以殘宿食；",
+    "folio":3,
+    "stemmed":"不 得 不 受 食    及 以 殘 宿 食  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646c05_13",
+    "original":"是名為六隨，　　學之經兩歲。",
+    "folio":3,
+    "stemmed":"是 名 為 六 隨    學 之 經 兩 歲  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646c06_13",
+    "original":"上座於日數，　　分明須憶知；",
+    "folio":3,
+    "stemmed":"上 座 於 日 數    分 明 須 憶 知  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646c07_13",
+    "original":"授事在眾前，　　日日當陳告。",
+    "folio":3,
+    "stemmed":"授 事 在 眾 前    日 日 當 陳 告  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646c08_13",
+    "original":"可於六時中，　　月半減一日；",
+    "folio":3,
+    "stemmed":"可 於 六 時 中    月 半 減 一 日  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646c09_13",
+    "original":"減日成其月，　　至六成一閏。",
+    "folio":3,
+    "stemmed":"減 日 成 其 月    至 六 成 一 閏  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646c10_13",
+    "original":"如其王作閏，　　月數有參差；",
+    "folio":3,
+    "stemmed":"如 其 王 作 閏    月 數 有 參 差  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646c11_13",
+    "original":"苾芻應可隨，　　由王有勢力。",
+    "folio":3,
+    "stemmed":"苾 芻 應 可 隨    由 王 有 勢 力  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646c12_13",
+    "original":"洗手洗鉢處，　　若作曼荼羅；",
+    "folio":3,
+    "stemmed":"洗 手 洗 鉢 處    若 作 曼 荼 羅  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646c13_13",
+    "original":"不似日月形，　　及似塔形勢。",
+    "folio":3,
+    "stemmed":"不 似 日 月 形    及 似 塔 形 勢  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646c14_13",
+    "original":"苾芻涉路去，　　若過神廟堂；",
+    "folio":3,
+    "stemmed":"苾 芻 涉 路 去    若 過 神 廟 堂  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646c15_13",
+    "original":"入彈指作聲，　　伽他說佛語。",
+    "folio":3,
+    "stemmed":"入 彈 指 作 聲    伽 他 說 佛 語  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646c16_13",
+    "original":"若至神廟所，　　不應為損益；",
+    "folio":3,
+    "stemmed":"若 至 神 廟 所    不 應 為 損 益  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646c17_13",
+    "original":"苾芻若違教，　　便招惡作罪。",
+    "folio":3,
+    "stemmed":"苾 芻 若 違 教    便 招 惡 作 罪  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646c18_13",
+    "original":"苾芻等五眾，　　不供養天神；",
+    "folio":3,
+    "stemmed":"苾 芻 等 五 眾    不 供 養 天 神  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646c19_13",
+    "original":"自作若使人，　　亦得惡作罪。",
+    "folio":3,
+    "stemmed":"自 作 若 使 人    亦 得 惡 作 罪  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646c20_13",
+    "original":"若有餘因緣，　　許香花祭食；",
+    "folio":3,
+    "stemmed":"若 有 餘 因 緣    許 香 花 祭 食  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646c21_13",
+    "original":"不得違時俗，　　損益不應為。",
+    "folio":3,
+    "stemmed":"不 得 違 時 俗    損 益 不 應 為  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646c22_13",
+    "original":"事佛之善神，　　隨情應供養；",
+    "folio":3,
+    "stemmed":"事 佛 之 善 神    隨 情 應 供 養  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646c23_13",
+    "original":"於諸大經內，　　遣作皆無犯。",
+    "folio":3,
+    "stemmed":"於 諸 大 經 內    遣 作 皆 無 犯  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646c24_13",
+    "original":"於諸有情類，　　常擁護行慈；",
+    "folio":3,
+    "stemmed":"於諸有情 類    常 擁 護 行 慈  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646c25_13",
+    "original":"由有慈悲種，　　不生於苦趣。",
+    "folio":3,
+    "stemmed":"由 有 慈 悲 種    不 生 於 苦 趣  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646c26_13",
+    "original":"愛敬天神者，　　常好為供養；",
+    "folio":3,
+    "stemmed":"愛 敬 天 神 者    常 好 為 供 養  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646c27_13",
+    "original":"世間皆共然，　　由貪生死樂。",
+    "folio":3,
+    "stemmed":"世 間 皆 共 然    由 貪 生 死 樂  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646c28_13",
+    "original":"皆求世間果，　　由是祭邪神；",
+    "folio":3,
+    "stemmed":"皆 求 世 間 果    由 是 祭 邪 神  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0646c29_13",
+    "original":"惱害殺眾生，　　引他歸惡趣。",
+    "folio":3,
+    "stemmed":"惱 害 殺 眾 生    引 他 歸 惡 趣  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647a01_13",
+    "original":"先已歸依佛，　　轉更事天神；",
+    "folio":3,
+    "stemmed":"先 已 歸 依 佛    轉 更 事 天 神  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647a02_13",
+    "original":"供養獲果少，　　不知尊敬處。",
+    "folio":3,
+    "stemmed":"供 養 獲 果 少    不 知 尊 敬 處  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647a03_13",
+    "original":"破戒著袈裟，　　欺弄苾芻像；",
+    "folio":3,
+    "stemmed":"破 戒 著 袈 裟    欺 弄 苾 芻 像  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647a04_13",
+    "original":"無慚噉人食，　　事同剛火炭。",
+    "folio":3,
+    "stemmed":"無 慚 噉 人 食    事 同 剛 火 炭  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647a05_13",
+    "original":"應寫律教等，　　流布能生福；",
+    "folio":3,
+    "stemmed":"應 寫 律 教 等    流 布 能 生 福  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647a06_13",
+    "original":"忘念者令憶，　　自身兼讀持。",
+    "folio":3,
+    "stemmed":"忘 念 者 令 憶    自 身 兼 讀 持  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647a07_13",
+    "original":"苾芻入浴室，　　須揩身體時；",
+    "folio":3,
+    "stemmed":"苾 芻 入 浴 室    須 揩 身 體 時  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647a08_13",
+    "original":"應令敬信人，　　勿使不信者。",
+    "folio":3,
+    "stemmed":"應 令 敬 信 人    勿 使 不 信 者  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647a09_13",
+    "original":"諸有持戒人，　　不供破戒者；",
+    "folio":3,
+    "stemmed":"諸 有 持 戒 人    不 供 破 戒 者  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647a10_13",
+    "original":"不可令師子，　　承事於野干。",
+    "folio":3,
+    "stemmed":"不 可 令 師 子    承 事 於 野 干  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647a11_13",
+    "original":"此是佛法刺，　　正教中死屍；",
+    "folio":3,
+    "stemmed":"此 是 佛 法 刺    正 教 中 死 屍  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647a12_13",
+    "original":"共住及隨行，　　皆成不應法。",
+    "folio":3,
+    "stemmed":"共 住 及 隨 行    皆 成 不 應 法  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647a13_13",
+    "original":"親教軌範師，　　及父母有病；",
+    "folio":3,
+    "stemmed":"親 教 軌 範 師    及 父 母 有 病  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647a14_13",
+    "original":"假令是破戒，　　悉可為供給。",
+    "folio":3,
+    "stemmed":"假 令 是 破 戒    悉 可 為 供 給  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647a15_13",
+    "original":"父母老貧病，　　乞食半相供；",
+    "folio":3,
+    "stemmed":"父 母 老 貧 病    乞 食 半 相 供  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647a16_13",
+    "original":"由斯有大恩，　　是故應瞻養。",
+    "folio":3,
+    "stemmed":"由 斯 有 大 恩    是 故 應 瞻 養  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647a17_13",
+    "original":"見有闕乏處，　　隨事皆供給；",
+    "folio":3,
+    "stemmed":"見 有 闕 乏 處    隨 事 皆 供 給  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647a18_13",
+    "original":"乃至塗足油，　　洗沐令身淨。",
+    "folio":3,
+    "stemmed":"乃 至 塗 足 油    洗 沐 令 身 淨  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647a19_13",
+    "original":"苾芻若用甎，　　唯得揩踝足；",
+    "folio":3,
+    "stemmed":"苾 芻 若 用 甎    唯 得 揩 踝 足  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647a20_13",
+    "original":"餘身分不許，　　若為病皆聽。",
+    "folio":3,
+    "stemmed":"餘 身 分 不 許    若 為 病 皆 聽  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647a21_13",
+    "original":"不三畫插梳，　　及帶於呪線；",
+    "folio":3,
+    "stemmed":"不 三 畫 插 梳    及 帶 於 呪 線  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647a22_13",
+    "original":"應繫於左臂，　　為治病開聽。",
+    "folio":3,
+    "stemmed":"應 繫 於 左 臂    為 治 病 開 聽  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647a23_13",
+    "original":"如其病除愈，　　應安柱孔中；",
+    "folio":3,
+    "stemmed":"如 其 病 除 愈    應 安 柱 孔 中  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647a24_13",
+    "original":"醫人若遣為，　　香塗身不犯。",
+    "folio":3,
+    "stemmed":"醫 人 若 遣 為    香 塗 身 不 犯  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647a25_13",
+    "original":"若以香塗身，　　不應出房外；",
+    "folio":3,
+    "stemmed":"若 以 香 塗 身    不 應 出 房 外  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647a26_13",
+    "original":"勿令他嫌慢，　　增其不信心。",
+    "folio":3,
+    "stemmed":"勿 令 他 嫌 慢    增 其 不 信 心  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647a27_13",
+    "original":"若有淨信者，　　為福施香泥；",
+    "folio":3,
+    "stemmed":"若 有 淨 信 者    為 福 施 香 泥  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647a28_13",
+    "original":"應塗戶扇邊，　　嗅之能益眼。",
+    "folio":3,
+    "stemmed":"應 塗 戶 扇 邊    嗅 之 能 益 眼  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647a29_13",
+    "original":"淨信以香泥，　　塗摩苾芻足；",
+    "folio":3,
+    "stemmed":"淨 信 以 香 泥    塗 摩 苾 芻 足  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647b01_13",
+    "original":"為福宜應受，　　去時當洗除。",
+    "folio":3,
+    "stemmed":"為 福 宜 應 受    去 時 當 洗 除  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647b02_13",
+    "original":"必有妙香花，　　苾芻欲得嗅；",
+    "folio":3,
+    "stemmed":"必 有 妙 香 花    苾 芻 欲 得 嗅  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647b03_13",
+    "original":"意欲令明眼，　　不應生愛心。",
+    "folio":3,
+    "stemmed":"意 欲 令 明 眼    不 應 生 愛 心  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647b04_13",
+    "original":"聽持鐵鑰匙，　　為防衣藥故；",
+    "folio":3,
+    "stemmed":"聽 持 鐵 鑰 匙    為 防 衣 藥 故  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647b05_13",
+    "original":"勿興煩惱意，　　輒捉打眾生。",
+    "folio":3,
+    "stemmed":"勿 興 煩 惱 意    輒 捉 打 眾 生  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647b06_13",
+    "original":"大眾及別人，　　持印皆聽許；",
+    "folio":3,
+    "stemmed":"大 眾 及 別 人    持 印 皆 聽 許  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647b07_13",
+    "original":"銅鐵木礦石，　　甎錫等應為。",
+    "folio":3,
+    "stemmed":"銅 鐵 木 礦 石    甎 錫 等 應 為  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647b08_13",
+    "original":"別人髑髏像，　　或刻為白骨；",
+    "folio":3,
+    "stemmed":"別 人 髑 髏 像    或 刻 為 白 骨  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647b09_13",
+    "original":"大眾法輪形，　　此是作印相。",
+    "folio":3,
+    "stemmed":"大 眾 法 輪 形    此 是 作 印 相  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647b10_13",
+    "original":"凡食小香果，　　皆須待核成；",
+    "folio":3,
+    "stemmed":"凡 食 小 香 果    皆 須 待 核 成  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647b11_13",
+    "original":"欲令其福增，　　僧伽果須熟。",
+    "folio":3,
+    "stemmed":"欲 令 其 福 增    僧 伽 果 須 熟  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647b12_13",
+    "original":"不應臨水鏡，　　愛心觀面像；",
+    "folio":3,
+    "stemmed":"不 應 臨 水 鏡    愛 心 觀 面 像  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647b13_13",
+    "original":"為病念無常，　　照時無有過。",
+    "folio":3,
+    "stemmed":"為 病 念 無 常    照 時 無 有 過  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647b14_13",
+    "original":"不自斷生支，　　亦不甎石打；",
+    "folio":3,
+    "stemmed":"不 自 斷 生 支    亦 不 甎 石 打  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647b15_13",
+    "original":"宜將不淨觀，　　洗除婬染心。",
+    "folio":3,
+    "stemmed":"宜 將 不 淨 觀    洗 除 婬 染 心  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647b16_13",
+    "original":"洗足盆內高，　　其形如象跡；",
+    "folio":3,
+    "stemmed":"洗 足 盆 內 高    其 形 如 象 跡  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647b17_13",
+    "original":"竹及多羅葉，　　二種扇應持。",
+    "folio":3,
+    "stemmed":"竹 及 多 羅 葉    二 種 扇 應 持  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647b18_13",
+    "original":"若欲除蚊子，　　五種拂隨聽；",
+    "folio":3,
+    "stemmed":"若 欲 除 蚊 子    五 種 拂 隨 聽  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647b19_13",
+    "original":"枝梢劫貝𦶇，　　麻毛并破帛。",
+    "folio":3,
+    "stemmed":"枝 梢 劫 貝 𦶇    麻 毛 并 破 帛  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647b20_13",
+    "original":"若須上高梯，　　應結裙下緣；",
+    "folio":3,
+    "stemmed":"若 須 上 高 梯    應 結 裙 下 緣  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647b21_13",
+    "original":"苾芻不擎重，　　應覓俗人持。",
+    "folio":3,
+    "stemmed":"苾 芻 不 擎 重    應 覓 俗 人 持  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647b22_13",
+    "original":"苾芻之儀式，　　皆與俗不同；",
+    "folio":3,
+    "stemmed":"苾 芻 之 儀 式    皆 與 俗 不 同  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647b23_13",
+    "original":"用梳等搔頭，　　是事咸不可。",
+    "folio":3,
+    "stemmed":"用 梳 等 搔 頭    是 事 咸 不 可  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647b24_13",
+    "original":"若髮有塵垢，　　頭癢手揩摩；",
+    "folio":3,
+    "stemmed":"若 髮 有 塵 垢    頭 癢 手 揩 摩  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647b25_13",
+    "original":"或時將故衣，　　此等皆無犯。",
+    "folio":3,
+    "stemmed":"或 時 將 故 衣    此 等 皆 無 犯  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647b26_13",
+    "original":"寺後西北隅，　　安置大便室；",
+    "folio":3,
+    "stemmed":"寺 後 西 北 隅    安 置 大 便 室  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647b27_13",
+    "original":"及以小行室，　　皆須店門扇。",
+    "folio":3,
+    "stemmed":"及 以 小 行 室    皆 須 店 門 扇  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647b28_13",
+    "original":"西北角下房，　　安大眾瓶水；",
+    "folio":3,
+    "stemmed":"西 北 角 下 房    安 大 眾 瓶 水  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647b29_13",
+    "original":"此據門南向，　　餘面准應知。",
+    "folio":3,
+    "stemmed":"此 據 門 南 向    餘 面 准 應 知  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647c01_13",
+    "original":"若見諸俗人，　　及老苾芻啑；",
+    "folio":3,
+    "stemmed":"若 見 諸 俗 人    及 老 苾 芻 啑  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647c02_13",
+    "original":"應云久長壽，　　不言便得罪。",
+    "folio":3,
+    "stemmed":"應 云 久 長 壽    不 言 便 得 罪  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647c03_13",
+    "original":"大者見小啑，　　應告言無病；",
+    "folio":3,
+    "stemmed":"大 者 見 小 啑    應 告 言 無 病  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647c04_13",
+    "original":"小者於尊年，　　即須云敬禮。",
+    "folio":3,
+    "stemmed":"小 者 於 尊 年    即 須 云 敬 禮  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647c05_13",
+    "original":"凡是噉食時，　　及便利未洗；",
+    "folio":3,
+    "stemmed":"凡 是 噉 食 時    及 便 利 未 洗  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647c06_13",
+    "original":"或一衣在道，　　或立穢鬧處；",
+    "folio":3,
+    "stemmed":"或 一 衣 在 道    或 立 穢 鬧 處  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647c07_13",
+    "original":"或復食雖了，　　口猶未澡漱；",
+    "folio":3,
+    "stemmed":"或 復 食 雖 了    口 猶 未 澡 漱  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647c08_13",
+    "original":"斯皆不禮他，　　亦不受他禮。",
+    "folio":3,
+    "stemmed":"斯 皆 不 禮 他    亦 不 受 他 禮  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647c09_13",
+    "original":"若於旦起時，　　齒木未淨口；",
+    "folio":3,
+    "stemmed":"若 於 旦 起 時    齒 木 未 淨 口  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647c10_13",
+    "original":"禮他及受禮，　　並皆招惡作。",
+    "folio":3,
+    "stemmed":"禮 他 及 受 禮    並 皆 招 惡 作  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647c11_13",
+    "original":"見行遍住等，　　皆不應禮拜；",
+    "folio":3,
+    "stemmed":"見 行 遍 住 等    皆 不 應 禮 拜  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647c12_13",
+    "original":"佛及大苾芻，　　唯此二應禮。",
+    "folio":3,
+    "stemmed":"佛 及 大 苾 芻    唯 此 二 應 禮  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647c13_13",
+    "original":"於斯聖教內，　　有二種畔睇：",
+    "folio":3,
+    "stemmed":"於 斯 聖 教 內    有 二 種 畔 睇  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647c14_13",
+    "original":"一謂以五輪、　　二乃搦其腨。",
+    "folio":3,
+    "stemmed":"一 謂 以 五 輪    二 乃 搦 其 腨  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647c15_13",
+    "original":"持戒者不應，　　毛繩繫蛇項；",
+    "folio":3,
+    "stemmed":"持 戒 者 不 應    毛 繩 繫 蛇 項  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647c16_13",
+    "original":"如其不肯去，　　方便好應驅。",
+    "folio":3,
+    "stemmed":"如 其 不 肯 去    方 便 好 應 驅  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647c17_13",
+    "original":"應可用軟繩，　　徐徐繫項棄；",
+    "folio":3,
+    "stemmed":"應 可 用 軟 繩    徐 徐 繫 項 棄  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647c18_13",
+    "original":"宜安嶮叢處，　　勿對於眾人。",
+    "folio":3,
+    "stemmed":"宜 安 嶮 叢 處    勿 對 於 眾 人  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647c19_13",
+    "original":"如是於鼠等，　　皆可興悲念；",
+    "folio":3,
+    "stemmed":"如 是 於 鼠 等    皆 可 興 悲 念  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647c20_13",
+    "original":"繫放無令害，　　慇懃善用心。",
+    "folio":3,
+    "stemmed":"繫 放 無 令 害    慇 懃 善 用 心  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647c21_13",
+    "original":"護戒者悲心，　　蚤虱常存念；",
+    "folio":3,
+    "stemmed":"護 戒 者 悲 心    蚤 虱 常 存 念  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647c22_13",
+    "original":"置故衣氈內，　　應安孔隙中。",
+    "folio":3,
+    "stemmed":"置 故 衣 氈 內    應 安 孔 隙 中  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647c23_13",
+    "original":"若其除壁虱，　　可安青草中；",
+    "folio":3,
+    "stemmed":"若 其 除 壁 虱    可 安 青 草 中  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647c24_13",
+    "original":"隨其樂處行，　　勿令生苦害。",
+    "folio":3,
+    "stemmed":"隨 其 樂 處 行    勿 令 生 苦 害  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647c25_5",
+    "original":"油器有三種：",
+    "folio":3,
+    "stemmed":"油 器 有 三 種  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647c26_13",
+    "original":"　　大者受一抄，小半抄餘中，　　隨情可持用。",
+    "folio":3,
+    "stemmed":"  大 者 受 一 抄  小 半 抄 餘 中    隨 情 可 持 用  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647c27_13",
+    "original":"道行為法語，　　或作聖默然；",
+    "folio":3,
+    "stemmed":"道 行 為 法 語    或 作 聖 默 然  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647c28_13",
+    "original":"住息說伽他，　　宿處誦三啟。",
+    "folio":3,
+    "stemmed":"住 息 說 伽 他    宿 處 誦 三 啟  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0647c29_5",
+    "original":"聽持三種繩：",
+    "folio":3,
+    "stemmed":"聽 持 三 種 繩  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648a01_13",
+    "original":"　　長百五十肘，短百肘餘中，　　隨處應當用。",
+    "folio":3,
+    "stemmed":"  長 百 五 十 肘  短 百 肘 餘 中    隨 處 應 當 用  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648a02_13",
+    "original":"如其井池淺，　　或可水平流；",
+    "folio":3,
+    "stemmed":"如 其 井 池 淺    或 可 水 平 流  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648a03_13",
+    "original":"長短任應持，　　或時全不用。",
+    "folio":3,
+    "stemmed":"長 短 任 應 持    或 時 全 不 用  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648a04_13",
+    "original":"若為苾芻尼，　　演說律儀教；",
+    "folio":3,
+    "stemmed":"若 為 苾 芻 尼    演 說 律 儀 教  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648a05_13",
+    "original":"中間應幔障，　　異斯便惡作。",
+    "folio":3,
+    "stemmed":"中 間 應 幔 障    異 斯 便 惡 作  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648a06_13",
+    "original":"不取賊遺物，　　應可善觀瞻；",
+    "folio":3,
+    "stemmed":"不 取 賊 遺 物    應 可 善 觀 瞻  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648a07_13",
+    "original":"多人共委知，　　設取無愆過。",
+    "folio":3,
+    "stemmed":"多 人 共 委 知    設 取 無 愆 過  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648a08_13",
+    "original":"苾芻若種樹，　　擬充僧果園；",
+    "folio":3,
+    "stemmed":"苾 芻 若 種 樹    擬 充 僧 果 園  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648a09_13",
+    "original":"守看經五年，　　去時須囑授。",
+    "folio":3,
+    "stemmed":"守 看 經 五 年    去 時 須 囑 授  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648a10_0",
+    "original":"苾芻不呪誓，　　若作似妄語，",
+    "folio":3,
+    "stemmed":"苾 芻 不 呪 誓    若 作 似 妄 語  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648a11_13",
+    "original":"亦不賭衣等，　　博弈匪尸羅。",
+    "folio":3,
+    "stemmed":"亦 不 賭 衣 等    博 弈 匪 尸 羅  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648a12_13",
+    "original":"苾芻見女人，　　若有染心起；",
+    "folio":3,
+    "stemmed":"苾 芻 見 女 人    若 有 染 心 起  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648a13_13",
+    "original":"或女生染意，　　住處捨應行。",
+    "folio":3,
+    "stemmed":"或 女 生 染 意    住 處 捨 應 行  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648a14_13",
+    "original":"若見苾芻尼，　　為來聽法故；",
+    "folio":3,
+    "stemmed":"若 見 苾 芻 尼    為 來 聽 法 故  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648a15_13",
+    "original":"不可遣其立，　　與物令安坐。",
+    "folio":3,
+    "stemmed":"不 可 遣 其 立    與 物 令 安 坐  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648a16_13",
+    "original":"應與甎木枮，　　及草稕褥子；",
+    "folio":3,
+    "stemmed":"應 與 甎 木 枮    及 草 稕 褥 子  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648a17_13",
+    "original":"唯此令尼坐，　　餘物並不應。",
+    "folio":3,
+    "stemmed":"唯 此 令 尼 坐    餘 物 並 不 應  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648a18_13",
+    "original":"尼來至寺中，　　應與其臥具；",
+    "folio":3,
+    "stemmed":"尼 來 至 寺 中    應 與 其 臥 具  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648a19_13",
+    "original":"令用中下者，　　上物無宜與。",
+    "folio":3,
+    "stemmed":"令 用 中 下 者    上 物 無 宜 與  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648a20_13",
+    "original":"苾芻苾芻尼，　　相對不說罪；",
+    "folio":3,
+    "stemmed":"苾 芻 苾 芻 尼    相 對 不 說 罪  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648a21_13",
+    "original":"由於所犯過，　　愧恥難陳說。",
+    "folio":3,
+    "stemmed":"由 於 所 犯 過    愧 恥 難 陳 說  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648a22_13",
+    "original":"苾芻尼有疑，　　於罪應為決；",
+    "folio":3,
+    "stemmed":"苾 芻 尼 有 疑    於 罪 應 為 決  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648a23_13",
+    "original":"尼須起尊敬，　　勿生輕慢心。",
+    "folio":3,
+    "stemmed":"尼 須 起 尊 敬    勿 生 輕 慢 心  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648a24_13",
+    "original":"尼入僧寺時，　　至門應遣問；",
+    "folio":3,
+    "stemmed":"尼 入 僧 寺 時    至 門 應 遣 問  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648a25_13",
+    "original":"報言無過者，　　隨意令其入。",
+    "folio":3,
+    "stemmed":"報 言 無 過 者    隨 意 令 其 入  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648a26_13",
+    "original":"欲居蘭若人，　　應先善三藏；",
+    "folio":3,
+    "stemmed":"欲 居 蘭 若 人    應 先 善 三 藏  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648a27_13",
+    "original":"日月星行次，　　皆應分別知。",
+    "folio":3,
+    "stemmed":"日 月 星 行 次    皆 應 分 別 知  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648a28_13",
+    "original":"若在蘭若住，　　應畜油等物；",
+    "folio":3,
+    "stemmed":"若 在 蘭 若 住    應 畜 油 等 物  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648a29_13",
+    "original":"他索可相供，　　令賊歡喜故。",
+    "folio":3,
+    "stemmed":"他 索 可 相 供    令 賊 歡 喜 故  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648b01_13",
+    "original":"先是工巧人，　　調度不應畜；",
+    "folio":3,
+    "stemmed":"先 是 工 巧 人    調 度 不 應 畜  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648b02_13",
+    "original":"醫及解書者，　　針筆等聽持。",
+    "folio":3,
+    "stemmed":"醫 及 解 書 者    針 筆 等 聽 持  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648b03_13",
+    "original":"苾芻住蘭若，　　應可務精勤；",
+    "folio":3,
+    "stemmed":"苾 芻 住 蘭 若    應 可 務 精 勤  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648b04_13",
+    "original":"出家勤最初，　　懈怠便招罪。",
+    "folio":3,
+    "stemmed":"出 家 勤 最 初    懈 怠 便 招 罪  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648b05_13",
+    "original":"縱使行精進，　　正法亦須求；",
+    "folio":3,
+    "stemmed":"縱 使 行 精 進    正 法 亦 須 求  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648b06_13",
+    "original":"離此見不明，　　失信乖修習。",
+    "folio":3,
+    "stemmed":"離 此 見 不 明    失 信 乖 修 習  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648b07_13",
+    "original":"若離正教授，　　無宜習定門；",
+    "folio":3,
+    "stemmed":"若 離 正 教 授    無 宜 習 定 門  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648b08_13",
+    "original":"能發狂亂心，　　損害禪支路。",
+    "folio":3,
+    "stemmed":"能 發 狂 亂 心    損 害 禪 支 路  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648b09_13",
+    "original":"於其所住房，　　香花等芬馥；",
+    "folio":3,
+    "stemmed":"於 其 所 住 房    香 花 等 芬 馥  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648b10_13",
+    "original":"床服咸應爾，　　異此心難定。",
+    "folio":3,
+    "stemmed":"床 服 咸 應 爾    異 此 心 難 定  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648b11_13",
+    "original":"僧家營作木，　　不可持燒染；",
+    "folio":3,
+    "stemmed":"僧 家 營 作 木    不 可 持 燒 染  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648b12_13",
+    "original":"若是曲爛者，　　許用在無傷。",
+    "folio":3,
+    "stemmed":"若 是 曲 爛 者    許 用 在 無 傷  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648b13_13",
+    "original":"若為他解勞，　　應須觀軌式；",
+    "folio":3,
+    "stemmed":"若 為 他 解 勞    應 須 觀 軌 式  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648b14_13",
+    "original":"彼人有伴屬，　　勘問乃相容。",
+    "folio":3,
+    "stemmed":"彼 人 有 伴 屬    勘 問 乃 相 容  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648b15_13",
+    "original":"若見有女人，　　水火等漂害；",
+    "folio":3,
+    "stemmed":"若 見 有 女 人    水 火 等 漂 害  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648b16_13",
+    "original":"苾芻應拯濟，　　由悲故非犯。",
+    "folio":3,
+    "stemmed":"苾 芻 應 拯 濟    由 悲 故 非 犯  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648b17_13",
+    "original":"若有人來問，　　云何活命緣？",
+    "folio":3,
+    "stemmed":"若 有 人 來 問    云 何 活 命 緣  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648b18_13",
+    "original":"苾芻隨事教，　　勿使違時俗。",
+    "folio":3,
+    "stemmed":"苾 芻 隨 事 教    勿 使 違 時 俗  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648b19_13",
+    "original":"若於寺門下，　　或在房簷前；",
+    "folio":3,
+    "stemmed":"若 於 寺 門 下    或 在 房 簷 前  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648b20_13",
+    "original":"若有女人時，　　苾芻不應住。",
+    "folio":3,
+    "stemmed":"若 有 女 人 時    苾 芻 不 應 住  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648b21_13",
+    "original":"已於五欲境，　　捨之而不愛；",
+    "folio":3,
+    "stemmed":"已 於 五 欲 境    捨 之 而 不 愛  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648b22_13",
+    "original":"是故常用心，　　念住勤修習。",
+    "folio":3,
+    "stemmed":"是 故 常 用 心    念 住 勤 修 習  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648b23_13",
+    "original":"三世諸如來，　　獨覺聲聞眾；",
+    "folio":3,
+    "stemmed":"三 世 諸 如 來    獨 覺 聲 聞 眾  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648b24_13",
+    "original":"皆依此道去，　　能至涅槃城。",
+    "folio":3,
+    "stemmed":"皆 依 此 道 去    能 至 涅 槃 城  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648b25_13",
+    "original":"弟子觀師德，　　方可請為依；",
+    "folio":3,
+    "stemmed":"弟 子 觀 師 德    方 可 請 為 依  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648b26_13",
+    "original":"師於弟子邊，　　問知應攝受。",
+    "folio":3,
+    "stemmed":"師 於 弟 子 邊    問 知 應 攝 受  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648b27_13",
+    "original":"兩人隨有過，　　彼此並招愆；",
+    "folio":3,
+    "stemmed":"兩 人 隨 有 過    彼 此 並 招 愆  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648b28_13",
+    "original":"為斯俱用心，　　慇懃好相察。",
+    "folio":3,
+    "stemmed":"為 斯 俱 用 心    慇 懃 好 相 察  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648b29_13",
+    "original":"師須戒行全，　　瞻病不悋法；",
+    "folio":3,
+    "stemmed":"師 須 戒 行 全    瞻 病 不 悋 法  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648c01_13",
+    "original":"隨時常教授，　　當求如是師。",
+    "folio":3,
+    "stemmed":"隨 時 常 教 授    當 求 如 是 師  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648c02_13",
+    "original":"弟子亦具戒，　　勤策性柔和；",
+    "folio":3,
+    "stemmed":"弟 子 亦 具 戒    勤 策 性 柔 和  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648c03_13",
+    "original":"恭敬於師長，　　禪誦無違闕。",
+    "folio":3,
+    "stemmed":"恭 敬 於 師 長    禪 誦 無 違 闕  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648c04_0",
+    "original":"有緣自行去，　　或復見本師，",
+    "folio":3,
+    "stemmed":"有 緣 自 行 去    或 復 見 本 師  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648c05_13",
+    "original":"入外道歸俗，　　斯皆失依止。",
+    "folio":3,
+    "stemmed":"入 外 道 歸 俗    斯 皆 失 依 止  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648c06_13",
+    "original":"又復隨一人，　　作捨依止念；",
+    "folio":3,
+    "stemmed":"又 復 隨 一 人    作 捨 依 止 念  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648c07_13",
+    "original":"此即名為捨，　　進否善須知。",
+    "folio":3,
+    "stemmed":"此 即 名 為 捨    進 否 善 須 知  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648c08_13",
+    "original":"呵責門徒時，　　不可便驅逐；",
+    "folio":3,
+    "stemmed":"呵 責 門 徒 時    不 可 便 驅 逐  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648c09_13",
+    "original":"權聽寺內住，　　若改命歸房。",
+    "folio":3,
+    "stemmed":"權 聽 寺 內 住    若 改 命 歸 房  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648c10_5",
+    "original":"說有五種呵：",
+    "folio":3,
+    "stemmed":"說 有 五 種 呵  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648c10_13",
+    "original":"　　不語不教授；",
+    "folio":3,
+    "stemmed":"  不 語 不 教 授  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648c11_13",
+    "original":"不受其承事，　　遮善品捨衣。",
+    "folio":3,
+    "stemmed":"不 受 其 承 事    遮 善 品 捨 衣  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648c12_13",
+    "original":"呵責及受懺，　　皆須准教行；",
+    "folio":3,
+    "stemmed":"呵 責 及 受 懺    皆 須 准 教 行  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648c13_13",
+    "original":"此二若乖違，　　俱招惡作罪。",
+    "folio":3,
+    "stemmed":"此 二 若 乖 違    俱 招 惡 作 罪  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648c14_13",
+    "original":"嬾惰無孝心，　　麁言親惡友；",
+    "folio":3,
+    "stemmed":"嬾 惰 無 孝 心    麁 言 親 惡 友  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648c15_13",
+    "original":"於師不恭敬，　　斯人勿懺摩。",
+    "folio":3,
+    "stemmed":"於 師 不 恭 敬    斯 人 勿 懺 摩  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648c16_0",
+    "original":"若擯於求寂，　　隨將上下衣，",
+    "folio":3,
+    "stemmed":"若 擯 於 求 寂    隨 將 上 下 衣  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648c17_13",
+    "original":"并與濾水羅，　　師須善觀察。",
+    "folio":3,
+    "stemmed":"并 與 濾 水 羅    師 須 善 觀 察  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648c18_13",
+    "original":"若已受近圓，　　應與其六物；",
+    "folio":3,
+    "stemmed":"若 已 受 近 圓    應 與 其 六 物  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648c19_13",
+    "original":"必是難容忍，　　隨去不須留。",
+    "folio":3,
+    "stemmed":"必 是 難 容 忍    隨 去 不 須 留  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648c20_13",
+    "original":"若離本依止，　　一宿不應行；",
+    "folio":3,
+    "stemmed":"若 離 本 依 止    一 宿 不 應 行  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648c21_13",
+    "original":"仍除滿五年，　　善明於戒律。",
+    "folio":3,
+    "stemmed":"仍 除 滿 五 年    善 明 於 戒 律  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648c22_13",
+    "original":"如其向餘處，　　緣開五日停；",
+    "folio":3,
+    "stemmed":"如 其 向 餘 處    緣 開 五 日 停  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648c23_13",
+    "original":"勤求依止師，　　若無不得住。",
+    "folio":3,
+    "stemmed":"勤 求 依 止 師    若 無 不 得 住  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648c24_13",
+    "original":"宜於彼師處，　　應為洗摩身；",
+    "folio":3,
+    "stemmed":"宜 於 彼 師 處    應 為 洗 摩 身  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648c25_13",
+    "original":"或染或縫衣，　　斯為弟子法。",
+    "folio":3,
+    "stemmed":"或 染 或 縫 衣    斯 為 弟 子 法  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648c26_13",
+    "original":"軌範於作業，　　知量可應為；",
+    "folio":3,
+    "stemmed":"軌 範 於 作 業    知 量 可 應 為  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648c27_13",
+    "original":"養護起慈悲，　　不應令過分。",
+    "folio":3,
+    "stemmed":"養 護 起 慈 悲    不 應 令 過 分  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648c28_13",
+    "original":"教讀依止師，　　報恩俱給侍；",
+    "folio":3,
+    "stemmed":"教 讀 依 止 師    報 恩 俱 給 侍  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0648c29_13",
+    "original":"然於二人處，　　恭敬有差殊。",
+    "folio":3,
+    "stemmed":"然 於 二 人 處    恭 敬 有 差 殊  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649a01_13",
+    "original":"若無教讀師，　　在處住無犯；",
+    "folio":3,
+    "stemmed":"若 無 教 讀 師    在 處 住 無 犯  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649a02_13",
+    "original":"無依不應住，　　依止倍存心。",
+    "folio":3,
+    "stemmed":"無 依 不 應 住    依 止 倍 存 心  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649a03_13",
+    "original":"雖斷煩惱盡，　　復善閑三藏；",
+    "folio":3,
+    "stemmed":"雖 斷 煩 惱 盡    復 善 閑 三 藏  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649a04_13",
+    "original":"若未滿十夏，　　仍須伏依止。",
+    "folio":3,
+    "stemmed":"若 未 滿 十 夏    仍 須 伏 依 止  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649a05_13",
+    "original":"去師兩驛半，　　半月一度禮；",
+    "folio":3,
+    "stemmed":"去 師 兩 驛 半    半 月 一 度 禮  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649a06_13",
+    "original":"此半八日禮，　　同處日須三。",
+    "folio":3,
+    "stemmed":"此 半 八 日 禮    同 處 日 須 三  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649a07_13",
+    "original":"若於後夏內，　　依止師身亡；",
+    "folio":3,
+    "stemmed":"若 於 後 夏 內    依 止 師 身 亡  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649a08_13",
+    "original":"宜應自守心，　　更互相監察。",
+    "folio":3,
+    "stemmed":"宜 應 自 守 心    更 互 相 監 察  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649a09_13",
+    "original":"若至三月滿，　　處無依止人；",
+    "folio":3,
+    "stemmed":"若 至 三 月 滿    處 無 依 止 人  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649a10_13",
+    "original":"第二褒灑陀，　　不應於此住。",
+    "folio":3,
+    "stemmed":"第 二 褒 灑 陀    不 應 於 此 住  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649a11_13",
+    "original":"既為隨意事，　　勿更褒灑陀；",
+    "folio":3,
+    "stemmed":"既 為 隨 意 事    勿 更 褒 灑 陀  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649a12_13",
+    "original":"大聖順時開，　　即名為長淨。",
+    "folio":3,
+    "stemmed":"大 聖 順 時 開    即 名 為 長 淨  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649a13_13",
+    "original":"更互相教示，　　隨意聖遣為；",
+    "folio":3,
+    "stemmed":"更 互 相 教 示    隨 意 聖 遣 為  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649a14_13",
+    "original":"常開長淨門，　　對治眾罪業。",
+    "folio":3,
+    "stemmed":"常 開 長 淨 門    對 治 眾 罪 業  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649a15_13",
+    "original":"寺中有客至，　　主等或時多；",
+    "folio":3,
+    "stemmed":"寺 中 有 客 至    主 等 或 時 多  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649a16_13",
+    "original":"十四五參差，　　應隨主人作。",
+    "folio":3,
+    "stemmed":"十 四 五 參 差    應 隨 主 人 作  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649a17_13",
+    "original":"若處客來多，　　舊住人數少；",
+    "folio":3,
+    "stemmed":"若 處 客 來 多    舊 住 人 數 少  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649a18_13",
+    "original":"主應隨彼客，　　共為褒灑陀。",
+    "folio":3,
+    "stemmed":"主 應 隨 彼 客    共 為 褒 灑 陀  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649a19_13",
+    "original":"僧伽不和合，　　對一人守持；",
+    "folio":3,
+    "stemmed":"僧 伽 不 和 合    對 一 人 守 持  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649a20_13",
+    "original":"若一人亦無，　　心念應言說。",
+    "folio":3,
+    "stemmed":"若 一 人 亦 無    心 念 應 言 說  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649a21_13",
+    "original":"如是作守持，　　苾芻衣及鉢；",
+    "folio":3,
+    "stemmed":"如 是 作 守 持    苾 芻 衣 及 鉢  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649a22_13",
+    "original":"并捨為分別，　　兼捨請應知。",
+    "folio":3,
+    "stemmed":"并 捨 為 分 別    兼 捨 請 應 知  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649a23_13",
+    "original":"大眾若和合，　　得好人共住；",
+    "folio":3,
+    "stemmed":"大 眾 若 和 合    得 好 人 共 住  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649a24_13",
+    "original":"理應許說戒，　　心念亦隨聽。",
+    "folio":3,
+    "stemmed":"理 應 許 說 戒    心 念 亦 隨 聽  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649a25_13",
+    "original":"必若難緣生，　　有事開心念；",
+    "folio":3,
+    "stemmed":"必 若 難 緣 生    有 事 開 心 念  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649a26_13",
+    "original":"應知隨意事，　　准此亦應為。",
+    "folio":3,
+    "stemmed":"應 知 隨 意 事    准 此 亦 應 為  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649a27_13",
+    "original":"大眾可同心，　　應共作隨意；",
+    "folio":3,
+    "stemmed":"大 眾 可 同 心    應 共 作 隨 意  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649a28_13",
+    "original":"異此應須喚，　　同行者為之。",
+    "folio":3,
+    "stemmed":"異 此 應 須 喚    同 行 者 為 之  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649a29_13",
+    "original":"將去隨意時，　　可有七八日；",
+    "folio":3,
+    "stemmed":"將 去 隨 意 時    可 有 七 八 日  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649b01_13",
+    "original":"應為告白事，　　令使眾人知。",
+    "folio":3,
+    "stemmed":"應 為 告 白 事    令 使 眾 人 知  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649b02_13",
+    "original":"壇場應秉法，　　界中或出外；",
+    "folio":3,
+    "stemmed":"壇 場 應 秉 法    界 中 或 出 外  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649b03_13",
+    "original":"一界不別住，　　眾事悉應為。",
+    "folio":3,
+    "stemmed":"一 界 不 別 住    眾 事 悉 應 為  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649b04_13",
+    "original":"二十十或五，　　及以四苾芻；",
+    "folio":3,
+    "stemmed":"二 十 十 或 五    及 以 四 苾 芻  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649b05_13",
+    "original":"有此四僧伽，　　隨應秉諸法。",
+    "folio":3,
+    "stemmed":"有 此 四 僧 伽    隨 應 秉 諸 法  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649b06_13",
+    "original":"不得以世尊，　　添彼僧伽數；",
+    "folio":3,
+    "stemmed":"不 得 以 世 尊    添 彼 僧 伽 數  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649b07_13",
+    "original":"佛寶殊僧寶，　　秉法者應知。",
+    "folio":3,
+    "stemmed":"佛 寶 殊 僧 寶    秉 法 者 應 知  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649b08_13",
+    "original":"出罪須二十，　　近圓十人等；",
+    "folio":3,
+    "stemmed":"出 罪 須 二 十    近 圓 十 人 等  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649b09_13",
+    "original":"滿五應隨意，　　四為褒灑陀。",
+    "folio":3,
+    "stemmed":"滿 五 應 隨 意    四 為 褒 灑 陀  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649b10_13",
+    "original":"若處秉羯磨，　　白等如法成；",
+    "folio":3,
+    "stemmed":"若 處 秉 羯 磨    白 等 如 法 成  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649b11_13",
+    "original":"名住處應知，　　異斯非住處。",
+    "folio":3,
+    "stemmed":"名 住 處 應 知    異 斯 非 住 處  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649b12_13",
+    "original":"苾芻不啞默，　　口應宣法言；",
+    "folio":3,
+    "stemmed":"苾 芻 不 啞 默    口 應 宣 法 言  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649b13_13",
+    "original":"是外道愚癡，　　誘誑諸無識。",
+    "folio":3,
+    "stemmed":"是 外 道 愚 癡    誘 誑 諸 無 識  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649b14_13",
+    "original":"苾芻安居了，　　三事應隨意；",
+    "folio":3,
+    "stemmed":"苾 芻 安 居 了    三 事 應 隨 意  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649b15_13",
+    "original":"如不作此事，　　無難不應行。",
+    "folio":3,
+    "stemmed":"如 不 作 此 事    無 難 不 應 行  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649b16_13",
+    "original":"雖有見聞疑，　　別遇難緣起；",
+    "folio":3,
+    "stemmed":"雖 有 見 聞 疑    別 遇 難 緣 起  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649b17_13",
+    "original":"為護於身命，　　越海亦須行。",
+    "folio":3,
+    "stemmed":"為 護 於 身 命    越 海 亦 須 行  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649b18_13",
+    "original":"若有王賊等，　　樂聞苾芻戒；",
+    "folio":3,
+    "stemmed":"若 有 王 賊 等    樂 聞 苾 芻 戒  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649b19_13",
+    "original":"難緣應為說，　　無難不應為。",
+    "folio":3,
+    "stemmed":"難 緣 應 為 說    無 難 不 應 為  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649b20_13",
+    "original":"貧人有信心，　　富人無信敬；",
+    "folio":3,
+    "stemmed":"貧 人 有 信 心    富 人 無 信 敬  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649b21_13",
+    "original":"慇懃樂聞戒，　　世尊開為說。",
+    "folio":3,
+    "stemmed":"慇 懃 樂 聞 戒    世 尊 開 為 說  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649b22_13",
+    "original":"苾芻善三藏，　　法師及病人；",
+    "folio":3,
+    "stemmed":"苾 芻 善 三 藏    法 師 及 病 人  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649b23_13",
+    "original":"眾中最大者，　　咸應放知事。",
+    "folio":3,
+    "stemmed":"眾 中 最 大 者    咸 應 放 知 事  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649b24_13",
+    "original":"聞有明三藏，　　遠從他處來；",
+    "folio":3,
+    "stemmed":"聞 有 明 三 藏    遠 從 他 處 來  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649b25_13",
+    "original":"鼓樂及幢幡，　　應迎兩驛半。",
+    "folio":3,
+    "stemmed":"鼓 樂 及 幢 幡    應 迎 兩 驛 半  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649b26_13",
+    "original":"大眾鳴揵稚，　　隨力悉應迎；",
+    "folio":3,
+    "stemmed":"大 眾 鳴 揵 稚    隨 力 悉 應 迎  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649b27_13",
+    "original":"美食解疲勞，　　請次宜應告。",
+    "folio":3,
+    "stemmed":"美 食 解 疲 勞    請 次 宜 應 告  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649b28_13",
+    "original":"房舍及臥具，　　常不在分限；",
+    "folio":3,
+    "stemmed":"房 舍 及 臥 具    常 不 在 分 限  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649b29_13",
+    "original":"給淨人相供，　　不差知眾事。",
+    "folio":3,
+    "stemmed":"給 淨 人 相 供    不 差 知 眾 事  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649c01_13",
+    "original":"戒學佛所制，　　僧制眾同為；",
+    "folio":3,
+    "stemmed":"戒 學 佛 所 制    僧 制 眾 同 為  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649c02_13",
+    "original":"乍可乖眾言，　　無違世尊教。",
+    "folio":3,
+    "stemmed":"乍 可 乖 眾 言    無 違 世 尊 教  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649c03_13",
+    "original":"眾意有多途，　　雖立還復廢；",
+    "folio":3,
+    "stemmed":"眾 意 有 多 途    雖 立 還 復 廢  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649c04_13",
+    "original":"豈有能迴改，　　無二大師言。",
+    "folio":3,
+    "stemmed":"豈 有 能 迴 改    無 二 大 師 言  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649c05_13",
+    "original":"五月十六日，　　應作前安居；",
+    "folio":3,
+    "stemmed":"五 月 十 六 日    應 作 前 安 居  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649c06_13",
+    "original":"六月十六日，　　苾芻為後夏。",
+    "folio":3,
+    "stemmed":"六 月 十 六 日    苾 芻 為 後 夏  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649c07_13",
+    "original":"但有此二日，　　合作安居事；",
+    "folio":3,
+    "stemmed":"但 有 此 二 日    合 作 安 居 事  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649c08_13",
+    "original":"中間但空住，　　不許作安居。",
+    "folio":3,
+    "stemmed":"中 間 但 空 住    不 許 作 安 居  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649c09_13",
+    "original":"苾芻三月內，　　不許外遊行；",
+    "folio":3,
+    "stemmed":"苾 芻 三 月 內    不 許 外 遊 行  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649c10_13",
+    "original":"飛禽於夏時，　　亦不離巢去。",
+    "folio":3,
+    "stemmed":"飛 禽 於 夏 時    亦 不 離 巢 去  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649c11_13",
+    "original":"若至五月初，　　逼夏須存意；",
+    "folio":3,
+    "stemmed":"若 至 五 月 初    逼 夏 須 存 意  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649c12_13",
+    "original":"可於其住處，　　營飾等應為。",
+    "folio":3,
+    "stemmed":"可 於 其 住 處    營 飾 等 應 為  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649c13_13",
+    "original":"既至十五日，　　總收於臥具；",
+    "folio":3,
+    "stemmed":"既 至 十 五 日    總 收 於 臥 具  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649c14_13",
+    "original":"差分臥具人，　　應須具德者。",
+    "folio":3,
+    "stemmed":"差 分 臥 具 人    應 須 具 德 者  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649c15_13",
+    "original":"於欲瞋癡怖，　　眾過並皆無；",
+    "folio":3,
+    "stemmed":"於 欲 瞋 癡 怖    眾 過 並 皆 無  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649c16_13",
+    "original":"善知分未分，　　此即應差遣。",
+    "folio":3,
+    "stemmed":"善 知 分 未 分    此 即 應 差 遣  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649c17_13",
+    "original":"毘訶羅波羅，　　應須告僧制；",
+    "folio":3,
+    "stemmed":"毘訶羅波羅    應 須 告 僧 制  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649c18_13",
+    "original":"冀令安樂住，　　勿使有虧違。",
+    "folio":3,
+    "stemmed":"冀 令 安 樂 住    勿 使 有 虧 違  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649c19_13",
+    "original":"諸人樂住者，　　不應為鬪諍；",
+    "folio":3,
+    "stemmed":"諸 人 樂 住 者    不 應 為 鬪 諍  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649c20_13",
+    "original":"於此受籌人，　　當須自審察。",
+    "folio":3,
+    "stemmed":"於 此 受 籌 人    當 須 自 審 察  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649c21_5",
+    "original":"單白告大眾：",
+    "folio":3,
+    "stemmed":"單 白 告 大 眾  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649c21_13",
+    "original":"　　今是十五日；",
+    "folio":3,
+    "stemmed":"  今 是 十 五 日  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649c22_13",
+    "original":"僧當共受籌，　　明作安居事。",
+    "folio":3,
+    "stemmed":"僧 當 共 受 籌    明 作 安 居 事  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649c23_13",
+    "original":"從上行籌已，　　次可分房舍；",
+    "folio":3,
+    "stemmed":"從 上 行 籌 已    次 可 分 房 舍  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649c24_13",
+    "original":"及以床臥具，　　皆從大至終。",
+    "folio":3,
+    "stemmed":"及 以 床 臥 具    皆 從 大 至 終  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649c25_13",
+    "original":"若近安居時，　　當須善觀察；",
+    "folio":3,
+    "stemmed":"若 近 安 居 時    當 須 善 觀 察  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649c26_13",
+    "original":"所行乞食境，　　無令事有廢。",
+    "folio":3,
+    "stemmed":"所 行 乞 食 境    無 令 事 有 廢  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649c27_13",
+    "original":"若於所住處，　　知有同行人；",
+    "folio":3,
+    "stemmed":"若 於 所 住 處    知 有 同 行 人  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649c28_13",
+    "original":"具德有多聞，　　并淳善和合。",
+    "folio":3,
+    "stemmed":"具 德 有 多 聞    并 淳 善 和 合  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0649c29_13",
+    "original":"不令煩惱起，　　若起即能除；",
+    "folio":3,
+    "stemmed":"不 令 煩 惱 起    若 起 即 能 除  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650a01_13",
+    "original":"有此善伴處，　　宜應共居止。",
+    "folio":3,
+    "stemmed":"有 此 善 伴 處    宜 應 共 居 止  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650a02_13",
+    "original":"病藥并乞食，　　斯皆易可求；",
+    "folio":3,
+    "stemmed":"病 藥 并 乞 食    斯 皆 易 可 求  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650a03_13",
+    "original":"無多婬女家，　　斯名善行處。",
+    "folio":3,
+    "stemmed":"無 多 婬 女 家    斯 名 善 行 處  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650a04_13",
+    "original":"當於隱屏處，　　蹲踞對苾芻；",
+    "folio":3,
+    "stemmed":"當 於 隱 屏 處    蹲 踞 對 苾 芻  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650a05_13",
+    "original":"口說安居文，　　作法應如是。",
+    "folio":3,
+    "stemmed":"口 說 安 居 文    作 法 應 如 是  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650a06_13",
+    "original":"我施主某甲，　　侍人及作者；",
+    "folio":3,
+    "stemmed":"我 施 主 某 甲    侍 人 及 作 者  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650a07_13",
+    "original":"我今於此處，　　作前夏安居。",
+    "folio":3,
+    "stemmed":"我 今 於 此 處    作 前 夏 安 居  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650a08_13",
+    "original":"或云作後夏，　　有破裂修補；",
+    "folio":3,
+    "stemmed":"或 云 作 後 夏    有 破 裂 修 補  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650a09_13",
+    "original":"我於此夏居，　　餘並同前說。",
+    "folio":3,
+    "stemmed":"我 於 此 夏 居    餘 並 同 前 說  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650a10_13",
+    "original":"若於此安居，　　無法界外宿；",
+    "folio":3,
+    "stemmed":"若 於 此 安 居    無 法 界 外 宿  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650a11_13",
+    "original":"現在無饒益，　　來世受泥犁。",
+    "folio":3,
+    "stemmed":"現 在 無 饒 益    來 世 受 泥 犁  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650a12_13",
+    "original":"若為寺等事，　　并諸雜福業；",
+    "folio":3,
+    "stemmed":"若 為 寺 等 事    并 諸 雜 福 業  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650a13_13",
+    "original":"制底眾食緣，　　及以出罪等。",
+    "folio":3,
+    "stemmed":"制 底 眾 食 緣    及 以 出 罪 等  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650a14_13",
+    "original":"尼違八敬法，　　為欲除其罪；",
+    "folio":3,
+    "stemmed":"尼 違 八 敬 法    為 欲 除 其 罪  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650a15_13",
+    "original":"或為下三眾，　　受戒等須看。",
+    "folio":3,
+    "stemmed":"或 為 下 三 眾    受 戒 等 須 看  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650a16_13",
+    "original":"若諸俗人輩，　　有請喚等緣；",
+    "folio":3,
+    "stemmed":"若 諸 俗 人 輩    有 請 喚 等 緣  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650a17_13",
+    "original":"苾芻察時宜，　　須時應往赴。",
+    "folio":3,
+    "stemmed":"苾 芻 察 時 宜    須 時 應 往 赴  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650a18_13",
+    "original":"三寶及父母，　　師主等有事；",
+    "folio":3,
+    "stemmed":"三 寶 及 父 母    師 主 等 有 事  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650a19_13",
+    "original":"并諸病患緣，　　皆請七日去。",
+    "folio":3,
+    "stemmed":"并 諸 病 患 緣    皆 請 七 日 去  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650a20_13",
+    "original":"一日二日等，　　乃至四十夜；",
+    "folio":3,
+    "stemmed":"一 日 二 日 等    乃 至 四 十 夜  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650a21_13",
+    "original":"苾芻應可去，　　勿令前事闕。",
+    "folio":3,
+    "stemmed":"苾 芻 應 可 去    勿 令 前 事 闕  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650a22_13",
+    "original":"若有如法事，　　察知非是虛；",
+    "folio":3,
+    "stemmed":"若 有 如 法 事    察 知 非 是 虛  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650a23_13",
+    "original":"僧伽共許差，　　隨情可行去。",
+    "folio":3,
+    "stemmed":"僧 伽 共 許 差    隨 情 可 行 去  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650a24_13",
+    "original":"仍於一夏中，　　過半不在外；",
+    "folio":3,
+    "stemmed":"仍 於 一 夏 中    過 半 不 在 外  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650a25_13",
+    "original":"為斯但四十，　　若過罪便傷。",
+    "folio":3,
+    "stemmed":"為 斯 但 四 十    若 過 罪 便 傷  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650a26_13",
+    "original":"飲食若有闕，　　醫藥復難求；",
+    "folio":3,
+    "stemmed":"飲 食 若 有 闕    醫 藥 復 難 求  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650a27_13",
+    "original":"全無供侍人，　　去時非破夏。",
+    "folio":3,
+    "stemmed":"全 無 供 侍 人    去 時 非 破 夏  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650a28_0",
+    "original":"若處有八難，　　及婬女黃門，",
+    "folio":3,
+    "stemmed":"若 處 有 八 難    及 婬 女 黃 門  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650a29_13",
+    "original":"并惡獸等緣，　　行無破夏罪。",
+    "folio":3,
+    "stemmed":"并 惡 獸 等 緣    行 無 破 夏 罪  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650b01_13",
+    "original":"若有罪惡人，　　聞來破和眾；",
+    "folio":3,
+    "stemmed":"若 有 罪 惡 人    聞 來 破 和 眾  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650b02_13",
+    "original":"恐為非樂事，　　出去者無傷。",
+    "folio":3,
+    "stemmed":"恐 為 非 樂 事    出 去 者 無 傷  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650b03_13",
+    "original":"聞彼鬪諍人，　　知是己親友；",
+    "folio":3,
+    "stemmed":"聞 彼 鬪 諍 人    知 是 己 親 友  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650b04_13",
+    "original":"不往諫得罪，　　停無破夏愆。",
+    "folio":3,
+    "stemmed":"不 往 諫 得 罪    停 無 破 夏 愆  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650b05_13",
+    "original":"若共他作契，　　向某處安居；",
+    "folio":3,
+    "stemmed":"若 共 他 作 契    向 某 處 安 居  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650b06_13",
+    "original":"至日不赴期，　　苾芻招惡作。",
+    "folio":3,
+    "stemmed":"至 日 不 赴 期    苾 芻 招 惡 作  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650b07_13",
+    "original":"苾芻若守持，　　七日或多日；",
+    "folio":3,
+    "stemmed":"苾 芻 若 守 持    七 日 或 多 日  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650b08_13",
+    "original":"在外如逢難，　　便住者隨聽。",
+    "folio":3,
+    "stemmed":"在 外 如 逢 難    便 住 者 隨 聽  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650b09_13",
+    "original":"若無有餘緣，　　留住經多日；",
+    "folio":3,
+    "stemmed":"若 無 有 餘 緣    留 住 經 多 日  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650b10_13",
+    "original":"輒違於本限，　　得罪并破夏。",
+    "folio":3,
+    "stemmed":"輒 違 於 本 限    得 罪 并 破 夏  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650b11_13",
+    "original":"結界有多途，　　略言其四種；",
+    "folio":3,
+    "stemmed":"結 界 有 多 途    略 言 其 四 種  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650b12_13",
+    "original":"任現所須者，　　隨事今當說。",
+    "folio":3,
+    "stemmed":"任 現 所 須 者    隨 事 今 當 說  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650b13_13",
+    "original":"大齊兩驛半，　　減此任當時；",
+    "folio":3,
+    "stemmed":"大 齊 兩 驛 半    減 此 任 當 時  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650b14_13",
+    "original":"四方應置標，　　山河樹等記。",
+    "folio":3,
+    "stemmed":"四 方 應 置 標    山 河 樹 等 記  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650b15_13",
+    "original":"可於前相中，　　乃至於住處；",
+    "folio":3,
+    "stemmed":"可 於 前 相 中    乃 至 於 住 處  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650b16_13",
+    "original":"除村并勢分，　　結大界應知。",
+    "folio":3,
+    "stemmed":"除 村 并 勢 分    結 大 界 應 知  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650b17_13",
+    "original":"大眾盡須集，　　一人秉羯磨；",
+    "folio":3,
+    "stemmed":"大 眾 盡 須 集    一 人 秉 羯 磨  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650b18_13",
+    "original":"白二無差𣧘，　　斯名結界成。",
+    "folio":3,
+    "stemmed":"白 二 無 差 𣧘    斯 名 結 界 成  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650b19_13",
+    "original":"又為不離衣，　　依界秉羯磨；",
+    "folio":3,
+    "stemmed":"又 為 不 離 衣    依 界 秉 羯 磨  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650b20_13",
+    "original":"欲令安樂住，　　元由老病緣。",
+    "folio":3,
+    "stemmed":"欲 令 安 樂 住    元 由 老 病 緣  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650b21_13",
+    "original":"雖復離三衣，　　界中別處宿；",
+    "folio":3,
+    "stemmed":"雖 復 離 三 衣    界 中 別 處 宿  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650b22_13",
+    "original":"除其村勢分，　　隨處任遊行。",
+    "folio":3,
+    "stemmed":"除 其 村 勢 分    隨 處 任 遊 行  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650b23_13",
+    "original":"於前大界內，　　欲作小壇場；",
+    "folio":3,
+    "stemmed":"於 前 大 界 內    欲 作 小 壇 場  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650b24_13",
+    "original":"應為白二結，　　先須解大界。",
+    "folio":3,
+    "stemmed":"應 為 白 二 結    先 須 解 大 界  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650b25_13",
+    "original":"若欲結小界，　　置標相同前；",
+    "folio":3,
+    "stemmed":"若 欲 結 小 界    置 標 相 同 前  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650b26_13",
+    "original":"名曰曼荼羅，　　於斯任秉法。",
+    "folio":3,
+    "stemmed":"名 曰 曼 荼 羅    於 斯 任 秉 法  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650b27_13",
+    "original":"先結於小場，　　次結於大界；",
+    "folio":3,
+    "stemmed":"先 結 於 小 場    次 結 於 大 界  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650b28_13",
+    "original":"依如是次第，　　結界者應知。",
+    "folio":3,
+    "stemmed":"依 如 是 次 第    結 界 者 應 知  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650b29_13",
+    "original":"眾咸死轉根，　　或時俱捨戒；",
+    "folio":3,
+    "stemmed":"眾 咸 死 轉 根    或 時 俱 捨 戒  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650c01_13",
+    "original":"或盡出界外，　　明相過不還。",
+    "folio":3,
+    "stemmed":"或 盡 出 界 外    明 相 過 不 還  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650c02_13",
+    "original":"或時為白四，　　大眾同心捨；",
+    "folio":3,
+    "stemmed":"或 時 為 白 四    大 眾 同 心 捨  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650c03_13",
+    "original":"有斯五種別，　　捨大界應知。",
+    "folio":3,
+    "stemmed":"有 斯 五 種 別    捨 大 界 應 知  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650c04_13",
+    "original":"凡欲結諸界，　　標相復須知：",
+    "folio":3,
+    "stemmed":"凡 欲 結 諸 界    標 相 復 須 知  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650c05_13",
+    "original":"一樹應兩標，　　分半為其界；",
+    "folio":3,
+    "stemmed":"一 樹 應 兩 標    分 半 為 其 界  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650c06_13",
+    "original":"或時以一樹，　　為其四界標；",
+    "folio":3,
+    "stemmed":"或 時 以 一 樹    為 其 四 界 標  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650c07_13",
+    "original":"四分各相當，　　五分便不許。",
+    "folio":3,
+    "stemmed":"四 分 各 相 當    五 分 便 不 許  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650c08_13",
+    "original":"向下兩驛半，　　向上數亦然；",
+    "folio":3,
+    "stemmed":"向 下 兩 驛 半    向 上 數 亦 然  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650c09_13",
+    "original":"齊山頂樹梢，　　或至籬牆上。",
+    "folio":3,
+    "stemmed":"齊 山 頂 樹 梢    或 至 籬 牆 上  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650c10_13",
+    "original":"種種莊嚴具，　　皆悉在隨聽；",
+    "folio":3,
+    "stemmed":"種 種 莊 嚴 具    皆 悉 在 隨 聽  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650c11_13",
+    "original":"瑩飾大師形，　　令施福增長。",
+    "folio":3,
+    "stemmed":"瑩 飾 大 師 形    令 施 福 增 長  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650c12_13",
+    "original":"不許安耳璫，　　及以足鳴釧；",
+    "folio":3,
+    "stemmed":"不 許 安 耳 璫    及 以 足 鳴 釧  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650c13_13",
+    "original":"斯為女人飾，　　勿累大師形。",
+    "folio":3,
+    "stemmed":"斯 為 女 人 飾    勿 累 大 師 形  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650c14_13",
+    "original":"欲使眾人散，　　鼓樂可潛聲；",
+    "folio":3,
+    "stemmed":"欲 使 眾 人 散    鼓 樂 可 潛 聲  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650c15_13",
+    "original":"供具悉應收，　　無令有虧失。",
+    "folio":3,
+    "stemmed":"供 具 悉 應 收    無 令 有 虧 失  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650c16_13",
+    "original":"或時大眾集，　　諠鬧出高聲；",
+    "folio":3,
+    "stemmed":"或 時 大 眾 集    諠 鬧 出 高 聲  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650c17_13",
+    "original":"不知時至中，　　應鳴䗍擊鼓。",
+    "folio":3,
+    "stemmed":"不 知 時 至 中    應 鳴 䗍 擊 鼓  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650c18_13",
+    "original":"若分亡人物，　　眾大卒難為；",
+    "folio":3,
+    "stemmed":"若 分 亡 人 物    眾 大 卒 難 為  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650c19_13",
+    "original":"十人為一朋，　　或至百千數。",
+    "folio":3,
+    "stemmed":"十 人 為 一 朋    或 至 百 千 數  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650c20_13",
+    "original":"各分取大段，　　隨人更細分；",
+    "folio":3,
+    "stemmed":"各 分 取 大 段    隨 人 更 細 分  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650c21_13",
+    "original":"得分未分時，　　若死須分別。",
+    "folio":3,
+    "stemmed":"得 分 未 分 時    若 死 須 分 別  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650c22_13",
+    "original":"分竟身方死，　　物入四方僧；",
+    "folio":3,
+    "stemmed":"分 竟 身 方 死    物 入 四 方 僧  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650c23_13",
+    "original":"若未細分時，　　當朋人合得。",
+    "folio":3,
+    "stemmed":"若 未 細 分 時    當 朋 人 合 得  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650c24_13",
+    "original":"有請苾芻處，　　并喚苾芻尼；",
+    "folio":3,
+    "stemmed":"有 請 苾 芻 處    并 喚 苾 芻 尼  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650c25_13",
+    "original":"食罷與施時，　　持財安眾首。",
+    "folio":3,
+    "stemmed":"食 罷 與 施 時    持 財 安 眾 首  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650c26_13",
+    "original":"此應為兩分，　　或隨施主心；",
+    "folio":3,
+    "stemmed":"此 應 為 兩 分    或 隨 施 主 心  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650c27_13",
+    "original":"飲食可平分，　　佛亦咸同此。",
+    "folio":3,
+    "stemmed":"飲 食 可 平 分    佛 亦 咸 同 此  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650c28_13",
+    "original":"苾芻分施物，　　等分應與尼；",
+    "folio":3,
+    "stemmed":"苾 芻 分 施 物    等 分 應 與 尼  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0650c29_13",
+    "original":"式叉摩拏尼，　　應二分與一。",
+    "folio":3,
+    "stemmed":"式 叉 摩 拏 尼    應 二 分 與 一  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651a01_13",
+    "original":"將欲圓具人，　　亦二分與一；",
+    "folio":3,
+    "stemmed":"將 欲 圓 具 人    亦 二 分 與 一  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651a02_13",
+    "original":"求寂求寂女，　　三分一應知。",
+    "folio":3,
+    "stemmed":"求 寂 求 寂 女    三 分 一 應 知  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651a03_13",
+    "original":"若有多苾芻，　　苾芻尼眾少；",
+    "folio":3,
+    "stemmed":"若 有 多 苾 芻    苾 芻 尼 眾 少  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651a04_13",
+    "original":"應計人頭數，　　無宜中半分。",
+    "folio":3,
+    "stemmed":"應 計 人 頭 數    無 宜 中 半 分  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651a05_13",
+    "original":"若至大會日，　　請像入村城；",
+    "folio":3,
+    "stemmed":"若 至 大 會 日    請 像 入 村 城  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651a06_13",
+    "original":"能令災橫除，　　莊嚴為生福。",
+    "folio":3,
+    "stemmed":"能 令 災 橫 除    莊 嚴 為 生 福  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651a07_13",
+    "original":"遍洒康莊道，　　嚴儀巷陌中；",
+    "folio":3,
+    "stemmed":"遍 洒 康 莊 道    嚴 儀 巷 陌 中  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651a08_13",
+    "original":"散花懸妙幡，　　雅麗如天苑。",
+    "folio":3,
+    "stemmed":"散 花 懸 妙 幡    雅 麗 如 天 苑  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651a09_13",
+    "original":"栴檀及龍腦，　　沈水香普薰；",
+    "folio":3,
+    "stemmed":"栴 檀 及 龍 腦    沈 水 香 普 薰  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651a10_13",
+    "original":"隨風處處行，　　聞者生欽仰。",
+    "folio":3,
+    "stemmed":"隨 風 處 處 行    聞 者 生 欽 仰  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651a11_13",
+    "original":"鳴螺擊鼗鼓，　　撞鍾告四方；",
+    "folio":3,
+    "stemmed":"鳴 螺 擊 鼗 鼓    撞 鍾 告 四 方  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651a12_13",
+    "original":"屯聚震鴻音，　　聽者生隨喜。",
+    "folio":3,
+    "stemmed":"屯 聚 震 鴻 音    聽 者 生 隨 喜  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651a13_13",
+    "original":"鼓樂無停息，　　高聲出雲表；",
+    "folio":3,
+    "stemmed":"鼓 樂 無 停 息    高 聲 出 雲 表  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651a14_13",
+    "original":"旃旐遍縈羅，　　斯名大法會。",
+    "folio":3,
+    "stemmed":"旃 旐 遍 縈 羅    斯 名 大 法 會  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651a15_0",
+    "original":"大旗有五種，　　鯨牛妙翅龍，",
+    "folio":3,
+    "stemmed":"大 旗 有 五 種    鯨 牛 妙 翅 龍  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651a16_13",
+    "original":"師子畫幡旗，　　咸持以供養。",
+    "folio":3,
+    "stemmed":"師 子 畫 幡 旗    咸 持 以 供 養  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651a17_13",
+    "original":"人眾皆陪從，　　法俗兩相依；",
+    "folio":3,
+    "stemmed":"人 眾 皆 陪 從    法 俗 兩 相 依  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651a18_13",
+    "original":"如是勝莊嚴，　　引導如來入。",
+    "folio":3,
+    "stemmed":"如 是 勝 莊 嚴    引 導 如 來 入  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651a19_13",
+    "original":"由佛入村城，　　敬心興供養；",
+    "folio":3,
+    "stemmed":"由 佛 入 村 城    敬 心 興 供 養  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651a20_13",
+    "original":"八部天龍等，　　能除眾毒惡。",
+    "folio":3,
+    "stemmed":"八 部 天 龍 等    能 除 眾 毒 惡  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651a21_13",
+    "original":"因斯獲財利，　　大眾賣應分；",
+    "folio":3,
+    "stemmed":"因 斯 獲 財 利    大 眾 賣 應 分  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651a22_13",
+    "original":"准價上座知，　　善觀其好惡。",
+    "folio":3,
+    "stemmed":"准 價 上 座 知    善 觀 其 好 惡  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651a23_13",
+    "original":"若有所須人，　　隨情當上價；",
+    "folio":3,
+    "stemmed":"若 有 所 須 人    隨 情 當 上 價  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651a24_13",
+    "original":"還價未了者，　　無宜著此衣。",
+    "folio":3,
+    "stemmed":"還 價 未 了 者    無 宜 著 此 衣  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651a25_13",
+    "original":"敬持妻子等，　　三寶隨一施；",
+    "folio":3,
+    "stemmed":"敬 持 妻 子 等    三 寶 隨 一 施  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651a26_13",
+    "original":"不可為作價，　　當隨施主心。",
+    "folio":3,
+    "stemmed":"不 可 為 作 價    當 隨 施 主 心  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651a27_13",
+    "original":"歌舞伎樂處，　　苾芻令作時；",
+    "folio":3,
+    "stemmed":"歌舞伎樂 處    苾 芻 令 作 時  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651a28_13",
+    "original":"諸有護戒人，　　不應言汝戲。",
+    "folio":3,
+    "stemmed":"諸 有 護 戒 人    不 應 言 汝 戲  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651a29_13",
+    "original":"應告言賢首，　　汝可好用心；",
+    "folio":3,
+    "stemmed":"應 告 言 賢 首    汝 可 好 用 心  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651b01_13",
+    "original":"供養於大師，　　勿生於嬾墮。",
+    "folio":3,
+    "stemmed":"供 養 於 大 師    勿 生 於 嬾 墮  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651b02_13",
+    "original":"窣都波掛幡，　　不應將物釘；",
+    "folio":3,
+    "stemmed":"窣 都 波 掛 幡    不 應 將 物 釘  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651b03_13",
+    "original":"元初興造日，　　安橛在隨聽。",
+    "folio":3,
+    "stemmed":"元 初 興 造 日    安 橛 在 隨 聽  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651b04_13",
+    "original":"塔上然燈供，　　苾芻不自昇；",
+    "folio":3,
+    "stemmed":"塔 上 然 燈 供    苾 芻 不 自 昇  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651b05_13",
+    "original":"有緣須上者，　　應可令求寂。",
+    "folio":3,
+    "stemmed":"有 緣 須 上 者    應 可 令 求 寂  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651b06_13",
+    "original":"餘人無可求，　　香水洗雙足；",
+    "folio":3,
+    "stemmed":"餘 人 無 可 求    香 水 洗 雙 足  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651b07_13",
+    "original":"苾芻應自上，　　供養大師心。",
+    "folio":3,
+    "stemmed":"苾 芻 應 自 上    供 養 大 師 心  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651b08_13",
+    "original":"造寺三五層，　　香臺或五七；",
+    "folio":3,
+    "stemmed":"造 寺 三 五 層    香 臺 或 五 七  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651b09_13",
+    "original":"或可隨情作，　　小寺五三房。",
+    "folio":3,
+    "stemmed":"或 可 隨 情 作    小 寺 五 三 房  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651b10_13",
+    "original":"略論處中寺，　　於東西兩邊；",
+    "folio":3,
+    "stemmed":"略 論 處 中 寺    於 東 西 兩 邊  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651b11_13",
+    "original":"三層各九房，　　房中寬丈二。",
+    "folio":3,
+    "stemmed":"三 層 各 九 房    房 中 寬 丈 二  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651b12_13",
+    "original":"後面亦三層，　　上取三房地；",
+    "folio":3,
+    "stemmed":"後 面 亦 三 層    上 取 三 房 地  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651b13_13",
+    "original":"中擬安尊像，　　簷前不廢行。",
+    "folio":3,
+    "stemmed":"中 擬 安 尊 像    簷 前 不 廢 行  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651b14_13",
+    "original":"或可此簷前，　　從地為重閣；",
+    "folio":3,
+    "stemmed":"或 可 此 簷 前    從 地 為 重 閣  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651b15_13",
+    "original":"隨安大尊像，　　每日設香花。",
+    "folio":3,
+    "stemmed":"隨 安 大 尊 像    每 日 設 香 花  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651b16_13",
+    "original":"前面兩房地，　　從下作門樓；",
+    "folio":3,
+    "stemmed":"前 面 兩 房 地    從 下 作 門 樓  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651b17_13",
+    "original":"門在下層間，　　小作應牢固。",
+    "folio":3,
+    "stemmed":"門 在 下 層 間    小 作 應 牢 固  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651b18_13",
+    "original":"入門於一角，　　閣道上三層；",
+    "folio":3,
+    "stemmed":"入 門 於 一 角    閣 道 上 三 層  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651b19_13",
+    "original":"出上並平頭，　　四邊皆絕壁。",
+    "folio":3,
+    "stemmed":"出 上 並 平 頭    四 邊 皆 絕 壁  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651b20_13",
+    "original":"尼寺限三層，　　香臺隨至五；",
+    "folio":3,
+    "stemmed":"尼 寺 限 三 層    香 臺 隨 至 五  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651b21_13",
+    "original":"寺中房軌則，　　准苾芻應知。",
+    "folio":3,
+    "stemmed":"寺 中 房 軌 則    准 苾 芻 應 知  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651b22_13",
+    "original":"佛像形虧壞，　　尊經字滅磨；",
+    "folio":3,
+    "stemmed":"佛 像 形 虧 壞    尊 經 字 滅 磨  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651b23_13",
+    "original":"拭却可重修，　　令其更增勝。",
+    "folio":3,
+    "stemmed":"拭 却 可 重 修    令 其 更 增 勝  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651b24_13",
+    "original":"制底尊儀影，　　新壇足不蹈；",
+    "folio":3,
+    "stemmed":"制 底 尊 儀 影    新 壇 足 不 蹈  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651b25_13",
+    "original":"必有緣須過，　　可誦聖伽他。",
+    "folio":3,
+    "stemmed":"必 有 緣 須 過    可 誦 聖 伽 他  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651b26_13",
+    "original":"苾芻乞食時，　　有人無簡別；",
+    "folio":3,
+    "stemmed":"苾 芻 乞 食 時    有 人 無 簡 別  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651b27_13",
+    "original":"佛想喚為佛，　　持物而相施。",
+    "folio":3,
+    "stemmed":"佛 想 喚 為 佛    持 物 而 相 施  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651b28_13",
+    "original":"苾芻應問彼，　　詳審觀其意：",
+    "folio":3,
+    "stemmed":"苾 芻 應 問 彼    詳 審 觀 其 意  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651b29_13",
+    "original":"汝喚我為佛，　　為是兩足尊；",
+    "folio":3,
+    "stemmed":"汝 喚 我 為 佛    為 是 兩 足 尊  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651c01_13",
+    "original":"汝喚為法者，　　為是盡苦法；",
+    "folio":3,
+    "stemmed":"汝 喚 為 法 者    為 是 盡 苦 法  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651c02_13",
+    "original":"汝喚為僧者，　　為是真聖眾。",
+    "folio":3,
+    "stemmed":"汝 喚 為 僧 者    為 是 真 聖 眾  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651c03_13",
+    "original":"既問決知已，　　隨彼所樂情；",
+    "folio":3,
+    "stemmed":"既 問 決 知 已    隨 彼 所 樂 情  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651c04_13",
+    "original":"施者應受之，　　此皆無有過。",
+    "folio":3,
+    "stemmed":"施 者 應 受 之    此 皆 無 有 過  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651c05_13",
+    "original":"假令唯一尼，　　受請向他舍；",
+    "folio":3,
+    "stemmed":"假 令 唯 一 尼    受 請 向 他 舍  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651c06_13",
+    "original":"行初留一座，　　為擬苾芻來。",
+    "folio":3,
+    "stemmed":"行 初 留 一 座    為 擬 苾 芻 來  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651c07_13",
+    "original":"苾芻應此座，　　求寂亦宜居；",
+    "folio":3,
+    "stemmed":"苾 芻 應 此 座    求 寂 亦 宜 居  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651c08_13",
+    "original":"不解願伽他，　　苾芻尼為作。",
+    "folio":3,
+    "stemmed":"不 解 願 伽 他    苾 芻 尼 為 作  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651c09_13",
+    "original":"若無執事人，　　隨緣詣村落；",
+    "folio":3,
+    "stemmed":"若 無 執 事 人    隨 緣 詣 村 落  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651c10_13",
+    "original":"獲利應須寄，　　得人方遣持。",
+    "folio":3,
+    "stemmed":"獲 利 應 須 寄    得 人 方 遣 持  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651c11_13",
+    "original":"上明諸雜緣，　　多是生存事；",
+    "folio":3,
+    "stemmed":"上 明 諸 雜 緣    多 是 生 存 事  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651c12_13",
+    "original":"下論身死後，　　焚葬事須知。",
+    "folio":3,
+    "stemmed":"下 論 身 死 後    焚 葬 事 須 知  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651c13_13",
+    "original":"苾芻身既死，　　告眾鳴健稚；",
+    "folio":3,
+    "stemmed":"苾 芻 身 既 死    告 眾 鳴 健 稚  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651c14_13",
+    "original":"須喚輿屍人，　　柴薪用僧物。",
+    "folio":3,
+    "stemmed":"須 喚 輿 屍 人    柴 薪 用 僧 物  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651c15_13",
+    "original":"香花幡鼓樂，　　送至焚屍林；",
+    "folio":3,
+    "stemmed":"香 花 幡 鼓 樂    送 至 焚 屍 林  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651c16_13",
+    "original":"親識及門徒，　　愍念相隨去。",
+    "folio":3,
+    "stemmed":"親 識 及 門 徒    愍 念 相 隨 去  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651c17_13",
+    "original":"善觀應可燒，　　薪火須豐足；",
+    "folio":3,
+    "stemmed":"善 觀 應 可 燒    薪 火 須 豐 足  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651c18_13",
+    "original":"助以旃檀等，　　隨有灌酥油。",
+    "folio":3,
+    "stemmed":"助 以 旃 檀 等    隨 有 灌 酥 油  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651c19_13",
+    "original":"身瘡若有蟲，　　埋時勿令損；",
+    "folio":3,
+    "stemmed":"身 瘡 若 有 蟲    埋 時 勿 令 損  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651c20_13",
+    "original":"或安於露地，　　草葉覆其身。",
+    "folio":3,
+    "stemmed":"或 安 於 露 地    草 葉 覆 其 身  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651c21_13",
+    "original":"一一身軀內，　　八萬種蟲居；",
+    "folio":3,
+    "stemmed":"一 一 身 軀 內    八 萬 種 蟲 居  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651c22_13",
+    "original":"隨身共死生，　　雖燒亦無過。",
+    "folio":3,
+    "stemmed":"隨 身 共 死 生    雖 燒 亦 無 過  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651c23_13",
+    "original":"應持上下衣，　　覆屍令好密；",
+    "folio":3,
+    "stemmed":"應 持 上 下 衣    覆 屍 令 好 密  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651c24_13",
+    "original":"自餘衣鉢等，　　准法可應分。",
+    "folio":3,
+    "stemmed":"自 餘 衣 鉢 等    准 法 可 應 分  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651c25_13",
+    "original":"燒時隨處坐，　　略誦無常經；",
+    "folio":3,
+    "stemmed":"燒 時 隨 處 坐    略 誦 無 常 經  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651c26_13",
+    "original":"三啟用心聽，　　各須生厭離。",
+    "folio":3,
+    "stemmed":"三 啟 用 心 聽    各 須 生 厭 離  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651c27_13",
+    "original":"諸行盡無常，　　緣生法皆滅；",
+    "folio":3,
+    "stemmed":"諸 行 盡 無 常    緣 生 法 皆 滅  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651c28_13",
+    "original":"剎那不暫住，　　如露被風驚。",
+    "folio":3,
+    "stemmed":"剎 那 不 暫 住    如 露 被 風 驚  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0651c29_13",
+    "original":"遍觀諸世間，　　無有長存者；",
+    "folio":3,
+    "stemmed":"遍 觀 諸 世 間    無 有 長 存 者  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652a01_13",
+    "original":"咸趣無常海，　　共被死波漂。",
+    "folio":3,
+    "stemmed":"咸 趣 無 常 海    共 被 死 波 漂  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652a02_13",
+    "original":"四大堅性等，　　此不可遷移；",
+    "folio":3,
+    "stemmed":"四 大 堅 性 等    此 不 可 遷 移  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652a03_13",
+    "original":"生者必無常，　　死王威力大。",
+    "folio":3,
+    "stemmed":"生 者 必 無 常    死 王 威 力 大  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652a04_13",
+    "original":"無常不簡擇，　　善惡戒多聞；",
+    "folio":3,
+    "stemmed":"無 常 不 簡 擇    善 惡 戒 多 聞  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652a05_13",
+    "original":"一種皆歸死，　　不論凡與聖。",
+    "folio":3,
+    "stemmed":"一 種 皆 歸 死    不 論 凡 與 聖  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652a06_13",
+    "original":"諸佛及緣覺，　　聲聞弟子眾；",
+    "folio":3,
+    "stemmed":"諸 佛 及 緣 覺    聲聞弟子 眾  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652a07_13",
+    "original":"尚捨無常身，　　何況諸凡夫。",
+    "folio":3,
+    "stemmed":"尚 捨 無 常 身    何 況 諸 凡 夫  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652a08_13",
+    "original":"如斯法誦已，　　方說特崎拏；",
+    "folio":3,
+    "stemmed":"如 斯 法 誦 已    方 說 特 崎 拏  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652a09_13",
+    "original":"還歸洗手足，　　制底行旋遶。",
+    "folio":3,
+    "stemmed":"還 歸 洗 手 足    制 底 行 旋 遶  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652a10_13",
+    "original":"或可連身洗，　　更復著餘衣；",
+    "folio":3,
+    "stemmed":"或 可 連 身 洗    更 復 著 餘 衣  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652a11_13",
+    "original":"去時持故衣，　　勿損鮮花服。",
+    "folio":3,
+    "stemmed":"去 時 持 故 衣    勿 損 鮮 花 服  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652a12_13",
+    "original":"諸行無常等，　　牟尼之所說；",
+    "folio":3,
+    "stemmed":"諸行無常 等    牟 尼 之 所 說  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652a13_13",
+    "original":"行思歸寺中，　　當息慳貪想。",
+    "folio":3,
+    "stemmed":"行 思 歸 寺 中    當 息 慳 貪 想  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652a14_13",
+    "original":"所有諸衣物，　　應隨阿笈摩；",
+    "folio":3,
+    "stemmed":"所 有 諸 衣 物    應 隨 阿 笈 摩  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652a15_13",
+    "original":"佛子共平分，　　作法如常制。",
+    "folio":3,
+    "stemmed":"佛 子 共 平 分    作 法 如 常 制  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652a16_13",
+    "original":"揵稚誦三啟，　　禮制底行籌；",
+    "folio":3,
+    "stemmed":"揵 稚 誦 三 啟    禮 制 底 行 籌  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652a17_13",
+    "original":"及為羯磨時，　　五時皆得分。",
+    "folio":3,
+    "stemmed":"及 為 羯 磨 時    五 時 皆 得 分  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652a18_13",
+    "original":"不應眾未聚，　　輒共分亡物；",
+    "folio":3,
+    "stemmed":"不 應 眾 未 聚    輒 共 分 亡 物  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652a19_13",
+    "original":"上座及行終，　　應行其兩分。",
+    "folio":3,
+    "stemmed":"上 座 及 行 終    應 行 其 兩 分  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652a20_13",
+    "original":"作斯定記已，　　然後共分財；",
+    "folio":3,
+    "stemmed":"作 斯 定 記 已    然 後 共 分 財  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652a21_13",
+    "original":"設後客人來，　　不應與其分。",
+    "folio":3,
+    "stemmed":"設 後 客 人 來    不 應 與 其 分  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652a22_13",
+    "original":"我死方持與，　　慳心作此言；",
+    "folio":3,
+    "stemmed":"我 死 方 持 與    慳 心 作 此 言  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652a23_13",
+    "original":"准斯無決情，　　死後宜歸眾。",
+    "folio":3,
+    "stemmed":"准 斯 無 決 情    死 後 宜 歸 眾  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652a24_13",
+    "original":"決情無悋意，　　生存現付與；",
+    "folio":3,
+    "stemmed":"決 情 無 悋 意    生 存 現 付 與  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652a25_13",
+    "original":"隨心施別人，　　此等成依法。",
+    "folio":3,
+    "stemmed":"隨 心 施 別 人    此 等 成 依 法  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652a26_13",
+    "original":"俗死多悕望，　　出家不合然；",
+    "folio":3,
+    "stemmed":"俗 死 多 悕 望    出 家 不 合 然  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652a27_13",
+    "original":"如為顧戀心，　　是日增生死。",
+    "folio":3,
+    "stemmed":"如 為 顧 戀 心    是 日 增 生 死  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652a28_13",
+    "original":"若苾芻身死，　　自他財雜亂；",
+    "folio":3,
+    "stemmed":"若 苾 芻 身 死    自 他 財 雜 亂  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652a29_13",
+    "original":"宜應將鉢等，　　置在於僧前。",
+    "folio":3,
+    "stemmed":"宜 應 將 鉢 等    置 在 於 僧 前  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652b01_13",
+    "original":"觀知是亡物，　　即應如法分；",
+    "folio":3,
+    "stemmed":"觀 知 是 亡 物    即 應 如 法 分  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652b02_13",
+    "original":"所有諸寶等，　　准教而處分。",
+    "folio":3,
+    "stemmed":"所 有 諸 寶 等    准 教 而 處 分  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652b03_13",
+    "original":"苾芻身若死，　　還合苾芻分；",
+    "folio":3,
+    "stemmed":"苾 芻 身 若 死    還 合 苾 芻 分  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652b04_13",
+    "original":"當時無苾芻，　　尼眾應分取。",
+    "folio":3,
+    "stemmed":"當 時 無 苾 芻    尼 眾 應 分 取  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652b05_13",
+    "original":"苾芻尼若死，　　苾芻尼合得；",
+    "folio":3,
+    "stemmed":"苾 芻 尼 若 死    苾 芻 尼 合 得  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652b06_13",
+    "original":"如其尼若無，　　苾芻應作主。",
+    "folio":3,
+    "stemmed":"如 其 尼 若 無    苾 芻 應 作 主  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652b07_13",
+    "original":"俗舍苾芻死，　　無僧由俗人；",
+    "folio":3,
+    "stemmed":"俗 舍 苾 芻 死    無 僧 由 俗 人  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652b08_13",
+    "original":"宜可與先來，　　俱來與求者。",
+    "folio":3,
+    "stemmed":"宜 可 與 先 來    俱 來 與 求 者  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652b09_13",
+    "original":"兩人俱並乞，　　斯應與二人；",
+    "folio":3,
+    "stemmed":"兩 人 俱 並 乞    斯 應 與 二 人  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652b10_13",
+    "original":"或隨施主情，　　與者宜當受。",
+    "folio":3,
+    "stemmed":"或 隨 施 主 情    與 者 宜 當 受  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652b11_13",
+    "original":"或時近多寺，　　此家苾芻亡；",
+    "folio":3,
+    "stemmed":"或 時 近 多 寺    此 家 苾 芻 亡  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652b12_13",
+    "original":"隨其頭所指，　　合得亡衣鉢。",
+    "folio":3,
+    "stemmed":"隨 其 頭 所 指    合 得 亡 衣 鉢  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652b13_13",
+    "original":"苾芻負他債，　　忽爾卒身亡；",
+    "folio":3,
+    "stemmed":"苾 芻 負 他 債    忽 爾 卒 身 亡  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652b14_13",
+    "original":"應須細問知，　　眾用亡衣與。",
+    "folio":3,
+    "stemmed":"應 須 細 問 知    眾 用 亡 衣 與  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652b15_13",
+    "original":"若是知事人，　　為眾取他物；",
+    "folio":3,
+    "stemmed":"若 是 知 事 人    為 眾 取 他 物  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652b16_13",
+    "original":"應將眾物與，　　還債善籌量。",
+    "folio":3,
+    "stemmed":"應 將 眾 物 與    還 債 善 籌 量  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652b17_13",
+    "original":"凡是知事人，　　向他邊取物；",
+    "folio":3,
+    "stemmed":"凡 是 知 事 人    向 他 邊 取 物  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652b18_13",
+    "original":"宜應告上座，　　保券可分明。",
+    "folio":3,
+    "stemmed":"宜 應 告 上 座    保 券 可 分 明  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652b19_13",
+    "original":"送死幡衣等，　　持來施苾芻；",
+    "folio":3,
+    "stemmed":"送 死 幡 衣 等    持 來 施 苾 芻  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652b20_13",
+    "original":"受取理無傷，　　令其福增長。",
+    "folio":3,
+    "stemmed":"受 取 理 無 傷    令 其 福 增 長  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652b21_13",
+    "original":"若彼情生悔，　　還來索此衣；",
+    "folio":3,
+    "stemmed":"若 彼 情 生 悔    還 來 索 此 衣  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652b22_13",
+    "original":"苾芻應盡還，　　勿令憂火迫。",
+    "folio":3,
+    "stemmed":"苾 芻 應 盡 還    勿 令 憂 火 迫  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652b23_13",
+    "original":"被舉共好人，　　同居隨一死；",
+    "folio":3,
+    "stemmed":"被 舉 共 好 人    同 居 隨 一 死  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652b24_13",
+    "original":"亡衣好人得，　　舉者不應分。",
+    "folio":3,
+    "stemmed":"亡 衣 好 人 得    舉 者 不 應 分  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652b25_13",
+    "original":"若無持戒人，　　被舉有人死；",
+    "folio":3,
+    "stemmed":"若 無 持 戒 人    被 舉 有 人 死  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652b26_13",
+    "original":"雖舉未蒙解，　　宜應共分物。",
+    "folio":3,
+    "stemmed":"雖 舉 未 蒙 解    宜 應 共 分 物  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652b27_13",
+    "original":"既有明書券，　　出物與他人；",
+    "folio":3,
+    "stemmed":"既 有 明 書 券    出 物 與 他 人  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652b28_13",
+    "original":"為眾若身亡，　　眾應依契索。",
+    "folio":3,
+    "stemmed":"為 眾 若 身 亡    眾 應 依 契 索  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652b29_13",
+    "original":"合入眾與眾，　　制底亦皆然；",
+    "folio":3,
+    "stemmed":"合 入 眾 與 眾    制 底 亦 皆 然  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652c01_13",
+    "original":"堪王送與王，　　仍除刀箭等。",
+    "folio":3,
+    "stemmed":"堪 王 送 與 王    仍 除 刀 箭 等  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652c02_13",
+    "original":"應用此等物，　　作刀子及針；",
+    "folio":3,
+    "stemmed":"應 用 此 等 物    作 刀 子 及 針  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652c03_13",
+    "original":"餘並現前分，　　本物非分限。",
+    "folio":3,
+    "stemmed":"餘 並 現 前 分    本 物 非 分 限  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652c04_13",
+    "original":"若人宣一頌，　　依佛所說經；",
+    "folio":3,
+    "stemmed":"若 人 宣 一 頌    依 佛 所 說 經  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652c05_13",
+    "original":"由法語得財，　　此物宜應受。",
+    "folio":3,
+    "stemmed":"由 法 語 得 財    此 物 宜 應 受  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652c06_13",
+    "original":"牟尼有二法，　　教及證應知；",
+    "folio":3,
+    "stemmed":"牟 尼 有 二 法    教 及 證 應 知  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652c07_13",
+    "original":"教是阿笈摩，　　施法應請分。",
+    "folio":3,
+    "stemmed":"教 是 阿 笈 摩    施 法 應 請 分  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652c08_13",
+    "original":"安居若過半，　　便有捨戒人；",
+    "folio":3,
+    "stemmed":"安 居 若 過 半    便 有 捨 戒 人  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652c09_13",
+    "original":"此際苾芻亡，　　應與其人分。",
+    "folio":3,
+    "stemmed":"此 際 苾 芻 亡    應 與 其 人 分  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652c10_13",
+    "original":"造佛窣覩波，　　蘇迷盧等量；",
+    "folio":3,
+    "stemmed":"造 佛 窣 覩 波    蘇 迷 盧 等 量  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652c11_13",
+    "original":"四畔基牢固，　　乃至安寶瓶。",
+    "folio":3,
+    "stemmed":"四 畔 基 牢 固    乃 至 安 寶 瓶  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652c12_13",
+    "original":"輪一二三四，　　如次果應知；",
+    "folio":3,
+    "stemmed":"輪 一 二 三 四    如 次 果 應 知  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652c13_13",
+    "original":"凡夫具德人，　　兀頭為制底。",
+    "folio":3,
+    "stemmed":"凡 夫 具 德 人    兀 頭 為 制 底  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652c14_13",
+    "original":"若作佛制底，　　輪蓋無定數；",
+    "folio":3,
+    "stemmed":"若 作 佛 制 底    輪 蓋 無 定 數  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652c15_13",
+    "original":"過千妙高量，　　獲福乃無邊。",
+    "folio":3,
+    "stemmed":"過 千 妙 高 量    獲 福 乃 無 邊  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652c16_13",
+    "original":"獨覺麟喻佛，　　不過十三槃；",
+    "folio":3,
+    "stemmed":"獨 覺 麟 喻 佛    不 過 十 三 槃  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652c17_13",
+    "original":"於彼相輪頭，　　寶瓶不合置。",
+    "folio":3,
+    "stemmed":"於 彼 相 輪 頭    寶 瓶 不 合 置  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652c18_13",
+    "original":"制底中安佛，　　兩邊二弟子；",
+    "folio":3,
+    "stemmed":"制 底 中 安 佛    兩 邊 二 弟 子  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652c19_13",
+    "original":"餘聖次為行，　　諸凡應在外。",
+    "folio":3,
+    "stemmed":"餘 聖 次 為 行    諸 凡 應 在 外  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652c20_13",
+    "original":"次明看病事，　　更互可應為；",
+    "folio":3,
+    "stemmed":"次 明 看 病 事    更 互 可 應 為  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652c21_13",
+    "original":"藥直若貧無，　　僧物宜當與。",
+    "folio":3,
+    "stemmed":"藥 直 若 貧 無    僧 物 宜 當 與  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652c22_13",
+    "original":"若病人來乞，　　洗鉢盛淨水；",
+    "folio":3,
+    "stemmed":"若 病 人 來 乞    洗 鉢 盛 淨 水  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652c23_13",
+    "original":"應誦佛伽他，　　三遍存心呪。",
+    "folio":3,
+    "stemmed":"應 誦 佛 伽 他    三 遍 存 心 呪  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652c24_13",
+    "original":"苾芻為受藥，　　持將與病人；",
+    "folio":3,
+    "stemmed":"苾 芻 為 受 藥    持 將 與 病 人  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652c25_13",
+    "original":"如其授者無，　　自取亦聽服。",
+    "folio":3,
+    "stemmed":"如 其 授 者 無    自 取 亦 聽 服  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652c26_13",
+    "original":"不應就病人，　　教化取衣鉢；",
+    "folio":3,
+    "stemmed":"不 應 就 病 人    教 化 取 衣 鉢  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652c27_13",
+    "original":"假令雖捨施，　　大眾不應分。",
+    "folio":3,
+    "stemmed":"假 令 雖 捨 施    大 眾 不 應 分  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652c28_13",
+    "original":"施者及受者，　　教化者情貪；",
+    "folio":3,
+    "stemmed":"施 者 及 受 者    教 化 者 情 貪  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0652c29_13",
+    "original":"三俱非淨心，　　此不應受用。",
+    "folio":3,
+    "stemmed":"三 俱 非 淨 心    此 不 應 受 用  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653a01_13",
+    "original":"病者若樂欲，　　供養於佛僧；",
+    "folio":3,
+    "stemmed":"病 者 若 樂 欲    供 養 於 佛 僧  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653a02_13",
+    "original":"應用好衣等，　　守持麁惡服。",
+    "folio":3,
+    "stemmed":"應 用 好 衣 等    守 持 麁 惡 服  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653a03_13",
+    "original":"若彼貧無物，　　教化可應為；",
+    "folio":3,
+    "stemmed":"若 彼 貧 無 物    教 化 可 應 為  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653a04_13",
+    "original":"隨情施少多，　　令其信增長。",
+    "folio":3,
+    "stemmed":"隨 情 施 少 多    令 其 信 增 長  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653a05_13",
+    "original":"乃至一盤花，　　或可持瓶水；",
+    "folio":3,
+    "stemmed":"乃 至 一 盤 花    或 可 持 瓶 水  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653a06_13",
+    "original":"應隨病人語，　　供養使心歡。",
+    "folio":3,
+    "stemmed":"應 隨 病 人 語    供 養 使 心 歡  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653a07_13",
+    "original":"若於己財物，　　慳心苦難捨；",
+    "folio":3,
+    "stemmed":"若 於 己 財 物    慳 心 苦 難 捨  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653a08_13",
+    "original":"宜應用心勸，　　令彼供三尊。",
+    "folio":3,
+    "stemmed":"宜 應 用 心 勸    令 彼 供 三 尊  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653a09_13",
+    "original":"或可瞻病人，　　為捨衣鉢等；",
+    "folio":3,
+    "stemmed":"或 可 瞻 病 人    為 捨 衣 鉢 等  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653a10_13",
+    "original":"令其覩供養，　　引生檀施心。",
+    "folio":3,
+    "stemmed":"令 其 覩 供 養    引 生 檀 施 心  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653a11_13",
+    "original":"若於資具內，　　有愛著須捨；",
+    "folio":3,
+    "stemmed":"若 於 資 具 內    有 愛 著 須 捨  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653a12_13",
+    "original":"當於戒德人，　　隨情施衣鉢。",
+    "folio":3,
+    "stemmed":"當 於 戒 德 人    隨 情 施 衣 鉢  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653a13_13",
+    "original":"苾芻雖持戒，　　愛鉢至身死；",
+    "folio":3,
+    "stemmed":"苾 芻 雖 持 戒    愛 鉢 至 身 死  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653a14_13",
+    "original":"還生自鉢中，　　受惡毒蛇報。",
+    "folio":3,
+    "stemmed":"還 生 自 鉢 中    受 惡 毒 蛇 報  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653a15_13",
+    "original":"若患痔漏等，　　勿使不信人；",
+    "folio":3,
+    "stemmed":"若 患 痔 漏 等    勿 使 不 信 人  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653a16_13",
+    "original":"造次輒行醫，　　割除令苦惱。",
+    "folio":3,
+    "stemmed":"造 次 輒 行 醫    割 除 令 苦 惱  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653a17_13",
+    "original":"如其療痔病，　　藥呪可應治；",
+    "folio":3,
+    "stemmed":"如 其 療 痔 病    藥 呪 可 應 治  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653a18_13",
+    "original":"無醫為處方，　　不以爪甲截。",
+    "folio":3,
+    "stemmed":"無 醫 為 處 方    不 以 爪 甲 截  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653a19_13",
+    "original":"若無看病人，　　無弟子及藥；",
+    "folio":3,
+    "stemmed":"若 無 看 病 人    無 弟 子 及 藥  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653a20_13",
+    "original":"大眾咸供給，　　藥乃出僧伽。",
+    "folio":3,
+    "stemmed":"大 眾 咸 供 給    藥 乃 出 僧 伽  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653a21_13",
+    "original":"必是孤獨類，　　全無供侍人；",
+    "folio":3,
+    "stemmed":"必 是 孤 獨 類    全 無 供 侍 人  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653a22_13",
+    "original":"合眾並應看，　　或可為番次。",
+    "folio":3,
+    "stemmed":"合 眾 並 應 看    或 可 為 番 次  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653a23_13",
+    "original":"若患疥癩病，　　勿污僧床褥；",
+    "folio":3,
+    "stemmed":"若 患 疥 癩 病    勿 污 僧 床 褥  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653a24_13",
+    "original":"宜將厚衣替，　　咸用己私財。",
+    "folio":3,
+    "stemmed":"宜 將 厚 衣 替    咸 用 己 私 財  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653a25_13",
+    "original":"簷廳及門屋，　　大小便舍中；",
+    "folio":3,
+    "stemmed":"簷 廳 及 門 屋    大 小 便 舍 中  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653a26_13",
+    "original":"不應看病人，　　可居安隱處。",
+    "folio":3,
+    "stemmed":"不 應 看 病 人    可 居 安 隱 處  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653a27_13",
+    "original":"造寺主身死，　　被禁或他行；",
+    "folio":3,
+    "stemmed":"造 寺 主 身 死    被 禁 或 他 行  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653a28_13",
+    "original":"於斯住五年，　　雖貧不應棄。",
+    "folio":3,
+    "stemmed":"於 斯 住 五 年    雖 貧 不 應 棄  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653a29_13",
+    "original":"更可於五年，　　與近寺同利；",
+    "folio":3,
+    "stemmed":"更 可 於 五 年    與 近 寺 同 利  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653b01_13",
+    "original":"別為長淨事，　　守護不令虧。",
+    "folio":3,
+    "stemmed":"別 為 長 淨 事    守 護 不 令 虧  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653b02_13",
+    "original":"看守滿十年，　　若心不樂住；",
+    "folio":3,
+    "stemmed":"看 守 滿 十 年    若 心 不 樂 住  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653b03_13",
+    "original":"宜將臥具等，　　移安近寺中。",
+    "folio":3,
+    "stemmed":"宜 將 臥 具 等    移 安 近 寺 中  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653b04_13",
+    "original":"宜應好閉門，　　隨情向餘處；",
+    "folio":3,
+    "stemmed":"宜 應 好 閉 門    隨 情 向 餘 處  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653b05_13",
+    "original":"苾芻如樂住，　　任意可應居。",
+    "folio":3,
+    "stemmed":"苾 芻 如 樂 住    任 意 可 應 居  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653b06_13",
+    "original":"他寺所寄物，　　他索即應還；",
+    "folio":3,
+    "stemmed":"他 寺 所 寄 物    他 索 即 應 還  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653b07_13",
+    "original":"必若有餘緣，　　受用誠無過。",
+    "folio":3,
+    "stemmed":"必 若 有 餘 緣    受 用 誠 無 過  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653b08_13",
+    "original":"施主有先心，　　施此非餘處；",
+    "folio":3,
+    "stemmed":"施 主 有 先 心    施 此 非 餘 處  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653b09_13",
+    "original":"迴將與他寺，　　宜應強奪來。",
+    "folio":3,
+    "stemmed":"迴 將 與 他 寺    宜 應 強 奪 來  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653b10_13",
+    "original":"若著僧衣服，　　及自上價衣；",
+    "folio":3,
+    "stemmed":"若 著 僧 衣 服    及 自 上 價 衣  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653b11_13",
+    "original":"不應浣染等，　　福增無損故。",
+    "folio":3,
+    "stemmed":"不 應 浣 染 等    福 增 無 損 故  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653b12_13",
+    "original":"若於雨雪時，　　不應安露地；",
+    "folio":3,
+    "stemmed":"若 於 雨 雪 時    不 應 安 露 地  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653b13_13",
+    "original":"無宜著此服，　　入不淨室中。",
+    "folio":3,
+    "stemmed":"無 宜 著 此 服    入 不 淨 室 中  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653b14_13",
+    "original":"若其過初夜，　　臥具不應分；",
+    "folio":3,
+    "stemmed":"若 其 過 初 夜    臥 具 不 應 分  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653b15_13",
+    "original":"必知長久停，　　宵中亦應給。",
+    "folio":3,
+    "stemmed":"必 知 長 久 停    宵 中 亦 應 給  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653b16_13",
+    "original":"應隨老次第，　　與床并坐枮；",
+    "folio":3,
+    "stemmed":"應 隨 老 次 第    與 床 并 坐 枮  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653b17_13",
+    "original":"當留一所房，　　與客苾芻住。",
+    "folio":3,
+    "stemmed":"當 留 一 所 房    與 客 苾 芻 住  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653b18_13",
+    "original":"縱在阿蘭若，　　隨老樂應分；",
+    "folio":3,
+    "stemmed":"縱 在 阿 蘭 若    隨 老 樂 應 分  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653b19_13",
+    "original":"地樹及叢林，　　准次皆分給。",
+    "folio":3,
+    "stemmed":"地 樹 及 叢 林    准 次 皆 分 給  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653b20_13",
+    "original":"設居於靜林，　　亦須留客處；",
+    "folio":3,
+    "stemmed":"設 居 於 靜 林    亦 須 留 客 處  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653b21_13",
+    "original":"為護其衣鉢，　　異此遂招愆。",
+    "folio":3,
+    "stemmed":"為 護 其 衣 鉢    異 此 遂 招 愆  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653b22_13",
+    "original":"若在於迮處，　　肘地應分臥；",
+    "folio":3,
+    "stemmed":"若 在 於 迮 處    肘 地 應 分 臥  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653b23_13",
+    "original":"瓶水及齒木，　　藥雜器皆分。",
+    "folio":3,
+    "stemmed":"瓶 水 及 齒 木    藥 雜 器 皆 分  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653b24_13",
+    "original":"有意欲他行，　　房須淨掃拭；",
+    "folio":3,
+    "stemmed":"有 意 欲 他 行    房 須 淨 掃 拭  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653b25_13",
+    "original":"如其故令壞，　　惡作罪侵身。",
+    "folio":3,
+    "stemmed":"如 其 故 令 壞    惡 作 罪 侵 身  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653b26_13",
+    "original":"正值分房際，　　不囑便外出；",
+    "folio":3,
+    "stemmed":"正 值 分 房 際    不 囑 便 外 出  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653b27_13",
+    "original":"更令依次行，　　雖啼不應與。",
+    "folio":3,
+    "stemmed":"更 令 依 次 行    雖 啼 不 應 與  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653b28_13",
+    "original":"臥具及飲食，　　小者共平分；",
+    "folio":3,
+    "stemmed":"臥 具 及 飲 食    小 者 共 平 分  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653b29_13",
+    "original":"花果等亦然，　　大師法恒爾。",
+    "folio":3,
+    "stemmed":"花 果 等 亦 然    大 師 法 恒 爾  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653c01_13",
+    "original":"若彼身重病，　　不樂出本房；",
+    "folio":3,
+    "stemmed":"若 彼 身 重 病    不 樂 出 本 房  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653c02_13",
+    "original":"乃至未差來，　　放免其分次。",
+    "folio":3,
+    "stemmed":"乃 至 未 差 來    放 免 其 分 次  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653c03_13",
+    "original":"若見僧房外，　　臥具露地安；",
+    "folio":3,
+    "stemmed":"若 見 僧 房 外    臥 具 露 地 安  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653c04_13",
+    "original":"應可持令入，　　老病令人舉。",
+    "folio":3,
+    "stemmed":"應 可 持 令 入    老 病 令 人 舉  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653c05_13",
+    "original":"見大眾臥具，　　被火燒水漂；",
+    "folio":3,
+    "stemmed":"見 大 眾 臥 具    被 火 燒 水 漂  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653c06_13",
+    "original":"護身當救持，　　不應為造次。",
+    "folio":3,
+    "stemmed":"護 身 當 救 持    不 應 為 造 次  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653c07_0",
+    "original":"先須出己財，　　次出於僧法，",
+    "folio":3,
+    "stemmed":"先 須 出 己 財    次 出 於 僧 法  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653c08_13",
+    "original":"後當持佛物，　　是次第應知。",
+    "folio":3,
+    "stemmed":"後 當 持 佛 物    是 次第應知  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653c09_13",
+    "original":"先須請容許，　　次可相時宜；",
+    "folio":3,
+    "stemmed":"先 須 請 容 許    次 可 相 時 宜  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653c10_13",
+    "original":"方於三藏中，　　隨情問疑處。",
+    "folio":3,
+    "stemmed":"方 於 三 藏 中    隨 情 問 疑 處  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653c11_13",
+    "original":"凡為教授者，　　隨行住坐臥；",
+    "folio":3,
+    "stemmed":"凡 為 教 授 者    隨 行住坐臥  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653c12_13",
+    "original":"於此四儀中，　　說法皆非犯。",
+    "folio":3,
+    "stemmed":"於 此 四 儀 中    說 法 皆 非 犯  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653c13_13",
+    "original":"諸有受學人，　　先須起恭敬；",
+    "folio":3,
+    "stemmed":"諸 有 受 學 人    先 須 起 恭 敬  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653c14_13",
+    "original":"但除寢臥事，　　餘三不在遮。",
+    "folio":3,
+    "stemmed":"但 除 寢 臥 事    餘 三 不 在 遮  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653c15_13",
+    "original":"教授學人時，　　彼愚心未曉；",
+    "folio":3,
+    "stemmed":"教 授 學 人 時    彼 愚 心 未 曉  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653c16_13",
+    "original":"悲情善開喻，　　百遍不應辭。",
+    "folio":3,
+    "stemmed":"悲 情 善 開 喻    百 遍 不 應 辭  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653c17_13",
+    "original":"苾芻舉手打，　　屋柱樹及牆；",
+    "folio":3,
+    "stemmed":"苾 芻 舉 手 打    屋 柱 樹 及 牆  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653c18_13",
+    "original":"斯皆有愆過，　　智者不應作。",
+    "folio":3,
+    "stemmed":"斯 皆 有 愆 過    智 者 不 應 作  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653c19_13",
+    "original":"臂上不安玔，　　呪線任情持；",
+    "folio":3,
+    "stemmed":"臂 上 不 安 玔    呪 線 任 情 持  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653c20_13",
+    "original":"若有所須時，　　繫臂無令現。",
+    "folio":3,
+    "stemmed":"若 有 所 須 時    繫 臂 無 令 現  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653c21_13",
+    "original":"若誦諸明呪，　　不得敬餘天；",
+    "folio":3,
+    "stemmed":"若 誦 諸 明 呪    不 得 敬 餘 天  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653c22_13",
+    "original":"宜應禮三寶，　　持外道呪術。",
+    "folio":3,
+    "stemmed":"宜 應 禮 三 寶    持 外 道 呪 術  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653c23_13",
+    "original":"不於覆鉢家，　　受飲食床座；",
+    "folio":3,
+    "stemmed":"不 於 覆 鉢 家    受 飲 食 床 座  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653c24_13",
+    "original":"亦不往彼舍，　　為其說法等。",
+    "folio":3,
+    "stemmed":"亦 不 往 彼 舍    為 其 說 法 等  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653c25_13",
+    "original":"必有淨信心，　　敷妙衣布地；",
+    "folio":3,
+    "stemmed":"必 有 淨 信 心    敷 妙 衣 布 地  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653c26_13",
+    "original":"苾芻應為蹈，　　念諸行無常。",
+    "folio":3,
+    "stemmed":"苾 芻 應 為 蹈    念 諸行無常  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653c27_13",
+    "original":"但畜三衣者，　　唯開一洗裙；",
+    "folio":3,
+    "stemmed":"但 畜 三 衣 者    唯 開 一 洗 裙  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653c28_13",
+    "original":"若更畜餘衣，　　便乖杜多行。",
+    "folio":3,
+    "stemmed":"若 更 畜 餘 衣    便 乖 杜 多 行  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0653c29_13",
+    "original":"若諸麥豆等，　　曾經蒸煮來；",
+    "folio":3,
+    "stemmed":"若 諸 麥 豆 等    曾 經 蒸 煮 來  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654a01_13",
+    "original":"雖復尚堅生，　　鞕種皆非犯。",
+    "folio":3,
+    "stemmed":"雖 復 尚 堅 生    鞕 種 皆 非 犯  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654a02_13",
+    "original":"嘔食出咽喉，　　吐却淨漱口；",
+    "folio":3,
+    "stemmed":"嘔 食 出 咽 喉    吐 却 淨 漱 口  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654a03_13",
+    "original":"仍除先業力，　　頸內有雙喉。",
+    "folio":3,
+    "stemmed":"仍 除 先 業 力    頸 內 有 雙 喉  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654a04_13",
+    "original":"若有彫彩扇，　　為眾畜時聽；",
+    "folio":3,
+    "stemmed":"若 有 彫 彩 扇    為 眾 畜 時 聽  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654a05_13",
+    "original":"苾芻所著衣，　　不應同一色。",
+    "folio":3,
+    "stemmed":"苾 芻 所 著 衣    不 應 同 一 色  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654a06_13",
+    "original":"若是乞食人，　　隨衣著𢂁細；",
+    "folio":3,
+    "stemmed":"若 是 乞 食 人    隨 衣 著 𢂁 細  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654a07_13",
+    "original":"於花果樹下，　　不棄大小便。",
+    "folio":3,
+    "stemmed":"於 花 果 樹 下    不 棄 大 小 便  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654a08_13",
+    "original":"寺角中閣道，　　木作石不為；",
+    "folio":3,
+    "stemmed":"寺 角 中 閣 道    木 作 石 不 為  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654a09_13",
+    "original":"重病不禮他，　　亦不受他禮。",
+    "folio":3,
+    "stemmed":"重 病 不 禮 他    亦 不 受 他 禮  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654a10_13",
+    "original":"洗待身乾已，　　方可著餘衣；",
+    "folio":3,
+    "stemmed":"洗 待 身 乾 已    方 可 著 餘 衣  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654a11_13",
+    "original":"或手拂令乾，　　或用身巾拭。",
+    "folio":3,
+    "stemmed":"或 手 拂 令 乾    或 用 身 巾 拭  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654a12_13",
+    "original":"若得花香物，　　屏處隨情嗅；",
+    "folio":3,
+    "stemmed":"若 得 花 香 物    屏 處 隨 情 嗅  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654a13_13",
+    "original":"能使眼目明，　　令施福增長。",
+    "folio":3,
+    "stemmed":"能 使 眼 目 明    令 施 福 增 長  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654a14_13",
+    "original":"孫陀利打衣，　　寄與難陀著；",
+    "folio":3,
+    "stemmed":"孫 陀 利 打 衣    寄 與 難 陀 著  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654a15_13",
+    "original":"世尊聞此事，　　因斯制打衣。",
+    "folio":3,
+    "stemmed":"世 尊 聞 此 事    因 斯 制 打 衣  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654a16_13",
+    "original":"得他先打衣，　　水灑柔方著；",
+    "folio":3,
+    "stemmed":"得 他 先 打 衣    水 灑 柔 方 著  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654a17_13",
+    "original":"依舊光華者，　　便招越法愆。",
+    "folio":3,
+    "stemmed":"依 舊 光 華 者    便 招 越 法 愆  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654a18_13",
+    "original":"知是賊所棄，　　死肉有殘餘；",
+    "folio":3,
+    "stemmed":"知 是 賊 所 棄    死 肉 有 殘 餘  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654a19_13",
+    "original":"甘蔗等同然，　　對眾無宜取。",
+    "folio":3,
+    "stemmed":"甘 蔗 等 同 然    對 眾 無 宜 取  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654a20_13",
+    "original":"若以頭背跨，　　持物路中行；",
+    "folio":3,
+    "stemmed":"若 以 頭 背 跨    持 物 路 中 行  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654a21_13",
+    "original":"現苦已招譏，　　當來更被壓。",
+    "folio":3,
+    "stemmed":"現 苦 已 招 譏    當 來 更 被 壓  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654a22_13",
+    "original":"若有貴價緂，　　舉置被蟲穿；",
+    "folio":3,
+    "stemmed":"若 有 貴 價 緂    舉 置 被 蟲 穿  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654a23_13",
+    "original":"苦木葉餘香，　　裹末便不食。",
+    "folio":3,
+    "stemmed":"苦 木 葉 餘 香    裹 末 便 不 食  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654a24_13",
+    "original":"父母歿亡日，　　遺言與苾芻；",
+    "folio":3,
+    "stemmed":"父 母 歿 亡 日    遺 言 與 苾 芻  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654a25_13",
+    "original":"此物可應收，　　宜將供三寶。",
+    "folio":3,
+    "stemmed":"此 物 可 應 收    宜 將 供 三 寶  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654a26_13",
+    "original":"身在他界住，　　與彼苾芻欲；",
+    "folio":3,
+    "stemmed":"身 在 他 界 住    與 彼 苾 芻 欲  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654a27_13",
+    "original":"此作法不成，　　仍招惡作罪。",
+    "folio":3,
+    "stemmed":"此 作 法 不 成    仍 招 惡 作 罪  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654a28_13",
+    "original":"貴價高攝婆，　　他施應須受；",
+    "folio":3,
+    "stemmed":"貴 價 高 攝 婆    他 施 應 須 受  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654a29_13",
+    "original":"賣却同分取，　　割破不應為。",
+    "folio":3,
+    "stemmed":"賣 却 同 分 取    割 破 不 應 為  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654b01_13",
+    "original":"苾芻不見蛇，　　被螫便命過；",
+    "folio":3,
+    "stemmed":"苾 芻 不 見 蛇    被 螫 便 命 過  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654b02_13",
+    "original":"壓時蛇復死，　　為此臥觀床。",
+    "folio":3,
+    "stemmed":"壓 時 蛇 復 死    為 此 臥 觀 床  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654b03_13",
+    "original":"眠時不照床，　　即便招惡作；",
+    "folio":3,
+    "stemmed":"眠 時 不 照 床    即 便 招 惡 作  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654b04_13",
+    "original":"不應令象馬，　　雞雀鬪傍觀。",
+    "folio":3,
+    "stemmed":"不 應 令 象 馬    雞 雀 鬪 傍 觀  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654b05_13",
+    "original":"若須其偃帶，　　是善逝所聽；",
+    "folio":3,
+    "stemmed":"若 須 其 偃 帶    是 善 逝 所 聽  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654b06_13",
+    "original":"老病及風羸，　　隨情可應用。",
+    "folio":3,
+    "stemmed":"老 病 及 風 羸    隨 情 可 應 用  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654b07_13",
+    "original":"從斯住處去，　　或復擬旋歸；",
+    "folio":3,
+    "stemmed":"從 斯 住 處 去    或 復 擬 旋 歸  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654b08_13",
+    "original":"臥具囑方行，　　拂拭令清淨。",
+    "folio":3,
+    "stemmed":"臥 具 囑 方 行    拂 拭 令 清 淨  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654b09_13",
+    "original":"被他囑授人，　　應須為堅守；",
+    "folio":3,
+    "stemmed":"被 他 囑 授 人    應 須 為 堅 守  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654b10_13",
+    "original":"若還應即與，　　存心為賞持。",
+    "folio":3,
+    "stemmed":"若 還 應 即 與    存 心 為 賞 持  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654b11_13",
+    "original":"八日十五日，　　曬曝看臥具；",
+    "folio":3,
+    "stemmed":"八 日 十 五 日    曬 曝 看 臥 具  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654b12_13",
+    "original":"每半月常然，　　異斯招越法。",
+    "folio":3,
+    "stemmed":"每 半 月 常 然    異 斯 招 越 法  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654b13_13",
+    "original":"大小便利室，　　及以眾器具；",
+    "folio":3,
+    "stemmed":"大小便利 室    及 以 眾 器 具  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654b14_13",
+    "original":"先至宜應用，　　不應隨大小。",
+    "folio":3,
+    "stemmed":"先 至 宜 應 用    不 應 隨 大 小  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654b15_13",
+    "original":"若眾家器物，　　當其受用時；",
+    "folio":3,
+    "stemmed":"若 眾 家 器 物    當 其 受 用 時  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654b16_13",
+    "original":"應與先借人，　　無令廢其事。",
+    "folio":3,
+    "stemmed":"應 與 先 借 人    無 令 廢 其 事  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654b17_13",
+    "original":"上妙繩床座，　　眾許非別人；",
+    "folio":3,
+    "stemmed":"上 妙 繩 床 座    眾 許 非 別 人  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654b18_13",
+    "original":"倚版為除勞，　　僧私皆悉許。",
+    "folio":3,
+    "stemmed":"倚 版 為 除 勞    僧 私 皆 悉 許  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654b19_13",
+    "original":"若大過三夏，　　開聽一座坐；",
+    "folio":3,
+    "stemmed":"若 大 過 三 夏    開 聽 一 座 坐  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654b20_13",
+    "original":"如未近圓人，　　曾不許同席。",
+    "folio":3,
+    "stemmed":"如 未 近 圓 人    曾 不 許 同 席  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654b21_13",
+    "original":"若於俗舍內，　　別座不可求；",
+    "folio":3,
+    "stemmed":"若 於 俗 舍 內    別 座 不 可 求  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654b22_13",
+    "original":"設令親教師，　　許暫同居席。",
+    "folio":3,
+    "stemmed":"設 令 親 教 師    許 暫 同 居 席  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654b23_13",
+    "original":"如有難緣事，　　持眾臥衣行；",
+    "folio":3,
+    "stemmed":"如 有 難 緣 事    持 眾 臥 衣 行  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654b24_13",
+    "original":"將者可應眠，　　無怖還隨次。",
+    "folio":3,
+    "stemmed":"將 者 可 應 眠    無 怖 還 隨 次  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654b25_13",
+    "original":"若恐怖止息，　　受用可如常；",
+    "folio":3,
+    "stemmed":"若 恐 怖 止 息    受 用 可 如 常  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654b26_13",
+    "original":"爛破孔穿時，　　如法應縫補。",
+    "folio":3,
+    "stemmed":"爛 破 孔 穿 時    如 法 應 縫 補  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654b27_13",
+    "original":"必不堪受用，　　乃至襯替衣；",
+    "folio":3,
+    "stemmed":"必 不 堪 受 用    乃 至 襯 替 衣  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654b28_13",
+    "original":"裂破作燈心，　　或作泥填孔。",
+    "folio":3,
+    "stemmed":"裂 破 作 燈 心    或 作 泥 填 孔  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654b29_13",
+    "original":"如斯受用時，　　欲使身安樂；",
+    "folio":3,
+    "stemmed":"如 斯 受 用 時    欲 使 身 安 樂  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654c01_13",
+    "original":"復令於施主，　　恒為福業因。",
+    "folio":3,
+    "stemmed":"復 令 於 施 主    恒 為 福 業 因  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654c02_13",
+    "original":"別寺有定分，　　餘人輒來食；",
+    "folio":3,
+    "stemmed":"別 寺 有 定 分    餘 人 輒 來 食  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654c03_13",
+    "original":"計價當酬直，　　此不許分踈。",
+    "folio":3,
+    "stemmed":"計 價 當 酬 直    此 不 許 分 踈  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654c04_13",
+    "original":"僧祇臥具物，　　記誌宜須作；",
+    "folio":3,
+    "stemmed":"僧 祇 臥 具 物    記 誌 宜 須 作  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654c05_13",
+    "original":"此是某甲施，　　書字好分明。",
+    "folio":3,
+    "stemmed":"此 是 某 甲 施    書 字 好 分 明  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654c06_13",
+    "original":"枮上更安枮，　　苾芻重疊坐；",
+    "folio":3,
+    "stemmed":"枮 上 更 安 枮    苾 芻 重 疊 坐  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654c07_13",
+    "original":"黑耳惡作女，　　被壓向幽關。",
+    "folio":3,
+    "stemmed":"黑 耳 惡 作 女    被 壓 向 幽 關  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654c08_13",
+    "original":"求寂有信心，　　存情恭敬戒；",
+    "folio":3,
+    "stemmed":"求 寂 有 信 心    存 情 恭 敬 戒  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654c09_13",
+    "original":"常住之臥具，　　此亦合同分。",
+    "folio":3,
+    "stemmed":"常 住 之 臥 具    此 亦 合 同 分  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654c10_13",
+    "original":"開皮臥具者，　　不許在中方；",
+    "folio":3,
+    "stemmed":"開 皮 臥 具 者    不 許 在 中 方  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654c11_13",
+    "original":"俗舍坐權開，　　用臥元非許。",
+    "folio":3,
+    "stemmed":"俗 舍 坐 權 開    用 臥 元 非 許  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654c12_13",
+    "original":"熊羆皮總許，　　若坐并承足；",
+    "folio":3,
+    "stemmed":"熊 羆 皮 總 許    若 坐 并 承 足  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654c13_13",
+    "original":"邊方並悉開，　　以皮為臥具。",
+    "folio":3,
+    "stemmed":"邊 方 並 悉 開    以 皮 為 臥 具  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654c14_13",
+    "original":"金銀真珠等，　　希奇寶莊飾；",
+    "folio":3,
+    "stemmed":"金 銀 真 珠 等    希 奇 寶 莊 飾  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654c15_13",
+    "original":"并將象牙帖，　　此名為大床。",
+    "folio":3,
+    "stemmed":"并 將 象 牙 帖    此 名 為 大 床  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654c16_13",
+    "original":"苾芻床上坐，　　垂足不至地；",
+    "folio":3,
+    "stemmed":"苾 芻 床 上 坐    垂 足 不 至 地  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654c17_13",
+    "original":"此即是高床，　　奉戒者應識。",
+    "folio":3,
+    "stemmed":"此 即 是 高 床    奉 戒 者 應 識  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654c18_13",
+    "original":"此二大高床，　　苾芻不許坐；",
+    "folio":3,
+    "stemmed":"此 二 大 高 床    苾 芻 不 許 坐  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654c19_13",
+    "original":"俗亦遮非許，　　謂受褒灑陀。",
+    "folio":3,
+    "stemmed":"俗 亦 遮 非 許    謂 受 褒 灑 陀  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654c20_13",
+    "original":"必是堅牢座，　　兩人容共坐；",
+    "folio":3,
+    "stemmed":"必 是 堅 牢 座    兩 人 容 共 坐  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654c21_13",
+    "original":"床亦許三人，　　仍須撿新舊。",
+    "folio":3,
+    "stemmed":"床 亦 許 三 人    仍 須 撿 新 舊  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654c22_13",
+    "original":"必欲分財物，　　或告或鳴稚；",
+    "folio":3,
+    "stemmed":"必 欲 分 財 物    或 告 或 鳴 稚  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654c23_13",
+    "original":"或可共行籌，　　總告僧伽眾。",
+    "folio":3,
+    "stemmed":"或 可 共 行 籌    總 告 僧 伽 眾  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654c24_13",
+    "original":"揵稚有五種，　　所為事不同；",
+    "folio":3,
+    "stemmed":"揵 稚 有 五 種    所 為 事 不 同  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654c25_13",
+    "original":"任用在當時，　　無違大師教。",
+    "folio":3,
+    "stemmed":"任 用 在 當 時    無 違 大 師 教  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654c26_13",
+    "original":"一度斂稚訖，　　更不打一稚；",
+    "folio":3,
+    "stemmed":"一 度 斂 稚 訖    更 不 打 一 稚  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654c27_13",
+    "original":"此即是凶緣，　　為表亡人事。",
+    "folio":3,
+    "stemmed":"此 即 是 凶 緣    為 表 亡 人 事  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654c28_13",
+    "original":"作業三過斂，　　摋打兩下稚；",
+    "folio":3,
+    "stemmed":"作 業 三 過 斂    摋 打 兩 下 稚  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0654c29_13",
+    "original":"如增一大稚，　　是謂眾常法。",
+    "folio":3,
+    "stemmed":"如 增 一 大 稚    是 謂 眾 常 法  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655a01_13",
+    "original":"急難稚無定，　　為欲警眾人；",
+    "folio":3,
+    "stemmed":"急 難 稚 無 定    為 欲 警 眾 人  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655a02_13",
+    "original":"若為警禪思，　　應可搖鳴錫。",
+    "folio":3,
+    "stemmed":"若 為 警 禪 思    應 可 搖 鳴 錫  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655a03_13",
+    "original":"客人將入寺，　　門外洗手足；",
+    "folio":3,
+    "stemmed":"客 人 將 入 寺    門 外 洗 手 足  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655a04_13",
+    "original":"若處水難求，　　宜將葉拂打。",
+    "folio":3,
+    "stemmed":"若 處 水 難 求    宜 將 葉 拂 打  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655a05_13",
+    "original":"既入於寺中，　　合掌就尊處；",
+    "folio":3,
+    "stemmed":"既 入 於 寺 中    合 掌 就 尊 處  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655a06_13",
+    "original":"主唱善來已，　　答曰極善來。",
+    "folio":3,
+    "stemmed":"主 唱 善 來 已    答 曰 極 善 來  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655a07_13",
+    "original":"主人隨所有，　　斟量為解勞；",
+    "folio":3,
+    "stemmed":"主 人 隨 所 有    斟 量 為 解 勞  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655a08_13",
+    "original":"并設非時漿，　　令彼心歡喜。",
+    "folio":3,
+    "stemmed":"并 設 非 時 漿    令 彼 心 歡 喜  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655a09_13",
+    "original":"無遑濯手足，　　即問僧常制；",
+    "folio":3,
+    "stemmed":"無 遑 濯 手 足    即 問 僧 常 制  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655a10_13",
+    "original":"聞已可隨行，　　還如佛親說。",
+    "folio":3,
+    "stemmed":"聞 已 可 隨 行    還 如 佛 親 說  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655a11_13",
+    "original":"舊住諸苾芻，　　所為作制令；",
+    "folio":3,
+    "stemmed":"舊 住 諸 苾 芻    所 為 作 制 令  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655a12_13",
+    "original":"咸依稱理教，　　勿使惱眾人。",
+    "folio":3,
+    "stemmed":"咸 依 稱 理 教    勿 使 惱 眾 人  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655a13_13",
+    "original":"不得於如知，　　尊極大師處；",
+    "folio":3,
+    "stemmed":"不 得 於 如 知    尊 極 大 師 處  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655a14_13",
+    "original":"苾芻喚名族，　　及以具壽等。",
+    "folio":3,
+    "stemmed":"苾 芻 喚 名 族    及 以 具 壽 等  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655a15_13",
+    "original":"小師於大者，　　應喚為大德；",
+    "folio":3,
+    "stemmed":"小 師 於 大 者    應 喚 為 大 德  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655a16_13",
+    "original":"大者於小年，　　應命為具壽。",
+    "folio":3,
+    "stemmed":"大 者 於 小 年    應 命 為 具 壽  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655a17_13",
+    "original":"既被眾處分，　　隨力淨僧坊；",
+    "folio":3,
+    "stemmed":"既 被 眾 處 分    隨 力 淨 僧 坊  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655a18_13",
+    "original":"八日十五日，　　鳴稚集弟子。",
+    "folio":3,
+    "stemmed":"八 日 十 五 日    鳴 稚 集 弟 子  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655a19_13",
+    "original":"大小便洟唾，　　及以吐血等；",
+    "folio":3,
+    "stemmed":"大 小 便 洟 唾    及 以 吐 血 等  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655a20_13",
+    "original":"謦咳或彈指，　　再三令警覺。",
+    "folio":3,
+    "stemmed":"謦 咳 或 彈 指    再 三 令 警 覺  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655a21_13",
+    "original":"勿在生草上，　　及於清水中；",
+    "folio":3,
+    "stemmed":"勿 在 生 草 上    及 於 清 水 中  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655a22_13",
+    "original":"好樹及淨田，　　無宜棄不淨。",
+    "folio":3,
+    "stemmed":"好 樹 及 淨 田    無 宜 棄 不 淨  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655a23_13",
+    "original":"身安無病苦，　　不數食檳榔；",
+    "folio":3,
+    "stemmed":"身 安 無 病 苦    不 數 食 檳 榔  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655a24_13",
+    "original":"為病乃無違，　　苾芻應噉食。",
+    "folio":3,
+    "stemmed":"為 病 乃 無 違    苾 芻 應 噉 食  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655a25_13",
+    "original":"非時欲受用，　　於諸果味中；",
+    "folio":3,
+    "stemmed":"非 時 欲 受 用    於 諸 果 味 中  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655a26_13",
+    "original":"雖不有開遮，　　略教宜詳悉。",
+    "folio":3,
+    "stemmed":"雖 不 有 開 遮    略 教 宜 詳 悉  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655a27_13",
+    "original":"猶如日日中，　　供身恒噉食；",
+    "folio":3,
+    "stemmed":"猶 如 日 日 中    供 身 恒 噉 食  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655a28_13",
+    "original":"還須安眼藥，　　佛說遣常為。",
+    "folio":3,
+    "stemmed":"還 須 安 眼 藥    佛 說 遣 常 為  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655a29_13",
+    "original":"於寺內淨地，　　不可輒剃頭；",
+    "folio":3,
+    "stemmed":"於 寺 內 淨 地    不 可 輒 剃 頭  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655b01_13",
+    "original":"有病在隨聽，　　了時須掃拭。",
+    "folio":3,
+    "stemmed":"有 病 在 隨 聽    了 時 須 掃 拭  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655b02_13",
+    "original":"若於剃髮時，　　必須依小大；",
+    "folio":3,
+    "stemmed":"若 於 剃 髮 時    必 須 依 小 大  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655b03_13",
+    "original":"若已下手剃，　　喚起理不應。",
+    "folio":3,
+    "stemmed":"若 已 下 手 剃    喚 起 理 不 應  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655b04_13",
+    "original":"鬚髮隨先後，　　次拔鼻中毛；",
+    "folio":3,
+    "stemmed":"鬚 髮 隨 先 後    次 拔 鼻 中 毛  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655b05_13",
+    "original":"手足爪方除，　　須知其次第。",
+    "folio":3,
+    "stemmed":"手 足 爪 方 除    須 知 其 次 第  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655b06_13",
+    "original":"苾芻剃髮時，　　不作牛毛剪；",
+    "folio":3,
+    "stemmed":"苾 芻 剃 髮 時    不 作 牛 毛 剪  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655b07_13",
+    "original":"若有瘡病者，　　近處剪無傷。",
+    "folio":3,
+    "stemmed":"若 有 瘡 病 者    近 處 剪 無 傷  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655b08_13",
+    "original":"於三隱密處，　　不許輒除毛；",
+    "folio":3,
+    "stemmed":"於 三 隱 密 處    不 許 輒 除 毛  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655b09_13",
+    "original":"若有病時開，　　報知同淨行。",
+    "folio":3,
+    "stemmed":"若 有 病 時 開    報 知 同 淨 行  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655b10_13",
+    "original":"剪爪如斧刃，　　或可剃刀彎；",
+    "folio":3,
+    "stemmed":"剪 爪 如 斧 刃    或 可 剃 刀 彎  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655b11_13",
+    "original":"甲上聽除垢，　　不合求光飾。",
+    "folio":3,
+    "stemmed":"甲 上 聽 除 垢    不 合 求 光 飾  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655b12_13",
+    "original":"若在蘭若處，　　髮不過兩指；",
+    "folio":3,
+    "stemmed":"若 在 蘭 若 處    髮 不 過 兩 指  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655b13_13",
+    "original":"二指便非咎，　　城村不合然。",
+    "folio":3,
+    "stemmed":"二 指 便 非 咎    城 村 不 合 然  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655b14_13",
+    "original":"凡剃髮了時，　　遍身皆淨洗；",
+    "folio":3,
+    "stemmed":"凡 剃 髮 了 時    遍 身 皆 淨 洗  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655b15_13",
+    "original":"有事便開許，　　但須淨五支。",
+    "folio":3,
+    "stemmed":"有 事 便 開 許    但 須 淨 五 支  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655b16_13",
+    "original":"無俗剃髮者，　　應可在房中；",
+    "folio":3,
+    "stemmed":"無 俗 剃 髮 者    應 可 在 房 中  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655b17_13",
+    "original":"苾芻若善閑，　　為剃時非犯。",
+    "folio":3,
+    "stemmed":"苾 芻 若 善 閑    為 剃 時 非 犯  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655b18_0",
+    "original":"晨朝嚼齒木，　　或為說法時，",
+    "folio":3,
+    "stemmed":"晨 朝 嚼 齒 木    或 為 說 法 時  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655b19_13",
+    "original":"及以食了時，　　不作便招罪。",
+    "folio":3,
+    "stemmed":"及 以 食 了 時    不 作 便 招 罪  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655b20_13",
+    "original":"齒木有三殊，　　長須十二指；",
+    "folio":3,
+    "stemmed":"齒 木 有 三 殊    長 須 十 二 指  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655b21_13",
+    "original":"短便八指量，　　此內總名中。",
+    "folio":3,
+    "stemmed":"短 便 八 指 量    此 內 總 名 中  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655b22_13",
+    "original":"隨是何木條，　　大如小指許；",
+    "folio":3,
+    "stemmed":"隨 是 何 木 條    大 如 小 指 許  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655b23_13",
+    "original":"嚼頭軟成絮，　　苦澁者為佳。",
+    "folio":3,
+    "stemmed":"嚼 頭 軟 成 絮    苦 澁 者 為 佳  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655b24_13",
+    "original":"齒木既嚼了，　　刮舌須存意；",
+    "folio":3,
+    "stemmed":"齒 木 既 嚼 了    刮 舌 須 存 意  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655b25_13",
+    "original":"銅鐵赤銅鍮，　　刮󰝨隨樂作。",
+    "folio":3,
+    "stemmed":"銅 鐵 赤 銅 鍮    刮  隨 樂 作  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655b26_13",
+    "original":"若住村城內，　　四中隨一持；",
+    "folio":3,
+    "stemmed":"若 住 村 城 內    四 中 隨 一 持  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655b27_13",
+    "original":"淨洗用灰揩，　　勿令生垢污。",
+    "folio":3,
+    "stemmed":"淨 洗 用 灰 揩    勿 令 生 垢 污  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655b28_13",
+    "original":"必其無此者，　　用前所嚼木；",
+    "folio":3,
+    "stemmed":"必 其 無 此 者    用 前 所 嚼 木  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655b29_13",
+    "original":"擘破兩相揩，　　刮舌貧人用。",
+    "folio":3,
+    "stemmed":"擘 破 兩 相 揩    刮 舌 貧 人 用  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655c01_13",
+    "original":"齒木卒難得，　　口齒終須淨；",
+    "folio":3,
+    "stemmed":"齒 木 卒 難 得    口 齒 終 須 淨  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655c02_13",
+    "original":"三屑隨時用，　　權開亦無犯。",
+    "folio":3,
+    "stemmed":"三 屑 隨 時 用    權 開 亦 無 犯  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655c03_13",
+    "original":"前身作毒蛇，　　今為長者子；",
+    "folio":3,
+    "stemmed":"前 身 作 毒 蛇    今 為 長 者 子  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655c04_13",
+    "original":"出家因淨口，　　常須刮舌󰝨。",
+    "folio":3,
+    "stemmed":"出 家 因 淨 口    常 須 刮 舌   "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655c05_13",
+    "original":"既除其舌垢，　　置地殺小蟲；",
+    "folio":3,
+    "stemmed":"既 除 其 舌 垢    置 地 殺 小 蟲  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655c06_13",
+    "original":"由此佛興悲，　　不許隨宜棄。",
+    "folio":3,
+    "stemmed":"由 此 佛 興 悲    不 許 隨 宜 棄  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655c07_13",
+    "original":"凡是淨口時，　　齒木洗方棄；",
+    "folio":3,
+    "stemmed":"凡 是 淨 口 時    齒 木 洗 方 棄  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655c08_13",
+    "original":"無水揩塵土，　　不然招惡作。",
+    "folio":3,
+    "stemmed":"無 水 揩 塵 土    不 然 招 惡 作  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655c09_13",
+    "original":"蠅於齒木死，　　食此守宮亡；",
+    "folio":3,
+    "stemmed":"蠅 於 齒 木 死    食 此 守 宮 亡  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655c10_13",
+    "original":"黃㹨噉斯終，　　狗飡還命過。",
+    "folio":3,
+    "stemmed":"黃 㹨 噉 斯 終    狗 飡 還 命 過  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655c11_13",
+    "original":"苾芻有三事，　　宜於屏處為：",
+    "folio":3,
+    "stemmed":"苾 芻 有 三 事    宜 於 屏 處 為  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655c12_13",
+    "original":"謂是大小便，　　及以嚼齒木。",
+    "folio":3,
+    "stemmed":"謂 是 大 小 便    及 以 嚼 齒 木  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655c13_13",
+    "original":"苾芻許皮履，　　但唯開一重；",
+    "folio":3,
+    "stemmed":"苾 芻 許 皮 履    但 唯 開 一 重  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655c14_13",
+    "original":"不許作多重，　　俗淨方聽著。",
+    "folio":3,
+    "stemmed":"不 許 作 多 重    俗 淨 方 聽 著  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655c15_13",
+    "original":"踏時作聲響，　　縱淨不應畜；",
+    "folio":3,
+    "stemmed":"踏 時 作 聲 響    縱 淨 不 應 畜  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655c16_13",
+    "original":"為眾在隨聽，　　著時無有罪。",
+    "folio":3,
+    "stemmed":"為 眾 在 隨 聽    著 時 無 有 罪  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655c17_13",
+    "original":"若在嚴寒國，　　氷雪滿田中；",
+    "folio":3,
+    "stemmed":"若 在 嚴 寒 國    氷 雪 滿 田 中  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655c18_13",
+    "original":"此時開富羅，　　著否皆隨意。",
+    "folio":3,
+    "stemmed":"此 時 開 富 羅    著 否 皆 隨 意  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655c19_13",
+    "original":"師子象馬等，　　五皮不合持；",
+    "folio":3,
+    "stemmed":"師 子 象 馬 等    五 皮 不 合 持  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655c20_13",
+    "original":"并及此諸筋，　　不可將連綴。",
+    "folio":3,
+    "stemmed":"并 及 此 諸 筋    不 可 將 連 綴  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655c21_13",
+    "original":"自餘牙爪獸，　　犲及猫狸等；",
+    "folio":3,
+    "stemmed":"自 餘 牙 爪 獸    犲 及 猫 狸 等  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655c22_13",
+    "original":"不合用其皮，　　由斯能作害。",
+    "folio":3,
+    "stemmed":"不 合 用 其 皮    由 斯 能 作 害  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655c23_13",
+    "original":"若在毘訶羅，　　總不聽著屐；",
+    "folio":3,
+    "stemmed":"若 在 毘 訶 羅    總 不 聽 著 屐  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655c24_13",
+    "original":"得安便轉室，　　并開俗舍中。",
+    "folio":3,
+    "stemmed":"得 安 便 轉 室    并 開 俗 舍 中  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655c25_13",
+    "original":"芒竹等為鞋，　　苾芻不合著；",
+    "folio":3,
+    "stemmed":"芒 竹 等 為 鞋    苾 芻 不 合 著  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655c26_13",
+    "original":"脚有風血病，　　須著在隨聽。",
+    "folio":3,
+    "stemmed":"脚 有 風 血 病    須 著 在 隨 聽  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655c27_13",
+    "original":"若是無船處，　　憑牛尾渡河；",
+    "folio":3,
+    "stemmed":"若 是 無 船 處    憑 牛 尾 渡 河  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655c28_13",
+    "original":"象馬特水牛，　　此悉非遮限。",
+    "folio":3,
+    "stemmed":"象 馬 特 水 牛    此 悉 非 遮 限  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0655c29_13",
+    "original":"租田合取分，　　耕業絕不聽；",
+    "folio":3,
+    "stemmed":"租 田 合 取 分    耕 業 絕 不 聽  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656a01_13",
+    "original":"守看宜用心，　　無令損常住。",
+    "folio":3,
+    "stemmed":"守 看 宜 用 心    無 令 損 常 住  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656a02_13",
+    "original":"險途逢難緣，　　自亦持將去；",
+    "folio":3,
+    "stemmed":"險 途 逢 難 緣    自 亦 持 將 去  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656a03_13",
+    "original":"寺中如有賊，　　鬧亂可應為。",
+    "folio":3,
+    "stemmed":"寺 中 如 有 賊    鬧 亂 可 應 為  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656a04_13",
+    "original":"若在牧牛坊，　　慇懃好看守；",
+    "folio":3,
+    "stemmed":"若 在 牧 牛 坊    慇 懃 好 看 守  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656a05_13",
+    "original":"不應言穀將，　　方便遣如常。",
+    "folio":3,
+    "stemmed":"不 應 言 穀 將    方 便 遣 如 常  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656a06_13",
+    "original":"求寂等持糧，　　身羸須借助；",
+    "folio":3,
+    "stemmed":"求 寂 等 持 糧    身 羸 須 借 助  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656a07_13",
+    "original":"勿令其手放，　　舉下並無傷。",
+    "folio":3,
+    "stemmed":"勿 令 其 手 放    舉 下 並 無 傷  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656a08_13",
+    "original":"若其全困乏，　　苾芻應為持；",
+    "folio":3,
+    "stemmed":"若 其 全 困 乏    苾 芻 應 為 持  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656a09_13",
+    "original":"帒上繫長繩，　　可令求寂捉。",
+    "folio":3,
+    "stemmed":"帒 上 繫 長 繩    可 令 求 寂 捉  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656a10_13",
+    "original":"賊來驚走棄，　　或可渡河時；",
+    "folio":3,
+    "stemmed":"賊 來 驚 走 棄    或 可 渡 河 時  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656a11_13",
+    "original":"此即自收來，　　食時無有過。",
+    "folio":3,
+    "stemmed":"此 即 自 收 來    食 時 無 有 過  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656a12_13",
+    "original":"將車載糧食，　　險處恐摧轅；",
+    "folio":3,
+    "stemmed":"將 車 載 糧 食    險 處 恐 摧 轅  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656a13_13",
+    "original":"苾芻應共推，　　仍須防軾處。",
+    "folio":3,
+    "stemmed":"苾 芻 應 共 推    仍 須 防 軾 處  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656a14_13",
+    "original":"船中穀食滿，　　觸淺過灘渦；",
+    "folio":3,
+    "stemmed":"船 中 穀 食 滿    觸 淺 過 灘 渦  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656a15_13",
+    "original":"牽拔助舟人，　　無宜觸其柁。",
+    "folio":3,
+    "stemmed":"牽 拔 助 舟 人    無 宜 觸 其 柁  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656a16_13",
+    "original":"染衣須靜日，　　復非陰午時；",
+    "folio":3,
+    "stemmed":"染 衣 須 靜 日    復 非 陰 午 時  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656a17_13",
+    "original":"好地不應為，　　恐污生譏過。",
+    "folio":3,
+    "stemmed":"好 地 不 應 為    恐 污 生 譏 過  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656a18_13",
+    "original":"忽爾逢風雨，　　塵驚恐污衣；",
+    "folio":3,
+    "stemmed":"忽 爾 逢 風 雨    塵 驚 恐 污 衣  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656a19_13",
+    "original":"可移簷宇中，　　污處應摩拭。",
+    "folio":3,
+    "stemmed":"可 移 簷 宇 中    污 處 應 摩 拭  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656a20_13",
+    "original":"同法諸苾芻，　　見鬪宜應解；",
+    "folio":3,
+    "stemmed":"同 法 諸 苾 芻    見 鬪 宜 應 解  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656a21_13",
+    "original":"彼若不用語，　　捨去不須看。",
+    "folio":3,
+    "stemmed":"彼 若 不 用 語    捨 去 不 須 看  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656a22_13",
+    "original":"破持戒信持，　　俱持取聞者；",
+    "folio":3,
+    "stemmed":"破 持 戒 信 持    俱 持 取 聞 者  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656a23_13",
+    "original":"同聞信少欲，　　少欲有差殊。",
+    "folio":3,
+    "stemmed":"同 聞 信 少 欲    少 欲 有 差 殊  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656a24_13",
+    "original":"此二共鬪時，　　兩言俱可信；",
+    "folio":3,
+    "stemmed":"此 二 共 鬪 時    兩 言 俱 可 信  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656a25_13",
+    "original":"可問極少欲，　　二極乃無爭。",
+    "folio":3,
+    "stemmed":"可 問 極 少 欲    二 極 乃 無 爭  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656a26_13",
+    "original":"若因論法相，　　鬪諍遂便生；",
+    "folio":3,
+    "stemmed":"若 因 論 法 相    鬪 諍 遂 便 生  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656a27_13",
+    "original":"如其惡不除，　　應須為捨置。",
+    "folio":3,
+    "stemmed":"如 其 惡 不 除    應 須 為 捨 置  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656a28_13",
+    "original":"合禮處相逢，　　雖鬪應行敬；",
+    "folio":3,
+    "stemmed":"合 禮 處 相 逢    雖 鬪 應 行 敬  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656a29_13",
+    "original":"大告言無病，　　若違俱得罪。",
+    "folio":3,
+    "stemmed":"大 告 言 無 病    若 違 俱 得 罪  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656b01_13",
+    "original":"若入浴室時，　　令人防守戶；",
+    "folio":3,
+    "stemmed":"若 入 浴 室 時    令 人 防 守 戶  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656b02_13",
+    "original":"洗浴事未了，　　少信勿令前。",
+    "folio":3,
+    "stemmed":"洗 浴 事 未 了    少 信 勿 令 前  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656b03_13",
+    "original":"若用眾雜彩，　　繪畫在隨聽；",
+    "folio":3,
+    "stemmed":"若 用 眾 雜 彩    繪 畫 在 隨 聽  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656b04_13",
+    "original":"不得畫眾生，　　仍開剪花葉。",
+    "folio":3,
+    "stemmed":"不 得 畫 眾 生    仍 開 剪 花 葉  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656b05_13",
+    "original":"若在僧房壁，　　畫白骨死屍；",
+    "folio":3,
+    "stemmed":"若 在 僧 房 壁    畫 白 骨 死 屍  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656b06_13",
+    "original":"或時為髑髏，　　見者令生厭。",
+    "folio":3,
+    "stemmed":"或 時 為 髑 髏    見 者 令 生 厭  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656b07_13",
+    "original":"大門扇畫神，　　舒顏喜含笑；",
+    "folio":3,
+    "stemmed":"大 門 扇 畫 神    舒 顏 喜 含 笑  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656b08_13",
+    "original":"或為藥叉像，　　執杖為防非。",
+    "folio":3,
+    "stemmed":"或 為 藥 叉 像    執 杖 為 防 非  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656b09_13",
+    "original":"畫大神通事，　　華中現佛形；",
+    "folio":3,
+    "stemmed":"畫 大 神 通 事    華 中 現 佛 形  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656b10_13",
+    "original":"及畫生死輪，　　可於門兩頰。",
+    "folio":3,
+    "stemmed":"及 畫 生 死 輪    可 於 門 兩 頰  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656b11_13",
+    "original":"畫香臺戶扇，　　藥叉神執花；",
+    "folio":3,
+    "stemmed":"畫 香 臺 戶 扇    藥 叉 神 執 花  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656b12_13",
+    "original":"若於僧大厨，　　畫神擎美食。",
+    "folio":3,
+    "stemmed":"若 於 僧 大 厨    畫 神 擎 美 食  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656b13_13",
+    "original":"庫門藥叉像，　　手持如意帒；",
+    "folio":3,
+    "stemmed":"庫 門 藥 叉 像    手 持 如 意 帒  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656b14_13",
+    "original":"或擎天德瓶，　　口瀉諸金寶。",
+    "folio":3,
+    "stemmed":"或 擎 天 德 瓶    口 瀉 諸 金 寶  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656b15_13",
+    "original":"若於供侍堂，　　畫老苾芻像；",
+    "folio":3,
+    "stemmed":"若 於 供 侍 堂    畫 老 苾 芻 像  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656b16_13",
+    "original":"應為敷演勢，　　開導於眾生。",
+    "folio":3,
+    "stemmed":"應 為 敷 演 勢    開 導 於 眾 生  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656b17_13",
+    "original":"溫堂并浴室，　　畫作五天使；",
+    "folio":3,
+    "stemmed":"溫 堂 并 浴 室    畫 作 五 天 使  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656b18_13",
+    "original":"生老病死繫，　　其事准經為。",
+    "folio":3,
+    "stemmed":"生老病死 繫    其 事 准 經 為  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656b19_13",
+    "original":"若在養病堂，　　畫作大師像；",
+    "folio":3,
+    "stemmed":"若 在 養 病 堂    畫 作 大 師 像  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656b20_13",
+    "original":"躬持大悲手，　　親扶重病人。",
+    "folio":3,
+    "stemmed":"躬 持 大 悲 手    親 扶 重 病 人  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656b21_13",
+    "original":"若於水堂處，　　彫彩畫龍蛇；",
+    "folio":3,
+    "stemmed":"若 於 水 堂 處    彫 彩 畫 龍 蛇  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656b22_13",
+    "original":"若於圊廁中，　　應作尸林像。",
+    "folio":3,
+    "stemmed":"若 於 圊 廁 中    應 作 尸 林 像  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656b23_13",
+    "original":"可在簷廊壁，　　畫佛本生時；",
+    "folio":3,
+    "stemmed":"可 在 簷 廊 壁    畫 佛 本 生 時  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656b24_13",
+    "original":"難行施女男，　　捨身并忍事。",
+    "folio":3,
+    "stemmed":"難 行 施 女 男    捨 身 并 忍 事  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656b25_13",
+    "original":"如斯畫軌式，　　緣在逝多園；",
+    "folio":3,
+    "stemmed":"如 斯 畫 軌 式    緣 在 逝 多 園  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656b26_13",
+    "original":"長者造寺成，　　世尊親為說。",
+    "folio":3,
+    "stemmed":"長 者 造 寺 成    世 尊 親 為 說  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656b27_13",
+    "original":"若在簷房處，　　不許火烟熏；",
+    "folio":3,
+    "stemmed":"若 在 簷 房 處    不 許 火 烟 熏  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656b28_13",
+    "original":"必若有餘緣，　　無烟可持進。",
+    "folio":3,
+    "stemmed":"必 若 有 餘 緣    無 烟 可 持 進  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656b29_13",
+    "original":"於好甎地上，　　不應輒然火；",
+    "folio":3,
+    "stemmed":"於 好 甎 地 上    不 應 輒 然 火  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656c01_13",
+    "original":"若有要緣者，　　宜可在爐中。",
+    "folio":3,
+    "stemmed":"若 有 要 緣 者    宜 可 在 爐 中  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656c02_17",
+    "original":"佛及眾中尊老者，　　國王恩濟於兆庶；",
+    "folio":3,
+    "stemmed":"佛 及 眾 中 尊 老 者    國 王 恩 濟 於 兆 庶  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656c03_17",
+    "original":"親教軌範二尊人，　　此五善教無宜越。",
+    "folio":3,
+    "stemmed":"親 教 軌 範 二 尊 人    此 五 善 教 無 宜 越  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656c04_17",
+    "original":"若有苾芻所為事，　　世尊不開亦不遮；",
+    "folio":3,
+    "stemmed":"若 有 苾 芻 所 為 事    世 尊 不 開 亦 不 遮  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656c05_17",
+    "original":"清淨不與俗相違，　　斯事應行勿疑慮。",
+    "folio":3,
+    "stemmed":"清 淨 不 與 俗 相 違    斯 事 應 行 勿 疑 慮  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656c06_17",
+    "original":"若是世間起譏議，　　苾芻受用不應為；",
+    "folio":3,
+    "stemmed":"若 是 世 間 起 譏 議    苾 芻 受 用 不 應 為  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656c07_17",
+    "original":"略教能令弟子安，　　亦明佛是一切智。",
+    "folio":3,
+    "stemmed":"略 教 能 令 弟 子 安    亦 明 佛 是 一 切 智  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656c08_17",
+    "original":"若毘奈耶蘇怛羅，　　於其緣起不能憶；",
+    "folio":3,
+    "stemmed":"若 毘 奈 耶 蘇 怛 羅    於 其 緣 起 不 能 憶  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656c09_17",
+    "original":"六大都城隨意說，　　縱令差互並無愆。",
+    "folio":3,
+    "stemmed":"六 大 都 城 隨 意 說    縱 令 差 互 並 無 愆  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656c10_17",
+    "original":"室羅伐城娑雞多，　　婆羅痆斯及占波；",
+    "folio":3,
+    "stemmed":"室 羅 伐 城 娑 雞 多    婆羅痆斯 及 占 波  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656c11_17",
+    "original":"薜舍離城與王舍，　　此六大城隨處說。",
+    "folio":3,
+    "stemmed":"薜 舍 離 城 與 王 舍    此 六 大 城 隨 處 說  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656c12_17",
+    "original":"長者謂是給孤獨，　　憍薩羅國勝光王；",
+    "folio":3,
+    "stemmed":"長 者 謂 是 給 孤 獨    憍 薩 羅 國 勝 光 王  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656c13_17",
+    "original":"女人謂是毘舍佉，　　斯等臨時任稱說。",
+    "folio":3,
+    "stemmed":"女 人 謂 是 毘 舍 佉    斯 等 臨 時 任 稱 說  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656c14_17",
+    "original":"婆羅痆斯大城內，　　國主名為梵授王；",
+    "folio":3,
+    "stemmed":"婆羅痆斯 大 城 內    國 主 名 為 梵 授 王  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656c15_17",
+    "original":"近住女名褒灑陀，　　有大長者名相續。",
+    "folio":3,
+    "stemmed":"近 住 女 名 褒 灑 陀    有 大 長 者 名 相 續  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656c16_17",
+    "original":"創在婆羅痆斯國，　　法輪初轉濟群迷；",
+    "folio":3,
+    "stemmed":"創 在 婆羅痆斯 國    法 輪 初 轉 濟 群 迷  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656c17_17",
+    "original":"於斯說法度五人，　　為報昔時先願意。",
+    "folio":3,
+    "stemmed":"於 斯 說 法 度 五 人    為 報 昔 時 先 願 意  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656c18_17",
+    "original":"第二五人隣次度，　　為說色等空無我；",
+    "folio":3,
+    "stemmed":"第 二 五 人 隣 次 度    為 說 色 等 空 無 我  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656c19_17",
+    "original":"總觀諸蘊若浮泡，　　生死輪迴因得出。",
+    "folio":3,
+    "stemmed":"總 觀 諸 蘊 若 浮 泡    生死輪迴 因 得 出  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656c20_17",
+    "original":"初由五人著下裙，　　高低不等招譏醜；",
+    "folio":3,
+    "stemmed":"初 由 五 人 著 下 裙    高 低 不 等 招 譏 醜  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656c21_17",
+    "original":"令如梵天圓整著，　　因斯遂制式叉門。",
+    "folio":3,
+    "stemmed":"令 如 梵 天 圓 整 著    因 斯 遂 制 式 叉 門  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656c22_17",
+    "original":"從次牟尼方制戒，　　蘇陣那等作婬非；",
+    "folio":3,
+    "stemmed":"從 次 牟 尼 方 制 戒    蘇 陣 那 等 作 婬 非  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656c23_17",
+    "original":"緣起學處免初人，　　此是生天涅槃路。",
+    "folio":3,
+    "stemmed":"緣 起 學 處 免 初 人    此 是 生 天 涅 槃 路  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656c24_17",
+    "original":"大哉大德六人眾，　　由斯廣制式叉緣；",
+    "folio":3,
+    "stemmed":"大 哉 大 德 六 人 眾    由 斯 廣 制 式 叉 緣  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656c25_17",
+    "original":"悉皆明辯冠當時，　　所作事業無重犯。",
+    "folio":3,
+    "stemmed":"悉 皆 明 辯 冠 當 時    所作事業 無 重 犯  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656c26_17",
+    "original":"雖為此等制學處，　　因斯洗濁破尸羅；",
+    "folio":3,
+    "stemmed":"雖 為 此 等 制 學 處    因 斯 洗 濁 破 尸 羅  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656c27_17",
+    "original":"如信度河至春時，　　流注平原灌眾澤。",
+    "folio":3,
+    "stemmed":"如 信 度 河 至 春 時    流 注 平 原 灌 眾 澤  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656c28_17",
+    "original":"鄔波難陀阿濕迦，　　闡陀難陀鄔陀夷；",
+    "folio":3,
+    "stemmed":"鄔 波 難 陀 阿 濕 迦    闡 陀 難 陀 鄔 陀 夷  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0656c29_17",
+    "original":"補㮈伐蘇六難調，　　世尊教中為滓穢。",
+    "folio":3,
+    "stemmed":"補 㮈 伐 蘇 六 難 調    世 尊 教 中 為 滓 穢  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657a01_17",
+    "original":"若有要心不犯戒，　　斯則名為上智者；",
+    "folio":3,
+    "stemmed":"若 有 要 心 不 犯 戒    斯 則 名 為 上 智 者  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657a02_17",
+    "original":"雖犯能悔亦勝流，　　長時不悔生惡趣。",
+    "folio":3,
+    "stemmed":"雖 犯 能 悔 亦 勝 流    長 時 不 悔 生 惡 趣  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657a03_17",
+    "original":"諸佛能超德海岸，　　所有施作叵稱量；",
+    "folio":3,
+    "stemmed":"諸 佛 能 超 德 海 岸    所 有 施 作 叵 稱 量  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657a04_17",
+    "original":"宣說調伏濟眾生，　　於勝善人能引導。",
+    "folio":3,
+    "stemmed":"宣 說 調 伏 濟 眾 生    於 勝 善 人 能 引 導  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657a05_17",
+    "original":"凡夫無始積無明，　　輪轉恒迷處長夜；",
+    "folio":3,
+    "stemmed":"凡 夫 無 始 積 無 明    輪 轉 恒 迷 處 長 夜  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657a06_17",
+    "original":"唯佛能將正法手，　　慇懃牽使出幽冥。",
+    "folio":3,
+    "stemmed":"唯 佛 能 將 正 法 手    慇 懃 牽 使 出 幽 冥  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657a07_17",
+    "original":"阿僧企耶割跛時，　　常習大悲熏妙智；",
+    "folio":3,
+    "stemmed":"阿 僧 企 耶 割 跛 時    常 習 大 悲 熏 妙 智  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657a08_17",
+    "original":"善能調御巡生界，　　十種大事必須為。",
+    "folio":3,
+    "stemmed":"善 能 調 御 巡 生 界    十 種 大 事 必 須 為  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657a09_17",
+    "original":"所謂授記當來佛，　　留第三分為眾生；",
+    "folio":3,
+    "stemmed":"所 謂 授 記 當 來 佛    留 第 三 分 為 眾 生  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657a10_17",
+    "original":"舍利目連第一雙，　　佛應化者皆自度。",
+    "folio":3,
+    "stemmed":"舍 利 目 連 第 一 雙    佛 應 化 者 皆 自 度  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657a11_17",
+    "original":"結界之事終須作，　　現大神變下天宮；",
+    "folio":3,
+    "stemmed":"結 界 之 事 終 須 作    現 大 神 變 下 天 宮  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657a12_17",
+    "original":"父母獲果說業緣，　　最後涅槃歸命禮。",
+    "folio":3,
+    "stemmed":"父 母 獲 果 說 業 緣    最 後 涅 槃 歸 命 禮  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657a13_17",
+    "original":"敬禮結集諸大德，　　牟尼隱教能彰著；",
+    "folio":3,
+    "stemmed":"敬 禮 結 集 諸 大 德    牟 尼 隱 教 能 彰 著  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657a14_17",
+    "original":"寶舟沈沒重令浮，　　光明普照無邊海。",
+    "folio":3,
+    "stemmed":"寶 舟 沈 沒 重 令 浮    光明普照 無 邊 海  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657a15_17",
+    "original":"亦禮侍者阿難陀，　　聞持善集於經藏；",
+    "folio":3,
+    "stemmed":"亦 禮 侍 者 阿 難 陀    聞 持 善 集 於 經 藏  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657a16_17",
+    "original":"令諸品類生欣樂，　　煩惱繫縛得蠲除。",
+    "folio":3,
+    "stemmed":"令 諸 品 類 生 欣 樂    煩 惱 繫 縛 得 蠲 除  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657a17_17",
+    "original":"次禮聖者鄔波離，　　能正宣通調伏藏；",
+    "folio":3,
+    "stemmed":"次 禮 聖 者 鄔 波 離    能 正 宣 通 調 伏 藏  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657a18_17",
+    "original":"譬如善持明呪者，　　能除惡趣毒蛇王。",
+    "folio":3,
+    "stemmed":"譬 如 善 持 明 呪 者    能 除 惡 趣 毒 蛇 王  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657a19_17",
+    "original":"次禮尊者迦攝波，　　善閑摩窒哩迦藏；",
+    "folio":3,
+    "stemmed":"次 禮 尊 者 迦 攝 波    善 閑 摩 窒 哩 迦 藏  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657a20_17",
+    "original":"於此世間光普照，　　皆令隱義盡敷揚。",
+    "folio":3,
+    "stemmed":"於 此 世 間 光 普 照    皆 令 隱 義 盡 敷 揚  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657a21_17",
+    "original":"次於王城五百眾，　　結集三藏是應人；",
+    "folio":3,
+    "stemmed":"次 於 王 城 五 百 眾    結 集 三 藏 是 應 人  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657a22_17",
+    "original":"重流法雨潤生津，　　我悉至誠歸命禮。",
+    "folio":3,
+    "stemmed":"重 流 法 雨 潤 生 津    我 悉 至 誠 歸 命 禮  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657a23_17",
+    "original":"帝釋天王為上首，　　阿蘇羅眾咸恭敬；",
+    "folio":3,
+    "stemmed":"帝 釋 天 王 為 上 首    阿 蘇 羅 眾 咸 恭 敬  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657a24_17",
+    "original":"遍滿空中悉雲集，　　稽首深心讚希有。",
+    "folio":3,
+    "stemmed":"遍 滿 空 中 悉 雲 集    稽 首 深 心 讚 希 有  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657a25_17",
+    "original":"爾時王舍大城側，　　天香普馥滿山林；",
+    "folio":3,
+    "stemmed":"爾 時 王 舍 大 城 側    天 香 普 馥 滿 山 林  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657a26_17",
+    "original":"諸天婇女散名花，　　流芳下落彌山際。",
+    "folio":3,
+    "stemmed":"諸 天 婇 女 散 名 花    流 芳 下 落 彌 山 際  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657a27_17",
+    "original":"次復於彼廣嚴城，　　獼猴池邊重結集；",
+    "folio":3,
+    "stemmed":"次 復 於 彼 廣 嚴 城    獼 猴 池 邊 重 結 集  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657a28_17",
+    "original":"七百羅漢弘真軌，　　冀令法教得增明。",
+    "folio":3,
+    "stemmed":"七 百 羅 漢 弘 真 軌    冀 令 法 教 得 增 明  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657a29_17",
+    "original":"大哉佛日埋光盡，　　遺餘法寶恐沈輝；",
+    "folio":3,
+    "stemmed":"大 哉 佛 日 埋 光 盡    遺 餘 法 寶 恐 沈 輝  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657b01_17",
+    "original":"幸蒙眾聖結微言，　　得使人天重歸仰。",
+    "folio":3,
+    "stemmed":"幸 蒙 眾 聖 結 微 言    得 使 人 天 重 歸 仰  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657b02_17",
+    "original":"牟尼忘倦久輪迴，　　為求正法於生死；",
+    "folio":3,
+    "stemmed":"牟 尼 忘 倦 久 輪 迴    為 求 正 法 於 生 死  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657b03_17",
+    "original":"願欲濟斯無救者，　　冀令眾苦盡消除。",
+    "folio":3,
+    "stemmed":"願 欲 濟 斯 無 救 者    冀 令 眾 苦 盡 消 除  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657b04_17",
+    "original":"頭目手足咸持施，　　骨肉流血濟求人；",
+    "folio":3,
+    "stemmed":"頭 目 手 足 咸 持 施    骨 肉 流 血 濟 求 人  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657b05_17",
+    "original":"男女愛如初月輪，　　皆隨喜捨歸圓寂。",
+    "folio":3,
+    "stemmed":"男 女 愛 如 初 月 輪    皆 隨 喜 捨 歸 圓 寂  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657b06_17",
+    "original":"大師牟尼所宣說，　　乃至正法未滅來；",
+    "folio":3,
+    "stemmed":"大 師 牟 尼 所 宣 說    乃 至 正 法 未 滅 來  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657b07_17",
+    "original":"應除懈怠斷愚癡，　　至願要心勤策勵。",
+    "folio":3,
+    "stemmed":"應 除 懈 怠 斷 愚 癡    至 願 要 心 勤 策 勵  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657b08_17",
+    "original":"言論佛教言中勝，　　頌陳正法頌中尊；",
+    "folio":3,
+    "stemmed":"言 論 佛 教 言 中 勝    頌 陳 正 法 頌 中 尊  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657b09_17",
+    "original":"我毘舍佉罄微心，　　結頌令生易方便。",
+    "folio":3,
+    "stemmed":"我 毘 舍 佉 罄 微 心    結 頌 令 生 易 方 便  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657b10_17",
+    "original":"若於聖說有增減，　　前後參差乖次第；",
+    "folio":3,
+    "stemmed":"若 於 聖 說 有 增 減    前 後 參 差 乖 次 第  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657b11_17",
+    "original":"願弘見者共相容，　　無目循塗能不失。",
+    "folio":3,
+    "stemmed":"願 弘 見 者 共 相 容    無 目 循 塗 能 不 失  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657b12_17",
+    "original":"我於苾芻調伏教，　　略為少頌收廣文；",
+    "folio":3,
+    "stemmed":"我 於 苾 芻 調 伏 教    略 為 少 頌 收 廣 文  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657b13_17",
+    "original":"願得普共諸群生，　　因此能成福智業。",
+    "folio":3,
+    "stemmed":"願 得 普 共 諸 群 生    因 此 能 成 福 智 業  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657b14_17",
+    "original":"五欲淤泥生厭背，　　恒持淨信作莊嚴；",
+    "folio":3,
+    "stemmed":"五 欲 淤 泥 生 厭 背    恒 持 淨 信 作 莊 嚴  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657b15_17",
+    "original":"生生常得苾芻身，　　堅持佛語窮真際。",
+    "folio":3,
+    "stemmed":"生 生 常 得 苾 芻 身    堅 持 佛 語 窮 真 際  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657b16_17",
+    "original":"若希戒品常清淨，　　無疑正趣涅槃宮；",
+    "folio":3,
+    "stemmed":"若 希 戒 品 常 清 淨    無 疑 正 趣 涅 槃 宮  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657b17_17",
+    "original":"常於略頌憶修行，　　勿慮一生虛命盡。",
+    "folio":3,
+    "stemmed":"常 於 略 頌 憶 修 行    勿 慮 一 生 虛 命 盡  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657b18_0",
+    "original":"乃至世間尚煎生死熱，　　乃至心內恒為染",
+    "folio":3,
+    "stemmed":"乃 至 世 間 尚 煎 生 死 熱    乃 至 心 內 恒 為 染 "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657b19_2",
+    "original":"火燒；",
+    "folio":3,
+    "stemmed":"火 燒  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657b20_5",
+    "original":"大仙等教猶若弶伽流，　　常願久住洗濁無明垢。",
+    "folio":3,
+    "stemmed":"大 仙 等 教 猶 若 弶 伽 流    常 願 久 住 洗 濁 無 明 垢  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657b21_8",
+    "original":"在那爛陀，　　已翻此頌，　　還至都下，重勘踈條。",
+    "folio":3,
+    "stemmed":"在 那 爛 陀    已 翻 此 頌    還 至 都 下  重 勘 踈 條  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657b22_13",
+    "original":"　　所有福因，　　願霑含識，專希解脫，　　早出生津。",
+    "folio":3,
+    "stemmed":"  所 有 福 因    願 霑 含 識  專 希 解 脫    早 出 生 津  "
+  },
+  {
+    "segmentnr":"ZH_T24_1459_003:0657b23_100",
+    "original":"根本說一切有部毘奈耶頌卷下",
+    "folio":3,
+    "stemmed":"根 本 說 一 切 有 部 毘 奈 耶 頌 卷 下 "
+  }
+]

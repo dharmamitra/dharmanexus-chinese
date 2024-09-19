@@ -1,0 +1,5738 @@
+[
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b02_0",
+    "original":"辯偽錄卷第一",
+    "folio":1,
+    "stemmed":"辯 偽 錄 卷 第 一 "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b04_0",
+    "original":"元道者山雲峯禪寺沙門",
+    "folio":1,
+    "stemmed":"元 道 者 山 雲 峯 禪 寺 沙 門 "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b05_0",
+    "original":"祥邁奉　勅實錄撰",
+    "folio":1,
+    "stemmed":"祥 邁 奉  勅 實 錄 撰 "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b06_12",
+    "original":"蓋聞法王御世弘正道以濟時。",
+    "folio":1,
+    "stemmed":"蓋 聞 法 王 御 世 弘 正 道 以 濟 時  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b07_5",
+    "original":"明主臨軒闡皇極而拯物。",
+    "folio":1,
+    "stemmed":"明 主 臨 軒 闡 皇 極 而 拯 物  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b07_14",
+    "original":"剪邪扶正崇德辯惑。",
+    "folio":1,
+    "stemmed":"剪 邪 扶 正 崇 德 辯 惑  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b08_6",
+    "original":"故堯誅四凶而八紘道泰。",
+    "folio":1,
+    "stemmed":"故 堯 誅 四 凶 而 八 紘 道 泰  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b08_16",
+    "original":"佛降六眾而五印歸心。",
+    "folio":1,
+    "stemmed":"佛 降 六 眾 而 五 印 歸 心  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b09_1",
+    "original":"皆所以。",
+    "folio":1,
+    "stemmed":"皆 所 以  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b09_10",
+    "original":"整亂救焚啟迪耳目。",
+    "folio":1,
+    "stemmed":"整 亂 救 焚 啟 迪 耳 目  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b09_19",
+    "original":"夫我佛者功成曩劫。",
+    "folio":1,
+    "stemmed":"夫 我 佛 者 功 成 曩 劫  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b10_4",
+    "original":"為物降靈。",
+    "folio":1,
+    "stemmed":"為 物 降 靈  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b10_9",
+    "original":"無生示生。",
+    "folio":1,
+    "stemmed":"無 生 示 生  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b10_16",
+    "original":"利見大千之土。",
+    "folio":1,
+    "stemmed":"利 見 大 千 之 土  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b11_1",
+    "original":"絕相現相。",
+    "folio":1,
+    "stemmed":"絕 相 現 相  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b11_8",
+    "original":"頓化百億之方。",
+    "folio":1,
+    "stemmed":"頓 化 百 億 之 方  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b11_19",
+    "original":"猶皓月之流空千江普應。",
+    "folio":1,
+    "stemmed":"猶 皓 月 之 流 空 千 江 普 應  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b12_10",
+    "original":"若長風之噫氣萬籟聞聲。",
+    "folio":1,
+    "stemmed":"若 長 風 之 噫 氣 萬 籟 聞 聲  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b13_1",
+    "original":"誘癡子於一極之乘。",
+    "folio":1,
+    "stemmed":"誘 癡 子 於 一 極 之 乘  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b13_10",
+    "original":"引迷途於八正之路。",
+    "folio":1,
+    "stemmed":"引 迷 途 於 八 正 之 路  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b13_17",
+    "original":"拔五濁之熱惱。",
+    "folio":1,
+    "stemmed":"拔 五 濁 之 熱 惱  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b14_5",
+    "original":"撤四倒之樊籠。",
+    "folio":1,
+    "stemmed":"撤 四 倒 之 樊 籠  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b14_12",
+    "original":"指衣下之明珠。",
+    "folio":1,
+    "stemmed":"指 衣 下 之 明 珠  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b14_19",
+    "original":"剖塵中之經卷。",
+    "folio":1,
+    "stemmed":"剖 塵 中 之 經 卷  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b15_6",
+    "original":"破魔軍於道樹。",
+    "folio":1,
+    "stemmed":"破 魔 軍 於 道 樹  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b15_11",
+    "original":"不下廟堂。",
+    "folio":1,
+    "stemmed":"不 下 廟 堂  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b15_18",
+    "original":"摧外道於金河。",
+    "folio":1,
+    "stemmed":"摧 外 道 於 金 河  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b16_3",
+    "original":"折衝無外。",
+    "folio":1,
+    "stemmed":"折 衝 無 外  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b16_8",
+    "original":"恩流萬國。",
+    "folio":1,
+    "stemmed":"恩 流 萬 國  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b16_13",
+    "original":"澤及四生。",
+    "folio":1,
+    "stemmed":"澤 及 四 生  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b17_2",
+    "original":"慈雲蔭有頂之天。",
+    "folio":1,
+    "stemmed":"慈 雲 蔭 有 頂 之 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b17_10",
+    "original":"法雨潤無疆之界。",
+    "folio":1,
+    "stemmed":"法 雨 潤 無 疆 之 界  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b17_19",
+    "original":"群生無感大聖歸真。",
+    "folio":1,
+    "stemmed":"群 生 無 感 大 聖 歸 真  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b18_8",
+    "original":"聖哲繼輝維持玄範。",
+    "folio":1,
+    "stemmed":"聖 哲 繼 輝 維 持 玄 範  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b19_3",
+    "original":"則有馬鳴龍樹恢教網於西天。",
+    "folio":1,
+    "stemmed":"則 有 馬 鳴 龍 樹 恢 教 網 於 西 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b19_14",
+    "original":"提婆愛賢建法幢於南印。",
+    "folio":1,
+    "stemmed":"提 婆 愛 賢 建 法 幢 於 南 印  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b20_3",
+    "original":"世親擅鞭屍之德。",
+    "folio":1,
+    "stemmed":"世 親 擅 鞭 屍 之 德  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b20_11",
+    "original":"陳那騁吼石之奇。",
+    "folio":1,
+    "stemmed":"陳 那 騁 吼 石 之 奇  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b20_18",
+    "original":"挫外道於一時。",
+    "folio":1,
+    "stemmed":"挫 外 道 於 一 時  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b21_5",
+    "original":"播嘉聲於萬古。",
+    "folio":1,
+    "stemmed":"播 嘉 聲 於 萬 古  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b21_16",
+    "original":"洎乎金容東夢玉馬西來。",
+    "folio":1,
+    "stemmed":"洎 乎 金 容 東 夢 玉 馬 西 來  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b22_5",
+    "original":"摩騰顯正於洛陽。",
+    "folio":1,
+    "stemmed":"摩 騰 顯 正 於 洛 陽  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b22_12",
+    "original":"道書咸從火化。",
+    "folio":1,
+    "stemmed":"道 書 咸 從 火 化  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b23_1",
+    "original":"僧融破邪於關內。",
+    "folio":1,
+    "stemmed":"僧 融 破 邪 於 關 內  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b23_8",
+    "original":"梵志結舌無言。",
+    "folio":1,
+    "stemmed":"梵 志 結 舌 無 言  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b23_15",
+    "original":"懸佛日於昏衢。",
+    "folio":1,
+    "stemmed":"懸 佛 日 於 昏 衢  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b24_2",
+    "original":"扇慈風於寰㝢。",
+    "folio":1,
+    "stemmed":"扇 慈 風 於 寰 㝢  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b24_11",
+    "original":"英髦接武俊彥聯芳。",
+    "folio":1,
+    "stemmed":"英 髦 接 武 俊 彥 聯 芳  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b25_2",
+    "original":"故有大統齊法上法師多能。",
+    "folio":1,
+    "stemmed":"故 有 大 統 齊 法 上 法 師 多 能  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b25_9",
+    "original":"折姜斌於魏闕。",
+    "folio":1,
+    "stemmed":"折 姜 斌 於 魏 闕  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b25_14",
+    "original":"法琳博物。",
+    "folio":1,
+    "stemmed":"法 琳 博 物  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b26_2",
+    "original":"排傅弈於唐朝。",
+    "folio":1,
+    "stemmed":"排 傅 弈 於 唐 朝  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b26_9",
+    "original":"騰盛德於當時。",
+    "folio":1,
+    "stemmed":"騰 盛 德 於 當 時  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b26_16",
+    "original":"震佳聲於叔世。",
+    "folio":1,
+    "stemmed":"震 佳 聲 於 叔 世  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b27_8",
+    "original":"但以去聖逾遠魔偽逼真。",
+    "folio":1,
+    "stemmed":"但 以 去 聖 逾 遠 魔 偽 逼 真  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b27_17",
+    "original":"紫實亂朱珉常混玉。",
+    "folio":1,
+    "stemmed":"紫 實 亂 朱 珉 常 混 玉  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b28_7",
+    "original":"自非上智疇克考明。",
+    "folio":1,
+    "stemmed":"自 非 上 智 疇 克 考 明  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b28_14",
+    "original":"所以鼠璞濫名。",
+    "folio":1,
+    "stemmed":"所 以 鼠 璞 濫 名  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b29_2",
+    "original":"周人一其貴賤。",
+    "folio":1,
+    "stemmed":"周 人 一 其 貴 賤  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b29_7",
+    "original":"鷄鳳殊狀。",
+    "folio":1,
+    "stemmed":"鷄 鳳 殊 狀  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752b29_14",
+    "original":"楚俗迷其是非。",
+    "folio":1,
+    "stemmed":"楚 俗 迷 其 是 非  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c01_1",
+    "original":"故有守文曲流。",
+    "folio":1,
+    "stemmed":"故 有 守 文 曲 流  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c01_8",
+    "original":"拒為異端之說。",
+    "folio":1,
+    "stemmed":"拒 為 異 端 之 說  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c01_13",
+    "original":"巧言邪道。",
+    "folio":1,
+    "stemmed":"巧 言 邪 道  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c02_1",
+    "original":"引為同己之談。",
+    "folio":1,
+    "stemmed":"引 為 同 己 之 談  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c02_10",
+    "original":"雖至道無損於毫釐。",
+    "folio":1,
+    "stemmed":"雖 至 道 無 損 於 毫 釐  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c02_19",
+    "original":"而偽說有塵於視聽。",
+    "folio":1,
+    "stemmed":"而 偽 說 有 塵 於 視 聽  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c03_7",
+    "original":"此幽途所以易墜。",
+    "folio":1,
+    "stemmed":"此 幽 途 所 以 易 墜  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c03_16",
+    "original":"聖門所以難涉者也。",
+    "folio":1,
+    "stemmed":"聖 門 所 以 難 涉 者 也  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c04_5",
+    "original":"我元之有天下也。",
+    "folio":1,
+    "stemmed":"我 元 之 有 天 下 也  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c04_14",
+    "original":"慶叶金輪禎符玉曆。",
+    "folio":1,
+    "stemmed":"慶 叶 金 輪 禎 符 玉 曆  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c05_2",
+    "original":"掩六合而光宅。",
+    "folio":1,
+    "stemmed":"掩 六 合 而 光 宅  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c05_9",
+    "original":"統萬國以提封。",
+    "folio":1,
+    "stemmed":"統 萬 國 以 提 封  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c05_18",
+    "original":"東盡蟠桃西窮細柳。",
+    "folio":1,
+    "stemmed":"東 盡 蟠 桃 西 窮 細 柳  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c06_7",
+    "original":"南移金鼎北抵玉衡。",
+    "folio":1,
+    "stemmed":"南 移 金 鼎 北 抵 玉 衡  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c07_3",
+    "original":"自尊盧赫胥以來秦漢隋唐之後。",
+    "folio":1,
+    "stemmed":"自 尊 盧 赫 胥 以 來 秦 漢 隋 唐 之 後  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c07_13",
+    "original":"未有如今朝之盛者也。",
+    "folio":1,
+    "stemmed":"未 有 如 今 朝 之 盛 者 也  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c08_5",
+    "original":"太祖太宗頒明詔而匡護。",
+    "folio":1,
+    "stemmed":"太 祖 太 宗 頒 明 詔 而 匡 護  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c08_16",
+    "original":"元帝明帝捨金寶而修崇。",
+    "folio":1,
+    "stemmed":"元 帝 明 帝 捨 金 寶 而 修 崇  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c09_4",
+    "original":"咸思付囑之心。",
+    "folio":1,
+    "stemmed":"咸 思 付 囑 之 心  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c09_11",
+    "original":"共仰慈悲之訓。",
+    "folio":1,
+    "stemmed":"共 仰 慈 悲 之 訓  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c10_1",
+    "original":"免其賦役展其化風。",
+    "folio":1,
+    "stemmed":"免 其 賦 役 展 其 化 風  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c10_6",
+    "original":"今上皇帝。",
+    "folio":1,
+    "stemmed":"今 上 皇 帝  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c10_15",
+    "original":"深仁睿智體道寬明。",
+    "folio":1,
+    "stemmed":"深 仁 睿 智 體 道 寬 明  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c11_3",
+    "original":"荷四聖之雄基。",
+    "folio":1,
+    "stemmed":"荷 四 聖 之 雄 基  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c11_10",
+    "original":"纂百王之洪烈。",
+    "folio":1,
+    "stemmed":"纂 百 王 之 洪 烈  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c11_19",
+    "original":"萬機之暇眷顧佛門。",
+    "folio":1,
+    "stemmed":"萬 機 之 暇 眷 顧 佛 門  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c12_7",
+    "original":"諷百千藏之金文。",
+    "folio":1,
+    "stemmed":"諷 百 千 藏 之 金 文  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c12_15",
+    "original":"延數萬僧之勝會。",
+    "folio":1,
+    "stemmed":"延 數 萬 僧 之 勝 會  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c13_5",
+    "original":"植福覺苑修建伽藍。",
+    "folio":1,
+    "stemmed":"植 福 覺 苑 修 建 伽 藍  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c13_14",
+    "original":"政尚寬仁澤及黎庶。",
+    "folio":1,
+    "stemmed":"政 尚 寬 仁 澤 及 黎 庶  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c14_4",
+    "original":"搜揚仄陋黜陟賢愚。",
+    "folio":1,
+    "stemmed":"搜 揚 仄 陋 黜 陟 賢 愚  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c14_11",
+    "original":"明釋道之淺深。",
+    "folio":1,
+    "stemmed":"明 釋 道 之 淺 深  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c14_18",
+    "original":"達邪正之優劣。",
+    "folio":1,
+    "stemmed":"達 邪 正 之 優 劣  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c15_7",
+    "original":"道士無識蔑視國家。",
+    "folio":1,
+    "stemmed":"道 士 無 識 蔑 視 國 家  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c15_14",
+    "original":"欺以朔方之居。",
+    "folio":1,
+    "stemmed":"欺 以 朔 方 之 居  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c16_2",
+    "original":"肆其私臆之辯。",
+    "folio":1,
+    "stemmed":"肆 其 私 臆 之 辯  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c16_10",
+    "original":"丘處機妄言諂上。",
+    "folio":1,
+    "stemmed":"丘 處 機 妄 言 諂 上  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c16_18",
+    "original":"李志常矯飾媚時。",
+    "folio":1,
+    "stemmed":"李 志 常 矯 飾 媚 時  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c17_5",
+    "original":"萃逋役之罪徒。",
+    "folio":1,
+    "stemmed":"萃 逋 役 之 罪 徒  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c17_12",
+    "original":"集排釋之偽典。",
+    "folio":1,
+    "stemmed":"集 排 釋 之 偽 典  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c18_1",
+    "original":"令狐璋首編妄說。",
+    "folio":1,
+    "stemmed":"令 狐 璋 首 編 妄 說  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c18_9",
+    "original":"史志經又廣邪文。",
+    "folio":1,
+    "stemmed":"史 志 經 又 廣 邪 文  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c18_17",
+    "original":"效如來八十二龕。",
+    "folio":1,
+    "stemmed":"效 如 來 八 十 二 龕  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c19_5",
+    "original":"集老子八十一化。",
+    "folio":1,
+    "stemmed":"集 老 子 八 十 一 化  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c19_14",
+    "original":"古今不辯經史匪通。",
+    "folio":1,
+    "stemmed":"古 今 不 辯 經 史 匪 通  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c20_4",
+    "original":"攘竊佛書收為道教。",
+    "folio":1,
+    "stemmed":"攘 竊 佛 書 收 為 道 教  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c20_12",
+    "original":"採釋瑞而為老瑞。",
+    "folio":1,
+    "stemmed":"採 釋 瑞 而 為 老 瑞  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c21_6",
+    "original":"換姓安名改迦祥而作老祥。",
+    "folio":1,
+    "stemmed":"換 姓 安 名 改 迦 祥 而 作 老 祥  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c21_11",
+    "original":"擅為己德。",
+    "folio":1,
+    "stemmed":"擅 為 己 德  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c21_16",
+    "original":"偽中生偽。",
+    "folio":1,
+    "stemmed":"偽 中 生 偽  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c22_2",
+    "original":"虛上架虛。",
+    "folio":1,
+    "stemmed":"虛 上 架 虛  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c22_12",
+    "original":"張李聃出於空洞之前。",
+    "folio":1,
+    "stemmed":"張 李 聃 出 於 空 洞 之 前  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c23_3",
+    "original":"屈迦文降於周莊之代。",
+    "folio":1,
+    "stemmed":"屈 迦 文 降 於 周 莊 之 代  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c23_12",
+    "original":"立傳圖像行板流通。",
+    "folio":1,
+    "stemmed":"立 傳 圖 像 行 板 流 通  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c23_18",
+    "original":"俾尹喜作佛。",
+    "folio":1,
+    "stemmed":"俾 尹 喜 作 佛  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c24_7",
+    "original":"尊老聃為釋迦之祖。",
+    "folio":1,
+    "stemmed":"尊 老 聃 為 釋 迦 之 祖  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c24_12",
+    "original":"伏犧授訓。",
+    "folio":1,
+    "stemmed":"伏 犧 授 訓  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c25_2",
+    "original":"高伯陽為犧農之師。",
+    "folio":1,
+    "stemmed":"高 伯 陽 為 犧 農 之 師  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c25_10",
+    "original":"軒皇問道於廣成。",
+    "folio":1,
+    "stemmed":"軒 皇 問 道 於 廣 成  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c25_15",
+    "original":"認為老子。",
+    "folio":1,
+    "stemmed":"認 為 老 子  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c26_4",
+    "original":"文王師承於呂望。",
+    "folio":1,
+    "stemmed":"文 王 師 承 於 呂 望  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c26_9",
+    "original":"紐為老君。",
+    "folio":1,
+    "stemmed":"紐 為 老 君  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c27_18",
+    "original":"周公屈膝於床前老子教以璇璣經孔子厥角於座下問禮滅三教而獨顯。",
+    "folio":1,
+    "stemmed":"周 公 屈 膝 於 床 前 老 子 教 以 璇 璣 經 孔 子 厥 角 於 座 下 問 禮 滅 三 教 而 獨 顯  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c28_4",
+    "original":"超千聖以居尊。",
+    "folio":1,
+    "stemmed":"超 千 聖 以 居 尊  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c28_11",
+    "original":"孤高五運之前。",
+    "folio":1,
+    "stemmed":"孤 高 五 運 之 前  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c28_18",
+    "original":"作師百代之下。",
+    "folio":1,
+    "stemmed":"作 師 百 代 之 下  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c29_7",
+    "original":"域中獨聖更有誰何。",
+    "folio":1,
+    "stemmed":"域 中 獨 聖 更 有 誰 何  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0752c29_16",
+    "original":"巧飾百端了無一實。",
+    "folio":1,
+    "stemmed":"巧 飾 百 端 了 無 一 實  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a01_2",
+    "original":"詳此圖也。",
+    "folio":1,
+    "stemmed":"詳 此 圖 也  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a01_13",
+    "original":"意欲剪除百氏獨擅一宗。",
+    "folio":1,
+    "stemmed":"意 欲 剪 除 百 氏 獨 擅 一 宗  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a02_1",
+    "original":"掩犧軒之聖功。",
+    "folio":1,
+    "stemmed":"掩 犧 軒 之 聖 功  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a02_8",
+    "original":"滅釋孔之洪範。",
+    "folio":1,
+    "stemmed":"滅 釋 孔 之 洪 範  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a02_17",
+    "original":"元惡大憝世人不知。",
+    "folio":1,
+    "stemmed":"元 惡 大 憝 世 人 不 知  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a03_6",
+    "original":"雖有窮之亂夏政。",
+    "folio":1,
+    "stemmed":"雖 有 窮 之 亂 夏 政  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a03_13",
+    "original":"王莽之欺漢庭。",
+    "folio":1,
+    "stemmed":"王 莽 之 欺 漢 庭  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a03_18",
+    "original":"未足過也。",
+    "folio":1,
+    "stemmed":"未 足 過 也  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a04_9",
+    "original":"若非主上明聖朗鑒無惑。",
+    "folio":1,
+    "stemmed":"若 非 主 上 明 聖 朗 鑒 無 惑  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a05_2",
+    "original":"孰能察辯真偽目識是非。",
+    "folio":1,
+    "stemmed":"孰 能 察 辯 真 偽 目 識 是 非  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a05_13",
+    "original":"由是特下明詔揀定虛實。",
+    "folio":1,
+    "stemmed":"由 是 特 下 明 詔 揀 定 虛 實  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a06_3",
+    "original":"萬載凶栽一時而拔。",
+    "folio":1,
+    "stemmed":"萬 載 凶 栽 一 時 而 拔  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a06_15",
+    "original":"爰有典教宗師少林和尚者。",
+    "folio":1,
+    "stemmed":"爰 有 典 教 宗 師 少 林 和 尚 者  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a07_5",
+    "original":"祖庭柱礎梵宇棟梁。",
+    "folio":1,
+    "stemmed":"祖 庭 柱 礎 梵 宇 棟 梁  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a07_12",
+    "original":"心質直而無私。",
+    "folio":1,
+    "stemmed":"心 質 直 而 無 私  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a07_19",
+    "original":"性淵澄而深博。",
+    "folio":1,
+    "stemmed":"性 淵 澄 而 深 博  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a08_8",
+    "original":"愍其愚瞽蕩彼迷封。",
+    "folio":1,
+    "stemmed":"愍 其 愚 瞽 蕩 彼 迷 封  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a08_15",
+    "original":"掃妖祲於長空。",
+    "folio":1,
+    "stemmed":"掃 妖 祲 於 長 空  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a09_3",
+    "original":"揭佛日而高朗。",
+    "folio":1,
+    "stemmed":"揭 佛 日 而 高 朗  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a09_14",
+    "original":"祥邁側聞斯論不可惜言。",
+    "folio":1,
+    "stemmed":"祥 邁 側 聞 斯 論 不 可 惜 言  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a10_2",
+    "original":"嘉聖主之神聰。",
+    "folio":1,
+    "stemmed":"嘉 聖 主 之 神 聰  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a10_9",
+    "original":"美少林之雅對。",
+    "folio":1,
+    "stemmed":"美 少 林 之 雅 對  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a10_18",
+    "original":"聊憑正典斥破狂談。",
+    "folio":1,
+    "stemmed":"聊 憑 正 典 斥 破 狂 談  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a11_5",
+    "original":"塞妄說之根源。",
+    "folio":1,
+    "stemmed":"塞 妄 說 之 根 源  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a11_12",
+    "original":"倒邪山之林藪。",
+    "folio":1,
+    "stemmed":"倒 邪 山 之 林 藪  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a12_6",
+    "original":"使大羅玉帝魂驚於九天之中。",
+    "folio":1,
+    "stemmed":"使 大 羅 玉 帝 魂 驚 於 九 天 之 中  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a12_18",
+    "original":"元始天尊膽落於三清之上。",
+    "folio":1,
+    "stemmed":"元 始 天 尊 膽 落 於 三 清 之 上  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a13_8",
+    "original":"萬天教主羞𧹞難伸。",
+    "folio":1,
+    "stemmed":"萬 天 教 主 羞 𧹞 難 伸  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a13_17",
+    "original":"九府洞仙慚惶無地。",
+    "folio":1,
+    "stemmed":"九 府 洞 仙 慚 惶 無 地  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a14_7",
+    "original":"且條數件舉一例餘。",
+    "folio":1,
+    "stemmed":"且 條 數 件 舉 一 例 餘  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a14_18",
+    "original":"俾夫金鍮各色涇渭分流。",
+    "folio":1,
+    "stemmed":"俾 夫 金 鍮 各 色 涇 渭 分 流  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a15_4",
+    "original":"玉液澆腸。",
+    "folio":1,
+    "stemmed":"玉 液 澆 腸  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a15_11",
+    "original":"使迷涎而蕩散。",
+    "folio":1,
+    "stemmed":"使 迷 涎 而 蕩 散  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a15_16",
+    "original":"金󰝨刮瞙。",
+    "folio":1,
+    "stemmed":"金  刮 瞙  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a16_4",
+    "original":"令智眼以分明。",
+    "folio":1,
+    "stemmed":"令 智 眼 以 分 明  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a16_11",
+    "original":"為暗室之夜光。",
+    "folio":1,
+    "stemmed":"為 暗 室 之 夜 光  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a16_18",
+    "original":"作幽衢之曉鏡。",
+    "folio":1,
+    "stemmed":"作 幽 衢 之 曉 鏡  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a17_7",
+    "original":"通明達士知此道焉。",
+    "folio":1,
+    "stemmed":"通 明 達 士 知 此 道 焉  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a18_6",
+    "original":"至元二年歲次旃蒙龍集星紀陽復之月。",
+    "folio":1,
+    "stemmed":"至 元 二 年 歲 次 旃 蒙 龍 集 星 紀 陽 復 之 月  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a18_14",
+    "original":"絕筆於萬壽蘭若。",
+    "folio":1,
+    "stemmed":"絕 筆 於 萬 壽 蘭 若  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a20_4",
+    "original":"1 妄立天尊偽妄立天尊偽第一第一化云。",
+    "folio":1,
+    "stemmed":"1   妄 立 天 尊 偽 妄 立 天 尊 偽 第 一 第 一 化 云  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a20_12",
+    "original":"道者萬化之父母。",
+    "folio":1,
+    "stemmed":"道 者 萬 化 之 父 母  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a20_18",
+    "original":"自然之極尊。",
+    "folio":1,
+    "stemmed":"自 然 之 極 尊  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a21_11",
+    "original":"於此幽玄微妙之中而生空洞。",
+    "folio":1,
+    "stemmed":"於 此 幽 玄 微 妙 之 中 而 生 空 洞  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a21_18",
+    "original":"空洞者真一也。",
+    "folio":1,
+    "stemmed":"空 洞 者 真 一 也  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a22_8",
+    "original":"真一之氣化生之後。",
+    "folio":1,
+    "stemmed":"真 一 之 氣 化 生 之 後  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a23_2",
+    "original":"歷九十九萬億九十九萬歲。",
+    "folio":1,
+    "stemmed":"歷 九 十 九 萬 億 九 十 九 萬 歲  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a23_9",
+    "original":"乃化生上三氣。",
+    "folio":1,
+    "stemmed":"乃 化 生 上 三 氣  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a24_5",
+    "original":"三氣相去九十九萬億九十九萬歲。",
+    "folio":1,
+    "stemmed":"三 氣 相 去 九 十 九 萬 億 九 十 九 萬 歲  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a24_14",
+    "original":"三合成德共生無上。",
+    "folio":1,
+    "stemmed":"三 合 成 德 共 生 無 上  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a25_1",
+    "original":"乃虛皇天尊。",
+    "folio":1,
+    "stemmed":"乃 虛 皇 天 尊  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a25_8",
+    "original":"又歷如上歲數。",
+    "folio":1,
+    "stemmed":"又 歷 如 上 歲 數  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a25_14",
+    "original":"乃生中三氣。",
+    "folio":1,
+    "stemmed":"乃 生 中 三 氣  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a26_4",
+    "original":"三合成德乃生玄老。",
+    "folio":1,
+    "stemmed":"三 合 成 德 乃 生 玄 老  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a26_11",
+    "original":"即元始天尊也。",
+    "folio":1,
+    "stemmed":"即 元 始 天 尊 也  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a26_18",
+    "original":"又歷如上歲數。",
+    "folio":1,
+    "stemmed":"又 歷 如 上 歲 數  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a27_4",
+    "original":"乃生下三氣。",
+    "folio":1,
+    "stemmed":"乃 生 下 三 氣  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a27_13",
+    "original":"三合成德共生太上。",
+    "folio":1,
+    "stemmed":"三 合 成 德 共 生 太 上  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a28_1",
+    "original":"即太上道君也。",
+    "folio":1,
+    "stemmed":"即 太 上 道 君 也  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a28_11",
+    "original":"自後又一氣復生三氣。",
+    "folio":1,
+    "stemmed":"自 後 又 一 氣 復 生 三 氣  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a29_7",
+    "original":"每氣相去八十一萬億八十一萬歲。",
+    "folio":1,
+    "stemmed":"每 氣 相 去 八 十 一 萬 億 八 十 一 萬 歲  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753a29_17",
+    "original":"三合成德共生李老君。",
+    "folio":1,
+    "stemmed":"三 合 成 德 共 生 李 老 君  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b01_8",
+    "original":"雖四聖相次各不相因。",
+    "folio":1,
+    "stemmed":"雖 四 聖 相 次 各 不 相 因  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b01_13",
+    "original":"謂之獨化。",
+    "folio":1,
+    "stemmed":"謂 之 獨 化  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b02_3",
+    "original":"老君生後乃生五運。",
+    "folio":1,
+    "stemmed":"老 君 生 後 乃 生 五 運  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b02_15",
+    "original":"謂太易太初太始太素太極。",
+    "folio":1,
+    "stemmed":"謂 太 易 太 初 太 始 太 素 太 極  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b03_1",
+    "original":"第五化云。",
+    "folio":1,
+    "stemmed":"第 五 化 云  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b03_9",
+    "original":"老君混沌之祖宗。",
+    "folio":1,
+    "stemmed":"老 君 混 沌 之 祖 宗  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b03_15",
+    "original":"天地之父母。",
+    "folio":1,
+    "stemmed":"天 地 之 父 母  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b04_6",
+    "original":"故能分布清濁開闢乾坤。",
+    "folio":1,
+    "stemmed":"故 能 分 布 清 濁 開 闢 乾 坤  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b05_2",
+    "original":"辯曰。",
+    "folio":1,
+    "stemmed":"辯 曰  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b05_11",
+    "original":"蓋聞龍圖鳥篆之文。",
+    "folio":1,
+    "stemmed":"蓋 聞 龍 圖 鳥 篆 之 文  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b05_18",
+    "original":"龜書科斗之典。",
+    "folio":1,
+    "stemmed":"龜 書 科 斗 之 典  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b06_5",
+    "original":"玉版玉諜之記。",
+    "folio":1,
+    "stemmed":"玉 版 玉 諜 之 記  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b06_12",
+    "original":"金縢金匱之書。",
+    "folio":1,
+    "stemmed":"金 縢 金 匱 之 書  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b06_19",
+    "original":"秦漢魏晉之章。",
+    "folio":1,
+    "stemmed":"秦 漢 魏 晉 之 章  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b07_6",
+    "original":"宋齊梁陳之簡。",
+    "folio":1,
+    "stemmed":"宋 齊 梁 陳 之 簡  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b07_15",
+    "original":"記事記史直筆直言。",
+    "folio":1,
+    "stemmed":"記 事 記 史 直 筆 直 言  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b08_3",
+    "original":"靡覩虛皇之名。",
+    "folio":1,
+    "stemmed":"靡 覩 虛 皇 之 名  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b08_10",
+    "original":"不聞元始之號。",
+    "folio":1,
+    "stemmed":"不 聞 元 始 之 號  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b08_17",
+    "original":"安有手執玉圭。",
+    "folio":1,
+    "stemmed":"安 有 手 執 玉 圭  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b09_2",
+    "original":"身掛黃褐。",
+    "folio":1,
+    "stemmed":"身 掛 黃 褐  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b09_7",
+    "original":"頂垂皓髮。",
+    "folio":1,
+    "stemmed":"頂 垂 皓 髮  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b09_12",
+    "original":"頭戴金冠。",
+    "folio":1,
+    "stemmed":"頭 戴 金 冠  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b09_17",
+    "original":"別號天尊。",
+    "folio":1,
+    "stemmed":"別 號 天 尊  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b10_4",
+    "original":"高拱三清之上。",
+    "folio":1,
+    "stemmed":"高 拱 三 清 之 上  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b10_9",
+    "original":"獨稱教主。",
+    "folio":1,
+    "stemmed":"獨 稱 教 主  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b10_16",
+    "original":"統御九華之宮。",
+    "folio":1,
+    "stemmed":"統 御 九 華 之 宮  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b11_4",
+    "original":"縱有天尊之名。",
+    "folio":1,
+    "stemmed":"縱 有 天 尊 之 名  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b11_11",
+    "original":"並是偷竊佛語。",
+    "folio":1,
+    "stemmed":"並 是 偷 竊 佛 語  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b12_1",
+    "original":"古經稱佛名為天尊。",
+    "folio":1,
+    "stemmed":"古 經 稱 佛 名 為 天 尊  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b12_8",
+    "original":"不關道君之事。",
+    "folio":1,
+    "stemmed":"不 關 道 君 之 事  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b12_17",
+    "original":"竊他美稱妄自尊嚴。",
+    "folio":1,
+    "stemmed":"竊 他 美 稱 妄 自 尊 嚴  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b13_6",
+    "original":"取信通人斯言謬矣。",
+    "folio":1,
+    "stemmed":"取 信 通 人 斯 言 謬 矣  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b13_17",
+    "original":"案列子及易鉤命訣皆云。",
+    "folio":1,
+    "stemmed":"案 列 子 及 易 鉤 命 訣 皆 云  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b14_8",
+    "original":"天地未生之前有太易。",
+    "folio":1,
+    "stemmed":"天 地 未 生 之 前 有 太 易  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b14_12",
+    "original":"有太初。",
+    "folio":1,
+    "stemmed":"有 太 初  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b14_16",
+    "original":"有太始。",
+    "folio":1,
+    "stemmed":"有 太 始  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b15_1",
+    "original":"有太素。",
+    "folio":1,
+    "stemmed":"有 太 素  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b15_5",
+    "original":"有太極。",
+    "folio":1,
+    "stemmed":"有 太 極  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b15_10",
+    "original":"說者咸云。",
+    "folio":1,
+    "stemmed":"說 者 咸 云  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b15_18",
+    "original":"太易者未見氣也。",
+    "folio":1,
+    "stemmed":"太 易 者 未 見 氣 也  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b16_6",
+    "original":"太初者氣之始也。",
+    "folio":1,
+    "stemmed":"太 初 者 氣 之 始 也  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b16_14",
+    "original":"太始者形之始也。",
+    "folio":1,
+    "stemmed":"太 始 者 形 之 始 也  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b17_3",
+    "original":"太素者質之始也。",
+    "folio":1,
+    "stemmed":"太 素 者 質 之 始 也  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b17_16",
+    "original":"太極者質形已具混沌未分也。",
+    "folio":1,
+    "stemmed":"太 極 者 質 形 已 具 混 沌 未 分 也  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b18_6",
+    "original":"太極之後乃生兩儀。",
+    "folio":1,
+    "stemmed":"太 極 之 後 乃 生 兩 儀  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b18_11",
+    "original":"謂之天地。",
+    "folio":1,
+    "stemmed":"謂 之 天 地  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b18_17",
+    "original":"夫名從實生。",
+    "folio":1,
+    "stemmed":"夫 名 從 實 生  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b19_2",
+    "original":"實從名起。",
+    "folio":1,
+    "stemmed":"實 從 名 起  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b19_7",
+    "original":"名實既著。",
+    "folio":1,
+    "stemmed":"名 實 既 著  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b19_12",
+    "original":"其道乃行。",
+    "folio":1,
+    "stemmed":"其 道 乃 行  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b20_1",
+    "original":"太易之前杳然空洞。",
+    "folio":1,
+    "stemmed":"太 易 之 前 杳 然 空 洞  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b20_10",
+    "original":"溟溟漠漠本絕音容。",
+    "folio":1,
+    "stemmed":"溟 溟 漠 漠 本 絕 音 容  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b20_15",
+    "original":"何得謾張。",
+    "folio":1,
+    "stemmed":"何 得 謾 張  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b21_3",
+    "original":"九氣妄生四人。",
+    "folio":1,
+    "stemmed":"九 氣 妄 生 四 人  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b21_8",
+    "original":"虛上生虛。",
+    "folio":1,
+    "stemmed":"虛 上 生 虛  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b21_15",
+    "original":"似敲空而求響。",
+    "folio":1,
+    "stemmed":"似 敲 空 而 求 響  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b22_1",
+    "original":"偽中起偽。",
+    "folio":1,
+    "stemmed":"偽 中 起 偽  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b22_8",
+    "original":"如趁影之尋蹤。",
+    "folio":1,
+    "stemmed":"如 趁 影 之 尋 蹤  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b22_12",
+    "original":"豈不思。",
+    "folio":1,
+    "stemmed":"豈 不 思  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b23_1",
+    "original":"既立其名須有其體。",
+    "folio":1,
+    "stemmed":"既 立 其 名 須 有 其 體  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b23_10",
+    "original":"既立其體須有氏族。",
+    "folio":1,
+    "stemmed":"既 立 其 體 須 有 氏 族  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b24_2",
+    "original":"且道虛皇元始誰人所生。",
+    "folio":1,
+    "stemmed":"且 道 虛 皇 元 始 誰 人 所 生  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b24_11",
+    "original":"氏族何起居在何處。",
+    "folio":1,
+    "stemmed":"氏 族 何 起 居 在 何 處  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b25_1",
+    "original":"若有源系出在何書。",
+    "folio":1,
+    "stemmed":"若 有 源 系 出 在 何 書  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b25_10",
+    "original":"若無來由即是虛設。",
+    "folio":1,
+    "stemmed":"若 無 來 由 即 是 虛 設  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b26_1",
+    "original":"又空洞之前本無歲數。",
+    "folio":1,
+    "stemmed":"又 空 洞 之 前 本 無 歲 數  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b26_10",
+    "original":"今標歲數愈見虛張。",
+    "folio":1,
+    "stemmed":"今 標 歲 數 愈 見 虛 張  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b26_18",
+    "original":"蓋數目起於伏犧。",
+    "folio":1,
+    "stemmed":"蓋 數 目 起 於 伏 犧  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b27_5",
+    "original":"甲子唱乎黃帝。",
+    "folio":1,
+    "stemmed":"甲 子 唱 乎 黃 帝  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b27_14",
+    "original":"將今記古顛倒何多。",
+    "folio":1,
+    "stemmed":"將 今 記 古 顛 倒 何 多  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b28_9",
+    "original":"且上之三尊為有形耶為無形耶。",
+    "folio":1,
+    "stemmed":"且 上 之 三 尊 為 有 形 耶 為 無 形 耶  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b28_14",
+    "original":"若是有形。",
+    "folio":1,
+    "stemmed":"若 是 有 形  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b29_2",
+    "original":"不在太易之上。",
+    "folio":1,
+    "stemmed":"不 在 太 易 之 上  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753b29_9",
+    "original":"爰從父母而生。",
+    "folio":1,
+    "stemmed":"爰 從 父 母 而 生  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c01_1",
+    "original":"須有年代時處姓氏名字。",
+    "folio":1,
+    "stemmed":"須 有 年 代 時 處 姓 氏 名 字  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c01_10",
+    "original":"前云三氣共德而生。",
+    "folio":1,
+    "stemmed":"前 云 三 氣 共 德 而 生  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c01_17",
+    "original":"則是以氣生氣。",
+    "folio":1,
+    "stemmed":"則 是 以 氣 生 氣  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c02_3",
+    "original":"與氣不殊。",
+    "folio":1,
+    "stemmed":"與 氣 不 殊  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c02_8",
+    "original":"何有形名。",
+    "folio":1,
+    "stemmed":"何 有 形 名  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c02_13",
+    "original":"若是無形。",
+    "folio":1,
+    "stemmed":"若 是 無 形  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c03_4",
+    "original":"本無名位下第七化乃云。",
+    "folio":1,
+    "stemmed":"本 無 名 位 下 第 七 化 乃 云  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c04_2",
+    "original":"老君以上皇元年九月二日出遊西河。",
+    "folio":1,
+    "stemmed":"老 君 以 上 皇 元 年 九 月 二 日 出 遊 西 河  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c04_18",
+    "original":"遇元始天尊乘八景玉輿駕九色玄龍。",
+    "folio":1,
+    "stemmed":"遇 元 始 天 尊 乘 八 景 玉 輿 駕 九 色 玄 龍  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c05_8",
+    "original":"群仙導從手把華旛。",
+    "folio":1,
+    "stemmed":"群 仙 導 從 手 把 華 旛  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c05_17",
+    "original":"獅子白鶴嘯歌嗈嗈。",
+    "folio":1,
+    "stemmed":"獅 子 白 鶴 嘯 歌 嗈 嗈  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c06_5",
+    "original":"同會西河之上。",
+    "folio":1,
+    "stemmed":"同 會 西 河 之 上  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c06_13",
+    "original":"授老君洞玄玉符。",
+    "folio":1,
+    "stemmed":"授 老 君 洞 玄 玉 符  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c06_18",
+    "original":"此是誰耶。",
+    "folio":1,
+    "stemmed":"此 是 誰 耶  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c07_7",
+    "original":"進退兩求並無準的。",
+    "folio":1,
+    "stemmed":"進 退 兩 求 並 無 準 的  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c07_18",
+    "original":"則知海棗虛談有名無實。",
+    "folio":1,
+    "stemmed":"則 知 海 棗 虛 談 有 名 無 實  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c08_8",
+    "original":"彫氷鏤雪枉廢詞章。",
+    "folio":1,
+    "stemmed":"彫 氷 鏤 雪 枉 廢 詞 章  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c08_15",
+    "original":"山海之所不收。",
+    "folio":1,
+    "stemmed":"山 海 之 所 不 收  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c09_3",
+    "original":"大荒之所不載。",
+    "folio":1,
+    "stemmed":"大 荒 之 所 不 載  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c09_12",
+    "original":"庸愚巧飾何足信哉。",
+    "folio":1,
+    "stemmed":"庸 愚 巧 飾 何 足 信 哉  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c10_1",
+    "original":"老君衰周之柱史。",
+    "folio":1,
+    "stemmed":"老 君 衰 周 之 柱 史  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c10_9",
+    "original":"誑云混沌之祖宗。",
+    "folio":1,
+    "stemmed":"誑 云 混 沌 之 祖 宗  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c10_17",
+    "original":"避周亂而過函關。",
+    "folio":1,
+    "stemmed":"避 周 亂 而 過 函 關  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c11_5",
+    "original":"妄云天地之父母。",
+    "folio":1,
+    "stemmed":"妄 云 天 地 之 父 母  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c11_12",
+    "original":"既自語之相戾。",
+    "folio":1,
+    "stemmed":"既 自 語 之 相 戾  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c11_19",
+    "original":"何函矢之相攻。",
+    "folio":1,
+    "stemmed":"何 函 矢 之 相 攻  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c12_8",
+    "original":"掩耳偷鈴欲隱彌露。",
+    "folio":1,
+    "stemmed":"掩 耳 偷 鈴 欲 隱 彌 露  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c12_13",
+    "original":"道德章云。",
+    "folio":1,
+    "stemmed":"道 德 章 云  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c12_18",
+    "original":"吾有三寶。",
+    "folio":1,
+    "stemmed":"吾 有 三 寶  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c13_3",
+    "original":"寶而持之。",
+    "folio":1,
+    "stemmed":"寶 而 持 之  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c13_7",
+    "original":"一曰慈。",
+    "folio":1,
+    "stemmed":"一 曰 慈  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c13_11",
+    "original":"二曰儉。",
+    "folio":1,
+    "stemmed":"二 曰 儉  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c14_1",
+    "original":"三曰不敢為天下先。",
+    "folio":1,
+    "stemmed":"三 曰 不 敢 為 天 下 先  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c14_14",
+    "original":"老君獻胡王妻子與胡兵格戰。",
+    "folio":1,
+    "stemmed":"老 君 獻 胡 王 妻 子 與 胡 兵 格 戰  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c14_19",
+    "original":"何有慈乎。",
+    "folio":1,
+    "stemmed":"何 有 慈 乎  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c15_10",
+    "original":"乘玉衡之輿坐金闕之內。",
+    "folio":1,
+    "stemmed":"乘 玉 衡 之 輿 坐 金 闕 之 內  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c15_18",
+    "original":"披九色離羅之衣。",
+    "folio":1,
+    "stemmed":"披 九 色 離 羅 之 衣  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c16_7",
+    "original":"廕九光偃鶴之蓋。",
+    "folio":1,
+    "stemmed":"廕 九 光 偃 鶴 之 蓋  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c16_12",
+    "original":"何有儉乎。",
+    "folio":1,
+    "stemmed":"何 有 儉 乎  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c17_2",
+    "original":"生於無始起於無因。",
+    "folio":1,
+    "stemmed":"生 於 無 始 起 於 無 因  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c17_8",
+    "original":"為萬道之先。",
+    "folio":1,
+    "stemmed":"為 萬 道 之 先  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c17_14",
+    "original":"作元氣之祖。",
+    "folio":1,
+    "stemmed":"作 元 氣 之 祖  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c18_7",
+    "original":"觀混沌之未判視清濁之未分。",
+    "folio":1,
+    "stemmed":"觀 混 沌 之 未 判 視 清 濁 之 未 分  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c18_13",
+    "original":"為帝王之師。",
+    "folio":1,
+    "stemmed":"為 帝 王 之 師  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c18_19",
+    "original":"作天地之母。",
+    "folio":1,
+    "stemmed":"作 天 地 之 母  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c19_9",
+    "original":"何有不敢為天下先乎。",
+    "folio":1,
+    "stemmed":"何 有 不 敢 為 天 下 先 乎  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c19_17",
+    "original":"遼陽高憲字仲常。",
+    "folio":1,
+    "stemmed":"遼 陽 高 憲 字 仲 常  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c20_5",
+    "original":"遊東京白鶴觀。",
+    "folio":1,
+    "stemmed":"遊 東 京 白 鶴 觀  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c20_10",
+    "original":"見三清像。",
+    "folio":1,
+    "stemmed":"見 三 清 像  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c20_15",
+    "original":"指其右曰。",
+    "folio":1,
+    "stemmed":"指 其 右 曰  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c20_20",
+    "original":"此何像也。",
+    "folio":1,
+    "stemmed":"此 何 像 也  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c21_4",
+    "original":"觀主對曰。",
+    "folio":1,
+    "stemmed":"觀 主 對 曰  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c21_8",
+    "original":"老君像。",
+    "folio":1,
+    "stemmed":"老 君 像  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c21_13",
+    "original":"曰何代人。",
+    "folio":1,
+    "stemmed":"曰 何 代 人  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c21_19",
+    "original":"曰周定王時。",
+    "folio":1,
+    "stemmed":"曰 周 定 王 時  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c22_4",
+    "original":"又指左曰。",
+    "folio":1,
+    "stemmed":"又 指 左 曰  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c22_9",
+    "original":"此何像也。",
+    "folio":1,
+    "stemmed":"此 何 像 也  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c22_12",
+    "original":"主曰。",
+    "folio":1,
+    "stemmed":"主 曰  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c22_16",
+    "original":"道君像。",
+    "folio":1,
+    "stemmed":"道 君 像  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c23_1",
+    "original":"曰此何代人。",
+    "folio":1,
+    "stemmed":"曰 此 何 代 人  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c23_7",
+    "original":"主倉惶未答。",
+    "folio":1,
+    "stemmed":"主 倉 惶 未 答  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c23_13",
+    "original":"憲指中尊曰。",
+    "folio":1,
+    "stemmed":"憲 指 中 尊 曰  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c24_1",
+    "original":"且饒這元始天尊。",
+    "folio":1,
+    "stemmed":"且 饒 這 元 始 天 尊  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c24_8",
+    "original":"聞者傳以為笑。",
+    "folio":1,
+    "stemmed":"聞 者 傳 以 為 笑  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c26_4",
+    "original":"2 創立劫運年號偽創立劫運年號偽第二第三化云。",
+    "folio":1,
+    "stemmed":"2   創 立 劫 運 年 號 偽 創 立 劫 運 年 號 偽 第二第三 化 云  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c26_11",
+    "original":"始則太虛之氣。",
+    "folio":1,
+    "stemmed":"始 則 太 虛 之 氣  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c27_1",
+    "original":"其氣相擊往來亂射。",
+    "folio":1,
+    "stemmed":"其 氣 相 擊 往 來 亂 射  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c27_9",
+    "original":"經百億萬氣之後。",
+    "folio":1,
+    "stemmed":"經 百 億 萬 氣 之 後  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c27_18",
+    "original":"其氣方慢往來流行。",
+    "folio":1,
+    "stemmed":"其 氣 方 慢 往 來 流 行  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c29_1",
+    "original":"為自然之氣此偷佛書世界初成風輪下旋之事也又號彌羅萬梵之氣。",
+    "folio":1,
+    "stemmed":"為 自 然 之 氣 此 偷 佛 書 世 界 初 成 風 輪 下 旋 之 事 也 又 號 彌 羅 萬 梵 之 氣  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0753c29_17",
+    "original":"又經九萬九千九百九十九億氣之後。",
+    "folio":1,
+    "stemmed":"又 經 九 萬 九 千 九 百 九 十 九 億 氣 之 後  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a01_4",
+    "original":"結吉祥之氣。",
+    "folio":1,
+    "stemmed":"結 吉 祥 之 氣  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a01_9",
+    "original":"成一聖人。",
+    "folio":1,
+    "stemmed":"成 一 聖 人  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a01_16",
+    "original":"自號元始天王。",
+    "folio":1,
+    "stemmed":"自 號 元 始 天 王  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a02_11",
+    "original":"同時生五老五行之主其劫號延康。",
+    "folio":1,
+    "stemmed":"同 時 生 五 老 五 行 之 主 其 劫 號 延 康  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a02_16",
+    "original":"年號龍漢。",
+    "folio":1,
+    "stemmed":"年 號 龍 漢  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a03_2",
+    "original":"又經如上氣數。",
+    "folio":1,
+    "stemmed":"又 經 如 上 氣 數  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a03_12",
+    "original":"乃生道君時劫號赤明。",
+    "folio":1,
+    "stemmed":"乃 生 道 君 時 劫 號 赤 明  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a03_18",
+    "original":"年亦號赤明。",
+    "folio":1,
+    "stemmed":"年 亦 號 赤 明  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a04_4",
+    "original":"同時生九老。",
+    "folio":1,
+    "stemmed":"同 時 生 九 老  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a04_9",
+    "original":"分為九天。",
+    "folio":1,
+    "stemmed":"分 為 九 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a04_16",
+    "original":"又經如上氣數。",
+    "folio":1,
+    "stemmed":"又 經 如 上 氣 數  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a05_1",
+    "original":"方生老君。",
+    "folio":1,
+    "stemmed":"方 生 老 君  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a05_6",
+    "original":"劫號清運。",
+    "folio":1,
+    "stemmed":"劫 號 清 運  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a05_11",
+    "original":"年號上皇。",
+    "folio":1,
+    "stemmed":"年 號 上 皇  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a05_16",
+    "original":"時生八公。",
+    "folio":1,
+    "stemmed":"時 生 八 公  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a06_6",
+    "original":"又立五運太易太初等。",
+    "folio":1,
+    "stemmed":"又 立 五 運 太 易 太 初 等  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a07_1",
+    "original":"老君乃以陰陽二氣結為混沌。",
+    "folio":1,
+    "stemmed":"老 君 乃 以 陰 陽 二 氣 結 為 混 沌  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a07_12",
+    "original":"而分布天地萬物始備矣。",
+    "folio":1,
+    "stemmed":"而 分 布 天 地 萬 物 始 備 矣  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a08_2",
+    "original":"辯曰。",
+    "folio":1,
+    "stemmed":"辯 曰  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a08_11",
+    "original":"蓋聞班固律曆之志。",
+    "folio":1,
+    "stemmed":"蓋 聞 班 固 律 曆 之 志  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a08_18",
+    "original":"史記天官之書。",
+    "folio":1,
+    "stemmed":"史 記 天 官 之 書  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a09_5",
+    "original":"皇甫謐之帝年。",
+    "folio":1,
+    "stemmed":"皇 甫 謐 之 帝 年  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a09_12",
+    "original":"陶隱居之帝紀。",
+    "folio":1,
+    "stemmed":"陶 隱 居 之 帝 紀  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a10_4",
+    "original":"未聞五運之前先有年號。",
+    "folio":1,
+    "stemmed":"未 聞 五 運 之 前 先 有 年 號  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a10_13",
+    "original":"三氣之內虛立劫名。",
+    "folio":1,
+    "stemmed":"三 氣 之 內 虛 立 劫 名  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a11_1",
+    "original":"既清濁之未形。",
+    "folio":1,
+    "stemmed":"既 清 濁 之 未 形  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a11_8",
+    "original":"只是洪濛一氣。",
+    "folio":1,
+    "stemmed":"只 是 洪 濛 一 氣  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a11_19",
+    "original":"何有老君元始五老九天。",
+    "folio":1,
+    "stemmed":"何 有 老 君 元 始 五 老 九 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a12_7",
+    "original":"雖竊佛立劫之名。",
+    "folio":1,
+    "stemmed":"雖 竊 佛 立 劫 之 名  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a12_15",
+    "original":"而不曉成壞之數。",
+    "folio":1,
+    "stemmed":"而 不 曉 成 壞 之 數  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a13_1",
+    "original":"梵云劫波。",
+    "folio":1,
+    "stemmed":"梵 云 劫 波  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a13_6",
+    "original":"此云時分。",
+    "folio":1,
+    "stemmed":"此 云 時 分  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a13_15",
+    "original":"時雖長短皆立劫名。",
+    "folio":1,
+    "stemmed":"時 雖 長 短 皆 立 劫 名  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a14_5",
+    "original":"錯謬梵言迷惑體相。",
+    "folio":1,
+    "stemmed":"錯 謬 梵 言 迷 惑 體 相  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a14_12",
+    "original":"釋教未來此土。",
+    "folio":1,
+    "stemmed":"釋 教 未 來 此 土  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a15_6",
+    "original":"但有劫殺劫賊故許慎說文云。",
+    "folio":1,
+    "stemmed":"但 有 劫 殺 劫 賊 故 許 慎 說 文 云  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a15_13",
+    "original":"以兵愶人曰劫。",
+    "folio":1,
+    "stemmed":"以 兵 愶 人 曰 劫  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a16_10",
+    "original":"又魯將曹沫劫桓公於壇上求所侵地。",
+    "folio":1,
+    "stemmed":"又 魯 將 曹 沫 劫 桓 公 於 壇 上 求 所 侵 地  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a16_17",
+    "original":"此則逼奪名劫。",
+    "folio":1,
+    "stemmed":"此 則 逼 奪 名 劫  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a17_6",
+    "original":"豈有劫運之言乎。",
+    "folio":1,
+    "stemmed":"豈 有 劫 運 之 言 乎  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a17_15",
+    "original":"今陳此言妄竊見矣。",
+    "folio":1,
+    "stemmed":"今 陳 此 言 妄 竊 見 矣  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a18_6",
+    "original":"夫名位既有年號斯張。",
+    "folio":1,
+    "stemmed":"夫 名 位 既 有 年 號 斯 張  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a18_17",
+    "original":"將以率領萬方整齊四海。",
+    "folio":1,
+    "stemmed":"將 以 率 領 萬 方 整 齊 四 海  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a19_7",
+    "original":"混同九有同一車書。",
+    "folio":1,
+    "stemmed":"混 同 九 有 同 一 車 書  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a19_16",
+    "original":"天子至尊得建年號。",
+    "folio":1,
+    "stemmed":"天 子 至 尊 得 建 年 號  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a20_6",
+    "original":"無名位者不敢立焉。",
+    "folio":1,
+    "stemmed":"無 名 位 者 不 敢 立 焉  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a21_1",
+    "original":"孔子雖然刪書定禮分辯君臣。",
+    "folio":1,
+    "stemmed":"孔 子 雖 然 刪 書 定 禮 分 辯 君 臣  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a21_10",
+    "original":"以無貴位止號素王。",
+    "folio":1,
+    "stemmed":"以 無 貴 位 止 號 素 王  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a22_4",
+    "original":"矧乎老聃周之柱史臣子之列。",
+    "folio":1,
+    "stemmed":"矧 乎 老 聃 周 之 柱 史 臣 子 之 列  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a22_15",
+    "original":"而草竊帝王妄建年號哉。",
+    "folio":1,
+    "stemmed":"而 草 竊 帝 王 妄 建 年 號 哉  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a24_8",
+    "original":"況軒皇之前本無甲子黃帝臣大橈造甲子漢武之代始建年號武帝始立年號將古標古。",
+    "folio":1,
+    "stemmed":"況 軒 皇 之 前 本 無 甲 子 黃 帝 臣 大 橈 造 甲 子 漢 武 之 代 始 建 年 號 武 帝 始 立 年 號 將 古 標 古  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a24_13",
+    "original":"亦何偽乎。",
+    "folio":1,
+    "stemmed":"亦 何 偽 乎  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a24_16",
+    "original":"或曰。",
+    "folio":1,
+    "stemmed":"或 曰  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a25_3",
+    "original":"老子生於天地之前。",
+    "folio":1,
+    "stemmed":"老 子 生 於 天 地 之 前  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a25_8",
+    "original":"別立年號。",
+    "folio":1,
+    "stemmed":"別 立 年 號  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a25_13",
+    "original":"有何乖違。",
+    "folio":1,
+    "stemmed":"有 何 乖 違  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a25_16",
+    "original":"答曰。",
+    "folio":1,
+    "stemmed":"答 曰  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a26_3",
+    "original":"既在天地之上。",
+    "folio":1,
+    "stemmed":"既 在 天 地 之 上  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a26_10",
+    "original":"乃是太易之前。",
+    "folio":1,
+    "stemmed":"乃 是 太 易 之 前  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a26_15",
+    "original":"世界未形。",
+    "folio":1,
+    "stemmed":"世 界 未 形  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a27_1",
+    "original":"君臣無跡。",
+    "folio":1,
+    "stemmed":"君 臣 無 跡  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a27_10",
+    "original":"杳然空寂唯一溟濛。",
+    "folio":1,
+    "stemmed":"杳 然 空 寂 唯 一 溟 濛  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a28_1",
+    "original":"建立年號統領誰人乎。",
+    "folio":1,
+    "stemmed":"建 立 年 號 統 領 誰 人 乎  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a28_8",
+    "original":"明知偷佛莊嚴。",
+    "folio":1,
+    "stemmed":"明 知 偷 佛 莊 嚴  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a28_15",
+    "original":"賢劫星宿之意。",
+    "folio":1,
+    "stemmed":"賢 劫 星 宿 之 意  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a29_7",
+    "original":"而立此延康赤明清運之目。",
+    "folio":1,
+    "stemmed":"而 立 此 延 康 赤 明 清 運 之 目  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a29_12",
+    "original":"彼明三世。",
+    "folio":1,
+    "stemmed":"彼 明 三 世  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754a29_17",
+    "original":"此約一時。",
+    "folio":1,
+    "stemmed":"此 約 一 時  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b01_6",
+    "original":"正同山羗偷王衣物。",
+    "folio":1,
+    "stemmed":"正 同 山 羗 偷 王 衣 物  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b01_15",
+    "original":"迷惑顛倒上下失次。",
+    "folio":1,
+    "stemmed":"迷 惑 顛 倒 上 下 失 次  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b01_19",
+    "original":"爾下云。",
+    "folio":1,
+    "stemmed":"爾 下 云  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b02_12",
+    "original":"老子生於天崗李谷字曰光明。",
+    "folio":1,
+    "stemmed":"老 子 生 於 天 崗 李 谷 字 曰 光 明  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b03_1",
+    "original":"則在三皇之後。",
+    "folio":1,
+    "stemmed":"則 在 三 皇 之 後  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b04_3",
+    "original":"何得老君以陰陽二氣結為混沌而分布天地耶。",
+    "folio":1,
+    "stemmed":"何 得 老 君 以 陰 陽 二 氣 結 為 混 沌 而 分 布 天 地 耶  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b04_12",
+    "original":"首尾兩端穿鑿見矣。",
+    "folio":1,
+    "stemmed":"首 尾 兩 端 穿 鑿 見 矣  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b06_4",
+    "original":"3 開分三界偽開分三界偽第三第五化云。",
+    "folio":1,
+    "stemmed":"3   開 分 三 界 偽 開 分 三 界 偽 第 三 第 五 化 云  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b06_12",
+    "original":"天地有形之大者。",
+    "folio":1,
+    "stemmed":"天 地 有 形 之 大 者  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b06_17",
+    "original":"太上老君。",
+    "folio":1,
+    "stemmed":"太 上 老 君  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b07_4",
+    "original":"乃混沌之祖宗。",
+    "folio":1,
+    "stemmed":"乃 混 沌 之 祖 宗  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b07_10",
+    "original":"天地之父母。",
+    "folio":1,
+    "stemmed":"天 地 之 父 母  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b08_2",
+    "original":"故能分布清濁開闢天地。",
+    "folio":1,
+    "stemmed":"故 能 分 布 清 濁 開 闢 天 地  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b08_11",
+    "original":"運玄元始三氣而成。",
+    "folio":1,
+    "stemmed":"運 玄 元 始 三 氣 而 成  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b08_19",
+    "original":"天上為三清三境。",
+    "folio":1,
+    "stemmed":"天 上 為 三 清 三 境  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b09_7",
+    "original":"即始氣為玉清境。",
+    "folio":1,
+    "stemmed":"即 始 氣 為 玉 清 境  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b09_14",
+    "original":"元氣為上清境。",
+    "folio":1,
+    "stemmed":"元 氣 為 上 清 境  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b10_2",
+    "original":"玄氣為太清境。",
+    "folio":1,
+    "stemmed":"玄 氣 為 太 清 境  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b10_13",
+    "original":"又以三清之氣各生三氣。",
+    "folio":1,
+    "stemmed":"又 以 三 清 之 氣 各 生 三 氣  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b11_3",
+    "original":"合成九氣而為九天。",
+    "folio":1,
+    "stemmed":"合 成 九 氣 而 為 九 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b11_9",
+    "original":"第一欝單天。",
+    "folio":1,
+    "stemmed":"第 一 欝 單 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b11_19",
+    "original":"第二上禪壽無量壽天。",
+    "folio":1,
+    "stemmed":"第 二 上 禪 壽 無 量 壽 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b12_7",
+    "original":"第三梵藍須延天。",
+    "folio":1,
+    "stemmed":"第 三 梵 藍 須 延 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b12_15",
+    "original":"第四寂然兜術天。",
+    "folio":1,
+    "stemmed":"第 四 寂 然 兜 術 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b13_7",
+    "original":"第五波羅尼蜜不驕樂天。",
+    "folio":1,
+    "stemmed":"第 五 波 羅 尼 蜜 不驕樂天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b13_16",
+    "original":"第六洞玄化應聲天。",
+    "folio":1,
+    "stemmed":"第 六 洞 玄 化 應 聲 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b14_5",
+    "original":"第七靈化梵輔天。",
+    "folio":1,
+    "stemmed":"第 七 靈 化 梵 輔 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b14_13",
+    "original":"第八高虛清明天。",
+    "folio":1,
+    "stemmed":"第 八 高 虛 清 明 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b15_2",
+    "original":"第九無想無愛天。",
+    "folio":1,
+    "stemmed":"第 九 無 想 無 愛 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b15_11",
+    "original":"此之九天各生三氣。",
+    "folio":1,
+    "stemmed":"此 之 九 天 各 生 三 氣  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b15_17",
+    "original":"每氣為一天。",
+    "folio":1,
+    "stemmed":"每 氣 為 一 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b16_3",
+    "original":"合二十七天。",
+    "folio":1,
+    "stemmed":"合 二 十 七 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b16_13",
+    "original":"通此九天為三十六天。",
+    "folio":1,
+    "stemmed":"通 此 九 天 為 三 十 六 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b17_4",
+    "original":"則三界四民上極三清。",
+    "folio":1,
+    "stemmed":"則 三 界 四 民 上 極 三 清  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b17_9",
+    "original":"是其數也。",
+    "folio":1,
+    "stemmed":"是 其 數 也  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b17_17",
+    "original":"初下六天為欲界。",
+    "folio":1,
+    "stemmed":"初 下 六 天 為 欲 界  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b18_2",
+    "original":"一太黃天。",
+    "folio":1,
+    "stemmed":"一 太 黃 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b18_7",
+    "original":"二太明天。",
+    "folio":1,
+    "stemmed":"二 太 明 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b18_12",
+    "original":"三清明天。",
+    "folio":1,
+    "stemmed":"三 清 明 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b18_17",
+    "original":"四玄胎天。",
+    "folio":1,
+    "stemmed":"四 玄 胎 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b19_2",
+    "original":"五元明天。",
+    "folio":1,
+    "stemmed":"五 元 明 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b19_7",
+    "original":"六七曜天。",
+    "folio":1,
+    "stemmed":"六 七 曜 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b19_16",
+    "original":"次一十八天為色界。",
+    "folio":1,
+    "stemmed":"次 一 十 八 天 為 色 界  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b20_2",
+    "original":"一虛無天。",
+    "folio":1,
+    "stemmed":"一 虛 無 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b20_7",
+    "original":"二太極天。",
+    "folio":1,
+    "stemmed":"二 太 極 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b20_12",
+    "original":"三赤明天。",
+    "folio":1,
+    "stemmed":"三 赤 明 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b20_17",
+    "original":"四恭華天。",
+    "folio":1,
+    "stemmed":"四 恭 華 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b21_1",
+    "original":"五曜明天。",
+    "folio":1,
+    "stemmed":"五 曜 明 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b21_6",
+    "original":"六皇笳天。",
+    "folio":1,
+    "stemmed":"六 皇 笳 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b21_11",
+    "original":"七靈明天。",
+    "folio":1,
+    "stemmed":"七 靈 明 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b21_16",
+    "original":"八端靖天。",
+    "folio":1,
+    "stemmed":"八 端 靖 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b22_1",
+    "original":"九元明天。",
+    "folio":1,
+    "stemmed":"九 元 明 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b22_6",
+    "original":"十極瑤天。",
+    "folio":1,
+    "stemmed":"十 極 瑤 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b22_12",
+    "original":"十一元載天。",
+    "folio":1,
+    "stemmed":"十 一 元 載 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b22_18",
+    "original":"十二太安天。",
+    "folio":1,
+    "stemmed":"十 二 太 安 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b23_4",
+    "original":"十三極風天。",
+    "folio":1,
+    "stemmed":"十 三 極 風 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b23_10",
+    "original":"十四始皇天。",
+    "folio":1,
+    "stemmed":"十 四 始 皇 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b23_16",
+    "original":"十五太黃天。",
+    "folio":1,
+    "stemmed":"十 五 太 黃 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b24_2",
+    "original":"十六無思天。",
+    "folio":1,
+    "stemmed":"十 六 無 思 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b24_8",
+    "original":"十七阮樂天。",
+    "folio":1,
+    "stemmed":"十 七 阮 樂 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b24_14",
+    "original":"十八曇誓天。",
+    "folio":1,
+    "stemmed":"十 八 曇 誓 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b25_2",
+    "original":"次四天為無色界。",
+    "folio":1,
+    "stemmed":"次 四 天 為 無 色 界  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b25_7",
+    "original":"一霄慶天。",
+    "folio":1,
+    "stemmed":"一 霄 慶 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b25_12",
+    "original":"二元同天。",
+    "folio":1,
+    "stemmed":"二 元 同 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b25_17",
+    "original":"三妙成天。",
+    "folio":1,
+    "stemmed":"三 妙 成 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b26_1",
+    "original":"四禁上天。",
+    "folio":1,
+    "stemmed":"四 禁 上 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b26_11",
+    "original":"此二十八天名為三界。",
+    "folio":1,
+    "stemmed":"此 二十八天 名 為 三 界  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b27_3",
+    "original":"此上又四天名為種人天。",
+    "folio":1,
+    "stemmed":"此 上 又 四 天 名 為 種 人 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b27_8",
+    "original":"一常融天。",
+    "folio":1,
+    "stemmed":"一 常 融 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b27_13",
+    "original":"二玉隆天。",
+    "folio":1,
+    "stemmed":"二 玉 隆 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b27_18",
+    "original":"三梵度天。",
+    "folio":1,
+    "stemmed":"三 梵 度 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b28_2",
+    "original":"四賈奕天。",
+    "folio":1,
+    "stemmed":"四 賈 奕 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b28_10",
+    "original":"此四天超出三界。",
+    "folio":1,
+    "stemmed":"此 四 天 超出三界  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b28_13",
+    "original":"又云。",
+    "folio":1,
+    "stemmed":"又 云  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b29_1",
+    "original":"上三天為三清境。",
+    "folio":1,
+    "stemmed":"上 三 天 為 三 清 境  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b29_7",
+    "original":"一曰太赤天。",
+    "folio":1,
+    "stemmed":"一 曰 太 赤 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b29_13",
+    "original":"二曰禹餘天。",
+    "folio":1,
+    "stemmed":"二 曰 禹 餘 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754b29_19",
+    "original":"三曰清微天。",
+    "folio":1,
+    "stemmed":"三 曰 清 微 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c01_5",
+    "original":"最上曰大羅天。",
+    "folio":1,
+    "stemmed":"最 上 曰 大 羅 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c01_14",
+    "original":"包羅諸天極高無上。",
+    "folio":1,
+    "stemmed":"包 羅 諸 天 極 高 無 上  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c02_4",
+    "original":"玄都玉京鎮於其上。",
+    "folio":1,
+    "stemmed":"玄 都 玉 京 鎮 於 其 上  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c02_10",
+    "original":"三尊所處焉。",
+    "folio":1,
+    "stemmed":"三 尊 所 處 焉  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c02_17",
+    "original":"又太霄隱書云。",
+    "folio":1,
+    "stemmed":"又 太 霄 隱 書 云  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c03_17",
+    "original":"大道君治在五十五重無極大羅天中玉京之上。",
+    "folio":1,
+    "stemmed":"大 道 君 治 在 五 十 五 重 無 極 大 羅 天 中 玉 京 之 上  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c04_16",
+    "original":"七寶玄臺金床王几金童玉女之所侍衛。",
+    "folio":1,
+    "stemmed":"七 寶 玄 臺 金 床 王 几 金 童 玉 女 之 所 侍 衛  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c05_10",
+    "original":"住居在三十二天三界之外。",
+    "folio":1,
+    "stemmed":"住 居 在 三 十 二 天 三 界 之 外  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c06_2",
+    "original":"辯曰。",
+    "folio":1,
+    "stemmed":"辯 曰  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c06_15",
+    "original":"詳夫蛇軀伏犧牛首炎帝之書。",
+    "folio":1,
+    "stemmed":"詳 夫 蛇 軀 伏 犧 牛 首 炎 帝 之 書  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c07_2",
+    "original":"龍師太皡鳳紀少皡之典。",
+    "folio":1,
+    "stemmed":"龍 師 太 皡 鳳 紀 少 皡 之 典  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c07_13",
+    "original":"談天鄒衍論天黃繚之誥。",
+    "folio":1,
+    "stemmed":"談 天 鄒 衍 論 天 黃 繚 之 誥  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c07_24",
+    "original":"括地地志輿地地圖之圖。",
+    "folio":1,
+    "stemmed":"括 地 地 志 輿 地 地 圖 之 圖  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c08_8",
+    "original":"甘氏星經張衡靈憲。",
+    "folio":1,
+    "stemmed":"甘 氏 星 經 張 衡 靈 憲  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c08_15",
+    "original":"不說三清之號。",
+    "folio":1,
+    "stemmed":"不 說 三 清 之 號  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c09_3",
+    "original":"匪聞大羅之名。",
+    "folio":1,
+    "stemmed":"匪 聞 大 羅 之 名  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c09_10",
+    "original":"並是依傍佛經。",
+    "folio":1,
+    "stemmed":"並 是 依 傍 佛 經  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c09_15",
+    "original":"改頭換尾。",
+    "folio":1,
+    "stemmed":"改 頭 換 尾  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c10_5",
+    "original":"採他名相粧綴己書。",
+    "folio":1,
+    "stemmed":"採 他 名 相 粧 綴 己 書  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c10_15",
+    "original":"且道教之宗源起黃帝。",
+    "folio":1,
+    "stemmed":"且 道 教 之 宗 源 起 黃 帝  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c11_10",
+    "original":"而老子涓子列子莊周鶡冠尹文。",
+    "folio":1,
+    "stemmed":"而 老 子 涓 子 列 子 莊 周 鶡 冠 尹 文  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c12_1",
+    "original":"派為道教諸子所談。",
+    "folio":1,
+    "stemmed":"派 為 道 教 諸 子 所 談  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c12_8",
+    "original":"並無說天之事。",
+    "folio":1,
+    "stemmed":"並 無 說 天 之 事  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c13_1",
+    "original":"唯是張道陵所集靈寶經中。",
+    "folio":1,
+    "stemmed":"唯 是 張 道 陵 所 集 靈 寶 經 中  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c13_8",
+    "original":"始說三十二天。",
+    "folio":1,
+    "stemmed":"始 說 三 十 二 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c13_17",
+    "original":"効佛神呪而作密言。",
+    "folio":1,
+    "stemmed":"効 佛 神 呪 而 作 密 言  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c14_6",
+    "original":"自後道書互相鼓唱。",
+    "folio":1,
+    "stemmed":"自 後 道 書 互 相 鼓 唱  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c14_15",
+    "original":"空枝引蔓唯誑下俗。",
+    "folio":1,
+    "stemmed":"空 枝 引 蔓 唯 誑 下 俗  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c15_5",
+    "original":"佛教未來云何不說。",
+    "folio":1,
+    "stemmed":"佛 教 未 來 云 何 不 說  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c15_14",
+    "original":"釋經廣布始唱斯名。",
+    "folio":1,
+    "stemmed":"釋 經 廣 布 始 唱 斯 名  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c15_17",
+    "original":"明名。",
+    "folio":1,
+    "stemmed":"明 名  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c16_6",
+    "original":"修靜增加三張妄闡。",
+    "folio":1,
+    "stemmed":"修 靜 增 加 三 張 妄 闡  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c16_15",
+    "original":"狗偷鼠盜何足貴乎。",
+    "folio":1,
+    "stemmed":"狗 偷 鼠 盜 何 足 貴 乎  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c17_3",
+    "original":"爾雅之立四號。",
+    "folio":1,
+    "stemmed":"爾 雅 之 立 四 號  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c17_8",
+    "original":"約於四時。",
+    "folio":1,
+    "stemmed":"約 於 四 時  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c17_15",
+    "original":"太玄之說九天。",
+    "folio":1,
+    "stemmed":"太 玄 之 說 九 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c17_20",
+    "original":"准於九有。",
+    "folio":1,
+    "stemmed":"准 於 九 有  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c18_8",
+    "original":"不似道家虛加數目。",
+    "folio":1,
+    "stemmed":"不 似 道 家 虛 加 數 目  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c18_17",
+    "original":"天本定體何有少多。",
+    "folio":1,
+    "stemmed":"天 本 定 體 何 有 少 多  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c19_4",
+    "original":"今各說不同。",
+    "folio":1,
+    "stemmed":"今 各 說 不 同  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c19_9",
+    "original":"顯知妄立。",
+    "folio":1,
+    "stemmed":"顯 知 妄 立  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c19_19",
+    "original":"案佛經三界三業所感。",
+    "folio":1,
+    "stemmed":"案 佛 經 三 界 三 業 所 感  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c20_4",
+    "original":"總二十八。",
+    "folio":1,
+    "stemmed":"總 二 十 八  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c20_9",
+    "original":"欲界有六。",
+    "folio":1,
+    "stemmed":"欲 界 有 六  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c20_14",
+    "original":"色界十八。",
+    "folio":1,
+    "stemmed":"色 界 十 八  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c20_19",
+    "original":"無色有四。",
+    "folio":1,
+    "stemmed":"無 色 有 四  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c21_8",
+    "original":"具勝妙欲名為欲界。",
+    "folio":1,
+    "stemmed":"具 勝 妙 欲 名 為 欲 界  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c21_17",
+    "original":"形色超絕名為色界。",
+    "folio":1,
+    "stemmed":"形 色 超 絕 名 為 色 界  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c22_7",
+    "original":"根識兩忘名無色界。",
+    "folio":1,
+    "stemmed":"根 識 兩 忘 名 無 色 界  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c22_16",
+    "original":"越此而去名出生死。",
+    "folio":1,
+    "stemmed":"越 此 而 去 名 出 生 死  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c23_4",
+    "original":"捨分段之後身。",
+    "folio":1,
+    "stemmed":"捨 分 段 之 後 身  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c23_11",
+    "original":"絕形名而無寄。",
+    "folio":1,
+    "stemmed":"絕 形 名 而 無 寄  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c24_17",
+    "original":"安有玄都之境玉京之山金童玉女交雜之事瓊輿碧帳之飾。",
+    "folio":1,
+    "stemmed":"安 有 玄 都 之 境 玉 京 之 山 金 童 玉 女 交 雜 之 事 瓊 輿 碧 帳 之 飾  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c25_8",
+    "original":"妄竊不真於斯見矣。",
+    "folio":1,
+    "stemmed":"妄 竊 不 真 於 斯 見 矣  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c25_13",
+    "original":"試問道士。",
+    "folio":1,
+    "stemmed":"試 問 道 士  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c26_1",
+    "original":"三界從何而來。",
+    "folio":1,
+    "stemmed":"三 界 從 何 而 來  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c26_6",
+    "original":"何功所感。",
+    "folio":1,
+    "stemmed":"何 功 所 感  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c26_15",
+    "original":"釋名辯相全不能知。",
+    "folio":1,
+    "stemmed":"釋 名 辯 相 全 不 能 知  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c27_6",
+    "original":"且道宗極致惟盡昇天。",
+    "folio":1,
+    "stemmed":"且 道 宗 極 致 惟 盡 昇 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c27_15",
+    "original":"靈寶幽微秖貪羽化。",
+    "folio":1,
+    "stemmed":"靈 寶 幽 微 秖 貪 羽 化  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c28_5",
+    "original":"難逃四相詎免五衰。",
+    "folio":1,
+    "stemmed":"難 逃 四 相 詎 免 五 衰  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c28_12",
+    "original":"汎業浪以漂沈。",
+    "folio":1,
+    "stemmed":"汎 業 浪 以 漂 沈  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c28_19",
+    "original":"隨生死而輪轉。",
+    "folio":1,
+    "stemmed":"隨 生 死 而 輪 轉  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c29_6",
+    "original":"縱茫茫之業識。",
+    "folio":1,
+    "stemmed":"縱 茫 茫 之 業 識  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c29_13",
+    "original":"積浩浩之苦源。",
+    "folio":1,
+    "stemmed":"積 浩 浩 之 苦 源  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0754c29_18",
+    "original":"長往不歸。",
+    "folio":1,
+    "stemmed":"長 往 不 歸  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a01_3",
+    "original":"良可歎息。",
+    "folio":1,
+    "stemmed":"良 可 歎 息  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a01_8",
+    "original":"欝頭藍弗。",
+    "folio":1,
+    "stemmed":"欝 頭 藍 弗  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a01_13",
+    "original":"是其驗歟。",
+    "folio":1,
+    "stemmed":"是 其 驗 歟  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a03_5",
+    "original":"4 隨代為帝王師偽隨代為帝王師偽第四第十一化云。",
+    "folio":1,
+    "stemmed":"4   隨 代 為 帝 王 師 偽 隨 代 為 帝 王 師 偽 第 四 第 十 一 化 云  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a03_12",
+    "original":"老君在伏犧時。",
+    "folio":1,
+    "stemmed":"老 君 在 伏 犧 時  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a03_17",
+    "original":"號欝華子。",
+    "folio":1,
+    "stemmed":"號 欝 華 子  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a04_5",
+    "original":"說元陽經教伏犧。",
+    "folio":1,
+    "stemmed":"說 元 陽 經 教 伏 犧  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a04_12",
+    "original":"敘人倫畫八卦。",
+    "folio":1,
+    "stemmed":"敘 人 倫 畫 八 卦  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a05_2",
+    "original":"在祝融時號廣壽子。",
+    "folio":1,
+    "stemmed":"在 祝 融 時 號 廣 壽 子  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a05_9",
+    "original":"說按摩通精經。",
+    "folio":1,
+    "stemmed":"說 按 摩 通 精 經  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a05_16",
+    "original":"教以鑽木出火。",
+    "folio":1,
+    "stemmed":"教 以 鑽 木 出 火  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a06_1",
+    "original":"陶冶為器。",
+    "folio":1,
+    "stemmed":"陶 冶 為 器  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a06_10",
+    "original":"在神農時號大成子。",
+    "folio":1,
+    "stemmed":"在 神 農 時 號 大 成 子  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a06_17",
+    "original":"說太一元精經。",
+    "folio":1,
+    "stemmed":"說 太 一 元 精 經  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a07_8",
+    "original":"教以播種五穀採和諸藥。",
+    "folio":1,
+    "stemmed":"教 以 播 種 五 穀 採 和 諸 藥  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a07_17",
+    "original":"在黃帝時號廣成子。",
+    "folio":1,
+    "stemmed":"在 黃 帝 時 號 廣 成 子  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a08_7",
+    "original":"教以抱神守靜之道。",
+    "folio":1,
+    "stemmed":"教 以 抱 神 守 靜 之 道  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a08_16",
+    "original":"在少昊時號隨應子。",
+    "folio":1,
+    "stemmed":"在 少 昊 時 號 隨 應 子  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a09_2",
+    "original":"說莊敬經。",
+    "folio":1,
+    "stemmed":"說 莊 敬 經  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a09_9",
+    "original":"教以鳥官為理。",
+    "folio":1,
+    "stemmed":"教 以 鳥 官 為 理  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a09_18",
+    "original":"分布九鳸以統百司。",
+    "folio":1,
+    "stemmed":"分 布 九 鳸 以 統 百 司  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a10_7",
+    "original":"在顓頊時號赤精子。",
+    "folio":1,
+    "stemmed":"在 顓 頊 時 號 赤 精 子  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a10_11",
+    "original":"說微言。",
+    "folio":1,
+    "stemmed":"說 微 言  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a10_19",
+    "original":"帝嚳時號錄圖子。",
+    "folio":1,
+    "stemmed":"帝 嚳 時 號 錄 圖 子  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a11_4",
+    "original":"說黃庭經。",
+    "folio":1,
+    "stemmed":"說 黃 庭 經  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a11_12",
+    "original":"帝堯時號務成子。",
+    "folio":1,
+    "stemmed":"帝 堯 時 號 務 成 子  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a11_17",
+    "original":"說宣化經。",
+    "folio":1,
+    "stemmed":"說 宣 化 經  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a12_6",
+    "original":"帝舜時號尹壽子。",
+    "folio":1,
+    "stemmed":"帝 舜 時 號 尹 壽 子  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a12_14",
+    "original":"說通玄經七十卷。",
+    "folio":1,
+    "stemmed":"說 通 玄 經 七 十 卷  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a13_6",
+    "original":"又說道德經一千二百卷。",
+    "folio":1,
+    "stemmed":"又 說 道 德 經 一 千 二 百 卷  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a13_14",
+    "original":"夏禹時號真行子。",
+    "folio":1,
+    "stemmed":"夏 禹 時 號 真 行 子  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a14_3",
+    "original":"說元始經六十卷。",
+    "folio":1,
+    "stemmed":"說 元 始 經 六 十 卷  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a14_11",
+    "original":"殷湯時號錫則子。",
+    "folio":1,
+    "stemmed":"殷 湯 時 號 錫 則 子  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a14_19",
+    "original":"說長生經二十卷。",
+    "folio":1,
+    "stemmed":"說 長 生 經 二 十 卷  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a15_8",
+    "original":"周文王時號爕邑子。",
+    "folio":1,
+    "stemmed":"周 文 王 時 號 爕 邑 子  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a15_13",
+    "original":"說赤精經。",
+    "folio":1,
+    "stemmed":"說 赤 精 經  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a16_1",
+    "original":"教以仁孝之道。",
+    "folio":1,
+    "stemmed":"教 以 仁 孝 之 道  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a16_15",
+    "original":"乃至云上古之君皆受教於老子。",
+    "folio":1,
+    "stemmed":"乃 至 云 上 古 之 君 皆 受 教 於 老 子  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a17_4",
+    "original":"然後造作群物也。",
+    "folio":1,
+    "stemmed":"然 後 造 作 群 物 也  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a18_2",
+    "original":"辯曰。",
+    "folio":1,
+    "stemmed":"辯 曰  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a18_12",
+    "original":"夫賢之與聖名位不同。",
+    "folio":1,
+    "stemmed":"夫 賢 之 與 聖 名 位 不 同  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a19_2",
+    "original":"古哲今人出處各異。",
+    "folio":1,
+    "stemmed":"古 哲 今 人 出 處 各 異  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a19_6",
+    "original":"莊周云。",
+    "folio":1,
+    "stemmed":"莊 周 云  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a19_15",
+    "original":"萬世之後一遇大聖。",
+    "folio":1,
+    "stemmed":"萬 世 之 後 一 遇 大 聖  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a20_2",
+    "original":"猶旦暮過之。",
+    "folio":1,
+    "stemmed":"猶 旦 暮 過 之  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a20_13",
+    "original":"此明聖人出世表瑞協祥。",
+    "folio":1,
+    "stemmed":"此 明 聖 人 出 世 表 瑞 協 祥  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a20_19",
+    "original":"應千年之期。",
+    "folio":1,
+    "stemmed":"應 千 年 之 期  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a21_5",
+    "original":"膺適時之運。",
+    "folio":1,
+    "stemmed":"膺 適 時 之 運  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a21_14",
+    "original":"孤標特秀逈出常流。",
+    "folio":1,
+    "stemmed":"孤 標 特 秀 逈 出 常 流  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a22_6",
+    "original":"故得帝王師之諸侯禮重。",
+    "folio":1,
+    "stemmed":"故 得 帝 王 師 之 諸 侯 禮 重  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a22_15",
+    "original":"萬載一遇尚為旦暮。",
+    "folio":1,
+    "stemmed":"萬 載 一 遇 尚 為 旦 暮  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a23_5",
+    "original":"豈有隨代而出現乎。",
+    "folio":1,
+    "stemmed":"豈 有 隨 代 而 出 現 乎  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a23_14",
+    "original":"夫李耳者退靜之士。",
+    "folio":1,
+    "stemmed":"夫 李 耳 者 退 靜 之 士  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a24_4",
+    "original":"史記稱為隱君子也。",
+    "folio":1,
+    "stemmed":"史 記 稱 為 隱 君 子 也  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a24_13",
+    "original":"避亂過關葬於槐里。",
+    "folio":1,
+    "stemmed":"避 亂 過 關 葬 於 槐 里  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a24_18",
+    "original":"潛身柱下。",
+    "folio":1,
+    "stemmed":"潛 身 柱 下  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a25_3",
+    "original":"本是人臣。",
+    "folio":1,
+    "stemmed":"本 是 人 臣  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a25_10",
+    "original":"位不躐於上階。",
+    "folio":1,
+    "stemmed":"位 不 躐 於 上 階  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a25_17",
+    "original":"名未廁於台輔。",
+    "folio":1,
+    "stemmed":"名 未 廁 於 台 輔  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a26_9",
+    "original":"何乃擢居聖地為帝王師。",
+    "folio":1,
+    "stemmed":"何 乃 擢 居 聖 地 為 帝 王 師  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a26_18",
+    "original":"譣詖不經駭人耳目。",
+    "folio":1,
+    "stemmed":"譣 詖 不 經 駭 人 耳 目  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a27_7",
+    "original":"培塿要齊於嵩華。",
+    "folio":1,
+    "stemmed":"培 塿 要 齊 於 嵩 華  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a27_12",
+    "original":"孰肯憑焉。",
+    "folio":1,
+    "stemmed":"孰 肯 憑 焉  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a28_1",
+    "original":"潢洿擬廣於滄溟。",
+    "folio":1,
+    "stemmed":"潢 洿 擬 廣 於 滄 溟  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a28_6",
+    "original":"終難信矣。",
+    "folio":1,
+    "stemmed":"終 難 信 矣  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a28_17",
+    "original":"豈有開闢之後萬億餘年。",
+    "folio":1,
+    "stemmed":"豈 有 開 闢 之 後 萬 億 餘 年  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a29_6",
+    "original":"中間別無一人拔萃。",
+    "folio":1,
+    "stemmed":"中 間 別 無 一 人 拔 萃  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755a29_16",
+    "original":"唯有老子為帝王師乎。",
+    "folio":1,
+    "stemmed":"唯 有 老 子 為 帝 王 師 乎  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b01_6",
+    "original":"三墳五典八索九丘。",
+    "folio":1,
+    "stemmed":"三 墳 五 典 八 索 九 丘  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b01_15",
+    "original":"孔子春秋丘明國語。",
+    "folio":1,
+    "stemmed":"孔 子 春 秋 丘 明 國 語  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b02_5",
+    "original":"百家異說九流雜談。",
+    "folio":1,
+    "stemmed":"百 家 異 說 九 流 雜 談  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b02_14",
+    "original":"並無老子為師之語。",
+    "folio":1,
+    "stemmed":"並 無 老 子 為 師 之 語  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b03_4",
+    "original":"唯是後代無知道士。",
+    "folio":1,
+    "stemmed":"唯 是 後 代 無 知 道 士  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b03_9",
+    "original":"妄撰斯言。",
+    "folio":1,
+    "stemmed":"妄 撰 斯 言  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b03_18",
+    "original":"欲使老子獨高群聖。",
+    "folio":1,
+    "stemmed":"欲 使 老 子 獨 高 群 聖  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b04_3",
+    "original":"美則美矣。",
+    "folio":1,
+    "stemmed":"美 則 美 矣  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b04_8",
+    "original":"偽且偽焉。",
+    "folio":1,
+    "stemmed":"偽 且 偽 焉  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b04_18",
+    "original":"且伏犧神農皆有聖德。",
+    "folio":1,
+    "stemmed":"且 伏 犧 神 農 皆 有 聖 德  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b05_7",
+    "original":"軒皇堯舜並號明君。",
+    "folio":1,
+    "stemmed":"軒 皇 堯 舜 並 號 明 君  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b05_13",
+    "original":"或幼而能言。",
+    "folio":1,
+    "stemmed":"或 幼 而 能 言  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b05_19",
+    "original":"或生知妙道。",
+    "folio":1,
+    "stemmed":"或 生 知 妙 道  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b06_6",
+    "original":"詎假老子教之。",
+    "folio":1,
+    "stemmed":"詎 假 老 子 教 之  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b06_14",
+    "original":"然後造作群物乎。",
+    "folio":1,
+    "stemmed":"然 後 造 作 群 物 乎  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b07_22",
+    "original":"況書傳所紀古史所明有古史考並世本並明造物之源燧人鑽火。",
+    "folio":1,
+    "stemmed":"況 書 傳 所 紀 古 史 所 明 有 古 史 考 並 世 本 並 明 造 物 之 源 燧 人 鑽 火  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b08_1",
+    "original":"伏犧畫卦。",
+    "folio":1,
+    "stemmed":"伏 犧 畫 卦  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b08_6",
+    "original":"炎帝播耨。",
+    "folio":1,
+    "stemmed":"炎 帝 播 耨  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b08_11",
+    "original":"女媧造簧。",
+    "folio":1,
+    "stemmed":"女 媧 造 簧  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b09_4",
+    "original":"黃帝作宮室軒冕樂有咸池。",
+    "folio":1,
+    "stemmed":"黃 帝 作 宮 室 軒 冕 樂 有 咸 池  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b09_10",
+    "original":"顓頊作六英。",
+    "folio":1,
+    "stemmed":"顓 頊 作 六 英  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b09_15",
+    "original":"堯有大章。",
+    "folio":1,
+    "stemmed":"堯 有 大 章  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b10_1",
+    "original":"舜有大韶。",
+    "folio":1,
+    "stemmed":"舜 有 大 韶  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b10_6",
+    "original":"及作圍碁。",
+    "folio":1,
+    "stemmed":"及 作 圍 碁  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b10_11",
+    "original":"禹有大夏。",
+    "folio":1,
+    "stemmed":"禹 有 大 夏  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b10_16",
+    "original":"湯有大濩。",
+    "folio":1,
+    "stemmed":"湯 有 大 濩  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b11_2",
+    "original":"文王有辟雍。",
+    "folio":1,
+    "stemmed":"文 王 有 辟 雍  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b11_12",
+    "original":"武王有下武鯀作城郭。",
+    "folio":1,
+    "stemmed":"武 王 有 下 武 鯀 作 城 郭  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b11_18",
+    "original":"出尤作兵器。",
+    "folio":1,
+    "stemmed":"出 尤 作 兵 器  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b12_3",
+    "original":"岐伯造醫。",
+    "folio":1,
+    "stemmed":"岐 伯 造 醫  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b12_8",
+    "original":"俞附脈經。",
+    "folio":1,
+    "stemmed":"俞 附 脈 經  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b12_13",
+    "original":"伶倫制律。",
+    "folio":1,
+    "stemmed":"伶 倫 制 律  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b12_18",
+    "original":"隸首作算。",
+    "folio":1,
+    "stemmed":"隸 首 作 算  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b13_2",
+    "original":"容成作曆。",
+    "folio":1,
+    "stemmed":"容 成 作 曆  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b13_8",
+    "original":"大撓造甲子。",
+    "folio":1,
+    "stemmed":"大 撓 造 甲 子  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b13_13",
+    "original":"奚仲作車。",
+    "folio":1,
+    "stemmed":"奚 仲 作 車  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b13_18",
+    "original":"曹胡作衣。",
+    "folio":1,
+    "stemmed":"曹 胡 作 衣  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b14_3",
+    "original":"伯余作裳。",
+    "folio":1,
+    "stemmed":"伯 余 作 裳  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b14_8",
+    "original":"於則作履。",
+    "folio":1,
+    "stemmed":"於 則 作 履  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b14_14",
+    "original":"共鼓作舟楫。",
+    "folio":1,
+    "stemmed":"共 鼓 作 舟 楫  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b14_19",
+    "original":"巨揮作弓。",
+    "folio":1,
+    "stemmed":"巨 揮 作 弓  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b15_4",
+    "original":"夷牢作矢。",
+    "folio":1,
+    "stemmed":"夷 牢 作 矢  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b15_11",
+    "original":"黃雍父作杵臼。",
+    "folio":1,
+    "stemmed":"黃 雍 父 作 杵 臼  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b15_17",
+    "original":"孟莊子作鉅。",
+    "folio":1,
+    "stemmed":"孟 莊 子 作 鉅  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b16_5",
+    "original":"趙武靈王作靴。",
+    "folio":1,
+    "stemmed":"趙 武 靈 王 作 靴  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b16_11",
+    "original":"蘇威公作篪。",
+    "folio":1,
+    "stemmed":"蘇 威 公 作 篪  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b16_16",
+    "original":"暴辛作塤。",
+    "folio":1,
+    "stemmed":"暴 辛 作 塤  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b17_5",
+    "original":"后稷之孫叔均作犁。",
+    "folio":1,
+    "stemmed":"后 稷 之 孫 叔 均 作 犁  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b17_10",
+    "original":"蒙恬作筆。",
+    "folio":1,
+    "stemmed":"蒙 恬 作 筆  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b17_15",
+    "original":"蔡倫作紙。",
+    "folio":1,
+    "stemmed":"蔡 倫 作 紙  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b18_2",
+    "original":"夏昆吾氏作瓦。",
+    "folio":1,
+    "stemmed":"夏 昆 吾 氏 作 瓦  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b18_9",
+    "original":"此皆各有其王。",
+    "folio":1,
+    "stemmed":"此 皆 各 有 其 王  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b19_3",
+    "original":"群書所明何得自矜覽為我造。",
+    "folio":1,
+    "stemmed":"群 書 所 明 何 得 自 矜 覽 為 我 造  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b19_13",
+    "original":"又周易繫辭孔子所述。",
+    "folio":1,
+    "stemmed":"又 周 易 繫 辭 孔 子 所 述  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b20_3",
+    "original":"列明古帝制造之事。",
+    "folio":1,
+    "stemmed":"列 明 古 帝 制 造 之 事  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b20_14",
+    "original":"如云庖犧氏之王天下也。",
+    "folio":1,
+    "stemmed":"如 云 庖 犧 氏 之 王 天 下 也  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b21_4",
+    "original":"觀像於天俯察於地。",
+    "folio":1,
+    "stemmed":"觀 像 於 天 俯 察 於 地  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b21_13",
+    "original":"近取諸身遠取諸物。",
+    "folio":1,
+    "stemmed":"近 取 諸 身 遠 取 諸 物  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b22_5",
+    "original":"始畫八卦以通神明之德。",
+    "folio":1,
+    "stemmed":"始 畫 八 卦 以 通 神 明 之 德  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b22_12",
+    "original":"以類萬物之情。",
+    "folio":1,
+    "stemmed":"以 類 萬 物 之 情  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b23_1",
+    "original":"作結繩而為網罟。",
+    "folio":1,
+    "stemmed":"作 結 繩 而 為 網 罟  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b23_6",
+    "original":"以佃以漁。",
+    "folio":1,
+    "stemmed":"以 佃 以 漁  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b23_11",
+    "original":"蓋取諸離。",
+    "folio":1,
+    "stemmed":"蓋 取 諸 離  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b24_1",
+    "original":"神農氏作為耜為來。",
+    "folio":1,
+    "stemmed":"神 農 氏 作 為 耜 為 來  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b24_6",
+    "original":"以利天下。",
+    "folio":1,
+    "stemmed":"以 利 天 下  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b24_15",
+    "original":"日中為市交易有無。",
+    "folio":1,
+    "stemmed":"日 中 為 市 交 易 有 無  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b25_9",
+    "original":"乃至黃帝堯舜垂衣裳而天下治。",
+    "folio":1,
+    "stemmed":"乃 至 黃 帝 堯 舜 垂 衣 裳 而 天 下 治  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b25_15",
+    "original":"蓋取諸乾坤。",
+    "folio":1,
+    "stemmed":"蓋 取 諸 乾 坤  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b26_5",
+    "original":"如此歷陳法易造物。",
+    "folio":1,
+    "stemmed":"如 此 歷 陳 法 易 造 物  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b26_13",
+    "original":"不言老子所造也。",
+    "folio":1,
+    "stemmed":"不 言 老 子 所 造 也  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b27_3",
+    "original":"竊他功業標為己能。",
+    "folio":1,
+    "stemmed":"竊 他 功 業 標 為 己 能  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b27_12",
+    "original":"衒名自高君子不忍。",
+    "folio":1,
+    "stemmed":"衒 名 自 高 君 子 不 忍  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b27_15",
+    "original":"又云。",
+    "folio":1,
+    "stemmed":"又 云  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b28_6",
+    "original":"老子在堯時為務成子者。",
+    "folio":1,
+    "stemmed":"老 子 在 堯 時 為 務 成 子 者  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b28_16",
+    "original":"案後漢應邵風俗通云。",
+    "folio":1,
+    "stemmed":"案 後 漢 應 邵 風 俗 通 云  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b29_6",
+    "original":"東方朔是太白星精。",
+    "folio":1,
+    "stemmed":"東 方 朔 是 太 白 星 精  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755b29_13",
+    "original":"黃帝時為風后。",
+    "folio":1,
+    "stemmed":"黃 帝 時 為 風 后  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c01_1",
+    "original":"堯時為務成子。",
+    "folio":1,
+    "stemmed":"堯 時 為 務 成 子  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c01_7",
+    "original":"周時為老聃。",
+    "folio":1,
+    "stemmed":"周 時 為 老 聃  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c01_14",
+    "original":"在越時為范䗍。",
+    "folio":1,
+    "stemmed":"在 越 時 為 范 䗍  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c02_1",
+    "original":"在齊為鴟子。",
+    "folio":1,
+    "stemmed":"在 齊 為 鴟 子  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c02_11",
+    "original":"此則務成子乃東方朔。",
+    "folio":1,
+    "stemmed":"此 則 務 成 子 乃 東 方 朔  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c02_18",
+    "original":"非干老子明矣。",
+    "folio":1,
+    "stemmed":"非 干 老 子 明 矣  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c03_12",
+    "original":"何得妄加鈎引稱老子為人師乎。",
+    "folio":1,
+    "stemmed":"何 得 妄 加 鈎 引 稱 老 子 為 人 師 乎  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c04_4",
+    "original":"案魯哀公問於子夏曰。",
+    "folio":1,
+    "stemmed":"案 魯 哀 公 問 於 子 夏 曰  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c04_13",
+    "original":"五帝三皇皆有師乎。",
+    "folio":1,
+    "stemmed":"五 帝 三 皇 皆 有 師 乎  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c04_18",
+    "original":"子夏曰有。",
+    "folio":1,
+    "stemmed":"子 夏 曰 有  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c05_7",
+    "original":"臣聞黃帝學乎太真。",
+    "folio":1,
+    "stemmed":"臣 聞 黃 帝 學 乎 太 真  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c05_14",
+    "original":"顓頊學乎綠圖。",
+    "folio":1,
+    "stemmed":"顓 頊 學 乎 綠 圖  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c06_3",
+    "original":"帝嚳學乎赤松子。",
+    "folio":1,
+    "stemmed":"帝 嚳 學 乎 赤 松 子  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c06_9",
+    "original":"堯學乎尹壽。",
+    "folio":1,
+    "stemmed":"堯 學 乎 尹 壽  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c06_16",
+    "original":"舜學乎務成跗。",
+    "folio":1,
+    "stemmed":"舜 學 乎 務 成 跗  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c07_4",
+    "original":"禹學乎西王國。",
+    "folio":1,
+    "stemmed":"禹 學 乎 西 王 國  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c07_11",
+    "original":"湯學乎威子伯。",
+    "folio":1,
+    "stemmed":"湯 學 乎 威 子 伯  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c08_1",
+    "original":"文王學乎鉸時子斯。",
+    "folio":1,
+    "stemmed":"文 王 學 乎 鉸 時 子 斯  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c08_8",
+    "original":"武王學乎郭政。",
+    "folio":1,
+    "stemmed":"武 王 學 乎 郭 政  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c08_17",
+    "original":"周公學乎太公呂望。",
+    "folio":1,
+    "stemmed":"周 公 學 乎 太 公 呂 望  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c09_6",
+    "original":"上之所敘文極分明。",
+    "folio":1,
+    "stemmed":"上 之 所 敘 文 極 分 明  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c09_17",
+    "original":"而言老子隨代為帝王師。",
+    "folio":1,
+    "stemmed":"而 言 老 子 隨 代 為 帝 王 師  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c10_6",
+    "original":"何出言之狂悖哉。",
+    "folio":1,
+    "stemmed":"何 出 言 之 狂 悖 哉  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c10_15",
+    "original":"巧言如篁顏之厚矣。",
+    "folio":1,
+    "stemmed":"巧 言 如 篁 顏 之 厚 矣  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c11_4",
+    "original":"且老子衰周柱史。",
+    "folio":1,
+    "stemmed":"且 老 子 衰 周 柱 史  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c11_9",
+    "original":"史有明文。",
+    "folio":1,
+    "stemmed":"史 有 明 文  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c11_14",
+    "original":"本是人臣。",
+    "folio":1,
+    "stemmed":"本 是 人 臣  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c12_3",
+    "original":"返為上古帝王之師。",
+    "folio":1,
+    "stemmed":"返 為 上 古 帝 王 之 師  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c12_14",
+    "original":"履冠戴屨何顛狂之甚乎。",
+    "folio":1,
+    "stemmed":"履 冠 戴 屨 何 顛 狂 之 甚 乎  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c12_19",
+    "original":"又上文云。",
+    "folio":1,
+    "stemmed":"又 上 文 云  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c13_10",
+    "original":"上古之君皆受教於老子。",
+    "folio":1,
+    "stemmed":"上 古 之 君 皆 受 教 於 老 子  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c13_17",
+    "original":"則桀紂之不仁。",
+    "folio":1,
+    "stemmed":"則 桀 紂 之 不 仁  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c14_4",
+    "original":"幽厲之無道。",
+    "folio":1,
+    "stemmed":"幽 厲 之 無 道  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c14_10",
+    "original":"秦皇之凶暴。",
+    "folio":1,
+    "stemmed":"秦 皇 之 凶 暴  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c14_16",
+    "original":"王莽之纂逆。",
+    "folio":1,
+    "stemmed":"王 莽 之 纂 逆  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c15_4",
+    "original":"亦老子之所教也。",
+    "folio":1,
+    "stemmed":"亦 老 子 之 所 教 也  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c15_18",
+    "original":"既然如是則老子為悖逆之魁首。",
+    "folio":1,
+    "stemmed":"既 然 如 是 則 老 子 為 悖 逆 之 魁 首  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c16_5",
+    "original":"巨猾之元匠。",
+    "folio":1,
+    "stemmed":"巨 猾 之 元 匠  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c16_10",
+    "original":"不忠不孝。",
+    "folio":1,
+    "stemmed":"不 忠 不 孝  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c16_16",
+    "original":"老子之所生。",
+    "folio":1,
+    "stemmed":"老 子 之 所 生  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c17_1",
+    "original":"不義不仁。",
+    "folio":1,
+    "stemmed":"不 義 不 仁  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c17_7",
+    "original":"老子之所主。",
+    "folio":1,
+    "stemmed":"老 子 之 所 主  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c17_16",
+    "original":"為人師者不亦慚乎。",
+    "folio":1,
+    "stemmed":"為 人 師 者 不 亦 慚 乎  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c18_6",
+    "original":"老君既說隨代為師。",
+    "folio":1,
+    "stemmed":"老 君 既 說 隨 代 為 師  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c18_16",
+    "original":"而秦漢之下至於今朝。",
+    "folio":1,
+    "stemmed":"而 秦 漢 之 下 至 於 今 朝  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c19_3",
+    "original":"偏無一現乎。",
+    "folio":1,
+    "stemmed":"偏 無 一 現 乎  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c19_8",
+    "original":"今既無矣。",
+    "folio":1,
+    "stemmed":"今 既 無 矣  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c19_13",
+    "original":"古亦虛焉。",
+    "folio":1,
+    "stemmed":"古 亦 虛 焉  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c19_19",
+    "original":"且漢文恭儉。",
+    "folio":1,
+    "stemmed":"且 漢 文 恭 儉  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c20_4",
+    "original":"孝武英明。",
+    "folio":1,
+    "stemmed":"孝 武 英 明  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c20_12",
+    "original":"孝明達禮樂之情。",
+    "folio":1,
+    "stemmed":"孝 明 達 禮 樂 之 情  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c21_1",
+    "original":"孝章優儒雅之道。",
+    "folio":1,
+    "stemmed":"孝 章 優 儒 雅 之 道  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c21_9",
+    "original":"魏文帝風流文藻。",
+    "folio":1,
+    "stemmed":"魏 文 帝 風 流 文 藻  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c21_17",
+    "original":"晉世祖明達寬仁。",
+    "folio":1,
+    "stemmed":"晉 世 祖 明 達 寬 仁  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c22_6",
+    "original":"宋文帝致治昇平。",
+    "folio":1,
+    "stemmed":"宋 文 帝 致 治 昇 平  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c22_14",
+    "original":"梁武帝文武兼備。",
+    "folio":1,
+    "stemmed":"梁 武 帝 文 武 兼 備  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c23_3",
+    "original":"隋高祖混同四海。",
+    "folio":1,
+    "stemmed":"隋 高 祖 混 同 四 海  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c23_11",
+    "original":"唐太宗混一車書。",
+    "folio":1,
+    "stemmed":"唐 太 宗 混 一 車 書  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c24_7",
+    "original":"此時不俟老子之化而皆金聲玉振。",
+    "folio":1,
+    "stemmed":"此 時 不 俟 老 子 之 化 而 皆 金 聲 玉 振  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c24_18",
+    "original":"則知牽合巧會枉廢詞章。",
+    "folio":1,
+    "stemmed":"則 知 牽 合 巧 會 枉 廢 詞 章  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c25_6",
+    "original":"秖可誑於閭閻。",
+    "folio":1,
+    "stemmed":"秖 可 誑 於 閭 閻  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c25_13",
+    "original":"難可信於達士。",
+    "folio":1,
+    "stemmed":"難 可 信 於 達 士  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c26_3",
+    "original":"嫫母加粉見者愈嗤。",
+    "folio":1,
+    "stemmed":"嫫 母 加 粉 見 者 愈 嗤  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c27_5",
+    "original":"隣女效顰鄉人不貴哀公問子夏文氏春秋亦有見劉向新序呂文不次爾。",
+    "folio":1,
+    "stemmed":"隣 女 效 顰 鄉 人 不 貴 哀 公 問 子 夏 文 氏 春 秋 亦 有 見 劉 向 新 序 呂 文 不 次 爾  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c29_4",
+    "original":"5 老子出靈寶三洞偽老子出靈寶三洞偽第五第九化云。",
+    "folio":1,
+    "stemmed":"5   老 子 出 靈 寶 三 洞 偽 老 子 出 靈 寶 三 洞 偽 第 五 第 九 化 云  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0755c29_18",
+    "original":"太上老君以中皇元年三月一日。",
+    "folio":1,
+    "stemmed":"太 上 老 君 以 中 皇 元 年 三 月 一 日  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a01_8",
+    "original":"於玉清天金闕上官。",
+    "folio":1,
+    "stemmed":"於 玉 清 天 金 闕 上 官  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a02_2",
+    "original":"撰集靈篇以為寶經三百卷。",
+    "folio":1,
+    "stemmed":"撰 集 靈 篇 以 為 寶 經 三 百 卷  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a02_8",
+    "original":"符圖七千章。",
+    "folio":1,
+    "stemmed":"符 圖 七 千 章  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a02_14",
+    "original":"玉訣九千篇。",
+    "folio":1,
+    "stemmed":"玉 訣 九 千 篇  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a03_4",
+    "original":"老君於上三皇時出。",
+    "folio":1,
+    "stemmed":"老 君 於 上 三 皇 時 出  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a03_10",
+    "original":"為萬天法師。",
+    "folio":1,
+    "stemmed":"為 萬 天 法 師  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a03_17",
+    "original":"又號玄中法師。",
+    "folio":1,
+    "stemmed":"又 號 玄 中 法 師  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a04_3",
+    "original":"當龍漢元年。",
+    "folio":1,
+    "stemmed":"當 龍 漢 元 年  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a04_15",
+    "original":"授上三皇洞真經一十二部。",
+    "folio":1,
+    "stemmed":"授 上 三 皇 洞 真 經 一 十 二 部  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a05_6",
+    "original":"以無極之道下教人間。",
+    "folio":1,
+    "stemmed":"以 無 極 之 道 下 教 人 間  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a05_14",
+    "original":"其時人壽九萬歲。",
+    "folio":1,
+    "stemmed":"其 時 人 壽 九 萬 歲  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a06_11",
+    "original":"於中三皇時號有古先生當赤明元年。",
+    "folio":1,
+    "stemmed":"於 中 三 皇 時 號 有 古 先 生 當 赤 明 元 年  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a07_5",
+    "original":"授中三皇洞玄經一十二部。",
+    "folio":1,
+    "stemmed":"授 中 三 皇 洞 玄 經 一 十 二 部  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a07_17",
+    "original":"行無上正真之道以化於人。",
+    "folio":1,
+    "stemmed":"行 無 上 正 真 之 道 以 化 於 人  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a08_6",
+    "original":"其時人壽六萬歲。",
+    "folio":1,
+    "stemmed":"其 時 人 壽 六 萬 歲  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a08_15",
+    "original":"於下三皇時出為師。",
+    "folio":1,
+    "stemmed":"於 下 三 皇 時 出 為 師  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a09_2",
+    "original":"號金闕帝君。",
+    "folio":1,
+    "stemmed":"號 金 闕 帝 君  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a09_8",
+    "original":"當開皇元年。",
+    "folio":1,
+    "stemmed":"當 開 皇 元 年  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a10_1",
+    "original":"授下三皇洞神經一十二部。",
+    "folio":1,
+    "stemmed":"授 下 三 皇 洞 神 經 一 十 二 部  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a10_9",
+    "original":"以太平之道化人。",
+    "folio":1,
+    "stemmed":"以 太 平 之 道 化 人  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a10_19",
+    "original":"其時人壽一萬八千歲。",
+    "folio":1,
+    "stemmed":"其 時 人 壽 一 萬 八 千 歲  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a11_12",
+    "original":"夫洞真洞玄洞神各一十二部。",
+    "folio":1,
+    "stemmed":"夫 洞 真 洞 玄 洞 神 各 一 十 二 部  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a12_4",
+    "original":"合為三十六部尊經也。",
+    "folio":1,
+    "stemmed":"合 為 三 十 六 部 尊 經 也  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a13_2",
+    "original":"辯曰。",
+    "folio":1,
+    "stemmed":"辯 曰  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a13_8",
+    "original":"夫仲尼入夢。",
+    "folio":1,
+    "stemmed":"夫 仲 尼 入 夢  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a13_15",
+    "original":"十翼之道始宣。",
+    "folio":1,
+    "stemmed":"十 翼 之 道 始 宣  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a14_1",
+    "original":"伯陽過關。",
+    "folio":1,
+    "stemmed":"伯 陽 過 關  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a14_8",
+    "original":"二篇之教方闡。",
+    "folio":1,
+    "stemmed":"二 篇 之 教 方 闡  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a14_16",
+    "original":"有名為萬物之始。",
+    "folio":1,
+    "stemmed":"有 名 為 萬 物 之 始  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a15_4",
+    "original":"無名為天地之先。",
+    "folio":1,
+    "stemmed":"無 名 為 天 地 之 先  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a15_7",
+    "original":"混徼。",
+    "folio":1,
+    "stemmed":"混 徼  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a15_12",
+    "original":"妙而同玄。",
+    "folio":1,
+    "stemmed":"妙 而 同 玄  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a15_19",
+    "original":"驚寵辱而一致。",
+    "folio":1,
+    "stemmed":"驚 寵 辱 而 一 致  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a16_8",
+    "original":"谷神不死久視長生。",
+    "folio":1,
+    "stemmed":"谷 神 不 死 久 視 長 生  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a16_17",
+    "original":"挫銳解紛謙卑自牧。",
+    "folio":1,
+    "stemmed":"挫 銳 解 紛 謙 卑 自 牧  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a17_5",
+    "original":"此老氏之旨也。",
+    "folio":1,
+    "stemmed":"此 老 氏 之 旨 也  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a17_14",
+    "original":"自餘教典皆是偽書。",
+    "folio":1,
+    "stemmed":"自 餘 教 典 皆 是 偽 書  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a18_4",
+    "original":"制雜凡流唯尚誇競。",
+    "folio":1,
+    "stemmed":"制 雜 凡 流 唯 尚 誇 競  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a18_13",
+    "original":"採傍佛語換體安名。",
+    "folio":1,
+    "stemmed":"採 傍 佛 語 換 體 安 名  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a19_2",
+    "original":"擬三界而立三清。",
+    "folio":1,
+    "stemmed":"擬 三 界 而 立 三 清  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a19_10",
+    "original":"彷三大而立三洞。",
+    "folio":1,
+    "stemmed":"彷 三 大 而 立 三 洞  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a19_19",
+    "original":"虛勞紙墨妄飾詞章。",
+    "folio":1,
+    "stemmed":"虛 勞 紙 墨 妄 飾 詞 章  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a20_4",
+    "original":"何以知之。",
+    "folio":1,
+    "stemmed":"何 以 知 之  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a20_14",
+    "original":"漢時張道陵造靈寶經。",
+    "folio":1,
+    "stemmed":"漢 時 張 道 陵 造 靈 寶 經  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a21_2",
+    "original":"王褒造洞玄經。",
+    "folio":1,
+    "stemmed":"王 褒 造 洞 玄 經  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a21_12",
+    "original":"吳時葛孝先造上清經。",
+    "folio":1,
+    "stemmed":"吳 時 葛 孝 先 造 上 清 經  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a22_4",
+    "original":"晉時王浮造明威化胡經。",
+    "folio":1,
+    "stemmed":"晉 時 王 浮 造 明 威 化 胡 經  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a22_11",
+    "original":"鮑靜造三皇經。",
+    "folio":1,
+    "stemmed":"鮑 靜 造 三 皇 經  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a22_18",
+    "original":"後改為三清經。",
+    "folio":1,
+    "stemmed":"後 改 為 三 清 經  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a23_12",
+    "original":"齊朝陳顯明造六十四真步虛經。",
+    "folio":1,
+    "stemmed":"齊 朝 陳 顯 明 造 六 十 四 真 步 虛 經  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a24_4",
+    "original":"梁時陶弘景造太清經。",
+    "folio":1,
+    "stemmed":"梁 時 陶 弘 景 造 太 清 經  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a24_17",
+    "original":"隋末輔慧祥改涅槃為長安經。",
+    "folio":1,
+    "stemmed":"隋 末 輔 慧 祥 改 涅 槃 為 長 安 經  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a25_4",
+    "original":"後事發被誅。",
+    "folio":1,
+    "stemmed":"後 事 發 被 誅  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a25_12",
+    "original":"案甄鸞笑道論云。",
+    "folio":1,
+    "stemmed":"案 甄 鸞 笑 道 論 云  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a26_8",
+    "original":"道家妄注諸子三百五十卷為道經。",
+    "folio":1,
+    "stemmed":"道 家 妄 注 諸 子 三 百 五 十 卷 為 道 經  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a26_13",
+    "original":"如此詳之。",
+    "folio":1,
+    "stemmed":"如 此 詳 之  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a27_3",
+    "original":"代代穿鑿人人妄制。",
+    "folio":1,
+    "stemmed":"代 代 穿 鑿 人 人 妄 制  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a27_12",
+    "original":"採他佛教標為道書。",
+    "folio":1,
+    "stemmed":"採 他 佛 教 標 為 道 書  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a27_19",
+    "original":"或言仙洞飛來。",
+    "folio":1,
+    "stemmed":"或 言 仙 洞 飛 來  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a28_6",
+    "original":"或言老子再現。",
+    "folio":1,
+    "stemmed":"或 言 老 子 再 現  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a28_15",
+    "original":"群賢不覩道士獨傳。",
+    "folio":1,
+    "stemmed":"群 賢 不 覩 道 士 獨 傳  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a29_5",
+    "original":"欺誷時君不懼朝憲。",
+    "folio":1,
+    "stemmed":"欺 誷 時 君 不 懼 朝 憲  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756a29_17",
+    "original":"故唐琳法師對太宗皇帝云。",
+    "folio":1,
+    "stemmed":"故 唐 琳 法 師 對 太 宗 皇 帝 云  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b01_5",
+    "original":"若據蕭溫眾議。",
+    "folio":1,
+    "stemmed":"若 據 蕭 溫 眾 議  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b01_14",
+    "original":"道家止有道德二篇。",
+    "folio":1,
+    "stemmed":"道 家 止 有 道 德 二 篇  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b02_8",
+    "original":"如依漢明校量便應七百餘卷。",
+    "folio":1,
+    "stemmed":"如 依 漢 明 校 量 便 應 七 百 餘 卷  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b02_16",
+    "original":"約葛洪神仙之說。",
+    "folio":1,
+    "stemmed":"約 葛 洪 神 仙 之 說  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b03_2",
+    "original":"僅有一千。",
+    "folio":1,
+    "stemmed":"僅 有 一 千  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b03_14",
+    "original":"准修靜所上目中過前九十。",
+    "folio":1,
+    "stemmed":"准 修 靜 所 上 目 中 過 前 九 十  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b04_6",
+    "original":"又檢玄都目錄轉復彌多。",
+    "folio":1,
+    "stemmed":"又 檢 玄 都 目 錄 轉 復 彌 多  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b04_13",
+    "original":"既其先後不同。",
+    "folio":1,
+    "stemmed":"既 其 先 後 不 同  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b05_1",
+    "original":"顯知後人妄制。",
+    "folio":1,
+    "stemmed":"顯 知 後 人 妄 制  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b05_10",
+    "original":"增加卷軸添足篇章。",
+    "folio":1,
+    "stemmed":"增 加 卷 軸 添 足 篇 章  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b05_19",
+    "original":"依傍佛經改頭換尾。",
+    "folio":1,
+    "stemmed":"依 傍 佛 經 改 頭 換 尾  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b06_6",
+    "original":"或道名山自出。",
+    "folio":1,
+    "stemmed":"或 道 名 山 自 出  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b06_13",
+    "original":"時唱仙洞飛來。",
+    "folio":1,
+    "stemmed":"時 唱 仙 洞 飛 來  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b07_5",
+    "original":"何乃黃領獨知英賢罕覩。",
+    "folio":1,
+    "stemmed":"何 乃 黃 領 獨 知 英 賢 罕 覩  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b07_14",
+    "original":"典籍不記書史無聞。",
+    "folio":1,
+    "stemmed":"典 籍 不 記 書 史 無 聞  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b08_2",
+    "original":"試問當今道士。",
+    "folio":1,
+    "stemmed":"試 問 當 今 道 士  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b08_9",
+    "original":"推勘後出之經。",
+    "folio":1,
+    "stemmed":"推 勘 後 出 之 經  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b08_16",
+    "original":"為是老子別陳。",
+    "folio":1,
+    "stemmed":"為 是 老 子 別 陳  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b09_4",
+    "original":"為是天尊更說。",
+    "folio":1,
+    "stemmed":"為 是 天 尊 更 說  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b09_17",
+    "original":"若也更說應有時方師資傳授。",
+    "folio":1,
+    "stemmed":"若 也 更 說 應 有 時 方 師 資 傳 授  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b10_9",
+    "original":"為是何年何月何邦何代。",
+    "folio":1,
+    "stemmed":"為 是 何 年 何 月 何 邦 何 代  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b10_16",
+    "original":"若在天上而說。",
+    "folio":1,
+    "stemmed":"若 在 天 上 而 說  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b11_2",
+    "original":"何人傳來。",
+    "folio":1,
+    "stemmed":"何 人 傳 來  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b11_9",
+    "original":"若在西域而談。",
+    "folio":1,
+    "stemmed":"若 在 西 域 而 談  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b11_14",
+    "original":"何人譯出。",
+    "folio":1,
+    "stemmed":"何 人 譯 出  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b12_4",
+    "original":"如其有據容可流行。",
+    "folio":1,
+    "stemmed":"如 其 有 據 容 可 流 行  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b12_13",
+    "original":"若也妄言理須焚剪。",
+    "folio":1,
+    "stemmed":"若 也 妄 言 理 須 焚 剪  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b12_19",
+    "original":"又漢晉之代。",
+    "folio":1,
+    "stemmed":"又 漢 晉 之 代  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b13_4",
+    "original":"僧號道士。",
+    "folio":1,
+    "stemmed":"僧 號 道 士  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b13_13",
+    "original":"寇謙得志僭冐其名。",
+    "folio":1,
+    "stemmed":"寇 謙 得 志 僭 冐 其 名  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b14_3",
+    "original":"今稱法師愈為矯飾。",
+    "folio":1,
+    "stemmed":"今 稱 法 師 愈 為 矯 飾  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b14_12",
+    "original":"法師之號源出佛經。",
+    "folio":1,
+    "stemmed":"法 師 之 號 源 出 佛 經  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b15_2",
+    "original":"萬卷百家本無此語。",
+    "folio":1,
+    "stemmed":"萬 卷 百 家 本 無 此 語  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b15_12",
+    "original":"且為法之師名為法師。",
+    "folio":1,
+    "stemmed":"且 為 法 之 師 名 為 法 師  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b16_2",
+    "original":"法即是師名為法師。",
+    "folio":1,
+    "stemmed":"法 即 是 師 名 為 法 師  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b16_11",
+    "original":"名義不知妄安己號。",
+    "folio":1,
+    "stemmed":"名 義 不 知 妄 安 己 號  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b17_2",
+    "original":"按賢劫已來有三佛出。",
+    "folio":1,
+    "stemmed":"按 賢 劫 已 來 有 三 佛 出  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b17_12",
+    "original":"初佛出時人壽六萬歲。",
+    "folio":1,
+    "stemmed":"初 佛 出 時 人 壽 六 萬 歲  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b18_3",
+    "original":"第二佛出時人壽四萬。",
+    "folio":1,
+    "stemmed":"第 二 佛 出 時 人 壽 四 萬  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b18_12",
+    "original":"第三佛出人壽二萬。",
+    "folio":1,
+    "stemmed":"第 三 佛 出 人 壽 二 萬  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b19_4",
+    "original":"何乃改彼三皇妄合其數。",
+    "folio":1,
+    "stemmed":"何 乃 改 彼 三 皇 妄 合 其 數  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b19_9",
+    "original":"又前說云。",
+    "folio":1,
+    "stemmed":"又 前 說 云  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b20_3",
+    "original":"上三氣中而有龍漢赤明之號。",
+    "folio":1,
+    "stemmed":"上 三 氣 中 而 有 龍 漢 赤 明 之 號  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b20_10",
+    "original":"是時五運尚無。",
+    "folio":1,
+    "stemmed":"是 時 五 運 尚 無  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b21_7",
+    "original":"但唯一氣何有三皇之君人壽之數乎。",
+    "folio":1,
+    "stemmed":"但 唯 一 氣 何 有 三 皇 之 君 人 壽 之 數 乎  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b22_2",
+    "original":"上古縱有五龍四姓九頭十紀。",
+    "folio":1,
+    "stemmed":"上 古 縱 有 五 龍 四 姓 九 頭 十 紀  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b22_11",
+    "original":"亦無三皇建立年號。",
+    "folio":1,
+    "stemmed":"亦 無 三 皇 建 立 年 號  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b22_14",
+    "original":"試問。",
+    "folio":1,
+    "stemmed":"試 問  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b23_4",
+    "original":"龍漢赤明上皇開皇。",
+    "folio":1,
+    "stemmed":"龍 漢 赤 明 上 皇 開 皇  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b23_10",
+    "original":"誰君之年乎。",
+    "folio":1,
+    "stemmed":"誰 君 之 年 乎  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b23_15",
+    "original":"若言有說。",
+    "folio":1,
+    "stemmed":"若 言 有 說  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b24_1",
+    "original":"史無明文。",
+    "folio":1,
+    "stemmed":"史 無 明 文  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b24_6",
+    "original":"若言無憑。",
+    "folio":1,
+    "stemmed":"若 言 無 憑  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b24_11",
+    "original":"不可妄立。",
+    "folio":1,
+    "stemmed":"不 可 妄 立  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b25_1",
+    "original":"扣其兩端竟無一是。",
+    "folio":1,
+    "stemmed":"扣 其 兩 端 竟 無 一 是  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b25_11",
+    "original":"又伏犧之前文字未有。",
+    "folio":1,
+    "stemmed":"又 伏 犧 之 前 文 字 未 有  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b26_2",
+    "original":"何出三洞靈寶之篇乎。",
+    "folio":1,
+    "stemmed":"何 出 三 洞 靈 寶 之 篇 乎  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b26_12",
+    "original":"又十二部名源出佛經。",
+    "folio":1,
+    "stemmed":"又 十 二 部 名 源 出 佛 經  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b27_2",
+    "original":"一代時教類分十二。",
+    "folio":1,
+    "stemmed":"一 代 時 教 類 分 十 二  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b27_9",
+    "original":"道家名義不知。",
+    "folio":1,
+    "stemmed":"道 家 名 義 不 知  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b27_16",
+    "original":"何以妄著己典。",
+    "folio":1,
+    "stemmed":"何 以 妄 著 己 典  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b28_6",
+    "original":"如琢美玉擬作甑窐。",
+    "folio":1,
+    "stemmed":"如 琢 美 玉 擬 作 甑 窐  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756b28_15",
+    "original":"雖受劬勞智者見誚。",
+    "folio":1,
+    "stemmed":"雖 受 劬 勞 智 者 見 誚  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c01_6",
+    "original":"6 遊化九天偽遊化九天偽第六第二十六化云。",
+    "folio":1,
+    "stemmed":"6   遊 化 九 天 偽 遊 化 九 天 偽 第 六 第 二 十 六 化 云  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c01_16",
+    "original":"是時老君於青羊大會。",
+    "folio":1,
+    "stemmed":"是 時 老 君 於 青 羊 大 會  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c02_5",
+    "original":"引尹喜冉冉昇空。",
+    "folio":1,
+    "stemmed":"引 尹 喜 冉 冉 昇 空  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c02_16",
+    "original":"初至第一天見波利天帝。",
+    "folio":1,
+    "stemmed":"初 至 第 一 天 見 波 利 天 帝  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c03_5",
+    "original":"乘九光元靈之輿。",
+    "folio":1,
+    "stemmed":"乘 九 光 元 靈 之 輿  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c03_13",
+    "original":"蔭七元交晨之蓋。",
+    "folio":1,
+    "stemmed":"蔭 七 元 交 晨 之 蓋  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c04_2",
+    "original":"建五色攝魔之節。",
+    "folio":1,
+    "stemmed":"建 五 色 攝 魔 之 節  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c04_10",
+    "original":"金童玉女九萬人。",
+    "folio":1,
+    "stemmed":"金 童 玉 女 九 萬 人  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c04_18",
+    "original":"迎老君入大有宮。",
+    "folio":1,
+    "stemmed":"迎 老 君 入 大 有 宮  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c05_5",
+    "original":"請問自然之道。",
+    "folio":1,
+    "stemmed":"請 問 自 然 之 道  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c06_15",
+    "original":"如是摩夷天梵寶天化應天不憍樂天兜率天須延天禪善天欝單天。",
+    "folio":1,
+    "stemmed":"如 是 摩 夷 天 梵 寶 天 化 應 天 不憍樂天 兜 率 天 須 延 天 禪 善 天 欝 單 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c07_8",
+    "original":"隨處天帝皆與天童玉女。",
+    "folio":1,
+    "stemmed":"隨 處 天 帝 皆 與 天 童 玉 女  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c07_17",
+    "original":"迎禮老君請問法要。",
+    "folio":1,
+    "stemmed":"迎 禮 老 君 請 問 法 要  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c09_3",
+    "original":"所到天宮皆設瓊漿碧醴丹液流薰蘭羞八徹靈芝珍果。",
+    "folio":1,
+    "stemmed":"所 到 天 宮 皆 設 瓊 漿 碧 醴 丹 液 流 薰 蘭 羞 八 徹 靈 芝 珍 果  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c10_2",
+    "original":"辯曰。",
+    "folio":1,
+    "stemmed":"辯 曰  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c10_11",
+    "original":"昔我世尊初成正覺。",
+    "folio":1,
+    "stemmed":"昔 我 世 尊 初 成 正 覺  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c11_1",
+    "original":"不離道樹而赴諸天。",
+    "folio":1,
+    "stemmed":"不 離 道 樹 而 赴 諸 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c11_10",
+    "original":"一身不分而遍一切。",
+    "folio":1,
+    "stemmed":"一 身 不 分 而 遍 一 切  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c11_15",
+    "original":"即多而一。",
+    "folio":1,
+    "stemmed":"即 多 而 一  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c11_20",
+    "original":"即一而多。",
+    "folio":1,
+    "stemmed":"即 一 而 多  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c12_10",
+    "original":"猶如素月流空影分眾水。",
+    "folio":1,
+    "stemmed":"猶 如 素 月 流 空 影 分 眾 水  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c13_1",
+    "original":"大塊噫氣萬竅怒號。",
+    "folio":1,
+    "stemmed":"大 塊 噫 氣 萬 竅 怒 號  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c13_10",
+    "original":"大小咸周遠近無隔。",
+    "folio":1,
+    "stemmed":"大 小 咸 周 遠 近 無 隔  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c13_19",
+    "original":"無心頓應豈止九天。",
+    "folio":1,
+    "stemmed":"無 心 頓 應 豈 止 九 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c14_5",
+    "original":"伯周之柱史。",
+    "folio":1,
+    "stemmed":"伯 周 之 柱 史  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c14_12",
+    "original":"尹喜函谷關吏。",
+    "folio":1,
+    "stemmed":"尹 喜 函 谷 關 吏  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c14_17",
+    "original":"身居下位。",
+    "folio":1,
+    "stemmed":"身 居 下 位  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c15_7",
+    "original":"難等聖蹤欲為己德。",
+    "folio":1,
+    "stemmed":"難 等 聖 蹤 欲 為 己 德  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c15_16",
+    "original":"蓋善竊者鬼神不覺。",
+    "folio":1,
+    "stemmed":"蓋 善 竊 者 鬼 神 不 覺  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c16_6",
+    "original":"既為人知非是好手。",
+    "folio":1,
+    "stemmed":"既 為 人 知 非 是 好 手  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c16_13",
+    "original":"離欲而獲輕舉。",
+    "folio":1,
+    "stemmed":"離 欲 而 獲 輕 舉  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c17_1",
+    "original":"禪定而感神通。",
+    "folio":1,
+    "stemmed":"禪 定 而 感 神 通  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c17_8",
+    "original":"老子既無此功。",
+    "folio":1,
+    "stemmed":"老 子 既 無 此 功  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c17_15",
+    "original":"何以昇於天上。",
+    "folio":1,
+    "stemmed":"何 以 昇 於 天 上  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c18_1",
+    "original":"昔列子居鄭。",
+    "folio":1,
+    "stemmed":"昔 列 子 居 鄭  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c18_6",
+    "original":"夫妻相忘。",
+    "folio":1,
+    "stemmed":"夫 妻 相 忘  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c18_11",
+    "original":"耳目不分。",
+    "folio":1,
+    "stemmed":"耳 目 不 分  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c18_16",
+    "original":"翛然絕寄。",
+    "folio":1,
+    "stemmed":"翛 然 絕 寄  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c19_5",
+    "original":"心凝形釋骨肉都融。",
+    "folio":1,
+    "stemmed":"心 凝 形 釋 骨 肉 都 融  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c19_16",
+    "original":"然後身如槁葉隨風東西。",
+    "folio":1,
+    "stemmed":"然 後 身 如 槁 葉 隨 風 東 西  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c20_6",
+    "original":"萬里須臾過旬乃返。",
+    "folio":1,
+    "stemmed":"萬 里 須 臾 過 旬 乃 返  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c20_12",
+    "original":"而莊周譏云。",
+    "folio":1,
+    "stemmed":"而 莊 周 譏 云  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c20_17",
+    "original":"猶有所待。",
+    "folio":1,
+    "stemmed":"猶 有 所 待  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c22_1",
+    "original":"矧乎老耳不絕妻子老子之子名宗宗之子名注注之子名宮侍魏文矦未逮形亡。",
+    "folio":1,
+    "stemmed":"矧 乎 老 耳 不 絕 妻 子 老 子 之 子 名 宗 宗 之 子 名 注 注 之 子 名 宮 侍 魏 文 矦 未 逮 形 亡  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c22_9",
+    "original":"過關乘薄軬之車。",
+    "folio":1,
+    "stemmed":"過 關 乘 薄 軬 之 車  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c22_17",
+    "original":"道經垂有身之患。",
+    "folio":1,
+    "stemmed":"道 經 垂 有 身 之 患  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c23_9",
+    "original":"詎可昇天履霧駕鶴乘雲。",
+    "folio":1,
+    "stemmed":"詎 可 昇 天 履 霧 駕 鶴 乘 雲  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c23_18",
+    "original":"擬効牟尼矜為己勝。",
+    "folio":1,
+    "stemmed":"擬 効 牟 尼 矜 為 己 勝  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c24_7",
+    "original":"且布施而獲大福。",
+    "folio":1,
+    "stemmed":"且 布 施 而 獲 大 福  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c24_14",
+    "original":"持戒而感生天。",
+    "folio":1,
+    "stemmed":"持 戒 而 感 生 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c25_2",
+    "original":"汝尚不達斯由。",
+    "folio":1,
+    "stemmed":"汝 尚 不 達 斯 由  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c25_9",
+    "original":"安能為天說法。",
+    "folio":1,
+    "stemmed":"安 能 為 天 說 法  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c25_14",
+    "original":"欲界本六。",
+    "folio":1,
+    "stemmed":"欲 界 本 六  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c25_19",
+    "original":"妄云九天。",
+    "folio":1,
+    "stemmed":"妄 云 九 天  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c26_4",
+    "original":"初禪純男。",
+    "folio":1,
+    "stemmed":"初 禪 純 男  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c26_9",
+    "original":"而云玉女。",
+    "folio":1,
+    "stemmed":"而 云 玉 女  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c26_18",
+    "original":"句虛闡偽巧說多端。",
+    "folio":1,
+    "stemmed":"句 虛 闡 偽 巧 說 多 端  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c27_2",
+    "original":"且初禪。",
+    "folio":1,
+    "stemmed":"且 初 禪  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c27_9",
+    "original":"已上禪悅為食。",
+    "folio":1,
+    "stemmed":"已 上 禪 悅 為 食  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c27_18",
+    "original":"定生喜樂捨念清淨。",
+    "folio":1,
+    "stemmed":"定生喜樂 捨 念 清 淨  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c28_10",
+    "original":"何用瓊漿碧醴蘭羞八徹乎。",
+    "folio":1,
+    "stemmed":"何 用 瓊 漿 碧 醴 蘭 羞 八 徹 乎  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c29_1",
+    "original":"將謂天上同於人間。",
+    "folio":1,
+    "stemmed":"將 謂 天 上 同 於 人 間  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c29_8",
+    "original":"羨酒肉之葷羶。",
+    "folio":1,
+    "stemmed":"羨 酒 肉 之 葷 羶  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0756c29_15",
+    "original":"爭魚臭之穢濁。",
+    "folio":1,
+    "stemmed":"爭 魚 臭 之 穢 濁  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0757a01_9",
+    "original":"喻乎鴟耽死鼠便為鳳凰同飡。",
+    "folio":1,
+    "stemmed":"喻 乎 鴟 耽 死 鼠 便 為 鳳 凰 同 飡  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0757a01_14",
+    "original":"盜聽不真。",
+    "folio":1,
+    "stemmed":"盜 聽 不 真  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0757a01_19",
+    "original":"請杜臆說。",
+    "folio":1,
+    "stemmed":"請 杜 臆 說  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0757a02_4",
+    "original":"窮鄉多怪。",
+    "folio":1,
+    "stemmed":"窮 鄉 多 怪  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0757a02_9",
+    "original":"曲學多辯。",
+    "folio":1,
+    "stemmed":"曲 學 多 辯  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0757a02_14",
+    "original":"斯言信乎。",
+    "folio":1,
+    "stemmed":"斯 言 信 乎  "
+  },
+  {
+    "segmentnr":"ZH_T52_2116_001:0757a03_100",
+    "original":"辯偽錄卷第一",
+    "folio":1,
+    "stemmed":"辯 偽 錄 卷 第 一 "
+  }
+]

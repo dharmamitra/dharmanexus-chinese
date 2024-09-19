@@ -1,0 +1,5042 @@
+[
+  {
+    "segmentnr":"ZH_T20_1112_001:0490b20_0",
+    "original":"金剛頂瑜伽青頸大悲王觀自在",
+    "folio":1,
+    "stemmed":"金 剛 頂 瑜 伽 青 頸 大 悲 王 觀 自 在 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0490b21_0",
+    "original":"念誦儀軌",
+    "folio":1,
+    "stemmed":"念 誦 儀 軌 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0490b23_0",
+    "original":"南天竺國三藏法師金剛智奉　詔譯一行筆受",
+    "folio":1,
+    "stemmed":"南 天 竺 國 三藏法師 金 剛 智 奉  詔 譯 一 行 筆 受 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0490b24_0",
+    "original":"稽首雄猛阿閦尊　　寶生如來虛空寶",
+    "folio":1,
+    "stemmed":"稽 首 雄 猛 阿 閦 尊   寶 生 如 來 虛 空 寶 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0490b25_0",
+    "original":"觀音如來達磨法　　不空成就業金剛",
+    "folio":1,
+    "stemmed":"觀 音 如 來 達 磨 法   不 空 成 就 業 金 剛 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0490b26_0",
+    "original":"內外八拱十六尊　　四門親護相應者",
+    "folio":1,
+    "stemmed":"內 外 八 拱 十 六 尊   四 門 親 護 相 應 者 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0490b27_8",
+    "original":"我依金剛頂瑜伽經。",
+    "folio":1,
+    "stemmed":"我 依 金 剛 頂 瑜 伽 經  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0490b28_7",
+    "original":"演說觀自在王如來修行蓮花達磨法要。",
+    "folio":1,
+    "stemmed":"演 說 觀 自 在 王 如 來 修 行 蓮 花 達 磨 法 要  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0490b29_1",
+    "original":"欲上本尊樓殿曼荼羅塔寺。",
+    "folio":1,
+    "stemmed":"欲 上 本 尊 樓 殿 曼 荼 羅 塔 寺  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0490b29_11",
+    "original":"先誦陀羅尼獲無量福。",
+    "folio":1,
+    "stemmed":"先 誦 陀 羅 尼 獲 無 量 福  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0490c01_1",
+    "original":"若不誦此陀羅尼者。",
+    "folio":1,
+    "stemmed":"若 不 誦 此 陀 羅 尼 者  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0490c01_8",
+    "original":"隨入寺舍殿塔。",
+    "folio":1,
+    "stemmed":"隨 入 寺 舍 殿 塔  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0490c01_19",
+    "original":"先有功德悉皆磨滅並盡。",
+    "folio":1,
+    "stemmed":"先 有 功 德 悉 皆 磨 滅 並 盡  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0490c02_4",
+    "original":"陀羅尼曰。",
+    "folio":1,
+    "stemmed":"陀 羅 尼 曰  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0490c05_7",
+    "original":"曩謨引三去曼哆嚩無鉢反日囉二合南一唵引二嚩上同日囉二合㘈跛吽三娑嚩二合賀次結金剛開門印。",
+    "folio":1,
+    "stemmed":"曩 謨 引 三 去 曼 哆 嚩 無 鉢 反 日 囉 二 合 南 一 唵 引 二 嚩 上 同 日 囉 二 合 㘈 跛 吽 三 娑 嚩 二 合 賀 次 結 金 剛 開 門 印  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0490c06_3",
+    "original":"即以二羽金剛縛誦吽吽吽三遍。",
+    "folio":1,
+    "stemmed":"即 以 二 羽 金 剛 縛 誦 吽 吽 吽 三 遍  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0490c07_3",
+    "original":"由如雷音警覺一切如來大蓮花族金剛族。",
+    "folio":1,
+    "stemmed":"由 如 雷 音 警 覺 一 切 如 來 大 蓮 花 族 金 剛 族  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0490c07_9",
+    "original":"自想同彼等。",
+    "folio":1,
+    "stemmed":"自 想 同 彼 等  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0490c07_19",
+    "original":"內外超無礙一念至意。",
+    "folio":1,
+    "stemmed":"內 外 超 無 礙 一 念 至 意  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0490c09_1",
+    "original":"次開門一一加持無礙誦此明吽吽引聲如雷音。",
+    "folio":1,
+    "stemmed":"次 開 門 一 一 加 持 無 礙 誦 此 明 吽 吽 引 聲 如 雷 音  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0490c09_10",
+    "original":"想觀相承口已傳授。",
+    "folio":1,
+    "stemmed":"想 觀 相 承 口 已 傳 授  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0490c10_10",
+    "original":"凡欲修習瑜伽入三磨地。",
+    "folio":1,
+    "stemmed":"凡 欲 修 習 瑜 伽 入 三 磨 地  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0490c11_5",
+    "original":"先須入於灌頂三昧耶曼荼羅。",
+    "folio":1,
+    "stemmed":"先 須 入 於 灌 頂 三昧耶曼荼羅  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0490c12_1",
+    "original":"發大菩提心捨身命財饒益一切。",
+    "folio":1,
+    "stemmed":"發 大菩提心 捨 身 命 財 饒益一切  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0490c12_18",
+    "original":"勇猛精進隨念相應慈悲喜捨無有間斷。",
+    "folio":1,
+    "stemmed":"勇猛精進 隨 念 相 應 慈 悲 喜 捨 無有間斷  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0490c13_8",
+    "original":"如是之人方應修習。",
+    "folio":1,
+    "stemmed":"如 是 之 人 方 應 修 習  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0490c13_17",
+    "original":"其曼荼羅畫像等法。",
+    "folio":1,
+    "stemmed":"其 曼 荼 羅 畫 像 等 法  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0490c14_4",
+    "original":"廣如餘所說。",
+    "folio":1,
+    "stemmed":"廣 如 餘 所 說  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0490c14_13",
+    "original":"凡入精舍欲順念時。",
+    "folio":1,
+    "stemmed":"凡 入 精 舍 欲 順 念 時  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0490c15_12",
+    "original":"先以五輪著地頂禮本尊觀自在王如來。",
+    "folio":1,
+    "stemmed":"先 以 五 輪 著 地 頂 禮 本 尊 觀 自 在 王 如 來  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0490c16_15",
+    "original":"次禮北方不空成就如來乃至無動寶生遍照如來。",
+    "folio":1,
+    "stemmed":"次 禮 北 方 不 空 成 就 如 來 乃 至 無 動 寶 生 遍 照 如 來  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0490c17_6",
+    "original":"悉皆依法至誠敬禮。",
+    "folio":1,
+    "stemmed":"悉 皆 依 法 至 誠 敬 禮  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0490c17_11",
+    "original":"雙膝而跪。",
+    "folio":1,
+    "stemmed":"雙 膝 而 跪  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0490c18_5",
+    "original":"蓮華合掌懺悔三業一切過咎。",
+    "folio":1,
+    "stemmed":"蓮 華 合 掌 懺 悔 三 業 一 切 過 咎  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0490c18_11",
+    "original":"誦此真言曰。",
+    "folio":1,
+    "stemmed":"誦 此 真 言 曰  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0490c19_0",
+    "original":"我從無量劫　　淪滯生死海",
+    "folio":1,
+    "stemmed":"我 從 無 量 劫   淪 滯 生 死 海 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0490c20_0",
+    "original":"今以清淨心　　發露而悔過",
+    "folio":1,
+    "stemmed":"今 以 清 淨 心   發 露 而 悔 過 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0490c21_0",
+    "original":"如諸佛所懺　　我今亦如是",
+    "folio":1,
+    "stemmed":"如 諸 佛 所 懺   我 今 亦 如 是 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0490c22_0",
+    "original":"願我及眾生　　一切皆清淨",
+    "folio":1,
+    "stemmed":"願 我 及 眾 生   一 切 皆 清 淨 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0490c26_16",
+    "original":"誦此密言曰唵一薩嚩二合婆嚩󰡊入引馱薩嚩達摩薩嚩二合婆嚩󰡊入度憾次應隨喜過現未來諸佛菩薩所集福智。",
+    "folio":1,
+    "stemmed":"誦 此 密 言 曰 唵 一 薩 嚩 二 合 婆 嚩  入 引 馱 薩 嚩 達 摩 薩 嚩 二 合 婆 嚩  入 度 憾 次 應 隨 喜 過 現 未來諸佛 菩 薩 所 集 福 智  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0490c27_0",
+    "original":"過現三世佛　　菩薩與眾生",
+    "folio":1,
+    "stemmed":"過 現 三 世 佛   菩 薩 與 眾 生 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0490c28_0",
+    "original":"所集諸善根　　合掌盡隨喜",
+    "folio":1,
+    "stemmed":"所 集 諸 善 根   合 掌 盡 隨 喜 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0490c29_14",
+    "original":"次應右膝著地虛心合掌置於頂上。",
+    "folio":1,
+    "stemmed":"次 應 右膝著地 虛 心 合 掌 置 於 頂 上  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491a01_7",
+    "original":"想禮諸佛如來及菩薩足。",
+    "folio":1,
+    "stemmed":"想 禮 諸佛如來 及 菩 薩 足  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491a01_12",
+    "original":"誦密言曰。",
+    "folio":1,
+    "stemmed":"誦 密 言 曰  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491a03_5",
+    "original":"唵一鉢娜麼二合微微去反已上持地印。",
+    "folio":1,
+    "stemmed":"唵 一 鉢 娜 麼 二 合 微 微 去 反 已 上 持 地 印  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491a04_5",
+    "original":"如金剛王印。",
+    "folio":1,
+    "stemmed":"如 金 剛 王 印  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491a05_1",
+    "original":"禮諸佛已依座印而坐入定思惟。",
+    "folio":1,
+    "stemmed":"禮 諸 佛 已 依 座 印 而 坐 入 定 思 惟  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491a05_11",
+    "original":"觀無量如來同遍法界。",
+    "folio":1,
+    "stemmed":"觀 無 量 如 來 同 遍 法 界  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491a06_1",
+    "original":"行者己身悉在彼會。",
+    "folio":1,
+    "stemmed":"行 者 己 身 悉 在 彼 會  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491a07_14",
+    "original":"然後結祕三昧耶印以六度頭相拄。",
+    "folio":1,
+    "stemmed":"然 後 結 祕 三 昧 耶 印 以 六 度 頭 相 拄  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491a08_14",
+    "original":"進力少屈押忍願上側文禪智押進力下文。",
+    "folio":1,
+    "stemmed":"進 力 少 屈 押 忍 願 上 側 文 禪 智 押 進 力 下 文  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491a09_1",
+    "original":"置於頂上。",
+    "folio":1,
+    "stemmed":"置 於 頂 上  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491a09_5",
+    "original":"密言曰。",
+    "folio":1,
+    "stemmed":"密 言 曰  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491a11_12",
+    "original":"唵　怛他蘗覩二𠺶皤嚩野三莎嚩訶次說蓮華部三昧耶陀羅尼印。",
+    "folio":1,
+    "stemmed":"唵  怛 他 蘗 覩 二 𠺶 皤 嚩 野 三 莎 嚩 訶 次 說 蓮 華 部 三 昧 耶 陀 羅 尼 印  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491a12_3",
+    "original":"即已二羽蓮華合掌。",
+    "folio":1,
+    "stemmed":"即 已 二 羽 蓮 華 合 掌  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491a12_10",
+    "original":"禪智檀慧相拄。",
+    "folio":1,
+    "stemmed":"禪 智 檀 慧 相 拄  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491a12_16",
+    "original":"頭相去一寸。",
+    "folio":1,
+    "stemmed":"頭 相 去 一 寸  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491a13_2",
+    "original":"置於右耳上。",
+    "folio":1,
+    "stemmed":"置 於 右 耳 上  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491a13_6",
+    "original":"真言曰。",
+    "folio":1,
+    "stemmed":"真 言 曰  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491a15_13",
+    "original":"唵一鉢頭牟二𠺶皤嚩二合野三莎嚩訶次結一切金剛三昧耶陀羅尼印。",
+    "folio":1,
+    "stemmed":"唵 一 鉢 頭 牟 二 𠺶 皤 嚩 二 合 野 三 莎 嚩 訶 次 結 一 切 金 剛 三 昧 耶 陀 羅 尼 印  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491a16_6",
+    "original":"檀智與禪慧翻覆互相鉤。",
+    "folio":1,
+    "stemmed":"檀 智 與 禪 慧 翻 覆 互 相 鉤  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491a16_12",
+    "original":"初結在當心。",
+    "folio":1,
+    "stemmed":"初 結 在 當 心  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491a17_1",
+    "original":"妙言置左耳進。",
+    "folio":1,
+    "stemmed":"妙 言 置 左 耳 進  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491a17_8",
+    "original":"密語三度言竟。",
+    "folio":1,
+    "stemmed":"密 語 三 度 言 竟  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491a17_12",
+    "original":"輪頂散。",
+    "folio":1,
+    "stemmed":"輪 頂 散  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491a17_16",
+    "original":"密言曰。",
+    "folio":1,
+    "stemmed":"密 言 曰  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491a19_12",
+    "original":"唵一磨日嚕𠺶皤嚩野二莎嚩訶次結一切金剛護身陀羅尼印。",
+    "folio":1,
+    "stemmed":"唵 一 磨 日 嚕 𠺶 皤 嚩 野 二 莎 嚩 訶 次 結 一 切 金 剛 護 身 陀 羅 尼 印  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491a20_2",
+    "original":"戒方檀慧內相叉。",
+    "folio":1,
+    "stemmed":"戒 方 檀 慧 內 相 叉  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491a20_10",
+    "original":"忍願二度建如幢。",
+    "folio":1,
+    "stemmed":"忍 願 二 度 建 如 幢  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491a21_3",
+    "original":"進力屈於忍願背去背三分。",
+    "folio":1,
+    "stemmed":"進 力 屈 於 忍 願 背 去 背 三 分  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491a21_7",
+    "original":"如鉤形。",
+    "folio":1,
+    "stemmed":"如 鉤 形  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491a21_11",
+    "original":"真言曰。",
+    "folio":1,
+    "stemmed":"真 言 曰  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491a24_10",
+    "original":"唵一嚩日囉儗儞二鉢囉二合捻發哆耶三娑嚩訶金剛火焰地界陀羅尼印。",
+    "folio":1,
+    "stemmed":"唵 一 嚩 日 囉 儗 儞 二 鉢 囉 二 合 捻 發 哆 耶 三 娑 嚩 訶 金 剛 火 焰 地 界 陀 羅 尼 印  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491a25_1",
+    "original":"以忍度入力願度間。",
+    "folio":1,
+    "stemmed":"以 忍 度 入 力 願 度 間  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491a25_9",
+    "original":"戒度入慧方度間。",
+    "folio":1,
+    "stemmed":"戒 度 入 慧 方 度 間  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491a26_2",
+    "original":"以願度從背上入進忍度間。",
+    "folio":1,
+    "stemmed":"以 願 度 從 背 上 入 進 忍 度 間  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491a26_10",
+    "original":"方便入檀戒度間。",
+    "folio":1,
+    "stemmed":"方 便 入 檀 戒 度 間  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491a26_17",
+    "original":"檀慧進力禪智。",
+    "folio":1,
+    "stemmed":"檀 慧 進 力 禪 智  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491a27_2",
+    "original":"各頭相拄。",
+    "folio":1,
+    "stemmed":"各 頭 相 拄  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491a27_7",
+    "original":"覆之向下。",
+    "folio":1,
+    "stemmed":"覆 之 向 下  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491a27_16",
+    "original":"禪智拄地如釘栓勢。",
+    "folio":1,
+    "stemmed":"禪 智 拄 地 如 釘 栓 勢  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491a28_2",
+    "original":"真言三遍。",
+    "folio":1,
+    "stemmed":"真 言 三 遍  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491a28_16",
+    "original":"想如獨股金剛火焰杵徹金剛際。",
+    "folio":1,
+    "stemmed":"想 如 獨 股 金 剛 火 焰 杵 徹 金 剛 際  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491a29_1",
+    "original":"密言曰。",
+    "folio":1,
+    "stemmed":"密 言 曰  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491b03_13",
+    "original":"唵一枳哩枳哩二嚩日囉麼日梨二合三部𠷈二合滿馱滿馱四吽發吒金剛火城飛焰電埏院界真言印。",
+    "folio":1,
+    "stemmed":"唵 一 枳 哩 枳 哩 二 嚩 日 囉 麼 日 梨 二 合 三 部 𠷈 二 合 滿 馱 滿 馱 四 吽 發 吒 金 剛 火 城 飛 焰 電 埏 院 界 真 言 印  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491b04_4",
+    "original":"準前地印豁開禪智。",
+    "folio":1,
+    "stemmed":"準 前 地 印 豁 開 禪 智  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491b04_13",
+    "original":"右旋八方真言三遍。",
+    "folio":1,
+    "stemmed":"右 旋 八 方 真 言 三 遍  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491b04_18",
+    "original":"遠近隨意。",
+    "folio":1,
+    "stemmed":"遠 近 隨 意  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491b05_2",
+    "original":"密言曰。",
+    "folio":1,
+    "stemmed":"密 言 曰  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491b07_11",
+    "original":"唵一薩囉薩囉二麼日囉鉢囉迦囉三吽發吒一切金剛火焰網界真言印。",
+    "folio":1,
+    "stemmed":"唵 一 薩 囉 薩 囉 二 麼 日 囉 鉢 囉 迦 囉 三 吽 發 吒 一 切 金 剛 火 焰 網 界 真 言 印  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491b07_17",
+    "original":"亦準前地印。",
+    "folio":1,
+    "stemmed":"亦 準 前 地 印  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491b08_5",
+    "original":"豁開直竪禪智。",
+    "folio":1,
+    "stemmed":"豁 開 直 竪 禪 智  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491b08_13",
+    "original":"頂上覆來去三度。",
+    "folio":1,
+    "stemmed":"頂 上 覆 來 去 三 度  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491b08_19",
+    "original":"誦真言三遍。",
+    "folio":1,
+    "stemmed":"誦 真 言 三 遍  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491b09_10",
+    "original":"想金剛火焰網上至有頂。",
+    "folio":1,
+    "stemmed":"想 金 剛 火 焰 網 上 至 有 頂  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491b09_14",
+    "original":"密言曰。",
+    "folio":1,
+    "stemmed":"密 言 曰  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491b12_8",
+    "original":"唵一尾薩普囉二捺𡀩二合訖灑二合三跋日囉半惹囉吽四發吒次結金剛焰火界印。",
+    "folio":1,
+    "stemmed":"唵 一 尾 薩 普 囉 二 捺 𡀩 二 合 訖 灑 二 合 三 跋 日 囉 半 惹 囉 吽 四 發 吒 次 結 金 剛 焰 火 界 印  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491b12_16",
+    "original":"即以定慧側相著。",
+    "folio":1,
+    "stemmed":"即 以 定 慧 側 相 著  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491b13_6",
+    "original":"禪智直竪相去三寸。",
+    "folio":1,
+    "stemmed":"禪 智 直 竪 相 去 三 寸  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491b13_11",
+    "original":"頂上右旋。",
+    "folio":1,
+    "stemmed":"頂 上 右 旋  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491b13_17",
+    "original":"想其牆網外。",
+    "folio":1,
+    "stemmed":"想 其 牆 網 外  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491b14_3",
+    "original":"火焰上至頂。",
+    "folio":1,
+    "stemmed":"火 焰 上 至 頂  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491b14_7",
+    "original":"密言曰。",
+    "folio":1,
+    "stemmed":"密 言 曰  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491b15_15",
+    "original":"唵一阿三忙懝儞莎嚩訶作此結界者。",
+    "folio":1,
+    "stemmed":"唵 一 阿 三 忙 懝 儞 莎 嚩 訶 作 此 結 界 者  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491b16_3",
+    "original":"六欲魔羅。",
+    "folio":1,
+    "stemmed":"六 欲 魔 羅  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491b17_1",
+    "original":"及一切毘那夜迦惶怖遁走無所容竄。",
+    "folio":1,
+    "stemmed":"及 一 切 毘 那 夜 迦 惶 怖 遁 走 無 所 容 竄  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491b18_7",
+    "original":"次結觀音寶車印。",
+    "folio":1,
+    "stemmed":"次 結 觀 音 寶 車 印  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491b19_1",
+    "original":"即以二羽仰相叉轉以智禪。",
+    "folio":1,
+    "stemmed":"即 以 二 羽 仰 相 叉 轉 以 智 禪  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491b19_7",
+    "original":"以忍願向內。",
+    "folio":1,
+    "stemmed":"以 忍 願 向 內  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491b19_13",
+    "original":"三撥誦真言。",
+    "folio":1,
+    "stemmed":"三 撥 誦 真 言  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491b20_3",
+    "original":"想念本尊隨願至當入。",
+    "folio":1,
+    "stemmed":"想 念 本 尊 隨 願 至 當 入  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491b20_9",
+    "original":"念已密心中。",
+    "folio":1,
+    "stemmed":"念 已 密 心 中  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491b21_1",
+    "original":"幻化浮泡止不已密言曰。",
+    "folio":1,
+    "stemmed":"幻 化 浮 泡 止 不 已 密 言 曰  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491b23_7",
+    "original":"唵都嚕都嚕吽次結八大蓮華印。",
+    "folio":1,
+    "stemmed":"唵 都 嚕 都 嚕 吽 次 結 八 大 蓮 華 印  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491b23_14",
+    "original":"即以二羽相叉。",
+    "folio":1,
+    "stemmed":"即 以 二 羽 相 叉  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491b24_3",
+    "original":"進力檀慧頭相拄。",
+    "folio":1,
+    "stemmed":"進 力 檀 慧 頭 相 拄  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491b24_11",
+    "original":"禪願智忍各相拄。",
+    "folio":1,
+    "stemmed":"禪 願 智 忍 各 相 拄  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491b25_1",
+    "original":"八葉白蓮一肘開。",
+    "folio":1,
+    "stemmed":"八 葉 白 蓮 一 肘 開  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491b25_11",
+    "original":"相置車上三密語明曰。",
+    "folio":1,
+    "stemmed":"相 置 車 上 三 密 語 明 曰  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491b27_7",
+    "original":"唵都嚕都嚕吽次結八大蓮華印。",
+    "folio":1,
+    "stemmed":"唵 都 嚕 都 嚕 吽 次 結 八 大 蓮 華 印  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491b27_13",
+    "original":"二羽腕相著。",
+    "folio":1,
+    "stemmed":"二 羽 腕 相 著  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491b28_6",
+    "original":"檀慧與禪智頭相合而竪仰。",
+    "folio":1,
+    "stemmed":"檀 慧 與 禪 智 頭 相 合 而 竪 仰  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491b28_16",
+    "original":"想如寶蓮八度遠相離。",
+    "folio":1,
+    "stemmed":"想 如 寶 蓮 八 度 遠 相 離  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491b29_3",
+    "original":"微屈八葉華。",
+    "folio":1,
+    "stemmed":"微 屈 八 葉 華  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491b29_7",
+    "original":"密言曰。",
+    "folio":1,
+    "stemmed":"密 言 曰  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491c02_4",
+    "original":"唵一劍忙囉三合二莎嚩訶次說瑜伽。",
+    "folio":1,
+    "stemmed":"唵 一 劍 忙 囉 三 合 二 莎 嚩 訶 次 說 瑜 伽  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491c02_11",
+    "original":"結祕三昧耶印。",
+    "folio":1,
+    "stemmed":"結 祕 三 昧 耶 印  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491c03_5",
+    "original":"堅固縛以檀慧禪智相合而竪。",
+    "folio":1,
+    "stemmed":"堅 固 縛 以 檀 慧 禪 智 相 合 而 竪  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491c03_14",
+    "original":"此警以覺誦密言曰。",
+    "folio":1,
+    "stemmed":"此 警 以 覺 誦 密 言 曰  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491c06_1",
+    "original":"唵一跋折囉二合鉢娜麼二合三摩耶薩怛𭊃次結一切諸佛如來安樂歡喜悅意三昧耶印。",
+    "folio":1,
+    "stemmed":"唵 一 跋 折 囉 二 合 鉢 娜 麼 二 合 三 摩 耶 薩 怛 𭊃 次 結 一切諸佛 如 來 安 樂 歡 喜 悅 意 三 昧 耶 印  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491c06_7",
+    "original":"十度堅固縛。",
+    "folio":1,
+    "stemmed":"十 度 堅 固 縛  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491c06_13",
+    "original":"忍願中交合。",
+    "folio":1,
+    "stemmed":"忍 願 中 交 合  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491c07_4",
+    "original":"檀慧與禪智相合而竪。",
+    "folio":1,
+    "stemmed":"檀 慧 與 禪 智 相 合 而 竪  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491c07_8",
+    "original":"真言曰。",
+    "folio":1,
+    "stemmed":"真 言 曰  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491c10_5",
+    "original":"唵一三麼耶吽引二蘇囉二合哆薩怛鑁三合次結開心戶。",
+    "folio":1,
+    "stemmed":"唵 一 三 麼 耶 吽 引 二 蘇 囉 二 合 哆 薩 怛 鑁 三 合 次 結 開 心 戶  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491c11_4",
+    "original":"入金剛智字觀於二乳上有怛囉左吒。",
+    "folio":1,
+    "stemmed":"入 金 剛 智 字 觀 於 二 乳 上 有 怛 囉 左 吒  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491c11_10",
+    "original":"如空室戶扇。",
+    "folio":1,
+    "stemmed":"如 空 室 戶 扇  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491c11_17",
+    "original":"殊勝金剛三業。",
+    "folio":1,
+    "stemmed":"殊 勝 金 剛 三 業  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491c12_7",
+    "original":"同時發指心開兩字。",
+    "folio":1,
+    "stemmed":"同 時 發 指 心 開 兩 字  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491c12_11",
+    "original":"密言曰。",
+    "folio":1,
+    "stemmed":"密 言 曰  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491c14_5",
+    "original":"唵一跋日囉二合滿馱怛囉二合吒無始薰種子。",
+    "folio":1,
+    "stemmed":"唵 一 跋 日 囉 二 合 滿 馱 怛 囉 二 合 吒 無 始 薰 種 子  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491c14_11",
+    "original":"所進之塵勞。",
+    "folio":1,
+    "stemmed":"所 進 之 塵 勞  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491c14_17",
+    "original":"今以召罪印。",
+    "folio":1,
+    "stemmed":"今 以 召 罪 印  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491c15_4",
+    "original":"集之欲摧碎。",
+    "folio":1,
+    "stemmed":"集 之 欲 摧 碎  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491c15_10",
+    "original":"十度堅固縛。",
+    "folio":1,
+    "stemmed":"十 度 堅 固 縛  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491c15_16",
+    "original":"忍願直如針。",
+    "folio":1,
+    "stemmed":"忍 願 直 如 針  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491c16_3",
+    "original":"進力屈如鉤。",
+    "folio":1,
+    "stemmed":"進 力 屈 如 鉤  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491c16_9",
+    "original":"心想召諸罪。",
+    "folio":1,
+    "stemmed":"心 想 召 諸 罪  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491c16_15",
+    "original":"想彼眾罪狀。",
+    "folio":1,
+    "stemmed":"想 彼 眾 罪 狀  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491c17_1",
+    "original":"植髮躶黑形。",
+    "folio":1,
+    "stemmed":"植 髮 躶 黑 形  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491c17_7",
+    "original":"反印刺於心。",
+    "folio":1,
+    "stemmed":"反 印 刺 於 心  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491c17_13",
+    "original":"觸已誦密言。",
+    "folio":1,
+    "stemmed":"觸 已 誦 密 言  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491c17_19",
+    "original":"三業相應故。",
+    "folio":1,
+    "stemmed":"三 業 相 應 故  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491c18_4",
+    "original":"能召諸罪積。",
+    "folio":1,
+    "stemmed":"能 召 諸 罪 積  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491c18_10",
+    "original":"誦此召集已。",
+    "folio":1,
+    "stemmed":"誦 此 召 集 已  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491c18_16",
+    "original":"方作摧碎法。",
+    "folio":1,
+    "stemmed":"方 作 摧 碎 法  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491c18_20",
+    "original":"密言曰。",
+    "folio":1,
+    "stemmed":"密 言 曰  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491c21_5",
+    "original":"唵一薩婆播波迦哩二合灑拏尾輸馱娜三摩耶跋日囉二合吽惹召入於掌已。",
+    "folio":1,
+    "stemmed":"唵 一 薩 婆 播 波 迦 哩 二 合 灑 拏 尾 輸 馱 娜 三 摩 耶 跋 日 囉 二 合 吽 惹 召 入 於 掌 已  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491c21_11",
+    "original":"方作摧破法。",
+    "folio":1,
+    "stemmed":"方 作 摧 破 法  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491c21_17",
+    "original":"前印內相叉。",
+    "folio":1,
+    "stemmed":"前 印 內 相 叉  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491c22_4",
+    "original":"稱𤚥縛諸罪。",
+    "folio":1,
+    "stemmed":"稱 𤚥 縛 諸 罪  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491c22_10",
+    "original":"忍願俱申直。",
+    "folio":1,
+    "stemmed":"忍 願 俱 申 直  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491c22_16",
+    "original":"有怛𠸪吒字。",
+    "folio":1,
+    "stemmed":"有 怛 𠸪 吒 字  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491c23_2",
+    "original":"想為金剛杵。",
+    "folio":1,
+    "stemmed":"想 為 金 剛 杵  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491c23_8",
+    "original":"相拍如摧山。",
+    "folio":1,
+    "stemmed":"相 拍 如 摧 山  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491c23_14",
+    "original":"忿句及怒形。",
+    "folio":1,
+    "stemmed":"忿 句 及 怒 形  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491c24_1",
+    "original":"能淨諸惡趣。",
+    "folio":1,
+    "stemmed":"能 淨 諸 惡 趣  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491c24_7",
+    "original":"誦已忍願拍。",
+    "folio":1,
+    "stemmed":"誦 已 忍 願 拍  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491c24_13",
+    "original":"三七隨所宜。",
+    "folio":1,
+    "stemmed":"三 七 隨 所 宜  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0491c29_0",
+    "original":"慈悲普悉會　　召入諸塵垢",
+    "folio":1,
+    "stemmed":"慈 悲 普 悉 會   召 入 諸 塵 垢 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492a01_0",
+    "original":"想拍摧諸魔　　一切皆以除",
+    "folio":1,
+    "stemmed":"想 拍 摧 諸 魔   一 切 皆 以 除 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492a02_0",
+    "original":"清淨如滿月　　當觀八葉蓮",
+    "folio":1,
+    "stemmed":"清 淨 如 滿 月   當 觀 八 葉 蓮 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492a03_0",
+    "original":"想內於心中　　二羽肘相著",
+    "folio":1,
+    "stemmed":"想 內 於 心 中   二 羽 肘 相 著 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492a04_0",
+    "original":"仰竪如寶蓮　　十度遠相離",
+    "folio":1,
+    "stemmed":"仰 竪 如 寶 蓮   十 度 遠 相 離 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492a06_3",
+    "original":"微屈八葉蓮密言曰。",
+    "folio":1,
+    "stemmed":"微 屈 八 葉 蓮 密 言 曰  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492a08_0",
+    "original":"以此相應門　　先佛方便故",
+    "folio":1,
+    "stemmed":"以 此 相 應 門   先 佛 方 便 故 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492a09_0",
+    "original":"三業所積罪　　無量極重障",
+    "folio":1,
+    "stemmed":"三 業 所 積 罪   無 量 極 重 障 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492a10_0",
+    "original":"作此摧滅已　　如火焚枯草",
+    "folio":1,
+    "stemmed":"作 此 摧 滅 已   如 火 焚 枯 草 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492a11_0",
+    "original":"有情常愚迷　　不知此理趣",
+    "folio":1,
+    "stemmed":"有 情 常 愚 迷   不 知 此 理 趣 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492a12_0",
+    "original":"如來大悲故　　開此祕妙門",
+    "folio":1,
+    "stemmed":"如來大悲 故   開 此 祕 妙 門 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492a13_0",
+    "original":"次當入結印　　內如來智字",
+    "folio":1,
+    "stemmed":"次 當 入 結 印   內 如 來 智 字 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492a14_0",
+    "original":"二羽堅固縛　　禪智入於中",
+    "folio":1,
+    "stemmed":"二 羽 堅 固 縛   禪 智 入 於 中 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492a15_0",
+    "original":"以進力二度　　相拄如環勢",
+    "folio":1,
+    "stemmed":"以 進 力 二 度   相 拄 如 環 勢 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492a16_0",
+    "original":"觀前八葉蓮　　其上置婆字",
+    "folio":1,
+    "stemmed":"觀 前 八 葉 蓮   其 上 置 婆 字 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492a17_0",
+    "original":"三點嚴飾故　　妙字方名惡",
+    "folio":1,
+    "stemmed":"三 點 嚴 飾 故   妙 字 方 名 惡 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492a18_0",
+    "original":"色白如珂雪　　流散千光明",
+    "folio":1,
+    "stemmed":"色 白 如 珂 雪   流 散 千 光 明 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492a19_0",
+    "original":"想以進力度　　捻字安心內",
+    "folio":1,
+    "stemmed":"想 以 進 力 度   捻 字 安 心 內 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492a21_4",
+    "original":"三業齊運用誦此密言。",
+    "folio":1,
+    "stemmed":"三 業 齊 運 用 誦 此 密 言  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492a23_0",
+    "original":"既想入心中　　自想喻光曜",
+    "folio":1,
+    "stemmed":"既 想 入 心 中   自 想 喻 光 曜 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492a24_0",
+    "original":"此即法界體　　行者應是觀",
+    "folio":1,
+    "stemmed":"此 即 法 界 體   行 者 應 是 觀 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492a25_0",
+    "original":"不分悟寂淨　　法本不生故",
+    "folio":1,
+    "stemmed":"不 分 悟 寂 淨   法 本 不 生 故 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492a26_0",
+    "original":"三世諸如來　　金剛身口意",
+    "folio":1,
+    "stemmed":"三 世 諸 如 來   金 剛 身 口 意 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492a27_0",
+    "original":"皆以妙方便　　持在金剛卷",
+    "folio":1,
+    "stemmed":"皆 以 妙 方 便   持 在 金 剛 卷 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492a28_0",
+    "original":"以此闔心門　　智字獲堅固",
+    "folio":1,
+    "stemmed":"以 此 闔 心 門   智 字 獲 堅 固 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492a29_0",
+    "original":"便屈進力度　　拄於禪智背",
+    "folio":1,
+    "stemmed":"便 屈 進 力 度   拄 於 禪 智 背 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492b01_0",
+    "original":"以印觸胸已　　即誦此妙言",
+    "folio":1,
+    "stemmed":"以 印 觸 胸 已   即 誦 此 妙 言 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492b03_12",
+    "original":"唵一跋日羅二合母瑟致知㗚反𤚥次結一切諸佛金剛閉心門印。",
+    "folio":1,
+    "stemmed":"唵 一 跋 日 羅 二 合 母 瑟 致 知 㗚 反 𤚥 次 結 一切諸佛 金 剛 閉 心 門 印  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492b04_2",
+    "original":"即以八度內相叉。",
+    "folio":1,
+    "stemmed":"即 以 八 度 內 相 叉  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492b04_9",
+    "original":"初起從右復轉。",
+    "folio":1,
+    "stemmed":"初 起 從 右 復 轉  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492b04_18",
+    "original":"左起三度來去戶扇。",
+    "folio":1,
+    "stemmed":"左 起 三 度 來 去 戶 扇  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492b05_3",
+    "original":"想開心門。",
+    "folio":1,
+    "stemmed":"想 開 心 門  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492b05_9",
+    "original":"三密語妙言。",
+    "folio":1,
+    "stemmed":"三 密 語 妙 言  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492b05_11",
+    "original":"曰。",
+    "folio":1,
+    "stemmed":"曰  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492b07_7",
+    "original":"唵一鉢娜麼二合度閉惡次結辟除結界印。",
+    "folio":1,
+    "stemmed":"唵 一 鉢 娜 麼 二 合 度 閉 惡 次 結 辟 除 結 界 印  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492b07_14",
+    "original":"即以二羽當心。",
+    "folio":1,
+    "stemmed":"即 以 二 羽 當 心  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492b08_2",
+    "original":"合戒方右押左。",
+    "folio":1,
+    "stemmed":"合 戒 方 右 押 左  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492b08_13",
+    "original":"外相叉忍願二度建如幢。",
+    "folio":1,
+    "stemmed":"外 相 叉 忍 願 二 度 建 如 幢  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492b09_3",
+    "original":"次以進力勾戒方。",
+    "folio":1,
+    "stemmed":"次 以 進 力 勾 戒 方  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492b09_10",
+    "original":"禪智慧檀相捻。",
+    "folio":1,
+    "stemmed":"禪 智 慧 檀 相 捻  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492b09_14",
+    "original":"真言曰。",
+    "folio":1,
+    "stemmed":"真 言 曰  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492b11_4",
+    "original":"唵一阿密㗚覩娜婆嚩吽發吒半音作此法者。",
+    "folio":1,
+    "stemmed":"唵 一 阿 密 㗚 覩 娜 婆 嚩 吽 發 吒 半 音 作 此 法 者  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492b11_15",
+    "original":"大悲觀音化為馬頭明王。",
+    "folio":1,
+    "stemmed":"大 悲 觀 音 化 為 馬 頭 明 王  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492b12_1",
+    "original":"加被行人。",
+    "folio":1,
+    "stemmed":"加 被 行 人  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492b12_10",
+    "original":"速成佛已作此結界。",
+    "folio":1,
+    "stemmed":"速 成 佛 已 作 此 結 界  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492b12_19",
+    "original":"左轉三匝辟除不善。",
+    "folio":1,
+    "stemmed":"左 轉 三 匝 辟 除 不 善  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492b13_8",
+    "original":"右旋三匝隨意遠近。",
+    "folio":1,
+    "stemmed":"右 旋 三 匝 隨 意 遠 近  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492b13_13",
+    "original":"以為結界。",
+    "folio":1,
+    "stemmed":"以 為 結 界  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492b14_0",
+    "original":"次結加持已　　布字想真容",
+    "folio":1,
+    "stemmed":"次 結 加 持 已   布 字 想 真 容 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492b15_0",
+    "original":"所印置觀音　　分明纈哩字",
+    "folio":1,
+    "stemmed":"所 印 置 觀 音   分 明 纈 哩 字 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492b16_0",
+    "original":"此字皆須現　　普在月輪中",
+    "folio":1,
+    "stemmed":"此 字 皆 須 現   普 在 月 輪 中 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492b17_0",
+    "original":"便出白毫光　　還而令漸斂",
+    "folio":1,
+    "stemmed":"便 出 白 毫 光   還 而 令 漸 斂 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492b18_0",
+    "original":"二羽合於心　　十度內相叉",
+    "folio":1,
+    "stemmed":"二 羽 合 於 心   十 度 內 相 叉 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492b19_0",
+    "original":"抽禪直竪抽　　印頂及額上",
+    "folio":1,
+    "stemmed":"抽 禪 直 竪 抽   印 頂 及 額 上 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492b20_0",
+    "original":"兩眼先從者　　二膊印心臍",
+    "folio":1,
+    "stemmed":"兩 眼 先 從 者   二 膊 印 心 臍 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492b21_0",
+    "original":"膝中至左散　　誦此密言曰",
+    "folio":1,
+    "stemmed":"膝 中 至 左 散   誦 此 密 言 曰 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492b23_8",
+    "original":"唵一阿嚕力莎嚩訶次結契以布自身上。",
+    "folio":1,
+    "stemmed":"唵 一 阿 嚕 力 莎 嚩 訶 次 結 契 以 布 自 身 上  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492b24_2",
+    "original":"即想自身猶若大悲觀音。",
+    "folio":1,
+    "stemmed":"即 想 自 身 猶 若 大 悲 觀 音  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492b24_13",
+    "original":"如來三十二相八十種好。",
+    "folio":1,
+    "stemmed":"如 來 三十二相 八十種好  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492b25_3",
+    "original":"紫磨金色圓滿身光。",
+    "folio":1,
+    "stemmed":"紫 磨 金 色 圓 滿 身 光  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492b25_12",
+    "original":"如來加被如是相已。",
+    "folio":1,
+    "stemmed":"如 來 加 被 如 是 相 已  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492b26_3",
+    "original":"以手契觸頂上布唵字。",
+    "folio":1,
+    "stemmed":"以 手 契 觸 頂 上 布 唵 字  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492b26_9",
+    "original":"觸額布阿字。",
+    "folio":1,
+    "stemmed":"觸 額 布 阿 字  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492b26_15",
+    "original":"觸眼布嚕字。",
+    "folio":1,
+    "stemmed":"觸 眼 布 嚕 字  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492b27_9",
+    "original":"右以二上依字次第乃至兩足。",
+    "folio":1,
+    "stemmed":"右 以 二 上 依 字 次 第 乃 至 兩 足  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492b27_15",
+    "original":"皆以觸布之。",
+    "folio":1,
+    "stemmed":"皆 以 觸 布 之  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492b28_0",
+    "original":"唵想安頭上　　其色白如月",
+    "folio":1,
+    "stemmed":"唵 想 安 頭 上   其 色 白 如 月 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492b29_0",
+    "original":"放於無量光　　除滅一切障",
+    "folio":1,
+    "stemmed":"放 於 無 量 光   除 滅 一 切 障 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492c01_0",
+    "original":"即同佛菩薩　　摩是人頂上",
+    "folio":1,
+    "stemmed":"即 同 佛 菩 薩   摩 是 人 頂 上 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492c02_0",
+    "original":"阿想安額上　　其色遍金色",
+    "folio":1,
+    "stemmed":"阿 想 安 額 上   其 色 遍 金 色 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492c03_0",
+    "original":"為照諸愚暗　　能發深慧明",
+    "folio":1,
+    "stemmed":"為 照 諸 愚 暗   能 發 深 慧 明 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492c04_0",
+    "original":"嚕安兩目上　　色如紺瑠璃",
+    "folio":1,
+    "stemmed":"嚕 安 兩 目 上   色 如 紺 瑠 璃 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492c05_0",
+    "original":"能顯諸色相　　漸具如來智",
+    "folio":1,
+    "stemmed":"能 顯 諸 色 相   漸 具 如 來 智 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492c06_0",
+    "original":"力想安兩肩　　其色如皎素",
+    "folio":1,
+    "stemmed":"力 想 安 兩 肩   其 色 如 皎 素 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492c07_0",
+    "original":"由如心清淨　　速達菩提路",
+    "folio":1,
+    "stemmed":"由 如 心 清 淨   速 達 菩 提 路 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492c08_0",
+    "original":"娑嚩安心臍　　其狀作赤色",
+    "folio":1,
+    "stemmed":"娑 嚩 安 心 臍   其 狀 作 赤 色 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492c09_0",
+    "original":"常能想是字　　速得轉法輪",
+    "folio":1,
+    "stemmed":"常 能 想 是 字   速 得 轉 法 輪 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492c10_0",
+    "original":"訶字置兩足　　其色如滿月",
+    "folio":1,
+    "stemmed":"訶 字 置 兩 足   其 色 如 滿 月 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492c11_0",
+    "original":"行者作是想　　速得達圓寂",
+    "folio":1,
+    "stemmed":"行 者 作 是 想   速 得 達 圓 寂 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492c12_0",
+    "original":"如是布字想金色　　便成大悲勝法門",
+    "folio":1,
+    "stemmed":"如 是 布 字 想 金 色   便 成 大 悲 勝 法 門 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492c13_0",
+    "original":"亦名本尊真實相　　能滅諸罪得吉祥",
+    "folio":1,
+    "stemmed":"亦 名 本 尊 真 實 相   能 滅 諸 罪 得 吉 祥 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492c14_0",
+    "original":"猶如金剛堅固聚　　是名大悲勝上法",
+    "folio":1,
+    "stemmed":"猶如金剛 堅 固 聚   是 名 大 悲 勝 上 法 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492c15_0",
+    "original":"若常如是修行者　　當知是人速悉地",
+    "folio":1,
+    "stemmed":"若 常 如 是 修 行 者   當 知 是 人 速 悉 地 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492c16_9",
+    "original":"誦三遍淨契已以自在。",
+    "folio":1,
+    "stemmed":"誦 三 遍 淨 契 已 以 自 在  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492c17_2",
+    "original":"想觀音大悲千眼口中。",
+    "folio":1,
+    "stemmed":"想 觀 音 大 悲 千 眼 口 中  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492c17_10",
+    "original":"出大悲妙言文字。",
+    "folio":1,
+    "stemmed":"出 大 悲 妙 言 文 字  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492c18_1",
+    "original":"放五色光入行者口裏。",
+    "folio":1,
+    "stemmed":"放 五 色 光 入 行 者 口 裏  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492c18_10",
+    "original":"自心月中右旋布置。",
+    "folio":1,
+    "stemmed":"自 心 月 中 右 旋 布 置  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492c18_19",
+    "original":"即誦本尊真言一遍。",
+    "folio":1,
+    "stemmed":"即 誦 本 尊 真 言 一 遍  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492c19_10",
+    "original":"以右手無名指捻一顆珠。",
+    "folio":1,
+    "stemmed":"以 右 手 無 名 指 捻 一 顆 珠  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492c19_16",
+    "original":"過周而復始。",
+    "folio":1,
+    "stemmed":"過 周 而 復 始  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492c20_7",
+    "original":"不急不緩不得高聲。",
+    "folio":1,
+    "stemmed":"不 急 不 緩 不 得 高 聲  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492c20_17",
+    "original":"須分明稱字而令自聞。",
+    "folio":1,
+    "stemmed":"須 分 明 稱 字 而 令 自 聞  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492c21_13",
+    "original":"所見本尊及身上布字念誦記數。",
+    "folio":1,
+    "stemmed":"所 見 本 尊 及 身 上 布 字 念 誦 記 數  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492c22_6",
+    "original":"於一念中並須一時觀見。",
+    "folio":1,
+    "stemmed":"於 一 念 中 並 須 一 時 觀 見  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492c22_15",
+    "original":"不得有關使心散亂。",
+    "folio":1,
+    "stemmed":"不 得 有 關 使 心 散 亂  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492c23_9",
+    "original":"如觀念疲勞隨力而作念誦。",
+    "folio":1,
+    "stemmed":"如 觀 念 疲 勞 隨 力 而 作 念 誦  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492c24_6",
+    "original":"或一百二百三百乃至四百一千遍。",
+    "folio":1,
+    "stemmed":"或 一 百 二 百 三 百 乃 至 四 百 一 千 遍  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492c24_13",
+    "original":"常取一數為定。",
+    "folio":1,
+    "stemmed":"常 取 一 數 為 定  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492c25_4",
+    "original":"如有緣事亦不得減數。",
+    "folio":1,
+    "stemmed":"如 有 緣 事 亦 不 得 減 數  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492c25_11",
+    "original":"至一百八已下。",
+    "folio":1,
+    "stemmed":"至 一 百 八 已 下  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492c25_17",
+    "original":"此名聲念誦。",
+    "folio":1,
+    "stemmed":"此 名 聲 念 誦  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492c26_7",
+    "original":"若求解脫速出離生死。",
+    "folio":1,
+    "stemmed":"若 求 解 脫 速 出 離 生 死  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492c26_17",
+    "original":"作此三摩地瑜伽觀行。",
+    "folio":1,
+    "stemmed":"作 此 三 摩 地 瑜伽觀行  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492c27_5",
+    "original":"無記無數念者。",
+    "folio":1,
+    "stemmed":"無 記 無 數 念 者  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492c27_13",
+    "original":"即自心如一滿月。",
+    "folio":1,
+    "stemmed":"即 自 心 如 一 滿 月  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492c28_3",
+    "original":"湛然清淨內外分明。",
+    "folio":1,
+    "stemmed":"湛 然 清 淨 內 外 分 明  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0492c28_11",
+    "original":"以唵字安月中心。",
+    "folio":1,
+    "stemmed":"以 唵 字 安 月 中 心  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a01_9",
+    "original":"以唵阿嚕力娑嚩訶從前右旋次第周布輪緣去音諦觀一一字義與心相應不得差別。",
+    "folio":1,
+    "stemmed":"以 唵 阿 嚕 力 娑 嚩 訶 從 前 右 旋 次 第 周 布 輪 緣 去 音 諦 觀 一 一 字 義 與 心 相 應 不 得 差 別  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a02_1",
+    "original":"說三麼地觀念布字義。",
+    "folio":1,
+    "stemmed":"說 三 麼 地 觀 念 布 字 義  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a02_7",
+    "original":"唵一字門者。",
+    "folio":1,
+    "stemmed":"唵 一 字 門 者  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a02_16",
+    "original":"是流注不生不滅義。",
+    "folio":1,
+    "stemmed":"是 流 注 不生不滅 義  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a03_7",
+    "original":"復於一切法為最勝義。",
+    "folio":1,
+    "stemmed":"復 於一切法 為 最 勝 義  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a03_12",
+    "original":"阿字門者。",
+    "folio":1,
+    "stemmed":"阿 字 門 者  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a03_17",
+    "original":"阿遮利耶。",
+    "folio":1,
+    "stemmed":"阿遮利耶  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a04_10",
+    "original":"以金剛印如法念誦為弟子。",
+    "folio":1,
+    "stemmed":"以 金 剛 印 如 法 念 誦 為 弟 子  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a05_7",
+    "original":"灌頂已然授以心陀羅尼令結祕印。",
+    "folio":1,
+    "stemmed":"灌 頂 已 然 授 以 心 陀 羅 尼 令 結 祕 印  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a06_2",
+    "original":"以金剛縛並建忍願屈其上節。",
+    "folio":1,
+    "stemmed":"以 金 剛 縛 並 建 忍 願 屈 其 上 節  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a06_11",
+    "original":"印上承華散而供養。",
+    "folio":1,
+    "stemmed":"印 上 承 華 散 而 供 養  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a06_16",
+    "original":"便應告言。",
+    "folio":1,
+    "stemmed":"便 應 告 言  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a07_7",
+    "original":"此心法門一切如密之要。",
+    "folio":1,
+    "stemmed":"此 心 法 門 一 切 如 密 之 要  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a07_16",
+    "original":"慎勿輕爾為他人說。",
+    "folio":1,
+    "stemmed":"慎 勿 輕 爾 為 他 人 說  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a08_12",
+    "original":"破汝三昧耶我今為汝宣說其義。",
+    "folio":1,
+    "stemmed":"破 汝 三 昧 耶 我 今 為 汝 宣 說 其 義  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a09_3",
+    "original":"汝今善聽諦思惟之。",
+    "folio":1,
+    "stemmed":"汝 今 善 聽 諦 思 惟 之  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a09_10",
+    "original":"阿字是無生義。",
+    "folio":1,
+    "stemmed":"阿 字 是 無 生 義  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a10_2",
+    "original":"亦是一切如來寂靜智義。",
+    "folio":1,
+    "stemmed":"亦 是 一 切 如 來 寂 靜 智 義  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a10_7",
+    "original":"嚕字門者。",
+    "folio":1,
+    "stemmed":"嚕 字 門 者  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a10_16",
+    "original":"於一切法是無行義。",
+    "folio":1,
+    "stemmed":"於一切法 是 無 行 義  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a11_10",
+    "original":"亦是一切如來法中是無起住義。",
+    "folio":1,
+    "stemmed":"亦 是 一 切 如 來 法 中 是 無 起 住 義  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a11_15",
+    "original":"力字門者。",
+    "folio":1,
+    "stemmed":"力 字 門 者  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a12_5",
+    "original":"一切如來無等覺義。",
+    "folio":1,
+    "stemmed":"一 切 如 來 無 等 覺 義  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a12_16",
+    "original":"亦是無住無去無取捨義。",
+    "folio":1,
+    "stemmed":"亦 是 無 住 無 去 無 取 捨 義  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a13_3",
+    "original":"娑嚩字門者。",
+    "folio":1,
+    "stemmed":"娑 嚩 字 門 者  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a13_15",
+    "original":"是一切如來無等無言說義。",
+    "folio":1,
+    "stemmed":"是 一 切 如 來 無 等 無 言 說 義  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a14_1",
+    "original":"阿字門者。",
+    "folio":1,
+    "stemmed":"阿 字 門 者  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a14_15",
+    "original":"一切如來無因寂靜無住涅槃義。",
+    "folio":1,
+    "stemmed":"一 切 如 來 無 因 寂 靜 無住涅槃 義  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a15_1",
+    "original":"所說字義。",
+    "folio":1,
+    "stemmed":"所 說 字 義  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a15_12",
+    "original":"雖立文字皆是無文字義。",
+    "folio":1,
+    "stemmed":"雖 立 文 字 皆 是 無 文 字 義  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a16_5",
+    "original":"既無文字須諦觀一一義相。",
+    "folio":1,
+    "stemmed":"既 無 文 字 須 諦 觀 一 一 義 相  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a16_18",
+    "original":"周而復始無記無數不得斷絕。",
+    "folio":1,
+    "stemmed":"周 而 復 始 無 記 無 數 不 得 斷 絕  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a17_4",
+    "original":"不斷絕者。",
+    "folio":1,
+    "stemmed":"不 斷 絕 者  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a17_15",
+    "original":"謂流注不生不滅最勝義。",
+    "folio":1,
+    "stemmed":"謂 流 注 不生不滅 最 勝 義  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a18_7",
+    "original":"由不生不滅義是故無行。",
+    "folio":1,
+    "stemmed":"由 不生不滅 義 是 故 無 行  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a18_15",
+    "original":"為行義是故無相。",
+    "folio":1,
+    "stemmed":"為 行 義 是 故 無 相  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a19_6",
+    "original":"為無相義是故無起住。",
+    "folio":1,
+    "stemmed":"為 無 相 義 是 故 無 起 住  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a19_17",
+    "original":"為無起住義是故無等覺。",
+    "folio":1,
+    "stemmed":"為 無 起 住 義 是 故 無 等 覺  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a20_9",
+    "original":"為無等覺義是故無取捨。",
+    "folio":1,
+    "stemmed":"為 無 等 覺 義 是 故 無 取 捨  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a21_3",
+    "original":"為無取捨義是故平等言說。",
+    "folio":1,
+    "stemmed":"為 無 取 捨 義 是 故 平 等 言 說  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a22_5",
+    "original":"會平等無無言說義是故無因寂靜無住涅槃。",
+    "folio":1,
+    "stemmed":"會 平 等 無 無 言 說 義 是 故 無 因 寂 靜 無住涅槃  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a22_14",
+    "original":"為寂靜無住涅槃義。",
+    "folio":1,
+    "stemmed":"為 寂 靜 無住涅槃 義  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a23_6",
+    "original":"是故不生不滅最勝無斷。",
+    "folio":1,
+    "stemmed":"是 故 不生不滅 最 勝 無 斷  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a23_11",
+    "original":"周而復始。",
+    "folio":1,
+    "stemmed":"周 而 復 始  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a24_8",
+    "original":"此名三麼地念誦次第大乘成就法門。",
+    "folio":1,
+    "stemmed":"此 名 三 麼 地 念 誦 次 第 大 乘 成 就 法 門  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a25_6",
+    "original":"次結三麼地印。",
+    "folio":1,
+    "stemmed":"次 結 三 麼 地 印  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a25_12",
+    "original":"二羽仰相叉。",
+    "folio":1,
+    "stemmed":"二 羽 仰 相 叉  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a25_17",
+    "original":"進力相背。",
+    "folio":1,
+    "stemmed":"進 力 相 背  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a26_10",
+    "original":"而竪禪智捻進力頭置於跏上。",
+    "folio":1,
+    "stemmed":"而 竪 禪 智 捻 進 力 頭 置 於 跏 上  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a27_12",
+    "original":"行者次應修阿娑頗那伽三昧。",
+    "folio":1,
+    "stemmed":"行 者 次 應 修 阿娑頗那伽 三 昧  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a28_3",
+    "original":"端身政坐身勿動搖。",
+    "folio":1,
+    "stemmed":"端 身 政 坐 身 勿 動 搖  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a28_16",
+    "original":"舌拄上腭止出入息令其微細。",
+    "folio":1,
+    "stemmed":"舌 拄 上 腭 止 出 入 息 令 其 微 細  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a29_5",
+    "original":"諦觀諸法皆由心。",
+    "folio":1,
+    "stemmed":"諦 觀 諸 法 皆 由 心  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493a29_18",
+    "original":"一切煩惱及隨煩惱蘊界入等。",
+    "folio":1,
+    "stemmed":"一切煩惱 及 隨 煩 惱 蘊 界 入 等  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493b01_8",
+    "original":"皆如幻焰健闥婆城。",
+    "folio":1,
+    "stemmed":"皆 如 幻 焰 健 闥 婆 城  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493b01_13",
+    "original":"如旋火輪。",
+    "folio":1,
+    "stemmed":"如 旋 火 輪  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493b01_18",
+    "original":"如空谷響。",
+    "folio":1,
+    "stemmed":"如 空 谷 響  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493b02_8",
+    "original":"如是觀已不見身心。",
+    "folio":1,
+    "stemmed":"如 是 觀 已 不 見 身 心  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493b02_17",
+    "original":"住於寂滅無相平等。",
+    "folio":1,
+    "stemmed":"住 於 寂 滅 無相平等  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493b03_7",
+    "original":"以為究竟真實之智。",
+    "folio":1,
+    "stemmed":"以 為 究 竟 真 實 之 智  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493b03_18",
+    "original":"爾時即觀空中無數諸佛。",
+    "folio":1,
+    "stemmed":"爾 時 即 觀 空 中 無 數 諸 佛  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493b04_8",
+    "original":"猶如大地滿中胡麻。",
+    "folio":1,
+    "stemmed":"猶 如 大 地 滿 中 胡 麻  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493b04_14",
+    "original":"皆舒金色臂。",
+    "folio":1,
+    "stemmed":"皆 舒 金 色 臂  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493b05_4",
+    "original":"彈指而警作是告言。",
+    "folio":1,
+    "stemmed":"彈 指 而 警 作 是 告 言  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493b05_12",
+    "original":"善男子汝所證處。",
+    "folio":1,
+    "stemmed":"善 男 子 汝 所 證 處  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493b06_10",
+    "original":"一道清淨未證金剛喻三昧耶薩婆若智。",
+    "folio":1,
+    "stemmed":"一 道 清 淨 未 證 金 剛 喻 三 昧 耶 薩 婆 若 智  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493b06_15",
+    "original":"勿為知足。",
+    "folio":1,
+    "stemmed":"勿 為 知 足  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493b07_8",
+    "original":"應以滿足故普賢成最正覺。",
+    "folio":1,
+    "stemmed":"應 以 滿 足 故 普 賢 成最正覺  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493b07_14",
+    "original":"行者聞警已。",
+    "folio":1,
+    "stemmed":"行 者 聞 警 已  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493b08_2",
+    "original":"定中普禮佛足。",
+    "folio":1,
+    "stemmed":"定 中 普 禮 佛 足  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493b08_8",
+    "original":"唯願諸如來。",
+    "folio":1,
+    "stemmed":"唯 願 諸 如 來  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493b08_14",
+    "original":"示我所行處。",
+    "folio":1,
+    "stemmed":"示 我 所 行 處  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493b08_20",
+    "original":"諸佛同音言。",
+    "folio":1,
+    "stemmed":"諸 佛 同 音 言  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493b09_0",
+    "original":"汝應觀自心　　既聞是說已",
+    "folio":1,
+    "stemmed":"汝 應 觀 自 心   既 聞 是 說 已 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493b10_0",
+    "original":"如教觀自心　　久住諦觀察",
+    "folio":1,
+    "stemmed":"如 教 觀 自 心   久 住 諦 觀 察 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493b11_0",
+    "original":"不見自心相　　復想禮佛足",
+    "folio":1,
+    "stemmed":"不 見 自 心 相   復 想 禮 佛 足 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493b12_0",
+    "original":"自言最勝尊　　我不見自心",
+    "folio":1,
+    "stemmed":"自 言 最 勝 尊   我 不 見 自 心 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493b13_0",
+    "original":"此為心何相　　諸佛咸告知",
+    "folio":1,
+    "stemmed":"此 為 心 何 相   諸 佛 咸 告 知 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493b14_0",
+    "original":"心相難測量　　授與心真言",
+    "folio":1,
+    "stemmed":"心 相 難 測 量   授 與 心 真 言 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493b17_8",
+    "original":"如理諦觀心唵一三麼地鉢那迷二合纈哩二合引其出入息一一明了。",
+    "folio":1,
+    "stemmed":"如 理 諦 觀 心 唵 一 三 麼 地 鉢 那 迷 二 合 纈 哩 二 合 引 其 出 入 息 一 一 明 了  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493b17_17",
+    "original":"觀虛空中無量諸佛。",
+    "folio":1,
+    "stemmed":"觀 虛 空 中 無 量 諸 佛  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493b18_11",
+    "original":"一時彈指警覺行者而告之言。",
+    "folio":1,
+    "stemmed":"一 時 彈 指 警 覺 行 者 而 告 之 言  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493b19_2",
+    "original":"汝今云何成無上覺。",
+    "folio":1,
+    "stemmed":"汝 今 云 何 成 無 上 覺  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493b19_11",
+    "original":"不知諸佛實相法要。",
+    "folio":1,
+    "stemmed":"不 知 諸 佛 實 相 法 要  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493b19_19",
+    "original":"行者爾時警覺已。",
+    "folio":1,
+    "stemmed":"行 者 爾 時 警 覺 已  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493b20_4",
+    "original":"即白佛言。",
+    "folio":1,
+    "stemmed":"即 白 佛 言  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493b20_10",
+    "original":"云何名真實。",
+    "folio":1,
+    "stemmed":"云 何 名 真 實  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493b20_18",
+    "original":"唯願如來為解脫。",
+    "folio":1,
+    "stemmed":"唯 願 如 來 為 解 脫  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493b21_8",
+    "original":"爾時諸佛告行者言。",
+    "folio":1,
+    "stemmed":"爾 時 諸 佛 告 行 者 言  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493b21_17",
+    "original":"善哉善哉能作是問。",
+    "folio":1,
+    "stemmed":"善哉善哉 能 作 是 問  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493b22_7",
+    "original":"汝想心中所內惡字。",
+    "folio":1,
+    "stemmed":"汝 想 心 中 所 內 惡 字  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493b22_12",
+    "original":"瑩徹於心。",
+    "folio":1,
+    "stemmed":"瑩 徹 於 心  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493b22_16",
+    "original":"密言曰。",
+    "folio":1,
+    "stemmed":"密 言 曰  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493b24_5",
+    "original":"唵一質哆鉢囉二合底味能去迦路弭當默誦一遍。",
+    "folio":1,
+    "stemmed":"唵 一 質 哆 鉢 囉 二 合 底 味 能 去 迦 路 弭 當 默 誦 一 遍  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493b24_15",
+    "original":"便想為月輪如在輕霧。",
+    "folio":1,
+    "stemmed":"便 想 為 月 輪 如 在 輕 霧  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493b25_7",
+    "original":"為欲令其月輪得清淨故。",
+    "folio":1,
+    "stemmed":"為 欲 令 其 月 輪 得 清 淨 故  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493b26_0",
+    "original":"念頃便見心　　圓滿如滿月",
+    "folio":1,
+    "stemmed":"念 頃 便 見 心   圓 滿 如 滿 月 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493b27_0",
+    "original":"復作是思惟　　是心為何物",
+    "folio":1,
+    "stemmed":"復 作是思惟   是 心 為 何 物 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493b28_0",
+    "original":"煩惱習種子　　善惡皆由心",
+    "folio":1,
+    "stemmed":"煩 惱 習 種 子   善 惡 皆 由 心 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493b29_0",
+    "original":"心為阿賴耶　　修淨以為因",
+    "folio":1,
+    "stemmed":"心 為 阿 賴 耶   修 淨 以 為 因 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493c01_0",
+    "original":"六度熏習故　　彼心為大心",
+    "folio":1,
+    "stemmed":"六 度 熏 習 故   彼 心 為 大 心 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493c02_0",
+    "original":"藏識本非染　　清淨無暇穢",
+    "folio":1,
+    "stemmed":"藏 識 本 非 染   清 淨 無 暇 穢 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493c03_0",
+    "original":"長時積福智　　喻若淨滿月",
+    "folio":1,
+    "stemmed":"長 時 積 福 智   喻 若 淨 滿 月 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493c04_0",
+    "original":"無體亦無事　　即說亦非月",
+    "folio":1,
+    "stemmed":"無 體 亦 無 事   即 說 亦 非 月 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493c05_0",
+    "original":"由具福智故　　自心如滿月",
+    "folio":1,
+    "stemmed":"由 具 福 智 故   自 心 如 滿 月 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493c06_0",
+    "original":"踴躍心歡喜　　復白諸世尊",
+    "folio":1,
+    "stemmed":"踴 躍 心 歡 喜   復 白 諸 世 尊 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493c07_0",
+    "original":"我已見自心　　清淨如滿月",
+    "folio":1,
+    "stemmed":"我 已 見 自 心   清 淨 如 滿 月 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493c08_0",
+    "original":"離諸煩惱垢　　我執所執等",
+    "folio":1,
+    "stemmed":"離諸煩惱 垢   我 執 所 執 等 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493c09_0",
+    "original":"諸佛皆告言　　汝心本如是",
+    "folio":1,
+    "stemmed":"諸 佛 皆 告 言   汝 心 本 如 是 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493c10_0",
+    "original":"為客塵所翳　　菩提心為淨",
+    "folio":1,
+    "stemmed":"為 客 塵 所 翳   菩 提 心 為 淨 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493c11_0",
+    "original":"汝觀淨月輪　　得證菩提心",
+    "folio":1,
+    "stemmed":"汝 觀 淨 月 輪   得 證 菩 提 心 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493c12_0",
+    "original":"授此心真言　　密誦而觀照",
+    "folio":1,
+    "stemmed":"授 此 心 真 言   密 誦 而 觀 照 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493c14_6",
+    "original":"唵一冒提質哆母簸二合娜耶弭誦此諦觀心月。",
+    "folio":1,
+    "stemmed":"唵 一 冒 提 質 哆 母 簸 二 合 娜 耶 弭 誦 此 諦 觀 心 月  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493c15_1",
+    "original":"極令清淨如處大虛廓無瑕翳。",
+    "folio":1,
+    "stemmed":"極 令 清 淨 如 處 大 虛 廓 無 瑕 翳  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493c15_10",
+    "original":"復於月中想一蓮華。",
+    "folio":1,
+    "stemmed":"復 於 月 中 想 一 蓮 華  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493c16_0",
+    "original":"能令心月輪　　圓滿盡明顯",
+    "folio":1,
+    "stemmed":"能 令 心 月 輪   圓 滿 盡 明 顯 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493c17_0",
+    "original":"諸佛復告言　　菩提為堅固",
+    "folio":1,
+    "stemmed":"諸 佛 復 告 言   菩 提 為 堅 固 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493c18_0",
+    "original":"善住堅牢固　　復授心真言",
+    "folio":1,
+    "stemmed":"善 住 堅 牢 固   復 授 心 真 言 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493c20_8",
+    "original":"唵一底瑟他二合㕹折囉二合鉢娜麼二合想其蓮華與月漸漸。",
+    "folio":1,
+    "stemmed":"唵 一 底 瑟 他 二 合 㕹 折 囉 二 合 鉢 娜 麼 二 合 想 其 蓮 華 與 月 漸 漸  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493c21_1",
+    "original":"而引周遍法界量同虛空。",
+    "folio":1,
+    "stemmed":"而 引 周 遍 法 界 量 同 虛 空  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493c21_12",
+    "original":"汝於淨月輪觀五智金剛。",
+    "folio":1,
+    "stemmed":"汝 於 淨 月 輪 觀 五 智 金 剛  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493c22_4",
+    "original":"令普周法界唯一大金剛。",
+    "folio":1,
+    "stemmed":"令 普 周 法 界 唯 一 大 金 剛  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493c22_8",
+    "original":"應當知。",
+    "folio":1,
+    "stemmed":"應 當 知  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493c22_16",
+    "original":"自身即為金剛界。",
+    "folio":1,
+    "stemmed":"自 身 即 為 金 剛 界  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493c24_5",
+    "original":"唵一薩頗囉二合㕹折囉二合鉢娜麼二合其引蓮華中。",
+    "folio":1,
+    "stemmed":"唵 一 薩 頗 囉 二 合 㕹 折 囉 二 合 鉢 娜 麼 二 合 其 引 蓮 華 中  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493c25_2",
+    "original":"放無量光流出無量無邊極樂世界。",
+    "folio":1,
+    "stemmed":"放 無 量 光 流 出 無量無邊 極樂世界  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493c25_11",
+    "original":"一一世界妙寶莊嚴。",
+    "folio":1,
+    "stemmed":"一 一 世 界 妙 寶 莊 嚴  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493c26_1",
+    "original":"皆有觀自在王如來。",
+    "folio":1,
+    "stemmed":"皆 有 觀 自 在 王 如 來  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493c26_10",
+    "original":"與諸聖眾前後圍繞。",
+    "folio":1,
+    "stemmed":"與 諸 聖 眾 前 後 圍 繞  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493c27_1",
+    "original":"如是觀已漸斂其蓮。",
+    "folio":1,
+    "stemmed":"如 是 觀 已 漸 斂 其 蓮  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493c27_7",
+    "original":"以證心清淨。",
+    "folio":1,
+    "stemmed":"以 證 心 清 淨  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493c27_13",
+    "original":"自見身為佛。",
+    "folio":1,
+    "stemmed":"自 見 身 為 佛  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493c28_0",
+    "original":"眾相皆圓備　　即證薩波若",
+    "folio":1,
+    "stemmed":"眾 相 皆 圓 備   即 證 薩 波 若 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0493c29_0",
+    "original":"定中遍禮佛　　願加持堅固",
+    "folio":1,
+    "stemmed":"定 中 遍 禮 佛   願 加 持 堅 固 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494a01_0",
+    "original":"一切諸佛聞　　金剛界言已",
+    "folio":1,
+    "stemmed":"一切諸佛 聞   金 剛 界 言 已 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494a02_0",
+    "original":"盡入金剛中　　便說金剛心",
+    "folio":1,
+    "stemmed":"盡 入 金 剛 中   便 說 金 剛 心 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494a03_3",
+    "original":"真言曰。",
+    "folio":1,
+    "stemmed":"真 言 曰  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494a05_10",
+    "original":"唵僧賀囉鉢納麼如是一切世界諸佛如來。",
+    "folio":1,
+    "stemmed":"唵 僧 賀 囉 鉢 納 麼 如是一切 世 界 諸佛如來  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494a06_2",
+    "original":"隨蓮華而斂量等本身。",
+    "folio":1,
+    "stemmed":"隨 蓮 華 而 斂 量 等 本 身  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494a06_12",
+    "original":"即變色身為無量壽佛。",
+    "folio":1,
+    "stemmed":"即 變 色 身 為 無 量 壽 佛  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494a07_3",
+    "original":"身紅頗璃色放大光明。",
+    "folio":1,
+    "stemmed":"身 紅 頗 璃 色 放大光明  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494a08_0",
+    "original":"諸佛大名稱　　纔說是明已",
+    "folio":1,
+    "stemmed":"諸 佛 大 名 稱   纔 說 是 明 已 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494a09_0",
+    "original":"等覺金剛界　　便證真實智",
+    "folio":1,
+    "stemmed":"等 覺 金 剛 界   便 證 真 實 智 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494a10_0",
+    "original":"時彼諸如來　　加持堅固已",
+    "folio":1,
+    "stemmed":"時 彼 諸 如 來   加 持 堅 固 已 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494a11_0",
+    "original":"還從金剛出　　普住於虛空",
+    "folio":1,
+    "stemmed":"還 從 金 剛 出   普 住 於 虛 空 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494a12_0",
+    "original":"行者作是念　　已證金剛定",
+    "folio":1,
+    "stemmed":"行 者 作 是 念   已 證 金 剛 定 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494a13_0",
+    "original":"便具薩波若　　我成正等覺",
+    "folio":1,
+    "stemmed":"便 具 薩 波 若   我 成 正 等 覺 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494a14_6",
+    "original":"為令證八地故。",
+    "folio":1,
+    "stemmed":"為 令 證 八 地 故  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494a14_15",
+    "original":"當結金剛三昧耶印。",
+    "folio":1,
+    "stemmed":"當 結 金 剛 三 昧 耶 印  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494a15_3",
+    "original":"以金剛蓮華座。",
+    "folio":1,
+    "stemmed":"以 金 剛 蓮 華 座  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494a16_0",
+    "original":"行者己身為如來　　復恐散亂而退失",
+    "folio":1,
+    "stemmed":"行 者 己 身 為 如 來   復 恐 散 亂 而 退 失 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494a17_0",
+    "original":"次作加持祕密印　　忍願六度外相叉",
+    "folio":1,
+    "stemmed":"次 作 加 持 祕 密 印   忍 願 六 度 外 相 叉 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494a18_0",
+    "original":"進力二度柱如蓮　　禪智並建想如幢",
+    "folio":1,
+    "stemmed":"進 力 二 度 柱 如 蓮   禪 智 並 建 想 如 幢 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494a19_0",
+    "original":"印心及額喉與頂　　各誦一遍已加持",
+    "folio":1,
+    "stemmed":"印 心 及 額 喉 與 頂   各 誦 一 遍 已 加 持 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494a20_0",
+    "original":"隨所真言妙請印　　二想成𭋴哩二合字",
+    "folio":1,
+    "stemmed":"隨 所 真 言 妙 請 印   二 想 成 𭋴 哩 二 合 字 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494a21_3",
+    "original":"密言曰。",
+    "folio":1,
+    "stemmed":"密 言 曰  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494a23_0",
+    "original":"即想虛空諸如來　　持虛空寶灌我頂",
+    "folio":1,
+    "stemmed":"即 想 虛 空 諸 如 來   持 虛 空 寶 灌 我 頂 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494a24_0",
+    "original":"定慧和合金剛縛　　進力禪智如寶形",
+    "folio":1,
+    "stemmed":"定 慧 和 合 金 剛 縛   進 力 禪 智 如 寶 形 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494a25_0",
+    "original":"以印額上加持已　　五佛智冠在其頂",
+    "folio":1,
+    "stemmed":"以 印 額 上 加 持 已   五 佛 智 冠 在 其 頂 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494a26_3",
+    "original":"密言曰。",
+    "folio":1,
+    "stemmed":"密 言 曰  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494a29_5",
+    "original":"唵一鉢娜麼二合囉怛娜二合阿毘詵者薩嚩二合𤚥纈哩二合怛𠸪二合次結華鬘印。",
+    "folio":1,
+    "stemmed":"唵 一 鉢 娜 麼 二 合 囉 怛 娜 二 合 阿 毘 詵 者 薩 嚩 二 合 𤚥 纈 哩 二 合 怛 𠸪 二 合 次 結 華 鬘 印  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494a29_12",
+    "original":"以前二羽當心。",
+    "folio":1,
+    "stemmed":"以 前 二 羽 當 心  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b01_1",
+    "original":"禪智屈於本月中。",
+    "folio":1,
+    "stemmed":"禪 智 屈 於 本 月 中  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b01_9",
+    "original":"忍願六度各為拳。",
+    "folio":1,
+    "stemmed":"忍 願 六 度 各 為 拳  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b01_18",
+    "original":"從額分羽繞至頂後。",
+    "folio":1,
+    "stemmed":"從 額 分 羽 繞 至 頂 後  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b02_4",
+    "original":"結蓮華拳。",
+    "folio":1,
+    "stemmed":"結 蓮 華 拳  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b02_10",
+    "original":"如繫華鬘勢。",
+    "folio":1,
+    "stemmed":"如 繫 華 鬘 勢  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b02_15",
+    "original":"徐前下散。",
+    "folio":1,
+    "stemmed":"徐 前 下 散  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b03_2",
+    "original":"想如白帶勢。",
+    "folio":1,
+    "stemmed":"想 如 白 帶 勢  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b03_5",
+    "original":"密言。",
+    "folio":1,
+    "stemmed":"密 言  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b05_7",
+    "original":"唵一鉢娜麼二合囉怛娜二合麼隷𤚥莫含反次結一切慈甲印。",
+    "folio":1,
+    "stemmed":"唵 一 鉢 娜 麼 二 合 囉 怛 娜 二 合 麼 隷 𤚥 莫 含 反 次 結 一 切 慈 甲 印  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b05_14",
+    "original":"二慧固當心已。",
+    "folio":1,
+    "stemmed":"二 慧 固 當 心 已  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b05_19",
+    "original":"進力側交。",
+    "folio":1,
+    "stemmed":"進 力 側 交  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b06_5",
+    "original":"進面想唵字。",
+    "folio":1,
+    "stemmed":"進 面 想 唵 字  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b06_14",
+    "original":"力面想中柱龍反字。",
+    "folio":1,
+    "stemmed":"力 面 想 中 柱 龍 反 字  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b06_19",
+    "original":"放綠色光。",
+    "folio":1,
+    "stemmed":"放 綠 色 光  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b07_7",
+    "original":"光不斷絕如抽藕絲。",
+    "folio":1,
+    "stemmed":"光 不 斷 絕 如 抽 藕 絲  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b07_12",
+    "original":"當心定已。",
+    "folio":1,
+    "stemmed":"當 心 定 已  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b07_17",
+    "original":"智拳繫鬘。",
+    "folio":1,
+    "stemmed":"智 拳 繫 鬘  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b08_7",
+    "original":"額後已便復前垂舒進。",
+    "folio":1,
+    "stemmed":"額 後 已 便 復 前 垂 舒 進  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b08_17",
+    "original":"唵砧二度相縈繞不絕。",
+    "folio":1,
+    "stemmed":"唵 砧 二 度 相 縈 繞 不 絕  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b09_5",
+    "original":"綠光如繫甲。",
+    "folio":1,
+    "stemmed":"綠 光 如 繫 甲  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b10_1",
+    "original":"心背臍腰而膝上胸背喉頸額後。",
+    "folio":1,
+    "stemmed":"心 背 臍 腰 而 膝 上 胸 背 喉 頸 額 後  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b10_10",
+    "original":"一一進力三旋繞散。",
+    "folio":1,
+    "stemmed":"一 一 進 力 三 旋 繞 散  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b10_17",
+    "original":"掌前下垂天衣。",
+    "folio":1,
+    "stemmed":"掌 前 下 垂 天 衣  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b11_5",
+    "original":"即能普護諸眾生。",
+    "folio":1,
+    "stemmed":"即 能 普 護 諸 眾 生  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b11_13",
+    "original":"一切天魔不能壞。",
+    "folio":1,
+    "stemmed":"一 切 天 魔 不 能 壞  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b11_19",
+    "original":"誦此真言曰。",
+    "folio":1,
+    "stemmed":"誦 此 真 言 曰  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b14_7",
+    "original":"唵一阿婆耶鉢娜麼二合迦嚩制滿馱囉訖灑二合𤚥吽憾次結如來歡喜印。",
+    "folio":1,
+    "stemmed":"唵 一 阿 婆 耶 鉢 娜 麼 二 合 迦 嚩 制 滿 馱 囉 訖 灑 二 合 𤚥 吽 憾 次 結 如 來 歡 喜 印  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b14_14",
+    "original":"定慧二羽當心。",
+    "folio":1,
+    "stemmed":"定 慧 二 羽 當 心  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b15_4",
+    "original":"合進力八度外相叉。",
+    "folio":1,
+    "stemmed":"合 進 力 八 度 外 相 叉  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b15_12",
+    "original":"禪智二度當心竪。",
+    "folio":1,
+    "stemmed":"禪 智 二 度 當 心 竪  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b15_17",
+    "original":"微拍二聲。",
+    "folio":1,
+    "stemmed":"微 拍 二 聲  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b16_5",
+    "original":"啟諸聖一切天眾。",
+    "folio":1,
+    "stemmed":"啟 諸 聖 一 切 天 眾  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b16_12",
+    "original":"歡喜誦此真言。",
+    "folio":1,
+    "stemmed":"歡 喜 誦 此 真 言  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b16_14",
+    "original":"曰。",
+    "folio":1,
+    "stemmed":"曰  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b18_12",
+    "original":"唵一鉢娜麼二合覩便𫒁二合護行者次應以成所作智三麼地。",
+    "folio":1,
+    "stemmed":"唵 一 鉢 娜 麼 二 合 覩 便 𫒁 二 合 護 行 者 次 應 以 成所作智 三 麼 地  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b19_9",
+    "original":"想於己身前觀無盡海出大蓮華王。",
+    "folio":1,
+    "stemmed":"想 於 己 身 前 觀 無 盡 海 出 大 蓮 華 王  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b19_18",
+    "original":"金剛為莖量周法界。",
+    "folio":1,
+    "stemmed":"金 剛 為 莖 量 周 法 界  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b20_7",
+    "original":"上想七寶樓閣中。",
+    "folio":1,
+    "stemmed":"上 想 七 寶 樓 閣 中  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b20_15",
+    "original":"師子座上淨滿月。",
+    "folio":1,
+    "stemmed":"師 子 座 上 淨 滿 月  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b21_3",
+    "original":"中現妙白蓮華。",
+    "folio":1,
+    "stemmed":"中 現 妙 白 蓮 華  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b21_8",
+    "original":"觀娑字門。",
+    "folio":1,
+    "stemmed":"觀 娑 字 門  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b21_17",
+    "original":"放大光明普照法界。",
+    "folio":1,
+    "stemmed":"放大光明 普 照 法 界  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b22_3",
+    "original":"為觀音大悲。",
+    "folio":1,
+    "stemmed":"為 觀 音 大 悲  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b22_13",
+    "original":"復於面前觀安樂世界。",
+    "folio":1,
+    "stemmed":"復 於 面 前 觀 安樂世界  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b23_3",
+    "original":"琉璃為地功德乳海。",
+    "folio":1,
+    "stemmed":"琉 璃 為 地 功 德 乳 海  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b23_14",
+    "original":"於其海中觀𭋴哩二合字。",
+    "folio":1,
+    "stemmed":"於 其 海 中 觀 𭋴 哩 二 合 字  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b24_4",
+    "original":"變為微妙開數蓮華。",
+    "folio":1,
+    "stemmed":"變 為 微 妙 開 數 蓮 華  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b24_16",
+    "original":"即變其華為觀自在王如來。",
+    "folio":1,
+    "stemmed":"即 變 其 華 為 觀 自 在 王 如 來  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b25_12",
+    "original":"色相莊嚴如前身觀如來身色如月。",
+    "folio":1,
+    "stemmed":"色 相 莊 嚴 如 前 身 觀 如 來 身 色 如 月  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b26_1",
+    "original":"首戴五如來冠。",
+    "folio":1,
+    "stemmed":"首 戴 五 如 來 冠  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b26_7",
+    "original":"垂妙穀天衣。",
+    "folio":1,
+    "stemmed":"垂 妙 穀 天 衣  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b26_16",
+    "original":"瓔珞嚴身光明普照。",
+    "folio":1,
+    "stemmed":"瓔 珞 嚴 身 光明普照  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b27_6",
+    "original":"無量無數大菩薩眾。",
+    "folio":1,
+    "stemmed":"無量無數 大 菩 薩 眾  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b27_15",
+    "original":"前後圍繞以為眷屬。",
+    "folio":1,
+    "stemmed":"前 後 圍 繞 以 為 眷 屬  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b28_10",
+    "original":"行者為欲令一切如來咸集會故。",
+    "folio":1,
+    "stemmed":"行 者 為 欲 令 一 切 如 來 咸 集 會 故  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b29_10",
+    "original":"次以金剛王菩薩三摩地。",
+    "folio":1,
+    "stemmed":"次 以 金 剛 王 菩 薩 三 摩 地  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494b29_15",
+    "original":"召集諸聖。",
+    "folio":1,
+    "stemmed":"召 集 諸 聖  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494c01_7",
+    "original":"次結蓮華鉤召印。",
+    "folio":1,
+    "stemmed":"次 結 蓮 華 鉤 召 印  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494c01_15",
+    "original":"定慧二羽金剛拳。",
+    "folio":1,
+    "stemmed":"定 慧 二 羽 金 剛 拳  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494c02_4",
+    "original":"進度如鉤獨三屈。",
+    "folio":1,
+    "stemmed":"進 度 如 鉤 獨 三 屈  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494c02_10",
+    "original":"誦此密言曰。",
+    "folio":1,
+    "stemmed":"誦 此 密 言 曰  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494c04_4",
+    "original":"唵一鉢娜麼二合句捨吽惹誦此三遍。",
+    "folio":1,
+    "stemmed":"唵 一 鉢 娜 麼 二 合 句 捨 吽 惹 誦 此 三 遍  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494c04_9",
+    "original":"進度三招。",
+    "folio":1,
+    "stemmed":"進 度 三 招  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494c04_14",
+    "original":"真身菩薩。",
+    "folio":1,
+    "stemmed":"真 身 菩 薩  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494c04_19",
+    "original":"應念而至。",
+    "folio":1,
+    "stemmed":"應 念 而 至  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494c05_7",
+    "original":"次結金剛索大印。",
+    "folio":1,
+    "stemmed":"次 結 金 剛 索 大 印  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494c05_15",
+    "original":"引入尊身於智體。",
+    "folio":1,
+    "stemmed":"引 入 尊 身 於 智 體  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494c06_4",
+    "original":"忍願六度外相叉。",
+    "folio":1,
+    "stemmed":"忍 願 六 度 外 相 叉  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494c06_12",
+    "original":"禪進二度各相拄。",
+    "folio":1,
+    "stemmed":"禪 進 二 度 各 相 拄  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494c06_18",
+    "original":"誦此真言曰。",
+    "folio":1,
+    "stemmed":"誦 此 真 言 曰  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494c08_4",
+    "original":"唵一鉢娜麼二合阿母伽播捨吽相菩薩法身來入畫像。",
+    "folio":1,
+    "stemmed":"唵 一 鉢 娜 麼 二 合 阿 母 伽 播 捨 吽 相 菩 薩 法 身 來 入 畫 像  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494c09_7",
+    "original":"次結金剛句鎖印。",
+    "folio":1,
+    "stemmed":"次 結 金 剛 句 鎖 印  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494c09_15",
+    "original":"能令本尊堅固住。",
+    "folio":1,
+    "stemmed":"能 令 本 尊 堅 固 住  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494c10_4",
+    "original":"禪進力智相勾結。",
+    "folio":1,
+    "stemmed":"禪 進 力 智 相 勾 結  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494c10_12",
+    "original":"是名金剛能止印。",
+    "folio":1,
+    "stemmed":"是 名 金 剛 能 止 印  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494c10_18",
+    "original":"誦此密言曰。",
+    "folio":1,
+    "stemmed":"誦 此 密 言 曰  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494c12_12",
+    "original":"唵一鉢娜麼二塞普二合吒𤚥作此法已聖者本身加持不散。",
+    "folio":1,
+    "stemmed":"唵 一 鉢 娜 麼 二 塞 普 二 合 吒 𤚥 作 此 法 已 聖 者 本 身 加 持 不 散  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494c13_7",
+    "original":"次結金剛妙磬印。",
+    "folio":1,
+    "stemmed":"次 結 金 剛 妙 磬 印  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494c13_15",
+    "original":"能令諸聖皆歡喜。",
+    "folio":1,
+    "stemmed":"能 令 諸 聖 皆 歡 喜  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494c14_4",
+    "original":"禪智屈入金剛縛。",
+    "folio":1,
+    "stemmed":"禪 智 屈 入 金 剛 縛  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494c14_12",
+    "original":"進力頭屈拄如環。",
+    "folio":1,
+    "stemmed":"進 力 頭 屈 拄 如 環  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494c15_1",
+    "original":"是名金剛歡喜印。",
+    "folio":1,
+    "stemmed":"是 名 金 剛 歡 喜 印  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494c15_7",
+    "original":"誦此真言曰。",
+    "folio":1,
+    "stemmed":"誦 此 真 言 曰  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494c17_4",
+    "original":"唵一鉢娜麼二合吠捨吽引作此法者。",
+    "folio":1,
+    "stemmed":"唵 一 鉢 娜 麼 二 合 吠 捨 吽 引 作 此 法 者  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494c17_15",
+    "original":"一切諸佛菩薩及本聖者。",
+    "folio":1,
+    "stemmed":"一切諸佛 菩 薩 及 本 聖 者  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494c18_1",
+    "original":"皆悉歡喜。",
+    "folio":1,
+    "stemmed":"皆 悉 歡 喜  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494c19_9",
+    "original":"次結遏伽水陀羅尼印。",
+    "folio":1,
+    "stemmed":"次 結 遏 伽 水 陀 羅 尼 印  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494c20_9",
+    "original":"以欝金龍腦白檀香水盛遏伽器中和香捧。",
+    "folio":1,
+    "stemmed":"以 欝 金 龍 腦 白 檀 香 水 盛 遏 伽 器 中 和 香 捧  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494c20_13",
+    "original":"而供養。",
+    "folio":1,
+    "stemmed":"而 供 養  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494c21_5",
+    "original":"次作閼伽契。",
+    "folio":1,
+    "stemmed":"次 作 閼 伽 契  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494c21_13",
+    "original":"即以二羽當心合。",
+    "folio":1,
+    "stemmed":"即 以 二 羽 當 心 合  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494c22_3",
+    "original":"忍願六度仰直舒。",
+    "folio":1,
+    "stemmed":"忍 願 六 度 仰 直 舒  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494c22_11",
+    "original":"進力屈捻禪智甲。",
+    "folio":1,
+    "stemmed":"進 力 屈 捻 禪 智 甲  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494c22_17",
+    "original":"誦此密言曰。",
+    "folio":1,
+    "stemmed":"誦 此 密 言 曰  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494c24_5",
+    "original":"唵一諦囇勃陀去莎嚩訶作此供養者。",
+    "folio":1,
+    "stemmed":"唵 一 諦 囇 勃 陀 去 莎 嚩 訶 作 此 供 養 者  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494c24_16",
+    "original":"如以一切如來金剛甘露。",
+    "folio":1,
+    "stemmed":"如 以 一 切 如 來 金 剛 甘 露  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494c25_4",
+    "original":"灌一切眾生頂。",
+    "folio":1,
+    "stemmed":"灌 一 切 眾 生 頂  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494c25_13",
+    "original":"除滅有情無量業障。",
+    "folio":1,
+    "stemmed":"除 滅 有 情 無 量 業 障  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494c26_3",
+    "original":"飲此水者除諸災患。",
+    "folio":1,
+    "stemmed":"飲 此 水 者 除 諸 災 患  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494c26_11",
+    "original":"由結閼伽供養故。",
+    "folio":1,
+    "stemmed":"由 結 閼 伽 供 養 故  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494c26_19",
+    "original":"為捧閼伽眾香水。",
+    "folio":1,
+    "stemmed":"為 捧 閼 伽 眾 香 水  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494c27_7",
+    "original":"想浴諸聖無垢身。",
+    "folio":1,
+    "stemmed":"想 浴 諸 聖 無 垢 身  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494c27_15",
+    "original":"當得灌頂法雲地。",
+    "folio":1,
+    "stemmed":"當 得 灌 頂 法 雲 地  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494c28_17",
+    "original":"次結一切如來百字陀羅尼印十度堅固縛。",
+    "folio":1,
+    "stemmed":"次 結 一 切 如 來 百 字 陀 羅 尼 印 十 度 堅 固 縛  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494c29_4",
+    "original":"禪智並竪。",
+    "folio":1,
+    "stemmed":"禪 智 並 竪  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0494c29_8",
+    "original":"密言曰。",
+    "folio":1,
+    "stemmed":"密 言 曰  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495a09_13",
+    "original":"唵一鉢娜麼二合薩怛嚩三麼耶麼怒播囉耶鉢娜麼薩怛嚩怛微二合奴波底瑟姹二合沮哩二合擢荼護茗皤嚩阿努𠸪訖都二合茗婆嚩蘇報灑諭茗皤嚩薩波悉簟茗鉢囉二合耶車薩婆羯麼蘇者茗質哆失唎藥句盧吽訶訶訶訶護引薄伽𭊃薩婆怛他羯哆鉢娜麼二合莽名悶遮鉢娜迷二合皤嚩麼訶三麼耶薩埵惡引由以摩訶衍那百字真言加持故。",
+    "folio":1,
+    "stemmed":"唵 一 鉢 娜 麼 二 合 薩 怛 嚩 三 麼 耶 麼 怒 播 囉 耶 鉢 娜 麼 薩 怛 嚩 怛 微 二 合 奴 波 底 瑟 姹 二 合 沮 哩 二 合 擢 荼 護 茗 皤 嚩 阿 努 𠸪 訖 都 二 合 茗 婆 嚩 蘇 報 灑 諭 茗 皤 嚩 薩 波 悉 簟 茗 鉢 囉 二 合 耶 車 薩 婆 羯 麼 蘇 者 茗 質 哆 失 唎 藥 句 盧 吽 訶 訶 訶 訶 護 引 薄 伽 𭊃 薩 婆 怛 他 羯 哆 鉢 娜 麼 二 合 莽 名 悶 遮 鉢 娜 迷 二 合 皤 嚩 麼 訶 三 麼 耶 薩 埵 惡 引 由 以 摩 訶 衍 那 百 字 真 言 加 持 故  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495a10_2",
+    "original":"設犯五無間罪。",
+    "folio":1,
+    "stemmed":"設 犯 五無間罪  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495a10_16",
+    "original":"謗一切諸佛及方廣經修真言者。",
+    "folio":1,
+    "stemmed":"謗 一切諸佛 及 方 廣 經 修 真 言 者  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495a11_6",
+    "original":"以本尊堅住己身故。",
+    "folio":1,
+    "stemmed":"以 本 尊 堅 住 己 身 故  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495a11_15",
+    "original":"現世所求一切悉地。",
+    "folio":1,
+    "stemmed":"現 世 所 求 一 切 悉 地  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495a12_3",
+    "original":"所謂最勝悉地。",
+    "folio":1,
+    "stemmed":"所 謂 最 勝 悉 地  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495a12_10",
+    "original":"金剛薩埵悉地。",
+    "folio":1,
+    "stemmed":"金 剛 薩 埵 悉 地  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495a12_19",
+    "original":"乃至如來最勝悉地。",
+    "folio":1,
+    "stemmed":"乃 至 如 來 最 勝 悉 地  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495a13_7",
+    "original":"次結金剛嬉戲印。",
+    "folio":1,
+    "stemmed":"次 結 金 剛 嬉 戲 印  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495a13_15",
+    "original":"成就如來內眷屬。",
+    "folio":1,
+    "stemmed":"成 就 如 來 內 眷 屬  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495a14_3",
+    "original":"定慧和合金剛。",
+    "folio":1,
+    "stemmed":"定 慧 和 合 金 剛  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495a14_11",
+    "original":"禪智二度當心竪。",
+    "folio":1,
+    "stemmed":"禪 智 二 度 當 心 竪  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495a15_1",
+    "original":"一切嬉戲漸論臺。",
+    "folio":1,
+    "stemmed":"一 切 嬉 戲 漸 論 臺  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495a15_9",
+    "original":"頂上散輪契聖意。",
+    "folio":1,
+    "stemmed":"頂 上 散 輪 契 聖 意  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495a15_15",
+    "original":"誦此真言曰。",
+    "folio":1,
+    "stemmed":"誦 此 真 言 曰  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495a17_4",
+    "original":"唵一鉢娜麼二合攞細呼引作此法者。",
+    "folio":1,
+    "stemmed":"唵 一 鉢 娜 麼 二 合 攞 細 呼 引 作 此 法 者  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495a17_17",
+    "original":"如以一切如來智慧供養諸佛。",
+    "folio":1,
+    "stemmed":"如 以 一 切 如來智慧 供 養 諸 佛  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495a18_3",
+    "original":"以為遊喜。",
+    "folio":1,
+    "stemmed":"以 為 遊 喜  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495a18_11",
+    "original":"由以嬉戲供養故。",
+    "folio":1,
+    "stemmed":"由 以 嬉 戲 供 養 故  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495a18_19",
+    "original":"不久當證金剛定。",
+    "folio":1,
+    "stemmed":"不 久 當 證 金 剛 定  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495a19_7",
+    "original":"次結金剛華鬘印。",
+    "folio":1,
+    "stemmed":"次 結 金 剛 華 鬘 印  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495a19_15",
+    "original":"觀妙鬘雲普法界。",
+    "folio":1,
+    "stemmed":"觀 妙 鬘 雲 普 法 界  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495a20_4",
+    "original":"不改前印捧而前。",
+    "folio":1,
+    "stemmed":"不 改 前 印 捧 而 前  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495a20_12",
+    "original":"想捧寶鬘用嚴守。",
+    "folio":1,
+    "stemmed":"想 捧 寶 鬘 用 嚴 守  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495a20_18",
+    "original":"誦此真言曰。",
+    "folio":1,
+    "stemmed":"誦 此 真 言 曰  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495a22_4",
+    "original":"唵一鉢娜麼二合麼隷怛囉二合吒半音作此法者。",
+    "folio":1,
+    "stemmed":"唵 一 鉢 娜 麼 二 合 麼 隷 怛 囉 二 合 吒 半 音 作 此 法 者  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495a22_15",
+    "original":"如以菩提華鬘而為供養。",
+    "folio":1,
+    "stemmed":"如 以 菩 提 華 鬘 而 為 供 養  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495a23_4",
+    "original":"由以金剛鬘供養。",
+    "folio":1,
+    "stemmed":"由 以 金 剛 鬘 供 養  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495a23_12",
+    "original":"當授灌頂法王位。",
+    "folio":1,
+    "stemmed":"當 授 灌 頂 法 王 位  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495a24_7",
+    "original":"次結金剛歌詠印。",
+    "folio":1,
+    "stemmed":"次 結 金 剛 歌 詠 印  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495a24_15",
+    "original":"讚揚如來諾福智。",
+    "folio":1,
+    "stemmed":"讚 揚 如 來 諾 福 智  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495a25_4",
+    "original":"諦觀相好運清音。",
+    "folio":1,
+    "stemmed":"諦 觀 相 好 運 清 音  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495a25_12",
+    "original":"以契如如真性理。",
+    "folio":1,
+    "stemmed":"以 契 如 如 真 性 理  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495a26_1",
+    "original":"豈此金剛歌詠印。",
+    "folio":1,
+    "stemmed":"豈 此 金 剛 歌 詠 印  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495a26_9",
+    "original":"以妙音聲讚佛智。",
+    "folio":1,
+    "stemmed":"以 妙 音 聲 讚 佛 智  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495a26_17",
+    "original":"前印從臍至口散。",
+    "folio":1,
+    "stemmed":"前 印 從 臍 至 口 散  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495a27_5",
+    "original":"演妙樂音娛聖會。",
+    "folio":1,
+    "stemmed":"演 妙 樂 音 娛 聖 會  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495a27_11",
+    "original":"誦此真言曰。",
+    "folio":1,
+    "stemmed":"誦 此 真 言 曰  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495a29_4",
+    "original":"唵一鉢娜麼二合擬啼擬奸以反上同作此法者。",
+    "folio":1,
+    "stemmed":"唵 一 鉢 娜 麼 二 合 擬 啼 擬 奸 以 反 上 同 作 此 法 者  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b01_1",
+    "original":"如以一切如來密言歌詠而為供養。",
+    "folio":1,
+    "stemmed":"如 以 一 切 如 來 密 言 歌 詠 而 為 供 養  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b01_9",
+    "original":"不久當具如來辯。",
+    "folio":1,
+    "stemmed":"不 久 當 具 如 來 辯  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b02_7",
+    "original":"次結金剛舞妙印。",
+    "folio":1,
+    "stemmed":"次 結 金 剛 舞 妙 印  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b02_15",
+    "original":"觀妙妓雲普供養。",
+    "folio":1,
+    "stemmed":"觀 妙 妓 雲 普 供 養  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b03_4",
+    "original":"定慧二羽各旋舞。",
+    "folio":1,
+    "stemmed":"定 慧 二 羽 各 旋 舞  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b03_12",
+    "original":"右脇左脇復當心。",
+    "folio":1,
+    "stemmed":"右 脇 左 脇 復 當 心  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b04_1",
+    "original":"一一進力三旋遶。",
+    "folio":1,
+    "stemmed":"一 一 進 力 三 旋 遶  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b04_9",
+    "original":"真言漸輪頂上散。",
+    "folio":1,
+    "stemmed":"真 言 漸 輪 頂 上 散  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b04_15",
+    "original":"誦此妙言曰。",
+    "folio":1,
+    "stemmed":"誦 此 妙 言 曰  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b06_4",
+    "original":"唵一鉢娜麼二合儞哩二合啼訖哩二合吒作此法者。",
+    "folio":1,
+    "stemmed":"唵 一 鉢 娜 麼 二 合 儞 哩 二 合 啼 訖 哩 二 合 吒 作 此 法 者  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b06_17",
+    "original":"如以一切如來辯才而為供養。",
+    "folio":1,
+    "stemmed":"如 以 一 切 如 來 辯 才 而 為 供 養  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b07_6",
+    "original":"由以妙舞供養故。",
+    "folio":1,
+    "stemmed":"由 以 妙 舞 供 養 故  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b07_14",
+    "original":"當得如來意生身。",
+    "folio":1,
+    "stemmed":"當 得 如 來 意 生 身  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b08_7",
+    "original":"次結焚香外供養。",
+    "folio":1,
+    "stemmed":"次 結 焚 香 外 供 養  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b08_14",
+    "original":"此普薰佛海會。",
+    "folio":1,
+    "stemmed":"此 普 薰 佛 海 會  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b09_3",
+    "original":"和合金剛下散掌。",
+    "folio":1,
+    "stemmed":"和 合 金 剛 下 散 掌  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b09_11",
+    "original":"想妙香雲周法界。",
+    "folio":1,
+    "stemmed":"想 妙 香 雲 周 法 界  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b09_17",
+    "original":"誦此真言曰。",
+    "folio":1,
+    "stemmed":"誦 此 真 言 曰  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b11_4",
+    "original":"唵一鉢娜麼二合度閉惡入作此法者。",
+    "folio":1,
+    "stemmed":"唵 一 鉢 娜 麼 二 合 度 閉 惡 入 作 此 法 者  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b11_17",
+    "original":"如焚世間一切妙香而為供養。",
+    "folio":1,
+    "stemmed":"如 焚 世 間 一 切 妙 香 而 為 供 養  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b12_3",
+    "original":"能令一切。",
+    "folio":1,
+    "stemmed":"能 令 一 切  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b12_10",
+    "original":"有情得清淨果。",
+    "folio":1,
+    "stemmed":"有 情 得 清 淨 果  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b12_18",
+    "original":"由以焚香供養故。",
+    "folio":1,
+    "stemmed":"由 以 焚 香 供 養 故  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b13_5",
+    "original":"即得妙無礙智。",
+    "folio":1,
+    "stemmed":"即 得 妙 無 礙 智  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b14_7",
+    "original":"次結金剛散華印。",
+    "folio":1,
+    "stemmed":"次 結 金 剛 散 華 印  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b14_15",
+    "original":"以此莊嚴諸世界。",
+    "folio":1,
+    "stemmed":"以 此 莊 嚴 諸 世 界  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b15_4",
+    "original":"縛印上散如戲華。",
+    "folio":1,
+    "stemmed":"縛 印 上 散 如 戲 華  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b15_12",
+    "original":"芬馥華雲遍法界。",
+    "folio":1,
+    "stemmed":"芬 馥 華 雲 遍 法 界  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b15_18",
+    "original":"誦此真言曰。",
+    "folio":1,
+    "stemmed":"誦 此 真 言 曰  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b17_4",
+    "original":"唵一鉢娜麼二合補瑟閉作此法者。",
+    "folio":1,
+    "stemmed":"唵 一 鉢 娜 麼 二 合 補 瑟 閉 作 此 法 者  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b17_17",
+    "original":"同以世間一切妙華而為供養。",
+    "folio":1,
+    "stemmed":"同 以 世 間 一 切 妙 華 而 為 供 養  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b18_15",
+    "original":"能令有情速得成就如來具足三十二相。",
+    "folio":1,
+    "stemmed":"能 令 有 情 速 得 成 就 如 來 具 足 三十二相  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b19_5",
+    "original":"由結金剛華供養。",
+    "folio":1,
+    "stemmed":"由 結 金 剛 華 供 養  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b19_13",
+    "original":"速證如來四八相。",
+    "folio":1,
+    "stemmed":"速 證 如 來 四 八 相  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b20_7",
+    "original":"次結金剛燈明印。",
+    "folio":1,
+    "stemmed":"次 結 金 剛 燈 明 印  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b20_15",
+    "original":"普照佛會合光顯。",
+    "folio":1,
+    "stemmed":"普 照 佛 會 合 光 顯  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b21_5",
+    "original":"忍願六度外相叉。",
+    "folio":1,
+    "stemmed":"忍 願 六 度 外 相 叉  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b21_13",
+    "original":"進力屈拄如寶形。",
+    "folio":1,
+    "stemmed":"進 力 屈 拄 如 寶 形  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b22_3",
+    "original":"禪智前逼金剛縛。",
+    "folio":1,
+    "stemmed":"禪 智 前 逼 金 剛 縛  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b22_11",
+    "original":"摩尼燈光照法界。",
+    "folio":1,
+    "stemmed":"摩 尼 燈 光 照 法 界  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b22_17",
+    "original":"誦此真言曰。",
+    "folio":1,
+    "stemmed":"誦 此 真 言 曰  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b24_4",
+    "original":"唵一鉢娜麼二合儞閉儞平上同作此法者。",
+    "folio":1,
+    "stemmed":"唵 一 鉢 娜 麼 二 合 儞 閉 儞 平 上 同 作 此 法 者  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b24_17",
+    "original":"如以一切如來智燈而為供養。",
+    "folio":1,
+    "stemmed":"如 以 一 切 如 來 智 燈 而 為 供 養  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b25_11",
+    "original":"能令有情速得成就如來智慧。",
+    "folio":1,
+    "stemmed":"能 令 有 情 速 得 成 就 如來智慧  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b26_1",
+    "original":"由以金剛燈供養。",
+    "folio":1,
+    "stemmed":"由 以 金 剛 燈 供 養  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b26_8",
+    "original":"速具如來五眼。",
+    "folio":1,
+    "stemmed":"速 具 如 來 五 眼  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b27_6",
+    "original":"次結金剛塗香。",
+    "folio":1,
+    "stemmed":"次 結 金 剛 塗 香  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b27_14",
+    "original":"以用供養諸佛會。",
+    "folio":1,
+    "stemmed":"以 用 供 養 諸 佛 會  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b28_3",
+    "original":"散金剛縛如塗香。",
+    "folio":1,
+    "stemmed":"散 金 剛 縛 如 塗 香  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b28_11",
+    "original":"香氣周流十方界。",
+    "folio":1,
+    "stemmed":"香 氣 周 流 十 方 界  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495b28_15",
+    "original":"真言曰。",
+    "folio":1,
+    "stemmed":"真 言 曰  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495c01_4",
+    "original":"唵一鉢娜麼二合巘提虐入作此法者。",
+    "folio":1,
+    "stemmed":"唵 一 鉢 娜 麼 二 合 巘 提 虐 入 作 此 法 者  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495c02_1",
+    "original":"如以一切如來智尸羅香而為供養。",
+    "folio":1,
+    "stemmed":"如 以 一 切 如 來 智 尸 羅 香 而 為 供 養  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495c02_13",
+    "original":"能令諸有情速得清淨戒身。",
+    "folio":1,
+    "stemmed":"能 令 諸 有 情 速 得 清 淨 戒 身  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495c03_1",
+    "original":"由結金剛香印。",
+    "folio":1,
+    "stemmed":"由 結 金 剛 香 印  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495c03_9",
+    "original":"得具五分法身智。",
+    "folio":1,
+    "stemmed":"得 具 五分法身 智  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495c03_17",
+    "original":"如是廣作佛事已。",
+    "folio":1,
+    "stemmed":"如 是 廣 作 佛 事 已  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495c04_7",
+    "original":"次應諦觀為念誦。",
+    "folio":1,
+    "stemmed":"次 應 諦 觀 為 念 誦  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495c04_15",
+    "original":"先當一緣觀本尊。",
+    "folio":1,
+    "stemmed":"先 當 一 緣 觀 本 尊  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495c05_4",
+    "original":"四明引入於己體。",
+    "folio":1,
+    "stemmed":"四 明 引 入 於 己 體  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495c05_12",
+    "original":"智身與尊無有二。",
+    "folio":1,
+    "stemmed":"智 身 與 尊 無 有 二  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495c06_1",
+    "original":"色相威儀皆與等。",
+    "folio":1,
+    "stemmed":"色 相 威 儀 皆 與 等  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495c06_9",
+    "original":"眾會眷屬自圍遶。",
+    "folio":1,
+    "stemmed":"眾 會 眷 屬 自 圍 遶  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495c06_17",
+    "original":"住於圓寂大鏡智。",
+    "folio":1,
+    "stemmed":"住 於 圓 寂 大 鏡 智  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495c07_5",
+    "original":"定慧二羽金剛縛。",
+    "folio":1,
+    "stemmed":"定 慧 二 羽 金 剛 縛  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495c07_13",
+    "original":"忍願二度建如幢。",
+    "folio":1,
+    "stemmed":"忍 願 二 度 建 如 幢  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495c08_2",
+    "original":"即誦觀音根本明。",
+    "folio":1,
+    "stemmed":"即 誦 觀 音 根 本 明  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495c08_10",
+    "original":"身處月輪同薩埵。",
+    "folio":1,
+    "stemmed":"身 處 月 輪 同 薩 埵  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495c08_16",
+    "original":"誦此真言曰。",
+    "folio":1,
+    "stemmed":"誦 此 真 言 曰  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0495c11_2",
+    "original":"唵一路計濕嚩二合囉邏若頡哩二合次說廣大圓滿無礙大悲心儞攞建他陀羅尼曰。",
+    "folio":1,
+    "stemmed":"唵 一 路 計 濕 嚩 二 合 囉 邏 若 頡 哩 二 合 次 說 廣 大 圓 滿 無 礙 大 悲 心 儞 攞 建 他 陀 羅 尼 曰  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_0",
+    "original":"娜慕一囉怛娜二合怛囉引夜野二合娜謨阿引唎",
+    "folio":1,
+    "stemmed":"娜慕一囉怛娜二合怛囉引夜野二合娜謨阿引唎"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_1",
+    "original":"耶二嚩嚕枳諦濕嚩二合囉野三冒提薩哆嚩二合",
+    "folio":1,
+    "stemmed":"耶二嚩嚕枳諦濕嚩二合囉野三冒提薩哆嚩二合"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_2",
+    "original":"野四摩賀薩怛嚩野摩訶迦嚕抳迦野六薩摩滿陀",
+    "folio":1,
+    "stemmed":"野四摩賀薩怛嚩野摩訶迦嚕抳迦野六薩摩滿陀"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_3",
+    "original":"那七砌娜娜囉二合野薩麼皤去嚩九三母努嚕麁",
+    "folio":1,
+    "stemmed":"那七砌娜娜囉二合野薩麼皤去嚩九三母努嚕麁"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_4",
+    "original":"去沙二拏十迦囉二合野十一薩嚩彌夜十二提十",
+    "folio":1,
+    "stemmed":"去沙二拏十迦囉二合野十一薩嚩彌夜十二提十"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_5",
+    "original":"三鉢羅二合舍麼娜迦囉二合野薩徵引底喻二合",
+    "folio":1,
+    "stemmed":"三鉢羅二合舍麼娜迦囉二合野薩徵引底喻二合"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_6",
+    "original":"跛捺囉二合嚩十四尾娜引舍娜迦囉二合野薩麼",
+    "folio":1,
+    "stemmed":"跛捺囉二合嚩十四尾娜引舍娜迦囉二合野薩麼"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_7",
+    "original":"皤曳數者怛囉二合拏迦囉二合怛寫娜麼塞訖哩",
+    "folio":1,
+    "stemmed":"皤曳數者怛囉二合拏迦囉二合怛寫娜麼塞訖哩"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_8",
+    "original":"二合哆嚩二合十七翳𤚥莫含反阿唎耶十八嚩嚕",
+    "folio":1,
+    "stemmed":"二合哆嚩二合十七翳𤚥莫含反阿唎耶十八嚩嚕"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_9",
+    "original":"枳諦十九濕嚩囉二合二十怛囉二合儞攞建咜那",
+    "folio":1,
+    "stemmed":"枳諦十九濕嚩囉二合二十怛囉二合儞攞建咜那"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_10",
+    "original":"麼二十一纈哩二合陀耶麼󰻣哆以使夜二合弭二",
+    "folio":1,
+    "stemmed":"麼二十一纈哩二合陀耶麼󰻣哆以使夜二合弭二"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_11",
+    "original":"十二薩麼唎他二合娑去馱喃戍皤二十三阿誓上",
+    "folio":1,
+    "stemmed":"十二薩麼唎他二合娑去馱喃戍皤二十三阿誓上"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_12",
+    "original":"舌頭呼焰薩麼步哆喃二十四皤嚩味引哩誐二十",
+    "folio":1,
+    "stemmed":"舌頭呼焰薩麼步哆喃二十四皤嚩味引哩誐二十"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_13",
+    "original":"五尾戍馱二十六怛儞也儞夜反他唵二十八阿路",
+    "folio":1,
+    "stemmed":"五尾戍馱二十六怛儞也儞夜反他唵二十八阿路"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_14",
+    "original":"上計二十九阿路迦麼底迦蘭諦二合三十一呬呬",
+    "folio":1,
+    "stemmed":"上計二十九阿路迦麼底迦蘭諦二合三十一呬呬"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_15",
+    "original":"呵梨三十二摩訶菩提薩埵二合三十三醯冒提薩",
+    "folio":1,
+    "stemmed":"呵梨三十二摩訶菩提薩埵二合三十三醯冒提薩"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_16",
+    "original":"哆嚩三十四醯摩訶冒提薩哆嚩三十五醯鉢二合",
+    "folio":1,
+    "stemmed":"哆嚩三十四醯摩訶冒提薩哆嚩三十五醯鉢二合"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_17",
+    "original":"哩耶三十六冒提薩哆嚩三十七醓迦引嚕抳迦三",
+    "folio":1,
+    "stemmed":"哩耶三十六冒提薩哆嚩三十七醓迦引嚕抳迦三"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_18",
+    "original":"十八娑摩囉二合𬼠哩二合娜閻三十九呬引呬呵",
+    "folio":1,
+    "stemmed":"十八娑摩囉二合𬼠哩二合娜閻三十九呬引呬呵"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_19",
+    "original":"梨四十阿梨耶嚩嚕枳諦四十一濕嚩囉二合麼係",
+    "folio":1,
+    "stemmed":"梨四十阿梨耶嚩嚕枳諦四十一濕嚩囉二合麼係"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_20",
+    "original":"埿嚩摩每怛囉二合質哆四十三摩訶迦嚕抳迦四",
+    "folio":1,
+    "stemmed":"埿嚩摩每怛囉二合質哆四十三摩訶迦嚕抳迦四"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_21",
+    "original":"十四句嚕句嚕羯𤚥四十五娑馱野娑馱野四十六",
+    "folio":1,
+    "stemmed":"十四句嚕句嚕羯𤚥四十五娑馱野娑馱野四十六"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_22",
+    "original":"尾念引四十七泥呬泥呬謎嚩藍二合四十八迦懵",
+    "folio":1,
+    "stemmed":"尾念引四十七泥呬泥呬謎嚩藍二合四十八迦懵"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_23",
+    "original":"誐摩五十尾養誐摩五十一尾誐麼五十二悉馱喻",
+    "folio":1,
+    "stemmed":"誐摩五十尾養誐摩五十一尾誐麼五十二悉馱喻"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_24",
+    "original":"倪濕嚩囉二合五十三度嚕度嚕尾耶底五十四摩",
+    "folio":1,
+    "stemmed":"倪濕嚩囉二合五十三度嚕度嚕尾耶底五十四摩"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_25",
+    "original":"訶尾耶底五十五馱囉二合五十六馱梨捺梨二合",
+    "folio":1,
+    "stemmed":"訶尾耶底五十五馱囉二合五十六馱梨捺梨二合"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_26",
+    "original":"濕嚩囉二合者囉二合尾麼囉二合母㗚諦五十七",
+    "folio":1,
+    "stemmed":"濕嚩囉二合者囉二合尾麼囉二合母㗚諦五十七"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_27",
+    "original":"阿利野二合嚩路枳諦五十八濕嚩囉二合引爾娜",
+    "folio":1,
+    "stemmed":"阿利野二合嚩路枳諦五十八濕嚩囉二合引爾娜"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_28",
+    "original":"訖哩瑟拏六十惹吒麼句吒引嚩㘕麼六十一鉢㘕",
+    "folio":1,
+    "stemmed":"訖哩瑟拏六十惹吒麼句吒引嚩㘕麼六十一鉢㘕"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_29",
+    "original":"麼六十二摩訶悉馱尾儞耶二合六十四末囉二合",
+    "folio":1,
+    "stemmed":"麼六十二摩訶悉馱尾儞耶二合六十四末囉二合"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_30",
+    "original":"末囉麼訶麼囉二合六十五者攞者攞二合摩訶者",
+    "folio":1,
+    "stemmed":"末囉麼訶麼囉二合六十五者攞者攞二合摩訶者"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_31",
+    "original":"攞二合六十六訖哩二合瑟拏上嚩哩拏二合六十",
+    "folio":1,
+    "stemmed":"攞二合六十六訖哩二合瑟拏上嚩哩拏二合六十"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_32",
+    "original":"七訖哩二合瑟拏博叉儞奴一反伽怛那六十八醯",
+    "folio":1,
+    "stemmed":"七訖哩二合瑟拏博叉儞奴一反伽怛那六十八醯"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_33",
+    "original":"波娜二合麼六十九賀娑哆七十者攞者攞二合儞",
+    "folio":1,
+    "stemmed":"波娜二合麼六十九賀娑哆七十者攞者攞二合儞"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_34",
+    "original":"舍者㘑濕嚩二合囉七十二訖哩瑟拏薩波七十三",
+    "folio":1,
+    "stemmed":"舍者㘑濕嚩二合囉七十二訖哩瑟拏薩波七十三"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_35",
+    "original":"訖哩二合呾野擬儞吉濃二合波尾呾七十四翳醯",
+    "folio":1,
+    "stemmed":"訖哩二合呾野擬儞吉濃二合波尾呾七十四翳醯"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_36",
+    "original":"曳摩訶嚩囉二合賀目佉七十五諦哩二合布攞娜",
+    "folio":1,
+    "stemmed":"曳摩訶嚩囉二合賀目佉七十五諦哩二合布攞娜"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_37",
+    "original":"訶抳濕嚩囉二合七十六那囉引野拏七十七嚕波",
+    "folio":1,
+    "stemmed":"訶抳濕嚩囉二合七十六那囉引野拏七十七嚕波"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_38",
+    "original":"嚩囉二合七十八徵誐馱梨醯七十九儞攞建𡛥八",
+    "folio":1,
+    "stemmed":"嚩囉二合七十八徵誐馱梨醯七十九儞攞建𡛥八"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_39",
+    "original":"十醯摩訶訶攞二合訶攞二合尾灑八十七儞奴一",
+    "folio":1,
+    "stemmed":"十醯摩訶訶攞二合訶攞二合尾灑八十七儞奴一"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_40",
+    "original":"誓舌頭呼哆嚕迦寫八十三囉誐尾灑尾那引舍娜",
+    "folio":1,
+    "stemmed":"誓舌頭呼哆嚕迦寫八十三囉誐尾灑尾那引舍娜"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_41",
+    "original":"八十四儞尾灑二合八十五尾那舍娜八十六謨賀",
+    "folio":1,
+    "stemmed":"八十四儞尾灑二合八十五尾那舍娜八十六謨賀"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_42",
+    "original":"尾灑尾娜舍那八十七護嚕護嚕八十八摩攞訶嚕",
+    "folio":1,
+    "stemmed":"尾灑尾娜舍那八十七護嚕護嚕八十八摩攞訶嚕"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_43",
+    "original":"八十九訶隷摩訶跛娜麼那引皤九十娑囉娑囉二",
+    "folio":1,
+    "stemmed":"八十九訶隷摩訶跛娜麼那引皤九十娑囉娑囉二"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_44",
+    "original":"合九十一徙唎徙唎九十二素嚕素嚕九十三沒𠆙",
+    "folio":1,
+    "stemmed":"合九十一徙唎徙唎九十二素嚕素嚕九十三沒𠆙"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_45",
+    "original":"沒𠆙冒馱野冒馱野九十四冒馱野諦九十五儞攞",
+    "folio":1,
+    "stemmed":"沒𠆙冒馱野冒馱野九十四冒馱野諦九十五儞攞"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_46",
+    "original":"二合建𡛥九十六翳醯曳醯九十七嚩摩賀悉他哆",
+    "folio":1,
+    "stemmed":"二合建𡛥九十六翳醯曳醯九十七嚩摩賀悉他哆"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_47",
+    "original":"九十九僧思孕反賀目佉二合賀娑賀娑二合悶者",
+    "folio":1,
+    "stemmed":"九十九僧思孕反賀目佉二合賀娑賀娑二合悶者"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_48",
+    "original":"悶者二摩訶吒引吒上訶僧上三翳醯曳醯四步五",
+    "folio":1,
+    "stemmed":"悶者二摩訶吒引吒上訶僧上三翳醯曳醯四步五"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_49",
+    "original":"摩訶悉馱喻倪濕嚩二合囉六皤拏皤拏嚩簪七娑",
+    "folio":1,
+    "stemmed":"摩訶悉馱喻倪濕嚩二合囉六皤拏皤拏嚩簪七娑"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_50",
+    "original":"馱娑馱夜尾捻八娑摩囉娑摩囉二合九重呼擔婆",
+    "folio":1,
+    "stemmed":"馱娑馱夜尾捻八娑摩囉娑摩囉二合九重呼擔婆"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_51",
+    "original":"誐晚擔十路枳哆十一尾路吉擔十二哆他蘖擔十",
+    "folio":1,
+    "stemmed":"誐晚擔十路枳哆十一尾路吉擔十二哆他蘖擔十"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_52",
+    "original":"三娜那呬謎十四捺捨娜十五迦摩瀉十六捺哩舍",
+    "folio":1,
+    "stemmed":"三娜那呬謎十四捺捨娜十五迦摩瀉十六捺哩舍"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_53",
+    "original":"喃十七鉢囉二合訶邏十八娜耶摩喃莎嚩訶二合",
+    "folio":1,
+    "stemmed":"喃十七鉢囉二合訶邏十八娜耶摩喃莎嚩訶二合"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_54",
+    "original":"十九悉馱耶娑嚩訶二合二十摩訶悉馱娑嚩訶二",
+    "folio":1,
+    "stemmed":"十九悉馱耶娑嚩訶二合二十摩訶悉馱娑嚩訶二"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_55",
+    "original":"十一悉馱喻倪白祇反濕嚩羅二合耶娑嚩訶二十",
+    "folio":1,
+    "stemmed":"十一悉馱喻倪白祇反濕嚩羅二合耶娑嚩訶二十"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_56",
+    "original":"二儞攞建𡛥耶娑嚩訶二十三嚩訶嚩囉二合賀目",
+    "folio":1,
+    "stemmed":"二儞攞建𡛥耶娑嚩訶二十三嚩訶嚩囉二合賀目"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_57",
+    "original":"佉耶莎嚩訶二十四摩訶摩訶娜囉二合僧思孕反",
+    "folio":1,
+    "stemmed":"佉耶莎嚩訶二十四摩訶摩訶娜囉二合僧思孕反"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_58",
+    "original":"賀目佉耶莎嚩訶二十五悉馱尾儞也馱囉二合耶",
+    "folio":1,
+    "stemmed":"賀目佉耶莎嚩訶二十五悉馱尾儞也馱囉二合耶"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_59",
+    "original":"莎嚩訶二十六鉢娜麼止今賀薩哆耶莎嚩訶訖哩",
+    "folio":1,
+    "stemmed":"莎嚩訶二十六鉢娜麼止今賀薩哆耶莎嚩訶訖哩"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_60",
+    "original":"二合瑟拏薩波訖哩二合呾野擬儞喻跛尾哆野娑",
+    "folio":1,
+    "stemmed":"二合瑟拏薩波訖哩二合呾野擬儞喻跛尾哆野娑"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_61",
+    "original":"嚩訶二十七摩訶羅句吒馱囉二合野娑嚩訶二十",
+    "folio":1,
+    "stemmed":"嚩訶二十七摩訶羅句吒馱囉二合野娑嚩訶二十"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_62",
+    "original":"八者羯囉二合喻馱耶莎嚩訶二十九商佉攝馱儞",
+    "folio":1,
+    "stemmed":"八者羯囉二合喻馱耶莎嚩訶二十九商佉攝馱儞"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_63",
+    "original":"步馱娜耶莎嚩訶三十摩摩厶乙授持塞健二合馱",
+    "folio":1,
+    "stemmed":"步馱娜耶莎嚩訶三十摩摩厶乙授持塞健二合馱"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_64",
+    "original":"泥沙悉體呾三十一訖哩二合瑟拏忍娜耶莎嚩訶",
+    "folio":1,
+    "stemmed":"泥沙悉體呾三十一訖哩二合瑟拏忍娜耶莎嚩訶"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_65",
+    "original":"三十二彌白夜反伽囉二合折摩儞三十三嚩薩摩",
+    "folio":1,
+    "stemmed":"三十二彌白夜反伽囉二合折摩儞三十三嚩薩摩"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_66",
+    "original":"悉弟濕嚩二合囉耶娑嚩訶三十六娜慕婆誐嚩帝",
+    "folio":1,
+    "stemmed":"悉弟濕嚩二合囉耶娑嚩訶三十六娜慕婆誐嚩帝"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_67",
+    "original":"三十七阿唎耶嚩路枳帝濕嚩囉二合耶三十八冒",
+    "folio":1,
+    "stemmed":"三十七阿唎耶嚩路枳帝濕嚩囉二合耶三十八冒"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_68",
+    "original":"提薩哆嚩耶二合三十九摩訶薩哆嚩二合耶四十",
+    "folio":1,
+    "stemmed":"提薩哆嚩耶二合三十九摩訶薩哆嚩二合耶四十"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_69",
+    "original":"摩訶迦耶四十一悉電都冥四十二怛囉二合鉢娜",
+    "folio":1,
+    "stemmed":"摩訶迦耶四十一悉電都冥四十二怛囉二合鉢娜"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_4_70",
+    "original":"耶娑嚩訶四十三定慧二羽。",
+    "folio":1,
+    "stemmed":"耶娑嚩訶四十三定慧二羽。"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496b28_15",
+    "original":"捧珠鬘加本真言七遍已。",
+    "folio":1,
+    "stemmed":"捧 珠 鬘 加 本 真 言 七 遍 已  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496c01_1",
+    "original":"捧至頂上。",
+    "folio":1,
+    "stemmed":"捧 至 頂 上  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496c01_12",
+    "original":"復當心堅住等引而念誦。",
+    "folio":1,
+    "stemmed":"復 當 心 堅 住 等 引 而 念 誦  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496c02_1",
+    "original":"舌端微動脣齒合。",
+    "folio":1,
+    "stemmed":"舌 端 微 動 脣 齒 合  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496c02_8",
+    "original":"逆順身觀相好。",
+    "folio":1,
+    "stemmed":"逆 順 身 觀 相 好  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496c03_1",
+    "original":"四時勤修不令間千百為限。",
+    "folio":1,
+    "stemmed":"四 時 勤 修 不 令 間 千 百 為 限  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496c03_11",
+    "original":"復過一切神通及福智。",
+    "folio":1,
+    "stemmed":"復 過 一 切 神 通 及 福 智  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496c04_1",
+    "original":"現世同於遍照尊。",
+    "folio":1,
+    "stemmed":"現 世 同 於 遍 照 尊  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496c04_10",
+    "original":"行者念誦分限畢已。",
+    "folio":1,
+    "stemmed":"行 者 念 誦 分 限 畢 已  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496c04_19",
+    "original":"捧珠頂上懃發大願。",
+    "folio":1,
+    "stemmed":"捧 珠 頂 上 懃 發 大 願  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496c05_7",
+    "original":"然後結三摩地印。",
+    "folio":1,
+    "stemmed":"然 後 結 三 摩 地 印  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496c05_15",
+    "original":"入法界體性三昧。",
+    "folio":1,
+    "stemmed":"入 法 界 體 性 三 昧  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496c06_5",
+    "original":"修習布字旋陀羅尼。",
+    "folio":1,
+    "stemmed":"修 習 布 字 旋陀羅尼  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496c07_0",
+    "original":"諸法本不生　　自性離言說",
+    "folio":1,
+    "stemmed":"諸 法 本 不 生   自 性 離 言 說 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496c08_0",
+    "original":"清淨無垢染　　因業等虛空",
+    "folio":1,
+    "stemmed":"清 淨 無 垢 染   因 業 等 虛 空 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496c09_0",
+    "original":"旋復諦思惟　　字字悟真實",
+    "folio":1,
+    "stemmed":"旋 復 諦 思 惟   字 字 悟 真 實 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496c10_0",
+    "original":"初後雖差別　　所證皆歸一",
+    "folio":1,
+    "stemmed":"初 後 雖 差 別   所 證 皆 歸 一 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496c11_0",
+    "original":"不捨是三昧　　無住無緣悲",
+    "folio":1,
+    "stemmed":"不 捨 是 三 昧   無 住 無 緣 悲 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496c12_0",
+    "original":"普願諸有情　　如我無有異",
+    "folio":1,
+    "stemmed":"普 願 諸 有 情   如 我 無 有 異 "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496c13_6",
+    "original":"行者從三昧出。",
+    "folio":1,
+    "stemmed":"行 者 從 三 昧 出  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496c13_17",
+    "original":"即結根本印誦本明七遍。",
+    "folio":1,
+    "stemmed":"即 結 根 本 印 誦 本 明 七 遍  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496c14_5",
+    "original":"復以大供養者。",
+    "folio":1,
+    "stemmed":"復 以 大 供 養 者  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496c15_1",
+    "original":"佛以妙音辭稱揚讚歎獻閼伽水。",
+    "folio":1,
+    "stemmed":"佛 以 妙 音 辭 稱揚讚歎 獻 閼 伽 水  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496c15_11",
+    "original":"以降三世印右旋解界。",
+    "folio":1,
+    "stemmed":"以 降 三 世 印 右 旋 解 界  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496c16_1",
+    "original":"印即結金剛解脫印。",
+    "folio":1,
+    "stemmed":"印 即 結 金 剛 解 脫 印  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496c16_10",
+    "original":"奉送諸聖依前懺悔。",
+    "folio":1,
+    "stemmed":"奉 送 諸 聖 依 前 懺 悔  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496c16_15",
+    "original":"啟自聖者。",
+    "folio":1,
+    "stemmed":"啟 自 聖 者  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496c17_1",
+    "original":"發心願了。",
+    "folio":1,
+    "stemmed":"發 心 願 了  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496c18_4",
+    "original":"次結遣印。",
+    "folio":1,
+    "stemmed":"次 結 遣 印  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496c18_16",
+    "original":"以前根本印從臍至面方散。",
+    "folio":1,
+    "stemmed":"以 前 根 本 印 從 臍 至 面 方 散  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496c19_3",
+    "original":"合掌於頂上。",
+    "folio":1,
+    "stemmed":"合 掌 於 頂 上  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496c19_11",
+    "original":"想觀自在王如來。",
+    "folio":1,
+    "stemmed":"想 觀 自 在 王 如 來  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496c20_1",
+    "original":"復還本宮誦此真言。",
+    "folio":1,
+    "stemmed":"復 還 本 宮 誦 此 真 言  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496c20_3",
+    "original":"曰。",
+    "folio":1,
+    "stemmed":"曰  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496c22_5",
+    "original":"唵跋日囉二合鉢娜摩二合穆入發遣本尊訖。",
+    "folio":1,
+    "stemmed":"唵 跋 日 囉 二 合 鉢 娜 摩 二 合 穆 入 發 遣 本 尊 訖  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496c22_14",
+    "original":"隨意發願復以甲印。",
+    "folio":1,
+    "stemmed":"隨 意 發 願 復 以 甲 印  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496c23_6",
+    "original":"護身以前馬頭明王界印。",
+    "folio":1,
+    "stemmed":"護 身 以 前 馬 頭 明 王 界 印  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0496c23_15",
+    "original":"左旋解界隨意經行。",
+    "folio":1,
+    "stemmed":"左 旋 解 界 隨 意 經 行  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497a01_5",
+    "original":"往至靜處嚴持香華。",
+    "folio":1,
+    "stemmed":"往 至 靜 處 嚴 持 香 華  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497a02_4",
+    "original":"讀誦大乘大般若經華嚴涅槃楞伽等經。",
+    "folio":1,
+    "stemmed":"讀 誦 大 乘 大 般 若 經 華 嚴 涅 槃 楞 伽 等 經  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497a02_17",
+    "original":"行住坐臥常念本尊勿令有間。",
+    "folio":1,
+    "stemmed":"行住坐臥 常 念 本 尊 勿 令 有 間  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497a03_7",
+    "original":"若有眾生遇此教者。",
+    "folio":1,
+    "stemmed":"若 有 眾 生 遇 此 教 者  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497a03_16",
+    "original":"晝夜四時精進修習。",
+    "folio":1,
+    "stemmed":"晝 夜 四 時 精 進 修 習  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497a04_5",
+    "original":"現世證得歡喜地。",
+    "folio":1,
+    "stemmed":"現 世 證 得 歡 喜 地  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497a04_13",
+    "original":"後十六生成正覺。",
+    "folio":1,
+    "stemmed":"後 十 六 生 成 正 覺  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497a04_18",
+    "original":"向所譯者。",
+    "folio":1,
+    "stemmed":"向 所 譯 者  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497a05_10",
+    "original":"略於向隨順說是如陀羅尼。",
+    "folio":1,
+    "stemmed":"略 於 向 隨 順 說 是 如 陀 羅 尼  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497a06_4",
+    "original":"一一字具含八萬修多羅藏。",
+    "folio":1,
+    "stemmed":"一 一 字 具 含 八 萬 修 多 羅 藏  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497a06_14",
+    "original":"無量百千旋陀羅尼門。",
+    "folio":1,
+    "stemmed":"無 量 百 千 旋陀羅尼 門  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497a07_7",
+    "original":"一一門皆說甚深真如實相。",
+    "folio":1,
+    "stemmed":"一 一 門 皆 說 甚 深 真 如 實 相  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497a07_18",
+    "original":"是以歷代翻傳罕能宣釋。",
+    "folio":1,
+    "stemmed":"是 以 歷 代 翻 傳 罕 能 宣 釋  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497a08_6",
+    "original":"又以不解其言。",
+    "folio":1,
+    "stemmed":"又 以 不 解 其 言  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497a08_16",
+    "original":"而俱得加被共呼為呪。",
+    "folio":1,
+    "stemmed":"而 俱 得 加 被 共 呼 為 呪  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497a09_2",
+    "original":"不亦悲乎。",
+    "folio":1,
+    "stemmed":"不 亦 悲 乎  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497a09_11",
+    "original":"曰陀羅尼或云真言。",
+    "folio":1,
+    "stemmed":"曰 陀 羅 尼 或 云 真 言  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497a09_16",
+    "original":"或云明王。",
+    "folio":1,
+    "stemmed":"或 云 明 王  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497a10_2",
+    "original":"有眾多號。",
+    "folio":1,
+    "stemmed":"有 眾 多 號  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497a10_7",
+    "original":"直呼為呪。",
+    "folio":1,
+    "stemmed":"直 呼 為 呪  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497a10_16",
+    "original":"即與呪咀有何等異。",
+    "folio":1,
+    "stemmed":"即 與 呪 咀 有 何 等 異  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497a11_2",
+    "original":"是則翻之誤。",
+    "folio":1,
+    "stemmed":"是 則 翻 之 誤  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497a11_7",
+    "original":"又稱傳者。",
+    "folio":1,
+    "stemmed":"又 稱 傳 者  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497a11_12",
+    "original":"望無罪耶。",
+    "folio":1,
+    "stemmed":"望 無 罪 耶  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497a12_17",
+    "original":"千手千眼廣大圓滿妙身大悲寶幢陀羅尼。",
+    "folio":1,
+    "stemmed":"千 手 千 眼 廣 大 圓 滿 妙 身 大 悲 寶 幢 陀 羅 尼  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c05_9_0",
+    "original":"娜謨囉怛娜二合怛囉夜耶娜謨阿彌哆婆野哆他",
+    "folio":1,
+    "stemmed":"娜謨囉怛娜二合怛囉夜耶娜謨阿彌哆婆野哆他"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c05_9_1",
+    "original":"誐跢二合耶囉呵諦二合三藐三勃馱野四娜麼阿",
+    "folio":1,
+    "stemmed":"誐跢二合耶囉呵諦二合三藐三勃馱野四娜麼阿"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c05_9_2",
+    "original":"利耶嚩路枳諦濕嚩二合囉野冒提薩哆嚩二合野",
+    "folio":1,
+    "stemmed":"利耶嚩路枳諦濕嚩二合囉野冒提薩哆嚩二合野"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c05_9_3",
+    "original":"摩訶迦嚕抳迦野五那謨摩訶薩他二合麼野鉢囉",
+    "folio":1,
+    "stemmed":"摩訶迦嚕抳迦野五那謨摩訶薩他二合麼野鉢囉"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c05_9_4",
+    "original":"二合鉢哆二合野六摩訶薩哆嚩二合野摩訶迦嚕",
+    "folio":1,
+    "stemmed":"二合鉢哆二合野六摩訶薩哆嚩二合野摩訶迦嚕"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c05_9_5",
+    "original":"抳野七那謨婆誐嚩八諦尾補攞二合尾摩那蘇鉢",
+    "folio":1,
+    "stemmed":"抳野七那謨婆誐嚩八諦尾補攞二合尾摩那蘇鉢"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c05_9_6",
+    "original":"囉二合底瑟恥二合跢僧思孕反契野九素哩野二",
+    "folio":1,
+    "stemmed":"囉二合底瑟恥二合跢僧思孕反契野九素哩野二"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c05_9_7",
+    "original":"合捨哆娑訶娑囉二合底哩二合迦鉢囉二合皤嚩",
+    "folio":1,
+    "stemmed":"合捨哆娑訶娑囉二合底哩二合迦鉢囉二合皤嚩"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c05_9_8",
+    "original":"皤悉哆母㗚哆二合曳十一麼訶摩抳摩矩吒十二",
+    "folio":1,
+    "stemmed":"皤悉哆母㗚哆二合曳十一麼訶摩抳摩矩吒十二"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c05_9_9",
+    "original":"君拏攞馱哩抳婆誐嚩諦十三鉢那麼二合跛拏曳",
+    "folio":1,
+    "stemmed":"君拏攞馱哩抳婆誐嚩諦十三鉢那麼二合跛拏曳"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c05_9_10",
+    "original":"十四薩嚩薩哆嚩二合跛哩謨者那引野十六跢儞",
+    "folio":1,
+    "stemmed":"十四薩嚩薩哆嚩二合跛哩謨者那引野十六跢儞"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c05_9_11",
+    "original":"也他二合唵十七部哩二合部嚩十八摩訶迦囉二",
+    "folio":1,
+    "stemmed":"也他二合唵十七部哩二合部嚩十八摩訶迦囉二"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c05_9_12",
+    "original":"合拏十九薩跢摩底弭囉二合跛吒攞二合二十摩",
+    "folio":1,
+    "stemmed":"合拏十九薩跢摩底弭囉二合跛吒攞二合二十摩"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c05_9_13",
+    "original":"日囉二十一尾那捨娜迦囉二合野引囉誐娜未沙",
+    "folio":1,
+    "stemmed":"日囉二十一尾那捨娜迦囉二合野引囉誐娜未沙"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c05_9_14",
+    "original":"二合摩訶謨賀引惹引攞捨麼二十二捨娑迦二十",
+    "folio":1,
+    "stemmed":"二合摩訶謨賀引惹引攞捨麼二十二捨娑迦二十"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c05_9_15",
+    "original":"三路訖羌二合迦薩麼跛嘢耨佉訥誐底二十四鉢",
+    "folio":1,
+    "stemmed":"三路訖羌二合迦薩麼跛嘢耨佉訥誐底二十四鉢"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c05_9_16",
+    "original":"囉二合鉢囉二合捨麼那迦囉二合野薩嚩跢他誐",
+    "folio":1,
+    "stemmed":"囉二合鉢囉二合捨麼那迦囉二合野薩嚩跢他誐"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c05_9_17",
+    "original":"跢娑麼嚩陀那迦囉二十五薩嚩舍跛哩補囉迦二",
+    "folio":1,
+    "stemmed":"跢娑麼嚩陀那迦囉二十五薩嚩舍跛哩補囉迦二"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c05_9_18",
+    "original":"十六薩嚩薩哆嚩二合娑麼舍嚩二合娑迦囉二十",
+    "folio":1,
+    "stemmed":"十六薩嚩薩哆嚩二合娑麼舍嚩二合娑迦囉二十"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c05_9_19",
+    "original":"七伊醯曳醯二十八麼訶冒地薩哆嚩二合二十九",
+    "folio":1,
+    "stemmed":"七伊醯曳醯二十八麼訶冒地薩哆嚩二合二十九"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c05_9_20",
+    "original":"麼囉娜跛那麼二合路迦三步跛三十麼訶迦嚕抳",
+    "folio":1,
+    "stemmed":"麼囉娜跛那麼二合路迦三步跛三十麼訶迦嚕抳"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c05_9_21",
+    "original":"迦三十一若吒摩三十二楞訖哩二合跢三十三始",
+    "folio":1,
+    "stemmed":"迦三十一若吒摩三十二楞訖哩二合跢三十三始"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c05_9_22",
+    "original":"囉二合徙三十四摩抳迦那迦囉二合惹跢摩日囉",
+    "folio":1,
+    "stemmed":"囉二合徙三十四摩抳迦那迦囉二合惹跢摩日囉"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c05_9_23",
+    "original":"二合三十五微𭋖離耶楞訖哩哆三十六捨哩囉野",
+    "folio":1,
+    "stemmed":"二合三十五微𭋖離耶楞訖哩哆三十六捨哩囉野"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c05_9_24",
+    "original":"三十七阿弭哆婆示那迦摩訶二合摩囉二合楞訖",
+    "folio":1,
+    "stemmed":"三十七阿弭哆婆示那迦摩訶二合摩囉二合楞訖"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c05_9_25",
+    "original":"哩二合跢三十八鉢囉二合娜囉二合那哩三十九",
+    "folio":1,
+    "stemmed":"哩二合跢三十八鉢囉二合娜囉二合那哩三十九"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c05_9_26",
+    "original":"麼訶惹那捨跢娑訶娑羅二合四十毘攞二合使跢",
+    "folio":1,
+    "stemmed":"麼訶惹那捨跢娑訶娑羅二合四十毘攞二合使跢"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c05_9_27",
+    "original":"迦野四十一摩訶冒提薩跢嚩哆嚩二合尾馱麼尾",
+    "folio":1,
+    "stemmed":"迦野四十一摩訶冒提薩跢嚩哆嚩二合尾馱麼尾"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c05_9_28",
+    "original":"馱引捨野尾那引捨野四十二麼訶演哆囉二合訖",
+    "folio":1,
+    "stemmed":"馱引捨野尾那引捨野四十二麼訶演哆囉二合訖"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c05_9_29",
+    "original":"灑二合捨四十三迦嚩吒嚩麼馱僧思孕反娑囉二",
+    "folio":1,
+    "stemmed":"灑二合捨四十三迦嚩吒嚩麼馱僧思孕反娑囉二"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c05_9_30",
+    "original":"合佉囉二合迦鉢囉麼他那四十四補嚕沙鉢娜麼",
+    "folio":1,
+    "stemmed":"合佉囉二合迦鉢囉麼他那四十四補嚕沙鉢娜麼"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c05_9_31",
+    "original":"二合補嚕沙那誐四十五補嚕沙薩誐囉二合四十",
+    "folio":1,
+    "stemmed":"二合補嚕沙那誐四十五補嚕沙薩誐囉二合四十"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c05_9_32",
+    "original":"六未囉微惹野四十七微囉二合惹素難哆四十八",
+    "folio":1,
+    "stemmed":"六未囉微惹野四十七微囉二合惹素難哆四十八"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c05_9_33",
+    "original":"哆哩勿哩跢四十九娜麼娑麼娑麼五十度嚕度嚕",
+    "folio":1,
+    "stemmed":"哆哩勿哩跢四十九娜麼娑麼娑麼五十度嚕度嚕"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c05_9_34",
+    "original":"鉢囉二合舍娑野鉢囉二合舍娑野祇哩祇哩尾哩",
+    "folio":1,
+    "stemmed":"鉢囉二合舍娑野鉢囉二合舍娑野祇哩祇哩尾哩"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c05_9_35",
+    "original":"尾哩五十二只哩只哩母嚕母嚕五十三薩母庾五",
+    "folio":1,
+    "stemmed":"尾哩五十二只哩只哩母嚕母嚕五十三薩母庾五"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c05_9_36",
+    "original":"十四門者門者婆誐嚩那二合唎耶二合五十五嚩",
+    "folio":1,
+    "stemmed":"十四門者門者婆誐嚩那二合唎耶二合五十五嚩"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c05_9_37",
+    "original":"路枳諦捨嚩二合囉五十六洛訖差二合麼麼厶乙",
+    "folio":1,
+    "stemmed":"路枳諦捨嚩二合囉五十六洛訖差二合麼麼厶乙"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c05_9_38",
+    "original":"受持薩嚩薩哆嚩二合難者五十七薩嚩婆曳弊毘",
+    "folio":1,
+    "stemmed":"受持薩嚩薩哆嚩二合難者五十七薩嚩婆曳弊毘"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c05_9_39",
+    "original":"也反度那度那六十度嚕度嚕誐野六十一誐馱野",
+    "folio":1,
+    "stemmed":"也反度那度那六十度嚕度嚕誐野六十一誐馱野"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c05_9_40",
+    "original":"誐馱野六十二賀娑賀娑六十三鉢囉賀娑鉢囉二",
+    "folio":1,
+    "stemmed":"誐馱野六十二賀娑賀娑六十三鉢囉賀娑鉢囉二"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c05_9_41",
+    "original":"合賀娑六十四尾馱訖曬二合捨嚩娑那六十五麼",
+    "folio":1,
+    "stemmed":"合賀娑六十四尾馱訖曬二合捨嚩娑那六十五麼"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c05_9_42",
+    "original":"麼厶乙授持賀囉賀囉二合六十六僧上賀囉度嚕",
+    "folio":1,
+    "stemmed":"麼厶乙授持賀囉賀囉二合六十六僧上賀囉度嚕"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c05_9_43",
+    "original":"置度嚕置麼訶曼拏攞枳攞拏六十八捨跢上鉢囉",
+    "folio":1,
+    "stemmed":"置度嚕置麼訶曼拏攞枳攞拏六十八捨跢上鉢囉"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c05_9_44",
+    "original":"細迦嚩婆娑六十九尾尾沙捨摩迦七十摩訶冒提",
+    "folio":1,
+    "stemmed":"細迦嚩婆娑六十九尾尾沙捨摩迦七十摩訶冒提"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c05_9_45",
+    "original":"薩哆嚩二合馱娑嚩訶八十二大句時寬延二秋七",
+    "folio":1,
+    "stemmed":"薩哆嚩二合馱娑嚩訶八十二大句時寬延二秋七"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c05_9_46",
+    "original":"月穀旦。",
+    "folio":1,
+    "stemmed":"月穀旦。"
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c05_15",
+    "original":"此經挍讎之。",
+    "folio":1,
+    "stemmed":"此 經 挍 讎 之  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c06_2",
+    "original":"轉寫不少。",
+    "folio":1,
+    "stemmed":"轉 寫 不 少  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c06_8",
+    "original":"希後賢決也。",
+    "folio":1,
+    "stemmed":"希 後 賢 決 也  "
+  },
+  {
+    "segmentnr":"ZH_T20_1112_001:0497c07_3",
+    "original":"又運二師請來未􄙖􄦽乘無等。",
+    "folio":1,
+    "stemmed":"又 運 二 師 請 來 未   乘 無 等  "
+  }
+]

@@ -1,0 +1,6392 @@
+[
+  {
+    "segmentnr":"ZH_T08_0223_006:0256c02_0",
+    "original":"摩訶般若波羅蜜經卷第六",
+    "folio":6,
+    "stemmed":"摩訶般若波羅蜜 經 卷 第 六 "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0256c04_0",
+    "original":"後秦龜茲國三藏鳩摩羅什譯",
+    "folio":6,
+    "stemmed":"後 秦 龜 茲 國 三 藏 鳩 摩 羅 什 譯 "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0256c05_0",
+    "original":"20 發趣品發趣品第二十",
+    "folio":6,
+    "stemmed":"2 0   發 趣 品 發 趣 品 第 二 十 "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0256c06_5",
+    "original":"佛告須菩提：",
+    "folio":6,
+    "stemmed":"佛 告 須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0256c06_9",
+    "original":"「汝問：",
+    "folio":6,
+    "stemmed":" 汝 問  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0256c07_1",
+    "original":"『云何菩薩摩訶薩大乘發趣？",
+    "folio":6,
+    "stemmed":" 云 何 菩薩摩訶薩 大 乘 發 趣  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0256c08_15",
+    "original":"』若菩薩摩訶薩行六波羅蜜時，從一地至一地，是名菩薩摩訶薩大乘發趣。",
+    "folio":6,
+    "stemmed":" 若 菩薩摩訶薩 行 六波羅蜜 時  從 一 地 至 一 地  是 名 菩薩摩訶薩 大 乘 發 趣  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0256c09_3",
+    "original":"」須菩提白佛言：",
+    "folio":6,
+    "stemmed":" 須 菩 提 白 佛 言  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0256c09_7",
+    "original":"「世尊！",
+    "folio":6,
+    "stemmed":" 世 尊  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0256c10_2",
+    "original":"云何菩薩摩訶薩從一地至一地？",
+    "folio":6,
+    "stemmed":"云 何 菩薩摩訶薩 從 一 地 至 一 地  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0256c10_6",
+    "original":"」佛言：",
+    "folio":6,
+    "stemmed":" 佛 言  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0256c12_3",
+    "original":"「菩薩摩訶薩知一切法無來去相，亦無有法若來若去、若至若不至、諸法相不滅故。",
+    "folio":6,
+    "stemmed":" 菩薩摩訶薩 知一切法 無 來 去 相  亦 無 有 法 若 來 若 去  若 至 若 不 至  諸 法 相 不 滅 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0256c13_9",
+    "original":"菩薩摩訶薩於諸地不念不思惟，而修治地業亦不見地。",
+    "folio":6,
+    "stemmed":"菩薩摩訶薩 於 諸 地 不 念 不 思 惟  而 修治地業 亦 不 見 地  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0256c14_3",
+    "original":"何等菩薩摩訶薩治地業？",
+    "folio":6,
+    "stemmed":"何 等 菩薩摩訶薩 治 地 業  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0256c14_16",
+    "original":"菩薩摩訶薩住初地時行十事：",
+    "folio":6,
+    "stemmed":"菩薩摩訶薩 住 初 地 時 行 十 事  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0256c15_12",
+    "original":"一者、深心堅固，用無所得故。",
+    "folio":6,
+    "stemmed":"一 者  深 心 堅 固  用 無 所 得 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0256c16_11",
+    "original":"二者、於一切眾生中等心，眾生不可得故。",
+    "folio":6,
+    "stemmed":"二 者  於 一 切 眾 生 中 等 心  眾 生 不 可 得 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0256c17_6",
+    "original":"三者、布施，施者、受者不可得故。",
+    "folio":6,
+    "stemmed":"三 者  布 施  施 者  受 者 不 可 得 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0256c18_1",
+    "original":"四者、親近善知識，亦不自高。",
+    "folio":6,
+    "stemmed":"四 者  親近善知識  亦 不 自 高  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0256c18_15",
+    "original":"五者、求法，一切法不可得故。",
+    "folio":6,
+    "stemmed":"五 者  求 法  一 切 法 不 可 得 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0256c19_7",
+    "original":"六者、常出家，家不可得故。",
+    "folio":6,
+    "stemmed":"六 者  常 出 家  家 不 可 得 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0256c20_2",
+    "original":"七者、愛樂佛身，相好不可得故。",
+    "folio":6,
+    "stemmed":"七 者  愛 樂 佛 身  相 好 不 可 得 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0256c20_19",
+    "original":"八者、演出法教，諸法分別不可得故。",
+    "folio":6,
+    "stemmed":"八 者  演 出 法 教  諸 法 分 別 不 可 得 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0256c21_14",
+    "original":"九者、破憍慢，法生慧不可得故。",
+    "folio":6,
+    "stemmed":"九 者  破 憍 慢  法 生 慧 不 可 得 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0256c22_8",
+    "original":"十者、實語，諸語不可得故。",
+    "folio":6,
+    "stemmed":"十 者  實 語  諸 語 不 可 得 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0256c23_10",
+    "original":"菩薩摩訶薩如是初地中住，修治十事治地業。",
+    "folio":6,
+    "stemmed":"菩薩摩訶薩 如 是 初 地 中 住  修 治 十 事 治 地 業  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0256c23_18",
+    "original":"「復次，須菩提！",
+    "folio":6,
+    "stemmed":" 復 次  須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0256c24_11",
+    "original":"菩薩摩訶薩住二地中常念八法。",
+    "folio":6,
+    "stemmed":"菩薩摩訶薩 住 二 地 中 常 念 八 法  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0256c24_15",
+    "original":"何等八？",
+    "folio":6,
+    "stemmed":"何 等 八  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0256c25_3",
+    "original":"一者、戒清淨。",
+    "folio":6,
+    "stemmed":"一 者  戒 清 淨  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0256c25_11",
+    "original":"二者、知恩報恩。",
+    "folio":6,
+    "stemmed":"二 者  知 恩 報 恩  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0256c25_19",
+    "original":"三者、住忍辱力。",
+    "folio":6,
+    "stemmed":"三 者  住 忍 辱 力  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0256c26_6",
+    "original":"四者、受歡喜。",
+    "folio":6,
+    "stemmed":"四 者  受 歡 喜  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0256c26_16",
+    "original":"五者、不捨一切眾生。",
+    "folio":6,
+    "stemmed":"五 者  不 捨 一 切 眾 生  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0256c27_3",
+    "original":"六者、入大悲心。",
+    "folio":6,
+    "stemmed":"六 者  入 大 悲 心  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0256c27_13",
+    "original":"七者、信師恭敬諮受。",
+    "folio":6,
+    "stemmed":"七 者  信 師 恭 敬 諮 受  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0256c28_2",
+    "original":"八者、勤求諸波羅蜜。",
+    "folio":6,
+    "stemmed":"八 者  勤 求 諸波羅蜜  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0256c28_6",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0256c29_4",
+    "original":"是名菩薩摩訶薩住二地中滿足八法。",
+    "folio":6,
+    "stemmed":"是 名 菩薩摩訶薩 住 二 地 中 滿 足 八 法  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0256c29_12",
+    "original":"「復次，須菩提！",
+    "folio":6,
+    "stemmed":" 復 次  須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a01_4",
+    "original":"菩薩摩訶薩住三地中行五法。",
+    "folio":6,
+    "stemmed":"菩薩摩訶薩 住 三 地 中 行 五 法  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a01_8",
+    "original":"何等五？",
+    "folio":6,
+    "stemmed":"何 等 五  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a01_19",
+    "original":"一者、多學問，無厭足。",
+    "folio":6,
+    "stemmed":"一 者  多 學 問  無 厭 足  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a02_10",
+    "original":"二者、淨法施，亦不自高。",
+    "folio":6,
+    "stemmed":"二 者  淨 法 施  亦 不 自 高  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a03_2",
+    "original":"三者、淨佛國土，亦不自高。",
+    "folio":6,
+    "stemmed":"三 者  淨佛國土  亦 不 自 高  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a03_18",
+    "original":"四者、受世間無量懃苦，不以為厭。",
+    "folio":6,
+    "stemmed":"四 者  受 世 間 無 量 懃 苦  不 以 為 厭  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a04_6",
+    "original":"五者、住慚愧處。",
+    "folio":6,
+    "stemmed":"五 者  住 慚 愧 處  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a04_10",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a05_8",
+    "original":"是名菩薩摩訶薩住三地中應滿足五法。",
+    "folio":6,
+    "stemmed":"是 名 菩薩摩訶薩 住 三 地 中 應 滿 足 五 法  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a05_16",
+    "original":"「復次，須菩提！",
+    "folio":6,
+    "stemmed":" 復 次  須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a06_13",
+    "original":"菩薩摩訶薩住四地中應受行不捨十法。",
+    "folio":6,
+    "stemmed":"菩薩摩訶薩 住 四 地 中 應 受 行 不 捨 十 法  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a06_17",
+    "original":"何等十？",
+    "folio":6,
+    "stemmed":"何 等 十  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a07_10",
+    "original":"一者、不捨阿蘭若住處。",
+    "folio":6,
+    "stemmed":"一 者  不 捨 阿 蘭 若 住 處  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a07_16",
+    "original":"二者、少欲。",
+    "folio":6,
+    "stemmed":"二 者  少 欲  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a08_1",
+    "original":"三者、知足。",
+    "folio":6,
+    "stemmed":"三 者  知 足  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a08_11",
+    "original":"四者、不捨頭陀功德。",
+    "folio":6,
+    "stemmed":"四 者  不 捨 頭陀功德  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a08_18",
+    "original":"五者、不捨戒。",
+    "folio":6,
+    "stemmed":"五 者  不 捨 戒  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a09_6",
+    "original":"六者、穢惡諸欲。",
+    "folio":6,
+    "stemmed":"六 者  穢 惡 諸 欲  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a09_19",
+    "original":"七者、厭世間心，順涅槃心。",
+    "folio":6,
+    "stemmed":"七 者  厭 世 間 心  順 涅 槃 心  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a10_8",
+    "original":"八者、捨一切所有。",
+    "folio":6,
+    "stemmed":"八 者  捨 一 切 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a10_15",
+    "original":"九者、心不沒。",
+    "folio":6,
+    "stemmed":"九 者  心 不 沒  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a11_3",
+    "original":"十者、不惜一切物。",
+    "folio":6,
+    "stemmed":"十 者  不 惜 一 切 物  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a11_7",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a12_5",
+    "original":"是名菩薩摩訶薩住四地中不捨十法。",
+    "folio":6,
+    "stemmed":"是 名 菩薩摩訶薩 住 四 地 中 不 捨 十 法  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a12_13",
+    "original":"「復次，須菩提！",
+    "folio":6,
+    "stemmed":" 復 次  須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a13_8",
+    "original":"菩薩摩訶薩住五地中遠離十二法。",
+    "folio":6,
+    "stemmed":"菩薩摩訶薩 住 五 地 中 遠 離 十 二 法  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a13_13",
+    "original":"何等十二？",
+    "folio":6,
+    "stemmed":"何 等 十 二  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a14_3",
+    "original":"一者、遠離親白衣。",
+    "folio":6,
+    "stemmed":"一 者  遠 離 親 白 衣  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a14_12",
+    "original":"二者、遠離比丘尼。",
+    "folio":6,
+    "stemmed":"二 者  遠 離 比 丘 尼  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a15_1",
+    "original":"三者、遠離慳惜他家。",
+    "folio":6,
+    "stemmed":"三 者  遠 離 慳 惜 他 家  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a15_11",
+    "original":"四者、遠離無益談說。",
+    "folio":6,
+    "stemmed":"四 者  遠 離 無 益 談 說  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a15_19",
+    "original":"五者、遠離瞋恚。",
+    "folio":6,
+    "stemmed":"五 者  遠 離 瞋 恚  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a16_6",
+    "original":"六者、遠離自大。",
+    "folio":6,
+    "stemmed":"六 者  遠 離 自 大  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a16_14",
+    "original":"七者、遠離蔑人。",
+    "folio":6,
+    "stemmed":"七 者  遠 離 蔑 人  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a17_3",
+    "original":"八者、遠離十不善道。",
+    "folio":6,
+    "stemmed":"八 者  遠 離 十 不 善 道  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a17_11",
+    "original":"九者、遠離大慢。",
+    "folio":6,
+    "stemmed":"九 者  遠 離 大 慢  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a17_19",
+    "original":"十者、遠離自用。",
+    "folio":6,
+    "stemmed":"十 者  遠 離 自 用  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a18_7",
+    "original":"十一者、遠離顛倒。",
+    "folio":6,
+    "stemmed":"十 一 者  遠 離 顛 倒  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a18_17",
+    "original":"十二者、遠離婬怒癡。",
+    "folio":6,
+    "stemmed":"十 二 者  遠 離 婬 怒 癡  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a19_1",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a20_1",
+    "original":"是為菩薩摩訶薩住五地中遠離十二事。",
+    "folio":6,
+    "stemmed":"是 為 菩薩摩訶薩 住 五 地 中 遠 離 十 二 事  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a20_9",
+    "original":"「復次，須菩提！",
+    "folio":6,
+    "stemmed":" 復 次  須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a21_4",
+    "original":"菩薩摩訶薩住六地中當具足六法。",
+    "folio":6,
+    "stemmed":"菩薩摩訶薩 住 六 地 中 當 具 足 六 法  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a21_8",
+    "original":"何等六？",
+    "folio":6,
+    "stemmed":"何 等 六  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a21_15",
+    "original":"所謂六波羅蜜。",
+    "folio":6,
+    "stemmed":"所 謂 六波羅蜜  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a22_6",
+    "original":"復有六法所不應為。",
+    "folio":6,
+    "stemmed":"復 有 六 法 所 不 應 為  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a22_10",
+    "original":"何等六？",
+    "folio":6,
+    "stemmed":"何 等 六  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a23_4",
+    "original":"一者、不作聲聞、辟支佛意。",
+    "folio":6,
+    "stemmed":"一 者  不 作 聲 聞  辟 支 佛 意  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a23_15",
+    "original":"二者、布施不應生憂心。",
+    "folio":6,
+    "stemmed":"二 者  布 施 不 應 生 憂 心  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a24_6",
+    "original":"三者、見有所索心不沒。",
+    "folio":6,
+    "stemmed":"三 者  見 有 所 索 心 不 沒  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a24_15",
+    "original":"四者、所有物布施。",
+    "folio":6,
+    "stemmed":"四 者  所 有 物 布 施  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a25_6",
+    "original":"五者、布施之後心不悔。",
+    "folio":6,
+    "stemmed":"五 者  布 施 之 後 心 不 悔  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a25_14",
+    "original":"六者、不疑深法。",
+    "folio":6,
+    "stemmed":"六 者  不 疑 深 法  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a25_18",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a27_4",
+    "original":"是名菩薩摩訶薩住六地中應滿具六法、遠離六法。",
+    "folio":6,
+    "stemmed":"是 名 菩薩摩訶薩 住 六 地 中 應 滿 具 六 法  遠 離 六 法  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a27_12",
+    "original":"「復次，須菩提！",
+    "folio":6,
+    "stemmed":" 復 次  須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a28_12",
+    "original":"菩薩摩訶薩住七地中應遠離二十法所不應著。",
+    "folio":6,
+    "stemmed":"菩薩摩訶薩 住 七 地 中 應 遠 離 二 十 法 所 不 應 著  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a28_17",
+    "original":"何等二十？",
+    "folio":6,
+    "stemmed":"何 等 二 十  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a29_6",
+    "original":"一者、不著我。",
+    "folio":6,
+    "stemmed":"一 者  不 著 我  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257a29_14",
+    "original":"二者、不著眾生。",
+    "folio":6,
+    "stemmed":"二 者  不 著 眾 生  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b01_2",
+    "original":"三者、不著壽命。",
+    "folio":6,
+    "stemmed":"三 者  不 著 壽 命  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b01_16",
+    "original":"四者、不著眾數乃至知者見者。",
+    "folio":6,
+    "stemmed":"四 者  不 著 眾 數 乃 至 知 者 見 者  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b02_3",
+    "original":"五者、不著斷見。",
+    "folio":6,
+    "stemmed":"五 者  不 著 斷 見  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b02_11",
+    "original":"六者、不著常見。",
+    "folio":6,
+    "stemmed":"六 者  不 著 常 見  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b02_19",
+    "original":"七者、不應作相。",
+    "folio":6,
+    "stemmed":"七 者  不 應 作 相  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b03_8",
+    "original":"八者、不應作因見。",
+    "folio":6,
+    "stemmed":"八 者  不 應 作 因 見  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b03_16",
+    "original":"九者、不著名色。",
+    "folio":6,
+    "stemmed":"九 者  不 著 名 色  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b04_3",
+    "original":"十者、不著五陰。",
+    "folio":6,
+    "stemmed":"十 者  不 著 五 陰  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b04_13",
+    "original":"十一者、不著十八界。",
+    "folio":6,
+    "stemmed":"十 一 者  不 著 十 八 界  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b05_3",
+    "original":"十二者不著十二入。",
+    "folio":6,
+    "stemmed":"十 二 者 不 著 十 二 入  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b05_12",
+    "original":"十三者、不著三界。",
+    "folio":6,
+    "stemmed":"十 三 者  不著三界  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b08_1",
+    "original":"十四者、不作著見。",
+    "folio":6,
+    "stemmed":"十 四 者  不 作 著 見  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b08_11",
+    "original":"十九者、不著依僧見。",
+    "folio":6,
+    "stemmed":"十 九 者  不 著 依 僧 見  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b09_1",
+    "original":"二十者、不著依戒見。",
+    "folio":6,
+    "stemmed":"二 十 者  不 著 依 戒 見  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b09_10",
+    "original":"是二十法所不應著。",
+    "folio":6,
+    "stemmed":"是 二 十 法 所 不 應 著  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b10_2",
+    "original":"復有二十法應具足滿。",
+    "folio":6,
+    "stemmed":"復 有 二 十 法 應 具 足 滿  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b10_7",
+    "original":"何等二十？",
+    "folio":6,
+    "stemmed":"何 等 二 十  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b10_14",
+    "original":"一者、具足空。",
+    "folio":6,
+    "stemmed":"一 者  具 足 空  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b10_21",
+    "original":"二者、無相證。",
+    "folio":6,
+    "stemmed":"二 者  無 相 證  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b11_6",
+    "original":"三者、知無作。",
+    "folio":6,
+    "stemmed":"三 者  知 無 作  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b11_14",
+    "original":"四者、三分清淨。",
+    "folio":6,
+    "stemmed":"四 者  三 分 清 淨  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b12_6",
+    "original":"五者、一切眾生中慈悲智具足。",
+    "folio":6,
+    "stemmed":"五 者  一 切 眾 生 中 慈 悲 智 具 足  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b12_16",
+    "original":"六者、不念一切眾生。",
+    "folio":6,
+    "stemmed":"六 者  不 念 一 切 眾 生  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b13_11",
+    "original":"七者、一切法等觀，是中亦不著。",
+    "folio":6,
+    "stemmed":"七 者  一 切 法 等 觀  是 中 亦 不 著  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b14_7",
+    "original":"八者、知諸法實相，是事亦不念。",
+    "folio":6,
+    "stemmed":"八 者  知 諸法實相  是 事 亦 不 念  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b14_15",
+    "original":"九者、無生法忍。",
+    "folio":6,
+    "stemmed":"九 者  無生法忍  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b15_2",
+    "original":"十者、無生智。",
+    "folio":6,
+    "stemmed":"十 者  無 生 智  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b15_12",
+    "original":"十一者、說諸法一相。",
+    "folio":6,
+    "stemmed":"十 一 者  說 諸 法 一 相  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b16_1",
+    "original":"十二者、破分別相。",
+    "folio":6,
+    "stemmed":"十 二 者  破 分 別 相  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b16_9",
+    "original":"十三者、轉憶想。",
+    "folio":6,
+    "stemmed":"十 三 者  轉 憶 想  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b16_16",
+    "original":"十四者、轉見。",
+    "folio":6,
+    "stemmed":"十 四 者  轉 見  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b17_2",
+    "original":"十五者、轉煩惱。",
+    "folio":6,
+    "stemmed":"十 五 者  轉 煩 惱  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b17_11",
+    "original":"十六者、等定慧地。",
+    "folio":6,
+    "stemmed":"十 六 者  等 定 慧 地  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b17_18",
+    "original":"十七者、調意。",
+    "folio":6,
+    "stemmed":"十 七 者  調 意  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b18_5",
+    "original":"十八者、心寂滅。",
+    "folio":6,
+    "stemmed":"十 八 者  心 寂 滅  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b18_13",
+    "original":"十九者、無閡智。",
+    "folio":6,
+    "stemmed":"十 九 者  無 閡 智  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b18_21",
+    "original":"二十者、不染愛。",
+    "folio":6,
+    "stemmed":"二 十 者  不 染 愛  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b19_3",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b20_4",
+    "original":"是名菩薩摩訶薩住七地中應具足二十法。",
+    "folio":6,
+    "stemmed":"是 名 菩薩摩訶薩 住 七 地 中 應 具 足 二 十 法  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b20_12",
+    "original":"「復次，須菩提！",
+    "folio":6,
+    "stemmed":" 復 次  須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b21_6",
+    "original":"菩薩摩訶薩住八地中應具足五法。",
+    "folio":6,
+    "stemmed":"菩薩摩訶薩 住 八 地 中 應 具 足 五 法  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b21_10",
+    "original":"何等五？",
+    "folio":6,
+    "stemmed":"何 等 五  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b21_16",
+    "original":"順入眾生心。",
+    "folio":6,
+    "stemmed":"順 入 眾 生 心  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b22_5",
+    "original":"遊戲諸神通。",
+    "folio":6,
+    "stemmed":"遊 戲 諸 神 通  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b22_10",
+    "original":"見諸佛國。",
+    "folio":6,
+    "stemmed":"見 諸 佛 國  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b23_3",
+    "original":"如所見佛國，自莊嚴其國。",
+    "folio":6,
+    "stemmed":"如 所 見 佛 國  自 莊 嚴 其 國  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b23_15",
+    "original":"如實觀佛身，自莊嚴佛身。",
+    "folio":6,
+    "stemmed":"如 實 觀 佛 身  自 莊 嚴 佛 身  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b24_4",
+    "original":"是五法具足滿。",
+    "folio":6,
+    "stemmed":"是 五 法 具 足 滿  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b24_11",
+    "original":"復次，須菩提！",
+    "folio":6,
+    "stemmed":"復 次  須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b25_7",
+    "original":"菩薩摩訶薩住八地中復具足五法。",
+    "folio":6,
+    "stemmed":"菩薩摩訶薩 住 八 地 中 復 具 足 五 法  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b25_11",
+    "original":"何等五？",
+    "folio":6,
+    "stemmed":"何 等 五  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b25_17",
+    "original":"知上下諸根。",
+    "folio":6,
+    "stemmed":"知 上 下 諸 根  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b26_3",
+    "original":"淨佛國土。",
+    "folio":6,
+    "stemmed":"淨佛國土  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b26_9",
+    "original":"入如幻三昧。",
+    "folio":6,
+    "stemmed":"入 如幻三昧  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b26_14",
+    "original":"常入三昧。",
+    "folio":6,
+    "stemmed":"常 入 三 昧  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b27_5",
+    "original":"隨眾生所應善根受身。",
+    "folio":6,
+    "stemmed":"隨 眾 生 所 應 善 根 受 身  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b27_9",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b28_7",
+    "original":"是為菩薩摩訶薩住八地中具足五法。",
+    "folio":6,
+    "stemmed":"是 為 菩薩摩訶薩 住 八 地 中 具 足 五 法  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b28_15",
+    "original":"「復次，須菩提！",
+    "folio":6,
+    "stemmed":" 復 次  須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b29_10",
+    "original":"菩薩摩訶薩住九地中應具足十二法。",
+    "folio":6,
+    "stemmed":"菩薩摩訶薩 住 九 地 中 應 具 足 十 二 法  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257b29_15",
+    "original":"何等十二？",
+    "folio":6,
+    "stemmed":"何 等 十 二  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257c01_7",
+    "original":"受無邊世界所度之分。",
+    "folio":6,
+    "stemmed":"受 無邊世界 所 度 之 分  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257c01_14",
+    "original":"菩薩得如所願。",
+    "folio":6,
+    "stemmed":"菩 薩 得 如 所 願  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257c02_13",
+    "original":"知諸天、龍、夜叉、揵闥婆語而為說法。",
+    "folio":6,
+    "stemmed":"知 諸 天  龍  夜 叉  揵 闥 婆 語 而 為 說 法  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257c02_18",
+    "original":"處胎成就。",
+    "folio":6,
+    "stemmed":"處 胎 成 就  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257c03_3",
+    "original":"家成就。",
+    "folio":6,
+    "stemmed":"家 成 就  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257c03_8",
+    "original":"所生成就。",
+    "folio":6,
+    "stemmed":"所 生 成 就  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257c03_12",
+    "original":"姓成就。",
+    "folio":6,
+    "stemmed":"姓 成 就  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257c03_17",
+    "original":"眷屬成就。",
+    "folio":6,
+    "stemmed":"眷 屬 成 就  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257c04_4",
+    "original":"出生成就。",
+    "folio":6,
+    "stemmed":"出 生 成 就  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257c04_9",
+    "original":"出家成就。",
+    "folio":6,
+    "stemmed":"出 家 成 就  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257c04_16",
+    "original":"莊嚴佛樹成就。",
+    "folio":6,
+    "stemmed":"莊 嚴 佛 樹 成 就  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257c05_9",
+    "original":"一切諸善功德成滿具足。",
+    "folio":6,
+    "stemmed":"一 切 諸 善 功 德 成 滿 具 足  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257c05_13",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257c06_14",
+    "original":"是名菩薩摩訶薩住九地中應具足十二法。",
+    "folio":6,
+    "stemmed":"是 名 菩薩摩訶薩 住 九 地 中 應 具 足 十 二 法  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257c07_1",
+    "original":"「須菩提！",
+    "folio":6,
+    "stemmed":" 須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257c07_10",
+    "original":"十地菩薩當知如佛。",
+    "folio":6,
+    "stemmed":"十地菩薩 當 知 如 佛  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257c08_3",
+    "original":"」爾時慧命須菩提白佛言：",
+    "folio":6,
+    "stemmed":" 爾 時 慧 命 須 菩 提 白 佛 言  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257c08_7",
+    "original":"「世尊！",
+    "folio":6,
+    "stemmed":" 世 尊  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257c09_1",
+    "original":"云何菩薩摩訶薩深心治地業？",
+    "folio":6,
+    "stemmed":"云 何 菩薩摩訶薩 深 心 治 地 業  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257c09_5",
+    "original":"」佛言：",
+    "folio":6,
+    "stemmed":" 佛 言  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257c10_15",
+    "original":"「菩薩摩訶薩應薩婆若心集一切善根，是名菩薩摩訶薩深心治地業。",
+    "folio":6,
+    "stemmed":" 菩薩摩訶薩 應 薩 婆 若 心 集 一 切 善 根  是 名 菩薩摩訶薩 深 心 治 地 業  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257c11_9",
+    "original":"」「云何菩薩於一切眾生中等心？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 於 一 切 眾 生 中 等 心  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257c11_13",
+    "original":"」佛言：",
+    "folio":6,
+    "stemmed":" 佛 言  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257c13_12",
+    "original":"「若菩薩摩訶薩應薩婆若心生四無量心，所謂慈、悲、喜、捨，是名於一切眾生中等心。",
+    "folio":6,
+    "stemmed":" 若 菩薩摩訶薩 應 薩 婆 若 心 生 四無量心  所 謂 慈  悲  喜  捨  是 名 於 一 切 眾 生 中 等 心  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257c14_2",
+    "original":"」「云何菩薩修布施？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 修 布 施  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257c14_6",
+    "original":"」佛言：",
+    "folio":6,
+    "stemmed":" 佛 言  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257c15_5",
+    "original":"「菩薩施與一切眾生，無所分別，是名修布施。",
+    "folio":6,
+    "stemmed":" 菩 薩 施 與 一 切 眾 生  無所分別  是 名 修 布 施  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257c15_17",
+    "original":"」「云何菩薩親近善知識？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 親近善知識  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257c15_21",
+    "original":"」佛言：",
+    "folio":6,
+    "stemmed":" 佛 言  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257c16_10",
+    "original":"「能教人入薩婆若中住。",
+    "folio":6,
+    "stemmed":" 能 教 人 入 薩 婆 若 中 住  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257c17_14",
+    "original":"如是善知識親近諮受恭敬供養，是名親近善知識。",
+    "folio":6,
+    "stemmed":"如 是 善 知 識 親 近 諮 受 恭敬供養  是 名 親近善知識  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257c18_2",
+    "original":"」「云何菩薩求法？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 求 法  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257c18_6",
+    "original":"」佛言：",
+    "folio":6,
+    "stemmed":" 佛 言  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257c19_12",
+    "original":"「菩薩應薩婆若心求法，不墮聲聞、辟支佛地，是名求法。",
+    "folio":6,
+    "stemmed":" 菩 薩 應 薩 婆 若 心 求 法  不 墮 聲 聞  辟支佛地  是 名 求 法  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257c20_3",
+    "original":"」「云何菩薩常出家治地業？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 常 出 家 治 地 業  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257c20_7",
+    "original":"」佛言：",
+    "folio":6,
+    "stemmed":" 佛 言  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257c21_19",
+    "original":"「菩薩世世不雜心出家，佛法中出家，無能障閡者，是名常出家治地業。",
+    "folio":6,
+    "stemmed":" 菩 薩 世 世 不 雜 心 出 家  佛 法 中 出 家  無 能 障 閡 者  是 名 常 出 家 治 地 業  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257c22_12",
+    "original":"」「云何菩薩愛樂佛身治地業？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 愛 樂 佛 身 治 地 業  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257c22_16",
+    "original":"」佛言：",
+    "folio":6,
+    "stemmed":" 佛 言  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257c24_13",
+    "original":"「若菩薩見佛身相，乃至阿耨多羅三藐三菩提終不離念佛，是名愛樂佛身治地業。",
+    "folio":6,
+    "stemmed":" 若 菩 薩 見 佛 身 相  乃 至 阿耨多羅三藐三菩提 終 不 離 念 佛  是 名 愛 樂 佛 身 治 地 業  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257c25_7",
+    "original":"」「云何菩薩演出法教治地業？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 演 出 法 教 治 地 業  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257c25_11",
+    "original":"」佛言：",
+    "folio":6,
+    "stemmed":" 佛 言  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257c28_9",
+    "original":"「菩薩若佛現在、若佛滅度後，為眾生說法，初中後善，妙義好語淨潔純具，所謂修多羅乃至憂波提舍，是名演出法教治地業。",
+    "folio":6,
+    "stemmed":" 菩 薩 若 佛 現 在  若 佛 滅 度 後  為 眾 生 說 法  初 中 後 善  妙 義 好 語 淨 潔 純 具  所 謂 修 多 羅 乃 至 憂波提舍  是 名 演 出 法 教 治 地 業  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257c29_3",
+    "original":"」「云何菩薩破於憍慢治地業？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 破 於 憍 慢 治 地 業  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0257c29_7",
+    "original":"」佛言：",
+    "folio":6,
+    "stemmed":" 佛 言  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258a01_12",
+    "original":"「菩薩破是憍慢故，終不生下賤家，是名破於憍慢治地業。",
+    "folio":6,
+    "stemmed":" 菩 薩 破 是 憍 慢 故  終 不 生 下 賤 家  是 名 破 於 憍 慢 治 地 業  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258a02_3",
+    "original":"」「云何菩薩實語治地業？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 實 語 治 地 業  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258a02_7",
+    "original":"」佛言：",
+    "folio":6,
+    "stemmed":" 佛 言  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258a03_2",
+    "original":"「菩薩如所說行，是名實語治地業。",
+    "folio":6,
+    "stemmed":" 菩 薩 如 所 說 行  是 名 實 語 治 地 業  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258a04_3",
+    "original":"是為菩薩摩訶薩初住地中修行十事治地業。",
+    "folio":6,
+    "stemmed":"是 為 菩薩摩訶薩 初 住 地 中 修 行 十 事 治 地 業  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258a04_13",
+    "original":"」「云何菩薩戒清淨？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 戒 清 淨  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258a06_4",
+    "original":"」「若菩薩摩訶薩不念聲聞、辟支佛心及諸破戒、障佛道法，是名戒清淨。",
+    "folio":6,
+    "stemmed":"  若 菩薩摩訶薩 不 念 聲 聞  辟 支 佛 心 及 諸 破 戒  障 佛 道 法  是 名 戒 清 淨  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258a06_15",
+    "original":"」「云何菩薩知恩報恩？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 知 恩 報 恩  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258a08_5",
+    "original":"」「若菩薩摩訶薩行菩薩道，乃至小恩尚不忘何況多，是名知恩報恩。",
+    "folio":6,
+    "stemmed":"  若 菩薩摩訶薩 行菩薩道  乃 至 小 恩 尚 不 忘 何 況 多  是 名 知 恩 報 恩  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258a08_16",
+    "original":"」「云何菩薩住忍辱力？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 住 忍 辱 力  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258a09_16",
+    "original":"」「若菩薩於一切眾生無瞋無惱，是名住忍辱力。",
+    "folio":6,
+    "stemmed":"  若 菩 薩 於 一 切 眾 生 無 瞋 無 惱  是 名 住 忍 辱 力  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258a10_6",
+    "original":"」「云何菩薩受歡喜？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 受 歡 喜  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258a11_5",
+    "original":"」「所謂成就眾生以此為喜，是名受歡喜。",
+    "folio":6,
+    "stemmed":"  所 謂 成 就 眾 生 以 此 為 喜  是 名 受 歡 喜  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258a11_18",
+    "original":"」「云何菩薩不捨一切眾生？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 不 捨 一 切 眾 生  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258a13_2",
+    "original":"」「若菩薩念欲救一切眾生故，是名不捨一切眾生。",
+    "folio":6,
+    "stemmed":"  若 菩 薩 念 欲 救 一 切 眾 生 故  是 名 不 捨 一 切 眾 生  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258a13_13",
+    "original":"」「云何菩薩入大悲心？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 入 大 悲 心  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258a13_22",
+    "original":"」「若菩薩如是念：",
+    "folio":6,
+    "stemmed":"  若 菩 薩 如 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258a15_13",
+    "original":"『我為一一眾生故，如恒河沙等劫地獄中受懃苦，乃至是人得佛道入涅槃。",
+    "folio":6,
+    "stemmed":" 我 為 一 一 眾 生 故  如 恒 河 沙 等 劫 地 獄 中 受 懃 苦  乃 至 是 人 得 佛 道 入 涅 槃  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258a16_16",
+    "original":"』如是名為為一切十方眾生忍苦，是名入大悲心。",
+    "folio":6,
+    "stemmed":" 如 是 名 為 為 一 切 十 方 眾 生 忍 苦  是 名 入 大 悲 心  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258a17_9",
+    "original":"」「云何菩薩信師恭敬諮受？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 信 師 恭 敬 諮 受  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258a18_12",
+    "original":"」「若菩薩於諸師如世尊想，是名信師恭敬諮受。",
+    "folio":6,
+    "stemmed":"  若 菩 薩 於 諸 師 如 世 尊 想  是 名 信 師 恭 敬 諮 受  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258a19_5",
+    "original":"」「云何菩薩懃求諸波羅蜜？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 懃 求 諸波羅蜜  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258a20_10",
+    "original":"」「若菩薩一心求諸波羅蜜無異事，是名懃求諸波羅蜜。",
+    "folio":6,
+    "stemmed":"  若 菩 薩 一 心 求 諸波羅蜜 無 異 事  是 名 懃 求 諸波羅蜜  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258a21_8",
+    "original":"是為菩薩摩訶薩住二地中滿足八法。",
+    "folio":6,
+    "stemmed":"是 為 菩薩摩訶薩 住 二 地 中 滿 足 八 法  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258a22_5",
+    "original":"」「云何菩薩摩訶薩多學問無厭足？",
+    "folio":6,
+    "stemmed":"  云 何 菩薩摩訶薩 多 學 問 無 厭 足  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258a24_5",
+    "original":"」「諸佛所說法，若此間世界、若十方世界諸佛所說法，盡欲聞持，是名多學問無厭足。",
+    "folio":6,
+    "stemmed":"  諸佛所說 法  若 此 間 世 界  若 十方世界 諸佛所說 法  盡 欲 聞 持  是 名 多 學 問 無 厭 足  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258a24_15",
+    "original":"」「云何菩薩淨法施？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 淨 法 施  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258a26_8",
+    "original":"」「有所法施乃至不求阿耨多羅三藐三菩提，何況餘事，是名不求名利法施。",
+    "folio":6,
+    "stemmed":"  有 所 法 施 乃 至 不 求 阿耨多羅三藐三菩提  何 況 餘 事  是 名 不 求 名 利 法 施  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258a26_19",
+    "original":"」「云何菩薩淨佛國土？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 淨佛國土  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258a27_18",
+    "original":"」「以諸善根迴向淨佛國土，是名淨佛國土。",
+    "folio":6,
+    "stemmed":"  以 諸 善 根 迴 向 淨佛國土  是 名 淨佛國土  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258a28_16",
+    "original":"」「云何菩薩受世間無量懃苦不以為厭？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 受 世 間 無 量 懃 苦 不 以 為 厭  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258b02_5",
+    "original":"」「諸善根備具故，能成就眾生亦莊嚴佛土，乃至具足薩婆若，終不疲厭，是名受無量懃苦不以為厭。",
+    "folio":6,
+    "stemmed":"  諸 善 根 備 具 故  能 成 就 眾 生 亦 莊 嚴 佛 土  乃 至 具 足 薩 婆 若  終 不 疲 厭  是 名 受 無 量 懃 苦 不 以 為 厭  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258b02_16",
+    "original":"」「云何菩薩住慚愧處？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 住 慚 愧 處  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258b03_13",
+    "original":"」「恥諸聲聞、辟支佛意，是名住慚愧處。",
+    "folio":6,
+    "stemmed":"  恥 諸 聲 聞  辟 支 佛 意  是 名 住 慚 愧 處  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258b04_9",
+    "original":"是為菩薩摩訶薩住三地中滿足五法。",
+    "folio":6,
+    "stemmed":"是 為 菩薩摩訶薩 住 三 地 中 滿 足 五 法  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258b05_4",
+    "original":"」「云何菩薩不捨阿練若住處？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 不 捨 阿 練 若 住 處  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258b06_4",
+    "original":"」「能過聲聞辟支佛地，是名不捨阿練若住處。",
+    "folio":6,
+    "stemmed":"  能 過 聲 聞 辟支佛地  是 名 不 捨 阿 練 若 住 處  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258b06_13",
+    "original":"」「云何菩薩少欲？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 少 欲  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258b07_17",
+    "original":"」「乃至阿耨多羅三藐三菩提尚不欲，何況餘欲，是名少欲。",
+    "folio":6,
+    "stemmed":"  乃 至 阿耨多羅三藐三菩提 尚 不 欲  何 況 餘 欲  是 名 少 欲  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258b08_5",
+    "original":"」「云何菩薩知足？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 知 足  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258b08_18",
+    "original":"」「得一切種智，是名知足。",
+    "folio":6,
+    "stemmed":"  得 一切種智  是 名 知 足  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258b09_8",
+    "original":"」「云何菩薩不捨頭陀功德？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 不 捨 頭陀功德  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258b10_5",
+    "original":"」「觀諸深法忍，是名不捨頭陀功德。",
+    "folio":6,
+    "stemmed":"  觀 諸 深 法 忍  是 名 不 捨 頭陀功德  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258b10_15",
+    "original":"」「云何菩薩不捨戒？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 不 捨 戒  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258b11_5",
+    "original":"」「不取戒相，是名不捨戒。",
+    "folio":6,
+    "stemmed":"  不 取 戒 相  是 名 不 捨 戒  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258b11_16",
+    "original":"」「云何菩薩穢惡諸欲？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 穢 惡 諸 欲  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258b12_8",
+    "original":"」「欲心不生故，是名穢惡諸欲。",
+    "folio":6,
+    "stemmed":"  欲 心 不 生 故  是 名 穢 惡 諸 欲  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258b13_4",
+    "original":"」「云何菩薩厭世間心、順涅槃心？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 厭 世 間 心  順 涅 槃 心  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258b14_7",
+    "original":"」「知一切法不作故，是名厭世間心、順涅槃心。",
+    "folio":6,
+    "stemmed":"  知一切法 不 作 故  是 名 厭 世 間 心  順 涅 槃 心  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258b14_19",
+    "original":"」「云何菩薩捨一切所有？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 捨 一 切 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258b15_14",
+    "original":"不惜內外諸法故，是名捨一切所有。",
+    "folio":6,
+    "stemmed":"不 惜 內 外 諸 法 故  是 名 捨 一 切 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258b16_4",
+    "original":"」「云何菩薩心不沒？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 心 不 沒  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258b17_1",
+    "original":"」「二種識處心不生故，是名心不沒。",
+    "folio":6,
+    "stemmed":"  二 種 識 處 心 不 生 故  是 名 心 不 沒  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258b17_13",
+    "original":"」「云何菩薩不惜一切物？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 不 惜 一 切 物  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258b18_10",
+    "original":"」「於一切物不著不念，是名不惜一切物。",
+    "folio":6,
+    "stemmed":"  於 一 切 物 不 著 不 念  是 名 不 惜 一 切 物  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258b19_5",
+    "original":"是為菩薩於四地中不捨十法。",
+    "folio":6,
+    "stemmed":"是 為 菩 薩 於 四 地 中 不 捨 十 法  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258b19_17",
+    "original":"」「云何菩薩遠離親白衣？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 遠 離 親 白 衣  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258b21_12",
+    "original":"」「菩薩出家所生，從一佛國至一佛國，常出家剃頭著染衣，是名遠離親白衣。",
+    "folio":6,
+    "stemmed":"  菩 薩 出 家 所 生  從 一 佛 國 至 一 佛 國  常 出 家 剃 頭 著 染 衣  是 名 遠 離 親 白 衣  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258b22_4",
+    "original":"」「云何菩薩遠離比丘尼？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 遠 離 比 丘 尼  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258b23_11",
+    "original":"」「不共比丘尼住，乃至彈指頃亦不生念，是名遠離比丘尼。",
+    "folio":6,
+    "stemmed":"  不 共 比 丘 尼 住  乃 至 彈 指 頃 亦 不 生 念  是 名 遠 離 比 丘 尼  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258b24_4",
+    "original":"」「云何菩薩遠離慳惜他家？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 遠 離 慳 惜 他 家  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258b24_13",
+    "original":"」「菩薩如是思惟：",
+    "folio":6,
+    "stemmed":"  菩 薩 如 是 思 惟  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258b25_11",
+    "original":"『我應安樂眾生，他今助我安樂，云何生慳？",
+    "folio":6,
+    "stemmed":" 我 應 安 樂 眾 生  他 今 助 我 安 樂  云 何 生 慳  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258b26_1",
+    "original":"』是名遠離慳惜他家。",
+    "folio":6,
+    "stemmed":" 是 名 遠 離 慳 惜 他 家  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258b26_14",
+    "original":"」「云何菩薩遠離無益談處？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 遠 離 無 益 談 處  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258b28_3",
+    "original":"」「若有談處或生聲聞、辟支佛心，我當遠離，是名遠離無益談處。",
+    "folio":6,
+    "stemmed":"  若 有 談 處 或 生 聲 聞  辟 支 佛 心  我 當 遠 離  是 名 遠 離 無 益 談 處  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258b28_14",
+    "original":"」「云何菩薩遠離瞋恚？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 遠 離 瞋 恚  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258b29_13",
+    "original":"」「不令瞋心、惱心、鬪心得入，是名遠離瞋恚。",
+    "folio":6,
+    "stemmed":"  不 令 瞋 心  惱 心  鬪 心 得 入  是 名 遠 離 瞋 恚  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258c01_3",
+    "original":"」「云何菩薩遠離自大？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 遠 離 自 大  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258c01_20",
+    "original":"」「所謂不見內法故，是名遠離自大。",
+    "folio":6,
+    "stemmed":"  所 謂 不 見 內 法 故  是 名 遠 離 自 大  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258c02_9",
+    "original":"」「云何菩薩遠離篾人？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 遠 離 篾 人  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258c03_6",
+    "original":"」「所謂不見外法故，是名遠離篾人。",
+    "folio":6,
+    "stemmed":"  所 謂 不 見 外 法 故  是 名 遠 離 篾 人  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258c03_19",
+    "original":"」「云何菩薩遠離十不善道？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 遠 離 十 不 善 道  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258c05_13",
+    "original":"」「是十不善道能障八聖道，何況阿耨多羅三藐三菩提，是名遠離十不善道。",
+    "folio":6,
+    "stemmed":"  是 十 不 善 道 能 障 八 聖 道  何 況 阿耨多羅三藐三菩提  是 名 遠 離 十 不 善 道  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258c06_3",
+    "original":"」「云何菩薩遠離大慢？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 遠 離 大 慢  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258c07_4",
+    "original":"」「是菩薩不見法可作大慢者，是名遠離大慢。",
+    "folio":6,
+    "stemmed":"  是 菩 薩 不 見 法 可 作 大 慢 者  是 名 遠 離 大 慢  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258c07_15",
+    "original":"」「云何菩薩遠離自用？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 遠 離 自 用  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258c08_14",
+    "original":"」「是菩薩不見是法可自用者，是名遠離自用。",
+    "folio":6,
+    "stemmed":"  是 菩 薩 不 見 是 法 可 自 用 者  是 名 遠 離 自 用  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258c09_5",
+    "original":"」「云何菩薩遠離顛倒？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 遠 離 顛 倒  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258c10_2",
+    "original":"」「顛倒處不可得故，是名遠離顛倒。",
+    "folio":6,
+    "stemmed":"  顛 倒 處 不 可 得 故  是 名 遠 離 顛 倒  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258c10_14",
+    "original":"」「云何菩薩遠離婬怒癡？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 遠 離 婬 怒 癡  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258c11_10",
+    "original":"」「婬怒癡處不可見故，是名遠離婬怒癡。",
+    "folio":6,
+    "stemmed":"  婬 怒 癡 處 不 可 見 故  是 名 遠 離 婬 怒 癡  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258c12_6",
+    "original":"是為菩薩住五地中遠離十二法。",
+    "folio":6,
+    "stemmed":"是 為 菩 薩 住 五 地 中 遠 離 十 二 法  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258c13_2",
+    "original":"」「云何菩薩住六地中具足六法？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 住 六 地 中 具 足 六 法  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258c13_11",
+    "original":"」「所謂六波羅蜜。",
+    "folio":6,
+    "stemmed":"  所 謂 六波羅蜜  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258c14_17",
+    "original":"諸佛及聲聞、辟支佛住六波羅蜜中能度彼岸，是名具足六法。",
+    "folio":6,
+    "stemmed":"諸 佛 及 聲 聞  辟 支 佛 住 六波羅蜜 中 能度彼岸  是 名 具 足 六 法  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258c15_14",
+    "original":"」「云何菩薩不作聲聞、辟支佛意？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 不 作 聲 聞  辟 支 佛 意  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258c15_20",
+    "original":"」「作是念：",
+    "folio":6,
+    "stemmed":"  作 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258c16_18",
+    "original":"『聲聞、辟支佛意，非阿耨多羅三藐三菩提道。",
+    "folio":6,
+    "stemmed":" 聲 聞  辟 支 佛 意  非 阿耨多羅三藐三菩提 道  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258c17_9",
+    "original":"』」「云何菩薩布施不生憂心？",
+    "folio":6,
+    "stemmed":"   云 何 菩 薩 布 施 不 生 憂 心  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258c17_15",
+    "original":"」「作是念：",
+    "folio":6,
+    "stemmed":"  作 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258c18_8",
+    "original":"『此非阿耨多羅三藐三菩提道。",
+    "folio":6,
+    "stemmed":" 此 非 阿耨多羅三藐三菩提 道  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258c19_2",
+    "original":"』」「云何菩薩見有所索心不沒？",
+    "folio":6,
+    "stemmed":"   云 何 菩 薩 見 有 所 索 心 不 沒  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258c19_8",
+    "original":"」「作是念：",
+    "folio":6,
+    "stemmed":"  作 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258c20_1",
+    "original":"『此非阿耨多羅三藐三菩提道。",
+    "folio":6,
+    "stemmed":" 此 非 阿耨多羅三藐三菩提 道  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258c20_14",
+    "original":"』」「云何菩薩所有物布施？",
+    "folio":6,
+    "stemmed":"   云 何 菩 薩 所 有 物 布 施  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258c21_4",
+    "original":"」「菩薩初發心時布施，不言：",
+    "folio":6,
+    "stemmed":"  菩 薩 初 發 心 時 布 施  不 言  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258c21_9",
+    "original":"『是可與；",
+    "folio":6,
+    "stemmed":" 是 可 與  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258c21_14",
+    "original":"是不可與。",
+    "folio":6,
+    "stemmed":"是 不 可 與  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258c22_5",
+    "original":"』」「云何菩薩布施之後心不悔？",
+    "folio":6,
+    "stemmed":"   云 何 菩 薩 布 施 之 後 心 不 悔  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258c22_12",
+    "original":"」「慈悲力故。",
+    "folio":6,
+    "stemmed":"  慈 悲 力 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258c23_1",
+    "original":"」「云何菩薩不疑深法？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 不 疑 深 法  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258c23_9",
+    "original":"」「信功德力故。",
+    "folio":6,
+    "stemmed":"  信 功 德 力 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258c24_2",
+    "original":"是為菩薩住六地中遠離六法。",
+    "folio":6,
+    "stemmed":"是 為 菩 薩 住 六 地 中 遠 離 六 法  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258c24_12",
+    "original":"」「云何菩薩不著我？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 不 著 我  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258c24_20",
+    "original":"」「畢竟無我故。",
+    "folio":6,
+    "stemmed":"  畢 竟 無 我 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258c26_5",
+    "original":"」「云何菩薩不著眾生、不著壽命、不著眾數乃至知者、見者？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 不 著 眾 生  不 著 壽 命  不 著 眾 數 乃 至 知 者  見 者  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258c26_17",
+    "original":"」「是諸法畢竟不可得故。",
+    "folio":6,
+    "stemmed":"  是 諸 法 畢 竟 不 可 得 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258c27_4",
+    "original":"」「云何菩薩不著斷見？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 不 著 斷 見  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258c27_19",
+    "original":"」「無有法斷，諸法畢竟不生故。",
+    "folio":6,
+    "stemmed":"  無 有 法 斷  諸 法 畢竟不生 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258c28_7",
+    "original":"」「云何菩薩不著常見？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 不 著 常 見  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258c28_19",
+    "original":"」「若法不生，是不作常。",
+    "folio":6,
+    "stemmed":"  若 法 不 生  是 不 作 常  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258c29_7",
+    "original":"」「云何菩薩不應取相？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 不 應 取 相  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0258c29_15",
+    "original":"」「無諸煩惱故。",
+    "folio":6,
+    "stemmed":"  無 諸 煩 惱 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a01_5",
+    "original":"」「云何菩薩不應作因見？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 不 應 作 因 見  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a01_14",
+    "original":"」「諸見不可見故。",
+    "folio":6,
+    "stemmed":"  諸 見 不 可 見 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a02_3",
+    "original":"」「云何菩薩不著名色？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 不 著 名 色  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a02_12",
+    "original":"」「名色處相無故。",
+    "folio":6,
+    "stemmed":"  名 色 處 相 無 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a03_13",
+    "original":"」「云何菩薩不著五陰、不著十八界、不著十二入？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 不 著 五 陰  不 著 十 八 界  不 著 十 二 入  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a04_1",
+    "original":"」「是諸法性無故。",
+    "folio":6,
+    "stemmed":"  是 諸 法 性 無 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a04_12",
+    "original":"」「云何菩薩不著三界？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 不著三界  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a04_20",
+    "original":"」「三界性無故。",
+    "folio":6,
+    "stemmed":"  三 界 性 無 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a05_7",
+    "original":"」「云何菩薩不應作著心？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 不 應 作 著 心  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a05_16",
+    "original":"云何菩薩不應作願？",
+    "folio":6,
+    "stemmed":"云 何 菩 薩 不 應 作 願  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a06_8",
+    "original":"云何菩薩不應作依止？",
+    "folio":6,
+    "stemmed":"云 何 菩 薩 不 應 作 依 止  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a06_17",
+    "original":"」「是諸法性無故。",
+    "folio":6,
+    "stemmed":"  是 諸 法 性 無 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a07_7",
+    "original":"」「云何菩薩不著依佛見？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 不 著 依 佛 見  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a07_17",
+    "original":"」「作依見不見佛故。",
+    "folio":6,
+    "stemmed":"  作 依 見 不 見 佛 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a08_8",
+    "original":"」「云何菩薩不著依法見？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 不 著 依 法 見  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a08_16",
+    "original":"」「法不可見故。",
+    "folio":6,
+    "stemmed":"  法 不 可 見 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a09_6",
+    "original":"」「云何菩薩不著依僧見？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 不 著 依 僧 見  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a09_18",
+    "original":"」「僧相無為，不可依故。",
+    "folio":6,
+    "stemmed":"  僧 相 無 為  不 可 依 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a10_7",
+    "original":"」「云何菩薩不著依戒見？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 不 著 依 戒 見  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a10_16",
+    "original":"」「罪無罪不著故。",
+    "folio":6,
+    "stemmed":"  罪 無 罪 不 著 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a11_12",
+    "original":"是為菩薩住七地中二十法所不應著。",
+    "folio":6,
+    "stemmed":"是 為 菩 薩 住 七 地 中 二 十 法 所 不 應 著  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a12_4",
+    "original":"」「云何菩薩應具足空？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 應 具 足 空  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a12_15",
+    "original":"」「具足諸法自相空故。",
+    "folio":6,
+    "stemmed":"  具 足 諸 法 自 相 空 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a13_3",
+    "original":"」「云何菩薩無相證？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 無 相 證  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a13_11",
+    "original":"」「不念諸相故。",
+    "folio":6,
+    "stemmed":"  不 念 諸 相 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a13_21",
+    "original":"」「云何菩薩知無作？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 知 無 作  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a14_6",
+    "original":"」「於三界中不作故。",
+    "folio":6,
+    "stemmed":"  於 三 界 中 不 作 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a14_17",
+    "original":"」「云何菩薩三分清淨？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 三 分 清 淨  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a15_4",
+    "original":"」「十善道具足故。",
+    "folio":6,
+    "stemmed":"  十 善 道 具 足 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a16_1",
+    "original":"」「云何菩薩一切眾生中慈悲智具足？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 一 切 眾 生 中 慈 悲 智 具 足  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a16_8",
+    "original":"」「得大悲故。",
+    "folio":6,
+    "stemmed":"  得 大 悲 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a16_21",
+    "original":"」「云何菩薩不念一切眾生？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 不 念 一 切 眾 生  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a17_5",
+    "original":"」「淨國土具足故。",
+    "folio":6,
+    "stemmed":"  淨 國 土 具 足 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a17_17",
+    "original":"」「云何菩薩一切法等觀？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 一 切 法 等 觀  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a18_5",
+    "original":"」「於諸法不損益故。",
+    "folio":6,
+    "stemmed":"  於 諸 法 不 損 益 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a18_17",
+    "original":"」「云何菩薩知諸法實相？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 知 諸法實相  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a19_5",
+    "original":"」「諸法實相無知故。",
+    "folio":6,
+    "stemmed":"  諸法實相 無 知 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a19_15",
+    "original":"」「云何菩薩無生忍？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 無 生 忍  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a20_8",
+    "original":"」「為諸法不生不滅，不作忍故。",
+    "folio":6,
+    "stemmed":"  為 諸 法 不生不滅  不 作 忍 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a20_18",
+    "original":"」「云何菩薩無生智？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 無 生 智  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a21_4",
+    "original":"」「知名色不生故。",
+    "folio":6,
+    "stemmed":"  知 名 色 不 生 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a21_16",
+    "original":"」「云何菩薩說諸法一相？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 說 諸 法 一 相  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a22_3",
+    "original":"」「心不行二相故。",
+    "folio":6,
+    "stemmed":"  心 不 行 二 相 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a22_14",
+    "original":"」「云何菩薩破分別相？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 破 分 別 相  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a23_2",
+    "original":"」「一切法不分別故。",
+    "folio":6,
+    "stemmed":"  一 切 法 不 分 別 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a23_12",
+    "original":"」「云何菩薩轉憶想？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 轉 憶 想  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a23_22",
+    "original":"」「小大無量想轉故。",
+    "folio":6,
+    "stemmed":"  小 大 無 量 想 轉 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a24_7",
+    "original":"」「云何菩薩轉見？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 轉 見  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a24_21",
+    "original":"」「於聲聞、辟支佛地見轉故。",
+    "folio":6,
+    "stemmed":"  於 聲 聞  辟支佛地 見 轉 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a25_8",
+    "original":"」「云何菩薩轉煩惱？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 轉 煩 惱  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a25_16",
+    "original":"」「斷諸煩惱故。",
+    "folio":6,
+    "stemmed":"  斷 諸 煩 惱 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a26_4",
+    "original":"」「云何菩薩等定慧地？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 等 定 慧 地  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a26_15",
+    "original":"」「所謂得一切種智故。",
+    "folio":6,
+    "stemmed":"  所 謂 得 一切種智 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a27_2",
+    "original":"」「云何菩薩調意？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 調 意  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a27_11",
+    "original":"」「於三界不動故。",
+    "folio":6,
+    "stemmed":"  於 三 界 不 動 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a27_21",
+    "original":"」「云何菩薩心寂滅？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 心 寂 滅  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a28_3",
+    "original":"」「制六根故。",
+    "folio":6,
+    "stemmed":"  制 六 根 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a28_13",
+    "original":"」「云何菩薩無閡智？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 無 閡 智  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a28_20",
+    "original":"」「得佛眼故。",
+    "folio":6,
+    "stemmed":"  得 佛 眼 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a29_5",
+    "original":"」「云何菩薩不染愛？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 不 染 愛  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259a29_12",
+    "original":"」「捨六塵故。",
+    "folio":6,
+    "stemmed":"  捨 六 塵 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259b01_7",
+    "original":"是為菩薩住七地中具足二十法。",
+    "folio":6,
+    "stemmed":"是 為 菩 薩 住 七 地 中 具 足 二 十 法  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259b01_19",
+    "original":"」「云何菩薩順入眾生心？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 順 入 眾 生 心  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259b02_16",
+    "original":"」「菩薩以一心知一切眾生心及心數法。",
+    "folio":6,
+    "stemmed":"  菩 薩 以 一 心 知 一 切 眾 生 心 及 心 數 法  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259b03_7",
+    "original":"」「云何菩薩遊戲諸神通？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 遊 戲 諸 神 通  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259b04_10",
+    "original":"」「以是神通從一佛國至一佛國，亦不作佛國想。",
+    "folio":6,
+    "stemmed":"  以 是 神 通 從 一 佛 國 至 一 佛 國  亦 不 作 佛 國 想  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259b05_1",
+    "original":"」「云何菩薩觀諸佛國？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 觀 諸 佛 國  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259b05_20",
+    "original":"」「自住其國見無量諸佛國，亦無佛國想。",
+    "folio":6,
+    "stemmed":"  自 住 其 國 見 無 量 諸 佛 國  亦 無 佛 國 想  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259b06_16",
+    "original":"」「云何菩薩如所見佛國，自莊嚴其國？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 如 所 見 佛 國  自 莊 嚴 其 國  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259b07_18",
+    "original":"」「住轉輪聖王地，遍至三千大千世界，以自莊嚴。",
+    "folio":6,
+    "stemmed":"  住 轉輪聖王 地  遍 至 三千大千世界  以 自 莊 嚴  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259b08_10",
+    "original":"」「云何菩薩如實觀佛身？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 如 實 觀 佛 身  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259b08_19",
+    "original":"」「如實觀法身故。",
+    "folio":6,
+    "stemmed":"  如 實 觀 法 身 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259b09_11",
+    "original":"是為菩薩住八地中具足五法。",
+    "folio":6,
+    "stemmed":"是 為 菩 薩 住 八 地 中 具 足 五 法  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259b10_4",
+    "original":"」「云何菩薩知上下諸根？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 知 上 下 諸 根  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259b11_2",
+    "original":"」「菩薩住佛十力，知一切眾生上下諸根。",
+    "folio":6,
+    "stemmed":"  菩 薩 住 佛 十 力  知 一 切 眾 生 上 下 諸 根  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259b11_13",
+    "original":"」「云何菩薩淨佛國土？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 淨佛國土  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259b11_20",
+    "original":"」「淨眾生故。",
+    "folio":6,
+    "stemmed":"  淨 眾 生 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259b12_6",
+    "original":"」「云何菩薩如幻三昧？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 如幻三昧  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259b13_6",
+    "original":"」「住是三昧能成辦一切事，亦不生心相故。",
+    "folio":6,
+    "stemmed":"  住 是 三 昧 能 成 辦 一 切 事  亦 不 生 心 相 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259b13_17",
+    "original":"」「云何菩薩常入三昧？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 常 入 三 昧  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259b14_6",
+    "original":"」「菩薩得報生三昧故。",
+    "folio":6,
+    "stemmed":"  菩 薩 得 報 生 三 昧 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259b15_3",
+    "original":"」「云何菩薩隨眾生所應善根受身？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 隨 眾 生 所 應 善 根 受 身  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259b16_7",
+    "original":"」「菩薩知眾生所應生善根而為受身，成就眾生故。",
+    "folio":6,
+    "stemmed":"  菩 薩 知 眾 生 所 應 生 善 根 而 為 受 身  成 就 眾 生 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259b17_3",
+    "original":"是為菩薩住八地中具足五法。",
+    "folio":6,
+    "stemmed":"是 為 菩 薩 住 八 地 中 具 足 五 法  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259b17_19",
+    "original":"」「云何菩薩受無邊世界所度之分？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 受 無邊世界 所 度 之 分  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259b19_5",
+    "original":"」「十方無量世界中眾生，如諸佛法所應度者而度脫之。",
+    "folio":6,
+    "stemmed":"  十 方 無量世界 中 眾 生  如 諸 佛 法 所 應 度 者 而 度 脫 之  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259b19_16",
+    "original":"」「云何菩薩得如所願？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 得 如 所 願  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259b20_6",
+    "original":"」「得六波羅蜜具足故。",
+    "folio":6,
+    "stemmed":"  得 六波羅蜜 具 足 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259b21_4",
+    "original":"」「云何菩薩知諸天、龍、夜叉、揵闥婆語？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 知 諸 天  龍  夜 叉  揵 闥 婆 語  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259b21_11",
+    "original":"」「辭辯力故。",
+    "folio":6,
+    "stemmed":"  辭 辯 力 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259b21_22",
+    "original":"」「云何菩薩胎生成就？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 胎 生 成 就  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259b22_9",
+    "original":"「菩薩世世常化生故。",
+    "folio":6,
+    "stemmed":" 菩 薩 世 世 常 化 生 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259b22_18",
+    "original":"「云何菩薩家成就？",
+    "folio":6,
+    "stemmed":" 云 何 菩 薩 家 成 就  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259b23_4",
+    "original":"」「常在大家生故。",
+    "folio":6,
+    "stemmed":"  常 在 大 家 生 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259b23_15",
+    "original":"」「云何菩薩所生成就？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 所 生 成 就  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259b24_7",
+    "original":"」「若剎利家生、若婆羅門家生故。",
+    "folio":6,
+    "stemmed":"  若 剎 利 家 生  若 婆 羅 門 家 生 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259b24_17",
+    "original":"」「云何菩薩姓成就？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 姓 成 就  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259b25_11",
+    "original":"」「如過去菩薩所生姓，從此中生故。",
+    "folio":6,
+    "stemmed":"  如 過 去 菩 薩 所 生 姓  從 此 中 生 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259b26_2",
+    "original":"」「云何菩薩眷屬成就？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 眷 屬 成 就  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259b26_16",
+    "original":"」「純諸菩薩摩訶薩為眷屬故。",
+    "folio":6,
+    "stemmed":"  純 諸 菩薩摩訶薩 為 眷 屬 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259b27_4",
+    "original":"」「云何菩薩出生成就？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 出 生 成 就  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259b28_5",
+    "original":"」「生時光明遍照無量無邊世界，亦不取相故。",
+    "folio":6,
+    "stemmed":"  生 時 光明遍照 無量無邊 世 界  亦 不 取 相 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259b28_16",
+    "original":"」「云何菩薩出家成就？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 出 家 成 就  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259c01_3",
+    "original":"」「出家時無量百千億諸天侍從出家，是一切眾生必至三乘。",
+    "folio":6,
+    "stemmed":"  出 家 時 無 量 百 千 億 諸 天 侍 從 出 家  是 一 切 眾 生 必 至 三 乘  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259c01_16",
+    "original":"」「云何菩薩莊嚴佛樹成就？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 莊 嚴 佛 樹 成 就  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259c03_15",
+    "original":"」「是菩提樹以黃金為根，七寶為莖節枝葉，莖節枝葉光明遍照十方阿僧祇三千大千世界。",
+    "folio":6,
+    "stemmed":"  是 菩 提 樹 以 黃 金 為 根  七 寶 為 莖 節 枝 葉  莖 節 枝 葉 光明遍照 十 方 阿 僧 祇 三千大千世界  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259c04_13",
+    "original":"」「云何菩薩一切諸善功德成滿具足？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 一 切 諸 善 功 德 成 滿 具 足  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259c05_8",
+    "original":"」「菩薩得眾生清淨，佛國亦淨。",
+    "folio":6,
+    "stemmed":"  菩 薩 得 眾 生 清 淨  佛 國 亦 淨  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259c06_4",
+    "original":"是為菩薩住九地中具足十二法。",
+    "folio":6,
+    "stemmed":"是 為 菩 薩 住 九 地 中 具 足 十 二 法  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259c06_19",
+    "original":"」「云何菩薩住十地中當知如佛？",
+    "folio":6,
+    "stemmed":"  云 何 菩 薩 住 十 地 中 當 知 如 佛  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259c10_1",
+    "original":"」「若菩薩摩訶薩具足六波羅蜜、四念處，乃至十八不共法、一切種智具足滿，斷一切煩惱及習，是名菩薩摩訶薩住十地中當知如佛。",
+    "folio":6,
+    "stemmed":"  若 菩薩摩訶薩 具 足 六波羅蜜  四 念 處  乃 至 十八不共法  一切種智 具 足 滿  斷 一切煩惱 及 習  是 名 菩薩摩訶薩 住 十 地 中 當 知 如 佛  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259c10_5",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259c14_9",
+    "original":"菩薩摩訶薩住是十地中，以方便力故行六波羅蜜，行四念處乃至十八不共法，過乾慧地、性地、八人地、見地、薄地、離欲地、已作地、辟支佛地、菩薩地，過是九地住於佛地，是為菩薩十地。",
+    "folio":6,
+    "stemmed":"菩薩摩訶薩 住 是 十 地 中  以 方 便 力 故 行 六波羅蜜  行 四 念 處 乃 至 十八不共法  過 乾 慧 地  性 地  八 人 地  見 地  薄 地  離 欲 地  已 作 地  辟支佛地  菩 薩 地  過 是 九 地 住 於 佛 地  是 為 菩薩十地  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259c14_16",
+    "original":"如是，須菩提！",
+    "folio":6,
+    "stemmed":"如 是  須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259c15_8",
+    "original":"是名菩薩摩訶薩大乘發趣。",
+    "folio":6,
+    "stemmed":"是 名 菩薩摩訶薩 大 乘 發 趣  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259c17_5",
+    "original":"」21 出到品摩訶般若波羅蜜經出到品第二十一佛告須菩提：",
+    "folio":6,
+    "stemmed":" 2 1   出 到 品 摩訶般若波羅蜜 經 出 到 品 第 二 十 一 佛 告 須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259c17_10",
+    "original":"「汝所問：",
+    "folio":6,
+    "stemmed":" 汝 所 問  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259c17_17",
+    "original":"『是乘何處出？",
+    "folio":6,
+    "stemmed":" 是 乘 何 處 出  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259c18_1",
+    "original":"至何處住？",
+    "folio":6,
+    "stemmed":"至 何 處 住  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259c18_4",
+    "original":"』者。",
+    "folio":6,
+    "stemmed":" 者  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259c18_8",
+    "original":"」佛言：",
+    "folio":6,
+    "stemmed":" 佛 言  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259c19_8",
+    "original":"「是乘從三界中出，至薩婆若中住，以不二法故。",
+    "folio":6,
+    "stemmed":" 是 乘 從 三 界 中 出  至 薩 婆 若 中 住  以 不 二 法 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259c19_12",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259c21_5",
+    "original":"摩訶衍、薩婆若是二法，不合不散、無色無形無對，一相所謂無相。",
+    "folio":6,
+    "stemmed":"摩 訶 衍  薩 婆 若 是 二 法  不 合 不 散  無 色 無 形 無 對  一 相 所 謂 無 相  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259c22_5",
+    "original":"若人欲使實際出，是人為欲使無相法出。",
+    "folio":6,
+    "stemmed":"若 人 欲 使 實 際 出  是 人 為 欲 使 無 相 法 出  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259c23_12",
+    "original":"若人欲使如、法性、不可思議性出，是人為欲使無相法出。",
+    "folio":6,
+    "stemmed":"若 人 欲 使 如  法 性  不可思議 性 出  是 人 為 欲 使 無 相 法 出  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259c24_12",
+    "original":"若人欲使色空出，是人為欲使無相法出。",
+    "folio":6,
+    "stemmed":"若 人 欲 使 色 空 出  是 人 為 欲 使 無 相 法 出  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259c25_15",
+    "original":"若人欲使受想行識空出，是人為欲使無相法出。",
+    "folio":6,
+    "stemmed":"若 人 欲 使 受 想 行 識 空 出  是 人 為 欲 使 無 相 法 出  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259c26_1",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259c26_5",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259c27_1",
+    "original":"色空相不出三界亦不住薩婆若。",
+    "folio":6,
+    "stemmed":"色 空 相 不 出 三 界 亦 不 住 薩 婆 若  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259c28_1",
+    "original":"受想行識空相不出三界亦不住薩婆若。",
+    "folio":6,
+    "stemmed":"受 想 行 識 空 相 不 出 三 界 亦 不 住 薩 婆 若  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259c28_6",
+    "original":"所以者何？",
+    "folio":6,
+    "stemmed":"所以者何  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0259c29_1",
+    "original":"色色相空，受想行識識相空故。",
+    "folio":6,
+    "stemmed":"色 色 相 空  受 想 行 識 識 相 空 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260a01_1",
+    "original":"若人欲使眼空出，是人為欲使無相法出。",
+    "folio":6,
+    "stemmed":"若 人 欲 使 眼 空 出  是 人 為 欲 使 無 相 法 出  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260a02_5",
+    "original":"若人欲使耳鼻舌身意空出，是人為欲使無相法出。",
+    "folio":6,
+    "stemmed":"若 人 欲 使 耳 鼻 舌 身 意 空 出  是 人 為 欲 使 無 相 法 出  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260a03_13",
+    "original":"若人欲使乃至意觸因緣生受空出，是人為欲使無相法出。",
+    "folio":6,
+    "stemmed":"若 人 欲 使 乃 至 意 觸 因 緣 生 受 空 出  是 人 為 欲 使 無 相 法 出  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260a03_17",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260a04_2",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260a06_1",
+    "original":"眼空不出三界亦不住薩婆若，乃至意觸因緣生受空不出三界亦不住薩婆若。",
+    "folio":6,
+    "stemmed":"眼 空 不 出 三 界 亦 不 住 薩 婆 若  乃 至 意 觸 因 緣 生 受 空 不 出 三 界 亦 不 住 薩 婆 若  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260a06_6",
+    "original":"所以者何？",
+    "folio":6,
+    "stemmed":"所以者何  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260a07_10",
+    "original":"眼眼相空，乃至意觸因緣生受意觸因緣生受相空故。",
+    "folio":6,
+    "stemmed":"眼 眼 相 空  乃 至 意 觸 因 緣 生 受 意 觸 因 緣 生 受 相 空 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260a08_9",
+    "original":"若人欲使夢出，是人為欲使無相法出。",
+    "folio":6,
+    "stemmed":"若 人 欲 使 夢 出  是 人 為 欲 使 無 相 法 出  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260a09_14",
+    "original":"若人欲使幻、焰、響、影、化出，是人為欲使無相法出。",
+    "folio":6,
+    "stemmed":"若 人 欲 使 幻  焰  響  影  化 出  是 人 為 欲 使 無 相 法 出  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260a09_18",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260a10_2",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260a11_17",
+    "original":"夢相不出三界亦不住薩婆若，幻、焰、響、影、化相亦不出三界亦不住薩婆若。",
+    "folio":6,
+    "stemmed":"夢 相 不 出 三 界 亦 不 住 薩 婆 若  幻  焰  響  影  化 相 亦 不 出 三 界 亦 不 住 薩 婆 若  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260a12_2",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260a13_5",
+    "original":"若人欲使檀那波羅蜜出，是人為欲使無相法出。",
+    "folio":6,
+    "stemmed":"若 人 欲 使 檀 那 波 羅 蜜 出  是 人 為 欲 使 無 相 法 出  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260a15_13",
+    "original":"若人欲使尸羅波羅蜜、羼提波羅蜜、毘梨耶波羅蜜、禪那波羅蜜、般若波羅蜜出，是人為欲使無相法出。",
+    "folio":6,
+    "stemmed":"若 人 欲 使 尸 羅 波 羅 蜜  羼 提 波 羅 蜜  毘梨耶波羅蜜  禪 那 波 羅 蜜  般 若 波 羅 蜜 出  是 人 為 欲 使 無 相 法 出  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260a15_17",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260a18_5",
+    "original":"檀那波羅蜜相不出三界亦不住薩婆若，尸羅波羅蜜乃至般若波羅蜜不出三界亦不住薩婆若。",
+    "folio":6,
+    "stemmed":"檀 那 波 羅 蜜 相 不 出 三 界 亦 不 住 薩 婆 若  尸 羅 波 羅 蜜 乃 至 般 若 波 羅 蜜 不 出 三 界 亦 不 住 薩 婆 若  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260a18_10",
+    "original":"所以者何？",
+    "folio":6,
+    "stemmed":"所以者何  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260a21_5",
+    "original":"檀那波羅蜜檀那波羅蜜相空，尸羅波羅蜜、羼提波羅蜜、毘梨耶波羅蜜、禪那波羅蜜、般若波羅蜜般若波羅蜜相空故。",
+    "folio":6,
+    "stemmed":"檀 那 波 羅 蜜 檀 那 波 羅 蜜 相 空  尸 羅 波 羅 蜜  羼 提 波 羅 蜜  毘梨耶波羅蜜  禪 那 波 羅 蜜  般 若 波 羅 蜜 般 若 波 羅 蜜 相 空 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260a22_13",
+    "original":"若人欲使內空出乃至無法有法空出，是人為欲使無相法出。",
+    "folio":6,
+    "stemmed":"若 人 欲 使 內 空 出 乃 至 無法有法空 出  是 人 為 欲 使 無 相 法 出  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260a22_17",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260a23_2",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260a24_7",
+    "original":"內空相乃至無法有法空相不出三界亦不住薩婆若。",
+    "folio":6,
+    "stemmed":"內 空 相 乃 至 無法有法空 相 不 出 三 界 亦 不 住 薩 婆 若  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260a24_12",
+    "original":"所以者何？",
+    "folio":6,
+    "stemmed":"所以者何  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260a25_16",
+    "original":"內空內空性空乃至無法有法空無法有法空性空故。",
+    "folio":6,
+    "stemmed":"內 空 內 空 性 空 乃 至 無法有法空 無法有法空 性 空 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260a26_17",
+    "original":"若人欲使四念處出，是人為欲使無相法出。",
+    "folio":6,
+    "stemmed":"若 人 欲 使 四 念 處 出  是 人 為 欲 使 無 相 法 出  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260a27_3",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260a28_2",
+    "original":"四念處性不出三界亦不住薩婆若。",
+    "folio":6,
+    "stemmed":"四 念 處 性 不 出 三 界 亦 不 住 薩 婆 若  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260a28_7",
+    "original":"所以者何？",
+    "folio":6,
+    "stemmed":"所以者何  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260a28_18",
+    "original":"四念處性四念處性空故。",
+    "folio":6,
+    "stemmed":"四 念 處 性 四 念 處 性 空 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260b01_17",
+    "original":"若人欲使四正懃、四如意足、五根、五力、七覺分、八聖道分出，是人為欲使無相法出。",
+    "folio":6,
+    "stemmed":"若 人 欲 使 四 正 懃  四如意足  五 根  五 力  七 覺 分  八 聖 道 分 出  是 人 為 欲 使 無 相 法 出  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260b02_2",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260b03_1",
+    "original":"八聖道分性不出三界不住薩婆若。",
+    "folio":6,
+    "stemmed":"八 聖 道 分 性 不 出 三 界 不 住 薩 婆 若  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260b03_6",
+    "original":"所以者何？",
+    "folio":6,
+    "stemmed":"所以者何  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260b03_19",
+    "original":"八聖道分性八聖道分性空故。",
+    "folio":6,
+    "stemmed":"八 聖 道 分 性 八 聖 道 分 性 空 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260b04_10",
+    "original":"乃至十八不共法亦如是。",
+    "folio":6,
+    "stemmed":"乃 至 十八不共法 亦 如 是  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260b04_14",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260b05_17",
+    "original":"若人欲使阿羅漢出生處，是人為欲使無相法出。",
+    "folio":6,
+    "stemmed":"若 人 欲 使 阿 羅 漢 出 生 處  是 人 為 欲 使 無 相 法 出  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260b07_3",
+    "original":"若人欲使辟支佛出生處，是人為欲使無相法出。",
+    "folio":6,
+    "stemmed":"若 人 欲 使 辟 支 佛 出 生 處  是 人 為 欲 使 無 相 法 出  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260b08_16",
+    "original":"若人欲使多陀阿伽度、阿羅訶、三藐三佛陀出生處，是人為欲使無相法出。",
+    "folio":6,
+    "stemmed":"若 人 欲 使 多 陀 阿 伽 度  阿 羅 訶  三藐三佛陀 出 生 處  是 人 為 欲 使 無 相 法 出  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260b09_2",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260b10_6",
+    "original":"阿羅漢性、辟支佛性佛性不出三界亦不住薩婆若。",
+    "folio":6,
+    "stemmed":"阿 羅 漢 性  辟 支 佛 性 佛 性 不 出 三 界 亦 不 住 薩 婆 若  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260b10_11",
+    "original":"所以者何？",
+    "folio":6,
+    "stemmed":"所以者何  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260b11_19",
+    "original":"阿羅漢性阿羅漢性空、辟支佛性辟支佛性空、佛性佛性空故。",
+    "folio":6,
+    "stemmed":"阿 羅 漢 性 阿 羅 漢 性 空  辟 支 佛 性 辟 支 佛 性 空  佛 性 佛 性 空 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260b14_6",
+    "original":"若人欲使須陀洹果、斯陀含果、阿那含果、阿羅漢果、辟支佛道、佛道、一切種智出，是人為欲使無相法出。",
+    "folio":6,
+    "stemmed":"若 人 欲 使 須陀洹果  斯陀含果  阿那含果  阿羅漢果  辟支佛道  佛 道  一切種智 出  是 人 為 欲 使 無 相 法 出  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260b14_10",
+    "original":"如上說。",
+    "folio":6,
+    "stemmed":"如 上 說  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260b16_2",
+    "original":"若人欲使名字、假名施設相、但有語言出，是人為欲使無相法出。",
+    "folio":6,
+    "stemmed":"若 人 欲 使 名 字  假 名 施 設 相  但 有 語 言 出  是 人 為 欲 使 無 相 法 出  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260b16_6",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260b17_3",
+    "original":"名字空不出三界亦不住薩婆若。",
+    "folio":6,
+    "stemmed":"名 字 空 不 出 三 界 亦 不 住 薩 婆 若  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260b17_8",
+    "original":"所以者何？",
+    "folio":6,
+    "stemmed":"所以者何  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260b17_17",
+    "original":"名字相名字相空故。",
+    "folio":6,
+    "stemmed":"名 字 相 名 字 相 空 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260b18_6",
+    "original":"乃至施設亦如是。",
+    "folio":6,
+    "stemmed":"乃 至 施 設 亦 如 是  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260b20_1",
+    "original":"是人欲使不生不滅法、不垢不淨無作法出，是人為欲使無相法出。",
+    "folio":6,
+    "stemmed":"是 人 欲 使 不生不滅 法  不垢不淨 無 作 法 出  是 人 為 欲 使 無 相 法 出  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260b20_5",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260b21_7",
+    "original":"不生乃至無作法性不出三界亦不住薩婆若。",
+    "folio":6,
+    "stemmed":"不 生 乃 至 無 作 法 性 不 出 三 界 亦 不 住 薩 婆 若  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260b21_12",
+    "original":"所以者何？",
+    "folio":6,
+    "stemmed":"所以者何  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260b22_6",
+    "original":"不生性乃至無作性性空故。",
+    "folio":6,
+    "stemmed":"不 生 性 乃 至 無 作 性 性 空 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260b22_10",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260b24_2",
+    "original":"以是因緣故，摩訶衍從三界中出，至薩婆若中，住不動故。",
+    "folio":6,
+    "stemmed":"以是因緣 故  摩 訶 衍 從 三 界 中 出  至 薩 婆 若 中  住 不 動 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260b24_7",
+    "original":"「須菩提！",
+    "folio":6,
+    "stemmed":" 須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260b24_11",
+    "original":"汝所問：",
+    "folio":6,
+    "stemmed":"汝 所 問  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260b24_19",
+    "original":"『是乘至何處住？",
+    "folio":6,
+    "stemmed":" 是 乘 至 何 處 住  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260b25_5",
+    "original":"』者，須菩提！",
+    "folio":6,
+    "stemmed":" 者  須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260b25_12",
+    "original":"是大乘無住處。",
+    "folio":6,
+    "stemmed":"是 大 乘 無 住 處  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260b25_16",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260b26_15",
+    "original":"一切法無住相故，是乘若住不住法住。",
+    "folio":6,
+    "stemmed":"一 切 法 無 住 相 故  是 乘 若 住 不 住 法 住  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260b27_1",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260b28_8",
+    "original":"譬如法性不生不滅、不垢不淨、無相無作，非住非不住。",
+    "folio":6,
+    "stemmed":"譬 如 法 性 不生不滅  不垢不淨  無 相 無 作  非 住 非 不 住  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260b28_12",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260b29_5",
+    "original":"是乘亦如是，非住非不住。",
+    "folio":6,
+    "stemmed":"是 乘 亦 如 是  非 住 非 不 住  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260b29_9",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260c01_1",
+    "original":"法性相非住非不住。",
+    "folio":6,
+    "stemmed":"法 性 相 非 住 非 不 住  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260c01_6",
+    "original":"所以者何？",
+    "folio":6,
+    "stemmed":"所以者何  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260c02_4",
+    "original":"法性相空故，乃至無作性無作性空故。",
+    "folio":6,
+    "stemmed":"法 性 相 空 故  乃 至 無 作 性 無 作 性 空 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260c02_11",
+    "original":"諸餘法亦如是。",
+    "folio":6,
+    "stemmed":"諸 餘 法 亦 如 是  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260c02_15",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260c03_9",
+    "original":"以是因緣故，是乘無所住。",
+    "folio":6,
+    "stemmed":"以是因緣 故  是 乘 無 所 住  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260c04_1",
+    "original":"以不住法、不動法故。",
+    "folio":6,
+    "stemmed":"以 不 住 法  不 動 法 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260c04_6",
+    "original":"「須菩提！",
+    "folio":6,
+    "stemmed":" 須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260c04_10",
+    "original":"汝所問：",
+    "folio":6,
+    "stemmed":"汝 所 問  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260c04_18",
+    "original":"『誰當乘是乘出？",
+    "folio":6,
+    "stemmed":" 誰 當 乘 是 乘 出  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260c05_7",
+    "original":"』者，無有人乘是乘出者。",
+    "folio":6,
+    "stemmed":" 者  無 有 人 乘 是 乘 出 者  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260c05_11",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260c06_15",
+    "original":"是乘及出者，所用法及出時，是一切法皆無所有。",
+    "folio":6,
+    "stemmed":"是 乘 及 出 者  所 用 法 及 出 時  是 一 切 法 皆 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260c07_12",
+    "original":"若一切法無所有，用何等法當出？",
+    "folio":6,
+    "stemmed":"若 一 切 法 無 所 有  用 何 等 法 當 出  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260c07_16",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260c08_17",
+    "original":"我不可得乃至知者、見者不可得，畢竟淨故。",
+    "folio":6,
+    "stemmed":"我不可得 乃 至 知 者  見 者 不 可 得  畢 竟 淨 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260c09_12",
+    "original":"不可思議性不可得，畢竟淨故。",
+    "folio":6,
+    "stemmed":"不可思議 性 不 可 得  畢 竟 淨 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260c10_6",
+    "original":"陰入界不可得，畢竟淨故。",
+    "folio":6,
+    "stemmed":"陰 入 界 不 可 得  畢 竟 淨 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260c11_2",
+    "original":"檀那波羅蜜不可得，畢竟淨故。",
+    "folio":6,
+    "stemmed":"檀 那 波 羅 蜜 不 可 得  畢 竟 淨 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260c11_18",
+    "original":"乃至般若波羅蜜不可得，畢竟淨故。",
+    "folio":6,
+    "stemmed":"乃 至 般 若 波 羅 蜜 不 可 得  畢 竟 淨 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260c12_10",
+    "original":"內空不可得，畢竟淨故。",
+    "folio":6,
+    "stemmed":"內 空 不 可 得  畢 竟 淨 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260c13_8",
+    "original":"乃至無法有法空不可得，畢竟淨故。",
+    "folio":6,
+    "stemmed":"乃 至 無法有法空 不 可 得  畢 竟 淨 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260c14_13",
+    "original":"四念處不可得，乃至十八不共法不可得，畢竟淨故。",
+    "folio":6,
+    "stemmed":"四 念 處 不 可 得  乃 至 十八不共法 不 可 得  畢 竟 淨 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260c16_4",
+    "original":"須陀洹不可得，乃至阿羅漢、辟支佛、菩薩、佛不可得，畢竟淨故。",
+    "folio":6,
+    "stemmed":"須 陀 洹 不 可 得  乃 至 阿 羅 漢  辟 支 佛  菩 薩  佛 不 可 得  畢 竟 淨 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260c17_18",
+    "original":"須陀洹果乃至阿羅漢果、辟支佛道、佛道、一切種智不可得，畢竟淨故。",
+    "folio":6,
+    "stemmed":"須陀洹果 乃 至 阿羅漢果  辟支佛道  佛 道  一切種智 不 可 得  畢 竟 淨 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260c19_3",
+    "original":"不生不滅、不垢不淨、無起無作不可得，畢竟淨故。",
+    "folio":6,
+    "stemmed":"不生不滅  不垢不淨  無 起 無 作 不 可 得  畢 竟 淨 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260c20_6",
+    "original":"過去世未來現在世生住滅不可得，畢竟淨故。",
+    "folio":6,
+    "stemmed":"過 去 世 未來現在 世 生 住 滅 不 可 得  畢 竟 淨 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260c20_17",
+    "original":"增減不可得，畢竟淨故。",
+    "folio":6,
+    "stemmed":"增 減 不 可 得  畢 竟 淨 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260c21_8",
+    "original":"何法不可得故不可得？",
+    "folio":6,
+    "stemmed":"何 法 不 可 得 故 不 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260c24_8",
+    "original":"法性不可得故不可得，如、實際、不可思議性、法相、法位、檀那波羅蜜不可得故不可得，乃至般若波羅蜜不可得故不可得。",
+    "folio":6,
+    "stemmed":"法 性 不 可 得 故 不 可 得  如  實 際  不可思議 性  法 相  法 位  檀 那 波 羅 蜜 不 可 得 故 不 可 得  乃 至 般 若 波 羅 蜜 不 可 得 故 不 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260c25_17",
+    "original":"內空不可得故不可得，乃至無法有法空不可得故不可得。",
+    "folio":6,
+    "stemmed":"內 空 不 可 得 故 不 可 得  乃 至 無法有法空 不 可 得 故 不 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260c27_8",
+    "original":"四念處不可得故不可得，乃至十八不共法不可得故不可得。",
+    "folio":6,
+    "stemmed":"四 念 處 不 可 得 故 不 可 得  乃 至 十八不共法 不 可 得 故 不 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0260c28_13",
+    "original":"須陀洹不可得故不可得，乃至佛不可得故不可得。",
+    "folio":6,
+    "stemmed":"須 陀 洹 不 可 得 故 不 可 得  乃 至 佛 不 可 得 故 不 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261a01_3",
+    "original":"須陀洹果不可得故不可得，乃至佛道不可得故不可得。",
+    "folio":6,
+    "stemmed":"須陀洹果 不 可 得 故 不 可 得  乃 至 佛 道 不 可 得 故 不 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261a02_4",
+    "original":"不生不滅乃至不起不作不可得故不可得。",
+    "folio":6,
+    "stemmed":"不生不滅 乃 至 不 起 不 作 不 可 得 故 不 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261a02_12",
+    "original":"「復次，須菩提！",
+    "folio":6,
+    "stemmed":" 復 次  須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261a04_3",
+    "original":"初地不可得故不可得，乃至第十地不可得故不可得，畢竟淨故。",
+    "folio":6,
+    "stemmed":"初 地 不 可 得 故 不 可 得  乃 至 第 十 地 不 可 得 故 不 可 得  畢 竟 淨 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261a04_13",
+    "original":"云何為初地乃至十地？",
+    "folio":6,
+    "stemmed":"云 何 為 初 地 乃 至 十 地  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261a06_8",
+    "original":"所謂乾慧地、性地、八人地、見地、薄地、離欲地、已作地、辟支佛地、菩薩地、佛地。",
+    "folio":6,
+    "stemmed":"所 謂 乾 慧 地  性 地  八 人 地  見 地  薄 地  離 欲 地  已 作 地  辟支佛地  菩 薩 地  佛 地  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261a07_12",
+    "original":"內空中初地不可得，乃至無法有法空中，初地不可得。",
+    "folio":6,
+    "stemmed":"內 空 中 初 地 不 可 得  乃 至 無法有法空 中  初 地 不 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261a09_9",
+    "original":"內空乃至無法有法空中，第二第三第四第五第六第七第八第九第十地不可得。",
+    "folio":6,
+    "stemmed":"內 空 乃 至 無法有法空 中  第二第三 第 四 第 五 第 六 第 七 第 八 第 九 第 十 地 不 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261a09_13",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261a09_17",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261a11_3",
+    "original":"初地非得非不得，乃至十地非得非不得，畢竟淨故。",
+    "folio":6,
+    "stemmed":"初 地 非 得 非 不 得  乃 至 十 地 非 得 非 不 得  畢 竟 淨 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261a12_8",
+    "original":"內空乃至無法有法空中，成就眾生不可得，畢竟淨故。",
+    "folio":6,
+    "stemmed":"內 空 乃 至 無法有法空 中  成 就 眾 生 不 可 得  畢 竟 淨 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261a13_14",
+    "original":"內空乃至無法有法空中，淨佛國土不可得，畢竟淨故。",
+    "folio":6,
+    "stemmed":"內 空 乃 至 無法有法空 中  淨佛國土 不 可 得  畢 竟 淨 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261a14_18",
+    "original":"內空乃至無法有法空中，五眼不可得，畢竟淨故。",
+    "folio":6,
+    "stemmed":"內 空 乃 至 無法有法空 中  五 眼 不 可 得  畢 竟 淨 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261a15_5",
+    "original":"如是，須菩提！",
+    "folio":6,
+    "stemmed":"如 是  須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261a16_16",
+    "original":"菩薩摩訶薩以一切諸法不可得故，乘是摩訶衍出三界，住薩婆若。",
+    "folio":6,
+    "stemmed":"菩薩摩訶薩 以 一切諸法 不 可 得 故  乘 是 摩 訶 衍 出 三 界  住 薩 婆 若  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261a18_8",
+    "original":"」22 勝出品摩訶般若波羅蜜經勝出品第二十二慧命須菩提白佛言：",
+    "folio":6,
+    "stemmed":" 2 2   勝 出 品 摩訶般若波羅蜜 經 勝 出 品 第 二 十 二 慧 命 須 菩 提 白 佛 言  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261a18_12",
+    "original":"「世尊！",
+    "folio":6,
+    "stemmed":" 世 尊  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261a19_17",
+    "original":"摩訶衍摩訶衍者，勝出一切世間及諸天、人、阿修羅。",
+    "folio":6,
+    "stemmed":"摩 訶 衍 摩 訶 衍 者  勝 出 一切世間 及 諸 天  人  阿 修 羅  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261a19_20",
+    "original":"世尊！",
+    "folio":6,
+    "stemmed":"世 尊  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261a22_4",
+    "original":"是摩訶衍與虛空等，如虛空受無量無邊阿僧祇眾生，摩訶衍亦如是，受無量無邊阿僧祇眾生。",
+    "folio":6,
+    "stemmed":"是 摩 訶 衍 與虛空等  如 虛 空 受 無量無邊 阿 僧 祇 眾 生  摩 訶 衍 亦 如 是  受 無量無邊 阿 僧 祇 眾 生  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261a22_7",
+    "original":"世尊！",
+    "folio":6,
+    "stemmed":"世 尊  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261a24_18",
+    "original":"是摩訶衍不見來處、不見去處、不見住處，是摩訶衍前際不可得、後際不可得、中際不可得，三世等是摩訶衍。",
+    "folio":6,
+    "stemmed":"是 摩 訶 衍 不 見 來 處  不 見 去 處  不 見 住 處  是 摩 訶 衍 前 際 不 可 得  後 際 不 可 得  中 際 不 可 得  三 世 等 是 摩 訶 衍  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261a25_2",
+    "original":"世尊！",
+    "folio":6,
+    "stemmed":"世 尊  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261a25_12",
+    "original":"以是故是乘名摩訶衍。",
+    "folio":6,
+    "stemmed":"以 是 故 是 乘 名 摩 訶 衍  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261a25_19",
+    "original":"」佛告須菩提：",
+    "folio":6,
+    "stemmed":" 佛 告 須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261a26_6",
+    "original":"「如是，如是！",
+    "folio":6,
+    "stemmed":" 如 是  如 是  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261a29_9",
+    "original":"菩薩摩訶薩摩訶衍，所謂六波羅蜜，檀那波羅蜜、尸羅波羅蜜、羼提波羅蜜、毘梨耶波羅蜜、禪那波羅蜜、般若波羅蜜，是名菩薩摩訶薩摩訶衍。",
+    "folio":6,
+    "stemmed":"菩薩摩訶薩 摩 訶 衍  所 謂 六波羅蜜  檀 那 波 羅 蜜  尸 羅 波 羅 蜜  羼 提 波 羅 蜜  毘梨耶波羅蜜  禪 那 波 羅 蜜  般 若 波 羅 蜜  是 名 菩薩摩訶薩 摩 訶 衍  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261a29_16",
+    "original":"復次，須菩提！",
+    "folio":6,
+    "stemmed":"復 次  須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261b03_9",
+    "original":"菩薩摩訶薩摩訶衍，一切陀羅尼門、一切三昧門，所謂首楞嚴三昧乃至離著虛空不染三昧，是名菩薩摩訶薩摩訶衍。",
+    "folio":6,
+    "stemmed":"菩薩摩訶薩 摩 訶 衍  一 切 陀羅尼門  一 切 三 昧 門  所 謂 首楞嚴三昧 乃 至 離 著 虛 空 不 染 三 昧  是 名 菩薩摩訶薩 摩 訶 衍  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261b03_16",
+    "original":"復次，須菩提！",
+    "folio":6,
+    "stemmed":"復 次  須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261b05_9",
+    "original":"菩薩摩訶薩摩訶衍，所謂內空乃至無法有法空，是名菩薩摩訶薩摩訶衍。",
+    "folio":6,
+    "stemmed":"菩薩摩訶薩 摩 訶 衍  所 謂 內 空 乃 至 無法有法空  是 名 菩薩摩訶薩 摩 訶 衍  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261b05_16",
+    "original":"復次，須菩提！",
+    "folio":6,
+    "stemmed":"復 次  須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261b07_10",
+    "original":"菩薩摩訶薩摩訶衍，所謂四念處乃至十八不共法，是名菩薩摩訶薩摩訶衍。",
+    "folio":6,
+    "stemmed":"菩薩摩訶薩 摩 訶 衍  所 謂 四 念 處 乃 至 十八不共法  是 名 菩薩摩訶薩 摩 訶 衍  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261b08_19",
+    "original":"如須菩提所言，是摩訶衍勝出一切世間及諸天、人、阿修羅。",
+    "folio":6,
+    "stemmed":"如 須 菩 提 所 言  是 摩 訶 衍 勝 出 一切世間 及 諸 天  人  阿 修 羅  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261b09_3",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261b11_15",
+    "original":"若欲界當有實、不虛妄、不異諦、不顛倒、有常、不壞相、非無法者，是摩訶衍不能勝出一切世間及諸天、人、阿修羅。",
+    "folio":6,
+    "stemmed":"若 欲 界 當 有 實  不 虛 妄  不 異 諦  不 顛 倒  有 常  不 壞 相  非 無 法 者  是 摩 訶 衍 不 能 勝 出 一切世間 及 諸 天  人  阿 修 羅  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261b11_19",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261b13_5",
+    "original":"以欲界虛妄憶想分別和合名字等，有一切無常想無法。",
+    "folio":6,
+    "stemmed":"以 欲 界 虛 妄 憶想分別 和 合 名 字 等  有 一 切 無 常 想 無 法  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261b14_10",
+    "original":"以是故，摩訶衍勝出一切世間及諸天、人、阿修羅。",
+    "folio":6,
+    "stemmed":"以 是 故  摩 訶 衍 勝 出 一切世間 及 諸 天  人  阿 修 羅  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261b14_14",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261b17_8",
+    "original":"色界、無色界若當實有不虛妄、不異諦、不顛倒、有常、不壞相、非無法者，是摩訶衍不能勝出一切世間及諸天、人、阿修羅。",
+    "folio":6,
+    "stemmed":"色 界  無 色 界 若 當 實 有 不 虛 妄  不 異 諦  不 顛 倒  有 常  不 壞 相  非 無 法 者  是 摩 訶 衍 不 能 勝 出 一切世間 及 諸 天  人  阿 修 羅  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261b17_12",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261b19_2",
+    "original":"以色界、無色界虛妄憶想分別和合名字等，有一切無常破壞相無法。",
+    "folio":6,
+    "stemmed":"以 色 界  無 色 界 虛 妄 憶想分別 和 合 名 字 等  有 一 切 無 常 破 壞 相 無 法  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261b20_5",
+    "original":"以是故，摩訶衍勝出一切世間及諸天、人、阿修羅。",
+    "folio":6,
+    "stemmed":"以 是 故  摩 訶 衍 勝 出 一切世間 及 諸 天  人  阿 修 羅  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261b20_9",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261b22_17",
+    "original":"若色當實有、不虛妄、不異諦、不顛倒、有常、不壞相、非無法者，是摩訶衍不能勝出一切世間及諸天、人、阿修羅。",
+    "folio":6,
+    "stemmed":"若 色 當 實 有  不 虛 妄  不 異 諦  不 顛 倒  有 常  不 壞 相  非 無 法 者  是 摩 訶 衍 不 能 勝 出 一切世間 及 諸 天  人  阿 修 羅  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261b23_1",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261b24_7",
+    "original":"以色虛妄憶想分別和合名字等，有一切無常破壞相無法。",
+    "folio":6,
+    "stemmed":"以 色 虛 妄 憶想分別 和 合 名 字 等  有 一 切 無 常 破 壞 相 無 法  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261b25_13",
+    "original":"以是故，是摩訶衍勝出一切世間及諸天、人、阿修羅。",
+    "folio":6,
+    "stemmed":"以 是 故  是 摩 訶 衍 勝 出 一切世間 及 諸 天  人  阿 修 羅  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261b26_1",
+    "original":"受想行識亦如是。",
+    "folio":6,
+    "stemmed":"受 想 行 識 亦 如 是  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261b26_5",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261c01_17",
+    "original":"若眼乃至意，色乃至法，眼識乃至意識，眼觸乃至意觸，眼觸因緣生受乃至意觸因緣生受，若當實有、不虛妄、不異諦、不顛倒、有常、不壞相、非無法者，是摩訶衍不能勝出一切世間及諸天、人、阿修羅。",
+    "folio":6,
+    "stemmed":"若 眼 乃 至 意  色 乃 至 法  眼 識 乃 至 意 識  眼 觸 乃 至 意 觸  眼 觸 因 緣 生 受 乃 至 意 觸 因 緣 生 受  若 當 實 有  不 虛 妄  不 異 諦  不 顛 倒  有 常  不 壞 相  非 無 法 者  是 摩 訶 衍 不 能 勝 出 一切世間 及 諸 天  人  阿 修 羅  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261c02_2",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261c03_17",
+    "original":"以眼乃至意觸因緣生受虛妄憶想分別和合名字等，有一切無常破壞相無法。",
+    "folio":6,
+    "stemmed":"以 眼 乃 至 意 觸 因 緣 生 受 虛 妄 憶想分別 和 合 名 字 等  有 一 切 無 常 破 壞 相 無 法  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261c05_2",
+    "original":"以是故，摩訶衍勝出一切世間及諸天、人、阿修羅。",
+    "folio":6,
+    "stemmed":"以 是 故  摩 訶 衍 勝 出 一切世間 及 諸 天  人  阿 修 羅  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261c05_6",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261c07_1",
+    "original":"若法性是有法非無法者，是摩訶衍不能勝出一切世間及諸天、人、阿修羅。",
+    "folio":6,
+    "stemmed":"若 法 性 是 有 法 非 無 法 者  是 摩 訶 衍 不 能 勝 出 一切世間 及 諸 天  人  阿 修 羅  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261c07_5",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261c08_18",
+    "original":"以法性無法非法，以是故，摩訶衍勝出一切世間及諸天、人、阿修羅。",
+    "folio":6,
+    "stemmed":"以 法 性 無 法 非 法  以 是 故  摩 訶 衍 勝 出 一切世間 及 諸 天  人  阿 修 羅  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261c09_2",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261c11_7",
+    "original":"若如、實際、不可思議性是有法非無法者，是摩訶衍不能勝出一切世間及諸天、人、阿修羅。",
+    "folio":6,
+    "stemmed":"若 如  實 際  不可思議 性 是 有 法 非 無 法 者  是 摩 訶 衍 不 能 勝 出 一切世間 及 諸 天  人  阿 修 羅  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261c11_11",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261c13_9",
+    "original":"以如、實際、不可思議性無法非法，以是故，摩訶衍勝出一切世間及諸天、人、阿修羅。",
+    "folio":6,
+    "stemmed":"以 如  實 際  不可思議 性 無 法 非 法  以 是 故  摩 訶 衍 勝 出 一切世間 及 諸 天  人  阿 修 羅  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261c13_13",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261c15_13",
+    "original":"若檀那波羅蜜是有法非無法者，是摩訶衍不能勝出一切世間及諸天、人、阿修羅。",
+    "folio":6,
+    "stemmed":"若 檀 那 波 羅 蜜 是 有 法 非 無 法 者  是 摩 訶 衍 不 能 勝 出 一切世間 及 諸 天  人  阿 修 羅  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261c17_10",
+    "original":"以檀那波羅蜜無法非法，以是故，摩訶衍勝出一切世間及諸天、人、阿修羅。",
+    "folio":6,
+    "stemmed":"以 檀 那 波 羅 蜜 無 法 非 法  以 是 故  摩 訶 衍 勝 出 一切世間 及 諸 天  人  阿 修 羅  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261c20_14",
+    "original":"若尸羅波羅蜜、羼提波羅蜜、毘梨耶波羅蜜、禪那波羅蜜、般若波羅蜜是有法非無法者，是摩訶衍不能勝出一切世間及諸天、人、阿修羅。",
+    "folio":6,
+    "stemmed":"若 尸 羅 波 羅 蜜  羼 提 波 羅 蜜  毘梨耶波羅蜜  禪 那 波 羅 蜜  般 若 波 羅 蜜 是 有 法 非 無 法 者  是 摩 訶 衍 不 能 勝 出 一切世間 及 諸 天  人  阿 修 羅  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261c22_16",
+    "original":"以尸羅波羅蜜乃至般若波羅蜜無法非法，以是故，摩訶衍勝出一切世間及諸天、人、阿修羅。",
+    "folio":6,
+    "stemmed":"以 尸 羅 波 羅 蜜 乃 至 般 若 波 羅 蜜 無 法 非 法  以 是 故  摩 訶 衍 勝 出 一切世間 及 諸 天  人  阿 修 羅  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261c22_20",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261c25_3",
+    "original":"若內空乃至無法有法空是有法非無法者，是摩訶衍不能勝出一切世間及諸天、人、阿修羅。",
+    "folio":6,
+    "stemmed":"若 內 空 乃 至 無法有法空 是 有 法 非 無 法 者  是 摩 訶 衍 不 能 勝 出 一切世間 及 諸 天  人  阿 修 羅  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261c27_2",
+    "original":"以內空乃至無法有法空無法非法，以是故，摩訶衍勝出一切世間及諸天、人、阿修羅。",
+    "folio":6,
+    "stemmed":"以 內 空 乃 至 無法有法空 無 法 非 法  以 是 故  摩 訶 衍 勝 出 一切世間 及 諸 天  人  阿 修 羅  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0261c27_6",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262a01_11",
+    "original":"若四念處乃至十八不共法是有法非無法者，是摩訶衍不能勝出一切世間及諸天、人、阿修羅。",
+    "folio":6,
+    "stemmed":"若 四 念 處 乃 至 十八不共法 是 有 法 非 無 法 者  是 摩 訶 衍 不 能 勝 出 一切世間 及 諸 天  人  阿 修 羅  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262a03_12",
+    "original":"以四念處乃至十八不共法無法非法，以是故，摩訶衍勝出一切世間及諸天、人、阿修羅。",
+    "folio":6,
+    "stemmed":"以 四 念 處 乃 至 十八不共法 無 法 非 法  以 是 故  摩 訶 衍 勝 出 一切世間 及 諸 天  人  阿 修 羅  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262a03_16",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262a05_12",
+    "original":"若性人法是有法非無法者，是摩訶衍不能勝出一切世間及諸天、人、阿修羅。",
+    "folio":6,
+    "stemmed":"若 性 人 法 是 有 法 非 無 法 者  是 摩 訶 衍 不 能 勝 出 一切世間 及 諸 天  人  阿 修 羅  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262a07_3",
+    "original":"以性人法無法非法，以是故，摩訶衍勝出一切世間及諸天、人、阿修羅。",
+    "folio":6,
+    "stemmed":"以 性 人 法 無 法 非 法  以 是 故  摩 訶 衍 勝 出 一切世間 及 諸 天  人  阿 修 羅  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262a07_7",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262a10_10",
+    "original":"若八人法、須陀洹法、斯陀含法、阿那含法、阿羅漢法、辟支佛法、佛法是有法非無法者，是摩訶衍不能勝出一切世間及諸天、人、阿修羅。",
+    "folio":6,
+    "stemmed":"若 八 人 法  須 陀 洹 法  斯 陀 含 法  阿 那 含 法  阿 羅 漢 法  辟 支 佛 法  佛 法 是 有 法 非 無 法 者  是 摩 訶 衍 不 能 勝 出 一切世間 及 諸 天  人  阿 修 羅  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262a12_8",
+    "original":"以八人法乃至佛法無法非法，以是故，摩訶衍勝出一切世間及諸天、人、阿修羅。",
+    "folio":6,
+    "stemmed":"以 八 人 法 乃 至 佛 法 無 法 非 法  以 是 故  摩 訶 衍 勝 出 一切世間 及 諸 天  人  阿 修 羅  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262a12_12",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262a14_9",
+    "original":"若性地人是有法非無法者，是摩訶衍不能勝出一切世間及諸天、人、阿修羅。",
+    "folio":6,
+    "stemmed":"若 性 地 人 是 有 法 非 無 法 者  是 摩 訶 衍 不 能 勝 出 一切世間 及 諸 天  人  阿 修 羅  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262a16_1",
+    "original":"以性地人無法非法，以是故，摩訶衍勝出一切世間及諸天、人、阿修羅。",
+    "folio":6,
+    "stemmed":"以 性 地 人 無 法 非 法  以 是 故  摩 訶 衍 勝 出 一切世間 及 諸 天  人  阿 修 羅  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262a16_5",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262a18_10",
+    "original":"若八人法、須陀洹乃至佛是有法非無法者，是摩訶衍不能勝出一切世間及諸天、人、阿修羅。",
+    "folio":6,
+    "stemmed":"若 八 人 法  須 陀 洹 乃 至 佛 是 有 法 非 無 法 者  是 摩 訶 衍 不 能 勝 出 一切世間 及 諸 天  人  阿 修 羅  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262a20_3",
+    "original":"以八人乃至佛無法非法，以是故，摩訶衍勝出一切世間及諸天、人、阿修羅。",
+    "folio":6,
+    "stemmed":"以 八 人 乃 至 佛 無 法 非 法  以 是 故  摩 訶 衍 勝 出 一切世間 及 諸 天  人  阿 修 羅  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262a20_7",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262a22_14",
+    "original":"若一切世間及諸天、人、阿修羅是有法非無法者，是摩訶衍不能勝出一切世間及諸天、人、阿修羅。",
+    "folio":6,
+    "stemmed":"若 一切世間 及 諸 天  人  阿 修 羅 是 有 法 非 無 法 者  是 摩 訶 衍 不 能 勝 出 一切世間 及 諸 天  人  阿 修 羅  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262a24_15",
+    "original":"以一切世間及諸天人阿修羅無法非法，以是故，摩訶衍勝出一切世間及諸天、人、阿修羅。",
+    "folio":6,
+    "stemmed":"以 一切世間 及 諸 天 人 阿 修 羅 無 法 非 法  以 是 故  摩 訶 衍 勝 出 一切世間 及 諸 天  人  阿 修 羅  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262a24_19",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262a27_16",
+    "original":"若菩薩摩訶薩從初發心乃至道場，於其中間諸心若是有法非無法者，是摩訶衍不能勝出一切世間及諸天、人、阿修羅。",
+    "folio":6,
+    "stemmed":"若 菩薩摩訶薩 從 初 發 心 乃 至 道 場  於其中間 諸 心 若 是 有 法 非 無 法 者  是 摩 訶 衍 不 能 勝 出 一切世間 及 諸 天  人  阿 修 羅  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262b02_7",
+    "original":"以菩薩從初發心乃至道場，於其中間諸心無法非法，以是故，摩訶衍勝出一切世間及諸天、人、阿修羅。",
+    "folio":6,
+    "stemmed":"以 菩 薩 從 初 發 心 乃 至 道 場  於其中間 諸 心 無 法 非 法  以 是 故  摩 訶 衍 勝 出 一切世間 及 諸 天  人  阿 修 羅  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262b02_11",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262b04_17",
+    "original":"若菩薩摩訶薩如金剛慧是有法非無法者，是菩薩摩訶薩不能知一切結使及習，無法非法得一切種智。",
+    "folio":6,
+    "stemmed":"若 菩薩摩訶薩 如 金 剛 慧 是 有 法 非 無 法 者  是 菩薩摩訶薩 不 能 知 一 切 結 使 及 習  無 法 非 法 得 一切種智  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262b05_3",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262b07_5",
+    "original":"以菩薩摩訶薩如金剛慧無法非法，是故菩薩知一切結使及習無法非法，得一切種智。",
+    "folio":6,
+    "stemmed":"以 菩薩摩訶薩 如 金 剛 慧 無 法 非 法  是 故 菩 薩 知 一 切 結 使 及 習 無 法 非 法  得 一切種智  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262b08_10",
+    "original":"以是故，摩訶衍勝出一切世間及諸天、人、阿修羅。",
+    "folio":6,
+    "stemmed":"以 是 故  摩 訶 衍 勝 出 一切世間 及 諸 天  人  阿 修 羅  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262b08_14",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262b10_15",
+    "original":"若諸佛三十二相是有法非無法者，諸佛威德不能照然勝出一切世間及諸天、人、阿修羅。",
+    "folio":6,
+    "stemmed":"若 諸 佛 三十二相 是 有 法 非 無 法 者  諸 佛 威 德 不 能 照 然 勝 出 一切世間 及 諸 天  人  阿 修 羅  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262b10_19",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262b12_17",
+    "original":"以諸佛三十二相無法非法，以是故，諸佛威德照然勝出一切世間及諸天、人、阿修羅。",
+    "folio":6,
+    "stemmed":"以 諸 佛 三十二相 無 法 非 法  以 是 故  諸 佛 威 德 照 然 勝 出 一切世間 及 諸 天  人  阿 修 羅  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262b13_1",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262b14_12",
+    "original":"若諸佛光明是有法非無法者，諸佛光明不能普照如恒河沙等國土。",
+    "folio":6,
+    "stemmed":"若 諸 佛 光 明 是 有 法 非 無 法 者  諸 佛 光 明 不 能 普 照 如 恒 河 沙 等 國 土  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262b14_16",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262b16_11",
+    "original":"以諸佛光明無法非法，以是故，諸佛能以光明普照如恒河沙等國土。",
+    "folio":6,
+    "stemmed":"以 諸 佛 光 明 無 法 非 法  以 是 故  諸 佛 能 以 光明普照 如 恒 河 沙 等 國 土  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262b16_15",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262b19_6",
+    "original":"若諸佛六十種莊嚴音聲是有法非無法者，諸佛不能以六十種莊嚴音聲遍至十方無量阿僧祇國土。",
+    "folio":6,
+    "stemmed":"若 諸 佛 六 十 種 莊 嚴 音 聲 是 有 法 非 無 法 者  諸 佛 不 能 以 六 十 種 莊 嚴 音 聲 遍 至 十 方 無量阿僧祇 國 土  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262b19_10",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262b21_15",
+    "original":"以諸佛六十種莊嚴音聲無法非法，以是故，諸佛能以六十種莊嚴音聲遍至十方無量阿僧祇國土。",
+    "folio":6,
+    "stemmed":"以 諸 佛 六 十 種 莊 嚴 音 聲 無 法 非 法  以 是 故  諸 佛 能 以 六 十 種 莊 嚴 音 聲 遍 至 十 方 無量阿僧祇 國 土  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262b22_1",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262b24_12",
+    "original":"諸佛法輪若當是有法非無法者，諸佛不能轉法輪，諸沙門、婆羅門，若天、若魔、若梵及世間餘眾所不能如法轉者。",
+    "folio":6,
+    "stemmed":"諸 佛 法 輪 若 當 是 有 法 非 無 法 者  諸 佛 不 能 轉 法 輪  諸 沙 門  婆 羅 門  若 天  若 魔  若 梵 及 世 間 餘 眾 所 不 能 如 法 轉 者  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262b24_16",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262b27_6",
+    "original":"以諸佛法輪無法非法，以是故，諸佛轉法輪，諸沙門、婆羅門，若天、若魔、若梵及世間餘眾不能如法轉者。",
+    "folio":6,
+    "stemmed":"以 諸 佛 法 輪 無 法 非 法  以 是 故  諸 佛 轉 法 輪  諸 沙 門  婆 羅 門  若 天  若 魔  若 梵 及 世 間 餘 眾 不 能 如 法 轉 者  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262b27_10",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262b29_13",
+    "original":"諸佛為眾生轉法輪，是眾生若實有法非無法者，不能令是眾生於無餘涅槃而般涅槃。",
+    "folio":6,
+    "stemmed":"諸 佛 為 眾 生 轉 法 輪  是 眾 生 若 實 有 法 非 無 法 者  不 能 令 是 眾 生 於 無餘涅槃 而 般 涅 槃  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262b29_17",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262c03_3",
+    "original":"以諸佛為眾生轉法輪，是眾生無法非法，以是故，能令眾生於無餘涅槃中，已滅今滅當滅。",
+    "folio":6,
+    "stemmed":"以 諸 佛 為 眾 生 轉 法 輪  是 眾 生 無 法 非 法  以 是 故  能 令 眾 生 於 無餘涅槃 中  已 滅 今 滅 當 滅  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262c06_5",
+    "original":"」佛告須菩提：",
+    "folio":6,
+    "stemmed":" 佛 告 須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262c06_14",
+    "original":"「汝所言衍與空等。",
+    "folio":6,
+    "stemmed":" 汝 所 言 衍 與 空 等  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262c06_20",
+    "original":"如是，如是！",
+    "folio":6,
+    "stemmed":"如 是  如 是  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262c07_3",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262c07_11",
+    "original":"摩訶衍與虛空等。",
+    "folio":6,
+    "stemmed":"摩 訶 衍 與虛空等  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262c07_15",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262c08_16",
+    "original":"如虛空無東方，無南方西方北方四維上下。",
+    "folio":6,
+    "stemmed":"如 虛 空 無 東 方  無 南 方 西 方 北 方 四 維 上 下  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262c09_1",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262c10_5",
+    "original":"摩訶衍亦如是，無東方，無南方西方北方四維上下。",
+    "folio":6,
+    "stemmed":"摩 訶 衍 亦 如 是  無 東 方  無 南 方 西 方 北 方 四 維 上 下  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262c10_9",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262c11_3",
+    "original":"如虛空非長非短、非方非圓。",
+    "folio":6,
+    "stemmed":"如 虛 空 非 長 非 短  非 方 非 圓  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262c11_7",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262c12_4",
+    "original":"摩訶衍亦如是，非長非短、非方非圓。",
+    "folio":6,
+    "stemmed":"摩 訶 衍 亦 如 是  非 長 非 短  非 方 非 圓  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262c12_8",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262c13_5",
+    "original":"如虛空非青非黃非赤非白非黑。",
+    "folio":6,
+    "stemmed":"如 虛 空 非 青 非 黃 非 赤 非 白 非 黑  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262c14_5",
+    "original":"摩訶衍亦如是，非青非黃非赤非白非黑。",
+    "folio":6,
+    "stemmed":"摩 訶 衍 亦 如 是  非 青 非 黃 非 赤 非 白 非 黑  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262c14_17",
+    "original":"以是故，說摩訶衍與空等。",
+    "folio":6,
+    "stemmed":"以 是 故  說 摩 訶 衍 與 空 等  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262c15_3",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262c15_18",
+    "original":"如虛空非過去、非未來、非現在。",
+    "folio":6,
+    "stemmed":"如 虛 空 非 過 去  非 未 來  非 現 在  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262c16_17",
+    "original":"摩訶衍亦如是，非過去、非未來、非現在。",
+    "folio":6,
+    "stemmed":"摩 訶 衍 亦 如 是  非 過 去  非 未 來  非 現 在  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262c17_10",
+    "original":"以是故，說摩訶衍與空等。",
+    "folio":6,
+    "stemmed":"以 是 故  說 摩 訶 衍 與 空 等  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262c17_14",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262c18_3",
+    "original":"如虛空不增不減。",
+    "folio":6,
+    "stemmed":"如 虛 空 不增不減  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262c18_17",
+    "original":"摩訶衍亦如是，亦不增亦不減。",
+    "folio":6,
+    "stemmed":"摩 訶 衍 亦 如 是  亦 不 增 亦 不 減  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262c19_3",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262c19_11",
+    "original":"如虛空無垢無淨。",
+    "folio":6,
+    "stemmed":"如 虛 空 無 垢 無 淨  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262c20_4",
+    "original":"摩訶衍亦如是，無垢無淨。",
+    "folio":6,
+    "stemmed":"摩 訶 衍 亦 如 是  無 垢 無 淨  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262c20_8",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262c21_2",
+    "original":"如虛空無生無滅、無住無異。",
+    "folio":6,
+    "stemmed":"如 虛 空 無生無滅  無 住 無 異  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262c21_19",
+    "original":"摩訶衍亦如是，無生無滅、無住無異。",
+    "folio":6,
+    "stemmed":"摩 訶 衍 亦 如 是  無生無滅  無 住 無 異  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262c22_3",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262c22_18",
+    "original":"如虛空非善非不善、非記非無記。",
+    "folio":6,
+    "stemmed":"如 虛 空 非 善 非 不 善  非 記 非 無 記  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262c23_18",
+    "original":"摩訶衍亦如是，非善非不善、非記非無記。",
+    "folio":6,
+    "stemmed":"摩 訶 衍 亦 如 是  非 善 非 不 善  非 記 非 無 記  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262c24_11",
+    "original":"以是故，說摩訶衍與空等。",
+    "folio":6,
+    "stemmed":"以 是 故  說 摩 訶 衍 與 空 等  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262c25_6",
+    "original":"如虛空無見無聞、無覺無識。",
+    "folio":6,
+    "stemmed":"如 虛 空 無 見 無 聞  無 覺 無 識  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262c26_3",
+    "original":"摩訶衍亦如是，無見無聞、無覺無識。",
+    "folio":6,
+    "stemmed":"摩 訶 衍 亦 如 是  無 見 無 聞  無 覺 無 識  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262c27_9",
+    "original":"如虛空不可知不可識不可見、不可斷不可證不可修。",
+    "folio":6,
+    "stemmed":"如 虛 空 不 可 知 不 可 識 不 可 見  不 可 斷 不 可 證 不 可 修  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262c29_4",
+    "original":"摩訶衍亦如是，不可知不可識不可見、不可斷不可證不可修。",
+    "folio":6,
+    "stemmed":"摩 訶 衍 亦 如 是  不 可 知 不 可 識 不 可 見  不 可 斷 不 可 證 不 可 修  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0262c29_16",
+    "original":"以是故，說摩訶衍與空等。",
+    "folio":6,
+    "stemmed":"以 是 故  說 摩 訶 衍 與 空 等  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263a01_8",
+    "original":"如虛空非染相非離相。",
+    "folio":6,
+    "stemmed":"如 虛 空 非 染 相 非 離 相  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263a02_4",
+    "original":"摩訶衍亦如是，非染相非離相。",
+    "folio":6,
+    "stemmed":"摩 訶 衍 亦 如 是  非 染 相 非 離 相  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263a03_5",
+    "original":"如虛空不繫欲界、不繫色界、不繫無色界。",
+    "folio":6,
+    "stemmed":"如 虛 空 不 繫 欲 界  不 繫 色 界  不 繫 無 色 界  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263a04_9",
+    "original":"摩訶衍亦如是，不繫欲界、不繫色界、不繫無色界。",
+    "folio":6,
+    "stemmed":"摩 訶 衍 亦 如 是  不 繫 欲 界  不 繫 色 界  不 繫 無 色 界  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263a05_13",
+    "original":"如虛空無初發心亦無二三四五六七八九第十心。",
+    "folio":6,
+    "stemmed":"如 虛 空 無 初 發 心 亦 無 二 三 四 五 六 七 八 九 第 十 心  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263a06_13",
+    "original":"摩訶衍亦如是，無初發心乃至無第十心。",
+    "folio":6,
+    "stemmed":"摩 訶 衍 亦 如 是  無 初 發 心 乃 至 無 第 十 心  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263a08_2",
+    "original":"如虛空無乾慧地、性人地、八人地、見地、薄地、離欲地、已作地。",
+    "folio":6,
+    "stemmed":"如 虛 空 無 乾 慧 地  性 人 地  八 人 地  見 地  薄 地  離 欲 地  已 作 地  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263a09_2",
+    "original":"摩訶衍亦如是，無乾慧地乃至已辦地。",
+    "folio":6,
+    "stemmed":"摩 訶 衍 亦 如 是  無 乾 慧 地 乃 至 已 辦 地  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263a10_10",
+    "original":"如虛空無須陀洹果、無斯陀含果、無阿那含果、無阿羅漢果。",
+    "folio":6,
+    "stemmed":"如 虛 空 無 須陀洹果  無 斯陀含果  無 阿那含果  無 阿羅漢果  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263a11_11",
+    "original":"摩訶衍亦如是，無須陀洹果乃至無阿羅漢果。",
+    "folio":6,
+    "stemmed":"摩 訶 衍 亦 如 是  無 須陀洹果 乃 至 無 阿羅漢果  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263a12_11",
+    "original":"如虛空無聲聞地、無辟支佛地、無佛地。",
+    "folio":6,
+    "stemmed":"如 虛 空 無 聲 聞 地  無 辟支佛地  無 佛 地  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263a13_7",
+    "original":"摩訶衍亦如是，無聲聞地乃至佛地。",
+    "folio":6,
+    "stemmed":"摩 訶 衍 亦 如 是  無 聲 聞 地 乃 至 佛 地  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263a14_3",
+    "original":"以是故，說摩訶衍與虛空等。",
+    "folio":6,
+    "stemmed":"以 是 故  說 摩 訶 衍 與虛空等  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263a15_16",
+    "original":"如虛空非色非無色、非可見非不可見、非有對非無對、非合非散。",
+    "folio":6,
+    "stemmed":"如 虛 空 非 色 非 無 色  非 可 見 非 不 可 見  非 有 對 非 無 對  非 合 非 散  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263a17_14",
+    "original":"摩訶衍亦如是，非色非無色、非可見非不可見、非有對非無對、非合非散。",
+    "folio":6,
+    "stemmed":"摩 訶 衍 亦 如 是  非 色 非 無 色  非 可 見 非 不 可 見  非 有 對 非 無 對  非 合 非 散  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263a18_7",
+    "original":"以是故，說摩訶衍與空等。",
+    "folio":6,
+    "stemmed":"以 是 故  說 摩 訶 衍 與 空 等  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263a18_11",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263a19_13",
+    "original":"如虛空非常非無常、非樂非苦、非我非無我。",
+    "folio":6,
+    "stemmed":"如 虛 空 非常非無常  非 樂 非 苦  非 我 非 無 我  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263a20_18",
+    "original":"摩訶衍亦如是，非常非無常、非樂非苦、非我非無我。",
+    "folio":6,
+    "stemmed":"摩 訶 衍 亦 如 是  非常非無常  非 樂 非 苦  非 我 非 無 我  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263a21_11",
+    "original":"以是故，說摩訶衍與空等。",
+    "folio":6,
+    "stemmed":"以 是 故  說 摩 訶 衍 與 空 等  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263a21_15",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263a22_17",
+    "original":"如虛空非空非不空、非相非無相、非作非無作。",
+    "folio":6,
+    "stemmed":"如 虛 空 非 空 非 不 空  非 相 非 無 相  非 作 非 無 作  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263a24_5",
+    "original":"摩訶衍亦如是，非空非不空、非相非無相、非作非無作。",
+    "folio":6,
+    "stemmed":"摩 訶 衍 亦 如 是  非 空 非 不 空  非 相 非 無 相  非 作 非 無 作  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263a24_17",
+    "original":"以是故，說摩訶衍與空等。",
+    "folio":6,
+    "stemmed":"以 是 故  說 摩 訶 衍 與 空 等  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263a25_3",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263a26_2",
+    "original":"如虛空非寂滅非不寂滅、非離非不離。",
+    "folio":6,
+    "stemmed":"如 虛 空 非 寂 滅 非 不 寂 滅  非 離 非 不 離  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263a27_4",
+    "original":"摩訶衍亦如是，非寂滅非不寂滅、非離非不離。",
+    "folio":6,
+    "stemmed":"摩 訶 衍 亦 如 是  非 寂 滅 非 不 寂 滅  非 離 非 不 離  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263a27_16",
+    "original":"以是故，說摩訶衍與空等。",
+    "folio":6,
+    "stemmed":"以 是 故  說 摩 訶 衍 與 空 等  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263a28_2",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263a28_10",
+    "original":"如虛空非闇非明。",
+    "folio":6,
+    "stemmed":"如 虛 空 非 闇 非 明  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263a29_4",
+    "original":"摩訶衍亦如是，非闇非明。",
+    "folio":6,
+    "stemmed":"摩 訶 衍 亦 如 是  非 闇 非 明  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263a29_16",
+    "original":"以是故，說摩訶衍與空等。",
+    "folio":6,
+    "stemmed":"以 是 故  說 摩 訶 衍 與 空 等  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263b01_2",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263b01_13",
+    "original":"如虛空非可得非不可得。",
+    "folio":6,
+    "stemmed":"如 虛 空 非 可 得 非 不 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263b02_10",
+    "original":"摩訶衍亦如是，非可得非不可得。",
+    "folio":6,
+    "stemmed":"摩 訶 衍 亦 如 是  非 可 得 非 不 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263b03_4",
+    "original":"以是故，說摩訶衍與空等。",
+    "folio":6,
+    "stemmed":"以 是 故  說 摩 訶 衍 與 空 等  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263b03_8",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263b04_1",
+    "original":"如虛空非可說非不可說。",
+    "folio":6,
+    "stemmed":"如 虛 空 非 可 說 非 不 可 說  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263b04_16",
+    "original":"摩訶衍亦如是，非可說非不可說。",
+    "folio":6,
+    "stemmed":"摩 訶 衍 亦 如 是  非 可 說 非 不 可 說  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263b05_9",
+    "original":"以是故，說摩訶衍與空等。",
+    "folio":6,
+    "stemmed":"以 是 故  說 摩 訶 衍 與 空 等  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263b05_13",
+    "original":"須菩提。",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263b06_2",
+    "original":"以是諸因緣故。",
+    "folio":6,
+    "stemmed":"以 是 諸 因 緣 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263b06_10",
+    "original":"說摩訶衍與空等。",
+    "folio":6,
+    "stemmed":"說 摩 訶 衍 與 空 等  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263b06_14",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263b07_1",
+    "original":"如汝所言：",
+    "folio":6,
+    "stemmed":"如 汝 所 言  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263b08_11",
+    "original":"『如虛空受無量無邊阿僧祇眾生，摩訶衍亦受無量無邊阿僧祇眾生。",
+    "folio":6,
+    "stemmed":" 如 虛 空 受 無量無邊 阿 僧 祇 眾 生  摩 訶 衍 亦 受 無量無邊 阿 僧 祇 眾 生  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263b08_18",
+    "original":"』如是，如是！",
+    "folio":6,
+    "stemmed":" 如 是  如 是  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263b09_2",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263b09_15",
+    "original":"眾生無有故，當知虛空無有。",
+    "folio":6,
+    "stemmed":"眾 生 無 有 故  當 知 虛 空 無 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263b10_12",
+    "original":"虛空無有故，當知摩訶衍亦無有。",
+    "folio":6,
+    "stemmed":"虛 空 無 有 故  當 知 摩 訶 衍 亦 無 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263b11_13",
+    "original":"以是因緣故，摩訶衍受無量無邊阿僧祇眾生。",
+    "folio":6,
+    "stemmed":"以是因緣 故  摩 訶 衍 受 無量無邊 阿 僧 祇 眾 生  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263b11_17",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263b12_17",
+    "original":"是眾生、虛空、摩訶衍，是法皆不可得故。",
+    "folio":6,
+    "stemmed":"是 眾 生  虛 空  摩 訶 衍  是 法 皆 不 可 得 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263b13_3",
+    "original":"「復次，須菩提！",
+    "folio":6,
+    "stemmed":" 復 次  須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263b14_2",
+    "original":"摩訶衍無所有故，當知阿僧祇無所有。",
+    "folio":6,
+    "stemmed":"摩 訶 衍 無 所 有 故  當 知 阿 僧 祇 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263b14_18",
+    "original":"阿僧祇無所有故，當知無量無所有。",
+    "folio":6,
+    "stemmed":"阿 僧 祇 無 所 有 故  當 知 無 量 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263b15_14",
+    "original":"無量無所有故，當知無邊無所有。",
+    "folio":6,
+    "stemmed":"無 量 無 所 有 故  當 知 無 邊 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263b18_3",
+    "original":"無邊無祇眾生。",
+    "folio":6,
+    "stemmed":"無 邊 無 祇 眾 生  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263b18_7",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263b19_14",
+    "original":"是眾生、虛空、摩訶衍、阿僧祇、無量、無邊，是一切法不可得故。",
+    "folio":6,
+    "stemmed":"是 眾 生  虛 空  摩 訶 衍  阿 僧 祇  無 量  無 邊  是 一 切 法 不 可 得 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263b20_1",
+    "original":"「復次，須菩提！",
+    "folio":6,
+    "stemmed":" 復 次  須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263b21_11",
+    "original":"我無所有乃至知者、見者無所有故，當知如、法、性實際無所有。",
+    "folio":6,
+    "stemmed":"我 無 所 有 乃 至 知 者  見 者 無 所 有 故  當 知 如  法  性 實 際 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263b22_19",
+    "original":"如、法性、實際無所有故，當知乃至無量，無邊，阿僧祇無所有。",
+    "folio":6,
+    "stemmed":"如  法 性  實 際 無 所 有 故  當 知 乃 至 無 量  無 邊  阿 僧 祇 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263b24_3",
+    "original":"無量，無邊，阿僧祇無所有故，當知一切法無所有。",
+    "folio":6,
+    "stemmed":"無 量  無 邊  阿 僧 祇 無 所 有 故  當 知一切法 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263b24_13",
+    "original":"以是因緣故，須菩提！",
+    "folio":6,
+    "stemmed":"以是因緣 故  須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263b25_10",
+    "original":"是摩訶衍受無量無邊阿僧祇眾生。",
+    "folio":6,
+    "stemmed":"是 摩 訶 衍 受 無量無邊 阿 僧 祇 眾 生  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263b25_14",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263b27_8",
+    "original":"是眾生乃至知者、見者、實際，乃至無量、無邊、阿僧祇，是一切法不可得故。",
+    "folio":6,
+    "stemmed":"是 眾 生 乃 至 知 者  見 者  實 際  乃 至 無 量  無 邊  阿 僧 祇  是 一 切 法 不 可 得 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263b27_16",
+    "original":"「復次，須菩提！",
+    "folio":6,
+    "stemmed":" 復 次  須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263b29_5",
+    "original":"我無所有乃至知者、見者無所有故，當知不可思議性無所有。",
+    "folio":6,
+    "stemmed":"我 無 所 有 乃 至 知 者  見 者 無 所 有 故  當 知 不可思議 性 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263c01_8",
+    "original":"不可思議性無所有故，當知色受想行識無所有。",
+    "folio":6,
+    "stemmed":"不可思議 性 無 所 有 故  當 知 色 受 想 行 識 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263c02_9",
+    "original":"色受想行識無所有故，當知虛空無所有。",
+    "folio":6,
+    "stemmed":"色 受 想 行 識 無 所 有 故  當 知 虛 空無所有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263c03_7",
+    "original":"虛空無所有故，當知摩訶衍無所有。",
+    "folio":6,
+    "stemmed":"虛 空無所有 故  當 知 摩 訶 衍 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263c04_6",
+    "original":"摩訶衍無所有故，當知阿僧祇無所有。",
+    "folio":6,
+    "stemmed":"摩 訶 衍 無 所 有 故  當 知 阿 僧 祇 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263c05_4",
+    "original":"阿僧祇無所有故，當知無量無所有。",
+    "folio":6,
+    "stemmed":"阿 僧 祇 無 所 有 故  當 知 無 量 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263c06_1",
+    "original":"無量無所有故，當知無邊無所有。",
+    "folio":6,
+    "stemmed":"無 量 無 所 有 故  當 知 無 邊 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263c06_18",
+    "original":"無邊無所有故，當知一切諸法無所有。",
+    "folio":6,
+    "stemmed":"無 邊 無 所 有 故  當 知 一切諸法 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263c07_9",
+    "original":"以是因緣故，須菩提！",
+    "folio":6,
+    "stemmed":"以是因緣 故  須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263c08_8",
+    "original":"當知摩訶衍受無量無邊阿僧祇眾生。",
+    "folio":6,
+    "stemmed":"當 知 摩 訶 衍 受 無量無邊 阿 僧 祇 眾 生  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263c08_12",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263c08_16",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263c09_14",
+    "original":"我乃至知者、見者等一切法皆不可得故。",
+    "folio":6,
+    "stemmed":"我 乃 至 知 者  見 者 等 一 切 法 皆 不 可 得 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263c10_1",
+    "original":"「復次，須菩提！",
+    "folio":6,
+    "stemmed":" 復 次  須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263c11_14",
+    "original":"我無所有乃至知者、見者無所有故，當知眼無所有，耳鼻舌身意無所有。",
+    "folio":6,
+    "stemmed":"我 無 所 有 乃 至 知 者  見 者 無 所 有 故  當 知 眼 無 所 有  耳 鼻 舌 身 意 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263c12_12",
+    "original":"眼乃至意無所有故，當知虛空無所有。",
+    "folio":6,
+    "stemmed":"眼 乃 至 意 無 所 有 故  當 知 虛 空無所有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263c13_10",
+    "original":"虛空無所有故，當知摩訶衍無所有。",
+    "folio":6,
+    "stemmed":"虛 空無所有 故  當 知 摩 訶 衍 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263c14_8",
+    "original":"摩訶衍無所有故，當知阿僧祇無所有。",
+    "folio":6,
+    "stemmed":"摩 訶 衍 無 所 有 故  當 知 阿 僧 祇 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263c15_6",
+    "original":"阿僧祇無所有故，當知無量無所有。",
+    "folio":6,
+    "stemmed":"阿 僧 祇 無 所 有 故  當 知 無 量 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263c16_3",
+    "original":"無量無所有故，當知無邊無所有。",
+    "folio":6,
+    "stemmed":"無 量 無 所 有 故  當 知 無 邊 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263c17_2",
+    "original":"無邊無所有故，當知一切諸法無所有。",
+    "folio":6,
+    "stemmed":"無 邊 無 所 有 故  當 知 一切諸法 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263c17_12",
+    "original":"以是因緣故，須菩提！",
+    "folio":6,
+    "stemmed":"以是因緣 故  須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263c18_7",
+    "original":"摩訶衍受無量無邊阿僧祇眾生。",
+    "folio":6,
+    "stemmed":"摩 訶 衍 受 無量無邊 阿 僧 祇 眾 生  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263c18_11",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263c18_15",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263c19_8",
+    "original":"我乃至一切諸法皆不可得故。",
+    "folio":6,
+    "stemmed":"我 乃 至 一切諸法 皆 不 可 得 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263c19_16",
+    "original":"「復次，須菩提！",
+    "folio":6,
+    "stemmed":" 復 次  須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263c22_19",
+    "original":"我無所有乃至知者、見者無所有故，當知檀那波羅蜜無所有，尸羅波羅蜜、羼提波羅蜜、毘梨耶波羅蜜、禪那波羅蜜、般若波羅蜜無所有。",
+    "folio":6,
+    "stemmed":"我 無 所 有 乃 至 知 者  見 者 無 所 有 故  當 知 檀 那 波 羅 蜜 無 所 有  尸 羅 波 羅 蜜  羼 提 波 羅 蜜  毘梨耶波羅蜜  禪 那 波 羅 蜜  般 若 波 羅 蜜 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263c23_17",
+    "original":"般若波羅蜜無所有故，當知虛空無所有。",
+    "folio":6,
+    "stemmed":"般 若 波 羅 蜜 無 所 有 故  當 知 虛 空無所有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263c24_15",
+    "original":"虛空無所有故，當知摩訶衍無所有。",
+    "folio":6,
+    "stemmed":"虛 空無所有 故  當 知 摩 訶 衍 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263c26_1",
+    "original":"摩訶衍無所有故，當知無量無邊阿僧祇無所有。",
+    "folio":6,
+    "stemmed":"摩 訶 衍 無 所 有 故  當 知 無量無邊 阿 僧 祇 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263c27_4",
+    "original":"無量無邊阿僧祇無所有故，當知一切諸法無所有。",
+    "folio":6,
+    "stemmed":"無量無邊 阿 僧 祇 無 所 有 故  當 知 一切諸法 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263c27_14",
+    "original":"以是因緣故，須菩提！",
+    "folio":6,
+    "stemmed":"以是因緣 故  須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263c28_10",
+    "original":"是摩訶衍受無量無邊阿僧祇眾生。",
+    "folio":6,
+    "stemmed":"是 摩 訶 衍 受 無量無邊 阿 僧 祇 眾 生  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263c28_14",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263c29_10",
+    "original":"我、眾生乃至一切諸法皆不可得故。",
+    "folio":6,
+    "stemmed":"我  眾 生 乃 至 一切諸法 皆 不 可 得 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0263c29_18",
+    "original":"「復次，須菩提！",
+    "folio":6,
+    "stemmed":" 復 次  須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264a02_14",
+    "original":"我無所有乃至知者、見者無所有故，當知內空無所有，乃至無法有法空無所有。",
+    "folio":6,
+    "stemmed":"我 無 所 有 乃 至 知 者  見 者 無 所 有 故  當 知 內 空無所有  乃 至 無法有法空 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264a03_13",
+    "original":"無法有法空無所有故，當知虛空無所有。",
+    "folio":6,
+    "stemmed":"無法有法空 無 所 有 故  當 知 虛 空無所有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264a04_11",
+    "original":"虛空無所有故，當知摩訶衍無所有。",
+    "folio":6,
+    "stemmed":"虛 空無所有 故  當 知 摩 訶 衍 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264a05_14",
+    "original":"摩訶衍無所有故，當知阿僧祇無量無邊無所有。",
+    "folio":6,
+    "stemmed":"摩 訶 衍 無 所 有 故  當 知 阿 僧 祇 無量無邊 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264a06_17",
+    "original":"阿僧祇無量無邊無所有故，當知一切諸法無所有。",
+    "folio":6,
+    "stemmed":"阿 僧 祇 無量無邊 無 所 有 故  當 知 一切諸法 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264a07_9",
+    "original":"以是因緣故，須菩提！",
+    "folio":6,
+    "stemmed":"以是因緣 故  須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264a08_6",
+    "original":"是摩訶衍受無量無邊阿僧祇眾生。",
+    "folio":6,
+    "stemmed":"是 摩 訶 衍 受 無量無邊 阿 僧 祇 眾 生  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264a08_10",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264a09_6",
+    "original":"我、眾生乃至一切諸法皆不可得故。",
+    "folio":6,
+    "stemmed":"我  眾 生 乃 至 一切諸法 皆 不 可 得 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264a09_14",
+    "original":"「復次，須菩提。",
+    "folio":6,
+    "stemmed":" 復 次  須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264a10_18",
+    "original":"我、眾生乃至知者、見者無所有故，當知四念處無所有。",
+    "folio":6,
+    "stemmed":"我  眾 生 乃 至 知 者  見 者 無 所 有 故  當 知 四 念 處 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264a12_1",
+    "original":"四念處無所有故，乃至十八不共法無所有。",
+    "folio":6,
+    "stemmed":"四 念 處 無 所 有 故  乃 至 十八不共法 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264a13_1",
+    "original":"十八不共法無所有故，當知虛空無所有。",
+    "folio":6,
+    "stemmed":"十八不共法 無 所 有 故  當 知 虛 空無所有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264a13_17",
+    "original":"虛空無所有故，當知摩訶衍無所有。",
+    "folio":6,
+    "stemmed":"虛 空無所有 故  當 知 摩 訶 衍 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264a15_2",
+    "original":"摩訶衍無所有故，當知阿僧祇無量無邊無所有。",
+    "folio":6,
+    "stemmed":"摩 訶 衍 無 所 有 故  當 知 阿 僧 祇 無量無邊 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264a16_6",
+    "original":"阿僧祇無量無邊無所有故，當知一切諸法無所有。",
+    "folio":6,
+    "stemmed":"阿 僧 祇 無量無邊 無 所 有 故  當 知 一切諸法 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264a16_16",
+    "original":"以是因緣故，須菩提！",
+    "folio":6,
+    "stemmed":"以是因緣 故  須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264a17_13",
+    "original":"是摩訶衍受無量無邊阿僧祇眾生。",
+    "folio":6,
+    "stemmed":"是 摩 訶 衍 受 無量無邊 阿 僧 祇 眾 生  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264a17_17",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264a18_13",
+    "original":"我、眾生乃至一切諸法皆不可得故。",
+    "folio":6,
+    "stemmed":"我  眾 生 乃 至 一切諸法 皆 不 可 得 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264a19_1",
+    "original":"「復次，須菩提！",
+    "folio":6,
+    "stemmed":" 復 次  須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264a20_18",
+    "original":"我、眾生無所有乃至知者、見者無所有故，當知性地無所有，乃至已作地無所有。",
+    "folio":6,
+    "stemmed":"我  眾 生 無 所 有 乃 至 知 者  見 者 無 所 有 故  當 知 性 地 無 所 有  乃 至 已 作 地 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264a21_15",
+    "original":"已作地無所有故，當知虛空無所有。",
+    "folio":6,
+    "stemmed":"已 作 地 無 所 有 故  當 知 虛 空無所有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264a22_13",
+    "original":"虛空無所有故，當知摩訶衍無所有。",
+    "folio":6,
+    "stemmed":"虛 空無所有 故  當 知 摩 訶 衍 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264a23_16",
+    "original":"摩訶衍無所有故，當知阿僧祇無量無邊無所有。",
+    "folio":6,
+    "stemmed":"摩 訶 衍 無 所 有 故  當 知 阿 僧 祇 無量無邊 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264a25_2",
+    "original":"阿僧祇無量無邊無所有故，當知一切諸法無所有。",
+    "folio":6,
+    "stemmed":"阿 僧 祇 無量無邊 無 所 有 故  當 知 一切諸法 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264a26_4",
+    "original":"以是因緣故，是摩訶衍受無量無邊阿僧祇眾生。",
+    "folio":6,
+    "stemmed":"以是因緣 故  是 摩 訶 衍 受 無量無邊 阿 僧 祇 眾 生  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264a26_8",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264a27_4",
+    "original":"我、眾生乃至一切諸法皆不可得故。",
+    "folio":6,
+    "stemmed":"我  眾 生 乃 至 一切諸法 皆 不 可 得 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264a27_12",
+    "original":"「復次，須菩提！",
+    "folio":6,
+    "stemmed":" 復 次  須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264a28_14",
+    "original":"我、眾生乃至知者、見者無所有故，當知須陀洹無所有。",
+    "folio":6,
+    "stemmed":"我  眾 生 乃 至 知 者  見 者 無 所 有 故  當 知 須 陀 洹 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264a29_13",
+    "original":"須陀洹無所有故，當知斯陀含無所有。",
+    "folio":6,
+    "stemmed":"須 陀 洹 無 所 有 故  當 知 斯 陀 含 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264b01_12",
+    "original":"斯陀含無所有故，當知阿那含無所有。",
+    "folio":6,
+    "stemmed":"斯 陀 含 無 所 有 故  當 知 阿 那 含 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264b02_11",
+    "original":"阿那含無所有故，當知阿羅漢無所有。",
+    "folio":6,
+    "stemmed":"阿 那 含 無 所 有 故  當 知 阿 羅 漢 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264b03_13",
+    "original":"阿羅漢無所有故，當知乃至一切諸法無所有。",
+    "folio":6,
+    "stemmed":"阿 羅 漢 無 所 有 故  當 知 乃 至 一切諸法 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264b04_5",
+    "original":"以是因緣故，須菩提！",
+    "folio":6,
+    "stemmed":"以是因緣 故  須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264b05_1",
+    "original":"摩訶衍受無量無邊阿僧祇眾生。",
+    "folio":6,
+    "stemmed":"摩 訶 衍 受 無量無邊 阿 僧 祇 眾 生  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264b05_5",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264b05_9",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264b06_2",
+    "original":"我乃至一切諸法皆不可得故。",
+    "folio":6,
+    "stemmed":"我 乃 至 一切諸法 皆 不 可 得 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264b06_10",
+    "original":"「復次，須菩提！",
+    "folio":6,
+    "stemmed":" 復 次  須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264b07_10",
+    "original":"我乃至知者、見者無所有故，當知聲聞乘無所有。",
+    "folio":6,
+    "stemmed":"我 乃 至 知 者  見 者 無 所 有 故  當 知 聲 聞 乘 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264b08_9",
+    "original":"聲聞乘無所有故，當知辟支佛乘無所有。",
+    "folio":6,
+    "stemmed":"聲 聞 乘 無 所 有 故  當 知 辟 支 佛 乘 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264b09_9",
+    "original":"辟支佛乘無所有故，當知佛乘無所有。",
+    "folio":6,
+    "stemmed":"辟 支 佛 乘 無 所 有 故  當 知 佛 乘 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264b10_7",
+    "original":"佛乘無所有故，當知聲聞人無所有。",
+    "folio":6,
+    "stemmed":"佛 乘 無 所 有 故  當 知 聲 聞 人 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264b11_6",
+    "original":"聲聞人無所有故，當知須陀洹無所有。",
+    "folio":6,
+    "stemmed":"聲 聞 人 無 所 有 故  當 知 須 陀 洹 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264b12_3",
+    "original":"須陀洹無所有故，乃至佛無所有。",
+    "folio":6,
+    "stemmed":"須 陀 洹 無 所 有 故  乃 至 佛 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264b13_1",
+    "original":"佛無所有故，當知一切種智無所有。",
+    "folio":6,
+    "stemmed":"佛 無 所 有 故  當 知 一切種智 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264b13_18",
+    "original":"一切種智無所有故，當知虛空無所有。",
+    "folio":6,
+    "stemmed":"一切種智 無 所 有 故  當 知 虛 空無所有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264b14_15",
+    "original":"虛空無所有故，當知摩訶衍無所有。",
+    "folio":6,
+    "stemmed":"虛 空無所有 故  當 知 摩 訶 衍 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264b15_17",
+    "original":"摩訶衍無所有故，當知乃至一切諸法無所有。",
+    "folio":6,
+    "stemmed":"摩 訶 衍 無 所 有 故  當 知 乃 至 一切諸法 無 所 有  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264b17_3",
+    "original":"以是因緣故，是摩訶衍受無量無邊阿僧祇眾生。",
+    "folio":6,
+    "stemmed":"以是因緣 故  是 摩 訶 衍 受 無量無邊 阿 僧 祇 眾 生  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264b17_7",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264b18_1",
+    "original":"我乃至一切諸法皆不可得故。",
+    "folio":6,
+    "stemmed":"我 乃 至 一切諸法 皆 不 可 得 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264b18_5",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264b20_2",
+    "original":"譬如涅槃性中受無量無邊阿僧祇眾生，是摩訶衍亦受無量無邊阿僧祇眾生。",
+    "folio":6,
+    "stemmed":"譬 如 涅 槃 性 中 受 無量無邊 阿 僧 祇 眾 生  是 摩 訶 衍 亦 受 無量無邊 阿 僧 祇 眾 生  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264b20_12",
+    "original":"以是因緣故，須菩提！",
+    "folio":6,
+    "stemmed":"以是因緣 故  須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264b22_7",
+    "original":"如虛空受無量無邊阿僧祇眾生，是摩訶衍亦如是受無量無邊阿僧祇眾生。",
+    "folio":6,
+    "stemmed":"如 虛 空 受 無量無邊 阿 僧 祇 眾 生  是 摩 訶 衍 亦 如 是 受 無量無邊 阿 僧 祇 眾 生  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264b22_12",
+    "original":"「須菩提！",
+    "folio":6,
+    "stemmed":" 須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264b22_16",
+    "original":"汝所言：",
+    "folio":6,
+    "stemmed":"汝 所 言  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264b23_14",
+    "original":"『是摩訶衍不見來處、不見去處、不見住處。",
+    "folio":6,
+    "stemmed":" 是 摩 訶 衍 不 見 來 處  不 見 去 處  不 見 住 處  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264b24_1",
+    "original":"』如是，如是！",
+    "folio":6,
+    "stemmed":" 如 是  如 是  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264b24_5",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264b25_4",
+    "original":"是摩訶衍不見來處、不見去處、不見住處。",
+    "folio":6,
+    "stemmed":"是 摩 訶 衍 不 見 來 處  不 見 去 處  不 見 住 處  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264b25_8",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264b25_12",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264b26_2",
+    "original":"一切諸法不動相故。",
+    "folio":6,
+    "stemmed":"一切諸法 不 動 相 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264b26_16",
+    "original":"是法無來處、無去處、無住處。",
+    "folio":6,
+    "stemmed":"是 法 無 來 處  無 去 處  無 住 處  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264b26_20",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264b27_3",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264b28_16",
+    "original":"色無所從來亦無所去亦無所住，受想行識無所從來亦無所去亦無所住。",
+    "folio":6,
+    "stemmed":"色 無所從來 亦 無 所 去 亦 無 所 住  受 想 行 識 無所從來 亦 無 所 去 亦 無 所 住  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264b29_3",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264c02_2",
+    "original":"色法無所從來亦無所去亦無所住，受想行識法無所從來亦無所去亦無所住。",
+    "folio":6,
+    "stemmed":"色 法 無所從來 亦 無 所 去 亦 無 所 住  受 想 行 識 法 無所從來 亦 無 所 去 亦 無 所 住  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264c02_6",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264c04_4",
+    "original":"色如無所從來亦無所去亦無所住，受想行識如無所從來亦無所去亦無所住。",
+    "folio":6,
+    "stemmed":"色 如 無所從來 亦 無 所 去 亦 無 所 住  受 想 行 識 如 無所從來 亦 無 所 去 亦 無 所 住  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264c04_8",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264c06_7",
+    "original":"色性無所從來亦無所去亦無所住，受想行識性無所從來亦無所去亦無所住。",
+    "folio":6,
+    "stemmed":"色 性 無所從來 亦 無 所 去 亦 無 所 住  受 想 行 識 性 無所從來 亦 無 所 去 亦 無 所 住  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264c06_11",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264c08_10",
+    "original":"色相無所從來亦無所去亦無所住，受想行識相無所從來亦無所去亦無所住。",
+    "folio":6,
+    "stemmed":"色 相 無所從來 亦 無 所 去 亦 無 所 住  受 想 行 識 相 無所從來 亦 無 所 去 亦 無 所 住  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264c08_14",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264c11_11",
+    "original":"眼、眼法、眼如、眼性、眼相無所從來亦無所去亦無所住，耳鼻舌身意、意法、意如、意性、意相無所從來亦無所去亦無所住。",
+    "folio":6,
+    "stemmed":"眼  眼 法  眼 如  眼 性  眼 相 無所從來 亦 無 所 去 亦 無 所 住  耳 鼻 舌 身 意  意 法  意 如  意 性  意 相 無所從來 亦 無 所 去 亦 無 所 住  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264c12_4",
+    "original":"色聲香味觸法亦如是。",
+    "folio":6,
+    "stemmed":"色聲香味觸 法 亦 如 是  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264c12_8",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264c15_5",
+    "original":"地種、地種法、地種如、地種性、地種相無所從來亦無所去亦無所住，水火風空識種、識種法、識種如、識種性、識種相亦如是。",
+    "folio":6,
+    "stemmed":"地 種  地 種 法  地 種 如  地 種 性  地 種 相 無所從來 亦 無 所 去 亦 無 所 住  水 火 風 空 識 種  識 種 法  識 種 如  識 種 性  識 種 相 亦 如 是  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264c15_9",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264c16_13",
+    "original":"如、如法、如如、如性、如相無所從來亦無所去亦無所住。",
+    "folio":6,
+    "stemmed":"如  如 法  如 如  如 性  如 相 無所從來 亦 無 所 去 亦 無 所 住  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264c17_1",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264c18_10",
+    "original":"實際、實際法、實際如、實際性、實際相無所從來亦無所去亦無所住。",
+    "folio":6,
+    "stemmed":"實 際  實 際 法  實 際 如  實 際 性  實 際 相 無所從來 亦 無 所 去 亦 無 所 住  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264c18_14",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264c21_1",
+    "original":"不可思議、不可思議法、不可思議如、不可思議性、不可思議相無所從來亦無所去亦無所住。",
+    "folio":6,
+    "stemmed":"不可思議  不可思議 法  不可思議 如  不可思議 性  不可思議 相 無所從來 亦 無 所 去 亦 無 所 住  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264c21_5",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264c27_11",
+    "original":"檀那波羅蜜、檀那波羅蜜法、檀那波羅蜜如、檀那波羅蜜性、檀那波羅蜜相無所從來亦無所去亦無所住，尸羅波羅蜜羼提波羅蜜毘梨耶波羅蜜禪那波羅蜜般若波羅蜜、般若波羅蜜法、般若波羅蜜如、般若波羅蜜性、般若波羅蜜相無所從來亦無所去亦無所住。",
+    "folio":6,
+    "stemmed":"檀 那 波 羅 蜜  檀 那 波 羅 蜜 法  檀 那 波 羅 蜜 如  檀 那 波 羅 蜜 性  檀 那 波 羅 蜜 相 無所從來 亦 無 所 去 亦 無 所 住  尸 羅 波 羅 蜜 羼 提 波 羅 蜜 毘梨耶波羅蜜 禪 那 波 羅 蜜 般 若 波 羅 蜜  般 若 波 羅 蜜 法  般 若 波 羅 蜜 如  般 若 波 羅 蜜 性  般 若 波 羅 蜜 相 無所從來 亦 無 所 去 亦 無 所 住  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264c27_15",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0264c29_13",
+    "original":"四念處、四念處法、四念處如、四念處性、四念處相無所從來亦無所去亦無所住。",
+    "folio":6,
+    "stemmed":"四 念 處  四 念 處 法  四 念 處 如  四 念 處 性  四 念 處 相 無所從來 亦 無 所 去 亦 無 所 住  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265a01_8",
+    "original":"乃至十八不共法亦如是。",
+    "folio":6,
+    "stemmed":"乃 至 十八不共法 亦 如 是  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265a01_12",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265a03_4",
+    "original":"菩薩、菩薩法、菩薩如、菩薩性、菩薩相無所從來亦無所去亦無所住。",
+    "folio":6,
+    "stemmed":"菩 薩  菩 薩 法  菩 薩 如  菩 薩 性  菩 薩 相 無所從來 亦 無 所 去 亦 無 所 住  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265a04_9",
+    "original":"佛、佛法、佛如、佛性、佛相無所從來亦無所去亦無所住。",
+    "folio":6,
+    "stemmed":"佛  佛 法  佛 如  佛 性  佛 相 無所從來 亦 無 所 去 亦 無 所 住  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265a06_10",
+    "original":"阿耨多羅三藐三菩提，阿耨多羅三藐三菩提法、如、性、相無所從來亦無所去亦無所住。",
+    "folio":6,
+    "stemmed":"阿耨多羅三藐三菩提  阿耨多羅三藐三菩提 法  如  性  相 無所從來 亦 無 所 去 亦 無 所 住  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265a06_14",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265a08_11",
+    "original":"有為法、有為法法、有為法如、有為法性、有為法相無所從來亦無所去亦無所住。",
+    "folio":6,
+    "stemmed":"有 為 法  有 為 法 法  有 為 法 如  有 為 法 性  有 為 法 相 無所從來 亦 無 所 去 亦 無 所 住  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265a08_15",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265a10_13",
+    "original":"無為法、無為法法、無為法如、無為法性、無為法相無所從來亦無所去亦無所住。",
+    "folio":6,
+    "stemmed":"無 為 法  無 為 法 法  無 為 法 如  無 為 法 性  無 為 法 相 無所從來 亦 無 所 去 亦 無 所 住  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265a11_7",
+    "original":"以是因緣故，須菩提！",
+    "folio":6,
+    "stemmed":"以是因緣 故  須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265a12_7",
+    "original":"是摩訶衍不見來處、不見去處、不見住處。",
+    "folio":6,
+    "stemmed":"是 摩 訶 衍 不 見 來 處  不 見 去 處  不 見 住 處  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265a12_12",
+    "original":"「須菩提！",
+    "folio":6,
+    "stemmed":" 須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265a12_16",
+    "original":"汝所言：",
+    "folio":6,
+    "stemmed":"汝 所 言  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265a14_5",
+    "original":"『是摩訶衍前際不可得、後際不可得、中際不可得，是衍名三世等。",
+    "folio":6,
+    "stemmed":" 是 摩 訶 衍 前 際 不 可 得  後 際 不 可 得  中 際 不 可 得  是 衍 名 三 世 等  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265a14_15",
+    "original":"以是故，說名摩訶衍。",
+    "folio":6,
+    "stemmed":"以 是 故  說 名 摩 訶 衍  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265a15_2",
+    "original":"』如是，如是！",
+    "folio":6,
+    "stemmed":" 如 是  如 是  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265a15_6",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265a16_16",
+    "original":"是摩訶衍前際不可得、後際不可得、中際不可得，是衍名三世等。",
+    "folio":6,
+    "stemmed":"是 摩 訶 衍 前 際 不 可 得  後 際 不 可 得  中 際 不 可 得  是 衍 名 三 世 等  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265a17_7",
+    "original":"以是故，說名摩訶衍。",
+    "folio":6,
+    "stemmed":"以 是 故  說 名 摩 訶 衍  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265a17_11",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265a17_15",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265a20_2",
+    "original":"過去世過去世空，未來世未來世空，現在世現在世空，三世等三世等空，摩訶衍摩訶衍空，菩薩菩薩空。",
+    "folio":6,
+    "stemmed":"過 去 世 過 去 世 空  未 來 世 未 來 世 空  現 在 世 現 在 世 空  三 世 等 三 世 等 空  摩 訶 衍 摩 訶 衍 空  菩 薩 菩 薩 空  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265a20_6",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265a20_10",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265a21_6",
+    "original":"是空非一非二非三非四非五非異。",
+    "folio":6,
+    "stemmed":"是 空 非 一 非 二 非 三 非 四 非 五 非 異  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265a22_7",
+    "original":"以是故，說名三世等是菩薩摩訶薩摩訶衍。",
+    "folio":6,
+    "stemmed":"以 是 故  說 名 三 世 等 是 菩薩摩訶薩 摩 訶 衍  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265a25_6",
+    "original":"是衍中等不等相不可得故，染不染不可得、瞋不瞋不可得、癡不癡不可得、慢不慢不可得，乃至一切善法不善法不可得。",
+    "folio":6,
+    "stemmed":"是 衍 中 等 不 等 相 不 可 得 故  染 不 染 不 可 得  瞋 不 瞋 不 可 得  癡 不 癡 不 可 得  慢 不 慢 不 可 得  乃 至 一 切 善 法 不 善 法 不 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265a29_18",
+    "original":"是衍中常不可得、無常不可得，樂不可得、苦不可得，實不可得、空不可得，我不可得、無我不可得，欲界不可得、色界不可得、無色界不可得，度欲界不可得、度色界不可得、度無色界不可得。",
+    "folio":6,
+    "stemmed":"是 衍 中 常 不 可 得  無 常 不 可 得  樂 不 可 得  苦 不 可 得  實 不 可 得  空 不 可 得  我不可得  無 我不可得  欲 界 不 可 得  色 界 不 可 得  無 色 界 不 可 得  度 欲 界 不 可 得  度 色 界 不 可 得  度 無 色 界 不 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265b01_3",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265b01_14",
+    "original":"是摩訶衍自法不可得故。",
+    "folio":6,
+    "stemmed":"是 摩 訶 衍 自 法 不 可 得 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265b01_18",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265b05_5",
+    "original":"過去色過去色空，未來現在色未來現在色空，過去受想行識過去受想行識空，未來現在受想行識未來現在受想行識空，空中過去色不可得。",
+    "folio":6,
+    "stemmed":"過 去 色 過 去 色 空  未來現在 色 未來現在 色 空  過 去 受 想 行 識 過 去 受 想 行 識 空  未來現在 受 想 行 識 未來現在 受 想 行 識 空  空 中 過 去 色 不 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265b05_9",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265b06_8",
+    "original":"空中空亦不可得，何況空中過去色可得。",
+    "folio":6,
+    "stemmed":"空 中 空 亦 不 可 得  何 況 空 中 過 去 色 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265b07_1",
+    "original":"空中未來現在色不可得。",
+    "folio":6,
+    "stemmed":"空 中 未來現在 色 不 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265b07_5",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265b08_6",
+    "original":"空中空亦不可得，何況空中未來現在色可得。",
+    "folio":6,
+    "stemmed":"空 中 空 亦 不 可 得  何 況 空 中 未來現在 色 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265b09_1",
+    "original":"空中過去受想行識不可得。",
+    "folio":6,
+    "stemmed":"空 中 過 去 受 想 行 識 不 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265b09_5",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265b10_7",
+    "original":"空中空亦不可得，何況空中過去受想行識可得。",
+    "folio":6,
+    "stemmed":"空 中 空 亦 不 可 得  何 況 空 中 過 去 受 想 行 識 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265b11_3",
+    "original":"空中未來現在受想行識不可得。",
+    "folio":6,
+    "stemmed":"空 中 未來現在 受 想 行 識 不 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265b11_7",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265b12_12",
+    "original":"空中空亦不可得，何況空中未來現在受想行識可得。",
+    "folio":6,
+    "stemmed":"空 中 空 亦 不 可 得  何 況 空 中 未來現在 受 想 行 識 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265b12_16",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265b14_13",
+    "original":"過去檀那波羅蜜不可得，未來檀那波羅蜜不可得，現在檀那波羅蜜不可得。",
+    "folio":6,
+    "stemmed":"過 去 檀 那 波 羅 蜜 不 可 得  未 來 檀 那 波 羅 蜜 不 可 得  現 在 檀 那 波 羅 蜜 不 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265b15_10",
+    "original":"三世等中檀那波羅蜜亦不可得。",
+    "folio":6,
+    "stemmed":"三 世 等 中 檀 那 波 羅 蜜 亦 不 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265b15_14",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265b17_1",
+    "original":"等中過去世不可得，未來世不可得，現在世不可得。",
+    "folio":6,
+    "stemmed":"等 中 過 去 世 不 可 得  未 來 世 不 可 得  現 在 世 不 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265b18_7",
+    "original":"等中等亦不可得，何況等中過去世未來世現在世可得。",
+    "folio":6,
+    "stemmed":"等 中 等 亦 不 可 得  何 況 等 中 過 去 世 未 來 世 現 在 世 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265b20_2",
+    "original":"尸羅波羅蜜、羼提波羅蜜、毘梨耶波羅蜜、禪那波羅蜜、般若波羅蜜亦如是。",
+    "folio":6,
+    "stemmed":"尸 羅 波 羅 蜜  羼 提 波 羅 蜜  毘梨耶波羅蜜  禪 那 波 羅 蜜  般 若 波 羅 蜜 亦 如 是  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265b20_10",
+    "original":"「復次，須菩提！",
+    "folio":6,
+    "stemmed":" 復 次  須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265b21_16",
+    "original":"過去世中四念處不可得，乃至過去世中十八不共法不可得。",
+    "folio":6,
+    "stemmed":"過 去 世 中 四 念 處 不 可 得  乃 至 過 去 世 中 十八不共法 不 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265b22_9",
+    "original":"未來世現在世亦如是。",
+    "folio":6,
+    "stemmed":"未 來 世 現 在 世 亦 如 是  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265b22_16",
+    "original":"復次，須菩提！",
+    "folio":6,
+    "stemmed":"復 次  須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265b24_5",
+    "original":"三世等中四念處不可得，三世等中乃至十八不共法亦不可得。",
+    "folio":6,
+    "stemmed":"三 世 等 中 四 念 處 不 可 得  三 世 等 中 乃 至 十八不共法 亦 不 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265b24_9",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265b26_9",
+    "original":"等中過去世四念處不可得，等中未來世四念處不可得，等中現在世四念處不可得。",
+    "folio":6,
+    "stemmed":"等 中 過 去 世 四 念 處 不 可 得  等 中 未 來 世 四 念 處 不 可 得  等 中 現 在 世 四 念 處 不 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265b27_3",
+    "original":"乃至十八不共法亦如是。",
+    "folio":6,
+    "stemmed":"乃 至 十八不共法 亦 如 是  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265b28_15",
+    "original":"等中等亦不可得，何況等中過去世四念處，未來現在世四念處可得。",
+    "folio":6,
+    "stemmed":"等 中 等 亦 不 可 得  何 況 等 中 過 去 世 四 念 處  未來現在 世 四 念 處 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265c01_5",
+    "original":"等中等亦不可得，何況等中過去世乃至十八不共法可得。",
+    "folio":6,
+    "stemmed":"等 中 等 亦 不 可 得  何 況 等 中 過 去 世 乃 至 十八不共法 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265c02_4",
+    "original":"未來現在世乃至十八不共法亦如是。",
+    "folio":6,
+    "stemmed":"未來現在 世 乃 至 十八不共法 亦 如 是  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265c02_11",
+    "original":"復次，須菩提！",
+    "folio":6,
+    "stemmed":"復 次  須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265c03_15",
+    "original":"過去世凡夫人不可得，未來世現在世中凡夫人不可得。",
+    "folio":6,
+    "stemmed":"過 去 世 凡 夫 人 不 可 得  未 來 世 現 在 世 中 凡 夫 人 不 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265c04_10",
+    "original":"三世等中凡夫人亦不可得。",
+    "folio":6,
+    "stemmed":"三 世 等 中 凡 夫 人 亦 不 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265c04_14",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265c05_14",
+    "original":"眾生不可得，乃至知者、見者不可得故。",
+    "folio":6,
+    "stemmed":"眾 生 不 可 得  乃 至 知 者  見 者 不 可 得 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265c07_14",
+    "original":"過去世中聲聞、辟支佛、菩薩、佛不可得，未來現在世聲聞、辟支佛、菩薩、佛不可得。",
+    "folio":6,
+    "stemmed":"過 去 世 中 聲 聞  辟 支 佛  菩 薩  佛 不 可 得  未來現在 世 聲 聞  辟 支 佛  菩 薩  佛 不 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265c08_11",
+    "original":"三世等中聲聞、辟支佛、菩薩、佛不可得。",
+    "folio":6,
+    "stemmed":"三 世 等 中 聲 聞  辟 支 佛  菩 薩  佛 不 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265c08_15",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265c09_12",
+    "original":"眾生不可得乃至知者、見者不可得故。",
+    "folio":6,
+    "stemmed":"眾 生 不 可 得 乃 至 知 者  見 者 不 可 得 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265c09_19",
+    "original":"如是，須菩提！",
+    "folio":6,
+    "stemmed":"如 是  須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265c12_1",
+    "original":"菩薩摩訶薩住般若波羅蜜中學三世等相，當具足一切種智，是名菩薩摩訶薩摩訶衍。",
+    "folio":6,
+    "stemmed":"菩薩摩訶薩 住 般 若 波 羅 蜜 中 學 三 世 等 相  當 具 足 一切種智  是 名 菩薩摩訶薩 摩 訶 衍  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265c13_20",
+    "original":"所謂三世等相，菩薩摩訶薩住是衍中，勝一切世間及諸天、人、阿脩羅，成就薩婆若。",
+    "folio":6,
+    "stemmed":"所 謂 三 世 等 相  菩薩摩訶薩 住 是 衍 中  勝 一切世間 及 諸 天  人  阿 脩 羅  成 就 薩 婆 若  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265c14_8",
+    "original":"」爾時須菩提白佛言：",
+    "folio":6,
+    "stemmed":" 爾 時 須 菩 提 白 佛 言  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265c14_12",
+    "original":"「世尊！",
+    "folio":6,
+    "stemmed":" 世 尊  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265c14_18",
+    "original":"善哉，善哉！",
+    "folio":6,
+    "stemmed":"善 哉  善 哉  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265c17_14",
+    "original":"是菩摩訶薩亦是衍中學當得一切種智。",
+    "folio":6,
+    "stemmed":"是 菩 摩 訶 薩 亦 是 衍 中 學 當 得 一切種智  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265c17_17",
+    "original":"世尊！",
+    "folio":6,
+    "stemmed":"世 尊  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265c19_10",
+    "original":"今十方無量阿僧祇國土中諸菩薩摩訶薩亦是衍中學得一切種智。",
+    "folio":6,
+    "stemmed":"今 十 方 無量阿僧祇 國 土 中 諸 菩薩摩訶薩 亦 是 衍 中 學 得 一切種智  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265c19_17",
+    "original":"以是故，世尊！",
+    "folio":6,
+    "stemmed":"以 是 故  世 尊  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265c20_11",
+    "original":"是衍實是菩薩摩訶薩摩訶衍。",
+    "folio":6,
+    "stemmed":"是 衍 實 是 菩薩摩訶薩 摩 訶 衍  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265c20_18",
+    "original":"」佛告須菩提：",
+    "folio":6,
+    "stemmed":" 佛 告 須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265c21_4",
+    "original":"「如是，如是！",
+    "folio":6,
+    "stemmed":" 如 是  如 是  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265c22_12",
+    "original":"過去未來現在諸佛是摩訶衍中學，已得一切種智，當得、今得。",
+    "folio":6,
+    "stemmed":"過去未來現在 諸 佛 是 摩 訶 衍 中 學  已 得 一切種智  當 得  今 得  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265c25_5",
+    "original":"」摩訶般若經卷第六佛告須菩提：",
+    "folio":6,
+    "stemmed":" 摩訶般若 經 卷 第 六 佛 告 須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265c25_10",
+    "original":"「汝所問：",
+    "folio":6,
+    "stemmed":" 汝 所 問  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265c25_17",
+    "original":"『是乘何處出？",
+    "folio":6,
+    "stemmed":" 是 乘 何 處 出  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265c26_1",
+    "original":"至何處住？",
+    "folio":6,
+    "stemmed":"至 何 處 住  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265c26_4",
+    "original":"』者。",
+    "folio":6,
+    "stemmed":" 者  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265c27_8",
+    "original":"佛言是乘從三界中出，至薩婆若中住，以不二法故。",
+    "folio":6,
+    "stemmed":"佛 言 是 乘 從 三 界 中 出  至 薩 婆 若 中 住  以 不 二 法 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265c27_12",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0265c29_6",
+    "original":"摩訶衍、薩婆若是二法俱不合不散、無色無形無對，一相所謂無相。",
+    "folio":6,
+    "stemmed":"摩 訶 衍  薩 婆 若 是 二 法 俱 不 合 不 散  無 色 無 形 無 對  一 相 所 謂 無 相  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266a01_3",
+    "original":"若人欲出無相法，為欲出實際。",
+    "folio":6,
+    "stemmed":"若 人 欲 出 無 相 法  為 欲 出 實 際  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266a02_4",
+    "original":"若欲出無相法，為欲出如、法性、不可思議性。",
+    "folio":6,
+    "stemmed":"若 欲 出 無 相 法  為 欲 出 如  法 性  不可思議 性  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266a03_8",
+    "original":"若欲出無相法，為欲出色空，為欲出受想行識空。",
+    "folio":6,
+    "stemmed":"若 欲 出 無 相 法  為 欲 出 色 空  為 欲 出 受 想 行 識 空  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266a03_12",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266a03_16",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266a05_12",
+    "original":"色空相不出三界亦不住薩婆若，受想行識空相不出三界亦不住薩婆若。",
+    "folio":6,
+    "stemmed":"色 空 相 不 出 三 界 亦 不 住 薩 婆 若  受 想 行 識 空 相 不 出 三 界 亦 不 住 薩 婆 若  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266a05_17",
+    "original":"所以者何？",
+    "folio":6,
+    "stemmed":"所以者何  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266a06_13",
+    "original":"色色相空，受想行識識相空故。",
+    "folio":6,
+    "stemmed":"色 色 相 空  受 想 行 識 識 相 空 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266a09_8",
+    "original":"若欲出無相法，為欲出眼空，為欲出耳鼻舌身意空，為欲出乃至眼觸因緣生受空，耳鼻舌身意觸因緣生受空。",
+    "folio":6,
+    "stemmed":"若 欲 出 無 相 法  為 欲 出 眼 空  為 欲 出 耳 鼻 舌 身 意 空  為 欲 出 乃 至 眼 觸 因 緣 生 受 空  耳 鼻 舌 身 意 觸 因 緣 生 受 空  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266a09_12",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266a09_16",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266a11_14",
+    "original":"眼空不出三界亦不住薩婆若，乃至意觸因緣生受空不出三界亦不住薩婆若。",
+    "folio":6,
+    "stemmed":"眼 空 不 出 三 界 亦 不 住 薩 婆 若  乃 至 意 觸 因 緣 生 受 空 不 出 三 界 亦 不 住 薩 婆 若  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266a12_3",
+    "original":"所以者何？",
+    "folio":6,
+    "stemmed":"所以者何  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266a13_9",
+    "original":"眼眼相空，乃至意觸因緣生受，意觸因緣生受相空故。",
+    "folio":6,
+    "stemmed":"眼 眼 相 空  乃 至 意 觸 因 緣 生 受  意 觸 因 緣 生 受 相 空 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266a14_19",
+    "original":"若欲出無相法，為欲出夢，為欲出幻、焰、響、影、佛所化。",
+    "folio":6,
+    "stemmed":"若 欲 出 無 相 法  為 欲 出 夢  為 欲 出 幻  焰  響  影  佛 所 化  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266a15_2",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266a15_6",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266a20_9",
+    "original":"夢相不出三界亦不住薩婆若，幻、焰、響、影、化相不出三界亦不住薩波羅蜜、羼提波羅蜜、毘梨耶波羅蜜、禪那波羅蜜、般若波羅蜜。",
+    "folio":6,
+    "stemmed":"夢 相 不 出 三 界 亦 不 住 薩 婆 若  幻  焰  響  影  化 相 不 出 三 界 亦 不 住 薩 波 羅 蜜  羼 提 波 羅 蜜  毘梨耶波羅蜜  禪 那 波 羅 蜜  般 若 波 羅 蜜  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266a20_13",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266a23_3",
+    "original":"檀那波羅蜜相不出三界亦不住薩婆若，尸羅波羅蜜乃至般若波羅蜜不出三界亦不住薩婆若。",
+    "folio":6,
+    "stemmed":"檀 那 波 羅 蜜 相 不 出 三 界 亦 不 住 薩 婆 若  尸 羅 波 羅 蜜 乃 至 般 若 波 羅 蜜 不 出 三 界 亦 不 住 薩 婆 若  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266a23_7",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266a26_4",
+    "original":"檀那波羅蜜檀那波羅蜜性空，尸羅波羅蜜、羼提波羅蜜、毘梨耶波羅蜜、禪那波羅蜜、般若波羅蜜般若波羅蜜性空。",
+    "folio":6,
+    "stemmed":"檀 那 波 羅 蜜 檀 那 波 羅 蜜 性 空  尸 羅 波 羅 蜜  羼 提 波 羅 蜜  毘梨耶波羅蜜  禪 那 波 羅 蜜  般 若 波 羅 蜜 般 若 波 羅 蜜 性 空  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266a27_7",
+    "original":"若欲出無相法，為欲出內空乃至無法有法空。",
+    "folio":6,
+    "stemmed":"若 欲 出 無 相 法  為 欲 出 內 空 乃 至 無法有法空  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266a27_11",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266a27_15",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266a29_3",
+    "original":"內空性乃至無法有法空性不出三界亦不住薩婆若。",
+    "folio":6,
+    "stemmed":"內 空 性 乃 至 無法有法空 性 不 出 三 界 亦 不 住 薩 婆 若  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266a29_8",
+    "original":"所以者何？",
+    "folio":6,
+    "stemmed":"所以者何  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266b01_15",
+    "original":"內空性內空性空，乃至無法有法空性無法有法空性空故。",
+    "folio":6,
+    "stemmed":"內 空 性 內 空 性 空  乃 至 無法有法空 性 無法有法空 性 空 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266b02_13",
+    "original":"若欲出無相法，為欲出四念處。",
+    "folio":6,
+    "stemmed":"若 欲 出 無 相 法  為 欲 出 四 念 處  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266b02_17",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266b03_14",
+    "original":"四念處性不出三界亦不住薩婆若。",
+    "folio":6,
+    "stemmed":"四 念 處 性 不 出 三 界 亦 不 住 薩 婆 若  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266b04_3",
+    "original":"所以者何？",
+    "folio":6,
+    "stemmed":"所以者何  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266b04_13",
+    "original":"四念處性四念處性空。",
+    "folio":6,
+    "stemmed":"四 念 處 性 四 念 處 性 空  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266b06_8",
+    "original":"若欲出無相法，為欲出四正勤、四如意足、五根、五力、七覺分、八聖道分。",
+    "folio":6,
+    "stemmed":"若 欲 出 無 相 法  為 欲 出 四 正 勤  四如意足  五 根  五 力  七 覺 分  八 聖 道 分  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266b06_12",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266b07_10",
+    "original":"八聖道分性不出三界亦不住薩婆若。",
+    "folio":6,
+    "stemmed":"八 聖 道 分 性 不 出 三 界 亦 不 住 薩 婆 若  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266b07_15",
+    "original":"所以者何？",
+    "folio":6,
+    "stemmed":"所以者何  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266b09_6",
+    "original":"八聖道分性八聖道分性空故，乃至十八不共法亦如是。",
+    "folio":6,
+    "stemmed":"八 聖 道 分 性 八 聖 道 分 性 空 故  乃 至 十八不共法 亦 如 是  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266b09_10",
+    "original":"須菩提！",
+    "folio":6,
+    "stemmed":"須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266b12_1",
+    "original":"若欲出無相法，為欲出阿羅漢生處，為欲出辟支佛生處，為欲出多陀阿伽度、阿羅呵、三藐三佛陀生處。",
+    "folio":6,
+    "stemmed":"若 欲 出 無 相 法  為 欲 出 阿 羅 漢 生 處  為 欲 出 辟 支 佛 生 處  為 欲 出 多 陀 阿 伽 度  阿 羅 呵  三藐三佛陀 生 處  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266b12_5",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266b13_10",
+    "original":"阿羅漢性、辟支佛性、佛性不出三界亦不住薩婆若。",
+    "folio":6,
+    "stemmed":"阿 羅 漢 性  辟 支 佛 性  佛 性 不 出 三 界 亦 不 住 薩 婆 若  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266b13_15",
+    "original":"所以者何？",
+    "folio":6,
+    "stemmed":"所以者何  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266b15_8",
+    "original":"阿羅漢性阿羅漢性空、辟支佛性辟支佛性空、佛性佛性空。",
+    "folio":6,
+    "stemmed":"阿 羅 漢 性 阿 羅 漢 性 空  辟 支 佛 性 辟 支 佛 性 空  佛 性 佛 性 空  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266b17_12",
+    "original":"若欲出無相法，為欲出須陀洹果、斯陀含果、阿那含果、阿羅漢果、辟支佛道、佛道、一切種智。",
+    "folio":6,
+    "stemmed":"若 欲 出 無 相 法  為 欲 出 須陀洹果  斯陀含果  阿那含果  阿羅漢果  辟支佛道  佛 道  一切種智  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266b17_16",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266b19_3",
+    "original":"須陀洹果乃至一切種智性不出三界亦不住薩婆若。",
+    "folio":6,
+    "stemmed":"須陀洹果 乃 至 一切種智 性 不 出 三 界 亦 不 住 薩 婆 若  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266b19_8",
+    "original":"所以者何？",
+    "folio":6,
+    "stemmed":"所以者何  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266b20_8",
+    "original":"須陀洹果乃至一切種智一切種智性空故。",
+    "folio":6,
+    "stemmed":"須陀洹果 乃 至 一切種智 一切種智 性 空 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266b21_15",
+    "original":"若欲出無相法，為欲出名字、假名施設相、但有言語。",
+    "folio":6,
+    "stemmed":"若 欲 出 無 相 法  為 欲 出 名 字  假 名 施 設 相  但 有 言 語  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266b21_19",
+    "original":"何以故？",
+    "folio":6,
+    "stemmed":"何 以 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266b22_12",
+    "original":"名字不出三界亦不住薩婆若。",
+    "folio":6,
+    "stemmed":"名 字 不 出 三 界 亦 不 住 薩 婆 若  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266b22_17",
+    "original":"所以者何？",
+    "folio":6,
+    "stemmed":"所以者何  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266b23_8",
+    "original":"名字相名字相空故。",
+    "folio":6,
+    "stemmed":"名 字 相 名 字 相 空 故  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266b23_16",
+    "original":"乃至施設亦如是。",
+    "folio":6,
+    "stemmed":"乃 至 施 設 亦 如 是  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266b25_7",
+    "original":"若欲出無相法，為欲出不生不滅、不垢不淨、無起無作法。",
+    "folio":6,
+    "stemmed":"若 欲 出 無 相 法  為 欲 出 不生不滅  不垢不淨  無 起 無 作 法  "
+  },
+  {
+    "segmentnr":"ZH_T08_0223_006:0266b25_100",
+    "original":"」",
+    "folio":6,
+    "stemmed":" "
+  }
+]

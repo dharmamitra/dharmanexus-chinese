@@ -1,0 +1,4910 @@
+[
+  {
+    "segmentnr":"ZH_T27_1545_200:0998c14_0",
+    "original":"阿毘達磨大毘婆沙論卷第二百",
+    "folio":200,
+    "stemmed":"阿 毘 達 磨 大 毘 婆 沙 論 卷 第 二 百 "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0998c16_0",
+    "original":"五百大阿羅漢等造",
+    "folio":200,
+    "stemmed":"五 百 大阿羅漢 等 造 "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0998c17_0",
+    "original":"三藏法師玄奘奉　詔譯",
+    "folio":200,
+    "stemmed":"三藏法師 玄 奘 奉  詔 譯 "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0998c19_12",
+    "original":"3見蘊第八中見納息第五之三後際分別見中十六有想論者。",
+    "folio":200,
+    "stemmed":"3 見 蘊 第 八 中 見 納 息 第 五 之 三 後 際 分 別 見 中 十 六 有 想 論 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0998c20_3",
+    "original":"謂初四種依三見立。",
+    "folio":200,
+    "stemmed":"謂 初 四 種 依 三 見 立  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0998c20_12",
+    "original":"如說一類補特伽羅。",
+    "folio":200,
+    "stemmed":"如 說 一 類 補 特 伽 羅  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0998c21_3",
+    "original":"起如是見立如是論。",
+    "folio":200,
+    "stemmed":"起 如 是 見 立如是論  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0998c21_8",
+    "original":"命者即身。",
+    "folio":200,
+    "stemmed":"命 者 即 身  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0998c21_17",
+    "original":"復有一類補特伽羅。",
+    "folio":200,
+    "stemmed":"復 有 一 類 補 特 伽 羅  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0998c22_7",
+    "original":"起如是見立如是論。",
+    "folio":200,
+    "stemmed":"起 如 是 見 立如是論  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0998c22_12",
+    "original":"命者異身。",
+    "folio":200,
+    "stemmed":"命 者 異 身  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0998c23_3",
+    "original":"復有一類補特伽羅。",
+    "folio":200,
+    "stemmed":"復 有 一 類 補 特 伽 羅  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0998c23_12",
+    "original":"起如是見立如是論。",
+    "folio":200,
+    "stemmed":"起 如 是 見 立如是論  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0998c23_17",
+    "original":"此總是我。",
+    "folio":200,
+    "stemmed":"此 總 是 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0998c24_7",
+    "original":"遍滿無二無異無缺。",
+    "folio":200,
+    "stemmed":"遍 滿 無 二 無 異 無 缺  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0998c25_6",
+    "original":"依第一見建立第一我有色死後有想論。",
+    "folio":200,
+    "stemmed":"依 第 一 見 建 立 第 一 我 有 色 死 後 有 想 論  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0998c25_15",
+    "original":"謂彼外道執色為我。",
+    "folio":200,
+    "stemmed":"謂 彼 外 道 執 色 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0998c26_6",
+    "original":"執餘四蘊以為我所。",
+    "folio":200,
+    "stemmed":"執 餘 四 蘊 以 為 我 所  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0998c26_15",
+    "original":"彼所執我以色為性。",
+    "folio":200,
+    "stemmed":"彼 所 執 我 以 色 為 性  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0998c27_2",
+    "original":"故名有色。",
+    "folio":200,
+    "stemmed":"故 名 有 色  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0998c27_11",
+    "original":"取諸法相說名為想。",
+    "folio":200,
+    "stemmed":"取 諸 法 相 說 名 為 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0998c28_6",
+    "original":"此有色我有彼想故說名有想。",
+    "folio":200,
+    "stemmed":"此 有 色 我 有 彼 想 故 說 名 有 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0998c28_15",
+    "original":"以執四蘊為我所故。",
+    "folio":200,
+    "stemmed":"以 執 四 蘊 為 我 所 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0998c29_3",
+    "original":"彼作是念。",
+    "folio":200,
+    "stemmed":"彼 作 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0998c29_12",
+    "original":"此有色我死後有想。",
+    "folio":200,
+    "stemmed":"此 有 色 我 死 後 有 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a01_4",
+    "original":"此在欲界全色界一分。",
+    "folio":200,
+    "stemmed":"此 在 欲 界 全 色 界 一 分  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a01_9",
+    "original":"除無想天。",
+    "folio":200,
+    "stemmed":"除 無 想 天  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a01_18",
+    "original":"許無色界亦有色者。",
+    "folio":200,
+    "stemmed":"許 無 色 界 亦 有 色 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a02_8",
+    "original":"此亦在彼前三無色。",
+    "folio":200,
+    "stemmed":"此 亦 在 彼 前 三 無 色  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a02_17",
+    "original":"此有想故不在後一。",
+    "folio":200,
+    "stemmed":"此 有 想 故 不 在 後 一  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a03_16",
+    "original":"依第二見建立第二我無色死後有想論。",
+    "folio":200,
+    "stemmed":"依 第 二 見 建 立 第 二 我 無 色 死 後 有 想 論  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a04_8",
+    "original":"謂彼外道執無色為我。",
+    "folio":200,
+    "stemmed":"謂 彼 外 道 執 無 色 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a05_2",
+    "original":"執色或餘四蘊以為我所。",
+    "folio":200,
+    "stemmed":"執 色 或 餘 四 蘊 以 為 我 所  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a05_15",
+    "original":"謂若除想執餘三蘊總別為我。",
+    "folio":200,
+    "stemmed":"謂 若 除 想 執 餘 三 蘊 總 別 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a06_6",
+    "original":"即執想色蘊為我所。",
+    "folio":200,
+    "stemmed":"即 執 想 色 蘊 為 我 所  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a06_13",
+    "original":"若執想蘊為我。",
+    "folio":200,
+    "stemmed":"若 執 想 蘊 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a07_4",
+    "original":"即執餘蘊為我所。",
+    "folio":200,
+    "stemmed":"即 執 餘 蘊 為 我 所  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a07_17",
+    "original":"彼所執我無色為性故名無色。",
+    "folio":200,
+    "stemmed":"彼 所 執 我 無 色 為 性 故 名 無 色  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a08_8",
+    "original":"取諸法相說名為想。",
+    "folio":200,
+    "stemmed":"取 諸 法 相 說 名 為 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a08_17",
+    "original":"此無色我或想為性。",
+    "folio":200,
+    "stemmed":"此 無 色 我 或 想 為 性  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a09_8",
+    "original":"或有想用說名有想。",
+    "folio":200,
+    "stemmed":"或 有 想 用 說 名 有 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a09_17",
+    "original":"或有彼想說名有想。",
+    "folio":200,
+    "stemmed":"或 有 彼 想 說 名 有 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a10_8",
+    "original":"以執想蘊為我所故。",
+    "folio":200,
+    "stemmed":"以 執 想 蘊 為 我 所 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a10_13",
+    "original":"彼作是念。",
+    "folio":200,
+    "stemmed":"彼 作 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a11_4",
+    "original":"此無色我死後有想。",
+    "folio":200,
+    "stemmed":"此 無 色 我 死 後 有 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a11_15",
+    "original":"此在欲界乃至無所有處。",
+    "folio":200,
+    "stemmed":"此 在 欲 界 乃 至 無所有處  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a12_2",
+    "original":"除無想天。",
+    "folio":200,
+    "stemmed":"除 無 想 天  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a12_12",
+    "original":"依第三見建立第三我。",
+    "folio":200,
+    "stemmed":"依 第 三 見 建 立 第 三 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a13_6",
+    "original":"亦有色亦無色死後有想論。",
+    "folio":200,
+    "stemmed":"亦 有 色 亦 無 色 死 後 有 想 論  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a13_17",
+    "original":"謂彼外道執色無色為我。",
+    "folio":200,
+    "stemmed":"謂 彼 外 道 執 色 無 色 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a14_6",
+    "original":"如諦語外道等。",
+    "folio":200,
+    "stemmed":"如 諦 語 外 道 等  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a14_15",
+    "original":"總於五蘊起一我想。",
+    "folio":200,
+    "stemmed":"總 於 五 蘊 起 一 我 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a15_10",
+    "original":"由彼各別分別諸蘊不得實我。",
+    "folio":200,
+    "stemmed":"由 彼 各 別 分 別 諸 蘊 不 得 實 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a16_6",
+    "original":"猶如各別分別甘酢醎辛苦淡。",
+    "folio":200,
+    "stemmed":"猶 如 各 別 分 別 甘 酢 醎 辛 苦 淡  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a16_15",
+    "original":"無總實有一味可得。",
+    "folio":200,
+    "stemmed":"無 總 實 有 一 味 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a17_11",
+    "original":"彼於諸蘊起一想已總執為我。",
+    "folio":200,
+    "stemmed":"彼 於 諸 蘊 起 一 想 已 總 執 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a18_5",
+    "original":"彼所執我以色無色為性。",
+    "folio":200,
+    "stemmed":"彼 所 執 我 以 色 無 色 為 性  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a18_14",
+    "original":"故名亦有色亦無色。",
+    "folio":200,
+    "stemmed":"故 名 亦 有 色 亦 無 色  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a19_5",
+    "original":"取諸法相說名為想。",
+    "folio":200,
+    "stemmed":"取 諸 法 相 說 名 為 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a19_14",
+    "original":"此亦有色亦無色我。",
+    "folio":200,
+    "stemmed":"此 亦 有 色 亦 無 色 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a20_1",
+    "original":"或以想為性。",
+    "folio":200,
+    "stemmed":"或 以 想 為 性  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a20_10",
+    "original":"或有想用說名有想。",
+    "folio":200,
+    "stemmed":"或 有 想 用 說 名 有 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a21_1",
+    "original":"或有彼想說名有想。",
+    "folio":200,
+    "stemmed":"或 有 彼 想 說 名 有 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a21_10",
+    "original":"以執自身諸蘊為我。",
+    "folio":200,
+    "stemmed":"以 執 自 身 諸 蘊 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a22_2",
+    "original":"執他諸蘊為我所故。",
+    "folio":200,
+    "stemmed":"執 他 諸 蘊 為 我 所 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a22_7",
+    "original":"有餘外道。",
+    "folio":200,
+    "stemmed":"有 餘 外 道  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a22_16",
+    "original":"於有色我見過失已。",
+    "folio":200,
+    "stemmed":"於 有 色 我 見 過 失 已  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a23_5",
+    "original":"依無色我而住。",
+    "folio":200,
+    "stemmed":"依 無 色 我 而 住  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a23_14",
+    "original":"於無色我見過失已。",
+    "folio":200,
+    "stemmed":"於 無 色 我 見 過 失 已  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a24_4",
+    "original":"復依有色我而住。",
+    "folio":200,
+    "stemmed":"復 依 有 色 我 而 住  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a24_13",
+    "original":"彼諸外道我見未斷。",
+    "folio":200,
+    "stemmed":"彼 諸 外 道 我 見 未 斷  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a25_4",
+    "original":"雖執有我而不決定。",
+    "folio":200,
+    "stemmed":"雖 執 有 我 而 不 決 定  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a26_1",
+    "original":"說所執我唯是有色或唯是無色。",
+    "folio":200,
+    "stemmed":"說 所 執 我 唯 是 有 色 或 唯 是 無 色  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a26_6",
+    "original":"然作是念。",
+    "folio":200,
+    "stemmed":"然 作 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a26_14",
+    "original":"此亦有色亦無色。",
+    "folio":200,
+    "stemmed":"此 亦 有 色 亦 無 色  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a27_9",
+    "original":"我死後有想此在欲界全隨其所應。",
+    "folio":200,
+    "stemmed":"我 死 後 有 想 此 在 欲 界 全 隨其所應  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a27_14",
+    "original":"乃至廣說。",
+    "folio":200,
+    "stemmed":"乃至廣說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a28_11",
+    "original":"第四我非有色非無色死後有想論。",
+    "folio":200,
+    "stemmed":"第 四 我 非 有 色 非 無 色 死 後 有 想 論  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a29_3",
+    "original":"即遮第三無別依見。",
+    "folio":200,
+    "stemmed":"即 遮 第 三 無 別 依 見  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999a29_8",
+    "original":"彼作是念。",
+    "folio":200,
+    "stemmed":"彼 作 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b01_6",
+    "original":"我雖實有而不可說定亦有色亦無色。",
+    "folio":200,
+    "stemmed":"我 雖 實 有 而 不 可 說 定 亦 有 色 亦 無 色  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b01_18",
+    "original":"彼見實我定亦有色亦無色。",
+    "folio":200,
+    "stemmed":"彼 見 實 我 定 亦 有 色 亦 無 色  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b02_5",
+    "original":"俱有過失故。",
+    "folio":200,
+    "stemmed":"俱 有 過 失 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b02_9",
+    "original":"作是說。",
+    "folio":200,
+    "stemmed":"作 是 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b03_5",
+    "original":"此我非有色非無色死後有想。",
+    "folio":200,
+    "stemmed":"此 我 非 有 色 非 無 色 死 後 有 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b03_10",
+    "original":"餘如前說。",
+    "folio":200,
+    "stemmed":"餘 如 前 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b04_9",
+    "original":"如是四種或依尋伺或依等至皆容得起。",
+    "folio":200,
+    "stemmed":"如 是 四 種 或 依 尋 伺 或 依 等 至 皆 容 得 起  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b05_3",
+    "original":"執我有邊死後有想論者。",
+    "folio":200,
+    "stemmed":"執 我 有 邊 死 後 有 想 論 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b05_9",
+    "original":"若執色為我。",
+    "folio":200,
+    "stemmed":"若 執 色 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b05_18",
+    "original":"彼所執我體有分限。",
+    "folio":200,
+    "stemmed":"彼 所 執 我 體 有 分 限  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b06_12",
+    "original":"或在心中如指節量光明熾盛。",
+    "folio":200,
+    "stemmed":"或 在 心 中 如 指 節 量 光 明 熾 盛  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b07_8",
+    "original":"或在身中稱身形量內外明徹。",
+    "folio":200,
+    "stemmed":"或 在 身 中 稱 身 形 量 內 外 明 徹  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b08_8",
+    "original":"如說我我形相端嚴光明熾盛清淨第一。",
+    "folio":200,
+    "stemmed":"如 說 我 我 形 相 端 嚴 光 明 熾 盛 清 淨 第 一  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b08_17",
+    "original":"喬答摩尊寧說無我。",
+    "folio":200,
+    "stemmed":"喬 答 摩 尊 寧 說 無 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b09_5",
+    "original":"若執非色為我。",
+    "folio":200,
+    "stemmed":"若 執 非 色 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b09_14",
+    "original":"彼所執我亦有分限。",
+    "folio":200,
+    "stemmed":"彼 所 執 我 亦 有 分 限  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b10_10",
+    "original":"以非色法所依所緣有分限故。",
+    "folio":200,
+    "stemmed":"以 非 色 法 所 依 所 緣 有 分 限 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b10_15",
+    "original":"亦名有邊。",
+    "folio":200,
+    "stemmed":"亦 名 有 邊  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b11_6",
+    "original":"彼依尋伺起如是執。",
+    "folio":200,
+    "stemmed":"彼 依 尋 伺 起 如 是 執  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b12_4",
+    "original":"若依等至起此執者必未得遍處定。",
+    "folio":200,
+    "stemmed":"若 依 等 至 起 此 執 者 必 未 得 遍 處 定  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b12_13",
+    "original":"如是二種俱作是念。",
+    "folio":200,
+    "stemmed":"如是二種 俱 作 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b13_4",
+    "original":"我定有邊死後有想。",
+    "folio":200,
+    "stemmed":"我 定 有 邊 死 後 有 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b13_14",
+    "original":"此在欲界全色界一分。",
+    "folio":200,
+    "stemmed":"此 在 欲 界 全 色 界 一 分  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b14_1",
+    "original":"除無想天。",
+    "folio":200,
+    "stemmed":"除 無 想 天  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b15_1",
+    "original":"許無色界亦有色者此亦在彼前三無色。",
+    "folio":200,
+    "stemmed":"許 無 色 界 亦 有 色 者 此 亦 在 彼 前 三 無 色  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b15_12",
+    "original":"執我無邊死後有想論者。",
+    "folio":200,
+    "stemmed":"執 我 無 邊 死 後 有 想 論 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b15_18",
+    "original":"若執色為我。",
+    "folio":200,
+    "stemmed":"若 執 色 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b16_8",
+    "original":"彼所執我遍一切處。",
+    "folio":200,
+    "stemmed":"彼 所 執 我 遍 一 切 處  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b16_13",
+    "original":"如明論說。",
+    "folio":200,
+    "stemmed":"如 明 論 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b17_8",
+    "original":"有我士夫其量廣大邊際難測。",
+    "folio":200,
+    "stemmed":"有 我 士 夫 其 量 廣 大 邊 際 難 測  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b17_13",
+    "original":"光色如日。",
+    "folio":200,
+    "stemmed":"光 色 如 日  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b18_7",
+    "original":"諸冥闇者雖住其前而不能見。",
+    "folio":200,
+    "stemmed":"諸 冥 闇 者 雖 住 其 前 而 不 能 見  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b19_3",
+    "original":"要知此我方能越度生老病死。",
+    "folio":200,
+    "stemmed":"要 知 此 我 方 能 越 度 生老病死  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b19_12",
+    "original":"異此更無越度理趣。",
+    "folio":200,
+    "stemmed":"異 此 更 無 越 度 理 趣  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b19_17",
+    "original":"又如有說。",
+    "folio":200,
+    "stemmed":"又 如 有 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b20_7",
+    "original":"地即是我我即是地。",
+    "folio":200,
+    "stemmed":"地 即 是 我 我 即 是 地  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b20_12",
+    "original":"其量無邊。",
+    "folio":200,
+    "stemmed":"其 量 無 邊  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b21_1",
+    "original":"若執無色為我。",
+    "folio":200,
+    "stemmed":"若 執 無 色 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b21_6",
+    "original":"彼作是念。",
+    "folio":200,
+    "stemmed":"彼 作 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b21_15",
+    "original":"如不至火終不能燒。",
+    "folio":200,
+    "stemmed":"如 不 至 火 終 不 能 燒  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b22_6",
+    "original":"若不至刀終不能割。",
+    "folio":200,
+    "stemmed":"若 不 至 刀 終 不 能 割  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b22_15",
+    "original":"若不至水終不能潤。",
+    "folio":200,
+    "stemmed":"若 不 至 水 終 不 能 潤  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b23_15",
+    "original":"如是若有不至我者終不能取無邊分量。",
+    "folio":200,
+    "stemmed":"如 是 若 有 不 至 我 者 終 不 能 取 無 邊 分 量  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b24_7",
+    "original":"彼依尋伺起如是執。",
+    "folio":200,
+    "stemmed":"彼 依 尋 伺 起 如 是 執  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b25_6",
+    "original":"若依等至起此執者必已得遍處定。",
+    "folio":200,
+    "stemmed":"若 依 等 至 起 此 執 者 必 已 得 遍 處 定  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b25_15",
+    "original":"如是二種俱作是念。",
+    "folio":200,
+    "stemmed":"如是二種 俱 作 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b26_5",
+    "original":"我定無邊死後有想。",
+    "folio":200,
+    "stemmed":"我 定 無 邊 死 後 有 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b26_15",
+    "original":"此在欲界全隨其所應。",
+    "folio":200,
+    "stemmed":"此 在 欲 界 全 隨其所應  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b27_2",
+    "original":"乃至廣說。",
+    "folio":200,
+    "stemmed":"乃至廣說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b27_17",
+    "original":"執我亦有邊亦無邊死後有想論者。",
+    "folio":200,
+    "stemmed":"執 我 亦 有 邊 亦 無 邊 死 後 有 想 論 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b28_4",
+    "original":"若執色為我。",
+    "folio":200,
+    "stemmed":"若 執 色 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b28_13",
+    "original":"彼所執我隨所依身。",
+    "folio":200,
+    "stemmed":"彼 所 執 我 隨 所 依 身  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b29_4",
+    "original":"或卷或舒其量不定。",
+    "folio":200,
+    "stemmed":"或 卷 或 舒 其 量 不 定  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b29_9",
+    "original":"彼作是念。",
+    "folio":200,
+    "stemmed":"彼 作 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999b29_18",
+    "original":"身若有量我即有邊。",
+    "folio":200,
+    "stemmed":"身 若 有 量 我 即 有 邊  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c01_8",
+    "original":"身若無量我即無邊。",
+    "folio":200,
+    "stemmed":"身 若 無 量 我 即 無 邊  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c01_15",
+    "original":"若執無色為我。",
+    "folio":200,
+    "stemmed":"若 執 無 色 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c02_2",
+    "original":"彼作是念。",
+    "folio":200,
+    "stemmed":"彼 作 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c02_15",
+    "original":"若隨有量所依所緣我即有邊。",
+    "folio":200,
+    "stemmed":"若 隨 有 量 所 依 所 緣 我 即 有 邊  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c03_10",
+    "original":"若隨無量所依所緣我即無邊。",
+    "folio":200,
+    "stemmed":"若 隨 無 量 所 依 所 緣 我 即 無 邊  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c04_1",
+    "original":"如是二種俱作是念。",
+    "folio":200,
+    "stemmed":"如是二種 俱 作 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c04_13",
+    "original":"我亦有邊亦無邊死後有想。",
+    "folio":200,
+    "stemmed":"我 亦 有 邊 亦 無 邊 死 後 有 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c05_4",
+    "original":"此在欲界全隨其所應。",
+    "folio":200,
+    "stemmed":"此 在 欲 界 全 隨其所應  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c05_9",
+    "original":"乃至廣說。",
+    "folio":200,
+    "stemmed":"乃至廣說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c06_6",
+    "original":"執我非有邊非無邊死後有想論者。",
+    "folio":200,
+    "stemmed":"執 我 非 有 邊 非 無 邊 死 後 有 想 論 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c06_15",
+    "original":"即遮第三為此第四。",
+    "folio":200,
+    "stemmed":"即 遮 第 三 為 此 第 四  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c07_6",
+    "original":"三門異說如前應知。",
+    "folio":200,
+    "stemmed":"三 門 異 說 如 前 應 知  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c08_2",
+    "original":"如是四種或依尋伺或依等至。",
+    "folio":200,
+    "stemmed":"如 是 四 種 或 依 尋 伺 或 依 等 至  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c08_7",
+    "original":"皆容得起。",
+    "folio":200,
+    "stemmed":"皆 容 得 起  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c09_8",
+    "original":"依想受異故作是說。",
+    "folio":200,
+    "stemmed":"依 想 受 異 故 作 是 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c10_10",
+    "original":"我有一想我有種種想我有小想我有無量想。",
+    "folio":200,
+    "stemmed":"我 有 一 想 我 有 種 種 想 我 有 小 想 我 有 無 量 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c11_2",
+    "original":"我純有樂我純有苦。",
+    "folio":200,
+    "stemmed":"我 純 有 樂 我 純 有 苦  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c11_17",
+    "original":"我有苦有樂我無苦無樂死後有想。",
+    "folio":200,
+    "stemmed":"我 有 苦 有 樂 我 無 苦 無 樂 死 後 有 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c12_7",
+    "original":"此中我有一想者。",
+    "folio":200,
+    "stemmed":"此 中 我 有 一 想 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c12_14",
+    "original":"謂在前三無色。",
+    "folio":200,
+    "stemmed":"謂 在 前 三 無 色  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c13_9",
+    "original":"由彼諸想一門轉故說名一想。",
+    "folio":200,
+    "stemmed":"由 彼 諸 想 一 門 轉 故 說 名 一 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c13_16",
+    "original":"我有種種想者。",
+    "folio":200,
+    "stemmed":"我 有 種 種 想 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c14_4",
+    "original":"謂在欲色界。",
+    "folio":200,
+    "stemmed":"謂 在 欲 色 界  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c14_9",
+    "original":"除無想天。",
+    "folio":200,
+    "stemmed":"除 無 想 天  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c15_2",
+    "original":"由彼諸想六門四門轉故。",
+    "folio":200,
+    "stemmed":"由 彼 諸 想 六 門 四 門 轉 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c15_13",
+    "original":"及緣種種境故名種種想。",
+    "folio":200,
+    "stemmed":"及 緣 種 種 境 故 名 種 種 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c16_5",
+    "original":"依尋伺者我亦有差別。",
+    "folio":200,
+    "stemmed":"依 尋 伺 者 我 亦 有 差 別  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c17_1",
+    "original":"謂有一種工巧智者名有一想。",
+    "folio":200,
+    "stemmed":"謂 有 一 種 工 巧 智 者 名 有 一 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c17_15",
+    "original":"若有種種工巧智者名有種種想。",
+    "folio":200,
+    "stemmed":"若 有 種 種 工 巧 智 者 名 有 種 種 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c18_3",
+    "original":"我有小想者。",
+    "folio":200,
+    "stemmed":"我 有 小 想 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c18_10",
+    "original":"謂執少色為我。",
+    "folio":200,
+    "stemmed":"謂 執 少 色 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c19_1",
+    "original":"或執少無色為我。",
+    "folio":200,
+    "stemmed":"或 執 少 無 色 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c19_8",
+    "original":"若執少色為我。",
+    "folio":200,
+    "stemmed":"若 執 少 色 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c19_17",
+    "original":"彼執色我其量狹小。",
+    "folio":200,
+    "stemmed":"彼 執 色 我 其 量 狹 小  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c20_3",
+    "original":"如指節等。",
+    "folio":200,
+    "stemmed":"如 指 節 等  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c20_9",
+    "original":"彼執想為我。",
+    "folio":200,
+    "stemmed":"彼 執 想 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c21_1",
+    "original":"所依小身故緣少境故。",
+    "folio":200,
+    "stemmed":"所 依 小 身 故 緣 少 境 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c21_6",
+    "original":"說為小想。",
+    "folio":200,
+    "stemmed":"說 為 小 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c21_15",
+    "original":"我與彼合名有小想。",
+    "folio":200,
+    "stemmed":"我 與 彼 合 名 有 小 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c22_6",
+    "original":"此在欲界全色界一分。",
+    "folio":200,
+    "stemmed":"此 在 欲 界 全 色 界 一 分  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c22_11",
+    "original":"除無想天。",
+    "folio":200,
+    "stemmed":"除 無 想 天  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c23_2",
+    "original":"許無色界亦有色者。",
+    "folio":200,
+    "stemmed":"許 無 色 界 亦 有 色 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c23_11",
+    "original":"此亦在彼前三無色。",
+    "folio":200,
+    "stemmed":"此 亦 在 彼 前 三 無 色  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c24_1",
+    "original":"若執少無色為我。",
+    "folio":200,
+    "stemmed":"若 執 少 無 色 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c24_12",
+    "original":"彼或執受為我想為我所。",
+    "folio":200,
+    "stemmed":"彼 或 執 受 為 我 想 為 我 所  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c24_17",
+    "original":"依小身故。",
+    "folio":200,
+    "stemmed":"依 小 身 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c25_4",
+    "original":"緣少境故。",
+    "folio":200,
+    "stemmed":"緣 少 境 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c25_9",
+    "original":"說為小想。",
+    "folio":200,
+    "stemmed":"說 為 小 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c26_1",
+    "original":"我與彼合名有小想。",
+    "folio":200,
+    "stemmed":"我 與 彼 合 名 有 小 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c26_10",
+    "original":"執行為我執識為我。",
+    "folio":200,
+    "stemmed":"執 行 為 我 執 識 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c26_15",
+    "original":"廣說亦爾。",
+    "folio":200,
+    "stemmed":"廣 說 亦 爾  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c27_2",
+    "original":"若執想為我。",
+    "folio":200,
+    "stemmed":"若 執 想 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c27_13",
+    "original":"彼想依小身故緣少境故。",
+    "folio":200,
+    "stemmed":"彼 想 依 小 身 故 緣 少 境 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c28_1",
+    "original":"說為小想。",
+    "folio":200,
+    "stemmed":"說 為 小 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c28_10",
+    "original":"彼執小想為我性故。",
+    "folio":200,
+    "stemmed":"彼 執 小 想 為 我 性 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c29_2",
+    "original":"或有想用名有小想。",
+    "folio":200,
+    "stemmed":"或 有 想 用 名 有 小 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c29_13",
+    "original":"此在欲界乃至無所有處。",
+    "folio":200,
+    "stemmed":"此 在 欲 界 乃 至 無所有處  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:0999c29_18",
+    "original":"除無想天。",
+    "folio":200,
+    "stemmed":"除 無 想 天  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a01_6",
+    "original":"我有無量想者。",
+    "folio":200,
+    "stemmed":"我 有 無 量 想 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a02_5",
+    "original":"謂執無量色為我或執無量無色為我。",
+    "folio":200,
+    "stemmed":"謂 執 無 量 色 為 我 或 執 無 量 無 色 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a02_13",
+    "original":"若執無量色為我。",
+    "folio":200,
+    "stemmed":"若 執 無 量 色 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a03_4",
+    "original":"彼執色我遍一切處。",
+    "folio":200,
+    "stemmed":"彼 執 色 我 遍 一 切 處  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a03_10",
+    "original":"彼執想為我。",
+    "folio":200,
+    "stemmed":"彼 執 想 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a04_8",
+    "original":"所依無量身故緣無量境故名無量想。",
+    "folio":200,
+    "stemmed":"所 依 無 量 身 故 緣 無 量 境 故 名 無 量 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a05_1",
+    "original":"我與彼合名有無量想。",
+    "folio":200,
+    "stemmed":"我 與 彼 合 名 有 無 量 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a05_11",
+    "original":"此在欲界全色界一分。",
+    "folio":200,
+    "stemmed":"此 在 欲 界 全 色 界 一 分  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a05_16",
+    "original":"除無想天。",
+    "folio":200,
+    "stemmed":"除 無 想 天  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a06_6",
+    "original":"許無色界亦有色者。",
+    "folio":200,
+    "stemmed":"許 無 色 界 亦 有 色 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a06_15",
+    "original":"此亦在彼前三無色。",
+    "folio":200,
+    "stemmed":"此 亦 在 彼 前 三 無 色  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a07_6",
+    "original":"若執無量無色為我。",
+    "folio":200,
+    "stemmed":"若 執 無 量 無 色 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a07_17",
+    "original":"彼或執受為我想為我所。",
+    "folio":200,
+    "stemmed":"彼 或 執 受 為 我 想 為 我 所  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a08_16",
+    "original":"彼想依無量身故緣無量境故名無量想。",
+    "folio":200,
+    "stemmed":"彼 想 依 無 量 身 故 緣 無 量 境 故 名 無 量 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a09_10",
+    "original":"我與彼合故名有無量想。",
+    "folio":200,
+    "stemmed":"我 與 彼 合 故 名 有 無 量 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a10_2",
+    "original":"執行為我執識為我。",
+    "folio":200,
+    "stemmed":"執 行 為 我 執 識 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a10_7",
+    "original":"廣說亦爾。",
+    "folio":200,
+    "stemmed":"廣 說 亦 爾  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a10_13",
+    "original":"若執想為我。",
+    "folio":200,
+    "stemmed":"若 執 想 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a11_11",
+    "original":"彼想依無量身故緣無量境故名無量想。",
+    "folio":200,
+    "stemmed":"彼 想 依 無 量 身 故 緣 無 量 境 故 名 無 量 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a12_4",
+    "original":"彼執無量想為我性故。",
+    "folio":200,
+    "stemmed":"彼 執 無 量 想 為 我 性 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a12_15",
+    "original":"或有想用故名有無量想。",
+    "folio":200,
+    "stemmed":"或 有 想 用 故 名 有 無 量 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a13_9",
+    "original":"此在欲界乃至無所有處。",
+    "folio":200,
+    "stemmed":"此 在 欲 界 乃 至 無所有處  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a13_14",
+    "original":"除無想天。",
+    "folio":200,
+    "stemmed":"除 無 想 天  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a14_13",
+    "original":"如是四種或依尋伺或依等至皆容得起。",
+    "folio":200,
+    "stemmed":"如 是 四 種 或 依 尋 伺 或 依 等 至 皆 容 得 起  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a15_2",
+    "original":"我純有樂者。",
+    "folio":200,
+    "stemmed":"我 純 有 樂 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a15_9",
+    "original":"謂在前三靜慮。",
+    "folio":200,
+    "stemmed":"謂 在 前 三 靜 慮  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a16_8",
+    "original":"諸得定者以天眼通見三靜慮恒時受樂。",
+    "folio":200,
+    "stemmed":"諸 得 定 者 以 天 眼 通 見 三 靜 慮 恒 時 受 樂  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a16_17",
+    "original":"後從彼歿來生此間。",
+    "folio":200,
+    "stemmed":"後 從 彼 歿 來 生 此 間  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a17_8",
+    "original":"便作是念我純有樂。",
+    "folio":200,
+    "stemmed":"便 作 是 念 我 純 有 樂  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a18_8",
+    "original":"諸尋伺者見諸有情於一切時與樂具合。",
+    "folio":200,
+    "stemmed":"諸 尋 伺 者 見 諸 有 情 於一切時 與 樂 具 合  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a18_17",
+    "original":"便作是念我純有樂。",
+    "folio":200,
+    "stemmed":"便 作 是 念 我 純 有 樂  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a19_8",
+    "original":"如於此世他世亦爾。",
+    "folio":200,
+    "stemmed":"如 於 此世他世 亦 爾  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a19_14",
+    "original":"我純有苦者。",
+    "folio":200,
+    "stemmed":"我 純 有 苦 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a20_1",
+    "original":"謂在地獄。",
+    "folio":200,
+    "stemmed":"謂 在 地 獄  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a21_1",
+    "original":"諸得定者以天眼通見在地獄恒時受苦。",
+    "folio":200,
+    "stemmed":"諸 得 定 者 以 天 眼 通 見 在 地 獄 恒 時 受 苦  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a21_10",
+    "original":"後從彼歿來生此間。",
+    "folio":200,
+    "stemmed":"後 從 彼 歿 來 生 此 間  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a22_1",
+    "original":"便作是念我純有苦。",
+    "folio":200,
+    "stemmed":"便 作 是 念 我 純 有 苦  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a23_1",
+    "original":"諸尋伺者見諸有情於一切時與苦具合。",
+    "folio":200,
+    "stemmed":"諸 尋 伺 者 見 諸 有 情 於一切時 與 苦 具 合  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a23_10",
+    "original":"便作是念我純有苦。",
+    "folio":200,
+    "stemmed":"便 作 是 念 我 純 有 苦  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a24_1",
+    "original":"如於此世他世亦爾。",
+    "folio":200,
+    "stemmed":"如 於 此世他世 亦 爾  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a24_8",
+    "original":"我有苦有樂者。",
+    "folio":200,
+    "stemmed":"我 有 苦 有 樂 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a25_2",
+    "original":"謂在傍生鬼界人及欲界天。",
+    "folio":200,
+    "stemmed":"謂 在 傍 生 鬼 界 人 及 欲 界 天  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a26_2",
+    "original":"諸得定者以天眼通見彼有情苦樂雜受。",
+    "folio":200,
+    "stemmed":"諸 得 定 者 以 天 眼 通 見 彼 有 情 苦 樂 雜 受  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a26_11",
+    "original":"後從彼歿來生此間。",
+    "folio":200,
+    "stemmed":"後 從 彼 歿 來 生 此 間  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a27_3",
+    "original":"便作是念我有苦有樂。",
+    "folio":200,
+    "stemmed":"便 作 是 念 我 有 苦 有 樂  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a28_3",
+    "original":"諸尋伺者見諸有情有時與苦具合有時。",
+    "folio":200,
+    "stemmed":"諸 尋 伺 者 見 諸 有 情 有 時 與 苦 具 合 有 時  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a28_8",
+    "original":"與樂具合。",
+    "folio":200,
+    "stemmed":"與 樂 具 合  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a28_18",
+    "original":"便作是念我有苦有樂。",
+    "folio":200,
+    "stemmed":"便 作 是 念 我 有 苦 有 樂  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a29_8",
+    "original":"如於此世他世亦爾。",
+    "folio":200,
+    "stemmed":"如 於 此世他世 亦 爾  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000a29_15",
+    "original":"我無苦無樂者。",
+    "folio":200,
+    "stemmed":"我 無 苦 無 樂 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000b01_10",
+    "original":"謂在第四靜慮乃至無所有處。",
+    "folio":200,
+    "stemmed":"謂 在 第四靜慮 乃 至 無所有處  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000b02_5",
+    "original":"諸得定者知彼有情無苦無樂。",
+    "folio":200,
+    "stemmed":"諸 得 定 者 知 彼 有 情 無 苦 無 樂  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000b02_14",
+    "original":"後從彼歿來生此間。",
+    "folio":200,
+    "stemmed":"後 從 彼 歿 來 生 此 間  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000b03_6",
+    "original":"便作是念我無苦無樂。",
+    "folio":200,
+    "stemmed":"便 作 是 念 我 無 苦 無 樂  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000b03_15",
+    "original":"諸尋伺者作如是念。",
+    "folio":200,
+    "stemmed":"諸 尋 伺 者 作如是念  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000b04_6",
+    "original":"我體是常不明了轉。",
+    "folio":200,
+    "stemmed":"我 體 是 常 不 明 了 轉  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000b05_6",
+    "original":"雖有暫與苦樂相應而彼是客我非有彼。",
+    "folio":200,
+    "stemmed":"雖 有 暫 與 苦 樂 相 應 而 彼 是 客 我 非 有 彼  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000b05_15",
+    "original":"此十六種後際分別。",
+    "folio":200,
+    "stemmed":"此 十 六 種 後 際 分 別  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000b06_9",
+    "original":"諸有想論依前所說十六事起。",
+    "folio":200,
+    "stemmed":"諸 有 想 論 依 前 所 說 十 六 事 起  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000b06_15",
+    "original":"八無想論者。",
+    "folio":200,
+    "stemmed":"八 無 想 論 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000b07_6",
+    "original":"謂有色等四有邊等四。",
+    "folio":200,
+    "stemmed":"謂 有 色 等 四 有 邊 等 四  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000b07_12",
+    "original":"有色等四者。",
+    "folio":200,
+    "stemmed":"有 色 等 四 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000b08_3",
+    "original":"一執我有色死後無想。",
+    "folio":200,
+    "stemmed":"一 執 我 有 色 死 後 無 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000b08_14",
+    "original":"謂彼執色為我得無想定。",
+    "folio":200,
+    "stemmed":"謂 彼 執 色 為 我 得 無 想 定  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000b09_13",
+    "original":"及見他得彼定生無想有情天便作是念。",
+    "folio":200,
+    "stemmed":"及 見 他 得 彼 定 生 無想有情 天 便 作 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000b10_4",
+    "original":"我有色死後無想。",
+    "folio":200,
+    "stemmed":"我 有 色 死 後 無 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000b10_17",
+    "original":"當生無想有情天中想不起故。",
+    "folio":200,
+    "stemmed":"當 生 無想有情 天 中 想 不 起 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000b11_8",
+    "original":"諸尋伺者執色為我。",
+    "folio":200,
+    "stemmed":"諸 尋 伺 者 執 色 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000b12_12",
+    "original":"見有風癎熟眠悶絕苦受所切似全無想便作是念。",
+    "folio":200,
+    "stemmed":"見 有 風 癎 熟 眠 悶 絕 苦 受 所 切 似 全 無 想 便 作 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000b13_4",
+    "original":"我雖有色而無其想。",
+    "folio":200,
+    "stemmed":"我 雖 有 色 而 無 其 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000b13_13",
+    "original":"如於此世他世亦爾。",
+    "folio":200,
+    "stemmed":"如 於 此世他世 亦 爾  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000b14_5",
+    "original":"二執我無色死後無想。",
+    "folio":200,
+    "stemmed":"二 執 我 無 色 死 後 無 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000b14_17",
+    "original":"謂彼執命根為我得無想定。",
+    "folio":200,
+    "stemmed":"謂 彼 執 命 根 為 我 得 無 想 定  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000b15_12",
+    "original":"及見他得彼定生無想有情天。",
+    "folio":200,
+    "stemmed":"及 見 他 得 彼 定 生 無想有情 天  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000b15_17",
+    "original":"便作是念。",
+    "folio":200,
+    "stemmed":"便 作 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000b16_15",
+    "original":"我無色死後無想當生無想有情天中。",
+    "folio":200,
+    "stemmed":"我 無 色 死 後 無 想 當 生 無想有情 天 中  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000b17_2",
+    "original":"想不起故。",
+    "folio":200,
+    "stemmed":"想 不 起 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000b17_12",
+    "original":"諸尋伺者執命根為我。",
+    "folio":200,
+    "stemmed":"諸 尋 伺 者 執 命 根 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000b18_11",
+    "original":"見有風癎熟眠悶絕苦受所切似全無想。",
+    "folio":200,
+    "stemmed":"見 有 風 癎 熟 眠 悶 絕 苦 受 所 切 似 全 無 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000b18_16",
+    "original":"便作是念。",
+    "folio":200,
+    "stemmed":"便 作 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000b19_5",
+    "original":"我無色亦無想。",
+    "folio":200,
+    "stemmed":"我 無 色 亦 無 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000b19_14",
+    "original":"如於此世他世亦爾。",
+    "folio":200,
+    "stemmed":"如 於 此世他世 亦 爾  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000b20_9",
+    "original":"有尋伺者除想執餘三蘊為我。",
+    "folio":200,
+    "stemmed":"有 尋 伺 者 除 想 執 餘 三 蘊 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000b21_3",
+    "original":"亦容執我無色死後無想。",
+    "folio":200,
+    "stemmed":"亦 容 執 我 無 色 死 後 無 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000b21_17",
+    "original":"三執我亦有色亦無色死後無想。",
+    "folio":200,
+    "stemmed":"三 執 我 亦 有 色 亦 無 色 死 後 無 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000b22_7",
+    "original":"謂彼執色命根為我。",
+    "folio":200,
+    "stemmed":"謂 彼 執 色 命 根 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000b22_16",
+    "original":"彼於此二起一我想。",
+    "folio":200,
+    "stemmed":"彼 於 此 二 起 一 我 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000b23_11",
+    "original":"由彼各別分別此二不得實我。",
+    "folio":200,
+    "stemmed":"由 彼 各 別 分 別 此 二 不 得 實 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000b24_7",
+    "original":"猶如各別分別甘等不得總味。",
+    "folio":200,
+    "stemmed":"猶 如 各 別 分 別 甘 等 不 得 總 味  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000b25_3",
+    "original":"彼執此二為一我已得無想定。",
+    "folio":200,
+    "stemmed":"彼 執 此 二 為 一 我 已 得 無 想 定  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000b25_16",
+    "original":"及見他得彼定生無想有情天。",
+    "folio":200,
+    "stemmed":"及 見 他 得 彼 定 生 無想有情 天  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000b26_3",
+    "original":"便作是念。",
+    "folio":200,
+    "stemmed":"便 作 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000b26_15",
+    "original":"我亦有色亦無色死後無想。",
+    "folio":200,
+    "stemmed":"我 亦 有 色 亦 無 色 死 後 無 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000b27_6",
+    "original":"當生無想有情天中。",
+    "folio":200,
+    "stemmed":"當 生 無想有情 天 中  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000b27_11",
+    "original":"想不起故。",
+    "folio":200,
+    "stemmed":"想 不 起 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000b28_3",
+    "original":"諸尋伺者執色命根為我。",
+    "folio":200,
+    "stemmed":"諸 尋 伺 者 執 色 命 根 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000b29_3",
+    "original":"見有風癎熟眠悶絕苦受所切似全無想。",
+    "folio":200,
+    "stemmed":"見 有 風 癎 熟 眠 悶 絕 苦 受 所 切 似 全 無 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000b29_8",
+    "original":"便作是念。",
+    "folio":200,
+    "stemmed":"便 作 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c01_1",
+    "original":"我亦有色亦無色而全無想。",
+    "folio":200,
+    "stemmed":"我 亦 有 色 亦 無 色 而 全 無 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c01_10",
+    "original":"如於此世他世亦爾。",
+    "folio":200,
+    "stemmed":"如 於 此世他世 亦 爾  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c03_2",
+    "original":"有尋伺者除想執餘四蘊為我亦容執我亦有色亦無色死後無想。",
+    "folio":200,
+    "stemmed":"有 尋 伺 者 除 想 執 餘 四 蘊 為 我 亦 容 執 我 亦 有 色 亦 無 色 死 後 無 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c03_16",
+    "original":"四執我非有色非無色死後無想。",
+    "folio":200,
+    "stemmed":"四 執 我 非 有 色 非 無 色 死 後 無 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c04_7",
+    "original":"即遮第三為此第四。",
+    "folio":200,
+    "stemmed":"即 遮 第 三 為 此 第 四  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c04_16",
+    "original":"三門異說如前應知。",
+    "folio":200,
+    "stemmed":"三 門 異 說 如 前 應 知  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c05_4",
+    "original":"有邊等四者。",
+    "folio":200,
+    "stemmed":"有 邊 等 四 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c05_14",
+    "original":"一執我有邊死後無想。",
+    "folio":200,
+    "stemmed":"一 執 我 有 邊 死 後 無 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c06_2",
+    "original":"謂若執色為我。",
+    "folio":200,
+    "stemmed":"謂 若 執 色 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c06_11",
+    "original":"彼執色我其量狹小。",
+    "folio":200,
+    "stemmed":"彼 執 色 我 其 量 狹 小  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c06_16",
+    "original":"如指節等。",
+    "folio":200,
+    "stemmed":"如 指 節 等  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c07_4",
+    "original":"若執無色為我。",
+    "folio":200,
+    "stemmed":"若 執 無 色 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c07_11",
+    "original":"彼執命根為我。",
+    "folio":200,
+    "stemmed":"彼 執 命 根 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c08_3",
+    "original":"遍在身中稱身形量。",
+    "folio":200,
+    "stemmed":"遍 在 身 中 稱 身 形 量  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c08_12",
+    "original":"如是執已得無想定。",
+    "folio":200,
+    "stemmed":"如 是 執 已 得 無 想 定  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c09_7",
+    "original":"及見他得彼定生無想有情天。",
+    "folio":200,
+    "stemmed":"及 見 他 得 彼 定 生 無想有情 天  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c09_12",
+    "original":"便作是念。",
+    "folio":200,
+    "stemmed":"便 作 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c10_2",
+    "original":"我有邊死後無想。",
+    "folio":200,
+    "stemmed":"我 有 邊 死 後 無 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c10_11",
+    "original":"當生無想有情天中。",
+    "folio":200,
+    "stemmed":"當 生 無想有情 天 中  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c10_16",
+    "original":"想不起故。",
+    "folio":200,
+    "stemmed":"想 不 起 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c11_11",
+    "original":"諸尋伺者亦執彼為我見有風癎。",
+    "folio":200,
+    "stemmed":"諸 尋 伺 者 亦 執 彼 為 我 見 有 風 癎  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c11_16",
+    "original":"隨其所應。",
+    "folio":200,
+    "stemmed":"隨其所應  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c12_3",
+    "original":"廣如前說。",
+    "folio":200,
+    "stemmed":"廣 如 前 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c12_13",
+    "original":"二執我無邊死後無想。",
+    "folio":200,
+    "stemmed":"二 執 我 無 邊 死 後 無 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c13_1",
+    "original":"謂若執色為我。",
+    "folio":200,
+    "stemmed":"謂 若 執 色 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c13_10",
+    "original":"彼執色我遍一切處。",
+    "folio":200,
+    "stemmed":"彼 執 色 我 遍 一 切 處  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c13_17",
+    "original":"若執無色為我。",
+    "folio":200,
+    "stemmed":"若 執 無 色 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c14_6",
+    "original":"彼執命根為我。",
+    "folio":200,
+    "stemmed":"彼 執 命 根 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c14_12",
+    "original":"亦遍一切處。",
+    "folio":200,
+    "stemmed":"亦 遍 一 切 處  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c15_3",
+    "original":"如是執已得無想定。",
+    "folio":200,
+    "stemmed":"如 是 執 已 得 無 想 定  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c15_16",
+    "original":"及見他得彼定生無想有情天。",
+    "folio":200,
+    "stemmed":"及 見 他 得 彼 定 生 無想有情 天  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c16_3",
+    "original":"便作是念。",
+    "folio":200,
+    "stemmed":"便 作 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c16_11",
+    "original":"我無邊死後無想。",
+    "folio":200,
+    "stemmed":"我 無 邊 死 後 無 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c17_2",
+    "original":"當生無想有情天中。",
+    "folio":200,
+    "stemmed":"當 生 無想有情 天 中  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c17_7",
+    "original":"想不起故。",
+    "folio":200,
+    "stemmed":"想 不 起 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c17_17",
+    "original":"諸尋伺者亦執彼為我。",
+    "folio":200,
+    "stemmed":"諸 尋 伺 者 亦 執 彼 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c18_3",
+    "original":"見有風癎。",
+    "folio":200,
+    "stemmed":"見 有 風 癎  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c18_12",
+    "original":"隨其所應廣如前說。",
+    "folio":200,
+    "stemmed":"隨其所應 廣 如 前 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c19_8",
+    "original":"三執我亦有邊亦無邊死後無想。",
+    "folio":200,
+    "stemmed":"三 執 我 亦 有 邊 亦 無 邊 死 後 無 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c19_15",
+    "original":"謂若執色為我。",
+    "folio":200,
+    "stemmed":"謂 若 執 色 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c20_6",
+    "original":"彼執色我或卷或舒。",
+    "folio":200,
+    "stemmed":"彼 執 色 我 或 卷 或 舒  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c20_13",
+    "original":"若執無色為我。",
+    "folio":200,
+    "stemmed":"若 執 無 色 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c21_2",
+    "original":"彼執命根為我。",
+    "folio":200,
+    "stemmed":"彼 執 命 根 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c21_11",
+    "original":"亦如身色或卷或舒。",
+    "folio":200,
+    "stemmed":"亦 如 身 色 或 卷 或 舒  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c22_2",
+    "original":"如是執已得無想定。",
+    "folio":200,
+    "stemmed":"如 是 執 已 得 無 想 定  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c22_15",
+    "original":"及見他得彼定生無想有情天。",
+    "folio":200,
+    "stemmed":"及 見 他 得 彼 定 生 無想有情 天  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c23_2",
+    "original":"便作是念。",
+    "folio":200,
+    "stemmed":"便 作 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c23_14",
+    "original":"我亦有邊亦無邊死後無想。",
+    "folio":200,
+    "stemmed":"我 亦 有 邊 亦 無 邊 死 後 無 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c24_5",
+    "original":"當生無想有情天中。",
+    "folio":200,
+    "stemmed":"當 生 無想有情 天 中  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c24_10",
+    "original":"想不起故。",
+    "folio":200,
+    "stemmed":"想 不 起 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c25_1",
+    "original":"諸尋伺者亦執彼為我。",
+    "folio":200,
+    "stemmed":"諸 尋 伺 者 亦 執 彼 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c25_10",
+    "original":"隨其所應廣如前說。",
+    "folio":200,
+    "stemmed":"隨其所應 廣 如 前 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c26_7",
+    "original":"四執我非有邊非無邊死後無想。",
+    "folio":200,
+    "stemmed":"四 執 我 非 有 邊 非 無 邊 死 後 無 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c26_16",
+    "original":"即遮第三為此第四。",
+    "folio":200,
+    "stemmed":"即 遮 第 三 為 此 第 四  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c27_7",
+    "original":"三門異說如前應知。",
+    "folio":200,
+    "stemmed":"三 門 異 說 如 前 應 知  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c27_16",
+    "original":"如是八種後際分別。",
+    "folio":200,
+    "stemmed":"如 是 八 種 後 際 分 別  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c28_7",
+    "original":"諸無想論依前所說。",
+    "folio":200,
+    "stemmed":"諸 無 想 論 依 前 所 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c28_12",
+    "original":"八種事起。",
+    "folio":200,
+    "stemmed":"八 種 事 起  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1000c29_9",
+    "original":"八非有想非無想論者。",
+    "folio":200,
+    "stemmed":"八 非 有 想 非 無 想 論 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001a01_1",
+    "original":"謂有色等四有邊等四。",
+    "folio":200,
+    "stemmed":"謂 有 色 等 四 有 邊 等 四  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001a01_7",
+    "original":"有色等四者。",
+    "folio":200,
+    "stemmed":"有 色 等 四 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001a02_2",
+    "original":"一執我有色死後非有想非無想。",
+    "folio":200,
+    "stemmed":"一 執 我 有 色 死 後 非 有 想 非 無 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001a02_11",
+    "original":"謂尋伺者執色為我。",
+    "folio":200,
+    "stemmed":"謂 尋 伺 者 執 色 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001a03_2",
+    "original":"彼見有情想不明了。",
+    "folio":200,
+    "stemmed":"彼 見 有 情 想 不 明 了  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001a03_7",
+    "original":"便作是念。",
+    "folio":200,
+    "stemmed":"便 作 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001a03_17",
+    "original":"我有色非有想非無想。",
+    "folio":200,
+    "stemmed":"我 有 色 非 有 想 非 無 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001a04_7",
+    "original":"如於此世他世亦爾。",
+    "folio":200,
+    "stemmed":"如 於 此世他世 亦 爾  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001a04_16",
+    "original":"非得彼定可有此執。",
+    "folio":200,
+    "stemmed":"非 得 彼 定 可 有 此 執  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001a05_4",
+    "original":"所以者何。",
+    "folio":200,
+    "stemmed":"所以者何  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001a05_14",
+    "original":"要已離無所有處染者。",
+    "folio":200,
+    "stemmed":"要 已 離 無所有處 染 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001a06_10",
+    "original":"方可執非想非非想處諸蘊為我。",
+    "folio":200,
+    "stemmed":"方 可 執 非想非非想處 諸 蘊 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001a07_6",
+    "original":"彼既無色此執理無有依別義說。",
+    "folio":200,
+    "stemmed":"彼 既 無 色 此 執 理 無 有 依 別 義 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001a07_14",
+    "original":"得彼定亦有此執。",
+    "folio":200,
+    "stemmed":"得 彼 定 亦 有 此 執  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001a08_11",
+    "original":"謂生欲色界已離無所有處染者。",
+    "folio":200,
+    "stemmed":"謂 生 欲 色 界 已 離 無所有處 染 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001a09_6",
+    "original":"執非想非非想處諸蘊為我。",
+    "folio":200,
+    "stemmed":"執 非想非非想處 諸 蘊 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001a09_15",
+    "original":"彼所執我體雖非色。",
+    "folio":200,
+    "stemmed":"彼 所 執 我 體 雖 非 色  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001a10_6",
+    "original":"而與色合名有色我。",
+    "folio":200,
+    "stemmed":"而 與 色 合 名 有 色 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001a10_17",
+    "original":"如說有髻人而人體非髻。",
+    "folio":200,
+    "stemmed":"如 說 有 髻 人 而 人 體 非 髻  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001a11_8",
+    "original":"彼雖不執色為我所。",
+    "folio":200,
+    "stemmed":"彼 雖 不 執 色 為 我 所  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001a11_17",
+    "original":"而所執我未離色身。",
+    "folio":200,
+    "stemmed":"而 所 執 我 未 離 色 身  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001a12_12",
+    "original":"乃至命終猶隨身故說我有色。",
+    "folio":200,
+    "stemmed":"乃至命終 猶 隨 身 故 說 我 有 色  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001a13_11",
+    "original":"彼由所入非想非非想處定想不明了故。",
+    "folio":200,
+    "stemmed":"彼 由 所 入 非想非非想處定 想 不 明 了 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001a14_8",
+    "original":"執我現在非有想非無想死後亦然。",
+    "folio":200,
+    "stemmed":"執 我 現 在 非 有 想 非 無 想 死 後 亦 然  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001a14_17",
+    "original":"許無色界亦有色者。",
+    "folio":200,
+    "stemmed":"許 無 色 界 亦 有 色 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001a15_13",
+    "original":"彼許有執非想非非想處我實有色。",
+    "folio":200,
+    "stemmed":"彼 許 有 執 非想非非想處 我 實 有 色  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001a16_4",
+    "original":"而非有想亦非無想。",
+    "folio":200,
+    "stemmed":"而 非 有 想 亦 非 無 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001a16_18",
+    "original":"二執我無色死後非有想非無想。",
+    "folio":200,
+    "stemmed":"二 執 我 無 色 死 後 非 有 想 非 無 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001a18_1",
+    "original":"謂得彼定者執非想非非想處諸無色蘊為我。",
+    "folio":200,
+    "stemmed":"謂 得 彼 定 者 執 非想非非想處 諸 無 色 蘊 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001a18_6",
+    "original":"或為我所。",
+    "folio":200,
+    "stemmed":"或 為 我 所  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001a18_16",
+    "original":"彼所執我以無色為性。",
+    "folio":200,
+    "stemmed":"彼 所 執 我 以 無 色 為 性  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001a19_8",
+    "original":"或有無色故名無色我。",
+    "folio":200,
+    "stemmed":"或 有 無 色 故 名 無 色 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001a20_8",
+    "original":"彼由所入非想非非想處定想不明了故。",
+    "folio":200,
+    "stemmed":"彼 由 所 入 非想非非想處定 想 不 明 了 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001a21_5",
+    "original":"執我現在非有想非無想死後亦然。",
+    "folio":200,
+    "stemmed":"執 我 現 在 非 有 想 非 無 想 死 後 亦 然  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001a21_15",
+    "original":"諸尋伺者執無色為我。",
+    "folio":200,
+    "stemmed":"諸 尋 伺 者 執 無 色 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001a22_10",
+    "original":"彼見有情想不明了便作是念。",
+    "folio":200,
+    "stemmed":"彼 見 有 情 想 不 明 了 便 作 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001a23_3",
+    "original":"我無色非有想非無想。",
+    "folio":200,
+    "stemmed":"我 無 色 非 有 想 非 無 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001a23_12",
+    "original":"如於此世他世亦爾。",
+    "folio":200,
+    "stemmed":"如 於 此世他世 亦 爾  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001a24_12",
+    "original":"三執我亦有色亦無色死後非有想非無想。",
+    "folio":200,
+    "stemmed":"三 執 我 亦 有 色 亦 無 色 死 後 非 有 想 非 無 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001a25_5",
+    "original":"謂尋伺者執色無色為我。",
+    "folio":200,
+    "stemmed":"謂 尋 伺 者 執 色 無 色 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001a25_14",
+    "original":"彼見有情想不明了。",
+    "folio":200,
+    "stemmed":"彼 見 有 情 想 不 明 了  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001a26_1",
+    "original":"便作是念。",
+    "folio":200,
+    "stemmed":"便 作 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001a26_15",
+    "original":"我亦有色亦無色非有想非無想。",
+    "folio":200,
+    "stemmed":"我 亦 有 色 亦 無 色 非 有 想 非 無 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001a27_5",
+    "original":"如於此世他世亦爾。",
+    "folio":200,
+    "stemmed":"如 於 此世他世 亦 爾  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001a27_14",
+    "original":"非得彼定可有此執。",
+    "folio":200,
+    "stemmed":"非 得 彼 定 可 有 此 執  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001a28_2",
+    "original":"所以者何。",
+    "folio":200,
+    "stemmed":"所以者何  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001a28_12",
+    "original":"要已離無所有處染者。",
+    "folio":200,
+    "stemmed":"要 已 離 無所有處 染 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001a29_8",
+    "original":"方可執非想非非想處諸蘊為我。",
+    "folio":200,
+    "stemmed":"方 可 執 非想非非想處 諸 蘊 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001b01_1",
+    "original":"彼既無色此執理無有。",
+    "folio":200,
+    "stemmed":"彼 既 無 色 此 執 理 無 有  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001b01_6",
+    "original":"依別義說。",
+    "folio":200,
+    "stemmed":"依 別 義 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001b01_14",
+    "original":"得彼定亦有此執。",
+    "folio":200,
+    "stemmed":"得 彼 定 亦 有 此 執  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001b02_10",
+    "original":"謂生欲色界已離無所有處染者。",
+    "folio":200,
+    "stemmed":"謂 生 欲 色 界 已 離 無所有處 染 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001b03_5",
+    "original":"執非想非非想處諸蘊為我。",
+    "folio":200,
+    "stemmed":"執 非想非非想處 諸 蘊 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001b04_5",
+    "original":"彼所執我體雖非色而與色合名有色我。",
+    "folio":200,
+    "stemmed":"彼 所 執 我 體 雖 非 色 而 與 色 合 名 有 色 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001b05_7",
+    "original":"如說有髻人而人體非髻彼雖不執色為我所。",
+    "folio":200,
+    "stemmed":"如 說 有 髻 人 而 人 體 非 髻 彼 雖 不 執 色 為 我 所  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001b05_16",
+    "original":"而所執我未離色身。",
+    "folio":200,
+    "stemmed":"而 所 執 我 未 離 色 身  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001b06_12",
+    "original":"乃至命終猶隨身故說我亦有色。",
+    "folio":200,
+    "stemmed":"乃至命終 猶 隨 身 故 說 我 亦 有 色  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001b07_7",
+    "original":"執無色為我故說我亦無色。",
+    "folio":200,
+    "stemmed":"執 無 色 為 我 故 說 我 亦 無 色  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001b08_6",
+    "original":"彼由所入非想非非想處定想不明了故。",
+    "folio":200,
+    "stemmed":"彼 由 所 入 非想非非想處定 想 不 明 了 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001b09_4",
+    "original":"執我現在非有想非無想死後亦然。",
+    "folio":200,
+    "stemmed":"執 我 現 在 非 有 想 非 無 想 死 後 亦 然  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001b09_13",
+    "original":"許無色界亦有色者。",
+    "folio":200,
+    "stemmed":"許 無 色 界 亦 有 色 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001b10_14",
+    "original":"彼許有執非想非非想處我實亦有色亦無色。",
+    "folio":200,
+    "stemmed":"彼 許 有 執 非想非非想處 我 實 亦 有 色 亦 無 色  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001b11_5",
+    "original":"而非有想亦非無想。",
+    "folio":200,
+    "stemmed":"而 非 有 想 亦 非 無 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001b11_15",
+    "original":"四執我非有色非無色。",
+    "folio":200,
+    "stemmed":"四 執 我 非 有 色 非 無 色  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001b12_6",
+    "original":"死後非有想非無想。",
+    "folio":200,
+    "stemmed":"死 後 非 有 想 非 無 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001b12_15",
+    "original":"即遮第三為此第四。",
+    "folio":200,
+    "stemmed":"即 遮 第 三 為 此 第 四  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001b13_6",
+    "original":"三門異說如前應知。",
+    "folio":200,
+    "stemmed":"三 門 異 說 如 前 應 知  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001b14_5",
+    "original":"有邊等四者。",
+    "folio":200,
+    "stemmed":"有 邊 等 四 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001b15_2",
+    "original":"一執我有邊死後非有想非無想。",
+    "folio":200,
+    "stemmed":"一 執 我 有 邊 死 後 非 有 想 非 無 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001b15_16",
+    "original":"二執我無邊死後非有想非無想。",
+    "folio":200,
+    "stemmed":"二 執 我 無 邊 死 後 非 有 想 非 無 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001b16_7",
+    "original":"三執我亦有邊亦無邊。",
+    "folio":200,
+    "stemmed":"三 執 我 亦 有 邊 亦 無 邊  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001b16_16",
+    "original":"死後非有想非無想。",
+    "folio":200,
+    "stemmed":"死 後 非 有 想 非 無 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001b17_7",
+    "original":"四執我非有邊非無邊。",
+    "folio":200,
+    "stemmed":"四 執 我 非 有 邊 非 無 邊  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001b17_16",
+    "original":"死後非有想非無想。",
+    "folio":200,
+    "stemmed":"死 後 非 有 想 非 無 想  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001b18_8",
+    "original":"如是一切皆執無色為我。",
+    "folio":200,
+    "stemmed":"如是一切 皆 執 無 色 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001b19_7",
+    "original":"已得非想非非想處定者皆容有此執。",
+    "folio":200,
+    "stemmed":"已 得 非想非非想處定 者 皆 容 有 此 執  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001b20_4",
+    "original":"又此一切皆容執非想非非想處。",
+    "folio":200,
+    "stemmed":"又 此 一 切 皆 容 執 非想非非想處  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001b20_13",
+    "original":"四無色蘊為我我所。",
+    "folio":200,
+    "stemmed":"四無色蘊 為 我 我 所  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001b21_3",
+    "original":"一由彼定時分促故。",
+    "folio":200,
+    "stemmed":"一 由 彼 定 時 分 促 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001b21_16",
+    "original":"以一一蘊為所緣故執我有邊。",
+    "folio":200,
+    "stemmed":"以 一 一 蘊 為 所 緣 故 執 我 有 邊  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001b22_7",
+    "original":"二由彼定時分長故。",
+    "folio":200,
+    "stemmed":"二 由 彼 定 時 分 長 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001b23_3",
+    "original":"總以四蘊為所緣故執我無邊。",
+    "folio":200,
+    "stemmed":"總 以 四 蘊 為 所 緣 故 執 我 無 邊  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001b23_15",
+    "original":"三由彼定時分或促或長故。",
+    "folio":200,
+    "stemmed":"三 由 彼 定 時 分 或 促 或 長 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001b24_9",
+    "original":"或一一蘊或總四蘊為所緣故。",
+    "folio":200,
+    "stemmed":"或 一 一 蘊 或 總 四 蘊 為 所 緣 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001b25_1",
+    "original":"執我亦有邊亦無邊。",
+    "folio":200,
+    "stemmed":"執 我 亦 有 邊 亦 無 邊  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001b25_10",
+    "original":"即遮第三為其第四。",
+    "folio":200,
+    "stemmed":"即 遮 第 三 為 其 第 四  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001b26_1",
+    "original":"三門異說如前應知。",
+    "folio":200,
+    "stemmed":"三 門 異 說 如 前 應 知  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001b27_4",
+    "original":"此中一切皆由所入非想非非想處定想不明了故。",
+    "folio":200,
+    "stemmed":"此 中 一 切 皆 由 所 入 非想非非想處定 想 不 明 了 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001b28_1",
+    "original":"執我現在非有想非無想死後亦然。",
+    "folio":200,
+    "stemmed":"執 我 現 在 非 有 想 非 無 想 死 後 亦 然  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001b28_15",
+    "original":"諸尋伺者及許無色界亦有色者。",
+    "folio":200,
+    "stemmed":"諸 尋 伺 者 及 許 無 色 界 亦 有 色 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001b29_4",
+    "original":"執色無色為我。",
+    "folio":200,
+    "stemmed":"執 色 無 色 為 我  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001b29_13",
+    "original":"隨其所應廣如前說。",
+    "folio":200,
+    "stemmed":"隨其所應 廣 如 前 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c01_11",
+    "original":"如是八種後際分別非有想非無想論。",
+    "folio":200,
+    "stemmed":"如 是 八 種 後 際 分 別 非 有 想 非 無 想 論  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c02_2",
+    "original":"依前所說八事而起。",
+    "folio":200,
+    "stemmed":"依 前 所 說 八 事 而 起  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c02_18",
+    "original":"問何故無想論及非有想非無想論中。",
+    "folio":200,
+    "stemmed":"問 何 故 無 想 論 及 非 有 想 非 無 想 論 中  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c03_9",
+    "original":"不說我有一想等八耶。",
+    "folio":200,
+    "stemmed":"不 說 我 有 一 想 等 八 耶  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c04_5",
+    "original":"答若亦說者一切皆應名有想論。",
+    "folio":200,
+    "stemmed":"答 若 亦 說 者 一 切 皆 應 名 有 想 論  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c04_16",
+    "original":"以有想受者非無想等故。",
+    "folio":200,
+    "stemmed":"以 有 想 受 者 非 無 想 等 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c05_11",
+    "original":"如是一切有想等論說死後故。",
+    "folio":200,
+    "stemmed":"如是一切 有 想 等 論 說 死 後 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c06_2",
+    "original":"皆是後際分別見攝。",
+    "folio":200,
+    "stemmed":"皆 是 後 際 分 別 見 攝  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c07_5",
+    "original":"七斷滅論者。",
+    "folio":200,
+    "stemmed":"七 斷 滅 論 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c07_10",
+    "original":"一作是念。",
+    "folio":200,
+    "stemmed":"一 作 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c08_4",
+    "original":"此我有色麁四大種所造為性。",
+    "folio":200,
+    "stemmed":"此 我 有 色 麁 四 大種所造 為 性  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c08_13",
+    "original":"死後斷滅畢竟無有。",
+    "folio":200,
+    "stemmed":"死 後 斷 滅 畢 竟 無 有  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c09_4",
+    "original":"齊此名為我正斷滅。",
+    "folio":200,
+    "stemmed":"齊 此 名 為 我 正 斷 滅  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c10_4",
+    "original":"彼見此生受胎為初死時為後便作是念。",
+    "folio":200,
+    "stemmed":"彼 見 此 生 受 胎 為 初 死 時 為 後 便 作 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c10_13",
+    "original":"我受胎時本無而有。",
+    "folio":200,
+    "stemmed":"我 受 胎 時 本 無 而 有  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c11_8",
+    "original":"若至死位有已還無名善斷滅。",
+    "folio":200,
+    "stemmed":"若 至 死 位 有 已 還 無 名 善 斷 滅  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c11_13",
+    "original":"二作是念。",
+    "folio":200,
+    "stemmed":"二 作 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c12_8",
+    "original":"此我欲界天死後斷滅畢竟無有。",
+    "folio":200,
+    "stemmed":"此 我 欲 界 天 死 後 斷 滅 畢 竟 無 有  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c12_17",
+    "original":"齊此名為我正斷滅。",
+    "folio":200,
+    "stemmed":"齊 此 名 為 我 正 斷 滅  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c13_4",
+    "original":"彼作是念。",
+    "folio":200,
+    "stemmed":"彼 作 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c13_13",
+    "original":"我既不因產門而生。",
+    "folio":200,
+    "stemmed":"我 既 不 因 產 門 而 生  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c13_18",
+    "original":"本無而有。",
+    "folio":200,
+    "stemmed":"本 無 而 有  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c14_4",
+    "original":"有已還無。",
+    "folio":200,
+    "stemmed":"有 已 還 無  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c14_13",
+    "original":"如彗星等名善斷滅。",
+    "folio":200,
+    "stemmed":"如 彗 星 等 名 善 斷 滅  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c14_18",
+    "original":"三作是念。",
+    "folio":200,
+    "stemmed":"三 作 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c15_13",
+    "original":"此我色界天死後斷滅畢竟無有。",
+    "folio":200,
+    "stemmed":"此 我 色 界 天 死 後 斷 滅 畢 竟 無 有  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c16_4",
+    "original":"齊此名為我正斷滅。",
+    "folio":200,
+    "stemmed":"齊 此 名 為 我 正 斷 滅  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c16_9",
+    "original":"彼作是念。",
+    "folio":200,
+    "stemmed":"彼 作 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c16_18",
+    "original":"我既不因產門而生。",
+    "folio":200,
+    "stemmed":"我 既 不 因 產 門 而 生  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c17_4",
+    "original":"本無而有。",
+    "folio":200,
+    "stemmed":"本 無 而 有  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c17_9",
+    "original":"由等至力。",
+    "folio":200,
+    "stemmed":"由 等 至 力  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c17_18",
+    "original":"有已還無名善斷滅。",
+    "folio":200,
+    "stemmed":"有 已 還 無 名 善 斷 滅  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c18_4",
+    "original":"或有說者。",
+    "folio":200,
+    "stemmed":"或 有 說 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c19_3",
+    "original":"此三斷見皆緣已離初靜慮染有情而起。",
+    "folio":200,
+    "stemmed":"此 三 斷 見 皆 緣 已 離 初 靜 慮 染 有 情 而 起  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c19_8",
+    "original":"彼斷見者。",
+    "folio":200,
+    "stemmed":"彼 斷 見 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c20_3",
+    "original":"雖已得定而未能離初靜慮染。",
+    "folio":200,
+    "stemmed":"雖 已 得 定 而 未 能 離 初 靜 慮 染  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c20_12",
+    "original":"所發天眼唯見下地。",
+    "folio":200,
+    "stemmed":"所 發 天 眼 唯 見 下 地  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c21_6",
+    "original":"前三有情既命終已皆生上地。",
+    "folio":200,
+    "stemmed":"前 三 有 情 既 命 終 已 皆 生 上 地  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c21_15",
+    "original":"所受中有生有等身。",
+    "folio":200,
+    "stemmed":"所 受 中 有 生 有 等 身  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c22_5",
+    "original":"非彼境界便作是念。",
+    "folio":200,
+    "stemmed":"非 彼 境 界 便 作 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c23_1",
+    "original":"得靜慮者既命終已悉皆斷滅。",
+    "folio":200,
+    "stemmed":"得 靜 慮 者 既 命 終 已 悉 皆 斷 滅  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c23_6",
+    "original":"四作是念。",
+    "folio":200,
+    "stemmed":"四 作 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c24_3",
+    "original":"此我空無邊處天死後斷滅畢竟無有。",
+    "folio":200,
+    "stemmed":"此 我 空 無 邊 處 天 死 後 斷 滅 畢 竟 無 有  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c24_12",
+    "original":"齊此名為我正斷滅。",
+    "folio":200,
+    "stemmed":"齊 此 名 為 我 正 斷 滅  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c24_17",
+    "original":"五作是念。",
+    "folio":200,
+    "stemmed":"五 作 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c25_14",
+    "original":"此我識無邊處天死後斷滅畢竟無有。",
+    "folio":200,
+    "stemmed":"此 我 識無邊處 天 死 後 斷 滅 畢 竟 無 有  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c26_5",
+    "original":"齊此名為我正斷滅。",
+    "folio":200,
+    "stemmed":"齊 此 名 為 我 正 斷 滅  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c26_10",
+    "original":"六作是念。",
+    "folio":200,
+    "stemmed":"六 作 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c27_7",
+    "original":"此我無所有處天死後斷滅畢竟無有。",
+    "folio":200,
+    "stemmed":"此 我 無所有處 天 死 後 斷 滅 畢 竟 無 有  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c27_16",
+    "original":"齊此名為我正斷滅。",
+    "folio":200,
+    "stemmed":"齊 此 名 為 我 正 斷 滅  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c28_3",
+    "original":"七作是念。",
+    "folio":200,
+    "stemmed":"七 作 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c29_3",
+    "original":"此我非想非非想處天死後斷滅畢竟無有。",
+    "folio":200,
+    "stemmed":"此 我 非想非非想處 天 死 後 斷 滅 畢 竟 無 有  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1001c29_12",
+    "original":"齊此名為我正斷滅。",
+    "folio":200,
+    "stemmed":"齊 此 名 為 我 正 斷 滅  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002a01_9",
+    "original":"此中後四有執空無邊處為生死頂。",
+    "folio":200,
+    "stemmed":"此 中 後 四 有 執 空 無 邊 處 為 生 死 頂  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002a02_7",
+    "original":"乃至有執非想非非想處為生死頂。",
+    "folio":200,
+    "stemmed":"乃 至 有 執 非想非非想處 為 生 死 頂  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002a03_1",
+    "original":"若執空無邊處為生死頂。",
+    "folio":200,
+    "stemmed":"若 執 空 無 邊 處 為 生 死 頂  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002a03_16",
+    "original":"彼執空無邊處死後無有名善斷滅。",
+    "folio":200,
+    "stemmed":"彼 執 空 無 邊 處 死 後 無 有 名 善 斷 滅  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002a04_13",
+    "original":"乃至若執非想非非想處為生死頂。",
+    "folio":200,
+    "stemmed":"乃 至 若 執 非想非非想處 為 生 死 頂  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002a05_13",
+    "original":"彼執非想非非想處死後無有名善斷滅。",
+    "folio":200,
+    "stemmed":"彼 執 非想非非想處 死 後 無 有 名 善 斷 滅  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002a06_8",
+    "original":"如是七種後際分別諸斷滅論。",
+    "folio":200,
+    "stemmed":"如 是 七 種 後 際 分 別 諸 斷 滅 論  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002a06_17",
+    "original":"依前所說七事而起。",
+    "folio":200,
+    "stemmed":"依 前 所 說 七 事 而 起  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002a07_7",
+    "original":"如是七種皆說死後。",
+    "folio":200,
+    "stemmed":"如 是 七 種 皆 說 死 後  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002a07_16",
+    "original":"故是後際分別見攝。",
+    "folio":200,
+    "stemmed":"故 是 後 際 分 別 見 攝  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002a08_5",
+    "original":"五現法涅槃論者。",
+    "folio":200,
+    "stemmed":"五 現 法 涅 槃 論 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002a08_10",
+    "original":"謂外道執。",
+    "folio":200,
+    "stemmed":"謂 外 道 執  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002a09_5",
+    "original":"若於現在我受安樂名得涅槃。",
+    "folio":200,
+    "stemmed":"若 於 現 在 我 受 安 樂 名 得 涅 槃  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002a10_5",
+    "original":"若我有苦爾時不名得涅槃者不安樂故。",
+    "folio":200,
+    "stemmed":"若 我 有 苦 爾 時 不 名 得涅槃者 不 安 樂 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002a10_10",
+    "original":"初作是念。",
+    "folio":200,
+    "stemmed":"初 作 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002a11_5",
+    "original":"此我清淨解脫出離一切災橫。",
+    "folio":200,
+    "stemmed":"此 我 清 淨 解 脫 出 離 一 切 災 橫  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002a12_4",
+    "original":"謂現受用妙五欲樂爾時名得現法涅槃。",
+    "folio":200,
+    "stemmed":"謂 現 受 用 妙 五 欲 樂 爾 時 名 得 現 法 涅 槃  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002a12_17",
+    "original":"第二能見諸欲過失彼作是念。",
+    "folio":200,
+    "stemmed":"第 二 能 見 諸 欲 過 失 彼 作 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002a13_12",
+    "original":"欲所生樂眾苦所隨多諸怨害。",
+    "folio":200,
+    "stemmed":"欲 所 生 樂 眾 苦 所 隨 多 諸 怨 害  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002a14_11",
+    "original":"定所生樂微妙寂靜無眾苦隨離諸怨害。",
+    "folio":200,
+    "stemmed":"定 所 生 樂 微 妙 寂 靜 無 眾 苦 隨 離 諸 怨 害  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002a14_16",
+    "original":"復作是念。",
+    "folio":200,
+    "stemmed":"復 作 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002a15_11",
+    "original":"此我清淨解脫出離一切災橫。",
+    "folio":200,
+    "stemmed":"此 我 清 淨 解 脫 出 離 一 切 災 橫  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002a16_2",
+    "original":"謂現安住最初靜慮。",
+    "folio":200,
+    "stemmed":"謂 現 安 住 最 初 靜 慮  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002a17_6",
+    "original":"爾時名得現法涅槃第三能見諸欲尋伺俱有過失。",
+    "folio":200,
+    "stemmed":"爾 時 名 得 現 法 涅 槃 第 三 能 見 諸 欲 尋 伺 俱 有 過 失  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002a17_11",
+    "original":"彼作是念。",
+    "folio":200,
+    "stemmed":"彼 作 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002a18_6",
+    "original":"此我清淨解脫出離一切災橫。",
+    "folio":200,
+    "stemmed":"此 我 清 淨 解 脫 出 離 一 切 災 橫  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002a19_6",
+    "original":"謂現安住第二靜慮爾時名得現法涅槃。",
+    "folio":200,
+    "stemmed":"謂 現 安 住 第二靜慮 爾 時 名 得 現 法 涅 槃  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002a20_1",
+    "original":"第四能見諸欲尋伺及喜過失。",
+    "folio":200,
+    "stemmed":"第 四 能 見 諸 欲 尋 伺 及 喜 過 失  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002a20_6",
+    "original":"彼作是念。",
+    "folio":200,
+    "stemmed":"彼 作 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002a21_1",
+    "original":"此我清淨解脫出離一切災橫。",
+    "folio":200,
+    "stemmed":"此 我 清 淨 解 脫 出 離 一 切 災 橫  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002a22_1",
+    "original":"謂現安住第三靜慮爾時名得現法涅槃。",
+    "folio":200,
+    "stemmed":"謂 現 安 住 第三靜慮 爾 時 名 得 現 法 涅 槃  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002a22_18",
+    "original":"第五能見諸欲尋伺喜入出息皆有過失。",
+    "folio":200,
+    "stemmed":"第 五 能 見 諸 欲 尋 伺 喜 入 出 息 皆 有 過 失  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002a23_4",
+    "original":"彼作是念。",
+    "folio":200,
+    "stemmed":"彼 作 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002a23_17",
+    "original":"此我清淨解脫出離一切災橫。",
+    "folio":200,
+    "stemmed":"此 我 清 淨 解 脫 出 離 一 切 災 橫  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002a24_15",
+    "original":"謂現安住第四靜慮爾時名得現法涅槃。",
+    "folio":200,
+    "stemmed":"謂 現 安 住 第四靜慮 爾 時 名 得 現 法 涅 槃  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002a26_11",
+    "original":"問云何此五現法涅槃論是後際分別見攝答此五雖緣現在而待過去名後。",
+    "folio":200,
+    "stemmed":"問 云 何 此 五 現 法 涅 槃 論 是 後 際 分 別 見 攝 答 此 五 雖 緣 現 在 而 待 過 去 名 後  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002a27_3",
+    "original":"是故說為後際分別。",
+    "folio":200,
+    "stemmed":"是 故 說 為 後 際 分 別  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002a27_8",
+    "original":"復有說者。",
+    "folio":200,
+    "stemmed":"復 有 說 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002a28_3",
+    "original":"此五執我現既有樂後亦有樂。",
+    "folio":200,
+    "stemmed":"此 五 執 我 現 既 有 樂 後 亦 有 樂  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002a28_15",
+    "original":"故是後際分別見攝問若爾。",
+    "folio":200,
+    "stemmed":"故 是 後 際 分 別 見 攝 問 若 爾  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002a29_7",
+    "original":"何故說為現法涅槃論者。",
+    "folio":200,
+    "stemmed":"何 故 說 為 現 法 涅 槃 論 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002a29_17",
+    "original":"答現樂為先而執後樂。",
+    "folio":200,
+    "stemmed":"答 現 樂 為 先 而 執 後 樂  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b01_8",
+    "original":"現居先故用標論名。",
+    "folio":200,
+    "stemmed":"現 居 先 故 用 標 論 名  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b01_17",
+    "original":"如是五種後際分別。",
+    "folio":200,
+    "stemmed":"如 是 五 種 後 際 分 別  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b02_11",
+    "original":"現涅槃論依前所說五事而起。",
+    "folio":200,
+    "stemmed":"現 涅 槃 論 依 前 所 說 五 事 而 起  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b02_16",
+    "original":"如契經說。",
+    "folio":200,
+    "stemmed":"如 契 經 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b03_3",
+    "original":"苾芻當知。",
+    "folio":200,
+    "stemmed":"苾 芻 當 知  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b03_12",
+    "original":"世間沙門婆羅門等。",
+    "folio":200,
+    "stemmed":"世 間 沙 門 婆 羅 門 等  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b04_2",
+    "original":"所依諸見皆入二見。",
+    "folio":200,
+    "stemmed":"所 依 諸 見 皆 入 二 見  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b04_9",
+    "original":"謂有見無有見。",
+    "folio":200,
+    "stemmed":"謂 有 見 無 有 見  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b04_14",
+    "original":"今應分別。",
+    "folio":200,
+    "stemmed":"今 應 分 別  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b05_7",
+    "original":"云何諸見一切皆入此二見中。",
+    "folio":200,
+    "stemmed":"云 何 諸 見 一 切 皆 入 此 二 見 中  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b05_17",
+    "original":"答非此入言顯攝彼體。",
+    "folio":200,
+    "stemmed":"答 非 此 入 言 顯 攝 彼 體  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b06_8",
+    "original":"但顯彼入二見品中。",
+    "folio":200,
+    "stemmed":"但 顯 彼 入 二 見 品 中  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b06_13",
+    "original":"所以者何。",
+    "folio":200,
+    "stemmed":"所以者何  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b07_1",
+    "original":"有見者即常見。",
+    "folio":200,
+    "stemmed":"有 見 者 即 常 見  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b07_9",
+    "original":"無有見者即斷見。",
+    "folio":200,
+    "stemmed":"無 有 見 者 即 斷 見  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b08_8",
+    "original":"諸惡見趣雖有多種無不皆入此二品類。",
+    "folio":200,
+    "stemmed":"諸 惡 見 趣 雖 有 多 種 無 不 皆 入 此 二 品 類  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b09_4",
+    "original":"如此品初補剌拏說無施與等。",
+    "folio":200,
+    "stemmed":"如 此 品 初 補 剌 拏 說 無 施 與 等  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b09_13",
+    "original":"五類邪見入斷見品。",
+    "folio":200,
+    "stemmed":"五 類 邪 見 入 斷 見 品  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b09_18",
+    "original":"以執無故。",
+    "folio":200,
+    "stemmed":"以 執 無 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b10_2",
+    "original":"有說。",
+    "folio":200,
+    "stemmed":"有 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b10_6",
+    "original":"入二品。",
+    "folio":200,
+    "stemmed":"入 二 品  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b10_15",
+    "original":"由執我常謗因等故。",
+    "folio":200,
+    "stemmed":"由 執 我 常 謗 因 等 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b12_2",
+    "original":"次說乃至活有命者死後斷壞無有等斷見攝故即斷見品。",
+    "folio":200,
+    "stemmed":"次 說 乃 至 活 有 命 者 死 後 斷 壞 無 有 等 斷 見 攝 故 即 斷 見 品  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b12_7",
+    "original":"有作是說。",
+    "folio":200,
+    "stemmed":"有 作 是 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b13_6",
+    "original":"此四大種士夫身乃至智者讚受入二品中。",
+    "folio":200,
+    "stemmed":"此 四 大 種 士 夫 身 乃 至 智 者 讚 受 入 二 品 中  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b14_3",
+    "original":"次說無因無緣等是末塞羯梨見。",
+    "folio":200,
+    "stemmed":"次 說 無 因 無 緣 等 是 末 塞 羯 梨 見  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b14_15",
+    "original":"次說造教造等是珊闍夷見。",
+    "folio":200,
+    "stemmed":"次 說 造 教 造 等 是 珊 闍 夷 見  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b15_4",
+    "original":"此二俱入斷見品。",
+    "folio":200,
+    "stemmed":"此 二 俱 入 斷 見 品  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b15_9",
+    "original":"以執無故。",
+    "folio":200,
+    "stemmed":"以 執 無 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b15_12",
+    "original":"有說。",
+    "folio":200,
+    "stemmed":"有 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b15_16",
+    "original":"入二品。",
+    "folio":200,
+    "stemmed":"入 二 品  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b16_6",
+    "original":"由執我常謗因等故。",
+    "folio":200,
+    "stemmed":"由 執 我 常 謗 因 等 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b17_4",
+    "original":"次說此七士身等常見攝故即常見品。",
+    "folio":200,
+    "stemmed":"次 說 此 七 士 身 等 常 見 攝 故 即 常 見 品  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b17_18",
+    "original":"次說有十四億等是無勝髮褐見。",
+    "folio":200,
+    "stemmed":"次 說 有 十 四 億 等 是 無 勝 髮 褐 見  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b19_3",
+    "original":"次說一切士夫諸有所受無不皆以宿作為因等。",
+    "folio":200,
+    "stemmed":"次 說 一 切 士 夫 諸 有 所 受 無 不 皆 以 宿 作 為 因 等  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b19_10",
+    "original":"是離繫親子見。",
+    "folio":200,
+    "stemmed":"是 離 繫 親 子 見  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b19_17",
+    "original":"此二俱入二品。",
+    "folio":200,
+    "stemmed":"此 二 俱 入 二 品  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b20_7",
+    "original":"以執有我後斷滅故。",
+    "folio":200,
+    "stemmed":"以 執 有 我 後 斷 滅 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b21_5",
+    "original":"次說一切士夫所受皆是無因無緣等。",
+    "folio":200,
+    "stemmed":"次 說 一 切 士 夫 所 受 皆 是 無 因 無 緣 等  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b21_13",
+    "original":"是犎迦多衍那見。",
+    "folio":200,
+    "stemmed":"是 犎 迦 多 衍 那 見  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b21_18",
+    "original":"入斷見品。",
+    "folio":200,
+    "stemmed":"入 斷 見 品  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b22_4",
+    "original":"以執無故。",
+    "folio":200,
+    "stemmed":"以 執 無 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b22_7",
+    "original":"有說。",
+    "folio":200,
+    "stemmed":"有 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b22_11",
+    "original":"入二品。",
+    "folio":200,
+    "stemmed":"入 二 品  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b23_1",
+    "original":"以執我常謗無因故。",
+    "folio":200,
+    "stemmed":"以 執 我 常 謗 無 因 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b23_13",
+    "original":"次說自作苦樂等此入二品。",
+    "folio":200,
+    "stemmed":"次 說 自 作 苦 樂 等 此 入 二 品  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b24_4",
+    "original":"以執有我後斷滅故。",
+    "folio":200,
+    "stemmed":"以 執 有 我 後 斷 滅 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b25_2",
+    "original":"次說所受苦樂非自作等入斷見品。",
+    "folio":200,
+    "stemmed":"次 說 所 受 苦 樂 非 自 作 等 入 斷 見 品  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b25_7",
+    "original":"以執無故。",
+    "folio":200,
+    "stemmed":"以 執 無 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b25_10",
+    "original":"有說。",
+    "folio":200,
+    "stemmed":"有 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b25_14",
+    "original":"入二品。",
+    "folio":200,
+    "stemmed":"入 二 品  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b26_3",
+    "original":"以執我常謗無因故。",
+    "folio":200,
+    "stemmed":"以 執 我 常 謗 無 因 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b27_2",
+    "original":"次說我及世間常等常見攝故即常見品。",
+    "folio":200,
+    "stemmed":"次 說 我 及 世 間 常 等 常 見 攝 故 即 常 見 品  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b28_3",
+    "original":"次說諦故住故我有我等常見攝故即常見品。",
+    "folio":200,
+    "stemmed":"次 說 諦 故 住 故 我 有 我 等 常 見 攝 故 即 常 見 品  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b29_4",
+    "original":"次說諦故住故我無我等斷見攝故即斷見品。",
+    "folio":200,
+    "stemmed":"次 說 諦 故 住 故 我 無 我 等 斷 見 攝 故 即 斷 見 品  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002b29_15",
+    "original":"次說我觀我等入常見品。",
+    "folio":200,
+    "stemmed":"次 說 我 觀 我 等 入 常 見 品  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c01_8",
+    "original":"次說受妙五欲等入常見品。",
+    "folio":200,
+    "stemmed":"次 說 受 妙 五 欲 等 入 常 見 品  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c01_17",
+    "original":"執有我常得涅槃故。",
+    "folio":200,
+    "stemmed":"執 有 我 常 得 涅 槃 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c02_2",
+    "original":"有說。",
+    "folio":200,
+    "stemmed":"有 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c02_6",
+    "original":"入二品。",
+    "folio":200,
+    "stemmed":"入 二 品  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c02_15",
+    "original":"以執有我後斷滅故。",
+    "folio":200,
+    "stemmed":"以 執 有 我 後 斷 滅 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c03_11",
+    "original":"次說風不吹等常見攝故即常見品。",
+    "folio":200,
+    "stemmed":"次 說 風 不 吹 等 常 見 攝 故 即 常 見 品  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c04_6",
+    "original":"次說眾生執我作等入二見品。",
+    "folio":200,
+    "stemmed":"次 說 眾 生 執 我 作 等 入 二 見 品  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c04_15",
+    "original":"以執有我後斷滅故。",
+    "folio":200,
+    "stemmed":"以 執 有 我 後 斷 滅 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c05_17",
+    "original":"後說諸欲淨妙快意受用而無過失等入常見品。",
+    "folio":200,
+    "stemmed":"後 說 諸 欲 淨 妙 快 意 受 用 而 無 過 失 等 入 常 見 品  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c06_8",
+    "original":"執有我常受勝欲故。",
+    "folio":200,
+    "stemmed":"執 有 我 常 受 勝 欲 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c06_11",
+    "original":"有說。",
+    "folio":200,
+    "stemmed":"有 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c06_15",
+    "original":"入二品。",
+    "folio":200,
+    "stemmed":"入 二 品  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c07_5",
+    "original":"以執有我後斷滅故。",
+    "folio":200,
+    "stemmed":"以 執 有 我 後 斷 滅 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c07_10",
+    "original":"契經中說。",
+    "folio":200,
+    "stemmed":"契 經 中 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c08_16",
+    "original":"我有想見我無想見我非有想非無想見斷滅見現法涅槃見。",
+    "folio":200,
+    "stemmed":"我 有 想 見 我 無 想 見 我 非 有 想 非 無 想 見 斷 滅 見 現 法 涅 槃 見  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c09_5",
+    "original":"此五入二見品。",
+    "folio":200,
+    "stemmed":"此 五 入 二 見 品  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c09_13",
+    "original":"謂前三入常見品。",
+    "folio":200,
+    "stemmed":"謂 前 三 入 常 見 品  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c10_2",
+    "original":"第四入斷見品。",
+    "folio":200,
+    "stemmed":"第 四 入 斷 見 品  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c10_5",
+    "original":"第五。",
+    "folio":200,
+    "stemmed":"第 五  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c10_8",
+    "original":"有說。",
+    "folio":200,
+    "stemmed":"有 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c10_13",
+    "original":"入常見品。",
+    "folio":200,
+    "stemmed":"入 常 見 品  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c10_16",
+    "original":"有說。",
+    "folio":200,
+    "stemmed":"有 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c10_20",
+    "original":"入二品。",
+    "folio":200,
+    "stemmed":"入 二 品  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c11_9",
+    "original":"梵網經中所說六十二見。",
+    "folio":200,
+    "stemmed":"梵 網 經 中 所 說 六 十 二 見  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c11_18",
+    "original":"亦總入此二見品中。",
+    "folio":200,
+    "stemmed":"亦 總 入 此 二 見 品 中  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c12_15",
+    "original":"謂前際分別見中四遍常論入常見品。",
+    "folio":200,
+    "stemmed":"謂 前 際 分 別 見 中 四 遍 常 論 入 常 見 品  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c13_3",
+    "original":"四一分常論。",
+    "folio":200,
+    "stemmed":"四 一分常論  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c13_6",
+    "original":"有說。",
+    "folio":200,
+    "stemmed":"有 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c13_11",
+    "original":"入常見品。",
+    "folio":200,
+    "stemmed":"入 常 見 品  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c13_14",
+    "original":"有說。",
+    "folio":200,
+    "stemmed":"有 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c14_6",
+    "original":"入二品以執有常有無常故。",
+    "folio":200,
+    "stemmed":"入 二 品 以 執 有 常 有 無 常 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c14_15",
+    "original":"二無因論入斷見品。",
+    "folio":200,
+    "stemmed":"二 無 因 論 入 斷 見 品  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c14_18",
+    "original":"有說。",
+    "folio":200,
+    "stemmed":"有 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c15_3",
+    "original":"入二品。",
+    "folio":200,
+    "stemmed":"入 二 品  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c15_12",
+    "original":"以執我常謗無因故。",
+    "folio":200,
+    "stemmed":"以 執 我 常 謗 無 因 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c15_18",
+    "original":"有邊等四論。",
+    "folio":200,
+    "stemmed":"有 邊 等 四 論  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c16_11",
+    "original":"及不死矯亂四論入常見品。",
+    "folio":200,
+    "stemmed":"及 不 死 矯 亂 四 論 入 常 見 品  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c16_14",
+    "original":"有說。",
+    "folio":200,
+    "stemmed":"有 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c17_8",
+    "original":"入二品以執我常後亦斷故。",
+    "folio":200,
+    "stemmed":"入 二 品 以 執 我 常 後 亦 斷 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c18_8",
+    "original":"後際分別見中有想無想非有想非無想論。",
+    "folio":200,
+    "stemmed":"後 際 分 別 見 中 有 想 無 想 非 有 想 非 無 想 論  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c18_18",
+    "original":"皆常見攝故即常見品。",
+    "folio":200,
+    "stemmed":"皆 常 見 攝 故 即 常 見 品  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c19_12",
+    "original":"七斷滅論斷見攝故即斷見品。",
+    "folio":200,
+    "stemmed":"七 斷 滅 論 斷 見 攝 故 即 斷 見 品  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c20_5",
+    "original":"五現法涅槃論入常見品。",
+    "folio":200,
+    "stemmed":"五 現 法 涅 槃 論 入 常 見 品  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c20_14",
+    "original":"執有我常得涅槃故。",
+    "folio":200,
+    "stemmed":"執 有 我 常 得 涅 槃 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c20_17",
+    "original":"有說。",
+    "folio":200,
+    "stemmed":"有 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c21_2",
+    "original":"入二品。",
+    "folio":200,
+    "stemmed":"入 二 品  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c21_15",
+    "original":"以執有我現得涅槃後斷滅故。",
+    "folio":200,
+    "stemmed":"以 執 有 我 現 得 涅 槃 後 斷 滅 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c22_5",
+    "original":"迦多衍那契經中說。",
+    "folio":200,
+    "stemmed":"迦 多 衍 那 契 經 中 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c22_10",
+    "original":"世有二見。",
+    "folio":200,
+    "stemmed":"世 有 二 見  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c22_15",
+    "original":"一者有見。",
+    "folio":200,
+    "stemmed":"一 者 有 見  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c22_20",
+    "original":"二者無見。",
+    "folio":200,
+    "stemmed":"二 者 無 見  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c23_8",
+    "original":"如次攝入常斷見品。",
+    "folio":200,
+    "stemmed":"如 次 攝 入 常 斷 見 品  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c23_14",
+    "original":"師子吼經說。",
+    "folio":200,
+    "stemmed":"師 子 吼 經 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c24_4",
+    "original":"一切見皆依二見。",
+    "folio":200,
+    "stemmed":"一 切 見 皆 依 二 見  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c24_11",
+    "original":"謂有見無有見。",
+    "folio":200,
+    "stemmed":"謂 有 見 無 有 見  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c25_6",
+    "original":"依有見者耽著有見憎無有見。",
+    "folio":200,
+    "stemmed":"依 有 見 者 耽 著 有 見 憎 無 有 見  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c26_3",
+    "original":"依無有見者耽著無有見憎有見。",
+    "folio":200,
+    "stemmed":"依 無 有 見 者 耽 著 無 有 見 憎 有 見  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c26_16",
+    "original":"此二如次亦即攝入常斷見品。",
+    "folio":200,
+    "stemmed":"此 二 如 次 亦 即 攝 入 常 斷 見 品  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c27_3",
+    "original":"如契經說。",
+    "folio":200,
+    "stemmed":"如 契 經 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c27_12",
+    "original":"常見外道或執轉變。",
+    "folio":200,
+    "stemmed":"常 見 外 道 或 執 轉 變  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c27_17",
+    "original":"或執隱顯。",
+    "folio":200,
+    "stemmed":"或 執 隱 顯  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c28_7",
+    "original":"或執往來意界常等。",
+    "folio":200,
+    "stemmed":"或 執 往 來 意 界 常 等  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c29_2",
+    "original":"如是一切常見攝故即常見品。",
+    "folio":200,
+    "stemmed":"如是一切 常 見 攝 故 即 常 見 品  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c29_7",
+    "original":"如契經說。",
+    "folio":200,
+    "stemmed":"如 契 經 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1002c29_16",
+    "original":"有外道執命者即身。",
+    "folio":200,
+    "stemmed":"有 外 道 執 命 者 即 身  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003a01_2",
+    "original":"命者異身。",
+    "folio":200,
+    "stemmed":"命 者 異 身  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003a01_8",
+    "original":"命者非即身。",
+    "folio":200,
+    "stemmed":"命 者 非 即 身  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003a01_14",
+    "original":"命者非異身。",
+    "folio":200,
+    "stemmed":"命 者 非 異 身  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003a02_6",
+    "original":"問外道何故執命者即身耶。",
+    "folio":200,
+    "stemmed":"問 外 道 何 故 執 命 者 即 身 耶  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003a02_15",
+    "original":"尊者世友作如是說。",
+    "folio":200,
+    "stemmed":"尊 者 世 友 作如是說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003a03_9",
+    "original":"彼見世間身生時說有情生。",
+    "folio":200,
+    "stemmed":"彼 見 世 間 身 生 時 說 有 情 生  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003a04_1",
+    "original":"身壞時說有情死故。",
+    "folio":200,
+    "stemmed":"身 壞 時 說 有 情 死 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003a04_17",
+    "original":"復次彼見世間於有色根身說有命者。",
+    "folio":200,
+    "stemmed":"復 次 彼 見 世 間 於 有 色 根 身 說 有 命 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003a05_10",
+    "original":"於無色根身說無命者故。",
+    "folio":200,
+    "stemmed":"於 無 色 根 身 說 無 命 者 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003a06_10",
+    "original":"復次彼見世間於身相差別起男女想故。",
+    "folio":200,
+    "stemmed":"復 次 彼 見 世 間 於 身 相 差 別 起 男 女 想 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003a07_10",
+    "original":"復次彼見世間於身力強弱說強弱者故。",
+    "folio":200,
+    "stemmed":"復 次 彼 見 世 間 於 身 力 強 弱 說 強 弱 者 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003a09_1",
+    "original":"復次彼見世間身形長短麁細肥瘦白黑等異說長短等者故。",
+    "folio":200,
+    "stemmed":"復 次 彼 見 世 間 身 形 長 短 麁 細 肥 瘦 白 黑 等 異 說 長 短 等 者 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003a09_17",
+    "original":"復次彼見世間於身一分有被損害時。",
+    "folio":200,
+    "stemmed":"復 次 彼 見 世 間 於 身 一 分 有 被 損 害 時  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003a10_9",
+    "original":"遍身皆受不安隱苦故。",
+    "folio":200,
+    "stemmed":"遍 身 皆 受 不 安 隱 苦 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003a11_3",
+    "original":"復次彼見世間憂及喜時。",
+    "folio":200,
+    "stemmed":"復 次 彼 見 世 間 憂 及 喜 時  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003a11_13",
+    "original":"流淚毛竪顏色怡悅故。",
+    "folio":200,
+    "stemmed":"流 淚 毛 竪 顏 色 怡 悅 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003a12_9",
+    "original":"復次彼見世間皆於身起我名想故。",
+    "folio":200,
+    "stemmed":"復 次 彼 見 世 間 皆 於 身 起 我 名 想 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003a12_14",
+    "original":"有餘師說。",
+    "folio":200,
+    "stemmed":"有餘師說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003a13_7",
+    "original":"彼見世間守宮𧋍蜴等尾。",
+    "folio":200,
+    "stemmed":"彼 見 世 間 守 宮 𧋍 蜴 等 尾  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003a13_16",
+    "original":"若斷時各能動轉故。",
+    "folio":200,
+    "stemmed":"若 斷 時 各 能 動 轉 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003a14_3",
+    "original":"大德說曰。",
+    "folio":200,
+    "stemmed":"大 德 說 曰  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003a15_1",
+    "original":"彼見世間於有色根身說有情形相。",
+    "folio":200,
+    "stemmed":"彼 見 世 間 於 有 色 根 身 說 有 情 形 相  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003a15_6",
+    "original":"有情言音。",
+    "folio":200,
+    "stemmed":"有 情 言 音  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003a15_11",
+    "original":"有情好醜。",
+    "folio":200,
+    "stemmed":"有 情 好 醜  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003a15_16",
+    "original":"有情威儀。",
+    "folio":200,
+    "stemmed":"有 情 威 儀  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003a16_2",
+    "original":"有情作業等故。",
+    "folio":200,
+    "stemmed":"有 情 作 業 等 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003a16_11",
+    "original":"由如是等種種因緣。",
+    "folio":200,
+    "stemmed":"由 如 是 等 種種因緣  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003a17_2",
+    "original":"諸外道說命者即身。",
+    "folio":200,
+    "stemmed":"諸 外 道 說 命 者 即 身  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003a17_14",
+    "original":"問外道何故執命者異身耶。",
+    "folio":200,
+    "stemmed":"問 外 道 何 故 執 命 者 異 身 耶  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003a18_4",
+    "original":"尊者世友作如是說。",
+    "folio":200,
+    "stemmed":"尊 者 世 友 作如是說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003a18_13",
+    "original":"彼諸外道執色為身。",
+    "folio":200,
+    "stemmed":"彼 諸 外 道 執 色 為 身  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003a19_4",
+    "original":"執心心所以為命者。",
+    "folio":200,
+    "stemmed":"執 心 心 所 以 為 命 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003a19_13",
+    "original":"色與心等相續各異。",
+    "folio":200,
+    "stemmed":"色 與 心 等 相 續 各 異  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003a20_4",
+    "original":"彼覺色身前後轉變。",
+    "folio":200,
+    "stemmed":"彼 覺 色 身 前 後 轉 變  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003a20_13",
+    "original":"不覺心等前後異相。",
+    "folio":200,
+    "stemmed":"不 覺 心 等 前 後 異 相  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003a21_10",
+    "original":"故起此見復次彼見身麁心心所細。",
+    "folio":200,
+    "stemmed":"故 起 此 見 復 次 彼 見 身 麁 心 心 所 細  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003a22_1",
+    "original":"命者是細故異於身。",
+    "folio":200,
+    "stemmed":"命 者 是 細 故 異 於 身  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003a22_12",
+    "original":"復次彼見威儀隨意欲轉。",
+    "folio":200,
+    "stemmed":"復 次 彼 見 威 儀 隨 意 欲 轉  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003a23_3",
+    "original":"即執意欲以為命者。",
+    "folio":200,
+    "stemmed":"即 執 意 欲 以 為 命 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003a23_12",
+    "original":"威儀即身轉變差別。",
+    "folio":200,
+    "stemmed":"威 儀 即 身 轉 變 差 別  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003a24_4",
+    "original":"復次彼見死者身相無異。",
+    "folio":200,
+    "stemmed":"復 次 彼 見 死 者 身 相 無 異  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003a24_9",
+    "original":"便作是念。",
+    "folio":200,
+    "stemmed":"便 作 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003a25_4",
+    "original":"命者離身說名為死故與身異。",
+    "folio":200,
+    "stemmed":"命 者 離 身 說 名 為 死 故 與 身 異  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003a26_6",
+    "original":"復次彼見色身與心心所分位前後轉變各異。",
+    "folio":200,
+    "stemmed":"復 次 彼 見 色 身 與 心 心 所 分 位 前 後 轉 變 各 異  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003a27_1",
+    "original":"彼執心等即是命者故異於身。",
+    "folio":200,
+    "stemmed":"彼 執 心 等 即 是 命 者 故 異 於 身  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003a27_11",
+    "original":"復次彼見色身有多分。",
+    "folio":200,
+    "stemmed":"復 次 彼 見 色 身 有 多 分  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003a28_3",
+    "original":"而命者是一故異於身。",
+    "folio":200,
+    "stemmed":"而 命 者 是 一 故 異 於 身  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003a29_1",
+    "original":"復次彼諸外道見捨前有身受中有身。",
+    "folio":200,
+    "stemmed":"復 次 彼 諸 外 道 見 捨 前 有 身 受 中 有 身  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003a29_11",
+    "original":"復捨中有身受今有身。",
+    "folio":200,
+    "stemmed":"復 捨 中 有 身 受 今 有 身  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b01_10",
+    "original":"如是展轉身雖有異而命者一故異於身。",
+    "folio":200,
+    "stemmed":"如 是 展 轉 身 雖 有 異 而 命 者 一 故 異 於 身  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b01_15",
+    "original":"有餘師說。",
+    "folio":200,
+    "stemmed":"有餘師說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b02_7",
+    "original":"彼見睡眠時身亦有動轉。",
+    "folio":200,
+    "stemmed":"彼 見 睡 眠 時 身 亦 有 動 轉  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b02_16",
+    "original":"故知其中別有命者。",
+    "folio":200,
+    "stemmed":"故 知 其 中 別 有 命 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b03_5",
+    "original":"復次彼見夢時。",
+    "folio":200,
+    "stemmed":"復 次 彼 見 夢 時  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b04_1",
+    "original":"身在本處而有命者遊歷他方。",
+    "folio":200,
+    "stemmed":"身 在 本 處 而 有 命 者 遊 歷 他 方  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b04_10",
+    "original":"故知異身別有命者。",
+    "folio":200,
+    "stemmed":"故 知 異 身 別 有 命 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b04_15",
+    "original":"復有說者。",
+    "folio":200,
+    "stemmed":"復 有 說 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b05_5",
+    "original":"彼見依定能憶過去。",
+    "folio":200,
+    "stemmed":"彼 見 依 定 能 憶 過 去  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b06_1",
+    "original":"及知未來多身差別便作是念。",
+    "folio":200,
+    "stemmed":"及 知 未 來 多 身 差 別 便 作 是 念  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b06_10",
+    "original":"身雖有多而命者一。",
+    "folio":200,
+    "stemmed":"身 雖 有 多 而 命 者 一  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b06_15",
+    "original":"故知各異。",
+    "folio":200,
+    "stemmed":"故 知 各 異  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b07_7",
+    "original":"復次彼見世間身無動轉。",
+    "folio":200,
+    "stemmed":"復 次 彼 見 世 間 身 無 動 轉  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b07_16",
+    "original":"能憶過去及知未來。",
+    "folio":200,
+    "stemmed":"能 憶 過 去 及 知 未 來  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b08_7",
+    "original":"故知離身別有命者。",
+    "folio":200,
+    "stemmed":"故 知 離 身 別 有 命 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b08_12",
+    "original":"有作是說。",
+    "folio":200,
+    "stemmed":"有 作 是 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b08_17",
+    "original":"彼見世間。",
+    "folio":200,
+    "stemmed":"彼 見 世 間  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b09_8",
+    "original":"憶先所作及所更事。",
+    "folio":200,
+    "stemmed":"憶 先 所 作 及 所 更 事  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b09_13",
+    "original":"而身不動。",
+    "folio":200,
+    "stemmed":"而 身 不 動  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b10_4",
+    "original":"故知離身別有命者。",
+    "folio":200,
+    "stemmed":"故 知 離 身 別 有 命 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b10_9",
+    "original":"或有說者。",
+    "folio":200,
+    "stemmed":"或 有 說 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b10_18",
+    "original":"彼見身形前後位異。",
+    "folio":200,
+    "stemmed":"彼 見 身 形 前 後 位 異  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b11_8",
+    "original":"工巧智等隨轉無別。",
+    "folio":200,
+    "stemmed":"工 巧 智 等 隨 轉 無 別  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b11_17",
+    "original":"故知離身別有命者。",
+    "folio":200,
+    "stemmed":"故 知 離 身 別 有 命 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b12_4",
+    "original":"大德說曰。",
+    "folio":200,
+    "stemmed":"大 德 說 曰  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b12_17",
+    "original":"彼見世間不自在者及自在者。",
+    "folio":200,
+    "stemmed":"彼 見 世 間 不 自 在 者 及 自 在 者  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b13_3",
+    "original":"身俱動搖。",
+    "folio":200,
+    "stemmed":"身 俱 動 搖  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b13_12",
+    "original":"故知彼身由命者轉。",
+    "folio":200,
+    "stemmed":"故 知 彼 身 由 命 者 轉  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b14_5",
+    "original":"問外道何故執命者非即身。",
+    "folio":200,
+    "stemmed":"問 外 道 何 故 執 命 者 非 即 身  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b14_14",
+    "original":"尊者世友作如是說。",
+    "folio":200,
+    "stemmed":"尊 者 世 友 作如是說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b15_5",
+    "original":"彼見世間身多分異。",
+    "folio":200,
+    "stemmed":"彼 見 世 間 身 多 分 異  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b15_14",
+    "original":"命者不異故非即身。",
+    "folio":200,
+    "stemmed":"命 者 不 異 故 非 即 身  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b16_7",
+    "original":"復次彼見世間身隨緣轉。",
+    "folio":200,
+    "stemmed":"復 次 彼 見 世 間 身 隨 緣 轉  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b16_16",
+    "original":"命者不爾故非即身。",
+    "folio":200,
+    "stemmed":"命 者 不 爾 故 非 即 身  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b17_13",
+    "original":"復次彼見世間身有增減損益等異。",
+    "folio":200,
+    "stemmed":"復 次 彼 見 世 間 身 有 增 減 損 益 等 異  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b18_5",
+    "original":"命者不爾故非即身。",
+    "folio":200,
+    "stemmed":"命 者 不 爾 故 非 即 身  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b18_10",
+    "original":"大德說曰。",
+    "folio":200,
+    "stemmed":"大 德 說 曰  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b19_5",
+    "original":"彼見世間一身而有種種相異。",
+    "folio":200,
+    "stemmed":"彼 見 世 間 一 身 而 有 種 種 相 異  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b19_14",
+    "original":"命者不爾故非即身。",
+    "folio":200,
+    "stemmed":"命 者 不 爾 故 非 即 身  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b20_8",
+    "original":"問外道何故執命者非異身。",
+    "folio":200,
+    "stemmed":"問 外 道 何 故 執 命 者 非 異 身  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b20_17",
+    "original":"尊者世友作如是說。",
+    "folio":200,
+    "stemmed":"尊 者 世 友 作如是說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b21_12",
+    "original":"彼見異身無別實物命者可得。",
+    "folio":200,
+    "stemmed":"彼 見 異 身 無 別 實 物 命 者 可 得  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b22_4",
+    "original":"故執命者非異於身。",
+    "folio":200,
+    "stemmed":"故 執 命 者 非 異 於 身  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b22_13",
+    "original":"所餘如前即身中說。",
+    "folio":200,
+    "stemmed":"所 餘 如 前 即 身 中 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b22_18",
+    "original":"大德說曰。",
+    "folio":200,
+    "stemmed":"大 德 說 曰  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b23_12",
+    "original":"彼見世間於自身上而起我愛。",
+    "folio":200,
+    "stemmed":"彼 見 世 間 於 自 身 上 而 起 我 愛  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b24_9",
+    "original":"不於餘法故執命者非異於身。",
+    "folio":200,
+    "stemmed":"不 於 餘 法 故 執 命 者 非 異 於 身  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b25_1",
+    "original":"所餘如前即身中說。",
+    "folio":200,
+    "stemmed":"所 餘 如 前 即 身 中 說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b26_1",
+    "original":"然諸愚夫於色心等剎那相續不善了知。",
+    "folio":200,
+    "stemmed":"然 諸 愚 夫 於 色 心 等 剎 那 相 續 不 善 了 知  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b26_10",
+    "original":"說有命者即異身等。",
+    "folio":200,
+    "stemmed":"說 有 命 者 即 異 身 等  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b27_5",
+    "original":"若說即身及非異身入斷見品。",
+    "folio":200,
+    "stemmed":"若 說 即 身 及 非 異 身 入 斷 見 品  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b28_1",
+    "original":"若說異身及非即身入常見品。",
+    "folio":200,
+    "stemmed":"若 說 異 身 及 非 即 身 入 常 見 品  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003b29_1",
+    "original":"故諸外道諸惡見趣無不皆入斷常品中。",
+    "folio":200,
+    "stemmed":"故 諸 外 道 諸 惡 見 趣 無 不 皆 入 斷 常 品 中  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003c01_1",
+    "original":"一切如來應正等覺對治彼故宣說中道。",
+    "folio":200,
+    "stemmed":"一 切 如來應正等覺 對 治 彼 故 宣 說 中 道  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003c01_10",
+    "original":"謂色心等非斷非常。",
+    "folio":200,
+    "stemmed":"謂 色 心 等 非 斷 非 常  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003c02_9",
+    "original":"問云何應知死後非斷。",
+    "folio":200,
+    "stemmed":"問 云 何 應 知 死 後 非 斷  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003c03_1",
+    "original":"尊者世友作如是言。",
+    "folio":200,
+    "stemmed":"尊 者 世 友 作如是言  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003c03_10",
+    "original":"見今時心多念相續。",
+    "folio":200,
+    "stemmed":"見 今 時 心 多 念 相 續  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003c04_1",
+    "original":"由前前滅有後後生。",
+    "folio":200,
+    "stemmed":"由 前 前 滅 有 後 後 生  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003c04_10",
+    "original":"後心必依前心而起。",
+    "folio":200,
+    "stemmed":"後 心 必 依 前 心 而 起  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003c05_1",
+    "original":"前心有力必引後心。",
+    "folio":200,
+    "stemmed":"前 心 有 力 必 引 後 心  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003c05_10",
+    "original":"遇極厭緣後方不起。",
+    "folio":200,
+    "stemmed":"遇 極 厭 緣 後 方 不 起  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003c06_9",
+    "original":"由斯此世初受生心定有前心為因引起。",
+    "folio":200,
+    "stemmed":"由 斯 此 世 初 受 生 心 定 有 前 心 為 因 引 起  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003c07_1",
+    "original":"將命終位無極厭緣。",
+    "folio":200,
+    "stemmed":"將 命 終 位 無 極 厭 緣  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003c07_10",
+    "original":"正死時心定能引後。",
+    "folio":200,
+    "stemmed":"正 死 時 心 定 能 引 後  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003c08_1",
+    "original":"前身既能引今身起。",
+    "folio":200,
+    "stemmed":"前 身 既 能 引 今 身 起  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003c08_10",
+    "original":"今身何故不引後身。",
+    "folio":200,
+    "stemmed":"今 身 何 故 不 引 後 身  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003c09_1",
+    "original":"由是應知死後非斷。",
+    "folio":200,
+    "stemmed":"由 是 應 知 死 後 非 斷  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003c10_3",
+    "original":"復次見今根覺依已起根復能為因引意覺起。",
+    "folio":200,
+    "stemmed":"復 次 見 今 根 覺 依 已 起 根 復 能 為 因 引 意 覺 起  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003c11_2",
+    "original":"故知胎中最初意覺必因過去根覺引生。",
+    "folio":200,
+    "stemmed":"故 知 胎 中 最 初 意 覺 必 因 過 去 根 覺 引 生  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003c11_11",
+    "original":"前生既能引今生起。",
+    "folio":200,
+    "stemmed":"前 生 既 能 引 今 生 起  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003c12_2",
+    "original":"今生何故不引後生。",
+    "folio":200,
+    "stemmed":"今 生 何 故 不 引 後 生  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003c12_11",
+    "original":"由是應知死後非斷。",
+    "folio":200,
+    "stemmed":"由 是 應 知 死 後 非 斷  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003c12_16",
+    "original":"大德說曰。",
+    "folio":200,
+    "stemmed":"大 德 說 曰  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003c13_6",
+    "original":"非離餘心有餘心轉。",
+    "folio":200,
+    "stemmed":"非 離 餘 心 有 餘 心 轉  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003c13_15",
+    "original":"亦見有色隨心而生。",
+    "folio":200,
+    "stemmed":"亦 見 有 色 隨 心 而 生  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003c14_6",
+    "original":"復見有心依色而起。",
+    "folio":200,
+    "stemmed":"復 見 有 心 依 色 而 起  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003c15_6",
+    "original":"由煩惱故有色心生由是應知死後非斷。",
+    "folio":200,
+    "stemmed":"由 煩 惱 故 有 色 心 生 由 是 應 知 死 後 非 斷  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003c16_8",
+    "original":"復次現見前念有煩惱身必能引生後念心色。",
+    "folio":200,
+    "stemmed":"復 次 現 見 前 念 有 煩 惱 身 必 能 引 生 後 念 心 色  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003c17_8",
+    "original":"知命終位有煩惱者定能引後心色令生。",
+    "folio":200,
+    "stemmed":"知 命 終 位 有 煩 惱 者 定 能 引 後 心 色 令 生  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003c17_17",
+    "original":"由是應知死後非斷。",
+    "folio":200,
+    "stemmed":"由 是 應 知 死 後 非 斷  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003c18_9",
+    "original":"問諸色心等何故非常。",
+    "folio":200,
+    "stemmed":"問 諸 色 心 等 何 故 非 常  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003c18_15",
+    "original":"答轉變非恒。",
+    "folio":200,
+    "stemmed":"答 轉 變 非 恒  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003c19_1",
+    "original":"豈是常住。",
+    "folio":200,
+    "stemmed":"豈 是 常 住  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003c20_2",
+    "original":"問寧知轉變不由隱顯而執彼體有生滅耶。",
+    "folio":200,
+    "stemmed":"問 寧 知 轉 變 不 由 隱 顯 而 執 彼 體 有 生 滅 耶  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003c20_11",
+    "original":"尊者世友作如是說。",
+    "folio":200,
+    "stemmed":"尊 者 世 友 作如是說  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003c21_2",
+    "original":"若彼轉變但由隱顯。",
+    "folio":200,
+    "stemmed":"若 彼 轉 變 但 由 隱 顯  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003c22_2",
+    "original":"則處胎藏嬰孩童子少中老位皆應頓起。",
+    "folio":200,
+    "stemmed":"則 處 胎 藏 嬰 孩 童 子 少 中 老 位 皆 應 頓 起  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003c22_7",
+    "original":"然漸次起。",
+    "folio":200,
+    "stemmed":"然 漸 次 起  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003c23_2",
+    "original":"故知轉變體有生滅不由隱顯。",
+    "folio":200,
+    "stemmed":"故 知 轉 變 體 有 生 滅 不 由 隱 顯  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003c23_13",
+    "original":"復次若彼轉變但由隱顯。",
+    "folio":200,
+    "stemmed":"復 次 若 彼 轉 變 但 由 隱 顯  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003c24_12",
+    "original":"則處胎藏嬰孩童子少中老位應有間斷。",
+    "folio":200,
+    "stemmed":"則 處 胎 藏 嬰 孩 童 子 少 中 老 位 應 有 間 斷  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003c24_17",
+    "original":"然無間斷。",
+    "folio":200,
+    "stemmed":"然 無 間 斷  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003c25_12",
+    "original":"故知轉變體有生滅不由隱顯。",
+    "folio":200,
+    "stemmed":"故 知 轉 變 體 有 生 滅 不 由 隱 顯  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003c25_17",
+    "original":"大德說曰。",
+    "folio":200,
+    "stemmed":"大 德 說 曰  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003c26_12",
+    "original":"世間現見眾緣合時有諸法起。",
+    "folio":200,
+    "stemmed":"世 間 現 見 眾 緣 合 時 有 諸 法 起  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003c27_3",
+    "original":"緣若乖離諸法便壞。",
+    "folio":200,
+    "stemmed":"緣 若 乖 離 諸 法 便 壞  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003c27_12",
+    "original":"非隱顯者有此差別。",
+    "folio":200,
+    "stemmed":"非 隱 顯 者 有 此 差 別  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003c28_3",
+    "original":"故知轉變不由隱顯。",
+    "folio":200,
+    "stemmed":"故 知 轉 變 不 由 隱 顯  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003c28_12",
+    "original":"但由彼體有生有滅。",
+    "folio":200,
+    "stemmed":"但 由 彼 體 有 生 有 滅  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003c29_9",
+    "original":"復次法轉變時前後相別體亦應別。",
+    "folio":200,
+    "stemmed":"復 次 法 轉 變 時 前 後 相 別 體 亦 應 別  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1003c29_14",
+    "original":"相體一故。",
+    "folio":200,
+    "stemmed":"相 體 一 故  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1004a01_12",
+    "original":"若法常住雖有隱顯分位差別而相無異。",
+    "folio":200,
+    "stemmed":"若 法 常 住 雖 有 隱 顯 分位差別 而 相 無 異  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1004a02_12",
+    "original":"故知轉變體有生滅伽他納息所有義趣。",
+    "folio":200,
+    "stemmed":"故 知 轉 變 體 有 生 滅 伽 他 納 息 所 有 義 趣  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1004a03_4",
+    "original":"如文易了故不復釋。",
+    "folio":200,
+    "stemmed":"如 文 易 了 故 不 復 釋  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1004a04_14",
+    "original":"三藏法師玄奘譯斯論訖說二頌言。",
+    "folio":200,
+    "stemmed":"三藏法師 玄 奘 譯 斯 論 訖 說 二 頌 言  "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1004a05_0",
+    "original":"佛涅槃後四百年　　迦膩色加王贍部",
+    "folio":200,
+    "stemmed":"佛 涅 槃 後 四 百 年   迦 膩 色 加 王 贍 部 "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1004a06_0",
+    "original":"召集五百應真士　　迦濕彌羅釋三藏",
+    "folio":200,
+    "stemmed":"召 集 五 百 應 真 士   迦 濕 彌 羅 釋 三 藏 "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1004a07_0",
+    "original":"其中對法毘婆沙　　具獲本文今譯訖",
+    "folio":200,
+    "stemmed":"其 中 對 法 毘 婆 沙   具 獲 本 文 今 譯 訖 "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1004a08_0",
+    "original":"願此等潤諸含識　　速證圓寂妙菩提",
+    "folio":200,
+    "stemmed":"願 此 等 潤 諸 含 識   速 證 圓 寂 妙 菩 提 "
+  },
+  {
+    "segmentnr":"ZH_T27_1545_200:1004a09_100",
+    "original":"說一切有部發智大毘婆沙論卷第二百",
+    "folio":200,
+    "stemmed":"說 一 切 有 部 發 智 大 毘 婆 沙 論 卷 第 二 百 "
+  }
+]

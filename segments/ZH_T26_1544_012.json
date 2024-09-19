@@ -1,0 +1,4346 @@
+[
+  {
+    "segmentnr":"ZH_T26_1544_012:0977a25_0",
+    "original":"阿毘達磨發智論卷第十二",
+    "folio":12,
+    "stemmed":"阿 毘 達 磨 發 智 論 卷 第 十 二 "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977a27_0",
+    "original":"尊者迦多衍尼子造",
+    "folio":12,
+    "stemmed":"尊 者 迦 多 衍 尼 子 造 "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977a28_0",
+    "original":"三藏法師玄奘奉　詔譯",
+    "folio":12,
+    "stemmed":"三藏法師 玄 奘 奉  詔 譯 "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977b01_0",
+    "original":"表無表總別　　四性三世成",
+    "folio":12,
+    "stemmed":"表 無 表 總 別   四 性 三 世 成 "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977b02_0",
+    "original":"業果界是非　　有漏等學等",
+    "folio":12,
+    "stemmed":"業 果 界 是 非   有 漏 等 學 等 "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977b03_0",
+    "original":"身戒與心慧　　總別修不修",
+    "folio":12,
+    "stemmed":"身 戒 與 心 慧   總 別 修 不 修 "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977b04_0",
+    "original":"戒類三世成　　此章願具說",
+    "folio":12,
+    "stemmed":"戒 類 三 世 成   此 章 願 具 說 "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977b05_13",
+    "original":"若成就身表，彼成就此無表耶？",
+    "folio":12,
+    "stemmed":"若 成 就 身 表  彼 成 就 此 無 表 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977b05_15",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977b05_20",
+    "original":"應作四句。",
+    "folio":12,
+    "stemmed":"應 作 四 句  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977b06_9",
+    "original":"有成就身表非此無表。",
+    "folio":12,
+    "stemmed":"有 成 就 身 表 非 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977b06_11",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977b07_15",
+    "original":"生欲界，住非律儀非不律儀，現有身表，不得此無表。",
+    "folio":12,
+    "stemmed":"生 欲 界  住 非 律 儀 非 不 律 儀  現 有 身 表  不 得 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977b08_9",
+    "original":"或先有此表不失，不得此無表。",
+    "folio":12,
+    "stemmed":"或 先 有 此 表 不 失  不 得 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977b08_19",
+    "original":"有成就身無表非此表。",
+    "folio":12,
+    "stemmed":"有 成 就 身 無 表 非 此 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977b09_1",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977b10_12",
+    "original":"聖者住胎，若生欲界，住律儀，不得別解脫律儀，無身表，設有而失；",
+    "folio":12,
+    "stemmed":"聖 者 住 胎  若 生 欲 界  住 律 儀  不 得 別解脫律儀  無 身 表  設 有 而 失  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977b11_6",
+    "original":"若生色界，無身表，設有而失；",
+    "folio":12,
+    "stemmed":"若 生 色 界  無 身 表  設 有 而 失  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977b11_14",
+    "original":"若聖者生無色界。",
+    "folio":12,
+    "stemmed":"若 聖 者 生無色界  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977b12_4",
+    "original":"有成就身表亦此無表。",
+    "folio":12,
+    "stemmed":"有 成 就 身 表 亦 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977b12_6",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977b13_12",
+    "original":"生欲界，住律儀，不得別解脫律儀，現有身表，亦得此無表；",
+    "folio":12,
+    "stemmed":"生 欲 界  住 律 儀  不 得 別解脫律儀  現 有 身 表  亦 得 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977b14_5",
+    "original":"或先有此表不失，亦得此無表。",
+    "folio":12,
+    "stemmed":"或 先 有 此 表 不 失  亦 得 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977b16_1",
+    "original":"若住別解脫律儀，若住不律儀，若住非律儀非不律儀，現有身表，亦得此無表；",
+    "folio":12,
+    "stemmed":"若 住 別解脫律儀  若 住 不 律 儀  若 住 非 律 儀 非 不 律 儀  現 有 身 表  亦 得 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977b16_15",
+    "original":"或先有此表不失，亦得此無表。",
+    "folio":12,
+    "stemmed":"或 先 有 此 表 不 失  亦 得 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977b17_12",
+    "original":"若生色界，現有身表，或先有此表不失。",
+    "folio":12,
+    "stemmed":"若 生 色 界  現 有 身 表  或 先 有 此 表 不 失  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977b18_5",
+    "original":"有非成就身表亦非此無表。",
+    "folio":12,
+    "stemmed":"有 非 成 就 身 表 亦 非 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977b18_7",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977b18_11",
+    "original":"住卵㲉。",
+    "folio":12,
+    "stemmed":"住 卵 㲉  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977b18_17",
+    "original":"若異生住胎。",
+    "folio":12,
+    "stemmed":"若 異 生 住 胎  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977b19_20",
+    "original":"若生欲界，住非律儀非不律儀，無身表，設有而失。",
+    "folio":12,
+    "stemmed":"若 生 欲 界  住 非 律 儀 非 不 律 儀  無 身 表  設 有 而 失  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977b20_7",
+    "original":"若異生生無色界。",
+    "folio":12,
+    "stemmed":"若 異 生 生無色界  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977b21_14",
+    "original":"若成就善身表，彼成就此無表耶？",
+    "folio":12,
+    "stemmed":"若 成 就 善 身 表  彼 成 就 此 無 表 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977b21_16",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977b22_1",
+    "original":"應作四句。",
+    "folio":12,
+    "stemmed":"應 作 四 句  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977b22_12",
+    "original":"有成就善身表非此無表。",
+    "folio":12,
+    "stemmed":"有 成 就 善 身 表 非 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977b22_14",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977b24_3",
+    "original":"生欲界，住不律儀及非律儀非不律儀，現有善身表，不得此無表；",
+    "folio":12,
+    "stemmed":"生 欲 界  住 不 律 儀 及 非 律 儀 非 不 律 儀  現 有 善 身 表  不 得 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977b24_17",
+    "original":"或先有此表不失，不得此無表。",
+    "folio":12,
+    "stemmed":"或 先 有 此 表 不 失  不 得 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977b25_8",
+    "original":"有成就善身無表非此表。",
+    "folio":12,
+    "stemmed":"有 成 就 善 身 無 表 非 此 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977b25_10",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977b25_15",
+    "original":"聖者住胎。",
+    "folio":12,
+    "stemmed":"聖 者 住 胎  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977b27_1",
+    "original":"若生欲界，住律儀，不得別解脫律儀，無善身表，設有而失。",
+    "folio":12,
+    "stemmed":"若 生 欲 界  住 律 儀  不 得 別解脫律儀  無 善 身 表  設 有 而 失  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977b27_16",
+    "original":"若生色界，無善身表，設有而失。",
+    "folio":12,
+    "stemmed":"若 生 色 界  無 善 身 表  設 有 而 失  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977b28_3",
+    "original":"若聖者生無色界。",
+    "folio":12,
+    "stemmed":"若 聖 者 生無色界  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977b28_14",
+    "original":"有成就善身表亦此無表。",
+    "folio":12,
+    "stemmed":"有 成 就 善 身 表 亦 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977b28_16",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977c01_3",
+    "original":"生欲界，住律儀，不得別解脫律儀，現有善身表，亦得此無表；",
+    "folio":12,
+    "stemmed":"生 欲 界  住 律 儀  不 得 別解脫律儀  現 有 善 身 表  亦 得 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977c01_17",
+    "original":"或先有此表不失，亦得此無表。",
+    "folio":12,
+    "stemmed":"或 先 有 此 表 不 失  亦 得 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977c03_13",
+    "original":"若住別解脫律儀，若住不律儀及非律儀非不律儀，現有善身表，亦得此無表；",
+    "folio":12,
+    "stemmed":"若 住 別解脫律儀  若 住 不 律 儀 及 非 律 儀 非 不 律 儀  現 有 善 身 表  亦 得 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977c04_7",
+    "original":"或先有此表不失，亦得此無表。",
+    "folio":12,
+    "stemmed":"或 先 有 此 表 不 失  亦 得 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977c05_5",
+    "original":"若生色界，現有善身表，或先有此表不失。",
+    "folio":12,
+    "stemmed":"若 生 色 界  現 有 善 身 表  或 先 有 此 表 不 失  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977c05_18",
+    "original":"有非成就善身表亦非此無表。",
+    "folio":12,
+    "stemmed":"有 非 成 就 善 身 表 亦 非 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977c06_1",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977c06_5",
+    "original":"處卵㲉。",
+    "folio":12,
+    "stemmed":"處 卵 㲉  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977c06_11",
+    "original":"若異生住胎。",
+    "folio":12,
+    "stemmed":"若 異 生 住 胎  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977c07_18",
+    "original":"若生欲界，住不律儀及非律儀非不律儀，無善身表，設有而失。",
+    "folio":12,
+    "stemmed":"若 生 欲 界  住 不 律 儀 及 非 律 儀 非 不 律 儀  無 善 身 表  設 有 而 失  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977c08_6",
+    "original":"若異生生無色界。",
+    "folio":12,
+    "stemmed":"若 異 生 生無色界  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977c09_15",
+    "original":"若成就不善身表，彼成就此無表耶？",
+    "folio":12,
+    "stemmed":"若 成 就 不 善 身 表  彼 成 就 此 無 表 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977c09_17",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977c10_12",
+    "original":"諸成就不善身無表，彼成就此表。",
+    "folio":12,
+    "stemmed":"諸 成 就 不 善 身 無 表  彼 成 就 此 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977c11_5",
+    "original":"有成就不善身表非此無表。",
+    "folio":12,
+    "stemmed":"有 成 就 不 善 身 表 非 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977c11_7",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977c12_16",
+    "original":"生欲界，住律儀及非律儀非不律儀，現有不善身表，不得此無表。",
+    "folio":12,
+    "stemmed":"生 欲 界  住 律 儀 及 非 律 儀 非 不 律 儀  現 有 不 善 身 表  不 得 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977c13_10",
+    "original":"或先有此表不失，不得此無表。",
+    "folio":12,
+    "stemmed":"或 先 有 此 表 不 失  不 得 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977c14_17",
+    "original":"若成就有覆無記身表，彼成就此無表耶？",
+    "folio":12,
+    "stemmed":"若 成 就 有覆無記 身 表  彼 成 就 此 無 表 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977c14_19",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977c15_16",
+    "original":"無成就有覆無記身無表，有成就此表。",
+    "folio":12,
+    "stemmed":"無 成 就 有覆無記 身 無 表  有 成 就 此 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977c15_18",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977c16_11",
+    "original":"生色界，現有有覆無記身表。",
+    "folio":12,
+    "stemmed":"生 色 界  現 有 有覆無記 身 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977c17_17",
+    "original":"若成就無覆無記身表，彼成就此無表耶？",
+    "folio":12,
+    "stemmed":"若 成 就 無覆無記 身 表  彼 成 就 此 無 表 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977c17_19",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977c18_16",
+    "original":"無成就無覆無記身無表，有成就此表。",
+    "folio":12,
+    "stemmed":"無 成 就 無覆無記 身 無 表  有 成 就 此 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977c18_18",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977c19_13",
+    "original":"生欲、色界，現有無覆無記身表。",
+    "folio":12,
+    "stemmed":"生 欲  色 界  現 有 無覆無記 身 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977c20_15",
+    "original":"若成就過去身表，彼成就此無表耶？",
+    "folio":12,
+    "stemmed":"若 成 就 過 去 身 表  彼 成 就 此 無 表 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977c20_17",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977c21_2",
+    "original":"應作四句。",
+    "folio":12,
+    "stemmed":"應 作 四 句  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977c21_15",
+    "original":"有成就過去身表，非此無表。",
+    "folio":12,
+    "stemmed":"有 成 就 過 去 身 表  非 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977c21_17",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977c23_2",
+    "original":"生欲界，住非律儀非不律儀，先有身表不失，不得此無表。",
+    "folio":12,
+    "stemmed":"生 欲 界  住 非 律 儀 非 不 律 儀  先 有 身 表 不 失  不 得 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977c23_15",
+    "original":"有成就過去身無表，非此表。",
+    "folio":12,
+    "stemmed":"有 成 就 過 去 身 無 表  非 此 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977c23_17",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977c24_1",
+    "original":"聖者住胎。",
+    "folio":12,
+    "stemmed":"聖 者 住 胎  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977c25_7",
+    "original":"若生欲界，住律儀，不得別解脫律儀，先無身表，設有而失。",
+    "folio":12,
+    "stemmed":"若 生 欲 界  住 律 儀  不 得 別解脫律儀  先 無 身 表  設 有 而 失  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977c26_1",
+    "original":"若生色界，先無身表，設有而失。",
+    "folio":12,
+    "stemmed":"若 生 色 界  先 無 身 表  設 有 而 失  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977c26_9",
+    "original":"若學者生無色界。",
+    "folio":12,
+    "stemmed":"若 學 者 生無色界  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977c27_2",
+    "original":"有成就過去身表，亦此無表。",
+    "folio":12,
+    "stemmed":"有 成 就 過 去 身 表  亦 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977c27_4",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0977c28_11",
+    "original":"生欲界，住律儀，不得別解脫律儀，先有身表不失，亦得此無表。",
+    "folio":12,
+    "stemmed":"生 欲 界  住 律 儀  不 得 別解脫律儀  先 有 身 表 不 失  亦 得 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978a01_9",
+    "original":"若住別解脫律儀，若住不律儀，若住非律儀非不律儀，先有身表不失，亦得此無表。",
+    "folio":12,
+    "stemmed":"若 住 別解脫律儀  若 住 不 律 儀  若 住 非 律 儀 非 不 律 儀  先 有 身 表 不 失  亦 得 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978a02_1",
+    "original":"若生色界，先有身表不失。",
+    "folio":12,
+    "stemmed":"若 生 色 界  先 有 身 表 不 失  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978a02_16",
+    "original":"有非成就過去身表，亦非此無表。",
+    "folio":12,
+    "stemmed":"有 非 成 就 過 去 身 表  亦 非 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978a02_18",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978a03_1",
+    "original":"處卵㲉。",
+    "folio":12,
+    "stemmed":"處 卵 㲉  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978a03_7",
+    "original":"若異生住胎。",
+    "folio":12,
+    "stemmed":"若 異 生 住 胎  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978a04_12",
+    "original":"若生欲界，住非律儀非不律儀，先無身表，設有而失。",
+    "folio":12,
+    "stemmed":"若 生 欲 界  住 非 律 儀 非 不 律 儀  先 無 身 表  設 有 而 失  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978a05_6",
+    "original":"若阿羅漢及異生，生無色界。",
+    "folio":12,
+    "stemmed":"若 阿 羅 漢 及 異 生  生無色界  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978a06_16",
+    "original":"若成就過去善身表，彼成就此無表耶？",
+    "folio":12,
+    "stemmed":"若 成 就 過 去 善 身 表  彼 成 就 此 無 表 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978a06_18",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978a07_3",
+    "original":"應作四句。",
+    "folio":12,
+    "stemmed":"應 作 四 句  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978a07_17",
+    "original":"有成就過去善身表，非此無表。",
+    "folio":12,
+    "stemmed":"有 成 就 過 去 善 身 表  非 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978a07_19",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978a09_11",
+    "original":"生欲界，住不律儀及非律儀非不律儀，先有善身表不失，不得此無表。",
+    "folio":12,
+    "stemmed":"生 欲 界  住 不 律 儀 及 非 律 儀 非 不 律 儀  先 有 善 身 表 不 失  不 得 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978a10_6",
+    "original":"有成就過去善身無表，非此表。",
+    "folio":12,
+    "stemmed":"有 成 就 過 去 善 身 無 表  非 此 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978a10_8",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978a10_13",
+    "original":"聖者住胎。",
+    "folio":12,
+    "stemmed":"聖 者 住 胎  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978a11_18",
+    "original":"若生欲界，住律儀，不得別解脫律儀，先無善身表，設有而失。",
+    "folio":12,
+    "stemmed":"若 生 欲 界  住 律 儀  不 得 別解脫律儀  先 無 善 身 表  設 有 而 失  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978a12_14",
+    "original":"若生色界，先無善身表，設有而失。",
+    "folio":12,
+    "stemmed":"若 生 色 界  先 無 善 身 表  設 有 而 失  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978a13_2",
+    "original":"若學者生無色界。",
+    "folio":12,
+    "stemmed":"若 學 者 生無色界  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978a13_16",
+    "original":"有成就過去善身表，及此無表。",
+    "folio":12,
+    "stemmed":"有 成 就 過 去 善 身 表  及 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978a13_18",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978a15_7",
+    "original":"生欲界，住律，儀不得別解脫律儀，先有善身表不失，亦得此無表。",
+    "folio":12,
+    "stemmed":"生 欲 界  住 律  儀 不 得 別解脫律儀  先 有 善 身 表 不 失  亦 得 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978a17_5",
+    "original":"若住別解脫律儀，若住不律儀及非律儀非不律儀，先有善身表不失，亦得此無表。",
+    "folio":12,
+    "stemmed":"若 住 別解脫律儀  若 住 不 律 儀 及 非 律 儀 非 不 律 儀  先 有 善 身 表 不 失  亦 得 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978a17_18",
+    "original":"若生色界，先有善身表不失。",
+    "folio":12,
+    "stemmed":"若 生 色 界  先 有 善 身 表 不 失  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978a18_14",
+    "original":"有非成就過去善身表，亦非此無表。",
+    "folio":12,
+    "stemmed":"有 非 成 就 過 去 善 身 表  亦 非 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978a18_16",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978a18_20",
+    "original":"處卵㲉。",
+    "folio":12,
+    "stemmed":"處 卵 㲉  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978a19_5",
+    "original":"若異生住胎。",
+    "folio":12,
+    "stemmed":"若 異 生 住 胎  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978a20_16",
+    "original":"若生欲界，住不律儀及非律儀非不律儀，先無善身表，設有而失。",
+    "folio":12,
+    "stemmed":"若 生 欲 界  住 不 律 儀 及 非 律 儀 非 不 律 儀  先 無 善 身 表  設 有 而 失  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978a21_10",
+    "original":"若阿羅漢及異生，生無色界。",
+    "folio":12,
+    "stemmed":"若 阿 羅 漢 及 異 生  生無色界  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978a22_17",
+    "original":"若成就過去不善身表，彼成就此無表耶？",
+    "folio":12,
+    "stemmed":"若 成 就 過 去 不 善 身 表  彼 成 就 此 無 表 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978a22_19",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978a23_16",
+    "original":"諸成就過去不善身無表，彼成就此表。",
+    "folio":12,
+    "stemmed":"諸 成 就 過 去 不 善 身 無 表  彼 成 就 此 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978a24_12",
+    "original":"有成就過去不善身表，非此無表。",
+    "folio":12,
+    "stemmed":"有 成 就 過 去 不 善 身 表  非 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978a24_14",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978a26_7",
+    "original":"生欲界，住律儀及非律儀非不律儀，先有不善身表不失，不得此無表。",
+    "folio":12,
+    "stemmed":"生 欲 界  住 律 儀 及 非 律 儀 非 不 律 儀  先 有 不 善 身 表 不 失  不 得 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978a28_1",
+    "original":"若成就過去有覆無記身表，彼成就此無表耶？",
+    "folio":12,
+    "stemmed":"若 成 就 過 去 有覆無記 身 表  彼 成 就 此 無 表 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978a28_3",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978a28_19",
+    "original":"無成就過去有覆無記身表及此無表。",
+    "folio":12,
+    "stemmed":"無 成 就 過 去 有覆無記 身 表 及 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978b01_1",
+    "original":"若成就過去無覆無記身表，彼成就此無表耶？",
+    "folio":12,
+    "stemmed":"若 成 就 過 去 無覆無記 身 表  彼 成 就 此 無 表 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978b01_3",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978b01_19",
+    "original":"無成就過去無覆無記身表及此無表。",
+    "folio":12,
+    "stemmed":"無 成 就 過 去 無覆無記 身 表 及 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978b02_15",
+    "original":"若成就未來身表，彼成就此無表耶？",
+    "folio":12,
+    "stemmed":"若 成 就 未 來 身 表  彼 成 就 此 無 表 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978b02_17",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978b03_12",
+    "original":"無成就未來身表，有成就此無表。",
+    "folio":12,
+    "stemmed":"無 成 就 未 來 身 表  有 成 就 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978b03_14",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978b03_19",
+    "original":"聖者住胎。",
+    "folio":12,
+    "stemmed":"聖 者 住 胎  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978b04_10",
+    "original":"若生欲界已，得色界善心。",
+    "folio":12,
+    "stemmed":"若 生 欲 界 已  得 色 界 善 心  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978b04_15",
+    "original":"若生色界。",
+    "folio":12,
+    "stemmed":"若 生 色 界  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978b05_3",
+    "original":"若聖者生無色界。",
+    "folio":12,
+    "stemmed":"若 聖 者 生無色界  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978b06_16",
+    "original":"若成就未來善身表，彼成就此無表耶？",
+    "folio":12,
+    "stemmed":"若 成 就 未 來 善 身 表  彼 成 就 此 無 表 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978b06_18",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978b07_14",
+    "original":"無成就未來善身表，有成就此無表。",
+    "folio":12,
+    "stemmed":"無 成 就 未 來 善 身 表  有 成 就 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978b07_16",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978b08_1",
+    "original":"聖者住胎。",
+    "folio":12,
+    "stemmed":"聖 者 住 胎  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978b08_13",
+    "original":"若生欲界已，得色界善心。",
+    "folio":12,
+    "stemmed":"若 生 欲 界 已  得 色 界 善 心  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978b08_18",
+    "original":"若生色界。",
+    "folio":12,
+    "stemmed":"若 生 色 界  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978b09_5",
+    "original":"若聖者生無色界。",
+    "folio":12,
+    "stemmed":"若 聖 者 生無色界  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978b10_4",
+    "original":"若成就未來不善身表，彼成就此無表耶？",
+    "folio":12,
+    "stemmed":"若 成 就 未 來 不 善 身 表  彼 成 就 此 無 表 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978b10_6",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978b11_1",
+    "original":"無成就未來不善身表及此無表。",
+    "folio":12,
+    "stemmed":"無 成 就 未 來 不 善 身 表 及 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978b13_1",
+    "original":"若成就未來有覆無記身表，彼成就此無表耶？",
+    "folio":12,
+    "stemmed":"若 成 就 未 來 有覆無記 身 表  彼 成 就 此 無 表 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978b13_3",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978b13_19",
+    "original":"無成就未來有覆無記身表及此無表。",
+    "folio":12,
+    "stemmed":"無 成 就 未 來 有覆無記 身 表 及 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978b15_1",
+    "original":"若成就未來無覆無記身表，彼成就此無表耶？",
+    "folio":12,
+    "stemmed":"若 成 就 未 來 無覆無記 身 表  彼 成 就 此 無 表 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978b15_3",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978b15_19",
+    "original":"無成就未來無覆無記身表及此無表。",
+    "folio":12,
+    "stemmed":"無 成 就 未 來 無覆無記 身 表 及 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978b16_15",
+    "original":"若成就現在身表，彼成就此無表耶？",
+    "folio":12,
+    "stemmed":"若 成 就 現 在 身 表  彼 成 就 此 無 表 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978b16_17",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978b17_2",
+    "original":"應作四句。",
+    "folio":12,
+    "stemmed":"應 作 四 句  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978b17_14",
+    "original":"有成就現在身表非此無表。",
+    "folio":12,
+    "stemmed":"有 成 就 現 在 身 表 非 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978b17_16",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978b19_17",
+    "original":"生欲界，住律儀，不得別解脫律儀，現有身表，不得此無表，設先有身表不失，而不得此無表。",
+    "folio":12,
+    "stemmed":"生 欲 界  住 律 儀  不 得 別解脫律儀  現 有 身 表  不 得 此 無 表  設 先 有 身 表 不 失  而 不 得 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978b21_13",
+    "original":"若住非律儀非不律儀，現有身表，不得此無表，設先有身表不失，而不得此無表。",
+    "folio":12,
+    "stemmed":"若 住 非 律 儀 非 不 律 儀  現 有 身 表  不 得 此 無 表  設 先 有 身 表 不 失  而 不 得 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978b22_3",
+    "original":"若生色界，現有身表。",
+    "folio":12,
+    "stemmed":"若 生 色 界  現 有 身 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978b22_15",
+    "original":"有成就現在身無表非此表。",
+    "folio":12,
+    "stemmed":"有 成 就 現 在 身 無 表 非 此 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978b22_17",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978b23_17",
+    "original":"生欲界，住律儀，不得別解脫律儀，正在定；",
+    "folio":12,
+    "stemmed":"生 欲 界  住 律 儀  不 得 別解脫律儀  正 在 定  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978b24_18",
+    "original":"設不在定，現無身表，先有身表不失，得此無表。",
+    "folio":12,
+    "stemmed":"設 不 在 定  現 無 身 表  先 有 身 表 不 失  得 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978b25_15",
+    "original":"若住別解脫律儀及不律儀，現無身表。",
+    "folio":12,
+    "stemmed":"若 住 別解脫律儀 及 不 律 儀  現 無 身 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978b27_3",
+    "original":"若住非律儀非不律儀，現無身表，先有身表不失，得此無表。",
+    "folio":12,
+    "stemmed":"若 住 非 律 儀 非 不 律 儀  現 無 身 表  先 有 身 表 不 失  得 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978b27_12",
+    "original":"若生色界，正在定。",
+    "folio":12,
+    "stemmed":"若 生 色 界  正 在 定  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978b28_4",
+    "original":"有成就現在身表亦此無表。",
+    "folio":12,
+    "stemmed":"有 成 就 現 在 身 表 亦 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978b28_6",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978c01_3",
+    "original":"生欲界，住律儀，不得別解脫律儀，現有身表，得此無表，或先有身表不失，得此無表。",
+    "folio":12,
+    "stemmed":"生 欲 界  住 律 儀  不 得 別解脫律儀  現 有 身 表  得 此 無 表  或 先 有 身 表 不 失  得 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978c02_1",
+    "original":"若住別解脫律儀及不律儀，現有身表。",
+    "folio":12,
+    "stemmed":"若 住 別解脫律儀 及 不 律 儀  現 有 身 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978c03_14",
+    "original":"若住非律儀非不律儀，現有身表，得此無表，或先有身表不失，得此無表。",
+    "folio":12,
+    "stemmed":"若 住 非 律 儀 非 不 律 儀  現 有 身 表  得 此 無 表  或 先 有 身 表 不 失  得 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978c04_8",
+    "original":"有非成就現在身表亦非此無表。",
+    "folio":12,
+    "stemmed":"有 非 成 就 現 在 身 表 亦 非 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978c04_10",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978c04_18",
+    "original":"處卵㲉及住胎中。",
+    "folio":12,
+    "stemmed":"處 卵 㲉 及 住 胎 中  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978c06_3",
+    "original":"若生欲界，住律儀，不得別解脫律儀，不在定，現無身表；",
+    "folio":12,
+    "stemmed":"若 生 欲 界  住 律 儀  不 得 別解脫律儀  不 在 定  現 無 身 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978c06_18",
+    "original":"設先有身表不失，而不得此無表。",
+    "folio":12,
+    "stemmed":"設 先 有 身 表 不 失  而 不 得 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978c08_9",
+    "original":"若住非律儀非不律儀，現無身表，設先有身表不失，而不得此無表。",
+    "folio":12,
+    "stemmed":"若 住 非 律 儀 非 不 律 儀  現 無 身 表  設 先 有 身 表 不 失  而 不 得 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978c09_3",
+    "original":"若生色界，不在定，現無身表。",
+    "folio":12,
+    "stemmed":"若 生 色 界  不 在 定  現 無 身 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978c09_9",
+    "original":"若生無色界。",
+    "folio":12,
+    "stemmed":"若 生無色界  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978c10_6",
+    "original":"若成就現在善身表，彼成就此無表耶？",
+    "folio":12,
+    "stemmed":"若 成 就 現 在 善 身 表  彼 成 就 此 無 表 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978c10_8",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978c10_13",
+    "original":"應作四句。",
+    "folio":12,
+    "stemmed":"應 作 四 句  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978c11_6",
+    "original":"有成就現在善身表非此無表。",
+    "folio":12,
+    "stemmed":"有 成 就 現 在 善 身 表 非 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978c11_8",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978c12_15",
+    "original":"生欲界，住律儀，不得別解脫律儀，現有善身表，不得此無表；",
+    "folio":12,
+    "stemmed":"生 欲 界  住 律 儀  不 得 別解脫律儀  現 有 善 身 表  不 得 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978c13_11",
+    "original":"設先有善身表不失，而不得此無表。",
+    "folio":12,
+    "stemmed":"設 先 有 善 身 表 不 失  而 不 得 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978c14_18",
+    "original":"若住不律儀及非律儀非不律儀，現有善身表，不得此無表；",
+    "folio":12,
+    "stemmed":"若 住 不 律 儀 及 非 律 儀 非 不 律 儀  現 有 善 身 表  不 得 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978c15_14",
+    "original":"設先有善身表不失，而不得此無表。",
+    "folio":12,
+    "stemmed":"設 先 有 善 身 表 不 失  而 不 得 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978c16_5",
+    "original":"若生色界，現有善身表。",
+    "folio":12,
+    "stemmed":"若 生 色 界  現 有 善 身 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978c16_18",
+    "original":"有成就現在善身無表非此表。",
+    "folio":12,
+    "stemmed":"有 成 就 現 在 善 身 無 表 非 此 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978c17_1",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978c17_21",
+    "original":"生欲界，住律儀，不得別解脫律儀，正在定；",
+    "folio":12,
+    "stemmed":"生 欲 界  住 律 儀  不 得 別解脫律儀  正 在 定  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978c19_4",
+    "original":"設不在定，現無善身表，先有善身表不失，而得此無表。",
+    "folio":12,
+    "stemmed":"設 不 在 定  現 無 善 身 表  先 有 善 身 表 不 失  而 得 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978c19_18",
+    "original":"若住別解脫律儀，現無善身表。",
+    "folio":12,
+    "stemmed":"若 住 別解脫律儀  現 無 善 身 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978c21_13",
+    "original":"若住不律儀及非律儀非不律儀，現無善身表，先有善身表不失，而得此無表。",
+    "folio":12,
+    "stemmed":"若 住 不 律 儀 及 非 律 儀 非 不 律 儀  現 無 善 身 表  先 有 善 身 表 不 失  而 得 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978c22_2",
+    "original":"若生色界，正在定。",
+    "folio":12,
+    "stemmed":"若 生 色 界  正 在 定  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978c22_15",
+    "original":"有成就現在善身表亦此無表。",
+    "folio":12,
+    "stemmed":"有 成 就 現 在 善 身 表 亦 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978c22_17",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978c24_17",
+    "original":"生欲界，住律儀，不得別解脫律儀，現有善身表，亦得此無表，先有善身表不失，得此無表。",
+    "folio":12,
+    "stemmed":"生 欲 界  住 律 儀  不 得 別解脫律儀  現 有 善 身 表  亦 得 此 無 表  先 有 善 身 表 不 失  得 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978c25_11",
+    "original":"若住別解脫律儀，現有善身表。",
+    "folio":12,
+    "stemmed":"若 住 別解脫律儀  現 有 善 身 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978c27_12",
+    "original":"若住不律儀及住非律儀非不律儀，現有善身表，亦得此無表，先有善身表不失，得此無表。",
+    "folio":12,
+    "stemmed":"若 住 不 律 儀 及 住 非 律 儀 非 不 律 儀  現 有 善 身 表  亦 得 此 無 表  先 有 善 身 表 不 失  得 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978c28_8",
+    "original":"有非成就現在善身表亦非此無表。",
+    "folio":12,
+    "stemmed":"有 非 成 就 現 在 善 身 表 亦 非 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978c28_10",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0978c28_18",
+    "original":"處卵㲉及住胎中。",
+    "folio":12,
+    "stemmed":"處 卵 㲉 及 住 胎 中  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979a01_4",
+    "original":"若生欲界，住律儀，不得別解脫律儀，不在定，現無善身表；",
+    "folio":12,
+    "stemmed":"若 生 欲 界  住 律 儀  不 得 別解脫律儀  不 在 定  現 無 善 身 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979a02_1",
+    "original":"設先有善身表不失，而不得此無表。",
+    "folio":12,
+    "stemmed":"設 先 有 善 身 表 不 失  而 不 得 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979a03_3",
+    "original":"若住不律儀及非律儀非不律儀，現無善身表；",
+    "folio":12,
+    "stemmed":"若 住 不 律 儀 及 非 律 儀 非 不 律 儀  現 無 善 身 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979a03_19",
+    "original":"設先有善身表不失，而不得此無表。",
+    "folio":12,
+    "stemmed":"設 先 有 善 身 表 不 失  而 不 得 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979a04_14",
+    "original":"若生色界，不在定，現無善身表。",
+    "folio":12,
+    "stemmed":"若 生 色 界  不 在 定  現 無 善 身 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979a04_20",
+    "original":"若生無色界。",
+    "folio":12,
+    "stemmed":"若 生無色界  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979a05_17",
+    "original":"若成就現在不善身表，彼成就此無表耶？",
+    "folio":12,
+    "stemmed":"若 成 就 現 在 不 善 身 表  彼 成 就 此 無 表 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979a05_19",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979a06_4",
+    "original":"應作四句。",
+    "folio":12,
+    "stemmed":"應 作 四 句  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979a06_18",
+    "original":"有成就現在不善身表非此無表。",
+    "folio":12,
+    "stemmed":"有 成 就 現 在 不 善 身 表 非 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979a07_1",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979a08_10",
+    "original":"生欲界，住律儀及非律儀非不律儀，現有不善身表，不得此無表；",
+    "folio":12,
+    "stemmed":"生 欲 界  住 律 儀 及 非 律 儀 非 不 律 儀  現 有 不 善 身 表  不 得 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979a09_8",
+    "original":"設先有不善身表不失，而不得此無表。",
+    "folio":12,
+    "stemmed":"設 先 有 不 善 身 表 不 失  而 不 得 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979a10_3",
+    "original":"有成就現在不善身無表非此表。",
+    "folio":12,
+    "stemmed":"有 成 就 現 在 不 善 身 無 表 非 此 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979a10_5",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979a10_21",
+    "original":"生欲界，住不律儀，現無不善身表。",
+    "folio":12,
+    "stemmed":"生 欲 界  住 不 律 儀  現 無 不 善 身 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979a12_15",
+    "original":"若住律儀及非律儀非不律儀，現無不善身表，先有不善身表不失，得此無表。",
+    "folio":12,
+    "stemmed":"若 住 律 儀 及 非 律 儀 非 不 律 儀  現 無 不 善 身 表  先 有 不 善 身 表 不 失  得 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979a13_9",
+    "original":"有成就現在不善身表亦此無表。",
+    "folio":12,
+    "stemmed":"有 成 就 現 在 不 善 身 表 亦 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979a13_11",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979a15_3",
+    "original":"生欲界，住律儀及非律儀非不律儀，現有不善身表，亦得此無表；",
+    "folio":12,
+    "stemmed":"生 欲 界  住 律 儀 及 非 律 儀 非 不 律 儀  現 有 不 善 身 表  亦 得 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979a15_17",
+    "original":"先有不善身表不失，得此無表。",
+    "folio":12,
+    "stemmed":"先 有 不 善 身 表 不 失  得 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979a16_10",
+    "original":"若住不律儀，現有不善身表。",
+    "folio":12,
+    "stemmed":"若 住 不 律 儀  現 有 不 善 身 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979a17_7",
+    "original":"有非成就現在不善身表亦非此無表。",
+    "folio":12,
+    "stemmed":"有 非 成 就 現 在 不 善 身 表 亦 非 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979a17_9",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979a17_13",
+    "original":"處卵㲉。",
+    "folio":12,
+    "stemmed":"處 卵 㲉  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979a17_18",
+    "original":"若住胎中。",
+    "folio":12,
+    "stemmed":"若 住 胎 中  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979a19_2",
+    "original":"若生欲界，住律儀及非律儀非不律儀，現無不善身表；",
+    "folio":12,
+    "stemmed":"若 生 欲 界  住 律 儀 及 非 律 儀 非 不 律 儀  現 無 不 善 身 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979a19_19",
+    "original":"設先有不善身表不失，而不得此無表。",
+    "folio":12,
+    "stemmed":"設 先 有 不 善 身 表 不 失  而 不 得 此 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979a20_7",
+    "original":"若生色、無色界。",
+    "folio":12,
+    "stemmed":"若 生 色  無 色 界  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979a22_1",
+    "original":"若成就現在有覆無記身表，彼成就此無表耶？",
+    "folio":12,
+    "stemmed":"若 成 就 現 在 有覆無記 身 表  彼 成 就 此 無 表 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979a22_3",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979a22_16",
+    "original":"無成就現在有覆無記身無表。",
+    "folio":12,
+    "stemmed":"無 成 就 現 在 有覆無記 身 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979a23_2",
+    "original":"有成就此表。",
+    "folio":12,
+    "stemmed":"有 成 就 此 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979a23_4",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979a23_17",
+    "original":"生色界，現有有覆無記身表。",
+    "folio":12,
+    "stemmed":"生 色 界  現 有 有覆無記 身 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979a25_1",
+    "original":"若成就現在無覆無記身表，彼成就此無表耶？",
+    "folio":12,
+    "stemmed":"若 成 就 現 在 無覆無記 身 表  彼 成 就 此 無 表 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979a25_3",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979a26_2",
+    "original":"無成就現在無覆無記身無表，有成就此表。",
+    "folio":12,
+    "stemmed":"無 成 就 現 在 無覆無記 身 無 表  有 成 就 此 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979a26_4",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979a26_19",
+    "original":"生欲、色界，現有無覆無記身表。",
+    "folio":12,
+    "stemmed":"生 欲  色 界  現 有 無覆無記 身 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979a27_5",
+    "original":"如廣說身表無表。",
+    "folio":12,
+    "stemmed":"如 廣 說 身 表 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979a27_12",
+    "original":"如是語表無表。",
+    "folio":12,
+    "stemmed":"如 是 語 表 無 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979a27_17",
+    "original":"廣說亦爾。",
+    "folio":12,
+    "stemmed":"廣 說 亦 爾  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979a28_13",
+    "original":"若業欲界繫，彼業果欲界繫耶？",
+    "folio":12,
+    "stemmed":"若 業 欲 界 繫  彼 業 果 欲 界 繫 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979a28_15",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979a29_7",
+    "original":"諸業欲界繫，彼業果亦爾。",
+    "folio":12,
+    "stemmed":"諸 業 欲 界 繫  彼 業 果 亦 爾  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979a29_17",
+    "original":"有業果欲界繫非彼業。",
+    "folio":12,
+    "stemmed":"有 業 果 欲 界 繫 非 彼 業  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979a29_19",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b01_3",
+    "original":"由色界道。",
+    "folio":12,
+    "stemmed":"由 色 界 道  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b01_8",
+    "original":"作欲界化。",
+    "folio":12,
+    "stemmed":"作 欲 界 化  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b01_13",
+    "original":"發欲界語。",
+    "folio":12,
+    "stemmed":"發 欲 界 語  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b02_6",
+    "original":"若業色界繫，彼業果色界繫耶？",
+    "folio":12,
+    "stemmed":"若 業 色 界 繫  彼 業 果 色 界 繫 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b02_8",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b02_20",
+    "original":"諸業果色界繫，彼業亦爾。",
+    "folio":12,
+    "stemmed":"諸 業 果 色 界 繫  彼 業 亦 爾  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b03_9",
+    "original":"有業色界繫非彼業果。",
+    "folio":12,
+    "stemmed":"有 業 色 界 繫 非 彼 業 果  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b03_11",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b03_16",
+    "original":"由色界道。",
+    "folio":12,
+    "stemmed":"由 色 界 道  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b04_1",
+    "original":"作欲界化。",
+    "folio":12,
+    "stemmed":"作 欲 界 化  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b04_6",
+    "original":"發欲界語。",
+    "folio":12,
+    "stemmed":"發 欲 界 語  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b04_17",
+    "original":"及由色界道，證諸結斷。",
+    "folio":12,
+    "stemmed":"及 由 色 界 道  證 諸 結 斷  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b05_12",
+    "original":"若業無色界繫，彼業果無色界繫耶？",
+    "folio":12,
+    "stemmed":"若 業 無 色 界 繫  彼 業 果 無 色 界 繫 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b05_14",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b06_7",
+    "original":"諸業果無色界繫，彼業亦爾。",
+    "folio":12,
+    "stemmed":"諸 業 果 無 色 界 繫  彼 業 亦 爾  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b06_18",
+    "original":"有業無色界繫非彼業果。",
+    "folio":12,
+    "stemmed":"有 業 無 色 界 繫 非 彼 業 果  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b06_20",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b07_10",
+    "original":"由無色界道，證諸結斷。",
+    "folio":12,
+    "stemmed":"由 無 色 界 道  證 諸 結 斷  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b08_2",
+    "original":"若業不繫，彼業果不繫耶？",
+    "folio":12,
+    "stemmed":"若 業 不 繫  彼 業 果 不 繫 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b08_4",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b08_15",
+    "original":"諸業不繫，彼業果亦爾。",
+    "folio":12,
+    "stemmed":"諸 業 不 繫  彼 業 果 亦 爾  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b09_3",
+    "original":"有業果不繫非彼業。",
+    "folio":12,
+    "stemmed":"有 業 果 不 繫 非 彼 業  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b09_5",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b09_18",
+    "original":"由色、無色界道，證諸結斷。",
+    "folio":12,
+    "stemmed":"由 色  無 色 界 道  證 諸 結 斷  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b10_15",
+    "original":"若業非欲界繫，彼業果非欲界繫耶？",
+    "folio":12,
+    "stemmed":"若 業 非 欲 界 繫  彼 業 果 非 欲 界 繫 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b10_17",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b11_11",
+    "original":"諸業果非欲界繫，彼業亦爾。",
+    "folio":12,
+    "stemmed":"諸 業 果 非 欲 界 繫  彼 業 亦 爾  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b12_3",
+    "original":"有業非欲界繫，非彼業果。",
+    "folio":12,
+    "stemmed":"有 業 非 欲 界 繫  非 彼 業 果  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b12_5",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b12_20",
+    "original":"由色界道，作欲界化，發欲界語。",
+    "folio":12,
+    "stemmed":"由 色 界 道  作 欲 界 化  發 欲 界 語  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b13_15",
+    "original":"若業非色界繫，彼業果非色界繫耶？",
+    "folio":12,
+    "stemmed":"若 業 非 色 界 繫  彼 業 果 非 色 界 繫 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b13_17",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b14_10",
+    "original":"諸業非色界繫，彼業果亦爾。",
+    "folio":12,
+    "stemmed":"諸 業 非 色 界 繫  彼 業 果 亦 爾  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b15_3",
+    "original":"有業果非色界繫非彼業。",
+    "folio":12,
+    "stemmed":"有 業 果 非 色 界 繫 非 彼 業  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b15_5",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b15_20",
+    "original":"由色界道，作欲界化，發欲界語；",
+    "folio":12,
+    "stemmed":"由 色 界 道  作 欲 界 化  發 欲 界 語  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b16_9",
+    "original":"及由色界道，證諸結斷。",
+    "folio":12,
+    "stemmed":"及 由 色 界 道  證 諸 結 斷  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b17_7",
+    "original":"若業非無色界繫，彼業果非無色界繫耶？",
+    "folio":12,
+    "stemmed":"若 業 非 無 色 界 繫  彼 業 果 非 無 色 界 繫 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b17_9",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b18_3",
+    "original":"諸業非無色界繫，彼業果亦爾。",
+    "folio":12,
+    "stemmed":"諸 業 非 無 色 界 繫  彼 業 果 亦 爾  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b18_15",
+    "original":"有業果非無色界繫非彼業。",
+    "folio":12,
+    "stemmed":"有 業 果 非 無 色 界 繫 非 彼 業  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b18_17",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b19_9",
+    "original":"由無色界道，證諸結斷。",
+    "folio":12,
+    "stemmed":"由 無 色 界 道  證 諸 結 斷  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b20_4",
+    "original":"若業非不繫，彼業果非不繫耶？",
+    "folio":12,
+    "stemmed":"若 業 非 不 繫  彼 業 果 非 不 繫 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b20_6",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b20_18",
+    "original":"諸業果非不繫，彼業亦爾。",
+    "folio":12,
+    "stemmed":"諸 業 果 非 不 繫  彼 業 亦 爾  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b21_9",
+    "original":"有業非不繫，非彼業果。",
+    "folio":12,
+    "stemmed":"有 業 非 不 繫  非 彼 業 果  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b21_11",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b22_2",
+    "original":"由色、無色界道，證諸結斷。",
+    "folio":12,
+    "stemmed":"由 色  無 色 界 道  證 諸 結 斷  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b23_9",
+    "original":"頗業有漏，有漏果耶？",
+    "folio":12,
+    "stemmed":"頗 業 有 漏  有 漏 果 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b23_13",
+    "original":"——答：",
+    "folio":12,
+    "stemmed":"  答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b23_15",
+    "original":"有。",
+    "folio":12,
+    "stemmed":"有  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b23_17",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b23_24",
+    "original":"等流、異熟果。",
+    "folio":12,
+    "stemmed":"等 流  異 熟 果  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b24_9",
+    "original":"頗業有漏，無漏果耶？",
+    "folio":12,
+    "stemmed":"頗 業 有 漏  無 漏 果 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b24_13",
+    "original":"——答：",
+    "folio":12,
+    "stemmed":"  答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b24_15",
+    "original":"有。",
+    "folio":12,
+    "stemmed":"有  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b24_17",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b24_21",
+    "original":"離繫果。",
+    "folio":12,
+    "stemmed":"離 繫 果  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b25_9",
+    "original":"頗業有漏，有漏、無漏果耶？",
+    "folio":12,
+    "stemmed":"頗 業 有 漏  有 漏  無 漏 果 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b25_13",
+    "original":"——答：",
+    "folio":12,
+    "stemmed":"  答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b25_15",
+    "original":"有。",
+    "folio":12,
+    "stemmed":"有  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b25_17",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b25_27",
+    "original":"等流、異熟、離繫果。",
+    "folio":12,
+    "stemmed":"等 流  異 熟  離 繫 果  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b26_9",
+    "original":"頗業無漏，無漏果耶？",
+    "folio":12,
+    "stemmed":"頗 業 無 漏  無 漏 果 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b26_13",
+    "original":"——答：",
+    "folio":12,
+    "stemmed":"  答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b26_15",
+    "original":"有。",
+    "folio":12,
+    "stemmed":"有  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b26_17",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b26_24",
+    "original":"等流、離繫果。",
+    "folio":12,
+    "stemmed":"等 流  離 繫 果  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b27_8",
+    "original":"頗業無漏，有漏果耶？",
+    "folio":12,
+    "stemmed":"頗 業 無 漏  有 漏 果 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b27_12",
+    "original":"——答：",
+    "folio":12,
+    "stemmed":"  答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b27_14",
+    "original":"無。",
+    "folio":12,
+    "stemmed":"無  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b28_2",
+    "original":"頗業無漏，有漏、無漏果耶？",
+    "folio":12,
+    "stemmed":"頗 業 無 漏  有 漏  無 漏 果 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b28_6",
+    "original":"——答：",
+    "folio":12,
+    "stemmed":"  答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b28_8",
+    "original":"無。",
+    "folio":12,
+    "stemmed":"無  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b28_24",
+    "original":"頗業有漏、無漏，有漏、無漏果耶？",
+    "folio":12,
+    "stemmed":"頗 業 有 漏  無 漏  有 漏  無 漏 果 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b28_26",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b29_1",
+    "original":"無。",
+    "folio":12,
+    "stemmed":"無  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b29_14",
+    "original":"頗業有漏、無漏，有漏果耶？",
+    "folio":12,
+    "stemmed":"頗 業 有 漏  無 漏  有 漏 果 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b29_18",
+    "original":"——答：",
+    "folio":12,
+    "stemmed":"  答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979b29_20",
+    "original":"無。",
+    "folio":12,
+    "stemmed":"無  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c01_7",
+    "original":"頗業有漏、無漏，無漏果耶？",
+    "folio":12,
+    "stemmed":"頗 業 有 漏  無 漏  無 漏 果 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c01_11",
+    "original":"——答：",
+    "folio":12,
+    "stemmed":"  答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c01_13",
+    "original":"無。",
+    "folio":12,
+    "stemmed":"無  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c01_21",
+    "original":"頗業學，學果耶？",
+    "folio":12,
+    "stemmed":"頗 業 學  學 果 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c01_25",
+    "original":"——答：",
+    "folio":12,
+    "stemmed":"  答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c01_27",
+    "original":"有。",
+    "folio":12,
+    "stemmed":"有  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c02_1",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c02_5",
+    "original":"等流果。",
+    "folio":12,
+    "stemmed":"等 流 果  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c02_14",
+    "original":"頗業學，無學果耶？",
+    "folio":12,
+    "stemmed":"頗 業 學  無 學 果 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c02_18",
+    "original":"——答：",
+    "folio":12,
+    "stemmed":"  答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c02_20",
+    "original":"有。",
+    "folio":12,
+    "stemmed":"有  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c02_22",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c03_1",
+    "original":"等流果。",
+    "folio":12,
+    "stemmed":"等 流 果  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c03_13",
+    "original":"頗業學，非學非無學果耶？",
+    "folio":12,
+    "stemmed":"頗 業 學  非 學 非 無 學 果 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c03_17",
+    "original":"——答：",
+    "folio":12,
+    "stemmed":"  答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c03_19",
+    "original":"有。",
+    "folio":12,
+    "stemmed":"有  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c03_21",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c04_1",
+    "original":"離繫果。",
+    "folio":12,
+    "stemmed":"離 繫 果  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c04_11",
+    "original":"頗業無學，無學果耶？",
+    "folio":12,
+    "stemmed":"頗 業 無 學  無 學 果 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c04_15",
+    "original":"——答：",
+    "folio":12,
+    "stemmed":"  答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c04_17",
+    "original":"有。",
+    "folio":12,
+    "stemmed":"有  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c04_19",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c04_23",
+    "original":"等流果。",
+    "folio":12,
+    "stemmed":"等 流 果  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c05_7",
+    "original":"頗業無學，學果耶？",
+    "folio":12,
+    "stemmed":"頗 業 無 學  學 果 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c05_11",
+    "original":"——答：",
+    "folio":12,
+    "stemmed":"  答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c05_13",
+    "original":"無。",
+    "folio":12,
+    "stemmed":"無  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c06_2",
+    "original":"頗業無學，非學非無學果耶？",
+    "folio":12,
+    "stemmed":"頗 業 無 學  非 學 非 無 學 果 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c06_6",
+    "original":"——答：",
+    "folio":12,
+    "stemmed":"  答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c06_8",
+    "original":"無。",
+    "folio":12,
+    "stemmed":"無  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c07_1",
+    "original":"頗業非學非無學，非學非無學果耶？",
+    "folio":12,
+    "stemmed":"頗 業 非 學 非 無 學  非 學 非 無 學 果 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c07_3",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c07_5",
+    "original":"有。",
+    "folio":12,
+    "stemmed":"有  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c07_7",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c07_17",
+    "original":"等流、異熟、離繫果。",
+    "folio":12,
+    "stemmed":"等 流  異 熟  離 繫 果  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c08_3",
+    "original":"頗業非學無學，學果耶？",
+    "folio":12,
+    "stemmed":"頗 業 非 學 無 學  學 果 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c08_7",
+    "original":"——答：",
+    "folio":12,
+    "stemmed":"  答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c08_9",
+    "original":"無。",
+    "folio":12,
+    "stemmed":"無  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c08_22",
+    "original":"頗業非學非無學，無學果耶？",
+    "folio":12,
+    "stemmed":"頗 業 非 學 非 無 學  無 學 果 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c09_1",
+    "original":"——答：",
+    "folio":12,
+    "stemmed":"  答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c09_3",
+    "original":"無。",
+    "folio":12,
+    "stemmed":"無  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c10_4",
+    "original":"如世尊說：",
+    "folio":12,
+    "stemmed":"如 世 尊 說  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c10_21",
+    "original":"「不修身，不修戒，不修心，不修慧。",
+    "folio":12,
+    "stemmed":" 不 修 身  不 修 戒  不 修 心  不 修 慧  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c11_5",
+    "original":"」云何不修身？",
+    "folio":12,
+    "stemmed":" 云 何 不 修 身  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c11_7",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c11_22",
+    "original":"若於身未離貪、欲、潤、憙、渴。",
+    "folio":12,
+    "stemmed":"若 於 身 未 離 貪  欲  潤  憙  渴  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c11_24",
+    "original":"又！",
+    "folio":12,
+    "stemmed":"又  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c12_17",
+    "original":"無間道能盡色貪，彼於此道未修、未安。",
+    "folio":12,
+    "stemmed":"無 間 道 能 盡 色 貪  彼 於 此 道 未 修  未 安  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c13_3",
+    "original":"云何不修戒？",
+    "folio":12,
+    "stemmed":"云 何 不 修 戒  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c13_5",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c13_17",
+    "original":"若於戒未離貪，廣說如身。",
+    "folio":12,
+    "stemmed":"若 於 戒 未 離 貪  廣 說 如 身  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c14_2",
+    "original":"云何不修心？",
+    "folio":12,
+    "stemmed":"云 何 不 修 心  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c14_4",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c14_19",
+    "original":"若於心未離貪、欲、潤、憙、渴。",
+    "folio":12,
+    "stemmed":"若 於 心 未 離 貪  欲  潤  憙  渴  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c14_21",
+    "original":"又！",
+    "folio":12,
+    "stemmed":"又  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c15_15",
+    "original":"無間道能盡無色貪，彼於此道未修、未安。",
+    "folio":12,
+    "stemmed":"無 間 道 能 盡 無 色 貪  彼 於 此 道 未 修  未 安  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c16_1",
+    "original":"云何不修慧？",
+    "folio":12,
+    "stemmed":"云 何 不 修 慧  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c16_3",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c16_15",
+    "original":"若於慧未離貪，廣說如心。",
+    "folio":12,
+    "stemmed":"若 於 慧 未 離 貪  廣 說 如 心  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c17_4",
+    "original":"若不修身，彼不修戒耶？",
+    "folio":12,
+    "stemmed":"若 不 修 身  彼 不 修 戒 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c17_6",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c17_9",
+    "original":"如是。",
+    "folio":12,
+    "stemmed":"如 是  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c17_20",
+    "original":"設不修戒，彼不修身耶？",
+    "folio":12,
+    "stemmed":"設 不 修 戒  彼 不 修 身 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c17_22",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c18_2",
+    "original":"如是。",
+    "folio":12,
+    "stemmed":"如 是  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c18_13",
+    "original":"若不修身，彼不修心耶？",
+    "folio":12,
+    "stemmed":"若 不 修 身  彼 不 修 心 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c18_15",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c19_3",
+    "original":"諸不修身，彼不修心。",
+    "folio":12,
+    "stemmed":"諸 不 修 身  彼 不 修 心  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c19_13",
+    "original":"有不修心，非不修身。",
+    "folio":12,
+    "stemmed":"有 不 修 心  非 不 修 身  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c19_15",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c20_4",
+    "original":"已離色染，未離無色染。",
+    "folio":12,
+    "stemmed":"已 離 色 染  未 離 無 色 染  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c20_15",
+    "original":"若不修身，彼不修慧耶？",
+    "folio":12,
+    "stemmed":"若 不 修 身  彼 不 修 慧 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c20_17",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c21_7",
+    "original":"諸不修身，彼不修慧。",
+    "folio":12,
+    "stemmed":"諸 不 修 身  彼 不 修 慧  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c21_21",
+    "original":"有不修慧，非不修身，如前說。",
+    "folio":12,
+    "stemmed":"有 不 修 慧  非 不 修 身  如 前 說  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c22_10",
+    "original":"若不修戒，彼不修心耶？",
+    "folio":12,
+    "stemmed":"若 不 修 戒  彼 不 修 心 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c22_12",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c23_1",
+    "original":"諸不修戒，彼不修心。",
+    "folio":12,
+    "stemmed":"諸 不 修 戒  彼 不 修 心  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c23_15",
+    "original":"有不修心，非不修戒，如前說。",
+    "folio":12,
+    "stemmed":"有 不 修 心  非 不 修 戒  如 前 說  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c24_4",
+    "original":"若不修戒，彼不修慧耶？",
+    "folio":12,
+    "stemmed":"若 不 修 戒  彼 不 修 慧 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c24_6",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c24_16",
+    "original":"諸不修戒，彼不修慧。",
+    "folio":12,
+    "stemmed":"諸 不 修 戒  彼 不 修 慧  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c25_8",
+    "original":"有不修慧，非不修戒，如前說。",
+    "folio":12,
+    "stemmed":"有 不 修 慧  非 不 修 戒  如 前 說  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c25_19",
+    "original":"若不修心，彼不修慧耶？",
+    "folio":12,
+    "stemmed":"若 不 修 心  彼 不 修 慧 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c25_21",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c26_2",
+    "original":"如是。",
+    "folio":12,
+    "stemmed":"如 是  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c26_13",
+    "original":"設不修慧，彼不修心耶？",
+    "folio":12,
+    "stemmed":"設 不 修 慧  彼 不 修 心 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c26_15",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c26_18",
+    "original":"如是。",
+    "folio":12,
+    "stemmed":"如 是  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c27_4",
+    "original":"如世尊說：",
+    "folio":12,
+    "stemmed":"如 世 尊 說  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c27_17",
+    "original":"「修身、修戒、修心、修慧。",
+    "folio":12,
+    "stemmed":" 修 身  修 戒  修 心  修 慧  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c27_23",
+    "original":"」云何修身？",
+    "folio":12,
+    "stemmed":" 云 何 修 身  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c27_25",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c28_14",
+    "original":"若於身已離貪、欲、潤、憙、渴。",
+    "folio":12,
+    "stemmed":"若 於 身 已 離 貪  欲  潤  憙  渴  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c28_16",
+    "original":"又！",
+    "folio":12,
+    "stemmed":"又  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c29_11",
+    "original":"無間道能盡色貪，彼於此道已修、已安。",
+    "folio":12,
+    "stemmed":"無 間 道 能 盡 色 貪  彼 於 此 道 已 修  已 安  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c29_16",
+    "original":"云何修戒？",
+    "folio":12,
+    "stemmed":"云 何 修 戒  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0979c29_18",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a01_8",
+    "original":"若於戒已離貪，廣說如身。",
+    "folio":12,
+    "stemmed":"若 於 戒 已 離 貪  廣 說 如 身  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a01_13",
+    "original":"云何修心？",
+    "folio":12,
+    "stemmed":"云 何 修 心  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a01_15",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a02_9",
+    "original":"若於心已離貪、欲、潤、憙、渴。",
+    "folio":12,
+    "stemmed":"若 於 心 已 離 貪  欲  潤  憙  渴  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a02_11",
+    "original":"又！",
+    "folio":12,
+    "stemmed":"又  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a03_6",
+    "original":"無間道能盡無色貪，彼於此道已修、已安。",
+    "folio":12,
+    "stemmed":"無 間 道 能 盡 無 色 貪  彼 於 此 道 已 修  已 安  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a03_11",
+    "original":"云何修慧？",
+    "folio":12,
+    "stemmed":"云 何 修 慧  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a03_13",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a04_3",
+    "original":"若於慧已離貪，廣說如心。",
+    "folio":12,
+    "stemmed":"若 於 慧 已 離 貪  廣 說 如 心  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a04_12",
+    "original":"若修身，彼修戒耶？",
+    "folio":12,
+    "stemmed":"若 修 身  彼 修 戒 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a04_14",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a04_17",
+    "original":"如是。",
+    "folio":12,
+    "stemmed":"如 是  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a05_4",
+    "original":"設修戒，彼修身耶？",
+    "folio":12,
+    "stemmed":"設 修 戒  彼 修 身 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a05_6",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a05_9",
+    "original":"如是。",
+    "folio":12,
+    "stemmed":"如 是  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a05_18",
+    "original":"若修身，彼修心耶？",
+    "folio":12,
+    "stemmed":"若 修 身  彼 修 心 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a05_20",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a06_5",
+    "original":"諸修心，彼修身。",
+    "folio":12,
+    "stemmed":"諸 修 心  彼 修 身  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a06_13",
+    "original":"有修身，非修心。",
+    "folio":12,
+    "stemmed":"有 修 身  非 修 心  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a06_15",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a07_3",
+    "original":"已離色染，未離無色染。",
+    "folio":12,
+    "stemmed":"已 離 色 染  未 離 無 色 染  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a07_12",
+    "original":"若修身，彼修慧耶？",
+    "folio":12,
+    "stemmed":"若 修 身  彼 修 慧 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a07_14",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a08_1",
+    "original":"諸修慧，彼修身。",
+    "folio":12,
+    "stemmed":"諸 修 慧  彼 修 身  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a08_13",
+    "original":"有修身，非修慧，如前說。",
+    "folio":12,
+    "stemmed":"有 修 身  非 修 慧  如 前 說  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a09_1",
+    "original":"若修戒，彼修心耶？",
+    "folio":12,
+    "stemmed":"若 修 戒  彼 修 心 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a09_3",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a09_11",
+    "original":"諸修心，彼修戒。",
+    "folio":12,
+    "stemmed":"諸 修 心  彼 修 戒  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a10_1",
+    "original":"有修戒，非修心，如前說。",
+    "folio":12,
+    "stemmed":"有 修 戒  非 修 心  如 前 說  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a10_10",
+    "original":"若修戒，彼修慧耶？",
+    "folio":12,
+    "stemmed":"若 修 戒  彼 修 慧 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a10_12",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a10_20",
+    "original":"諸修慧，彼修戒。",
+    "folio":12,
+    "stemmed":"諸 修 慧  彼 修 戒  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a11_10",
+    "original":"有修戒，非修慧，如前說。",
+    "folio":12,
+    "stemmed":"有 修 戒  非 修 慧  如 前 說  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a11_19",
+    "original":"若修心，彼修慧耶？",
+    "folio":12,
+    "stemmed":"若 修 心  彼 修 慧 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a11_21",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a12_1",
+    "original":"如是。",
+    "folio":12,
+    "stemmed":"如 是  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a12_10",
+    "original":"設修慧，彼修心耶？",
+    "folio":12,
+    "stemmed":"設 修 慧  彼 修 心 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a12_12",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a12_15",
+    "original":"如是。",
+    "folio":12,
+    "stemmed":"如 是  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a13_19",
+    "original":"若成就過去戒，彼成就未來、現在此類戒耶？",
+    "folio":12,
+    "stemmed":"若 成 就 過 去 戒  彼 成 就 未 來  現 在 此 類 戒 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a14_1",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a14_17",
+    "original":"有成就過去戒非未來、現在此類戒。",
+    "folio":12,
+    "stemmed":"有 成 就 過 去 戒 非 未 來  現 在 此 類 戒  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a14_19",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a15_12",
+    "original":"表戒已滅不失，此類戒不現前。",
+    "folio":12,
+    "stemmed":"表 戒 已 滅 不 失  此 類 戒 不 現 前  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a16_1",
+    "original":"有及未來非現在。",
+    "folio":12,
+    "stemmed":"有 及 未 來 非 現 在  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a16_3",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a16_20",
+    "original":"靜慮無漏戒已滅不失，此類戒不現前。",
+    "folio":12,
+    "stemmed":"靜 慮 無 漏 戒 已 滅 不 失  此 類 戒 不 現 前  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a17_7",
+    "original":"有及現在非未來。",
+    "folio":12,
+    "stemmed":"有 及 現 在 非 未 來  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a17_9",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a18_2",
+    "original":"表戒已滅不失，此類戒現前。",
+    "folio":12,
+    "stemmed":"表 戒 已 滅 不 失  此 類 戒 現 前  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a18_10",
+    "original":"有及未來、現在。",
+    "folio":12,
+    "stemmed":"有 及 未 來  現 在  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a18_12",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a19_7",
+    "original":"靜慮無漏戒已滅不失，此類戒現前。",
+    "folio":12,
+    "stemmed":"靜 慮 無 漏 戒 已 滅 不 失  此 類 戒 現 前  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a20_19",
+    "original":"若成就未來戒，彼成就過去、現在此類戒耶？",
+    "folio":12,
+    "stemmed":"若 成 就 未 來 戒  彼 成 就 過 去  現 在 此 類 戒 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a21_1",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a21_18",
+    "original":"有成就未來戒，非過去、現在此類戒。",
+    "folio":12,
+    "stemmed":"有 成 就 未 來 戒  非 過 去  現 在 此 類 戒  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a21_20",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a22_6",
+    "original":"阿羅漢生無色界。",
+    "folio":12,
+    "stemmed":"阿 羅 漢 生無色界  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a22_15",
+    "original":"有及過去，非現在。",
+    "folio":12,
+    "stemmed":"有 及 過 去  非 現 在  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a22_17",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a23_13",
+    "original":"靜慮無漏戒已滅不失，此類戒不現前。",
+    "folio":12,
+    "stemmed":"靜 慮 無 漏 戒 已 滅 不 失  此 類 戒 不 現 前  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a24_2",
+    "original":"有及現在，非過去。",
+    "folio":12,
+    "stemmed":"有 及 現 在  非 過 去  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a24_4",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a24_11",
+    "original":"無漏戒初現前。",
+    "folio":12,
+    "stemmed":"無 漏 戒 初 現 前  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a24_19",
+    "original":"有及過去、現在。",
+    "folio":12,
+    "stemmed":"有 及 過 去  現 在  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a24_21",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a25_14",
+    "original":"靜慮無漏戒已滅不失，此類戒現前。",
+    "folio":12,
+    "stemmed":"靜 慮 無 漏 戒 已 滅 不 失  此 類 戒 現 前  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a26_15",
+    "original":"若成就現在戒，彼成就過去、未來此類戒耶？",
+    "folio":12,
+    "stemmed":"若 成 就 現 在 戒  彼 成 就 過 去  未 來 此 類 戒 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a26_17",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a27_13",
+    "original":"有成就現在戒，非過去、未來此類戒。",
+    "folio":12,
+    "stemmed":"有 成 就 現 在 戒  非 過 去  未 來 此 類 戒  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a27_15",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a27_21",
+    "original":"表戒初現前。",
+    "folio":12,
+    "stemmed":"表 戒 初 現 前  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a28_8",
+    "original":"有及過去，非未來。",
+    "folio":12,
+    "stemmed":"有 及 過 去  非 未 來  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a28_10",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a29_2",
+    "original":"表戒已滅不失，此類戒現前。",
+    "folio":12,
+    "stemmed":"表 戒 已 滅 不 失  此 類 戒 現 前  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a29_11",
+    "original":"有及未來，非過去。",
+    "folio":12,
+    "stemmed":"有 及 未 來  非 過 去  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a29_13",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980a29_20",
+    "original":"無漏戒初現前。",
+    "folio":12,
+    "stemmed":"無 漏 戒 初 現 前  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b01_6",
+    "original":"有及過去、未來。",
+    "folio":12,
+    "stemmed":"有 及 過 去  未 來  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b01_8",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b02_3",
+    "original":"靜慮無漏戒已滅不失，此類戒現前。",
+    "folio":12,
+    "stemmed":"靜 慮 無 漏 戒 已 滅 不 失  此 類 戒 現 前  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b04_0",
+    "original":"自業義世成　　對異熟成墮",
+    "folio":12,
+    "stemmed":"自 業 義 世 成   對 異 熟 成 墮 "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b05_0",
+    "original":"智謀害留捨　　心亂纏佛教",
+    "folio":12,
+    "stemmed":"智 謀 害 留 捨   心 亂 纏 佛 教 "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b06_0",
+    "original":"書數算印詩　　世間工業處",
+    "folio":12,
+    "stemmed":"書 數 算 印 詩   世 間 工 業 處 "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b07_0",
+    "original":"成就學等戒　　此章願具說",
+    "folio":12,
+    "stemmed":"成 就 學 等 戒   此 章 願 具 說 "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b08_4",
+    "original":"云何自業？",
+    "folio":12,
+    "stemmed":"云 何 自 業  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b08_6",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b09_4",
+    "original":"若業已得今有異熟，及業異熟已生正受。",
+    "folio":12,
+    "stemmed":"若 業 已 得 今 有 異 熟  及 業 異 熟 已 生 正 受  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b09_10",
+    "original":"自業是何義？",
+    "folio":12,
+    "stemmed":"自 業 是 何 義  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b09_12",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b10_4",
+    "original":"是得自果、自等流、自異熟義。",
+    "folio":12,
+    "stemmed":"是 得 自 果  自 等 流  自 異 熟 義  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b10_7",
+    "original":"復次！",
+    "folio":12,
+    "stemmed":"復 次  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b11_4",
+    "original":"此業所招異熟於自相續現熟，非餘；",
+    "folio":12,
+    "stemmed":"此 業 所 招 異 熟 於 自 相 續 現 熟  非 餘  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b12_9",
+    "original":"於自相續養、隨養，育、隨育，護、隨護，轉、隨轉，益、隨益；",
+    "folio":12,
+    "stemmed":"於 自 相 續 養  隨 養  育  隨 育  護  隨 護  轉  隨 轉  益  隨 益  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b12_14",
+    "original":"故名自業。",
+    "folio":12,
+    "stemmed":"故 名 自 業  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b13_13",
+    "original":"若業是自業，此業當言過去耶？",
+    "folio":12,
+    "stemmed":"若 業 是 自 業  此 業 當 言 過 去 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b13_17",
+    "original":"未來耶？",
+    "folio":12,
+    "stemmed":"未 來 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b14_1",
+    "original":"現在耶？",
+    "folio":12,
+    "stemmed":"現 在 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b14_3",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b14_10",
+    "original":"此業當言過去。",
+    "folio":12,
+    "stemmed":"此 業 當 言 過 去  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b15_11",
+    "original":"若業是自業，此業成就耶？",
+    "folio":12,
+    "stemmed":"若 業 是 自 業  此 業 成 就 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b15_13",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b15_18",
+    "original":"應作四句。",
+    "folio":12,
+    "stemmed":"應 作 四 句  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b16_9",
+    "original":"有業是自業，此業不成就。",
+    "folio":12,
+    "stemmed":"有 業 是 自 業  此 業 不 成 就  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b16_11",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b17_12",
+    "original":"業已得今有異熟，及業異熟已生正受，此業已失。",
+    "folio":12,
+    "stemmed":"業 已 得 今 有 異 熟  及 業 異 熟 已 生 正 受  此 業 已 失  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b18_3",
+    "original":"有業成就，此業非自業。",
+    "folio":12,
+    "stemmed":"有 業 成 就  此 業 非 自 業  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b18_5",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b19_9",
+    "original":"業非已得今有異熟，及業異熟非已生正受，此業不失。",
+    "folio":12,
+    "stemmed":"業 非 已 得 今 有 異 熟  及 業 異 熟 非 已 生 正 受  此 業 不 失  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b20_1",
+    "original":"有業是自業，此業亦成就。",
+    "folio":12,
+    "stemmed":"有 業 是 自 業  此 業 亦 成 就  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b20_3",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b21_4",
+    "original":"業已得今有異熟，及業異熟已生正受，此業不失。",
+    "folio":12,
+    "stemmed":"業 已 得 今 有 異 熟  及 業 異 熟 已 生 正 受  此 業 不 失  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b21_16",
+    "original":"有業非自業，此業不成就。",
+    "folio":12,
+    "stemmed":"有 業 非 自 業  此 業 不 成 就  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b21_18",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b22_16",
+    "original":"業非已得今有異熟，及業異熟非已生正受。",
+    "folio":12,
+    "stemmed":"業 非 已 得 今 有 異 熟  及 業 異 熟 非 已 生 正 受  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b23_2",
+    "original":"此業已失。",
+    "folio":12,
+    "stemmed":"此 業 已 失  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b23_17",
+    "original":"非亦有四句，與前相違，應廣說。",
+    "folio":12,
+    "stemmed":"非 亦 有 四 句  與 前 相 違  應 廣 說  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b24_14",
+    "original":"若業是自業，此業定當受異熟耶？",
+    "folio":12,
+    "stemmed":"若 業 是 自 業  此 業 定 當 受 異 熟 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b24_16",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b25_1",
+    "original":"應作四句。",
+    "folio":12,
+    "stemmed":"應 作 四 句  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b25_16",
+    "original":"有業是自業，此業定當不受異熟。",
+    "folio":12,
+    "stemmed":"有 業 是 自 業  此 業 定 當 不 受 異 熟  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b25_18",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b27_1",
+    "original":"業已得今有異熟，及業異熟已生正受，已至最後位。",
+    "folio":12,
+    "stemmed":"業 已 得 今 有 異 熟  及 業 異 熟 已 生 正 受  已 至 最 後 位  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b27_15",
+    "original":"有業定當受異熟，此業非自業。",
+    "folio":12,
+    "stemmed":"有 業 定 當 受 異 熟  此 業 非 自 業  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b27_17",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b29_3",
+    "original":"業非已得今有異熟，及業異熟非已生正受，此業異熟未熟。",
+    "folio":12,
+    "stemmed":"業 非 已 得 今 有 異 熟  及 業 異 熟 非 已 生 正 受  此 業 異 熟 未 熟  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b29_17",
+    "original":"有業是自業，此業定當受異熟。",
+    "folio":12,
+    "stemmed":"有 業 是 自 業  此 業 定 當 受 異 熟  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980b29_19",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980c02_2",
+    "original":"業已得今有異熟，及業異熟已生正受，未至最後位。",
+    "folio":12,
+    "stemmed":"業 已 得 今 有 異 熟  及 業 異 熟 已 生 正 受  未 至 最 後 位  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980c02_17",
+    "original":"有業非自業，此業定當不受異熟。",
+    "folio":12,
+    "stemmed":"有 業 非 自 業  此 業 定 當 不 受 異 熟  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980c02_19",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980c04_5",
+    "original":"業非已得今有異熟，及業異熟非已生正受，此業異熟已熟。",
+    "folio":12,
+    "stemmed":"業 非 已 得 今 有 異 熟  及 業 異 熟 非 已 生 正 受  此 業 異 熟 已 熟  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980c05_1",
+    "original":"非亦有四句，與前相違，應廣說。",
+    "folio":12,
+    "stemmed":"非 亦 有 四 句  與 前 相 違  應 廣 說  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980c05_15",
+    "original":"若業成就，此業定當受異熟耶？",
+    "folio":12,
+    "stemmed":"若 業 成 就  此 業 定 當 受 異 熟 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980c05_17",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980c06_1",
+    "original":"應作四句。",
+    "folio":12,
+    "stemmed":"應 作 四 句  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980c06_15",
+    "original":"有業成就，此業定當不受異熟。",
+    "folio":12,
+    "stemmed":"有 業 成 就  此 業 定 當 不 受 異 熟  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980c06_17",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980c07_15",
+    "original":"業過去不善、善有漏異熟已熟，此業不失。",
+    "folio":12,
+    "stemmed":"業 過 去 不 善  善 有 漏 異 熟 已 熟  此 業 不 失  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980c08_13",
+    "original":"若業未來不善、善有漏已得，而定不生。",
+    "folio":12,
+    "stemmed":"若 業 未 來 不 善  善 有 漏 已 得  而 定 不 生  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980c09_2",
+    "original":"若業無記無漏成就。",
+    "folio":12,
+    "stemmed":"若 業 無 記 無 漏 成 就  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980c09_16",
+    "original":"有業定當受異熟，此業不成就。",
+    "folio":12,
+    "stemmed":"有 業 定 當 受 異 熟  此 業 不 成 就  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980c09_18",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980c10_18",
+    "original":"業過去不善、善有漏異熟未熟，此業已失。",
+    "folio":12,
+    "stemmed":"業 過 去 不 善  善 有 漏 異 熟 未 熟  此 業 已 失  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980c11_14",
+    "original":"若業未來不善、善有漏不得，而定當生。",
+    "folio":12,
+    "stemmed":"若 業 未 來 不 善  善 有 漏 不 得  而 定 當 生  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980c12_6",
+    "original":"有業成就，此業定當受異熟。",
+    "folio":12,
+    "stemmed":"有 業 成 就  此 業 定 當 受 異 熟  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980c12_8",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980c13_7",
+    "original":"業過去不善、善有漏異熟未熟，此業不失。",
+    "folio":12,
+    "stemmed":"業 過 去 不 善  善 有 漏 異 熟 未 熟  此 業 不 失  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980c14_4",
+    "original":"若業未來不善、善有漏已得，亦定當生。",
+    "folio":12,
+    "stemmed":"若 業 未 來 不 善  善 有 漏 已 得  亦 定 當 生  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980c14_15",
+    "original":"若業現在不善、善有漏。",
+    "folio":12,
+    "stemmed":"若 業 現 在 不 善  善 有 漏  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980c15_10",
+    "original":"有業不成就，此業定當不受異熟。",
+    "folio":12,
+    "stemmed":"有 業 不 成 就  此 業 定 當 不 受 異 熟  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980c15_12",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980c16_5",
+    "original":"業過去不善、善有漏異熟已熟。",
+    "folio":12,
+    "stemmed":"業 過 去 不 善  善 有 漏 異 熟 已 熟  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980c16_10",
+    "original":"此業已失。",
+    "folio":12,
+    "stemmed":"此 業 已 失  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980c17_8",
+    "original":"若業未來不善、善有漏不得，亦定不生。",
+    "folio":12,
+    "stemmed":"若 業 未 來 不 善  善 有 漏 不 得  亦 定 不 生  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980c17_18",
+    "original":"若業無記無漏不成就。",
+    "folio":12,
+    "stemmed":"若 業 無 記 無 漏 不 成 就  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980c18_13",
+    "original":"非亦有四句，與前相違，應廣說。",
+    "folio":12,
+    "stemmed":"非 亦 有 四 句  與 前 相 違  應 廣 說  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980c20_17",
+    "original":"若預流者，有不善業，能順苦受，異熟未熟，彼既成熟，應墮惡趣，何道障故而不墮耶？",
+    "folio":12,
+    "stemmed":"若 預 流 者  有 不 善 業  能 順 苦 受  異 熟 未 熟  彼 既 成 熟  應 墮 惡 趣  何 道 障 故 而 不 墮 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980c20_19",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980c21_13",
+    "original":"由二部結，縛諸有情令墮惡趣。",
+    "folio":12,
+    "stemmed":"由 二 部 結  縛 諸 有 情 令 墮 惡 趣  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980c21_15",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980c22_3",
+    "original":"見所斷、修所斷結。",
+    "folio":12,
+    "stemmed":"見 所 斷  修 所 斷 結  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980c23_16",
+    "original":"諸預流者，雖未永斷修所斷結，而已永斷見所斷結，闕一資糧，不墮惡趣；",
+    "folio":12,
+    "stemmed":"諸 預 流 者  雖 未 永 斷 修 所 斷 結  而 已 永 斷 見 所 斷 結  闕 一 資 糧  不 墮 惡 趣  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980c25_1",
+    "original":"如車具二輪，有所運載，鳥有二翼，能飛虛空，闕一不然。",
+    "folio":12,
+    "stemmed":"如 車 具 二 輪  有 所 運 載  鳥 有 二 翼  能 飛 虛 空  闕 一 不 然  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980c25_6",
+    "original":"此亦如是。",
+    "folio":12,
+    "stemmed":"此 亦 如 是  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980c26_4",
+    "original":"如世尊說：",
+    "folio":12,
+    "stemmed":"如 世 尊 說  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980c26_10",
+    "original":"「我聖弟子！",
+    "folio":12,
+    "stemmed":" 我 聖 弟 子  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980c26_15",
+    "original":"應自審記：",
+    "folio":12,
+    "stemmed":"應 自 審 記  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980c27_8",
+    "original":"已盡地獄、傍生、餓鬼嶮惡趣坑。",
+    "folio":12,
+    "stemmed":"已 盡 地 獄  傍 生  餓 鬼 嶮 惡 趣 坑  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980c28_10",
+    "original":"」諸預流者，為有現智，能自審知盡地獄等而自記耶？",
+    "folio":12,
+    "stemmed":" 諸 預 流 者  為 有 現 智  能 自 審 知 盡 地 獄 等 而 自 記 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980c28_12",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980c28_15",
+    "original":"不能。",
+    "folio":12,
+    "stemmed":"不 能  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980c29_3",
+    "original":"若爾彼云何知？",
+    "folio":12,
+    "stemmed":"若 爾 彼 云 何 知  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980c29_5",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980c29_10",
+    "original":"信佛語故。",
+    "folio":12,
+    "stemmed":"信 佛 語 故  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980c29_12",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0980c29_16",
+    "original":"世尊說：",
+    "folio":12,
+    "stemmed":"世 尊 說  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981a03_1",
+    "original":"「若有多聞諸聖弟子，能隨觀察，見自身中有四證淨現在前者，應自審記已盡地獄、傍生、餓鬼險惡趣坑。",
+    "folio":12,
+    "stemmed":" 若 有 多 聞 諸 聖 弟 子  能 隨 觀 察  見 自 身 中 有 四 證 淨 現 在 前 者  應 自 審 記 已 盡 地 獄  傍 生  餓 鬼 險 惡 趣 坑  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981a03_4",
+    "original":"」又！",
+    "folio":12,
+    "stemmed":" 又  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981a03_14",
+    "original":"預流者已得四智，謂：",
+    "folio":12,
+    "stemmed":"預 流 者 已 得 四 智  謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981a03_23",
+    "original":"苦、集、滅、道智；",
+    "folio":12,
+    "stemmed":"苦  集  滅  道 智  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981a04_6",
+    "original":"未得盡智、無生智。",
+    "folio":12,
+    "stemmed":"未 得 盡 智  無 生 智  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981a05_4",
+    "original":"故如世尊說：",
+    "folio":12,
+    "stemmed":"故 如 世 尊 說  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981a06_8",
+    "original":"「由學謀害，那伽諦觀，却後七日，憍薩羅家，必當殄滅。",
+    "folio":12,
+    "stemmed":" 由 學 謀 害  那 伽 諦 觀  却 後 七 日  憍 薩 羅 家  必 當 殄 滅  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981a06_15",
+    "original":"」云何學謀害？",
+    "folio":12,
+    "stemmed":" 云 何 學 謀 害  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981a06_17",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981a07_14",
+    "original":"如有學者未離欲染，他加害時，便作念言：",
+    "folio":12,
+    "stemmed":"如 有 學 者 未 離 欲 染  他 加 害 時  便 作 念 言  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981a08_3",
+    "original":"「當令衰壞，母失愛子。",
+    "folio":12,
+    "stemmed":" 當 令 衰 壞  母 失 愛 子  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981a08_6",
+    "original":"」又！",
+    "folio":12,
+    "stemmed":" 又  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981a09_7",
+    "original":"如學者已離欲染，他加害時，從離欲退，作是念言：",
+    "folio":12,
+    "stemmed":"如 學 者 已 離 欲 染  他 加 害 時  從 離 欲 退  作是念言  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981a10_9",
+    "original":"「當令衰壞，母失愛子」諸學謀害，必果遂耶？",
+    "folio":12,
+    "stemmed":" 當 令 衰 壞  母 失 愛 子  諸 學 謀 害  必 果 遂 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981a10_11",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981a10_16",
+    "original":"此不決定。",
+    "folio":12,
+    "stemmed":"此 不 決 定  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981a11_18",
+    "original":"若諸有情，造作增長大威勢業，異熟現前，便不果遂。",
+    "folio":12,
+    "stemmed":"若 諸 有 情  造 作 增 長 大 威 勢 業  異 熟 現 前  便 不 果 遂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981a12_8",
+    "original":"云何苾芻留多壽行？",
+    "folio":12,
+    "stemmed":"云 何 苾 芻 留 多 壽 行  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981a12_10",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981a13_4",
+    "original":"謂阿羅漢成就神通，得心自在。",
+    "folio":12,
+    "stemmed":"謂 阿 羅 漢 成 就 神 通  得心自在  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981a15_6",
+    "original":"若於僧眾，若別人所，以衣以鉢，或以隨一沙門命緣眾具布施，施已發願，即入邊際第四靜慮。",
+    "folio":12,
+    "stemmed":"若 於 僧 眾  若 別 人 所  以 衣 以 鉢  或 以 隨 一 沙 門 命 緣 眾 具 布 施  施 已 發 願  即 入 邊 際 第四靜慮  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981a15_16",
+    "original":"從定起已，心念口言：",
+    "folio":12,
+    "stemmed":"從 定 起 已  心 念 口 言  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981a16_15",
+    "original":"「諸我能感富異熟業，願此轉招壽異熟果。",
+    "folio":12,
+    "stemmed":" 諸 我 能 感 富 異 熟 業  願 此 轉 招 壽 異 熟 果  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981a17_14",
+    "original":"」時彼能招富異熟業，則轉能招壽異熟果。",
+    "folio":12,
+    "stemmed":" 時 彼 能 招 富 異 熟 業  則 轉 能 招 壽 異 熟 果  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981a18_8",
+    "original":"云何苾芻捨多壽行？",
+    "folio":12,
+    "stemmed":"云 何 苾 芻 捨 多 壽 行  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981a18_10",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981a20_3",
+    "original":"謂阿羅漢成就神通，得心自在，如前布施，施已發願，即入邊際第四靜慮。",
+    "folio":12,
+    "stemmed":"謂 阿 羅 漢 成 就 神 通  得心自在  如 前 布 施  施 已 發 願  即 入 邊 際 第四靜慮  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981a20_13",
+    "original":"從定起已，心念口言：",
+    "folio":12,
+    "stemmed":"從 定 起 已  心 念 口 言  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981a21_12",
+    "original":"「諸我能感壽異熟業，願此轉招富異熟果。",
+    "folio":12,
+    "stemmed":" 諸 我 能 感 壽 異 熟 業  願 此 轉 招 富 異 熟 果  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981a22_11",
+    "original":"」時彼能招壽異熟業，則轉能招富異熟果。",
+    "folio":12,
+    "stemmed":" 時 彼 能 招 壽 異 熟 業  則 轉 能 招 富 異 熟 果  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981a23_5",
+    "original":"云何心狂亂？",
+    "folio":12,
+    "stemmed":"云 何 心 狂 亂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981a23_7",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981a24_1",
+    "original":"謂由四緣勢力所逼，令心狂亂。",
+    "folio":12,
+    "stemmed":"謂 由 四 緣 勢 力 所 逼  令 心 狂 亂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981a24_21",
+    "original":"一、由非人現惡色像，遇已驚恐，令心狂亂。",
+    "folio":12,
+    "stemmed":"一  由 非 人 現 惡 色 像  遇 已 驚 恐  令 心 狂 亂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981a25_19",
+    "original":"二、由非人忿打支節，苦受所逼，令心狂亂。",
+    "folio":12,
+    "stemmed":"二  由 非 人 忿 打 支 節  苦 受 所 逼  令 心 狂 亂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981a26_10",
+    "original":"三、由大種乖違，令心狂亂。",
+    "folio":12,
+    "stemmed":"三  由 大 種 乖 違  令 心 狂 亂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981a27_2",
+    "original":"四、由先業異熟，令心狂亂。",
+    "folio":12,
+    "stemmed":"四  由 先 業 異 熟  令 心 狂 亂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981a27_13",
+    "original":"何纏相應法，皆不善耶？",
+    "folio":12,
+    "stemmed":"何 纏 相 應 法  皆 不 善 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981a27_15",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981a27_21",
+    "original":"無慚、無愧。",
+    "folio":12,
+    "stemmed":"無 慚  無 愧  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981a28_3",
+    "original":"佛教云何？",
+    "folio":12,
+    "stemmed":"佛 教 云 何  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981a28_5",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981a29_9",
+    "original":"謂佛語言、評論、唱詞、語路、語音、語業、語表，是謂佛教。",
+    "folio":12,
+    "stemmed":"謂 佛 語 言  評 論  唱 詞  語 路  語 音  語 業  語 表  是 謂 佛 教  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981a29_16",
+    "original":"佛教當言善耶？",
+    "folio":12,
+    "stemmed":"佛 教 當 言 善 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981a29_20",
+    "original":"無記耶？",
+    "folio":12,
+    "stemmed":"無 記 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981a29_22",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b01_6",
+    "original":"或善，或無記。",
+    "folio":12,
+    "stemmed":"或 善  或 無 記  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b01_10",
+    "original":"云何善？",
+    "folio":12,
+    "stemmed":"云 何 善  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b01_12",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b02_3",
+    "original":"佛善心所發語言，乃至語表。",
+    "folio":12,
+    "stemmed":"佛 善 心 所 發 語 言  乃 至 語 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b02_8",
+    "original":"云何無記？",
+    "folio":12,
+    "stemmed":"云 何 無 記  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b02_10",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b03_3",
+    "original":"佛無記心所發語言，乃至語表。",
+    "folio":12,
+    "stemmed":"佛 無 記 心 所 發 語 言  乃 至 語 表  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b04_5",
+    "original":"佛教名何法？",
+    "folio":12,
+    "stemmed":"佛 教 名 何 法  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b04_7",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b04_16",
+    "original":"名身、句身、文身。",
+    "folio":12,
+    "stemmed":"名 身  句 身  文 身  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b05_9",
+    "original":"次第行列，次第安布，次第連合。",
+    "folio":12,
+    "stemmed":"次 第 行 列  次 第 安 布  次 第 連 合  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b07_5",
+    "original":"契經、應頌、記說、伽他、自說、因緣、譬喻、本事、本生、方廣、希法。",
+    "folio":12,
+    "stemmed":"契 經  應 頌  記 說  伽 他  自 說  因 緣  譬 喻  本 事  本 生  方 廣  希 法  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b07_11",
+    "original":"論議名何法？",
+    "folio":12,
+    "stemmed":"論 議 名 何 法  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b07_13",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b08_13",
+    "original":"名身、句身、文身，次第行列，次第安布，次第連合。",
+    "folio":12,
+    "stemmed":"名 身  句 身  文 身  次 第 行 列  次 第 安 布  次 第 連 合  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b08_18",
+    "original":"書名何法？",
+    "folio":12,
+    "stemmed":"書 名 何 法  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b08_20",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b09_14",
+    "original":"如理轉變身業，及此所依諸巧便智。",
+    "folio":12,
+    "stemmed":"如 理 轉 變 身 業  及 此 所 依 諸 巧 便 智  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b09_19",
+    "original":"數名何法？",
+    "folio":12,
+    "stemmed":"數 名 何 法  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b10_1",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b10_17",
+    "original":"如理轉變意業，及此所依諸巧便智。",
+    "folio":12,
+    "stemmed":"如 理 轉 變 意 業  及 此 所 依 諸 巧 便 智  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b11_2",
+    "original":"算名何法？",
+    "folio":12,
+    "stemmed":"算 名 何 法  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b11_4",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b11_20",
+    "original":"如理轉變語業，及此所依諸巧便智。",
+    "folio":12,
+    "stemmed":"如 理 轉 變 語 業  及 此 所 依 諸 巧 便 智  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b12_4",
+    "original":"印名何法？",
+    "folio":12,
+    "stemmed":"印 名 何 法  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b12_6",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b13_2",
+    "original":"如理轉變身業，及此所依諸巧便智。",
+    "folio":12,
+    "stemmed":"如 理 轉 變 身 業  及 此 所 依 諸 巧 便 智  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b13_7",
+    "original":"詩名何法？",
+    "folio":12,
+    "stemmed":"詩 名 何 法  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b13_9",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b14_4",
+    "original":"如理轉變語業，及此所依諸巧便智。",
+    "folio":12,
+    "stemmed":"如 理 轉 變 語 業  及 此 所 依 諸 巧 便 智  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b14_16",
+    "original":"世間種種工巧業處名何法？",
+    "folio":12,
+    "stemmed":"世 間 種 種 工巧業處 名 何 法  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b14_18",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b16_3",
+    "original":"謂慧為先，造作彼彼工巧業處，及此所依諸巧便智。",
+    "folio":12,
+    "stemmed":"謂 慧 為 先  造 作 彼 彼 工巧業處  及 此 所 依 諸 巧 便 智  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b17_16",
+    "original":"若成就學戒，彼成就非學非無學戒耶？",
+    "folio":12,
+    "stemmed":"若 成 就 學 戒  彼 成 就 非 學 非 無 學 戒 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b17_18",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b18_3",
+    "original":"應作四句。",
+    "folio":12,
+    "stemmed":"應 作 四 句  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b18_17",
+    "original":"有成就學戒，非非學非無學戒。",
+    "folio":12,
+    "stemmed":"有 成 就 學 戒  非 非 學 非 無 學 戒  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b18_19",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b19_5",
+    "original":"學者生無色界。",
+    "folio":12,
+    "stemmed":"學 者 生無色界  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b19_19",
+    "original":"有成就非學非無學戒，非學戒。",
+    "folio":12,
+    "stemmed":"有 成 就 非 學 非 無 學 戒  非 學 戒  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b20_1",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b20_15",
+    "original":"阿羅漢及諸異生，生欲、色界。",
+    "folio":12,
+    "stemmed":"阿 羅 漢 及 諸 異 生  生 欲  色 界  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b21_7",
+    "original":"有成就學戒，亦非學非無學戒。",
+    "folio":12,
+    "stemmed":"有 成 就 學 戒  亦 非 學 非 無 學 戒  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b21_9",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b21_17",
+    "original":"學者生欲、色界。",
+    "folio":12,
+    "stemmed":"學 者 生 欲  色 界  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b22_12",
+    "original":"有非成就學戒，亦非非學非無學戒。",
+    "folio":12,
+    "stemmed":"有 非 成 就 學 戒  亦 非 非 學 非 無 學 戒  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b22_14",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b23_7",
+    "original":"阿羅漢及諸異生，生無色界。",
+    "folio":12,
+    "stemmed":"阿 羅 漢 及 諸 異 生  生無色界  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b24_17",
+    "original":"若成就無學戒，彼成就非學非無學戒耶？",
+    "folio":12,
+    "stemmed":"若 成 就 無 學 戒  彼 成 就 非 學 非 無 學 戒 耶  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b24_19",
+    "original":"答：",
+    "folio":12,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b25_4",
+    "original":"應作四句。",
+    "folio":12,
+    "stemmed":"應 作 四 句  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b25_19",
+    "original":"有成就無學戒，非非學非無學戒。",
+    "folio":12,
+    "stemmed":"有 成 就 無 學 戒  非 非 學 非 無 學 戒  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b26_1",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b26_9",
+    "original":"阿羅漢生無色界。",
+    "folio":12,
+    "stemmed":"阿 羅 漢 生無色界  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b27_4",
+    "original":"有成就非學非無學戒，非無學戒。",
+    "folio":12,
+    "stemmed":"有 成 就 非 學 非 無 學 戒  非 無 學 戒  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b27_6",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b27_20",
+    "original":"諸學者及諸異生，生欲、色界。",
+    "folio":12,
+    "stemmed":"諸 學 者 及 諸 異 生  生 欲  色 界  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b28_13",
+    "original":"有成就無學戒亦非學，非無學戒。",
+    "folio":12,
+    "stemmed":"有 成 就 無 學 戒 亦 非 學  非 無 學 戒  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b28_15",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981b29_4",
+    "original":"阿羅漢生欲、色界。",
+    "folio":12,
+    "stemmed":"阿 羅 漢 生 欲  色 界  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981c01_1",
+    "original":"有非成就無學戒，亦非非學非無學戒。",
+    "folio":12,
+    "stemmed":"有 非 成 就 無 學 戒  亦 非 非 學 非 無 學 戒  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981c01_3",
+    "original":"謂：",
+    "folio":12,
+    "stemmed":"謂  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981c01_16",
+    "original":"諸學者及諸異生，生無色界。",
+    "folio":12,
+    "stemmed":"諸 學 者 及 諸 異 生  生無色界  "
+  },
+  {
+    "segmentnr":"ZH_T26_1544_012:0981c02_100",
+    "original":"說一切有部發智論卷第十二",
+    "folio":12,
+    "stemmed":"說 一 切 有 部 發 智 論 卷 第 十 二 "
+  }
+]

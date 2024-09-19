@@ -1,0 +1,926 @@
+[
+  {
+    "segmentnr":"ZH_X81_1570_007:0368a04",
+    "original":"五燈全書目錄卷第七",
+    "folio":7,
+    "analyzed":"五 燈 全 書 目 錄 卷 第 七 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368a06",
+    "original":"卷三十六",
+    "folio":7,
+    "analyzed":"卷 三 十 六 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368a07",
+    "original":"南嶽下第十三世",
+    "folio":7,
+    "analyzed":"南 嶽 下 第 十 三 世 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368a08",
+    "original":"　法雲本禪師法嗣",
+    "folio":7,
+    "analyzed":" 法 雲 本 禪 師 法 嗣 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368a09",
+    "original":"　　淨慈楚明寶印禪師　長蘆道和祖照禪師",
+    "folio":7,
+    "analyzed":"  淨 慈 楚 明 寶 印 禪 師  長 蘆 道 和 祖 照 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368a10",
+    "original":"　　雲峯思慧妙湛禪師　寶林果昌寶覺禪師",
+    "folio":7,
+    "analyzed":"  雲 峯 思 慧 妙 湛 禪 師  寶 林 果 昌 寶 覺 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368a11",
+    "original":"　　資福法明寶月禪師　雲峯志璿祖燈禪師",
+    "folio":7,
+    "analyzed":"  資 福 法 明 寶 月 禪 師  雲 峯 志 璿 祖 燈 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368a12",
+    "original":"　　慧林常悟禪師　道場有規禪師",
+    "folio":7,
+    "analyzed":"  慧 林 常 悟 禪 師  道 場 有 規 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368a13",
+    "original":"　　延慶可復禪師　道場慧顏禪師",
+    "folio":7,
+    "analyzed":"  延 慶 可 復 禪 師  道 場 慧 顏 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368a14",
+    "original":"　　雙峯宗達佛海禪師　五峯子琪禪師",
+    "folio":7,
+    "analyzed":"  雙 峯 宗 達 佛 海 禪 師  五 峯 子 琪 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368a15",
+    "original":"　　雲門道信禪師　從諫慈辯講師",
+    "folio":7,
+    "analyzed":"  雲 門 道 信 禪 師  從 諫 慈 辯 講 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368a16",
+    "original":"　　承天滋須禪師　聖壽法晏禪師",
+    "folio":7,
+    "analyzed":"  承 天 滋 須 禪 師  聖 壽 法 晏 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368a17",
+    "original":"　　天衣慧通禪師　天聖齊月禪師",
+    "folio":7,
+    "analyzed":"  天 衣 慧 通 禪 師  天 聖 齊 月 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368a18",
+    "original":"　　宜章希古禪師　狼山文慧禪師",
+    "folio":7,
+    "analyzed":"  宜 章 希 古 禪 師  狼 山 文 慧 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368a19",
+    "original":"　金山寧禪師法嗣",
+    "folio":7,
+    "analyzed":" 金 山 寧 禪 師 法 嗣 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368a20",
+    "original":"　　普濟子淳圓濟禪師　禾山用安禪師",
+    "folio":7,
+    "analyzed":"  普 濟 子 淳 圓 濟 禪 師  禾 山 用 安 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368a21",
+    "original":"　　禪悅知相禪師　鹿苑道齊禪師",
+    "folio":7,
+    "analyzed":"  禪 悅 知 相 禪 師  鹿 苑 道 齊 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368a22",
+    "original":"　本覺一禪師法嗣",
+    "folio":7,
+    "analyzed":" 本 覺 一 禪 師 法 嗣 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368a23",
+    "original":"　　越峯粹珪妙覺禪師　天台如庵主",
+    "folio":7,
+    "analyzed":"  越 峯 粹 珪 妙 覺 禪 師  天 台 如 庵 主 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368a24",
+    "original":"　　壽山本明禪師　尼法海禪師",
+    "folio":7,
+    "analyzed":"  壽 山 本 明 禪 師  尼 法 海 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368b01",
+    "original":"　投子顒禪師法嗣",
+    "folio":7,
+    "analyzed":" 投 子 顒 禪 師 法 嗣 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368b02",
+    "original":"　　資壽灌禪師　崇壽江禪師",
+    "folio":7,
+    "analyzed":"  資 壽 灌 禪 師  崇 壽 江 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368b03",
+    "original":"　　香嚴智月海印禪師　丞相富弼居士",
+    "folio":7,
+    "analyzed":"  香 嚴 智 月 海 印 禪 師  丞 相 富 弼 居 士 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368b04",
+    "original":"　甘露宣禪師法嗣",
+    "folio":7,
+    "analyzed":" 甘 露 宣 禪 師 法 嗣 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368b05",
+    "original":"　　尼文照禪師",
+    "folio":7,
+    "analyzed":"  尼 文 照 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368b06",
+    "original":"　瑞巖居禪師法嗣",
+    "folio":7,
+    "analyzed":" 瑞 巖 居 禪 師 法 嗣 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368b07",
+    "original":"　　萬年處幽禪師",
+    "folio":7,
+    "analyzed":"  萬 年 處 幽 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368b08",
+    "original":"　廣靈祖禪師法嗣",
+    "folio":7,
+    "analyzed":" 廣 靈 祖 禪 師 法 嗣 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368b09",
+    "original":"　　縉雲仙巖懷義禪師　烏龍廣堅禪師",
+    "folio":7,
+    "analyzed":"  縉 雲 仙 巖 懷 義 禪 師  烏 龍 廣 堅 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368b10",
+    "original":"　　清溪西禪智誠禪師",
+    "folio":7,
+    "analyzed":"  清 溪 西 禪 智 誠 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368b11",
+    "original":"　淨因嶽禪師法嗣",
+    "folio":7,
+    "analyzed":" 淨 因 嶽 禪 師 法 嗣 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368b12",
+    "original":"　　鼓山體淳禪鑒禪師",
+    "folio":7,
+    "analyzed":"  鼓 山 體 淳 禪 鑒 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368b13",
+    "original":"　乾明覺禪師法嗣",
+    "folio":7,
+    "analyzed":" 乾 明 覺 禪 師 法 嗣 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368b14",
+    "original":"　　平江長慶應圓禪師",
+    "folio":7,
+    "analyzed":"  平 江 長 慶 應 圓 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368b15",
+    "original":"　長蘆信禪師法嗣",
+    "folio":7,
+    "analyzed":" 長 蘆 信 禪 師 法 嗣 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368b16",
+    "original":"　　慧林懷深慈受禪師　萬壽如璝證悟禪師",
+    "folio":7,
+    "analyzed":"  慧 林 懷 深 慈 受 禪 師  萬 壽 如 璝 證 悟 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368b17",
+    "original":"　　天衣如哲禪師　智者法銓禪師",
+    "folio":7,
+    "analyzed":"  天 衣 如 哲 禪 師  智 者 法 銓 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368b18",
+    "original":"　　徑山智訥妙空禪師",
+    "folio":7,
+    "analyzed":"  徑 山 智 訥 妙 空 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368b19",
+    "original":"　金山慧禪師法嗣",
+    "folio":7,
+    "analyzed":" 金 山 慧 禪 師 法 嗣 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368b20",
+    "original":"　　報恩覺然寶月禪師",
+    "folio":7,
+    "analyzed":"  報 恩 覺 然 寶 月 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368b21",
+    "original":"　法雲白禪師法嗣",
+    "folio":7,
+    "analyzed":" 法 雲 白 禪 師 法 嗣 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368b22",
+    "original":"　　智者紹先禪師　福聖仲易禪師",
+    "folio":7,
+    "analyzed":"  智 者 紹 先 禪 師  福 聖 仲 易 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368b23",
+    "original":"　　慧林慧海月印禪師　建隆原禪師",
+    "folio":7,
+    "analyzed":"  慧 林 慧 海 月 印 禪 師  建 隆 原 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368b24",
+    "original":"　　金山佛鑑惟仲禪師　褒城乾明永因禪師",
+    "folio":7,
+    "analyzed":"  金 山 佛 鑑 惟 仲 禪 師  褒 城 乾 明 永 因 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368c01",
+    "original":"　　勝因崇愷禪師　大覺法慶禪師",
+    "folio":7,
+    "analyzed":"  勝 因 崇 愷 禪 師  大 覺 法 慶 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368c02",
+    "original":"　保寧英禪師法嗣",
+    "folio":7,
+    "analyzed":" 保 寧 英 禪 師 法 嗣 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368c03",
+    "original":"　　廣福惟尚禪師　雪竇法寧禪師",
+    "folio":7,
+    "analyzed":"  廣 福 惟 尚 禪 師  雪 竇 法 寧 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368c04",
+    "original":"　　羅漢勤禪師　羅漢善修禪師",
+    "folio":7,
+    "analyzed":"  羅 漢 勤 禪 師  羅 漢 善 修 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368c05",
+    "original":"　開先珣禪師法嗣",
+    "folio":7,
+    "analyzed":" 開 先 珣 禪 師 法 嗣 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368c06",
+    "original":"　　延昌熈詠禪師　開先宗禪師",
+    "folio":7,
+    "analyzed":"  延 昌 熈 詠 禪 師  開 先 宗 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368c07",
+    "original":"　甘露顒禪師法嗣",
+    "folio":7,
+    "analyzed":" 甘 露 顒 禪 師 法 嗣 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368c08",
+    "original":"　　光孝元禪師",
+    "folio":7,
+    "analyzed":"  光 孝 元 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368c09",
+    "original":"　雪竇榮禪師法嗣",
+    "folio":7,
+    "analyzed":" 雪 竇 榮 禪 師 法 嗣 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368c10",
+    "original":"　　雪峯大智禪師",
+    "folio":7,
+    "analyzed":"  雪 峯 大 智 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368c11",
+    "original":"　元豐滿禪師法嗣",
+    "folio":7,
+    "analyzed":" 元 豐 滿 禪 師 法 嗣 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368c12",
+    "original":"　　雪峯宗演圓覺禪師　衛州王大夫",
+    "folio":7,
+    "analyzed":"  雪 峯 宗 演 圓 覺 禪 師  衛 州 王 大 夫 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368c13",
+    "original":"　育王振禪師法嗣",
+    "folio":7,
+    "analyzed":" 育 王 振 禪 師 法 嗣 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368c14",
+    "original":"　　岳林真禪師",
+    "folio":7,
+    "analyzed":"  岳 林 真 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368c15",
+    "original":"　招提湛禪師法嗣",
+    "folio":7,
+    "analyzed":" 招 提 湛 禪 師 法 嗣 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368c16",
+    "original":"　　華亭觀音和尚",
+    "folio":7,
+    "analyzed":"  華 亭 觀 音 和 尚 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368c17",
+    "original":"南嶽下第十四世",
+    "folio":7,
+    "analyzed":"南 嶽 下 第 十 四 世 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368c18",
+    "original":"　淨慈明禪師法嗣",
+    "folio":7,
+    "analyzed":" 淨 慈 明 禪 師 法 嗣 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368c19",
+    "original":"　　淨慈象禪師　雪峯隆禪師",
+    "folio":7,
+    "analyzed":"  淨 慈 象 禪 師  雪 峯 隆 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368c20",
+    "original":"　長蘆和禪師法嗣",
+    "folio":7,
+    "analyzed":" 長 蘆 和 禪 師 法 嗣 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368c21",
+    "original":"　　甘露達珠禪師　靈隱惠淳圓智禪師",
+    "folio":7,
+    "analyzed":"  甘 露 達 珠 禪 師  靈 隱 惠 淳 圓 智 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368c22",
+    "original":"　雪峯慧禪師法嗣",
+    "folio":7,
+    "analyzed":" 雪 峯 慧 禪 師 法 嗣 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368c23",
+    "original":"　　淨慈道昌佛行禪師　徑山照堂了一禪師",
+    "folio":7,
+    "analyzed":"  淨 慈 道 昌 佛 行 禪 師  徑 山 照 堂 了 一 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0368c24",
+    "original":"　　金山了心禪師",
+    "folio":7,
+    "analyzed":"  金 山 了 心 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369a01",
+    "original":"　香嚴月禪師法嗣",
+    "folio":7,
+    "analyzed":" 香 嚴 月 禪 師 法 嗣 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369a02",
+    "original":"　　香嚴倚松如璧禪師",
+    "folio":7,
+    "analyzed":"  香 嚴 倚 松 如 璧 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369a03",
+    "original":"　慧林深禪師法嗣",
+    "folio":7,
+    "analyzed":" 慧 林 深 禪 師 法 嗣 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369a04",
+    "original":"　　靈隱寂室慧光禪師　國清愚谷妙印禪師",
+    "folio":7,
+    "analyzed":"  靈 隱 寂 室 慧 光 禪 師  國 清 愚 谷 妙 印 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369a05",
+    "original":"　　國清垂慈普紹禪師　九座慧邃禪師",
+    "folio":7,
+    "analyzed":"  國 清 垂 慈 普 紹 禪 師  九 座 慧 邃 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369a06",
+    "original":"　報恩然禪師法嗣",
+    "folio":7,
+    "analyzed":" 報 恩 然 禪 師 法 嗣 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369a07",
+    "original":"　　資聖元祖禪師",
+    "folio":7,
+    "analyzed":"  資 聖 元 祖 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369a08",
+    "original":"　慧林海禪師法嗣",
+    "folio":7,
+    "analyzed":" 慧 林 海 禪 師 法 嗣 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369a09",
+    "original":"　　萬杉壽堅禪師",
+    "folio":7,
+    "analyzed":"  萬 杉 壽 堅 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369a10",
+    "original":"　開先宗禪師法嗣",
+    "folio":7,
+    "analyzed":" 開 先 宗 禪 師 法 嗣 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369a11",
+    "original":"　　黃檗惟初禪師　嶽麓海禪師",
+    "folio":7,
+    "analyzed":"  黃 檗 惟 初 禪 師  嶽 麓 海 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369a12",
+    "original":"　雪峯演禪師法嗣",
+    "folio":7,
+    "analyzed":" 雪 峯 演 禪 師 法 嗣 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369a13",
+    "original":"　　西禪慧舜禪師",
+    "folio":7,
+    "analyzed":"  西 禪 慧 舜 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369a14",
+    "original":"南嶽下第十五世",
+    "folio":7,
+    "analyzed":"南 嶽 下 第 十 五 世 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369a15",
+    "original":"　雪竇明禪師法嗣",
+    "folio":7,
+    "analyzed":" 雪 竇 明 禪 師 法 嗣 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369a16",
+    "original":"　　[山*耆]山寧禪師",
+    "folio":7,
+    "analyzed":"  [山耆] 山 寧 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369a17",
+    "original":"　淨慈昌禪師法嗣",
+    "folio":7,
+    "analyzed":" 淨 慈 昌 禪 師 法 嗣 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369a18",
+    "original":"　　五雲悟禪師",
+    "folio":7,
+    "analyzed":"  五 雲 悟 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369a19",
+    "original":"　靈隱光禪師法嗣",
+    "folio":7,
+    "analyzed":" 靈 隱 光 禪 師 法 嗣 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369a20",
+    "original":"　　中竺癡禪元妙禪師",
+    "folio":7,
+    "analyzed":"  中 竺 癡 禪 元 妙 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369a21",
+    "original":"　圓覺曇禪師法嗣",
+    "folio":7,
+    "analyzed":" 圓 覺 曇 禪 師 法 嗣 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369a22",
+    "original":"　　靈巖圓日禪師",
+    "folio":7,
+    "analyzed":"  靈 巖 圓 日 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369a23",
+    "original":"　嶽麓海禪師法嗣",
+    "folio":7,
+    "analyzed":" 嶽 麓 海 禪 師 法 嗣 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369a24",
+    "original":"　　玉泉思達禪師",
+    "folio":7,
+    "analyzed":"  玉 泉 思 達 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369b01",
+    "original":"南嶽下第十六世",
+    "folio":7,
+    "analyzed":"南 嶽 下 第 十 六 世 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369b02",
+    "original":"　中竺妙禪師法嗣",
+    "folio":7,
+    "analyzed":" 中 竺 妙 禪 師 法 嗣 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369b03",
+    "original":"　　光孝已菴深禪師",
+    "folio":7,
+    "analyzed":"  光 孝 已 菴 深 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369b04",
+    "original":"卷三十七",
+    "folio":7,
+    "analyzed":"卷 三 十 七 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369b05",
+    "original":"　　臨濟宗",
+    "folio":7,
+    "analyzed":"  臨 濟 宗 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369b06",
+    "original":"南嶽下第十一世",
+    "folio":7,
+    "analyzed":"南 嶽 下 第 十 一 世 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369b07",
+    "original":"　石霜圓禪師法嗣",
+    "folio":7,
+    "analyzed":" 石 霜 圓 禪 師 法 嗣 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369b08",
+    "original":"　　黃龍慧南禪師",
+    "folio":7,
+    "analyzed":"  黃 龍 慧 南 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369b09",
+    "original":"南嶽下第十二世",
+    "folio":7,
+    "analyzed":"南 嶽 下 第 十 二 世 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369b10",
+    "original":"　黃龍南禪師法嗣",
+    "folio":7,
+    "analyzed":" 黃 龍 南 禪 師 法 嗣 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369b11",
+    "original":"　　黃龍祖心寶覺禪師　興龍常聰照覺禪師",
+    "folio":7,
+    "analyzed":"  黃 龍 祖 心 寶 覺 禪 師  興 龍 常 聰 照 覺 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369b12",
+    "original":"　　克文雲庵真淨禪師　真如院元祐禪師",
+    "folio":7,
+    "analyzed":"  克 文 雲 庵 真 淨 禪 師  真 如 院 元 祐 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369b13",
+    "original":"　　大溈懷秀禪師　黃檗惟勝真覺禪師",
+    "folio":7,
+    "analyzed":"  大 溈 懷 秀 禪 師  黃 檗 惟 勝 真 覺 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369b14",
+    "original":"　　祐聖法[宋-木+居]禪師　開元子琦禪師",
+    "folio":7,
+    "analyzed":"  祐 聖 法 [宋木居] 禪 師  開 元 子 琦 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369b15",
+    "original":"　　仰山行偉禪師　福巖慈感禪師",
+    "folio":7,
+    "analyzed":"  仰 山 行 偉 禪 師  福 巖 慈 感 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369b16",
+    "original":"　　雲葢守智禪師　玄沙合文明慧禪師",
+    "folio":7,
+    "analyzed":"  雲 葢 守 智 禪 師  玄 沙 合 文 明 慧 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369b17",
+    "original":"　　建隆院昭慶禪師　報本慧元禪師",
+    "folio":7,
+    "analyzed":"  建 隆 院 昭 慶 禪 師  報 本 慧 元 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369b18",
+    "original":"　　隆慶院慶閑禪師　三祖山法宗禪師",
+    "folio":7,
+    "analyzed":"  隆 慶 院 慶 閑 禪 師  三 祖 山 法 宗 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369b19",
+    "original":"　　泐潭洪英禪師　保寧圓璣禪師",
+    "folio":7,
+    "analyzed":"  泐 潭 洪 英 禪 師  保 寧 圓 璣 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369b20",
+    "original":"　　雪峯道圓禪師　四祖山法演禪師",
+    "folio":7,
+    "analyzed":"  雪 峯 道 圓 禪 師  四 祖 山 法 演 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369b21",
+    "original":"　　清隱潛庵清源禪師　興國院契雅禪師",
+    "folio":7,
+    "analyzed":"  清 隱 潛 庵 清 源 禪 師  興 國 院 契 雅 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369b22",
+    "original":"　　靈巖山重確正覺禪師廉泉院曇秀禪師",
+    "folio":7,
+    "analyzed":"  靈 巖 山 重 確 正 覺 禪 師 廉 泉 院 曇 秀 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369b23",
+    "original":"　　宣明佛印禪師　三角山慧澤禪師",
+    "folio":7,
+    "analyzed":"  宣 明 佛 印 禪 師  三 角 山 慧 澤 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369b24",
+    "original":"　　法輪文昱禪師　靈鷲慧覺禪師",
+    "folio":7,
+    "analyzed":"  法 輪 文 昱 禪 師  靈 鷲 慧 覺 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369c01",
+    "original":"　　黃檗積翠永庵主　歸宗志芝庵主",
+    "folio":7,
+    "analyzed":"  黃 檗 積 翠 永 庵 主  歸 宗 志 芝 庵 主 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369c02",
+    "original":"　　百丈元肅禪師　石霜琳禪師",
+    "folio":7,
+    "analyzed":"  百 丈 元 肅 禪 師  石 霜 琳 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369c03",
+    "original":"　　上藍順禪師　延慶洪準禪師",
+    "folio":7,
+    "analyzed":"  上 藍 順 禪 師  延 慶 洪 準 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369c04",
+    "original":"　　宿松靈隱德滋山主　禾山德普禪師",
+    "folio":7,
+    "analyzed":"  宿 松 靈 隱 德 滋 山 主  禾 山 德 普 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369c05",
+    "original":"　　佛陀德遜禪師",
+    "folio":7,
+    "analyzed":"  佛 陀 德 遜 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369c06",
+    "original":"卷三十八",
+    "folio":7,
+    "analyzed":"卷 三 十 八 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369c07",
+    "original":"南嶽下第十三世",
+    "folio":7,
+    "analyzed":"南 嶽 下 第 十 三 世 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369c08",
+    "original":"　黃龍心禪師法嗣",
+    "folio":7,
+    "analyzed":" 黃 龍 心 禪 師 法 嗣 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369c09",
+    "original":"　　黃龍死心悟新禪師　黃龍靈源惟清禪師",
+    "folio":7,
+    "analyzed":"  黃 龍 死 心 悟 新 禪 師  黃 龍 靈 源 惟 清 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369c10",
+    "original":"　　泐潭草堂善清禪師　青原惟信禪師",
+    "folio":7,
+    "analyzed":"  泐 潭 草 堂 善 清 禪 師  青 原 惟 信 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369c11",
+    "original":"　　靈泉院曉純禪師　三聖繼昌禪師",
+    "folio":7,
+    "analyzed":"  靈 泉 院 曉 純 禪 師  三 聖 繼 昌 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369c12",
+    "original":"　　雙嶺化禪師　水陸院曉津禪師",
+    "folio":7,
+    "analyzed":"  雙 嶺 化 禪 師  水 陸 院 曉 津 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369c13",
+    "original":"　　保福本權禪師　雙峯景齊禪師",
+    "folio":7,
+    "analyzed":"  保 福 本 權 禪 師  雙 峯 景 齊 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369c14",
+    "original":"　　寄堂景新禪師　道吾仲圓禪師",
+    "folio":7,
+    "analyzed":"  寄 堂 景 新 禪 師  道 吾 仲 圓 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369c15",
+    "original":"　　慈雲道情禪師　黃龍如曉禪師",
+    "folio":7,
+    "analyzed":"  慈 雲 道 情 禪 師  黃 龍 如 曉 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369c16",
+    "original":"　　太史山谷居士黃庭堅觀文王韶居士",
+    "folio":7,
+    "analyzed":"  太 史 山 谷 居 士 黃 庭 堅 觀 文 王 韶 居 士 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369c17",
+    "original":"　　秘書吳恂居士",
+    "folio":7,
+    "analyzed":"  秘 書 吳 恂 居 士 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369c18",
+    "original":"　東林總禪師法嗣",
+    "folio":7,
+    "analyzed":" 東 林 總 禪 師 法 嗣 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369c19",
+    "original":"　　泐潭乾應禪師　開先行瑛廣鑑禪師",
+    "folio":7,
+    "analyzed":"  泐 潭 乾 應 禪 師  開 先 行 瑛 廣 鑑 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369c20",
+    "original":"　　圓通可僊法鏡禪師　象田梵卿禪師",
+    "folio":7,
+    "analyzed":"  圓 通 可 僊 法 鏡 禪 師  象 田 梵 卿 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369c21",
+    "original":"　　旌德院有瑞佛海禪師　慧力院可昌禪師",
+    "folio":7,
+    "analyzed":"  旌 德 院 有 瑞 佛 海 禪 師  慧 力 院 可 昌 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369c22",
+    "original":"　　棲真院德嵩禪師　萬杉院紹慈禪師",
+    "folio":7,
+    "analyzed":"  棲 真 院 德 嵩 禪 師  萬 杉 院 紹 慈 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369c23",
+    "original":"　　衡嶽寺道辯禪師　甘露志傳禪師",
+    "folio":7,
+    "analyzed":"  衡 嶽 寺 道 辯 禪 師  甘 露 志 傳 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0369c24",
+    "original":"　　旌德宗諭禪師　兜率志恩禪師",
+    "folio":7,
+    "analyzed":"  旌 德 宗 諭 禪 師  兜 率 志 恩 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0370a01",
+    "original":"　　興福院康源禪師　真覺志添禪師",
+    "folio":7,
+    "analyzed":"  興 福 院 康 源 禪 師  真 覺 志 添 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0370a02",
+    "original":"　　內翰東坡居士蘇軾",
+    "folio":7,
+    "analyzed":"  內 翰 東 坡 居 士 蘇 軾 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0370a03",
+    "original":"　寶峯文禪師法嗣",
+    "folio":7,
+    "analyzed":" 寶 峯 文 禪 師 法 嗣 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0370a04",
+    "original":"　　兜率真寂從悅禪師　法雲佛照杲禪師",
+    "folio":7,
+    "analyzed":"  兜 率 真 寂 從 悅 禪 師  法 雲 佛 照 杲 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0370a05",
+    "original":"　　泐潭湛堂文準禪師　廬山慧日文雅禪師",
+    "folio":7,
+    "analyzed":"  泐 潭 湛 堂 文 準 禪 師  廬 山 慧 日 文 雅 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0370a06",
+    "original":"　　洞山梵言禪師　文殊宣能禪師",
+    "folio":7,
+    "analyzed":"  洞 山 梵 言 禪 師  文 殊 宣 能 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0370a07",
+    "original":"　　壽寧善資禪師　祝融上封慧和禪師",
+    "folio":7,
+    "analyzed":"  壽 寧 善 資 禪 師  祝 融 上 封 慧 和 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0370a08",
+    "original":"　　五峯淨覺本禪師　太平安禪師",
+    "folio":7,
+    "analyzed":"  五 峯 淨 覺 本 禪 師  太 平 安 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0370a09",
+    "original":"　　報慈進英禪師　洞山至乾禪師",
+    "folio":7,
+    "analyzed":"  報 慈 進 英 禪 師  洞 山 至 乾 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0370a10",
+    "original":"　　寶華佛慈普鑑禪師　九峯希廣禪師",
+    "folio":7,
+    "analyzed":"  寶 華 佛 慈 普 鑑 禪 師  九 峯 希 廣 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0370a11",
+    "original":"　　黃檗道全禪師　清涼覺範慧洪禪師",
+    "folio":7,
+    "analyzed":"  黃 檗 道 全 禪 師  清 涼 覺 範 慧 洪 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0370a12",
+    "original":"　　超化靜禪師　石頭懷志庵主",
+    "folio":7,
+    "analyzed":"  超 化 靜 禪 師  石 頭 懷 志 庵 主 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0370a13",
+    "original":"　　雙溪印首座　奉新慧安慧淵禪師",
+    "folio":7,
+    "analyzed":"  雙 溪 印 首 座  奉 新 慧 安 慧 淵 禪 師 "
+  },
+  {
+    "segmentnr":"ZH_X81_1570_007:0370a15",
+    "original":"五燈全書目錄卷第七",
+    "folio":7,
+    "analyzed":"五 燈 全 書 目 錄 卷 第 七 "
+  }
+]

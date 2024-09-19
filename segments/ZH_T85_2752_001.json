@@ -1,0 +1,6140 @@
+[
+  {
+    "segmentnr":"ZH_T85_2752_001:0199a16_0",
+    "original":"法華問答",
+    "folio":1,
+    "stemmed":"法 華 問 答 "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199a18_0",
+    "original":"蓮花顯教登聞據顯即異故說無量義經。後",
+    "folio":1,
+    "stemmed":"蓮 花 顯 教 登 聞 據 顯 即 異 故 說 無 量 義 經  後 "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199a19_0",
+    "original":"方□□□□□□同故十七名中無量義經",
+    "folio":1,
+    "stemmed":"方       同 故 十 七 名 中 無 量 義 經 "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199a20_5",
+    "original":"且法花　問。",
+    "folio":1,
+    "stemmed":"且 法 花  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199a20_14",
+    "original":"依於三法而說法花。",
+    "folio":1,
+    "stemmed":"依 於 三 法 而 說 法 花  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199a21_3",
+    "original":"云何名三法　答。",
+    "folio":1,
+    "stemmed":"云 何 名 三 法  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199a21_11",
+    "original":"論說依於三法者。",
+    "folio":1,
+    "stemmed":"論 說 依 於 三 法 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199a21_16",
+    "original":"一依三昧。",
+    "folio":1,
+    "stemmed":"一 依 三 昧  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199a22_4",
+    "original":"謂無量義處三昧。",
+    "folio":1,
+    "stemmed":"謂 無量義處三昧  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199a22_10",
+    "original":"二依器世間。",
+    "folio":1,
+    "stemmed":"二 依 器 世 間  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199a23_1",
+    "original":"謂天雨四花地六振動。",
+    "folio":1,
+    "stemmed":"謂 天 雨 四 花 地 六 振 動  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199a23_8",
+    "original":"三依眾生世間。",
+    "folio":1,
+    "stemmed":"三 依 眾 生 世 間  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199a23_18",
+    "original":"謂四眾八部心生歡悅。",
+    "folio":1,
+    "stemmed":"謂 四 眾 八 部 心 生 歡 悅  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199a24_9",
+    "original":"依此三法而說法花　問。",
+    "folio":1,
+    "stemmed":"依 此 三 法 而 說 法 花  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199a24_18",
+    "original":"彌勒文殊俱當補處。",
+    "folio":1,
+    "stemmed":"彌 勒 文 殊 俱 當 補 處  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199a25_4",
+    "original":"有何勝劣。",
+    "folio":1,
+    "stemmed":"有 何 勝 劣  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199a25_11",
+    "original":"一疑一決　答。",
+    "folio":1,
+    "stemmed":"一 疑 一 決  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199a26_1",
+    "original":"彌勒是次近當成佛。",
+    "folio":1,
+    "stemmed":"彌 勒 是 次 近 當 成 佛  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199a26_9",
+    "original":"何以能疑復能何。",
+    "folio":1,
+    "stemmed":"何 以 能 疑 復 能 何  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199a26_18",
+    "original":"文殊是分遠過去佛。",
+    "folio":1,
+    "stemmed":"文 殊 是 分 遠 過 去 佛  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199a27_5",
+    "original":"所以能解復答。",
+    "folio":1,
+    "stemmed":"所 以 能 解 復 答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199a27_11",
+    "original":"雖迹同補處。",
+    "folio":1,
+    "stemmed":"雖 迹 同 補 處  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199a28_14",
+    "original":"而實次有高下　問　文殊以何智答彌勒問　答。",
+    "folio":1,
+    "stemmed":"而 實 次 有 高 下  問  文 殊 以 何 智 答 彌 勒 問  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199a29_7",
+    "original":"依德以宿命智現見過去二相。",
+    "folio":1,
+    "stemmed":"依 德 以 宿 命 智 現 見 過 去 二 相  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199a29_13",
+    "original":"謂因相果相。",
+    "folio":1,
+    "stemmed":"謂 因 相 果 相  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b01_8",
+    "original":"因者謂見自身過去次種種事故。",
+    "folio":1,
+    "stemmed":"因 者 謂 見 自 身 過 去 次 種 種 事 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b02_5",
+    "original":"果相者謂見自身過去說種種法故。",
+    "folio":1,
+    "stemmed":"果 相 者 謂 見 自 身 過 去 說 種 種 法 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b02_15",
+    "original":"依此智以答彌勒問也。",
+    "folio":1,
+    "stemmed":"依 此 智 以 答 彌 勒 問 也  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b03_7",
+    "original":"方便品十條　問。",
+    "folio":1,
+    "stemmed":"方 便 品 十 條  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b03_17",
+    "original":"方便品五分破二明一。",
+    "folio":1,
+    "stemmed":"方 便 品 五 分 破 二 明 一  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b04_11",
+    "original":"云何五分云何破二明一　答。",
+    "folio":1,
+    "stemmed":"云 何 五 分 云 何 破 二 明 一  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b04_15",
+    "original":"五分者。",
+    "folio":1,
+    "stemmed":"五 分 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b05_4",
+    "original":"一歎妙法功德分。",
+    "folio":1,
+    "stemmed":"一 歎 妙 法 功 德 分  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b05_12",
+    "original":"二歎法師功德分。",
+    "folio":1,
+    "stemmed":"二 歎 法 師 功 德 分  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b05_17",
+    "original":"三疑請分。",
+    "folio":1,
+    "stemmed":"三 疑 請 分  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b06_2",
+    "original":"四授記分。",
+    "folio":1,
+    "stemmed":"四 授 記 分  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b06_7",
+    "original":"五斷疑分。",
+    "folio":1,
+    "stemmed":"五 斷 疑 分  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b06_13",
+    "original":"破二明一者。",
+    "folio":1,
+    "stemmed":"破 二 明 一 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b07_2",
+    "original":"破二乘執明一乘道。",
+    "folio":1,
+    "stemmed":"破 二 乘 執 明 一 乘 道  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b07_13",
+    "original":"何者歎妙法分標所明一。",
+    "folio":1,
+    "stemmed":"何 者 歎 妙 法 分 標 所 明 一  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b08_3",
+    "original":"歎師分示能明之人。",
+    "folio":1,
+    "stemmed":"歎 師 分 示 能 明 之 人  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b08_13",
+    "original":"疑請分即所破之二機。",
+    "folio":1,
+    "stemmed":"疑 請 分 即 所 破 之 二 機  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b09_4",
+    "original":"授記分是能破之一道。",
+    "folio":1,
+    "stemmed":"授 記 分 是 能 破 之 一 道  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b09_13",
+    "original":"斷疑分更總定時處。",
+    "folio":1,
+    "stemmed":"斷 疑 分 更 總 定 時 處  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b10_7",
+    "original":"通明機五分略同一乘義現故。",
+    "folio":1,
+    "stemmed":"通 明 機 五 分 略 同 一 乘 義 現 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b10_17",
+    "original":"曰五分破二明一　問。",
+    "folio":1,
+    "stemmed":"曰 五 分 破 二 明 一  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b11_7",
+    "original":"諸佛智慧甚深無量。",
+    "folio":1,
+    "stemmed":"諸 佛 智 慧 甚 深 無 量  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b12_2",
+    "original":"何者是智慧何者甚深　答。",
+    "folio":1,
+    "stemmed":"何 者 是 智 慧 何 者 甚 深  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b12_8",
+    "original":"智慧有二種。",
+    "folio":1,
+    "stemmed":"智 慧 有 二 種  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b12_17",
+    "original":"一一切諸佛如理智。",
+    "folio":1,
+    "stemmed":"一 一切諸佛 如 理 智  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b13_2",
+    "original":"二一切種智。",
+    "folio":1,
+    "stemmed":"二 一切種智  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b13_8",
+    "original":"謂如無量智。",
+    "folio":1,
+    "stemmed":"謂 如 無 量 智  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b13_14",
+    "original":"甚深亦二種。",
+    "folio":1,
+    "stemmed":"甚 深 亦 二 種  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b13_19",
+    "original":"一證甚深。",
+    "folio":1,
+    "stemmed":"一 證 甚 深  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b14_3",
+    "original":"謂理法。",
+    "folio":1,
+    "stemmed":"謂 理 法  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b14_9",
+    "original":"二阿含甚深。",
+    "folio":1,
+    "stemmed":"二 阿 含 甚 深  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b14_15",
+    "original":"謂教法阿含。",
+    "folio":1,
+    "stemmed":"謂 教 法 阿 含  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b15_3",
+    "original":"此翻為淨教　問。",
+    "folio":1,
+    "stemmed":"此 翻 為 淨 教  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b15_10",
+    "original":"證明甚深有五。",
+    "folio":1,
+    "stemmed":"證 明 甚 深 有 五  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b15_17",
+    "original":"何者是五　答。",
+    "folio":1,
+    "stemmed":"何 者 是 五  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b16_2",
+    "original":"一義甚深。",
+    "folio":1,
+    "stemmed":"一 義 甚 深  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b16_8",
+    "original":"二實體甚深。",
+    "folio":1,
+    "stemmed":"二 實 體 甚 深  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b16_14",
+    "original":"三內證甚深。",
+    "folio":1,
+    "stemmed":"三 內 證 甚 深  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b17_1",
+    "original":"四依止甚深。",
+    "folio":1,
+    "stemmed":"四 依 止 甚 深  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b17_9",
+    "original":"五無上甚深　問。",
+    "folio":1,
+    "stemmed":"五 無 上 甚 深  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b17_19",
+    "original":"論說法師功德有四種。",
+    "folio":1,
+    "stemmed":"論 說 法 師 功 德 有 四 種  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b18_6",
+    "original":"何者是四　答。",
+    "folio":1,
+    "stemmed":"何 者 是 四  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b18_11",
+    "original":"一往成就。",
+    "folio":1,
+    "stemmed":"一 往 成 就  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b18_17",
+    "original":"謂起眾生機。",
+    "folio":1,
+    "stemmed":"謂 起 眾 生 機  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b19_3",
+    "original":"二教化成就。",
+    "folio":1,
+    "stemmed":"二 教 化 成 就  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b19_9",
+    "original":"謂六通身是。",
+    "folio":1,
+    "stemmed":"謂 六 通 身 是  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b19_17",
+    "original":"三功德畢竟成就。",
+    "folio":1,
+    "stemmed":"三 功 德 畢 竟 成 就  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b20_3",
+    "original":"謂智定圓滿。",
+    "folio":1,
+    "stemmed":"謂 智 定 圓 滿  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b20_8",
+    "original":"四說成就。",
+    "folio":1,
+    "stemmed":"四 說 成 就  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b20_14",
+    "original":"謂四辯說法。",
+    "folio":1,
+    "stemmed":"謂 四 辯 說 法  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b21_5",
+    "original":"是名法師四種功德　問。",
+    "folio":1,
+    "stemmed":"是 名 法 師 四 種 功 德  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b22_2",
+    "original":"止止不須說者如智慧周萬物慈洽。",
+    "folio":1,
+    "stemmed":"止 止 不 須 說 者 如 智 慧 周 萬 物 慈 洽  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b23_4",
+    "original":"四生何不當機即說而便唱土以要諸者何　答。",
+    "folio":1,
+    "stemmed":"四 生 何 不 當 機 即 說 而 便 唱 土 以 要 諸 者 何  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b23_9",
+    "original":"洪鐘雖響。",
+    "folio":1,
+    "stemmed":"洪 鐘 雖 響  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b23_16",
+    "original":"必待擊而方鳴。",
+    "folio":1,
+    "stemmed":"必 待 擊 而 方 鳴  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b24_1",
+    "original":"大聖雖慈。",
+    "folio":1,
+    "stemmed":"大 聖 雖 慈  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b24_8",
+    "original":"亦待請而方說。",
+    "folio":1,
+    "stemmed":"亦 待 請 而 方 說  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b24_13",
+    "original":"若請而說。",
+    "folio":1,
+    "stemmed":"若 請 而 說  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b25_12",
+    "original":"或致自讚之機有情方便令生企道之教　問。",
+    "folio":1,
+    "stemmed":"或 致 自 讚 之 機 有 情 方 便 令 生 企 道 之 教  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b26_4",
+    "original":"示悟入云何著外示答。",
+    "folio":1,
+    "stemmed":"示 悟 入 云 何 著 外 示 答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b26_10",
+    "original":"開是開佛果。",
+    "folio":1,
+    "stemmed":"開 是 開 佛 果  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b26_15",
+    "original":"謂一切智。",
+    "folio":1,
+    "stemmed":"謂 一 切 智  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b27_1",
+    "original":"示示是佛體。",
+    "folio":1,
+    "stemmed":"示 示 是 佛 體  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b27_7",
+    "original":"謂真如法身。",
+    "folio":1,
+    "stemmed":"謂 真 如 法 身  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b27_11",
+    "original":"悟佛障。",
+    "folio":1,
+    "stemmed":"悟 佛 障  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b27_17",
+    "original":"謂無明煩惱。",
+    "folio":1,
+    "stemmed":"謂 無 明 煩 惱  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b28_2",
+    "original":"入是佛圓。",
+    "folio":1,
+    "stemmed":"入 是 佛 圓  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b28_9",
+    "original":"謂令入不退地。",
+    "folio":1,
+    "stemmed":"謂 令 入 不 退 地  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b29_2",
+    "original":"是名開示悟入著外　問。",
+    "folio":1,
+    "stemmed":"是 名 開 示 悟 入 著 外  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199b29_13",
+    "original":"經云若比丘實得阿羅漢。",
+    "folio":1,
+    "stemmed":"經 云 若 比 丘 實 得阿羅漢  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c01_3",
+    "original":"若不信此法無有是處。",
+    "folio":1,
+    "stemmed":"若 不 信 此 法 無 有 是 處  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c01_14",
+    "original":"若示一切聲聞皆應授記。",
+    "folio":1,
+    "stemmed":"若 示 一 切 聲 聞 皆 應 授 記  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c02_14",
+    "original":"云何決定性聲聞阿羅漢而不授記作佛　答。",
+    "folio":1,
+    "stemmed":"云 何 決 定 性 聲 聞 阿 羅 漢 而 不 授 記 作 佛  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c03_2",
+    "original":"依佛教故生信。",
+    "folio":1,
+    "stemmed":"依 佛 教 故 生 信  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c03_9",
+    "original":"自未解故不記。",
+    "folio":1,
+    "stemmed":"自 未 解 故 不 記  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c04_3",
+    "original":"故上文言信佛悟故隨順此經。",
+    "folio":1,
+    "stemmed":"故 上 文 言 信 佛 悟 故 隨 順 此 經  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c04_14",
+    "original":"非己智分即其證也　問。",
+    "folio":1,
+    "stemmed":"非 己 智 分 即 其 證 也  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c05_7",
+    "original":"諸法從本來常自寂滅相者。",
+    "folio":1,
+    "stemmed":"諸 法 從 本 來 常 自 寂 滅 相 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c05_17",
+    "original":"此一偈顯何法體　答。",
+    "folio":1,
+    "stemmed":"此 一 偈 顯 何 法 體  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c06_6",
+    "original":"此偈明三種佛性。",
+    "folio":1,
+    "stemmed":"此 偈 明 三 種 佛 性  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c06_18",
+    "original":"諸法從本來常自寂滅相者。",
+    "folio":1,
+    "stemmed":"諸 法 從 本 來 常 自 寂 滅 相 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c07_5",
+    "original":"自性住佛性。",
+    "folio":1,
+    "stemmed":"自 性 住 佛 性  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c07_17",
+    "original":"佛子行道已者是引出佛性。",
+    "folio":1,
+    "stemmed":"佛 子 行 道 已 者 是 引 出 佛 性  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c08_5",
+    "original":"來世當作佛者。",
+    "folio":1,
+    "stemmed":"來 世 當 作 佛 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c08_14",
+    "original":"是至得果佛性　問。",
+    "folio":1,
+    "stemmed":"是 至 得 果 佛 性  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c09_8",
+    "original":"是法住法位一偈顯何義　答。",
+    "folio":1,
+    "stemmed":"是 法 住 法 位 一 偈 顯 何 義  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c09_16",
+    "original":"此偈明諸佛三身。",
+    "folio":1,
+    "stemmed":"此 偈 明 諸 佛 三 身  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c10_4",
+    "original":"是法住法位者。",
+    "folio":1,
+    "stemmed":"是 法 住 法 位 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c10_9",
+    "original":"明法身者。",
+    "folio":1,
+    "stemmed":"明 法 身 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c10_15",
+    "original":"道前為法住。",
+    "folio":1,
+    "stemmed":"道 前 為 法 住  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c11_2",
+    "original":"在道復為法住。",
+    "folio":1,
+    "stemmed":"在 道 復 為 法 住  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c11_10",
+    "original":"時滯生死為世間。",
+    "folio":1,
+    "stemmed":"時 滯 生 死 為 世 間  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c12_1",
+    "original":"在法位時證涅槃常住。",
+    "folio":1,
+    "stemmed":"在 法 位 時 證 涅 槃 常 住  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c12_8",
+    "original":"於道場知己者。",
+    "folio":1,
+    "stemmed":"於 道 場 知 己 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c12_15",
+    "original":"明應身知法身。",
+    "folio":1,
+    "stemmed":"明 應 身 知 法 身  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c13_2",
+    "original":"道師方便說者。",
+    "folio":1,
+    "stemmed":"道 師 方 便 說 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c13_6",
+    "original":"是化身。",
+    "folio":1,
+    "stemmed":"是 化 身  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c13_15",
+    "original":"為眾生說法身　問。",
+    "folio":1,
+    "stemmed":"為 眾 生 說 法 身  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c14_11",
+    "original":"何故於三七日中思惟而不說法　答。",
+    "folio":1,
+    "stemmed":"何 故 於 三 七 日 中 思 惟 而 不 說 法  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c14_18",
+    "original":"先受三昧樂故。",
+    "folio":1,
+    "stemmed":"先 受 三 昧 樂 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c15_6",
+    "original":"梵王未來請故。",
+    "folio":1,
+    "stemmed":"梵 王 未 來 請 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c15_13",
+    "original":"眾生根未熟故。",
+    "folio":1,
+    "stemmed":"眾 生 根 未 熟 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c16_5",
+    "original":"所以於三七日中不說法。",
+    "folio":1,
+    "stemmed":"所 以 於 三 七 日 中 不 說 法  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c17_9",
+    "original":"譬喻品二十二條　問。",
+    "folio":1,
+    "stemmed":"譬 喻 品 二 十 二 條  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c18_7",
+    "original":"論說十種對治及十種無上名顯何義。",
+    "folio":1,
+    "stemmed":"論 說 十 種 對 治 及 十 種 無 上 名 顯 何 義  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c18_14",
+    "original":"并列其名　答。",
+    "folio":1,
+    "stemmed":"并 列 其 名  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c19_4",
+    "original":"十種對治顯破三義。",
+    "folio":1,
+    "stemmed":"十 種 對 治 顯 破 三 義  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c19_13",
+    "original":"十種無上顯明一義。",
+    "folio":1,
+    "stemmed":"十 種 無 上 顯 明 一 義  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c19_19",
+    "original":"十種對治者。",
+    "folio":1,
+    "stemmed":"十 種 對 治 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c20_5",
+    "original":"七喻三平等。",
+    "folio":1,
+    "stemmed":"七 喻 三 平 等  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c20_9",
+    "original":"七譬者。",
+    "folio":1,
+    "stemmed":"七 譬 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c20_14",
+    "original":"一火宅譬。",
+    "folio":1,
+    "stemmed":"一 火 宅 譬  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c20_19",
+    "original":"二窮子譬。",
+    "folio":1,
+    "stemmed":"二 窮 子 譬  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c21_3",
+    "original":"三藥草譬。",
+    "folio":1,
+    "stemmed":"三 藥 草 譬  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c21_8",
+    "original":"四化城譬。",
+    "folio":1,
+    "stemmed":"四 化 城 譬  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c21_13",
+    "original":"五繫珠譬。",
+    "folio":1,
+    "stemmed":"五 繫 珠 譬  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c21_18",
+    "original":"六髻珠譬。",
+    "folio":1,
+    "stemmed":"六 髻 珠 譬  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c21_23",
+    "original":"七醫師譬。",
+    "folio":1,
+    "stemmed":"七 醫 師 譬  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c22_3",
+    "original":"三平等者。",
+    "folio":1,
+    "stemmed":"三 平 等 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c22_8",
+    "original":"一乘平等。",
+    "folio":1,
+    "stemmed":"一 乘 平 等  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c22_16",
+    "original":"二世間涅槃平等。",
+    "folio":1,
+    "stemmed":"二 世間涅槃平等  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c23_1",
+    "original":"三身平等。",
+    "folio":1,
+    "stemmed":"三 身 平 等  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c23_11",
+    "original":"七譬對治有煩惱人病。",
+    "folio":1,
+    "stemmed":"七 譬 對 治 有 煩 惱 人 病  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c24_5",
+    "original":"三平等對治無煩惱人顛倒信。",
+    "folio":1,
+    "stemmed":"三 平 等 對 治 無 煩 惱 人 顛 倒 信  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c24_15",
+    "original":"用此十對治破二十障。",
+    "folio":1,
+    "stemmed":"用 此 十 對 治 破 二 十 障  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c25_1",
+    "original":"十無上者。",
+    "folio":1,
+    "stemmed":"十 無 上 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c25_11",
+    "original":"一種子無上雲雨示現。",
+    "folio":1,
+    "stemmed":"一 種 子 無 上 雲 雨 示 現  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c26_6",
+    "original":"二修行無上大通智勝如來示現。",
+    "folio":1,
+    "stemmed":"二 修 行 無 上 大 通 智 勝 如 來 示 現  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c26_16",
+    "original":"三增上無上商譬示現。",
+    "folio":1,
+    "stemmed":"三 增 上 無 上 商 譬 示 現  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c27_7",
+    "original":"四解無上繫譬珠示現。",
+    "folio":1,
+    "stemmed":"四 解 無 上 繫 譬 珠 示 現  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c27_18",
+    "original":"五淨土無上寶塔品示現。",
+    "folio":1,
+    "stemmed":"五 淨 土 無 上 寶 塔 品 示 現  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c28_9",
+    "original":"六說無上解珠譬示現。",
+    "folio":1,
+    "stemmed":"六 說 無 上 解 珠 譬 示 現  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c29_3",
+    "original":"七教化力無上踊出品示現。",
+    "folio":1,
+    "stemmed":"七 教 化 力 無 上 踊 出 品 示 現  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0199c29_14",
+    "original":"八菩提無上壽量品示現。",
+    "folio":1,
+    "stemmed":"八 菩 提 無 上 壽 量 品 示 現  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a01_6",
+    "original":"九涅槃無上醫師譬示現。",
+    "folio":1,
+    "stemmed":"九 涅 槃 無 上 醫 師 譬 示 現  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a02_2",
+    "original":"十勝妙力無上餘殘修多羅示現。",
+    "folio":1,
+    "stemmed":"十 勝 妙 力 無 上 餘 殘 修 多 羅 示 現  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a02_13",
+    "original":"用此十種顯菩薩道　問。",
+    "folio":1,
+    "stemmed":"用 此 十 種 顯 菩 薩 道  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a03_3",
+    "original":"國邑聚落有大長者。",
+    "folio":1,
+    "stemmed":"國 邑 聚 落 有 大 長 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a03_11",
+    "original":"國邑聚洛譬何法。",
+    "folio":1,
+    "stemmed":"國 邑 聚 洛 譬 何 法  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a04_2",
+    "original":"有大長者譬何人　答。",
+    "folio":1,
+    "stemmed":"有 大 長 者 譬 何 人  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a04_11",
+    "original":"國邑聚洛譬如□境。",
+    "folio":1,
+    "stemmed":"國 邑 聚 洛 譬 如  境  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a05_1",
+    "original":"有大長者譬如來身。",
+    "folio":1,
+    "stemmed":"有 大 長 者 譬 如 來 身  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a05_12",
+    "original":"國為大處譬如來智慧境。",
+    "folio":1,
+    "stemmed":"國 為 大 處 譬 如來智慧 境  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a06_2",
+    "original":"以一切世界為境故。",
+    "folio":1,
+    "stemmed":"以 一切世界 為 境 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a06_13",
+    "original":"邑為中處譬如來神通境。",
+    "folio":1,
+    "stemmed":"邑 為 中 處 譬 如 來 神 通 境  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a07_4",
+    "original":"以十億三千界為境故。",
+    "folio":1,
+    "stemmed":"以 十 億 三 千 界 為 境 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a07_16",
+    "original":"聚落為小處譬如來說法境。",
+    "folio":1,
+    "stemmed":"聚 落 為 小 處 譬 如 來 說 法 境  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a08_9",
+    "original":"以三千大千世界為境　問。",
+    "folio":1,
+    "stemmed":"以 三千大千世界 為 境  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a09_2",
+    "original":"長者見是大火從四面起。",
+    "folio":1,
+    "stemmed":"長 者 見 是 大 火 從 四 面 起  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a09_8",
+    "original":"大火譬何法。",
+    "folio":1,
+    "stemmed":"大 火 譬 何 法  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a09_16",
+    "original":"四面譬何法　答。",
+    "folio":1,
+    "stemmed":"四 面 譬 何 法  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a10_2",
+    "original":"大火譬苦體。",
+    "folio":1,
+    "stemmed":"大 火 譬 苦 體  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a10_8",
+    "original":"謂苦苦壞苦。",
+    "folio":1,
+    "stemmed":"謂 苦 苦 壞 苦  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a10_14",
+    "original":"四面譬苦具。",
+    "folio":1,
+    "stemmed":"四 面 譬 苦 具  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a11_1",
+    "original":"謂生老病死。",
+    "folio":1,
+    "stemmed":"謂 生老病死  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a11_15",
+    "original":"如來以他心智知眾生三苦之火。",
+    "folio":1,
+    "stemmed":"如 來 以 他 心 智 知 眾 生 三 苦 之 火  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a12_5",
+    "original":"從生老病死而發故。",
+    "folio":1,
+    "stemmed":"從 生老病死 而 發 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a12_11",
+    "original":"言從四面起。",
+    "folio":1,
+    "stemmed":"言 從 四 面 起  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a12_16",
+    "original":"生為東面。",
+    "folio":1,
+    "stemmed":"生 為 東 面  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a13_2",
+    "original":"老為南面。",
+    "folio":1,
+    "stemmed":"老 為 南 面  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a13_7",
+    "original":"病為西面。",
+    "folio":1,
+    "stemmed":"病 為 西 面  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a13_14",
+    "original":"死為北面　問。",
+    "folio":1,
+    "stemmed":"死 為 北 面  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a14_14",
+    "original":"譬如長者有一火宅譬何法復以何法為體　答。",
+    "folio":1,
+    "stemmed":"譬 如 長 者 有 一 火 宅 譬 何 法 復 以 何 法 為 體  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a15_3",
+    "original":"火宅譬於三界。",
+    "folio":1,
+    "stemmed":"火 宅 譬 於 三 界  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a15_13",
+    "original":"以眾以眾生本識為體。",
+    "folio":1,
+    "stemmed":"以 眾 以 眾 生 本 識 為 體  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a16_4",
+    "original":"本體者籠括空有網羅。",
+    "folio":1,
+    "stemmed":"本 體 者 籠 括 空 有 網 羅  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a17_4",
+    "original":"天地攝摶色根含藏識種時歷三僧祇位階。",
+    "folio":1,
+    "stemmed":"天 地 攝 摶 色 根 含 藏 識 種 時 歷 三 僧 祇 位 階  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a17_17",
+    "original":"五十聚悠悠長道故謂之火宅。",
+    "folio":1,
+    "stemmed":"五 十 聚 悠 悠 長 道 故 謂 之 火 宅  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a18_8",
+    "original":"舊翻阿賴耶識為家識。",
+    "folio":1,
+    "stemmed":"舊 翻 阿賴耶識 為 家 識  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a18_17",
+    "original":"斯火宅之馳也　問。",
+    "folio":1,
+    "stemmed":"斯 火 宅 之 馳 也  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a19_13",
+    "original":"何故火宅唯有一門而復狹小　答。",
+    "folio":1,
+    "stemmed":"何 故 火 宅 唯 有 一 門 而 復 狹 小  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a20_4",
+    "original":"唯一佛教能背火宅。",
+    "folio":1,
+    "stemmed":"唯 一 佛 教 能 背 火 宅  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a20_18",
+    "original":"諸外道教不能出故曰唯有一門。",
+    "folio":1,
+    "stemmed":"諸 外 道 教 不 能 出 故 曰 唯 有 一 門  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a22_1",
+    "original":"小乘教中不人人小乘闊度眾生所以言狹小。",
+    "folio":1,
+    "stemmed":"小 乘 教 中 不 人 人 小 乘 闊 度 眾 生 所 以 言 狹 小  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a22_9",
+    "original":"今小乘求大菩提。",
+    "folio":1,
+    "stemmed":"今 小 乘 求大菩提  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a22_14",
+    "original":"何以言小。",
+    "folio":1,
+    "stemmed":"何 以 言 小  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a24_3",
+    "original":"然則大能權小所以菩薩從中而出不心怖大所以二乘不問大門。",
+    "folio":1,
+    "stemmed":"然 則 大 能 權 小 所 以 菩 薩 從 中 而 出 不 心 怖 大 所 以 二 乘 不 問 大 門  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a24_17",
+    "original":"而以是故窮子門側則悔來至此。",
+    "folio":1,
+    "stemmed":"而 以 是 故 窮 子 門 側 則 悔 來 至 此  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a25_10",
+    "original":"長者放命便則外走也　問。",
+    "folio":1,
+    "stemmed":"長 者 放 命 便 則 外 走 也  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a26_1",
+    "original":"是火宅中有五百人。",
+    "folio":1,
+    "stemmed":"是 火 宅 中 有 五 百 人  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a26_14",
+    "original":"人數何限獨以五百為數　答。",
+    "folio":1,
+    "stemmed":"人 數 何 限 獨 以 五 百 為 數  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a27_5",
+    "original":"五百人者喻五道種子。",
+    "folio":1,
+    "stemmed":"五 百 人 者 喻 五 道 種 子  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a27_16",
+    "original":"以十業為因以十使為緣。",
+    "folio":1,
+    "stemmed":"以 十 業 為 因 以 十 使 為 緣  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a28_7",
+    "original":"因一使發十使發百業。",
+    "folio":1,
+    "stemmed":"因 一 使 發 十 使 發 百 業  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a29_1",
+    "original":"一道有一百五道即五百故。",
+    "folio":1,
+    "stemmed":"一 道 有 一 百 五 道 即 五 百 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200a29_14",
+    "original":"以五百人譬五道種子也　問。",
+    "folio":1,
+    "stemmed":"以 五 百 人 譬 五 道 種 子 也  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b01_8",
+    "original":"當以衣裓若以机案從舍出之。",
+    "folio":1,
+    "stemmed":"當 以 衣 裓 若 以 机 案 從 舍 出 之  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b02_2",
+    "original":"衣裓机案各譬何法　答。",
+    "folio":1,
+    "stemmed":"衣 裓 机 案 各 譬 何 法  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b02_10",
+    "original":"衣裓譬甚深禪定。",
+    "folio":1,
+    "stemmed":"衣 裓 譬 甚 深 禪 定  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b02_18",
+    "original":"机案譬平等大惠。",
+    "folio":1,
+    "stemmed":"机 案 譬 平 等 大 惠  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b03_7",
+    "original":"禪定能起三十二相。",
+    "folio":1,
+    "stemmed":"禪 定 能 起 三十二相  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b04_1",
+    "original":"令物至信大惠能說力所畏。",
+    "folio":1,
+    "stemmed":"令 物 至 信 大 惠 能 說 力 所 畏  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b04_6",
+    "original":"今物生智。",
+    "folio":1,
+    "stemmed":"今 物 生 智  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b04_17",
+    "original":"以此二用從舍出之　問。",
+    "folio":1,
+    "stemmed":"以 此 二 用 從 舍 出 之  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b05_12",
+    "original":"云何名為東西走戲視父而已　答。",
+    "folio":1,
+    "stemmed":"云 何 名 為 東 西 走 戲 視 父 而 已  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b05_18",
+    "original":"東方為苦諦。",
+    "folio":1,
+    "stemmed":"東 方 為 苦 諦  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b06_5",
+    "original":"西方為集諦。",
+    "folio":1,
+    "stemmed":"西 方 為 集 諦  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b06_11",
+    "original":"北方為滅諦。",
+    "folio":1,
+    "stemmed":"北 方 為 滅 諦  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b06_17",
+    "original":"南方為道諦。",
+    "folio":1,
+    "stemmed":"南 方 為 道 諦  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b07_7",
+    "original":"子證苦即是走戲東西。",
+    "folio":1,
+    "stemmed":"子 證 苦 即 是 走 戲 東 西  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b07_18",
+    "original":"父證滅道即是往還南北。",
+    "folio":1,
+    "stemmed":"父 證 滅 道 即 是 往 還 南 北  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b08_4",
+    "original":"東能隨逐。",
+    "folio":1,
+    "stemmed":"東 能 隨 逐  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b08_11",
+    "original":"但可顧瞻而已。",
+    "folio":1,
+    "stemmed":"但 可 顧 瞻 而 已  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b08_16",
+    "original":"雖未隨父。",
+    "folio":1,
+    "stemmed":"雖 未 隨 父  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b09_9",
+    "original":"終有會化之期故言視父　問。",
+    "folio":1,
+    "stemmed":"終 有 會 化 之 期 故 言 視 父  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b10_6",
+    "original":"云何名皆四衢道中露地而坐　答。",
+    "folio":1,
+    "stemmed":"云 何 名 皆 四 衢 道 中 露 地 而 坐  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b10_11",
+    "original":"四衢道中。",
+    "folio":1,
+    "stemmed":"四 衢 道 中  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b11_13",
+    "original":"謂四諦心見中學地有障可言覆無學障盡故言路。",
+    "folio":1,
+    "stemmed":"謂 四 諦 心 見 中 學 地 有 障 可 言 覆 無 學 障 盡 故 言 路  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b12_6",
+    "original":"所作已辦故言而坐　問。",
+    "folio":1,
+    "stemmed":"所 作 已 辦 故 言 而 坐  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b12_17",
+    "original":"門外三車譬於何法　答。",
+    "folio":1,
+    "stemmed":"門 外 三 車 譬 於 何 法  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b13_2",
+    "original":"譬三乘。",
+    "folio":1,
+    "stemmed":"譬 三 乘  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b13_7",
+    "original":"羊車譬小。",
+    "folio":1,
+    "stemmed":"羊 車 譬 小  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b13_13",
+    "original":"鹿車譬中乘。",
+    "folio":1,
+    "stemmed":"鹿 車 譬 中 乘  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b13_19",
+    "original":"牛車譬大乘。",
+    "folio":1,
+    "stemmed":"牛 車 譬 大 乘  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b14_11",
+    "original":"羊形小而力小故譬聲聞小乘。",
+    "folio":1,
+    "stemmed":"羊 形 小 而 力 小 故 譬 聲 聞 小 乘  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b15_6",
+    "original":"鹿形中而力中故譬緣覺中乘。",
+    "folio":1,
+    "stemmed":"鹿 形 中 而 力 中 故 譬 緣 覺 中 乘  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b16_2",
+    "original":"牛形大而力大故譬菩薩乘　問。",
+    "folio":1,
+    "stemmed":"牛 形 大 而 力 大 故 譬 菩 薩 乘  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b16_7",
+    "original":"三車譬智。",
+    "folio":1,
+    "stemmed":"三 車 譬 智  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b16_15",
+    "original":"化城譬何意　答。",
+    "folio":1,
+    "stemmed":"化 城 譬 何 意  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b17_6",
+    "original":"車是遊戲之具故以譬智。",
+    "folio":1,
+    "stemmed":"車 是 遊 戲 之 具 故 以 譬 智  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b17_18",
+    "original":"城是息疲之所故譬斷　問。",
+    "folio":1,
+    "stemmed":"城 是 息 疲 之 所 故 譬 斷  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b19_6",
+    "original":"設車以誘諸子言不其開問以出諸子言一不言三何也　答。",
+    "folio":1,
+    "stemmed":"設 車 以 誘 諸 子 言 不 其 開 問 以 出 諸 子 言 一 不 言 三 何 也  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b20_2",
+    "original":"問可貴賤同行所以言一不言三。",
+    "folio":1,
+    "stemmed":"問 可 貴 賤 同 行 所 以 言 一 不 言 三  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b20_18",
+    "original":"車則尊卑別載所以言二不言一　問。",
+    "folio":1,
+    "stemmed":"車 則 尊 卑 別 載 所 以 言 二 不 言 一  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b22_4",
+    "original":"何故門外引子智以三車道中自子而以一城何也　答。",
+    "folio":1,
+    "stemmed":"何 故 門 外 引 子 智 以 三 車 道 中 自 子 而 以 一 城 何 也  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b22_11",
+    "original":"車是獨載之物。",
+    "folio":1,
+    "stemmed":"車 是 獨 載 之 物  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b22_19",
+    "original":"是故言三以外引。",
+    "folio":1,
+    "stemmed":"是 故 言 三 以 外 引  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b23_14",
+    "original":"城是眾苦之所是故言以總入　問。",
+    "folio":1,
+    "stemmed":"城 是 眾 苦 之 所 是 故 言 以 總 入  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b24_9",
+    "original":"諸子出於門外不見車而索車。",
+    "folio":1,
+    "stemmed":"諸 子 出 於 門 外 不 見 車 而 索 車  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b25_7",
+    "original":"諸子苦於道中不見城何故不索　答。",
+    "folio":1,
+    "stemmed":"諸 子 苦 於 道 中 不 見 城 何 故 不 索  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b25_17",
+    "original":"車為虛指令取之不得。",
+    "folio":1,
+    "stemmed":"車 為 虛 指 令 取 之 不 得  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b26_3",
+    "original":"是以索之。",
+    "folio":1,
+    "stemmed":"是 以 索 之  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b26_17",
+    "original":"城為實化入入即是得何須索之。",
+    "folio":1,
+    "stemmed":"城 為 實 化 入 入 即 是 得 何 須 索 之  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b28_2",
+    "original":"說引息有霑實雨用以門外有索道中不索　問。",
+    "folio":1,
+    "stemmed":"說 引 息 有 霑 實 雨 用 以 門 外 有 索 道 中 不 索  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b28_17",
+    "original":"何故火宅之中乃言諸子爭出火宅。",
+    "folio":1,
+    "stemmed":"何 故 火 宅 之 中 乃 言 諸 子 爭 出 火 宅  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200b29_11",
+    "original":"化城中乃言眾人前入化城　答。",
+    "folio":1,
+    "stemmed":"化 城 中 乃 言 眾 人 前 入 化 城  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c01_4",
+    "original":"諸子在家以生死為火宅。",
+    "folio":1,
+    "stemmed":"諸 子 在 家 以 生 死 為 火 宅  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c01_9",
+    "original":"由求離故。",
+    "folio":1,
+    "stemmed":"由 求 離 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c01_14",
+    "original":"何以爭出。",
+    "folio":1,
+    "stemmed":"何 以 爭 出  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c02_5",
+    "original":"眾人苦道以涅槃為化城。",
+    "folio":1,
+    "stemmed":"眾 人 苦 道 以 涅 槃 為 化 城  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c02_17",
+    "original":"由求諸故所以言前入　問。",
+    "folio":1,
+    "stemmed":"由 求 諸 故 所 以 言 前 入  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c03_9",
+    "original":"火宅中何故言汝等出來。",
+    "folio":1,
+    "stemmed":"火 宅 中 何 故 言 汝 等 出 來  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c04_4",
+    "original":"化城中何故言汝等去來　答。",
+    "folio":1,
+    "stemmed":"化 城 中 何 故 言 汝 等 去 來  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c04_12",
+    "original":"火宅是舊苦之處。",
+    "folio":1,
+    "stemmed":"火 宅 是 舊 苦 之 處  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c05_4",
+    "original":"前說未有出故喚言出來。",
+    "folio":1,
+    "stemmed":"前 說 未 有 出 故 喚 言 出 來  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c05_12",
+    "original":"化城是中息之所。",
+    "folio":1,
+    "stemmed":"化 城 是 中 息 之 所  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c06_4",
+    "original":"說息己故喚言去來　問。",
+    "folio":1,
+    "stemmed":"說 息 己 故 喚 言 去 來  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c07_4",
+    "original":"云何名互相推排競共馳走爭出火宅　答。",
+    "folio":1,
+    "stemmed":"云 何 名 互 相 推 排 競 共 馳 走 爭 出 火 宅  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c07_14",
+    "original":"互相推排者為所狹小。",
+    "folio":1,
+    "stemmed":"互 相 推 排 者 為 所 狹 小  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c08_1",
+    "original":"競共馳走者。",
+    "folio":1,
+    "stemmed":"競 共 馳 走 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c08_8",
+    "original":"譬登八正之路。",
+    "folio":1,
+    "stemmed":"譬 登 八 正 之 路  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c08_14",
+    "original":"爭出火宅者。",
+    "folio":1,
+    "stemmed":"爭 出 火 宅 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c09_2",
+    "original":"譬免五痛之災。",
+    "folio":1,
+    "stemmed":"譬 免 五 痛 之 災  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c09_15",
+    "original":"五痛者破五戒得五燒為五痛。",
+    "folio":1,
+    "stemmed":"五 痛 者 破 五 戒 得 五 燒 為 五 痛  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c10_4",
+    "original":"出無量壽經　問。",
+    "folio":1,
+    "stemmed":"出 無 量 壽 經  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c11_2",
+    "original":"云何名等一大車復駕以白牛　答。",
+    "folio":1,
+    "stemmed":"云 何 名 等 一 大 車 復 駕 以 白 牛  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c11_10",
+    "original":"以一切智為大車。",
+    "folio":1,
+    "stemmed":"以 一 切 智 為 大 車  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c11_16",
+    "original":"駕以白牛者。",
+    "folio":1,
+    "stemmed":"駕 以 白 牛 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c12_2",
+    "original":"以大悲為白牛。",
+    "folio":1,
+    "stemmed":"以 大 悲 為 白 牛  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c12_9",
+    "original":"車以運載為義。",
+    "folio":1,
+    "stemmed":"車 以 運 載 為 義  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c13_7",
+    "original":"悲拔苦為能非智運拔眾生如牛引物故。",
+    "folio":1,
+    "stemmed":"悲 拔 苦 為 能 非 智 運 拔 眾 生 如 牛 引 物 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c13_11",
+    "original":"涅槃云。",
+    "folio":1,
+    "stemmed":"涅 槃 云  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c14_3",
+    "original":"是故稱佛為大非牛　問。",
+    "folio":1,
+    "stemmed":"是 故 稱 佛 為 大 非 牛  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c15_2",
+    "original":"云名故名物貪麁弊色聲香味觸　答。",
+    "folio":1,
+    "stemmed":"云 名 故 名 物 貪 麁 弊 色聲香味觸  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c15_14",
+    "original":"色聲香味觸是五言言界故。",
+    "folio":1,
+    "stemmed":"色聲香味觸 是 五 言 言 界 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c16_4",
+    "original":"言麁污人稱弊也　問。",
+    "folio":1,
+    "stemmed":"言 麁 污 人 稱 弊 也  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c16_13",
+    "original":"長者門內許子三車。",
+    "folio":1,
+    "stemmed":"長 者 門 內 許 子 三 車  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c17_1",
+    "original":"而門外與一車。",
+    "folio":1,
+    "stemmed":"而 門 外 與 一 車  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c17_9",
+    "original":"於三則許當不與。",
+    "folio":1,
+    "stemmed":"於 三 則 許 當 不 與  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c17_17",
+    "original":"於一則與而不許。",
+    "folio":1,
+    "stemmed":"於 一 則 與 而 不 許  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c18_7",
+    "original":"此非長者虛妄耶　答。",
+    "folio":1,
+    "stemmed":"此 非 長 者 虛 妄 耶  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c19_6",
+    "original":"長者全其軀命利益事實故非虛妄　問。",
+    "folio":1,
+    "stemmed":"長 者 全 其 軀 命 利 益 事 實 故 非 虛 妄  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c20_1",
+    "original":"經云如來利益一切人生三界。",
+    "folio":1,
+    "stemmed":"經 云 如 來 利 益 一 切 人 生 三 界  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c20_16",
+    "original":"未審五生中以何生生於三界　答。",
+    "folio":1,
+    "stemmed":"未 審 五 生 中 以 何 生 生 於 三 界  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c21_9",
+    "original":"五生中以最後生而生三界。",
+    "folio":1,
+    "stemmed":"五 生 中 以 最 後 生 而 生 三 界  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c21_13",
+    "original":"五生者。",
+    "folio":1,
+    "stemmed":"五 生 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c21_18",
+    "original":"一息苦生。",
+    "folio":1,
+    "stemmed":"一 息 苦 生  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c22_3",
+    "original":"二隨類生。",
+    "folio":1,
+    "stemmed":"二 隨 類 生  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c22_8",
+    "original":"三最勝生。",
+    "folio":1,
+    "stemmed":"三 最 勝 生  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c22_13",
+    "original":"四增上生。",
+    "folio":1,
+    "stemmed":"四 增 上 生  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c23_2",
+    "original":"五最後生　問。",
+    "folio":1,
+    "stemmed":"五 最 後 生  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c23_11",
+    "original":"經言火宅何法是宅。",
+    "folio":1,
+    "stemmed":"經 言 火 宅 何 法 是 宅  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c23_18",
+    "original":"何法是火　答。",
+    "folio":1,
+    "stemmed":"何 法 是 火  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c24_2",
+    "original":"三界為宅。",
+    "folio":1,
+    "stemmed":"三 界 為 宅  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c24_7",
+    "original":"三苦為火。",
+    "folio":1,
+    "stemmed":"三 苦 為 火  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c24_15",
+    "original":"苦受以苦苦為火。",
+    "folio":1,
+    "stemmed":"苦 受 以 苦 苦 為 火  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c25_3",
+    "original":"樂受以壞苦為火。",
+    "folio":1,
+    "stemmed":"樂 受 以 壞 苦 為 火  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c25_11",
+    "original":"捨受以行苦為火。",
+    "folio":1,
+    "stemmed":"捨 受 以 行 苦 為 火  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c25_17",
+    "original":"欲界具三火。",
+    "folio":1,
+    "stemmed":"欲 界 具 三 火  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c26_5",
+    "original":"無色界具一火。",
+    "folio":1,
+    "stemmed":"無 色 界 具 一 火  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c26_12",
+    "original":"是故火名火宅。",
+    "folio":1,
+    "stemmed":"是 故 火 名 火 宅  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c27_7",
+    "original":"信解品三條　問。",
+    "folio":1,
+    "stemmed":"信 解 品 三 條  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c27_14",
+    "original":"窮子五十餘年。",
+    "folio":1,
+    "stemmed":"窮 子 五 十 餘 年  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c28_9",
+    "original":"何名五十年後得一日之價　答。",
+    "folio":1,
+    "stemmed":"何 名 五 十 年 後 得 一 日 之 價  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c29_3",
+    "original":"以五十二賢聖為五十餘年。",
+    "folio":1,
+    "stemmed":"以 五 十 二 賢 聖 為 五 十 餘 年  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0200c29_17",
+    "original":"所謂十信十解十行十迴向十地。",
+    "folio":1,
+    "stemmed":"所 謂 十 信 十 解 十 行 十 迴 向 十 地  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201a01_3",
+    "original":"是名五十。",
+    "folio":1,
+    "stemmed":"是 名 五 十  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201a01_14",
+    "original":"菩薩等覺二位名日餘年。",
+    "folio":1,
+    "stemmed":"菩 薩 等 覺 二 位 名 日 餘 年  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201a02_8",
+    "original":"小乘示得涅槃故云一日之價。",
+    "folio":1,
+    "stemmed":"小 乘 示 得 涅 槃 故 云 一 日 之 價  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201a03_8",
+    "original":"藥草喻品一條　問。",
+    "folio":1,
+    "stemmed":"藥 草 喻 品 一 條  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201a04_2",
+    "original":"三草二木各喻何人　答。",
+    "folio":1,
+    "stemmed":"三 草 二 木 各 喻 何 人  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201a04_8",
+    "original":"小草喻凡夫。",
+    "folio":1,
+    "stemmed":"小 草 喻 凡 夫  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201a04_14",
+    "original":"中草喻二乘。",
+    "folio":1,
+    "stemmed":"中 草 喻 二 乘  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201a05_1",
+    "original":"大草喻地前菩薩。",
+    "folio":1,
+    "stemmed":"大 草 喻 地 前 菩 薩  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201a05_10",
+    "original":"大木喻後三地菩薩。",
+    "folio":1,
+    "stemmed":"大 木 喻 後 三 地 菩 薩  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201a06_2",
+    "original":"小木喻初地至七地菩薩。",
+    "folio":1,
+    "stemmed":"小 木 喻 初 地 至 七 地 菩 薩  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201a06_13",
+    "original":"是名三草二木所譬之人。",
+    "folio":1,
+    "stemmed":"是 名 三 草 二 木 所 譬 之 人  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201a07_7",
+    "original":"授記品二條　問。",
+    "folio":1,
+    "stemmed":"授 記 品 二 條  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201a07_15",
+    "original":"聲聞有幾種授記。",
+    "folio":1,
+    "stemmed":"聲 聞 有 幾 種 授 記  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201a08_5",
+    "original":"何者聲聞作佛　答。",
+    "folio":1,
+    "stemmed":"何 者 聲 聞 作 佛  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201a08_15",
+    "original":"授應化聲聞退菩提心。",
+    "folio":1,
+    "stemmed":"授 應 化 聲 聞 退 菩 提 心  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201a09_5",
+    "original":"聲聞作佛以根熟故。",
+    "folio":1,
+    "stemmed":"聲 聞 作 佛 以 根 熟 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201a10_6",
+    "original":"決定性及增上慢不授作佛以根未熟故　問。",
+    "folio":1,
+    "stemmed":"決 定 性 及 增 上 慢 不 授 作 佛 以 根 未 熟 故  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201a11_4",
+    "original":"若前後二俱授記作佛可使破二明一。",
+    "folio":1,
+    "stemmed":"若 前 後 二 俱 授 記 作 佛 可 使 破 二 明 一  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201a12_2",
+    "original":"後既不授作佛應非破二明一　答。",
+    "folio":1,
+    "stemmed":"後 既 不 授 作 佛 應 非 破 二 明 一  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201a12_12",
+    "original":"授通授記故四種皆破。",
+    "folio":1,
+    "stemmed":"授 通 授 記 故 四 種 皆 破  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201a13_3",
+    "original":"據外授記故兩不記　問。",
+    "folio":1,
+    "stemmed":"據 外 授 記 故 兩 不 記  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201a13_12",
+    "original":"菩薩發心理應進發。",
+    "folio":1,
+    "stemmed":"菩 薩 發 心 理 應 進 發  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201a14_2",
+    "original":"有何障礙退作聲聞。",
+    "folio":1,
+    "stemmed":"有 何 障 礙 退 作 聲 聞  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201a14_13",
+    "original":"假顯退由示其性弱　答。",
+    "folio":1,
+    "stemmed":"假 顯 退 由 示 其 性 弱  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201a15_16",
+    "original":"此至本發大心希大果中間須行八萬四千波羅蜜行。",
+    "folio":1,
+    "stemmed":"此 至 本 發 大 心 希 大 果 中 間 須 行 八萬四千 波 羅 蜜 行  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201a16_7",
+    "original":"後經三大阿僧祇時。",
+    "folio":1,
+    "stemmed":"後 經 三 大 阿 僧 祇 時  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201a17_4",
+    "original":"雖言鼓玄掉於法流怯長波而自息。",
+    "folio":1,
+    "stemmed":"雖 言 鼓 玄 掉 於 法 流 怯 長 波 而 自 息  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201a17_13",
+    "original":"由是菩薩退作聲聞。",
+    "folio":1,
+    "stemmed":"由 是 菩 薩 退 作 聲 聞  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201a18_11",
+    "original":"故上文言佛道長遠久受勤者乃可得成。",
+    "folio":1,
+    "stemmed":"故 上 文 言 佛 道 長 遠 久 受 勤 者 乃 可 得 成  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201a18_16",
+    "original":"我等疲極。",
+    "folio":1,
+    "stemmed":"我 等 疲 極  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201a19_6",
+    "original":"今言退還即自證也。",
+    "folio":1,
+    "stemmed":"今 言 退 還 即 自 證 也  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201a20_8",
+    "original":"化城喻品一條　問。",
+    "folio":1,
+    "stemmed":"化 城 喻 品 一 條  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201a21_1",
+    "original":"如來初立作城引接何人。",
+    "folio":1,
+    "stemmed":"如 來 初 立 作 城 引 接 何 人  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201a21_10",
+    "original":"後滅引接何人　答。",
+    "folio":1,
+    "stemmed":"後 滅 引 接 何 人  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201a21_18",
+    "original":"為引凡夫至聖故。",
+    "folio":1,
+    "stemmed":"為 引 凡 夫 至 聖 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201a22_4",
+    "original":"立作城為喻。",
+    "folio":1,
+    "stemmed":"立 作 城 為 喻  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201a23_2",
+    "original":"小乘入大乘故滅為作滅作差別　問。",
+    "folio":1,
+    "stemmed":"小 乘 入 大 乘 故 滅 為 作 滅 作 差 別  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201a23_11",
+    "original":"兵將破敵應酬重賞。",
+    "folio":1,
+    "stemmed":"兵 將 破 敵 應 酬 重 賞  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201a24_3",
+    "original":"何故不解明珠乃賜田宅。",
+    "folio":1,
+    "stemmed":"何 故 不 解 明 珠 乃 賜 田 宅  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201a25_8",
+    "original":"為是輪王有燒為是將士動一輕仰頓所由使無監　答。",
+    "folio":1,
+    "stemmed":"為 是 輪 王 有 燒 為 是 將 士 動 一 輕 仰 頓 所 由 使 無 監  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201a26_3",
+    "original":"王心神珠價重唱賞不伐之勳。",
+    "folio":1,
+    "stemmed":"王 心 神 珠 價 重 唱 賞 不 伐 之 勳  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201a26_15",
+    "original":"佛以妙法經擬被罰群之力。",
+    "folio":1,
+    "stemmed":"佛 以 妙 法 經 擬 被 罰 群 之 力  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201a27_9",
+    "original":"若使勳輕賞重眷屬必致驚嗟。",
+    "folio":1,
+    "stemmed":"若 使 勳 輕 賞 重 眷 屬 必 致 驚 嗟  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201a27_14",
+    "original":"法大機小。",
+    "folio":1,
+    "stemmed":"法 大 機 小  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201a28_12",
+    "original":"菩薩能無怪或所以未解明珠且賜田宅。",
+    "folio":1,
+    "stemmed":"菩 薩 能 無 怪 或 所 以 未 解 明 珠 且 賜 田 宅  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201a29_7",
+    "original":"壽量品一條　問。",
+    "folio":1,
+    "stemmed":"壽 量 品 一 條  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b01_1",
+    "original":"時我及眾僧俱出靈鷲山者。",
+    "folio":1,
+    "stemmed":"時 我 及 眾 僧 俱 出 靈 鷲 山 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b01_10",
+    "original":"為是報佛為是應佛。",
+    "folio":1,
+    "stemmed":"為 是 報 佛 為 是 應 佛  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b02_4",
+    "original":"若是報佛靈鷲山即是應報土。",
+    "folio":1,
+    "stemmed":"若 是 報 佛 靈 鷲 山 即 是 應 報 土  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b03_2",
+    "original":"若是應佛不應道常在靈鷲山　答。",
+    "folio":1,
+    "stemmed":"若 是 應 佛 不 應 道 常 在 靈 鷲 山  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b03_13",
+    "original":"實是報佛故常在靈鷲山。",
+    "folio":1,
+    "stemmed":"實 是 報 佛 故 常 在 靈 鷲 山  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b04_4",
+    "original":"由現應相故現有滅不滅。",
+    "folio":1,
+    "stemmed":"由 現 應 相 故 現 有 滅 不 滅  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b04_9",
+    "original":"靈鷲山者。",
+    "folio":1,
+    "stemmed":"靈 鷲 山 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b05_5",
+    "original":"約體即法性之山鷲應說是靈鷲山故。",
+    "folio":1,
+    "stemmed":"約 體 即 法 性 之 山 鷲 應 說 是 靈 鷲 山 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b05_18",
+    "original":"論云如來淨土即第一義諦攝。",
+    "folio":1,
+    "stemmed":"論 云 如 來 淨 土 即 第一義諦 攝  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b06_9",
+    "original":"法師功德品一條　問。",
+    "folio":1,
+    "stemmed":"法 師 功 德 品 一 條  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b06_18",
+    "original":"持經人得幾種功德。",
+    "folio":1,
+    "stemmed":"持 經 人 得 幾 種 功 德  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b07_4",
+    "original":"仰顯其數。",
+    "folio":1,
+    "stemmed":"仰 顯 其 數  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b07_11",
+    "original":"又得六根清淨。",
+    "folio":1,
+    "stemmed":"又 得 六 根 清 淨  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b08_4",
+    "original":"何故功德多少不同者　答。",
+    "folio":1,
+    "stemmed":"何 故 功 德 多 少 不 同 者  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b08_14",
+    "original":"六根淨土令得千功德。",
+    "folio":1,
+    "stemmed":"六 根 淨 土 令 得 千 功 德  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b08_18",
+    "original":"顯數者。",
+    "folio":1,
+    "stemmed":"顯 數 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b09_4",
+    "original":"以十善為本。",
+    "folio":1,
+    "stemmed":"以 十 善 為 本  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b09_14",
+    "original":"一善以九善助成十善。",
+    "folio":1,
+    "stemmed":"一 善 以 九 善 助 成 十 善  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b10_2",
+    "original":"各九即九十善。",
+    "folio":1,
+    "stemmed":"各 九 即 九 十 善  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b10_11",
+    "original":"通其本十即為一百。",
+    "folio":1,
+    "stemmed":"通 其 本 十 即 為 一 百  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b10_18",
+    "original":"自持經得一百。",
+    "folio":1,
+    "stemmed":"自 持 經 得 一 百  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b11_6",
+    "original":"勸人持經得一百。",
+    "folio":1,
+    "stemmed":"勸 人 持 經 得 一 百  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b12_3",
+    "original":"自勸人讚嘆持經人得一百成四百。",
+    "folio":1,
+    "stemmed":"自 勸 人 讚 嘆 持 經 人 得 一 百 成 四 百  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b12_15",
+    "original":"即此此十善從心所生生善。",
+    "folio":1,
+    "stemmed":"即 此 此 十 善 從 心 所 生 生 善  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b13_4",
+    "original":"三心有其三品。",
+    "folio":1,
+    "stemmed":"三 心 有 其 三 品  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b13_9",
+    "original":"謂上中下。",
+    "folio":1,
+    "stemmed":"謂 上 中 下  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b13_14",
+    "original":"以經力故。",
+    "folio":1,
+    "stemmed":"以 經 力 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b14_2",
+    "original":"上品心中得四百。",
+    "folio":1,
+    "stemmed":"上 品 心 中 得 四 百  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b14_10",
+    "original":"中品心中得四百。",
+    "folio":1,
+    "stemmed":"中 品 心 中 得 四 百  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b14_19",
+    "original":"下品心中並得四百。",
+    "folio":1,
+    "stemmed":"下 品 心 中 並 得 四 百  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b15_10",
+    "original":"合三令成一千二百功德。",
+    "folio":1,
+    "stemmed":"合 三 令 成 一 千 二 百 功 德  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b15_16",
+    "original":"眼鼻身三根。",
+    "folio":1,
+    "stemmed":"眼 鼻 身 三 根  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b16_5",
+    "original":"以持經功用劣故。",
+    "folio":1,
+    "stemmed":"以 持 經 功 用 劣 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b16_11",
+    "original":"唯得中下品。",
+    "folio":1,
+    "stemmed":"唯 得 中 下 品  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b16_18",
+    "original":"各得八百功德。",
+    "folio":1,
+    "stemmed":"各 得 八 百 功 德  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b17_9",
+    "original":"三八二十四即二千四百。",
+    "folio":1,
+    "stemmed":"三 八 二 十 四 即 二 千 四 百  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b17_15",
+    "original":"耳舌意三根。",
+    "folio":1,
+    "stemmed":"耳 舌 意 三 根  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b18_5",
+    "original":"以持經功德能勝故。",
+    "folio":1,
+    "stemmed":"以 持 經 功 德 能 勝 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b18_15",
+    "original":"得具三品心別各四百。",
+    "folio":1,
+    "stemmed":"得 具 三 品 心 別 各 四 百  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b19_3",
+    "original":"一根一千二百。",
+    "folio":1,
+    "stemmed":"一 根 一 千 二 百  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b19_11",
+    "original":"三根三千六百帖。",
+    "folio":1,
+    "stemmed":"三 根 三 千 六 百 帖  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b20_6",
+    "original":"前二千四百合成六千功德　問。",
+    "folio":1,
+    "stemmed":"前 二 千 四 百 合 成 六 千 功 德  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b21_12",
+    "original":"經云種種諸瓔珞無能識其價聞香智貴賤出處及所在者。",
+    "folio":1,
+    "stemmed":"經 云 種 種 諸 瓔 珞 無 能 識 其 價 聞 香 智 貴 賤 出 處 及 所 在 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b22_5",
+    "original":"此乃是鼻識所知應言臭。",
+    "folio":1,
+    "stemmed":"此 乃 是 鼻 識 所 知 應 言 臭  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b22_10",
+    "original":"何故言聞。",
+    "folio":1,
+    "stemmed":"何 故 言 聞  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b23_3",
+    "original":"未知所以假碓各并辯其人。",
+    "folio":1,
+    "stemmed":"未 知 所 以 假 碓 各 并 辯 其 人  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b23_16",
+    "original":"於何所任得此功德能也　答。",
+    "folio":1,
+    "stemmed":"於 何 所 任 得 此 功 德 能 也  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b24_6",
+    "original":"六根雖殊心識是一。",
+    "folio":1,
+    "stemmed":"六 根 雖 殊 心 識 是 一  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b24_13",
+    "original":"鼻雖受入分別。",
+    "folio":1,
+    "stemmed":"鼻 雖 受 入 分 別  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b25_2",
+    "original":"是以遙臭故義同。",
+    "folio":1,
+    "stemmed":"是 以 遙 臭 故 義 同  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b25_9",
+    "original":"於耳故言聞也。",
+    "folio":1,
+    "stemmed":"於 耳 故 言 聞 也  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b25_18",
+    "original":"何行位者四依法者。",
+    "folio":1,
+    "stemmed":"何 行 位 者 四 依 法 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b26_7",
+    "original":"若依經文即有五種。",
+    "folio":1,
+    "stemmed":"若 依 經 文 即 有 五 種  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b27_4",
+    "original":"法師受持讀誦解說書寫即通凡也。",
+    "folio":1,
+    "stemmed":"法 師 受持讀誦 解 說 書 寫 即 通 凡 也  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b27_10",
+    "original":"故法花論云。",
+    "folio":1,
+    "stemmed":"故 法 花 論 云  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b27_17",
+    "original":"此得六根清淨。",
+    "folio":1,
+    "stemmed":"此 得 六 根 清 淨  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b28_11",
+    "original":"謂凡夫人以經力故得勝根用。",
+    "folio":1,
+    "stemmed":"謂 凡 夫 人 以 經 力 故 得 勝 根 用  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b28_14",
+    "original":"又云。",
+    "folio":1,
+    "stemmed":"又 云  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b29_1",
+    "original":"諦根亦互用。",
+    "folio":1,
+    "stemmed":"諦 根 亦 互 用  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b29_8",
+    "original":"一一根中皆得。",
+    "folio":1,
+    "stemmed":"一 一 根 中 皆 得  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201b29_18",
+    "original":"乃色聞香別味覺觸故。",
+    "folio":1,
+    "stemmed":"乃 色 聞 香 別 味 覺 觸 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c02_5",
+    "original":"下文言雖未得菩薩無漏法生鼻而是持經者即其證也　問。",
+    "folio":1,
+    "stemmed":"下 文 言 雖 未 得 菩 薩 無 漏 法 生 鼻 而 是 持 經 者 即 其 證 也  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c02_15",
+    "original":"何名八萬四千波羅蜜。",
+    "folio":1,
+    "stemmed":"何 名 八萬四千 波 羅 蜜  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c03_3",
+    "original":"具數列名　答。",
+    "folio":1,
+    "stemmed":"具 數 列 名  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c03_18",
+    "original":"波羅蜜名西域梵音此翻名到彼岸。",
+    "folio":1,
+    "stemmed":"波 羅 蜜 名 西 域 梵 音 此 翻 名 到 彼 岸  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c04_14",
+    "original":"行此諸行過生死何登涅槃彼岸也。",
+    "folio":1,
+    "stemmed":"行 此 諸 行 過 生 死 何 登 涅 槃 彼 岸 也  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c04_18",
+    "original":"列數者。",
+    "folio":1,
+    "stemmed":"列 數 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c05_8",
+    "original":"佛具三百五度功德。",
+    "folio":1,
+    "stemmed":"佛 具 三 百 五 度 功 德  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c06_7",
+    "original":"始從放光乃至涅槃有三百五十度功德。",
+    "folio":1,
+    "stemmed":"始 從 放 光 乃至涅槃 有 三 百 五 十 度 功 德  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c07_1",
+    "original":"一一功德以六波羅蜜助成。",
+    "folio":1,
+    "stemmed":"一 一 功 德 以 六波羅蜜 助 成  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c07_8",
+    "original":"計當二千一百。",
+    "folio":1,
+    "stemmed":"計 當 二 千 一 百  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c07_11",
+    "original":"又云。",
+    "folio":1,
+    "stemmed":"又 云  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c08_1",
+    "original":"四大并六塵即為十。",
+    "folio":1,
+    "stemmed":"四 大 并 六 塵 即 為 十  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c08_9",
+    "original":"此各具二千一百。",
+    "folio":1,
+    "stemmed":"此 各 具 二 千 一 百  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c08_16",
+    "original":"計當二萬一千。",
+    "folio":1,
+    "stemmed":"計 當 二 萬 一 千  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c09_15",
+    "original":"得四四別二萬一千即八萬四千法門也　問。",
+    "folio":1,
+    "stemmed":"得 四 四 別 二 萬 一 千 即 八萬四千法門 也  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c10_8",
+    "original":"一百八煩惱何者是　答。",
+    "folio":1,
+    "stemmed":"一 百 八 煩 惱 何 者 是  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c10_15",
+    "original":"十使煩惱為本。",
+    "folio":1,
+    "stemmed":"十 使 煩 惱 為 本  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c11_1",
+    "original":"十使者。",
+    "folio":1,
+    "stemmed":"十 使 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c11_11",
+    "original":"貪瞋慢癡無明名鈍使。",
+    "folio":1,
+    "stemmed":"貪 瞋 慢 癡 無 明 名 鈍 使  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c12_8",
+    "original":"薩迦耶見邊見見取戒取邪見名利使。",
+    "folio":1,
+    "stemmed":"薩迦耶見 邊 見 見 取 戒 取 邪 見 名 利 使  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c12_16",
+    "original":"此十於三界四諦。",
+    "folio":1,
+    "stemmed":"此 十 於 三 界 四 諦  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c13_3",
+    "original":"四諦各十。",
+    "folio":1,
+    "stemmed":"四 諦 各 十  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c13_10",
+    "original":"下欲界即四十。",
+    "folio":1,
+    "stemmed":"下 欲 界 即 四 十  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c13_17",
+    "original":"色無色界八諦。",
+    "folio":1,
+    "stemmed":"色無色界 八 諦  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c14_3",
+    "original":"中各除瞋。",
+    "folio":1,
+    "stemmed":"中 各 除 瞋  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c14_10",
+    "original":"即八九七十二。",
+    "folio":1,
+    "stemmed":"即 八 九 七 十 二  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c15_2",
+    "original":"通言四十即一百一十二。",
+    "folio":1,
+    "stemmed":"通 言 四 十 即 一 百 一 十 二  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c15_8",
+    "original":"此謂見道也。",
+    "folio":1,
+    "stemmed":"此 謂 見 道 也  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c16_5",
+    "original":"修道中有貪瞋無明慢薩迦耶見邊見。",
+    "folio":1,
+    "stemmed":"修 道 中 有 貪 瞋 無 明 慢 薩迦耶見 邊 見  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c16_11",
+    "original":"欲界具六色。",
+    "folio":1,
+    "stemmed":"欲 界 具 六 色  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c17_2",
+    "original":"無色界各除瞋並有五。",
+    "folio":1,
+    "stemmed":"無 色 界 各 除 瞋 並 有 五  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c17_6",
+    "original":"即為十。",
+    "folio":1,
+    "stemmed":"即 為 十  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c17_14",
+    "original":"通下界六即十六。",
+    "folio":1,
+    "stemmed":"通 下 界 六 即 十 六  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c18_11",
+    "original":"謂修道煩惱通凡合一百二十八煩惱。",
+    "folio":1,
+    "stemmed":"謂 修 道 煩 惱 通 凡 合 一 百 二 十 八 煩 惱  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c19_4",
+    "original":"前一百一十二見道所斷。",
+    "folio":1,
+    "stemmed":"前 一 百 一 十 二 見道所斷  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c19_12",
+    "original":"後十六修道所斷。",
+    "folio":1,
+    "stemmed":"後 十 六 修道所斷  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c20_6",
+    "original":"初地各見道二地已者名修道。",
+    "folio":1,
+    "stemmed":"初 地 各 見 道 二 地 已 者 名 修 道  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c20_17",
+    "original":"此謂大乘見修煩惱　問。",
+    "folio":1,
+    "stemmed":"此 謂 大 乘 見 修 煩 惱  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c21_8",
+    "original":"信解品中明何義　答。",
+    "folio":1,
+    "stemmed":"信 解 品 中 明 何 義  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c21_17",
+    "original":"信解品中明窮子譬。",
+    "folio":1,
+    "stemmed":"信 解 品 中 明 窮 子 譬  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c22_6",
+    "original":"對聲聞人一向倒。",
+    "folio":1,
+    "stemmed":"對 聲 聞 人 一 向 倒  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c22_15",
+    "original":"此即是聲聞種姓人。",
+    "folio":1,
+    "stemmed":"此 即 是 聲聞種姓 人  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c23_5",
+    "original":"如來方便於獲大寶。",
+    "folio":1,
+    "stemmed":"如 來 方 便 於 獲 大 寶  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c23_9",
+    "original":"故論云。",
+    "folio":1,
+    "stemmed":"故 論 云  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c24_10",
+    "original":"聲聞人一向增上慢我乘與如來乘等無差別。",
+    "folio":1,
+    "stemmed":"聲 聞 人 一 向 增 上 慢 我 乘 與 如 來 乘 等 無 差 別  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c25_4",
+    "original":"對此顛倒故說窮子喻　問。",
+    "folio":1,
+    "stemmed":"對 此 顛 倒 故 說 窮 子 喻  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c25_14",
+    "original":"信解品中長者是何身。",
+    "folio":1,
+    "stemmed":"信 解 品 中 長 者 是 何 身  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c26_6",
+    "original":"脫珍御服著垢衣裳是何。",
+    "folio":1,
+    "stemmed":"脫 珍 御 服 著 垢 衣 裳 是 何  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c26_18",
+    "original":"長者化何等人設具釋　答。",
+    "folio":1,
+    "stemmed":"長 者 化 何 等 人 設 具 釋  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c27_9",
+    "original":"寂滅道場無畏之莊嚴。",
+    "folio":1,
+    "stemmed":"寂 滅 道 場 無 畏 之 莊 嚴  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c27_14",
+    "original":"飾革麗身。",
+    "folio":1,
+    "stemmed":"飾 革 麗 身  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c28_4",
+    "original":"盧舍那身所說之法。",
+    "folio":1,
+    "stemmed":"盧 舍 那 身 所 說 之 法  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c28_10",
+    "original":"是花羅等教。",
+    "folio":1,
+    "stemmed":"是 花 羅 等 教  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c28_19",
+    "original":"所被之機純諸菩薩。",
+    "folio":1,
+    "stemmed":"所 被 之 機 純 諸 菩 薩  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0201c29_12",
+    "original":"鹿苑中脫珍御服著弊垢衣者。",
+    "folio":1,
+    "stemmed":"鹿 苑 中 脫 珍 御 服 著 弊 垢 衣 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a01_3",
+    "original":"是釋迦身所說之法。",
+    "folio":1,
+    "stemmed":"是 釋 迦 身 所 說 之 法  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a01_16",
+    "original":"是四謗法苦集滅道五乘難眾。",
+    "folio":1,
+    "stemmed":"是 四 謗 法 苦集滅道 五 乘 難 眾  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a02_13",
+    "original":"是人天等乘機有大小教有淺深　問。",
+    "folio":1,
+    "stemmed":"是 人 天 等 乘 機 有 大 小 教 有 淺 深  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a03_5",
+    "original":"藥草喻品明何義　答。",
+    "folio":1,
+    "stemmed":"藥 草 喻 品 明 何 義  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a04_2",
+    "original":"藥草喻品中對治求大乘人一向到此。",
+    "folio":1,
+    "stemmed":"藥 草 喻 品 中 對 治 求 大 乘 人 一 向 到 此  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a04_9",
+    "original":"是菩薩種性人。",
+    "folio":1,
+    "stemmed":"是 菩薩種性 人  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a04_17",
+    "original":"教雖一味等被三。",
+    "folio":1,
+    "stemmed":"教 雖 一 味 等 被 三  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a05_7",
+    "original":"藥草喻中明一味之雨。",
+    "folio":1,
+    "stemmed":"藥 草 喻 中 明 一 味 之 雨  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a06_3",
+    "original":"三草用潤合知根外破其迷一故。",
+    "folio":1,
+    "stemmed":"三 草 用 潤 合 知 根 外 破 其 迷 一 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a06_6",
+    "original":"論云。",
+    "folio":1,
+    "stemmed":"論 云  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a06_17",
+    "original":"大乘人一向增上慢無別。",
+    "folio":1,
+    "stemmed":"大 乘 人 一 向 增 上 慢 無 別  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a07_16",
+    "original":"聲聞辟支佛乘對治此顛倒故說藥草喻　問。",
+    "folio":1,
+    "stemmed":"聲 聞 辟 支 佛 乘 對 治 此 顛 倒 故 說 藥 草 喻  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a08_14",
+    "original":"十二因緣假釋名出體一一具釋　答。",
+    "folio":1,
+    "stemmed":"十二因緣 假 釋 名 出 體 一 一 具 釋  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a09_5",
+    "original":"親生名因助發為緣。",
+    "folio":1,
+    "stemmed":"親 生 名 因 助 發 為 緣  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a09_14",
+    "original":"列不同有其十二者。",
+    "folio":1,
+    "stemmed":"列 不 同 有 其 十 二 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a11_13",
+    "original":"一無明．二行．三識．四名色．五六入．六觸．七受．八愛．九取．十有．十一生．十二老死。",
+    "folio":1,
+    "stemmed":"一 無 明  二 行  三 識  四 名 色  五 六 入  六 觸  七 受  八 愛  九 取  十 有  十 一 生  十 二 老 死  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a12_1",
+    "original":"迷心不了故曰無明。",
+    "folio":1,
+    "stemmed":"迷 心 不 了 故 曰 無 明  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a12_10",
+    "original":"感果遷謝目之為行。",
+    "folio":1,
+    "stemmed":"感 果 遷 謝 目 之 為 行  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a12_19",
+    "original":"現心了別名之為識。",
+    "folio":1,
+    "stemmed":"現 心 了 別 名 之 為 識  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a13_4",
+    "original":"四名名色。",
+    "folio":1,
+    "stemmed":"四 名 名 色  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a13_9",
+    "original":"陰名色根。",
+    "folio":1,
+    "stemmed":"陰 名 色 根  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a13_14",
+    "original":"心名六入。",
+    "folio":1,
+    "stemmed":"心 名 六 入  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a14_3",
+    "original":"和會根塵名之為觸。",
+    "folio":1,
+    "stemmed":"和 會 根 塵 名 之 為 觸  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a14_11",
+    "original":"領納違順名為受。",
+    "folio":1,
+    "stemmed":"領 納 違 順 名 為 受  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a15_1",
+    "original":"於境深著名之為愛。",
+    "folio":1,
+    "stemmed":"於 境 深 著 名 之 為 愛  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a15_10",
+    "original":"四方追求名之為取。",
+    "folio":1,
+    "stemmed":"四 方 追 求 名 之 為 取  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a15_19",
+    "original":"能有當果名之為有。",
+    "folio":1,
+    "stemmed":"能 有 當 果 名 之 為 有  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a16_6",
+    "original":"未來初起曰生。",
+    "folio":1,
+    "stemmed":"未 來 初 起 曰 生  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a16_13",
+    "original":"根德衰變為老。",
+    "folio":1,
+    "stemmed":"根 德 衰 變 為 老  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a16_19",
+    "original":"果根代曰死。",
+    "folio":1,
+    "stemmed":"果 根 代 曰 死  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a17_4",
+    "original":"釋名如是。",
+    "folio":1,
+    "stemmed":"釋 名 如 是  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a17_9",
+    "original":"言體性者。",
+    "folio":1,
+    "stemmed":"言 體 性 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a17_19",
+    "original":"無明愛取以煩惱為體。",
+    "folio":1,
+    "stemmed":"無明愛取 以 煩 惱 為 體  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a18_8",
+    "original":"行有二種以業道體。",
+    "folio":1,
+    "stemmed":"行 有 二 種 以 業 道 體  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a18_13",
+    "original":"現在五果。",
+    "folio":1,
+    "stemmed":"現 在 五 果  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a19_7",
+    "original":"未來生老死以苦道為體　問。",
+    "folio":1,
+    "stemmed":"未 來 生 老 死 以 苦 道 為 體  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a20_3",
+    "original":"五百弟子授記品中明何義　答。",
+    "folio":1,
+    "stemmed":"五 百 弟 子 授 記 品 中 明 何 義  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a20_9",
+    "original":"對治無定人。",
+    "folio":1,
+    "stemmed":"對 治 無 定 人  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a21_5",
+    "original":"散亂心即是菩薩種性人習道不進。",
+    "folio":1,
+    "stemmed":"散 亂 心 即 是 菩薩種性 人 習 道 不 進  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a21_18",
+    "original":"要昔大善修空邪僻故名散亂。",
+    "folio":1,
+    "stemmed":"要 昔 大 善 修 空 邪 僻 故 名 散 亂  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a22_4",
+    "original":"繫珠譬中。",
+    "folio":1,
+    "stemmed":"繫 珠 譬 中  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a22_12",
+    "original":"示衣珠令其記憶。",
+    "folio":1,
+    "stemmed":"示 衣 珠 令 其 記 憶  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a22_16",
+    "original":"故論云。",
+    "folio":1,
+    "stemmed":"故 論 云  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a23_5",
+    "original":"散亂心人實無有定。",
+    "folio":1,
+    "stemmed":"散 亂 心 人 實 無 有 定  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a23_17",
+    "original":"過去有大乘善根而不覺知。",
+    "folio":1,
+    "stemmed":"過 去 有 大 乘 善 根 而 不 覺 知  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a24_4",
+    "original":"被不求大乘。",
+    "folio":1,
+    "stemmed":"被 不 求 大 乘  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a24_14",
+    "original":"於狹劣心中生虛妄解。",
+    "folio":1,
+    "stemmed":"於 狹 劣 心 中 生 虛 妄 解  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a25_1",
+    "original":"以為第一乘。",
+    "folio":1,
+    "stemmed":"以 為 第 一 乘  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a25_10",
+    "original":"於治此故說寶珠譬。",
+    "folio":1,
+    "stemmed":"於 治 此 故 說 寶 珠 譬  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a25_19",
+    "original":"妙亦是合解無上故。",
+    "folio":1,
+    "stemmed":"妙 亦 是 合 解 無 上 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a26_8",
+    "original":"論云亦現令解無上。",
+    "folio":1,
+    "stemmed":"論 云 亦 現 令 解 無 上  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a26_16",
+    "original":"故說繫珠譬　問。",
+    "folio":1,
+    "stemmed":"故 說 繫 珠 譬  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a27_6",
+    "original":"記云繫珠衣喻何法。",
+    "folio":1,
+    "stemmed":"記 云 繫 珠 衣 喻 何 法  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a27_11",
+    "original":"珠喻何法。",
+    "folio":1,
+    "stemmed":"珠 喻 何 法  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a27_16",
+    "original":"何時得珠。",
+    "folio":1,
+    "stemmed":"何 時 得 珠  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a28_3",
+    "original":"何時失珠　答。",
+    "folio":1,
+    "stemmed":"何 時 失 珠  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a28_14",
+    "original":"衣喻阿賴耶識所勳為因。",
+    "folio":1,
+    "stemmed":"衣 喻 阿賴耶識 所 勳 為 因  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a29_1",
+    "original":"法珠喻聲聞。",
+    "folio":1,
+    "stemmed":"法 珠 喻 聲 聞  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202a29_8",
+    "original":"法花一乘之教。",
+    "folio":1,
+    "stemmed":"法 花 一 乘 之 教  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b01_2",
+    "original":"發菩提心修菩提行能勳本識。",
+    "folio":1,
+    "stemmed":"發菩提心 修 菩 提 行 能 勳 本 識  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b01_7",
+    "original":"猶若繫珠。",
+    "folio":1,
+    "stemmed":"猶 若 繫 珠  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b01_13",
+    "original":"何時失珠者。",
+    "folio":1,
+    "stemmed":"何 時 失 珠 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b02_10",
+    "original":"大遍晦過之後沙彌息教之時背教既遙。",
+    "folio":1,
+    "stemmed":"大 遍 晦 過 之 後 沙 彌 息 教 之 時 背 教 既 遙  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b03_5",
+    "original":"又流生死妄於本解故曰失珠。",
+    "folio":1,
+    "stemmed":"又 流 生 死 妄 於 本 解 故 曰 失 珠  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b03_11",
+    "original":"何時得珠者。",
+    "folio":1,
+    "stemmed":"何 時 得 珠 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b04_11",
+    "original":"釋迦出世演教靈山還得本悟故稱得珠　問。",
+    "folio":1,
+    "stemmed":"釋 迦 出 世 演 教 靈 山 還 得 本 悟 故 稱 得 珠  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b06_6",
+    "original":"授記品中明何義　答此品明與四大聲聞迦葉須菩提迦旋延目連等授記。",
+    "folio":1,
+    "stemmed":"授 記 品 中 明 何 義  答 此 品 明 與 四 大 聲 聞 迦 葉 須 菩 提 迦 旋 延 目 連 等 授 記  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b06_11",
+    "original":"亦名受記。",
+    "folio":1,
+    "stemmed":"亦 名 受 記  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b07_2",
+    "original":"如來談與記名之為授。",
+    "folio":1,
+    "stemmed":"如 來 談 與 記 名 之 為 授  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b07_13",
+    "original":"弟子領記名之為受　問。",
+    "folio":1,
+    "stemmed":"弟 子 領 記 名 之 為 受  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b08_4",
+    "original":"化城喻中明何義　答。",
+    "folio":1,
+    "stemmed":"化 城 喻 中 明 何 義  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b08_18",
+    "original":"明對治有定之實無而有增上慢。",
+    "folio":1,
+    "stemmed":"明 對 治 有 定 之 實 無 而 有 增 上 慢  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b09_10",
+    "original":"即凡夫有漏定實非涅槃。",
+    "folio":1,
+    "stemmed":"即 凡 夫 有 漏 定 實 非 涅 槃  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b10_5",
+    "original":"於中妄起生涅槃相故名為倒。",
+    "folio":1,
+    "stemmed":"於 中 妄 起 生 涅 槃 相 故 名 為 倒  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b10_16",
+    "original":"以權立化城進近令違故。",
+    "folio":1,
+    "stemmed":"以 權 立 化 城 進 近 令 違 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b10_19",
+    "original":"論云。",
+    "folio":1,
+    "stemmed":"論 云  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b11_7",
+    "original":"實無有增上慢人。",
+    "folio":1,
+    "stemmed":"實 無 有 增上慢人  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b12_6",
+    "original":"以有世間三摩拔提實無涅槃生涅槃相。",
+    "folio":1,
+    "stemmed":"以 有 世 間 三 摩 拔 提 實 無 涅 槃 生 涅 槃 相  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b12_17",
+    "original":"對治此故說化城喻　問。",
+    "folio":1,
+    "stemmed":"對 治 此 故 說 化 城 喻  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b13_7",
+    "original":"聲聞緣覺各得涅槃。",
+    "folio":1,
+    "stemmed":"聲 聞 緣 覺 各 得 涅 槃  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b13_16",
+    "original":"如何共住化城　答。",
+    "folio":1,
+    "stemmed":"如 何 共 住 化 城  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b14_15",
+    "original":"二涅槃同離一障謂煩惱障故曰一城　問。",
+    "folio":1,
+    "stemmed":"二 涅 槃 同 離 一 障 謂 煩 惱 障 故 曰 一 城  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b15_2",
+    "original":"云何名大乘。",
+    "folio":1,
+    "stemmed":"云 何 名 大 乘  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b15_10",
+    "original":"何者為一乘　答。",
+    "folio":1,
+    "stemmed":"何 者 為 一 乘  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b16_7",
+    "original":"一是攝五之總名大是四三之別稱故。",
+    "folio":1,
+    "stemmed":"一 是 攝 五 之 總 名 大 是 四 三 之 別 稱 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b16_11",
+    "original":"下經云。",
+    "folio":1,
+    "stemmed":"下 經 云  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b17_3",
+    "original":"十方世界由唯有一乘法。",
+    "folio":1,
+    "stemmed":"十方世界 由 唯 有 一 乘 法  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b17_14",
+    "original":"唯此一事實餘二則非真。",
+    "folio":1,
+    "stemmed":"唯 此 一 事 實 餘 二 則 非 真  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b18_1",
+    "original":"除佛方便說。",
+    "folio":1,
+    "stemmed":"除 佛 方 便 說  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b18_14",
+    "original":"五乘雖復殊分究竟同歸一法。",
+    "folio":1,
+    "stemmed":"五 乘 雖 復 殊 分 究 竟 同 歸 一 法  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b18_19",
+    "original":"言大乘者。",
+    "folio":1,
+    "stemmed":"言 大 乘 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b19_8",
+    "original":"為對三根故稱大也。",
+    "folio":1,
+    "stemmed":"為 對 三 根 故 稱 大 也  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b19_13",
+    "original":"下文又言。",
+    "folio":1,
+    "stemmed":"下 文 又 言  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b20_5",
+    "original":"菩薩求此乘故名為摩薩。",
+    "folio":1,
+    "stemmed":"菩 薩 求 此 乘 故 名 為 摩 薩  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b20_17",
+    "original":"言一者一味平等理也　問。",
+    "folio":1,
+    "stemmed":"言 一 者 一 味 平 等 理 也  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b21_15",
+    "original":"如來功德超越十方讀誦之至未逾三界。",
+    "folio":1,
+    "stemmed":"如 來 功 德 超 越 十 方 讀 誦 之 至 未 逾 三 界  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b22_14",
+    "original":"云何罵佛尚輕嗔持經至得罪乃重　答。",
+    "folio":1,
+    "stemmed":"云 何 罵 佛 尚 輕 嗔 持 經 至 得 罪 乃 重  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b23_2",
+    "original":"若就因為論。",
+    "folio":1,
+    "stemmed":"若 就 因 為 論  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b23_7",
+    "original":"因有厚薄。",
+    "folio":1,
+    "stemmed":"因 有 厚 薄  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b23_12",
+    "original":"境有尊卑。",
+    "folio":1,
+    "stemmed":"境 有 尊 卑  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b23_18",
+    "original":"則罵佛甚重。",
+    "folio":1,
+    "stemmed":"則 罵 佛 甚 重  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b24_5",
+    "original":"毀持經人極輕。",
+    "folio":1,
+    "stemmed":"毀 持 經 人 極 輕  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b24_16",
+    "original":"令就違順境中以明輕重。",
+    "folio":1,
+    "stemmed":"令 就 違 順 境 中 以 明 輕 重  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b25_9",
+    "original":"如來心在平等門中離愛憎。",
+    "folio":1,
+    "stemmed":"如 來 心 在 平 等 門 中 離 愛 憎  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b26_10",
+    "original":"出入到去八風心行平等毀譽不動其罪即輕。",
+    "folio":1,
+    "stemmed":"出 入 到 去 八 風 心 行 平 等 毀 譽 不 動 其 罪 即 輕  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b27_4",
+    "original":"始行菩薩代弘經利益眾生。",
+    "folio":1,
+    "stemmed":"始 行 菩 薩 代 弘 經 利 益 眾 生  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b28_2",
+    "original":"慈悲攝化廣度一切物廢化斷利佛種。",
+    "folio":1,
+    "stemmed":"慈 悲 攝 化 廣 度 一 切 物 廢 化 斷 利 佛 種  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b28_11",
+    "original":"就化為論故言罪重。",
+    "folio":1,
+    "stemmed":"就 化 為 論 故 言 罪 重  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b29_9",
+    "original":"壽量品約判三佛菩提。",
+    "folio":1,
+    "stemmed":"壽 量 品 約 判 三佛菩提  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202b29_16",
+    "original":"三者法菩提故。",
+    "folio":1,
+    "stemmed":"三 者 法 菩 提 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202c01_8",
+    "original":"下經言釋官託生伽耶來。",
+    "folio":1,
+    "stemmed":"下 經 言 釋 官 託 生 伽 耶 來  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202c01_14",
+    "original":"此是化菩提。",
+    "folio":1,
+    "stemmed":"此 是 化 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202c02_2",
+    "original":"又言諸善男子。",
+    "folio":1,
+    "stemmed":"又 言 諸 善 男 子  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202c02_9",
+    "original":"我實成佛以來。",
+    "folio":1,
+    "stemmed":"我 實 成 佛 以 來  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202c02_19",
+    "original":"經無量無邊那由他劫。",
+    "folio":1,
+    "stemmed":"經 無量無邊 那 由 他 劫  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202c03_6",
+    "original":"此是根佛菩提。",
+    "folio":1,
+    "stemmed":"此 是 根 佛 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202c04_8",
+    "original":"又經言非實非虛非如非異不如三界見於三界。",
+    "folio":1,
+    "stemmed":"又 經 言 非 實 非 虛 非 如 非 異 不 如 三 界 見 於 三 界  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202c04_17",
+    "original":"此是法菩提也　問。",
+    "folio":1,
+    "stemmed":"此 是 法 菩 提 也  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202c05_7",
+    "original":"長短無乖有無願返。",
+    "folio":1,
+    "stemmed":"長 短 無 乖 有 無 願 返  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202c05_14",
+    "original":"云何六十小劫。",
+    "folio":1,
+    "stemmed":"云 何 六 十 小 劫  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202c06_10",
+    "original":"謂如食頃理隔言違若為分雪　答。",
+    "folio":1,
+    "stemmed":"謂 如 食 頃 理 隔 言 違 若 為 分 雪  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202c07_14",
+    "original":"六十之與食頃俱為時收雖復長短不同草不識心變異。",
+    "folio":1,
+    "stemmed":"六 十 之 與 食 頃 俱 為 時 收 雖 復 長 短 不 同 草 不 識 心 變 異  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202c08_6",
+    "original":"若心存分別則長有殊。",
+    "folio":1,
+    "stemmed":"若 心 存 分 別 則 長 有 殊  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202c08_17",
+    "original":"若三界唯心則長短無二。",
+    "folio":1,
+    "stemmed":"若 三界唯心 則 長 短 無 二  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202c09_12",
+    "original":"是以須彌納芥子萬國俱舉毛端。",
+    "folio":1,
+    "stemmed":"是 以 須 彌 納 芥 子 萬 國 俱 舉 毛 端  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202c10_9",
+    "original":"斯乃心長則長亦非定有長短　問。",
+    "folio":1,
+    "stemmed":"斯 乃 心 長 則 長 亦 非 定 有 長 短  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202c11_5",
+    "original":"何因履水躍火俱稱名而不禮拜。",
+    "folio":1,
+    "stemmed":"何 因 履 水 躍 火 俱 稱 名 而 不 禮 拜  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202c12_5",
+    "original":"求男請女則拜而不稱名者何設具釋　答。",
+    "folio":1,
+    "stemmed":"求 男 請 女 則 拜 而 不 稱 名 者 何 設 具 釋  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202c12_18",
+    "original":"觀音化物救難為懷既號觀音。",
+    "folio":1,
+    "stemmed":"觀 音 化 物 救 難 為 懷 既 號 觀 音  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202c13_4",
+    "original":"理須稱歎。",
+    "folio":1,
+    "stemmed":"理 須 稱 歎  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202c14_16",
+    "original":"孤獨請求男女難苦未絕身躬所以得蜜禮拜牟過水火之災交恐命將殞。",
+    "folio":1,
+    "stemmed":"孤 獨 請 求 男 女 難 苦 未 絕 身 躬 所 以 得 蜜 禮 拜 牟 過 水 火 之 災 交 恐 命 將 殞  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202c15_13",
+    "original":"遂急但得稱名何假屈身禮拜　問。",
+    "folio":1,
+    "stemmed":"遂 急 但 得 稱 名 何 假 屈 身 禮 拜  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202c16_7",
+    "original":"提婆達多品中明何義　答。",
+    "folio":1,
+    "stemmed":"提 婆 達 多 品 中 明 何 義  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202c16_16",
+    "original":"品內顯法花經有三。",
+    "folio":1,
+    "stemmed":"品 內 顯 法 花 經 有 三  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202c17_8",
+    "original":"一由達多者說此法花故。",
+    "folio":1,
+    "stemmed":"一 由 達 多 者 說 此 法 花 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202c17_17",
+    "original":"自致成佛有成佛力。",
+    "folio":1,
+    "stemmed":"自 致 成 佛 有 成 佛 力  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202c18_9",
+    "original":"二由文殊說此法花經故。",
+    "folio":1,
+    "stemmed":"二 由 文 殊 說 此 法 花 經 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202c19_2",
+    "original":"無邊菩薩悟道故廣大力。",
+    "folio":1,
+    "stemmed":"無 邊 菩 薩 悟 道 故 廣 大 力  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202c19_14",
+    "original":"三由龍女修行現身成佛故。",
+    "folio":1,
+    "stemmed":"三 由 龍 女 修 行 現 身 成 佛 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202c20_2",
+    "original":"即速疾力　問。",
+    "folio":1,
+    "stemmed":"即 速 疾 力  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202c20_15",
+    "original":"云何藥王其有讀誦法花經者。",
+    "folio":1,
+    "stemmed":"云 何 藥 王 其 有 讀 誦 法 花 經 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202c22_2",
+    "original":"當知是人以佛莊嚴則為如來肩所荷擔其義云何　答。",
+    "folio":1,
+    "stemmed":"當 知 是 人 以 佛 莊 嚴 則 為 如 來 肩 所 荷 擔 其 義 云 何  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202c22_10",
+    "original":"此是諸品中經文。",
+    "folio":1,
+    "stemmed":"此 是 諸 品 中 經 文  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202c23_5",
+    "original":"謂入如來室著如來衣坐如來座故。",
+    "folio":1,
+    "stemmed":"謂 入 如 來 室 著 如 來 衣 坐 如 來 座 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202c23_18",
+    "original":"以莊嚴乃至肩所荷擔也　問。",
+    "folio":1,
+    "stemmed":"以 莊 嚴 乃 至 肩 所 荷 擔 也  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202c24_13",
+    "original":"此經云開方便門示真實相　答。",
+    "folio":1,
+    "stemmed":"此 經 云 開 方 便 門 示 真 實 相  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202c24_18",
+    "original":"方便門者。",
+    "folio":1,
+    "stemmed":"方 便 門 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202c25_6",
+    "original":"開小乘方便門。",
+    "folio":1,
+    "stemmed":"開 小 乘 方 便 門  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202c26_8",
+    "original":"入一佛乘是真實　問　見寶塔品中明何義　答。",
+    "folio":1,
+    "stemmed":"入 一 佛 乘 是 真 實  問  見 寶 塔 品 中 明 何 義  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202c26_16",
+    "original":"明清淨國土無上。",
+    "folio":1,
+    "stemmed":"明 清 淨 國 土 無 上  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202c27_1",
+    "original":"故論云。",
+    "folio":1,
+    "stemmed":"故 論 云  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202c27_11",
+    "original":"示現清淨國土無上故。",
+    "folio":1,
+    "stemmed":"示 現 清 淨 國 土 無 上 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202c28_2",
+    "original":"示現多寶如來塔　問。",
+    "folio":1,
+    "stemmed":"示 現 多 寶 如 來 塔  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202c28_12",
+    "original":"云何名有功德人　答。",
+    "folio":1,
+    "stemmed":"云 何 名 有 功 德 人  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202c28_19",
+    "original":"是有學聲聞人。",
+    "folio":1,
+    "stemmed":"是 有 學 聲 聞 人  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202c29_8",
+    "original":"斷少煩惱故有功德。",
+    "folio":1,
+    "stemmed":"斷 少 煩 惱 故 有 功 德  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0202c29_13",
+    "original":"解珠譬中。",
+    "folio":1,
+    "stemmed":"解 珠 譬 中  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a01_3",
+    "original":"前賜由宅明與小果。",
+    "folio":1,
+    "stemmed":"前 賜 由 宅 明 與 小 果  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a01_17",
+    "original":"後賜明珠與大眾故為對治論云。",
+    "folio":1,
+    "stemmed":"後 賜 明 珠 與 大 眾 故 為 對 治 論 云  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a02_7",
+    "original":"有功德人說大乘法。",
+    "folio":1,
+    "stemmed":"有 功 德 人 說 大 乘 法  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a02_14",
+    "original":"而非大乘對治。",
+    "folio":1,
+    "stemmed":"而 非 大 乘 對 治  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a03_15",
+    "original":"此說王解髻中明珠與之譬喻亦名說無上　問。",
+    "folio":1,
+    "stemmed":"此 說 王 解 髻 中 明 珠 與 之 譬 喻 亦 名 說 無 上  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a04_8",
+    "original":"從地踊出品中明何義　答。",
+    "folio":1,
+    "stemmed":"從地踊出 品 中 明 何 義  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a04_17",
+    "original":"明教化眾眾無上故。",
+    "folio":1,
+    "stemmed":"明 教 化 眾 眾 無 上 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a05_1",
+    "original":"論云。",
+    "folio":1,
+    "stemmed":"論 云  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a05_11",
+    "original":"示現教化眾生無上故。",
+    "folio":1,
+    "stemmed":"示 現 教 化 眾 生 無 上 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a06_15",
+    "original":"說無量菩薩從地踊出　問云何對治不舉功德人　答。",
+    "folio":1,
+    "stemmed":"說 無 量 菩 薩 從地踊出  問 云 何 對 治 不 舉 功 德 人  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a07_4",
+    "original":"即三乘種性人。",
+    "folio":1,
+    "stemmed":"即 三 乘 種 性 人  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a07_16",
+    "original":"佛說一乘不肯受持修習故。",
+    "folio":1,
+    "stemmed":"佛 說 一 乘 不 肯 受 持 修 習 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a08_2",
+    "original":"醫師譬中。",
+    "folio":1,
+    "stemmed":"醫 師 譬 中  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a09_9",
+    "original":"明醫師設增權身癡子始眼妙藥佛現滅度鈍性萬修一乘故。",
+    "folio":1,
+    "stemmed":"明 醫 師 設 增 權 身 癡 子 始 眼 妙 藥 佛 現 滅 度 鈍 性 萬 修 一 乘 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a09_12",
+    "original":"論云。",
+    "folio":1,
+    "stemmed":"論 云  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a10_6",
+    "original":"無功德人於第一乘不舉功德。",
+    "folio":1,
+    "stemmed":"無 功 德 人 於 第 一 乘 不 舉 功 德  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a10_15",
+    "original":"說第一乘不取對治。",
+    "folio":1,
+    "stemmed":"說 第 一 乘 不 取 對 治  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a11_4",
+    "original":"此故說醫師譬喻。",
+    "folio":1,
+    "stemmed":"此 故 說 醫 師 譬 喻  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a11_13",
+    "original":"應知復是涅槃無上。",
+    "folio":1,
+    "stemmed":"應 知 復 是 涅 槃 無 上  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a11_17",
+    "original":"故論云。",
+    "folio":1,
+    "stemmed":"故 論 云  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a12_11",
+    "original":"不現涅槃無上故說醫師譬　問。",
+    "folio":1,
+    "stemmed":"不 現 涅 槃 無 上 故 說 醫 師 譬  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a13_5",
+    "original":"何名陀羅尼用何為體　答。",
+    "folio":1,
+    "stemmed":"何 名 陀 羅 尼 用 何 為 體  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a13_12",
+    "original":"亦以惠為體故。",
+    "folio":1,
+    "stemmed":"亦 以 惠 為 體 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a13_16",
+    "original":"涅槃云。",
+    "folio":1,
+    "stemmed":"涅 槃 云  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a14_5",
+    "original":"陀羅尼者亦大念。",
+    "folio":1,
+    "stemmed":"陀 羅 尼 者 亦 大 念  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a14_15",
+    "original":"亦名無事惠念者定也。",
+    "folio":1,
+    "stemmed":"亦 名 無 事 惠 念 者 定 也  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a15_2",
+    "original":"定能生惠故。",
+    "folio":1,
+    "stemmed":"定 能 生 惠 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a15_16",
+    "original":"維摩經云念定持即其義也　問。",
+    "folio":1,
+    "stemmed":"維 摩 經 云 念 定 持 即 其 義 也  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a16_3",
+    "original":"何名呪　答。",
+    "folio":1,
+    "stemmed":"何 名 呪  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a16_10",
+    "original":"呪辭不出三義。",
+    "folio":1,
+    "stemmed":"呪 辭 不 出 三 義  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a17_3",
+    "original":"或說三寶功德使聞者發心。",
+    "folio":1,
+    "stemmed":"或 說 三 寶 功 德 使 聞 者 發 心  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a17_15",
+    "original":"或說大神力勢使諸魔驚退。",
+    "folio":1,
+    "stemmed":"或 說 大 神 力 勢 使 諸 魔 驚 退  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a18_10",
+    "original":"或說甚深法相使聞者得悟　問。",
+    "folio":1,
+    "stemmed":"或 說 甚 深 法 相 使 聞 者 得 悟  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a19_5",
+    "original":"方便品中為小乘人說九部經。",
+    "folio":1,
+    "stemmed":"方 便 品 中 為 小 乘 人 說 九 部 經  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a19_16",
+    "original":"十二部中不說何經　答。",
+    "folio":1,
+    "stemmed":"十 二 部 中 不 說 何 經  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a20_2",
+    "original":"無授記經。",
+    "folio":1,
+    "stemmed":"無 授 記 經  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a20_8",
+    "original":"無無自說經。",
+    "folio":1,
+    "stemmed":"無 無 自 說 經  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a20_15",
+    "original":"無方廣經　問。",
+    "folio":1,
+    "stemmed":"無 方 廣 經  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a20_18",
+    "original":"經云。",
+    "folio":1,
+    "stemmed":"經 云  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a21_3",
+    "original":"中有人言。",
+    "folio":1,
+    "stemmed":"中 有 人 言  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a21_17",
+    "original":"汝諸子等先因遊戲來入此定中。",
+    "folio":1,
+    "stemmed":"汝 諸 子 等 先 因 遊 戲 來 入 此 定 中  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a22_2",
+    "original":"有人言。",
+    "folio":1,
+    "stemmed":"有 人 言  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a23_2",
+    "original":"汝諸子等是何人來入此宅從何處來　答。",
+    "folio":1,
+    "stemmed":"汝 諸 子 等 是 何 人 來 入 此 宅 從 何 處 來  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a23_18",
+    "original":"聞有人言中十方諸佛言來入此宅者。",
+    "folio":1,
+    "stemmed":"聞 有 人 言 中 十方諸佛 言 來 入 此 宅 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a24_10",
+    "original":"凡夫人等行雖未出願門。",
+    "folio":1,
+    "stemmed":"凡 夫 人 等 行 雖 未 出 願 門  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a25_7",
+    "original":"已出其人夫本願故來入此宅　問。",
+    "folio":1,
+    "stemmed":"已 出 其 人 夫 本 願 故 來 入 此 宅  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a25_16",
+    "original":"汝來說法必有要歸。",
+    "folio":1,
+    "stemmed":"汝 來 說 法 必 有 要 歸  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a26_9",
+    "original":"未審此經以何為宗旨　答。",
+    "folio":1,
+    "stemmed":"未 審 此 經 以 何 為 宗 旨  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a26_18",
+    "original":"諸師辯宗各各不同。",
+    "folio":1,
+    "stemmed":"諸 師 辯 宗 各各不同  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a27_7",
+    "original":"今依徵宗有二種。",
+    "folio":1,
+    "stemmed":"今 依 徵 宗 有 二 種  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a27_12",
+    "original":"一者體宗。",
+    "folio":1,
+    "stemmed":"一 者 體 宗  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a27_17",
+    "original":"二者用宗。",
+    "folio":1,
+    "stemmed":"二 者 用 宗  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a28_2",
+    "original":"非二非一。",
+    "folio":1,
+    "stemmed":"非 二 非 一  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a28_7",
+    "original":"是其體宗。",
+    "folio":1,
+    "stemmed":"是 其 體 宗  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a28_12",
+    "original":"破三歸一。",
+    "folio":1,
+    "stemmed":"破 三 歸 一  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a28_17",
+    "original":"是其用宗。",
+    "folio":1,
+    "stemmed":"是 其 用 宗  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a29_1",
+    "original":"法無二會。",
+    "folio":1,
+    "stemmed":"法 無 二 會  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a29_6",
+    "original":"對器得名。",
+    "folio":1,
+    "stemmed":"對 器 得 名  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203a29_11",
+    "original":"會假歸真。",
+    "folio":1,
+    "stemmed":"會 假 歸 真  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203b01_6",
+    "original":"形三一立三名無遣一號亦三故。",
+    "folio":1,
+    "stemmed":"形 三 一 立 三 名 無 遣 一 號 亦 三 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203b01_11",
+    "original":"法句經云。",
+    "folio":1,
+    "stemmed":"法 句 經 云  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203b02_17",
+    "original":"一亦不為一為欲破諸數淺識之所聞見一以為一即其義也。",
+    "folio":1,
+    "stemmed":"一 亦 不 為 一 為 欲 破 諸 數 淺 識 之 所 聞 見 一 以 為 一 即 其 義 也  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203b03_10",
+    "original":"淨法師以一乘為宗　問。",
+    "folio":1,
+    "stemmed":"淨 法 師 以 一 乘 為 宗  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203b03_16",
+    "original":"佛說法花經。",
+    "folio":1,
+    "stemmed":"佛 說 法 花 經  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203b04_6",
+    "original":"何以不入法花三昧。",
+    "folio":1,
+    "stemmed":"何 以 不 入 法 花 三 昧  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203b04_17",
+    "original":"乃入無量義處三昧　答。",
+    "folio":1,
+    "stemmed":"乃 入 無量義處三昧  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203b05_3",
+    "original":"法花論云。",
+    "folio":1,
+    "stemmed":"法 花 論 云  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203b05_15",
+    "original":"此大乘修多羅有十七種名。",
+    "folio":1,
+    "stemmed":"此 大 乘 修 多 羅 有 十 七 種 名  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203b06_5",
+    "original":"第一名無量義處經。",
+    "folio":1,
+    "stemmed":"第 一 名 無 量 義 處 經  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203b06_12",
+    "original":"第十六名法花。",
+    "folio":1,
+    "stemmed":"第 十 六 名 法 花  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203b07_11",
+    "original":"故知入無量義處三昧即入法花三昧　問。",
+    "folio":1,
+    "stemmed":"故 知 入 無量義處三昧 即 入 法 花 三 昧  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203b07_18",
+    "original":"何故欲說法花。",
+    "folio":1,
+    "stemmed":"何 故 欲 說 法 花  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203b08_15",
+    "original":"在眉間豪相放光不在餘處放光　答。",
+    "folio":1,
+    "stemmed":"在 眉 間 豪 相 放 光 不 在 餘 處 放 光  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203b09_2",
+    "original":"說此法花。",
+    "folio":1,
+    "stemmed":"說 此 法 花  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203b09_17",
+    "original":"欲表一乘中道故在眉間放光　問。",
+    "folio":1,
+    "stemmed":"欲 表 一 乘 中 道 故 在 眉 間 放 光  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203b10_9",
+    "original":"此經既明一乘甚深之行。",
+    "folio":1,
+    "stemmed":"此 經 既 明 一 乘 甚 深 之 行  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203b11_4",
+    "original":"何故不告菩薩乃告聲聞　答。",
+    "folio":1,
+    "stemmed":"何 故 不 告 菩 薩 乃 告 聲 聞  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203b11_10",
+    "original":"論明有五義。",
+    "folio":1,
+    "stemmed":"論 明 有 五 義  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203b12_5",
+    "original":"故不告聲聞為諸聲聞所化事故。",
+    "folio":1,
+    "stemmed":"故 不 告 聲 聞 為 諸 聲 聞 所 化 事 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203b12_17",
+    "original":"二為諸聲聞迴取大菩提故。",
+    "folio":1,
+    "stemmed":"二 為 諸 聲 聞 迴 取 大 菩 提 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203b13_9",
+    "original":"三為談諸聲聞恐怖弱故。",
+    "folio":1,
+    "stemmed":"三 為 談 諸 聲 聞 恐 怖 弱 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203b14_1",
+    "original":"四為令解人善思念故。",
+    "folio":1,
+    "stemmed":"四 為 令 解 人 善 思 念 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203b14_17",
+    "original":"五為諸聲聞不起所作已辦心故　問。",
+    "folio":1,
+    "stemmed":"五 為 諸 聲 聞 不 起 所 作 已 辦 心 故  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203b15_11",
+    "original":"法花會上乃有一萬二千聲聞。",
+    "folio":1,
+    "stemmed":"法 花 會 上 乃 有 一 萬 二 千 聲 聞  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203b16_5",
+    "original":"故獨告舍利不告餘人　答。",
+    "folio":1,
+    "stemmed":"故 獨 告 舍 利 不 告 餘 人  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203b16_14",
+    "original":"舍剎弗與如來相應。",
+    "folio":1,
+    "stemmed":"舍 剎 弗 與 如 來 相 應  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203b17_8",
+    "original":"是以獨告舍利不告餘人　問。",
+    "folio":1,
+    "stemmed":"是 以 獨 告 舍 利 不 告 餘 人  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203b17_17",
+    "original":"佛放光明計應普照。",
+    "folio":1,
+    "stemmed":"佛 放 光 明 計 應 普 照  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203b18_15",
+    "original":"何因唯照有頂已還不照空處已上　答。",
+    "folio":1,
+    "stemmed":"何 因 唯 照 有 頂 已 還 不 照 空 處 已 上  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203b19_2",
+    "original":"解有二種。",
+    "folio":1,
+    "stemmed":"解 有 二 種  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203b20_2",
+    "original":"一二乘先是色法唯在有頂不及空處以上。",
+    "folio":1,
+    "stemmed":"一 二 乘 先 是 色 法 唯 在 有 頂 不 及 空 處 以 上  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203b20_8",
+    "original":"二就大乘解。",
+    "folio":1,
+    "stemmed":"二 就 大 乘 解  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203b21_14",
+    "original":"如來光者遍一切無物不照　故經說言上到有頂下至水際。",
+    "folio":1,
+    "stemmed":"如 來 光 者 遍 一 切 無 物 不 照  故 經 說 言 上 到 有 頂 下 至 水 際  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203b22_11",
+    "original":"此就化相說遍通十方據大乘說　問。",
+    "folio":1,
+    "stemmed":"此 就 化 相 說 遍 通 十 方 據 大 乘 說  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203b23_4",
+    "original":"經云有比丘實得阿羅漢。",
+    "folio":1,
+    "stemmed":"經 云 有 比 丘 實 得阿羅漢  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203b24_2",
+    "original":"若不信此法無有是處其義云何　答。",
+    "folio":1,
+    "stemmed":"若 不 信 此 法 無 有 是 處 其 義 云 何  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203b25_3",
+    "original":"謂退菩提心聲聞及應化聲聞得成阿羅漢者。",
+    "folio":1,
+    "stemmed":"謂 退 菩 提 心 聲 聞 及 應 化 聲 聞 得 成 阿 羅 漢 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203b25_15",
+    "original":"於法花一乘之法決定生信。",
+    "folio":1,
+    "stemmed":"於 法 花 一 乘 之 法 決 定 生 信  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203b26_5",
+    "original":"此乘無有是處　問。",
+    "folio":1,
+    "stemmed":"此 乘 無 有 是 處  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203b26_11",
+    "original":"云何名五濁。",
+    "folio":1,
+    "stemmed":"云 何 名 五 濁  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203b26_19",
+    "original":"何者是五濁　答。",
+    "folio":1,
+    "stemmed":"何 者 是 五 濁  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203b27_9",
+    "original":"濁亂不清淨名之為濁。",
+    "folio":1,
+    "stemmed":"濁 亂 不 清 淨 名 之 為 濁  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203b27_17",
+    "original":"濁義不同有其五。",
+    "folio":1,
+    "stemmed":"濁 義 不 同 有 其 五  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203b28_12",
+    "original":"經一劫二煩惱三眾生四見五命。",
+    "folio":1,
+    "stemmed":"經 一 劫 二 煩 惱 三 眾 生 四 見 五 命  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203b28_17",
+    "original":"劫者時也。",
+    "folio":1,
+    "stemmed":"劫 者 時 也  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203b29_8",
+    "original":"劫中有為濁故曰劫濁。",
+    "folio":1,
+    "stemmed":"劫 中 有 為 濁 故 曰 劫 濁  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203c01_2",
+    "original":"煩惱者令四住他門名煩惱。",
+    "folio":1,
+    "stemmed":"煩 惱 者 令 四 住 他 門 名 煩 惱  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203c01_12",
+    "original":"煩惱迷心名為煩惱濁。",
+    "folio":1,
+    "stemmed":"煩 惱 迷 心 名 為 煩 惱 濁  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203c02_4",
+    "original":"眾勞亂行人名為煩惱濁。",
+    "folio":1,
+    "stemmed":"眾 勞 亂 行 人 名 為 煩 惱 濁  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203c02_12",
+    "original":"法成生名眾生濁。",
+    "folio":1,
+    "stemmed":"法 成 生 名 眾 生 濁  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203c03_2",
+    "original":"邪見決斷名為見濁。",
+    "folio":1,
+    "stemmed":"邪 見 決 斷 名 為 見 濁  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203c04_8",
+    "original":"違持色以名之為命體從名命濁五何壽命申夭名為命濁。",
+    "folio":1,
+    "stemmed":"違 持 色 以 名 之 為 命 體 從 名 命 濁 五 何 壽 命 申 夭 名 為 命 濁  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203c05_4",
+    "original":"出體者以衣食等命緣為劫濁體。",
+    "folio":1,
+    "stemmed":"出 體 者 以 衣 食 等 命 緣 為 劫 濁 體  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203c05_16",
+    "original":"以貪瞋癡三毒為煩惱濁體。",
+    "folio":1,
+    "stemmed":"以 貪 瞋 癡 三 毒 為 煩 惱 濁 體  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203c06_6",
+    "original":"以命根為眾生濁體。",
+    "folio":1,
+    "stemmed":"以 命 根 為 眾 生 濁 體  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203c06_14",
+    "original":"以五見便為見濁。",
+    "folio":1,
+    "stemmed":"以 五 見 便 為 見 濁  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203c07_3",
+    "original":"以命根為體　問。",
+    "folio":1,
+    "stemmed":"以 命 根 為 體  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203c08_4",
+    "original":"現瑞何故彌勒生疑正說之中由子騰清　答。",
+    "folio":1,
+    "stemmed":"現 瑞 何 故 彌 勒 生 疑 正 說 之 中 由 子 騰 清  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203c08_16",
+    "original":"現瑞通來一部經因果之義。",
+    "folio":1,
+    "stemmed":"現 瑞 通 來 一 部 經 因 果 之 義  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203c09_6",
+    "original":"唯佛能了窮子未知。",
+    "folio":1,
+    "stemmed":"唯 佛 能 了 窮 子 未 知  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203c09_13",
+    "original":"所以彌勒疑也。",
+    "folio":1,
+    "stemmed":"所 以 彌 勒 疑 也  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203c10_2",
+    "original":"正說之偏對身子。",
+    "folio":1,
+    "stemmed":"正 說 之 偏 對 身 子  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203c10_11",
+    "original":"身子是執異之瑞故。",
+    "folio":1,
+    "stemmed":"身 子 是 執 異 之 瑞 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203c10_19",
+    "original":"生疑致請也　問。",
+    "folio":1,
+    "stemmed":"生 疑 致 請 也  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203c11_6",
+    "original":"既云樂小法者。",
+    "folio":1,
+    "stemmed":"既 云 樂小法者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203c11_18",
+    "original":"何故復言貪著於生死　答。",
+    "folio":1,
+    "stemmed":"何 故 復 言 貪 著 於 生 死  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203c12_14",
+    "original":"現在機緣於過去久遠貪著於生死。",
+    "folio":1,
+    "stemmed":"現 在 機 緣 於 過去久遠 貪 著 於 生 死  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203c13_10",
+    "original":"又解樂於小法則是貪著於生死。",
+    "folio":1,
+    "stemmed":"又 解 樂 於 小 法 則 是 貪 著 於 生 死  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203c14_5",
+    "original":"以小涅槃即是大乘生死　問。",
+    "folio":1,
+    "stemmed":"以 小 涅 槃 即 是 大 乘 生 死  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203c14_13",
+    "original":"人天善根既所德。",
+    "folio":1,
+    "stemmed":"人 天 善 根 既 所 德  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203c15_6",
+    "original":"云何此經比已來佛道　答。",
+    "folio":1,
+    "stemmed":"云 何 此 經 比 已 來 佛 道  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203c16_7",
+    "original":"人天善根比是德佛之違緣故云成佛也　問。",
+    "folio":1,
+    "stemmed":"人 天 善 根 比 是 德 佛 之 違 緣 故 云 成 佛 也  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203c16_15",
+    "original":"何為兩足尊　答。",
+    "folio":1,
+    "stemmed":"何 為 兩 足 尊  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203c17_4",
+    "original":"或心定惠為兩足。",
+    "folio":1,
+    "stemmed":"或 心 定 惠 為 兩 足  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203c17_12",
+    "original":"或以權實為兩足。",
+    "folio":1,
+    "stemmed":"或 以 權 實 為 兩 足  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203c18_1",
+    "original":"或以緣行為兩足。",
+    "folio":1,
+    "stemmed":"或 以 緣 行 為 兩 足  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203c18_11",
+    "original":"或以人天為兩足　問。",
+    "folio":1,
+    "stemmed":"或 以 人 天 為 兩 足  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203c19_4",
+    "original":"故云何名觀樹亦經行　答。",
+    "folio":1,
+    "stemmed":"故 云 何 名 觀 樹 亦 經 行  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203c19_11",
+    "original":"如來在此樹下。",
+    "folio":1,
+    "stemmed":"如 來 在 此 樹 下  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203c19_19",
+    "original":"成道念根樹思故。",
+    "folio":1,
+    "stemmed":"成 道 念 根 樹 思 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203c21_13",
+    "original":"達行者本為取道故坐命得道意是故經行　問　佛為眾生故出計應說法。",
+    "folio":1,
+    "stemmed":"達 行 者 本 為 取 道 故 坐 命 得 道 意 是 故 經 行  問  佛 為 眾 生 故 出 計 應 說 法  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203c22_2",
+    "original":"何事待請耶　答。",
+    "folio":1,
+    "stemmed":"何 事 待 請 耶  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203c22_5",
+    "original":"論云。",
+    "folio":1,
+    "stemmed":"論 云  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203c22_19",
+    "original":"佛雖不須請而令請者獲福　問。",
+    "folio":1,
+    "stemmed":"佛 雖 不 須 請 而 令 請 者 獲 福  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203c23_9",
+    "original":"諸天請不明人請耶　答。",
+    "folio":1,
+    "stemmed":"諸 天 請 不 明 人 請 耶  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203c24_4",
+    "original":"天勝人故明請不明人也　問。",
+    "folio":1,
+    "stemmed":"天 勝 人 故 明 請 不 明 人 也  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203c24_14",
+    "original":"譬喻品中明何義　答。",
+    "folio":1,
+    "stemmed":"譬 喻 品 中 明 何 義  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203c25_5",
+    "original":"品內明初據舍利弗記。",
+    "folio":1,
+    "stemmed":"品 內 明 初 據 舍 利 弗 記  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203c26_4",
+    "original":"後明火宅譬對治求勢力人倒求增上慢。",
+    "folio":1,
+    "stemmed":"後 明 火 宅 譬 對 治 求 勢 力 人 倒 求 增 上 慢  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203c27_9",
+    "original":"此是欲界凡夫無勝壞界理實麁弊非樂計樂故名倒求。",
+    "folio":1,
+    "stemmed":"此 是 欲 界 凡 夫 無 勝 壞 界 理 實 麁 弊 非 樂 計 樂 故 名 倒 求  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203c27_18",
+    "original":"火宅譬中光明三車。",
+    "folio":1,
+    "stemmed":"火 宅 譬 中 光 明 三 車  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203c28_12",
+    "original":"拔其大苦緣合入理與其大乘。",
+    "folio":1,
+    "stemmed":"拔 其 大 苦 緣 合 入 理 與 其 大 乘  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203c28_15",
+    "original":"論云。",
+    "folio":1,
+    "stemmed":"論 云  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203c29_5",
+    "original":"以世間諸煩惱熾然。",
+    "folio":1,
+    "stemmed":"以 世 間 諸 煩 惱 熾 然  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0203c29_12",
+    "original":"人天以為妙境。",
+    "folio":1,
+    "stemmed":"人 天 以 為 妙 境  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a01_4",
+    "original":"對治此相說火宅譬　問。",
+    "folio":1,
+    "stemmed":"對 治 此 相 說 火 宅 譬  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a02_6",
+    "original":"此經大宗破三歸一味知破三會云何同異　答。",
+    "folio":1,
+    "stemmed":"此 經 大 宗 破 三 歸 一 味 知 破 三 會 云 何 同 異  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a02_15",
+    "original":"據病為言則破三歸。",
+    "folio":1,
+    "stemmed":"據 病 為 言 則 破 三 歸  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a03_6",
+    "original":"約行為悟則會三歸一。",
+    "folio":1,
+    "stemmed":"約 行 為 悟 則 會 三 歸 一  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a03_14",
+    "original":"病則俱破而不會。",
+    "folio":1,
+    "stemmed":"病 則 俱 破 而 不 會  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a04_5",
+    "original":"行則俱會而不破　問。",
+    "folio":1,
+    "stemmed":"行 則 俱 會 而 不 破  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a04_17",
+    "original":"昔以說諸大乘經為菩薩行。",
+    "folio":1,
+    "stemmed":"昔 以 說 諸 大 乘 經 為 菩 薩 行  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a05_12",
+    "original":"今何因緣復後菩薩行假釋　答。",
+    "folio":1,
+    "stemmed":"今 何 因 緣 復 後 菩 薩 行 假 釋  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a05_18",
+    "original":"菩薩有二種。",
+    "folio":1,
+    "stemmed":"菩 薩 有 二 種  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a06_4",
+    "original":"一者直往。",
+    "folio":1,
+    "stemmed":"一 者 直 往  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a06_11",
+    "original":"二者迴小入大。",
+    "folio":1,
+    "stemmed":"二 者 迴 小 入 大  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a06_15",
+    "original":"直往者。",
+    "folio":1,
+    "stemmed":"直 往 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a08_4",
+    "original":"花嚴坐下為諸菩薩說大乘經名無量義經菩薩法佛所護念等故。",
+    "folio":1,
+    "stemmed":"花 嚴 坐 下 為 諸 菩 薩 說 大 乘 經 名 無 量 義 經 菩 薩 法 佛 所 護 念 等 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a09_12",
+    "original":"下文言除先修習學小乘者如來之人今我得中是經入於佛惠。",
+    "folio":1,
+    "stemmed":"下 文 言 除 先 修 習 學 小 乘 者 如 來 之 人 今 我 得 中 是 經 入 於 佛 惠  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a09_18",
+    "original":"迴小入大者。",
+    "folio":1,
+    "stemmed":"迴 小 入 大 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a10_9",
+    "original":"即令法花坐廣說譬喻。",
+    "folio":1,
+    "stemmed":"即 令 法 花 坐 廣 說 譬 喻  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a11_3",
+    "original":"心宿草菴漸淺長等事　問。",
+    "folio":1,
+    "stemmed":"心 宿 草 菴 漸 淺 長 等 事  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a11_12",
+    "original":"云何是度五百由旬。",
+    "folio":1,
+    "stemmed":"云 何 是 度 五 百 由 旬  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a11_18",
+    "original":"何者是化來。",
+    "folio":1,
+    "stemmed":"何 者 是 化 來  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a12_6",
+    "original":"何者是寶所　答。",
+    "folio":1,
+    "stemmed":"何 者 是 寶 所  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a13_8",
+    "original":"五百比是要法三界為三百二百喻習二乘涅槃。",
+    "folio":1,
+    "stemmed":"五 百 比 是 要 法 三 界 為 三 百 二 百 喻 習 二 乘 涅 槃  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a14_6",
+    "original":"後一百即四住習二乘迴心已知初地。",
+    "folio":1,
+    "stemmed":"後 一 百 即 四 住 習 二 乘 迴 心 已 知 初 地  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a14_15",
+    "original":"已知為一百即五百。",
+    "folio":1,
+    "stemmed":"已 知 為 一 百 即 五 百  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a15_7",
+    "original":"若以二乘為二百者有妨。",
+    "folio":1,
+    "stemmed":"若 以 二 乘 為 二 百 者 有 妨  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a15_18",
+    "original":"以化城是東果已度竟故。",
+    "folio":1,
+    "stemmed":"以 化 城 是 東 果 已 度 竟 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a16_9",
+    "original":"化城已後方便度二百。",
+    "folio":1,
+    "stemmed":"化 城 已 後 方 便 度 二 百  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a18_2",
+    "original":"然二乘未過寶何故須進途二百二界即五道故不通為五百總為五百。",
+    "folio":1,
+    "stemmed":"然 二 乘 未 過 寶 何 故 須 進 途 二 百 二 界 即 五 道 故 不 通 為 五 百 總 為 五 百  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a18_15",
+    "original":"言化城者無而忽有名之為化。",
+    "folio":1,
+    "stemmed":"言 化 城 者 無 而 忽 有 名 之 為 化  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a19_5",
+    "original":"防非捍敵目之為城。",
+    "folio":1,
+    "stemmed":"防 非 捍 敵 目 之 為 城  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a19_15",
+    "original":"度三百由旬眾人度退。",
+    "folio":1,
+    "stemmed":"度 三 百 由 旬 眾 人 度 退  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a20_13",
+    "original":"商主方便權說二乘滅諦涅槃解其疲倦。",
+    "folio":1,
+    "stemmed":"商 主 方 便 權 說 二 乘 滅 諦 涅 槃 解 其 疲 倦  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a21_3",
+    "original":"今前進同趣寶所。",
+    "folio":1,
+    "stemmed":"今 前 進 同 趣 寶 所  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a21_11",
+    "original":"言寶者諸師不同。",
+    "folio":1,
+    "stemmed":"言 寶 者 諸 師 不 同  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a21_16",
+    "original":"隨人有異。",
+    "folio":1,
+    "stemmed":"隨 人 有 異  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a22_14",
+    "original":"今案此文位當種性羅漢迴心位當十信。",
+    "folio":1,
+    "stemmed":"今 案 此 文 位 當 種 性 羅 漢 迴 心 位 當 十 信  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a23_10",
+    "original":"若論斷或初地齊功心位同十信。",
+    "folio":1,
+    "stemmed":"若 論 斷 或 初 地 齊 功 心 位 同 十 信  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a24_3",
+    "original":"論其究竟佛地方息進求。",
+    "folio":1,
+    "stemmed":"論 其 究 竟 佛 地 方 息 進 求  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a24_13",
+    "original":"今就大乘果滿故言實。",
+    "folio":1,
+    "stemmed":"今 就 大 乘 果 滿 故 言 實  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a25_6",
+    "original":"何者藏法師以三界為三百。",
+    "folio":1,
+    "stemmed":"何 者 藏 法 師 以 三 界 為 三 百  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a25_14",
+    "original":"二原為二即五百。",
+    "folio":1,
+    "stemmed":"二 原 為 二 即 五 百  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a26_6",
+    "original":"惠淨法師以五道為五百。",
+    "folio":1,
+    "stemmed":"惠 淨 法 師 以 五 道 為 五 百  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a26_12",
+    "original":"三途為三百。",
+    "folio":1,
+    "stemmed":"三 途 為 三 百  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a27_1",
+    "original":"人天二百即五百。",
+    "folio":1,
+    "stemmed":"人 天 二 百 即 五 百  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a27_10",
+    "original":"并此以宗三類不同。",
+    "folio":1,
+    "stemmed":"并 此 以 宗 三 類 不 同  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a27_17",
+    "original":"地意即同　問。",
+    "folio":1,
+    "stemmed":"地 意 即 同  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a28_10",
+    "original":"如來十八不共法何者是　答。",
+    "folio":1,
+    "stemmed":"如 來 十八不共法 何 者 是  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a28_15",
+    "original":"一身無失。",
+    "folio":1,
+    "stemmed":"一 身 無 失  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a29_4",
+    "original":"二口無失念無失。",
+    "folio":1,
+    "stemmed":"二 口 無 失 念 無 失  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a29_10",
+    "original":"四無不定心。",
+    "folio":1,
+    "stemmed":"四 無不定心  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204a29_15",
+    "original":"五無異相。",
+    "folio":1,
+    "stemmed":"五 無 異 相  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b01_3",
+    "original":"六不知以捨心。",
+    "folio":1,
+    "stemmed":"六 不 知 以 捨 心  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b01_8",
+    "original":"七欲無減。",
+    "folio":1,
+    "stemmed":"七 欲 無 減  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b01_13",
+    "original":"八念無減。",
+    "folio":1,
+    "stemmed":"八 念 無 減  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b01_18",
+    "original":"九智無減。",
+    "folio":1,
+    "stemmed":"九 智 無 減  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b02_3",
+    "original":"十通無減。",
+    "folio":1,
+    "stemmed":"十 通 無 減  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b02_9",
+    "original":"十解脫無減。",
+    "folio":1,
+    "stemmed":"十 解 脫 無 減  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b02_17",
+    "original":"十解脫知見無減。",
+    "folio":1,
+    "stemmed":"十 解脫知見 無 減  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b03_7",
+    "original":"十三身業修智慧行。",
+    "folio":1,
+    "stemmed":"十 三 身 業 修 智 慧 行  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b03_16",
+    "original":"十四口業修智慧行。",
+    "folio":1,
+    "stemmed":"十 四 口 業 修 智 慧 行  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b04_10",
+    "original":"十五意業修智慧智慧者無障。",
+    "folio":1,
+    "stemmed":"十 五 意 業 修 智 慧 智 慧 者 無 障  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b05_2",
+    "original":"十七智慧知未來無障。",
+    "folio":1,
+    "stemmed":"十 七 智 慧 知 未 來 無 障  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b05_12",
+    "original":"十八智慧智見在無障。",
+    "folio":1,
+    "stemmed":"十 八 智 慧 智 見 在 無 障  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b06_2",
+    "original":"如業身三四口意三。",
+    "folio":1,
+    "stemmed":"如 業 身 三 四 口 意 三  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b06_15",
+    "original":"皆悉已離三業清淨故言無失。",
+    "folio":1,
+    "stemmed":"皆 悉 已 離 三 業 清 淨 故 言 無 失  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b07_13",
+    "original":"乃至智慧懸鑒三世皆悉通達故言無事。",
+    "folio":1,
+    "stemmed":"乃 至 智 慧 懸 鑒 三 世 皆 悉 通 達 故 言 無 事  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b08_4",
+    "original":"此十八者唯佛獨證。",
+    "folio":1,
+    "stemmed":"此 十 八 者 唯 佛 獨 證  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b08_17",
+    "original":"菩薩聲聞皆莫能得故言不共。",
+    "folio":1,
+    "stemmed":"菩 薩 聲 聞 皆 莫 能 得 故 言 不 共  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b09_7",
+    "original":"疏言體者八法為體。",
+    "folio":1,
+    "stemmed":"疏 言 體 者 八 法 為 體  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b10_2",
+    "original":"謂思相欲勝解念定惠勤　問。",
+    "folio":1,
+    "stemmed":"謂 思 相 欲 勝 解 念 定 惠 勤  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b10_9",
+    "original":"何名十力　答。",
+    "folio":1,
+    "stemmed":"何 名 十 力  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b10_13",
+    "original":"十力者。",
+    "folio":1,
+    "stemmed":"十 力 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b10_19",
+    "original":"一處非處力。",
+    "folio":1,
+    "stemmed":"一 處 非 處 力  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b11_2",
+    "original":"二業力。",
+    "folio":1,
+    "stemmed":"二 業 力  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b11_6",
+    "original":"三定力。",
+    "folio":1,
+    "stemmed":"三 定 力  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b11_11",
+    "original":"四四根力。",
+    "folio":1,
+    "stemmed":"四 四 根 力  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b11_15",
+    "original":"五念力。",
+    "folio":1,
+    "stemmed":"五 念 力  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b11_19",
+    "original":"六性力。",
+    "folio":1,
+    "stemmed":"六 性 力  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b12_4",
+    "original":"七過處道力。",
+    "folio":1,
+    "stemmed":"七 過 處 道 力  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b12_9",
+    "original":"八宿命力。",
+    "folio":1,
+    "stemmed":"八 宿 命 力  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b12_14",
+    "original":"九天眼力。",
+    "folio":1,
+    "stemmed":"九 天 眼 力  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b13_2",
+    "original":"十漏盡力　問。",
+    "folio":1,
+    "stemmed":"十 漏 盡 力  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b13_12",
+    "original":"經云五眾之生滅未知。",
+    "folio":1,
+    "stemmed":"經 云 五 眾 之 生 滅 未 知  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b13_18",
+    "original":"何者是五眾。",
+    "folio":1,
+    "stemmed":"何 者 是 五 眾  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b14_8",
+    "original":"假出所數列名釋義　答。",
+    "folio":1,
+    "stemmed":"假 出 所 數 列 名 釋 義  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b14_15",
+    "original":"五眾者五陰也。",
+    "folio":1,
+    "stemmed":"五 眾 者 五 陰 也  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b14_19",
+    "original":"列名者。",
+    "folio":1,
+    "stemmed":"列 名 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b15_6",
+    "original":"色受相行識也。",
+    "folio":1,
+    "stemmed":"色 受 相 行 識 也  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b15_13",
+    "original":"色有青黃赤白。",
+    "folio":1,
+    "stemmed":"色 有 青 黃 赤 白  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b16_1",
+    "original":"乃至識有八種。",
+    "folio":1,
+    "stemmed":"乃 至 識 有 八 種  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b16_9",
+    "original":"五各非一稱為眾。",
+    "folio":1,
+    "stemmed":"五 各 非 一 稱 為 眾  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b17_5",
+    "original":"亦可言此之五陰乃有眾多生滅故。",
+    "folio":1,
+    "stemmed":"亦 可 言 此 之 五 陰 乃 有 眾 多 生 滅 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b17_10",
+    "original":"涅槃經云。",
+    "folio":1,
+    "stemmed":"涅 槃 經 云  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b17_16",
+    "original":"五陰名眾生。",
+    "folio":1,
+    "stemmed":"五 陰 名 眾 生  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b18_2",
+    "original":"眾生名五陰。",
+    "folio":1,
+    "stemmed":"眾 生 名 五 陰  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b18_9",
+    "original":"即其證也　問。",
+    "folio":1,
+    "stemmed":"即 其 證 也  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b19_2",
+    "original":"經云即方便說涅槃真實法。",
+    "folio":1,
+    "stemmed":"經 云 即 方 便 說 涅 槃 真 實 法  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b19_13",
+    "original":"何者是涅槃真實法　答。",
+    "folio":1,
+    "stemmed":"何 者 是 涅 槃 真 實 法  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b20_9",
+    "original":"一切真涅槃妄相真實無生無涅槃。",
+    "folio":1,
+    "stemmed":"一 切 真 涅 槃 妄 相 真 實 無 生 無 涅 槃  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b20_15",
+    "original":"是名為究竟。",
+    "folio":1,
+    "stemmed":"是 名 為 究 竟  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b21_2",
+    "original":"即是真實也。",
+    "folio":1,
+    "stemmed":"即 是 真 實 也  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b21_9",
+    "original":"不滅名為涅槃。",
+    "folio":1,
+    "stemmed":"不 滅 名 為 涅 槃  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b22_1",
+    "original":"俱為眾生起或不順正理。",
+    "folio":1,
+    "stemmed":"俱 為 眾 生 起 或 不 順 正 理  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b22_10",
+    "original":"廣造諸業流浪生死。",
+    "folio":1,
+    "stemmed":"廣 造 諸 業 流 浪 生 死  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b22_19",
+    "original":"對生死故說有涅槃。",
+    "folio":1,
+    "stemmed":"對 生 死 故 說 有 涅 槃  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b23_15",
+    "original":"若能知生死涅槃本來二不是真實故。",
+    "folio":1,
+    "stemmed":"若 能 知 生死涅槃 本 來 二 不 是 真 實 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b24_11",
+    "original":"上文言我雖說涅槃是亦非真滅。",
+    "folio":1,
+    "stemmed":"上 文 言 我 雖 說 涅 槃 是 亦 非 真 滅  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b25_6",
+    "original":"又言諸法從本來常自寂滅相。",
+    "folio":1,
+    "stemmed":"又 言 諸 法 從 本 來 常 自 寂 滅 相  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b25_11",
+    "original":"楞伽又言。",
+    "folio":1,
+    "stemmed":"楞 伽 又 言  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b26_5",
+    "original":"我所說者妄智識滅名為涅槃。",
+    "folio":1,
+    "stemmed":"我 所 說 者 妄 智 識 滅 名 為 涅 槃  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b26_12",
+    "original":"即其證也　問。",
+    "folio":1,
+    "stemmed":"即 其 證 也  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b27_16",
+    "original":"此經既云破三歸一味知三外則有一三內即有一　答。",
+    "folio":1,
+    "stemmed":"此 經 既 云 破 三 歸 一 味 知 三 外 則 有 一 三 內 即 有 一  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b28_4",
+    "original":"三內即有一。",
+    "folio":1,
+    "stemmed":"三 內 即 有 一  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b28_16",
+    "original":"非是三外別有一所以得知。",
+    "folio":1,
+    "stemmed":"非 是 三 外 別 有 一 所 以 得 知  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204b29_15",
+    "original":"初出現道樹徘徊三七觀機無堪受大乘者。",
+    "folio":1,
+    "stemmed":"初 出 現 道 樹 徘 徊 三 七 觀 機 無 堪 受 大 乘 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c01_16",
+    "original":"何以於一開三分途漸引靈山會上根器方成。",
+    "folio":1,
+    "stemmed":"何 以 於 一 開 三 分 途 漸 引 靈 山 會 上 根 器 方 成  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c02_7",
+    "original":"攝彼三權總歸一處。",
+    "folio":1,
+    "stemmed":"攝 彼 三 權 總 歸 一 處  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c02_16",
+    "original":"故知三一本自無殊。",
+    "folio":1,
+    "stemmed":"故 知 三 一 本 自 無 殊  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c03_6",
+    "original":"汝等所行是菩薩道。",
+    "folio":1,
+    "stemmed":"汝 等 所 行 是 菩 薩 道  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c03_13",
+    "original":"即其證也　問。",
+    "folio":1,
+    "stemmed":"即 其 證 也  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c04_2",
+    "original":"經云道場所得法。",
+    "folio":1,
+    "stemmed":"經 云 道 場 所 得 法  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c04_17",
+    "original":"未知何者是道場何名所得法　答。",
+    "folio":1,
+    "stemmed":"未 知 何 者 是 道 場 何 名 所 得 法  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c05_2",
+    "original":"道場者。",
+    "folio":1,
+    "stemmed":"道 場 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c05_11",
+    "original":"菩提樹下金剛寶坐。",
+    "folio":1,
+    "stemmed":"菩提樹下 金 剛 寶 坐  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c06_1",
+    "original":"得道處中謂之為場。",
+    "folio":1,
+    "stemmed":"得 道 處 中 謂 之 為 場  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c06_6",
+    "original":"所得法者。",
+    "folio":1,
+    "stemmed":"所 得 法 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c07_4",
+    "original":"三無數修因成果滿湛覺真如是得法故。",
+    "folio":1,
+    "stemmed":"三 無 數 修 因 成 果 滿 湛 覺 真 如 是 得 法 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c07_9",
+    "original":"涅槃經云。",
+    "folio":1,
+    "stemmed":"涅 槃 經 云  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c07_14",
+    "original":"諸佛世尊。",
+    "folio":1,
+    "stemmed":"諸佛世尊  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c08_12",
+    "original":"從六波羅蜜三十七品十一空求至大涅槃。",
+    "folio":1,
+    "stemmed":"從 六波羅蜜 三十七品 十 一 空 求 至 大 涅 槃  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c09_2",
+    "original":"即其義也　問。",
+    "folio":1,
+    "stemmed":"即 其 義 也  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c10_1",
+    "original":"經云日月燈明佛為妙光菩薩說妙法花經。",
+    "folio":1,
+    "stemmed":"經 云 日 月 燈 明 佛 為 妙 光 菩 薩 說 妙 法 花 經  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c10_14",
+    "original":"滿六十劫時會經者乃如食頃。",
+    "folio":1,
+    "stemmed":"滿 六 十 劫 時 會 經 者 乃 如 食 頃  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c11_8",
+    "original":"此即多少相違長短乖反　答。",
+    "folio":1,
+    "stemmed":"此 即 多 少 相 違 長 短 乖 反  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c12_3",
+    "original":"燈明出世救物為懷悲願不窮。",
+    "folio":1,
+    "stemmed":"燈 明 出 世 救 物 為 懷 悲 願 不 窮  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c13_7",
+    "original":"時經六十群機慕道渴仰憶深稟教恬神說如食頃故。",
+    "folio":1,
+    "stemmed":"時 經 六 十 群 機 慕 道 渴 仰 憶 深 稟 教 恬 神 說 如 食 頃 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c14_9",
+    "original":"下文言是時眾中無有一人若身若心而生懈倦。",
+    "folio":1,
+    "stemmed":"下 文 言 是 時 眾 中 無 有 一 人 若 身 若 心 而 生 懈 倦  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c15_15",
+    "original":"亦可言燈明神力長中短短中現長轉彼心識令如食頃故。",
+    "folio":1,
+    "stemmed":"亦 可 言 燈 明 神 力 長 中 短 短 中 現 長 轉 彼 心 識 令 如 食 頃 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c16_13",
+    "original":"下文言釋迦牟尼佛乃四眾默然而坐。",
+    "folio":1,
+    "stemmed":"下 文 言 釋 迦 牟 尼 佛 乃 四 眾 默 然 而 坐  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c17_1",
+    "original":"經五十小劫。",
+    "folio":1,
+    "stemmed":"經 五 十 小 劫  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c17_6",
+    "original":"佛神力故。",
+    "folio":1,
+    "stemmed":"佛 神 力 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c17_17",
+    "original":"令諸大眾謂如半日　問。",
+    "folio":1,
+    "stemmed":"令 諸 大 眾 謂 如 半 日  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c19_2",
+    "original":"經云大通智勝佛十劫坐道場佛法不現前不得成佛道。",
+    "folio":1,
+    "stemmed":"經 云 大 通 智 勝 佛 十 劫 坐 道 場 佛 法 不 現 前 不 得 成 佛 道  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c19_13",
+    "original":"何故久坐十劫不得成佛。",
+    "folio":1,
+    "stemmed":"何 故 久 坐 十 劫 不 得 成 佛  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c20_3",
+    "original":"何名法不現前　答。",
+    "folio":1,
+    "stemmed":"何 名 法 不 現 前  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c20_12",
+    "original":"據論實行因滿名成。",
+    "folio":1,
+    "stemmed":"據 論 實 行 因 滿 名 成  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c21_10",
+    "original":"為物潛形示言始就稟機赴感延促任情。",
+    "folio":1,
+    "stemmed":"為 物 潛 形 示 言 始 就 稟 機 赴 感 延 促 任 情  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c22_9",
+    "original":"緣彼群品經停十劫化物未暢法不現前。",
+    "folio":1,
+    "stemmed":"緣 彼 群 品 經 停 十 劫 化 物 未 暢 法 不 現 前  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c23_1",
+    "original":"機教相應方言乃現故。",
+    "folio":1,
+    "stemmed":"機 教 相 應 方 言 乃 現 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c23_7",
+    "original":"大威德世尊。",
+    "folio":1,
+    "stemmed":"大 威 德 世 尊  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c23_13",
+    "original":"為度眾生故。",
+    "folio":1,
+    "stemmed":"為 度 眾 生 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c24_5",
+    "original":"於無量億歲爾乃成佛　問。",
+    "folio":1,
+    "stemmed":"於 無 量 億 歲 爾 乃 成 佛  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c24_11",
+    "original":"大通智勝佛。",
+    "folio":1,
+    "stemmed":"大 通 智 勝 佛  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c24_19",
+    "original":"即轉十二行法輪。",
+    "folio":1,
+    "stemmed":"即 轉 十 二 行 法 輪  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c25_10",
+    "original":"未知何者是十二行法輪。",
+    "folio":1,
+    "stemmed":"未 知 何 者 是 十 二 行 法 輪  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c26_2",
+    "original":"假出數列名解義　答。",
+    "folio":1,
+    "stemmed":"假 出 數 列 名 解 義  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c26_9",
+    "original":"十二行法輪者。",
+    "folio":1,
+    "stemmed":"十 二 行 法 輪 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c26_17",
+    "original":"謂三轉四諦謂也。",
+    "folio":1,
+    "stemmed":"謂 三 轉 四 諦 謂 也  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c27_2",
+    "original":"三轉者。",
+    "folio":1,
+    "stemmed":"三 轉 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c27_7",
+    "original":"一示相轉。",
+    "folio":1,
+    "stemmed":"一 示 相 轉  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c27_11",
+    "original":"二勸修。",
+    "folio":1,
+    "stemmed":"二 勸 修  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c27_15",
+    "original":"三引證。",
+    "folio":1,
+    "stemmed":"三 引 證  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c28_2",
+    "original":"示相者謂此是苦。",
+    "folio":1,
+    "stemmed":"示 相 者 謂 此 是 苦  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c28_6",
+    "original":"此是集。",
+    "folio":1,
+    "stemmed":"此 是 集  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c28_10",
+    "original":"此是滅。",
+    "folio":1,
+    "stemmed":"此 是 滅  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c28_14",
+    "original":"此是道。",
+    "folio":1,
+    "stemmed":"此 是 道  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c28_18",
+    "original":"勸修者。",
+    "folio":1,
+    "stemmed":"勸 修 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c29_7",
+    "original":"謂者汝應證道汝應修。",
+    "folio":1,
+    "stemmed":"謂 者 汝 應 證 道 汝 應 修  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c29_11",
+    "original":"引證者。",
+    "folio":1,
+    "stemmed":"引 證 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0204c29_19",
+    "original":"謂引已以為證者。",
+    "folio":1,
+    "stemmed":"謂 引 已 以 為 證 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a01_4",
+    "original":"我已知集。",
+    "folio":1,
+    "stemmed":"我 已 知 集  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a01_9",
+    "original":"我已斷滅。",
+    "folio":1,
+    "stemmed":"我 已 斷 滅  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a01_14",
+    "original":"我已證道。",
+    "folio":1,
+    "stemmed":"我 已 證 道  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a02_5",
+    "original":"我已修三四即是十二也。",
+    "folio":1,
+    "stemmed":"我 已 修 三 四 即 是 十 二 也  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a02_17",
+    "original":"又解四諦各有四行即十二。",
+    "folio":1,
+    "stemmed":"又 解 四 諦 各 有 四 行 即 十 二  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a03_5",
+    "original":"苦諦下四行者。",
+    "folio":1,
+    "stemmed":"苦 諦 下 四 行 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a03_11",
+    "original":"謂因舉有緣。",
+    "folio":1,
+    "stemmed":"謂 因 舉 有 緣  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a03_18",
+    "original":"滅諦下四行者。",
+    "folio":1,
+    "stemmed":"滅 諦 下 四 行 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a04_4",
+    "original":"謂滅正妙離。",
+    "folio":1,
+    "stemmed":"謂 滅 正 妙 離  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a04_11",
+    "original":"道諦下四行者。",
+    "folio":1,
+    "stemmed":"道 諦 下 四 行 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a05_10",
+    "original":"謂道如我四諦諦別三轉四行各有十二行。",
+    "folio":1,
+    "stemmed":"謂 道 如 我 四 諦 諦 別 三 轉 四 行 各 有 十 二 行  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a05_16",
+    "original":"今言十二者。",
+    "folio":1,
+    "stemmed":"今 言 十 二 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a06_7",
+    "original":"以四諦俱同三共十二。",
+    "folio":1,
+    "stemmed":"以 四 諦 俱 同 三 共 十 二  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a06_18",
+    "original":"舉其通數言十二行法輪。",
+    "folio":1,
+    "stemmed":"舉 其 通 數 言 十 二 行 法 輪  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a07_1",
+    "original":"問。",
+    "folio":1,
+    "stemmed":"問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a07_14",
+    "original":"經云大聖轉法輪度苦惱眾生。",
+    "folio":1,
+    "stemmed":"經 云 大 聖 轉 法 輪 度 苦 惱 眾 生  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a08_12",
+    "original":"未知大聖是□轉何法輪云何名轉　答。",
+    "folio":1,
+    "stemmed":"未 知 大 聖 是  轉 何 法 輪 云 何 名 轉  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a09_5",
+    "original":"大聖者謂大通智勝佛也。",
+    "folio":1,
+    "stemmed":"大 聖 者 謂 大 通 智 勝 佛 也  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a09_16",
+    "original":"斯乃十方無比三界獨尊。",
+    "folio":1,
+    "stemmed":"斯 乃 十 方 無 比 三 界 獨 尊  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a10_6",
+    "original":"神化通機故言大聖。",
+    "folio":1,
+    "stemmed":"神 化 通 機 故 言 大 聖  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a11_9",
+    "original":"轉法輪者以已所得說據群機法從佛流謂之為轉。",
+    "folio":1,
+    "stemmed":"轉 法 輪 者 以 已 所 得 說 據 群 機 法 從 佛 流 謂 之 為 轉  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a12_1",
+    "original":"輪者以修環運動為義。",
+    "folio":1,
+    "stemmed":"輪 者 以 修 環 運 動 為 義  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a12_10",
+    "original":"如來放命機攝眾生。",
+    "folio":1,
+    "stemmed":"如 來 放 命 機 攝 眾 生  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a13_4",
+    "original":"以機行教轉凡成聖故曰法輪。",
+    "folio":1,
+    "stemmed":"以 機 行 教 轉 凡 成 聖 故 曰 法 輪  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a13_17",
+    "original":"轉何輪者對彼三根轉三乘教。",
+    "folio":1,
+    "stemmed":"轉 何 輪 者 對 彼 三 根 轉 三 乘 教  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a14_10",
+    "original":"謂四諦十二緣六波羅蜜也。",
+    "folio":1,
+    "stemmed":"謂 四 諦 十 二 緣 六波羅蜜 也  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a15_1",
+    "original":"惣而言之法輪有三。",
+    "folio":1,
+    "stemmed":"惣 而 言 之 法 輪 有 三  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a15_7",
+    "original":"一名轉法輪。",
+    "folio":1,
+    "stemmed":"一 名 轉 法 輪  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a15_13",
+    "original":"二名照法輪。",
+    "folio":1,
+    "stemmed":"二 名 照 法 輪  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a15_18",
+    "original":"三名轉輪。",
+    "folio":1,
+    "stemmed":"三 名 轉 輪  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a16_10",
+    "original":"三乘別機教俱識未得究竟。",
+    "folio":1,
+    "stemmed":"三 乘 別 機 教 俱 識 未得究竟  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a17_5",
+    "original":"為一乘所收有遷動之名為轉。",
+    "folio":1,
+    "stemmed":"為 一 乘 所 收 有 遷 動 之 名 為 轉  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a17_16",
+    "original":"為大菩薩等說諸部波若。",
+    "folio":1,
+    "stemmed":"為 大 菩 薩 等 說 諸 部 波 若  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a18_10",
+    "original":"顯理途明照彼大機名照法輪。",
+    "folio":1,
+    "stemmed":"顯 理 途 明 照 彼 大 機 名 照 法 輪  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a19_1",
+    "original":"大乘頓教果得圓滿。",
+    "folio":1,
+    "stemmed":"大 乘 頓 教 果 得 圓 滿  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a19_18",
+    "original":"惣苞三乘眾聖共臻諸佛護念名持法輪。",
+    "folio":1,
+    "stemmed":"惣 苞 三 乘 眾 聖 共 臻 諸 佛 護 念 名 持 法 輪  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a20_9",
+    "original":"今明大通三輪俱轉故。",
+    "folio":1,
+    "stemmed":"今 明 大 通 三 輪 俱 轉 故  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a21_2",
+    "original":"上文言時三轉十二法輪。",
+    "folio":1,
+    "stemmed":"上 文 言 時 三 轉 十 二 法 輪  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a21_11",
+    "original":"及廣說十二因緣法。",
+    "folio":1,
+    "stemmed":"及 廣 說 十二因緣 法  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a22_4",
+    "original":"為十六王子說阿耨菩提法。",
+    "folio":1,
+    "stemmed":"為 十 六 王 子 說 阿耨菩提 法  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a22_11",
+    "original":"即其義也　問。",
+    "folio":1,
+    "stemmed":"即 其 義 也  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a23_5",
+    "original":"經言百福相莊嚴何者是　答。",
+    "folio":1,
+    "stemmed":"經 言 百 福 相 莊 嚴 何 者 是  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a23_13",
+    "original":"如來具三十二相。",
+    "folio":1,
+    "stemmed":"如 來 具 三十二相  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a24_3",
+    "original":"一相中皆以百福者。",
+    "folio":1,
+    "stemmed":"一 相 中 皆 以 百 福 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a24_10",
+    "original":"以十善業為本。",
+    "folio":1,
+    "stemmed":"以 十 善 業 為 本  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a25_4",
+    "original":"十善者始從不殺乃至不邪見。",
+    "folio":1,
+    "stemmed":"十 善 者 始 從 不 殺 乃 至 不 邪 見  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a25_13",
+    "original":"翻其十惡即名十善。",
+    "folio":1,
+    "stemmed":"翻 其 十 惡 即 名 十 善  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a26_11",
+    "original":"即此十善即五十心初心猛利得五十福。",
+    "folio":1,
+    "stemmed":"即 此 十 善 即 五 十 心 初 心 猛 利 得 五 十 福  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a27_7",
+    "original":"後心終成得五十福即成百福　問。",
+    "folio":1,
+    "stemmed":"後 心 終 成 得 五 十 福 即 成 百 福  問  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a27_15",
+    "original":"經云入邪見稠林。",
+    "folio":1,
+    "stemmed":"經 云 入 邪 見 稠 林  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a28_7",
+    "original":"若有若無等具足六十二。",
+    "folio":1,
+    "stemmed":"若有若無 等 具 足 六 十 二  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a28_16",
+    "original":"六十二見者何　答。",
+    "folio":1,
+    "stemmed":"六 十 二 見 者 何  答  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205a29_3",
+    "original":"六十二見者。",
+    "folio":1,
+    "stemmed":"六 十 二 見 者  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205b01_5",
+    "original":"謂世間常無常亦常亦無常非常非無常等四句。",
+    "folio":1,
+    "stemmed":"謂 世 間 常 無 常 亦 常 亦 無 常 非常非無常 等 四 句  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205b02_6",
+    "original":"有邊無邊亦有邊亦無邊非邊非非邊等四句。",
+    "folio":1,
+    "stemmed":"有邊無邊 亦 有 邊 亦 無 邊 非 邊 非 非 邊 等 四 句  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205b03_4",
+    "original":"如如不如如非如如非非如如等四句。",
+    "folio":1,
+    "stemmed":"如 如 不 如 如 非 如 如 非 非 如 如 等 四 句  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205b03_14",
+    "original":"三四十二句偈迷五陰。",
+    "folio":1,
+    "stemmed":"三 四 十 二 句 偈 迷 五 陰  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205b04_9",
+    "original":"一一陰中各作十二句即六十帖。",
+    "folio":1,
+    "stemmed":"一 一 陰 中 各 作 十 二 句 即 六 十 帖  "
+  },
+  {
+    "segmentnr":"ZH_T85_2752_001:0205b05_6",
+    "original":"是身命各異命異二句即成六十二。",
+    "folio":1,
+    "stemmed":"是 身 命 各 異 命 異 二 句 即 成 六 十 二  "
+  }
+]

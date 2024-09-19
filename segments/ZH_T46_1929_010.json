@@ -1,0 +1,5108 @@
+[
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c04_0",
+    "original":"四教義卷第十",
+    "folio":10,
+    "stemmed":"四 教 義 卷 第 十 "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c06_0",
+    "original":"天台山修禪寺智顗禪師撰",
+    "folio":10,
+    "stemmed":"天 台 山 修 禪 寺 智 顗 禪 師 撰 "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c07_0",
+    "original":"五明十地者。此是聖種性位。從此位見佛",
+    "folio":10,
+    "stemmed":"五 明 十 地 者  此 是 聖 種 性 位  從 此 位 見 佛 "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c08_1",
+    "original":"性。",
+    "folio":10,
+    "stemmed":"性  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c08_10",
+    "original":"發中道第一義諦觀。",
+    "folio":10,
+    "stemmed":"發 中 道 第一義諦 觀  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c08_19",
+    "original":"雙照二諦心心寂滅。",
+    "folio":10,
+    "stemmed":"雙 照 二 諦 心 心 寂 滅  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c09_8",
+    "original":"自然流入薩波若海。",
+    "folio":10,
+    "stemmed":"自 然 流 入 薩 波 若 海  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c09_14",
+    "original":"證無作四諦。",
+    "folio":10,
+    "stemmed":"證 無 作 四 諦  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c10_4",
+    "original":"一實平等法界圓融。",
+    "folio":10,
+    "stemmed":"一 實 平 等 法 界 圓 融  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c10_11",
+    "original":"從初地至佛地。",
+    "folio":10,
+    "stemmed":"從 初 地 至 佛 地  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c10_16",
+    "original":"皆斷無明。",
+    "folio":10,
+    "stemmed":"皆 斷 無 明  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c11_5",
+    "original":"但以位約分為三道。",
+    "folio":10,
+    "stemmed":"但 以 位 約 分 為 三 道  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c11_12",
+    "original":"初地名見諦道。",
+    "folio":10,
+    "stemmed":"初 地 名 見 諦 道  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c12_3",
+    "original":"二地至六地名為修道。",
+    "folio":10,
+    "stemmed":"二 地 至 六 地 名 為 修 道  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c12_9",
+    "original":"從七地已去。",
+    "folio":10,
+    "stemmed":"從 七 地 已 去  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c12_14",
+    "original":"名無學道。",
+    "folio":10,
+    "stemmed":"名 無 學 道  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c12_18",
+    "original":"十地者。",
+    "folio":10,
+    "stemmed":"十 地 者  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c13_3",
+    "original":"初歡喜地。",
+    "folio":10,
+    "stemmed":"初歡喜地  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c13_8",
+    "original":"二離垢地。",
+    "folio":10,
+    "stemmed":"二 離 垢 地  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c13_13",
+    "original":"三明慧地。",
+    "folio":10,
+    "stemmed":"三 明 慧 地  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c13_18",
+    "original":"四焰慧地。",
+    "folio":10,
+    "stemmed":"四 焰 慧 地  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c14_3",
+    "original":"五難勝地。",
+    "folio":10,
+    "stemmed":"五 難 勝 地  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c14_8",
+    "original":"六現前地。",
+    "folio":10,
+    "stemmed":"六 現 前 地  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c14_13",
+    "original":"七遠行地。",
+    "folio":10,
+    "stemmed":"七 遠 行 地  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c14_18",
+    "original":"八不動地。",
+    "folio":10,
+    "stemmed":"八 不 動 地  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c15_2",
+    "original":"九善慧地。",
+    "folio":10,
+    "stemmed":"九 善 慧 地  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c15_7",
+    "original":"十法雲地。",
+    "folio":10,
+    "stemmed":"十 法 雲 地  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c15_14",
+    "original":"此十通名地者。",
+    "folio":10,
+    "stemmed":"此 十 通 名 地 者  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c16_7",
+    "original":"一能生成佛智慧住持不動。",
+    "folio":10,
+    "stemmed":"一 能 生 成 佛 智 慧 住 持 不 動  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c17_2",
+    "original":"二能以無緣大悲荷負一切。",
+    "folio":10,
+    "stemmed":"二 能 以 無緣大悲 荷 負 一 切  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c17_7",
+    "original":"故名地也。",
+    "folio":10,
+    "stemmed":"故 名 地 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c17_16",
+    "original":"初歡喜地名見道者。",
+    "folio":10,
+    "stemmed":"初歡喜地 名 見 道 者  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c18_7",
+    "original":"初發真中道見佛性理。",
+    "folio":10,
+    "stemmed":"初 發 真 中 道 見 佛 性 理  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c18_13",
+    "original":"斷無明見惑。",
+    "folio":10,
+    "stemmed":"斷 無 明 見 惑  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c18_19",
+    "original":"顯真應二身。",
+    "folio":10,
+    "stemmed":"顯 真 應 二 身  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c19_8",
+    "original":"緣感即應百佛世界。",
+    "folio":10,
+    "stemmed":"緣 感 即 應 百 佛 世 界  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c19_14",
+    "original":"現十法界身。",
+    "folio":10,
+    "stemmed":"現 十 法 界 身  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c20_2",
+    "original":"入三世佛智地。",
+    "folio":10,
+    "stemmed":"入 三 世 佛 智 地  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c20_12",
+    "original":"能自利利他真實大慶。",
+    "folio":10,
+    "stemmed":"能 自利利他 真 實 大 慶  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c20_18",
+    "original":"故名歡喜地。",
+    "folio":10,
+    "stemmed":"故 名 歡 喜 地  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c21_5",
+    "original":"大涅槃經云。",
+    "folio":10,
+    "stemmed":"大 涅 槃 經 云  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c21_11",
+    "original":"菩薩聖行滿。",
+    "folio":10,
+    "stemmed":"菩 薩 聖 行 滿  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c22_2",
+    "original":"即是住於無所畏地。",
+    "folio":10,
+    "stemmed":"即 是 住 於 無 所 畏 地  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c22_7",
+    "original":"即是初地。",
+    "folio":10,
+    "stemmed":"即 是 初 地  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c22_16",
+    "original":"初地菩薩離五怖畏。",
+    "folio":10,
+    "stemmed":"初 地 菩 薩 離 五 怖 畏  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c22_20",
+    "original":"無死畏。",
+    "folio":10,
+    "stemmed":"無 死 畏  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c23_4",
+    "original":"無不活畏。",
+    "folio":10,
+    "stemmed":"無 不 活 畏  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c23_9",
+    "original":"無惡道畏。",
+    "folio":10,
+    "stemmed":"無 惡 道 畏  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c23_14",
+    "original":"無惡名畏。",
+    "folio":10,
+    "stemmed":"無 惡 名 畏  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c24_1",
+    "original":"無大眾威德畏。",
+    "folio":10,
+    "stemmed":"無 大 眾 威 德 畏  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c24_10",
+    "original":"涅槃經雖不作此名。",
+    "folio":10,
+    "stemmed":"涅 槃 經 雖 不 作 此 名  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c24_15",
+    "original":"義推孱同。",
+    "folio":10,
+    "stemmed":"義 推 孱 同  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c25_5",
+    "original":"若言不畏貪欲恚癡。",
+    "folio":10,
+    "stemmed":"若 言 不 畏 貪 欲 恚 癡  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c25_10",
+    "original":"內無三毒。",
+    "folio":10,
+    "stemmed":"內 無 三 毒  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c25_15",
+    "original":"外離八風。",
+    "folio":10,
+    "stemmed":"外 離 八 風  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c26_1",
+    "original":"無惡名畏也。",
+    "folio":10,
+    "stemmed":"無 惡 名 畏 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c26_9",
+    "original":"若言不畏地獄等。",
+    "folio":10,
+    "stemmed":"若 言 不 畏 地 獄 等  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c26_15",
+    "original":"即無惡道畏。",
+    "folio":10,
+    "stemmed":"即 無 惡 道 畏  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c27_10",
+    "original":"若言不畏沙門婆羅門即無大眾畏。",
+    "folio":10,
+    "stemmed":"若 言 不 畏 沙 門 婆 羅 門 即 無 大 眾 畏  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c27_17",
+    "original":"今既入無畏地。",
+    "folio":10,
+    "stemmed":"今 既 入 無 畏 地  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c28_6",
+    "original":"見中道則無二死。",
+    "folio":10,
+    "stemmed":"見 中 道 則 無 二 死  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c28_13",
+    "original":"故言無死畏也。",
+    "folio":10,
+    "stemmed":"故 言 無 死 畏 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c29_6",
+    "original":"法身常命以顯無不活畏也。",
+    "folio":10,
+    "stemmed":"法 身 常 命 以 顯 無 不 活 畏 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0755c29_13",
+    "original":"以得入此地故。",
+    "folio":10,
+    "stemmed":"以 得 入 此 地 故  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a01_3",
+    "original":"則具二十五三昧。",
+    "folio":10,
+    "stemmed":"則 具 二 十 五 三 昧  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a01_9",
+    "original":"破二十五有。",
+    "folio":10,
+    "stemmed":"破 二十五有  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a01_18",
+    "original":"顯二十五有之我性。",
+    "folio":10,
+    "stemmed":"顯 二十五有 之 我 性  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a02_5",
+    "original":"我性即是實性。",
+    "folio":10,
+    "stemmed":"我 性 即 是 實 性  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a02_12",
+    "original":"是名慧行成就。",
+    "folio":10,
+    "stemmed":"是 名 慧 行 成 就  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a03_4",
+    "original":"得五三昧即五行成就。",
+    "folio":10,
+    "stemmed":"得 五 三 昧 即 五 行 成 就  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a03_11",
+    "original":"住於無畏之地。",
+    "folio":10,
+    "stemmed":"住 於 無 畏 之 地  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a04_1",
+    "original":"即得初地之名也。",
+    "folio":10,
+    "stemmed":"即 得 初 地 之 名 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a04_8",
+    "original":"就此即為五意。",
+    "folio":10,
+    "stemmed":"就 此 即 為 五 意  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a05_1",
+    "original":"一明得二十五三昧聖行成。",
+    "folio":10,
+    "stemmed":"一 明 得 二 十 五 三 昧 聖 行 成  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a05_6",
+    "original":"二明梵行。",
+    "folio":10,
+    "stemmed":"二 明 梵 行  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a05_11",
+    "original":"三明天行。",
+    "folio":10,
+    "stemmed":"三 明 天 行  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a05_17",
+    "original":"四明嬰兒行。",
+    "folio":10,
+    "stemmed":"四 明 嬰 兒 行  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a06_2",
+    "original":"五明病行。",
+    "folio":10,
+    "stemmed":"五 明 病 行  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a06_15",
+    "original":"一明得二十五三昧聖行成者。",
+    "folio":10,
+    "stemmed":"一 明 得 二 十 五 三 昧 聖 行 成 者  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a07_1",
+    "original":"即為三意。",
+    "folio":10,
+    "stemmed":"即 為 三 意  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a07_10",
+    "original":"一釋二十五三昧名。",
+    "folio":10,
+    "stemmed":"一 釋 二 十 五 三 昧 名  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a08_2",
+    "original":"二正修明二十五三昧成。",
+    "folio":10,
+    "stemmed":"二 正 修 明 二 十 五 三 昧 成  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a08_8",
+    "original":"三外用利物。",
+    "folio":10,
+    "stemmed":"三 外 用 利 物  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a08_18",
+    "original":"一釋二十五三昧名者。",
+    "folio":10,
+    "stemmed":"一 釋 二 十 五 三 昧 名 者  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a09_3",
+    "original":"略為四意。",
+    "folio":10,
+    "stemmed":"略 為 四 意  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a09_14",
+    "original":"即是約四悉檀而立名也。",
+    "folio":10,
+    "stemmed":"即 是 約 四 悉 檀 而 立 名 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a10_3",
+    "original":"一者隨時趣立名。",
+    "folio":10,
+    "stemmed":"一 者 隨 時 趣 立 名  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a10_9",
+    "original":"二隨便立名。",
+    "folio":10,
+    "stemmed":"二 隨 便 立 名  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a10_16",
+    "original":"三隨對治立名。",
+    "folio":10,
+    "stemmed":"三 隨 對 治 立 名  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a11_3",
+    "original":"四隨理立名。",
+    "folio":10,
+    "stemmed":"四 隨 理 立 名  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a11_10",
+    "original":"一隨時立名者。",
+    "folio":10,
+    "stemmed":"一 隨 時 立 名 者  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a11_19",
+    "original":"譬如人有二十五子。",
+    "folio":10,
+    "stemmed":"譬 如 人 有 二 十 五 子  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a12_6",
+    "original":"隨時名作一字。",
+    "folio":10,
+    "stemmed":"隨 時 名 作 一 字  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a12_15",
+    "original":"大者初生為作一字。",
+    "folio":10,
+    "stemmed":"大 者 初 生 為 作 一 字  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a13_1",
+    "original":"次者後生。",
+    "folio":10,
+    "stemmed":"次 者 後 生  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a13_6",
+    "original":"又作一字。",
+    "folio":10,
+    "stemmed":"又 作 一 字  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a13_13",
+    "original":"不可見大兒名。",
+    "folio":10,
+    "stemmed":"不 可 見 大 兒 名  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a14_3",
+    "original":"此亦令第二者名此。",
+    "folio":10,
+    "stemmed":"此 亦 令 第 二 者 名 此  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a14_9",
+    "original":"如是則不濫。",
+    "folio":10,
+    "stemmed":"如 是 則 不 濫  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a14_18",
+    "original":"此二十五名亦如是。",
+    "folio":10,
+    "stemmed":"此 二 十 五 名 亦 如 是  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a15_9",
+    "original":"各舉一名令世諦不亂。",
+    "folio":10,
+    "stemmed":"各 舉 一 名 令 世 諦 不 亂  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a15_16",
+    "original":"世間名字皆爾。",
+    "folio":10,
+    "stemmed":"世 間 名 字 皆 爾  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a16_4",
+    "original":"不可求定實也。",
+    "folio":10,
+    "stemmed":"不 可 求 定 實 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a16_16",
+    "original":"二者隨二十五有便而立名。",
+    "folio":10,
+    "stemmed":"二 者 隨 二十五有 便 而 立 名  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a17_7",
+    "original":"若作餘名事義非不便。",
+    "folio":10,
+    "stemmed":"若 作 餘 名 事 義 非 不 便  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a17_15",
+    "original":"是故隨便立名也。",
+    "folio":10,
+    "stemmed":"是 故 隨 便 立 名 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a18_10",
+    "original":"三者隨對治立二十五三昧名。",
+    "folio":10,
+    "stemmed":"三 者 隨 對 治 立 二 十 五 三 昧 名  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a19_4",
+    "original":"各治一有用是故對治立名。",
+    "folio":10,
+    "stemmed":"各 治 一 有 用 是 故 對 治 立 名  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a19_12",
+    "original":"四者隨理立名者。",
+    "folio":10,
+    "stemmed":"四 者 隨 理 立 名 者  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a20_6",
+    "original":"此二十五三昧不出法性理。",
+    "folio":10,
+    "stemmed":"此 二 十 五 三 昧 不 出 法 性 理  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a20_11",
+    "original":"理合於義。",
+    "folio":10,
+    "stemmed":"理 合 於 義  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a20_17",
+    "original":"從義而立名。",
+    "folio":10,
+    "stemmed":"從 義 而 立 名  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a21_7",
+    "original":"名義雖異理實無別。",
+    "folio":10,
+    "stemmed":"名 義 雖 異 理 實 無 別  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a21_13",
+    "original":"約此四意故。",
+    "folio":10,
+    "stemmed":"約 此 四 意 故  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a22_5",
+    "original":"得立二十五三昧名也。",
+    "folio":10,
+    "stemmed":"得 立 二 十 五 三 昧 名 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a22_10",
+    "original":"詳經文意。",
+    "folio":10,
+    "stemmed":"詳 經 文 意  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a23_1",
+    "original":"多有對治約理兩義。",
+    "folio":10,
+    "stemmed":"多 有 對 治 約 理 兩 義  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a23_10",
+    "original":"以立二十五三昧名。",
+    "folio":10,
+    "stemmed":"以 立 二 十 五 三 昧 名  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a24_3",
+    "original":"二正釋二十五三昧修成者。",
+    "folio":10,
+    "stemmed":"二 正 釋 二 十 五 三 昧 修 成 者  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a24_13",
+    "original":"一一三昧中皆有四意。",
+    "folio":10,
+    "stemmed":"一 一 三 昧 中 皆 有 四 意  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a25_4",
+    "original":"一出諸有行業惑障。",
+    "folio":10,
+    "stemmed":"一 出 諸 有 行 業 惑 障  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a25_11",
+    "original":"二用三昧治破。",
+    "folio":10,
+    "stemmed":"二 用 三 昧 治 破  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a25_17",
+    "original":"三結成三昧。",
+    "folio":10,
+    "stemmed":"三 結 成 三 昧  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a26_3",
+    "original":"四慈悲破有。",
+    "folio":10,
+    "stemmed":"四 慈 悲 破 有  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a26_12",
+    "original":"一一悉具此四意也。",
+    "folio":10,
+    "stemmed":"一 一 悉 具 此 四 意 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a27_5",
+    "original":"初明無垢三昧破地獄有。",
+    "folio":10,
+    "stemmed":"初 明 無 垢 三 昧 破 地 獄 有  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a27_10",
+    "original":"即為四意。",
+    "folio":10,
+    "stemmed":"即 為 四 意  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a27_16",
+    "original":"一明業結者。",
+    "folio":10,
+    "stemmed":"一 明 業 結 者  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a28_6",
+    "original":"罪之尤重莫若地獄。",
+    "folio":10,
+    "stemmed":"罪 之 尤 重 莫 若 地 獄  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a29_2",
+    "original":"惡業垢重見思垢塵沙垢無明垢。",
+    "folio":10,
+    "stemmed":"惡 業 垢 重 見 思 垢 塵 沙 垢 無 明 垢  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756a29_12",
+    "original":"二明用三昧破無明者。",
+    "folio":10,
+    "stemmed":"二 明 用 三 昧 破 無 明 者  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b01_3",
+    "original":"菩薩為破是諸垢故。",
+    "folio":10,
+    "stemmed":"菩 薩 為 破 是 諸 垢 故  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b01_13",
+    "original":"修前根本戒破惡業垢。",
+    "folio":10,
+    "stemmed":"修 前 根 本 戒 破 惡 業 垢  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b02_6",
+    "original":"修前八背捨等定伏見思垢。",
+    "folio":10,
+    "stemmed":"修 前 八 背 捨 等 定 伏 見 思 垢  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b02_18",
+    "original":"修有作無生等慧斷見思垢。",
+    "folio":10,
+    "stemmed":"修 有 作 無 生 等 慧 斷 見 思 垢  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b03_8",
+    "original":"修無量慧破塵沙垢。",
+    "folio":10,
+    "stemmed":"修 無 量 慧 破 塵 沙 垢  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b03_17",
+    "original":"修無作慧破無明垢。",
+    "folio":10,
+    "stemmed":"修 無 作 慧 破 無 明 垢  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b04_6",
+    "original":"三明結成三昧者。",
+    "folio":10,
+    "stemmed":"三 明 結 成 三 昧 者  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b04_17",
+    "original":"破見思垢故真諦三昧成。",
+    "folio":10,
+    "stemmed":"破 見 思 垢 故 真 諦 三 昧 成  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b05_8",
+    "original":"破惡業垢及塵沙垢故。",
+    "folio":10,
+    "stemmed":"破 惡 業 垢 及 塵 沙 垢 故  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b05_14",
+    "original":"俗諦三昧成。",
+    "folio":10,
+    "stemmed":"俗 諦 三 昧 成  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b06_1",
+    "original":"破無明垢故。",
+    "folio":10,
+    "stemmed":"破 無 明 垢 故  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b06_10",
+    "original":"中道第一義三昧成。",
+    "folio":10,
+    "stemmed":"中 道 第 一 義 三 昧 成  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b06_17",
+    "original":"四明慈悲利物。",
+    "folio":10,
+    "stemmed":"四 明 慈 悲 利 物  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b07_13",
+    "original":"菩薩已自破地獄垢故得三諦三昧。",
+    "folio":10,
+    "stemmed":"菩 薩 已 自 破 地 獄 垢 故 得 三 諦 三 昧  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b08_4",
+    "original":"有大慈悲冥薰法界。",
+    "folio":10,
+    "stemmed":"有 大 慈 悲 冥 薰 法 界  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b08_13",
+    "original":"眾生有機關於慈悲。",
+    "folio":10,
+    "stemmed":"眾 生 有 機 關 於 慈 悲  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b08_19",
+    "original":"以王三昧力。",
+    "folio":10,
+    "stemmed":"以 王 三 昧 力  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b09_8",
+    "original":"法性不動而能應之。",
+    "folio":10,
+    "stemmed":"法 性 不 動 而 能 應 之  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b09_14",
+    "original":"如婆藪調達。",
+    "folio":10,
+    "stemmed":"如 婆 藪 調 達  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b10_1",
+    "original":"應入地獄。",
+    "folio":10,
+    "stemmed":"應 入 地 獄  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b10_6",
+    "original":"隨其所宜。",
+    "folio":10,
+    "stemmed":"隨 其 所 宜  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b10_15",
+    "original":"而為說法破地獄有。",
+    "folio":10,
+    "stemmed":"而 為 說 法 破 地 獄 有  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b11_3",
+    "original":"如聖行品所明。",
+    "folio":10,
+    "stemmed":"如 聖 行 品 所 明  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b11_12",
+    "original":"自修戒定慧等諸行。",
+    "folio":10,
+    "stemmed":"自 修 戒 定 慧 等 諸 行  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b12_2",
+    "original":"故自證三諦三昧成。",
+    "folio":10,
+    "stemmed":"故 自 證 三 諦 三 昧 成  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b12_12",
+    "original":"於聖行中有慈悲誓願。",
+    "folio":10,
+    "stemmed":"於 聖 行 中 有 慈 悲 誓 願  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b13_1",
+    "original":"故破他三諦上垢。",
+    "folio":10,
+    "stemmed":"故 破 他 三 諦 上 垢  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b13_13",
+    "original":"亦破他三諦上惡業煩惱垢。",
+    "folio":10,
+    "stemmed":"亦 破 他 三 諦 上 惡 業 煩 惱 垢  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b13_18",
+    "original":"自既無垢。",
+    "folio":10,
+    "stemmed":"自 既 無 垢  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b14_3",
+    "original":"令他無垢。",
+    "folio":10,
+    "stemmed":"令 他 無 垢  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b14_14",
+    "original":"故此三昧名無垢三昧也。",
+    "folio":10,
+    "stemmed":"故 此 三 昧 名 無 垢 三 昧 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b15_8",
+    "original":"因此下具此四意類前可知。",
+    "folio":10,
+    "stemmed":"因 此 下 具 此 四 意 類 前 可 知  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b16_2",
+    "original":"次明不退三昧破畜生有者。",
+    "folio":10,
+    "stemmed":"次 明 不 退 三 昧 破 畜 生 有 者  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b16_9",
+    "original":"畜生無慚無愧。",
+    "folio":10,
+    "stemmed":"畜 生 無慚無愧  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b16_18",
+    "original":"起惡業故退失善道。",
+    "folio":10,
+    "stemmed":"起 惡 業 故 退 失 善 道  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b17_4",
+    "original":"見思故退失。",
+    "folio":10,
+    "stemmed":"見 思 故 退 失  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b17_9",
+    "original":"塵沙故退。",
+    "folio":10,
+    "stemmed":"塵 沙 故 退  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b17_14",
+    "original":"無明故退。",
+    "folio":10,
+    "stemmed":"無 明 故 退  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b18_3",
+    "original":"菩薩為破諸退故。",
+    "folio":10,
+    "stemmed":"菩 薩 為 破 諸 退 故  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b18_11",
+    "original":"修戒忍破惡業退。",
+    "folio":10,
+    "stemmed":"修 戒 忍 破 惡 業 退  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b18_18",
+    "original":"修定伏見思退。",
+    "folio":10,
+    "stemmed":"修 定 伏 見 思 退  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b19_5",
+    "original":"修生滅無生慧。",
+    "folio":10,
+    "stemmed":"修 生 滅 無 生 慧  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b19_10",
+    "original":"破見思退。",
+    "folio":10,
+    "stemmed":"破 見 思 退  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b19_19",
+    "original":"修無量慧破塵沙退。",
+    "folio":10,
+    "stemmed":"修 無 量 慧 破 塵 沙 退  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b20_8",
+    "original":"修無作慧破無明退。",
+    "folio":10,
+    "stemmed":"修 無 作 慧 破 無 明 退  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b21_1",
+    "original":"見思破故位不退三昧成。",
+    "folio":10,
+    "stemmed":"見 思 破 故 位 不 退 三 昧 成  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b21_12",
+    "original":"塵沙破故行不退三昧成。",
+    "folio":10,
+    "stemmed":"塵 沙 破 故 行 不 退 三 昧 成  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b22_4",
+    "original":"無明破故念不退三昧成。",
+    "folio":10,
+    "stemmed":"無 明 破 故 念 不 退 三 昧 成  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b22_14",
+    "original":"自以修行力破三種退。",
+    "folio":10,
+    "stemmed":"自 以 修 行 力 破 三 種 退  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b23_1",
+    "original":"成三不退。",
+    "folio":10,
+    "stemmed":"成 三 不 退  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b23_8",
+    "original":"自得三諦三昧。",
+    "folio":10,
+    "stemmed":"自 得 三 諦 三 昧  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b23_17",
+    "original":"慈悲之力冥薰法界。",
+    "folio":10,
+    "stemmed":"慈 悲 之 力 冥 薰 法 界  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b24_5",
+    "original":"隨畜生有機感。",
+    "folio":10,
+    "stemmed":"隨 畜 生 有 機 感  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b24_16",
+    "original":"或為象王啄鳥大鷲之身。",
+    "folio":10,
+    "stemmed":"或 為 象 王 啄 鳥 大 鷲 之 身  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b25_6",
+    "original":"隨其所宜而生其中。",
+    "folio":10,
+    "stemmed":"隨 其 所 宜 而 生 其 中  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b25_15",
+    "original":"現為說法破畜生有。",
+    "folio":10,
+    "stemmed":"現 為 說 法 破 畜 生 有  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b26_5",
+    "original":"自既不退令他不退。",
+    "folio":10,
+    "stemmed":"自 既 不 退 令 他 不 退  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b26_16",
+    "original":"故此三昧名不退三昧也。",
+    "folio":10,
+    "stemmed":"故 此 三 昧 名 不 退 三 昧 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b27_8",
+    "original":"次心樂三昧破餓鬼有者。",
+    "folio":10,
+    "stemmed":"次 心 樂 三 昧 破 餓 鬼 有 者  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b28_7",
+    "original":"餓鬼有常為慳惡業纏繞貪愛飢餓苦。",
+    "folio":10,
+    "stemmed":"餓 鬼 有 常 為 慳 惡 業 纏 繞 貪 愛 飢 餓 苦  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b28_13",
+    "original":"見思煩惱苦。",
+    "folio":10,
+    "stemmed":"見 思 煩 惱 苦  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b29_1",
+    "original":"塵沙無知苦。",
+    "folio":10,
+    "stemmed":"塵 沙 無 知 苦  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b29_7",
+    "original":"無明闇弊苦。",
+    "folio":10,
+    "stemmed":"無 明 闇 弊 苦  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756b29_15",
+    "original":"菩薩為破是諸苦。",
+    "folio":10,
+    "stemmed":"菩 薩 為 破 是 諸 苦  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c01_5",
+    "original":"修戒施破慳惡業苦。",
+    "folio":10,
+    "stemmed":"修 戒 施 破 慳 惡 業 苦  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c01_12",
+    "original":"修定伏見思苦。",
+    "folio":10,
+    "stemmed":"修 定 伏 見 思 苦  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c02_3",
+    "original":"修生滅等慧破見思苦。",
+    "folio":10,
+    "stemmed":"修 生 滅 等 慧 破 見 思 苦  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c02_12",
+    "original":"修無量慧破塵沙苦。",
+    "folio":10,
+    "stemmed":"修 無 量 慧 破 塵 沙 苦  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c03_2",
+    "original":"修無作慧破無明苦。",
+    "folio":10,
+    "stemmed":"修 無 作 慧 破 無 明 苦  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c03_16",
+    "original":"破見思苦真諦無為心樂三昧成。",
+    "folio":10,
+    "stemmed":"破 見 思 苦 真 諦 無 為 心 樂 三 昧 成  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c04_6",
+    "original":"破慳惡業塵沙苦。",
+    "folio":10,
+    "stemmed":"破 慳 惡 業 塵 沙 苦  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c04_18",
+    "original":"俗諦分別多門心樂三昧成。",
+    "folio":10,
+    "stemmed":"俗 諦 分 別 多 門 心 樂 三 昧 成  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c05_11",
+    "original":"破無明苦中道常樂三昧成。",
+    "folio":10,
+    "stemmed":"破 無 明 苦 中 道 常 樂 三 昧 成  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c06_6",
+    "original":"以自修行證得三樂三諦三昧。",
+    "folio":10,
+    "stemmed":"以 自 修 行 證 得 三 樂 三 諦 三 昧  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c06_16",
+    "original":"以諸行中慈悲之力薰。",
+    "folio":10,
+    "stemmed":"以 諸 行 中 慈 悲 之 力 薰  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c07_3",
+    "original":"現諸鬼形聲。",
+    "folio":10,
+    "stemmed":"現 諸 鬼 形 聲  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c07_13",
+    "original":"施令得飽滿而為說法。",
+    "folio":10,
+    "stemmed":"施 令 得 飽 滿 而 為 說 法  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c08_4",
+    "original":"令破三種苦得三種樂。",
+    "folio":10,
+    "stemmed":"令 破 三 種 苦 得 三 種 樂  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c08_11",
+    "original":"菩薩自得此樂。",
+    "folio":10,
+    "stemmed":"菩 薩 自 得 此 樂  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c08_17",
+    "original":"又令他得樂。",
+    "folio":10,
+    "stemmed":"又 令 他 得 樂  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c09_9",
+    "original":"是故三昧名心樂三昧也。",
+    "folio":10,
+    "stemmed":"是 故 三 昧 名 心 樂 三 昧 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c09_15",
+    "original":"次歡喜三昧。",
+    "folio":10,
+    "stemmed":"次 歡 喜 三 昧  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c10_1",
+    "original":"破修羅。",
+    "folio":10,
+    "stemmed":"破 修 羅  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c10_11",
+    "original":"有修羅多忿恚惡業怖。",
+    "folio":10,
+    "stemmed":"有 修 羅 多 忿 恚 惡 業 怖  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c11_2",
+    "original":"見思怖塵沙怖無明怖。",
+    "folio":10,
+    "stemmed":"見 思 怖 塵 沙 怖 無 明 怖  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c11_11",
+    "original":"菩薩為破是諸怖故。",
+    "folio":10,
+    "stemmed":"菩 薩 為 破 是 諸 怖 故  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c12_2",
+    "original":"持戒精進而修習諸行。",
+    "folio":10,
+    "stemmed":"持 戒 精 進 而 修 習 諸 行  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c12_11",
+    "original":"不破歡喜破惡業怖。",
+    "folio":10,
+    "stemmed":"不 破 歡 喜 破 惡 業 怖  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c13_1",
+    "original":"修禪悅喜伏見思怖。",
+    "folio":10,
+    "stemmed":"修 禪 悅 喜 伏 見 思 怖  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c13_18",
+    "original":"修生滅無生滅等慧得喜覺喜破見思怖。",
+    "folio":10,
+    "stemmed":"修 生 滅 無 生 滅 等 慧 得 喜 覺 喜 破 見 思 怖  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c14_12",
+    "original":"修照鏡喜及無量惠破塵沙怖。",
+    "folio":10,
+    "stemmed":"修 照 鏡 喜 及 無 量 惠 破 塵 沙 怖  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c15_3",
+    "original":"修無作慧破無明怖。",
+    "folio":10,
+    "stemmed":"修 無 作 慧 破 無 明 怖  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c15_15",
+    "original":"見思破故真空喜悅三昧成。",
+    "folio":10,
+    "stemmed":"見 思 破 故 真 空 喜 悅 三 昧 成  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c16_3",
+    "original":"惡業塵沙破故。",
+    "folio":10,
+    "stemmed":"惡 業 塵 沙 破 故  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c16_13",
+    "original":"一切眾生喜見三昧成。",
+    "folio":10,
+    "stemmed":"一 切 眾 生 喜 見 三 昧 成  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c17_4",
+    "original":"無明破故喜王三昧成。",
+    "folio":10,
+    "stemmed":"無 明 破 故 喜 王 三 昧 成  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c17_10",
+    "original":"以自修行力。",
+    "folio":10,
+    "stemmed":"以 自 修 行 力  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c18_2",
+    "original":"得如此三諦歡喜三昧。",
+    "folio":10,
+    "stemmed":"得 如 此 三 諦 歡 喜 三 昧  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c18_11",
+    "original":"以諸行中慈悲之力。",
+    "folio":10,
+    "stemmed":"以 諸 行 中 慈 悲 之 力  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c19_1",
+    "original":"薰修羅有而生其中。",
+    "folio":10,
+    "stemmed":"薰 修 羅 有 而 生 其 中  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c19_10",
+    "original":"軟語調伏而為說法。",
+    "folio":10,
+    "stemmed":"軟 語 調 伏 而 為 說 法  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c20_1",
+    "original":"破修羅有令得無怖。",
+    "folio":10,
+    "stemmed":"破 修 羅 有 令 得 無 怖  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c20_10",
+    "original":"自無三怖自證三喜。",
+    "folio":10,
+    "stemmed":"自 無 三 怖 自 證 三 喜  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c20_15",
+    "original":"令他無怖。",
+    "folio":10,
+    "stemmed":"令 他 無 怖  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c21_1",
+    "original":"令他得歡喜。",
+    "folio":10,
+    "stemmed":"令 他 得 歡 喜  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c21_13",
+    "original":"是故三昧名為歡喜三昧也。",
+    "folio":10,
+    "stemmed":"是 故 三 昧 名 為 歡 喜 三 昧 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c22_7",
+    "original":"次日光三昧破弗婆提有者。",
+    "folio":10,
+    "stemmed":"次 日 光 三 昧 破 弗 婆 提 有 者  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c22_17",
+    "original":"日初出於東隨便為名。",
+    "folio":10,
+    "stemmed":"日 初 出 於 東 隨 便 為 名  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c23_7",
+    "original":"日譬智光能照迷闇。",
+    "folio":10,
+    "stemmed":"日 譬 智 光 能 照 迷 闇  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c23_13",
+    "original":"破惡業迷闇。",
+    "folio":10,
+    "stemmed":"破 惡 業 迷 闇  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c24_1",
+    "original":"見思塵沙迷闇。",
+    "folio":10,
+    "stemmed":"見 思 塵 沙 迷 闇  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c24_6",
+    "original":"無明迷闇。",
+    "folio":10,
+    "stemmed":"無 明 迷 闇  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c25_3",
+    "original":"菩薩為照此諸迷闇故修善業戒光。",
+    "folio":10,
+    "stemmed":"菩 薩 為 照 此 諸 迷 闇 故 修 善 業 戒 光  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c25_9",
+    "original":"修禪定流光。",
+    "folio":10,
+    "stemmed":"修 禪 定 流 光  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c26_1",
+    "original":"修生滅無生滅一切智光。",
+    "folio":10,
+    "stemmed":"修 生 滅 無 生 滅 一 切 智 光  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c26_7",
+    "original":"修道種智光。",
+    "folio":10,
+    "stemmed":"修 道 種 智 光  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c26_14",
+    "original":"修一切種智光。",
+    "folio":10,
+    "stemmed":"修 一切種智 光  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c26_19",
+    "original":"明生闇滅。",
+    "folio":10,
+    "stemmed":"明 生 闇 滅  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c27_7",
+    "original":"以善戒光破惡業闇。",
+    "folio":10,
+    "stemmed":"以 善 戒 光 破 惡 業 闇  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c27_16",
+    "original":"以禪定光伏見思闇。",
+    "folio":10,
+    "stemmed":"以 禪 定 光 伏 見 思 闇  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c28_10",
+    "original":"以生滅無生滅光破見思闇。",
+    "folio":10,
+    "stemmed":"以 生 滅 無 生 滅 光 破 見 思 闇  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c28_18",
+    "original":"修無量道種智光。",
+    "folio":10,
+    "stemmed":"修 無 量 道 種 智 光  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c29_4",
+    "original":"破塵沙闇。",
+    "folio":10,
+    "stemmed":"破 塵 沙 闇  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0756c29_17",
+    "original":"修無作一切種智光破無明闇。",
+    "folio":10,
+    "stemmed":"修 無 作 一切種智 光 破 無 明 闇  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a01_4",
+    "original":"破見思闇故。",
+    "folio":10,
+    "stemmed":"破 見 思 闇 故  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a01_13",
+    "original":"一切智日光三昧成。",
+    "folio":10,
+    "stemmed":"一 切 智 日 光 三 昧 成  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a01_19",
+    "original":"破塵沙闇故。",
+    "folio":10,
+    "stemmed":"破 塵 沙 闇 故  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a02_8",
+    "original":"道種智日光三昧成。",
+    "folio":10,
+    "stemmed":"道 種 智 日 光 三 昧 成  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a02_14",
+    "original":"破無明闇故。",
+    "folio":10,
+    "stemmed":"破 無 明 闇 故  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a03_5",
+    "original":"一切種智日光三昧成。",
+    "folio":10,
+    "stemmed":"一切種智 日 光 三 昧 成  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a03_18",
+    "original":"以修行力自證如是三諦三昧。",
+    "folio":10,
+    "stemmed":"以 修 行 力 自 證 如 是 三 諦 三 昧  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a04_9",
+    "original":"以慈悲力薰弗婆提有。",
+    "folio":10,
+    "stemmed":"以 慈 悲 力 薰 弗 婆 提 有  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a04_18",
+    "original":"應現說法破其三迷。",
+    "folio":10,
+    "stemmed":"應 現 說 法 破 其 三 迷  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a05_6",
+    "original":"顯三諦智日故。",
+    "folio":10,
+    "stemmed":"顯 三 諦 智 日 故  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a05_17",
+    "original":"此三昧名為日光三昧也。",
+    "folio":10,
+    "stemmed":"此 三 昧 名 為 日 光 三 昧 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a06_10",
+    "original":"次月光三昧破瞿耶尼有者。",
+    "folio":10,
+    "stemmed":"次 月 光 三 昧 破 瞿 耶 尼 有 者  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a07_1",
+    "original":"月之初生光現於西。",
+    "folio":10,
+    "stemmed":"月 之 初 生 光 現 於 西  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a07_8",
+    "original":"此隨便立名也。",
+    "folio":10,
+    "stemmed":"此 隨 便 立 名 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a07_15",
+    "original":"月光亦譬破闇。",
+    "folio":10,
+    "stemmed":"月 光 亦 譬 破 闇  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a08_2",
+    "original":"釋三昧四意。",
+    "folio":10,
+    "stemmed":"釋 三 昧 四 意  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a08_10",
+    "original":"類日光三昧可知。",
+    "folio":10,
+    "stemmed":"類 日 光 三 昧 可 知  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a09_3",
+    "original":"次熱焰三昧破欝單越有者。",
+    "folio":10,
+    "stemmed":"次 熱 焰 三 昧 破 欝 單 越 有 者  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a09_13",
+    "original":"北方是陰地氷結難消。",
+    "folio":10,
+    "stemmed":"北 方 是 陰 地 氷 結 難 消  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a10_3",
+    "original":"自非熱焰終不消也。",
+    "folio":10,
+    "stemmed":"自 非 熱 焰 終 不 消 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a10_8",
+    "original":"欝單越人。",
+    "folio":10,
+    "stemmed":"欝 單 越 人  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a10_15",
+    "original":"氷執無我我所。",
+    "folio":10,
+    "stemmed":"氷 執 無我我所  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a11_1",
+    "original":"難可化度。",
+    "folio":10,
+    "stemmed":"難 可 化 度  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a11_7",
+    "original":"非智火熱焰。",
+    "folio":10,
+    "stemmed":"非 智 火 熱 焰  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a11_17",
+    "original":"無我我所心終不可消。",
+    "folio":10,
+    "stemmed":"無我我所 心 終 不 可 消  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a12_4",
+    "original":"破無我我所。",
+    "folio":10,
+    "stemmed":"破 無我我所  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a12_14",
+    "original":"乃是妄計無我我所理。",
+    "folio":10,
+    "stemmed":"乃 是 妄 計 無我我所 理  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a13_1",
+    "original":"實猶有性。",
+    "folio":10,
+    "stemmed":"實 猶 有 性  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a13_6",
+    "original":"人我之惑。",
+    "folio":10,
+    "stemmed":"人 我 之 惑  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a13_15",
+    "original":"有法我惑真如我惑。",
+    "folio":10,
+    "stemmed":"有 法 我 惑 真 如 我 惑  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a14_2",
+    "original":"氷蟄未融也。",
+    "folio":10,
+    "stemmed":"氷 蟄 未 融 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a14_13",
+    "original":"菩薩為破此諸我惑氷執。",
+    "folio":10,
+    "stemmed":"菩 薩 為 破 此 諸 我 惑 氷 執  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a15_4",
+    "original":"修生滅等真無我慧。",
+    "folio":10,
+    "stemmed":"修 生 滅 等 真 無 我 慧  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a15_10",
+    "original":"破性人我惑。",
+    "folio":10,
+    "stemmed":"破 性 人 我 惑  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a16_3",
+    "original":"修無量四諦慧破法我惑。",
+    "folio":10,
+    "stemmed":"修 無 量 四 諦 慧 破 法 我 惑  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a16_10",
+    "original":"修無作四諦慧。",
+    "folio":10,
+    "stemmed":"修 無 作 四 諦 慧  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a16_16",
+    "original":"破真如我惑。",
+    "folio":10,
+    "stemmed":"破 真 如 我 惑  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a17_4",
+    "original":"若得真人空智焰。",
+    "folio":10,
+    "stemmed":"若 得 真 人 空 智 焰  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a17_10",
+    "original":"破性人我惑。",
+    "folio":10,
+    "stemmed":"破 性 人 我 惑  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a17_16",
+    "original":"真諦三昧成。",
+    "folio":10,
+    "stemmed":"真 諦 三 昧 成  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a18_4",
+    "original":"得真法空智焰。",
+    "folio":10,
+    "stemmed":"得 真 法 空 智 焰  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a18_9",
+    "original":"破法我惑。",
+    "folio":10,
+    "stemmed":"破 法 我 惑  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a18_16",
+    "original":"得俗諦三昧成。",
+    "folio":10,
+    "stemmed":"得 俗 諦 三 昧 成  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a19_4",
+    "original":"故能如空種欝樹。",
+    "folio":10,
+    "stemmed":"故 能 如 空 種 欝 樹  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a19_12",
+    "original":"空順俗以化物也。",
+    "folio":10,
+    "stemmed":"空 順 俗 以 化 物 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a20_2",
+    "original":"得真如無我智焰。",
+    "folio":10,
+    "stemmed":"得 真 如 無 我 智 焰  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a20_8",
+    "original":"破真如我惑。",
+    "folio":10,
+    "stemmed":"破 真 如 我 惑  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a20_15",
+    "original":"知非我非無我。",
+    "folio":10,
+    "stemmed":"知 非 我 非 無 我  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a20_20",
+    "original":"是真我義。",
+    "folio":10,
+    "stemmed":"是 真 我 義  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a21_7",
+    "original":"無我法中有真我。",
+    "folio":10,
+    "stemmed":"無 我 法 中 有 真 我  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a21_16",
+    "original":"即見欝單越之我性。",
+    "folio":10,
+    "stemmed":"即 見 欝 單 越 之 我 性  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a22_3",
+    "original":"即有三昧成。",
+    "folio":10,
+    "stemmed":"即 有 三 昧 成  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a22_9",
+    "original":"心心寂滅也。",
+    "folio":10,
+    "stemmed":"心 心 寂 滅 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a22_18",
+    "original":"菩薩自證三諦三昧。",
+    "folio":10,
+    "stemmed":"菩 薩 自 證 三 諦 三 昧  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a23_9",
+    "original":"慈悲力故現欝單越形聲。",
+    "folio":10,
+    "stemmed":"慈 悲 力 故 現 欝 單 越 形 聲  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a23_17",
+    "original":"破北方無我我所。",
+    "folio":10,
+    "stemmed":"破 北 方 無我我所  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a24_5",
+    "original":"令成真我三昧。",
+    "folio":10,
+    "stemmed":"令 成 真 我 三 昧  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a24_17",
+    "original":"故此三昧名為熱焰三昧也。",
+    "folio":10,
+    "stemmed":"故 此 三 昧 名 為 熱 焰 三 昧 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a25_10",
+    "original":"次如幻三昧破閻浮提有者。",
+    "folio":10,
+    "stemmed":"次 如幻三昧 破 閻 浮 提 有 者  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a25_17",
+    "original":"南方果報雜雜。",
+    "folio":10,
+    "stemmed":"南 方 果 報 雜 雜  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a26_6",
+    "original":"壽命短促不定。",
+    "folio":10,
+    "stemmed":"壽 命 短 促 不 定  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a26_11",
+    "original":"猶如幻化。",
+    "folio":10,
+    "stemmed":"猶 如 幻 化  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a27_3",
+    "original":"此是心幻出生惡業果。",
+    "folio":10,
+    "stemmed":"此 是 心 幻 出 生 惡 業 果  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a27_12",
+    "original":"幻出煩惱幻出無知。",
+    "folio":10,
+    "stemmed":"幻 出 煩 惱 幻 出 無 知  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a27_17",
+    "original":"幻出無明。",
+    "folio":10,
+    "stemmed":"幻 出 無 明  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a28_6",
+    "original":"一切眾生不知如幻。",
+    "folio":10,
+    "stemmed":"一 切 眾 生 不 知 如 幻  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a29_3",
+    "original":"今菩薩為破是諸幻故修三種三昧。",
+    "folio":10,
+    "stemmed":"今 菩 薩 為 破 是 諸 幻 故 修 三 種 三 昧  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a29_13",
+    "original":"修真諦三昧幻出無漏。",
+    "folio":10,
+    "stemmed":"修 真 諦 三 昧 幻 出 無 漏  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757a29_19",
+    "original":"破見思之幻。",
+    "folio":10,
+    "stemmed":"破 見 思 之 幻  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b01_10",
+    "original":"修俗諦三昧幻出道種智。",
+    "folio":10,
+    "stemmed":"修 俗 諦 三 昧 幻 出 道 種 智  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b01_16",
+    "original":"破無知之幻。",
+    "folio":10,
+    "stemmed":"破 無 知 之 幻  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b02_9",
+    "original":"修中道三昧幻出一切種智。",
+    "folio":10,
+    "stemmed":"修 中 道 三 昧 幻 出 一切種智  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b02_15",
+    "original":"破無明之幻。",
+    "folio":10,
+    "stemmed":"破 無 明 之 幻  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b03_7",
+    "original":"修行力故自證三諦三昧。",
+    "folio":10,
+    "stemmed":"修 行 力 故 自 證 三 諦 三 昧  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b03_17",
+    "original":"成慈悲力故破他力成。",
+    "folio":10,
+    "stemmed":"成 慈 悲 力 故 破 他 力 成  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b04_8",
+    "original":"是故名為如幻三昧也。",
+    "folio":10,
+    "stemmed":"是 故 名 為 如幻三昧 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b04_14",
+    "original":"次不動三昧。",
+    "folio":10,
+    "stemmed":"次 不 動 三 昧  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b05_3",
+    "original":"破四天王有者。",
+    "folio":10,
+    "stemmed":"破 四 天 王 有 者  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b05_10",
+    "original":"此天守護國土。",
+    "folio":10,
+    "stemmed":"此 天 守 護 國 土  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b06_1",
+    "original":"遊行世界身報流動。",
+    "folio":10,
+    "stemmed":"遊 行 世 界 身 報 流 動  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b06_8",
+    "original":"此則是果報動。",
+    "folio":10,
+    "stemmed":"此 則 是 果 報 動  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b06_18",
+    "original":"見思動無智動無明動。",
+    "folio":10,
+    "stemmed":"見 思 動 無 智 動 無 明 動  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b07_6",
+    "original":"一心修善不動。",
+    "folio":10,
+    "stemmed":"一 心 修 善 不 動  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b07_15",
+    "original":"及修背捨等不動業。",
+    "folio":10,
+    "stemmed":"及 修 背 捨 等 不 動 業  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b08_1",
+    "original":"破果報動。",
+    "folio":10,
+    "stemmed":"破 果 報 動  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b08_10",
+    "original":"真慧不動破見思動。",
+    "folio":10,
+    "stemmed":"真 慧 不 動 破 見 思 動  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b09_1",
+    "original":"出假慧不動破無知動。",
+    "folio":10,
+    "stemmed":"出 假 慧 不 動 破 無 知 動  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b09_11",
+    "original":"中道慧不動如須彌頂。",
+    "folio":10,
+    "stemmed":"中 道 慧 不 動 如 須 彌 頂  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b09_16",
+    "original":"破無明動。",
+    "folio":10,
+    "stemmed":"破 無 明 動  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b10_8",
+    "original":"修行力故自證三種不動。",
+    "folio":10,
+    "stemmed":"修 行 力 故 自 證 三 種 不 動  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b10_12",
+    "original":"慈悲力。",
+    "folio":10,
+    "stemmed":"慈 悲 力  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b10_18",
+    "original":"故破他三動。",
+    "folio":10,
+    "stemmed":"故 破 他 三 動  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b11_10",
+    "original":"故此三昧名為不動三昧。",
+    "folio":10,
+    "stemmed":"故 此 三 昧 名 為 不 動 三 昧  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b12_5",
+    "original":"次難伏三昧破三十三天有者。",
+    "folio":10,
+    "stemmed":"次 難 伏 三 昧 破 三十三天 有 者  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b12_13",
+    "original":"此天居四天之頂。",
+    "folio":10,
+    "stemmed":"此 天 居 四 天 之 頂  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b13_1",
+    "original":"即是果報難伏。",
+    "folio":10,
+    "stemmed":"即 是 果 報 難 伏  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b13_10",
+    "original":"見思難伏無知難伏。",
+    "folio":10,
+    "stemmed":"見 思 難 伏 無 知 難 伏  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b13_15",
+    "original":"無明難伏。",
+    "folio":10,
+    "stemmed":"無 明 難 伏  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b14_3",
+    "original":"菩薩為破其高心。",
+    "folio":10,
+    "stemmed":"菩 薩 為 破 其 高 心  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b14_10",
+    "original":"是故修戒定智。",
+    "folio":10,
+    "stemmed":"是 故 修 戒 定 智  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b14_16",
+    "original":"破果報難伏。",
+    "folio":10,
+    "stemmed":"破 果 報 難 伏  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b15_4",
+    "original":"修生滅無生滅。",
+    "folio":10,
+    "stemmed":"修 生 滅 無 生 滅  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b15_11",
+    "original":"故破見思難伏。",
+    "folio":10,
+    "stemmed":"故 破 見 思 難 伏  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b16_2",
+    "original":"自行力故成三難伏。",
+    "folio":10,
+    "stemmed":"自 行 力 故 成 三 難 伏  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b16_12",
+    "original":"慈悲力故破他三難伏。",
+    "folio":10,
+    "stemmed":"慈 悲 力 故 破 他 三 難 伏  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b17_2",
+    "original":"故此三昧名為難伏。",
+    "folio":10,
+    "stemmed":"故 此 三 昧 名 為 難 伏  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b17_16",
+    "original":"三昧次悅意三昧破炎摩天有者。",
+    "folio":10,
+    "stemmed":"三 昧 次 悅 意 三 昧 破 炎 摩 天 有 者  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b18_7",
+    "original":"此天虛空無刀杖畏。",
+    "folio":10,
+    "stemmed":"此 天 虛 空 無 刀 杖 畏  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b18_12",
+    "original":"以之為悅。",
+    "folio":10,
+    "stemmed":"以 之 為 悅  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b18_17",
+    "original":"實非是悅。",
+    "folio":10,
+    "stemmed":"實 非 是 悅  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b19_5",
+    "original":"未有不動業悅。",
+    "folio":10,
+    "stemmed":"未 有 不 動 業 悅  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b19_11",
+    "original":"未有無漏悅。",
+    "folio":10,
+    "stemmed":"未 有 無 漏 悅  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b19_18",
+    "original":"未有道種智悅。",
+    "folio":10,
+    "stemmed":"未 有 道 種 智 悅  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b20_4",
+    "original":"未有中道悅。",
+    "folio":10,
+    "stemmed":"未 有 中 道 悅  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b20_11",
+    "original":"菩薩為破此故。",
+    "folio":10,
+    "stemmed":"菩 薩 為 破 此 故  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b21_3",
+    "original":"修四諦觀八背捨中禪悅。",
+    "folio":10,
+    "stemmed":"修 四 諦 觀 八 背 捨 中 禪 悅  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b21_10",
+    "original":"破其動散不悅。",
+    "folio":10,
+    "stemmed":"破 其 動 散 不 悅  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b22_4",
+    "original":"生滅無生滅慧破其有漏不悅。",
+    "folio":10,
+    "stemmed":"生 滅 無 生 滅 慧 破 其 有 漏 不 悅  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b22_14",
+    "original":"無量慧破其沈空不悅。",
+    "folio":10,
+    "stemmed":"無 量 慧 破 其 沈 空 不 悅  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b23_6",
+    "original":"無作慧破其二邊不悅。",
+    "folio":10,
+    "stemmed":"無 作 慧 破 其 二 邊 不 悅  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b23_17",
+    "original":"以無生悅故真諦三昧成。",
+    "folio":10,
+    "stemmed":"以 無 生 悅 故 真 諦 三 昧 成  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b24_11",
+    "original":"出假稱機之悅故俗諦三昧成。",
+    "folio":10,
+    "stemmed":"出 假 稱 機 之 悅 故 俗 諦 三 昧 成  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b25_4",
+    "original":"中道悅意故中道三昧成。",
+    "folio":10,
+    "stemmed":"中 道 悅 意 故 中 道 三 昧 成  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b25_14",
+    "original":"自行力故自證三昧成。",
+    "folio":10,
+    "stemmed":"自 行 力 故 自 證 三 昧 成  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b26_6",
+    "original":"以慈悲力故破他三昧成。",
+    "folio":10,
+    "stemmed":"以 慈 悲 力 故 破 他 三 昧 成  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b26_14",
+    "original":"故名悅意三昧也。",
+    "folio":10,
+    "stemmed":"故 名 悅 意 三 昧 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b27_7",
+    "original":"次青色三昧破兜率天有者。",
+    "folio":10,
+    "stemmed":"次 青 色 三 昧 破 兜 率 天 有 者  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b28_1",
+    "original":"此天果報樂青眼翫皆青。",
+    "folio":10,
+    "stemmed":"此 天 果 報 樂 青 眼 翫 皆 青  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b28_8",
+    "original":"菩薩為破此有。",
+    "folio":10,
+    "stemmed":"菩 薩 為 破 此 有  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b28_14",
+    "original":"故修第一義。",
+    "folio":10,
+    "stemmed":"故 修 第 一 義  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b29_1",
+    "original":"非青真見青真。",
+    "folio":10,
+    "stemmed":"非 青 真 見 青 真  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b29_8",
+    "original":"非青假見青假。",
+    "folio":10,
+    "stemmed":"非 青 假 見 青 假  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757b29_13",
+    "original":"故得中道。",
+    "folio":10,
+    "stemmed":"故 得 中 道  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c01_3",
+    "original":"見青中道破其青有。",
+    "folio":10,
+    "stemmed":"見 青 中 道 破 其 青 有  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c01_8",
+    "original":"義推可知。",
+    "folio":10,
+    "stemmed":"義 推 可 知  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c01_19",
+    "original":"次黃色三昧破化樂天有。",
+    "folio":10,
+    "stemmed":"次 黃 色 三 昧 破 化 樂 天 有  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c02_12",
+    "original":"次赤色三昧破他化自在天有。",
+    "folio":10,
+    "stemmed":"次 赤 色 三 昧 破 他化自在天 有  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c03_3",
+    "original":"類前青色三昧可解。",
+    "folio":10,
+    "stemmed":"類 前 青 色 三 昧 可 解  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c03_14",
+    "original":"次白色三昧破初禪有者。",
+    "folio":10,
+    "stemmed":"次 白 色 三 昧 破 初 禪 有 者  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c04_5",
+    "original":"初禪離欲界五蓋不善。",
+    "folio":10,
+    "stemmed":"初 禪 離 欲 界 五 蓋 不 善  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c04_12",
+    "original":"即是定心善白。",
+    "folio":10,
+    "stemmed":"即 是 定 心 善 白  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c05_5",
+    "original":"但未離見思塵沙無明等黑。",
+    "folio":10,
+    "stemmed":"但 未 離 見 思 塵 沙 無 明 等 黑  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c05_15",
+    "original":"菩薩為破是諸黑行故。",
+    "folio":10,
+    "stemmed":"菩 薩 為 破 是 諸 黑 行 故  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c06_2",
+    "original":"修三諦白法。",
+    "folio":10,
+    "stemmed":"修 三 諦 白 法  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c06_11",
+    "original":"破戒之義推之可知。",
+    "folio":10,
+    "stemmed":"破 戒 之 義 推 之 可 知  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c07_4",
+    "original":"次種種三昧破梵王有者。",
+    "folio":10,
+    "stemmed":"次 種 種 三 昧 破 梵 王 有 者  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c07_12",
+    "original":"梵王主三千大千。",
+    "folio":10,
+    "stemmed":"梵 王 主 三千大千  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c08_1",
+    "original":"大千品類既多。",
+    "folio":10,
+    "stemmed":"大 千 品 類 既 多  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c08_8",
+    "original":"故有種種之號。",
+    "folio":10,
+    "stemmed":"故 有 種 種 之 號  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c08_19",
+    "original":"為破其種種故修種種空。",
+    "folio":10,
+    "stemmed":"為 破 其 種 種 故 修 種 種 空  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c09_4",
+    "original":"入種種假。",
+    "folio":10,
+    "stemmed":"入 種 種 假  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c09_10",
+    "original":"見種種中道。",
+    "folio":10,
+    "stemmed":"見 種 種 中 道  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c09_18",
+    "original":"如來藏多所含藏。",
+    "folio":10,
+    "stemmed":"如 來 藏 多 所 含 藏  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c10_5",
+    "original":"名種種三昧也。",
+    "folio":10,
+    "stemmed":"名 種 種 三 昧 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c10_10",
+    "original":"義推可知。",
+    "folio":10,
+    "stemmed":"義 推 可 知  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c11_3",
+    "original":"次雙照三昧破二禪有者。",
+    "folio":10,
+    "stemmed":"次 雙 照 三 昧 破 二 禪 有 者  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c11_14",
+    "original":"二禪獨有內淨喜兩支故。",
+    "folio":10,
+    "stemmed":"二 禪 獨 有 內 淨 喜 兩 支 故  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c11_18",
+    "original":"受雙名。",
+    "folio":10,
+    "stemmed":"受 雙 名  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c12_7",
+    "original":"菩薩為破此雙故。",
+    "folio":10,
+    "stemmed":"菩 薩 為 破 此 雙 故  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c12_15",
+    "original":"修雙空雙假雙中。",
+    "folio":10,
+    "stemmed":"修 雙 空 雙 假 雙 中  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c13_1",
+    "original":"雙照二帝。",
+    "folio":10,
+    "stemmed":"雙 照 二 帝  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c13_6",
+    "original":"義推可知。",
+    "folio":10,
+    "stemmed":"義 推 可 知  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c13_17",
+    "original":"次雷音三昧破三禪有者。",
+    "folio":10,
+    "stemmed":"次 雷 音 三 昧 破 三 禪 有 者  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c14_7",
+    "original":"此禪受樂最為第一。",
+    "folio":10,
+    "stemmed":"此 禪 受 樂 最 為 第 一  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c14_17",
+    "original":"著樂深入如氷魚蟄蟲。",
+    "folio":10,
+    "stemmed":"著 樂 深 入 如 氷 魚 蟄 蟲  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c15_6",
+    "original":"菩薩為破此樂故。",
+    "folio":10,
+    "stemmed":"菩 薩 為 破 此 樂 故  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c15_15",
+    "original":"用三諦雷音以驚駭。",
+    "folio":10,
+    "stemmed":"用 三 諦 雷 音 以 驚 駭  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c16_1",
+    "original":"推之可解。",
+    "folio":10,
+    "stemmed":"推 之 可 解  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c16_12",
+    "original":"次霔雨三昧破四禪有者。",
+    "folio":10,
+    "stemmed":"次 霔 雨 三 昧 破 四 禪 有 者  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c17_4",
+    "original":"四禪如大地具種種芽。",
+    "folio":10,
+    "stemmed":"四 禪 如 大 地 具 種 種 芽  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c17_13",
+    "original":"若不得雨芽則不生。",
+    "folio":10,
+    "stemmed":"若 不 得 雨 芽 則 不 生  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c17_18",
+    "original":"一切善根。",
+    "folio":10,
+    "stemmed":"一 切 善 根  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c18_3",
+    "original":"在四禪中。",
+    "folio":10,
+    "stemmed":"在 四 禪 中  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c18_14",
+    "original":"若三諦雨三智善發生也。",
+    "folio":10,
+    "stemmed":"若 三 諦 雨 三 智 善 發 生 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c19_2",
+    "original":"義推可解知。",
+    "folio":10,
+    "stemmed":"義 推 可 解 知  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c19_15",
+    "original":"次如虛空三昧破無想天有者。",
+    "folio":10,
+    "stemmed":"次 如 虛 空 三 昧 破 無 想 天 有 者  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c20_7",
+    "original":"此是外道天實非無想。",
+    "folio":10,
+    "stemmed":"此 是 外 道 天 實 非 無 想  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c20_15",
+    "original":"而計為無想涅槃。",
+    "folio":10,
+    "stemmed":"而 計 為 無 想 涅 槃  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c21_2",
+    "original":"如小兒夢尿。",
+    "folio":10,
+    "stemmed":"如 小 兒 夢 尿  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c21_10",
+    "original":"菩薩為破是有故。",
+    "folio":10,
+    "stemmed":"菩 薩 為 破 是 有 故  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c22_16",
+    "original":"以三諦空破無想故言如虛空三昧次照鏡三昧破那含有者。",
+    "folio":10,
+    "stemmed":"以 三 諦 空 破 無 想 故 言 如 虛 空 三 昧 次 照 鏡 三 昧 破 那 含 有 者  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c23_6",
+    "original":"修薰禪隨禪生此。",
+    "folio":10,
+    "stemmed":"修 薰 禪 隨 禪 生 此  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c23_14",
+    "original":"雖得淨色不能知。",
+    "folio":10,
+    "stemmed":"雖 得 淨 色 不 能 知  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c23_19",
+    "original":"色如鏡像。",
+    "folio":10,
+    "stemmed":"色 如 鏡 像  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c24_9",
+    "original":"菩薩知色如鏡像即空。",
+    "folio":10,
+    "stemmed":"菩 薩 知 色 如 鏡 像 即 空  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c24_17",
+    "original":"分別無量像依鏡。",
+    "folio":10,
+    "stemmed":"分 別 無 量 像 依 鏡  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c25_5",
+    "original":"即見本性中道。",
+    "folio":10,
+    "stemmed":"即 見 本 性 中 道  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c25_16",
+    "original":"成三諦三昧破那含有也。",
+    "folio":10,
+    "stemmed":"成 三 諦 三 昧 破 那 含 有 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c26_8",
+    "original":"次無礙三昧破空處有者。",
+    "folio":10,
+    "stemmed":"次 無 礙 三 昧 破 空 處 有 者  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c27_1",
+    "original":"此處得出色籠飄颺無礙。",
+    "folio":10,
+    "stemmed":"此 處 得 出 色 籠 飄 颺 無 礙  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c27_12",
+    "original":"未是三諦三昧之無礙礙。",
+    "folio":10,
+    "stemmed":"未 是 三 諦 三 昧 之 無 礙 礙  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c28_5",
+    "original":"見思礙塵沙礙無明等礙。",
+    "folio":10,
+    "stemmed":"見 思 礙 塵 沙 礙 無 明 等 礙  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c28_18",
+    "original":"菩薩為修三諦三昧破是諸礙。",
+    "folio":10,
+    "stemmed":"菩 薩 為 修 三 諦 三 昧 破 是 諸 礙  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0757c29_13",
+    "original":"故名無礙三昧次常昧三破識處。",
+    "folio":10,
+    "stemmed":"故 名 無 礙 三 昧 次 常 昧 三 破 識 處  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a01_6",
+    "original":"有識相續不斷即無常。",
+    "folio":10,
+    "stemmed":"有 識 相續不斷 即 無 常  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a01_14",
+    "original":"菩薩為破此無常。",
+    "folio":10,
+    "stemmed":"菩 薩 為 破 此 無 常  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a02_1",
+    "original":"故修數緣常。",
+    "folio":10,
+    "stemmed":"故 修 數 緣 常  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a02_15",
+    "original":"化用相續常佛性常湛然常破之。",
+    "folio":10,
+    "stemmed":"化 用 相 續 常 佛 性 常 湛 然 常 破 之  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a03_7",
+    "original":"次樂三昧破不用處有者。",
+    "folio":10,
+    "stemmed":"次 樂 三 昧 破 不 用 處 有 者  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a03_14",
+    "original":"此不用處如癡。",
+    "folio":10,
+    "stemmed":"此 不 用 處 如 癡  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a04_1",
+    "original":"癡故是苦。",
+    "folio":10,
+    "stemmed":"癡 故 是 苦  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a04_11",
+    "original":"菩薩用三諦三觀三昧。",
+    "folio":10,
+    "stemmed":"菩 薩 用 三 諦 三 觀 三 昧  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a05_1",
+    "original":"破得三諦三昧樂。",
+    "folio":10,
+    "stemmed":"破 得 三 諦 三 昧 樂  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a05_17",
+    "original":"是為樂三昧次我三昧破非想天有者。",
+    "folio":10,
+    "stemmed":"是 為 樂 三 昧 次 我 三 昧 破 非 想 天 有 者  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a06_10",
+    "original":"此天最頂計為涅槃真我。",
+    "folio":10,
+    "stemmed":"此 天 最 頂 計 為 涅 槃 真 我  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a06_15",
+    "original":"菩薩見此。",
+    "folio":10,
+    "stemmed":"菩 薩 見 此  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a07_6",
+    "original":"猶有細煩惱不自在。",
+    "folio":10,
+    "stemmed":"猶 有 細 煩 惱 不 自 在  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a07_14",
+    "original":"即是見思不自在。",
+    "folio":10,
+    "stemmed":"即 是 見 思 不 自 在  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a08_1",
+    "original":"塵沙不自在。",
+    "folio":10,
+    "stemmed":"塵 沙 不 自 在  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a08_7",
+    "original":"無明不自在。",
+    "folio":10,
+    "stemmed":"無 明 不 自 在  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a08_12",
+    "original":"何得是我。",
+    "folio":10,
+    "stemmed":"何 得 是 我  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a08_18",
+    "original":"為破此我故。",
+    "folio":10,
+    "stemmed":"為 破 此 我 故  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a09_6",
+    "original":"修三諦三昧破之。",
+    "folio":10,
+    "stemmed":"修 三 諦 三 昧 破 之  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a09_11",
+    "original":"令得無我。",
+    "folio":10,
+    "stemmed":"令 得 無 我  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a09_19",
+    "original":"隨俗我八自在我。",
+    "folio":10,
+    "stemmed":"隨 俗 我 八 自 在 我  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a10_6",
+    "original":"是故名我三昧。",
+    "folio":10,
+    "stemmed":"是 故 名 我 三 昧  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a11_4",
+    "original":"二十五有三昧用自除二十五三昧。",
+    "folio":10,
+    "stemmed":"二十五有 三 昧 用 自 除 二 十 五 三 昧  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a11_13",
+    "original":"一有之中悉有三諦。",
+    "folio":10,
+    "stemmed":"一 有 之 中 悉 有 三 諦  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a12_6",
+    "original":"三昧菩薩自修三諦三昧。",
+    "folio":10,
+    "stemmed":"三 昧 菩 薩 自 修 三 諦 三 昧  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a12_17",
+    "original":"自除二十五有三諦之惑。",
+    "folio":10,
+    "stemmed":"自 除 二十五有 三 諦 之 惑  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a13_4",
+    "original":"以慈悲力。",
+    "folio":10,
+    "stemmed":"以 慈 悲 力  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a13_15",
+    "original":"除他二十五有三諦之惑。",
+    "folio":10,
+    "stemmed":"除 他 二十五有 三 諦 之 惑  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a14_7",
+    "original":"由是得二十五三昧之名。",
+    "folio":10,
+    "stemmed":"由 是 得 二 十 五 三 昧 之 名  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a14_14",
+    "original":"或從無住之本。",
+    "folio":10,
+    "stemmed":"或 從 無 住 之 本  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a15_6",
+    "original":"用四悉檀立二十五有名。",
+    "folio":10,
+    "stemmed":"用 四 悉 檀 立 二十五有 名  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a15_9",
+    "original":"如說。",
+    "folio":10,
+    "stemmed":"如 說  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a16_1",
+    "original":"通言三昧名調直定也。",
+    "folio":10,
+    "stemmed":"通 言 三 昧 名 調 直 定 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a16_14",
+    "original":"真諦三昧以離愛見而為調直。",
+    "folio":10,
+    "stemmed":"真 諦 三 昧 以 離 愛 見 而 為 調 直  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a17_6",
+    "original":"俗諦三昧以稱機為調直。",
+    "folio":10,
+    "stemmed":"俗 諦 三 昧 以 稱 機 為 調 直  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a18_2",
+    "original":"中道三昧以無二邊之曲為調直。",
+    "folio":10,
+    "stemmed":"中 道 三 昧 以 無 二 邊 之 曲 為 調 直  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a18_9",
+    "original":"是故皆名三昧。",
+    "folio":10,
+    "stemmed":"是 故 皆 名 三 昧  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a19_1",
+    "original":"若但入空之直不為直。",
+    "folio":10,
+    "stemmed":"若 但 入 空 之 直 不 為 直  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a19_12",
+    "original":"聲聞人得入空非王三昧。",
+    "folio":10,
+    "stemmed":"聲 聞 人 得 入 空 非 王 三 昧  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a20_1",
+    "original":"若入假亦非究竟。",
+    "folio":10,
+    "stemmed":"若 入 假 亦 非 究 竟  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a20_9",
+    "original":"菩薩雖得道種智。",
+    "folio":10,
+    "stemmed":"菩 薩 雖 得 道 種 智  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a20_16",
+    "original":"亦不名王三昧。",
+    "folio":10,
+    "stemmed":"亦 不 名 王 三 昧  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a21_8",
+    "original":"以得中道三昧故稱之為王。",
+    "folio":10,
+    "stemmed":"以 得 中 道 三 昧 故 稱 之 為 王  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a21_15",
+    "original":"以二十五三昧。",
+    "folio":10,
+    "stemmed":"以 二 十 五 三 昧  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a22_6",
+    "original":"一一皆有中道三昧故。",
+    "folio":10,
+    "stemmed":"一 一 皆 有 中 道 三 昧 故  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a22_14",
+    "original":"故稱二十五三昧。",
+    "folio":10,
+    "stemmed":"故 稱 二 十 五 三 昧  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a23_2",
+    "original":"悉是王三昧。",
+    "folio":10,
+    "stemmed":"悉 是 王 三 昧  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a23_7",
+    "original":"涅槃經云。",
+    "folio":10,
+    "stemmed":"涅 槃 經 云  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a23_19",
+    "original":"是二十五三昧名諸三昧王。",
+    "folio":10,
+    "stemmed":"是 二 十 五 三 昧 名 諸 三 昧 王  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a24_5",
+    "original":"若入王三昧。",
+    "folio":10,
+    "stemmed":"若 入 王 三 昧  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a24_14",
+    "original":"一切三昧悉入其中。",
+    "folio":10,
+    "stemmed":"一 切 三 昧 悉 入 其 中  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a25_4",
+    "original":"是故菩薩住不動地。",
+    "folio":10,
+    "stemmed":"是 故 菩 薩 住 不 動 地  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a25_17",
+    "original":"具得此二十五三昧種種力用。",
+    "folio":10,
+    "stemmed":"具 得 此 二 十 五 三 昧 種 種 力 用  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a26_7",
+    "original":"須彌高廣內於芥子。",
+    "folio":10,
+    "stemmed":"須 彌 高 廣 內 於 芥 子  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a26_16",
+    "original":"吞吐出沒變通自在。",
+    "folio":10,
+    "stemmed":"吞 吐 出 沒 變 通 自 在  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a27_9",
+    "original":"能入地獄不受碎身等苦。",
+    "folio":10,
+    "stemmed":"能 入 地 獄 不 受 碎 身 等 苦  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a28_1",
+    "original":"若聖行成能有是事。",
+    "folio":10,
+    "stemmed":"若 聖 行 成 能 有 是 事  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a28_8",
+    "original":"具如涅槃經說。",
+    "folio":10,
+    "stemmed":"具 如 涅 槃 經 說  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a28_16",
+    "original":"三明外用利物者。",
+    "folio":10,
+    "stemmed":"三 明 外 用 利 物 者  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a29_8",
+    "original":"所謂能隱顯二種利益者。",
+    "folio":10,
+    "stemmed":"所 謂 能 隱 顯 二 種 利 益 者  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758a29_13",
+    "original":"入王三昧。",
+    "folio":10,
+    "stemmed":"入 王 三 昧  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b01_5",
+    "original":"一切三昧王悉入其中。",
+    "folio":10,
+    "stemmed":"一 切 三 昧 王 悉 入 其 中  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b01_16",
+    "original":"是故一切眾生受諸苦惱。",
+    "folio":10,
+    "stemmed":"是 故 一 切 眾 生 受諸苦惱  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b02_9",
+    "original":"一心歸依稱名求乞救護。",
+    "folio":10,
+    "stemmed":"一 心 歸 依 稱 名 求 乞 救 護  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b03_6",
+    "original":"菩薩住三昧中即觀三業皆得解脫。",
+    "folio":10,
+    "stemmed":"菩 薩 住 三 昧 中 即 觀 三 業 皆 得 解 脫  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b03_12",
+    "original":"解脫有八種。",
+    "folio":10,
+    "stemmed":"解 脫 有 八 種  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b04_4",
+    "original":"一破二十五有果報之苦。",
+    "folio":10,
+    "stemmed":"一 破 二十五有 果 報 之 苦  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b04_13",
+    "original":"二破二十五有因苦。",
+    "folio":10,
+    "stemmed":"二 破 二十五有 因 苦  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b05_9",
+    "original":"三破聲聞二十五有見思煩惱苦。",
+    "folio":10,
+    "stemmed":"三 破 聲 聞 二十五有 見 思 煩 惱 苦  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b06_5",
+    "original":"四破緣覺二十五有見思煩惱苦。",
+    "folio":10,
+    "stemmed":"四 破 緣 覺 二十五有 見 思 煩 惱 苦  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b07_3",
+    "original":"五破三藏菩薩二十五有見思煩惱苦。",
+    "folio":10,
+    "stemmed":"五 破 三 藏 菩 薩 二十五有 見 思 煩 惱 苦  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b08_2",
+    "original":"六破通教三乘人二十五有見思煩惱苦。",
+    "folio":10,
+    "stemmed":"六 破 通 教 三 乘 人 二十五有 見 思 煩 惱 苦  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b09_2",
+    "original":"七破別教菩薩二十五有恒沙無知別惑苦。",
+    "folio":10,
+    "stemmed":"七 破 別 教 菩 薩 二十五有 恒 沙 無 知 別 惑 苦  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b10_2",
+    "original":"八破圓教菩薩二十五有三諦無明之惑苦。",
+    "folio":10,
+    "stemmed":"八 破 圓 教 菩 薩 二十五有 三 諦 無 明 之 惑 苦  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b10_11",
+    "original":"一心稱名皆得解脫。",
+    "folio":10,
+    "stemmed":"一 心 稱 名 皆 得 解 脫  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b10_16",
+    "original":"意在此也。",
+    "folio":10,
+    "stemmed":"意 在 此 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b11_4",
+    "original":"故說二十五三昧。",
+    "folio":10,
+    "stemmed":"故 說 二 十 五 三 昧  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b11_12",
+    "original":"能破二十五有也。",
+    "folio":10,
+    "stemmed":"能 破 二十五有 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b11_18",
+    "original":"二顯利益者。",
+    "folio":10,
+    "stemmed":"二 顯 利 益 者  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b12_7",
+    "original":"即是住二十五三昧。",
+    "folio":10,
+    "stemmed":"即 是 住 二 十 五 三 昧  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b12_17",
+    "original":"十法界眾生機緣來感。",
+    "folio":10,
+    "stemmed":"十 法 界 眾 生 機 緣 來 感  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b13_9",
+    "original":"普現色身八番與眾生樂。",
+    "folio":10,
+    "stemmed":"普 現 色 身 八 番 與 眾 生 樂  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b14_4",
+    "original":"如觀音普門示現神通之相也。",
+    "folio":10,
+    "stemmed":"如 觀 音 普 門 示 現 神 通 之 相 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b14_9",
+    "original":"若有眾生。",
+    "folio":10,
+    "stemmed":"若 有 眾 生  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b14_17",
+    "original":"應以佛身得度者。",
+    "folio":10,
+    "stemmed":"應 以 佛 身 得 度 者  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b15_9",
+    "original":"即能八相成道現身說法。",
+    "folio":10,
+    "stemmed":"即 能 八相成道 現 身 說 法  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b16_3",
+    "original":"即是此經明住不思議解脫。",
+    "folio":10,
+    "stemmed":"即 是 此 經 明 住 不思議解脫  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b16_9",
+    "original":"種種示現也。",
+    "folio":10,
+    "stemmed":"種 種 示 現 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b16_19",
+    "original":"此菩薩初地聖行滿足。",
+    "folio":10,
+    "stemmed":"此 菩 薩 初 地 聖 行 滿 足  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b17_7",
+    "original":"具無緣大慈大悲。",
+    "folio":10,
+    "stemmed":"具 無 緣 大慈大悲  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b17_14",
+    "original":"如磁石吸鐵也。",
+    "folio":10,
+    "stemmed":"如 磁 石 吸 鐵 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b18_1",
+    "original":"二明梵行者。",
+    "folio":10,
+    "stemmed":"二 明 梵 行 者  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b18_10",
+    "original":"即是無緣慈悲喜捨。",
+    "folio":10,
+    "stemmed":"即 是 無緣慈悲 喜 捨  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b18_18",
+    "original":"菩薩以大涅槃心。",
+    "folio":10,
+    "stemmed":"菩 薩 以 大 涅 槃 心  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b19_7",
+    "original":"修於聖行得無畏地。",
+    "folio":10,
+    "stemmed":"修 於 聖 行 得 無 畏 地  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b19_18",
+    "original":"有二十五三昧無方大用。",
+    "folio":10,
+    "stemmed":"有 二 十 五 三 昧 無 方 大 用  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b20_8",
+    "original":"爾時慈悲是真梵行。",
+    "folio":10,
+    "stemmed":"爾 時 慈 悲 是 真 梵 行  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b20_15",
+    "original":"非餘梵天所修。",
+    "folio":10,
+    "stemmed":"非 餘 梵 天 所 修  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b21_1",
+    "original":"四無量心。",
+    "folio":10,
+    "stemmed":"四無量心  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b22_1",
+    "original":"亦非三藏教通教等眾生緣法緣之慈悲也。",
+    "folio":10,
+    "stemmed":"亦 非 三 藏 教 通 教 等 眾 生 緣 法 緣 之 慈 悲 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b22_6",
+    "original":"菩薩爾時。",
+    "folio":10,
+    "stemmed":"菩 薩 爾 時  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b22_15",
+    "original":"以此慈悲無緣無念。",
+    "folio":10,
+    "stemmed":"以 此 慈 悲 無 緣 無 念  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b23_6",
+    "original":"薰修眾生行無不成辨。",
+    "folio":10,
+    "stemmed":"薰 修 眾 生 行 無 不 成 辨  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b23_17",
+    "original":"此之梵行即是一切法故。",
+    "folio":10,
+    "stemmed":"此 之 梵 行 即 是 一 切 法 故  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b24_4",
+    "original":"涅槃經云。",
+    "folio":10,
+    "stemmed":"涅 槃 經 云  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b24_13",
+    "original":"慈即如來悲即佛性。",
+    "folio":10,
+    "stemmed":"慈 即 如 來 悲 即 佛 性  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b25_1",
+    "original":"慈若不具足。",
+    "folio":10,
+    "stemmed":"慈 若 不 具 足  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b25_13",
+    "original":"佛十力三十二相四無畏者。",
+    "folio":10,
+    "stemmed":"佛 十 力 三十二相 四 無 畏 者  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b26_1",
+    "original":"非如來慈故。",
+    "folio":10,
+    "stemmed":"非 如 來 慈 故  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b26_13",
+    "original":"智力弘深能具足一切福德。",
+    "folio":10,
+    "stemmed":"智 力 弘 深 能 具 足 一 切 福 德  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b27_3",
+    "original":"以自莊嚴名梵行也。",
+    "folio":10,
+    "stemmed":"以 自 莊 嚴 名 梵 行 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b28_5",
+    "original":"三明天行者。",
+    "folio":10,
+    "stemmed":"三 明 天 行 者  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b28_14",
+    "original":"即是中道第一義天。",
+    "folio":10,
+    "stemmed":"即 是 中 道 第 一 義 天  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b29_1",
+    "original":"天然之理。",
+    "folio":10,
+    "stemmed":"天 然 之 理  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b29_10",
+    "original":"籍行顯理因理成行。",
+    "folio":10,
+    "stemmed":"籍 行 顯 理 因 理 成 行  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758b29_17",
+    "original":"故名理為天行。",
+    "folio":10,
+    "stemmed":"故 名 理 為 天 行  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c01_5",
+    "original":"菩薩雖入初地。",
+    "folio":10,
+    "stemmed":"菩 薩 雖 入 初 地  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c01_11",
+    "original":"初地不應住。",
+    "folio":10,
+    "stemmed":"初 地 不 應 住  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c01_17",
+    "original":"以有所得故。",
+    "folio":10,
+    "stemmed":"以 有 所 得 故  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c02_6",
+    "original":"又應修上地智慧。",
+    "folio":10,
+    "stemmed":"又 應 修 上 地 智 慧  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c03_1",
+    "original":"十重發真修慧契理顯理成行。",
+    "folio":10,
+    "stemmed":"十 重 發 真 修 慧 契 理 顯 理 成 行  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c03_6",
+    "original":"名為天行。",
+    "folio":10,
+    "stemmed":"名 為 天 行  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c03_15",
+    "original":"天行即是智慧莊嚴。",
+    "folio":10,
+    "stemmed":"天 行 即 是 智慧莊嚴  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c04_4",
+    "original":"梵行即福德莊嚴。",
+    "folio":10,
+    "stemmed":"梵 行 即 福德莊嚴  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c04_9",
+    "original":"上求佛道。",
+    "folio":10,
+    "stemmed":"上 求 佛 道  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c04_17",
+    "original":"是故有聖行天行。",
+    "folio":10,
+    "stemmed":"是 故 有 聖 行 天 行  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c05_13",
+    "original":"下化眾生即有梵行病行嬰兒行也。",
+    "folio":10,
+    "stemmed":"下 化 眾 生 即 有 梵 行 病 行 嬰 兒 行 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c06_1",
+    "original":"四嬰兒行者。",
+    "folio":10,
+    "stemmed":"四 嬰 兒 行 者  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c06_11",
+    "original":"若菩薩福德智慧轉增。",
+    "folio":10,
+    "stemmed":"若 菩 薩 福 德 智 慧 轉 增  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c06_18",
+    "original":"是則實相彌顯。",
+    "folio":10,
+    "stemmed":"是 則 實 相 彌 顯  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c07_7",
+    "original":"雖不作意利益眾生。",
+    "folio":10,
+    "stemmed":"雖 不 作 意 利 益 眾 生  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c07_16",
+    "original":"任運能有冥顯兩益。",
+    "folio":10,
+    "stemmed":"任 運 能 有 冥 顯 兩 益  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c08_7",
+    "original":"以天行之力則有冥益。",
+    "folio":10,
+    "stemmed":"以 天 行 之 力 則 有 冥 益  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c08_17",
+    "original":"以梵行之力則有顯益。",
+    "folio":10,
+    "stemmed":"以 梵 行 之 力 則 有 顯 益  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c09_7",
+    "original":"眾生應有小善之機。",
+    "folio":10,
+    "stemmed":"眾 生 應 有 小 善 之 機  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c09_17",
+    "original":"無菩薩開發不能生長。",
+    "folio":10,
+    "stemmed":"無 菩 薩 開 發 不 能 生 長  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c10_4",
+    "original":"以慈善根力。",
+    "folio":10,
+    "stemmed":"以 慈 善 根 力  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c10_10",
+    "original":"如磁石吸鐵。",
+    "folio":10,
+    "stemmed":"如 磁 石 吸 鐵  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c11_2",
+    "original":"和光利行能令眾生得見。",
+    "folio":10,
+    "stemmed":"和 光 利 行 能 令 眾 生 得 見  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c11_9",
+    "original":"菩薩同其始學。",
+    "folio":10,
+    "stemmed":"菩 薩 同 其 始 學  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c12_1",
+    "original":"漸修五戒十善人天果報。",
+    "folio":10,
+    "stemmed":"漸 修 五 戒 十 善 人 天 果 報  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c12_10",
+    "original":"三十三天楊葉之行。",
+    "folio":10,
+    "stemmed":"三十三天 楊 葉 之 行  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c13_4",
+    "original":"又示二百五十戒觀練薰修禪。",
+    "folio":10,
+    "stemmed":"又 示 二百五十戒 觀 練 薰 修 禪  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c13_11",
+    "original":"四諦十二因緣。",
+    "folio":10,
+    "stemmed":"四 諦 十二因緣  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c13_17",
+    "original":"三十七道品。",
+    "folio":10,
+    "stemmed":"三十七道品  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c14_4",
+    "original":"同二乘嬰兒行。",
+    "folio":10,
+    "stemmed":"同 二 乘 嬰 兒 行  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c14_11",
+    "original":"又示同修六度。",
+    "folio":10,
+    "stemmed":"又 示 同 修 六 度  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c15_3",
+    "original":"百劫種相好柔伏煩惱。",
+    "folio":10,
+    "stemmed":"百 劫 種 相 好 柔 伏 煩 惱  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c15_12",
+    "original":"六度菩薩小善之行。",
+    "folio":10,
+    "stemmed":"六 度 菩 薩 小 善 之 行  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c16_5",
+    "original":"又示同即色是空無生無滅。",
+    "folio":10,
+    "stemmed":"又 示 同 即 色 是 空 無生無滅  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c16_12",
+    "original":"通教小善之行。",
+    "folio":10,
+    "stemmed":"通 教 小 善 之 行  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c17_7",
+    "original":"又示同別教歷別次第相似中道。",
+    "folio":10,
+    "stemmed":"又 示 同 別 教 歷 別 次 第 相 似 中 道  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c17_12",
+    "original":"小善之行。",
+    "folio":10,
+    "stemmed":"小 善 之 行  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c17_19",
+    "original":"皆是慈心之力。",
+    "folio":10,
+    "stemmed":"皆 是 慈 心 之 力  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c18_8",
+    "original":"俯同群品提接成就。",
+    "folio":10,
+    "stemmed":"俯 同 群 品 提 接 成 就  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c18_17",
+    "original":"從心與樂起嬰兒行。",
+    "folio":10,
+    "stemmed":"從 心 與 樂 起 嬰 兒 行  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c19_4",
+    "original":"如涅槃經言。",
+    "folio":10,
+    "stemmed":"如 涅 槃 經 言  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c19_8",
+    "original":"嬰兒者。",
+    "folio":10,
+    "stemmed":"嬰 兒 者  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c19_13",
+    "original":"能說大字。",
+    "folio":10,
+    "stemmed":"能 說 大 字  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c19_18",
+    "original":"所謂婆和。",
+    "folio":10,
+    "stemmed":"所 謂 婆 和  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c20_5",
+    "original":"此即同六度也。",
+    "folio":10,
+    "stemmed":"此 即 同 六 度 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c21_1",
+    "original":"六度是小行而求作佛故言大字。",
+    "folio":10,
+    "stemmed":"六 度 是 小 行 而 求 作 佛 故 言 大 字  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c21_6",
+    "original":"所謂婆和。",
+    "folio":10,
+    "stemmed":"所 謂 婆 和  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c21_9",
+    "original":"又云。",
+    "folio":10,
+    "stemmed":"又 云  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c22_5",
+    "original":"不見晝夜親疎等相此即同通教菩薩。",
+    "folio":10,
+    "stemmed":"不 見 晝 夜 親 疎 等 相 此 即 同 通 教 菩 薩  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c22_16",
+    "original":"即色是空第一義諦意也。",
+    "folio":10,
+    "stemmed":"即 色 是 空 第一義諦 意 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c22_19",
+    "original":"又云。",
+    "folio":10,
+    "stemmed":"又 云  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c23_8",
+    "original":"不能造作大小諸事。",
+    "folio":10,
+    "stemmed":"不 能 造 作 大 小 諸 事  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c24_2",
+    "original":"大事即五逆小事即二乘心。",
+    "folio":10,
+    "stemmed":"大 事 即 五 逆 小 事 即 二 乘 心  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0758c24_14",
+    "original":"此則同別教別教非生死故。",
+    "folio":10,
+    "stemmed":"此 則 同 別 教 別 教 非 生 死 故  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a01_9",
+    "original":"無五逆非涅槃故無小乘心。",
+    "folio":10,
+    "stemmed":"無 五 逆 非 涅 槃 故 無 小 乘 心  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a01_16",
+    "original":"又云楊樹黃葉。",
+    "folio":10,
+    "stemmed":"又 云 楊 樹 黃 葉  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a02_10",
+    "original":"即同人天五戒十善之嬰兒。",
+    "folio":10,
+    "stemmed":"即 同 人 天 五 戒 十 善 之 嬰 兒  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a02_13",
+    "original":"又云。",
+    "folio":10,
+    "stemmed":"又 云  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a02_18",
+    "original":"非道為道。",
+    "folio":10,
+    "stemmed":"非 道 為 道  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a03_7",
+    "original":"以能生道微因緣故。",
+    "folio":10,
+    "stemmed":"以 能 生 道 微 因 緣 故  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a03_13",
+    "original":"說非道為道。",
+    "folio":10,
+    "stemmed":"說 非 道 為 道  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a04_2",
+    "original":"即是同二乘嬰兒。",
+    "folio":10,
+    "stemmed":"即 是 同 二 乘 嬰 兒  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a04_11",
+    "original":"故知大慈善根之力。",
+    "folio":10,
+    "stemmed":"故 知 大 慈 善 根 之 力  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a04_17",
+    "original":"能出假化物。",
+    "folio":10,
+    "stemmed":"能 出 假 化 物  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a05_4",
+    "original":"同其小善方便。",
+    "folio":10,
+    "stemmed":"同 其 小 善 方 便  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a05_11",
+    "original":"引之令趣佛慧。",
+    "folio":10,
+    "stemmed":"引 之 令 趣 佛 慧  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a05_18",
+    "original":"故名嬰兒行也。",
+    "folio":10,
+    "stemmed":"故 名 嬰 兒 行 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a06_3",
+    "original":"五病行者。",
+    "folio":10,
+    "stemmed":"五 病 行 者  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a06_12",
+    "original":"此行從無緣大悲起。",
+    "folio":10,
+    "stemmed":"此 行 從 無緣大悲 起  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a07_3",
+    "original":"若生小善必有病行。",
+    "folio":10,
+    "stemmed":"若 生 小 善 必 有 病 行  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a07_12",
+    "original":"今當分別同生善邊。",
+    "folio":10,
+    "stemmed":"今 當 分 別 同 生 善 邊  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a07_17",
+    "original":"名嬰兒行。",
+    "folio":10,
+    "stemmed":"名 嬰 兒 行  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a08_6",
+    "original":"同煩惱邊名為病行。",
+    "folio":10,
+    "stemmed":"同 煩 惱 邊 名 為 病 行  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a08_16",
+    "original":"病行從大悲生眾生病。",
+    "folio":10,
+    "stemmed":"病 行 從 大 悲 生 眾 生 病  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a09_10",
+    "original":"是故我病大悲熏心遊戲地獄。",
+    "folio":10,
+    "stemmed":"是 故 我 病 大 悲 熏 心 遊 戲 地 獄  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a09_18",
+    "original":"同眾生惡業之病。",
+    "folio":10,
+    "stemmed":"同 眾 生 惡 業 之 病  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a10_6",
+    "original":"如調達在地獄。",
+    "folio":10,
+    "stemmed":"如 調 達 在 地 獄  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a10_11",
+    "original":"如三禪樂。",
+    "folio":10,
+    "stemmed":"如 三 禪 樂  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a11_4",
+    "original":"乃至畜生餓鬼脩羅亦如是。",
+    "folio":10,
+    "stemmed":"乃 至 畜 生 餓 鬼 脩 羅 亦 如 是  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a11_18",
+    "original":"又同人天有結業生老病死之病。",
+    "folio":10,
+    "stemmed":"又 同 人 天 有 結 業 生老病死 之 病  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a12_9",
+    "original":"又同二乘有見思之病。",
+    "folio":10,
+    "stemmed":"又 同 二 乘 有 見 思 之 病  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a12_18",
+    "original":"方便附近語令勤作。",
+    "folio":10,
+    "stemmed":"方 便 附 近 語 令 勤 作  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a13_10",
+    "original":"三藏教通教菩薩亦如是。",
+    "folio":10,
+    "stemmed":"三 藏 教 通 教 菩 薩 亦 如 是  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a14_3",
+    "original":"又同別教塵沙無明之病。",
+    "folio":10,
+    "stemmed":"又 同 別 教 塵 沙 無 明 之 病  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a14_12",
+    "original":"是故菩薩還同彼病。",
+    "folio":10,
+    "stemmed":"是 故 菩 薩 還 同 彼 病  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a15_2",
+    "original":"遍於法界利益眾生。",
+    "folio":10,
+    "stemmed":"遍 於 法 界 利 益 眾 生  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a15_10",
+    "original":"是為五行之相也。",
+    "folio":10,
+    "stemmed":"是 為 五 行 之 相 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a16_4",
+    "original":"病行即是此維摩經問疾品。",
+    "folio":10,
+    "stemmed":"病 行 即 是 此 維 摩 經 問 疾 品  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a16_13",
+    "original":"室內六品之所明也。",
+    "folio":10,
+    "stemmed":"室 內 六 品 之 所 明 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a17_3",
+    "original":"初地菩薩五行具足。",
+    "folio":10,
+    "stemmed":"初 地 菩 薩 五 行 具 足  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a17_10",
+    "original":"或是初功德也。",
+    "folio":10,
+    "stemmed":"或 是 初 功 德 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a17_16",
+    "original":"餘九種功德。",
+    "folio":10,
+    "stemmed":"餘 九 種 功 德  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a18_2",
+    "original":"或可對九地。",
+    "folio":10,
+    "stemmed":"或 可 對 九 地  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a18_11",
+    "original":"所言破無明見惑者。",
+    "folio":10,
+    "stemmed":"所 言 破 無 明 見 惑 者  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a18_16",
+    "original":"涅槃經云。",
+    "folio":10,
+    "stemmed":"涅 槃 經 云  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a19_2",
+    "original":"自此以前。",
+    "folio":10,
+    "stemmed":"自 此 以 前  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a19_9",
+    "original":"皆名邪見人也。",
+    "folio":10,
+    "stemmed":"皆 名 邪 見 人 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a19_18",
+    "original":"是則兩教三乘之人。",
+    "folio":10,
+    "stemmed":"是 則 兩 教 三乘之人  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a20_5",
+    "original":"皆未見此理。",
+    "folio":10,
+    "stemmed":"皆 未 見 此 理  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a20_12",
+    "original":"故名邪見人也。",
+    "folio":10,
+    "stemmed":"故 名 邪 見 人 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a21_3",
+    "original":"是以大士呵須菩提。",
+    "folio":10,
+    "stemmed":"是 以 大 士 呵 須 菩 提  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a21_10",
+    "original":"六師是汝之師。",
+    "folio":10,
+    "stemmed":"六 師 是 汝 之 師  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a22_7",
+    "original":"天魔外道一手作諸勞侶意在此也。",
+    "folio":10,
+    "stemmed":"天 魔 外 道 一 手 作 諸 勞 侶 意 在 此 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a22_14",
+    "original":"乃至別教十信。",
+    "folio":10,
+    "stemmed":"乃 至 別 教 十 信  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a23_3",
+    "original":"三十心雖伏此或。",
+    "folio":10,
+    "stemmed":"三 十 心 雖 伏 此 或  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a23_8",
+    "original":"既未能斷。",
+    "folio":10,
+    "stemmed":"既 未 能 斷  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a23_17",
+    "original":"猶是成就無明別見。",
+    "folio":10,
+    "stemmed":"猶 是 成 就 無 明 別 見  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a24_8",
+    "original":"呵諸菩薩或意在此也。",
+    "folio":10,
+    "stemmed":"呵 諸 菩 薩 或 意 在 此 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a25_3",
+    "original":"此二從二地至六地名修道。",
+    "folio":10,
+    "stemmed":"此 二 從 二 地 至 六 地 名 修 道  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a25_10",
+    "original":"斷別惑三界愛。",
+    "folio":10,
+    "stemmed":"斷 別 惑 三 界 愛  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a25_16",
+    "original":"如智度論明。",
+    "folio":10,
+    "stemmed":"如 智 度 論 明  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a26_10",
+    "original":"迦葉聞㼼迦羅琴聲不能自安。",
+    "folio":10,
+    "stemmed":"迦 葉 聞 㼼 迦 羅 琴 聲 不 能 自 安  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a27_3",
+    "original":"云三界五欲我已斷竟。",
+    "folio":10,
+    "stemmed":"云 三 界 五 欲 我 已 斷 竟  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a27_16",
+    "original":"此是菩薩淨妙功德所生五欲。",
+    "folio":10,
+    "stemmed":"此 是 菩 薩 淨 妙 功 德 所 生 五 欲  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a28_6",
+    "original":"故於是事不能安忍。",
+    "folio":10,
+    "stemmed":"故 於 是 事 不 能 安 忍  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a28_16",
+    "original":"例色無色愛亦復如是。",
+    "folio":10,
+    "stemmed":"例 色 無 色 愛 亦復如是  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a29_1",
+    "original":"此經。",
+    "folio":10,
+    "stemmed":"此 經  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a29_9",
+    "original":"大士呵須菩提云。",
+    "folio":10,
+    "stemmed":"大 士 呵 須 菩 提 云  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759a29_18",
+    "original":"同於煩惱不到彼岸。",
+    "folio":10,
+    "stemmed":"同 於 煩 惱 不 到 彼 岸  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b01_8",
+    "original":"入於八難不得無難。",
+    "folio":10,
+    "stemmed":"入 於 八 難 不 得 無 難  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b01_13",
+    "original":"意在此也。",
+    "folio":10,
+    "stemmed":"意 在 此 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b02_2",
+    "original":"故從二地至六地。",
+    "folio":10,
+    "stemmed":"故 從 二 地 至 六 地  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b02_12",
+    "original":"通名修道斷此別惑也。",
+    "folio":10,
+    "stemmed":"通 名 修 道 斷 此 別 惑 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b02_17",
+    "original":"今以義推。",
+    "folio":10,
+    "stemmed":"今 以 義 推  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b03_2",
+    "original":"二離垢地。",
+    "folio":10,
+    "stemmed":"二 離 垢 地  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b03_15",
+    "original":"即假斷別教欲愛名斯陀含向。",
+    "folio":10,
+    "stemmed":"即 假 斷 別 教 欲 愛 名 斯陀含向  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b04_1",
+    "original":"三明地。",
+    "folio":10,
+    "stemmed":"三 明 地  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b04_10",
+    "original":"即是別教斯陀含果。",
+    "folio":10,
+    "stemmed":"即 是 別 教 斯陀含果  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b04_14",
+    "original":"四焰地。",
+    "folio":10,
+    "stemmed":"四 焰 地  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b05_3",
+    "original":"即是別教阿那含向。",
+    "folio":10,
+    "stemmed":"即 是 別 教 阿 那 含 向  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b05_8",
+    "original":"五難勝地。",
+    "folio":10,
+    "stemmed":"五 難 勝 地  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b05_17",
+    "original":"即是別教阿那含果。",
+    "folio":10,
+    "stemmed":"即 是 別 教 阿那含果  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b06_5",
+    "original":"斷別惑欲愛盡也。",
+    "folio":10,
+    "stemmed":"斷 別 惑 欲 愛 盡 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b06_10",
+    "original":"六現前地。",
+    "folio":10,
+    "stemmed":"六 現 前 地  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b07_1",
+    "original":"即是別教阿羅漢向。",
+    "folio":10,
+    "stemmed":"即 是 別 教 阿羅漢向  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b07_7",
+    "original":"斷別色愛也。",
+    "folio":10,
+    "stemmed":"斷 別 色 愛 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b07_12",
+    "original":"七遠行地。",
+    "folio":10,
+    "stemmed":"七 遠 行 地  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b08_2",
+    "original":"即是別教阿羅漢果。",
+    "folio":10,
+    "stemmed":"即 是 別 教 阿羅漢果  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b08_9",
+    "original":"斷別無色愛盡。",
+    "folio":10,
+    "stemmed":"斷 別 無 色 愛 盡  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b08_18",
+    "original":"故從此名無學道也。",
+    "folio":10,
+    "stemmed":"故 從 此 名 無 學 道 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b09_9",
+    "original":"問曰此對四果出何經論。",
+    "folio":10,
+    "stemmed":"問 曰 此 對 四 果 出 何 經 論  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b10_2",
+    "original":"答曰別教明斷伏對四果。",
+    "folio":10,
+    "stemmed":"答 曰 別 教 明 斷 伏 對 四 果  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b10_9",
+    "original":"經論多不同也。",
+    "folio":10,
+    "stemmed":"經 論 多 不 同 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b10_17",
+    "original":"諸大乘法師所用。",
+    "folio":10,
+    "stemmed":"諸 大 乘 法 師 所 用  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b11_3",
+    "original":"亦異地論師。",
+    "folio":10,
+    "stemmed":"亦 異 地 論 師  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b11_9",
+    "original":"通教判位云。",
+    "folio":10,
+    "stemmed":"通 教 判 位 云  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b11_14",
+    "original":"初地斷見。",
+    "folio":10,
+    "stemmed":"初 地 斷 見  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b12_1",
+    "original":"二地斷欲愛。",
+    "folio":10,
+    "stemmed":"二 地 斷 欲 愛  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b12_7",
+    "original":"三地斷色愛。",
+    "folio":10,
+    "stemmed":"三 地 斷 色 愛  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b12_14",
+    "original":"四地斷無色愛。",
+    "folio":10,
+    "stemmed":"四 地 斷 無 色 愛  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b13_2",
+    "original":"地論師通宗判位。",
+    "folio":10,
+    "stemmed":"地 論 師 通 宗 判 位  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b13_13",
+    "original":"有用三地斷見名須陀洹。",
+    "folio":10,
+    "stemmed":"有 用 三 地 斷 見 名 須 陀 洹  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b14_5",
+    "original":"從四地至六地名斯陀含。",
+    "folio":10,
+    "stemmed":"從 四 地 至 六 地 名 斯 陀 含  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b14_11",
+    "original":"第二依法師。",
+    "folio":10,
+    "stemmed":"第 二 依 法 師  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b14_18",
+    "original":"七地名阿那含。",
+    "folio":10,
+    "stemmed":"七 地 名 阿 那 含  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b15_4",
+    "original":"第三依法師。",
+    "folio":10,
+    "stemmed":"第 三 依 法 師  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b15_13",
+    "original":"十地等覺名阿羅漢。",
+    "folio":10,
+    "stemmed":"十 地 等 覺 名 阿 羅 漢  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b16_1",
+    "original":"是第四依法師。",
+    "folio":10,
+    "stemmed":"是 第 四 依 法 師  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b16_7",
+    "original":"有三地斷見。",
+    "folio":10,
+    "stemmed":"有 三 地 斷 見  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b16_14",
+    "original":"四地名斯陀含。",
+    "folio":10,
+    "stemmed":"四 地 名 斯 陀 含  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b17_1",
+    "original":"五地名阿那含。",
+    "folio":10,
+    "stemmed":"五 地 名 阿 那 含  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b17_8",
+    "original":"六地名阿羅漢。",
+    "folio":10,
+    "stemmed":"六 地 名 阿 羅 漢  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b17_14",
+    "original":"有用仁王經。",
+    "folio":10,
+    "stemmed":"有 用 仁 王 經  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b18_5",
+    "original":"四地斷見五地名斯陀含。",
+    "folio":10,
+    "stemmed":"四 地 斷 見 五 地 名 斯 陀 含  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b18_12",
+    "original":"六地名阿那含。",
+    "folio":10,
+    "stemmed":"六 地 名 阿 那 含  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b18_19",
+    "original":"七地名阿羅漢。",
+    "folio":10,
+    "stemmed":"七 地 名 阿 羅 漢  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b19_7",
+    "original":"如是等異說不同。",
+    "folio":10,
+    "stemmed":"如 是 等 異 說 不 同  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b19_12",
+    "original":"難可定依。",
+    "folio":10,
+    "stemmed":"難 可 定 依  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b20_4",
+    "original":"今以義推作此對四果也。",
+    "folio":10,
+    "stemmed":"今 以 義 推 作 此 對 四 果 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b20_10",
+    "original":"一往似解便。",
+    "folio":10,
+    "stemmed":"一 往 似 解 便  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b21_1",
+    "original":"既無的文佛意難知。",
+    "folio":10,
+    "stemmed":"既 無 的 文 佛 意 難 知  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b21_7",
+    "original":"不須苟執也。",
+    "folio":10,
+    "stemmed":"不 須 苟 執 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b21_16",
+    "original":"問曰何故解釋不定。",
+    "folio":10,
+    "stemmed":"問 曰 何 故 解 釋 不 定  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b21_18",
+    "original":"答。",
+    "folio":10,
+    "stemmed":"答  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b22_5",
+    "original":"曰已如前釋。",
+    "folio":10,
+    "stemmed":"曰 已 如 前 釋  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b22_18",
+    "original":"八不動地即是別教辟支佛地。",
+    "folio":10,
+    "stemmed":"八 不 動 地 即 是 別 教 辟支佛地  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b23_4",
+    "original":"地論師云。",
+    "folio":10,
+    "stemmed":"地 論 師 云  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b23_11",
+    "original":"從此明無學道。",
+    "folio":10,
+    "stemmed":"從 此 明 無 學 道  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b23_18",
+    "original":"未知的出經論。",
+    "folio":10,
+    "stemmed":"未 知 的 出 經 論  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b24_11",
+    "original":"不但八地得無生忍寂而常用。",
+    "folio":10,
+    "stemmed":"不 但 八 地 得無生忍 寂 而 常 用  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b25_2",
+    "original":"用而無相無功用心。",
+    "folio":10,
+    "stemmed":"用 而 無 相 無 功 用 心  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b25_15",
+    "original":"自然斷法界無明惑色習盡也。",
+    "folio":10,
+    "stemmed":"自 然 斷 法 界 無 明 惑 色 習 盡 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b26_1",
+    "original":"九善慧地。",
+    "folio":10,
+    "stemmed":"九 善 慧 地  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b26_10",
+    "original":"無明稍薄斷心習盡。",
+    "folio":10,
+    "stemmed":"無 明 稍 薄 斷 心 習 盡  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b27_1",
+    "original":"慧轉分明善入實相也。",
+    "folio":10,
+    "stemmed":"慧 轉 分 明 善 入 實 相 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b27_6",
+    "original":"十法雲地。",
+    "folio":10,
+    "stemmed":"十 法 雲 地  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b27_15",
+    "original":"慈悲智慧猶若大雲。",
+    "folio":10,
+    "stemmed":"慈 悲 智 慧 猶 若 大 雲  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b28_3",
+    "original":"慈悲普洽一切。",
+    "folio":10,
+    "stemmed":"慈 悲 普 洽 一 切  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b28_8",
+    "original":"皆雨慧雲。",
+    "folio":10,
+    "stemmed":"皆 雨 慧 雲  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b28_19",
+    "original":"能持十方諸佛所說法雨。",
+    "folio":10,
+    "stemmed":"能 持 十方諸佛 所 說 法 雨  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b29_4",
+    "original":"斷無明也。",
+    "folio":10,
+    "stemmed":"斷 無 明 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759b29_10",
+    "original":"六等覺地者。",
+    "folio":10,
+    "stemmed":"六 等 覺 地 者  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c01_2",
+    "original":"即是邊際智滿入重玄門。",
+    "folio":10,
+    "stemmed":"即 是 邊 際 智 滿 入 重 玄 門  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c01_11",
+    "original":"若望法雲名之為佛。",
+    "folio":10,
+    "stemmed":"若 望 法 雲 名 之 為 佛  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c02_2",
+    "original":"望妙覺名金剛心菩薩。",
+    "folio":10,
+    "stemmed":"望 妙 覺 名 金 剛 心 菩 薩  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c02_10",
+    "original":"亦名無垢地菩薩。",
+    "folio":10,
+    "stemmed":"亦 名 無 垢 地 菩 薩  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c03_2",
+    "original":"三魔已盡餘有一品死魔。",
+    "folio":10,
+    "stemmed":"三 魔 已 盡 餘 有 一 品 死 魔  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c03_9",
+    "original":"在斷無明習也。",
+    "folio":10,
+    "stemmed":"在 斷 無 明 習 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c04_4",
+    "original":"問曰前通教何意不辨等覺佛耶。",
+    "folio":10,
+    "stemmed":"問 曰 前 通 教 何 意 不 辨 等 覺 佛 耶  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c04_13",
+    "original":"答曰界內習氣易盡。",
+    "folio":10,
+    "stemmed":"答 曰 界 內 習 氣 易 盡  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c05_5",
+    "original":"故不須開法雲出等覺也。",
+    "folio":10,
+    "stemmed":"故 不 須 開 法 雲 出 等 覺 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c05_12",
+    "original":"問曰別教經論。",
+    "folio":10,
+    "stemmed":"問 曰 別 教 經 論  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c06_5",
+    "original":"何故有處處明法雲之後。",
+    "folio":10,
+    "stemmed":"何 故 有 處 處 明 法 雲 之 後  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c06_12",
+    "original":"更有金剛等覺。",
+    "folio":10,
+    "stemmed":"更 有 金 剛 等 覺  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c07_4",
+    "original":"自有經論止明十地行滿。",
+    "folio":10,
+    "stemmed":"自 有 經 論 止 明 十 地 行 滿  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c07_9",
+    "original":"便成佛果。",
+    "folio":10,
+    "stemmed":"便 成 佛 果  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c07_18",
+    "original":"南北法師抑諍此義。",
+    "folio":10,
+    "stemmed":"南 北 法 師 抑 諍 此 義  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c08_10",
+    "original":"答曰更立等覺未足為礙。",
+    "folio":10,
+    "stemmed":"答 曰 更 立 等 覺 未 足 為 礙  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c08_15",
+    "original":"所以然者。",
+    "folio":10,
+    "stemmed":"所 以 然 者  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c09_1",
+    "original":"華嚴經。",
+    "folio":10,
+    "stemmed":"華 嚴 經  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c09_11",
+    "original":"明法雲十地功德智慧。",
+    "folio":10,
+    "stemmed":"明 法 雲 十 地 功 德 智 慧  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c09_17",
+    "original":"用此比於佛。",
+    "folio":10,
+    "stemmed":"用 此 比 於 佛  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c10_7",
+    "original":"如爪上土方於大地。",
+    "folio":10,
+    "stemmed":"如 爪 上 土 方 於 大 地  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c11_4",
+    "original":"若爾雖說一品無明而實不可說品。",
+    "folio":10,
+    "stemmed":"若 爾 雖 說 一 品 無 明 而 實 不 可 說 品  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c11_16",
+    "original":"何以得後心菩薩無功用道。",
+    "folio":10,
+    "stemmed":"何 以 得 後 心 菩 薩 無 功 用 道  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c12_3",
+    "original":"其疾甚風。",
+    "folio":10,
+    "stemmed":"其 疾 甚 風  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c12_8",
+    "original":"一日之間。",
+    "folio":10,
+    "stemmed":"一 日 之 間  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c12_18",
+    "original":"能破無量品無明障惑。",
+    "folio":10,
+    "stemmed":"能 破 無 量 品 無 明 障 惑  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c13_8",
+    "original":"何況瓔珞經明等覺地。",
+    "folio":10,
+    "stemmed":"何 況 瓔 珞 經 明 等 覺 地  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c13_18",
+    "original":"於百千萬劫入重玄門。",
+    "folio":10,
+    "stemmed":"於 百千萬劫 入 重 玄 門  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c14_5",
+    "original":"倒修凡夫事。",
+    "folio":10,
+    "stemmed":"倒 修 凡 夫 事  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c14_12",
+    "original":"是故開法雲地。",
+    "folio":10,
+    "stemmed":"是 故 開 法 雲 地  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c15_7",
+    "original":"更立金剛心等覺佛於理無失。",
+    "folio":10,
+    "stemmed":"更 立 金 剛 心 等 覺 佛 於 理 無 失  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c15_18",
+    "original":"若知一品有無量品無明。",
+    "folio":10,
+    "stemmed":"若 知 一 品 有 無 量 品 無 明  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c16_10",
+    "original":"因法雲地無礙之智即盡。",
+    "folio":10,
+    "stemmed":"因 法 雲 地 無 礙 之 智 即 盡  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c17_3",
+    "original":"復何須開出等覺地也。",
+    "folio":10,
+    "stemmed":"復 何 須 開 出 等 覺 地 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c17_9",
+    "original":"七妙覺地者。",
+    "folio":10,
+    "stemmed":"七 妙 覺 地 者  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c17_18",
+    "original":"金剛後心朗然大覺。",
+    "folio":10,
+    "stemmed":"金 剛 後 心 朗 然 大 覺  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c18_8",
+    "original":"妙智窮源無明習盡。",
+    "folio":10,
+    "stemmed":"妙 智 窮 源 無 明 習 盡  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c18_13",
+    "original":"名真解脫。",
+    "folio":10,
+    "stemmed":"名 真 解 脫  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c19_4",
+    "original":"肅然無累寂而常照。",
+    "folio":10,
+    "stemmed":"肅 然 無 累 寂 而 常 照  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c19_9",
+    "original":"名妙覺地。",
+    "folio":10,
+    "stemmed":"名 妙 覺 地  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c20_1",
+    "original":"常住佛果具足一切佛法。",
+    "folio":10,
+    "stemmed":"常 住 佛 果 具 足 一切佛法  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c20_6",
+    "original":"名菩提果。",
+    "folio":10,
+    "stemmed":"名 菩 提 果  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c20_15",
+    "original":"四德涅槃名為果果。",
+    "folio":10,
+    "stemmed":"四 德 涅 槃 名 為 果 果  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c20_18",
+    "original":"問曰。",
+    "folio":10,
+    "stemmed":"問 曰  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c21_7",
+    "original":"為定用金剛智斷無明。",
+    "folio":10,
+    "stemmed":"為 定 用 金 剛 智 斷 無 明  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c21_17",
+    "original":"為用妙覺智斷無明耶。",
+    "folio":10,
+    "stemmed":"為 用 妙 覺 智 斷 無 明 耶  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c22_1",
+    "original":"答曰。",
+    "folio":10,
+    "stemmed":"答 曰  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c22_6",
+    "original":"涅槃經云。",
+    "folio":10,
+    "stemmed":"涅 槃 經 云  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c22_15",
+    "original":"有所斷者名有上士。",
+    "folio":10,
+    "stemmed":"有 所 斷 者 名 有 上 士  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c23_5",
+    "original":"無所斷者名無上士。",
+    "folio":10,
+    "stemmed":"無 所 斷 者 名 無 上 士  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c23_8",
+    "original":"問曰。",
+    "folio":10,
+    "stemmed":"問 曰  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c23_13",
+    "original":"勝鬘經云。",
+    "folio":10,
+    "stemmed":"勝 鬘 經 云  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c24_2",
+    "original":"無明住地其力最大。",
+    "folio":10,
+    "stemmed":"無明住地 其 力 最 大  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c24_11",
+    "original":"佛菩提智之所能斷。",
+    "folio":10,
+    "stemmed":"佛 菩 提 智 之 所 能 斷  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c24_14",
+    "original":"答曰。",
+    "folio":10,
+    "stemmed":"答 曰  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c25_5",
+    "original":"若用別教通十地等覺。",
+    "folio":10,
+    "stemmed":"若 用 別 教 通 十 地 等 覺  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c25_12",
+    "original":"即是佛菩提智。",
+    "folio":10,
+    "stemmed":"即 是 佛 菩 提 智  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c25_17",
+    "original":"所以者何。",
+    "folio":10,
+    "stemmed":"所以者何  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c26_3",
+    "original":"涅槃經云。",
+    "folio":10,
+    "stemmed":"涅 槃 經 云  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c26_12",
+    "original":"九住菩薩名為聞見。",
+    "folio":10,
+    "stemmed":"九 住 菩 薩 名 為 聞 見  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c27_2",
+    "original":"十住菩薩名為眼見。",
+    "folio":10,
+    "stemmed":"十住菩薩 名 為 眼 見  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c27_11",
+    "original":"雖見佛性而不了了。",
+    "folio":10,
+    "stemmed":"雖 見 佛 性 而 不 了 了  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c28_2",
+    "original":"以無礙道與惑共住。",
+    "folio":10,
+    "stemmed":"以 無 礙 道 與 惑 共 住  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c28_7",
+    "original":"故不了了。",
+    "folio":10,
+    "stemmed":"故 不 了 了  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c29_1",
+    "original":"諸佛如來了了見者即真解脫。",
+    "folio":10,
+    "stemmed":"諸佛如來 了 了 見 者 即 真 解 脫  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c29_10",
+    "original":"肅然累外故了了也。",
+    "folio":10,
+    "stemmed":"肅 然 累 外 故 了 了 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0759c29_16",
+    "original":"若別教明義。",
+    "folio":10,
+    "stemmed":"若 別 教 明 義  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0760a01_3",
+    "original":"從初歡喜地。",
+    "folio":10,
+    "stemmed":"從 初歡喜地  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0760a01_10",
+    "original":"即用佛菩提智。",
+    "folio":10,
+    "stemmed":"即 用 佛 菩 提 智  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0760a01_16",
+    "original":"斷初品無明。",
+    "folio":10,
+    "stemmed":"斷 初 品 無 明  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0760a02_7",
+    "original":"乃至等覺後心方乃斷盡。",
+    "folio":10,
+    "stemmed":"乃 至 等 覺 後 心 方 乃 斷 盡  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0760a02_13",
+    "original":"若圓教明義。",
+    "folio":10,
+    "stemmed":"若 圓 教 明 義  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0760a03_1",
+    "original":"即是初發心住。",
+    "folio":10,
+    "stemmed":"即 是 初 發 心 住  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0760a03_8",
+    "original":"得用佛菩提智。",
+    "folio":10,
+    "stemmed":"得 用 佛 菩 提 智  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0760a03_14",
+    "original":"斷初品無明。",
+    "folio":10,
+    "stemmed":"斷 初 品 無 明  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0760a04_5",
+    "original":"乃至等覺後心方斷盡也。",
+    "folio":10,
+    "stemmed":"乃 至 等 覺 後 心 方 斷 盡 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0760a05_1",
+    "original":"第四約別教位釋淨無垢稱位者。",
+    "folio":10,
+    "stemmed":"第 四 約 別 教 位 釋 淨 無 垢 稱 位 者  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0760a05_16",
+    "original":"維摩既是一生補處大士即是法身。",
+    "folio":10,
+    "stemmed":"維 摩 既 是 一生補處 大 士 即 是 法 身  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0760a06_11",
+    "original":"居等覺金剛心無垢菩薩之位也。",
+    "folio":10,
+    "stemmed":"居 等 覺 金 剛 心 無 垢 菩 薩 之 位 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0760a07_2",
+    "original":"佛性理顯故名為淨。",
+    "folio":10,
+    "stemmed":"佛 性 理 顯 故 名 為 淨  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0760a07_9",
+    "original":"別惑正習俱盡。",
+    "folio":10,
+    "stemmed":"別 惑 正 習 俱 盡  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0760a07_14",
+    "original":"無明餘習。",
+    "folio":10,
+    "stemmed":"無 明 餘 習  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0760a08_4",
+    "original":"譬若微煙雖有如無。",
+    "folio":10,
+    "stemmed":"譬 若 微 煙 雖 有 如 無  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0760a08_9",
+    "original":"故名無垢。",
+    "folio":10,
+    "stemmed":"故 名 無 垢  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0760a09_3",
+    "original":"邊際智滿內稱深理外用無方。",
+    "folio":10,
+    "stemmed":"邊 際 智 滿 內 稱 深 理 外 用 無 方  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0760a09_12",
+    "original":"法界平等赴緣行化。",
+    "folio":10,
+    "stemmed":"法 界 平 等 赴 緣 行 化  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0760a09_17",
+    "original":"故名為稱。",
+    "folio":10,
+    "stemmed":"故 名 為 稱  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0760a10_5",
+    "original":"故云淨無垢稱也。",
+    "folio":10,
+    "stemmed":"故 云 淨 無 垢 稱 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0760a10_14",
+    "original":"豈可同彼三藏通教。",
+    "folio":10,
+    "stemmed":"豈 可 同 彼 三 藏 通 教  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0760a11_2",
+    "original":"辨淨無垢稱義。",
+    "folio":10,
+    "stemmed":"辨 淨 無 垢 稱 義  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0760a11_13",
+    "original":"所以教迹現同補處位者。",
+    "folio":10,
+    "stemmed":"所 以 教 迹 現 同 補 處 位 者  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0760a12_2",
+    "original":"為呵通教三乘。",
+    "folio":10,
+    "stemmed":"為 呵 通 教 三 乘  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0760a12_10",
+    "original":"別教大乘接義也。",
+    "folio":10,
+    "stemmed":"別 教 大 乘 接 義 也  "
+  },
+  {
+    "segmentnr":"ZH_T46_1929_010:0760a13_100",
+    "original":"四教義卷第十",
+    "folio":10,
+    "stemmed":"四 教 義 卷 第 十 "
+  }
+]

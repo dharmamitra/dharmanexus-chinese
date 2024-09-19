@@ -1,0 +1,896 @@
+[
+  {
+    "segmentnr":"ZH_T20_1077_001:0185a09_0",
+    "original":"佛說七俱胝佛母心大准提陀羅",
+    "folio":1,
+    "stemmed":"佛 說 七 俱 胝 佛 母 心 大 准 提 陀 羅 "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185a10_0",
+    "original":"尼經",
+    "folio":1,
+    "stemmed":"尼 經 "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185a12_0",
+    "original":"大唐天竺三藏地婆訶羅譯",
+    "folio":1,
+    "stemmed":"大 唐 天 竺 三 藏 地 婆 訶 羅 譯 "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185a13_13",
+    "original":"爾時佛在舍衛國祇樹給孤獨園。",
+    "folio":1,
+    "stemmed":"爾 時 佛 在 舍 衛 國 祇 樹 給 孤 獨 園  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185a14_4",
+    "original":"是時世尊思惟觀察。",
+    "folio":1,
+    "stemmed":"是 時 世 尊 思惟觀察  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185a14_12",
+    "original":"愍未來諸眾生故。",
+    "folio":1,
+    "stemmed":"愍 未 來 諸 眾 生 故  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185a15_8",
+    "original":"說是七俱胝佛母心准提陀羅尼法。",
+    "folio":1,
+    "stemmed":"說 是 七 俱 胝 佛 母 心 准 提 陀 羅 尼 法  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185a15_13",
+    "original":"即說呪曰。",
+    "folio":1,
+    "stemmed":"即 說 呪 曰  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185a19_13",
+    "original":"南謨颯哆南一三藐三勃陀俱胝南二怛姪他三唵折戾四主戾五准締六娑婆訶七若有比丘比丘尼優婆塞優婆夷。",
+    "folio":1,
+    "stemmed":"南 謨 颯 哆 南 一 三 藐 三 勃 陀 俱 胝 南 二 怛 姪 他 三 唵 折 戾 四 主 戾 五 准 締 六 娑 婆 訶 七 若 有 比 丘 比 丘 尼 優 婆 塞 優 婆 夷  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185a21_1",
+    "original":"受持讀誦此陀羅尼滿八十萬遍無量劫來所造五無間等。",
+    "folio":1,
+    "stemmed":"受持讀誦 此 陀 羅 尼 滿 八 十 萬 遍 無 量 劫 來 所 造 五 無 間 等  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185a21_10",
+    "original":"一切諸罪皆悉消滅。",
+    "folio":1,
+    "stemmed":"一 切 諸 罪 皆 悉 消 滅  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185a22_6",
+    "original":"所在生處皆得值遇諸佛菩薩。",
+    "folio":1,
+    "stemmed":"所 在 生 處 皆 得 值 遇 諸佛菩薩  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185a22_15",
+    "original":"所有資具隨意充足。",
+    "folio":1,
+    "stemmed":"所 有 資 具 隨 意 充 足  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185a23_4",
+    "original":"生生常得出家。",
+    "folio":1,
+    "stemmed":"生 生 常 得 出 家  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185a23_13",
+    "original":"具持菩薩律儀淨戒。",
+    "folio":1,
+    "stemmed":"具 持 菩 薩 律 儀 淨 戒  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185a24_4",
+    "original":"恒生人天不墮惡趣。",
+    "folio":1,
+    "stemmed":"恒 生 人 天 不 墮 惡 趣  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185a24_13",
+    "original":"常為諸天之所守護。",
+    "folio":1,
+    "stemmed":"常 為 諸 天 之 所 守 護  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185a25_7",
+    "original":"若有在家善男女等誦持之者。",
+    "folio":1,
+    "stemmed":"若 有 在 家 善 男 女 等 誦 持 之 者  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185a26_2",
+    "original":"其家無有災橫病苦之所惱害。",
+    "folio":1,
+    "stemmed":"其 家 無 有 災 橫 病 苦 之 所 惱 害  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185a26_11",
+    "original":"諸有所作無不諧偶。",
+    "folio":1,
+    "stemmed":"諸 有 所 作 無 不 諧 偶  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185a27_2",
+    "original":"所說言語人皆信受。",
+    "folio":1,
+    "stemmed":"所 說 言 語 人 皆 信 受  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185a27_15",
+    "original":"若有誦此陀羅尼呪滿十萬遍。",
+    "folio":1,
+    "stemmed":"若 有 誦 此 陀羅尼呪 滿 十 萬 遍  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185a28_10",
+    "original":"夢中得見諸佛菩薩聲聞緣覺。",
+    "folio":1,
+    "stemmed":"夢 中 得 見 諸佛菩薩 聲 聞 緣 覺  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185a29_1",
+    "original":"自見口中吐出黑物。",
+    "folio":1,
+    "stemmed":"自 見 口 中 吐 出 黑 物  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185a29_12",
+    "original":"若有重罪誦滿二十萬遍。",
+    "folio":1,
+    "stemmed":"若 有 重 罪 誦 滿 二 十 萬 遍  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b01_3",
+    "original":"夢中亦見諸佛菩薩。",
+    "folio":1,
+    "stemmed":"夢 中 亦 見 諸佛菩薩  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b01_12",
+    "original":"亦復自見吐出黑物。",
+    "folio":1,
+    "stemmed":"亦 復 自 見 吐 出 黑 物  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b02_1",
+    "original":"若有五逆罪。",
+    "folio":1,
+    "stemmed":"若 有 五 逆 罪  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b02_10",
+    "original":"不得如是善夢之者。",
+    "folio":1,
+    "stemmed":"不 得 如 是 善 夢 之 者  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b03_2",
+    "original":"宜應更誦滿七十萬遍。",
+    "folio":1,
+    "stemmed":"宜 應 更 誦 滿 七 十 萬 遍  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b03_11",
+    "original":"是時還得如前之相。",
+    "folio":1,
+    "stemmed":"是 時 還 得 如 前 之 相  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b04_6",
+    "original":"乃至夢見吐出白色如酪飯等。",
+    "folio":1,
+    "stemmed":"乃 至 夢 見 吐 出 白 色 如 酪 飯 等  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b04_15",
+    "original":"當知此人即是罪滅。",
+    "folio":1,
+    "stemmed":"當 知 此 人 即 是 罪 滅  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b05_2",
+    "original":"清淨之相。",
+    "folio":1,
+    "stemmed":"清 淨 之 相  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b06_14",
+    "original":"復次我今說此大陀羅尼所作之事。",
+    "folio":1,
+    "stemmed":"復 次 我 今 說 此 大 陀 羅 尼 所 作 之 事  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b07_2",
+    "original":"若於佛像前。",
+    "folio":1,
+    "stemmed":"若 於 佛 像 前  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b07_11",
+    "original":"或於塔前若清淨處。",
+    "folio":1,
+    "stemmed":"或 於 塔 前 若 清 淨 處  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b07_18",
+    "original":"以瞿摩夷塗地。",
+    "folio":1,
+    "stemmed":"以 瞿 摩 夷 塗 地  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b08_8",
+    "original":"而作方壇隨其大小。",
+    "folio":1,
+    "stemmed":"而 作 方 壇 隨 其 大 小  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b09_2",
+    "original":"復以花香幡蓋飲食燈燭。",
+    "folio":1,
+    "stemmed":"復 以 花 香 幡 蓋 飲 食 燈 燭  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b09_11",
+    "original":"隨力所辦而供養之。",
+    "folio":1,
+    "stemmed":"隨 力 所 辦 而 供 養 之  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b10_7",
+    "original":"復呪香水散於四方上下以為結界。",
+    "folio":1,
+    "stemmed":"復 呪 香 水 散 於 四 方 上 下 以 為 結 界  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b10_16",
+    "original":"於壇四角及壇中央。",
+    "folio":1,
+    "stemmed":"於 壇 四 角 及 壇 中 央  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b11_7",
+    "original":"皆各置一香水之瓶。",
+    "folio":1,
+    "stemmed":"皆 各 置 一 香 水 之 瓶  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b11_16",
+    "original":"持呪之者於其壇中。",
+    "folio":1,
+    "stemmed":"持 呪 之 者 於 其 壇 中  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b12_4",
+    "original":"面向東方胡跪。",
+    "folio":1,
+    "stemmed":"面 向 東 方 胡 跪  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b12_11",
+    "original":"誦呪一千八遍。",
+    "folio":1,
+    "stemmed":"誦 呪 一 千 八 遍  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b13_2",
+    "original":"其香水瓶即便自轉。",
+    "folio":1,
+    "stemmed":"其 香 水 瓶 即 便 自 轉  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b13_8",
+    "original":"叉手捧雜花。",
+    "folio":1,
+    "stemmed":"叉 手 捧 雜 花  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b13_13",
+    "original":"呪千八遍。",
+    "folio":1,
+    "stemmed":"呪 千 八 遍  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b13_18",
+    "original":"散一鏡面。",
+    "folio":1,
+    "stemmed":"散 一 鏡 面  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b14_6",
+    "original":"又於鏡前正觀。",
+    "folio":1,
+    "stemmed":"又 於 鏡 前 正 觀  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b14_13",
+    "original":"誦呪亦千八遍。",
+    "folio":1,
+    "stemmed":"誦 呪 亦 千 八 遍  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b15_3",
+    "original":"得見佛菩薩像。",
+    "folio":1,
+    "stemmed":"得 見 佛 菩 薩 像  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b15_10",
+    "original":"應呪花百八遍。",
+    "folio":1,
+    "stemmed":"應 呪 花 百 八 遍  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b15_15",
+    "original":"而散供養。",
+    "folio":1,
+    "stemmed":"而 散 供 養  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b16_6",
+    "original":"隨請問法無不決了。",
+    "folio":1,
+    "stemmed":"隨 請 問 法 無 不 決 了  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b17_6",
+    "original":"若有鬼病以呪茅草而拂病人即得除愈。",
+    "folio":1,
+    "stemmed":"若 有 鬼 病 以 呪 茅 草 而 拂 病 人 即 得 除 愈  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b17_15",
+    "original":"若有幼小為鬼所著。",
+    "folio":1,
+    "stemmed":"若 有 幼 小 為 鬼 所 著  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b18_9",
+    "original":"以五色縷應令童女搓以為線。",
+    "folio":1,
+    "stemmed":"以 五 色 縷 應 令 童 女 搓 以 為 線  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b19_1",
+    "original":"一呪一結滿二十一。",
+    "folio":1,
+    "stemmed":"一 呪 一 結 滿 二 十 一  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b19_6",
+    "original":"用繫其頸。",
+    "folio":1,
+    "stemmed":"用 繫 其 頸  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b19_14",
+    "original":"以芥子呪滿七遍。",
+    "folio":1,
+    "stemmed":"以 芥 子 呪 滿 七 遍  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b20_4",
+    "original":"散其面即便除差。",
+    "folio":1,
+    "stemmed":"散 其 面 即 便 除 差  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b21_4",
+    "original":"復次有法。",
+    "folio":1,
+    "stemmed":"復 次 有 法  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b21_13",
+    "original":"於病者前墨畫其形。",
+    "folio":1,
+    "stemmed":"於 病 者 前 墨 畫 其 形  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b22_1",
+    "original":"呪楊枝打之。",
+    "folio":1,
+    "stemmed":"呪 楊 枝 打 之  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b22_6",
+    "original":"亦便除差。",
+    "folio":1,
+    "stemmed":"亦 便 除 差  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b23_4",
+    "original":"復次有法。",
+    "folio":1,
+    "stemmed":"復 次 有 法  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b23_17",
+    "original":"若有病人為鬼所著身在遠處。",
+    "folio":1,
+    "stemmed":"若 有 病 人 為 鬼 所 著 身 在 遠 處  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b24_8",
+    "original":"應呪楊枝具滿七遍。",
+    "folio":1,
+    "stemmed":"應 呪 楊 枝 具 滿 七 遍  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b25_1",
+    "original":"寄人持打即亦除差。",
+    "folio":1,
+    "stemmed":"寄 人 持 打 即 亦 除 差  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b26_4",
+    "original":"復次有法。",
+    "folio":1,
+    "stemmed":"復 次 有 法  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b26_12",
+    "original":"若在路行誦此呪。",
+    "folio":1,
+    "stemmed":"若 在 路 行 誦 此 呪  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b27_3",
+    "original":"無有賊盜惡獸等畏。",
+    "folio":1,
+    "stemmed":"無 有 賊 盜 惡 獸 等 畏  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b28_4",
+    "original":"復次有法。",
+    "folio":1,
+    "stemmed":"復 次 有 法  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b28_9",
+    "original":"常持此呪。",
+    "folio":1,
+    "stemmed":"常 持 此 呪  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b28_18",
+    "original":"設有諍訟無不獲勝。",
+    "folio":1,
+    "stemmed":"設 有 諍 訟 無 不 獲 勝  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185b29_8",
+    "original":"若欲往渡江河大海。",
+    "folio":1,
+    "stemmed":"若 欲 往 渡 江 河 大 海  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185c01_3",
+    "original":"誦呪而渡無有水中惡獸等難。",
+    "folio":1,
+    "stemmed":"誦 呪 而 渡 無 有 水 中 惡 獸 等 難  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185c02_4",
+    "original":"復次有法。",
+    "folio":1,
+    "stemmed":"復 次 有 法  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185c02_14",
+    "original":"若被繫閉枷鎖禁其身。",
+    "folio":1,
+    "stemmed":"若 被 繫 閉 枷 鎖 禁 其 身  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185c03_5",
+    "original":"誦此呪者即得解脫。",
+    "folio":1,
+    "stemmed":"誦 此 呪 者 即 得 解 脫  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185c04_12",
+    "original":"復次有法若諸國土水旱不調。",
+    "folio":1,
+    "stemmed":"復 次 有 法 若 諸 國 土 水 旱 不 調  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185c04_17",
+    "original":"疫毒流行。",
+    "folio":1,
+    "stemmed":"疫 毒 流 行  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185c05_8",
+    "original":"應以酥和胡麻粳米。",
+    "folio":1,
+    "stemmed":"應 以 酥 和 胡 麻 粳 米  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185c05_17",
+    "original":"用手三指取其一撮。",
+    "folio":1,
+    "stemmed":"用 手 三 指 取 其 一 撮  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185c06_7",
+    "original":"呪之一遍置火中燒。",
+    "folio":1,
+    "stemmed":"呪 之 一 遍 置 火 中 燒  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185c06_14",
+    "original":"或經七日七夜。",
+    "folio":1,
+    "stemmed":"或 經 七日七夜  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185c07_4",
+    "original":"六時如是相續不絕。",
+    "folio":1,
+    "stemmed":"六 時 如 是 相 續 不 絕  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0185c07_13",
+    "original":"一切災疫悉皆消滅。",
+    "folio":1,
+    "stemmed":"一 切 災 疫 悉 皆 消 滅  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a01_4",
+    "original":"復次有法。",
+    "folio":1,
+    "stemmed":"復 次 有 法  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a01_13",
+    "original":"於河渚間砂潬之上。",
+    "folio":1,
+    "stemmed":"於 河 渚 間 砂 潬 之 上  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a01_16",
+    "original":"以印。",
+    "folio":1,
+    "stemmed":"以 印  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a02_5",
+    "original":"印砂為塔形像。",
+    "folio":1,
+    "stemmed":"印 砂 為 塔 形 像  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a02_14",
+    "original":"誦呪一遍印成一塔。",
+    "folio":1,
+    "stemmed":"誦 呪 一 遍 印 成 一 塔  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a03_2",
+    "original":"滿六十萬遍。",
+    "folio":1,
+    "stemmed":"滿 六 十 萬 遍  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a03_10",
+    "original":"或見觀世音菩薩。",
+    "folio":1,
+    "stemmed":"或 見 觀 世 音 菩 薩  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a03_17",
+    "original":"或見多羅菩薩。",
+    "folio":1,
+    "stemmed":"或 見 多 羅 菩 薩  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a04_7",
+    "original":"或見金剛主菩薩。",
+    "folio":1,
+    "stemmed":"或 見 金 剛 主 菩 薩  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a04_16",
+    "original":"隨心所求皆得滿足。",
+    "folio":1,
+    "stemmed":"隨 心 所 求 皆 得 滿 足  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a05_6",
+    "original":"或見授與仙藥。",
+    "folio":1,
+    "stemmed":"或 見 授 與 仙 藥  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a05_15",
+    "original":"或見與受菩提之記。",
+    "folio":1,
+    "stemmed":"或 見 與 受 菩 提 之 記  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a06_4",
+    "original":"復次有法。",
+    "folio":1,
+    "stemmed":"復 次 有 法  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a06_11",
+    "original":"右遶菩提樹像。",
+    "folio":1,
+    "stemmed":"右 遶 菩 提 樹 像  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a06_18",
+    "original":"誦呪滿千萬遍。",
+    "folio":1,
+    "stemmed":"誦 呪 滿 千 萬 遍  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a07_8",
+    "original":"即見菩薩為其說法。",
+    "folio":1,
+    "stemmed":"即 見 菩 薩 為 其 說 法  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a07_17",
+    "original":"欲隨菩薩即得隨從。",
+    "folio":1,
+    "stemmed":"欲 隨 菩 薩 即 得 隨 從  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a08_4",
+    "original":"復次有法。",
+    "folio":1,
+    "stemmed":"復 次 有 法  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a08_13",
+    "original":"若乞食時常持此呪。",
+    "folio":1,
+    "stemmed":"若 乞 食 時 常 持 此 呪  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a09_7",
+    "original":"不為惡人惡狗等類之所惱害。",
+    "folio":1,
+    "stemmed":"不 為 惡 人 惡 狗 等 類 之 所 惱 害  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a10_4",
+    "original":"若於塔前或佛像前或舍利塔前。",
+    "folio":1,
+    "stemmed":"若 於 塔 前 或 佛 像 前 或 舍 利 塔 前  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a10_13",
+    "original":"誦持此呪三十萬遍。",
+    "folio":1,
+    "stemmed":"誦 持 此 呪 三 十 萬 遍  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a11_7",
+    "original":"復於白月十五日設大供養。",
+    "folio":1,
+    "stemmed":"復 於 白 月十五日 設 大 供 養  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a11_18",
+    "original":"一日一夜不食正念誦呪。",
+    "folio":1,
+    "stemmed":"一 日 一 夜 不 食 正 念 誦 呪  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a12_9",
+    "original":"乃至得見金剛手菩薩。",
+    "folio":1,
+    "stemmed":"乃 至 得 見 金剛手菩薩  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a13_5",
+    "original":"而彼菩薩即將是人往於自宮。",
+    "folio":1,
+    "stemmed":"而 彼 菩 薩 即 將 是 人 往 於 自 宮  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a14_4",
+    "original":"復次有法。",
+    "folio":1,
+    "stemmed":"復 次 有 法  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a14_18",
+    "original":"若於轉法輪塔前或佛生處塔前。",
+    "folio":1,
+    "stemmed":"若 於 轉 法 輪 塔 前 或 佛 生 處 塔 前  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a15_15",
+    "original":"或從忉利天下寶階塔前或舍利塔前。",
+    "folio":1,
+    "stemmed":"或 從 忉 利 天 下 寶 階 塔 前 或 舍 利 塔 前  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a16_10",
+    "original":"於如是等諸塔之前誦呪右遶。",
+    "folio":1,
+    "stemmed":"於 如 是 等 諸 塔 之 前 誦 呪 右 遶  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a17_8",
+    "original":"即見阿鉢羅是多菩薩及訶利底菩薩。",
+    "folio":1,
+    "stemmed":"即 見 阿 鉢 羅 是 多 菩 薩 及 訶 利 底 菩 薩  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a17_17",
+    "original":"隨其所願皆悉滿足。",
+    "folio":1,
+    "stemmed":"隨 其 所 願 皆 悉 滿 足  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a18_7",
+    "original":"若須仙藥即便授之。",
+    "folio":1,
+    "stemmed":"若 須 仙 藥 即 便 授 之  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a18_16",
+    "original":"復為說法示菩薩道。",
+    "folio":1,
+    "stemmed":"復 為 說 法 示 菩 薩 道  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a19_6",
+    "original":"若有誦此陀羅尼者。",
+    "folio":1,
+    "stemmed":"若 有 誦 此 陀 羅 尼 者  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a19_13",
+    "original":"乃至未坐道場。",
+    "folio":1,
+    "stemmed":"乃 至 未 坐 道 場  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a20_3",
+    "original":"一切菩薩常為善友。",
+    "folio":1,
+    "stemmed":"一切菩薩 常 為 善 友  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a20_16",
+    "original":"又此准提大陀羅尼大明呪法。",
+    "folio":1,
+    "stemmed":"又 此 准 提 大 陀 羅 尼 大 明 呪 法  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a21_6",
+    "original":"過去一切諸佛已說。",
+    "folio":1,
+    "stemmed":"過 去 一切諸佛 已 說  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a21_15",
+    "original":"未來一切諸佛當說。",
+    "folio":1,
+    "stemmed":"未 來 一切諸佛 當 說  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a22_6",
+    "original":"現在一切諸佛今說。",
+    "folio":1,
+    "stemmed":"現 在 一切諸佛 今 說  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a22_13",
+    "original":"我今亦如是說。",
+    "folio":1,
+    "stemmed":"我 今 亦 如 是 說  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a23_4",
+    "original":"為利益一切眾生故。",
+    "folio":1,
+    "stemmed":"為 利 益 一 切 眾 生 故  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a23_12",
+    "original":"令得無上菩提故。",
+    "folio":1,
+    "stemmed":"令 得 無上菩提 故  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a24_1",
+    "original":"若有薄福眾生。",
+    "folio":1,
+    "stemmed":"若 有 薄 福 眾 生  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a24_7",
+    "original":"無少善根者。",
+    "folio":1,
+    "stemmed":"無 少 善 根 者  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a24_14",
+    "original":"無有根器之者。",
+    "folio":1,
+    "stemmed":"無 有 根 器 之 者  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a25_3",
+    "original":"無有菩提分法者。",
+    "folio":1,
+    "stemmed":"無 有 菩提分法 者  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a25_12",
+    "original":"若得聞此陀羅尼法。",
+    "folio":1,
+    "stemmed":"若 得 聞 此 陀 羅 尼 法  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a26_7",
+    "original":"速疾證得阿耨多羅三藐三菩提。",
+    "folio":1,
+    "stemmed":"速 疾 證 得阿耨多羅三藐三菩提  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a26_16",
+    "original":"若有人能常自憶念。",
+    "folio":1,
+    "stemmed":"若 有 人 能 常 自 憶 念  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a27_3",
+    "original":"誦持此呪。",
+    "folio":1,
+    "stemmed":"誦 持 此 呪  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a27_12",
+    "original":"無量善根皆得成就。",
+    "folio":1,
+    "stemmed":"無 量 善 根 皆 得 成 就  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a28_5",
+    "original":"佛說此大准提陀羅尼法時。",
+    "folio":1,
+    "stemmed":"佛 說 此 大 准 提 陀 羅 尼 法 時  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a28_14",
+    "original":"無量眾生遠塵離垢。",
+    "folio":1,
+    "stemmed":"無 量 眾 生 遠塵離垢  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186a29_8",
+    "original":"得大准提陀羅尼大明呪功德。",
+    "folio":1,
+    "stemmed":"得 大 准 提 陀 羅 尼 大 明 呪 功 德  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186b01_7",
+    "original":"得見十方諸佛菩薩諸聖眾等作禮而去。",
+    "folio":1,
+    "stemmed":"得 見 十方諸佛 菩 薩 諸 聖 眾 等 作 禮 而 去  "
+  },
+  {
+    "segmentnr":"ZH_T20_1077_001:0186b03_100",
+    "original":"大明呪藏六萬偈中出此七俱胝佛母心大准提陀羅尼經一卷垂拱二年於西魏國寺譯",
+    "folio":1,
+    "stemmed":"大 明 呪 藏 六 萬 偈 中 出 此 七 俱 胝 佛 母 心 大 准 提 陀 羅 尼 經 一 卷 垂 拱 二 年 於 西 魏 國 寺 譯 "
+  }
+]
