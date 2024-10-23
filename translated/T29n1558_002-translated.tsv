@@ -1,0 +1,611 @@
+segmentnr	original	analyzed	translated
+['T29n1558_002:0007a02_0', 'T29n1558_002:0007a04_0']	2阿毘達磨俱舍論卷第二🔽尊者世親造	2阿毘達磨俱舍論卷第二 尊者世親造	Composed by Venerable Vasubandhu
+['T29n1558_002:0007a05_0']	三藏法師玄奘奉　詔譯	三藏法師玄奘奉　詔譯	Translated by Tripiṭaka Master Xuanzang on Imperial Order
+['T29n1558_002:0007a07_18']	分別界品第一之二復次於前所說十八界中，幾有見、幾無見？	分別界品第一之二復次於前所說十八界中，幾有見、幾無見？	Chapter 1, Section 2: Analysis of the Elements. Furthermore, among the eighteen elements explained above, how many are visible and how many are invisible?
+['T29n1558_002:0007a08_6']	幾有對、幾無對？	幾有對、幾無對？	How many are resistant and how many are non-resistant?
+['T29n1558_002:0007a08_17']	幾善、幾不善、幾無記？	幾善、幾不善、幾無記？	How many are wholesome, how many are unwholesome, and how many are indeterminate?
+['T29n1558_002:0007a08_20']	頌曰：	頌曰：	Verse:
+['T29n1558_002:0007a09_0']	一有見謂色，　　十有色有對，	一有見謂色，　　十有色有對，	One is visible, namely form. Ten have form and are resistant.
+['T29n1558_002:0007a10_13']	此除色聲八，　　無記餘三種。	此除色聲八，　　無記餘三種。	Excluding form and sound, the other eight are indeterminate. The rest are of three kinds.
+['T29n1558_002:0007a11_2']	論曰：	論曰：	Discussion:
+['T29n1558_002:0007a12_2']	十八界中色界有見，以可示現此彼差別。	十八界中色界有見，以可示現此彼差別。	Among the eighteen elements, the form element is visible, because it can be indicated as having distinctions here and there.
+['T29n1558_002:0007a12_12']	由此義准，說餘無見。	由此義准，說餘無見。	By this meaning, the others are said to be invisible.
+['T29n1558_002:0007a13_2']	如是已說有見無見。	如是已說有見無見。	Thus, the visible and invisible have been explained.
+['T29n1558_002:0007a13_16']	唯色蘊攝十界有對，對是礙義。	唯色蘊攝十界有對，對是礙義。	Only the form aggregate, which includes ten elements, is resistant. Resistance means obstruction.
+['T29n1558_002:0007a14_1']	此復三種：	此復三種：	This is further of three kinds:
+['T29n1558_002:0007a14_12']	障礙、境界、所緣異故。	障礙、境界、所緣異故。	Because of the differences in obstruction, object, and support.
+['T29n1558_002:0007a15_1']	障礙有對，謂十色界。	障礙有對，謂十色界。	Obstruction as resistance refers to the ten elements with form.
+['T29n1558_002:0007a16_5']	自於他處被礙不生，如手礙手或石礙石或二相礙。	自於他處被礙不生，如手礙手或石礙石或二相礙。	It does not arise when it encounters resistance from another, as when hand encounters hand or stone encounters stone, or when two things resist each other.
+['T29n1558_002:0007a18_1']	境界有對，謂十二界法界一分諸有境法於色等境，故《施設論》作如是言：	境界有對，謂十二界法界一分諸有境法於色等境，故《施設論》作如是言：	The resistance of objects is that the twelve sense fields and part of the sense field of dharmas, which are all objects, are in objects such as form. Therefore the Prajñaptiśāstra says:
+['T29n1558_002:0007a18_15']	有眼於水有礙非陸，如魚等眼。	有眼於水有礙非陸，如魚等眼。	There is an eye that is resistant in water but not on land, such as the eyes of fish, etc.
+['T29n1558_002:0007a19_15']	有眼於陸有礙非水，從多分說，如人等眼。	有眼於陸有礙非水，從多分說，如人等眼。	There is an eye that is resistant on land but not in water, which is said from the point of view of the majority of cases, such as the eyes of humans, etc.
+['T29n1558_002:0007a21_2']	有眼俱礙，如畢舍遮、室獸摩羅及捕魚人、蝦蟇等眼。	有眼俱礙，如畢舍遮、室獸摩羅及捕魚人、蝦蟇等眼。	There is an eye that is resistant in both, such as the eyes of piśācas, śārmas, fishermen, frogs, etc.
+['T29n1558_002:0007a21_12']	有俱非礙，謂除前相。	有俱非礙，謂除前相。	There is an eye that is resistant in neither, which is the exception to the above.
+['T29n1558_002:0007a22_11']	有眼於夜有礙非晝，如諸蝙蝠鵂鶹等眼。	有眼於夜有礙非晝，如諸蝙蝠鵂鶹等眼。	There is an eye that is resistant at night but not in the daytime, such as the eyes of bats, owls, etc.
+['T29n1558_002:0007a23_12']	有眼於晝有礙非夜，從多分說，如人等眼。	有眼於晝有礙非夜，從多分說，如人等眼。	There is an eye that is resistant in the daytime but not at night, which is said from the point of view of the majority of cases, such as the eyes of humans, etc.
+['T29n1558_002:0007a24_11']	有眼俱礙，如狗野干馬豹豺狼猫狸等眼。	有眼俱礙，如狗野干馬豹豺狼猫狸等眼。	There is an eye that is resistant in both, such as the eyes of dogs, jackals, horses, leopards, wolves, cats, etc.
+['T29n1558_002:0007a25_2']	有俱非礙，謂除前相。	有俱非礙，謂除前相。	There is an eye that is resistant in neither, which is the exception to the above.
+['T29n1558_002:0007a25_11']	此等名為境界有對。	此等名為境界有對。	These are called objective obstruction.
+['T29n1558_002:0007a26_6']	所緣有對，謂心心所於自所緣。	所緣有對，謂心心所於自所緣。	Obstruction as object refers to mind and mental factors with regard to their own objects.
+['T29n1558_002:0007a26_16']	境界、所緣復有何別？	境界、所緣復有何別？	What is the difference between object and object as object?
+['T29n1558_002:0007a27_15']	若於彼法此有功能，即說彼為此法境界。	若於彼法此有功能，即說彼為此法境界。	If something has the power with regard to a dharma, it is said to be the object of that dharma.
+['T29n1558_002:0007a28_15']	心心所法執彼而起，彼於心等名為所緣。	心心所法執彼而起，彼於心等名為所緣。	Mind and mental factors grasp it and arise. It is called the object as object of mind, etc.
+['T29n1558_002:0007a29_14']	云何眼等於自境界所緣轉時說名有礙？	云何眼等於自境界所緣轉時說名有礙？	How is it said that when the eye, etc., revolve with regard to their own objects, they are called obstructed?
+['T29n1558_002:0007b01_6']	越彼於餘此不轉故。	越彼於餘此不轉故。	Because they do not revolve with regard to anything other than that.
+['T29n1558_002:0007b02_14']	或復礙者是和會義，謂眼等法於自境界及自所緣和會轉故。	或復礙者是和會義，謂眼等法於自境界及自所緣和會轉故。	Or, moreover, obstruction means the meaning of combination. It is said that because the dharmas of the eye, etc., revolve in combination with their own objects and their own objects as objects,
+['T29n1558_002:0007b04_6']	應知此中唯就障礙有對而說，故但言十有色有對，更相障故。	應知此中唯就障礙有對而說，故但言十有色有對，更相障故。	One should know that in this context, only with regard to obstruction as hindrance is it said, therefore it is only said that the ten with form have obstruction, because they mutually hinder each other.
+['T29n1558_002:0007b04_15']	由此義准說餘無對。	由此義准說餘無對。	Based on this meaning, the rest are said to be without obstruction.
+['T29n1558_002:0007b05_10']	若法境界有對，亦障礙有對耶？	若法境界有對，亦障礙有對耶？	If a dharma is obstructed as object, is it also obstructed as hindrance?
+['T29n1558_002:0007b05_15']	應作四句。	應作四句。	Four sentences should be made.
+['T29n1558_002:0007b06_13']	謂七心界法界一分諸相應法是第一句。	謂七心界法界一分諸相應法是第一句。	The seven mental elements and part of the element of dharmas, which are the associated dharmas, are the first sentence.
+['T29n1558_002:0007b07_4']	色等五境是第二句。	色等五境是第二句。	The five sense objects such as form are the second sentence.
+['T29n1558_002:0007b07_13']	眼等五根是第三句。	眼等五根是第三句。	The five sense faculties such as the eye are the third sentence.
+['T29n1558_002:0007b08_7']	法界一分非相應法是第四句。	法界一分非相應法是第四句。	Part of the element of dharmas, which are the non-associated dharmas, are the fourth sentence.
+['T29n1558_002:0007b09_2']	若法境界有對，亦所緣有對耶？	若法境界有對，亦所緣有對耶？	If a dharma is resistant in terms of object, is it also resistant in terms of object-support?
+['T29n1558_002:0007b10_2']	應順後句，謂若所緣有對，定是境界有對。	應順後句，謂若所緣有對，定是境界有對。	The subsequent sentence should be followed, which means that if it is resistant in terms of object-support, it must also be resistant in terms of object.
+['T29n1558_002:0007b11_3']	有雖境界有對而非所緣有對，謂眼等五根。	有雖境界有對而非所緣有對，謂眼等五根。	Although there are those that are resistant in terms of object, they are not resistant in terms of object-support, namely the five sense faculties such as the eye.
+['T29n1558_002:0007b11_16']	此中大德鳩摩邏多作如是說：	此中大德鳩摩邏多作如是說：	Here, the Venerable Kumāralāta says this:
+['T29n1558_002:0007b12_0']	是處心欲生，　　他礙令不起，	是處心欲生，　　他礙令不起，	Where the mind wishes to arise, it is obstructed by others and does not arise.
+['T29n1558_002:0007b13_13']	應知是有對，　　無對此相違。	應知是有對，　　無對此相違。	One should know that this is resistance. Non-resistance is the opposite of this.
+['T29n1558_002:0007b14_4']	此是所許。	此是所許。	This is what is accepted.
+['T29n1558_002:0007b14_13']	如是已說有對無對。	如是已說有對無對。	Thus, resistance and non-resistance have been explained.
+['T29n1558_002:0007b16_20']	於此所說十有對中，除色及聲餘八無記，謂五色根、香、味、觸境，不可記為善不善性，故名無記。	於此所說十有對中，除色及聲餘八無記，謂五色根、香、味、觸境，不可記為善不善性，故名無記。	Among the ten that are resistant, the other eight are indeterminate, namely, the five material faculties, and the objects of smell, taste, and touch. They cannot be described as either good or bad, and therefore are called indeterminate.
+['T29n1558_002:0007b17_2']	有說：	有說：	Some say:
+['T29n1558_002:0007b17_13']	不能記異熟果故名無記。	不能記異熟果故名無記。	They are called indeterminate because they cannot be described as having retribution or not.
+['T29n1558_002:0007b18_4']	若爾，無漏應唯無記。	若爾，無漏應唯無記。	If this is so, then the pure should be only indeterminate.
+['T29n1558_002:0007b20_4']	其餘十界通善等三，謂七心界與無貪等相應名善，貪等相應名為不善，餘名無記。	其餘十界通善等三，謂七心界與無貪等相應名善，貪等相應名為不善，餘名無記。	The remaining ten elements are of three kinds, good, etc. The seven elements of consciousness are called good when they are associated with non-greed, etc.; they are called bad when they are associated with greed, etc.; the rest are called indeterminate.
+['T29n1558_002:0007b22_3']	法界若是無貪等性相應等起擇滅名善，若貪等性相應等起名為不善，餘名無記。	法界若是無貪等性相應等起擇滅名善，若貪等性相應等起名為不善，餘名無記。	The element of dharmas is called good when it is by nature non-greed, etc., or is associated with non-greed, etc., or is born together with non-greed, etc., or is cessation resulting from discrimination. It is called bad when it is by nature greed, etc., or is associated with greed, etc., or is born together with greed, etc. The rest is called indeterminate.
+['T29n1558_002:0007b23_12']	色界聲界若善不善心力等起身語表攝，是善不善，餘是無記。	色界聲界若善不善心力等起身語表攝，是善不善，餘是無記。	The elements of form and sound are called good or bad when they are bodily or vocal acts that are good or bad by the power of mind. The rest are indeterminate.
+['T29n1558_002:0007b23_17']	已說善等。	已說善等。	We have discussed the good, etc.
+['T29n1558_002:0007b24_17']	十八界中幾欲界繫、幾色界繫、幾無色界繫？	十八界中幾欲界繫、幾色界繫、幾無色界繫？	How many of the eighteen elements are bound to the realm of desire, how many are bound to the realm of form, and how many are bound to the formless realm?
+['T29n1558_002:0007b25_1']	頌曰：	頌曰：	A verse says:
+['T29n1558_002:0007b26_0']	欲界繫十八，　　色界繫十四，	欲界繫十八，　　色界繫十四，	In the desire realm, there are eighteen [types of consciousness], in the form realm, there are fourteen,
+['T29n1558_002:0007b27_13']	除香味二識，　　無色繫後三。	除香味二識，　　無色繫後三。	Excluding the two consciousnesses of smell and taste, in the formless realm, there are the last three.
+['T29n1558_002:0007b28_2']	論曰：	論曰：	The treatise says:
+['T29n1558_002:0007b28_12']	繫謂繫屬，即被縛義。	繫謂繫屬，即被縛義。	Bound means bound to, which is the meaning of being bound.
+['T29n1558_002:0007c01_2']	欲界所繫具足十八，色界所繫唯十四種，除香味境及鼻舌識。	欲界所繫具足十八，色界所繫唯十四種，除香味境及鼻舌識。	In the desire realm, there are eighteen [types of consciousness] in total. In the form realm, there are only fourteen types, excluding the objects of smell and taste, as well as the nose and tongue consciousnesses.
+['T29n1558_002:0007c02_3']	除香味者，段食性故，離段食欲方得生彼。	除香味者，段食性故，離段食欲方得生彼。	Excluding smell and taste is because they are of the nature of coarse food. One must be free from the desire for coarse food in order to be born there.
+['T29n1558_002:0007c02_13']	除鼻舌識，無所緣故。	除鼻舌識，無所緣故。	Excluding the nose and tongue consciousnesses is because there is no object [for them].
+['T29n1558_002:0007c04_3']	若爾，觸界於彼應無，如香味境段食性故，彼所有觸非段食性。	若爾，觸界於彼應無，如香味境段食性故，彼所有觸非段食性。	If that is so, then the element of touch should not exist there, because like the objects of smell and taste, it is of the nature of coarse food. The touch that exists there is not of the nature of coarse food.
+['T29n1558_002:0007c06_12']	若爾，香味類亦應然，香味離食無別受用，觸有別用持根衣等，彼離食欲香味無用，有根衣等故觸非無。	若爾，香味類亦應然，香味離食無別受用，觸有別用持根衣等，彼離食欲香味無用，有根衣等故觸非無。	If that is so, then smell and taste should also be the same. Apart from food, there is no separate enjoyment of smell and taste. Touch has a separate function of supporting the faculties, clothing, and so forth. Apart from the desire for food, smell and taste have no use, but because there are faculties, clothing, and so forth, touch is not non-existent.
+['T29n1558_002:0007c06_17']	有餘師說：	有餘師說：	Other masters say:
+['T29n1558_002:0007c09_13']	住此依彼靜慮等至見色聞聲，輕安俱起有殊勝觸攝益於身，是故此三生彼靜慮猶相隨逐，香味不爾，故在彼無。	住此依彼靜慮等至見色聞聲，輕安俱起有殊勝觸攝益於身，是故此三生彼靜慮猶相隨逐，香味不爾，故在彼無。	When one dwells in the formless realm and sees form and hears sound by means of the samādhi of the dhyānas, there is a special contact that arises together with pliancy and benefits the body. Therefore, these three are born in the dhyānas and still follow each other. Odor and taste are not like this, and therefore they do not exist there.
+['T29n1558_002:0007c10_12']	若爾，鼻舌彼應非有，如香味境彼無用故。	若爾，鼻舌彼應非有，如香味境彼無用故。	If this is so, then the nose and tongue must not exist there, because, like odor and taste, they are useless there.
+['T29n1558_002:0007c11_12']	不爾，二根於彼有用，謂起言說及莊嚴身。	不爾，二根於彼有用，謂起言說及莊嚴身。	The two organs have a use there, because one can speak and one can adorn the body.
+['T29n1558_002:0007c12_13']	若為嚴身及起說用，但須依處，何用二根？	若為嚴身及起說用，但須依處，何用二根？	If the use is to adorn the body and speak, then one needs only the two organs as bases. What use are the two organs?
+['T29n1558_002:0007c13_12']	如無男根亦無依處，二根無者依處亦無。	如無男根亦無依處，二根無者依處亦無。	Just as there is no organ of males, there is no organ as a base. If the two organs are absent, the base is also absent.
+['T29n1558_002:0007c14_8']	於彼可無男根依處，彼無用故。	於彼可無男根依處，彼無用故。	It is possible that the base of the male organ is absent there, because it is useless there.
+['T29n1558_002:0007c15_3']	鼻舌依處彼有用故，離根應有。	鼻舌依處彼有用故，離根應有。	The base of the nose and tongue is useful there, and therefore the organs must exist there, even apart from their objects.
+['T29n1558_002:0007c16_4']	有雖無用而有根生，如處胞胎定當死者。	有雖無用而有根生，如處胞胎定當死者。	Even though there is no use, the organs are born, just as in the womb of one who is to die.
+['T29n1558_002:0007c17_5']	有雖無用而非無因，彼從何因得有根起？	有雖無用而非無因，彼從何因得有根起？	Even though there is no use, there is no absence of a cause. From what cause can the arising of the organs be obtained?
+['T29n1558_002:0007c17_14']	於根有愛發殊勝業。	於根有愛發殊勝業。	When there is craving for the faculties, one generates superior karma.
+['T29n1558_002:0007c18_16']	若離境愛，於根定然，彼離境貪應無鼻舌。	若離境愛，於根定然，彼離境貪應無鼻舌。	If one is free from craving for objects, one would definitely be free from craving for the faculties. One who is free from craving for objects should not have a nose or tongue.
+['T29n1558_002:0007c20_6']	或應許彼男根亦生，若謂不生由醜陋者，陰藏隱密何容醜陋？	或應許彼男根亦生，若謂不生由醜陋者，陰藏隱密何容醜陋？	Or one should admit that the male organ would also arise. If one says it does not arise because it is ugly, how could the hidden penis be ugly?
+['T29n1558_002:0007c21_6']	又諸根生非由有用，若有因力無用亦生。	又諸根生非由有用，若有因力無用亦生。	Moreover, the arising of the faculties is not due to their function. If there is the power of a cause, they arise even without function.
+['T29n1558_002:0007c22_16']	男根於彼雖為醜陋，設許有因於彼應起，男根非有，鼻舌應無。	男根於彼雖為醜陋，設許有因於彼應起，男根非有，鼻舌應無。	Even though the male organ is ugly there, if it is admitted that there is a cause, it should arise there. If the male organ does not exist, the nose and tongue should also be absent.
+['T29n1558_002:0007c23_6']	若爾，便違契經所說：	若爾，便違契經所說：	If that is so, then it contradicts what is said in the sutra:
+['T29n1558_002:0007c23_16']	彼無支缺，不減諸根。	彼無支缺，不減諸根。	They are not lacking in limbs, and are not deficient in faculties.
+['T29n1558_002:0007c24_11']	隨彼諸根應可有者，說為不減。	隨彼諸根應可有者，說為不減。	It is said that they are not deficient in those faculties that should exist.
+['T29n1558_002:0007c24_16']	何所相違？	何所相違？	What is the contradiction?
+['T29n1558_002:0007c25_6']	若不許然男根應有。	若不許然男根應有。	If one does not admit this, the male organ should exist.
+['T29n1558_002:0007c27_7']	如是說者，鼻舌二根於彼非無，但無香味，以六根愛依內身生，非依境界而得現起。	如是說者，鼻舌二根於彼非無，但無香味，以六根愛依內身生，非依境界而得現起。	Those who say this say that the two faculties of nose and tongue do not exist there, but only smell and taste do not exist. Because craving for the six faculties arises based on the internal body, and cannot arise based on objects.
+['T29n1558_002:0007c29_7']	其男根愛依婬觸生，婬觸彼無，男根非有，故於色界十八界中，唯十四種理得成立。	其男根愛依婬觸生，婬觸彼無，男根非有，故於色界十八界中，唯十四種理得成立。	The love of the male organ arises from the contact of sexual desire. Sexual desire and the contact of sexual desire do not exist there, and therefore the male organ does not exist there. Therefore, in the realm of form, only fourteen kinds of elements are established.
+['T29n1558_002:0008a02_6']	無色界繫唯有後三，所謂意、法及意識界，要離色欲於彼得生，故無色中無十色界。	無色界繫唯有後三，所謂意、法及意識界，要離色欲於彼得生，故無色中無十色界。	The realm of desire has only the last three, namely, the mind, dharmas, and the mind consciousness element. One must be free from desire for form in order to be born there. Therefore, the ten elements of form do not exist in the formless realm.
+['T29n1558_002:0008a03_5']	依緣無故五識亦無，故唯後三無色界繫。	依緣無故五識亦無，故唯後三無色界繫。	Because the support and objects do not exist, the five consciousnesses also do not exist. Therefore, only the last three are bound to the formless realm.
+['T29n1558_002:0008a04_3']	已說界繫，十八界中幾有漏、幾無漏？	已說界繫，十八界中幾有漏、幾無漏？	We have explained the bound and unbound. Among the eighteen elements, how many are impure and how many are pure?
+['T29n1558_002:0008a04_6']	頌曰：	頌曰：	The verse says:
+['T29n1558_002:0008a05_13']	意法意識通，　　所餘唯有漏。	意法意識通，　　所餘唯有漏。	The mind, dharmas, and mind consciousness are both, while the rest are only impure.
+['T29n1558_002:0008a06_2']	論曰：	論曰：	The treatise says:
+['T29n1558_002:0008a07_2']	意及意識道諦攝者，名為無漏，餘名有漏。	意及意識道諦攝者，名為無漏，餘名有漏。	The mind and mind consciousness included in the truth of the path are called pure, the rest are called impure.
+['T29n1558_002:0008a08_2']	法界若是道諦無為，名為無漏，餘名有漏。	法界若是道諦無為，名為無漏，餘名有漏。	The dharma element, if it is the truth of the path or unconditioned, is called pure, the rest are called impure.
+['T29n1558_002:0008a08_11']	餘十五界唯名有漏。	餘十五界唯名有漏。	The remaining fifteen elements are only called impure.
+['T29n1558_002:0008a09_2']	如是已說有漏無漏。	如是已說有漏無漏。	Thus we have explained the impure and pure.
+['T29n1558_002:0008a10_4']	十八界中幾有尋有伺、幾無尋唯伺、幾無尋無伺？	十八界中幾有尋有伺、幾無尋唯伺、幾無尋無伺？	Among the eighteen elements, how many are with initial and sustained thought, how many are without initial thought but only with sustained thought, and how many are without either initial or sustained thought?
+['T29n1558_002:0008a10_7']	頌曰：	頌曰：	The verse says:
+['T29n1558_002:0008a11_13']	五識唯尋伺，　　後三三餘無。	五識唯尋伺，　　後三三餘無。	The five consciousnesses are only with initial and sustained thought. The last three are of three kinds. The rest are without.
+['T29n1558_002:0008a12_2']	論曰：	論曰：	The treatise says:
+['T29n1558_002:0008a14_2']	眼等五識有尋有伺，由與尋伺恒共相應，以行相麁外門轉故、顯義決定，故說唯言。	眼等五識有尋有伺，由與尋伺恒共相應，以行相麁外門轉故、顯義決定，故說唯言。	The five consciousnesses, such as visual consciousness, are with initial and sustained thought, because they are always associated with initial and sustained thought. This is because they manifest coarse characteristics and evolve externally. In order to clarify the meaning definitively, the word only is used.
+['T29n1558_002:0008a15_1']	後三謂是意、法、意識，根、境、識中各居後故。	後三謂是意、法、意識，根、境、識中各居後故。	The last three are the mental faculty, dharmas, and mental consciousness, because they are last among the faculties, objects, and consciousnesses.
+['T29n1558_002:0008a16_7']	此後三界皆通三品，意界、意識界及相應法界，除尋與伺。	此後三界皆通三品，意界、意識界及相應法界，除尋與伺。	These last three elements are all of three kinds. The mental faculty element, mental consciousness element, and the dharma element that is associated, excluding initial and sustained thought,
+['T29n1558_002:0008a18_9']	若在欲界初靜慮中有尋有伺，靜慮中間無尋唯伺，第二靜慮以上諸地乃至有頂無尋無伺。	若在欲界初靜慮中有尋有伺，靜慮中間無尋唯伺，第二靜慮以上諸地乃至有頂無尋無伺。	are with initial and sustained thought in the desire realm and first trance state. In the intermediate trance state, they are without initial thought but only with sustained thought. In the second trance state and above, up to the peak of existence, they are without either initial or sustained thought.
+['T29n1558_002:0008a19_10']	法界所攝非相應法，靜慮中間伺亦如是。	法界所攝非相應法，靜慮中間伺亦如是。	The dharmas included in the dharma element that are not associated, and sustained thought in the intermediate trance state, are also like this.
+['T29n1558_002:0008a20_11']	尋一切時無尋唯伺，無第二尋故、但伺相應故。	尋一切時無尋唯伺，無第二尋故、但伺相應故。	When it is said that there is no initial thought at all times, this means that there is no second moment of initial thought, because it is associated only with investigation.
+['T29n1558_002:0008a21_11']	伺在欲界初靜慮中三品不收，應名何等？	伺在欲界初靜慮中三品不收，應名何等？	Investigation in the realm of desire and the first trance state is not included in the three categories. What should it be called?
+['T29n1558_002:0008a22_15']	此應名曰無伺唯尋，無第二伺故、但尋相應故。	此應名曰無伺唯尋，無第二伺故、但尋相應故。	It should be called that which is without investigation but with only initial thought, because there is no second moment of investigation, and it is associated only with initial thought.
+['T29n1558_002:0008a23_9']	由此故言有尋伺地有四品法：	由此故言有尋伺地有四品法：	For this reason, it is said that the stage with both initial thought and investigation has four kinds of dharmas:
+['T29n1558_002:0008a24_6']	一有尋有伺，謂除尋伺餘相應法。	一有尋有伺，謂除尋伺餘相應法。	1) that which has both initial thought and investigation, that is, associated dharmas other than initial thought and investigation.
+['T29n1558_002:0008a24_17']	二無尋唯伺，謂即是尋。	二無尋唯伺，謂即是尋。	2) that which is without initial thought but only with investigation, that is, initial thought itself.
+['T29n1558_002:0008a25_12']	三無尋無伺，謂即一切非相應法。	三無尋無伺，謂即一切非相應法。	3) that which is without either initial thought or investigation, that is, all dharmas not associated with mind.
+['T29n1558_002:0008a26_3']	四無伺唯尋，謂即是伺。	四無伺唯尋，謂即是伺。	4) that which is without investigation but only with initial thought, that is, investigation itself.
+['T29n1558_002:0008a27_3']	餘十色界尋伺俱無，常與尋伺不相應故。	餘十色界尋伺俱無，常與尋伺不相應故。	The remaining ten material elements are always without either initial thought or investigation, because they are never associated with initial thought or investigation.
+['T29n1558_002:0008a28_3']	若五識身有尋有伺，如何得說無分別耶？	若五識身有尋有伺，如何得說無分別耶？	If the five material consciousnesses have initial thought and investigation, how can it be said that they are without discrimination?
+['T29n1558_002:0008a28_6']	頌曰：	頌曰：	The verse says:
+['T29n1558_002:0008a29_0']	說五無分別，　　由計度隨念，	說五無分別，　　由計度隨念，	It is said that the five are without discrimination, because of calculation and memory.
+['T29n1558_002:0008b01_13']	以意地散慧，　　意諸念為體。	以意地散慧，　　意諸念為體。	With scattered wisdom of the mental ground, mental various recollections as its essence.
+['T29n1558_002:0008b02_2']	論曰：	論曰：	The treatise says:
+['T29n1558_002:0008b02_12']	傳說，分別略有三種：	傳說，分別略有三種：	It is said that there are three kinds of discrimination:
+['T29n1558_002:0008b03_10']	一自性分別、二計度分別、三隨念分別。	一自性分別、二計度分別、三隨念分別。	1. Natural discrimination, 2. Conceptual discrimination, 3. Recollection discrimination.
+['T29n1558_002:0008b05_1']	由五識身雖有自性而無餘二，說無分別，如一足馬名為無足。	由五識身雖有自性而無餘二，說無分別，如一足馬名為無足。	Although the five consciousness groups have natural discrimination, they lack the other two, so it is said they are without discrimination, like a horse with one foot is called footless.
+['T29n1558_002:0008b05_19']	自性分別體唯是尋，後心所中自當辯釋。	自性分別體唯是尋，後心所中自當辯釋。	Natural discrimination is solely discursive thought. It will be explained later in the chapter on mental factors.
+['T29n1558_002:0008b06_8']	餘二分別如其次第。	餘二分別如其次第。	The other two discriminations are, in order,
+['T29n1558_002:0008b07_3']	意地散慧諸念為體，散謂非定。	意地散慧諸念為體，散謂非定。	scattered wisdom of the mental ground, and various recollections as their essence. Scattered means not concentrated.
+['T29n1558_002:0008b07_17']	意識相應散慧，名為計度分別。	意識相應散慧，名為計度分別。	Scattered wisdom associated with mental consciousness is called conceptual discrimination.
+['T29n1558_002:0008b08_16']	若定若散意識相應諸念，名為隨念分別。	若定若散意識相應諸念，名為隨念分別。	Recollection associated with either concentrated or scattered mental consciousness is called recollection discrimination.
+['T29n1558_002:0008b09_6']	如是已說有尋伺等。	如是已說有尋伺等。	Thus far, with discursive thought and investigation, etc., has been explained.
+['T29n1558_002:0008b10_1']	十八界中幾有所緣、幾無所緣？	十八界中幾有所緣、幾無所緣？	Among the eighteen elements, how many have objects and how many are without objects?
+['T29n1558_002:0008b10_11']	幾有執受、幾無執受？	幾有執受、幾無執受？	How many are with appropriation and how many are without appropriation?
+['T29n1558_002:0008b10_14']	頌曰：	頌曰：	In verse it is said:
+['T29n1558_002:0008b11_0']	七心法界半，　　有所緣餘無，	七心法界半，　　有所緣餘無，	The seven consciousnesses, half of the dharma realm, have objects, the rest do not.
+['T29n1558_002:0008b12_13']	前八界及聲，　　無執受餘二。	前八界及聲，　　無執受餘二。	The first eight realms and sound are not grasped, the other two are both.
+['T29n1558_002:0008b13_2']	論曰：	論曰：	The treatise says:
+['T29n1558_002:0008b14_6']	六識意界及法界攝諸心所法，名有所緣，能取境故。	六識意界及法界攝諸心所法，名有所緣，能取境故。	The six consciousnesses, the mind realm, and the mental factors included in the dharma realm are called having objects, because they can grasp objects.
+['T29n1558_002:0008b15_9']	餘十色界及法界攝不相應法，名無所緣，義准成故。	餘十色界及法界攝不相應法，名無所緣，義准成故。	The remaining ten form realms and the dissociated factors included in the dharma realm are called without objects, because the meaning is established by implication.
+['T29n1558_002:0008b15_18']	如是已說有所緣等。	如是已說有所緣等。	Thus far, having objects, etc. has been explained.
+['T29n1558_002:0008b17_7']	十八界中九無執受，前七心界及法界全，此八及聲皆無執受。	十八界中九無執受，前七心界及法界全，此八及聲皆無執受。	Among the eighteen realms, nine are not grasped: the first seven consciousness realms and the entire dharma realm. These eight and sound are all not grasped.
+['T29n1558_002:0008b18_7']	所餘九界各通二門，謂有執受、無執受故。	所餘九界各通二門，謂有執受、無執受故。	The remaining nine realms are both kinds: grasped and not grasped.
+['T29n1558_002:0008b19_10']	眼等五根住現在世名有執受，過去未來名無執受。	眼等五根住現在世名有執受，過去未來名無執受。	The five sense faculties such as the eyes, abiding in the present world, are called grasped; past and future are called not grasped.
+['T29n1558_002:0008b21_10']	色香味觸住現在世不離五根名有執受，若住現在非不離根過去未來名無執受。	色香味觸住現在世不離五根名有執受，若住現在非不離根過去未來名無執受。	Form, smell, taste, and touch, abiding in the present world and not separated from the five faculties, are called grasped; if abiding in the present but separated from the faculties, or past and future, they are called not grasped.🔽Here is the corrected and aligned text:
+['T29n1558_002:0008b24_2']	如在身內除與根合，髮毛爪齒大小便利洟唾血等，及在身外地水等中色香味觸，雖在現世而無執受。	如在身內除與根合，髮毛爪齒大小便利洟唾血等，及在身外地水等中色香味觸，雖在現世而無執受。	In the body, it excludes that which is conjoined with the faculties, such as hair, body hair, nails, teeth, feces, urine, snot, spittle, blood, etc., and in the external world, it excludes earth, water, etc., and their form, smell, taste, and touch. Although they exist in the present, they are not grasped.
+['T29n1558_002:0008b24_12']	有執受者，此言何義？	有執受者，此言何義？	What is the meaning of the phrase that which is grasped?
+['T29n1558_002:0008b26_1']	心心所法共所執持攝為依處名有執受，損益展轉更相隨故。	心心所法共所執持攝為依處名有執受，損益展轉更相隨故。	The mind and mental factors grasp and hold it together, taking it as their basis, and it is called that which is grasped. This is because they mutually benefit each other.
+['T29n1558_002:0008b27_1']	即諸世間說有覺觸，眾緣所觸覺樂等故。	即諸世間說有覺觸，眾緣所觸覺樂等故。	In the world, it is said that there is a sense of touch, because when touched by various conditions, one experiences pleasure, etc.
+['T29n1558_002:0008b27_10']	與此相違名無執受。	與此相違名無執受。	That which is contrary to this is called ungrasped.
+['T29n1558_002:0008b28_1']	如是已說有執受等。	如是已說有執受等。	Thus far, we have discussed that which is grasped, etc.
+['T29n1558_002:0008b28_15']	十八界中幾大種性、幾所造性？	十八界中幾大種性、幾所造性？	Among the eighteen elements, how many have the nature of the great elements, and how many have the nature of the derivatives?
+['T29n1558_002:0008b29_4']	幾可積集、幾非積集？	幾可積集、幾非積集？	How many are accumulable, and how many are not accumulable?
+['T29n1558_002:0008b29_7']	頌曰：	頌曰：	A verse says:
+['T29n1558_002:0008c01_0']	觸界中有二，　　餘九色所造，	觸界中有二，　　餘九色所造，	In the element of touch, there are two kinds. The remaining nine forms are derivatives.
+['T29n1558_002:0008c02_13']	法一分亦然，　　十色可積集。	法一分亦然，　　十色可積集。	One part of the element of dharmas is also like this. Ten forms are accumulable.
+['T29n1558_002:0008c03_2']	論曰：	論曰：	The treatise says:
+['T29n1558_002:0008c03_14']	觸界通二，謂大種及所造。	觸界通二，謂大種及所造。	The element of touch is of two kinds: the great elements and their derivatives.
+['T29n1558_002:0008c04_4']	大種有四，謂堅性等。	大種有四，謂堅性等。	The four great elements are earth, fire, wind, and water.
+['T29n1558_002:0008c05_4']	所造有七，謂滑性等，依大種生故名所造。	所造有七，謂滑性等，依大種生故名所造。	The seven derivative elements are smoothness, roughness, lightness, heaviness, cold, hunger, and thirst. They are called derivative because they arise in dependence on the great elements.
+['T29n1558_002:0008c06_3']	餘九色界唯是所造，謂五色根、色等四境。	餘九色界唯是所造，謂五色根、色等四境。	The remaining nine material elements are only derivative, namely, the five material faculties and the four objects of form, sound, etc.
+['T29n1558_002:0008c06_16']	法界一分無表業色亦唯所造。	法界一分無表業色亦唯所造。	A part of the element of dharmas, namely, the form of non-information, is also only derivative.
+['T29n1558_002:0008c07_15']	餘七心界法界一分，除無表色俱非二種。	餘七心界法界一分，除無表色俱非二種。	The remaining seven elements of consciousness and a part of the element of dharmas, excluding the form of non-information, are neither of the two kinds.
+['T29n1558_002:0008c08_6']	尊者覺天作如是說：	尊者覺天作如是說：	The Venerable Bodhi says:
+['T29n1558_002:0008c08_15']	十種色處唯大種性。	十種色處唯大種性。	The ten kinds of material sense bases are only the four great elements.
+['T29n1558_002:0008c09_14']	彼說不然，契經唯說堅等四相為大種故。	彼說不然，契經唯說堅等四相為大種故。	This is not so, because a scripture says that the characteristics of hardness, etc., are the four great elements.
+['T29n1558_002:0008c11_13']	此四大種唯觸攝故，非堅濕等眼等所取，非色聲等身根所覺，是故彼說理定不然。	此四大種唯觸攝故，非堅濕等眼等所取，非色聲等身根所覺，是故彼說理定不然。	Because these four great elements are only included in the category of tangibility, they are not perceived by the eye, etc., as are solidity, humidity, etc. They are not perceived by the body sense-faculty as are form, sound, etc. Therefore his theory is definitely unreasonable.
+['T29n1558_002:0008c11_18']	又契經說：	又契經說：	Also, a scripture says:
+['T29n1558_002:0008c13_12']	苾芻當知，眼謂內處四大種所造淨色，有色無見有對，乃至身處廣說亦爾。	苾芻當知，眼謂內處四大種所造淨色，有色無見有對，乃至身處廣說亦爾。	Bhikṣus, you should know that the eye is an internal sense base, is composed of the four great elements, is pure form, is invisible, and has resistance. The same is true of the sense bases of the body, etc.
+['T29n1558_002:0008c14_14']	苾芻當知，色謂外處四大種所造，有色有見有對。	苾芻當知，色謂外處四大種所造，有色有見有對。	Bhikṣus, you should know that form is an external sense base, created by the four great elements, having form, visible, and resistant.
+['T29n1558_002:0008c15_12']	聲謂外處四大種所造，有色無見有對。	聲謂外處四大種所造，有色無見有對。	Sound is an external sense base, created by the four great elements, having form, invisible, and resistant.
+['T29n1558_002:0008c16_2']	香味二處，廣說亦爾。	香味二處，廣說亦爾。	The two sense bases of smell and taste are explained in the same way.
+['T29n1558_002:0008c17_5']	觸謂外處，是四大種及四大種所造，有色無見有對。	觸謂外處，是四大種及四大種所造，有色無見有對。	Touch is an external sense base, the four great elements and what is created by the four great elements, having form, invisible, and resistant.
+['T29n1558_002:0008c18_14']	如是經中唯說觸處攝四大種，分明顯示餘有色處皆非大種。	如是經中唯說觸處攝四大種，分明顯示餘有色處皆非大種。	In this way, the sūtra only says that the sense base of touch includes the four great elements. It clearly shows that the other sense bases having form are not the great elements.
+['T29n1558_002:0008c20_8']	若爾，何故契經中言謂於眼肉團中若內各別堅性堅類，乃至廣說。	若爾，何故契經中言謂於眼肉團中若內各別堅性堅類，乃至廣說。	If this is so, why does the sūtra say that in the flesh of the eye, internally each separately, there is solidity, the nature of solidity, and so on?
+['T29n1558_002:0008c21_8']	彼說不離眼根肉團有堅性等，無相違過。	彼說不離眼根肉團有堅性等，無相違過。	It says that apart from the flesh of the eye sense base there is the nature of solidity, etc., without contradicting the above explanation.
+['T29n1558_002:0008c23_10']	《入胎經》中唯說六界為士夫者，為顯能成士夫本事，非唯爾所，彼經復說六觸處故。	《入胎經》中唯說六界為士夫者，為顯能成士夫本事，非唯爾所，彼經復說六觸處故。	The Sūtra on Entering the Womb only says that the six elements are a person in order to show what is essential to being a person. It is not only that. That sūtra also says that there are six sense bases of contact.
+['T29n1558_002:0008c25_7']	又諸心所應非有故，亦不應執心所即心，以契經言想受等心所法依止心故。	又諸心所應非有故，亦不應執心所即心，以契經言想受等心所法依止心故。	Also, mental activities would not exist, and you should not maintain that mental activities are mind, because a scripture says that mental activities such as conceptualization and feeling are supported by mind.
+['T29n1558_002:0008c25_16']	又亦說有貪心等故。	又亦說有貪心等故。	Also, it says that there is a mind with craving.
+['T29n1558_002:0008c26_16']	由此如前所說諸界大種所造，差別義成。	由此如前所說諸界大種所造，差別義成。	Therefore, as explained above, the distinctions among the various realms, the great elements, and the secondary characteristics are established.
+['T29n1558_002:0008c27_7']	如是已說大種性等。	如是已說大種性等。	This concludes the discussion of the natures of the great elements, etc.
+['T29n1558_002:0008c28_11']	十八界中，五根、五境十有色界是可積集，極微聚故。	十八界中，五根、五境十有色界是可積集，極微聚故。	Among the eighteen elements, the five sense organs and the five corresponding objects, for a total of ten elements with form, are aggregations, because they are aggregations of atoms.
+['T29n1558_002:0008c29_7']	義准餘八非可積集，非極微故。	義准餘八非可積集，非極微故。	The remaining eight elements are not aggregations, because they are not atoms.
+['T29n1558_002:0008c29_16']	如是已說可積集等。	如是已說可積集等。	This concludes the discussion of aggregations, etc.
+['T29n1558_002:0009a01_10']	十八界中，幾能斫、幾所斫？	十八界中，幾能斫、幾所斫？	Among the eighteen elements, how many can cut and how many can be cut?
+['T29n1558_002:0009a01_18']	幾能燒、幾所燒？	幾能燒、幾所燒？	How many can burn and how many can be burned?
+['T29n1558_002:0009a02_3']	幾能稱、幾所稱？	幾能稱、幾所稱？	How many can weigh and how many can be weighed?
+['T29n1558_002:0009a02_6']	頌曰：	頌曰：	A verse says:
+['T29n1558_002:0009a03_0']	謂唯外四界，　　能斫及所斫，	謂唯外四界，　　能斫及所斫，	Only the first four external elements can cut and be cut,
+['T29n1558_002:0009a04_13']	亦所燒能稱，　　能燒所稱諍。	亦所燒能稱，　　能燒所稱諍。	Can burn and be weighed, but there is dispute over burning.
+['T29n1558_002:0009a05_2']	論曰：	論曰：	The treatise says:
+['T29n1558_002:0009a06_2']	色香味觸成斧薪等，此即名為能斫所斫。	色香味觸成斧薪等，此即名為能斫所斫。	Color, smell, taste, and touch constitute the axe and firewood, etc., and this is called that which cuts and that which is cut.
+['T29n1558_002:0009a06_7']	何法名斫？	何法名斫？	What dharma is called cutting?
+['T29n1558_002:0009a07_11']	薪等色聚相逼續生，斧等分隔令各續起，此法名斫。	薪等色聚相逼續生，斧等分隔令各續起，此法名斫。	When a mass of color such as firewood is born in continuous contact, the axe, etc., divides it and causes it to arise separately. This dharma is called cutting.
+['T29n1558_002:0009a08_11']	身等色根不名所斫，非可全斷令成二故。	身等色根不名所斫，非可全斷令成二故。	The physical sense organs, etc., are not called that which is cut, because they cannot be completely severed to form two parts.
+['T29n1558_002:0009a09_11']	非身根等可成二分，支分離身則無根故。	非身根等可成二分，支分離身則無根故。	The sense organs such as the body cannot be divided into two parts, because when the limbs are separated from the body, they are no longer sense organs.
+['T29n1558_002:0009a10_11']	又身根等亦非能斫，以淨妙故如珠寶光。	又身根等亦非能斫，以淨妙故如珠寶光。	Moreover, the sense organs such as the body are also not that which cuts, because they are pure and subtle, like the light of a precious jewel.
+['T29n1558_002:0009a12_5']	如能斫所斫體唯外四界，所燒能稱其體亦爾，謂唯外四界名所燒能稱。	如能斫所斫體唯外四界，所燒能稱其體亦爾，謂唯外四界名所燒能稱。	Just as the essence of that which cuts and that which is cut consists only of the four external elements, the essence of that which is burned and that which weighs is also the same, namely, only the four external elements are called that which is burned and that which weighs.
+['T29n1558_002:0009a13_5']	身等色根亦非二事，以淨妙故如珠寶光。	身等色根亦非二事，以淨妙故如珠寶光。	The physical sense organs are also not the two things, because they are pure and subtle, like the light of a precious jewel.
+['T29n1558_002:0009a13_15']	聲界總非，不相續故。	聲界總非，不相續故。	The sound element is generally not [that which is burned or weighed], because it does not continue in a series.
+['T29n1558_002:0009a14_10']	能燒所稱有異諍論，謂或有說：	能燒所稱有異諍論，謂或有說：	There is a dispute over that which burns and that which weighs. Some say:
+['T29n1558_002:0009a15_6']	能燒所稱體亦如前，唯外四界。	能燒所稱體亦如前，唯外四界。	The essence of that which burns and that which weighs is also as before, consisting only of the four external elements.
+['T29n1558_002:0009a15_11']	或復有說：	或復有說：	Some say:
+['T29n1558_002:0009a16_6']	唯有火界可名能燒，所稱唯重。	唯有火界可名能燒，所稱唯重。	Only the fire element can be called that which burns, and that which is weighed is only heavy.
+['T29n1558_002:0009a16_15']	如是已說能所斫等。	如是已說能所斫等。	Thus, that which is cut, etc. has been explained.
+['T29n1558_002:0009a18_4']	十八界中幾異熟生、幾所長養、幾等流性、幾有實事、幾一剎那？	十八界中幾異熟生、幾所長養、幾等流性、幾有實事、幾一剎那？	Among the eighteen elements, how many are born of retribution, how many are nourished, how many are of the nature of outflow, how many are real entities, and how many are momentary?
+['T29n1558_002:0009a18_7']	頌曰：	頌曰：	Verse:
+['T29n1558_002:0009a19_0']	內五有熟養，　　聲無異熟生，	內五有熟養，　　聲無異熟生，	The first five have retribution and nourishment. Sound is not born of retribution.
+['T29n1558_002:0009a20_0']	八無礙等流，　　亦異熟生性，	八無礙等流，　　亦異熟生性，	Eight are without obstruction and outflow, and also of the nature of retribution.
+['T29n1558_002:0009a21_13']	餘三實唯法，　　剎那唯後三。	餘三實唯法，　　剎那唯後三。	The other three are real entities, and only the last three are momentary.
+['T29n1558_002:0009a22_2']	論曰：	論曰：	Commentary:
+['T29n1558_002:0009a22_11']	內五即是眼等五界。	內五即是眼等五界。	The first five are the five elements of the eye, etc.
+['T29n1558_002:0009a24_3']	有異熟生及所長養無等流者，離異熟生及所長養，無別性故。	有異熟生及所長養無等流者，離異熟生及所長養，無別性故。	They are born of retribution, nourished, and without outflow. Apart from being born of retribution and nourished, there is no separate nature.
+['T29n1558_002:0009a25_14']	異熟因所生名異熟生，如牛所駕車名曰牛車，略去中言故作是說。	異熟因所生名異熟生，如牛所駕車名曰牛車，略去中言故作是說。	That which is produced by the cause of retribution is called born of retribution, like a cart drawn by an ox is called an ox cart, omitting the middle phrase, therefore it is said.
+['T29n1558_002:0009a26_14']	或所造業至得果時變而能熟，故名異熟。	或所造業至得果時變而能熟，故名異熟。	Or, the action that is done matures and is able to ripen when it reaches the time of receiving its fruit, and for that reason it is called retribution.
+['T29n1558_002:0009a27_6']	果從彼生，名異熟生。	果從彼生，名異熟生。	The fruit that arises from it is called retribution.
+['T29n1558_002:0009a28_4']	彼所得果與因別類，而是所熟，故名異熟。	彼所得果與因別類，而是所熟，故名異熟。	The fruit that it receives is a different species from its cause, and it is what is ripened, and for that reason it is called retribution.
+['T29n1558_002:0009a29_5']	或於因上假立果名，如於果上假立因名。	或於因上假立果名，如於果上假立因名。	Or, the name of the fruit is metaphorically established on the basis of the cause, just as the name of the cause is metaphorically established on the basis of the fruit.
+['T29n1558_002:0009a29_10']	如契經說：	如契經說：	A scripture says,
+['T29n1558_002:0009b01_5']	今六觸處，應知即是昔所造業。	今六觸處，應知即是昔所造業。	The present six sense bases should be understood as the action done in the past.
+['T29n1558_002:0009b02_4']	飲食資助眠睡等持勝緣所益，名所長養。	飲食資助眠睡等持勝緣所益，名所長養。	Nourishment, sleep, and concentration are the superior conditions that benefit, and for that reason they are called nourishment.
+['T29n1558_002:0009b02_7']	有說：	有說：	Some say that
+['T29n1558_002:0009b02_14']	梵行亦能長養。	梵行亦能長養。	pure conduct also nourishes.
+['T29n1558_002:0009b03_4']	此唯無損，非別有益。	此唯無損，非別有益。	This only means that it does not harm, not that it benefits.
+['T29n1558_002:0009b04_8']	長養相續常能護持異熟相續，猶如外郭防援內城。	長養相續常能護持異熟相續，猶如外郭防援內城。	It always protects and sustains the continuity of retribution, just as outer fortifications protect a city.
+['T29n1558_002:0009b05_4']	聲有等流及所長養無異熟生。	聲有等流及所長養無異熟生。	Sound is of the class of the born of retribution and of the class of nourishment. It is not born of retribution.
+['T29n1558_002:0009b05_9']	所以者何？	所以者何？	Why is this?
+['T29n1558_002:0009b05_14']	隨欲轉故。	隨欲轉故。	Because it changes according to ones wishes.
+['T29n1558_002:0009b07_4']	若爾，不應《施設論》說善修遠離麁惡語故，感得大士梵音聲相。	若爾，不應《施設論》說善修遠離麁惡語故，感得大士梵音聲相。	If this is so, then why does the Abhidharmasāra say, “As a result of cultivating the avoidance of coarse speech, one obtains the mark of a great man of the Brahmā’s sound”?
+['T29n1558_002:0009b07_7']	有說：	有說：	Some say:
+['T29n1558_002:0009b08_4']	聲屬第三傳故，雖由彼生而非異熟。	聲屬第三傳故，雖由彼生而非異熟。	Because sound is the third derivative of the primary elements, it is not a ripening even though it arises from action.
+['T29n1558_002:0009b09_4']	謂從彼業生諸大種，從諸大種緣擊發聲。	謂從彼業生諸大種，從諸大種緣擊發聲。	That is, the primary elements from which it arises are born from action. The primary elements are struck and emit sound.
+['T29n1558_002:0009b09_7']	有說：	有說：	Some say:
+['T29n1558_002:0009b10_4']	聲屬第五傳故，雖由彼生而非異熟。	聲屬第五傳故，雖由彼生而非異熟。	Because sound is the fifth derivative of the primary elements, it is not a ripening even though it arises from action.
+['T29n1558_002:0009b11_17']	謂彼業生異熟大種，從此傳生長養大種，此復傳生等流大種此乃生聲。	謂彼業生異熟大種，從此傳生長養大種，此復傳生等流大種此乃生聲。	That is, the primary elements that are born from action are derivative elements of nourishment. These in turn produce derivative elements of the same species, which then produce sound.
+['T29n1558_002:0009b12_18']	若爾，身受從業所生大種生故，應非異熟。	若爾，身受從業所生大種生故，應非異熟。	If this is so, then bodily sensation must not be a ripening, because it is born from the primary elements produced by action.
+['T29n1558_002:0009b13_9']	若受如聲，便違正理。	若受如聲，便違正理。	If sensation is like sound, then it contradicts correct reasoning.
+['T29n1558_002:0009b14_8']	八無礙者，七心法界此有等流異熟生性。	八無礙者，七心法界此有等流異熟生性。	The eight unimpeded faculties are the seven mind and dharma faculties. They are of the nature of both the same species as cause and as result and also of the nature of ripening.
+['T29n1558_002:0009b16_11']	同類遍行因所生者是等流性，若異熟因所引生者名異熟生，諸無礙法無積集故非所長養。	同類遍行因所生者是等流性，若異熟因所引生者名異熟生，諸無礙法無積集故非所長養。	That which is produced by similar and universal causes is of the nature of outflow. If it is attracted by the cause of retribution, it is called born of retribution. The unobstructed dharmas are not increased by nourishment because they are not accumulated.
+['T29n1558_002:0009b16_16']	餘謂餘四：	餘謂餘四：	The remaining four are the remaining four:
+['T29n1558_002:0009b18_3']	色、香、味、觸，皆通三種，有異熟生、有所長養、有等流性。	色、香、味、觸，皆通三種，有異熟生、有所長養、有等流性。	form, smell, taste, and touch. All are of three kinds: there is that born of retribution, there is that nourished, and there is that of the nature of outflow.
+['T29n1558_002:0009b18_18']	實唯法者，實謂無為，以堅實故。	實唯法者，實謂無為，以堅實故。	The real is only the dharma realm. The real refers to the unconditioned because it is solid and real.
+['T29n1558_002:0009b19_12']	此法界攝故，唯法界獨名有實。	此法界攝故，唯法界獨名有實。	This is categorized as the dharma realm, and therefore only the dharma realm is said to be real.
+['T29n1558_002:0009b20_11']	意、法、意識名為後三，於六三中最後說故。	意、法、意識名為後三，於六三中最後說故。	The mind, dharmas, and mental consciousness are called the last three because they are mentioned last in the six sets of three.
+['T29n1558_002:0009b22_2']	唯此三界有一剎那，謂初無漏苦法忍品，非等流故名一剎那。	唯此三界有一剎那，謂初無漏苦法忍品，非等流故名一剎那。	Only these three realms have one moment, that is, the class of receptivity to the knowledge of the dharma of suffering that is pure for the first time, because it is not outflow and is called one moment.
+['T29n1558_002:0009b23_2']	此說究竟非等流者，餘有為法無非等流。	此說究竟非等流者，餘有為法無非等流。	This refers to the ultimate, which is not outflow. The remaining conditioned dharmas are all outflow.
+['T29n1558_002:0009b24_5']	苦法忍相應心名意界、意識界，餘俱起法名為法界。	苦法忍相應心名意界、意識界，餘俱起法名為法界。	The mind associated with receptivity to the knowledge of the dharma of suffering is called the mind realm and the mental consciousness realm. The remaining dharmas that occur together are called the dharma realm.
+['T29n1558_002:0009b24_14']	如是已說異熟生等。	如是已說異熟生等。	Thus we have explained the nature of the various types of form.
+['T29n1558_002:0009b26_1']	今應思擇，若有眼界先不成就今得成就亦眼識耶？	今應思擇，若有眼界先不成就今得成就亦眼識耶？	Now we should consider whether if one obtains the eye element that was not previously obtained, one also obtains eye consciousness.
+['T29n1558_002:0009b26_18']	若眼識界先不成就今得成就亦眼界耶？	若眼識界先不成就今得成就亦眼界耶？	If one obtains eye consciousness that was not previously obtained, does one also obtain the eye element?
+['T29n1558_002:0009b27_9']	如是等問，今應略答。	如是等問，今應略答。	We should briefly answer these and other questions.
+['T29n1558_002:0009b27_12']	頌曰：	頌曰：	The verse states:
+['T29n1558_002:0009b28_13']	眼與眼識界，　　獨俱得非等。	眼與眼識界，　　獨俱得非等。	The eye and eye consciousness element are obtained alone or together, but not equally.
+['T29n1558_002:0009b29_2']	論曰：	論曰：	The commentary states:
+['T29n1558_002:0009c02_9']	獨得者，謂或有眼界先不成就今得成就非眼識，謂生欲界漸得眼根，及無色沒生二三四靜慮地時。	獨得者，謂或有眼界先不成就今得成就非眼識，謂生欲界漸得眼根，及無色沒生二三四靜慮地時。	Obtained alone means that there may be the eye element that was not previously obtained but is now obtained, but not eye consciousness. This refers to gradually obtaining the eye faculty in the desire realm, and when dying in the formless realm and being reborn in the second, third, or fourth meditative absorptions.
+['T29n1558_002:0009c04_13']	或有眼識先不成就今得成就非眼界，謂生二三四靜慮地眼識現起，及從彼沒生下地時。	或有眼識先不成就今得成就非眼界，謂生二三四靜慮地眼識現起，及從彼沒生下地時。	There may be eye consciousness that was not previously obtained but is now obtained, but not the eye element. This refers to the manifestation of eye consciousness in the second, third, or fourth meditative absorptions, and when dying in those realms and being reborn in lower realms.
+['T29n1558_002:0009c06_8']	俱得者，謂或有二界先不成就今得成就，謂無色沒生於欲界及梵世時。	俱得者，謂或有二界先不成就今得成就，謂無色沒生於欲界及梵世時。	Obtained together means that there may be the two elements that were not previously obtained but are now obtained. This refers to when dying in the formless realm and being reborn in the desire realm or the Brahma world.
+['T29n1558_002:0009c06_18']	非者俱非，謂除前相。	非者俱非，謂除前相。	The non-associated are those that are neither, namely, excluding the above characteristics.
+['T29n1558_002:0009c07_12']	等謂若有成就眼界亦眼識耶？	等謂若有成就眼界亦眼識耶？	Equal means: if one possesses the eye element, does one also possess eye consciousness?
+['T29n1558_002:0009c07_17']	應作四句。	應作四句。	One should make four alternatives.
+['T29n1558_002:0009c08_17']	第一句者，謂生二三四靜慮地眼識不起。	第一句者，謂生二三四靜慮地眼識不起。	The first alternative is: one born in the second, third, or fourth meditative absorptions, whose eye consciousness does not arise.
+['T29n1558_002:0009c09_16']	第二句者，謂生欲界未得眼根及得已失。	第二句者，謂生欲界未得眼根及得已失。	The second alternative is: one born in the desire realm who has not yet obtained the eye faculty, or who has obtained it but has lost it.
+['T29n1558_002:0009c11_11']	第三句者，謂生欲界得眼不失，及生梵世若生二三四靜慮地正見色時。	第三句者，謂生欲界得眼不失，及生梵世若生二三四靜慮地正見色時。	The third alternative is: one born in the desire realm who has obtained the eye faculty and has not lost it, or one born in the Brahma world or in the second, third, or fourth meditative absorptions, when one is correctly seeing forms.
+['T29n1558_002:0009c12_3']	第四句者，謂除前相。	第四句者，謂除前相。	The fourth alternative is: excluding the above characteristics.
+['T29n1558_002:0009c12_11']	如是眼界與色界。	如是眼界與色界。	In this way, the eye element and the form element,
+['T29n1558_002:0009c14_8']	眼識與色界得成就等如理應思，為攝如是所未說義，是故頌中總復言等。	眼識與色界得成就等如理應思，為攝如是所未說義，是故頌中總復言等。	the eye consciousness and the form element, should be considered in terms of attainment, etc., as appropriate. In order to include these previously unmentioned meanings, the verse summarizes and repeats etc.
+['T29n1558_002:0009c14_17']	如是已說得成就等。	如是已說得成就等。	Thus, attainment, etc. have been explained.
+['T29n1558_002:0009c15_9']	十八界中幾內、幾外？	十八界中幾內、幾外？	Among the eighteen elements, how many are internal and how many are external?
+['T29n1558_002:0009c15_12']	頌曰：	頌曰：	A verse says:
+['T29n1558_002:0009c16_13']	內十二眼等，　　色等六為外。	內十二眼等，　　色等六為外。	The twelve internal ones are the eye, etc., the six forms, etc. are external.
+['T29n1558_002:0009c17_2']	論曰：	論曰：	The treatise says:
+['T29n1558_002:0009c18_1']	六根、六識十二名內，外謂所餘色等六境。	六根、六識十二名內，外謂所餘色等六境。	The six sense organs and the six consciousnesses are called the twelve internal bases. The remaining six sense objects are called the external bases.
+['T29n1558_002:0009c18_11']	我依名內，外謂此餘。	我依名內，外謂此餘。	The self is said to be internal, and what is other than that is external.
+['T29n1558_002:0009c19_1']	我體既無，內外何有？	我體既無，內外何有？	Since the self does not exist, how can there be internal and external?
+['T29n1558_002:0009c19_13']	我執依止故，假說心為我。	我執依止故，假說心為我。	Because it is the support of the attachment to self, the mind is metaphorically referred to as the self.
+['T29n1558_002:0009c19_18']	故契經說：	故契經說：	Therefore a scripture says:
+['T29n1558_002:0009c20_13']	由善調伏我，　　智者得生天。	由善調伏我，　　智者得生天。	Because the self is well subdued, the wise one attains birth in heaven.
+['T29n1558_002:0009c21_13']	世尊餘處說調伏心，如契經言：	世尊餘處說調伏心，如契經言：	The World-Honored One said in other places that the mind is to be subdued. A scripture says:
+['T29n1558_002:0009c22_13']	應善調伏心，　　心調能引樂。	應善調伏心，　　心調能引樂。	One should well subdue the mind, for the subdued mind leads to happiness.
+['T29n1558_002:0009c23_8']	故但於心假說為我。	故但於心假說為我。	Therefore the self is only a metaphor for the mind.
+['T29n1558_002:0009c24_4']	眼等為此所依親近，故說名內。	眼等為此所依親近，故說名內。	The eye, etc., are called internal because they are the proximate support of the mind.
+['T29n1558_002:0009c25_1']	色等為此所緣踈遠，故說名外。	色等為此所緣踈遠，故說名外。	Form, etc., are called external because they are the remote objects of the mind.
+['T29n1558_002:0009c26_2']	若爾，六識應不名內，未至意位非心依故。	若爾，六識應不名內，未至意位非心依故。	If this is so, then the six consciousnesses should not be called internal, because prior to becoming mental consciousnesses, they are not supports of mind.
+['T29n1558_002:0009c27_4']	至意位時不失六識界，未至意位亦非越意相。	至意位時不失六識界，未至意位亦非越意相。	When they become mental consciousnesses, they do not lose the nature of the six consciousnesses, and when they are not yet mental consciousnesses, they do not exceed the characteristics of mental consciousness.
+['T29n1558_002:0009c29_3']	若異此者，意界唯應在過去世，六識唯在現在未來，便違自宗許十八界皆通三世。	若異此者，意界唯應在過去世，六識唯在現在未來，便違自宗許十八界皆通三世。	If it were otherwise, the realm of thought would exist only in the past, and the six consciousnesses would exist only in the present and future, and this would contradict the accepted doctrine that the eighteen realms are found in all three times.
+['T29n1558_002:0010a01_15']	又若未來現在六識無意界相，過去意界亦應不立，相於三世無改易故。	又若未來現在六識無意界相，過去意界亦應不立，相於三世無改易故。	Also, if the six consciousnesses of the future and present do not have the characteristics of the realm of thought, then the realm of thought in the past should not be established, because its characteristics would not change in the three times.
+['T29n1558_002:0010a02_3']	已說內外。	已說內外。	The internal and external have been discussed.
+['T29n1558_002:0010a02_17']	十八界中幾是同分、幾彼同分？	十八界中幾是同分、幾彼同分？	How many of the eighteen realms are similar and how many are dissimilar?
+['T29n1558_002:0010a03_1']	頌曰：	頌曰：	The verse states:
+['T29n1558_002:0010a04_13']	法同分餘二，　　作不作自業。	法同分餘二，　　作不作自業。	The dharma realm is similar, the other two are both active and inactive in their own activity.
+['T29n1558_002:0010a05_2']	論曰：	論曰：	The treatise states:
+['T29n1558_002:0010a05_16']	法同分者，謂一法界唯是同分。	法同分者，謂一法界唯是同分。	The similar dharma realm refers to the single dharma realm that is only similar.
+['T29n1558_002:0010a07_5']	若境與識定為所緣，識於其中已生生法，此所緣境說名同分。	若境與識定為所緣，識於其中已生生法，此所緣境說名同分。	If an object definitely becomes the object of a consciousness, and the consciousness has already arisen or will arise with regard to it, this object is said to be similar.
+['T29n1558_002:0010a09_5']	無一法界不於其中已正當生無邊意識，由諸聖者決定生心，觀一切法皆為無我。	無一法界不於其中已正當生無邊意識，由諸聖者決定生心，觀一切法皆為無我。	There is not a single dharma realm in which limitless mental consciousnesses have not already arisen, are not presently arising, or will not arise, because all sages definitely give rise to the mind that contemplates all dharmas as being without self.
+['T29n1558_002:0010a10_4']	彼除自體及俱有法，餘一切法皆為所緣。	彼除自體及俱有法，餘一切法皆為所緣。	Except for its own substance and dharmas that coexist with it, all other dharmas are its objects.
+['T29n1558_002:0010a12_3']	如是所除亦第二念心所緣境，此二念心緣一切境無不周遍，是故法界恒名同分。	如是所除亦第二念心所緣境，此二念心緣一切境無不周遍，是故法界恒名同分。	The objects excluded in this way are also the objects of the second moment of mind. These two moments of mind pervade all objects without exception. Therefore, the dharma realm is always called homogeneous.
+['T29n1558_002:0010a13_3']	餘二者，謂餘十七界皆有同分及彼同分。	餘二者，謂餘十七界皆有同分及彼同分。	The other two means the remaining seventeen sense bases are both homogeneous and heterogeneous.
+['T29n1558_002:0010a13_13']	何名同分、彼同分耶？	何名同分、彼同分耶？	What are called homogeneous and heterogeneous?
+['T29n1558_002:0010a14_3']	謂作自業、不作自業。	謂作自業、不作自業。	It means performing one's own function and not performing one's own function.
+['T29n1558_002:0010a15_4']	若作自業名為同分，不作自業名彼同分。	若作自業名為同分，不作自業名彼同分。	If one performs one's own function, it is called homogeneous. If one does not perform one's own function, it is called heterogeneous.
+['T29n1558_002:0010a17_4']	此中眼界於有見色已正當見名同分眼，如是廣說，乃至意界各於自境應說自用。	此中眼界於有見色已正當見名同分眼，如是廣說，乃至意界各於自境應說自用。	Here, the eye sense base, with regard to visible forms that have been seen, are being seen, or will be seen, is called homogeneous eye. This is explained extensively up to the mind sense base, each of which should be explained in terms of their own objects and functions.
+['T29n1558_002:0010a17_15']	迦濕彌羅國毘婆沙師說：	迦濕彌羅國毘婆沙師說：	The Vaibhāṣikas of Kaśmīra say:
+['T29n1558_002:0010a19_2']	彼同分眼但有四種，謂不見色已正當滅及不生法。	彼同分眼但有四種，謂不見色已正當滅及不生法。	The heterogeneous eye only has four kinds: that which does not see form, has already ceased, is just ceasing, or is not subject to arising.
+['T29n1558_002:0010a19_11']	西方諸師說有五種：	西方諸師說有五種：	The Western masters say there are five kinds:
+['T29n1558_002:0010a21_1']	謂不生法復開為二，一有識屬、二無識屬，乃至身界應知亦然。	謂不生法復開為二，一有識屬、二無識屬，乃至身界應知亦然。	That is, dharmas that do not arise are divided into two kinds: those associated with consciousness and those not associated with consciousness. The same is true of the body element.
+['T29n1558_002:0010a21_10']	意彼同分唯不生法。	意彼同分唯不生法。	The similar and dissimilar classes of mind are only dharmas that do not arise.
+['T29n1558_002:0010a23_18']	色界為眼已正當見名同分色，彼同分色亦有四種，謂非眼見已正當滅及不生法，廣說乃至觸界亦爾。	色界為眼已正當見名同分色，彼同分色亦有四種，謂非眼見已正當滅及不生法，廣說乃至觸界亦爾。	Visible form that is seen, is being seen, or will be seen by the eye is called the similar class of form. The dissimilar class of form is also of four kinds: that which is not seen by the eye, is now perishing, has already perished, or is a dharma that does not arise. The same is true of the elements of the other sense organs up to the tangible.
+['T29n1558_002:0010a24_17']	各對自根應說自用，應知同分及彼同分。	各對自根應說自用，應知同分及彼同分。	Each should be discussed in terms of its own function in relation to its own organ. You should understand that the similar and dissimilar classes are the same.
+['T29n1558_002:0010a25_15']	眼若於一是同分，於餘一切亦同分。	眼若於一是同分，於餘一切亦同分。	If the eye is the similar class for one person, it is also the similar class for all others.
+['T29n1558_002:0010a26_13']	彼同分亦如是，廣說乃至意界亦爾。	彼同分亦如是，廣說乃至意界亦爾。	The dissimilar class is also like this. The same is true of the mind element.
+['T29n1558_002:0010a27_15']	色即不然，於見者是同分，於不見者是彼同分。	色即不然，於見者是同分，於不見者是彼同分。	Visible form is not the same. For the one who sees it, it is the similar class; for the one who does not see it, it is the dissimilar class.
+['T29n1558_002:0010a28_2']	所以者何？	所以者何？	Why is this?
+['T29n1558_002:0010a29_6']	色有是事，謂一所見亦多所見，如觀月舞相撲等色。	色有是事，謂一所見亦多所見，如觀月舞相撲等色。	Because it is possible for one visible form to be seen by many people, such as when they observe the moon, a dance, or a wrestling match.
+['T29n1558_002:0010b02_1']	眼無是事，謂一眼根二能見色，眼不共故，依一相續建立同分及彼同分。	眼無是事，謂一眼根二能見色，眼不共故，依一相續建立同分及彼同分。	The eye does not have this, that is, one eye faculty can see two colors, because the eye is not shared. Based on a single continuity, it establishes the similar and dissimilar.
+['T29n1558_002:0010b03_1']	色是共故，依多相續建立同分及彼同分。	色是共故，依多相續建立同分及彼同分。	Because form is shared, it establishes the similar and dissimilar based on many continuities.
+['T29n1558_002:0010b03_15']	如說色界，聲香味觸應知亦爾。	如說色界，聲香味觸應知亦爾。	As explained for the form realm, sound, smell, taste, and touch should be understood in the same way.
+['T29n1558_002:0010b04_1']	聲可如色。	聲可如色。	Sound can be like form.
+['T29n1558_002:0010b05_1']	香味觸三至根方取，是不共故，一取非餘。	香味觸三至根方取，是不共故，一取非餘。	The three of smell, taste, and touch are taken only when they reach the faculty, because they are not shared. One takes them, not the other.
+['T29n1558_002:0010b05_13']	理應如眼等，不應如色說。	理應如眼等，不應如色說。	Reason should be like the eye, etc., and should not be explained like form.
+['T29n1558_002:0010b06_4']	雖有是理而容有共。	雖有是理而容有共。	Although there is this principle, it may be shared.
+['T29n1558_002:0010b06_9']	所以者何？	所以者何？	Why is this?
+['T29n1558_002:0010b07_8']	香等三界於一及餘，皆有可生鼻等識義。	香等三界於一及餘，皆有可生鼻等識義。	Because the three realms of smell, etc., in one and the others, all have the meaning of being able to produce the nose consciousness, etc.
+['T29n1558_002:0010b08_1']	眼等不然，故如色說。	眼等不然，故如色說。	The eye, etc., are not like this. Therefore, they are explained like form.
+['T29n1558_002:0010b09_2']	眼等六識同分彼同分生不生法故，如意界說。	眼等六識同分彼同分生不生法故，如意界說。	The six consciousnesses of the eye, etc., are born as similar and dissimilar, because they are dharmas of non-arising, like the explanation of the realm of thought.
+['T29n1558_002:0010b09_12']	云何同分、彼同分義？	云何同分、彼同分義？	What is the meaning of the similar and dissimilar?
+['T29n1558_002:0010b11_13']	根境識三更相交涉故名為分，或復分者是己作用，或復分者是所生觸，同有此分故名同分。	根境識三更相交涉故名為分，或復分者是己作用，或復分者是所生觸，同有此分故名同分。	The three of faculty, object, and consciousness are mutually related, and therefore they are called “divisions.” Alternatively, “division” refers to their own activity, or alternatively, “division” refers to the contact that is produced. Because they have this division in common, they are called “homogeneous.”
+['T29n1558_002:0010b13_4']	與此相違名彼同分，由非同分與彼同分種類分同，名彼同分。	與此相違名彼同分，由非同分與彼同分種類分同，名彼同分。	That which is contrary to this is called “heterogeneous.” Because that which is not homogeneous has the same kind of division as that which is homogeneous, it is called “heterogeneous.”
+['T29n1558_002:0010b13_13']	已說同分及彼同分。	已說同分及彼同分。	The homogeneous and the heterogeneous have already been explained.
+['T29n1558_002:0010b14_13']	十八界中幾見所斷、幾修所斷、幾非所斷？	十八界中幾見所斷、幾修所斷、幾非所斷？	Among the eighteen elements, how many are eliminated by insight, how many are eliminated by cultivation, and how many are not eliminated?
+['T29n1558_002:0010b14_16']	頌曰：	頌曰：	The verse states:
+['T29n1558_002:0010b15_0']	十五唯修斷，　　後三界通三，	十五唯修斷，　　後三界通三，	Fifteen are only eliminated by cultivation, the last three elements are of three kinds.
+['T29n1558_002:0010b16_13']	不染非六生，　　色定非見斷。	不染非六生，　　色定非見斷。	The defiled are not of the six sense consciousnesses, form is not eliminated by insight.
+['T29n1558_002:0010b17_2']	論曰：	論曰：	The treatise states:
+['T29n1558_002:0010b17_16']	十五界者，謂十色界及五識界。	十五界者，謂十色界及五識界。	The fifteen elements refer to the ten material elements and the five consciousness elements.
+['T29n1558_002:0010b18_10']	唯修斷者，此十五界唯修所斷。	唯修斷者，此十五界唯修所斷。	Only eliminated by cultivation means that these fifteen elements are only eliminated by cultivation.
+['T29n1558_002:0010b19_5']	後三界者，意界、法界及意識界。	後三界者，意界、法界及意識界。	The last three elements refer to the mind element, the dharma element, and the mental consciousness element.
+['T29n1558_002:0010b19_19']	通三者，謂此後三界各通三種。	通三者，謂此後三界各通三種。	Of three kinds means that these last three elements are each of three kinds.
+['T29n1558_002:0010b21_19']	八十八隨眠及彼俱有法并隨行得，皆見所斷，諸餘有漏皆修所斷，一切無漏皆非所斷。	八十八隨眠及彼俱有法并隨行得，皆見所斷，諸餘有漏皆修所斷，一切無漏皆非所斷。	The eighty-eight proclivities, the dharmas that are associated with them, and the prāptis that are associated with them are all eliminated by the path of insight. All other impure dharmas are eliminated by the path of cultivation. All pure dharmas are not eliminated.
+['T29n1558_002:0010b23_13']	豈不更有見所斷法，謂異生性及招惡趣身語業等，此與聖道極相違故。	豈不更有見所斷法，謂異生性及招惡趣身語業等，此與聖道極相違故。	Are there not other dharmas eliminated by the path of insight? For example, the nature of being an ordinary person and the bodily and vocal actions that attract evil destinies, etc., because they are in extreme contradiction with the holy path.
+['T29n1558_002:0010b25_4']	雖爾，此法非見所斷，略說彼相，謂不染法非六生色，定非見斷。	雖爾，此法非見所斷，略說彼相，謂不染法非六生色，定非見斷。	Even though this is so, these dharmas are not eliminated by the path of insight. In brief, the characteristics of those dharmas that are not eliminated by insight are as follows: Impure dharmas, dharmas other than the six, and form are definitely not eliminated by insight.
+['T29n1558_002:0010b26_12']	其異生性是不染污，無記性攝，已離欲者斷善根者猶成就故。	其異生性是不染污，無記性攝，已離欲者斷善根者猶成就故。	The nature of being an ordinary person is not defiled, is categorized as indeterminate, and is still possessed by one who has already separated from desire and by one who has severed good roots.
+['T29n1558_002:0010b27_13']	此異生性若見所斷，苦法忍位應是異生。	此異生性若見所斷，苦法忍位應是異生。	If the nature of being an ordinary person were eliminated by the path of insight, then at the time of the perseverance for the knowledge of the dharmas of suffering, one would be an ordinary person.
+['T29n1558_002:0010b29_3']	六謂意處，異此而生名非六生，是從眼等五根生義，即五識等。	六謂意處，異此而生名非六生，是從眼等五根生義，即五識等。	The six are the six sense bases. Dharmas born differently from these are called dharmas other than the six. This means that they are born from the five sense organs such as the eyes, and so on, and refers to the five consciousnesses, etc.
+['T29n1558_002:0010b29_12']	色謂一切身語業等。	色謂一切身語業等。	Form refers to all bodily and vocal actions, etc.
+['T29n1558_002:0010c01_3']	前及此色，定非見斷。	前及此色，定非見斷。	The above and this form are definitely not eliminated by insight.
+['T29n1558_002:0010c01_8']	所以者何？	所以者何？	Why is this so?
+['T29n1558_002:0010c01_17']	非迷諦理親發起故。	非迷諦理親發起故。	Because they are not directly produced by delusion regarding the truth of the path.
+['T29n1558_002:0010c02_7']	如是已說見所斷等。	如是已說見所斷等。	Thus far we have discussed the categories of views to be eliminated, etc.
+['T29n1558_002:0010c02_19']	十八界中幾是見、幾非見？	十八界中幾是見、幾非見？	Among the eighteen realms, how many are views and how many are not views?
+['T29n1558_002:0010c03_2']	頌曰：	頌曰：	The verse states:
+['T29n1558_002:0010c04_0']	眼法界一分，　　八種說名見，	眼法界一分，　　八種說名見，	Eight kinds, such as the eye and part of the dharma realm, are called views.
+['T29n1558_002:0010c05_13']	五識俱生慧，　　非見不度故。	五識俱生慧，　　非見不度故。	The wisdom that arises simultaneously with the five consciousnesses is not a view, because it does not discriminate.
+['T29n1558_002:0010c06_0']	眼見色同分，　　非彼能依識，	眼見色同分，　　非彼能依識，	The eye sees forms of the same type, not the consciousness that depends on it.
+['T29n1558_002:0010c07_13']	傳說不能觀，　　彼障諸色故。	傳說不能觀，　　彼障諸色故。	It is said that it cannot see them, because it is obstructed by various forms.
+['T29n1558_002:0010c08_2']	論曰：	論曰：	The treatise says:
+['T29n1558_002:0010c09_1']	眼全是見，法界一分八種是見，餘皆非見。	眼全是見，法界一分八種是見，餘皆非見。	The entire eye is a view. Part of the dharma realm, which is of eight kinds, is a view. The rest are not views.
+['T29n1558_002:0010c09_6']	何等為八？	何等為八？	What are the eight?
+['T29n1558_002:0010c10_11']	謂身見等五染污見、世間正見、有學正見、無學正見。	謂身見等五染污見、世間正見、有學正見、無學正見。	They are the five defiled views such as the view of the body as real, worldly right views, the right views of those still learning, and the right views of those beyond learning.
+['T29n1558_002:0010c11_6']	於法界中此八是見，所餘非見。	於法界中此八是見，所餘非見。	Among the dharma realm, these eight are views. The rest are not views.
+['T29n1558_002:0010c11_20']	身見等五，隨眠品中時至當說。	身見等五，隨眠品中時至當說。	The five such as the view of the body as real will be discussed in the chapter on latent afflictions when the time comes.
+['T29n1558_002:0010c12_14']	世間正見，謂意識相應善有漏慧。	世間正見，謂意識相應善有漏慧。	Correct views of the world are good, contaminated wisdom associated with mental consciousness.
+['T29n1558_002:0010c13_9']	有學正見，謂有學身中諸無漏見。	有學正見，謂有學身中諸無漏見。	Correct views of those still learning are all uncontaminated views in the body of one still learning.
+['T29n1558_002:0010c14_6']	無學正見，謂無學身中諸無漏見。	無學正見，謂無學身中諸無漏見。	Correct views of those no longer learning are all uncontaminated views in the body of one no longer learning.
+['T29n1558_002:0010c16_1']	譬如夜分晝分有雲無雲，覩眾色像明昧有異，如是世間諸見有染無染。	譬如夜分晝分有雲無雲，覩眾色像明昧有異，如是世間諸見有染無染。	Just as in the night and day periods, with and without clouds, the images of many colors are seen with different degrees of clarity, so it is with the various views of the world, with and without contamination.
+['T29n1558_002:0010c16_15']	學無學見，觀察法相明昧不同。	學無學見，觀察法相明昧不同。	The views of those still learning and those no longer learning observe the characteristics of dharmas with different degrees of clarity.
+['T29n1558_002:0010c16_18']	何故？	何故？	Why is this?
+['T29n1558_002:0010c18_13']	世間正見唯意識相應，以五識俱生慧不能決度故，審慮為先決度名見。	世間正見唯意識相應，以五識俱生慧不能決度故，審慮為先決度名見。	Correct views of the world are only associated with mental consciousness, because the wisdom born with the five consciousnesses cannot make decisions. Prior to careful consideration, decisions are called views.
+['T29n1558_002:0010c19_13']	五識俱慧無如是能，以無分別是故非見。	五識俱慧無如是能，以無分別是故非見。	The wisdom born with the five consciousnesses does not have this ability, and therefore it is not view, because it is without discrimination.
+['T29n1558_002:0010c20_12']	准此，所餘染無染慧及諸餘法非見應知。	准此，所餘染無染慧及諸餘法非見應知。	In accordance with this, the rest of contaminated and uncontaminated wisdom and other dharmas are not view. This should be understood.
+['T29n1558_002:0010c21_8']	若爾，眼根不能決度，云何名見？	若爾，眼根不能決度，云何名見？	If this is so, the eye faculty cannot make decisions. Why is it called view?
+['T29n1558_002:0010c22_3']	以能明利觀照諸色故亦名見。	以能明利觀照諸色故亦名見。	Because it can clearly and keenly observe forms, it is also called view.
+['T29n1558_002:0010c22_17']	若眼見者，餘識行時亦應名見。	若眼見者，餘識行時亦應名見。	If the eye sees, then when other consciousnesses are active, seeing should also occur.
+['T29n1558_002:0010c23_7']	非一切眼皆能現見。	非一切眼皆能現見。	Not all eyes can see.
+['T29n1558_002:0010c23_12']	誰能現見？	誰能現見？	Which eyes can see?
+['T29n1558_002:0010c24_6']	謂同分眼與識合位能見非餘。	謂同分眼與識合位能見非餘。	Eyes of the same kind that are conjoined with consciousness can see, not others.
+['T29n1558_002:0010c25_1']	若爾，則應彼能依識見色非眼。	若爾，則應彼能依識見色非眼。	If this is so, then the consciousness that is supported by the eye should see form, not the eye.
+['T29n1558_002:0010c25_11']	不爾，眼識定非能見。	不爾，眼識定非能見。	No, because eye consciousness definitely cannot see.
+['T29n1558_002:0010c25_16']	所以者何？	所以者何？	Why is this?
+['T29n1558_002:0010c27_1']	傳說，不能觀障色故，現見壁等所障諸色則不能觀。	傳說，不能觀障色故，現見壁等所障諸色則不能觀。	It is said that it cannot see form that is obstructed, because it cannot see form that is obstructed by walls, etc.
+['T29n1558_002:0010c28_1']	若識見者，識無對故，壁等不礙應見障色。	若識見者，識無對故，壁等不礙應見障色。	If consciousness sees, then because consciousness is not obstructed, it should see obstructed form, since walls, etc., do not impede it.
+['T29n1558_002:0010c29_1']	於被障色眼識不生，識既不生如何當見？	於被障色眼識不生，識既不生如何當見？	Eye consciousness does not arise with regard to obstructed form. Since consciousness does not arise, how can there be seeing?
+['T29n1558_002:0010c29_10']	眼識於彼何故不生？	眼識於彼何故不生？	Why does eye consciousness not arise with regard to obstructed form?
+['T29n1558_002:0011a01_10']	許眼見者眼有對故，於彼障色無見功能。	許眼見者眼有對故，於彼障色無見功能。	If you maintain that the eye sees, then because the eye is obstructed, it lacks the ability to see obstructed form.
+['T29n1558_002:0011a02_11']	識與所依一境轉故，可言於彼眼識不生。	識與所依一境轉故，可言於彼眼識不生。	Because consciousness and its support are turned toward the same object, it can be said that eye consciousness does not arise with regard to that form.
+['T29n1558_002:0011a03_2']	許識見者何緣不起？	許識見者何緣不起？	If you maintain that consciousness sees, why does it not arise?
+['T29n1558_002:0011a04_4']	眼豈如身根境合方取而言有對故不見彼耶？	眼豈如身根境合方取而言有對故不見彼耶？	How can the eye be like the body faculty, which only perceives objects that come into contact with it? Is it because it is obstructed that it does not see those objects?
+['T29n1558_002:0011a05_4']	又頗胝迦、瑠璃、雲母、水等所障云何得見？	又頗胝迦、瑠璃、雲母、水等所障云何得見？	Moreover, how can one see objects obstructed by crystal, lapis lazuli, mica, water, etc.?
+['T29n1558_002:0011a06_5']	是故不由眼有對故，於彼障色無見功能。	是故不由眼有對故，於彼障色無見功能。	Therefore, the eye does not have the function of seeing obstructed forms because it is obstructed.
+['T29n1558_002:0011a06_15']	若爾，所執眼識云何？	若爾，所執眼識云何？	If that is so, what about the eye consciousness that you posit?
+['T29n1558_002:0011a07_14']	若於是處光明無隔，於彼障色眼識亦生。	若於是處光明無隔，於彼障色眼識亦生。	If there is no obstruction of light in a certain place, eye consciousness arises even with respect to obstructed forms in that place.
+['T29n1558_002:0011a08_15']	若於是處光明有隔，於彼障色眼識不生。	若於是處光明有隔，於彼障色眼識不生。	If there is an obstruction of light in a certain place, eye consciousness does not arise with respect to obstructed forms in that place.
+['T29n1558_002:0011a09_8']	識既不生，故不能見。	識既不生，故不能見。	Since consciousness does not arise, one cannot see.
+['T29n1558_002:0011a10_9']	然經說眼能見色者，是見所依，故說能見。	然經說眼能見色者，是見所依，故說能見。	However, the sūtras say that the eye sees forms. This is because the eye is the support for seeing, so it is said to be able to see.
+['T29n1558_002:0011a10_14']	如彼經言：	如彼經言：	As that sūtra says:
+['T29n1558_002:0011a10_19']	意能識法。	意能識法。	The mind is able to cognize dharmas.
+['T29n1558_002:0011a11_9']	非意能識，以過去故。	非意能識，以過去故。	It is not that the mind is able to cognize, because it is past.
+['T29n1558_002:0011a11_14']	何者能識？	何者能識？	What is able to cognize?
+['T29n1558_002:0011a11_19']	謂是意識。	謂是意識。	It is mental consciousness.
+['T29n1558_002:0011a12_9']	意是識依，故說能識。	意是識依，故說能識。	The mind is the support for consciousness, so it is said to be able to cognize.
+['T29n1558_002:0011a13_8']	或就所依說能依業，如世間說床座言聲。	或就所依說能依業，如世間說床座言聲。	Or, the object of the eye is said to be seeing, because the support is spoken of as the thing supported, as when one says that a sound is a bed or a seat.
+['T29n1558_002:0011a13_13']	又如經言：	又如經言：	Also, a scripture says,
+['T29n1558_002:0011a14_4']	眼所識色可愛可樂。	眼所識色可愛可樂。	“Eye consciousness cognizes visible form that is desirable and delightful.”
+['T29n1558_002:0011a14_17']	然實非此可愛樂色是眼所識。	然實非此可愛樂色是眼所識。	But in reality, desirable and delightful visible form is not cognized by eye consciousness.
+['T29n1558_002:0011a15_3']	又如經說：	又如經說：	Also, a scripture says,
+['T29n1558_002:0011a15_17']	梵志當知，以眼為門唯為見色。	梵志當知，以眼為門唯為見色。	“Brahmans, you should know that the eye is a gate that only sees visible form.”
+['T29n1558_002:0011a16_8']	故知眼識依眼門見。	故知眼識依眼門見。	Therefore, you should know that eye consciousness sees visible form by means of the gate of the eye.
+['T29n1558_002:0011a17_12']	亦不應言門即是見，豈容經說以眼為見唯為見色？	亦不應言門即是見，豈容經說以眼為見唯為見色？	Also, you should not say that the gate is seeing. How could the scripture say that the eye is seeing only in order to see visible form?
+['T29n1558_002:0011a18_4']	若識能見誰復了別？	若識能見誰復了別？	If consciousness sees, what else distinguishes?
+['T29n1558_002:0011a18_13']	見與了別二用何異？	見與了別二用何異？	What is the difference between the two functions of seeing and distinguishing?
+['T29n1558_002:0011a20_1']	以即見色名了色故，譬如少分慧名能見亦能簡擇。	以即見色名了色故，譬如少分慧名能見亦能簡擇。	Because it is said that the eye sees visible form and distinguishes visible form, just as a small part of discernment is called seeing and also is able to discriminate.
+['T29n1558_002:0011a20_14']	如是少分識名能見亦能了別。	如是少分識名能見亦能了別。	In the same way, a small part of consciousness is called seeing and also is able to distinguish.
+['T29n1558_002:0011a21_1']	有餘難言：	有餘難言：	Others raise a question:
+['T29n1558_002:0011a21_16']	若眼能見，眼是見者，誰是見用？	若眼能見，眼是見者，誰是見用？	If the eye sees, the eye is the seer, and who is the function of seeing?
+['T29n1558_002:0011a22_13']	此言非難，如共許識是能了別，然無了者。	此言非難，如共許識是能了別，然無了者。	This objection is not a difficulty, just as consciousness, which is commonly accepted as that which discriminates, is not that which is discriminated.
+['T29n1558_002:0011a23_3']	了用不同，見亦應爾。	了用不同，見亦應爾。	The function of seeing is not the same as that of consciousness.
+['T29n1558_002:0011a23_8']	有餘復言：	有餘復言：	Other masters offer another explanation.
+['T29n1558_002:0011a24_5']	眼識能見，是見所依故，眼亦名能見。	眼識能見，是見所依故，眼亦名能見。	Visual consciousness sees, because it is the support of seeing. Therefore the eye is said to see,
+['T29n1558_002:0011a24_17']	如鳴所依故，亦說鍾能鳴。	如鳴所依故，亦說鍾能鳴。	just as the support of a bell’s sound is said to ring.
+['T29n1558_002:0011a25_13']	若爾，眼根識所依，故應名能識。	若爾，眼根識所依，故應名能識。	If this is true, then the eye is the support of visual consciousness and should be said to cognize.
+['T29n1558_002:0011a25_18']	無如是失。	無如是失。	There is no such error.
+['T29n1558_002:0011a27_4']	世間同許眼識是見，由彼生時說能見色，不言識色。	世間同許眼識是見，由彼生時說能見色，不言識色。	The world commonly accepts that visual consciousness sees, because when it is produced, it is said to see form, and it is not said to cognize form.
+['T29n1558_002:0011a27_13']	毘婆沙中亦作是說：	毘婆沙中亦作是說：	The Vibhāṣā also says,
+['T29n1558_002:0011a28_11']	若眼所得、眼識所受說名所見。	若眼所得、眼識所受說名所見。	“That which is obtained by the eye and perceived by visual consciousness is said to be seen.”
+['T29n1558_002:0011a29_8']	是故但說眼名能見，不名能識。	是故但說眼名能見，不名能識。	Therefore it is said that only the eye is called seeing and not cognizing.
+['T29n1558_002:0011b01_7']	唯識現前說能識色，譬如說日名能作晝。	唯識現前說能識色，譬如說日名能作晝。	Only consciousness, when present, is said to cognize form, just as the sun is said to make the day.
+['T29n1558_002:0011b01_16']	經部諸師有作是說：	經部諸師有作是說：	The masters of the Sautrāntika school offer the following explanation.
+['T29n1558_002:0011b02_15']	如何共聚楂掣虛空眼色等緣生於眼識？	如何共聚楂掣虛空眼色等緣生於眼識？	How can the eye, form, etc., which are gathered together, create the eye consciousness in empty space?
+['T29n1558_002:0011b03_7']	此等於見孰為能所？	此等於見孰為能所？	What is the subject and what is the object in this seeing?
+['T29n1558_002:0011b05_8']	唯法因果實無作用，為順世情假興言說，眼名能見、識名能了，智者於中不應封著。	唯法因果實無作用，為順世情假興言說，眼名能見、識名能了，智者於中不應封著。	Only dharmas are causes and effects, and there is really no activity. In order to conform to worldly feelings, we provisionally speak of the eye as seeing and consciousness as perceiving. The wise should not be attached to this.
+['T29n1558_002:0011b05_13']	如世尊說：	如世尊說：	As the World Honored One said:
+['T29n1558_002:0011b06_13']	方域言詞不應堅執，世俗名想不應固求。	方域言詞不應堅執，世俗名想不應固求。	The words of the regions should not be rigidly adhered to, and the names and concepts of the world should not be stubbornly sought.
+['T29n1558_002:0011b08_10']	然迦濕彌羅國毘婆沙宗，說眼能見、耳能聞、鼻能嗅、舌能嘗、身能覺、意能了。	然迦濕彌羅國毘婆沙宗，說眼能見、耳能聞、鼻能嗅、舌能嘗、身能覺、意能了。	However, the Vaibhāṣika school of Kaśmīra says that the eye can see, the ear can hear, the nose can smell, the tongue can taste, the body can feel, and the mind can cognize.
+['T29n1558_002:0011b09_4']	於見色時，為一眼見、為二眼見？	於見色時，為一眼見、為二眼見？	When seeing form, is it seen by one eye or by two eyes?
+['T29n1558_002:0011b09_9']	此無定准。	此無定准。	This is not definite.
+['T29n1558_002:0011b09_12']	頌曰：	頌曰：	The verse says:
+['T29n1558_002:0011b10_13']	或二眼俱時，　　見色分明故。	或二眼俱時，　　見色分明故。	Sometimes both eyes see form simultaneously, because it is clearer.
+['T29n1558_002:0011b11_2']	論曰：	論曰：	The treatise says:
+['T29n1558_002:0011b11_13']	阿毘達磨諸大論師咸言：	阿毘達磨諸大論師咸言：	The great masters of Abhidharma all say:
+['T29n1558_002:0011b13_2']	或時二眼俱見，以開二眼見色分明，開一眼時不分明故。	或時二眼俱見，以開二眼見色分明，開一眼時不分明故。	Sometimes both eyes see, because when both eyes are open, seeing is clear, but when one eye is open, it is not clear.
+['T29n1558_002:0011b15_2']	又開一眼觸一眼時，便於現前見二月等，閉一觸一此事則無，是故或時二眼俱見。	又開一眼觸一眼時，便於現前見二月等，閉一觸一此事則無，是故或時二眼俱見。	Also, when one eye is open and the other is touched, one sees two moons, etc., right before one, but when one closes one eye and touches the other, this does not happen. Therefore, sometimes both eyes see.
+['T29n1558_002:0011b16_2']	非所依別識成二分，住無方故不同礙色。	非所依別識成二分，住無方故不同礙色。	The two parts of consciousness do not become two because of the difference in the support, because it is not spatially located, unlike obstructing form.
+['T29n1558_002:0011b17_10']	若此宗說眼見耳聞乃至意了，彼所取境根正取時，為至不至？	若此宗說眼見耳聞乃至意了，彼所取境根正取時，為至不至？	If this school says that the eye sees, the ear hears, and so on up to the mental faculty cognizes, when the sense faculty is actually perceiving the object it takes, is it to or not to reach it?
+['T29n1558_002:0011b17_13']	頌曰：	頌曰：	A verse says:
+['T29n1558_002:0011b18_13']	眼耳意根境，　　不至三相違。	眼耳意根境，　　不至三相違。	The eye, ear, and mental faculty do not reach their objects. The other three are the opposite.
+['T29n1558_002:0011b19_2']	論曰：	論曰：	The treatise says:
+['T29n1558_002:0011b20_10']	眼耳意根取非至境，謂眼能見遠處諸色，眼中藥等則不能觀。	眼耳意根取非至境，謂眼能見遠處諸色，眼中藥等則不能觀。	The eye, ear, and mental faculty take non-reaching objects. The eye can see forms far away, but it cannot see eye medicine, etc.
+['T29n1558_002:0011b21_10']	耳亦能聞遠處聲響，逼耳根者則不能聞。	耳亦能聞遠處聲響，逼耳根者則不能聞。	The ear can hear sounds far away, but it cannot hear sounds that press on the ear faculty.
+['T29n1558_002:0011b23_1']	若眼耳根唯取至境，則修定者應不修生天眼、耳根，如鼻根等。	若眼耳根唯取至境，則修定者應不修生天眼、耳根，如鼻根等。	If the eye and ear faculties only grasp objects that reach them, then those who cultivate concentration would not cultivate and produce the divine eye and ear faculties, like the nose faculty and so on.
+['T29n1558_002:0011b24_9']	若眼能見不至色者，何故不能普見一切遠有障等不至諸色？	若眼能見不至色者，何故不能普見一切遠有障等不至諸色？	If the eye can see distant forms that do not reach it, then why can it not universally see all distant forms that are obstructed and do not reach it?
+['T29n1558_002:0011b25_8']	如何磁石吸不至鐵，非吸一切不至鐵耶？	如何磁石吸不至鐵，非吸一切不至鐵耶？	How is it that a magnet attracts iron that does not reach it, but does not attract all iron that does not reach it?
+['T29n1558_002:0011b26_1']	執見至境亦同此難。	執見至境亦同此難。	The view that it sees only objects that reach it is also the same as this objection.
+['T29n1558_002:0011b27_1']	何故不能普見一切眼藥籌等至眼諸色？	何故不能普見一切眼藥籌等至眼諸色？	Why can it not universally see all eye medicine, sticks, and so on that reach the eye?
+['T29n1558_002:0011b28_5']	又如鼻等能取至境，然不能取一切與根俱有香等。	又如鼻等能取至境，然不能取一切與根俱有香等。	Also, like the nose and so on, it can grasp objects that reach it, but it cannot grasp all smells and so on that exist together with the faculty.
+['T29n1558_002:0011b29_6']	如是眼根雖見不至而非一切，耳根亦爾。	如是眼根雖見不至而非一切，耳根亦爾。	In the same way, the eye faculty sees what does not reach it but not all of it, and the ear faculty is also like this.
+['T29n1558_002:0011b29_16']	意無色故，非能有至。	意無色故，非能有至。	The mind has no form, so it cannot reach anything.
+['T29n1558_002:0011b29_19']	有執：	有執：	There is a view that
+['T29n1558_002:0011c01_18']	耳根通取至境及不至境，自耳中聲亦能聞故。	耳根通取至境及不至境，自耳中聲亦能聞故。	the ear faculty universally grasps both objects that reach it and those that do not reach it, because it can also hear sounds within its own ear.
+['T29n1558_002:0011c02_17']	所餘鼻等三有色根，與上相違唯取至境。	所餘鼻等三有色根，與上相違唯取至境。	The remaining three faculties with form, such as the nose, are the opposite of this and only grasp objects that reach them.
+['T29n1558_002:0011c03_7']	如何知鼻唯取至香？	如何知鼻唯取至香？	How do you know that the nose only takes scents that reach it?
+['T29n1558_002:0011c03_16']	由斷息時不嗅香故。	由斷息時不嗅香故。	Because when breathing is cut off, one does not smell scents.
+['T29n1558_002:0011c04_3']	云何名至？	云何名至？	What is meant by reaching?
+['T29n1558_002:0011c04_8']	謂無間生。	謂無間生。	It means arising without interval.
+['T29n1558_002:0011c04_17']	又諸極微為相觸不？	又諸極微為相觸不？	Also, do the most subtle atoms touch each other or not?
+['T29n1558_002:0011c05_12']	迦濕彌羅國毘婆沙師說不相觸。	迦濕彌羅國毘婆沙師說不相觸。	The Vaibhāṣikas of Kaśmīra say they do not touch.
+['T29n1558_002:0011c05_17']	所以者何？	所以者何？	Why is this?
+['T29n1558_002:0011c06_16']	若諸極微遍體相觸，即有實物體相雜過。	若諸極微遍體相觸，即有實物體相雜過。	If the most subtle atoms touch each other completely, then there would be the fault of real entities interpenetrating.
+['T29n1558_002:0011c07_16']	若觸一分，成有分失，然諸極微更無細分。	若觸一分，成有分失，然諸極微更無細分。	If they touch in one part, they would have parts, but the most subtle atoms have no finer parts.
+['T29n1558_002:0011c08_6']	若爾，何故相擊發聲？	若爾，何故相擊發聲？	If that is so, why do they produce sound when struck?
+['T29n1558_002:0011c08_15']	但由極微無間生故。	但由極微無間生故。	It is only because the most subtle atoms arise without interval.
+['T29n1558_002:0011c09_11']	若許相觸，擊石拊手體應相糅。	若許相觸，擊石拊手體應相糅。	If you allow that they touch each other, then when a stone strikes the hand, the bodies should interpenetrate.
+['T29n1558_002:0011c10_6']	不相觸者，聚色相擊云何不散？	不相觸者，聚色相擊云何不散？	If they do not touch, how is it that when aggregated forms strike each other, they do not scatter?
+['T29n1558_002:0011c10_15', 'T29n1558_002:0011c11_11']	風界攝持故令不散。🔽或有風界能有壞散，如劫壞時。	風界攝持故令不散。 或有風界能有壞散，如劫壞時。	Because they are held together by the wind element.🔽There is a wind element that can destroy and scatter, like at the time of the destruction of the eon.
+['T29n1558_002:0011c12_7']	或有風界能有成攝，如劫成時。	或有風界能有成攝，如劫成時。	There is a wind element that can form and gather, like at the time of the formation of the eon.
+['T29n1558_002:0011c13_3']	云何三根由無間生名取至境？	云何三根由無間生名取至境？	How do the three faculties of body, eye, and ear take objects by means of immediate succession?
+['T29n1558_002:0011c14_4']	即由無間名取至境，謂於中間都無片物。	即由無間名取至境，謂於中間都無片物。	They take objects by means of immediate succession, because there is nothing in between.
+['T29n1558_002:0011c14_18']	又和合色許有分故，相觸無失。	又和合色許有分故，相觸無失。	Also, because it is admitted that form in combination has parts, there is no error in their touching.
+['T29n1558_002:0011c15_13']	由許此理，毘婆沙文義善成立。	由許此理，毘婆沙文義善成立。	Because this principle is admitted, the meaning of the Vibhāṣā text is well established.
+['T29n1558_002:0011c15_18']	故彼問言：	故彼問言：	Therefore it asks,
+['T29n1558_002:0011c16_11']	諸是觸物為是觸為因故生？	諸是觸物為是觸為因故生？	Are all things that are tangible generated with tangibility as cause,
+['T29n1558_002:0011c17_2']	為非觸為因故生？	為非觸為因故生？	or are they generated with non-tangibility as cause?
+['T29n1558_002:0011c17_11']	諸非觸物為問亦爾。	諸非觸物為問亦爾。	The same question is asked of all things that are not tangible.
+['T29n1558_002:0011c19_3']	彼就此理為不定答，有時是觸為因生於非觸，謂和合物正離散時。	彼就此理為不定答，有時是觸為因生於非觸，謂和合物正離散時。	It answers this question in an indefinite way, saying that sometimes tangibility as cause generates non-tangibility, when a combined object is just being dispersed.
+['T29n1558_002:0011c20_4']	有時非觸為因生於是觸，謂離散物正和合時。	有時非觸為因生於是觸，謂離散物正和合時。	Sometimes non-tangibility as cause generates tangibility, when a dispersed object is just being combined.
+['T29n1558_002:0011c21_5']	有時是觸為因生於是觸，謂和合物復和合時。	有時是觸為因生於是觸，謂和合物復和合時。	Sometimes tangibility as cause generates tangibility, when a combined object is combined again.
+['T29n1558_002:0011c22_6']	有時非觸為因生於非觸，謂向遊塵同類相續。	有時非觸為因生於非觸，謂向遊塵同類相續。	Sometimes non-tangibility as cause generates non-tangibility, when moving dust continues in the same category.
+['T29n1558_002:0011c22_12']	尊者世友說：	尊者世友說：	Bhadanta Vasumitra says:
+['T29n1558_002:0011c23_5']	諸極微相觸即應住至後念。	諸極微相觸即應住至後念。	If the atoms touch each other, they should remain in the next moment.
+['T29n1558_002:0011c23_10']	然大德說：	然大德說：	However, the Bhadanta says:
+['T29n1558_002:0011c24_10']	一切極微實不相觸，但由無間假立觸名。	一切極微實不相觸，但由無間假立觸名。	All atoms do not actually touch each other, but the name touch is provisionally established due to their lack of interval.
+['T29n1558_002:0011c25_1']	此大德意應可愛樂。	此大德意應可愛樂。	This intention of the Bhadanta should be accepted with pleasure.
+['T29n1558_002:0011c25_15']	若異此者，是諸極微應有間隙。	若異此者，是諸極微應有間隙。	If it were otherwise, these atoms would have an interval.
+['T29n1558_002:0011c26_10']	中間既空，誰障其行許為有對？	中間既空，誰障其行許為有對？	Since the interval is empty, who obstructs their movement and allows them to be opposed?
+['T29n1558_002:0011c27_10']	又離極微無和合色，和合相觸即觸極微。	又離極微無和合色，和合相觸即觸極微。	Moreover, apart from atoms there is no combined form. The combination touches, which is the same as touching the atoms.
+['T29n1558_002:0011c28_1']	如可變礙，此亦應爾。	如可變礙，此亦應爾。	Just as it can be transformed and obstructed, this should also be so.
+['T29n1558_002:0011c29_2']	又許極微若有方分，觸與不觸皆應有分。	又許極微若有方分，觸與不觸皆應有分。	Moreover, if atoms are allowed to have spatial division, whether they touch or not, they should all have parts.
+['T29n1558_002:0011c29_16']	若無方分，設許相觸亦無斯過。	若無方分，設許相觸亦無斯過。	If they have no spatial division, even if they are allowed to touch each other, there is still no such fault.
+['T29n1558_002:0012a02_7']	又眼等根，為於自境唯取等量，速疾轉故，如旋火輪見大山等？	又眼等根，為於自境唯取等量，速疾轉故，如旋火輪見大山等？	Do the eyes and other faculties only grasp objects of equal size, like a spinning fire wheel seen as a large mountain, because they turn quickly?
+['T29n1558_002:0012a03_3']	為於自境通取等量不等量耶？	為於自境通取等量不等量耶？	Or do they grasp objects of equal size and unequal size in their own domain?
+['T29n1558_002:0012a03_6']	頌曰：	頌曰：	In verse it is said:
+['T29n1558_002:0012a04_13']	應知鼻等三，　　唯取等量境。	應知鼻等三，　　唯取等量境。	It should be known that the three faculties of nose, etc., only take objects of equal measure.
+['T29n1558_002:0012a05_2']	論曰：	論曰：	The treatise says:
+['T29n1558_002:0012a06_1']	前說至境鼻等三根，應知唯能取等量境。	前說至境鼻等三根，應知唯能取等量境。	The previous explanation of the faculties reaching their objects states that the three faculties of nose, etc., should be known as only able to take objects of equal measure.
+['T29n1558_002:0012a07_1']	如根微量，境微亦然，相稱合生鼻等識故。	如根微量，境微亦然，相稱合生鼻等識故。	Just as the measure of the faculties' atoms, so too is the measure of the object atoms. This is because the nose consciousness, etc., arise from the mutual correspondence of the two.
+['T29n1558_002:0012a09_5']	眼耳不定，謂眼於色有時取小如見毛端，有時取大如暫開目見大山等，有時取等如見蒲桃。	眼耳不定，謂眼於色有時取小如見毛端，有時取大如暫開目見大山等，有時取等如見蒲桃。	The eye and ear are not fixed. This means that sometimes the eye takes a small object, like seeing the tip of a hair; sometimes it takes a large object, like temporarily opening the eyes and seeing large mountains, etc.; sometimes it takes an object of equal measure, like seeing a bunch of grapes.
+['T29n1558_002:0012a10_15']	如是耳根，聽蚊雷等所發種種小大音聲，隨其所應小大等量。	如是耳根，聽蚊雷等所發種種小大音聲，隨其所應小大等量。	In the same way, the ear faculty hears the various small and large sounds emitted by mosquitoes, thunder, etc., of corresponding small and large measures.
+['T29n1558_002:0012a11_11']	意無質礙，不可辯其形量差別。	意無質礙，不可辯其形量差別。	The mind has no material obstruction and cannot be distinguished in terms of differences in size and shape.
+['T29n1558_002:0012a12_6']	云何眼等諸根極微安布差別？	云何眼等諸根極微安布差別？	How is there a difference in the arrangement of the atoms of the faculties such as the eyes?
+['T29n1558_002:0012a13_14']	眼根極微在眼星上傍布而住，如香荾花清澈映覆令無分散。	眼根極微在眼星上傍布而住，如香荾花清澈映覆令無分散。	The atoms of the eye faculty are arranged on the surface of the eye, like a pile of fragrant herbs, clear and translucent, covering and preventing their dispersal.
+['T29n1558_002:0012a14_1']	有說：	有說：	Some say:
+['T29n1558_002:0012a15_4', 'T29n1558_002:0012a16_4']	重累如丸而住，體清澈故，如頗胝迦不相障礙。🔽耳根極微居耳穴內旋環而住，如卷樺皮。	重累如丸而住，體清澈故，如頗胝迦不相障礙。 耳根極微居耳穴內旋環而住，如卷樺皮。	They are piled up like a ball and abide there, and because their substance is clear and pure, they are like crystal and do not obstruct each other.🔽The most subtle particles of the ear faculty reside in the ear holes, spiraling and abiding there, like rolled up birch bark.
+['T29n1558_002:0012a17_4']	鼻根極微居鼻頞內背上面下，如雙爪甲。	鼻根極微居鼻頞內背上面下，如雙爪甲。	The most subtle particles of the nose faculty reside inside the nostrils, facing the back and below, like a pair of fingernails.
+['T29n1558_002:0012a18_4']	此初三根橫作行度處無高下，如冠花鬘。	此初三根橫作行度處無高下，如冠花鬘。	These first three faculties are arranged horizontally, with no high or low places, like a garland of flowers.
+['T29n1558_002:0012a18_18']	舌根極微布在舌上，形如半月。	舌根極微布在舌上，形如半月。	The most subtle particles of the tongue faculty are distributed on the tongue, shaped like a half-moon.
+['T29n1558_002:0012a19_2']	傳說：	傳說：	It is said:
+['T29n1558_002:0012a19_18']	舌中如毛端量，非為舌根極微所遍。	舌中如毛端量，非為舌根極微所遍。	In the middle of the tongue, even the amount of a hair tip is not pervaded by the most subtle particles of the tongue faculty.
+['T29n1558_002:0012a20_13']	身根極微遍住身分，如身形量。	身根極微遍住身分，如身形量。	The most subtle particles of the body faculty pervade the parts of the body, like the size and shape of the body.
+['T29n1558_002:0012a21_12']	女根極微形如鼓𣞙，男根極微形如指𩎽。	女根極微形如鼓𣞙，男根極微形如指𩎽。	The most subtle particles of the female faculty are shaped like a drum, and the most subtle particles of the male faculty are shaped like a finger cot.
+['T29n1558_002:0012a23_9']	眼根極微有時一切皆是同分，有時一切皆彼同分，有時一分是彼同分餘是同分。	眼根極微有時一切皆是同分，有時一切皆彼同分，有時一分是彼同分餘是同分。	Sometimes all the most subtle particles of the eye faculty are of the same kind, sometimes all are of a different kind, and sometimes one part is of a different kind and the rest are of the same kind.
+['T29n1558_002:0012a23_18']	乃至舌根極微亦爾。	乃至舌根極微亦爾。	Up to the most subtle particles of the tongue faculty are also like this.
+['T29n1558_002:0012a26_2']	身根極微定無一切皆是同分，乃至極熱捺落迦中猛焰纏身，猶有無量身根極微是彼同分。	身根極微定無一切皆是同分，乃至極熱捺落迦中猛焰纏身，猶有無量身根極微是彼同分。	The atoms of the body faculty are definitely not all similar, even in the most extreme heat of Avīci Hell, there are still innumerable atoms of the body faculty that are similar.
+['T29n1558_002:0012a26_5']	傳說：	傳說：	It is said:
+['T29n1558_002:0012a27_14']	身根設遍發識身應散壞，以無根境各一極微為所依緣能發身識。	身根設遍發識身應散壞，以無根境各一極微為所依緣能發身識。	If the body faculty were to generate consciousness everywhere, the body would be scattered and destroyed, because there is no single atom of the faculty or object that can serve as the support or object to generate body consciousness.
+['T29n1558_002:0012a28_14']	五識決定積集多微，方成所依所緣性故。	五識決定積集多微，方成所依所緣性故。	The five consciousnesses definitely accumulate many atoms to form the nature of the support and object.
+['T29n1558_002:0012a29_14']	即由此理亦說極微名無見體，不可見故。	即由此理亦說極微名無見體，不可見故。	For this very reason, atoms are also said to be imperceptible in substance, because they cannot be seen.
+['T29n1558_002:0012b03_5']	如前所說識有六種，謂眼識界乃至意識，為如五識唯緣現在意識通緣三世非世，如是諸識依亦爾耶？	如前所說識有六種，謂眼識界乃至意識，為如五識唯緣現在意識通緣三世非世，如是諸識依亦爾耶？	As previously explained, consciousness is of six kinds, namely eye consciousness up to mental consciousness. Are the six consciousnesses like the five consciousnesses, which only have present objects, while mental consciousness has objects of the three times and the non-time? Are their supports also like this?
+['T29n1558_002:0012b03_11']	不爾，云何？	不爾，云何？	No, how is it?
+['T29n1558_002:0012b03_14']	頌曰：	頌曰：	The verse says:
+['T29n1558_002:0012b04_13']	後依唯過去，　　五識依或俱。	後依唯過去，　　五識依或俱。	The later support is only past, the support of the five is either simultaneous.
+['T29n1558_002:0012b05_2']	論曰：	論曰：	The treatise says:
+['T29n1558_002:0012b06_10']	意識唯依無間滅意，眼等五識所依或俱，或言表此亦依過去。	意識唯依無間滅意，眼等五識所依或俱，或言表此亦依過去。	Mental consciousness is supported only by the immediately past mind. The five consciousnesses such as visual are supported by the simultaneous organ, or the word also indicates that they are supported by the past organ.
+['T29n1558_002:0012b07_17']	眼是眼識俱生所依，如是乃至身是身識俱生所依，同現世故。	眼是眼識俱生所依，如是乃至身是身識俱生所依，同現世故。	The eye is the simultaneous support of visual consciousness, and so on, up to the body as the simultaneous support of tactile consciousness, because they are in the present.
+['T29n1558_002:0012b08_7']	無間滅意是過去依。	無間滅意是過去依。	The immediately past mind is the support in the past.
+['T29n1558_002:0012b10_1', 'T29n1558_002:0012b11_1']	此五識身所依各二，謂眼等五是別所依，意根為五通所依性，故如是說。🔽若是眼識所依性者，即是眼識等無間緣耶？	此五識身所依各二，謂眼等五是別所依，意根為五通所依性，故如是說。 若是眼識所依性者，即是眼識等無間緣耶？	The two supports of the five consciousnesses are the five organs such as the eye, which are specific supports, and the mind organ, which is the support common to all five, and for that reason it is said that the five consciousnesses are supported by two things.🔽If something is a support of visual consciousness, is it also the similar and immediately antecedent condition of that consciousness?
+['T29n1558_002:0012b12_1']	設是眼識等無間緣者，復是眼識所依性耶？	設是眼識等無間緣者，復是眼識所依性耶？	If it is a similar and immediately antecedent condition of visual consciousness, is it also a support of that consciousness?
+['T29n1558_002:0012b12_6']	應作四句。	應作四句。	You should make four sentences.
+['T29n1558_002:0012b12_16']	第一句，謂俱生眼根。	第一句，謂俱生眼根。	The first sentence is the simultaneously born eye organ.
+['T29n1558_002:0012b13_8']	第二句，謂無間滅心所法界。	第二句，謂無間滅心所法界。	The second sentence is the dharmas of the mental objects that are immediately past.
+['T29n1558_002:0012b13_18']	第三句，謂過去意根。	第三句，謂過去意根。	The third sentence is the past mind organ.
+['T29n1558_002:0012b14_9']	第四句，謂除所說法。	第四句，謂除所說法。	The fourth sentence is the exclusion of the dharmas mentioned above.
+['T29n1558_002:0012b15_3']	乃至身識亦爾，各各應說自根。	乃至身識亦爾，各各應說自根。	The same is true of the body consciousness. Each should be explained according to its own organ.
+['T29n1558_002:0012b16_12']	意識應作順前句答，謂是意識所依性者，定是意識等無間緣。	意識應作順前句答，謂是意識所依性者，定是意識等無間緣。	The mental consciousness should be answered by a forward-looking statement, which means that what is the support of the mental consciousness is definitely the condition as the equivalent and immediate antecedent of the mental consciousness.
+['T29n1558_002:0012b18_3']	有是意識等無間緣，非與意識為所依性，謂無間滅心所法界。	有是意識等無間緣，非與意識為所依性，謂無間滅心所法界。	There is a condition as the equivalent and immediate antecedent of the mental consciousness that is not the support of the mental consciousness, namely, the mind and mental factors of the class of dharmas that have just ceased.
+['T29n1558_002:0012b19_3']	何因識起俱託二緣，得所依名在根非境？	何因識起俱託二緣，得所依名在根非境？	What is the reason that the arising of consciousness relies on both conditions and obtains the name of support in the organ but not in the object?
+['T29n1558_002:0012b19_6']	頌曰：	頌曰：	The verse says:
+['T29n1558_002:0012b20_13']	隨根變識異，　　故眼等名依。	隨根變識異，　　故眼等名依。	Because consciousness changes according to the organ, the eye, etc. are called the support.
+['T29n1558_002:0012b21_2']	論曰：	論曰：	The treatise says:
+['T29n1558_002:0012b22_2']	眼等即是眼等六界，由眼等根有轉變故。	眼等即是眼等六界，由眼等根有轉變故。	The eye, etc. are the six elements of the eye, etc. Because the eye, etc. organs transform and change,
+['T29n1558_002:0012b22_16']	諸識轉異，隨根增損識明昧故。	諸識轉異，隨根增損識明昧故。	the consciousnesses change and differ. This is because the clarity or obscurity of the consciousnesses follows the enhancement or impairment of the organ.
+['T29n1558_002:0012b23_15']	非色等變令識有異，以識隨根不隨境故。	非色等變令識有異，以識隨根不隨境故。	The change of the consciousnesses is not due to the transformation of form, etc., because the consciousnesses follow the organ but not the object.
+['T29n1558_002:0012b24_6']	依名唯在眼等非餘。	依名唯在眼等非餘。	The name of support is only in the eye, etc. and not in the others.
+['T29n1558_002:0012b25_15']	何緣色等正是所識而名眼識，乃至意識不名色識乃至法識？	何緣色等正是所識而名眼識，乃至意識不名色識乃至法識？	Why is it that form, etc., are the objects of consciousness, but consciousness is named according to the organ, and not named according to the object, such as form consciousness, etc.?
+['T29n1558_002:0012b25_18']	頌曰：	頌曰：	A verse says:
+['T29n1558_002:0012b26_13']	彼及不共因，　　故隨根說識。	彼及不共因，　　故隨根說識。	Because the organ is the special and unique cause of consciousness, therefore consciousness is named according to the organ.
+['T29n1558_002:0012b27_2']	論曰：	論曰：	The treatise says:
+['T29n1558_002:0012b28_2']	彼謂前說眼等名依，根是依故隨根說識。	彼謂前說眼等名依，根是依故隨根說識。	The so-called special means the previously mentioned eye, etc., which are called the support. Because the organ is the support, consciousness is named according to the organ.
+['T29n1558_002:0012c01_17']	及不共者，謂眼唯自眼識所依，色亦通為他身眼識及通自他意識所取，乃至身觸應知亦爾，由所依勝及不共因故識得名。	及不共者，謂眼唯自眼識所依，色亦通為他身眼識及通自他意識所取，乃至身觸應知亦爾，由所依勝及不共因故識得名。	As for the unique, the eye is only the support of its own eye consciousness, while form is also the object of the eye consciousness of another body, and also the object of one’s own and another’s mental consciousness. This is also so for body and touch. Because the support is superior and because it is the unique cause, consciousness is named according to the organ.
+['T29n1558_002:0012c02_13']	隨根非境，如名鼓聲及麥牙等。	隨根非境，如名鼓聲及麥牙等。	It is named according to the organ, not the object, just as sound is named according to the drum, and sprouts are named according to the seed.
+['T29n1558_002:0012c03_14']	隨身所住眼見色時，身眼色識地為同不？	隨身所住眼見色時，身眼色識地為同不？	When the eye of a certain body sees form, are the body, eye, form, and consciousness of the same or different natures?
+['T29n1558_002:0012c05_7']	應言此四或異或同，謂生欲界，若以自地眼見自地色，四皆自地。	應言此四或異或同，謂生欲界，若以自地眼見自地色，四皆自地。	It should be said that these four may be different or the same. When one is born in the realm of desire, if the eye of one’s own realm sees the form of one’s own realm, the four belong to one’s own realm.
+['T29n1558_002:0012c06_9']	若以初靜慮眼見欲界色，身色欲界、眼識初定。	若以初靜慮眼見欲界色，身色欲界、眼識初定。	If the eye of the first trance sees form of the desire realm, the body and form belong to the desire realm, and eye-consciousness belongs to the first trance.
+['T29n1558_002:0012c07_4', 'T29n1558_002:0012c08_12']	見初定色，身屬欲界、三屬初定。🔽若以二靜慮眼見欲界色，身色欲界、眼屬二定、識屬初定。	見初定色，身屬欲界、三屬初定。 若以二靜慮眼見欲界色，身色欲界、眼屬二定、識屬初定。	Seeing form of the first trance, the body belongs to the desire realm, and the other three belong to the first trance.🔽If the eye of the second trance sees form of the desire realm, the body and form belong to the desire realm, the eye belongs to the second trance, and the consciousness belongs to the first trance.
+['T29n1558_002:0012c09_12']	見初定色，身屬欲界、眼屬二定、色識初定。	見初定色，身屬欲界、眼屬二定、色識初定。	Seeing form of the first trance, the body belongs to the desire realm, the eye belongs to the second trance, the form and consciousness belong to the first trance.
+['T29n1558_002:0012c10_12']	見二定色，身屬欲界、眼色二定、識屬初定。	見二定色，身屬欲界、眼色二定、識屬初定。	Seeing form of the second trance, the body belongs to the desire realm, the eye and form belong to the second trance, and the consciousness belongs to the first trance.
+['T29n1558_002:0012c11_17']	如是若以三四靜慮地眼見下地色或自地色，如理應思。	如是若以三四靜慮地眼見下地色或自地色，如理應思。	In this way, if the eye of the third or fourth trances sees form of a lower realm or its own realm, one should contemplate it according to reason.
+['T29n1558_002:0012c13_15']	生初靜慮，若以自地眼見自地色，四皆同地見欲界色，三屬初定、色屬欲界。	生初靜慮，若以自地眼見自地色，四皆同地見欲界色，三屬初定、色屬欲界。	If one born in the first trance uses the eye of its own realm to see form of its own realm, the four belong to the same realm. Seeing form of the desire realm, three belong to the first trance, and form belongs to the desire realm.
+['T29n1558_002:0012c14_17']	若以二靜慮眼見初定色，三屬初定、眼屬二定。	若以二靜慮眼見初定色，三屬初定、眼屬二定。	If the eye of the second trance sees form of the first trance, three belong to the first trance, and the eye belongs to the second trance.
+['T29n1558_002:0012c15_18']	見欲界色，身識初定、色屬欲界、眼屬二定。	見欲界色，身識初定、色屬欲界、眼屬二定。	When seeing form of the desire realm, the body consciousness belongs to the first meditation, the form belongs to the desire realm, and the eye belongs to the second meditation.
+['T29n1558_002:0012c16_13', 'T29n1558_002:0012c17_17']	見二定色，身識初定、眼色二定。🔽如是若以三四靜慮地眼見自地色或下上色，如理應思。	見二定色，身識初定、眼色二定。 如是若以三四靜慮地眼見自地色或下上色，如理應思。	When seeing form of the second meditation, the body consciousness belongs to the first meditation, the eye and form belong to the second meditation.🔽In the same way, if one uses the eye of the third or fourth meditations to see form of one's own stage or a lower or higher stage, one should consider it accordingly.
+['T29n1558_002:0012c19_7']	如是生二三四靜慮，以自他地眼見自他地色，如理應思。	如是生二三四靜慮，以自他地眼見自他地色，如理應思。	In the same way, if one is born in the second, third, or fourth meditations and uses the eye of one's own stage or another stage to see form of one's own stage or another stage, one should consider it accordingly.
+['T29n1558_002:0012c19_16']	餘界亦應如是分別。	餘界亦應如是分別。	The other realms should also be distinguished in this way.
+['T29n1558_002:0012c20_6']	今當略辯此決定相。	今當略辯此決定相。	Now we will briefly explain the definite characteristics of this.
+['T29n1558_002:0012c20_9']	頌曰：	頌曰：	The verse says:
+['T29n1558_002:0012c21_0']	眼不下於身，　　色識非上眼，	眼不下於身，　　色識非上眼，	The eye is not lower than the body, and form and consciousness are not higher than the eye.
+['T29n1558_002:0012c22_13']	色於識一切，　　二於身亦然。	色於識一切，　　二於身亦然。	Form is in all consciousnesses, and the two are the same in relation to the body.
+['T29n1558_002:0012c23_0']	如眼耳亦然，　　次三皆自地，	如眼耳亦然，　　次三皆自地，	The ear is also like this. The next three are all of their own stage.
+['T29n1558_002:0012c24_13']	身識自下地，　　意不定應知。	身識自下地，　　意不定應知。	Body consciousness is of its own stage or a lower stage. Mental consciousness should be known as indefinite.
+['T29n1558_002:0012c25_2']	論曰：	論曰：	The treatise says:
+['T29n1558_002:0012c26_10']	身眼色三皆通五地，謂在欲界四靜慮中，眼識唯在欲界初定。	身眼色三皆通五地，謂在欲界四靜慮中，眼識唯在欲界初定。	The body, eye, and form belong to five stages, namely the desire realm and the four meditations. Eye consciousness belongs only to the desire realm and the first meditation.
+['T29n1558_002:0012c27_8']	此中眼根望身生地，或等或上終不居下。	此中眼根望身生地，或等或上終不居下。	In this context, the eye faculty is either equal to or higher than the body’s stage of rebirth, and never lower.
+['T29n1558_002:0012c29_1']	色識望眼等下非上，下眼不能見上色故、上識不依下地眼故。	色識望眼等下非上，下眼不能見上色故、上識不依下地眼故。	Form and consciousness are either equal to or lower than the eye, but not higher. This is because the lower eye cannot see higher form, and higher consciousness does not depend on a lower eye.
+['T29n1558_002:0013a01_1']	色望於識通等上下，色識於身如色於識。	色望於識通等上下，色識於身如色於識。	Form is either equal to, higher than, or lower than consciousness. Form and consciousness are related to the body in the same way that form is related to consciousness.
+['T29n1558_002:0013a02_11']	廣說耳界應知如眼，謂耳不下於身，聲識非上耳，聲於識一切。	廣說耳界應知如眼，謂耳不下於身，聲識非上耳，聲於識一切。	It should be understood that the extensive explanation of the ear faculty is the same as that of the eye. That is, the ear is not lower than the body, sound and ear consciousness are not higher than the ear, and sound is related to consciousness in all ways.
+['T29n1558_002:0013a03_7']	二於身亦然，隨其所應廣如眼釋。	二於身亦然，隨其所應廣如眼釋。	The two are also related to the body in the same way, as extensively explained according to the circumstances in the discussion of the eye.
+['T29n1558_002:0013a04_12']	鼻舌身三總皆自地，於中別者，謂身與觸其地必同。	鼻舌身三總皆自地，於中別者，謂身與觸其地必同。	The nose, tongue, and body faculties are all in the same stage as the body. There are differences among them, however. That is, the body and tangibles are in the same stage.
+['T29n1558_002:0013a06_3']	識望觸身或自或下，自謂若生欲界初定，生上三定謂之為下。	識望觸身或自或下，自謂若生欲界初定，生上三定謂之為下。	Consciousness is either in the same stage as the body or in a lower stage. The same stage means that if one is born in the desire realm or the first meditation, the higher three meditations are called lower.
+['T29n1558_002:0013a07_12']	應知意界四事不定，謂意有時與身識法四皆同地，有時上下。	應知意界四事不定，謂意有時與身識法四皆同地，有時上下。	You should know that the mental faculty is not fixed in the four matters. Sometimes the mental faculty is in the same stage as the body, consciousness, and dharmas, and sometimes it is above or below.
+['T29n1558_002:0013a08_3']	身唯五地，三通一切。	身唯五地，三通一切。	The body is only in five stages, and the three are all-pervasive.
+['T29n1558_002:0013a09_13']	於遊等至及受生時，隨其所應或同或異，如後定品當廣分別。	於遊等至及受生時，隨其所應或同或異，如後定品當廣分別。	When wandering in samādhis and receiving birth, according to what is appropriate, sometimes they are the same and sometimes different. This will be extensively distinguished later in the chapter on samādhi.
+['T29n1558_002:0013a10_13']	為捨繁文故今未辯，前後再述用少功多。	為捨繁文故今未辯，前後再述用少功多。	Because of wanting to avoid complicated text, it is not yet discussed now. Repeating it before and after uses little effort for great benefit.
+['T29n1558_002:0013a11_3']	傍論已周，應辯正論。	傍論已周，應辯正論。	The ancillary discussion has been completed. The correct discussion should be distinguished.
+['T29n1558_002:0013a12_3']	今當思擇，十八界中誰六識內幾識所識？	今當思擇，十八界中誰六識內幾識所識？	Now we should contemplate, in the eighteen realms, which are cognized by how many of the six consciousnesses?
+['T29n1558_002:0013a12_10']	幾常、幾無常？	幾常、幾無常？	How many are permanent and how many are impermanent?
+['T29n1558_002:0013a12_17']	幾根、幾非根？	幾根、幾非根？	How many are faculties and how many are not faculties?
+['T29n1558_002:0013a12_20']	頌曰。	頌曰。	The verse says:
+['T29n1558_002:0013a13_0']	五外二所識，　　常法界無為，	五外二所識，　　常法界無為，	The five external [realms] are cognized by two [consciousnesses], the permanent dharmadhātu is unconditioned,
+['T29n1558_002:0013a14_13']	法一分是根，　　并內界十二。	法一分是根，　　并內界十二。	One part of the dharmas is a faculty, along with the twelve internal realms.
+['T29n1558_002:0013a15_2']	論曰：	論曰：	The treatise says:
+['T29n1558_002:0013a16_14']	十八界中色等五界，如其次第眼等五識各一所識，又總皆是意識所識。	十八界中色等五界，如其次第眼等五識各一所識，又總皆是意識所識。	Among the eighteen elements, the five elements of form, etc., are respectively cognized by the five consciousnesses beginning with eye consciousness, and are also generally cognized by mental consciousness.
+['T29n1558_002:0013a17_8']	如是五界各六識中二識所識。	如是五界各六識中二識所識。	Thus these five elements are cognized by two of the six consciousnesses.
+['T29n1558_002:0013a18_16']	由此准知，餘十三界一切唯是意識所識，非五識身所緣境故。	由此准知，餘十三界一切唯是意識所識，非五識身所緣境故。	By this same principle, the remaining thirteen elements are cognized only by mental consciousness, because they are not objects of the five consciousnesses such as eye consciousness.
+['T29n1558_002:0013a20_10']	十八界中無有一界全是常者，唯法一分無為是常，義准無常法餘餘界。	十八界中無有一界全是常者，唯法一分無為是常，義准無常法餘餘界。	There is not a single element that is entirely permanent, but a part of the element of dharmas, namely unconditioned dharmas, is permanent. By implication, the remaining elements are impermanent.
+['T29n1558_002:0013a23_18']	又經中說二十二根，謂眼根、耳根、鼻根、舌根、身根、意根、女根、男根、命根、樂根、苦根、喜根、憂根、捨根、信根、勤根、念根、定根、慧根、未知當知根、已知根、具知根。	又經中說二十二根，謂眼根、耳根、鼻根、舌根、身根、意根、女根、男根、命根、樂根、苦根、喜根、憂根、捨根、信根、勤根、念根、定根、慧根、未知當知根、已知根、具知根。	A scripture speaks of twenty-two faculties, i.e., the faculties of eye, ear, nose, tongue, body, and mind, the female and male faculties, the vitality faculty, the faculties of pleasure, pain, gladness, and sorrow, the faculty of indifference, the faculties of faith, devotion, memory, concentration, and discernment, the faculty of knowing the unknown, the faculty of the state of having learned, and the faculty of having fully known.
+['T29n1558_002:0013a25_9']	阿毘達磨諸大論師，皆越經中六處次第，於命根後方說意根，有所緣故。	阿毘達磨諸大論師，皆越經中六處次第，於命根後方說意根，有所緣故。	The great abhidharma masters all go beyond the order of the six sense bases in the sutras and explain the mental faculty after life faculty, because it has objects.
+['T29n1558_002:0013a26_12']	如是所說二十二根，十八界中內十二界法一分攝。	如是所說二十二根，十八界中內十二界法一分攝。	Among the eighteen elements, the twenty-two faculties are included in the one part of the twelve internal elements.
+['T29n1558_002:0013a27_13']	法一分者，命等十一、後三一分，法界攝故。	法一分者，命等十一、後三一分，法界攝故。	The one part of the dharmas refers to the eleven faculties such as life, and the latter three faculties partially. They are included in the dharma element.
+['T29n1558_002:0013b01_1']	內十二者，眼等五根如自名攝，意根通是七心界攝，後三一分意意識攝，女根、男根即是身界一分所攝。	內十二者，眼等五根如自名攝，意根通是七心界攝，後三一分意意識攝，女根、男根即是身界一分所攝。	The twelve internal ones refer to the five faculties such as the eyes, which are included in their own names. The mental faculty is generally included in the seven consciousness elements. The latter three faculties partially are included in the mental faculty, mental consciousness, and manas. The female faculty and male faculty are included in a part of the body element.
+['T29n1558_002:0013b01_6']	如後當辯。	如後當辯。	This will be explained later.
+['T29n1558_002:0013b02_5']	義准所餘，色等五界法界一分皆體非根。	義准所餘，色等五界法界一分皆體非根。	By implication, the remaining five elements such as form, and a part of the dharma element, are all not faculties by nature.🔽Here is the corrected and aligned text:
+['T29n1558_002:0013b03_100']	說一切有部俱舍論卷第二	說一切有部俱舍論卷第二	Abhidharma-kośa-bhāṣya, Fascicle 2

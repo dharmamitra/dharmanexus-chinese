@@ -1,0 +1,730 @@
+segmentnr	original	analyzed	translated
+['T27n1545_050:0257a13_0']	阿毘達磨大毘婆沙論卷第五十	阿毘達磨大毘婆沙論卷第五十	Abhidharma-mahāvibhāṣā-śāstra, fascicle 50
+['T27n1545_050:0257a15_0']	五百大阿羅漢等造	五百大阿羅漢等造	Composed by 500 great arhats and others
+['T27n1545_050:0257a16_0', 'T27n1545_050:0257a18_4']	三藏法師玄奘奉　詔譯🔽5結蘊第二中不善納息第一之五有七隨眠。	三藏法師玄奘奉　詔譯 5結蘊第二中不善納息第一之五有七隨眠。	Translated by Tripiṭaka Master Xuanzang on imperial command🔽.
+['T27n1545_050:0257a19_13']	謂欲貪隨眠瞋恚隨眠有貪隨眠慢隨眠無明隨眠見隨眠疑隨眠。	謂欲貪隨眠瞋恚隨眠有貪隨眠慢隨眠無明隨眠見隨眠疑隨眠。	Namely, the latent tendencies of desire and greed, anger and hatred, greed for existence, pride, ignorance, views, and doubt.
+['T27n1545_050:0257a20_6']	問此七隨眠以何為自性。	問此七隨眠以何為自性。	Question: What is the intrinsic nature of these seven latent tendencies?
+['T27n1545_050:0257a20_16']	答以九十八事為自性。	答以九十八事為自性。	Answer: They have ninety-eight factors as their intrinsic nature.
+['T27n1545_050:0257a21_14']	謂欲貪瞋恚隨眠各欲界五部為十事。	謂欲貪瞋恚隨眠各欲界五部為十事。	Namely, the latent tendencies of desire and greed and anger and hatred each have five categories in the desire realm, totaling ten factors.
+['T27n1545_050:0257a22_11']	有貪隨眠色無色界各五部為十事。	有貪隨眠色無色界各五部為十事。	The latent tendencies of greed for existence have five categories each in the form and formless realms, totaling ten factors.
+['T27n1545_050:0257a23_8']	慢無明隨眠各三界五部為三十事。	慢無明隨眠各三界五部為三十事。	The latent tendencies of pride and ignorance each have five categories in the three realms, totaling thirty factors.
+['T27n1545_050:0257a24_4']	見隨眠三界各十二為三十六事。	見隨眠三界各十二為三十六事。	The latent tendencies of views have twelve factors each in the three realms, totaling thirty-six factors.
+['T27n1545_050:0257a24_17']	疑隨眠三界各四部為十二事。	疑隨眠三界各四部為十二事。	The latent tendencies of doubt have four categories each in the three realms, totaling twelve factors.
+['T27n1545_050:0257a25_12']	由此七隨眠以九十八事為自性。	由此七隨眠以九十八事為自性。	Thus, these seven latent tendencies have ninety-eight factors as their intrinsic nature.
+['T27n1545_050:0257a26_5']	已說自性所以今當說。	已說自性所以今當說。	The intrinsic nature has been explained. The reasons will now be explained.
+['T27n1545_050:0257a26_12']	問何故名隨眠。	問何故名隨眠。	Question: Why are they called latent tendencies?
+['T27n1545_050:0257a27_14']	隨眠是何義答微細義隨增義隨縛義是隨眠義。	隨眠是何義答微細義隨增義隨縛義是隨眠義。	What is the meaning of latent tendencies? The meaning of subtlety, the meaning of following increase, and the meaning of following bondage are the meaning of latent tendencies.
+['T27n1545_050:0257a28_5']	微細義是隨眠義者。	微細義是隨眠義者。	As for the meaning of subtlety being the meaning of latent tendencies,
+['T27n1545_050:0257a28_14']	欲貪等七行相微細。	欲貪等七行相微細。	the seven such as desire and greed have subtle characteristics.
+['T27n1545_050:0257a29_4']	如七極微成一細色。	如七極微成一細色。	Like seven atoms forming one subtle form.
+['T27n1545_050:0257a29_13']	隨增義是隨眠義者。	隨增義是隨眠義者。	As for the meaning of following increase being the meaning of latent tendencies,
+['T27n1545_050:0257b01_11']	欲貪等七普於一切微細有漏皆悉隨增。	欲貪等七普於一切微細有漏皆悉隨增。	the seven such as desire and greed all follow increase with regard to all subtle contaminated [dharmas],
+['T27n1545_050:0257b01_17']	乃至一極微。	乃至一極微。	up to a single atom.
+['T27n1545_050:0257b02_12']	或一剎那頃欲貪等七皆隨增故。	或一剎那頃欲貪等七皆隨增故。	Or in a single moment, the seven such as desire and greed all follow increase.
+['T27n1545_050:0257b03_2']	隨縛義是隨眠義者。	隨縛義是隨眠義者。	As for the meaning of following bondage being the meaning of latent tendencies,
+['T27n1545_050:0257b03_11']	如空行影水行隨故。	如空行影水行隨故。	it is like the shadow of a bird in flight following the bird in the water.
+['T27n1545_050:0257b03_16']	空行謂鳥。	空行謂鳥。	The bird in flight refers to a bird.
+['T27n1545_050:0257b04_3']	水行謂魚。	水行謂魚。	The bird in the water refers to a fish.
+['T27n1545_050:0257b04_12']	鳥以翅力欲度大海。	鳥以翅力欲度大海。	A bird uses the power of its wings to cross the great ocean.
+['T27n1545_050:0257b05_8']	水中有魚善取其相而作是念。	水中有魚善取其相而作是念。	There is a fish in the water that skillfully observes its characteristics and thinks like this:
+['T27n1545_050:0257b06_1']	無有飛鳥能過大海。	無有飛鳥能過大海。	There are no flying birds that can cross the great ocean,
+['T27n1545_050:0257b06_10']	唯除勇迅妙翅鳥王。	唯除勇迅妙翅鳥王。	except for the king of birds with wonderful wings who is brave and swift.
+['T27n1545_050:0257b07_6']	即逐其影鳥乏墮水魚便吞之。	即逐其影鳥乏墮水魚便吞之。	It then chases after the shadow of the bird. When the bird is exhausted and falls into the water, the fish immediately swallows it.
+['T27n1545_050:0257b08_7']	如是隨眠於一切位恒現起得非理作意。	如是隨眠於一切位恒現起得非理作意。	In this way, the latent afflictions always manifest and obtain improper mental activity in all states.
+['T27n1545_050:0257b09_12']	若現前時即受等流或異熟果復次微細義是隨眠義者。	若現前時即受等流或異熟果復次微細義是隨眠義者。	If they manifest, one immediately experiences their outflow or retribution. Next, the meaning of subtlety is the meaning of latent afflictions.
+['T27n1545_050:0257b10_7']	依自性說隨增義是隨眠義者。	依自性說隨增義是隨眠義者。	The meaning of increasing along with is the meaning of latent afflictions.
+['T27n1545_050:0257b10_12']	依作用說。	依作用說。	This is explained based on function.
+['T27n1545_050:0257b11_2']	隨縛義是隨眠義者。	隨縛義是隨眠義者。	The meaning of binding along with is the meaning of latent afflictions.
+['T27n1545_050:0257b11_7']	依彼得說。	依彼得說。	This is explained based on their attainment.
+['T27n1545_050:0257b11_18']	復次微細義是隨眠義者。	復次微細義是隨眠義者。	Next, the meaning of subtlety is the meaning of latent afflictions.
+['T27n1545_050:0257b12_4']	依自性說。	依自性說。	This is explained based on their intrinsic nature.
+['T27n1545_050:0257b12_13']	隨增義是隨眠義者。	隨增義是隨眠義者。	The meaning of increasing along with is the meaning of latent afflictions.
+['T27n1545_050:0257b12_18']	依相續說。	依相續說。	This is explained based on their continuity.
+['T27n1545_050:0257b13_8']	隨縛義是隨眠義者。	隨縛義是隨眠義者。	The meaning of binding along with is the meaning of latent afflictions.
+['T27n1545_050:0257b13_15']	依習氣堅牢說。	依習氣堅牢說。	This is explained based on the firmness of their habitual tendencies.
+['T27n1545_050:0257b14_7']	復次微細義是隨眠義者。	復次微細義是隨眠義者。	Next, the meaning of subtlety is the meaning of latent afflictions.
+['T27n1545_050:0257b14_14']	依過去隨眠說。	依過去隨眠說。	This is explained based on past latent afflictions.
+['T27n1545_050:0257b15_4']	隨增義是隨眠義者。	隨增義是隨眠義者。	The meaning of increasing along with is the meaning of latent afflictions.
+['T27n1545_050:0257b15_11']	依現在隨眠說。	依現在隨眠說。	This is explained based on present latent afflictions.
+['T27n1545_050:0257b16_1']	隨縛義是隨眠義者。	隨縛義是隨眠義者。	The meaning of binding along with is the meaning of latent afflictions.
+['T27n1545_050:0257b16_8']	依未來隨眠說。	依未來隨眠說。	This is explained based on future latent afflictions.
+['T27n1545_050:0257b17_1']	復次微細義是隨眠義者。	復次微細義是隨眠義者。	Next, the meaning of subtlety is the meaning of latent afflictions.
+['T27n1545_050:0257b17_6']	依行相說。	依行相說。	Based on the aspect of activity, it is said.
+['T27n1545_050:0257b17_15']	隨增義是隨眠義者。	隨增義是隨眠義者。	The meaning of following increase is the meaning of latent tendencies.
+['T27n1545_050:0257b18_2']	依所緣縛說。	依所緣縛說。	Based on the bondage of the object, it is said.
+['T27n1545_050:0257b18_11']	隨縛義是隨眠義者。	隨縛義是隨眠義者。	The meaning of following bondage is the meaning of latent tendencies.
+['T27n1545_050:0257b18_17']	依相應縛說。	依相應縛說。	Based on the bondage of association, it is said.
+['T27n1545_050:0257b19_12']	復次微細義隨增義是隨眠義者。	復次微細義隨增義是隨眠義者。	Moreover, the meaning of subtlety and the meaning of following increase are the meaning of latent tendencies.
+['T27n1545_050:0257b20_1']	依相應隨眠說。	依相應隨眠說。	Based on the latent tendencies associated with the mind, it is said.
+['T27n1545_050:0257b20_10']	隨縛義是隨眠義者。	隨縛義是隨眠義者。	The meaning of following bondage is the meaning of latent tendencies.
+['T27n1545_050:0257b20_18']	依不相應隨眠說。	依不相應隨眠說。	Based on the latent tendencies not associated with the mind, it is said.
+['T27n1545_050:0257b21_9']	問隨眠皆與心等相應。	問隨眠皆與心等相應。	Question: Are all latent tendencies associated with the mind?
+['T27n1545_050:0257b22_1']	如何言依不相應說。	如何言依不相應說。	How can it be said to be based on the non-associated [latent tendencies]?
+['T27n1545_050:0257b22_15']	答此中於得立隨眠名得隨眠故。	答此中於得立隨眠名得隨眠故。	Answer: Here, the attainment is established as the latent tendencies, because the attainment follows the latent tendencies.
+['T27n1545_050:0257b23_2']	說名隨眠。	說名隨眠。	Therefore, it is called the latent tendencies.
+['T27n1545_050:0257b23_11']	外國諸師作如是說。	外國諸師作如是說。	The foreign masters say:
+['T27n1545_050:0257b24_2']	由四種義故名隨眠。	由四種義故名隨眠。	It is called the latent tendencies due to four meanings.
+['T27n1545_050:0257b24_16']	謂微細義隨入義隨增義隨縛義。	謂微細義隨入義隨增義隨縛義。	Namely, the meaning of subtlety, the meaning of following, the meaning of following increase, and the meaning of following bondage.
+['T27n1545_050:0257b25_2']	是隨眠義。	是隨眠義。	These are the meanings of the latent tendencies.
+['T27n1545_050:0257b25_11']	微細義是隨眠義者。	微細義是隨眠義者。	The meaning of subtlety is the meaning of the latent tendencies.
+['T27n1545_050:0257b26_5']	謂欲貪等自性行相俱極微細。	謂欲貪等自性行相俱極微細。	Namely, the nature and characteristics of desire and greed are extremely subtle.
+['T27n1545_050:0257b26_14']	隨入義是隨眠義者。	隨入義是隨眠義者。	The meaning of following is the meaning of the latent tendencies.
+['T27n1545_050:0257b27_8']	謂欲貪等隨入相續無不周遍。	謂欲貪等隨入相續無不周遍。	That is, desire, greed, etc., enter the continuity and pervade everywhere.
+['T27n1545_050:0257b28_4']	如油在麻膩在團中無不周遍。	如油在麻膩在團中無不周遍。	Like oil in sesame seeds and grease in dough, they pervade everywhere.
+['T27n1545_050:0257b28_13']	隨增義是隨眠義者。	隨增義是隨眠義者。	The meaning of following increase is the meaning of latent tendencies.
+['T27n1545_050:0257b29_8']	謂欲貪等於相續中展轉隨增。	謂欲貪等於相續中展轉隨增。	That is, desire, greed, etc., increase in continuity.
+['T27n1545_050:0257b29_13']	如孩乳母。	如孩乳母。	Like a child and a wet nurse.
+['T27n1545_050:0257c01_4']	隨縛義是隨眠義者。	隨縛義是隨眠義者。	The meaning of following bondage is the meaning of latent tendencies.
+['T27n1545_050:0257c01_13']	如空行影水行隨逐。	如空行影水行隨逐。	Like a shadow following a moving object in the sky, and a reflection following a moving object in the water.
+['T27n1545_050:0257c02_6']	復次微細義是隨眠義者。	復次微細義是隨眠義者。	Moreover, the meaning of subtlety is the meaning of latent tendencies.
+['T27n1545_050:0257c02_11']	依自性說。	依自性說。	This is said based on their intrinsic nature.
+['T27n1545_050:0257c03_2']	隨入義是隨眠義者。	隨入義是隨眠義者。	The meaning of following entry is the meaning of latent tendencies.
+['T27n1545_050:0257c03_7']	依相應說。	依相應說。	This is said based on their association.
+['T27n1545_050:0257c03_16']	隨增義是隨眠義者。	隨增義是隨眠義者。	The meaning of following increase is the meaning of latent tendencies.
+['T27n1545_050:0257c04_2']	依行相說。	依行相說。	This is said based on their mode of activity.
+['T27n1545_050:0257c04_11']	隨縛義是隨眠義者。	隨縛義是隨眠義者。	The meaning of following bondage is the meaning of latent tendencies.
+['T27n1545_050:0257c05_8']	依彼得說應以三事知諸隨眠。	依彼得說應以三事知諸隨眠。	One should know the latent tendencies through three things:
+['T27n1545_050:0257c05_14']	一以自性故。	一以自性故。	First, through their intrinsic nature;
+['T27n1545_050:0257c06_2']	二以果故。	二以果故。	Second, through their fruits;
+['T27n1545_050:0257c06_10']	三以補特伽羅故。	三以補特伽羅故。	Third, through the individuals who possess them.
+['T27n1545_050:0257c06_16']	以自性故者。	以自性故者。	As for through their intrinsic nature,
+['T27n1545_050:0257c07_14']	欲貪隨眠如食興蕖瞋恚隨眠如食辛辣。	欲貪隨眠如食興蕖瞋恚隨眠如食辛辣。	The latent tendency of desire and greed is like eating lotus roots, and the latent tendency of anger and hatred is like eating pungent spices.
+['T27n1545_050:0257c08_6']	有愛隨眠如乳母衣。	有愛隨眠如乳母衣。	The latent tendency of craving is like a wet nurse's garment.
+['T27n1545_050:0257c08_14', 'T27n1545_050:0257c09_4', 'T27n1545_050:0257c09_12']	慢隨眠如憍傲人。🔽無明隨眠如盲瞽者。🔽見隨眠如失道者。	慢隨眠如憍傲人。 無明隨眠如盲瞽者。 見隨眠如失道者。	The latent tendency of pride is like a haughty person.🔽The latent tendency of ignorance is like a blind person.🔽The latent tendency of views is like one who has lost their way.
+['T27n1545_050:0257c10_2']	疑隨眠如臨岐路。	疑隨眠如臨岐路。	The latent tendency of doubt is like one at a crossroads.
+['T27n1545_050:0257c10_7']	以果故者。	以果故者。	As for the reason of the fruit:
+['T27n1545_050:0257c11_1']	欲貪隨眠若習若修若多所作。	欲貪隨眠若習若修若多所作。	If the latent tendency of desire and greed is cultivated, practiced, and done much,
+['T27n1545_050:0257c11_10']	當生鴿雀鴛鴦等中。	當生鴿雀鴛鴦等中。	one will be reborn among pigeons, sparrows, mandarin ducks, and so forth.
+['T27n1545_050:0257c12_12']	瞋恚隨眠若習若修若多所作當生蜂蝎毒蛇等中。	瞋恚隨眠若習若修若多所作當生蜂蝎毒蛇等中。	If the latent tendency of anger and hatred is cultivated, practiced, and done much, one will be reborn among bees, scorpions, poisonous snakes, and so forth.
+['T27n1545_050:0257c13_13', 'T27n1545_050:0257c14_14']	有貪隨眠若習若修若多所作當生色無色界。🔽慢隨眠若習若修若多所作當生卑賤種族。	有貪隨眠若習若修若多所作當生色無色界。 慢隨眠若習若修若多所作當生卑賤種族。	If the latent tendency of craving for existence is cultivated, practiced, and done much, one will be reborn in the form and formless realms.🔽If the latent tendency of pride is cultivated, practiced, and done much, one will be reborn in a lowly and humble family.
+['T27n1545_050:0257c15_15']	無明隨眠若習若修若多所作當生愚盲種族。	無明隨眠若習若修若多所作當生愚盲種族。	If the latent tendency of ignorance is cultivated, practiced, and done much, one will be reborn in a family of fools and blind people.
+['T27n1545_050:0257c16_15']	見隨眠若習若修若多所作當生外道種族。	見隨眠若習若修若多所作當生外道種族。	If the latent tendency of views is cultivated, practiced, and done much, one will be reborn in a non-Buddhist family.
+['T27n1545_050:0257c17_15']	疑隨眠若習若修若多所作當生邊鄙種族。	疑隨眠若習若修若多所作當生邊鄙種族。	If the latent tendency of doubt is cultivated, practiced, and done much, one will be reborn in a borderland family.
+['T27n1545_050:0257c18_5']	以補特伽羅故者。	以補特伽羅故者。	As for the individual,
+['T27n1545_050:0257c18_14', 'T27n1545_050:0257c19_6']	欲貪隨眠如難陀等。🔽瞋恚隨眠如氣噓指鬘等。	欲貪隨眠如難陀等。 瞋恚隨眠如氣噓指鬘等。	the latent tendency of desire for sensual pleasure is like Nanda and so on.🔽The latent tendency of anger is like Aśvaka and Aṅgulimāla and so on.
+['T27n1545_050:0257c20_5']	有貪隨眠如遏璽多阿邏荼嗢達洛迦等。	有貪隨眠如遏璽多阿邏荼嗢達洛迦等。	The latent tendency of desire for existence is like Udraka Rāmaputra and Ārāḍa Kālāma and so on.
+['T27n1545_050:0257c20_13']	慢隨眠如傲士等。	慢隨眠如傲士等。	The latent tendency of pride is like those who are arrogant and so on.
+['T27n1545_050:0257c21_9']	無明隨眠如鄔盧頻螺婆迦葉波等。	無明隨眠如鄔盧頻螺婆迦葉波等。	The latent tendency of ignorance is like Uruvilvā-Kāśyapa and so on.
+['T27n1545_050:0257c21_17']	見隨眠如善星等。	見隨眠如善星等。	The latent tendency of views is like Devadatta and so on.
+['T27n1545_050:0257c22_9']	疑隨眠如摩洛迦子等。	疑隨眠如摩洛迦子等。	The latent tendency of doubt is like Māluṅkyāputta and so on.
+['T27n1545_050:0257c23_1']	問嫉慳何故不立隨眠。	問嫉慳何故不立隨眠。	Why are jealousy and stinginess not established as latent tendencies?
+['T27n1545_050:0257c23_11', 'T27n1545_050:0257c24_4', 'T27n1545_050:0257c24_15']	答彼二無有隨眠相故。🔽復次隨眠微細彼二麁動。🔽復次隨眠輕微彼二尤重。	答彼二無有隨眠相故。 復次隨眠微細彼二麁動。 復次隨眠輕微彼二尤重。	The answer is: because they do not have the characteristics of latent tendencies.🔽Moreover, latent tendencies are subtle, while those two are coarse and agitated.🔽Moreover, latent tendencies are slight, while those two are extremely heavy.
+['T27n1545_050:0257c25_7']	復次隨眠猛利彼二數行。	復次隨眠猛利彼二數行。	Moreover, latent tendencies are sharp, while those two occur frequently.
+['T27n1545_050:0257c26_5', 'T27n1545_050:0257c26_13']	復次隨眠是根本煩惱彼二是煩惱等流。🔽謂嫉是瞋恚等流。	復次隨眠是根本煩惱彼二是煩惱等流。 謂嫉是瞋恚等流。	Moreover, latent tendencies are fundamental afflictions, while those two are the outflow of afflictions.🔽That is to say, jealousy is the outflow of anger,
+['T27n1545_050:0257c27_1']	慳是欲貪等流。	慳是欲貪等流。	and stinginess is the outflow of desire for sensual pleasure.
+['T27n1545_050:0257c28_9']	復次隨眠習氣堅固如於此地燒擔山木火滅雖久其地猶熱。	復次隨眠習氣堅固如於此地燒擔山木火滅雖久其地猶熱。	Furthermore, the latent tendencies are firm, like a mountain of firewood that has been burned. Even though the fire has long since gone out, the ground is still hot.
+['T27n1545_050:0257c28_17']	彼二習氣不堅固。	彼二習氣不堅固。	Those two tendencies are not firm.
+['T27n1545_050:0257c29_8']	如於此地燒草樺皮。	如於此地燒草樺皮。	Like burning grass and birch bark on this ground.
+['T27n1545_050:0257c29_17']	火纔滅已其地便冷。	火纔滅已其地便冷。	As soon as the fire goes out, the ground becomes cold.
+['T27n1545_050:0258a01_6']	復次隨眠難伏。	復次隨眠難伏。	Furthermore, the latent tendencies are difficult to subdue.
+['T27n1545_050:0258a01_11']	彼二易伏。	彼二易伏。	Those two are easy to subdue.
+['T27n1545_050:0258a02_2']	是故彼二不立隨眠。	是故彼二不立隨眠。	Therefore, those two are not established as latent tendencies.
+['T27n1545_050:0258a02_11']	餘纏及垢准二應說。	餘纏及垢准二應說。	The remaining bonds and defilements should be explained according to the two.
+['T27n1545_050:0258a03_3']	有九結。	有九結。	There are nine bonds.
+['T27n1545_050:0258a04_6']	謂愛結恚結慢結無明結見結取結疑結嫉結慳結。	謂愛結恚結慢結無明結見結取結疑結嫉結慳結。	Namely, the bond of craving, the bond of anger, the bond of pride, the bond of ignorance, the bond of views, the bond of grasping, the bond of doubt, the bond of jealousy, and the bond of stinginess.
+['T27n1545_050:0258a04_16']	問此九結以何為自性。	問此九結以何為自性。	Question: What is the intrinsic nature of these nine bonds?
+['T27n1545_050:0258a05_6']	答以百事為自性。	答以百事為自性。	Answer: They have one hundred things as their intrinsic nature.
+['T27n1545_050:0258a05_13']	謂愛慢無明結。	謂愛慢無明結。	Namely, the bonds of craving, pride, and ignorance.
+['T27n1545_050:0258a06_6']	各三界五部為四十五事。	各三界五部為四十五事。	Each has fifteen things in the three realms, totaling forty-five things.
+['T27n1545_050:0258a06_17']	恚結唯欲界五部為五事。	恚結唯欲界五部為五事。	The bond of anger is only five things in the five realms of desire.
+['T27n1545_050:0258a07_5']	見結有十八事。	見結有十八事。	The bond of views has eighteen things.
+['T27n1545_050:0258a08_5']	謂有身見邊執見各三界見苦所斷為六事。	謂有身見邊執見各三界見苦所斷為六事。	Namely, the view of self and extreme views, each has six things that are eliminated by seeing suffering in the three realms.
+['T27n1545_050:0258a08_17']	邪見三界各四部為十二事。	邪見三界各四部為十二事。	Wrong views are twelve things, with four parts in each of the three realms.
+['T27n1545_050:0258a09_5']	取結有十八事。	取結有十八事。	The grasping knot has eighteen things.
+['T27n1545_050:0258a09_18']	謂見取三界各四部為十二事。	謂見取三界各四部為十二事。	The grasping of views is twelve things, with four parts in each of the three realms.
+['T27n1545_050:0258a10_14']	戒禁取三界各見苦道所斷為六事。	戒禁取三界各見苦道所斷為六事。	The grasping of precepts and vows is six things, with the views of the three realms eliminated in the path of suffering.
+['T27n1545_050:0258a11_8']	疑結三界各四部為十二事。	疑結三界各四部為十二事。	The knot of doubt is twelve things, with four parts in each of the three realms.
+['T27n1545_050:0258a12_3']	嫉慳結各欲界修所斷為二事。	嫉慳結各欲界修所斷為二事。	The knots of jealousy and stinginess are two things, eliminated in the cultivation of the desire realm.
+['T27n1545_050:0258a12_14']	由此九結以百事為自性。	由此九結以百事為自性。	For this reason, the nine knots have one hundred things as their own nature.
+['T27n1545_050:0258a13_6']	已說自性所以今當說。	已說自性所以今當說。	The nature and reason for existence have already been explained, and now they will be explained.
+['T27n1545_050:0258a13_12']	問何故名結。	問何故名結。	Question: Why is it called a knot?
+['T27n1545_050:0258a13_17']	結是何義。	結是何義。	What is the meaning of a knot?
+['T27n1545_050:0258a14_12']	答繫縛義合苦義雜毒義是結義。	答繫縛義合苦義雜毒義是結義。	Answer: The meaning of a knot is the meaning of binding, the meaning of combining with suffering, and the meaning of mixing with poison.
+['T27n1545_050:0258a15_5']	所餘廣釋如三結處已釋。	所餘廣釋如三結處已釋。	The remaining extensive explanations are the same as the explanation in the section on the three knots.
+['T27n1545_050:0258a15_18']	諸結總義一一自性今當廣說。	諸結總義一一自性今當廣說。	The general meaning of the knots, and the nature of each one, will now be explained in detail.
+['T27n1545_050:0258a16_4']	云何愛結。	云何愛結。	What is the knot of craving?
+['T27n1545_050:0258a16_9']	謂三界貪。	謂三界貪。	It refers to the craving of the three realms.
+['T27n1545_050:0258a17_3']	然三界貪於九結中總立愛結。	然三界貪於九結中總立愛結。	However, the craving of the three realms is generally established as the knot of craving among the nine knots.
+['T27n1545_050:0258a17_12']	七隨眠中立二隨眠。	七隨眠中立二隨眠。	Among the seven latent tendencies, two latent tendencies are established.
+['T27n1545_050:0258a18_4']	謂欲界貪名欲貪隨眠。	謂欲界貪名欲貪隨眠。	Desire realm greed is called the latent tendency of desire.
+['T27n1545_050:0258a18_15']	色無色界貪名有貪隨眠。	色無色界貪名有貪隨眠。	Greed in the form and formless realms is called the latent tendency of existence.
+['T27n1545_050:0258a19_5']	於餘經中立為三愛。	於餘經中立為三愛。	In other sūtras, it is established as three cravings,
+['T27n1545_050:0258a19_14']	謂欲愛色愛無色愛。	謂欲愛色愛無色愛。	namely, craving for desire, craving for form, and craving for the formless.
+['T27n1545_050:0258a20_1']	問此三何別。	問此三何別。	What is the difference between these three?
+['T27n1545_050:0258a20_11']	答世尊所化根有三品。	答世尊所化根有三品。	Answer: The World-Honored One's disciples have three levels of faculties.
+['T27n1545_050:0258a21_2']	為利根者說一愛結。	為利根者說一愛結。	For those with sharp faculties, he taught one fetter of craving.
+['T27n1545_050:0258a21_11']	為中根者說二隨眠。	為中根者說二隨眠。	For those with middling faculties, he taught two latent tendencies.
+['T27n1545_050:0258a22_2']	為鈍根者說三界愛。	為鈍根者說三界愛。	For those with dull faculties, he taught the craving of the three realms.
+['T27n1545_050:0258a22_13']	復次世尊所化修有三種。	復次世尊所化修有三種。	Furthermore, the World-Honored One's disciples have three types of cultivation.
+['T27n1545_050:0258a23_5']	為初習業者說一愛結。	為初習業者說一愛結。	For beginners, he taught one fetter of craving.
+['T27n1545_050:0258a23_15']	為已熟修者說二隨眠。	為已熟修者說二隨眠。	For those with mature cultivation, he taught two latent tendencies.
+['T27n1545_050:0258a24_7']	為超作意者說三界愛。	為超作意者說三界愛。	For those who have transcended attention, he taught the craving of the three realms.
+['T27n1545_050:0258a25_1']	復次世尊所化樂有三種。	復次世尊所化樂有三種。	Furthermore, the World-Honored One's disciples have three types of preferences.
+['T27n1545_050:0258a25_10']	為樂略者說一愛結。	為樂略者說一愛結。	For those who prefer brevity, he taught one fetter of craving.
+['T27n1545_050:0258a26_2']	為樂廣者說三界愛。	為樂廣者說三界愛。	For those who prefer detail, he taught the craving of the three realms.
+['T27n1545_050:0258a26_12']	為樂略廣者說二隨眠。	為樂略廣者說二隨眠。	For those who prefer both brevity and detail, he taught two latent tendencies.
+['T27n1545_050:0258a27_4']	復次合苦義是結義。	復次合苦義是結義。	Furthermore, the meaning of combining suffering is the meaning of fetters.
+['T27n1545_050:0258a28_4']	以三界貪俱令有情苦合非樂故立一愛結。	以三界貪俱令有情苦合非樂故立一愛結。	Because craving in the three realms makes sentient beings suffer and not happy, it is established as one fetter of craving.
+['T27n1545_050:0258a28_12']	隨增義是隨眠義。	隨增義是隨眠義。	The meaning of following increase is the meaning of latent tendencies.
+['T27n1545_050:0258a29_2']	以欲界貪外門隨增。	以欲界貪外門隨增。	Because craving in the desire realm increases externally,
+['T27n1545_050:0258a29_16']	色無色貪內門隨增故立二隨眠。	色無色貪內門隨增故立二隨眠。	and craving in the form and formless realms increases internally, two latent tendencies are established.
+['T27n1545_050:0258b01_4']	染境義是愛義。	染境義是愛義。	The meaning of defiled objects is the meaning of craving.
+['T27n1545_050:0258b02_1']	以所染著欲色無色境有差別故。	以所染著欲色無色境有差別故。	Because the objects of desire, form, and formlessness that are defiled and attached to have differences,
+['T27n1545_050:0258b02_6']	立三界愛。	立三界愛。	the craving of the three realms is established.
+['T27n1545_050:0258b02_11']	云何恚結。	云何恚結。	What is the fetter of anger?
+['T27n1545_050:0258b03_2']	謂於有情欲為損害。	謂於有情欲為損害。	It is the desire to harm sentient beings.
+['T27n1545_050:0258b03_16']	問若於非情欲為損害亦應是恚。	問若於非情欲為損害亦應是恚。	If one desires to harm non-sentient beings, it should also be anger.
+['T27n1545_050:0258b04_3']	何故不說。	何故不說。	Why is it not said?
+['T27n1545_050:0258b04_9']	答從多說故。	答從多說故。	The answer is: it is said from the perspective of the majority.
+['T27n1545_050:0258b05_4']	謂此恚結多於有情欲為損害。	謂此恚結多於有情欲為損害。	This fetter of anger mostly desires to harm sentient beings.
+['T27n1545_050:0258b05_9']	少於非情。	少於非情。	It is little towards non-sentient beings.
+['T27n1545_050:0258b05_14']	是故不說。	是故不說。	Therefore, it is not said.
+['T27n1545_050:0258b06_2']	復次從重說故。	復次從重說故。	Next, it is said from the perspective of the serious.
+['T27n1545_050:0258b06_15']	謂於有情欲為損害其罪甚重。	謂於有情欲為損害其罪甚重。	That is to say, the offense of desiring to harm sentient beings is very serious.
+['T27n1545_050:0258b07_2']	非於非情。	非於非情。	Not so for non-sentient beings.
+['T27n1545_050:0258b07_13']	是故不說復次從本說故。	是故不說復次從本說故。	Therefore, it is not said. Next, it is said from the perspective of the original.
+['T27n1545_050:0258b08_8']	謂此恚結要於有情欲為損害。	謂此恚結要於有情欲為損害。	That is to say, this hatred knot must first harm sentient beings.
+['T27n1545_050:0258b08_17']	然後方於非情亦起。	然後方於非情亦起。	Only then does it arise with regard to non-sentient things.
+['T27n1545_050:0258b09_4']	是故不說。	是故不說。	Therefore it is not mentioned.
+['T27n1545_050:0258b09_11']	復次依想說故。	復次依想說故。	Moreover, it is said based on the notion.
+['T27n1545_050:0258b10_2']	謂於非情若起恚結。	謂於非情若起恚結。	That is to say, if one gives rise to the hatred knot with regard to non-sentient things,
+['T27n1545_050:0258b10_11']	亦於彼處起有情想。	亦於彼處起有情想。	one also gives rise to the notion of sentient beings in that place.
+['T27n1545_050:0258b11_2']	是故但說於有情起。	是故但說於有情起。	Therefore it is said that it only arises with regard to sentient beings.
+['T27n1545_050:0258b11_7']	云何慢結。	云何慢結。	What is the knot of pride?
+['T27n1545_050:0258b11_12']	謂七種慢。	謂七種慢。	It refers to the seven kinds of pride.
+['T27n1545_050:0258b12_15']	一慢二過慢三慢過慢四我慢五增上慢六卑慢七邪慢。	一慢二過慢三慢過慢四我慢五增上慢六卑慢七邪慢。	They are: pride, overweening pride, excessive pride, pride of self, pride of superiority, pride of inferiority, and false pride.
+['T27n1545_050:0258b13_5']	慢謂於劣謂己勝。	慢謂於劣謂己勝。	Pride means considering oneself superior to inferiors,
+['T27n1545_050:0258b13_11']	於等謂己等。	於等謂己等。	and equal to equals.
+['T27n1545_050:0258b13_16', 'T27n1545_050:0258b14_15']	令心高舉。🔽過慢謂於等謂己勝於勝謂己等令心高舉。	令心高舉。 過慢謂於等謂己勝於勝謂己等令心高舉。	It causes the mind to be haughty.🔽Overweening pride means considering oneself superior to equals and equal to superiors. It causes the mind to be haughty.
+['T27n1545_050:0258b15_12']	慢過慢謂於勝謂己勝令心高舉。	慢過慢謂於勝謂己勝令心高舉。	Excessive pride means considering oneself superior to superiors. It causes the mind to be haughty.
+['T27n1545_050:0258b16_11']	我慢謂於五取蘊謂我我所令心高舉。	我慢謂於五取蘊謂我我所令心高舉。	Pride of self means considering the five appropriated aggregates to be one's self or what belongs to one's self. It causes the mind to be haughty.
+['T27n1545_050:0258b17_11']	增上慢謂未得勝德謂己已得令心高舉。	增上慢謂未得勝德謂己已得令心高舉。	Pride of superiority means considering oneself to have attained superior qualities when one has not yet attained them. It causes the mind to be haughty.
+['T27n1545_050:0258b18_10']	卑慢謂於他多勝謂己少劣令心高舉。	卑慢謂於他多勝謂己少劣令心高舉。	Arrogance means, in relation to others who are superior in many ways, to think oneself slightly inferior, and thus to be conceited.
+['T27n1545_050:0258b19_5']	邪慢謂實全無德謂己有德。	邪慢謂實全無德謂己有德。	False pride means, in reality being completely without virtue, to think oneself virtuous.
+['T27n1545_050:0258b19_14']	如是七慢總名慢結。	如是七慢總名慢結。	These seven kinds of pride are collectively called the fetter of pride.
+['T27n1545_050:0258b20_2']	云何無明結。	云何無明結。	What is the fetter of ignorance?
+['T27n1545_050:0258b20_12']	謂三界無知此說為善。	謂三界無知此說為善。	It is the nescience of the three realms. This is said to be good.
+['T27n1545_050:0258b21_4']	若作是說緣三界無知。	若作是說緣三界無知。	If it is said that nescience is the condition of the three realms,
+['T27n1545_050:0258b21_14']	即應不攝無漏緣無明。	即應不攝無漏緣無明。	then it should not include nescience that takes the pure as its object.
+['T27n1545_050:0258b22_1']	云何見結。	云何見結。	What is the fetter of views?
+['T27n1545_050:0258b22_14']	謂三見即有身見邊執見邪見。	謂三見即有身見邊執見邪見。	It is the three views, namely the view of self, the view of grasping extremes, and wrong views.
+['T27n1545_050:0258b23_1']	總名見結。	總名見結。	These are collectively called the fetter of views.
+['T27n1545_050:0258b23_6']	云何取結。	云何取結。	What is the fetter of grasping?
+['T27n1545_050:0258b23_16']	謂二取即見取戒禁取。	謂二取即見取戒禁取。	It is the two kinds of grasping, namely the grasping of views and the grasping of precepts and vows.
+['T27n1545_050:0258b24_1']	總名取結。	總名取結。	These are collectively called the fetter of grasping.
+['T27n1545_050:0258b25_11']	問何故五見中三見立見結。	問何故五見中三見立見結。	Why are three of the five views established as the fetter of views,
+['T27n1545_050:0258b26_1']	二見立取結耶。	二見立取結耶。	and two views established as the fetter of grasping?
+['T27n1545_050:0258b26_11']	答於合苦時由名等故。	答於合苦時由名等故。	Because when suffering is combined, it is due to name and so forth.
+['T27n1545_050:0258b27_2']	謂前三見同是女名。	謂前三見同是女名。	That is to say, the first three views are the same in being female names.
+['T27n1545_050:0258b27_11']	後之二見同是男名。	後之二見同是男名。	The latter two views are the same in being male names.
+['T27n1545_050:0258b27_17']	以見是女聲。	以見是女聲。	Because views are female sounds,
+['T27n1545_050:0258b28_3']	取是男聲故。	取是男聲故。	and grasping is a male sound.
+['T27n1545_050:0258b28_14']	復次於合苦時由事等故。	復次於合苦時由事等故。	Furthermore, when combining the three into one, it is because of the equality of their objects and so on.
+['T27n1545_050:0258b29_7']	謂見結取結各攝十八事。	謂見結取結各攝十八事。	That is to say, the view-fetter and grasping-fetter each include eighteen things.
+['T27n1545_050:0258b29_16']	復次攝隨眠亦等故。	復次攝隨眠亦等故。	Furthermore, because of the equality of their inclusion of latent tendencies.
+['T27n1545_050:0258c01_15']	謂見結取結於九十八隨眠中各攝十八。	謂見結取結於九十八隨眠中各攝十八。	That is to say, the view-fetter and grasping-fetter each include eighteen of the ninety-eight latent tendencies.
+['T27n1545_050:0258c02_10']	復次前三見是推度非執受故。	復次前三見是推度非執受故。	Furthermore, the first three views are only judgment and not grasping,
+['T27n1545_050:0258c02_15']	合立見結。	合立見結。	so they are combined to establish the view-fetter.
+['T27n1545_050:0258c03_8']	後二見是推度亦執受故。	後二見是推度亦執受故。	The last two views are both judgment and grasping,
+['T27n1545_050:0258c03_13']	合立取結。	合立取結。	so they are combined to establish the grasping-fetter.
+['T27n1545_050:0258c04_5']	復次前三見等推度境故。	復次前三見等推度境故。	Furthermore, the first three views and so on are only judgmental of objects,
+['T27n1545_050:0258c04_10']	合立見結。	合立見結。	so they are combined to establish the view-fetter.
+['T27n1545_050:0258c05_1']	後二見等推度見故。	後二見等推度見故。	The last two views and so on are judgmental of views,
+['T27n1545_050:0258c05_6']	合立取結。	合立取結。	so they are combined to establish the grasping-fetter.
+['T27n1545_050:0258c05_11']	云何疑結。	云何疑結。	What is the doubt-fetter?
+['T27n1545_050:0258c05_17']	謂於諦猶豫。	謂於諦猶豫。	It is doubt regarding the truths.
+['T27n1545_050:0258c06_7']	問何故說此於諦猶豫。	問何故說此於諦猶豫。	Why is it said that this is doubt regarding the truths?
+['T27n1545_050:0258c06_17']	答欲令疑者得決定故。	答欲令疑者得決定故。	The answer is: in order to make those who doubt attain certainty.
+['T27n1545_050:0258c07_16']	謂如有人遠見竪物便生猶豫杌耶人耶。	謂如有人遠見竪物便生猶豫杌耶人耶。	That is to say, it is like a person who sees a standing object from a distance and gives rise to doubt, wondering if it is a post or a person.
+['T27n1545_050:0258c08_8']	設彼是人為男為女。	設彼是人為男為女。	Even if it is a person, they wonder if it is male or female.
+['T27n1545_050:0258c08_17']	或見二道便生猶豫。	或見二道便生猶豫。	Or they see two paths and give rise to doubt,
+['T27n1545_050:0258c09_8']	是所往路為復非耶。	是所往路為復非耶。	Is the path that is going to be taken correct or not?
+['T27n1545_050:0258c10_8']	見二衣鉢亦生猶豫是我所有他所有耶。	見二衣鉢亦生猶豫是我所有他所有耶。	Seeing the two robes and bowl, one also has doubts as to whether they belong to oneself or to others.
+['T27n1545_050:0258c11_7']	或疑此等是實疑結欲令彼疑得決定故。	或疑此等是實疑結欲令彼疑得決定故。	Or one doubts that these are real doubts, wishing to make those doubts become certain.
+['T27n1545_050:0258c12_12']	今顯此疑但是欲界無覆無記邪智為體非真疑結。	今顯此疑但是欲界無覆無記邪智為體非真疑結。	Now it is shown that these doubts are only unwholesome indeterminate wrong knowledge in the desire realm, not real bonds of doubt.
+['T27n1545_050:0258c12_17']	真疑結者。	真疑結者。	As for the real bonds of doubt,
+['T27n1545_050:0258c13_8']	謂於苦等四諦猶豫。	謂於苦等四諦猶豫。	they refer to the hesitation regarding the four truths such as suffering.
+['T27n1545_050:0258c13_13']	云何嫉結。	云何嫉結。	What is the bond of jealousy?
+['T27n1545_050:0258c13_18']	謂心妬忌。	謂心妬忌。	It refers to the mind being envious and jealous.
+['T27n1545_050:0258c14_4']	云何慳結。	云何慳結。	What is the bond of stinginess?
+['T27n1545_050:0258c14_9']	謂心悋護。	謂心悋護。	It refers to the mind being stingy and protective.
+['T27n1545_050:0258c15_1']	問何故說此二相別耶。	問何故說此二相別耶。	Why are their characteristics said to be different?
+['T27n1545_050:0258c15_11']	答欲令疑者得決定故。	答欲令疑者得決定故。	The answer is: in order to make those who doubt become certain.
+['T27n1545_050:0258c16_7']	謂世間人於嫉謂慳於慳謂嫉。	謂世間人於嫉謂慳於慳謂嫉。	That is to say, worldly people regard jealousy as stinginess and regard stinginess as jealousy.
+['T27n1545_050:0258c16_13']	於嫉謂慳者。	於嫉謂慳者。	As for regarding jealousy as stinginess,
+['T27n1545_050:0258c17_5']	如有見他所得好事。	如有見他所得好事。	there are those who, upon seeing others obtain good things,
+['T27n1545_050:0258c17_14']	心生妬忌便謂為慳。	心生妬忌便謂為慳。	give rise to envy and jealousy and thus regard it as stinginess.
+['T27n1545_050:0258c18_5']	然實妬忌是嫉非慳。	然實妬忌是嫉非慳。	However, in reality, envy and jealousy are jealousy, not stinginess.
+['T27n1545_050:0258c18_11']	於慳謂嫉者。	於慳謂嫉者。	As for regarding stinginess as jealousy,🔽...
+['T27n1545_050:0258c19_8']	如有見他悋護妻等便謂為嫉。	如有見他悋護妻等便謂為嫉。	For example, when one sees another person being stingy and protective of his wife, one may say that he is jealous.
+['T27n1545_050:0258c19_17']	然實悋護是慳非嫉。	然實悋護是慳非嫉。	However, in reality, stinginess and protection are stinginess, not jealousy.
+['T27n1545_050:0258c20_16']	為令彼疑得決定故說嫉與慳二相差別。	為令彼疑得決定故說嫉與慳二相差別。	In order to make others' doubts about the distinction between jealousy and stinginess definite, it is said that the two characteristics of jealousy and stinginess are different.
+['T27n1545_050:0258c21_7']	問何故於十纏中。	問何故於十纏中。	Question: Why, among the ten entanglements,
+['T27n1545_050:0258c21_14']	唯立慳嫉為結。	唯立慳嫉為結。	are only stinginess and jealousy established as bonds?
+['T27n1545_050:0258c22_6']	答唯此二纏有結相故。	答唯此二纏有結相故。	Answer: Only these two entanglements have the characteristics of bonds.
+['T27n1545_050:0258c22_15']	餘無結相故不立結。	餘無結相故不立結。	The others do not have the characteristics of bonds, so they are not established as bonds.
+['T27n1545_050:0258c23_5']	復次以後顯初故。	復次以後顯初故。	Moreover, because the later [entanglements] illustrate the earlier,
+['T27n1545_050:0258c23_9']	但說二。	但說二。	only two are mentioned.
+['T27n1545_050:0258c24_8']	謂十纏中嫉慳居後說後為結則已顯初。	謂十纏中嫉慳居後說後為結則已顯初。	That is to say, among the ten entanglements, jealousy and stinginess are at the end. Speaking of the later ones as bonds has already illustrated the earlier ones.
+['T27n1545_050:0258c25_6']	復次以嫉與慳獨立離二故立為結。	復次以嫉與慳獨立離二故立為結。	Moreover, because jealousy and stinginess stand alone and are free from the two [other entanglements], they are established as bonds.
+['T27n1545_050:0258c25_11', 'T27n1545_050:0258c25_15']	餘纏不爾。🔽獨立者。	餘纏不爾。 獨立者。	The other entanglements are not like this.🔽Standing alone means
+['T27n1545_050:0258c26_2']	謂自力現行。	謂自力現行。	operating by one's own power.
+['T27n1545_050:0258c26_6']	離二者。	離二者。	Free from the two means
+['T27n1545_050:0258c26_12']	謂一向不善。	謂一向不善。	being exclusively unwholesome.
+['T27n1545_050:0258c27_5']	忿覆二纏雖能獨立亦復離二。	忿覆二纏雖能獨立亦復離二。	Although the two entanglements of anger and concealment can stand alone and are also free from the two,
+['T27n1545_050:0258c28_1']	而似隨眠為隨眠相之所映奪。	而似隨眠為隨眠相之所映奪。	they are overshadowed by the characteristics of the latent tendencies, which are similar to the latent tendencies.
+['T27n1545_050:0258c28_10']	其相不顯故不立結。	其相不顯故不立結。	Their characteristics are not evident, so they are not established as bonds.
+['T27n1545_050:0258c28_15']	由此義故。	由此義故。	For this reason,
+['T27n1545_050:0258c29_9']	外國諸師說此二種即隨眠性。	外國諸師說此二種即隨眠性。	the masters of foreign lands say that these two are the nature of latent tendencies.
+['T27n1545_050:0259a01_9']	惛沈掉舉不能獨立他力起故亦不離二。	惛沈掉舉不能獨立他力起故亦不離二。	Because torpor and restlessness cannot stand alone and arise through the power of others, they are also not separate from the two.
+['T27n1545_050:0259a02_1']	或是不善或無記故。	或是不善或無記故。	Because they are either unwholesome or indeterminate.
+['T27n1545_050:0259a02_14']	睡眠惡作雖亦獨立而不離二。	睡眠惡作雖亦獨立而不離二。	Although sleep and remorse also stand alone, they are not separate from the two.
+['T27n1545_050:0259a03_5']	睡眠通善不善無記。	睡眠通善不善無記。	Because sleep is common to the wholesome, unwholesome, and indeterminate.
+['T27n1545_050:0259a03_14']	惡作通善不善性故。	惡作通善不善性故。	Because remorse is common to the wholesome and unwholesome natures.
+['T27n1545_050:0259a04_8']	無慚無愧雖是離二而非獨立。	無慚無愧雖是離二而非獨立。	Although shamelessness and lack of conscience are separate from the two, they do not stand alone.
+['T27n1545_050:0259a05_5']	唯嫉與慳獨立離二異隨眠相故。	唯嫉與慳獨立離二異隨眠相故。	Because jealousy and stinginess alone and separate from the two are different from the characteristics of latent tendencies.
+['T27n1545_050:0259a05_9']	立為結。	立為結。	They are established as fetters.
+['T27n1545_050:0259a06_7']	復次以嫉與慳最為鄙賤深可厭毀故。	復次以嫉與慳最為鄙賤深可厭毀故。	Moreover, because jealousy and stinginess are the most contemptible and deeply detestable,
+['T27n1545_050:0259a06_11']	立為結。	立為結。	they are established as fetters.
+['T27n1545_050:0259a07_9']	復次以嫉與慳性甚猥弊違背正理故。	復次以嫉與慳性甚猥弊違背正理故。	Moreover, because jealousy and stinginess are by nature very base and contrary to right principle,
+['T27n1545_050:0259a07_13']	立為結。	立為結。	they are established as fetters.
+['T27n1545_050:0259a08_4']	謂他榮勝於自無損。	謂他榮勝於自無損。	That is to say, the prosperity and superiority of others do not harm oneself.
+['T27n1545_050:0259a08_13']	何緣於他橫生妬忌。	何緣於他橫生妬忌。	Why does one give rise to jealousy and stinginess towards others?
+['T27n1545_050:0259a09_14']	雖復積聚百千珍財終不能持一錢往至後世。	雖復積聚百千珍財終不能持一錢往至後世。	Even if one accumulates hundreds of thousands of treasures, one cannot take even a single coin with one to the next life.
+['T27n1545_050:0259a10_8']	何緣固情悋護而不施他。	何緣固情悋護而不施他。	Why do you stubbornly cling to it and not give it to others?
+['T27n1545_050:0259a10_15']	復次由二法故。	復次由二法故。	Moreover, due to two dharmas,
+['T27n1545_050:0259a11_10']	令諸有情於生死中多受毀辱。	令諸有情於生死中多受毀辱。	it causes sentient beings to suffer many humiliations in birth and death.
+['T27n1545_050:0259a11_15']	一無威德。	一無威德。	First, lack of majesty;
+['T27n1545_050:0259a12_1']	二極貧窮。	二極貧窮。	second, extreme poverty.
+['T27n1545_050:0259a12_10']	無威德者由多嫉妬。	無威德者由多嫉妬。	Those who lack majesty are due to much jealousy.
+['T27n1545_050:0259a13_1']	極貧窮者由多慳悋。	極貧窮者由多慳悋。	Those who are extremely poor are due to much stinginess.
+['T27n1545_050:0259a13_10']	若無威德極貧窮者。	若無威德極貧窮者。	If one lacks majesty and is extremely poor,
+['T27n1545_050:0259a14_4']	父母兄弟妻子僮僕尚輕蔑之。	父母兄弟妻子僮僕尚輕蔑之。	even one's parents, siblings, spouse, children, and servants will despise them,
+['T27n1545_050:0259a14_9']	況非親者。	況非親者。	let alone those who are not related.
+['T27n1545_050:0259a14_18']	故十纏中立二為結。	故十纏中立二為結。	Therefore, among the ten entanglements, two are established as bonds.
+['T27n1545_050:0259a16_2']	復次嫉慳於彼欲界有情猶如獄卒及防捍者。	復次嫉慳於彼欲界有情猶如獄卒及防捍者。	Moreover, jealousy and stinginess are like jailers and guards for sentient beings in the desire realm.
+['T27n1545_050:0259a17_2']	如有罪人縶在囹圄二卒禁守不令得出。	如有罪人縶在囹圄二卒禁守不令得出。	It is like a criminal bound in prison, guarded by two jailers, not allowed to escape.
+['T27n1545_050:0259a18_2']	復有清潔莊嚴園林二人防捍不令得入。	復有清潔莊嚴園林二人防捍不令得入。	There are also two guards preventing them from entering a clean and well-decorated garden.
+['T27n1545_050:0259a18_9']	囹圄者喻惡趣。	囹圄者喻惡趣。	The prison is a metaphor for the evil destinies.
+['T27n1545_050:0259a18_16']	園林者喻人天。	園林者喻人天。	The garden is a metaphor for the human and heavenly realms.
+['T27n1545_050:0259a19_6']	獄卒防捍喻嫉與慳。	獄卒防捍喻嫉與慳。	The jailers and guards are metaphors for jealousy and stinginess.
+['T27n1545_050:0259a20_6']	欲界有情所以縶在惡趣囹圄不能得出。	欲界有情所以縶在惡趣囹圄不能得出。	The reason sentient beings in the desire realm are bound in evil destinies and prisons and cannot escape,
+['T27n1545_050:0259a20_15']	復不得入人天園者。	復不得入人天園者。	and also cannot enter the gardens of humans and gods,
+['T27n1545_050:0259a21_7']	以嫉與慳二結障故。	以嫉與慳二結障故。	is because of the two bonds of jealousy and stinginess.
+['T27n1545_050:0259a21_12']	如契經言。	如契經言。	As stated in the sutra:
+['T27n1545_050:0259a22_3']	時天帝釋往詣佛所。	時天帝釋往詣佛所。	At that time, Śakra, Lord of the Devas, went to where the Buddha was,
+['T27n1545_050:0259a22_8']	作如是問。	作如是問。	and asked this question:
+['T27n1545_050:0259a22_13']	由何結故。	由何結故。	Due to which bonds
+['T27n1545_050:0259a23_7']	人天及龍阿素洛等屢興戰鬪。	人天及龍阿素洛等屢興戰鬪。	do humans, devas, dragons, asuras, and others repeatedly engage in battles?
+['T27n1545_050:0259a23_12']	世尊告曰。	世尊告曰。	The World-Honored One said:
+['T27n1545_050:0259a23_17']	由嫉與慳。	由嫉與慳。	Due to jealousy and stinginess.
+['T27n1545_050:0259a24_8']	問諸有情類或具九結。	問諸有情類或具九結。	Question: Sentient beings may be bound by nine bonds,
+['T27n1545_050:0259a24_13']	或有六結。	或有六結。	or by six bonds,
+['T27n1545_050:0259a24_18']	或有三結。	或有三結。	or by three bonds,
+['T27n1545_050:0259a25_4']	或全無結。	或全無結。	or by none at all.
+['T27n1545_050:0259a25_9']	具九結者。	具九結者。	Those bound by nine bonds
+['T27n1545_050:0259a25_15']	謂具縛異生。	謂具縛異生。	are ordinary beings with complete fetters.
+['T27n1545_050:0259a26_1']	有六結者。	有六結者。	Those bound by six bonds
+['T27n1545_050:0259a26_16']	謂已離欲染異生及未離欲染聖者。	謂已離欲染異生及未離欲染聖者。	are ordinary beings who have already separated from attachment to desire, and noble ones who have not yet separated from attachment to desire.
+['T27n1545_050:0259a27_9']	有三結者謂已離欲染聖者。	有三結者謂已離欲染聖者。	Those bound by three bonds are noble ones who have already separated from attachment to desire.
+['T27n1545_050:0259a27_14']	全無結者。	全無結者。	Those bound by none at all
+['T27n1545_050:0259a28_9']	謂阿羅漢無成二結及一結者。	謂阿羅漢無成二結及一結者。	are arhats. There are none who have two bonds or one bond.
+['T27n1545_050:0259a29_9']	佛何故說由嫉與慳人天龍等屢興戰鬪。	佛何故說由嫉與慳人天龍等屢興戰鬪。	Why did the Buddha say that due to jealousy and stinginess, humans, gods, dragons, etc. frequently wage war?
+['T27n1545_050:0259b01_9']	答彼經但說諸富貴者數現行結不說成就。	答彼經但說諸富貴者數現行結不說成就。	The answer is that the sutra only speaks of the manifest bonds of the wealthy and noble, not of their possession.
+['T27n1545_050:0259b02_4']	謂天帝釋二天中尊由嫉與慳。	謂天帝釋二天中尊由嫉與慳。	It means that Sakra Devendra, the honored one among the two heavens, due to jealousy and stinginess,
+['T27n1545_050:0259b02_13']	與非天眾數戰鬪故。	與非天眾數戰鬪故。	frequently wages war with the asuras.
+['T27n1545_050:0259b02_18']	但說二結。	但說二結。	It only speaks of the two bonds.
+['T27n1545_050:0259b03_10']	復次佛為呵責天帝釋故。	復次佛為呵責天帝釋故。	Furthermore, the Buddha reprimands Sakra Devendra,
+['T27n1545_050:0259b04_2']	於彼契經說此二結。	於彼契經說此二結。	and in that sutra he speaks of these two bonds.
+['T27n1545_050:0259b04_15']	謂諸天中有蘇陀味勝阿素洛。	謂諸天中有蘇陀味勝阿素洛。	It means that among the gods there is the taste of sudha that surpasses the asuras.
+['T27n1545_050:0259b05_10']	阿素洛宮有端正女勝彼諸天。	阿素洛宮有端正女勝彼諸天。	In the palace of the asuras there are beautiful women that surpass the gods.
+['T27n1545_050:0259b06_2']	天自慳味嫉他美女。	天自慳味嫉他美女。	The gods themselves are stingy with their taste and jealous of the beautiful women of others.
+['T27n1545_050:0259b06_11']	非天慳女嫉他美味。	非天慳女嫉他美味。	The asuras are stingy with their women and jealous of the delicious flavors of others.
+['T27n1545_050:0259b07_2']	天為美女往非天處。	天為美女往非天處。	The gods go to the place of the asuras for the sake of the beautiful women.
+['T27n1545_050:0259b07_11']	非天為味復往天宮。	非天為味復往天宮。	The asuras, for the sake of the flavors, also go to the palace of the gods.
+['T27n1545_050:0259b08_10']	是故諸天與阿素洛由嫉慳結數興戰鬪。	是故諸天與阿素洛由嫉慳結數興戰鬪。	Therefore, the gods and asuras frequently wage war due to the bonds of jealousy and stinginess.
+['T27n1545_050:0259b09_6']	爾時天帝與阿素洛適鬪戰已。	爾時天帝與阿素洛適鬪戰已。	At that time, Sakra Devendra had just finished fighting with the asuras,
+['T27n1545_050:0259b09_15']	心猶恐怖來詣佛所。	心猶恐怖來詣佛所。	and his mind was still fearful. He came to where the Buddha was.
+['T27n1545_050:0259b10_2']	作如是問。	作如是問。	He asked this question.
+['T27n1545_050:0259b11_2']	由何結故人天及龍阿素洛等屢興戰鬪。	由何結故人天及龍阿素洛等屢興戰鬪。	Due to what fetters do humans, gods, dragons, asuras, and others frequently engage in battles?
+['T27n1545_050:0259b12_2']	彼意問言由何結故天與非天數興戰鬪。	彼意問言由何結故天與非天數興戰鬪。	His intention was to ask, Due to what fetters do gods and asuras frequently engage in battles?
+['T27n1545_050:0259b12_7']	故佛告曰。	故佛告曰。	Therefore the Buddha said,
+['T27n1545_050:0259b12_12']	由嫉與慳。	由嫉與慳。	Due to jealousy and stinginess.
+['T27n1545_050:0259b12_17']	佛意告言。	佛意告言。	The Buddha's intention was to say,
+['T27n1545_050:0259b13_14']	汝等天眾及阿素洛由嫉慳結數興戰鬪。	汝等天眾及阿素洛由嫉慳結數興戰鬪。	You gods and asuras frequently engage in battles due to the fetters of jealousy and stinginess.
+['T27n1545_050:0259b15_1']	故嫉與慳是汝等患亦是重擔傷害汝等應速捨離。	故嫉與慳是汝等患亦是重擔傷害汝等應速捨離。	Therefore jealousy and stinginess are your afflictions and also your heavy burden, which harms you. You should quickly abandon them.
+['T27n1545_050:0259b15_11']	問六煩惱垢何故非結。	問六煩惱垢何故非結。	Question: Why are the six afflictive stains not fetters?
+['T27n1545_050:0259b15_17']	答相麁動故。	答相麁動故。	Answer: Because their characteristics are coarse and agitated.
+['T27n1545_050:0259b16_10']	若相微細繫縛堅牢可立為結。	若相微細繫縛堅牢可立為結。	If the characteristics are subtle and the bondage is firm, they can be established as fetters.
+['T27n1545_050:0259b17_5']	垢相麁動繫義不堅故不立結。	垢相麁動繫義不堅故不立結。	Because the characteristics of the stains are coarse and agitated, the meaning of bondage is not firm, so they are not established as fetters.
+['T27n1545_050:0259b18_6']	有九十八隨眠。	有九十八隨眠。	There are ninety-eight latent afflictions.
+['T27n1545_050:0259b18_16']	謂欲界繫三十六隨眠。	謂欲界繫三十六隨眠。	Namely, thirty-six latent afflictions bound to the desire realm,
+['T27n1545_050:0259b19_9']	色無色界繫各三十一隨眠。	色無色界繫各三十一隨眠。	and thirty-one latent afflictions bound to the form and formless realms each.
+['T27n1545_050:0259b20_2']	此即以九十八事為自性。	此即以九十八事為自性。	These are precisely taken as having ninety-eight things as their intrinsic nature.
+['T27n1545_050:0259b20_11']	隨眠名義如前已釋。	隨眠名義如前已釋。	The meaning of the term latent affliction has already been explained above.
+['T27n1545_050:0259b21_4']	問何故說此九十八隨眠耶。	問何故說此九十八隨眠耶。	Question: Why are these ninety-eight latent afflictions explained?
+['T27n1545_050:0259b21_14']	答是作論者意欲爾故。	答是作論者意欲爾故。	Answer: Because this is the intention of the author of the treatise.
+['T27n1545_050:0259b22_12']	謂本論師隨欲作論不違法相故不應責。	謂本論師隨欲作論不違法相故不應責。	That is to say, the original treatise master composes the treatise according to his wishes, without contradicting the characteristics of dharmas, so one should not question it.
+['T27n1545_050:0259b23_6']	復次為止著文沙門意故。	復次為止著文沙門意故。	Moreover, it is in order to stop the intention of śramaṇas who cling to texts.
+['T27n1545_050:0259b24_7']	謂有沙門執著文字離經所說終不敢言。	謂有沙門執著文字離經所說終不敢言。	That is to say, there are śramaṇas who cling to written words and never dare to speak apart from what is explained in the scriptures.
+['T27n1545_050:0259b25_3']	彼作是說誰有智慧過於佛者。	彼作是說誰有智慧過於佛者。	They say, Who has wisdom that surpasses the Buddha?
+['T27n1545_050:0259b26_3']	佛唯說有七種隨眠如何強增為九十八。	佛唯說有七種隨眠如何強增為九十八。	The Buddha only explained that there are seven kinds of latent afflictions. How can one forcefully increase them to ninety-eight?
+['T27n1545_050:0259b26_16']	為遮彼意廣七隨眠為九十八。	為遮彼意廣七隨眠為九十八。	In order to block this intention, the seven latent afflictions are expanded to ninety-eight.
+['T27n1545_050:0259b27_8']	謂依行相界部別故。	謂依行相界部別故。	That is to say, it is because of the distinctions in aspects, realms, and categories.
+['T27n1545_050:0259b28_4']	七隨眠中欲貪隨眠部別故為五。	七隨眠中欲貪隨眠部別故為五。	Among the seven latent afflictions, the latent affliction of desire-attachment is fivefold because of the distinctions in categories.
+['T27n1545_050:0259b28_11']	瞋恚隨眠亦爾。	瞋恚隨眠亦爾。	The latent affliction of ill-will is also like this.
+['T27n1545_050:0259b29_3']	有貪隨眠界別故為二。	有貪隨眠界別故為二。	The latent affliction of attachment to existence is twofold because of the distinctions in realms.
+['T27n1545_050:0259b29_9']	部別故為五。	部別故為五。	It is fivefold because of the distinctions in categories.
+['T27n1545_050:0259b29_16']	界部別故為十。	界部別故為十。	It is tenfold because of the distinctions in realms and categories.
+['T27n1545_050:0259c01_6']	慢隨眠界別故為三。	慢隨眠界別故為三。	The latent affliction of pride is threefold because of the distinctions in realms.
+['T27n1545_050:0259c01_12']	部別故為五。	部別故為五。	It is fivefold because of the distinctions in categories.
+['T27n1545_050:0259c02_2']	界部別故為十五。	界部別故為十五。	Because of the distinction of realms and categories, there are fifteen.
+['T27n1545_050:0259c02_9']	無明隨眠亦爾。	無明隨眠亦爾。	The latent tendencies of ignorance are also like this.
+['T27n1545_050:0259c02_18']	見隨眠界別故為三。	見隨眠界別故為三。	The latent tendencies of views, because of the distinction of realms, are three.
+['T27n1545_050:0259c03_5']	行相別故為五。	行相別故為五。	Because of the distinction of aspects, there are five.
+['T27n1545_050:0259c03_12']	部別故為十二。	部別故為十二。	Because of the distinction of categories, there are twelve.
+['T27n1545_050:0259c04_4']	行相界部別故為三十六。	行相界部別故為三十六。	Because of the distinction of aspects, realms, and categories, there are thirty-six.
+['T27n1545_050:0259c04_13']	疑隨眠界別故為三。	疑隨眠界別故為三。	The latent tendencies of doubt, because of the distinction of realms, are three.
+['T27n1545_050:0259c05_1']	部別故為四。	部別故為四。	Because of the distinction of categories, there are four.
+['T27n1545_050:0259c05_9']	界部別故為十二。	界部別故為十二。	Because of the distinction of realms and categories, there are twelve.
+['T27n1545_050:0259c06_10']	是故七隨眠依行相界部別故為九十八隨眠。	是故七隨眠依行相界部別故為九十八隨眠。	Therefore, the seventy-five latent tendencies are distinguished according to the distinction of aspects, realms, and categories.
+['T27n1545_050:0259c07_3']	廣略雖異而體無差別。	廣略雖異而體無差別。	Although there are differences in detail, the essence is without distinction.
+['T27n1545_050:0259c08_15']	三結乃至九十八隨眠幾不善幾無記。	三結乃至九十八隨眠幾不善幾無記。	Among the three bonds up to the ninety-eight latent tendencies, how many are unwholesome and how many are indeterminate?
+['T27n1545_050:0259c09_4']	問何故作此論。	問何故作此論。	Why does this treatise ask this question?
+['T27n1545_050:0259c10_1']	答為止他宗顯正義故謂或有說。	答為止他宗顯正義故謂或有說。	The answer is: in order to refute other schools and reveal the correct principle. Some say:
+['T27n1545_050:0259c10_10']	一切煩惱皆是不善。	一切煩惱皆是不善。	All afflictions are unwholesome.
+['T27n1545_050:0259c11_1']	由不巧便所攝持故。	由不巧便所攝持故。	Because they are included in what is not skillful.
+['T27n1545_050:0259c11_6']	如譬喻者。	如譬喻者。	Like the Vaibhāṣikas.
+['T27n1545_050:0259c11_15']	為遮彼意顯諸煩惱。	為遮彼意顯諸煩惱。	To refute this view, it is shown that among the afflictions,
+['T27n1545_050:0259c12_6']	有是不善有是無記。	有是不善有是無記。	some are unwholesome and some are indeterminate.🔽Here is the corrected and aligned text:
+['T27n1545_050:0259c13_6']	若諸煩惱由不巧便所攝持故是不善者。	若諸煩惱由不巧便所攝持故是不善者。	If the afflictions are unwholesome because they are grasped by unskillfulness,
+['T27n1545_050:0259c14_6']	此不巧便應非不善非不巧便所攝持故。	此不巧便應非不善非不巧便所攝持故。	this unskillfulness should not be unwholesome, because it is not grasped by unskillfulness.
+['T27n1545_050:0259c14_15']	不巧便者即是無知。	不巧便者即是無知。	Unskillfulness is ignorance.
+['T27n1545_050:0259c15_5']	所攝持者是相應義。	所攝持者是相應義。	Grasped means associated.
+['T27n1545_050:0259c16_5']	自體不與自體相應故不巧便應非不善。	自體不與自體相應故不巧便應非不善。	Because the substance itself is not associated with itself, unskillfulness should not be unwholesome.
+['T27n1545_050:0259c17_1']	復有欲令欲界煩惱皆是不善。	復有欲令欲界煩惱皆是不善。	There are those who want to make all afflictions in the desire realm unwholesome,
+['T27n1545_050:0259c17_14']	色無色界一切煩惱皆是無記。	色無色界一切煩惱皆是無記。	and all afflictions in the form and formless realms neutral.
+['T27n1545_050:0259c19_3']	為遮彼意顯示欲界有身見邊執見及彼相應無明亦是無記。	為遮彼意顯示欲界有身見邊執見及彼相應無明亦是無記。	To block their intention, it is shown that in the desire realm, the view of the aggregates as real self, the view of extremes, and the ignorance associated with them are also neutral.
+['T27n1545_050:0259c19_8']	復有說者。	復有說者。	There are also those who say,
+['T27n1545_050:0259c19_17']	欲現門義故作斯論。	欲現門義故作斯論。	this treatise is written to show the meaning of the gateway.
+['T27n1545_050:0259c20_11']	謂前已說何故於此先立章耶。	謂前已說何故於此先立章耶。	That is to say, it was previously said, why is this chapter established first?
+['T27n1545_050:0259c21_3']	為欲顯示諸門義故。	為欲顯示諸門義故。	In order to show the meaning of the gateways.
+['T27n1545_050:0259c21_14']	若不立章門義無由得顯。	若不立章門義無由得顯。	If the chapter gateways are not established, the meaning cannot be shown.
+['T27n1545_050:0259c22_8']	如彩畫者不能彩畫虛空。	如彩畫者不能彩畫虛空。	It is like a painter who cannot paint in empty space.
+['T27n1545_050:0259c22_17']	既立章已應顯門義。	既立章已應顯門義。	Having established the chapters, one should reveal the meaning of the gates.
+['T27n1545_050:0259c23_11']	答三結中一無記謂有身見。	答三結中一無記謂有身見。	Answer: Among the three bonds, one is indeterminate, namely the view of existence.
+['T27n1545_050:0259c24_4']	問何故有身見是無記耶。	問何故有身見是無記耶。	Question: Why is the view of existence indeterminate?
+['T27n1545_050:0259c25_4']	答若法是無慚無愧自性與無慚無愧相應。	答若法是無慚無愧自性與無慚無愧相應。	Answer: If a dharma is the intrinsic nature of shamelessness and lack of conscience, and is associated with shamelessness and lack of conscience,
+['T27n1545_050:0259c26_1']	是無慚無愧等起等流果者是不善。	是無慚無愧等起等流果者是不善。	and is the effect of the outflow of shamelessness and lack of conscience, then it is unwholesome.
+['T27n1545_050:0259c27_3']	有身見非無慚無愧自性不與無慚無愧相應。	有身見非無慚無愧自性不與無慚無愧相應。	The view of existence is not the intrinsic nature of shamelessness and lack of conscience, nor is it associated with shamelessness and lack of conscience,
+['T27n1545_050:0259c27_14']	非無慚無愧等起等流果。	非無慚無愧等起等流果。	nor is it the effect of the outflow of shamelessness and lack of conscience.
+['T27n1545_050:0259c28_1']	故是無記。	故是無記。	Therefore, it is indeterminate.
+['T27n1545_050:0259c28_14']	復次此有身見非一向壞意樂。	復次此有身見非一向壞意樂。	Furthermore, this view of existence is not entirely harmful in its intention,
+['T27n1545_050:0259c29_1']	故非不善。	故非不善。	therefore it is not unwholesome.
+['T27n1545_050:0259c29_16']	無慚無愧不相應故非一向壞意樂。	無慚無愧不相應故非一向壞意樂。	Because it is not associated with shamelessness and lack of conscience, it is not entirely harmful in its intention.
+['T27n1545_050:0260a01_8']	復次此見不違施戒修故。	復次此見不違施戒修故。	Furthermore, this view does not contradict giving, morality, and cultivation,
+['T27n1545_050:0260a01_17']	謂執我者作如是說。	謂執我者作如是說。	that is to say, those who grasp at a self make the following statement:
+['T27n1545_050:0260a02_8']	由布施故我當富樂。	由布施故我當富樂。	By giving, I shall become wealthy and happy.
+['T27n1545_050:0260a03_8']	由持戒故我當生天由修定故我當解脫。	由持戒故我當生天由修定故我當解脫。	By upholding morality, I shall be reborn in the heavens. By cultivating concentration, I shall attain liberation.
+['T27n1545_050:0260a03_13']	故是無記。	故是無記。	Therefore, it is indeterminate.
+['T27n1545_050:0260a04_6']	復次此有身見唯迷自體。	復次此有身見唯迷自體。	Furthermore, this view of the five aggregates as a real self only confuses one's own body.
+['T27n1545_050:0260a04_15']	不逼惱他故是無記。	不逼惱他故是無記。	Because it does not harm others, it is neutral.
+['T27n1545_050:0260a05_14']	謂執我者眼見色時言我見色色是我所。	謂執我者眼見色時言我見色色是我所。	That is to say, when one who grasps a self sees form with the eye, one says, I see form; form is mine.
+['T27n1545_050:0260a06_13']	廣說乃至意了法時言我了法法是我所。	廣說乃至意了法時言我了法法是我所。	Extending this explanation, when one cognizes a dharma with the mind, one says, I cognize the dharma; the dharma is mine.
+['T27n1545_050:0260a07_5']	雖於自體有此倒執。	雖於自體有此倒執。	Although there is this inverted grasping of one's own body,
+['T27n1545_050:0260a07_14']	而不惱他故是無記。	而不惱他故是無記。	it does not harm others, so it is neutral.
+['T27n1545_050:0260a08_11']	復次此有身見無異熟果故是無記。	復次此有身見無異熟果故是無記。	Furthermore, this view of the five aggregates as a real self has no ripening fruit, so it is neutral.
+['T27n1545_050:0260a09_2']	尊者世友作如是說。	尊者世友作如是說。	Venerable Vasumitra says:
+['T27n1545_050:0260a09_15']	此有身見不能發起麁身語業。	此有身見不能發起麁身語業。	This view of the five aggregates as a real self cannot give rise to coarse bodily and verbal karma.
+['T27n1545_050:0260a10_2']	故是無記。	故是無記。	Therefore it is neutral.
+['T27n1545_050:0260a11_1']	問不善煩惱亦有不能起麁身語業者。	問不善煩惱亦有不能起麁身語業者。	Question: There are also unwholesome afflictions that cannot give rise to coarse bodily and verbal karma.
+['T27n1545_050:0260a11_6']	應是無記。	應是無記。	They should be neutral.
+['T27n1545_050:0260a12_5']	答貪瞋癡慢若增盛時必能發起麁身語業。	答貪瞋癡慢若增盛時必能發起麁身語業。	Answer: When greed, hatred, delusion, and pride become rampant, they are definitely able to give rise to coarse bodily and verbal karma.
+['T27n1545_050:0260a13_4']	此有身見設增盛時亦不能起麁身語業。	此有身見設增盛時亦不能起麁身語業。	Even if this view of the five aggregates as a real self becomes rampant, it is still unable to give rise to coarse bodily and verbal karma.
+['T27n1545_050:0260a14_5']	故是無記復次此有身見不令有情墮諸惡趣。	故是無記復次此有身見不令有情墮諸惡趣。	Therefore it is indeterminate. Furthermore, this view of the aggregates as real self does not cause sentient beings to fall into evil destinies.
+['T27n1545_050:0260a14_10']	故是無記。	故是無記。	Therefore it is indeterminate.
+['T27n1545_050:0260a15_6']	問不善煩惱亦有不令墮惡趣者。	問不善煩惱亦有不令墮惡趣者。	Question: There are also unwholesome afflictions that do not cause one to fall into evil destinies.
+['T27n1545_050:0260a15_11']	應是無記。	應是無記。	They should be indeterminate.
+['T27n1545_050:0260a16_11']	答不善煩惱若增盛時必令有情墮諸惡趣。	答不善煩惱若增盛時必令有情墮諸惡趣。	Answer: If the unwholesome afflictions are rampant, they will definitely cause sentient beings to fall into evil destinies.
+['T27n1545_050:0260a17_10']	此有身見設增盛時亦終不令墮諸惡趣。	此有身見設增盛時亦終不令墮諸惡趣。	Even if this view of the aggregates as real self is rampant, it will never cause one to fall into evil destinies.
+['T27n1545_050:0260a18_7']	故是無記復次此見不能感非愛果。	故是無記復次此見不能感非愛果。	Therefore it is indeterminate. Furthermore, this view cannot bring about undesirable results.
+['T27n1545_050:0260a18_12']	故是無記。	故是無記。	Therefore it is indeterminate.
+['T27n1545_050:0260a19_4']	問此見既令後有相續。	問此見既令後有相續。	Question: Since this view causes the continuation of subsequent existence,
+['T27n1545_050:0260a19_13']	後有即是非愛果攝。	後有即是非愛果攝。	subsequent existence is included in undesirable results.
+['T27n1545_050:0260a20_4']	如何不能感非愛果。	如何不能感非愛果。	How can it not bring about undesirable results?
+['T27n1545_050:0260a20_9', 'T27n1545_050:0260a20_14']	如契經說。🔽苾芻當知。	如契經說。 苾芻當知。	As a sutra says:
+['T27n1545_050:0260a21_5']	我終不讚起後有者。	我終不讚起後有者。	Bhikṣus, you should know that I never praise the arising of subsequent existence.
+['T27n1545_050:0260a21_10']	所以者何。	所以者何。	Why is this?
+['T27n1545_050:0260a22_5']	若起後有一剎那者則為增苦。	若起後有一剎那者則為增苦。	If there is a single moment of arising of subsequent existence, it increases suffering.
+['T27n1545_050:0260a22_14']	苦者即是非愛果攝。	苦者即是非愛果攝。	Suffering is included in undesirable results.
+['T27n1545_050:0260a23_9']	答此中所說非愛果者是苦苦類。	答此中所說非愛果者是苦苦類。	The unpleasant results mentioned here are of the category of suffering as suffering.
+['T27n1545_050:0260a24_4']	契經所說非愛果者通三苦類。	契經所說非愛果者通三苦類。	The unpleasant results mentioned in the scriptures are of the three categories of suffering.
+['T27n1545_050:0260a24_13']	此有身見令有相續。	此有身見令有相續。	This view of real self exists in the realm of desire.
+['T27n1545_050:0260a25_4']	非苦苦類故不相違。	非苦苦類故不相違。	It is not of the category of suffering as suffering, so there is no contradiction.
+['T27n1545_050:0260a25_15']	復次此有身見雖起後有。	復次此有身見雖起後有。	Furthermore, although this view of real self gives rise to future existence,
+['T27n1545_050:0260a26_6']	為苦苦本說為增苦。	為苦苦本說為增苦。	it is said to increase suffering because it is the root of suffering as suffering.
+['T27n1545_050:0260a26_15']	而不與彼為異熟因。	而不與彼為異熟因。	But it is not the cause of retribution for that suffering.
+['T27n1545_050:0260a27_2']	故是無記。	故是無記。	Therefore it is indeterminate.
+['T27n1545_050:0260a27_7']	大德說曰。	大德說曰。	The Venerable One said:
+['T27n1545_050:0260a28_5']	此有身見是顛倒執是不安隱是愚癡類。	此有身見是顛倒執是不安隱是愚癡類。	This view of real self is an inverted attachment, it is not peaceful, it is of the category of delusion.
+['T27n1545_050:0260a28_10']	故是不善。	故是不善。	Therefore it is unwholesome.
+['T27n1545_050:0260a29_1']	若有身見非不善者。	若有身見非不善者。	If the view of real self were not unwholesome,
+['T27n1545_050:0260a29_10']	更有何法可名不善。	更有何法可名不善。	what other dharmas could be called unwholesome?
+['T27n1545_050:0260a29_15']	如世尊說。	如世尊說。	As the World-Honored One said:
+['T27n1545_050:0260b01_5']	乃至愚癡皆是不善。	乃至愚癡皆是不善。	Up to delusion, all are unwholesome.
+['T27n1545_050:0260b01_16']	彼說不應理非異熟因故。	彼說不應理非異熟因故。	His explanation is unreasonable because it is not a cause of retribution.
+['T27n1545_050:0260b02_15']	若有身見皆不善者色無色界應有苦苦。	若有身見皆不善者色無色界應有苦苦。	If the view of real self were all unwholesome, the form and formless realms would have suffering as suffering.
+['T27n1545_050:0260b03_10']	然世尊說乃至愚癡皆不善者。	然世尊說乃至愚癡皆不善者。	However, when the World-Honored One said that up to delusion are all unwholesome,
+['T27n1545_050:0260b04_1']	非巧便故說為不善。	非巧便故說為不善。	Because they are not skillful, they are said to be unwholesome.
+['T27n1545_050:0260b04_14']	不言能感不愛果故二應分別。	不言能感不愛果故二應分別。	It does not say because they can bring about unloved results, so the two should be distinguished.
+['T27n1545_050:0260b05_9']	謂戒禁取疑結或不善或無記。	謂戒禁取疑結或不善或無記。	The fetters of clinging to precepts and practices and doubt are either unwholesome or indeterminate.
+['T27n1545_050:0260b06_1']	問應分別者義何謂耶。	問應分別者義何謂耶。	What is the meaning of the question should be distinguished?
+['T27n1545_050:0260b06_11']	答應分析故名應分別。	答應分析故名應分別。	The answer is: because they should be analyzed, they are called should be distinguished.
+['T27n1545_050:0260b06_16']	謂後二結。	謂後二結。	That is, the latter two fetters.
+['T27n1545_050:0260b07_8']	一分是不善一分是無記。	一分是不善一分是無記。	One part is unwholesome, one part is indeterminate.
+['T27n1545_050:0260b07_13']	故應分別。	故應分別。	Therefore, they should be distinguished.
+['T27n1545_050:0260b08_3']	分別論者作如是言。	分別論者作如是言。	The Vibhajyavādins say:
+['T27n1545_050:0260b08_16']	所問二結應分別記非一向等。	所問二結應分別記非一向等。	The two fetters should be distinguished and answered, not just one way.
+['T27n1545_050:0260b09_7']	由此故言二應分別。	由此故言二應分別。	For this reason, it is said that the two should be distinguished.
+['T27n1545_050:0260b09_17']	謂彼二結欲界是不善。	謂彼二結欲界是不善。	That is, the two fetters are unwholesome in the desire realm.
+['T27n1545_050:0260b10_7']	色無色界是無記。	色無色界是無記。	They are indeterminate in the form and formless realms.
+['T27n1545_050:0260b11_3']	問何故色無色界煩惱是無記耶。	問何故色無色界煩惱是無記耶。	Why are the afflictions of the form and formless realms indeterminate?
+['T27n1545_050:0260b12_3']	答若法是無慚無愧自性與無慚無愧相應。	答若法是無慚無愧自性與無慚無愧相應。	The answer is: If a dharma is the intrinsic nature of shamelessness and lack of conscience, or is associated with shamelessness and lack of conscience,
+['T27n1545_050:0260b12_18']	是無慚無愧等起等流果者是不善。	是無慚無愧等起等流果者是不善。	is the cause and effect of shamelessness and lack of conscience, it is unwholesome.
+['T27n1545_050:0260b13_8']	色無色界煩惱不爾。	色無色界煩惱不爾。	The afflictions of the form and formless realms are not like this.
+['T27n1545_050:0260b13_13']	故是無記。	故是無記。	Therefore, they are indeterminate.
+['T27n1545_050:0260b14_9']	復次色無色界煩惱非一向壞意樂。	復次色無色界煩惱非一向壞意樂。	Moreover, the afflictions of the form and formless realms are not entirely harmful to the mind.
+['T27n1545_050:0260b14_14']	故非不善。	故非不善。	Therefore, they are not unwholesome.
+['T27n1545_050:0260b15_10']	無慚無愧不相應故非一向壞意樂。	無慚無愧不相應故非一向壞意樂。	Because they are not associated with shamelessness and lack of conscience, they are not entirely harmful to the mind.
+['T27n1545_050:0260b16_5']	復次色無色界煩惱無異熟果。	復次色無色界煩惱無異熟果。	Moreover, the afflictions of the form and formless realms have no ripening fruits.
+['T27n1545_050:0260b16_10']	故是無記。	故是無記。	Therefore, they are indeterminate.
+['T27n1545_050:0260b16_16']	問因論生論。	問因論生論。	A question arises from the discussion:
+['T27n1545_050:0260b17_10']	何故色無色界煩惱無異熟果耶。	何故色無色界煩惱無異熟果耶。	Why do the afflictions of the form and formless realms have no ripening fruits?
+['T27n1545_050:0260b18_2']	答四支五支定所伏故。	答四支五支定所伏故。	The answer is: because they are subdued by the four-branched and five-branched concentrations.
+['T27n1545_050:0260b18_15']	如毒蛇等呪術所伏不能為害。	如毒蛇等呪術所伏不能為害。	Just as poisonous snakes, etc., subdued by spells cannot harm,
+['T27n1545_050:0260b19_3']	此亦如是。	此亦如是。	this is also like that.
+['T27n1545_050:0260b19_14']	復次上界無彼異熟器故。	復次上界無彼異熟器故。	Moreover, because there is no vessel for their ripening in the upper realms.
+['T27n1545_050:0260b20_9']	若彼煩惱有異熟者應是苦受。	若彼煩惱有異熟者應是苦受。	If those afflictions had ripening, they would be painful feelings.
+['T27n1545_050:0260b21_1']	苦受必是欲界所繫。	苦受必是欲界所繫。	Painful feelings are necessarily bound to the desire realm.
+['T27n1545_050:0260b21_14']	不應上界煩惱異熟是欲界繫。	不應上界煩惱異熟是欲界繫。	The ripening of the afflictions of the upper realms should not be bound to the desire realm.
+['T27n1545_050:0260b22_4']	故彼煩惱定無異熟。	故彼煩惱定無異熟。	Therefore, those afflictions definitely have no ripening.
+['T27n1545_050:0260b22_15']	復次彼邪見等非極顛倒。	復次彼邪見等非極顛倒。	Moreover, those wrong views, etc., are not extremely inverted.
+['T27n1545_050:0260b23_6']	於分相似處所起故。	於分相似處所起故。	Because they arise in a place similar to the parts.
+['T27n1545_050:0260b23_15']	不惱他故但是無記。	不惱他故但是無記。	Because they do not harm others, they are only indeterminate.
+['T27n1545_050:0260b24_6']	謂彼邪見謗言無苦。	謂彼邪見謗言無苦。	That is, this wrong view denies the existence of suffering.
+['T27n1545_050:0260b24_15']	然上二界有相似樂。	然上二界有相似樂。	However, the two upper realms have a kind of pleasure.
+['T27n1545_050:0260b25_9']	上界見取執彼諸蘊以為第一。	上界見取執彼諸蘊以為第一。	The view of grasping at superior dharmas in the upper realms takes those aggregates as the most supreme.
+['T27n1545_050:0260b26_1']	然彼亦有相似第一。	然彼亦有相似第一。	However, they also have a kind of similarity to the most supreme.
+['T27n1545_050:0260b26_14']	彼戒禁取執彼諸蘊以為能淨。	彼戒禁取執彼諸蘊以為能淨。	The grasping at dharmas as pure takes those aggregates as able to purify.
+['T27n1545_050:0260b27_5']	然彼亦有相似能淨。	然彼亦有相似能淨。	However, they also have a kind of similarity to what is able to purify.
+['T27n1545_050:0260b27_14']	謂色界道能淨欲界。	謂色界道能淨欲界。	That is, the path of the form realm can purify the desire realm.
+['T27n1545_050:0260b28_4']	無色界道能淨色界。	無色界道能淨色界。	The path of the formless realm can purify the form realm.
+['T27n1545_050:0260b28_13']	故彼煩惱定非不善。	故彼煩惱定非不善。	Therefore, those afflictions are definitely not unwholesome.
+['T27n1545_050:0260b29_3']	尊者世友作如是說。	尊者世友作如是說。	Venerable Vasumitra said:
+['T27n1545_050:0260b29_16']	上界煩惱不能發起麁身語業。	上界煩惱不能發起麁身語業。	The afflictions of the upper realms cannot give rise to coarse bodily and verbal actions.
+['T27n1545_050:0260c01_3']	故是無記。	故是無記。	Therefore, they are indeterminate.
+['T27n1545_050:0260c02_6']	問不善煩惱亦有不能起麁身語業者應是無記。	問不善煩惱亦有不能起麁身語業者應是無記。	Question: Unwholesome afflictions that also cannot give rise to coarse bodily and verbal actions should be indeterminate.
+['T27n1545_050:0260c03_6']	答不善煩惱若增盛時必能發起麁身語業。	答不善煩惱若增盛時必能發起麁身語業。	Answer: When unwholesome afflictions increase, they are definitely able to give rise to coarse bodily and verbal actions.
+['T27n1545_050:0260c04_5']	上界煩惱設增盛時亦不能起麁身語業。	上界煩惱設增盛時亦不能起麁身語業。	Even if the afflictions of the upper realms increase, they are still unable to give rise to coarse bodily and verbal actions.
+['T27n1545_050:0260c04_10']	故是無記。	故是無記。	Therefore, they are indeterminate.
+['T27n1545_050:0260c05_7']	復次上界煩惱不令有情墮諸惡趣。	復次上界煩惱不令有情墮諸惡趣。	Moreover, the afflictions of the upper realms do not cause sentient beings to fall into evil destinies.
+['T27n1545_050:0260c05_12']	故是無記。	故是無記。	Therefore, they are indeterminate.
+['T27n1545_050:0260c06_11']	問不善煩惱亦有不令墮惡趣者應是無記。	問不善煩惱亦有不令墮惡趣者應是無記。	Question: The unwholesome afflictions also have some that do not cause one to fall into evil destinies. Should they be indeterminate?
+['T27n1545_050:0260c07_12']	答不善煩惱若增盛時必令有情墮諸惡趣。	答不善煩惱若增盛時必令有情墮諸惡趣。	Answer: If the unwholesome afflictions are intense, they will definitely cause sentient beings to fall into evil destinies.
+['T27n1545_050:0260c08_11']	上界煩惱設增盛時亦終不令墮諸惡趣。	上界煩惱設增盛時亦終不令墮諸惡趣。	Even if the afflictions of the upper realms are intense, they still will not cause one to fall into evil destinies.
+['T27n1545_050:0260c08_16']	故是無記。	故是無記。	Therefore, they are indeterminate.
+['T27n1545_050:0260c09_9']	復次彼惑不能感非愛果。	復次彼惑不能感非愛果。	Moreover, those afflictions cannot bring about unpleasant results.
+['T27n1545_050:0260c09_14']	故是無記。	故是無記。	Therefore, they are indeterminate.
+['T27n1545_050:0260c10_5']	問彼惑既令後有相續。	問彼惑既令後有相續。	Question: Since those afflictions cause subsequent existence to continue,
+['T27n1545_050:0260c10_14']	後有即是非愛果攝。	後有即是非愛果攝。	subsequent existence is included in unpleasant results.
+['T27n1545_050:0260c11_4']	如何不能感非愛果。	如何不能感非愛果。	How can they not bring about unpleasant results?
+['T27n1545_050:0260c11_9']	如契經說。	如契經說。	As a sutra says:
+['T27n1545_050:0260c11_14']	苾芻當知。	苾芻當知。	Bhikṣus, you should know that.
+['T27n1545_050:0260c12_4']	我終不讚起後有者。	我終不讚起後有者。	I never praise the arising of subsequent existence.
+['T27n1545_050:0260c12_9']	所以者何。	所以者何。	Why is this?
+['T27n1545_050:0260c13_4']	若起後有一剎那者則為增苦。	若起後有一剎那者則為增苦。	If there is a single moment of arising of subsequent existence, it increases suffering.
+['T27n1545_050:0260c13_13']	苦者即是非愛果攝。	苦者即是非愛果攝。	Suffering is included in unpleasant results.
+['T27n1545_050:0260c14_8']	答此中所說非愛果者是苦苦類。	答此中所說非愛果者是苦苦類。	The unpleasant results mentioned here are of the category of suffering as suffering.
+['T27n1545_050:0260c15_3']	契經所說非愛果者通三苦類。	契經所說非愛果者通三苦類。	The unpleasant results mentioned in the scriptures are of the three categories of suffering.
+['T27n1545_050:0260c15_12']	上界煩惱令有相續。	上界煩惱令有相續。	The afflictions of the upper realms cause the continuity of existence.
+['T27n1545_050:0260c16_3']	非苦苦類故不相違。	非苦苦類故不相違。	They are not of the category of suffering as suffering, so there is no contradiction.
+['T27n1545_050:0260c16_8']	大德說曰。	大德說曰。	The Venerable One said:
+['T27n1545_050:0260c17_6']	上界煩惱若是無記更有何法可名不善。	上界煩惱若是無記更有何法可名不善。	If the afflictions of the upper realms are neutral, what other dharmas can be called unwholesome?
+['T27n1545_050:0260c17_11']	如世尊說。	如世尊說。	As the World-Honored One said:
+['T27n1545_050:0260c18_6']	若諸煩惱能發起業皆是不善。	若諸煩惱能發起業皆是不善。	If the afflictions can give rise to karma, they are all unwholesome.
+['T27n1545_050:0260c18_11']	彼說非理。	彼說非理。	His explanation is unreasonable.
+['T27n1545_050:0260c19_1']	若彼煩惱是不善者。	若彼煩惱是不善者。	If those afflictions are unwholesome,
+['T27n1545_050:0260c19_10']	色無色界應有苦苦。	色無色界應有苦苦。	the form and formless realms should have the suffering of suffering.
+['T27n1545_050:0260c20_8']	然世尊說若諸煩惱能發起業皆不善者。	然世尊說若諸煩惱能發起業皆不善者。	However, the World-Honored One said that if the afflictions can give rise to karma, they are all unwholesome.
+['T27n1545_050:0260c20_17']	依惡業說故不相違。	依惡業說故不相違。	Because it is said based on evil karma, there is no contradiction.
+['T27n1545_050:0260c21_7']	三不善根唯不善。	三不善根唯不善。	The three unwholesome roots are only unwholesome.
+['T27n1545_050:0260c21_15']	以彼自性是不善。	以彼自性是不善。	Because their intrinsic nature is unwholesome.
+['T27n1545_050:0260c22_6']	復與一切不善法為因。	復與一切不善法為因。	And they are the cause of all unwholesome dharmas.
+['T27n1545_050:0260c23_14']	為本為道路為由序為能作為生為緣為有為集為等起故。	為本為道路為由序為能作為生為緣為有為集為等起故。	They are the root, the path, the cause, the condition, the origin, the accumulation, and the arising.
+['T27n1545_050:0260c24_7']	三漏中一無記謂有漏。	三漏中一無記謂有漏。	Among the three contaminations, one is neutral, namely the contamination of existence.
+['T27n1545_050:0260c24_16']	由上所說諸因緣故。	由上所說諸因緣故。	For the reasons explained above,
+['T27n1545_050:0260c25_10']	色無色界一切煩惱皆是無記。	色無色界一切煩惱皆是無記。	all afflictions in the form and formless realms are neutral.
+['T27n1545_050:0260c25_15']	二應分別。	二應分別。	Two should be distinguished.
+['T27n1545_050:0260c26_6']	謂欲漏或不善或無記。	謂欲漏或不善或無記。	That is, the contamination of desire is either unwholesome or neutral.
+['T27n1545_050:0260c26_18']	無慚無愧及彼相應是不善。	無慚無愧及彼相應是不善。	Lack of conscience and lack of shame, and what is associated with them, is unwholesome.
+['T27n1545_050:0260c27_13', 'T27n1545_050:0260c28_1']	無慚無愧者顯彼自性唯是不善。🔽及彼相應者。	無慚無愧者顯彼自性唯是不善。 及彼相應者。	Lack of conscience and lack of shame shows that their intrinsic nature is only unwholesome.
+['T27n1545_050:0260c28_18']	顯欲漏中三十四事及三少分亦是不善。	顯欲漏中三十四事及三少分亦是不善。	And what is associated with them shows that thirty-four things in the contamination of desire and three small parts are also unwholesome.
+['T27n1545_050:0260c29_4']	三少分者。	三少分者。	The three small parts refer to
+['T27n1545_050:0260c29_17']	謂彼相應惛沈睡眠掉舉少分。	謂彼相應惛沈睡眠掉舉少分。	the small parts of torpor, sleep, and restlessness that are associated with them.
+['T27n1545_050:0261a01_3']	餘是無記。	餘是無記。	The rest is neutral.
+['T27n1545_050:0261a02_3']	謂欲漏中有身見邊執見及三少分皆是無記。	謂欲漏中有身見邊執見及三少分皆是無記。	That is, in the contamination of desire, the views of self and extreme views, and three small parts, are all neutral.
+['T27n1545_050:0261a02_8']	三少分者。	三少分者。	The three small parts refer to
+['T27n1545_050:0261a03_7']	謂有身見邊執見相應惛沈睡眠掉舉少分。	謂有身見邊執見相應惛沈睡眠掉舉少分。	Namely, the torpor, sleep, and a part of restlessness associated with the views of clinging to false views and extreme views.
+['T27n1545_050:0261a04_6']	如是五法無慚無愧不相應故皆非不善。	如是五法無慚無愧不相應故皆非不善。	These five dharmas are not unwholesome because they are not associated with shamelessness and disregard.
+['T27n1545_050:0261a04_16']	問無慚不與無慚相應。	問無慚不與無慚相應。	Question: Shame is not associated with shame,
+['T27n1545_050:0261a05_7']	無愧不與無愧相應。	無愧不與無愧相應。	and disregard is not associated with disregard.
+['T27n1545_050:0261a05_12']	豈是無記。	豈是無記。	How can they be indeterminate?
+['T27n1545_050:0261a06_5']	答無慚雖不與無慚相應。	答無慚雖不與無慚相應。	Answer: Although shame is not associated with shame,
+['T27n1545_050:0261a06_12']	而與無愧相應。	而與無愧相應。	it is associated with disregard.
+['T27n1545_050:0261a07_5']	無愧雖不與無愧相應。	無愧雖不與無愧相應。	Although disregard is not associated with disregard,
+['T27n1545_050:0261a07_12']	而與無慚相應。	而與無慚相應。	it is associated with shame.
+['T27n1545_050:0261a08_5']	俱不相應者方是無記故。	俱不相應者方是無記故。	Only those that are not associated with either are indeterminate.
+['T27n1545_050:0261a08_15']	無明漏或不善或無記。	無明漏或不善或無記。	The flood of ignorance is either unwholesome or indeterminate.
+['T27n1545_050:0261a09_6']	無慚無愧相應是不善。	無慚無愧相應是不善。	That associated with shamelessness and disregard is unwholesome.
+['T27n1545_050:0261a10_6']	謂欲界見集滅道及修所斷無明唯是不善。	謂欲界見集滅道及修所斷無明唯是不善。	That is, the ignorance eliminated by seeing the origin, cessation, and path in the desire realm, and that eliminated by cultivation, are only unwholesome.
+['T27n1545_050:0261a11_9']	見苦所斷三見疑慢貪瞋相應及不共無明亦是不善。	見苦所斷三見疑慢貪瞋相應及不共無明亦是不善。	The three views eliminated by seeing suffering, doubt, pride, craving, and hatred associated with ignorance, as well as the independent ignorance, are also unwholesome.
+['T27n1545_050:0261a11_14']	餘是無記。	餘是無記。	The rest are indeterminate.
+['T27n1545_050:0261a12_12']	謂欲界二見相應及色無色界一切無明。	謂欲界二見相應及色無色界一切無明。	That is, the two views associated with desire realm, and all ignorance in form and formless realms.
+['T27n1545_050:0261a13_6']	無慚無愧不相應故皆是無記。	無慚無愧不相應故皆是無記。	Because they are not associated with shamelessness and disregard, they are all indeterminate.
+['T27n1545_050:0261a14_5']	問何故十纏中唯說與無慚無愧相應耶。	問何故十纏中唯說與無慚無愧相應耶。	Why are only the ten entanglements said to be associated with shamelessness and disregard?
+['T27n1545_050:0261a14_15']	答是作論者意欲爾故。	答是作論者意欲爾故。	The answer is: This is because the author of the treatise wishes it to be so.
+['T27n1545_050:0261a15_13']	謂作論者隨欲造論不違法相故不應責。	謂作論者隨欲造論不違法相故不應責。	That is, the author of the treatise composes the treatise according to his wishes without contradicting the characteristics of dharmas, so one should not question it.
+['T27n1545_050:0261a16_14']	復次此二唯是不善遍與一切不善心相應。	復次此二唯是不善遍與一切不善心相應。	Furthermore, these two are only unwholesome and universally associated with all unwholesome minds.
+['T27n1545_050:0261a17_1']	是故偏說。	是故偏說。	Therefore, they are mentioned specifically.
+['T27n1545_050:0261a17_11']	忿覆嫉慳雖唯是不善。	忿覆嫉慳雖唯是不善。	Although anger, concealment, jealousy, and stinginess are only unwholesome,
+['T27n1545_050:0261a18_4']	而不遍與一切不善心相應。	而不遍與一切不善心相應。	they are not universally associated with all unwholesome minds.
+['T27n1545_050:0261a19_2']	惛沈掉舉雖遍與一切不善心相應。	惛沈掉舉雖遍與一切不善心相應。	Although torpor and restlessness are universally associated with all unwholesome minds,
+['T27n1545_050:0261a19_9']	而非唯是不善。	而非唯是不善。	they are not only unwholesome.
+['T27n1545_050:0261a19_18']	睡眠惡作二義俱無。	睡眠惡作二義俱無。	Sleep and worry lack both meanings.
+['T27n1545_050:0261a20_11']	是故不說隨眠與垢准此應知。	是故不說隨眠與垢准此應知。	Therefore, they are not mentioned. The latent afflictions and defilements should be understood in the same way.
+['T27n1545_050:0261a21_11']	無慚無愧二義俱有與不善義多少量等。	無慚無愧二義俱有與不善義多少量等。	Shamelessness and disregard have both meanings and their quantity is equal to the unwholesome meaning.
+['T27n1545_050:0261a22_5']	如函蓋相稱故偏說相應。	如函蓋相稱故偏說相應。	Therefore, it is said that they are associated.
+['T27n1545_050:0261a22_13']	四瀑流中一無記。	四瀑流中一無記。	Among the four floods, one is indeterminate,
+['T27n1545_050:0261a23_4']	謂有瀑流義如前說。	謂有瀑流義如前說。	namely the flood of existence. The meaning is as explained above.
+['T27n1545_050:0261a23_9']	三應分別。	三應分別。	Three should be distinguished.
+['T27n1545_050:0261a24_12']	謂欲瀑流或不善或無記無慚無愧及彼相應是不善。	謂欲瀑流或不善或無記無慚無愧及彼相應是不善。	Namely, the flood of desire is either unwholesome or indeterminate. Shamelessness and lack of conscience, and what is associated with them, are unwholesome.
+['T27n1545_050:0261a25_8']	無慚無愧者顯彼自性唯是不善。	無慚無愧者顯彼自性唯是不善。	Shamelessness and lack of conscience show that their intrinsic nature is only unwholesome.
+['T27n1545_050:0261a26_9']	及彼相應者顯欲瀑流中二十四事及三少分。	及彼相應者顯欲瀑流中二十四事及三少分。	What is associated with them shows that among the twenty-four factors of the flood of desire and three parts,
+['T27n1545_050:0261a26_14']	亦是不善。	亦是不善。	they are also unwholesome.
+['T27n1545_050:0261a26_19']	三少分者。	三少分者。	The three parts
+['T27n1545_050:0261a27_12']	謂彼相應惛沈睡眠掉舉少分。	謂彼相應惛沈睡眠掉舉少分。	refer to the parts of torpor, sleep, and restlessness that are associated with them.
+['T27n1545_050:0261a27_17']	餘是無記。	餘是無記。	The rest are indeterminate.
+['T27n1545_050:0261a29_16']	謂欲瀑流中與有身見邊執見相應惛沈睡眠掉舉少分無慚無愧不相應故皆是無記。	謂欲瀑流中與有身見邊執見相應惛沈睡眠掉舉少分無慚無愧不相應故皆是無記。	Namely, among the flood of desire, the parts of torpor, sleep, and restlessness associated with the views of attachment to existence and extreme views, and what is not associated with shamelessness and lack of conscience, are all indeterminate.
+['T27n1545_050:0261b01_8']	見瀑流或不善或無記。	見瀑流或不善或無記。	The flood of views is either unwholesome or indeterminate.
+['T27n1545_050:0261b01_16']	欲界三見是不善。	欲界三見是不善。	The three views in the desire realm are unwholesome,
+['T27n1545_050:0261b02_13']	謂邪見見取戒禁取無慚無愧相應故。	謂邪見見取戒禁取無慚無愧相應故。	namely wrong views, attachment to views, and attachment to precepts and vows, because they are associated with shamelessness and lack of conscience.
+['T27n1545_050:0261b03_9']	欲界二見色無色界五見是無記。	欲界二見色無色界五見是無記。	The two views in the desire realm and the five views in the form and formless realms are indeterminate.
+['T27n1545_050:0261b03_18']	無慚無愧不相應故。	無慚無愧不相應故。	Because they are not associated with shamelessness and disregard.
+['T27n1545_050:0261b04_10']	無明瀑流或不善或無記。	無明瀑流或不善或無記。	The flood of ignorance is either unwholesome or indeterminate.
+['T27n1545_050:0261b05_2']	無慚無愧相應是不善。	無慚無愧相應是不善。	That associated with shamelessness and disregard is unwholesome.
+['T27n1545_050:0261b06_2']	謂欲界見集滅道及修所斷無明唯是不善。	謂欲界見集滅道及修所斷無明唯是不善。	That is, the ignorance eliminated by the path of seeing the truth of origination, cessation, and path, and that eliminated by cultivation in the desire realm, are only unwholesome.
+['T27n1545_050:0261b07_6']	見苦所斷三見疑慢貪瞋相應及不共無明亦是不善。	見苦所斷三見疑慢貪瞋相應及不共無明亦是不善。	The three views eliminated by the path of seeing the truth of suffering, doubt, pride, craving, and hatred associated with ignorance not shared by others, are also unwholesome.
+['T27n1545_050:0261b07_11']	餘是無記。	餘是無記。	The rest are indeterminate.
+['T27n1545_050:0261b08_9']	謂欲界二見相應及色無色界一切無明。	謂欲界二見相應及色無色界一切無明。	That is, the views associated with the two views in the desire realm and all ignorance in the form and formless realms.
+['T27n1545_050:0261b09_4']	無慚無愧不相應故皆是無記。	無慚無愧不相應故皆是無記。	Because they are not associated with shamelessness and disregard, they are all indeterminate.
+['T27n1545_050:0261b09_13']	如四瀑流四軛亦爾。	如四瀑流四軛亦爾。	The four floods and four yokes are also like this.
+['T27n1545_050:0261b10_4']	瀑流與軛名體等故。	瀑流與軛名體等故。	Because the names and meanings of the floods and yokes are the same.
+['T27n1545_050:0261b10_15']	四取中一無記謂我語取。	四取中一無記謂我語取。	One of the four graspings is indeterminate, namely the grasping of views about the self.
+['T27n1545_050:0261b11_1']	義如前說。	義如前說。	The meaning is as explained above.
+['T27n1545_050:0261b11_6']	三應分別。	三應分別。	Three should be distinguished.
+['T27n1545_050:0261b11_16']	謂欲取或不善或無記。	謂欲取或不善或無記。	That is, the grasping of desire is either unwholesome or indeterminate.
+['T27n1545_050:0261b12_8']	無慚無愧及彼相應是不善。	無慚無愧及彼相應是不善。	That associated with shamelessness and disregard is unwholesome.
+['T27n1545_050:0261b13_4']	無慚無愧者顯彼自性唯是不善。	無慚無愧者顯彼自性唯是不善。	The phrase “shamelessness and lack of conscience” indicates that their intrinsic natures are only unwholesome.
+['T27n1545_050:0261b14_8']	及彼相應者顯欲取中二十八事及四少分亦是不善。	及彼相應者顯欲取中二十八事及四少分亦是不善。	The phrase “and that which is associated with them” indicates that the twenty-eight things in the grasping of desire and four parts are also unwholesome.
+['T27n1545_050:0261b15_9']	四少分者謂彼相應惛沈睡眠掉舉無明少分。	四少分者謂彼相應惛沈睡眠掉舉無明少分。	The four parts are the parts of torpor, sleep, agitation, and ignorance that are associated with them.
+['T27n1545_050:0261b15_14']	餘是無記。	餘是無記。	The rest are indeterminate.
+['T27n1545_050:0261b17_2']	謂欲取中與有身見邊執見相應惛沈睡眠掉舉無明少分。	謂欲取中與有身見邊執見相應惛沈睡眠掉舉無明少分。	That is, in the grasping of desire, the parts of torpor, sleep, agitation, and ignorance that are associated with the view of the aggregates as a self and with the view of grasping an extreme are indeterminate.
+['T27n1545_050:0261b17_15']	無慚無愧不相應故皆是無記。	無慚無愧不相應故皆是無記。	Because they are not associated with shamelessness and lack of conscience, they are all indeterminate.
+['T27n1545_050:0261b18_5']	見取或不善或無記。	見取或不善或無記。	The grasping of views is either unwholesome or indeterminate.
+['T27n1545_050:0261b18_18']	欲界二見是不善謂邪見見取。	欲界二見是不善謂邪見見取。	The two views in the realm of desire are unwholesome, namely, wrong views and the grasping of views.
+['T27n1545_050:0261b19_13']	欲界二見色無色界四見是無記。	欲界二見色無色界四見是無記。	The two views in the realm of desire and the four views in the realms of form and of non-form are indeterminate.
+['T27n1545_050:0261b20_8']	欲界二見者謂有身見邊執見。	欲界二見者謂有身見邊執見。	The two views in the realm of desire are the view of the aggregates as a self and the view of grasping an extreme.
+['T27n1545_050:0261b20_16']	色無色界四見者。	色無色界四見者。	The four views in the realms of form and of non-form are
+['T27n1545_050:0261b21_6']	謂五見中除戒禁取。	謂五見中除戒禁取。	among the five views, excluding the grasping of rites and austerities.
+['T27n1545_050:0261b21_16']	戒禁取或不善或無記。	戒禁取或不善或無記。	The grasping of rites and austerities is either unwholesome or indeterminate.
+['T27n1545_050:0261b22_3']	欲界是不善。	欲界是不善。	In the realm of desire it is unwholesome.
+['T27n1545_050:0261b22_11']	無慚無愧相應故。	無慚無愧相應故。	Because they are associated with shamelessness and disregard.
+['T27n1545_050:0261b22_19']	色無色界是無記。	色無色界是無記。	In the form and formless realms, they are neutral.
+['T27n1545_050:0261b23_8', 'T27n1545_050:0261b23_16']	無慚無愧不相應故。🔽四身繫中二不善。	無慚無愧不相應故。 四身繫中二不善。	Because they are not associated with shamelessness and disregard.
+['T27n1545_050:0261b24_3']	謂貪欲瞋恚。	謂貪欲瞋恚。	Among the four bodily ties, two are unwholesome, namely covetousness and ill-will.
+['T27n1545_050:0261b24_8']	二應分別。	二應分別。	Two should be distinguished.
+['T27n1545_050:0261b25_4']	謂戒禁取此實執身繫欲界是不善。	謂戒禁取此實執身繫欲界是不善。	Namely, the bodily tie of clinging to precepts and vows. In the desire realm, it is unwholesome.
+['T27n1545_050:0261b25_12']	無慚無愧相應故。	無慚無愧相應故。	Because it is associated with shamelessness and disregard.
+['T27n1545_050:0261b26_1']	色無色界是無記。	色無色界是無記。	In the form and formless realms, it is neutral.
+['T27n1545_050:0261b26_10']	無慚無愧不相應故。	無慚無愧不相應故。	Because it is not associated with shamelessness and disregard.
+['T27n1545_050:0261b26_16']	五蓋唯不善。	五蓋唯不善。	The five hindrances are only unwholesome.
+['T27n1545_050:0261b27_6', 'T27n1545_050:0261b27_13']	皆與無慚無愧相應故。🔽五結中三不善。	皆與無慚無愧相應故。 五結中三不善。	Because they are all associated with shamelessness and disregard.
+['T27n1545_050:0261b28_1']	謂瞋嫉慳結。	謂瞋嫉慳結。	Among the five bonds, three are unwholesome, namely ill-will, envy, and stinginess.
+['T27n1545_050:0261b28_6']	二應分別。	二應分別。	Two should be distinguished.
+['T27n1545_050:0261b28_17']	謂貪慢結或不善或無記。	謂貪慢結或不善或無記。	Namely, the bonds of craving and conceit are either unwholesome or neutral.
+['T27n1545_050:0261b29_3']	欲界是不善。	欲界是不善。	In the desire realm, they are unwholesome.
+['T27n1545_050:0261b29_11']	無慚無愧相應故。	無慚無愧相應故。	Because they are associated with shamelessness and disregard.
+['T27n1545_050:0261b29_19']	色無色界是無記。	色無色界是無記。	In the form and formless realms, they are neutral.
+['T27n1545_050:0261c01_8']	無慚無愧不相應故。	無慚無愧不相應故。	Because they are not associated with shamelessness and disregard.
+['T27n1545_050:0261c01_15']	五順下分結中。	五順下分結中。	Among the five lower bonds,
+['T27n1545_050:0261c01_19']	二不善。	二不善。	two are unwholesome.
+['T27n1545_050:0261c02_12']	謂貪欲瞋恚一無記謂有身見。	謂貪欲瞋恚一無記謂有身見。	Namely, greed and hatred. One indeterminate one is the view of self-existence.
+['T27n1545_050:0261c02_17']	二應分別。	二應分別。	Two should be distinguished.
+['T27n1545_050:0261c03_11']	謂戒禁取疑結或不善或無記。	謂戒禁取疑結或不善或無記。	Namely, the fetters of clinging to precepts and rituals and doubt are either unwholesome or indeterminate.
+['T27n1545_050:0261c03_17']	欲界是不善。	欲界是不善。	The desire realm is unwholesome.
+['T27n1545_050:0261c04_6']	色無色界是無記。	色無色界是無記。	The form and formless realms are indeterminate.
+['T27n1545_050:0261c04_15']	五順上分結唯無記。	五順上分結唯無記。	The five higher fetters are only indeterminate.
+['T27n1545_050:0261c05_5']	無慚無愧不相應故。	無慚無愧不相應故。	Because they are not associated with shamelessness and lack of conscience.
+['T27n1545_050:0261c05_12']	五見中二無記。	五見中二無記。	Among the five views, two are indeterminate.
+['T27n1545_050:0261c06_1']	謂有身見邊執見。	謂有身見邊執見。	Namely, the view of self-existence and the view of grasping extremes.
+['T27n1545_050:0261c06_6']	三應分別。	三應分別。	Three should be distinguished.
+['T27n1545_050:0261c06_15']	謂邪見見取戒禁取。	謂邪見見取戒禁取。	Namely, wrong views, attachment to views, and attachment to precepts and rituals.
+['T27n1545_050:0261c07_2']	或不善或無記。	或不善或無記。	Either unwholesome or indeterminate.
+['T27n1545_050:0261c07_8']	欲界是不善。	欲界是不善。	The desire realm is unwholesome.
+['T27n1545_050:0261c07_16']	色無色界是無記。	色無色界是無記。	The form and formless realms are indeterminate.
+['T27n1545_050:0261c08_4']	六愛身中二不善。	六愛身中二不善。	Among the six bases of craving, two are unwholesome.
+['T27n1545_050:0261c08_13']	謂鼻舌觸所生愛身。	謂鼻舌觸所生愛身。	Namely, the bases of craving born from nose and tongue contact.
+['T27n1545_050:0261c08_18']	四應分別。	四應分別。	Four should be distinguished.
+['T27n1545_050:0261c09_8']	謂眼耳身觸所生愛身。	謂眼耳身觸所生愛身。	Namely, the bases of craving born from eye, ear, and body contact.
+['T27n1545_050:0261c09_15']	或不善或無記。	或不善或無記。	Either unwholesome or indeterminate.
+['T27n1545_050:0261c10_2']	欲界是不善。	欲界是不善。	The desire realm is unwholesome.
+['T27n1545_050:0261c10_8']	梵世是無記。	梵世是無記。	The Brahma world is indeterminate.
+['T27n1545_050:0261c11_7']	意觸所生愛身或不善或無記欲界是不善。	意觸所生愛身或不善或無記欲界是不善。	The love-body born from contact with the mind may be unwholesome or indeterminate. In the desire realm, it is unwholesome.
+['T27n1545_050:0261c11_15', 'T27n1545_050:0261c12_4']	色無色界是無記。🔽七隨眠中二不善。	色無色界是無記。 七隨眠中二不善。	In the form and formless realms, it is indeterminate.
+['T27n1545_050:0261c12_12']	謂欲貪瞋恚隨眠。	謂欲貪瞋恚隨眠。	Among the seven latent afflictions, two are unwholesome, namely the latent afflictions of craving for desire and ill-will.
+['T27n1545_050:0261c13_2']	一無記謂有貪隨眠。	一無記謂有貪隨眠。	One is indeterminate, namely the latent affliction of craving for existence.
+['T27n1545_050:0261c13_7']	四應分別。	四應分別。	Four should be distinguished.
+['T27n1545_050:0261c13_13']	謂慢疑隨眠。	謂慢疑隨眠。	Namely, the latent afflictions of pride and doubt.
+['T27n1545_050:0261c14_1']	或不善或無記。	或不善或無記。	They may be unwholesome or indeterminate.
+['T27n1545_050:0261c14_7']	欲界是不善。	欲界是不善。	In the desire realm, they are unwholesome.
+['T27n1545_050:0261c14_15']	色無色界是無記。	色無色界是無記。	In the form and formless realms, they are indeterminate.
+['T27n1545_050:0261c15_6']	無明隨眠或不善或無記。	無明隨眠或不善或無記。	The latent affliction of ignorance may be unwholesome or indeterminate.
+['T27n1545_050:0261c15_16']	無慚無愧相應是不善。	無慚無愧相應是不善。	That associated with shamelessness and lack of conscience is unwholesome.
+['T27n1545_050:0261c16_11']	謂欲界見集滅道及修所斷無明。	謂欲界見集滅道及修所斷無明。	Namely, ignorance abandoned by seeing the truths of origination, cessation, and the path, and by cultivation in the desire realm.
+['T27n1545_050:0261c17_8']	見苦所斷有身見邊執見不相應無明。	見苦所斷有身見邊執見不相應無明。	The ignorance not associated with the afflicted view of self and extreme view abandoned by seeing the truth of suffering.
+['T27n1545_050:0261c17_13']	餘是無記。	餘是無記。	The rest are indeterminate.
+['T27n1545_050:0261c18_17']	謂欲界有身見邊執見相應無明及色無色界一切無明。	謂欲界有身見邊執見相應無明及色無色界一切無明。	Namely, the ignorance associated with the afflicted views of self and extreme views in the desire realm, and all ignorance in the form and formless realms.
+['T27n1545_050:0261c19_9']	見隨眠或不善或無記。	見隨眠或不善或無記。	The latent afflictions of views may be unwholesome or indeterminate.
+['T27n1545_050:0261c19_17']	欲界三見是不善。	欲界三見是不善。	The three views in the desire realm are unwholesome.
+['T27n1545_050:0261c20_7']	謂邪見見取戒禁取。	謂邪見見取戒禁取。	Namely, wrong view, view of holding a view as paramount, and view of holding morality and asceticism as paramount.
+['T27n1545_050:0261c21_3']	欲界二見色無色界五見是無記。	欲界二見色無色界五見是無記。	The two views in the desire realm and the five views in the form and formless realms are indeterminate.
+['T27n1545_050:0261c21_15']	九結中三不善謂恚嫉慳結。	九結中三不善謂恚嫉慳結。	Among the nine fetters, three are unwholesome, namely, the fetters of anger, jealousy, and stinginess.
+['T27n1545_050:0261c23_1']	六應分別謂愛慢取疑結或不善或無記欲界是不善。	六應分別謂愛慢取疑結或不善或無記欲界是不善。	Six should be distinguished: the fetters of craving, pride, grasping, and doubt may be either unwholesome or indeterminate. In the desire realm, they are unwholesome.
+['T27n1545_050:0261c23_9']	色無色界是無記。	色無色界是無記。	In the form and formless realms, they are indeterminate.
+['T27n1545_050:0261c23_19']	無明結或不善或無記。	無明結或不善或無記。	The fetter of ignorance may be either unwholesome or indeterminate.
+['T27n1545_050:0261c24_9']	無慚無愧相應是不善。	無慚無愧相應是不善。	That associated with shamelessness and disregard is unwholesome.
+['T27n1545_050:0261c24_14']	餘是無記。	餘是無記。	The rest are indeterminate.
+['T27n1545_050:0261c24_19']	義如前說。	義如前說。	The meaning is as explained above.
+['T27n1545_050:0261c25_8']	見結或不善或無記。	見結或不善或無記。	The fetter of views may be either unwholesome or indeterminate.
+['T27n1545_050:0261c26_1']	欲界一見是不善謂邪見。	欲界一見是不善謂邪見。	One view in the desire realm is unwholesome, namely, wrong view.
+['T27n1545_050:0261c26_13']	欲界二見謂有身見邊執見。	欲界二見謂有身見邊執見。	Two views in the desire realm, namely, the view of the aggregates as real self and extreme views,
+['T27n1545_050:0261c27_4']	色無色界三見是無記。	色無色界三見是無記。	and three views in the form and formless realms are indeterminate.
+['T27n1545_050:0261c27_16']	九十八隨眠中三十三不善。	九十八隨眠中三十三不善。	Among the ninety-eight latent afflictions, thirty-three are unwholesome.
+['T27n1545_050:0261c28_3']	六十四無記。	六十四無記。	Sixty-four are indeterminate.
+['T27n1545_050:0261c28_8']	一應分別。	一應分別。	One should be distinguished.
+['T27n1545_050:0261c29_7']	謂欲界見苦所斷無明隨眠或不善或無記。	謂欲界見苦所斷無明隨眠或不善或無記。	Namely, the latent afflictions eliminated by seeing suffering in the desire realm, which may be either unwholesome or indeterminate.
+['T27n1545_050:0261c29_17']	無慚無愧相應是不善。	無慚無愧相應是不善。	Those associated with shamelessness and disregard are unwholesome.
+['T27n1545_050:0262a01_11']	謂有身見邊執見不相應無明。	謂有身見邊執見不相應無明。	Namely, ignorance not associated with the view of self and extreme views.
+['T27n1545_050:0262a01_16']	餘是無記。	餘是無記。	The rest are indeterminate.
+['T27n1545_050:0262a02_9']	謂有身見邊執見相應無明。	謂有身見邊執見相應無明。	Namely, ignorance associated with the view of self and extreme views.🔽Here is the corrected and aligned text:
+['T27n1545_050:0262a03_100']	說一切有部發智大毘婆沙論卷第五十	說一切有部發智大毘婆沙論卷第五十	Abhidharma-mahāvibhāṣā-śāstra, fascicle 50

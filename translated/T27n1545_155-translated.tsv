@@ -1,0 +1,861 @@
+segmentnr	original	analyzed	translated
+['T27n1545_155:0786c07_0']	阿毘達磨大毘婆沙論卷第一百	阿毘達磨大毘婆沙論卷第一百	Abhidharma-mahāvibhāṣā-śāstra, fascicle 100
+['T27n1545_155:0786c08_0']	五十五	五十五	fifty-five
+['T27n1545_155:0786c10_0']	五百大阿羅漢等造	五百大阿羅漢等造	composed by five hundred great arhats and others
+['T27n1545_155:0786c13_7']	三藏法師玄奘奉　詔譯5根蘊第六中等心納息第四之五欲界歿生欲界時。	三藏法師玄奘奉　詔譯5根蘊第六中等心納息第四之五欲界歿生欲界時。	tripiṭaka master Xuanzang respectfully received
+['T27n1545_155:0786c13_11']	幾根滅。	幾根滅。	how many faculties cease,
+['T27n1545_155:0786c13_16']	乃至廣說。	乃至廣說。	and so on, in detail.
+['T27n1545_155:0786c14_6']	此中顯示多門差別。	此中顯示多門差別。	This shows the distinctions of many approaches.
+['T27n1545_155:0786c14_11', 'T27n1545_155:0786c14_18']	謂界差別。🔽補特伽羅差別。	謂界差別。 補特伽羅差別。	Namely, the distinctions of realms,🔽the distinctions of individuals,
+['T27n1545_155:0786c15_2']	根差別。	根差別。	the distinctions of faculties,
+['T27n1545_155:0786c15_7']	死有差別。	死有差別。	the distinctions of the death existence,
+['T27n1545_155:0786c15_12']	中有差別。	中有差別。	the distinctions of the intermediate existence,
+['T27n1545_155:0786c15_17', 'T27n1545_155:0786c16_2']	生有差別。🔽漸命終差別。	生有差別。 漸命終差別。	the distinctions of the birth existence,🔽the distinctions of gradual death,
+['T27n1545_155:0786c16_8']	頓命終差別。	頓命終差別。	and the distinctions of sudden death.
+['T27n1545_155:0786c16_16']	欲界歿生欲界時。	欲界歿生欲界時。	When dying in the desire realm and being reborn in the desire realm,
+['T27n1545_155:0786c17_1']	幾根滅。	幾根滅。	how many faculties cease?
+['T27n1545_155:0786c17_5']	答或四。	答或四。	The answer is: either four,
+['T27n1545_155:0786c17_8']	或九。	或九。	or nine,
+['T27n1545_155:0786c17_11']	或八。	或八。	or eight,
+['T27n1545_155:0786c17_15']	或十三。	或十三。	or thirteen,
+['T27n1545_155:0786c17_18']	或九。	或九。	or nine,
+['T27n1545_155:0786c17_22']	或十四。	或十四。	or fourteen,
+['T27n1545_155:0786c18_2']	或十。	或十。	or ten,
+['T27n1545_155:0786c18_6']	或十五。	或十五。	or fifteen.
+['T27n1545_155:0786c18_11']	漸命終者。	漸命終者。	For one who dies gradually,
+['T27n1545_155:0786c18_16']	無記心四。	無記心四。	with an indeterminate mind, four,
+['T27n1545_155:0786c19_1']	謂身命意捨。	謂身命意捨。	namely body, life, mind, and indifference.
+['T27n1545_155:0786c19_5']	善心九。	善心九。	With a wholesome mind, nine,
+['T27n1545_155:0786c19_13']	謂前四加信等五。	謂前四加信等五。	namely the previous four plus the five beginning with faith.
+['T27n1545_155:0786c19_18']	頓命終者。	頓命終者。	For one who dies suddenly,
+['T27n1545_155:0786c20_6']	若無形無記心八。	若無形無記心八。	If it is a formless neutral mind, there are eight.
+['T27n1545_155:0786c20_17']	謂眼耳鼻舌身命意捨根。	謂眼耳鼻舌身命意捨根。	Namely, the faculties of eye, ear, nose, tongue, body, life, mind, and equanimity.
+['T27n1545_155:0786c21_3']	善心十三。	善心十三。	If it is a wholesome mind, there are thirteen.
+['T27n1545_155:0786c21_11']	謂前八加信等五。	謂前八加信等五。	Namely, the previous eight plus the five beginning with faith.
+['T27n1545_155:0786c21_19']	若一形無記心九。	若一形無記心九。	If it is a one-sex neutral mind, there are nine.
+['T27n1545_155:0786c22_6']	謂前八加一形。	謂前八加一形。	Namely, the previous eight plus one sex.
+['T27n1545_155:0786c22_11']	善心十四。	善心十四。	If it is a wholesome mind, there are fourteen.
+['T27n1545_155:0786c23_1']	謂前九加信等五。	謂前九加信等五。	Namely, the previous nine plus the five beginning with faith.
+['T27n1545_155:0786c23_10']	若二形者無記心十。	若二形者無記心十。	If it is a two-sex neutral mind, there are ten.
+['T27n1545_155:0786c23_18']	謂前九復加一形。	謂前九復加一形。	Namely, the previous nine plus one sex.
+['T27n1545_155:0786c24_3']	善心十五。	善心十五。	If it is a wholesome mind, there are fifteen.
+['T27n1545_155:0786c24_11']	謂前十加信等五。	謂前十加信等五。	Namely, the previous ten plus the five beginning with faith.
+['T27n1545_155:0786c24_18']	何繫心心所滅。	何繫心心所滅。	To which realm do the minds and mental factors that cease belong?
+['T27n1545_155:0786c25_3']	答欲界繫。	答欲界繫。	The answer is: They belong to the desire realm.
+['T27n1545_155:0786c25_8']	幾根現前。	幾根現前。	How many faculties are present?
+['T27n1545_155:0786c25_12']	答或八。	答或八。	The answer is: Either eight,
+['T27n1545_155:0786c25_15']	或九。	或九。	or nine,
+['T27n1545_155:0786c25_18']	或十。	或十。	or ten.
+['T27n1545_155:0786c26_1']	無形八。	無形八。	Those without sex have eight.
+['T27n1545_155:0786c26_12']	謂眼耳鼻舌身命意捨根。	謂眼耳鼻舌身命意捨根。	Namely, the faculties of eye, ear, nose, tongue, body, life, mind, and equanimity.
+['T27n1545_155:0786c26_16']	一形九。	一形九。	Those with one sex have nine.
+['T27n1545_155:0786c27_3']	謂前八加一形。	謂前八加一形。	Namely, the previous eight plus one sex.
+['T27n1545_155:0786c27_7']	二形十。	二形十。	Those with two sexes have ten.
+['T27n1545_155:0786c27_15']	謂前九復加一形。	謂前九復加一形。	Namely, the previous nine plus one sex.
+['T27n1545_155:0786c28_4']	何繫心心所現前。	何繫心心所現前。	To which realm do the minds and mental factors that are present belong?
+['T27n1545_155:0786c28_9']	答欲界繫。	答欲界繫。	The answer is: They belong to the desire realm.
+['T27n1545_155:0786c28_17']	欲界歿生色界時。	欲界歿生色界時。	When dying in the desire realm and being reborn in the form realm,
+['T27n1545_155:0786c29_2']	幾根滅。	幾根滅。	how many faculties cease?
+['T27n1545_155:0786c29_8']	答或四或九。	答或四或九。	The answer is: either four or nine.
+['T27n1545_155:0786c29_11']	或九。	或九。	Or nine.
+['T27n1545_155:0786c29_15']	或十四。	或十四。	Or fourteen.
+['T27n1545_155:0787a01_4']	漸命終者無記心四。	漸命終者無記心四。	For one dying gradually with an indeterminate mind, four faculties cease,
+['T27n1545_155:0787a01_10']	謂身命意捨。	謂身命意捨。	namely body, life, mind, and indifference.
+['T27n1545_155:0787a02_2']	善心九謂前四加信等五。	善心九謂前四加信等五。	For one with a wholesome mind, nine cease, namely the previous four plus the five beginning with faith.
+['T27n1545_155:0787a02_11']	頓命終者無記心九。	頓命終者無記心九。	For one dying suddenly with an indeterminate mind, nine cease,
+['T27n1545_155:0787a03_2']	謂眼耳鼻舌身命意捨。	謂眼耳鼻舌身命意捨。	namely eye, ear, nose, tongue, body, life, mind, indifference,
+['T27n1545_155:0787a03_9']	及女男根隨一。	及女男根隨一。	and either the female or male faculty.
+['T27n1545_155:0787a03_14']	善心十四。	善心十四。	For one with a wholesome mind, fourteen cease,
+['T27n1545_155:0787a04_2']	謂前九加信等五。	謂前九加信等五。	namely the previous nine plus the five beginning with faith.
+['T27n1545_155:0787a04_9']	何繫心心所滅。	何繫心心所滅。	To which realm do the ceasing mind and mental factors belong?
+['T27n1545_155:0787a04_14']	答欲界繫。	答欲界繫。	The answer is: they belong to the desire realm.
+['T27n1545_155:0787a04_19']	幾根現前。	幾根現前。	How many faculties are present?
+['T27n1545_155:0787a05_1']	答八。	答八。	The answer is: eight,
+['T27n1545_155:0787a05_12']	謂眼耳鼻舌身命意捨根。	謂眼耳鼻舌身命意捨根。	namely the eye, ear, nose, tongue, body, life, mind, and indifference faculties.
+['T27n1545_155:0787a06_5']	何繫心心所現前答色界繫。	何繫心心所現前答色界繫。	To which realm do the present mind and mental factors belong? The answer is: they belong to the form realm.
+['T27n1545_155:0787a06_14']	欲界歿生無色界時。	欲界歿生無色界時。	When dying in the desire realm and being reborn in the formless realm,
+['T27n1545_155:0787a06_18']	幾根滅。	幾根滅。	how many faculties cease?
+['T27n1545_155:0787a07_3']	答或四。	答或四。	The answer is: either four or nine.
+['T27n1545_155:0787a07_6', 'T27n1545_155:0787a07_9']	或九。🔽或九。	或九。 或九。	Or nine.
+['T27n1545_155:0787a07_13']	或十四。	或十四。	Or fourteen.
+['T27n1545_155:0787a07_17']	如前說。	如前說。	As explained above.
+['T27n1545_155:0787a08_3']	何繫心心所滅。	何繫心心所滅。	To which realm do the ceasing mind and mental factors belong?
+['T27n1545_155:0787a08_8']	答欲界繫。	答欲界繫。	Answer: Those belonging to the desire realm.
+['T27n1545_155:0787a08_13', 'T27n1545_155:0787a08_16']	幾根現前。🔽答三。	幾根現前。 答三。	How many faculties are present?
+['T27n1545_155:0787a09_2']	謂命意捨根。	謂命意捨根。	Answer: Three, namely the faculties of life, thought, and indifference.
+['T27n1545_155:0787a09_10']	何繫心心所現前。	何繫心心所現前。	To which realm do the present minds and mental factors belong?
+['T27n1545_155:0787a09_16']	答無色界繫。	答無色界繫。	Answer: They belong to the formless realm.
+['T27n1545_155:0787a10_4']	色界沒生色界時。	色界沒生色界時。	When one dies in the form realm and is reborn in the form realm,
+['T27n1545_155:0787a10_8', 'T27n1545_155:0787a10_12']	幾根滅。🔽答或八。	幾根滅。 答或八。	how many faculties cease?
+['T27n1545_155:0787a10_16', 'T27n1545_155:0787a11_1']	或十三。🔽無記心八。	或十三。 無記心八。	Answer: Either eight or thirteen.
+['T27n1545_155:0787a11_11', 'T27n1545_155:0787a11_16']	謂眼耳鼻舌身命意捨。🔽善心十三。	謂眼耳鼻舌身命意捨。 善心十三。	With indeterminate mind, eight, namely the eye, ear, nose, tongue, body, life, thought, and indifference faculties.
+['T27n1545_155:0787a12_4']	謂前八加信等五。	謂前八加信等五。	With wholesome mind, thirteen, namely the previous eight plus the five beginning with faith.
+['T27n1545_155:0787a12_11']	何繫心心所滅。	何繫心心所滅。	To which realm do the ceasing minds and mental factors belong?
+['T27n1545_155:0787a12_16']	答色界繫。	答色界繫。	Answer: They belong to the form realm.
+['T27n1545_155:0787a13_1']	幾根現前。	幾根現前。	How many faculties are present?
+['T27n1545_155:0787a13_7']	答八如前說。	答八如前說。	Answer: Eight, as previously stated.
+['T27n1545_155:0787a13_15']	何繫心心所現前。	何繫心心所現前。	To which realm do the present minds and mental factors belong?
+['T27n1545_155:0787a14_1']	答色界繫。	答色界繫。	Answer: They belong to the form realm.
+['T27n1545_155:0787a14_12', 'T27n1545_155:0787a14_16', 'T27n1545_155:0787a15_1']	色界沒生欲界時幾根滅。🔽答或八。🔽或十三。	色界沒生欲界時幾根滅。 答或八。 或十三。	When one dies in the form realm and is reborn in the desire realm, how many faculties cease?
+['T27n1545_155:0787a15_11']	如前說何繫心心所滅。	如前說何繫心心所滅。	Answer: Either eight or thirteen, as previously stated. To which realm do the ceasing minds and mental factors belong?
+['T27n1545_155:0787a15_16']	答色界繫。	答色界繫。	Answer: They belong to the form realm.
+['T27n1545_155:0787a16_2', 'T27n1545_155:0787a16_6', 'T27n1545_155:0787a16_9', 'T27n1545_155:0787a16_12']	幾根現前。🔽答或八。🔽或九。🔽或十。	幾根現前。 答或八。 或九。 或十。	How many faculties are present?
+['T27n1545_155:0787a16_16']	如前說。	如前說。	Answer: Either eight, nine, or ten, as previously stated.
+['T27n1545_155:0787a17_3']	何繫心心所現前。	何繫心心所現前。	What type of mind and mental factors are present?
+['T27n1545_155:0787a17_8']	答欲界繫。	答欲界繫。	Answer: Those belonging to the desire realm.
+['T27n1545_155:0787a17_17']	色界歿生無色界時。	色界歿生無色界時。	When dying in the form realm and being reborn in the formless realm,
+['T27n1545_155:0787a18_2']	幾根滅。	幾根滅。	how many faculties cease?
+['T27n1545_155:0787a18_6']	答或八。	答或八。	Answer: Either eight,
+['T27n1545_155:0787a18_10']	或十三。	或十三。	or thirteen,
+['T27n1545_155:0787a18_14']	如前說。	如前說。	as explained above.
+['T27n1545_155:0787a19_5']	何繫心心所滅答色界繫。	何繫心心所滅答色界繫。	What type of mind and mental factors cease? Answer: Those belonging to the form realm.
+['T27n1545_155:0787a19_10']	幾根現前。	幾根現前。	How many faculties are present?
+['T27n1545_155:0787a19_16']	答三如前說。	答三如前說。	Answer: Three, as explained above.
+['T27n1545_155:0787a20_5']	何繫心心所現前。	何繫心心所現前。	What type of mind and mental factors are present?
+['T27n1545_155:0787a20_11']	答無色界繫。	答無色界繫。	Answer: Those belonging to the formless realm.
+['T27n1545_155:0787a21_2']	無色界歿生無色界時。	無色界歿生無色界時。	When dying in the formless realm and being reborn in the formless realm,
+['T27n1545_155:0787a21_6']	幾根滅。	幾根滅。	how many faculties cease?
+['T27n1545_155:0787a21_10']	答或三。	答或三。	Answer: Either three,
+['T27n1545_155:0787a21_13']	或八。	或八。	or eight.
+['T27n1545_155:0787a21_18']	無記心三。	無記心三。	Three in a neutral mind,
+['T27n1545_155:0787a22_2']	謂命意捨。	謂命意捨。	namely life, thought, and indifference.
+['T27n1545_155:0787a22_6']	善心八。	善心八。	Eight in a wholesome mind,
+['T27n1545_155:0787a22_14']	謂前三加信等五。	謂前三加信等五。	namely the former three plus the five beginning with faith.
+['T27n1545_155:0787a23_6']	何繫心心所滅答無色界繫。	何繫心心所滅答無色界繫。	What type of mind and mental factors cease? Answer: Those belonging to the formless realm.
+['T27n1545_155:0787a23_11']	幾根現前。	幾根現前。	How many faculties are present?
+['T27n1545_155:0787a23_17']	答三如前說。	答三如前說。	Answer: Three, as explained above.
+['T27n1545_155:0787a24_6']	何繫心心所現前。	何繫心心所現前。	What type of mind and mental factors are present?
+['T27n1545_155:0787a24_12']	答無色界繫。	答無色界繫。	Answer: Those belonging to the formless realm.
+['T27n1545_155:0787a25_2']	無色界歿生欲界時。	無色界歿生欲界時。	When dying in the formless realm and being reborn in the desire realm,
+['T27n1545_155:0787a25_6']	幾根滅。	幾根滅。	how many faculties cease?
+['T27n1545_155:0787a25_10']	答或三。	答或三。	Answer: Either three,
+['T27n1545_155:0787a25_13']	或八。	或八。	Or eight.
+['T27n1545_155:0787a25_17']	如前說。	如前說。	As explained above.
+['T27n1545_155:0787a26_3']	何繫心心所滅。	何繫心心所滅。	To which realm do the ceased mind and mental factors belong?
+['T27n1545_155:0787a26_9']	答無色界繫。	答無色界繫。	Answer: They belong to the formless realm.
+['T27n1545_155:0787a26_14']	幾根現前。	幾根現前。	How many faculties are present?
+['T27n1545_155:0787a26_18']	答或八。	答或八。	Answer: Either eight,
+['T27n1545_155:0787a27_1']	或九。	或九。	or nine,
+['T27n1545_155:0787a27_4']	或十。	或十。	or ten.
+['T27n1545_155:0787a27_8']	如前說。	如前說。	As explained above.
+['T27n1545_155:0787a27_16']	何繫心心所現前。	何繫心心所現前。	To which realm do the present mind and mental factors belong?
+['T27n1545_155:0787a28_1']	答欲界繫。	答欲界繫。	Answer: They belong to the desire realm.
+['T27n1545_155:0787a28_10']	無色界歿生色界時。	無色界歿生色界時。	When dying in the formless realm and being reborn in the form realm,
+['T27n1545_155:0787a28_14']	幾根滅。	幾根滅。	how many faculties cease?
+['T27n1545_155:0787a28_18']	答或三。	答或三。	Answer: Either three,
+['T27n1545_155:0787a29_4']	或八如前說。	或八如前說。	or eight, as explained above.
+['T27n1545_155:0787a29_11']	何繫心心所滅。	何繫心心所滅。	To which realm do the ceased mind and mental factors belong?
+['T27n1545_155:0787a29_17']	答無色界繫。	答無色界繫。	Answer: They belong to the formless realm.
+['T27n1545_155:0787b01_7']	幾根現前答八如前說。	幾根現前答八如前說。	How many faculties are present? Answer: Eight, as explained above.
+['T27n1545_155:0787b01_15']	何繫心心所現前。	何繫心心所現前。	To which realm do the present mind and mental factors belong?
+['T27n1545_155:0787b02_1']	答色界繫。	答色界繫。	Answer: They belong to the form realm.
+['T27n1545_155:0787b03_7']	阿羅漢般涅槃時。	阿羅漢般涅槃時。	When an arhat attains parinirvāṇa,
+['T27n1545_155:0787b03_13']	幾根最後滅。	幾根最後滅。	how many faculties cease last?
+['T27n1545_155:0787b03_17']	答或四。	答或四。	Answer: Either four,
+['T27n1545_155:0787b03_20']	或九。	或九。	or nine,
+['T27n1545_155:0787b04_2']	或八。	或八。	or eight,
+['T27n1545_155:0787b04_5', 'T27n1545_155:0787b04_14']	或三。🔽欲界漸般涅槃者四。	或三。 欲界漸般涅槃者四。	or three.
+['T27n1545_155:0787b04_20', 'T27n1545_155:0787b05_6']	謂身命意捨。🔽頓般涅槃者九。	謂身命意捨。 頓般涅槃者九。	For one who gradually attains parinirvāṇa in the desire realm, the four are body, life, mind, and indifference.
+['T27n1545_155:0787b05_16']	謂眼耳鼻舌身命意捨。	謂眼耳鼻舌身命意捨。	For one who attains parinirvāṇa suddenly, the nine are eye, ear, nose, tongue, body, life, mind, and indifference.
+['T27n1545_155:0787b06_4']	及女男根隨一。	及女男根隨一。	and either the female or male faculty.
+['T27n1545_155:0787b06_8']	色界八。	色界八。	The form realm has eight.
+['T27n1545_155:0787b06_18']	謂眼耳鼻舌身命意捨。	謂眼耳鼻舌身命意捨。	Namely, eye, ear, nose, tongue, body, life, mind, and equanimity faculties.
+['T27n1545_155:0787b07_3']	無色界三。	無色界三。	The formless realm has three.
+['T27n1545_155:0787b07_8']	謂命意捨。	謂命意捨。	Namely, life, mind, and equanimity faculties.
+['T27n1545_155:0787b08_7']	問何因緣故一切有情命終結生必住捨受。	問何因緣故一切有情命終結生必住捨受。	Why is it that all sentient beings, when dying and being reborn, must abide in the feeling of equanimity?
+['T27n1545_155:0787b09_6', 'T27n1545_155:0787b09_15']	答於五受中無有行相昧劣如捨受者。🔽於十時中無有昧劣。	答於五受中無有行相昧劣如捨受者。 於十時中無有昧劣。	Because among the five feelings, there is none whose mode of activity is as dull and inferior as the feeling of equanimity.
+['T27n1545_155:0787b10_5']	如死及生時者。	如死及生時者。	Among the ten times, there is none as dull and inferior as the time of death and rebirth.🔽Therefore, one abides in the feeling of equanimity when dying and being reborn.
+['T27n1545_155:0787b10_14', 'T27n1545_155:0787b12_10']	故住捨受命終結生。🔽5 一心納息1根蘊第六中一心納息第五之一諸法與心一起一住一滅。	故住捨受命終結生。 5 一心納息1根蘊第六中一心納息第五之一諸法與心一起一住一滅。	Therefore, when one's life ends and one is reborn, one is connected with the feeling of equanimity.🔽Here is the corrected and aligned text:🔽Chapter 5, Section 1: The First Absorption, on the Aggregates, the Sixth, Part 1 of 1. All dharmas arise, abide, and cease together with the mind.
+['T27n1545_155:0787b12_18']	彼法與心相應耶。	彼法與心相應耶。	Are those dharmas associated with the mind?
+['T27n1545_155:0787b13_4']	如是等章。	如是等章。	Such chapters,
+['T27n1545_155:0787b13_13']	及解章義既領會已。	及解章義既領會已。	and the meaning of the chapters having been understood,
+['T27n1545_155:0787b13_18']	當廣分別。	當廣分別。	should be extensively distinguished.
+['T27n1545_155:0787b14_6']	問何故作此論。	問何故作此論。	Why is this treatise composed?
+['T27n1545_155:0787b14_17']	答欲止說相應非實者意。	答欲止說相應非實者意。	It is in order to stop the idea that association is not real,
+['T27n1545_155:0787b15_4']	乃至廣說。	乃至廣說。	and so on at length.
+['T27n1545_155:0787b15_9']	故作斯論。	故作斯論。	Therefore, this treatise is composed.
+['T27n1545_155:0787b16_1']	諸法與心一起一住一滅。	諸法與心一起一住一滅。	Those dharmas that arise, abide, and cease together with the mind,
+['T27n1545_155:0787b16_9']	彼法與心相應耶。	彼法與心相應耶。	are those dharmas associated with the mind?
+['T27n1545_155:0787b16_17']	答若法與心相應。	答若法與心相應。	Answer: If a dharma is associated with the mind,
+['T27n1545_155:0787b17_9']	彼法與心一起一住一滅。	彼法與心一起一住一滅。	Those dharmas arise, abide, and cease together with the mind.
+['T27n1545_155:0787b17_16']	謂一切心所法。	謂一切心所法。	Namely, all mental factors.
+['T27n1545_155:0787b18_8']	有法與心一起一住一滅。	有法與心一起一住一滅。	There are dharmas that arise, abide, and cease together with the mind.
+['T27n1545_155:0787b18_15']	彼法非心相應。	彼法非心相應。	Those dharmas are not associated with the mind.
+['T27n1545_155:0787b19_2']	謂隨心轉色。	謂隨心轉色。	Namely, form that accompanies the mind.
+['T27n1545_155:0787b19_8']	心不相應行。	心不相應行。	Dharmas not associated with the mind.
+['T27n1545_155:0787b19_13']	此中起者。	此中起者。	Here, arising means
+['T27n1545_155:0787b19_16']	謂生。	謂生。	birth.
+['T27n1545_155:0787b20_1']	住者謂老。	住者謂老。	Abiding means aging.
+['T27n1545_155:0787b20_7']	滅者謂無常。	滅者謂無常。	Cessation means impermanence.
+['T27n1545_155:0787b20_18']	諸法與心一起一住一滅。	諸法與心一起一住一滅。	Dharmas that arise, abide, and cease together with the mind.
+['T27n1545_155:0787b21_7']	彼法與心一所緣耶。	彼法與心一所緣耶。	Are those dharmas the same object of cognition as the mind?
+['T27n1545_155:0787b21_16']	答若法與心一所緣。	答若法與心一所緣。	Answer: If a dharma is the same object of cognition as the mind,
+['T27n1545_155:0787b22_8']	彼法與心一起一住一滅。	彼法與心一起一住一滅。	that dharma arises, abides, and ceases together with the mind.
+['T27n1545_155:0787b22_15']	謂一切心所法。	謂一切心所法。	Namely, all mental factors.
+['T27n1545_155:0787b23_7']	有法與心一起一住一滅。	有法與心一起一住一滅。	There are dharmas that arise, abide, and cease together with the mind.
+['T27n1545_155:0787b23_15']	彼法非心一所緣。	彼法非心一所緣。	Those dharmas are not the same object of cognition as the mind.
+['T27n1545_155:0787b24_2']	謂隨心轉色。	謂隨心轉色。	Namely, form that accompanies the mind.
+['T27n1545_155:0787b24_8']	心不相應行。	心不相應行。	Dharmas not associated with the mind.
+['T27n1545_155:0787b24_16']	問何故復作此論。	問何故復作此論。	Why is this treatise composed again?
+['T27n1545_155:0787b25_8']	答欲止說所緣非實者意。	答欲止說所緣非實者意。	The answer is: to stop the intention of those who say the object of cognition is not real.
+['T27n1545_155:0787b25_13']	乃至廣說。	乃至廣說。	And so on, in detail.
+['T27n1545_155:0787b25_18']	故作斯論。	故作斯論。	Therefore, this treatise is composed.
+['T27n1545_155:0787b26_7']	隨心轉義有十種。	隨心轉義有十種。	The meaning of following the mind has ten aspects.
+['T27n1545_155:0787b27_5']	謂一起一住一滅一果一等流一異熟。	謂一起一住一滅一果一等流一異熟。	Namely, one arising, one abiding, one ceasing, one fruit, one homogeneous cause, one karmic retribution.
+['T27n1545_155:0787b27_9']	善則善。	善則善。	If wholesome, then wholesome.
+['T27n1545_155:0787b27_15']	不善則不善。	不善則不善。	If unwholesome, then unwholesome.
+['T27n1545_155:0787b28_1']	無記則無記。	無記則無記。	If indeterminate, then indeterminate.
+['T27n1545_155:0787b28_6']	墮一世中。	墮一世中。	Falling into one lifetime.
+['T27n1545_155:0787b28_10']	一果者。	一果者。	One fruit means
+['T27n1545_155:0787b28_15']	謂離繫果。	謂離繫果。	the disconnection effect.
+['T27n1545_155:0787b28_20']	一等流者。	一等流者。	One homogeneous cause means
+['T27n1545_155:0787b29_4']	謂等流果。	謂等流果。	the homogeneous effect.
+['T27n1545_155:0787b29_9']	一異熟者。	一異熟者。	One karmic retribution means
+['T27n1545_155:0787b29_14', 'T27n1545_155:0787c01_1']	謂異熟果。🔽墮一世中者。	謂異熟果。 墮一世中者。	the karmic retribution effect.🔽Falling into one lifetime means
+['T27n1545_155:0787c01_7']	謂同一世攝。	謂同一世攝。	being included in the same lifetime.
+['T27n1545_155:0787c01_12']	此總相說。	此總相說。	This is the general explanation.
+['T27n1545_155:0787c02_8']	若別說者有漏斷結道中有八隨轉義。	若別說者有漏斷結道中有八隨轉義。	If explained separately, there are eight meanings of following the mind in the path of severing bonds in the contaminated [realm],
+['T27n1545_155:0787c02_16']	謂一起一住一滅。	謂一起一住一滅。	Namely, one arising, one abiding, one ceasing,
+['T27n1545_155:0787c03_6']	一果一等流一異熟。	一果一等流一異熟。	one fruit, one homogeneous cause, one karmic retribution.
+['T27n1545_155:0787c03_12']	是善墮一世。	是善墮一世。	It is wholesome and falls into one lifetime.
+['T27n1545_155:0787c04_4']	有漏加行解脫勝進道中。	有漏加行解脫勝進道中。	In the path of preparation, liberation, and advancement in the contaminated [realm],
+['T27n1545_155:0787c04_12']	及餘有漏善心品。	及餘有漏善心品。	and in other wholesome mind-sets in the contaminated [realm],
+['T27n1545_155:0787c04_18']	有七隨轉義。	有七隨轉義。	there are seven meanings of following the mind.
+['T27n1545_155:0787c05_6']	謂一起一住一滅。	謂一起一住一滅。	Namely, one arising, one abiding, one ceasing,
+['T27n1545_155:0787c05_18']	一等流一異熟是善墮一世。	一等流一異熟是善墮一世。	one homogeneous cause, one karmic retribution. It is wholesome and falls into one lifetime.
+['T27n1545_155:0787c06_12']	無漏斷結道中亦有七隨轉義。	無漏斷結道中亦有七隨轉義。	In the uncontaminated path that eliminates bonds, there is also the meaning of seven kinds of following transformation.
+['T27n1545_155:0787c07_2']	謂一起一住一滅。	謂一起一住一滅。	That is to say, one arising, one abiding, one ceasing,
+['T27n1545_155:0787c07_8']	一果一等流。	一果一等流。	one fruit, one outflow.
+['T27n1545_155:0787c07_14']	是善墮一世。	是善墮一世。	This is wholesome and falls into one lifetime.
+['T27n1545_155:0787c08_10']	無漏加行解脫勝進道中有六隨轉義。	無漏加行解脫勝進道中有六隨轉義。	In the uncontaminated path of added effort, liberation, and progress, there is the meaning of six kinds of following transformation.
+['T27n1545_155:0787c09_3']	謂一起一住一滅一等流。	謂一起一住一滅一等流。	That is to say, one arising, one abiding, one ceasing, one outflow.
+['T27n1545_155:0787c09_9']	是善墮一世。	是善墮一世。	This is wholesome and falls into one lifetime.
+['T27n1545_155:0787c10_1']	不善心品有七隨轉義。	不善心品有七隨轉義。	In the wholesome mind category, there is the meaning of seven kinds of following transformation.
+['T27n1545_155:0787c10_15']	謂一起一住一滅一等流一異熟。	謂一起一住一滅一等流一異熟。	That is to say, one arising, one abiding, one ceasing, one outflow, one retribution.
+['T27n1545_155:0787c11_3']	是不善墮一世。	是不善墮一世。	This is unwholesome and falls into one lifetime.
+['T27n1545_155:0787c11_13']	無記心品有六隨轉義。	無記心品有六隨轉義。	In the indeterminate mind category, there is the meaning of six kinds of following transformation.
+['T27n1545_155:0787c12_5']	謂一起一住一滅一等流。	謂一起一住一滅一等流。	That is to say, one arising, one abiding, one ceasing, one outflow.
+['T27n1545_155:0787c12_12']	是無記墮一世。	是無記墮一世。	This is indeterminate and falls into one lifetime.
+['T27n1545_155:0787c13_3']	又心心所法展轉相望。	又心心所法展轉相望。	Moreover, dharmas of mind and mental factors are mutually related.
+['T27n1545_155:0787c13_12']	由五因緣說名隨轉。	由五因緣說名隨轉。	By means of five causes and conditions, they are called following transformation.
+['T27n1545_155:0787c13_17', 'T27n1545_155:0787c14_2']	謂所依故。🔽所緣故。	謂所依故。 所緣故。	That is to say, because they are the support,🔽because they are the object,
+['T27n1545_155:0787c14_6']	行相故。	行相故。	because they are the aspect,
+['T27n1545_155:0787c14_9']	果故。	果故。	because they are the fruit,
+['T27n1545_155:0787c14_13']	異熟故。	異熟故。	because they are the retribution.
+['T27n1545_155:0787c14_20']	心與隨心轉色。	心與隨心轉色。	Mind and the mind-conforming form,
+['T27n1545_155:0787c15_9']	心不相應行展轉相望。	心不相應行展轉相望。	The mental factors mutually correspond to each other.
+['T27n1545_155:0787c16_1']	由二因緣說名隨轉。	由二因緣說名隨轉。	By two causes and conditions, they are called following transformation.
+['T27n1545_155:0787c16_5']	謂果故。	謂果故。	That is to say, because they are effects,
+['T27n1545_155:0787c16_9']	異熟故。	異熟故。	and because they are retribution.
+['T27n1545_155:0787c16_18']	隨轉義廣說如雜蘊。	隨轉義廣說如雜蘊。	The meaning of following transformation is explained in detail in the Saṃyukta-āgama.
+['T27n1545_155:0787c17_6']	諸法與心俱起。	諸法與心俱起。	All dharmas arise together with the mind,
+['T27n1545_155:0787c17_10']	不離心。	不離心。	and are not apart from the mind.
+['T27n1545_155:0787c18_1']	彼法與心俱住俱滅。	彼法與心俱住俱滅。	Those dharmas abide together with the mind, and perish together with the mind,
+['T27n1545_155:0787c18_6']	不離心耶。	不離心耶。	and are not apart from the mind?
+['T27n1545_155:0787c18_11']	乃至廣說。	乃至廣說。	And so on, it is explained in detail.
+['T27n1545_155:0787c18_19']	問何故復作此論。	問何故復作此論。	Why is this treatise composed again?
+['T27n1545_155:0787c19_5']	答前納息中。	答前納息中。	The previous chapter
+['T27n1545_155:0787c19_16']	雖明心心所法等剎那滅。	雖明心心所法等剎那滅。	although it clarifies that the mind and mental factors are extinguished in a moment,
+['T27n1545_155:0787c20_3']	未辯色等。	未辯色等。	it has not yet distinguished form and so on.
+['T27n1545_155:0787c21_8']	今欲辯之故作斯論又為遮止三剎那論沙門執故。	今欲辯之故作斯論又為遮止三剎那論沙門執故。	Now, in order to distinguish them, this treatise is composed. It is also to refute the theory of the three moments of the Śramaṇas.
+['T27n1545_155:0787c22_4']	謂有沙門說諸色法三剎那住。	謂有沙門說諸色法三剎那住。	That is to say, there are Śramaṇas who say that all material dharmas abide for three moments,
+['T27n1545_155:0787c22_13']	說心心所剎那則滅。	說心心所剎那則滅。	and say that the mind and mental factors are extinguished in a moment.
+['T27n1545_155:0787c22_18']	彼復二種。	彼復二種。	They are further of two kinds.
+['T27n1545_155:0787c23_4']	一雜生論。	一雜生論。	The first is the theory of mixed arising,
+['T27n1545_155:0787c23_9']	二次第論。	二次第論。	and the second is the theory of sequential arising.
+['T27n1545_155:0787c23_18']	雜生論者作如是言。	雜生論者作如是言。	The proponents of the theory of mixed arising say:
+['T27n1545_155:0787c24_8']	依初眼根生初眼識。	依初眼根生初眼識。	Based on the first eye faculty, the first eye consciousness arises.
+['T27n1545_155:0787c25_1']	彼俱生已眼根住眼識滅。	彼俱生已眼根住眼識滅。	When those two have arisen together, the eye faculty remains while the eye consciousness ceases.
+['T27n1545_155:0787c25_12']	依第二眼根生第二眼識。	依第二眼根生第二眼識。	Depending on the second eye faculty, the second eye consciousness arises.
+['T27n1545_155:0787c26_5']	彼俱生已眼根住眼識滅。	彼俱生已眼根住眼識滅。	When those two have arisen together, the eye faculty remains while the eye consciousness ceases.
+['T27n1545_155:0787c26_16']	依第三眼根生第三眼識。	依第三眼根生第三眼識。	Depending on the third eye faculty, the third eye consciousness arises.
+['T27n1545_155:0787c27_9']	彼俱生已眼根住眼識滅。	彼俱生已眼根住眼識滅。	When those two have arisen together, the eye faculty remains while the eye consciousness ceases.
+['T27n1545_155:0787c28_1']	當知則與初眼俱滅。	當知則與初眼俱滅。	It should be known that it then ceases together with the first eye.
+['T27n1545_155:0787c28_7']	問彼有何過。	問彼有何過。	Question: What fault is there in that?
+['T27n1545_155:0787c28_17']	答彼初眼識有所依生。	答彼初眼識有所依生。	Answer: The first eye consciousness arises with a support,
+['T27n1545_155:0787c29_3']	無所依滅。	無所依滅。	but ceases without a support.
+['T27n1545_155:0787c29_10']	第二眼識亦爾。	第二眼識亦爾。	The second eye consciousness is also like this.
+['T27n1545_155:0787c29_19']	第三眼識有所依生。	第三眼識有所依生。	The third eye consciousness arises with a support.
+['T27n1545_155:0788a01_10']	雖有所依滅而是他所依。	雖有所依滅而是他所依。	Although it ceases with a support, it is the support of another.
+['T27n1545_155:0788a01_15']	是謂彼過。	是謂彼過。	This is the fault.
+['T27n1545_155:0788a02_6']	識隨所依有生滅故。	識隨所依有生滅故。	Because consciousness arises and ceases according to its support.
+['T27n1545_155:0788a02_15']	次第論者作如是言。	次第論者作如是言。	The Abhidharma scholars say thus:
+['T27n1545_155:0788a03_6']	依初眼根生初眼識。	依初眼根生初眼識。	Depending on the first eye faculty, the first eye consciousness arises.
+['T27n1545_155:0788a03_11']	彼俱生已。	彼俱生已。	When those two have arisen together,
+['T27n1545_155:0788a03_18']	眼根住眼識滅。	眼根住眼識滅。	the eye faculty remains while the eye consciousness ceases.
+['T27n1545_155:0788a04_9']	次復依彼生第二眼識。	次復依彼生第二眼識。	Next, depending on that, the second eye consciousness arises.
+['T27n1545_155:0788a04_16']	眼根住眼識滅。	眼根住眼識滅。	The eye faculty remains while the eye consciousness ceases.
+['T27n1545_155:0788a05_7']	後復依彼生第三眼識。	後復依彼生第三眼識。	Later, based on that, the third eye consciousness is born.
+['T27n1545_155:0788a05_16']	此識與眼俱時而滅。	此識與眼俱時而滅。	This consciousness ceases simultaneously with the eye.
+['T27n1545_155:0788a06_4']	問彼有何過。	問彼有何過。	Question: What fault is there in that?
+['T27n1545_155:0788a06_14']	答彼初眼識有所依生。	答彼初眼識有所依生。	Answer: The first eye consciousness is born with a support.
+['T27n1545_155:0788a07_1']	無所依滅。	無所依滅。	It ceases without a support.
+['T27n1545_155:0788a07_10']	第二眼識無所依生。	第二眼識無所依生。	The second eye consciousness is born without a support.
+['T27n1545_155:0788a07_15']	無所依滅。	無所依滅。	It ceases without a support.
+['T27n1545_155:0788a08_5']	第三眼識無所依生。	第三眼識無所依生。	The third eye consciousness is born without a support.
+['T27n1545_155:0788a08_10']	有所依滅。	有所依滅。	It ceases with a support.
+['T27n1545_155:0788a08_15']	是謂彼過。	是謂彼過。	This is the fault.
+['T27n1545_155:0788a09_5']	識隨所依有生滅故。	識隨所依有生滅故。	Because consciousness arises and ceases according to its support.
+['T27n1545_155:0788a09_14']	又彼二論有餘共過。	又彼二論有餘共過。	Moreover, those two treatises have a common fault.
+['T27n1545_155:0788a10_5']	謂人趣沒生地獄時。	謂人趣沒生地獄時。	That is, when one falls from the human realm and is reborn in hell,
+['T27n1545_155:0788a10_14']	人趣未捨已得地獄。	人趣未捨已得地獄。	one has not yet abandoned the human realm and obtained hell.
+['T27n1545_155:0788a11_3']	如是則趣雜亂。	如是則趣雜亂。	In this way, the realms become confused.
+['T27n1545_155:0788a11_7']	身雜亂。	身雜亂。	The body becomes confused.
+['T27n1545_155:0788a11_12']	趣雜亂者。	趣雜亂者。	As for the confusion of realms,
+['T27n1545_155:0788a12_1']	謂彼有情是地獄趣。	謂彼有情是地獄趣。	it means that sentient beings are of the hell realm,
+['T27n1545_155:0788a12_6']	亦是人趣。	亦是人趣。	and also of the human realm.
+['T27n1545_155:0788a12_11']	身雜亂者。	身雜亂者。	As for the confusion of the body,
+['T27n1545_155:0788a13_5']	謂彼有情有地獄身亦有人身。	謂彼有情有地獄身亦有人身。	it means that sentient beings have a hell body and also a human body.
+['T27n1545_155:0788a13_10']	便為大過。	便為大過。	This would be a great fault.
+['T27n1545_155:0788a14_5']	依彼論意若入無想滅盡定時。	依彼論意若入無想滅盡定時。	According to the meaning of that treatise, when entering the attainment of non-perception or the attainment of cessation,
+['T27n1545_155:0788a14_17']	諸根大種與心俱起不離心。	諸根大種與心俱起不離心。	The faculties and great elements arise together with the mind and are not separate from the mind.
+['T27n1545_155:0788a15_10']	然彼離心而住離心而滅。	然彼離心而住離心而滅。	However, they abide separate from the mind and cease separate from the mind.
+['T27n1545_155:0788a16_2']	為遮彼執故作斯論。	為遮彼執故作斯論。	In order to refute this view, this treatise is composed.
+['T27n1545_155:0788a16_12']	諸法與心俱起不離心。	諸法與心俱起不離心。	The dharmas that arise together with the mind and are not separate from the mind,
+['T27n1545_155:0788a17_7']	彼法與心俱住俱滅不離心耶。	彼法與心俱住俱滅不離心耶。	do those dharmas abide together with the mind, cease together with the mind, and are not separate from the mind?
+['T27n1545_155:0788a17_14']	答欲色界有情。	答欲色界有情。	Answer: Sentient beings in the desire realm and form realm,
+['T27n1545_155:0788a18_5']	不住無想滅盡定者。	不住無想滅盡定者。	who do not abide in the attainment of non-perception or the attainment of cessation,
+['T27n1545_155:0788a18_17']	諸根大種與心俱起不離心。	諸根大種與心俱起不離心。	the faculties and great elements that arise together with the mind and are not separate from the mind,
+['T27n1545_155:0788a19_9']	與心俱住俱滅不離心。	與心俱住俱滅不離心。	abide together with the mind, cease together with the mind, and are not separate from the mind.
+['T27n1545_155:0788a20_5']	若住無想滅盡定者彼便離心。	若住無想滅盡定者彼便離心。	If one abides in the attainment of non-perception or the attainment of cessation, one is then separate from the mind.
+['T27n1545_155:0788a20_11']	問云何離心。	問云何離心。	Question: How is one separate from the mind?
+['T27n1545_155:0788a20_18', 'T27n1545_155:0788a21_4']	答彼離心而起。🔽離心而住。	答彼離心而起。 離心而住。	Answer: One arises separate from the mind,🔽abides separate from the mind,
+['T27n1545_155:0788a21_9']	離心而滅。	離心而滅。	ceases separate from the mind.
+['T27n1545_155:0788a21_18']	心心所斷彼相續故。	心心所斷彼相續故。	Because the continuum of mind and mental factors is severed.
+['T27n1545_155:0788a22_2']	如說。	如說。	As it is said:
+['T27n1545_155:0788a22_11']	不修眼根乃至意根。	不修眼根乃至意根。	One does not cultivate the eye faculty up to the mind faculty.
+['T27n1545_155:0788a22_18']	云何不修眼根。	云何不修眼根。	How does one not cultivate the eye faculty?
+['T27n1545_155:0788a23_4']	乃至廣說。	乃至廣說。	And so on, in detail.
+['T27n1545_155:0788a23_9', 'T27n1545_155:0788a23_13']	修有四種。🔽謂得修。	修有四種。 謂得修。	Cultivation is of four kinds:🔽Cultivation of attainment,
+['T27n1545_155:0788a23_16']	習修。	習修。	cultivation of practice,
+['T27n1545_155:0788a23_20']	對治修。	對治修。	counteractive cultivation.
+['T27n1545_155:0788a24_3']	除遣修。	除遣修。	elimination cultivation.
+['T27n1545_155:0788a24_9']	具辯如智蘊。	具辯如智蘊。	The detailed explanations are like in the aggregate of wisdom.
+['T27n1545_155:0788a24_18']	今依後二修而作論。	今依後二修而作論。	Now, based on the latter two cultivations, the treatise is composed.
+['T27n1545_155:0788a25_8']	問眼等根云何不修。	問眼等根云何不修。	Question: How is it that the eyes and other faculties are not cultivated?
+['T27n1545_155:0788a25_13']	復云何修。	復云何修。	Furthermore, how are they cultivated?
+['T27n1545_155:0788a26_11']	答乃至眼等諸根對治道未生名不修根。	答乃至眼等諸根對治道未生名不修根。	Answer: Up to the faculties such as the eyes, the counteractive path has not yet arisen, which is called the faculty of non-cultivation.
+['T27n1545_155:0788a27_1']	此依對治修說。	此依對治修說。	This is said based on counteractive cultivation.
+['T27n1545_155:0788a27_12']	又乃至緣眼等所有煩惱。	又乃至緣眼等所有煩惱。	Moreover, up to the afflictions related to the eyes and other faculties,
+['T27n1545_155:0788a28_3']	未斷未知名不修根。	未斷未知名不修根。	which have not yet been severed and are not yet known, are called the faculty of non-cultivation.
+['T27n1545_155:0788a28_10']	此依除遣修說。	此依除遣修說。	This is said based on elimination cultivation.
+['T27n1545_155:0788a29_6']	若眼等諸根對治道已生名為修根。	若眼等諸根對治道已生名為修根。	If the counteractive path of the faculties such as the eyes has already arisen, it is called the faculty of cultivation.
+['T27n1545_155:0788a29_13']	此依對治修說。	此依對治修說。	This is said based on counteractive cultivation.
+['T27n1545_155:0788b01_4']	又緣眼等所有煩惱。	又緣眼等所有煩惱。	Moreover, the afflictions related to the eyes and other faculties,
+['T27n1545_155:0788b01_13', 'T27n1545_155:0788b02_2']	已斷已知名為修根。🔽此依除遣修說。	已斷已知名為修根。 此依除遣修說。	which have already been severed and are already known, are called the faculty of cultivation.🔽This is said based on elimination cultivation.
+['T27n1545_155:0788b02_11']	是謂此處略毘婆沙。	是謂此處略毘婆沙。	This is the brief explanation of this topic.
+['T27n1545_155:0788b03_4']	云何不修眼根乃至身根。	云何不修眼根乃至身根。	How is it that the eye faculty up to the body faculty are not cultivated?
+['T27n1545_155:0788b03_13']	答若於眼根未離貪。	答若於眼根未離貪。	Answer: If one has not yet become free from craving for the eye faculty,
+['T27n1545_155:0788b04_2']	未離欲潤憙渴。	未離欲潤憙渴。	has not yet become free from the moisture of desire, joy, and thirst,🔽...
+['T27n1545_155:0788b04_11']	又無間道能盡色貪。	又無間道能盡色貪。	Moreover, the uninterrupted path can eliminate attachment to form.
+['T27n1545_155:0788b05_2']	彼於此道未修未安。	彼於此道未修未安。	They have not yet cultivated and stabilized this path.
+['T27n1545_155:0788b06_1', 'T27n1545_155:0788b06_10']	如不修眼根不修耳鼻舌身根亦爾。🔽若於眼根未離貪者。	如不修眼根不修耳鼻舌身根亦爾。 若於眼根未離貪者。	Those who do not cultivate the eye faculty should also not cultivate the ear, nose, tongue, or body faculties.🔽Those who have not yet eliminated attachment to the eye faculty
+['T27n1545_155:0788b06_17']	謂於眼未離愛。	謂於眼未離愛。	Refer to those who have not yet eliminated desire for the eye.
+['T27n1545_155:0788b07_4']	未離欲者。	未離欲者。	Those who have not yet eliminated desire
+['T27n1545_155:0788b07_13']	謂於愛欲未斷未知。	謂於愛欲未斷未知。	Refer to those whose desire and lust have not yet been cut off and known.
+['T27n1545_155:0788b08_1']	未離潤者。	未離潤者。	Those who have not yet eliminated moisture
+['T27n1545_155:0788b08_10']	謂於愛潤未斷未知。	謂於愛潤未斷未知。	Refer to those whose moistening love has not yet been cut off and known.
+['T27n1545_155:0788b08_15']	未離憙者。	未離憙者。	Those who have not yet eliminated joy
+['T27n1545_155:0788b09_5']	謂於愛憙未斷未知。	謂於愛憙未斷未知。	Refer to those whose loving joy has not yet been cut off and known.
+['T27n1545_155:0788b09_10']	未離渴者。	未離渴者。	Those who have not yet eliminated thirst
+['T27n1545_155:0788b10_1', 'T27n1545_155:0788b10_11']	謂於愛渴未斷未知。🔽又無間道能盡色貪者。	謂於愛渴未斷未知。 又無間道能盡色貪者。	Refer to those whose loving thirst has not yet been cut off and known.🔽Moreover, the uninterrupted path can eliminate attachment to form
+['T27n1545_155:0788b11_3']	謂無間道能盡色界愛。	謂無間道能盡色界愛。	Refers to the uninterrupted path that can eliminate attachment to the form realm.
+['T27n1545_155:0788b11_13']	彼於此道未修未安者。	彼於此道未修未安者。	They have not yet cultivated and stabilized this path
+['T27n1545_155:0788b11_18', 'T27n1545_155:0788b12_5']	謂未修習。🔽及未安息修。	謂未修習。 及未安息修。	Refers to not yet cultivating and practicing.
+['T27n1545_155:0788b12_13']	謂習修安謂得修。	謂習修安謂得修。	And not yet resting in peace. Cultivation refers to practicing and cultivating. Peace refers to attaining cultivation.
+['T27n1545_155:0788b13_2']	又起名修滅名安。	又起名修滅名安。	Moreover, arising is called cultivation, and cessation is called peace.
+['T27n1545_155:0788b13_8']	又已生名修。	又已生名修。	Moreover, what has already arisen is called cultivation.
+['T27n1545_155:0788b13_13']	已滅名安。	已滅名安。	What has already ceased is called peace.
+['T27n1545_155:0788b14_8', 'T27n1545_155:0788b14_14']	應知此中若於眼根未離貪等者。🔽依對治修說。	應知此中若於眼根未離貪等者。 依對治修說。	One should know that in this context, those who have not yet abandoned craving for the eye faculty and so on,🔽are said to cultivate based on antidotes,
+['T27n1545_155:0788b15_4']	或依除遣修說。	或依除遣修說。	or are said to cultivate based on elimination.
+['T27n1545_155:0788b15_15', 'T27n1545_155:0788b16_3']	又無間道能盡色貪等者。🔽依除遣修說。	又無間道能盡色貪等者。 依除遣修說。	Moreover, the uninterrupted path that can eliminate craving for form and so on,🔽is said to cultivate based on elimination,
+['T27n1545_155:0788b16_10']	或依對治修說。	或依對治修說。	or is said to cultivate based on antidotes.
+['T27n1545_155:0788b16_13']	有說。	有說。	Some say:
+['T27n1545_155:0788b17_5']	若於眼根未離貪等者。	若於眼根未離貪等者。	Those who have not yet abandoned craving for the eye faculty and so on,
+['T27n1545_155:0788b17_15']	謂緣眼根愛未斷未知。	謂緣眼根愛未斷未知。	refer to those who have not yet abandoned or known the craving that takes the eye faculty as its object.
+['T27n1545_155:0788b18_8']	又無間道能盡色貪等者。	又無間道能盡色貪等者。	Moreover, the uninterrupted path that can eliminate craving for form and so on,
+['T27n1545_155:0788b19_3']	謂緣眼根餘煩惱未斷未知。	謂緣眼根餘煩惱未斷未知。	refers to those who have not yet abandoned or known the other afflictions that take the eye faculty as their object.
+['T27n1545_155:0788b19_6']	有說。	有說。	Some say:
+['T27n1545_155:0788b19_16']	若於眼根未離貪等者。	若於眼根未離貪等者。	Those who have not yet abandoned craving for the eye faculty and so on,
+['T27n1545_155:0788b20_3']	謂未斷繫得。	謂未斷繫得。	refer to those who have not yet abandoned the acquisition of bondage.
+['T27n1545_155:0788b20_14']	又無間道能盡色貪等者。	又無間道能盡色貪等者。	Moreover, the uninterrupted path that can eliminate craving for form and so on,
+['T27n1545_155:0788b21_3', 'T27n1545_155:0788b21_9', 'T27n1545_155:0788b21_17']	謂未證離繫得。🔽如未斷繫得。🔽未證離繫得如是。	謂未證離繫得。 如未斷繫得。 未證離繫得如是。	refers to those who have not yet realized the acquisition of disjunction.🔽Just as one has not yet abandoned the acquisition of bondage,🔽one has not yet realized the acquisition of disjunction.
+['T27n1545_155:0788b22_4']	未損減過失。	未損減過失。	In this way, one has not yet diminished faults,
+['T27n1545_155:0788b22_10']	未修習功德。	未修習功德。	has not yet cultivated merits,
+['T27n1545_155:0788b22_15']	未棄下劣。	未棄下劣。	has not yet abandoned the inferior,
+['T27n1545_155:0788b23_2']	未證勝妙。	未證勝妙。	has not yet realized the sublime,
+['T27n1545_155:0788b23_7']	未捨無義。	未捨無義。	has not yet abandoned that which is meaningless,
+['T27n1545_155:0788b23_12']	未得有義。	未得有義。	It has not yet attained the meaning of existence.
+['T27n1545_155:0788b24_1']	未除有愛熱惱。	未除有愛熱惱。	It has not yet eliminated the heat and distress of craving for existence.
+['T27n1545_155:0788b24_8']	未受無愛快樂。	未受無愛快樂。	It has not yet accepted the bliss of being free from craving.
+['T27n1545_155:0788b24_13']	應知亦爾。	應知亦爾。	One should know it is also like this.
+['T27n1545_155:0788b24_16']	有說。	有說。	Some say:
+['T27n1545_155:0788b25_7']	若於眼根未離貪等者。	若於眼根未離貪等者。	If one has not yet become free from craving for the eye faculty, etc.,
+['T27n1545_155:0788b25_16']	謂無間道未起作用。	謂無間道未起作用。	It means the uninterrupted path has not yet arisen to function.
+['T27n1545_155:0788b26_9']	又無間道能盡色貪等者。	又無間道能盡色貪等者。	Also, the uninterrupted path that can eliminate craving for form, etc.,
+['T27n1545_155:0788b27_1']	謂解脫道未起作用。	謂解脫道未起作用。	It means the path of liberation has not yet arisen to function.
+['T27n1545_155:0788b27_4']	有說。	有說。	Some say:
+['T27n1545_155:0788b27_14']	若於眼根未離貪等者。	若於眼根未離貪等者。	If one has not yet become free from craving for the eye faculty, etc.,
+['T27n1545_155:0788b28_3']	謂未能離欲界。	謂未能離欲界。	It means one is still unable to become free from the defilements of the desire realm,
+['T27n1545_155:0788b28_11']	乃至第三靜慮染。	乃至第三靜慮染。	Up to the third meditative absorption.
+['T27n1545_155:0788b29_4']	又無間道能盡色貪等者。	又無間道能盡色貪等者。	Also, the uninterrupted path that can eliminate craving for form, etc.,
+['T27n1545_155:0788b29_14']	謂未能離第四靜慮染。	謂未能離第四靜慮染。	It means one is still unable to become free from the defilements of the fourth meditative absorption.
+['T27n1545_155:0788c01_3']	如不修眼根。	如不修眼根。	Just as one does not cultivate the eye faculty,
+['T27n1545_155:0788c01_11']	不修餘四根亦爾。	不修餘四根亦爾。	One does not cultivate the other four faculties in the same way.
+['T27n1545_155:0788c02_1']	云何不修意根。	云何不修意根。	How does one not cultivate the mind faculty?
+['T27n1545_155:0788c02_10']	答若於意根未離貪。	答若於意根未離貪。	Answer: If one has not yet become free from craving for the mind faculty,
+['T27n1545_155:0788c02_17']	未離欲潤憙渴。	未離欲潤憙渴。	Has not yet become free from the moisture of desire and the thirst for joy,
+['T27n1545_155:0788c03_9']	又無間道能盡無色貪。	又無間道能盡無色貪。	Also, the uninterrupted path that can eliminate craving for the formless realm,
+['T27n1545_155:0788c04_1']	彼於此道未修未安。	彼於此道未修未安。	One has not yet cultivated and stabilized this path.
+['T27n1545_155:0788c04_10']	若於意根未離貪者。	若於意根未離貪者。	If one has not yet abandoned craving for the mind faculty,
+['T27n1545_155:0788c04_17']	謂於意未離愛。	謂於意未離愛。	It means one has not yet abandoned desire for the mind.
+['T27n1545_155:0788c05_4']	餘句如前。	餘句如前。	The other phrases are as above.
+['T27n1545_155:0788c05_15']	又無間道能盡無色貪者。	又無間道能盡無色貪者。	Moreover, the uninterrupted path that can eliminate craving for the formless realm,
+['T27n1545_155:0788c06_8']	謂無間道能盡無色界愛。	謂無間道能盡無色界愛。	It means the uninterrupted path that can eliminate craving for the formless realm.
+['T27n1545_155:0788c06_16']	未修未安如前說。	未修未安如前說。	Not yet cultivated, not yet tranquil, as explained above.
+['T27n1545_155:0788c07_12']	應知此中若於意根未離貪等者。	應知此中若於意根未離貪等者。	It should be known that in this context, if one has not yet abandoned craving for the mind faculty, etc.,
+['T27n1545_155:0788c08_2']	依對治修說。	依對治修說。	It is said based on the cultivation of antidotes.
+['T27n1545_155:0788c08_9']	或依除遣修說。	或依除遣修說。	Or it is said based on the cultivation of removal.
+['T27n1545_155:0788c09_3']	又無間道能盡無色貪等者。	又無間道能盡無色貪等者。	Moreover, the uninterrupted path that can eliminate craving for the formless realm, etc.,
+['T27n1545_155:0788c09_9']	依除遣修說。	依除遣修說。	It is said based on the cultivation of removal.
+['T27n1545_155:0788c09_16']	或依對治修說。	或依對治修說。	Or it is said based on the cultivation of antidotes.
+['T27n1545_155:0788c10_7']	次有三說如前應知。	次有三說如前應知。	The next three explanations should be understood as before.
+['T27n1545_155:0788c10_12']	第五有說。	第五有說。	Fifth, some say,
+['T27n1545_155:0788c11_5']	若於意根未離貪等者。	若於意根未離貪等者。	If one has not yet abandoned craving for the mind faculty, etc.,
+['T27n1545_155:0788c12_2']	謂未能離欲界乃至無所有處染。	謂未能離欲界乃至無所有處染。	It means one has not yet been able to abandon the defilements of the desire realm up to the sphere of nothingness.
+['T27n1545_155:0788c12_14']	又無間道能盡無色貪等者。	又無間道能盡無色貪等者。	Moreover, the uninterrupted path that can eliminate craving for the formless realm, etc.,
+['T27n1545_155:0788c13_8']	謂未能離非想非非想處染。	謂未能離非想非非想處染。	It means one has not yet been able to abandon the defilements of the sphere of neither-perception-nor-non-perception.
+['T27n1545_155:0788c14_2']	如說。	如說。	As it is said,
+['T27n1545_155:0788c14_10']	修眼根乃至意根。	修眼根乃至意根。	Cultivating the eye faculty up to the mind faculty,
+['T27n1545_155:0788c15_2']	云何修眼根乃至身根。	云何修眼根乃至身根。	How does one cultivate the eye faculty up to the body faculty?
+['T27n1545_155:0788c15_11']	答若於眼根已離貪。	答若於眼根已離貪。	The answer is: If one has already abandoned craving for the eye faculty,
+['T27n1545_155:0788c15_18']	已離欲潤憙渴。	已離欲潤憙渴。	already abandoned the moisture of desire, joy, and thirst,
+['T27n1545_155:0788c16_8']	又無間道能盡色貪。	又無間道能盡色貪。	and the uninterrupted path that can eliminate craving for form,
+['T27n1545_155:0788c16_17']	彼於此道已修已安。	彼於此道已修已安。	one has already cultivated and stabilized this path.
+['T27n1545_155:0788c17_4']	如修眼根。	如修眼根。	As with the cultivation of the eye faculty,
+['T27n1545_155:0788c17_13']	修耳鼻舌身根亦爾。	修耳鼻舌身根亦爾。	the cultivation of the ear, nose, tongue, and body faculties is also like this.
+['T27n1545_155:0788c18_2']	云何修意根。	云何修意根。	How does one cultivate the mind faculty?
+['T27n1545_155:0788c18_11']	答若於意根已離貪。	答若於意根已離貪。	The answer is: If one has already abandoned craving for the mind faculty,
+['T27n1545_155:0788c18_18']	已離欲潤憙渴。	已離欲潤憙渴。	already abandoned the moisture of desire, joy, and thirst,
+['T27n1545_155:0788c19_9']	又無間道能盡無色貪。	又無間道能盡無色貪。	and the uninterrupted path that can eliminate craving for the formless realm,
+['T27n1545_155:0788c20_1']	彼於此道已修已安。	彼於此道已修已安。	one has already cultivated and stabilized this path.
+['T27n1545_155:0788c20_13']	此諸文句應與前不修相違。	此諸文句應與前不修相違。	These sentences should be in contrast with the above explanation of non-cultivation.
+['T27n1545_155:0788c20_16']	廣說。	廣說。	Explained in detail.
+['T27n1545_155:0788c21_9']	諸不成就學根得學根。	諸不成就學根得學根。	Those who do not yet possess the faculties of a learner and obtain the faculties of a learner,
+['T27n1545_155:0788c21_14']	乃至廣說。	乃至廣說。	and so on in detail.
+['T27n1545_155:0788c22_3']	問何故作此論。	問何故作此論。	Why was this treatise composed?
+['T27n1545_155:0788c22_13']	答愚於退者執退非有。	答愚於退者執退非有。	The answer is: The ignorant cling to retrogression as non-existent.
+['T27n1545_155:0788c23_9']	為遮彼意顯退實有故作斯論。	為遮彼意顯退實有故作斯論。	In order to refute this view and show that retrogression truly exists, this treatise is composed.
+['T27n1545_155:0788c24_3']	諸不成就學根得學根。	諸不成就學根得學根。	Those who do not yet possess the faculties of a learner and obtain the faculties of a learner,
+['T27n1545_155:0788c24_13']	彼一切入正性離生耶。	彼一切入正性離生耶。	do all of them enter the stage of correct separation from birth?
+['T27n1545_155:0788c25_3']	答若入正性離生。	答若入正性離生。	Answer: If one enters the certainty of perfection,
+['T27n1545_155:0788c25_15']	彼一切不成就學根得學根。	彼一切不成就學根得學根。	all of them do not possess the faculties of the learner and obtain the faculties of the learner.🔽There are those who do not possess the faculties of the learner,
+['T27n1545_155:0788c26_7']	有不成就學根得學根。	有不成就學根得學根。	and obtain the faculties of the learner,
+['T27n1545_155:0788c26_15']	彼非入正性離生。	彼非入正性離生。	but they are not entering the certainty of perfection.
+['T27n1545_155:0788c27_5']	謂退阿羅漢果時。	謂退阿羅漢果時。	This refers to the time of regressing from the fruit of arhatship.
+['T27n1545_155:0788c27_14']	彼諸學根先捨今得。	彼諸學根先捨今得。	Those faculties of the learner that were previously abandoned are now obtained.
+['T27n1545_155:0788c28_3']	諸不成就學根。	諸不成就學根。	Those who do not possess the faculties of the learner,
+['T27n1545_155:0788c28_7']	得學根。	得學根。	and obtain the faculties of the learner,
+['T27n1545_155:0788c28_19']	彼一切世第一法等無間耶。	彼一切世第一法等無間耶。	are all of them immediately preceded by the supreme worldly dharmas?
+['T27n1545_155:0788c29_9']	答若世第一法等無間。	答若世第一法等無間。	Answer: If it is immediately preceded by the supreme worldly dharmas,
+['T27n1545_155:0789a01_3']	彼一切不成就學根得學根。	彼一切不成就學根得學根。	all of them do not possess the faculties of the learner and obtain the faculties of the learner.🔽There are those who do not possess the faculties of the learner,
+['T27n1545_155:0789a01_13']	有不成就學根得學根。	有不成就學根得學根。	and obtain the faculties of the learner,
+['T27n1545_155:0789a02_6']	彼非世第一法等無間。	彼非世第一法等無間。	but they are not immediately preceded by the supreme worldly dharmas.
+['T27n1545_155:0789a02_14']	謂退阿羅漢果時。	謂退阿羅漢果時。	This refers to the time of regressing from the fruit of arhatship.
+['T27n1545_155:0789a03_4']	彼諸學根先捨今得。	彼諸學根先捨今得。	Those faculties of the learner that were previously abandoned are now obtained.
+['T27n1545_155:0789a03_12']	問何故復作此論。	問何故復作此論。	Question: Why is this treatise composed again?
+['T27n1545_155:0789a04_7']	答前雖顯示入正性離生自體。	答前雖顯示入正性離生自體。	Answer: Although the essence of entering the certainty of perfection was previously revealed,
+['T27n1545_155:0789a05_1']	而未顯示入彼等無間緣。	而未顯示入彼等無間緣。	the immediately preceding conditions for entering it were not yet revealed.
+['T27n1545_155:0789a05_10']	今欲顯之故作斯論。	今欲顯之故作斯論。	Now, in order to reveal it, this treatise is composed.
+['T27n1545_155:0789a06_5']	諸捨無漏根。	諸捨無漏根。	All those who abandon the uncontaminated faculties,
+['T27n1545_155:0789a06_10']	得無漏根。	得無漏根。	and obtain the uncontaminated faculties,
+['T27n1545_155:0789a07_1']	彼一切從果至果耶。	彼一切從果至果耶。	do they all go from fruit to fruit?
+['T27n1545_155:0789a07_8']	答若從果至果。	答若從果至果。	Answer: If they go from fruit to fruit,
+['T27n1545_155:0789a07_16']	彼一切捨無漏根。	彼一切捨無漏根。	they all abandon the uncontaminated faculties,
+['T27n1545_155:0789a08_11', 'T27n1545_155:0789a09_12']	得無漏根謂預流者證一來果時。🔽捨預流果攝及勝果道無漏諸根得一來果。	得無漏根謂預流者證一來果時。 捨預流果攝及勝果道無漏諸根得一來果。	and obtain the uncontaminated faculties. This refers to when a stream-enterer realizes the fruit of once-returning,
+['T27n1545_155:0789a10_1']	攝無漏諸根。	攝無漏諸根。	they abandon the uncontaminated faculties included in the fruit of stream-entry and the superior path, and obtain the uncontaminated faculties included in the fruit of once-returning.
+['T27n1545_155:0789a10_7']	從果至果者。	從果至果者。	From fruit to fruit means
+['T27n1545_155:0789a10_16']	從預流果至一來果。	從預流果至一來果。	from the fruit of stream-entry to the fruit of once-returning.
+['T27n1545_155:0789a11_6']	一來者證不還果時。	一來者證不還果時。	When a once-returner realizes the fruit of non-returning,
+['T27n1545_155:0789a11_16']	不還者證阿羅漢果時。	不還者證阿羅漢果時。	and when a non-returner realizes the fruit of arhatship,
+['T27n1545_155:0789a12_3']	應知亦爾。	應知亦爾。	it should be understood in the same way.
+['T27n1545_155:0789a12_13']	如證果時退果時亦爾。	如證果時退果時亦爾。	When realizing the fruits, it is the same when regressing from the fruits.
+['T27n1545_155:0789a13_5']	有捨無漏根得無漏根。	有捨無漏根得無漏根。	There are those who abandon the uncontaminated faculties and obtain the uncontaminated faculties,
+['T27n1545_155:0789a13_12']	彼非從果至果。	彼非從果至果。	but they do not go from fruit to fruit.
+['T27n1545_155:0789a14_4']	謂現觀邊道類智起時。	謂現觀邊道類智起時。	This refers to when the knowledge of the path at the end of realization arises.
+['T27n1545_155:0789a14_12']	若時解脫阿羅漢。	若時解脫阿羅漢。	When a time-liberated arhat
+['T27n1545_155:0789a15_1']	練根作不動時。	練根作不動時。	trains the faculties to become unshakable,
+['T27n1545_155:0789a15_10']	問道類智起時可爾。	問道類智起時可爾。	Question: This may be so when the knowledge of the path arises,
+['T27n1545_155:0789a16_8']	時解脫阿羅漢練根作不動時云何可爾。	時解脫阿羅漢練根作不動時云何可爾。	How can it be so when a time-liberated arhat sharpens their faculties to become unshakable?
+['T27n1545_155:0789a17_6']	答此文但應說現觀邊道類智起時。	答此文但應說現觀邊道類智起時。	Answer: This text should only say that when the path of insight and the knowledge of the class of dharmas arise,
+['T27n1545_155:0789a17_11']	不應說餘。	不應說餘。	it should not say anything else.
+['T27n1545_155:0789a17_16']	而說餘者。	而說餘者。	But it says something else.
+['T27n1545_155:0789a18_13']	欲顯此中但說從異類果至異類果。	欲顯此中但說從異類果至異類果。	It wants to show that here it only speaks of going from a different kind of fruit to a different kind of fruit.
+['T27n1545_155:0789a19_9']	時解脫阿羅漢練根作不動時。	時解脫阿羅漢練根作不動時。	When a time-liberated arhat sharpens their faculties to become unshakable,
+['T27n1545_155:0789a20_1']	性類雖別果類不別故。	性類雖別果類不別故。	although the nature and kind are different, the kind of fruit is not different, so
+['T27n1545_155:0789a20_8']	不名從果至果。	不名從果至果。	it is not called going from fruit to fruit.
+['T27n1545_155:0789a20_18']	諸捨無漏根得無漏根。	諸捨無漏根得無漏根。	Those who abandon the pure faculties and obtain the pure faculties,
+['T27n1545_155:0789a21_7']	彼一切無漏根滅。	彼一切無漏根滅。	do all of them extinguish the pure faculties
+['T27n1545_155:0789a21_13']	無漏根起耶。	無漏根起耶。	and give rise to the pure faculties?
+['T27n1545_155:0789a22_1']	答應作四句。	答應作四句。	Answer: Four sentences should be made.
+['T27n1545_155:0789a22_11']	有捨無漏根得無漏根。	有捨無漏根得無漏根。	There are those who abandon the pure faculties and obtain the pure faculties,
+['T27n1545_155:0789a23_4']	彼非無漏根滅無漏根起。	彼非無漏根滅無漏根起。	but they do not extinguish the pure faculties and give rise to the pure faculties.
+['T27n1545_155:0789a23_16']	謂退阿羅漢不還一來果時。	謂退阿羅漢不還一來果時。	This refers to when an arhat regresses from the state of non-returner, once-returner, or stream-enterer,
+['T27n1545_155:0789a24_11']	及以世俗道得一來不還果時。	及以世俗道得一來不還果時。	and when using the mundane path one attains the state of once-returner or non-returner.
+['T27n1545_155:0789a25_3']	爾時無漏不現前故。	爾時無漏不現前故。	At that time, the pure [faculties] do not manifest,
+['T27n1545_155:0789a25_13']	有無漏根滅無漏根起。	有無漏根滅無漏根起。	so there is the extinction of the pure faculties and the arising of the pure faculties.
+['T27n1545_155:0789a26_6']	彼非捨無漏根得無漏根。	彼非捨無漏根得無漏根。	They do not abandon pure faculties and obtain pure faculties.
+['T27n1545_155:0789a26_15']	謂已得無漏根現前。	謂已得無漏根現前。	This refers to the manifestation of faculties that have already been obtained.
+['T27n1545_155:0789a28_10']	滅起則先已得一切果向無漏諸根相續起滅彼非得起曾得道現在前故。	滅起則先已得一切果向無漏諸根相續起滅彼非得起曾得道現在前故。	When they cease and arise, it is because all faculties that have already been obtained in the path of the seeker and the pure faculties continue to arise and cease. This is because the previously obtained path manifests.
+['T27n1545_155:0789a29_4']	亦非捨聖道唯三時捨。	亦非捨聖道唯三時捨。	It is also not the case that one abandons the noble path only at three times.
+['T27n1545_155:0789a29_10']	彼非此時故。	彼非此時故。	Because those are not at that time.
+['T27n1545_155:0789a29_14']	一退時。	一退時。	First, at the time of retrogression.
+['T27n1545_155:0789b01_1']	二得果時。	二得果時。	Second, at the time of attaining the fruit.
+['T27n1545_155:0789b01_6']	三練根時。	三練根時。	Third, at the time of perfecting the faculties.
+['T27n1545_155:0789b01_16']	有捨無漏根得無漏根。	有捨無漏根得無漏根。	There is abandonment of pure faculties and obtaining of pure faculties.
+['T27n1545_155:0789b02_8']	彼亦無漏根滅無漏根起。	彼亦無漏根滅無漏根起。	Those also cease in pure faculties and pure faculties arise.
+['T27n1545_155:0789b02_18']	謂現觀邊道類智起時。	謂現觀邊道類智起時。	This refers to the time when the knowledge of the path at the end of realization arises.
+['T27n1545_155:0789b03_12']	及以無漏道得一來不還果時。	及以無漏道得一來不還果時。	And when one attains the fruit of once-returning or non-returning through the pure path.
+['T27n1545_155:0789b04_2']	得阿羅漢果時。	得阿羅漢果時。	When one attains the fruit of arhatship.
+['T27n1545_155:0789b04_15']	時解脫阿羅漢練根作不動時。	時解脫阿羅漢練根作不動時。	When the arhat liberated by circumstances perfects the faculties and becomes unshakable.
+['T27n1545_155:0789b05_6']	現觀邊道類智起時。	現觀邊道類智起時。	When the knowledge of the path at the end of realization arises.
+['T27n1545_155:0789b05_12']	捨無漏根者。	捨無漏根者。	At the time of abandoning pure faculties.
+['T27n1545_155:0789b05_18']	謂見道所攝。	謂見道所攝。	This refers to that included in the path of seeing.
+['T27n1545_155:0789b06_5']	得無漏根者。	得無漏根者。	At the time of obtaining pure faculties.
+['T27n1545_155:0789b06_11']	謂修道所攝。	謂修道所攝。	This refers to that included in the path of cultivation.
+['T27n1545_155:0789b06_17']	無漏根滅者。	無漏根滅者。	The cessation of pure faculties refers to
+['T27n1545_155:0789b07_6']	謂道類忍俱生品。	謂道類忍俱生品。	those included in the group simultaneously arising with the acceptance of the knowledge of the teachings.
+['T27n1545_155:0789b07_12']	無漏根起者。	無漏根起者。	The arising of pure faculties refers to
+['T27n1545_155:0789b08_1']	謂道類智俱生品。	謂道類智俱生品。	those included in the group simultaneously arising with the knowledge of the teachings.
+['T27n1545_155:0789b08_11']	以無漏道得一來果時。	以無漏道得一來果時。	When attaining the fruit of once-returning through the pure path,
+['T27n1545_155:0789b08_17', 'T27n1545_155:0789b09_5']	捨無漏根者。🔽謂預流果攝。	捨無漏根者。 謂預流果攝。	the abandonment of pure faculties refers to
+['T27n1545_155:0789b09_10']	及勝果道。	及勝果道。	those included in the fruit of stream-entry and the superior path.
+['T27n1545_155:0789b09_16']	得無漏根者。	得無漏根者。	The attainment of pure faculties refers to
+['T27n1545_155:0789b10_3']	謂一來果攝。	謂一來果攝。	those included in the fruit of once-returning.
+['T27n1545_155:0789b10_9']	無漏根滅者。	無漏根滅者。	The cessation of pure faculties refers to
+['T27n1545_155:0789b10_17']	謂第六無間道攝。	謂第六無間道攝。	those included in the sixth uninterrupted path.
+['T27n1545_155:0789b11_3']	無漏根起者。	無漏根起者。	The arising of pure faculties refers to
+['T27n1545_155:0789b11_11']	謂第六解脫道攝。	謂第六解脫道攝。	those included in the sixth path of liberation.
+['T27n1545_155:0789b12_6']	以無漏道得不還果隨應亦爾。	以無漏道得不還果隨應亦爾。	Attaining the fruit of non-returning through the pure path is also like this.
+['T27n1545_155:0789b13_1', 'T27n1545_155:0789b13_7']	得阿羅漢果時捨無漏根者。🔽謂不還果攝。	得阿羅漢果時捨無漏根者。 謂不還果攝。	When attaining the fruit of arhatship, the abandonment of pure faculties refers to
+['T27n1545_155:0789b13_12']	及勝果道。	及勝果道。	those included in the fruit of non-returning and the superior path.
+['T27n1545_155:0789b13_18']	得無漏根者。	得無漏根者。	The attainment of pure faculties refers to
+['T27n1545_155:0789b14_5']	謂阿羅漢果攝。	謂阿羅漢果攝。	those included in the fruit of arhatship.
+['T27n1545_155:0789b14_11']	無漏根滅者。	無漏根滅者。	The cessation of pure faculties refers to
+['T27n1545_155:0789b15_1']	謂金剛喻定俱生品。	謂金剛喻定俱生品。	those simultaneously arising with the diamond-like concentration.
+['T27n1545_155:0789b15_7']	無漏根起者。	無漏根起者。	The arising of pure faculties refers to
+['T27n1545_155:0789b16_8', 'T27n1545_155:0789b16_14']	謂初盡智俱生品時解脫阿羅漢練根作不動時。🔽捨無漏根者。	謂初盡智俱生品時解脫阿羅漢練根作不動時。 捨無漏根者。	That is, when the first knowledge of extinction arises, the arhat liberated according to circumstances sharpens his faculties to become unshakable.
+['T27n1545_155:0789b17_3', 'T27n1545_155:0789b17_9']	謂時解脫道攝。🔽得無漏根者。	謂時解脫道攝。 得無漏根者。	Abandoning the pure faculties refers to the path of liberation.
+['T27n1545_155:0789b17_17', 'T27n1545_155:0789b18_4', 'T27n1545_155:0789b18_12', 'T27n1545_155:0789b18_18']	謂不時解脫道攝。🔽無漏根滅者。🔽謂第九無間道攝。🔽無漏根起者。	謂不時解脫道攝。 無漏根滅者。 謂第九無間道攝。 無漏根起者。	Obtaining the pure faculties refers to the path of liberation not according to circumstances.🔽The cessation of the pure faculties refers to the ninth uninterrupted path.
+['T27n1545_155:0789b19_6']	謂第九解脫道攝。	謂第九解脫道攝。	The arising of the pure faculties refers to the ninth path of liberation.
+['T27n1545_155:0789b19_15']	餘位練根略故不說。	餘位練根略故不說。	The sharpening of faculties in other stages is omitted here.
+['T27n1545_155:0789b20_8']	有非捨無漏根得無漏根。	有非捨無漏根得無漏根。	There is a case where one neither abandons the pure faculties nor obtains the pure faculties.
+['T27n1545_155:0789b21_3']	彼亦非無漏根滅無漏根起。	彼亦非無漏根滅無漏根起。	He also neither causes the cessation of the pure faculties nor causes the arising of the pure faculties.
+['T27n1545_155:0789b21_8']	謂除前相。	謂除前相。	This refers to the case not included in the above.
+['T27n1545_155:0789b21_17']	此中相聲依所名轉。	此中相聲依所名轉。	Here the word case is used in the sense of what is named.
+['T27n1545_155:0789b22_11']	則前三句所不攝法為第四句。	則前三句所不攝法為第四句。	Then dharmas not included in the first three statements constitute the fourth statement.
+['T27n1545_155:0789b22_16']	此復云何。	此復云何。	What are they?
+['T27n1545_155:0789b23_4']	謂諸異生位。	謂諸異生位。	They are the stage of ordinary people.
+['T27n1545_155:0789b23_11']	乃至增上忍位。	乃至增上忍位。	Up to the stage of supreme patience.
+['T27n1545_155:0789b24_2']	於無漏根非捨非得。	於無漏根非捨非得。	In the pure faculties, there is neither abandonment nor attainment.
+['T27n1545_155:0789b24_7']	非滅非起。	非滅非起。	There is neither cessation nor arising.
+['T27n1545_155:0789b24_14']	住世第一法時。	住世第一法時。	When abiding in the supreme worldly dharmas,
+['T27n1545_155:0789b25_5']	於無漏根非捨而得。	於無漏根非捨而得。	In the case of pure faculties, one does not abandon but acquires them.
+['T27n1545_155:0789b25_10']	非滅而起。	非滅而起。	One does not extinguish but produces them.
+['T27n1545_155:0789b26_2']	若諸聖者住苦法智忍。	若諸聖者住苦法智忍。	If the noble ones abide in the receptivity to the knowledge of dharmas with regard to suffering,
+['T27n1545_155:0789b26_9']	乃至道法智時。	乃至道法智時。	up to the time of the knowledge of dharmas with regard to the path,
+['T27n1545_155:0789b26_18']	於無漏根非捨而得。	於無漏根非捨而得。	in the case of pure faculties, one does not abandon but acquires them.
+['T27n1545_155:0789b27_4']	亦滅亦起。	亦滅亦起。	One also extinguishes and produces them.
+['T27n1545_155:0789b27_11']	住道類智忍時。	住道類智忍時。	When abiding in the receptivity to the knowledge of the class of the path,
+['T27n1545_155:0789b28_2']	於無漏根亦捨亦得。	於無漏根亦捨亦得。	in the case of pure faculties, one both abandons and acquires them.
+['T27n1545_155:0789b28_7']	亦滅亦起。	亦滅亦起。	One also extinguishes and produces them.
+['T27n1545_155:0789b28_17']	從預流果證一來果時。	從預流果證一來果時。	When realizing the fruit of once-returning from the fruit of stream-entry,
+['T27n1545_155:0789b29_4']	以世俗道者。	以世俗道者。	if it is by means of the worldly path,
+['T27n1545_155:0789b29_12']	若無漏道為加行。	若無漏道為加行。	if the uncontaminated path is used as the added effort,
+['T27n1545_155:0789b29_18']	住加行道時。	住加行道時。	when abiding in the path of added effort,
+['T27n1545_155:0789c01_8']	於無漏根非捨而得。	於無漏根非捨而得。	in the case of pure faculties, one does not abandon but acquires them.
+['T27n1545_155:0789c01_13']	滅而非起。	滅而非起。	One extinguishes but does not produce them.
+['T27n1545_155:0789c02_3']	若世俗道為加行。	若世俗道為加行。	If the worldly path is used as the added effort,
+['T27n1545_155:0789c02_17']	住加行道五無間道五解脫道時。	住加行道五無間道五解脫道時。	when abiding in the five uninterrupted paths and five paths of liberation of the path of added effort,
+['T27n1545_155:0789c03_8']	於無漏根非捨而得。	於無漏根非捨而得。	in the case of pure faculties, one does not abandon but acquires them.
+['T27n1545_155:0789c03_13']	非滅非起。	非滅非起。	One neither extinguishes nor produces them.
+['T27n1545_155:0789c04_4']	住第六無間道時。	住第六無間道時。	When abiding in the sixth uninterrupted path,
+['T27n1545_155:0789c04_13']	於無漏根亦捨亦得。	於無漏根亦捨亦得。	in the case of pure faculties, one both abandons and acquires them.
+['T27n1545_155:0789c05_5']	非滅非起以無漏道者。	非滅非起以無漏道者。	One neither extinguishes nor produces them. If the uncontaminated path is used,
+['T27n1545_155:0789c05_13']	若世俗道為加行。	若世俗道為加行。	If the worldly path is used as the preparatory path,
+['T27n1545_155:0789c06_1']	住加行道時。	住加行道時。	while abiding in the path of preparation,
+['T27n1545_155:0789c06_10']	於無漏根非捨而得。	於無漏根非捨而得。	with regard to the uncontaminated faculties, one neither abandons nor obtains them,
+['T27n1545_155:0789c06_15']	非滅而起。	非滅而起。	and neither extinguishes nor produces them.
+['T27n1545_155:0789c07_4']	若無漏道為加行。	若無漏道為加行。	If the uncontaminated path is used as the preparatory path,
+['T27n1545_155:0789c08_1']	住加行道五無間道五解脫道時。	住加行道五無間道五解脫道時。	while abiding in the path of preparation, the five uninterrupted paths, and the five paths of liberation,
+['T27n1545_155:0789c08_6']	非捨而得。	非捨而得。	one neither abandons nor obtains them,
+['T27n1545_155:0789c08_11']	亦滅亦起。	亦滅亦起。	but both extinguishes and produces them.
+['T27n1545_155:0789c08_19']	住第六無間道時。	住第六無間道時。	While abiding in the sixth uninterrupted path,
+['T27n1545_155:0789c09_8']	於無漏根亦捨亦得。	於無漏根亦捨亦得。	one both abandons and obtains the uncontaminated faculties,
+['T27n1545_155:0789c09_13']	亦滅亦起。	亦滅亦起。	and both extinguishes and produces them.
+['T27n1545_155:0789c10_8']	從一來果證不還果隨應亦爾。	從一來果證不還果隨應亦爾。	The same applies to the attainment of the fruit of non-returning from the fruit of once-returning.
+['T27n1545_155:0789c11_1']	從不還果證阿羅漢果。	從不還果證阿羅漢果。	From the fruit of non-returning to the attainment of the fruit of arhatship,
+['T27n1545_155:0789c11_8']	離初靜慮染時。	離初靜慮染時。	when detaching from the defilements of the first meditative absorption,
+['T27n1545_155:0789c11_14']	以世俗道者。	以世俗道者。	if the worldly path is used,
+['T27n1545_155:0789c12_3']	若無漏道為加行。	若無漏道為加行。	if the uncontaminated path is used as the preparatory path,
+['T27n1545_155:0789c12_9']	住加行道時。	住加行道時。	while abiding in the path of preparation,
+['T27n1545_155:0789c13_1']	於無漏根非捨而得。	於無漏根非捨而得。	with regard to the uncontaminated faculties, one neither abandons nor obtains them,
+['T27n1545_155:0789c13_6']	滅而非起。	滅而非起。	but extinguishes and does not produce them.
+['T27n1545_155:0789c13_14']	若世俗道為加行。	若世俗道為加行。	If the worldly path is used as the preparatory path,
+['T27n1545_155:0789c14_9']	住加行道九無間道九解脫道時。	住加行道九無間道九解脫道時。	while abiding in the path of preparation, the nine uninterrupted paths, and the nine paths of liberation,
+['T27n1545_155:0789c15_1']	於無漏根非捨而得。	於無漏根非捨而得。	with regard to the uncontaminated faculties, one neither abandons nor obtains them,
+['T27n1545_155:0789c15_6']	非滅非起。	非滅非起。	neither ceasing nor arising.
+['T27n1545_155:0789c15_12']	以無漏道者。	以無漏道者。	By means of the undefiled path,
+['T27n1545_155:0789c16_2']	若世俗道為加行。	若世俗道為加行。	if the worldly path is used as preparation,
+['T27n1545_155:0789c16_8']	住加行道時。	住加行道時。	while dwelling in the path of preparation,
+['T27n1545_155:0789c16_17']	於無漏根非捨而得。	於無漏根非捨而得。	with regard to the undefiled faculties, one neither abandons nor attains,
+['T27n1545_155:0789c17_3']	非滅而起。	非滅而起。	neither ceases nor arises.
+['T27n1545_155:0789c17_11']	若無漏道為加行。	若無漏道為加行。	If the undefiled path is used as preparation,
+['T27n1545_155:0789c18_7']	住加行道九無間道九解脫道時。	住加行道九無間道九解脫道時。	while dwelling in the nine uninterrupted paths and nine paths of liberation of the path of preparation,
+['T27n1545_155:0789c18_16']	於無漏根非捨而得。	於無漏根非捨而得。	with regard to the undefiled faculties, one neither abandons nor attains,
+['T27n1545_155:0789c19_3']	亦滅亦起。	亦滅亦起。	but also ceases and arises.
+['T27n1545_155:0789c19_10']	如離初靜慮染。	如離初靜慮染。	Just as in detaching from the defilements of the first meditation,
+['T27n1545_155:0789c20_3']	乃至離無所有處染亦爾。	乃至離無所有處染亦爾。	up to detaching from the sphere of nothingness, it is the same.
+['T27n1545_155:0789c20_13']	離非想非非想處染時。	離非想非非想處染時。	When detaching from the defilements of the sphere of neither-perception-nor-non-perception,
+['T27n1545_155:0789c21_3']	若世俗道為加行。	若世俗道為加行。	if the worldly path is used as preparation,
+['T27n1545_155:0789c21_9']	住加行道時。	住加行道時。	while dwelling in the path of preparation,
+['T27n1545_155:0789c22_1']	於無漏根非捨而得。	於無漏根非捨而得。	with regard to the undefiled faculties, one neither abandons nor attains,
+['T27n1545_155:0789c22_6']	非滅而起。	非滅而起。	but neither ceases nor arises.
+['T27n1545_155:0789c22_14']	若無漏道為加行。	若無漏道為加行。	If the undefiled path is used as preparation,
+['T27n1545_155:0789c23_9']	住加行道八無間道八解脫道時。	住加行道八無間道八解脫道時。	while dwelling in the path of preparation, the eight uninterrupted paths and eight paths of liberation,
+['T27n1545_155:0789c24_1']	於無漏根非捨而得。	於無漏根非捨而得。	with regard to the undefiled faculties, one neither abandons nor attains,
+['T27n1545_155:0789c24_6']	亦滅亦起。	亦滅亦起。	but also ceases and arises.
+['T27n1545_155:0789c24_14']	住第九無間道時。	住第九無間道時。	While dwelling in the ninth uninterrupted path,
+['T27n1545_155:0789c25_4']	於無漏根亦捨亦得。	於無漏根亦捨亦得。	In the case of pure faculties, one both abandons and obtains,
+['T27n1545_155:0789c25_9']	亦滅亦起。	亦滅亦起。	both extinguishes and produces.
+['T27n1545_155:0789c25_18']	信解練根作見至時。	信解練根作見至時。	When one of faith and understanding sharpens one's faculties to become one of view and understanding,
+['T27n1545_155:0789c26_7']	若世俗道為加行。	若世俗道為加行。	if one uses the worldly path as a means,
+['T27n1545_155:0789c26_13']	住加行道時。	住加行道時。	while dwelling in the path of preparation,
+['T27n1545_155:0789c27_4']	於無漏根非捨而得。	於無漏根非捨而得。	one neither abandons nor obtains pure faculties,
+['T27n1545_155:0789c27_9']	非滅而起。	非滅而起。	neither extinguishes nor produces them.
+['T27n1545_155:0789c27_17']	若無漏道為加行。	若無漏道為加行。	If one uses the supramundane path as a means,
+['T27n1545_155:0789c28_4']	住加行道時。	住加行道時。	while dwelling in the path of preparation,
+['T27n1545_155:0789c28_13']	於無漏根非捨而得。	於無漏根非捨而得。	one neither abandons nor obtains pure faculties,
+['T27n1545_155:0789c28_18']	亦滅亦起。	亦滅亦起。	but extinguishes and produces them.
+['T27n1545_155:0789c29_5']	住無間道時。	住無間道時。	While dwelling in the uninterrupted path,
+['T27n1545_155:0789c29_14']	於無漏根亦捨亦得。	於無漏根亦捨亦得。	one both abandons and obtains pure faculties,
+['T27n1545_155:0790a01_1']	亦滅亦起。	亦滅亦起。	both extinguishes and produces them.
+['T27n1545_155:0790a01_14']	時解脫阿羅漢練根作不動時。	時解脫阿羅漢練根作不動時。	When a time-liberated arhat sharpens his faculties to become unshakable,
+['T27n1545_155:0790a02_6']	如離非想非非想處染。	如離非想非非想處染。	it is like being free from the defilements of the sphere of neither-perception-nor-non-perception.
+['T27n1545_155:0790a02_16']	說雜修靜慮初剎那時。	說雜修靜慮初剎那時。	When explaining the initial moment of mixed cultivation of meditative absorption,
+['T27n1545_155:0790a03_7']	於無漏根非捨而得。	於無漏根非捨而得。	one neither abandons nor obtains pure faculties,
+['T27n1545_155:0790a03_12']	滅而非起。	滅而非起。	but extinguishes and does not produce them.
+['T27n1545_155:0790a03_18', 'T27n1545_155:0790a04_8']	第二剎那時。🔽於無漏根非捨而得。	第二剎那時。 於無漏根非捨而得。	In the second moment,🔽one neither abandons nor obtains pure faculties,
+['T27n1545_155:0790a04_13']	非滅而起。	非滅而起。	but does not extinguish and produces them.🔽In the third moment,
+['T27n1545_155:0790a05_1']	第三剎那時。	第三剎那時。	In the third moment,🔽
+['T27n1545_155:0790a05_7']	如初剎那說。	如初剎那說。	As explained in the first moment.
+['T27n1545_155:0790a06_3']	若引發五通五無間道三解脫道時。	若引發五通五無間道三解脫道時。	If one is in the five uninterrupted paths and three liberated paths of the five supernormal knowledges,
+['T27n1545_155:0790a06_8']	若起無量。	若起無量。	If one gives rise to immeasurable
+['T27n1545_155:0790a06_13', 'T27n1545_155:0790a06_16']	世俗解脫。🔽勝處。	世俗解脫。 勝處。	worldly liberations,🔽overpowering,
+['T27n1545_155:0790a06_19']	遍處。	遍處。	pervading,
+['T27n1545_155:0790a07_2']	不淨觀。	不淨觀。	impure meditation,
+['T27n1545_155:0790a07_6']	持息念。	持息念。	mindfulness of breathing,
+['T27n1545_155:0790a07_11']	世俗念住。	世俗念住。	worldly mindfulness,
+['T27n1545_155:0790a07_17']	世俗無礙解。	世俗無礙解。	worldly unobstructed understanding,
+['T27n1545_155:0790a08_1']	無諍願智。	無諍願智。	conflict-free knowledge,
+['T27n1545_155:0790a08_5']	邊際定。	邊際定。	limitless concentration,
+['T27n1545_155:0790a08_12']	空空無願無願。	空空無願無願。	emptiness of emptiness, wishlessness of wishlessness,
+['T27n1545_155:0790a08_17']	無相無相。	無相無相。	signlessness of signlessness,
+['T27n1545_155:0790a09_5']	入滅定想微細等時。	入滅定想微細等時。	when entering the concentration of cessation, or when subtle thoughts and so forth arise,
+['T27n1545_155:0790a09_14']	於無漏根非捨而得。	於無漏根非捨而得。	one does not abandon but obtains pure faculties,
+['T27n1545_155:0790a10_1']	非滅非起。	非滅非起。	neither ceasing nor arising.
+['T27n1545_155:0790a10_10']	若起無漏他心通時。	若起無漏他心通時。	If one gives rise to pure supernormal knowledge of others' minds,
+['T27n1545_155:0790a10_17']	若起無漏念住。	若起無漏念住。	if one gives rise to pure mindfulness,
+['T27n1545_155:0790a11_3']	無漏解脫。	無漏解脫。	pure liberation,
+['T27n1545_155:0790a11_11']	無漏無礙解等時。	無漏無礙解等時。	pure unobstructed understanding, and so forth,
+['T27n1545_155:0790a12_6']	於無漏根非捨而得亦滅亦起。	於無漏根非捨而得亦滅亦起。	one does not abandon but obtains pure faculties, and both ceases and arises.
+['T27n1545_155:0790a12_13']	若起微微心時。	若起微微心時。	If one gives rise to the subtle and formless minds,
+['T27n1545_155:0790a13_3']	若起聞思慧等時。	若起聞思慧等時。	if one gives rise to the wisdom of hearing and contemplation, and so forth,
+['T27n1545_155:0790a13_12']	於無漏根非捨非得。	於無漏根非捨非得。	one does not abandon or obtain pure faculties,
+['T27n1545_155:0790a13_17']	非滅非起。	非滅非起。	neither ceasing nor arising.
+['T27n1545_155:0790a14_16']	於如是等差別位中隨其所應為第四句。	於如是等差別位中隨其所應為第四句。	In these different states, as appropriate, they are the fourth alternative.
+['T27n1545_155:0790a15_4']	是故略說。	是故略說。	Therefore, in brief,
+['T27n1545_155:0790a15_9']	除前相言。	除前相言。	it is said to exclude the preceding characteristics.
+['T27n1545_155:0790a16_6']	諸未知當知根。	諸未知當知根。	The faculty of understanding the unknown,
+['T27n1545_155:0790a16_11']	乃至廣說。	乃至廣說。	and so on, is explained in detail.
+['T27n1545_155:0790a16_18']	問何故作此論。	問何故作此論。	Question: Why is this treatise composed?
+['T27n1545_155:0790a17_8']	答為令疑者得決定故。	答為令疑者得決定故。	Answer: In order to make the doubtful attain certainty.
+['T27n1545_155:0790a17_14']	如品類足說。	如品類足說。	As the Pañca-viṃśati-sa-āhasrikā Prajñā-pāramitā Sūtra says:
+['T27n1545_155:0790a18_4']	云何未知當知根。	云何未知當知根。	What is the faculty of understanding the unknown?
+['T27n1545_155:0790a18_10']	答未已見諦。	答未已見諦。	Answer: Those who have not yet seen the truths,
+['T27n1545_155:0790a18_16']	未已現觀者。	未已現觀者。	those who have not yet realized the direct insight,
+['T27n1545_155:0790a19_3']	諸學慧慧根。	諸學慧慧根。	the wisdom and faculty of wisdom of learners,
+['T27n1545_155:0790a19_12']	若諸根隨信隨法行。	若諸根隨信隨法行。	if the faculties are of those who follow faith and those who follow the teachings,
+['T27n1545_155:0790a20_4']	於未現觀四聖諦能現觀。	於未現觀四聖諦能現觀。	who have not yet realized the direct insight into the four noble truths, are able to realize the direct insight,
+['T27n1545_155:0790a20_12']	是名未知當知根。	是名未知當知根。	this is called the faculty of understanding the unknown.
+['T27n1545_155:0790a21_3']	彼文但說現在和合。	彼文但說現在和合。	That text only speaks of the present combination,
+['T27n1545_155:0790a21_10']	能荷擔有作用。	能荷擔有作用。	which is able to bear the burden and has function,
+['T27n1545_155:0790a21_16']	未知當知根。	未知當知根。	the faculty of understanding the unknown,
+['T27n1545_155:0790a22_3']	非過去未來。	非過去未來。	is not past or future.
+['T27n1545_155:0790a22_8']	勿有生疑。	勿有生疑。	Do not have doubts,
+['T27n1545_155:0790a22_14']	唯現在和合。	唯現在和合。	only the present combination,
+['T27n1545_155:0790a23_2']	能荷擔有作用。	能荷擔有作用。	is able to bear the burden and has function,
+['T27n1545_155:0790a23_9']	是未知當知根。	是未知當知根。	this is the faculty of understanding the unknown,
+['T27n1545_155:0790a23_15']	非過去未來。	非過去未來。	is not past or future.
+['T27n1545_155:0790a24_5']	為令彼疑得決定故。	為令彼疑得決定故。	In order to make their doubts certain.
+['T27n1545_155:0790a25_1']	顯在三世皆是此根故作斯論。	顯在三世皆是此根故作斯論。	It is shown that in the three times, they are all this faculty, therefore this treatise is composed.
+['T27n1545_155:0790a25_8']	諸未知當知根。	諸未知當知根。	All those faculties of being about to know that are not yet knowing,
+['T27n1545_155:0790a26_4']	彼一切於未現觀四聖諦能現觀耶。	彼一切於未現觀四聖諦能現觀耶。	are they all able to realize the four noble truths that have not yet been realized?
+['T27n1545_155:0790a26_10']	答應作四句。	答應作四句。	The answer is: Four sentences should be made.
+['T27n1545_155:0790a26_17']	有未知當知根。	有未知當知根。	There are faculties of being about to know that,
+['T27n1545_155:0790a27_11']	彼非於未現觀四聖諦能現觀。	彼非於未現觀四聖諦能現觀。	but they are not able to realize the four noble truths that have not yet been realized.
+['T27n1545_155:0790a28_1']	謂未知當知根。	謂未知當知根。	That is, the faculties of being about to know that,
+['T27n1545_155:0790a28_8']	在過去或未來。	在過去或未來。	are in the past or future.
+['T27n1545_155:0790a28_18']	彼有未知當知根相故。	彼有未知當知根相故。	They have the characteristics of the faculties of being about to know that,
+['T27n1545_155:0790a29_7']	亦名未知當知根。	亦名未知當知根。	and are also called the faculties of being about to know that.
+['T27n1545_155:0790b01_3']	然非於未現觀四聖諦能現觀。	然非於未現觀四聖諦能現觀。	However, they are not able to realize the four noble truths that have not yet been realized.
+['T27n1545_155:0790b01_10']	過去作用已息。	過去作用已息。	Because the past function has already ceased,
+['T27n1545_155:0790b01_18']	未來作用未起故。	未來作用未起故。	and the future function has not yet arisen.
+['T27n1545_155:0790b02_11']	有於未現觀四聖諦能現觀。	有於未現觀四聖諦能現觀。	There are those who are able to realize the four noble truths that have not yet been realized,
+['T27n1545_155:0790b03_2']	彼非未知當知根。	彼非未知當知根。	but they are not the faculties of being about to know that.
+['T27n1545_155:0790b04_4']	謂諸非根法於未現觀四聖諦能現觀此復云何。	謂諸非根法於未現觀四聖諦能現觀此復云何。	That is, the dharmas that are not faculties are able to realize the four noble truths that have not yet been realized. What are they?
+['T27n1545_155:0790b04_11']	謂想思觸作意。	謂想思觸作意。	They are conceptualization, volition, contact, and attention.
+['T27n1545_155:0790b04_17', 'T27n1545_155:0790b05_4']	欲勝解慚愧。🔽無貪無瞋輕安。	欲勝解慚愧。 無貪無瞋輕安。	Desire, resolve, conscience, and shame.🔽Non-greed, non-hatred, serenity,
+['T27n1545_155:0790b05_11']	捨不放逸不害。	捨不放逸不害。	Equanimity, non-negligence, and non-harming.
+['T27n1545_155:0790b06_5']	尋伺隨心轉色心不相應行。	尋伺隨心轉色心不相應行。	Reflection, investigation, and the form and non-associated compositional factors that accompany the mind.
+['T27n1545_155:0790b06_17']	如是諸法於未現觀四聖諦。	如是諸法於未現觀四聖諦。	These phenomena, regarding the four noble truths that have not yet been directly realized,
+['T27n1545_155:0790b07_11']	雖能現觀而非未知當知根。	雖能現觀而非未知當知根。	Although they can directly realize them, they are not the faculty of understanding what has not been understood.
+['T27n1545_155:0790b08_3']	以合九根為此根故。	以合九根為此根故。	Because they combine the nine faculties to form this faculty.
+['T27n1545_155:0790b08_10']	有未知當知根。	有未知當知根。	There is the faculty of understanding what has not been understood.
+['T27n1545_155:0790b09_4']	彼亦於未現觀四聖諦能現觀。	彼亦於未現觀四聖諦能現觀。	They also can directly realize the four noble truths that have not yet been directly realized.
+['T27n1545_155:0790b10_3']	謂未知當知根於未現觀四聖諦能現觀。	謂未知當知根於未現觀四聖諦能現觀。	That is to say, the faculty of understanding what has not been understood can directly realize the four noble truths that have not yet been directly realized.
+['T27n1545_155:0790b11_3']	則現在和合能荷擔有作用未知當知根。	則現在和合能荷擔有作用未知當知根。	Then the presently combined faculty of understanding what has not been understood has the function of bearing a burden.
+['T27n1545_155:0790b11_11']	有非未知當知根。	有非未知當知根。	There is that which is not the faculty of understanding what has not been understood.
+['T27n1545_155:0790b12_7']	彼亦非於未現觀四聖諦能現觀。	彼亦非於未現觀四聖諦能現觀。	They also cannot directly realize the four noble truths that have not yet been directly realized.
+['T27n1545_155:0790b12_12']	謂除前相。	謂除前相。	That is to say, excluding the preceding characteristics.
+['T27n1545_155:0790b13_7']	則前三句所不攝法為第四句。	則前三句所不攝法為第四句。	Then the phenomena not included in the first three statements form the fourth statement.
+['T27n1545_155:0790b13_12']	此復云何。	此復云何。	What is this again?
+['T27n1545_155:0790b14_6']	謂除三世未知當知根自性。	謂除三世未知當知根自性。	That is to say, excluding the intrinsic nature of the faculty of understanding what has not been understood in the three times.
+['T27n1545_155:0790b15_1']	及現在此根相應俱有非根法。	及現在此根相應俱有非根法。	and the present dharmas associated with this faculty, coexisting with the faculty but not faculties themselves.
+['T27n1545_155:0790b15_17', 'T27n1545_155:0790b16_9']	諸餘過去未來此根相應俱有非根法。🔽及已知根具知根俱生品。	諸餘過去未來此根相應俱有非根法。 及已知根具知根俱生品。	The remaining past and future dharmas associated with this faculty, coexisting with the faculty but not faculties themselves.🔽And the category of dharmas arising together with the faculty of having understood, and the faculty of having understood all.
+['T27n1545_155:0790b16_18']	一切有漏心心所法。	一切有漏心心所法。	All defiled mind and mental factors.
+['T27n1545_155:0790b17_7']	餘色心不相應行。	餘色心不相應行。	The remaining form, mind, and factors not directly associated with mind.
+['T27n1545_155:0790b17_16']	及無為皆是第四句。	及無為皆是第四句。	And the unconditioned are all the fourth category.
+['T27n1545_155:0790b18_3', 'T27n1545_155:0790b18_10']	故言除前相。🔽如未知當知根。	故言除前相。 如未知當知根。	Therefore it is said to exclude the preceding characteristics.🔽As with the faculty of understanding the unknown,
+['T27n1545_155:0790b19_6']	已知具知根隨其所應廣說亦爾。	已知具知根隨其所應廣說亦爾。	the faculty of having understood and the faculty of having understood all should be extensively explained according to the circumstances.
+['T27n1545_155:0790b20_11']	盡智當言盡智乃至道智耶。	盡智當言盡智乃至道智耶。	Should the knowledge of elimination be said to be the knowledge of elimination, up to the knowledge of the path?
+['T27n1545_155:0790b20_16']	乃至廣說。	乃至廣說。	Explained in detail.
+['T27n1545_155:0790b21_8']	問何故此中分別三智。	問何故此中分別三智。	Why is the distinction of the three knowledges made here?
+['T27n1545_155:0790b21_18']	答是本論師意欲爾故。	答是本論師意欲爾故。	The answer is: It is because the author of this treatise wishes it so.
+['T27n1545_155:0790b22_4']	乃至廣說。	乃至廣說。	Explained in detail.
+['T27n1545_155:0790b22_12']	答盡智當言盡智。	答盡智當言盡智。	The answer is: The knowledge of elimination should be said to be the knowledge of elimination.
+['T27n1545_155:0790b23_3']	謂自了知我已遍知苦。	謂自了知我已遍知苦。	That is to say, one understands by oneself that one has already fully understood suffering.
+['T27n1545_155:0790b23_9']	我已永斷集。	我已永斷集。	One has already permanently eliminated the cause of suffering.
+['T27n1545_155:0790b23_18']	我已證滅我已修道。	我已證滅我已修道。	One has already realized cessation. One has already cultivated the path.
+['T27n1545_155:0790b24_3']	或法智。	或法智。	Or the knowledge of dharmas.
+['T27n1545_155:0790b24_16']	謂自了知我已遍知欲界繫苦。	謂自了知我已遍知欲界繫苦。	It means knowing for oneself: I have already fully known suffering bound to the desire realm.
+['T27n1545_155:0790b25_6', 'T27n1545_155:0790b25_16']	我已永斷欲界繫集。🔽我已證欲界繫諸行滅。	我已永斷欲界繫集。 我已證欲界繫諸行滅。	I have already permanently abandoned the origin bound to the desire realm.🔽I have already realized the cessation of conditioned phenomena bound to the desire realm.
+['T27n1545_155:0790b26_8']	我已修斷欲界繫諸行道。	我已修斷欲界繫諸行道。	I have already cultivated the path that leads to the abandonment of conditioned phenomena bound to the desire realm.
+['T27n1545_155:0790b27_8']	或類智謂自了知我已遍知色無色界繫苦。	或類智謂自了知我已遍知色無色界繫苦。	Or it is the class of subsequent knowledge, meaning knowing for oneself: I have already fully known suffering bound to the form and formless realms.
+['T27n1545_155:0790b28_1']	我已永斷色無色界繫集。	我已永斷色無色界繫集。	I have already permanently abandoned the origin bound to the form and formless realms.
+['T27n1545_155:0790b28_13']	我已證色無色界繫諸行滅。	我已證色無色界繫諸行滅。	I have already realized the cessation of conditioned phenomena bound to the form and formless realms.
+['T27n1545_155:0790b29_7']	我已修斷色無色界繫諸行道。	我已修斷色無色界繫諸行道。	I have already cultivated the path that leads to the abandonment of conditioned phenomena bound to the form and formless realms.
+['T27n1545_155:0790c01_5', 'T27n1545_155:0790c02_3']	或苦智謂自了知我已遍知三界繫苦。🔽或集智謂自了知我已永斷三界繫集。	或苦智謂自了知我已遍知三界繫苦。 或集智謂自了知我已永斷三界繫集。	Or it is the knowledge of suffering, meaning knowing for oneself: I have already fully known suffering bound to the three realms.🔽Or it is the knowledge of origin, meaning knowing for oneself: I have already permanently abandoned the origin bound to the three realms.
+['T27n1545_155:0790c03_2']	或滅智謂自了知我已證三界繫諸行滅。	或滅智謂自了知我已證三界繫諸行滅。	Or it is the knowledge of cessation, meaning knowing for oneself: I have already realized the cessation of conditioned phenomena bound to the three realms.
+['T27n1545_155:0790c04_2']	或道智謂自了知我已修斷三界繫諸行道。	或道智謂自了知我已修斷三界繫諸行道。	Or it is the knowledge of the path, meaning knowing for oneself: I have already cultivated the path that leads to the abandonment of conditioned phenomena bound to the three realms.
+['T27n1545_155:0790c04_12']	問何故盡智非他心智。	問何故盡智非他心智。	Question: Why is the knowledge of elimination not the knowledge of others' minds?
+['T27n1545_155:0790c05_2']	答盡智非見自性。	答盡智非見自性。	Answer: The knowledge of elimination is not the nature of seeing.
+['T27n1545_155:0790c05_11']	他心智是見自性故。	他心智是見自性故。	The cognition of others' minds is by nature seeing.
+['T27n1545_155:0790c05_18']	何故非世俗智。	何故非世俗智。	Why is it not conventional cognition?
+['T27n1545_155:0790c06_5']	答盡智是無漏。	答盡智是無漏。	The answer is: The cognition of exhaustion is uncontaminated.
+['T27n1545_155:0790c06_13']	世俗智是有漏故。	世俗智是有漏故。	Conventional cognition is contaminated.
+['T27n1545_155:0790c07_2']	顯自性已當顯地。	顯自性已當顯地。	Having shown its nature, we will now show its stages.
+['T27n1545_155:0790c07_8']	或有尋有伺。	或有尋有伺。	It may be with investigation and analysis.
+['T27n1545_155:0790c07_16']	謂依未至初靜慮。	謂依未至初靜慮。	This refers to the preliminary stage and the first meditation.
+['T27n1545_155:0790c08_3']	或無尋唯伺。	或無尋唯伺。	It may be without investigation but only with analysis.
+['T27n1545_155:0790c08_10']	謂依靜慮中間。	謂依靜慮中間。	This refers to the intermediate meditation.
+['T27n1545_155:0790c08_16']	或無尋無伺。	或無尋無伺。	It may be without investigation and without analysis.
+['T27n1545_155:0790c09_8']	謂依上三靜慮下三無色。	謂依上三靜慮下三無色。	This refers to the upper three meditations and the lower three formless [absorptions].
+['T27n1545_155:0790c09_16']	顯地已當顯相應。	顯地已當顯相應。	Having shown its stages, we will now show its association.
+['T27n1545_155:0790c10_4']	或樂根相應。	或樂根相應。	It may be associated with the faculty of pleasure.
+['T27n1545_155:0790c10_11']	謂依第三靜慮。	謂依第三靜慮。	This refers to the third meditation.
+['T27n1545_155:0790c10_17']	或喜根相應。	或喜根相應。	It may be associated with the faculty of joy.
+['T27n1545_155:0790c11_5']	謂依初二靜慮。	謂依初二靜慮。	This refers to the first two meditations.
+['T27n1545_155:0790c11_11']	或捨根相應。	或捨根相應。	It may be associated with the faculty of equanimity.
+['T27n1545_155:0790c12_1']	謂依未至靜慮中間。	謂依未至靜慮中間。	This refers to the preliminary stage, the intermediate meditation,
+['T27n1545_155:0790c12_6']	第四靜慮。	第四靜慮。	the fourth meditation,
+['T27n1545_155:0790c12_11']	下三無色。	下三無色。	and the lower three formless [absorptions].
+['T27n1545_155:0790c13_1']	顯相應已當顯行相。	顯相應已當顯行相。	Having shown its association, we will now show its aspects.
+['T27n1545_155:0790c13_7']	或無願相應。	或無願相應。	It may be associated with the aspect of wishlessness.
+['T27n1545_155:0790c13_12']	謂十行相。	謂十行相。	This refers to the ten aspects.
+['T27n1545_155:0790c13_18']	或無相相應。	或無相相應。	It may be associated with the aspect of signlessness.
+['T27n1545_155:0790c14_2']	謂四行相。	謂四行相。	This refers to the four aspects.
+['T27n1545_155:0790c14_12']	問何故盡智非空相應。	問何故盡智非空相應。	Question: Why is the knowledge of exhaustion not associated with the emptiness aggregate?
+['T27n1545_155:0790c15_2']	答空是勝義涉勝義。	答空是勝義涉勝義。	Answer: Emptiness is ultimate, and the ultimate is involved.
+['T27n1545_155:0790c15_12']	盡智是勝義涉世俗故。	盡智是勝義涉世俗故。	The knowledge of exhaustion is ultimate, and the conventional is involved.
+['T27n1545_155:0790c16_3']	如說了知我生已盡。	如說了知我生已盡。	As it is said, One knows that one's birth is exhausted.
+['T27n1545_155:0790c16_12']	涉我解故非空相應。	涉我解故非空相應。	Because it is involved with the understanding of self, it is not associated with emptiness.
+['T27n1545_155:0790c17_3']	顯行相已當顯所緣。	顯行相已當顯所緣。	Having explained the aspects, we will now explain the objects.
+['T27n1545_155:0790c17_9']	或緣欲界繫。	或緣欲界繫。	Either taking the desire realm as its object,
+['T27n1545_155:0790c17_17']	或緣色無色界繫。	或緣色無色界繫。	Or taking the form and formless realms as its object.
+['T27n1545_155:0790c18_4']	此謂緣苦集。	此謂緣苦集。	This means taking suffering and its origin as its object.
+['T27n1545_155:0790c18_9']	或緣不繫。	或緣不繫。	Or taking the unconditioned as its object.
+['T27n1545_155:0790c18_15']	此謂緣滅道。	此謂緣滅道。	This means taking cessation and the path as its object.
+['T27n1545_155:0790c18_19']	如盡智。	如盡智。	Just as with the knowledge of exhaustion,
+['T27n1545_155:0790c19_5']	無生智亦爾。	無生智亦爾。	The knowledge of non-arising is also like this.
+['T27n1545_155:0790c19_10']	然有差別。	然有差別。	However, there is a difference.
+['T27n1545_155:0790c20_1']	謂無生智當言無生智。	謂無生智當言無生智。	That is to say, the knowledge of non-arising should be said to be the knowledge of non-arising.
+['T27n1545_155:0790c20_12']	謂自了知我不復遍知苦。	謂自了知我不復遍知苦。	That is to say, one clearly knows for oneself that one will no longer fully understand suffering,
+['T27n1545_155:0790c21_4']	不復永斷集不復證滅。	不復永斷集不復證滅。	Will no longer permanently eliminate its origin, will no longer realize its cessation,
+['T27n1545_155:0790c21_9']	不復修道。	不復修道。	And will no longer cultivate the path.
+['T27n1545_155:0790c22_2', 'T27n1545_155:0790c22_12']	無學正見當言無學正見。🔽謂以四行相知五取蘊。	無學正見當言無學正見。 謂以四行相知五取蘊。	The right view of one beyond training should be said to be the right view of one beyond training.🔽That is to say, knowing the five aggregates of clinging with four aspects,
+['T27n1545_155:0790c23_4']	以四行相知五取蘊因。	以四行相知五取蘊因。	And knowing the cause of the five aggregates of clinging with four aspects.
+['T27n1545_155:0790c23_14']	以四行相知五取蘊滅。	以四行相知五取蘊滅。	One knows the cessation of the five aggregates of clinging through four aspects.
+['T27n1545_155:0790c24_7']	以四行相知斷五取蘊道。	以四行相知斷五取蘊道。	One knows the path that cuts off the five aggregates of clinging through four aspects.
+['T27n1545_155:0790c24_11']	或法智。	或法智。	Or it is knowledge of dharmas.
+['T27n1545_155:0790c24_18']	謂知欲界四諦。	謂知欲界四諦。	That is, knowing the four truths of the desire realm.
+['T27n1545_155:0790c25_3']	或類智。	或類智。	Or it is inferential knowledge.
+['T27n1545_155:0790c25_12']	謂知色無色界四諦。	謂知色無色界四諦。	That is, knowing the four truths of the form and formless realms.
+['T27n1545_155:0790c25_17']	或他心智。	或他心智。	Or it is knowledge of others' minds.
+['T27n1545_155:0790c26_8']	謂知他無漏心心所法。	謂知他無漏心心所法。	That is, knowing the minds and mental factors of others that are free from defilements.
+['T27n1545_155:0790c26_15']	或苦集滅道智。	或苦集滅道智。	Or it is knowledge of suffering, origination, cessation, and path.
+['T27n1545_155:0790c27_4']	謂別知三界四諦。	謂別知三界四諦。	That is, separately knowing the four truths of the three realms.
+['T27n1545_155:0790c27_16']	問何故無學正見非世俗智。	問何故無學正見非世俗智。	Question: Why is right view of the adept not conventional knowledge?
+['T27n1545_155:0790c28_6']	答此無漏彼有漏故。	答此無漏彼有漏故。	Answer: Because this is pure, while that is contaminated.
+['T27n1545_155:0790c28_18']	顯自性已地等四問如前說。	顯自性已地等四問如前說。	Having shown its intrinsic nature, the four questions such as ground are as explained above.
+['T27n1545_155:0790c29_3']	差別者。	差別者。	The distinctions are:
+['T27n1545_155:0790c29_10']	此亦與空相應。	此亦與空相應。	This is also associated with emptiness.
+['T27n1545_155:0791a01_2', 'T27n1545_155:0791a01_8']	亦作空非我行相轉故。🔽諸最初盡智。	亦作空非我行相轉故。 諸最初盡智。	Because it also functions with the aspects of emptiness and non-self.
+['T27n1545_155:0791a01_13']	乃至廣說。	乃至廣說。	All initial knowledges of exhaustion... and so on in detail.
+['T27n1545_155:0791a02_1']	問何故作此論。	問何故作此論。	Question: Why was this treatise composed?
+['T27n1545_155:0791a02_7']	答前明三智。	答前明三智。	Answer: Previously, the three knowledges were clarified,
+['T27n1545_155:0791a03_1']	未辯等無間緣及所緣差別。	未辯等無間緣及所緣差別。	but the distinctions of the immediately preceding conditions and objects were not yet discussed.
+['T27n1545_155:0791a03_10']	今欲辯之故作斯論。	今欲辯之故作斯論。	Now, wishing to discuss them, this treatise is composed.
+['T27n1545_155:0791a03_16']	諸最初盡智。	諸最初盡智。	All first knowledges of elimination,
+['T27n1545_155:0791a04_8']	彼一切無間道等無間耶。	彼一切無間道等無間耶。	are they all immediately followed by the path of immediate succession?
+['T27n1545_155:0791a04_12']	答如是。	答如是。	Answer: It is so.
+['T27n1545_155:0791a05_10']	以初盡智必從金剛喻定等無間起故。	以初盡智必從金剛喻定等無間起故。	Because the first knowledge of elimination necessarily arises immediately after the Diamond-like Samādhi.
+['T27n1545_155:0791a06_6']	設無間道等無間彼一切盡智耶。	設無間道等無間彼一切盡智耶。	If the path of immediate succession is immediately followed, are they all knowledges of elimination?
+['T27n1545_155:0791a06_10']	答如是。	答如是。	Answer: It is so.
+['T27n1545_155:0791a07_6']	以金剛喻定等無間必起盡智故。	以金剛喻定等無間必起盡智故。	Because the knowledge of elimination necessarily arises immediately after the Diamond-like Samādhi.
+['T27n1545_155:0791a07_13']	諸最初無生智。	諸最初無生智。	All first knowledges of non-arising,
+['T27n1545_155:0791a08_5']	彼一切盡智等無間耶。	彼一切盡智等無間耶。	are they all immediately followed by the knowledge of elimination?
+['T27n1545_155:0791a08_9']	答如是。	答如是。	Answer: It is so.
+['T27n1545_155:0791a09_5']	最初無生智必從盡智等無間起故。	最初無生智必從盡智等無間起故。	Because the first knowledge of non-arising necessarily arises immediately after the knowledge of elimination.
+['T27n1545_155:0791a10_1']	設盡智等無間彼一切無生智耶。	設盡智等無間彼一切無生智耶。	If it is immediately followed by the knowledge of elimination, are they all knowledges of non-arising?🔽Answer: It is so.
+['T27n1545_155:0791a10_6']	答或盡智。	答或盡智。	It is the knowledge of elimination.
+['T27n1545_155:0791a10_11']	謂時解脫。	謂時解脫。	It is the occasional liberation.
+['T27n1545_155:0791a10_16']	或無生智。	或無生智。	It is the knowledge of non-arising.
+['T27n1545_155:0791a11_1']	謂不時解脫。	謂不時解脫。	It is the non-occasional liberation.
+['T27n1545_155:0791a11_7']	或無學正見。	或無學正見。	It is the right view of the post-learner.
+['T27n1545_155:0791a12_8']	謂時解脫諸緣彼無間道起則緣彼初盡智起耶。	謂時解脫諸緣彼無間道起則緣彼初盡智起耶。	If it arises immediately after the path of immediate succession that takes it as its object, does the first knowledge of elimination arise taking it as its object?
+['T27n1545_155:0791a13_7']	答若緣生無間道起則緣彼初盡智起。	答若緣生無間道起則緣彼初盡智起。	If the uninterrupted path takes that [suffering of the peak of existence] as its object, then the first knowledge of elimination takes that [suffering of the peak of existence] as its object.
+['T27n1545_155:0791a14_7', 'T27n1545_155:0791a15_4']	若不緣生無間道起則不緣彼初盡智起。🔽謂金剛喻定六智相應則滅道法智。	若不緣生無間道起則不緣彼初盡智起。 謂金剛喻定六智相應則滅道法智。	If the uninterrupted path does not take that [suffering of the peak of existence] as its object, then the first knowledge of elimination does not take that [suffering of the peak of existence] as its object.
+['T27n1545_155:0791a15_9']	及四類智。	及四類智。	The diamond-like concentration is associated with six knowledges: knowledge of cessation, knowledge of the path, knowledge of dharmas, and the four kinds of subsequent knowledge.
+['T27n1545_155:0791a16_5']	最初盡智二智所攝則苦集類智。	最初盡智二智所攝則苦集類智。	The first knowledge of elimination is subsumed by two knowledges: knowledge of suffering and knowledge of origination, and subsequent knowledge.
+['T27n1545_155:0791a17_9']	若金剛喻定苦集類智相應者則與初盡智所緣境共。	若金剛喻定苦集類智相應者則與初盡智所緣境共。	If the diamond-like concentration is associated with knowledge of suffering and knowledge of origination, then it shares the same object as the first knowledge of elimination.
+['T27n1545_155:0791a18_6']	以俱緣非想非非想處四蘊生故。	以俱緣非想非非想處四蘊生故。	Because they both take the four aggregates of the peak of existence as their object of arising.
+['T27n1545_155:0791a18_16']	彼四蘊名生生死攝故。	彼四蘊名生生死攝故。	Those four aggregates are called birth because they are included in birth and death.
+['T27n1545_155:0791a20_4']	若金剛喻定滅道法類智相應者則與初盡智所緣境異。	若金剛喻定滅道法類智相應者則與初盡智所緣境異。	If the diamond-like concentration is associated with knowledge of cessation, knowledge of the path, knowledge of dharmas, and subsequent knowledge, then it differs from the first knowledge of elimination in its object.
+['T27n1545_155:0791a20_11']	彼緣三界滅道。	彼緣三界滅道。	Because it takes the cessation and path of the three realms as its object.
+['T27n1545_155:0791a21_15']	此緣有頂苦集故諸緣彼盡智起則緣彼無生智起耶。	此緣有頂苦集故諸緣彼盡智起則緣彼無生智起耶。	If the knowledge of elimination takes that [suffering of the peak of existence] as its object, does the knowledge of non-arising also take that [suffering of the peak of existence] as its object?
+['T27n1545_155:0791a22_2']	答如是。	答如是。	The answer is: It is so.
+['T27n1545_155:0791a23_1']	設緣彼無生智起則緣彼盡智起耶。	設緣彼無生智起則緣彼盡智起耶。	If the knowledge of non-arising takes that [suffering of the peak of existence] as its object, does the knowledge of elimination also take that [suffering of the peak of existence] as its object?
+['T27n1545_155:0791a23_5']	答如是。	答如是。	Answer: It is so.
+['T27n1545_155:0791a24_1']	此二智俱以十四行相緣四諦故。	此二智俱以十四行相緣四諦故。	Because these two knowledges both take the four truths as their object with the fourteen aspects.🔽Here is the corrected and aligned text:
+['T27n1545_155:0791a26_100']	說一切有部發智大毘婆沙論卷第一百五十五	說一切有部發智大毘婆沙論卷第一百五十五	Abhidharma-mahāvibhāṣā-śāstra, fascicle 155

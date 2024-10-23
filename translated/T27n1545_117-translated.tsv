@@ -1,0 +1,919 @@
+segmentnr	original	analyzed	translated
+['T27n1545_117:0607a13_0']	阿毘達磨大毘婆沙論卷第一百	阿毘達磨大毘婆沙論卷第一百	Abhidharma-mahāvibhāṣā-śāstra, fascicle 100
+['T27n1545_117:0607a14_0']	一十七	一十七	seventeen
+['T27n1545_117:0607a16_0']	五百大阿羅漢等造	五百大阿羅漢等造	composed by five hundred great arhats and others
+['T27n1545_117:0607a19_3']	三藏法師玄奘奉　詔譯2業蘊第四中邪語納息第二之二有律儀。	三藏法師玄奘奉　詔譯2業蘊第四中邪語納息第二之二有律儀。	tripiṭaka master Xuanzang respectfully received
+['T27n1545_117:0607a19_8']	有不律儀。	有不律儀。	There is no discipline.
+['T27n1545_117:0607a19_14']	有住律儀者。	有住律儀者。	There are those who abide in discipline.
+['T27n1545_117:0607a20_2']	有住不律儀者。	有住不律儀者。	There are those who abide in undiscipline.
+['T27n1545_117:0607a20_7']	云何律儀。	云何律儀。	What is discipline?
+['T27n1545_117:0607a20_12']	謂有七種。	謂有七種。	There are seven kinds.
+['T27n1545_117:0607a20_18']	即離斷生命。	即離斷生命。	That is, refraining from taking life,
+['T27n1545_117:0607a21_5']	乃至離雜穢語。	乃至離雜穢語。	up to refraining from frivolous speech.
+['T27n1545_117:0607a21_11']	云何不律儀。	云何不律儀。	What is undiscipline?
+['T27n1545_117:0607a21_17']	謂亦有七種。	謂亦有七種。	There are also seven kinds.
+['T27n1545_117:0607a22_8']	即斷生命乃至雜穢語。	即斷生命乃至雜穢語。	That is, taking life, up to frivolous speech.
+['T27n1545_117:0607a22_15']	云何住律儀者。	云何住律儀者。	What are those who abide in discipline?
+['T27n1545_117:0607a23_1']	謂有七眾。	謂有七眾。	There are seven groups.
+['T27n1545_117:0607a23_5']	一苾芻。	一苾芻。	One, bhikṣus.
+['T27n1545_117:0607a23_10']	二苾芻尼。	二苾芻尼。	Two, bhikṣuṇīs.
+['T27n1545_117:0607a23_14']	三正學。	三正學。	Three, śikṣamāṇās.
+['T27n1545_117:0607a23_19']	四勤策男。	四勤策男。	Four, śrāmaṇerās.
+['T27n1545_117:0607a24_3']	五勤策女。	五勤策女。	Five, śrāmaṇerīs.
+['T27n1545_117:0607a24_8']	六近事男。	六近事男。	Six, upāsakas.
+['T27n1545_117:0607a24_13']	七近事女。	七近事女。	Seven, upāsikās.
+['T27n1545_117:0607a25_10']	云何住不律儀者謂有十二種不律儀家。	云何住不律儀者謂有十二種不律儀家。	What are those who abide in undiscipline? There are twelve kinds of undisciplined households.
+['T27n1545_117:0607a25_14']	一屠羊。	一屠羊。	One, butchers of sheep.
+['T27n1545_117:0607a25_18']	二屠鷄。	二屠鷄。	Two, butchers of chickens.
+['T27n1545_117:0607a26_3']	三屠猪。	三屠猪。	Three, butchers of pigs.
+['T27n1545_117:0607a26_7']	四捕鳥。	四捕鳥。	4. Bird-catching
+['T27n1545_117:0607a26_11']	五捕魚。	五捕魚。	5. Fish-catching
+['T27n1545_117:0607a26_15']	六遊獵。	六遊獵。	6. Hunting
+['T27n1545_117:0607a26_19']	七作賊。	七作賊。	7. Banditry
+['T27n1545_117:0607a27_2']	八魁膾。	八魁膾。	8. Butcher
+['T27n1545_117:0607a27_6']	九縛龍。	九縛龍。	9. Dragon-binding
+['T27n1545_117:0607a27_10']	十守獄。	十守獄。	10. Prison guard
+['T27n1545_117:0607a27_15', 'T27n1545_117:0607a28_2']	十一煮狗。🔽十二婆具履迦。	十一煮狗。 十二婆具履迦。	11. Dog-cooking🔽12. Barbecued meat
+['T27n1545_117:0607a28_8']	此中屠羊者。	此中屠羊者。	Among them, the sheep butcher,
+['T27n1545_117:0607a28_17']	為活命故懷殺害心。	為活命故懷殺害心。	for the sake of livelihood, harbors a mind of killing.
+['T27n1545_117:0607a29_7']	若買若賣養飼斷命。	若買若賣養飼斷命。	Whether buying or selling, raising or slaughtering,
+['T27n1545_117:0607a29_16']	如是一切皆名屠羊。	如是一切皆名屠羊。	all are called sheep butchers.
+['T27n1545_117:0607b01_7']	屠鷄屠猪亦復如是。	屠鷄屠猪亦復如是。	The chicken butcher and the pig butcher are also like this.
+['T27n1545_117:0607b01_11']	捕鳥者。	捕鳥者。	The bird-catcher,
+['T27n1545_117:0607b02_2']	為活命故採捕眾鳥。	為活命故採捕眾鳥。	for the sake of livelihood, catches various birds.
+['T27n1545_117:0607b02_9']	捕魚等亦如是。	捕魚等亦如是。	The fish-catcher and others are also like this.
+['T27n1545_117:0607b02_13']	縛龍者。	縛龍者。	The dragon-binder,
+['T27n1545_117:0607b03_4']	為活命故習呪龍蛇。	為活命故習呪龍蛇。	for the sake of livelihood, studies the spells of dragons and snakes.
+['T27n1545_117:0607b03_9']	或言縛象。	或言縛象。	Or it is said to be elephant-binding.
+['T27n1545_117:0607b03_13']	煮狗者。	煮狗者。	The dog-cooker,
+['T27n1545_117:0607b04_4', 'T27n1545_117:0607b04_10']	謂栴茶羅等諸穢惡人。🔽婆具履迦者。	謂栴茶羅等諸穢惡人。 婆具履迦者。	refers to the Chandālas and other filthy and evil people.🔽The barbecued meat seller,
+['T27n1545_117:0607b05_1']	謂有傍生名婆具羅。	謂有傍生名婆具羅。	refers to a beast called Barbecued Meat.
+['T27n1545_117:0607b05_6']	即是蟒類。	即是蟒類。	It is a type of python.
+['T27n1545_117:0607b05_15']	恒於曠野吞食商侶。	恒於曠野吞食商侶。	It always devours merchants in the wilderness.
+['T27n1545_117:0607b06_3']	有人專能殺之。	有人專能殺之。	There are people who specialize in killing it.
+['T27n1545_117:0607b06_12']	取商侶價以自活命。	取商侶價以自活命。	They take the wages of merchants as their livelihood.
+['T27n1545_117:0607b07_4']	由此故名婆具履迦。	由此故名婆具履迦。	For this reason, they are called bābhravīyas.
+['T27n1545_117:0607b07_7']	有說。	有說。	Some say:
+['T27n1545_117:0607b07_14']	罝弶名婆具羅。	罝弶名婆具羅。	Bābhrava means a snare.
+['T27n1545_117:0607b08_6']	有人為活命故恒設罝弶。	有人為活命故恒設罝弶。	There are people who, for the sake of livelihood, always set up snares.
+['T27n1545_117:0607b08_17']	取諸眾生故名婆具履迦。	取諸眾生故名婆具履迦。	They take all kinds of beings, therefore they are called bābhravīyas.
+['T27n1545_117:0607b09_2']	有說。	有說。	Some say:
+['T27n1545_117:0607b09_10']	獵主名婆具履迦。	獵主名婆具履迦。	Bābhravīya is the name of a hunter.
+['T27n1545_117:0607b09_15']	如有頌言。	如有頌言。	As a verse says:
+['T27n1545_117:0607b10_0']	鹿出婆具履迦苦　　終不還投婆具羅	鹿出婆具履迦苦　　終不還投婆具羅	The deer leaves the suffering of Bābhrava, but never returns to Bābhrava.
+['T27n1545_117:0607b11_0']	智者棄凡俗出家　　終不還歸苦迫迮	智者棄凡俗出家　　終不還歸苦迫迮	The wise one abandons the ordinary and leaves the household, but never returns to suffering and confinement.
+['T27n1545_117:0607b12_8']	尊者妙音作如是說。	尊者妙音作如是說。	The Venerable Subhagupta says:
+['T27n1545_117:0607b12_17']	若受上命訊問獄囚。	若受上命訊問獄囚。	If one accepts the position of interrogating prisoners,
+['T27n1545_117:0607b13_8']	肆情暴虐加諸苦楚。	肆情暴虐加諸苦楚。	and indulges in violence and cruelty, inflicting suffering,
+['T27n1545_117:0607b13_14']	或非理斷事。	或非理斷事。	or makes unjust decisions,
+['T27n1545_117:0607b14_2']	或毒心賦稅。	或毒心賦稅。	or levies taxes with a poisonous heart,
+['T27n1545_117:0607b14_14']	如是一切皆名住不律儀者。	如是一切皆名住不律儀者。	all of these are called abiding in the state of non-discipline.
+['T27n1545_117:0607b15_10']	問如是諸律儀要受方得。	問如是諸律儀要受方得。	Question: Are these various disciplines only obtained through acceptance?
+['T27n1545_117:0607b16_2']	此不律儀亦如是耶。	此不律儀亦如是耶。	Is this non-discipline also like this?
+['T27n1545_117:0607b16_7']	或有說者。	或有說者。	Some say:
+['T27n1545_117:0607b16_12']	亦由受得。	亦由受得。	It is also obtained through acceptance.
+['T27n1545_117:0607b17_7']	謂手執殺具誓從今日乃至命終。	謂手執殺具誓從今日乃至命終。	It means holding a killing instrument and vowing from today until death.
+['T27n1545_117:0607b17_16']	常作此業以自活命。	常作此業以自活命。	To always make this action one's livelihood.
+['T27n1545_117:0607b18_7']	爾時便得此不律儀。	爾時便得此不律儀。	At that time, one obtains this non-discipline.
+['T27n1545_117:0607b18_12']	復有說者。	復有說者。	There is also a saying.
+['T27n1545_117:0607b19_3']	雖執殺具自立誓言。	雖執殺具自立誓言。	Although holding a killing instrument and making a vow,
+['T27n1545_117:0607b19_12']	然彼不得此不律儀。	然彼不得此不律儀。	One does not obtain this non-discipline.
+['T27n1545_117:0607b19_17']	由二緣得。	由二緣得。	It is obtained by two conditions.
+['T27n1545_117:0607b20_4']	一由作業。	一由作業。	First, by the action.
+['T27n1545_117:0607b20_9']	二由受事。	二由受事。	Second, by accepting the task.
+['T27n1545_117:0607b20_14']	由作業者。	由作業者。	As for the action,
+['T27n1545_117:0607b21_10']	謂生不律儀家最初作彼殺生等業。	謂生不律儀家最初作彼殺生等業。	It means being born in a non-disciplined family and first committing the action of killing, etc.
+['T27n1545_117:0607b22_1']	爾時便得此不律儀。	爾時便得此不律儀。	At that time, one obtains this non-discipline.
+['T27n1545_117:0607b22_6']	由受事者。	由受事者。	As for accepting the task,
+['T27n1545_117:0607b23_2']	謂生餘家為活命故懷殺害心。	謂生餘家為活命故懷殺害心。	It means being born in another family and, for the sake of livelihood, harboring thoughts of killing.
+['T27n1545_117:0607b23_11']	往屠羊等不律儀所。	往屠羊等不律儀所。	Going to a butcher or other non-disciplined person,
+['T27n1545_117:0607b24_6']	作是誓言我從今者乃至命終。	作是誓言我從今者乃至命終。	Making the vow, From now until the end of my life,
+['T27n1545_117:0607b25_2']	常作汝等所作事業以自活命。	常作汝等所作事業以自活命。	I will always make my living by doing what you do.
+['T27n1545_117:0607b25_11']	爾時便得此不律儀。	爾時便得此不律儀。	At that time, one obtains this non-discipline.
+['T27n1545_117:0607b25_16']	復有說者。	復有說者。	There is also a saying.
+['T27n1545_117:0607b26_5']	此亦最初作彼業時。	此亦最初作彼業時。	This is also when one first commits that action.
+['T27n1545_117:0607b26_14']	方乃獲得此不律儀。	方乃獲得此不律儀。	Only then do they obtain this non-restraint.
+['T27n1545_117:0607b27_6']	彼說不律儀唯一緣得。	彼說不律儀唯一緣得。	They say that non-restraint is obtained through only one condition.
+['T27n1545_117:0607b28_14']	若有以下品心起有表業受諸律儀。	若有以下品心起有表業受諸律儀。	If one, with a lesser mental state, generates manifest karma and accepts various precepts,
+['T27n1545_117:0607b29_11']	盡眾同分彼諸律儀下品隨轉。	盡眾同分彼諸律儀下品隨轉。	as long as one's life continues, those precepts will follow one as lesser.
+['T27n1545_117:0607c01_11']	雖於後時勵力發起身語意攝惡行妙行。	雖於後時勵力發起身語意攝惡行妙行。	Even if one later makes an effort to generate bodily, verbal, and mental evil deeds and good practices,
+['T27n1545_117:0607c02_6']	然彼律儀常下品轉更不增長。	然彼律儀常下品轉更不增長。	those precepts will always follow one as lesser and will not increase.
+['T27n1545_117:0607c03_4']	若有以中品心起有表業受諸律儀。	若有以中品心起有表業受諸律儀。	If one, with a middling mental state, generates manifest karma and accepts various precepts,
+['T27n1545_117:0607c03_17']	盡眾同分彼諸律儀中品隨轉。	盡眾同分彼諸律儀中品隨轉。	as long as one's life continues, those precepts will follow one as middling.
+['T27n1545_117:0607c04_16']	雖於後時勵力發起身語意攝惡行妙行。	雖於後時勵力發起身語意攝惡行妙行。	Even if one later makes an effort to generate bodily, verbal, and mental evil deeds and good practices,
+['T27n1545_117:0607c05_12']	然彼律儀常中品轉不增不減。	然彼律儀常中品轉不增不減。	those precepts will always follow one as middling, neither increasing nor decreasing.
+['T27n1545_117:0607c06_9']	若有以上品心起有表業受諸律儀。	若有以上品心起有表業受諸律儀。	If one, with a superior mental state, generates manifest karma and accepts various precepts,
+['T27n1545_117:0607c07_5']	盡眾同分彼諸律儀上品隨轉。	盡眾同分彼諸律儀上品隨轉。	as long as one's life continues, those precepts will follow one as superior.
+['T27n1545_117:0607c08_5']	雖於後時勵力發起身語意攝惡行妙行。	雖於後時勵力發起身語意攝惡行妙行。	Even if one later makes an effort to generate bodily, verbal, and mental evil deeds and good practices,
+['T27n1545_117:0607c08_18']	然彼律儀常上品轉更不損減。	然彼律儀常上品轉更不損減。	However, their precepts always turn to the superior level and do not decrease further.
+['T27n1545_117:0607c09_3']	故如是。	故如是。	Therefore, it is like this.
+['T27n1545_117:0607c09_17']	問頗有新學苾芻成就上品律儀。	問頗有新學苾芻成就上品律儀。	Question: Can there be a newly practicing bhikṣu who accomplishes the superior level of precepts,
+['T27n1545_117:0607c10_11']	而阿羅漢成就下品律儀耶。	而阿羅漢成就下品律儀耶。	while an arhat accomplishes the inferior level of precepts?
+['T27n1545_117:0607c10_14']	答有。	答有。	Answer: There can be.
+['T27n1545_117:0607c11_7']	謂有新學苾芻以上品心。	謂有新學苾芻以上品心。	Namely, there is a newly practicing bhikṣu who, with a superior mind,
+['T27n1545_117:0607c11_16']	起有表業受諸律儀。	起有表業受諸律儀。	gives rise to manifest actions and receives various precepts.
+['T27n1545_117:0607c12_7']	有阿羅漢以下品心。	有阿羅漢以下品心。	There is an arhat who, with an inferior mind,
+['T27n1545_117:0607c12_16']	起有表業受諸律儀。	起有表業受諸律儀。	gives rise to manifest actions and receives various precepts.
+['T27n1545_117:0607c13_11']	如是新學苾芻成就上品律儀。	如是新學苾芻成就上品律儀。	In this way, a newly practicing bhikṣu accomplishes the superior level of precepts,
+['T27n1545_117:0607c14_4']	而阿羅漢成就下品律儀。	而阿羅漢成就下品律儀。	while an arhat accomplishes the inferior level of precepts.
+['T27n1545_117:0607c15_12']	若有最初以下品纏斷眾生命。	若有最初以下品纏斷眾生命。	If there is someone who, with the most inferior entanglements, initially severs the lives of sentient beings,
+['T27n1545_117:0607c16_9']	於此眾生得下品斷生命所攝。	於此眾生得下品斷生命所攝。	with regard to these sentient beings, they obtain the most inferior severance of life that is included,
+['T27n1545_117:0607c17_2']	及不律儀所攝表無表業。	及不律儀所攝表無表業。	as well as the manifest and unmanifest actions that are included in the non-disciplined.
+['T27n1545_117:0607c17_11']	於餘一切有情身上。	於餘一切有情身上。	With regard to the bodies of all other sentient beings,
+['T27n1545_117:0607c18_5']	唯得下品不律儀所攝無表業。	唯得下品不律儀所攝無表業。	they only obtain the most inferior unmanifest actions that are included in the non-disciplined.
+['T27n1545_117:0607c19_3']	若彼後時隨以下中上品纏斷眾生命。	若彼後時隨以下中上品纏斷眾生命。	If they later sever the lives of sentient beings according to the most inferior, middling, or superior entanglements,
+['T27n1545_117:0607c19_14']	於此眾生唯得下中上品。	於此眾生唯得下中上品。	Only the inferior and middling and superior [degrees] are obtained with regard to these sentient beings.
+['T27n1545_117:0607c20_6']	斷生命所攝表無表業。	斷生命所攝表無表業。	The manifest and unmanifest actions included in killing living beings.
+['T27n1545_117:0607c21_1', 'T27n1545_117:0607c22_1']	更不得不律儀所攝表無表業。🔽先已得故如是最初以中品纏以上品纏。	更不得不律儀所攝表無表業。 先已得故如是最初以中品纏以上品纏。	One does not obtain again the manifest and unmanifest actions included in non-restraint.
+['T27n1545_117:0607c22_6']	廣說亦爾。	廣說亦爾。	Because they have already been obtained. The initial [obtaining] is like this. With the middling and superior entanglements, the extensive explanation is also like this.
+['T27n1545_117:0607c22_11']	斷生命等。	斷生命等。	Killing living beings, etc.
+['T27n1545_117:0607c23_6']	隨別漸得不律儀業普頓得故。	隨別漸得不律儀業普頓得故。	One gradually obtains the actions of non-restraint separately, but universally obtains them suddenly.
+['T27n1545_117:0607c24_1']	問如屠羊者不欲殺餘眾生。	問如屠羊者不欲殺餘眾生。	Question: Like a butcher who does not want to kill other sentient beings.
+['T27n1545_117:0607c25_1']	何故此人普於一切有情所得不律儀耶。	何故此人普於一切有情所得不律儀耶。	Why does this person universally obtain non-restraint with regard to all sentient beings?
+['T27n1545_117:0607c25_11']	答雖於羊處起不律儀。	答雖於羊處起不律儀。	Answer: Although non-restraint is produced with regard to sheep,
+['T27n1545_117:0607c26_6']	然諸有情一切皆有羊蘊界處。	然諸有情一切皆有羊蘊界處。	all sentient beings all have the aggregates, realms, and sense bases of sheep.
+['T27n1545_117:0607c26_15']	又彼惡心境界寬遍。	又彼惡心境界寬遍。	Moreover, the evil mind's domain is vast and pervasive.
+['T27n1545_117:0607c27_5']	故於一切得不律儀。	故於一切得不律儀。	Therefore, non-restraint is obtained with regard to all.
+['T27n1545_117:0607c27_14']	無有是處為分別故。	無有是處為分別故。	There is no basis for discrimination.
+['T27n1545_117:0607c28_6']	設諸有情皆作羊像。	設諸有情皆作羊像。	Even if all sentient beings were to take on the appearance of sheep,
+['T27n1545_117:0607c28_15']	來住前者於彼一切。	來住前者於彼一切。	and come to stand before one, with regard to all of them,
+['T27n1545_117:0607c29_6']	皆起惡心皆欲殺害。	皆起惡心皆欲殺害。	one would produce an evil mind and want to kill them all.
+['T27n1545_117:0608a01_2']	是故於一切有情所得不律儀。	是故於一切有情所得不律儀。	Therefore, with regard to all sentient beings, one obtains non-restraint.
+['T27n1545_117:0608a02_5']	住不律儀者。	住不律儀者。	Those who abide in non-restraint,
+['T27n1545_117:0608a02_16']	有於一切有情得不律儀。	有於一切有情得不律儀。	there are those who obtain non-restraint with regard to all sentient beings,
+['T27n1545_117:0608a03_4']	非由一切支。	非由一切支。	not by all aspects,
+['T27n1545_117:0608a03_10']	非由一切因。	非由一切因。	not by all causes.
+['T27n1545_117:0608a04_4']	有於一切有情得不律儀。	有於一切有情得不律儀。	There are those who obtain non-restraint with regard to all sentient beings,
+['T27n1545_117:0608a04_9']	由一切支。	由一切支。	by all aspects,
+['T27n1545_117:0608a04_15']	非由一切因。	非由一切因。	not by all causes.
+['T27n1545_117:0608a05_8']	有於一切有情得不律儀。	有於一切有情得不律儀。	There are those who obtain non-restraint with regard to all sentient beings,
+['T27n1545_117:0608a05_13']	由一切因。	由一切因。	by all causes,
+['T27n1545_117:0608a06_1']	非由一切支。	非由一切支。	not by all aspects.
+['T27n1545_117:0608a06_12']	有於一切有情得不律儀。	有於一切有情得不律儀。	There are those who obtain non-restraint with regard to all sentient beings,
+['T27n1545_117:0608a06_17']	由一切支。	由一切支。	by all aspects,
+['T27n1545_117:0608a07_4']	由一切因。	由一切因。	by all causes.
+['T27n1545_117:0608a07_10']	若由一切支。	若由一切支。	If one obtains non-restraint by all aspects,
+['T27n1545_117:0608a07_15']	由一切因。	由一切因。	by all causes,
+['T27n1545_117:0608a08_8']	得不律儀非於一切有情者。	得不律儀非於一切有情者。	but not with regard to all sentient beings,
+['T27n1545_117:0608a09_1']	此類無有一切有情者。	此類無有一切有情者。	there is no one of this type who is all sentient beings.
+['T27n1545_117:0608a09_10']	即是一切有情之類。	即是一切有情之類。	It is precisely the category of all sentient beings.
+['T27n1545_117:0608a09_15']	一切支者。	一切支者。	All aspects means
+['T27n1545_117:0608a10_6']	謂斷生命乃至說雜穢語。	謂斷生命乃至說雜穢語。	from killing to speaking frivolous words.
+['T27n1545_117:0608a10_11']	一切因者。	一切因者。	All causes means
+['T27n1545_117:0608a10_17']	謂下中上纏。	謂下中上纏。	the lower, middle, and upper entanglements.
+['T27n1545_117:0608a11_3']	或貪嗔癡。	或貪嗔癡。	Or greed, anger, or delusion.
+['T27n1545_117:0608a11_14']	有於一切有情得不律儀。	有於一切有情得不律儀。	There are those who obtain non-restraint with regard to all sentient beings,
+['T27n1545_117:0608a12_2']	非由一切支。	非由一切支。	But not by all aspects,
+['T27n1545_117:0608a12_17']	非由一切因者謂以下纏斷眾生命。	非由一切因者謂以下纏斷眾生命。	Not by all causes, referring to those who, with a lesser entanglement, end the lives of sentient beings,
+['T27n1545_117:0608a13_11']	或中或上非餘亦不起餘支。	或中或上非餘亦不起餘支。	Either in the middle or upper [stages], not in the other [stages], and do not give rise to the other aspects.
+['T27n1545_117:0608a14_5']	有於一切有情得不律儀。	有於一切有情得不律儀。	There are those who obtain non-restraint with regard to all sentient beings,
+['T27n1545_117:0608a14_16']	由一切支非由一切因者。	由一切支非由一切因者。	By all aspects, but not by all causes.
+['T27n1545_117:0608a15_8']	謂以下纏斷眾生命。	謂以下纏斷眾生命。	Referring to those who, with a lesser entanglement, end the lives of sentient beings,
+['T27n1545_117:0608a15_15']	乃至說雜穢語。	乃至說雜穢語。	Up to speaking frivolous speech,
+['T27n1545_117:0608a16_4']	或中或上非餘。	或中或上非餘。	Either in the middle or upper [stages], not in the other [stages].
+['T27n1545_117:0608a16_15']	有於一切有情得不律儀。	有於一切有情得不律儀。	There are those who obtain non-restraint with regard to all sentient beings,
+['T27n1545_117:0608a17_9']	由一切因非由一切支者。	由一切因非由一切支者。	By all causes, but not by all aspects.
+['T27n1545_117:0608a18_7']	謂以下中上纏斷眾生命不起餘支。	謂以下中上纏斷眾生命不起餘支。	Referring to those who, with a lesser, middling, or upper entanglement, end the lives of sentient beings, but do not give rise to the other aspects.
+['T27n1545_117:0608a19_1']	有於一切有情得不律儀。	有於一切有情得不律儀。	There are those who obtain non-restraint with regard to all sentient beings,
+['T27n1545_117:0608a19_11']	由一切支由一切因者。	由一切支由一切因者。	By all aspects and by all causes.
+['T27n1545_117:0608a20_4']	謂以下中上纏斷眾生命。	謂以下中上纏斷眾生命。	Referring to those who, with a lesser, middling, or upper entanglement, end the lives of sentient beings,
+['T27n1545_117:0608a20_11']	乃至說雜穢語。	乃至說雜穢語。	Up to speaking frivolous speech.
+['T27n1545_117:0608a20_16']	住律儀者。	住律儀者。	Those who abide in restraint,
+['T27n1545_117:0608a21_8']	有於一切有情得律儀。	有於一切有情得律儀。	There are those who obtain precepts with regard to all sentient beings,
+['T27n1545_117:0608a21_14']	非由一切支。	非由一切支。	but not by all aspects,
+['T27n1545_117:0608a22_3']	非由一切因。	非由一切因。	and not by all causes.
+['T27n1545_117:0608a22_13']	有於一切有情得律儀。	有於一切有情得律儀。	There are those who obtain precepts with regard to all sentient beings,
+['T27n1545_117:0608a22_18']	由一切支。	由一切支。	by all aspects,
+['T27n1545_117:0608a23_5']	非由一切因。	非由一切因。	but not by all causes.
+['T27n1545_117:0608a23_15']	有於一切有情得律儀。	有於一切有情得律儀。	There are those who obtain precepts with regard to all sentient beings,
+['T27n1545_117:0608a24_3']	由一切支。	由一切支。	by all aspects,
+['T27n1545_117:0608a24_8']	由一切因。	由一切因。	and by all causes.
+['T27n1545_117:0608a25_1']	若於一切有情得律儀。	若於一切有情得律儀。	If one obtains precepts with regard to all sentient beings,
+['T27n1545_117:0608a25_12']	由一切因非由一切支者。	由一切因非由一切支者。	by all causes but not by all aspects,
+['T27n1545_117:0608a25_17']	此類無有。	此類無有。	there is no such case.
+['T27n1545_117:0608a26_12']	若由一切支由一切因得律儀。	若由一切支由一切因得律儀。	If one obtains precepts by all aspects and by all causes,
+['T27n1545_117:0608a27_3']	非於一切有情者。	非於一切有情者。	but not with regard to all sentient beings,
+['T27n1545_117:0608a27_13', 'T27n1545_117:0608a28_4']	此亦無有一切有情者。🔽即是一切有情之類。	此亦無有一切有情者。 即是一切有情之類。	this also does not exist.
+['T27n1545_117:0608a28_9']	一切支者。	一切支者。	All sentient beings refers to the category of all sentient beings.
+['T27n1545_117:0608a29_3', 'T27n1545_117:0608a29_8']	謂離斷生命乃至離雜穢語。🔽一切因者。	謂離斷生命乃至離雜穢語。 一切因者。	All aspects refers to abstaining from taking life up to abstaining from frivolous speech.
+['T27n1545_117:0608a29_15']	謂下中上品心。	謂下中上品心。	All causes refers to the superior, medium, and inferior levels of mind,
+['T27n1545_117:0608b01_3']	或無貪無瞋無癡。	或無貪無瞋無癡。	or to non-greed, non-hatred, and non-delusion.
+['T27n1545_117:0608b01_13']	有於一切有情得律儀。	有於一切有情得律儀。	There are those who obtain precepts with regard to all sentient beings,
+['T27n1545_117:0608b02_5']	非一切支非一切因者。	非一切支非一切因者。	Those that are not all members and not all causes refer to
+['T27n1545_117:0608b02_16']	謂以下心受近事勤策戒。	謂以下心受近事勤策戒。	those who, with a lesser mind, receive the precepts of the lay devotee or novice.
+['T27n1545_117:0608b03_7']	或中或上或二非餘。	或中或上或二非餘。	Either middle or superior, or both, but not the others.
+['T27n1545_117:0608b03_17']	有於一切有情得律儀。	有於一切有情得律儀。	There are those who obtain the precepts with regard to all sentient beings,
+['T27n1545_117:0608b04_9']	亦一切支非一切因者。	亦一切支非一切因者。	and also all members, but not all causes.
+['T27n1545_117:0608b05_5']	謂以下心受近事乃至苾芻戒。	謂以下心受近事乃至苾芻戒。	This refers to those who, with a lesser mind, receive the precepts of the lay devotee up to the fully ordained monk.
+['T27n1545_117:0608b05_14']	或中或上或二非餘。	或中或上或二非餘。	Either middle or superior, or both, but not the others.
+['T27n1545_117:0608b06_5']	有於一切有情得律儀。	有於一切有情得律儀。	There are those who obtain the precepts with regard to all sentient beings,
+['T27n1545_117:0608b06_15']	亦一切支亦一切因者。	亦一切支亦一切因者。	and also all members and all causes.
+['T27n1545_117:0608b07_4']	謂以下中上心。	謂以下中上心。	This refers to those who, with a lesser, middle, or superior mind,
+['T27n1545_117:0608b07_15']	如次受近事勤策苾芻戒。	如次受近事勤策苾芻戒。	receive the precepts of the lay devotee, novice, or fully ordained monk, respectively.
+['T27n1545_117:0608b08_5']	問若以下中上心。	問若以下中上心。	Question: If, with a lesser, middle, or superior mind,
+['T27n1545_117:0608b08_17']	如次受近住近事勤策戒時。	如次受近住近事勤策戒時。	one receives the precepts of the lay devotee, novice, or fully ordained monk, respectively,
+['T27n1545_117:0608b09_10']	即名於一切有情得律儀。	即名於一切有情得律儀。	then one is said to obtain the precepts with regard to all sentient beings,
+['T27n1545_117:0608b10_2']	亦一切因非一切支。	亦一切因非一切支。	and also all causes, but not all members.
+['T27n1545_117:0608b10_7']	何以言無。	何以言無。	Why is it said that there are none?
+['T27n1545_117:0608b11_5']	答此中但依盡壽律儀作論不依晝夜。	答此中但依盡壽律儀作論不依晝夜。	Answer: Here, the treatise is only based on the precepts that last a lifetime, not on those that last a day and night.
+['T27n1545_117:0608b11_10']	所以者何。	所以者何。	Why is this?
+['T27n1545_117:0608b11_15']	彼名為齋。	彼名為齋。	Because those are called fasts.
+['T27n1545_117:0608b12_5']	於律儀中非決定故。	於律儀中非決定故。	Because in the precepts, it is not definite.
+['T27n1545_117:0608b13_13']	問如受律儀於下品後復得中品。	問如受律儀於下品後復得中品。	Question: Just as in receiving precepts, after the inferior one obtains the medium,
+['T27n1545_117:0608b14_6']	於中品後復得上品。	於中品後復得上品。	and after the medium obtains the superior,
+['T27n1545_117:0608b14_15']	諸不律儀亦如是耶。	諸不律儀亦如是耶。	are the non-precepts also like this?
+['T27n1545_117:0608b15_2']	或有說者。	或有說者。	Some say:
+['T27n1545_117:0608b15_12']	如得律儀不律儀亦爾。	如得律儀不律儀亦爾。	Just as in obtaining precepts, the non-precepts are also like this.
+['T27n1545_117:0608b15_17']	所以者何。	所以者何。	Why is it so?
+['T27n1545_117:0608b16_7']	諸善律儀作大功用。	諸善律儀作大功用。	All good precepts are made with great effort.
+['T27n1545_117:0608b16_16']	作大加行尚數數得。	作大加行尚數數得。	Even though they are made with great exertion, they are still obtained frequently.
+['T27n1545_117:0608b17_3']	況不律儀。	況不律儀。	How much more so for the non-precepts.
+['T27n1545_117:0608b17_8']	如是說者。	如是說者。	Those who say this:
+['T27n1545_117:0608b17_17']	律儀漸得非不律儀。	律儀漸得非不律儀。	The precepts are obtained gradually, but not the non-precepts.
+['T27n1545_117:0608b18_3']	所以者何。	所以者何。	Why is it so?
+['T27n1545_117:0608b18_16']	律儀難得以難得故漸受漸得。	律儀難得以難得故漸受漸得。	The precepts are difficult to obtain, and because they are difficult to obtain, they are gradually received and gradually obtained.
+['T27n1545_117:0608b19_12']	不律儀易得以易得故頓受頓得。	不律儀易得以易得故頓受頓得。	The non-precepts are easy to obtain, and because they are easy to obtain, they are suddenly received and suddenly obtained.
+['T27n1545_117:0608b20_9']	問如善律儀有支不具。	問如善律儀有支不具。	Question: Just as the good precepts may lack some components,
+['T27n1545_117:0608b21_1']	諸不律儀亦如是耶。	諸不律儀亦如是耶。	are the non-precepts also like this?
+['T27n1545_117:0608b21_11']	答健馱羅國諸論師言。	答健馱羅國諸論師言。	Answer: The scholars of Gandhara say:
+['T27n1545_117:0608b22_1']	不律儀業有支不具。	不律儀業有支不具。	The non-precept karma may lack some components.
+['T27n1545_117:0608b22_14']	若諸有情生在種種不律儀家。	若諸有情生在種種不律儀家。	If sentient beings are born in various families of non-restraint,
+['T27n1545_117:0608b23_8']	生便瘖瘂盡眾同分不能言說。	生便瘖瘂盡眾同分不能言說。	they are born mute and throughout their lives are unable to speak.
+['T27n1545_117:0608b24_4']	彼但可得身三業性不律儀業。	彼但可得身三業性不律儀業。	They can only obtain the nature of the three bodily karmas of non-restraint.
+['T27n1545_117:0608b24_9']	不得語四。	不得語四。	They do not obtain the four of speech.
+['T27n1545_117:0608b25_4']	迦濕彌羅國諸大論師咸作是說。	迦濕彌羅國諸大論師咸作是說。	The great masters of the Kaśmīra country all say:
+['T27n1545_117:0608b25_13']	諸不律儀無支不具。	諸不律儀無支不具。	All non-restraints are not incomplete in their components.
+['T27n1545_117:0608b26_8']	如善律儀漸次受者有支不具。	如善律儀漸次受者有支不具。	Just as those who gradually accept good restraints may be incomplete in their components,
+['T27n1545_117:0608b26_17']	諸不律儀則不如是。	諸不律儀則不如是。	all non-restraints are not like this.
+['T27n1545_117:0608b27_8']	無漸受故易可得故。	無漸受故易可得故。	Because there is no gradual acceptance and because they are easily obtained.
+['T27n1545_117:0608b28_3']	問住不律儀者受八戒齋時。	問住不律儀者受八戒齋時。	Question: When those abiding in non-restraint receive the eight precepts of the fasting observance,
+['T27n1545_117:0608b28_11']	捨不律儀得律儀。	捨不律儀得律儀。	do they abandon non-restraint and obtain restraint,
+['T27n1545_117:0608b29_7']	至明旦時捨律儀還得不律儀耶。	至明旦時捨律儀還得不律儀耶。	and at dawn do they abandon restraint and again obtain non-restraint?
+['T27n1545_117:0608b29_17']	答健馱羅國諸論師言。	答健馱羅國諸論師言。	Answer: The masters of Gandhāra say:
+['T27n1545_117:0608c01_10']	住不律儀者受八戒齋時。	住不律儀者受八戒齋時。	When those abiding in non-restraint receive the eight precepts of the fasting observance,
+['T27n1545_117:0608c02_1']	捨不律儀得律儀。	捨不律儀得律儀。	they abandon non-restraint and obtain restraint.
+['T27n1545_117:0608c02_14']	至明旦時捨律儀還得不律儀。	至明旦時捨律儀還得不律儀。	At dawn they abandon restraint and again obtain non-restraint.
+['T27n1545_117:0608c03_6']	得律儀故不律儀斷。	得律儀故不律儀斷。	Because they obtain restraint, non-restraint is severed.
+['T27n1545_117:0608c03_15']	捨律儀故不律儀續。	捨律儀故不律儀續。	Because one abandons the precepts, one continues to be without precepts.
+['T27n1545_117:0608c04_11']	迦濕彌羅國諸大論師咸作是說。	迦濕彌羅國諸大論師咸作是說。	The great masters of the Kaśmīra country all say:
+['T27n1545_117:0608c05_4']	住不律儀者受八戒齋時。	住不律儀者受八戒齋時。	Those who abide in non-precepts, when they receive the eight precepts of the fasting ritual,
+['T27n1545_117:0608c05_12']	捨不律儀得律儀。	捨不律儀得律儀。	Abandon non-precepts and obtain precepts.
+['T27n1545_117:0608c06_8']	至明旦時捨律儀不得不律儀。	至明旦時捨律儀不得不律儀。	At dawn the next day, they abandon the precepts but do not obtain non-precepts.
+['T27n1545_117:0608c07_1']	得律儀故捨不律儀。	得律儀故捨不律儀。	Because they obtain precepts, they abandon non-precepts.
+['T27n1545_117:0608c07_10']	分齊極故又捨律儀。	分齊極故又捨律儀。	Because the limit is reached, they also abandon the precepts.
+['T27n1545_117:0608c08_4']	是故爾時名非律儀非不律儀。	是故爾時名非律儀非不律儀。	Therefore, at that time, they are called neither precepts nor non-precepts.
+['T27n1545_117:0608c08_13']	若彼有情盡眾同分。	若彼有情盡眾同分。	If those sentient beings exhaust their homogeneous character,
+['T27n1545_117:0608c09_5']	不復作者不得不律儀。	不復作者不得不律儀。	They do not create again and do not obtain non-precepts.
+['T27n1545_117:0608c09_15']	若復作者還得不律儀。	若復作者還得不律儀。	If they create again, they will obtain non-precepts again.
+['T27n1545_117:0608c10_6']	盡壽律儀由四緣捨。	盡壽律儀由四緣捨。	The precepts that last a lifetime are abandoned due to four conditions.
+['T27n1545_117:0608c10_11']	一捨所學。	一捨所學。	First, abandoning what is learned.
+['T27n1545_117:0608c10_16']	二二形生。	二二形生。	Second, giving rise to two sexual organs.
+['T27n1545_117:0608c11_2']	三斷善根。	三斷善根。	Third, severing the roots of good.
+['T27n1545_117:0608c11_8']	四捨眾同分。	四捨眾同分。	Fourth, abandoning the homogeneous character.
+['T27n1545_117:0608c11_14']	諸持律者說。	諸持律者說。	The Vinaya masters say:
+['T27n1545_117:0608c12_4']	法滅沒時為第五緣。	法滅沒時為第五緣。	At the time of the Dharma's disappearance, it is the fifth condition.
+['T27n1545_117:0608c12_10']	謂法滅沒時。	謂法滅沒時。	At the time of the Dharma's disappearance,
+['T27n1545_117:0608c12_15']	一切所學。	一切所學。	All that is learned,
+['T27n1545_117:0608c13_1']	出家受具。	出家受具。	Going forth and receiving the full precepts,
+['T27n1545_117:0608c13_6']	結界羯磨。	結界羯磨。	The karma of establishing the boundary.
+['T27n1545_117:0608c13_11']	悉皆息滅。	悉皆息滅。	All cease and disappear.
+['T27n1545_117:0608c13_20']	是故爾時律儀亦捨。	是故爾時律儀亦捨。	Therefore, at that time, the precepts are also abandoned.
+['T27n1545_117:0608c14_4']	如是說者。	如是說者。	Those who say this.
+['T27n1545_117:0608c14_15']	當於爾時先得律儀不捨。	當於爾時先得律儀不捨。	At that time, the precepts that were previously obtained are not abandoned.
+['T27n1545_117:0608c15_6']	已出家者猶名出家。	已出家者猶名出家。	Those who have already left the home life are still called those who have left the home life.
+['T27n1545_117:0608c15_15']	已受具者猶名受具。	已受具者猶名受具。	Those who have already received the full ordination are still called those who have received the full ordination.
+['T27n1545_117:0608c16_6']	未出家者無復出家。	未出家者無復出家。	Those who have not left the home life no longer leave the home life.
+['T27n1545_117:0608c16_15']	未受具者無復受具。	未受具者無復受具。	Those who have not received the full ordination no longer receive the full ordination.
+['T27n1545_117:0608c17_6']	依此故言一切息滅。	依此故言一切息滅。	Based on this, it is said that everything ceases and disappears.
+['T27n1545_117:0608c18_8']	諸不律儀由四緣捨。	諸不律儀由四緣捨。	The various forms of non-discipline are abandoned due to four conditions.
+['T27n1545_117:0608c18_16']	一受別解脫律儀。	一受別解脫律儀。	First, by receiving the precepts of individual liberation.
+['T27n1545_117:0608c19_5']	二得靜慮律儀。	二得靜慮律儀。	Second, by attaining the precepts of meditative concentration.
+['T27n1545_117:0608c19_10']	三二形生。	三二形生。	Third, by giving rise to the two sexual organs.
+['T27n1545_117:0608c19_16']	四捨眾同分。	四捨眾同分。	Fourth, by abandoning the common lot.
+['T27n1545_117:0608c20_6']	問如善律儀捨所學。	問如善律儀捨所學。	Question: As for the good disciplines, by abandoning what is learned,
+['T27n1545_117:0608c20_16']	捨此不律儀亦如是耶。	捨此不律儀亦如是耶。	is the abandonment of this non-discipline also like this?
+['T27n1545_117:0608c21_4']	答或有說者。	答或有說者。	Answer: There are some who say:
+['T27n1545_117:0608c21_13']	若能決定捨諸殺具。	若能決定捨諸殺具。	If one can decisively abandon all the implements of killing,
+['T27n1545_117:0608c22_2']	爾時捨不律儀。	爾時捨不律儀。	at that time one abandons the non-discipline.
+['T27n1545_117:0608c22_7']	如是說者。	如是說者。	Those who say this.
+['T27n1545_117:0608c22_16']	雖復決定捨諸殺具。	雖復決定捨諸殺具。	Although one decisively abandons all the implements of killing,
+['T27n1545_117:0608c23_6']	若不受戒得善律儀。	若不受戒得善律儀。	If one does not receive precepts, one can obtain wholesome restraint.
+['T27n1545_117:0608c23_15']	終不得名捨不律儀。	終不得名捨不律儀。	One can never be said to abandon unwholesome restraint.
+['T27n1545_117:0608c24_3']	三惡行。	三惡行。	Three kinds of evil conduct.
+['T27n1545_117:0608c24_8']	三曲穢濁。	三曲穢濁。	Three kinds of crookedness, impurity, and turbidity.
+['T27n1545_117:0608c24_13']	乃至廣說。	乃至廣說。	And so on, explained in detail.
+['T27n1545_117:0608c25_1']	問何故作此論。	問何故作此論。	Question: Why is this treatise composed?
+['T27n1545_117:0608c25_11']	答為欲分別契經義故。	答為欲分別契經義故。	Answer: In order to distinguish the meaning of the sutras.
+['T27n1545_117:0608c25_16']	如契經說。	如契經說。	As the sutras say:
+['T27n1545_117:0608c26_3']	有三惡行。	有三惡行。	There are three kinds of evil conduct.
+['T27n1545_117:0608c26_8']	三曲穢濁。	三曲穢濁。	Three kinds of crookedness, impurity, and turbidity.
+['T27n1545_117:0608c26_15']	契經雖作是說。	契經雖作是說。	Although the sutras say this,
+['T27n1545_117:0608c27_6']	而不廣辯廣說如前。	而不廣辯廣說如前。	They do not explain it in detail, as explained above.
+['T27n1545_117:0608c27_11']	復有說者。	復有說者。	There is also a theory that:
+['T27n1545_117:0608c28_4']	前納息中已分別三惡行。	前納息中已分別三惡行。	In the previous chapter, the three kinds of evil conduct have already been distinguished.
+['T27n1545_117:0608c28_13']	而未分別三曲穢濁。	而未分別三曲穢濁。	But the three kinds of crookedness, impurity, and turbidity have not yet been distinguished.
+['T27n1545_117:0608c29_4']	今欲分別故作斯論。	今欲分別故作斯論。	Now, in order to distinguish them, this treatise is composed.
+['T27n1545_117:0609a01_4']	三曲穢濁。	三曲穢濁。	The three kinds of crookedness, impurity, and turbidity.
+['T27n1545_117:0609a01_12']	謂身曲身穢身濁。	謂身曲身穢身濁。	That is, crookedness of the body, impurity of the body, and turbidity of the body.
+['T27n1545_117:0609a01_19']	語曲語穢語濁。	語曲語穢語濁。	Crookedness of speech, impurity of speech, and turbidity of speech.
+['T27n1545_117:0609a02_6']	意曲意穢意濁。	意曲意穢意濁。	Crookedness of mind, impurity of mind, and turbidity of mind.
+['T27n1545_117:0609a02_11']	三曲云何。	三曲云何。	What are the three kinds of crookedness?
+['T27n1545_117:0609a03_1']	謂諂所起身語意業。	謂諂所起身語意業。	It refers to the bodily, verbal, and mental actions produced by flattery.
+['T27n1545_117:0609a03_6']	所以者何。	所以者何。	Why is it so?
+['T27n1545_117:0609a03_11']	諂名為曲。	諂名為曲。	Flattery is called crookedness.
+['T27n1545_117:0609a04_5']	由曲相法所起三業說名為曲。	由曲相法所起三業說名為曲。	The three karmas produced by the dharmas of crookedness are called crooked.
+['T27n1545_117:0609a04_10']	是彼果故。	是彼果故。	Because they are the fruits of that.
+['T27n1545_117:0609a05_1']	問復何因緣諂名為曲。	問復何因緣諂名為曲。	What is the reason for calling flattery crooked?
+['T27n1545_117:0609a05_7']	答直相違故。	答直相違故。	Because it contradicts straightforwardness.
+['T27n1545_117:0609a05_12']	如有頌言。	如有頌言。	As a verse says:🔽All that is winding, crooked,
+['T27n1545_117:0609a06_0']	諸盤迴屈曲　　不平直不正	諸盤迴屈曲　　不平直不正	uneven, and incorrect,🔽such as steep ravines, dense forests,
+['T27n1545_117:0609a07_0']	嶮坑㵎稠林　　是皆喻其諂	嶮坑㵎稠林　　是皆喻其諂	are all metaphors for flattery.
+['T27n1545_117:0609a08_4']	復有說者。	復有說者。	Furthermore, there are those who say:
+['T27n1545_117:0609a08_13']	以諸有情諂所損污。	以諸有情諂所損污。	Because sentient beings are defiled by flattery,
+['T27n1545_117:0609a09_4']	難出生死難入涅槃。	難出生死難入涅槃。	it is difficult for them to escape from birth and death and difficult for them to enter nirvana.
+['T27n1545_117:0609a10_1']	猶如曲木難出稠林難入聚落。	猶如曲木難出稠林難入聚落。	Just as crooked wood is difficult to get out of dense forests and difficult to enter villages,
+['T27n1545_117:0609a10_10']	此亦如是故名為曲。	此亦如是故名為曲。	this is also like that, so it is called crooked.
+['T27n1545_117:0609a10_15']	復有說者。	復有說者。	Furthermore, there are those who say:
+['T27n1545_117:0609a11_5']	以諸有情諂所損污。	以諸有情諂所損污。	Because sentient beings are defiled by flattery,
+['T27n1545_117:0609a11_14']	諸所作事將現在前。	諸所作事將現在前。	when the things they do are about to be present,
+['T27n1545_117:0609a12_9']	復還棄背將欲出言復還內止。	復還棄背將欲出言復還內止。	they abandon them again and turn their backs on them. When they are about to speak, they retract and stop.
+['T27n1545_117:0609a13_1']	其性嶮惡難得意趣。	其性嶮惡難得意趣。	Their nature is treacherous and evil, difficult to understand and follow,
+['T27n1545_117:0609a13_10']	難可共交故名為曲。	難可共交故名為曲。	and difficult to associate with, so it is called crooked.
+['T27n1545_117:0609a13_15']	復有說者。	復有說者。	Furthermore, there are those who say:
+['T27n1545_117:0609a14_6']	以諸有情諂所損污。	以諸有情諂所損污。	Because sentient beings are defiled by flattery,
+['T27n1545_117:0609a14_15']	諸聰慧者皆應遠離。	諸聰慧者皆應遠離。	The wise should all stay far away from it.
+['T27n1545_117:0609a15_10']	如樂淨人逃避塚間死屍臭穢。	如樂淨人逃避塚間死屍臭穢。	Like a person who delights in purity avoiding the foul stench of corpses in a charnel ground.
+['T27n1545_117:0609a16_1']	正直所厭故名為曲。	正直所厭故名為曲。	Because it is detested by the upright, it is called crooked.
+['T27n1545_117:0609a16_6']	復有說者。	復有說者。	There is another explanation.
+['T27n1545_117:0609a16_15']	以諸有情諂所損污。	以諸有情諂所損污。	Because sentient beings are damaged and defiled by flattery,
+['T27n1545_117:0609a17_5']	諸佛於彼亦捨大悲。	諸佛於彼亦捨大悲。	the Buddhas also abandon great compassion for them.
+['T27n1545_117:0609a17_14']	如諂病人良醫所棄。	如諂病人良醫所棄。	Like a patient with flattery is abandoned by a good doctor.
+['T27n1545_117:0609a18_5']	障礙正化故名為曲。	障礙正化故名為曲。	Because it obstructs the correct transformation, it is called crooked.
+['T27n1545_117:0609a18_11']	問諂在何處。	問諂在何處。	Question: Where does flattery exist?
+['T27n1545_117:0609a19_4']	答在欲界初靜慮非上地。	答在欲界初靜慮非上地。	Answer: It exists in the desire realm and the first meditation, not in the higher stages.
+['T27n1545_117:0609a19_12']	問何故上地無諂。	問何故上地無諂。	Question: Why is there no flattery in the higher stages?
+['T27n1545_117:0609a19_18', 'T27n1545_117:0609a20_8']	答上地於諂。🔽非田非器非地非依。	答上地於諂。 非田非器非地非依。	Answer: In the higher stages, flattery🔽is not a field, not a vessel, not a stage, not a basis.🔽Because it is not a field, not a vessel, not a stage,
+['T27n1545_117:0609a20_16']	以非田器非地依。	以非田器非地依。	not a basis,
+['T27n1545_117:0609a21_4']	故於彼不有。	故於彼不有。	therefore it does not exist there.
+['T27n1545_117:0609a21_9']	復有說者。	復有說者。	There is another explanation.
+['T27n1545_117:0609a22_1']	為除其諂往趣上地。	為除其諂往趣上地。	In order to eliminate flattery, one goes to the higher stages.
+['T27n1545_117:0609a22_10']	若於上地復有諂者。	若於上地復有諂者。	If there were flattery in the higher stages,
+['T27n1545_117:0609a23_1']	不應加行求趣上地。	不應加行求趣上地。	one should not practice and seek to go to the higher stages.
+['T27n1545_117:0609a23_11']	若下地法上地亦有者。	若下地法上地亦有者。	If the dharmas of the lower stages also exist in the higher stages,
+['T27n1545_117:0609a24_2']	不應施設漸次滅法。	不應施設漸次滅法。	one should not establish the gradual cessation of dharmas.
+['T27n1545_117:0609a24_11']	若不施設漸次滅法。	若不施設漸次滅法。	If there were no gradual cessation of dharmas,
+['T27n1545_117:0609a25_2']	則應無有究竟滅法。	則應無有究竟滅法。	then there would be no ultimate cessation of dharmas.
+['T27n1545_117:0609a25_9']	若無究竟滅法。	若無究竟滅法。	If there were no ultimate cessation of dharmas,
+['T27n1545_117:0609a25_14']	便無解脫。	便無解脫。	then there would be no liberation.
+['T27n1545_117:0609a26_9']	若無解脫亦無生死則一切法無。	若無解脫亦無生死則一切法無。	If there were no liberation, there would be no birth and death, and then all dharmas would not exist.
+['T27n1545_117:0609a27_5']	欲令無如是過是故上地無諂。	欲令無如是過是故上地無諂。	In order to avoid such errors, there is no deceit in the upper realms.
+['T27n1545_117:0609a27_10']	復有說者。	復有說者。	Furthermore, there are those who say:
+['T27n1545_117:0609a28_2']	若於是處安立王臣。	若於是處安立王臣。	If in a certain place kings and ministers are established,
+['T27n1545_117:0609a28_11']	安立眾生尊卑差別。	安立眾生尊卑差別。	and sentient beings are established with distinctions of high and low status,
+['T27n1545_117:0609a28_16']	則有其諂。	則有其諂。	then there is deceit there.
+['T27n1545_117:0609a29_11']	非於上地得有斯事故無有諂。	非於上地得有斯事故無有諂。	Since such things do not exist in the upper realms, there is no deceit.
+['T27n1545_117:0609b01_5']	諸有王臣眾主尊卑差別。	諸有王臣眾主尊卑差別。	In places where there are kings, ministers, and distinctions of high and low status among the people,
+['T27n1545_117:0609b01_15']	必懷諂曲更相接事故。	必懷諂曲更相接事故。	they must harbor deceit in order to interact with each other.
+['T27n1545_117:0609b02_2']	復有說者。	復有說者。	Furthermore, there are those who say:
+['T27n1545_117:0609b02_11']	若於是處有諸識身。	若於是處有諸識身。	If in a certain place there are the various types of consciousness,
+['T27n1545_117:0609b02_16']	有尋有伺。	有尋有伺。	there is investigation, there is reflection,
+['T27n1545_117:0609b03_10']	及有自性身語表業則有其諂。	及有自性身語表業則有其諂。	and there is the inherent bodily and verbal manifest karma, then there is deceit there.
+['T27n1545_117:0609b04_5']	如是諸法上地皆無故無有諂。	如是諸法上地皆無故無有諂。	Since such dharmas do not exist in the upper realms, there is no deceit.
+['T27n1545_117:0609b04_10']	三穢云何。	三穢云何。	What are the three impurities?
+['T27n1545_117:0609b05_1']	謂瞋所起身語意業。	謂瞋所起身語意業。	They are bodily, verbal, and mental actions arising from hatred.
+['T27n1545_117:0609b05_6']	所以者何。	所以者何。	Why is this so?
+['T27n1545_117:0609b05_11']	瞋名為穢。	瞋名為穢。	Hatred is called defilement.
+['T27n1545_117:0609b06_1']	由穢相法所起三業。	由穢相法所起三業。	The three karmas arisen from the dharmas of defilement
+['T27n1545_117:0609b06_10']	說名為穢是彼果故。	說名為穢是彼果故。	are called defilement because they are the fruits of that.
+['T27n1545_117:0609b07_5']	問諸煩惱皆是其穢如有頌言。	問諸煩惱皆是其穢如有頌言。	Question: All afflictions are defilements. As a verse says:
+['T27n1545_117:0609b08_0']	世間諸穢草　　能穢污良田	世間諸穢草　　能穢污良田	The defilements of the world, like weeds, defile the good fields.
+['T27n1545_117:0609b09_0']	如是諸貪穢　　穢污諸含識	如是諸貪穢　　穢污諸含識	Thus, all the defilements of greed defile all sentient beings.
+['T27n1545_117:0609b10_0']	世間諸穢草　　能穢污良田	世間諸穢草　　能穢污良田	The defilements of the world, like weeds, defile the good fields.
+['T27n1545_117:0609b11_0']	如是諸穢穢　　穢污諸含識	如是諸穢穢　　穢污諸含識	Thus, all the defilements of defilements defile all sentient beings.
+['T27n1545_117:0609b12_4']	慢愛無明。	慢愛無明。	Arrogance, craving, and ignorance.
+['T27n1545_117:0609b12_13']	餘煩惱頌說亦如是。	餘煩惱頌說亦如是。	The remaining afflictions are also explained in the verses.
+['T27n1545_117:0609b13_3']	何故此中唯瞋名穢。	何故此中唯瞋名穢。	Why is it that only hatred is called defilement here?
+['T27n1545_117:0609b13_13']	答雖諸煩惱皆名為穢。	答雖諸煩惱皆名為穢。	Answer: Although all afflictions are called defilements,
+['T27n1545_117:0609b14_8']	然唯瞋恚有二穢名故獨名穢。	然唯瞋恚有二穢名故獨名穢。	only hatred has the two names of defilement, so it is called defilement alone.
+['T27n1545_117:0609b15_6']	如上頌言如是諸穢穢穢污諸含識。	如上頌言如是諸穢穢穢污諸含識。	As the above verse says, Thus, all the defilements of defilements defile all sentient beings.
+['T27n1545_117:0609b15_11']	復有說者。	復有說者。	Furthermore, there is another explanation.
+['T27n1545_117:0609b16_2']	由此瞋恚穢自相續。	由此瞋恚穢自相續。	By this hatred, one's own continuity is defiled,
+['T27n1545_117:0609b16_7']	穢他相續。	穢他相續。	and the continuity of others is defiled.
+['T27n1545_117:0609b16_16']	勝餘煩惱故說名穢。	勝餘煩惱故說名穢。	It is superior to the other afflictions, so it is called defilement.
+['T27n1545_117:0609b17_4']	云何穢自相續。	云何穢自相續。	How does it defile one's own continuity?
+['T27n1545_117:0609b17_13']	謂若瞋恚現在前時。	謂若瞋恚現在前時。	If anger is present,
+['T27n1545_117:0609b18_7']	舉身麁強惱悴顰蹙戰掉不安。	舉身麁強惱悴顰蹙戰掉不安。	the whole body becomes rough, agitated, frowning, trembling, and uneasy.
+['T27n1545_117:0609b18_16']	如鬼所著人不喜見。	如鬼所著人不喜見。	Like a person possessed by a ghost, people do not like to see it.
+['T27n1545_117:0609b19_5']	云何穢他相續。	云何穢他相續。	How does it defile the continuity of others?
+['T27n1545_117:0609b20_1']	謂若瞋恚惱亂他時令他塵垢。	謂若瞋恚惱亂他時令他塵垢。	If anger disturbs others, it causes others to become defiled.
+['T27n1545_117:0609b20_10']	或受鞭捶乃至喪命。	或受鞭捶乃至喪命。	Or to receive beatings up to losing their lives.
+['T27n1545_117:0609b20_16']	問瞋在何處。	問瞋在何處。	Question: Where does anger exist?
+['T27n1545_117:0609b21_2']	答在欲界。	答在欲界。	Answer: It exists in the desire realm.
+['T27n1545_117:0609b21_7']	非上二界。	非上二界。	Not in the upper two realms.
+['T27n1545_117:0609b21_17']	問何故上二界無瞋耶。	問何故上二界無瞋耶。	Question: Why is there no anger in the upper two realms?
+['T27n1545_117:0609b22_8']	答非田非器乃至廣說。	答非田非器乃至廣說。	Answer: It is not a field, not a vessel, and so on.
+['T27n1545_117:0609b22_13']	復有說者。	復有說者。	Furthermore, there are those who say:
+['T27n1545_117:0609b23_8']	為除瞋故求趣上界廣說如前。	為除瞋故求趣上界廣說如前。	In order to eliminate anger, one seeks to go to the upper realms, and so on, as explained above.
+['T27n1545_117:0609b23_13']	復有說者。	復有說者。	Furthermore, there are those who say:
+['T27n1545_117:0609b24_9']	若於是處有慳嫉結則有瞋恚。	若於是處有慳嫉結則有瞋恚。	Where there are the bonds of stinginess and jealousy, there is also anger.
+['T27n1545_117:0609b24_14']	所以者何。	所以者何。	Why is it so?
+['T27n1545_117:0609b25_5']	以諸有情依慳嫉結。	以諸有情依慳嫉結。	Because sentient beings, relying on the bonds of stinginess and jealousy,
+['T27n1545_117:0609b25_14']	於他相續起瞋恚故。	於他相續起瞋恚故。	give rise to anger towards the continuity of others.
+['T27n1545_117:0609b26_5']	上界不爾故無瞋恚。	上界不爾故無瞋恚。	The upper realms are not like this, so there is no anger.
+['T27n1545_117:0609b26_15']	復次若處有無慚無愧。	復次若處有無慚無愧。	Moreover, if a place has shamelessness and lack of conscience,
+['T27n1545_117:0609b27_6']	則有瞋恚上界不爾。	則有瞋恚上界不爾。	then there is anger. The upper realms are not like this.
+['T27n1545_117:0609b27_15']	復次若處有苦憂根。	復次若處有苦憂根。	Moreover, if a place has the faculties of suffering and sorrow,
+['T27n1545_117:0609b28_6']	則有瞋恚上界不爾。	則有瞋恚上界不爾。	then there is anger. The upper realms are not like this.
+['T27n1545_117:0609b28_15']	復次若處有男女根。	復次若處有男女根。	Moreover, if a place has the male and female faculties,
+['T27n1545_117:0609b29_6']	則有瞋恚上界不爾。	則有瞋恚上界不爾。	then there is anger. The upper realms are not like this.
+['T27n1545_117:0609c01_1']	復次若處有段食愛及婬欲愛。	復次若處有段食愛及婬欲愛。	Moreover, if a place has craving for coarse food and craving for sexual desire,
+['T27n1545_117:0609c01_10']	則有瞋恚上界不爾。	則有瞋恚上界不爾。	then there is anger. The upper realms are not like this.
+['T27n1545_117:0609c01_15']	釋皆如前。	釋皆如前。	The explanation is the same as before.
+['T27n1545_117:0609c02_5']	是故上界無有瞋恚。	是故上界無有瞋恚。	Therefore, there is no anger in the upper realms.
+['T27n1545_117:0609c02_10']	復有說者。	復有說者。	Moreover, some say:
+['T27n1545_117:0609c03_6']	若於是處有怨害因則有瞋恚。	若於是處有怨害因則有瞋恚。	If there is a cause of resentment in a place, then there is anger.
+['T27n1545_117:0609c03_15']	怨害因者名九惱事。	怨害因者名九惱事。	The cause of resentment is called the nine matters of vexation.
+['T27n1545_117:0609c04_10']	色無色界無怨害因故無有瞋。	色無色界無怨害因故無有瞋。	The formless realm has no cause of resentment, so there is no anger.
+['T27n1545_117:0609c05_2']	是故尊者妙音說言。	是故尊者妙音說言。	Therefore, the Venerable Subhūti said:
+['T27n1545_117:0609c05_11']	怨害因緣則令瞋轉。	怨害因緣則令瞋轉。	The causes and conditions of resentment make anger turn.
+['T27n1545_117:0609c05_16', 'T27n1545_117:0609c06_10']	或有說者。🔽若所依身乾燥麁強則有瞋恚。	或有說者。 若所依身乾燥麁強則有瞋恚。	Some say:🔽If the body that is relied upon is dry and coarse, then there is anger.
+['T27n1545_117:0609c07_5']	上界依身潤澤柔濡故無瞋恚。	上界依身潤澤柔濡故無瞋恚。	The upper realms rely on a body that is moist and soft, so there is no anger.
+['T27n1545_117:0609c07_10']	復有說者。	復有說者。	There is another explanation.
+['T27n1545_117:0609c08_1']	色無色界有瞋對治。	色無色界有瞋對治。	The form and formless realms have antidotes to anger.
+['T27n1545_117:0609c08_10']	謂等引慈故無有瞋。	謂等引慈故無有瞋。	Because of the equanimity and friendliness, there is no anger.
+['T27n1545_117:0609c09_4']	如於是處若有吠藍婆風。	如於是處若有吠藍婆風。	Just as in a place where there is the wind called Vairambha,
+['T27n1545_117:0609c09_17']	是處雲場終不得住上界亦爾。	是處雲場終不得住上界亦爾。	in that place clouds and rain can never remain. The upper realms are also like this.
+['T27n1545_117:0609c10_8']	有瞋對治等引中慈。	有瞋對治等引中慈。	There are antidotes to anger, equanimity, and friendliness in the middle.
+['T27n1545_117:0609c11_3']	吠藍婆風故瞋雲場於彼不住。	吠藍婆風故瞋雲場於彼不住。	Because of the Vairambha wind, the clouds and rain of anger do not remain there.
+['T27n1545_117:0609c12_4']	三濁云何。	三濁云何。	What are the three defilements?
+['T27n1545_117:0609c12_13']	謂貪所起身語意業。	謂貪所起身語意業。	They are the bodily, verbal, and mental actions that arise from greed.
+['T27n1545_117:0609c12_18']	所以者何。	所以者何。	Why is it so?
+['T27n1545_117:0609c13_3']	貪名為濁。	貪名為濁。	Greed is called defilement.
+['T27n1545_117:0609c13_16']	由濁相法所起三業說名為濁。	由濁相法所起三業說名為濁。	The three actions that arise from dharmas with the characteristics of defilement are called defilements.
+['T27n1545_117:0609c14_3']	是彼果故。	是彼果故。	Because they are the fruits of that.
+['T27n1545_117:0609c14_13']	問何因緣故貪名為濁。	問何因緣故貪名為濁。	Why is greed called defilement?
+['T27n1545_117:0609c14_19']	答能染濁故。	答能染濁故。	Because it can stain and defile.
+['T27n1545_117:0609c15_8']	世間染色說名為濁。	世間染色說名為濁。	In the world, colored dyes are called defilements.
+['T27n1545_117:0609c16_8']	如世間說根濁莖濁枝濁葉濁花濁果濁。	如世間說根濁莖濁枝濁葉濁花濁果濁。	In the world, it is said that roots, stems, branches, leaves, flowers, and fruits can be defiled.
+['T27n1545_117:0609c16_17']	此皆能染故名為濁。	此皆能染故名為濁。	This is because they can all be stained, so they are called defilements.
+['T27n1545_117:0609c17_7']	復次濁者是鄙下義。	復次濁者是鄙下義。	Moreover, defilement means being contemptible and inferior.
+['T27n1545_117:0609c18_2']	世間並謂多貪欲者名為鄙濁。	世間並謂多貪欲者名為鄙濁。	The world generally calls those with much desire and lust base and defiled.
+['T27n1545_117:0609c18_12']	復次濁者是不清淨義。	復次濁者是不清淨義。	Moreover, defiled means impure.
+['T27n1545_117:0609c19_7']	由貪蔽心習近染法捨淨法故。	由貪蔽心習近染法捨淨法故。	Because the mind is obstructed by desire, one becomes attached to defiled dharmas and abandons pure dharmas.
+['T27n1545_117:0609c19_13']	問貪在何處。	問貪在何處。	Question: Where does desire exist?
+['T27n1545_117:0609c20_8']	答在欲界乃至非想非非想處。	答在欲界乃至非想非非想處。	Answer: It exists in the desire realm up to the sphere of neither-perception-nor-non-perception.
+['T27n1545_117:0609c21_4', 'T27n1545_117:0609c21_14']	已說自性今當顯示雜無雜相。🔽為三惡行攝三曲穢濁。	已說自性今當顯示雜無雜相。 為三惡行攝三曲穢濁。	The essence has been explained. Now the mixed and unmixed characteristics will be revealed.🔽Are the three evil actions included in the three crooked, foul, and turbid [actions]?
+['T27n1545_117:0609c22_5']	三曲穢濁攝三惡行耶。	三曲穢濁攝三惡行耶。	Are the three crooked, foul, and turbid [actions] included in the three evil actions?
+['T27n1545_117:0609c22_11']	答應作四句。	答應作四句。	Answer: Four sentences should be made.
+['T27n1545_117:0609c23_2']	有惡行非曲穢濁。	有惡行非曲穢濁。	There are evil actions that are not crooked, foul, or turbid.
+['T27n1545_117:0609c23_17']	謂除欲界諂瞋貪所起身語意惡行。	謂除欲界諂瞋貪所起身語意惡行。	Excluding the bodily, verbal, and mental evil actions caused by deceit, hatred, and greed in the desire realm.
+['T27n1545_117:0609c24_6']	諸餘身語意惡行。	諸餘身語意惡行。	The remaining bodily, verbal, and mental evil actions.
+['T27n1545_117:0609c24_14']	有曲穢濁非惡行。	有曲穢濁非惡行。	There are crooked, foul, and turbid [actions] that are not evil actions.
+['T27n1545_117:0609c25_9']	謂初靜慮諂貪所起身語意業。	謂初靜慮諂貪所起身語意業。	Bodily, verbal, and mental actions caused by deceit and greed in the first meditative absorption.
+['T27n1545_117:0609c26_3']	及餘色無色界貪所起意業。	及餘色無色界貪所起意業。	And the mental actions caused by greed in the remaining form and formless realms.
+['T27n1545_117:0609c26_11']	有惡行亦曲穢濁。	有惡行亦曲穢濁。	There are evil actions that are also crooked, foul, and turbid.
+['T27n1545_117:0609c27_6']	謂欲界諂瞋貪所起身語意惡行。	謂欲界諂瞋貪所起身語意惡行。	Bodily, verbal, and mental evil actions caused by deceit, hatred, and greed in the desire realm.
+['T27n1545_117:0609c27_15']	有非惡行非曲穢濁。	有非惡行非曲穢濁。	There is that which is neither unwholesome action nor crooked, foul, or turbid.
+['T27n1545_117:0609c28_2']	謂除前相。	謂除前相。	This refers to what is excluded from the above characteristics.
+['T27n1545_117:0609c28_10']	相謂所名如前說。	相謂所名如前說。	Characteristics refer to the names as explained above.
+['T27n1545_117:0609c29_2']	謂於色蘊中除不善色。	謂於色蘊中除不善色。	This means that within the form aggregate, excluding unwholesome form,
+['T27n1545_117:0609c29_13']	及諂貪所起有覆無記色。	及諂貪所起有覆無記色。	and the form that arises from the defiled indeterminate form produced by flattery and greed,
+['T27n1545_117:0609c29_18']	取餘色蘊。	取餘色蘊。	one takes the remaining form aggregate.
+['T27n1545_117:0610a01_8']	於行蘊中除不善思。	於行蘊中除不善思。	Within the aggregate of mental activities, excluding unwholesome volition,
+['T27n1545_117:0610a02_5']	貪瞋邪見及諂貪所起有覆無記思。	貪瞋邪見及諂貪所起有覆無記思。	greed, hatred, wrong views, and the defiled indeterminate volition produced by flattery and greed,
+['T27n1545_117:0610a02_15']	取餘相應不相應行蘊。	取餘相應不相應行蘊。	one takes the remaining associated and non-associated aggregates of mental activities,
+['T27n1545_117:0610a03_6']	及三蘊全并無為法。	及三蘊全并無為法。	as well as the entirety of the three aggregates and unconditioned dharmas.
+['T27n1545_117:0610a04_3']	如是一切作第四句故言謂除前相。	如是一切作第四句故言謂除前相。	All of this is the fourth alternative, therefore it says this refers to what is excluded from the above characteristics.
+['T27n1545_117:0610a05_7']	此中有二種等起。	此中有二種等起。	There are two kinds of instigation in this:
+['T27n1545_117:0610a05_12']	謂因等起。	謂因等起。	Namely, instigation by cause,
+['T27n1545_117:0610a05_18']	及剎那等起。	及剎那等起。	and instigation by moment.
+['T27n1545_117:0610a06_6']	因等起名能轉心。	因等起名能轉心。	Instigation by cause is called the instigating mind,
+['T27n1545_117:0610a06_15']	剎那等起名隨轉心。	剎那等起名隨轉心。	and instigation by moment is called the instigated mind.
+['T27n1545_117:0610a07_12']	問五識亦能作二等起發身語業不。	問五識亦能作二等起發身語業不。	Question: Can the five consciousnesses also instigate the production of bodily and verbal karma by means of these two kinds of instigation?
+['T27n1545_117:0610a07_17']	或有說者。	或有說者。	Some say:
+['T27n1545_117:0610a08_8']	五識不能發身語業。	五識不能發身語業。	The five consciousnesses cannot instigate the production of bodily and verbal karma.
+['T27n1545_117:0610a08_13']	所以者何。	所以者何。	Why is this?
+['T27n1545_117:0610a09_4']	唯有意識於身語業。	唯有意識於身語業。	Only mental consciousness, regarding bodily and verbal actions,
+['T27n1545_117:0610a09_14']	作轉隨轉令彼業現前。	作轉隨轉令彼業現前。	makes them manifest by being the instigator and the concomitant.
+['T27n1545_117:0610a10_3']	五識不能作轉。	五識不能作轉。	The five consciousnesses cannot be the instigator,
+['T27n1545_117:0610a10_10']	亦不能作隨轉。	亦不能作隨轉。	nor can they be the concomitant,
+['T27n1545_117:0610a11_1']	不能令彼業現前。	不能令彼業現前。	nor can they make those actions manifest.
+['T27n1545_117:0610a11_12']	問若爾如說自見身表業。	問若爾如說自見身表業。	Question: If that is so, how can it be said that one sees one's own bodily expression,
+['T27n1545_117:0610a11_18']	自聞語表業。	自聞語表業。	and hears one's own verbal expression,
+['T27n1545_117:0610a12_2']	三識識。	三識識。	and that these are cognized by three consciousnesses?
+['T27n1545_117:0610a12_7']	此云何通。	此云何通。	How can this be reconciled?
+['T27n1545_117:0610a12_17']	答不見身表但見餘相。	答不見身表但見餘相。	Answer: One does not see bodily expression but only sees other characteristics.
+['T27n1545_117:0610a13_7']	不聞語表但聞餘音。	不聞語表但聞餘音。	One does not hear verbal expression but only hears other sounds.
+['T27n1545_117:0610a13_16']	即由此義名見名聞。	即由此義名見名聞。	It is precisely because of this meaning that it is called seeing and hearing.
+['T27n1545_117:0610a14_4']	三識識者。	三識識者。	As for being cognized by three consciousnesses,
+['T27n1545_117:0610a14_13']	緣他身業非自身業。	緣他身業非自身業。	it refers to the actions of others' bodies, not one's own body.
+['T27n1545_117:0610a14_18']	復有說者。	復有說者。	There is another explanation:
+['T27n1545_117:0610a15_8']	五識亦能發身語業。	五識亦能發身語業。	The five consciousnesses can also give rise to bodily and verbal actions.
+['T27n1545_117:0610a16_2']	以意識作能轉亦作隨轉。	以意識作能轉亦作隨轉。	Because mental consciousness can be the instigator and also the concomitant.
+['T27n1545_117:0610a16_10']	五識雖不作能轉。	五識雖不作能轉。	Although the five consciousnesses are not the instigator,
+['T27n1545_117:0610a17_2']	而作隨轉發彼業故。	而作隨轉發彼業故。	they can be the concomitant because they give rise to those actions.
+['T27n1545_117:0610a17_7']	若作是說。	若作是說。	If this is the explanation,
+['T27n1545_117:0610a18_2']	即為善通自見身表自聞語表。	即為善通自見身表自聞語表。	then it is well explained that one sees one's own bodily expression and hears one's own verbal expression.
+['T27n1545_117:0610a18_7']	所以者何。	所以者何。	Why is it so?
+['T27n1545_117:0610a18_18']	若以意識作能轉及隨轉。	若以意識作能轉及隨轉。	If the mental consciousness acts as the primary and the secondary,
+['T27n1545_117:0610a19_12']	亦以眼識作隨轉者便見身表。	亦以眼識作隨轉者便見身表。	and also if the eye consciousness acts as the secondary, then one sees bodily expression.
+['T27n1545_117:0610a20_6']	若以意識作能轉及隨轉。	若以意識作能轉及隨轉。	If the mental consciousness acts as the primary and the secondary,
+['T27n1545_117:0610a21_2']	亦以耳識作隨轉者便聞語表。	亦以耳識作隨轉者便聞語表。	and also if the ear consciousness acts as the secondary, then one hears verbal expression.
+['T27n1545_117:0610a21_7']	三識識者。	三識識者。	As for being cognized by three consciousnesses,
+['T27n1545_117:0610a21_16']	亦緣自業亦緣他業。	亦緣自業亦緣他業。	it also takes one's own actions as object and also takes the actions of others as object.
+['T27n1545_117:0610a22_6']	尊者僧伽伐蘇說曰。	尊者僧伽伐蘇說曰。	The Venerable Saṃghabhadra says:
+['T27n1545_117:0610a22_15']	五識亦能發身語業。	五識亦能發身語業。	The five consciousnesses can also give rise to bodily and verbal actions.
+['T27n1545_117:0610a23_6']	作因等起及剎那等起。	作因等起及剎那等起。	They are the primary and the secondary in terms of causal origination and in terms of the present moment.
+['T27n1545_117:0610a23_11']	所以者何。	所以者何。	Why is this?
+['T27n1545_117:0610a24_2']	如有士夫先不作意。	如有士夫先不作意。	There is a person who does not first intend to do something.
+['T27n1545_117:0610a24_11']	欻被他打即還打彼。	欻被他打即還打彼。	Suddenly he is struck by another and immediately strikes back at him.
+['T27n1545_117:0610a25_7']	非於爾時得起我當打彼思念。	非於爾時得起我當打彼思念。	At that time he does not give rise to the thought I will strike him back.
+['T27n1545_117:0610a25_16']	當知即是住身識打。	當知即是住身識打。	One should know that this is the bodily consciousness that strikes.
+['T27n1545_117:0610a26_11']	是故五識亦能發起身語二業。	是故五識亦能發起身語二業。	Therefore the five consciousnesses can also give rise to the two actions of body and speech.
+['T27n1545_117:0610a27_3']	作因等起及剎那等起。	作因等起及剎那等起。	They are the primary and the secondary in terms of causal origination and in terms of the present moment.
+['T27n1545_117:0610a27_8']	如是說者。	如是說者。	Those who say this
+['T27n1545_117:0610a28_4']	五識不能作因等起發身語業。	五識不能作因等起發身語業。	say that the five consciousnesses cannot be the primary in causal origination and give rise to bodily and verbal actions.
+['T27n1545_117:0610a29_4']	所以者何意識於身語業作能轉及隨轉。	所以者何意識於身語業作能轉及隨轉。	Why is this? Because mental consciousness can be both the instigator and the concomitant of bodily and verbal actions.
+['T27n1545_117:0610a29_16']	五識唯作隨轉不作能轉故。	五識唯作隨轉不作能轉故。	The five consciousnesses are only concomitant and not instigators.
+['T27n1545_117:0610b01_8']	此中若善心作能轉。	此中若善心作能轉。	Here, if a wholesome mind is the instigator,
+['T27n1545_117:0610b01_15']	即善心作隨轉。	即善心作隨轉。	then a wholesome mind is also the concomitant.
+['T27n1545_117:0610b02_5']	若染污心作能轉。	若染污心作能轉。	If a defiled mind is the instigator,
+['T27n1545_117:0610b02_13']	即染污心作隨轉。	即染污心作隨轉。	then a defiled mind is also the concomitant.
+['T27n1545_117:0610b03_4']	若威儀路心作能轉。	若威儀路心作能轉。	If a mind in the realm of deportment is the instigator,
+['T27n1545_117:0610b03_13', 'T27n1545_117:0610b04_4']	即威儀路心作隨轉。🔽若工巧處心作能轉。	即威儀路心作隨轉。 若工巧處心作能轉。	then a mind in the realm of deportment is also the concomitant.🔽If a mind in the realm of craftsmanship is the instigator,
+['T27n1545_117:0610b04_13']	即工巧處心作隨轉。	即工巧處心作隨轉。	then a mind in the realm of craftsmanship is also the concomitant.
+['T27n1545_117:0610b04_18']	發身語業。	發身語業。	It gives rise to bodily and verbal actions.
+['T27n1545_117:0610b05_9']	問若威儀路心作能轉。	問若威儀路心作能轉。	Question: If a mind in the realm of deportment is the instigator,
+['T27n1545_117:0610b05_17']	即彼心作隨轉者。	即彼心作隨轉者。	and that mind is also the concomitant,
+['T27n1545_117:0610b06_13']	如有行時遇見佛像等起善眼識。	如有行時遇見佛像等起善眼識。	then when walking and suddenly seeing a Buddha image, etc., a wholesome eye consciousness arises,
+['T27n1545_117:0610b07_6']	或見婬女等起染眼識。	或見婬女等起染眼識。	or seeing a prostitute, etc., a defiled eye consciousness arises,
+['T27n1545_117:0610b08_2']	如是豈非善染隨轉起彼業耶。	如是豈非善染隨轉起彼業耶。	how could this not be a wholesome or defiled concomitant giving rise to that action?
+['T27n1545_117:0610b08_11']	尊者世友作如是說。	尊者世友作如是說。	Venerable Vasumitra said:
+['T27n1545_117:0610b09_6']	此由覺慧速疾迴轉起增上慢。	此由覺慧速疾迴轉起增上慢。	This is due to the rapid turning of wisdom giving rise to a sense of superiority.
+['T27n1545_117:0610b09_15', 'T27n1545_117:0610b10_11']	謂於行位起此眼識。🔽而實行時則善心染心不現在前。	謂於行位起此眼識。 而實行時則善心染心不現在前。	That is to say, when this eye consciousness arises in the state of activity,🔽but in actual practice, the wholesome mind and defiled mind do not appear.
+['T27n1545_117:0610b11_7']	若善心染心現在前時即止不行。	若善心染心現在前時即止不行。	If the wholesome mind and defiled mind appear, then it ceases and does not operate.
+['T27n1545_117:0610b11_13']	此善心染心。	此善心染心。	This wholesome mind and defiled mind,
+['T27n1545_117:0610b12_4']	但如伴者不名等起。	但如伴者不名等起。	are merely like companions and are not called co-arising.
+['T27n1545_117:0610b12_9']	復有說者。	復有說者。	There is also a saying:
+['T27n1545_117:0610b12_18']	威儀路心發起業時。	威儀路心發起業時。	When the mind of the path of deportment gives rise to karma,
+['T27n1545_117:0610b13_8']	善染心等相助發起。	善染心等相助發起。	the wholesome mind, defiled mind, and so forth assist in giving rise to it.
+['T27n1545_117:0610b13_17']	是故威儀路心轉時。	是故威儀路心轉時。	Therefore, when the mind of the path of deportment is turning,
+['T27n1545_117:0610b14_7']	其隨轉心容有三種。	其隨轉心容有三種。	the mind that accompanies it may have three kinds.
+['T27n1545_117:0610b14_13']	謂善染無記。	謂善染無記。	That is to say, wholesome, defiled, and indeterminate.
+['T27n1545_117:0610b15_4']	問若工巧處心作能轉。	問若工巧處心作能轉。	Question: If the mind of the realm of craftsmanship creates that which can turn,
+['T27n1545_117:0610b15_12']	即彼心作隨轉者。	即彼心作隨轉者。	and that very mind creates that which accompanies it,
+['T27n1545_117:0610b16_6']	如畫師畫作佛時起善眼識。	如畫師畫作佛時起善眼識。	then when a painter paints a Buddha, a wholesome eye consciousness arises.
+['T27n1545_117:0610b16_15']	畫女人時起染眼識。	畫女人時起染眼識。	When painting a woman, a defiled eye consciousness arises.
+['T27n1545_117:0610b17_10']	如是豈非善染隨轉發彼業耶。	如是豈非善染隨轉發彼業耶。	In this case, how is it not the case that the wholesome and defiled accompany each other and give rise to that karma?
+['T27n1545_117:0610b18_2']	尊者世友作如是說。	尊者世友作如是說。	Venerable Vasumitra says this:
+['T27n1545_117:0610b18_11']	覺慧速疾起增上慢。	覺慧速疾起增上慢。	The wisdom is quick and gives rise to overestimation.
+['T27n1545_117:0610b19_2']	謂於畫時起此眼識。	謂於畫時起此眼識。	That is to say, when painting, this eye consciousness arises.
+['T27n1545_117:0610b19_15']	而實畫時善心染心不現在前。	而實畫時善心染心不現在前。	But in fact, when painting, neither a wholesome nor defiled mind is present.
+['T27n1545_117:0610b20_10']	若善心染心現在前時便止不畫。	若善心染心現在前時便止不畫。	If a wholesome or defiled mind is present, one stops painting.
+['T27n1545_117:0610b20_16']	此善心染心。	此善心染心。	This wholesome or defiled mind
+['T27n1545_117:0610b21_6']	但如伴者不名等起。	但如伴者不名等起。	is merely like an assistant and is not called a primary mover.
+['T27n1545_117:0610b21_11']	復有說者。	復有說者。	Furthermore, there is an explanation:
+['T27n1545_117:0610b22_2']	工巧處心發起業時。	工巧處心發起業時。	When the mind in the realm of craftsmanship initiates action,
+['T27n1545_117:0610b22_11']	善心染心相助發起。	善心染心相助發起。	a wholesome or defiled mind assists in initiating it.
+['T27n1545_117:0610b23_3']	是故工巧處心為能轉時。	是故工巧處心為能轉時。	Therefore, when the mind in the realm of craftsmanship is able to initiate,
+['T27n1545_117:0610b23_12']	其隨轉心容有三種。	其隨轉心容有三種。	the mind that accompanies it may be of three kinds:
+['T27n1545_117:0610b23_18']	謂善染無記。	謂善染無記。	wholesome, defiled, or indeterminate.
+['T27n1545_117:0610b25_2']	問異熟生心何故不能作二等起發身語業耶。	問異熟生心何故不能作二等起發身語業耶。	Why is it that a mind born of retribution is unable to initiate bodily and verbal actions through the two kinds of primary causes?
+['T27n1545_117:0610b25_11']	答強盛心發身語業。	答強盛心發身語業。	The answer is: A strong mind initiates bodily and verbal actions.
+['T27n1545_117:0610b26_5']	異熟生心其性羸劣故不能發。	異熟生心其性羸劣故不能發。	A mind born of retribution is by nature weak and therefore unable to initiate.
+['T27n1545_117:0610b26_10']	復有說者。	復有說者。	Furthermore, there is an explanation:
+['T27n1545_117:0610b27_1']	若身語業異熟生心。	若身語業異熟生心。	If bodily and verbal actions are initiated by a mind born of retribution
+['T27n1545_117:0610b27_10']	為二等起而發起者。	為二等起而發起者。	through the two kinds of primary causes,
+['T27n1545_117:0610b28_1']	此身語業當言是何。	此身語業當言是何。	what should these bodily and verbal actions be called?
+['T27n1545_117:0610b28_6']	為威儀路。	為威儀路。	Are they the path of deportment?
+['T27n1545_117:0610b28_11']	為工巧處。	為工巧處。	Are they the realm of craftsmanship?
+['T27n1545_117:0610b28_16']	為異熟生。	為異熟生。	Are they born of retribution?
+['T27n1545_117:0610b29_1']	若威儀路。	若威儀路。	If it is the path of deportment,
+['T27n1545_117:0610b29_6']	或工巧處。	或工巧處。	or the realm of craftsmanship,
+['T27n1545_117:0610b29_15']	異熟生心云何能發。	異熟生心云何能發。	how can a mind born of retribution be able to give rise to [karma]?
+['T27n1545_117:0610c01_8']	若異熟生此身語業應是異熟。	若異熟生此身語業應是異熟。	If a mind born of retribution gives rise to bodily or verbal karma, that bodily or verbal karma should be retribution.
+['T27n1545_117:0610c01_17']	然身語業定非異熟。	然身語業定非異熟。	However, bodily and verbal karma are definitely not retribution.
+['T27n1545_117:0610c02_3']	加行起故。	加行起故。	Because they arise from applied effort.
+['T27n1545_117:0610c02_12']	亦不可說為善染污。	亦不可說為善染污。	It cannot be said that they are wholesome or defiled.
+['T27n1545_117:0610c03_3']	執異熟生心所起故。	執異熟生心所起故。	Because they are said to be arisen from a mind born of retribution.
+['T27n1545_117:0610c03_10']	由此異熟生心。	由此異熟生心。	Therefore, a mind born of retribution
+['T27n1545_117:0610c03_17']	不能發身語業。	不能發身語業。	cannot give rise to bodily or verbal karma.
+['T27n1545_117:0610c04_9', 'T27n1545_117:0610c04_17']	復次若見所斷心作能轉。🔽修所斷心作隨轉。	復次若見所斷心作能轉。 修所斷心作隨轉。	Next, if a mind eliminated by the path of insight is the instigator,🔽and a mind eliminated by the path of cultivation is the concomitant,
+['T27n1545_117:0610c05_7']	或修所斷心作能轉。	或修所斷心作能轉。	or if a mind eliminated by the path of cultivation is the instigator,
+['T27n1545_117:0610c05_16']	即修所斷心作隨轉。	即修所斷心作隨轉。	and that very mind eliminated by the path of cultivation is the concomitant,
+['T27n1545_117:0610c06_7', 'T27n1545_117:0610c06_16']	發身語業斯有是處。🔽若見所斷心作能轉。	發身語業斯有是處。 若見所斷心作能轉。	it is possible for it to give rise to bodily or verbal karma.🔽If a mind eliminated by the path of insight is the instigator,
+['T27n1545_117:0610c07_7']	即見所斷心作隨轉。	即見所斷心作隨轉。	and that very mind eliminated by the path of insight is the concomitant,
+['T27n1545_117:0610c07_16']	或修所斷心作能轉。	或修所斷心作能轉。	or if a mind eliminated by the path of cultivation is the instigator,
+['T27n1545_117:0610c08_14']	見所斷心作隨轉發身語業無有是處。	見所斷心作隨轉發身語業無有是處。	and a mind eliminated by the path of insight is the concomitant, it is impossible for it to give rise to bodily or verbal karma.
+['T27n1545_117:0610c09_1']	何以故。	何以故。	Why is it so?
+['T27n1545_117:0610c10_2']	以見所斷心不能作剎那等起發身語業故。	以見所斷心不能作剎那等起發身語業故。	Because a mind that is to be eliminated by the path of seeing cannot give rise to bodily and verbal actions in the present moment.
+['T27n1545_117:0610c10_7']	今於此中。	今於此中。	Now, in this context,
+['T27n1545_117:0610c10_12']	因論生論。	因論生論。	a discussion arises based on the treatise.
+['T27n1545_117:0610c11_2']	問何故住見所斷心。	問何故住見所斷心。	The question is asked: Why, when abiding in a mind that is to be eliminated by the path of seeing,
+['T27n1545_117:0610c11_15']	不能作剎那等起發身語業耶。	不能作剎那等起發身語業耶。	can one not give rise to bodily and verbal actions in the present moment?
+['T27n1545_117:0610c12_3']	答要麁散心。	答要麁散心。	The answer is: Only a coarse and scattered mind
+['T27n1545_117:0610c12_14']	能作剎那等起發身語業。	能作剎那等起發身語業。	can give rise to bodily and verbal actions in the present moment.
+['T27n1545_117:0610c13_5']	此心微細故不能發。	此心微細故不能發。	This mind is subtle and therefore cannot give rise to them.
+['T27n1545_117:0610c13_12']	復次外門轉心。	復次外門轉心。	Furthermore, a mind that turns to the external realm
+['T27n1545_117:0610c14_5']	能作剎那等起發身語業。	能作剎那等起發身語業。	can give rise to bodily and verbal actions in the present moment.
+['T27n1545_117:0610c14_15']	此心內門轉故不能發。	此心內門轉故不能發。	This mind turns to the internal realm and therefore cannot give rise to them.
+['T27n1545_117:0610c15_2']	復有說者。	復有說者。	There is another explanation:
+['T27n1545_117:0610c15_8']	若見所斷心。	若見所斷心。	If a mind that is to be eliminated by the path of seeing
+['T27n1545_117:0610c16_2']	能作剎那等起發身語業者。	能作剎那等起發身語業者。	can give rise to bodily and verbal actions in the present moment,
+['T27n1545_117:0610c16_9']	此業當言是何。	此業當言是何。	what should these actions be called?
+['T27n1545_117:0610c16_14']	為見所斷。	為見所斷。	Are they to be eliminated by the path of seeing?
+['T27n1545_117:0610c16_19']	為修所斷。	為修所斷。	Are they to be eliminated by the path of cultivation?
+['T27n1545_117:0610c17_4']	為俱所斷。	為俱所斷。	Or are they to be eliminated by both?
+['T27n1545_117:0610c17_10']	若見所斷者。	若見所斷者。	If they are to be eliminated by the path of seeing,
+['T27n1545_117:0610c18_7']	此身語業應非修所斷法為方便依。	此身語業應非修所斷法為方便依。	then these bodily and verbal actions should not be skillful means based on dharmas to be eliminated by the path of cultivation.
+['T27n1545_117:0610c18_16']	謂修所斷四大所造。	謂修所斷四大所造。	That is to say, they are created from the four great elements to be eliminated by the path of cultivation.
+['T27n1545_117:0610c19_3']	若修所斷者。	若修所斷者。	If it is to be eliminated by cultivation,
+['T27n1545_117:0610c19_11']	不應以見所斷心。	不應以見所斷心。	it should not be that a mind to be eliminated by insight
+['T27n1545_117:0610c19_17']	為剎那等起。	為剎那等起。	is the immediate antecedent condition.
+['T27n1545_117:0610c20_4']	若俱所斷者。	若俱所斷者。	If it is to be eliminated by both,
+['T27n1545_117:0610c20_14']	隨所起一業應成二分。	隨所起一業應成二分。	then when one arises, the other should form two parts.
+['T27n1545_117:0610c21_6', 'T27n1545_117:0610c22_2']	如是則一法有二自性。🔽但不爾故見所斷心非剎那等起。	如是則一法有二自性。 但不爾故見所斷心非剎那等起。	In this case, one dharma would have two natures.🔽But since this is not so, a mind to be eliminated by insight is not an immediate antecedent condition.
+['T27n1545_117:0610c22_16']	問若見所斷心不能作剎那等起。	問若見所斷心不能作剎那等起。	Question: If a mind to be eliminated by insight cannot be an immediate antecedent condition,
+['T27n1545_117:0610c23_4']	發身語業者。	發身語業者。	when one who has committed an offense of immediate retribution generates bodily and verbal karma,
+['T27n1545_117:0610c23_13']	契經所說當云何通。	契經所說當云何通。	how can this be reconciled with the sutra teachings?
+['T27n1545_117:0610c23_18']	如契經說。	如契經說。	As a sutra teaches:
+['T27n1545_117:0610c24_10']	諸邪見人所有身語意業。	諸邪見人所有身語意業。	All bodily, verbal, and mental actions of those with wrong views,
+['T27n1545_117:0610c25_1']	若思若求若所造作。	若思若求若所造作。	whether thought, sought, or created,
+['T27n1545_117:0610c25_16']	一切皆得不可愛不可樂非悅意果。	一切皆得不可愛不可樂非悅意果。	all result in unlikable, unpleasant, and disagreeable fruits.
+['T27n1545_117:0610c26_2']	所以者何。	所以者何。	Why is this?
+['T27n1545_117:0610c26_11']	此見暴惡所謂邪見。	此見暴惡所謂邪見。	This view is extremely evil, namely wrong view.
+['T27n1545_117:0610c27_3']	答依因等起作如是說。	答依因等起作如是說。	Answer: This is said based on the causal immediate antecedent,
+['T27n1545_117:0610c27_14']	非依剎那等起是故無過。	非依剎那等起是故無過。	not based on the momentary immediate antecedent. Therefore there is no error.
+['T27n1545_117:0610c28_8']	復次若此眾同分心作能轉。	復次若此眾同分心作能轉。	Next, if the mind of this class of beings creates the transforming [karma],
+['T27n1545_117:0610c28_18', 'T27n1545_117:0610c29_9']	即此眾同分心作隨轉。🔽或餘眾同分心作能轉。	即此眾同分心作隨轉。 或餘眾同分心作能轉。	The mind of this same class of beings can be the follower.🔽Or the mind of another class of beings can be the leader.
+['T27n1545_117:0611a01_1']	即餘眾同分心作隨轉。	即餘眾同分心作隨轉。	The mind of that other class of beings can be the follower.
+['T27n1545_117:0611a01_10']	發身語業斯有是處。	發身語業斯有是處。	It is possible to give rise to bodily and verbal actions in this way.
+['T27n1545_117:0611a02_2']	若此眾同分心作能轉。	若此眾同分心作能轉。	If the mind of this class of beings is the leader,
+['T27n1545_117:0611a02_11']	餘眾同分心作隨轉。	餘眾同分心作隨轉。	the mind of another class of beings is the follower.
+['T27n1545_117:0611a03_2']	發身語業無有是處。	發身語業無有是處。	It is impossible to give rise to bodily and verbal actions in this way.
+['T27n1545_117:0611a03_7']	復有說者。	復有說者。	There is another explanation.
+['T27n1545_117:0611a03_12']	亦有是處。	亦有是處。	There is also a possibility.
+['T27n1545_117:0611a04_10']	謂如有人發願當作五年大會中間命終。	謂如有人發願當作五年大會中間命終。	For example, if a person makes a vow to hold a great assembly for five years and dies in the meantime,
+['T27n1545_117:0611a05_6']	乘此願力生富貴家自憶宿命。	乘此願力生富貴家自憶宿命。	by the power of this vow, he is reborn in a wealthy and noble family and remembers his past life.
+['T27n1545_117:0611a05_15']	如昔所願一切皆作。	如昔所願一切皆作。	As he had vowed in the past, he does everything.
+['T27n1545_117:0611a06_10']	如是則名此眾同分心作能轉。	如是則名此眾同分心作能轉。	This is called the mind of this class of beings being the leader,
+['T27n1545_117:0611a07_5']	餘眾同分心作隨轉發身語業。	餘眾同分心作隨轉發身語業。	and the mind of another class of beings being the follower, giving rise to bodily and verbal actions.
+['T27n1545_117:0611a08_6']	三妙行三清淨。	三妙行三清淨。	Three kinds of good conduct and three kinds of purity.
+['T27n1545_117:0611a08_13']	謂身語意清淨。	謂身語意清淨。	That is to say, the purity of body, speech, and mind.
+['T27n1545_117:0611a08_18']	乃至廣說。	乃至廣說。	And so on, in detail.
+['T27n1545_117:0611a09_5']	問何故作此論。	問何故作此論。	Question: Why is this treatise composed?
+['T27n1545_117:0611a09_15']	答為欲分別契經義故。	答為欲分別契經義故。	Answer: In order to analyze the meaning of the sutras.🔽Here is the corrected and aligned text:
+['T27n1545_117:0611a10_9']	如契經說有三妙行三清淨。	如契經說有三妙行三清淨。	As a sutra says, There are three kinds of good conduct and three kinds of purity.
+['T27n1545_117:0611a11_1']	雖作是說而不廣辯。	雖作是說而不廣辯。	Although this is said, it is not extensively explained.
+['T27n1545_117:0611a11_6']	廣說如前。	廣說如前。	The extensive explanation is as before.
+['T27n1545_117:0611a11_11']	復有說者。	復有說者。	There are also those who say:
+['T27n1545_117:0611a13_1', 'T27n1545_117:0611a14_8']	前納息中已分別三妙行未分別三清淨今欲分別故作斯論。🔽為三妙行攝三清淨。	前納息中已分別三妙行未分別三清淨今欲分別故作斯論。 為三妙行攝三清淨。	In the previous chapter, the three kinds of good conduct have already been distinguished, but the three kinds of purity have not yet been distinguished. Now, wanting to distinguish them, this treatise is composed.🔽Do the three kinds of good conduct include the three kinds of purity?
+['T27n1545_117:0611a14_17']	三清淨攝三妙行耶。	三清淨攝三妙行耶。	Do the three kinds of purity include the three kinds of good conduct?
+['T27n1545_117:0611a15_8']	答隨其事展轉相攝。	答隨其事展轉相攝。	The answer is: according to the matter, they mutually include each other.
+['T27n1545_117:0611a15_13']	所以者何。	所以者何。	Why is it so?
+['T27n1545_117:0611a16_4']	諸身妙行即身清淨。	諸身妙行即身清淨。	All good conduct of the body is precisely the purity of the body.
+['T27n1545_117:0611a16_13']	諸語妙行即語清淨。	諸語妙行即語清淨。	All good conduct of speech is precisely the purity of speech.
+['T27n1545_117:0611a17_3']	諸意妙行即意清淨。	諸意妙行即意清淨。	All good conduct of mind is precisely the purity of mind.
+['T27n1545_117:0611a18_3']	問無漏妙行永離垢離穢離濁可名清淨。	問無漏妙行永離垢離穢離濁可名清淨。	Question: Uncontaminated good conduct, being eternally free from defilements, impurities, and turbidity, can be called purity.
+['T27n1545_117:0611a18_16']	有漏妙行既是有垢有穢有濁。	有漏妙行既是有垢有穢有濁。	Contaminated good conduct, being defiled, impure, and turbid,
+['T27n1545_117:0611a19_4']	云何名清淨。	云何名清淨。	how can it be called purity?
+['T27n1545_117:0611a20_1']	答有漏妙行以分清淨故名清淨。	答有漏妙行以分清淨故名清淨。	Answer: Contaminated good conduct is called purity because it partially has purity.
+['T27n1545_117:0611a20_6']	所以者何。	所以者何。	Why is it so?
+['T27n1545_117:0611a21_5']	有漏妙行亦能離乃至無所有處諸煩惱垢。	有漏妙行亦能離乃至無所有處諸煩惱垢。	Even contaminated good conduct can also eliminate the defilements up to the sphere of nothingness.
+['T27n1545_117:0611a21_11']	故得名清淨。	故得名清淨。	Therefore, it is called pure.
+['T27n1545_117:0611a21_16', 'T27n1545_117:0611a22_6']	復有說者。🔽有漏妙行能引發。	復有說者。 有漏妙行能引發。	Furthermore, there are those who say:
+['T27n1545_117:0611a23_1']	隨順第一義清淨故亦名清淨。	隨順第一義清淨故亦名清淨。	Contaminated good conduct can induce and conform to the ultimate truth and purity, and is therefore also called pure.
+['T27n1545_117:0611a24_6']	三妙行三寂默。	三妙行三寂默。	The three kinds of good conduct and the three kinds of silence.
+['T27n1545_117:0611a24_13']	謂身語意寂默。	謂身語意寂默。	That is to say, the silence of body, speech, and mind.
+['T27n1545_117:0611a24_18']	乃至廣說。	乃至廣說。	And so on, explaining in detail.
+['T27n1545_117:0611a25_5']	問何故作此論。	問何故作此論。	Question: Why is this treatise composed?
+['T27n1545_117:0611a25_15']	答為欲分別契經義故。	答為欲分別契經義故。	Answer: In order to distinguish the meaning of the sutras.
+['T27n1545_117:0611a26_2']	如契經說。	如契經說。	As the sutras say:
+['T27n1545_117:0611a26_10']	有三妙行三寂默。	有三妙行三寂默。	There are three kinds of good conduct and three kinds of silence.
+['T27n1545_117:0611a27_1']	雖作是說而不廣辯。	雖作是說而不廣辯。	Although this is said, it is not extensively explained.
+['T27n1545_117:0611a27_6']	廣說如前。	廣說如前。	The extensive explanation is as above.
+['T27n1545_117:0611a27_11']	復有說者。	復有說者。	Furthermore, there are those who say:
+['T27n1545_117:0611a28_3']	前納息中已分別三妙行。	前納息中已分別三妙行。	In the previous chapter, the three kinds of good conduct have already been distinguished.
+['T27n1545_117:0611a28_10']	未分別三寂默。	未分別三寂默。	The three kinds of silence have not yet been distinguished.
+['T27n1545_117:0611a29_1']	今欲分別故作斯論。	今欲分別故作斯論。	Now, wanting to distinguish them, this treatise is composed.
+['T27n1545_117:0611b01_6', 'T27n1545_117:0611b01_15']	三妙行三寂默。🔽為三妙行攝三寂默。	三妙行三寂默。 為三妙行攝三寂默。	The three kinds of good conduct and the three kinds of silence.🔽Are the three kinds of good conduct included in the three kinds of silence?
+['T27n1545_117:0611b02_6']	三寂默攝三妙行耶。	三寂默攝三妙行耶。	Are the three kinds of silence included in the three kinds of good conduct?
+['T27n1545_117:0611b02_12']	答應作四句。	答應作四句。	Answer: Four sentences should be made.
+['T27n1545_117:0611b03_1', 'T27n1545_117:0611b03_10']	有妙行非寂默。🔽謂除無學身語妙行。	有妙行非寂默。 謂除無學身語妙行。	There is right practice that is not silence.
+['T27n1545_117:0611b03_17']	諸餘身語妙行。	諸餘身語妙行。	This refers to all right practice of body and speech except for that of the adepts.
+['T27n1545_117:0611b04_4']	及一切意妙行。	及一切意妙行。	And all right practice of mind.
+['T27n1545_117:0611b04_11']	有寂默非妙行。	有寂默非妙行。	There is silence that is not right practice.
+['T27n1545_117:0611b04_16']	謂無學心。	謂無學心。	This refers to the mind of the adept.
+['T27n1545_117:0611b05_4']	有妙行亦寂默。	有妙行亦寂默。	There is right practice that is also silence.
+['T27n1545_117:0611b05_12']	謂無學身語妙行。	謂無學身語妙行。	This refers to the right practice of body and speech of the adept.
+['T27n1545_117:0611b06_2']	有非妙行非寂默。	有非妙行非寂默。	There is that which is neither right practice nor silence.
+['T27n1545_117:0611b06_7']	謂除前相。	謂除前相。	This refers to what is excluded from the above.
+['T27n1545_117:0611b06_16']	相謂所名如前廣說。	相謂所名如前廣說。	Characteristic refers to the name, as explained in detail above.
+['T27n1545_117:0611b07_6']	謂於色蘊中除善色。	謂於色蘊中除善色。	This refers to excluding wholesome form from the form aggregate,
+['T27n1545_117:0611b07_15']	行蘊中除無貪無瞋。	行蘊中除無貪無瞋。	and excluding non-greed, non-hatred,
+['T27n1545_117:0611b08_4']	正見及諸善思。	正見及諸善思。	right view, and wholesome volition from the formation aggregate.
+['T27n1545_117:0611b08_12']	識蘊中除無學心。	識蘊中除無學心。	And excluding the mind of the adept from the consciousness aggregate.
+['T27n1545_117:0611b09_9']	取餘色行識蘊及二蘊全并無為法。	取餘色行識蘊及二蘊全并無為法。	Taking the remaining form, formation, and consciousness aggregates, as well as the two aggregates in their entirety, along with unconditioned dharmas.
+['T27n1545_117:0611b09_18']	如是一切作第四句。	如是一切作第四句。	In this way, everything is made into the fourth sentence.
+['T27n1545_117:0611b10_6']	故言謂除前相。	故言謂除前相。	Therefore it says excluding what was mentioned before.
+['T27n1545_117:0611b11_6', 'T27n1545_117:0611b11_15']	三清淨三寂默。🔽為三清淨攝三寂默。	三清淨三寂默。 為三清淨攝三寂默。	The three purities and the three silences.🔽Are the three purities included in the three silences?
+['T27n1545_117:0611b12_5']	三寂默攝三清淨耶。	三寂默攝三清淨耶。	Are the three silences included in the three purities?
+['T27n1545_117:0611b12_11']	答應作四句。	答應作四句。	Answer: Four sentences should be made.
+['T27n1545_117:0611b13_1']	有清淨非寂默。	有清淨非寂默。	There is purity that is not silence.
+['T27n1545_117:0611b13_10']	謂除無學身語清淨。	謂除無學身語清淨。	Excluding the purity of body and speech of the adepts.
+['T27n1545_117:0611b13_17']	諸餘身語清淨。	諸餘身語清淨。	All other purity of body and speech.
+['T27n1545_117:0611b14_5']	及一切意清淨。	及一切意清淨。	And all mental purity.
+['T27n1545_117:0611b14_10']	此復云何。	此復云何。	What is this again?
+['T27n1545_117:0611b15_3']	謂學非學非無學身語清淨。	謂學非學非無學身語清淨。	It refers to the purity of body and speech of the learners, non-learners, and those neither in training nor beyond training.
+['T27n1545_117:0611b15_10']	及三種意清淨。	及三種意清淨。	And the three kinds of mental purity.
+['T27n1545_117:0611b16_2']	以意寂默唯無學心故。	以意寂默唯無學心故。	Because mental silence is only the mind of the adepts.
+['T27n1545_117:0611b16_9']	有寂默非清淨。	有寂默非清淨。	There is silence that is not purity.
+['T27n1545_117:0611b17_1']	謂無學心非業性故。	謂無學心非業性故。	Because the mind of the adepts is not of the nature of karma.
+['T27n1545_117:0611b17_8']	有清淨亦寂默。	有清淨亦寂默。	There is purity that is also silence.
+['T27n1545_117:0611b17_16']	謂無學身語清淨。	謂無學身語清淨。	It refers to the purity of body and speech of the adepts.
+['T27n1545_117:0611b18_5']	有非清淨非寂默。	有非清淨非寂默。	There is neither purity nor silence.
+['T27n1545_117:0611b18_10']	謂除前相。	謂除前相。	It refers to excluding the preceding characteristics.
+['T27n1545_117:0611b19_1', 'T27n1545_117:0611b20_7']	相謂所名如前廣說。🔽問何故於五蘊中。	相謂所名如前廣說。 問何故於五蘊中。	Characteristics refer to the names as explained in detail above.
+['T27n1545_117:0611b21_4', 'T27n1545_117:0611b21_14']	唯色識二蘊建立寂默非餘蘊耶。🔽答應具建立而不立者。	唯色識二蘊建立寂默非餘蘊耶。 答應具建立而不立者。	Question: Why are only the two aggregates of form and consciousness established as silence among the five aggregates, and not the other aggregates?
+['T27n1545_117:0611b22_3']	當知此義有餘。	當知此義有餘。	Answer: Although they should be established in full, not establishing them should be understood as having a remainder.
+['T27n1545_117:0611b22_8']	復有說者。	復有說者。	Furthermore, there are those who say:
+['T27n1545_117:0611b23_3']	此中顯示最初最後故作是說。	此中顯示最初最後故作是說。	Here, the initial and final are shown, therefore this is said.
+['T27n1545_117:0611b23_12']	初謂色蘊後謂識蘊。	初謂色蘊後謂識蘊。	The first refers to the form aggregate, the latter refers to the consciousness aggregate.
+['T27n1545_117:0611b24_7']	如說初後如是入出趣向已度。	如說初後如是入出趣向已度。	As it is said of the first and the last, so it is with entering, exiting, heading towards, and having crossed over.
+['T27n1545_117:0611b24_16']	方便究竟當知亦爾。	方便究竟當知亦爾。	One should know that skillful means is also like this.
+['T27n1545_117:0611b25_2']	復有說者。	復有說者。	Furthermore, there are those who say:
+['T27n1545_117:0611b25_11']	此中顯示最麁最細。	此中顯示最麁最細。	Herein, the most coarse and the most subtle are revealed.
+['T27n1545_117:0611b25_16']	於五蘊中。	於五蘊中。	Among the five aggregates,
+['T27n1545_117:0611b26_2']	色蘊最麁。	色蘊最麁。	the form aggregate is the most coarse.
+['T27n1545_117:0611b26_7']	識蘊最細。	識蘊最細。	The consciousness aggregate is the most subtle.
+['T27n1545_117:0611b26_12']	復有說者。	復有說者。	Furthermore, there are those who say:
+['T27n1545_117:0611b27_1']	真實寂默唯無學心。	真實寂默唯無學心。	True silence is only the mind of one beyond training.
+['T27n1545_117:0611b27_10']	此無學心由誰比度。	此無學心由誰比度。	By what is this mind of one beyond training inferred?
+['T27n1545_117:0611b27_15']	謂身語業。	謂身語業。	It is by bodily and verbal actions.
+['T27n1545_117:0611b28_5']	故唯無學心身語業。	故唯無學心身語業。	Therefore, only the mind, bodily, and verbal actions of one beyond training
+['T27n1545_117:0611b28_10']	建立寂默。	建立寂默。	Establish silence.
+['T27n1545_117:0611b29_1']	問何故寂默唯在無學。	問何故寂默唯在無學。	Why is silence only in one beyond training?
+['T27n1545_117:0611b29_12']	答唯無學身中寂默可得。	答唯無學身中寂默可得。	The answer is: Silence can only be found in the body of one beyond training.
+['T27n1545_117:0611c01_7']	學及非學非無學身中皆不可得。	學及非學非無學身中皆不可得。	It cannot be found in the body of one in training or in one neither in training nor beyond training.
+['T27n1545_117:0611c02_5']	因論生論何故唯無學身中寂默可得。	因論生論何故唯無學身中寂默可得。	Why is it that silence can only be found in the body of one beyond training,
+['T27n1545_117:0611c02_9']	非餘耶。	非餘耶。	and not in others?
+['T27n1545_117:0611c03_1']	答由此寂默是最勝法。	答由此寂默是最勝法。	The answer is: Because this silence is the most supreme dharma.
+['T27n1545_117:0611c03_11']	非劣身中有勝法可得。	非劣身中有勝法可得。	In an inferior body, the supreme dharma cannot be found.
+['T27n1545_117:0611c03_16']	所以者何。	所以者何。	Why is this?
+['T27n1545_117:0611c04_6']	若說勝法則無學法。	若說勝法則無學法。	If one speaks of superior dharmas, then they are the dharmas of no-more-learning.
+['T27n1545_117:0611c04_12']	勝非學法等。	勝非學法等。	Superior to the dharmas of learning, etc.
+['T27n1545_117:0611c05_9']	若說勝補特伽羅則無學補特伽羅。	若說勝補特伽羅則無學補特伽羅。	If one speaks of superior pudgalas, then they are the pudgalas of no-more-learning.
+['T27n1545_117:0611c05_15']	勝非有學等。	勝非有學等。	Superior to those in training, etc.
+['T27n1545_117:0611c06_2']	復有說者。	復有說者。	Furthermore, there are those who say:
+['T27n1545_117:0611c06_15']	無學身中煩惱意言究竟息滅。	無學身中煩惱意言究竟息滅。	In the body of one beyond training, the verbal expression of afflictions finally ceases.
+['T27n1545_117:0611c07_5']	寂默圓滿故立寂默。	寂默圓滿故立寂默。	Because of the perfect silence, silence is established.
+['T27n1545_117:0611c07_14']	餘身不爾故不建立。	餘身不爾故不建立。	Other bodies are not like this, so they are not established.
+['T27n1545_117:0611c08_11']	問妙行清淨寂默有何差別。	問妙行清淨寂默有何差別。	Question: What is the difference between right practice, purity, and silence?
+['T27n1545_117:0611c08_16']	或有說者。	或有說者。	Some say:
+['T27n1545_117:0611c09_3']	名即差別。	名即差別。	The difference is in the names.
+['T27n1545_117:0611c09_8']	謂名妙行。	謂名妙行。	That is, the name is right practice.
+['T27n1545_117:0611c09_12']	名清淨。	名清淨。	The name is purity.
+['T27n1545_117:0611c09_16']	名寂默。	名寂默。	The name is silence.
+['T27n1545_117:0611c10_5']	復有說者義亦差別。	復有說者義亦差別。	Furthermore, there are those who say that the meaning is also different.
+['T27n1545_117:0611c10_15']	謂善巧作義是妙行義。	謂善巧作義是妙行義。	The meaning of skillful action is the meaning of right practice.
+['T27n1545_117:0611c11_5']	體潔白義是清淨義。	體潔白義是清淨義。	The meaning of the pure essence is the meaning of purity.
+['T27n1545_117:0611c11_14']	離癡亂義是寂默義。	離癡亂義是寂默義。	The meaning of being free from delusion and confusion is the meaning of silence.
+['T27n1545_117:0611c11_19']	復有說者。	復有說者。	Furthermore, there are those who say:
+['T27n1545_117:0611c12_8']	能感愛果故名妙行。	能感愛果故名妙行。	Because it can bring about a beloved fruit, it is called right practice.
+['T27n1545_117:0611c13_1']	不雜煩惱故名清淨。	不雜煩惱故名清淨。	Because it is not mixed with afflictions, it is called purity.
+['T27n1545_117:0611c13_10']	究竟靜息故名寂默。	究竟靜息故名寂默。	Because it ultimately brings tranquility, it is called silence.
+['T27n1545_117:0611c14_5']	是謂妙行清淨寂默三種差別。	是謂妙行清淨寂默三種差別。	These are the three distinctions of the purity and silence of wonderful practice.
+['T27n1545_117:0611c14_10']	諸身惡行。	諸身惡行。	All bodily bad actions,
+['T27n1545_117:0611c15_1']	彼盡非理所引身業耶。	彼盡非理所引身業耶。	are they all bodily actions that are not guided by reason?
+['T27n1545_117:0611c15_9']	設非理所引身業。	設非理所引身業。	If they are bodily actions that are not guided by reason,
+['T27n1545_117:0611c15_16']	彼盡身惡行耶。	彼盡身惡行耶。	are they all bodily bad actions?
+['T27n1545_117:0611c16_1']	乃至廣說。	乃至廣說。	And so on, in detail.
+['T27n1545_117:0611c16_8']	問何故作此論。	問何故作此論。	Question: Why is this treatise composed?
+['T27n1545_117:0611c16_18']	答為欲分別契經義故。	答為欲分別契經義故。	Answer: In order to distinguish the meaning of the sutras.
+['T27n1545_117:0611c17_4']	如契經說。	如契經說。	As the sutras say:
+['T27n1545_117:0611c17_14']	有非理所引身語意業。	有非理所引身語意業。	There are bodily, verbal, and mental actions that are not guided by reason.
+['T27n1545_117:0611c18_7']	契經雖作是說而不廣辯。	契經雖作是說而不廣辯。	Although the sutras say this, they do not explain it in detail.
+['T27n1545_117:0611c18_12']	廣說如前。	廣說如前。	The detailed explanation is as above.
+['T27n1545_117:0611c18_17']	復有說者。	復有說者。	Furthermore, there are those who say:
+['T27n1545_117:0611c19_12']	前納息中雖已分別三種惡行。	前納息中雖已分別三種惡行。	Although the three kinds of bad actions have already been distinguished in the previous chapter,
+['T27n1545_117:0611c20_7']	而未分別非理所引身語意業。	而未分別非理所引身語意業。	the bodily, verbal, and mental actions that are not guided by reason have not yet been distinguished.
+['T27n1545_117:0611c20_16']	今欲分別故作斯論。	今欲分別故作斯論。	Now, in order to distinguish them, this treatise is composed.
+['T27n1545_117:0611c21_3']	諸身惡行。	諸身惡行。	All bodily bad actions,
+['T27n1545_117:0611c21_13']	彼盡非理所引身業耶。	彼盡非理所引身業耶。	are they all bodily actions that are not guided by reason?
+['T27n1545_117:0611c22_2']	設非理所引身業。	設非理所引身業。	If they are bodily actions that are not guided by reason,
+['T27n1545_117:0611c22_9']	彼盡身惡行耶。	彼盡身惡行耶。	are they all bodily bad actions?
+['T27n1545_117:0611c23_4']	答諸身惡行彼盡非理所引身業。	答諸身惡行彼盡非理所引身業。	Answer: All bodily bad actions are bodily actions that are not in accordance with reason.
+['T27n1545_117:0611c23_8']	何以故。	何以故。	Why is it so?
+['T27n1545_117:0611c23_17']	以諸惡行皆違理故。	以諸惡行皆違理故。	Because all bad actions are contrary to reason.
+['T27n1545_117:0611c24_7']	非理作意所等起故。	非理作意所等起故。	Because they are produced by unreasonable attention.
+['T27n1545_117:0611c24_15']	有非理所引身業。	有非理所引身業。	There are bodily actions that are not in accordance with reason,
+['T27n1545_117:0611c25_2']	非身惡行。	非身惡行。	but are not bodily bad actions.
+['T27n1545_117:0611c25_10']	謂有覆無記身業。	謂有覆無記身業。	Namely, the bodily actions that are hindered and indeterminate,
+['T27n1545_117:0611c25_16']	及無覆無記。	及無覆無記。	and the unhindered and indeterminate.
+['T27n1545_117:0611c26_10']	非理所引身業有覆無記身業者。	非理所引身業有覆無記身業者。	The bodily actions that are hindered and indeterminate not in accordance with reason are
+['T27n1545_117:0611c27_7']	謂初靜慮地諂愛等煩惱所起身業。	謂初靜慮地諂愛等煩惱所起身業。	the bodily actions produced by the afflictions such as deceit and craving in the first dhyana stage.
+['T27n1545_117:0611c28_1']	無覆無記非理所引身業者。	無覆無記非理所引身業者。	The bodily actions that are unhindered and indeterminate not in accordance with reason are
+['T27n1545_117:0611c28_8']	謂應如是去來。	謂應如是去來。	the bodily actions that should go and come in this way,
+['T27n1545_117:0611c28_16']	而不如是去來等。	而不如是去來等。	but do not go and come in this way, and so on.
+['T27n1545_117:0611c29_2']	廣說如前。	廣說如前。	As explained in detail above.
+['T27n1545_117:0611c29_7']	諸語惡行。	諸語惡行。	All verbal bad actions,
+['T27n1545_117:0611c29_17']	彼盡非理所引語業耶。	彼盡非理所引語業耶。	are they all verbal actions that are not in accordance with reason?
+['T27n1545_117:0612a01_6']	設非理所引語業。	設非理所引語業。	If they are verbal actions that are not in accordance with reason,
+['T27n1545_117:0612a01_13']	彼盡語惡行耶。	彼盡語惡行耶。	are they all verbal bad actions?
+['T27n1545_117:0612a01_19']	答諸語惡行。	答諸語惡行。	Answer: All verbal bad actions,
+['T27n1545_117:0612a02_8']	彼盡非理所引語業。	彼盡非理所引語業。	are all verbal actions that are not in accordance with reason.
+['T27n1545_117:0612a02_12']	何以故。	何以故。	Why is it so?
+['T27n1545_117:0612a03_2']	以諸惡行皆違理故。	以諸惡行皆違理故。	Because all evil actions are contrary to principle.
+['T27n1545_117:0612a03_11', 'T27n1545_117:0612a04_1', 'T27n1545_117:0612a04_6']	非理作意所等起故。🔽有非理所引語業。🔽非語惡行。	非理作意所等起故。 有非理所引語業。 非語惡行。	Because they are produced by improper attention.🔽There is verbal action that is improper but not verbal misconduct.
+['T27n1545_117:0612a04_14', 'T27n1545_117:0612a05_7']	謂有覆無記語業。🔽及無覆無記非理所引語業。	謂有覆無記語業。 及無覆無記非理所引語業。	That is, the verbal action of the obscured and neutral class.🔽And the verbal action of the unobscured and neutral class that is not proper.
+['T27n1545_117:0612a05_15']	有覆無記語業者。	有覆無記語業者。	The verbal action of the obscured and neutral class refers to
+['T27n1545_117:0612a06_10']	謂初靜慮地諂愛等所起語業。	謂初靜慮地諂愛等所起語業。	the verbal action produced by flattery and craving, etc., in the first dhyana stage.
+['T27n1545_117:0612a07_4']	無覆無記非理所引語業者。	無覆無記非理所引語業者。	The verbal action of the unobscured and neutral class that is not proper refers to
+['T27n1545_117:0612a07_14']	謂應作一言而不作等。	謂應作一言而不作等。	such things as not doing what should be done in one word, etc.
+['T27n1545_117:0612a08_1']	廣說如前。	廣說如前。	As explained in detail above.
+['T27n1545_117:0612a09_4']	諸意惡行。	諸意惡行。	All mental misconduct
+['T27n1545_117:0612a09_14']	彼盡非理所引意業耶。	彼盡非理所引意業耶。	is it all mental action that is improper?
+['T27n1545_117:0612a10_3']	設非理所引意業。	設非理所引意業。	If it is mental action that is improper,
+['T27n1545_117:0612a10_10']	彼盡意惡行耶。	彼盡意惡行耶。	is it all mental misconduct?
+['T27n1545_117:0612a10_16']	答應作四句。	答應作四句。	The answer is that four sentences should be constructed.
+['T27n1545_117:0612a11_9']	有意惡行非非理所引意業。	有意惡行非非理所引意業。	There is mental misconduct that is not mental action that is improper.
+['T27n1545_117:0612a12_4']	謂貪欲瞋恚邪見三種意惡行。	謂貪欲瞋恚邪見三種意惡行。	That is, the three kinds of mental misconduct of covetousness, malice, and wrong views.
+['T27n1545_117:0612a12_16']	有非理所引意業非意惡行。	有非理所引意業非意惡行。	There is mental action that is improper but not mental misconduct.
+['T27n1545_117:0612a13_6']	謂有覆無記意業。	謂有覆無記意業。	That is, the mental action of the obscured and neutral class.
+['T27n1545_117:0612a13_18']	及無覆無記非理所引意業。	及無覆無記非理所引意業。	And the unwholesome and indeterminate mental action that is not induced by improper reflection.
+['T27n1545_117:0612a14_7', 'T27n1545_117:0612a14_16']	有覆無記意業者。🔽謂欲界繫薩迦耶見。	有覆無記意業者。 謂欲界繫薩迦耶見。	As for the wholesome and indeterminate mental action,
+['T27n1545_117:0612a15_5']	邊執見相應思。	邊執見相應思。	it refers to the volition associated with the view of the aggregates and the extreme views in the desire realm.
+['T27n1545_117:0612a15_18']	及色無色界一切煩惱相應思。	及色無色界一切煩惱相應思。	And the volition associated with all the afflictions in the form and formless realms.
+['T27n1545_117:0612a16_11']	無覆無記非理所引意業者。	無覆無記非理所引意業者。	As for the unwholesome and indeterminate mental action that is not induced by improper reflection,
+['T27n1545_117:0612a16_16']	謂思能起。	謂思能起。	it refers to the volition that gives rise to
+['T27n1545_117:0612a17_2']	如前所說。	如前所說。	as explained above.
+['T27n1545_117:0612a17_15']	無覆無記非理所引身語二業。	無覆無記非理所引身語二業。	The two kinds of unwholesome bodily and verbal action that are not induced by improper reflection.
+['T27n1545_117:0612a18_8']	有意惡行亦非理所引意業。	有意惡行亦非理所引意業。	There is mental misconduct that is also mental action not induced by improper reflection.
+['T27n1545_117:0612a18_14']	謂不善意業。	謂不善意業。	It refers to unwholesome mental action.
+['T27n1545_117:0612a19_10']	有非意惡行亦非非理所引意業。	有非意惡行亦非非理所引意業。	There is that which is neither mental misconduct nor mental action not induced by improper reflection.
+['T27n1545_117:0612a19_15']	謂除前相。	謂除前相。	It refers to what is excluded from the above characteristics.
+['T27n1545_117:0612a20_6']	相謂所名如前廣說。	相謂所名如前廣說。	Characteristics refer to the names as explained in detail above.
+['T27n1545_117:0612a20_15']	謂於行蘊中作四句。	謂於行蘊中作四句。	It refers to the four statements about the aggregate of volitional formations.
+['T27n1545_117:0612a21_5']	於中除貪瞋邪見。	於中除貪瞋邪見。	Among them, excluding greed, hatred, wrong views,
+['T27n1545_117:0612a21_10']	及染污思。	及染污思。	and defiled volition,
+['T27n1545_117:0612a22_3']	并無覆無記非理所引思。	并無覆無記非理所引思。	as well as the unwholesome and indeterminate volition that is not induced by improper reflection,
+['T27n1545_117:0612a22_13']	取餘相應不相應行蘊。	取餘相應不相應行蘊。	taking the remaining associated and non-associated volitional formations.
+['T27n1545_117:0612a23_3']	及四蘊全并無為法。	及四蘊全并無為法。	and the four aggregates in their entirety, as well as unconditioned dharmas.
+['T27n1545_117:0612a23_12']	如是一切作第四句。	如是一切作第四句。	In this way, all are taken as the fourth alternative.
+['T27n1545_117:0612a24_1']	故言謂除前相。	故言謂除前相。	Therefore, it is said: Except for the above characteristics.
+['T27n1545_117:0612a25_4']	諸身妙行。	諸身妙行。	All bodily good conduct,
+['T27n1545_117:0612a25_14']	彼盡如理所引身業耶。	彼盡如理所引身業耶。	is that all of it bodily action that is in accordance with reason?
+['T27n1545_117:0612a26_3']	設如理所引身業。	設如理所引身業。	If it is bodily action that is in accordance with reason,
+['T27n1545_117:0612a26_15']	彼盡身妙行耶答諸身妙行。	彼盡身妙行耶答諸身妙行。	is that all bodily good conduct? Answer: All bodily good conduct,
+['T27n1545_117:0612a27_6']	彼盡如理所引身業。	彼盡如理所引身業。	that is all bodily action that is in accordance with reason.
+['T27n1545_117:0612a27_10']	何以故。	何以故。	Why is it so?
+['T27n1545_117:0612a28_1']	一切妙行不違理故。	一切妙行不違理故。	Because all good conduct does not contradict reason,
+['T27n1545_117:0612a28_10']	如理作意所等起故。	如理作意所等起故。	because it arises from attention that is in accordance with reason.
+['T27n1545_117:0612a29_4']	有如理所引身業非身妙行。	有如理所引身業非身妙行。	There is bodily action that is in accordance with reason but not bodily good conduct.
+['T27n1545_117:0612a29_16']	謂無覆無記如理所引身業。	謂無覆無記如理所引身業。	It refers to unobscured indeterminate bodily action that is in accordance with reason.
+['T27n1545_117:0612b01_2', 'T27n1545_117:0612b01_9']	此復云何。🔽謂應如是去來。	此復云何。 謂應如是去來。	What is this again?🔽It refers to going and coming in this way,
+['T27n1545_117:0612b01_17']	而能如是去來等。	而能如是去來等。	and being able to go and come in this way, and so on.
+['T27n1545_117:0612b02_3']	廣說如前。	廣說如前。	Explained in detail as before.
+['T27n1545_117:0612b03_13']	諸語妙行彼盡如理所引語業耶。	諸語妙行彼盡如理所引語業耶。	All verbal good conduct, is that all verbal action that is in accordance with reason?
+['T27n1545_117:0612b04_3']	設如理所引語業。	設如理所引語業。	If it is verbal action that is in accordance with reason,
+['T27n1545_117:0612b04_10']	彼盡語妙行耶。	彼盡語妙行耶。	is that all verbal good conduct?
+['T27n1545_117:0612b04_16']	答諸語妙行。	答諸語妙行。	Answer: All verbal good conduct,
+['T27n1545_117:0612b05_5']	彼盡如理所引語業。	彼盡如理所引語業。	That which is in accordance with principle and induced by principle is verbal action.
+['T27n1545_117:0612b05_17']	何以故一切妙行不違理故。	何以故一切妙行不違理故。	Why is this? Because all good conduct does not contradict principle.
+['T27n1545_117:0612b06_7']	如理作意所等起故。	如理作意所等起故。	Because it arises equally with proper attention.
+['T27n1545_117:0612b06_15']	有如理所引語業。	有如理所引語業。	There is verbal action that is in accordance with principle,
+['T27n1545_117:0612b07_2']	非語妙行。	非語妙行。	but is not good verbal action.
+['T27n1545_117:0612b07_14']	謂無覆無記如理所引語業。	謂無覆無記如理所引語業。	That is, verbal action that is neither obscured nor unwholesome and is in accordance with principle.
+['T27n1545_117:0612b07_19']	此復云何。	此復云何。	What is this again?
+['T27n1545_117:0612b08_10']	謂應作一言而作一言等。	謂應作一言而作一言等。	That is, speaking one word when one should speak one word, and so on.
+['T27n1545_117:0612b08_15']	廣說如前。	廣說如前。	Explained in detail as before.
+['T27n1545_117:0612b09_2']	諸意妙行。	諸意妙行。	All good mental actions,
+['T27n1545_117:0612b09_12']	彼盡如理所引意業耶。	彼盡如理所引意業耶。	are they all mental actions that are in accordance with principle?
+['T27n1545_117:0612b10_1']	設如理所引意業。	設如理所引意業。	If it is mental action that is in accordance with principle,
+['T27n1545_117:0612b10_8']	彼盡意妙行耶。	彼盡意妙行耶。	is it all good mental action?
+['T27n1545_117:0612b10_14']	答應作四句。	答應作四句。	The answer is that four sentences should be made.
+['T27n1545_117:0612b10_19']	有意妙行。	有意妙行。	There is good mental action,
+['T27n1545_117:0612b11_7']	非如理所引意業。	非如理所引意業。	but not mental action that is in accordance with principle.
+['T27n1545_117:0612b12_2']	謂無貪無瞋正見三種意妙行。	謂無貪無瞋正見三種意妙行。	That is, the three kinds of good mental action of non-greed, non-hatred, and right view.
+['T27n1545_117:0612b12_10']	有如理所引意業。	有如理所引意業。	There is mental action that is in accordance with principle,
+['T27n1545_117:0612b12_15']	非意妙行。	非意妙行。	but not good mental action.
+['T27n1545_117:0612b13_10']	謂一分無覆無記如理所引意業。	謂一分無覆無記如理所引意業。	That is, a part of mental action that is neither obscured nor unwholesome and is in accordance with principle.
+['T27n1545_117:0612b13_16']	即思謂能起。	即思謂能起。	It is thought, which is able to give rise to,
+['T27n1545_117:0612b14_2']	如前所說。	如前所說。	as explained before.
+['T27n1545_117:0612b14_15']	無覆無記如理所引身語二業。	無覆無記如理所引身語二業。	The two karmas of body and speech that are neither obscured nor non-defined and are induced by proper reasoning,
+['T27n1545_117:0612b15_1']	有意妙行。	有意妙行。	There is good mental karma.
+['T27n1545_117:0612b15_9']	亦如理所引意業。	亦如理所引意業。	It is also mental karma that is induced by proper reasoning.
+['T27n1545_117:0612b15_14']	謂善意業。	謂善意業。	It refers to wholesome mental karma.
+['T27n1545_117:0612b16_1']	有非意妙行。	有非意妙行。	There is that which is neither good mental karma,
+['T27n1545_117:0612b16_10']	亦非如理所引意業。	亦非如理所引意業。	Nor mental karma that is induced by proper reasoning.
+['T27n1545_117:0612b16_15']	謂除前相。	謂除前相。	It refers to excluding the above characteristics.
+['T27n1545_117:0612b17_5']	相謂所名如前廣說。	相謂所名如前廣說。	Characteristics refer to the names as explained in detail above.
+['T27n1545_117:0612b17_14']	謂於行蘊中作四句。	謂於行蘊中作四句。	It refers to making four statements about the aggregate of karmic formations.
+['T27n1545_117:0612b18_9']	於中除無貪無瞋正見及善思。	於中除無貪無瞋正見及善思。	Among them, excluding non-greed, non-hatred, right view, wholesome volition,
+['T27n1545_117:0612b18_15']	并無覆無記。	并無覆無記。	And the neither obscured nor non-defined,
+['T27n1545_117:0612b19_2']	如理所引思。	如理所引思。	Induced by proper reasoning volition,
+['T27n1545_117:0612b19_12']	取餘相應不相應行蘊。	取餘相應不相應行蘊。	Taking the remaining associated and non-associated karmic formation aggregates,
+['T27n1545_117:0612b20_2']	及四蘊全并無為法。	及四蘊全并無為法。	And the four aggregates in their entirety, along with unconditioned dharmas.
+['T27n1545_117:0612b20_11']	如是一切作第四句。	如是一切作第四句。	In this way, everything is made into the fourth statement.
+['T27n1545_117:0612b21_1']	故言謂除前相。	故言謂除前相。	Therefore it says excluding the above characteristics.Here is the corrected and aligned text:
+['T27n1545_117:0612b23_100']	說一切有部發智大毘婆沙論卷第一百一十七	說一切有部發智大毘婆沙論卷第一百一十七	Sarvâstivāda Abhidharma-mahāvibhāṣā-śāstra, fascicle 117

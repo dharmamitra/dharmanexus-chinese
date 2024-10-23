@@ -1,0 +1,842 @@
+segmentnr	original	analyzed	translated
+['T27n1545_158:0800c17_0']	阿毘達磨大毘婆沙論卷第一百	阿毘達磨大毘婆沙論卷第一百	Abhidharma-mahāvibhāṣā-śāstra, fascicle 100
+['T27n1545_158:0800c18_0']	五十八	五十八	fifty-eight
+['T27n1545_158:0800c20_0']	五百大阿羅漢等造	五百大阿羅漢等造	composed by five hundred great arhats and others
+['T27n1545_158:0800c23_7']	三藏法師玄奘奉　詔譯2定蘊第七中得納息第一之二問得非得何差別。	三藏法師玄奘奉　詔譯2定蘊第七中得納息第一之二問得非得何差別。	tripiṭaka master Xuanzang respectfully received
+['T27n1545_158:0800c23_13']	答名即差別。	答名即差別。	Answer: The name is the distinction.
+['T27n1545_158:0800c23_17']	謂名得。	謂名得。	That is to say, the name is attainment.
+['T27n1545_158:0800c24_2']	名非得。	名非得。	The name is non-attainment.
+['T27n1545_158:0800c24_10']	復次得有漏無漏。	復次得有漏無漏。	Furthermore, attainment is contaminated and uncontaminated.
+['T27n1545_158:0800c24_16']	非得唯有漏。	非得唯有漏。	Non-attainment is only contaminated.
+['T27n1545_158:0800c25_6']	復次得善不善無記。	復次得善不善無記。	Furthermore, attainment is wholesome, unwholesome, and indeterminate.
+['T27n1545_158:0800c25_12']	非得唯無記。	非得唯無記。	Non-attainment is only indeterminate.
+['T27n1545_158:0800c26_3']	復次得三界繫及不繫。	復次得三界繫及不繫。	Furthermore, attainment is bound to the three realms and unbound.
+['T27n1545_158:0800c26_10']	非得唯三界繫。	非得唯三界繫。	Non-attainment is only bound to the three realms.
+['T27n1545_158:0800c27_3']	復次得學無學非學非無學。	復次得學無學非學非無學。	Furthermore, attainment is the training, post-training, and neither training nor post-training.
+['T27n1545_158:0800c27_12']	非得唯非學非無學。	非得唯非學非無學。	Non-attainment is only neither training nor post-training.
+['T27n1545_158:0800c27_19']	復次得見所斷。	復次得見所斷。	Furthermore, attainment is eliminated by seeing.
+['T27n1545_158:0800c28_3']	修所斷。	修所斷。	Eliminated by cultivation.
+['T27n1545_158:0800c28_6']	不斷。	不斷。	Not eliminated.
+['T27n1545_158:0800c28_13']	非得唯修所斷。	非得唯修所斷。	Non-attainment is only eliminated by cultivation.
+['T27n1545_158:0800c29_2']	復次得染污不染污。	復次得染污不染污。	Furthermore, attainment is defiled and undefiled.
+['T27n1545_158:0800c29_9']	非得唯不染污。	非得唯不染污。	Non-attainment is only undefiled.
+['T27n1545_158:0800c29_18']	復次得異熟非異熟。	復次得異熟非異熟。	Furthermore, attainment is with retribution and without retribution.
+['T27n1545_158:0801a01_5']	非得唯非異熟。	非得唯非異熟。	Non-attainment is only without retribution.
+['T27n1545_158:0801a01_15']	復次得有異熟無異熟。	復次得有異熟無異熟。	Furthermore, acquisition has both results and no results.
+['T27n1545_158:0801a02_3']	非得唯無異熟。	非得唯無異熟。	Non-acquisition only has no results.
+['T27n1545_158:0801a02_10']	復次得與所得。	復次得與所得。	Furthermore, acquisition and what is acquired
+['T27n1545_158:0801a02_15']	法或俱起。	法或俱起。	may either arise together
+['T27n1545_158:0801a03_1']	或不俱起。	或不俱起。	or not arise together.
+['T27n1545_158:0801a03_13']	非得與所不得法必不俱起。	非得與所不得法必不俱起。	Non-acquisition and what is not acquired must not arise together.
+['T27n1545_158:0801a04_5']	復次得苦集道三諦攝。	復次得苦集道三諦攝。	Furthermore, acquisition is categorized as the three truths of suffering, accumulation, and the path.
+['T27n1545_158:0801a04_13']	非得唯苦集諦攝。	非得唯苦集諦攝。	Non-acquisition is only categorized as the truths of suffering and accumulation.
+['T27n1545_158:0801a05_1']	以如是等門。	以如是等門。	By means of these and other such approaches,
+['T27n1545_158:0801a05_9', 'T27n1545_158:0801a06_10']	應知得非得差別。🔽問何故得與所得法性類。	應知得非得差別。 問何故得與所得法性類。	one should understand the distinctions between acquisition and non-acquisition.
+['T27n1545_158:0801a06_16']	或同或異耶。	或同或異耶。	Question: Why is it that acquisition and the acquired dharmas are either the same or different in nature?
+['T27n1545_158:0801a07_3']	答得有三種。	答得有三種。	Answer: There are three kinds of acquisition:
+['T27n1545_158:0801a07_9']	一有為法得。	一有為法得。	first, the acquisition of conditioned dharmas;
+['T27n1545_158:0801a07_14']	二擇滅得。	二擇滅得。	second, the acquisition of cessation through contemplation;
+['T27n1545_158:0801a08_1']	三非擇滅得。	三非擇滅得。	third, the acquisition of cessation not through contemplation.
+['T27n1545_158:0801a08_6']	有為法得。	有為法得。	The acquisition of conditioned dharmas
+['T27n1545_158:0801a08_15']	隨所得法性類差別。	隨所得法性類差別。	follows the distinctions in the nature and type of the acquired dharmas.
+['T27n1545_158:0801a09_9']	以有為法能有作用引自得故。	以有為法能有作用引自得故。	Because conditioned dharmas can have efficacy and attract their own acquisition.
+['T27n1545_158:0801a10_4']	擇滅得隨能證道性類差別。	擇滅得隨能證道性類差別。	The acquisition of cessation through contemplation follows the distinctions in the nature and type of the path that realizes it.
+['T27n1545_158:0801a10_13']	以諸擇滅自無作用。	以諸擇滅自無作用。	Because various cessations through contemplation have no efficacy of their own.
+['T27n1545_158:0801a11_2']	但由道力求證。	但由道力求證。	But they are sought and realized only through the power of the path.
+['T27n1545_158:0801a11_9']	彼時引彼得故。	彼時引彼得故。	Because it is attracted at the time of obtaining it.
+['T27n1545_158:0801a11_14']	非擇滅得。	非擇滅得。	The attainment of non-analytical cessation
+['T27n1545_158:0801a12_4']	隨自所依性類差別。	隨自所依性類差別。	follows the distinctions of its own basis.
+['T27n1545_158:0801a12_13']	以非擇滅自無作用。	以非擇滅自無作用。	Because non-analytical cessation itself has no function.
+['T27n1545_158:0801a12_18']	非道所求。	非道所求。	It is not sought by the path.
+['T27n1545_158:0801a13_13']	彼得但依命根眾同分而現前故。	彼得但依命根眾同分而現前故。	Its attainment is only manifested based on the life faculty and the homogeneity of the group.
+['T27n1545_158:0801a14_5']	問非得隨何性類差別。	問非得隨何性類差別。	Question: Non-attainment follows the distinctions of what nature and type?
+['T27n1545_158:0801a15_2']	答彼定不隨所不得法以相違故。	答彼定不隨所不得法以相違故。	Answer: It definitely does not follow the dharma that is not attained, because they are mutually contradictory.
+['T27n1545_158:0801a15_12']	又不隨道非道所求故。	又不隨道非道所求故。	Also, it does not follow the path or what is not sought by the path.
+['T27n1545_158:0801a16_4']	但依命根眾同分轉故。	但依命根眾同分轉故。	It only arises based on the life faculty and the homogeneity of the group.
+['T27n1545_158:0801a16_12']	隨所依性類差別。	隨所依性類差別。	Therefore, it follows the distinctions of the nature and type of its basis.
+['T27n1545_158:0801a17_3']	問若諸非得非擇滅得。	問若諸非得非擇滅得。	Question: If the non-attainment and the attainment of non-analytical cessation
+['T27n1545_158:0801a17_13']	俱隨所依性類差別者。	俱隨所依性類差別者。	both follow the distinctions of the nature and type of their basis,
+['T27n1545_158:0801a18_1']	所依或異熟。	所依或異熟。	is the basis only retribution,
+['T27n1545_158:0801a18_6']	或唯等流。	或唯等流。	or is it only the outflow?
+['T27n1545_158:0801a18_15']	此二隨何性類差別。	此二隨何性類差別。	Which of these two distinctions does it follow?
+['T27n1545_158:0801a19_6']	答隨等流性以義遍故。	答隨等流性以義遍故。	Answer: It follows the outflow nature, because its meaning is universal.
+['T27n1545_158:0801a19_15', 'T27n1545_158:0801a20_7']	異熟非遍故不隨立。🔽問非得若隨所不得法。	異熟非遍故不隨立。 問非得若隨所不得法。	Retribution is not universal, so it does not follow in establishing it.
+['T27n1545_158:0801a20_16']	性類差別有何過耶。	性類差別有何過耶。	Question: If non-attainment follows the distinctions of the nature and type of the dharma that is not attained, what fault is there?
+['T27n1545_158:0801a21_8']	答斷善根者應成就善。	答斷善根者應成就善。	If you say that those who sever the roots of good should possess good [roots],
+['T27n1545_158:0801a22_2']	已離欲染者應成就不善。	已離欲染者應成就不善。	then those who have already separated from the desire realm should possess non-good [karma].
+['T27n1545_158:0801a22_11']	諸無學者應成就染。	諸無學者應成就染。	Those who are beyond training should possess defiled [karma].
+['T27n1545_158:0801a23_5']	異生應成就三乘無漏法。	異生應成就三乘無漏法。	Ordinary beings should possess the uncontaminated dharmas of the three vehicles.
+['T27n1545_158:0801a23_11']	退果應成果。	退果應成果。	Those who have fallen away from the fruits should possess the fruits.
+['T27n1545_158:0801a23_17']	捨向應成向。	捨向應成向。	Those who have abandoned the paths should possess the paths.
+['T27n1545_158:0801a24_7']	二滅非得應是無為。	二滅非得應是無為。	The non-acquisition of the two cessations should be unconditioned.
+['T27n1545_158:0801a24_12']	由此等過。	由此等過。	For these and other reasons,
+['T27n1545_158:0801a25_7']	非得不可隨所不得性類有異。	非得不可隨所不得性類有異。	non-acquisition cannot be distinguished according to the nature of what is not acquired.
+['T27n1545_158:0801a26_11']	問所說得為更有得為無耶。	問所說得為更有得為無耶。	It is asked: Is it said that acquisition has acquisition or not?
+['T27n1545_158:0801a27_3']	若更有得者得傳有得。	若更有得者得傳有得。	If it has acquisition, then acquisition transmits acquisition.
+['T27n1545_158:0801a27_8']	何非無窮。	何非無窮。	Why is it not endless?
+['T27n1545_158:0801a27_14']	若更無得者。	若更無得者。	If it has no further acquisition,
+['T27n1545_158:0801a28_4', 'T27n1545_158:0801a28_9']	此得由何可說成就。🔽答應說得。	此得由何可說成就。 答應說得。	by what is this acquisition said to be accomplished?
+['T27n1545_158:0801a28_13']	復有得。	復有得。	It is answered: It should be said that acquisition has acquisition.
+['T27n1545_158:0801a29_3']	問若爾應成無窮。	問若爾應成無窮。	It is asked: If so, it should be endless.
+['T27n1545_158:0801a29_11']	答無窮亦無有過。	答無窮亦無有過。	It is answered: Endless also has no fault.
+['T27n1545_158:0801a29_18']	由此生死難斷。	由此生死難斷。	For this reason, birth and death are difficult to sever,
+['T27n1545_158:0801b01_2']	難越。	難越。	difficult to transcend.
+['T27n1545_158:0801b01_13']	或無量得皆一剎那俱生。	或無量得皆一剎那俱生。	Or countless acquisitions all arise simultaneously in a single moment,
+['T27n1545_158:0801b02_1']	而滅無無窮過。	而滅無無窮過。	and cease without the fault of endlessness.
+['T27n1545_158:0801b02_6']	如是說者。	如是說者。	Those who explain it this way say:
+['T27n1545_158:0801b02_15']	一剎那中但有三法。	一剎那中但有三法。	In a single moment, there are only three dharmas:
+['T27n1545_158:0801b02_19']	一彼法。	一彼法。	1. That dharma,
+['T27n1545_158:0801b03_2']	二得。	二得。	2. Attainment,
+['T27n1545_158:0801b03_6']	三得得。	三得得。	3. Attainment of attainment.
+['T27n1545_158:0801b03_17']	由得故成就彼法及得得。	由得故成就彼法及得得。	By means of attainment, one accomplishes that dharma and the attainment of attainment.
+['T27n1545_158:0801b04_6']	由得得故成就得。	由得得故成就得。	By means of the attainment of attainment, one accomplishes attainment.
+['T27n1545_158:0801b04_16']	由更互相得故非無窮。	由更互相得故非無窮。	Because they mutually attain each other, there is no infinite regress.
+['T27n1545_158:0801b05_9']	是故說色蘊行蘊一得得。	是故說色蘊行蘊一得得。	Therefore, it is said that the form aggregate and the aggregate of mental activities have one attainment of attainment,
+['T27n1545_158:0801b06_1']	乃至識蘊行蘊一得得。	乃至識蘊行蘊一得得。	up to the aggregate of consciousness and the aggregate of mental activities having one attainment of attainment.
+['T27n1545_158:0801b06_9']	有為無為一得得。	有為無為一得得。	The conditioned and the unconditioned have one attainment of attainment.
+['T27n1545_158:0801b06_19', 'T27n1545_158:0801b07_4']	問為一一法各別有得。🔽為不爾耶。	問為一一法各別有得。 為不爾耶。	Question: Do each and every dharma have separate attainment or not?
+['T27n1545_158:0801b07_9']	或有說者。	或有說者。	Some say:
+['T27n1545_158:0801b07_17']	俱有法同一得得。	俱有法同一得得。	Coexistent dharmas have the same attainment of attainment.
+['T27n1545_158:0801b08_8']	問若爾不應作如是說。	問若爾不應作如是說。	Question: If that is so, it should not be said like this:
+['T27n1545_158:0801b08_17']	色蘊行蘊一得得等。	色蘊行蘊一得得等。	The form aggregate and the aggregate of mental activities have one attainment of attainment, and so on.
+['T27n1545_158:0801b09_7']	答欲顯法與得得。	答欲顯法與得得。	Answer: In order to show that the dharma and the attainment of attainment
+['T27n1545_158:0801b09_16']	無異得故作如是說。	無異得故作如是說。	are without a separate attainment, it is said like this.
+['T27n1545_158:0801b10_12']	然實不無五蘊四蘊一得得義。	然實不無五蘊四蘊一得得義。	However, in reality, there is no lack of the meaning of the five aggregates and the four aggregates having one attainment of attainment.
+['T27n1545_158:0801b10_15']	有說。	有說。	Some say:
+['T27n1545_158:0801b11_5']	一一法各別得得。	一一法各別得得。	Each and every dharma has a separate attainment of attainment,
+['T27n1545_158:0801b11_10']	唯除得得。	唯除得得。	with the exception of the attainment of attainment.
+['T27n1545_158:0801b11_18']	與彼法同一得得。	與彼法同一得得。	They share the same acquisition as that dharma.
+['T27n1545_158:0801b12_9']	問若爾便有無窮過失。	問若爾便有無窮過失。	Question: If so, there would be the fault of infinite regress.
+['T27n1545_158:0801b13_1', 'T27n1545_158:0801b13_10']	以得皆有生住異滅。🔽生等復有得與得得。	以得皆有生住異滅。 生等復有得與得得。	Because acquisition all has arising, abiding, transformation, and cessation.🔽Arising, etc. also have acquisition and acquisition of acquisition.
+['T27n1545_158:0801b14_1']	彼得得得復有生等。	彼得得得復有生等。	That acquisition of acquisition has arising, etc.
+['T27n1545_158:0801b14_10']	如是展轉成無窮故。	如是展轉成無窮故。	In this way, it becomes an infinite regress.
+['T27n1545_158:0801b14_18']	答無窮復有何過。	答無窮復有何過。	Answer: What further fault is there in an infinite regress?
+['T27n1545_158:0801b15_8']	由此生死難斷難越。	由此生死難斷難越。	Because of this, samsara is difficult to cut off and difficult to transcend.
+['T27n1545_158:0801b16_7']	或此諸法皆一剎那俱生而滅無無窮過。	或此諸法皆一剎那俱生而滅無無窮過。	Or, these dharmas all arise and cease simultaneously in one moment, without the fault of infinite regress.
+['T27n1545_158:0801b16_12']	如是說者。	如是說者。	Thus it is said:
+['T27n1545_158:0801b17_3']	法與生等同一得得。	法與生等同一得得。	Dharmas and arising, etc. share the same acquisition of acquisition.
+['T27n1545_158:0801b17_12']	相與所相極親近故。	相與所相極親近故。	Because characteristics and the characterized are extremely close.
+['T27n1545_158:0801b18_7']	由此善通色蘊行蘊一得得等。	由此善通色蘊行蘊一得得等。	Because of this, the good and thorough understanding of the form aggregate and the aggregate of mental activities share the same acquisition of acquisition, etc.
+['T27n1545_158:0801b18_16']	又去如前無窮過失。	又去如前無窮過失。	And also avoiding the previously mentioned fault of infinite regress.
+['T27n1545_158:0801b19_10']	如說得如是非得與得相違。	如說得如是非得與得相違。	As it is said that acquisition is like this, non-acquisition is contrary to acquisition.
+['T27n1545_158:0801b19_15']	應隨廣說。	應隨廣說。	It should be explained in detail.
+['T27n1545_158:0801b20_6']	然無同時非得非得。	然無同時非得非得。	However, there is no simultaneous non-acquisition of non-acquisition.
+['T27n1545_158:0801b21_1']	有情數法現在前時必與得俱。	有情數法現在前時必與得俱。	When dharmas of sentient beings are present, they must be accompanied by acquisition.
+['T27n1545_158:0801b22_3']	是故非得起時決定不與非得非得及彼法俱起。	是故非得起時決定不與非得非得及彼法俱起。	Therefore, when non-acquisition arises, it definitely does not occur simultaneously with the non-acquisition of non-acquisition and that dharma.
+['T27n1545_158:0801b22_12']	由此三法互相違故。	由此三法互相違故。	This is because these three dharmas are mutually contradictory.
+['T27n1545_158:0801b23_3']	異時說有此則不遮。	異時說有此則不遮。	If it is said to exist at different times, this is not refuted.
+['T27n1545_158:0801b24_6', 'T27n1545_158:0801b24_10']	問過去未來得。🔽為成就。	問過去未來得。 為成就。	Question: Do past and future acquisitions
+['T27n1545_158:0801b24_15']	為不成就。	為不成就。	exist or not?
+['T27n1545_158:0801b25_1']	若成就者。	若成就者。	If they exist,
+['T27n1545_158:0801b25_6']	則為無窮。	則為無窮。	then it would be endless.
+['T27n1545_158:0801b25_15']	謂一剎那三法俱起。	謂一剎那三法俱起。	That is to say, in one moment, three dharmas arise together:
+['T27n1545_158:0801b25_18']	一法。	一法。	one dharma,
+['T27n1545_158:0801b26_1']	二得。	二得。	two acquisitions,
+['T27n1545_158:0801b26_5']	三得得。	三得得。	and the acquisition of the acquisition.
+['T27n1545_158:0801b26_14', 'T27n1545_158:0801b26_18']	此三滅位有六得生。🔽謂三得。	此三滅位有六得生。 謂三得。	When these three cease, six acquisitions arise,🔽namely, the three acquisitions
+['T27n1545_158:0801b27_2']	三得得。	三得得。	and the acquisitions of the three acquisitions.
+['T27n1545_158:0801b27_11']	此六滅位十二得起。	此六滅位十二得起。	When these six cease, twelve acquisitions arise,
+['T27n1545_158:0801b27_18']	謂六得六得得。	謂六得六得得。	namely, the six acquisitions and the acquisitions of the six acquisitions.
+['T27n1545_158:0801b28_3']	十二滅位。	十二滅位。	When the twelve cease,
+['T27n1545_158:0801b28_9']	二十四得起。	二十四得起。	twenty-four acquisitions arise,
+['T27n1545_158:0801b28_18']	謂十二得十二得得。	謂十二得十二得得。	namely, the twelve acquisitions and the acquisitions of the twelve acquisitions.
+['T27n1545_158:0801b29_7']	如是展轉無始時來。	如是展轉無始時來。	In this way, from beginningless time,
+['T27n1545_158:0801c01_2']	乃至後際念念倍起其得無限。	乃至後際念念倍起其得無限。	up to the end of time, each moment doubles, and the acquisitions are limitless.
+['T27n1545_158:0801c02_5']	隣次剎那倍增尚爾況於隔越前前剎那諸得倍增。	隣次剎那倍增尚爾況於隔越前前剎那諸得倍增。	Even if the subsequent moments increase by a factor of two, how much more so for those that are separated by previous moments?
+['T27n1545_158:0801c02_14']	是故展轉有無窮過。	是故展轉有無窮過。	Therefore, there is an infinite regress of non-attainment.
+['T27n1545_158:0801c03_8']	若不成就便與此蘊後說相違。	若不成就便與此蘊後說相違。	If there is no non-attainment, it contradicts the subsequent explanation of these aggregates.
+['T27n1545_158:0801c04_3']	如說從無色界歿生欲界時。	如說從無色界歿生欲界時。	As it is said, when one dies from the formless realm and is reborn in the desire realm,
+['T27n1545_158:0801c04_9']	所得蘊界處。	所得蘊界處。	the aggregates, realms, and sense bases that are obtained,
+['T27n1545_158:0801c04_12']	大種。	大種。	the great elements,
+['T27n1545_158:0801c04_15']	善根。	善根。	the roots of goodness,
+['T27n1545_158:0801c04_19']	不善根。	不善根。	the roots of non-virtue,
+['T27n1545_158:0801c05_2', 'T27n1545_158:0801c05_7']	無記根。🔽結縛隨眠。	無記根。 結縛隨眠。	the neutral roots,🔽the bonds, latent tendencies,
+['T27n1545_158:0801c05_12']	隨煩惱纏。	隨煩惱纏。	the secondary afflictions, and entanglements,
+['T27n1545_158:0801c06_3']	當言曾得得未曾得得。	當言曾得得未曾得得。	should be said to be obtained through having obtained or not having obtained.
+['T27n1545_158:0801c06_14']	答善染污法當言曾得得。	答善染污法當言曾得得。	The answer is: It should be said that wholesome and defiled dharmas are obtained through having obtained,
+['T27n1545_158:0801c07_5']	異熟法當言未曾得得。	異熟法當言未曾得得。	and that karmic maturation dharmas are obtained through not having obtained.
+['T27n1545_158:0801c07_13']	如此則非不成就。	如此則非不成就。	In this way, there is no non-attainment.
+['T27n1545_158:0801c08_4']	以得亦有善染污故。	以得亦有善染污故。	Because attainment also exists for wholesome and defiled [dharmas].
+['T27n1545_158:0801c08_10']	答應作是說。	答應作是說。	The answer is: This should be said.
+['T27n1545_158:0801c09_2']	過去未來得有成就者。	過去未來得有成就者。	Past and future attainments can be possessed.
+['T27n1545_158:0801c09_15', 'T27n1545_158:0801c10_5']	以善及染污法等有三世得故。🔽問若爾豈非無窮。	以善及染污法等有三世得故。 問若爾豈非無窮。	Because wholesome and defiled dharmas, etc., have attainments in the three times.🔽Question: If so, isn't there an infinite regress?
+['T27n1545_158:0801c10_13']	答無窮復有何過。	答無窮復有何過。	Answer: What fault is there in an infinite regress?
+['T27n1545_158:0801c11_4']	由此生死難斷難越。	由此生死難斷難越。	Therefore, birth and death are difficult to sever and difficult to transcend.
+['T27n1545_158:0801c11_17']	或彼諸得一剎那生無無窮過。	或彼諸得一剎那生無無窮過。	Or, the obtainment of these [dharmas] arises in a single moment, without the fault of infinite regress.
+['T27n1545_158:0801c12_8']	又此諸得但可言多。	又此諸得但可言多。	Moreover, the obtainment of these [dharmas] can only be said to be many.
+['T27n1545_158:0801c13_1']	而非無窮猶有分限故。	而非無窮猶有分限故。	But it is not infinite, because it still has a limit.
+['T27n1545_158:0801c13_6']	有餘師說。	有餘師說。	Other masters say:
+['T27n1545_158:0801c13_17']	無有成就過去未來得者。	無有成就過去未來得者。	There is no one who possesses past or future obtainment.
+['T27n1545_158:0801c14_5']	是故無無窮過。	是故無無窮過。	Therefore, there is no fault of infinite regress.
+['T27n1545_158:0801c14_15']	問此蘊後說當云何通。	問此蘊後說當云何通。	How should we understand the passage in the Abhidharma that states:
+['T27n1545_158:0801c15_6']	答此蘊後文說所得法。	答此蘊後文說所得法。	The later passage in the Abhidharma speaks of the dharmas that are obtained,
+['T27n1545_158:0801c15_11']	非能得得。	非能得得。	not the obtainment of obtainment.
+['T27n1545_158:0801c15_16']	斯有何咎。	斯有何咎。	What fault is there in this?
+['T27n1545_158:0801c16_2']	如是說者。	如是說者。	Those who explain it in this way
+['T27n1545_158:0801c16_15']	應如初說得如所得應成就故。	應如初說得如所得應成就故。	should follow the initial explanation, because obtainment is like what is obtained and should be accomplished.
+['T27n1545_158:0801c17_7']	又以得故名沙門果。	又以得故名沙門果。	Moreover, because of obtainment, it is called the fruit of the śramaṇa.
+['T27n1545_158:0801c17_16']	若過未得不成就者。	若過未得不成就者。	If past and future obtainment are not accomplished,
+['T27n1545_158:0801c18_9']	諸沙門果應剎那捨剎那得。	諸沙門果應剎那捨剎那得。	then the various fruits of the śramaṇa would be abandoned and obtained in each moment.
+['T27n1545_158:0801c18_14']	然無是事。	然無是事。	But this is not the case.
+['T27n1545_158:0801c19_4']	又諸聖道有三時捨。	又諸聖道有三時捨。	Moreover, the noble path is abandoned in three times:
+['T27n1545_158:0801c19_8']	謂退時。	謂退時。	When one regresses,
+['T27n1545_158:0801c19_12']	得果時。	得果時。	when one attains the fruit,
+['T27n1545_158:0801c19_16']	練根時。	練根時。	and when one sharpens one's faculties.
+['T27n1545_158:0801c20_5']	若過未得不成就者。	若過未得不成就者。	If past and future obtainment are not accomplished,
+['T27n1545_158:0801c20_15']	則聖道應剎那剎那捨。	則聖道應剎那剎那捨。	then the noble path would be abandoned moment by moment.
+['T27n1545_158:0801c21_8']	非謂三時欲令無如是過。	非謂三時欲令無如是過。	It is not said that the three times are intended to avoid such faults.
+['T27n1545_158:0801c21_17', 'T27n1545_158:0801c22_11']	故有成就過未諸得。🔽若成就所得法亦成就彼得。	故有成就過未諸得。 若成就所得法亦成就彼得。	Therefore, there are those who attain past and future dharmas.🔽If one attains the dharma, one also attains its attainment.
+['T27n1545_158:0801c23_3']	若所得法捨彼得亦捨。	若所得法捨彼得亦捨。	If the dharma is abandoned, its attainment is also abandoned.
+['T27n1545_158:0801c23_12']	以法與得捨得同故。	以法與得捨得同故。	Because the dharma and its attainment are abandoned together.
+['T27n1545_158:0801c24_1']	然得總有四種。	然得總有四種。	However, attainment generally has four kinds.
+['T27n1545_158:0801c24_7']	一在彼法前。	一在彼法前。	First, it precedes the dharma.
+['T27n1545_158:0801c24_13']	二在彼法後。	二在彼法後。	Second, it follows the dharma.
+['T27n1545_158:0801c24_19']	三與彼法俱。	三與彼法俱。	Third, it is simultaneous with the dharma.
+['T27n1545_158:0801c25_8']	四非彼法前後及俱。	四非彼法前後及俱。	Fourth, it is neither before nor after the dharma, nor simultaneous with it.
+['T27n1545_158:0801c25_17']	若所得法則有六種。	若所得法則有六種。	If it is the dharma that is attained, then there are six kinds.
+['T27n1545_158:0801c26_8']	一有所得法唯有俱得。	一有所得法唯有俱得。	First, there are dharmas that are attained only simultaneously.
+['T27n1545_158:0801c26_14']	如異熟生等。	如異熟生等。	Such as those born of retribution, etc.
+['T27n1545_158:0801c27_6']	二有所得法唯有前得。	二有所得法唯有前得。	Second, there are dharmas that are attained only previously.
+['T27n1545_158:0801c27_16']	如三類智邊世俗智等。	如三類智邊世俗智等。	Such as the conventional knowledge at the end of the knowledge of the three kinds of supernormal power, etc.
+['T27n1545_158:0801c28_1']	有說。	有說。	Some say:
+['T27n1545_158:0801c28_8']	此等亦有俱得。	此等亦有俱得。	These also have simultaneous attainment.
+['T27n1545_158:0801c29_2']	三有所得法唯有俱得後得。	三有所得法唯有俱得後得。	Third, there are dharmas that are attained only simultaneously and subsequently.
+['T27n1545_158:0801c29_9']	如別解脫戒等。	如別解脫戒等。	Such as the precepts of individual liberation, etc.
+['T27n1545_158:0802a01_3']	四有所得法唯有俱得前得。	四有所得法唯有俱得前得。	The fourth kind of existent dharma, i.e., the dharma that is acquired only, is only acquired simultaneously.
+['T27n1545_158:0802a01_10']	如道類智忍等。	如道類智忍等。	For example, the receptivity to the cognition of the factors with regard to the path, etc.
+['T27n1545_158:0802a02_4']	五有所得法具有前後俱得。	五有所得法具有前後俱得。	The fifth kind of existent dharma, i.e., the dharma that is both existent and acquired, is endowed with prior, subsequent, and simultaneous acquisition.
+['T27n1545_158:0802a02_12']	如所餘善染污等。	如所餘善染污等。	For example, the remaining good, impure, etc., dharmas.
+['T27n1545_158:0802a03_8']	六有所得法不可說有前後俱得。	六有所得法不可說有前後俱得。	The sixth kind of existent dharma, i.e., the dharma that is said to have neither prior, subsequent, nor simultaneous acquisition,
+['T27n1545_158:0802a03_13']	而有諸得。	而有諸得。	but which has various acquisitions.
+['T27n1545_158:0802a04_2']	謂擇滅非擇滅。	謂擇滅非擇滅。	For example, cessation due to deliberation and cessation not due to deliberation.
+['T27n1545_158:0802a04_13']	必無有法唯有法後得者。	必無有法唯有法後得者。	There is no dharma that is said to have only subsequent acquisition.
+['T27n1545_158:0802a05_4']	現在前時必有得故。	現在前時必有得故。	Because when it is present, there must be acquisition.
+['T27n1545_158:0802a05_13']	一切非得總有三種。	一切非得總有三種。	All non-acquisitions are generally of three kinds.
+['T27n1545_158:0802a06_1']	一在彼法前。	一在彼法前。	The first is prior to that dharma.
+['T27n1545_158:0802a06_15']	二在彼法後三非彼法前後及俱。	二在彼法後三非彼法前後及俱。	The second is subsequent to that dharma. The third is neither prior to nor subsequent to that dharma, nor simultaneous with it.
+['T27n1545_158:0802a07_5']	所不得法亦有三種。	所不得法亦有三種。	The dharmas that are not acquired are also of three kinds.
+['T27n1545_158:0802a07_12']	一有所不得法。	一有所不得法。	The first kind of dharma that is not acquired
+['T27n1545_158:0802a08_12']	唯有彼前非得謂未來情數畢竟不生法。	唯有彼前非得謂未來情數畢竟不生法。	has only a non-acquisition that is prior to it, i.e., future dharmas that will never arise, such as those of a sentient being,
+['T27n1545_158:0802a09_7']	及入無餘涅槃最後剎那心等。	及入無餘涅槃最後剎那心等。	and the final moment of thought, etc., of one who has entered nirvāṇa without remainder.
+['T27n1545_158:0802a09_14']	二有所不得法。	二有所不得法。	The second kind of dharma that is not acquired
+['T27n1545_158:0802a10_4']	通有彼前彼後非得。	通有彼前彼後非得。	has both prior and subsequent non-acquisitions.
+['T27n1545_158:0802a10_13']	謂餘隨應有情數法。	謂餘隨應有情數法。	It refers to the other dharmas that are sentient beings as appropriate.
+['T27n1545_158:0802a11_1']	三有所不得法。	三有所不得法。	Third, there are dharmas that are not obtained.
+['T27n1545_158:0802a11_14']	無彼前後及俱非得而有非得。	無彼前後及俱非得而有非得。	There is no non-acquisition of them that is either prior, subsequent, or simultaneous.
+['T27n1545_158:0802a12_3']	謂擇滅非擇滅。	謂擇滅非擇滅。	It refers to cessation through discrimination and cessation not through discrimination.
+['T27n1545_158:0802a12_12']	必無非得可與法俱。	必無非得可與法俱。	There is definitely no non-acquisition that can be simultaneous with dharmas.
+['T27n1545_158:0802a13_1']	以法現在前時。	以法現在前時。	When dharmas appear in the present,
+['T27n1545_158:0802a13_10']	是所得者必有得故。	是所得者必有得故。	those that are to be obtained must have acquisition.
+['T27n1545_158:0802a13_15']	非所得者。	非所得者。	Those that are not to be obtained
+['T27n1545_158:0802a14_2']	無得無非得故。	無得無非得故。	have neither acquisition nor non-acquisition.
+['T27n1545_158:0802a14_11']	亦無唯有彼後非得。	亦無唯有彼後非得。	There is also no subsequent non-acquisition of them.
+['T27n1545_158:0802a15_2']	非無始來恒成就彼。	非無始來恒成就彼。	It is not that one has always accomplished them since beginningless time.
+['T27n1545_158:0802a15_11']	未捨必起彼類盡故。	未捨必起彼類盡故。	Because one will definitely give rise to the exhaustion of that kind [of dharma] without abandoning it.
+['T27n1545_158:0802a16_2']	然諸非得性羸劣故。	然諸非得性羸劣故。	However, because the nature of non-acquisition is weak,
+['T27n1545_158:0802a16_8']	唯成就現在。	唯成就現在。	one only accomplishes the present.
+['T27n1545_158:0802a16_17']	一一剎那得已即捨。	一一剎那得已即捨。	In each instant, one obtains and then abandons [non-acquisition].
+['T27n1545_158:0802a17_8']	於未得彼法及已捨位。	於未得彼法及已捨位。	In the state of not yet obtaining that dharma or having already abandoned it,
+['T27n1545_158:0802a17_14']	恒有此非得。	恒有此非得。	one always has this non-acquisition.
+['T27n1545_158:0802a17_17']	應知。	應知。	One should know this.
+['T27n1545_158:0802a18_9']	見道所起得有十五類。	見道所起得有十五類。	The acquisitions that arise from the path of seeing are of fifteen kinds.
+['T27n1545_158:0802a19_1']	即十五心時俱起諸得。	即十五心時俱起諸得。	The various acquisitions that arise simultaneously with the fifteen moments of mind
+['T27n1545_158:0802a19_14']	見道滅位與自所起諸得俱滅。	見道滅位與自所起諸得俱滅。	are extinguished when the path of seeing is extinguished, along with the various acquisitions that arise from it.
+['T27n1545_158:0802a20_9']	如日沒時與自所起光明俱沒。	如日沒時與自所起光明俱沒。	Just as when the sun sets, it sets together with its own light.
+['T27n1545_158:0802a21_1']	然苦法智忍有十五得。	然苦法智忍有十五得。	However, the receptivity to the cognition of the factors of the path of seeing has fifteen attainments.
+['T27n1545_158:0802a21_9']	苦法智有十四得。	苦法智有十四得。	The cognition of the factors has fourteen attainments.
+['T27n1545_158:0802a22_1']	乃至道類智忍但有一得。	乃至道類智忍但有一得。	Up to the receptivity to the cognition of the path of seeing has only one attainment.
+['T27n1545_158:0802a22_11']	問見道得為但有爾所。	問見道得為但有爾所。	Question: Are the attainments of the path of seeing only as stated above?
+['T27n1545_158:0802a22_16']	為更有餘。	為更有餘。	Or are there any more?
+['T27n1545_158:0802a23_1', 'T27n1545_158:0802a23_6']	有說。🔽但有爾所。	有說。 但有爾所。	Some say:🔽There are only as stated above.
+['T27n1545_158:0802a23_9']	有說。	有說。	Some say:
+['T27n1545_158:0802a23_13']	更有餘。	更有餘。	There are more.
+['T27n1545_158:0802a24_6']	未來世不生諸得而不可說。	未來世不生諸得而不可說。	The attainments that will not arise in the future cannot be spoken of.
+['T27n1545_158:0802a24_11']	此不應理。	此不應理。	This is unreasonable.
+['T27n1545_158:0802a24_16']	寧當說無。	寧當說無。	It is better to say they do not exist.
+['T27n1545_158:0802a25_7']	不應言有而不可說。	不應言有而不可說。	One should not say they exist but cannot be spoken of.
+['T27n1545_158:0802a25_12']	如是說者。	如是說者。	Those who say this:
+['T27n1545_158:0802a26_2']	更有餘未來得。	更有餘未來得。	There are more attainments in the future.
+['T27n1545_158:0802a26_11']	苦法智忍一得俱生。	苦法智忍一得俱生。	The receptivity to the cognition of the factors of the path of seeing arises together with one attainment.
+['T27n1545_158:0802a27_1']	忍得相望互無因義。	忍得相望互無因義。	The attainments of receptivity and cognition do not have the meaning of mutual causality.
+['T27n1545_158:0802a27_9']	苦法智三得俱生。	苦法智三得俱生。	The cognition of the factors arises together with three attainments.
+['T27n1545_158:0802a27_13']	二道得。	二道得。	Two are the attainments of the path.
+['T27n1545_158:0802a27_18']	一離繫得。	一離繫得。	One is the attainment of freedom.
+['T27n1545_158:0802a28_2', 'T27n1545_158:0802a28_9']	二道得者。🔽謂苦法智忍得。	二道得者。 謂苦法智忍得。	The two attainments of the path are:🔽The attainment of the receptivity to the cognition of the factors of the path.
+['T27n1545_158:0802a28_14']	苦法智得。	苦法智得。	The attainment of the cognition of the factors of the path.
+['T27n1545_158:0802a28_20']	一離繫得者。	一離繫得者。	The one attainment of freedom is:
+['T27n1545_158:0802a29_11']	謂欲界見苦所斷十繫得滅。	謂欲界見苦所斷十繫得滅。	That is, when the ten bonds to be eliminated by seeing suffering in the desire realm are extinguished,
+['T27n1545_158:0802a29_17', 'T27n1545_158:0802b01_10']	十離繫得起。🔽苦法智與彼三得互不為因。	十離繫得起。 苦法智與彼三得互不為因。	ten bonds of separation arise.🔽The knowledge of the dharma of suffering and the three bonds of separation are not causes for each other.
+['T27n1545_158:0802b02_6']	苦法智忍與彼三得皆有因義。	苦法智忍與彼三得皆有因義。	The receptivity to the knowledge of the dharma of suffering is a cause for the three bonds of separation.
+['T27n1545_158:0802b02_15']	苦類智忍四得俱生。	苦類智忍四得俱生。	The receptivity to the knowledge of the species of suffering and the four bonds of separation arise together.
+['T27n1545_158:0802b03_5']	三道得一離繫得。	三道得一離繫得。	Three are bonds of separation of the path, and one is a bond of separation.
+['T27n1545_158:0802b04_1']	苦類智忍與彼四得互不為因。	苦類智忍與彼四得互不為因。	The receptivity to the knowledge of the species of suffering and the four bonds of separation are not causes for each other.
+['T27n1545_158:0802b04_10']	苦法智忍為四得因。	苦法智忍為四得因。	The receptivity to the knowledge of the dharma of suffering is a cause for the four bonds of separation.
+['T27n1545_158:0802b04_18']	苦法智為三得因。	苦法智為三得因。	The knowledge of the dharma of suffering is a cause for three bonds of separation.
+['T27n1545_158:0802b05_6']	除苦法智忍得。	除苦法智忍得。	Excluding the bond of separation of the receptivity to the knowledge of the dharma of suffering.
+['T27n1545_158:0802b05_17']	以加行善法勝非劣因故。	以加行善法勝非劣因故。	Because the superior does not take the inferior as its cause.
+['T27n1545_158:0802b06_9']	有為法得隨法勝劣故。	有為法得隨法勝劣故。	Because the bonds of conditioned dharmas follow the superiority and inferiority of the dharmas.
+['T27n1545_158:0802b06_17']	苦類智六得俱生。	苦類智六得俱生。	The knowledge of the species of suffering and the six bonds of separation arise together.
+['T27n1545_158:0802b07_2']	四道得。	四道得。	Four are bonds of separation of the path.
+['T27n1545_158:0802b07_7']	二離繫得。	二離繫得。	Two are bonds of separation.
+['T27n1545_158:0802b08_9']	苦類智與彼六得互不為因苦法智忍為六得因。	苦類智與彼六得互不為因苦法智忍為六得因。	The knowledge of the species of suffering and the six bonds of separation are not causes for each other. The receptivity to the knowledge of the dharma of suffering is a cause for the six bonds of separation.
+['T27n1545_158:0802b08_17']	苦法智為五得因。	苦法智為五得因。	The knowledge of the dharma of suffering is a cause for five bonds of separation.
+['T27n1545_158:0802b09_6']	除苦法智忍得。	除苦法智忍得。	Excluding the bond of separation of the receptivity to the knowledge of the dharma of suffering.
+['T27n1545_158:0802b09_11']	以彼劣故。	以彼劣故。	Because it is inferior.
+['T27n1545_158:0802b10_2']	苦類智忍為三得因。	苦類智忍為三得因。	The acquisition of the subsequent cognition of the path is the cause of three acquisitions.
+['T27n1545_158:0802b10_11']	除前三得以彼劣故。	除前三得以彼劣故。	Excluding the first three, because they are inferior.
+['T27n1545_158:0802b11_3']	問不與前二道得作因。	問不與前二道得作因。	Question: It is possible that the subsequent cognition of the path does not act as the cause of the acquisitions of the first two paths.
+['T27n1545_158:0802b11_13', 'T27n1545_158:0802b12_4']	是事可爾彼所得劣故。🔽不與前離繫得作因。	是事可爾彼所得劣故。 不與前離繫得作因。	Because those acquisitions are inferior.
+['T27n1545_158:0802b12_9']	云何可爾。	云何可爾。	How can it be that it does not act as the cause of the disjunction acquisitions of the first two paths?
+['T27n1545_158:0802b12_16']	彼所得最勝故。	彼所得最勝故。	Because those acquisitions are the most excellent.
+['T27n1545_158:0802b13_13']	答有為法得隨所得法勝劣彼所引故。	答有為法得隨所得法勝劣彼所引故。	Answer: The acquisitions of conditioned dharmas follow the superiority or inferiority of the dharmas they acquire, because they are attracted by them.
+['T27n1545_158:0802b14_8']	無為法得隨道勝劣道所引故。	無為法得隨道勝劣道所引故。	The acquisitions of unconditioned dharmas follow the superiority or inferiority of the path, because they are attracted by the path.
+['T27n1545_158:0802b14_17']	彼道劣故彼得非因。	彼道劣故彼得非因。	Because that path is inferior, its acquisitions are not causes.
+['T27n1545_158:0802b15_13']	如是乃至道類智忍二十二得俱生。	如是乃至道類智忍二十二得俱生。	In this way, up to the perseverance for subsequent cognition of the path, twenty-two acquisitions arise together.
+['T27n1545_158:0802b15_18']	十五道得。	十五道得。	Fifteen are the acquisitions of the path.
+['T27n1545_158:0802b16_4']	七離繫得。	七離繫得。	Seven are the acquisitions of disjunction.
+['T27n1545_158:0802b16_17']	道類智忍與彼諸得互不為因。	道類智忍與彼諸得互不為因。	The perseverance for subsequent cognition of the path and those various acquisitions are not causes for each other.
+['T27n1545_158:0802b17_12']	苦法智忍皆與二十二得作因。	苦法智忍皆與二十二得作因。	The perseverance for the cognition of dharmas of suffering is the cause of twenty-two acquisitions.
+['T27n1545_158:0802b18_6']	苦法智與二十一得作因。	苦法智與二十一得作因。	The cognition of dharmas of suffering is the cause of twenty-one acquisitions.
+['T27n1545_158:0802b19_1']	除苦法智忍得乃至道法智。	除苦法智忍得乃至道法智。	Excluding the acquisition of the perseverance for the cognition of dharmas of suffering, up to the cognition of the path of suffering.
+['T27n1545_158:0802b19_8']	但與三得作因。	但與三得作因。	It is only the cause of three acquisitions.
+['T27n1545_158:0802b19_13']	謂二道得。	謂二道得。	It means the two paths of attainment.
+['T27n1545_158:0802b19_18']	一離繫得。	一離繫得。	One is the attainment of disjunction.
+['T27n1545_158:0802b20_9']	非前十九得因以彼劣故。	非前十九得因以彼劣故。	The previous nineteen attainments are not causes because they are inferior.
+['T27n1545_158:0802b21_4']	由此故說頗有前生無漏法。	由此故說頗有前生無漏法。	For this reason, it is said: Are there any previously arisen pure dharmas
+['T27n1545_158:0802b21_13']	非後生無漏法因耶。	非後生無漏法因耶。	that are not causes for subsequently arisen pure dharmas?
+['T27n1545_158:0802b21_16']	答有。	答有。	The answer is: There are.
+['T27n1545_158:0802b22_2']	謂勝於劣。	謂勝於劣。	Namely, the superior ones are causes for the inferior ones.
+['T27n1545_158:0802b23_8']	苦法智忍現在前時。	苦法智忍現在前時。	When the receptivity to the knowledge of the factors with regard to suffering is present,
+['T27n1545_158:0802b23_18']	修未來無量苦法智忍。	修未來無量苦法智忍。	one cultivates innumerable future receptivities to the knowledge of the factors with regard to suffering.
+['T27n1545_158:0802b24_9']	此現在忍與所修為因。	此現在忍與所修為因。	This present receptivity is the cause for what is cultivated.
+['T27n1545_158:0802b24_14']	彼是此果。	彼是此果。	Those are the fruits of this.
+['T27n1545_158:0802b24_17']	有說。	有說。	Some say:
+['T27n1545_158:0802b25_12']	此現在忍非所修為因彼非此果。	此現在忍非所修為因彼非此果。	This present receptivity is not the cause for what is cultivated, and those are not the fruits of this.
+['T27n1545_158:0802b26_7']	以彼竟無一剎那現在前故。	以彼竟無一剎那現在前故。	Because they are never present for even a single moment.
+['T27n1545_158:0802b26_10']	評曰。	評曰。	The judges say:
+['T27n1545_158:0802b27_3']	應說此為彼因彼是此果。	應說此為彼因彼是此果。	It should be said that this is the cause for those, and those are the fruits of this.
+['T27n1545_158:0802b27_12']	一相續攝非劣道故。	一相續攝非劣道故。	Because they are included in a single continuum and are not inferior paths.
+['T27n1545_158:0802b28_6']	如是乃至金剛喻定現在前時。	如是乃至金剛喻定現在前時。	In the same way, up to when the diamond-like concentration is present,
+['T27n1545_158:0802b28_16']	修未來無量金剛喻定。	修未來無量金剛喻定。	one cultivates innumerable future diamond-like concentrations.
+['T27n1545_158:0802b29_11']	此現在定與所修為因彼是此果。	此現在定與所修為因彼是此果。	This present concentration is the cause for what is cultivated. Those are the fruits of this.
+['T27n1545_158:0802b29_14']	有說。	有說。	Some say:
+['T27n1545_158:0802c01_9']	此現在定非所修因彼非此果。	此現在定非所修因彼非此果。	This present [state] is definitely not the cause of what is cultivated, because that [future state] is not the effect of this [present state].
+['T27n1545_158:0802c02_4']	以彼竟無一剎那現在前故。	以彼竟無一剎那現在前故。	Because there is not a single moment of that [future state] that appears in the present.
+['T27n1545_158:0802c02_7']	評曰。	評曰。	The judges say:
+['T27n1545_158:0802c02_18']	應說此為彼因彼是此果。	應說此為彼因彼是此果。	It should be said that this [present state] is the cause of that [future state], and that [future state] is the effect of this [present state].
+['T27n1545_158:0802c03_8']	一相續攝非劣道故。	一相續攝非劣道故。	Because they are included in the same continuum, and because the inferior path is not [the cause].
+['T27n1545_158:0802c03_15']	已生苦法智忍。	已生苦法智忍。	The already arisen receptivity to the knowledge of dharmas regarding suffering,
+['T27n1545_158:0802c04_7']	與不生苦法智忍為因。	與不生苦法智忍為因。	is the cause of the not yet arisen receptivity to the knowledge of dharmas regarding suffering.
+['T27n1545_158:0802c05_4']	亦與苦法智等一切學無學道為因。	亦與苦法智等一切學無學道為因。	It is also the cause of all the paths of learning and no-learning such as the knowledge of dharmas regarding suffering, etc.
+['T27n1545_158:0802c06_1', 'T27n1545_158:0802c06_9']	已生苦法智與不生苦法智為因。🔽亦與苦類智忍等。	已生苦法智與不生苦法智為因。 亦與苦類智忍等。	The already arisen knowledge of dharmas regarding suffering is the cause of the not yet arisen knowledge of dharmas regarding suffering.
+['T27n1545_158:0802c06_18']	一切學無學道為因。	一切學無學道為因。	It is also the cause of all the paths of learning and no-learning such as the receptivity to the knowledge of the subsequent class of dharmas regarding suffering, etc.
+['T27n1545_158:0802c07_8']	不與苦法智忍為因。	不與苦法智忍為因。	It is not the cause of the receptivity to the knowledge of dharmas regarding suffering.
+['T27n1545_158:0802c07_17']	如是乃至已生盡智。	如是乃至已生盡智。	In this way, up to the already arisen knowledge of extinction,
+['T27n1545_158:0802c08_7']	與未生盡智為因。	與未生盡智為因。	is the cause of the not yet arisen knowledge of extinction.
+['T27n1545_158:0802c09_5']	亦與後已生未生一切無學道為因。	亦與後已生未生一切無學道為因。	It is also the cause of all the paths of no-learning that have already arisen and have not yet arisen in the future.
+['T27n1545_158:0802c09_14']	不與一切學道為因。	不與一切學道為因。	It is not the cause of all the paths of learning.
+['T27n1545_158:0802c10_9']	由此故說頗有已生無漏法。	由此故說頗有已生無漏法。	For this reason, it is said: Are there any already arisen pure dharmas
+['T27n1545_158:0802c11_1']	非未生無漏法因耶。	非未生無漏法因耶。	that are not the cause of the not yet arisen pure dharmas?
+['T27n1545_158:0802c11_4']	答有。	答有。	Answer: There are.
+['T27n1545_158:0802c11_11']	謂已生苦法智。	謂已生苦法智。	Namely, the already arisen knowledge of dharmas regarding suffering.
+['T27n1545_158:0802c12_1']	非未生苦法智忍因。	非未生苦法智忍因。	It is not the cause of the not yet arisen receptivity to the knowledge of dharmas regarding suffering.
+['T27n1545_158:0802c12_8']	乃至已生盡智。	乃至已生盡智。	Up to the already arisen knowledge of cessation.
+['T27n1545_158:0802c12_17']	非未生金剛喻定因。	非未生金剛喻定因。	It is not the cause of the not yet arisen vajra-like concentration.
+['T27n1545_158:0802c13_7']	勝道不與劣道為因故。	勝道不與劣道為因故。	Because the superior path does not serve as the cause for the inferior path.
+['T27n1545_158:0802c14_12']	苦集諦是有漏彼諸得亦有漏。	苦集諦是有漏彼諸得亦有漏。	The truths of suffering and accumulation are contaminated, and their attainments are also contaminated.
+['T27n1545_158:0802c14_18']	滅諦是無漏。	滅諦是無漏。	The truth of cessation is uncontaminated.
+['T27n1545_158:0802c15_6']	彼諸得或有漏。	彼諸得或有漏。	Their attainments may be contaminated or uncontaminated.
+['T27n1545_158:0802c15_15']	或無漏道諦是無漏。	或無漏道諦是無漏。	The truth of the path is uncontaminated.
+['T27n1545_158:0802c16_3']	彼諸得亦無漏。	彼諸得亦無漏。	Their attainments are also uncontaminated.
+['T27n1545_158:0802c17_1']	又苦集諦是善不善無記彼諸得亦爾。	又苦集諦是善不善無記彼諸得亦爾。	Moreover, the truths of suffering and accumulation are wholesome, unwholesome, and indeterminate, and their attainments are also so.
+['T27n1545_158:0802c17_8']	滅諦道諦是善。	滅諦道諦是善。	The truths of cessation and the path are wholesome.
+['T27n1545_158:0802c17_15']	彼諸得亦是善。	彼諸得亦是善。	Their attainments are also wholesome.
+['T27n1545_158:0802c18_4']	又苦集諦是三界繫。	又苦集諦是三界繫。	Moreover, the truths of suffering and accumulation are bound to the three realms.
+['T27n1545_158:0802c18_10']	彼諸得亦爾。	彼諸得亦爾。	Their attainments are also so.
+['T27n1545_158:0802c18_16', 'T27n1545_158:0802c19_4']	滅諦是不繫。🔽彼諸得或色界繫。	滅諦是不繫。 彼諸得或色界繫。	The truth of cessation is unbound.🔽Their attainments may be bound to the form realm,
+['T27n1545_158:0802c19_10']	或無色界繫。	或無色界繫。	may be bound to the formless realm,
+['T27n1545_158:0802c19_14']	或不繫。	或不繫。	or may be unbound.
+['T27n1545_158:0802c19_20']	道諦是不繫。	道諦是不繫。	The truth of the path is unbound.
+['T27n1545_158:0802c20_6']	彼諸得亦不繫。	彼諸得亦不繫。	Their attainments are also unbound.
+['T27n1545_158:0802c20_17']	又苦集諦是非學非無學。	又苦集諦是非學非無學。	Moreover, the truths of suffering and accumulation are neither learners nor adepts.
+['T27n1545_158:0802c21_4']	彼諸得亦爾。	彼諸得亦爾。	Their attainments are also like this.
+['T27n1545_158:0802c21_13']	滅諦是非學非無學。	滅諦是非學非無學。	The truth of cessation is neither a learner nor an adept.
+['T27n1545_158:0802c22_3']	彼諸得或學或無學。	彼諸得或學或無學。	Their attainments may be learners, adepts, or neither learners nor adepts.
+['T27n1545_158:0802c22_10']	或非學非無學。	或非學非無學。	Or they may be neither learners nor adepts.
+['T27n1545_158:0802c22_17']	道諦是學無學。	道諦是學無學。	The truth of the path is learners and adepts.
+['T27n1545_158:0802c23_3']	彼諸得亦爾。	彼諸得亦爾。	Their attainments are also like this.
+['T27n1545_158:0802c23_15']	又苦集諦是見所斷修所斷。	又苦集諦是見所斷修所斷。	Moreover, the truths of suffering and accumulation are eliminated by views and cultivation.
+['T27n1545_158:0802c24_2']	彼諸得亦爾。	彼諸得亦爾。	Their attainments are also like this.
+['T27n1545_158:0802c24_8']	滅諦是不斷。	滅諦是不斷。	The truth of cessation is not eliminated.
+['T27n1545_158:0802c24_16']	彼諸得或修所斷。	彼諸得或修所斷。	Their attainments may be eliminated by cultivation,
+['T27n1545_158:0802c24_20']	或不斷。	或不斷。	or not eliminated.
+['T27n1545_158:0802c25_5']	道諦是不斷。	道諦是不斷。	The truth of the path is not eliminated.
+['T27n1545_158:0802c25_12']	彼諸得亦不斷。	彼諸得亦不斷。	Their attainments are also not eliminated.
+['T27n1545_158:0802c26_4']	又苦集諦是染污不染污。	又苦集諦是染污不染污。	Moreover, the truths of suffering and accumulation are defiled and undefiled.
+['T27n1545_158:0802c26_10']	彼諸得亦爾。	彼諸得亦爾。	Their attainments are also like this.
+['T27n1545_158:0802c26_19']	滅諦道諦是不染污。	滅諦道諦是不染污。	The truths of cessation and the path are undefiled.
+['T27n1545_158:0802c27_5']	彼諸得亦爾。	彼諸得亦爾。	Their attainments are also like this.
+['T27n1545_158:0802c27_14']	又苦集諦是有異熟。	又苦集諦是有異熟。	Moreover, the truths of suffering and accumulation have karmic retribution.
+['T27n1545_158:0802c27_18']	無異熟。	無異熟。	They are without karmic retribution.
+['T27n1545_158:0802c28_4']	彼諸得亦爾。	彼諸得亦爾。	Their attainments are also like this.
+['T27n1545_158:0802c28_11']	滅諦是無異熟。	滅諦是無異熟。	The truth of cessation is without karmic retribution.
+['T27n1545_158:0802c29_4']	彼諸得或有異熟或無異熟。	彼諸得或有異熟或無異熟。	Their attainments may have karmic retribution or be without karmic retribution.
+['T27n1545_158:0802c29_11']	道諦是無異熟。	道諦是無異熟。	The truth of the path has no retribution.
+['T27n1545_158:0802c29_17']	彼諸得亦爾。	彼諸得亦爾。	Their attainments are also like this.
+['T27n1545_158:0803a01_7']	又苦集諦是苦集諦攝。	又苦集諦是苦集諦攝。	Moreover, the truths of suffering and accumulation are categorized as the truths of suffering and accumulation.
+['T27n1545_158:0803a01_13']	彼諸得亦爾。	彼諸得亦爾。	Their attainments are also like this.
+['T27n1545_158:0803a02_1']	滅諦是滅諦攝。	滅諦是滅諦攝。	The truth of cessation is categorized as the truth of cessation.
+['T27n1545_158:0803a02_18']	彼諸得是苦集道三諦攝道諦是道諦攝。	彼諸得是苦集道三諦攝道諦是道諦攝。	Their attainments are categorized as the three truths of suffering, accumulation, and path. The truth of the path is categorized as the truth of the path.
+['T27n1545_158:0803a03_5']	彼諸得亦爾。	彼諸得亦爾。	Their attainments are also like this.
+['T27n1545_158:0803a03_14']	所得四諦與能得得。	所得四諦與能得得。	The four truths that are attained and the attainments that attain them.
+['T27n1545_158:0803a04_5']	有如是等諸門同異。	有如是等諸門同異。	There are such various same and different aspects.
+['T27n1545_158:0803a05_6']	問何地所繫法。	問何地所繫法。	Question: To which stage are the dharmas that are bound to it related?
+['T27n1545_158:0803a05_13']	有幾種離繫得。	有幾種離繫得。	How many kinds of attainments of disjunction are there?
+['T27n1545_158:0803a06_4']	答欲界乃至無所有處。	答欲界乃至無所有處。	Answer: From the desire realm up to the sphere of nothingness,
+['T27n1545_158:0803a06_17']	見修所斷法皆有三種離繫得。	見修所斷法皆有三種離繫得。	The dharmas eliminated by seeing and cultivation all have three kinds of attainments of disjunction,
+['T27n1545_158:0803a07_8']	謂學無學非學非無學。	謂學無學非學非無學。	Namely, the learner, the post-learner, and neither the learner nor the post-learner.
+['T27n1545_158:0803a08_1']	非想非非想處見所斷法。	非想非非想處見所斷法。	The dharmas eliminated by seeing in the sphere of neither-perception-nor-non-perception,
+['T27n1545_158:0803a08_10']	及前八品修所斷法。	及前八品修所斷法。	And the first eight categories of dharmas eliminated by cultivation,
+['T27n1545_158:0803a08_18']	皆有二種離繫得。	皆有二種離繫得。	All have two kinds of attainments of disjunction,
+['T27n1545_158:0803a09_3']	謂學無學。	謂學無學。	Namely, the learner and the post-learner.
+['T27n1545_158:0803a09_12']	彼第九品修所斷法。	彼第九品修所斷法。	The ninth category of dharmas eliminated by cultivation,
+['T27n1545_158:0803a10_1']	唯有一種離繫得。	唯有一種離繫得。	Has only one kind of attainment of disjunction,
+['T27n1545_158:0803a10_5']	謂無學。	謂無學。	Namely, the post-learner.
+['T27n1545_158:0803a10_14']	無學初心方初起故。	無學初心方初起故。	because the first moment of the stage of no-more-learning is the first arising [of that stage].
+['T27n1545_158:0803a11_1']	問何地所繫法。	問何地所繫法。	Question: To which stage are the dharmas belonging to the stage of no-more-learning connected?
+['T27n1545_158:0803a11_10']	有幾地無漏離繫得。	有幾地無漏離繫得。	How many stages do the uncontaminated disjunctions have?
+['T27n1545_158:0803a11_15']	或有說者。	或有說者。	Some say:
+['T27n1545_158:0803a12_5']	諸離繫得隨斷對治。	諸離繫得隨斷對治。	The uncontaminated disjunctions are according to the counteragent that eliminates them.
+['T27n1545_158:0803a12_10']	彼作是說。	彼作是說。	They say:
+['T27n1545_158:0803a13_4']	欲界見修所斷法無漏離繫得。	欲界見修所斷法無漏離繫得。	The uncontaminated disjunctions from the dharmas eliminated by seeing and cultivation in the desire realm
+['T27n1545_158:0803a13_9']	未至定攝。	未至定攝。	are included in the stage of the preliminary concentration.
+['T27n1545_158:0803a13_18']	初靜慮見修所斷法。	初靜慮見修所斷法。	The uncontaminated disjunctions from the dharmas eliminated by seeing and cultivation in the first concentration
+['T27n1545_158:0803a14_7']	無漏離繫得三地攝。	無漏離繫得三地攝。	are included in three stages.
+['T27n1545_158:0803a14_17']	第二靜慮見修所斷法。	第二靜慮見修所斷法。	The uncontaminated disjunctions from the dharmas eliminated by seeing and cultivation in the second concentration
+['T27n1545_158:0803a15_7']	無漏離繫得四地攝。	無漏離繫得四地攝。	are included in four stages.
+['T27n1545_158:0803a15_17']	第三靜慮見修所斷法。	第三靜慮見修所斷法。	The uncontaminated disjunctions from the dharmas eliminated by seeing and cultivation in the third concentration
+['T27n1545_158:0803a16_7']	無漏離繫得五地攝。	無漏離繫得五地攝。	are included in five stages.
+['T27n1545_158:0803a16_17']	第四靜慮見修所斷法。	第四靜慮見修所斷法。	The uncontaminated disjunctions from the dharmas eliminated by seeing and cultivation in the fourth concentration
+['T27n1545_158:0803a17_7']	及無色界見所斷法。	及無色界見所斷法。	and from the dharmas eliminated by seeing in the formless realm
+['T27n1545_158:0803a17_16']	無漏離繫得六地攝。	無漏離繫得六地攝。	are included in six stages.
+['T27n1545_158:0803a18_6']	空無邊處修所斷法。	空無邊處修所斷法。	The uncontaminated disjunctions from the dharmas eliminated by cultivation in the sphere of infinite space
+['T27n1545_158:0803a18_15']	無漏離繫得七地攝。	無漏離繫得七地攝。	are included in seven stages.
+['T27n1545_158:0803a19_5']	識無邊處修所斷法。	識無邊處修所斷法。	The uncontaminated disjunctions from the dharmas eliminated by cultivation in the sphere of infinite consciousness🔽are included in eight stages.
+['T27n1545_158:0803a19_14']	無漏離繫得八地攝。	無漏離繫得八地攝。	The pure disjunction attainment is included in eight stages.
+['T27n1545_158:0803a20_6']	無所有處非想非非想處。	無所有處非想非非想處。	The sphere of nothingness and the sphere of neither-perception-nor-non-perception.
+['T27n1545_158:0803a20_15']	無漏離繫得九地攝。	無漏離繫得九地攝。	The pure disjunction attainment is included in nine stages.
+['T27n1545_158:0803a21_1']	復有說者。	復有說者。	Furthermore, there is another explanation.
+['T27n1545_158:0803a21_10']	諸離繫得隨壞對治。	諸離繫得隨壞對治。	The disjunction attainments follow the counteractive means of destruction.
+['T27n1545_158:0803a21_15']	彼作是說。	彼作是說。	They explain it like this.
+['T27n1545_158:0803a22_4']	欲色界見修所斷法。	欲色界見修所斷法。	The dharmas of the desire and form realms that are to be eliminated by insight and cultivation.
+['T27n1545_158:0803a22_14']	無漏離繫得皆六地攝。	無漏離繫得皆六地攝。	The pure disjunction attainments are all included in six stages.
+['T27n1545_158:0803a23_5']	空無邊處見修所斷法。	空無邊處見修所斷法。	The dharmas of the sphere of infinite space that are to be eliminated by insight and cultivation.
+['T27n1545_158:0803a23_14']	無漏離繫得七地攝。	無漏離繫得七地攝。	The pure disjunction attainments are included in seven stages.
+['T27n1545_158:0803a24_5']	識無邊處見修所斷法。	識無邊處見修所斷法。	The dharmas of the sphere of infinite consciousness that are to be eliminated by insight and cultivation.
+['T27n1545_158:0803a24_14']	無漏離繫得八地攝。	無漏離繫得八地攝。	The pure disjunction attainments are included in eight stages.
+['T27n1545_158:0803a25_6']	無所有處非想非非想處。	無所有處非想非非想處。	The sphere of nothingness and the sphere of neither-perception-nor-non-perception.
+['T27n1545_158:0803a25_12']	見修所斷法。	見修所斷法。	The dharmas that are to be eliminated by insight and cultivation.
+['T27n1545_158:0803a26_2']	無漏離繫得九地攝。	無漏離繫得九地攝。	The pure disjunction attainments are included in nine stages.
+['T27n1545_158:0803a26_7']	有作是說。	有作是說。	There is another explanation.
+['T27n1545_158:0803a26_15']	若地有法智品道。	若地有法智品道。	If there is the path of the class of knowledge of dharmas in a stage,
+['T27n1545_158:0803a27_12']	彼地有欲界見修所斷法無漏離繫得。	彼地有欲界見修所斷法無漏離繫得。	then that stage has the pure disjunction attainments of the dharmas of the desire realm that are to be eliminated by insight and cultivation.
+['T27n1545_158:0803a28_9']	若地有類智品道彼地有色無色界。	若地有類智品道彼地有色無色界。	If there is the path of the class of subsequent knowledge in a stage, then that stage has the form and formless realms.
+['T27n1545_158:0803a29_2']	見修所斷法無漏離繫得。	見修所斷法無漏離繫得。	The pure disjunction from objects to be eliminated by the path of seeing and cultivation.
+['T27n1545_158:0803a29_7', 'T27n1545_158:0803a29_15']	彼作是說。🔽欲界見修所斷法。	彼作是說。 欲界見修所斷法。	They say:🔽The pure disjunction from objects to be eliminated by the path of seeing and cultivation in the desire realm
+['T27n1545_158:0803b01_4', 'T27n1545_158:0803b01_14']	無漏離繫得六地攝。🔽色無色界見修所斷法。	無漏離繫得六地攝。 色無色界見修所斷法。	is included in the six stages.🔽The pure disjunction from objects to be eliminated by the path of seeing and cultivation in the form and formless realms
+['T27n1545_158:0803b02_4']	無漏離繫得九地攝。	無漏離繫得九地攝。	is included in the nine stages.
+['T27n1545_158:0803b02_7']	評曰。	評曰。	The judges say:
+['T27n1545_158:0803b02_14']	此中初說為善。	此中初說為善。	The first explanation is correct.
+['T27n1545_158:0803b03_9']	諸離繫得必由斷對治力所引起故。	諸離繫得必由斷對治力所引起故。	This is because the attainment of disjunction is necessarily aroused by the power of the eliminating antidote.
+['T27n1545_158:0803b04_10']	問若以滅道法智離色無色界修所斷染時。	問若以滅道法智離色無色界修所斷染時。	Question: When one is free from the defilements to be eliminated by cultivation in the form and formless realms through the dharma cognition of cessation and path,🔽the pure disjunction from objects to be eliminated by cultivation🔽in the form and formless realms
+['T27n1545_158:0803b05_2', 'T27n1545_158:0803b05_8', 'T27n1545_158:0803b05_14']	彼色無色界修所斷法。🔽無漏離繫得。🔽為法智品攝。	彼色無色界修所斷法。 無漏離繫得。 為法智品攝。	is included in the cognition of the truth of the path.
+['T27n1545_158:0803b06_2']	為類智品攝耶。	為類智品攝耶。	Is it included in the class of dharma cognition or the class of subsequent cognition?
+['T27n1545_158:0803b06_12']	若法智品攝此不應理。	若法智品攝此不應理。	If it is included in the class of dharma cognition, this is unreasonable.
+['T27n1545_158:0803b07_4']	彼法及斷類智所知故。	彼法及斷類智所知故。	This is because those objects and their elimination are known by subsequent cognition.
+['T27n1545_158:0803b07_14']	若類智品攝亦不應理。	若類智品攝亦不應理。	If it is included in the class of subsequent cognition, this is also unreasonable.
+['T27n1545_158:0803b08_5']	彼斷及得法智所證故。	彼斷及得法智所證故。	This is because that elimination and attainment are realized by dharma cognition.
+['T27n1545_158:0803b08_10']	有作是說。	有作是說。	There is an explanation
+['T27n1545_158:0803b09_1']	彼離繫得類智品攝。	彼離繫得類智品攝。	that the attainment of disjunction is included in the class of subsequent cognition.
+['T27n1545_158:0803b09_14']	問豈不彼斷及得法智所證耶。	問豈不彼斷及得法智所證耶。	Question: Aren't they realized by the attainment of the dharma knowledge that severs them?
+['T27n1545_158:0803b10_7']	答雖法智所證而類智攝。	答雖法智所證而類智攝。	Answer: Although they are realized by dharma knowledge, they are included in the knowledge of the species.
+['T27n1545_158:0803b10_13']	類智所知故。	類智所知故。	Because they are known by the knowledge of the species.
+['T27n1545_158:0803b11_10']	有餘師說彼無漏離繫得法智品攝。	有餘師說彼無漏離繫得法智品攝。	Other masters say that the pure disjunction acquisition is included in the class of dharma knowledge.
+['T27n1545_158:0803b12_5']	問豈不彼法及斷類智所知耶。	問豈不彼法及斷類智所知耶。	Question: Aren't those dharmas and severances known by the knowledge of the species?
+['T27n1545_158:0803b12_16']	答雖類智所知而法智攝。	答雖類智所知而法智攝。	Answer: Although they are known by the knowledge of the species, they are included in dharma knowledge.
+['T27n1545_158:0803b13_4']	法智所證故。	法智所證故。	Because they are realized by dharma knowledge.
+['T27n1545_158:0803b13_7']	評曰。	評曰。	The judges say:
+['T27n1545_158:0803b13_14']	此中初說為善。	此中初說為善。	The first explanation here is good.
+['T27n1545_158:0803b14_9']	以類智品是彼不共決定對治故。	以類智品是彼不共決定對治故。	Because the class of knowledge of the species is their unique and definite antidote.
+['T27n1545_158:0803b15_5']	問聖者以世俗道離諸地染時。	問聖者以世俗道離諸地染時。	Question: When the noble ones are free from the defilements of various stages by means of the worldly path,
+['T27n1545_158:0803b15_16']	為是曾得道未曾得道耶。	為是曾得道未曾得道耶。	are they the attained path or the unattained path?
+['T27n1545_158:0803b16_3']	有作是說。	有作是說。	Some say:
+['T27n1545_158:0803b16_8']	是曾得道。	是曾得道。	They are the attained path.
+['T27n1545_158:0803b16_16']	由此道無始時來。	由此道無始時來。	Because by this path, from beginningless time,
+['T27n1545_158:0803b17_6']	串習曾得今現前故。	串習曾得今現前故。	the attained has now become manifest.
+['T27n1545_158:0803b17_11']	彼作是說。	彼作是說。	They say this:
+['T27n1545_158:0803b17_18']	聖者以世俗道。	聖者以世俗道。	The noble ones, by means of the worldly path,
+['T27n1545_158:0803b18_11']	離欲界修所斷上上品染時。	離欲界修所斷上上品染時。	when free from the upper upper category of defilements to be eliminated by cultivation in the desire realm,
+['T27n1545_158:0803b19_4']	於欲界修所斷上上品法。	於欲界修所斷上上品法。	In the upper upper category of dharmas to be eliminated by cultivation in the desire realm,
+['T27n1545_158:0803b19_11']	得二種離繫得。	得二種離繫得。	one obtains two kinds of bonds of separation:
+['T27n1545_158:0803b19_16']	一世俗得。	一世俗得。	one is the mundane attainment,
+['T27n1545_158:0803b20_1']	二無漏得。	二無漏得。	and the second is the pure attainment.
+['T27n1545_158:0803b20_8']	世俗得是曾得。	世俗得是曾得。	The mundane attainment is the previously obtained,
+['T27n1545_158:0803b20_18']	道類無漏得是聖道類。	道類無漏得是聖道類。	and the pure attainment of the class of the noble path is the class of the noble path.
+['T27n1545_158:0803b21_7']	以世俗道現在前時。	以世俗道現在前時。	When the mundane path is present,
+['T27n1545_158:0803b21_16']	亦修未來無漏道故。	亦修未來無漏道故。	one also cultivates the future pure path.
+['T27n1545_158:0803b22_9']	於欲界見所斷上上品法。	於欲界見所斷上上品法。	In the upper upper category of dharmas to be eliminated by seeing in the desire realm,
+['T27n1545_158:0803b22_16']	得一種離繫得。	得一種離繫得。	one obtains one kind of bond of separation,
+['T27n1545_158:0803b23_9']	謂世俗得是曾得道類不得。	謂世俗得是曾得道類不得。	namely the mundane attainment, which is the previously obtained class of paths, not obtained.
+['T27n1545_158:0803b23_17', 'T27n1545_158:0803b24_9']	無漏得先已得故。🔽問若爾云何共對治道。	無漏得先已得故。 問若爾云何共對治道。	The pure attainment is already obtained.
+['T27n1545_158:0803b24_16']	轉成不共對治。	轉成不共對治。	Question: If that is so, how does the common counteragent become the uncommon counteragent?
+['T27n1545_158:0803b25_3']	謂此曾得道。	謂此曾得道。	Answer: This previously obtained path
+['T27n1545_158:0803b26_2']	先時總以欲界見修所斷諸法為九品斷。	先時總以欲界見修所斷諸法為九品斷。	previously always used the dharmas to be eliminated by seeing and cultivation in the desire realm as the nine categories of elimination.
+['T27n1545_158:0803b26_15']	今時此道唯斷欲界修所斷故。	今時此道唯斷欲界修所斷故。	Now this path only eliminates the dharmas to be eliminated by cultivation in the desire realm.
+['T27n1545_158:0803b27_6']	答此道猶名共對治道。	答此道猶名共對治道。	Answer: This path is still called the common counteragent,
+['T27n1545_158:0803b27_15']	以此恒有俱斷力故。	以此恒有俱斷力故。	because it always has the power of simultaneous elimination.
+['T27n1545_158:0803b28_6']	此見所斷先已斷故。	此見所斷先已斷故。	Because the afflictions eliminated by the path of insight have already been eliminated previously.
+['T27n1545_158:0803b28_15']	今無可斷非不能斷。	今無可斷非不能斷。	Now there is nothing to be eliminated, not that it is unable to eliminate.
+['T27n1545_158:0803b29_6', 'T27n1545_158:0803b29_12']	是故恒名共對治道。🔽如離上上品。	是故恒名共對治道。 如離上上品。	Therefore, it is always called the common counteragent.🔽Just as in the case of eliminating the upper upper level,
+['T27n1545_158:0803c01_3']	乃至離下下品亦爾。	乃至離下下品亦爾。	so it is in the case of eliminating the lower lower level.
+['T27n1545_158:0803c01_11']	如離欲界修所斷。	如離欲界修所斷。	Just as in the case of eliminating the afflictions eliminated by cultivation in the desire realm,
+['T27n1545_158:0803c02_6']	乃至離無所有處修所斷亦爾。	乃至離無所有處修所斷亦爾。	so it is in the case of eliminating the afflictions eliminated by cultivation in the sphere of nothingness.
+['T27n1545_158:0803c02_11']	有餘師說。	有餘師說。	Other masters say:
+['T27n1545_158:0803c02_17']	是未曾得道。	是未曾得道。	This is the path that has never been obtained before.
+['T27n1545_158:0803c03_6']	由此道無始時來。	由此道無始時來。	Because by this path, from beginningless time,
+['T27n1545_158:0803c03_16']	未習未得唯聖所起故。	未習未得唯聖所起故。	it has never been cultivated and never obtained, and is only produced by the noble ones.
+['T27n1545_158:0803c04_2']	彼作是說。	彼作是說。	They say:
+['T27n1545_158:0803c04_9']	聖者以世俗道。	聖者以世俗道。	When the noble ones, by the worldly path,
+['T27n1545_158:0803c05_2']	離欲界修所斷上上品染時。	離欲界修所斷上上品染時。	eliminate the upper upper level affliction eliminated by cultivation in the desire realm,
+['T27n1545_158:0803c05_13']	於欲界修所斷上上品法。	於欲界修所斷上上品法。	with regard to the upper upper level dharmas eliminated by cultivation in the desire realm,
+['T27n1545_158:0803c06_2']	得二種離繫得。	得二種離繫得。	they obtain two kinds of separation attainment.
+['T27n1545_158:0803c06_7']	一世俗得。	一世俗得。	One is the worldly attainment,
+['T27n1545_158:0803c06_12']	二無漏得。	二無漏得。	and the other is the pure attainment.
+['T27n1545_158:0803c06_20']	世俗得是未曾得。	世俗得是未曾得。	The worldly attainment is that which has never been obtained before.
+['T27n1545_158:0803c07_9']	道類無漏得是聖道類。	道類無漏得是聖道類。	The pure attainment of the class of the path of insight is of the class of the noble path.
+['T27n1545_158:0803c07_18']	以世俗道現在前時。	以世俗道現在前時。	When the worldly path is present,
+['T27n1545_158:0803c08_8']	亦修未來無漏道故。	亦修未來無漏道故。	Because one also cultivates future uncontaminated paths.
+['T27n1545_158:0803c09_1']	於欲界見所斷上上品法。	於欲界見所斷上上品法。	With regard to the highest degree of dharmas to be eliminated by seeing in the desire realm,
+['T27n1545_158:0803c09_7']	不得離繫得。	不得離繫得。	one does not obtain the attainment of separation.
+['T27n1545_158:0803c10_5']	不得世俗得者未曾得道非彼對治故。	不得世俗得者未曾得道非彼對治故。	One does not obtain the mundane attainment because the previously attained paths are not their antidotes.
+['T27n1545_158:0803c11_12']	不得無漏得者先已得故如離上上品乃至離下中品亦爾。	不得無漏得者先已得故如離上上品乃至離下中品亦爾。	One does not obtain the uncontaminated attainment because one has already attained it. It is the same up to eliminating the middle degree of the lower [dharmas].
+['T27n1545_158:0803c12_5', 'T27n1545_158:0803c12_15']	如離欲界修所斷八品。🔽離初靜慮修所斷八品。	如離欲界修所斷八品。 離初靜慮修所斷八品。	It is also like this when eliminating the eight categories to be eliminated by cultivation in the desire realm.🔽It is also like this when eliminating the eight categories to be eliminated by cultivation in the first concentration,
+['T27n1545_158:0803c13_11', 'T27n1545_158:0803c13_18']	乃至離無所有處修所斷八品亦爾。🔽離欲界修所斷。	乃至離無所有處修所斷八品亦爾。 離欲界修所斷。	up to eliminating the eight categories to be eliminated by cultivation in the sphere of nothingness.
+['T27n1545_158:0803c14_7']	第九品解脫道時。	第九品解脫道時。	When eliminating the ninth category to be eliminated by cultivation in the desire realm,
+['T27n1545_158:0803c15_2']	未來修曾得未曾得二世俗道。	未來修曾得未曾得二世俗道。	at that time, one cultivates the previously attained and not previously attained mundane paths in the future.
+['T27n1545_158:0803c15_12']	爾時於欲界修所斷法。	爾時於欲界修所斷法。	At that time, with regard to the dharmas to be eliminated by cultivation in the desire realm,
+['T27n1545_158:0803c16_1']	得三種離繫得。	得三種離繫得。	one obtains three kinds of attainments of separation.
+['T27n1545_158:0803c16_8']	一世俗曾得得。	一世俗曾得得。	The first is the attainment of the previously attained mundane [path],
+['T27n1545_158:0803c16_14']	謂曾得道類。	謂曾得道類。	which refers to the previously attained type of path.
+['T27n1545_158:0803c17_8']	二世俗未曾得得謂未曾得道類。	二世俗未曾得得謂未曾得道類。	The second is the attainment of the not previously attained mundane [path], which refers to the type of path not previously attained.
+['T27n1545_158:0803c17_13']	三無漏得。	三無漏得。	The third is the uncontaminated attainment.
+['T27n1545_158:0803c18_6']	謂聖道類於欲界見所斷法。	謂聖道類於欲界見所斷法。	That is, the class of the noble path, regarding the dharmas to be seen and eliminated in the desire realm,
+['T27n1545_158:0803c18_13']	得二種離繫得。	得二種離繫得。	obtains two kinds of bonds of separation.
+['T27n1545_158:0803c19_2']	除未曾得世俗得。	除未曾得世俗得。	Excluding the mundane attainment that has not yet been obtained.
+['T27n1545_158:0803c19_12']	問云何知第九解脫時。	問云何知第九解脫時。	Question: How do we know that at the time of the ninth liberation,
+['T27n1545_158:0803c20_7']	能修未來曾得未曾得二世俗道。	能修未來曾得未曾得二世俗道。	one is able to cultivate the two mundane paths, both obtained and not yet obtained, in the future?
+['T27n1545_158:0803c21_1']	答以說若成就現在他心智。	答以說若成就現在他心智。	Answer: Because it is said that if one possesses the present knowledge of others' minds,
+['T27n1545_158:0803c21_12']	彼定成就過去他心智故。	彼定成就過去他心智故。	one definitely possesses the past knowledge of others' minds.
+['T27n1545_158:0803c22_4']	問何故離前八品染時。	問何故離前八品染時。	Question: Why, when one is free from the defilements of the first eight categories,
+['T27n1545_158:0803c22_10']	修未曾得道。	修未曾得道。	does one cultivate the path that has not yet been obtained?
+['T27n1545_158:0803c23_2']	離第九品染解脫道時。	離第九品染解脫道時。	When one is free from the defilements of the ninth category at the time of the path of liberation,
+['T27n1545_158:0803c23_11']	修曾得未曾得道耶。	修曾得未曾得道耶。	does one cultivate the path that has been obtained and the path that has not yet been obtained?
+['T27n1545_158:0803c24_3']	答離染道異得地亦異。	答離染道異得地亦異。	Answer: The path of liberation from defilements is different, and the stage is also different.
+['T27n1545_158:0803c24_12']	謂離染道唯未曾得。	謂離染道唯未曾得。	That is, the path of liberation from defilements is only one that has not yet been obtained.
+['T27n1545_158:0803c25_2']	未來所修亦未曾得。	未來所修亦未曾得。	What is cultivated in the future is also one that has not yet been obtained.
+['T27n1545_158:0803c26_2']	若得地時現離染道雖未曾得得根本地故。	若得地時現離染道雖未曾得得根本地故。	If at the time of obtaining the stage, although the path of liberation from present defilements has not yet been obtained, because one obtains the fundamental stage,
+['T27n1545_158:0803c26_13']	通修未來曾得未曾得道。	通修未來曾得未曾得道。	one universally cultivates the path that has been obtained and the path that has not yet been obtained in the future.
+['T27n1545_158:0803c27_6']	如離欲界修所斷第九品。	如離欲界修所斷第九品。	Just as when one is free from the ninth category of defilements to be eliminated by cultivation in the desire realm,
+['T27n1545_158:0803c28_4']	乃至離無所有處修所斷第九品亦爾。	乃至離無所有處修所斷第九品亦爾。	Up to the ninth category of afflictions to be eliminated in the formless realm, it is the same.
+['T27n1545_158:0803c28_7']	評曰。	評曰。	The judges say:
+['T27n1545_158:0803c28_12']	應作是說。	應作是說。	It should be said:
+['T27n1545_158:0803c29_5']	聖者以世俗道離諸地染時。	聖者以世俗道離諸地染時。	When the noble ones use the worldly path to detach from the defilements of various stages,
+['T27n1545_158:0803c29_13']	應言是未曾得道。	應言是未曾得道。	It should be said that this is the path that has never been attained.
+['T27n1545_158:0804a01_5']	昔來未得唯聖所起故。	昔來未得唯聖所起故。	Because it has never been attained before, and is only produced by the noble ones.
+['T27n1545_158:0804a02_1']	然於未來通修曾得未曾得道。	然於未來通修曾得未曾得道。	However, in the future, they cultivate both the path that has been attained and the path that has never been attained.
+['T27n1545_158:0804a02_7']	所對治同故。	所對治同故。	Because the objects to be eliminated are the same.
+['T27n1545_158:0804a02_12']	應作是說。	應作是說。	It should be said:
+['T27n1545_158:0804a02_19']	聖者以世俗道。	聖者以世俗道。	The noble ones, using the worldly path,
+['T27n1545_158:0804a03_11']	離欲界修所斷上上品染時。	離欲界修所斷上上品染時。	When detaching from the upper upper category of defilements to be eliminated in the realm of desire,
+['T27n1545_158:0804a04_4']	於欲界修所斷上上品法。	於欲界修所斷上上品法。	With regard to the upper upper category of dharmas to be eliminated in the realm of desire,
+['T27n1545_158:0804a04_11']	得三種離繫得。	得三種離繫得。	They attain three types of bonds of separation:
+['T27n1545_158:0804a04_18']	一世俗曾得得。	一世俗曾得得。	First, the bonds of separation that have been attained before,
+['T27n1545_158:0804a05_4']	謂曾得道類。	謂曾得道類。	That is, the bonds of separation that have been attained before.
+['T27n1545_158:0804a05_12']	二世俗未曾得得。	二世俗未曾得得。	Second, the bonds of separation that have never been attained before,
+['T27n1545_158:0804a05_19']	謂未曾得道類。	謂未曾得道類。	That is, the bonds of separation that have never been attained before.
+['T27n1545_158:0804a06_4']	三無漏得。	三無漏得。	Third, the bonds of separation that are uncontaminated,
+['T27n1545_158:0804a06_9']	謂聖道類。	謂聖道類。	That is, the bonds of separation that are the noble path.
+['T27n1545_158:0804a07_1']	於欲界見所斷上上品法。	於欲界見所斷上上品法。	With regard to the upper upper category of dharmas to be eliminated by seeing in the realm of desire,
+['T27n1545_158:0804a07_8']	得一種離繫得。	得一種離繫得。	They attain one type of bonds of separation.
+['T27n1545_158:0804a07_16']	謂曾得世俗道類。	謂曾得世俗道類。	It refers to those who have previously obtained the mundane path.
+['T27n1545_158:0804a08_4']	不得未曾得得者。	不得未曾得得者。	Those who obtain what has not been obtained before.
+['T27n1545_158:0804a08_14']	未曾得道非彼對治故。	未曾得道非彼對治故。	Because the previously unattained path is not their antidote.
+['T27n1545_158:0804a09_3']	不得無漏得者。	不得無漏得者。	Those who obtain the uncontaminated [path].
+['T27n1545_158:0804a09_8', 'T27n1545_158:0804a09_14']	先已得故。🔽如離上上品。	先已得故。 如離上上品。	Because they have already obtained it before.🔽Just as in the case of abandoning the upper upper [level],
+['T27n1545_158:0804a10_4']	乃至離下下品亦爾。	乃至離下下品亦爾。	up to abandoning the lower lower [level], it is the same.
+['T27n1545_158:0804a10_12']	如離欲界修所斷。	如離欲界修所斷。	Just as in the case of abandoning the cultivated [afflictions] of the desire realm,
+['T27n1545_158:0804a11_7']	乃至離無所有處修所斷亦爾。	乃至離無所有處修所斷亦爾。	up to abandoning the cultivated [afflictions] of the sphere of nothingness, it is the same.
+['T27n1545_158:0804a11_16']	由此故說頗有不退。	由此故說頗有不退。	Based on this, it is said: Is there anyone who does not regress,
+['T27n1545_158:0804a12_2']	不得果。	不得果。	does not obtain the fruit,
+['T27n1545_158:0804a12_6']	不轉根。	不轉根。	does not change faculties,
+['T27n1545_158:0804a12_13']	非見道現在前。	非見道現在前。	and for whom the path of seeing is not presently manifest,
+['T27n1545_158:0804a12_19']	亦非異生類。	亦非異生類。	and who is not of the class of ordinary beings,
+['T27n1545_158:0804a13_11']	而於見所斷法得離繫得耶。	而於見所斷法得離繫得耶。	but who obtains the disjunction [of afflictions] from the factors to be eliminated by the path of seeing?
+['T27n1545_158:0804a13_14']	答有。	答有。	The answer is: There is.
+['T27n1545_158:0804a14_1']	謂前所說。	謂前所說。	It refers to what was explained before.
+['T27n1545_158:0804a14_12']	唯除離欲染第六九品時。	唯除離欲染第六九品時。	Excluding only the time of abandoning the sixth and ninth categories of afflictions of the desire realm.
+['T27n1545_158:0804a15_13']	依所說義應作是說頗有離繫得。	依所說義應作是說頗有離繫得。	Based on the meaning explained, it should be said: Is there anyone who obtains the attainment of disjunction,
+['T27n1545_158:0804a16_1']	得而不捨。	得而不捨。	obtains it but does not abandon it,
+['T27n1545_158:0804a16_7']	捨而不得耶。	捨而不得耶。	abandons it but does not obtain it?
+['T27n1545_158:0804a16_13']	答應作四句。	答應作四句。	The answer is: Four sentences should be made.
+['T27n1545_158:0804a16_18']	有離繫得。	有離繫得。	There is the attainment of disjunction
+['T27n1545_158:0804a17_4']	得而不捨。	得而不捨。	that is obtained but not abandoned.
+['T27n1545_158:0804a17_12']	謂諸異生離欲界。	謂諸異生離欲界。	It refers to when ordinary beings are free from the defilements of the desire realm,
+['T27n1545_158:0804a18_2']	乃至無所有處染時。	乃至無所有處染時。	up to the sphere of nothingness,
+['T27n1545_158:0804a18_13']	及諸聖者非得果離染時。	及諸聖者非得果離染時。	and when noble ones are not attaining fruits or detaching from defilements.
+['T27n1545_158:0804a19_4']	有離繫得捨而不得。	有離繫得捨而不得。	There is abandonment of the attainment of freedom, but not attainment.
+['T27n1545_158:0804a20_5']	謂諸異生從離欲界乃至無所有處染退時。	謂諸異生從離欲界乃至無所有處染退時。	It refers to when ordinary beings fall back from being free from the defilements of the desire realm up to the sphere of nothingness,
+['T27n1545_158:0804a20_15']	及諸聖者非失果退時。	及諸聖者非失果退時。	and when noble ones do not fall back from losing fruits.
+['T27n1545_158:0804a21_11']	若從欲界歿生第二靜慮以上時。	若從欲界歿生第二靜慮以上時。	If one dies in the desire realm and is reborn in the second dhyana or above,
+['T27n1545_158:0804a22_8']	從初靜慮歿生第二靜慮以上時。	從初靜慮歿生第二靜慮以上時。	if one dies in the first dhyana and is reborn in the second dhyana or above,
+['T27n1545_158:0804a23_8']	乃至從無所有處歿生非想非非想處時。	乃至從無所有處歿生非想非非想處時。	up to if one dies in the sphere of nothingness and is reborn in the sphere of neither-perception-nor-non-perception,
+['T27n1545_158:0804a24_4']	從色無色界諸地歿生欲界時。	從色無色界諸地歿生欲界時。	if one dies in the form and formless realms and is reborn in the desire realm,
+['T27n1545_158:0804a24_13']	有離繫得亦得亦捨。	有離繫得亦得亦捨。	there is both attainment and abandonment of the attainment of freedom.
+['T27n1545_158:0804a25_4']	謂進得四沙門果時。	謂進得四沙門果時。	It refers to when one advances to attain the four fruits of the religious life,
+['T27n1545_158:0804a25_14']	信勝解練根成見至時。	信勝解練根成見至時。	when one of firm faith perfects the faculties and becomes one who has attained views,
+['T27n1545_158:0804a26_5']	退法種性阿羅漢等。	退法種性阿羅漢等。	when an arhat of the type liable to fall away,
+['T27n1545_158:0804a26_13']	練根成思法等時。	練根成思法等時。	perfects the faculties and becomes one of the type who contemplates equanimity, etc.,
+['T27n1545_158:0804a27_3']	從離染或種性退。	從離染或種性退。	when one falls back from detachment or from the type.
+['T27n1545_158:0804a27_12']	若三若四沙門果時。	若三若四沙門果時。	When attaining the third or fourth fruit of the śramaṇa.
+['T27n1545_158:0804a28_6']	若色無色界上地歿生下地時。	若色無色界上地歿生下地時。	When dying in the upper stages of the form and formless realms and being reborn in the lower stages.
+['T27n1545_158:0804a28_15']	有離繫得非得非捨。	有離繫得非得非捨。	There is acquisition of disjunction but neither acquisition nor relinquishment.
+['T27n1545_158:0804a29_2']	謂除前相。	謂除前相。	This excludes the above cases.
+['T27n1545_158:0804a29_12']	問若先離欲界五品染。	問若先離欲界五品染。	Question: If one first becomes free from the five categories of defilements of the desire realm,
+['T27n1545_158:0804b01_1']	後入正性離生。	後入正性離生。	and later enters the certainty of perfection,
+['T27n1545_158:0804b01_7']	苦法智生時。	苦法智生時。	when the knowledge of the truth of suffering arises,
+['T27n1545_158:0804b01_19']	於先所斷見苦所斷五品法。	於先所斷見苦所斷五品法。	with regard to the five categories of dharmas to be eliminated by seeing the truth of suffering that were previously eliminated,
+['T27n1545_158:0804b02_11']	及今所斷見苦所斷四品法。	及今所斷見苦所斷四品法。	and the four categories of dharmas to be eliminated by seeing the truth of suffering that are now eliminated,
+['T27n1545_158:0804b03_8']	皆得無漏離繫得乃至道法智生時。	皆得無漏離繫得乃至道法智生時。	one acquires the pure acquisition of disjunction. Up to when the knowledge of the truth of the path arises,
+['T27n1545_158:0804b04_2']	於先所斷見道所斷五品法。	於先所斷見道所斷五品法。	with regard to the five categories of dharmas to be eliminated by seeing the truth of the path that were previously eliminated,
+['T27n1545_158:0804b04_14']	及今所斷見道所斷四品法。	及今所斷見道所斷四品法。	and the four categories of dharmas to be eliminated by seeing the truth of the path that are now eliminated,
+['T27n1545_158:0804b05_3']	皆得無漏離繫得。	皆得無漏離繫得。	one acquires the pure acquisition of disjunction.
+['T27n1545_158:0804b05_9']	道類智生時。	道類智生時。	When the knowledge of the categories of the path arises,
+['T27n1545_158:0804b06_6']	於三界見所斷法皆得無漏離繫得。	於三界見所斷法皆得無漏離繫得。	with regard to the dharmas to be eliminated by seeing the three realms, one acquires the pure acquisition of disjunction.
+['T27n1545_158:0804b07_1']	彼先所斷欲界修所斷五品法。	彼先所斷欲界修所斷五品法。	With regard to the five categories of dharmas to be eliminated by cultivation in the desire realm that were previously eliminated,
+['T27n1545_158:0804b07_11']	無漏離繫得何時當得。	無漏離繫得何時當得。	when will one acquire the pure acquisition of disjunction?
+['T27n1545_158:0804b08_3']	尊者僧伽筏蘇作如是說。	尊者僧伽筏蘇作如是說。	Venerable Saṃghabhadra says:
+['T27n1545_158:0804b08_9']	道類智時得。	道類智時得。	It is obtained at the time of the knowledge of the type of the path.
+['T27n1545_158:0804b08_17']	以爾時名預流果。	以爾時名預流果。	Because at that time it is called the fruit of stream-entry,
+['T27n1545_158:0804b09_5']	亦名一來向故。	亦名一來向故。	and also called the path of once-returning.
+['T27n1545_158:0804b09_10']	彼說不然。	彼說不然。	This explanation is not correct.
+['T27n1545_158:0804b09_15']	所以者何。	所以者何。	Why is it so?
+['T27n1545_158:0804b11_4']	以於爾時得預流果於一來果向道乃至未起一剎那現前。	以於爾時得預流果於一來果向道乃至未起一剎那現前。	Because at that time, having obtained the fruit of stream-entry, one has not yet given rise to a single moment of the path of the fruit of once-returning.
+['T27n1545_158:0804b11_13']	如何可說為一來向。	如何可說為一來向。	How can it be said to be the path of once-returning?
+['T27n1545_158:0804b11_18', 'T27n1545_158:0804b12_9']	有作是說。🔽起一來果加行道時得。	有作是說。 起一來果加行道時得。	There is an explanation:🔽It is obtained when giving rise to the path of preparation for the fruit of once-returning.
+['T27n1545_158:0804b13_1']	以是一來向所攝故。	以是一來向所攝故。	Because it is included in the path of once-returning.
+['T27n1545_158:0804b13_6']	有餘師說。	有餘師說。	Other masters say:
+['T27n1545_158:0804b13_13']	得一來果時得。	得一來果時得。	It is obtained when obtaining the fruit of once-returning.
+['T27n1545_158:0804b14_3']	以住第六無間道時。	以住第六無間道時。	Because when abiding in the sixth uninterrupted path,🔽one is able to attract the uncontaminated disjunctioned acquisition
+['T27n1545_158:0804b14_11']	能引三界見所斷。	能引三界見所斷。	of the six types of dharmas to be eliminated by seeing in the three realms,
+['T27n1545_158:0804b15_3', 'T27n1545_158:0804b15_9']	及欲界修所斷前六品法。🔽無漏離繫得。	及欲界修所斷前六品法。 無漏離繫得。	and the first six types of dharmas to be eliminated by cultivation in the desire realm.
+['T27n1545_158:0804b15_17']	令起得一來果故。	令起得一來果故。	Because it causes the arising of the acquisition of the fruit of once-returning.
+['T27n1545_158:0804b16_3']	如是說者。	如是說者。	Those who explain it in this way say:
+['T27n1545_158:0804b16_14']	從預流果決定起勝進道。	從預流果決定起勝進道。	From the fruit of stream-entry, one definitely gives rise to the path of progress.
+['T27n1545_158:0804b17_2']	彼現前時得。	彼現前時得。	It is obtained when that [path] is manifested.
+['T27n1545_158:0804b17_14']	以從下果起趣上勝進道時。	以從下果起趣上勝進道時。	Because when one arises from a lower fruit to enter the superior path of progress,
+['T27n1545_158:0804b18_11']	必修先所斷上位諸結對治道故。	必修先所斷上位諸結對治道故。	one necessarily cultivates the path of counteraction to the bonds of the higher stages that have already been eliminated.
+['T27n1545_158:0804b19_11']	問頗有一剎那頃於無漏離繫得有身作證。	問頗有一剎那頃於無漏離繫得有身作證。	Question: Can there be a single moment in which one realizes with the body the attainment of disjunction from defilements through the uncontaminated path,
+['T27n1545_158:0804b20_13']	而慧不見有慧見而身不作證乃至作四句耶。	而慧不見有慧見而身不作證乃至作四句耶。	while wisdom does not see, or wisdom sees while the body does not realize, up to making four sentences?
+['T27n1545_158:0804b20_16']	答有。	答有。	Answer: There can be.
+['T27n1545_158:0804b21_5']	謂道類智忍滅。	謂道類智忍滅。	That is, when the receptivity to the knowledge of the class of the path ceases,
+['T27n1545_158:0804b21_11']	道類智生時。	道類智生時。	and the knowledge of the class of the path arises.
+['T27n1545_158:0804b21_16']	應作四句。	應作四句。	One should make four sentences.
+['T27n1545_158:0804b22_4']	有無漏離繫得。	有無漏離繫得。	There is the attainment of disjunction from defilements through the uncontaminated path,
+['T27n1545_158:0804b22_12']	身作證而慧不見。	身作證而慧不見。	but the body realizes it while wisdom does not see it.
+['T27n1545_158:0804b23_6']	謂欲界見所斷法無漏離繫得。	謂欲界見所斷法無漏離繫得。	That is, the attainment of disjunction from defilements through the uncontaminated path of dharmas to be eliminated by seeing in the desire realm.
+['T27n1545_158:0804b23_13']	有無漏離繫得。	有無漏離繫得。	There is the attainment of disjunction from defilements through the uncontaminated path,
+['T27n1545_158:0804b24_3']	慧見而身不作證。	慧見而身不作證。	but wisdom sees it while the body does not realize it.
+['T27n1545_158:0804b24_18']	謂色無色界修所斷法無漏離繫得。	謂色無色界修所斷法無漏離繫得。	That is, the attainment of disjunction from defilements through the uncontaminated path of dharmas to be eliminated by cultivation in the form and formless realms.
+['T27n1545_158:0804b25_6']	有無漏離繫得。	有無漏離繫得。	There is the attainment of disjunction from defilements through the uncontaminated path,
+['T27n1545_158:0804b25_13']	身作證慧亦見。	身作證慧亦見。	and the body realizes it while wisdom also sees it.
+['T27n1545_158:0804b26_9']	謂色無色界見所斷法無漏離繫得。	謂色無色界見所斷法無漏離繫得。	That is, the attainment of disjunction from defilements through the uncontaminated path of dharmas to be eliminated by seeing in the form and formless realms.
+['T27n1545_158:0804b26_16']	有無漏離繫得。	有無漏離繫得。	There is the attainment of disjunction from defilements through the uncontaminated path,🔽but neither the body realizes it nor does wisdom see it.
+['T27n1545_158:0804b27_6']	身不作證慧亦不見。	身不作證慧亦不見。	The body does not realize it, nor does wisdom see it.
+['T27n1545_158:0804b28_1']	謂欲界修所斷法無漏離繫得。	謂欲界修所斷法無漏離繫得。	It refers to the pure disjunction from the dharmas to be eliminated by cultivation in the desire realm.
+['T27n1545_158:0804b28_14']	問頗有一剎那頃於信等五根。	問頗有一剎那頃於信等五根。	Question: Can there be a single moment when one obtains the five faculties such as faith,
+['T27n1545_158:0804b29_5']	得而不捨捨而不得。	得而不捨捨而不得。	but does not abandon them, or abandons them but does not obtain them,
+['T27n1545_158:0804b29_12']	乃至作四句耶。	乃至作四句耶。	up to making four sentences?
+['T27n1545_158:0804b29_15']	答有。	答有。	Answer: There are.
+['T27n1545_158:0804c01_4']	謂聖者離欲界染。	謂聖者離欲界染。	It refers to the noble ones who are free from the defilements of the desire realm,
+['T27n1545_158:0804c01_12']	住最後無間道時。	住最後無間道時。	abiding in the final uninterrupted path.
+['T27n1545_158:0804c01_17', 'T27n1545_158:0804c02_4', 'T27n1545_158:0804c02_11']	應作四句。🔽得而不捨者。🔽謂三地世俗道。	應作四句。 得而不捨者。 謂三地世俗道。	Four sentences should be made.
+['T27n1545_158:0804c03_4', 'T27n1545_158:0804c03_10']	二地無漏道所攝信等五根。🔽捨而不得者。	二地無漏道所攝信等五根。 捨而不得者。	Obtaining but not abandoning refers to the five faculties such as faith included in the mundane path of the three stages and the pure path of the two stages.
+['T27n1545_158:0804c04_5', 'T27n1545_158:0804c04_11']	謂欲界惡作憂根俱生信等五根。🔽亦得亦捨者。	謂欲界惡作憂根俱生信等五根。 亦得亦捨者。	Abandoning but not obtaining refers to the five faculties such as faith that arise together with the faculty of remorse and the faculty of sorrow in the desire realm.
+['T27n1545_158:0804c05_6']	謂未至地無漏道所攝信等五根。	謂未至地無漏道所攝信等五根。	Both obtaining and abandoning refers to the five faculties such as faith included in the pure path of the stage of non-returner.
+['T27n1545_158:0804c05_13']	捨無間道所攝。	捨無間道所攝。	Abandoning those included in the uninterrupted path,
+['T27n1545_158:0804c06_1', 'T27n1545_158:0804c06_7']	得解脫道所攝。🔽非得非捨者。	得解脫道所攝。 非得非捨者。	obtaining those included in the path of liberation.
+['T27n1545_158:0804c06_12']	謂除前相。	謂除前相。	Neither obtaining nor abandoning refers to excluding the above characteristics.
+['T27n1545_158:0804c07_4']	問若法過去彼得過去耶。	問若法過去彼得過去耶。	Question: If a dharma is past, is its possession past?
+['T27n1545_158:0804c07_14']	設得過去彼法過去耶。	設得過去彼法過去耶。	If one obtains past dharmas, are those dharmas past?
+['T27n1545_158:0804c08_2']	答應作四句。	答應作四句。	The answer is: Four sentences should be made.
+['T27n1545_158:0804c08_7']	有法過去。	有法過去。	There are dharmas that are past.
+['T27n1545_158:0804c08_13']	彼得非過去。	彼得非過去。	One obtains them but they are not past.
+['T27n1545_158:0804c09_2']	謂過去有情數法。	謂過去有情數法。	This refers to past dharmas of sentient beings.
+['T27n1545_158:0804c09_10']	彼得在未來現在。	彼得在未來現在。	One obtains them in the future and present.
+['T27n1545_158:0804c09_15']	有得過去。	有得過去。	There is obtaining of past dharmas.
+['T27n1545_158:0804c10_2']	彼法非過去。	彼法非過去。	Those dharmas are not past.
+['T27n1545_158:0804c10_16']	謂過去得得未來現在有情數法。	謂過去得得未來現在有情數法。	This refers to past obtaining of future and present dharmas of sentient beings,
+['T27n1545_158:0804c11_4']	及擇滅非擇滅。	及擇滅非擇滅。	and to cessation through discrimination and cessation not through contemplation.
+['T27n1545_158:0804c11_9']	有法過去。	有法過去。	There are dharmas that are past.
+['T27n1545_158:0804c11_15']	彼得亦過去。	彼得亦過去。	One obtains them and they are also past.
+['T27n1545_158:0804c12_3']	謂過去有情數法。	謂過去有情數法。	This refers to past dharmas of sentient beings.
+['T27n1545_158:0804c12_9']	彼得在過去。	彼得在過去。	One obtains them in the past.
+['T27n1545_158:0804c12_15']	有法非過去。	有法非過去。	There are dharmas that are not past.
+['T27n1545_158:0804c13_4']	彼得亦非過去。	彼得亦非過去。	One obtains them and they are also not past.
+['T27n1545_158:0804c14_2']	謂未來現在得得未來現在有情數法。	謂未來現在得得未來現在有情數法。	This refers to future and present obtaining of future and present dharmas of sentient beings,
+['T27n1545_158:0804c14_9']	及擇滅非擇滅。	及擇滅非擇滅。	and to cessation through discrimination and cessation not through contemplation.
+['T27n1545_158:0804c14_16']	如過去作四句。	如過去作四句。	Just as four sentences are made for the past,
+['T27n1545_158:0804c15_6']	未來現在各作四句。	未來現在各作四句。	four sentences are made for the future and present respectively.
+['T27n1545_158:0804c15_11', 'T27n1545_158:0804c15_18']	如理應知。🔽問若法在過去。	如理應知。 問若法在過去。	They should be understood according to reason.🔽If a dharma is in the past,
+['T27n1545_158:0804c16_7']	彼法有過去得耶。	彼法有過去得耶。	does that dharma have past obtaining?
+['T27n1545_158:0804c16_14']	設法有過去得。	設法有過去得。	Suppose there is a past attainment of a dharma.
+['T27n1545_158:0804c17_3']	彼法在過去耶。	彼法在過去耶。	Is that dharma in the past?
+['T27n1545_158:0804c17_9']	答應作四句。	答應作四句。	Answer: Four sentences should be made.
+['T27n1545_158:0804c17_15']	有法在過去。	有法在過去。	There is a dharma in the past.
+['T27n1545_158:0804c18_4']	彼法無過去得。	彼法無過去得。	That dharma has no past attainment.
+['T27n1545_158:0804c18_13']	謂過去非有情數法。	謂過去非有情數法。	This refers to past dharmas that are not associated with sentient beings.
+['T27n1545_158:0804c19_2']	有法有過去得。	有法有過去得。	There is a dharma with a past attainment.
+['T27n1545_158:0804c19_9']	彼法不在過去。	彼法不在過去。	That dharma is not in the past.
+['T27n1545_158:0804c19_16']	謂擇滅非擇滅。	謂擇滅非擇滅。	This refers to cessation through discrimination and cessation not through discrimination,
+['T27n1545_158:0804c20_7']	及未來現在有情數法。	及未來現在有情數法。	and future and present dharmas associated with sentient beings.
+['T27n1545_158:0804c20_12']	有過去得。	有過去得。	There is a past attainment.
+['T27n1545_158:0804c20_18']	有法在過去。	有法在過去。	There is a dharma in the past.
+['T27n1545_158:0804c21_7']	彼法亦有過去得。	彼法亦有過去得。	That dharma also has a past attainment.
+['T27n1545_158:0804c21_15']	謂過去有情數法。	謂過去有情數法。	This refers to past dharmas associated with sentient beings.
+['T27n1545_158:0804c22_3']	有法非在過去。	有法非在過去。	There is a dharma that is not in the past.
+['T27n1545_158:0804c22_12']	彼法亦非有過去得。	彼法亦非有過去得。	That dharma also does not have a past attainment.
+['T27n1545_158:0804c23_5']	謂未來現在非有情數法。	謂未來現在非有情數法。	This refers to future and present dharmas that are not associated with sentient beings,
+['T27n1545_158:0804c24_2']	及虛空無為并未來現在有情數法。	及虛空無為并未來現在有情數法。	and space and unconditioned dharmas, and future and present dharmas associated with sentient beings.
+['T27n1545_158:0804c24_13']	及擇滅非擇滅無過去得。	及擇滅非擇滅無過去得。	Cessation through discrimination and cessation not through discrimination do not have past attainments.
+['T27n1545_158:0804c25_2']	如過去作四句。	如過去作四句。	Just as four sentences are made regarding the past,
+['T27n1545_158:0804c25_11']	未來現在各作四句。	未來現在各作四句。	four sentences are made regarding the future and the present.
+['T27n1545_158:0804c25_16']	如理應知。	如理應知。	They should be understood according to the principle.
+['T27n1545_158:0804c26_6']	問若法不在過去。	問若法不在過去。	Question: If a dharma is not in the past,
+['T27n1545_158:0804c26_14']	彼法無過去得耶。	彼法無過去得耶。	does that dharma not have past attainment?
+['T27n1545_158:0804c27_3']	設法無過去得。	設法無過去得。	If a dharma does not have past attainment,
+['T27n1545_158:0804c27_11']	彼法不在過去耶。	彼法不在過去耶。	is that dharma not in the past?
+['T27n1545_158:0804c27_17']	答應作四句。	答應作四句。	Answer: Four sentences should be made.
+['T27n1545_158:0804c28_8']	前第二句作此第一句。	前第二句作此第一句。	The second sentence above becomes the first sentence here.
+['T27n1545_158:0804c28_18']	前第一句作此第二句。	前第一句作此第二句。	The first sentence above becomes the second sentence here.
+['T27n1545_158:0804c29_9']	前第四句作此第三句。	前第四句作此第三句。	The fourth sentence above becomes the third sentence here.
+['T27n1545_158:0805a01_1']	前第三句作此第四句。	前第三句作此第四句。	The third sentence above becomes the fourth sentence here.
+['T27n1545_158:0805a02_3']	如前應知如過去作四句未來現在各作四句。	如前應知如過去作四句未來現在各作四句。	It should be known as before. As four sentences are made regarding the past, four sentences are made regarding the future and the present.
+['T27n1545_158:0805a02_8']	如理應知。	如理應知。	It should be known according to reason.
+['T27n1545_158:0805a03_3']	問若法有得彼法有離繫得耶。	問若法有得彼法有離繫得耶。	Question: If a dharma has attainment, does that dharma have the attainment of being free from bonds?
+['T27n1545_158:0805a03_10']	設法有離繫得。	設法有離繫得。	If a dharma has the attainment of being free from bonds,
+['T27n1545_158:0805a03_16']	彼法有得耶。	彼法有得耶。	does that dharma have attainment?
+['T27n1545_158:0805a04_3']	答應作四句。	答應作四句。	Answer: Four sentences should be made.
+['T27n1545_158:0805a04_15']	有法有得彼法非有離繫得。	有法有得彼法非有離繫得。	There are dharmas that have attainment but do not have the attainment of being free from bonds.
+['T27n1545_158:0805a05_4']	謂無漏有為法。	謂無漏有為法。	Namely, impure conditioned dharmas,
+['T27n1545_158:0805a05_11']	及擇滅非擇滅。	及擇滅非擇滅。	and cessation through discernment and cessation not through discernment.
+['T27n1545_158:0805a05_18']	有法有離繫得。	有法有離繫得。	There are dharmas that have the attainment of being free from bonds,
+['T27n1545_158:0805a06_5']	彼法非有得。	彼法非有得。	but do not have attainment.
+['T27n1545_158:0805a06_12']	謂非有情數法。	謂非有情數法。	Namely, dharmas that are not sentient beings.
+['T27n1545_158:0805a07_6']	有法有得彼法亦有離繫得。	有法有得彼法亦有離繫得。	There are dharmas that have acquisition and those dharmas also have the acquisition of disjunction.
+['T27n1545_158:0805a07_14']	謂有漏有情數法。	謂有漏有情數法。	Namely, impure dharmas belonging to sentient beings.
+['T27n1545_158:0805a08_2']	有法非有得。	有法非有得。	There are dharmas that do not have acquisition.
+['T27n1545_158:0805a08_11']	彼法亦非有離繫得。	彼法亦非有離繫得。	Those dharmas also do not have the acquisition of disjunction.
+['T27n1545_158:0805a08_17']	謂虛空無為。	謂虛空無為。	Namely, unconditioned space.
+['T27n1545_158:0805a09_11']	問若法無得彼法無離繫得耶。	問若法無得彼法無離繫得耶。	Question: If a dharma has no acquisition, does that dharma have no acquisition of disjunction?
+['T27n1545_158:0805a10_1']	設法無離繫得。	設法無離繫得。	If a dharma has no acquisition of disjunction,
+['T27n1545_158:0805a10_7']	彼法無得耶。	彼法無得耶。	does that dharma have no acquisition?
+['T27n1545_158:0805a10_13']	答應作四句。	答應作四句。	Answer: Four sentences should be made.
+['T27n1545_158:0805a11_4']	前第二句作此第一句。	前第二句作此第一句。	The second sentence above becomes the first sentence here.
+['T27n1545_158:0805a12_5']	前第一句作此第二句前第四句作此第三句。	前第一句作此第二句前第四句作此第三句。	The first sentence above becomes the second sentence here. The fourth sentence above becomes the third sentence here.
+['T27n1545_158:0805a12_15']	前第三句作此第四句。	前第三句作此第四句。	The third sentence above becomes the fourth sentence here.
+['T27n1545_158:0805a13_2']	如前應知。	如前應知。	It should be known as before.
+['T27n1545_158:0805a14_11']	問若法應修彼法得應修耶。	問若法應修彼法得應修耶。	Question: If a dharma should be cultivated, does that dharma have the acquisition of what should be cultivated?
+['T27n1545_158:0805a15_5']	設法得應修彼法應修耶。	設法得應修彼法應修耶。	If a dharma has the acquisition of what should be cultivated, does that dharma necessarily have what should be cultivated?
+['T27n1545_158:0805a15_17']	答若法應修彼法得亦應修。	答若法應修彼法得亦應修。	Answer: If a dharma should be cultivated, that dharma has the acquisition of what should be cultivated.
+['T27n1545_158:0805a16_5']	有法得應修。	有法得應修。	There are dharmas that have the acquisition of what should be cultivated.
+['T27n1545_158:0805a16_11']	彼法非應修。	彼法非應修。	Those dharmas do not necessarily have what should be cultivated.
+['T27n1545_158:0805a16_15']	謂擇滅。	謂擇滅。	Namely, cessation through discernment.
+['T27n1545_158:0805a17_2']	問若法應斷。	問若法應斷。	Question: If a dharma should be eliminated,
+['T27n1545_158:0805a17_9']	彼法得應斷耶。	彼法得應斷耶。	Are those dharmas to be abandoned?
+['T27n1545_158:0805a17_15']	設法得應斷。	設法得應斷。	If a dharma is to be abandoned,
+['T27n1545_158:0805a18_2']	彼法應斷耶。	彼法應斷耶。	is that dharma to be abandoned?
+['T27n1545_158:0805a19_2']	答若法應斷彼法得亦應斷有法得應斷。	答若法應斷彼法得亦應斷有法得應斷。	Answer: If a dharma is to be abandoned, its attainment is also to be abandoned. There are dharmas whose attainment is to be abandoned,
+['T27n1545_158:0805a19_11']	彼法非應斷謂擇滅。	彼法非應斷謂擇滅。	but that dharma is not to be abandoned, namely cessation through discernment.
+['T27n1545_158:0805a19_14']	一分。	一分。	One part,
+['T27n1545_158:0805a19_19']	及非擇滅。	及非擇滅。	and cessation not through discernment.
+['T27n1545_158:0805a20_5']	問若法應厭。	問若法應厭。	Question: If a dharma is to be detested,
+['T27n1545_158:0805a20_12']	彼法得應厭耶。	彼法得應厭耶。	is its attainment to be detested?
+['T27n1545_158:0805a20_18']	設法得應厭。	設法得應厭。	If a dharma's attainment is to be detested,
+['T27n1545_158:0805a21_5']	彼法應厭耶。	彼法應厭耶。	is that dharma to be detested?
+['T27n1545_158:0805a21_11']	答若法應厭。	答若法應厭。	Answer: If a dharma is to be detested,
+['T27n1545_158:0805a21_18']	彼法得亦應厭。	彼法得亦應厭。	its attainment is also to be detested.
+['T27n1545_158:0805a22_5']	有法得應厭。	有法得應厭。	There are dharmas whose attainment is to be detested,
+['T27n1545_158:0805a22_11']	彼法非應厭。	彼法非應厭。	but that dharma is not to be detested,
+['T27n1545_158:0805a22_17']	謂擇滅一分。	謂擇滅一分。	namely one part of cessation through discernment,
+['T27n1545_158:0805a23_3']	及非擇滅。	及非擇滅。	and cessation not through discernment.
+['T27n1545_158:0805a23_13']	問何故諸得隨所得法。	問何故諸得隨所得法。	Question: Why do the attainments follow the attained dharmas,
+['T27n1545_158:0805a24_6']	成善等性而不成色等耶。	成善等性而不成色等耶。	but not form, etc.?
+['T27n1545_158:0805a24_15']	答善等是諸法性類。	答善等是諸法性類。	Answer: Wholesomeness, etc. are the nature and type of dharmas.
+['T27n1545_158:0805a25_6']	諸法性類可相隨轉。	諸法性類可相隨轉。	The nature and type of dharmas can follow each other.
+['T27n1545_158:0805a25_14']	色等是諸法自體。	色等是諸法自體。	Form, etc. are the substance of dharmas.
+['T27n1545_158:0805a26_4']	諸法自體無相隨義。	諸法自體無相隨義。	The substance of dharmas has no meaning of following each other.
+['T27n1545_158:0805a26_7']	有說。	有說。	Some say:
+['T27n1545_158:0805a26_17']	善等是共相可隨而轉。	善等是共相可隨而轉。	Good, etc., are common characteristics that can be followed and transformed.
+['T27n1545_158:0805a27_8']	色等是自相無相隨義。	色等是自相無相隨義。	Form, etc., are specific characteristics without the meaning of following.
+['T27n1545_158:0805a28_4']	問何故諸得隨所得法定是善等。	問何故諸得隨所得法定是善等。	Why are all attainments definitely good, etc., according to the attained dharmas?
+['T27n1545_158:0805a28_16']	不隨所得法定是過去等耶。	不隨所得法定是過去等耶。	Are they not definitely past, etc., according to the attained dharmas?
+['T27n1545_158:0805a29_9']	答所得諸法行世不定故。	答所得諸法行世不定故。	The attained dharmas are not definite in their course through time,
+['T27n1545_158:0805a29_17']	能得得世亦不定。	能得得世亦不定。	but the attainments and their attainments are also indefinite in time.
+['T27n1545_158:0805b01_8']	所得諸法善等性定故。	所得諸法善等性定故。	The attained dharmas are definite in their nature as good, etc.,
+['T27n1545_158:0805b01_16']	能得得善等亦定。	能得得善等亦定。	so the attainments and their attainments are also definite as good, etc.
+['T27n1545_158:0805b02_5']	問諸得幾識所識。	問諸得幾識所識。	How many consciousnesses are the attainments cognized by?
+['T27n1545_158:0805b02_10']	幾智所知。	幾智所知。	How many knowledges do they know?
+['T27n1545_158:0805b03_1']	幾隨眠之所隨增耶。	幾隨眠之所隨增耶。	How many latent afflictions increase along with them?
+['T27n1545_158:0805b03_9']	答諸得一識所識。	答諸得一識所識。	The attainments are cognized by one consciousness,
+['T27n1545_158:0805b04_2']	謂意識法界法處行蘊攝故。	謂意識法界法處行蘊攝故。	namely mental consciousness, because they are included in the dharma realm and dharma base and the aggregate of mental activities.
+['T27n1545_158:0805b04_10']	八智所知除滅智。	八智所知除滅智。	They are known by eight knowledges, excluding the knowledge of cessation,
+['T27n1545_158:0805b05_4']	他心智以是有為不相應故。	他心智以是有為不相應故。	because the knowledge of others' minds is a conditioned non-associated [dharma].
+['T27n1545_158:0805b05_18']	三界五部有漏緣隨眠之所隨增。	三界五部有漏緣隨眠之所隨增。	The latent afflictions of the three realms and the five classes that take contaminated [dharmas] as their objects increase along with them.
+['T27n1545_158:0805b06_10']	以於得中無相應隨增故。	以於得中無相應隨增故。	Because there is no increase through association in the attainments.
+['T27n1545_158:0805b07_2']	問諸非得幾識所識。	問諸非得幾識所識。	How many consciousnesses are the non-attainments cognized by?
+['T27n1545_158:0805b07_7']	幾智所知。	幾智所知。	How many knowledges are they the objects of?
+['T27n1545_158:0805b07_16']	幾隨眠之所隨增耶。	幾隨眠之所隨增耶。	How many kinds of latent afflictions increase in response to them?
+['T27n1545_158:0805b08_6']	答諸非得一識所識。	答諸非得一識所識。	The non-acquisition of all dharmas is cognized by one kind of consciousness,
+['T27n1545_158:0805b08_10']	謂意識。	謂意識。	namely mental consciousness.
+['T27n1545_158:0805b09_1']	亦法界法處行蘊攝故。	亦法界法處行蘊攝故。	Because it is included in the dharma realm, dharma base, and formations aggregate.
+['T27n1545_158:0805b09_6']	七智所知。	七智所知。	It is the object of seven knowledges,
+['T27n1545_158:0805b09_15']	除滅智道智他心智。	除滅智道智他心智。	excluding the knowledge of cessation, knowledge of the path, and knowledge of others' minds.
+['T27n1545_158:0805b10_5', 'T27n1545_158:0805b10_11']	以是有漏不相應故。🔽三界修所斷。	以是有漏不相應故。 三界修所斷。	Because it is contaminated and not associated [with mind].🔽It increases in response to the latent afflictions of the three realms that are eliminated by cultivation,
+['T27n1545_158:0805b11_3']	及諸遍行隨眠之所隨增。	及諸遍行隨眠之所隨增。	and to the universal latent afflictions.
+['T27n1545_158:0805b11_12']	以非得唯修所斷故。	以非得唯修所斷故。	Because non-acquisition is only eliminated by cultivation.
+['T27n1545_158:0805b12_6']	問頗有捨得而不得非得耶。	問頗有捨得而不得非得耶。	Are there cases where one abandons acquisition but does not obtain non-acquisition?
+['T27n1545_158:0805b12_9']	答有。	答有。	The answer is: There are.
+['T27n1545_158:0805b12_17']	謂入無餘涅槃時。	謂入無餘涅槃時。	When entering nirvāṇa without remainder,
+['T27n1545_158:0805b13_13']	捨諸法得而不得非得所依斷故。	捨諸法得而不得非得所依斷故。	one abandons the acquisition of all dharmas but does not obtain the non-acquisition, because the basis is eliminated.
+['T27n1545_158:0805b14_6']	問頗有諸法先起非得。	問頗有諸法先起非得。	Are there any dharmas where non-acquisition arises first,
+['T27n1545_158:0805b14_17']	一得以去更不起非得耶。	一得以去更不起非得耶。	and then, with the attainment of one acquisition, non-acquisition never arises again?
+['T27n1545_158:0805b15_2']	答有。	答有。	The answer is: There are.
+['T27n1545_158:0805b15_8']	謂諸非擇滅。	謂諸非擇滅。	They are the non-analytical cessation,
+['T27n1545_158:0805b15_14']	及無生智等。	及無生智等。	and the knowledge of non-arising, etc.
+['T27n1545_158:0805b16_10']	一得以去乃至無餘涅槃前恒成就故。	一得以去乃至無餘涅槃前恒成就故。	Because, with the attainment of one acquisition, one always possesses them until nirvāṇa without remainder.
+['T27n1545_158:0805b17_6']	問頗有諸法本來有得無非得耶。	問頗有諸法本來有得無非得耶。	Question: Are there any dharmas that originally have attainment but not non-attainment?
+['T27n1545_158:0805b17_10']	有說無。	有說無。	Some say no.
+['T27n1545_158:0805b18_2']	以有得者必有非得故。	以有得者必有非得故。	Because if there is attainment, there must also be non-attainment.
+['T27n1545_158:0805b18_5']	有說。	有說。	Some say.
+['T27n1545_158:0805b18_7']	有。	有。	There are.
+['T27n1545_158:0805b18_17']	如三類智邊世俗智等。	如三類智邊世俗智等。	Such as the worldly cognition at the edge of the cognition of the three classes.
+['T27n1545_158:0805b19_10']	非擇滅法本來有得無有非得。	非擇滅法本來有得無有非得。	The dharma of non-discernment originally has attainment but does not have non-attainment.
+['T27n1545_158:0805b20_2']	以彼本來定不生故。	以彼本來定不生故。	Because it originally definitely does not arise.
+['T27n1545_158:0805b21_13']	問如有一得能得彼法及得得亦有一非得能捨彼法及非得非得耶。	問如有一得能得彼法及得得亦有一非得能捨彼法及非得非得耶。	Question: Is there a single attainment that can attain that dharma and also attain the attainment, and is there a single non-attainment that can abandon that dharma and also the non-attainment of non-attainment?
+['T27n1545_158:0805b21_16']	答無。	答無。	Answer: No.
+['T27n1545_158:0805b22_10']	以非得同時無非得非得故。	以非得同時無非得非得故。	Because at the same time as non-attainment, there is no non-attainment of non-attainment.
+['T27n1545_158:0805b23_2']	以現在非得必成就故。	以現在非得必成就故。	Because present non-attainment must be accomplished.
+['T27n1545_158:0805b23_12']	問頗有法無得無非得。	問頗有法無得無非得。	Question: Are there any dharmas without attainment or non-attainment,
+['T27n1545_158:0805b24_4']	彼法滅有得有非得耶。	彼法滅有得有非得耶。	and when those dharmas cease, do they have attainment and non-attainment?
+['T27n1545_158:0805b24_7']	答有。	答有。	Answer: Yes.
+['T27n1545_158:0805b24_16']	謂一切非有情數法。	謂一切非有情數法。	Namely, all dharmas that are not sentient beings.🔽Here is the corrected and aligned text:
+['T27n1545_158:0805b26_100']	說一切有部發智大毘婆沙論卷第一百五十八	說一切有部發智大毘婆沙論卷第一百五十八	Sarvâstivāda Abhidharma-mahāvibhāṣā-śāstra, fascicle 158
