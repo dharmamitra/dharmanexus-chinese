@@ -7,9 +7,28 @@
     "collection": "Taisho-2",
     "displayName": "大正新脩大藏經 Taishō Tripiṭaka 2"
   },
-    {
+  {
     "collection": "Shinsan",
     "displayName": "卍新纂大日本續藏經 Manji Shinsan Dainihon Zokuzōkyō"
+  },
+  {
+    "collection": "KR1",
+    "displayName": "漢籍 Kanripo Classics 經部"
+  },
+  {
+    "collection": "KR2",
+    "displayName": "漢籍 Kanripo History 史部"
+  },
+  {
+    "collection": "KR3",
+    "displayName": "漢籍 Kanripo Masters 子部"
+  },
+  {
+    "collection": "KR4",
+    "displayName": "漢籍 Kanripo Collections 集部"
+  },
+  {
+    "collection": "KR5",
+    "displayName": "漢籍 Kanripo Daoist Canon 道部"
   }
-
 ]

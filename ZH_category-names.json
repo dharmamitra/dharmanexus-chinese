@@ -566,5 +566,229 @@
   {
     "category": "X88",
     "displayName": "史傳部"
+  },
+  {
+    "category": "KR1a",
+    "displayName": "易類"
+  },
+  {
+    "category": "KR1b",
+    "displayName": "書類"
+  },
+  {
+    "category": "KR1c",
+    "displayName": "詩類"
+  },
+  {
+    "category": "KR1d",
+    "displayName": "禮類"
+  },
+  {
+    "category": "KR1e",
+    "displayName": "春秋類"
+  },
+  {
+    "category": "KR1f",
+    "displayName": "孝經類"
+  },
+  {
+    "category": "KR1g",
+    "displayName": "五經總義類"
+  },
+  {
+    "category": "KR1h",
+    "displayName": "四書類"
+  },
+  {
+    "category": "KR1i",
+    "displayName": "樂類"
+  },
+  {
+    "category": "KR1j",
+    "displayName": "小學類"
+  },
+  {
+    "category": "KR2a",
+    "displayName": "正史類"
+  },
+  {
+    "category": "KR2b",
+    "displayName": "編年類"
+  },
+  {
+    "category": "KR2c",
+    "displayName": "紀事本末類"
+  },
+  {
+    "category": "KR2d",
+    "displayName": "別史類"
+  },
+  {
+    "category": "KR2e",
+    "displayName": "雜史類"
+  },
+  {
+    "category": "KR2f",
+    "displayName": "詔令奏議類"
+  },
+  {
+    "category": "KR2g",
+    "displayName": "傳記類"
+  },
+  {
+    "category": "KR2h",
+    "displayName": "史鈔類"
+  },
+  {
+    "category": "KR2i",
+    "displayName": "載記類"
+  },
+  {
+    "category": "KR2j",
+    "displayName": "時令類"
+  },
+  {
+    "category": "KR2k",
+    "displayName": "地理類"
+  },
+  {
+    "category": "KR2l",
+    "displayName": "職官類"
+  },
+  {
+    "category": "KR2m",
+    "displayName": "政書類"
+  },
+  {
+    "category": "KR2n",
+    "displayName": "目錄類"
+  },
+  {
+    "category": "KR2o",
+    "displayName": "史評類"
+  },
+  {
+    "category": "KR2p",
+    "displayName": "史部其他"
+  },
+  {
+    "category": "KR3a",
+    "displayName": "儒家類"
+  },
+  {
+    "category": "KR3b",
+    "displayName": "兵家類"
+  },
+  {
+    "category": "KR3c",
+    "displayName": "法家類"
+  },
+  {
+    "category": "KR3d",
+    "displayName": "農家類"
+  },
+  {
+    "category": "KR3e",
+    "displayName": "醫家類"
+  },
+  {
+    "category": "KR3f",
+    "displayName": "天文算法類"
+  },
+  {
+    "category": "KR3g",
+    "displayName": "術數類"
+  },
+  {
+    "category": "KR3h",
+    "displayName": "藝術類"
+  },
+  {
+    "category": "KR3i",
+    "displayName": "譜錄類"
+  },
+  {
+    "category": "KR3j",
+    "displayName": "雜家類"
+  },
+  {
+    "category": "KR3k",
+    "displayName": "類書類"
+  },
+  {
+    "category": "KR3l",
+    "displayName": "小說家類"
+  },
+  {
+    "category": "KR4a",
+    "displayName": "楚辭類"
+  },
+  {
+    "category": "KR4b",
+    "displayName": "別集類漢六朝"
+  },
+  {
+    "category": "KR4c",
+    "displayName": "別集類唐"
+  },
+  {
+    "category": "KR4d",
+    "displayName": "別集類宋"
+  },
+  {
+    "category": "KR4e",
+    "displayName": "別集類明"
+  },
+  {
+    "category": "KR4f",
+    "displayName": "別集類清"
+  },
+  {
+    "category": "KR4h",
+    "displayName": "總集類"
+  },
+  {
+    "category": "KR4i",
+    "displayName": "詩文評類"
+  },
+  {
+    "category": "KR4j",
+    "displayName": "詞曲類"
+  },
+  {
+    "category": "KR5a",
+    "displayName": "洞真部"
+  },
+  {
+    "category": "KR5b",
+    "displayName": "洞玄部"
+  },
+  {
+    "category": "KR5c",
+    "displayName": "洞神部"
+  },
+  {
+    "category": "KR5d",
+    "displayName": "太玄部"
+  },
+  {
+    "category": "KR5e",
+    "displayName": "太平部"
+  },
+  {
+    "category": "KR5f",
+    "displayName": "太清部"
+  },
+  {
+    "category": "KR5g",
+    "displayName": "正一部"
+  },
+  {
+    "category": "KR5h",
+    "displayName": "續道藏"
+  },
+  {
+    "category": "KR5i",
+    "displayName": "清代道教文獻"
   }
 ]
