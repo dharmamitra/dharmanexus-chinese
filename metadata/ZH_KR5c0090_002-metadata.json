@@ -1,0 +1,11 @@
+{
+  "displayName": "玄經原旨發揮--杜道堅",
+  "textname": "ZH_KR5c0090",
+  "category": "KR5c",
+  "filenr": 3,
+  "collection": "KR5",
+  "filename": "ZH_KR5c0090_002",
+  "raw_metadata": "# 玄經原旨發揮--杜道堅\n\n**ID:** KR5c0090\n**Custom ID:** ZB5c0087\n\n## Authors / Editors\n- 杜道堅\n\n**Editions:** SJB, ZHDZ\n\n## Summary (Ask Bunkankun 聞分館君)\n\nIsabelle Robinet's notice in Schipper & Verellen eds., *The Taoist Canon* (2004, 2:1826–27, DZ 703) gives the authoritative modern framing.\n\n**Abstract**\n\nThe *Fā huī* is a distinctive contribution to **Yuán-era Daoist systematic philosophy**. Where the main commentary (DZ 702) provides running exposition, the *Fā huī* provides the **systematising framework** — enabling the reader to see the philosophical structure beneath the 81-chapter sequence of the base text. Together, the two works constitute one of the most ambitious early-Yuán projects to treat the *Dàodé jīng* as a coherent scholastic philosophical system rather than as a collection of aphoristic maxims.\n\n**Dating.** Dated 1306 — one year after the parent commentary. Per the project's dating rule, the frontmatter gives **1306** as the composition year. Dynasty: 元.\n\n**Relation to the parent commentary.** The commentedTextid in the frontmatter is set to **[KR5c0089](https://ask.bunkankun.org/KR5/KR5c/KR5c0089)** — the *Fā huī* comments on (and elaborates) Dù Dàojiān's own *Dàodé xuán jīng yuán zhǐ*. An argument could be made for setting commentedTextid to [KR5c0045](https://ask.bunkankun.org/KR5/KR5c/KR5c0045) (the base *Dàodé zhēn jīng*), since the *Fā huī*'s ultimate object is the *Lǎozǐ* itself; but the textual-genealogical relationship is more directly to DZ 702 (the author's own prior commentary), which the *Fā huī* is explicitly designed to complement.\n\n*Source: [Ask Bunkankun 聞分館君](https://ask.bunkankun.org) by Christian Wittern, an AI-generated annotated catalog of the Kanseki Repository ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)). Full entry with bibliography and further notes: [KR5c0090](https://ask.bunkankun.org/KR5/KR5c/KR5c0090). Read critically: the notes are machine-generated and may contain errors.*",
+  "bunkankun_id": "KR5c0090",
+  "bunkankun_link": "https://ask.bunkankun.org/KR5/KR5c/KR5c0090"
+}

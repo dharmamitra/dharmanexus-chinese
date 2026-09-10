@@ -1,0 +1,13 @@
+{
+  "displayName": "金剛經疏",
+  "textname": "ZH_T85_2737",
+  "old_filename": "T85n2737_001",
+  "category": "T85",
+  "filenr": 8769,
+  "collection": "Taisho-2",
+  "filename": "ZH_T85_2737_001",
+  "raw_metadata": "# 金剛經疏\n\n**ID:** T2737\n**Volume:** T85\n**Category:** 般若部類,敦煌寫本部類\n**Original Category:** 古逸部\n**Juans:** 1\n**CBETA:** https://cbetaonline.dila.edu.tw/zh/T2737\n\n## Summary (Ask Bunkankun 聞分館君)\n\nAn **anonymous one-juan *Vajracchedikā* commentary** recovered from the **Dūnhuáng cache** and preserved as T85 no. 2737. Authorship is not preserved either in the manuscript itself or in catalog tradition; the catalog meta accordingly lists no `persons` field. The text breaks off mid-passage at the surviving fragment's boundaries, suggesting it is a partial witness of a longer original work. *notBefore* / *notAfter* set very broadly (**600–900**) since neither author nor date is established; Sui-Táng provenance is generally assumed for Dūnhuáng *Vajracchedikā* commentary manuscripts. Catalog dynasty 唐.\n\n**Abstract**\n\nThe surviving fragment opens in the middle of the commentary on the **second-fruit (Skt. *sakṛdāgāmin*)** passage of the sūtra: *Sùpútí, yú yì yún hé, sītuóhán néng zuò shì niàn, wǒ dé sītuóhán guǒ bù?* (Section 9 of the Liáng Zhāomíng division). The commentator parses the sūtra as a sequence of *Sùpútí*'s questions and the Buddha's responses, with each *fruit* (*xūtuóhuán*, *sītuóhán*, *ānuóhán*, *āluóhàn*) treated separately. The annotation is structural-doctrinal in the standard mid-Táng manner, using the *Sìfēn lǜ* schema for the four fruits and indexing each to the corresponding *fánnǎo* (afflictions) cut by it (*sītuóhán* = *bó tānchēn* 薄貪嗔, the diminishing of greed-anger, etc.). The work is one of three undated and anonymous Dūnhuáng *Jīngāng jīng shū* in T85 (cf. [KR6c0110](https://ask.bunkankun.org/KR6/KR6c/KR6c0110) T85 no. 2738; [KR6c0111](https://ask.bunkankun.org/KR6/KR6c/KR6c0111) T85 no. 2739, the latter an *interlinear annotation* edition).\n\n*Source: [Ask Bunkankun 聞分館君](https://ask.bunkankun.org) by Christian Wittern, an AI-generated annotated catalog of the Kanseki Repository ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)). Full entry with bibliography and further notes: [KR6c0109](https://ask.bunkankun.org/KR6/KR6c/KR6c0109). Read critically: the notes are machine-generated and may contain errors.*",
+  "cbeta_link": "https://cbetaonline.dila.edu.tw/zh/T2737",
+  "bunkankun_id": "KR6c0109",
+  "bunkankun_link": "https://ask.bunkankun.org/KR6/KR6c/KR6c0109"
+}
