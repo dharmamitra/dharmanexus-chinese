@@ -8,6 +8,9 @@ For ZH_T* and ZH_X* entries: build a markdown block from CBETA metadata at
 import json
 import os
 import re
+import sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from linkify_metadata import fix as _linkify  # bare URLs -> links, hard line breaks (2026-11-21)
 
 CHINESE_FILES = "/home/sebastian/data/dharmanexus-chinese/ZH_files.json"
 KANRIPO_FILES = "/home/sebastian/data/dharmanexus-kanripo/ZH_files.json"
@@ -88,7 +91,7 @@ def main() -> None:
         if filename.startswith("ZH_KR"):
             md = kanripo_meta.get(filename)
             if md:
-                entry["raw_metadata"] = md
+                entry["raw_metadata"] = _linkify(md)[0]
                 counts["kr"] += 1
             else:
                 counts["missing"] += 1
@@ -98,7 +101,7 @@ def main() -> None:
                 counts["missing"] += 1
                 continue
             if work_id in cbeta_md_cache:
-                entry["raw_metadata"] = cbeta_md_cache[work_id]
+                entry["raw_metadata"] = _linkify(cbeta_md_cache[work_id])[0]
             else:
                 table = t_meta if work_id.startswith("T") else x_meta
                 meta = table.get(work_id)
@@ -107,7 +110,7 @@ def main() -> None:
                     continue
                 md = build_cbeta_markdown(work_id, meta)
                 cbeta_md_cache[work_id] = md
-                entry["raw_metadata"] = md
+                entry["raw_metadata"] = _linkify(md)[0]
             entry["cbeta_link"] = CBETA_URL.format(work_id=work_id)
             counts["t" if work_id.startswith("T") else "x"] += 1
         else:

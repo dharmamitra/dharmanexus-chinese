@@ -30,6 +30,8 @@ import re
 import sys
 import urllib.parse
 from collections import Counter, defaultdict
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from linkify_metadata import fix as _linkify  # bare URLs -> links, hard line breaks (2026-11-21)
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 CHINESE_FILES = os.path.join(HERE, "..", "ZH_files.json")
@@ -278,11 +280,11 @@ def main():
         if tid is None:
             if stage != "matched-empty":
                 unmatched_texts.add(tkey)
-            e["raw_metadata"] = base
+            e["raw_metadata"] = _linkify(base)[0]
         else:
             used[tid].add(tkey)
             section = build_section(tid, notes[tid])
-            e["raw_metadata"] = (base + "\n\n" + section) if base else section
+            e["raw_metadata"] = _linkify((base + "\n\n" + section) if base else section)[0]
             e["bunkankun_id"] = tid
             e["bunkankun_link"] = text_url(tid)
             added_bytes += len(section.encode("utf-8"))
