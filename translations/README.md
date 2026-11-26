@@ -33,6 +33,8 @@ in segment order:
   end, and at 400 characters (150 for Chinese).
 - **Alignment:** each window's English is split back onto its segments with the
   `mitra-qwen35-2b-embedder-sentence-alignment` model. The search is exact within the window.
+- **Scope (Chinese):** the Taishō canon only (`ZH_T*`, 2,921 texts). The Kanseki Repository
+  (`ZH_KR*`) and Xuzangjing (`ZH_X*`) texts are not translated.
 - **Quality:** these are unreviewed machine translations. In the D4064 pilot review (MQM), the
   main errors were in Tibetan case-particle parsing.
 
