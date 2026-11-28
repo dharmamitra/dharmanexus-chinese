@@ -31,10 +31,11 @@ in segment order:
 - **Serving:** vLLM with fp8 weights and fp8 KV cache, temperature 0.2.
 - **Chunking:** texts are translated in windows of 1–3 segments. A window closes at a sentence
   end, and at 400 characters (150 for Chinese).
-- **Alignment:** each window's English is split back onto its segments with the
-  `mitra-qwen35-2b-embedder-sentence-alignment` model. The search is exact within the window.
-- **Scope (Chinese):** the Taishō canon only (`ZH_T*`, 2,921 texts). The Kanseki Repository
-  (`ZH_KR*`) and Xuzangjing (`ZH_X*`) texts are not translated.
+- **Alignment:** each window's English is split back onto its segments by an exact search over
+  the window that combines a Gale–Church-style length model with dictionary-based word
+  alignment probabilities.
+- **Scope (Chinese):** the Taishō canon (`ZH_T*`) and the Manji Shinsan Zokuzōkyō / Xuzangjing
+  (`ZH_X*`). The Kanseki Repository (`ZH_KR*`) texts are not translated.
 - **Quality:** these are unreviewed machine translations. In the D4064 pilot review (MQM), the
   main errors were in Tibetan case-particle parsing.
 
